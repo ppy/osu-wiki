@@ -1,5 +1,5 @@
 # Difficulty Naming
-
+	
 The purpose of difficulty naming is telling players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive, you may use any desired kind of scheme. 
 
 ## Default	
@@ -40,7 +40,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 - ![MX](/wiki/shared/diff/insane-m.png "NX") MX
 - ![SC](/wiki/shared/diff/expert-m.png "SC") SC
 
-## Songs from other Rhythm Games
+## Songs from other rhythm games
 
 This subsection shows the **scaling** difficulty names for mapsets of songs that come from other rhythm games. Using said rhythm game's style of difficulty naming is acceptable.
 
@@ -77,9 +77,9 @@ Abbreviations on this particular difficulty naming scheme are acceptable (e.g. N
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
 
-## Songs from other Games
+## Songs from other games
 
-### Touhou Project *(東方Project)*
+### Touhou Project (東方Project)
 
 Difficulty spread inspired by Touhou Project (東方Project in Japanese), including any individual game from the project.
 
@@ -87,7 +87,7 @@ The difficulty spread would follow the Default difficulty naming scheme, with th
 
 - ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Lunatic
 
-## Widely Accepted Alternatives 
+## Widely accepted alternatives 
 
 The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
 
