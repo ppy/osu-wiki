@@ -50,7 +50,7 @@ osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimi
 |-----------------------------------------------|-------------|-------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)    | 01/07/2014  | 14/09/2014  | 4K   | ![][flag_KR] Korea Południowa          | ![][flag_PH] Filipiny                    | ![][flag_MY] Malezja                     |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)    | 01/07/2014  | 14/09/2014  | 7K   | ![][flag_KR] Korea Południowa          | ![][flag_TH] Tajlandia                   | ![][flag_MY] Malezja                     |
-| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015/4K) | 13/07/2015  | 27/09/2015  | 4K   | ![][flag_US] Stany Zjednoczone         | ![][flag_JP] Japonia                     | ![][flag_GB] UK                          |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015  | 27/09/2015  | 4K   | ![][flag_US] Stany Zjednoczone         | ![][flag_JP] Japonia                     | ![][flag_GB] UK                          |
 | [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 01/12/2015  | 14/02/2016  | 7K   | ![][flag_CN] Chiny                     | ![][flag_KR] Korea Południowa            | ![][flag_MY] Malezja                     |
 
 Społeczność

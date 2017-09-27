@@ -1,12 +1,12 @@
-[Ns]: /wiki/shared/Na-s.png "No"
-[Nt]: /wiki/shared/Na-t.png "No"
-[Nf]: /wiki/shared/Na-f.png "No"
-[Nm]: /wiki/shared/Na-m.png "No"
+[Ns]: /wiki/shared/diff/na-s.png "No"
+[Nt]: /wiki/shared/diff/na-t.png "No"
+[Nf]: /wiki/shared/diff/na-c.png "No"
+[Nm]: /wiki/shared/diff/na-m.png "No"
 
-[Ys]: /wiki/shared/Insane-s.png "Yes"
-[Yt]: /wiki/shared/Insane-t.png "Yes"
-[Yf]: /wiki/shared/Insane-f.png "Yes"
-[Ym]: /wiki/shared/Insane-m.png "Yes"
+[Ys]: /wiki/shared/diff/insane-s.png "Yes"
+[Yt]: /wiki/shared/diff/insane-t.png "Yes"
+[Yf]: /wiki/shared/diff/insane-c.png "Yes"
+[Ym]: /wiki/shared/diff/insane-m.png "Yes"
 
 Quality Assurance Team
 ======================
@@ -24,7 +24,6 @@ Link to [user group page](https://osu.ppy.sh/g/7)
 
 | Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Additional Languages       |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------|
-| [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese, some French      |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                            |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish, German            |
