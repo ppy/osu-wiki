@@ -8,6 +8,10 @@ Throughout the years, the osu!community has adopted its own set of slang that ma
 
 If the name is not obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we do not really need in here." When a thread is or is said to be "wastelanded", it is moved there.
 
+### Accuracy
+
+A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Sometimes shortened to _Acc_.
+
 ### AFK
 
 AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. _osu!_ will mark users as "Idle" if they have been inactive for some time.
@@ -90,6 +94,14 @@ You can usually check to see the audio file's bit rate by checking the file prop
 ### BG
 
 BG is short for _background_. BG refers to the background image and/or video of a beatmap. Inside a beatmap folder, BG (sometimes stylized as _bg_) is usually the name for the background image.
+
+### Blanket
+
+A mapping term to describe when a slider covers the shape of another object. A guide to making them can be found [here](/wiki/Mapping_Techniques/Making_Good_Sliders#Beat-Blankets)
+
+### BN
+
+Short for _Beatmap Nominator_, a member of the [Beatmap Nomination Group](/wiki/people/Beatmap_Nomination_Group).
 
 ### BPM
 
@@ -247,18 +259,13 @@ Maps with very long drain times are typically referred to as [marathon](/wiki/ma
 
 Maps must have at least 45 seconds of drain time be considered rankable.
 
-### Drop
+### Drop and Droplet
 
-A drop is an osu!catch element that gives a score of 100.
-It is the equivalent to the slider tick in [osu!standard](/wiki/osu!standard).
+A Drop is an osu!catch element that gives a score of 100, equivalent to slider ticks in osu!standard, while Droplets give a score of 10, equivalent to the slider track in osu!standard.
 
-The difference between drops and [droplets](/wiki/droplet) is that a drop is twice as big as droplets are.
+Missing a Drop breaks the player's combo, but missing a Droplet does not.
 
-### Droplet
-
-A droplet is an osu!catch element that gives a score of 10. It is the equivalent to the slider track in osu!standard.
-
-The difference between [drops](/wiki/drop) and droplets is that a droplet is half as big as drops are.
+The visual difference between Drops and Droplets is that a Drop is twice as big as Droplets are.
 
 ### DS
 
@@ -315,6 +322,12 @@ Geki(激), or _Elite Beat!_, is a scoring term used when you complete a [combose
 A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap. It accompanies the total score at the result screen and appears in all lists where scores appear.
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
+
+### Graveyard
+
+A subforum for beatmaps that were abandoned. Graveyarded maps do not count towards a user's total upload limit. The owner may revive them on their profile, which sends them back to being a Work in Progress. This requires having a free pending slot.
+
+Beatmaps that are not updated or receive no posts from their owner for 28 days will be automatically sent to the Graveyard.
 
 ### Grid Snapping
 
@@ -443,6 +456,10 @@ You can change your local song offset by pressing:
 
 If you play a beatmap that has a local song offset, _osu!_ will tell you that there the previous offset will be used.
 
+### Loved
+
+A state of ranking for beatmaps that don't follow the [ranking criteria](/wiki/Ranking_Criteria) and are therefore unrankable, but are considered popular enough to deserve their own leaderboards. Loved beatmaps contribute to a user's total playcount, but does not contribute to their performance points.
+
 ### Looping
 
 From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain_time) **must** be at least 30 seconds. If your audio clip is shorter than that, you *should* loop it.
@@ -479,7 +496,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 ### Modder
 
-A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums).
+A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [_modding_](/wiki/modding), and the posts are referred to as _mods_.
 
 Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
 
@@ -491,6 +508,13 @@ NC has two meanings:
 
 1. short for _new combo_, a modding term to suggest that a beat needs to be the start of a new combo
 2. an abbreviation for the [Nightcore mod](/wiki/Nightcore), a variant of the [Double Time](/wiki/Double_Time) mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
+
+### NM
+
+NM has two meanings:
+
+1. short of _NoMod_, used to describe when a player does not enable any [game modifiers](/wiki/Game_Modifiers).
+2. an abbreviation for Normal, used as [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_Modes/osu!mania) beatmaps.
 
 ### Nuke
 
@@ -599,12 +623,22 @@ He is the creator of the _osu!_ project and its primary developer.
 Play time is the total duration of a beatmap.
 This includes the lead-in time and the break time(s).
 
+### pp
+
+Short for [_performance points_](/wiki/Performance_Points). The main ranking metric of the game.
+
 ### puush
 
 puush is a screen capturing and file uploading application developed by peppy.
 puush is a successor of sorts to upppy which is commonly used to upload and share images in _osu!_
 
 For more information about puush, see [puush / home](https://puush.me).
+
+## Q
+
+### QAT
+
+Short for [_Quality Assurance Team_](/wiki/People/Quality_Assurance_Team). Used to refer to the group itself or one of its members.
 
 ## R
 

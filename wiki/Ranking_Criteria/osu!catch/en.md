@@ -12,11 +12,11 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 
 ### Difficulty Names
 
--   ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") **Cup**. Easy
--   ![Normal icon](/wiki/shared/Normal-f.png "Normal icon") **Salad**. Normal
--   ![Hard icon](/wiki/shared/Hard-f.png "Hard icon") **Platter**. Hard
--   ![Insane icon](/wiki/shared/Insane-f.png "Insane icon") **Rain**. Insane
--   ![Expert icon](/wiki/shared/Expert-f.png "Expert icon") **Overdose**. Expert
+-   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**. Easy
+-   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**. Normal
+-   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**. Hard
+-   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**. Insane
+-   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**. Expert
 
 ### Gameplay
 
@@ -28,6 +28,7 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 -   **Hyperjump:** A more exaggerated spacing which cannot be caught by normal dashing. During play, hyperdash will be triggered between the two objects, characterised by a coloured outline on the first object.
 -   **Edge Dash:** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 -   **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
+-   **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
 
 ------------------------------------------------------------------------
 
@@ -72,7 +73,7 @@ Difficulty-specific
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
-### ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") Cup
+### ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") Cup
 
 #### Rules
 
@@ -90,11 +91,12 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be 4 or less
 -   Circle Size should be between 2-3
 
-### ![Normal icon](/wiki/shared/Normal-f.png "Normal icon") Salad
+### ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") Salad
 
 #### Rules
 
 -   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players. Difficulties may make use of basic (1/1, 1/2) regular dashing, although no type of dash can be used more than twice consecutively.
+-   **Higher snapped dashes may be used singularly (not in conjunction with other dashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed under 160 BPM whereas 1/4 dashes would be allowed under 120 BPM.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 -   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/2 bar
@@ -105,16 +107,16 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 -   Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
--   1/2 dashes may be used in pairs, 1/3 and 1/4 dashes singularly (not in conjunction with other dashes) if the BPM is less than 120.
 -   Approach Rate / Overall Difficulty should be between 6-7
 -   HP drain should be between 4-5
 -   Circle Size should be between 2.5-3.5
 
-### ![Hard icon](/wiki/shared/Hard-f.png "Hard icon") Platter
+### ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") Platter
 
 #### Rules
 
--   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used. 1/3 and 1/4 hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the BPM is less than 120.
+-   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. with a distance snap of 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used.
+-   **Higher snapped hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed under 160 BPM whereas 1/4 hyperdashes would be allowed under 120 BPM.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/4 bar
@@ -130,11 +132,12 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 5-6
 -   Circle Size should be between 3-4
 
-### ![Insane icon](/wiki/shared/Insane-f.png "Insane icon") Rain
+### ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") Rain
 
 #### Rules
 
 -   **More complex hyperdashes (1/3, 1/4) may begin to appear, but no type of hyperdash can be used between more than four consecutive objects.** Additionally, hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive objects.
+-   **Higher snapped hyperdashes may be used singularily, if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed under 160 BPM whereas 1/8 hyperdashes would be allowed under 120 BPM.
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/4 bar
     -   BPM &lt; 240 - 1/2 bar
@@ -145,13 +148,12 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 -   Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
--   1/6 and 1/8 hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the BPM is less than 120.
 -   Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).
 -   Approach Rate/Overall Difficulty should be between 7-9
 -   HP drain should be between 6-7
 -   Circle Size should be between 3-5
 
-### ![Expert icon](/wiki/shared/Expert-f.png "Expert icon") Overdose
+### ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") Overdose
 
 #### Rules
 

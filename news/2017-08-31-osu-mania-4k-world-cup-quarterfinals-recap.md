@@ -10,14 +10,14 @@ This week, we’re gonna try switching up the recap format to something a little
 
 ### Navigation
 
-[Mappool](#mappool)</br>[Tournament Matches](#tournament_matches)</br>[Looking Ahead](#looking_ahead)
+<a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
 
 --------
-The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 
+The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winners and Losers Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 
 
 Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. Without further ado, let's get right into the recap!
 
-## Mappool<a name="mappool"></a>
+## <a name="mappool" id="mappool"></a>Mappool
 
 **This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance. 
 
@@ -33,7 +33,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 [Blue Stahli - Shotgun Senorita (Zardonic Remix)](https://osu.ppy.sh/beatmapsets/631861#mania/1341515) and [Akira Complex - Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/519513#mania/1103630) both made appearances in 6 matches. The former was a devilishly tricky map featuring many long note patterns, while the latter was very technically demanding, requiring high accuracy. As a result of this, both maps were understandably banned 4 times each. Finally, [Maika - Goldrop](https://osu.ppy.sh/beatmapsets/587117#mania/1243241) received the least attention, being picked only once across all the matches.
 
-## Tournament Matches<a name="tournament_matches"></a></br>
+## <a name="matches" id="matches"></a>Tournament Matches
 
 ### Saturday:
 
@@ -67,11 +67,11 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
-That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapore, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Loser's Bracket. 
+That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapore, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Losers Bracket. 
 
 Good luck to all the remaining teams in this tournament!
 
-## Looking Ahead: Semifinals<a name="looking_ahead"></a>
+## <a name="ahead" id="ahead"></a>Looking Ahead: Semifinals
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek at the upcoming matches in the semifinals stage:
   
@@ -79,11 +79,11 @@ Three weeks in, and already we've whittled 32 potential teams down to a hardy 12
 
 Our first matchup will see Brazil facing off against South Korea. South Korea is definitely a crowd favourite, but Brazil may have a trick or two up their sleeve. The second match will see United States squaring off against Chile. This match is definitely one to look out for, as it will almost certainly be quite a bit closer.  
 
-### Loser's Bracket:
+### Losers Bracket:
 
-Over in the upper part of the Loser's Bracket, we have China vs. France. This is definitely a match you don't want to miss, as it will be a rematch between the two teams from Group Stage! Will China be able to exact their revenge, or will France score yet another victory? The other match we have here is United Kingdom vs. Canada. The respective winners of these two matches will then face each other.
+Over in the upper part of the Losers Bracket, we have China vs. France. This is definitely a match you don't want to miss, as it will be a rematch between the two teams from Group Stage! Will China be able to exact their revenge, or will France score yet another victory? The other match we have here is United Kingdom vs. Canada. The respective winners of these two matches will then face each other.
 
-Meanwhile, the lower part of the Loser's Bracket will first see Sweden vs. Japan. This too will definitely be a close match as both teams have proven to be suprisingly strong. Poland vs. Indonesia will be the last determined match of this stage. This match also promises to be an exciting one, and will definitely turn your head upside down! Like before, the winner of these two matches will face each other on Sunday.
+Meanwhile, the lower part of the Losers Bracket will first see Sweden vs. Japan. This too will definitely be a close match as both teams have proven to be suprisingly strong. Poland vs. Indonesia will be the last determined match of this stage. This match also promises to be an exciting one, and will definitely turn your head upside down! Like before, the winner of these two matches will face each other on Sunday.
 
 --------
 

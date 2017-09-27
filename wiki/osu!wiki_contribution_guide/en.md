@@ -1,5 +1,5 @@
 <!-- Internal -->
-[ASG]: /wiki/Article_Style_Guide "Article Style Guide"
+[ASC]: /wiki/Article_Styling_Criteria "Article Styling Criteria"
 [GitHub osu-wiki]: https://github.com/ppy/osu-wiki "osu-wiki in GitHub"
 [GH Issue]: https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page"
 
@@ -53,7 +53,7 @@ If you have previous experience in using GitHub, feel free to skip this guide an
 
 For complete reference and help with using GitHub, please visit [GitHub Help][GitHub Help].
 
-For a styling guide when writing a page, check out [Article Style Guide][ASG] instead.
+For the styling guide when writing a page, check out [Article Styling Criteria][ASC] instead.
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
 
@@ -835,7 +835,7 @@ With GFM, we can also use:
 
 While Markdown and GFM _does_ support a few HTML tags in GitHub, osu!wiki articles will not be using them.
 
-For further information on a styling guide when writing a page, check out [Article Style Guide][ASG].
+For further information on a styling guide when writing a page, check out [Article Styling Criteria][ASC].
 
 ### Why does the file I uploaded not load on the osu!wiki?
 
