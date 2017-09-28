@@ -1,8 +1,8 @@
 <!--Logo definitions-->
-[Osu!]: /wiki/shared/Osu.gif
-[Taiko]: /wiki/shared/Taiko.gif
-[Ctb]: /wiki/shared/Ctb.gif
-[Mania]: /wiki/shared/Mania.gif
+[Osu!]: /wiki/shared/mode/osu.png
+[Taiko]: /wiki/shared/mode/taiko.png
+[Ctb]: /wiki/shared/mode/catch.png
+[Mania]: /wiki/shared/mode/mania.png
 [Heart]: /wiki/shared/Heart.gif
 [Fire]: /wiki/shared/Fire.gif
 

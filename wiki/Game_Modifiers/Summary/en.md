@@ -1,7 +1,7 @@
-[o!s]: /wiki/shared/Osu.gif "osu!standard"
-[o!t]: /wiki/shared/Taiko.gif "osu!taiko"
-[o!c]: /wiki/shared/Ctb.gif "osu!catch"
-[o!m]: /wiki/shared/Mania.gif "osu!mania"
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
+[o!c]: /wiki/shared/mode/catch.png "osu!catch"
+[o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
 # Summary
 
