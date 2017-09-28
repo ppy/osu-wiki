@@ -1,6 +1,6 @@
 # Difficulty Naming
 	
-The purpose of difficulty naming is telling players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive, you may use any desired kind of scheme. 
+The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme. 
 
 ## Default	
 
