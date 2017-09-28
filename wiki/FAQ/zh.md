@@ -139,7 +139,7 @@
 
 ### 评分
 
-#### ![](/wiki/shared/Osu.gif) osu!
+#### ![](/wiki/shared/mode/osu.png) osu!
 
 Grade| Condition
 :---:|:---

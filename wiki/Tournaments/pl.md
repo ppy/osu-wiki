@@ -10,7 +10,7 @@ Oficjalne turnieje
 
 Oficjalne turnieje są prowadzone przez [Staff turniejowy](https://osu.ppy.sh/g/26).
 
-### ![](/wiki/shared/Osu.gif) osu! World Cup
+### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
 osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tourNazwant to create a competitive nature.
 
@@ -23,7 +23,7 @@ osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimi
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 02/10/2014  | 14/12/2014  | ![][flag_JP] Japonia                   | ![][flag_PL] Polska                      | ![][flag_DE] Niemcy                      |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 01/10/2015  | 13/12/2015  | ![][flag_US] Stany Zjednoczone         | ![][flag_CN] Chiny                       | ![][flag_PL] Polska                      |
 
-### ![](/wiki/shared/Taiko.gif) Taiko World Cup
+### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
 | Nazwa                                  | Rozpoczęcie | Zakończenie | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |----------------------------------------|-------------|-------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -34,7 +34,7 @@ osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimi
 | [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 12/01/2015  | 15/03/2015  | ![][flag_JP] Japonia                   | ![][flag_TW] Tajwan                      | ![][flag_FR] Francja                     |
 | [Taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 09/02/2016  | 24/04/2016  | ![][flag_JP] Japonia                   | ![][flag_TW] Tajwan                      | ![][flag_CA] Kanada                      |
 
-### ![](/wiki/shared/Ctb.gif) Catch the Beat World Cup
+### ![](/wiki/shared/mode/catch.png) Catch the Beat World Cup
 
 | Nazwa                                           | Rozpoczęcie | Zakończenie | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-------------------------------------------------|-------------|-------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -44,7 +44,7 @@ osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimi
 | [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015  | 14/06/2015  | ![][flag_KR] Korea Południowa          | ![][flag_CN] Chiny                       | ![][flag_DE] Niemcy                      |
 
 
-### ![](/wiki/shared/Mania.gif) osu!mania World Cup
+### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
 | Nazwa                                         | Rozpoczęcie | Zakończenie | Styl | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------------------------------------------|-------------|-------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -58,7 +58,7 @@ Społeczność
 
 Nieoficjalne turnieje prowadzone przez społeczność.
 
-### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
+### ![](/wiki/shared/mode/osu.png) North American osu! Standard Tournament
 
 The North American osu! Standard Tournament to coroczny turniej prowadzony przez . Jest to turniej 1v1. Aby wyłonić zwycięzcę, turniej ma styl [Double Elimination](https://en.wikipedia.org/wiki/Double-elimination_tournament). Pozwala on graczowi na przegranie meczu, mając jednocześnie szansę na wygraną. Dzieje się tak aby nie krzywdzić nowszych graczy którzy zostają umieszczeni w pierwszej rundzie z osobami, które są wysoko w rankingu.
 NAT jest prowadzony od 2013 roku i najpewniej będzie jeszcze w przyszłości. Wątek na forum określający wszystkie szczegóły turnieju znajduje się [tutaj](https://osu.ppy.sh/forum/t/324720).

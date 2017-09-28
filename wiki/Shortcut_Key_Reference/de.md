@@ -50,7 +50,7 @@ Songauswahl
 -   **F3**: Beatmap Options
 -   **F5**: Songauswahl neuladen (Repariermodus)
 -   **Shift + Entf**: Ausgewählte Beatmap löschen
--   **STRG + (1/2/3/4)**: Wechselt zum ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) Spielmodus.
+-   **STRG + (1/2/3/4)**: Wechselt zum ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) Spielmodus.
 -   **STRG + Eingabetaste**: Spielt die ausgewählte Map mit [Auto](/wiki/Game_Modifiers) Mod.
 -   **STRG + Shift + Eingabetaste**: Spielt die ausgewählte Map mit Cinema Mod.
 -   **STRG + A**: Schaltet den Auto Mod an
