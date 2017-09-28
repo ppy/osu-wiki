@@ -4,7 +4,7 @@
 ## Why am I banned?
 Users are getting banned for several reasons not limited to:
 -   Continuous misbehaviour regardless of how many infringements were given.
--   Sharing your account to other people.
+-   Sharing your account with other people.
 -   Using multiple accounts.
 -   Hacking or cheating (see below).
 
