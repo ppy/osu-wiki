@@ -6,50 +6,50 @@ Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consult
 
 ### J'ai payé pour être supporter, mais je ne l'ai toujours pas reçu !
 
-Ce problème dépend du service que vous utilisez (Paypal ou Xsolla), il peut y avoir un léger délai pour traiter votre paiement avant qu'il ne nous arrive.
+Suivant le service que vous utilisez (Paypal ou Xsolla), il peut y avoir un léger délai pour traiter votre paiement avant qu'il ne nous arrive.
 
 Habituellement, ces problèmes se résolvent par eux-même en quelques heures, et nos systèmes appliqueront automatiquement votre tag à votre compte.
 
-Si cela fait 24 heures et que vous n'avez toujours pas reçu votre tag de supporter, veuillez nous envoyer un e-mail à [support@ppy.sh](mailto:support@ppy.sh) et faites-nous part de votre problème.
+Si vous n'avez toujours pas reçu votre tag de supporter après 24 heures, veuillez nous envoyer un e-mail à [support@ppy.sh](mailto:support@ppy.sh) et faites-nous part de votre problème.
 
-Soyez sûrs d'avoir inclus le reçu que vous avez reçu durant le traitement (identifiant de transaction paypal, reçu Xsolla, etc) - cela nous aidera beaucoup à trouver ce qui est arrivé à votre paiement !
+Prenez soin d'inclure le reçu que vous avez reçu durant le traitement (identifiant de transaction paypal, reçu Xsolla, etc) - cela nous aidera beaucoup à trouver ce qui est arrivé à votre paiement !
 
-### Qu'est-ce que le mode "restricted" (restreint), exactement ?
+### Qu'est-ce que le mode "restreint" (restricted), exactement ?
 
-**Une personne avec un compte restreint est temporairement empêché d'intéragir avec la communauté par n'importe quel moyen, ce qui inclut chatter, participer au multijoueur, et avoir ses scores sur les tableaux de classement.**
+**Une personne avec un compte restreint est temporairement interdite d'intéragir avec la communauté par n'importe quel moyen, ce qui inclut chatter, participer au multijoueur, et avoir ses scores sur les tableaux de classement.**
 
-Il peut continuer à définir des scores localement et en ligne (mais ses scores ne seront pas montrés jusqu'à ce qu'il ne soit plus restreint) et jouer au jeu comme d'habitude, exception faite du multijoueur.
+Elle peut continuer à définir des scores localement et en ligne (mais ses scores ne seront pas montrés jusqu'à ce qu'il ne soit plus restreint) et jouer au jeu comme d'habitude, exception faite du multijoueur.
 
-Les restrictions sont relativement rares, et sont seulement appliquées quand nous pensons que les Règles de la Communauté ou nos Conditions d'Utilisation n'ont pas été respectées, ou qu'un compte a été remarqué pour ne pas agir normalement.
+Les restrictions sont relativement rares, et sont seulement appliquées quand nous pensons que les Règles de la Communauté ou nos Conditions d'Utilisation n'ont pas été respectées, ou que l'activité d'un compte est considérée anormale.
 
 Dans la plupart des cas, ce statut sera supprimé automatiquement après 24 heures. Si ce temps est passé et que vous êtes toujours restreint, vous pourrez interroger l'équipe du support à propos de votre statut via un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Si vous êtes restreint, n'essayer surtout pas de faire un nouveau compte pour contourner votre statut, à la place essayez de vous arranger avec le support ! Faire plusieurs comptes pour éviter les restrictions poseront des problèmes à tout le monde - à nous, et à vous.
+Si votre compte est restreint, n'essayez pas d'en créer un nouveau et contactez-nous directement.
 
-### Le drapeau sur mon profil est le mauvais !
+### Mon profil a le mauvais drapeau !
 
-**Nous pouvons le changer pour vous, mais seulement si vous vivez activement dans le pays vers lequel vous voulez changer votre assignation.**
+**Nous pouvons le changer pour vous, mais seulement si votre lieu de résidence est dans le pays vers lequel vous voulez changer votre assignation.**
 
-Nous déterminons votre pays depuis l'endroit où vous vous êtes enregistré pour la première fois.
+Nous déterminons votre pays où vous avez créé votre compte.
 
 Si vous créez un compte durant vos vacances aux États-Unis, votre compte sera assigné aux États-Unis - vous apparaîtrez également dans le classement par pays des États-Unis.
 
-L'équipe du support peut changer le pays de votre compte sur requête, **mais seulement si vous vivez activement dans ce pays.**
+L'équipe du support peut changer le pays de votre compte sur votre demande, **mais seulement si vous vivez activement dans ce pays.**
 
 Pour confirmer cela, l'équipe vous demandera une preuve de votre résidence - cela peut être un passeport, votre permis de conduire, ou autres formes d'identification. Il doit y avoir sur l'image votre écran avec le client *osu!* d'ouvert et authentifié avec votre compte.
 
-Nous ne diffuserons jamais ces informations à d'autres personnes, et nous vous encourageons à supprimer toutes informations personnelles (cela ne nous empêchera pas de déterminer le pays pour lequel le document est destiné !) si vous souhaitez absolument conserver votre vie privée.
+Nous ne diffuserons jamais ces informations à d'autres personnes, et nous vous encourageons à supprimer toute information personnelle (cela ne nous empêchera pas de déterminer le pays pour lequel le document est destiné !) si vous souhaitez absolument conserver votre vie privée.
 
 ### J'ai oublié mon nom d'utilisateur et mon mot de passe !
 
 **Veuillez utiliser [la page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour réclamer votre compte automatiquement, ce qui part du principe que vous avez toujours accès à l'adresse e-mail avec laquelle vous vous êtes enregistré.**
 
-Si cela ne fonctionne pas pour vous (ou que vous n'avez pas accès à votre adresse e-mail d'enregistration), veuillez envoyer un e-mail à l'[équipe du support](mailto:accounts@ppy.sh) avec autant d'informations que vous pensez utiles et qui nous aideraient à déterminer que vous êtes le propriétaire du compte.
+Si cela ne fonctionne pas pour vous (ou que vous n'avez pas accès à l'adresse e-mail de votre compte), veuillez contacter l'[équipe du support](mailto:accounts@ppy.sh) avec autant d'informations que vous pensez utile et qui nous aideraient à déterminer que vous êtes le propriétaire légitime du compte.
 
-Les bonnes informations à inclure dans votre e-mail seraient:
+Les informations importantes à inclure dans votre e-mail seraient:
 
 * L'adresse e-mail avec laquelle vous avez enregistré votre compte, ou n'importe quel e-mail associé à votre compte depuis le début
-* N'importe quel reçu pour avoir acheté des tags osu!supporter ou d'autres objets du osu!store
+* N'importe quel reçu d'un achat de supporter tag ou sur le magasin (osu!store)
 * La dernière date à laquelle vous vous êtes connecté à votre compte normalement
 * N'importe quelles informations vous identifiant et que vous pensez utiles (excluant des scores ou des replays, ça ne nous aiderait pas beaucoup !)
 
@@ -57,21 +57,21 @@ Les bonnes informations à inclure dans votre e-mail seraient:
 
 **Les comptes sont généralement désactivés quand il est confirmé qu'ils ont le même propriétaire.**
 
-Si c'est votre cas, le compte qui a été banni n'est pas le premier que vous avez créé, vous pouvez donc vous connecter sans problèmes à votre premier compte. En général, les comptes désactivés ne sont pas réactivés dans la très grande majorité des cas.
+Si c'est votre cas, le compte qui a été banni n'est pas le premier que vous avez créé, vous pouvez donc vous connecter sans problèmes à votre premier compte. En général, les comptes désactivés ne sont pas réactivés.
 
-Si votre compte a été restreint, vous le saurez après une brève discussion avec l'équipe du support.
+Si votre compte a été restreint, vous saurez pourquoi après une brève discussion avec l'équipe du support.
 
-Dans le cas où nous sommes absolument sûrs qu'un jeu irrégulier ou un méfait a pris place, nous vous demanderons d'attendre une période de **trois (3) mois** à partir de la date de votre dernière infraction avant de faire appel.
+Dans le cas où nous sommes absolument sûrs que vous avez enfreint les règles, nous vous demanderons d'attendre une période de **trois (3) mois** à partir de la date de votre dernière infraction avant de faire appel.
 
-### Mon compte a été volé !
+### On m'a volé mon compte !
 
 **Essayez d'utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour voir si votre e-mail est toujours valide.**
 
 Si c'est le cas, vous pourrez réinitialiser votre mot de passe sans l'aide de l'équipe du support.
 
-Sinon, envoyez un ticket immédiatement à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec autant d'informations nous permettant de vous identifier en tant que propriétaire du compte que possible.
+Sinon, envoyez un e-mail immédiatement à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec autant d'informations nous permettant de vous identifier en tant que propriétaire du compte que possible.
 
-Nous envoyer l'e-mail depuis votre e-mail d'enregistration est un gros bonus ici, ainsi que toutes informations que vous pouvez nous fournir que seul le propriétaire du compte pourrait savoir.
+Nous envoyer l'e-mail depuis l'e-mail de votre compte est un gros bonus ici, ainsi que toutes informations que vous pouvez nous fournir que seul le propriétaire du compte pourrait avoir.
 
 Veuillez ne pas inclure de replays ou de scores dans votre ticket - nous ne pouvons pas vérifier que vous êtes le propriétaire du compte avec ces informations.
 
@@ -79,19 +79,19 @@ Veuillez ne pas inclure de replays ou de scores dans votre ticket - nous ne pouv
 
 **Malheureusement, non, vous ne pouvez pas.**
 
-Si tout le monde pouvait faire et jouer avec plusieurs comptes, les classements n'auraient aucune valeur !
+Si tout le monde pouvait jouer avec plusieurs comptes, les classements n'auraient aucune valeur !
 
 Les autres jeux rencontrent ce problème à cause de ce qui est communément connu sous le nom de "smurfs" - des comptes avec peu de temps de jeu qui font gonfler les classements et empêchent les autres utilisateurs de jouer de manière compétitive.
 
-Dans osu!, nous sommes vraiment contre les comptes multiples, et nous forçons la règle stricte d'un seul compte par utilisateur.
+Pour osu!, nous sommes strictement contre l'utilisation de plusieurs comptes, et nous imposons une règle stricte contre cela
 
-Vous ne jouerez que sur le premier compte que vous avez enregistré, et c'est tout !
+Vous ne pouvez utiliser qu'un seul compte, et pas plus
 
-### Est-il possible de redémarrer ou supprimer mes statistiques ?
+### Est-il possible de remettre mes statistiques à zéro ?
 
 **Pas pour le moment.**
 
-Nous autorisons l'achat de 'score reset' depuis le osu!store pour les joueurs vraiment hardcore qui ne veulent que la perfection dans leurs statistiques, mais pour le moment, nous ne pouvons pas supprimer toutes les statistiques de votre compte pour vous.
+Nous autoriserons l'achat de 'score reset' depuis le osu!store pour les joueurs vraiment hardcore qui ne veulent que la perfection dans leurs statistiques, mais pour le moment, nous ne pouvons pas supprimer toutes les statistiques de votre compte pour vous.
 
 Ça ne veut pas dire que vous pouvez faire un nouveau compte pour en revenir au même ! Avoir plusieurs comptes est très mal vu dans notre communauté et nous désactiverons de tels comptes dès que nous serons au courant qu'ils existent.
 
@@ -99,19 +99,19 @@ Nous autorisons l'achat de 'score reset' depuis le osu!store pour les joueurs vr
 
 **Oui, absolument !**
 
-Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter, il peut être réclamé dans le [osu!store](https://store.ppy.sh/store/product/32).
+Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://store.ppy.sh/store/product/32).
 
-À n'importe quel moment après l'achat, vous pouvez changer votre nom d'utilisateur vers tout ce que vous voulez. Cependant, le prix des changements augmente à chaque fois - le second coûtera 8$ USD, le troisième 16$ USD, et ainsi de suite. Nous avons pris cette mesure afin d'éviter que certains n'abusent de ce système pour changer de nom sans interruption.
+À n'importe quel moment après l'achat, vous pouvez changer votre nom d'utilisateur vers tout ce que vous voulez. Cependant, le prix des changements augmente à chaque fois - le second coûtera 8$ USD, le troisième 16$ USD, et ainsi de suite. Nous avons pris cette mesure afin d'éviter que certains n'abusent de ce système pour changer de nom trop fréquemment.
 
 Si vous ne souhaitez changer que la casse ou corriger une faute de frappe, vous pouvez envoyer un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander un changement de nom gratuit pour corriger le problème. Nous ne vous ferons pas payer pour ces types de changements, mais vous **devez** faire ces requêtes par un e-mail au support.
 
 ### Puis-je prendre le nom d'utilisateur de quelqu'un d'autre ?
 
-**Oui, mais sous certaines cisrconstances.**
+**Oui, mais sous certaines conditions.**
 
-Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas de partie, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://store.ppy.sh/store/product/32) pour les frais standards associés au changement de nom d'utilisateur.
+Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://store.ppy.sh/store/product/32) pour les frais standards associés au changement de nom d'utilisateur.
 
-Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 jours) sera ajouté au temps avant que le nom de ce joueur soit disponible. Cette précaution est prise afin d'éviter que des gens ne volent les nom d'utilisateurs de joueurs récemment inactifs.
+Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 jours) sera ajouté au temps avant que le nom de ce joueur soit disponible. Cette précaution est prise afin d'éviter que des gens ne volent les nom d'utilisateurs de joueurs trop récemment inactifs.
 
 ### Est-il possible de retrouver mon ancien nom d'utilisateur?
 
@@ -133,17 +133,17 @@ Si vous jouez depuis une place publique, gardez un œil sur la sécurité de vot
 
 **C'est une mesure de protection temporaire après de mutiples tentatives ratées de connexion à votre compte. Essayez de vous connecter dans 10-20 minutes.**
 
-Si ça vous arrive, attendez simplement un moment et réessayez plus tard.
+Si cela vous arrive, attendez simplement un moment et réessayez plus tard.
 
 Une poignée d'heures est requise au maximum afin de réinitialiser ce statut pour la plupart des gens avant qu'ils ne puissent se reconnecter.
 
-### Pourrais-je avoir une liste de toutes le smaps que j'ai joué et téléchargé ?
+### Pourrais-je avoir une liste de toutes les beatmaps que j'ai joué et téléchargé ?
 
-**Vous pouvez voir toutes les maps que vous avez joué sur le site.**
+**Vous pouvez voir toutes les maps que vous avez jouées sur le site.**
 
 Si vous avez un supporter tag actif, vous pouvez voir toutes les maps où vous avez soumi un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Ranked (played)". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
 
-Malheureusement, nou ne gardons pas toutes les beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les mapq ue vous avez déjà joué.
+Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
 ----------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ Malheureusement, nou ne gardons pas toutes les beatmaps que vous téléchargez, 
 
 ### osu! gèle quand je clique sur un lien ou une map en multijouer !
 
-**Assurez-vous qu'osu! ne tourne pas en mode compatibilité Windows, et qu'un navigateur internet par défaut est définit.**
+**Assurez-vous qu'osu! ne tourne pas en mode compatibilité Windows, et qu'un navigateur internet par défaut est défini.**
 
 Ce problème est quelques fois causé par une intéraction avec le mode compatibilité, et peut aussi être causé par le jeu, ne trouvant pas le navigateur par défaut pour ouvrir la page vers laquelle mène le lien.
 
@@ -179,7 +179,7 @@ Pour vérifier cela, essayez les étapes suivantes (pour Windows 8 et supérieur
 
 ### Je ne peux pas me connecter au jeu !
 
-**Assurez-vous qu'osu! a accès à Internet malgré vos pare-feu ou antivirus que vous avez installé sur votre ordinateur.**
+**Assurez-vous qu'osu! a accès à Internet malgré les pare-feu ou antivirus que vous avez installé sur votre ordinateur.**
 
 Voilà quelques manières de permettre à une application d'accéder à Internet par divers pare-feu ou antivirus:
 
@@ -209,11 +209,11 @@ Veuillez consulter l'[article d'aide officiel de Kaspersky](https://support.kasp
 
 Veuillez consulter la [base de connaissances officielle de McAfee sur le sujet](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
 
-#### J'ai ajouté osu! dans mon pare-feu mais je ne peux toujours pas me connecter dans le jeu !
+#### J'ai autorisé osu! dans mon pare-feu mais je ne peux toujours pas me connecter dans le jeu !
 
 **Nous aurons besoin d'informations supplémentaires pour vous aider à vous en sortir.**
 
-Si vous avez toujours des problèmes de connexion à nos serveurs, vous pouvez soumettre un ticket au support en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh). Les informations suivantes nous aiderons à résoudre votre problème rapidement:
+Si vous avez toujours des problèmes de connexion à nos serveurs, vous pouvez soumettre un ticket au support en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh). Les informations suivantes nous aiderons à résoudre votre problème rapidement:
 
 * Le journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (voir les instructions ci-dessous)
 * Le fichier `network.log` du dossier `Logs` situé dans le dossier d'installation d'osu!
@@ -242,12 +242,12 @@ Si vous remarquez qu'un de vos composants dépasse les 90°C ou 194°F, votre or
 
 #### Comment éviter que mon PC surchauffe quand je joue à osu! ?
 
-**La manière la plus simple est de changer la limite d'images par seconde dans le jeu.**
+**La manière la plus simple est de changer le taux de rafraîchissement du jeu.**
 
 Pour voir quelle est la limite actuelle, essayez les étapes suivantes:
 
 1. Ouvrez *osu!*.
-2. Ouvrez le menu `Options` ou faite la combinaison `Control` + `O` par défaut.
+2. Ouvrez le menu `Options` ou faites la combinaison `Control` + `O` par défaut.
 3. Écrivez `frame` pour ramener l'option de limite d'images par seconde.
 
 Si votre limite est à Illimité, vous devriez remarquer un changement en le changeant en une des autres options.
@@ -260,7 +260,7 @@ Vous pourriez aussi être intéressé par des programmes permettant de modifier 
 
 #### Mon ordinateur ne surchauffe pas et le jeu continue à faire redémarrer mon PC
 
-**La cause la plus commune de redémarrage forcé après la surchauffe est un problème de carte son, suivi par des périphériques défectueux connectés à votre ordinateur.**
+**La cause la plus commune de redémarrage forcé après la surchauffe est un problème de carte son, suivie par des périphériques défectueux connectés à votre ordinateur.**
 
 De vieux pilotes de carte son peuvent poser des problèmes avec osu!, mais ce n'est pas le cas pour la plupart des gens. Essayez de mettre à jour les pilotes de votre carte son et carte mère.
 
@@ -276,9 +276,9 @@ Si tout ce que nous vous avons proposé précédemment ne vous a pas aidé, envo
 
 Suivez ces étapes pour réinitialiser les paramètres d'osu! :
 
-1. Maintenez `Shift` appuyé.
+1. Maintenez `Shift` (`maj`) appuyé.
 2. Double-cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
-3. Maintenez `Shift` jusqu'à ce que vous voyez le dialogue de configuration d'osu!.
+3. Maintenez `Shift` jusqu'à ce que vous voyiez le dialogue de configuration d'osu!.
 4. Lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
 5. Si cela ne fonctionne toujours pas, rouvrez le dialogue et cliquez sur `repair osu!`.
 
@@ -293,7 +293,7 @@ Les nouveaux claviers permettent des combinaisons allant jusqu'à **6** touches,
 
 Vous pouvez tester les limites de votre clavier en utilisant l'[utilitaire Anti-Ghosting de Microsoft](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
 
-Alors que les Critères de Classement pour osu!mania essaye d'éviter ces problèmes en n'autorisant pas les combinaisons dépassant 6 notes, vous pouvez rencontrer ce problème si votre clavier est ancien.
+Alors que les Critères de Classement pour osu!mania essayent d'éviter ces problèmes en n'autorisant pas les combinaisons dépassant 6 notes, vous pouvez rencontrer ce problème si votre clavier est ancien.
 
 La seule vraie solution est d'acheter un clavier qui supporte plusieurs touches à la fois. Vous seriez intéressé par une fonction nommée *n-key rollover* (ou *NKRO*). Les claviers NKRO n'ont pas de problèmes de ghosting pour la plus grande partie, mais sont généralement chers.
 
@@ -412,7 +412,7 @@ Si vous venez de télécharger une map, vous devriez essayer de rafraîchir votr
 
 **Cela peut arriver si vous utilisez une connexion internet partagée, un proxy, ou un VPN.**
 
-Essayez un autre proxy ou VPN - s'ils ratent tous, envoyez un ticket au support via un email à [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Essayez un autre proxy ou VPN - s'ils ratent tous, envoyez un ticket au support via un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 Si vous n'en utilisez pas, vous devriez envoyer un ticket au support, puisqu'il semble que votre connextion a été blacklistée par erreur.
 
@@ -434,7 +434,7 @@ Dans de rares circonstances, les tickets envoyés par des joueurs incriminés pe
 
 **Cela arrivera si votre page a eu du contenu inapproprié, comme définit dans nos [règles de la communité](/wiki/Rules).**
 
-Dans de tels cas, vous pouvez ouvrir un ticket à l'équipe de support en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) et discuter de votre situation avec eux.
+Dans de tels cas, vous pouvez ouvrir un ticket à l'équipe de support en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) et discuter de votre situation avec eux.
 
 La plupart du temps, vous serez réautorisé à éditer votre page, mais les utilisateurs abusant de cette autorisation peuvent se voir bloqués à tout jamais, soyez prudent !
 
@@ -491,9 +491,9 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 
 **N'ayez crainte, notre équipe de modération vous aidera.**
 
-Si un utilisateur vous harcèle toujours, ou utilise ses amis ou quelqu'un d'autre pour contourner ces blocages, veuillez nous contacter via email à [support@ppy.sh](mailto:support@ppy.sh).
+Si un utilisateur vous harcèle toujours, ou utilise ses amis ou quelqu'un d'autre pour contourner ces blocages, veuillez nous contacter via e-mail à [support@ppy.sh](mailto:support@ppy.sh).
 
-N'oubliez pas d'inclure des logs ou autres preuves dans l'email, et notre équipe du support se penchera sur votre cas et vous aidera.
+N'oubliez pas d'inclure des logs ou autres preuves dans l'e-mail, et notre équipe du support se penchera sur votre cas et vous aidera.
 
 ### Qu'est-ce que sont ces "user pages" que je peux voir sur le profil des autres joueurs ?
 
@@ -503,13 +503,13 @@ Les joueurs avec un [supporter tag](https://osu.ppy.sh/home/support) ont le priv
 
 Si votre [supporter tag](https://osu.ppy.sh/home/support) arrive en fin de vie, votre user page **restera visible** et vous serez toujours capable d'éditer son contenu.
 
-### Ai-je besoin d'une adresse email pour m'enregistrer ?
+### Ai-je besoin d'une adresse e-mail pour m'enregistrer ?
 
-**Non, vous n'en avez pas besoin. Nous vous authentifions via le jeu, un email n'est donc pas nécessaire pour s'enregistrer.**
+**Non, vous n'en avez pas besoin. Nous vous authentifions via le jeu, un e-mail n'est donc pas nécessaire pour s'enregistrer.**
 
 Si vous avez des problèmes pour vous connecter en jeu, veuillez vérifier votre pare-feu et votre antivirus pour vous assurer qu'osu! n'est pas bloqué.
 
-Bien qu'un email n'est pas requis, nous vous recommandons d'en associer un à votre compte, puisque si vous perdez votre mot de passe ou ne pouvez pas accéder à votre compte, votre email est notre premier point de contact avec vous.
+Bien qu'un e-mail n'est pas requis, nous vous recommandons d'en associer un à votre compte, puisque si vous perdez votre mot de passe ou ne pouvez pas accéder à votre compte, votre e-mail est notre premier point de contact avec vous.
 
 ### Pourquoi je ne peux pas rechercher de beatmaps d'un artiste dont le nom est composé de moins de 3 caractères ?
 
@@ -715,7 +715,7 @@ Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers
 
 **Cliquez simplement sur **`I'm new!`** situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
 
-Nous ne demandons pas d'email pour enregistrer un compte osu!, mais nous suggérons grandement d'en associer un à votre compte pour le protéger de la purge journalière et pour le sécuriser le plus possible.
+Nous ne demandons pas d'e-mail pour enregistrer un compte osu!, mais nous suggérons grandement d'en associer un à votre compte pour le protéger de la purge journalière et pour le sécuriser le plus possible.
 
 Si vous créez votre compte et que vous ne vous authentifiez pas en jeu une fois, le compte sera supprimé de notre base de données d'ici un jour.
 
@@ -800,9 +800,9 @@ Pour déterminer si les LEDs de votre votre osu! nono keyboard sont défectueuse
 
 Si une LED qui fonctionnait d'un côté fonctionne de l'autre côté, alors la LED **n'est pas défectueuse** et devrait fonctionner correctement.
 
-Si une LED ne fonctionne ni d'un côté, ni de l'autre, **elle est probablement défecteuse.** Nous pouvons vous fournir des LEDs de remplacement pour réparation, gratuitement. Envoyez-nous un email à [store@ppy.sh](mailto:store@ppy.sh).
+Si une LED ne fonctionne ni d'un côté, ni de l'autre, **elle est probablement défecteuse.** Nous pouvons vous fournir des LEDs de remplacement pour réparation, gratuitement. Envoyez-nous un e-mail à [store@ppy.sh](mailto:store@ppy.sh).
 
-Si une LED qui fonctionnait d'un côté de fonctionne pas de l'autre, **cela peut bien être le mainboard de votre clavier qui est fautif**. Faites-le nous savoir en envoyant un email à [store@ppy.sh](mailto:store@ppy.sh) et nous feront de notre mieux pour trouver un remplacement.
+Si une LED qui fonctionnait d'un côté de fonctionne pas de l'autre, **cela peut bien être le mainboard de votre clavier qui est fautif**. Faites-le nous savoir en envoyant un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous feront de notre mieux pour trouver un remplacement.
 
 Si vos deux LEDs ne fonctionnent pas, elles peuvent être toutes les deux défectueuses, ou même votre mainboard peut l'être. Vérifier s'il n'y a pas de corrosion avant de nous contacter.
 
@@ -832,7 +832,7 @@ Pour le savoir, essayez les étapes suivantes:
 
 Si la lumière de la tablette ne fait pas de flashs, essayez d'utiliser un autre câble USB - celui fourni avec la tablette peut être usé par le transport ou par un usage intensif. 
 
-Si le problème persiste et que votre produit est assez récent (environ un mois), veuillez envoyer un email à [store@ppy.sh](mailto:store@ppy.sh) pour de l'assistance.
+Si le problème persiste et que votre produit est assez récent (environ un mois), veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) pour de l'assistance.
 
 Nous pouvons essayer de vous aider à résoudre votre problème avec d'anciennes tablettes, mais l'usure naturelle ou d'usage régulier n'est pas une raison pour un remplacement.
 
@@ -895,7 +895,7 @@ Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu
 
 ##### Rien ne fonctionne !
 
-Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un email à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
+Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
 
 ----------------------------------------------------------------------------
