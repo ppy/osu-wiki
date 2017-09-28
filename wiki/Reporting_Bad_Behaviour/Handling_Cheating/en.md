@@ -45,7 +45,6 @@ At the user's profile, a "Report User" button will appear when you move your cur
 ### Beatmap Page
 In beatmap pages, you can report a user in the top leaderboards by clicking the "Report" button at right side.
 
-
 ### In-game chat
 Use the `!report` command in any channel to inform the chat moderators. Other players will not see your reports in chat.
 
@@ -62,7 +61,7 @@ Obviously, this is hard to monitor unless we are standing next to you, but if yo
 
 
 ## How can I request a ban appeal?
-Address your emails to accounts@ppy.sh and use a subject of "Ban Appeal: <username>"
+Address your emails to accounts@ppy.sh and use a subject of `Ban Appeal: <username>`
 
 Include the reason you were banned (if you have been banned, you know why) and explain why you do not believe your behavior should have resulted in a ban.
 
