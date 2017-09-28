@@ -148,7 +148,7 @@ For example:
     
     _Also see: [Game Modes](/wiki/Game Modes)._
     
-    ### ![](/wiki/shared/Osu.gif) osu!
+    ### ![](/wiki/shared/mode/osu.png) osu!
     
     osu! is a frustrating but fun circle-clicking simulator.
 

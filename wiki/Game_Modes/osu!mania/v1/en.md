@@ -21,7 +21,7 @@
 [set fixed scaling image]: ./img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
 
 <!-- shared image -->
-[osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 [osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"

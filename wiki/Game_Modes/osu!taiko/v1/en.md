@@ -21,7 +21,7 @@
 [osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
 
 <!-- shared -->
-[osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
+[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
 [Taiko playfield image]: /wiki/shared/Taiko_playfield.jpg "osu!taiko playfield"
 [Taiko hit circles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles"
 [Taiko drumroll image]: /wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll"
