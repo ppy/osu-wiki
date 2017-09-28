@@ -9,10 +9,10 @@ Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game m
 - [Rules](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - Game Modes
-  - ![osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Multi](/wiki/Multi/#getting-started)
 
 ## Current events
