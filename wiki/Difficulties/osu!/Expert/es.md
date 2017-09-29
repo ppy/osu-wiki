@@ -5,7 +5,7 @@ Como manera de impulsar y extender los límites del *beatmapping*, la dificultad
 
 Ésta podría ser la *5ª* dificultad (Si los beatmaps estan en formato ENHIX (Easy-Normal-Hard-Insane-eXpert)) o la *4ª* (si los beatmaps están en formato NHIX (Normal-Hard-Insane-eXpert)). Estos mapas, como los [Insane](/wiki/Difficulties/osu!/Insane), cito, " generalmente son donde mejor se nota la habilidad del mapper y donde suele haber mayor creatividad."
 
-En la página de puntuaciones de un beatmap (por ejemplo: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/b/774564)), puede notarse que se trata de un mapa en Expert por el siguiente icono: ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
+En la página de puntuaciones de un beatmap (por ejemplo: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/b/774564)), puede notarse que se trata de un mapa en Expert por el siguiente icono: ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
 
 Característicamente, las dificultades Expert son mapas difíciles que presentan habitualmente streams y jumps.
 

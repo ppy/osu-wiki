@@ -12,16 +12,16 @@ Glossary
 
 ### Difficulty Names
 
--  **![Easy](/wiki/shared/Easy-s.png "Easy") Easy**
--  **![Normal](/wiki/shared/Normal-s.png "Normal") Normal**
--  **![Hard](/wiki/shared/Hard-s.png "Hard") Hard**
--  **![Insane](/wiki/shared/Insane-s.png "Insane") Insane**
--  **![Expert](/wiki/shared/Expert-s.png "Expert") Expert**
+-  **![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy**
+-  **![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal**
+-  **![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard**
+-  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
+-  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
 Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
 
-- **![Hard](/wiki/shared/Hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
-- **![Expert](/wiki/shared/Expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
+- **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
+- **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
 
 ### Gameplay
 
@@ -107,7 +107,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu! difficulty_. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
 
-### ![Easy](/wiki/shared/Easy-s.png "Easy") Easy
+### ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 
 #### Rules
 
@@ -132,7 +132,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be 5 or less.
 -  Overall Difficulty / HP Drain Rate should be between 1 and 3.
 
-### ![Normal](/wiki/shared/Normal-s.png "Normal") Normal
+### ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 
 #### Rules
 
@@ -159,7 +159,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be between 4 and 6.
 -  Overall Difficulty / HP Drain Rate should be between 3 and 5.
 
-### ![Hard](/wiki/shared/Hard-s.png "Hard") Hard
+### ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 
 #### Rules
 
@@ -181,7 +181,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Overall Difficulty should be between 5 and 7.
 - HP Drain Rate should be between 4 and 6.
 
-### ![Insane](/wiki/shared/Insane-s.png "Insane") Insane
+### ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
 
 #### Guidelines
 
@@ -195,7 +195,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Overall Difficulty should be between 7 and 9.
 -  HP Drain Rate should be between 5 and 8.
 
-### ![Expert](/wiki/shared/Expert-s.png "Expert") Expert
+### ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
 
 #### Guidelines
 

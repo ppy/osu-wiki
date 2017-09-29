@@ -9,11 +9,11 @@ Glossary
 --------------
 
 ### Difficulty Naming
-- ![Kantan](/wiki/shared/Easy-t.png "Kantan") **Kantan:** Easy
-- ![Futsuu](/wiki/shared/Normal-t.png "Futsuu") **Futsuu:** Normal
-- ![Muzukashii](/wiki/shared/Hard-t.png "Muzukashii") **Muzukashii:** Hard
-- ![Oni](/wiki/shared/Insane-t.png "Oni") **Oni:** Insane
-- ![Inner/Ura Oni](/wiki/shared/Expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
+- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Easy
+- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
+- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Hard
+- ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Insane
+- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
 
 Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming conventions.
 
@@ -77,7 +77,7 @@ Guidelines may be violated under **exceptional** circumstances. These exceptiona
 
 If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
 
-### ![Kantan](/wiki/shared/Easy-t.png "Kantan") Kantan
+### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
 
 #### Rules
 - **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** For songs that follow a swing beat, this limit is 1/3.
@@ -93,7 +93,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - OD should be 4 or less.
 - HP should be 6 or more. In cases of higher note count, HP could be slightly adjusted to lower than 6.
 
-### ![Futsuu](/wiki/shared/Normal-t.png "Futsuu") Futsuu
+### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
 #### Rules
 - **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
@@ -118,7 +118,7 @@ If you plan on using a Futsuu as the lowest difficulty of a mapset, it has to ab
 - OD should be 5 or less.
 - HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
 
-### ![Muzukashii](/wiki/shared/Hard-t.png "Muzukashii") Muzukashii
+### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
 #### Rules
 - **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
@@ -137,7 +137,7 @@ If you plan on using a Futsuu as the lowest difficulty of a mapset, it has to ab
 - OD should be 5 or less
 - HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
 
-### ![Oni](/wiki/shared/Insane-t.png "Oni") Oni
+### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 
 #### Rules
 - **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
@@ -153,7 +153,7 @@ If you plan on using a Futsuu as the lowest difficulty of a mapset, it has to ab
 - OD should be 5 or more
 - HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
 
-### ![Inner/Ura Oni](/wiki/shared/Expert-t.png "Inner/Ura Oni") Inner/Ura Oni
+### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
 #### Guidelines
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.

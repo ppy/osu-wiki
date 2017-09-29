@@ -162,7 +162,7 @@ All sections **must** contain some text, even if they are containers for subsect
     
     _See also: [Game Modes](/wiki/Game Modes)._
     
-    ### ![](/wiki/shared/Osu.gif) osu!
+    ### ![](/wiki/shared/mode/osu.png) osu!
     
     osu! is a frustrating but fun circle-clicking simulator.
 
