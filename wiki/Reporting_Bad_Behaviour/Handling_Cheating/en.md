@@ -57,8 +57,6 @@ Your help in spotting foul play is much appreciated. You can also send an email 
 ## Is using specialized hardware counted as cheating?
 Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play is not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
-Obviously, this is hard to monitor unless we are standing next to you, but if you have been accused of such practices, making a video (using a camera) of your play on a map may help clear the air.
-
 
 ## How can I request a ban appeal?
 Wait for three months after the latest issued ban before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
