@@ -2,15 +2,15 @@
 
 
 ## Why am I banned?
-Users are getting banned for several reasons not limited to:
--   Continuous misbehaviour regardless of how many infringements were given.
--   Sharing your account with other people.
+A user may get banned if they do any of the following:
+-   Continuous misbehaviour regardless of how many infringements they accumulate.
+-   Sharing their account with other users.
 -   Using multiple accounts.
 -   Hacking or cheating (see below).
 
 
 ## What is considered cheating?
-The rules says that any form of manipulation of the client; score hacking, macro-enabled full-combo sequences, and auto-aim are all considered cheating.
+The rules say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
 
 This is a one-strike rule; cheaters will be *permanently banned*.
 
@@ -18,15 +18,15 @@ This is a one-strike rule; cheaters will be *permanently banned*.
 ## I have been banned for cheating. I didn't cheat!
 osu! uses an automated metrics combined with manual confirmation.
 
-The staff never places an incorrect ban for cheating. Before they take any actions, they make sure it first 100%.
+The team never places an incorrect ban for cheating. Before they take any actions, they make sure it is first 100%.
 
 
 ## My friend has been banned for cheating! They definitely wouldn't cheat! You are wrong!
-It may be hard to come to terms with, but you will have to trust the staff. peppy is not trying to tear apart friendships but he knows that nearly no one can be trusted. Even those people who are close to you that you may never suspect can be just acting behind you or any other person.
+It may be hard to come to terms with, but you will have to trust the team. peppy is not trying to tear apart friendships but he knows that nearly no one can be trusted. Even those people who are close to you that you may never suspect can be just acting behind you or any other person.
 
 
 ## Prove that I/they were cheating! Tell us how you know!
-The staff cannot say on how can they prove. Giving away the countermeasures would make them useless in further detecting cheaters.
+The team cannot say on how can they prove. Giving away the countermeasures would make them useless in further detecting cheaters.
 
 
 ## I'll make a video to prove my innocence!
@@ -38,15 +38,15 @@ Stay calm and **don't discuss their play in public chat**.
 Don't give them undue attention or ask others to spectate them. There are three ways to report users.
 
 ### User Profile
-At the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
+On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
 
-*Take note of the selected game mode before playing*
+*Take note of the selected game mode before reporting*
 
 ### Beatmap Page
-In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button at right side.
+In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
 ### In-game chat
-Use the `!report` command in any channel to inform the chat moderators. Other players will not see your reports in chat.
+Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
 
       Format: !report <username> <reason>
      Example: !report this_user suspected cheating
@@ -61,11 +61,15 @@ Obviously, this is hard to monitor unless we are standing next to you, but if yo
 
 
 ## How can I request a ban appeal?
-Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
+Wait for three months after the latest issued ban before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
 
-Include the reason you were banned (if you have been banned, you know why) and explain why you do not believe your behavior should have resulted in a ban.
+Users must give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
 
-*Allow up to five days for a response. If you make an appeal and it is rejected, all further appeals will be rejected.*
+*It might take time for us to reply to your appeal, but no appeals are ignored*
+
+
+## What can I do if I've broken the rules?
+If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
 
 
 ## How can I avoid being silenced or banned?
