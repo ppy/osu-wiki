@@ -16,9 +16,9 @@ This is a one-strike rule; cheaters will be *permanently banned*.
 
 
 ## I have been banned for cheating. I didn't cheat!
-osu! uses an automated metrics combined with manual confirmation.
+osu! uses automated metrics combined with manual confirmation.
 
-The team never places an incorrect ban for cheating. Before they take any actions, they make sure it is first 100%.
+The team never places an incorrect ban for cheating. Before they take any action, they make sure it is 100% that you cheated.
 
 
 ## My friend has been banned for cheating! They definitely wouldn't cheat! You are wrong!
@@ -63,7 +63,7 @@ Wait for three months after the latest issued ban before appealing. Address your
 
 Users must give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
 
-*It might take time for us to reply to your appeal, but no appeals are ignored*
+*It might take time for us to reply to your appeal, but no appeals are ignored.*
 
 
 ## What can I do if I've broken the rules?
