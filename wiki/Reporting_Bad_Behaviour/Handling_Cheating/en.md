@@ -12,7 +12,7 @@ A user may get banned if they do any of the following:
 ## What is considered cheating?
 The rules say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
 
-This is a one-strike rule; cheaters will be *permanently banned*.
+This is a one-strike rule. Cheaters will be banned on their first offence and for an indefinite amount of time. The team may decide to lift their ban if they successfully appeal.
 
 
 ## I have been banned for cheating. I didn't cheat!
