@@ -55,7 +55,7 @@ Your help in spotting foul play is much appreciated. You can also send an email 
 
 
 ## Is using specialized hardware counted as cheating?
-Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play is not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
+Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
 
 ## How can I request a ban appeal?
