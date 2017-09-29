@@ -51,7 +51,7 @@ Use the `!report` command in any channel to inform the chat moderators. Other pl
       Format: !report <username> <reason>
      Example: !report this_user suspected cheating
 
-Your help in spotting foul play is much appreciated. You can also send an email directly to osu@ppy.sh for a relatively fast response.
+Your help in spotting foul play is much appreciated. You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
 
 
 ## Is using specialized hardware counted as cheating?
@@ -61,7 +61,7 @@ Obviously, this is hard to monitor unless we are standing next to you, but if yo
 
 
 ## How can I request a ban appeal?
-Address your emails to accounts@ppy.sh and use a subject of `Ban Appeal: <username>`
+Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
 
 Include the reason you were banned (if you have been banned, you know why) and explain why you do not believe your behavior should have resulted in a ban.
 
