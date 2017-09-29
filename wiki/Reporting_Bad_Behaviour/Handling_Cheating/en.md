@@ -52,17 +52,17 @@ Use the `!report` command in any public channel to inform the chat moderators. O
       Format: !report <username> <reason>
      Example: !report this_user suspected cheating
 
-Your help in spotting foul play is much appreciated. You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
+Your help in spotting foul play is much appreciated. We review every report we receive, but that does not mean that all of them will lead to us taking action! You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
 
 
-## Is using specialized hardware counted as cheating?
+## Is using specialized hardware considered as cheating?
 Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
 
 ## How can I request a ban appeal?
 Wait for three months after the latest issued ban before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
 
-Users must give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
+The team expects users to give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
 
 *It might take time for us to reply to your appeal, but no appeals are ignored.*
 
