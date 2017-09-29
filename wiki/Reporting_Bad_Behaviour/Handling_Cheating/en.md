@@ -1,8 +1,8 @@
 # Handling Cheating
 
 
-## Why am I banned?
-A user may get banned if they do any of the following:
+## Why am I restricted?
+A user may get restricted if they do any of the following:
 -   Continuous misbehaviour regardless of how many infringements they accumulate.
 -   Circumventing a punishment by making a new account.
 -   Sharing their account with other users.
@@ -10,28 +10,22 @@ A user may get banned if they do any of the following:
 -   Hacking or cheating (see below).
 
 
-## What are considered cheating?
-The rules say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
+## What is considered cheating?
+The [rules](/wiki/Rules) say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
 
-This is a one-strike rule. Cheaters will be banned on their first offence for an indefinite amount of time. The team may decide to lift their ban if they successfully appeal.
-
-
-## I have been banned for cheating. I didn't cheat!
-osu! uses automated metrics combined with manual confirmation.
-
-The team never places an incorrect ban for cheating. Before they take any action, they make sure it is 100% certain that you cheated.
+This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The team may decide to lift their restriction if they successfully appeal.
 
 
-## My friend has been banned for cheating! They definitely wouldn't cheat! You are wrong!
-We understand that you trust your friends, but you will have to believe the team. Punishments aren't issued unless there is sufficient evidence to support the decision. Whether or not they have cheated, it shouldn't affect your friendship!
+## I have been restricted for cheating. I didn't cheat!
+osu! uses automated metrics combined with manual confirmation. If you don't know why you are restricted, contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 
 ## Prove that I/they were cheating! Tell us how you know!
-The team cannot say on how can they prove. Giving away the countermeasures would make them useless in further detecting cheaters.
+The team will not provide any proof. Giving away the countermeasures would make them useless in further detecting cheaters.
 
 
 ## I'll make a video to prove my innocence!
-Sorry but if you have been banned, they are already 100% sure you are cheating. A video will not help.
+Sorry but if you have been restricted, they are already 100% sure you are cheating. A video will not help because even these can be also doctored.
 
 
 ## I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
@@ -39,7 +33,9 @@ Stay calm and **don't discuss their play in public chat**. Don't give them undue
 You should report the user and not mention them anywhere. There are three ways to do so.
 
 ### User Profile
-On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour. This is the preferred way for reporting foul play.
+This is the preferred way for reporting foul play because it provides more information overall.
+
+On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
 
 *Take note of the selected game mode before reporting*
 
@@ -47,6 +43,8 @@ On the user's profile, a `Report User` button will appear when you move your cur
 In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
 ### In-game chat
+This method of report is not encouraged because in-game reports are mostly chat related.
+
 Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
 
       Format: !report <username> <reason>
@@ -56,11 +54,11 @@ Your help in spotting foul play is much appreciated. We review every report we r
 
 
 ## Is using specialized hardware considered as cheating?
-Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
+Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
 
-## How can I request a ban appeal?
-Wait for three months after the latest issued ban before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Ban Appeal: <username>`
+## How can I appeal my restriction?
+Wait for three months after the latest issued restriction before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
 
 The team expects users to give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
 
@@ -71,5 +69,5 @@ The team expects users to give a full history of their wrongdoings and give reas
 If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
 
 
-## How can I avoid being silenced or banned?
+## How can I avoid being silenced or restricted?
 Carefully read and follow the [rules](/wiki/Rules).
