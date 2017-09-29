@@ -98,13 +98,13 @@ osu!lazer is a development build that you can download. It will one day be the s
 
 #### Escaping
 
-Any Markdown syntax that are not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
+Any Markdown syntax that is not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
 
 ```
 The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
 ```
 
-Note: the escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
+The escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
 
 ### Emphasizing
 
@@ -160,7 +160,7 @@ All sections **must** contain some text, even if they are containers for subsect
 
     ## Game Modes
     
-    _See also: [Game Modes](/wiki/Game Modes)._
+    _See also: [Game Modes](/wiki/Game_Modes)._
     
     ### ![](/wiki/shared/mode/osu.png) osu!
     
@@ -325,7 +325,7 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSe
 
 ### Images
 
-_See also: [Article Styling Criteria](/wiki/Article_Styling_Criteria/Images)._
+_See also: [Article Styling Criteria/Images](/wiki/Article_Styling_Criteria/Images)._
 
 The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
 
@@ -535,4 +535,4 @@ The term `Difficulty` refers to a specific `Beatmap` (these terms are interchang
 
 - Use "beatmaps" instead of "maps".
 - Use "creator" instead of "beatmapper" or "mapper".
-- Do not use "BNG" to refer to the Beatmap Nominators. Instead, use "BN" or "BNs".
+- Do not use "BNG" or "Beatmap Nomination Group" when referring to the _Beatmap Nominators_. Instead, use "BN" or "BNs".
