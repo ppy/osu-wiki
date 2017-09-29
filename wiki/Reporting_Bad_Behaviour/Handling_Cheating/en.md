@@ -22,7 +22,7 @@ The team never places an incorrect ban for cheating. Before they take any action
 
 
 ## My friend has been banned for cheating! They definitely wouldn't cheat! You are wrong!
-It may be hard to come to terms with, but you will have to trust the team. peppy is not trying to tear apart friendships but he knows that nearly no one can be trusted. Even those people who are close to you that you may never suspect can be just acting behind you or any other person.
+We understand that you trust your friends, but you will have to believe the team. Punishments aren't issued unless there is sufficient evidence to support the decision. Whether or not they have cheated, it shouldn't affect your friendship!
 
 
 ## Prove that I/they were cheating! Tell us how you know!
