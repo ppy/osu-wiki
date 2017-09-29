@@ -10,7 +10,7 @@ A user may get banned if they do any of the following:
 -   Hacking or cheating (see below).
 
 
-## What is considered cheating?
+## What are considered cheating?
 The rules say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
 
 This is a one-strike rule. Cheaters will be banned on their first offence and for an indefinite amount of time. The team may decide to lift their ban if they successfully appeal.
@@ -19,7 +19,7 @@ This is a one-strike rule. Cheaters will be banned on their first offence and fo
 ## I have been banned for cheating. I didn't cheat!
 osu! uses automated metrics combined with manual confirmation.
 
-The team never places an incorrect ban for cheating. Before they take any action, they make sure it is 100% that you cheated.
+The team never places an incorrect ban for cheating. Before they take any action, they make sure it is 100% certain that you cheated.
 
 
 ## My friend has been banned for cheating! They definitely wouldn't cheat! You are wrong!
@@ -35,11 +35,11 @@ Sorry but if you have been banned, they are already 100% sure you are cheating. 
 
 
 ## I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
-Stay calm and **don't discuss their play in public chat**.
-Don't give them undue attention or ask others to spectate them. There are three ways to report users.
+Stay calm and **don't discuss their play in public chat**. Don't give them undue attention or ask others to spectate them.
+You should report the user and not mention them anywhere. There are three ways to do so.
 
 ### User Profile
-On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
+On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour. This is the preferred way for reporting foul play.
 
 *Take note of the selected game mode before reporting*
 
