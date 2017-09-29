@@ -2,13 +2,13 @@
 
 _Main page: [Article Styling Criteria](/wiki/Article_Styling_Criteria)._
 
-To maintain consistency between all images on the osu!wiki, all images must adhere to the following image standards.
-
 ## Metadata
+
+To maintain consistency between all images on the osu!wiki, all images must adhere to the following image standards.
 
 ### Formats and quality
 
-Images used in the osu!wiki must be in JPG format at quality 8 (80). The PNG format can be used if the image contains transparency, while the GIF format can be used if the image contains an animation.
+Images used in the osu!wiki must be in `.jpg` format at quality 8 (80). The `.png` format can be used if the image contains transparency, while the `.gif` format can be used if the image contains an animation.
 
 ### File names
 
@@ -40,11 +40,11 @@ The filename of a localized image version must start with the original version's
 
 ## Screenshots of gameplay
 
-All screenshots of gameplay must be done in the stable build (not to be confused with the _stable (fallback)_ build), unless it is for a specific feature that is unavailable in the stable builds (e.g. Target Practice).
+All screenshots of gameplay must be done in the stable build (not to be confused with the _stable (fallback)_ build), unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
 
 ### osu! client settings
 
-*Note: If you do not want to change your current settings for the osu!wiki, you can install a separate installation of osu! in another directory!*
+Note: If you do not want to change your current settings for the osu!wiki, you can install a separate installation of _osu!_ in another directory!
 
 You must set these settings before taking a screenshot of the _osu!_ client:
 
@@ -54,7 +54,7 @@ You must set these settings before taking a screenshot of the _osu!_ client:
 
 ## Alternate and title text
 
-All images must have an alternate text. This will ensure that something will still be displayed even when it fails to load.
+All images must have an alternate text. This will ensure that something will be displayed even when the image fails to load.
 
 Title text (otherwise known as "hover text") is **optional**. It can be the same as the alt text if needed.
 
@@ -80,13 +80,14 @@ On a PC platform, they will work. However, on a mobile platform, they will not w
 
 _For a list of flag icons, see [issue \#328](https://github.com/ppy/osu-wiki/issues/328)._
 
-Most to all of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. A few exceptions are the multi-flag icons that are in the `.png` format.
+All of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. With a few exceptions being the multi-flag icons which are in the `.png` format.
 
 When adding a flag inline, use this format:
 
 ```
-![full-country-name](/wiki/shared/flag/xx.gif)
+![](/wiki/shared/flag/xx.gif)
 ```
 
-- `full-country-name` is the full country name.
-- `xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+`xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+
+It is suggested, to use full country names in the alt text.
