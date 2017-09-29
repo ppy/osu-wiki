@@ -100,7 +100,7 @@ The difficulty spread would follow the Default difficulty naming scheme, with th
 
 The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
 
-### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
+### ![osu!](/wiki/shared/mode/osu.png "osu!") osu! osu!
 
 - ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
 - ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
