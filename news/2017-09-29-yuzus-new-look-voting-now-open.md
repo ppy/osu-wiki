@@ -14,7 +14,7 @@ The vote will run for **14 days from the date of this post, ending on the 13th o
 
 The top 3 entries as decided by the community will be gifted **6, 4 and 2 months of osu!supporter** respectively. 
 
-Do note that this poll does **not** decide which of the looks Yuzu will take on as his official appearance. That choice falls to our designer, flyte, who now has the painstaking task of choosing the look that he feels fits our fruit-loving mascot the best.
+Do note that this poll does **not** decide which of the looks Yuzu will take on as his official appearance. The osu!team now has the painstaking task of choosing the look that we feel fits our fruit-loving mascot the best.
 
 As always, we're astonished with the level of care and skill that goes into the entries we see from our art-related contests. 
 
