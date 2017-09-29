@@ -107,10 +107,10 @@ The following **individual** difficulty names have been accepted and are used mo
 - ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
 - ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: it can be used to represent a more difficult Expert.
 
-### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
+### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
 - ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: it can be used to represent a more difficult Inner Oni / Ura Oni.
 
-### ![osu!catch](/wiki/shared/Ctb.gif "osu!catch") osu!catch
+### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
 - ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: it can be used to represent a more difficult Overdose.
