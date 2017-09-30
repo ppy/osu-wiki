@@ -56,7 +56,7 @@ Team Members
 
 _Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
 
-Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
+Also note: the game modes columns listed below indicates the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. 
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages     |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------|
