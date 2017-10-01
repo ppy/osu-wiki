@@ -1,5 +1,4 @@
 <!-- wiki -->
-[Game Modes wikilink]: ../ "Game Modes"
 [opsu! wikilink]: ./opsu! "opsu! by itdelatrisu with fluddokt"
 [osu!droid wikilink]: ./osu!droid "osu!droid by Pesets"
 [osu!stream wikilink]: ./osu!stream "osu!stream by osu! team"
@@ -16,20 +15,18 @@
 [osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
 [osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
 
-# External ports
+# Similar Games
 
-[Click here to return to Game Modes][Game Modes wikilink]
-
-Playable ports of osu! game modes.
+Similar games based of osu! game modes.
 
 One of the criteria below must be satisfied to be allowed here:-
 
 - It must be able to **read/parse the beatmap** (specifically, `.osu`) files without errors.
 - It must emulate **at least one of the osu! game modes**.
 
-## Official ports
+## Official variant
 
-Ports done by the osu! team.
+Variant of one of the game modes done by the osu! team.
 
 ### iOS
 
@@ -40,14 +37,14 @@ Ports done by the osu! team.
   - Some beatmaps may require micro-transaction.
     Deprecated due to inactivity of new beatmap packs/features.
 
-## Unofficial ports
+## Unofficial variant
 
-Ports done by the community of osu!.
+Variant of one of the game modes done by the community of osu!.
 
 ### Multiplatform
 
 - ![osu! icon][osu! icon link] [opsu!][opsu! wikilink] [Windows/OS X/Linux/Android]:
-  Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
+  Java port of osu! game mode chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
 - ![osu!taiko icon][osu!taiko icon link] [T-Aiko! v2][T-Aiko! v2 wikilink] [Android/iOS]:
   osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
   - ![osu!taiko icon][osu!taiko icon link] [T-Aiko! v1][T-Aiko! v1 wikilink] [Android]:

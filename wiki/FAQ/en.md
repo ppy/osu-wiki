@@ -22,10 +22,10 @@
 [Replay wikilink]: /wiki/Replay/ "Replay"
 [Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Shortcut Key Reference"
 [Options wikilink]: /wiki/Options "Options"
-[Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "External Ports"
-[opsu! wikilink]: ./External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
-[osu!stream wikilink]: ./External_Ports/osu!stream "osu!stream by osu! team"
-[T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 by low.moe team"
+[Similar Games wikilink]: /wiki/Similar_Games/ "Similar Games"
+[opsu! wikilink]: ./Similar_Games/opsu! "opsu! by itdelatrisu with fluddokt"
+[osu!stream wikilink]: ./Similar_Games/osu!stream "osu!stream by osu! team"
+[T-Aiko! v2 wikilink]: ./Similar_Games/T-Aiko! "T-Aiko! v2 by low.moe team"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -640,7 +640,7 @@ If it ask for merging `.dll` or `.exe` files, ignore it.
 Allow merging for everything else, including `.cfg` and `.db` files.
 
 #### Can I use osu! on my mobile device?
-_Full list: [Game Modes under External Ports section][Game Modes#External Ports wikilink]_
+_Full list: [Similar Games section][Similar Games wikilink]_
 
 The current _osu!_ does not support any mobile platform.
 
