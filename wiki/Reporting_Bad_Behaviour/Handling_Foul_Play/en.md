@@ -1,4 +1,4 @@
-# Handling Cheating
+# Handling Foul Play
 
 
 ## Why am I restricted?
@@ -6,17 +6,21 @@ A user may get restricted if they do any of the following:
 -   Continuous misbehaviour regardless of how many infringements they accumulate.
 -   Circumventing a punishment by making a new account.
 -   Sharing their account with other users.
--   Using multiple accounts.
+-   Multi-accounting.
 -   Hacking or cheating (see below).
 
 
+## What is considered multi-accounting?
+Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences will be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted.
+
+
 ## What is considered cheating?
-The [rules](/wiki/Rules) say that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player.
+The [rules](/wiki/Rules) that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player is considered cheating.
 
 This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The team may decide to lift their restriction if they successfully appeal.
 
 
-## I have been restricted for cheating. I didn't cheat!
+## I have been restricted for cheating, but I didn't cheat!
 osu! uses automated metrics combined with manual confirmation. If you don't know why you are restricted, contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 
@@ -25,11 +29,11 @@ The team will not provide any proof. Giving away the countermeasures would make 
 
 
 ## I'll make a video to prove my innocence!
-Sorry but if you have been restricted, they are already 100% sure you are cheating. A video will not help because even these can be also doctored.
+Sorry, but if you have been restricted, the team is already sure you are cheating. A video will not help, because even these can be also doctored.
 
 
 ## I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
-Stay calm and **don't discuss their play in public chat**. Don't give them undue attention or ask others to spectate them.
+Stay calm and **don't discuss their plays in public chat**. Don't give them undue attention or ask others to spectate them.
 You should report the user and not mention them anywhere. There are three ways to do so.
 
 ### User Profile
@@ -58,11 +62,11 @@ Peripherals such as tablets and touchscreens are fine. Anything which decreases 
 
 
 ## How can I appeal my restriction?
-Wait for three months after the latest issued restriction before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
+Wait three months after the latest issued restriction before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
 
-The team expects users to give a full history of their wrongdoings and give reasons why they won't be reoffending in the future.
+The team expects users to give a full history of their actions and give reasons why they won't be reoffending in the future.
 
-*It might take time for us to reply to your appeal, but no appeals are ignored.*
+*It might take time for us to reply to your appeal, but no appeals will be ignored.*
 
 
 ## What can I do if I've broken the rules?
