@@ -1,18 +1,18 @@
 <!-- Internal -->
 [Beatmapping]: /wiki/Beatmapping "Beatmapping"
-[GD]: /wiki/Glossary "Guest Difficulty defination in Glossary"
-[Breaks]: /wiki/Glossary "Breaks defination in Glossary"
-[Score#osu]: /wiki/Score "Score for osu!standard"
-[HR]: /wiki/Game_Modifiers/hr "Hard Rock in Game Modifiers"
-[EZ]: /wiki/Game_Modifiers/ez
-[DT]:
-[HT]:
+[GD]: /wiki/GD "Guest Difficulty"
+[Breaks]: /wiki/Breaks "Breaks"
+[Score#osu]: /wiki/Score/#osu "Scoring Values for osu!standard"
+[HR]: /wiki/HR "Hard Rock"
+[EZ]: /wiki/EZ "Easy"
+[DT]: /wiki/DT "Double Time"
+[HT]: /wiki/HT "Half Time"
 [Score]: /wiki/Score "Score"
 
 <!-- External -->
-[forum_metadata]: https://osu.ppy.sh/forum/t/249288
-[beatmap_CS_1]: https://osu.ppy.sh/s/2008
-[beatmap_CS_2]: https://osu.ppy.sh/s/1208
+[forum_metadata]: https://osu.ppy.sh/community/forums/topics/249288 "\[Guide\] Metadata by Tari"
+[beatmap_CS_1]: https://osu.ppy.sh/beatmapsets/2008
+[beatmap_CS_2]: https://osu.ppy.sh/beatmapsets/1208
 
 <!-- img -->
 [SS_nav]: ./img/Song_Setup_nav.jpg "Where the Song Setup is located in the Beatmap Editor"
@@ -21,7 +21,6 @@
 [CS]: ./img/Circle_sizes.png "Overview of various Circle Sizes"
 [AR]: /wiki/shared/ARTable.jpg "Detailed AR chart"
 [OD]: ./img/ODTable.jpg "Detailed OD chart"
-
 
 # Song Setup
 
@@ -35,7 +34,7 @@ Song Setup is an important screen in [beatmapping][Beatmapping]. It contains met
 
 ![An example of complete data (General tab)][SS_gen]
 
-[Guide on finding Metadata][forum_metadata].
+_See also: [\[Guide\] Metadata][forum_metadata]_
 
 Title|Description
 :---|:---
@@ -143,7 +142,7 @@ Four mods can alter overall difficulty timing when activated:
 
 ### Approximate Difficulty Rating
 
-This is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score][Score]. This is not the final star ranking of the song; it is just an approximation based on the settings you chose.
+This is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score][Score]. This is not the final star ranking of the song; it is just an approximation based on the current settings.
 
 ## Audio
 
