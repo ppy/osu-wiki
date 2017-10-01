@@ -8,6 +8,8 @@
 [DT]: /wiki/DT "Double Time"
 [HT]: /wiki/HT "Half Time"
 [Score]: /wiki/Score "Score"
+[Timing]: /wiki/Beatmap_Editor/Timing "Timing"
+[Custom Sample Overrides]: /wiki/custom_sample_overrides "Custom Sample Overrides"
 
 <!-- External -->
 [forum_metadata]: https://osu.ppy.sh/community/forums/topics/249288 "\[Guide\] Metadata by Tari"
@@ -17,7 +19,9 @@
 <!-- img -->
 [SS_nav]: ./img/Song_Setup_nav.jpg "Where the Song Setup is located in the Beatmap Editor"
 [SS_gen]: ./img/Song_Setup.jpg "An example of complete data (General tab) in Song Setup"
+[SS_audio]: ./img/SS_Audio.jpg "Audio section"
 [SS_diff]: ./img/SS_Difficulty_Settings.jpg "Difficulty section"
+[SS_colours]: ./img/SS_Colours.jpg "Colours section"
 [CS]: ./img/Circle_sizes.png "Overview of various Circle Sizes"
 [AR]: /wiki/shared/ARTable.jpg "Detailed AR chart"
 [OD]: ./img/ODTable.jpg "Detailed OD chart"
@@ -146,38 +150,65 @@ This is a summary of all of the settings chosen on this page. More stars mean ha
 
 ## Audio
 
-![Audio section](img/SS_Audio.jpg "Audio section")
+![Audio section][SS_audio]
 
 ### Default Sample Settings
 
-Here you can configure the hit sounds to your liking.
+Hit sounds configurations.
 
-If you have [timing](/wiki/Beatmap_Editor/Timing) sections (F6) that change either the hit-sound set or volume, you will not be able to adjust them here. You can click reset settings to remove them. Most mappers use timing sections to set the settings you can find here.
+Use the [timing][Timing] sections (`F6`) to change either the hit-sound set or volume individually.
 
 #### Sample Set Selection
 
-Here you can choose whether to use the Normal, Soft, or Drum built-in sample set. You can also [enable custom overrides](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides) (Put hitsounds files inside the map's folder first).
+Choose whether to use `Normal`, `Soft`, or `Drum` built-in sample set.
+
+It is possible to [enable custom overrides][Custom Sample Overrides] (please put hit sounds files inside the beatmap's folder first) for custom hit sounds instead.
 
 #### Sample Set Volume
 
-Here you can set the volume of the sample set. This is important, because while you want to hear the hit sounds (an important aspect of osu! and osu!mania), you do not want the hit-sounds to drown out the actual song.
+Set the volume of the sample set.
 
 #### Test Sample Set
 
-Click on the buttons to test out how the sample sounds. These sounds are additive, Whistle is a combination of Normal and Whistle.
+Click on the buttons to test out how the sample set sounds. Four buttons are provided, namely: `Normal`, `Whistle`, `Finish`, and `Clap`.
+
+These sounds are additive; `Whistle` is a combination of `Normal` and `Whistle`.
+
+### Misc. Toggles
+
+Miscellaneous toggles.
+
+`Samples match playback rate (for fully-hitsounded maps)`: TODO. NO CLUE.
 
 ## Colours
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Colours section][SS_colours]
 
-These sections are used mainly to assign combo colors. Combo colors are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo color opens up your OS's color picker (At picture, uploader used Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background. Up to eight combo colors can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo color (in other word, reverse order 8-7-6-5-4-3-2).
+Configure combo colours and playfield's background colour.
 
-The other part of this window is assigning the playfield background color, but this is usually a moot point because beatmaps can't be ranked without a background image which usually overrides this setting unless you are planning to use a storyboard which the background may be visible.
+### Hitcircle/Slider combos
 
-## Storyboarding
+Configure combo colour sets.
+
+Combo colours are an important part of the beatmap's aesthetic value because there will be a lot of hit circles and sliders in the beatmap.
+
+Clicking a combo colour or clicking on `New Combo Colour` opens up the OS's color picker (as shown in the image, uploader used a Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background.
+
+Up to eight combo colors can be used, although most beatmaps uses four.
+
+`Enable Custom Colours` checkbox: TODO. NO IDEA.
+
+Clicking the `Remove Combo Colour` will remove the highest numbered combo colour (in other word, reverse order starting from 8-7-6-5-4-3-2).
+
+### Playfield Background
+
+Click on the `Background Colour` to change the blank playfield's background colour.
+
+A moot point to change except for storyboard that may expose the blank playfield's background.
+
+## [TODO] Storyboarding
 
 ![Design section](img/SS_Storyboarding.jpg "Design section")
-
 
 ### Countdown
 
