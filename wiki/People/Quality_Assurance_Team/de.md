@@ -1,12 +1,5 @@
-[Ns]: /wiki/shared/Na-s.png "No"
-[Nt]: /wiki/shared/Na-t.png "No"
-[Nf]: /wiki/shared/Na-f.png "No"
-[Nm]: /wiki/shared/Na-m.png "No"
-
-[Ys]: /wiki/shared/Insane-s.png "Yes"
-[Yt]: /wiki/shared/Insane-t.png "Yes"
-[Yf]: /wiki/shared/Insane-f.png "Yes"
-[Ym]: /wiki/shared/Insane-m.png "Yes"
+[false]: /wiki/shared/false.png "No"
+[true]: /wiki/shared/true.png "Yes"
 
 Quality Assurance Team (Deutsch)
 ==================================
@@ -22,19 +15,19 @@ Teammitglieder
 
 [Team-Seite](http://osu.ppy.sh/g/7)
 
-| Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Zusätzlich gesprochene Sprachen              |
-|---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------------------------|
-| [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                                              |
-| [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                                              |
-| [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanisch, Deutsch                            |
-| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Koreanisch                                   |
-| [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Deutsch                                      |
-| [IamKwaN](https://osu.ppy.sh/u/1856463)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinesisch, Kantonesisch                     |
-| [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Deutsch, Schweizerdeutsch, etwas Französisch |
-| [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  |                                              |
-| [Kurokami](https://osu.ppy.sh/u/260933)           | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Ungarisch                                    |
-| [Mao](https://osu.ppy.sh/u/2204515)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Deutsch                                      |
-| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Chinesisch, Kantonesisch                     |
-| [Okorin](https://osu.ppy.sh/u/1623405)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Deutsch                                      |
-| [OnosakiHito](https://osu.ppy.sh/u/290128)        | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German, Serbisch, Japanisch                  |
-| [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                                              |
+| Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Zusätzlich gesprochene Sprachen              |
+|---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------------------------|
+| [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                                              |
+| [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                                              |
+| [Deif](https://osu.ppy.sh/u/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanisch, Deutsch                            |
+| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Koreanisch                                   |
+| [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Deutsch                                      |
+| [IamKwaN](https://osu.ppy.sh/u/1856463)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinesisch, Kantonesisch                     |
+| [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Deutsch, Schweizerdeutsch, etwas Französisch |
+| [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                                              |
+| [Kurokami](https://osu.ppy.sh/u/260933)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Ungarisch                                    |
+| [Mao](https://osu.ppy.sh/u/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Deutsch                                      |
+| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinesisch, Kantonesisch                     |
+| [Okorin](https://osu.ppy.sh/u/1623405)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Deutsch                                      |
+| [OnosakiHito](https://osu.ppy.sh/u/290128)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | German, Serbisch, Japanisch                  |
+| [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                                              |

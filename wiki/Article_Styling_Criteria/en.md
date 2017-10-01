@@ -2,7 +2,7 @@
 
 _See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News)._
 
-The article styling criteria (ASG) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
+The article styling criteria (ASC) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
@@ -148,7 +148,7 @@ For example:
     
     _Also see: [Game Modes](/wiki/Game Modes)._
     
-    ### ![](/wiki/shared/Osu.gif) osu!
+    ### ![](/wiki/shared/mode/osu.png) osu!
     
     osu! is a frustrating but fun circle-clicking simulator.
 
@@ -578,5 +578,5 @@ The term `Difficulty` refers to a specific `Beatmap` (these terms are interchang
 ---
 
 Use "beatmaps" instead of "maps".
-580	
-581	Use "creator" instead of "beatmapper" or "mapper".
+
+Use "creator" instead of "beatmapper" or "mapper".

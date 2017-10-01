@@ -36,6 +36,7 @@ Takım Üyeleri
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russian | Sohbet Moderasyonu |
 | [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Sohbet Moderasyonu |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Sohbet Moderasyonu |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Sohbet Moderasyonu |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum moderasyonu, Geliştiricilik |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Sohbet Moderasyonu |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Sohbet Moderasyonu |
@@ -43,19 +44,16 @@ Takım Üyeleri
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Sohbet Moderasyonu |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!haftalık |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Sohbet Moderasyonu, Teknik Destek |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Sohbet Moderasyonu |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Sohbet Moderasyonu |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Sohbet Moderasyonu, Wiki Adminliği |
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Sohbet Moderasyonu |
 | [shARPII](https://osu.ppy.sh/u/776257) | French | Sohbet Moderasyonu, Turnuvalar |
 | [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Sohbet Moderasyonu |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Sohbet Moderasyonu |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Sohbet Moderasyonu |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Sohbet Moderasyonu |
 | [Stefan](https://osu.ppy.sh/u/626907) | German | Forum Moderasyonu, Sohbet Moderasyonu |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Sohbet Moderasyonu |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!medya üretimi |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Teknik Destek |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Sohbet Moderasyonu |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Teknik Destek |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Sohbet Moderasyonu |
