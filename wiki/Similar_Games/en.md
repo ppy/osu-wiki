@@ -1,12 +1,11 @@
 <!-- wiki -->
 [opsu! wikilink]: ./opsu! "opsu! by itdelatrisu with fluddokt"
-[osu!droid wikilink]: ./osu!droid "osu!droid by Pesets"
 [osu!stream wikilink]: ./osu!stream "osu!stream by osu! team"
-[osu!wp wikilink]: ./osu!wp "osu!wp by cxy783670568"
 [T-Aiko! v2 wikilink]: ./T-Aiko! "T-Aiko! v2 by low.moe team"
 [T-Aiko! v1 wikilink]: ./T-Aiko!/v1 "T-Aiko! v1 by Guy-kun"
 
 <!-- external -->
+[osu!wp wikilink]: http://osu.ppy.sh/forum/t/121936 "osu!wp by cxy783670568"
 [osu! iPhone link]: https://osu.ppy.sh/forum/47 "osu! iPhone forum (dead)"
 
 <!-- shared image -->
@@ -57,7 +56,7 @@ Variant of one of the game modes done by the community of osu!.
 - ![osu! icon][osu! icon link] Beats v1.75 FINAL:
   Old Stepmania/ancient osu! port by **Keripo**.
   - The final build is 1.7.5b as in 10 April 2014 (2014-04-10). [Previous builds can be found here](http://beatsportable.com/static/releases/). Please note that the osu! mode is based on osu! as in February 2011 and there will be no support for osu! mode (superseded by [osu!droid][osu!droid wikilink] since August 2011) in Beats 2.
-- ![osu! icon][osu! icon link] [osu!droid][osu!droid wikilink]:
+- ![osu! icon][osu! icon link] osu!droid:
   osu! port developed by **Pesets**.
   Broken due to no support for newer beatmap version and the disappearance of the original developer.
 
