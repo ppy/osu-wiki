@@ -26,7 +26,7 @@ osu! uses automated metrics combined with manual confirmation. If you don't know
 
 
 ## Prove that I/they were cheating! Tell us how you know!
-The team will not provide any proof. Giving away the countermeasures would make them useless in further detecting cheaters.
+The team will not provide any "proof" regarding restrictions, but all are placed with well founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
 
 
 ## I'll make a video to prove my innocence!
@@ -38,17 +38,19 @@ Stay calm and **don't discuss their plays in public chat**. Don't give them undu
 You should report the user and not mention them anywhere. There are three ways to do so.
 
 ### User Profile
-This is the preferred way for reporting foul play because it provides more information overall.
+**This is the preferred way for reporting suspected foul play, as it provides the most information to the team members responsible for handling such cases.**
 
 On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
 
 *Take note of the selected game mode before reporting*
 
 ### Beatmap Page
+This way of reporting is also as effective as using the profile page for voting, the reports go to the same endpoint.
+
 In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
 ### In-game chat
-This method of report is not encouraged because in-game reports are mostly chat related.
+This way of reporting is **not encouraged** because in-game reports are mostly chat related.
 
 Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
 
