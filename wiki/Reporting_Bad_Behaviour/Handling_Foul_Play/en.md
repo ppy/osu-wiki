@@ -1,4 +1,5 @@
 # Handling Foul Play
+_Main page: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)._
 
 
 ## Why am I restricted?
