@@ -7,19 +7,19 @@ Have you ever opened up the editor and just looked at everything it offers in co
 
 ![](/wiki/shared/news/2017-10-08-community-mentorship-program-winter-2017-signups-now-open/banner.png)
 
-Since its inception in July of 2016, the program has gone through five cycles where experienced mappers teach aspiring new mappers everything there is to know about beatmapping, from the fundamentals of handling the editor to abstract and complex concepts sof beatmap design, such as structure, flow, and much more!
+Since its inception in July of 2016, the program has gone through five cycles where experienced mappers teach aspiring new mappers everything there is to know about beatmapping, from the fundamentals of handling the editor to abstract and complex concepts of beatmap design, such as structure, flow, and much more!
 
-**This time around we are scouting for mentors and mentees for the gamemodes osu!, osu!catch and osu!taiko!** 
+**This time around we are scouting for mentors and mentees for the game modes osu!, osu!catch and osu!taiko!** 
 
 This iteration of the program will be hosting three out of the four gamemodes of osu! - if you're interested here's a short timeline on this:
-- Mentor signups are open from 8th October until the 15th October.
-- Mentee signups will open on the 22nd October and close on the 1st of November.
-- The 2017 Winter cycle will start on the 5th of November and end on the 28th of January 2018.
+- Mentor signups are open from 8th October 2017 until the 15th October 2017.
+- Mentee signups will open on the 22nd October 2017 and close on the 1st November 2017.
+- The 2017 Winter cycle will start on the 5th November 2017 and end on the 28th January 2018.
 
 During this time, the internal organization team will host various events on the server, such as assorted types of mapping contests, mapping discussions ([we also publish them on the forums as guides](https://osu.ppy.sh/community/forums/topics/514122)), or even just things like multiplayer lobbies with integrated feedback sessions!
 
-If any of this sparked your interest, head over to the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/649053) to read program's rules, and apply!
+If any of this sparked your interest, head over to the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/649053) to read program's rules and apply!
 
-We are looking forward to seeing a brand new set of mentors and mentees figuring mapping out together!
+We are looking forward to seeing a brand new set of mentors and mentees figuring out how to map!
 
 —Okorin
