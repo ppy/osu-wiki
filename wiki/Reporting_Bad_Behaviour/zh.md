@@ -17,7 +17,7 @@
 
 由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "因特网中继聊天"), 因此如果用户名中间有空格，那么空格应该替换为下划线``_``。
 
-``!report This User Name 在#osu频道发辣鸡``应写作``!report This_User_Name 在#osu频道发辣鸡``    
+``!report This User Name 在#osu频道刷屏``应写作``!report This_User_Name 在#osu频道刷屏``    
 举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
 
 ![使用!report命令的例子](./img/Report-command.png "使用!report命令的栗子")
