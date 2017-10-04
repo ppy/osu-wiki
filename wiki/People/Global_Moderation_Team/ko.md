@@ -39,6 +39,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | [Kurai](https://osu.ppy.sh/u/77089) | 프랑스어, 러시아어 | 채팅 중재 |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | 러시아어 | 채팅 중재 |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | 핀란드어 | 채팅 중재 |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | 스페인어 | 채팅 중재, 포럼 중재 |
 | [Marcin](https://osu.ppy.sh/u/722665) | 폴란드어 | 포럼 중재, 개발 |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | 이탈리아어 | 채팅 중재 |
 | [n0ah](https://osu.ppy.sh/u/3086393) | 네덜란드어 | 채팅 중재, 포럼 중재 |

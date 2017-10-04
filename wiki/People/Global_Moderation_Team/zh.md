@@ -42,6 +42,7 @@ Global Moderation Team (中文)
 | [Kurai](https://osu.ppy.sh/u/77089) | 法语, 俄语 | 聊天室管理 |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | 俄语 | 聊天室管理 |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | 芬兰语 | 聊天室管理 |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | 西班牙语 | 聊天室管理, 论坛管理 |
 | [Marcin](https://osu.ppy.sh/u/722665) | 波兰语 | 论坛管理, 发展 |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | 意大利语 | 聊天室管理 |
 | [n0ah](https://osu.ppy.sh/u/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |

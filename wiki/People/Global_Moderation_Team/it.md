@@ -39,6 +39,7 @@ Membri
 | [Kurai](https://osu.ppy.sh/u/77089) | Francese, Russo | Moderazione della chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russo | Moderazione della chat |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandese | Moderazione della chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spagnolo | Moderazione della chat, Moderazione del forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polacco | Moderazione del forum, Sviluppo di osu! |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderazione della chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Olandese | Moderazione della chat, Moderazione del forum |

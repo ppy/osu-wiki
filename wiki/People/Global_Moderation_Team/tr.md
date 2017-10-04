@@ -37,6 +37,7 @@ Takım Üyeleri
 | [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Sohbet Moderasyonu |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Sohbet Moderasyonu |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Sohbet Moderasyonu |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum moderasyonu, Geliştiricilik |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Sohbet Moderasyonu |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Sohbet Moderasyonu |
@@ -58,6 +59,7 @@ Takım Üyeleri
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Teknik Destek |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Sohbet Moderasyonu |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Teknik Destek |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Sohbet Moderasyonu |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Sohbet Moderasyonu |
 | [Zetera](https://osu.ppy.sh/u/587737) | German |  |
