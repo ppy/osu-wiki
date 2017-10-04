@@ -50,6 +50,7 @@
 | [Kurai](https://osu.ppy.sh/u/77089) | французский, русский | чат |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | русский | чат |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | финский | чат |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | испанский | чат, форум |
 | [Marcin](https://osu.ppy.sh/u/722665) | польский | форум, разработка игры |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | итальянский | чат |
 | [n0ah](https://osu.ppy.sh/u/3086393) | голландский | чат, форум |

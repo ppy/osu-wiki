@@ -36,6 +36,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | [Kurai](https://osu.ppy.sh/u/77089) | Französisch, Russisch | Chat Moderation |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russisch | Chat Moderation |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Finnisch | Chat Moderation |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanisch | Chat Moderation, Forum Moderation |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polnisch | Forum Moderation, Entwicklung |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italienisch | Chat Moderation |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Niederländisch | Chat Moderation, Forum Moderation |

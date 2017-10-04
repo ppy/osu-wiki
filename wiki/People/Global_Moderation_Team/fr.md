@@ -40,6 +40,7 @@ Liste des GM
 | [Kurai](https://osu.ppy.sh/u/77089) | Français, Russe | modération du chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russe | modération du chat |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandais | modération du chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Espanol | modération du chat, modération du forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polonais | modération du forum, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italien | modération du chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Néerlandais | modération du chat, modération du forum |

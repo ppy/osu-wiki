@@ -39,6 +39,7 @@ Anggota Tim
 | [Kurai](https://osu.ppy.sh/u/77089) | Perancis, Rusia | Moderasi Chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Rusia | Moderasi Chat |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandia | Moderasi Chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanyol | Moderasi Chat, Moderasi Forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polandia | Moderasi Forum, Pengembangan |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italia | Moderasi Chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Moderasi Chat, Moderasi Forum |

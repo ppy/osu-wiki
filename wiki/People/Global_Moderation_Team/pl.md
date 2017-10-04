@@ -39,6 +39,7 @@ Członkowie zespołu
 | [Kurai](https://osu.ppy.sh/u/77089) | Francuski, Rosyjski | Moderacja Czatu |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Rosyjski | Moderacja Czatu |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Fiński | Moderacja Czatu |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Hiszpański | Moderacja Czatu, Moderacja Forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polski | Moderacja Forum, Rozwijanie gry |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Włoski | Moderacja Czatu |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Holenderski | Moderacja Czatu, Moderacja Forum |

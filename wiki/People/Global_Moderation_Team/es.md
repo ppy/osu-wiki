@@ -39,6 +39,7 @@ Miembros del equipo
 | [Kurai](https://osu.ppy.sh/u/77089) | Francés, Ruso | Moderación del Chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Ruso | Moderación del Chat |
 | [Lassikko](https://osu.ppy.sh/u/7253731) | Fino | Moderación del Chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Español | Moderación del Chat, Moderación del Foro |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polaco | Moderación del Foro, Desarrollo |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderación del Chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Holandés | Moderación del Chat |

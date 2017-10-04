@@ -38,7 +38,8 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russian | Chat Moderation |
 | [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Chat Moderation |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Chat Moderation |
-| [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Moderasi Chat |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Chat Moderation |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanish | Chat Moderation, Forum Moderation |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Chat Moderation |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat Moderation, Forum Moderation |
