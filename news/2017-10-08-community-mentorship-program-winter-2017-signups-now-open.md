@@ -7,7 +7,7 @@ Have you ever opened up the editor and just looked at everything it offers in co
 
 ![](/wiki/shared/news/2017-10-08-community-mentorship-program-winter-2017-signups-now-open/banner.png)
 
-Since its inception in July of 2016, the program has gone through five cycles where experienced mappers teach aspiring new mappers everything there is to know about beatmapping, from the fundamentals of handling the editor to abstract and complex concepts of beatmap design, such as structure, flow, and much more!
+Since its inception in July of 2016, the program has gone through five cycles where experienced mappers teach aspiring new mappers everything there is to know about beatmapping, from the fundamentals of handling the editor to abstract and complex concepts of beatmap design, such as structure, flow, and many more!
 
 **This time around we are scouting for mentors and mentees for the game modes osu!, osu!catch and osu!taiko!** 
 
