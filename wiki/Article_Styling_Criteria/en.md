@@ -8,7 +8,7 @@ All articles should try to aim at having proper grammar, correct spelling, and c
 
 ## Repository directory
 
-The following items only applies to the `wiki/` directory.
+The following standards apply only to articles saved in the `wiki/` directory.
 
 ### Locales
 
