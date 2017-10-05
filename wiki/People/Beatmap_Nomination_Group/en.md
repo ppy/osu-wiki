@@ -105,7 +105,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Italian, Romanian        |
 | [Naotoshi](https://osu.ppy.sh/u/5364763)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Natsu](https://osu.ppy.sh/u/1953876)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish                  |
-| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chineese                 |
+| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese                 |
 | [Nozhomi](https://osu.ppy.sh/u/2716981)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Nwolf](https://osu.ppy.sh/u/1910766)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | German                   |
 | [OzzyOzrock](https://osu.ppy.sh/u/465153)         | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, some French     |
