@@ -1025,6 +1025,7 @@
 "rc":                          "Ranking_Criteria"
 
 "ranking_criteria/code_of_conduct":     "Ranking_Criteria/Code_of_Conduct"
+"rc/code_of_conduct":                   "Ranking_Criteria/Code_of_Conduct"
 "code_of_conduct":                      "Ranking_Criteria/Code_of_Conduct"
 "code_of_conduct:_modding_and_mapping": "Ranking_Criteria/Code_of_Conduct"
 "code_of_conduct_modding_and_mapping":  "Ranking_Criteria/Code_of_Conduct"
@@ -1033,6 +1034,10 @@
 "coc_mam":                              "Ranking_Criteria/Code_of_Conduct"
 "modding_and_mapping":                  "Ranking_Criteria/Code_of_Conduct"
 "mam":                                  "Ranking_Criteria/Code_of_Conduct"
+
+"ranking_criteria/difficulty_naming": "Ranking_Criteria/Difficulty_Naming"
+"rc/difficulty_naming":               "Ranking_Criteria/Difficulty_Naming"
+"difficulty_naming":                  "Ranking_Criteria/Difficulty_Naming"
 
 "ranking_criteria/osu!":         "Ranking_Criteria/osu!"
 "ranking_criteria_osu!":         "Ranking_Criteria/osu!"
