@@ -98,7 +98,7 @@ We do not recommend using Markdown tables for displaying data in news articles. 
 
 #### Repository directory
 
-All images linked to news articles must either be hosted on osu! servers (ie: assets.ppy.sh) or placed within and referenced from the wiki shared image repository.
+All images linked to news articles must either be hosted on osu! servers (ie: `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
 
 News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, with the exception of the ``.md`` suffix.
 
