@@ -4,7 +4,7 @@ title: "Scorewatch: September Week 3 & 4"
 date: 2017-10-06 13:00:00 +0000
 ---
 
-We got another 2 weeks in 1 bundle for this Scorewatch article, but plays have been dropping quickly! We got some Chocobo goodness, even more unbelievable 700pp plays and a Bikko showcase. Read on to find out more!
+Two for one! Chocobo, Road of Resistance, Kikoku Doukoku Jigokuraku, Milk Crown on Sonnetica and more! Check out what some of osu!'s best have been up to with this special combined issue of Scorewatch!
 
 ![](/wiki/shared/news/2017-10-06-scorewatch-september-week-3-4/banner.jpg)
 
