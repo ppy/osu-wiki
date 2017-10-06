@@ -27,8 +27,8 @@ Miembros del Equipo
 | [Kurokami](https://osu.ppy.sh/u/260933)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Húngaro                        |
 | [Mao](https://osu.ppy.sh/u/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Alemán                         |
 | [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chino, Cantonés                |
-| [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                        |
+| [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Sueco                          |
 | [Okorin](https://osu.ppy.sh/u/1623405)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Alemán                         |
 | [OnosakiHito](https://osu.ppy.sh/u/290128)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Alemán, Serbio, Japonés        |
 | [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                                |
-| [Raiden](https://osu.ppy.sh/u/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan               |
+| [Raiden](https://osu.ppy.sh/u/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Español, Catalán               |
