@@ -105,15 +105,13 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Italian, Romanian        |
 | [Naotoshi](https://osu.ppy.sh/u/5364763)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Natsu](https://osu.ppy.sh/u/1953876)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish                  |
-| [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                  |
-| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chineese                 |
+| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese                 |
 | [Nozhomi](https://osu.ppy.sh/u/2716981)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Nwolf](https://osu.ppy.sh/u/1910766)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | German                   |
 | [OzzyOzrock](https://osu.ppy.sh/u/465153)         | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, some French     |
 | [Pentori](https://osu.ppy.sh/u/7452237)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Plaudible](https://osu.ppy.sh/u/7149815)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Protastic101](https://osu.ppy.sh/u/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
-| [Raiden](https://osu.ppy.sh/u/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan         |
 | [Regraz](https://osu.ppy.sh/u/3076909)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [Rivals_7](https://osu.ppy.sh/u/4610379)          | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
 | [Rizia](https://osu.ppy.sh/u/1367570)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
