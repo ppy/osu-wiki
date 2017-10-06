@@ -118,6 +118,10 @@ All images must be optimized as much as possible. We recommend the use of [FileO
 
 Images are not soft-captioned using Markdown except in stylistic circumstances. They may be hard-captioned where contextually appropriate.
 
+#### Alt text
+
+Alt text is not to be used in banners.
+
 ### HTML and embedded content
 
 Limited HTML use for the purposes of embedding off-site content such as YouTube videos, Twitch VODs or other applets designed to showcase osu! or osu! related content is allowed.
@@ -133,6 +137,3 @@ All osu! related information should aim to use the new site wherever possible.
 This includes forum threads (``https://osu.ppy.sh/community/forums/13``), user profiles (``https://osu.ppy.sh/users/102335``), beatmapsets (``https://osu.ppy.sh/beatmapsets/611806#osu/1291369``), and any other view which has a fully functioning implementation in osu-web.
 
 If unsure, ask a reviewer.
-
-
-
