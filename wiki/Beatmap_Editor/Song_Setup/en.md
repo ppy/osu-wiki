@@ -10,21 +10,27 @@
 [Score]: /wiki/Score "Score"
 [Timing]: /wiki/Beatmap_Editor/Timing "Timing"
 [Custom Sample Overrides]: /wiki/custom_sample_overrides "Custom Sample Overrides"
+[Ranking Criteria#Storyboarding]: /wiki/Ranking_Criteria/#storyboarding "Ranking Criteria for storyboarding"
 
 <!-- External -->
 [forum_metadata]: https://osu.ppy.sh/community/forums/topics/249288 "\[Guide\] Metadata by Tari"
-[beatmap_CS_1]: https://osu.ppy.sh/beatmapsets/2008
-[beatmap_CS_2]: https://osu.ppy.sh/beatmapsets/1208
+[beatmap_CS_1]: https://osu.ppy.sh/beatmapsets/2008 "Trauma Center: New Blood - Opening by Larto"
+[beatmap_CS_2]: https://osu.ppy.sh/beatmapsets/1208 "ORANGE RANGE - Ikenai Taiyou by Echo"
+[beatmap_PS]: https://osu.ppy.sh/beatmapsets/41820 "Beautiful Day - Bang! Bang! Bang! by -SiN-"
 
 <!-- img -->
 [SS_nav]: ./img/Song_Setup_nav.jpg "Where the Song Setup is located in the Beatmap Editor"
-[SS_gen]: ./img/Song_Setup.jpg "An example of complete data (General tab) in Song Setup"
+[SS_gen]: ./img/SS_General.jpg "An example of complete data (General tab) in Song Setup"
 [SS_audio]: ./img/SS_Audio.jpg "Audio section"
-[SS_diff]: ./img/SS_Difficulty_Settings.jpg "Difficulty section"
+[SS_diff]: ./img/SS_Difficulty.jpg "Difficulty section"
 [SS_colours]: ./img/SS_Colours.jpg "Colours section"
+[SS_design]: ./img/SS_Design.jpg "Design section"
 [CS]: ./img/Circle_sizes.png "Overview of various Circle Sizes"
 [AR]: /wiki/shared/ARTable.jpg "Detailed AR chart"
 [OD]: ./img/ODTable.jpg "Detailed OD chart"
+[SS_ps]: ./img/SS_Skin_eg.jpg "The preferred skin is set as grungosu as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half."
+[SS_adv]: ./img/SS_Advanced.jpg "Advanced section"
+[SS_sl]: ./img/SS_SL_eg.jpg "Stack Leniency"
 
 # Song Setup
 
@@ -77,7 +83,7 @@ In osu!standard and osu!catch, it is also the rate at which HP decreases (which 
 
 Known as **CS**. Only affects osu!standard and osu!catch only. Does nothing on osu!taiko and osu!mania.
 
-In osu!standard and osu!catch, it determines the size of circles/fruits and sliders/fruit trails. However, in osu!catch, it also determines the playfield length and the catcher size. The value range from 2 to 7 with lower values being larger to twice the cursor size and higher values being smaller to almost exactly the curosr size.
+In osu!standard and osu!catch, it determines the size of circles/fruits and sliders/fruit trails. However, in osu!catch, it also determines the playfield length and the catcher size. The value range from 2 to 7 with lower values being larger to twice the cursor size and higher values being smaller to almost exactly the cursor size.
 
 Most beatmaps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of the cursor). 7 onwards is likely to be seen when using the [Hard Rock][HR] mod. An example of [beatmap using 3, 5, 6, and 7 as default][beatmap_CS_1] and [beatmap that uses 0, 1, 3 and 4 as default][beatmap_CS_2].
 
@@ -126,7 +132,9 @@ Known as **OD** but as **Accuracy** on Beatmap Listing page.
 
 The Overall Difficulty is a number (from 0 to 10) that indicates how difficult it is to achieve high accuracy. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass a map.
 
-Higher overall difficulties mean a smaller window of time in which one must clear an hit object, both in general and terms of getting the highest score value from the hit object. In osu!standard, spinners must also be spun more in order to fill up the gauge in time. In osu!taiko, the denden will also need more hits to clear it. Note that in some cases, raising the OD can make previously possible spinners near impossible to clear on time.
+Higher overall difficulties mean a smaller window of time in which one must clear an hit object, both in general and terms of getting the highest score value from the hit object.
+
+In osu!standard, spinners must also be spun more in order to fill up the gauge in time. In osu!taiko, the denden will also need more hits to clear it. Note that in some cases, raising the OD can make previously possible spinners near impossible to clear on time.
 
 #### Technical
 
@@ -194,7 +202,7 @@ Combo colours are an important part of the beatmap's aesthetic value because the
 
 Clicking a combo colour or clicking on `New Combo Colour` opens up the OS's color picker (as shown in the image, uploader used a Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background.
 
-Up to eight combo colors can be used, although most beatmaps uses four.
+Up to eight combo colors can be used, although most beatmaps use four.
 
 `Enable Custom Colours` checkbox: TODO. NO IDEA.
 
@@ -206,52 +214,57 @@ Click on the `Background Colour` to change the blank playfield's background colo
 
 A moot point to change except for storyboard that may expose the blank playfield's background.
 
-## [TODO] Storyboarding
+## Design
 
-![Design section](img/SS_Storyboarding.jpg "Design section")
+![Design section][SS_design]
+
+Note: Used to be called _Storyboarding_.
 
 ### Countdown
 
-A countdown similar to the EBA and Ouendan.
+Check the `Enable countdown` checkbox to enable the countdown animation cheer before the timing of the first hit object similar to EBA and Ouendan games.
 
-You can change the speed and offset of the countdown as well.
+When enabled, the countdown animation can be refined by **Countdown Speed** (`Half`, `Normal` \[default\], `Double`) and **Countdown Offset** (default to 0 beats; more value means more earlier countdown).
 
 ### Misc.Toggles
 
-**Wide Screen Support**: will remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) to the left and right side of the playfield, if the client is using any aspect ratio greater than 4:3. This is typically-automatically enabled, when you start using storyboard elements.
-
-**Display storyboard in front of combo fire**: A long long time ago, osu! had a flame appear if you had a combo of 30 or more (it was amazing at the time!) but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out of date. Otherwise this option will do what it says, put the storyboard in front of the combo fire.
-
-**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.*"
-
-**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, but is not allowed for mania specific maps! (because breaks aren't allowed in osu!mania, anyways)
+- `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) on the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
+- `Display storyboard in front of combo fire`: A long, long time ago, _osu!_ had a flame appear (if enabled in the Options) when reaching a combo of 30 or more but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out-of-date. Otherwise this checkbox will do what it says, put the storyboard in front of the combo fire. Does nothing, _by time of writing_.
+- `Display epilepsy warning (storyboard has quick strobing)`: Put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking Criteria under Storyboarding section][Ranking Criteria#Storyboarding]: "_Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning_".
+- `Letterbox during breaks`: Determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default but is not allowed for osu!mania-specific beatmaps.
 
 ### Skinning
 
-Set the preferred skin (from `Skins` folder) to the defined skin name that will be used instead if the skin folder name is present in the player's `Skins` folder. If the skin folder name is not present, a notice will pop-up and the player's default skin will be used.
+![The preferred skin is set as grungosu as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half.][SS_ps]
 
-Most mappers will just include the skin as part of the beatmap file so this setting is rarely used unless to decrease the filesize or is part of a beatmap project. Very old beatmaps may use this.
+The `Preferred Skin` dropdown is used to set the preferred skin (from the player's `Skins` folder) to the defined skin name that will be used for the beatmap instead if the skin folder name is present in the player's `Skins` folder. If the skin folder name is not present, a notice will pop-up regarding the missing skin name and the player's default skin will be used. By default, `User's preference (No Change)` is used.
 
-An example of the usage would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+Most mappers will just include the skin elements as part of the beatmap file so this setting is rarely used unless to decrease the filesize or is part of a beatmap project (where the skin may be provided on the project page itself). Very old beatmaps may use this.
 
-![](img/SS_Skin_eg.jpg)
+An example of the usage would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)][beatmap_PS] using the `grungosu` skin that _used_ to be available in the now-defunct `osume.exe` client (ancient _osu!_ updater with a preloaded list of skins available to be downloaded through the client).
 
 ## Advanced
 
-![Advanced section](img/SS_Advanced.jpg "Advanced section")
+![Advanced section][SS_adv]
 
 ### Stack Leniency
 
-osu! will automatically stacks notes that occur in the same place and close by in time. This is so that players can tell the objects apart.
+![Stack Leniency][SS_sl]
 
-The farther to the right that this slider is, the further apart in time stacking will occur. Rules dictate that if Stack Leniency is set so that stacking no longer occurs, you must manually offset the objects. This option is best left as it is *if* you *really* do not know what will happen and what you are doing.
+_osu!_ will automatically stacks notes that occur in the same place and close by in-time. This is so that players can tell the hit objects apart.
 
-Do note that stacked hit-circles will *move* towards the point where the stacking occurs.
+The farther to the right that this slider is, the further apart in-time stacking will occur. Rules dictate that if `Stack Leniency` is set so that stacking no longer occurs, the mapper must manually offset the hit objects. This option is best left as-is. Default value is `7`.
 
-![Picture example here](img/SS_SL_eg.jpg)
+Do note that stacked hit circles in osu!standard will _move_ towards the point where the stacking occurs.
 
-Objects are considered to belong to same stack if they are at the same coordinate and no further in time than (Approach Window) \* (Stack Leniency) / 10, where approach window is the duration for which objects stay on screen (see Approach Rate above).
+Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [Approach Rate](#approach-rate) above).
 
 ### Mode Specific
 
-Normally, beatmaps are playable on all four play modes (osu!standard, osu!taiko, osu!catch, osu!mania) by default. If this is set to osu!taiko, osu!catch or osu!mania, then only that mode will be forcefully used for this difficulty setting.
+`Allowed Modes:` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`. It can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific but do note that the change will _wipe_ the beatmap hit objects clean.
+
+Please decide early and confirm the beatmap's playable mode(s) first before putting in any hit objects to prevent wasted effort.
+
+Do note that osu!mania have its own specific beatmap editor that is different from the typical _osu!_ editor.
+
+`Use special style(N+1 style) for mania` checkbox does absolutely nothing in osu!mania considering that the special key configuration is determined by the player in the Options sidebar. TODO. NO IDEA. I CANNOT FIGURE OUT WHY IS THIS EVEN EXIST BOI.
