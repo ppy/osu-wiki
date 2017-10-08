@@ -5,7 +5,7 @@ osu!mania Ranking Criteria
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
-为了记录，这里包含 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
+这里记录了 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
 
 术语
 ------
@@ -13,13 +13,13 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 -   非专家级别 = Easy, Normal. (Basic, Standard)
 -   专家级别 = Hard, Insane. (Hyper, Another)
 -   键位模式 = 5K 就是 5 键模式。有时中央的按键又被称为特殊键。
--   O2Mania = 是由玩家制作的单机版本的 O2jam 里面的谱面。O2jam 已经消失很多年了，但单机版的此游戏仍然有很多谱面。
+-   O2Mania = 是由玩家制作的单机版本的 O2jam 里面的谱面。O2jam 已经消失很多年了，但此游戏的单机版的此游戏仍然有很多谱面。
 -   音符 = 英文 `note` 在本篇当中的翻译方式，表示击打物件。
 
 规则
 ------
 
-规则就是规则。它们不是指南，在任何情况下都不允许违背。
+规则就是规则，有强制性和约束性。它们不是指南，在任何情况下都不允许被违背。
 
 ### 整体规则
 
@@ -44,7 +44,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ### 难度分布
 
--   **每一个谱面集必须有至少两个难度，而且其中之一必须为 Easy 或 Normal。**
+-   **每一个谱面集必须有至少两个难度，而且其中之一必须为 Easy 或 Normal。马拉松除外。**
 -   **谱面集中最高难度的键位数目应高于相对其较低的难度的键位数目**。只有一种键位数目的谱面集无需参考此条目。
 
 例子:- (分别假设 7K 和 4K 为较高和较低的键位数目)
@@ -79,7 +79,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
     |o---|
     |----|
 
-这就是单指连打，英语又叫 jackhammer，击打起来十分蛋疼。这个梗的难度也相当高，对于包括手速和控制力等能力的要求都十分苛刻。
+这就是单指连打，英语又叫 jackhammer，击打起来十分困难。这个梗的难度也相当高，对于包括手速和控制力等能力的要求都十分苛刻。
 
 ^ [Beethoven Symphony No. 5 - I. Allegro con brio](https://en.wikipedia.org/wiki/Symphony_No._5_%28Beethoven%29) 其中的第一小节钢琴。
 
@@ -90,7 +90,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 指南
 ------
 
-大多数的图应遵循指南（guidelines）。但在某些特殊的情况下指南是可以打破的, 在打破指南前, 问问你自己这样做是否合情理? 是否能让一个谱面变的更有趣? 如果你对这两个问题的回答是“yes”，那么这么做是可以的。
+大多数的图应遵循指南（guidelines）。但在某些特殊的情况下指南是可以打破的, 在打破指南前, 问问你自己这样做是否合情理，是否能让一个谱面变的更有趣。如果你对这两个问题的回答是“yes”，那么这么做是可以的。
 
 -    **HP drain**（血量）建议在 **7** 或者更高，这样可以与 IIDX 保持一致。
 -    **OD**（整体难度）建议：
