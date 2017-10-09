@@ -8,9 +8,9 @@ Spooks, chills, and thrills abound! Halloween is drawing close again, and you kn
 
 [![](https://assets.ppy.sh/contests/56/header.jpg)](https://osu.ppy.sh/community/contests/56)
 
-Halloween's quickly becoming something of an _osu!_ staple as far as seasonal events go, what with the [incredible showing](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh) from last year's spookiness.
+Halloween's quickly becoming something of an _osu!_ staple as far as seasonal events go, given the [incredible showing](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh) of last year's spookiness.
 
-We're aiming to match the glory of last year's showing, and to kick off the preparations, we're hosting another **Halloween-themed fanart contest, including all of the osu! community mascots!**
+To kick off the preparations, we're hosting another **Halloween-themed fanart contest, including all of the osu! community mascots!**
 
 Like last year, we'll be taking a top numbered selection of the community's favourite entries (as determined via vote) and slapping them on the osu! in-game main menu as seasonal backgrounds for everybody to admire. Each winner will also receive **2 months of osu!supporter** for either themselves or a friend, or themselves and a friend, or two friends, or.. you get the idea.
 
