@@ -16,7 +16,7 @@ En faisant ça, vous verrez une liste de commandes (celles dans le tableau ci-de
 
 Vous pouvez utiliser la commande `!<command>` ou `/bb <command>` dans n'importe quel onglet de chat.
 
-| `<command>`                    | Effect                                                                                        | Example                             | Example de réponse de BanchoBot                                           |
+| `<command>`                    | Effet                                                                                         | Exemple                             | Exemple de réponse de BanchoBot                                           |
 |--------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------|
 | `WHERE <user>`                 | Montre la localisation du joueur donné                                                        | `!where John`                       | John is in USA                                                             | 
 | `STATS <user>`                 | Montre le statut du joueur donné (basé sur l'onglet actuel du joueur)                         | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.  | 

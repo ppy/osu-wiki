@@ -2,7 +2,7 @@
 
 ![logo d'osu!academy](img/osu!academy-logo.jpg "osu!academy logo")
 
-**osu!academy** vise à apporter de la compréhension à tous les aspects d'osu!, du jeu au mapping, avec tout ce qu'il y a entre.
+**osu!academy** vise à apporter de la compréhension à tous les aspects d'_osu!_, du jeu au mapping, avec tout ce qu'il y a entre.
 
 Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aident à comprendre le jeu sans problèmes.
 Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
