@@ -20,15 +20,15 @@
 
 <!-- img -->
 [SS_nav]: ./img/Song_Setup_nav.jpg "Where the Song Setup is located in the Beatmap Editor"
-[SS_gen]: ./img/SS_General.jpg "An example of complete data (General tab) in Song Setup"
-[SS_audio]: ./img/SS_Audio.jpg "Audio section"
-[SS_diff]: ./img/SS_Difficulty.jpg "Difficulty section"
+[SS_gen]: ./img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup"
+[SS_audio]: ./img/SS_Audio.jpg "Audio section. The right section will be shown if the beatmap contains custom timing on volume settings"
+[SS_diff]: ./img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmap."
 [SS_colours]: ./img/SS_Colours.jpg "Colours section"
 [SS_design]: ./img/SS_Design.jpg "Design section"
 [CS]: ./img/Circle_sizes.png "Overview of various Circle Sizes"
 [AR]: /wiki/shared/ARTable.jpg "Detailed AR chart"
 [OD]: ./img/ODTable.jpg "Detailed OD chart"
-[SS_ps]: ./img/SS_Skin_eg.jpg "The preferred skin is set as grungosu as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half."
+[SS_ps]: ./img/SS_Skin_eg.jpg "The preferred skin is set as grungosu and there is no skin elements in the beatmapset folder as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half."
 [SS_adv]: ./img/SS_Advanced.jpg "Advanced section"
 [SS_sl]: ./img/SS_SL_eg.jpg "Stack Leniency"
 
@@ -42,13 +42,13 @@ Song Setup is an important screen in [beatmapping][Beatmapping]. It contains met
 
 ### Song and Map Meta Data
 
-![An example of complete data (General tab)][SS_gen]
+![An example of complete metadata (General tab)][SS_gen]
 
 _See also: [\[Guide\] Metadata][forum_metadata]_
 
 Title|Description
 :---|:---
-Artist | **The band, singer, composer, or group that performed or created the song.** It will be pulled automatically from the `.mp3` file's metadata but please double-check to ensure that it is spelled and punctuated correctly. **Anime/Game titles, Vocaloid names, or companies do not belong here (they belong to Tags).** The composer for anime and game songs can be found on Wikipedia or other reliable sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com/) or [MyAnimeList](https://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name; the western order, for consistency).
+Artist | **The band, singer, composer, or group that performed or created the song.** It will be pulled automatically from the `.mp3` file's metadata but please double-check to ensure that it is spelled and punctuated correctly. **Anime/Game titles, Vocaloid names, or companies do not belong here (they belong to Tags).** The composer for anime and game songs can be found on [Wikipedia](https://www.wikipedia.org "Wikipedia - The Free Encyclopedia") or other reliable sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com/ "AnimeNewsNetwork") or [MyAnimeList](https://myanimelist.net/ "MyAnimeList"). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name; the western order, for consistency).
 Romanised Artist | **The romanised (English) name of the artist of the song.** It should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name; the western order, for consistency). This field will only become **active if Unicode characters are used in the Artist** field.
 Title | **The name of the song.** It will be pulled automatically from the `.mp3` file's metadata but please double-check to ensure that it is spelled and punctuated correctly.
 Romanised Title | **The romanised (English) name of the name of the song.** This field will only become **active if Unicode characters are used in the Title** field.
@@ -60,14 +60,16 @@ Tags | **Keywords to help in searches.** Common uses include album names, creato
 Notes:-
 
 - Not every song needs something on the **Source** field. The source is only for songs that are _from_ something, such as a video game theme song, or something from the soundtrack of an anime. Regular rock and pop songs can just leave the source field blank. Other relevent information should be entered on the **Tags** field such as album title or subgenre information.
-- Complete this song metadata information first before creating a second difficulty to ensure that the text will be consistent across all of the beatmaps in the beatmapset.
+- Complete this song metadata information first before creating a second difficulty to ensure that the metadata will be consistent across all of the beatmaps in the beatmapset.
   - To avoid issues, please also make sure that everything (aside from Difficulty) is filled out identically on the second difficulty onwards.
 
 ## Difficulty
 
-![Difficulty section][SS_diff]
+![Difficulty section. The right section is for osu!mania-specific beatmap.][SS_diff]
 
 Tab related to the core of beatmap's settings. Each setting affects different aspects of the beatmap.
+
+Holding down `Shift` button allows for a precise 0.1 value adjustment over the typical 1 value adjustment.
 
 ### HP Drain Rate
 
@@ -85,7 +87,7 @@ Known as **CS**. Only affects osu!standard and osu!catch only. Does nothing on o
 
 In osu!standard and osu!catch, it determines the size of circles/fruits and sliders/fruit trails. However, in osu!catch, it also determines the playfield length and the catcher size. The value range from 2 to 7 with lower values being larger to twice the cursor size and higher values being smaller to almost exactly the cursor size.
 
-Most beatmaps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of the cursor). 7 onwards is likely to be seen when using the [Hard Rock][HR] mod. An example of [beatmap using 3, 5, 6, and 7 as default][beatmap_CS_1] and [beatmap that uses 0, 1, 3 and 4 as default][beatmap_CS_2].
+Most beatmaps use sizes 3, 4, and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of the cursor). 7 onwards is likely to be seen when using the [Hard Rock][HR] mod. An example of [beatmap using 3, 5, 6, and 7 as default][beatmap_CS_1] and [beatmap that uses 0, 1, 3 and 4 as default][beatmap_CS_2].
 
 It is possible by manually editing the `.osu` file to assign a value of 0 - 10 but this is not suggested as using sizes not between 2 - 7 will be considered as unrankable beatmap.
 
@@ -95,7 +97,7 @@ Known as **Keys**. Replaces Circle Size if the beatmap is set to osu!mania-speci
 
 This determines the xK count for the difficulty. The value range from 1 to 9 with the selected number signify the amount of xK to be used on the difficulty.
 
-Clicking on `Co-op mode` checkbox doubles the currently selected amount (from 5 onwards), leading to 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
+Checking on `Co-op mode` checkbox doubles the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
 ### Approach Rate
 
@@ -120,7 +122,7 @@ Four mods can alter approach rate timing when activated:
 - [Double Time][DT]: The AR value does not change, but the 1.50x play speed causes circles to stay on screen 33% shorter.
 - [Half Time][HT]: The AR value does not change, but the 0.75x play speed causes circles to stay on screen 33% longer.
 
-**Note:** While Half Time and Double Time do not change the actual AR value, the speed difference can lead to an apparent AR as low as -5 or as high as 11. In the AR chart provided, these apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number from 0 to 10. Note that AR levels scale by 120ms below AR5, and 150ms above AR5.
+**Note:** While Half Time and Double Time do not change the actual AR value, the speed difference can lead to an apparent AR as low as -5 or as high as 11. In the AR chart provided, these apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number from 0 to 10. Note that AR levels scale by 120ms for below AR5 and 150ms for above AR5.
 
 ### Overall Difficulty
 
@@ -149,22 +151,20 @@ Four mods can alter overall difficulty timing when activated:
 
 **Note:**
 
-- While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the chart below, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests, and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values below are only for comparison: the actual OD value is always a number from 0 to 10.
+- While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 - The osu!standard timing system does not allow a hit circle to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
-
-### Approximate Difficulty Rating
-
-This is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score][Score]. This is not the final star ranking of the song; it is just an approximation based on the current settings.
 
 ## Audio
 
-![Audio section][SS_audio]
+![Audio section. The right section will be shown if the beatmap contains custom timing on volume settings][SS_audio]
 
 ### Default Sample Settings
 
 Hit sounds configurations.
 
 Use the [timing][Timing] sections (`F6`) to change either the hit-sound set or volume individually.
+
+`Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there is timing-sensitive volume adjustment used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustment.
 
 #### Sample Set Selection
 
@@ -186,7 +186,7 @@ These sounds are additive; `Whistle` is a combination of `Normal` and `Whistle`.
 
 Miscellaneous toggles.
 
-`Samples match playback rate (for fully-hitsounded maps)`: TODO. NO CLUE.
+`Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to the speed modifiers. Unchecking it will let the hit sounds play at its own preset pitch. This option is subjective to the mapper so please use discretion before checking it.
 
 ## Colours
 
@@ -196,15 +196,15 @@ Configure combo colours and playfield's background colour.
 
 ### Hitcircle/Slider combos
 
-Configure combo colour sets.
+Configure the custom combo colour set.
 
-Combo colours are an important part of the beatmap's aesthetic value because there will be a lot of hit circles and sliders in the beatmap.
+Combo colours are an important part of the beatmap's aesthetic value.
 
 Clicking a combo colour or clicking on `New Combo Colour` opens up the OS's color picker (as shown in the image, uploader used a Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background.
 
 Up to eight combo colors can be used, although most beatmaps use four.
 
-`Enable Custom Colours` checkbox: TODO. NO IDEA.
+The `Enable Custom Colours` checkbox must be checked to enable the custom combo colour set above. Unchecking it will default to either the default combo colour settings or the player's skin combo colour settings. It is generally recommended to keep it checked so the beatmap has its own unique identity in terms of combo colours. It can be safely unchecked for osu!taiko-specific and osu!mania-specific beatmaps.
 
 Clicking the `Remove Combo Colour` will remove the highest numbered combo colour (in other word, reverse order starting from 8-7-6-5-4-3-2).
 
@@ -218,15 +218,13 @@ A moot point to change except for storyboard that may expose the blank playfield
 
 ![Design section][SS_design]
 
-Note: Used to be called _Storyboarding_.
-
 ### Countdown
 
 Check the `Enable countdown` checkbox to enable the countdown animation cheer before the timing of the first hit object similar to EBA and Ouendan games.
 
 When enabled, the countdown animation can be refined by **Countdown Speed** (`Half`, `Normal` \[default\], `Double`) and **Countdown Offset** (default to 0 beats; more value means more earlier countdown).
 
-### Misc.Toggles
+### Misc. Toggles
 
 - `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) on the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
 - `Display storyboard in front of combo fire`: A long, long time ago, _osu!_ had a flame appear (if enabled in the Options) when reaching a combo of 30 or more but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out-of-date. Otherwise this checkbox will do what it says, put the storyboard in front of the combo fire. Does nothing, _by time of writing_.
@@ -235,11 +233,11 @@ When enabled, the countdown animation can be refined by **Countdown Speed** (`Ha
 
 ### Skinning
 
-![The preferred skin is set as grungosu as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half.][SS_ps]
+![The preferred skin is set as grungosu and there is no skin elements in the beatmapset folder as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half.][SS_ps]
 
 The `Preferred Skin` dropdown is used to set the preferred skin (from the player's `Skins` folder) to the defined skin name that will be used for the beatmap instead if the skin folder name is present in the player's `Skins` folder. If the skin folder name is not present, a notice will pop-up regarding the missing skin name and the player's default skin will be used. By default, `User's preference (No Change)` is used.
 
-Most mappers will just include the skin elements as part of the beatmap file so this setting is rarely used unless to decrease the filesize or is part of a beatmap project (where the skin may be provided on the project page itself). Very old beatmaps may use this.
+Most mappers will just include the skin elements as part of the beatmap file so this setting is rarely used unless to decrease the filesize or is part of a beatmap project (where the skin may be provided on the project page itself). _Ancient_ beatmaps may use this.
 
 An example of the usage would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)][beatmap_PS] using the `grungosu` skin that _used_ to be available in the now-defunct `osume.exe` client (ancient _osu!_ updater with a preloaded list of skins available to be downloaded through the client).
 
@@ -267,4 +265,9 @@ Please decide early and confirm the beatmap's playable mode(s) first before putt
 
 Do note that osu!mania have its own specific beatmap editor that is different from the typical _osu!_ editor.
 
-`Use special style(N+1 style) for mania` checkbox does absolutely nothing in osu!mania considering that the special key configuration is determined by the player in the Options sidebar. TODO. NO IDEA. I CANNOT FIGURE OUT WHY IS THIS EVEN EXIST BOI.
+`Use special style(N+1 style) for mania` checkbox does nothing considering the player can set personal preference specifically at Options in `osu!mania layout` button.
+
+## Trivia
+
+- `Design` tab used to be called _Storyboarding_.
+- In the `Difficulty` tab, there used to be `Approximate Difficulty Rating` which is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score][Score]. This is not the final star ranking of the song; it is just an approximation based on the current settings. It has since been removed for a notice that holding `Shift` allows fine-tuning the values by an increment of 0.1 instead of the usual slide of 1.
