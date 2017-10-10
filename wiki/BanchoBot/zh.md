@@ -5,7 +5,7 @@
 
 BanchoBot 是一个由 **Echo49** 编写的可爱的机器人。它能对用户的一些指令和命令给出反馈，以此来帮助玩家聊天、展示玩家信息或宣传与游戏相关的内容。
 
-它是 [bancho irc](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#3](https://osu.ppy.sh/u/3)_ （就在 ID 是 [#2](https://osu.ppy.sh/u/2) 的 peppy 旁边）。*它也有一个[推特账号](https://twitter.com/banchoboat)！*
+它是 [bancho irc](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#3](https://osu.ppy.sh/u/3)_ （就比 ID 是 [#2](https://osu.ppy.sh/u/2) 的 peppy 大一号）。*它也有一个[推特账号](https://twitter.com/banchoboat)！*
 
 
 <!-- BanchoBot (server) commands start with an exclamation mark! `!`-->
