@@ -373,7 +373,7 @@ Embeds a YouTube video in your post.
 ### Heading (v1)
 
 Adds a big fancy pink heading.
-This is usually used to denote a new section in yor post.
+This is usually used to denote a new section in your post.
 
 - Dedicated button: _none_
 - Notes:
@@ -386,7 +386,7 @@ This is usually used to denote a new section in yor post.
 ### Heading (v2)
 
 Adds a big fancy purple heading with a horizontal line.
-This is usually used to denote a new section in yor post.
+This is usually used to denote a new section in your post.
 
 - Dedicated button: _none_
 - Notes:
