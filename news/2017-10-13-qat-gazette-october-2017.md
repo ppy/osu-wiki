@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: October 2017"
-date: 2017-10-12 09:00:00 +0000
+date: 2017-10-13 09:00:00 +0000
 ---
 
 There have been major developments in the Quality Assurance Team and Beatmap Nominators this month, with new QAT leaders, changes to the Nominator Tier system, revival of mapping contests, and more ranked maps per day! Curious to know more? Read on to find out!
