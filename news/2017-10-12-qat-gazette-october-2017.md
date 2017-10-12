@@ -23,7 +23,7 @@ Many people were not happy about these changes because of the lack of Tier 2 Nom
 
 ### Beatmap Nominator Rewards
 
-You may have already seen that all Beatmap Nominators received a “Beatmap Nominator” forum title and a special purple forum color. The older players among you will maybe know this color, as it’s really similar to the old Mapping Assistance Team colour. It is planned for members of the Beatmap Nominators to also receive further rewards for their effort, including special titles for consistently active members over long periods of time. How we judge the awarding of this **Elite Nominator** title is still being decided on.
+You may have already seen that all Beatmap Nominators received a “Beatmap Nominator” forum title and a special purple forum colour. The older players among you will maybe know this colour, as it’s really similar to the old Mapping Assistance Team colour. It is planned for members of the Beatmap Nominators to also receive further rewards for their effort, including special titles for consistently active members over long periods of time. How we judge the awarding of this **Elite Nominator** title is still being decided on.
 
 ### QAT Leaders
 
