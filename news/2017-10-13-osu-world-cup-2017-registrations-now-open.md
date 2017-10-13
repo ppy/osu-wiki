@@ -3,7 +3,7 @@ layout: post
 title: "osu! World Cup 2017: Registrations now open!"
 date: 2017-10-13 13:00:00 +0000
 ---
-It is time again for this year's official osu! World Cup. With a brand new design, osu!'s fiercest and most exciting competition is just getting started
+It is time again for this year's official osu! World Cup. With a brand new design, osu!'s fiercest and most exciting competition is just getting started!
 
 ![](/wiki/shared/news/banners/owc_2017_banner.png)
 
@@ -28,13 +28,13 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://osu.ppy.sh/community/tournaments/12)**
++ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/12)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
 + Hand in your registration before **29. October 2017.**
 
 Note that you can only participate if you are of a **osu! global ranking of #5000 or higher and did not violate the [osu! community rules](/wiki/Rules) in the past 12 months**.
 
-If your registration successfully passed our evaluation, you will be put on the candidate list of your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
+If your registration successfully passed our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
 _Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
 
