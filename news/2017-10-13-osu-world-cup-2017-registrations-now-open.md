@@ -3,7 +3,7 @@ layout: post
 title: "osu! World Cup 2017: Registrations now open!"
 date: 2017-10-13 13:00:00 +0000
 ---
-It is time again for this year's official osu! World Cup. With a fresh design, the most fierceful and exciting competition is about to start!
+It is time again for this year's official osu! World Cup. With a brand new design, osu!'s fiercest and most exciting competition is just getting started
 
 ![](/wiki/shared/news/banners/owc_2017_banner.png)
 
