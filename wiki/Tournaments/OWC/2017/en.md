@@ -3,7 +3,7 @@ osu! World Cup 2017
 
 ![osu! World Cup 2017](logo.jpg)
 
-The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is part of the 8th installment of the osu! World Cup.
+The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
@@ -131,14 +131,12 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals - Week 1 | O & AB, AC, AD, AE |
-| Finals - Week 2 | P, Q |
+| Finals | O & AB, AC, AD, AE, P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals and Finals: Week 1, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Finals: Week 2, you need to win 7 beatmaps to win the match. (Best-of-13)
+   - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+   - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+   - In Semifinals and Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 
