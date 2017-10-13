@@ -9,7 +9,7 @@ The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 16. - 29. October 2017 |
+| Registration Phase | 13. - 29. October 2017 |
 | Drawings | 12. November 2017 (14:00 UTC+0) |
 | Group Stage | 18. - 19. November 2017 |
 | Round of 16 | 25. - 26. November 2017 |
