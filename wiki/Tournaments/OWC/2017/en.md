@@ -42,6 +42,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 - [Discussion thread]()
 - [Livestream](https://www.twitch.tv/osulive)
+- [Sign up here!](https://osu.ppy.sh/community/tournaments/12)
 
 ------------------------------------------------------------------------
 
