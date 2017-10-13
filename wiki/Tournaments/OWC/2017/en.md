@@ -181,6 +181,8 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+   - Finals stage may have matches on Friday, depending on the occuring encounters.
+
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 
