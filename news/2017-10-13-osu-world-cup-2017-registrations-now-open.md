@@ -15,7 +15,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 + Registration Phase: 13. - 29. October 2017
 + Live Drawings: 12. November 2017 14:00 UTC+0
 + Group Stage: 18. - 19. November 2017
-+ Round of 16: 25. - 26. August 2017
++ Round of 16: 25. - 26. November 2017
 + Quarterfinals: 2. - 3. December 2017
 + Semifinals: 9. - 10. December 2017
 + Finals: 15. - 17. December 2017
