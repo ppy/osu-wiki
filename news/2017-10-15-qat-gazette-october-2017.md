@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: October 2017"
-date: 2017-10-13 09:00:00 +0000
+date: 2017-10-15 09:00:00 +0000
 ---
 
 There have been major developments in the Quality Assurance Team and Beatmap Nominators this month, with new QAT leaders, changes to the Nominator Tier system, revival of mapping contests, and more ranked maps per day! Curious to know more? Read on to find out!
@@ -53,7 +53,7 @@ Because of these factors, beatmaps may have spent up to 12 days or even more in 
 
 ## Within the Quality Assurance Team
 
-Unfortunately, our team member [Cryptic](https://osu.ppy.sh/users/3728904) decided to step down from the QAT on his own after a short tenure to focus on IRL duties. You will be missed Cryptic, thanks for your contributions!
+Unfortunately, our team member [Cryptic](https://osu.ppy.sh/users/3728904) and decided to step down from the QAT on his own after a short tenure to focus on IRL duties. Additionally, our resident metadata expert [IamKwaN](https://osu.ppy.sh/users/1856463) has also departed to seek some well-earned rest and relaxation. You will be missed guys, thanks for your contributions!
 
 It’s not all sad news however, as we also have **two new additions too!** Please give a warm welcome to the Quality Assurance Team for [Naxess](https://osu.ppy.sh/users/8129817) and [Raiden](https://osu.ppy.sh/users/2239480)! Together with Mao, Naxess will assist with development of the Beatmap Nominator subdivisions, where his experience coding a Discord bot for logging Beatmap Nominator activity will be invaluable. Raiden has been responsible for a large amount of work on the new osu!taiko Ranking Criteria, and has joined to help manage the osu!taiko Beatmap Nominators who have grown a lot with the last phase of applications.
 
