@@ -15,13 +15,6 @@ Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game m
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Multi](/wiki/Multi/#getting-started)
 
-## Current events
-
-<!--There are no active events within the osu! community at this time.-->
-- [Aspire Stage Three: osu!catch Begins](https://osu.ppy.sh/home/news/2017-09-21-aspire-stage-three-osucatch-begins)
-- [osu!idol 2017 (Auditions)](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
-- [Yuzu's New Look Voting Now Open](https://osu.ppy.sh/home/news/2017-09-29-yuzus-new-look-voting-now-open)
-
 ## Article of the month
 
 _See also: [Ranking Criteria](/wiki/Ranking_Criteria)._
