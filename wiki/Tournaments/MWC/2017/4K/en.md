@@ -48,16 +48,6 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Saturday, 16. September 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3.00 UTC** | 22.00 (Fri.) UTC -5 | 12.00 UTC +9 |
-
-------------------------------------------------------------------------
-
 ## Participants
 
 ### Confirmed Rosters
@@ -96,6 +86,10 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Xonica](https://osu.ppy.sh/users/3586776), [yipyapyop](https://osu.ppy.sh/users/5156656), [SleepyDarkrai](https://osu.ppy.sh/users/5063207), [itsjake](https://osu.ppy.sh/users/3617889), [Traps Are Cute](https://osu.ppy.sh/users/3359035) |
 | ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [[-Gearfrik-]](https://osu.ppy.sh/users/8198818) |
+
+------------------------------------------------------------------------
+
+![Winner Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
@@ -217,6 +211,12 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 16. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 0 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/36111799) |
 
 ### Finals - Week 1
 
