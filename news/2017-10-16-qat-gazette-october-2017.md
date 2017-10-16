@@ -41,9 +41,7 @@ Three of our QATs, [Deif](https://osu.ppy.sh/users/318565), [JBHyperion](https:/
 
 **For osu!mania:** [Asherz007](https://osu.ppy.sh/users/9014047), [Litharrale](https://osu.ppy.sh/users/3189995) and [Weber](https://osu.ppy.sh/users/6410432)
 
-All of these people are now a part of the Beatmap Nominators as probationary members.
-
-As mentioned previously, we replaced the Tier system with the probation phase, which lasts for two months at most. In this time the Nominator is able to bubble beatmaps, but not to qualify them. You could call it a “test run”, where the probationary BNs are closely supervised by the QAT. Should they demonstrate an acceptable level of activity and quality in this time, they will become full members of the Beatmap Nominators who can both bubble and qualify beatmaps.
+As mentioned previously, we replaced the Tier system with the probation phase, which lasts for two months at most. In this time the Nominator is able to bubble beatmaps, but not to qualify them. You could call it a “test run”, where the probationary BNs are closely supervised by the QAT. Having joined as probationary Beatmap Nominators several weeks ago, these new members have demonstrated an acceptable level of activity and quality in this time. As such, they have recently become full members of the Beatmap Nominators who can both bubble and qualify beatmaps.
 
 ### The Qualification Cap
 
