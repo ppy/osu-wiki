@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: October 2017"
-date: 2017-10-16 13:00:00 +0000
+date: 2017-10-16 06:00:00 +0000
 ---
 
 There have been major developments in the Quality Assurance Team and Beatmap Nominators this month, with new QAT leaders, changes to the Nominator Tier system, revival of mapping contests, and more ranked maps per day! Curious to know more? Read on to find out!
@@ -23,7 +23,9 @@ Many people were not happy about these changes because of the lack of Tier 2 Nom
 
 ### Beatmap Nominator Rewards
 
-You may have already seen that all Beatmap Nominators received a “Beatmap Nominator” forum title and a special purple forum colour. The older players among you will maybe know this colour, as it’s really similar to the old Mapping Assistance Team colour. It is planned for members of the Beatmap Nominators to also receive further rewards for their effort, including special titles for consistently active members over long periods of time. How we judge the awarding of this **Elite Nominator** title is still being decided on.
+You may have already seen that all Beatmap Nominators received a “Beatmap Nominator” forum title and a special purple forum colour. The older players among you will maybe know this colour, as it is really similar to the old Mapping Assistance Team colour. 
+
+It is planned for members of the Beatmap Nominators to also receive further rewards for their effort, including special titles for consistently active members over long periods of time. How we judge the awarding of this **Elite Nominator** title is still being decided on.
 
 ### QAT Leaders
 
@@ -41,7 +43,9 @@ Three of our QATs, [Deif](https://osu.ppy.sh/users/318565), [JBHyperion](https:/
 
 **For osu!mania:** [Asherz007](https://osu.ppy.sh/users/9014047), [Litharrale](https://osu.ppy.sh/users/3189995) and [Weber](https://osu.ppy.sh/users/6410432)
 
-As mentioned previously, we replaced the Tier system with the probation phase, which lasts for two months at most. In this time the Nominator is able to bubble beatmaps, but not to qualify them. You could call it a “test run”, where the probationary BNs are closely supervised by the QAT. Having joined as probationary Beatmap Nominators several weeks ago, these new members have demonstrated an acceptable level of activity and quality in this time. As such, they have recently become full members of the Beatmap Nominators who can both bubble and qualify beatmaps.
+As mentioned previously, we replaced the Tier system with the probation phase, which lasts for two months at most. In this time the Nominator is able to bubble beatmaps, but not to qualify them. You could call it a “test run”, where the probationary BNs are closely supervised by the QAT. 
+
+Having joined as probationary Beatmap Nominators several weeks ago, these new members have demonstrated an acceptable level of activity and quality in this time. As such, they have recently become full members of the Beatmap Nominators who can both bubble and qualify beatmaps.
 
 ### The Qualification Cap
 
@@ -51,13 +55,21 @@ Because of these factors, beatmaps may have spent up to 12 days or even more in 
 
 ## Within the Quality Assurance Team
 
-Unfortunately, after nearly three years of service, our resident metadata expert [IamKwaN](https://osu.ppy.sh/users/1856463) has decided to step down from the QAT in order to seek some well-earned rest and relaxation. Her monumental efforts in the fields of metadata checking and standardisation have truly been a credit to osu! and the mapping community, and her absence will be a great loss to our team. Additionally, one of our newest team members, [Cryptic](https://osu.ppy.sh/users/3728904) has also departed after a short tenure to focus on IRL duties. You will be missed guys, thanks for your contributions!
+Unfortunately, after nearly three years of service, our resident metadata expert [IamKwaN](https://osu.ppy.sh/users/1856463) has decided to step down from the QAT in order to seek some well-earned rest and relaxation. Her monumental efforts in the fields of metadata checking and standardisation have truly been a credit to osu! and the mapping community, and her absence will be a great loss to our team. 
 
-It’s not all sad news however, as we also have **two new additions too!** Please give a warm welcome to the Quality Assurance Team for [Naxess](https://osu.ppy.sh/users/8129817) and [Raiden](https://osu.ppy.sh/users/2239480)! Together with Mao, Naxess will assist with development of the Beatmap Nominator subdivisions, where his experience coding a Discord bot for logging Beatmap Nominator activity will be invaluable. Raiden has been responsible for a large amount of work on the new osu!taiko Ranking Criteria, and has joined to help manage the osu!taiko Beatmap Nominators who have grown a lot with the last phase of applications.
+Additionally, one of our newest team members, [Cryptic](https://osu.ppy.sh/users/3728904) has also departed after a short tenure to focus on IRL duties. You will be missed guys, thanks for your contributions!
+
+It’s not all sad news however, as we also have **two new additions too!** Please give a warm welcome to the Quality Assurance Team for [Naxess](https://osu.ppy.sh/users/8129817) and [Raiden](https://osu.ppy.sh/users/2239480)! 
+
+Together with Mao, Naxess will assist with development of the Beatmap Nominator subdivisions, where his experience coding a Discord bot for logging Beatmap Nominator activity will be invaluable. 
+
+Raiden has been responsible for a large amount of work on the new osu!taiko Ranking Criteria, and has joined to help manage the osu!taiko Beatmap Nominators who have grown a lot with the last phase of applications.
 
 ## Mapping with Rewards is back!
 
-Some of you might remember the old Mapping with Rewards event, but [Okorin](https://osu.ppy.sh/users/1623405) has recently taken the lead and revived it. You can now choose from three awesome songs to create a beatmap set in any mode of your choosing for this contest. All you have to do is map them and submit - that’s it! Your set can be even ranked already when entering. After the 3 month deadline has passed, a team of dedicated judges will review the entries and decide which is the best.
+Some of you might remember the old Mapping with Rewards event, but [Okorin](https://osu.ppy.sh/users/1623405) has recently taken the lead and revived it. You can now choose from three awesome songs to create a beatmap set in any mode of your choosing for this contest.
+
+All you have to do is map one of the listed tracks, upload them to both BSS and the contest page and you're done! Your set can be even ranked already when entering. After the 3 month deadline has passed, a team of dedicated judges will review the entries and decide which is the best.
 
 The creator of the winning beatmap set for each game mode will receive several rewards, such as a 6 months of [osu!supporter](https://osu.ppy.sh/help/wiki/osu!supporter), a profile badge and more! If you haven’t read it yet make sure to head over to the [MWR announcement page](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) and read more about it!
 
