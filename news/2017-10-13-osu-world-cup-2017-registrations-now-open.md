@@ -5,7 +5,7 @@ date: 2017-10-13 13:00:00 +0000
 ---
 It is time again for this year's official osu! World Cup. With a brand new design, osu!'s fiercest and most exciting competition is just getting started!
 
-![](/wiki/shared/news/banners/owc_2017_banner.png)
+![](/wiki/shared/news/banners/owc_2017_banner.jpg)
 
 For more details, refer to the **[osu! World Cup 2017 wiki article](/wiki/Tournaments/OWC/2017/)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/653192)**.
