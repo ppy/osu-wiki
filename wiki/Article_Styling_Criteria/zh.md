@@ -113,160 +113,107 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 ### 标题
 
-### Headings
+最高只能使用五级标题。
 
-Please limit to a heading level of 5.
+如果你使用的是井号（`#`）风格的标记，确保标题文字和 `#` 间有一个空格，以保证 GFM 能正确解析。
 
-If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
+此外，在标题后空一行，虽然不是必须的，但是这样能在编辑时方便地区分标题和内容。
 
-Optionally, but preferably, add an extra line before and after the headings (this applies for both underline and hash styles). Doing so will help make the headings stand out a bit more when editing.
+#### 文章标题
 
-#### Titles
+**每篇文章都应该有一个标题，并使用一级标题。**
 
-**All articles must have one level 1 heading, being the article's title.**
+文章标题 **不能** 使用其他任何标记以及图片。
 
-Article titles are to be in title case and should **never** contain styles, links, nor images. The title of an article is the name of the folder that the article is located in.
+如果文件开头定义有关联式链接，标题应该紧跟在它下面，如果没有则放在文件开头。
 
-The level 1 heading should be placed at the start of the article unless you have reference links placed there. If this is the case, place the level 1 heading underneath the reference links.
+##### 无法翻译的标题
 
-For English article titles, if you need to reword the title, you must rename the folder to match the article title.
+如果有标题无法翻译，则使用：`原文 (当地语言写法)` 。下面是一些例子：
 
-##### Untranslatable titles
+**例如：**
 
-In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets. Some examples may include:
+- `# osu!mania (中文)`
+- `# Live Streaming osu! (日本語)`
+- `# BBCode (Français)`
 
-    # osu!mania (Español)
-    # Live Streaming osu! (日本語)
-    # BBCode (Français)
+当地语言写法参考[本地化](#本地化)小节的`当地写法`一列。
 
-The native scripts can be found in the `Native Script` column of [locales](#locales).
+#### 小节标题
 
-#### Sections
+每个小节只能使用二到五级的标题文字。
 
-All section headings are to be using levels 2 to 5 headings.
+小节标题**不能**再使用其他标记或是链接。同时记住不能跳跃标题级别，比如二级标题之后直接使用四级标题。
 
-Section headings are to use sentence case and should **never** contain styles nor links. In addition to this, section headings should never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading).
+与文章标题不同，小节标题允许使用小图标。
 
-Unlike titles, section headings can have small icons.
+每节**必须**包含一些内容，即使它的标题已经概括了它的子章节。例如：
 
-All sections **must** contain some text, even if they are containers for subsections. For example:
-
-    ## Game Modes
+    ## 游戏模式
     
-    _See also: [Game Modes](/wiki/Game_Modes)._
+    _另见：[游戏模式]/wiki/game_modes)。_
     
-    ### ![](/wiki/shared/mode/osu.png) osu!
+    ### ![](/wiki/shared/Osu.gif) osu!
     
     osu! is a frustrating but fun circle-clicking simulator.
 
-### Lists
+### 列表
 
-There are two kinds of lists: bulleted and numbered.
+使用列表时，列表语法中的空格是不能省略的。
 
-The spacing for both types of bullets is very important! (Please take note of the spacing in the given examples.) Please limit to 4 indentations.
+同时记住：最多缩进四次。
 
-#### Bulleted
+当列表顺序不重要时，使用星号、加号或是减号。
 
-Use bulleted lists when the order of the list does not matter. It is prefered to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
+当列表顺序重要时，使用数字风格。此时数字最好是递增的，尽管 Markdown 语法对此没有要求。
 
-#### Numbered
+### 代码
 
-Use numbered lists when the order of the list does matter. Incrementing the numbers is optional but preferred.
+使用反括号(`` ` ``)将代码包裹。
 
-#### Mixed
+以下几种情况需要使用它：（均需要按原文书写）
 
-You can also combine both bulleted and numbered lists.
+- 键盘按键
+- 按钮或菜单上的文字
+- 文件名、文件夹名、目录名、扩展名、命令
+- 聊天频道名
 
-### Code
+### 代码块
 
-The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surround it in double grave marks, padded with 1 space.
+在 osu!wiki 中不需要使用代码高亮的语法。
 
-Use code for the following scenarios:
+### 链接
 
-- keyboard keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
-- button or menu text
-  - When copying the text from a menu or button, copy the letter casing as is.
-- folder names
-  - When copying the name of a folder, copy the letter casing as is.
-- directory names
-  - When copying the path of a directory, copy the letter casing as is.
-- keywords or commands
-  - When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable).
-- file names
-  - When copying the name of a file, copy the letter casing as is.
-- file extensions
-  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
-- chat channels
-  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
+当某个链接需要多次使用的时候，例如国旗的链接，使用关联式链接以缩短文章实际长度。如果只使用了一两次，使用内联式链接即可。
 
-### Code blocks
+如果使用关联式链接，将关联对放在文章的开头。
 
-It is prefered to use the triple grave marks instead of the four prefixed spaces.
+#### 内部链接
 
-Code blocks do not use syntax highlighting in the osu!wiki.
+内部链接仅能用于链接 osu-wiki 内的文件！记住：相对链接的根目录是 osu-wiki 仓库，并且链接到文章时不需要指定文件名！
 
-### Links
+不要使用类似“点击此处”的文字作为链接文字，应该使用它的文章标题。
 
-You can use either the reference or inline style links.
+##### 重定向
 
-Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline syule links when linking to an article.
+为了简便， osu!wiki 提供了一套重定向系统。
 
-If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
+所有的重定向对可以在 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 中找到，左边的是重定向缩写，右边的是它在 `/wiki/` 文件夹下所对应的文件夹。
 
-#### Internal
-
-Internal links are the links linking within the osu!wiki.
-
-Do not use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
-
-##### Redirects
-
-For your convenience, all folders should have a redirect. All internal links are to use redirects.
-
-To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
+用法：
+对于这样的一对关联对：
 
 ```
-[ASC](/wiki/ASC)
-[OWC2015](/wiki/OWC2015)
-[skinning tutorial](/wiki/skinning_tutorial)
+"asc":      "Article_Styling_Criteria"
 ```
 
----
+你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)` ，因为重定向对大小写不敏感。
 
-Here are some differences between redirect pathing and normal pathing:
+#### 外部链接
 
-- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links
-- Redirects allows you to type in a short form of a folder rather than getting the entire path
-  - Which one would you use? (Hint: You would probably pick the second option.)
-    1. `[OWC 2015](/wiki/Tournaments/OWC/2015)`
-    2. `[OWC 2015](/wiki/OWC_2015)`
-- Redirects are quicker in most situations
-  - Which one would you use? (Hint: You would probably pick the second option.)
-    1. `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)`
-    2. `[Muzukashii](/wiki/Muzukashii)`
-- Redirects are case insensitive
-  - Meaning, you can use `[Beatmap Packs 0916](/wiki/bEaTmAp_pAcKs_0916)` and it will still work
-- Redirects already handle section linking
-  - You can use `[EZ](/wiki/EZ)` instead of `[EZ](/wiki/Game_Modifiers/#easy)`
+优先使用 `https` 协议，并且不要使用任何的协议链接，例如 `//example.com` 。
 
-#### External
-
-Perfer the `https` protocol and **never** use protocol relative links (e.g. `//example.com`).
-
-External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
-
----
-
-Never use raw links for linking or have the link text be the url. For example:
-
-```
-Do not: https://osu.ppy.sh/
-Do not: <https://osu.ppy.sh/>
-Do not: [https://osu.ppy.sh/](https://osu.ppy.sh/)
-
-Do: [osu!web](https://osu.ppy.sh/)
-```
+外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
 
 ##### User profiles
 
