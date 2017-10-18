@@ -1,10 +1,10 @@
-# Article Styling Criteria
+# 文章风格规范
 
 _See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News)._
 
-The article styling criteria (ASC) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
+文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
-All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
+所有的文章都应该力图做到无语病，无笔误，并提供准确的信息。记住，审稿人（Reviewer）可能会对你试图提交的文章进行审核并提出修改建议。一个好的 osu!wiki 作者应该阅读他们的评论并据此提高文章的整体质量，以确保读者能有更好的阅读体验。
 
 ## Repository directory
 
