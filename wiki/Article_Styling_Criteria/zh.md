@@ -1,124 +1,117 @@
 # 文章风格规范
 
-_See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News)._
+_另见：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
-所有的文章都应该力图做到无语病，无笔误，并提供准确的信息。记住，审稿人（Reviewer）可能会对你试图提交的文章进行审核并提出修改建议。一个好的 osu!wiki 作者应该阅读他们的评论并据此提高文章的整体质量，以确保读者能有更好的阅读体验。
+所有的文章都应该力图做到无语病，无笔误，并提供准确的信息。记住，审稿人（Reviewer）会对你试图提交的文章进行审核并提出修改建议。一个好的 osu!wiki 作者应该阅读他们的评论并据此提高文章的整体质量，以确保读者能有更好的阅读体验。
 
-## Repository directory
+## 仓库（Repository）文件夹
 
-The following standards apply only to articles saved in the `wiki/` directory.
+本节的规则仅适用于 `wiki/` 下的文章。
 
-### Locales
+### 本地化
 
-These are the supported locales for the osu!wiki. If your language isn't listed below, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)!
+下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
 
-| File Name | Locale Name | Native Script |
-|-----------|-------------|---------------|
-| `de.md` | German | Deutsch |
-| `el.md` | Greek | Ελληνικά |
-| `en.md` | English | English |
-| `es.md` | Spanish | Español |
-| `fi.md` | Finnish | Suomi |
-| `fr.md` | French | Français |
-| `hu.md` | Hungarian | Magyar |
-| `id.md` | Indonesian | Bahasa Indonesia |
-| `it.md` | Italian | Italiano |
-| `ja.md` | Japanese | 日本語 |
-| `ko.md` | Korean | 한국어 |
-| `nl.md` | Dutch | Nederlands |
-| `no.md` | Norwegian | Norsk |
-| `pl.md` | Polish | Polski |
-| `pt.md` | Portuguese | Português |
-| `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
-| `ru.md` | Russian | Русский |
-| `th.md` | Thai | ไทย |
-| `tl.md` | Tagalog | Tagalog |
-| `zh.md` | Chinese (Simplified) | 中文 |
-| `zh-hk.md` | Chinese (Traditional) | 粤语 |
-| `zh-tw.md` | Chinese (Taiwan, Traditional) | 繁體中文 |
+| 文件名 | 中文写法 | 当地写法 |
+|--------|----------|----------|
+| `de.md` | 德语 | Deutsch |
+| `el.md` | 希腊语 | Ελληνικά |
+| `en.md` | 英语 | English |
+| `es.md` | 西班牙语 | Español |
+| `fi.md` | 芬兰语 | Suomi |
+| `fr.md` | 法语 | Français |
+| `hu.md` | 匈牙利语 | Magyar |
+| `id.md` | 印度尼西亚语 | Bahasa Indonesia |
+| `it.md` | 印度语 | Italiano |
+| `ja.md` | 日语 | 日本語 |
+| `ko.md` | 韩语 | 한국어 |
+| `nl.md` | 荷兰语 | Nederlands |
+| `no.md` | 挪威语 | Norsk |
+| `pl.md` | 波兰语 | Polski |
+| `pt.md` | 葡萄牙语 | Português |
+| `pt-br.md` | 巴西葡萄牙语 | Português (Brasil) |
+| `ru.md` | 俄语 | Русский |
+| `th.md` | 泰语 | ไทย |
+| `tl.md` | 他加禄语 | Tagalog |
+| `zh.md` | 中文 | 中文 |
+| `zh-hk.md` | 粤语 | 粤语 |
+| `zh-tw.md` | 繁體中文 | 繁體中文 |
 
-### Folder names
+### 文件夹名
 
-Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
+所有的文件夹名称都不应该使用 URL 保留字（即仅使用ASCII字符）。
+一般来说，文件夹名称使用以下字符即可：
 
-- A - Z (uppercase letters)
-- a - z (lowercase letters)
-- 0 - 9 (numbers)
-- `_` (underscore)
-- `!` (exclamation mark)
+- A - Z （大写字母）
+- a - z （小写字母）
+- 0 - 9 （数字）
+- `_` （下划线）
+- `!` （感叹号）
 
-#### Percent encoding characters
+### 文章的文件名
 
-Folder names should not use characters that require percent encoding. Those characters may include, but aren't limited to:
+文章的文件名参考[本地化](#本地化)小节的`文件名`一列。
 
-- ` ` (spaces)
-- `'` (apostrophes)
+文章应该放在对应的英文命名的文件夹下。
 
-### Article file names
+### 索引页
 
-The name of an article file can be found in the `File Name` column of [locales](#locales).
+所有文件夹**必须**包含至少一篇文章,即使它是一个 _索引页_ 。
 
-The location of a locale are to be placed in the appropriate English-named folder.
-
-### Index pages
-
-All folders must contain a page of some kind, even if they are index pages that link to their subfolders.
-
-Index pages must link to their own subfolders and could contain descriptions of what each link links to.
+索引页**必须且只能**链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
 ## Markdown
 
-These rules are to be followed for all articles.
+本节规则适用于全部文章。
+快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
 
-### GFM
+### GFM（GitHub Markdown 方言）
 
-Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu!wiki.
+GFM 是 osu!wiki 所支持的标记语言。
 
-GFM has a small amount of markup that **anyone** can learn in about 3 minutes! However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
+GFM 的标记很少，以至于 **任何人** 都能在3分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西,因为它只是一个轻量级的标记语言。
 
 #### HTML
 
-**HTML use is prohibited.** If you need to use any HTML for any reason, you must reconsider the layout you are using.
+**禁止使用HTML标签。** 如果你认为有必要使用 HTML ，请重新考虑你的排版方案。
 
-### Raw text editing
+### 编辑源文件
 
-While editing, sentences are to be in a paragraph form, not in single lines. For example:
+在编辑源文件时，多个句子应该并作一行，而不是一句一行。
 
+错误做法：
 ```
-Do not:
-osu!lazer is a development build that you can download.
-It will one day be the successor of the previous osu!client.
-Please, do **not** send the development team any issues you are facing, as things are still subject to change.
-
-Do:
-osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, do **not** send the development team any issues you are facing, as things are still subject to change.
+osu!lazer 是开发中的 osu! 新版本。
+它将在未来取代现在的 osu!client 。
+如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 ```
 
-#### Escaping
-
-Any Markdown syntax that is not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
-
+正确做法：
 ```
-The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
+osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 ```
 
-The escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
+#### 转义
 
-### Emphasizing
+任何不用于 Markdown 标记的 Markdown 符号都应该进行转义，除非它们位于[代码](#代码)或[代码块](#代码块)中。
 
-**Know that the overuse and abuse of emphasis will reduce its effectiveness!**
+```
+osu!taiko 的冠军是 [\_yu68](https://osu.ppy.sh/users/6170507)。 \_yu68 是目前日本 osu!taiko 玩家排行榜的 \#1 。
+```
 
-When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize.
+Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应该使用 `\\` 。
 
-#### Bold
+### 强调
 
-Use bold when you need to caution or note something's importance.
+**记住：过度强调会有反作用！**
 
-#### Italics
+#### 粗体
 
-Use italics only when naming a video game or the name of a work.
+当你需要标注重点时，使用粗体。
+
+### 标题
 
 ### Headings
 
