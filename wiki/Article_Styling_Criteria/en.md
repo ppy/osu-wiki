@@ -234,7 +234,7 @@ For your convenience, all folders should have a redirect. All internal links are
 To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
 
 ```
-[ASG](/wiki/ASG)
+[ASC](/wiki/ASC)
 [OWC2015](/wiki/OWC2015)
 [skinning tutorial](/wiki/skinning_tutorial)
 ```
@@ -373,7 +373,7 @@ When using the horizontal bar, make sure there is an empty line above and below 
 
 All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms. In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
 
-All English articles and locales without an ASG are to follow the following rules.
+All English articles and locales without an ASC are to follow the following rules.
 
 ### British english
 
