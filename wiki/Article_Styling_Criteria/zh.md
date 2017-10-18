@@ -311,170 +311,92 @@ A few uses of the horizontal bar may include (but is not limited to):
 
 When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, osu!web will think the text above is a heading level 2.
 
-## Grammar
+## 中文相关
 
-All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms. In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
+本节将从各个角度指出中文文章的注意事项
 
-All English articles and locales without an ASC are to follow the following rules.
+### 人称
 
-### British english
+当提及玩家时，使用`玩家`。
 
-In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
+**不能** 使用`他`/`他的`或`她`/`她的`！  
+而应该使用`他们`/`他们的`。
 
-For example use:
+当想对读者说什么时，使用`你`。
 
-- `colour` instead of `color`
-- `centre` instead of `center`
-- `skilful` instead of `skillful`
-- `analyse` instead of `analyze`
+**绝对不能** 使用第一人称`我`。
 
-### osu!
+### 标点符号
 
-The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
+中文和英文的标点符号完全不相同。
 
-The osu! official branding are to not use any spaces. Examples may include:
+#### 中文标点
 
-- `osu!taiko`
-- `osu!mania`
-- `osu!direct`
-
-Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
-
-- `osu! Tournaments`
-- `osu! Alumni`
-- `osu! Community`
-- `osu! Chat`
-- `osu! Client`
-
----
-
-When referring to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game. For example:
-
-- `The language that _osu!_ is written in is C# using the .NET Framework.`
-- `One of the game modes in _osu!_ is osu!catch.`
-
-### Date formatting
-
-Since many regions use different date and time formats, the osu!wiki will only use this format: `DD. MMMM YYYY`. For example:
-
-- `April 1, 2017` must be `01. April 2017`
-- `17 June, 2013` must be `17. June 2013`
-- `2015 March, 02` must be `02. March 2015`
-- `2008.11.02` must be `02. November 2008`
-
-<!-- this is to cover for languages with month/day/year suffixes -->
-If your language uses a day, month, and year suffix (e.g. Chinese, Japanese, or Korean), you may use them. For example:
-
-- `April 29, 2016` must be `2016年04月29日`
-- `18 June, 2013` must be `2013년06월18일`
-- `2007 March, 02` must be `2007年03月02日`
-
-### Language names
-
-When referring to the name of a language, capitalize the first letter of that language.
-
-- The `#spanish` chat channel are for those who speak **Spanish**.
-- The `#french` chat channel are for those who speak **French**.
-
-### Abbreviations
-
-When using abbreviations, it is really important to note what the abbreviation means upon first instance. For example:
+不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
 
 ```
-The NC (Nightcore) mod is similar to the DT (Double Time) mod. While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
+，逗号
+。句号
+？问号
+！感叹号
+、顿号
+‘’单引号
+“”双引号
+《》书名号
+：冒号
+（）小括号
+【】中括号
+｛｝大括号
+——破折号
+|竖线
+……省略号
 ```
 
-Abbreviations of osu! terms **must** be capitalised.
-For example:
+每个句子的结尾应该有一个终结符(句号、感叹号等)。
+对于特殊情况则特殊处理，例如：
+```
+对于特殊情况则特殊处理，例如：
+```
 
-- `CS` for `Circle Size`
-- `AR` for `Approach Rate`
-- `DT` for `Double Time`
+关于中文标点的详细定义，参考 [GB/T 15834-1995 标准](http://www.china-language.gov.cn/wenziguifan/managed/020.htm)
 
-When shortening the word "for example", use `e.g.` instead of `e.x.` or `i.e.`.
+##### 括号
 
-### Serial comma
+当括号是为了注释某个没有达成共识的翻译时，使用多数人认同的翻译和中文括号，被注释的词放在括号内并且不需要空格。
+例如：`仓库（Repository）`
 
-_The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
 
-When a list consists of 3 or more items in a sentence, use the serial comma. For example:
+##### 顿号
 
-- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
+在一个句子中枚举词语时，使用顿号分隔。
 
-Keep in mind that there are rare expections to not using the serial commas.
+- _osu!_ 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
 
-### Game modes
+#### 英文标点
 
-When writting the name of the game modes, they are to be written as follows:
+引用英文句子或者单词本身存在英文标点时才能使用英文标点。
 
-- `osu!`
-  - `osu!standard` (unofficial, but used to prevent ambiguity)
-    - for folder names, it is required to use `osu!`, not `osu!standard`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
+### 中英混用
 
-You may use the old game mode names (e.g. `Catch the Beat`, `Taiko`, or `Mania`) only when discussing about said game mode's previous name.
+如果英文单词需要在中文句子中出现，那么在单词两头空格。
+例如：
 
-### Game modifiers
+- 游戏的名称 `osu!` **永远不大写**，即使是在句子的开头。
 
-Game modifiers **must** be capitalised. For example:
+如果英文单词出现在句子开头，则不需要在单词前面空格。
+如果英文单词出现在句子结尾，那么同样需要两头空格并正确使用终结符。
 
-- `Hard Rock`
-- `Nightcore`
-- `Double Time`
-- `Easy`
+### 首行缩进
 
-### Gameplay elements
+在书写时，大部分人习惯开头空两格，但是在 osu!wiki ，这是不允许的。
+空两格的目的是为了区分每段，由于 wiki 在段之间已经留出了足够多的空间，所以不允许首行缩进。
 
-Gameplay elements should **never** be capitalised. For example:
+### 部分翻译规范
 
-- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
-- The **beatmap** **editor** is a place where **beatmappers** can map a song of their choice.
+| 英文 | 中文 |
+|------|------|
+| e.g. | 例如 |
+| For example: | 例如： |
+| Examples: | 例如： |
+| See also: | 参见：/ 另见： |
 
-### Contractions
-
-Contractions are a shortened form of a word or group of words.
-
-In the osu!wiki, contractions are **heavily** discouraged. This is to keep a formal tone in the osu!wiki.
-
-For example, use:
-
-- `Do not` instead of `Don't`
-- `You will` instead of `You'll`
-- `It is` instead of `It's`
-
-Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.
-
-### Point of view
-
-When referring to the player, use `the player` or `a player`.
-
-**Never** use `he`/`his` or `she`/`her`! Instead, use `they`/`their`/`theirs`.
-
-In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
-
-**Never** use the first person perspective (`I`) in any articles, even if they are ported guides that had once used first person.
-
-### Terminology
-
-These words are spelt as follows (note the space):
-
-- `hit circles`
-- `approach circles`
-- `slider ticks`
-- `slider ball`
-- `slider path`
-- `hit burst`
-- `game mode` (or just `mode`)
-- `game mod` (or just `mod`)
-- `play style`
-- `gameplay`
-
-The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
-
----
-
-- Use "beatmaps" instead of "maps".
-- Use "creator" instead of "beatmapper" or "mapper".
-- Do not use "BNG" or "Beatmap Nomination Group" when referring to the _Beatmap Nominators_. Instead, use "BN" or "BNs".
