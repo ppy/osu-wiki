@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scorewatch: October Week 1"
-date: 2017-10-19 13:00:00 +0000
+date: 2017-10-20 13:00:00 +0000
 ---
 
 October, the spooky month, has arrived and scores are being set more than ever! We got more 700pp scores, a rustbell classic and more in the first October Scorewatch!
@@ -39,6 +39,10 @@ NOTABLE MENTIONS
 
 SCORESHOW WITH ZSEIKIMATSU
 -----
+
+[\_yu68](https://osu.ppy.sh/u/6170507) and [asuasu_yura](https://osu.ppy.sh/u/2875968) take on each other on the recently ranked osu!taiko marathon, [kamome sano - </emotional>](https://osu.ppy.sh/b/1105943).
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TRWWG73y4C4" frameborder="0" allowfullscreen></iframe></br>
 
 
 
