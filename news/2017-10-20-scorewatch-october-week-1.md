@@ -6,6 +6,8 @@ date: 2017-10-20 15:00:00 +0000
 
 October, the spooky month, has arrived and scores are being set more than ever! We got more 700pp scores, a rustbell classic and more in the first October Scorewatch!
 
+![](/wiki/shared/news/2017-10-20-scorewatch-october-week-1/banner.jpg)
+
 [Bubbleman](https://osu.ppy.sh/u/5182050) is taking his limits to the next level as he snipes a year old score on [MY FIRST STORY - ALONE](https://osu.ppy.sh/b/861381), taking an amazing 99.91% HDHR FC to grab 527pp. To think that he nearly SSed it (got the 1x 100 on the 2nd last note) is amazing enough!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yWXkzn1roPE" frameborder="0" allowfullscreen></iframe></br>
