@@ -1,6 +1,6 @@
 # 文章风格规范
 
-_另见：[文章风格规范——新闻篇](/wiki/ASC/News)_
+_相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -71,7 +71,7 @@ _另见：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 GFM 是 osu!wiki 所支持的标记语言。
 
-GFM 的标记很少，以至于 **任何人** 都能在3分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西,因为它只是一个轻量级的标记语言。
+GFM 的标记很少，以至于 **任何人** 都能在3分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西，因为它只是一个轻量级的标记语言。
 
 #### HTML
 
@@ -217,99 +217,91 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
 
-##### User profiles
+##### 个人资料
 
-When linking to an osu!user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+当链接到某个 osu!用户 的个人资料时，使用他的 ID 而不应该使用用户名。用户名可以变更但是 ID 是不会改变的，这样能确保链接始终指向他的资料。
 
-```
-Do not:
-`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`
+
+错误做法:  
+`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`  
 `[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
 
-Do (okay):
-`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`
+正确做法:  
+`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`  
 `[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
 
-Do (prefered):
-`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
+最佳做法:  
+`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`  
 `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
-```
 
-Whenever possible, use the current user's name instead of the user's previous names.
-
----
-
-To get a user's id number:
-
-1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
-2. Press `Enter`
-3. Once the page loads, osu!web will convert the username to an id
-
-##### Beatmaps
-
-Whenever linking to a beatmap, use this format as the link text:
-
-```
-{artist} - {title} ({creator}) [{difficuty_name}]
-```
-
-When linking to a beatmap, make sure that the link actually links to that difficulty. All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/b/{BeatmapID}`.
-
-##### Beatmapsets
-
-Whenever linking to a beatmapset, use this format as the link text:
-
-```
-{artist} - {title} ({creator})
-```
-
-All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSetID}`.
-
-### Images
-
-_See also: [Article Styling Criteria/Images](/wiki/Article_Styling_Criteria/Images)._
-
-The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
-
-Like the [links](#links), you can use either reference or inline style when linking to images.
+也就是说，无论何时，都应该使用用户当前的用户名。
 
 ---
 
-It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
+快速取得某个用户的 ID :
 
-### Tables
+1. 打开浏览器地址栏输入 `https://osu.ppy.sh/users/` ，在其后粘贴用户名。
+2. 按下 `Enter` 键
+3. 当页面载入完成的时候，地址栏中输入的用户名就会变成 ID 。
 
-Tables use the GFM syntax.
+##### 谱面
 
-If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you are overthinking both the table and the content. If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
+链接到谱面时，使用以下格式：
 
-Here is a tool to help visualize tables:
+```
+{艺术家} - {标题} ({谱面作者}) [{难度名称}]
+```
+
+此时请确保链接指向了对应的难度，链接格式应该为： `https://osu.ppy.sh/b/{谱面 ID}` 。
+
+##### 谱面集
+
+链接到谱面集时，使用以下格式：
+
+```
+{艺术家} - {标题} ({谱面作者})
+```
+
+此时链接格式应该为： `https://osu.ppy.sh/s/{谱面集 ID}` 。
+
+### 图片
+
+_参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
+
+
+建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
+
+### 表格
+
+表格使用 GFM 语法来建立，如果你感觉非要使用 HTML 来实现某些 GFM表格 所不支持的特性，请重新组织文字。
+
+这是一个可视化的表格生成工具:
 
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
-#### Beautifying tables
+#### 美化表格
 
-It is up to you whether or not if you want to beautify the tables.
+是否需要美化表格取决于你。
 
-They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess. Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
+美化的表格会有利于编辑，但是对于启用了自动折行的编辑者来说，它们会一团糟。此外，美化表格带来的后果是编辑某行会需要你重新美化整个表格。
 
-Some tools for beautifying tables are:
+下面是一些美化表格工具：
 
-- VS Code's Native Beautifier
-  - this will require you to use [VS Code](https://code.visualstudio.com/)
+- VS Code 的 Native Beautifier
+  - 你需要使用 [VS Code](https://code.visualstudio.com/) 。
 - [Markdown Table Formatter](http://markdowntable.com/)
-  - alignment syntax (`:`) will not parse correctly
+  - 对齐语法标记（`:`）不能正确解析。
 
-### Horizontal bar
+### 分割线
 
-Use horizontal bars sparingly.
+尽量少用分割线。
 
-A few uses of the horizontal bar may include (but is not limited to):
+下列情况可以使用：（包括但不限于）
 
-- separating images from text
-- marking the end of a "section" within the same section
+- 将图片与文字分开
+- 分割每段
 
-When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, osu!web will think the text above is a heading level 2.
+使用分割线的时候，其上下的一行必须为空行，否则会被解析为二级标题。
 
 ## 中文相关
 
@@ -334,23 +326,23 @@ When using the horizontal bar, make sure there is an empty line above and below 
 
 不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
 
-```
-，逗号
-。句号
-？问号
-！感叹号
-、顿号
-‘’单引号
-“”双引号
-《》书名号
-：冒号
-（）小括号
-【】中括号
-｛｝大括号
-——破折号
-|竖线
-……省略号
-```
+| 标点符号 | 名称 |
+|:---:|:---:|
+| `，` | 逗号 |
+| `。` | 句号 |
+| `？` | 问号 |
+| `！` | 感叹号 |
+| `、` | 顿号 |
+| `‘’` | 单引号 |
+| `“”` | 双引号 |
+| `《》` | 书名号 |
+| `：` | 冒号 |
+| `（）` | 小括号 |
+| `【】` | 中括号 |
+| `｛｝` | 大括号 |
+| `——` | 破折号 |
+| `|` | 竖线 |
+| `……` | 省略号 |
 
 每个句子的结尾应该有一个终结符(句号、感叹号等)。
 对于特殊情况则特殊处理，例如：
