@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scorewatch: October Week 1"
-date: 2017-10-20 13:00:00 +0000
+date: 2017-10-20 15:00:00 +0000
 ---
 
 October, the spooky month, has arrived and scores are being set more than ever! We got more 700pp scores, a rustbell classic and more in the first October Scorewatch!
