@@ -217,7 +217,7 @@ Code blocks do not use syntax highlighting in the osu!wiki.
 
 You can use either the reference or inline style links.
 
-Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline syule links when linking to an article.
+Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline style links when linking to an article.
 
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
