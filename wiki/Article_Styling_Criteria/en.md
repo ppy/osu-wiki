@@ -108,9 +108,20 @@ The escaping character in Markdown is the blackslash (`\`). To escape the escape
 
 ### Emphasizing
 
-**Know that the overuse and abuse of emphasis will reduce its effectiveness!**
+*Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
 
-When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize.
+When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize. For example:
+
+```
+Do not:
+You are NOT allowed to post R-18 skins on the osu!forums.
+
+Do:
+You are **not** allowed to post R-18 skins on the osu!forums.
+
+or:
+**You are not allowed to post R-18 skins on the osu!forums.**
+```
 
 #### Bold
 
@@ -119,6 +130,14 @@ Use bold when you need to caution or note something's importance.
 #### Italics
 
 Use italics only when naming a video game or the name of a work.
+
+---
+
+You must use italics when writing a note. For example:
+
+```
+_Note: You will need a decent internet connection to connect to Bancho._
+```
 
 ### Headings
 
@@ -502,7 +521,7 @@ For example, use:
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.
+*Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.*
 
 ### Point of view
 
@@ -529,10 +548,10 @@ These words are spelt as follows (note the space):
 - `play style`
 - `gameplay`
 
-The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
+The term `Difficulty` may refer to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
 
 ---
 
 - Use "beatmaps" instead of "maps".
 - Use "creator" instead of "beatmapper" or "mapper".
-- Do not use "BNG" or "Beatmap Nomination Group" when referring to the _Beatmap Nominators_. Instead, use "BN" or "BNs".
+- Use "BN" or "BNs" when referring to the the _beatmap nominators_. Do not use "BNG" or "Beatmap Nomination Group".
