@@ -25,16 +25,6 @@ In the beginning of making any skin, you should have:
 - beginner skills with any photo editing program (that supports transparency) like Photoshop, GIMP, Paint.NET, etc.
 - patience (yes, skinning does take some time)
 - an idea! (yes, this is **very** important. Try be clever when making your skin)
-- and, of course, you need something with you can start skinning with; see the next section below.
-
-### Template Downloads
-
-Here are the templates to both version 1.0 and 2.0+ skins.
-Since the default skin is constantly changing, the new skin template will become out of date.
-Dispite of this, the new skin template here should be enough to start your skin for version 2.0+.
-
-[![Old skin download](template/old_template.png "Click to download")](template/old_template.osk)
-[![New skin download](template/new_template.png "Click to download")](template/new_template.osk)
 
 ### What the "new" and "old" style skinning about?
 
