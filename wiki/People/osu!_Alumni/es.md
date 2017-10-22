@@ -1,7 +1,7 @@
 osu! Alumni
 ==============
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estadía. [Link](http://osu.ppy.sh/g/16)
+Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](http://osu.ppy.sh/g/16)
 
 | Nombre | Epitafio |
 | ----- | ------- |
