@@ -15,10 +15,6 @@
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [多人游戏](/wiki/Multi/#getting-started)
 
-## 正在进行中的活动
-
-[点此查看](/wiki/Welcome?locale=en#current-events)
-
 ## 本月推荐文章
 
 [点此查看](/wiki/Welcome?locale=en#article-of-the-month)

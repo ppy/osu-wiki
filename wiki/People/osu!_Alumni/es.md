@@ -55,7 +55,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Dragvon](https://osu.ppy.sh/u/126927) | Moderador del Chat |
 | [drum drum](https://osu.ppy.sh/u/4435526) | GMT |
 | [Duoprism](https://osu.ppy.sh/u/7186) | BAT |
-| [Echo](https://osu.ppy.sh/u/431) | osu!dev |
+| [Echo](https://osu.ppy.sh/u/431) | Desarrollador de osu! |
 | [EiJi](https://osu.ppy.sh/u/2024) | BAT |
 | [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | GMT |
 | [ethox](https://osu.ppy.sh/u/441380) | Moderador del Chat |
@@ -137,11 +137,11 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Nishiji](https://osu.ppy.sh/u/167629) | GMT |
 | [Niva](https://osu.ppy.sh/u/197805) | BAT |
 | [NoHitter](https://osu.ppy.sh/u/124455) | BAT |
-| [nuudles](https://osu.ppy.sh/u/21312) | osu!dev |
+| [nuudles](https://osu.ppy.sh/u/21312) | Desarrollador de osu! |
 | [Nymph](https://osu.ppy.sh/u/601990) | BAT |
 | [Oinari-sama](https://osu.ppy.sh/u/405508) | Moderador del Chat y Equipo de Soporte |
 | [orioncomet](https://osu.ppy.sh/u/104827) | BAT |
-| [Orkel](https://osu.ppy.sh/u/39385) | Chat Moderator |
+| [Orkel](https://osu.ppy.sh/u/39385) | Moderador del Chat |
 | [Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210) | GMT |
 | [Pasonia](https://osu.ppy.sh/u/43345) | BAT |
 | [Pereira006](https://osu.ppy.sh/u/537344) | GMT |

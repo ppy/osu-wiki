@@ -8,7 +8,7 @@ All articles should try to aim at having proper grammar, correct spelling, and c
 
 ## Repository directory
 
-The following items only applies to the `wiki/` directory.
+The following standards apply only to articles saved in the `wiki/` directory.
 
 ### Locales
 
@@ -41,13 +41,20 @@ These are the supported locales for the osu!wiki. If your language isn't listed 
 
 ### Folder names
 
-Folders must never contain URL reserved characters. Generally, all folder names should only use these characters:
+Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
 
 - A - Z (uppercase letters)
 - a - z (lowercase letters)
 - 0 - 9 (numbers)
 - `_` (underscore)
 - `!` (exclamation mark)
+
+#### Percent encoding characters
+
+Folder names should not use characters that require percent encoding. Those characters may include, but aren't limited to:
+
+- ` ` (spaces)
+- `'` (apostrophes)
 
 ### Article file names
 
@@ -86,14 +93,35 @@ It will one day be the successor of the previous osu!client.
 Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 
 Do:
-_osu!_ is a circle clicking simulator with three other game modes. There is drum beating, fruit catching, and key mashing game modes; otherwise known as osu!taiko, osu!catch, and osu!mania respectively.
+osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 ```
+
+#### Escaping
+
+Any Markdown syntax that is not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
+
+```
+The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
+```
+
+The escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
 
 ### Emphasizing
 
-**Know that the overuse and abuse of emphasis will reduce its effectiveness!**
+*Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
 
-When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize.
+When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize. For example:
+
+```
+Do not:
+You are NOT allowed to post R-18 skins on the osu!forums.
+
+Do:
+You are **not** allowed to post R-18 skins on the osu!forums.
+
+or:
+**You are not allowed to post R-18 skins on the osu!forums.**
+```
 
 #### Bold
 
@@ -102,6 +130,14 @@ Use bold when you need to caution or note something's importance.
 #### Italics
 
 Use italics only when naming a video game or the name of a work.
+
+---
+
+You must use italics when writing a note. For example:
+
+```
+_Note: You will need a decent internet connection to connect to Bancho._
+```
 
 ### Headings
 
@@ -123,13 +159,11 @@ For English article titles, if you need to reword the title, you must rename the
 
 ##### Untranslatable titles
 
-In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets.
+In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets. Some examples may include:
 
-Examples:
-
-- `# osu!mania (Español)`
-- `# Live Streaming osu! (日本語)`
-- `# BBCode (Français)`
+    # osu!mania (Español)
+    # Live Streaming osu! (日本語)
+    # BBCode (Français)
 
 The native scripts can be found in the `Native Script` column of [locales](#locales).
 
@@ -141,12 +175,11 @@ Section headings are to use sentence case and should **never** contain styles no
 
 Unlike titles, section headings can have small icons.
 
-All sections **must** contain some text, even if they are containers for subsections.
-For example:
+All sections **must** contain some text, even if they are containers for subsections. For example:
 
     ## Game Modes
     
-    _Also see: [Game Modes](/wiki/Game Modes)._
+    _See also: [Game Modes](/wiki/Game_Modes)._
     
     ### ![](/wiki/shared/mode/osu.png) osu!
     
@@ -177,21 +210,21 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 Use code for the following scenarios:
 
 - keyboard keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers
+  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
 - button or menu text
-  - When copying the text from a menu or button, copy the letter casing as-is
+  - When copying the text from a menu or button, copy the letter casing as is.
 - folder names
-  - When copying the name of a folder, copy the letter casing as-is
+  - When copying the name of a folder, copy the letter casing as is.
 - directory names
-  - When copying the path of a directory, copy the letter casing as-is
+  - When copying the path of a directory, copy the letter casing as is.
 - keywords or commands
-  - When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable)
+  - When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable).
 - file names
-  - When copying the name of a file, copy the letter casing as-is
+  - When copying the name of a file, copy the letter casing as is.
 - file extensions
-  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters
+  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
 - chat channels
-  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters
+  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 
 ### Code blocks
 
@@ -203,7 +236,7 @@ Code blocks do not use syntax highlighting in the osu!wiki.
 
 You can use either the reference or inline style links.
 
-Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline syule links when linking to an article.
+Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline style links when linking to an article.
 
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
@@ -217,13 +250,13 @@ Do not use the word `here` as the link text. Instead, take the title of the page
 
 For your convenience, all folders should have a redirect. All internal links are to use redirects.
 
-To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect.
+To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
 
-Examples:
-
-- `[ASG](/wiki/ASG)`
-- `[OWC2015](/wiki/OWC2015)`
-- `[skinning tutorial](/wiki/skinning_tutorial)`
+```
+[ASC](/wiki/ASC)
+[OWC2015](/wiki/OWC2015)
+[skinning tutorial](/wiki/skinning_tutorial)
+```
 
 ---
 
@@ -270,10 +303,11 @@ Do not:
 `[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`
 `[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
 
-Do:
+Do (okay):
 `[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`
 `[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
-or:
+
+Do (prefered):
 `[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
 `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
 ```
@@ -310,6 +344,8 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSe
 
 ### Images
 
+_See also: [Article Styling Criteria/Images](/wiki/Article_Styling_Criteria/Images)._
+
 The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
 
 Like the [links](#links), you can use either reference or inline style when linking to images.
@@ -317,65 +353,6 @@ Like the [links](#links), you can use either reference or inline style when link
 ---
 
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
-
-All images must be optimized and should use formats as described in the [supported formats](#supported-formats) section.
-
-#### Media file names
-
-**All image file extensions must use lowercase letters, otherwise they will fail to load!**
-
-Image file names should not use spaces. Names of images must be somewhat meaningful, please do not use the timestamp or long hashes for media file names.
-
-#### Max width
-
-The osu!wiki will give every image a max-width, being the width of the article body (680px).
-
-This means when an image's width is more than 680px, you should consider downscaling it to 680px to ensure that we do not waste digital space.
-
-#### Supported formats
-
-The supported file formats for the osu!wiki are `.gif`, `.jpg` (or `.jpeg`), and `.png`.
-
-When you have an image **without** transparency, use `.jpg` (or `.jpeg`). When you have an image **with** transparency, use `.png`. If the media file is animated, use `.gif`.
-
-#### Alternate and title text
-
-All images must have an alternate text. This will ensure that something will still be displayed even when it fails to load.
-
-Title text (otherwise known as "hover text") is **optional**. It can be the same as the alt text if needed.
-
-#### Captions
-
-Images are automatically given captions if they fulfill these rules:
-
-- the image is by itself
-- the image is not inside a heading
-- the image has a title/hover text
-
-The syntax for captions are the same as normal Markdown images.
-
-Image captions must be plain text and never contain style or link markup.
-
-#### Image links
-
-Do not use image links! Image links are links with the image as the link text.
-
-On a PC platform, they will work. However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
-
-#### Flag icons
-
-Flag icons are located inside the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/flag) folder.
-
-Most to all of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. A few exceptions are the multi-flag icons that are in the `.png` format.
-
-When adding a flag inline, use this format:
-
-```
-![full-country-name](/wiki/shared/flag/xx.gif)
-```
-
-- `full-country-name` is the full country name.
-- `xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ### Tables
 
@@ -387,7 +364,7 @@ Here is a tool to help visualize tables:
 
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
-#### Beautify
+#### Beautifying tables
 
 It is up to you whether or not if you want to beautify the tables.
 
@@ -415,7 +392,7 @@ When using the horizontal bar, make sure there is an empty line above and below 
 
 All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms. In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
 
-All English articles and locales without an ASG are to follow the following rules.
+All English articles and locales without an ASC are to follow the following rules.
 
 ### British english
 
@@ -437,15 +414,14 @@ The osu! official branding are to not use any spaces. Examples may include:
 - `osu!taiko`
 - `osu!mania`
 - `osu!direct`
-- `osu!wiki`
 
-Everything else are to use spaces. For example:
+Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
 
-- `osu! tournaments`
-- `osu! alumni`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
+- `osu! Tournaments`
+- `osu! Alumni`
+- `osu! Community`
+- `osu! Chat`
+- `osu! Client`
 
 ---
 
@@ -545,7 +521,7 @@ For example, use:
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.
+*Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.*
 
 ### Point of view
 
@@ -555,13 +531,12 @@ When referring to the player, use `the player` or `a player`.
 
 In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
 
-
-**Never** use the first person perspective, `I`, or `I am`/`I'm`.
+**Never** use the first person perspective (`I`) in any articles, even if they are ported guides that had once used first person.
 
 ### Terminology
-	
+
 These words are spelt as follows (note the space):
-	
+
 - `hit circles`
 - `approach circles`
 - `slider ticks`
@@ -571,12 +546,12 @@ These words are spelt as follows (note the space):
 - `game mode` (or just `mode`)
 - `game mod` (or just `mod`)
 - `play style`
-- `hit sound`
-	
-The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
-	
+- `gameplay`
+
+The term `Difficulty` may refer to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
+
 ---
 
-Use "beatmaps" instead of "maps".
-
-Use "creator" instead of "beatmapper" or "mapper".
+- Use "beatmaps" instead of "maps".
+- Use "creator" instead of "beatmapper" or "mapper".
+- Use "BN" or "BNs" when referring to the the _beatmap nominators_. Do not use "BNG" or "Beatmap Nomination Group".
