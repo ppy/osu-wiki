@@ -2,7 +2,7 @@
 
 *Not to be confused with: [Beatmaps](/wiki/Beatmaps).*
 
-*See also: [Ranking Criteria § Mapset](/wiki/Ranking Criteria/#Mapset).*
+*See also: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset).*
 
 The difficulty of a beatmap *describes* the level of skill needed to complete a beatmap.
 
