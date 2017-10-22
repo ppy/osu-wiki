@@ -79,7 +79,7 @@ osu! Alumni
 | [happy30](https://osu.ppy.sh/u/27767) | BAT |
 | [HeatKai](https://osu.ppy.sh/u/332555) | Sohbet Moderatörü |
 | [Hitoshirenu Shourai](https://osu.ppy.sh/u/602) | BAT |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT and QAT 
 | [IceBeam](https://osu.ppy.sh/u/208440) | BAT |
 | [ignorethis](https://osu.ppy.sh/u/27343) | BAT |
 | [Inamaru](https://osu.ppy.sh/u/76382) | GMT |
