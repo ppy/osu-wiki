@@ -5,13 +5,13 @@
 * **_Skinning_**: Es la acción de modificar/crear elementos para la interfaz de _osu!_
 
 _"Skinning"_ es uno de los fundamentos de todos los modos de juego de osu!.
-Permite al usuario obtener elementos de la _"Skin"_ original y crear la propia!
+Permite al usuario obtener elementos de la _"Skin"_ original y crear una propia!
 
 Con el paso de los años en _osu!_, el _"Skinning"_ ha cambiado drásticamente en estilo.
 Hay varias maneras en las que puedes modificar el aspecto de _osu!_
 
 Las _"Skins"_ varían desde _por diversión_ a un tema central (p.ej. un anime o un grupo de personas) para aquellos que les resulta casi imposibles de jugar (p.ej. _hitbursts_ sobredimensionados, _followpoints_ invisibles,).
-Otro tipo de _"Skins"_ son las _pro_ _"Skins"_, donde ellos maximizan la visibilidad del área de juego y minimizan las obstrucciones visuales (p.ej. remplazar _hitbursts_ con imagenes en blanco).
+Otro tipo de _"Skins"_ son las _pro_ _"Skins"_, donde ellos maximizan la visibilidad del área de juego y minimizan las obstrucciones visuales (p.ej. remplazar _hitbursts_ con imágenes en blanco).
 
 ## Tutorial
 
@@ -46,7 +46,7 @@ La interfaz del usuario y los sonidos compartidos por la mayoría de los modos d
 4. Ciertos elementos **apuntan a una dirección concreta**
    - Algunos elementos tienen un estándar en cuanto a qué dirección deben apuntar de manera correcta cuando el osu!client lo utiliza.
 
-### Overlays
+### Overlays (Sobreexposición)
 
 - Los elementos _"overlay"_ siempre cubrirán la imagen de un elemento y **no serán coloreados o teñidos**.
 
@@ -57,21 +57,21 @@ Debido a esto, algunos elementos de "Skinning" podrían cubrir o estar más lejo
 
 Lo mejor es mantener las siguientes resoluciones en mente al momento de modificar la _"Skin"_
 
-- 1024 x 783 (4:3, resolución estándar del juego, está basado en esta)
+- 1024 x 768 (4:3, resolución estándar del juego, está basado en esta)
 - 2048 x 1536 (4:3, resolución estándar del juego en escala HD)
 - 1366 x 768 (16:9, resolución estándar del juego en pantalla ancha)
 - 2732 x 1536 (16:9, resolución estándar del juego en pantalla ancha HD)
 - 1920 x 1080 (16:9, resolución estándar en HD)
 
-Las imágenes serán ajustadas por el mismo juego para ajustarse a las resoluciones derivadas mencionadas arriba.
-La mayoría de estas serán re-escaladas para ajustarse al área de juego o ser reposicionadas en distintas relaciones de aspecto.
+Las imágenes serán ajustadas por el mismo juego para ajustarse a las resoluciones derivadas arriba mencionadas.
+La mayoría de estas serán re-escaladas para ajustarse al área de juego o ser reposicionadas de acuerdo al aspecto de relación.
 
 ### Imágenes HD
 
 Las imágenes HD son usadas en lugar de las imágenes normales en mayores resoluciones cuando se presente el caso.
 Comparadas con las imágenes normales, las imágenes HD son mucho más nítidas y limpias en estas resoluciones mayores.
 Estas resultan ajustadas por el mismo juego automáticamente para ajustarse a la resolución usada.
-Las resoluciones que soportan imágenes HD empiezan con un **mínimo de 800 pixeles en peso**.
+Las resoluciones que soportan imágenes HD empiezan con un **mínimo de 800 pixeles en tamaño**.
 Las imágenes HD son marcadas con `@2x` al final de sus nombres.
 
 - Ejemplo: cursor`@2x`.png
@@ -81,8 +81,8 @@ Las imágenes HD tienen tamaños de dimensiones dobles.
 - Ejemplo: La imagen `hitcircle.png` tiene su tamaño de dimensión de **128x128 pixeles**.
   - Su imagen HD, `hitcircle.png@2x`, tiene su tamaño de dimensión de **256x256 pixeles**.
   
-Cada imagen tiene su equivalente HD, incluso todos los fotorgramas en una animación pueden tener su equivalente HD.
-Como resultado, el tamaño del archivo o de la carpeta aumentará debido a tener más imagenes de lo normal.
+Cada imagen tiene su equivalente HD, incluso todos los fotogramas en una animación pueden tener su equivalente HD.
+Como resultado, el tamaño del archivo o de la carpeta aumentará debido a tener más imágenes de lo normal.
   
 Todas las imágenes HD también podrán ser más grandes en tamaño de archivo debido al hecho de que el tamaño del lienzo usado es 4 veces más grande comparado con la imagen normal.
 Hay esencialmente dos modos de resoluciones que _osu!_ está usando.
