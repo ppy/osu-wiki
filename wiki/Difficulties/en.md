@@ -2,6 +2,8 @@
 
 *Not to be confused with: [Beatmaps](/wiki/Beatmaps).*
 
+*See also: [Ranking Criteria § Mapset](/wiki/Ranking Criteria/#Mapset).*
+
 The difficulty of a beatmap *describes* the level of skill needed to complete a beatmap.
 
 ## Star rating
@@ -20,7 +22,7 @@ From the [Ranking Criteria](/wiki/Ranking_Criteria), a star rating of:
 
 The star rating ranges will determine which web icon is to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
 
-## Difficulties by game mode
+## Difficulty levels
 
 *See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming).*
 
@@ -55,9 +57,3 @@ The star rating ranges will determine which web icon is to be used on any given 
 - ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") [HD](/wiki/HD)
 - ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") [MX](/wiki/MX)
 - ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") [SC](/wiki/SC)
-
-## Difficulty spreads
-
-*See also: [Spreads](/wiki/Spreads).*
-
-The set of difficulties in a beatmapset are called _difficulty spreads_. For more details, see [Spreads](/wiki/Spreads).
