@@ -230,7 +230,7 @@ A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and
 
 *repeat (Integer)* is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
 
-*pixelLength (Float)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
+*pixelLength (Double)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
 
 *edgeHitsounds (hitSound|...)* is a `|`-separated list of hitSounds to apply to the circles of the slider. The values are the same as those for Hit Circle hitSounds.
 
