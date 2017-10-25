@@ -1,6 +1,6 @@
 # BBCode
 
-![La caja de edición en los foros](img/forums.jpg "La caja de edición en los foros")
+![La caja de edición en los foros](img/editor.jpg "La caja de edición en los foros")
 
 **BBCode** es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
 Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
@@ -40,7 +40,7 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
    * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```prolog
+```
 [b] ... [/b]
 ```
 
@@ -52,7 +52,7 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   * Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
-```prolog
+```
 [i] ... [/i]
 ```
 
@@ -64,7 +64,7 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```prolog
+```
 [u] ... [/u]
 ```
 
@@ -76,11 +76,11 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```prolog
+```
 [strike] ... [/strike]
 ```
   * Alternativamente, se puede utilizar:
-```prolog
+```
 [s] ... [/s]
 ```
 
@@ -103,7 +103,7 @@ _BBCode llama a este "Color" ._
   * Donde `HEXCODE` es un color en hexadecimal o nombre de color.
     - Para hexadecimal, debe comenzar con `#`, seguido por 6 caracteres hexadecimales (0 - 9, A - F).
     - Para el nombre del color, debe ser un color HTML válido.
-```prolog
+```
 [color=HEXCODE] ... [/color]
 ```
 
@@ -126,7 +126,7 @@ Ajusta relativamente el tamaño del texto.
   * El argumento `NUMBER` no debe usar comillas.
 - Sintaxis:
   * Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
-```prolog
+```
 [size=NUMBER] ... [/size]
 ```
 
@@ -143,7 +143,7 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 - Notas:
   * Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
-```prolog
+```
 [spoiler] ... [/spoiler]
 ```
 
@@ -158,7 +158,7 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 - Notas:
   * Esto creará un cuadro [Box](#) con el texto de encabezado `collapsed text`.
 - Sintaxis:
-```prolog
+```
 [spoilerbox]
 ...
 [/spoilerbox]
@@ -181,7 +181,7 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
   * El argumento `NAME` puede contener espacios.
 - Sintaxis:
   *  `NAME` será el nombre de la caja.
-```prolog
+```
 [box=NAME]
 ...
 [/box]
@@ -199,7 +199,7 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
     - Si hiciste esto, el mensaje (cuando hagas clic en `Post`) se publicará en el hilo actual.
 - Sintaxis:
   * `NAME` es a quién/qué se citará (**debe** ir entre comillas).
-```prolog
+```
 [quote=NAME]
 ...
 [/quote]
@@ -214,7 +214,7 @@ Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de
   * Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
   *  El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
 - Sintaxis:
-```prolog
+```
 [code]
 ...
 [/code]
@@ -228,7 +228,7 @@ Alinear un párrafo al centro; típicamente para títulos o encabezados.
 - Notas:
   * Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
-```prolog
+```
 [centre]
 ...
 [/centre]
@@ -247,7 +247,7 @@ Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje
 - Sintaxis:
   * `ENLACE` es la url.
   * Donde `TEXTO` es el texto del enlace.
-```prolog
+```
 [url=ENLACE]TEXTO[/url]
 ```
 
@@ -265,7 +265,7 @@ Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identif
   * El argumento `USER` tiene que estar definido.
 - Sintaxis:
   *  `USER` es el nombre del usuario.
-```prolog
+```
 [profile]USUARIO[/profile]
 ```
 
@@ -278,7 +278,7 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   * Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-```prolog
+```
 [google] ... [/google]
 ```
 
@@ -291,7 +291,7 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   * Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-```prolog
+```
 [lucky] ... [/lucky]
 ```
 
@@ -320,7 +320,7 @@ Los puntos se colocan dentro de la envoltura.
 - Sintaxis:
   * Cuando `TYPE` sea uno de los tipos definidos más arriba.
   * Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
-```prolog
+```
 [list=TYPE]
 [*] ...
 [/list]
@@ -343,7 +343,7 @@ También ten en cuenta que algunos sitios web no aceptan los enlaces directos a 
   * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#Caja).
 - Sintaxis:
   * `LINK` es un enlace directo a una imagen.
-```prolog
+```
 [img]LINK[/img]
 ```
 
@@ -357,7 +357,7 @@ Incluye un vídeo de YouTube en tu publicación.
 - Sintaxis:
   * `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
     - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
-```prolog
+```
 [youtube]YT-ID[/youtube]
 ```
 
@@ -370,7 +370,7 @@ Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 - Notas:
   * Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```prolog
+```
 [heading] ... [/heading]
 ```
 
@@ -385,7 +385,7 @@ Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
   * Esto sólo aparece después de la publicación, no en la vista previa.
   * Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```prolog
+```
 [...]
 ```
 
@@ -397,7 +397,7 @@ Coloca el párrafo dentro de un cuadro blanco.
 - Notas:
   * Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```prolog
+```
 [notice]
 ...
 [/notice]
