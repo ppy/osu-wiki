@@ -1,6 +1,6 @@
 # BBCode
 
-![포럼에서의 글쓰기 화면.](img/forums.jpg "포럼에서의 글쓰기 화면.)
+![포럼에서의 글쓰기 화면.](img/forums.jpg "포럼에서의 글쓰기 화면.")
 
 **BBCode**란 오스 포럼에서 사용되며, 더 넓게는 rich text formatting을 가능하게 하기 위해 대개의 온라인 포럼에서 사용되는 마크업 용어입니다. 
 텍스트를 감싸는 tag들과 attribute들로 이루어져 있죠.
