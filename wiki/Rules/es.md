@@ -21,7 +21,7 @@
   6.  **Sé consciente de lo que compartes con otros, especialmente si el contenido es potencialmente perturbador o de naturaleza extremádamente gráfica.** Si tienes que pensarlo dos veces sobre si algo es o no apropiado de enlazar, probablemente no está bien. Evita cosas con luces rápidas y parpadeantes, gore, imágenes de abuso u cualquier otro contenido muy gráfico.
   7.  **Mantén los enlaces a sitios legales y adecuados.** Sitios de transmiciones piratas , y cualquier cosa relacionada a piratería, como programas pirateados, de cualquier tipo no está bien y no los queremos en nuestro chat (sitios oficialmente licenciados como Animelab y Crunchyroll están bien). Promocionar enlaces de Twitch para otros videojuegos está bien, pero SOLO en `#videogames`.
   8.  **No promociones servidores de chat de terceros de ningún tipo, incluyendo servidores/grupos de Discord, Teamspeak o Skype.** El chat de osu! es principalmente sobre *osu!* y no sobre compartir links a tus servidores personales. Hazlo a través de mensajes privados (MP) si es que tienes que hacerlo.
-  9.  **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés en `#english`, tailandés en `#thai`, etc) si es que estás participando en alguna discusión.** En el caso que el lenguaje de un canal no sea explícito (o inferido por el nombre del canal, como en tailandés para `#thai` u holandés para `#dutch`), este siempre será inglés. Los canales #lobby y #help en cualquier lenguaje, a diferencia de los otros canales. *Miembros del [personal de moderación](https://osu.ppy.sh/help/wiki/People/Global_Moderation_Team) no necesitan seguir esta regla, cuando hacen su trabajo.*
+  9.  **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés en `#english`, tailandés en `#thai`, etc) si es que estás participando en alguna discusión.** En el caso que el lenguaje de un canal no sea explícito (o inferido por el nombre del canal, como en tailandés para `#thai` u holandés para `#dutch`), este siempre será inglés. Los canales #lobby y #help en cualquier lenguaje, a diferencia de los otros canales. *Miembros del [personal de moderación](/wiki/People/Global_Moderation_Team) no necesitan seguir esta regla, cuando hacen su trabajo.*
 
 ## Reglas del Foro
 
@@ -35,9 +35,9 @@
 
 ## Reglas de Envio de Beatmaps
 
-  Estas reglas aplican estríctamente a los beatmaps que sean presentados a través del [Beatmap Submission System](https://osu.ppy.sh/help/wiki/Glossary/#bss) (Sistema de Envio de Beatmaps) dentro del juego. Estos hilos/discusiones son creados a través del cliente osu! cuando un beatmap es presentado a través del [editor](https://osu.ppy.sh/help/wiki/Beatmap_Editor).
+  Estas reglas aplican estríctamente a los beatmaps que sean presentados a través del [Beatmap Submission System](/wiki/Glossary/#bss) (Sistema de Envio de Beatmaps) dentro del juego. Estos hilos/discusiones son creados a través del cliente osu! cuando un beatmap es presentado a través del [editor](/wiki/Beatmap_Editor).
 
-  Existe un set de reglas más detallado para la construcción de beatmaps, conocido como Los [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) (Criterios de Ranking).
+  Existe un set de reglas más detallado para la construcción de beatmaps, conocido como Los [Ranking Criteria](/wiki/Ranking_Criteria) (Criterios de Ranking).
 
   1.  **Asegúrate de que tienes permiso de usar cualquier tipo de contenido involucrado en tu beatmap.** Esto incluye canciones, videos, sonidos de ritmo, arte gráfico y cualquier otro contenido que no sea de tu creación propia. Si no estás seguro de dónde encontrar contenido que sea de uso libre, tenemos una librería en crecimiento de pistas disponible en nuestro listado de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/), todos 100% licenciados para su uso en *osu!*.
   2.  **Mantén el tema en las discusiones de beatmaps.** Estos hilos/discusiones son sobre el beatmap en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el beatmap, publícalo en el foro apropiado.
