@@ -32,7 +32,11 @@ _event, [...]
 
 **For animations, specify a filename like "sliderball.png", and name your files "sliderball0.png" to "sliderball9.png" for a 10 frame animation.**
 
-**frameCount**: number of frames in the animation **frameDelay**: delay in milliseconds between each frame. **looptype**: *LoopForever* by default
+**frameCount**: number of frames in the animation.
+
+**frameDelay**: delay in milliseconds between each frame.
+
+**looptype**: *LoopForever* by default
 
 -   **LoopForever** - Loops over and over again
 -   **LoopOnce** - Loops once and stops on last frame.
@@ -200,7 +204,9 @@ __event, [...]
 __event, [...]
 ```
 
-**start**: When the trigger is valid **end** : When the trigger stops being valid
+**start**: When the trigger is valid
+
+**end** : When the trigger stops being valid
 
 Current triggers supported are:
 
@@ -220,13 +226,10 @@ Trigger loops are zero-based similar to normal loops. If two overlap, the first 
 
 **layer**:
 
-Background = **0**
-
-Fail = **1**
-
-Pass = **2**
-
-Foreground = **3**
+- Background = **0**
+- Fail = **1**
+- Pass = **2**
+- Foreground = **3**
 
 **filepath**: relative path of the sound file (should be in the same directory as the .osu file)
 
