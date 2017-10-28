@@ -178,7 +178,7 @@ becomes
 
 `_M,0,1000,,320,240,320,240`
 
-Please note the blank space in the endtime field - this is \[b\]required\[/b\].
+Please note the blank space in the endtime field - this is <b>required</b>.
 
 ***shorthand3***: This notation can be used when the start and end values of the event are the same.
 
@@ -202,7 +202,7 @@ __event, [...]
 
 **loopcount**: number of times to repeat the loop.
 
-Note that events inside a loop should be timed with a \[b\]zero-base\[/b\]. This means that you should \[b\]start from 0ms\[/b\] for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
+Note that events inside a loop should be timed with a <b>zero-base</b>. This means that you should <b>start from 0ms</b> for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
 
 ```
 _L,starttime,loopcount
