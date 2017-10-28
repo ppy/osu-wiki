@@ -1,0 +1,27 @@
+<!-- BanchoBot Information -->
+# BanchoBot
+
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+
+BanchoBotは、**Echo49**によって作成されたボットで、ゲームに関するメッセージを表示することでユーザを支援します。
+これは[bancho irc](/wiki/Internet_Relay_Chat)にホストされており、ID _[#3](https://osu.ppy.sh/u/3)_(ID[#2](https://osu.ppy.sh/u/2)のpeppyの次) にユーザプロフィールがあります。*また、[twitterアカウント](https://twitter.com/banchoboat)があります*
+
+<!-- BanchoBot (server) commands start with an exclamation mark! `!`-->
+## BanchoBot コマンド
+
+BanchoBotコマンドの接頭辞には、`!`が必要となります。**通常ユーザはマルチプレイヤーチャンネルとBanchoBotのPMでのみ、このコマンドを使用できます。**もしも、ユーザがパブリックチャットでコマンドを送信した場合、チャットは表示されずにプライベートメッセージとしてBanchoBotに取得されます。
+ユーザは、クライアントコマンド`/bb <コマンド>`を使用してBanchoBotタブを開き、コマンドを送信することが出来ます。
+
+*スラッシュ（クライアント）コマンドの一覧は[Chat Console](/wiki/Chat_Console#commands-list)をご覧下さい。*
+
+<!-- Commands List -->
+| コマンド   | 値            | 説明 | 入力例 | レスポンス例 |
+| --------- | ---------------------- | ----------- | ------------- | ---------------- |
+| `HELP`    | None                   | 使用可能なコマンド一覧を表示します。                                                    | `!help`                               | この一覧 |
+| `ROLL`    | `[number]`             | 選択した数値までを無造作に取得します。（デフォルトは１００です。）                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
+| `STATS`   | `<user_name>`          | プレイしているモードに応じてユーザの統計情報を表示します。                    | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
+| `WHERE`   | `<user_name>`          | Shows the current location of the user.                                                 | `!where Kyubey`                       | "Kyubey is in Russia" |
+| `FAQ`     | `[lang:]<entry>/list`  | Displays the message of the entry. Use `list` as entry to show all available entries.   | `!faq ping`                           | "Pong!" |
+| `REPORT`  | `<user_name> <reason>` | Sends a report to the chat moderators. Replace username spaces to underscores `_`       | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
+| `REQUEST` | None                   | Receive a random beatmap that a user requests modding assistance.                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+<!-- Note: The !search command is not included because it is no longer working. -->
