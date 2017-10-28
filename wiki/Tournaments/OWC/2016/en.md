@@ -91,7 +91,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 | ![][flag_KR] South Korea    | ![][flag_IT] Italy              | ![][flag_LV] Latvia      | ![][flag_SG] Singapore |
 | ![][flag_TW] Taiwan         | ![][flag_MX] Mexico             | ![][flag_NL] Netherlands | ![][flag_ES] Spain     |
 | ![][flag_GB] United Kingdom | ![][flag_NO] Norway             | ![][flag_NZ] New Zealand | ![][flag_SE] Sweden    |
-| ![][flag_US] United States  | ![][flag_RU] Russian Federation | ![][flag_PH] Philippenes | ![][flag_UA] Ukraine   |
+| ![][flag_US] United States  | ![][flag_RU] Russian Federation | ![][flag_PH] Philippines | ![][flag_UA] Ukraine   |
 
 ### Group A
 
