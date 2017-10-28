@@ -104,37 +104,51 @@ For each of the event types below, the initial value(s) of that event will assum
 
 `_M,[...],startx,starty,endx,endy`
 
-**startx, starty**: the position at the beginning of the animation **endx, endy**: the position at the end of the animation *Note*: the size of the play field is (640,480), with (0,0) being top left corner.
+**startx, starty**: the position at the beginning of the animation
+
+**endx, endy**: the position at the end of the animation *Note*: the size of the play field is (640,480), with (0,0) being top left corner.
 
 `_S,[...],startscale,endscale`
 
-**startscale**: the scale factor at the beginning of the animation **endscale**: the scale factor at the end of the animation
+**startscale**: the scale factor at the beginning of the animation
+
+**endscale**: the scale factor at the end of the animation
 
 Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_V,[...],startx,starty,endx,endy`
 
-**startx, starty**: the scale factor at the beginning of the animation **endx, endy**: the scale factor at the end of the animation 1 = 100%, 2 = 200% etc. decimals are allowed.
+**startx, starty**: the scale factor at the beginning of the animation
+
+**endx, endy**: the scale factor at the end of the animation 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_R,[...],startangle,endangle`
 
-**startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation **endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
+**startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation
+
+**endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
 
 Note: positive angle is clockwise rotation
 
 `_C,[...],r1,g1,b1,r2,g2,b2`
 
-**r1, g1, b1**: the starting component-wise colour **r2, g2, b2**: the finishing component-wise colour
+**r1, g1, b1**: the starting component-wise colour
+
+ **r2, g2, b2**: the finishing component-wise colour
 
 sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
 
 `_MX,[...],startx,endx`
 
-**startx**: the x position at the beginning of the animation **endx**: the x position at the end of the animation
+**startx**: the x position at the beginning of the animation
+
+**endx**: the x position at the end of the animation
 
 `_MY,[...],starty,endy`
 
-**starty**: the y position at the beginning of the animation **endy**: the y position at the end of the animation
+**starty**: the y position at the beginning of the animation
+
+**endy**: the y position at the end of the animation
 
 `_P,[...],p`
 
@@ -184,7 +198,9 @@ __event, [...]
 __event, [...]
 ```
 
-**starttime**: the time of the first loop's start. **loopcount**: number of times to repeat the loop.
+**starttime**: the time of the first loop's start.
+
+**loopcount**: number of times to repeat the loop.
 
 Note that events inside a loop should be timed with a \[b\]zero-base\[/b\]. This means that you should \[b\]start from 0ms\[/b\] for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
 
