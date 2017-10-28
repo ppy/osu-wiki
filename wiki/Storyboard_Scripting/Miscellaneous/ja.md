@@ -161,7 +161,7 @@ osu! File切り替え
 
 [スキン](/wiki/Skinning) / [SBを](/wiki/Storyboards).osu(いくつかの場合は.osbファイルで)で切り替えさせることが可能です。これらは[Beatmap Editorで加えられた](/wiki/Beatmap_Editor)/削除されたものを含めることができます。
 
-[skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
+[skin.iniも参照してください](/wiki/Skinning/skin.ini/en.md)。
 
 ### [General] Section以下
 
