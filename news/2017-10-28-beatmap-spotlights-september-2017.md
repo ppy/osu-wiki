@@ -24,11 +24,11 @@ Congratulations to the winners of the August 2017 Spotlights. They receive one m
 
 [![](/wiki/shared/news/2017-10-28-beatmap-spotlights-september-2017/reloaded.jpg)](https://osu.ppy.sh/s/380143)
 
-[Handsome](https://osu.ppy.sh/u/2123087)'s latest ranked map, RELOADED, works most effectively thanks to its limited framework. The map is designed around a strict symmetrical object placement gimmick, along with the restriction of almost all sliders moving only upwards. Through this design, it provides an engaging experience that no other maps can provide!
+[Handsome](https://osu.ppy.sh/u/2123087)'s ranked map, RELOADED, works most effectively thanks to its limited framework. The map is designed around a strict symmetrical object placement gimmick, along with the restriction of almost all sliders moving only upwards. Through this design, it provides an engaging experience that no other maps can provide!
 
 [![](/wiki/shared/news/2017-10-28-beatmap-spotlights-september-2017/we-are-one.jpg)](https://osu.ppy.sh/s/605745)
 
-In his latest mapset, [Frey](https://osu.ppy.sh/u/695678) presents us a fast-paced dubstep piece by renowned artist Pegboard Nerds. Five full difficulties of non-stop intense gameplay, all mapped fully by none other than himself. The very nature of the set brings us a genuine feeling of coherence and unity, a rare sight in the modern jungle of collaborations and guest difficulties.
+In his mapset, [Frey](https://osu.ppy.sh/u/695678) presents us a fast-paced dubstep piece by renowned artist Pegboard Nerds. Five full difficulties of non-stop intense gameplay, all mapped fully by none other than himself. The very nature of the set brings us a genuine feeling of coherence and unity, a rare sight in the modern jungle of collaborations and guest difficulties.
 
 From the ‘Normal’ difficulty we are already introduced to his characteristic clean style, which relies heavily on visual appeal by minimizing overlaps and prioritizing blankets. The style becomes more pronounced as we progress up the difficulties, with denser rhythms and spacing freedom allowing for a more distinct aesthetic. Everything culminates in the 'Night Begins' difficulty, where we see energetic patterns left and right, all arranged in an elegant, simple fashion.
 
@@ -94,7 +94,7 @@ Rounding out this month's spotlights, [Kyuare](https://osu.ppy.sh/u/2705312)'s m
 
 [![](/wiki/shared/news/2017-10-28-beatmap-spotlights-september-2017/airborne-robots.jpg)](https://osu.ppy.sh/s/473736)
 
-I remember back then when [Curiossity](https://osu.ppy.sh/u/6490035) asked me to mod this back when I wasn't even part of the BNG and the map was overall way too repetitive and copy-pasted but now, after a looong time and a good amount of modding I am sure we can all agree this is one of the best maps that 4K has seen this year.
+Submitted over one year ago, [Curiossity](https://osu.ppy.sh/u/6490035)%27s Airborne Robots has certainly seen a lot of improvement. From an overally repetitive map, it has become one of the best maps the 4k mania community has seen.
 
 Well balanced spread, good touch of simple but yet effective slider velocity changes combined with crazy slow Long Note sections and harsh mini-jacks. The mapset overall has a bit of everything and it will be enjoyable for everyone who either wants a challenge or just likes to enjoy easier difficulties. Well done Curiossity.
 
@@ -104,11 +104,11 @@ Mania’s had a rather lackluster month this time around, so [Maxus](https://osu
 
 Starting the map, the player is introduced to some light jacks with half a measure long hold notes, which leads into a buildup of 1/8 bursts that will challenge the player’s speed and reading. Making it past that is a calm section consisting of many half-beat Long Notes of which goes into a transitional phrase with a fair amount of minijacks peppered throughout.
 
-Players will be taken by pleasant surprise at the height of the song with a long note section full of quickly timed 1/4ths which will require precise holding and releasing to get through with a high accuracy. While not terribly difficult, this will definitely challenge and force your average player out of their comfort zone and serves as an excellent introduction to harder types of patterning not commonly found in the ranked section.
+Players will be taken by surprise at the height of the song with a long note section full of quickly timed 1/4ths which will require precise holding and releasing to get through with a high accuracy. While not terribly difficult, this will definitely challenge and force your average player out of their comfort zone and serves as an excellent introduction to harder types of patterning not commonly found in the ranked section.
 
 --------
 
-And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out from these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
+And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out on these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
 
 
 —OnosakiHito
