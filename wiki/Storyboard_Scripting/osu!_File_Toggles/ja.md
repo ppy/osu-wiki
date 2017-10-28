@@ -3,7 +3,7 @@ Osu File Toggles (日本語)
 
 .osu もしくは.osbファイルに[スキン](/wiki/Skinning) / [ストーリーボードに影響を与えるコードも記述することが可能です](/wiki/Storyboards)。それらには[エディタで追加](/wiki/Beatmap_Editor)/削除されたデータも含みます。
 
-[skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
+[skin.iniも参照してください](/wiki/Skinning/skin.ini/en.md)。
 
 [General]セクション以下
 -------------------------
