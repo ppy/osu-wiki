@@ -124,9 +124,9 @@ Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_R,[...],startangle,endangle`
 
-**startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation
+**startangle**: the angle to rotate by <u>in radians</u> at the beginning of the animation
 
-**endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
+**endangle**: the angle to rotate by <u>in radians</u> at the end of the animation
 
 Note: positive angle is clockwise rotation
 
@@ -136,7 +136,7 @@ Note: positive angle is clockwise rotation
 
  **r2, g2, b2**: the finishing component-wise colour
 
-sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
+sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be **totally black**. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
 
 `_MX,[...],startx,endx`
 
