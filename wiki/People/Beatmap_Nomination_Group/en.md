@@ -85,7 +85,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [F D Flourite](https://osu.ppy.sh/u/2459589)      | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] | Chinese                  |
 | [Fresh Chicken](https://osu.ppy.sh/u/3984370)     | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Korean, Japanese         |
 | [frukoyurdakul](https://osu.ppy.sh/u/7612550)     | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Turkish                  |
-| [Gabe](https://osu.ppy.sh/u/654108)               | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                          |
+| [Gabe](https://osu.ppy.sh/u/654108)               | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | French                    |
 | [Garden](https://osu.ppy.sh/u/2849992)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [Gero](https://osu.ppy.sh/u/1467715)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish                  |
 | [Halfslashed](https://osu.ppy.sh/u/4598899)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
