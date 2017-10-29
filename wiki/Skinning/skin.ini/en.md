@@ -103,6 +103,48 @@ If your skin folder does not contain a `skin.ini` file, it will default to this 
 - Does not require the `skin.ini` file.
 - This folder will always force `Version: latest`
 
+## Notes
+
+Before viewing the `skin.ini` commands below, here are some notes.
+
+### 1's and 0's
+
+*tl;dr `0 = no` and `1 = yes`*
+
+Some commands only accept a boolean value (a `true` or a `false` value). When skinning, *osu!* is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
+
+Here is a classic example:
+
+| `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
+|:--------------------------:|:--------------------------:|
+| ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
+
+Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
+
+### Numbers and Integers
+
+The tables below may list either a *number*, an *integer* or a *positive integer*.
+
+When viewing these tables:
+
+- *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
+- *integer* means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
+  - *positive integer* means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
+- *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
+
+### RGB and RGB(a)
+
+A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
+
+- For RGB, the format looks like this `R, G, B` where `R` is red, `G` is green, and `B` is blue.
+  - Most commands will only accept _RGB_, without the alpha. If you specify an alpha value here, osu! will ignore it.
+- For RGB(a), the format looks like this `R, G, B, a`, in addition to above, `a` means alpha (opacity).
+  - A few commands accept _RGB(a)_, with the alpha. If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
+
+### Sections
+
+*osu!* organizes the commands with a heading command. Which may look like this `[General]`. *osu!* only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
+
 ## \[General\]
 
 - `Name:`
