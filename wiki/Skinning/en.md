@@ -16,10 +16,11 @@ If your skin contains a single element from the listed sets in the Ranking Crite
 
 ## Related articles
 
-- [skin.ini](/wiki/skin.ini)
-- [Interface](/wiki/Skinning/Interface)
-- [osu!standard](/wiki/Skinning/osu!)
-- [osu!taiko](/wiki/Skinning/osu!taiko)
-- [osu!catch](/wiki/Skinning/osu!catch)
-- [osu!mania](/wiki/Skinning/osu!mania)
-- [Sounds](/wiki/Skinning/Sounds)
+- [Skinning/Tutorial](/wiki/Skinning/Tutorial)
+- [Skinning/skin.ini](/wiki/skin.ini)
+- [Skinning/Interface](/wiki/Skinning/Interface)
+- [Skinning/osu!standard](/wiki/Skinning/osu!)
+- [Skinning/osu!taiko](/wiki/Skinning/osu!taiko)
+- [Skinning/osu!catch](/wiki/Skinning/osu!catch)
+- [Skinning/osu!mania](/wiki/Skinning/osu!mania)
+- [Skinning/Sounds](/wiki/Skinning/Sounds)
