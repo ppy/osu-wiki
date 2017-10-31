@@ -22,15 +22,15 @@ As with last year, this little client-makeover also features cYsmix's spectacula
 
 Here's a few hints to get you started:
 
-**Thrill of the Chase** - Hunting always was a bit of a classic pursuit.
-**The Girl in the Forest** - First generation in more ways than one.
-**You Can't Hide** - Don't even try to hide.
-**True Torment** - You will suffer.
-**The Firmament Moves** - Three steps does it walk, but most witness only one. Seek the one renewed, four times different from what it was before.
-**Too Fast, Too Furious** - This is scarier than you think.
-**Feelin' It** - Get in the groove and multiply those beats.
-**Overconfident** - Wrecked.
-**Spooked** - Bet you didn't see that coming.
+- **Thrill of the Chase** - Hunting always was a bit of a classic pursuit.
+- **The Girl in the Forest** - First generation in more ways than one.
+- **You Can't Hide** - Don't even try to hide.
+- **True Torment** - You will suffer.
+- **The Firmament Moves** - Three steps does it walk, but most witness only one. Seek the one renewed, four times different from what it was before.
+- **Too Fast, Too Furious** - This is scarier than you think.
+- **Feelin' It** - Get in the groove and multiply those beats.
+- **Overconfident** - Wrecked.
+- **Spooked** - Bet you didn't see that coming.
 
 A few of these new medals are considered *exceptionally difficult* in a similar way to the _Equilibrium_ medal from the first set of the new Hush Hush medals. Think outside the box if you go looking!
 
