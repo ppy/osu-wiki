@@ -20,8 +20,10 @@ As with last year, this little client-makeover also features cYsmix's spectacula
 
 We're also delighted to share a special Halloween-themed piece from one of our favourite _osu!_ artists, [Anny](https://osu.ppy.sh/u/249094), which will also be appearing in the main-menu. Check it out!
 
+<center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Halloween! 🎃 <a href="https://t.co/rG18x8gupy">pic.twitter.com/rG18x8gupy</a></p>&mdash; anny (@annytf) <a href="https://twitter.com/annytf/status/925187326933917696?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 _(You can get a full-size, high-quality version of the image from [Anny's DeviantArt!](https://anny-tta.deviantart.com/art/Pippi-and-Mocha-Happy-Halloween-712605738))_
 
@@ -38,8 +40,11 @@ Your friends can now click on the 'Join' button to stand by you in battle agains
 
 See the whole process in action:
 
+<center>
 <video src="https://assets.ppy.sh/media/halloween-2017/themoon.mp4" controls>
 </video>
+</center>
+
 
 You can also click on any one of your friends on a shared server who is currently playing _osu!_, and see what they're up to, as well as ask to join - if they're playing multiplayer.
 
