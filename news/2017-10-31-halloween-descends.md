@@ -23,6 +23,8 @@ We're also delighted to share a special Halloween-themed piece from one of our f
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Halloween! 🎃 <a href="https://t.co/rG18x8gupy">pic.twitter.com/rG18x8gupy</a></p>&mdash; anny (@annytf) <a href="https://twitter.com/annytf/status/925187326933917696?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+_(You can get a full-size, high-quality version of the image from [Anny's DeviantArt!](https://anny-tta.deviantart.com/art/Pippi-and-Mocha-Happy-Halloween-712605738))_
+
 **Halloween is terrifying, so don't go at it alone! _osu!_ now supports inviting your friends to spectate and join your multiplayer games via [Discord](https://discordapp.com/).** The intrepid seers among us may have noticed this hitting the Cutting-Edge builds of the game earlier in the month, but now it's here for everyone to enjoy!
 
 How does it work? It's really simple:
