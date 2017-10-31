@@ -18,7 +18,33 @@ As with last year, this little client-makeover also features cYsmix's spectacula
 
 <br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
 
-**There's also a brand new selection of Hush Hush medals available for your achievement-hunting enjoyment.** Don't spoil these for other people who might want to find them!
+We're also delighted to share a special Halloween-themed piece from one of our favourite _osu!_ artists, [Anny](https://osu.ppy.sh/u/249094), which will also be appearing in the main-menu. Check it out!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Halloween! 🎃 <a href="https://t.co/rG18x8gupy">pic.twitter.com/rG18x8gupy</a></p>&mdash; anny (@annytf) <a href="https://twitter.com/annytf/status/925187326933917696?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Halloween is terrifying, so don't go at it alone! _osu!_ now supports inviting your friends to spectate and join your multiplayer games via [Discord](https://discordapp.com/).** The intrepid seers among us may have noticed this hitting the Cutting-Edge builds of the game earlier in the month, but now it's here for everyone to enjoy!
+
+How does it work? It's really simple:
+
+* Make sure Discord detects _osu!_ as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the ``App Settings -> Games`` tab of the Discord options menu.
+* Turn on the *Display currently running game as status message* option in the ``Games`` tab.
+* Start any game of multiplayer, head on over to your local Discord haunt and click the shiny green button in front of the plus sign (![](/wiki/shared/news/2017-10-31-halloween-descends/rpc-button.png)). It may take a few seconds to appear if you've only just started a game.
+
+Your friends can now click on the 'Join' button to stand by you in battle against the horrors of the night! Or to fight over host, or whatever. Halloween is a night of horrors after all, and we don't judge.
+
+See the whole process in action:
+
+<video src="https://assets.ppy.sh/media/halloween-2017/themoon.webm" controls>
+</video>
+
+You can also click on any one of your friends on a shared server who is currently playing _osu!_, and see what they're up to, as well as ask to join - if they're playing multiplayer.
+
+![](/wiki/shared/news/2017-10-31-halloween-descends/user-display.png)
+
+There's also options to spectate, and more! Fancy.
+
+**We've got a brand new selection of Hush Hush medals available for your achievement-hunting enjoyment.** Don't spoil these for other people who might want to find them!
 
 Here's a few hints to get you started:
 
