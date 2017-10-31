@@ -45,7 +45,7 @@ You can also click on any one of your friends on a shared server who is currentl
 
 ![](/wiki/shared/news/2017-10-31-halloween-descends/user-display.png)
 
-There's also options to spectate, and more! Fancy.
+There's also options to spectate, and more! Fancy. Read more about it [on the forums!](https://osu.ppy.sh/community/forums/topics/659856)
 
 **We've got a brand new selection of Hush Hush medals available for your achievement-hunting enjoyment.** Don't spoil these for other people who might want to find them!
 
