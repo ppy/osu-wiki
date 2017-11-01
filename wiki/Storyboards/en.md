@@ -4,9 +4,11 @@ Storyboarding
 ![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
 ![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
 
-A **Storyboard** (SB) is a custom-made 640x480 or 1366x768 (with the recent advent of widescreen storyboarding) animated background that accompanies a [beatmap](/wiki/Glossary), often for decorative and sometimes for gameplay purposes. A storyboard can be comprised of just about anything, but usually consist of a set of visual effects designed to make a map more aesthetically pleasing and distinctive to users. Storyboards are inspired from the animated backgrounds from osu!'s inspiration, Osu! Tatakae! Ouendan. Like their inspiration, Storyboards are able to adjust to the player's performance in the game and display different things depending on how well the player is doing. Storyboards are saved as ".osb" files in their respective beatmap folder.
+A **Storyboard** (SB) is a custom-made animated background that accompanies a [Beatmap](/wiki/Glossary), often for decorative and sometimes for gameplay purposes. A storyboard can be comprised of just about anything, but usually they consist of visual effects designed to make a map more aesthetically pleasing and distinctive to users. Storyboards are inspired from the animated backgrounds found in Osu! Tatakae! Ouendan. Like their inspiration, Storyboards are able to adjust to the player's performance in the game and display different things depending on how well the player is doing.
 
-Storyboards are often very difficult to make and require considerable time and expertise in standard animation and in the creation of graphics.
+Storyboards are stored in Beatmap folders as either standalone `.osb` files or extensions to the `[Events]` section of a `.osu` file. Because of this, it's possible to create different storyboards for different difficulties within a Beatmap set.
+
+Storyboards are often very difficult to make and require considerable time and expertise in standard animation and in the creation of graphics. osu! offers a design editor inside of the Beatmap Editor to aid the creation of Storyboards, but most avid Storyboard producers opt to instead program via Storyboard scripting directly. Many creators choose to write programs in full-featured programming languages to generate Storyboards scripts, because complex visual effects can require a great amount of Storyboard code to produce.
 
 Full Storyboards
 ----------------
