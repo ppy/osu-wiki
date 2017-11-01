@@ -14,6 +14,48 @@ And boy, are some of them spooky.
 
 You can check out all of the winning entries over at the [contest listing page](https://osu.ppy.sh/community/contests/56) - and **we highly suggest you do**, because there are some absolutely incredible entries this year!
 
+Here's a peek at the winning 10 entries, complete with links to download the full pictures:
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/Leissss.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Leissss.png)
+
+Coming in first place with a tremendous **18009** votes was [Leissss](https://osu.ppy.sh/users/4750716) magical rendition of Mocha and Pippi dressed as witches. Rife with lavish iconography and blindingly beautiful brushwork, it's hardly a surprise to see such a compelling entry take so many votes. Well done!
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/snowyani2000.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20snowyani2000.jpg)
+
+Snatching second place with **12629** votes next up was [snowyani2000's](https://osu.ppy.sh/users/2691590) osu!-themed Halloween groupshot, featuring a multitude of icons ranging from popular osu! players, to songs and more! Throw in a succubus Pippi, a ghostly Maria, and an oni-schoolgirl Mocha plus a handful of the popular community mascots, and you've got something quite special to sit back and pick apart.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/Hikerumin.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Hikerumin.jpg)
+
+In third place, [Hikerumin's](https://osu.ppy.sh/users/7554335) double-witch Mocha-Pippi combo set to a very festive Halloween setting was marvellously enchanting, impressing enough voters to score **11692** votes overall. Yowza.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/agataruby.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20agataruby.jpg)
+
+CUTE! Ahem. Hot on the last entry's heels, [agataruby's](https://osu.ppy.sh/users/8992555) outrageously adorable depiction of Pippi and Mocha in elaborate Halloween-themed dresses scored **11510** votes, slipping behind third place by a hair. owo indeed little ghost, owo indeed.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/guppy.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20guppy.png)
+
+Standing firm in fifth place overall with **8852** votes, [guppy's](https://osu.ppy.sh/users/3554500) depiction of a catgirl Pippi enjoying an abstract waltz through a sea of triangles, candy and moons was one of the more evocative entries we noted in the contest overall. Beautifully executed, and a well-deserved placing!
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/Raynel.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Raynel.png)
+
+Simple, clean and cool, [Raynel's](https://osu.ppy.sh/users/6318119) **8864** vote-winning, beautifully concise depiction of Pippi in a witch costume before an All Hallow's moon shows that you don't always need the bells and whistles to win votes - just a solid execution of spectacular design. Amazing stuff.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/Evaine.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Evaine.jpg)
+
+One of the more definitively spooky entries in the contest, [Evaine](https://osu.ppy.sh/users/7295733)'s terrifically terrifying drawing of a bloodthirsty Pippi standing atop a mound of skulls scared **8236** votes out of our participants. Some say this is a depiction of the last thing you see when you try to uninstall the game. You're here forever, after all.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/ZeethusOSU.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20ZeethusOSU.jpg)
+
+Equal parts cute and menacing, [ZeethusOSU's](https://osu.ppy.sh/users/3318712) ominous entry features Pippi, Mocha and Maria all dressed up for Halloween before a shrine, and scored **7757** votes overall. What's in Maria's pumpkin cauldron? Some of the osu!mania World Cup commentators, probably.
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/Yoviry.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Yoviry.png)
+
+Enjoying a moonlit jaunt, [Yoviry's](https://osu.ppy.sh/users/9930803) enigmatic entry nabbed **5002** votes overall, featuring all of the official osu! mascots enjoying their time under the moon together. It turns out Mocha wasn't scared of Halloween after all!
+
+[![](https://assets.ppy.sh/media/halloween-2017/banners/B4D0U.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20B4D0U.png)
+
+And finally, with **4749** votes overall, [B4D0U](https://osu.ppy.sh/users/1725945)'s chibi Halloween cuteness wrapped it all up with a much-adored dash of sugary sweetness. And creative use of the cookie template, too!
+
 As with last year, this little client-makeover also features cYsmix's spectacularly spooky remix of the main _osu!_ theme, _pumpkins_.
 
 <br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
