@@ -1,5 +1,5 @@
-Storyboarding
-=================
+Storyboards
+===========
 
 ![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
 ![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")

@@ -1,5 +1,5 @@
-Storyboarding
-===============
+Storyboards
+===========
 
 ![Diese Szene wird gezeigt, wenn du Walkie Talkie Man (no SB) spielst](Sbpassing.png "Diese Szene wird gezeigt, wenn du Walkie Talkie Man no SB spielst")
 ![Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.](Sbfailing.png "Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.")
