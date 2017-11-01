@@ -189,6 +189,111 @@ Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an 
 Hit Objects
 -----------
 
+### Common structure
+
+This section is made of CSV lines. The first 5 fields are common to every hit
+objects, and an optional last *addition* fields.
+
+**Syntax**: `x,y,time,type,hitSound...,addition`
+
+#### Position
+
+*x* and *y* are integers representing the position of the center of the hit
+object. *x* ranges from 0 to 512 pixels, inclusive, and *y* ranges from 0 to
+384 pixels, inclusive. The origin, (0, 0) is at the top left of the screen.
+
+To map these coordinates for a standard 640x480 screen, you need to add 64
+pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the
+padding, an object at (0, 0) will be cut on the top left for the screen.
+
+Hit objects whose position is irrelevant, like spinners in osu! or any note in
+osu!taiko, have the special position (256,192), which is the center of the
+screen.
+
+TODO: What about osu!mania?
+
+#### Time
+
+*time* is an integral number of milliseconds from the beginning of the song,
+and specifies when the hit begins.
+
+#### Type
+
+*type* is a bitmap specifying the object type and attributes.
+
+- Bit 0 (1): circle.
+- Bit 1 (2): slider.
+- Bit 2 (4): new combo.
+- Bit 3 (8): spinner.
+- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo
+  colors to skip. Note that 0 means 1 color is skipped anyway by the new combo
+  field. A skip value of 1 thefore skips 2 colors.
+- Bit 7 (128) is for an osu!mania hold note.
+
+Circles, sliders, spinners, and hold notes can be OR'd with new combos and the
+combo skip value, but not with each other.
+
+Unconfirmed: a non-zero combo skip value is ignored when the new combo bit is
+not set.
+
+Examples:
+
+- `1`: circle.
+- `5 = 1 + 4`: circle starting a new combo.
+- `22 = 16 + 4 + 2`: slider starting a new combo, skipping 2 colors.
+
+#### Hit sounds
+
+*hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is
+successfully hit.
+
+- Unconfirmed: Bit 0 (1): hitnormal.
+- Bit 1 (2): hitwhistle.
+- Bit 2 (4): hitfinish.
+- Bit 3 (8): hitclap.
+
+Unconfirmed: The special value 0 is the same as 1 (hitnormal).
+
+Unconfirmed: If bit 0 is not set, the normal sound is not played.
+
+Unconfirmed: Multiple sounds will overlap if multiple bits are set.
+
+#### Addition
+
+The *addition* field is optional and define extra parameters related to the hit
+sound samples. It defaults to `0:0:0:0:`.
+
+Unconfirmed: This field is deprecated. You may omit it entirely, or write
+`0:0:0:0:` instead.
+
+**Syntax**: `sampleSet:additions:customIndex:sampleVolume:filename`
+
+*sampleSet* (Integer) changes the sample set of the normal hit sound, and
+*additions* (Integer) changes the sample set for the other hit sounds (whistle,
+finish, clap). The values for these are:
+
+- 0: Auto. In that case, you need to use the sample set information from the timing point.
+- 1: Normal.
+- 2: Soft.
+- 3: Drum.
+
+*customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`.
+
+Unconfirmed: The special index 1 doesn't appear in the filename. For example:
+`normal-hitfinish.wav`.
+
+Unconfirmed: The special index 0 means you need to get the sample index from
+the timing point.
+
+*sampleVolume* (Integer) is the volume of the sample, and ranges from 0-100 (percent).
+
+*filename* (String) names an audio file in the folder to play instead of sounds
+from sample sets, relative to the beatmap's directory.
+
+Unconfirmed: A comma in the *filename* may break everything.
+
+### Objects
+
 **Hit Circle Syntax:**
 
 `x,y,time,type,hitSound,addition`
@@ -196,26 +301,6 @@ Hit Objects
 `164,260,2434,1,0,0:0:0:0:`
 
 A hit circle is a single hit in all osu! game modes.
-
-*x (Integer)* ranges from 0 to 512 (inclusive) and *y (Integer)* ranges from 0 to 384 (inclusive).
-
-*time (Integer)* is in milliseconds from the beginning of the song.
-
-*type (Integer)* is a bitmap for the hitobject type:
-
-Bit 0 (1) = circle, bit 1 (2) = slider, bit 2 (4) = new combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip. Bit 7 (128) is for an osu!mania hold note. Circles, sliders, and spinners can be OR'd with new combos and the combo skip value, but not with each other.
-
-`1` - circle, `5` - circle starting a new combo, `22` - slider starting a new combo, skipping 2 colors.
-
-*hitSound (Integer)* is a bitmap of hitsounds to play on top of the normal hitsound:
-
-Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
-
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* is optional and defines the samplesets of the hitobject. It defaults to "0:0:0:0:". *sampleSet (Integer)* changes the sampleset of the object, and *addition (Integer)* changes the sampleset for additions (whistle, finish, clap). The values for these are:
-
-0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
-
-*customIndex (Integer)* is the custom sampleset index, e.g. 3 for `normal-3.wav`. *sampleVolume (Integer)* is the volume of the sample, 0-100 (percent). *filename (String)* names an audio file in the folder to play instead of sounds from samplesets.
 
 **Slider Syntax:**
 
