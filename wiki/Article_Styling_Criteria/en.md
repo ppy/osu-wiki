@@ -157,16 +157,6 @@ The level 1 heading should be placed at the start of the article unless you have
 
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-##### Untranslatable titles
-
-In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets. Some examples may include:
-
-    # osu!mania (Español)
-    # Live Streaming osu! (日本語)
-    # BBCode (Français)
-
-The native scripts can be found in the `Native Script` column of [locales](#locales).
-
 #### Sections
 
 All section headings are to be using levels 2 to 5 headings.
