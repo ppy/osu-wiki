@@ -191,31 +191,23 @@ Hit Objects
 
 ### Common structure
 
-This section is made of CSV lines. The first 5 fields are common to every hit
-objects, and an optional last *addition* fields.
+This section is made of CSV lines. The first 5 fields are common to every hit objects, and an optional last *addition* fields.
 
 **Syntax**: `x,y,time,type,hitSound...,addition`
 
 #### Position
 
-*x* and *y* are integers representing the position of the center of the hit
-object. *x* ranges from 0 to 512 pixels, inclusive, and *y* ranges from 0 to
-384 pixels, inclusive. The origin, (0, 0) is at the top left of the screen.
+*x* and *y* are integers representing the position of the center of the hit object. *x* ranges from 0 to 512 pixels, inclusive, and *y* ranges from 0 to 384 pixels, inclusive. The origin, (0, 0) is at the top left of the screen.
 
-To map these coordinates for a standard 640x480 screen, you need to add 64
-pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the
-padding, an object at (0, 0) will be cut on the top left for the screen.
+To map these coordinates for a standard 640x480 screen, you need to add 64 pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the padding, an object at (0, 0) will be cut on the top left for the screen.
 
-Hit objects whose position is irrelevant, like spinners in osu! or any note in
-osu!taiko, have the special position (256,192), which is the center of the
-screen.
+Hit objects whose position is irrelevant, like spinners in osu! or any note in osu!taiko, have the special position (256,192), which is the center of the screen.
 
 TODO: What about osu!mania?
 
 #### Time
 
-*time* is an integral number of milliseconds from the beginning of the song,
-and specifies when the hit begins.
+*time* is an integral number of milliseconds from the beginning of the song, and specifies when the hit begins.
 
 #### Type
 
@@ -225,16 +217,12 @@ and specifies when the hit begins.
 - Bit 1 (2): slider.
 - Bit 2 (4): new combo.
 - Bit 3 (8): spinner.
-- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo
-  colors to skip. Note that 0 means 1 color is skipped anyway by the new combo
-  field. A skip value of 1 therefore skips 2 colors.
+- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip. Note that 0 means 1 color is skipped anyway by the new combo field. A skip value of 1 therefore skips 2 colors.
 - Bit 7 (128) is for an osu!mania hold note.
 
-Circles, sliders, spinners, and hold notes can be OR'd with new combos and the
-combo skip value, but not with each other.
+Circles, sliders, spinners, and hold notes can be OR'd with new combos and the combo skip value, but not with each other.
 
-Unconfirmed: a non-zero combo skip value is ignored when the new combo bit is
-not set.
+Unconfirmed: a non-zero combo skip value is ignored when the new combo bit is not set.
 
 Examples:
 
@@ -244,8 +232,7 @@ Examples:
 
 #### Hit sounds
 
-*hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is
-successfully hit.
+*hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is successfully hit.
 
 - Unconfirmed: Bit 0 (1): hitnormal.
 - Bit 1 (2): hitwhistle.
@@ -260,17 +247,13 @@ Unconfirmed: Multiple sounds will overlap if multiple bits are set.
 
 #### Addition
 
-The *addition* field is optional and define extra parameters related to the hit
-sound samples. It defaults to `0:0:0:0:`.
+The *addition* field is optional and define extra parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
 
-Unconfirmed: This field is deprecated. You may omit it entirely, or write
-`0:0:0:0:` instead.
+Unconfirmed: This field is deprecated. You may omit it entirely, or write `0:0:0:0:` instead.
 
 **Syntax**: `sampleSet:additions:customIndex:sampleVolume:filename`
 
-*sampleSet* (Integer) changes the sample set of the normal hit sound, and
-*additions* (Integer) changes the sample set for the other hit sounds (whistle,
-finish, clap). The values for these are:
+*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additions* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
 
 - 0: Auto. In that case, you need to use the sample set information from the timing point.
 - 1: Normal.
@@ -279,16 +262,13 @@ finish, clap). The values for these are:
 
 *customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`.
 
-Unconfirmed: The special index 1 doesn't appear in the filename. For example:
-`normal-hitfinish.wav`.
+Unconfirmed: The special index 1 doesn't appear in the filename. For example `normal-hitfinish.wav`.
 
-Unconfirmed: The special index 0 means you need to get the sample index from
-the timing point.
+Unconfirmed: The special index 0 means you need to get the sample index from the timing point.
 
 *sampleVolume* (Integer) is the volume of the sample, and ranges from 0-100 (percent).
 
-*filename* (String) names an audio file in the folder to play instead of sounds
-from sample sets, relative to the beatmap's directory.
+*filename* (String) names an audio file in the folder to play instead of sounds from sample sets, relative to the beatmap's directory.
 
 Unconfirmed: A comma in the *filename* may break everything.
 
