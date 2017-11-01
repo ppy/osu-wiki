@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Beatmap Nomination Group (Español)
+Beatmap Nomination Group
 ======================================
 
 El **Beatmap Nomination Group**, mas comúnmente referido como BNG, es un grupo a cargo de [nominar beatmaps](/wiki/Submissions/Beatmap_Ranking_Procedure). Este grupo ha sufrido muchos cambios, especialmente el 22 de agosto del 2014, día en el cual se declaró que ya no formarían parte del staff, revocándoles así sus atributos de moderadores de chat y sus nombres en rojo tanto en el juego como en el foro. El más reciente cambio ocurrió el 1 de febrero de 2015, cuando el nombre del grupo fue cambiado de *Beatmap Appreciation Team o BAT* (Equipo de Apreciación de Beatmaps), a *Beatmap Nominator Group o BNG* (Grupo Nominador de Beatmaps).

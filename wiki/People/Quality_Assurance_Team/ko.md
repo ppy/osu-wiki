@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (한국어)
+Quality Assurance Team
 =================================
 
 QAT으로 흔히 알려져 있는 **Quality Assurance Team**은 비트맵의 품질을 관리하는 사람들로 최근 퀄리파이 된 비트맵의 퀄리티와 플레이성을 체크, 필요하다면 실격 고지와 함께 퀄리파이 상태를 철회시킵니다. 또한 기준이 되는 마지노선을 구성하여 랭킹 과정에 참여하는 모든 비트맵에 일정 이상의 퀄리티가 나오도록 합니다.

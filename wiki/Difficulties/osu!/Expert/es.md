@@ -1,4 +1,4 @@
-Expert (Español)
+Expert
 ===================
 
 Como manera de impulsar y extender los límites del *beatmapping*, la dificultad Expert fue creada para ser más allá de una [Insane](/wiki/Difficulties/osu!/Insane).

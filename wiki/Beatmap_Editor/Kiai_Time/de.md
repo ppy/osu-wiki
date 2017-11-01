@@ -1,4 +1,4 @@
-Kiai Time (Deutsch)
+Kiai Time
 ======================
 
 

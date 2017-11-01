@@ -1,4 +1,4 @@
-Audio editing (日本語)
+Audio editing
 ============================
 
 [osu!academyの](/wiki/Announcements/osu!academy)[Episode 15](http://www.youtube.com/watch?v=muu3HkG38kk) Audio Encoding (4:02) にてその説明がされています。それにはインストールの方法とAudiacityでLAMEを使用しmp3としてエクスポートする方法も含まれています。
