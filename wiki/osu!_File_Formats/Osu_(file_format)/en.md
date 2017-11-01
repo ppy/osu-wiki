@@ -288,23 +288,64 @@ A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and
 
 **Example**: `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
-*x*, *y*, *time*, and *type* behave the same as described in Hit Circle Syntax.
+#### Path
 
-*hitSound* applies to the body of the slider, but only whistle sounds will play during the slider body.
+*sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull, deprecated).
 
-*sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull). A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier. Catmull sliders are deprecated.
+*curvePoints (x:y|...)* is a series of `|`-separated coordinates describing the control points of the slider.
 
-*curvePoints (x:y|...)* is a series of `|`-separated coordinates describing the control points of the slider. Red points appear twice. NOTE: curvePoints is separated from sliderType with a `|`, not a comma.
+A **linear** slider has a start, specified in *x* and *y* from the common fields, and an end point specified in *curvePoints*. For example `L|100:200`.
 
-*repeat (Integer)* is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
+A **perfect** circle slider is defined by three points. In that order: start, pass-through, and end. *x* and *y* define the start point, and *curvePoints* defines the pass-through and end point. For example `P|250:200|200:15`.
+
+A perfect circle slider could be represented as a center point, a radius, and two angles for convenience. See this source code for the conversion algorithm: [CircularArcApproximator.cs](https://github.com/ppy/osu/blob/master/osu.Game/Rulesets/Objects/CircularArcApproximator.cs).
+
+A **Bézier** slider is made of one or many Bézier curves, sharing common ends. The degree of each curve is arbitrary. The first control points is defined with *x* and *y*, and the other ones by *curvePoints*.
+
+To identify the separation between two curves, the intersection point is repeated. Consider the sequence ABCDDEFFG. You would get the 3 Bézier curves: ABCD (cubic), DEF (quadratic) , FG (linear).
+
+Note that this representation is ambiguous, because ABBBC could actually represent ABBBC, AB+BBC, AB+B+BC, or AB+BBC.
+
+Example: `476,340,6419,2,0,B|437:336|422:309|422:309|384:309|359:337|359:337|328:308|300:304|300:304|272:352|237:383|176:356|159:287|224:256,1,420,6|2,0:0|0:0,0:0:0:0:`
+
+The first Bézier curve in the segment is quadratic with the following points: (476, 340), (437, 336), (422, 309).
+
+Note that the multiple curves in the same Bézier slider need not have the same length, so you *will* need to approximate their lengths, otherwise the slider ball would speed up or slow down brutally in the middle of a slider.
+
+#### Repeat
+
+*repeat* (Integer) is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
+
+#### Duration
 
 *pixelLength (Float)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
 
-*edgeHitsounds (hitSound|...)* is a `|`-separated list of hitSounds to apply to the circles of the slider. The values are the same as those for Hit Circle hitSounds.
+TODO: What's the unit? Is it really pixels?
 
-*edgeAdditions (sampleSet:additions|...)* is a `|`-separated list of samplesets to apply to the circles of the slider. *sampleSet* and *additions* are the same as in a hit circle's *addition* field.
+TODO: What happens if a Bézier or perfect circle slider's *pixelLength* is too big? Would you still get a straight line at the end?
 
-*addition* defines the samplesets to use on the slider body. It functions like *addition* for a circle.
+The *pixelLength* is notably used to compute the duration of the slider. To get the slider duration, use the following formula:
+
+`slider duration = pixelLength / (100.0 * SliderMultiplier) * BeatDuration`
+
+Where:
+
+- *SliderMultiplier* is the property defined in the `[Difficulty]` section.
+- *BeatDuration* is the duration of a beat, specific to the current timing point.
+
+The duration you will get is in the same unit as *BeatDuration*, usually milliseconds.
+
+#### Sounds
+
+*hitSound* applies only to the body of the slider. Only *normal* (0) and *whistle* (2) are supported. The samples played are named like `soft-sliderslide4.wav` for normal, and `normal-sliderwhistle.wav` for whistle. These samples are meant to be looped, and may also be empty WAV files to mute the slider.
+
+*edgeHitsounds (hitSound|...)* is a `|`-separated list of *hitSounds* to apply to the circles of the slider. The values are the same as those for regular hit objects. The list must contain exactly *repeat + 1* values, where the first value is the hit sound to play when the slider is first clicked, and the last one when the slider is released.
+
+*edgeAdditions (sampleSet:additions|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additions* are the same as in a hit circle's *addition* field.
+
+The final *addition* defines the sample set to use on the slider body. It functions like *addition* for a circle.
+
+Unconfirmed: Both *edgeAdditions* and *addition* look deprecated.
 
 ### Spinners
 
@@ -312,7 +353,7 @@ A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and
 
 **Example**: `256,192,730,12,8,3983`
 
-A spinner also creates bananas in Catch the Beat, a spinner in Taiko, and does not appear in osu!mania.
+A spinner also creates bananas in Catch the Beat, a spinner in osu!taiko, and does not appear in osu!mania.
 
 *endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song.
 
