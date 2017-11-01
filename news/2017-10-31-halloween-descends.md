@@ -18,7 +18,7 @@ Here's a peek at the winning 10 entries, complete with links to download the ful
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/Leissss.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Leissss.png)
 
-Coming in first place with a tremendous **18009** votes was [Leissss](https://osu.ppy.sh/users/4750716) magical rendition of Mocha and Pippi dressed as witches. Rife with lavish iconography and blindingly beautiful brushwork, it's hardly a surprise to see such a compelling entry take so many votes. Well done!
+Coming in first place with a tremendous **18009** votes was [Leissss](https://osu.ppy.sh/users/4750716) magical rendition of Mocha and Pippi dressed as witches. Full of arcane linework and glowing flair, it's hardly a surprise to see such a compelling entry take so many votes. Well done!
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/snowyani2000.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20snowyani2000.jpg)
 
@@ -30,7 +30,7 @@ In third place, [Hikerumin's](https://osu.ppy.sh/users/7554335) double-witch Moc
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/agataruby.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20agataruby.jpg)
 
-CUTE! Ahem. Hot on the last entry's heels, [agataruby's](https://osu.ppy.sh/users/8992555) outrageously adorable depiction of Pippi and Mocha in elaborate Halloween-themed dresses scored **11510** votes, slipping behind third place by a hair. owo indeed little ghost, owo indeed.
+CUTE! Ahem. Hot on the last entry's heels, [agataruby's](https://osu.ppy.sh/users/8992555) outrageously adorable piece of Pippi and Mocha in elaborate Halloween-themed dresses scored **11510** votes, slipping behind third place by a hair. owo indeed little ghost, owo indeed.
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/guppy.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20guppy.png)
 
@@ -38,7 +38,7 @@ Standing firm in fifth place overall with **8852** votes, [guppy's](https://osu.
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/Raynel.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Raynel.png)
 
-Simple, clean and cool, [Raynel's](https://osu.ppy.sh/users/6318119) **8864** vote-winning, beautifully concise depiction of Pippi in a witch costume before an All Hallow's moon shows that you don't always need the bells and whistles to win votes - just a solid execution of spectacular design. Amazing stuff.
+Simple, clean and cool, [Raynel's](https://osu.ppy.sh/users/6318119) **8864** vote-winning, beautifully concise artwork of Pippi in a witch costume before an All Hallow's moon shows that you don't always need the bells and whistles to win votes - just a solid execution of spectacular design. Amazing stuff.
 
 [![](https://assets.ppy.sh/media/halloween-2017/banners/Evaine.jpg)](https://assets.ppy.sh/media/halloween-2017/fullsize/osu%21%20Halloween%20Fanart%202017%20-%20Evaine.jpg)
 
