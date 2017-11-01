@@ -201,9 +201,7 @@ This section is made of CSV lines. The first 5 fields are common to every hit ob
 
 To map these coordinates for a standard 640x480 screen, you need to add 64 pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the padding, an object at (0, 0) will be cut on the top left for the screen.
 
-Hit objects whose position is irrelevant, like spinners in osu! or any note in osu!taiko, have the special position (256,192), which is the center of the screen.
-
-TODO: What about osu!mania?
+Hit objects whose position is irrelevant, like spinners in osu! or any note in osu!taiko, have the special position (256,192), which is the center of the screen. For osu!mania, only *x* is relevant.
 
 #### Time
 
@@ -234,16 +232,24 @@ Examples:
 
 *hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is successfully hit.
 
-- Unconfirmed: Bit 0 (1): hitnormal.
-- Bit 1 (2): hitwhistle.
-- Bit 2 (4): hitfinish.
-- Bit 3 (8): hitclap.
+- Unconfirmed: Bit 0 (1): normal.
+- Bit 1 (2): whistle.
+- Bit 2 (4): finish.
+- Bit 3 (8): clap.
 
 Unconfirmed: The special value 0 is the same as 1 (hitnormal).
 
 Unconfirmed: If bit 0 is not set, the normal sound is not played.
 
 Unconfirmed: Multiple sounds will overlap if multiple bits are set.
+
+The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *addition* field.
+
+The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, where:
+
+- *sample set* is normal, soft, or drum.
+- *sound* is normal, whistle, finish, or clap.
+- *index* is the custom index. It is omitted when equal to 0 or 1.
 
 #### Addition
 
@@ -266,7 +272,7 @@ Unconfirmed: The special index 1 doesn't appear in the filename. For example `no
 
 Unconfirmed: The special index 0 means you need to get the sample index from the timing point.
 
-*sampleVolume* (Integer) is the volume of the sample, and ranges from 0-100 (percent).
+*sampleVolume* (Integer) is the volume of the sample, and ranges from 0 to 100 (percent).
 
 *filename* (String) names an audio file in the folder to play instead of sounds from sample sets, relative to the beatmap's directory.
 
@@ -274,11 +280,11 @@ Unconfirmed: A comma in the *filename* may break everything.
 
 ### Hit Circles
 
+A hit circle is a single hit in all osu! game modes.
+
 **Syntax**: `x,y,time,type,hitSound,addition`
 
 **Example**: `164,260,2434,1,0,0:0:0:0:`
-
-A hit circle is a single hit in all osu! game modes.
 
 ### Sliders
 
@@ -361,13 +367,13 @@ Hit sounds play at the end of the spinner.
 
 ### osu!mania Hold Notes
 
+A hold note unique to osu!mania.
+
 **Syntax**: `x,y,time,type,hitSound,endTime:addition`
 
 **Example**: `329,192,16504,128,0,16620:0:0:0:0:`
 
-A hold note unique to osu!mania.
-
-*x* (Integer) determines which column/key a note will fall on. The value does not have to be precise. *y* is ignored.
+*x* (Integer) determines which column a note will fall on. The value does not have to be precise. *y* is ignored.
 
 TODO: Range of *x*?
 
