@@ -46,6 +46,44 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+## Participants
+
+### Pending Rosters
+
+If you signed up for a country listed here, please contact your designated team creator as soon as possible.
+
+**This list does not contain all countries yet!**
+
+| | Country | Team Creator |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | [Lexalia](https://osu.ppy.sh/users/1887616) |
+| ![][flag_AU] | **Australia** | [Bauxe](https://osu.ppy.sh/users/1881685) |
+| ![][flag_AT] | **Austria** | [Akane-Yuki](https://osu.ppy.sh/users/3656589) |
+| ![][flag_BR] | **Brazil** | [fabriciorby](https://osu.ppy.sh/users/209664) |
+| ![][flag_CA] | **Canada** | [Azer](https://osu.ppy.sh/users/2155578) |
+| ![][flag_CL] | **Chile** | [kafaN](https://osu.ppy.sh/users/1489743) |
+| ![][flag_CN] | **China** | [Crystal](https://osu.ppy.sh/users/1646397) |
+| ![][flag_DK] | **Denmark** | [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![][flag_FI] | **Finland** | [Wucki](https://osu.ppy.sh/users/5287410) |
+| ![][flag_FR] | **France** | [Musty](https://osu.ppy.sh/users/251683) |
+| ![][flag_DE] | **Germany** | [Dustice](https://osu.ppy.sh/users/754565) |
+| ![][flag_HK] | **Hong Kong** | [- G I D Z -](https://osu.ppy.sh/users/2286528) |
+| ![][flag_HU] | **Hungary** | [aleho8](https://osu.ppy.sh/users/6127312) |
+| ![][flag_ID] | **Indonesia** | [Reyuza](https://osu.ppy.sh/users/2454767) |
+| ![][flag_IT] | **Italy** | [Koba](https://osu.ppy.sh/users/4448118) |
+| ![][flag_MY] | **Malaysia** | [ClawViper](https://osu.ppy.sh/users/2681361) |
+| ![][flag_NL] | **Netherlands** | [jackylam5](https://osu.ppy.sh/users/1540807) |
+| ![][flag_NO] | **Norway** | [-GN](https://osu.ppy.sh/users/895581) |
+| ![][flag_PH] | **Philippines** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |
+| ![][flag_PL] | **Poland** | [Wilchq](https://osu.ppy.sh/users/2021758) |
+| ![][flag_RU] | **Russian Federation** | [Kert](https://osu.ppy.sh/users/119933) |
+| ![][flag_SG] | **Singapore** | [GSBlank](https://osu.ppy.sh/users/2312106) |
+| ![][flag_KR] | **South Korea** | [Neta](https://osu.ppy.sh/users/832084) |
+| ![][flag_SE] | **Sweden** | [-Kupo-](https://osu.ppy.sh/users/4343103) |
+| ![][flag_TW] | **Taiwan** | [Flask](https://osu.ppy.sh/users/959763) |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
@@ -192,6 +230,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
@@ -201,6 +240,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
