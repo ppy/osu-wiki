@@ -227,7 +227,7 @@ and specifies when the hit begins.
 - Bit 3 (8): spinner.
 - Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo
   colors to skip. Note that 0 means 1 color is skipped anyway by the new combo
-  field. A skip value of 1 thefore skips 2 colors.
+  field. A skip value of 1 therefore skips 2 colors.
 - Bit 7 (128) is for an osu!mania hold note.
 
 Circles, sliders, spinners, and hold notes can be OR'd with new combos and the
@@ -292,23 +292,21 @@ from sample sets, relative to the beatmap's directory.
 
 Unconfirmed: A comma in the *filename* may break everything.
 
-### Objects
+### Hit Circles
 
-**Hit Circle Syntax:**
+**Syntax**: `x,y,time,type,hitSound,addition`
 
-`x,y,time,type,hitSound,addition`
-
-`164,260,2434,1,0,0:0:0:0:`
+**Example**: `164,260,2434,1,0,0:0:0:0:`
 
 A hit circle is a single hit in all osu! game modes.
 
-**Slider Syntax:**
+### Sliders
 
 A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and does not appear in osu!mania.
 
-`x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
+**Syntax**: `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
 
-`424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+**Example**: `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
 *x*, *y*, *time*, and *type* behave the same as described in Hit Circle Syntax.
 
@@ -328,28 +326,32 @@ A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and
 
 *addition* defines the samplesets to use on the slider body. It functions like *addition* for a circle.
 
-**Spinner Syntax:**
+### Spinners
 
-`x,y,time,type,hitSound,endTime,addition`
+**Syntax**: `x,y,time,type,hitSound,endTime,addition`
 
-`256,192,730,12,8,3983`
+**Example**: `256,192,730,12,8,3983`
 
 A spinner also creates bananas in Catch the Beat, a spinner in Taiko, and does not appear in osu!mania.
 
-*type*, *time*, *hitSound*, and *addition* behave the same as described in Hit Circle Syntax.
+*endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song.
 
-*endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song. NOTE: Hit sounds play at the end of the spinner.
+Hit sounds play at the end of the spinner.
 
-**osu!mania Hold Note Syntax**
+### osu!mania Hold Notes
 
-`x,y,time,type,hitSound,endTime:addition`
+**Syntax**: `x,y,time,type,hitSound,endTime:addition`
 
-`329,192,16504,128,0,16620:0:0:0:0:`
+**Example**: `329,192,16504,128,0,16620:0:0:0:0:`
 
 A hold note unique to osu!mania.
 
-**time**, **type**, **hitSound**, and **addition** behave the same as described in Hit Circle Syntax.
+*x* (Integer) determines which column/key a note will fall on. The value does not have to be precise. *y* is ignored.
 
-**x (Integer)** determines which column/key a note will fall on. The value does not have to be precise. **y (Integer)** is ignored.
+TODO: Range of *x*?
 
-**endTime (Integer)** is the time when the key should be released.
+TODO: Define *x* more precisely.
+
+TODO: Default value for *y*?
+
+*endTime* (Integer) is the time when the key should be released, in milliseconds from the beginning of the song.
