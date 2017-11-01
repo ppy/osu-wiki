@@ -11,7 +11,7 @@ Storyboards are often very difficult to make and require considerable time and e
 Full Storyboards
 ----------------
 
-With the advent of the Storyboard Editor to create simple graphical effects in Beatmaps, the full list of [Ranked](/wiki/Beatmaps) Beatmaps with storyboards [is rather long](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Therefore, this page only lists those Beatmaps who have “full” storyboards. If you want more, go to the [full maps list](/wiki/Storyboards/Maps).
+With the advent of the Storyboard Editor to create simple graphical effects in Beatmaps, the full list of Ranked Beatmaps with storyboards [is rather long](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Therefore, this page only lists those Beatmaps who have “full” storyboards. If you want more, go to the [full maps list](/wiki/Storyboards/Maps).
 
 ### Storyboards
 
