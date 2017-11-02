@@ -19,7 +19,7 @@ The Skinning Tutorial articles are to serve as a general how to on skinning.
 
 ### What format should the images be in?
 
-Images should **always** be in the `.png` format. `menu-background.jpg` is the expection, this one can use `.jpg`.
+Images **must** use the `.png` format. However, the `menu-background.jpg` element can use either `.jpg` or `.png`.
 
 In addition to using the `.png` format, you should:
 
@@ -33,7 +33,7 @@ Overlays will *overlay* an element's image **and will not be colored or tinted**
 
 ### Resolutions
 
-Because _osu!_ can be played at different resolutions, some skinning elements may overlap or be farther apart than what is expected. Meaning that not elements will scale themselves to fit the game window resolution.
+Since _osu!_ can be played using different window resolutions, some skinning elements may overlap or be placed farther apart than what would be expected otherwise. This means that not elements will scale themselves to fit the game window resolution.
 
 It is best to keep the following resolutions in mind while skinning.
 
@@ -47,7 +47,7 @@ Images will be adjusted by the game itself to fit resolutions derivating from th
 
 #### HD Sprites
 
-HD sprites are used in place of the normal sprites on higher resolutions, when present. Compared to normal sprites, HD sprites look much sharper and cleaner on these larger resolutions. They get scaled by the game itself automatically to fit the resolution used. Resolutions supporting HD sprites begin at a **minimum of 800 pixel in height**. HD sprites are tagged with `@2x` at the end of their names. For example: `cursor@2x.png`.
+HD sprites are used in place of the normal sprites on higher resolutions, when present. Compared to normal sprites, HD sprites look much sharper and cleaner on these larger resolutions. They get scaled by the game itself automatically to fit the resolution used. Resolutions supporting HD sprites begin at a **minimum of 800 pixels in height**. HD sprites are tagged with `@2x` at the end of their names. For example: `cursor@2x.png`.
 
 HD sprites have doubled dimension sizes. For example: the normal `hitcircle.png` sprite has the dimension sizes of **128x128 pixels.** Where its HD sprite, `hitcircle@2x.png`, has the dimension sizes of **256x256 pixels.**
 
@@ -64,19 +64,19 @@ If you have gone through the entire osu!skinning forums and you are certain that
 
 Nonetheless, please, **never** request for a skin anywhere in the osu!forums. Failing to follow this rule will your thread be moved to the wastelands.
 
-### Where can I get this skin that a YouTuber/streamer played with?
+### Where can I get this skin that I saw someone play with?
 
-First off, don't go asking this in the osu!forums, your thread will most likely be thrown into the wastelands. Secondly, your best bet is to simply ask that person for the skin they're using.
+First off, don't ask this in the osu!forums. Otherwise, your thread will most likely be thrown into the wastelands. Secondly, your better off asking that person for the skin they're using.
 
 ### I want to make a skin! But what do I need?
 
-Well nice choice, but remember, skinning can be little hard for a newbie. In the beginning of making any skin, you should have:
+Nice choice, but remember, skinning can be little hard for newbies. At the beginning of making a skin, you should have:
 
 - Beginner skills with any photo editing program (that supports transparency) like Photoshop, GIMP, Paint.NET, etc.
 - Patience (yes, skinning does take some time)
-- An idea! (yes, this is **very** important. Try be clever when making your skin!)
+- An idea! (yes, this is **very** important. Try to be clever when making your skin!)
 
-### What the "new" and "old" style skinning about?
+### What is the "new" and "old" style skinning about?
 
 *This question may also be known as, "What's skin version 1.0 and 2.0+?".*
 
@@ -110,7 +110,7 @@ This is an important rule of skinning. If you got permission, or user is no long
 
 ### What about a skin mashup?
 
-You _could_ do that, but&mdash;even if you do get permission&mdash;please don't share those in the osu! skinning subforums. Please **keep those to yourself** or post it on your profile page. This will help skinners make their original skins stand out than the remixed/mashup-ed skins.
+You _could_ do that, but (even if you do get permission) please don't share those in the osu! skinning subforums. Please **keep those to yourself** and/or post it on your profile page. This will help skinners make their original skins stand out than the remixed/mashup-ed skins.
 
 ### How do I animate an element?
 
@@ -118,8 +118,7 @@ Know that osu! allows you to animate some elements, but not all of them. To crea
 
 Most of the animatable skinning elements do not limit you to the amount of frames. However, know that the animation rate could play the animation too slowly before the user would be able to see them. To find the balance between the animation rate and the frames, you'll need to do trail-and-error (see next section below for more details).
 
-Lastly, while most do, not all skinning elements use the hyphen then number system for animating a skinning element.
-For example:
+Lastly, while most do, not all skinning elements use the hyphen then number system for animating a skinning element. For example:
 
 - `sliderb` has its frames named: `sliderb0`, `sliderb1`, `sliderb2`, etc.
 - `pippidonclear` has its frames named: `pippidonclear0`, `pippidonclear1`, `pippidonclear2`, etc.
@@ -128,11 +127,11 @@ For example:
 
 If your animation is too fast/slow, you have two ways to fix it
 
-1. if it is playing too fast, try to make them longer by doubling frames (or half, if too slow)
+1. If it is playing too fast, try to make them longer by doubling frames (or halve them, if it is too slow)
    - e.g. frame 0 and 1 are the same picture (so picture will last 2 frames), frame 2 and 3 are second picture, etc.
-   - this will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow
-2. use the `AnimationFramerate` command in the skin.ini
-   - this command affects all animations expect for a few, like pippidon or the hitcircleoverlay
+   - This will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow.
+2. Use the `AnimationFramerate` command in the `skin.ini`.
+   - This command affects all animations expect for a few, like `pippidon` or the `hitcircleoverlay`.
 
 ### What are "normal", "simplified", and "PRO" skins?
 
@@ -165,7 +164,7 @@ The list includes but isn't limited to:
 - osu!mania key, note, and stage behaviors
 - osu!mania image names and paths
 
-### How do I share?
+### How do I share my skin?
 
 To make sharing your skin easy, you should export your skin as an `.osk` file. With this file, you can upload it then post about it in the skinning subforums.
 
@@ -203,16 +202,16 @@ On the other hand, if you release it outside the osu!community walls, nobody wil
 
 Of course, this is the _optional_ last step to skinning!
 
-1. Delete all non-skinned parts
-   - there is no need to include them because this will make your folder larger than it should be
-   - and that osu! will have to load more images than it would have to if it used its defaults anyways
-2. Next, create the `.osk` file (follow steps from above) and upload it somewhere
-   - Most people prefer a direct download, so you can use upppy! or puush
-   - Mediafire is fine too (but of course, you aren't limited to the ones listed)
+1. Delete all non-skinned parts.
+   - There is no need to include them because this will make your folder larger than it should be.
+   - Tnd that osu! will have to load more images than it would have to if it used its defaults anyways.
+2. Next, create the `.osk` file (follow steps from above) and upload it somewhere.
+   - Most people prefer a direct download, so you can use upppy! or puush.
+   - Mediafire is fine too (but of course, you aren't limited to this either).
 
 ### Skinning thread template
 
-If you don't know how to make friendly looking thread you can use this template by Dragvon (modified).
+If you don't know how to make friendly looking thread you can use this template.
 
 ```
 [General]
@@ -236,6 +235,4 @@ If you don't know how to make friendly looking thread you can use this template 
 [b]Requests[/b]: Since no one is perfect, you can use this to request help to your skin :)
 ```
 
-It is really important to include various screenshots of gameplay and the song selection, etc..
-A lot of people will want to see your skin looks like before carelessly downloading it!
-You can use upppy or puush to upload them.
+It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or puush to upload them.
