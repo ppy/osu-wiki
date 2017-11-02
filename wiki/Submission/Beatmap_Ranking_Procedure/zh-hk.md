@@ -1,4 +1,4 @@
-Beatmap Ranking Procedure (粵語)
+Beatmap Ranking Procedure
 =================================
 
 譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[MAT和](/wiki/Glossary)[BAT都可以給泡](/wiki/People/Beatmap_Nomination_Group)，然後才能rank，而rank只有[BAT可以](/wiki/People/Beatmap_Nomination_Group)。

@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (Português)
+Quality Assurance Team
 =====================================
 
 **Quality Assurance Team**, também conhecido como QAT, são os moderadores de qualidade que julgam os mapas recém-qualificados, procurando por boa jogabilidade e qualidade, retirando seu status de "Qualified" quando apropriado. Eles formam os pilares de controle básico e reforçam a qualidade esperada de todos os mapas que entrarem no processo de ranking.

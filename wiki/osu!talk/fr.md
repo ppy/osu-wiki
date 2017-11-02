@@ -1,4 +1,4 @@
-osu!talk (Français)
+osu!talk
 ===================
 
 ![osu!talk logo](osu!talk.jpg "osu!talk logo")

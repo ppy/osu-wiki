@@ -1,4 +1,4 @@
-# Twitter (Português (Brasil))
+# Twitter
 
 ## Nós twittamos também!
 
