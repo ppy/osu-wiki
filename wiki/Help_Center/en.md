@@ -145,7 +145,7 @@ If you have an active supporter tag, you can see all maps you have submitted a s
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
-### I do not receive any emails from osu!/I've forgotten my email address!
+### I didn't receive any emails from osu!/I forgot my email address!
 
 **There might be an issue with your account's current email address.**
 
