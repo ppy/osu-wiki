@@ -201,9 +201,9 @@ This section is made of CSV lines. The first 5 fields are common to every hit ob
 
 To map these coordinates for a standard 640x480 screen, you need to add 64 pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the padding, an object at (0, 0) will be cut on the top left for the screen.
 
-For some hit objects, like spinners or notes in osu!taiko, the position is completely irrelevant.
+For some hit objects, like spinners, the position is completely irrelevant.
 
-For osu!mania, only *x* is relevant.
+For osu!mania, only *x* is relevant. See the osu!mania hold note section below.
 
 #### Time
 
@@ -369,12 +369,14 @@ A hold note unique to osu!mania.
 
 **Example**: `329,192,16504,128,0,16620:0:0:0:0:`
 
-*x* (Integer) determines which column a note will fall on. The value does not have to be precise. *y* is ignored.
+*x* (Integer) determines which column a note will fall on. *y* is ignored.
 
-TODO: Range of *x*?
+The number of column is defined by the *CircleSize* property in the Difficulty section. Columns are indexed from 0.
 
-TODO: Define *x* more precisely.
+The column for a note is computed with `x / column width` with `column width = 512 / number of columns`. The resulting value is floored, then clamped between 0 and (#column - 1) for safety.
 
-TODO: Default value for *y*?
+To avoid rounding errors, *x* is best picked in the middle of the range for its column. For example, in 4K mode, the first column ranges from 0 to 128, so the safest value for x is 64.
+
+For the 7K + 1 mode, the column index is `1 + x / (512 / 7)`, leaving the column 0 for the specials.
 
 *endTime* (Integer) is the time when the key should be released, in milliseconds from the beginning of the song.
