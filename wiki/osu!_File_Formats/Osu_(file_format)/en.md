@@ -191,9 +191,9 @@ Hit Objects
 
 ### Common structure
 
-This section is made of CSV lines. The first 5 fields are common to every hit objects, and an optional last *addition* fields.
+This section is made of CSV lines. The first 5 fields are common to every hit objects, and an optional last *extras* fields.
 
-**Syntax**: `x,y,time,type,hitSound...,addition`
+**Syntax**: `x,y,time,type,hitSound...,extras`
 
 #### Position
 
@@ -245,7 +245,7 @@ Unconfirmed: If bit 0 is not set, the normal sound is not played.
 
 Multiple sounds will overlap if multiple bits are set.
 
-The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *addition* field.
+The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *extras* field.
 
 The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, where:
 
@@ -253,13 +253,13 @@ The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, wher
 - *sound* is normal, whistle, finish, or clap.
 - *index* is the custom index. It is omitted when equal to 0 or 1.
 
-#### Addition
+#### Extras
 
-The *addition* field is optional and define extra parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
+The *extras* field is optional and define additional parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
 
-**Syntax**: `sampleSet:additionsSet:customIndex:sampleVolume:filename`
+**Syntax**: `sampleSet:additionSet:customIndex:sampleVolume:filename`
 
-*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additionsSet* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
+*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additionSet* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
 
 - 0: Auto. In that case, you need to use the sample set information from the timing point.
 - 1: Normal.
@@ -282,7 +282,7 @@ Unconfirmed: A comma in the *filename* may break everything.
 
 A hit circle is a single hit in all osu! game modes.
 
-**Syntax**: `x,y,time,type,hitSound,addition`
+**Syntax**: `x,y,time,type,hitSound,extras`
 
 **Example**: `164,260,2434,1,0,0:0:0:0:`
 
@@ -290,7 +290,7 @@ A hit circle is a single hit in all osu! game modes.
 
 A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and does not appear in osu!mania.
 
-**Syntax**: `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
+**Syntax**: `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,extras`
 
 **Example**: `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
@@ -341,15 +341,13 @@ The duration you will get is in the same unit as *BeatDuration*, usually millise
 
 *edgeHitsounds (hitSound|...)* is a `|`-separated list of *hitSounds* to apply to the circles of the slider. The values are the same as those for regular hit objects. The list must contain exactly *repeat + 1* values, where the first value is the hit sound to play when the slider is first clicked, and the last one when the slider is released.
 
-*edgeAdditions (sampleSet:additions|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additions* are the same as in a hit circle's *addition* field.
+*edgeAdditions (sampleSet:additionSet|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additionSet* are the same as for hit circles' *extras* fields.
 
-The final *addition* defines the sample set to use on the slider body. It functions like *addition* for a circle.
-
-Unconfirmed: Both *edgeAdditions* and *addition* look deprecated.
+The final *extras* defines the sample to use on the slider body. It functions like *extras* for a circle.
 
 ### Spinners
 
-**Syntax**: `x,y,time,type,hitSound,endTime,addition`
+**Syntax**: `x,y,time,type,hitSound,endTime,extras`
 
 **Example**: `256,192,730,12,8,3983`
 
@@ -363,7 +361,7 @@ Hit sounds play at the end of the spinner.
 
 A hold note unique to osu!mania.
 
-**Syntax**: `x,y,time,type,hitSound,endTime:addition`
+**Syntax**: `x,y,time,type,hitSound,endTime:extras`
 
 **Example**: `329,192,16504,128,0,16620:0:0:0:0:`
 
