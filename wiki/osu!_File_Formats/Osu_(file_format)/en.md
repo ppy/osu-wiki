@@ -247,6 +247,8 @@ Multiple sounds will overlap if multiple bits are set.
 
 The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *extras* field.
 
+The normal hit sound and additions may belong to different sample sets, referred to as *sampleSet* and *additionSet*.
+
 The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, where:
 
 - *sample set* is normal, soft, or drum.
@@ -261,22 +263,20 @@ The *extras* field is optional and define additional parameters related to the h
 
 *sampleSet* (Integer) changes the sample set of the normal hit sound, and *additionSet* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
 
-- 0: Auto. In that case, you need to use the sample set information from the timing point.
+- 0: Auto. See below.
 - 1: Normal.
 - 2: Soft.
 - 3: Drum.
 
-*customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`.
+When *sampleSet* is 0, its value is inherited from the timing point.
 
-The special index 1 doesn't appear in the filename. For example `normal-hitfinish.wav`.
+Unconfirmed: When *additionSet* is 0, it takes the value of *sampleSet*.
 
-The special index 0 means you need to get the sample index from the timing point.
+*customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`. The special index 1 doesn't appear in the filename, for example `normal-hitfinish.wav`. The special index 0 means it is inherited from the timing point.
 
 *sampleVolume* (Integer) is the volume of the sample, and ranges from 0 to 100 (percent).
 
 *filename* (String) names an audio file in the folder to play instead of sounds from sample sets, relative to the beatmap's directory.
-
-Unconfirmed: A comma in the *filename* may break everything.
 
 ### Hit Circles
 
@@ -342,6 +342,8 @@ The duration you will get is in the same unit as *BeatDuration*, usually millise
 *edgeHitsounds (hitSound|...)* is a `|`-separated list of *hitSounds* to apply to the circles of the slider. The values are the same as those for regular hit objects. The list must contain exactly *repeat + 1* values, where the first value is the hit sound to play when the slider is first clicked, and the last one when the slider is released.
 
 *edgeAdditions (sampleSet:additionSet|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additionSet* are the same as for hit circles' *extras* fields.
+
+Unconfirmed: When *sampleSet* is 0, it inherits from the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from its paired *sampleSet*, the *additionSet* in *extras*, the *sampleSet* in *extras, then the timing point.
 
 The final *extras* defines the sample to use on the slider body. It functions like *extras* for a circle.
 
