@@ -145,6 +145,20 @@ If you have an active supporter tag, you can see all maps you have submitted a s
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
+### I do not receive any emails from osu!/I've forgotten my email address!
+
+**There might be an issue with your account's current email address.**
+
+If you remember your account's attached email address, or think you do, try visiting the [email recovery](http://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+
+If you have lost your account's password and are not receiving any password recovery mails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you logged in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+
+Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+- free.fr
+- laposte.net
+- sbcglobal.net
+- t-online.de
+
 ----------------------------------------------------------------------------
 
 ## Client
