@@ -345,7 +345,7 @@ The duration you will get is in the same unit as *BeatDuration*, usually millise
 
 *edgeAdditions (sampleSet:additionSet|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additionSet* are the same as for hit circles' *extras* fields.
 
-Unconfirmed: When *sampleSet* is 0, it inherits from the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from its paired *sampleSet*, the *additionSet* in *extras*, the *sampleSet* in *extras, then the timing point.
+Unconfirmed: When *sampleSet* is 0, it inherits from the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from its paired *sampleSet*, the *additionSet* in *extras*, the *sampleSet* in *extras*, then the timing point.
 
 The final *extras* defines the sample to use on the slider body. It functions like *extras* for a circle.
 
