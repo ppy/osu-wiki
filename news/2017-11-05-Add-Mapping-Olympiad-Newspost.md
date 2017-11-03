@@ -3,39 +3,44 @@ layout: post
 title: "Official Mapping Contests: osu! Mapping Olympiad"
 date: 2017-11-05
 --- 
+The osu! Mapping Olympiad marks the return of regularly scheduled beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in force! Let's introduce the first contest: Pick one of three songs that suits your fancy.
 
 ![](filepath) BANNER IN PROGRESS
 
-After a long hiatus, Chaos, Voli and I are happy to announce the revival of official beatmapping contests: Welcome to the _osu! Mapping Olympiad!_
+After a long hiatus, [Chaos](https://osu.ppy.sh/users/2628870), [Voli](https://osu.ppy.sh/users/2522275) and [I](https://osu.ppy.sh/users/1287964) are happy to announce the revival of official beatmapping contests: Welcome to the _osu! Mapping Olympiad!_
 
-Let me elaborate on the concept for the osu! Mapping Olympiad. To ensure that there is a healthy and consistent flow of official contests, 
-we have worked on a concept which involved all types of modes - three contests per mode will happen annually in a specific order. 
+The osu! Mapping Olympiad ensures a mapping contest across all game modes on a regular schedule. It won't be monthly, but it'll be close to that, run by a small team of community members that are just as pumped for more songs to compete on as you are!
 To keep things interesting, we have also worked on different kind of contests - so stay tuned in the upcoming months!
 
 ### Songs (STILL NEED HELP WITH THE SONG PREVIEWS)
 
 To start off, we are launching this contest with not one, but **three** songs for you to tackle! Showcasing a variety of our Featured Artists, have yourself a listen to the tracks you’ll be taking on:
 
-- Kuba Oms - Beautiful Uncertainty (Redux)
-- OISHII - Honey Snowflakes
-- cySmix - Escapism
+From one of the most well known artists in osu! comes another upbeat pop track infused with electronic elements that give a dynamic twist: Kuba Oms - Beautiful Uncertainty (Redux)!
+<audio controls> <source src="https://assets.ppy.sh/artists/13/previews/236.mp3" type="audio/mpeg"> </audio>
+
+Featuring one of osu!'s latest Featured Artists, this is a fast and driving retro video game inspired track: OISHII - Honey Snowflakes!
+<audio controls> <source src="https://assets.ppy.sh/artists/17/previews/345.mp3" type="audio/mpeg"> </audio>
+
+And last but certainly not least, this laid back track features playful melodies that ride gently over a trance and house inspired groove: cYsmix - Escapism!
+<audio controls> <source src="https://assets.ppy.sh/artists/2/previews/120.mp3" type="audio/mpeg"> </audio>
 
 There’s going to be something for everyone’s taste - funky rhythms by Kuba Oms, fast-paced goodness by OISHII and some chill beats by cYsmix!
 
 ### Ruleset
 
-- This contest is for the **osu!** (standard) mode only.
-- Each entry should follow the Ranking Criteria.
+- This contest is for the **osu!** mode only.
+- Each entry must follow the Ranking Criteria.
 - Beatmap submissions may contain files up to 15 MB.
 - Storyboarding will not be considered in the judging.
 - You may submit **one** difficulty for **one** song. Multiple submissions for multiple songs will not be accepted.
 - You may collaborate if you like, but only the submitter of each entry will receive credit for judging and prizes.
-- Maps submitted to the contest must not be uploaded to the BSS until the contest has concluded and the winners have been announced.
+- Maps submitted to the contest must not be uploaded with the beatmap submission system (BSS) until the contest has concluded and the winners have been announced.
 - **Send your finished beatmap as .osu-file to XXX before the deadline expired. Any submissions received after the deadline expired will not be accepted.**
 
 ### Judging Criteria
 
-We have also slightly reworked the judging criteria to provide a more reasonable judging base. Down below you can see what your map will be judged for:
+All entries will be judged by the following criteria:
 
 - Musical Relevance (10P) - How well does the entry follow the music with its patterns, its structure and overall concept?
 - Creativity (10P) - How unique and/or innovative is the entry in its use of concepts and overall design?
