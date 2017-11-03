@@ -255,6 +255,8 @@ The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, wher
 - *sound* is normal, whistle, finish, or clap.
 - *index* is the custom index. It is omitted when equal to 0 or 1.
 
+Unconfirmed: When the sample file cannot be found, it falls back on the corresponding sample without the sample index.
+
 #### Extras
 
 The *extras* field is optional and define additional parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
