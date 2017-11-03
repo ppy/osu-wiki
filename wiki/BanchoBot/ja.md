@@ -1,5 +1,4 @@
 <!-- BanchoBot 情報 -->
-
 # BanchoBot
 
 ![BanchoBot プレイヤーカード](BanchoBot.jpg "BanchoBot プレイヤーカード")
