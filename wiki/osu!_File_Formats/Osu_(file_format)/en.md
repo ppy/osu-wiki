@@ -201,7 +201,9 @@ This section is made of CSV lines. The first 5 fields are common to every hit ob
 
 To map these coordinates for a standard 640x480 screen, you need to add 64 pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the padding, an object at (0, 0) will be cut on the top left for the screen.
 
-Hit objects whose position is irrelevant, like spinners in osu! or any note in osu!taiko, have the special position (256,192), which is the center of the screen. For osu!mania, only *x* is relevant.
+For some hit objects, like spinners or notes in osu!taiko, the position is completely irrelevant.
+
+For osu!mania, only *x* is relevant.
 
 #### Time
 
@@ -215,18 +217,18 @@ Hit objects whose position is irrelevant, like spinners in osu! or any note in o
 - Bit 1 (2): slider.
 - Bit 2 (4): new combo.
 - Bit 3 (8): spinner.
-- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip. Note that 0 means 1 color is skipped anyway by the new combo field. A skip value of 1 therefore skips 2 colors.
+- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip.
 - Bit 7 (128) is for an osu!mania hold note.
 
 Circles, sliders, spinners, and hold notes can be OR'd with new combos and the combo skip value, but not with each other.
 
-Unconfirmed: a non-zero combo skip value is ignored when the new combo bit is not set.
+The new combo flag always advances to the next combo. The skip value is applied on top of that, so that a skip of 1 means a 2-combo advance. The combo skip value is ignored when the new combo bit is not set.
 
 Examples:
 
 - `1`: circle.
 - `5 = 1 + 4`: circle starting a new combo.
-- `22 = 16 + 4 + 2`: slider starting a new combo, skipping 2 colors.
+- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colors.
 
 #### Hit sounds
 
@@ -241,7 +243,7 @@ Unconfirmed: The special value 0 is the same as 1 (hitnormal).
 
 Unconfirmed: If bit 0 is not set, the normal sound is not played.
 
-Unconfirmed: Multiple sounds will overlap if multiple bits are set.
+Multiple sounds will overlap if multiple bits are set.
 
 The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *addition* field.
 
@@ -255,11 +257,9 @@ The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, wher
 
 The *addition* field is optional and define extra parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
 
-Unconfirmed: This field is deprecated. You may omit it entirely, or write `0:0:0:0:` instead.
+**Syntax**: `sampleSet:additionsSet:customIndex:sampleVolume:filename`
 
-**Syntax**: `sampleSet:additions:customIndex:sampleVolume:filename`
-
-*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additions* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
+*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additionsSet* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
 
 - 0: Auto. In that case, you need to use the sample set information from the timing point.
 - 1: Normal.
@@ -268,9 +268,9 @@ Unconfirmed: This field is deprecated. You may omit it entirely, or write `0:0:0
 
 *customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`.
 
-Unconfirmed: The special index 1 doesn't appear in the filename. For example `normal-hitfinish.wav`.
+The special index 1 doesn't appear in the filename. For example `normal-hitfinish.wav`.
 
-Unconfirmed: The special index 0 means you need to get the sample index from the timing point.
+The special index 0 means you need to get the sample index from the timing point.
 
 *sampleVolume* (Integer) is the volume of the sample, and ranges from 0 to 100 (percent).
 
@@ -310,25 +310,19 @@ A **Bézier** slider is made of one or many Bézier curves, sharing common ends.
 
 To identify the separation between two curves, the intersection point is repeated. Consider the sequence ABCDDEFFG. You would get the 3 Bézier curves: ABCD (cubic), DEF (quadratic) , FG (linear).
 
-Note that this representation is ambiguous, because ABBBC could actually represent ABBBC, AB+BBC, AB+B+BC, or AB+BBC.
-
 Example: `476,340,6419,2,0,B|437:336|422:309|422:309|384:309|359:337|359:337|328:308|300:304|300:304|272:352|237:383|176:356|159:287|224:256,1,420,6|2,0:0|0:0,0:0:0:0:`
 
 The first Bézier curve in the segment is quadratic with the following points: (476, 340), (437, 336), (422, 309).
-
-Note that the multiple curves in the same Bézier slider need not have the same length, so you *will* need to approximate their lengths, otherwise the slider ball would speed up or slow down brutally in the middle of a slider.
 
 #### Repeat
 
 *repeat* (Integer) is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
 
-#### Duration
+#### Length and duration
 
-*pixelLength (Float)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
+*pixelLength* (Float) is the length of the slider along the path of the described curve. It is specified in osu!pixels, i.e. relative to the 512×384 virtual screen.
 
-TODO: What's the unit? Is it really pixels?
-
-TODO: What happens if a Bézier or perfect circle slider's *pixelLength* is too big? Would you still get a straight line at the end?
+The *pixelLength* is not the length of the curve path described above, but the actual length the slider should have. If the *pixelLength* is smaller than the path length, the path must be shrinked. Conversely, if the *pixelLength* is bigger than the path length, the path must be naturally extended: a longer line for linear sliders, a longer arc for perfect circle curves, and a final linear segment for Bézier paths.
 
 The *pixelLength* is notably used to compute the duration of the slider. To get the slider duration, use the following formula:
 
