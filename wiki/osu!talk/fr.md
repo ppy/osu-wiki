@@ -1,5 +1,4 @@
 # osu!talk
-==========
 
 ![logo d'osu!talk](osu!talk.jpg "logo d'osu!talk")
 
