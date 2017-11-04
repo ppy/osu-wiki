@@ -41,9 +41,9 @@ osu!mania World Cup
 
 | Name                                       | vom        | bis zum    | Modus | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------|------------|------------|-------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [osu!mania World Cup 2014](/wiki/Tournaments/OWC/2014) | 01.07.2014 | 14.09.2014 | 7K    | ![][flag_KR] Südkorea                  | ![][flag_TH] Thailand                    | ![][flag_MY] Malaysia                    |
-| [osu!mania World Cup 2014](/wiki/Tournaments/OWC/2014) | 01.07.2014 | 14.09.2014 | 4K    | ![][flag_KR] Südkorea                  | ![][flag_PH] Philippinen                 | ![][flag_MY] Malaysia                    |
-| [osu!mania World Cup 2015](/wiki/Tournaments/OWC/2015) | 13.07.2015 | 27.09.2015 | 4K    | ![][flag_US] USA                       | ![][flag_JP] Japan                       | ![][flag_GB] Großbritannien              |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 01.07.2014 | 14.09.2014 | 7K    | ![][flag_KR] Südkorea                  | ![][flag_TH] Thailand                    | ![][flag_MY] Malaysia                    |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 01.07.2014 | 14.09.2014 | 4K    | ![][flag_KR] Südkorea                  | ![][flag_PH] Philippinen                 | ![][flag_MY] Malaysia                    |
+| [osu!mania World Cup 2015](/wiki/Tournaments/MWC/2015) | 13.07.2015 | 27.09.2015 | 4K    | ![][flag_US] USA                       | ![][flag_JP] Japan                       | ![][flag_GB] Großbritannien              |
 | osu!mania World Cup 2015                   |            |            | 7K    |                                                    |                                                      |                                                      |
 
 Siehe auch

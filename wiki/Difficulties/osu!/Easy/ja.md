@@ -1,4 +1,4 @@
-Easy (Difficulty) (日本語)
+Easy (Difficulty)
 ==============================
 
 Easy [difficulties](/wiki/Beatmap_Editor/Song_Setup) are easy to make once you get the hang of it. First off, start with the following recommended difficulty settings:

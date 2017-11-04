@@ -1,4 +1,4 @@
-Kiai Time (Français)
+Kiai Time
 =====================
 
 ![Etoiles jaillissant des côtés de l'écran pour montrer que le Kiai Time a commencé.](img/Kiai_Time_test.jpg "Etoiles jaillissant des côtés de l'écran pour montrer que le Kiai Time a commencé.")

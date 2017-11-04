@@ -42,28 +42,11 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 bilibili: [aiyulu](http://live.bilibili.com/10183)(Primary), [Ookura Asahi](http://live.bilibili.com/272810)(Secondary), [Rasis](http://live.bilibili.com/5333)(Back up).   
 Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
-## Match schedule
+--------------------------------------------------
 
-### Finals - week 1
+![CMT4K2017 podium](podium.png)
 
-Saturday, 29. July 2017
-
-| Match Time (UTC+8) | Team A | | | Team B | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
-| 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
-| 21:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
-
-Sunday, 30. July 2017
-
-* Winners of match AB and AC proceed to match AD.
-
-| Match Time (UTC+8) | Team A | | | Team B | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][CN] | [Crz]Riri | **AD** |
-| 16:00 | - Choma - | ![][TW] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][TW] | - Choma - | **AD** |
+--------------------------------------------------
 
 ## Mappools
 
@@ -206,6 +189,22 @@ TB:
 
 
 ## Match Results
+
+### Finals - week 2
+
+| Date | Team A | | Score | | Team B | Notes |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 5. Augest | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | WBD |
+| 6. Augest | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | WBD |
+
+### Finals - week 1
+
+| Date | Team A | | Score | | Team B | Notes |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 29. July | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [record](https://osu.ppy.sh/community/matches/34872032) |
+| | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | WBD |
+| | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34873568) |
+| 30. July | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34893510) |
 
 ### Semifinals
 

@@ -113,6 +113,13 @@ If a player has not logged in for at least 6 months and has no plays, their user
 
 For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
+### Is it possible to change my name back or revert to my old username?
+
+**Yes, but under certain circumstances.**
+
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+
+We only grant this one time per account, so please consider carefully before requesting!
 
 ### Can I play on a computer that another osu! user has used before?
 
@@ -129,6 +136,14 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 If this happens to you, simply wait for a while and try to log in a little later. 
 
 A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
+
+### Can I get a list of all maps I've played or downloaded?
+
+**You can see all maps you've played on the website.**
+
+If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
+
+Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
 ----------------------------------------------------------------------------
 
@@ -846,7 +861,7 @@ Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assist
 
 Despite how complex this may sound, it's actually very easy to fix.
 
-First off, [download the package containing the osu!go default files](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) and save it somewhere on your computer.
+First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
 
 #### Formatting the osu!go under Windows
 
@@ -876,7 +891,7 @@ Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/
 
 **You're almost done!**
 
-Unzip the archive we asked you to download earlier (goodies.zip) into the _osu!go_ drive and you're done!
+Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
 
 ##### None of this worked!
 

@@ -1,7 +1,9 @@
 # skin.ini
 
-The `skin.ini` is an initialization file format that is found in almost every skin folder.
+The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how _osu!_ will display certain skin elements.
+
+**Caution:** `skin.ini` commands are case sensitive, make sure you follow the proper spelling and are using the correct capitalisation!
 
 ## Versions
 
@@ -107,7 +109,8 @@ See this [blank](Blank) for a blank copy of the `skin.ini` file.
 
 *tl;dr use `//`*
 
-To add comments (notes for people to read or code that osu! will ignore), use `//`... just like the example below
+To add comments (notes for people to read or code that osu! will ignore), use `//`.
+For example:
 
 ```
 // Like in .osu and .osb files, single-line comments are OK, like this one!
@@ -123,7 +126,7 @@ When skinning, osu! is setup to only recognize a `1` (one) as a `true` while a `
 Here is a classic example:
 
 | `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
-|----------------------------|----------------------------|
+|:--------------------------:|:--------------------------:|
 | ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
 
 Note that Reisen, the sliderball, does **not** flip when `0` is used.
@@ -135,21 +138,21 @@ The tables below may list either a *number*, an *integer* or a *positive integer
 
 When viewing these tables:
 
--   *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
-
--   *integer* means WHOLE numbers only (e.g. `-13`, `-632`, `135` , `9`).
-    -   *positive integer* means POSTIVE WHOLE numbers only (e.g. `376`, `22`, or `5`).
-
--   *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
+- *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
+- *integer* means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
+  - *positive integer* means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
+- *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
 
 ### RGB and RGB(a)
 
-A few commands may ask for a colour in the *RGB* or *RGB(a)* format.
+A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
 
--   For RGB, the format looks like this `R, G, B` where `R` is red, `G` is green, and `B` is blue.
-    -   Most commands will only accept *RGB*, without the alpha. If you specify an alpha value here, osu! will ignore it.
--   For RGB(a), the format looks like this `R, G, B, a`, in addition to above, `a` means alpha (opacity).
-    -   A few commands accept *RGB(a)*, with the alpha. If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
+- For RGB, the format looks like this `R, G, B` where `R` is red, `G` is green, and `B` is blue.
+  - Most commands will only accept _RGB_, without the alpha.
+    If you specify an alpha value here, osu! will ignore it.
+- For RGB(a), the format looks like this `R, G, B, a`, in addition to above, `a` means alpha (opacity).
+  - A few commands accept _RGB(a)_, with the alpha.
+    If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
 
 ### Sections
 
@@ -158,83 +161,310 @@ osu! only uses five sections throughout the skin.ini file, which are indicated w
 
 ## \[General\]
 
-| Command                        | Question                                                                       | Values                                                           | Default   | Notes                                                                                                                           |
-|--------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------|
-| `Name:`                        | What is the name of this skin?                                                 | *skin name*                                                      |           |                                                                                                                                 |
-| `Author:`                      | Who is the author of this skin?                                                | *skin creator*                                                   |           | Your name. Using your forum username is preferred                                                                               |
-| `Version:`                     | How should the skin behave?                                                    | `1.0` / `2.0` / `2.1` / `2.2` / `2.3` / `2.4` / `2.5` / `latest` | see notes | If no skin.ini is present, `latest` will be used instead // However, if one is present without this command, `1.0` will be used |
-| `AnimationFramerate:`          | How many frames should be displayed by most animations in one second?          | *positive integer*                                               |           | This will set the framerate of all animations, EXECPT: circleoverlays, sliderball, pippidon, mania notes and lighting           |
-| `AllowSliderBallTint:`         | Should the slider combo colour tint the slider ball?                           | `0` / `1`                                                        | `0`       | The default sliderball will always get tinted, if enabled in [Options]()                                                        |
-| `ComboBurstRandom`             | Should combobursts be shown in a random order?                                 | `0` / `1`                                                        | `0`       | not for [Taiko]() mode                                                                                                          |
-| `CursorCentre:`                | Should the cursor have an origin at the centre of the image?                   | `0` / `1`                                                        | `1`       | `0 = top-left corner` // `1 = centered`                                                                                         |
-| `CursorExpand:`                | Should the cursor expand when clicked?                                         | `0` / `1`                                                        | `1`       |                                                                                                                                 |
-| `CursorRotate:`                | Should the cursor sprite rotate constantly?                                    | `0` / `1`                                                        | `1`       |                                                                                                                                 |
-| `CursorTrailRotate:`           | Should the cursor sprite rotate constantly?                                    | `0` / `1`                                                        | `1`       |                                                                                                                                 |
-| `CustomComboBurstSounds:`      | On which combo counts should the comboburst sounds be played?                  | *comma-split list with positive integers*                        |           | not for [Taiko]() mode                                                                                                          |
-| `HitCircleOverlayAboveNumber:` | Should the hitcircleoverlay be drawn above the numbers?                        | `0` / `1`                                                        | `1`       | [Standard]() mode // `HitCircleOverlayAboveNumer` still works for legacy support (typo)                                         |
-| `LayeredHitSounds:`            | Should the hitnormal sounds always be played?                                  | `0` / `1`                                                        | `1`       | not for [Taiko]() mode                                                                                                          |
-| `SliderBallFlip:`              | If the sliderball is reversed, should the sliderball sprite flip horizontally? | `0` / `1`                                                        | `1`       | [Standard]() mode                                                                                                               |
-| `SliderBallFrames:`            | How many frames do you have for the sliderball animation?                      | *positive integer*                                               |           | [Standard]() mode // Slider Velocity dependent // This command might be obsolete                                                |
-| `SliderStyle:`                 | What style should the sliders use?                                             | `1` / `2`                                                        | `2`       | **Stable (Fallback) stream only** // `1 = Segmented tracks` // `2 = Gradient tracks`                                            |
-| `SpinnerFadePlayfield:`        | Should the spinner add black bars during spins?                                | `0` / `1`                                                        | `0`       |                                                                                                                                 |
-| `SpinnerFrequencyModulate:`    | Should the spinnerspin sound pitch up the longer the spinner goes?             | `0` / `1`                                                        | `1`       |                                                                                                                                 |
-| `SpinnerNoBlink:`              | Should the highest bar of the metre stay visible all the time?                 | `0` / `1`                                                        | `0`       |                                                                                                                                 |
+- `Name:`
+  - Question: What is the name of this skin?
+  - Value: text _(skin name)_
+  - Default: _(empty)_
+  - Notes:
+    - At this time, this command is not used.
+    - The osu!client will refer to the folder's name instead when listing.
+- `Author:`
+  - Question: Who is the author of this skin?
+  - Value: text _(skin creator)_
+  - Default: _(empty)_
+  - Notes:
+    - At this time, this command is not used.
+    - Use your username.
+      - Using your forum username is preferred.
+- `Version:`
+  - Question: How should the skin behave?
+  - Values:
+    - `1.0`
+    - `2.0`
+    - `2.1`
+    - `2.2`
+    - `2.3`
+    - `2.4`
+    - `2.5`
+    - `latest`
+  - Notes:
+    - If the `skin.ini` file is not present, `latest` will be used instead.
+    - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be assumed (legacy support).
+- `AnimationFramerate:`
+  - Question: How many frames should be displayed by the animations that depend on this value in one second?
+  - Value: *positive integer*
+  - Notes:
+    - This will set the framerate of most animations.
+    - Exceptions: circleoverlays, sliderball, pippidon, osu!mania notes and lighting
+- `AllowSliderBallTint:`
+  - Question: Should the slider combo colour tint the slider ball?
+  - Values: `0` or `1`
+  - Default: `0`
+  - Notes:
+    - The default sliderball will always get tinted, if enabled in [options](/wiki/options).
+- `ComboBurstRandom` 
+  - Question: Should combobursts be shown in a random order?
+  - Values: `0` or `1`
+  - Default: `0`
+  - Notes:
+    - This is not for [osu!taiko](/wiki/osu!taiko).
+- `CursorCentre:`
+  - Question: Should the cursor have an origin at the centre of the image?
+  - Values: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - `0` = top-left corner
+    - `1` = centered
+- `CursorExpand:`
+  - Question: Should the cursor expand when clicked?
+  - Values: `0` or `1`
+  - Default: `1`
+- `CursorRotate:`
+  - Question: Should the cursor sprite rotate constantly?
+  - Values: `0` or `1`
+  - Default: `1`
+- `CursorTrailRotate:`
+  - Question: Should the cursor sprite rotate constantly?
+  - Values: `0` or `1`
+  - Default: `1`
+- `CustomComboBurstSounds:`
+  - Question: On which combo counts should the comboburst sounds be played?
+  - Value: *comma-split list with positive integers*
+  - Default: _(empty)_
+  - Notes:
+    - This is not for [osu!taiko](/wiki/osu!taiko).
+    - This only affects the combo burst sounds, not the milestones.
+- `HitCircleOverlayAboveNumber:`
+  - Question: Should the hitcircleoverlay be drawn above the numbers?
+  - Values: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) only.
+    - Old command: `HitCircleOverlayAboveNumer` (with typo) still works for legacy support
+- `LayeredHitSounds:`
+  - Question: Should the hitnormal sounds always be played?
+  - Values: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - This is not for [osu!taiko](/wiki/osu!taiko).
+- `SliderBallFlip:`
+  - Question: If the sliderball is reversed, should the sliderball sprite flip horizontally?
+  - Values: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) only.
+- `SliderBallFrames:`
+  - Question: How many frames do you have for the sliderball animation?
+  - Value: *positive integer*
+  - Default: _(empty)_
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) only.
+    - This is slider velocity dependent
+    - This command might be obsolete
+- `SliderStyle:`
+  - Question: What style should the sliders use?
+  - Value: `1` / `2`
+  - Default: `2`
+  - Notes:
+    - **Stable (Fallback) stream only**
+    - `1` = Segmented tracks
+    - `2` = Gradient tracks
+- `SpinnerFadePlayfield:`
+  - Question: Should the spinner add black bars during spins?
+  - Values: `0` or `1`
+  - Default: `0`
+- `SpinnerFrequencyModulate:`
+  - Question: Should the spinnerspin sound pitch up the longer the spinner goes?
+  - Values: `0` or `1`
+  - Default: `1`
+- `SpinnerNoBlink:`
+  - Question: Should the highest bar of the metre stay visible all the time?
+  - Values: `0` or `1`
+  - Default: `0`
 
 ## \[Colours\]
 
-NOTICE: this header MUST be spelled as **\[Colours\]**, not **\[Colors\]**!
+**Notice**: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!
 
-| Command                   | Question                                                         | Values | Default                    | Notes                                                                                         |
-|---------------------------|------------------------------------------------------------------|--------|----------------------------|-----------------------------------------------------------------------------------------------|
-| `Combo1:`                 | What colour is used for the last combo?                          | *RGB*  | 255,192,0                  | used if beatmap skin is disabled or uses default colours // appears last                      |
-| `Combo2:`                 | What colour is used for the first combo?                         | *RGB*  | 0,202,0                    | used if beatmap skin is disabled or uses default colours // appears first                     |
-| `Combo3:`                 | What colour is used for the second combo?                        | *RGB*  | 18,124,255                 | used if beatmap skin is disabled or uses default colours // appears second, if defined        |
-| `Combo4:`                 | What colour is used for the third combo?                         | *RGB*  | 242,24,57                  | used if beatmap skin is disabled or uses default colours // appears third, if defined         |
-| `Combo5:`                 | What colour is used for the fourth combo?                        | *RGB*  |                            | used if beatmap skin is disabled or uses default colours // appears fourth, if defined        |
-| `Combo6:`                 | What colour is used for the fifth combo?                         | *RGB*  |                            | used if beatmap skin is disabled or uses default colours // appears fifth, if defined         |
-| `Combo7:`                 | What colour is used for the sixth combo?                         | *RGB*  |                            | used if beatmap skin is disabled or uses default colours // appears sixth, if defined         |
-| `Combo8:`                 | What colour is used for the seventh combo?                       | *RGB*  |                            | used if beatmap skin is disabled or uses default colours // appears seventh, if defined       |
-| `InputOverlayText:`       | What colour should the numbers on the input keys be tinted in?   | *RGB*  | 0,0,0                      | [Standard]() and [Catch the Beat]() modes only // tints the numbers shown on the inputoverlay |
-| `MenuGlow:`               | What colour should the spectrum bars be coloured in?             | *RGB*  | 0,78,155                   | [![](/wiki/shared/osu!supporter.png)]()                                                       |
-| `SliderBall:`             | What colour should the default sliderball be coloured in?        | *RGB*  | 2,170,255                  | [Standard]() mode only // default sliderball's colour if tinting is disabled in options       |
-| `SliderBorder:`           | What colour should be used for the sliderborders?                | *RGB*  | 255,255,255                | [Standard]() mode only                                                                        |
-| `SliderTrackOverride:`    | What colour should all sliderbodies be coloured in?              | *RGB*  | *use current Combo\#* | [Standard]() mode only                                                                        |
-| `SongSelectActiveText:`   | What colour should the text of the active panel be tinted in?    | *RGB*  | 0,0,0                      |                                                                                               |
-| `SongSelectInactiveText:` | What colour should the text of the inactive panels be tinted in? | *RGB*  | 255,255,255                |                                                                                               |
-| `SpinnerBackground:`      | What colour should be added to the spinner-background?           | *RGB*  | 100,100,100                |                                                                                               |
-| `StarBreakAdditive:`      | What colour should be added to star2 during breaks?              | *RGB*  | 255,182,193                | colour of star2.png during breaks                                                             |
+- `Combo1:`
+  - Question: What colour is used for the last combo?
+  - Value: _RGB_
+  - Default: 255,192,0
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears last.
+- `Combo2:`
+  - Question: What colour is used for the first combo?
+  - Value: _RGB_
+  - Default: 0,202,0
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears first.
+- `Combo3:`
+  - Question: What colour is used for the second combo?
+  - Value: _RGB_
+  - Default: 18,124,255
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears second, if defined.
+- `Combo4:`
+  - Question: What colour is used for the third combo?
+  - Value: _RGB_
+  - Default: 242,24,57
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears third, if defined.
+- `Combo5:`
+  - Question: What colour is used for the fourth combo?
+  - Value: _RGB_
+  - Default: _(empty)_
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears fourth, if defined.
+- `Combo6:`
+  - Question: What colour is used for the fifth combo?
+  - Value: _RGB_
+  - Default: _(empty)_
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears fifth, if defined.
+- `Combo7:`
+  - Question: What colour is used for the sixth combo?
+  - Value: _RGB_
+  - Default: _(empty)_
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears sixth, if defined.
+- `Combo8:`
+  - Question: What colour is used for the seventh combo?
+  - Value: _RGB_
+  - Default: _(empty)_
+  - Notes:
+    - This is used if beatmap skin is disabled or uses default colours.
+    - This appears seventh, if defined.
+- `InputOverlayText:`
+  - Question: What colour should the numbers on the input keys be tinted in?
+  - Value: _RGB_
+  - Default: `0,0,0`
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch) only..
+    - This tints the numbers shown on the input overlay.
+- `MenuGlow:`
+  - Question: What colour should the spectrum bars in the main menu be coloured in?
+  - Value: _RGB_
+  - Default: `0,78,155`
+  - Notes:
+    - [osu!supporter](/wiki/osu!supporter) required
+- `SliderBall:`
+  - Question: What colour should the default sliderball be coloured in?
+  - Value: _RGB_
+  - Default: `2,170,255`
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard).
+    - Default sliderball's colour if tinting is disabled in [options](/wiki/options).
+- `SliderBorder:`
+  - Question: What colour should be used for the sliderborders?
+  - Value: _RGB_
+  - Default: `255,255,255`
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) only.
+- `SliderTrackOverride:`
+  - Question: What colour should all sliderbodies be coloured in?
+  - Value: _RGB_
+  - Default: *use current combo colour*
+  - Notes:
+    - This is for [osu!standard](/wiki/osu!standard) only.
+    - Using this will make all slider track colours the same.
+- `SongSelectActiveText:`
+  - Question: What colour should the text of the active panel be tinted in?
+  - Value: _RGB_
+  - Default: `0,0,0`
+- `SongSelectInactiveText:`
+  - Question: What colour should the text of the inactive panels be tinted in?
+  - Value: _RGB_
+  - Default: `255,255,255`
+- `SpinnerBackground:`
+  - Question: What colour should be added to the spinner-background?
+  - Value: _RGB_
+  - Default: `100,100,100`
+- `StarBreakAdditive:`
+  - Question: What colour should be added to star2 during breaks?
+  - Value: _RGB_
+  - Default: `255,182,193`
+  - Notes:
+    - colour of `star2` during breaks
 
 ## \[Fonts\]
 
-| Command             | Question                                                 | Values    | Default   | Notes                       |
-|---------------------|----------------------------------------------------------|-----------|-----------|-----------------------------|
-| `HitCirclePrefix:`  | What prefix is used for the hitcircle numbers?           |           | `default` | custom pathing possible     |
-| `HitCircleOverlap:` | By how many pixels should the hitcircle numbers overlap? | *integer* | `-2`      | negative integers add a gap |
-| `ScorePrefix:`      | What prefix is used for the score numbers?               |           | `score`   | custom pathing possible     |
-| `ScoreOverlap:`     | By how many pixels should the score numbers overlap?     | *integer* | `-2`      | negative integers add a gap |
-| `ComboPrefix:`      | What prefix is used for the combo numbers?               |           | `score`   | custom pathing possible     |
-| `ComboOverlap:`     | By how many pixels should the combo numbers overlap?     | *integer* | `-2`      | negative integers add a gap |
+- `HitCirclePrefix:`
+  - Question: What prefix is used for the hitcircle numbers?
+  - Value: text _(path/filename prefix)_
+  - Default: `default`
+  - Notes:
+    - You can use a custom path
+- `HitCircleOverlap:`
+  - Question: By how many pixels should the hitcircle numbers overlap?
+  - Value: *integer*
+  - Default: `-2`
+  - Notes:
+    - Negative integers will add a gap.
+- `ScorePrefix:`
+  - Question: What prefix is used for the score numbers?
+  - Value: text _(path/filename prefix)_
+  - Default: `score`
+- `ScoreOverlap:`
+  - Question: By how many pixels should the score numbers overlap?
+  - Value: *integer*
+  - Default: `-2`
+  - Notes:
+    - Negative integers will add a gap.
+- `ComboPrefix:`
+  - Question: What prefix is used for the combo numbers?
+  - Value: text _(path/filename prefix)_
+  - Default: `score`
+- `ComboOverlap:`
+  - Question: By how many pixels should the combo numbers overlap?
+  - Value: *integer*
+  - Default: `-2`
+  - Notes:
+    - Negative integers will add a gap.
 
 ## \[CatchTheBeat\]
 
-| Command                | Question                                         | Values | Default         | Notes                               |
-|------------------------|--------------------------------------------------|--------|-----------------|-------------------------------------|
-| `HyperDash:`           | What colour should be used for the dash?         | *RGB*  | 255,0,0         | osu! will use a default alpha value |
-| `HyperDashFruit:`      | What colour should be used for the fruits?       | *RGB*  | *use HyperDash* | osu! will use a default alpha value |
-| `HyperDashAfterImage:` | What colour should be used for the after images? | *RGB*  | *use HyperDash* | osu! will use a default alpha value |
+- `HyperDash:`
+  - Question: What colour should be used for the dash?
+  - Values: _RGB_
+  - Default: `255,0,0`
+  - Notes:
+    - _osu!_ will use a default alpha value.
+    - This is the colour of the catcher itself.
+- `HyperDashFruit:`
+  - Question: What colour should be used for the fruits?
+  - Values: _RGB_
+  - Default: *use `HyperDash`*
+  - Notes:
+    - _osu!_ will use a default alpha value.
+    - This is the colour outlining the fruit.
+- `HyperDashAfterImage:`
+  - Question: What colour should be used for the after images?
+  - Values: _RGB_
+  - Default: *use `HyperDash`*
+  - Notes:
+    - _osu!_ will use a default alpha value.
+    - This is the colour of the images following the catcher after obtaining the hyperdash fruit.
 
 ## \[Mania\]
 
-Notes:
+**Notes:**
 
--   some commands will only work, if skin version is 2.5+
--   if a command is asking where to position something vertically, it is based on a height of 480 pixels
--   when a command is depend on the total number of keys
-    -   too many: extras are ignored
-    -   not enough: missing values will use default values
--   **Each keycount *must* start a new section**, it may look like this (but with actual commands):
+- If you want to fully customize the osu!mania stage, use skin version `2.5` or higher.
+- Commands that are asking where to position something horizontally are based on a height of 480 pixels.
+- When a command is depend on the total number of keys:
+  - using too many and the extras are ignored.
+  - not using enough and the missing values will use default values.
+- **Each keycount *must* start a new section**, it should look like this (but with actual commands):
 
-```
+```ini
 ...
 
 [Mania]
@@ -248,66 +478,344 @@ Keys: 5
 ...
 ```
 
-| Command                     | Question                                                                 | Values                                                                                | Default           | Notes                                                                                                                                                                                      |
-|-----------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Keys:`                     | What keycount are these settings for?                                    | `1` / `2` / `3` / `4` / `5` / `6` / `7`/ `8` / `9` / `10` / `12` / `14` / `16` / `18` |                   | **REQUIRED** per key set                                                                                                                                                                   |
-| `ColumnStart:`              | Where does the left column start?                                        | *number*                                                                              | `136`             |                                                                                                                                                                                            |
-| `ColumnRight:`              | Up to which point can columns be drawn?                                  | *number*                                                                              | `19`              |                                                                                                                                                                                            |
-| `ColumnSpacing:`            | What is the distance between all columns individually?                   | *comma-split list with numbers*                                                       | `0`               | spacing BETWEEN the columns // the spaces will be transparent                                                                                                                              |
-| `ColumnWidth:`              | What widths do all columns have individually?                            | *comma-split list with numbers*                                                       | `30`              | **SUGGESTION:** columns should be kept thin, if high keycounts are used                                                                                                                    |
-| `ColumnLineWidth:`          | How thick are the column seperators individually?                        | *comma-split list with numbers*                                                       | `2`               |                                                                                                                                                                                            |
-| `BarlineHeight:`            | How thick is the barline?                                                | *number*                                                                              |                   |                                                                                                                                                                                            |
-| `LightingNWidth:`           | Which widths should LightingN use for all columns individually?          | *comma-split list with numbers*                                                       |                   |                                                                                                                                                                                            |
-| `LightingLWidth:`           | Which widths should LightingL use for all columns individually?          | *comma-split list with numbers*                                                       |                   |                                                                                                                                                                                            |
-| `WidthForNoteHeightScale:`  | Which height should all notes have if columns have individual widths?    | *number*                                                                              |                   | if not defined, the height scale of the smallest column width is used                                                                                                                      |
-| `HitPosition:`              | On which height should the judgement line be drawn at?                   | *integer*                                                                             | `402`             | StageHint, LightingN & LightingL are drawn at this position                                                                                                                                |
-| `LightPosition:`            | On which height should the stage lights be drawn at?                     | *integer*                                                                             | `413`             | only for StageLight                                                                                                                                                                        |
-| `ScorePosition:`            | On which height should the hitbursts appear at?                          | *integer*                                                                             |                   | the hitbursts will be vertically centered on the stage                                                                                                                                     |
-| `ComboPosition:`            | On which height should the combo counter appear at?                      | *integer*                                                                             |                   | the combo counter will be vertically centered on the stage                                                                                                                                 |
-| `JudgementLine:`            | Should an additional line be drawn above the StageHint?                  |                                                                                       | `1`               | notes should be hit when notes touch the judgement line                                                                                                                                    |
-| `LightFramePerSecond:`      | *unknown*                                                                |                                                                                       |                   | **may have become obsolete**                                                                                                                                                               |
-| `SpecialStyle:`             | What SpecialStyle is used for this keycount if available?                | `0` / `1` / `2`                                                                       | `0`               | `0` = none; `1` = (left (SP) / outer (DP) lane); `2` = (right (SP) / inner (DP) lane) // for even keycounts, >4 // for DP: the center between the stages is used for determining positions |
-| `ComboBurstStyle:`          | On what side should the comboburst appear?                               | `0` / `1` / `2`                                                                       | `1`               | combobursts get flipped on the right stage half // you can use the words or values, both are accepted                                                                                      |
-| `SplitStages:`              | Should the stage be split into 2 stages?                                 | `0` / `1`                                                                             |                   | forced setting if defined // `0` = no splitting / forced SP // each keycount above 1 can be splitted (or merged, if count is higher than 9)                                                |
-| `StageSeparation:`          | What distance should the 2 stages have when splitted?                    | *number*                                                                              | `40`              | The distance of the two stages, if split                                                                                                                                                   |
-| `SeparateScore:`            | Should the hitburst only be shown on the stage it was scored on?         | `0` / `1`                                                                             | `1`               | `0` = shows on both stages at the same time; `1` = shows when hit on specific stage // for DP: each stage gets shown its own judgement or of both stages                                   |
-| `KeysUnderNotes:`           | Should the keys be covered by notes when passing them?                   | `0` / `1`                                                                             | `0`               | should be used depending on note and key designs                                                                                                                                           |
-| `UpsideDown:`               | Should the stage be (forcibly) upside down?                              | `0` / `1`                                                                             | `0`               | scroll up like DDR/Stepmania/Pump It Up                                                                                                                                                    |
-| `KeyFlipWhenUpsideDown:`    | Should all of the keys be flipped when the stage is flipped?             | `0` / `1`                                                                             | `1`               | **version 2.5+** // for all columns                                                                                                                                                        |
-| `KeyFlipWhenUpsideDown#:`   | Should the column's unpressed key be flipped when the stage is flipped?  | `0` / `1`                                                                             |                   | **version 2.5+** // for the specific column's idle key state                                                                                                                               |
-| `KeyFlipWhenUpsideDown#D:`  | Should the column's pressed key be flipped when the stage is flipped?    | `0` / `1`                                                                             |                   | **version 2.5+** // for the specific column's pressed key state                                                                                                                            |
-| `NoteFlipWhenUpsideDown:`   | Should all of the notes be flipped when the stage is flipped?            | `0` / `1`                                                                             | `1`               | **version 2.5+** // for all columns                                                                                                                                                        |
-| `NoteFlipWhenUpsideDown#:`  | Should the column's note be flipped when the stage is flipped?           | `0` / `1`                                                                             |                   | **version 2.5+** // column specific (note)                                                                                                                                                 |
-| `NoteFlipWhenUpsideDown#H:` | Should the column's hold note head be flipped when the stage is flipped? | `0` / `1`                                                                             |                   | **version 2.5+** // column specific (note head)                                                                                                                                            |
-| `NoteFlipWhenUpsideDown#L:` | Should the column's hold note body be flipped when the stage is flipped? | `0` / `1`                                                                             |                   | **version 2.5+** // column specific (note body)                                                                                                                                            |
-| `NoteFlipWhenUpsideDown#T:` | Should the column's hold note tail be flipped when the stage is flipped? | `0` / `1`                                                                             |                   | **version 2.5+** // column specific (note tail)                                                                                                                                            |
-| `NoteBodyStyle:`            | What style should be used for all hold note bodies?                      | `0` / `1` / `2`                                                                       | `1`               | **version 2.5+** // for all columns                                                                                                                                                        |
-| `NoteBodyStyle#:`           | What style should be used for all hold note bodies?                      | `0` / `1` / `2`                                                                       |                   | **version 2.5+** // column specific                                                                                                                                                        |
-| `Colour#:`                  | What colour should be used for the column's lane?                        | *RGB(a)*                                                                              | `0,0,0,255`       | for the specific column's background // `#` starts at `1`                                                                                                                                  |
-| `ColourLight#:`             | What colour should be used for the column's lighting?                    | *RGB*                                                                                 | `255,255,255`     | column specific (StageLight) // `#` starts at `1`                                                                                                                                          |
-| `ColourColumnLine:`         | What colour should be used for the column lines?                         | *RGB(a)*                                                                              | `255,255,255,255` | lines separating columns                                                                                                                                                                   |
-| `ColourBarline:`            | What colour should be used for the bar seperator?                        | *RGB(a)*                                                                              | `255,255,255,255` | a bar is one full measure depending on the map's timing signature                                                                                                                          |
-| `ColourJudgementLine:`      | What colour should be used for the timing line?                          | *RGB*                                                                                 | `255,255,255`     |                                                                                                                                                                                            |
-| `ColourKeyWarning:`         | What colour should be used for the keybinding reminders?                 | *RGB*                                                                                 | `0,0,0`           | keybinding check before starting play                                                                                                                                                      |
-| `ColourHold:`               | What colour should be used for the combo counter during holds?           | *RGB(a)*                                                                              | `255,191,51,255`  |                                                                                                                                                                                            |
-| `ColourBreak:`              | What colour should be used for the combo counter when it breaks?         | *RGB*                                                                                 | 255,0,0           | colour of combo counter when broken                                                                                                                                                        |
-| `KeyImage#:`                | What is the name of the column's unpressed key image?                    | *path to image*                                                                       |                   | for the specific column's idle key image                                                                                                                                                   |
-| `KeyImage#D:`               | What is the name of the column's pressed key image?                      | *path to image*                                                                       |                   | for the specific column's pressed key image                                                                                                                                                |
-| `NoteImage#:`               | What is the name of the column's note image?                             | *path to image*                                                                       |                   | for the specific column's note image                                                                                                                                                       |
-| `NoteImage#H:`              | What is the name of the column's hold note head image?                   | *path to image*                                                                       |                   | for the specific column's hold note head image                                                                                                                                             |
-| `NoteImage#L:`              | What is the name of the column's hold note body image?                   | *path to image*                                                                       |                   | for the specific column's hold note body image                                                                                                                                             |
-| `NoteImage#T:`              | What is the name of the column's hold note tail image?                   | *path to image*                                                                       |                   | for the specific column's hold note tail image                                                                                                                                             |
-| `StageLeft:`                | What is the name of the left stage image?                                | *path to image*                                                                       |                   | left border                                                                                                                                                                                |
-| `StageRight:`               | What is the name of the right stage image?                               | *path to image*                                                                       |                   | right border                                                                                                                                                                               |
-| `StageBottom:`              | What is the name of the bottom stage image?                              | *path to image*                                                                       |                   | will NOT be streched to fit                                                                                                                                                                |
-| `StageHint:`                | What is the name of the stage hint image?                                | *path to image*                                                                       |                   | graphical judgement line                                                                                                                                                                   |
-| `StageLight:`               | What is the name of the stage light image?                               | *path to image*                                                                       |                   | column lighting                                                                                                                                                                            |
-| `LightingN:`                | What is the name of the note lighting image?                             | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `LightingL:`                | What is the name of the hold note lighting image?                        | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `WarningArrow:`             | What is the name of the warning arrow image?                             | *path to image*                                                                       |                   | appears three barlines before the map starts, if there is enough time                                                                                                                      |
-| `Hit0:`                     | What is the name of the hit0 image?                                      | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `Hit50:`                    | What is the name of the hit50 image?                                     | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `Hit100:`                   | What is the name of the hit100 image?                                    | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `Hit200:`                   | What is the name of the hit200 image?                                    | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `Hit300:`                   | What is the name of the hit300 image?                                    | *path to image*                                                                       |                   |                                                                                                                                                                                            |
-| `Hit300g:`                  | What is the name of the hit300g image?                                   | *path to image*                                                                       |                   |                                                                                                                                                                                            |
+---
+
+- `Keys:`
+  - Question: What keycount are these settings for?
+  - Values:
+    - `1`
+    - `2`
+    - `3`
+    - `4`
+    - `5`
+    - `6`
+    - `7`
+    - `8`
+    - `9`
+    - `10`
+    - `12`
+    - `14`
+    - `16`
+    - `18`
+  - Notes:
+    - This is **_required_** per key set
+- `ColumnStart:`
+  - Question: Where does the left column start?
+  - Value: _number_
+  - Default: `136`
+- `ColumnRight:`
+  - Question: Up to which point can columns be drawn?
+  - Value: _number_
+  - Default: `19`
+- `ColumnSpacing:`
+  - Question: What is the distance between all columns individually?
+  - Value: comma-split list with numbers
+  - Default: `0`
+  - Notes:
+    - This is the spacing **between** the columns
+    - The gap will be transparent.
+- `ColumnWidth:`
+  - Question: What widths do all columns have individually?
+  - Value: comma-split list with numbers
+  - Default: `30`
+  - Notes:
+    - It is suggested to keep this thin if high keycounts or wide keys are used.
+- `ColumnLineWidth:`
+  - Question: How thick are the column seperators individually?
+  - Value: comma-split list with numbers
+  - Default: `2`
+- `BarlineHeight:`
+  - Question: How thick is the barline?
+  - Value: _number_
+  - Default: `1.2`
+- `LightingNWidth:`
+  - Question: Which widths should `LightingN` use for all columns individually?
+  - Value: _comma-split list with numbers_
+  - Default: _(empty)_
+- `LightingLWidth:`
+  - Question: Which widths should `LightingL` use for all columns individually?
+  - Value: _comma-split list with numbers_
+  - Default: _(empty)_
+- `WidthForNoteHeightScale:`
+  - Question: Which height should all notes have if columns have individual widths?
+  - Value: _number_
+  - Notes:
+    - If not defined, the height scale of the smallest column width is used
+- `HitPosition:`
+  - Question: On which height should the judgement line be drawn at?
+  - Value: integer
+  - Default: `402`
+  - Notes:
+    - `StageHint`, `LightingN`, and `LightingL` are drawn at this position
+- `LightPosition:`
+  - Question: On which height should the stage lights be drawn at?
+  - Value: _integer_
+  - Default: `413`
+  - Notes:
+    - This is only for `StageLight`.
+- `ScorePosition:`
+  - Question: On which height should the hitbursts appear at?
+  - Value: _integer_
+  - Notes:
+    - The hitbursts will be vertically centered on the stage.
+- `ComboPosition:`
+  - Question: On which height should the combo counter appear at?
+  - Value: _integer_
+  - Notes:
+    - The combo counter will be vertically centered on the stage.
+- `JudgementLine:`
+  - Question: Should an additional line be drawn above the StageHint?
+  - Value: `0` or `1`
+  - Notes:
+    - This is the hint for when the keys should be pressed.
+- `LightFramePerSecond:`
+  - Question: *unknown*
+  - Value: *unknown*
+  - Notes:
+    - May be obsolete.
+- `SpecialStyle:`
+  - Question: What SpecialStyle is used for this keycount if available?
+  - Value: `0`, `1`, or `2`
+  - Default: `0`
+  - Notes:
+    - `0` = none
+    - `1` = (left (SP) or outer (DP) lane)
+    - `2` = (right (SP) or inner (DP) lane)
+    - For even keycounts, more than 4.
+    - For DP, the center between the stages is used for determining positions.
+- `ComboBurstStyle:`
+  - Question: On what side should the comboburst appear?
+  - Value: `0`, `1`, or `2`
+  - Default: `1`
+  - Notes:
+    - `0` = `Left`
+    - `1` = `Right`
+    - `2` = `Both` (random)
+    - You can use the words or values, both are accepted.
+    - Combobursts will be flipped on the right stage half.
+- `SplitStages:`
+  - Question: Should the stage be split into 2 stages?
+  - Value: `0` or `1`
+  - Notes:
+    - This value is forced, if defined.
+    - `0` = no splitting / forced SP
+    - Each keycount higher than 1 can be splitted (or merged, if count is higher than 9).
+- `StageSeparation:`
+  - Question: What distance should the 2 stages have when splitted?
+  - Value: _number_
+  - Default: `40`
+  - Notes: The distance of the two stages, if split.
+- `SeparateScore:`
+  - Question: Should the hitburst only be shown on the stage it was scored on?
+  - Value: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - `0` = shows on both stages at the same time
+    - `1` = shows when hit on specific stage
+    - For DP, each stage gets shown its own judgement or of both stages
+- `KeysUnderNotes:`
+  - Question: Should the keys be covered by notes when passing them?
+  - Value: `0` or `1`
+  - Default: `0`
+  - Notes:
+    - should be used depending on note and key designs.
+- `UpsideDown:`
+  - Question: Should the stage always be upside down?
+  - Value: `0` or `1`
+  - Default: `0`
+  - Notes:
+    - Act like DDR/StepMania?
+- `KeyFlipWhenUpsideDown:`
+  - Question: Should **all** of the keys be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - This applies for all columns.
+- `KeyFlipWhenUpsideDown#:`
+  - Question: Should the **specified column's** key be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - This applies for the specified column.
+    - Replace `#` with a valid column index (from 0 to 17).
+- `NoteFlipWhenUpsideDown:`
+  - Question: Should all of the notes be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Default: `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - This applies for all columns.
+- `KeyFlipWhenUpsideDown#D:`
+  - Question: Should the column's pressed key be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - This applies for the specified column's pressed key state.
+- `NoteFlipWhenUpsideDown#:`
+  - Question: Should the column's note be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - Column specific (for notes)
+- `NoteFlipWhenUpsideDown#H:`
+  - Question: Should the column's hold note head be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - Column specific (for head parts)
+- `NoteFlipWhenUpsideDown#L:`
+  - Question: Should the column's hold note body be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - Column specific (for length parts)
+- `NoteFlipWhenUpsideDown#T:`
+  - Question: Should the column's hold note tail be flipped when the stage is flipped?
+  - Value: `0` or `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - Column specific (for tail parts)
+- `NoteBodyStyle:`
+  - Question: What style should be used for all hold note bodies?
+  - Value: `0`, `1`, or `2`
+  - Default: `1`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - All columns.
+- `NoteBodyStyle#:`
+  - Question: What style should be used for all hold note bodies?
+  - Value: `0`, `1`, or `2`
+  - Notes:
+    - Requires skin version `2.5` or higher.
+    - Column specific (for notes)
+- `Colour#:`
+  - Question: What colour should be used for the column's lane?
+  - Value: _RGB(a)_
+  - Default: `0,0,0,255`
+  - Notes:
+    - For the specific column's background.
+    - `#` starts at `1`
+- `ColourLight#:`
+  - Question: What colour should be used for the column's lighting?
+  - Value: _RGB_
+  - Default: `55,255,255`
+  - Notes:
+    - Column specific (StageLight).
+    - `#` starts at `1`
+- `ColourColumnLine:`
+  - Question: What colour should be used for the column lines?
+  - Value: _RGB(a)_
+  - Default: `255,255,255,255`
+  - Notes:
+    - These are the lines that separate the columns.
+- `ColourBarline:`
+  - Question: What colour should be used for the bar seperator?
+  - Value: _RGB(a)_
+  - Default: `255,255,255,255`
+  - Notes:
+    - A bar is one full measure.
+- `ColourJudgementLine:`
+  - Question: What colour should be used for the timing line?
+  - Value: _RGB_
+  - Default: `255,255,255`
+- `ColourKeyWarning:`
+  - Question: What colour should be used for the keybinding reminders?
+  - Value: _RGB_
+  - Default: `0,0,0`
+  - Notes:
+    - This is the colour of the keybindings check before the game starts
+- `ColourHold:`
+  - Question: What colour should be used for the combo counter during holds?
+  - Value: _RGB(a)_
+  - Default: `255,191,51,255`
+- `ColourBreak:`
+  - Question: What colour should be used for the combo counter when it breaks?
+  - Value: _RGB_
+  - Default: `255,0,0`
+  - Notes:
+    - This is the colour of combo counter during a combobreak.
+- `KeyImage#:`
+  - Question: What is the name of the column's unpressed key image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's idle key image.
+- `KeyImage#D:`
+  - Question: What is the name of the column's pressed key image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's pressed key image.
+- `NoteImage#:`
+  - Question: What is the name of the column's note image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's note image.
+- `NoteImage#H:`
+  - Question: What is the name of the column's hold note head image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's hold note head image.
+- `NoteImage#L:`
+  - Question: What is the name of the column's hold note body image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's hold note body image.
+- `NoteImage#T:`
+  - Question: What is the name of the column's hold note tail image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is for the specific column's hold note tail image.
+- `StageLeft:`
+  - Question: What is the name of the left stage image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is the left border.
+- `StageRight:`
+  - Question: What is the name of the right stage image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is the right border.
+- `StageBottom:`
+  - Question: What is the name of the bottom stage image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This will **not** be streched to fit
+- `StageHint:`
+  - Question: What is the name of the stage hint image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is the graphical judgement line.
+- `StageLight:`
+  - Question: What is the name of the stage light image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This is the column lighting.
+- `LightingN:`
+  - Question: What is the name of the note lighting image?
+  - Value: text _(path to image)_
+- `LightingL:`
+  - Question: What is the name of the hold note lighting image?
+  - Value: text _(path to image)_
+- `WarningArrow:`
+  - Question: What is the name of the warning arrow image?
+  - Value: text _(path to image)_
+  - Notes:
+    - This appears three barlines before the map starts, if there is enough time.
+- `Hit0:`
+  - Question: What is the name of the hit0 image?
+  - Value: text _(path to image)_
+- `Hit50:`
+  - Question: What is the name of the hit50 image?
+  - Value: text _(path to image)_
+- `Hit100:`
+  - Question: What is the name of the hit100 image?
+  - Value: text _(path to image)_
+- `Hit200:`
+  - Question: What is the name of the hit200 image?
+  - Value: text _(path to image)_
+- `Hit300:`
+  - Question: What is the name of the hit300 image?
+  - Value: text _(path to image)_
+- `Hit300g:`
+  - Question: What is the name of the hit300g image?
+  - Value: text _(path to image)_

@@ -65,6 +65,7 @@ We are still working on a design for the index page, so excuse what follows. If 
 - [Mascots](/wiki/Mascots "Mascots")
   - [Mascots Gallery](/wiki/Mascots/Gallery "Mascots Gallery")
 - [Replay](/wiki/Replay "Replay")
+- [Visual Settings](/wiki/Visual_Settings "Visual Settings")
 
 #### Online
 
@@ -307,7 +308,7 @@ We are still working on a design for the index page, so excuse what follows. If 
 
 ## osu!wiki Contribute
 
-- [Article Style Guide](/wiki/Article_Style_Guide "Article Style Guide")
+- [Article Styling Criteria](/wiki/Article_Styling_Criteria "Article Styling Criteria")
 - [osu!wiki contribution guide](/wiki/osu!wiki_contribution_guide "osu!wiki contribution guide")
 - [How You Can Help!](/wiki/How_You_Can_Help! "How You Can Help!")
 

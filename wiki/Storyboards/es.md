@@ -1,4 +1,4 @@
-Storyboarding (Español)
+Storyboarding
 ========================
 
 ***Artículo original aquí***
