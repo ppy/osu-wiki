@@ -1,5 +1,7 @@
 # skin.ini
 
+*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank).*
+
 The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how _osu!_ will display certain skin elements.
 
@@ -16,112 +18,100 @@ The version number, seen in the headings, is what will be used in the `Version` 
 
 If your `skin.ini` does not specify a `Version`, it will default to this version.
 
-- hitcircle numbers are part of hitburst explosions
-- large expansion of hitlighting (`lighting.png`)
-- old styled spinner (`spinner-circle.png`, `spinner-background.png`, and `spinner-metre.png`)
-- segmented countdown image build-up
-- smaller selection bar images (87px height max)
-- uncolored play-warningarrow during end of breaks
-- version exclusive ranking screen buttons (`ranking-replay.png` and `ranking-retry.png`)
-- version exclusive sliderpoints display (`sliderpoint10.png` and `sliderpoint30.png`)
+- Hitcircle numbers are part of hitburst explosions.
+- Large expansion of hitlighting (`lighting.png`).
+- Old styled spinner (`spinner-circle.png`, `spinner-background.png`, and `spinner-metre.png`).
+- Segmented countdown image build-up.
+- Smaller selection bar images (87px height max).
+- Uncolored play-warningarrow during end of breaks.
+- Version exclusive ranking screen buttons (`ranking-replay.png` and `ranking-retry.png`).
+- Version exclusive sliderpoints display (`sliderpoint10.png` and `sliderpoint30.png`).
 
 ### 2.0
 
 **UI: positioning changes / osu!: visibility update (reduced clutter).**
 
-- high definition skins
-  - use the suffix `@2x.png` in the skinning element to let osu! know that the skinning element is higher in quality
-- new style spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, and `spinner-glow.png`)
-- countdown sequence instead of segmented image
-  - countdowns are now centered
-- hitcircle numbers are no longer part of hitburst explosions
-- red colored play-warningarrow during end of breaks
-- smaller expansion of `lighting.png`
-- anchor changes of selectionbar images
-- positioning changes of ranking screen images (generally, it is shifted down)
+- High definition skins.
+  - Use the suffix `@2x.png` in the skinning element to let osu! know that the skinning element is higher in quality.
+- New style spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, and `spinner-glow.png`).
+- Countdown sequence instead of segmented image.
+  - Countdowns are now centered.
+- Hitcircle numbers are no longer part of hitburst explosions.
+- Red colored play-warningarrow during end of breaks.
+- Smaller expansion of `lighting.png`.
+- Anchor changes of selectionbar images.
+- Positioning changes of ranking screen images (generally, it is shifted down).
 
 ### 2.1
 
 **osu!taiko positioning changes**
 
-- `taiko-bar-right.png` and `taiko-bar-right-glow.png` directly sits under `taiko-bar-left.png`
-- taiko drum postion changes (allows larger areas)
+- `taiko-bar-right.png` and `taiko-bar-right-glow.png` directly sits under `taiko-bar-left.png`.
+- Taiko drum postion changes (allows larger areas).
 
 ### 2.2
 
 **interface/UI changes**
 
-- thumbnail support
-- changes star rating display to scaling `star.png` instead of partially widthed `star.png`
-- panel text alignment optimisations
+- Thumbnail support.
+  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the [skin.ini](/wiki/skin.ini) file.
+- Changes star rating display to scaling `star.png` instead of partially widthed `star.png`.
+- Panel text alignment optimisations.
 
 ### 2.3
 
 **osu!catch changes**
 
-- `fruit-ryuuta.png` will no longer work from this point forward
-- new catcher images
-- new osu!catch specific combobursts (`comboburst-fruits.png`)
-  - osu!standard combobursts will no longer be used for osu!catch
+- `fruit-ryuuta.png` will no longer work from this point forward.
+- New catcher states (and images).
+- New osu!catch specific combobursts (`comboburst-fruits.png`).
+  - osu!standard combobursts will no longer be used for osu!catch.
 
 ### 2.4
 
 **osu!mania stage scaling adjustments**
 
-- downscale combo counter and hitbursts
-- column lines are drawn on both sides of the column when columns are spaced
-- introduction of hold note tails on release (works for all versions)
+- Downscale combo counter and hitbursts.
+- Column lines are drawn on both sides of the column when columns are spaced.
+- Introduction of hold note tails on release (works for all versions).
 
 ### 2.5
 
 **osu!mania column and upscroll adjustments**
 
-- new commands: `KeyFlipWhenUpsideDown` and `NoteFlipWhenUpsideDown`
-- new command: `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
-- new commands: `LightingNWidth` and `LightingLWidth`
+- New commands:
+  - `KeyFlipWhenUpsideDown` and `NoteFlipWhenUpsideDown`
+  - `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
+  - `LightingNWidth` and `LightingLWidth`
 
 ### latest
 
-**always the newest version**
+**Always the newest version**
 
 If your skin folder does not contain a `skin.ini` file, it will default to this version.
 
-- So not use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for)
-- always uses the latest version the game supports
+- **Never** use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for).
+- Always uses the latest version the game supports.
 
 ### User
 
-**not a version, but always force [latest](#latest)**
+**Not a version, but always force [latest](#latest)**
 
-- So not use this method when distribute skins!
+- **Never** use this method when distribute skins!
 - The skin folder **must** be named `User`.
 - Use this method if you only want to change a few things (e.g. cursor or numbers, etc).
 - Does not require the `skin.ini` file.
 - This folder will always force `Version: latest`
 
-## FAQ
+## Notes
 
-### Blank
-
-See this [blank](Blank) for a blank copy of the `skin.ini` file.
-
-### Commenting
-
-*tl;dr use `//`*
-
-To add comments (notes for people to read or code that osu! will ignore), use `//`.
-For example:
-
-```
-// Like in .osu and .osb files, single-line comments are OK, like this one!
-```
+Before viewing the `skin.ini` commands below, here are some notes.
 
 ### 1's and 0's
 
 *tl;dr `0 = no` and `1 = yes`*
 
-Some commands only accept a boolean value (a `true` or a `false` value).
-When skinning, osu! is setup to only recognize a `1` (one) as a `true` while a `0` (zero) as `false`.
+Some commands only accept a boolean value (a `true` or a `false` value). When skinning, *osu!* is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
 
 Here is a classic example:
 
@@ -129,8 +119,7 @@ Here is a classic example:
 |:--------------------------:|:--------------------------:|
 | ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
 
-Note that Reisen, the sliderball, does **not** flip when `0` is used.
-However, Reisen does flip when a `1` is used.
+Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
 
 ### Numbers and Integers
 
@@ -148,16 +137,13 @@ When viewing these tables:
 A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
 
 - For RGB, the format looks like this `R, G, B` where `R` is red, `G` is green, and `B` is blue.
-  - Most commands will only accept _RGB_, without the alpha.
-    If you specify an alpha value here, osu! will ignore it.
+  - Most commands will only accept _RGB_, without the alpha. If you specify an alpha value here, osu! will ignore it.
 - For RGB(a), the format looks like this `R, G, B, a`, in addition to above, `a` means alpha (opacity).
-  - A few commands accept _RGB(a)_, with the alpha.
-    If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
+  - A few commands accept _RGB(a)_, with the alpha. If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
 
 ### Sections
 
-osu! organizes the commands with a heading command. Which may look like this `[General]`.
-osu! only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
+*osu!* organizes the commands with a heading command. Which may look like this `[General]`. *osu!* only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
 
 ## \[General\]
 
@@ -284,7 +270,7 @@ osu! only uses five sections throughout the skin.ini file, which are indicated w
 
 ## \[Colours\]
 
-**Notice**: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!
+*Note: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!*
 
 - `Combo1:`
   - Question: What colour is used for the last combo?
@@ -464,7 +450,7 @@ osu! only uses five sections throughout the skin.ini file, which are indicated w
   - not using enough and the missing values will use default values.
 - **Each keycount *must* start a new section**, it should look like this (but with actual commands):
 
-```ini
+```
 ...
 
 [Mania]
@@ -498,7 +484,7 @@ Keys: 5
     - `16`
     - `18`
   - Notes:
-    - This is **_required_** per key set
+    - This is ***required*** per key set
 - `ColumnStart:`
   - Question: Where does the left column start?
   - Value: _number_
