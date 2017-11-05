@@ -234,14 +234,12 @@ Examples:
 
 *hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is successfully hit.
 
-- Unconfirmed: Bit 0 (1): normal.
+- Bit 0 (1): normal.
 - Bit 1 (2): whistle.
 - Bit 2 (4): finish.
 - Bit 3 (8): clap.
 
-Unconfirmed: The special value 0 is the same as 1 (hitnormal).
-
-Unconfirmed: If bit 0 is not set, the normal sound is not played.
+The normal sound is always played, so bit 0 is irrelevant today. The only exception is for osu!mania, with the skin's *LayeredHitSounds* property.
 
 Multiple sounds will overlap if multiple bits are set.
 
@@ -276,7 +274,7 @@ The *extras* field is optional and define additional parameters related to the h
 
 When *sampleSet* is 0, its value is inherited from the timing point.
 
-Unconfirmed: When *additionSet* is 0, it takes the value of *sampleSet*.
+Today, *additionSet* inherits from *sampleSet*. Otherwise, it inherits from the timing point.
 
 *customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`. The special index 1 doesn't appear in the filename, for example `normal-hitfinish.wav`. The special index 0 means it is inherited from the timing point.
 
@@ -349,7 +347,7 @@ The duration you will get is in the same unit as *BeatDuration*, usually millise
 
 *edgeAdditions (sampleSet:additionSet|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additionSet* are the same as for hit circles' *extras* fields.
 
-Unconfirmed: When *sampleSet* is 0, it inherits from the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from its paired *sampleSet*, the *additionSet* in *extras*, the *sampleSet* in *extras*, then the timing point.
+When *sampleSet* is 0, it inherits from the *sampleSet* in the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from the *additionSet* in *extras*, then the timing point.
 
 The final *extras* defines the sample to use on the slider body. It functions like *extras* for a circle.
 
