@@ -255,7 +255,11 @@ The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, wher
 - *sound* is normal, whistle, finish, or clap.
 - *index* is the custom index. It is omitted when equal to 0 or 1.
 
-Unconfirmed: When the sample file cannot be found, it falls back on the corresponding sample without the sample index.
+The loader searches for the sample file in one these directories, by order of priority:
+
+1. Inside the beatmap directory with its index, *unless* the custom index 0.
+2. Inside the skin directory, without the index.
+3. Inside the default osu! resources, without the index.
 
 #### Extras
 
