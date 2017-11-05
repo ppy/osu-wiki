@@ -80,7 +80,7 @@ On a PC platform, they will work. However, on a mobile platform, they will not w
 
 _For a list of flag icons, see [issue \#328](https://github.com/ppy/osu-wiki/issues/328)._
 
-All of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. With a few exceptions being the multi-flag icons which are in the `.png` format.
+All of these icons uses the two letter code (all capital letters) and ends with the `.gif` extension. With a few exceptions being the multi-flag icons which are in the `.png` format.
 
 When adding a flag inline, use this format:
 
