@@ -10,4 +10,4 @@ Pour les problèmes de compte, les problèmes de paiement, les suivis de bans, l
 
 ## Contacter peppy
 
-Si tu souhaites me contacter personnellement pour des raisons non liées à _osu!_, tu peux me contacter à [pe@ppy.sh](mailto:pe@ppy.sh). Saches que toute requête liée au compte ou au support envoyée à cet e-mail sera marquée comme spam.
+Si tu souhaites me contacter personnellement pour des raisons non liées à _osu!_, tu peux me contacter à [pe@ppy.sh](mailto:pe@ppy.sh). Sache que toute requête liée au compte ou au support envoyée à cet e-mail sera marquée comme spam.
