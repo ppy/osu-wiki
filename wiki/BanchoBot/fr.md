@@ -7,27 +7,26 @@ BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) 
 
 ## Ouverture de BanchoBot
 
-Pour ouvrir BanchoBot, écrivez `!help` dans le chat (ou n'importe quelle des commandes listées ci-dessous) dans la console de chat (n'importe quel onglet fera l'affaire).
-Une fois que vous avez fait ça, l'onglet BanchoBot s'ouvrira.
+Pour ouvrir BanchoBot, écrivez `!help` dans le chat dans la console (n'importe quel onglet public fera l'affaire).
 
-En faisant ça, vous verrez une liste de commandes (celles dans le tableau ci-dessous).
+Une fois fait, un message privé avec BanchoBot s'ouvrira, et vous aurez la liste des commandes disponibles (voir le tableau suivant).
 
 ## Commandes
 
-Vous pouvez utiliser la commande `!<command>` ou `/bb <command>` dans n'importe quel onglet de chat.
+Vous pouvez utiliser la commande `!<commande>` ou `/bb <commande>` dans n'importe quel onglet de chat public.
 
-| `<command>`                    | Effet                                                                                         | Exemple                             | Exemple de réponse de BanchoBot                                           |
-|--------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------|
-| `WHERE <user>`                 | Montre la localisation du joueur donné                                                        | `!where John`                       | John is in USA                                                             | 
-| `STATS <user>`                 | Montre le statut du joueur donné (basé sur l'onglet actuel du joueur)                         | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.  | 
-| `FAQ <Lang-code><item> <list>` | Usages variés. [list] liste des commandes utilisables                                         | `!faq wiki` / `!faq ru:wiki`        | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!|
-| `REPORT <reason>`              | Appelle un modérateur                                                                         | `!report Thomas offending comments` | Chat moderators has been alerted. Thanks for your help.                |
-| `REQUEST <list>`               | Montre une requête de mod au hasard. [list] Montre 5 requêtes de mod au hasard.               | `/bb request`                       | Seether - Fake It by [Dellirium]                                           |
-| `ROLL <number>`                | Lance un dé (virtuel) et donne un nombre au hasard entre 1 et le nombre donné (défaut à 100)  | `/bb roll 9000`                     | John rolls 1337 point(s)                                                   |
+| `<commande>`                          | Effet                                                                                                                               | Exemple                             | Exemple de réponse de BanchoBot                                         |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------|
+| `WHERE <utilisateur>`                 | Affiche la localisation du joueur donné.                                                                                            | `!where John`                       | John is in USA                                                          | 
+| `STATS <utilisateur>`                 | Affiche le statut du joueur donné (basé sur l'onglet actuel du joueur).                                                             | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. | 
+| `FAQ <code-de-langue><objet> <liste>` | Questions fréquemment posées, accessibles par mots-clé. !faq list en donne une liste exhaustive.                                    | `!faq wiki` / `!faq ru:wiki`        | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
+| `REPORT <raison>`                     | Signale qu'un utilisateur a enfreint les règles. Remplacez les escpaces du nom d'utilisateur par des underscored (`_`).             | `!report Thomas offending comments` | Chat moderators has been alerted. Thanks for your help.                 |
+| `REQUEST <liste>`                     | Affiche une requête de mod au hasard. [liste] Montre 5 requêtes de mod au hasard prise dans les maps données en lien dans #modreqs. | `/bb request`                       | Seether - Fake It by [Dellirium]                                        |
+| `ROLL <nombre>`                       | Lance un dé (virtuel) et donne un nombre au hasard entre 1 et le nombre donné (défaut à 100) inclus.                                | `/bb roll 9000`                     | John rolls 1337 point(s)                                                |
 
 Notes:
 
-- La liste de maps pour `REQUEST` ne se met pas à jour avant longtemps, vous pourriez donc tomber sur une map déjà ranked.
+- La liste de maps pour `REQUEST` se met rarement à jour, vous pourriez donc tomber sur une map déjà ranked.
 
 ## Caprices de BanchoBot
 
