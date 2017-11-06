@@ -1,4 +1,4 @@
-Expert (Português)
+Expert
 =====================
 
 Como forma de estender os limites de beatmapping, Experts foram criados para serem níveis *semelhantes* a [Insane](/wiki/Difficulties/osu!/Insane) mas vão além.

@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (Español)
+Quality Assurance Team
 =====================================
 
 El **Quality Assurance Team**, más comúnmente referido como QAT, son los llamados judictadores de control de calidad quienes checan los mapas recientemente calificados por su calidad y jugabilidad, estos mapas son retraidos de su estado de calificación con un aviso de descalificación en caso de ser necesario. Ellos forman el baluarte de control estándar y hacen cumplir la expectativa básica de calidad para todos los mapas que entran en el proceso de clasificación.

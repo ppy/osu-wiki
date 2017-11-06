@@ -1,4 +1,4 @@
-# BanchoBot (한국어)
+# BanchoBot
 
 초봇이란반
 ----------

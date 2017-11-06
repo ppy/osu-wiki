@@ -1,4 +1,4 @@
-Beatmap ranking procedure (日本語)
+Beatmap ranking procedure
 ====================================
 
 譜面が最初に作られた時、それはPendingかWork in Progress(WIP)のセクションに置かれ、これらの譜面は"Unranked"と呼ばれます。Unrankedの譜面はスコアボード/ランキングの表示はなく、一定期間後にGraveyardに移動されます。スコアボードを表示させるためには"Ranked"に移動されていなければならず、Beatmap Approvalのプロセスを介する必要があります。まずはbubbleを手に入れ、その次にRankedされます。[BAT達だけがBubbleとRankedを与えることが出来ます](/wiki/People/Beatmap_Nomination_Group)。

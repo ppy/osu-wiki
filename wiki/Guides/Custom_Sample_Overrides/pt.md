@@ -1,4 +1,4 @@
-Custom Sample Overrides (Português)
+Custom Sample Overrides
 ======================================
 
 No momento, sample-sets do beatmap e sample-sets da skin podem ser customizados.

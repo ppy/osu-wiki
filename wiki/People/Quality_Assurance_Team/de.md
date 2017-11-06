@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (Deutsch)
+Quality Assurance Team
 ==================================
 
 Das **Quality Assurance Team**, allgemein auch **QAT**, sind für die Qualitätskontrolle aller Beatmaps im Qualified zuständig, um deren Qualität und Spielbarkeit zu gewährleisten. Dabei kann es zum möglichen Unranken jeweiliger Beatmaps kommen. Sie bilden quasi für den Norm eine Schutzmauer und kontrollieren und setzen die grundlegenden Erwartungen im Bezug auf Qualität aller Beatmaps, die das Ranking-Verfahren vollziehen, durch.

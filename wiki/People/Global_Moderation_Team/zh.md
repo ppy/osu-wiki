@@ -1,4 +1,4 @@
-Global Moderation Team (中文)
+Global Moderation Team
 =================================
 
 **Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是 osu!Staff 的一部分，主要负责管理论坛以及各个聊天室的纪律。大部分 GMT 都有 [modding](/wiki/Modding) 跟 [mapping](/wiki/Beatmapping) 的基础，当中有少数依然活跃于以上的圈子。但是，向他们询问有关 modding 以及 mapping 的事情应被视为最后手段。

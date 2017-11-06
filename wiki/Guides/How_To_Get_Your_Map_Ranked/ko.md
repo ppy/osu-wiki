@@ -1,4 +1,4 @@
-How to Get Your Map Ranked (한국어)
+How to Get Your Map Ranked
 ====================================
 
 당신의 맵을 Ranked로 만드는게 힘드신가요? 잘 찾아오셨습니다.

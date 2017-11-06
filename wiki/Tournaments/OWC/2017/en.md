@@ -35,7 +35,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | ------------ | -------------- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Mapset Selectors | [![][flag_JP] Delis](https://osu.ppy.sh/users/1603923), [![][flag_DE] Okorin](https://osu.ppy.sh/users/1623405), [![][flag_KR] ToGlette](https://osu.ppy.sh/users/1076236) |
-| Commentators | -- to be announced -- |
+| Commentators | [![][flag_HK] - G I D Z -](https://osu.ppy.sh/users/2286528), [![][flag_AU] Bauxe](https://osu.ppy.sh/users/1881685), [![][flag_GB] Doomsday](https://osu.ppy.sh/users/18983), [![][flag_CA] Evrien](https://osu.ppy.sh/users/791660), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_AU] Kano](https://osu.ppy.sh/users/3036203), [![][flag_AT] Omgforz](https://osu.ppy.sh/users/578943), [![][flag_FI] ProfessionalBox](https://osu.ppy.sh/users/3250792), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -43,6 +43,55 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Sign up here!](https://osu.ppy.sh/community/tournaments/12)
+
+------------------------------------------------------------------------
+
+## Participants
+
+### Confirmed Rosters
+
+| | Country | Team Members |
+| ---: | :---: | :--- |
+| ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Dumii](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404), [Lunirs](https://osu.ppy.sh/users/2118945), [Blobby3000](https://osu.ppy.sh/users/6916774), [ithgyu](https://osu.ppy.sh/users/5113781), [GranDSenpai](https://osu.ppy.sh/users/3997580), [Weber](https://osu.ppy.sh/users/6410432) |
+| ![][flag_AT] | **Austria** | **[Akane-Yuki](https://osu.ppy.sh/users/3656589)**, [Fedora Goose](https://osu.ppy.sh/users/2323131), [BlueFlame](https://osu.ppy.sh/users/3506191), [Spark-desu](https://osu.ppy.sh/users/4601608), [Kizan](https://osu.ppy.sh/users/3074197), [Teppichreini](https://osu.ppy.sh/users/1371974), [Myst1k](https://osu.ppy.sh/users/5302223), [Tomadoi](https://osu.ppy.sh/users/5712451) |
+| ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/users/754565)**, [Neliel](https://osu.ppy.sh/users/1500305), [imagaK](https://osu.ppy.sh/users/2022445), [Beafowl](https://osu.ppy.sh/users/2438122), [Risiing](https://osu.ppy.sh/users/2282047), [Firstus](https://osu.ppy.sh/users/1856829), [Sakurauchi Riko](https://osu.ppy.sh/users/5710809), [Shiratu](https://osu.ppy.sh/users/1731277) |
+| ![][flag_IL] | **Israel** | **[MrPotato](https://osu.ppy.sh/users/2787415)**, [Slendy](https://osu.ppy.sh/users/2689577), [Kyoko](https://osu.ppy.sh/users/3382084), [Bladma](https://osu.ppy.sh/users/3493078), [Nalian](https://osu.ppy.sh/users/3909656), [Master](https://osu.ppy.sh/users/3973608), [Jumbo](https://osu.ppy.sh/users/5509809), [Okino may](https://osu.ppy.sh/users/7730603) |
+| ![][flag_JP] | **Japan** | **[Sinch](https://osu.ppy.sh/users/360552)**, [Shigure chan](https://osu.ppy.sh/users/1048423), [_YuriNee](https://osu.ppy.sh/users/1794082), [Super Arrow](https://osu.ppy.sh/users/1970239), [Sheba](https://osu.ppy.sh/users/2477878), [Shirasaka Koume](https://osu.ppy.sh/users/3062998), [N2U](https://osu.ppy.sh/users/5066908), [Turbo_BBA](https://osu.ppy.sh/users/6415964) |
+| ![][flag_LV] | **Latvia** | **[Forseen](https://osu.ppy.sh/users/556012)**, [Choilicious](https://osu.ppy.sh/users/2129634), [Jesus[Krists]](https://osu.ppy.sh/users/2842992), [Emula](https://osu.ppy.sh/users/2891792), [xoho](https://osu.ppy.sh/users/3647897), [snoopeh](https://osu.ppy.sh/users/5597947), [waywern2012](https://osu.ppy.sh/users/5870453), [LINKI](https://osu.ppy.sh/users/8068903) |
+| ![][flag_PL] | **Poland** | **[Wilchq](https://osu.ppy.sh/users/2021758)**, [Rafis](https://osu.ppy.sh/users/2558286), [WubWoofWolf](https://osu.ppy.sh/users/39828), [MrBooM](https://osu.ppy.sh/users/1837989), [Astar](https://osu.ppy.sh/users/27055), [Piggey](https://osu.ppy.sh/users/4163860), [[ Wakson ]](https://osu.ppy.sh/users/3048222), [Alien](https://osu.ppy.sh/users/4743869) |
+
+### Pending Rosters
+
+If you signed up for a country listed here, please contact your designated team creator as soon as possible.
+
+| | Country | Team Creator |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | [Lexalia](https://osu.ppy.sh/users/1887616) |
+| ![][flag_BR] | **Brazil** | [fabriciorby](https://osu.ppy.sh/users/209664) |
+| ![][flag_CA] | **Canada** | [Azer](https://osu.ppy.sh/users/2155578) |
+| ![][flag_CL] | **Chile** | [kafaN](https://osu.ppy.sh/users/1489743) |
+| ![][flag_CN] | **China** | [Crystal](https://osu.ppy.sh/users/1646397) |
+| ![][flag_DK] | **Denmark** | [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![][flag_FI] | **Finland** | [Wucki](https://osu.ppy.sh/users/5287410) |
+| ![][flag_FR] | **France** | [Musty](https://osu.ppy.sh/users/251683) |
+| ![][flag_HK] | **Hong Kong** | [- G I D Z -](https://osu.ppy.sh/users/2286528) |
+| ![][flag_HU] | **Hungary** | [aleho8](https://osu.ppy.sh/users/6127312) |
+| ![][flag_ID] | **Indonesia** | [Reyuza](https://osu.ppy.sh/users/2454767) |
+| ![][flag_IT] | **Italy** | [Koba](https://osu.ppy.sh/users/4448118) |
+| ![][flag_MY] | **Malaysia** | [ClawViper](https://osu.ppy.sh/users/2681361) |
+| ![][flag_MX] | **Mexico** | [Broodich](https://osu.ppy.sh/users/2484629) |
+| ![][flag_NL] | **Netherlands** | [jackylam5](https://osu.ppy.sh/users/1540807) |
+| ![][flag_NO] | **Norway** | [-GN](https://osu.ppy.sh/users/895581) |
+| ![][flag_PH] | **Philippines** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |
+| ![][flag_RO] | **Romania** | [Rohulk](https://osu.ppy.sh/users/3219026) |
+| ![][flag_RU] | **Russian Federation** | [Kert](https://osu.ppy.sh/users/119933) |
+| ![][flag_SG] | **Singapore** | [GSBlank](https://osu.ppy.sh/users/2312106) |
+| ![][flag_KR] | **South Korea** | [Neta](https://osu.ppy.sh/users/832084) |
+| ![][flag_SE] | **Sweden** | [-Kupo-](https://osu.ppy.sh/users/4343103) |
+| ![][flag_TW] | **Taiwan** | [Flask](https://osu.ppy.sh/users/959763) |
+| ![][flag_GB] | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![][flag_US] | **United States** | [Toy](https://osu.ppy.sh/users/2757689) |
+
 
 ------------------------------------------------------------------------
 
@@ -190,7 +239,9 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
@@ -200,6 +251,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
@@ -221,3 +273,6 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
+[flag_LV]: /wiki/shared/flag/LV.gif
+[flag_RO]: /wiki/shared/flag/RO.gif

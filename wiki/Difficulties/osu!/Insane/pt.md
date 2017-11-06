@@ -1,4 +1,4 @@
-Insane (Português)
+Insane
 =====================
 
 Insane são o nível mais dificil em um mapset comum de 4 níveis. Alguns outros nomes também são utilizados com significado parecido com "insane", como *Lunatic* ("Maluco", como é mostrado nas dificuldades máximas nas series *Touhou*), *Another* (series de *IIDX beatmania*), *Extreme* (series de *Jubeat*), etc.
