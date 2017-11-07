@@ -1,5 +1,5 @@
-Storyboarding
-===============
+Storyboards
+===========
 
 ![Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"](Sbpassing.png "Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"")
 ![Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.](Sbfailing.png "Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.")
