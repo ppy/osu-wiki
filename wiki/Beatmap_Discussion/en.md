@@ -1,22 +1,22 @@
-# v2
+# Beatmap Discussion
 
-Modding v2 is now live on Stable (Latest), Beta, and Cutting Edge!
+Beatmap Discussion is now live on Stable (Latest), Beta, and Cutting Edge!
 
-## Submitting a beatmap for Modding v2
+## Submitting a beatmap for Beatmap Discussion
 
 ### New beatmaps
 
-New beatmaps submitted via the Beatmap Submission System will use Modding v2. This currently excludes Stable (Fallback).
+New beatmaps submitted via the Beatmap Submission System will use Beatmap Discussion. This currently excludes Stable (Fallback).
 
 ### Old beatmaps
 
-A staff member has to move the beatmap manually to use Modding v2. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets.
+A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets.
 
 ### Returning to the old modding system
 
 You can access the old modding page by clicking on the speech bubble in the song select and selecting `Beatmap Topic` or `Quick Reply` in the beatmap editor via the `Web` menu, then clicking any selection from the list. You can also find it by looking in the creator's post history via their profile.
 
-## Accessing the Modding v2 page
+## Accessing the Beatmap Discussion page
 
 ### Through new.ppy.sh:
 
@@ -26,9 +26,9 @@ Click `Discussion` on the beatmap page.
 
 ### Through osu.ppy.sh:
 
-Clicking Modding/Discussion on the beatmap's page will take you to the page, if it's currently in the Modding v2 system.
+Clicking Modding/Discussion on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
 
-## Modding v2 page
+## Beatmap Discussion page
 
 ![](img/modding.jpg)
 
@@ -102,6 +102,7 @@ This is where you type your mod. If you use the Timeline section, you must inclu
 If your timestamp submitted through the Timeline section is close to another mod already posted, you will have to confirm that the mod doesn't address the issue you are currently submitting. Please check the discussion field before checking the box!
 
 #### Mod Type
+
 This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.. You can add Hype to the Beatmap by submitting Praise in the General (All Difficulties) section.
 
 ### Mod Discussion Field
@@ -122,7 +123,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 
 ## Reminders
 
-- Submit your beatmap through Stable (Latest), Beta, or Cutting Edge to use Modding v2. Fallback submits to the old system.
+- Submit your beatmap through Stable (Latest), Beta, or Cutting Edge to use Beatmap Discussion. Fallback submits to the old system.
 - Choose the correct mode and difficulty you wish to mod!
 - Select the proper section you are submitting your mod to.
 - Only post ONE issue at a time. Do not submit multiple issues in a single post!
@@ -149,23 +150,23 @@ Your post will be submitted! Start over at step 3 if you wish to continue moddin
 
 ## FAQ
 
-### Is Kudosu! available in ModdingV2?
+### Is Kudosu! available in Beatmap Discussion?
 
-Kudosu! is not yet implemented in Modding v2. You will not recieve any for submissions you make in the Discussion section. However, It is unknown if current submissions will receive Kudsou! when it is finally implemented.
+Kudosu! is not yet implemented in Beatmap Discussion. You will not recieve any for submissions you make in the Discussion section. However, It is unknown if current submissions will receive Kudsou! when it is finally implemented.
 
 ### How are beatmaps nominated?
 
-Modding v2 follows the same procedure as its predecessor. 2 Beatmap Nominators are required to nominate the Meatmapset for qualification. Star Priority has been replaced with Hype and requires 12 Hype before it can be nominated.
+Beatmap Discussion follows the same procedure as its predecessor. 2 Beatmap Nominators are required to nominate the Meatmapset for qualification. Star Priority has been replaced with Hype and requires 12 Hype before it can be nominated.
 
-### Will I be able to mod with the older system after Modding v2 releases?
+### Will I be able to mod with the older system after Beatmap Discussion releases?
 
-You should mod with the system the creator has chosen. If they focus on V2, mod with V2. Otherwise your mod may go unnoticed.
+You should mod with the system the creator has chosen. If they focus on using the Beatmap Discussion system,mod accordingly. Otherwise your mods may go unnoticed.
 
-### I don't like Modding v2! How do go back to the older system?
+### I don't like Beatmap Discussion! How do go back to the older system?
 
-A thread of the old beatmap is still created through Beatmap Submission. If the creator wishes to return to the older system, they can access it simply through the speech bubbles in the song select screen, through the web menu in the editor, or in the creator's post history. Make sure to create a link in the description of the beatmap for ease of accessibility. The "Modding / Discussion" link will take you to the MV2 page if your beatmap was submmitted to MV2.
+A thread of the old beatmap is still created through Beatmap Submission. If the creator wishes to return to the older system, they can access it simply through the speech bubbles in the song select screen, through the web menu in the editor, or in the creator's post history. Make sure to create a link in the description of the beatmap for ease of accessibility. The "Modding / Discussion" link will take you to the Beatmap Discussion page if your beatmap was submmitted to Beatmap Discussion.
 
 ## Trivia
 
 - Original forum post: [Modding V2 Guide](/community/forums/topics/650961) by [Lanturn](/users/1446665)
-- pishifat's Video on Modding v2: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- pishifat's Video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
