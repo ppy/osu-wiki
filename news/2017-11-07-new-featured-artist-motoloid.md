@@ -19,11 +19,11 @@ Here's a sample of a few, complete with maps already made and ready to play:
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/emerald-galaxy.jpg)](https://osu.ppy.sh/s/682286)
 
 <center>
-    **Yuyoyuppe - Emerald Galaxy**
+**Yuyoyuppe - Emerald Galaxy**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/363.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/363.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid fame stretches his producing muscles to create something entirely new, and enthralling. Mapped by [**pishifat**](https://osu.ppy.sh/users/3178418).
@@ -31,11 +31,11 @@ A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682286)
 
 <center>
-    **baker - For a Dead Girl+**
+**baker - For a Dead Girl+**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/356.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/356.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 Deceptively entrancing, **baker's** musical mastery is plain to the ear in this fairly progressive track, featuring the vocals of Megurine Luka. Don't let it catch you off guard - things get heated in the second half of the song, and you might not see it coming! Mapped by [**handsome**](https://osu.ppy.sh/users/2123087).
@@ -43,11 +43,11 @@ Deceptively entrancing, **baker's** musical mastery is plain to the ear in this 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/feel-your-love.jpg)](https://osu.ppy.sh/s/682289)
 
 <center>
-    **Hige Driver - I Wanna Feel Your Love (feat. shully)**
+**Hige Driver - I Wanna Feel Your Love (feat. shully)**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/359.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/359.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 Thumping house-style beats and overarching club synths mix together with _shully_'s rising voice to create an experience that leaves you longing for more. Mapped by [**Delis**](https://osu.ppy.sh/users/1603923).
@@ -55,11 +55,11 @@ Thumping house-style beats and overarching club synths mix together with _shully
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/miracle.jpg)](https://osu.ppy.sh/s/682290)
 
 <center>
-    **Hige Driver - Miracle Sugite Yabai (feat. shully)**
+**Hige Driver - Miracle Sugite Yabai (feat. shully)**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/360.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/360.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyrical mastery, this track is sure to get you swinging. Mapped by [**Milan-**](https://osu.ppy.sh/users/1052994).
@@ -67,11 +67,11 @@ Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyric
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/palette.jpg)](https://osu.ppy.sh/s/682416)
 
 <center>
-    **Hige Driver - Palette**
+**Hige Driver - Palette**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/361.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/361.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features kickin' drum 'n bass backing lines set to a new vocal imagining. Mapped by [**Jounzan**](https://osu.ppy.sh/users/1848318).
@@ -79,11 +79,11 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/kimiga.jpg)](https://osu.ppy.sh/s/682595)
 
 <center>
-    **baker - Kimi ga Kimi ga -vocanico remix-**
+**baker - Kimi ga Kimi ga -vocanico remix-**
 
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/19/previews/357.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+<source src="https://assets.ppy.sh/artists/19/previews/357.mp3" type="audio/mpeg">
+</audio>
 </center>
 
 Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an _osu!_ classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377).
