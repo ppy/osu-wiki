@@ -16,9 +16,9 @@ We have **nine** assorted tracks from **four** different artists available for y
 
 Here's a sample of a few, complete with maps already made and ready to play:
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/emerald-galaxy.jpg)](https://osu.ppy.sh/s/682286)
+## Yuyoyuppe - Emerald Galaxy
 
-**Yuyoyuppe - Emerald Galaxy**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/emerald-galaxy.jpg)](https://osu.ppy.sh/s/682286)
 
 <center>
 <audio controls>
@@ -28,9 +28,9 @@ Here's a sample of a few, complete with maps already made and ready to play:
 
 A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid fame stretches his producing muscles to create something entirely new, and enthralling. Mapped by [**pishifat**](https://osu.ppy.sh/users/3178418).
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682286)
+## baker - For a Dead Girl+
 
-**baker - For a Dead Girl+**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682286)
 
 <center>
 <audio controls>
@@ -40,9 +40,9 @@ A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid
 
 Deceptively entrancing, **baker's** musical mastery is plain to the ear in this fairly progressive track, featuring the vocals of Megurine Luka. Don't let it catch you off guard - things get heated in the second half of the song, and you might not see it coming! Mapped by [**handsome**](https://osu.ppy.sh/users/2123087).
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/feel-your-love.jpg)](https://osu.ppy.sh/s/682289)
+## Hige Driver - I Wanna Feel Your Love (feat. shully)
 
-**Hige Driver - I Wanna Feel Your Love (feat. shully)**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/feel-your-love.jpg)](https://osu.ppy.sh/s/682289)
 
 <center>
 <audio controls>
@@ -52,9 +52,9 @@ Deceptively entrancing, **baker's** musical mastery is plain to the ear in this 
 
 Thumping house-style beats and overarching club synths mix together with _shully_'s rising voice to create an experience that leaves you longing for more. Mapped by [**Delis**](https://osu.ppy.sh/users/1603923).
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/miracle.jpg)](https://osu.ppy.sh/s/682290)
+## Hige Driver - Miracle Sugite Yabai (feat. shully)
 
-**Hige Driver - Miracle Sugite Yabai (feat. shully)**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/miracle.jpg)](https://osu.ppy.sh/s/682290)
 
 <center>
 <audio controls>
@@ -64,9 +64,9 @@ Thumping house-style beats and overarching club synths mix together with _shully
 
 Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyrical mastery, this track is sure to get you swinging. Mapped by [**Milan-**](https://osu.ppy.sh/users/1052994).
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/palette.jpg)](https://osu.ppy.sh/s/682416)
+## Hige Driver - Palette
 
-**Hige Driver - Palette**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/palette.jpg)](https://osu.ppy.sh/s/682416)
 
 <center>
 <audio controls>
@@ -76,9 +76,9 @@ Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyric
 
 A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features kickin' drum 'n bass backing lines set to a new vocal imagining. Mapped by [**Jounzan**](https://osu.ppy.sh/users/1848318).
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/kimiga.jpg)](https://osu.ppy.sh/s/682595)
+## baker - Kimi ga Kimi ga -vocanico remix-
 
-**baker - Kimi ga Kimi ga -vocanico remix-**
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/kimiga.jpg)](https://osu.ppy.sh/s/682595)
 
 <center>
 <audio controls>
