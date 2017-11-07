@@ -18,9 +18,9 @@ Here's a sample of a few, complete with maps already made and ready to play:
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/emerald-galaxy.jpg)](https://osu.ppy.sh/s/682286)
 
-<center>
 **Yuyoyuppe - Emerald Galaxy**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/363.mp3" type="audio/mpeg">
 </audio>
@@ -30,9 +30,9 @@ A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682286)
 
-<center>
 **baker - For a Dead Girl+**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/356.mp3" type="audio/mpeg">
 </audio>
@@ -42,9 +42,9 @@ Deceptively entrancing, **baker's** musical mastery is plain to the ear in this 
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/feel-your-love.jpg)](https://osu.ppy.sh/s/682289)
 
-<center>
 **Hige Driver - I Wanna Feel Your Love (feat. shully)**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/359.mp3" type="audio/mpeg">
 </audio>
@@ -54,9 +54,9 @@ Thumping house-style beats and overarching club synths mix together with _shully
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/miracle.jpg)](https://osu.ppy.sh/s/682290)
 
-<center>
 **Hige Driver - Miracle Sugite Yabai (feat. shully)**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/360.mp3" type="audio/mpeg">
 </audio>
@@ -66,9 +66,9 @@ Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyric
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/palette.jpg)](https://osu.ppy.sh/s/682416)
 
-<center>
 **Hige Driver - Palette**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/361.mp3" type="audio/mpeg">
 </audio>
@@ -78,9 +78,9 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
 
 [![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/kimiga.jpg)](https://osu.ppy.sh/s/682595)
 
-<center>
 **baker - Kimi ga Kimi ga -vocanico remix-**
 
+<center>
 <audio controls>
 <source src="https://assets.ppy.sh/artists/19/previews/357.mp3" type="audio/mpeg">
 </audio>
