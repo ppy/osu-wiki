@@ -80,7 +80,7 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
     </audio>
 </center>
 
-Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an _osu!_ classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377)
+Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an _osu!_ classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377).
 
 ------
 
