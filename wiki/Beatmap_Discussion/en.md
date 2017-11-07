@@ -20,29 +20,33 @@ You can access the old modding page by clicking on the speech bubble in the song
 
 ### Through new.ppy.sh:
 
-Click `Discussion` on the beatmap page.
+Click on the `Discussion` button in the beatmap info page.
 
-![](img/info.jpg)
+![](img/info.jpg "Beatmap info page")
 
 ### Through osu.ppy.sh:
 
-Clicking Modding/Discussion on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
+Clicking on Modding/Discussion on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
 
 ## Beatmap Discussion page
 
-![](img/modding.jpg)
+![](img/beatmap-discussion.jpg "The top portion of the Beatmap Discussion page")
 
 ### Mode selection
 
-Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. Only modes the beatmapset has a difficulty for will show up.
+![](img/modes.jpg "Mode selection")
 
-### Beatmap Page / Difficulty Selection
+Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. Only modes the beatmapset has a difficulty for will be enabled to click on.
+
+### Beatmap page / Difficulty selection
+
+![](img/difficulty-menu.jpg "Difficulty menu")
 
 Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. Make sure you are on the correct difficulty before submitting mods to the beatmap!
 
-![](img/difficulty_menu.jpg)
+### Modding status
 
-### Modding Status
+![](img/modding-status.jpg "For your sorting needs")
 
 All of the mods below are for the selected difficulty. Clicking any of these will show the specific mods in the timeline and in the Discussion section.
 
@@ -52,15 +56,17 @@ All of the mods below are for the selected difficulty. Clicking any of these wil
 - Praises: Mods that have been submitted as a Praise
 - All: Every Suggestion, Problem, and Praise posted on the beatmap's difficulty and the beatmapset's general section.
 
-### Modding Timeline
+### Modding timeline
+
+![](img/timeline.jpg "Mod posts, time-stamped")
 
 Displays all of the mods made for the difficulty that has a timestamp. Clicking on these will take you down to the mod posted at that current time.
 
-### Beatmap Status
+### Beatmap status
 
-![](img/status.jpg)
+![](img/beatmap-status.jpg "Contains important information!")
 
-#### Beatmap Creator
+#### Beatmap creator
 
 The creator who submitted the beatmap, and shows the submission date, and the date the beatmap was updated last.
 
@@ -78,11 +84,11 @@ Note: the creator can't Hype up their own beatmap. Praise must be done in the Ge
 
 Once a beatmap has accumilated 12 Hype, the beatmap is eligible for Nomination. This works as it did with the old modding system. The beatmap requires 2 nominations by the Beatmap Nominators to move into the qualified state.
 
-### Mod Submission Field
+### Mod submission field
 
-![](img/reply.jpg)
+![](img/mod-submission-field.jpg "The place where modding lives")
 
-#### Mod Section Submission
+#### Mod section submission
 
 This is what section of the beatmap you will be submitting your concerns to.
 
@@ -93,33 +99,38 @@ This is what section of the beatmap you will be submitting your concerns to.
 
 ![](img/history.jpg)
 
-#### Modding Field
+#### Modding field
+
+![](img/modding-field.jpg "Where modding magic happens")
 
 This is where you type your mod. If you use the Timeline section, you must include a timestamp in the post. The first timestamp placed will be the timestamp shown in the Discussion section. The General sections do not require timestamps, but may include them.
 
-#### Similar Post Warning
+#### Similar post warning
+
+![](img/similar-post-warning.jpg)
 
 If your timestamp submitted through the Timeline section is close to another mod already posted, you will have to confirm that the mod doesn't address the issue you are currently submitting. Please check the discussion field before checking the box!
 
-#### Mod Type
+#### Mod type
+
+![](img/mod-type.jpg)
 
 This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.. You can add Hype to the Beatmap by submitting Praise in the General (All Difficulties) section.
 
-### Mod Discussion Field
+### Mod Discussion field
 
 ![](img/discussions.jpg)
 
 #### Functions
 
-- Collapse/Expand All and the ^ arrow: These will show/hide posts.
+- `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
 - Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this.
--  Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
--  CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
--  permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their  submission. Delete allows the submitter to remove their submission.
--  Respond: Reply to the submission. Pressing Enter or clicking Reply afterwards will submit your response.
--  Mark as Resolved: The creator may select this when the issue has been addressed and either accepted or denied.
--  Reopen a Discussion: If the submission needs further discussion, the creator or mod submitter may reopen the  submission by responding and unchecking Resolved.
-
+- Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
+- CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
+- permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
+- Respond: Reply to the submission. Pressing Enter or clicking Reply afterwards will submit your response.
+- Mark as Resolved: The creator may select this when the issue has been addressed and either accepted or denied.
+- Reopen a Discussion: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
 
 ## Reminders
 
@@ -140,13 +151,13 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 
 ## Step by step guide to posting a mod
 
-1. Select the proper game mode at the top of the beatmap's page you wish to mod (Standard, Taiko, Catch, Mania)
-2. Select the difficulty you wish to mod in the drop down menu. (Easy, Normal, Hard, Insane, etc)
+1. Select the proper game mode at the top of the beatmap's page you wish to mod (osu!standard, osu!taiko, osu!catch, osu!mania)
+2. Select the difficulty you wish to mod in the drop down menu. (Easy, Normal, Hard, Insane, etc.)
 3. Select the section you wish to post your mod in (General (all difficulties), General, or Timeline)
 4. Type your mod out in the discussion field. Use a timestamp if you are using the Timeline section. One issue per post!
 5. Select the type of mod you are making (Praise, Suggestion, Problem)
 
-Your post will be submitted! Start over at step 3 if you wish to continue modding the same difficulty. Don't forget to Hype the beatmap if you want to help move it forward for nomination.
+Your post will be submitted! You can restart at step 3 if you wish to continue modding the same difficulty. Don't forget to Hype the beatmap if you want to help move it forward for nomination.
 
 ## FAQ
 
@@ -160,7 +171,7 @@ Beatmap Discussion follows the same procedure as its predecessor. 2 Beatmap Nomi
 
 ### Will I be able to mod with the older system after Beatmap Discussion releases?
 
-You should mod with the system the creator has chosen. If they focus on using the Beatmap Discussion system,mod accordingly. Otherwise your mods may go unnoticed.
+You should mod with the system the creator has chosen. If they focus on using the Beatmap Discussion system, mod accordingly. Otherwise your mods may go unnoticed.
 
 ### I don't like Beatmap Discussion! How do go back to the older system?
 
@@ -168,5 +179,5 @@ A thread of the old beatmap is still created through Beatmap Submission. If the 
 
 ## Trivia
 
-- Original forum post: [Modding V2 Guide](/community/forums/topics/650961) by [Lanturn](/users/1446665)
+- Original forum thread: [Modding V2 Guide](/community/forums/topics/650961) by [Lanturn](/users/1446665)
 - pishifat's Video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
