@@ -30,7 +30,7 @@ A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid
 
 ## baker - For a Dead Girl+
 
-[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682286)
+[![](/wiki/shared/news/2017-11-07-new-featured-artist-motoloid/dead-girl.jpg)](https://osu.ppy.sh/s/682287)
 
 <center>
 <audio controls>
