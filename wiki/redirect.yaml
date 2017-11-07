@@ -13,6 +13,12 @@
 
 "bbcode":                      "BBCode"
 
+"beatmap_discussion":          "Beatmap_Discussion"
+"modding_v2":                  "Beatmap_Discussion"
+"modding/v2":                  "Beatmap_Discussion"
+"moddingv2":                   "Beatmap_Discussion"
+"mv2":                         "Beatmap_Discussion"
+
 "beatmap_editor":                   "Beatmap_Editor"
 "editor":                           "Beatmap_Editor"
 "beatmap_editor/aimod":             "Beatmap_Editor/AiMod"
