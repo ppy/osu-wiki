@@ -2,21 +2,17 @@
 
 *Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
 
-If you are going to make changes to multiple files (this includes uploading, deleting, and/or moving images or files), please see the other guide, [osu!wiki Contribution Guide/Locally](/wiki/owcg/Locally).
-
-If, during any part, you are confused or need help, please send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
+*This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [osu!wiki Contribution Guide/Locally](/wiki/owcg/Locally).
 
 ## Editing
 
-In the code tab, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales. Once you find the correct file click on it, then click on the pencil icon.
+In the code tab, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales. Once you find the correct file, click on it, then click on the pencil icon.
 
 ![](img/online-editing.jpg "Clicking this pencil icon in GitHub will send you to the web editor")
 
-## Making changes
-
 You can now make your changes. When making changes, try to follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
 
-## Saving
+## Saving and committing
 
 When you are done making changes, scroll down to the bottom of the page. You will see this:
 
@@ -38,7 +34,7 @@ Instead, go to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki) 
 
 ![](img/pull-request-button-ppy--osu-wiki.jpg)
 
-On the next page, if you see these two buttons as pictured below, click the `Compare across forks`.
+On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg)
 
@@ -60,12 +56,6 @@ Enter the title and fill in the description box. Once you are ready, click the `
 
 ![](img/new-pull-request.jpg)
 
-## Reviews
+## Finishing remarks
 
-Once you have created your pull request, other osu!wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu!wiki editors in the [osu!dev Discord chat](https://discord.gg/ppy) or in the GitHub comments.
-
-## Merging
-
-For your changes to become live, your pull request has to be merged. Once your pull request has been reviewed, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord chat](https://discord.gg/ppy).
-
-Once this is completed, your changes are officially part of the osu!wiki. Your changes will now show up right away due to caching on the server's end, but they will show up within one to five hours.
+You can now go back to [osu!wiki Contribution Guide § Finishing remarks](/wiki/owcg/#finishing-remarks) for the last piece of information regarding your pull request and changes.
