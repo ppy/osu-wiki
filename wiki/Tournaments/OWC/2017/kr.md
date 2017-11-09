@@ -237,7 +237,9 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 6. 팀의 주장은 팀원들이 경기에 제대로 참가할 수 있도록 할 책임이 있습니다. 팀원이 반드시 최소 3명은 모이도록 하십시오. 그렇지 못할 경우, 해당 경기는 기권처리 될 것입니다.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
@@ -247,6 +249,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
@@ -268,3 +271,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
+[flag_LV]: /wiki/shared/flag/LV.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
