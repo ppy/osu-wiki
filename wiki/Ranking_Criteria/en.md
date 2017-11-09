@@ -24,8 +24,8 @@ Glossary
 - **Hybrid mapset:** A mapset which contains difficulties of multiple game-modes.
 - **Marathon:** A mapset which does not require a full spread of difficulties.
 - **Mapset host:** A user who uploads and manages a mapset.
-- **Guest difficulty:** A difficulty added to a mapset which is not created by a mapset host.
-- **Collaborative difficulty:** A single difficulty mapped by more than one mapper.
+- **Guest difficulty:** A difficulty added to a mapset which is not created by its mapset host.
+- **Collaborative difficulty:** A single difficulty mapped by more than one mapper. Also referred to as "collab".
 
 ### Timing
 
@@ -92,8 +92,8 @@ Glossary
 -   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
 -   **Excluding a mapset’s hardest difficulty, a difficulty’s name must accurately indicate its level of difficulty.** Conventional difficulty names vary between modes, but any set of clearly progressive difficulty names can be alternatively used. Additionally, a mapset’s hardest difficulty should not use a name misrepresentative of its difficulty.
 -   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its mappers’ username or nickname. (e.g. Guest Mapper’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
--   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata are the only exception.
--   **A mapset host must have equal or more drain time mapped than any guest difficulty mappers.** This is to provide credit where credit is due.
+-   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
+-   **A mapset host must have mapped equal or more drain time than any guest difficulty mappers.** This is to provide credit where credit is due.
 -   **A mapset host and guest mappers can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the mapset host must delete the guest contribution upon request. If a guest mapper cannot be contacted for a month, they will be assumed to agree with any changes. 
 
 ### Guidelines
