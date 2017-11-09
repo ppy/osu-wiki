@@ -18,7 +18,7 @@ To make changes, you will need to fork the `osu-wiki` repository.
 
 ![](img/fork.jpg)
 
-Go to your fork (click the `Fork` button again). Seeing something similar to the image below means that you made a fork of ppy/osu-wiki.
+Go to your fork (click the `Fork` button again). Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo.
 
 ![](img/forked.jpg)
 
