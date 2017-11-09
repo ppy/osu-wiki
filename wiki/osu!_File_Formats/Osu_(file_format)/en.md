@@ -48,7 +48,7 @@ SampleSet (String) specifies which set of hit sounds will be used throughout the
 
 `SampleSet: Soft`
 
-StackLeniency (Float) is how often closely placed hit objects will be stacked together.
+StackLeniency (Decimal) is how often closely placed hit objects will be stacked together.
 
 `StackLeniency: 0.7`
 
@@ -71,7 +71,7 @@ Bookmarks (Integer List, milliseconds) is a list of comma-separated times of edi
 
 `Bookmarks: 94171`
 
-DistanceSpacing (Float) is a multiplier for the "Distance Snap" feature.
+DistanceSpacing (Decimal) is a multiplier for the "Distance Snap" feature.
 
 `DistanceSpacing: 1.22`
 
@@ -133,27 +133,27 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 Difficulty
 ----------
 
-HPDrainRate (Float) specifies the HP Drain difficulty.
+HPDrainRate (Decimal) specifies the HP Drain difficulty.
 
 `HPDrainRate:5`
 
-CircleSize (Float) specifies the size of hit object circles.
+CircleSize (Decimal) specifies the size of hit object circles.
 
 `CircleSize:4`
 
-OverallDifficulty (Float) specifies the amount of time allowed to click a hit object on time.
+OverallDifficulty (Decimal) specifies the amount of time allowed to click a hit object on time.
 
 `OverallDifficulty:6`
 
-ApproachRate (Float) specifies the amount of time taken for the approach circle and hit object to appear.
+ApproachRate (Decimal) specifies the amount of time taken for the approach circle and hit object to appear.
 
 `ApproachRate:7`
 
-SliderMultiplier (Float) specifies a multiplier for the slider velocity. Default value is 1.4 .
+SliderMultiplier (Decimal) specifies a multiplier for the slider velocity. Default value is 1.4 .
 
 `SliderMultiplier:1.3`
 
-SliderTickRate (Float) specifies how often slider ticks appear. Default value is 1.
+SliderTickRate (Decimal) specifies how often slider ticks appear. Default value is 1.
 
 `SliderTickRate:1`
 
@@ -324,7 +324,7 @@ The first Bézier curve in the segment is quadratic with the following points: (
 
 #### Length and duration
 
-*pixelLength* (Float) is the length of the slider along the path of the described curve. It is specified in osu!pixels, i.e. relative to the 512×384 virtual screen.
+*pixelLength* (Decimal) is the length of the slider along the path of the described curve. It is specified in osu!pixels, i.e. relative to the 512×384 virtual screen.
 
 The *pixelLength* is not the length of the curve path described above, but the actual length the slider should have. If the *pixelLength* is smaller than the path length, the path must be shrinked. Conversely, if the *pixelLength* is bigger than the path length, the path must be naturally extended: a longer line for linear sliders, a longer arc for perfect circle curves, and a final linear segment for Bézier paths.
 
