@@ -94,7 +94,7 @@ Rounding out this month's spotlights, [Kyuare](https://osu.ppy.sh/u/2705312)'s m
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/airborne-robots.jpg)](https://osu.ppy.sh/s/473736)
 
-Submitted over one year ago, [Curiossity](https://osu.ppy.sh/u/6490035)%27s Airborne Robots has certainly seen a lot of improvement. From an overally repetitive map, it has become one of the best maps the 4k mania community has seen.
+Submitted over one year ago, [Curiossity](https://osu.ppy.sh/u/6490035)'s Airborne Robots has certainly seen a lot of improvement. From an overally repetitive map, it has become one of the best maps the 4k mania community has seen.
 
 Well balanced spread, good touch of simple but yet effective slider velocity changes combined with crazy slow Long Note sections and harsh mini-jacks. The mapset overall has a bit of everything and it will be enjoyable for everyone who either wants a challenge or just likes to enjoy easier difficulties. Well done Curiossity.
 
