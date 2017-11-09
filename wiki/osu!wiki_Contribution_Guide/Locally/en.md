@@ -26,7 +26,7 @@ Once you have decided on the clone location, click `Clone`.
 
 This step is technically *optional*, but is heavily recommended due to reasons that you will need to look up for yourself.
 
-Click on the `Current branch` dropdown located at the top of the menu.
+Click on the `Current branch` dropdown located at the top of the menu and enter a name for this branch. It can be anything but it could (and probably should) relate to the article you are changing.
 
 ![](img/github-desktop-branch.jpg)
 
@@ -35,6 +35,16 @@ Click on the `Current branch` dropdown located at the top of the menu.
 In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales. Once you find the correct file, open it using your favorite text editor.
 
 You can now make your changes. When making changes, try to follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
+
+### Moving existing files
+
+Moving existing files is as easy as selecting the files/folders and pasting them into the new location.
+
+### Creating new files
+
+Creating new files is as easy as `Right click`, `New`, `Text Document`, then renaming it to `en.md` or whichever locale you are going to translate. You could also create a blank document in your favorite text editor and save it in the correct location with the `en.md` or whichever locale you are going to translate as the file name.
+
+*Caution: If you are going to create article files using Windows Explorer, you need to make sure you have the `File name extensions` option enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for help.
 
 ## Committing and pushing
 

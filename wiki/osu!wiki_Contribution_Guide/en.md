@@ -2,7 +2,7 @@
 
 Thanks for your interest in making the osu!wiki better! At this time, contributing to the osu!wiki will require more time and slightly more effort to make your changes actually happen. This quick-start guide is intended for newcomers that have never worked with GitHub and the wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
 
-If, during any part, you are confused or need further help, feel free to send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
+If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
 
 ## Getting started
 
@@ -24,12 +24,12 @@ Go to your fork (click the `Fork` button again). Seeing something similar to the
 
 ## Editing online or locally
 
-From this point, you have two choices: edit using GitHub's web interface (online) or edit locally.
+From this point, you have two choices:
 
 - [Online](/wiki/owcg/Online) - uses GitHub's web interface; this is best for single article edits
 - [Locally](/wiki/owcg/Locally) - uses GitHub Desktop; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
-**When you have completed either online or locally, continue to the next section.**
+**When you have completed either Online or Locally, you can continue to the next section.**
 
 ## Finishing
 
@@ -43,13 +43,13 @@ On the next page, if you see these two buttons as pictured below, click the `com
 
 ![](img/compare-across-forks-no.jpg)
 
-![](img/compare-across-forks-yes.jpg "This is what you should see.")
+![](img/compare-across-forks-yes.jpg "This is what you want to see.")
 
 Click on the `head fork` dropdown and select the one with your username (it should be the second one).
 
 ![](img/head-fork.jpg)
 
-Click on the `compare` dropdown and select the one with the branch you had created (this should be listed alphabetically).
+Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
 
 ![](img/compare-branch.jpg)
 
