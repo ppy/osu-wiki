@@ -1,6 +1,6 @@
 # BBCode
 
-![La caja de edición en los foros](img/editor.jpg "La caja de edición en los foros")
+![La caja de edición en los foros](img/editor.jpg)
 
 **BBCode** es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
 Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
@@ -36,7 +36,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Enfatiza** palabras o un párrafo entero de una manera **más intensa que** [cursiva](#cursiva).
 
-- Botón dedicado: ![Botón negrita](img/bold.jpg "Botón negrita")
+- Botón dedicado: ![Botón negrita](img/bold.jpg)
 - Notas:
    * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
@@ -48,7 +48,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Enfatiza** palabras o un párrafo entero de una manera *menos intensa que* [negrita](#negrita).
 
-- Botón dedicado: ![Botón itálico](img/italic.jpg "Botón itálico")
+- Botón dedicado: ![Botón itálico](img/italic.jpg)
 - Notas:
   * Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
@@ -60,7 +60,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Dibuja una línea horizontal debajo** de la(s) palabra(s) o un párrafo entero.
 
-- Botón dedicado: ![Botón Subrayado](img/underline.jpg "Botón Subrayado")
+- Botón dedicado: _ninguno_
 - Notas:
   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
@@ -72,7 +72,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Traza una línea horizontal a través del centro** de la(s) palabra(s) o un párrafo entero.
 
-- Botón dedicado: ![Botón Tachado](img/strike.jpg "Botón Tachado")
+- Botón dedicado: ![Botón Tachado](img/strike.jpg)
 - Notas:
   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
@@ -90,8 +90,7 @@ _BBCode llama a este "Color" ._
 
 **Añade color** a algún texto.
 
-- Botones dedicados:
-![La caja de color](img/colour.jpg "La caja de color")
+- Botones dedicados: _ninguno_
 - Notas:
   * El cuadro de color se encuentra en el lado derecho del cuadro de texto.
   * Utiliza esta etiqueta con moderación.
@@ -113,8 +112,7 @@ Para obtener una lista de nombres de color, consulta [nombres de color X11](http
 
 Ajusta relativamente el tamaño del texto.
 
-- Botones dedicados:
-![Opciones de tamaño de fuente](img/font-size.jpg "Opciones de tamaño de fuente")
+- Botones dedicados: ![Opciones de tamaño de fuente](img/font-size.jpg)
 - Notas:
   * Utiliza esta etiqueta con moderación.
   * Sólo hay 4 tamaños que puede utilizar:
@@ -139,7 +137,7 @@ _No debe confundirse con [Spoilerbox](#spoilerbox)._
 Esto puede ser útil si estás hablando de una escena crítica en un programa de televisión, película o anime, pero no quieres estropearlo para otros.
 El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 
-- Botón dedicado: ![Botón Spoiler](img/spoiler.jpg "Botón Spoiler")
+- Botón dedicado: _ninguno_
 - Notas:
   * Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
@@ -149,14 +147,14 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 
 ### Caja spoiler
 
-_No debe confundirse con [Box](#box) o [Spoiler](#spoiler)._
+_No debe confundirse con [Caja](#caja) o [Spoiler](#spoiler)._
 
 **Oculta un párrafo** dentro de una caja previamente nombrada `collapsed text`.
 El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox para mostrar el párrafo oculto.
 
-- Botón dedicado: ![Botón Spoilerbox](img/spoilerbox.jpg "Botón Spoilerbox")
+- Botón dedicado: ![Botón Spoilerbox](img/spoilerbox.jpg)
 - Notas:
-  * Esto creará un cuadro [Box](#) con el texto de encabezado `collapsed text`.
+  * Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
 - Sintaxis:
 ```
 [spoilerbox]
@@ -173,7 +171,7 @@ El lector puede mostrar el párrafo haciendo clic en el nombre del cuadro.
 
 Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad de imágenes.
 
-- Botón dedicado: ![Botón de caja](img/box.jpg "Botón de caja")
+- Botón dedicado: _ninguno_
 - Notas:
   * De forma predeterminada, se creará un cuadro con el texto sin encabezado.
     - Si deja el argumento `NAME` en blanco (o no incluye uno), la altura de la caja será muy pequeña!
@@ -191,7 +189,7 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
 
 Cita la(s) palabra(s) o párrafo(s) dado(s).
 
-- Botón dedicado: ![Botón de cita](img/quote.jpg "Botón de cita")
+- Botón dedicado: _ninguno_
 - Notas:
   * Es conveniente tener en cuenta al autor de la cita si estás citando a alguien (usa el argumento `NAME`).
   * El argumento `NAME` **debe** usar comillas.
@@ -209,7 +207,7 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
 
 Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un [storyboard](/wiki/storyboard) o código fuente de un proyecto.
 
-- Botón dedicado: ![Botón de código](img/code.jpg "Botón de código")
+- Botón dedicado: _ninguno_
 - Notas:
   * Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
   *  El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
@@ -224,7 +222,7 @@ Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de
 
 Alinear un párrafo al centro; típicamente para títulos o encabezados.
 
-- Botón dedicado: ![Botón central](img/centre.jpg "Botón central")
+- Botón dedicado: _ninguno_
 - Notas:
   * Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
@@ -241,7 +239,7 @@ Agrega un enlace.
 No es necesario utilizar esta etiqueta si no deseas utilizar el texto del enlace.
 Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje.
 
-- Botón dedicado: ![Botón URL](img/url.jpg "Botón URL")
+- Botón dedicado: ![Botón URL](img/url.jpg)
 - Notas:
   * El argumento `ENLACE` no debe usar comillas.
 - Sintaxis:
@@ -259,7 +257,7 @@ Vincula un perfil de usuario utilizando el nombre del usuario.
 
 Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identificación del usuario).
 
-- Botón dedicado: ![Botón Perfil](img/profile.jpg "Botón Perfil")
+- Botón dedicado: _ninguno_
 - Notas:
   * ¡No recomendado!
   * El argumento `USER` tiene que estar definido.
@@ -273,7 +271,7 @@ Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identif
 
 Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
 
-- Botón dedicado: ![Botón de Google](img/google.jpg "Botón de Google")
+- Botón dedicado: _ninguno_
 - Notas:
   * Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
@@ -286,7 +284,7 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
 
 **Agrega un enlace directo a una página** usando el botón de Google *I'm Feeling Lucky* usando el texto proporcionado.
 
-- Botón dedicado: ![Botón de la suerte](img/lucky.jpg "Botón de la suerte")
+- Botón dedicado: _ninguno_
 - Notas:
   * Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
@@ -303,9 +301,9 @@ En BBCode, hay dos partes para hacer la lista: la envoltura y los puntos.
 Los puntos se colocan dentro de la envoltura.
 
 - Botones dedicados:
-  * Lista: ![Botón Lista](img/list.jpg "Botón Lista")
-  * Tipo de lista: ![Botón Tipo de lista](img/list-type.jpg "Botón Tipo de lista")
-  * Lista de viñetas: ![Botón Lista de viñetas](img/list-bullet.jpg)
+  * Lista: ![Botón Lista](img/list.jpg)
+  * Tipo de lista: _ninguno_
+  * Lista de viñetas: _ninguno_
 - Notas:
   * Todos los puntos deben estar rodeados por las etiquetas de tipo lista / lista.
   * Estos son los argumentos válidos para `TYPE`:
@@ -338,9 +336,9 @@ Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputaci
 
 También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como _hotlinks_). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
 
-- Botón dedicado: ![Botón de imagen](img/image.jpg "Botón de imagen")
+- Botón dedicado: ![Botón de imagen](img/image.jpg)
 - Notas:
-  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#Caja).
+  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
   * `LINK` es un enlace directo a una imagen.
 ```
@@ -351,9 +349,9 @@ También ten en cuenta que algunos sitios web no aceptan los enlaces directos a 
 
 Incluye un vídeo de YouTube en tu publicación.
 
-- Botón dedicado: ![Botón de imagen](img/youtube.jpg "Botón de imagen")
+- Botón dedicado: _ninguno_
 - Notas:
-  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#Caja).
+  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
   * `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
     - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
@@ -366,7 +364,7 @@ Incluye un vídeo de YouTube en tu publicación.
 Añade un encabezado rosa elegante.
 Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: ![Heading button](img/heading.png)
 - Notas:
   * Debes escribir la sintaxis tú mismo.
 - Sintaxis:
@@ -405,7 +403,7 @@ Coloca el párrafo dentro de un cuadro blanco.
 
 ### Trivia
 
-- Guía original: [HOW TO: Forum BBCodes (inglés)](https://osu.ppy.sh/forum/t/445599) por [Stefan](https://osu.ppy.sh/u/626907)
+- Guía original: [HOW TO: Forum BBCodes (inglés)](/community/forums/topics/445599) por [Stefan](/users/626907)
 
 ### Historia
 

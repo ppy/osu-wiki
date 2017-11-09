@@ -1,6 +1,6 @@
 # BBCode
 
-![The edit box in the forums](img/editor.jpg "The edit box in the forums")
+![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
 **BBCode** is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes.
 
@@ -33,7 +33,7 @@ For example (pay attention to the order of the code):
 
 **Emphasize** words or an entire paragraph in a **heavier way** than [italics](#italic).
 
-- Dedicated button: ![Bold button](img/bold.png) (previous: ![Old bold button](img/bold-old.jpg))
+- Dedicated button: ![Bold button](img/bold.png)
 - Notes:
   - Use sparingly. Overuse may create discomfort and making the post harder to read.
 - Syntax:
@@ -45,7 +45,7 @@ For example (pay attention to the order of the code):
 
 **Emphasize** words or an entire paragraph in a *lighter way* than [bold](#bold).
 
-- Dedicated button: ![Italic button](img/italic.png) (previous: ![Old italic button](img/italic-old.jpg))
+- Dedicated button: ![Italic button](img/italic.png)
 - Notes:
   - Use sparingly. Overuse will weaken the effectiveness of the emphasize.
 - Syntax:
@@ -57,7 +57,7 @@ For example (pay attention to the order of the code):
 
 **Draws a horizontal line underneath** the word(s) or an entire paragraph.
 
-- Dedicated button: N/A (previous: ![Underline button](img/underline-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - Use sparingly. Overuse may create discomfort and making the post harder to read.
 - Syntax:
@@ -71,7 +71,7 @@ _Also known as **strikethrough**._
 
 **Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
 
-- Dedicated button: ![Strike button](img/strike.png) (previous: ![Old strike button](img/strike-old.jpg))
+- Dedicated button: ![Strike button](img/strike.png)
 - Notes:
   - Use sparingly. Overuse may create discomfort and making the post harder to read.
 - Syntax:
@@ -85,7 +85,7 @@ _BBCode calls this "Color"._
 
 **Adds colour** to some text.
 
-- Dedicated buttons: N/A (previous: ![The old colour box](img/colour-old.jpg))
+- Dedicated buttons: N/A
 - Notes:
   - The colour box is located on the right side of the text box.
   - Use this tag sparingly. Overuse of this will create discomfort for the reader's eyes. Misuse of this will make your text illegible.
@@ -105,7 +105,7 @@ For a list of colour names, see [X11 color names](https://en.wikipedia.org/wiki/
 
 Relatively adjusts the text size.
 
-- Dedicated buttons: ![Font size options](img/font-size.png) (previous: ![Old font size options](img/font-size-old.jpg))
+- Dedicated buttons: ![Font size options](img/font-size.png)
 - Notes:
   - Use this tag sparingly.
   - There are only 4 sizes that you can use:
@@ -130,7 +130,7 @@ _Not to be confused with [Spoilerbox](#spoilerbox)._
 This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others.
 The reader, however, can still read the text by highlighting over the text.
 
-- Dedicated button: N/A (previous: ![Old spoiler button](img/spoiler-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
 - Syntax:
@@ -145,7 +145,7 @@ _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 **Hides a paragraph** inside an prenamed box from the reader's view.
 The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
 
-- Dedicated button: ![Spoilerbox button](img/spoilerbox.png) (previous: ![Old spoilerbox button](img/spoilerbox-old.jpg))
+- Dedicated button: ![Spoilerbox button](img/spoilerbox.png)
 - Notes:
   - This will create a [Box](#box) with the heading text of `collapsed text`.
 - Syntax:
@@ -164,7 +164,7 @@ The reader, however, can still read the paragraph by clicking on the box to togg
 
 These are commonly used to hide large images or a large amount of images.
 
-- Dedicated button: N/A (previous: ![Old box button](img/box-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - By default, this will create a box with the no heading text.
     - If you do leave the `NAME` argument blank (or do not include one), the height of the box will be very small!
@@ -182,7 +182,7 @@ These are commonly used to hide large images or a large amount of images.
 
 Quote formatting for the given word/paragraph.
 
-- Dedicated button: N/A (previous: ![Old quote button](img/quote-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - It is nice to note the author of the quote if you are quoting someone (use `NAME` argument).
   - The `NAME` argument **must** use quotation marks.
@@ -201,7 +201,7 @@ Quote formatting for the given word/paragraph.
 Format text with a monospaced font-family and place it inside a gray box.
 This is useful when you are posting code for a storyboard or source code from a project.
 
-- Dedicated button: N/A (previous: ![Old code button](img/code-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - This will preserve white spacing, this means that none of the lines will break unless you break it.
   - Overflowing text lines will enable a horizontal scroll box.
@@ -216,7 +216,7 @@ This is useful when you are posting code for a storyboard or source code from a 
 
 Centre align a paragraph; this is typically used for titles or headings.
 
-- Dedicated button: N/A (previous: ![Old centre button](img/centre-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - The tags **must** be spelt as `centre` not `center` (note the last two letters).
 - Syntax:
@@ -233,7 +233,7 @@ Adds a link.
 You do not need to use this tag if you do not want to use link text.
 The osu!forums will automatically link pasted URLs inside the post.
 
-- Dedicated button: ![URL button](img/url.png) (previous: ![Old URL button](img/url-old.jpg))
+- Dedicated button: ![URL button](img/url.png)
 - Notes:
   - The `LINK` argument should not use quotation marks.
 - Syntax:
@@ -253,7 +253,7 @@ And once they do, the link will fail.
 
 It is recommended to use [URL](#url) instead (using the user's id number).
 
-- Dedicated button: N/A (previous: ![Old profile button](img/profile-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - Not recommended!
   - The `USER` argument has to be defined.
@@ -267,7 +267,7 @@ It is recommended to use [URL](#url) instead (using the user's id number).
 
 Automatically links to a Google Search query using the provided text.
 
-- Dedicated button: N/A (previous: ![Old Google button](img/google-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
@@ -280,7 +280,7 @@ Automatically links to a Google Search query using the provided text.
 
 **Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
 
-- Dedicated button: N/A (previous: ![Old lucky button](img/lucky-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
@@ -297,10 +297,10 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
 Where the bullets are placed inside the wrapper.
 
 - Dedicated buttons:
-  - Bulleted list: ![List button](img/list.png) (previous: ![Old list button](img/list-old.jpg))
-  - Numbered list: ![Numbered list button](img/list-numbered.png) (previous: N/A)
-  - List bullet: N/A (previous: ![Old list Bullet button](img/list-bullet-old.jpg))
-  - List type: N/A (previous: ![Old list Type button](img/list-type-old.jpg))
+  - Bulleted list: ![List button](img/list.png)
+  - Numbered list: ![Numbered list button](img/list-numbered.png)
+  - List bullet: N/A
+  - List type: N/A
 - Notes:
   - All bullets must be surrounded by the list/list type tags.
   - These are the valid arguments for `TYPE`:
@@ -327,13 +327,13 @@ Where the bullets are placed inside the wrapper.
 
 The images can be sourced from anywhere, as long as the image exists from the given url.
 
-**Do not link the image directly from a local filepath** Using `C:\Users\Name\Pictures\image.jpg` will **not** work!
+**Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
 
 Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags.
 
 Also note, some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
-- Dedicated button: ![Image button](img/image.png) (previous: ![Old image button](img/image-old.jpg))
+- Dedicated button: ![Image button](img/image.png)
 - Notes:
   - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
@@ -346,7 +346,7 @@ Also note, some websites don't appreciate direct links to their images (otherwis
 
 Embeds a YouTube video in your post.
 
-- Dedicated button: N/A (previous: ![Old youTube button](img/youtube-old.jpg))
+- Dedicated button: N/A
 - Notes:
   - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
@@ -361,7 +361,7 @@ Embeds a YouTube video in your post.
 Adds a big fancy pink heading.
 This is usually used to denote a new section in your post.
 
-- Dedicated button: ![Heading button](img/heading.png) (previous: N/A)
+- Dedicated button: ![Heading button](img/heading.png)
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
@@ -374,7 +374,7 @@ This is usually used to denote a new section in your post.
 Adds a big fancy purple heading with a horizontal line.
 This is usually used to denote a new section in your post.
 
-- Dedicated button: N/A (previous: N/A)
+- Dedicated button: N/A
 - Notes:
   - This only works in the beatmaps forum!
   - This only appears after posting, not in preview.
@@ -388,7 +388,7 @@ This is usually used to denote a new section in your post.
 
 Places the paragraph inside a white box.
 
-- Dedicated button: N/A (previous: N/A)
+- Dedicated button: N/A
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
@@ -400,7 +400,7 @@ Places the paragraph inside a white box.
 
 ## Trivia
 
-- Original forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599) by [Stefan](https://osu.ppy.sh/u/626907)
+- Original forum post: [HOW TO: Forum BBCodes](/community/forums/topics/445599) by [Stefan](/users/626907)
 
 ### History
 
