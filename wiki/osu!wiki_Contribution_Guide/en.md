@@ -31,7 +31,35 @@ From this point, you have two choices: edit using GitHub's web interface (online
 
 **When you have completed either online or locally, continue to the next section.**
 
-## Finishing remarks
+## Finishing
+
+### Opening a pull request
+
+Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki); if you were quick enough, you may see this yellow banner. If you see it, click on the `Compare & pull request` button. If not, click the `New pull request` button.
+
+![](img/github-recent.jpg)
+
+On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+
+![](img/compare-across-forks-no.jpg)
+
+![](img/compare-across-forks-yes.jpg "This is what you should see.")
+
+Click on the `head fork` dropdown and select the one with your username (it should be the second one).
+
+![](img/head-fork.jpg)
+
+Click on the `compare` dropdown and select the one with the branch you had created (this should be listed alphabetically).
+
+![](img/compare-branch.jpg)
+
+Then click on the `Create pull request` button.
+
+![](img/create-pull-request.jpg)
+
+Enter the title and fill in the description box. Once you are ready, click the `Create pull request` button.
+
+![](img/new-pull-request.jpg)
 
 ### Reviews
 
