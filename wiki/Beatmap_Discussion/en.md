@@ -14,7 +14,7 @@ A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephe
 
 ### Returning to the old modding system
 
-You can access the old modding page by clicking on the speech bubble in the song select and selecting `Beatmap Topic` or `Quick Reply` in the beatmap editor via the `Web` menu, then clicking any selection from the list. You can also find it by looking in the creator's post history via their profile.
+With the osu!client open, you can access the old modding page by clicking on the speech bubble icon in the song selection screen and selecting `Beatmap Topic`. You can also click on `Quick Reply` in the beatmap editor via the `Web` menu. You can also find it by looking in the creator's post history through their profile.
 
 ## Accessing the Beatmap Discussion page
 
@@ -36,19 +36,19 @@ Clicking on Modding/Discussion on the beatmap's page will take you to the page, 
 
 ![](img/modes.jpg "Mode selection")
 
-Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. Only modes the beatmapset has a difficulty for will be enabled to click on.
+Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. You can only select each game mode if the beatmapset has a difficulty with said game mode.
 
 ### Beatmap page / Difficulty selection
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. Make sure you are on the correct difficulty before submitting mods to the beatmap!
+Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
 
 ### Modding status
 
 ![](img/modding-status.jpg "For your sorting needs")
 
-All of the mods below are for the selected difficulty. Clicking any of these will show the specific mods in the timeline and in the Discussion section.
+All of the mods below are for the selected difficulty. Clicking on any of these will show the specific mods in the timeline and in the Discussion section.
 
 - Mine: Mods you have contributed.
 - Resolved: Mods the creator has responded to and marked as resolved.
@@ -60,7 +60,7 @@ All of the mods below are for the selected difficulty. Clicking any of these wil
 
 ![](img/timeline.jpg "Mod posts, time-stamped")
 
-Displays all of the mods made for the difficulty that has a timestamp. Clicking on these will take you down to the mod posted at that current time.
+This displays all of the mods made for said difficulty that has a timestamp. Clicking on these will scroll down to the mod posted at that timestamp.
 
 ### Beatmap status
 
@@ -68,25 +68,27 @@ Displays all of the mods made for the difficulty that has a timestamp. Clicking 
 
 #### Beatmap creator
 
-The creator who submitted the beatmap, and shows the submission date, and the date the beatmap was updated last.
+This contains the creator who submitted the beatmapset, shows the submission date, and the date the beatmap was last updated.
 
 #### Watch/Unwatch
 
-This replaces beatmap subscription. You can track the beatmap's status and open issues. You can access this page via the website's Home Page by clicking on modding watchlist located near the top of the page.
+This replaces beatmap subscription. You can track the beatmaps' status and open issues. This page is access via the website's Home page by clicking on `modding watchlist` located near the top of the page.
 
 #### Hype Train
 
-Similar to the old Star Priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train. Quote: "Adding praise ❤ will raise this beatmap's hype, making it more visible for nomination and ranking!"
+Hype train is similar to the old star priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train.
 
-Note: the creator can't Hype up their own beatmap. Praise must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs.
+> Adding praise ❤ will raise this beatmap's hype, making it more visible for nomination and ranking!
+
+*Note: the creator can't Hype up their own beatmap. Praise must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs.*
 
 #### Nomination
 
-Once a beatmap has accumilated 12 Hype, the beatmap is eligible for Nomination. This works as it did with the old modding system. The beatmap requires 2 nominations by the Beatmap Nominators to move into the qualified state.
+Once a beatmap has accumilated 12 Hype, the beatmap is eligible for Nomination. This works as it did with the old modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the qualified state.
 
 ### Mod submission field
 
-![](img/mod-submission-field.jpg "The place where modding lives")
+![](img/mod-submission-field.jpg "The place where modding magic happens.")
 
 #### Mod section submission
 
@@ -115,7 +117,7 @@ If your timestamp submitted through the Timeline section is close to another mod
 
 ![](img/mod-type.jpg)
 
-This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.. You can add Hype to the Beatmap by submitting Praise in the General (All Difficulties) section.
+This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.. You can add Hype to the beatmap by submitting Praise in the General (All Difficulties) section.
 
 ### Mod Discussion field
 
