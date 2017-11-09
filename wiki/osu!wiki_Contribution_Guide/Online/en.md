@@ -2,23 +2,9 @@
 
 *Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
 
-If you are going to make changes to multiple files (this includes uploading and/or deleting images), please see the other guide, [osu!wiki Contribution Guide/Locally](/wiki/owcg/Locally).
+If you are going to make changes to multiple files (this includes uploading, deleting, and/or moving images or files), please see the other guide, [osu!wiki Contribution Guide/Locally](/wiki/owcg/Locally).
 
 If, during any part, you are confused or need help, please send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
-
-## Signing up
-
-First, if you don't have a GitHub account, sign up for one. See [Signing up for a new GitHub account - User Documentation](https://help.github.com/articles/signing-up-for-a-new-github-account/) for help. Then log in (you will need to verify your email).
-
-## Forking
-
-To make changes, you will need to fork the `osu-wiki` repository.
-
-![](img/fork-ppy--osu-wiki.jpg)
-
-Go to your fork (click the `Fork` button again). Seeing something similar to the image below means that you made a fork of ppy/osu-wiki.
-
-![](img/forked-pippi--osu-wiki.jpg)
 
 ## Editing
 
@@ -70,7 +56,7 @@ Then click on the `Create pull request` button.
 
 ![](img/create-pull-request.jpg)
 
-Enter the title and fill in the description box. Once you are ready, click the `Create Pull Request` button.
+Enter the title and fill in the description box. Once you are ready, click the `Create pull request` button.
 
 ![](img/new-pull-request.jpg)
 
