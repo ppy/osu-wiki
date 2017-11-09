@@ -28,34 +28,6 @@ Once you are done, click on `Propose file change` button. This will do two thing
 
 ![](img/pull-request-pippi-osu--osu-wiki.jpg "Don't do anything here!")
 
-## Opening a pull request
+## Finishing
 
-Instead, go to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki) and click on the `New Pull Request` button.
-
-![](img/pull-request-button-ppy--osu-wiki.jpg)
-
-On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
-
-![](img/compare-across-forks-no.jpg)
-
-![](img/compare-across-forks-yes.jpg "This is what you should see.")
-
-Click on the `head fork` dropdown and select the one with your username (it should be the second one).
-
-![](img/head-fork.jpg)
-
-Click on the `compare` dropdown and select the one with the branch you had created (this should be listed alphabetically).
-
-![](img/compare-branch.jpg)
-
-Then click on the `Create pull request` button.
-
-![](img/create-pull-request.jpg)
-
-Enter the title and fill in the description box. Once you are ready, click the `Create pull request` button.
-
-![](img/new-pull-request.jpg)
-
-## Finishing remarks
-
-You can now go back to [osu!wiki Contribution Guide § Finishing remarks](/wiki/owcg/#finishing-remarks) for the last piece of information regarding your pull request and changes.
+You can now go back to [osu!wiki Contribution Guide § Finishing](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
