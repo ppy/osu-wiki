@@ -1,5 +1,4 @@
 # Contributing to osu!wiki (via GitHub web)
-__________
 
 *If you prefer to edit offline, see [the desktop guide](/wiki/osu!wiki_contribution_guide/Via_Desktop).*
 
