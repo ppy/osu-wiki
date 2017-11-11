@@ -1,4 +1,4 @@
-Insane (Bahasa Indonesia)
+Insane
 =====================
 
 Tingkat kesulitan Insane adalah [tingkat kesulitan](/wiki/Difficulties) tersulit di dalam 4 tingkat kesulitan yang umum dalam sebuah map. in the general 4 difficulty mapset. Map ini secara umum adalah contoh dari keterampilan pembuat map, dan tingkat kesulitan dimana kreatifitas dapat ditampilkan ddengan mudah. Beberapa nama tingkat kesulitan lainnya telah diterapkan yang memiliki arti yang serupa dengan "insane", seperti *Lunatic* ("gila", seperti yang muncul sebagai tingkat kesulitan tersulit di dalam seri *Touhou*), *Another* (seri *IIDX beatmania*), *Extreme* (seri *Jubeat*), dll.

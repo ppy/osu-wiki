@@ -1,5 +1,5 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 # Interface
 
@@ -47,64 +47,6 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 - If not skinned, the current game mode's small icon will be used instead.
 - Togglable in the [options](/wiki/options).
   - This option may forcibly be turned on during winter.
-
-## Buttons
-
-![](img/cursor.png "cursor.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- By default, this element will rotate and expand on click.
-- [skin.ini](/wiki/skin.ini) commands:
-  - To disable cursor expansion on click, set `CursorExpand` to `0`.
-  - To disable cursor rotation, set `CursorRotate` to `0`.
-
----
-
-![](img/cursormiddle.png "cursormiddle.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- `cursor.png` is required to skin this element.
-- If this element is not skinned, the default image will not be used!
-- Skinning this will make the cursortrail longer.
-  - If you don't want to skin this, but want a long cursortrail, just use a 1x1px transparent image.
-- This element will never rotate nor expand.
-
----
-
-![](img/cursor-smoke.png "cursor-smoke.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- This is used when the player presses the smoke key.
-  - By default, the smoke key is binded to `C`.
-
----
-
-![](img/cursortrail.png "cursortrail.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- By default, this element does not rotate.
-- [skin.ini](/wiki/skin.ini) command:
-  - To enable cursortrail rotate, set `CursorTrailRotate` to `1`.
 
 ## Button
 
@@ -226,23 +168,6 @@ The following table is for all FPS elements.
 
 ![](img/fps-3.png "fps-3.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
-
-**Note:**
-
-- This is used for song selection (the stars that fly from right to left), cursor, kiai time, and combobursts.
-
-### Mode Select
-
-The skinning elements in this section uses three different suffixes to describe what they are used for.
-
-- _no suffix_: These appear in the centre of the song selection screen (showing the currently selected game mode).
-- `-med`: These appear inside the mode selection box, when selecting the game mode.
-- `-small`: These appear inside the mode selection button (showing the currently selected game mode).
-These images are also used as the default snow if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
-
 ---
 
 ![](img/fps-4.png "fps-4.png")
@@ -274,10 +199,6 @@ These images are also used as the default snow if a skin does not include the `s
 ---
 
 ![](img/fps-fps.png "fps-fps.png")
-
----
-
-![](img/fps-comma.png "fps-comma.png")
 
 ## Mod icons
 

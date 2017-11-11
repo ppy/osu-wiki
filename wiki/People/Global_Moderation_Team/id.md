@@ -38,6 +38,8 @@ Anggota Tim
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Rusia | Moderasi Chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Perancis, Rusia | Moderasi Chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Rusia | Moderasi Chat |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandia | Moderasi Chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanyol | Moderasi Chat, Moderasi Forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polandia | Moderasi Forum, Pengembangan |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italia | Moderasi Chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
@@ -45,7 +47,6 @@ Anggota Tim
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Perancis | Moderasi Chat |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Cina | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderasi Chat, Dukungan Teknis |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portugis | Moderasi Chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Belanda | Moderasi Chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | Korea | Moderasi Chat |
@@ -53,13 +54,11 @@ Anggota Tim
 | [Saten](https://osu.ppy.sh/u/444506) | Swedia, Spanyol | Moderasi Chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | Perancis | Moderasi Chat, Turnamen |
 | [Shiro](https://osu.ppy.sh/u/113005) | Perancis, Spanyol | Moderasi Chat |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Spanyol | Moderasi Chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesia | Moderasi Chat |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hongaria | Moderasi Chat |
 | [Stefan](https://osu.ppy.sh/u/626907) | Jerman | Moderasi Chat, Moderasi Forum |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korea | Moderasi Chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | Pembuatan osu!media |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Dukungan Teknis |
 | [ToGlette](https://osu.ppy.sh/u/1076236) | Korean, Jepang | Moderasi Chat |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanyol | Dukungan Teknis |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polandia | Moderasi Chat |

@@ -1,7 +1,7 @@
-﻿[o!s]: /wiki/shared/Osu.gif
-[o!t]: /wiki/shared/Taiko.gif
-[o!c]: /wiki/shared/Ctb.gif
-[o!m]: /wiki/shared/Mania.gif
+﻿[o!s]: /wiki/shared/mode/osu.png
+[o!t]: /wiki/shared/mode/taiko.png
+[o!c]: /wiki/shared/mode/catch.png
+[o!m]: /wiki/shared/mode/mania.png
 
 # Contests
 
@@ -63,8 +63,6 @@ Notes:
 - Runner-ups get one-month supporter tag.
 
 You can see a gallery of each contest at the [Facebook page](https://www.facebook.com/osugame).
-
-To see the completed fanart contents, see [Monthly Fanart Contest](Monthly_Fanart_Contest).
 
 ## osu!store Contests
 

@@ -1,4 +1,4 @@
-Getting Your Map Modded (日本語)
+Getting Your Map Modded
 ================================
 
 あなたの譜面が[Rankedになるために](/wiki/Beatmapping)、[Modを手に入れる必要があります](/wiki/Modding)。 ここにはそれをするいくつかの手段があります。

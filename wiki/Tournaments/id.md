@@ -10,7 +10,7 @@ Turnamen Resmi Pertandingan Kancah Dunia
 
 Turnamen resmi yang diselenggarakan oleh [Pengelola Turnamen](https://osu.ppy.sh/g/26).
 
-### ![](/wiki/shared/Osu.gif) osu! World Cup
+### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
 osu! World Cup (Pertandingan osu! Kancah Dunia) adalah sebuah turnamen berbasis negara dengan sistem lawan tim 4v4 yang dengan aturan eleminasi tunggal. Turnamen ini merupakan sebuah acara internasional dan biasanya dilakukan per tahun bersama dengan komunitas-komunitas osu! di dunia yang bekerja sama untuk membuat turnamen menciptakan suatu suasana yang kompetitif.
 
@@ -23,7 +23,7 @@ osu! World Cup (Pertandingan osu! Kancah Dunia) adalah sebuah turnamen berbasis 
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 02/10/2014 | 14/12/2014 | ![][flag_JP] Japan                     | ![][flag_PL] Poland                      | ![][flag_DE] Germany                     |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 01/10/2015 | 13/12/2015 | ![][flag_US] USA                       | ![][flag_CN] China                       | ![][flag_PL] Poland                      |
 
-### ![](/wiki/shared/Taiko.gif) Taiko World Cup
+### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
 | Nama                                   | Mulai      | Selesai    | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |----------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -33,7 +33,7 @@ osu! World Cup (Pertandingan osu! Kancah Dunia) adalah sebuah turnamen berbasis 
 | [Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 16/01/2014 | 09/03/2014 | ![][flag_JP] Japan                     | ![][flag_HK] Hong Kong                   | ![][flag_FR] France                      |
 | [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 12/01/2014 | 15/03/2014 | ![][flag_JP] Japan                     | ![][flag_TW] Taiwan                      | ![][flag_FR] France                      |
 
-### ![](/wiki/shared/Ctb.gif) Catch the Beat World Cup
+### ![](/wiki/shared/mode/catch.png) Catch the Beat World Cup
 
 | Nama                                            | Mulai      | Selesai    | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -42,7 +42,7 @@ osu! World Cup (Pertandingan osu! Kancah Dunia) adalah sebuah turnamen berbasis 
 | [Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 11/04/2014 | 15/06/2014 | ![][flag_KR] South Korea               | ![][flag_DE] Germany                     | ![][flag_SE] Sweden                      |
 | [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015 | 14/06/2015 | ![][flag_KR] South Korea               | ![][flag_CN] China                       | ![][flag_DE] Germany                     |
 
-### ![](/wiki/shared/Mania.gif) osu!mania World Cup
+### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
 | Nama                                             | Mulai      | Selesai    | Mode | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -56,7 +56,7 @@ Komunitas
 
 Turnamen/kompetisi tidak resmi yang diselenggarai oleh komunitas.
 
-### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
+### ![](/wiki/shared/mode/osu.png) North American osu! Standard Tournament
 
 The North American osu! Standard Tournament (Turnamen osu!Standard Amerika Utara) adalah turnamen tahunan yang diselenggarai oleh [MMzz](https://osu.ppy.sh/u/128993), Turnamen ini menggunakan sistem [Eleminasi Pasangan](https://en.wikipedia.org/wiki/Double-elimination_tournament) untuk menentukan pemenang pertandingan dan merupakan sebuah turnamen berbasis solo (1vs1). Sistem ini memperbolehkan seorang pemain untuk kalah di sebuah pertandingan, namun masih memiliki kesempatan untuk menang, untuk melawan fakta bahwa para pemain baru memungkinkan untuk dipertarungkan dengan para pemain yang tinggi peringkatnya di ronde pertama.
 Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berlangsung di masa mendatang. Postingan Forum yang mengurai semua detil mengenai turnamen ini dapat ditemukan di [disini](https://osu.ppy.sh/forum/t/324720)

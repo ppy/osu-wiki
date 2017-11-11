@@ -23,7 +23,7 @@
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
-[osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
+[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
 [osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "osu! hit circles"
 [osu_slider image]: /wiki/shared/osu_slider.jpg "osu! Slider"
 [osu_spinner image]: /wiki/shared/osu_spinner.jpg "osu! Spinner"

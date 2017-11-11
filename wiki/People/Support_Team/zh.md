@@ -1,4 +1,4 @@
-Support Team (中文)
+Support Team
 ========================
 
 用户组 **Support Team** (又称 **Support Team Redux**，为了不和账号的支持团队的概念混淆，我们一般称之为 "Support Team") 是 osu!Staff 成员，主要管理以下几个论坛版块：[Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (除了 [Tournaments](https://osu.ppy.sh/forum/55) 和 [Mapping Techniques](https://osu.ppy.sh/forum/61) ), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4) 和 [Technical Support](https://osu.ppy.sh/forum/5).

@@ -100,12 +100,12 @@ _BBCode calls this "Color"._
   - Use this tag sparingly.
     Overuse of this will create discomfort for the reader's eyes.
     Misuse of this will make your text illegible.
-  - If you choose a colour, make sure it is is contrast to the backgrounf so that anyone can read it.
+  - If you choose a colour, make sure it is is contrast to the background so that anyone can read it.
   - The `HEXCODE` argument should not use quotation marks.
 - Syntax:
   - Where `HEXCODE` is a colour in hexadecimal or colour name.
     - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
-    - For colour name, it must be a vaild html colour.
+    - For colour name, it must be a valid html colour.
 ```prolog
 [color=HEXCODE] ... [/color]
 ```
@@ -314,7 +314,7 @@ Where the bullets are placed inside the wrapper.
   - List bullet: ![List Bullet button](img/list-bullet.jpg "List Bullet button")
 - Notes:
   - All bullets must be surrounded by the list/list type tags.
-  - These are the vaild arguments for `TYPE`:
+  - These are the valid arguments for `TYPE`:
     - _(empty)_ - bulleted
     - `1` - numbered
     - `a` - lettered (lowercased)
@@ -373,7 +373,7 @@ Embeds a YouTube video in your post.
 ### Heading (v1)
 
 Adds a big fancy pink heading.
-This is usually used to denote a new section in yor post.
+This is usually used to denote a new section in your post.
 
 - Dedicated button: _none_
 - Notes:
@@ -386,7 +386,7 @@ This is usually used to denote a new section in yor post.
 ### Heading (v2)
 
 Adds a big fancy purple heading with a horizontal line.
-This is usually used to denote a new section in yor post.
+This is usually used to denote a new section in your post.
 
 - Dedicated button: _none_
 - Notes:

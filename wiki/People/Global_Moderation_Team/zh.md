@@ -1,4 +1,4 @@
-Global Moderation Team (中文)
+Global Moderation Team
 =================================
 
 **Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是 osu!Staff 的一部分，主要负责管理论坛以及各个聊天室的纪律。大部分 GMT 都有 [modding](/wiki/Modding) 跟 [mapping](/wiki/Beatmapping) 的基础，当中有少数依然活跃于以上的圈子。但是，向他们询问有关 modding 以及 mapping 的事情应被视为最后手段。
@@ -41,6 +41,8 @@ Global Moderation Team (中文)
 | [Kobold84](https://osu.ppy.sh/u/3227533) | 俄语 | 聊天室管理 |
 | [Kurai](https://osu.ppy.sh/u/77089) | 法语, 俄语 | 聊天室管理 |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | 俄语 | 聊天室管理 |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | 芬兰语 | 聊天室管理 |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | 西班牙语 | 聊天室管理, 论坛管理 |
 | [Marcin](https://osu.ppy.sh/u/722665) | 波兰语 | 论坛管理, 发展 |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | 意大利语 | 聊天室管理 |
 | [n0ah](https://osu.ppy.sh/u/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
@@ -48,21 +50,18 @@ Global Moderation Team (中文)
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | 法语 | 聊天室管理 |
 | [Nyquill](https://osu.ppy.sh/u/682935) | 中文 | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | 聊天室管理, 技术支持 |
-| [Pereira006](https://osu.ppy.sh/u/537344) | 葡萄牙语 | 聊天室管理 |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | 荷兰语 | 聊天室管理 |
-| [Repflez](https://osu.ppy.sh/u/201392) | 西班牙语 | 聊天室管理, Wiki 管理 |
+| [Repflez](https://osu.ppy.sh/u/201392) | 西班牙语 | 聊天室管理, wiki 管理 |
 | [ruexia](https://osu.ppy.sh/u/385069) | 韩语 | 聊天室管理 |
 | [S o h](https://osu.ppy.sh/u/2234772) | 日语 | 聊天室管理 |
 | [Saten](https://osu.ppy.sh/u/444506) | 瑞典语, 西班牙语 | 聊天室管理 |
 | [shARPII](https://osu.ppy.sh/u/776257) | 法语 | 聊天室管理, 比赛 |
 | [Shiro](https://osu.ppy.sh/u/113005) | 法语, 西班牙语 | 聊天室管理 |
-| [Shockwave](https://osu.ppy.sh/u/251631) | 西班牙语 | 聊天室管理 |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | 印尼语 | 聊天室管理 |
 | [Spkz](https://osu.ppy.sh/u/2964029) | 匈牙利语 | 聊天室管理 |
 | [Stefan](https://osu.ppy.sh/u/626907) | 德语 | 聊天室管理, 论坛管理 |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | 韩语 | 聊天室管理 |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu! 媒体创作 |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | 技术支持 |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| 韩语, 日语 | 聊天室管理 |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | 西班牙语 | 技术支持 |
 | [Ukami](https://osu.ppy.sh/u/820865) | 波兰语 | 聊天室管理 |

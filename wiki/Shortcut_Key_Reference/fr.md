@@ -50,7 +50,7 @@ Sélection de la beatmap
 -   **F3**: Options de la beatmap sélectionnée
 -   **F5**: Rafraîchir la liste des beatmaps (réparer la liste)
 -   **MAJ-Suppr**: Supprimer la map sélectionnée
--   **Ctrl-1/2/3/4**: Passer respectivement entre les modes ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania).
+-   **Ctrl-1/2/3/4**: Passer respectivement entre les modes ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania).
 -   **Ctrl-Entrée**: Jouer la map actuelle avec le mod [Auto](/wiki/Game_Modifiers).
 -   **Ctrl-MAJ-Entrée**: Jouer la map actuelle avec le mod [Cimema](/wiki/Game_Modifiers).
 -   **Ctrl-A**: Active le mod Auto

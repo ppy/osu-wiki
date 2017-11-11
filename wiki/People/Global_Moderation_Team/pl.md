@@ -38,6 +38,8 @@ Członkowie zespołu
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Rosyjski | Moderacja Czatu |
 | [Kurai](https://osu.ppy.sh/u/77089) | Francuski, Rosyjski | Moderacja Czatu |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Rosyjski | Moderacja Czatu |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Fiński | Moderacja Czatu |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Hiszpański | Moderacja Czatu, Moderacja Forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polski | Moderacja Forum, Rozwijanie gry |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Włoski | Moderacja Czatu |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Holenderski | Moderacja Czatu, Moderacja Forum |
@@ -45,7 +47,6 @@ Członkowie zespołu
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Francuski | Moderacja Czatu |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chiński | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderacja Czatu, Pomoc Techniczna |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portugalski | Moderacja Czatu |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holenderski | Moderacja Czatu |
 | [Repflez](https://osu.ppy.sh/u/201392) | Hiszpański | Moderacja Czatu, Administrowanie Wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | Koreański | Moderacja Czatu |
@@ -53,13 +54,11 @@ Członkowie zespołu
 | [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, Hiszpański | Moderacja Czatu |
 | [shARPII](https://osu.ppy.sh/u/776257) | Francuski | Moderacja Czatu, Turnieje |
 | [Shiro](https://osu.ppy.sh/u/113005) | Francuski, Hiszpański | Moderacja Czatu |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Hiszpański | Moderacja Czatu |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonezyjski | Moderacja Czatu |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Węgierski | Moderacja Czatu |
 | [Stefan](https://osu.ppy.sh/u/626907) | Niemiecki | Moderacja Czatu, Moderacja Forum |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Koreański | Moderacja Czatu |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | Tworzenie osu!media |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Pomoc Techniczna |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Koreański, Japoński | Moderacja Czatu |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Hiszpański | Pomoc Techniczna |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polski | Moderacja Czatu |

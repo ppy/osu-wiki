@@ -1,5 +1,5 @@
-Storyboarding
-==============
+Storyboards
+===========
 
 ![Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"](Sbpassing.png "Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"")
 ![Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.](Sbfailing.png "Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.")

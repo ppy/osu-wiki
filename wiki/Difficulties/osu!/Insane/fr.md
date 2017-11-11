@@ -1,4 +1,4 @@
-Insane (Français)
+Insane
 =================
 
 Les difficultés "Insane" (littéralement *folles*, *insensées* en anglais) sont considérées comme les difficultés les plus difficiles dans le groupe des 4 difficultés générales. Ces maps sont généralement au même niveau de jouabilité que celui du mapper, et où ce dernier laisse libre cours à sa créativité.
