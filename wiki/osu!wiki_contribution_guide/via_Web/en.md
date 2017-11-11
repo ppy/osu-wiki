@@ -32,4 +32,19 @@ automatically.
 After the forking process is complete, you would be greeted with the osu!wiki repository,
 this time, under your own name! 
 
+![GitHub fork repo](/wiki/osu!wiki_contribution_guide/img/Contribute_ownrepo.jpg)
+
 From here, you can make your own changes.
+
+## Making changes to your repository
+
+#### A: Making a change to an existing file.
+
+To make changes, simply head over to the file you wish to edit.
+
+Articles are grouped based on categories. If you want to edit a specific file in the wiki,
+simply head to that folder and pick the appropriate file. Click on it and you should see the 
+preview of the file.
+
+![GitHub preview](/wiki/osu!wiki_contribution_guide/img/Contribute_webview.jpg)
+
