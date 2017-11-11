@@ -21,5 +21,16 @@ However, you can't edit here as you need to "fork" the repository to be able to 
 
 You should come across with this kind of dialogue to prompt you where to place the fork.
 
-![GitHub Fork prompt](/wiki/osu!wiki_contribution_guide/img/Contribute_forkprompt.jpg)
+![GitHub fork prompt](/wiki/osu!wiki_contribution_guide/img/Contribute_forkprompt.jpg)
 
+Your profile would show up in this dialogue. Click on your profile and the forking process would begin
+automatically.
+
+> **Note**: If you have a fork already and its commits behind master, don't worry!
+> You can [sync](#Syncing_Fork) your fork to the upstream repository instead of starting
+> from clean slate again.
+
+After the forking process is complete, you would be greeted with the osu!wiki repository,
+this time, under your own name! 
+
+From here, you can make your own changes.
