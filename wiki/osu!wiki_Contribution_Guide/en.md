@@ -40,11 +40,12 @@ From this point, you have two choices:
 ### Opening a pull request
 
 1\. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
+
 2\. If you were quick enough, you may see this yellow banner.
 
 ![](img/github-recent.jpg)
 
-3\. If you see it, click on the `Compare & pull request` button (you can skip to step 8). If not, click the `New pull request` button (read on to step 5).
+3\. If you see it, click on the `Compare & pull request` button (you can skip to step 8). If not, click the `New pull request` button (go on to step 5).
 
 4\. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
