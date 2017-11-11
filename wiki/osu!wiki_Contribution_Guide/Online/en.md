@@ -6,7 +6,7 @@
 
 ## Editing
 
-In the code tab, navigate to the file you want to edit. The articles are located in the `wiki` folder and are organized by the folder names being the article names, while the `.md` files are the locales. Once you find the correct file, click on it, then click on the pencil icon.
+In the [code tab](https://github.com/ppy/osu-wiki), navigate to the file you want to edit. The articles are located in the `wiki` folder and are organized by the folder names being the article names, while the `.md` files are the locales. Once you find the correct file, click on it, then click on the pencil icon.
 
 ![](img/online-editing.jpg "Clicking this pencil icon in GitHub will send you to the web editor")
 
@@ -36,7 +36,7 @@ When you are done making changes, scroll down to the bottom of the page. You wil
 
 ![](img/online-commit-changes-empty.jpg "Please don't leave these empty!")
 
-**Whatever you do, never leave the `Update en.md` text box empty!** Instead, enter the article's title and a short summary of **all** of the changes you made. You can use the optional description to be more detailed if needed. A good commit may looks something like this:
+**Whatever you do, never leave the `Update en.md` text box empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**. You can use the optional description to be more detailed if needed. A good commit may looks something like this:
 
 ![](img/online-commit-changes-filled.jpg "This is okay!")
 
@@ -48,4 +48,4 @@ Once you are done, click on `Propose file change` button. This will do two thing
 
 ## Finishing
 
-You can now go back to [osu!wiki Contribution Guide § Finishing](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+You can now go back to the [osu!wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.

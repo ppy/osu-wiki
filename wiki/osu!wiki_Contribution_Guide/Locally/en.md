@@ -8,11 +8,11 @@
 
 You will need to then install [GitHub Desktop](https://desktop.github.com). See [Getting Started with GitHub Desktop](https://help.github.com/desktop-classic/guides/getting-started/) for help.
 
-When the installer is completed, GitHub Desktop will prompt you to login. Click on the `Sign into GitHub.com` link and enter your GitHub's username (or the email you used) and password. You will then be prompted to configure Git, just fill in the prompts and continue. On the next screen, it will prompt you if you want to submit anonymous usage data, it is your call if you want to opt-out or not.
+When the installer is completed, GitHub Desktop will prompt you to login. Click on the `Sign into GitHub.com` link and fill in the prompts as they appear.
 
 ## Clone
 
-Once you are done setting up GitHub desktop, click on `Clone a repository`.
+Once you are done setting up GitHub desktop, click on `Clone a repository`. This may take a while depending on your network environment.
 
 ![](img/github-desktop-clone.jpg)
 
@@ -26,7 +26,7 @@ Once you have decided on the clone location, click `Clone`.
 
 This step is technically *optional*, but is heavily recommended due to reasons that you will need to look up for yourself.
 
-Click on the `Current branch` dropdown located at the top of the menu and enter a name for this branch. It can be anything but it could (and probably should) relate to the article you are changing.
+Click on the `Current branch` dropdown located at the top of the menu and enter a name for this branch. It is suggested to use the name of the article you are editing as the branch name followed by a number. For example, editing the `Forums` article may result in the branch being called `forums1`.
 
 ![](img/github-desktop-branch.jpg)
 
@@ -42,7 +42,7 @@ Moving existing files is as easy as selecting the files/folders and pasting them
 
 ### Creating new files
 
-Creating new files is as easy as `Right click`, `New`, `Text Document`, then renaming it to `en.md` or whichever locale you are going to translate. You could also create a blank document in your favorite text editor and save it in the correct location with the `en.md` or whichever locale you are going to translate as the file name.
+Creating new files is as easy as `Right click`, `New`, `Text Document`. Rename locale you are going to translate (see [Article Styling Criteria § Locales](/wiki/ASC/#locales) for file names) followed by `.md`. You could also create a blank document in your favorite text editor and save it in the correct location with the locale you are going to translate followed by `.md` as the file name.
 
 *Caution: If you are going to create article files using Windows Explorer, you need to make sure you have the `File name extensions` option enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for help.
 
@@ -54,7 +54,7 @@ Once you are done editing your files, save and go back to GitHub Desktop. It sho
 
 By default, GitHub Desktop will automatically select all of your changes. It is best to separate each "big" action as a single commit. For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and deleted the translations. From this, we can have two commits, one for the changes that affected the `en.md` file and one for deleting the translations.
 
-First, pippi will commit changes for the `en.md` and image files by **selecting the files to be committed**. Followed by **entering the commit summary and a detailed description** for the changes that took place.
+First, pippi will commit changes for the `en.md` and image files by **selecting the files to be committed**. Followed by **entering the commit summary and a detailed description *in English*** for the changes that took place.
 
 ![](img/github-desktop-first-commit.jpg "First commit")
 
@@ -68,4 +68,4 @@ Once you have finished making your commits, click on the `Publish branch` button
 
 ## Finishing
 
-You can now go back to [osu!wiki Contribution Guide § Finishing](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+You can now go back to the [osu!wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.

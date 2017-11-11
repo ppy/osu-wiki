@@ -8,13 +8,13 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ### Signing up
 
-First, if you don't have a GitHub account, sign up for one. See [Signing up for a new GitHub account - User Documentation](https://help.github.com/articles/signing-up-for-a-new-github-account/) for help. Then log in (you will need to verify your email).
+First, if you don't have a GitHub account, [sign up](https://github.com/join) for one. See [Signing up for a new GitHub account - User Documentation](https://help.github.com/articles/signing-up-for-a-new-github-account/) for help. Then [log in](https://github.com/login) (you will need to verify your email).
 
 *Side note: please don't use a fake or a throwaway email account. You will recieve emails regarding pull request reviews and such in the future.*
 
 ### Forking
 
-To make changes, you will need to fork the `osu-wiki` repository.
+To make changes, you will need to fork the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
 
 ![](img/fork.jpg)
 
@@ -35,7 +35,11 @@ From this point, you have two choices:
 
 ### Opening a pull request
 
-Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki); if you were quick enough, you may see this yellow banner. If you see it, click on the `Compare & pull request` button. If not, click the `New pull request` button.
+Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki); if you were quick enough, you may see this yellow banner.
+
+If you see it, click on the `Compare & pull request` button. This will fill the correct branches and heads needed to merge to `ppy:master`, all you have to do is to fill in the title and complete the description, then click the `Create pull request` button. (You can continue to the next section.)
+
+If not, click the `New pull request` button. (Keep reading.)
 
 ![](img/github-recent.jpg)
 
@@ -57,7 +61,9 @@ Then click on the `Create pull request` button.
 
 ![](img/create-pull-request.jpg)
 
-Enter the title and fill in the description box. Once you are ready, click the `Create pull request` button.
+Enter the title and fill in the description box. Information you add to this must be in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article, while `Beatmaps` would mean it is the English version of the Beatmaps article.
+
+Once you are ready, click the `Create pull request` button.
 
 ![](img/new-pull-request.jpg)
 
