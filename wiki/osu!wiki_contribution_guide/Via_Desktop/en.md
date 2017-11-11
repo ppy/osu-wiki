@@ -1,0 +1,2 @@
+# Contributing to osu!wiki (via desktop)
+__________
