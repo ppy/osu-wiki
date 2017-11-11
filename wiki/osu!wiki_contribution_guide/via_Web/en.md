@@ -43,8 +43,15 @@ From here, you can make your own changes.
 To make changes, simply head over to the file you wish to edit.
 
 Articles are grouped based on categories. If you want to edit a specific file in the wiki,
-simply head to that folder and pick the appropriate file. Click on it and you should see the 
-preview of the file.
+simply head to that folder and pick the appropriate file. 
+
+Click on it and you should see the preview of the file.
+
+> **Note**: Each markdown file is named after the localisation it contains. 
+> ie. If English, it would be en.md. Listing of the localizations available is at
+> [Article Styling Criteria](/wiki/Article_Styling_Criteria#Locales)
 
 ![GitHub preview](/wiki/osu!wiki_contribution_guide/img/Contribute_webview.jpg)
+
+
 
