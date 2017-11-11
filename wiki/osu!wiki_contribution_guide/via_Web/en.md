@@ -48,7 +48,7 @@ simply head to that folder and pick the appropriate file.
 Click on it and you should see the preview of the file.
 
 > **Note**: Each markdown file is named after the localisation it contains. 
-> ie. If English, it would be en.md. Listing of the localizations available is at the
+> ie. If English, it would be ``en.md``. Listing of the localizations available is at the
 > [article styling criteria](/wiki/Article_Styling_Criteria#Locales)
 
 ![GitHub preview](/wiki/osu!wiki_contribution_guide/img/Contribute_webview.jpg)
