@@ -6,9 +6,11 @@
 
 This can also be phrased as, "All of my commits say 'Updated en.md'," or with other locale name followed by `.md`.
 
-This means you didn't use meaningful commit messages when you were able to or you tried to move, edit, and/or delete multiple files using the GitHub web interface. Remember, commit messages are supposed to be meaningful so anyone can understand what you changed without looking at the GitHub diff themselves. They must, however, also be short enough to fit the character limit of 72 characters.
+A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits.
 
-To resolve this (for both online and local editors):
+If someone has told you this or you see that all of your commit messages are the same, this means you didn't use meaningful commit messages when you were able to or you tried to move, edit, and/or delete multiple files using the GitHub web interface.
+
+To resolve this (for both GitHub web interface and GitHub Desktop editors):
 
 1. Go to your fork of the `osu-wiki` repo.
 2. Create a new branch. Name it the same thing as your problematic branch and append a number, or name it whatever you want.
@@ -28,7 +30,7 @@ To resolve this (for both online and local editors):
 16. Close your pull request that has the problematic branch.
 17. Open a new pull request using the new branch.
 
-In the form of technicalities, this is the best way to squash commits from a branch when limited to only using the GitHub web interface.
+In the form of technicalities, this is the best way to squash commits from a branch when limited to only using the GitHub web interface. It is also impossible to squash commits using GitHub Desktop.
 
 ## My branch is out of date!
 
