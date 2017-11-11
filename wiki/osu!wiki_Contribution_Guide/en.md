@@ -8,17 +8,21 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ### Signing up
 
-First, if you don't have a GitHub account, [sign up](https://github.com/join) for one. See [Signing up for a new GitHub account - User Documentation](https://help.github.com/articles/signing-up-for-a-new-github-account/) for help. Then [log in](https://github.com/login) (you will need to verify your email).
+1\. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
 
-*Side note: please don't use a fake or a throwaway email account. You will recieve emails regarding pull request reviews and such in the future.*
+2\. [Log in](https://github.com/login).
 
 ### Forking
 
-To make changes, you will need to fork the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
+1\. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
+
+2\. Click `Fork`.
 
 ![](img/fork.jpg)
 
-Go to your fork (click the `Fork` button again). Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo.
+3\. Click `Fork` again.
+
+4\. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo.
 
 ![](img/forked.jpg)
 
@@ -26,7 +30,7 @@ Go to your fork (click the `Fork` button again). Seeing something similar to the
 
 From this point, you have two choices:
 
-- [Online](/wiki/owcg/Online) - uses GitHub's web interface; this is best for single article edits
+- [GitHub_Web_Interface](/wiki/owcg/GitHub_Web_Interface) - uses GitHub web interface; this is best for single article edits
 - [Locally](/wiki/owcg/Locally) - uses GitHub Desktop; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
 **When you have completed either Online or Locally, you can continue to the next section.**
@@ -35,37 +39,40 @@ From this point, you have two choices:
 
 ### Opening a pull request
 
-Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki); if you were quick enough, you may see this yellow banner.
-
-If you see it, click on the `Compare & pull request` button. This will fill the correct branches and heads needed to merge to `ppy:master`, all you have to do is to fill in the title and complete the description, then click the `Create pull request` button. (You can continue to the next section.)
-
-If not, click the `New pull request` button. (Keep reading.)
+1\. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
+2\. If you were quick enough, you may see this yellow banner.
 
 ![](img/github-recent.jpg)
 
-On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+3\. If you see it, click on the `Compare & pull request` button (you can skip to step 8). If not, click the `New pull request` button (read on to step 5).
 
-![](img/compare-across-forks-no.jpg)
+4\. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+
+![](img/compare-across-forks-no.jpg "No good.")
 
 ![](img/compare-across-forks-yes.jpg "This is what you want to see.")
 
-Click on the `head fork` dropdown and select the one with your username (it should be the second one).
+5\. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
 
 ![](img/head-fork.jpg)
 
-Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
+6\. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
 
 ![](img/compare-branch.jpg)
 
-Then click on the `Create pull request` button.
+7\. Click `Create pull request`.
 
 ![](img/create-pull-request.jpg)
 
-Enter the title and fill in the description box. Information you add to this must be in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article, while `Beatmaps` would mean it is the English version of the Beatmaps article.
+8\. Enter the title in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article.
 
-Once you are ready, click the `Create pull request` button.
+9\. Fill in the description box with the requested information, you can delete sections if they do not apply.
 
-![](img/new-pull-request.jpg)
+10\. Once you are ready, click the `Create pull request` button.
+
+![](img/new-pull-request.jpg "Perfect")
+
+11\. See [Reviews](#reviews) and [Merging](#merging).
 
 ### Reviews
 
