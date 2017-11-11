@@ -2,13 +2,13 @@
 
 *Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
 
-*This article continues from the main page* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). You may use other git clients on your own terms. Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
+*This article continues from the main page* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
 ## Installing GitHub Desktop
 
-1\. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already. See [Getting Started with GitHub Desktop](https://help.github.com/desktop-classic/guides/getting-started/) for help.
+1\. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already.
 
-2\. When the installer is completed, GitHub Desktop will prompt you to login, click on the `Sign into GitHub.com` link.
+2\. When the installer is completed, GitHub Desktop will prompt you to login, click `Sign into GitHub.com`.
 
 3\. Fill in the prompts as they appear.
 
@@ -52,27 +52,33 @@ You can use Windows Explorer, your favorite image editor, and/or your favorite t
 
 If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
 
-*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for help.
+*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
 
 ## Committing and pushing
 
-Go back to GitHub Desktop. It should look something similar to this:
+1\. Go back to GitHub Desktop. It should look something similar to this:
 
 ![](img/github-desktop-changes.jpg "Your mileage may vary.")
 
-By default, GitHub Desktop will automatically select all of your changes.
+2\.By default, GitHub Desktop will automatically select all of your changes.
 
-It is best to separate each "big" action as a single commit. For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and deleted the translations. From this, we can have two commits, one for the changes that affected the `en.md` file and one for deleting the translations.
+3\. It is best to separate each "big" action as a single commit.
 
-pippi will commit changes for the `en.md` and image files by **selecting the files to be committed**. Followed by **entering the commit summary and a detailed description *in English*** for the changes that took place.
+For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and deleted the translations. From this, we can have two commits, one for the changes that affected the `en.md` file and one for deleting the translations.
+
+4\. Select the files that are going to be committed.
+
+5\. Enter the commit summary. This has a 72 character limit and **must be in English**.
+
+6\. Enter the description. This is optional, doesn't have a character limit, and could be in any language.
 
 ![](img/github-desktop-first-commit.jpg "First commit")
 
-Once completed, click on the `Commit to` *the branch's name* button and, if applicable, repeat for the next set of commits you want to do.
+7\. Click on the blue `Commit to` button and, and if applicable, restart from step 4 to do the other commits you want to do.
 
 ![](img/github-desktop-second-commit.jpg "Second commit")
 
-Once you have finished making your commits, click on the `Publish branch` button at the top.
+8\. Once you have finished making your commits, click on the `Publish branch` button at the top.
 
 ![](img/github-desktop-push.jpg)
 
