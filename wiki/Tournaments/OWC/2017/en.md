@@ -46,6 +46,66 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+## Match Schedule: Group Stage
+
+### Saturday, 18. November 2017
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Indonesia | ![][flag_ID] | ![][flag_AU] | Australia | **10.00 UTC** | 17.00 UTC +7 | 20.00 UTC +10 |
+| Latvia | ![][flag_LV] | ![][flag_KR] | South Korea | **10.00 UTC** | 12.00 UTC +2 | 19.00 UTC +9 |
+| Israel | ![][flag_IL] | ![][flag_SG] | Singapore | **10.00 UTC** | 13.00 UTC +3 | 18.00 UTC +8 |
+| Hungary | ![][flag_HU] | ![][flag_JP] | Japan | **11.00 UTC** | 12.00 UTC +1 | 20.00 UTC +9 |
+| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | **11.00 UTC** | 14.00 UTC +3 | 12.00 UTC +1 |
+| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
+| Netherlands | ![][flag_NL] | ![][flag_CN] | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
+| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 |
+| Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | **12.00 UTC** | 19.00 UTC +7 | 13.00 UTC +1 |
+| Malaysia | ![][flag_MY] | ![][flag_DE] | Germany | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| Argentina | ![][flag_AR] | ![][flag_KR] | South Korea | **13.00 UTC** | 10.00 UTC -3 | 22.00 UTC +9 |
+| Israel | ![][flag_IL] | ![][flag_GB] | United Kingdom | **13.00 UTC** | 16.00 UTC +3 | 13.00 UTC +0 |
+| Romania | ![][flag_RO] | ![][flag_SE] | Sweden | **13.00 UTC** | 15.00 UTC +2 | 14.00 UTC +1 |
+| Philippines | ![][flag_PH] | ![][flag_CL] | Chile | **14.00 UTC** | 22.00 UTC +8 | 11.00 UTC -3 |
+| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **14.00 UTC** | 22.00 UTC +8 | 15.00 UTC +1 |
+| Hungary | ![][flag_HU] | ![][flag_RU] | Russian Federation | **14.00 UTC** | 15.00 UTC +1 | 17.00 UTC +3 |
+| Latvia | ![][flag_LV] | ![][flag_BR] | Brazil | **17.00 UTC** | 19.00 UTC +2 | 15.00 UTC -2 |
+| Finland | ![][flag_FI] | ![][flag_IL] | Israel | **17.00 UTC** | 19.00 UTC +2 | 20.00 UTC +3 |
+| Romania | ![][flag_RO] | ![][flag_CA] | Canada | **17.00 UTC** | 19.00 UTC +2 | 11.00 UTC -6 |
+| Chile | ![][flag_CL] | ![][flag_NO] | Norway | **18.00 UTC** | 15.00 UTC -3 | 19.00 UTC +1 |
+| Mexico | ![][flag_MX] | ![][flag_AT] | Austria | **18.00 UTC** | 12.00 UTC -6 | 19.00 UTC +1 |
+| Netherlands | ![][flag_NL] | ![][flag_US] | United States | **18.00 UTC** | 19.00 UTC +1 | 12.00 UTC -6 |
+| Denmark | ![][flag_DK] | ![][flag_PL] | Poland | **19.00 UTC** | 20.00 UTC +1 | 20.00 UTC +1 |
+| Argentina | ![][flag_AR] | ![][flag_BR] | Brazil | **19.00 UTC** | 16.00 UTC -3 | 17.00 UTC -2 |
+| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **19.00 UTC** | 20.00 UTC +1 | 13.00 UTC -6 |
+| Mexico | ![][flag_MX] | ![][flag_DE] | Germany | **20.00 UTC** | 14.00 UTC -6 | 21.00 UTC +1 |
+| Italy | ![][flag_IT] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 |
+| Hungary | ![][flag_HU] | ![][flag_FR] | France | **20.00 UTC** | 21.00 UTC +1 | 21.00 UTC +1 |
+
+### Sunday, 19. November 2017
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Taiwan | ![][flag_TW] | ![][flag_CA] | Canada | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
+| Malaysia | ![][flag_MY] | ![][flag_MX] | Mexico | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
+| China | ![][flag_CN] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
+| Denmark | ![][flag_DK] | ![][flag_AU] | Australia | **10.00 UTC** | 11.00 UTC +1 | 20.00 UTC +10 |
+| Finland | ![][flag_FI] | ![][flag_SG] | Singapore | **10.00 UTC** | 12.00 UTC +2 | 18.00 UTC +8 |
+| Malaysia | ![][flag_MY] | ![][flag_AT] | Austria | **10.00 UTC** | 18.00 UTC +8 | 11.00 UTC +1 |
+| Japan | ![][flag_JP] | ![][flag_FR] | France | **11.00 UTC** | 20.00 UTC +9 | 12.00 UTC +1 |
+| Sweden | ![][flag_SE] | ![][flag_TW] | Taiwan | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
+| Italy | ![][flag_IT] | ![][flag_CN] | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
+| Philippines | ![][flag_PH] | ![][flag_NO] | Norway | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| Indonesia | ![][flag_ID] | ![][flag_DK] | Denmark | **12.00 UTC** | 19.00 UTC +7 | 13.00 UTC +1 |
+| Australia | ![][flag_AU] | ![][flag_PL] | Poland | **12.00 UTC** | 22.00 UTC +10 | 13.00 UTC +1 |
+| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **12.00 UTC** | 20.00 UTC +8 | 12.00 UTC +0 |
+| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **13.00 UTC** | 22.00 UTC +9 | 16.00 UTC +3 |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **13.00 UTC** | 11.00 UTC -2 | 22.00 UTC +9 |
+| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | **13.00 UTC** | 14.00 UTC +1 | 14.00 UTC +1 |
+| Hong Kong | ![][flag_HK] | ![][flag_CL] | Chile | **14.00 UTC** | 22.00 UTC +8 | 11.00 UTC -3 |
+| Latvia | ![][flag_LV] | ![][flag_AR] | Argentina | **14.00 UTC** | 16.00 UTC +2 | 11.00 UTC -3 |
+| Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 16.00 UTC +2 | 14.00 UTC +0 |
+| Austria | ![][flag_AT] | ![][flag_DE] | Germany | **14.00 UTC** | 15.00 UTC +1 | 15.00 UTC +1 |
+
+------------------------------------------------------------------------
+
 ## Participants
 
 ### Confirmed Rosters
