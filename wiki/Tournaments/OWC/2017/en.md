@@ -42,7 +42,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Sign up here!](https://osu.ppy.sh/community/tournaments/12)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)**
 
 ------------------------------------------------------------------------
 
