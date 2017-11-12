@@ -10,7 +10,7 @@ It's finals time. Been a while since [last year's voting](https://osu.ppy.sh/hom
 
 ### Where can I vote?
 
-[Voting page can be found here!](CONTEST_PAGE)
+[Voting page can be found here!](https://osu.ppy.sh/community/contests/57)
 
 ### What will the prizes be?
 
