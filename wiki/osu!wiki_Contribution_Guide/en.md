@@ -20,20 +20,22 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ![](img/fork.jpg)
 
-3\. Click `Fork` again.
+3\. Click `Fork` again to go to your fork.
 
-4\. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo.
+4\. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
 
 ![](img/forked.jpg)
 
 ## Editing online or locally
 
-From this point, you have two choices:
+At this point, you have two choices:
 
-- [GitHub_Web_Interface](/wiki/owcg/GitHub_Web_Interface) - uses GitHub web interface; this is best for single article edits
-- [Locally](/wiki/owcg/Locally) - uses GitHub Desktop; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
+- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
+- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
-**When you have completed either Online or Locally, you can continue to the next section.**
+*Note: You are not limit to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
+
+**When you have completed either GitHub Web Interface or GitHub Desktop, you can continue to the next section.**
 
 ## Finishing
 
@@ -45,7 +47,7 @@ From this point, you have two choices:
 
 ![](img/github-recent.jpg)
 
-3\. If you see it, click on the `Compare & pull request` button (you can skip to step 8). If not, click the `New pull request` button (go on to step 5).
+3\. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
 
 4\. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
@@ -63,17 +65,15 @@ From this point, you have two choices:
 
 7\. Click `Create pull request`.
 
-![](img/create-pull-request.jpg)
-
 8\. Enter the title in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article.
 
 9\. Fill in the description box with the requested information, you can delete sections if they do not apply.
 
-10\. Once you are ready, click the `Create pull request` button.
+10\. Once you are ready, click `Create pull request`.
 
 ![](img/new-pull-request.jpg "Perfect")
 
-11\. See [Reviews](#reviews) and [Merging](#merging).
+11\. See [Reviews](#reviews) and [Merging](#merging) below.
 
 ### Reviews
 

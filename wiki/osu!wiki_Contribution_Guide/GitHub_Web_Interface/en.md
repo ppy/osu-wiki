@@ -18,7 +18,7 @@
 
 5\. You can now make your changes. When making changes, try to follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
 
-6\. Continue on to [Saving and committing](#saving-and-committing).
+6\. Continue to [Saving and committing](#saving-and-committing).
 
 ### Moving files
 
@@ -36,7 +36,7 @@
 
 5\. Once you are at the level needed, type in either another folder name and/or the locale name (in lowercase letters) followed by `.md`.
 
-6\. Continue on to [Saving and committing](#saving-and-committing).
+6\. Continue to [Saving and committing](#saving-and-committing).
 
 ### Creating files
 
@@ -48,7 +48,7 @@
 
 4\. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`.
 
-5\. Continue on to [Saving and committing](#saving-and-committing).
+5\. Continue to [Saving and committing](#saving-and-committing).
 
 ### Uploading files
 
@@ -59,6 +59,8 @@
 3\. Click `Upload files`.
 
 4\. Select the files you want to upload.
+
+5\. Continue to [Saving and committing](#saving-and-committing).
 
 *Note: You can also upload folders.* This may be helpful for those who want to create new articles locally.
 
@@ -72,31 +74,31 @@
 
 3\. Click on the trash can icon.
 
-4\. Continue on to [Saving and committing](#saving-and-committing).
+4\. Continue to [Saving and committing](#saving-and-committing).
 
 ## Saving and committing
 
-1\. When you are done making changes, scroll down to the bottom of the page. You will see this:
+1\. When you are done making changes, scroll down to the bottom of the page. You may see something similar to this:
 
 ![](img/online-commit-changes-empty.jpg "Please don't leave these empty!")
 
-2\. **Whatever you do, never leave the `Update en.md` text box empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
+2\. **Whatever you do, never leave the shorter text box empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
 
 3\. You can use the optional description to be more detailed if needed. A good commit may look something like this:
 
 ![](img/online-commit-changes-filled.jpg "This is okay!")
 
-4\. Preferably, select the `Create a new branch for this commit and start a pull request.` option.
+4\. Preferably, select the `Create a new branch for this commit and start a pull request.` option. This will allow you to make multiple, but different, article changes in the future.
 
-5\. This will allow you to make multiple, but different, article changes in the future.
+5\. Name this branch to whatever you want, just make sure you note the name you chose.
 
-6\. You can name this branch to whatever you want, just make sure you note the name you chose.
+6\. Once you are done, click on `Propose file change` button.
 
-7\. Once you are done, click on `Propose file change` button.
-
-8\. This will do two things, save your changes into the branch you just named and it will open the pull request page.
+7\. This will do two things, save your changes into the branch you just named and it will open the pull request page.
 
 ![](img/pull-request-pippi-osu--osu-wiki.jpg "Don't do anything here! (This is the wrong page!)")
+
+8\. Continue to [Finishing](#finishing).
 
 ## Finishing
 

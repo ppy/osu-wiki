@@ -12,6 +12,8 @@
 
 3\. Fill in the prompts as they appear.
 
+4\. Continue to [Cloning](#cloning).
+
 ## Cloning
 
 1\. Click on `Clone a repository`.
@@ -24,15 +26,19 @@
 
 4\. Click `Clone`. This may take a while depending on your network environment.
 
+5\. Continue to [Branching](#branching).
+
 ## Branching
 
-*Note: This step is technically optional, but is heavily recommended due to reasons that you will need to look up for yourself.*
+*Note: This is technically optional, but is heavily recommended due to reasons that you will need to look up for yourself.*
 
 1\. Click on the `Current branch` dropdown. This is located at the top of the menu.
 
 2\. Enter a name for this branch. It is suggested to use the name of the article you are editing as the branch name followed by a number. For example, editing the `Forums` article may result in the branch being called `forums1`.
 
 ![](img/github-desktop-branch.jpg)
+
+3\. Continue to [Editing](#editing).
 
 ## Editing
 
@@ -42,17 +48,21 @@
 
 3\. You can now make your changes. When making changes, try to follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
 
+4\. Continue to [Committing and pushing](#committing-and-pushing).
+
 ### Moving existing files
 
-You can use Windows Explorer to move files around.
+1\. Use Windows Explorer to move files around.
+
+2\. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Creating new files
 
-You can use Windows Explorer, your favorite image editor, and/or your favorite text editor to create new files.
-
-If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
-
 *Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
+
+1\. Use Windows Explorer, your favorite image editor, and/or your favorite text editor to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
+
+2\. Continue to [Committing and pushing](#committing-and-pushing).
 
 ## Committing and pushing
 
@@ -81,6 +91,8 @@ For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image
 8\. Once you have finished making your commits, click on the `Publish branch` button at the top.
 
 ![](img/github-desktop-push.jpg)
+
+9\. Continue to [Finishing](#finishing).
 
 ## Finishing
 
