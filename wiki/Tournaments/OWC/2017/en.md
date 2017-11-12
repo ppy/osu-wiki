@@ -87,6 +87,37 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+## Mappools
+
+### Group Stages
+
+**[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar)**
+
+- NoMod
+  - [Amane - TWEEKER (TicClick)](http://osu.ppy.sh/b/771858&m=0) [Lunatic]
+  - [nano - Bull's Eye (Asphyxia)](http://osu.ppy.sh/b/904687&m=0) [toybot's Extra]
+  - [Smooth J - Haru yo, Koi (Streliteela)](http://osu.ppy.sh/b/664611&m=0) [Insane]
+  - [Apocalyptica - 2010 (feat. Dave Lombardo) (pishifat)](http://osu.ppy.sh/b/724512&m=0) [Extra]
+  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk)](http://osu.ppy.sh/b/821336&m=0) [deetz' Insane]
+  - [ak+q - Vexaria (Pentori)](http://osu.ppy.sh/b/1392666&m=0) [Miura's Another]
+- Hidden
+  - [07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/b/88633&m=0) [Insane]
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz)](http://osu.ppy.sh/b/951600&m=0) [Collab]
+- HardRock
+  - [Cororo - Fairy ring (Kite)](http://osu.ppy.sh/b/705760&m=0) [Serenity]
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae)](http://osu.ppy.sh/b/91462&m=0) [Crazy Jay]
+- DoubleTime
+  - [Pendulum - The Vulture (La Cataline)](http://osu.ppy.sh/b/82249&m=0) [Insane]
+  - [Ronald Jenkees - Super-Fun (tieff)](http://osu.ppy.sh/b/257379&m=0) [Fun]
+- FreeMod
+  - [FELT - a wonderful moon (Naitoshi)](http://osu.ppy.sh/b/454385&m=0) [Lunatic]
+  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445)](http://osu.ppy.sh/b/208776&m=0) [Insane]
+  - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123)](http://osu.ppy.sh/b/148000&m=0) [Lunatic]
+- Tiebreaker
+  - [DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori)](http://osu.ppy.sh/b/854972&m=0) [Illuminate]
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
