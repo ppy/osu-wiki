@@ -26,7 +26,7 @@ Your profile would show up in this dialogue. Click on your profile and the forki
 automatically.
 
 > **Note**: If you have a fork already and its commits behind master, don't worry!
-> You can [sync](#Syncing_Fork) your fork to the upstream repository instead of starting
+> You can [sync](#Sync_your_local_fork) your fork to the upstream repository instead of starting
 > from clean slate again.
 
 After the forking process is complete, you would be greeted with the osu!wiki repository,
@@ -66,5 +66,31 @@ After making your changes, you will have two options below to "commit" your chan
 
 Congratulations! You just made some changes into your copy of the osu-wiki repository!
 
-> **Note**: But be reminded again that you need to submit a 
+> **Note**: be reminded that you need to submit a 
 > [Pull  Request](/wiki/osu!wiki_contribution_guide#Pull_Requests) for your changes to be live.
+
+### Keeping your fork up-to-date with the upstream repository.
+
+There would be times your fork would be out to date with the upstream repository.
+
+Don't worry, you can keep your repository up to sync with two options.
+
+#### Using upriver
+
+This is one of the easiest and cleanest ways to update your fork as this updates your fork to the latest commits in the upstream repository.
+
+**Instructions**
+
+ 1: Head over to the [Upriver website](https://upriver.github.io)
+ 
+ 2: Click the "sign in with GitHub" button. You would need to authorize upriver in order to for it to access your fork.
+ 
+ 3: Once authorized, you should point the pull from ``ppy/osu-wiki`` on branch ``master`` into your fork.
+ 
+ 4: Click the "pull" button.
+ 
+Once successful, your fork would be in sync with the upstream repository.
+
+> **Warning**: Should you wish to tick the "force" checkbox, the pull
+> would overwrite any changes with the upstream changes. Do not use this
+> option if you have made changes into your target branch!
