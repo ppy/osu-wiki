@@ -26,7 +26,7 @@ Your profile would show up in this dialogue. Click on your profile and the forki
 automatically.
 
 > **Note**: If you have a fork already and its commits behind master, don't worry!
-> You can [sync](#Keeping_your_fork_up-to-date_with_the_upstream_repository) your fork to the upstream repository instead of starting
+> You can [sync](#keeping-your-fork-up-to-date-with-the-upstream-repository) your fork to the upstream repository instead of starting
 > from clean slate again.
 
 After the forking process is complete, you would be greeted with the osu!wiki repository,
