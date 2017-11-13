@@ -64,6 +64,6 @@ After making your changes, you will have two options below to "commit" your chan
 
 **Create a new branch for this commit and start a pull request**: This option saves the commit on a new branch and proceeds in making a pull request.
 
-Congratulations! You just made some changes int your copy of the osu-wiki repository!
+Congratulations! You just made some changes into your copy of the osu-wiki repository!
 
-But be reminded again that you need to submit a [Pull Request](/wiki/osu!wiki_contribution_guide#Pull_Requests).
+But be reminded again that you need to submit a [Pull Request](/wiki/osu!wiki_contribution_guide#Pull_Requests) for your changes to be live.
