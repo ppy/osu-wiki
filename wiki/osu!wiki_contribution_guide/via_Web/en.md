@@ -58,5 +58,11 @@ It will redirect you to the edit page where you can make your edits.
 
 ![Github Edit](/wiki/osu!wiki_contribution_guide/img/Contribute_webeditor.jpg)
 
+After making your changes, you will have two options below to "commit" your changes.
 
+![Github commit](/wiki/osu!wiki_contribution_guide/img/Contribute_webcommit.jpg)
+
+**Commit directly to ``<branch>``**: This option saves directly to the branch you are currently into (By default, you will be saving your changes to the ``master`` branch).
+
+**Create a new branch for this commit and start a pull request**: This option saves the commit on a new branch and proceeds in making a pull request.
 
