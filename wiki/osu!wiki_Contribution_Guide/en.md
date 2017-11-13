@@ -12,6 +12,8 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 2\. [Log in](https://github.com/login).
 
+3\. Continue to [Forking](#forking).
+
 ### Forking
 
 1\. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
@@ -26,6 +28,20 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ![](img/forked.jpg)
 
+3\. Continue to [Syncing your fork](#syncing-your-fork).
+
+### Syncing your fork
+
+1\. Go to your work of the `osu-wiki` repo.
+
+2\. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says, `This branch is {n} commits behind ppy:master` or similar, your branch is outdated.
+
+3\. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed, which may be unlikely the more commits you are behind.
+
+4\. To resolve this, see [Common Issues § My branch is out of date!](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+
+5\. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
+
 ## Editing online or locally
 
 At this point, you have two choices:
@@ -35,7 +51,7 @@ At this point, you have two choices:
 
 *Note: You are not limit to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
 
-**When you have completed either GitHub Web Interface or GitHub Desktop, you can continue to the next section.**
+**When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
 
 ## Finishing
 
