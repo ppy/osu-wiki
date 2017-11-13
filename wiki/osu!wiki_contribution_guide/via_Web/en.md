@@ -81,7 +81,7 @@ This is one of the easiest and cleanest ways to update your fork as this updates
 
 **Instructions**
 
- 1: Head over to the [Upriver website](https://upriver.github.io)
+ 1: Head over to the [Upriver website](https://upriver.github.io).
  
  2: Click the "sign in with GitHub" button. You would need to authorize upriver in order to for it to access your fork.
  
