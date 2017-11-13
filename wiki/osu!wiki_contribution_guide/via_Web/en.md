@@ -38,8 +38,6 @@ From here, you can make your own changes.
 
 ## Making changes to your repository
 
-#### A: Making a change to an existing file.
-
 To make changes, simply head over to the file you wish to edit.
 
 Articles are grouped based on categories. If you want to edit a specific file in the wiki,
