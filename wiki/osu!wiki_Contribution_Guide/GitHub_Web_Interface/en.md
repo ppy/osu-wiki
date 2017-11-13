@@ -88,11 +88,11 @@
 
 ![](img/online-commit-changes-filled.jpg "This is okay!")
 
-4\. Preferably, select the `Create a new branch for this commit and start a pull request.` option. This will allow you to make multiple, but different, article changes in the future.
+4\. If this is the first edit you are making for this article, select the `Create a new branch for this commit and start a pull request.` option. This will allow you to make multiple, but different, article changes in the future (continue to step 5). If not, select `Commit directory to the {xxxxxx} branch.` (and skip to step 6).
 
 5\. Name this branch to whatever you want, just make sure you note the name you chose.
 
-6\. Once you are done, click on `Propose file change` button.
+6\. Click on the green button; it will read either `Propose file change` or `Commit changes`, depending if you are creating a new branch or not.
 
 7\. This will do two things, save your changes into the branch you just named and it will open the pull request page.
 
