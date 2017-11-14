@@ -165,19 +165,15 @@ Your post will be submitted! You can restart at step 3 if you wish to continue m
 
 ### Is Kudosu! available in Beatmap Discussion?
 
-Kudosu! is not yet implemented in Beatmap Discussion. You will not recieve any for submissions you make in the Discussion section. However, It is unknown if current submissions will receive Kudsou! when it is finally implemented.
+Kudosu! is not yet implemented in Beatmap Discussion. You will not recieve any for submissions you make in the Discussion section. However, it is unknown if current submissions will receive Kudsou! when it is finally implemented. It is also unknown whether or not Kudosu! will be returning either.
 
 ### How are beatmaps nominated?
 
 Beatmap Discussion follows the same procedure as its predecessor. 2 Beatmap Nominators are required to nominate the Meatmapset for qualification. Star Priority has been replaced with Hype and requires 12 Hype before it can be nominated.
 
-### Will I be able to mod with the older system after Beatmap Discussion releases?
-
-You should mod with the system the creator has chosen. If they focus on using the Beatmap Discussion system, mod accordingly. Otherwise your mods may go unnoticed.
-
 ### I don't like Beatmap Discussion! How do go back to the older system?
 
-A thread of the old beatmap is still created through Beatmap Submission. If the creator wishes to return to the older system, they can access it simply through the speech bubbles in the song select screen, through the web menu in the editor, or in the creator's post history. Make sure to create a link in the description of the beatmap for ease of accessibility. The "Modding / Discussion" link will take you to the Beatmap Discussion page if your beatmap was submmitted to Beatmap Discussion.
+Modding Discussion is now live. There is no way to return to the older system; however, old maps with mods may still use the old modding system.
 
 ## Trivia
 
