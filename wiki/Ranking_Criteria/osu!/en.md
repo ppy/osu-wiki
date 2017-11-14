@@ -25,6 +25,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 
 ### Gameplay
 
+- **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 - **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
 - **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
 - **Stack:** Two or more hit objects placed in the same spot on the grid.
