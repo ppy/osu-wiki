@@ -1,6 +1,6 @@
 # Beatmap Discussion
 
-Beatmap Discussion is now live on Stable (Latest), Beta, and Cutting Edge!
+Beatmap Discussion (introduced as *Modding v2*) is now live on Stable (Latest), Beta, and Cutting Edge!
 
 ## Submitting a beatmap for Beatmap Discussion
 
@@ -10,11 +10,11 @@ New beatmaps submitted via the Beatmap Submission System will use Beatmap Discus
 
 ### Old beatmaps
 
-A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets.
+A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets. All existing maps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Modding Discussion.
 
 ### Returning to the old modding system
 
-With the osu!client open, you can access the old modding page by clicking on the speech bubble icon in the song selection screen and selecting `Beatmap Topic`. You can also click on `Quick Reply` in the beatmap editor via the `Web` menu. You can also find it by looking in the creator's post history through their profile.
+It is no longer possible to return to the old modding system. The only maps that may use the old system are those with mod posts. If maps already use Modding Discussion, the forum thread will not have a reply button, instead, it will replaced with a button that redirects to the Modding Discussion panel.
 
 ## Accessing the Beatmap Discussion page
 
@@ -26,7 +26,7 @@ Click on the `Discussion` button in the beatmap info page.
 
 ### Through osu.ppy.sh:
 
-Clicking on Modding/Discussion on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
+Clicking on `Modding/Discussion` on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
 
 ## Beatmap Discussion page
 
@@ -38,7 +38,7 @@ Clicking on Modding/Discussion on the beatmap's page will take you to the page, 
 
 Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. You can only select each game mode if the beatmapset has a difficulty with said game mode.
 
-### Beatmap page / Difficulty selection
+## Beatmap page / Difficulty selection
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
@@ -62,19 +62,19 @@ All of the mods below are for the selected difficulty. Clicking on any of these 
 
 This displays all of the mods made for said difficulty that has a timestamp. Clicking on these will scroll down to the mod posted at that timestamp.
 
-### Beatmap status
+## Beatmap status
 
 ![](img/beatmap-status.jpg "Contains important information!")
 
-#### Beatmap creator
+### Beatmap creator
 
 This contains the creator who submitted the beatmapset, shows the submission date, and the date the beatmap was last updated.
 
-#### Watch/Unwatch
+### Watch/Unwatch
 
 This replaces beatmap subscription. You can track the beatmaps' status and open issues. This page is access via the website's Home page by clicking on `modding watchlist` located near the top of the page.
 
-#### Hype Train
+### Hype Train
 
 Hype train is similar to the old star priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train.
 
@@ -82,15 +82,15 @@ Hype train is similar to the old star priority system. A user can submit Praise 
 
 *Note: the creator can't Hype up their own beatmap. Praise must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs.*
 
-#### Nomination
+### Nomination
 
 Once a beatmap has accumilated 12 Hype, the beatmap is eligible for Nomination. This works as it did with the old modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the qualified state.
 
-### Mod submission field
+## Mod submission field
 
 ![](img/mod-submission-field.jpg "The place where modding magic happens.")
 
-#### Mod section submission
+### Mod section submission
 
 This is what section of the beatmap you will be submitting your concerns to.
 
@@ -101,29 +101,29 @@ This is what section of the beatmap you will be submitting your concerns to.
 
 ![](img/history.jpg)
 
-#### Modding field
+### Modding field
 
 ![](img/modding-field.jpg "Where modding magic happens")
 
 This is where you type your mod. If you use the Timeline section, you must include a timestamp in the post. The first timestamp placed will be the timestamp shown in the Discussion section. The General sections do not require timestamps, but may include them.
 
-#### Similar post warning
+### Similar post warning
 
 ![](img/similar-post-warning.jpg)
 
 If your timestamp submitted through the Timeline section is close to another mod already posted, you will have to confirm that the mod doesn't address the issue you are currently submitting. Please check the discussion field before checking the box!
 
-#### Mod type
+### Mod type
 
 ![](img/mod-type.jpg)
 
 This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.. You can add Hype to the beatmap by submitting Praise in the General (All Difficulties) section.
 
-### Mod Discussion field
+## Mod Discussion field
 
 ![](img/discussions.jpg)
 
-#### Functions
+### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
 - Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this.
@@ -139,7 +139,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 - Submit your beatmap through Stable (Latest), Beta, or Cutting Edge to use Beatmap Discussion. Fallback submits to the old system.
 - Choose the correct mode and difficulty you wish to mod!
 - Select the proper section you are submitting your mod to.
-- Only post ONE issue at a time. Do not submit multiple issues in a single post!
+- **Only post one issue at a time.** Do not submit multiple issues in a single post!
 - The Timeline section requires at least one timestamp before you can submit your post.
 - Check to see if the issue has already been addressed when the similar post warning pops up.
 - Do you like the beatmap? Give it some Praise in the General (All Difficulties) section to increase the amount of Hype on the Hype Train. This helps the beatmap move closer to nomination.
