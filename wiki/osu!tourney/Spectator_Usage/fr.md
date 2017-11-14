@@ -5,15 +5,15 @@ _Page principale: [osu!tourney](/wiki/osu!tourney)_
 ![interface d'osu!tourney](Osutourneymain.png "Interface basique du client osu!tourney")
 
 C'est l'interface du client osu!tourney. Le haut de l'écran est divisé en deux, représentant les deux équipes de la salle multijoueur.
-Chaque fenêtre osu! est assignée à un slot de la salle.
+Chaque fenêtre osu! est assignée à une position de la salle.
 
-![Les joueurs sont assignés à leur fenêtre en se basant sur leur slot dans la salle](Osutourneywindows.png)
+![Les joueurs sont assignés à leur fenêtre en se basant sur leur position dans la salle](Osutourneywindows.png)
 
-Le joueur doit occuper le slot approprié dans la salle pour que le client foncitonne proprement. Plus de détails peivent être trouvés dans le [guide d'utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage).
+Le joueur doit occuper la position approprié dans la salle pour que le client foncitonne proprement. Pour plus de détails, référez-vous au [guide d'utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage).
 
 ![Panneau de contrôle d'osu!tourney](Osutourneypanel.png)
 
-Le panneau de contrôle se trouve en bas du client. Par défaut, il montre le nommage requis pour la salle pour apparaître dans le panneau de contrôle. Plus d'informations peuvent être trouvées dans le [guide d'utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage).
+Le panneau de contrôle se trouve en bas du client. Par défaut, il montre le nom requis de la salle pour apparaître dans le panneau de contrôle. Pour plus de détails, référez-vous au [guide d'utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage).
 
 La fonction de chaque bouton est décrite ci-dessous :
 
@@ -37,8 +37,8 @@ Les salles qui ont été créées correctement peuvent être cliquées, forçant
 
 ![Un gagnant est déclaré à la conclusion d'un match, et une étoile sera remplie pour l'équipe gagnante. les joueurs ayant perdus sont noircis.](Osutourneyresults.png)
 
-Vous pouvez aussi faire un clic-gauche pour augmenter ou un clic-froit pour diminuer les étoiels manuellement pour changer le score d'une équipe.
+Vous pouvez aussi faire un clic-gauche pour augmenter ou un clic-droit pour diminuer les étoiles manuellement pour changer le score d'une équipe.
 
 ![Un message peut être affiché en activant l'annotation depuis le panneau de contrôle](Osutourneywarmup.png)
 
-Lorsqu'activé, le message dans la boîte de texte appropriée sera affiché en haut de l'écran et le score de l'équipe sera inchangé après qu'une beatmap soit complétée.
+Lorsqu'activé, le message dans la boîte de texte appropriée sera affiché en haut de l'écran et le score de l'équipe sera inchangé après qu'une beatmap est complétée.

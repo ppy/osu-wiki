@@ -8,7 +8,7 @@ Copiez `osu!.exe` dans un dossier vide et lancez-le.
 
 ## Mes fenêtres osu! ne sont pas proprement alignées !
 
-Désactivez tous vos écrans supplémentairs ! osu!tourney ne fontionne que sur l'écran primaire. Assurez-vous que votre écran primaire a une résolution plus grande que celle du client (1280x720 par défaut).
+Désactivez tous vos écrans supplémentaires ! osu!tourney ne fonctionne que sur l'écran primaire. Assurez-vous que votre écran primaire a une résolution plus grande que celle du client (1280x720 par défaut).
 
 ## osu!tourney ne s'ouvre pas, il me lance un erreur et/ou se ferme !
 
