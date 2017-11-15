@@ -70,7 +70,7 @@
 
 ![](img/github-desktop-changes.jpg "Your mileage may vary.")
 
-2\.By default, GitHub Desktop will automatically select all of your changes.
+2\. By default, GitHub Desktop will automatically select all of your changes.
 
 3\. It is best to separate each "big" action as a single commit.
 
