@@ -1,8 +1,8 @@
 # Bem-vindo
 
-Bem-vindo ao _osu!_, um jogo de ritmo free-to-win desenvolvido pelo peppy com quatro modalidades de jogo: osu!standard, um simulador de cliques em círculos; osu!taiko, um emulador de tambor; osu!catch, um coletor de salada de frutas; osu!mania, um mania com ênfase em esmagar o teclado.
+Bem-vindo ao _osu!_, um jogo de ritmo free-to-win desenvolvido pelo peppy com quatro modalidades de jogo: osu!standard, um simulador de cliques em círculos; osu!taiko, um emulador de tambor; osu!catch, um coletor de salada de frutas; osu!mania, um modo de ritmo com ênfase em esmagar o teclado.
 
-## Pontos de interesse genéricos
+## Pontos de interesse gerais
 
 - [Registro](/wiki/Registration)
 - [Instalação](/wiki/Installation)
@@ -19,7 +19,7 @@ Bem-vindo ao _osu!_, um jogo de ritmo free-to-win desenvolvido pelo peppy com qu
 
 _Veja também: [Critérios de Classificação](/wiki/Ranking_Criteria)._
 
-Critérios de Classificação são um conjunto de regras e condutas definidas pela QAT para assegurar que todos os jogadores podem esperar por um gameplay similar por todos os beatmaps.
+Critérios de Classificação são um conjunto de regras e condutas definidas pela QAT para assegurar que todos os jogadores possam esperar por uma jogabilidade similar em todos os beatmaps.
 
 ## Beatmapping
 
@@ -31,7 +31,7 @@ Beatmapping refere-se ao processo de criação de um beatmap. Este processo incl
 
 _Veja também: [Modding](/wiki/Modding/#getting-started)._
 
-Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de _Pendente_ ou _Trabalho em Progresso/Precisando de Ajuda_. Modding é crucial para o controle de qualidade porque permite aos criadores a consertar os problemas com os seus beatmaps.
+Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de _Pendente_ ou _Trabalho em Progresso/Precisando de Ajuda_. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
 
 ## osu!wiki - Como você pode ajudar!
 
