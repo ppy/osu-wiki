@@ -2,7 +2,7 @@
 
 ![La caja de edición en los foros](img/editor.jpg)
 
-**BBCode** es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
+BBCode es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
 Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
 
 En la web de osu!, BBCode se utiliza en los mensajes del foro, las firmas y las páginas de usuario.
@@ -36,7 +36,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Enfatiza** palabras o un párrafo entero de una manera **más intensa que** [cursiva](#cursiva).
 
-- Botón dedicado: ![Botón negrita](img/bold.jpg)
+- Botón dedicado: ![Botón negrita](img/bold.png)
 - Notas:
    * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
@@ -48,7 +48,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Enfatiza** palabras o un párrafo entero de una manera *menos intensa que* [negrita](#negrita).
 
-- Botón dedicado: ![Botón itálico](img/italic.jpg)
+- Botón dedicado: ![Botón itálico](img/italic.png)
 - Notas:
   * Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
@@ -72,7 +72,7 @@ Por ejemplo (presta atención al orden del código):
 
 **Traza una línea horizontal a través del centro** de la(s) palabra(s) o un párrafo entero.
 
-- Botón dedicado: ![Botón Tachado](img/strike.jpg)
+- Botón dedicado: ![Botón Tachado](img/strike.png)
 - Notas:
   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
@@ -112,7 +112,7 @@ Para obtener una lista de nombres de color, consulta [nombres de color X11](http
 
 Ajusta relativamente el tamaño del texto.
 
-- Botones dedicados: ![Opciones de tamaño de fuente](img/font-size.jpg)
+- Botones dedicados: ![Opciones de tamaño de fuente](img/font-size.png)
 - Notas:
   * Utiliza esta etiqueta con moderación.
   * Sólo hay 4 tamaños que puede utilizar:
@@ -152,7 +152,7 @@ _No debe confundirse con [Caja](#caja) o [Spoiler](#spoiler)._
 **Oculta un párrafo** dentro de una caja previamente nombrada `collapsed text`.
 El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox para mostrar el párrafo oculto.
 
-- Botón dedicado: ![Botón Spoilerbox](img/spoilerbox.jpg)
+- Botón dedicado: ![Botón Spoilerbox](img/spoilerbox.png)
 - Notas:
   * Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
 - Sintaxis:
@@ -239,7 +239,7 @@ Agrega un enlace.
 No es necesario utilizar esta etiqueta si no deseas utilizar el texto del enlace.
 Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje.
 
-- Botón dedicado: ![Botón URL](img/url.jpg)
+- Botón dedicado: ![Botón URL](img/url.png)
 - Notas:
   * El argumento `ENLACE` no debe usar comillas.
 - Sintaxis:
@@ -301,7 +301,7 @@ En BBCode, hay dos partes para hacer la lista: la envoltura y los puntos.
 Los puntos se colocan dentro de la envoltura.
 
 - Botones dedicados:
-  * Lista: ![Botón Lista](img/list.jpg)
+  * Lista: ![Botón Lista](img/list.png)
   * Tipo de lista: _ninguno_
   * Lista de viñetas: _ninguno_
 - Notas:
@@ -336,7 +336,7 @@ Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputaci
 
 También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como _hotlinks_). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
 
-- Botón dedicado: ![Botón de imagen](img/image.jpg)
+- Botón dedicado: ![Botón de imagen](img/image.png)
 - Notas:
   * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
