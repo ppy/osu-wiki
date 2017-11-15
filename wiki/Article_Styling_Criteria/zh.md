@@ -16,28 +16,16 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 | 文件名 | 中文写法 | 当地写法 |
 |--------|----------|----------|
-| `de.md` | 德语 | Deutsch |
-| `el.md` | 希腊语 | Ελληνικά |
 | `en.md` | 英语 | English |
 | `es.md` | 西班牙语 | Español |
-| `fi.md` | 芬兰语 | Suomi |
 | `fr.md` | 法语 | Français |
-| `hu.md` | 匈牙利语 | Magyar |
-| `id.md` | 印度尼西亚语 | Bahasa Indonesia |
 | `it.md` | 印度语 | Italiano |
-| `ja.md` | 日语 | 日本語 |
 | `ko.md` | 韩语 | 한국어 |
 | `nl.md` | 荷兰语 | Nederlands |
-| `no.md` | 挪威语 | Norsk |
 | `pl.md` | 波兰语 | Polski |
-| `pt.md` | 葡萄牙语 | Português |
 | `pt-br.md` | 葡萄牙语（巴西） | Português (Brasil) |
 | `ru.md` | 俄语 | Русский |
-| `th.md` | 泰语 | ไทย |
-| `tl.md` | 他加禄语 | Tagalog |
 | `zh.md` | 中文 | 中文 |
-| `zh-hk.md` | 粤语 | 粤语 |
-| `zh-tw.md` | 繁體中文 | 繁體中文 |
 
 ### 文件夹名
 

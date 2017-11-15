@@ -61,10 +61,11 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
 
 #### Guidelines
 
+-   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 -   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
 -   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
