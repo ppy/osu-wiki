@@ -197,7 +197,7 @@ Formata a palavra/parágrafo como citação.
 - Avisos:
   - É recomendado que se inclua o nome do autor da citação, caso você esteja citando alguém (use o argumento `NAME`).
   - O argumento `NAME` **precisa** usar apóstrofos.
-  - Existe um botão de citação por postagem (canto abaixo-direito) que irá automaticamente citar o texto de um usuário.
+  - Existe um botão de citação por postagem (canto baixo-direito) que irá automaticamente citar o texto de um usuário.
     - Se fizer isso, a postagem também incluirá a citação do texto quando você a enviar (clicando em `Post`).
 - Sintaxe:
   - Onde `NAME` é o nome para a caixa (**precisa** ser cercado com apóstrofos).
