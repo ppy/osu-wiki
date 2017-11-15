@@ -46,9 +46,9 @@ Para referências:
 
 ### osu!taiko
 
-No modo [osu!taiko][osu!taiko wikilink], a precisão da jogada é calculada pela soma das precisões de todas as notas dividido pela quantidade total de notas.
+No modo [osu!taiko][osu!taiko wikilink], a precisão é calculada pela soma das precisões de todas as notas dividido pela quantidade total de notas.
 Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um MISS/RUIM (不可) como 0% (eles interrompem o combo).
-Os Drumrolls e spinners não influenciam a precisão.
+Os Drumrolls e Spinners não influenciam a precisão.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -59,7 +59,7 @@ Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total 
 
 ### osu!catch
 
-No [osu!catch][osu!catch wikilink], a precisão da jogada é calculada pela quantidade de objetos não-spinners coletados dividido pela quantidade total de objetos não-spinners do mapa; frutas, drops grandes e drops pequenos (droplets) todos têm o mesmo valor.
+No [osu!catch][osu!catch wikilink], a precisão é calculada pela quantidade de objetos não-spinners coletados dividido pela quantidade total de objetos não-spinners do mapa; frutas, drops grandes e drops pequenos (droplets) todos têm o mesmo valor.
 
 Em outras palavras: `Precisão = Quantidade total de frutas coletadas / Quantidade total de frutas`
 
@@ -68,7 +68,7 @@ Em outras palavras: `Precisão = Quantidade total de frutas coletadas / Quantida
 | **Quantidade total de frutas coletadas** | `Quantidade de droplets + Quantidade de drops + Quantidade de frutas`                                              |
 | **Quantidade total de frutas**        | `Quantidade de misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits` |
 
-"Bananas" (frutas dos spinners) não contam.
+"Bananas" (frutas dos Spinners) não contam.
 
 Note que caso esteja usando a API para calcular a precisão, a quantidade de droplets está sob **count50** e o número de droplets perdidos está sob **countkatu**.
 
