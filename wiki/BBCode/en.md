@@ -2,9 +2,7 @@
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
-BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes.
-
-In the osu!web, BBCode is used in forum posts, signatures and user pages.
+BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures and user pages.
 
 ## Notes
 
@@ -12,15 +10,11 @@ While the post editor provides a few basic formatting tools, it is possible to m
 
 ### BBCode button behaviour
 
-Without any text highlighted, clicking the button will surround the tags around the text cursor placement in the post editor.
-
-With text highlighted in the post editor, clicking the button will surround the tags around the highlighted text.
+Without any text highlighted, clicking the button will surround the tags around the text cursor placement in the post editor. With text highlighted in the post editor, clicking the button will surround the tags around the highlighted text.
 
 ### Combining tags
 
-Tags can be combined for fancier and/or richer formatting.
-
-The order/nesting of the tags **must** be respected when combining the tags. Failure to adhere to the order/nesting may break the post formatting.
+Tags can be combined for richer formatting. The order and nesting of the tags **must** be respected when combining the tags. Failure to adhere to the order/nesting may break the post formatting.
 
 For example (pay attention to the order of the code):
 
@@ -35,7 +29,7 @@ For example (pay attention to the order of the code):
 
 - Dedicated button: ![Bold button](img/bold.png)
 - Notes:
-  - Use sparingly. Overuse may create discomfort and making the post harder to read.
+  - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
 ```
 [b] ... [/b]
@@ -59,7 +53,7 @@ For example (pay attention to the order of the code):
 
 - Dedicated button: N/A
 - Notes:
-  - Use sparingly. Overuse may create discomfort and making the post harder to read.
+  - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
 ```
 [u] ... [/u]
@@ -73,7 +67,7 @@ _Also known as **strikethrough**._
 
 - Dedicated button: ![Strike button](img/strike.png)
 - Notes:
-  - Use sparingly. Overuse may create discomfort and making the post harder to read.
+  - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
 ```
 [strike] ... [/strike]
@@ -127,8 +121,7 @@ _Not to be confused with [Spoilerbox](#spoilerbox)._
 
 **Covers text** with a black background.
 
-This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others.
-The reader, however, can still read the text by highlighting over the text.
+This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others. The reader, however, can still read the text by highlighting over the text.
 
 - Dedicated button: N/A
 - Notes:
@@ -142,8 +135,7 @@ The reader, however, can still read the text by highlighting over the text.
 
 _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 
-**Hides a paragraph** inside an prenamed box from the reader's view.
-The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
+**Hides a paragraph** inside an prenamed box from the reader's view. The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
 
 - Dedicated button: ![Spoilerbox button](img/spoilerbox.png)
 - Notes:
@@ -159,8 +151,7 @@ The reader, however, can still read the paragraph by clicking on the spoilerbox 
 
 _Not to be confused with [Spoilerbox](#spoilerbox)._
 
-**Hides a paragraph** inside a nameable box from the reader's view.
-The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
+**Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
 These are commonly used to hide large images or a large amount of images.
 
@@ -198,8 +189,7 @@ Quote formatting for the given word/paragraph.
 
 ### Code
 
-Format text with a monospaced font-family and place it inside a gray box.
-This is useful when you are posting code for a storyboard or source code from a project.
+Format text with a monospaced font-family and place it inside a gray box. This is useful when you are posting code for a storyboard or source code from a project.
 
 - Dedicated button: N/A
 - Notes:
@@ -230,8 +220,7 @@ Centre align a paragraph; this is typically used for titles or headings.
 
 Adds a link.
 
-You do not need to use this tag if you do not want to use link text.
-The osu!forums will automatically link pasted URLs inside the post.
+You do not need to use this tag if you do not want to use link text. The osu!forums will automatically link pasted URLs inside the post.
 
 - Dedicated button: ![URL button](img/url.png)
 - Notes:
@@ -247,9 +236,7 @@ The osu!forums will automatically link pasted URLs inside the post.
 
 Links a user profile using the user's name.
 
-Usage of this button is **heavily discouraged**!
-The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter).
-And once they do, the link will fail.
+Usage of this button is **heavily discouraged**! The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter). And once they do, the link will fail.
 
 It is recommended to use [URL](#url) instead (using the user's id number).
 
@@ -293,8 +280,7 @@ Automatically links to a Google Search query using the provided text.
 
 Formats the text into a list.
 
-In BBCode, there are two parts for making the list: the wrapper and the bullets.
-Where the bullets are placed inside the wrapper.
+In BBCode, there are two parts for making the list: the wrapper and the bullets. Where the bullets are placed inside the wrapper.
 
 - Dedicated buttons:
   - Bulleted list: ![List button](img/list.png)
@@ -329,9 +315,7 @@ The images can be sourced from anywhere, as long as the image exists from the gi
 
 **Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags.
-
-Also note, some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
 - Dedicated button: ![Image button](img/image.png)
 - Notes:
@@ -371,8 +355,7 @@ This is usually used to denote a new section in your post.
 
 ### Heading (v2)
 
-Adds a big fancy purple heading with a horizontal line.
-This is usually used to denote a new section in your post.
+Adds a big fancy purple heading with a horizontal line. This is usually used to denote a new section in your post.
 
 - Dedicated button: N/A
 - Notes:
@@ -400,7 +383,7 @@ Places the paragraph inside a white box.
 
 ## Trivia
 
-- Original forum post: [HOW TO: Forum BBCodes](/community/forums/topics/445599) by [Stefan](/users/626907)
+- Original forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) by [Stefan](https://osu.ppy.sh/users/626907)
 
 ### History
 
