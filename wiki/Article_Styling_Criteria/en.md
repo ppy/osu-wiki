@@ -16,28 +16,16 @@ These are the supported locales for the osu!wiki. If your language isn't listed 
 
 | File Name | Locale Name | Native Script |
 |-----------|-------------|---------------|
-| `de.md` | German | Deutsch |
-| `el.md` | Greek | Ελληνικά |
 | `en.md` | English | English |
 | `es.md` | Spanish | Español |
-| `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
-| `hu.md` | Hungarian | Magyar |
-| `id.md` | Indonesian | Bahasa Indonesia |
 | `it.md` | Italian | Italiano |
-| `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
-| `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
-| `pt.md` | Portuguese | Português |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ru.md` | Russian | Русский |
-| `th.md` | Thai | ไทย |
-| `tl.md` | Tagalog | Tagalog |
 | `zh.md` | Chinese (Simplified) | 中文 |
-| `zh-hk.md` | Chinese (Traditional) | 粤语 |
-| `zh-tw.md` | Chinese (Taiwan, Traditional) | 繁體中文 |
 
 ### Folder names
 
