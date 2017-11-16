@@ -6,9 +6,9 @@
 
 This can also be phrased as, "All of my commits say 'Updated en.md'," or with other locale name followed by `.md`.
 
-A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits.
-
 If someone has told you this or you see that all of your commit messages are the same, this means you didn't use meaningful commit messages when you were able to or you tried to move, edit, and/or delete multiple files using the GitHub web interface.
+
+A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits. Keep in mind that `Updated en.md` or similar does not mean anything because no one will know what specific changes you have made nor will they know which article you had changed.
 
 ---
 
@@ -59,7 +59,7 @@ To resolve this, there is a service/script called [Upriver](https://upriver.gith
 6. Click `Close`.
 7. (You can close out of Upriver).
 
-If nothing wrong happens, your master branch on your fork will be even with `ppy:master`.
+If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
 
 ## My pull request has conflicts!
 
@@ -76,4 +76,4 @@ Depending on the severity of the conflicts, you may have two options to fix this
    3. From here, you will need to manually fix the conflict and delete the `<<<<<<<`, the `=======`, and `>>>>>>> master` markings.
    4. Repeat for all.
 2. If the `Resolve conflicts` button is blocked due to it being too complicated for GitHub, you are out of luck and will need to [update your branch](#my-branch-is-out-of-date!) and make your changes again.
-   - *Note: This is only true if you are limited to using GitHub Web Interface.* There are still ways to fix it, but it may not be worth the effort to do so because you will overwrite and revert the conflicting parts.
+   - *Note: This is only true if you are limited to using GitHub Web Interface.* There are still ways to fix it, but it will not be covered in this article and it may not be worth the effort to do so because you will overwrite and revert the conflicting changes.
