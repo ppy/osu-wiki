@@ -46,7 +46,7 @@
 
 3\. Click `Create new file`.
 
-4\. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`.
+4\. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`. For a list of locales, see the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
 
 5\. Continue to [Saving and committing](#saving-and-committing).
 
@@ -82,7 +82,7 @@
 
 ![](img/online-commit-changes-empty.jpg "Please don't leave these empty!")
 
-2\. **Whatever you do, never leave the shorter text box empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
+2\. **Whatever you do, never leave the title textbox empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
 
 3\. You can use the optional description to be more detailed if needed. A good commit may look something like this:
 
