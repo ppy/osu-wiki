@@ -64,6 +64,12 @@
 
 2\. Continue to [Committing and pushing](#committing-and-pushing).
 
+### Deleting files
+
+1\. Use Windows Explorer to delete files.
+
+2\. Continue to [Committing and pushing](#committing-and-pushing).
+
 ## Committing and pushing
 
 1\. Go back to GitHub Desktop. It should look something similar to this:
