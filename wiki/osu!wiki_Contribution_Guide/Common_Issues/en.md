@@ -30,8 +30,11 @@ To resolve this (for both GitHub Web Interface and GitHub Desktop editors):
 14. Fix the title (this will be the commit message; make sure it is meaningful).
 15. Fix the description (this will be the commit description; this is optional, but make sure you change it).
 16. Click `Confirm squash and merge`.
-17. Close your pull request that has the problematic branch.
-18. Open a new pull request using the new branch.
+17. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
+18. Close your pull request that has the problematic branch.
+19. Open a new pull request using the new branch.
+20. You can copy the description of the closed pull request into the new one you just opened. It is helpful if you include a reference to the other pull request you had closed.
+21. Click `Create pull request`. You are now done with fixing your commits. If you have completed the reviews from the closed pull request and you are certain that the pull request is ready to be merged, ask someone to merge it.
 
 Technicality, this is the best way to squash commits from a branch when limited to only using the GitHub web interface. It is impossible to squash commits using GitHub Desktop.
 
