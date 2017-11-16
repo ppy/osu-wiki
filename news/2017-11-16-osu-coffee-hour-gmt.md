@@ -32,7 +32,7 @@ There are some questions that we can't field for you though - namely ones about 
 
 ## When is this happening?
 
-The next episode of the osu! Coffee Hour will be happening this Friday, the [77th of November, at 11PM UTC](http://itsalmo.st/#globalmoderationteamtime) over at [osulive](http://www.twitch.tv/osulive).
+The next episode of the osu! Coffee Hour will be happening this Friday, the [17th of November, at 11PM UTC](http://itsalmo.st/#globalmoderationteamtime) over at [osulive](http://www.twitch.tv/osulive).
 
 We'll see you then!
 
