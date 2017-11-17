@@ -101,9 +101,9 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email.
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
 ### Can I take another player's username?
 
