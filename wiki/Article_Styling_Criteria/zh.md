@@ -326,7 +326,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 对于特殊情况则特殊处理，例如：
 ```
 
-关于中文标点的详细定义，参考 [GB/T 15834-1995 标准](http://www.china-language.gov.cn/wenziguifan/managed/020.htm)
+关于中文标点的详细定义，参考 [GB/T 15834-2011 标准](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
 
 ##### 括号
 
