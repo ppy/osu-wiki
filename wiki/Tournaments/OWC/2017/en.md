@@ -218,7 +218,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | Japan ![][flag_JP] | 5 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37647825) |
 | Sweden ![][flag_SE] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37647794) |
 | Italy ![][flag_IT] | 4 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37647798) |
-| Philippines ![][flag_PH] | 0 | 5 | ![][flag_NO] Norway | [#1](-WIN BY DEFAULT-) |
+| Philippines ![][flag_PH] | 0 | 5 | ![][flag_NO] Norway | -WIN BY DEFAULT- |
 | Indonesia ![][flag_ID] | 1 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/37649009) |
 | Australia ![][flag_AU] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37649125) |
 | Singapore ![][flag_SG] | 2 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37649006) |
@@ -226,7 +226,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | Brazil ![][flag_BR] | 2 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37650434) |
 | Italy ![][flag_IT] | 3 | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37650364) |
 | Hong Kong ![][flag_HK] | 5 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/37652168) |
-| Latvia ![][flag_LV] | 5 | 0 | ![][flag_AR] Argentina | [#1](-WIN BY DFEAULT-) |
+| Latvia ![][flag_LV] | 5 | 0 | ![][flag_AR] Argentina | -WIN BY DFEAULT- |
 | Finland ![][flag_FI] | 0 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37651999) |
 | Austria ![][flag_AT] | 5 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37652008) |
 
