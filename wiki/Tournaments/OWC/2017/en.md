@@ -46,63 +46,26 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 18. November 2017
+### Saturday, 25. November 2017
+
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Indonesia | ![][flag_ID] | ![][flag_AU] | Australia | **10.00 UTC** | 17.00 UTC +7 | 20.00 UTC +10 |
-| Latvia | ![][flag_LV] | ![][flag_KR] | South Korea | **10.00 UTC** | 12.00 UTC +2 | 19.00 UTC +9 |
-| Israel | ![][flag_IL] | ![][flag_SG] | Singapore | **10.00 UTC** | 13.00 UTC +3 | 18.00 UTC +8 |
-| Hungary | ![][flag_HU] | ![][flag_JP] | Japan | **11.00 UTC** | 12.00 UTC +1 | 20.00 UTC +9 |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | **11.00 UTC** | 14.00 UTC +3 | 12.00 UTC +1 |
-| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
-| Netherlands | ![][flag_NL] | ![][flag_CN] | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
-| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 |
-| Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | **12.00 UTC** | 19.00 UTC +7 | 13.00 UTC +1 |
-| Malaysia | ![][flag_MY] | ![][flag_DE] | Germany | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
-| Argentina | ![][flag_AR] | ![][flag_KR] | South Korea | **13.00 UTC** | 10.00 UTC -3 | 22.00 UTC +9 |
-| Israel | ![][flag_IL] | ![][flag_GB] | United Kingdom | **13.00 UTC** | 16.00 UTC +3 | 13.00 UTC +0 |
-| Romania | ![][flag_RO] | ![][flag_SE] | Sweden | **13.00 UTC** | 15.00 UTC +2 | 14.00 UTC +1 |
-| Philippines | ![][flag_PH] | ![][flag_CL] | Chile | **14.00 UTC** | 22.00 UTC +8 | 11.00 UTC -3 |
-| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **14.00 UTC** | 22.00 UTC +8 | 15.00 UTC +1 |
-| Hungary | ![][flag_HU] | ![][flag_RU] | Russian Federation | **14.00 UTC** | 15.00 UTC +1 | 17.00 UTC +3 |
-| Latvia | ![][flag_LV] | ![][flag_BR] | Brazil | **17.00 UTC** | 19.00 UTC +2 | 15.00 UTC -2 |
-| Finland | ![][flag_FI] | ![][flag_IL] | Israel | **17.00 UTC** | 19.00 UTC +2 | 20.00 UTC +3 |
-| Romania | ![][flag_RO] | ![][flag_CA] | Canada | **17.00 UTC** | 19.00 UTC +2 | 11.00 UTC -6 |
-| Chile | ![][flag_CL] | ![][flag_NO] | Norway | **18.00 UTC** | 15.00 UTC -3 | 19.00 UTC +1 |
-| Mexico | ![][flag_MX] | ![][flag_AT] | Austria | **18.00 UTC** | 12.00 UTC -6 | 19.00 UTC +1 |
-| Netherlands | ![][flag_NL] | ![][flag_US] | United States | **18.00 UTC** | 19.00 UTC +1 | 12.00 UTC -6 |
-| Denmark | ![][flag_DK] | ![][flag_PL] | Poland | **19.00 UTC** | 20.00 UTC +1 | 20.00 UTC +1 |
-| Argentina | ![][flag_AR] | ![][flag_BR] | Brazil | **19.00 UTC** | 16.00 UTC -3 | 17.00 UTC -2 |
-| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **19.00 UTC** | 20.00 UTC +1 | 13.00 UTC -6 |
-| Mexico | ![][flag_MX] | ![][flag_DE] | Germany | **20.00 UTC** | 14.00 UTC -6 | 21.00 UTC +1 |
-| Italy | ![][flag_IT] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 |
-| Hungary | ![][flag_HU] | ![][flag_FR] | France | **20.00 UTC** | 21.00 UTC +1 | 21.00 UTC +1 |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **9.30 UTC** | 17.30 UTC +8 | 18.30 UTC +9 |
+| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **11.00 UTC** | 11.00 UTC +0 | 20.00 UTC +9 |
+| Hong Kong | ![][flag_HK] | ![][flag_NL] | Netherlands | **12.30 UTC** | 20.30 UTC +8 | 13.30 UTC +1 |
+| Singapore | ![][flag_SG] | ![][flag_RU] | Russian Federation | **14.00 UTC** | 22.00 UTC +8 | 17.00 UTC +3 |
 
-### Sunday, 19. November 2017
+### Sunday, 26. November 2017
+
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Taiwan | ![][flag_TW] | ![][flag_CA] | Canada | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
-| Malaysia | ![][flag_MY] | ![][flag_MX] | Mexico | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
-| China | ![][flag_CN] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 |
-| Denmark | ![][flag_DK] | ![][flag_AU] | Australia | **10.00 UTC** | 11.00 UTC +1 | 20.00 UTC +10 |
-| Finland | ![][flag_FI] | ![][flag_SG] | Singapore | **10.00 UTC** | 12.00 UTC +2 | 18.00 UTC +8 |
-| Malaysia | ![][flag_MY] | ![][flag_AT] | Austria | **10.00 UTC** | 18.00 UTC +8 | 11.00 UTC +1 |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **11.00 UTC** | 20.00 UTC +9 | 12.00 UTC +1 |
-| Sweden | ![][flag_SE] | ![][flag_TW] | Taiwan | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
-| Italy | ![][flag_IT] | ![][flag_CN] | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
-| Philippines | ![][flag_PH] | ![][flag_NO] | Norway | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
-| Indonesia | ![][flag_ID] | ![][flag_DK] | Denmark | **12.00 UTC** | 19.00 UTC +7 | 13.00 UTC +1 |
-| Australia | ![][flag_AU] | ![][flag_PL] | Poland | **12.00 UTC** | 22.00 UTC +10 | 13.00 UTC +1 |
-| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **12.00 UTC** | 20.00 UTC +8 | 12.00 UTC +0 |
-| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **13.00 UTC** | 22.00 UTC +9 | 16.00 UTC +3 |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **13.00 UTC** | 11.00 UTC -2 | 22.00 UTC +9 |
-| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | **13.00 UTC** | 14.00 UTC +1 | 14.00 UTC +1 |
-| Hong Kong | ![][flag_HK] | ![][flag_CL] | Chile | **14.00 UTC** | 22.00 UTC +8 | 11.00 UTC -3 |
-| Latvia | ![][flag_LV] | ![][flag_AR] | Argentina | **14.00 UTC** | 16.00 UTC +2 | 11.00 UTC -3 |
-| Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 16.00 UTC +2 | 14.00 UTC +0 |
-| Austria | ![][flag_AT] | ![][flag_DE] | Germany | **14.00 UTC** | 15.00 UTC +1 | 15.00 UTC +1 |
+| Poland | ![][flag_PL] | ![][flag_AT] | Austria | **15.30 UTC** | 16.30 UTC +1 | 16.30 UTC +1 |
+| Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **17.00 UTC** | 18.00 UTC +1 | 18.00 UTC +1 |
+| Canada | ![][flag_CA] | ![][flag_BR] | Brazil | **18.30 UTC** | 12.30 UTC -6 | 16.30 UTC -2 |
+| Norway | ![][flag_NO] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 |
+
 
 ------------------------------------------------------------------------
 
@@ -115,7 +78,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [Serena](https://osu.ppy.sh/users/756068), [benjacala](https://osu.ppy.sh/users/1625740), [Toushi](https://osu.ppy.sh/users/2367825), [-Urushihara-](https://osu.ppy.sh/users/6169195), [Glazbom](https://osu.ppy.sh/users/608277), [zaqlev](https://osu.ppy.sh/users/3188703) |
 | ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Dumii](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404), [Lunirs](https://osu.ppy.sh/users/2118945), [Blobby3000](https://osu.ppy.sh/users/6916774), [ithgyu](https://osu.ppy.sh/users/5113781), [GranDSenpai](https://osu.ppy.sh/users/3997580), [Weber](https://osu.ppy.sh/users/6410432) |
 | ![][flag_AT] | **Austria** | **[Akane-Yuki](https://osu.ppy.sh/users/3656589)**, [Fedora Goose](https://osu.ppy.sh/users/2323131), [BlueFlame](https://osu.ppy.sh/users/3506191), [Spark-desu](https://osu.ppy.sh/users/4601608), [Kizan](https://osu.ppy.sh/users/3074197), [Teppichreini](https://osu.ppy.sh/users/1371974), [Myst1k](https://osu.ppy.sh/users/5302223), [Tomadoi](https://osu.ppy.sh/users/5712451) |
-| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/users/1558603)**, [fabriciorby](https://osu.ppy.sh/users/209664), [Mismagius](https://osu.ppy.sh/users/19048), [Mystia](https://osu.ppy.sh/users/4277702), [Zekker](https://osu.ppy.sh/users/4663554), [favela](https://osu.ppy.sh/users/5295743), [Sickoh](https://osu.ppy.sh/users/5411474), [Sanjilift](https://osu.ppy.sh/users/3260571) |
+| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/users/1558603)**, [fabriciorby](https://osu.ppy.sh/users/209664), [Mismagius](https://osu.ppy.sh/users/19048), [Mystia](https://osu.ppy.sh/users/4277702), [Zekker](https://osu.ppy.sh/users/4663554), [Sickoh](https://osu.ppy.sh/users/5411474), [Sanjilift](https://osu.ppy.sh/users/3260571) |
 | ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/users/2155578)**, [FunOrange](https://osu.ppy.sh/users/2051389), [MiruHong](https://osu.ppy.sh/users/2866814), [Stoof](https://osu.ppy.sh/users/4916057), [Kaifin](https://osu.ppy.sh/users/2596942), [Ignite](https://osu.ppy.sh/users/3122948), [Identical](https://osu.ppy.sh/users/3181676), [kyle](https://osu.ppy.sh/users/2694475) |
 | ![][flag_CL] | **Chile** | **[kafaN](https://osu.ppy.sh/users/1489743)**, [Mathi](https://osu.ppy.sh/users/5339515), [Danidesu](https://osu.ppy.sh/users/2748187), [NyaNekoMiau](https://osu.ppy.sh/users/5149397), [- Hakurei Kou -](https://osu.ppy.sh/users/4373354), [xaxreid](https://osu.ppy.sh/users/4227431), [-Dylson-](https://osu.ppy.sh/users/6315784), [[- Momo -]](https://osu.ppy.sh/users/6024502) |
 | ![][flag_CN] | **China** | **[KafuuChino](https://osu.ppy.sh/users/427355)**, [Totoki](https://osu.ppy.sh/users/557197), [EmertxE](https://osu.ppy.sh/users/954557), [Crystal](https://osu.ppy.sh/users/1646397), [SpringLane](https://osu.ppy.sh/users/1343504), [DuNai](https://osu.ppy.sh/users/2522197), [GGBY](https://osu.ppy.sh/users/629717), [rinkon](https://osu.ppy.sh/users/926614) |
@@ -129,7 +92,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | ![][flag_IL] | **Israel** | **[MrPotato](https://osu.ppy.sh/users/2787415)**, [Slendy](https://osu.ppy.sh/users/2689577), [Kyoko](https://osu.ppy.sh/users/3382084), [Bladma](https://osu.ppy.sh/users/3493078), [Nalian](https://osu.ppy.sh/users/3909656), [Master](https://osu.ppy.sh/users/3973608), [Jumbo](https://osu.ppy.sh/users/5509809), [Okino may](https://osu.ppy.sh/users/7730603) |
 | ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/users/4448118)**, [Spazza17](https://osu.ppy.sh/users/3516241), [Kayne](https://osu.ppy.sh/users/1474421), [DT-sama](https://osu.ppy.sh/users/3525018), [Everywhere](https://osu.ppy.sh/users/7942443), [NekoFunfo](https://osu.ppy.sh/users/1646427), [Carretto](https://osu.ppy.sh/users/3801459), [Manu028](https://osu.ppy.sh/users/6192633) |
 | ![][flag_JP] | **Japan** | **[Sinch](https://osu.ppy.sh/users/360552)**, [Shigure chan](https://osu.ppy.sh/users/1048423), [_YuriNee](https://osu.ppy.sh/users/1794082), [Super Arrow](https://osu.ppy.sh/users/1970239), [Sheba](https://osu.ppy.sh/users/2477878), [Shirasaka Koume](https://osu.ppy.sh/users/3062998), [benki](https://osu.ppy.sh/users/1021944), [Turbo_BBA](https://osu.ppy.sh/users/6415964) |
-| ![][flag_LV] | **Latvia** | **[Forseen](https://osu.ppy.sh/users/556012)**, [Choilicious](https://osu.ppy.sh/users/2129634), [Jesus[Krists]](https://osu.ppy.sh/users/2842992), [Emula](https://osu.ppy.sh/users/2891792), [xoho](https://osu.ppy.sh/users/3647897), [snoopeh](https://osu.ppy.sh/users/5597947), [waywern2012](https://osu.ppy.sh/users/5870453), [LINKI](https://osu.ppy.sh/users/8068903) |
+| ![][flag_LV] | **Latvia** | **[Forseen](https://osu.ppy.sh/users/556012)**, [Choilicious](https://osu.ppy.sh/users/2129634), [Jesus[Krists]](https://osu.ppy.sh/users/2842992), [Emula](https://osu.ppy.sh/users/2891792), [xoho](https://osu.ppy.sh/users/3647897), [snoopeh](https://osu.ppy.sh/users/5597947), [waywern2012](https://osu.ppy.sh/users/5870453) |
 | ![][flag_MY] | **Malaysia** | **[ClawViper](https://osu.ppy.sh/users/2681361)**, [wuhua](https://osu.ppy.sh/users/2932510), [Rampax](https://osu.ppy.sh/users/3995630), [Amane-](https://osu.ppy.sh/users/2276847), [ShaneLiang](https://osu.ppy.sh/users/6716499), [Ex6TenZ](https://osu.ppy.sh/users/2676512), [ffstar](https://osu.ppy.sh/users/1163205), [TequilaWolf](https://osu.ppy.sh/users/3633477) |
 | ![][flag_MX] | **Mexico** | **[Atsuro](https://osu.ppy.sh/users/2279351)**, [-Wolfy-](https://osu.ppy.sh/users/4497582), [-Hebel-](https://osu.ppy.sh/users/6169483), [[ AeonLust ]](https://osu.ppy.sh/users/2353490), [Psycopath-](https://osu.ppy.sh/users/3233957), [-Shouta-Kun-](https://osu.ppy.sh/users/5312102), [thouka](https://osu.ppy.sh/users/5353630), [[Riot]](https://osu.ppy.sh/users/4256461) |
 | ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/users/3086393)**, [GladiOol](https://osu.ppy.sh/users/23326), [jackylam5](https://osu.ppy.sh/users/1540807), [Lazer](https://osu.ppy.sh/users/1799925), [Gumi Rin](https://osu.ppy.sh/users/2574658), [Ahmnesia](https://osu.ppy.sh/users/2715937), [Viveliam](https://osu.ppy.sh/users/3506793), [Lilily](https://osu.ppy.sh/users/6502403) |
@@ -147,9 +110,40 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
-### Group Stages
+### Round of 16
+
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/klgdrjqmz3l3q36/OWC_2017_Round_of_16.rar)**
+
+- NoMod
+  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox)](http://osu.ppy.sh/b/1018247&m=0) [Daydream]
+  - [Days N' Daze - Misanthropic Drunken Loner (pishifat)](http://osu.ppy.sh/b/951778&m=0) [Extreme]
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi)](http://osu.ppy.sh/b/796606&m=0) [Extra]
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki)](http://osu.ppy.sh/b/644067&m=0) [Asphyxia's Extra]
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata)](http://osu.ppy.sh/b/815857&m=0) [God of Speed]
+  - [Comp - Gensou no Satellite (Shinxyn)](http://osu.ppy.sh/b/63875&m=0) [Extra]
+- Hidden
+  - [Anamanaguchi - Pop It (Bonsai)](http://osu.ppy.sh/b/1084171&m=0) [Extra]
+  - [sun3 - Higan Retour (saymun)](http://osu.ppy.sh/b/54373&m=0) [Lunatic]
+- HardRock
+  - [bj.HaLo - Ende (galvenize)](http://osu.ppy.sh/b/148716&m=0) [Another]
+  - [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj)](http://osu.ppy.sh/b/1443510&m=0) [Extra]
+- DoubleTime
+  - [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey)](http://osu.ppy.sh/b/951393&m=0) [lUNATIC]
+  - [forestpireo - Emotional Blush (S i R i R u)](http://osu.ppy.sh/b/74959&m=0) [Lunatic]
+- FreeMod
+  - [Kano - Sukisuki Zecchoushou (Loreley)](http://osu.ppy.sh/b/1250198&m=0) [Expert]
+  - [sakuzyo - Imprinting (Nozhomi)](http://osu.ppy.sh/b/655300&m=0) [Orchestra]
+  - [Agnete Kjolsrud - Get Jinxed (Tarrasky)](http://osu.ppy.sh/b/806376&m=0) [Irrelvis' Diamond]
+- Tiebreaker
+  - [Nana Mizuki - VIRGIN CODE (ShiraKai)](http://osu.ppy.sh/b/1052795&m=0) [GENESIS]
+
+### Group Stage
 
 **[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar)**
 
@@ -175,6 +169,66 @@ The osu! World Cup 2017 is run by various community members by distributing the 
   - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123)](http://osu.ppy.sh/b/148000&m=0) [Lunatic]
 - Tiebreaker
   - [DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori)](http://osu.ppy.sh/b/854972&m=0) [Illuminate]
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 18. November 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | 2 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/37609499) |
+| Latvia ![][flag_LV] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37609495) |
+| Israel ![][flag_IL] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/37609502) |
+| Hungary ![][flag_HU] | 2 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37610675) |
+| Russian Federation ![][flag_RU] | 5 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37610821) |
+| Romania ![][flag_RO] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37610680) |
+| Netherlands ![][flag_NL] | 5 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37610687) |
+| Philippines ![][flag_PH] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/37612374) |
+| Indonesia ![][flag_ID] | 0 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37612236) |
+| Malaysia ![][flag_MY] | 1 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37612234) |
+| Argentina ![][flag_AR] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37613921) |
+| Israel ![][flag_IL] | 1 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37613946) |
+| Romania ![][flag_RO] | 3 | 5 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/37614075) |
+| Philippines ![][flag_PH] | 0 | 5 | ![][flag_CN] Chile | [#1](https://osu.ppy.sh/community/matches/37615841) |
+| Hong Kong ![][flag_HK] | 5 | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/37615713) |
+| Hungary ![][flag_HU] | 0 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/37615928) |
+| Latvia ![][flag_LV] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/37623221) |
+| Finland ![][flag_FI] | 5 | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/37623233) |
+| Romania ![][flag_RO] | 2 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37623236) |
+| Chile ![][flag_CL] | 2 | 5 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/37625547) |
+| Mexico ![][flag_MX] | 1 | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37625411) |
+| Netherlands ![][flag_NL] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37625491) |
+| Denmark ![][flag_DK] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37627968) |
+| Argentina ![][flag_AR] | 1 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/37628093) |
+| Sweden ![][flag_SE] | 1 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37627984) |
+| Mexico ![][flag_MX] | 1 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37629909) |
+| Italy ![][flag_IT] | 3 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37629745) |
+| Hungary ![][flag_HU] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37629750) |
+
+| Sunday, 19. November 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Taiwan ![][flag_TW] | 4 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37640223) |
+| Malaysia ![][flag_MY] | 2 | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/37640683) |
+| China ![][flag_CN] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37640232) |
+| Denmark ![][flag_DK] | 5 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/37646592) |
+| Finland ![][flag_FI] | 1 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/37646594) |
+| Malaysia ![][flag_MY] | 5 | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37646595) |
+| Japan ![][flag_JP] | 5 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37647825) |
+| Sweden ![][flag_SE] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37647794) |
+| Italy ![][flag_IT] | 4 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37647798) |
+| Philippines ![][flag_PH] | 0 | 5 | ![][flag_NO] Norway | [#1](-WIN BY DEFAULT-) |
+| Indonesia ![][flag_ID] | 1 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/37649009) |
+| Australia ![][flag_AU] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37649125) |
+| Singapore ![][flag_SG] | 2 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37649006) |
+| Japan ![][flag_JP] | 0 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/37650430) |
+| Brazil ![][flag_BR] | 2 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37650434) |
+| Italy ![][flag_IT] | 3 | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37650364) |
+| Hong Kong ![][flag_HK] | 5 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/37652168) |
+| Latvia ![][flag_LV] | 5 | 0 | ![][flag_AR] Argentina | [#1](-WIN BY DFEAULT-) |
+| Finland ![][flag_FI] | 0 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37651999) |
+| Austria ![][flag_AT] | 5 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37652008) |
 
 ------------------------------------------------------------------------
 
@@ -273,8 +327,8 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2017: (TeamBlue) vs (TeamRed)".
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2017: (TeamRed) vs (TeamBlue)".
+   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
