@@ -44,5 +44,5 @@ Use this instead of using Related Issues for notes that doesn't link to a specif
 <!-- I
 f you have any issues related to this PR, link them here.
 eg: this resolves #589
-USe this only for linking issues in https://github.com/ppy/osu-wiki/issues. Non issues should be in Additional notes
+Use this only for linking issues in https://github.com/ppy/osu-wiki/issues. Non issues should be in Additional notes
 -->
