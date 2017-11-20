@@ -24,15 +24,25 @@ Format is :
 - Change 2
 -->
 
-### Checklist <!-- Delete this if you don't have a checklist -->
+### Checklist <!-- Omit this if you don't have a checklist -->
+
 <!-- 
 To make a checklist:
 - [] Entry 1
 - [] Entry 2
 -->
 
-### Related Issues <!-- Delete this if you don't have any issues related to your PR -->
+### Additional Notes  <!-- Omit this if you don't have any additional notes for your PR -->
 
-<!-- If you have any issues related to this PR, link them here.
+<!--
+Miscellanous notes you want to point out. 
+Use this instead of using Related Issues for notes that doesn't link to a specific issue
+-->
+
+### Related Issues <!-- Omit this if you don't have any issues related to your PR -->
+
+<!-- I
+f you have any issues related to this PR, link them here.
 eg: this resolves #589
+USe this only for linking issues in https://github.com/ppy/osu-wiki/issues. Non issues should be in Additional notes
 -->
