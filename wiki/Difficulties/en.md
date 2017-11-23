@@ -4,7 +4,7 @@
 
 *See also: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset).*
 
-The difficulty of a beatmap *describes* the level of skill needed to complete a beatmap.
+The difficulty of a beatmap *describes* the level of skill needed to complete it.
 
 ## Star rating
 
@@ -12,15 +12,15 @@ The difficulty of a beatmap *describes* the level of skill needed to complete a 
 
 From the [Ranking Criteria](/wiki/Ranking_Criteria), a star rating of:
 
-- 1.5 (or below) is Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
-- 2.25 (or below) is Normal ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")
-- 3.75 (or below) is Hard ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
-- 5.25 (or below) is Insane ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
-- 5.25 (or below) is Expert ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
+- 1.50 stars and below is Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
+- 2.25 stars and below is Normal ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")
+- 3.75 stars and below is Hard ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
+- 5.25 stars and below is Insane ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
+- 5.25 stars and above is Expert ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
 
 ### Web icons
 
-The star rating ranges will determine which web icon is to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
+The star rating ranges determines which web icon is going to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [the Mapset section of the Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
 
 ## Difficulty levels
 
