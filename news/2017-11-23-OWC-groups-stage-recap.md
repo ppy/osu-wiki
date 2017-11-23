@@ -3,10 +3,11 @@ layout: post
 title: "osu! World Cup 2017 Group Stage Recap"
 date: 2017-11-23 07:00:00 +0000
 ---
-
-Hello there, this is [Evrien](https://osu.ppy.sh/users/791660)! It sure has been a while, but it’s great to be writing for one of my favourite things in this game – the OWC. For those who have been living under a rock, OWC 2017 has begun! And the Group Stage just concluded this past weekend. If you’ve missed it – worry not, VODs are available on the [official Twitch channel](http://www.twitch.tv/osulive), and you are encouraged to go check out how your favourite team is doing! But while you’re at here, let’s go over on some memorable bits that had transpired.
+The osu! World Cup has returned once again in spectatular fashion with new commentators, new teams, new players, and a fresh new look that has the masses left in awe. For those who missed the weekend excitement - fear not for we have you covered. 
 
 ![](/wiki/shared/news/banners/owc_2017_recap_banner.jpg)
+
+Hello there, this is [Evrien](https://osu.ppy.sh/users/791660)! It sure has been a while, but it’s great to be writing for one of my favourite things in this game – the OWC. For those who have been living under a rock, OWC 2017 has begun! And the Group Stage just concluded this past weekend. If you’ve missed it – worry not, VODs are available on the [official Twitch channel](http://www.twitch.tv/osulive), and you are encouraged to go check out how your favourite team is doing! But while you’re at here, let’s go over on some memorable bits that had transpired.
 
 We started off with a great match from Team Australia and Team Indonesia, featuring some very old names in the community like [Bauxe](https://osu.ppy.sh/users/1881685), [Fuma](https://osu.ppy.sh/users/1501956), and [Lunirs](https://osu.ppy.sh/users/2118945). Both teams gave each other a run for the prize, but Team Australia pulled off with a decisive 5-2 victory.
 
