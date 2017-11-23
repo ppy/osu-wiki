@@ -30,7 +30,7 @@ Over recent years Canada is another country that has seen some tremendous growth
 
 Both teams came down to a tiebreaker, where Team Canada’s overall consistency and Tiebreaker experience won them the match. If you have time to check out just one match from this past weekend – this would be your top pick.
 
-Team Hong Kong was especially noteworthy for being the only low-seeded team climbing out as top in the group this past weekend. Facing incredible opposing teams of Philippines, Norway, and Chile, this highly underrated team surprised the fans over and over again with their immovable consistency. Assisted by players like [DenierNezzar](https://osu.ppy.sh/users/126144), [Ming3012](https://osu.ppy.sh/users/1583218), [Chaoslitz](https://osu.ppy.sh/users/3621552), and [– G I D Z –](https://osu.ppy.sh/users/2286528), the Hong Kong team avenged itself for having being eliminated last year in the Groups.
+Team Hong Kong was especially noteworthy for being the only low-seeded team climbing out as top in the group this past weekend. Facing incredible opposing teams of Philippines, Norway, and Chile, this highly underrated team surprised the fans over and over again with their immovable consistency. Assisted by players like [DenierNezzar](https://osu.ppy.sh/users/126144), [MinG3012](https://osu.ppy.sh/users/1583218), [Chaoslitz](https://osu.ppy.sh/users/3621552), and [– G I D Z –](https://osu.ppy.sh/users/2286528), the Hong Kong team avenged itself for having being eliminated last year in the Groups.
 
 ## Upcoming Stage: Eliminations
 
