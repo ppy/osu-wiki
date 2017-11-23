@@ -3,7 +3,7 @@ layout: post
 title: "osu! World Cup 2017 Group Stage Recap"
 date: 2017-11-23 07:00:00 +0000
 ---
-The osu! World Cup has returned once again for 2017 in spectatular fashion with new commentators, new teams, new players, and a fresh new look that has the masses left in awe. For those who missed the weekend excitement - fear not, for we have you covered. Check out what went down, and what's left to come!
+The osu! World Cup has returned once again for 2017 in a spectatular fashion with a brand new look, and a glory-seeking lineup of talented players both old and new. For those who missed the weekend excitement - fear not, for we have you covered. Check out what went down, and what's left to come!
 
 ![](/wiki/shared/news/banners/owc_2017_recap_banner.jpg)
 
