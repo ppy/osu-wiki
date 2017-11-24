@@ -130,7 +130,7 @@ Four mods can alter overall difficulty timing when activated:
 
 **Note:** While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make circles seem to have a lower or higher apparent OD, respectively. In the chart below, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests, and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values below are only for comparison: the actual OD value is always a number from 0 to 10.
 
-![Detailed OD chart](img/ODTable.jpg "Detailed OD chart")
+![Detailed OD chart](img/ODTable.png "Detailed OD chart")
 
 **Note:** The osu! timing system does not allow a [hit circle](/wiki/Hit_Objects) to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
 
