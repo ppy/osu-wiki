@@ -97,6 +97,4 @@ Once you have created your pull request, other osu!wiki editors may review your 
 
 ### Merging
 
-For your changes to become live, your pull request has to be merged. Once your pull request has been reviewed, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord chat](https://discord.gg/ppy).
-
-Once this is completed, your changes are officially part of the osu!wiki. Your changes will not show up right away due to caching on the server's end, but they will show up within one to five hours.
+For your changes to become appear live on the osu!wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord chat](https://discord.gg/ppy). Once it is merged, your changes will take up to five hours to appear live on the osu!wiki.
