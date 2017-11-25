@@ -116,9 +116,9 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 | Country                | Team                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][flag_TW] Taiwan    | **[Flask](https://osu.ppy.sh/u/959763 "Flask")**, [hvick225](https://osu.ppy.sh/u/50265 "hvick225"), [Rucker](https://osu.ppy.sh/u/147515 "Rucker"), [Small K](https://osu.ppy.sh/u/952751 "Small K"), [My Angel Haruna](https://osu.ppy.sh/u/606544 "My Angel Haruna"), [Koalazy](https://osu.ppy.sh/u/286740 "Koalazy"), [Rizer](https://osu.ppy.sh/u/5155973 "Rizer"), [SevenTeen-](https://osu.ppy.sh/u/1859195 "SevenTeen-")          |
-| ![][flag_MX] Mexico    | **[Broodich](https://osu.ppy.sh/u/2484629 "Broodich")**, [Ferelix](https://osu.ppy.sh/u/5580827 "Ferelix"), [-Wolfy-](https://osu.ppy.sh/u/4497582 "-Wolfy-"), [KevstracK](https://osu.ppy.sh/u/5325213 "KevstracK"), [[ AeonLust ]](https://osu.ppy.sh/u/2353490 "[ AeonLust ]"), [Atsuro](https://osu.ppy.sh/u/2279351 "Atsuro"), [-Hebel-](https://osu.ppy.sh/u/6169483 "-Hebel-"), [Atheneon](https://osu.ppy.sh/u/2164627 "Atheneon") |
+| ![][flag_MX] Mexico    | **[Broodich](https://osu.ppy.sh/u/2484629 "Broodich")**, [Ferelix](https://osu.ppy.sh/u/5580827 "Ferelix"), [-Wolfy-](https://osu.ppy.sh/u/4497582 "-Wolfy-"), [KevstracK](https://osu.ppy.sh/u/5325213 "KevstracK"), [\[ AeonLust \]](https://osu.ppy.sh/u/2353490 "[ AeonLust ]"), [Atsuro](https://osu.ppy.sh/u/2279351 "Atsuro"), [-Hebel-](https://osu.ppy.sh/u/6169483 "-Hebel-"), [Atheneon](https://osu.ppy.sh/u/2164627 "Atheneon") |
 | ![][flag_AR] Argentina | **[Glazbom](https://osu.ppy.sh/u/608277 "Glazbom")**, [GaTu](https://osu.ppy.sh/u/3583351 "GaTu"), [Pein](https://osu.ppy.sh/u/2212941 "Pein"), [benjacala](https://osu.ppy.sh/u/1625740 "benjacala"), [Enhu](https://osu.ppy.sh/u/2840499 "Enhu"), [nicogame14](https://osu.ppy.sh/u/3812213 "nicogame14"), [Catalysis](https://osu.ppy.sh/u/5958063 "Catalysis"), [Toushi](https://osu.ppy.sh/u/2367825 "Toushi")                        |
-| ![][flag_ES] Spain     | **[Naxurin](https://osu.ppy.sh/u/3589423 "Naxurin")**, [PdPr0x_](https://osu.ppy.sh/u/4086716 "PdPr0x_"), [Painketsu](https://osu.ppy.sh/u/2127432 "Painketsu"), [[ xFrozZ ]](https://osu.ppy.sh/u/6462387 "[ xFrozZ ]"), [MortalStriker](https://osu.ppy.sh/u/4759050 "MortalStriker"), [adrilolo9](https://osu.ppy.sh/u/4274726 "adrilolo9"), [Widelux13](https://osu.ppy.sh/u/3938945 "Widelux13")                                      |
+| ![][flag_ES] Spain     | **[Naxurin](https://osu.ppy.sh/u/3589423 "Naxurin")**, [PdPr0x_](https://osu.ppy.sh/u/4086716 "PdPr0x_"), [Painketsu](https://osu.ppy.sh/u/2127432 "Painketsu"), [\[ xFrozZ \]](https://osu.ppy.sh/u/6462387 "[ xFrozZ ]"), [MortalStriker](https://osu.ppy.sh/u/4759050 "MortalStriker"), [adrilolo9](https://osu.ppy.sh/u/4274726 "adrilolo9"), [Widelux13](https://osu.ppy.sh/u/3938945 "Widelux13")                                      |
 
 ### Group D
 
@@ -126,7 +126,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][flag_DE] Germany   | **[Dustice](https://osu.ppy.sh/u/754565 "Dustice")**, [DoKito](https://osu.ppy.sh/u/537084 "DoKito"), [Beafowl](https://osu.ppy.sh/u/2438122 "Beafowl"), [Neliel](https://osu.ppy.sh/u/1500305 "Neliel"), [imagaK](https://osu.ppy.sh/u/2022445 "imagaK"), [Firstus](https://osu.ppy.sh/u/1856829 "Firstus"), [BDDav](https://osu.ppy.sh/u/1164526 "BDDav"), [W3SON](https://osu.ppy.sh/u/2070822 "W3SON")                 |
 | ![][flag_AU] Australia | **[Bauxe](https://osu.ppy.sh/u/1881685 "Bauxe")**, [uyghti](https://osu.ppy.sh/u/3641404 "uyghti"), [ithgyu](https://osu.ppy.sh/u/5113781 "ithgyu"), [Dumii](https://osu.ppy.sh/u/3068044 "Dumii"), [Korilak](https://osu.ppy.sh/u/7260014 "Korilak"), [Weber](https://osu.ppy.sh/u/6410432 "Weber"), [Lunirs](https://osu.ppy.sh/u/2118945 "Lunirs"), [Peekamoo](https://osu.ppy.sh/u/2337263 "Peekamoo")                 |
-| ![][flag_LV] Latvia    | **[Forseen](https://osu.ppy.sh/u/556012 "Forseen")**, [waywern2012](https://osu.ppy.sh/u/5870453 "waywern2012"), [Emula](https://osu.ppy.sh/u/2891792 "Emula"), [Jesus[Krists]](https://osu.ppy.sh/u/2842992 "Jesus[Krists]")                                                                                                                                                                                              |
+| ![][flag_LV] Latvia    | **[Forseen](https://osu.ppy.sh/u/556012 "Forseen")**, [waywern2012](https://osu.ppy.sh/u/5870453 "waywern2012"), [Emula](https://osu.ppy.sh/u/2891792 "Emula"), [Jesus\[Krists\]](https://osu.ppy.sh/u/2842992 "Jesus[Krists]")                                                                                                                                                                                              |
 | ![][flag_GR] Greece    | **[Riven](https://osu.ppy.sh/u/3638005 "Riven")**, [JohnyZ](https://osu.ppy.sh/u/4508048 "JohnyZ"), [ThePainG7](https://osu.ppy.sh/u/3478000 "ThePainG7"), [kYorineN](https://osu.ppy.sh/u/4131515 "kYorineN"), [Grapheon](https://osu.ppy.sh/u/2415008 "Grapheon"), [ThOmAstr](https://osu.ppy.sh/u/2793537 "ThOmAstr"), [Tofas](https://osu.ppy.sh/u/2755584 "Tofas"), [xDarxen](https://osu.ppy.sh/u/4625954 "xDarxen") |
 
 ### Group E
@@ -142,7 +142,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 | Country                    | Team                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_US] United States | **[[Toy]](https://osu.ppy.sh/u/2757689 "[Toy]")**, [Axarious](https://osu.ppy.sh/u/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/u/1028387 "Ritzeh"), [Mlaw22](https://osu.ppy.sh/u/3126596 "Mlaw22"), [fieryrage](https://osu.ppy.sh/u/3533958 "fieryrage"), [HappyStick](https://osu.ppy.sh/u/256802 "HappyStick"), [idke](https://osu.ppy.sh/u/4650315 "idke"), [mniminwoo](https://osu.ppy.sh/u/3929529 "mniminwoo")        |
+| ![][flag_US] United States | **[\[Toy\]](https://osu.ppy.sh/u/2757689 "[Toy]")**, [Axarious](https://osu.ppy.sh/u/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/u/1028387 "Ritzeh"), [Mlaw22](https://osu.ppy.sh/u/3126596 "Mlaw22"), [fieryrage](https://osu.ppy.sh/u/3533958 "fieryrage"), [HappyStick](https://osu.ppy.sh/u/256802 "HappyStick"), [idke](https://osu.ppy.sh/u/4650315 "idke"), [mniminwoo](https://osu.ppy.sh/u/3929529 "mniminwoo")        |
 | ![][flag_NO] Norway        | **[Tobi](https://osu.ppy.sh/u/2970667 "Tobi")**, [CXu](https://osu.ppy.sh/u/84841 "CXu"), [-GN](https://osu.ppy.sh/u/895581 "-GN"), [Sebu](https://osu.ppy.sh/u/3990173 "Sebu"), [Warrock](https://osu.ppy.sh/u/2841744 "Warrock"), [Afrodafro](https://osu.ppy.sh/u/3551255 "Afrodafro"), [-PC](https://osu.ppy.sh/u/2916414 "-PC"), [Hundur](https://osu.ppy.sh/u/3145033 "Hundur")                                              |
 | ![][flag_AT] Austria       | **[Akane-Yuki](https://osu.ppy.sh/u/3656589 "Akane-Yuki")**, [Omgforz](https://osu.ppy.sh/u/578943 "Omgforz"), [LWMF](https://osu.ppy.sh/u/3632402 "LWMF"), [Fedora Goose](https://osu.ppy.sh/u/2323131 "Fedora Goose"), [Myst1k](https://osu.ppy.sh/u/5302223 "Myst1k")                                                                                                                                                           |
 | ![][flag_DK] Denmark       | **[Spork Lover](https://osu.ppy.sh/u/3417469 "Spork Lover")**, [waefwerf](https://osu.ppy.sh/u/3868653 "waefwerf"), [iamVill](https://osu.ppy.sh/u/6295380 "iamVill"), [Zog](https://osu.ppy.sh/u/3722715 "Zog"), [Hudda](https://osu.ppy.sh/u/4103629 "Hudda"), [Crylizhy](https://osu.ppy.sh/u/3023138 "Crylizhy"), [Lemmen](https://osu.ppy.sh/u/6090254 "Lemmen"), [teamplayer51](https://osu.ppy.sh/u/3084508 "teamplayer51") |
@@ -172,108 +172,108 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 [Download the mappack here!](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
 
 - NoMod
-  - [sakuzyo - Altale (toybot) [Bonzi's Extra]](https://osu.ppy.sh/b/1012279)
-  - [Lon - Yuru Fuwa Jukai Girl (Garven) [Insane]](https://osu.ppy.sh/b/153103)
-  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) [taka]](https://osu.ppy.sh/b/110628)
-  - [Rita - Dream Walker (Vert) [Zweib's Insane]](https://osu.ppy.sh/b/778244)
-  - [ONE OK ROCK - Mikansei Koukyoukyoku (Saut) [Extreme]](https://osu.ppy.sh/b/768986)
-  - [Ray - Hajimete Girls! (Meyrink) [Skystar's Pin Pon~]](https://osu.ppy.sh/b/776752)
+  - [sakuzyo - Altale (toybot) \[Bonzi's Extra\]](https://osu.ppy.sh/b/1012279)
+  - [Lon - Yuru Fuwa Jukai Girl (Garven) \[Insane\]](https://osu.ppy.sh/b/153103)
+  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[taka\]](https://osu.ppy.sh/b/110628)
+  - [Rita - Dream Walker (Vert) \[Zweib's Insane\]](https://osu.ppy.sh/b/778244)
+  - [ONE OK ROCK - Mikansei Koukyoukyoku (Saut) \[Extreme\]](https://osu.ppy.sh/b/768986)
+  - [Ray - Hajimete Girls! (Meyrink) \[Skystar's Pin Pon~\]](https://osu.ppy.sh/b/776752)
 - Hidden
-  - [Cyua - Blumenkranz (Shinxyn) [Insane]](https://osu.ppy.sh/b/380475)
-  - [sana - Kotonoha Clinic (Kite) [Moroi]](https://osu.ppy.sh/b/907200)
+  - [Cyua - Blumenkranz (Shinxyn) \[Insane\]](https://osu.ppy.sh/b/380475)
+  - [sana - Kotonoha Clinic (Kite) \[Moroi\]](https://osu.ppy.sh/b/907200)
 - HardRock
-  - [Cascada - How Do You Do (Nightcore Mix) (Asphyxia) [Insane]](https://osu.ppy.sh/b/481450)
-  - [Rameses B - Utopia (ft. Holly Drummond) (Milan-) [deetz' Paradise]](https://osu.ppy.sh/b/662046)
+  - [Cascada - How Do You Do (Nightcore Mix) (Asphyxia) \[Insane\]](https://osu.ppy.sh/b/481450)
+  - [Rameses B - Utopia (ft. Holly Drummond) (Milan-) \[deetz' Paradise\]](https://osu.ppy.sh/b/662046)
 - DoubleTime
-  - [Satori-san - Hari no Sora (Sure) [Insane]](https://osu.ppy.sh/b/653966)
-  - [07th Expansion - goldenslaughterer (La Cataline) [Hard]](https://osu.ppy.sh/b/121197)
+  - [Satori-san - Hari no Sora (Sure) \[Insane\]](https://osu.ppy.sh/b/653966)
+  - [07th Expansion - goldenslaughterer (La Cataline) \[Hard\]](https://osu.ppy.sh/b/121197)
 - FreeMod
-  - [ONE OK ROCK - Re:make (Rucker) [Remake]](https://osu.ppy.sh/b/123152)
-  - [44teru-k - F.I (Jacob) [Extra445]](https://osu.ppy.sh/b/155235)
-  - [Megpoid GUMI - For my soul (val0108) [Insane]](https://osu.ppy.sh/b/80102)
+  - [ONE OK ROCK - Re:make (Rucker) \[Remake\]](https://osu.ppy.sh/b/123152)
+  - [44teru-k - F.I (Jacob) \[Extra445\]](https://osu.ppy.sh/b/155235)
+  - [Megpoid GUMI - For my soul (val0108) \[Insane\]](https://osu.ppy.sh/b/80102)
 - Tiebreaker
-  - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) [Pyrotechnics]](https://osu.ppy.sh/b/478605)
+  - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/b/478605)
 
 ### Round of 16
 
 [Download the mappack here!](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar)
 
 - NoMod
-  - [Cilvery - Kamisama Nejimaki (sukiNathan) [Catastrophe]](https://osu.ppy.sh/b/821238)
-  - [senya - Renbei no Searchlight (Dailycare) [Satellite's Catharsis]](https://osu.ppy.sh/b/1046536)
-  - [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/b/743896)
-  - [Katakiri Rekka - Answer (deetz) [RLC's Darkness]](https://osu.ppy.sh/b/947334)
-  - [Hana - Sakura no Uta (Ultimate Madoka) [VI.Artist of the Sakura]](https://osu.ppy.sh/b/994933)
-  - [Memme - Extreme Fantasy (AngelHoney) [ExtrA]](https://osu.ppy.sh/b/152480)
+  - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/b/821238)
+  - [senya - Renbei no Searchlight (Dailycare) \[Satellite's Catharsis\]](https://osu.ppy.sh/b/1046536)
+  - [LeaF - Wizdomiot (Asahina Momoko) \[Lunatic\]](https://osu.ppy.sh/b/743896)
+  - [Katakiri Rekka - Answer (deetz) \[RLC's Darkness\]](https://osu.ppy.sh/b/947334)
+  - [Hana - Sakura no Uta (Ultimate Madoka) \[VI.Artist of the Sakura\]](https://osu.ppy.sh/b/994933)
+  - [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/b/152480)
 - Hidden
-  - [IOSYS - Poinsettia (Aakiha) [Lunatic]](https://osu.ppy.sh/b/65233)
-  - [Team:SASAKURATION - AVALON (Leader) [gowww's Extra]](https://osu.ppy.sh/b/430110)
+  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/b/65233)
+  - [Team:SASAKURATION - AVALON (Leader) \[gowww's Extra\]](https://osu.ppy.sh/b/430110)
 - HardRock
-  - [MYTHOLOGIA by MLREC. - Ymir (Kitami Erika) [Another]](https://osu.ppy.sh/b/716972)
-  - [supercell - Hoshi ga Matataku Konna Yoru ni ([Teichan]) [Starlight]](https://osu.ppy.sh/b/661243))
+  - [MYTHOLOGIA by MLREC. - Ymir (Kitami Erika) \[Another\]](https://osu.ppy.sh/b/716972)
+  - [supercell - Hoshi ga Matataku Konna Yoru ni ([Teichan]) \[Starlight\]](https://osu.ppy.sh/b/661243))
 - DoubleTime
-  - [Kraster - Remember History (Short Ver.) (Serval) [Lunatic]](https://osu.ppy.sh/b/76419)
-  - [SYNC.ART'S - Sins -Kokoro no Tsumi- (Snowy Dream) [Nightmare]](https://osu.ppy.sh/b/158107)
+  - [Kraster - Remember History (Short Ver.) (Serval) \[Lunatic\]](https://osu.ppy.sh/b/76419)
+  - [SYNC.ART'S - Sins -Kokoro no Tsumi- (Snowy Dream) \[Nightmare\]](https://osu.ppy.sh/b/158107)
 - FreeMod
-  - [M2U - Nightmare (ignorethis) [Lesjuh]](https://osu.ppy.sh/b/60238)
-  - [yuikonnu & ayaponzu* - Kunoichi demo Koi ga Shitai (alacat) [Skystar's Extra]](https://osu.ppy.sh/b/319694)
-  - [nmk - sola (sjoy) [Imouto's Extra]](https://osu.ppy.sh/b/439824)
+  - [M2U - Nightmare (ignorethis) \[Lesjuh\]](https://osu.ppy.sh/b/60238)
+  - [yuikonnu & ayaponzu* - Kunoichi demo Koi ga Shitai (alacat) \[Skystar's Extra\]](https://osu.ppy.sh/b/319694)
+  - [nmk - sola (sjoy) \[Imouto's Extra\]](https://osu.ppy.sh/b/439824)
 - Tiebreaker
-  - [Camellia - d:for the DELTA (ProfessionalBox) [Delirium]](https://osu.ppy.sh/b/862338)
+  - [Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/b/862338)
 
 ### Quarterfinals
 
 [Download the mappack here!](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
 
 - NoMod
-  - [Memme - Chinese Restaurant (M o k o r i) [Spicy]](https://osu.ppy.sh/b/587547)
-  - [paraoka - boot (rickyboi) [Shoe]](https://osu.ppy.sh/b/154226)
-  - [Xelia - Illumiscape (Kanna) [Extra]](https://osu.ppy.sh/b/152127)
-  - [Lily - Scarlet Rose (val0108) [0108 style]](https://osu.ppy.sh/b/131564)
-  - [MY FIRST STORY - ALONE (Saut) [Isolation]](https://osu.ppy.sh/b/861381)
-  - [Delain - Go Away (pishifat) [Extra]](https://osu.ppy.sh/b/1016263)
+  - [Memme - Chinese Restaurant (M o k o r i) \[Spicy\]](https://osu.ppy.sh/b/587547)
+  - [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/b/154226)
+  - [Xelia - Illumiscape (Kanna) \[Extra\]](https://osu.ppy.sh/b/152127)
+  - [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/b/131564)
+  - [MY FIRST STORY - ALONE (Saut) \[Isolation\]](https://osu.ppy.sh/b/861381)
+  - [Delain - Go Away (pishifat) \[Extra\]](https://osu.ppy.sh/b/1016263)
 - Hidden
-  - [Sound Horizon - Raijin no Hidariude (AngelHoney) [Insane]](https://osu.ppy.sh/b/60089)
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) [Lunatic]](https://osu.ppy.sh/b/214252)
+  - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/b/60089)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[Lunatic\]](https://osu.ppy.sh/b/214252)
 - HardRock
-  - [iojjj - Deus Ex Machina (Okoratu) [GREAT EQUALIZER IS THE DEATH]](https://osu.ppy.sh/b/688886)
-  - [mafumafu - Yuugure Semi Nikki (L_P) [Yuugure]](https://osu.ppy.sh/b/180681)
+  - [iojjj - Deus Ex Machina (Okoratu) \[GREAT EQUALIZER IS THE DEATH\]](https://osu.ppy.sh/b/688886)
+  - [mafumafu - Yuugure Semi Nikki (L_P) \[Yuugure\]](https://osu.ppy.sh/b/180681)
 - DoubleTime
-  - [Mami Kawada - sense (Giralda) [LC's Insane]](https://osu.ppy.sh/b/723285)
-  - [ClariS - Connect (Holoaz) [Holo]](https://osu.ppy.sh/b/87066)
+  - [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/b/723285)
+  - [ClariS - Connect (Holoaz) \[Holo\]](https://osu.ppy.sh/b/87066)
 - FreeMod
-  - [07th Expansion - rog-unlimitation (AngelHoney) [AngelHoney]](https://osu.ppy.sh/b/116128)
-  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) [Skystar]](https://osu.ppy.sh/b/239104)
-  - [beatMARIO - Night of Knights (DJPop) [SOLO]](https://osu.ppy.sh/b/58063)
+  - [07th Expansion - rog-unlimitation (AngelHoney) \[AngelHoney\]](https://osu.ppy.sh/b/116128)
+  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/b/239104)
+  - [beatMARIO - Night of Knights (DJPop) \[SOLO\]](https://osu.ppy.sh/b/58063)
 - Tiebreaker
-  - [DragonForce - Symphony Of The Night (Evil_Twilight) [Legend]](https://osu.ppy.sh/b/1007546)
+  - [DragonForce - Symphony Of The Night (Evil_Twilight) \[Legend\]](https://osu.ppy.sh/b/1007546)
 
 ### Semifinals
 
 [Download the mappack here!](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
 
 - NoMod
-  - [ZUN remixed by LeaF - Resurrection Spell (Muya) [VOLCANO]](https://osu.ppy.sh/b/658561)
-  - [VY1 - Cyber Thunder Cider (tutuhaha) [Cider]](https://osu.ppy.sh/b/146610)
-  - [Yooh - LegenD. (Flask) [GravitY.]](https://osu.ppy.sh/b/863249)
-  - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) [oko's Extra]](https://osu.ppy.sh/b/717133)
-  - [Function Phantom - Euclid (byfar) [Fifth Postulate]](https://osu.ppy.sh/b/908093)
-  - [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky) [BD's Gangsta]](https://osu.ppy.sh/b/652234)
+  - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/b/658561)
+  - [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/b/146610)
+  - [Yooh - LegenD. (Flask) \[GravitY.\]](https://osu.ppy.sh/b/863249)
+  - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[oko's Extra\]](https://osu.ppy.sh/b/717133)
+  - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/b/908093)
+  - [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky) \[BD's Gangsta\]](https://osu.ppy.sh/b/652234)
 - Hidden
-  - [DECO*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) [0108's Extra]](https://osu.ppy.sh/b/534946)
-  - [An - Saigo (Rumia-) [Final]](https://osu.ppy.sh/b/1100091)
+  - [DECO*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) \[0108's Extra\]](https://osu.ppy.sh/b/534946)
+  - [An - Saigo (Rumia-) \[Final\]](https://osu.ppy.sh/b/1100091)
 - HardRock
-  - [ginkiha - EOS (alacat) [Lycoris]](https://osu.ppy.sh/b/373781)
-  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) [Ijou Nashi]](https://osu.ppy.sh/b/104945)
+  - [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/b/373781)
+  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou Nashi\]](https://osu.ppy.sh/b/104945)
 - DoubleTime
-  - [Rain - Hip Song (Irreversible) [Insane]](https://osu.ppy.sh/b/841426)
-  - [Neru - World Domination How-To (Chewin) [Insane]](https://osu.ppy.sh/b/318142)
+  - [Rain - Hip Song (Irreversible) \[Insane\]](https://osu.ppy.sh/b/841426)
+  - [Neru - World Domination How-To (Chewin) \[Insane\]](https://osu.ppy.sh/b/318142)
 - FreeMod
-  - [cosMo@BousouP - Oceanus (Broccoly) [Divinity]](https://osu.ppy.sh/b/609843)
-  - [Susumu Hirasawa - Big Brother (Gens) [KIRBY Mix]](https://osu.ppy.sh/b/42244)
-  - [T & Sugah x Lexurus - No More (Strategas) [Extra]](https://osu.ppy.sh/b/1007896)
+  - [cosMo@BousouP - Oceanus (Broccoly) \[Divinity\]](https://osu.ppy.sh/b/609843)
+  - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/b/42244)
+  - [T & Sugah x Lexurus - No More (Strategas) \[Extra\]](https://osu.ppy.sh/b/1007896)
 - Tiebreaker
-  - [Venetian Snares - She Runs (fergas) [Escape?]](https://osu.ppy.sh/b/711923)
+  - [Venetian Snares - She Runs (fergas) \[Escape?\]](https://osu.ppy.sh/b/711923)
 
 ### Finals
 
@@ -282,27 +282,27 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 [Download the mappack here!](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
 
 - NoMod
-  - [U1 overground - Dopamine (fanzhen0019) [C6H3(OH)2-CH2-CH2-NH2]](https://osu.ppy.sh/b/494818)
-  - [Yousei Teikoku - The Creator (meiikyuu) [Nyaten]](https://osu.ppy.sh/b/202756)
-  - [BABYMETAL - Gimme chocolate!! (alacat) [BLACK CHOCOLATE!!]](https://osu.ppy.sh/b/970048)
-  - [Nanahira - Bassdrop Freaks (Long Ver.) (yf_bmp) [BASSDROP!!]](https://osu.ppy.sh/b/992437)
-  - [ayaponzu* - Yakubyougami (cRyo[iceeicee]) [B(]](https://osu.ppy.sh/b/976190)
-  - [ESTi - HELIX (Edit ver.) (Hollow Wings) [EX EX]](https://osu.ppy.sh/b/462700)
+  - [U1 overground - Dopamine (fanzhen0019) \[C6H3(OH)2-CH2-CH2-NH2\]](https://osu.ppy.sh/b/494818)
+  - [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/b/202756)
+  - [BABYMETAL - Gimme chocolate!! (alacat) \[BLACK CHOCOLATE!!\]](https://osu.ppy.sh/b/970048)
+  - [Nanahira - Bassdrop Freaks (Long Ver.) (yf_bmp) \[BASSDROP!!\]](https://osu.ppy.sh/b/992437)
+  - [ayaponzu* - Yakubyougami (cRyo[iceeicee]) \[B(\]](https://osu.ppy.sh/b/976190)
+  - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[EX EX\]](https://osu.ppy.sh/b/462700)
 - Hidden
-  - [Demetori - Silent Voyage to Eternity (brikel) [BMix]](https://osu.ppy.sh/b/115384)
-  - [An - Catanoph (Lavender) [Extra]](https://osu.ppy.sh/b/1118285)
+  - [Demetori - Silent Voyage to Eternity (brikel) \[BMix\]](https://osu.ppy.sh/b/115384)
+  - [An - Catanoph (Lavender) \[Extra\]](https://osu.ppy.sh/b/1118285)
 - HardRock
-  - [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) [[ -Scarlet- ]'s Extra]](https://osu.ppy.sh/b/434438)
-  - [Camellia feat. Nanahira - Tsukitoro (jonathanlfj) [Countless]](https://osu.ppy.sh/b/837694)
+  - [Studio EIM - Crescent Moon Island Boss Theme (Rakuen) \[[ -Scarlet- ]'s Extra\]](https://osu.ppy.sh/b/434438)
+  - [Camellia feat. Nanahira - Tsukitoro (jonathanlfj) \[Countless\]](https://osu.ppy.sh/b/837694)
 - DoubleTime
-  - [ClariS - Colorful (Laurier) [Insane]](https://osu.ppy.sh/b/336295)
-  - [LeaF - MEPHISTO (Alumetorz) [Another]](https://osu.ppy.sh/b/282166)
+  - [ClariS - Colorful (Laurier) \[Insane\]](https://osu.ppy.sh/b/336295)
+  - [LeaF - MEPHISTO (Alumetorz) \[Another\]](https://osu.ppy.sh/b/282166)
 - FreeMod
-  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) [Dance]](https://osu.ppy.sh/b/145669)
-  - [Syrsa - Mad Machine (Louis Cyphre) [Champion]](https://osu.ppy.sh/b/107875)
-  - [USAO - Miracle 5ympho X (Extended Mix) (RLC) [5ympho XtrA]](https://osu.ppy.sh/b/536476)
+  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/b/145669)
+  - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/b/107875)
+  - [USAO - Miracle 5ympho X (Extended Mix) (RLC) \[5ympho XtrA\]](https://osu.ppy.sh/b/536476)
 - Tiebreaker
-  - [goreshit - burn this moment into the retina of my eye (grumd) [extra]](https://osu.ppy.sh/b/791274)
+  - [goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/b/791274)
 
 ## Match Results
 
