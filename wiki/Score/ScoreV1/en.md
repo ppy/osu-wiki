@@ -28,11 +28,13 @@ Term | Meaning
 **Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
 **Mod multiplier**        | The multiplier of the selected mods
 
-Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
+Each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
 Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
 ### How to calculate the Difficulty multiplier
+
+The **Difficulty multiplier** was calculated based on each map's star rating (the old one, before the introduction of performance points), which factored in object density, and was affected by the difficulty settings of the map as follows.
 
 [Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
 
