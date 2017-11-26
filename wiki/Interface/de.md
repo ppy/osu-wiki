@@ -1,5 +1,5 @@
 <img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" /> \_\_TOC\_\_
-=Hauptmenü= <img src="introscreen.png" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
+=Hauptmenü= <img src="Introscreen.jpg" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
 
 Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
@@ -24,7 +24,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 3.  **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
 4.  **Close** : Schließt das Fenster.
 
-=Spielmenü= <img src="introscreen2.png" title="fig:Spielmenü" alt="Spielmenü" width="280" />
+=Spielmenü= <img src="Introscreen2.jpg" title="fig:Spielmenü" alt="Spielmenü" width="280" />
 
 -   Klick auf Play (P), um alleine zu spielen.
 -   Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
@@ -43,7 +43,7 @@ Songauswahl
 
 Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
 
-![](osu.gif "fig:osu.gif")"osu!" ist [osu!](DE:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Trommel" ist [Taiko](DE:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apfel" ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](mania.gif "fig:mania.gif")"Piano" ist [osu!mania](:DE:Osu!mania "wikilink")
+![](osu.gif "fig:osu.gif") ist [osu!](DE:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") ist [Taiko](DE:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](mania.gif "fig:mania.gif") ist [osu!mania](:DE:Osu!mania "wikilink")
 
 Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich wird, konzentrieren wir uns für jetzt auf einem bestimmten Teil des Bildschirmes. Wir beginnen oben von links nach rechts und arbeiten uns langsam nach unten.
 

@@ -1,5 +1,5 @@
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
-=Menu Utama= <img src="introscreen.png" title="fig:Menu utama" alt="Menu utama" width="280" />
+=Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
 -   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](ID:Timing "wikilink") dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 
@@ -29,7 +29,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 Menu Bermain
 ============
 
-<img src="introscreen2.png" title="Menu bermain" alt="Menu bermain" width="280" />
+<img src="Introscreen2.jpg" title="Menu bermain" alt="Menu bermain" width="280" />
 
 -   Click Solo (P) untuk bermain sendiri.
 -   Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](ID:Multiplayer "wikilink").
@@ -48,7 +48,7 @@ Layar Pemilihan Lagu
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
-![](osu.gif "fig:osu.gif")"osu!" adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif")"Piano" adalah [osu!mania](ID:Mania "wikilink").
+![](osu.gif "fig:osu.gif") adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif") adalah [osu!mania](ID:Mania "wikilink").
 
 Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor yang mudah terlihat, bagian ini akan fokus pada satu bagian layar dan di saat bersamaan, mulai dari atas (kiri ke kanan) dan terus ke bawah.
 
