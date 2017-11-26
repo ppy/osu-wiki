@@ -1,5 +1,5 @@
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
-=Menu Utama= <img src="introscreen.png" title="fig:Menu utama" alt="Menu utama" width="280" />
+=Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
 -   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](ID:Timing "wikilink") dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 
@@ -29,7 +29,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 Menu Bermain
 ============
 
-<img src="introscreen2.png" title="Menu bermain" alt="Menu bermain" width="280" />
+<img src="Introscreen2.jpg" title="Menu bermain" alt="Menu bermain" width="280" />
 
 -   Click Solo (P) untuk bermain sendiri.
 -   Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](ID:Multiplayer "wikilink").

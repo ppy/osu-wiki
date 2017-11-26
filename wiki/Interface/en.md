@@ -12,7 +12,7 @@
 
 ## Main Menu
 
-![Main Menu](img/Introscreen.png)
+![Main Menu](img/Introscreen.jpg)
 
 The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wiki/BPM) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
@@ -47,7 +47,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Play Menu
 
-![Play Menu](img/Introscreen2.png)
+![Play Menu](img/Introscreen2.jpg)
 
 -   Click `Solo` (`P`) to play alone.
 -   Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Multi) Lobby (see below).
@@ -271,7 +271,7 @@ Below are the grade screens of the other game modes.
 
 ### Online Leaderboard
 
-![Right: Example of an osu!online score. (6) was edited in.](img/Osu!_Online_score.png)
+![Right: Example of an osu!online score. (6) was edited in.](img/Osu!_Online_score.jpg)
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 

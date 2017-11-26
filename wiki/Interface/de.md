@@ -1,5 +1,5 @@
 <img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" /> \_\_TOC\_\_
-=Hauptmenü= <img src="introscreen.png" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
+=Hauptmenü= <img src="Introscreen.jpg" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
 
 Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
@@ -24,7 +24,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 3.  **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
 4.  **Close** : Schließt das Fenster.
 
-=Spielmenü= <img src="introscreen2.png" title="fig:Spielmenü" alt="Spielmenü" width="280" />
+=Spielmenü= <img src="Introscreen2.jpg" title="fig:Spielmenü" alt="Spielmenü" width="280" />
 
 -   Klick auf Play (P), um alleine zu spielen.
 -   Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
