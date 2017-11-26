@@ -1,7 +1,7 @@
 osu!mania 7K World Cup 2017
 =============================
 
-![osu!mania 7K World Cup 2017](logo.png)
+![osu!mania 7K World Cup 2017](logo.jpg)
 
 The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is part of the 3rd installment of the osu!mania World Cup.
 
