@@ -116,6 +116,34 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (107 MB)](http://www.mediafire.com/file/n4le2yxjs478ysf/OWC_2017_Quarterfinals.rar)**
+
+- NoMod
+  - [FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/b/293134&m=0) [iyasine]
+  - [LeaF - Calamity Fortune (Frostings)](http://osu.ppy.sh/b/789752&m=0) [Cataclysm]
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn)](http://osu.ppy.sh/b/1291369&m=0) [Dreaming of Embers]
+  - [YUC'e - Cinderella Syndrome (Kibbleru)](http://osu.ppy.sh/b/1187506&m=0) [Affection]
+  - [MY FIRST STORY - Itsuwari NEUROSE (Saut)](http://osu.ppy.sh/b/803199&m=0) [Madness]
+  - [yak_won - Sewing Machine (ktgster)](http://osu.ppy.sh/b/772293&m=0) [Extreme]
+- Hidden
+  - [Jimmy Weckl - Get Happy (buhei)](http://osu.ppy.sh/b/953945&m=0) [MASTER]
+  - [senya - Zetsubou no Fuchi (-Mo-)](http://osu.ppy.sh/b/1278874&m=0) [Abyssal]
+- HardRock
+  - [USAO - Night sky (sukiNathan)](http://osu.ppy.sh/b/863532&m=0) [Extra]
+  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream)](http://osu.ppy.sh/b/191805&m=0) [Collab]
+- DoubleTime
+  - [ChomuP - Gate of Steiner (JauiPlaY)](http://osu.ppy.sh/b/157886&m=0) [Insane]
+  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne)](http://osu.ppy.sh/b/429797&m=0) [Insane]
+- FreeMod
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Nyquill)](http://osu.ppy.sh/b/725139&m=0) [Another†leggendaria]
+  - [Zips - Heisei Cataclysm (Dark Fang)](http://osu.ppy.sh/b/206567&m=0) [Fang]
+  - [Hatsune Miku - Mythologia's End (val0108)](http://osu.ppy.sh/b/151229&m=0) [Myth0108ia]
+- Tiebreaker
+  - [Nanahira - Petals (toybot)](http://osu.ppy.sh/b/1193128&m=0) [Blossom]
+
+
 ### Round of 16
 
 **[Download the mappack here! (153 MB)](http://www.mediafire.com/file/klgdrjqmz3l3q36/OWC_2017_Round_of_16.rar)**
