@@ -22,6 +22,8 @@ Details of what was changed goes here.
 Format is :
 - Change 1
 - Change 2
+Verbosity is key here, so please when making your changelogs, don't just put "changed xy.md". Define the changes
+you made in those files.
 -->
 
 ### Checklist <!-- Omit this if you don't have a checklist -->
@@ -32,17 +34,11 @@ To make a checklist:
 - [] Entry 2
 -->
 
-### Additional Notes  <!-- Omit this if you don't have any additional notes for your PR -->
-
-<!--
-Miscellanous notes you want to point out. 
-Use this instead of using Related Issues for notes that doesn't link to a specific issue
--->
-
 ### Related Issues <!-- Omit this if you don't have any issues related to your PR -->
 
 <!-- I
 f you have any issues related to this PR, link them here.
+To link an issue with your PR to automatically close it, copy the ID eg: #201 and paste the issue ID here.
 eg: this resolves #589
 Use this only for linking issues in https://github.com/ppy/osu-wiki/issues. Non issues should be in Additional notes
 -->
