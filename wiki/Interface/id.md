@@ -48,7 +48,7 @@ Layar Pemilihan Lagu
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
-![](osu.gif "fig:osu.gif")"osu!" adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif")"Piano" adalah [osu!mania](ID:Mania "wikilink").
+![](osu.gif "fig:osu.gif") adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif") adalah [osu!mania](ID:Mania "wikilink").
 
 Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor yang mudah terlihat, bagian ini akan fokus pada satu bagian layar dan di saat bersamaan, mulai dari atas (kiri ke kanan) dan terus ke bawah.
 

@@ -43,7 +43,7 @@ Songauswahl
 
 Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
 
-![](osu.gif "fig:osu.gif")"osu!" ist [osu!](DE:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Trommel" ist [Taiko](DE:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apfel" ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](mania.gif "fig:mania.gif")"Piano" ist [osu!mania](:DE:Osu!mania "wikilink")
+![](osu.gif "fig:osu.gif") ist [osu!](DE:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") ist [Taiko](DE:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](mania.gif "fig:mania.gif") ist [osu!mania](:DE:Osu!mania "wikilink")
 
 Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich wird, konzentrieren wir uns für jetzt auf einem bestimmten Teil des Bildschirmes. Wir beginnen oben von links nach rechts und arbeiten uns langsam nach unten.
 
