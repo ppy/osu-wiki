@@ -6,7 +6,7 @@ date: 2017-11-27 23:00:00 +0000
 
 It's that time of year again - half the world is enjoying the coming of winter, and the other half of the world wishes they were too. You've got **ten days** of scribbling to get your winter-themed osu! (or community) mascots onto paper and into voting, for a chance to have them included as a seasonal in-game background!
 
-[![](https://assets.ppy.sh/contests/58/header.jpg)](https://osu.ppy.sh/community/contests/58)
+[![](https://assets.ppy.sh/contests/58/header.jpg?20171127)](https://osu.ppy.sh/community/contests/58)
 
 Winter's something of a festive affair in many places in the world, and we have a [fine osu! tradition](https://osu.ppy.sh/community/contests/36) of celebrating its coming with a fanart contest, among other things.
 
