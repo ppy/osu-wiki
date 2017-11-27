@@ -15,6 +15,18 @@ Glossary
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
+### Mapset
+
+- **Drain time:** The time during which the health-bar drains. Excludes break periods. Taiko mode’s drain time includes sliders and the intended length of spinners. 
+- **Reasonable Spread:** A mapset without drastically large differences between difficulties as dictated by difficulty-specific rules and guidelines. 
+- **Game-mode:** osu!, osu!taiko, osu!catch, and each of osu!mania’s key counts are considered individual game-modes.
+- **Single-mode mapset:** A mapset which contains difficulties of only one game-mode.
+- **Hybrid mapset:** A mapset which contains difficulties of multiple game-modes.
+- **Marathon:** A mapset which does not require a full spread of difficulties.
+- **Mapset host:** A user who uploads and manages a mapset.
+- **Guest difficulty:** A difficulty added to a mapset which is not created by its mapset host.
+- **Collaborative difficulty:** A single difficulty mapped by more than one mapper. Also referred to as "collab".
+
 ### Timing
 
 - **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
@@ -69,24 +81,27 @@ Glossary
 
 ### Rules
 
--   **Mapsets must have at least two difficulties of the same game mode, one of which must be an Easy/Normal level.** It is possible for Marathon difficulties to have only 1 difficulty, but it must be named Marathon for the BSS to allow the submission to pending.
--   **The mapset must have a well-designed spread of difficulties, containing at least an Easy or a Normal difficulty.** This is so that players of all levels of experience are able to enjoy maps of the songs they love.
--   **The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it.** The order can be seen in the chart below. If your mapset has two difficulties, one of them cannot be an Insane or Expert. **The lowest difficulty must be below 2.0 stars**. The difficulty level of osu!taiko-specific and osu!mania-specific difficulties must also follow a well-designed spread and might contain an Hard/Insane only, if there are standard difficulties present. In CtB, the spread evaluation is upon the [Beatmap Nominators'](/wiki/People/Beatmap_Nomination_Group/) discretion. The difficulty spread is determined by the map's star rating. A map falls under a certain difficulty when having a specific star rating:
-    -   Below 1.50: Easy
-    -   1.50-2.25: Normal
-    -   2.25-3.75: Hard
-    -   3.75-5.25: Insane
-    -   Above 5.25: Expert
--   **A difficulty's name must indicate its level of difficulty, with the exception of the hardest level of difficulty in a set.** The [mapset](/wiki/Glossary/#beatmapset)'s hardest difficulty may use an appropriate custom difficulty name, unrelated to a username. Mapsets may also use a complete set of custom difficulty names that clearly indicate their level of difficulty to the player. Marathon maps with a single difficulty may use free naming.
--   **Each difficulty must be able to be played by a single player.** Thus, Multiplayer TAG-specific difficulties are not allowed since multiple people are required to play them. However, you may add an external link to a [TAG](/wiki/Glossary/#tag) difficulty in your map thread.
--   **A mapset cannot have just one osu!taiko or osu!mania difficulty.** If you decide, for example, to include osu!taiko in your map, make sure you have at least 2 osu!taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty. However having only one CtB difficulty is fine.
--   **Having just one osu!catch specific difficulty is allowed within an osu! standard mapset, if it is not an Extra level difficulty.** If you wish to add a CtB-specific Extra level difficulty into a osu! standard mapset, you must at least add another CtB-specific Insane difficulty. osu! difficulties are converted correctly into osu!catch. However, in mapsets without osu! standard difficulties you must create a full spreaded CtB set, as osu!taiko and osu!mania difficulties can not be converted into osu!catch.
--   **No guest mapper should have more difficulties in the mapset than the creator, all modes together**. For collaboration mapsets, the uploader should take part in all [collab](/wiki/Glossary/#collab) difficulties. The person who should upload the map is the one who contributed most to it. Maps with an ambiguous set of difficulties such as collabs will be evaluated on a case-by-case basis to ensure that the submitting mapper is properly accounted for.
+-   **Single-mode mapsets must include a reasonable spread of at least two difficulties.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
+-   **Hybrid mapsets without osu!standard difficulties must include a reasonable spread of at least two difficulties per mode.** The lowest difficulty of each mode cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
+-   **If a hybrid mapset includes osu!standard difficulties...**
+    -   **A reasonable spread of at least two osu!standard difficulties must be included.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. 
+    -   **Converted difficulties must form a reasonable spread.** For example, a mapset with Easy and Normal osu!standard difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
+    -   **Any two or more osu!taiko or osu!mania difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
+    -   **One or more osu!catch difficulties may be included.** The lowest difficulty cannot be harder than an Insane.
+-   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
+-   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
+-   **Excluding a mapset’s hardest difficulty, a difficulty’s name must accurately indicate its level of difficulty.** Conventional difficulty names vary between game modes, but any set of clearly progressive difficulty names can be alternatively used. Additionally, a mapset’s hardest difficulty should not use a misrepresentative difficulty name.
+-   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its mappers’ username or nickname. (e.g. Guest Mapper’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
+-   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
+-   **A mapset host must have mapped equal or more drain time than any guest difficulty mappers.** This is to provide credit where credit is due.
+-   **A mapset host and guest mappers can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the mapset host must delete the guest contribution upon request. If a guest mapper cannot be contacted for a month, they will be assumed to agree with any changes. 
 
 ### Guidelines
 
--   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
--   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
+-   **Avoid incomprehensible username combinations to indicate possession of a collaborative guest difficulty.** If it’s unclear whose usernames are combined, simplification is recommended.
+-   **Avoid difficulty names with descriptive elements not clearly related to a guest difficulty mapper or a level of difficulty.** (e.g. Mapper’s Tragic Love Extra)
+-   **Usernames indicating possession of a guest difficulty should be consistent between multiple mapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
+-   **Avoid non-alphanumeric unicode characters in a difficulty’s name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
 
 ## Metadata
 
