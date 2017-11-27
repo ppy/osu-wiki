@@ -145,6 +145,20 @@ Si vous avez un supporter tag actif, vous pouvez voir toutes les maps où vous a
 
 Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
+### Je n'ai reçu aucun e-mail venant d'osu!/J'ai oublié mon e-mail !
+
+**Il peut y avoir un problème avec le compte de votre e-mail actuel.**
+
+Si vous nvous souvenez de l'addresse e-mail liée à votre compte, ou du moins vous le pensez, visitez la page de [récupération d'e-mail](https://osu.ppy.sh/p/forgot-email) afin de remplir un formulaire pour pouvoir la changer. Remplissez le formulaire du mieux que vous pouvez et vous recevrez une réponse dans les deux jours suivants.
+
+Si vous avez perdu le mot de passe de votre compte et que vous ne recevez aucun e-mail de récupération de mot de passe, ou que vous ne pouvez pas retrouver l'addresse e-mail que vous avez utilisé, veuillez contacter [accounts@ppy.sh](mailto:accounts@ppy.sh). N'importe quelle information que vous avez à propos de votre compte (votre nom d'utilisateur, n'importe quelle image qui vous montre connecté au client, des transactions passées dans le magasin ou un paiement de supporter, etc...) sera très utile !
+
+Enfin, nous savons que certains fournisseurs n'acceptent pas d'e-mails automatiques venant de nous. Si vous utilisez l'un de ces fournisseurs, veuillez nous contacter par e-mail et nous changerons votre addresse e-mail pour vous:
+- `free.fr`
+- `laposte.net`
+- `sbcglobal.net`
+- `t-online.de`
+
 ----------------------------------------------------------------------------
 
 ## Client
