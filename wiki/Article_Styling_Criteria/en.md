@@ -12,7 +12,7 @@ The following standards apply only to articles saved in the `wiki/` directory.
 
 ### Locales
 
-These are the supported locales for the osu!wiki. If your language isn't listed below, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)!
+Listed below are the supported locales for the osu!wiki. If your language is not listed, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)! Remember that osu!web is translated by the osu! community, and that, by opening an issue, it will not guarantee that someone else will translate it for you. If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 | File Name | Locale Name | Native Script |
 |-----------|-------------|---------------|
@@ -98,7 +98,7 @@ The escaping character in Markdown is the blackslash (`\`). To escape the escape
 
 *Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
 
-When trying to emphasize words, do not use capital letters. Instead, bold the words you are trying to emphasize. For example:
+When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
 
 ```
 Do not:
@@ -222,13 +222,13 @@ If you are using the reference style linking, it is suggested to place the refer
 
 Internal links are the links linking within the osu!wiki.
 
-Do not use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
+Never use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
 
 ##### Redirects
 
 For your convenience, all folders should have a redirect. All internal links are to use redirects.
 
-To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
+To do this, open the [`redirect.yaml` file](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
 
 ```
 [ASC](/wiki/ASC)
@@ -240,23 +240,15 @@ To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/mast
 
 Here are some differences between redirect pathing and normal pathing:
 
-- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links
-- Redirects allows you to type in a short form of a folder rather than getting the entire path
-  - Which one would you use? (Hint: You would probably pick the second option.)
-    1. `[OWC 2015](/wiki/Tournaments/OWC/2015)`
-    2. `[OWC 2015](/wiki/OWC_2015)`
-- Redirects are quicker in most situations
-  - Which one would you use? (Hint: You would probably pick the second option.)
-    1. `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)`
-    2. `[Muzukashii](/wiki/Muzukashii)`
-- Redirects are case insensitive
-  - Meaning, you can use `[Beatmap Packs 0916](/wiki/bEaTmAp_pAcKs_0916)` and it will still work
-- Redirects already handle section linking
-  - You can use `[EZ](/wiki/EZ)` instead of `[EZ](/wiki/Game_Modifiers/#easy)`
+- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
+- Redirects allows you to type in a short form of a folder rather than getting the entire path. For exmaple, `[OWC 2015](/wiki/Tournaments/OWC/2015)` would be `[OWC 2015](/wiki/OWC_2015)`.
+- Redirects are quicker and shorter in most situations. For example, `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)` would be `[Muzukashii](/wiki/Muzukashii)`.
+- Redirects are case insensitive. Meaning, you can use `[Beatmap Packs 0916](/wiki/bEaTmAp_pAcKs_0916)` and it will still work.
+- Redirects can handle section linking. For example, you can use `[EZ](/wiki/EZ)` instead of `[EZ](/wiki/Game_Modifiers/#easy)`.
 
 #### External
 
-Perfer the `https` protocol and **never** use protocol relative links (e.g. `//example.com`).
+Perfer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
 
 External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
 
@@ -266,8 +258,8 @@ Never use raw links for linking or have the link text be the url. For example:
 
 ```
 Do not: https://osu.ppy.sh/
-Do not: <https://osu.ppy.sh/>
-Do not: [https://osu.ppy.sh/](https://osu.ppy.sh/)
+or: <https://osu.ppy.sh/>
+or: [https://osu.ppy.sh/](https://osu.ppy.sh/)
 
 Do: [osu!web](https://osu.ppy.sh/)
 ```
@@ -278,16 +270,16 @@ When linking to an osu!user profile, use the user's id number instead of their u
 
 ```
 Do not:
-`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`
-`[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
+`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`
+`[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
 
 Do (okay):
-`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`
-`[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
+`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`
+`[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
 
 Do (prefered):
-`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
-`[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
+`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`
+`[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 ```
 
 Whenever possible, use the current user's name instead of the user's previous names.
@@ -395,11 +387,11 @@ The osu! official branding are to not use any spaces. Examples may include:
 
 Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
 
-- `osu! Tournaments`
-- `osu! Alumni`
-- `osu! Community`
-- `osu! Chat`
-- `osu! Client`
+- `osu! tournaments`
+- `osu! alumni`
+- `osu! community`
+- `osu! chat`
+- `osu! client`
 
 ---
 
@@ -410,19 +402,19 @@ When referring to `osu!` (the game/framework itself, not the game mode), it shou
 
 ### Date formatting
 
-Since many regions use different date and time formats, the osu!wiki will only use this format: `DD. MMMM YYYY`. For example:
+Since many regions use different date and time formats, the osu!wiki will only use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format: `YYYY-MM-DD`. For example:
 
-- `April 1, 2017` must be `01. April 2017`
-- `17 June, 2013` must be `17. June 2013`
-- `2015 March, 02` must be `02. March 2015`
-- `2008.11.02` must be `02. November 2008`
+- `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
+- `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
+- `17 June, 2013` (`DD MMMM, YYYY`) must be `2013-06-17`
+- `2015 March, 02` (`YYYY MM, DD`) must be `2015-03-02`
+- `2009.09.09` (`YYYY.MM.DD` or `YYYY.DD.MM` and similar) must be `2009-09-09`
 
-<!-- this is to cover for languages with month/day/year suffixes -->
-If your language uses a day, month, and year suffix (e.g. Chinese, Japanese, or Korean), you may use them. For example:
+If your language uses a day, month, and year suffix (i.e. Chinese, Japanese, or Korean), you must not use said format; instead use the same format as stated above, ISO-8601.
 
-- `April 29, 2016` must be `2016年04月29日`
-- `18 June, 2013` must be `2013년06월18일`
-- `2007 March, 02` must be `2007年03月02日`
+- `2016年02月29日` must be `2016-02-29`
+- `2014년08월18일` must be `2014-08-18`
+- `2010年01月02日` must be `2010-01-02`
 
 ### Language names
 
@@ -433,20 +425,20 @@ When referring to the name of a language, capitalize the first letter of that la
 
 ### Abbreviations
 
-When using abbreviations, it is really important to note what the abbreviation means upon first instance. For example:
+When using abbreviations, it is really important to note what the abbreviation means upon their first occurrence. For example:
 
 ```
 The NC (Nightcore) mod is similar to the DT (Double Time) mod. While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
 ```
 
-Abbreviations of osu! terms **must** be capitalised.
-For example:
+All abbreviations of **must** be capitalised. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
 - `DT` for `Double Time`
+- `ASC` for `Article Styling Criteria`
 
-When shortening the word "for example", use `e.g.` instead of `e.x.` or `i.e.`.
+When shortening the word "for example", use `e.g.` instead of `e.x.`. The `i.e.` abbreviation means "that is".
 
 ### Serial comma
 
@@ -456,24 +448,24 @@ When a list consists of 3 or more items in a sentence, use the serial comma. For
 
 - The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
-Keep in mind that there are rare expections to not using the serial commas.
+Keep in mind that there are rare expections to not using the serial comma.
 
 ### Game modes
 
 When writting the name of the game modes, they are to be written as follows:
 
-- `osu!`
-  - `osu!standard` (unofficial, but used to prevent ambiguity)
-    - for folder names, it is required to use `osu!`, not `osu!standard`
+- `osu!standard` (unofficial, but used to prevent ambiguity)
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
 
-You may use the old game mode names (e.g. `Catch the Beat`, `Taiko`, or `Mania`) only when discussing about said game mode's previous name.
+*Note: To maintain consistency, never use `osu!` to refer to the game mode `osu!standard`.* However, folder names must use `osu!`, not `osu!standard`, when referring to the difficulty.
+
+You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
 ### Game modifiers
 
-Game modifiers **must** be capitalised. For example:
+**Game modifiers must be capitalised.** For example:
 
 - `Hard Rock`
 - `Nightcore`
@@ -482,18 +474,14 @@ Game modifiers **must** be capitalised. For example:
 
 ### Gameplay elements
 
-Gameplay elements should **never** be capitalised. For example:
+**Gameplay elements are never be capitalised.** For example:
 
-- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
-- The **beatmap** **editor** is a place where **beatmappers** can map a song of their choice.
+- In osu!standard, **beatmaps** are composed of three different gameplay elements: **hit circles**, **sliders**, and **spinners**.
+- The **beatmap editor** is a place where **creators** can map a song of their choice.
 
 ### Contractions
 
-Contractions are a shortened form of a word or group of words.
-
-In the osu!wiki, contractions are **heavily** discouraged. This is to keep a formal tone in the osu!wiki.
-
-For example, use:
+Contractions are a shortened form of a word or group of words. In the osu!wiki, contractions are discouraged. This is to keep a formal tone in the osu!wiki. Articles that talk directly to the reader may be exempt from this rule (e.g. guides, rules, FAQ). For example, use:
 
 - `Do not` instead of `Don't`
 - `You will` instead of `You'll`
@@ -503,13 +491,11 @@ For example, use:
 
 ### Point of view
 
-When referring to the player, use `the player` or `a player`.
+When referring to the player, use `the player` or `a player`. **Never use `he`/`his` or `she`/`her`!** Instead, use `they`/`their`/`theirs`.
 
-**Never** use `he`/`his` or `she`/`her`! Instead, use `they`/`their`/`theirs`.
+Articles that talk directly to the reader may use the word `you`.
 
-In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
-
-**Never** use the first person perspective (`I`) in any articles, even if they are ported guides that had once used first person.
+**Never use the first person perspective (`I`) in any articles,** even if they are ported guides that had once used first person.
 
 ### Terminology
 
@@ -526,10 +512,12 @@ These words are spelt as follows (note the space):
 - `play style`
 - `gameplay`
 
+---
+
 The term `Difficulty` may refer to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
 
 ---
 
-- Use "beatmaps" instead of "maps".
-- Use "creator" instead of "beatmapper" or "mapper".
-- Use "BN" or "BNs" when referring to the the _beatmap nominators_. Do not use "BNG" or "Beatmap Nomination Group".
+- Use `beatmaps` instead of `maps`.
+- Use `creator` instead of `beatmapper` or `mapper`.
+- Use `BN` or `Beatmap Nominators` when referring to the the _Beatmap Nominators_. Do not pluralize the abbreviation "BN" (never use `BNs`). Never use `BNG` or `Beatmap Nomination Group`.
