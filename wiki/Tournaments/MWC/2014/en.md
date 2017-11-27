@@ -147,178 +147,178 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - FreeMod
-  - [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006 (xxbidiao)](https://osu.ppy.sh/b/259067) [4K Insane]
-  - [Mr Pokeahole - The Scales of Struggle (Staiain)](https://osu.ppy.sh/b/459755) [4K Extreme]
-  - [Betwixt & Between - 12 little fragments of silence (Staiain)](https://osu.ppy.sh/b/283845) [Insane]
-  - [DJ SHARPNEL - Marunouchi survivor 140 RUSH (ATTan)](https://osu.ppy.sh/b/374891) [Hard(17)]
-  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (Staiain)](https://osu.ppy.sh/b/222593) [Godlike]
-  - [Risk Junk - One More Lovely x1.5 (ATTan)](https://osu.ppy.sh/b/374894) [Challenge(20)]
-  - [Renard - TU4AR (aitor98)](https://osu.ppy.sh/b/416609) [EX]
-  - [Yuyoyuppe - AiAe (Fullerene-)](https://osu.ppy.sh/b/421066) [Wafles' SHD]
-  - [DEV/NULL - Rave 7 (hi19hi19)](https://osu.ppy.sh/b/480467) [Insane]
-  - [LeaF - LeaF Style Super Shredder (Cherry Blossom)](https://osu.ppy.sh/b/443034) [Fullerene's 4K Shredder]
-  - [Manabu Namiki - Tenshi (Snow Note)](https://osu.ppy.sh/b/320395) [XozInfinite]
-  - [DJ SHARPNEL - FUTURE DOMINATORS (DponXiaodong)](https://osu.ppy.sh/b/483059) [4K HD]
-  - [Melyceria&Disease - 357 BPM (\_Gezo\_)](https://osu.ppy.sh/b/413873) [Starstream Knot]
+  - [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006 (xxbidiao) [4K Insane]](https://osu.ppy.sh/b/259067)
+  - [Mr Pokeahole - The Scales of Struggle (Staiain) [4K Extreme]](https://osu.ppy.sh/b/459755)
+  - [Betwixt & Between - 12 little fragments of silence (Staiain) [Insane]](https://osu.ppy.sh/b/283845)
+  - [DJ SHARPNEL - Marunouchi survivor 140 RUSH (ATTan) [Hard(17)]](https://osu.ppy.sh/b/374891)
+  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (Staiain) [Godlike]](https://osu.ppy.sh/b/222593)
+  - [Risk Junk - One More Lovely x1.5 (ATTan) [Challenge(20)]](https://osu.ppy.sh/b/374894)
+  - [Renard - TU4AR (aitor98) [EX]](https://osu.ppy.sh/b/416609)
+  - [Yuyoyuppe - AiAe (Fullerene-) [Wafles' SHD]](https://osu.ppy.sh/b/421066)
+  - [DEV/NULL - Rave 7 (hi19hi19) [Insane]](https://osu.ppy.sh/b/480467)
+  - [LeaF - LeaF Style Super Shredder (Cherry Blossom) [Fullerene's 4K Shredder]](https://osu.ppy.sh/b/443034)
+  - [Manabu Namiki - Tenshi (Snow Note) [XozInfinite]](https://osu.ppy.sh/b/320395)
+  - [DJ SHARPNEL - FUTURE DOMINATORS (DponXiaodong) [4K HD]](https://osu.ppy.sh/b/483059)
+  - [Melyceria&Disease - 357 BPM (\_Gezo\_) [Starstream Knot]](https://osu.ppy.sh/b/413873)
 - Tiebreaker
-  - [xi - FREEDOM DiVE (razlteh)](https://osu.ppy.sh/b/473228) [Fullerene's 4K DIMENSIONS]
+  - [xi - FREEDOM DiVE (razlteh) [Fullerene's 4K DIMENSIONS]](https://osu.ppy.sh/b/473228)
 
 ### Semi-finals
 
 - FreeMod
-  - [BlackY - Harpuia (Mystical Faith)](https://osu.ppy.sh/b/419904) [4K]
-  - [Darren Styles - Heartbeatz (Leo137)](https://osu.ppy.sh/b/484499) [Leo137]
-  - [Hommarju - Gott (FaLiLVSo)](https://osu.ppy.sh/b/363572) [EXHAUST]
-  - [LeaF - Evanescent (Fullerene-)](https://osu.ppy.sh/b/476565) [Realitat]
-  - [w\_tre respect for AT&HU - Schur's Theorem (hi19hi19)](https://osu.ppy.sh/b/480418) [Insane]
-  - [Shiraishi - Shinsekai (Xay)](https://osu.ppy.sh/b/477978) [Insane]
-  - [Receptor - Run Run Run (Staiain)](https://osu.ppy.sh/b/478258) [ilikexd's Insane]
-  - [Vospi - We Met Dat Night (Halogen-)](https://osu.ppy.sh/b/374172) [4K MX]
-  - [xi - Happy End of the World (Blocko)](https://osu.ppy.sh/b/431260) [Fullerene's 4K Happy Apocalypse]
-  - [gmtn vs. kozato - squartatrice (MMd-)](https://osu.ppy.sh/b/425604) [Fullerene's 4K Another]
-  - [DJ SHARPNEL - SHIND BAD (Furry)](https://osu.ppy.sh/b/330050) [Insane (Jump streams)]
-  - [Reol - +Danshi (lZenxl)](https://osu.ppy.sh/b/480591) [Fullerene's 4K MX]
-  - [Hi-G remixed by DM Ashura - Aztec Templing (PuppyButt)](https://osu.ppy.sh/b/316956) [Original]
+  - [BlackY - Harpuia (Mystical Faith) [4K]](https://osu.ppy.sh/b/419904)
+  - [Darren Styles - Heartbeatz (Leo137) [Leo137]](https://osu.ppy.sh/b/484499)
+  - [Hommarju - Gott (FaLiLVSo) [EXHAUST]](https://osu.ppy.sh/b/363572)
+  - [LeaF - Evanescent (Fullerene-) [Realitat]](https://osu.ppy.sh/b/476565)
+  - [w\_tre respect for AT&HU - Schur's Theorem (hi19hi19) [Insane]](https://osu.ppy.sh/b/480418)
+  - [Shiraishi - Shinsekai (Xay) [Insane]](https://osu.ppy.sh/b/477978)
+  - [Receptor - Run Run Run (Staiain) [ilikexd's Insane]](https://osu.ppy.sh/b/478258)
+  - [Vospi - We Met Dat Night (Halogen-) [4K MX]](https://osu.ppy.sh/b/374172)
+  - [xi - Happy End of the World (Blocko) [Fullerene's 4K Happy Apocalypse]](https://osu.ppy.sh/b/431260)
+  - [gmtn vs. kozato - squartatrice (MMd-) [Fullerene's 4K Another]](https://osu.ppy.sh/b/425604)
+  - [DJ SHARPNEL - SHIND BAD (Furry) [Insane (Jump streams)]](https://osu.ppy.sh/b/330050)
+  - [Reol - +Danshi (lZenxl) [Fullerene's 4K MX]](https://osu.ppy.sh/b/480591)
+  - [Hi-G remixed by DM Ashura - Aztec Templing (PuppyButt) [Original]](https://osu.ppy.sh/b/316956)
 - Tiebreaker
-  - [DJ Sharpnel - Over the Fullereneshift (Fullerene-)](https://osu.ppy.sh/b/450928) [Komm, susser Tod]
+  - [DJ Sharpnel - Over the Fullereneshift (Fullerene-) [Komm, susser Tod]](https://osu.ppy.sh/b/450928)
 
 ### Quarter-finals
 
 - FreeMod
-  - [t+pazolite - Stardust Lullaby (ZXCV)](https://osu.ppy.sh/b/383370) [Sweet Dreams]
-  - [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) (blazziken)](https://osu.ppy.sh/b/458274) [4K EX]
-  - [kashiwa daisuke - april.\#02 (Dolphin)](https://osu.ppy.sh/b/452349) [Fullerene's Catharsis]
-  - [dj TAKA VS DJ TOTTO feat.Ai - IX (Spy)](https://osu.ppy.sh/b/410925) [4K Extra]
-  - [Risk Junk - Tropical April (Pichu)](https://osu.ppy.sh/b/383923) [Insane]
-  - [KUUCHI - Connect (J-CORE Remix) (MasterSonic10)](https://osu.ppy.sh/b/450474) [4k SC]
-  - [Risk Junk-G - Candy Galy (Staiain)](https://osu.ppy.sh/b/375580) [4K MX]
-  - [FX - Anime Openings Madness P.2 (\[FX\] AEM)](https://osu.ppy.sh/b/456599) [Synchro Shiyouyo [4K FX]]
-  - [xi - Ascension to Heaven (MasterSonic10)](https://osu.ppy.sh/b/411806) [4k SHD]
-  - [BlackYooh vs. siromaru - BLACK or WHITE? (Tokiiwa)](https://osu.ppy.sh/b/393897) [4K EXHAUST]
-  - [Kola Kid - Can't Hide Your Love ()](https://osu.ppy.sh/b/464778) [Challenge]
+  - [t+pazolite - Stardust Lullaby (ZXCV) [Sweet Dreams]](https://osu.ppy.sh/b/383370)
+  - [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) (blazziken) [4K EX]](https://osu.ppy.sh/b/458274)
+  - [kashiwa daisuke - april.\#02 (Dolphin) [Fullerene's Catharsis]](https://osu.ppy.sh/b/452349)
+  - [dj TAKA VS DJ TOTTO feat.Ai - IX (Spy) [4K Extra]](https://osu.ppy.sh/b/410925)
+  - [Risk Junk - Tropical April (Pichu) [Insane]](https://osu.ppy.sh/b/383923)
+  - [KUUCHI - Connect (J-CORE Remix) (MasterSonic10) [4k SC]](https://osu.ppy.sh/b/450474)
+  - [Risk Junk-G - Candy Galy (Staiain) [4K MX]](https://osu.ppy.sh/b/375580)
+  - [FX - Anime Openings Madness P.2 (\[FX\] AEM) [Synchro Shiyouyo [4K FX]]](https://osu.ppy.sh/b/456599)
+  - [xi - Ascension to Heaven (MasterSonic10) [4k SHD]](https://osu.ppy.sh/b/411806)
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (Tokiiwa) [4K EXHAUST]](https://osu.ppy.sh/b/393897)
+  - [Kola Kid - Can't Hide Your Love () [Challenge]](https://osu.ppy.sh/b/464778)
 - Tiebreaker
-  - [senya - Melody Blooming in the Earth(Nurarihyon REMIX) (ecafree2)](https://osu.ppy.sh/b/331091) [4K SC]
+  - [senya - Melody Blooming in the Earth(Nurarihyon REMIX) (ecafree2) [4K SC]](https://osu.ppy.sh/b/331091)
 
-### Round 16
+### Round of 16
 
 - FreeMod
-  - [Jeff Williams - This Will Be the Day (James Landino Remix) (Fullerene-)](https://osu.ppy.sh/b/432610) [4K MX]
-  - [Lite Show Magic - Crack traxxxx (LeiN-)](https://osu.ppy.sh/b/315292) [4K EXH]
-  - [orangentle / Yu\_Asahina - HAELEQUIN (Chocoliti)](https://osu.ppy.sh/b/450103) [EXH]
-  - [P\*Light - Sakura Reflection (P\*Light Slayer Remix) (Kuo Kyoka)](https://osu.ppy.sh/b/381061) [Yuno's 4K EXHAUST Lv.23]
-  - [ESTi - HELIX (xeona)](https://osu.ppy.sh/b/399433) [HoB's 4K MX]
-  - [Mayumi Morinaga - dreamin' feat. Ryu\* (Simple\_Star)](https://osu.ppy.sh/b/451812) [INFINITE Lv.15]
-  - [DJ Genericname - Dear You (Taiwan-NAK)](https://osu.ppy.sh/b/376923) [4K MX]
-  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (bilqiscutee)](https://osu.ppy.sh/b/415860) [LNP's Lv.27]
-  - [Ryu\* - We're so Happy (Spy)](https://osu.ppy.sh/b/309584) [4K EXTREME]
-  - [dj TAKA - snow storm (Oracle)](https://osu.ppy.sh/b/378111) [victorica's 4K Lv.14]
-  - [Suzaku - Contract (GaoYuTao)](https://osu.ppy.sh/b/436240) [4K MX]
+  - [Jeff Williams - This Will Be the Day (James Landino Remix) (Fullerene-) [4K MX]](https://osu.ppy.sh/b/432610)
+  - [Lite Show Magic - Crack traxxxx (LeiN-) [4K EXH]](https://osu.ppy.sh/b/315292)
+  - [orangentle / Yu\_Asahina - HAELEQUIN (Chocoliti) [EXH]](https://osu.ppy.sh/b/450103)
+  - [P\*Light - Sakura Reflection (P\*Light Slayer Remix) (Kuo Kyoka) [Yuno's 4K EXHAUST Lv.23]](https://osu.ppy.sh/b/381061)
+  - [ESTi - HELIX (xeona) [HoB's 4K MX]](https://osu.ppy.sh/b/399433)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (Simple\_Star) [INFINITE Lv.15]](https://osu.ppy.sh/b/451812)
+  - [DJ Genericname - Dear You (Taiwan-NAK) [4K MX]](https://osu.ppy.sh/b/376923)
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (bilqiscutee) [LNP's Lv.27]](https://osu.ppy.sh/b/415860)
+  - [Ryu\* - We're so Happy (Spy) [4K EXTREME]](https://osu.ppy.sh/b/309584)
+  - [dj TAKA - snow storm (Oracle) [victorica's 4K Lv.14]](https://osu.ppy.sh/b/378111)
+  - [Suzaku - Contract (GaoYuTao) [4K MX]](https://osu.ppy.sh/b/436240)
 - Tiebreaker
-  - [Various Artists - J-Core Mix (arcwinolivirus)](https://osu.ppy.sh/b/400353) [Marathon]
+  - [Various Artists - J-Core Mix (arcwinolivirus) [Marathon]](https://osu.ppy.sh/b/400353)
 
 ### Group Stage
 
 - FreeMod
-  - [kors k - Insane Techniques (LeiN-)](https://osu.ppy.sh/b/345760) [4K Another]
-  - [Camellia - Bangin' Burst (Spy)](https://osu.ppy.sh/b/350093) [KK's ADVANCED Lv.14]
-  - [Seiryu - Water Horizon (Spy)](https://osu.ppy.sh/b/360802) [4K EXTREME]
-  - [Ras - STAGER (LeiN-)](https://osu.ppy.sh/b/374464) [Another]
-  - [ETIA. - Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono)](https://osu.ppy.sh/b/443215) [MX]
-  - [ensou feat. GUMI - COMA (arcwinolivirus)](https://osu.ppy.sh/b/364414) [4K MX]
-  - [Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -)](https://osu.ppy.sh/b/263308) [justhow's 4K MX]
-  - [EasyPop - Happy Synthesizer (c36098651)](https://osu.ppy.sh/b/290276) [4K Insane]
-  - [Ryu\* Vs. Sota - Go Beyond (DE-CADE)](https://osu.ppy.sh/b/467177) [4K Hyper]
+  - [kors k - Insane Techniques (LeiN-) [4K Another]](https://osu.ppy.sh/b/345760)
+  - [Camellia - Bangin' Burst (Spy) [KK's ADVANCED Lv.14]](https://osu.ppy.sh/b/350093)
+  - [Seiryu - Water Horizon (Spy) [4K EXTREME]](https://osu.ppy.sh/b/360802)
+  - [Ras - STAGER (LeiN-) [Another]](https://osu.ppy.sh/b/374464)
+  - [ETIA. - Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono) [MX]](https://osu.ppy.sh/b/443215)
+  - [ensou feat. GUMI - COMA (arcwinolivirus) [4K MX]](https://osu.ppy.sh/b/364414)
+  - [Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) [justhow's 4K MX]](https://osu.ppy.sh/b/263308)
+  - [EasyPop - Happy Synthesizer (c36098651) [4K Insane]](https://osu.ppy.sh/b/290276)
+  - [Ryu\* Vs. Sota - Go Beyond (DE-CADE) [4K Hyper]](https://osu.ppy.sh/b/467177)
 - Tiebreaker
-  - [BABYMETAL - Megitsune (arcwinolivirus)](https://osu.ppy.sh/b/407642) [4K MX]
-
+  - [BABYMETAL - Megitsune (arcwinolivirus) [4K MX]](https://osu.ppy.sh/b/407642)
+  
 ## 7K Mappools
 
 ### Finals
 
 - FreeMod
-  - [Hatsune Miku - Hatsune Miku No Gekishou (-Kamikaze-)](https://osu.ppy.sh/b/319215) [7k - hard lvl 45]
-  - [DETRO - Volcanic (\[extr\])](https://osu.ppy.sh/b/207400) [Boss+]
-  - [Paraoka Feat. Iku Akume - Chaosmaid (Ripazhakgggdkp)](https://osu.ppy.sh/b/280358) [Insane]
-  - [The Ghost of 3.13 - Forgotten (Paulmrm)](https://osu.ppy.sh/b/192534) [Paul's 7k]
-  - [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006 (xxbidiao)](https://osu.ppy.sh/b/249346) [7K Lunatic]
-  - [LeaF - NANO DEATH (lZenxl)](https://osu.ppy.sh/b/459634) [lZenxl's 7K DEATH Sentence]
-  - [Doin - Vacuum Cleaner (Doin Remix) (\[IIDX\])](https://osu.ppy.sh/b/291933) [S50]
-  - [The Quick Brown Fox - Gotsta Terrify (\[IIDX\])](https://osu.ppy.sh/b/355943) [Another]
-  - [BlackYooh vs. siromaru - BLACK or WHITE? (ishimaru94)](https://osu.ppy.sh/b/430519) [Pew's EX]
-  - [Renard - Banned Forever (PROGUY)](https://osu.ppy.sh/b/256272) [Super Easy]
-  - [Lunatic Sounds - Legend (Paulmrm)](https://osu.ppy.sh/b/458483) [Sudden Death]
-  - [The Quick Brown Fox - WANDERLUST (Nivrad00)](https://osu.ppy.sh/b/477238) [Wiz's Impossible]
-  - [LeaF - Doppelganger (Remillion Cross)](https://osu.ppy.sh/b/326241) [eXtremies]
+  - [Hatsune Miku - Hatsune Miku No Gekishou (-Kamikaze-) [7k - hard lvl 45]](https://osu.ppy.sh/b/319215)
+  - [DETRO - Volcanic (\[extr\]) [Boss+]](https://osu.ppy.sh/b/207400)
+  - [Paraoka Feat. Iku Akume - Chaosmaid (Ripazhakgggdkp) [Insane]](https://osu.ppy.sh/b/280358)
+  - [The Ghost of 3.13 - Forgotten (Paulmrm) [Paul's 7k]](https://osu.ppy.sh/b/192534)
+  - [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006 (xxbidiao) [7K Lunatic]](https://osu.ppy.sh/b/249346)
+  - [LeaF - NANO DEATH (lZenxl) [lZenxl's 7K DEATH Sentence]](https://osu.ppy.sh/b/459634)
+  - [Doin - Vacuum Cleaner (Doin Remix) (\[IIDX\]) [S50]](https://osu.ppy.sh/b/291933)
+  - [The Quick Brown Fox - Gotsta Terrify (\[IIDX\]) [Another]](https://osu.ppy.sh/b/355943)
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (ishimaru94) [Pew's EX]](https://osu.ppy.sh/b/430519)
+  - [Renard - Banned Forever (PROGUY) [Super Easy]](https://osu.ppy.sh/b/256272)
+  - [Lunatic Sounds - Legend (Paulmrm) [Sudden Death]](https://osu.ppy.sh/b/458483)
+  - [The Quick Brown Fox - WANDERLUST (Nivrad00) [Wiz's Impossible]](https://osu.ppy.sh/b/477238)
+  - [LeaF - Doppelganger (Remillion Cross) [eXtremies]](https://osu.ppy.sh/b/326241)
 - Tiebreaker
-  - [xi - Ascension to Heaven (CLSW)](https://osu.ppy.sh/b/449528) [L'SHD]
+  - [xi - Ascension to Heaven (CLSW) [L'SHD]](https://osu.ppy.sh/b/449528)
 
 ### Semi-finals
 
 - FreeMod
-  - [C-SHOW feat Mikanjiru - Sea The Stars (Remillion Cross)](https://osu.ppy.sh/b/439024) [Seas]
-  - [sakuzyo - Neurotoxin (Rumia-)](https://osu.ppy.sh/b/470651) [Another]
-  - [Nami Nakagawa - DON'T CUT (Rumia-)](https://osu.ppy.sh/b/399215) [7K Extra]
-  - [wowaka - Two-Faced Hammer (Entozer)](https://osu.ppy.sh/b/195754) [Hard]
-  - [Loos - Koi Yomi Zakura (\_S u w a k o\_)](https://osu.ppy.sh/b/338759) [7K Lv.36]
-  - [sound piercer - Candy & Baguette (ExPew)](https://osu.ppy.sh/b/416390) [Extra]
-  - [Gothpheus - Rosen Vampir (Alumetorz)](https://osu.ppy.sh/b/323389) [Pew's World]
-  - [Andrew Gold - Spooky Scary Skeletons (The Living Tombstone's Remix) Extended Mix (Nivrad00)](https://osu.ppy.sh/b/468078) [Another]
-  - [Rohi - Kakuzetsu Thanatos (Loctav)](https://osu.ppy.sh/b/283083) [SHD]
-  - [Masayoshi Minoshima - Bad Apple!! (REDALiCE Remix) (lZenxl)](https://osu.ppy.sh/b/333857) [Lv.34 7K]
-  - [void - Just Hold on (Skalim)](https://osu.ppy.sh/b/433072) [Rage!!]
-  - [Halozy - Starry Presto (Entozer)](https://osu.ppy.sh/b/428317) [Insane]
-  - [Seiryu - Ultramarine (\[IIDX\])](https://osu.ppy.sh/b/206565) [Another]
+  - [C-SHOW feat Mikanjiru - Sea The Stars (Remillion Cross) [Seas]](https://osu.ppy.sh/b/439024)
+  - [sakuzyo - Neurotoxin (Rumia-) [Another]](https://osu.ppy.sh/b/470651)
+  - [Nami Nakagawa - DON'T CUT (Rumia-) [7K Extra]](https://osu.ppy.sh/b/399215)
+  - [wowaka - Two-Faced Hammer (Entozer) [Hard]](https://osu.ppy.sh/b/195754)
+  - [Loos - Koi Yomi Zakura (\_S u w a k o\_) [7K Lv.36]](https://osu.ppy.sh/b/338759)
+  - [sound piercer - Candy & Baguette (ExPew) [Extra]](https://osu.ppy.sh/b/416390)
+  - [Gothpheus - Rosen Vampir (Alumetorz) [Pew's World]](https://osu.ppy.sh/b/323389)
+  - [Andrew Gold - Spooky Scary Skeletons (The Living Tombstone's Remix) Extended Mix (Nivrad00) [Another]](https://osu.ppy.sh/b/468078)
+  - [Rohi - Kakuzetsu Thanatos (Loctav) [SHD]](https://osu.ppy.sh/b/283083)
+  - [Masayoshi Minoshima - Bad Apple!! (REDALiCE Remix) (lZenxl) [Lv.34 7K]](https://osu.ppy.sh/b/333857)
+  - [void - Just Hold on (Skalim) [Rage!!]](https://osu.ppy.sh/b/433072)
+  - [Halozy - Starry Presto (Entozer) [Insane]](https://osu.ppy.sh/b/428317)
+  - [Seiryu - Ultramarine (\[IIDX\]) [Another]](https://osu.ppy.sh/b/206565)
 - Tiebreaker
-  - [Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94)](https://osu.ppy.sh/b/198272) [Insane+]
+  - [Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94) [Insane+]](https://osu.ppy.sh/b/198272)
 
 ### Quarter-finals
 
 - FreeMod
-  - [Nakamura Meiko - Scarlet Faith (Tsukuyomi)](https://osu.ppy.sh/b/417467) [PC's Another]
-  - [masaki - Rhythmical Planet (ljqandylee)](https://osu.ppy.sh/b/228210) [Collab]
-  - [P\*Light - TRIGGER\*HAPPY (- R u m i a -)](https://osu.ppy.sh/b/369028) [Pew's EX]
-  - [EasyPop - Happy Synthesizer (c36098651)](https://osu.ppy.sh/b/290278) [7K ExtrA]
-  - [rerulili - Nou Shou Sakuretsu Girl (Entozer)](https://osu.ppy.sh/b/214145) [Hard]
-  - [seleP - Remember me (baraatje123)](https://osu.ppy.sh/b/448934) [[Shi-Ra]'s Forgotten [7K SC]]
-  - [fripSide - black bullet (TV Size) (17VA)](https://osu.ppy.sh/b/416012) [Lv.36]
-  - [Shiraishi - Natalie (ishimaru94)](https://osu.ppy.sh/b/251885) [MX]
-  - [The Quick Brown Fox - Big Money (ishimaru94)](https://osu.ppy.sh/b/233388) [MX]
-  - [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/b/193131) [7K MX]
-  - [bj.HaLo - Ende (Loctav)](https://osu.ppy.sh/b/220960) [SHD]
+  - [Nakamura Meiko - Scarlet Faith (Tsukuyomi) [PC's Another]](https://osu.ppy.sh/b/417467)
+  - [masaki - Rhythmical Planet (ljqandylee) [Collab]](https://osu.ppy.sh/b/228210)
+  - [P\*Light - TRIGGER\*HAPPY (- R u m i a -) [Pew's EX]](https://osu.ppy.sh/b/369028)
+  - [EasyPop - Happy Synthesizer (c36098651) [7K ExtrA]](https://osu.ppy.sh/b/290278)
+  - [rerulili - Nou Shou Sakuretsu Girl (Entozer) [Hard]](https://osu.ppy.sh/b/214145)
+  - [seleP - Remember me (baraatje123) [[Shi-Ra]'s Forgotten [7K SC]]](https://osu.ppy.sh/b/448934)
+  - [fripSide - black bullet (TV Size) (17VA) [Lv.36]](https://osu.ppy.sh/b/416012)
+  - [Shiraishi - Natalie (ishimaru94) [MX]](https://osu.ppy.sh/b/251885)
+  - [The Quick Brown Fox - Big Money (ishimaru94) [MX]](https://osu.ppy.sh/b/233388)
+  - [fripSide - only my railgun (TV Size) (DJPop) [7K MX]](https://osu.ppy.sh/b/193131)
+  - [bj.HaLo - Ende (Loctav) [SHD]](https://osu.ppy.sh/b/220960)
 - Tiebreaker
-  - [anubasu-anubasu - Nemesis (pi/3's Remix) (Sp3ct3r\_2k11)](https://osu.ppy.sh/b/395545) [Insane]
+  - [anubasu-anubasu - Nemesis (pi/3's Remix) (Sp3ct3r\_2k11) [Insane]](https://osu.ppy.sh/b/395545)
 
-### Round 16
+### Round of 16
 
 - FreeMod
-  - [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/b/299038) [Pew's SHD]
-  - [Y&Co. feat. Karin - Sweet Rain (chonicle)](https://osu.ppy.sh/b/217670) [Another]
-  - [Ikareru Kin no Shishi - G59 (PROGUY)](https://osu.ppy.sh/b/235028) [Level 36]
-  - [keyc - Wicked plot (Doorknob)](https://osu.ppy.sh/b/275549) [Lv.04 [N]]
-  - [siromaru + cranky - Conflict (Vocaloid Ver.) (ishimaru94)](https://osu.ppy.sh/b/257963) [Collab]
-  - [Bond - Wintersun (Bobby D'Ambrosio Mix) (ExPew)](https://osu.ppy.sh/b/256726) [7K Winter]
-  - [senya - Utakata, Ai no Mahoroba (Lieselotte)](https://osu.ppy.sh/b/219360) [LV.28]
-  - [Lapix - Paradoxy (Skalim)](https://osu.ppy.sh/b/335099) [7K Rage!!]
-  - [Saitama Saisyu Heiki - Metal Max Metals (GadgetGeek)](https://osu.ppy.sh/b/477236) [7k Another]
-  - [TAG underground - POSSESSION (bmin11)](https://osu.ppy.sh/b/236643) [7K Expert]
-  - [sakuzyo - ChaiN De/structioN (siilento's solid remix) (Entozer)](https://osu.ppy.sh/b/204360) [Another]
+  - [LeaF - MEPHISTO (Alumetorz) [Pew's SHD]](https://osu.ppy.sh/b/299038)
+  - [Y&Co. feat. Karin - Sweet Rain (chonicle) [Another]](https://osu.ppy.sh/b/217670)
+  - [Ikareru Kin no Shishi - G59 (PROGUY) [Level 36]](https://osu.ppy.sh/b/235028)
+  - [keyc - Wicked plot (Doorknob) [Lv.04 [N]]](https://osu.ppy.sh/b/275549)
+  - [siromaru + cranky - Conflict (Vocaloid Ver.) (ishimaru94) [Collab]](https://osu.ppy.sh/b/257963)
+  - [Bond - Wintersun (Bobby D'Ambrosio Mix) (ExPew) [7K Winter]](https://osu.ppy.sh/b/256726)
+  - [senya - Utakata, Ai no Mahoroba (Lieselotte) [LV.28]](https://osu.ppy.sh/b/219360)
+  - [Lapix - Paradoxy (Skalim) [7K Rage!!]](https://osu.ppy.sh/b/335099)
+  - [Saitama Saisyu Heiki - Metal Max Metals (GadgetGeek) [7k Another]](https://osu.ppy.sh/b/477236)
+  - [TAG underground - POSSESSION (bmin11) [7K Expert]](https://osu.ppy.sh/b/236643)
+  - [sakuzyo - ChaiN De/structioN (siilento's solid remix) (Entozer) [Another]](https://osu.ppy.sh/b/204360)
 - Tiebreaker
-  - [ensou - COMA (Paulmrm)](https://osu.ppy.sh/b/459425) [Insane]
+  - [ensou - COMA (Paulmrm) [Insane]](https://osu.ppy.sh/b/459425)
 
 ### Group Stage
 
 - FreeMod
-  - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte)](https://osu.ppy.sh/b/245873) [LV.23]
-  - [Pendulum - The Island (MaxNRG Remix) (Skalim)](https://osu.ppy.sh/b/298815) [7K The Island - Insane]
-  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney)](https://osu.ppy.sh/b/299539) [DJPop's Insane]
-  - [Nekomata Master - Far east nightbird (Lieselotte)](https://osu.ppy.sh/b/244555) [LV.23]
-  - [sakuzyo - Erlung (HanzeR)](https://osu.ppy.sh/b/292498) [Another]
-  - [L i a's Mania - vol.1 (L i a)](https://osu.ppy.sh/b/250722) [Replica no Koi]
-  - [sakuzyo - Black Lair (-kevincela-)](https://osu.ppy.sh/b/361871) [7K Liese's LV.24]
-  - [Sharlo - Sleeping Butterfly (Rumia-)](https://osu.ppy.sh/b/392533) [Lv.32]
-  - [Lite Show Magic - Crack traxxxx (LeiN-)](https://osu.ppy.sh/b/315723) [7K INF]
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) [LV.23]](https://osu.ppy.sh/b/245873)
+  - [Pendulum - The Island (MaxNRG Remix) (Skalim) [7K The Island - Insane]](https://osu.ppy.sh/b/298815)
+  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) [DJPop's Insane]](https://osu.ppy.sh/b/299539)
+  - [Nekomata Master - Far east nightbird (Lieselotte) [LV.23]](https://osu.ppy.sh/b/244555)
+  - [sakuzyo - Erlung (HanzeR) [Another]](https://osu.ppy.sh/b/292498)
+  - [L i a's Mania - vol.1 (L i a) [Replica no Koi]](https://osu.ppy.sh/b/250722)
+  - [sakuzyo - Black Lair (-kevincela-) [7K Liese's LV.24]](https://osu.ppy.sh/b/361871)
+  - [Sharlo - Sleeping Butterfly (Rumia-) [Lv.32]](https://osu.ppy.sh/b/392533)
+  - [Lite Show Magic - Crack traxxxx (LeiN-) [7K INF]](https://osu.ppy.sh/b/315723)
 - Tiebreaker
-  - [FamiRockP - Oni Kanojo (Entozer)](https://osu.ppy.sh/b/192564) [Insane]
+  - [FamiRockP - Oni Kanojo (Entozer) [Insane]](https://osu.ppy.sh/b/192564)
 
 ------------------------------------------------------------------------
 
