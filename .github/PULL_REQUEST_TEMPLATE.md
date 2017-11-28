@@ -1,3 +1,6 @@
+<!-- Please review the following before submitting a PR:
+-osu!'s Article Styling Criteria: https://osu.ppy.sh/help/wiki/Article_Styling_Criteria
+--->
 <!-- Please remove the comments once you have formulated your Pull Request Message -->
 
 ### Description
