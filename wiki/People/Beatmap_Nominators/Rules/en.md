@@ -2,7 +2,7 @@
 
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. 
 
-These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nomination_Group) upon their proposal.
+These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.
 
 Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the following rules at all times:
 

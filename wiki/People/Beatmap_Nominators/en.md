@@ -1,27 +1,22 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Beatmap Nomination Group
-========================
+Beatmap Nominators
+==================
 
-The **Beatmap Nomination Group**, more commonly referred to as the BNG, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are commonly referred to as Beatmap Nominators, or BNs.
-This group has undergone many changes recently.
-As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
-The most recent change was on 01. February 2015 when the team was changed from *Beatmap Appreciation Team* to *Beatmap Nominator Group*.
+The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. The most recent change was on 01. February 2015 when the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*.
 
 Roles and Responsibilities
 --------------------------
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
-Members of the **Beatmap Nomination Group** are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle.
-BNs are the people to go to for any modding or advice requests about anything mapping or modding related.
+Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for any modding or advice requests about anything mapping or modding related.
 
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team on 22. August 2014, joining the Beatmap Nomination Group is now a lot easier than it used to be in the past.
-The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
+With the change to the team on 22. August 2014, joining the Beatmap Nominators is now a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
@@ -54,7 +49,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 Team Members
 ------------
 
-_Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
+_Please note: All BN speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
 
 Also note: the game modes columns listed below indicates the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. 
 
