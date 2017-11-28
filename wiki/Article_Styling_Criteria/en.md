@@ -416,7 +416,7 @@ When referring to `osu!` (the game/framework itself, not the game mode), it shou
 
 ### Date formatting
 
-Since many regions use different date and time formats, the osu!wiki will only use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format: `YYYY-MM-DD`. For example:
+Since many regions use different date and time formats, the osu!wiki will only use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
 
 - `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
 - `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
@@ -429,6 +429,13 @@ If your language uses a day, month, and year suffix (i.e. Chinese, Japanese, or 
 - `2016年02月29日` must be `2016-02-29`
 - `2014년08월18일` must be `2014-08-18`
 - `2010年01月02日` must be `2010-01-02`
+
+When listing a start and an end date, list the start date first, followed by a forward slash (`/`), followed by the end date. In other words, this format: `{start date}/{end date}`. The start and end date must be written using the `YYYY-MM-DD` format. For example:
+
+- `22. - 25. November 2018` must be `2018-11-22/2018-11-25`
+- `June 6, 2009 - August 4, 2011` must be `2009-06-06/2011-08-04`
+- `March 2, 2011 until April 30, 2012` must be `2011-03-02/2012-04-30`
+- `December 1, 2017 to January 1, 2018` must be `2017-12-01/2018-01-01`
 
 ### Language names
 
