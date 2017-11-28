@@ -1,8 +1,3 @@
-<!-- 
-Please review the following before submitting a PR:
-osu!'s Article Styling Criteria: https://osu.ppy.sh/help/wiki/Article_Styling_Criteria
--->
-
 <!-- Please remove the comments once you have formulated your Pull Request Message -->
 
 ### Description
@@ -11,14 +6,14 @@ osu!'s Article Styling Criteria: https://osu.ppy.sh/help/wiki/Article_Styling_Cr
 
 ### Status
 
-<!-- 
-The status of your PR. ie WIP or Finished.
-Ex: Finished; Pending Review 
--->
+- [ ] WIP
+- [ ] Pending Review
+- [ ] Finished
 
-### Additional Notes <!-- Omit this if you don't have any issues related to your PR -->
+### Additional Notes 
 
 <!--
-Any Additional notes regarding your PR goes here.
-eg: this resolves #589
+Protip: If you have any issues that is in relation to this PR, you can reference the
+issue ID and add either "resolves" or "closes" before the issue ID here.
+eg: this resolves #20
 -->
