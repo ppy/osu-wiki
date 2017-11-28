@@ -29,7 +29,7 @@ Listed below are the supported locales for the osu!wiki. If your language is not
 
 #### Outdated pages
 
-If you are updating the English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup is as follows:
+If you are updating an English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup for this is as follows:
 
 ```
 ---
@@ -37,7 +37,7 @@ outdated: true
 ---
 ```
 
-This markup is to be placed at the very top of the translation files to flag them as being outdated.
+This is to be placed at the very top of the translation files to flag them as being outdated.
 
 *Note for translators: When you have updated your language's version of said article, do not change the boolean to `false`, but instead omit the `outdated` metadata flag (as it appears above).*
 
@@ -452,7 +452,9 @@ All abbreviations of **must** be capitalised. For example:
 - `DT` for `Double Time`
 - `ASC` for `Article Styling Criteria`
 
-When shortening the word "for example", use `e.g.` instead of `e.x.`. The `i.e.` abbreviation means "that is".
+---
+
+Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbivation for "for example" (it is the abbrivation for "exercise").
 
 ### Serial comma
 
