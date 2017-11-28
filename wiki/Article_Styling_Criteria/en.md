@@ -27,6 +27,20 @@ Listed below are the supported locales for the osu!wiki. If your language is not
 | `ru.md` | Russian | Русский |
 | `zh.md` | Chinese (Simplified) | 中文 |
 
+#### Outdated pages
+
+If you are updating the English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup is as follows:
+
+```
+---
+outdated: true
+---
+```
+
+This markup is to be placed at the very top of the translation files to flag them as being outdated.
+
+*Note for translators: When you have updated your language's version of said article, do not change the boolean to `false`, but instead omit the `outdated` metadata flag (as it appears above).*
+
 ### Folder names
 
 Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
