@@ -826,9 +826,6 @@
 
 "owcg":                        "osu!wiki_contribution_guide"
 
-"people":                          "People"
-
-"people/beatmap_nominators":             "People/Beatmap_Nominators"
 "people/beatmap_nominator":              "People/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/Beatmap_Nominators"
 "beatmap_nominators":                    "People/Beatmap_Nominators"
@@ -838,7 +835,6 @@
 "bng":                                   "People/Beatmap_Nominators"
 "bat":                                   "People/Beatmap_Nominators"
 "beatmap_appreciation_team":             "People/Beatmap_Nominators"
-"people/beatmap_nominators/rules":       "People/Beatmap_Nominators/Rules"
 "people/beatmap_nominator/rules":        "People/Beatmap_Nominators/Rules"
 "beatmap_nominators/rules":              "People/Beatmap_Nominators/Rules"
 "beatmap_nominator/rules":               "People/Beatmap_Nominators/Rules"
