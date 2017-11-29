@@ -55,14 +55,12 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages     |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------|
-| [- Magic Bomb -](https://osu.ppy.sh/u/3071175)    | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [-Mo-](https://osu.ppy.sh/u/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [-Sh1n1-](https://osu.ppy.sh/u/1957638)           | ![No][false] | ![Yes][true] | ![Yes][true] | ![No][false] | Spanish                  |
 | [Absolute Zero](https://osu.ppy.sh/u/4847256)     | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [alienflybot](https://osu.ppy.sh/u/636114)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Cantonese, Chinese       |
 | [Arrival](https://osu.ppy.sh/u/1694000)           | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | French                   |
 | [Asherz007](https://osu.ppy.sh/u/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
-| [Bakari](https://osu.ppy.sh/u/597957)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Russian                  |
 | [Battle](https://osu.ppy.sh/u/4037545)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Benny-](https://osu.ppy.sh/u/4023183)            | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Norwegian                |
 | [Bonsai](https://osu.ppy.sh/u/987334)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
@@ -100,8 +98,10 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
 | [Litharrale](https://osu.ppy.sh/u/3189995)        | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
+| [MariahCarey](https://osu.ppy.sh/u/2522275)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [MaridiuS](https://osu.ppy.sh/u/4496961)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Serbian                 |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
+| [MBomb](https://osu.ppy.sh/u/3071175)             | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][true] | ![Yes][true] | ![Yes][true] | ![No][false] |                          |
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Italian, Romanian        |
@@ -127,7 +127,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Surono](https://osu.ppy.sh/u/3611370)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Indonesian               |
 | [Taikocracy](https://osu.ppy.sh/u/6256027)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Some Spanish             |
 | [tasuke912](https://osu.ppy.sh/u/2774767)         | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Japanese                 |
-| [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Volta](https://osu.ppy.sh/u/4154071)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Indonesian               |
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Czech                    |
 | [Weber](https://osu.ppy.sh/u/6410432)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
