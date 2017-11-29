@@ -50,7 +50,7 @@ Leading this month's osu!taiko Spotlights we have ZADAMGA, a one-time masterpiec
 
 While simple 1/4 and 1/6 patterns are most common in modern osu!taiko mapping, the highest difficulty "Fatale Oni" employs a beautifully mixed repertoire of simple and compound rhythms, having an almost equalized usage of 1/3 rhythms in comparison to regular 1/2 or 1/4 rhythms. In short, a very complete mapset that has its well deserved spot on the top of this month's Spotlights!
 
-[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/asian-distractive.jpg)](https://osu.ppy.sh/s/672902)
+[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/asian-distractive.jpg)](https://osu.ppy.sh/s/672802)
 
 [TKS](https://osu.ppy.sh/u/940878) has recently returned and brought us a decent set consisting of five difficulties. The mapper showed their expertise about spread management which could be reflected by the smooth transitions of level of difficulty from Kantan to Inner Oni, helping players to advance seamlessly.
 
