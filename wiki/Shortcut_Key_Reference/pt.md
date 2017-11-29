@@ -51,7 +51,7 @@ Seleção de Musicas
 -   **F3**: Opções do Beatmap
 -   **F5**: Atualizar lista(Modo de Reparo)
 -   **Shift-Delete**: Deleta o Map atual
--   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) respectivamente.
+-   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) respectivamente.
 -   **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_Modifiers)
 -   **Ctrl-A**: Alterna Auto mod
 -   **Up/Down**: Muda a seleção

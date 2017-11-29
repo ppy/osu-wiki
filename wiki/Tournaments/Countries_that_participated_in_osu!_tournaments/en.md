@@ -298,8 +298,8 @@ Notes
 
 **×2** - Had two teams.
 
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

@@ -1,4 +1,4 @@
-Song Setup (中文)
+Song Setup
 ====================
 
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
@@ -122,7 +122,7 @@ Approach Rate通常缩写为"**AR**"。
 -   [Double Time](/wiki/Game_Modifiers): 增长OD值使得判定区间缩短33%。
 -   [Half Time](/wiki/Game_Modifiers): 降低OD值使得判定区间增长50%。
 
-![OD细节总表](img/ODTable.jpg "OD细节总表")
+![OD细节总表](img/ODTable.png "OD细节总表")
 
 **注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
 

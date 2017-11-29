@@ -6,14 +6,14 @@
 
 <!-- image -->
 [opsu]: ./img/opsu-logo.png "opsu! logo"
-[MM]: ./img/opsu_MM.png "opsu! Main Menu"
-[SS]: ./img/opsu_SS.png "opsu! Song Selection"
-[OP]: ./img/opsu_OP.png "opsu! Options sidebar"
-[GM]: ./img/opsu_GM.png "opsu! Game Modifiers"
-[G1]: ./img/opsu_G1.png "opsu! Gameplay 1"
-[G2]: ./img/opsu_G2.png "opsu! Gameplay 2"
-[Result]: ./img/opsu_result.png "opsu! Result screen"
-[DL]: ./img/opsu_DL.png "opsu! Downloads screen (Online)"
+[MM]: ./img/opsu_MM.jpg "opsu! Main Menu"
+[SS]: ./img/opsu_SS.jpg "opsu! Song Selection"
+[OP]: ./img/opsu_OP.jpg "opsu! Options sidebar"
+[GM]: ./img/opsu_GM.jpg "opsu! Game Modifiers"
+[G1]: ./img/opsu_G1.jpg "opsu! Gameplay 1"
+[G2]: ./img/opsu_G2.jpg "opsu! Gameplay 2"
+[Result]: ./img/opsu_result.jpg "opsu! Result screen"
+[DL]: ./img/opsu_DL.jpg "opsu! Downloads screen (Online)"
 [MM1]: ./img/opsu_MM1.jpg "opsu! Main Menu (first version)"
 
 # opsu!

@@ -7,10 +7,11 @@ Zasady dot. społeczności
 ---------------------------
 
 1. **Każdy gracz może posiadać maksymalnie *JEDNO* konto** To konto należy do ciebie. Nie do nikogo innego - brata, matki, siostry, przyjaciela - jest TWOJE. Nie dziel się z nikim swoim kontem.
-2. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być palantami dla innych.
-3. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
-4. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
-5. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą. 
+2. **Graj uczciwie.** Używanie narzędzi przynoszących różnego rodzaju korzyści nie jest w porządku. Dotyczy ty makr, programów poprawiających celność, modyfikacje prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
+3. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być palantami dla innych.
+4. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
+5. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
+6. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą. 
 
 Zasady dot. czatu
 ------------------

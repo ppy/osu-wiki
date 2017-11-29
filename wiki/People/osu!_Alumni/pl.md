@@ -6,9 +6,8 @@ Alumni osu!
 
 | Nick | Zasługi |
 | ----- | ------- |
-| [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Moderator czatu |
+| [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
 | [Agnes](https://osu.ppy.sh/u/136982) | GMT |
@@ -19,17 +18,15 @@ Alumni osu!
 | [Andrea](https://osu.ppy.sh/u/33599) | GMT |
 | [Armin](https://osu.ppy.sh/u/105902)	| BAT |
 | [Asphyxia](https://osu.ppy.sh/u/1715720) | QAT |
-| [Atrue](https://osu.ppy.sh/u/1758523) | GMT |
 | [awp](https://osu.ppy.sh/u/2650) | GMT |
 | [Azure_Kite](https://osu.ppy.sh/u/66296) | MAT |
+| [Bakari](https://osu.ppy.sh/u/597957) | GMT |
 | [Ballance](https://osu.ppy.sh/u/165946) | Moderator czatu |
 | [Beuchi](https://osu.ppy.sh/u/67192) | GMT |
 | [Blazevoir](https://osu.ppy.sh/u/120265) | GMT |
 | [blissfulyoshi](https://osu.ppy.sh/u/20865) | BAT |
 | [bossandy](https://osu.ppy.sh/u/360437) | BAT |
 | [Breeze](https://osu.ppy.sh/u/77537) | BAT |
-| [buraimaster1234](https://osu.ppy.sh/u/5772) | BAT |
-| [Byakugan249](https://osu.ppy.sh/u/660484) | BAT |
 | [captin1](https://osu.ppy.sh/u/689997) | GMT |
 | [Card N'FoRcE](https://osu.ppy.sh/u/3936) | BAT |
 | [Cecilthemos](https://osu.ppy.sh/u/2233) | BAT |
@@ -39,14 +36,17 @@ Alumni osu!
 | [Chewin](https://osu.ppy.sh/u/617323) | BAT |
 | [Colin Hou](https://osu.ppy.sh/u/196614) | BAT |
 | [CXu](https://osu.ppy.sh/u/84841) | BAT |
+| [Cyclohexane](https://osu.ppy.sh/u/116078) | GMT |
 | [Cyclone](https://osu.ppy.sh/u/18589) | GMT |
 | [Cyril_Scarlet](https://osu.ppy.sh/u/108066) | MAT |
+| [DakeDekaane](https://osu.ppy.sh/u/1425253) | QAT |
 | [Dakeyrus](https://osu.ppy.sh/u/10441) | GMT |
 | [Dangaard](https://osu.ppy.sh/u/19488) | BAT |
 | [Darksonic](https://osu.ppy.sh/u/570042) | GMT |
 | [DawnII](https://osu.ppy.sh/u/8399) | BAT |
 | [deepsea](https://osu.ppy.sh/u/7824) | BAT |
 | [Derekku](https://osu.ppy.sh/u/91341) | Administracja |
+| [Desperate-kun](https://osu.ppy.sh/u/2202645) | QAT |
 | [DiamondCrash](https://osu.ppy.sh/u/123790) | BAT |
 | [DJPop](https://osu.ppy.sh/u/2363) | BAT |
 | [dkun](https://osu.ppy.sh/u/154400) | BAT |
@@ -56,8 +56,9 @@ Alumni osu!
 | [Dragvon](https://osu.ppy.sh/u/126927) | Moderator czatu |
 | [drum drum](https://osu.ppy.sh/u/4435526) | GMT |
 | [Duoprism](https://osu.ppy.sh/u/7186) | BAT |
-| [Echo](https://osu.ppy.sh/u/431) | Tworzenie osu! |
+| [Echo](https://osu.ppy.sh/u/431) | osu!dev |
 | [EiJi](https://osu.ppy.sh/u/2024) | BAT |
+| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | GMT |
 | [ethox](https://osu.ppy.sh/u/441380) | Moderator czatu |
 | [ExPew](https://osu.ppy.sh/u/665612) | QAT |
 | [Extor](https://osu.ppy.sh/u/555) | BAT |
@@ -65,8 +66,8 @@ Alumni osu!
 | [Faust](https://osu.ppy.sh/u/65152) | BAT |
 | [foulcoon](https://osu.ppy.sh/u/19883) | BAT |
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
-| [FrostxE](https://osu.ppy.sh/u/199669) | GMT |
-| [Gabe](https://osu.ppy.sh/u/654108) | BAT |
+| [Frostmourne](https://osu.ppy.sh/u/199669) | GMT |
+| [Fycho](https://osu.ppy.sh/u/1876867) | QAT |
 | [Gamu](https://osu.ppy.sh/u/611174) | QAT |
 | [Garven](https://osu.ppy.sh/u/244216) | QAT |
 | [Gemi](https://osu.ppy.sh/u/7365) | BAT |
@@ -78,6 +79,7 @@ Alumni osu!
 | [happy30](https://osu.ppy.sh/u/27767) | BAT |
 | [HeatKai](https://osu.ppy.sh/u/332555) | Moderator czatu |
 | [Hitoshirenu Shourai](https://osu.ppy.sh/u/602) | BAT |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT and QAT 
 | [IceBeam](https://osu.ppy.sh/u/208440) | BAT |
 | [ignorethis](https://osu.ppy.sh/u/27343) | BAT |
 | [Inamaru](https://osu.ppy.sh/u/76382) | GMT |
@@ -96,7 +98,8 @@ Alumni osu!
 | [Kitokofox](https://osu.ppy.sh/u/1815420) | Moderator czatu |
 | [Krah](https://osu.ppy.sh/u/1436748) | GMT |
 | [Krisom](https://osu.ppy.sh/u/99269) | BAT |
-| [KRZY](https://osu.ppy.sh/u/114017) | Moderator czatu |
+| [KRZY](https://osu.ppy.sh/u/114017) | Chat Moderator |
+| [KSHR](https://osu.ppy.sh/u/409957) | GMT |
 | [Kylecito](https://osu.ppy.sh/u/488) | BAT |
 | [Kytoxid](https://osu.ppy.sh/u/98460) | BAT |
 | [La Cataline](https://osu.ppy.sh/u/301279) | Moderator czatu |
@@ -113,36 +116,41 @@ Alumni osu!
 | [Lust](https://osu.ppy.sh/u/2316951) | QAT |
 | [Lybydose](https://osu.ppy.sh/u/64501) | BAT |
 | [m980](https://osu.ppy.sh/u/3288) | BAT |
+| [machol30](https://osu.ppy.sh/u/5772) | BAT |
 | [Maeglwn](https://osu.ppy.sh/u/2440936) | GMT |
 | [Mafiamaster](https://osu.ppy.sh/u/17695) | BAT |
-| [Makar](https://osu.ppy.sh/u/686389) | GMT |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | GMT |
+| [Makar](https://osu.ppy.sh/u/686389) | GMT |  
 | [mattyu007](https://osu.ppy.sh/u/4934) | BAT |
 | [MaxwellDemon](https://osu.ppy.sh/u/4254) | BAT |
 | [Melophobia](https://osu.ppy.sh/u/1077845) | BAT |
+| [Minato Yukina](https://osu.ppy.sh/u/531253) | QAT |
 | [minyeob](https://osu.ppy.sh/u/9207) | BAT |
+| [MMzz](https://osu.ppy.sh/u/128993) | QAT |
 | [Mogsworth](https://osu.ppy.sh/u/4018) | BAT |
 | [MOOMANiBE](https://osu.ppy.sh/u/8950) | BAT |
-| [Mr Color](https://osu.ppy.sh/u/116078) | GMT |
 | [mrtn](https://osu.ppy.sh/u/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/u/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/u/930165) | Moderator czatu |
+| [n0ah](https://osu.ppy.sh/u/3086393) | GMT |
 | [narakucrimson](https://osu.ppy.sh/u/287468) | BAT |
 | [NatsumeRin](https://osu.ppy.sh/u/151679) | BAT |
 | [nekodex](https://osu.ppy.sh/u/102) | BAT |
+| [Nishiji](https://osu.ppy.sh/u/167629) | GMT |
 | [Niva](https://osu.ppy.sh/u/197805) | BAT |
 | [NoHitter](https://osu.ppy.sh/u/124455) | BAT |
 | [nuudles](https://osu.ppy.sh/u/21312) | osu!dev |
 | [Nymph](https://osu.ppy.sh/u/601990) | BAT |
-| [Oinari-sama](https://osu.ppy.sh/u/405508) | Moderator czatu i Członek Supportu |
+| [Oinari-sama](https://osu.ppy.sh/u/405508) | Moderator czatu i Członek Pomocy Technicznej |
 | [orioncomet](https://osu.ppy.sh/u/104827) | BAT |
 | [Orkel](https://osu.ppy.sh/u/39385) | Moderator czatu |
 | [Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210) | GMT |
 | [Pasonia](https://osu.ppy.sh/u/43345) | BAT |
+| [Pereira006](https://osu.ppy.sh/u/537344) | GMT |
 | [Pokie](https://osu.ppy.sh/u/207340) | BAT |
 | [popner](https://osu.ppy.sh/u/759860) | BAT |
 | [Princess](https://osu.ppy.sh/u/3480) | BAT |
 | [PROGUY](https://osu.ppy.sh/u/528181) | QAT |
+| [QHideaki13](https://osu.ppy.sh/u/733998) | GMT |
 | [RandomJibberish](https://osu.ppy.sh/u/157879) | BAT |
 | [RemmyX25](https://osu.ppy.sh/u/612) | BAT |
 | [Roddie](https://osu.ppy.sh/u/121337) | BAT |
@@ -156,17 +164,20 @@ Alumni osu!
 | [Shinde](https://osu.ppy.sh/u/103282) | MAT |
 | [Shinxyn](https://osu.ppy.sh/u/13996) | BAT |
 | [Sinistro](https://osu.ppy.sh/u/5530) | GMT |
+| [Shockwave](https://osu.ppy.sh/u/251631) | GMT |
 | [Skyripper](https://osu.ppy.sh/u/31803) | GMT |
 | [spboxer3](https://osu.ppy.sh/u/197974) | GMT |
 | [Spectator](https://osu.ppy.sh/u/702598) | GMT |
 | [Starrodkirby86](https://osu.ppy.sh/u/410) | BAT |
 | [Starry-](https://osu.ppy.sh/u/2166199) | QAT |
+| [Stefan](https://osu.ppy.sh/u/626907) | GMT |
 | [Strawberry](https://osu.ppy.sh/u/519978) | BAT |
 | [Sushi](https://osu.ppy.sh/u/43108) | BAT |
 | [Suzully](https://osu.ppy.sh/u/431791) | BAT |
 | [Sync](https://osu.ppy.sh/u/806921) | BAT |
 | [Takuma](https://osu.ppy.sh/u/43677) | GMT |
 | [Tapdancingmetroid](https://osu.ppy.sh/u/1733) | BAT |
+| [Tari](https://osu.ppy.sh/u/1779172) | QAT |
 | [Teara](https://osu.ppy.sh/u/123491) | BAT |
 | [tensheapz](https://osu.ppy.sh/u/60) | BAT |
 | [theowest](https://osu.ppy.sh/u/60604) | GMT |
@@ -181,11 +192,11 @@ Alumni osu!
 | [wmfchris](https://osu.ppy.sh/u/7401) | BAT |
 | [Xgor](https://osu.ppy.sh/u/98661) | BAT |
 | [xierbaliti](https://osu.ppy.sh/u/34044) | BAT |
-| [XPJ38](https://osu.ppy.sh/u/273531) | Członek Supportu |
+| [XPJ38](https://osu.ppy.sh/u/273531) |  Członek Pomocy Technicznej |
 | [Xytox](https://osu.ppy.sh/u/2229274) | GMT |
 | [yaya](https://osu.ppy.sh/u/50163) | BAT |
 | [yeahyeahyeahhh](https://osu.ppy.sh/u/58042) | MAT |
 | [YGOKid8](https://osu.ppy.sh/u/69114) | BAT |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | BAT |
+| [YTYuyu](https://osu.ppy.sh/u/660484) | BAT |
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |

@@ -12,16 +12,16 @@ Glossary
 
 ### Difficulty Names
 
--  **![Easy](/wiki/shared/Easy-s.png "Easy") Easy**
--  **![Normal](/wiki/shared/Normal-s.png "Normal") Normal**
--  **![Hard](/wiki/shared/Hard-s.png "Hard") Hard**
--  **![Insane](/wiki/shared/Insane-s.png "Insane") Insane**
--  **![Expert](/wiki/shared/Expert-s.png "Expert") Expert**
+-  **![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy**
+-  **![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal**
+-  **![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard**
+-  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
+-  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
 Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
 
-- **![Hard](/wiki/shared/Hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
-- **![Expert](/wiki/shared/Expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
+- **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
+- **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
 
 ### Gameplay
 
@@ -61,10 +61,11 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
 
 #### Guidelines
 
+-   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 -   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
 -   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
@@ -107,7 +108,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu! difficulty_. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
 
-### ![Easy](/wiki/shared/Easy-s.png "Easy") Easy
+### ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 
 #### Rules
 
@@ -132,7 +133,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be 5 or less.
 -  Overall Difficulty / HP Drain Rate should be between 1 and 3.
 
-### ![Normal](/wiki/shared/Normal-s.png "Normal") Normal
+### ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 
 #### Rules
 
@@ -159,7 +160,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be between 4 and 6.
 -  Overall Difficulty / HP Drain Rate should be between 3 and 5.
 
-### ![Hard](/wiki/shared/Hard-s.png "Hard") Hard
+### ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 
 #### Rules
 
@@ -181,7 +182,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Overall Difficulty should be between 5 and 7.
 - HP Drain Rate should be between 4 and 6.
 
-### ![Insane](/wiki/shared/Insane-s.png "Insane") Insane
+### ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
 
 #### Guidelines
 
@@ -195,7 +196,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Overall Difficulty should be between 7 and 9.
 -  HP Drain Rate should be between 5 and 8.
 
-### ![Expert](/wiki/shared/Expert-s.png "Expert") Expert
+### ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
 
 #### Guidelines
 

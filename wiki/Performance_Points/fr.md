@@ -1,146 +1,167 @@
+Points de Performance
+==================
 
-<img src="Disambig colour.png" title="fig:Disambig colour.png" alt="Disambig colour.png" width="18" /> *Cet article concerne la deuxième version des performance points, actuellement en service. Pour la première version, voir [FR:Performance Points/v1](FR:Performance_Points/v1 "wikilink").*
+Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'*osu!*
 
-------------------------------------------------------------------------
+Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en _pp_, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
 
-<img src="Performance point.jpg" title="fig:Les performance points et le graphique de progression." alt="Les performance points et le graphique de progression." width="200" /> Les **performance points** (souvent nommés **pp** ou **ppv2**) sont le système de classement des joueurs au niveau mondial et national de tous les modes de jeu de osu!. Ce système cherche à obtenir les classements généraux les plus justes possible en tâchant d'évaluer les joueurs en fonction de leur niveau et de la difficulté des beatmaps auxquels ils jouent. D'une manière générale, ce système favorise les joueurs qui jouent à des beatmaps difficiles et qui obtiennent des pourcentages de [précision](FR:Accuracy "wikilink") élevés, quel que soit le score obtenu.
+Histoire
+--------
 
-Historique
-==========
+Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
 
-Plusieurs systèmes de classement se sont succédés depuis la création du jeu. Le premier fut un simple classement par score total, où les meilleurs scores obtenus au sein de chacune des beatmaps *[ranked](FR:Ranked_beatmap#Ranked "wikilink")* du jeu, toutes difficultés confondues, étaient pris en compte et additionnés pour former la base du classement de chaque joueur. Ce système existe toujours et est encore mis à jour (consultable [ici](http://osu.ppy.sh/p/playerranking)), à la différence près que les scores obtenus sur toutes les difficultés des beatmaps sont maintenant pris en compte.
+Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
 
-Ce système avait l'avantage d'être simple à comprendre et permettait aux joueurs de voir rapidement leur progression dans le classement, mais fut critiqué pour ne pas refléter le niveau véritable des joueurs et favoriser ceux qui jouent le plus. C'est ainsi qu'une nouvelle méthode de classement, la [première version des performance points](FR:Performance_Points/v1 "wikilink"), rétroactivement nommée « ppv1 », fut imaginée et instaurée par entre avril 2012 et janvier 2014.
+Plusieurs mois après, la [version (20120722-24) d'osu!](http://osu.ppy.sh/forum/p/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel. 
 
-Ce nouveau système, bien qu'étant plus proche de l'idéal d'atteindre un classement réfletant le vrai niveau des joueurs, fut sévèrement critiqué par la communauté des joueurs pour être opaque, favoriser ceux qui jouent des maps Hards avec des mods plutôt que des Insanes et, à ses débuts, de ne pas fonctionner en temps réel. Entretemps, un système de classement alternatif imaginé par , nommé [osu!tp](http://osutp.net), vit le jour et se fit connaître au sein de la communauté à travers le bouche à oreille. Il fut encensé pour être plus juste et compréhensible que ppv1 malgré sa limitation à analyser uniquement les cinquante meilleurs scores de chaque beatmap, et également pour proposer un nouvel algorithme de calcul des difficultés des beatmaps plus efficace que l'algorithme [Stars](FR:Stars "wikilink") alors implémenté.
+Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](http://osu.ppy.sh/u/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
 
-De même, peu avant la fin de ppv1 qui commençait à montrer des signes de faiblesse, peppy étudia l'implémentation d'un nouveau système, temporairement nommé « ppv2 », qui possédait une logique différente de celle de osu!tp et cherchait à corriger les défauts de ppv1.
+*ppv2* est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-Finalement, osu!tp fut accepté et remplaça ppv1 le 27 janvier 2014 pour devenir le système actuel, avec cependant quelques modifications par rapport à l'algorithme original pour satisfaire certaines requêtes de peppy, par exemple pour qu'il favorise plus les nouveaux joueurs contrairement à osu!tp ([référence](http://osu.ppy.sh/news/74631045581)).
+*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](http://osu.ppy.sh/forum/t/92185).
 
-Consultation
-============
+Comment sont calculés les pp ?
+------------------------------
 
--   [Classement mondial](http://osu.ppy.sh/p/pp)
--   [Classements nationaux](http://osu.ppy.sh/p/countryranking)
+Les Points de Performance sont beaucoup basés sur la difficulté calculée de la map, qui est déterminée par un algorithme unique conçu pour chaque mode de jeu. 
 
-Il est également possible de consulter sur le profil de chaque joueur les beatmaps lui ayant rapporté le plus de points sous l'onglet *Top Ranks* dans la section *Best Performance*.
+La difficulté que vous jouez détermine la valeur en pp de votre score.
 
-Algorithme
-==========
+Pour être plus précis, la formule repose sur quatre valeurs principales, qui sont la **visée**, la **vitesse**, la **précision**, et l'**effort**.
 
-Détermination du nombre de points
----------------------------------
+Ces valeurs sont combinées à des magnitudes variantes pour produire un score global adapté à la difficulté de la beatmap, et le score de la performance sur ladite map.
 
-Les performance points gagnés lors d'une partie dépendent de plusieurs facteurs :
+Les scores sont ensuite pondérés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de _système de pondération_, et est un concept fondamental dans la mesure des points de performance.
 
--   La difficulté de la map, calculée selon un algorithme à part et décomposée en 3 sous-éléments distincts selon la façon dont elle est mappée (ces valeurs ne sont pour l'instant pas visibles pour le grand public mais le seront probablement dans le futur) :
-    -   La visée de la beatmap : difficulté à placer le curseur sur les objets de la beatmap sans les rater ; rapporte plus si les objets sont de petite taille,
-    -   La vitesse de la beatmap : temps de réaction nécessaire pour cliquer au bon moment sur les objets de la map ; plus la map est rapide, plus la valeur augmente,
-    -   L'endurance de la beatmap : déterminée selon la longueur et l'intensité de la beatmap.
--   Les caractéristiques de la beatmap jouée : il peut s'agir de l'overall difficulty, de l'approach rate ou d'autres,
--   La partie elle-même : les mods utilisés, le pourcentage de précision atteint, etc. Il est à noter que dans la plupart des cas, le score obtenu en fin de partie n'est pas pris en compte,
--   Le mode de jeu : à chaque mode de jeu est attribué un algorithme spécial qui possède une base de calcul adaptée.
+Un petit nombre de pp vous est donné par rapport au nombre de beatmaps classées sur lesquels vous avez eu un score.
 
-Le tableau ci-dessous présente les bases de calcul pour une partie donnée et pour chacun des modes. Les éléments **visée**, **vitesse**, **précision** et **endurance** sont ici différents des sous-éléments décrits précédemment et sont détaillés dans le tableau suivant.
+### Qu'est-ce que la visée ?
 
-| ![](osu.gif "fig:osu.gif") [osu!](FR:Standard "wikilink") |-align="center" |                    | (**Visée**<sup>*X*</sup> + **Vitesse**<sup>*X*</sup> + **Précision**<sup>*X*</sup> )<sup>1/*X*</sup> |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| ![](taiko.gif "fig:taiko.gif") <FR:Taiko> |-align="center" |                                    | (**Endurance**<sup>*X*</sup> + **Précision**<sup>*X*</sup> )<sup>1/*X*</sup>                         |
-| ![](ctb.gif "fig:ctb.gif") [FR:Catch the Beat](FR:Catch_the_Beat "wikilink") |-align="center" | | **Visée**                                                                                            |
-| ![](mania.gif "fig:mania.gif") <FR:osu!mania> |-align="center" |                                | (**Endurance**<sup>*X*</sup> + **Précision**<sup>*X*</sup> )<sup>1/*X*</sup>                         |
+**La visée est la difficulté à enchaîner les notes consécutives d'une beatmap.**
 
-Quelques remarques :
+Les éléments comme l'Approach Rate (AR) et certains mods (Flashlight, Hidden et HardRock) rendent la visée bien plus difficile, et influencent donc le nombre de pp rapportés.
 
--   Le nombre obtenu à la fin du calcul correspond au nombre de pp gagnés.
--   *X* = 1,1 pour osu! et Taiko.
--   *X* = 1,1 pour osu!mania, mais ce nombre peut être sujet à modification. D'autre part, pour ce mode, la valeur apportée par la **précision** ne représente qu'une faible proportion des pp gagnés comparativement à l**'endurance**, car ce dernier inclut déjà des éléments de précision dans son calcul.
+Les maps avec de très grands sauts (dans le cas d'_osu!standard_) sont considérées comme des maps à haute visée, et offrent donc un très haut score de pp. Les maps avec un grand nombre d'hyperdashing dans _osu!catch_ sont considérés de la même manière.
 
-Le tableau ci-dessous présente les éléments pris en compte pour déterminer les pp apportés par les facteurs **visée**, **vitesse**, **précision** et **endurance** d'une partie donnée.
+La visée n'est pas prise en compte dans les modes de jeu _osu!taiko_ et _osu!mania_.
 
-| Mode de jeu                                                               | Visée                                                                                                       | Vitesse                                                                 | Précision                                                                                                             | Endurance                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](osu.gif "fig:osu.gif") [osu!](FR:Standard "wikilink")                 | -   **Visée de la beatmap** + [mods](FR:Game_Modifiers "wikilink")  
-                                                                             -   **[Approach rate (AR)](Song_Setup#Approach_Rate "wikilink")** + [mods](FR:Game_Modifiers "wikilink")
-                                                                             -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                             -   Max combo obtenu et nombre de notes manquées
-                                                                             -   Pourcentage de précision (peu significatif)
-                                                                             -   Bonus si [Hidden](Hidden "wikilink") et/ou [Flashlight](Flashlight "wikilink") sont activés              | -   **Vitesse de la beatmap** + [mods](FR:Game_Modifiers "wikilink")
-                                                                                                                                                                                           -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                                                                                                                                           -   Max combo obtenu et nombre de notes manquées
-                                                                                                                                                                                           -   Pourcentage de précision (peu significatif)                          | -   **[Overall difficulty (OD)](FR:Song_Setup#Overall_Difficulty "wikilink")** + [mods](FR:Game_Modifiers "wikilink")
-                                                                                                                                                                                                                                                                     -   Durée de la beatmap en fonction du nombre d'objets (excluant sliders et spinners) et du drain time
-                                                                                                                                                                                                                                                                     -   Pourcentage de précision (excluant sliders et spinners)
-                                                                                                                                                                                                                                                                     -   Bonus si [Hidden](Hidden "wikilink") et/ou [Flashlight](Flashlight "wikilink") sont activés (peu significatif)     |                                                                                                                                                                                                                             |
-| ![](taiko.gif "fig:taiko.gif") [Taiko](FR:Taiko "wikilink")               |                                                                                                             |                                                                         | -   **[Overall difficulty (OD)](FR:Song_Setup#Overall_Difficulty "wikilink")** + [mods](FR:Game_Modifiers "wikilink") 
-                                                                                                                                                                                                                                                                     -   Durée de la beatmap en fonction du nombre d'objets (excluant drumrolls et spinners) et du drain time
-                                                                                                                                                                                                                                                                     -   Pourcentage de précision                                                                                           | -   **Endurance de la beatmap** + [mods](FR:Game_Modifiers "wikilink")
-                                                                                                                                                                                                                                                                                                                                                                                             -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                                                                                                                                                                                                                                                                                                                                             -   Max combo obtenu et nombre de notes manquées
-                                                                                                                                                                                                                                                                                                                                                                                             -   Pourcentage de précision (peu significatif)                                                                                                                                                                              |
-| ![](ctb.gif "fig:ctb.gif") [Catch the Beat](FR:Catch_the_Beat "wikilink") | -   **Visée de la beatmap** + [mods](FR:Game_Modifiers "wikilink")  
-                                                                             -   **[Approach rate (AR)](FR:Song_Setup#Approach_Rate "wikilink")** + [mods](FR:Game_Modifiers "wikilink")
-                                                                             -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                             -   Max combo obtenu et nombre de notes manquées
-                                                                             -   Pourcentage de précision (peu significatif)
-                                                                             -   Bonus si [Hidden](FR:Hidden "wikilink") et/ou [Flashlight](FR:Flashlight "wikilink") sont activés        |                                                                         |                                                                                                                       |                                                                                                                                                                                                                             |
-| ![](mania.gif "fig:mania.gif") [osu!mania](FR:osu!mania "wikilink")       |                                                                                                             |                                                                         | -   **[Overall difficulty (OD)](FR:Song_Setup#Overall_Difficulty "wikilink")** + [mods](FR:Game_Modifiers "wikilink") 
-                                                                                                                                                                                                                                                                     -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                                                                                                                                                                                                                     -   Pourcentage de précision                                                                                           | -   **Endurance de la beatmap** + [mods](FR:Game_Modifiers "wikilink"), incluant les mods affectant le nombre de touches et excluant [Double Time](FR:Double_Time "wikilink") (dû à des problèmes avec le système de score)
-                                                                                                                                                                                                                                                                                                                                                                                             -   Durée de la beatmap en fonction du nombre d'objets et du drain time
-                                                                                                                                                                                                                                                                                                                                                                                             -   Score obtenu en fonction du maximum possible (échelle non linéaire)                                                                                                                                                      |
+### Qu'est-ce que la vitesse ?
 
-Quelques remarques :
+**La vitesse est le débit auquel sont présentés les éléments à jouer de la beatmaps.**
 
--   Certains mods affectent à la baisse le nombre de pp obtenus : [No fail](FR:NF "wikilink") retranche 10 %, [Spun out](FR:SO "wikilink") 5 %.
--   Les mods suivants n'ont aucun impact sur l'algorithme : [Sudden death](FR:SD "wikilink"), [Perfect](FR:Perfect "wikilink"), [Relax](FR:Relax "wikilink"), [Auto pilot](FR:AP "wikilink"), [Auto](FR:Auto "wikilink") et [Cinéma](FR:Cinema "wikilink").
--   Exemples d'application de la durée de la beatmap en fonction du nombre d'objets et du drain time :
-    -   Un drain time de 2 minutes + 1 000 objets vaut plus que 500 objets sans drain time,
-    -   En revanche, un drain time de 2 minutes + 1 000 objets vaut autant qu'un drain time de 5 minutes.
+Les maps avec un grand nombre de hit objects dans un petite période de temps sont considérés comme des maps à grande vitesse. 
 
-Pour rappel, le drain time correspond à la durée effective de la beatmap, c'est-à-dire tous les moments où vous jouez (cela exclut donc les pauses, l'intro et l'outro).
+Les mods comme DoubleTime et HalfTime affectent beaucoup la vitesse d'une beatmap et sont donc pris en compte dans l'algorithme des points de performance.
 
-Pondération
------------
+### Qu'est-ce que la précision ?
 
-Le nombre de points effectivement remportés par un joueur après une partie est déterminé selon un système de pondération décroissante qui suit cet logique :
+**La précision est votre performance individuelle et la consistance entre chaque touché d'objet dans leur plage de temps.**
 
-**Nombre total de pp d'un joueur** = (*PP*\[1\] \* **0.95**<sup>0</sup>) + (*PP*\[2\] \* **0.95**<sup>1</sup>) + (*PP*\[3\] \* **0.95**<sup>2</sup>) + ... + (*PP*\[*n*\] \* **0.95**<sup>*n*-1</sup>)
+Les scores avec un haute précision sont très bien considérés par l'algorithme des points de performance et donnera beaucoup de points comparé à un score peu précis.
 
-avec :
+Un score avec 80 % de précision vaut les 2/3 d'un score avec 95 % de précision, par exemple.
 
--   *PP* le nombre de points rapportés sur une beatmap,
--   *PP*\[i\] la i<sup>ième</sup> beatmap rapportant le plus de points dans tout l'historique du joueur, avec 1 ≤ i ≤ *n* et *n* le nombre de beatmaps sur lesquels le joueur a un score.
+Les mods comme Hidden, Hard Rock et Flashlight altèrent énormément la difficulté à atteindre une bonne précision sur une beatmap.
 
-Concrètement, seule la beatmap sur laquelle le joueur a remporté le plus de points lui apportera la totalité des points ; les autres beatmaps ne lui en rapporteront qu'une partie. Pour une partie donnée, plus le nombre de maps qui ont apporté plus de points est important, moins le nombre de points effectifs gagnés grâce à la partie sera élevé.
+### Qu'est-ce que l'effort ?
 
-<img src="Pp bp.jpg" title="fig:Exemple de fonctionnement du système de pondération." alt="Exemple de fonctionnement du système de pondération." width="200" /> Exemple d'application avec les données de l'image ci-contre :
+**L'effort est le temps pour lequel le joueur est sujet à des moments de grande intensité dans un beatmap particulière.**
 
-1.  406 \* 0.95<sup>1-1</sup> = 406 pp
-2.  401 \* 0.95<sup>2-1</sup> = 381 pp
-3.  382 \* 0.95<sup>3-1</sup> = 345 pp
-4.  380 \* 0.95<sup>4-1</sup> = 326 pp
-5.  379 \* 0.95<sup>5-1</sup> = 309 pp
-6.  379 \* 0.95<sup>6-1</sup> = 293 pp
-7.  377 \* 0.95<sup>7-1</sup> = 277 pp
-8.  374 \* 0.95<sup>8-1</sup> = 261 pp
-9.  374 \* 0.95<sup>9-1</sup> = 248 pp
-10. 373 \* 0.95<sup>10-1</sup> = 235 pp
-11. 373 \* 0.95<sup>11-1</sup> = 223 pp
+Les sections à grande vitesse ou avec des patterns compliqués augmentera grandement la valeur d'effort.
 
-Le profil de chaque joueur affiche et classe, sous l'onglet *Top Ranks* dans la section *Best Performance*, les maps qui lui ont rapporté le plus de pp dans un ordre décroissant. Sont affichés le nombre de pp qu'un score vaut en théorie (en gros et en bleu), la pondération sous forme d'un pourcentage (arrondi à l'entier près) et le nombre de pp réellement obtenus (entre parenthèses, arrondi à l'entier près).
+Les maps avec un grande valeur d'effort sont considérées comme vraiment, vraiment difficiles, et offrent donc beaucoup de points de performance si elles sont bien jouées.
 
-À noter que le profil a beau afficher des arrondis, le système n'en fait pas en pratique : il conserve dans ses bases de données les valeurs exactes des points avec plusieurs décimales.
+### Comment la visée, la vitesse la précision et l'effort se combinent pour produire un score de pp ?
 
-Comment grimper dans le classement
-==================================
+**Les quatre éléments sont tous considérés pour déterminer la difficulté globale de la map, et aussi comment un score particulier est comparé à ce qui est considéré comme une partie « optimale » pour cette beatmap.**
 
-Voici quelques conseils pour vous aider à grimper dans le classement :
+L'algorithme des points de performance varie beaucoup en fonction du mode de jeu.
 
--   Ne vous cantonnez pas sur des Easy, Normal ou Hard alors que vous être capable de faire des full combos dessus sans problème : visez plus haut et jouez des maps plus difficiles,
--   Faites en sorte d'obtenir quelques très bons scores plutôt que beaucoup de scores médiocres,
--   Améliorez votre précision. Même un seul petit pourcent peut faire toute la différence !
--   Améliorez vos max combos et visez le full combo (voire un SS),
--   Jouez de manière efficace et perfectionnez votre style de jeu.
+Alors que les nombres exacts sont loin de la portée de cet article, certains modes de jeu prennent plus en compte certaines statistiques à cause de leur mécaniques.
 
-Si l'on devait résumer le tout en un seul conseil, ce serait : **jouez des beatmaps qui vous semblent difficiles et faites en sorte d'obtenir de bons scores et une bonne précision**.
+### Qu'est-ce que le « système de pondération » et comment affecte-t-il mon score ?
+
+**Le système de pondération réfère au fait que tous vos scores sont comparés les uns aux autres en terme de performance globale.**
+
+Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. Les autres scores avec un valeur en pp moins haute vous donneront graduellement moins de pourcentage de leurs pp.
+
+Pour donner un exemple avec une formule mathématique:
+
+_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la _i_ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
+
+```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
+
+### Combien de pp bonus peuvent être obtenus pour avoir un grand nombre de score sur des maps classées ?
+
+**Jusqu'à 416.6667 pp bonus peuvent être donnés pour avoir un grand nombre de scores. Ce qui peut être atteint avec approximativement _25397_ scores.**
+
+Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_ est le nombre de maps classées avec un score de fait:
+
+416.6667 \/ (1- 0.9994^_N_).
+
+Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
+
+
+FAQ
+---
+
+### Où puis-je consulter le classement par points de performance ?
+
+**Le classement par points de performance pour tous les joueurs peut être trouvé [ici](https://osu.ppy.sh/p/pp).**
+
+Vous pouvez aussi vous rendre vers la page des classements depuis le menu déroulant `Ranking` en haut de l'ancien design web, en choisissant l'option `Performance`.
+
+### Comment améliorer mon rang de pp ?
+
+**Votre performance est classée en se basant fortement sur vos scores.**
+
+Le meilleur moyen de s'améliorer est donc de mieux réussir des maps difficiles, ou de jouer une grande variété de beatmaps.
+
+Prenez en compte les conseils suivants :
+
+- Jouez efficacement et trouvez quel style de jeu vous convient le mieux.
+- Essayez d'avoir le maximum d'excellents scores, au lieu de « farmer » des centaines de scores juste passables.
+- Tentez d'améliorer au mieux votre précision. Même 1 % fait une différence.
+- Faites de grands combos. Les full combos (FC) ou des scores parfaits (SS) donnent de grandes quantités de pp.
+
+### Pourquoi je ne gagne pas le nombre de pp total qu'une map que j'ai joué ne vaut ?
+
+**Les points de performance utilisent une système de _pondération_, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
+
+C'est expliqué en profondeur dans la section _système de pondération_ de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
+
+Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait _195 pp_.
+
+Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meilleur score. 
+
+Le second score ne vaudra que 95 % de ses pp totaux puisque ce n'est pas votre meilleur score, il ne vous donnera donc que 95pp et non pas 100.
+
+Maintenant, supposons que vous venez de faire un tout nouveau score valant 110pp. Votre top des scores devrait ressembler à ça:
+
+1. 110pp, pondéré à 100 % = 110
+2. 100pp, pondéré à 95 % = 95
+3. 100pp, pondéré à 90 % = 90
+
+Comme vous le constater, votre nouveau total de pp n'est pas simplement ``195 + 110 = 305 pp``, mais ``110 + 95 + 90 = 295 pp``.
+
+Cela veut dire que puisque vous vous améliorez à osu!, votre total de pp augmentera, ce qui fera que vos anciens scores vaudront de moins en moins de pp comparés aux nouveaux et plus difficiles scores.
+
+#### Est-ce que le pondération des scores est la raison pour laquelle je n'ai pas de pp en jouant des maps faciles ?
+
+**Comme dit ci-dessus, les anciens scores deviendront moins importants. Ce qui signifie qu'ils ne contribueront quasiment rien à votre total de pp plus vous vous améliorerez.**
+
+Cependant, vous devriez avoir fait des scores plus impressionnants, ce qui signifie que vos pp seront globalement plus hauts puisque vos meilleurs scores surpasseront en poids les plus anciens.
+
+### Pourquoi je perds de pp en faisant un nouveau score ?
+
+**Vous pouvez occasionnellement perdre des pp en faisant un plus haut combo avec une précision moins bonne, ou en jouant avec des mods avec un précision globale assez mauvaise.**
+
+Le score total est toujours important pour le classement des maps, et cela peut produire des circonstances inhabituelles où un meilleur score avec un moins bonne précision ou l'utilisation d'un mod produira un «meilleur» résultat qui vous fera perdre des pp.
+
+### Certains mods me semblent déséquilibrés. Pourquoi ?
+
+**C'est une question d'opinion plus qu'autre chose.**
+
+Aucun système n'est parfait, et les points de performance totaux vont certainement varier entre différents mapsets et certaines combinaisons de mods, même si la difficulté subjective de ces parties peut être moins grande qu'une map plus difficile.
+
+En général, le système de points de performance a été conçu pour être aussi juste que possible sous les contraintes de son modèle.
