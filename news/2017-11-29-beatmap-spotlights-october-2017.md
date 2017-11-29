@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights October 2017"
-date: 2017-11-29 16:00:00 +0000
+date: 2017-11-29 14:00:00 +0000
 ---
 
 Halloween may be over, but with that comes a selection of the best maps from the spooky month of October. It's time to look at October’s Spotlights, and maybe get a medal while you’re at it!
