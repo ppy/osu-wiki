@@ -55,7 +55,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages     |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------|
-| [- Magic Bomb -](https://osu.ppy.sh/u/3071175)    | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [-Mo-](https://osu.ppy.sh/u/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [-Sh1n1-](https://osu.ppy.sh/u/1957638)           | ![No][false] | ![Yes][true] | ![Yes][true] | ![No][false] | Spanish                  |
 | [Absolute Zero](https://osu.ppy.sh/u/4847256)     | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
@@ -102,6 +101,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [MariahCarey](https://osu.ppy.sh/u/2522275)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [MaridiuS](https://osu.ppy.sh/u/4496961)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Serbian                 |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
+| [MBomb](https://osu.ppy.sh/u/3071175)             | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][true] | ![Yes][true] | ![Yes][true] | ![No][false] |                          |
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Italian, Romanian        |
