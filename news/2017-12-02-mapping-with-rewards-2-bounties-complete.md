@@ -1,12 +1,12 @@
 ---
 layout: post 
 title: "Mapping With Rewards #2 - Bounties Complete!"
-date: 2017-11-29
+date: 2017-12-02 23:00:00 +0000
 --- 
 
 Long overdue, but not forgotten. The second set of mapping bounties have finally been awarded and the game client has three new bundled maps!
 
-![](/wiki/shared/news/<post filename>/mwr-banner.jpg)
+![](/wiki/shared/news/2017-12-02-mapping-with-rewards-2-bounties-complete/mwr-banner.jpg)
 
 Never thought you'd see this day, huh? Over two years ago, "Mapping With Rewards" was introduced to the public as a way to reward users who created maps for osu!'s officially licensed music -- namely tracks by [cYsmix](https://osu.ppy.sh/beatmaps/artists/2). 
 
