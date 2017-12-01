@@ -15,7 +15,7 @@ Over the years, South Korea has been the favoured team as they won against Taiwa
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Rucker_tweet_1.png)
 
-(A veteran’s only wish…)
+<p style="text-align: center;">(A veteran’s only wish…)</p>
 
 The Korean roster this year is certainly no joke, as we have not only the returning powerhouses like [firebat92](https://osu.ppy.sh/users/1777162) and [Yaong](https://osu.ppy.sh/users/1883865) but also new blood carries like [Pring](https://osu.ppy.sh/users/3478883) and [Pray](https://osu.ppy.sh/users/2190336). 
 
@@ -23,7 +23,7 @@ However, Team Taiwan, charging behind Rucker and [Flask](https://osu.ppy.sh/user
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Rucker_tweet_2.png)
 
-(…is to finally draw a conclusion to a year-long curse.)
+<p style="text-align: center;">(…is to finally draw a conclusion to a year-long curse.)</p>
 
 Both Hong Kong and Netherlands are no strangers to OWC, and seeing each other in the multiplayer lobby means a chance for both teams to score their first win in the Eliminations Stage. Team Netherlands, rallying behind Captain [n0ah](https://osu.ppy.sh/users/3086393) and veteran carry [jackylam5](https://osu.ppy.sh/users/1540807), quickly took 2 points to start the match off. 
 
@@ -31,7 +31,7 @@ Team Hong Kong quickly returned favour and regained momentum by taking the next 
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Hong_Kong_v_Netherlands.png)
 
-(Too close for comfort!)
+<p style="text-align: center;">(Too close for comfort!)</p>
 
 In the Denmark-Germany match-up, a noteworthy name is [raser1234](https://osu.ppy.sh/users/2527887) of the Danish roster, who topped his team’s scoreboard in almost all maps. However, his lone efforts were not enough as the battle-hardened German players were able to summon multiple carries to defend and counteract accordingly. [Dustice](https://osu.ppy.sh/users/754565), [Neliel](https://osu.ppy.sh/users/1500305), and [imagaK](https://osu.ppy.sh/users/2022445) maintained composure and did what they would do in their best conditions – click the circles, to the beat. 
 
@@ -39,7 +39,7 @@ While the Danish spears were sharp and pointy, the German ironclad wall proved t
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Denmark_v_Germany.png)
 
-(Dustice, imagaK, and Neliel – the fearless “Deutschen Stahl” trio)
+<p style="text-align: center;">(Dustice, imagaK, and Neliel – the fearless “Deutschen Stahl” trio)</p>
 
 The osu! rivalry between Brazil and Canada is a beautiful one as well. Both teams often scrim with each other for different occasions, and therefore they know each other’s strengths and weaknesses. This match-up, therefore, became a battle of out-consisting the other team, especially when the mappool difficulty was still manageable by both sides. Canada’s roster has no “lone star carry” and instead features players wielding a wide range of skills to complement each other. [Azer](https://osu.ppy.sh/users/2155578)'s reading skills, [MiruHong](https://osu.ppy.sh/users/2866814)'s rhythmic mastery, [Ignite](https://osu.ppy.sh/users/3122948)’s speed, and [FunOrange](https://osu.ppy.sh/users/2051389)’s consistency – they are a versatile and well-rounded roster. 
 
@@ -47,7 +47,7 @@ Meanwhile, Brazil does have veteran carries like [MouseEasy](https://osu.ppy.sh/
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Canada_v_Brazil.png)
 
-(MouseEasy demonstrating he's also SSEasy)
+<p style="text-align: center;">(MouseEasy demonstrating he's also SSEasy)</p>
 
 Nonetheless, we are not saying good-bye to anyone just yet! Do remember that OWC is double-elimination, meaning all teams that make out of Groups get a second chance. Next week, we shall witness more intense circle-clicking action from these players. Some will reach for definitive victories, and some will fight to remain within the tournament. Don’t miss out! We will see you at our stream over at [Twitch](http://www.twitch.tv/osulive) on Saturday the 2nd of December at 11:30am UTC!
 
