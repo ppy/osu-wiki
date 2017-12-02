@@ -134,7 +134,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
   - [USAO - Showdown (Side) \[puxtu's MX\]](http://osu.ppy.sh/b/996693&m=3) 
   - [Sonitus Vir ft. Emily Smith - Lune Noir (Bites) \[4K MX\]](http://osu.ppy.sh/b/225781&m=3) 
   - [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](http://osu.ppy.sh/b/1097526&m=3) 
-  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](http://osu.ppy.sh/b/1372839&m=3) 
+  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](https://osu.ppy.sh/b/1394983&m=3) 
   - [The Flashbulb - Three Hundred CC (edit) (Blocko) \[Another\]](http://osu.ppy.sh/b/1368417&m=3) 
   - [Alesana - The Artist (Tornspirit) \[Collapse\]](http://osu.ppy.sh/b/1280807&m=3) 
 - Tiebreaker
@@ -206,7 +206,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
   - [Yuuyu - Scrap Syndrome (Halogen-) \[Manic Disassembly\]](http://osu.ppy.sh/b/1403908&m=3) 
   - [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell \[NSV\]\]](http://osu.ppy.sh/b/1404354&m=3) 
 - Tiebreaker  
-  - [Infected Mushroom - The Messenger 2012 (Sped Up Ver.) (Pope Gadget) \[Witness\]](http://osu.ppy.sh/b/1405463&m=3) 
+  - [Infected Mushroom - The Messenger 2012 (Sped Up Ver.) (Pope Gadget) \[Witness\]](https://osu.ppy.sh/b/1484095&m=3) 
 
 ------------------------------------------------------------------------
 
