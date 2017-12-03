@@ -241,6 +241,22 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Match Results
 
+### Quarterfinals
+
+| Saturday, 2. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Netherlands ![][flag_NL] | 6 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37984347) |
+| Germany ![][flag_DE] | 3 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37988813) |
+| Hong Kong ![][flag_HK] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37992145) |
+| Canada ![][flag_CA] | 6 | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37996482) |
+
+| Sunday, 3. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Denmark ![][flag_DK] | 1 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38029594) |
+| Singapore ![][flag_SG] | 0 | 6 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38031685) |
+| Brazil ![][flag_BR] | 1 | 6 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38034430) |
+| Russian Federation ![][flag_RU] | 3 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38036937) |
+
 ### Round of 16
 
 | Saturday, 25. November 2017 | | | | |
