@@ -48,24 +48,36 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Match Schedule: Quarterfinals
 
-### Saturday, 2. December 2017
+### Saturday, 9. December 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan | **11.30 UTC** | 12.30 UTC +1 | 20.30 UTC +9 |
-| Germany | ![][flag_DE] | ![][flag_TW] | Taiwan | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14.30 UTC** | 22.30 UTC +8 | 14.30 UTC +0 |
-| Canada | ![][flag_CA] | ![][flag_AT] | Austria | **16.00 UTC** | 11.00 UTC -5 | 17.00 UTC +1 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Norway | ![][flag_NO] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 | ² |
+| Netherlands | ![][flag_NL] | ![][flag_RU] | Russian Federation | **15.00 UTC** | 16.00 UTC +1 | 18.00 UTC +3 | ² |
+| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **17.00 UTC** | 11.00 UTC -6 | 18.00 UTC +1 | ² |
+| Netherlands | ![][flag_NL] | ![][flag_CA] | Canada | **19.00 UTC** | 20.00 UTC +1 | 13.00 UTC -6 | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **19.00 UTC** | 20.00 UTC +1 | 20.00 UTC +1 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **19.00 UTC** | 22.00 UTC +3 | 13.00 UTC -6 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **19.00 UTC** | 22.00 UTC +3 | 20.00 UTC +1 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1.00 UTC** | 10.00 UTC +9 | 22.00 (Sat.) UTC -3 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Fri.) UTC -6 | ¹ |
 
 
-### Sunday, 3. December 2017
+### Sunday, 10. December 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Denmark | ![][flag_DK] | ![][flag_KR] | South Korea | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 |
-| Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **14.30 UTC** | 22.30 UTC +8 | 15.30 UTC +1 |
-| Brazil | ![][flag_BR] | ![][flag_PL] | Poland | **16.00 UTC** | 14.00 UTC -2 | 17.00 UTC +1 |
-| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17.30 UTC** | 20.30 UTC +3 | 11.30 UTC -6 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| South Korea | ![][flag_KR] | ![][flag_NO] | Norway | **13.00 UTC** | 22.00 UTC +9 | 14.00 UTC +1 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **13.00 UTC** | 10.00 UTC -3 | 14.00 UTC +1 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_PL] | Poland | **15.00 UTC** | 15.00 UTC +0 | 16.00 UTC +1 | ¹ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on ²previous loser bracket matches
 
 
 ------------------------------------------------------------------------
