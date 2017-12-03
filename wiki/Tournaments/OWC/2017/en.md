@@ -46,26 +46,38 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 2. December 2017
+### Saturday, 9. December 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan | **11.30 UTC** | 12.30 UTC +1 | 20.30 UTC +9 |
-| Germany | ![][flag_DE] | ![][flag_TW] | Taiwan | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14.30 UTC** | 22.30 UTC +8 | 14.30 UTC +0 |
-| Canada | ![][flag_CA] | ![][flag_AT] | Austria | **16.00 UTC** | 11.00 UTC -5 | 17.00 UTC +1 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Norway | ![][flag_NO] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 | ² |
+| Netherlands | ![][flag_NL] | ![][flag_RU] | Russian Federation | **15.00 UTC** | 16.00 UTC +1 | 18.00 UTC +3 | ² |
+| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **17.00 UTC** | 11.00 UTC -6 | 18.00 UTC +1 | ² |
+| Netherlands | ![][flag_NL] | ![][flag_CA] | Canada | **19.00 UTC** | 20.00 UTC +1 | 13.00 UTC -6 | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **19.00 UTC** | 20.00 UTC +1 | 20.00 UTC +1 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **19.00 UTC** | 22.00 UTC +3 | 13.00 UTC -6 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **19.00 UTC** | 22.00 UTC +3 | 20.00 UTC +1 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1.00 UTC** | 10.00 UTC +9 | 22.00 (Sat.) UTC -3 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Fri.) UTC -6 | ¹ |
 
 
-### Sunday, 3. December 2017
+### Sunday, 10. December 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Denmark | ![][flag_DK] | ![][flag_KR] | South Korea | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 |
-| Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **14.30 UTC** | 22.30 UTC +8 | 15.30 UTC +1 |
-| Brazil | ![][flag_BR] | ![][flag_PL] | Poland | **16.00 UTC** | 14.00 UTC -2 | 17.00 UTC +1 |
-| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17.30 UTC** | 20.30 UTC +3 | 11.30 UTC -6 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| South Korea | ![][flag_KR] | ![][flag_NO] | Norway | **13.00 UTC** | 22.00 UTC +9 | 14.00 UTC +1 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **13.00 UTC** | 10.00 UTC -3 | 14.00 UTC +1 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_PL] | Poland | **15.00 UTC** | 15.00 UTC +0 | 16.00 UTC +1 | ¹ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on ²previous loser bracket matches
 
 
 ------------------------------------------------------------------------
@@ -117,6 +129,33 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (137 MB)](http://www.mediafire.com/file/2rf32niz24xr9xz/OWC_2017_Semifinals.rar)**
+
+- NoMod
+  - [Rita - dorchadas (Delis)](http://osu.ppy.sh/b/1279490&m=0) [Sharnoth]
+  - [C-Show - PANIC HOLIC (VIP) (Frey)](http://osu.ppy.sh/b/1023481&m=0) [Regou's Extra]
+  - [xi - Blue Zenith (Asphyxia)](http://osu.ppy.sh/b/657917&m=0) [ktgster's Extreme]
+  - [Yousei Teikoku - Zetsubou plantation (Saten)](http://osu.ppy.sh/b/235880&m=0) [Zetsubou!]
+  - [LeaF - I (Maddy)](http://osu.ppy.sh/b/264090&m=0) [Terror]
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86)](http://osu.ppy.sh/b/58970&m=0) [KIRBY Mix Deluxe]
+- Hidden
+  - [Eisyo-kobu - Oriental Blossom (Crystal)](http://osu.ppy.sh/b/1242790&m=0) [Karen's Extra]
+  - [HujuniseikouyuuP - Talent Shredder (val0108)](http://osu.ppy.sh/b/153857&m=0) [Lesjuh style]
+- HardRock
+  - [Memme - Acid Burst (Priti)](http://osu.ppy.sh/b/725026&m=0) [wa's Extra]
+  - [96neko - Buriki no Dance (Lasse)](http://osu.ppy.sh/b/1253986&m=0) [Expert]
+- DoubleTime
+  - [3L - Endless night (sjoy)](http://osu.ppy.sh/b/430371&m=0) [Eternal]
+  - [Yuuki Aoi - Platinum (Mythol)](http://osu.ppy.sh/b/229676&m=0) [Collab]
+- FreeMod
+  - [Dollscythe - Flashes (Extended) (handsome)](http://osu.ppy.sh/b/787957&m=0) [Spark]
+  - [onoken - Viden (-kevincela-)](http://osu.ppy.sh/b/822166&m=0) [Extreme]
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/b/178645&m=0) [CRN's Extra]
+- Tiebreaker
+  - [goreshit - fleshbound (Vell)](http://osu.ppy.sh/b/1131747&m=0) [martyr]
+
 ### Quarterfinals
 
 **[Download the mappack here! (107 MB)](http://www.mediafire.com/file/n4le2yxjs478ysf/OWC_2017_Quarterfinals.rar)**
@@ -143,7 +182,6 @@ The osu! World Cup 2017 is run by various community members by distributing the 
   - [Hatsune Miku - Mythologia's End (val0108)](http://osu.ppy.sh/b/151229&m=0) [Myth0108ia]
 - Tiebreaker
   - [Nanahira - Petals (toybot)](http://osu.ppy.sh/b/1193128&m=0) [Blossom]
-
 
 ### Round of 16
 
@@ -202,6 +240,22 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Netherlands ![][flag_NL] | 6 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37984347) |
+| Germany ![][flag_DE] | 3 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37988813) |
+| Hong Kong ![][flag_HK] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37992145) |
+| Canada ![][flag_CA] | 6 | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37996482) |
+
+| Sunday, 3. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Denmark ![][flag_DK] | 1 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38029594) |
+| Singapore ![][flag_SG] | 0 | 6 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38031685) |
+| Brazil ![][flag_BR] | 1 | 6 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38034430) |
+| Russian Federation ![][flag_RU] | 3 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38036937) |
 
 ### Round of 16
 
