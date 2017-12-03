@@ -46,7 +46,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
 ### Saturday, 9. December 2017
 
