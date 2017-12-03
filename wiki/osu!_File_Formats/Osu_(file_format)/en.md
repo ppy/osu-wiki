@@ -195,16 +195,13 @@ Combo1 : 245,245,245
 Combo2 : 255,0,0
 ```
 
-The combo definitions must be sorted, consecutive, and start from 1. Any other
-order is an undefined behavior.
+The combo definitions must be sorted, consecutive, and start from 1. Any other order is an undefined behavior.
 
-Since combos wrap, the third combo in the above example will be grey, the
-fourth red, and so on.
+Since combos wrap, the third combo in the above example will be grey, the fourth red, and so on.
 
 ### Special colours
 
-Some extra colours for sliders can be optionally overriden with the following
-properties:
+Some extra colours for sliders can be optionally overriden with the following properties:
 
 - `SliderBody`,
 - `SliderTrackOverride`,
