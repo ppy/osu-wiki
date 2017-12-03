@@ -160,7 +160,21 @@ SliderTickRate (Decimal) specifies how often slider ticks appear. Default value 
 Events
 ------
 
-See [Storyboard Scripting](/wiki/Storyboard_Scripting)
+### Background
+
+**Syntax**: `0,0,"BG.png",0,0`
+
+The filename in double quotes specifies the location of the background image relative to the beatmap directory.
+
+### Breaks
+
+**Syntax**: `2,start,end`
+
+The *start* and *end* fields are both an integral number of milliseconds from the beginning of the song defining the start and end point of the break period, respectively.
+
+### Storyboards
+
+Storyboards are now defined in a separate *.osb* file.  See [Storyboard Scripting](/wiki/Storyboard_Scripting).
 
 Timing Points
 -------------
