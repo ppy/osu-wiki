@@ -117,6 +117,33 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (137 MB)](http://www.mediafire.com/file/2rf32niz24xr9xz/OWC_2017_Semifinals.rar)**
+
+- NoMod
+  - [Rita - dorchadas (Delis)](http://osu.ppy.sh/b/1279490&m=0) [Sharnoth]
+  - [C-Show - PANIC HOLIC (VIP) (Frey)](http://osu.ppy.sh/b/1023481&m=0) [Regou's Extra]
+  - [xi - Blue Zenith (Asphyxia)](http://osu.ppy.sh/b/657917&m=0) [ktgster's Extreme]
+  - [Yousei Teikoku - Zetsubou plantation (Saten)](http://osu.ppy.sh/b/235880&m=0) [Zetsubou!]
+  - [LeaF - I (Maddy)](http://osu.ppy.sh/b/264090&m=0) [Terror]
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86)](http://osu.ppy.sh/b/58970&m=0) [KIRBY Mix Deluxe]
+- Hidden
+  - [Eisyo-kobu - Oriental Blossom (Crystal)](http://osu.ppy.sh/b/1242790&m=0) [Karen's Extra]
+  - [HujuniseikouyuuP - Talent Shredder (val0108)](http://osu.ppy.sh/b/153857&m=0) [Lesjuh style]
+- HardRock
+  - [Memme - Acid Burst (Priti)](http://osu.ppy.sh/b/725026&m=0) [wa's Extra]
+  - [96neko - Buriki no Dance (Lasse)](http://osu.ppy.sh/b/1253986&m=0) [Expert]
+- DoubleTime
+  - [3L - Endless night (sjoy)](http://osu.ppy.sh/b/430371&m=0) [Eternal]
+  - [Yuuki Aoi - Platinum (Mythol)](http://osu.ppy.sh/b/229676&m=0) [Collab]
+- FreeMod
+  - [Dollscythe - Flashes (Extended) (handsome)](http://osu.ppy.sh/b/787957&m=0) [Spark]
+  - [onoken - Viden (-kevincela-)](http://osu.ppy.sh/b/822166&m=0) [Extreme]
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/b/178645&m=0) [CRN's Extra]
+- Tiebreaker
+  - [goreshit - fleshbound (Vell)](http://osu.ppy.sh/b/1131747&m=0) [martyr]
+
 ### Quarterfinals
 
 **[Download the mappack here! (107 MB)](http://www.mediafire.com/file/n4le2yxjs478ysf/OWC_2017_Quarterfinals.rar)**
@@ -143,7 +170,6 @@ The osu! World Cup 2017 is run by various community members by distributing the 
   - [Hatsune Miku - Mythologia's End (val0108)](http://osu.ppy.sh/b/151229&m=0) [Myth0108ia]
 - Tiebreaker
   - [Nanahira - Petals (toybot)](http://osu.ppy.sh/b/1193128&m=0) [Blossom]
-
 
 ### Round of 16
 
