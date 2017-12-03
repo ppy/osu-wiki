@@ -165,11 +165,23 @@ See [Storyboard Scripting](/wiki/Storyboard_Scripting)
 Timing Points
 -------------
 
-Timing Points describe a number of properties regarding offsets, beats per minute and hit sounds. Offset (Integer, milliseconds) defines when the Timing Point takes effect. Milliseconds per Beat (Double) defines the beats per minute of the song. For certain calculations, it is easier to use milliseconds per beat. Meter (Integer) defines the number of beats in a measure. Sample Type (Integer) defines the type of hit sound samples that are used. Sample Set (Integer) defines the set of hit sounds that are used. Volume (Integer) is a value from 0 - 100 that defines the volume of hit sounds. Kiai Mode (Boolean) defines whether or not Kiai Time effects are active. Inherited (Boolean) defines whether or not the Timing Point is an inherited Timing Point.
+Timing points describe a number of properties regarding beats per minute and hit sounds.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
 
-An inherited Timing Point differs from a Timing point in that the Milliseconds per Beat value is negative, and defines a new Milliseconds per Beat based on the last non-inherited Timing Point. This can be used to change volume without affecting offset timing, or changing slider speeds.
+The *offset* is an integral number of milliseconds, from the start of the song. It defines when the timing point starts. A timing point ends when the next one starts. The first timing point starts at 0, disregarding its offset.
+
+Timing points must be sorted by offset in the timing points section.
+
+The *milliseconds per beat* field (Decimal) defines the duration of one beat. It affect the scrolling speed in osu!taiko or osu!mania, and the slider speed in osu!standard, among other things. When positive, it is faithful to its name. When negative, it is a percentage of previous non-negative milliseconds per beat. For instance, 3 consecutive timing points with `500`, `-50`, `-100` will have a resulting beat duration of half a second, a quarter of a second, and half a second, respectively.
+
+The *meter* (Integer) field defines the number of beats in a measure.
+
+The *sample set* field defines the default sample set for hit objects. The *sample index* is the default custom index. *Volume* (0 to 100) is the default volume. See the *Hit Objects* section below for details.
+
+*Inherited* (Boolean: 0 or 1) tells if the timing point can be inherited from. *Inherited* is redundant with the milliseconds per beat field. A positive milliseconds per beat implies inherited is 1, and a negative one implies it is 0.
+
+The *kiai mode* (Boolean) defines whether or not [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time) effects are active.
 
 Example of a Timing Point:
 
