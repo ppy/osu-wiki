@@ -1,10 +1,9 @@
 # osu!supporter
 
-![osu!supporter link on main page](./img/sup.png "osu!supporter link on main page.")
+![osu!supporter link on main page](./img/lazer_sup.png "osu!supporter link on main page.")
 
 ![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
 
-<!-- Old link: [Supporting osu!](https://osu.ppy.sh/p/support "Supporting osu!") -->
 [Support osu!](https://osu.ppy.sh/home/support "Support osu!")
 
 ## Advantages of osu!supporter
@@ -30,6 +29,8 @@
 
 ## Getting osu!supporter
 
+![Banner for osu!supporter tag in osu!store](./img/lazer_store_sup.png "Banner for osu!supporter tag in osu!store")
+
 ### Pricing
 
 osu!supporter is priced in `USD` (United States Dollar, `$`) currency; use [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price at per country rate.
@@ -50,13 +51,25 @@ Note: Price shown are by per individual account. There are no promotions for gro
 
 ### Transaction
 
-![An example of buying supporter](./img/sup_decide.jpg "An example of buying supporter")
+![An example of buying supporter](./img/lazer_store_sup2.png "An example of buying supporter")
 
-By default, only the player's account will be shown. If the player want to gift osu!supporter to another player, there is an option called `Gift another player` and type in the player's account name on the empty field provided. For multiple gifting, use `Add another tag` button beside the green `Checkout` button.
+By default, only the player's account will be shown. If the player wants to gift osu!supporter to another player, type in the player's account name on the player's account name field provided.
 
-After the accounts are confirmed, drag the white slider below the account to determine osu!supporter active duration and the amount to pay for the account's osu!supporter. Each accounts can have different osu!supporter duration.
+Once the account to be given is confirmed, drag the slider below the account to determine osu!supporter active duration and the amount to pay for the account's osu!supporter. An extra set of buttons below of values `2`, `4`, `6`, `8`, `12`, `18`, and `24` is provided for common periods of osu!supporter.
 
-Once the durations for all the accounts are confirmed, click on the green `Checkout` button to confirm the selection.
+Click on `Add to Cart` to put it into the osu!store shopping cart.
+
+![osu!store shopping cart with osu!supporter for account user flyte for a month](./img/lazer_store_sup3.png "osu!store shopping cart with osu!supporter for account user flyte for a month")
+
+The player can click on the `I want to check out more goodies before completing the order` or leave the page to find other merchandises in the osu!store if so desired. 
+
+The player should click on `Checkout` button to confirm the transaction and make payment.
+
+![Final transaction confirmation with a Checkout with Paypal button below](./img/lazer_store_sup4.png "Final transaction confirmation with a Checkout with Paypal button below")
+
+Click on `Checkout with Paypal` and fill up the necessary information requested to complete the transaction.
+
+If the player decides not to complete the transaction, it is possible to simply leave the page and logout.
 
 ### Payment
 
@@ -75,3 +88,17 @@ To check for _when_ the osu!supporter will expire, return to [osu!supporter page
 ![An email for a player receiving osu!supporter from another player](./img/sup_mail-gifted.png "An email for a player receiving osu!supporter from another player")
 
 An email will be sent by the osu! Management to all the accounts receiving the osu!supporter tag from the transaction.
+
+## History
+
+![osu!supporter link on main page](./img/sup.png "osu!supporter link on the old main page.")
+
+[Supporting osu!](https://osu.ppy.sh/p/support "Supporting osu!")
+
+![An example of buying supporter](./img/sup_decide.jpg "An example of buying supporter")
+
+By default, only the player's account will be shown. If the player want to gift osu!supporter to another player, there is an option called `Gift another player` and type in the player's account name on the empty field provided. For multiple gifting, use `Add another tag` button beside the green `Checkout` button.
+
+After the accounts are confirmed, drag the white slider below the account to determine osu!supporter active duration and the amount to pay for the account's osu!supporter. Each accounts can have different osu!supporter duration.
+
+Once the durations for all the accounts are confirmed, click on the green `Checkout` button to confirm the selection.
