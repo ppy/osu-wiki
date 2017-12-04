@@ -174,7 +174,9 @@ The *start* and *end* fields are both an integral number of milliseconds from th
 
 ### Storyboards
 
-Storyboards are now defined in a separate *.osb* file.  See [Storyboard Scripting](/wiki/Storyboard_Scripting).
+Storyboards can be defined in a separate optional storyboard file with the *.osb* extension.  See [Storyboard Scripting](/wiki/Storyboard_Scripting). External storyboards are shared between all the *.osu* beatmaps.
+
+Each beatmap may contain its own difficulty-specific storyboard, in conjunction with the external storyboard or without.
 
 Timing Points
 -------------
