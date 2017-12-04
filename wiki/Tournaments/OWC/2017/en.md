@@ -59,14 +59,14 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **19.00 UTC** | 20.00 UTC +1 | 20.00 UTC +1 | ³ |
 | Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **19.00 UTC** | 22.00 UTC +3 | 13.00 UTC -6 | ³ |
 | Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **19.00 UTC** | 22.00 UTC +3 | 20.00 UTC +1 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1.00 UTC** | 10.00 UTC +9 | 22.00 (Sat.) UTC -3 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Fri.) UTC -6 | ¹ |
 
 
 ### Sunday, 10. December 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1.00 UTC** | 10.00 UTC +9 | 22.00 (Sat.) UTC -3 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3.00 UTC** | 11.00 UTC +8 | 21.00 (Sat.) UTC -6 | ¹ |
 | South Korea | ![][flag_KR] | ![][flag_NO] | Norway | **13.00 UTC** | 22.00 UTC +9 | 14.00 UTC +1 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **13.00 UTC** | 10.00 UTC -3 | 14.00 UTC +1 | ³ |
