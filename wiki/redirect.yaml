@@ -2,6 +2,8 @@
 "asg":                           "Article_Styling_Criteria"
 "asc/news":                      "Article_Styling_Criteria/News"
 "asg/news":                      "Article_Styling_Criteria/News"
+"asc/images":                    "Article_Styling_Criteria/Images"
+"asg/images":                    "Article_Styling_Criteria/Images"
 
 "modding_v2":                  "Beatmap_Discussion"
 "modding/v2":                  "Beatmap_Discussion"
@@ -229,6 +231,7 @@
 
 "abandoned_wasteland":         "Glossary/#abandoned-wasteland"
 "acc":                         "Glossary/#accuracy"
+"accuracy_glossary":           "Glossary/#accuracy"
 "afk":                         "Glossary/#afk"
 "away_from_keyboard":          "Glossary/#afk"
 "approach_circle":             "Glossary/#approach-circle"
@@ -248,6 +251,8 @@
 "bg":                          "Glossary/#bg"
 "background":                  "Glossary/#bg"
 "blanket":                     "Glossary/#blanket"
+"bn":                          "Glossary/#bn"
+"beatmap_nominator_glossary":  "Glossary/#bn"
 "bpm":                         "Glossary/#bpm"
 "beat_per_minute":             "Glossary/#bpm"
 "beats_per_minute":            "Glossary/#bpm"
@@ -334,6 +339,7 @@
 "kiai_bar":                    "Glossary/#life-bar"
 "spirit_bar":                  "Glossary/#life-bar"
 "local_song_offset":           "Glossary/#local-song-offset"
+"loved":                       "Glossary/#loved"
 "looping":                     "Glossary/#looping"
 "loop":                        "Glossary/#looping"
 "m4m":                         "Glossary/#m4m"
@@ -352,14 +358,13 @@
 "nuke":                        "Glossary/#nuke"
 "offset":                      "Glossary/#offset"
 "online_song_offset":          "Glossary/#online-song-offset"
-"osu!_glossary":               "Glossary/#osu"
-"glossary_osu!":               "Glossary/#osu"
-"osu!coin":                    "Glossary/#osucoin"
-"osu!_coin":                   "Glossary/#osucoin"
-"coin":                        "Glossary/#osucoin"
-"osu!coins":                   "Glossary/#osucoin"
-"osu!_coins":                  "Glossary/#osucoin"
-"coins":                       "Glossary/#osucoin"
+"osu!_glossary":               "Glossary/#osu!"
+"osu!coin":                    "Glossary/#osu!coin"
+"osu!_coin":                   "Glossary/#osu!coin"
+"coin":                        "Glossary/#osu!coin"
+"osu!coins":                   "Glossary/#osu!coin"
+"osu!_coins":                  "Glossary/#osu!coin"
+"coins":                       "Glossary/#osu!coin"
 "osupixel":                    "Glossary/#osupixel"
 "osu!pixel":                   "Glossary/#osupixel"
 "osu!_pixel":                  "Glossary/#osupixel"
@@ -427,7 +432,7 @@
 "versions":                    "Glossary/#version"
 "wip":                         "Glossary/#wip"
 "work_in_progress":            "Glossary/#wip"
-"z/x":                         "Glossary/#zx"
+"z/x":                         "Glossary/#z/x"
 
 "adding_custom_hit_sounds":                                   "Guides/Adding_Custom_Hit_Sounds"
 "audio_editing":                                              "Guides/Audio_Editing"
@@ -744,8 +749,17 @@
 "slider_stream_jumps":                    "Mapping_Techniques/Rhythm/#slider-stream-jumps"
 "triplet_streams":                        "Mapping_Techniques/Rhythm/#triplet-streams"
 "variable_spaced_streams":                "Mapping_Techniques/Rhythm/#variable-spaced-streams"
+"zig-zag_streams":                        "Mapping_Techniques/Rhythm/#zig-zag-streams"
+"zig_zag_streams":                        "Mapping_Techniques/Rhythm/#zig-zag-streams"
 
 "mascot":                      "Mascots"
+"pippi":                       "Mascots/#pippi"
+"yuzu":                        "Mascots/#yuzu"
+"maria":                       "Mascots/#maria"
+"ryūta_ippongi":               "Mascots/#ryūta-ippongi"
+"ryuuta":                      "Mascots/#ryūta-ippongi"
+"agent_j":                     "Mascots/#agent-j"
+"don":                         "Mascots/#don"
 "mascot/gallery":              "Mascots/Gallery"
 
 "medal":                           "Medals"
@@ -864,6 +878,7 @@
 "osu!devs":                        "People/The_Team"
 
 "pp":                          "Performance_Points"
+"ppv2":                        "Performance_Points"
 "ppv1":                        "Performance_Points/ppv1"
 
 "play_style":                  "Play_Styles"
@@ -966,6 +981,7 @@
 "osu!:rules":                  "Rules"
 
 "score/scorev1":               "Score/ScoreV1"
+"scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score/#scorev2"
 
 "skr":                         "Shortcut_Key_Reference"
@@ -1337,8 +1353,8 @@
 
 "cpot":                                                        "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
-"tournaments/cwc":             "Tournaments/#catch-the-beat-world-cup"
-"cwc":                         "Tournaments/#catch-the-beat-world-cup"
+"tournaments/cwc":             "Tournaments/#-catch-the-beat-world-cup"
+"cwc":                         "Tournaments/#-catch-the-beat-world-cup"
 "cwc2014":                     "Tournaments/CWC/2014"
 "cwc_2014":                    "Tournaments/CWC/2014"
 "cwc2015":                     "Tournaments/CWC/2015"
@@ -1348,8 +1364,8 @@
 "cwc2017":                     "Tournaments/CWC/2017"
 "cwc_2017":                    "Tournaments/CWC/2017"
 
-"tournaments/mwc":             "Tournaments/#osumania-world-cup"
-"mwc":                         "Tournaments/#osumania-world-cup"
+"tournaments/mwc":             "Tournaments/#-osu!mania-world-cup"
+"mwc":                         "Tournaments/#-osu!mania-world-cup"
 "mwc2014":                     "Tournaments/MWC/2014"
 "mwc_2014":                    "Tournaments/MWC/2014"
 "mwc2015":                     "Tournaments/MWC/2015"
@@ -1368,8 +1384,8 @@
 "osu!_tag_team_multiplayer_tournament": "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
 "ottmt":                                "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
 
-"tournaments/owc":             "Tournaments/#osu-world-cup"
-"owc":                         "Tournaments/#osu-world-cup"
+"tournaments/owc":             "Tournaments/#-osu!-world-cup"
+"owc":                         "Tournaments/#-osu!-world-cup"
 "owc1":                        "Tournaments/OWC/1"
 "owc_1":                       "Tournaments/OWC/1"
 "owc2":                        "Tournaments/OWC/2"
@@ -1384,8 +1400,8 @@
 "owc2017":                     "Tournaments/OWC/2017"
 "owc_2017":                    "Tournaments/OWC/2017"
 
-"tournaments/twc":             "Tournaments/#taiko-world-cup"
-"twc":                         "Tournaments/#taiko-world-cup"
+"tournaments/twc":             "Tournaments/#-taiko-world-cup"
+"twc":                         "Tournaments/#-taiko-world-cup"
 "twc2011":                     "Tournaments/TWC/2011"
 "twc_2011":                    "Tournaments/TWC/2011"
 "twc2014":                     "Tournaments/TWC/2014"
@@ -1397,11 +1413,11 @@
 "twc2017":                     "Tournaments/TWC/2017"
 "twc_2017":                    "Tournaments/TWC/2017"
 
-"rmoti":                       "Tournaments/#rapid-monthly-osu-tournament-invitationals"
+"rmoti":                       "Tournaments/#-rapid-monthly-osu!-tournament-invitationals"
 "rmoti_2":                     "Tournaments/RMoT_Invitational/2"
 "rmoti2":                      "Tournaments/RMoT_Invitational/2"
 
-"cmt_4k":                      "Tournaments/#chinese-osumania-4k-tournament"
+"cmt_4k":                      "Tournaments/#-chinese-osu!mania-4k-tournament"
 "cmt_4k_2017":                 "Tournaments/CMT_4K/2017"
 
 "twitter":                     "Twitter"
