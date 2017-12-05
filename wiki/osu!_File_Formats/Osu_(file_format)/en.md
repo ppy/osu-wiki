@@ -160,16 +160,44 @@ SliderTickRate (Decimal) specifies how often slider ticks appear. Default value 
 Events
 ------
 
-See [Storyboard Scripting](/wiki/Storyboard_Scripting)
+### Background
+
+**Syntax**: `0,0,"BG.png",0,0`
+
+The filename in double quotes specifies the location of the background image relative to the beatmap directory.
+
+### Breaks
+
+**Syntax**: `2,start,end`
+
+The *start* and *end* fields are both an integral number of milliseconds from the beginning of the song defining the start and end point of the break period, respectively.
+
+### Storyboards
+
+Storyboards can be defined in a separate optional storyboard file with the *.osb* extension.  See [Storyboard Scripting](/wiki/Storyboard_Scripting). External storyboards are shared between all the *.osu* beatmaps.
+
+Each beatmap may contain its own difficulty-specific storyboard, in conjunction with the external storyboard or without.
 
 Timing Points
 -------------
 
-Timing Points describe a number of properties regarding offsets, beats per minute and hit sounds. Offset (Integer, milliseconds) defines when the Timing Point takes effect. Milliseconds per Beat (Double) defines the beats per minute of the song. For certain calculations, it is easier to use milliseconds per beat. Meter (Integer) defines the number of beats in a measure. Sample Type (Integer) defines the type of hit sound samples that are used. Sample Set (Integer) defines the set of hit sounds that are used. Volume (Integer) is a value from 0 - 100 that defines the volume of hit sounds. Kiai Mode (Boolean) defines whether or not Kiai Time effects are active. Inherited (Boolean) defines whether or not the Timing Point is an inherited Timing Point.
+Timing points describe a number of properties regarding beats per minute and hit sounds.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
 
-An inherited Timing Point differs from a Timing point in that the Milliseconds per Beat value is negative, and defines a new Milliseconds per Beat based on the last non-inherited Timing Point. This can be used to change volume without affecting offset timing, or changing slider speeds.
+The *offset* is an integral number of milliseconds, from the start of the song. It defines when the timing point starts. A timing point ends when the next one starts. The first timing point starts at 0, disregarding its offset.
+
+Timing points must be sorted by offset in the timing points section.
+
+The *milliseconds per beat* field (Decimal) defines the duration of one beat. It affect the scrolling speed in osu!taiko or osu!mania, and the slider speed in osu!standard, among other things. When positive, it is faithful to its name. When negative, it is a percentage of previous non-negative milliseconds per beat. For instance, 3 consecutive timing points with `500`, `-50`, `-100` will have a resulting beat duration of half a second, a quarter of a second, and half a second, respectively.
+
+The *meter* (Integer) field defines the number of beats in a measure.
+
+The *sample set* field defines the default sample set for hit objects. The *sample index* is the default custom index. *Volume* (0 to 100) is the default volume. See the *Hit Objects* section below for details.
+
+*Inherited* (Boolean: 0 or 1) tells if the timing point can be inherited from. *Inherited* is redundant with the milliseconds per beat field. A positive milliseconds per beat implies inherited is 1, and a negative one implies it is 0.
+
+The *kiai mode* (Boolean) defines whether or not [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time) effects are active.
 
 Example of a Timing Point:
 
@@ -182,9 +210,34 @@ Example of an inherited Timing Point:
 Colours
 -------
 
-Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
+### Combos
 
-`Combo1 : 245,245,245`
+The colours of the combos are defined by the `Combo1` to `ComboN` properties.
+
+Each colour is specified with a triplet of RGB colour channel values, from 0 to 255.
+
+Example: 2 combos, the first light grey, the second bright red.
+
+```
+Combo1 : 245,245,245
+Combo2 : 255,0,0
+```
+
+The combo definitions must be sorted, consecutive, and start from 1. Any other order is an undefined behavior.
+
+Since combos wrap, the third combo in the above example will be grey, the fourth red, and so on.
+
+### Special colours
+
+Some extra colours for sliders can be optionally overriden with the following properties:
+
+- `SliderBody`,
+- `SliderTrackOverride`,
+- `SliderBorder`.
+
+Each one of these property receives an RGB triplet, like regular combos.
+
+The special colours are independent of the combo.
 
 Hit Objects
 -----------
@@ -217,7 +270,7 @@ For osu!mania, only *x* is relevant. See the osu!mania hold note section below.
 - Bit 1 (2): slider.
 - Bit 2 (4): new combo.
 - Bit 3 (8): spinner.
-- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip.
+- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colours to skip.
 - Bit 7 (128) is for an osu!mania hold note.
 
 Circles, sliders, spinners, and hold notes can be OR'd with new combos and the combo skip value, but not with each other.
@@ -228,7 +281,7 @@ Examples:
 
 - `1`: circle.
 - `5 = 1 + 4`: circle starting a new combo.
-- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colors.
+- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colours.
 
 #### Hit sounds
 
