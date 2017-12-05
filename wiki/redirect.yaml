@@ -815,7 +815,9 @@
 
 "tourney":                     "osu!tourney"
 
-"owcg":                        "osu!wiki_contribution_guide"
+"owcg":                        "osu!wiki_Contribution_Guide"
+"owcg/github_web_interface":   "osu!wiki_Contribution_Guide/GitHub_Web_Interface"
+"owcg/github_desktop":         "osu!wiki_Contribution_Guide/GitHub_Desktop"
 
 "people/beatmap_nominator":              "People/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/Beatmap_Nominators"
