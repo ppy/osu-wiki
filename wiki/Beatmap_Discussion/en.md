@@ -126,13 +126,21 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 ### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this.
+- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Guving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions and problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
 - Respond: Reply to the submission. Pressing Enter or clicking Reply afterwards will submit your response.
 - Mark as Resolved: The creator may select this when the issue has been addressed and either accepted or denied.
 - Reopen a Discussion: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
+
+## Earning Kudosu!
+
+*Note: You are given ten votes every hour.*
+
+![](img/thumbs.jpg "Thumbs up for Kudosu!")
+
+Modders can now earn Kudosu! by having their mod be given the thumbs up. You can (and probably should) go through your old mods and give them a thumbs up to support the modders before this feature was implemented.
 
 ## Reminders
 
@@ -156,7 +164,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 1. Select the proper game mode at the top of the beatmap's page you wish to mod (osu!standard, osu!taiko, osu!catch, osu!mania)
 2. Select the difficulty you wish to mod in the drop down menu. (Easy, Normal, Hard, Insane, etc.)
 3. Select the section you wish to post your mod in (General (all difficulties), General, or Timeline)
-4. Type your mod out in the discussion field. Use a timestamp if you are using the Timeline section. One issue per post!
+4. Type your mod out in the discussion field. Use a timestamp if you are using the Timeline section. **One issue per post!**
 5. Select the type of mod you are making (Praise, Suggestion, Problem)
 
 Your post will be submitted! You can restart at step 3 if you wish to continue modding the same difficulty. Don't forget to Hype the beatmap if you want to help move it forward for nomination.
@@ -165,17 +173,22 @@ Your post will be submitted! You can restart at step 3 if you wish to continue m
 
 ### Is Kudosu! available in Beatmap Discussion?
 
-Kudosu! is not yet implemented in Beatmap Discussion. You will not recieve any for submissions you make in the Discussion section. However, it is unknown if current submissions will receive Kudsou! when it is finally implemented. It is also unknown whether or not Kudosu! will be returning either.
+Kudosu! has been implemented! You can give modders Kudosu! by using the thumbs Up icon on discussions that were marked as Suggestions or Problems.
 
 ### How are beatmaps nominated?
 
 Beatmap Discussion follows the same procedure as its predecessor. 2 Beatmap Nominators are required to nominate the Meatmapset for qualification. Star Priority has been replaced with Hype and requires 12 Hype before it can be nominated.
 
+### Will I be able to mod with the older system after Beatmap Discussion releases?
+
+You should mod with the system the creator has chosen. If they focus on Beatmap Discussion, mod with Modding Discussion. Otherwise your mods may go unnoticed.
+
 ### I don't like Beatmap Discussion! How do go back to the older system?
 
 Modding Discussion is now live. There is no way to return to the older system; however, old maps with mods may still use the old modding system.
 
-## Trivia
+## See also
 
 - Original forum thread: [Modding V2 Guide](/community/forums/topics/650961) by [Lanturn](/users/1446665)
-- pishifat's Video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- [pishifat](/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/forum/t/662559)
