@@ -18,7 +18,7 @@ A selection of the top-voted entries will make it to the main menu as winter sea
     </video>
 </div>
 
-<p align="center">*(Enjoy a little tease of a brand new, osu! original winter-themed track coming soon to a client near you!)*</p>
+<p align="center">(Enjoy a little tease of a brand new, osu! original winter-themed track coming soon to a client near you!)</p>
 
 [Head on over now and vote!](https://osu.ppy.sh/community/contests/58)
 
