@@ -12,11 +12,13 @@ As usual, our absurdly talented community artists have made the unbelievable hap
 
 A selection of the top-voted entries will make it to the main menu as winter seasonal backgrounds, remaining to usher in holiday cheer until the new year. The artists responsible for such magnificent work will also receive **2 months of osu!supporter** for themselves or a friend, or two friends!
 
-<video width="640" height="360" controls>
-    <source src="https://assets.ppy.sh/contests/58/socmedia/720p.mp4" type="video/mp4">
-</video>
+<div align="center">
+    <video width="640" height="360" controls>
+        <source src="https://assets.ppy.sh/contests/58/socmedia/720p.mp4" type="video/mp4">
+    </video>
+</div>
 
-*(Enjoy a little tease of a brand new, osu! original winter-themed track coming soon to a client near you!)*
+<p align="center">*(Enjoy a little tease of a brand new, osu! original winter-themed track coming soon to a client near you!)*</p>
 
 [Head on over now and vote!](https://osu.ppy.sh/community/contests/58)
 
