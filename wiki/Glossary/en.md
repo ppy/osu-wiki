@@ -557,7 +557,7 @@ _osu!_ has three meanings:
 ### osu!coin
 
 - osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
-- peppy announces the osu!coins: [osu!coins!](http://osunews.tumblr.com/post/115118189213/osucoins)
+- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
 
