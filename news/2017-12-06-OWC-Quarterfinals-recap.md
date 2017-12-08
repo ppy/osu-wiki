@@ -42,7 +42,7 @@ However, his words were not fulfilled as he actually FC'd the entirety of the ma
 
 The final match of the weekend was between the Russian Federation and the United States. Both teams have very scary and highly consistent players for this mappool, and neither side seemed willing to relinquish the ticket to the next round in Winner's Bracket.
 
-The match saw a rather bumpy start for the United States when some of their most consistent players like Toy and [Axarious](https://osu.ppy.sh/users/2614511) seemed to have had some troubles waking up and getting into playing condition, but the rest of their team kept Team Russia at bay. The Russian players, led by [follon](https://osu.ppy.sh/users/3973474), worked hard to capitalize on all the mistakes their opponents threw at them, but in the end fell short when the American roster got adjusted and shifted into a good playing condition, sealing the match with 6-3.
+The match saw a rather bumpy start for the United States when some of their most consistent players like Toy and [Axarious](https://osu.ppy.sh/users/2614511) seemed to have had some troubles waking up and getting into playing condition, but the rest of their team kept Team Russia at bay. The Russian players, led by [follon](https://osu.ppy.sh/users/3973474), worked hard to capitalize on all the mistakes their opponents threw at them, but in the end fell short when the American roster got adjusted and shifted into a good playing condition, sealing the match with 6-3
 
 ![](/wiki/shared/news/2017-12-06-osu-world-cup-quarterfinals/ru_us.png)
 
