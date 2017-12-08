@@ -307,9 +307,9 @@ Fail has three meanings:
 
 ![Score comparison between full and broken combos](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
 
-FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
+FC, short for _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
 
-Because of the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
+Due to the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
 ## G
 
@@ -557,7 +557,7 @@ _osu!_ has three meanings:
 ### osu!coin
 
 - osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
-- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/news/115118189213)
+- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
 
@@ -589,7 +589,8 @@ Ouendan has three meanings:
 
 ### Overmapping
 
-Overmapping is when the beats or placement of beats is placed in a way that makes the difficulty of the map contrast the actual song.
+Overmapping is when the hit objects or placement of hit objects are placed in a way that makes the difficulty of the map contrast the actual song.
+
 This can be done by adding unnecessary jumps, slider speed-ups, or by mapping to an unknown beat in the music consistently (ie. adding notes on blue ticks when the song is only using red ticks), in order to add difficulty.
 
 There are two ways to avoid this:
@@ -677,9 +678,9 @@ Usage is suggested when there has been a change in offset and/or BPM, after obje
 
 ### Restricted Mode
 
-Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/wiki/TOS). Submitted scores of gameplay are not allowed publically displayed.
+Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/legal/terms). Submitted scores of gameplay are not allowed publically displayed.
 
-For more info, see [What is "restricted" mode, exactly?](http://osu.enchanthq.com/article/6/what-is-restricted-mode-exactly).
+For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Center#what-is-"restricted"-mode,-exactly?).
 
 ### RSI
 
