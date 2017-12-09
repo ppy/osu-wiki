@@ -126,7 +126,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 ### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Guving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions and problems.**
+- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions and problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
