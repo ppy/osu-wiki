@@ -126,7 +126,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 ### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions and problems.**
+- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
@@ -136,11 +136,11 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 
 ## Earning Kudosu!
 
-*Note: You are given ten votes every hour.*
+*Note: You get ten votes every hour.*
 
 ![](img/thumbs.jpg "Thumbs up for Kudosu!")
 
-Modders can now earn Kudosu! by having their mod be given the thumbs up. You can (and probably should) go through your old mods and give them a thumbs up to support the modders before this feature was implemented.
+Modders can now earn Kudosu! by having a thumbs up on their mod. You can (and probably should) go through your old mods and give them a thumbs up to support the modders before this feature was implemented.
 
 ## Reminders
 
@@ -173,22 +173,22 @@ Your post will be submitted! You can restart at step 3 if you wish to continue m
 
 ### Is Kudosu! available in Beatmap Discussion?
 
-Kudosu! has been implemented! You can give modders Kudosu! by using the thumbs Up icon on discussions that were marked as Suggestions or Problems.
+Kudosu! has been recently implemented in the Beatmap Discussion! You can give modders Kudosu! by using the thumbs up emote on discussions that were marked as Suggestions or Problems.
 
 ### How are beatmaps nominated?
 
 Beatmap Discussion follows the same procedure as its predecessor. 2 Beatmap Nominators are required to nominate the Meatmapset for qualification. Star Priority has been replaced with Hype and requires 12 Hype before it can be nominated.
 
-### Will I be able to mod with the older system after Beatmap Discussion releases?
+### Will I be able to mod with the older system after Beatmap Discussion is released?
 
-You should mod with the system the creator has chosen. If they focus on Beatmap Discussion, mod with Modding Discussion. Otherwise your mods may go unnoticed.
+You should mod with the system the creator has chosen. If they focus on Beatmap Discussion, mod with Beatmap Discussion. Otherwise your mods may go unnoticed.
 
 ### I don't like Beatmap Discussion! How do go back to the older system?
 
-Modding Discussion is now live. There is no way to return to the older system; however, old maps with mods may still use the old modding system.
+Beatmap Discussion is now live. There is no way to return to the older system; however, old maps with mods may still use the old modding system.
 
 ## See also
 
-- Original forum thread: [Modding V2 Guide](/community/forums/topics/650961) by [Lanturn](/users/1446665)
+- Original forum thread: [Modding Discussion Guide (MV2)](/community/forums/topics/650961) by [Lanturn](/users/1446665)
 - [pishifat](/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
 - peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/forum/t/662559)
