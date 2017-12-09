@@ -140,7 +140,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 
 ![](img/thumbs.jpg "Thumbs up for Kudosu!")
 
-Modders can now earn Kudosu! by having a thumbs up on their mod. You can (and probably should) go through your old mods and give them a thumbs up to support the modders before this feature was implemented.
+Modders can now earn Kudosu! by having a thumbs up on their mod. You can (and probably should) go through old mods on your beatmaps and give them a thumbs up to support the modders before this feature was implemented.
 
 ## Reminders
 
