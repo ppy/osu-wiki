@@ -1,40 +1,44 @@
-# Welcome
+# Na początek
 
-Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; osu!mania, a key smashing mania.
+Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego posiadającej cztery tryby gry: 
+- osu!standard - klikanie kółek; 
+- osu!taiko - uderzanie bębenków; 
+- osu!catch - łapanie owoców; 
+- osu!mania - naciskanie klawiszy.
 
-## Common points of interest
+## Najczęstsze obiekty zainteresowań
 
-- [Registration](/wiki/Registration)
-- [Installation](/wiki/Installation)
-- [Rules](/wiki/Rules)
+- [Rejestracja](/wiki/Registration)
+- [Instalacja](/wiki/Installation)
+- [Zasady](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- Game Modes
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [Multi](/wiki/Multi/#getting-started)
+- Tryby gry
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+- [Tryb wieloosobowy](/wiki/Multi)
 
-## Article of the month
+## Artykuł miesiąca
 
-_See also: [Ranking Criteria](/wiki/Ranking_Criteria)._
+_Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria)._
 
-Ranking Criteria is a set of rules and guidelines set by the QAT to ensure that every player can expect similar game play throughout every beatmap.
+Kryteria rankingowe to zbiór zasad i porad napisanych przez QAT w celu zapewnienia podobnej jakości we wszystkich rankowingowych beatmapach.
 
-## Beatmapping
+## Mapowanie
 
-_See also: [Beatmapping](/wiki/Beatmapping/#getting-started)._
+_Zobacz także: [Mapowanie](/wiki/Beatmapping)._
 
-Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
+Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ustawianie rytmów, umieszanie obiektów w rytm muzyki oraz testowanie. Proces ten może także zawierać dodanie filmiku w tle, dodanie [storyboardu](/wiki/Storyboarding) bądź dodanie [niestandardowej skórki](/wiki/Skinning). Wszystkie te czynności mogą zostać wykonane przez jednego twórcy lub z pomocą innych użytkowników, czasami określanych jako _storyboarderzy_, _skinnerzy_ czy _gościnni twórcy_, zależnie od ich zadań.
 
-## Modding
+## Modowanie
 
-_See also: [Modding](/wiki/Modding/#getting-started)._
+_Zobacz także: [Modowanie](/wiki/Modding)._
 
-Modding is the process of users reviewing (or commonly called "modding") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
+Modowanie jest to proces oceniania przez różnych użytkowników danej oczekującej beatmapy (potrzebującej pomocy w uzyskaniu statusu rankingowego). Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie poprawek na ich własne beatmapy. 
 
-## osu!wiki - How you can help!
+## osu!wiki - Jak możesz pomóc!
 
-Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
+26 sierpnia 2016 roku osu!wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie, proces współtworzenia drastycznie się zmienił. Wszystkie wkłady muszą zostać wykonane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostają oceniane przed pojawieniem się na osu!wiki.
 
-To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
+Aby zacząć pomagać, sprawdź najpierw [Poradnik dot. pomocy na osu!wiki](/wiki/owcg).
