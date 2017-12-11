@@ -76,10 +76,10 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Fri.) UTC -6 | 11.00 UTC +9 | ⁴ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Fri.) UTC -6 | 10.00 UTC +8 | ⁴ |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Fri.) UTC -6 | 11.00 UTC +9 | ⁵ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Fri.) UTC -6 | 10.00 UTC +8 | ⁵ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁴ |
+| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 10.00 UTC +8 | ⁴ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁵ |
+| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 10.00 UTC +8 | ⁵ |
 | Poland | ![][flag_PL] | ![][flag_DE] | Germany | **13.00 UTC** | 14.00 UTC +1 | 14.00 UTC +1 | ⁵ |
 | Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 | ⁵ |
 | Poland | ![][flag_PL] | ![][flag_GB] | United Kingdom | **13.00 UTC** | 14.00 UTC +1 | 13.00 UTC +0 | ⁵ |
