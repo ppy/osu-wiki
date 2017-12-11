@@ -149,7 +149,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ### Finals
 
-**[Download the mappack here! (138 MB)]()**
+**[Download the mappack here! (138 MB)](http://www.mediafire.com/file/e6vze2hbc13eo8i/OWC_2017_Finals.rar)**
 
 - NoMod
   - [The Ghost Of 3.13 - Forgotten (Blue Dragon)](http://osu.ppy.sh/b/169841&m=0) [grumd]
