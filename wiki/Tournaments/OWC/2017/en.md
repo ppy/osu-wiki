@@ -51,7 +51,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ### Friday, 15. December 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ² |
 | Germany | ![][flag_DE] | ![][flag_GB] | United Kingdom | **18.00 UTC** | 19.00 UTC +1 | 18.00 UTC +0 | ² |
 | Poland | ![][flag_PL] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 | ¹ |
@@ -60,7 +60,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ### Saturday, 16. December 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **12.00 UTC** | 21.00 UTC +9 | 13.00 UTC +1 | ³ |
 | Germany | ![][flag_DE] | ![][flag_TW] | Taiwan | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **12.00 UTC** | 12.00 UTC +0 | 21.00 UTC +9 | ³ |
@@ -75,7 +75,7 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ### Sunday, 17. December 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁴ |
 | United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 10.00 UTC +8 | ⁴ |
 | United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁵ |
