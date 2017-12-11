@@ -286,6 +286,23 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Match Results
 
+### Semifinals
+
+| Saturday, 9. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Norway ![][flag_NO] | 7 | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/38181607) |
+| Netherlands ![][flag_NL] | 4 | 7 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/38186618) |
+| Canada ![][flag_CA] | 1 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/38190989) |
+| Russian Federation ![][flag_RU] | 5 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/38196035) |
+
+| Sunday, 10. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/38206986) |
+| Taiwan ![][flag_TW] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38209295) |
+| South Korea ![][flag_KR] | 7 | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38219678) |
+| United Kingdom ![][flag_GB] | 5 | 7 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38223284) |
+
+
 ### Quarterfinals
 
 | Saturday, 2. December 2017 | | | | |
