@@ -147,6 +147,33 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (138 MB)]()**
+
+- NoMod
+  - [The Ghost Of 3.13 - Forgotten (Blue Dragon)](http://osu.ppy.sh/b/169841&m=0) [grumd]
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a)](http://osu.ppy.sh/b/820336&m=0) [ignore's EXTREME]
+  - [TERRASPEX - AMAZING BREAK (Monstrata)](http://osu.ppy.sh/b/1211828&m=0) [DESPAIR]
+  - [sana - Packet Hero (Fuccho)](http://osu.ppy.sh/b/880321&m=0) [Ruthless]
+  - [Yousei Teikoku - Kokou no Sousei (Saten-san)](http://osu.ppy.sh/b/118068&m=0) [Chaos]
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower)](http://osu.ppy.sh/b/306683&m=0) [Extra]
+- Hidden
+  - [Niko - Made of Fire (lesjuh)](http://osu.ppy.sh/b/40017&m=0) [Oni]
+  - [Sota Fujimori - polygon (Sebu)](http://osu.ppy.sh/b/1354636&m=0) [heptagon]
+- HardRock
+  - [beatMARIO - Night of Knights (alacat)](http://osu.ppy.sh/b/776951&m=0) [The World]
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin)](http://osu.ppy.sh/b/215238&m=0) [Rin]
+- DoubleTime
+  - [Kalafina - Kyrie (Vell)](http://osu.ppy.sh/b/809513&m=0) [Genesis]
+  - [Zektbach - L'avide (eXseeD)](http://osu.ppy.sh/b/103403&m=0) [gowww]
+- FreeMod
+  - [Mediks - Outbreak (Strategas)](http://osu.ppy.sh/b/1118311&m=0) [Doomsday]
+  - [Camellia - Fastest Crash (sukiNathan)](http://osu.ppy.sh/b/733432&m=0) [RLC's Paroxysm]
+  - [Ayalis - Ai o Chikaishi Hime Kazari (handsome)](http://osu.ppy.sh/b/1076701&m=0) [Master]
+- Tiebreaker
+  - [Wagakki Band - Tengaku (Shiro)](http://osu.ppy.sh/b/816327&m=0) [Uncompressed Fury of a Raging Japanese God]
+
 ### Semifinals
 
 **[Download the mappack here! (137 MB)](http://www.mediafire.com/file/2rf32niz24xr9xz/OWC_2017_Semifinals.rar)**
