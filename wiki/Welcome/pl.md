@@ -1,17 +1,13 @@
 # Na początek
 
-Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego posiadającej cztery tryby gry: 
-- osu!standard - klikanie kółek; 
-- osu!taiko - uderzanie bębenków; 
-- osu!catch - łapanie owoców; 
-- osu!mania - naciskanie klawiszy.
+Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
 
-## Najczęstsze obiekty zainteresowań
+## Główne obszary zainteresowań
 
 - [Rejestracja](/wiki/Registration)
 - [Instalacja](/wiki/Installation)
 - [Zasady](/wiki/Rules)
-- [FAQ](/wiki/FAQ)
+- [Najczęściej zadawane pytania](/wiki/FAQ)
 - Tryby gry
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
@@ -23,22 +19,22 @@ Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego posiadające
 
 _Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria)._
 
-Kryteria rankingowe to zbiór zasad i porad napisanych przez QAT w celu zapewnienia podobnej jakości we wszystkich rankowingowych beatmapach.
+Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
 
 ## Mapowanie
 
 _Zobacz także: [Mapowanie](/wiki/Beatmapping)._
 
-Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ustawianie rytmów, umieszanie obiektów w rytm muzyki oraz testowanie. Proces ten może także zawierać dodanie filmiku w tle, dodanie [storyboardu](/wiki/Storyboarding) bądź dodanie [niestandardowej skórki](/wiki/Skinning). Wszystkie te czynności mogą zostać wykonane przez jednego twórcy lub z pomocą innych użytkowników, czasami określanych jako _storyboarderzy_, _skinnerzy_ czy _gościnni twórcy_, zależnie od ich zadań.
+Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ustawianie rytmów, umieszczanie obiektów w rytm muzyki oraz grę próbną. Proces ten może także zawierać dodanie wideo w tle, [scenorysu](/wiki/Storyboarding) bądź [niestandardowej skórki](/wiki/Skinning). Wszystkie te czynności mogą zostać wykonane przez samego twórcę lub z pomocą innych użytkowników.
 
 ## Modowanie
 
 _Zobacz także: [Modowanie](/wiki/Modding)._
 
-Modowanie jest to proces oceniania przez różnych użytkowników danej oczekującej beatmapy (potrzebującej pomocy w uzyskaniu statusu rankingowego). Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie poprawek na ich własne beatmapy. 
+Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy. 
 
 ## osu!wiki - Jak możesz pomóc!
 
-26 sierpnia 2016 roku osu!wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie, proces współtworzenia drastycznie się zmienił. Wszystkie wkłady muszą zostać wykonane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostają oceniane przed pojawieniem się na osu!wiki.
+26 sierpnia 2016 roku osu!wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu!wiki.
 
-Aby zacząć pomagać, sprawdź najpierw [Poradnik dot. pomocy na osu!wiki](/wiki/owcg).
+Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu!wiki](/wiki/owcg).
