@@ -65,7 +65,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Battle](https://osu.ppy.sh/u/4037545)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Benny-](https://osu.ppy.sh/u/4023183)            | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Norwegian                |
 | [Bonsai](https://osu.ppy.sh/u/987334)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
-| [celerih](https://osu.ppy.sh/u/4696296)           | ![Yes][true] | ![No][false] | ![Yes][false] | ![No][false] | French                 |
+| [celerih](https://osu.ppy.sh/u/4696296)           | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] | French                   |
 | [Cerulean Veyron](https://osu.ppy.sh/u/1886524)   | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Arabic                   |
 | [Chaoslitz](https://osu.ppy.sh/u/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [Chewin](https://osu.ppy.sh/u/617323)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Italian                 |
@@ -119,7 +119,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Rizia](https://osu.ppy.sh/u/1367570)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [sahuang](https://osu.ppy.sh/u/5318910)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [sheela](https://osu.ppy.sh/u/1138027)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
-| [Sinnoh](https://osu.ppy.sh/u/4236057)            | ![Yes][true] | ![No][false] | ![Yes][false] | ![No][false] |                         |
+| [Sinnoh](https://osu.ppy.sh/u/4236057)            | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] |                         |
 | [Skylish](https://osu.ppy.sh/u/2845958)           | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [smallboat](https://osu.ppy.sh/u/243049)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [Sorcerer](https://osu.ppy.sh/u/1913190)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
