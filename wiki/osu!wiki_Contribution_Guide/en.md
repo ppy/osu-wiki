@@ -28,7 +28,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ![](img/forked.jpg)
 
-3\. Continue to [Syncing your fork](#syncing-your-fork).
+5\. Continue to [Syncing your fork](#syncing-your-fork).
 
 ### Syncing your fork
 
@@ -38,7 +38,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 3\. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed, which may be unlikely the more commits you are behind.
 
-4\. To resolve this, see [Common Issues § My branch is out of date!](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4\. To resolve this, see [the My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
 5\. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
@@ -49,7 +49,7 @@ At this point, you have two choices:
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
-*Note: You are not limit to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
+*Note: You are not limited to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
 
 **When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
 
@@ -68,8 +68,6 @@ At this point, you have two choices:
 4\. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg "No good.")
-
-![](img/compare-across-forks-yes.jpg "This is what you want to see.")
 
 5\. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
 

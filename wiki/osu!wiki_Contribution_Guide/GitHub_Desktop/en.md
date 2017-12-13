@@ -80,7 +80,7 @@
 
 3\. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and deleted the translations. From this, we can have two commits, one for the changes that affected the `en.md` file and one for deleting the translations.
+For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file and one for marking the translations as outdated.
 
 4\. Select the files that are going to be committed.
 
