@@ -19,7 +19,7 @@ Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posi
 
 _Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria)._
 
-Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
+Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](/wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
 
 ## Mapowanie
 
