@@ -76,7 +76,7 @@ News articles do not use traditional Markdown titles in any capacity whatsoever.
 
 #### Headers
 
-Headers are currently limited to header level 2 (``##``) at the current time.
+Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Preferably, start with level 2 and use level 3 if the section belongs underneath the leading level 2 header. Never use headers to style or format text.
 
 #### Bold
 
