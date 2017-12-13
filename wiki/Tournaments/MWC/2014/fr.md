@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 osu!mania World Cup 2014
 ========================
 
