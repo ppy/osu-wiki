@@ -12,7 +12,7 @@ Seasons Greetings!
 
 I mentioned last month that I was looking forward to the progression and development of the **newly introduced Beatmap Discussions system**, and thanks to numerous contributions from our front-line Beatmap Nominators and modders, we've seen a number of quality of life improvements. These include the addition of line breaks in suggestions, more visibility for pending discussions per difficulty, and perhaps most importantly, the ability for Beatmap Nominators to counter (or "veto") a nomination by posting a Problem stamp. 
 
-**Anyone can follow or take part** in these discussions by joining the [osu!dev Discord](discord.gg/ppy) and stopping by the *#osu-web-modding* channel. I strongly encourage it if you're invested in the mapping and/or modding communities and want to help develop the system!
+**Anyone can follow or take part** in these discussions by joining the [osu!dev Discord](https://discord.gg/ppy) and stopping by the *#osu-web-modding* channel. I strongly encourage it if you're invested in the mapping and/or modding communities and want to help develop the system!
 
 With that being said, let's continue on to more specific recent developments in the Beatmap Nominators and Quality Assurance Team.
 
