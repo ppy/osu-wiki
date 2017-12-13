@@ -141,13 +141,13 @@ You must use italics when writing a note. For example:
 _Note: You will need a decent internet connection to connect to Bancho._
 ```
 
-### Headings
+### Headers
 
-Please limit to a heading level of 5.
+Please limit to a header level of 5 and never use headers to style or format text.
 
 If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
 
-Optionally, but preferably, add an extra line before and after the headings (this applies for both underline and hash styles). Doing so will help make the headings stand out a bit more when editing.
+Optionally, but preferably, add an extra line before and after the headers (this applies for both underline and hash styles). Doing so will help make the headers stand out a bit more when editing.
 
 #### Titles
 
