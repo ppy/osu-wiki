@@ -4,7 +4,7 @@ title: "osu! World Cup 2017 Semifinals Recap"
 date: 2017-12-14 10:00:00 +0000
 ---
 
-Saying the past weekend was "intense" might have been a slight understatement! Just last weekend, the OWC 2017 Semifinals concluded, where 12 teams went in, and only 6 emerged from the ensuing battle. We have seen some truly magnificent and close matches, and some that displayed almost complete dominance from one side. Worry not if you missed all the fun – Worry not if you missed all the fun, we'll walk you through what happened in this week's recap!
+Saying the past weekend was "intense" might have been a slight understatement! Just last weekend, the OWC 2017 Semifinals concluded, where 12 teams went in, and only 6 emerged from the ensuing battle. We have seen some truly magnificent and close matches, and some that displayed almost complete dominance from one side. If you missed all the fun – Worry not if you missed all the fun, we'll walk you through what happened in this week's recap!
 
 ![](/wiki/shared/news/banners/owc_2017_recap_banner.jpg)
 
@@ -35,7 +35,9 @@ Going into the tiebreaker, Team Brazil showed no sign of backing down. [MouseEas
 ![](/wiki/shared/news/2017-12-14-osu-world-cup-semifinals-recap/kr_vs_br.png)
 <p style="text-align: center;">(Pring with his MONSTER carry on the tiebreaker)</p>
 
-To conclude the weekend, Team Poland and Team UK met in the Winner's Bracket. Both teams were eyeing for that ticket to face Team USA on the Winner's Finals, but only one may advance. Neither side appeared to be less favoured, and the expectation was that the match would be close. Team UK is full of monsters – [Bubbleman](https://osu.ppy.sh/users/5182050), [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), to name a few. Team Poland, on the other hand, is just a vodka-powered tank, crushing everything in its path. This team had came close to taking home an OWC Champion title many times, but every time it was so close and yet so far. This year, it appeared that both teams intended on making it their year.
+To conclude the weekend, Team Poland and Team UK met in the Winner's Bracket. Both teams were eyeing for that ticket to face Team USA on the Winner's Finals, but only one may advance. Neither side appeared to be less favoured, and the expectation was that the match would be close. Team UK is full of monsters – [Bubbleman](https://osu.ppy.sh/users/5182050), [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), to name a few. 
+
+Team Poland, on the other hand, is just a vodka-powered tank, crushing everything in its path. This team had came close to taking home an OWC Champion title many times, but every time it was so close and yet so far. This year, it appeared that both teams intended on making it their year.
 
 The match started in the fashion many expected – teams trading off points, and many maps came down to the wire when players who failed or who had missed just one time too many made the difference. Some maps like [I](http://osu.ppy.sh/b/264090&m=0) (No Mod) and [PANIC HOLIC](http://osu.ppy.sh/b/1023481&m=0) (No Mod) came really close, but others see huge score differences that go up to 6-digits. Neither team appeared to be at their A-game today, and soon Poland clutched the match to its first match point with 6-5. 
 
@@ -44,4 +46,8 @@ Team UK, now eyeing for a tiebreaker, had to come out on top on Poland's pick, w
 ![](/wiki/shared/news/2017-12-14-osu-world-cup-semifinals-recap/uk_vs_pl.png)
 <p style="text-align: center;">(MrBooM earns Poland a much-needed 5th point with a FC on dorchadas No Mod.)</p>
 
-This coming weekend will be the final weekend of this year's OWC. We start with Team USA and Team Poland having their first engagement in the Winner’s Bracket, on a mappool heralded as the hardest OWC mappool ever. Four other teams would have to fight for their chance in the Loser's Bracket – UK, Germany, Taiwan, and South Korea – all for another chance at the Champion title. With anxious hearts we await their fights, and wish all participating players the best of luck. What do you say? Care to join us in witnessing history? Tune in on [Twitch](twitch.tv/osulive) on Friday the 15th at 15:00 UTC and we will see you there!
+This coming weekend will be the final weekend of this year's OWC. We start with Team USA and Team Poland having their first engagement in the Winner’s Bracket, on a mappool heralded as the hardest OWC mappool ever. Four other teams would have to fight for their chance in the Loser's Bracket – UK, Germany, Taiwan, and South Korea – all for another chance at the Champion title. 
+
+With anxious hearts we await their fights, and wish all participating players the best of luck. What do you say? Care to join us in witnessing history? Tune in on [Twitch](twitch.tv/osulive) on Friday the 15th at 15:00 UTC and we will see you there!
+
+—Evrien
