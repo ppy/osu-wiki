@@ -8,13 +8,14 @@ The snows have truly settled in across most of the world, and with the results o
 
 [![](https://assets.ppy.sh/contests/58/header.jpg?20171127)](https://osu.ppy.sh/community/contests/58)
 
-2017's been a bit of a hectic one for _osu!_, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
+2017's been a bit of a hectic one for osu!, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
 
-With that in mind, the original _osu!musician_, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with _aureole_, available now for your listening pleasure.
+With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with 
+"aureole", available now for your listening pleasure.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
+A relaxing walk through a wintry soundscape, "aureole" is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
 This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
 
