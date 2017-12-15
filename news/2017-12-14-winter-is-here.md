@@ -16,7 +16,7 @@ With that in mind, the original _osu!musician_, [nekodex](https://osu.ppy.sh/use
 
 A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, capped off with glitchy, breakstep-inspired percussion.
 
-This track'll be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole).
+This track'll be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
 
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
@@ -103,6 +103,8 @@ And last but definitely not least, [Vio](https://osu.ppy.sh/users/7075621)'s pas
 -------
 
 It wouldn't be a Fan Art contest announcement if I didn't gush endlessly about how amazing the contest was this time around, but really, we've honestly never seen anything quite like this in all the years we've hosted them.
+
+Make sure to check out the [full contest results](https://osu.ppy.sh/community/contests/58) for many more amazing pictures to feast your eyes on.
 
 In little over a week, over sixty artists pulled out all the stops and produced what is arguably the most impressive contest we've ever held. When is the madness going to stop? Hopefully never!
 
