@@ -26,7 +26,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 ### Gameplay
 
 - **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
-- **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
+- **Stream:** Consecutive circles grouped together. Usually snapped to 1/4 beats.
 - **Stack:** Two or more hit objects placed in the same spot on the grid.
 - **Stack Leniency:** A setting used to determine if hit objects stack or directly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
@@ -39,7 +39,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Short Reversing Slider:** A short slider (usually 1/4 or 1/8 snapping) with 1 or more reverses. This allows a player to keep their cursor in one place while the slider reverses.
 - **Hold Slider:** A slider requiring the player to keep their cursor in one place rather than follow the sliderball.
 - **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
-- **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is ¾ of a beat.
+- **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is 3/4 of a beat.
 - **Slider Tick Rate:** The amount of slider ticks that appear per beat of music.
 - **Spinner Recovery Time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
@@ -67,7 +67,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
--   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
+-   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses 1/3 snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
 -   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
 -   **Avoid using combo colors with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 -   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
