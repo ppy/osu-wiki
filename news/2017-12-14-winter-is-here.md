@@ -1,23 +1,23 @@
 ---
 layout: post
 title: "Winter is Here!"
-date: 2017-12-14 11:00:00 +0000
+date: 2017-12-15 07:00:00 +0000
 ---
 
 The snows have truly settled in across most of the world, and with the results of the Winter 2017 Fanart Contest finally in, what better way to celebrate than with some incredible pieces of osu! art? And to top it all off, a brand-new Christmas-themed track from the original composer of osu!'s musical theme, *nekodex*!
 
 [![](https://assets.ppy.sh/contests/58/header.jpg?20171127)](https://osu.ppy.sh/community/contests/58)
 
-2017's been a bit of a hectic one for _osu!_, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
+2017's been a bit of a hectic one for osu!, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
 
-With that in mind, the original _osu!musician_, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with _aureole_, available now for your listening pleasure.
+With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with "aureole", available now for your listening pleasure.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
+A relaxing walk through a wintry soundscape, "aureole" is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
-This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
-
+This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole) (or [this link](https://nekodex.net/dl/nekodex_-_aureole_\(osu!_xmas_2017\).zip) if you don't have a SoundCloud account), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
+    
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
 ----
