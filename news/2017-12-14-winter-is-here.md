@@ -8,15 +8,15 @@ The snows have truly settled in across most of the world, and with the results o
 
 [![](https://assets.ppy.sh/contests/58/header.jpg?20171127)](https://osu.ppy.sh/community/contests/58)
 
-It's been a hectic year for _osu!_, and the latter half of the year is always the time where we kick back a bit and enjoy some chill time to close off the year.
+2017's been a bit of a hectic one for _osu!_, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
 
 With that in mind, the original _osu!musician_, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with _aureole_, available now for your listening pleasure.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, capped off with glitchy, breakstep-inspired percussion.
+A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
-This track'll be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
+This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
 
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
@@ -32,7 +32,7 @@ Without further ado, here's a sneak peek at the winners - and remember, you can 
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/leissss.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Leissss.jpg)
 
-Leading the pack by an absolute hair with **11,830** votes, [Leissss](https://osu.ppy.sh/users/4750716) steals the show with her rendition of Mocha doing the work of Santa Claus, looking out across the cityscape below from above a sea of candlelit lanterns.
+Leading the pack by an absolute hair with **11,830** votes, [Leissss](https://osu.ppy.sh/users/4750716) blew the voters away with her take on Mocha doing the work of Santa Claus, looking out across the cityscape below from above a sea of candlelit lanterns.
 
 This was by far and above the **CLOSEST** win of any first place Fan Art contest we've ever held. We've never seen anything like it before.
 
@@ -70,7 +70,7 @@ Lying playfully in the snow, [SkyDiverFox](https://osu.ppy.sh/users/6926124)'s r
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/fye.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Fye.jpg)
 
-Warming things up a little, [Fye](https://osu.ppy.sh/users/6926124)'s toasty depiction of pippi and Mocha enjoying some Christmas comforts before a fireplace banished the chill for **4,663** voters. Can we have the cat as a mascot too?
+Warming things up a little, [Fye](https://osu.ppy.sh/users/2362951)'s toasty depiction of pippi and Mocha enjoying some Christmas comforts before a fireplace banished the chill for **4,663** voters. Can we have the cat as a mascot too?
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/sylux6.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Sylux6.jpg)
 
@@ -98,7 +98,7 @@ Clad in a Christmas costume, [XFINCHIIX](https://osu.ppy.sh/users/7075621)'s pip
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/vio.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Vio.jpg)
 
-And last but definitely not least, [Vio](https://osu.ppy.sh/users/7075621)'s pastel celebration of pippi and Mocha is so unbearably cute that it scored **2,813** votes, and shows that wintertime doesn't necessarily mean colours go away!
+And last but definitely not least, [Vio](https://osu.ppy.sh/users/5661237)'s pastel celebration of pippi and Mocha is so unbearably cute that it scored **2,813** votes, and shows that wintertime doesn't necessarily mean colours go away!
 
 -------
 
