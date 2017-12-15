@@ -12,7 +12,7 @@ The snows have truly settled in across most of the world, and with the results o
 
 With that in mind, the original _osu!musician_, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with _aureole_, available now for your listening pleasure.
 
-<iframe width="100" height="350" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 A relaxing walk through a wintry soundscape, _aureole_ is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
