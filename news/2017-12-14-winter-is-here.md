@@ -10,8 +10,7 @@ The snows have truly settled in across most of the world, and with the results o
 
 2017's been a bit of a hectic one for osu!, and the latter half of the year is always the time where we kick back a bit and enjoy some well-earned chill.
 
-With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with 
-"aureole", available now for your listening pleasure.
+With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users/102), has dug deep into his reservoirs of musical mastery to pluck out perhaps the most chill of all the holiday tunes yet - with "aureole", available now for your listening pleasure.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/dJf7qiIdltw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
