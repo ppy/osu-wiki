@@ -133,29 +133,41 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 Difficulty
 ----------
 
-HPDrainRate (Decimal) specifies the HP Drain difficulty.
+### Stars
 
-`HPDrainRate:5`
+All the difficulty properties defined in this subsection are expressed in *stars*, where 1 star means very easy, and 9 stars means very hard. The number of stars is always a decimal number.
 
-CircleSize (Decimal) specifies the size of hit object circles.
+```
+HPDrainRate:4
+CircleSize:3.3
+OverallDifficulty:4
+ApproachRate:4.8
+```
 
-`CircleSize:4`
+*HPDrainRate* specifies how fast the health bar decreases.
 
-OverallDifficulty (Decimal) specifies the amount of time allowed to click a hit object on time.
+TODO: The health bar decreases continuously, but also when the player misses a note. Which of the two this settings affect? How much exactly?
 
-`OverallDifficulty:6`
+*OverallDifficulty* is the most visible parameter. It defines the number of stars of a beatmap appears with in the overview. It affects the time window a hit object remains clickable.
 
-ApproachRate (Decimal) specifies the amount of time taken for the approach circle and hit object to appear.
+TODO: Doesn't it affect anything else? How is the time window defined?
 
-`ApproachRate:7`
+*CircleSize* defines the size of the hit circles and sliders in the osu!standard mode. The resulting circle radius in osu!pixels is defined by the formula `54.4 - 4.48 * CircleSize`. In osu!mania mode, *CircleSize* is the number of columns.
 
-SliderMultiplier (Decimal) specifies a multiplier for the slider velocity. Default value is 1.4 .
+*ApproachRate* defines how long hit objects appear before they should be hit.
 
-`SliderMultiplier:1.3`
+TODO: How to convert the approach rate to seconds?
 
-SliderTickRate (Decimal) specifies how often slider ticks appear. Default value is 1.
+### Sliders
 
-`SliderTickRate:1`
+```
+SliderMultiplier:1.3
+SliderTickRate:1
+```
+
+SliderMultiplier (Decimal) specifies a multiplier for the slider velocity. The reference velocity at slider multiplier = 1 is 100 osu!pixels per beat. A slider multiplier of 2 would yield a velocity of 200 osu!pixels per beat. The default slider multiplier is 1.4 when the property is omitted.
+
+TODO: SliderTickRate (Decimal) is the number of ticks per beat. It defaults to 1 tick per beat.
 
 Events
 ------
