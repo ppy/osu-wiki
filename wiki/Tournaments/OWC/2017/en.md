@@ -46,57 +46,13 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
-
-### Friday, 15. December 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ² |
-| Germany | ![][flag_DE] | ![][flag_GB] | United Kingdom | **19.00 UTC** | 20.00 UTC +1 | 19.00 UTC +0 | ² |
-| Poland | ![][flag_PL] | ![][flag_US] | United States | **21.00 UTC** | 22.00 UTC +1 | 15.00 UTC -6 | ¹ |
-
-
-### Saturday, 16. December 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **12.00 UTC** | 13.00 UTC +1 | 21.00 UTC +9 | ³ |
-| Germany | ![][flag_DE] | ![][flag_TW] | Taiwan | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **12.00 UTC** | 12.00 UTC +0 | 21.00 UTC +9 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **12.00 UTC** | 12.00 UTC +0 | 20.00 UTC +8 | ³ |
-| Poland | ![][flag_PL] | ![][flag_DE] | Germany | **14.00 UTC** | 15.00 UTC +1 | 15.00 UTC +1 | ⁴ |
-| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **14.00 UTC** | 15.00 UTC +1 | 23.00 UTC +9 | ⁴ |
-| Poland | ![][flag_PL] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 15.00 UTC +1 | 14.00 UTC +0 | ⁴ |
-| Poland | ![][flag_PL] | ![][flag_TW] | Taiwan | **14.00 UTC** | 15.00 UTC +1 | 22.00 UTC +8 | ⁴ |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | **20.00 UTC** | 14.00 UTC -6 | 21.00 UTC +1 | ⁴ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **20.00 UTC** | 14.00 UTC -6 | 20.00 UTC +0 | ⁴ |
+## Match Schedule: Grand Finals
 
 ### Sunday, 17. December 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁴ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 10.00 UTC +8 | ⁴ |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 11.00 UTC +9 | ⁵ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **2.00 UTC** | 20.00 (Sat.) UTC -6 | 10.00 UTC +8 | ⁵ |
-| Poland | ![][flag_PL] | ![][flag_DE] | Germany | **13.00 UTC** | 14.00 UTC +1 | 14.00 UTC +1 | ⁵ |
-| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 | ⁵ |
-| Poland | ![][flag_PL] | ![][flag_GB] | United Kingdom | **13.00 UTC** | 14.00 UTC +1 | 13.00 UTC +0 | ⁵ |
-| Poland | ![][flag_PL] | ![][flag_TW] | Taiwan | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 | ⁵ |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | **20.00 UTC** | 14.00 UTC -6 | 21.00 UTC +1 | ⁵ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **20.00 UTC** | 14.00 UTC -6 | 20.00 UTC +0 | ⁵ |
-| United States | ![][flag_US] | ![][flag_PL] | Poland | **20.00 UTC** | 14.00 UTC -6 | 21.00 UTC +1 | ⁵ |
-
-¹ Winner bracket encounter
-
-² Loser bracket encounter
-
-³ Encounter dependent on ²previous loser bracket matches
-
-⁴ Encounter dependent on ³previous loser bracket matches and ¹winner bracket match. Match of 3rd place
-
-⁵ Encounter dependent on ⁴match of 3rd place and ¹winner bracket encounter. Grand Finals match
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Poland | ![][flag_PL] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 |
 
 ------------------------------------------------------------------------
 
