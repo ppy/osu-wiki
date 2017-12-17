@@ -4,9 +4,7 @@ title: "Beatmap Spotlights: November 2017"
 date: 2017-12-18 16:00:00 +0000
 ---
 
-The November Spotlights are here, and with that my last announcement before Kurokami officially takes charge! The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
-
-Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned! With that said, I thank everyone for their long standing participation and wish you all the very best for the future!
+The November Spotlights are here, and with that my last announcement before Kurokami officially takes charge! Enjoy the best of what the month has to offer, and nab yourself a shiny Spotlight medal in the process!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -20,6 +18,17 @@ First of all, congratulations to the winners of the October 2017 Spotlights. The
 + **osu!taiko:** [zkane2](https://osu.ppy.sh/u/6359835)
 + **osu!catch:** [[-naniwa-]](https://osu.ppy.sh/u/4958376)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
+
+## Changes within the Spotlight Team
+
+We're welcoming [Mao](https://osu.ppy.sh/u/2204515) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) among the managers! They will help with the Themed Spotlights during the next year with their preparation and release. 
+
+In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
+
+* **osu!:** [Battle](https://osu.ppy.sh/u/4037545), [Halfslashed](https://osu.ppy.sh/u/4598899), [Delis](https://osu.ppy.sh/u/1603923), [Regou](https://osu.ppy.sh/u/419954), [Crystal](https://osu.ppy.sh/u/1646397), [Gamu](https://osu.ppy.sh/u/611174)
+* **osu!taiko:** [hikikochan](https://osu.ppy.sh/u/6512678), [Neppu](https://osu.ppy.sh/u/605973)
+* **osu!catch:** [Crystal](https://osu.ppy.sh/u/1646397)
+* **osu!mania:** [Garalulu](https://osu.ppy.sh/u/757783), [Pope Gadget](https://osu.ppy.sh/u/2288341), [Asherz007](https://osu.ppy.sh/u/9014047), [TheToaphster](https://osu.ppy.sh/u/7616811)
 
 # November 2017 Spotlights
 
@@ -101,20 +110,11 @@ For his 20th map, [Fresh Chicken](https://osu.ppy.sh/u/3984370) went from the wo
 
 With the help of [Lude](https://osu.ppy.sh/u/6974536) and [Valentrix](https://osu.ppy.sh/u/2794620), Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
 
-## Changes within the Spotlight Team
-
-We're welcoming [Mao](https://osu.ppy.sh/u/2204515) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) among the managers! They will help with the Themed Spotlights during the next year with their preparation and release. 
-
-In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
-
-* **osu!:** [Battle](https://osu.ppy.sh/u/4037545), [Halfslashed](https://osu.ppy.sh/u/4598899), [Delis](https://osu.ppy.sh/u/1603923), [Regou](https://osu.ppy.sh/u/419954), [Crystal](https://osu.ppy.sh/u/1646397), [Gamu](https://osu.ppy.sh/u/611174)
-* **osu!taiko:** [hikikochan](https://osu.ppy.sh/u/6512678), [Neppu](https://osu.ppy.sh/u/605973)
-* **osu!catch:** [Crystal](https://osu.ppy.sh/u/1646397)
-* **osu!mania:** [Garalulu](https://osu.ppy.sh/u/757783), [Pope Gadget](https://osu.ppy.sh/u/2288341), [Asherz007](https://osu.ppy.sh/u/9014047), [TheToaphster](https://osu.ppy.sh/u/7616811)
-
 --------
 
-And that concludes the Spotlights listing. We hope that you click, drum, catch, and mash your heart out from these maps and nab yourself a shiny new Spotlight medal for your profile page! Look forward to next month's installment!
+The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
+
+Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned! With that said, I thank everyone for their long standing participation and wish you all the very best for the future!
 
 
 —OnosakiHito
