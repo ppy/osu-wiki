@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (中文)
+Quality Assurance Team
 =============================
 
 **Quality Assurance Team**，通常简称为 QAT ，正如其名地负责管控近期成为 Qualified 谱面的品质与可玩性，当他们认为一张图未达标准时亦能撤销其 Qualified 状态。他们建立起标准并加以管控，确保所有进入 Rank 程序中的图都有一定质量。

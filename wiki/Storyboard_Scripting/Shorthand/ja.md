@@ -1,4 +1,4 @@
-Storyboard Scripting Shorthand (日本語)
+Storyboard Scripting Shorthand
 ==============================================
 
 便利なSBライフを満喫するために、[コマンドの](/wiki/Storyboard_Scripting/Commands)**3つの短縮化** がここには記されています。

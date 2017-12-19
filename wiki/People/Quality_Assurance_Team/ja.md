@@ -1,7 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team (日本語)
+Quality Assurance Team
 =====================================
 
 **Quality Assurance Team** は一般的にQATとして知られ、Qualifiedされた譜面を確認し、質やプレイ性を損なう譜面には必要な場合においてDisqualifyとしてWIP/Pendingに戻すことができる審査員です。彼らはRankする前にQualifiedされた譜面に対して最低限の品質を守らせる門番の役割をします。

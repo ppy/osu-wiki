@@ -1,4 +1,4 @@
-Gallery (Italiano)
+Gallery
 ===================
 
 ***[Clicca per tonare alla pagina delle Mascotte](/wiki/Mascots)***

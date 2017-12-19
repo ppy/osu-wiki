@@ -1,4 +1,4 @@
-Global Moderation Team (Tagalog)
+Global Moderation Team
 ===================================
 
 **Global Moderation Team** (dating kilala bilang mga Administrators, Global Mod Team at “GreenBAT”), tinatawag ngayon bilang **GMT**, ay mga members ng osu!Staff kung saan sila ay nakafocus sa player moderation at mga isyu sa staff at sa community.

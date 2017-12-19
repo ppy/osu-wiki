@@ -64,8 +64,6 @@ Notes:
 
 You can see a gallery of each contest at the [Facebook page](https://www.facebook.com/osugame).
 
-To see the completed fanart contents, see [Monthly Fanart Contest](Monthly_Fanart_Contest).
-
 ## osu!store Contests
 
 Notes:

@@ -10,20 +10,20 @@
 
 <!-- shared -->
 <!-- SV -->
-[o300]: /wiki/Skinning/osu!/fs/hit300.png "300"
-[o300g]: /wiki/Skinning/osu!/fs/hit300g.png "Geki"
-[o100]: /wiki/Skinning/osu!/fs/hit100.png "100"
-[o300k]: /wiki/Skinning/osu!/fs/hit300k.png "300 Katu"
-[o100k]: /wiki/Skinning/osu!/fs/hit100k.png "100 Katu"
-[o50]: /wiki/Skinning/osu!/fs/hit50.png "50"
-[o0]: /wiki/Skinning/osu!/fs/hit0.png "Miss"
+[o300]: /wiki/Skinning/Interface/img/hit300.png "300"
+[o300g]: /wiki/Skinning/Interface/img/hit300g.png "Geki"
+[o100]: /wiki/Skinning/Interface/img/hit100.png "100"
+[o300k]: /wiki/Skinning/Interface/img/hit300k.png "300 Katu"
+[o100k]: /wiki/Skinning/Interface/img/hit100k.png "100 Katu"
+[o50]: /wiki/Skinning/Interface/img/hit50.png "50"
+[o0]: /wiki/Skinning/Interface/img/hit0.png "Miss"
 
-[t300k]: /wiki/Skinning/osu!taiko/fs/taiko-hit300k.png "GREAT"
-[t300g]: /wiki/Skinning/osu!taiko/fs/taiko-hit300g.png "GREAT"
-[t300]: /wiki/Skinning/osu!taiko/fs/taiko-hit300.png "GREAT"
-[t100k]: /wiki/Skinning/osu!taiko/fs/taiko-hit100k.png "GOOD"
-[t100]: /wiki/Skinning/osu!taiko/fs/taiko-hit100.png "GOOD"
-[t0]: /wiki/Skinning/osu!taiko/fs/taiko-hit0.png "MISS"
+[t300k]: /wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT"
+[t300g]: /wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT"
+[t300]: /wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT"
+[t100k]: /wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD"
+[t100]: /wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD"
+[t0]: /wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS"
 
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
 [c300]: ./img/catch-300.jpg "Fruit"
@@ -32,12 +32,12 @@
 [cBanana]: ./img/catch-banana.jpg "Banana"
 [c0]: ./img/catch-0.jpg "Miss"
 
-[m500]: /wiki/Skinning/osu!mania/fs/mania-hit300g-0.png "Rainbow 300"
-[m300]: /wiki/Skinning/osu!mania/fs/mania-hit300.png "300"
-[m200]: /wiki/Skinning/osu!mania/fs/mania-hit200.png "200"
-[m100]: /wiki/Skinning/osu!mania/fs/mania-hit100.png "100"
-[m50]: /wiki/Skinning/osu!mania/fs/mania-hit50.png "50"
-[m0]: /wiki/Skinning/osu!mania/fs/mania-hit0.png "Miss"
+[m500]: /wiki/Skinning/osu!mania/img/mania-hit300g-0.png "Rainbow 300"
+[m300]: /wiki/Skinning/osu!mania/img/mania-hit300.png "300"
+[m200]: /wiki/Skinning/osu!mania/img/mania-hit200.png "200"
+[m100]: /wiki/Skinning/osu!mania/img/mania-hit100.png "100"
+[m50]: /wiki/Skinning/osu!mania/img/mania-hit50.png "50"
+[m0]: /wiki/Skinning/osu!mania/img/mania-hit0.png "Miss"
 
 <!-- icons -->
 [rank]: /wiki/shared/Heart.gif "Ranked"
