@@ -8,6 +8,10 @@ Throughout the years, the osu!community has adopted its own set of slang that ma
 
 If the name is not obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we do not really need in here." When a thread is or is said to be "wastelanded", it is moved there.
 
+### Accuracy
+
+A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Sometimes shortened to _Acc_.
+
 ### AFK
 
 AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. _osu!_ will mark users as "Idle" if they have been inactive for some time.
@@ -90,6 +94,14 @@ You can usually check to see the audio file's bit rate by checking the file prop
 ### BG
 
 BG is short for _background_. BG refers to the background image and/or video of a beatmap. Inside a beatmap folder, BG (sometimes stylized as _bg_) is usually the name for the background image.
+
+### Blanket
+
+A mapping term to describe when a slider covers the shape of another object. A guide to making them can be found [here](/wiki/Mapping_Techniques/Making_Good_Sliders#Beat-Blankets)
+
+### BN
+
+Short for _Beatmap Nominator_, a member of the [Beatmap Nomination Group](/wiki/people/Beatmap_Nomination_Group).
 
 ### BPM
 
@@ -247,18 +259,13 @@ Maps with very long drain times are typically referred to as [marathon](/wiki/ma
 
 Maps must have at least 45 seconds of drain time be considered rankable.
 
-### Drop
+### Drop and Droplet
 
-A drop is an osu!catch element that gives a score of 100.
-It is the equivalent to the slider tick in [osu!standard](/wiki/osu!standard).
+A Drop is an osu!catch element that gives a score of 100, equivalent to slider ticks in osu!standard, while Droplets give a score of 10, equivalent to the slider track in osu!standard.
 
-The difference between drops and [droplets](/wiki/droplet) is that a drop is twice as big as droplets are.
+Missing a Drop breaks the player's combo, but missing a Droplet does not.
 
-### Droplet
-
-A droplet is an osu!catch element that gives a score of 10. It is the equivalent to the slider track in osu!standard.
-
-The difference between [drops](/wiki/drop) and droplets is that a droplet is half as big as drops are.
+The visual difference between Drops and Droplets is that a Drop is twice as big as Droplets are.
 
 ### DS
 
@@ -300,9 +307,9 @@ Fail has three meanings:
 
 ![Score comparison between full and broken combos](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
 
-FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
+FC, short for _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
 
-Because of the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
+Due to the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
 ## G
 
@@ -315,6 +322,12 @@ Geki(激), or _Elite Beat!_, is a scoring term used when you complete a [combose
 A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap. It accompanies the total score at the result screen and appears in all lists where scores appear.
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
+
+### Graveyard
+
+A subforum for beatmaps that were abandoned. Graveyarded maps do not count towards a user's total upload limit. The owner may revive them on their profile, which sends them back to being a Work in Progress. This requires having a free pending slot.
+
+Beatmaps that are not updated or receive no posts from their owner for 28 days will be automatically sent to the Graveyard.
 
 ### Grid Snapping
 
@@ -443,6 +456,10 @@ You can change your local song offset by pressing:
 
 If you play a beatmap that has a local song offset, _osu!_ will tell you that there the previous offset will be used.
 
+### Loved
+
+A state of ranking for beatmaps that don't follow the [ranking criteria](/wiki/Ranking_Criteria) and are therefore unrankable, but are considered popular enough to deserve their own leaderboards. Loved beatmaps contribute to a user's total playcount, but does not contribute to their performance points.
+
 ### Looping
 
 From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain_time) **must** be at least 30 seconds. If your audio clip is shorter than that, you *should* loop it.
@@ -479,7 +496,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 ### Modder
 
-A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums).
+A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [_modding_](/wiki/modding), and the posts are referred to as _mods_.
 
 Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
 
@@ -491,6 +508,13 @@ NC has two meanings:
 
 1. short for _new combo_, a modding term to suggest that a beat needs to be the start of a new combo
 2. an abbreviation for the [Nightcore mod](/wiki/Nightcore), a variant of the [Double Time](/wiki/Double_Time) mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
+
+### NM
+
+NM has two meanings:
+
+1. short of _NoMod_, used to describe when a player does not enable any [game modifiers](/wiki/Game_Modifiers).
+2. an abbreviation for Normal, used as [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_Modes/osu!mania) beatmaps.
 
 ### Nuke
 
@@ -533,7 +557,7 @@ _osu!_ has three meanings:
 ### osu!coin
 
 - osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
-- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/news/115118189213)
+- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
 
@@ -565,7 +589,8 @@ Ouendan has three meanings:
 
 ### Overmapping
 
-Overmapping is when the beats or placement of beats is placed in a way that makes the difficulty of the map contrast the actual song.
+Overmapping is when the hit objects or placement of hit objects are placed in a way that makes the difficulty of the map contrast the actual song.
+
 This can be done by adding unnecessary jumps, slider speed-ups, or by mapping to an unknown beat in the music consistently (ie. adding notes on blue ticks when the song is only using red ticks), in order to add difficulty.
 
 There are two ways to avoid this:
@@ -599,12 +624,22 @@ He is the creator of the _osu!_ project and its primary developer.
 Play time is the total duration of a beatmap.
 This includes the lead-in time and the break time(s).
 
+### pp
+
+Short for [_performance points_](/wiki/Performance_Points). The main ranking metric of the game.
+
 ### puush
 
 puush is a screen capturing and file uploading application developed by peppy.
 puush is a successor of sorts to upppy which is commonly used to upload and share images in _osu!_
 
 For more information about puush, see [puush / home](https://puush.me).
+
+## Q
+
+### QAT
+
+Short for [_Quality Assurance Team_](/wiki/People/Quality_Assurance_Team). Used to refer to the group itself or one of its members.
 
 ## R
 
@@ -643,9 +678,9 @@ Usage is suggested when there has been a change in offset and/or BPM, after obje
 
 ### Restricted Mode
 
-Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/wiki/TOS). Submitted scores of gameplay are not allowed publically displayed.
+Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/legal/terms). Submitted scores of gameplay are not allowed publically displayed.
 
-For more info, see [What is "restricted" mode, exactly?](http://osu.enchanthq.com/article/6/what-is-restricted-mode-exactly).
+For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Center#what-is-"restricted"-mode,-exactly?).
 
 ### RSI
 

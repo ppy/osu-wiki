@@ -1,4 +1,4 @@
-Getting Your Map Modded (Bahasa Indonesia)
+Getting Your Map Modded
 =============================================
 
 Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmaps), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.

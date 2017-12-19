@@ -38,6 +38,8 @@ Team Members
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russian | Chat Moderation |
 | [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Chat Moderation |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Chat Moderation |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Chat Moderation |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanish | Chat Moderation, Forum Moderation |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Chat Moderation |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat Moderation, Forum Moderation |
@@ -45,7 +47,6 @@ Team Members
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technical support |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Chat Moderation |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
 | [ruexia](https://osu.ppy.sh/u/385069) | Korean | Chat Moderation |
@@ -53,13 +54,11 @@ Team Members
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Chat Moderation |
 | [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
 | [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Chat Moderation |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Chat Moderation |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat Moderation |
 | [Stefan](https://osu.ppy.sh/u/626907) | German | Chat Moderation, Forum Moderation |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Technical Support |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Chat Moderation |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |

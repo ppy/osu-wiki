@@ -133,7 +133,7 @@ Online score leader-board
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
+![](osu.gif "fig:osu.gif") is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif") is [osu!mania](Mania "wikilink")
 
 <img src="Osu! Online score.png" title="fig:Right|Example of osu! Online score" alt="Right|Example of osu! Online score" width="350" /> This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 

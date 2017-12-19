@@ -49,6 +49,8 @@
 | [Kobold84](https://osu.ppy.sh/u/3227533) | русский | чат |
 | [Kurai](https://osu.ppy.sh/u/77089) | французский, русский | чат |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | русский | чат |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | финский | чат |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | испанский | чат, форум |
 | [Marcin](https://osu.ppy.sh/u/722665) | польский | форум, разработка игры |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | итальянский | чат |
 | [n0ah](https://osu.ppy.sh/u/3086393) | голландский | чат, форум |
@@ -56,7 +58,6 @@
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | французский | чат |
 | [Nyquill](https://osu.ppy.sh/u/682935) | китайский | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | чат, техподдержка |
-| [Pereira006](https://osu.ppy.sh/u/537344) | португальский | чат |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | голландский | чат |
 | [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu!wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | корейский | чат |
@@ -64,13 +65,11 @@
 | [Saten](https://osu.ppy.sh/u/444506) | шведский, испанский | чат |
 | [shARPII](https://osu.ppy.sh/u/776257) | французский | чат, организация турниров |
 | [Shiro](https://osu.ppy.sh/u/113005) | французский, испанский | чат |
-| [Shockwave](https://osu.ppy.sh/u/251631) | испанский | чат |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | индонезийский | чат |
 | [Spkz](https://osu.ppy.sh/u/2964029) | венгерский | чат |
 | [Stefan](https://osu.ppy.sh/u/626907) | немецкий | чат, форум |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | корейский | чат |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | обучение игроков |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | техподдержка |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| корейский, японский | чат |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | испанский | техподдержка |
 | [Ukami](https://osu.ppy.sh/u/820865) | польский | чат |

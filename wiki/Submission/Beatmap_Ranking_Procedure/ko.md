@@ -1,4 +1,4 @@
-Beatmap Ranking Procedure (한국어)
+Beatmap Ranking Procedure
 ====================================
 
 비트맵을 처음 작성하였을 경우, Pending 또는 Work in Progress(WIP)으로 이동, 이를 Unranked비트맵이라 칭합니다. Unranked비트맵은 스코어보드와 랭킹의 표시가 없고, 일정기간 후에 Graveyard으로 이동됩니다. 스코어보드를 표시시키기 위해서는 Ranked에 속해있어야 하고, Beatmap Approval의 프로세스를 삽입할 필요가 있습니다. 우선 bubble을 획득하고, 그 후에 Ranked로 이동됩니다. BAT에 의해서만 Bubble과 Ranked가 부여됩니다.

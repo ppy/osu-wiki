@@ -39,6 +39,8 @@ Liste des GM
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russe | modération du chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Français, Russe | modération du chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russe | modération du chat |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandais | modération du chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Espanol | modération du chat, modération du forum |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polonais | modération du forum, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italien | modération du chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Néerlandais | modération du chat, modération du forum |
@@ -46,7 +48,6 @@ Liste des GM
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Français | modération du chat |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinois | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | modération du chat, support technique |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portugais | modération du chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Néerlandais | modération du chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Espanol | modération du chat, administration du wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | Coréen | modération du chat |
@@ -54,13 +55,11 @@ Liste des GM
 | [Saten](https://osu.ppy.sh/u/444506) | Suédois, Espanol | modération du chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | Français | modération du chat, organisation de tournois |
 | [Shiro](https://osu.ppy.sh/u/113005) | Français, Espanol | modération du chat |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Espanol | modération du chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | modération du chat |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hongrois | modération du chat |
 | [Stefan](https://osu.ppy.sh/u/626907) | Allemand | modération du chat, modération du forum |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Coréen | modération du chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | rédacteur pour les osu!medias |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | support technique |
 | [ToGlette](https://osu.ppy.sh/u/1076236) | Coréen, Japonais | modération du chat |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Espanol | support technique |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polonais | modération du chat |

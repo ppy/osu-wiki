@@ -38,6 +38,8 @@ Miembros del equipo
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Ruso | Moderación del Chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Francés, Ruso | Moderación del Chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Ruso | Moderación del Chat |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Fino | Moderación del Chat |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Español | Moderación del Chat, Moderación del Foro |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polaco | Moderación del Foro, Desarrollo |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderación del Chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Holandés | Moderación del Chat |
@@ -45,7 +47,6 @@ Miembros del equipo
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Francés | Moderación del Chat |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chino | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderación del Chat, Soporte Técnico |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portugués | Moderación del Chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holandés | Moderación del Chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Español | Moderación del Chat, Administración de la Wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | Coreano | Moderación del Chat |
@@ -53,13 +54,11 @@ Miembros del equipo
 | [Saten](https://osu.ppy.sh/u/444506) | Sueco, Español | Moderación del Chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | Francés | Moderación del Chat, Torneos |
 | [Shiro](https://osu.ppy.sh/u/113005) | Francés, Español | Moderación del Chat |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Español | Moderación del Chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesio | Moderación del Chat |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Húngaro | Moderación del Chat |
 | [Stefan](https://osu.ppy.sh/u/626907) | Alemán | Moderación del Chat, Moderación del Foro |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Coreano | Moderación del Chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | Creación de osu!media |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Soporte Técnico |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Coreano, Japonés | Moderación del Chat |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Español | Soporte Técnico |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polaco | Moderación del Chat |

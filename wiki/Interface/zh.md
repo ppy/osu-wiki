@@ -1,5 +1,5 @@
 <img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" /> \_\_TOC\_\_
-=主菜单= <img src="introscreen.png" title="fig:Main menu" alt="Main menu" width="280" />
+=主菜单= <img src="Introscreen.jpg" title="fig:Main menu" alt="Main menu" width="280" />
 
 ［1］osu！的标志会随着音乐的每分钟击打次数（BPM）跳动，如果没有在播放歌曲，osu！标志就会跳动得慢一点。下列在括弧里的是快捷键。
 
@@ -27,7 +27,7 @@
 3.  **Change Avatar**: 在浏览器中打开更改头像页面
 4.  **Close** : 关闭此窗口
 
-=游戏界面= <img src="introscreen2.png" title="fig:Play Menu" alt="Play Menu" width="280" />
+=游戏界面= <img src="Introscreen2.jpg" title="fig:Play Menu" alt="Play Menu" width="280" />
 
 -   点击Solo（P）以进行单机游戏
 -   点击Multi（M）以进行多人联机
