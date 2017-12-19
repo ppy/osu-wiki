@@ -2,10 +2,10 @@
 [osu!stream wikilink]: ./osu!stream "osu!stream by osu! team"
 
 <!-- external -->
-[opsu! link]: https://itdelatrisu.github.io/opsu/ "opsu! by itdelatrisu with fluddokt"
-[T-Aiko! link]: http://taiko.low.moe/ "T-Aiko! v2 by low.moe team"
-[osu!wp link]: http://osu.ppy.sh/forum/t/121936 "osu!wp by cxy783670568"
-[osu! iPhone link]: https://osu.ppy.sh/forum/47 "osu! iPhone forum (dead)"
+[opsu! link]: https://itdelatrisu.github.io/opsu/ "opsu! by itdelatrisu (Github page)"
+[T-Aiko! link]: http://taiko.low.moe/ "T-Aiko! v2 by low.moe team (Official websitie)"
+[osu!wp link]: http://osu.ppy.sh/forum/t/121936 "osu!wp by cxy783670568 (osu! forum)"
+[osu! iPhone link]: https://osu.ppy.sh/forum/47 "osu! iPhone forum (osu! forum)"
 
 <!-- shared image -->
 [osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
@@ -28,11 +28,11 @@ Variant of one of the game modes done by the osu! team.
 
 ### iOS
 
-**Deprecated:-**
+#### Deprecated
 
 - ![osu! icon][osu! icon link] [osu!stream][osu!stream wikilink]:
   Experience the new spin-off of the osu! game mode for the iOS developed from grounds up.
-  - Some beatmaps may require micro-transaction.
+  - Some beatmap packs may require micro-transaction.
     Deprecated due to inactivity of new beatmap packs/features.
 
 ## Unofficial variant
@@ -50,7 +50,7 @@ Variant of one of the game modes done by the community of osu!.
 
 ### Android
 
-**Deprecated:-**
+#### Deprecated
 
 - ![osu! icon][osu! icon link] Beats v1.75 FINAL:
   Old Stepmania/ancient osu! port by **Keripo**.
@@ -61,7 +61,7 @@ Variant of one of the game modes done by the community of osu!.
 
 ### iOS
 
-**Deprecated:-**
+#### Deprecated
 
 - ![osu! icon][osu! icon link] [osu! iPhone][osu! iPhone link]:
   Ancient osu! port developed by **nuudles** for jailbroken iOS.

@@ -104,8 +104,6 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![Finger Guides display][Os-FG.jpg]
 
-_Finger Guides display_
-
 - The two transparent circle that appears in-game is created to help beginners to know when to hit the objects.
   - It will shows the suggested method to tackle the design of the map with perfection.
 - The green colour is for the left hand and the red colour is for the right hand.
@@ -115,8 +113,6 @@ _Finger Guides display_
 
 ![Connected Beats][Os-CB.png]
 
-_Connected Beats_
-
 - Connected Beats, as the title suggested, requires the player to press both the objects at the same time.
   - Connected Beats are not limited to just "hit circle-hit circle", it can be "hit circle-slider", "hold circle-slider" and so on.
 - Connected Beats can be identified by having a straight white line connecting with another object.
@@ -125,13 +121,9 @@ _Connected Beats_
 
 ![Hold circle 1][Os-HC.jpg]
 
-_Hold circle 1_
-
 ---
 
 ![Hold circle 2][Os-HC2.jpg]
-
-_Hold circle 2_
 
 - Hold circle requires the player to hold the circle until the circle "explodes"
 - The hit accuracy is determined by how early/late hit and holding time.
@@ -145,25 +137,17 @@ _Hold circle 2_
 
 ![Easy][Os-PlayEasy.png]
 
-_Easy_
-
 ---
 
 ![Normal][Os-PlayNormal.png]
-
-_Normal_
 
 ---
 
 ![Hard][Os-PlayHard.png]
 
-_Hard_
-
 ---
 
 ![Expert][Os-PlayExpert.jpg]
-
-_Expert_
 
 ---
 
@@ -195,25 +179,17 @@ The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
 ![Stream Up!][Os-SU.png]
 
-_Stream Up!_
-
 ---
 
 ![Stream Down!][Os-SD.png]
-
-_Stream Down!_
 
 ---
 
 ![Critical health][Os-Zero1.png]
 
-_Critical health_
-
 ---
 
 ![Game Over][Os-Zero2.png]
-
-_Game Over_
 
 ---
 
@@ -233,73 +209,49 @@ The background colour is Purple and the lights will darken depending on current 
 
 ![Main Menu][Os-MM.png]
 
-_Main Menu_
-
 ---
 
 ![Song list][Os-SL.jpg]
-
-_Song list_
 
 ---
 
 ![Store screen][Os-Store.jpg]
 
-_Store screen_
-
 ---
 
 ![Selecting style menu][Os-DS.png]
-
-_Selecting style menu_
 
 ---
 
 ![Song Information][Os-SI.png]
 
-_Song Information_
-
 ---
 
 ![Expert][Os-PlayExpert.jpg]
-
-_Expert_
 
 ---
 
 ![Pause menu][Os-Pause.png]
 
-_Pause menu_
-
 ---
 
 ![Failed menu][Os-FM.png]
-
-_Failed menu_
 
 ---
 
 ![Stage cleared!][Os-SC.png]
 
-_Stage cleared!_
-
 ---
 
 ![Grade screen][Os-Grade.jpg]
-
-_Grade screen_
 
 ---
 
 ![Option screen 1][Os-O1.png]
 
-_Option screen 1_
-
 ---
 
 ![Option screen 2][Os-O2.png]
-
-_Option screen 2_
 
 ---
 
@@ -337,22 +289,22 @@ Additional bonus of 10 point awarded depending on the speed of spinning the spin
 
 ### Hit circle judgement
 
-**Hit-circles**
+#### Hit-circles
 
 - A 300, 100 or 50 from a normal hit circle depending on tap accuracy.
-- Not tapping on the hit circle at all or tap on it too early, a miss will be given.
+- A miss will be given from not tapping on the hit circle at all or tap on it too early.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
-**Hold-circle**
+#### Hold-circle
 
 - The judgement of the hold circle depends on the initial tap and the hold time before exploding.
   - 300 if done perfectly.
   - 100 for a less accurate initial hold and holding it properly.
   - 50 for at least, touching it.
   - 30 for every explosion.
-  - Multiplier reset if did not hold the circles properly and Miss for not doing it.
+  - Multiplier reset if did not hold the circles properly and miss for not doing it.
 
-**Sliders**
+#### Sliders
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
@@ -362,7 +314,7 @@ Additional bonus of 10 point awarded depending on the speed of spinning the spin
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
 - A miss if did not do the slider.
 
-**Spinner**
+#### Spinner
 
 - For a spinner, a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
 - A miss if unable to fill the meter shown on both sides of the spinner.
@@ -395,8 +347,6 @@ The following will not increase or reset the score multiplier:
 ### Grades
 
 ![Grade screen][Os-Grade.jpg]
-
-**Normal grades**
 
 - SS = 100% accuracy
 - S = Over 90% accuracy
@@ -447,13 +397,14 @@ Because of the difficulty in obtaining licensing for the said song.
 
 ### How do I get more beatmaps?
 
-Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
+Head to the "Store" section in the game or pressing the `Download more songs...` at the `Play` section.
 
-The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent _accidental purchase_.
+The beatmaps are packed in a bundle and some are priced. Make sure to look out of the price tag before buying to prevent _accidental purchase_.
 
 ### What is the theme song of osu!stream?
 
-[nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
+[nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme "nekodex - osu!stream theme (1.48) available at Soundclound").
+
 Usually heard at Main Menu and tutorial screen.
 
 ### Credits?

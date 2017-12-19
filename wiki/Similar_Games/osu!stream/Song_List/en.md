@@ -43,9 +43,8 @@
 
 ***[Click here to go back to osu!stream][osu!stream wikilink]***
 
-- Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
-  - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
+  - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly `Stream Up` to Expert difficulty. Please note that this behaviour will not occur in the actual gameplay.
 - If the song can be found on osu!, it will be linked.
   - osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
 
@@ -91,7 +90,7 @@ Price: **Free**
 
 ## Cranky Pack Vol. 1
 
-Price: **USD$1.99**
+Price: **USD$0.99**
 
 **Packlist:-**
 
@@ -106,7 +105,7 @@ Price: **USD$1.99**
 
 ## OK Go Vol. 1
 
-Price: **USD$1.99**
+Price: **USD$0.99**
 
 **Packlist:-**
 
@@ -121,7 +120,7 @@ Price: **USD$1.99**
 
 ## Koizumi Vol. 1
 
-Price: **USD$2.99**
+Price: **USD$0.99**
 
 **Packlist:-**
 
@@ -207,7 +206,7 @@ Price: **USD$0.99**
 
 ## SHIKI Pack Vol. 1
 
-Price: **USD$1.99**
+Price: **USD$0.99**
 
 **Packlist:-**
 
@@ -226,42 +225,28 @@ Price: **USD$1.99**
 
 ![Song List][SL]
 
-_Song List_
-
 ---
 
 ![Song Information][SI]
-
-_Song Information_
 
 ---
 
 ![Store screen][Store]
 
-_Store screen_
-
 ---
 
 ![Loading Preview][Demo load]
-
-_Loading Preview_
 
 ---
 
 ![Preview Song Information][Demo song]
 
-_Preview Song Information_
-
 ---
 
 ![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)][Demo SU]
 
-_Preview Stream Up to Expert (Note: Does not occur in actual gameplay)_
-
 ---
 
 ![Preview of Expert play][Demo]
-
-_Preview of Expert play_
 
 ---
