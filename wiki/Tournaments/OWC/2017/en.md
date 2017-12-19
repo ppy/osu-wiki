@@ -46,16 +46,6 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Sunday, 17. December 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Poland | ![][flag_PL] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 14.00 UTC -6 |
-
-------------------------------------------------------------------------
-
 ## Participants
 
 ### Confirmed Rosters
@@ -94,6 +84,10 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 | ![][flag_TW] | **Taiwan** | **[Rucker](https://osu.ppy.sh/users/147515)**, [Flask](https://osu.ppy.sh/users/959763), [Koalazy](https://osu.ppy.sh/users/286740), [Rizer](https://osu.ppy.sh/users/5155973), [[RanYakumo]](https://osu.ppy.sh/users/1234432), [_Shield](https://osu.ppy.sh/users/1860489), [black1207](https://osu.ppy.sh/users/983149), [GfMRT](https://osu.ppy.sh/users/3163649) |
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [Spare](https://osu.ppy.sh/users/2204373), [Karthy](https://osu.ppy.sh/users/4196808), [Castiel](https://osu.ppy.sh/users/1986262), [Jameslike](https://osu.ppy.sh/users/2415743), [bahamete](https://osu.ppy.sh/users/960620), [Doomsday](https://osu.ppy.sh/users/18983), [OPJames](https://osu.ppy.sh/users/4117142) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [Toy](https://osu.ppy.sh/users/2757689), [HappyStick](https://osu.ppy.sh/users/256802), [Axarious](https://osu.ppy.sh/users/2614511), [idke](https://osu.ppy.sh/users/4650315), [fieryrage](https://osu.ppy.sh/users/3533958), [Monko2k](https://osu.ppy.sh/users/4852013), [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+
+------------------------------------------------------------------------
+
+![Winner Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
@@ -241,6 +235,24 @@ The osu! World Cup 2017 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Friday, 15. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/38335947) |
+| Germany ![][flag_DE] | 1 | 7 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38346733) |
+| Poland ![][flag_PL] | 7 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38350684) |
+
+| Saturday, 16. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United Kingdom ![][flag_GB] | 7 | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38367964) |
+| United States ![][flag_US] | 7 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38384430) |
+
+| Sunday, 17. December 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 7 | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38418895) |
+| Poland ![][flag_PL] | 7 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38421285) |
 
 ### Semifinals
 
