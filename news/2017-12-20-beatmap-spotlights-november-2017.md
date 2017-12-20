@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights: November 2017"
-date: 2017-12-18 16:00:00 +0000
+date: 2017-12-20 09:00:00 +0000
 ---
 
 The November Spotlights are here, and with that my last announcement before Kurokami officially takes charge! Enjoy the best of what the month has to offer, and nab yourself a shiny Spotlight medal in the process!
@@ -64,7 +64,7 @@ Other than the unusually difficult, but good Muzukashii and Oni difficulties, th
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/fall-of-fall.jpg)](https://osu.ppy.sh/s/646548)
 
-A neat map created by [Remus](https://osu.ppy.sh/u/6850949) in this month. He doesn't overuse any 1/4 (or even 1/6) patterns, which is quite surprising considering their status as a relatively newer mapper. The highlight of this map is the regular pattern usage and clever way of hitsounding in the guitar solo section that can distinguish different parts and make the whole section consistent.
+A neat map created by [Remus](https://osu.ppy.sh/u/6850949) in this month. He doesn't overuse any 1/4 (or even 1/6) patterns, which is quite surprising considering his status as a relatively newer mapper. The highlight of this map is the regular pattern usage and clever way of hitsounding in the guitar solo section that can distinguish different parts and make the whole section consistent.
 
 In conclusion, the entire map contains rather solid structure, well arranged hitsounds and patterns that make it worthy to be part of this month's Spotlights.
 
@@ -114,7 +114,8 @@ With the help of [Lude](https://osu.ppy.sh/u/6974536) and [Valentrix](https://os
 
 The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
 
-Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned! With that said, I thank everyone for their long standing participation and wish you all the very best for the future!
+Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned! 
 
+With that said, I thank everyone for their long standing participation and wish you all the very best for the future!
 
 —OnosakiHito
