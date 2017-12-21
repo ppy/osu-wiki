@@ -106,7 +106,7 @@ Any Markdown syntax that is not used to style text must be escaped, unless it is
 The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
 ```
 
-The escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
+The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
 
 ### Emphasizing
 
@@ -141,13 +141,13 @@ You must use italics when writing a note. For example:
 _Note: You will need a decent internet connection to connect to Bancho._
 ```
 
-### Headings
+### Headers
 
-Please limit to a heading level of 5.
+Please limit to a header level of 5 and never use headers to style or format text.
 
 If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
 
-Optionally, but preferably, add an extra line before and after the headings (this applies for both underline and hash styles). Doing so will help make the headings stand out a bit more when editing.
+Optionally, but preferably, add an extra line before and after the headers (this applies for both underline and hash styles). Doing so will help make the headers stand out a bit more when editing.
 
 #### Titles
 
@@ -170,11 +170,11 @@ Unlike titles, section headings can have small icons.
 All sections **must** contain some text, even if they are containers for subsections. For example:
 
     ## Game Modes
-    
+
     _See also: [Game Modes](/wiki/Game_Modes)._
-    
+
     ### ![](/wiki/shared/mode/osu.png) osu!
-    
+
     osu! is a frustrating but fun circle-clicking simulator.
 
 ### Lists
@@ -185,7 +185,7 @@ The spacing for both types of bullets is very important! (Please take note of th
 
 #### Bulleted
 
-Use bulleted lists when the order of the list does not matter. It is prefered to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
+Use bulleted lists when the order of the list does not matter. It is preferred to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
 
 #### Numbered
 
@@ -220,7 +220,7 @@ Use code for the following scenarios:
 
 ### Code blocks
 
-It is prefered to use the triple grave marks instead of the four prefixed spaces.
+It is preferred to use the triple grave marks instead of the four prefixed spaces.
 
 Code blocks do not use syntax highlighting in the osu!wiki.
 
@@ -228,7 +228,7 @@ Code blocks do not use syntax highlighting in the osu!wiki.
 
 You can use either the reference or inline style links.
 
-Keep in mind that there are good times to prefer one or the other. For example, one should use reference sytle links when linking to a flag multiple times. On the other hand, one could use inline style links when linking to an article.
+Keep in mind that there are good times to prefer one or the other. For example, one should use reference style links when linking to a flag multiple times. On the other hand, one could use inline style links when linking to an article.
 
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
@@ -255,20 +255,20 @@ To do this, open the [`redirect.yaml` file](https://github.com/ppy/osu-wiki/blob
 Here are some differences between redirect pathing and normal pathing:
 
 - If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
-- Redirects allows you to type in a short form of a folder rather than getting the entire path. For exmaple, `[OWC 2015](/wiki/Tournaments/OWC/2015)` would be `[OWC 2015](/wiki/OWC_2015)`.
+- Redirects allows you to type in a short form of a folder rather than getting the entire path. For example, `[OWC 2015](/wiki/Tournaments/OWC/2015)` would be `[OWC 2015](/wiki/OWC_2015)`.
 - Redirects are quicker and shorter in most situations. For example, `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)` would be `[Muzukashii](/wiki/Muzukashii)`.
 - Redirects are case insensitive. Meaning, you can use `[Beatmap Packs 0916](/wiki/bEaTmAp_pAcKs_0916)` and it will still work.
 - Redirects can handle section linking. For example, you can use `[EZ](/wiki/EZ)` instead of `[EZ](/wiki/Game_Modifiers/#easy)`.
 
 #### External
 
-Perfer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
+Prefer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
 
 External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
 
 ---
 
-Never use raw links for linking or have the link text be the url. For example:
+Never use raw links for linking or have the link text be the URL. For example:
 
 ```
 Do not: https://osu.ppy.sh/
@@ -291,7 +291,7 @@ Do (okay):
 `[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`
 `[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
 
-Do (prefered):
+Do (preferred):
 `[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`
 `[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 ```
@@ -378,7 +378,7 @@ All English articles should use plain English. Your word choice should explain t
 
 All English articles and locales without an ASC are to follow the following rules.
 
-### British english
+### British English
 
 In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
 
@@ -461,7 +461,7 @@ All abbreviations of **must** be capitalised. For example:
 
 ---
 
-Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbivation for "for example" (it is the abbrivation for "exercise").
+Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbreviation for "for example" (it is the abbreviation for "exercise").
 
 ### Serial comma
 
@@ -471,11 +471,11 @@ When a list consists of 3 or more items in a sentence, use the serial comma. For
 
 - The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
-Keep in mind that there are rare expections to not using the serial comma.
+Keep in mind that there are rare exceptions to not using the serial comma.
 
 ### Game modes
 
-When writting the name of the game modes, they are to be written as follows:
+When writing the name of the game modes, they are to be written as follows:
 
 - `osu!standard` (unofficial, but used to prevent ambiguity)
 - `osu!taiko`
@@ -543,4 +543,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the the _Beatmap Nominators_. Do not pluralize the abbreviation "BN" (never use `BNs`). Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Do not pluralize the abbreviation "BN" (never use `BNs`). Never use `BNG` or `Beatmap Nomination Group`.
