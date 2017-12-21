@@ -32,13 +32,21 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ### Syncing your fork
 
-1\. Go to your work of the `osu-wiki` repo.
+1\. Go to your fork of the `osu-wiki` repo.
 
-2\. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says, `This branch is {n} commits behind ppy:master` or similar, your branch is outdated.
+2\. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
-3\. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed, which may be unlikely the more commits you are behind.
+![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
-4\. To resolve this, see [the My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+![](img/fork-ahead.jpg "OK \(These are your commits\)")
+
+![](img/fork-behind.jpg "Potentially bad \(You branch is outdated\)")
+
+![](img/fork-ahead-behind.jpg "Potentially bad \(You branch is outdated with your commits\)")
+
+3\. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
+
+4\. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
 5\. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
@@ -49,7 +57,7 @@ At this point, you have two choices:
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
-*Note: You are not limited to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
+*Note: You are not limited to the two choices listed above for editing.* To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
 
 **When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
 
