@@ -87,7 +87,9 @@ These contributors have made massive contributions in the form of code, projects
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/tom94.png)
 
-The man and mind behind the rebirth of pp in osu!'s modern age, it is difficult to list another person who has had so much influence in how osu! is approached and played by the community at large. Responsible for the much of the mountainous mathematical magic and implementation of the ppv2 formula, Tom94's work is very much era-defining.
+Responsible for a huge number of additions and improvement to osu! and the osu!lazer project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The very definition of era-defining!
+
+The mathematical magic and wizardry responsible for such madness cannot be understated. Beyond that, Tom94's continued contributions to osu!lazer (and the underlying framework behind it) have greatly helped push the project forward, and we are immensely thankful for his work over the years.
 
 ### DrabWeb
 
