@@ -50,13 +50,13 @@ A long-standing member of the upper echelon of the modding and mapping scene, Ga
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/mao.png)
 
-One of the most consistently reliable members of the QAT and a former member of the now defunct BAT, Mao's contributions range from manning the qualified map report queue, being a major presence in the early Ranking Criteria rework teams, and assisting greatly in the construction of the early Beatmap Nominator tests and scoring process. 
+One of the most consistently reliable members of the BAT and now the QAT, Mao's contributions range from manning the qualified map report queue, being a major presence in the early Ranking Criteria rework teams, and assisting greatly in the construction of the early Beatmap Nominator tests and scoring process. 
 
 ### Irreversible
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/irreversible.png)
 
-One of the oldest members of the QAT who was once also a member of the old BAT, Irreversible's countless contributions are beyond the means to list here. Easily spending hundreds, nearly thousands of hours maintaining the modding and mapping domain, Irreversible's tireless work has helped make the game better for everyone.
+One of the oldest members of the BAT and now the QAT, Irreversible's countless contributions are beyond the means to list here. Easily spending hundreds, nearly thousands of hours maintaining the modding and mapping domain, Irreversible's tireless work has helped make the game better for everyone.
 
 ### Nwolf
 
