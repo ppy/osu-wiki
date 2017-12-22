@@ -42,7 +42,7 @@ Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania.
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. The numbers that appear besides the difficulty name are the number of pending discussions it currently has to resolve. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
+Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. The number that appears besides the difficulty name is the number of pending discussions which currently has that needs to be resolved. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
 
 ### Modding status
 
@@ -82,11 +82,11 @@ Hype train is similar to the previous star priority system. A user can submit Pr
 
 *Note: the creator can't Hype up their own beatmap. Praise must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs.*
 
-Hype must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs. Players are required to play through a difficulty in the beatmapset in order to add Hype to a Beatmap.
+If you want to add Hype, it must be done in the General (All Difficulties) tab, not the General or the Timeline tabs. Players are required to play through a difficulty in the beatmapset in order to add Hype to a beatmap.
 
 ### Nomination
 
-Once a beatmap has accumulated 5 Hype, the beatmap is eligible for Nomination. This works as it did with the previous modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the [qualified](/wiki/qualified) state.
+Once a beatmap accumulates 5 Hype, the beatmap is eligible for Nomination. This works as it did with the previous modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the [qualified](/wiki/qualified) state.
 
 ## Mod submission field
 
@@ -123,7 +123,7 @@ This is where you submit your mod. You can choose between Praise, Suggestion, or
 
 ### Pin
 
-A blue button with a pin icon. Appears to do nothing at this time.
+A blue button with a pin icon. It currently appears to do nothing.
 
 ## Mod Discussion field
 
@@ -132,7 +132,7 @@ A blue button with a pin icon. Appears to do nothing at this time.
 ### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
+- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on Suggestions or Problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
@@ -144,7 +144,7 @@ A blue button with a pin icon. Appears to do nothing at this time.
 
 ### Hype
 
-Hype is used to help push beatmaps forward to nomination; similar to how Star Priority was previously used. Once a beatmapset has received 5 Hype, it becomes eligible for Nomination. Please note the following:
+Hype is used to help push beatmaps forward to nomination; similar to how Star Priority was previously used. Once a beatmapset receives 5 Hype, it becomes eligible for Nomination. Please note the following:
 
 - Each user has a limited supply of hype (5 per month to start).
   - You will regain a hype 30 days after that one hype was used.
@@ -152,15 +152,15 @@ Hype is used to help push beatmaps forward to nomination; similar to how Star Pr
 
 ### Nomination
 
-Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all Suggestions and Problems resolved before it can be ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
+Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all Suggestions and Problems resolved before it can get ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
 
 ### Kudosu!
 
 ![](img/thumbs.jpg "Thumbs up for Kudosu!")
 
-Giving a thumbs up to a suggestion or problem in the discussion field will earn the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder earns. Any user besides the poster can thumbs up any post. *Note: You get 60 votes every hour.*
+Giving a thumbs up to a suggestion or problem in the discussion field will give the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder gets. Any user besides the poster can thumbs up any post. *Note: You get 60 votes every hour.*
 
-Currently, these are the thresholds for earning an amount of Kudosu!:
+Currently, these are the thresholds for earning a certain amount of Kudosu!:
 
 - 1 thumbs up = 1 Kudosu!
 - 2 thumbs up = 2 Kudosu!
@@ -175,14 +175,14 @@ Currently, these are the thresholds for earning an amount of Kudosu!:
 - The Timeline section requires at least one timestamp before you can submit your post.
 - Check to see if the issue has already been addressed when the similar post warning pops up.
 - Do you like the beatmap? Give it some Praise in the General (All Difficulties) section to increase the amount of Hype on the Hype Train. This helps the beatmap move closer to nomination.
-- Be sure to vote on suggestions or problems, as they now award Kudosu! to creators.
+- Be sure to vote on Suggestions or Problems, as they now award Kudosu! to creators.
 
 ## Tips
 
 - You can filter the mods by using the buttons on the Beatmap Information's Mod Status. You can for example, look at only pending posts.
 - You can edit or delete your posts if you submitted a post and found a mistake.
 - As the creator, you may reopen any previously resolved issue by responding to the post and unchecking Resolved.
-- You can edit your Beatmap description by using the mapset's page. Click on the edit icon in the top right of the description field.
+- You can edit your Beatmap description by using the beatmapset's page. Click on the edit icon in the top right of the description field.
 
 ## Step by step guide to posting a mod
 
@@ -198,7 +198,7 @@ Your post will be submitted! You can restart at step 3 if you wish to continue m
 
 ### How do I edit my beatmap's description with Beatmap Discussion?
 
-You can edit your beatmap description on the new site by either submitting your map and editing it like the past, or you may simply edit it at any time by clicking on the edit icon in the top right of the description field in the beatmapset's page.
+You can edit your beatmap's description on the new site by either submitting your map and editing it like in the past, or you may simply edit it at any time by clicking on the edit icon in the top right of the description field in the beatmapset's page.
 
 ### Will I be able to mod with the older system after Beatmap Discussion is released?
 
