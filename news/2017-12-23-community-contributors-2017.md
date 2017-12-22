@@ -34,6 +34,12 @@ As of this post, OnosakiHito has since retired from the QAT for a long-earned re
 
 A towering presence in the *osu!catch* scene, Deif is pretty much responsible for the entire structure surrounding that portion of the community. His contributions range from conceptual to organizational, building and reworking the *osu!catch* ranking criteria, setting up *osu!catch* modding queues, and even assisting massively with the running and maintenance of countless of World Cups.
 
+### deadbeat 
+
+![](/wiki/shared/news/2017-12-23-community-contributors-2017/deadbeat.png)
+
+A reliable fixture in the community for several years now, deadbeat's contributions expand across numerous domains, from assistance with the osu!academy project to countless media projects, the osu!talks, the osu! Coffee Hour, written article assistance, the osu!weekly, osu!monthly, and so much more, including an incredibly long-standing tenure among the Global Moderation Team, AND hundreds of hours of dedicated assistance in running the World Cups.
+
 ### Garven
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/garven.png)
@@ -64,11 +70,13 @@ Statistically speaking, Nwolf is the World Cup tournaments statistician to end a
 
 Referee extraordinaire, there are scarce few community-run tournaments that do not have Yazzehh's presence in them somewhere. Her contributions lauded in an episode of the osu! Coffee Hour, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her attitude and those like her that the future of the community tournaments scene rests.
 
-### deadbeat 
+### Evrien
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/deadbeat.png)
+![](/wiki/shared/news/2017-12-23-community-contributors-2017/evrien.png)
 
-A reliable fixture in the community for several years now, deadbeat's contributions expand across numerous domains, from assistance with the osu!academy project to countless media projects, the osu!talks, the osu! Coffee Hour, written article assistance, the osu!weekly, osu!monthly, and so much more, including an incredibly long-standing tenure among the Global Moderation Team, AND hundreds of hours of dedicated assistance in running the World Cups.
+For over two years, Evrien has been tirelessly involving himself in some of the most prestigious events in the game. From featuring as a caster-commentator for the osu! World Cups, to being the mind responsible behind the recap writeups for countless community happenings ranging from meetups, to tournament stage recaps and more.
+
+Evrien has made it his mission to ensure everybody knows what the best of the best are up to, and we have people like him to thank for the growing prominence of osu!'s tournament scene.
 
 
 ## Development
