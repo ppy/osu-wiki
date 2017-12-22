@@ -6,13 +6,13 @@ date: 2017-12-23 10:00:00 +0000
 
 Among the osu! community, there are a select assortment of amazing individuals who go above and beyond to help make osu! better for everyone. As is tradition, every year we take a moment to reflect on some particularly outstanding contributors.
 
-![](bannergoeshere)
+![](/wiki/shared/news/2017-12-23-community-contributors-2017/banner.jpg)
 
 If you're unfamiliar with this sort of thing, you may have already seen or noticed a few people wearing the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.png) on their profile. These respected individuals have at some point in osu!'s history, made massive contributions that have helped shape the game in a number of ways.
 
 Today, we honor many more. 
 
-Do note, there are countless others who contribute massively - this list is by no means exhaustive, and merely represents an acknowledgement of massive, continued contribution over a long period of time as observed by many people.
+Do note, there are countless others who contribute massively - this list is by no means exhaustive, and merely represents an acknowledgement of massive, continued contribution over a long period of time as observed by members of the osu!team.
 
 ## Community
 
