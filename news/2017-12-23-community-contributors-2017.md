@@ -24,15 +24,15 @@ The contributors below are acknowledged as being some of the most formative indi
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/onosakihito.png)
 
-Instrumental in the genesis of the early *osu!taiko* community and mapping scene, OnosakiHito's contributions span across dozens of domains, ranging from the Charting Assembly Team, to the later production and management of the Beatmap Spotlights, prototyping and design work for the hush-hush Campaign mode, and an incredibly long, nearly gap-less tenure as a member of the BAT and now the QAT.
+Instrumental in the genesis of the early osu!taiko community and mapping scene, OnosakiHito's contributions span across dozens of domains, ranging from the Charting Assembly Team, to the later production and management of the Beatmap Spotlights, prototyping and design work for the hush-hush Campaign mode, and an incredibly long, nearly gap-less tenure as a member of the BAT and now the QAT.
 
-As of this post, OnosakiHito has since retired from the QAT for a long-earned rest, but the sheer scope and depth of his contributions make this award something long in the running, and we are sad to see him settle down into the quieter years of his time with osu!
+OnosakiHito has since retired from the QAT for a long-earned rest, but the sheer scope and depth of his contributions make this award something long in the running, and we are sad to see him step away.
 
 ### Deif
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/deif.png)
 
-A towering presence in the *osu!catch* scene, Deif is pretty much responsible for the entire structure surrounding that portion of the community. His contributions range from conceptual to organizational, building and reworking the *osu!catch* ranking criteria, setting up *osu!catch* modding queues, and even assisting massively with the running and maintenance of countless of World Cups.
+A towering presence in the osu!catch scene, Deif is pretty much responsible for the entire structure surrounding that section of the community. His contributions range from conceptual to organizational, such as building and reworking the *osu!catch* ranking criteria, setting up *osu!catch* modding queues, and even assisting massively with the running and maintenance of countless of World Cups across all modes.
 
 ### deadbeat 
 
@@ -62,13 +62,13 @@ One of the oldest members of the QAT who was once also a member of the old BAT, 
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/nwolf.png)
 
-Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's work is responsible for allowing so many people the means to follow the tournaments as they happen, and guiding and educating the intricate artistry that make these tournaments tick behind the scenes.
+Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen. His insight and trends tracking have been instrumental in guiding many aspects of the tournament's growth, such as mappool selection and more.
 
 ### Yazzehh
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/yazzehh.png)
 
-Referee extraordinaire, there are scarce few community-run tournaments that do not have Yazzehh's presence in them somewhere. Her contributions lauded in an episode of the osu! Coffee Hour, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her attitude and those like her that the future of the community tournaments scene rests.
+Referee extraordinaire, there are scarce few community-run tournaments that do not have Yazzehh's presence in them somewhere. Her contributions lauded in an episode of the osu! Coffee Hour, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her attitude and those like her that the future of the community tournaments scene stems from.
 
 ### Evrien
 
@@ -81,7 +81,7 @@ Evrien has made it his mission to ensure everybody knows what the best of the be
 
 ## Development
 
-These contributors have made massive contributions in the form of code, projects, services, or a mixture of all three. These unsung heroes are the lifeblood in which the game's future lies.
+These contributors have made massive contributions in the form of code, projects, services, or a mixture of all three. These unsung heroes are the beating heart from which the game's future is built.
 
 ### Tom94
 
@@ -105,7 +105,7 @@ The mind behind numerous low-level fixes, refactors and enhancements, huoyaoyuan
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/kj415j45.png)
 
-Responsible for largely organizing the Chinese translation effort on both the osu!wiki and the new website, kj415j45 has opened up the game to a huge portion of osu!'s community. It is on the backs of people like kj415j45 that osu! has become as wide-reaching and inclusive as it is, and we are grateful to have had so much of his time invested into the project.
+Responsible for largely organizing the Chinese translation effort on both the osu!wiki and the new website, kj415j45 has opened up the game to a huge portion of osu!'s community. It is on the backs of people like kj415j45 that osu! has become as wide-reaching and inclusive as it is, and we are grateful to have had so much of his time and hard work invested into the project.
 
 ### jorolf
 
@@ -160,7 +160,7 @@ One of the earliest and most reliable contributors to the osu!wiki project, TPGP
 
 -------
 
-2017 has been an incredible year for osu!, and we're super proud to see people continuing to step up and help keep the game going for everybody else. 
+2017 has been an incredible year for osu!, and we're super proud to see people continuing to step up and help keep the game going strong.
 
 osu! is very unique among many online communities in that individuals with sufficient drive and gusto may use their talents to help shape the game's direction and outcome - from player to contributor alike.
 
