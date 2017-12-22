@@ -10,11 +10,11 @@ New beatmaps submitted via the Beatmap Submission System will use Beatmap Discus
 
 ### Old beatmaps
 
-A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets. All existing maps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Beatmap Discussion.
+A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets. All existing beatmaps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Beatmap Discussion.
 
 ### Returning to the old modding system
 
-It is no longer possible to return to the old modding system. The only maps that may use the old system are those with mod posts. If maps already use Modding Discussion, the forum thread will not have a reply button, instead, it will replaced with a button that redirects to the Beatmap Discussion panel.
+It is no longer possible to return to the old modding system. The only beatmaps that may use the old system are those with mod posts. If beatmaps already use Beatmap Discussion, the forum thread will not have a reply button, instead, it will replaced with a button that redirects to the Beatmap Discussion panel.
 
 ## Accessing the Beatmap Discussion page
 
@@ -38,7 +38,7 @@ Clicking on `Modding/Discussion` on the beatmap's page will take you to the page
 
 Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. You can only select each game mode if the beatmapset has a difficulty with said game mode.
 
-### Beatmap page / Difficulty selection
+## Beatmap page / Difficulty selection
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
@@ -76,7 +76,7 @@ This replaces beatmap subscription. You can track the beatmaps' status and open 
 
 ### Hype Train
 
-Hype train is similar to the old star priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train.
+Hype train is similar to the previous star priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train.
 
 > Adding praise ❤ will raise this beatmap's hype, making it more visible for nomination and ranking!
 
@@ -86,7 +86,7 @@ Hype must be done in the General (All Difficulties) section to add Hype. It will
 
 ### Nomination
 
-Once a beatmap has accumulated 5 Hype, the beatmap is eligible for Nomination. This works as it did with the old modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the [qualified](/wiki/qualified) state.
+Once a beatmap has accumulated 5 Hype, the beatmap is eligible for Nomination. This works as it did with the previous modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the [qualified](/wiki/qualified) state.
 
 ## Mod submission field
 
@@ -152,7 +152,7 @@ Hype is used to help push beatmaps forward to nomination; similar to how Star Pr
 
 ### Nomination
 
-Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Maps must have all Suggestions and Problems resolved before it can be ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
+Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all Suggestions and Problems resolved before it can be ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
 
 ### Kudosu!
 
@@ -168,7 +168,7 @@ Currently, these are the thresholds for earning an amount of Kudosu!:
 
 ## Reminders
 
-- Submit your beatmap through Stable (Latest), Beta, or Cutting Edge to use Beatmap Discussion. Fallback submits to the old system.
+- Submit your beatmap through Stable (Latest), Beta, or Cutting Edge to use Beatmap Discussion. Fallback submits to the previous system.
 - Choose the correct mode and difficulty you wish to mod!
 - Select the proper section you are submitting your mod to.
 - **Only post one issue at a time.** Do not submit multiple issues in a single post!
@@ -206,7 +206,7 @@ You should mod with the system the creator has chosen. If they focus on Beatmap 
 
 ### I don't like Beatmap Discussion! How do go back to the older system?
 
-Beatmap Discussion is now live. There is no way to return to the older system; however, old maps with mods may still use the old modding system.
+Beatmap Discussion is now live. There is no way to return to the older system; however, pre-Beatmap Discussion beatmaps with mods may still use the previous modding system.
 
 ## See also
 
