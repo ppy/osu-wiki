@@ -10,7 +10,7 @@ Among the osu! community, there are a select assortment of amazing individuals w
 
 If you're unfamiliar with this sort of thing, you may have already seen or noticed a few people wearing the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.png) on their profile. These respected individuals have at some point in osu!'s history, made massive contributions that have helped shape the game in a number of ways.
 
-Today, we honor many more. 
+Today, we honour many more. 
 
 Do note, there are countless others who contribute massively - this list is by no means exhaustive, and merely represents an acknowledgement of massive, continued contribution over a long period of time as observed by members of the osu!team.
 
@@ -32,13 +32,13 @@ OnosakiHito has since retired from the QAT for a long-earned rest, but the sheer
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/deif.png)
 
-A towering presence in the osu!catch scene, Deif is pretty much responsible for the entire structure surrounding that section of the community. His contributions range from conceptual to organizational, such as building and reworking the *osu!catch* ranking criteria, setting up *osu!catch* modding queues, and even assisting massively with the running and maintenance of countless of World Cups across all modes.
+A towering presence in the osu!catch scene, Deif is pretty much responsible for the entire structure surrounding that section of the community. His contributions range from conceptual to organizational, such as building and reworking the osu!catch ranking criteria, setting up osu!catch modding queues, and even assisting massively with the running and maintenance of countless of World Cups across all modes.
 
 ### deadbeat 
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/deadbeat.png)
 
-A reliable fixture in the community for several years now, deadbeat's contributions expand across numerous domains, from assistance with the osu!academy project to countless media projects, the osu!talks, the osu! Coffee Hour, written article assistance, the osu!weekly, osu!monthly, and so much more, including an incredibly long-standing tenure among the Global Moderation Team, AND hundreds of hours of dedicated assistance in running the World Cups.
+A reliable fixture in the community for several years now, deadbeat's contributions expand across numerous domains, from assistance with the osu!academy project to the osu!talks, the osu! Coffee Hour, news article assistance, the osu!weekly, osu!monthly, and so much more - including an incredibly long-standing tenure among the Global Moderation Team, and hundreds of hours of dedicated assistance in running the World Cups.
 
 ### Garven
 
@@ -62,13 +62,15 @@ One of the oldest members of the BAT and now the QAT, Irreversible's countless c
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/nwolf.png)
 
-Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen. His insight and trends tracking have been instrumental in guiding many aspects of the tournament's growth, such as mappool selection and more.
+Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen. 
+
+His insight and trends tracking have been instrumental in guiding many aspects of the tournament's growth, such as mappool selection and more.
 
 ### Yazzehh
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/yazzehh.png)
 
-Referee extraordinaire, there are scarce few community-run tournaments that do not have Yazzehh's presence in them somewhere. Her contributions lauded in an episode of the osu! Coffee Hour, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her attitude and those like her that the future of the community tournaments scene stems from.
+Referee extraordinaire, there are only a few community-run tournaments that do not have Yazzehh's presence in them somewhere. Refereeing for well over 40 community tournaments, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her efforts and those like her that the future of the community tournaments scene stems from.
 
 ### Evrien
 
@@ -87,9 +89,9 @@ These contributors have made massive contributions in the form of code, projects
 
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/tom94.png)
 
-Responsible for a huge number of additions and improvement to osu! and the osu!lazer project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The very definition of era-defining!
+Responsible for a huge number of additions and improvement to osu! and the osu!lazer project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The mathematical magic and wizardry responsible for such madness cannot be understated.
 
-The mathematical magic and wizardry responsible for such madness cannot be understated. Beyond that, Tom94's continued contributions to osu!lazer (and the underlying framework behind it) have greatly helped push the project forward, and we are immensely thankful for his work over the years.
+Beyond that, his continued contributions to osu!lazer (and the underlying framework behind it) have greatly helped push the project forward, and while he may have retreated into a less involved role in recent months, he remains an integral part of the team behind osu!, and we're very grateful to have had him work with us.
 
 ### DrabWeb
 
@@ -136,11 +138,6 @@ One of the minds behind the Scorewatch project, Raveille's desire to showcase th
 ![](/wiki/shared/news/2017-12-23-community-contributors-2017/thepoon.png)
 
 The second half of the Scorewatch project's leadership, ThePooN may very well be a top player in his own right, but this did not stop him from spending hundreds of hours of his time helping bring exposure to the amazing performances of his peers.
-
-### Afterword
-
-Raveille and ThePooN are notable in that together, they are the first set of community contributors to be awarded for their joint efforts in making cool stuff happen. Hopefully we'll see more of this in the future!
-
 
 ## osu!wiki
 
