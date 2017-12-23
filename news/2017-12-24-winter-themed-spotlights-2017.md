@@ -4,7 +4,7 @@ title: "Winter Themed Spotlights 2017"
 date: 2017-12-24 13:31:35 +0000
 ---
 
-Greetings everyone! We hope all of you have a wonderful and snowy Christmas today and celebrate it with loved ones. For this special day, the Spotlights Team prepared a winter themed spotlight for those who feel like only presents are just not enough. Let's drink some hot chocolate at this special day while clicking those circles; hitting the drum; catching those healthy fruits and go octopus-mode with the squares!
+Greetings everyone! We hope all of you have a wonderful and snowy Christmas today and celebrate it with loved ones. For this special day, the Spotlights Team prepared a winter themed spotlight for those who feel like only presents are just not enough. Let's drink some hot chocolate at this special day while clicking those circles, hitting the drum, catching those healthy fruits and go octopus-mode with the squares!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
