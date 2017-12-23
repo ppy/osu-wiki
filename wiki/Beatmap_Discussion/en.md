@@ -42,7 +42,7 @@ Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania.
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. The number that appears besides the difficulty name is the number of pending discussions which currently has that needs to be resolved. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
+Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. The number that appears besides the difficulty name is the number of pending discussions which have to get resolved. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
 
 ### Modding status
 
