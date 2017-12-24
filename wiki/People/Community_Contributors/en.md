@@ -88,25 +88,25 @@ The current users with this badge are noted in this table:
 
 *Also see the announcement post: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
 
-| User | Title | Contributions |
-| ---- | ----- | ------------- |
-| [OnosakiHito](/users/290128) | osu!taiko paragon | Outstanding work in forming the early osu!taiko community, several years of tenure in the BAT/QAT |
-| [Deif](/users/318565) | osu!catch paragon | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
-| [deadbeat](/users/128370) | does all the things | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the GMT |
-| [Garven](/users/244216) | honored oldBAT/QAT | Years of dedicated service to the BAT/QAT, and immense contribution to ranking criteria reworks |
-| [Mao](/users/2204515) | oldBAT/QAT | Years of dedicated service to the BAT/QAT, major presence in the ranking criteria rework and Beatmap Nominator test management |
-| [Irreversible](/users/1287964) | oldBAT/QAT | Dedicated contribution to the BAT/QAT across over countless years |
-| [Nwolf](/users/1910766) | statistician supreme | Hundreds of hours of World Cup tournaments statistics and analysis |
-| [Yazzehh](/users/7068973) | referee extraordinaire | Outstanding referee presence in dozens of community tournaments |
-| [Evrien](/users/791660) | master caster | Outstanding performance in casting, commentary, and event-based writeups/recaps |
-| [Tom94](/users/1857058) | core osu!developer | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, state rating, and more! |
-| [DrabWeb](/users/6946022) | osu!lazer developer | Outstanding contribution to the osu!lazer project |
-| [EVAST](/users/8195163) | osu!lazer developer | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
-| [huoyaoyuan](/users/2428732) | osu!lazer developer | Outstanding contribution to the osu!lazer project |
-| [kj415j45](/users/9367540) | localiser extraordinaire | Outstanding contribution and organization of the Chinese localisation project for osu!, osu!wiki, and osu!lazer |
-| [jorolf](/users/7004641) | developer | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
-| [Syrin](/users/5701575) | developer | Creator of PerformancePlus and osu!chan |
-| [Raveille](/users/1388767) | scorewatcher | Outstanding effort in the production and publishing of the Score project |
-| [ThePooN](/users/718454) | scorewatcher | Outstanding effort in the production and publishing of the Score project |
-| [MegaApple_Pi](/users/2148208) | wikifriend | Outstanding efforts in furthering the osu!wiki project with countless revisions, reworks and reviews |
-| [TPGPL](/users/3944705) | fast merging.gif | Cornerstone of the osu!wiki project and outstanding contribution throughout the years |
+| User | Contributions |
+| ---- | ------------- |
+| [OnosakiHito](/users/290128) | Outstanding work in forming the early osu!taiko community, several years of tenure in the BAT/QAT |
+| [Deif](/users/318565) | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
+| [deadbeat](/users/128370) | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the GMT |
+| [Garven](/users/244216) | Years of dedicated service to the BAT/QAT, and immense contribution to ranking criteria reworks |
+| [Mao](/users/2204515) | Years of dedicated service to the BAT/QAT, major presence in the ranking criteria rework and Beatmap Nominator test management |
+| [Irreversible](/users/1287964) | Dedicated contribution to the BAT/QAT across over countless years |
+| [Nwolf](/users/1910766) | Hundreds of hours of World Cup tournaments statistics and analysis |
+| [Yazzehh](/users/7068973) | Outstanding referee presence in dozens of community tournaments |
+| [Evrien](/users/791660) | Outstanding performance in casting, commentary, and event-based writeups/recaps |
+| [Tom94](/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, state rating, and more! |
+| [DrabWeb](/users/6946022) | Outstanding contribution to the osu!lazer project |
+| [EVAST](/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
+| [huoyaoyuan](/users/2428732) | Outstanding contribution to the osu!lazer project |
+| [kj415j45](/users/9367540) | Outstanding contribution and organization of the Chinese localisation project for osu!, osu!wiki, and osu!lazer |
+| [jorolf](/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
+| [Syrin](/users/5701575) | Creator of PerformancePlus and osu!chan |
+| [Raveille](/users/1388767) | Outstanding effort in the production and publishing of the Score project |
+| [ThePooN](/users/718454) | Outstanding effort in the production and publishing of the Score project |
+| [MegaApple_Pi](/users/2148208) | Outstanding efforts in furthering the osu!wiki project with countless revisions, reworks and reviews |
+| [TPGPL](/users/3944705) | Cornerstone of the osu!wiki project and outstanding contribution throughout the years |
