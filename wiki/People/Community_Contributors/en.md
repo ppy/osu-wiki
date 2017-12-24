@@ -9,9 +9,11 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 The current users with this badge are noted in this table:
 
-## 08. August 2013
+## 2013
 
-_Also see the [osu! community contributors](https://osu.ppy.sh/forum/p/2489459) forum thread._
+### August
+
+*Also see the forum thread: [osu! community contributors](https://osu.ppy.sh/forum/p/2489459).*
 
 | User | Contributions |
 | ---- | ------------- |
@@ -31,7 +33,9 @@ _Also see the [osu! community contributors](https://osu.ppy.sh/forum/p/2489459) 
 | [Sinistro](https://osu.ppy.sh/u/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
-## March 2015
+## 2015
+
+### March
 
 | User | Contributions |
 | ---- | ------------- |
@@ -39,9 +43,11 @@ _Also see the [osu! community contributors](https://osu.ppy.sh/forum/p/2489459) 
 | [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Outstanding contribution to the osu!wiki. |
 | [givenameplz](https://osu.ppy.sh/u/947499) | osu!Rank & osu!Post development. |
 
-## January 2016
+## 2016
 
-_Also see the [Community Contributor Badges (January 2016)](https://osu.ppy.sh/news/136976187198) announement post._
+### January
+
+*Also see the announcement post: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
 
 | User | Contributions |
 | ---- | ------------- |
@@ -54,17 +60,17 @@ _Also see the [Community Contributor Badges (January 2016)](https://osu.ppy.sh/n
 | [Hatsu](https://osu.ppy.sh/u/322480) | Mikuia.tv - osu! twitch bot toolkit development |
 | [Tillerino](https://osu.ppy.sh/u/2070907) | Beatmap recommendation bot development |
 
-## March 2016
+### March
 
-_Also see the [osu!weekly #53](https://osu.ppy.sh/news/141509444448) announement post._
+*Also see the announcement post: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
 
 | User | Contributions |
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
 
-## November 2016
+### November
 
-_Also see the [Recognising the Best of the Best](https://osu.ppy.sh/news/152637359823) announement post._
+*Also see the announcement post: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
 
 | User | Contributions |
 | ---- | ------------- |
