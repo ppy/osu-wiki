@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Community Contributors: 2017"
-date: 2017-12-23 10:00:00 +0000
+date: 2017-12-24 10:00:00 +0000
 ---
 
 Among the osu! community, there are a select assortment of amazing individuals who go above and beyond to help make osu! better for everyone. As is tradition, every year we take a moment to reflect on some particularly outstanding contributors.
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/banner.jpg)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/banner.jpg)
 
 If you're unfamiliar with this sort of thing, you may have already seen or noticed a few people wearing the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.png) on their profile. These respected individuals have at some point in osu!'s history, made massive contributions that have helped shape the game in a number of ways.
 
@@ -22,7 +22,7 @@ The contributors below are acknowledged as being some of the most formative indi
 
 ### OnosakiHito
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/onosakihito.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/onosakihito.png)
 
 Instrumental in the genesis of the early osu!taiko community and mapping scene, OnosakiHito's contributions span across dozens of domains, ranging from the Charting Assembly Team, to the later production and management of the Beatmap Spotlights, prototyping and design work for the hush-hush Campaign mode, and an incredibly long, nearly gap-less tenure as a member of the BAT and now the QAT.
 
@@ -30,37 +30,37 @@ OnosakiHito has since retired from the QAT for a long-earned rest, but the sheer
 
 ### Deif
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/deif.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/deif.png)
 
 A towering presence in the osu!catch scene, Deif is pretty much responsible for the entire structure surrounding that section of the community. His contributions range from conceptual to organizational, such as building and reworking the osu!catch ranking criteria, setting up osu!catch modding queues, and even assisting massively with the running and maintenance of countless of World Cups across all modes.
 
 ### deadbeat 
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/deadbeat.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/deadbeat.png)
 
 A reliable fixture in the community for several years now, deadbeat's contributions expand across numerous domains, from assistance with the osu!academy project to the osu!talks, the osu! Coffee Hour, news article assistance, the osu!weekly, osu!monthly, and so much more - including an incredibly long-standing tenure among the Global Moderation Team, and hundreds of hours of dedicated assistance in running the World Cups.
 
 ### Garven
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/garven.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/garven.png)
 
 A long-standing member of the upper echelon of the modding and mapping scene, Garven was in his prime, a member of the BAT and later the QAT. He was one of the scarce few members to consistently check qualified maps for a full year, and was an instrumental part of the early Ranking Criteria rework teams.
 
 ### Mao
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/mao.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/mao.png)
 
 One of the most consistently reliable members of the BAT and now the QAT, Mao's contributions range from manning the qualified map report queue, being a major presence in the early Ranking Criteria rework teams, and assisting greatly in the construction of the early Beatmap Nominator tests and scoring process. 
 
 ### Irreversible
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/irreversible.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/irreversible.png)
 
 One of the oldest members of the BAT and now the QAT, Irreversible's countless contributions are beyond the means to list here. Easily spending hundreds, nearly thousands of hours maintaining the modding and mapping domain, Irreversible's tireless work has helped make the game better for everyone.
 
 ### Nwolf
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/nwolf.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/nwolf.png)
 
 Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen. 
 
@@ -68,13 +68,13 @@ His insight and trends tracking have been instrumental in guiding many aspects o
 
 ### Yazzehh
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/yazzehh.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/yazzehh.png)
 
 Referee extraordinaire, there are only a few community-run tournaments that do not have Yazzehh's presence in them somewhere. Refereeing for well over 40 community tournaments, Yazzehh is a poster-child for the 'get in and make it happen' attitude that makes osu! tick, and it is through her efforts and those like her that the future of the community tournaments scene stems from.
 
 ### Evrien
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/evrien.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/evrien.png)
 
 For over two years, Evrien has been tirelessly involving himself in some of the most prestigious events in the game. From featuring as a caster-commentator for the osu! World Cups, to being the mind responsible behind the recap writeups for countless community happenings ranging from meetups, to tournament stage recaps and more.
 
@@ -87,7 +87,7 @@ These contributors have made massive contributions in the form of code, projects
 
 ### Tom94
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/tom94.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/tom94.png)
 
 Responsible for a huge number of additions and improvement to osu! and the osu!lazer project, Tom94's reach extends well into the heart of the game's core gameplay - his changes to star rating and pp proving to be the cornerstone of the game's progression in recent times. The mathematical magic and wizardry responsible for such madness cannot be understated.
 
@@ -95,31 +95,37 @@ Beyond that, his continued contributions to osu!lazer (and the underlying framew
 
 ### DrabWeb
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/drabweb.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/drabweb.png)
 
 Responsible for numerous display views ranging from pause overlays, to mod selection, popup dialogs, leaderboards, the social browser, multiplayer rooms, medal splashes and much more, DrabWeb's contributions are as important as they are numerous.
 
+### EVAST
+
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/evast.png)
+
+A prime contributor to the osu!lazer project, EVAST's work has been instrumental in improving countless aspects of the new client, and his expertise and continued dedication to pushing the project forward is greatly valued.
+
 ### huoyaoyuan
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/huoyaoyuan.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/huoyaoyuan.png)
 
 The mind behind numerous low-level fixes, refactors and enhancements, huoyaoyuan's tireless work and contribution have brought the osu!lazer project forward in leaps and bounds.
 
 ### kj415j45
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/kj415j45.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/kj415j45.png)
 
 Responsible for largely organizing the Chinese translation effort on both the osu!wiki and the new website, kj415j45 has opened up the game to a huge portion of osu!'s community. It is on the backs of people like kj415j45 that osu! has become as wide-reaching and inclusive as it is, and we are grateful to have had so much of his time and hard work invested into the project.
 
 ### jorolf
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/jorolf.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/jorolf.png)
 
 From developing numerous fixes and features for the osu!lazer project to some of the streaming tools used by the osu!academy and media crew to make things like the osu!talks happen, jorolf's contributions have driven osu! forward in subtle, but important ways.
 
 ### Syrin 
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/syrin.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/syrin.png)
 
 The developer behind many popular tools and sites such as PeformancePlus, and osu!chan, Syrin's efforts to help people better understand their progression, scores, and skills have been widely appreciated by many in the community.
 
@@ -129,13 +135,13 @@ Responsible for collating the happenings of the osu! community into bite-sized f
 
 ### Raveille
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/raveille.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/raveille.png)
 
 One of the minds behind the Scorewatch project, Raveille's desire to showcase the amazing performance of others culminated in the birth of a regular media staple in osu! for almost a full year straight, without rest.
 
 ### ThePooN
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/thepoon.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/thepoon.png)
 
 The second half of the Scorewatch project's leadership, ThePooN may very well be a top player in his own right, but this did not stop him from spending hundreds of hours of his time helping bring exposure to the amazing performances of his peers.
 
@@ -147,13 +153,13 @@ The contributors listed within this section have contributed immensely towards t
 
 ### MegaApple_Pi
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/megaapple_pi.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/megaapple_pi.png)
 
 By far and above the most active and reliable contributor to the osu!wiki project, MegaApple_Pi's work is so numerous and widespread that it is nearly impossible to find a portion of the project that he hasn't been involved in. Without him, the project would be a shadow of its current self, and we are immensely thankful for his continued contribution to the project.
 
 ### TPGPL
 
-![](/wiki/shared/news/2017-12-23-community-contributors-2017/tpgpl.png)
+![](/wiki/shared/news/2017-12-24-community-contributors-2017/tpgpl.png)
 
 One of the earliest and most reliable contributors to the osu!wiki project, TPGPL's efforts towards laying out structure and the groundwork for articles and reworks of all kinds has been instrumental in getting the wiki off the ground. TPGPL's work and ethic represents everything that we could've ever hoped for when opening osu! up to open source contribution, and we are incredibly grateful for his hundreds of hours of hard work.
 
