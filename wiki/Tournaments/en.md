@@ -21,6 +21,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japan | ![][flag_PL] Poland | ![][flag_DE] Germany |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_PL] Poland |
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_KR] South Korea |
+| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] USA | ![][flag_GB] United Kingdom |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
