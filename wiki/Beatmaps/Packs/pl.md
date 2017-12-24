@@ -1,42 +1,42 @@
-# Packs
+# Paczki
 
-_Main page: [Beatmaps](/wiki/Beatmaps)_
+_Główny artykuł: [Beatmapy](/wiki/Beatmaps)_
 
-A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
+Paczka beatmap to archiwum o rozszerzeniu `.zip` zawierające beatmapy. Nazwa paczki jest zależna od tego co ona przechowuje (np. `Approved Beatmap Pack #7` zawierałaby tylko [zatwierdzone](/wiki/Beatmaps) beatmapy).
 
-It is worth noting that the most packs are:
+Warto zanotować, że większość paczek:
 
-- Roughly either ~100MB (Taiko/osu!mania) or ~200MB (-/Approved)
-- Contain videos (if included)
+- waży około ~100MB (Taiko/osu!mania) lub nawet ~200MB (-/Approved)
+- zawiera filmiki (jeżeli beatmapy owe posiadają)
 
-## Categories
+## Kategorie
 
-Beatmaps packs are split into 4 categories:
+Paczki beatmap są podzielone na 4 kategorie:
 
-| Category | Beatmap types |
+| Kategoria | Typ beatmap |
 | -------- | ------------- |
-| Standard | Ranked or Approved songs |
-| Chart | Fortnightly Chart challenge songs |
-| Theme | General theme of the songs |
-| Artist/Album | Based on Artist/Album |
+| Standardowe | Rankingowe bądź zatwierdzone beatmapy |
+| Wyróżnione | Wyróżnione beatmapy mogące stanowić wyzwanie dla graczy |
+| Tematyczne | Beatmapy posiadające wspólną tematykę |
+| Artysta/Album | Beatmapy, których piosenki należą do wspólnego albumu bądź zostały stworzone przez jednego artystę |
 
-## Fully Completing Your Song List
+## Pobieranie wszystkich beatmap
 
-This is for those who really want to *fully complete your song list* (and not just download your favorite songs).
+Paczki beatmap są także dla ludzi, którzy chcą *pobrać wszystkie beatmapy* (a nie tylko te zawierające ich ulubione piosenki).
 
-Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinable elements.
+Pamiętaj, że przechowanie tylu beatmap będzie wymagało bardzo dużo miejsca na dysku. Wiedz także, że paczki beatmap (oraz torrenty) zawierają filmiki oraz elementy skórek.
 
-### Beatmap Pack Listing
+### Lista paczek beatmap
 
-Download all the (-/Approved/Taiko/osu!mania) beatmaps packs from the **Standard** category and nowhere else. The (-/Approved/Taiko/osu!mania) beatmaps packs will contain all the songs in the other 3 categories.
+Paczki beatmap (-/Approved/Taiko/osu!mania) powinno się pobierać tylko z kategorii **Standardowe** i znikąd indziej. Paczki te będą zawierać wszystkie beatmapy z trzech pozostałych kategorii.
 
-The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](https://osu.ppy.sh/beatmaps/packs).
+Paczki beatmap znajdują się na [Liście paczek beatmap](https://osu.ppy.sh/beatmaps/packs).
 
-### Torrenting
+### Torrenty
 
-> Notice: Beatmap torrents seem to have died off within the osu! community.
+> Ważne: Torrenty z beatmapami wydają się być martwe wśród społeczności osu!.
 
-- [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
+- [Torrenty z beatmapami](https://osu.ppy.sh/forum/t/147478)
+  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/u/1313441)
 
-You will need a lot of space (and bandwidth) to torrent all of these packs.
+Będziesz potrzebować dużo miejsca na dysku (i dobrego łącza), aby pobrać wszystkie torrenty z beatmapami.
