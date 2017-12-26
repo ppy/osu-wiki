@@ -115,7 +115,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 
 *Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!* Keep in mind that the higher the fps limit is, the more resources your osu!client will consume!
 
-Note: when the osu!client is not the active window, the fps limit is dropped to 30fps automatically.
+*Note: when the osu!client is not the active window, the fps limit is dropped to 30fps automatically.*
 
 ### Layout
 
