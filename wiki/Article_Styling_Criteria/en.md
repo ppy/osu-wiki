@@ -12,7 +12,7 @@ The following standards apply only to articles saved in the `wiki/` directory.
 
 ### Locales
 
-Listed below are the supported locales for the osu!wiki. If your language is not listed, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)! Remember that osu!web is translated by the osu! community, and that, by opening an issue, it will not guarantee that someone else will translate it for you. If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+Listed below are the properly-supported locales for the osu!wiki.
 
 | File Name | Locale Name | Native Script |
 |-----------|-------------|---------------|
@@ -25,7 +25,13 @@ Listed below are the supported locales for the osu!wiki. If your language is not
 | `pl.md` | Polish | Polski |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ru.md` | Russian | Русский |
+| `sv.md` | Swedish | Svenska |
 | `zh.md` | Chinese (Simplified) | 中文 |
+
+Keep in mind, it is intended that the osu!wiki will automatically try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
+
+- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution).
+- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
 
