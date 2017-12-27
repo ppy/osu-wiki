@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet Maria - osu!mania’s new mascot!"
+title: "Meet Maria - osu!mania's new mascot!"
 permalink: http://osunews.tumblr.com/post/143103453693/meet-maria-osumanias-new-mascot
 date: 2016-04-20 07:34:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/143103453693/meet-maria-osumanias-new-mascot
@@ -17,7 +17,7 @@ To celebrate Maria's release, we've added a brand new achievement (and swanky me
 
 *(We highly recommend using the default skin so that you actually see Maria in-game, but it isn't necessary to get the achievement.)*
 
-The more intrepid creators among us will find a few new skinning options available to them for the osu!mania mode - read all about it over at the [osu!wiki](https://osu.ppy.sh/wiki/Skin.ini#.5BMania.5D).
+The more intrepid creators among us will find a few new skinning options available to them for the osu!mania mode - read all about it over at the [osu!wiki](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#[mania]).
 
 ![](https://puu.sh/o5Hxq/d486b21976.jpg)
 

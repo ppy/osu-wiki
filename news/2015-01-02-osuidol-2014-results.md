@@ -13,7 +13,7 @@ The entries for the final were amazing and a joy to listen to, the efforts the p
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/181744068&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Congratulations to osu!idol’s winner: [yealina](https://osu.ppy.sh/u/139551)! They came in the highest and claimed the top place at the podium. For taking 1st place they will receive 3 months of supporter and a unique osu!idol badge on their profile!
+Congratulations to osu!idol's winner: [yealina](https://osu.ppy.sh/u/139551)! They came in the highest and claimed the top place at the podium. For taking 1st place they will receive 3 months of supporter and a unique osu!idol badge on their profile!
 
 Now for the runners up.
 
@@ -23,7 +23,7 @@ Congratulations to [Sharlo](https://osu.ppy.sh/u/1622450) and [MissTitannia](htt
 
 We wish you good luck to all of them if they plan on building a career out of their talent!
 
-We would like to thank each and everyone who participated in this year’s osu!idol, it was fun to listen and judge all of your entries!
+We would like to thank each and everyone who participated in this year's osu!idol, it was fun to listen and judge all of your entries!
 
 Thats all from us! Next year we will be back, thats right! Get ready for more singing!
 

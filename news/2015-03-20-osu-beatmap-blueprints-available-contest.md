@@ -15,11 +15,11 @@ Each pack contains two 8.5" x 11" custom sticker sheets featuring elements from 
 
 ## Contest
 
-To celebrate the launch of this new item, we’re running a contest to see who can make the best beatmaps IRL, using the Beatmap Blueprints.
+To celebrate the launch of this new item, we're running a contest to see who can make the best beatmaps IRL, using the Beatmap Blueprints.
 
 ![image](https://puu.sh/gFcOz/2c188f51a5.jpg)
 
-So, if you’ve already purchased your set of Beatmap Blueprints, get to work! Pick your blank canvas and build the beatmap of your dreams. Points for creativity.
+So, if you've already purchased your set of Beatmap Blueprints, get to work! Pick your blank canvas and build the beatmap of your dreams. Points for creativity.
 
 ## Prizes
 

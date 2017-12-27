@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/98965605173/osu-world-cup-2014-registr
 date: 2014-10-02 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98965605173/osu-world-cup-2014-registration-phase
 ---
-We’d like to welcome all of you to this year’s official osu! World Cup. The rules have been adjusted from the previous OWC, so please [read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014#ruleset) before registering for this tournament.
+We'd like to welcome all of you to this year's official osu! World Cup. The rules have been adjusted from the previous OWC, so please [read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014#ruleset) before registering for this tournament.
 
 ![](http://puu.sh/bTQLf/10bc4ca19a.png)
 
@@ -27,12 +27,12 @@ For more details, refer to the [osu! World Cup 2014 wiki article](https://osu.pp
 *   Every team must consist of a minimum of 6 players.
 *   We have changed over to a double elimination bracket after group stage. Therefore, the tournament runs for a full week longer.
 *   We have adjusted the mappool size to be smaller and more consistent across all stages.
-*   We have implemented a new ‘veto’ rule, replacing the previous beatmap picking restrictions.
+*   We have implemented a new 'veto' rule, replacing the previous beatmap picking restrictions.
 *   The FreeMod bracket has been readjusted.
 
 ## Prizes
 
-*   1st: 6 months supporter tag, profile badge, osu! merchandise, “osu! Champion” user title
+*   1st: 6 months supporter tag, profile badge, osu! merchandise, "osu! Champion" user title
 *   2nd: 3 months supporter tag
 *   3rd: 1 month supporter tag
 
@@ -49,9 +49,9 @@ For more details, refer to the [osu! World Cup 2014 wiki article](https://osu.pp
 
 *   **To register, fill out [this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng/edit).**  
 
-*   **Then, verify your registration by sending a [PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”.**
+*   **Then, verify your registration by sending a [PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled "OWC Registration".**
 
-If your registration is successful, your team’s captain will be notified. _Any registrations or team changes past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
+If your registration is successful, your team's captain will be notified. _Any registrations or team changes past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
 
 ## Links
 

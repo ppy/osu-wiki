@@ -24,9 +24,9 @@ Supairo's a fresh name on the Taiko scene and with his mapping debut as an Aspir
 
 Here's what our judges had to say:
 
-Supairo’s Intense Muskrat is a visually stunning creation that puts storyboard maps the likes of MariannE and Lucent to shame. This entry impressed us all with its wide variety of gimmicks, and perhaps most surprising of all — how clean it was all weaved together. 
+Supairo's Intense Muskrat is a visually stunning creation that puts storyboard maps the likes of MariannE and Lucent to shame. This entry impressed us all with its wide variety of gimmicks, and perhaps most surprising of all — how clean it was all weaved together. 
 
-Ranging from the implementation of osu!’s other gamemodes, to an ambitious recreation of Project DIVA’s gameplay, this beatmap is meticulous to even the smallest of details. Imagine our surprise when we didn’t even know who the mapper was! This winning entry will definitely set a new bar on storyboard maps for many years to come!
+Ranging from the implementation of osu!'s other gamemodes, to an ambitious recreation of Project DIVA's gameplay, this beatmap is meticulous to even the smallest of details. Imagine our surprise when we didn't even know who the mapper was! This winning entry will definitely set a new bar on storyboard maps for many years to come!
 
 [See for yourself, and play Supairo's contest-winning entry here!](https://osu.ppy.sh/s/654033)
 
@@ -40,9 +40,9 @@ Featuring a combination dual-lane + multi-mod gimmick polished to near perfectio
 
 Here's what the judges thought:
 
-In a similar fashion to Supairo’s Intense Muskrat, tasuke912 uses storyboarding extensively in his entry but takes a different approach — focusing primarily on gameplay mods instead of modes. Throughout the map, we could only marvel at the diverse variety of gimmicks that were presented before us. 
+In a similar fashion to Supairo's Intense Muskrat, tasuke912 uses storyboarding extensively in his entry but takes a different approach — focusing primarily on gameplay mods instead of modes. Throughout the map, we could only marvel at the diverse variety of gimmicks that were presented before us. 
 
-We were particularly impressed by the “Monochrome” and “Function” mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.    
+We were particularly impressed by the "Monochrome" and "Function" mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.    
 
 [Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/s/653961)
 
@@ -56,7 +56,7 @@ Featuring the most literal interpretation of algebra seen in the contest period,
 
 Here's what our judges thought:
 
-Known for his creativity and knack for doing the unexpected, we weren’t too surprised to see S a n d come up with his own niche entry. Rather than going down the path of mediocrity, S a n d capitalises on the song’s title, and challenges the player to a series of algebraic equations. 
+Known for his creativity and knack for doing the unexpected, we weren't too surprised to see S a n d come up with his own niche entry. Rather than going down the path of mediocrity, S a n d capitalises on the song's title, and challenges the player to a series of algebraic equations. 
 
 The map is further complemented by various slider velocity and playfield gimmicks, which we thought was beautifully expressed through the use of a thematic storyboard. We were very impressed by the level of ingenuity shown here — this entry is well deserving of 3rd place.
 

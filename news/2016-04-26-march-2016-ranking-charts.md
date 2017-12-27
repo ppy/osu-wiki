@@ -9,14 +9,14 @@ With some delay, the Ranking Charts for March 2016 have just been released and [
 This month [TicClick](https://osu.ppy.sh/u/672931), [DakeDekaane](https://osu.ppy.sh/u/1425253), [Spectator](https://osu.ppy.sh/u/702598) and [Evening](https://osu.ppy.sh/u/2193881) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[TicClick](https://osu.ppy.sh/u/672931)** pick their favourite maps.
 
@@ -54,7 +54,7 @@ It actually reminds me of previous years of mapping - in a very positive sense! 
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[DakeDekaane](https://osu.ppy.sh/u/1425253)** about their favourite maps in March 2016.
 
@@ -85,7 +85,7 @@ Both Oni difficulties have some 190BPM stream action for you. Don't let the easy
 
 
 
-###osu!catch
+### osu!catch
 
 For osu!catch, **[Spectator](https://osu.ppy.sh/u/702598)** was the chosen one to declare the winners of the March 2016 beatmaps.
 
@@ -116,13 +116,13 @@ I'm pretty sure most of you will agree that yuikonnu is amazing, and this map as
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Evening](https://osu.ppy.sh/u/2193881)** was able to select their personal most noteworthy beatmap from last month.
 
 + **[goreshit - burn this moment into the retina of my eye](https://osu.ppy.sh/s/309881) by [Tidek](https://osu.ppy.sh/u/743282)**
 
-I would say, this map stands out of the 18 maps ranked in March mostly due to the unusual OD of 10 and its song/genre choice. The choice of using OD 10 is a rather dangerous move by the mapper, but being persistent and clear about what he wants the map to bring out, is in my opinion the most important aspect to ranking. What struck me as the key ingredient that made me like this map is the cohesion of all the elements in the mapset itself. The dark Background, accompanied with slow slider velocities during breaks, the rigid jacks and jumptrills, the high difficulty setting, the violent and rapid breakcore instrumentals, all of these seem to add up into giving the player a rather unique experience (provided you can play this properly). Personally I felt, that the middle section was harder than the final run despite the last stretch of the track being the fiercest section. But everything else, including the hitsounds, made up for that. 
+I would say, this map stands out of the 18 maps ranked in March mostly due to the unusual OD of 10 and its song/genre choice. The choice of using OD 10 is a rather dangerous move by the mapper, but being persistent and clear about what he wants the map to bring out, is in my opinion the most important aspect to ranking. What struck me as the key ingredient that made me like this map is the cohesion of all the elements in the mapset itself. The dark Background, accompanied with slow slider velocities during breaks, the rigid jacks and jumptrills, the high difficulty setting, the violent and rapid breakcore instrumentals, all of these seem to add up into giving the player a rather unique experience (provided you can play this properly). Personally I felt, that the middle section was harder than the final run despite the last stretch of the track being the fiercest section. But everything else, including the hitsounds, made up for that.
 
 + [ClariS - Anemone -TV MIX-](https://osu.ppy.sh/s/364159) by [richardfeder](https://osu.ppy.sh/u/2446000)
 
@@ -130,19 +130,19 @@ Simplicity is the key and I believe that this map has executed this idea really 
 
 + [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/s/385056) by [LordRaika](https://osu.ppy.sh/u/3265023)
 
-A project I've judged for in the Beatmapping Contest and which I definitely enjoy. Rather ambitious patterns, which I’m quite surprised about since most of them worked out well. The main experience in playing this map is that it is considerably consistent and well done, and as I’ve said, a very ambitious and varying set of patterns seemingly keeps this map fresh every time it’s played. There aren’t really unprecedented difficulty spikes either which is pretty good if I do say so myself.
+A project I've judged for in the Beatmapping Contest and which I definitely enjoy. Rather ambitious patterns, which I'm quite surprised about since most of them worked out well. The main experience in playing this map is that it is considerably consistent and well done, and as I've said, a very ambitious and varying set of patterns seemingly keeps this map fresh every time it's played. There aren't really unprecedented difficulty spikes either which is pretty good if I do say so myself.
 
 + [Hatsuki Yura - Izayoi Warabeuta](https://osu.ppy.sh/s/319989) by [Elementaires](https://osu.ppy.sh/u/2284328)
 
-Let's have some 1/3 oriented swing tracks to break the ice: what I find interesting about this map (except that it’s based off a swing track) is how Elementaires structured the notes which flow exceptionally well. The idea of having well connected 1/3 notes, forth- and back-wise, makes overall a prefect composition of patterns. The rolls at the end are close to hitting the nail on the head, it was a brilliant addition by the mapper even though I felt that it could play better if it relied less on control of the fingers and instead, the speed of the player by creating more broken streams, but that’s more of a personal opinion! Nonetheless, I will pretty much recommend this one to most players, considering this is a rather fun track accompanied with a fun map.
+Let's have some 1/3 oriented swing tracks to break the ice: what I find interesting about this map (except that it's based off a swing track) is how Elementaires structured the notes which flow exceptionally well. The idea of having well connected 1/3 notes, forth- and back-wise, makes overall a prefect composition of patterns. The rolls at the end are close to hitting the nail on the head, it was a brilliant addition by the mapper even though I felt that it could play better if it relied less on control of the fingers and instead, the speed of the player by creating more broken streams, but that's more of a personal opinion! Nonetheless, I will pretty much recommend this one to most players, considering this is a rather fun track accompanied with a fun map.
 
 + [Memme - Chinese Restaurant](https://osu.ppy.sh/s/252357) by [ajeemaniz](https://osu.ppy.sh/u/3027421)
 
-I’m not writing any food related references nor any meme related things and I'm actually not even sorry! What’s interesting about this mapset is, that it has 2 different styles of mapping: one that mostly consists of just long notes and the other without, which is a rather unique approach in mapping, considering most mappers tend to go with one of the two mentioned ways only, whilst ajeemaniz managed to pull off both of them quite well. Personally I feel that this can be brought up a notch by trying this out with more complicated songs for a larger variety of mapping possibilities, but of course, the difficulty of pulling both styles off equally as well would be amplified exponentially. Just a side-idea from me in case you’re going for one step higher than what you’ve done here, in which is not bad already. Even if the track is rather simple in nature, the map caters to a rather wide audience, as it doesn’t only focus on the general difficulty scope, it goes beyond that and also manages to capture those who prefer one of the two extreme nature of maps. So do not even think about being indecisive if the map will be suitable for you.
+I'm not writing any food related references nor any meme related things and I'm actually not even sorry! What's interesting about this mapset is, that it has 2 different styles of mapping: one that mostly consists of just long notes and the other without, which is a rather unique approach in mapping, considering most mappers tend to go with one of the two mentioned ways only, whilst ajeemaniz managed to pull off both of them quite well. Personally I feel that this can be brought up a notch by trying this out with more complicated songs for a larger variety of mapping possibilities, but of course, the difficulty of pulling both styles off equally as well would be amplified exponentially. Just a side-idea from me in case you're going for one step higher than what you've done here, in which is not bad already. Even if the track is rather simple in nature, the map caters to a rather wide audience, as it doesn't only focus on the general difficulty scope, it goes beyond that and also manages to capture those who prefer one of the two extreme nature of maps. So do not even think about being indecisive if the map will be suitable for you.
 
 + [ginkiha - eastward](https://osu.ppy.sh/s/385444) by [Rizqy](https://osu.ppy.sh/u/1411817)
 
-What I feel that stands out the most in this map is how Rizqy manages to pull off these 1/6 graces well in combination with jacks on the second half. I felt that this pattern emphasizes the instrumental in the track accurately and personally wouldn’t feel that any other pattern would fit substantially better than that of what it is currently. Even though this unique patterning is a nice characteristic of the mapset, I felt that the track itself falls short in terms of it being appealing as it doesn't really help in providing more opportunities for these kind of patterns. But that being said, the song’s simplicity is a good factor when it comes to maps that players can aim to SS/1,000,000 in which I feel is what this map is made for, and it pulled off this idea quite well with patterns that aren’t too hard to nail and having a rather short and sweet track to go with it.
+What I feel that stands out the most in this map is how Rizqy manages to pull off these 1/6 graces well in combination with jacks on the second half. I felt that this pattern emphasizes the instrumental in the track accurately and personally wouldn't feel that any other pattern would fit substantially better than that of what it is currently. Even though this unique patterning is a nice characteristic of the mapset, I felt that the track itself falls short in terms of it being appealing as it doesn't really help in providing more opportunities for these kind of patterns. But that being said, the song's simplicity is a good factor when it comes to maps that players can aim to SS/1,000,000 in which I feel is what this map is made for, and it pulled off this idea quite well with patterns that aren't too hard to nail and having a rather short and sweet track to go with it.
 
 
 
@@ -152,7 +152,7 @@ What I feel that stands out the most in this map is how Rizqy manages to pull of
 **The March 2016 ranking charts will end on the 15th May 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the February 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -161,6 +161,6 @@ Congratulations to the winners of the February 2016 Ranking Charts. They receive
 + **Catch the Beat:** [_Asriel](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito
