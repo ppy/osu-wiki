@@ -14,3 +14,9 @@ Records of osu!'s history, all in the osu!wiki.
 - [2016](/wiki/HOO/2016) - scorev2, open-source osu! announced (osu!lazer), and osu!wiki (Markdown/Git)
 - [2017](/wiki/HOO/2017) - first osu!lazer build release, and Discord
 - [2018](/wiki/HOO/2018) - ?
+
+---
+
+On a side note, the osu!wiki has a bit of its own detailed history in and of itself.
+
+- [osu!wiki](/wiki/HOO/osu!wiki)
