@@ -17,21 +17,21 @@
 
 | 用户名 | 授予原因 |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [ osu! 回放系统](http://osu.ppy.sh/forum/t/108092) (将 .osr 回放文件录制成视频) |
-| [nanashiRei](https://osu.ppy.sh/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [ 谱面镜像下载站](http://osu.yas-online.net/). |
-| [RBRat3](https://osu.ppy.sh/users/307202) | 无数的客户端图像设计贡献及其它 |
-| [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Achievements) 的美术设计. |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](http://osu.ppy.sh/forum/t/55305) 这个最受欢迎的第三方摸图工具 |
-| [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多使用功能 |
-| [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
-| [Blazevoir](https://osu.ppy.sh/users/120265) | 疯狂的管理跟踪记录 (粗略地相当于6位管理人员) 并且几乎以一己之力在高峰时段管理 #osu 频道 (9000以上用户) |
-| [Piotrekol](https://osu.ppy.sh/users/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
-| [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面杰出的表现以及管理用户支持请求 |
-| [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3年多默默无闻而又不辞勤劳地管理 [谱面集合包](http://osu.ppy.sh/p/packlist) 并且在几年内管理了月度新谱面排名竞赛 |
-| [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboards)使之成为了一种艺术 |
-| [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在有限的时间中作出了巨大的贡献 |
-| [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常高大的榜样 |
-| [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
+| [Darkimmortal](/users/10886) | 开发了 [osu! 回放系统](http://osu.ppy.sh/forum/t/108092) (将 .osr 回放文件录制成视频) |
+| [nanashiRei](/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [ 谱面镜像下载站](http://osu.yas-online.net/) |
+| [RBRat3](/users/307202) | 无数的客户端图像设计贡献及其它 |
+| [Ballance](/users/165946) | [成就](/wiki/Achievements) 的美术设计 |
+| [akrolsmir](/users/576800) | 开发了 [AIBat](http://osu.ppy.sh/forum/t/55305) 这个最受欢迎的第三方摸图工具 |
+| [statementreply](/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多使用功能 |
+| [Loctav](/users/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
+| [Blazevoir](/users/120265) | 疯狂的管理跟踪记录 (粗略地相当于6位管理人员) 并且几乎以一己之力在高峰时段管理 #osu 频道 (9000以上用户) |
+| [Piotrekol](/users/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
+| [MillhioreF](/users/941094) | 在 Bug 修复和新功能测试方面杰出的表现以及管理用户支持请求 |
+| [DeathxShinigami](/users/49516) | 3年多默默无闻而又不辞勤劳地管理 [曲包](http://osu.ppy.sh/beatmaps/packs) 并且在几年内管理了月度新谱面排名竞赛 |
+| [LuigiHann](/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboards) 使之成为了一种艺术 |
+| [awp](/users/2650) | 早期的社区管理并且在有限的时间中作出了巨大的贡献 |
+| [Sinistro](/users/5530) | 作为第一位临时的社区管理员和GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样 |
+| [Ivalset](/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ## 2015
 
@@ -39,74 +39,74 @@
 
 | 用户名 | 授予原因 |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/users/201392) | 对 osu!wiki 的杰出贡献 |
-| [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | 对 osu!wiki 的杰出贡献 |
-| [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank 和 osu!Post 的开发 |
+| [Repflez](/users/201392) | 对 osu!wiki 的杰出贡献 |
+| [RaikireHiuduo](/users/1570014) | 对 osu!wiki 的杰出贡献 |
+| [givenameplz](/users/947499) | osu!Rank 和 osu!Post 的开发 |
 
 ## 2016
 
-### January
+### 一月
 
-*Also see the announcement post: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
+*另见新闻报道： [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016) 。*
 
-| User | Contributions |
+| 用户名 | 授予原因 |
 | ---- | ------------- |
-| [ztrot](/users/6347) | Founding the [osu!academy](/wiki/Announcements/osu!academy) |
-| [Tasha](/users/1031958) | osu!weekly + News Contributor |
-| [Flanster](/users/447818) | Outstanding moderation presence (10k+ kills). |
-| [Nathanael](/users/2295078) | Outstanding moderation presence (10k+ kills). |
+| [ztrot](/users/6347) | 建立 [osu!学院](/wiki/Announcements/osu!academy) 。|
+| [Tasha](/users/1031958) | 帮助撰写 osu!weekly 和新闻。 |
+| [Flanster](/users/447818) | 杰出摸图贡献（10k+ 次） |
+| [Nathanael](/users/2295078) | 杰出摸图贡献（10k+ 次） |
 | [Saten](/users/444506) | Outstanding moderation presence and commitment (30k+ kills). |
-| [MoonShade](/users/273649) | Developing revolutionary storyboarding utilities (SGL) |
-| [Hatsu](/users/322480) | Mikuia.tv - osu! twitch bot toolkit development |
-| [Tillerino](/users/2070907) | Beatmap recommendation bot development |
+| [MoonShade](/users/273649) | 开发了革命性的故事板语言（SGL） |
+| [Hatsu](/users/322480) | Mikuia.tv - osu! twitch 机器人工具的开发者 |
+| [Tillerino](/users/2070907) | 谱面修改建议机器人的开发者 |
 
-### March
+### 三月
 
-*Also see the announcement post: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
+*另见新闻报道： [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53) 。*
 
-| User | Contributions |
+| 用户名 | 授予原因 |
 | ---- | ------------- |
-| [Charles445](/users/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
+| [Charles445](/users/85000) | 多年来以高要求提高作图质量，并在社区的许多相关问题上提供了帮助。 |
 
-### November
+### 十一月
 
-*Also see the announcement post: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
+*另见新闻报道： [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best) 。*
 
-| User | Contributions |
+| 用户名 | 授予原因 |
 | ---- | ------------- |
-| [pishifat](/users/3178418) | Exemplary performance in beatmap construction and education |
-| [Okorin](/users/1623405) | Exceptional leadership in beatmap management affairs |
-| [IamKwaN](/users/1856463) | Outstanding moderation presence and overall contribution |
-| [Marcin](/users/722665) | Outstanding contribution to community affairs, organization and moderation |
-| [LiquidPL](/users/5044384) | Outstanding development contribution (osu!next) |
-| [Nyquill](/users/682935) | Outstanding community contribution (osu!weekly) |
-| [Derekku](/users/91341) | Early community management and moderation |
-| [Trosk-](/users/3469385) | Outstanding contribution to community affairs |
-| [Shiro](/users/113005) | Outstanding contribution to moderation, organization and management |
+| [pishifat](/users/3178418) | 在作图指导方面起到模范作用 |
+| [Okorin](/users/1623405) | 谱面管理事务中表现卓越 |
+| [IamKwaN](/users/1856463) | 在摸图和许多方面做出了杰出贡献 |
+| [Marcin](/users/722665) | 在社区事务、组织活动、摸图方面做出了杰出贡献 |
+| [LiquidPL](/users/5044384) | 在开发方面做出了杰出贡献（osu!next） |
+| [Nyquill](/users/682935) | 在社区做出了杰出贡献 （osu!weekly） |
+| [Derekku](/users/91341) | 早期社区管理员，在摸图方面亦有所贡献 |
+| [Trosk-](/users/3469385) | 在社区事务中做出了杰出贡献 |
+| [Shiro](/users/113005) | 在社区事务、组织活动、摸图方面做出了杰出贡献 |
 
 ## 2017
 
-*Also see the announcement post: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
+*另见新闻报道： [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017) 。*
 
 | User | Contributions |
 | ---- | ------------- |
-| [OnosakiHito](/users/290128) | Outstanding work in forming the early osu!taiko community, several years of tenure in the BAT/QAT |
-| [Deif](/users/318565) | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
-| [deadbeat](/users/128370) | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the GMT |
-| [Garven](/users/244216) | Years of dedicated service to the BAT/QAT, and immense contribution to ranking criteria reworks |
-| [Mao](/users/2204515) | Years of dedicated service to the BAT/QAT, major presence in the ranking criteria rework and Beatmap Nominator test management |
-| [Irreversible](/users/1287964) | Dedicated contribution to the BAT/QAT across over countless years |
-| [Nwolf](/users/1910766) | Hundreds of hours of World Cup tournaments statistics and analysis |
-| [Yazzehh](/users/7068973) | Outstanding referee presence in dozens of community tournaments |
-| [Evrien](/users/791660) | Outstanding performance in casting, commentary, and event-based writeups/recaps |
-| [Tom94](/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, state rating, and more! |
-| [DrabWeb](/users/6946022) | Outstanding contribution to the osu!lazer project |
-| [EVAST](/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
-| [huoyaoyuan](/users/2428732) | Outstanding contribution to the osu!lazer project |
-| [kj415j45](/users/9367540) | Outstanding contribution and organization of the Chinese localisation project for osu!, osu!wiki, and osu!lazer |
-| [jorolf](/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
-| [Syrin](/users/5701575) | Creator of PerformancePlus and osu!chan |
-| [Raveille](/users/1388767) | Outstanding effort in the production and publishing of the Score project |
-| [ThePooN](/users/718454) | Outstanding effort in the production and publishing of the Score project |
-| [MegaApple_Pi](/users/2148208) | Outstanding efforts in furthering the osu!wiki project with countless revisions, reworks and reviews |
-| [TPGPL](/users/3944705) | Cornerstone of the osu!wiki project and outstanding contribution throughout the years |
+| [OnosakiHito](/users/290128) | 常年担任 BAT/QAT ，并在建立 osu!taiko 社区中做出了杰出贡献 |
+| [Deif](/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
+| [deadbeat](/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
+| [Garven](/users/244216) | 常年服务于 BAT/QAT ，并在 Ranking Criteria 重写过程中做出巨大贡献 |
+| [Mao](/users/2204515) | 常年服务于 BAT/QAT ，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
+| [Irreversible](/users/1287964) | 多年服务于 BAT/QAT |
+| [Nwolf](/users/1910766) | 在世界杯的统计与分析中投入了大量的时间 |
+| [Yazzehh](/users/7068973) | 在许多社区比赛中担任裁判，贡献突出 |
+| [Evrien](/users/791660) | 在描述及评论玩家表现和基于事件的报道中贡献突出 |
+| [Tom94](/users/1857058) | 在 osu! 的改进中处于核心地位，包括 pp，图形引擎改写，评分系统等许多方面！ |
+| [DrabWeb](/users/6946022) | 对 osu!lazer 计划的杰出贡献 |
+| [EVAST](/users/8195163) | 对 osu!lazer 计划的杰出贡献（90多个PR以及上百次commits） |
+| [huoyaoyuan](/users/2428732) | 对 osu!lazer 计划的杰出贡献 |
+| [kj415j45](/users/9367540) | 组织了 osu! ，osu!wiki ，和 osu!lazer 的中文化计划，并做出了突出贡献 |
+| [jorolf](/users/7004641) | 对 osu!lazer 计划做出了杰出贡献，并创造了许多媒体工具 |
+| [Syrin](/users/5701575) | PerformancePlus 和 osu!chan 的创造者 |
+| [Raveille](/users/1388767) | 对 Scorewatch 计划的杰出贡献 |
+| [ThePooN](/users/718454) | 对 Scorewatch 计划的杰出贡献 |
+| [MegaApple_Pi](/users/2148208) | 通过大量的修订、重写和复核推动了 osu!wiki 发展 |
+| [TPGPL](/users/3944705) | 作为 osu!wiki 项目的领头羊，多年来对其做出了巨大贡献 |
