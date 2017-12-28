@@ -131,14 +131,15 @@ A blue button with a pin icon. It currently appears to do nothing.
 
 ### Functions
 
-- `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
+- `Sort by`: Sort the posts by either `timeline` (default; ordered on the timestamp given from the mod post) or `last updated` (ordered on when the post itself was posted)
+- `Collapse all` and `Expand all` and the up arrow: These will show/hide posts.
 - Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
-- Respond: Reply to the submission. Pressing Enter or clicking Reply afterwards will submit your response.
-- Mark as Resolved: The creator may select this when the issue has been addressed and either accepted or denied.
-- Reopen a Discussion: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
+- `Respond`: Reply to the submission. Pressing Enter or clicking Reply afterwards will submit your response.
+- `Mark as Resolved`: The creator may select this when the issue has been addressed and either accepted or denied.
+- `Reopen a Discussion`: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
 
 ## Hype, Nomination, and Kudosu!
 
