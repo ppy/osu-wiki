@@ -101,7 +101,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
 | [Litharrale](https://osu.ppy.sh/u/3189995)        | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
-| [MariahCarey](https://osu.ppy.sh/u/2522275)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [MaridiuS](https://osu.ppy.sh/u/4496961)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Serbian                 |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
 | [MBomb](https://osu.ppy.sh/u/3071175)             | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
@@ -130,6 +129,7 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Taikocracy](https://osu.ppy.sh/u/6256027)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Some Spanish             |
 | [tasuke912](https://osu.ppy.sh/u/2774767)         | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Japanese                 |
 | [Tofu1222](https://osu.ppy.sh/u/6089608)          | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
+| [Voli](https://osu.ppy.sh/u/2522275)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Volta](https://osu.ppy.sh/u/4154071)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Indonesian               |
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Czech                    |
 | [Weber](https://osu.ppy.sh/u/6410432)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
