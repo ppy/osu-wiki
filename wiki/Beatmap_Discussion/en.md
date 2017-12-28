@@ -53,8 +53,8 @@ All of the mods below are for the selected difficulty. Clicking on any of these 
 - Mine: Mods you have contributed.
 - Resolved: Mods the creator has responded to and marked as resolved.
 - Pending: Mods that haven't been replied to or marked as resolved.
-- Praises: Mods that have been submitted as a Praise
-- All: Every Suggestion, Problem, and Praise posted on the beatmap's difficulty and the beatmapset's general section.
+- Praises: Mods that have been submitted as a praise
+- All: Every suggestion, problem, and praise posted on the beatmap's difficulty and the beatmapset's general section.
 
 ### Modding timeline
 
@@ -76,13 +76,13 @@ This replaces beatmap subscription. You can track the beatmaps' status and open 
 
 ### Hype Train
 
-Hype train is similar to the previous star priority system. A user can submit Praise to the beatmap and it will add to the beatmap's Hype Train.
+Hype train is similar to the previous star priority system. A user can submit praise to the beatmap and it will add to the beatmap's Hype Train.
 
-> Adding praise ❤ will raise this beatmap's hype, making it more visible for nomination and ranking!
+> Adding praise will raise this beatmap's hype, making it more visible for nomination and ranking!
 
-*Note: the creator can't Hype up their own beatmap. Praise must be done in the General (All Difficulties) section to add Hype. It will not work through the General or the Timeline tabs.*
+*Note: Players are required to play through a difficulty in the beatmapset in order to add Hype to a beatmap.*
 
-If you want to add Hype, it must be done in the General (All Difficulties) tab, not the General or the Timeline tabs. Players are required to play through a difficulty in the beatmapset in order to add Hype to a beatmap.
+The creator can't Hype up their own beatmap, of course. Praise must be done in the General `(All Difficulties)` section to add Hype. It will not work through the `General` or the `Timeline` tabs.
 
 ### Nomination
 
@@ -96,10 +96,10 @@ Once a beatmap accumulates 5 Hype, the beatmap is eligible for Nomination. This 
 
 This is what section of the beatmap you will be submitting your concerns to.
 
-- General (all difficulties): General issues with the beatmap such as metadata and general discussion on the beatmapset as a whole. You can also add Hype to a beatmap here by posting a comment with Praise.
-- General: General issues with the difficulty such as beatmap settings and general discussion on the specific difficulty.
-- Timeline: Issues at certain points in the beatmap. Must contain a timestamp. The majority of mods will end up in this section.
-- History: Shows when issues were marked as resolved. You can click on any issue to jump to the post.
+- `General (all difficulties)`: General issues with the beatmap such as metadata and general discussion on the beatmapset as a whole. You can also add Hype to a beatmap here by posting a comment with Praise.
+- `General`: General issues with the difficulty such as beatmap settings and general discussion on the specific difficulty.
+- `Timeline`: Issues at certain points in the beatmap. Must contain a timestamp. The majority of mods will end up in this section.
+- `History`: Shows when issues were marked as resolved. You can click on any issue to jump to the post.
 
 ![](img/history.jpg)
 
@@ -119,7 +119,7 @@ If your timestamp submitted through the Timeline section is close to another mod
 
 ![](img/mod-type.jpg)
 
-This is where you submit your mod. You can choose between Praise, Suggestion, or Problem. Each is fairly self-explanatory. **Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.** You can add Hype to the beatmap by submitting Praise in the General (All Difficulties) section.
+This is where you submit your mod. You can choose between `Praise`, `Suggestion`, or `Problem`. Each is fairly self-explanatory. **Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.** You can add Hype to the beatmap by submitting praise in the `General (All Difficulties)` section.
 
 ### Pin
 
@@ -132,7 +132,7 @@ A blue button with a pin icon. It currently appears to do nothing.
 ### Functions
 
 - `Collapse all`/`Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on Suggestions or Problems.**
+- Thumbs Up/Down: Like/Dislike the mod. Everyone but the mod submitter can use this. **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
@@ -147,12 +147,12 @@ A blue button with a pin icon. It currently appears to do nothing.
 Hype is used to help push beatmaps forward to nomination; similar to how Star Priority was previously used. Once a beatmapset receives 5 Hype, it becomes eligible for Nomination. Please note the following:
 
 - Each user has a limited supply of hype (5 per month to start).
-  - You will regain a hype 30 days after that one hype was used.
+  - You will regain a hype 30 days after it was used.
 - Hype can only be used after playing through a difficulty from a beatmapset.
 
 ### Nomination
 
-Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all Suggestions and Problems resolved before it can get ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
+Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all suggestions and problems resolved before it can get ranked. BN/QAT now can reset nominations by posting a problem in the discussion field.
 
 ### Kudosu!
 
@@ -174,8 +174,8 @@ Currently, these are the thresholds for earning a certain amount of Kudosu!:
 - **Only post one issue at a time.** Do not submit multiple issues in a single post!
 - The Timeline section requires at least one timestamp before you can submit your post.
 - Check to see if the issue has already been addressed when the similar post warning pops up.
-- Do you like the beatmap? Give it some Praise in the General (All Difficulties) section to increase the amount of Hype on the Hype Train. This helps the beatmap move closer to nomination.
-- Be sure to vote on Suggestions or Problems, as they now award Kudosu! to creators.
+- Do you like the beatmap? Give it some praise in the `General (All Difficulties)` section to increase the amount of Hype on the Hype Train. This helps the beatmap move closer to nomination.
+- Be sure to vote on suggestions and/or problems, as they now award Kudosu! to modders.
 
 ## Tips
 
@@ -188,9 +188,9 @@ Currently, these are the thresholds for earning a certain amount of Kudosu!:
 
 1. Select the proper game mode at the top of the beatmap's page you wish to mod (osu!standard, osu!taiko, osu!catch, osu!mania)
 2. Select the difficulty you wish to mod in the drop down menu. (Easy, Normal, Hard, Insane, etc.)
-3. Select the section you wish to post your mod in (General (all difficulties), General, or Timeline)
+3. Select the section you wish to post your mod in (`General (all difficulties)`, `General`, or `Timeline`)
 4. Type your mod out in the discussion field. Use a timestamp if you are using the Timeline section. **One issue per post!**
-5. Select the type of mod you are making (Praise, Suggestion, Problem)
+5. Select the type of mod you are making (`Praise`, `Suggestion`, or `Problem`)
 
 Your post will be submitted! You can restart at step 3 if you wish to continue modding the same difficulty. Don't forget to Hype the beatmap if you want to help move it forward for nomination.
 
