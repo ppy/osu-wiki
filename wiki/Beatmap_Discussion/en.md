@@ -144,7 +144,7 @@ Enabling the pin will allow the [modding field](#modding-field) to scroll with y
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
 - `Respond`/`Reply`: Reply to the submission. Pressing `Enter` or clicking `Reply` afterwards will submit your response.
   - Until you give a thumbs up, this will read `Respond`. After giving a thumbs up, this will read `Reply`.
-- `Mark as Resolved`: The creator may select this when the issue has been addressed and either accepted or denied.
+- `Mark as Resolved`: The creator or the mod poster may select this when the issue has been addressed and either accepted or denied.
 - `Reopen a Discussion`: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
 
 ## Hype, Nomination, and Kudosu!
@@ -165,13 +165,17 @@ Nomination is similar to the previous modding system. A beatmap must receive 2 n
 
 ![](img/thumbs.jpg "Thumbs up for Kudosu!")
 
-Giving a thumbs up to a suggestion or problem in the discussion field will give the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder gets. Any user besides the poster can thumbs up any post. *Note: You get 60 votes every hour.*
+Giving a thumbs up to a suggestion or problem in the discussion field will give the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder gets. Any user besides the poster can thumbs up any post.
+
+*Note: You are limited to 60 votes per hour, while BN and QAT members do not have this limit.*
 
 Currently, these are the thresholds for earning a certain amount of Kudosu!:
 
 - 1 thumbs up = 1 Kudosu!
 - 2 thumbs up = 2 Kudosu!
 - 5 thumbs up = 3 Kudosu!
+
+BN, QAT, and GMT members can deny Kudosu! by giving a thumbs down.
 
 ## Reminders
 
