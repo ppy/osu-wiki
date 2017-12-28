@@ -8,7 +8,7 @@ The **Quality Assurance Team**, commonly referred to as QAT, are the judges of q
 
 QAT members will be held to strict activity standards as their role requires them to be regularly involved in assessing beatmap quality.
 
-Members of this team will be promoted from [BNs](/wiki/People/Beatmap_Nomination_Group/), should they accept the new role offered. Members of QAT have a red name in in-game chat and on the forums, whereas BNs only have a purple name on the forum.
+Members of this team will be promoted from [BNs](/wiki/People/Beatmap_Nominators/), should they accept the new role offered. Members of QAT have a red name in in-game chat and on the forums, whereas BNs only have a purple name on the forum.
 
 Team Members
 ------------
@@ -28,6 +28,6 @@ Link to [user group page](https://osu.ppy.sh/g/7)
 | [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                    |
 | [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese, Cantonese         |
 | [Okorin](https://osu.ppy.sh/u/1623405)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                     |
-| [Protastic101](https://osu.ppy.sh/u/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                            |
 | [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                            |
+| [Protastic101](https://osu.ppy.sh/u/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                            |
 | [Raiden](https://osu.ppy.sh/u/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan           |
