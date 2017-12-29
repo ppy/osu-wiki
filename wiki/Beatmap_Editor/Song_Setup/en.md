@@ -116,7 +116,7 @@ Note that is does nothing on osu!taiko and osu!mania (both scroll speed is based
 
 #### Technical
 
-The length a circle/fruit remains on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
+The length a hit object remains on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
 
 There are four mods which alter approach rate timing when activated:
 
