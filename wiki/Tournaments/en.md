@@ -10,7 +10,7 @@ Official tournaments hosted by the [Tournament Management](https://osu.ppy.sh/g/
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup is a country-based 4v4 Team VS tournament following single-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
+osu! World Cup is a country-based 4v4 Team VS tournament following dpuble-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
