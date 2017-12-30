@@ -10,7 +10,7 @@ outdated: true
 官方世界杯
 ----------------------
 
-官方锦标赛由[锦标赛管理组](https://osu.ppy.sh/g/26)负责
+官方锦标赛由锦标赛管理组负责
 
 ### ![](/wiki/shared/mode/osu.png) osu! 世界杯
 

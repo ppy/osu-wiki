@@ -6,7 +6,7 @@ Section dedicated for Tournaments and/or Competitions. [Forum link here.](https:
 Official World Cups
 ----------------------
 
-Official tournaments hosted by the [Tournament Management](https://osu.ppy.sh/g/26).
+Official tournaments hosted by the Tournament Management.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 

@@ -12,7 +12,7 @@ Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum dsini.](htt
 Turnamen Resmi Pertandingan Kancah Dunia
 --------------------------------------------------
 
-Turnamen resmi yang diselenggarakan oleh [Pengelola Turnamen](https://osu.ppy.sh/g/26).
+Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
