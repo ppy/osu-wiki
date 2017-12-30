@@ -29,7 +29,7 @@ Team Members
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
 | [Clobohne](https://osu.ppy.sh/u/499343) | German | Chat Moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
-| [death](https://osu.ppy.sh/u/3242450) | | Technical Support | 
+| [Death](https://osu.ppy.sh/u/3242450) | | Technical Support | 
 | [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
 | [Edu](https://osu.ppy.sh/u/5618109) | Japanese, Portuguese | Chat Moderation |
