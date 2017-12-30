@@ -4,7 +4,7 @@
 
 ## March
 
-peppy reconsiders that his current business model will not obtain him his "Private osu! G6 Jet" and enables the *[osu!coin](/wiki/osu!coin)* to hopefully increase revenue. Every current player is given 10 osu!coins to play (at the rate of 1 play = 1 osu!coin). These can be replenished after obtaining a combo of multiples of 100. Or simply by purchasing them at these rates:
+peppy reconsiders that his current business model will not obtain him his "Private osu! G6 Jet" and enables the *[osu!coin](/wiki/osu!coin)* to hopefully increase revenue. Every current player was given 10 osu!coins to play (at the rate of 1 play = 1 osu!coin). These can be replenished after obtaining a combo of multiples of 100. Or simply by purchasing them at these rates:
 
 -   1 osu!coin = $1 USD
 -   10 osu!coins = $10 USD
@@ -26,7 +26,7 @@ Links;
 
 ## July
 
-peppy explains why the temporary new osu!web redesign subdomain was `jizz.ppy.sh`.
+peppy and flyte briefly explains why the temporary osu!web redesign subdomain was `jizz.ppy.sh` in an episode of osu!talk.
 
 Links:
 

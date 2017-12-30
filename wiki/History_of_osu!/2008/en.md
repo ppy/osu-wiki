@@ -14,7 +14,7 @@ peppy was MIA in Japan on 2007-12-17 until 2008-01-20. He somehow managed to dra
 
 ![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
 
-**Players received extra challenges in the form of mods** ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD) and [Double Time](/wiki/DT)). Gameplay experience was enhanced considerably with the **addition of countdown images and sounds, custom number and colours of combos, O/X (Pass/Fail) section rankings, countdown intros, background colour scripting, volume control per timing section and, perhaps most importantly, the introduction of storyboarding script support.** An attempt was made to move osu! over to the XNAv2 framework, but peppy decided the new version was useless and reduced overall performance. **XNA1.1 is used from this point forward, which is shaped according to osu!'s needs with thousands of rewritten lines and hacks to make osu! what it is.** **A new text rendering engine is implemented, allowing for very crisp font display at any font size.** This makes it possible to display some more editor information and make the game look a lot better overall.
+**Players received extra challenges in the form of mods** ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD) and [Double Time](/wiki/DT)). Gameplay experience was enhanced considerably with the **addition of countdown images and sounds, custom number and colours of combos, O/X (Pass/Fail) section rankings, countdown intros, background colour scripting, volume control per timing section and, perhaps most importantly, the introduction of storyboarding script support.** An attempt was made to move osu! over to the XNAv2 framework, but peppy decided the new version was useless and reduced overall performance. **XNA1.1 was used from this point forward, which was shaped according to osu!'s needs with thousands of rewritten lines and hacks to make osu! what it was** **A new text rendering engine was implemented, allowing for very crisp font display at any font size.** This makes it possible to display some more editor information and make the game look a lot better overall.
 
 ## March
 
@@ -24,7 +24,7 @@ To counterbalance February's new mods, the [Relax](/wiki/RL) and [Half Time](/wi
 
 ## April
 
-No joke, **Bancho went live this month, and so did the user panels of Extended Chat as you know them today.** Users are now able to see what other users are doing in their user panels, as well as interact with them by clicking to spectate. The **automatic error submission system debuted, xfire compatibility was implemented, and the main menu and editor interface received makeovers** (with new icons by LuigiHann). The **chat interface got some love, with the "show chat" button, tab completion and nickname highlight alerts.** The **ranking screen now shows points required to reach the next rank.**
+No joke, **Bancho went live this month, and so did the user panels of Extended Chat as you know them today.** Users were now able to see what other users were doing in their user panels, as well as interact with them by clicking to spectate. The **automatic error submission system debuted, xfire compatibility was implemented, and the main menu and editor interface received makeovers** (with new icons by LuigiHann). The **chat interface got some love, with the "show chat" button, tab completion and nickname highlight alerts.** The **ranking screen now shows points required to reach the next rank.**
 
 ## May
 
@@ -46,7 +46,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 **Personal online best scores were added to song selection**, fulfilling a long-time request. This required some fairly hefty database optimisation. Graphical improvements were made to the ranking screen, and various elements of the default skin, in an aim to make it feel more clean and crisp than before. The display of **slider tick score sprites (10/30) was implemented.** Improvements were seen in the multiplayer match setup, allowing **host control to be transferred**. Many **new chat commands** were added for user convenience.
 
-A new ranked status "![](img/fire.gif) Approved" was added for maps which are of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) ranked map.
+A new ranked status "![](img/fire.gif) Approved" was added for maps which were of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) ranked map.
 
 ## September
 
@@ -72,7 +72,7 @@ The last month of 2008 had plenty in store for osu! development. By osu!'s secon
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 
-Another noticeable event is that the Catch the Beat score is [wiped](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) during this month. Since then, the score multiplier of mods has been changed on Catch The Beat mod as well.
+Another noticeable event was that the Catch the Beat scores were [wiped](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) during this month. Since then, the score multiplier of mods has been changed on Catch The Beat mod as well.
 
 ## The Future
 

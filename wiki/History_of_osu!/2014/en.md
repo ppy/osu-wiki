@@ -6,7 +6,7 @@
 
 As skinning elements expanded, the element, `playfield.jpg` was removed in it's line of duty and replaced with a new generic one that was unskinnable. `playfield.jpg` was an element that allowed you to use any image as the default background of a beatmap, if one isn't supplied.
 
-![](img/2014-03_01.jpg "playfield.jpg is no more")
+![](img/2014-03_01.jpg "playfield.jpg was no more")
 
 ## July
 
@@ -20,7 +20,7 @@ Links:
 
 As always, many new things were added to osu! One being the new login screen. Another being the new system for scrolling in mania. It was to be based off of the beatmap's bpm rather than a fixed scroll! New intro and outro sequence and an awesome theme song were added into osu!, rather than a random beatmap's music to be played. And many discovering that osu! was pronounced as \\oss!\\, not \\osU!\\.
 
-Lastly, leading to peppy making a tough decision to release *osu!test.exe* (now *osu!cuttingedge*) for **anyone**. This was to allow non-osu!supporters to *debug* osu! Where the newest (or latest) builds of osu! would be updated to any client. That is, if they're wanting to use it's unstable/experimental features. Every function was given in osu!cuttingedge **except** for multiplayer (osu!supporter is required).
+Lastly, leading to peppy making a tough decision to release *osu!test.exe* (now *osu!cuttingedge*) for **anyone**. This was to allow non-osu!supporters to *debug* osu! Where the newest (or latest) builds of osu! would be updated to any client. That was, if they're wanting to use it's unstable/experimental features. Every function was given in osu!cuttingedge **except** for multiplayer (osu!supporter was required).
 
 ## December
 
