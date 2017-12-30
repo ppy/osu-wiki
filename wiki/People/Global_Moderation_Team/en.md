@@ -4,9 +4,9 @@ outdated: true
 Global Moderation Team
 =========================
 
-The **Global Moderation Team** (formerly known as the Administrators, Global Mod Team or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
+The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
 
-Becoming a GMT
+Becoming a GMT member
 --------------
 
 Becoming a member of the **Global Moderation Team** requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
@@ -32,7 +32,7 @@ Team Members
 | [Death](https://osu.ppy.sh/u/3242450) | | Technical Support | 
 | [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
-| [Edu](https://osu.ppy.sh/u/5618109) | Japanese, Portuguese | Chat Moderation |
+| [Edu](https://osu.ppy.sh/u/5618109) | Portuguese, Japanese | Chat Moderation |
 | [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
 | [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
