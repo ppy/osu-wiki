@@ -1,12 +1,15 @@
+---
+outdated: true
+---
 Global Moderation Team
 =========================
 
-**Global Moderation Team** (formerly known as the Administrators, Global Mod Team or “GreenBAT”), commonly referred to as **GMT**, are members of the community whom are focused primarily on player moderation and issues pertinent to the team and the community at large.
+The **Global Moderation Team** (formerly known as the Administrators, Global Mod Team or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
 
 Becoming a GMT
 --------------
 
-Becoming a member of the **Global Moderation Team** requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member
+Becoming a member of the **Global Moderation Team** requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
 
 Roles and Responsibilities
 --------------------------
@@ -16,7 +19,7 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 Team Members
 ------------
 
-*Please note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.* - [Team Page](https://osu.ppy.sh/g/4)
+*Please note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Name | Languages | Area of focus |
 | ---- | --------- | ------------- |
@@ -26,6 +29,7 @@ Team Members
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
 | [Clobohne](https://osu.ppy.sh/u/499343) | German | Chat Moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
+| [death](https://osu.ppy.sh/u/3242450) | | Technical Support | 
 | [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
 | [Edu](https://osu.ppy.sh/u/5618109) | Japanese, Portuguese | Chat Moderation |
