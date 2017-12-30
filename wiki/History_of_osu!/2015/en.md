@@ -17,7 +17,7 @@ Links:
 
 ## April
 
-The next day, peppy decides to rollback on the osu!coins due to popular demand. A new subdomain for the new osu!web redesign was opened for preview.
+The next day, peppy decides to rollback on the osu!coins due to popular demand. A new subdomain for the osu!web redesign was opened for preview.
 
 Links;
 

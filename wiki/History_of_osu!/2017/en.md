@@ -21,9 +21,10 @@ Links:
 
 ## December
 
-OWC 2017 concludes with Poland being victorious. Another handful of community contributors were announced. Thanks to LiquidPL, the cringey download page in osu!web has been redone.
+OWC 2017 concludes with Poland being victorious. Another handful of community contributors were announced. Thanks to LiquidPL, the cringey download page in osu!web has been redone. Every player was given osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve.
 
 Links:
 
 - [osu! World Cup 2017 Concludes](https://osu.ppy.sh/home/news/2017-12-21-owc-2017-concludes)
 - [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+- [osu!status on Twitter](https://twitter.com/osustatus/status/945098179183181824)
