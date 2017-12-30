@@ -75,7 +75,6 @@ Lihat juga
 ------------
 
 -   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk merekam turnamen)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

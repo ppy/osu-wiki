@@ -74,7 +74,6 @@ Community
 ---------
 
 -   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024) (链接不可用)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
