@@ -16,9 +16,9 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 Członkowie zespołu
 ------------------
 
-*Uwaga: Oprócz podanych niżej języków, wszyscy członkowie GMT mówią po angielsku. Strona zespołu znajduje się [tutaj](http://osu.ppy.sh/g/4).
+*Uwaga: Oprócz podanych niżej języków, wszyscy członkowie GMT mówią po angielsku. Strona zespołu znajduje się [tutaj](http://osu.ppy.sh/groups/4).*
 
-| Nick | Języki | Główny obszar działania |
+| Pseudonim | Języki | Główny obszar działania |
 | ---- | ------ | ----------------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Włoski | Moderacja czatu |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Węgierski | Moderacja czatu |
