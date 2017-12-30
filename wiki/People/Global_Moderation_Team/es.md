@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Equipo de Moderación Global
 =============================
 
