@@ -1,6 +1,3 @@
----
-outdated: true
----
 Global Moderation Team
 =========================
 
