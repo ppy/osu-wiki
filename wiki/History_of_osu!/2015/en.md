@@ -24,9 +24,17 @@ Links;
 - [peppy's remarks on osu!coins](https://disq.us/p/w2ydos)
 - [osu!next](http://osunext.tumblr.com/post/115384460628/the-super-early-ultra-alpha-buggy-read-only-of-the)
 
+## May
+
+peppy releases a teaser trailer for the new game client.
+
+Links:
+
+- [Comp 3 6c](https://www.youtube.com/watch?v=lrWyqpNUwBo)
+
 ## July
 
-peppy and flyte briefly explains why the temporary osu!web redesign subdomain was `jizz.ppy.sh` in an episode of osu!talk.
+peppy and flyte briefly explained why the temporary osu!web redesign subdomain was `jizz.ppy.sh` in an episode of osu!talk.
 
 Links:
 
