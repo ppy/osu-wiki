@@ -12,12 +12,13 @@ Links:
 
 ## June
 
-The osu!team participates in Anime Expo for the upcoming 10 years of osu!.
+The osu!team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Options).
 
 Links:
 
 - [2017.609.0 – ppy blog](https://blog.ppy.sh/2017.609.0/)
 - [2017.717.0 – ppy blog](https://blog.ppy.sh/2017.717.0/)
+- [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 
 ## December
 
