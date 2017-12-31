@@ -1,100 +1,100 @@
-# osu!wiki Contribution Guide
+# osu!wiki 贡献指南
 
-Thanks for your interest in making the osu!wiki better! At this time, contributing to the osu!wiki will require more time and slightly more effort to make your changes actually happen. This quick-start guide is intended for newcomers that have never worked with GitHub and the osu!wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
+感谢你有兴趣让 osu!wiki 变得更好！现在，为 osu!wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 Github 和了解过 osu!wiki 贡献工作流的新人。如果你已经有使用 Github 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
 
-If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
+如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)中询问我们。
 
-## Getting started
+## 开始
 
-### Signing up
+### 注册
 
-1\. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
+1\. 如果你没有 Github 账号，请[注册](https://github.com/join)一个。
 
-2\. [Log in](https://github.com/login).
+2\. [登录](https://github.com/login)你的账号。
 
-3\. Continue to [Forking](#forking).
+3\. 下一步：[Forking](#forking)。
 
 ### Forking
 
-1\. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
+1\. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2\. Click `Fork`.
+2\. 点击 `Fork`.
 
 ![](img/fork.jpg)
 
-3\. Click `Fork` again to go to your fork.
+3\. 再次点击 `Fork`，进入你自己的仓库。
 
-4\. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
+4\. 看到如下图所示的内容，意味你已经 fork 了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
 
 ![](img/forked.jpg)
 
-3\. Continue to [Syncing your fork](#syncing-your-fork).
+3\. 下一步：[同步你的仓库](#syncing-your-fork).
 
-### Syncing your fork
+### 同步你的仓库
 
-1\. Go to your work of the `osu-wiki` repo.
+1\. 在 `osu-wiki` 仓库中完成一些工作。
 
-2\. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says, `This branch is {n} commits behind ppy:master` or similar, your branch is outdated.
+2\. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后）, "ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
 
-3\. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed, which may be unlikely the more commits you are behind.
+3\. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4\. To resolve this, see [Common Issues § My branch is out of date!](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4\. 为了解决这个问题，请看[常见问题 § 我的分支过时了（out of date）！](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!)。
 
-5\. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
+5\. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#editing-online-or-locally)。
 
-## Editing online or locally
+## 在线编辑或本地编辑
 
-At this point, you have two choices:
+现在，你有两种选择：
 
-- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
+- [GitHub 网页](/wiki/owcg/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
+- [GitHub 桌面客户端](/wiki/owcg/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
-*Note: You are not limit to the two choices listed above for editing.* There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
+*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 Github 网页和桌面客户端所做的事情。
 
-**When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
+**当你阅读完成 *Github 网页* 或 *Github 桌面客户端*，你可以继续阅读下一章节。**
 
-## Finishing
+## 最后
 
-### Opening a pull request
+### 开一个 pull request
 
-1\. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
+1\. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
 
-2\. If you were quick enough, you may see this yellow banner.
+2\. 你可能会看到以下的黄色横幅（banner）。
 
 ![](img/github-recent.jpg)
 
-3\. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
+3\. 如果你看到了这个横幅，点击 `Compare & pull request` 按钮（跳到第8步）。如果没有，点击 `New pull request` 按钮（继续第4步）。
 
-4\. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+4\. 在下一个页面，如果你看到两个如下图所示的按钮，点击 `compare across forks`。
 
 ![](img/compare-across-forks-no.jpg "No good.")
 
 ![](img/compare-across-forks-yes.jpg "This is what you want to see.")
 
-5\. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
+5\. 点击 `head fork` 下拉菜单，选择有你的用户名的那一项（一般为第二项）。
 
 ![](img/head-fork.jpg)
 
-6\. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
+6\. 点击 `compare` 下拉菜单，选择你已经创建的那个分支，分支一般按字母排序。
 
 ![](img/compare-branch.jpg)
 
-7\. Click `Create pull request`.
+7\. 点击 `Create pull request`.
 
-8\. Enter the title in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article.
+8\. 输入英文的标题。一般标题命名方式是用方框括起来的两位语言代号，加上文章的标题。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
 
-9\. Fill in the description box with the requested information, you can delete sections if they do not apply.
+9\. 填写描述框中所需要的信息，你可以删除没有使用的部分。
 
-10\. Once you are ready, click `Create pull request`.
+10\. 完成后，点击 `Create pull request`。
 
 ![](img/new-pull-request.jpg "Perfect")
 
-11\. See [Reviews](#reviews) and [Merging](#merging) below.
+11\. 下一步： [审阅（reviews）](#reviews) 与 [合并（merging）](#merging) 。
 
-### Reviews
+### 审阅
 
-Once you have created your pull request, other osu!wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu!wiki editors in the [osu!dev Discord chat](https://discord.gg/ppy) or in the GitHub comments.
+当你创建了 pull request 后，其他 osu!wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，**否则你的 pull request 可能会被标记为“关闭”！如果你想要别人审阅你的 pull request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 Github 的评论中说明。
 
-### Merging
+### 合并
 
-For your changes to become appear live on the osu!wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord chat](https://discord.gg/ppy). Once it is merged, your changes will take up to five hours to appear live on the osu!wiki.
+为了让你的修改可以最终上线 osu!wiki，你的 pull request 需要被合并。一旦你的 pull request 被审阅和批准（approved），你可以在评论区或者 [osu!dev Discord 频道](https://discord.gg/ppy)中请求合并你的分支。一旦分支被合并，你的修改会在 5 小时内上线 osu!wiki。
