@@ -129,7 +129,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 |---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | First   | [Renril](https://osu.ppy.sh/u/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)          | WIP                           |
 | Second  | [Will Stetson](https://osu.ppy.sh/u/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)              | WIP                           |
-| Third   | [MissTitannia](https://osu.ppy.sh/u/139551) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | WIP                           |
+| Third   | [Thievley](https://osu.ppy.sh/u/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | WIP                           |
 
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
