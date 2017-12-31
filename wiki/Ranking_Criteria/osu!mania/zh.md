@@ -5,7 +5,7 @@ osu!mania Ranking Criteria
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
-这里记录了 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
+这里会列出 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
 
 术语
 ------
@@ -79,7 +79,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
     |o---|
     |----|
 
-这就是单指连打，英语又叫 jackhammer，击打起来十分困难。这个梗的难度也相当高，对于包括手速和控制力等能力的要求都十分苛刻。
+这就是单指连打，英语又叫 jackhammer，击打起来十分困难。这个梗的难度也相当高，对于手速和控制力等能力的要求都十分苛刻。
 
 ^ [Beethoven Symphony No. 5 - I. Allegro con brio](https://en.wikipedia.org/wiki/Symphony_No._5_%28Beethoven%29) 其中的第一小节钢琴。
 
