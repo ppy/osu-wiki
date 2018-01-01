@@ -23,6 +23,7 @@ Link to [user group page](https://osu.ppy.sh/g/7)
 | [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German                     |
 | [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German, Swiss, some French |
 | [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                            |
+| [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                      |
 | [Kurokami](https://osu.ppy.sh/u/260933)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Hungarian                  |
 | [Mao](https://osu.ppy.sh/u/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                     |
 | [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                    |
