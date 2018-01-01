@@ -98,14 +98,12 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Kibbleru](https://osu.ppy.sh/u/3193504)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Kin](https://osu.ppy.sh/u/480689)                | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | French                   |
 | [Kisses](https://osu.ppy.sh/u/4276114)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
-| [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
 | [Litharrale](https://osu.ppy.sh/u/3189995)        | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
 | [MaridiuS](https://osu.ppy.sh/u/4496961)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Serbian                 |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
 | [MBomb](https://osu.ppy.sh/u/3071175)             | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                          |
 | [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
-| [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][true] | ![Yes][true] | ![Yes][true] | ![No][false] |                          |
 | [Naotoshi](https://osu.ppy.sh/u/5364763)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Natsu](https://osu.ppy.sh/u/1953876)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish                  |
 | [neonat](https://osu.ppy.sh/u/1561995)            | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | Chinese                 |
