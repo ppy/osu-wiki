@@ -160,6 +160,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `laposte.net`
 - `sbcglobal.net`
 - `t-online.de`
+- `i.ua`
 
 ----------------------------------------------------------------------------
 
