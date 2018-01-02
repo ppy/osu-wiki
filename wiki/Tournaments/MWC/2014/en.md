@@ -8,7 +8,7 @@ The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania t
 ## Tournament schedule
 
 | Event                  | Timestamp             |
-|------------------------|-----------------------|
+|-----------------------:|-----------------------|
 | Registration Phase     | 2014-07-01/2014-07-20 |
 | Live Drawings          | 2014-08-02            |
 | Group Stage (4K)       | 2014-08-09/2014-08-10 |
@@ -20,6 +20,8 @@ The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania t
 
 ## Prizes
 
+In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
+
 | Placing | Prize(s) |
 |:---:|---|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 month supporter tag, profile badge, osu! merchandise, "osu!mania Champion" usertitle |
@@ -27,6 +29,8 @@ The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania t
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
 
 ## Organization
+
+The osu!mania World Cup 2014 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Job | Person(s) |
 |---|---|
@@ -40,29 +44,11 @@ The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania t
 
 ## Links
 
-- [osu!mania World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
-- [Registration Form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
+- **[osu!mania World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)**
+- **[Registration Form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)**
 - [Discussion Thread](https://osu.ppy.sh/forum/t/222100)
 - [Statistics: 4K Bracket](https://mwc.servegame.com/results/view/1)
 - [Statistics: 7K Bracket](https://mwc.servegame.com/results/view/2)
-
-------------------------------------------------------------------------
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | 4K Bracket Winners | 7K Bracket Winners |
-|:---:|---|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand**    |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia**    | ![][flag_MY] **Malaysia**    |
-
-------------------------------------------------------------------------
-
-![MWC 2014 4K brackets](brackets-4K.jpg)
-
-![MWC 2014 7K brackets](brackets-7K.jpg)
 
 ------------------------------------------------------------------------
 
@@ -117,6 +103,24 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_TH] | **Thailand** | **[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo[Mikoto]](https://osu.ppy.sh/users/445236) |
 | ![][flag_GB] | **United Kingdom** | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [The Muffin Man](https://osu.ppy.sh/users/2186171), [Mafham](https://osu.ppy.sh/users/3660531), [xWillx](https://osu.ppy.sh/users/696222) |
 | ![][flag_US] | **United States** | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | 4K Bracket | 7K Bracket |
+|:---:|---|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand**    |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia**    | ![][flag_MY] **Malaysia**    |
+
+------------------------------------------------------------------------
+
+![MWC 2014 4K brackets](brackets-4K.jpg)
+
+![MWC 2014 7K brackets](brackets-7K.jpg)
+
+------------------------------------------------------------------------
 
 ## Groups
 
