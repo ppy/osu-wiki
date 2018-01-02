@@ -1,80 +1,80 @@
-# Common Issues
+# 常见问题
 
-*Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
+*主页面: [osu!wiki 贡献指南](/wiki/owcg).*
 
-## Someone told me to use meaningful commit messages!
+## 什么叫做有意义的提交信息（commit messages）？
 
-This can also be phrased as, "All of my commits say 'Updated en.md'," or similar.
+这个问题也被表述为：“我的所有提交都是‘update en.md’”，或者相似的内容。
 
-If someone has told you this or you see that all of your commit messages are the same, this means you didn't use meaningful commit messages when you were able to or you tried to move, edit, and/or delete multiple files using the GitHub web interface.
+如果有人告诉你要使用有意义的提交信息，或者你的所有提交信息都是一样的，这意味着你当你在网页上移动，编辑或者删除文件时，没有使用有意义的提交信息。
 
-A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits. **Keep in mind that `Updated en.md` or similar does not mean anything because no one will know what specific changes you have made nor will they know which article you had changed.**
-
----
-
-To resolve this (for both GitHub Web Interface and GitHub Desktop editors):
-
-1. Go to your fork of the `osu-wiki` repo.
-2. Create a new branch. Name it the same thing as your problematic branch and append a number, or name it whatever you want.
-3. Create a pull request.
-4. If the `base fork` and `head fork` dropdown menus aren't present, click the `compare across forks` link.
-5. Change `head fork` to your fork.
-6. Change `compare` to your problematic branch.
-7. Change `base fork` to your fork.
-8. Change `base` to your new branch.
-9. Click `Create pull request`.
-10. Ignore the title and description box and click `Create pull request` again.
-11. Scroll down to the end of the timeline and click on the down arrow next to the `Merge pull request` button.
-12. Click `Squash and merge`.
-13. Click `Squash and merge` again.
-14. Fix the title (this will be the commit message; make sure it is meaningful).
-15. Fix the description (this will be the commit description; this is optional, but make sure you change it).
-16. Click `Confirm squash and merge`.
-17. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
-18. Close your pull request that has the problematic branch.
-19. Open a new pull request using the new branch.
-20. You can copy the description of the closed pull request into the new one you just opened. It is helpful to also include a reference to the other pull request you had closed.
-21. Click `Create pull request`. You are now done with fixing your commits. If you have completed the reviews from the closed pull request and you are certain that the pull request is ready to be merged, ask someone to merge it.
-
-Technicality, this is the best way to squash commits from a branch when limited to only using the GitHub web interface. It is impossible to squash commits using GitHub Desktop.
-
-## My branch is out of date!
-
-When you created your fork of the `osu-wiki` repo, you took a snapshot of the contents at that very moment. The problem is that it doesn't automatically update on its own, nor is there a silver bullet from GitHub to do this for you.
+一个有意义的提交信息指别人可以直观地理解你的所有修改，而不需要看 Github diff。提交信息有 72 个字符的限制，所以你需要尽量简洁的描述。如果你在精简信息时需要困难，你需要分割所修改的内容，进行多次提交。**请记住，`Update en.md` 或者相似的句子没有实际价值，因为别人不知道你具体做出了哪些修改，或者修改了哪篇文章。**
 
 ---
 
-To resolve this, there is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+为了解决这个问题（同时适用于桌面客户端和网页）:
 
-1. Go to [Upriver](https://upriver.github.io/).
-2. Click `Sign in with GitHub`, skip this if you have already done this.
-3. Click `Authorize upriver`, skip this if you have already done this.
-4. Select the following:
-   - into: *select your fork of the `osu-wiki` repo*
+1. 打开你的 osu-wiki 仓库主页。
+2. 创建一个新的分支并为它命名。
+3. 开一个 pull request。
+4. 如果 `base fork` 和 `head fork` 下拉菜单没有出现，点击 `compare across forks` 链接。
+5. 将 `head fork` 修改为你的仓库。
+6. 将 `compare` 修改为你的问题分支。
+7. 将 `base fork` 修改为你的仓库。
+8. 将 `base` 修改为你的新分支。
+9. 点击 `Create pull request`。
+10. 标题和描述留空，再次点击 `Create pull request`。
+11. 滚动到时间线的底部，点击 `Merge pull request` 按钮旁的下拉菜单。
+12. 点击 `Squash and merge`。
+13. Click `Squash and merge`。
+14. 修改标题（这样成为提交信息，请确认你的提交信息有意义）。
+15. 修改描述（这将成为提交描述，可以留空，请确认你是否修改它）。
+16. 点击 `Confirm squash and merge`。
+17. 转到 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
+18. 关闭你之前的有问题的那个 pull request。
+19. 使用新的分支再开一个新的 pull request。
+20. 你可以从旧的 pull request 中复制描述信息到新的 pull request 中。最好在新的 pull request 中提到（引用）你关闭的分支。
+21. 点击 `Create pull request`。你现在已经修复了你的提交。如果你已经完成旧的 pull request 中的 reviews，确认这个 pull request 可以合并的话，请求别人合并它。
+
+从技术上说，最好的方式是在分支上 squash（折叠）提交，可以不受 Github 网页上折叠提交历史的许多限制。另外，Github 桌面客户端上也无法 squash 提交。
+
+## 我的分支过期了（out of date）！
+
+你从 `osu-wiki` 仓库创建你自己的仓库，相当于保存了一份那个时刻的快照。问题在于，你的仓库不会自动与原始的仓库同步，Github 上也没有为你做这件事的银弹。（注：“银弹”指的是任何情况下都管用的方法，相当于中文常说的“万能药”，这句话的意思是说：没有一个完美的方法可以让两个仓库时刻保持同步。）
+
+---
+
+为了解决这个问题，可以使用一个叫做 [Upriver](https://upriver.github.io/) 的网站。正如网站介绍上所言，它可以“只使用 Github API，轻松地使你的 Github 仓库与上游仓库同步”。
+
+1. 进入 [Upriver](https://upriver.github.io/)。
+2. 点击 `Sign in with GitHub`，如果已经登录就跳过这一步。
+3. 点击 `Authorize upriver`，如果已经授权就跳过这一步。
+4. 像下面这样选择：
+   - into: *选择你自己的 `osu-wiki` 仓库*
    - branch: `master`
    - from: `ppy/osu-wiki`
    - branch: `master`
-   - force?: checked
-5. Click `Pull`.
-6. Click `Close`.
-7. (You can close out of Upriver).
+   - force?: 勾选
+5. 点击 `Pull`。
+6. 点击 `Close`。
+7. （现在你可以关闭 Upriver）。
 
-If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
+如果没有错误发送，你的 master 分支已经与 `ppy:master` 分支同步，你现在可以从你的仓库的 master 分支创建新的分支，而不会有冲突问题。
 
-## My pull request has conflicts!
+## 我的 pull request 有冲突！
 
-There are two reasons for why this could have happened:
+这个问题的发生一般有两个原因：
 
-- You edited a file when your branch was out of date.
-- There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours. (Technicality, this caused your edited files to become out of date).
+- 在你的分支过期的情况下，修改了文件。
+- 你和别人没有及时沟通，你们两个人修改了同一篇文章，但是别人的修改在你之前被合并。（从技术上说，这会造成你的修改成为过期状态）。
 
-Depending on the severity of the conflicts, you may have two options to fix this.
+你有两种方法解决它，取决于冲突的严重程度。
 
-1. If your pull request has the `Resolve conflicts` button, click on that. This will open a slightly different version of the web editor.
-   1. GitHub will highlight the conflicting areas. Find one of them.
-   2. Everything from `<<<<<<<` to the `=======` is your changes whereas everything from `=======` to `>>>>>>> master` is what's in the `ppy/master` branch.
-   3. From here, you will need to manually fix the conflict and delete the `<<<<<<<`, the `=======`, and `>>>>>>> master` markings.
-   4. Repeat for all.
-   5. When completed, click `Mark as resolved`. (This is only avliable when all conflicting parts of the file is resolved.)
-2. If the `Resolve conflicts` button is blocked due to it being too complicated for GitHub, you are out of luck and will need to [update your branch](#my-branch-is-out-of-date!) and make your changes again.
-   - *Note: This is only true if you are limited to using GitHub Web Interface.* There are still ways to fix it, but it will not be covered in this article and it may not be worth the effort to do so because you will overwrite and revert the conflicting changes.
+1. 如果你的 pull request 有 `Resolve conflicts` 按钮，点击它。这会打开一个文本修改对比的网页编辑器。
+   1. Github 会高亮有冲突的区域。找到它们。
+   2. 所有在 `<<<<<<<` 和 `=======` 之间的内容是你所做的修改。所有在 `=======` 和 `>>>>>>> master` 之间的内容是 `ppy/master` 分支上的内容。
+   3. 在这里，可以手动修改这些冲突的内容，最后删除 `<<<<<<<`，`=======`和`>>>>>>> master`标记。
+   4. 重复这个工作直至解决了所有冲突。
+   5. 当你完成后，点击 `Mark as resolved`。（只有这个文件中的所有冲突都被解决了才能点击。）
+2. 如果 `Resolve conflicts` 按钮无法点击（由于冲突比较复杂，难以在 Github 上解决），很不幸，你只能 [更新你的分支](#my-branch-is-out-of-date!)，重新做一次修改。
+   - *注意：仅仅使用 Github 网页，无法解决这样的冲突。* 但是，仍然有其他方式修复，在这篇文章中不会介绍这些方法，大部分时候没有必要这么麻烦，因为你需要覆盖和回退有冲突的修改。
