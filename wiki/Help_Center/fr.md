@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
@@ -158,7 +154,10 @@ Si vous nvous souvenez de l'addresse e-mail liée à votre compte, ou du moins v
 Si vous avez perdu le mot de passe de votre compte et que vous ne recevez aucun e-mail de récupération de mot de passe, ou que vous ne pouvez pas retrouver l'addresse e-mail que vous avez utilisé, veuillez contacter [accounts@ppy.sh](mailto:accounts@ppy.sh). N'importe quelle information que vous avez à propos de votre compte (votre nom d'utilisateur, n'importe quelle image qui vous montre connecté au client, des transactions passées dans le magasin ou un paiement de supporter, etc...) sera très utile !
 
 Enfin, nous savons que certains fournisseurs n'acceptent pas d'e-mails automatiques venant de nous. Si vous utilisez l'un de ces fournisseurs, veuillez nous contacter par e-mail et nous changerons votre addresse e-mail pour vous:
+- `att.net`
+- `bellsouth.net`
 - `free.fr`
+- `i.ua`
 - `laposte.net`
 - `sbcglobal.net`
 - `t-online.de`

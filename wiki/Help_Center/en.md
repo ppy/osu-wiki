@@ -157,10 +157,10 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
+- `i.ua`
 - `laposte.net`
 - `sbcglobal.net`
 - `t-online.de`
-- `i.ua`
 
 ----------------------------------------------------------------------------
 
