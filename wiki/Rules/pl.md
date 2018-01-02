@@ -51,7 +51,7 @@ Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria 
 Zasady dot. forum Off-Topic
 -----------------------------
 
-*Zasady poniżej dotyczą TYLKO forum [Off-Topic](https://osu.ppy.sh/community/forums/52) chyba, że jest zapisane inaczej.*
+*Te zasady mają zastosowanie TYLKO do forum [Off-Topic](https://osu.ppy.sh/community/forums/52).*
 
 1. **Każdy wątek w forum Off-Topic jest bezwartościowy.** Są po prostu śmieciowe. Jeżeli twoje wątki zostają przenoszone do Off-Topic, to oznacza to, że nie są warte dyskusji. Potraktuj to jako lekcję.
 2. **Nadmiar głupoty jest zły.** Bycie ujmująco głupim jest w porządku i klasyfikuje się to jako sposób działania shitpostingu. Natomiast prawdziwa głupota nigdy nie jest porządku. Jeżeli nie możesz zrozumieć różnicy, to już łamiesz tę zasadę.
