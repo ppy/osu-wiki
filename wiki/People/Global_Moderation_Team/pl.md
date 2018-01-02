@@ -6,7 +6,7 @@ Moderatorzy globalni
 Jak zostać moderatorem globalnym
 --------------
 
-Dołączenie do **zespołu moderatorów globalnych** wymaga znacznego wkładu ze strony użytkownika. Potencjalnych członków powinny cechować dobre zachowanie, aktywność w społeczności i wola do pomocy innym. Posługiwanie się językami obcymi innymi niż angielski jest również silnym atutem. Po spełnieniu przez kandydata tych wstępnych wymagań, członkowie moderacji prowadzą wewnętrzną dyskusję i decydują o przyjęciu bądź odrzuceniu danej osoby.
+Dołączenie do **zespołu moderatorów globalnych** wymaga znacznego wkładu ze strony użytkownika. Potencjalnych członków powinny cechować dobre zachowanie, aktywność w społeczności i wola do pomocy innym. Posługiwanie się dodatkowymi językami obcymi poza angielskim jest również silnym atutem. Po spełnieniu przez kandydata tych wstępnych wymagań, członkowie moderacji prowadzą wewnętrzną dyskusję i decydują o przyjęciu bądź odrzuceniu danej osoby.
 
 Role i zadania
 --------------
