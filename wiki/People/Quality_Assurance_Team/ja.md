@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
@@ -13,7 +16,7 @@ QATには厳しいアクティビティの制限を守る義務があり、内�
 Team Members
 ------------
 
-[Group Link](http://osu.ppy.sh/g/7)
+[Group Link](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages       |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------|

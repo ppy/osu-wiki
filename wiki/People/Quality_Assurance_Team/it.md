@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
@@ -13,7 +16,7 @@ I membri di questo team saranno promossi dal team [BN](/wiki/People/Beatmap_Nomi
 Membri del Team
 ------------
 
-[Link al Gruppo](http://osu.ppy.sh/g/7)
+[Link al Gruppo](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages       |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------|
