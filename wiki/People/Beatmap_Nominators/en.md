@@ -64,7 +64,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Asherz007](https://osu.ppy.sh/u/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
 | [Battle](https://osu.ppy.sh/u/4037545)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Benny-](https://osu.ppy.sh/u/4023183)            | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Norwegian                |
-| [Bonsai](https://osu.ppy.sh/u/987334)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                   |
 | [celerih](https://osu.ppy.sh/u/4696296)           | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] | French                   |
 | [Cerulean Veyron](https://osu.ppy.sh/u/1886524)   | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Arabic                   |
 | [Chaoslitz](https://osu.ppy.sh/u/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
