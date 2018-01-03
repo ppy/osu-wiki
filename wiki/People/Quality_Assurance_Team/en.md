@@ -13,7 +13,7 @@ Members of this team will be promoted from [BN's](/wiki/People/Beatmap_Nominator
 Team Members
 ------------
 
-Link to [user group page](https://osu.ppy.sh/g/7)
+Link to [user group page](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages       |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------|
