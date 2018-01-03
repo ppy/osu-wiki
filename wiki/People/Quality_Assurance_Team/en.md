@@ -20,7 +20,6 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                            |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German            |
 | [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Korean                     |
-| [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German                     |
 | [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German, Swiss, some French |
 | [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                            |
 | [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                      |
