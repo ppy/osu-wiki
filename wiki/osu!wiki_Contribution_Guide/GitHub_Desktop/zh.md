@@ -1,105 +1,105 @@
-# GitHub Desktop
+# GitHub 桌面客户端
 
-*Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
+*主页面: [osu!wiki 贡献指南](/wiki/owcg)。*
 
-*This article continues from the main page* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
+*这篇文章继续父页面的内容*，假设你即将使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使在你本地工作，你仍然需要访问 Github 来开 pull requests，使你的修改生效。
 
-## Installing GitHub Desktop
+## 安装 GitHub Desktop
 
-1\. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already.
+1\. 如果你还没有 GitHub Desktop 的话，请安装 [GitHub Desktop](https://desktop.github.com)。
 
-2\. When the installer is completed, GitHub Desktop will prompt you to login, click `Sign into GitHub.com`.
+2\. 当安装结束后，GitHub Desktop 会提示你登陆，点击 `Sign into GitHub.com`。
 
-3\. Fill in the prompts as they appear.
+3\. 填写账号密码。
 
-4\. Continue to [Cloning](#cloning).
+4\. 下一步： [克隆分支](#cloning)。
 
-## Cloning
+## 克隆分支
 
-1\. Click on `Clone a repository`.
+1\. 点击 `Clone a repository`。
 
-2\. This will show a list of your repos; select the `osu-wiki` repo.
+2\. 这里会显示你的所有分支，选择 `osu-wiki` 仓库。
 
-3\. Select the clone location. It doesn't matter where you clone the repo to, just remember where you cloned it to.
+3\. 选择保存的位置。放在哪里都可以，请记住你保存的位置。
 
 ![](img/github-desktop-select-repo.jpg)
 
-4\. Click `Clone`. This may take a while depending on your network environment.
+4\. 点击 `Clone`。耐心等待一会儿，等待时间取决于你的网络状况。
 
-5\. Continue to [Branching](#branching).
+5\. 下一步：[分支](#branching)。
 
-## Branching
+## 修改分支名称
 
-*Note: This is technically optional, but is heavily recommended due to reasons that you will need to look up for yourself.*
+*提示：这一步是可选步骤，但是非常建议修改你的分支的名称，以便以后使用。*
 
-1\. Click on the `Current branch` dropdown. This is located at the top of the menu.
+1\. 在菜单的顶部，点击 `Current branch` 下拉菜单。
 
-2\. Enter a name for this branch. It is suggested to use the name of the article you are editing as the branch name followed by a number. For example, editing the `Forums` article may result in the branch being called `forums1`.
+2\. 为这个分支输入一个名字。建议使用你正在修改的文章的名字，后面接一个数字。比如，编辑 `Forums` 文章，可以使用分支名 `forums1`。
 
 ![](img/github-desktop-branch.jpg)
 
-3\. Continue to [Editing](#editing).
+3\. 下一步：[编辑](#editing)。
 
-## Editing
+## 编辑
 
-1\. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
+1\. 在你已经克隆下来的仓库的文件夹中，找到你想要修改的文件。这些文章以文章标题作为文件夹名称，以 `.md` 为后缀的文件作为语言文件。
 
-2\. Once you find the correct file, open it using your favorite text editor.
+2\. 当你找到文件后，用你最喜欢的文本编辑器打开它。
 
-3\. You can now make your changes. When making changes, try to follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
+3\. 你现在可以修改该文件。当你编辑时，请尽可能遵循 [文章风格指南](/wiki/ASC)。
 
-4\. Continue to [Committing and pushing](#committing-and-pushing).
+4\. 下一步 [提交和推送](#committing-and-pushing)。
 
-### Moving existing files
+### 移动文件
 
-1\. Use Windows Explorer to move files around.
+1\. 使用 Windows 资源管理器移动文件。
 
-2\. Continue to [Committing and pushing](#committing-and-pushing).
+2\. 下一步 [提交和推送](#committing-and-pushing)。
 
-### Creating new files
+### 创建新文件
 
-*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
+*注意：如果你在 Windows 资源管理器中创建新的文件，请确认 `文件扩展名` 选项已勾选。* 更多介绍：[如何显示或隐藏文件扩展名](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer)
 
-1\. Use Windows Explorer, your favorite image editor, and/or your favorite text editor to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
+1\. 使用 Windows 资源管理器，你的图片编辑器，和你的文本编辑器创建新文件。如果你想要创建新的文章或者添加新的文章翻译，文件命名请遵循 [文章风格指南 - 本地化](/wiki/ASC/#locales)。
 
-2\. Continue to [Committing and pushing](#committing-and-pushing).
+2\. 下一步 [提交和推送](#committing-and-pushing)。
 
-### Deleting files
+### 删除文件
 
-1\. Use Windows Explorer to delete files.
+1\. 使用 Windows 资源管理器删除文件。
 
-2\. Continue to [Committing and pushing](#committing-and-pushing).
+2\. 下一步 [提交和推送](#committing-and-pushing)。
 
-## Committing and pushing
+## 提交和推送
 
-1\. Go back to GitHub Desktop. It should look something similar to this:
+1\. 回到 Github Desktop。会有类似于这样的内容：
 
 ![](img/github-desktop-changes.jpg "Your mileage may vary.")
 
-2\. By default, GitHub Desktop will automatically select all of your changes.
+2\. 默认地，Github Desktop 会自动选择你的所有修改。
 
-3\. It is best to separate each "big" action as a single commit.
+3\. 最好把每一个“大”的修改作为一次提交。
 
-For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and deleted the translations. From this, we can have two commits, one for the changes that affected the `en.md` file and one for deleting the translations.
+比如，如上图所示，[pippi](/wiki/Mascots/#pippi) 已经添加了一个图片文件，修改了 `en.md` 文件（为图片添加标题和链接），并且删除已有翻译。对于这种情况，我们可以进行两次提交，一次提交 `en.md` 文件，另一次删除已有翻译。
 
-4\. Select the files that are going to be committed.
+4\. 选择将要提交的文件。
 
-5\. Enter the commit summary. This has a 72 character limit and **must be in English**.
+5\. 输入提交信息。有72个字符的长度限制，并且**必须使用英文**。
 
-6\. Enter the description. This is optional, doesn't have a character limit, and could be in any language.
+6\. 输入描述。这步是可选步骤，没有字数限制，可以使用任何语言。
 
 ![](img/github-desktop-first-commit.jpg "First commit")
 
-7\. Click on the blue `Commit to` button and, and if applicable, restart from step 4 to do the other commits you want to do.
+7\. 点击蓝色的 `Commit to` 按钮。成功后，如果你还有其他要提交的文件，回到第 4 步。
 
 ![](img/github-desktop-second-commit.jpg "Second commit")
 
-8\. Once you have finished making your commits, click on the `Publish branch` button at the top.
+8\. 当你完成你的提交后，点击最上面的 `Publish branch` 按钮。
 
 ![](img/github-desktop-push.jpg)
 
-9\. Continue to [Finishing](#finishing).
+9\. 下一步： [完成](#finishing)。
 
-## Finishing
+## 完成
 
-You can now go back to the [osu!wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+你现在可以回到 [osu!wiki 贡献指南](/wiki/owcg/#finishing)，继续阅读与 pull request 和审阅有关的信息。
