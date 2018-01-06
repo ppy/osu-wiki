@@ -113,7 +113,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Plaudible](https://osu.ppy.sh/u/7149815)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                          |
 | [Regraz](https://osu.ppy.sh/u/3076909)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [Rivals_7](https://osu.ppy.sh/u/4610379)          | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
-| [Rizia](https://osu.ppy.sh/u/1367570)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [sahuang](https://osu.ppy.sh/u/5318910)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [sheela](https://osu.ppy.sh/u/1138027)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Sinnoh](https://osu.ppy.sh/u/4236057)            | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] |                         |
@@ -133,5 +132,4 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Weber](https://osu.ppy.sh/u/6410432)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                          |
 | [xfraczynho](https://osu.ppy.sh/u/2192669)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish                  |
 | [YaHao](https://osu.ppy.sh/u/2633753)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Chinese                  |
-| [Zero__Wind](https://osu.ppy.sh/u/1822830)        | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [ZiRoX](https://osu.ppy.sh/u/200768)              | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish                  |
