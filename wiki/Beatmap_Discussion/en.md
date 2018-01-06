@@ -1,6 +1,6 @@
 # Beatmap Discussion
 
-Beatmap Discussion (introduced as *Modding v2*) is now live on Stable (Latest), Beta, and Cutting Edge!
+Beatmap Discussion (introduced as *Modding v2*) is now live!
 
 ## Submitting a beatmap for Beatmap Discussion
 
@@ -153,8 +153,8 @@ Enabling the pin will allow the [modding field](#modding-field) to scroll with y
 
 Hype is used to help push beatmaps forward to nomination; similar to how Star Priority was previously used. Once a beatmapset receives 5 Hype, it becomes eligible for Nomination. Please note the following:
 
-- Each user has a limited supply of hype (3 per month to start).
-  - You will regain a hype 30 days after it was used.
+- Each user has a limited supply of hype (5 per week to start).
+  - You will regain a hype 7 days after it was used.
 <!-- - Hype can only be used after playing through a difficulty from a beatmapset. -->
 
 ### Nomination
