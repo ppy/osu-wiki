@@ -2,7 +2,7 @@
 
 *父页面: [osu!wiki 贡献指南](/wiki/owcg).*
 
-*这篇文章继续父页面的内容.* 如果你正在修改多篇文章（包括上传，删除，移动图片或其他文件），请阅读另一篇指南——[GitHub Desktop](/wiki/owcg/GitHub_Desktop)。
+*这篇文章继续父页面的内容.* 如果你打算修改多篇文章（包括上传，删除，移动图片或其他文件），请阅读另一篇指南——[GitHub Desktop](/wiki/owcg/GitHub_Desktop)。
 
 ## 编辑
 
@@ -22,7 +22,7 @@
 
 ### 移动文件
 
-*注意：**不推荐**这么做*。因为你只能一次移动一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 pull request。
+_注意：**不推荐**这么做_。因为你只能一次移动一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 Pull Request。
 
 1\. 定位到你希望文章移动的文件，然后打开它。
 
@@ -46,7 +46,7 @@
 
 3\. 点击 `Create new file`。
 
-4\. 输入你想要创建文章的路径和文件名。路径必须以 `wiki` 开头，接着是文章标题，然后是本地语言代码和 `.md` 文件后缀名。本地语言代码请参考[文章风格指南 - 本地语言代码](/wiki/ASC/#locales)。
+4\. 输入你想要创建文章的路径和文件名。路径必须以 `wiki` 开头，接着是文章标题，然后是本地语言代码和 `.md` 文件后缀名。本地语言代码请参考[文章风格指南 - 本地化](/wiki/ASC/#本地化)。
 
 5\. 下一步：[保存和提交](#保存和提交)。
 
@@ -66,7 +66,7 @@
 
 ### 删除文件
 
-*警告: **不建议**这么做，因为你只能一次删除一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 pull request。*
+*警告：**不建议**这么做，因为你只能一次删除一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 Pull Request。*
 
 1\. 打开你的 osu-wiki 仓库主页。
 
@@ -88,13 +88,13 @@
 
 ![](img/online-commit-changes-filled.jpg "This is okay!")
 
-4\. 如果这是你第一次修改这个文件，选择 `Create a new branch for this commit and start a pull request` （为这个提交创建新的分支并开一个 pull request）选项。这样你可以对多篇不同的文章做修改（下一步：第 5 步）。如果不是第一次修改，选择 `Commit directory to the {xxxxxx} branch.`（提交到 {xxxxxx} 分支）（下一步，第 6 步）。
+4\. 如果这是你第一次修改这个文件，选择 `Create a new branch for this commit and start a pull request` （为这个提交创建新的分支并开一个 Pull Request）选项。这样你可以对多篇不同的文章做修改（下一步：第 5 步）。如果不是第一次修改，选择 `Commit directory to the {xxxxxx} branch.`（提交到 {xxxxxx} 分支）（下一步，第 6 步）。
 
 5\. 为该分支取一个合适的名字，请记住这个名字。
 
 6\. 点击绿色的按钮；会有提示说：`Propose file change`（准备文件修改）或者 `Commit changes`（提交修改），取决于你是否创建新的分支。
 
-7\. 点击后会 Github 做两件事，将你所做的修改保存进你刚刚命名的分支，并打开 pull request 页面。
+7\. 点击后会 GitHub 做两件事，将你所做的修改保存进你刚刚命名的分支，并打开 Pull Request 页面。
 
 ![](img/pull-request-pippi-osu--osu-wiki.jpg "Don't do anything here! (This is the wrong page!)")
 
@@ -102,4 +102,4 @@
 
 ## 完成
 
-你现在可以回到 [osu!wiki 贡献指南](/wiki/owcg/#finishing)，继续阅读与 pull request 和审阅有关的信息。
+你现在可以回到 [osu!wiki 贡献指南](/wiki/owcg/#完成)，继续阅读与 Pull Request 和审阅有关的信息。

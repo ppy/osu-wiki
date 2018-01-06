@@ -1,6 +1,6 @@
 # osu!wiki 贡献指南
 
-感谢你有兴趣让 osu!wiki 变得更好！现在，为 osu!wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 Github 和了解过 osu!wiki 贡献工作流的新人。如果你已经有使用 Github 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
+感谢你有兴趣让 osu!wiki 变得更好！现在，为 osu!wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu!wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
 
 如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)中询问我们。
 
@@ -8,13 +8,13 @@
 
 ### 注册
 
-1\. 如果你没有 Github 账号，请[注册](https://github.com/join)一个。
+1\. 如果你没有 GitHub 账号，请[注册](https://github.com/join)一个。
 
 2\. [登录](https://github.com/login)你的账号。
 
-3\. 下一步：[Forking](#forking)。
+3\. 下一步：[服务端的仓库克隆](#服务端的仓库克隆)。
 
-### Forking
+### 服务端的仓库克隆
 
 1\. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
@@ -24,11 +24,11 @@
 
 3\. 再次点击 `Fork`，进入你自己的仓库。
 
-4\. 看到如下图所示的内容，意味你已经 fork 了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
+4\. 看到如下图所示的内容，意味你已经克隆了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
 
 ![](img/forked.jpg)
 
-3\. 下一步：[同步你的仓库](#syncing-your-fork).
+3\. 下一步：[同步你的仓库](#同步你的仓库).
 
 ### 同步你的仓库
 
@@ -38,9 +38,9 @@
 
 3\. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4\. 为了解决这个问题，请看[常见问题 § 我的分支过时了（out of date）！](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!)。
+4\. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues/#我的分支过期了！)。
 
-5\. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#editing-online-or-locally)。
+5\. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
 ## 在线编辑或本地编辑
 
@@ -49,13 +49,13 @@
 - [GitHub 网页](/wiki/owcg/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
-*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 Github 网页和Desktop所做的事情。
+*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和Desktop所做的事情。
 
-**当你阅读完成 *Github 网页* 或 *Github Desktop*，你可以继续阅读下一章节。**
+**当你阅读完成 *GitHub 网页* 或 *GitHub Desktop*，你可以继续阅读下一章节。**
 
-## 最后
+## 完成
 
-### 开一个 pull request
+### 开一个 Pull Request
 
 1\. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
 
@@ -89,12 +89,14 @@
 
 ![](img/new-pull-request.jpg "Perfect")
 
-11\. 下一步： [审阅（reviews）](#reviews) 与 [合并（merging）](#merging) 。
+11\. 下一步： [审阅（reviews）](#审阅) 与 [合并（merging）](#合并) 。
 
 ### 审阅
 
-当你创建了 pull request 后，其他 osu!wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 pull request 可能会被标记为“关闭”！如果你想要别人审阅你的 pull request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 Github 的评论中说明。
+当你创建了 Pull Request 后，其他 osu!wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
+
+注：对于中文文章，你可以通过 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 
 ### 合并
 
-为了让你的修改可以最终上线 osu!wiki，你的 pull request 需要被合并。一旦你的 pull request 被审阅和批准（approved），你可以在评论区或者 [osu!dev Discord 频道](https://discord.gg/ppy)中请求合并你的分支。一旦分支被合并，你的修改会在 5 小时内上线 osu!wiki。
+为了让你的修改可以最终上线 osu!wiki，你的 Pull Request 需要被合并。一旦你的 Pull Request 审阅完成并得到批准（Approved），你可以在评论区或者 [osu!dev Discord 频道](https://discord.gg/ppy)中请求合并你的分支。一旦分支被合并，你的修改会在 5 小时内上线 osu!wiki。

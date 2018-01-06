@@ -2,7 +2,7 @@
 
 *主页面: [osu!wiki 贡献指南](/wiki/owcg)。*
 
-*这篇文章继续父页面的内容*，假设你即将使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使在你本地工作，你仍然需要访问 Github 来开 pull requests，使你的修改生效。
+*这篇文章继续父页面的内容*，假设你即将使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使在你本地工作，你仍然需要访问 GitHub 来开 Pull Requests，使你的修改生效。
 
 ## 安装 GitHub Desktop
 
@@ -12,9 +12,9 @@
 
 3\. 填写账号密码。
 
-4\. 下一步： [克隆分支](#cloning)。
+4\. 下一步： [克隆](#克隆)。
 
-## 克隆分支
+## 克隆
 
 1\. 点击 `Clone a repository`。
 
@@ -26,7 +26,7 @@
 
 4\. 点击 `Clone`。耐心等待一会儿，等待时间取决于你的网络状况。
 
-5\. 下一步：[分支](#branching)。
+5\. 下一步：[修改分支名称](#修改分支名称)。
 
 ## 修改分支名称
 
@@ -38,7 +38,7 @@
 
 ![](img/github-desktop-branch.jpg)
 
-3\. 下一步：[编辑](#editing)。
+3\. 下一步：[编辑](#编辑)。
 
 ## 编辑
 
@@ -48,35 +48,35 @@
 
 3\. 你现在可以修改该文件。当你编辑时，请尽可能遵循 [文章风格指南](/wiki/ASC)。
 
-4\. 下一步 [提交和推送](#committing-and-pushing)。
+4\. 下一步 [提交和推送](#提交和推送)。
 
 ### 移动文件
 
 1\. 使用 Windows 资源管理器移动文件。
 
-2\. 下一步 [提交和推送](#committing-and-pushing)。
+2\. 下一步 [提交和推送](#提交和推送)。
 
 ### 创建新文件
 
-*注意：如果你在 Windows 资源管理器中创建新的文件，请确认 `文件扩展名` 选项已勾选。* 更多介绍：[如何显示或隐藏文件扩展名](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer)
+*注意：如果你在 Windows 资源管理器中创建新的文件，请确认 `文件扩展名` 选项已勾选。* 更多介绍：[如何显示或隐藏文件扩展名](https://support.microsoft.com/zh-cn/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer)
 
-1\. 使用 Windows 资源管理器，你的图片编辑器，和你的文本编辑器创建新文件。如果你想要创建新的文章或者添加新的文章翻译，文件命名请遵循 [文章风格指南 - 本地化](/wiki/ASC/#locales)。
+1\. 使用 Windows 资源管理器，你的图片编辑器，和你的文本编辑器创建新文件。如果你想要创建新的文章或者添加新的文章翻译，文件命名请遵循 [文章风格指南 - 本地化](/wiki/ASC/#本地化)。
 
-2\. 下一步 [提交和推送](#committing-and-pushing)。
+2\. 下一步 [提交和推送](#提交和推送)。
 
 ### 删除文件
 
 1\. 使用 Windows 资源管理器删除文件。
 
-2\. 下一步 [提交和推送](#committing-and-pushing)。
+2\. 下一步 [提交和推送](#提交和推送)。
 
 ## 提交和推送
 
-1\. 回到 Github Desktop。会有类似于这样的内容：
+1\. 回到 GitHub Desktop。会有类似于这样的内容：
 
 ![](img/github-desktop-changes.jpg "Your mileage may vary.")
 
-2\. 默认地，Github Desktop 会自动选择你的所有修改。
+2\. 默认地，GitHub Desktop 会自动选择你的所有修改。
 
 3\. 最好把每一个“大”的修改作为一次提交。
 
@@ -84,7 +84,7 @@
 
 4\. 选择将要提交的文件。
 
-5\. 输入提交信息。有72个字符的长度限制，并且**必须使用英文**。
+5\. 输入提交信息。有 72 个字符的长度限制，并且**必须使用英文**。
 
 6\. 输入描述。这步是可选步骤，没有字数限制，可以使用任何语言。
 
@@ -98,8 +98,8 @@
 
 ![](img/github-desktop-push.jpg)
 
-9\. 下一步： [完成](#finishing)。
+9\. 下一步： [完成](#完成)。
 
 ## 完成
 
-你现在可以回到 [osu!wiki 贡献指南](/wiki/owcg/#finishing)，继续阅读与 pull request 和审阅有关的信息。
+你现在可以回到 [osu!wiki 贡献指南](/wiki/owcg/#完成)，继续阅读与 Pull Request 和审阅有关的信息。
