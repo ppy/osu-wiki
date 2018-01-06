@@ -20,6 +20,10 @@ AFK is an internet acronym that means _Away From Keyboard_. An example of this i
 
 In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
 
+### Aspire
+
+Aspire is a beatmapping [contest](/wiki/contest) where the creators are encouraged to fully ignore the [Ranking Criteria](/wiki/Ranking_Criteria). These beatmaps tend to result in more cosmetically appealing, but near-impossible to play for the average player, beatmaps.
+
 ### Authentic
 
 Authentic denotes a beatmap that emulates in every aspect of a specific stage from the [DS games](/wiki/DS_games) (song, settings, object placement, etc.).
