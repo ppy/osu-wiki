@@ -41,7 +41,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ------------------------------------------------------------------------
