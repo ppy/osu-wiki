@@ -8,7 +8,7 @@ And here we go again! Another fresh edition of the osu!mania 7K World Cup takes 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
 For more details , refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/7K/)**.
-You can discuss this event in **[official discussion thread](https://osu.ppy.sh/community/forums/topics/687190)**
+You can discuss this event and see the summary of the most important changes in **[official discussion thread](https://osu.ppy.sh/community/forums/topics/687190)**
 
 ## Tournament Schedule
 
