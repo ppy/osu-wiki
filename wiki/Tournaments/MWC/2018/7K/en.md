@@ -155,8 +155,8 @@ The mappools will be revealed one week in advance of each stage and will be disp
 **Winning conditions:**
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In the Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+   - In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 
