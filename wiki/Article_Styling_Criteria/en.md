@@ -450,15 +450,15 @@ When referring to the name of a language, capitalize the first letter of that la
 - The `#spanish` chat channel are for those who speak **Spanish**.
 - The `#french` chat channel are for those who speak **French**.
 
-### Abbreviations
+### Abbreviations and acronyms
 
-When using abbreviations, it is really important to note what the abbreviation means upon their first occurrence. For example:
+When using abbreviations and/or acronyms, it is really important to note what the abbreviations and/or acronyms mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
 
 ```
-The NC (Nightcore) mod is similar to the DT (Double Time) mod. While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
+The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-All abbreviations of **must** be capitalised. For example:
+All abbreviations and acronyms of **must** be capitalised. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -468,6 +468,10 @@ All abbreviations of **must** be capitalised. For example:
 ---
 
 Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbreviation for "for example" (it is the abbreviation for "exercise").
+
+---
+
+When pluralizing acronyms and/or abbreviations, use an apostrophe followed by the letter `s` (`'s`) (e.g. `BN's`, `QAT's`, `GMT's`). If this writing style appears foreign or weird to you, try rewriting the sentence to avoid doing so in the first place.
 
 ### Serial comma
 
@@ -549,4 +553,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Do not pluralize the abbreviation "BN" (never use `BNs`). Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
