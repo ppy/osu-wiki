@@ -63,7 +63,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 ### Tournament Rules
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode.
-   **- While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.
+   - **While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.**
 
 2. Beatmap scoring is based on Score V2.
 
