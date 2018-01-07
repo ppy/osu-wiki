@@ -41,9 +41,8 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192) # complete with MWC thread if it ever happens
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)** # to be updated with the MWC7K one
 
 ------------------------------------------------------------------------
 
@@ -73,7 +72,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
+6. Failed players scores do not get added to the team score.
    - Reviving and surviving during a beatmap gets considered as passing it.
 
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
@@ -82,6 +81,8 @@ The mappools will be revealed one week in advance of each stage and will be disp
    - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
+11. **The size of each team is restricted to a maximum of 4 players and a minimum of 2.**
+   - This might change depending on the amount of registrations.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
@@ -149,6 +150,8 @@ The mappools will be revealed one week in advance of each stage and will be disp
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
+*Note that the Grand Finals weekend will also include the 3rd place match of the tournament*
+
 **Winning conditions:**
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -161,7 +164,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC7K 2018: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
-2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
+2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
@@ -172,7 +175,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
+1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
   - The mappool for the Grand Finals will be the same one as the one used on the Finals.
 
 2. Each mappool consists of a fixed amount of maps each stage (see bellow) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
