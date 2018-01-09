@@ -69,17 +69,18 @@ The mappools will be revealed one week in advance of each stage and will be disp
 
 2. Beatmap scoring is based on Score V2.
 
-3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+3. The beatmaps for each round will be announced by the Map Selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
-6. Failed players scores do not get added to the team score.
-   - Reviving and surviving during a beatmap gets considered as passing it.
+6. Failed players' scores do not get added to the team score.
+   - Reviving and surviving during a beatmap is considered as passing it.
 
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
+   - If a game is nullified the beatmap will be replayed.
 9. If a player disconnects, they get treated as if they failed the beatmap.
    - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 
@@ -96,14 +97,14 @@ The mappools will be revealed one week in advance of each stage and will be disp
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
-19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+19. In the Group stage, a 'Win by default' will be considered as a win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
-    - Exclusion of specific players for one beatmap
-    - Exclusion of specific players for an entire match
-    - Declaring the match as Lost by Default
-    - Disqualification from the entire tournament
-    - Disqualification from the current and future official tournaments until appealed
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as "Lost by Default".
+    - Disqualification from the entire tournament.
+    - Disqualification from the current and future official tournaments until appealed.
     - Any modification of these rules will be announced.
 
 ### Tournament Registration
@@ -142,7 +143,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    -  This may change with the actual Group Stage setup.
 
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
