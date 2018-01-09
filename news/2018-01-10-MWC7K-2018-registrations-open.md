@@ -12,14 +12,14 @@ You can discuss this event and follow the most important changes in the **[offic
  
 ## Tournament Schedule
  
-+ Registration Phase: 10th - 24th January 2018
-+ Drawings: 3rd February 2018 (14:00 UTC+0)
-+ Group Stage: 10th - 11th February 2018
-+ Round of 16: 17th - 18th February 2018
-+ Quarterfinals: 24th - 25th February 2018
-+ Semifinals: 3rd - 4th March 2018
-+ Finals: 10th - 11th March 2018
-+ Grand Finals: 17th - 18th March 2018
++ Registration Phase: 2018-01-10th/2018-01-24
++ Drawings: 2018-02-3rd 14:00:00 UTC
++ Group Stage: 2018-02-10/2018-02-11
++ Round of 16: 2018-02-17/2018-02-18
++ Quarterfinals: 2018-02-24/2018-02-25
++ Semifinals: 2018-03-03/2018-03-04
++ Finals: 2018-03-10/2018-03-11
++ Grand Finals: 2018-03-17/2018-03-18
  
 ## Prizes
 + **1st:** Profile badge, "osu!mania Champion" user title for one year
