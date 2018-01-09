@@ -26,18 +26,18 @@ You can discuss this event and follow the most important changes in the **[offic
 + **2nd:** Profile badge
 + **3rd:** Profile badge
 
-_The rest of the prices will be determinated during the registration phase_
+_The rest of the prizes will be determined during the registration phase_
  
 ## How do I register?
  
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/13)**
-+ Do not create teams in advance! Teams will be formed by country’s team captains after the registration phase has concluded.
++ Do not create teams in advance! Teams will be formed by the country’s team captain after the registration phase has concluded.
 + Hand in your registration before **24. January 2018.**
  
  
 Note that you can only participate if you are of a **osu!mania global ranking of #5000 or higher and did not violate the [osu! community rules](/wiki/Rules) in the past 12 months**.
  
-If your registration successfully passed our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
+If your registration successfully passes our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
  
 _Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
  
