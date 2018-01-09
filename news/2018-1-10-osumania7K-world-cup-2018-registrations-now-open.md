@@ -7,24 +7,24 @@ date: 2018-1-10 01:00:00 +0000
 And here we go again! Another fresh edition of the osu!mania 7K World Cup takes place yet again and this time with all it's force!
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
-For more details , refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/7K/)**.
-You can discuss this event and see the summary of the most important changes in **[official discussion thread](https://osu.ppy.sh/community/forums/topics/687190)**
+For more details, refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/7K/)**.
+You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/687190)**.
 
 ## Tournament Schedule
 
-+ Registration Phase: 10.- 24. January 2018
-+ Drawings: 3. February 2018 (14:00 UTC+0)
-+ Group Stage: 10. - 11. February 2018
-+ Round of 16: 17. - 18. February 2018
-+ Quarterfinals: 24. - 25. February 2018
-+ Semifinals: 3. - 4. March 2018
-+ Finals: 10. - 11. March 2018
-+ Grand Finals: 17. - 18. March 2018
++ Registration Phase: 10th - 24th January 2018
++ Drawings: 3rd February 2018 (14:00 UTC+0)
++ Group Stage: 10th - 11th February 2018
++ Round of 16: 17th - 18th February 2018
++ Quarterfinals: 24th - 25th February 2018
++ Semifinals: 3rd - 4th March 2018
++ Finals: 10th - 11th March 2018
++ Grand Finals: 17th - 18th March 2018
 
 ## Prizes
-+ **1st:** exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year
-+ **2nd:** exclusive osu! tumbler and pins, profile badge
-+ **3rd:** exclusive osu! tumbler and pins, profile badge
++ **1st:** exclusive osu! pins, profile badge, "osu!mania Champion" user title for one year
++ **2nd:** exclusive osu! pins, profile badge
++ **3rd:** exclusive osu! and pins, profile badge
 
 ## How do I register?
 
