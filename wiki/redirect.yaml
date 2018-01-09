@@ -886,6 +886,10 @@
 
 "play_style":                  "Play_Styles"
 
+"game_modes/external_ports": "Projects"
+"external_ports": "Projects"
+"tools": "Projects"
+
 "rc":                          "Ranking_Criteria"
 
 "code_of_conduct":                      "Ranking_Criteria/Code_of_Conduct"
