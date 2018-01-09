@@ -113,16 +113,17 @@ Links:
 
 ## November
 
-[MOtOLOiD](/beatmaps/artists/19) was announced to be another featured artist. The Winter 2017 Fanart Contest was opened.
+[MOtOLOiD](/beatmaps/artists/19) was announced to be another featured artist. peppy opened a forum thread to centralise his thoughts on touchscreens; along with some answers to frequently proposed solutions. The `#osu-performance` channel in the osu!dev Discord server was opened to allow open discussion. The Winter 2017 Fanart Contest was opened.
 
 Links:
 
 - [New Featured Artist: MOtOLOiD](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid)
+- [osu!, touchscreens and you](https://osu.ppy.sh/community/forums/topics/665986)
 - [Winter 2017 Fanart Contest](https://osu.ppy.sh/home/news/2017-11-26-winter-2017-fanart-contest)
 
 ## December
 
-OWC 2017 concluded with Poland being victorious. Another handful of community contributors were announced. Thanks to LiquidPL, the cringey download page in osu!web has been redone. 11 days before Christmas revealed the results to be Winter 2017 Fanart Contest. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to osu!lazer.
+The Winter 2017 Fanart Contest results were in, awarding [Leissss](/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to osu!lazer.
 
 Links:
 
