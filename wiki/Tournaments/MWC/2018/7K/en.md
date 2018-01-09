@@ -9,14 +9,14 @@ The **osu!mania 7K World Cup 2018** (**_MWC 7K 2018_**) is a country-based osu!m
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 10.- 24. January 2018 |
-| Drawings | 3. February 2018 (14:00 UTC+0) |
-| Group Stage | 10. - 11. February 2018 |
-| Round of 16 | 17. - 18. February 2018 |
-| Quarterfinals | 24. - 25. February 2018 |
-| Semifinals | 3. - 4. March 2018 |
-| Finals | 10. - 11. March 2018 |
-| Grand Finals | 17. - 18. March 2018 |
+| Registration Phase | 10th - 24th January 2018 |
+| Drawings | 3rd February 2018 (14:00 UTC+0) |
+| Group Stage | 10th - 11th February 2018 |
+| Round of 16 | 17th - 18th February 2018 |
+| Quarterfinals | 24th - 25th February 2018 |
+| Semifinals | 3rd - 4th March 2018 |
+| Finals | 10th - 11th March 2018 |
+| Grand Finals | 17th - 18th March 2018 |
 
 ## Prizes
 
