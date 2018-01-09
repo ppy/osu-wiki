@@ -26,10 +26,15 @@ Listed below are projects that are (or were once) tools or services made by the 
 Projects listed here are still being worked on and are currently tools or services that you can still use with support from the developer.
 
 - Bulk Beatmap Downloader - [forums](/community/forums/topics/221482) - [GitLab](https://git.hexide.com/miz/osumirror)
+  - Bulk Beatmap Downloader is an application made for downloading multiple beatmaps simultaneously.
 - opsu! - [forums](/community/forums/topics/221726) - [GitHub](https://github.com/itdelatrisu/opsu) - [website](http://itdelatrisu.github.io/opsu/)
+  - opsu! (open-source osu! client) is an unofficial osu! client written in Java. Since the project is written in Java, the supported platforms widens to whichever operating system that can run Java applications (something that osu! has yet to do).
 - osu! Skins Database - [forums](/community/forums/topics/137046) - [website](https://osuskins.info)
+  - osu! Skins Database is a database for uploading, editing, and downloading skins. It is a service that can allow you to share your skins with other players.
 - osu!Sync - [forums](/community/forums/topics/270446) - [GitHub](https://github.com/naseweis520/osu-Sync)
+  - osu!Sync is an open-sourced application that lets you export, share, and backup your beatmaps.
 - T-Aiko! - [forums](/community/forums/topics/58640)
+  - T-Aiko! is a free Taiko no Tatsujin game that plays osu! beatmaps on your iPhone or Android device.
 
 ### Inactive
 
