@@ -25,7 +25,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | Placing | Prize(s) |
 | --- | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive osu! tumbler and pins , profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive osu! tumbler and pins, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive osu! tumbler and pins, profile badge |
 
 ## Organization
