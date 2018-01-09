@@ -1,4 +1,4 @@
-# Tablet purchase
+# Tablet Purchase
 
 If you've been playing osu! and chatting with other players, you're bound to hear about these so-called "tablets", and their effects on gameplay in osu!. Tablets are pads that operate with a stylus that connect to your computer. As you hover the pen around above the pad, the mouse cursor moves with the pen, and tapping the pen clicks the mouse. You can think of a tablet for osu! in the same way as you think of an arcade stick for fighting games, not necessary, but some players prefer it.
 
@@ -6,17 +6,19 @@ If you've been playing osu! and chatting with other players, you're bound to hea
 
 Their original purpose is to allow a greater degree of control in digital art applications, allowing the user to draw or paint on the computer as if they were using a pencil or paintbrush. The biggest difference that a tablet has over a mouse is that it features **absolute tracking**. This means that every point on the tablet corresponds to a particular point on the screen. If you lift the pen outside of the sensitive range, then put it down on another part of the tablet, the cursor will "jump" to that location. This is opposed to mice, which rely on **relative tracking**.
 
-The biggest selling point of tablets for osu! is this absolute tracking. Every other parameter such as pressure levels, tilt sensitivity, barrel rotation, etc. will have no effect on your osu! gameplay. These features are for digital art, where the tablet can sense things such as the pressure you're applying to make a darker pencil mark, for example. The only specification which may affect your osu! gameplay is LPI (lines per inch). This is essentially the "resolution" of the tablet surface, or how little you have to move for the tablet to detect it. If a tablet has 100 LPI, then you have to move at least 1/100th of an inch for it to register movement. However, even the lowest LPI should be far higher than any monitor that you're likely to play on, so higher numbers have a mostly unnoticeable effect on gameplay.
+The biggest selling point of tablets for osu! is this absolute tracking. Every other parameter such as pressure levels, tilt sensitivity, barrel rotation, etc. will have no effect on your osu! gameplay. These features are for digital art, where the tablet can sense things such as the pressure you're applying to make a darker pencil mark, for example. The only specification which may affect your osu! gameplay is LPI (lines per inch).
 
-tl;dr Tablets are an optional device to let you play the game in a different way. They were originally intended for digital art, but happen to work very well when playing osu!. Most specifications will make no difference in osu!.
+This is essentially the "resolution" of the tablet surface, or how little you have to move for the tablet to detect it. If a tablet has 100 LPI, then you have to move at least 1/100th of an inch for it to register movement. However, even the lowest LPI should be far higher than any monitor that you're likely to play on, so higher numbers have a mostly unnoticeable effect on gameplay.
+
+In short, tablets are an optional device to let you play the game in a different way. They were originally intended for digital art, but happen to work very well when playing osu!. Most specifications will make no difference in osu!.
 
 ## Tablet Vendors
 
 ### osu!store
 
-*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has twitted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
+*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
 
-With the goal of trying to allow players to try the tablet input method without putting a hole in their wallet, the osu!store had featured the osu!tablet. It was made by Huion and designed by flyte. The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 feature the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
+With the goal of trying to allow players to try the tablet input method without putting a hole in their wallet, the osu!store once featured the osu!tablet. It was made by Huion and designed by flyte. The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 feature the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 
 ![](img/osu!tabletv1.jpg "osu!tablet v1 \(2013\)")
 
@@ -24,7 +26,7 @@ With the goal of trying to allow players to try the tablet input method without 
 
 ### Huion
 
-Huion is a tablet company that is the supplier of the osu!tablet. They are best own to be cheaper than Wacom tablets by a large margin but some would say that their tablets feel flimsier and that running a tablet pen over a Huion tablet would feel as if you were on writing paper (in comparison, some say that on Wacom, it is as if you were writing on glass). Their tablet pens either require a battery or needs to be charged, unlike Wacom tablet pens, and their nibs may need to be often than Wacom nibs. Other than that, there really are not any noticeable differences between Walcom and Huion tablets.
+Huion is a tablet company that is the supplier of the osu!tablet. They are best known for being cheaper than Wacom tablets by a large margin but some would say that their tablets feel flimsier and that running a tablet pen over a Huion tablet would feel as if you were on writing paper (in comparison, some say that on Wacom, it is as if you were writing on glass). Their tablet pens either require a battery or needs to be charged, unlike Wacom tablet pens, and their nibs may need to be often than Wacom nibs. Other than that, there really are not any noticeable differences between Walcom and Huion tablets.
 
 The HUION H430P (4096) is similar to the osu!tablet (in fact, it is marketed towards osu! players).
 
@@ -50,11 +52,13 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](http://www.apple.com/magictrackpad/).
 
-The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large". For osu!, you'll probably be looking at getting one of the "small" sized tablets because it's a common strategy to reduce play area so that you don't have to move your arm when you play. However, it's personal preference as to whether or not you want a larger tablet area, and it's especially worth considering the "large" size if you are also into digital art; drawing is much more comfortable on a larger tablet.
+The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large".
+
+For osu!, you'll probably be looking at getting one of the "small" sized tablets because it's a common strategy to reduce play area so that you don't have to move your arm when you play. However, it's personal preference as to whether or not you want a larger tablet area, and it's especially worth considering the "large" size if you are also into digital art; drawing is much more comfortable on a larger tablet.
 
 Lastly, Intuos3 tablets can be had for very cheap on second-hand sites like eBay or Craigslist, and are definitely worth checking out if you're also going to be doing digital art as well. For osu!, however, the differences between the Intuos and Bamboo lines are negligible, the only real difference is that the Intuos lines have a much wider range of sizes than is available for Bamboo.
 
-tl;dr Wacom's the recommend brand. Cintiq and Intuos tablets are too expensive and give no real advantage over Bamboo for osu!. See the recommend options above for the recommend models. Also try your luck at a used Intuos3 if you're also into art.
+In short, Wacom is the recommended brand from most serious osu! players. Cintiq and Intuos tablets are too expensive and give no real advantage over Bamboo for osu!. See the recommend options above for the recommend models. Also try your luck at a used Intuos3 if you're also into art.
 
 ## Recommendations
 
