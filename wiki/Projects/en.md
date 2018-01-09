@@ -23,6 +23,8 @@ Listed below are projects that are (or were once) tools or services made by the 
 
 ### Active
 
+Projects listed here are still being worked on and are currently tools or services that you can still use with support from the developer.
+
 - Bulk Beatmap Downloader - [forums](/community/forums/topics/221482) - [GitLab](https://git.hexide.com/miz/osumirror)
 - opsu! - [forums](/community/forums/topics/221726) - [GitHub](https://github.com/itdelatrisu/opsu) - [website](http://itdelatrisu.github.io/opsu/)
 - osu! Skins Database - [forums](/community/forums/topics/137046) - [website](https://osuskins.info)
@@ -31,7 +33,7 @@ Listed below are projects that are (or were once) tools or services made by the 
 
 ### Inactive
 
-Projects listed here are no longer being worked on or were abandoned altogether, but are linked here as resources for other developers to build upon.
+Projects listed here are no longer being worked on or were abandoned altogether. They are linked here as resources for other developers to build upon.
 
 - AIBat - [forums](/community/forums/topics/55305) - [GitHub](https://github.com/akrolsmir/AIBat)
 - Approach Rate Calculator - [forums](/community/forums/topics/225398)
