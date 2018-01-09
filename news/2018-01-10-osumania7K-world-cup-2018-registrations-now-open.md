@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup 2018: Registrations now open!"
 date: 2018-1-10 01:00:00 +0000
 ---
 
-And here we go again! Another fresh edition of the osu!mania 7K World Cup takes place yet again and this time with all it's force!
+It's an exciting new year, and with that, our first announcement - osu!mania 7K World Cup is back for its 4th installment! Introducing a new host alongside an improved set of rules, this year's tournament promises to be more competitive than ever before. Registrations are now open, so what are you waiting for?
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
 For more details, refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/7K/)**.
@@ -29,7 +29,7 @@ You can discuss this event and follow the most important changes in the **[offic
 ## How do I register?
 
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/13)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
++ Do not create teams in advance! Teams will be formed by country’s team captains after the registration phase has concluded.
 + Hand in your registration before **24. January 2018.**
 
 
