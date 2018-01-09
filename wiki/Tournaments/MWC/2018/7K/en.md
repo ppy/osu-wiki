@@ -28,7 +28,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Profile badge |
 
-_The rest of the prices will be determinated during the registration phase_
+_The rest of the prizes will be determinated during the registration phase_
 
 ## Organization
 
