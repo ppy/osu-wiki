@@ -39,8 +39,8 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 #### Trivia
 - 16 packs. (4 temas x 4 volumenes)
   - 1 hora 20 minutos = 1 pack (Estimación del tiempo requerido para completar un beatmap pack)
-- 211 canciones (206 + 3 ![Ranked](/wiki/shared/Heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/Fire.gif "Approved") aprobadas y 1 pendiente)
-- 662 dificultades (660 ![Ranked](/wiki/shared/Heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/Fire.gif "Approved") aprobadas y 1 pendiente)
+- 211 canciones (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
+- 662 dificultades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
 - 1.39 GB (zipped), 1.47 GB (importado)
 - 3 minutos 33 segundos. (Estimación de tiempo de importación de todos los 16 packs)
 
