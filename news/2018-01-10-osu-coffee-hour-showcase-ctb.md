@@ -4,9 +4,7 @@ title: "osu! Coffee Hour: Catch the Beat Showcase"
 date: 2018-01-10 10:00:00 +0000
 ---
 
-If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of Coffee Hour will be the first in a series of Gamemode Showcases where we'll dive into the unique story behind each gamemode. 
-
-#### First up: osu!catch.
+If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of Coffee Hour will be the first in a series of Gamemode Showcases where we'll dive into the unique story behind each gamemode. First up: osu!catch.
 
 [![](/wiki/shared/news/banners/coffee-hour.jpg)](http://itsalmo.st/#osucatchshowcase)
 
@@ -18,9 +16,7 @@ JBHyperion is a prominent osu!catch mapper and modder, active since February 201
 
 Sartan is an active community member of osu!catch, long term tournament host for various of his own tournaments and co-host/helper for even more, including CWC. Next to that he podcasts with his CustomAllOsu project. In short, he has a lot of different osu!catch perspectives to add to the conversation!
 
-#### We have two goals this episode: 
-
-On the one hand we want to instill osu!catch players with a sense of pride and deeper understanding of the mode they've grown to love. On the other we want to give the uninitiated a new perspective, hopefully even a spark of curiosity into giving osu!catch a try.
+We have two goals this episode: On the one hand we want to instill osu!catch players with a sense of pride and deeper understanding of the mode they've grown to love. On the other we want to give the uninitiated a new perspective, hopefully even a spark of curiosity into giving osu!catch a try.
 
 ## Questions?
 
