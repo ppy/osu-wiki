@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "osu! Coffee Hour: osu!catch Gamemode Showcase"
+title: "osu! Coffee Hour: osu!catch Gamemode History"
 date: 2018-01-10 16:00:00 +0000
 ---
 
-If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of the osu! Coffee Hour will be the first in a series of Gamemode Showcases where we'll dive into the unique story behind each gamemode. First up on the list: osu!catch.
+If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of the osu! Coffee Hour will be the first in a series of Gamemode History episodes where we'll dive into the unique story behind each gamemode. First up on the list: osu!catch.
 
 [![](/wiki/shared/news/banners/coffee-hour.jpg)](http://itsalmo.st/#osucatchshowcase)
 
 ## This week's theme
 
-We're dedicating our first Gamemode Showcase to osu!catch, the third gamemode to join the osu! ranks all the way back in late 2008, meaning there's a lot to cover! Joining me ([HappyStick](https://osu.ppy.sh/u/HappyStick)) this Friday will be [JBHyperion](https://osu.ppy.sh/u/jbhyperion), and [Sartan](https://osu.ppy.sh/u/Sartan).
+We're dedicating our first Gamemode History to osu!catch, the third gamemode to join the osu! ranks all the way back in late 2008, meaning there's a lot to cover! Joining me ([HappyStick](https://osu.ppy.sh/u/HappyStick)) this Friday will be [JBHyperion](https://osu.ppy.sh/u/jbhyperion), and [Sartan](https://osu.ppy.sh/u/Sartan).
 
 JBHyperion is a prominent osu!catch mapper and modder, active since February 2015, and is both a former Beatmap Nominator and current member of the Quality Assurance Team for osu!catch. He has created and contributed to a number of mapping and modding related resources, including the Community Mentorship Program and the osu!catch Ranking Criteria, as well as modding guides and other statistical tools.
 
