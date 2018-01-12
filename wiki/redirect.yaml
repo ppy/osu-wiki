@@ -5,7 +5,9 @@
 "asc/images":                    "Article_Styling_Criteria/Images"
 "asg/images":                    "Article_Styling_Criteria/Images"
 
+"beatmap_discussions":         "Beatmap_Discussion"
 "modding_discussion":          "Beatmap_Discussion"
+"modding_discussions":         "Beatmap_Discussion"
 "modding_v2":                  "Beatmap_Discussion"
 "modding/v2":                  "Beatmap_Discussion"
 "moddingv2":                   "Beatmap_Discussion"
