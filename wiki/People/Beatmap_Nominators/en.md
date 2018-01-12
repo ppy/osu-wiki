@@ -4,6 +4,8 @@
 Beatmap Nominators
 ==================
 
+*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](Beatmap_Nominator_General_Information).*
+
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. The most recent change was on 01. February 2015 when the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*.
 
 Roles and Responsibilities
@@ -51,7 +53,7 @@ Team Members
 
 _Please note: All BN speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
 
-Also note: the game modes columns listed below indicates the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. 
+Also note: the game modes columns listed below indicates the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages     |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------|
