@@ -114,7 +114,6 @@ Also note: the game modes columns listed below indicates the game mode(s) in whi
 | [Regraz](https://osu.ppy.sh/u/3076909)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
 | [Rivals_7](https://osu.ppy.sh/u/4610379)          | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian               |
 | [sahuang](https://osu.ppy.sh/u/5318910)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
-| [sheela](https://osu.ppy.sh/u/1138027)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                   |
 | [Sinnoh](https://osu.ppy.sh/u/4236057)            | ![Yes][true] | ![No][false] | ![Yes][true] | ![No][false] |                         |
 | [Skylish](https://osu.ppy.sh/u/2845958)           | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Cantonese, Chinese       |
 | [smallboat](https://osu.ppy.sh/u/243049)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                  |
