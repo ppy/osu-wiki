@@ -63,7 +63,7 @@ Projects listed here are still being worked on and are currently tools or servic
 -   OMISM - [forums](/community/forums/topics/664319) - [GitHub](https://github.com/BilliumMoto/OMiSM)
     -   An osu!mania to Stepmania beatmap converter (and an osu!mania keysound copier).
 -   omtrc - [forums](/community/forums/topics/618646) - [GitHub](https://github.com/semyon422/omtrc)
-		-   A timerate changer for osu!mania.
+    -   A timerate changer for osu!mania.
 -   opsu! - [forums](/community/forums/topics/221726) - [GitHub](https://github.com/itdelatrisu/opsu) - [website](http://itdelatrisu.github.io/opsu/)
     -   An unofficial osu! client written in Java. Since the project is written in Java, the supported platforms widens to whichever operating system that can run Java applications (something that osu! has yet to do).
 -   osu! Replayer - [forums](/community/forums/topics/563282) - [GitHub](https://github.com/jkapi/Osu-Replays)
@@ -73,7 +73,7 @@ Projects listed here are still being worked on and are currently tools or servic
 -   osu! Slider End Silencer - [forums](/community/forums/topics/634268) - [GitHub](https://github.com/kdai11830/sliderend-silencer)
     -   A tool that inserts inherited points to silence slider tails.
 -   osu!monthly revival project - [forums](/community/forums/topics/684728)
-		-   The revival of the osu!monthly, like the osu!weekly, but released monthly.
+    -   The revival of the osu!monthly, like the osu!weekly, but released monthly.
 -   osu!next Signature Generator - [forums](/community/forums/topics/372346) - [GitHub](https://github.com/Lemmmy/osusig) - [website](https://lemmmy.pw/osusig/)
     -   A status signature generator with osu!next design.
 -   osu!ocm Collection Manager - [forums](/community/forums/topics/554209)
