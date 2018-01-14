@@ -24,6 +24,10 @@ In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circ
 
 Authentic denotes a beatmap that emulates in every aspect of a specific stage from the [DS games](/wiki/DS_games) (song, settings, object placement, etc.).
 
+### Aspire
+
+Aspire is a beatmapping [contest](/wiki/contest) where the creators are encouraged to fully ignore the [Ranking Criteria](/wiki/Ranking_Criteria). The resulting beatmaps tend to be cosmetically appealing displays of absolute madness, but are often nearly impossible for average players to play.
+
 ## B
 
 ### Bancho
