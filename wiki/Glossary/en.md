@@ -530,7 +530,7 @@ Examples include but are not limited to:
   - containing really bad timing
   - has objects placed randomly on the grid and/or timeline but are also extremely challenging or unconventional beatmaps (e.g. consisting of a single spinner).
 
-The warning icon that accompanies nuked beatmaps is the symbol for radioactive materials (![radioactive icon](/wiki/shared/Radioactive.gif)).
+The warning icon that accompanies nuked beatmaps is the symbol for radioactive materials (![radioactive icon](/wiki/shared/icon/nuke.gif)).
 
 ## O
 
@@ -796,7 +796,7 @@ Star priority has two meanings:
    - At least 12 star priority is needed for a map to be bubbled or ranked.
 2. A method in determining whether a Feature Request is wanted by the community.
    - The higher the star priority, the faster it gets noticed.
-   - Users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/Star.gif)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
+   - Users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/icon/star.gif)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
 
 ### Storyboarder
 
