@@ -5,7 +5,7 @@ osu!mania World Cup 2014
 
 The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 1st installment of the osu!mania World Cup and is separated in a 7-keys and 4-keys bracket.
 
-## Tournament schedule
+## Tournament Schedule
 
 | Event                  | Timestamp             |
 |-----------------------:|-----------------------|
