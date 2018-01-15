@@ -4,7 +4,7 @@
 [osu!taiko wikilink]: ./osu!taiko/ "osu!taiko"
 [osu!catch wikilink]: ./osu!catch/ "osu!catch"
 [osu!mania wikilink]: ./osu!mania/ "osu!mania"
-[External Ports wikilink]: ./External_Ports "External Ports"
+[Similar Games wikilink]: /wiki/Similar_Games "Similar Games"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -37,8 +37,8 @@ Here are the available game modes in osu!:-
 
 For a general explanation of the game modes above, see [FAQ][FAQ wikilink].
 
-## External ports
+## Similar Games
 
-Playable ports of osu! game modes.
+Similar games based of osu! game modes.
 
-[Click here to visit the External Ports page][External Ports wikilink]
+[Click here to visit the Similar Games page][Similar Games wikilink]

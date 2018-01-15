@@ -22,10 +22,8 @@
 [Replay wikilink]: /wiki/Replay/ "Replay"
 [Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Shortcut Key Reference"
 [Options wikilink]: /wiki/Options "Options"
-[Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "External Ports"
-[opsu! wikilink]: ./External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
-[osu!stream wikilink]: ./External_Ports/osu!stream "osu!stream by osu! team"
-[T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 by low.moe team"
+[Similar Games wikilink]: /wiki/Similar_Games/ "Similar Games"
+[osu!stream wikilink]: /wiki/Similar_Games/osu!stream "osu!stream by osu! team"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -35,6 +33,8 @@
 [osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
 [osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
+[opsu! link]: https://itdelatrisu.github.io/opsu/ "opsu! by itdelatrisu with fluddokt"
+[T-Aiko! link]: http://taiko.low.moe/ "T-Aiko! v2 by low.moe team"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
@@ -640,7 +640,7 @@ If it ask for merging `.dll` or `.exe` files, ignore it.
 Allow merging for everything else, including `.cfg` and `.db` files.
 
 #### Can I use osu! on my mobile device?
-_Full list: [Game Modes under External Ports section][Game Modes#External Ports wikilink]_
+_Full list: [Similar Games section][Similar Games wikilink]_
 
 The current _osu!_ does not support any mobile platform.
 
@@ -648,9 +648,9 @@ However, there are other unofficial ports of _osu!_ and a single official spin-o
 
 A few of the notable ports are:-
 
-- ![osu! icon][osu! icon link] [opsu!][opsu! wikilink] [Windows/OS X/Linux/Android]:
+- ![osu! icon][osu! icon link] [opsu!][opsu! link] [Windows/OS X/Linux/Android]:
   Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![osu!taiko icon][osu!taiko icon link] [T-Aiko! v2][T-Aiko! v2 wikilink] [Android/iOS]:
+- ![osu!taiko icon][osu!taiko icon link] [T-Aiko!][T-Aiko! link] [Android/iOS]:
   osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
 - ![osu! icon][osu! icon link] [osu!stream][osu!stream wikilink] [iOS]:
   Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
