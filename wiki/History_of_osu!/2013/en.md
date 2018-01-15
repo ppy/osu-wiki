@@ -39,12 +39,13 @@ Links:
 
 ## April
 
-This month's updates were mostly made up of patching up the previous major update, but that doesn't mean that was the end! First, it was the initial implementation of "Collections" support that will replace the long-standing "Favourites A/B", making it simple for player to put in their favourite beatmaps in one "Collections" and able to share it with others by transferring the "Collections" rather than "Favourites A/B". Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation. For beatmap replays, stale-standing comment has been switched to moving [nico-style](http://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only). In the beatmapping side, all MAT members have became BAT members and MAT has been officially dissolved as the power boundary between MAT and BAT members were too close to each other.
+This month's updates were mostly made up of patching up the previous major update, but that doesn't mean that was the end! First, it was the initial implementation of "Collections" support that will replace the long-standing "Favourites A/B", making it simple for player to put in their favourite beatmaps in one "Collections" and able to share it with others by transferring the "Collections" rather than "Favourites A/B". Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation. For beatmap replays, stale-standing comment has been switched to moving [nico-style](http://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only). In the beatmapping side, all MAT members have became BAT members and MAT has been officially dissolved as the power boundary between MAT and BAT members were too close to each other. peppy released one of the initial osu! builds from 2007 to 2009 (the one he had hoped to release for the 5th anniversary of osu!).
 
 Links:
 
 - [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
 - [The end of the MAT](https://osu.ppy.sh/forum/t/129165)
+- [osu! Public Release (2007-09)](https://osu.ppy.sh/forum/t/130144)
 
 ## May
 
