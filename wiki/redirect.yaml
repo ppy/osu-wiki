@@ -121,21 +121,6 @@
 "forum_skin":                  "Forums"
 
 "game_mode":                            "Game_Modes"
-"external_ports":                       "Game_Modes/External_Ports"
-"external_port":                        "Game_Modes/External_Ports"
-"ports":                                "Game_Modes/External_Ports"
-"port":                                 "Game_Modes/External_Ports"
-"external_ports/opsu!":                 "Game_Modes/External_Ports/opsu!"
-"external_ports/osu!droid":             "Game_Modes/External_Ports/osu!droid"
-"external_ports/osu!stream":            "Game_Modes/External_Ports/osu!stream"
-"external_ports/osu!wp":                "Game_Modes/External_Ports/osu!wp"
-"external_ports/t-aiko!":               "Game_Modes/External_Ports/T-Aiko!"
-"opsu!":                                "Game_Modes/External_Ports/opsu!"
-"osu!droid":                            "Game_Modes/External_Ports/osu!droid"
-"osu!stream":                           "Game_Modes/External_Ports/osu!stream"
-"osu!wp":                               "Game_Modes/External_Ports/osu!wp"
-"t-aiko!":                              "Game_Modes/External_Ports/T-Aiko!"
-"game_modes/osu!standard":              "Game_Modes/osu!"
 "osu!":                                 "Game_Modes/osu!"
 "osu!standard":                         "Game_Modes/osu!"
 "game_modes/catch_the_beat":            "Game_Modes/osu!catch"
@@ -823,6 +808,9 @@
 
 "academy":                     "osu!academy"
 
+"external_ports/osu!stream": "osu!stream"
+"game_modes/external_ports/osu!stream": "osu!stream"
+
 "supporter":                   "osu!supporter"
 
 "talk":                        "osu!talk"
@@ -899,6 +887,10 @@
 "ppv1":                        "Performance_Points/ppv1"
 
 "play_style":                  "Play_Styles"
+
+"game_modes/external_ports": "Projects"
+"external_ports": "Projects"
+"tools": "Projects"
 
 "rc":                          "Ranking_Criteria"
 
