@@ -38,7 +38,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ------------ | -------------- |
 | Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_US] HappyStick](https://osu.ppy.sh/users/776257), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/u/5281416) |
 | Map Selectors | [![][flag_ES] aitor98](https://osu.ppy.sh/u/3154852), [![][flag_US] Blocko](https://osu.ppy.sh/u/4075092), [![][flag_BR] spoonguy](https://osu.ppy.sh/u/932381) |
-| Commentators | [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/u/1612580), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/u/2956184),  [![][flag_AU] PotassiumF](https://osu.ppy.sh/u/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/u/7616811), [![][flag_FR] XeoStyle](https://osu.ppy.sh/u/3377280) |
+| Commentators | [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/u/1612580), [![][flag_US] Nivrad00](https://osu.ppy.sh/u/1984634), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/u/2956184),  [![][flag_AU] PotassiumF](https://osu.ppy.sh/u/4247722), [![][flag_US]stupud man](https://osu.ppy.sh/u/2141612), [![][flag_US] TheToaphster](https://osu.ppy.sh/u/7616811), [![][flag_FR] XeoStyle](https://osu.ppy.sh/u/3377280) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
