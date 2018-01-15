@@ -13,7 +13,7 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 | Place | Prize(s) |
 | ----- | -------- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge (![OWC 1 Profile Badge](badge.png)) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
 | *Special* | 1 month supporter tag (won by ![][flag_JP] Team Japan) |
