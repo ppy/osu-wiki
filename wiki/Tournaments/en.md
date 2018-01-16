@@ -6,11 +6,11 @@ Section dedicated for Tournaments and/or Competitions. [Forum link here.](https:
 Official World Cups
 ----------------------
 
-Official tournaments hosted by the [Tournament Management](https://osu.ppy.sh/g/26).
+Official tournaments hosted by the Tournament Management.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup is a country-based 4v4 Team VS tournament following single-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
+osu! World Cup is a country-based 4v4 Team VS tournament following double-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -21,6 +21,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japan | ![][flag_PL] Poland | ![][flag_DE] Germany |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_PL] Poland |
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_KR] South Korea |
+| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] USA | ![][flag_GB] United Kingdom |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
@@ -78,7 +79,6 @@ See also
 --------
 
 -   [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

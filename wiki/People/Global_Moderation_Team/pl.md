@@ -1,70 +1,70 @@
 Moderatorzy globalni
 =====================
 
-**Globalni Moderatorzy** (znani też jako Administratorzy, Global Mod Team lub “GreenBAT”), najczęściej nazywani **GMT**, są członkami załogi osu!. Ich zadaniem jest moderowanie czatów do których są przydzieleni.
+**Moderatorzy globalni** (wcześniej znani również jako administratorzy lub „GreenBAT”), najczęściej nazywani w skrócie **GMT**, są członkami społeczności osu!, których głównym zadaniem jest utrzymywanie porządku na czacie i forum oraz zarządzanie sprawami istotnymi dla komunikacji wewnątrz społeczności.
 
-Jak zostać GMT
+Jak zostać moderatorem globalnym
 --------------
 
-Stawanie się członkiem **GMT** jest długim i trudnym procesem. Potencjalni członkowie są często zauważani poprzez ich umiejętność mówienia w drugim języku, a potem cały zespół dyskutuje o tym, czy dany kandydat powinien zostać GMT.
+Dołączenie do **zespołu moderatorów globalnych** wymaga znacznego wkładu ze strony użytkownika. Potencjalnych członków powinny cechować dobre zachowanie, aktywność w społeczności i wola do pomocy innym. Posługiwanie się dodatkowymi językami obcymi poza angielskim jest również silnym atutem. Po spełnieniu przez kandydata tych wstępnych wymagań, członkowie moderacji prowadzą wewnętrzną dyskusję i decydują o przyjęciu bądź odrzuceniu danej osoby.
 
 Role i zadania
 --------------
 
-Zespół GMT jest odpowiedzialny za dobrobyt panujący na czacie bądź forum i zajmuje się interakcjami ze społecznością. Napisz do nich, jeżeli masz jakiekolwiek pytania dotyczące aspektu moderowania, na co wliczają się (ale nie tylko) sprawy związane z czatem (uciszenia i występki) bądź na forum (spam).
+Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczności na czacie oraz forum. Należy się z nimi skontaktować, jeżeli ma się pytania związane z moderacją gry, obejmującą m.in. problemy z czatem bądź forum (uciszenia, spam, niestosowne zachowania itd.).
 
 Członkowie zespołu
 ------------------
 
-*Uwaga: Wszyscy GMT mówią po angielsku, chyba że jest inaczej napisane.* - [Strona zespołu](http://osu.ppy.sh/g/4)
+*Uwaga: Oprócz podanych niżej języków, wszyscy członkowie GMT mówią po angielsku. Strona zespołu znajduje się [tutaj](http://osu.ppy.sh/groups/4).*
 
-| Nick | Języki | Główny obszar działania |
+| Pseudonim | Języki | Główny obszar działania |
 | ---- | ------ | ----------------------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Włoski | Moderacja Czatu |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | Węgierski | Moderacja Czatu |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Chiński | Moderacja Czatu |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | Moderacja Czatu |
-| [deadbeat](https://osu.ppy.sh/u/128370) | | Tworzenie osu!media |
-| [Deif](https://osu.ppy.sh/u/318565) | Hiszpański | Turnieje |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Pomoc Techniczna |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
-| [Flanster](https://osu.ppy.sh/u/447818) | Bułgarski | Hostowanie osu!idol, Moderacja Czatu |
-| [Gabe](https://osu.ppy.sh/u/654108) | Francuski | Moderacja Czatu |
-| [Galkan](https://osu.ppy.sh/u/169570) | Polski | Moderacja Czatu |
-| [ghm12](https://osu.ppy.sh/u/2594229) | Portugalski | Moderacja Czatu |
-| [heyronii](https://osu.ppy.sh/u/5642779) | Turecki | Moderacja Czatu |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | Kantoński, Chiński | Moderacja Czatu |
-| [juankristal](https://osu.ppy.sh/u/443656) | Hiszpański | Moderacja Czatu, Turnieje |
-| [Kobold84](https://osu.ppy.sh/u/3227533) | Rosyjski | Moderacja Czatu |
-| [Kurai](https://osu.ppy.sh/u/77089) | Francuski, Rosyjski | Moderacja Czatu |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Rosyjski | Moderacja Czatu |
-| [Lassikko](https://osu.ppy.sh/u/7253731) | Fiński | Moderacja Czatu |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Hiszpański | Moderacja Czatu, Moderacja Forum |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polski | Moderacja Forum, Rozwijanie gry |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | Włoski | Moderacja Czatu |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Holenderski | Moderacja Czatu, Moderacja Forum |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipiński | Moderacja Czatu, Moderacja Forum |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | Francuski | Moderacja Czatu |
-| [Nyquill](https://osu.ppy.sh/u/682935) | Chiński | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderacja Czatu, Pomoc Techniczna |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holenderski | Moderacja Czatu |
-| [Repflez](https://osu.ppy.sh/u/201392) | Hiszpański | Moderacja Czatu, Administrowanie Wiki |
-| [ruexia](https://osu.ppy.sh/u/385069) | Koreański | Moderacja Czatu |
-| [S o h](https://osu.ppy.sh/u/2234772) | Japoński | Moderacja Czatu |
-| [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, Hiszpański | Moderacja Czatu |
-| [shARPII](https://osu.ppy.sh/u/776257) | Francuski | Moderacja Czatu, Turnieje |
-| [Shiro](https://osu.ppy.sh/u/113005) | Francuski, Hiszpański | Moderacja Czatu |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonezyjski | Moderacja Czatu |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Węgierski | Moderacja Czatu |
-| [Stefan](https://osu.ppy.sh/u/626907) | Niemiecki | Moderacja Czatu, Moderacja Forum |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Koreański | Moderacja Czatu |
-| [Tasha](https://osu.ppy.sh/u/1031958) | | Tworzenie osu!media |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| Koreański, Japoński | Moderacja Czatu |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Hiszpański | Pomoc Techniczna |
-| [Ukami](https://osu.ppy.sh/u/820865) | Polski | Moderacja Czatu |
-| [Uni](https://osu.ppy.sh/u/617106) | Holenderski | Moderacja Czatu |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | | Pomoc Techniczna |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Hiszpański | Moderacja Czatu, Moderacja Forum |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polski | Moderacja Czatu |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chiński | Moderacja Czatu |
-| [Zetera](https://osu.ppy.sh/u/587737) | Niemiecki | Moderacja Czatu |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Włoski | Moderacja czatu |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | Węgierski | Moderacja czatu |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chiński | Moderacja czatu |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | Moderacja czatu |
+| [Clobohne](https://osu.ppy.sh/u/499343) | Niemiecki | Moderacja czatu
+| [deadbeat](https://osu.ppy.sh/u/128370) | | Tworzenie materiałów o osu! |
+| [Death](https://osu.ppy.sh/u/3242450) | | Pomoc techniczna | 
+| [Deif](https://osu.ppy.sh/u/318565) | Hiszpański | Organizacja turniejów |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Pomoc techniczna |
+| [Edu](https://osu.ppy.sh/u/5618109) | Portugalski, japoński | Moderacja czatu
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Pomoc techniczna |
+| [Flanster](https://osu.ppy.sh/u/447818) | Bułgarski | Organizacja osu!idol, moderacja czatu |
+| [Gabe](https://osu.ppy.sh/u/654108) | Francuski | Moderacja czatu |
+| [Galkan](https://osu.ppy.sh/u/169570) | Polski | Moderacja czatu |
+| [ghm12](https://osu.ppy.sh/u/2594229) | Portugalski | Moderacja czatu |
+| [heyronii](https://osu.ppy.sh/u/5642779) | Turecki | Moderacja czatu |
+| [juankristal](https://osu.ppy.sh/u/443656) | Hiszpański | Moderacja czatu, organizacja turniejów |
+| [Kobold84](https://osu.ppy.sh/u/3227533) | Rosyjski | Moderacja czatu |
+| [Kurai](https://osu.ppy.sh/u/77089) | Francuski, rosyjski | Moderacja czatu |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | Rosyjski | Moderacja czatu |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Fiński | Moderacja czatu |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Hiszpański | Moderacja czatu oraz forum |
+| [Marcin](https://osu.ppy.sh/u/722665) | Polski | Moderacja forum, rozwój gry |
+| [n0ah](https://osu.ppy.sh/u/3086393) | Holenderski | Moderacja czatu oraz forum |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipiński | Moderacja czatu oraz forum |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | Francuski | Moderacja czatu |
+| [Nyquill](https://osu.ppy.sh/u/682935) | Chiński | Pomoc związana z tworzeniem map, pisanie osu!weekly |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderacja czatu, pomoc techniczna |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holenderski | Moderacja czatu |
+| [Repflez](https://osu.ppy.sh/u/201392) | Hiszpański | Moderacja czatu, zarządzanie osu!wiki |
+| [ruexia](https://osu.ppy.sh/u/385069) | Koreański | Moderacja czatu |
+| [S o h](https://osu.ppy.sh/u/2234772) | Japoński | Moderacja czatu |
+| [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, hiszpański | Moderacja czatu |
+| [shARPII](https://osu.ppy.sh/u/776257) | Francuski | Moderacja czatu, organizacja turniejów |
+| [Shiro](https://osu.ppy.sh/u/113005) | Francuski, hiszpański | Moderacja czatu |
+| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonezyjski | Moderacja czatu |
+| [Spkz](https://osu.ppy.sh/u/2964029) | Węgierski | Moderacja czatu |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | Koreański | Moderacja czatu |
+| [Tasha](https://osu.ppy.sh/u/1031958) | | Tworzenie materiałów o osu! |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| Koreański, japoński | Moderacja czatu |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Hiszpański | Pomoc techniczna |
+| [Ukami](https://osu.ppy.sh/u/820865) | Polski | Moderacja czatu |
+| [Uni](https://osu.ppy.sh/u/617106) | Holenderski | Moderacja czatu |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | | Pomoc techniczna |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Hiszpański | Moderacja czatu oraz forum |
+| [Yason](https://osu.ppy.sh/u/2574392) | Polski | Moderacja czatu |
+| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chiński | Moderacja czatu |
+| [Zetera](https://osu.ppy.sh/u/587737) | Niemiecki | Moderacja czatu |

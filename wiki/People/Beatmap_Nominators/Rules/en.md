@@ -1,6 +1,8 @@
 # Rules
 
-The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. 
+*Main page: [Beatmap Nominators](/wiki/Beatmap Nominators).*
+
+The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them.
 
 These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.
 
@@ -30,13 +32,13 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 
 ### Conduct
 
-+ **Do not follow any unfinalized rules or amendments.** 
++ **Do not follow any unfinalized rules or amendments.**
 + **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
 + **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the map into question.
 + **Do not qualify a beatmap if any significant changes were made since it was bubbled.** These may include fixing unrankable issues, changes in object snapping, major changes in flow or object placement, alterations to a song’s timing, etc. When in doubt, such beatmaps must be rebubbled first.
 + **Ensure that kudosu is awarded to all posts that deserve it.** Additionally consult the mapper before giving out kudosu to make sure there are not any reasons why the post does not need kudosu (e.g. the modder has received one already for a different post which you overlooked). If the modpost is too old to receive kudosu, consult the modder to make an additional post linking the original he receives kudosu for.
 + **You must not place any icons besides the star, bubble, bubble pop and heart.** Whilst you are able to set other icons, they are either deprecated and discouraged from use (flame, circle, drum, apple, piano) or reserved for use by the Quality Assurance Team (nuke). If you accidentally set an unwanted icon, contact a QAT immediately or overwrite the icon in case you wanted to post a bubble or heart.
-+ **Do not nominate a beatmap without properly checking all difficulties of the beatmap all by yourself.** If you are unfamiliar with the game mode some of the difficulties are mapped in, ask fellow Nominators for help. Improper checking includes just running a modding tool before nominating or not even downloading the beatmap. 
++ **Do not nominate a beatmap without properly checking all difficulties of the beatmap all by yourself.** If you are unfamiliar with the game mode some of the difficulties are mapped in, ask fellow Nominators for help. Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 + **You must not renominate a map in which your nomination was vetoed, unless the respective vetoing nominator agrees to that action.** When nominating over a veto, you have to exhaustively explain why the reasons for the veto will not hold the map back from reaching Ranked.
 + **You can veto a beatmap set by placing a bubble pop on the set that you disagree with being fit for being Ranked.** Bubble popping over any kind of quality issues that you think need to be addressed before the map can move anywhere is one of your main responsibilities. A proper discussion with attempting to reach a mutual agreement by both sides of the argument has to follow.
 + **You are free to pop a rebubble of another nominator if you are not the original bubble popper and disagree with the reasoning for disregarding the bubble pop.** Thus the original popper is unable to overvote two other nominators.
@@ -52,4 +54,3 @@ _Addition date: 6. April 2017, **in effect immediately**_
 + **__Every__ mapset is approved through two nominations** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 
 _Addition date: 2. June 2017, **in effect immediately**_
-

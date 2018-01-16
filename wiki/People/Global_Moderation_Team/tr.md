@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Global Moderasyon Takımı
 =========================
 

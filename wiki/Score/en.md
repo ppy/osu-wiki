@@ -40,8 +40,8 @@
 [m0]: /wiki/Skinning/osu!mania/img/mania-hit0.png "Miss"
 
 <!-- icons -->
-[rank]: /wiki/shared/Heart.gif "Ranked"
-[fire]: /wiki/shared/Fire.gif  "Approved"
+[rank]: /wiki/shared/icon/heart.gif "Ranked"
+[fire]: /wiki/shared/icon/flame.gif  "Approved"
 
 # Score
 

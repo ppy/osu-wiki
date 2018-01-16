@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 锦标赛
 ===============
 
@@ -6,7 +10,7 @@
 官方世界杯
 ----------------------
 
-官方锦标赛由[锦标赛管理组](https://osu.ppy.sh/g/26)负责
+官方锦标赛由锦标赛管理组负责
 
 ### ![](/wiki/shared/mode/osu.png) osu! 世界杯
 
@@ -70,7 +74,6 @@ Community
 ---------
 
 -   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024) (链接不可用)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
