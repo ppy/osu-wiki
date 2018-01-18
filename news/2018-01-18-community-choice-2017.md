@@ -4,13 +4,13 @@ title: "Community Choice 2017"
 date: 2018-01-18 07:00:00 +0000
 ---
 
-With 2017 well behind us, it's time to take a moment to sit back and reflect on which maps were truly the greatest of the year. Have your say and help us figure out which maps from 2017 are truly the Community's Favourite!
+With 2017 well behind us, it's time to take a moment to sit back and reflect on which beatmaps were truly the greatest of the year. Cast your votes and help us figure out which maps from 2017 are truly the Community Favourites!
 
 [![](/wiki/shared/news/2018-01-18-community-choice-2017/banner.jpg)](https://osu.ppy.sh/community/contests/59)
 
 You may know them as the "best of" votes held historically throughout the past few years, but the votes are back for 2018 with a brand new look, and a better name!
 
-Each osu! player gets **10 votes per gamemode** to cast for their favourite ranked maps of 2017 that they've played. The voting is super simple - find your favourite 10 maps in any mode, shoot them a star, and you're done!
+Everyone gets **10 votes per game mode** to cast for their favourite ranked maps of 2017 that they've played at least once before. The voting is super simple - find up to 10 of your favourite maps in any mode, shoot them a star via the contest listing, and you're done!
 
 The highest voted map for each gamemode will be declared the Community Favourite of 2017 and earn its mapper **a shiny new profile badge, and 6 months of osu!supporter** for their efforts.
 
@@ -25,8 +25,8 @@ How do you vote? Easy! Head to the [contest listing](https://osu.ppy.sh/communit
 
 The voting will run for **14 days** from the date of this post, so get cracking, and make sure to tell all your friends!
 
-We'll also be hosting a similar poll purely for Loved maps at a later date - this is why no Loved maps are included in the entries for this vote. Stay tuned!
+We'll also be hosting a similar set of polls purely for Loved maps at a later date - this is why no Loved maps are included in the entries at the moment. Stay tuned!
 
-Which map do you think will win?
+Which maps do you think will win?
 
 —Ephemeral
