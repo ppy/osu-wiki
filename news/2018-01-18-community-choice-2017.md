@@ -12,7 +12,7 @@ You may know them as the "best of" votes held historically throughout the past f
 
 Each osu! player gets **10 votes per gamemode** to cast for their favourite ranked maps of 2017 that they've played. The voting is super simple - find your favourite 10 maps in any mode, shoot them a star, and you're done!
 
-The highest voted map for each gamemode will be declared the Community Favourite of 2017 and earn its mapper a shiny new profile badge, and 6 months of osu!supporter for their efforts.
+The highest voted map for each gamemode will be declared the Community Favourite of 2017 and earn its mapper **a shiny new profile badge, and 6 months of osu!supporter** for their efforts.
 
 The top 10 maps for each mode will also grant their mappers **1 month of osu!supporter** as well.
 
