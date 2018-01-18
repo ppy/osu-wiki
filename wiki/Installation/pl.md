@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Instalacja
 ==========
 
@@ -176,7 +179,7 @@ Pamiętaj, że za każdym razem, jeśli będziesz chciał uruchomić/zainstalowa
 To jest inna gra dosyć podobna do osu!, lecz ma inne, swoje funkcje i rankingi.
 
 ##### Metoda poprzez App Store (Zalecana)
->Upewnij się, że twoje urządzenie może połączyć się z internetem (Wi-Fi lub 3G/4G). 
+>Upewnij się, że twoje urządzenie może połączyć się z internetem (Wi-Fi lub 3G/4G).
 
 - Przejdź do "App Store".
 - Znajdź osu!stream.
