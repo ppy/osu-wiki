@@ -27,6 +27,7 @@ There are various ways to obtain beatmaps (`.osz` files):
     -   the in-game beatmap downloader (requires [osu!supporter](/wiki/osu!supporter))
     -   these are handled automatically
 -   osu!web
+    -   you must sign in to download beatmaps
 -   [beatmap packs](/wiki/beatmap_packs)
 -   mirrors or torrents (from the community)
 
