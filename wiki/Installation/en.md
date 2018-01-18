@@ -15,7 +15,7 @@ Installing the osu! client is the practically the first step to enjoying osu!
 3.  When the installer is completed, osu! will open automatically.
 4.  When osu! is opened, osu! will prompt you to log in or to sign up.
 5.  If you had already created an account, log in (skip to [installing beatmaps](#beatmaps)). If not, click `Create an account`, this will redirect you to the osu!web for registration (continue to step 6).
-6.  Complete the registration.
+6.  Complete the [registration](/wiki/registration).
 7.  Go back to the osu! client and log in.
 8.  From this point, you can now download and play [beatmaps](/wiki/beatmaps) by yourself or with others; and edit and upload [beatmapsets](/wiki/beatmapsets) you create.
 
@@ -32,4 +32,4 @@ There are various ways to obtain beatmaps (`.osz` files):
 
 ---
 
-Once you have download a beatmapset, you can open it or drag and drop it into the osu! client.
+Once you have download a beatmapset, you can open it or drag and drop it into the osu! client. If you do not see the beatmap, press `F5` while in [Solo mode](/wiki/Solo_mode) to refresh your beatmap list.
