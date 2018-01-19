@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2017"
-date: 2018-01-18 07:00:00 +0000
+date: 2018-01-19 01:00:00 +0000
 ---
 
 With 2017 well behind us, it's time to take a moment to sit back and reflect on which beatmaps were truly the greatest of the year. Cast your votes and help us figure out which maps from 2017 are truly the Community Favourites!
