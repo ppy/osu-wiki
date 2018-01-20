@@ -17,7 +17,7 @@ First of all, congratulations to the winners of the November 2017 Spotlights. Th
 + **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
 + **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
 + **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1646397)
-+ **osu!mania:** [_SkyFall](https://osu.ppy.sh/users/1872276)
++ **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/1872276)
 
 # Announcing Spotlights Bounty
 
