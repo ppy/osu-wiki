@@ -21,33 +21,33 @@ First of all, congratulations to the winners of the November 2017 Spotlights. Th
 
 # Announcing Spotlights Bounty
 
-I'm glad to announce a new type of competition which will run simultaneous with the monthly other Spotlights. We place a bounty on a theme which lacks mapsets and then we ask you as a mapper to map a mapset and rank it until the deadline. After that we choose the bests from this pool of mapsets and announce it.
+I'm excited to announce a new type of competition which will run simultaneously with the other monthly Spotlights. We place a bounty on a theme which lacks mapsets, we then ask you as a mapper to create a mapset and rank it until the deadline. After that we choose the bests from this pool of mapsets and announce it.
 
 ## How can you enter?
 
-+ Map a mapset for any Loki/Thaehan song. It doesn't matter if its not listed [here](https://osu.ppy.sh/beatmaps/artists/7) feel free to check out his other works at [bandcamp](https://loki2.bandcamp.com/) too.
-+ The mapset can be in any mode (osu!, osu!taiko, osu!catch, osu!mania).
-+ You must map **at least three** (3) difficulties in an appropriate spread as per the Ranking Criteria, either ENH (easy, normal and hard) or NHI (normal, hard, insane).
-+ Use SB01 as a tag for easier find.
-+ Do not submit mapsets directly to us, instead ask the Beatmap Nominators for help!
++ Map a mapset for any song by Loki/Thaehan. It doesn't matter if it's not listed on the [featured artist page](https://osu.ppy.sh/beatmaps/artists/7) feel free to check out his other works at [bandcamp](https://loki2.bandcamp.com/) too.
++ The mapset can be in any game mode.
++ You must map **at least three** (3) difficulties in an appropriate spread as per the Ranking Criteria.
++ Use SB01 as a tag so that we can find it.
++ Do not submit mapsets directly to us. Instead, ask the Beatmap Nominators for help!
 + Your mapset must be ranked before the 15th of March!
 
 ## What are the Prizes?
 
-+ **1st place:** 3 months of osu!supporter and a shiny new badge, "Bounty Hunter: Thaehan"
++ **1st place:** 3 months of osu!supporter and a shiny new badge: "Bounty Hunter: Thaehan"
 + **2nd place:** 2 months of osu!supporter
 + **3rd place:** 1 month of osu!supporter
-+ The prizes are awarded per game mode
++ The prizes are awarded for each game mode
 
 ## What are the Prizes?
 
-+ **1st place:** 3 months of osu!supporter and 15 Bounty point
-+ **2nd place:** 2 months of osu!supporter and 12 Bounty point
-+ **3rd place:** 1 month of osu!supporter and 9 Bounty point
++ **1st place:** 3 months of osu!supporter and 15 Bounty points
++ **2nd place:** 2 months of osu!supporter and 12 Bounty points
++ **3rd place:** 1 month of osu!supporter and 9 Bounty points
 + The points will go down in a respective order
-+ At the end of the year these points will decide who will go home with the badge and title "Bounty Hunter 2018: osu!/taiko/catch/mania"
-+ The prizes are awarded per game mode
-+ All players will be able to earn a shiny new medal "Bounty Hunter: Thaehan".
++ At the end of the year these points will decide who will go home with the badge and title: "Bounty Hunter 2018: osu!/taiko/catch/mania"
++ The prizes are awarded for each game mode
++ All players will be able to earn a shiny new medal: "Bounty Hunter: Thaehan".
 
 # December 2017 Spotlights
 
@@ -55,7 +55,7 @@ I'm glad to announce a new type of competition which will run simultaneous with 
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/impulse.jpg)](https://osu.ppy.sh/beatmapsets/705788)
 
-As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! Be sure to check out the alluring storyboard made by Darky1 as well.
+As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! In addition, be sure to check out the alluring storyboard made by [Darky1](https://osu.ppy.sh/u/3372928).
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/jin-li-chao.jpg)](https://osu.ppy.sh/beatmapsets/684393)
 
@@ -63,7 +63,7 @@ As one of the most well known mappers in the community, [handsome](https://osu.p
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/yoiyoi-kokon.jpg)](https://osu.ppy.sh/beatmapsets/545737)
 
-On the song YoiYoi Kokon by Japanese singer REOL, [DreaM117er](https://osu.ppy.sh/users/1945090) brings us a mapset full of great difficulties. The highest difficulty made by the infamous [kiddly](https://osu.ppy.sh/users/74937) is packed with its own twists on popular patterns like sliderstreams, while the mapset host's own Expert difficulty manages to impress with its clean patterning and great flow. Add a stunning storyboard by [StarrodKirby86](https://osu.ppy.sh/users/410), combined with a beautiful skin by [Chaoslitz](https://osu.ppy.sh/users/3621552), and you have a mapset that’s not to be missed out this month!
+[DreaM117er](https://osu.ppy.sh/users/1945090)'s YoiYoi Kokon brings us a mapset full of great difficulties. The highest difficulty made by the infamous [kiddly](https://osu.ppy.sh/users/74937) is packed with its own twists on popular patterns like sliderstreams, while the mapset host's own Expert difficulty manages to impress with its clean patterning and great flow. Add a stunning storyboard by [StarrodKirby86](https://osu.ppy.sh/users/410), combined with a beautiful skin by [Chaoslitz](https://osu.ppy.sh/users/3621552), and you have a mapset that’s not to be missed out this month!
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/geurida.jpg)](https://osu.ppy.sh/beatmapsets/688183)
 
@@ -71,7 +71,7 @@ A distinctive oriental track from known composer Memme and mapped by [NeilPerry]
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/taylor.jpg)](https://osu.ppy.sh/beatmapsets/648127)
 
-[Niva](https://osu.ppy.sh/users/197805), one of the famous mappers from the early days has brought up his own mapset, bringing nostalgic vibes for older players.  In the Insane difficulty, there is a good mix of linear and circular flow which represents the beautiful music very nicely. With both old and new elements that the mapper has used in the mapset, it certainly makes for a good gameplay experience.
+[Niva](https://osu.ppy.sh/users/197805), one of the famous mappers from the early days has brought up his own mapset, bringing nostalgic vibes for older players. In the Insane difficulty, there is a good mix of linear and circular flow which represents the beautiful music very nicely. With both old and new elements that the mapper has used in the mapset, it certainly makes for an great gameplay experience.
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/trickl4sh.jpg)](https://osu.ppy.sh/beatmapsets/616696)
 
@@ -105,13 +105,13 @@ Like Time Traveler, fuego features an unusually high amount of slider velocity c
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/cycle-hit.jpg)](https://osu.ppy.sh/beatmapsets/692367)
 
-Having impressed us with his previous works, [Spectator](https://osu.ppy.sh/users/702598), in collaboration with [Ascendance](https://osu.ppy.sh/users/2931883), once again amazed us with his newly ranked map KASAI HARCORES - Cycle Hit. With dense yet fairly player-friendly note placement that perfectly fits its complex rhythm, they managed to express this hardcore song outstandingly, ensuring its victory in this month's Spotlights. Be aware of those frequent and hard hyperdashes along with fast sliders appearing occasionally!
+Having impressed us with his previous works, [Spectator](https://osu.ppy.sh/users/702598), in collaboration with [Ascendance](https://osu.ppy.sh/users/2931883), once again amazed us with their newly ranked map KASAI HARCORES - Cycle Hit. With dense yet fairly player-friendly note placement that perfectly fits its complex rhythm, they managed to express this hardcore song outstandingly, ensuring its victory in this month's Spotlights. Be aware of frequent and challenging hyperdashes along with high speed sliders!
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/next-to-you.jpg)](https://osu.ppy.sh/beatmapsets/574216)
 
-Oh, Be Clever - Next To You (Elephante Remix) brought to us by [JBHyperion](https://osu.ppy.sh/users/4879508) is sure to make you feel aliiiiive. An absolute banger of a song, this marathon length mapset blesses us with two difficulties. The Rain mapped in collaboration by JBHyperion and [WildOne94](https://osu.ppy.sh/users/3482692) provides an easier, more typical take on the song compared to Envy, the Overdose level difficulty where JBHyperion once again unleashes his increasingly iconic circle size 5 style.
+Oh, Be Clever - Next To You (Elephante Remix) brought to us by [JBHyperion](https://osu.ppy.sh/users/4879508) is sure to make you feel aliiiiive. An absolute banger of a song, this marathon length mapset blesses us with two difficulties. The Rain mapped in collaboration by JBHyperion and [WildOne94](https://osu.ppy.sh/users/3482692) provides an easier, more typical take on the song compared to Envy, with the overdose where JBHyperion once again unleashes his increasingly iconic circle size 5 style.
 
-Don't be fooled by the low BPM though, creative stream patterns and plenty of hyperdashes ensure the map is as every bit intense as the song itself. Be sure to watch your accuracy on this lively beatmap!
+Don't be fooled by the low BPM, creative stream patterns and plenty of hyperdashes ensure the map is as every bit intense as the song itself. Be sure to watch your accuracy on this lively beatmap!
 
 [![](/wiki/shared/news/2018-01-20-beatmap-spotlights-december-2017/sekai-wa-koi-ni-ochiteiru.jpg)](https://osu.ppy.sh/beatmapsets/596305)
 
