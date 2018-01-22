@@ -37,7 +37,7 @@ In total, **7629 votes** were cast for osu!catch. Player performance and playcou
 
 With **284 osu!catch maps ranked in 2016**, osu!catch was a relatively small game mode for mapping. However, despite having the smallest pool of ranked maps, osu!catch as a mode is still widely played with **42,782,141 ranked score submissions**. Ascendance's [saradisk - 176 - ikazuchi](https://osu.ppy.sh/s/424208) takes away the first place by a very small margin against [Memme - Acid Burst](https://osu.ppy.sh/s/302535), a collaborative work of Spectator and Deif.
 
-<a href="https://new.ppy.sh/community/contests/42">![](https://puu.sh/u3X7v/b58d6fa8a5.png)</a>
+<a href="https://osu.ppy.sh/community/contests/42">![](https://puu.sh/u3X7v/b58d6fa8a5.png)</a>
 
 In total, **33769 votes** were cast for osu!mania. Player performance and playcount were calculated on Tuesday, February 14th, 2017, at 14:02:18 UTC+9.
 <br><br>
