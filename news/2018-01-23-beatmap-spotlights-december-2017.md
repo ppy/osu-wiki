@@ -37,7 +37,7 @@ As one of the most well known mappers in the community, [handsome](https://osu.p
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/geurida.jpg)](https://osu.ppy.sh/beatmapsets/688183)
 
-A distinctive oriental track from known composer Memme and mapped by [NeilPerry](https://osu.ppy.sh/users/841391), Geurida features fast sliders which are quite commonly seen in wub maps nowadays, though it also contains various unique patterns that make the map stand out from the rest. The mapset also includes guest difficulties from the likes of well-known mapper Sing, as well as new aspiring mappers [LowComboFC](https://osu.ppy.sh/users/7322726) and [Sulfur](https://osu.ppy.sh/users/5297447).
+A distinctive oriental track from known composer Memme and mapped by [NeilPerry](https://osu.ppy.sh/users/841391), Geurida features fast sliders which are quite commonly seen in wub maps nowadays, though it also contains various unique patterns that make the map stand out from the rest. The mapset also includes guest difficulties from the likes of well-known mapper [Sing](https://osu.ppy.sh/users/3795679), as well as new aspiring mappers [LowComboFC](https://osu.ppy.sh/users/7322726) and [Sulfur](https://osu.ppy.sh/users/5297447).
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/taylor.jpg)](https://osu.ppy.sh/beatmapsets/648127)
 
