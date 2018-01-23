@@ -17,9 +17,13 @@ A little more research is needed to gather their metadata. Only trust metadata f
 
 ## Entering the metadata
 
-Once done getting all the needed information, you have to enter them to the [general section](/wiki/song_setup)
-or via the Beatmap Editor.
+Once done getting all the needed information, you have two options to enter the metadata to.
+
+#### A : via Song Setup.
 
  ![Song Setup Metadata](img/n1.png)
  
+ 
+#### B : via the ``.osu`` file.
+
  ![Notepad Metadata](img/n2.png)
