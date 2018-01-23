@@ -135,7 +135,7 @@ Difficulty
 
 ### Stars
 
-All the difficulty properties defined in this subsection are expressed in *stars*, where 1 star means very easy, and 9 stars means very hard. The number of stars is always a decimal number.
+All the difficulty properties defined in this subsection are expressed in *stars*, where 0 star means very easy, and 10 stars means very hard.
 
 ```
 HPDrainRate:4
@@ -148,15 +148,40 @@ ApproachRate:4.8
 
 TODO: The health bar decreases continuously, but also when the player misses a note. Which of the two this settings affect? How much exactly?
 
-*OverallDifficulty* is the most visible parameter. It defines the number of stars of a beatmap appears with in the overview. It affects the time window a hit object remains clickable.
+*CircleSize* (CS) defines the size of the hit circles and sliders in the osu!standard mode. The resulting circle radius in osu!pixels is defined by the formula `54.4 - 4.48 * CircleSize`. Ranked beatmaps must have a CircleSize value betwenn 2 and 7, inclusive. In osu!mania mode, *CircleSize* is the number of columns.
 
-TODO: Doesn't it affect anything else? How is the time window defined?
+### Overall Difficulty
 
-*CircleSize* defines the size of the hit circles and sliders in the osu!standard mode. The resulting circle radius in osu!pixels is defined by the formula `54.4 - 4.48 * CircleSize`. In osu!mania mode, *CircleSize* is the number of columns.
+*OverallDifficulty* (OD) is the harshness of the hit window and the difficulty of spinners.
 
-*ApproachRate* defines how long hit objects appear before they should be hit.
+- When OD < 5: `spins_per_second = 5 - 2 * (5 - OD) / 5`
+- When OD > 5: `spins_per_second = 5 + 2.5 * (OD - 5) / 5`
+- When OD = 5: `spins_per_second = 5`
 
-TODO: How to convert the approach rate to seconds?
+TODO: How is the time window defined?
+
+### Approach Rate
+
+*ApproachRate* (AR) defines when hit objects start to fade in relative to when they should be hit.
+
+```
+                                        X = perfect hit
+                p r e e m p t           ↓
+ ├───────────────────────┬──────────────┤
+ 0%      fade_in           100% opacity
+```
+
+The circle starts fading in at `X - preempt` with:
+
+- When AR < 5: `preempt = 1200ms + 600ms * (5 - AR) / 5`
+- When AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
+- When AR = 5: `preempt = 1200ms`
+
+The amount of time it takes for the hit object to completely fade in is also reliant on the approach rate:
+
+- When AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
+- When AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
+- When AR = 5: `fade_in = 800ms`
 
 ### Sliders
 
