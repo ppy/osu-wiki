@@ -1,6 +1,6 @@
 # 2012
 
-_Main page: [Community Choice](/wiki/Community_Choice "Community Choice")_
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 - [Full list of 2012 beatmaps (vote screen)](http://osu.ppy.sh/p/bestof2012) [Legacy link. Content has been removed]
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
