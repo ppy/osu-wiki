@@ -3,8 +3,7 @@
 *This guide is based from [Tari's forum post](https://osu.ppy.sh/community/forums/topics/249288).*
 
 
-The metadata in a osu!beatmap is imperative as it defines the artist, the song name, the genre, and any other
-essential information a player needs to know about the song.
+The metadata in a osu!beatmap is imperative as it defines the artist, the song name, the genre, and any other essential information a player needs to know about the song.
 
 
 ## Gathering a song's basic information
