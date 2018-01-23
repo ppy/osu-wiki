@@ -23,12 +23,16 @@ Once done getting all the needed information, you have two options to enter the 
 
  ![Song Setup Metadata](img/n1.png)
  
+> Reminder: 
+>
+> In Song Setup, the Romanised Title field is only available to edit if the game
+> detects you have a song title that doesn't use A-Z characters.
  
 #### B : via the ``.osu`` file.
 
  ![Notepad Metadata](img/n2.png)
  
-> Reminder: 
->
-> In Song Setup, the Romanised Title field is only available to edit if the game
-> detects you have a non-English song title.
+> Reminder:
+> 
+> To enter the non-romanised version of the name of the artist and the song, 
+> Create a field called ``TitleUnicode`` and ``ArtistUnicode``.
