@@ -1,6 +1,6 @@
 # 2015
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Main page: [Community Choice](/wiki/Community_Choice "Community Choice")_
 
 ## General
 

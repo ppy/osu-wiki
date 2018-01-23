@@ -2,18 +2,18 @@
 [#2]: /wiki/shared/SCrown.png "2nd"
 [#3]: /wiki/shared/BCrown.png "3rd"
 
-# Best Of series
+# Community Choice series
 
-Index page for all of the "Best Of" series.
+Index page for all of the "Community Choice" series.
 
-- [2009](./2009 "Best of 2009")
-- [2010](./2010 "Best of 2010")
-- [2011](./2011 "Best of 2011")
-- [2012](./2012 "Best of 2012")
-- [2013](./2013 "Best of 2013")
-- [2014](./2014 "Best of 2014")
-- [2015](./2015 "Best of 2015")
-- [2016](./2016 "Best of 2016")
+- [2009](./2009 "Community Choice 2009")
+- [2010](./2010 "Community Choice 2010")
+- [2011](./2011 "Community Choice 2011")
+- [2012](./2012 "Community Choice 2012")
+- [2013](./2013 "Community Choice 2013")
+- [2014](./2014 "Community Choice 2014")
+- [2015](./2015 "Community Choice 2015")
+- [2016](./2016 "Community Choice 2016")
 - 2017
 
 ### osu!standard

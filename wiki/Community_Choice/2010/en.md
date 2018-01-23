@@ -1,6 +1,6 @@
 # 2010
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Main page: [Community Choice](/wiki/Community_Choice "Community Choice")_
 
 - [Results (table text file)](https://puu.sh/Fju)
   - [Forum](https://osu.ppy.sh/forum/t/43834)
