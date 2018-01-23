@@ -155,10 +155,16 @@ TODO: The health bar decreases continuously, but also when the player misses a n
 *OverallDifficulty* (OD) is the harshness of the hit window and the difficulty of spinners.
 
 - When OD < 5: `spins_per_second = 5 - 2 * (5 - OD) / 5`
-- When OD > 5: `spins_per_second = 5 + 2.5 * (OD - 5) / 5`
 - When OD = 5: `spins_per_second = 5`
+- When OD > 5: `spins_per_second = 5 + 2.5 * (OD - 5) / 5`
 
-TODO: How is the time window defined?
+The width of the hit window is defined by the following table:
+
+| Score | Hit Window |
+| --- | --- |
+| 50 | `150ms + 50ms * (5 - AR) / 5` |
+| 100 | `100ms + 40ms * (5 - AR) / 5` |
+| 300 | `50ms + 30ms * (5 - AR) / 5` |
 
 ### Approach Rate
 
@@ -174,14 +180,14 @@ TODO: How is the time window defined?
 The circle starts fading in at `X - preempt` with:
 
 - When AR < 5: `preempt = 1200ms + 600ms * (5 - AR) / 5`
-- When AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 - When AR = 5: `preempt = 1200ms`
+- When AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 
 The amount of time it takes for the hit object to completely fade in is also reliant on the approach rate:
 
 - When AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
-- When AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
 - When AR = 5: `fade_in = 800ms`
+- When AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
 
 ### Sliders
 
