@@ -1,173 +1,173 @@
 osu!catch
 ===========
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+_父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-The **osu!catch Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+**osu!catch Ranking criteria** 是一系列关于创建 osu!catch 谱面的规则和指南。为了使 osu!catch 谱面被 ranked，谱面必须遵循以下列出的标准。**在任何情况下必须遵守规则**，而指南可以在某些的情况下打破。这些例外的情况必须保证有详细的解释，解释为什么指南被打破，解释为什么遵守指南会影响铺面的质量。
 
-Glossary
+术语
 ---------
 
-These terms are frequently appearing when getting in touch with osu!catch difficulties and are also used within the Ranking Criteria.
+这些术语经常出现在 osu!catch 的难度名中，或者被 Ranking Criteria 所使用。
 
-### Difficulty Names
+### 难度名
 
--   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**. Easy
--   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**. Normal
--   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**. Hard
--   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**. Insane
--   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**. Expert
+-   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**。简单
+-   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**。普通
+-   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**。困难
+-   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**。疯狂
+-   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**。专家
 
-### Gameplay
+### 游戏术语
 
--   **Fruit:** A large object represented by a hitcircle, slider head, tail or repeat.
--   **Drop:** A medium-sized object represented by a slider tick.
--   **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike the above, will not result in a combo break.
--   **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
--   **Jump:** A spacing between two objects that requires the use of dash to catch both.
--   **Hyperjump:** A more exaggerated spacing which cannot be caught by normal dashing. During play, hyperdash will be triggered between the two objects, characterised by a coloured outline on the first object.
--   **Edge Dash:** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
--   **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
--   **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
+-   **Fruit**：一个可以代表圆圈、滑条头、滑条尾或者折返的大物件。
+-   **Drop**：一个代表滑条节奏点的中等大小物件。
+-   **Droplet**：一个代表滑条主体的小物件。为接住它们会降低你的准确度，但是与前面两种物件不同的是，它不会造成连击中断。
+-   **Banana**：一个在转盘时出现的物件。它们有额外得分，但是不会影响准确度和最大连击数。
+-   **Jump**：两个物件之间的空隙，需要使用冲刺（dash）来接住两者。
+-   **Hyperjump**：非常大的空隙，无法用一般的冲刺来接。在游戏中，当第一个物件是发光的时，hyperjump 会在两个物件之间被触发。
+-   **Edge Dash**：两个物件之间有比较大的空隙，但是没有达到触发距离，即不会产生 hyperjump。这时，第一个物件必须被盘子的边缘接住，才能最终接住第二个物件。
+-   **Trigger distance**：两个物件之间产生 hyperdash 的最短距离。
+-   **Antiflow**：与玩家正常的移动模式不同的，突然的方向和速度改变。
 
 ------------------------------------------------------------------------
 
-Overall
+整体
 -----------
 
-Overall rules and guidelines apply to every kind of osu!catch difficulty.
+整体规则和指南适用于所有 osu!catch 谱面。
 
-### General
+### 通用
 
-#### Rules
+#### 规则
 
--   **Your map must theoretically be possible to SS.** This means it must be possible to catch absolutely all fruits, including droplets.
--   **Edge dashes must not be used in direct conjunction with hyperjumps.** This is because such patterns require especially precise movement and force an unreasonable restriction on accuracy required to catch them.
--   **Each map must use at least two different combo colors which must not blend in with the map's background/storyboard/video.** This is so hit objects are always visible to the player.
+-   **你的谱面必须理论上可以 SS。** 这意味着必须有可能完全接住所有水果，包括 droplets。
+-   **Edge dash 不能与 hyperjumps 同时使用。** 由于这样的模式需要非常细致的移动能力，会极大地影响玩家的准确度。
+-   **每张谱面至少实用两种不同的颜色，并且不能与谱面的背景、故事版、视频的颜色接近。**这样，玩家始终能看到物件。
 
-#### Guidelines
+#### 指南
 
--   **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
--   **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
--   **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty must be less than or equal to the Overall Difficulty of the next hardest difficulty.
--   **Hyperdashes may only be used on droplets and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play and a major penalty to accuracy for little benefit. Hyperdash on slider repetitions must not be used for more than two repeats, and such slider must not be used consecutively.
--   **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
--   **Hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.
+-   **Combos 不能过长。** 接住的谱面会堆放在盘子中，可能会阻碍玩家的视线。注意，滑条尾，折返和转盘的香蕉也算作「水果」。应该定时地放置新的 Combos 来清空盘子，避免这种情况。
+-   **每个难度中至少包含一个转盘，以使谱面富有变化，分数有所起伏。** 但是，如果转盘不适合于这首歌中的任何地方，可以不用强行放上一个。
+-   **整体难度应该与缩圈速度的值相同。** 这仅仅是一个标准值，因为整体难度不会影响游戏，也不会影响转盘中水果的总数，即不会影响一个难度的最高得分。在两者的值不相同的情况下，整体难度必须小于等于下一个更难的难度。
+-   **Hyperdashs 应该仅仅在 droplets 或者滑条折返上使用，并且滑条的路径应该较为简单。** 这样可以避免混乱和不合理的滑条移动难度，因为在复杂的滑条轨迹和 hyperdashs 中移动通常很难玩，并且对准确度影响相当大。在滑条折返中的 Hyperdash 不能被使用超过两次，这样的滑条不能被连续地使用。
+-   **在每一个难度中使用相同的滑条速度。** 因为它是音乐本身的属性而不是谱面的属性。但是，简单的难度可以有更低的滑条速度，以减少对新玩家的准确度要求，使他们能跟上歌曲的节奏。使用高滑条速度来提高分数、连击数、难度是错误的做法。
+-   **Hyperdashes 不应该在 hyperjump 的终点在游戏区域的左边缘或者右边缘时使用。** 这会造成不连贯的移动，Catcher 会在移动到游戏区域边缘时强制停止移动。试着在 hyperjump 结束点和边缘间留出至少 16 osu 像素的空间，一般分别为 x:16 或者 x:496。
 
-### Skinning
+### 皮肤
 
-#### Rules
+#### 规则
 
--   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` and `fruit-catcher-fail.png`.
--   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
--   **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the fruits, 82x103 for the drops and 306x320 for the catcher.
+-   **v2 皮肤格式必须使用自定义 catchers。** 这样保证所有皮肤的正确显示。需要包含的文件名有 `fruit-catcher-idle.png`，`fruit-catcher-kiai.png` 和 `fruit-catcher-fail.png`。
+-   **自定义水果必须包含所有需要的元素，颜色设置为灰色。** 这样保证你的图像被清晰地定义，拥有合适的质量。需要的元素在 [皮肤 / osu!catch](/wiki/Skinning/osu!catch) 中列出。另外，推荐叠加层使用透明元素。
+-   **皮肤元素必须与它们对应的默认皮肤样本大小一致。** 这样使它们可以正确地显示在屏幕中，不会影响游戏。当前默认皮肤使用的尺寸是 128x128 像素的水果，82x103 的 drops 和 306x320 的 catcher。
 
-#### Guidelines
+#### 指南
 
--   **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
+-   **自定义 catchers 应该在皮肤中额外包含元素 `lighting.png`** 添加这个元素是可选的，元素默认拥有 184x184 像素的尺寸，但它可能随着元素的可见性变化。
 
 ------------------------------------------------------------------------
 
-Difficulty-specific
+具体难度
 --------------------
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
+具体难度规则和指南只适用于所列出的某个难度，因此不适用于**每一个**osu!catch 难度。
 
 ### ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") Cup
 
-#### Rules
+#### 规则
 
--   **Dashes and hyperdashes of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
--   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
+-   **不能使用 Dashes 和 Hyperdashs。** 这样能保证新手玩家有良好的游戏体验。可以通过「不使用 dash 键也能获得 SS 的判定」来测试出是否满足这项条件。
+-   **物体之间必须留出足够的调整时间，转盘的开始和结尾必须清晰易读。** 调整时间长短取决于歌曲的 BPM：
     -   BPM &lt; 120 - 1/2 bar
     -   BPM &lt; 240 - 1 bar
     -   BPM ≥ 240 - 2 bars
 
-#### Guidelines
+#### 指南
 
--   Combos should not exceed 8 objects including slider tails and repeats. Spinners are an exception.
--   Note density should follow a mostly 1/1 pattern - 1/2 and/or 1/3 patterns can be used sparingly
--   Approach Rate / Overall Difficulty should be between 4-6
--   HP drain should be 4 or less
--   Circle Size should be between 2-3
+-   Combos 不应该超过 8 个物件，包括滑条尾和折返。转盘除外。
+-   物件密度应该遵循 1/1 模式 - 1/2 或 1/3 模式可以偶尔被使用。
+-   缩圈速度 / 整体难度应该在 4-6 之间。
+-   HP 应该不超过 4。
+-   CS 应该在 2-3 之间。
 
 ### ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") Salad
 
-#### Rules
+#### 规则
 
--   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players. Difficulties may make use of basic (1/1, 1/2) regular dashing, although no type of dash can be used more than twice consecutively.
--   **Higher snapped dashes may be used singularly (not in conjunction with other dashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed under 160 BPM whereas 1/4 dashes would be allowed under 120 BPM.
--   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
--   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
+-   **不能使用 Hyperdashs。** 这样保证难度对新人玩家来说可以操纵。难度可以使用（1/1，1/2）规律的 dashing，并且不能连续使用超过 2 次。
+-   **在期望间距的节奏点间的时间间隔大于 125ms 时，更快的 dashes 可以被单独使用（不能与其他 dashes 同时使用）。** 例如，1/3 dashs 可以在 160BPM 的曲子中使用，1/4 dashs 可以在 120BPM 的曲子中使用。
+-   **不能使用 Edge dashes。** 因为它们需要极其细致的时机把握，缺乏经验的玩家一般不具有这样的能力。
+-   **物体之间必须留出足够的调整时间，转盘的开始和结尾必须清晰易读。** 调整时间长短取决于歌曲的 BPM：
     -   BPM &lt; 120 - 1/2 bar
     -   BPM &lt; 240 - 1 bar
     -   BPM ≥ 240 - 2 bars
 
-#### Guidelines
+#### 指南
 
--   Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
--   Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
--   Approach Rate / Overall Difficulty should be between 6-7
--   HP drain should be between 4-5
--   Circle Size should be between 2.5-3.5
+-   Combos 不应该超过 10 个物件，包括滑条尾和折返。转盘除外。
+-   物件密度应该遵循 1/1 或 1/2 模式 - 1/3 或 1/4 模式可以偶尔被使用。单独的 1/3 或 1/4 模式不应该超过一个 bar 的长度（分别为 4 和 5 个物件）。
+-   缩圈速度 / 整体难度应该在 6-7 之间。
+-   HP 应该在 4-5 之间。
+-   CS 应该在 2.5-3.5 之间。
 
 ### ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") Platter
 
-#### Rules
+#### 规则
 
--   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. with a distance snap of 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used.
--   **Higher snapped hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed under 160 BPM whereas 1/4 hyperdashes would be allowed under 120 BPM.
--   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
+-   **可以使用基本的 hyperdashs （1/1，1/2），但是不能同时使用两者。** Platters 作为 hyperdashing 的介绍，意味着较难的 hypers（比如 1.5x 的移动距离同时不超过触发距离）和与 antiflow 模式组合的 hypers 不能被使用。
+-   **在期望间距的节奏点间的时间间隔大于 125ms 时，更快的 dashes 可以被单独使用（不能与其他 dashes 同时使用）。** 例如，1/3 dashs 可以在 160BPM 的曲子中使用，1/4 dashs 可以在 120BPM 的曲子中使用。
+-   **不能使用 Edge dashes。** 因为它们需要极其细致的时机把握，缺乏经验的玩家一般不具有这样的能力。
+-   **物体之间必须留出足够的调整时间，转盘的开始必须清晰易读。** 调整时间长短取决于歌曲的 BPM：
     -   BPM &lt; 120 - 1/4 bar
     -   BPM &lt; 240 - 1/2 bar
     -   BPM ≥ 240 - 1 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+    -   在转盘尾和下一个物件间的间距必须至少有 1/2 个 bar，无论多少 BPM。
 
-#### Guidelines
+#### 指南
 
--   Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
--   Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
--   Approach Rate / Overall Difficulty should be between 7-8.5
--   HP drain should be between 5-6
--   Circle Size should be between 3-4
+-   Combos 不应该超过 12 个物件，包括滑条尾和折返。转盘除外。
+-   物件密度应该遵循 1/2 或 1/3 模式 - 1/4 或 1/6 模式可以偶尔被使用。
+-   缩圈速度 / 整体难度应该在 7-8.5 之间。
+-   HP 应该在 5-6 之间。
+-   CS 应该在 3-4 之间。
 
 ### ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") Rain
 
-#### Rules
+#### 规则
 
--   **More complex hyperdashes (1/3, 1/4) may begin to appear, but no type of hyperdash can be used between more than four consecutive objects.** Additionally, hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive objects.
--   **Higher snapped hyperdashes may be used singularily, if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed under 160 BPM whereas 1/8 hyperdashes would be allowed under 120 BPM.
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
+-   **可以使用更复杂的 hyperdashes （1/3，1/4），但是不能同时使用两者。** 另外，不能在连续的物件中使用不同节奏间距（1/2，1/4 等）的 hyperdashes。
+-   **在期望间距的节奏点间的时间间隔大于 62ms 时，更快的 dashes 可以被单独使用。** 例如，1/6 dashs 可以在 160BPM 的曲子中使用，1/8 dashs 可以在 120BPM 的曲子中使用。
+-   **物体之间必须留出足够的调整时间，转盘的开始必须清晰易读。** 调整时间长短取决于歌曲的 BPM：
     -   BPM &lt; 120 - 1/4 bar
     -   BPM &lt; 240 - 1/2 bar
     -   BPM ≥ 240 - 1 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+    -   在转盘尾和下一个物件间的间距必须至少有 1/2 个 bar，无论多少 BPM。
 
-#### Guidelines
+#### 指南
 
--   Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
--   Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
--   Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).
--   Approach Rate/Overall Difficulty should be between 7-9
--   HP drain should be between 6-7
--   Circle Size should be between 3-5
+-   Combos 不应该超过 16 个物件，包括滑条尾和折返。转盘除外。
+-   物件密度应该遵循大部分 1/2 + 1/4 或 1/3 + 1/6 模式 - 1/8 模式可以偶尔被使用。
+-   Edge dashes 可以被单独地使用（不能和其他 dashes 或 hyperdashes 同时使用）。
+-   缩圈速度 / 整体难度应该在 7-9 之间。
+-   HP 应该在 6-7 之间。
+-   CS 应该在 3-5 之间。
 
 ### ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") Overdose
 
 #### Rules
 
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
+-   **物体之间必须留出足够的调整时间，转盘的开始必须清晰易读。** 调整时间长短取决于歌曲的 BPM：
     -   BPM &lt; 240 - 1/4 bar
     -   BPM ≥ 240 - 1/2 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+    -   在转盘尾和下一个物件间的间距必须至少有 1/2 个 bar，无论多少 BPM。
 
 #### Guidelines
 
--   Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
--   Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
--   1/8 and higher hyperdashes should not be used between consecutive object pairs.
--   Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used in conjunction with hyperdashes.
--   Approach Rate/Overall Difficulty should be between 8-10
--   HP drain should be between 6-8
--   Circle Size should be between 3-6
+-   Combos 不应该超过 16 个物件，包括滑条尾和折返。转盘除外。
+-   物件密度应该遵循大部分 1/2 + 1/4 或 1/3 + 1/6 模式 - 1/8 模式可以偶尔被使用。
+-   1/8 和更高的 hyperdashes 不应该在物件对中同时使用。
+-   Edge dashes 可以被单独地使用，不能和 hyperdashes 同时使用。
+-   缩圈速度 / 整体难度应该在 8-10 之间。
+-   HP 应该在 6-8 之间。
+-   CS 应该在 3-6 之间。
