@@ -133,9 +133,7 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 Difficulty
 ----------
 
-### Stars
-
-All the difficulty properties defined in this subsection are expressed in *stars*, where 0 star means very easy, and 10 stars means very hard.
+The following 4 difficulty properties are expressed in *stars*, where 0 star means very easy, and 10 stars means very hard.
 
 ```
 HPDrainRate:4
