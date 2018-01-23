@@ -25,7 +25,7 @@ Once done getting all the needed information, you have two options to enter the 
  
 > Reminder: 
 >
-> In Song Setup, the Romanised Title field is only available to edit if the game
+> In Song Setup, the romanised Title field is only available to edit if the game
 > detects you have a song title that doesn't use A-Z characters.
  
 #### B : via the ``.osu`` file.
