@@ -34,4 +34,4 @@ Once done getting all the needed information, you have two options to enter the 
 > Reminder:
 > 
 > To enter the non-romanised version of the name of the artist and the song, 
-> Create a field called ``TitleUnicode`` and ``ArtistUnicode``.
+> create a entry called ``TitleUnicode`` and ``ArtistUnicode`` under the Metadata section.
