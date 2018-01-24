@@ -1,16 +1,16 @@
 osu!
 ======
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+_父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+**osu! Ranking Criteria** 是一系列关于创建 osu!catch 谱面的规定和指南。为了使 osu! 谱面被 ranked，谱面必须遵循以下列出的标准。**在任何情况下必须遵守规定**，而指南可以在某些的情况下打破。这些例外的情况必须保证有详细的解释，解释为什么指南被打破，解释为什么遵守指南会影响铺面的质量。
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/forum/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+这里会列出 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87) 的最近更新（Recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
 
-Glossary
+一般术语
 --------
 
-### Difficulty Names
+### 难度名称
 
 -  **![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy**
 -  **![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal**
@@ -18,191 +18,191 @@ Glossary
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
-Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
+其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/forum/t/178700)。
 
-- **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
-- **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
+- **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** 一种结合了 Normal 和 Hard 的中间难度，通常用于填补高难度 Hard 和低难度 Normal 之间的难度跨度。
+- **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** 在有多个 Expert 难度时用于替换 Expert 的难度名并且表示它们之间难度的递增。
 
-### Gameplay
+### 游戏术语
 
-- **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
-- **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
-- **Stack:** Two or more hit objects placed in the same spot on the grid.
-- **Stack Leniency:** A setting used to determine if hit objects stack or directly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
-- **Overlap:** Hit objects touching each other where they do not stack.
-- **Snapping:** Timeline tick where an object is placed.
-- **Slider head/tail:** The start/end positions of a slider.
-- **Slider border:** Visible outline of a slider's path. When this is distorted through overlaps, sliders can become harder to read.
-- **Slider anchors:**  Tools used to shape the body of a slider. Gray anchors shape a single curve, while red anchors end the current curve. Also referred to as "nodes".
-- **Slider Velocity:** A slider's speed defines how much space it travels within a given beat. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Buzz slider:** A slider snapped to 1/8 or denser with more than three reverses, causing a "buzz" rather than individual hit sounds.
-- **Short Reversing Slider:** A short slider (usually 1/4 or 1/8 snapping) with 1 or more reverses. This allows a player to keep their cursor in one place while the slider reverses.
-- **Hold Slider:** A slider requiring the player to keep their cursor in one place rather than follow the sliderball.
-- **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
-- **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is ¾ of a beat.
-- **Slider Tick Rate:** The amount of slider ticks that appear per beat of music.
-- **Spinner Recovery Time:** The time between the end of a spinner and the following hit object.
-- **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
-- **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
-- **Keysounding:** hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Jump:** 物件互相之间的间距相比其他地方的平均间距大。通常用于 1/2 节奏。
+- **Stream:** 连续的圆圈组合在一起，通常用于 1/4 节奏。
+- **Stack:** 两个或者更多物件放在同一格点。
+- **Stack Leniency:** 一种用来决定物件完全重叠或者稍微错开的设定。增大数值会使物件完全重叠所需的时间轴跨度同时增加。
+- **Overlap:** 物件之间互相堆叠。
+- **Snapping:** 时间轴上用于物件摆放的线。
+- **Slider head/tail:** 滑条开始和结束的位置。
+- **Slider border:** 用于描述滑条路径的边框，如果滑条因相互交叉而过于扭曲，会更难看清滑条路径。
+- **Slider anchors:** 用于固定滑条形状的工具，灰色锚点用于让滑条产生一个弧度，而红色锚点用于结束这里的弧度。同时被称作「Nodes」。
+- **Slider Velocity:** 滑条的速度决定了在给定的节拍内滑条会经过多长的距离，谱面基础的滑条速度可以在 Timing 界面设置，另外的滑条速度变更可以通过绿线来完成。
+- **Buzz slider:** 超过三次折返的 1/8（或者更密集的）节奏的滑条，造成音效出现「嗡嗡」的声音而不是独立的音效。
+- **Short Reversing Slider:** 1 次或者超过 1 次折返的短滑条（通常是 1/4 或者 1/8），使玩家可以将光标停留在一个地方来完成折返。
+- **Hold Slider:** 要求玩家将光标停留在一个地方而不是跟着滑条上的中球走的滑条。
+- **Burai Slider:** 直接与自己身体重合的滑条，会造成很不清晰的滑条路径。
+- **Extended slider:** 尾巴不在音乐特定位置上的滑条，但是它表达延长音，通常的用法是 3/4 拍滑条。
+- **Slider Tick Rate:** 音乐中每一拍出现的滑条点的数量。
+- **Spinner Recovery Time:** 转盘结束的地方到下一个物件开始之间的时间。
+- **Time-distance equality:** 物件之间的间距与物件相隔的时间成固定比例，即使用固定 distance spacing（DS）。
+- **Hit object/Note density:** 用节拍数表示的物件之间的平均时间跨度。（比如 1/1 表示一拍，1/2 表示半拍）。
+- **Keysounding:** 使用与音乐很相近的音，或者直接用音乐中的音来作为谱面音效。 这种下音效的做法通常情况下给玩家的打击感很少。
 
-Overall
+常规
 --------
 
-Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+常规中的规则和指南适用于每一个 osu! 难度。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，在这些情况下请合理判断其适用性。
 
-### General
+### 通用
 
-#### Rules
+#### 规则
 
--   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
--   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
--   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
--   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
--   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
--   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
+-  **物件在 4:3 比例下不能超出屏幕。** 即使是只有一部分超出屏幕的物件也会产生读图难度。你需要通过测试谱面来保证这一点。
+-  **所有的转盘必须在 Auto 模式下能转到 1000 的额外分数。** 短转盘会产生不必要的难度。
+-  **除非强制使用默认皮肤，所有难度必须使用至少两种自定义颜色。** 在任何情况下物件颜色不能与背景 / 故事版 / 视频的颜色混合在一起，这是为了确保物件对于玩家来说一直是可见的并且自定义皮肤的颜色不会意外地与背景的颜色混合在一起。
+-  **滑条上的折返箭头不能被其他（使用默认皮肤或者谱面皮肤的）物件遮挡住。** 遮挡了滑条的折返箭头会让滑条非常难读。
+-  **禁止同时使 Slidertick 和 Sliderslide 静音。** 类似地，听不清的低音量以及与音乐本身过于相近的音效组也是不推荐使用的。
+-  **禁止给 Sliderslide, Sliderwhistle 和 Spinnerspin 使用不连续循环的音效。** 这些音效应是连续不断的，这意味着它们的音效文件在物件持续的过程中，必须从头到尾持续循环地播放。
+-  **所有的滑条从开始到结束必须有清晰可见的轨迹。** 不能使滑条跟自身重叠导致某一部分很难看清或者模棱两可，比如没有简单易读的滑条边框的 Burai sliders 和 Hold sliders。
 
-#### Guidelines
+#### 指南
 
--   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
--   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
--   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
--   **Avoid using combo colors with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
--   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
--   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
--   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
--   **Avoid keysounding without hitnormal support.** If hit sounds blend perfectly with the song, feedback is minimal.
--   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hit objects is playable.
--   **Difficulty should be appropriately expressed to represent the intensities of different sections in the music.** More complex/denser rhythms and more complex/quicker movements should be appropriately used to produce feedback through difficulty.
--   **Avoid major composition differences in similar sections of a song.** The basic spacing and rhythm should be similar, while patterning can vary. This ensures that rhythm and intensity in all similar sections reflect a song similarly.
--   **Sliders should begin on stronger beats and end on equal or weaker sounds.** Stressing important sounds through clicking is more natural to play than stressing unimportant sounds.
--   **Avoid extended sliders which pass through important sounds.** If an extended slider tail lands on silence and passes through a loud sound, players may have trouble interpreting rhythm. In these cases, it is better to place the slider tail on an audible beat.
--   **Jumps should be used to highlight certain sounds in the music.** Because playing a jump pattern puts more pressure on the player, they naturally fit better for highlighting certain sounds.
--   **Make sure that your spinners are not unreasonably long.** Aim for a maximum spinning time of about 5-7 seconds; any longer can cause the player's wrist to get sore. If your spinner must be longer, be sure that the music suggests this.
--   **Spinners should be used when they fit the music.** This is to ensure score differences among perfect plays on the leaderboard. They usually fit during held notes, changes in intensity, or transitions between sections.
--   **When including a slider velocity change, there should be a discernible change in the song's pacing.** Otherwise the velocity change would feel unsupported by the music.
--   **Avoid following multiple layers of the song if it is unclear what rhythm is prioritizing.** Players should be able to discern what part of the song is being followed.
--   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4 or 1/8 are recommended. If the song is using a swing beat, 1/6 or 1/12 are recommended. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
--   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
--   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
--   **Avoid using similar combo colors in successive combos.** Players should be able to differentiate between different combos in a map.
--   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
+-  **所有圆圈和滑条头应放在音乐中明显的音上。** 在没有音的地方放物件会导致节奏不合曲。
+-  **Slider tick rate 应根据歌曲特点来设置。** 比如如果你的歌曲有一个只有 1/3 节奏的部分，那么用 Tick rate2 对整个谱面来说很不合适。在这种情况下，应使用 Tick rate1。
+-  **避免使用亮度低于 50 的 Combo 颜色、滑条边框颜色和圆圈边框颜色。** 这类暗色会影响低背景亮度下缩圈的可读性并且其他的边框类皮肤元素的部分效果会变差。
+-  **避免在 Kiai 段使用亮度高于 220 的 Combo 颜色。** 它们会产生对眼睛刺激很大的闪光。
+-  **避免打击物件与其他默认皮肤和谱面专有皮肤的部件接触。** 这指的是所有可供自定义的皮肤部件。.
+-  **避免在慢速滑条下使用高 Tick rate。** 接受看不见的滑条点提供的反馈会很不舒服。
+-  **确保你的 Combo 不会太长或太短。** Combo 应该用来反映表达歌曲的不同段落，比如音乐的小节或者人声、乐器的段落。
+-  **避免在没有 Hitnormal 支持的情况下使用 Keysounding。** 如果音效与音乐本身太接近，那么打击感会很微小。
+-  **Buzz 滑条应在下一个物件前留出合适的间隙。** 1/8 和 1/16 滑条后应有 1/4 的停顿，而 1/12 滑条后应有 1/6 的停顿。 这是为了保证打击物件之间判定区域的合理性。
+-  **谱面难度应合理表达歌曲中不同部分的强度。** 应合理使用更复杂 / 密集的节奏和复杂 / 快速的移动来在整个难度中产生反馈效果。
+-  **避免在歌曲的相似部分使用不同的风格。** 基本的间距和节奏应该是相似的，然而物件排列可以有所不同。这是为了保证所有相似部分的节奏和强度能同样地反映歌曲。
+-  **滑条应在重音上开始，在相同或者弱一些的音上结束。** 通过点击来强调重要的音玩起来会更加自然。
+-  **避免使用穿过重音的长滑条。** 如果把一个长滑条的滑条尾放在一个静音的地方，同时又穿过了一个比较响的音，玩家可能会难以理解节奏。在这些情况下，最好把滑条尾放在能听见的音上。
+-  **跳应用在突出音乐中某些特定的音上。** 因为玩家在玩跳的部分的时候会产生更大的压力，所以突出特定的音的跳会与音乐贴合得更加自然。
+-  **确保你的转盘不会太长。** 保持转盘长度最长为 5-7 秒；更长的时间会使玩家的手腕疼痛。如果你一定要使用长转盘，请确保它合曲。
+-  **当转盘合曲时应使用转盘。** 这是为了保证排行榜上的完美的成绩的分数不同。它们通常在延长音、强度变化以及段落衔接时使用比较合适。
+-  **如果谱面的滑条速度有变，则在这些变化的地方音乐也应有相应的变化。** 否则这些滑条速度的变化会显得与音乐不贴合。
+-  **当歌曲节奏的优先度不明确的时候，避免跟多种音轨。** 应使玩家能够辨别你跟的是歌曲的哪个部分。
+-  **长滑条的滑条尾的位置应根据歌曲节拍的结构决定。** 如果歌曲用 Straight beat，则推荐使用 1/4 或者 1/8。如果歌曲用 Swing beat，则推荐使用 1/6 或者 1/12。如果歌曲有跟推荐的位置不同的节拍，那么优先放在实际的节拍上。
+-  **尽量将物件均匀摆放在打图区域内。** 无故集中摆在屏幕的某一个部分的杂乱的物件会使它们显得格外不自然。
+-  **避免使用不可预见的节奏。** 可以通过使用前后一致的时间线跨度在不同的放置点、时间 - 间距等比例以及不规则节拍上的滑条折返 / 滑条尾建立联系来使节奏看起来更加直观。
+-  **避免在连续的 Combo 上使用相似的颜色。** 应使玩家能够区分谱面的不同 Combo。
+-  **转盘和滑条尾应有音效反馈。** 如果它们被用在延长音上，并且不在明显的音上结束，那么也可以没有反馈。
 
-### Skinning
+### 皮肤
 
-#### Rules
+#### 规则
 
--   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
--   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
--   **A custom slider border color must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
--   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
--   **Both slider border and body colors must be manually set or not set.** Setting only one may conflict with a user's custom skin choices.
+-  **转盘圈和它们的中心点必须清晰可见并且完全居中。** 这是为了确保玩家有可见的辅助物来提示并且帮助他们转圈。
+-  **Hit100 和 300 必须分别与它们相对应的 Geki 和 Katu 皮肤部件不同。** Hit300g、Hit300k 和 Hit100k 表明玩家是否在一个 Combo 中击中了所有 300。
+-  **当谱面包含一套圆圈或者滑条皮肤元素的时候，必须使用一种自定义滑条边框颜色。** 这是为了避免默认皮肤的滑条边框或者玩家自定义皮肤的滑条边框与谱面专有的颜色设置互相矛盾。完成方法：在 `.osu` 文件中的 `[Colours]` 下面添加 `SliderBorder: <RGB Value>`。
+-  **滑条身体的颜色不能与滑条边框颜色太接近。** 如果它们设置得太过接近，滑条边框部件会丧失其作为一个滑条的可见边框的意义。滑条身体的颜色可以通过在 `.osu` 文件中的 `[Colours]` 中添加 `SliderTrackOverride: <RGB Value>` 来进行选择。
+-  **滑条身体的颜色和滑条边框的颜色必须同时手动设置或者不设置。** 只设置一种会与玩家自定义皮肤冲突。
 
-#### Guidelines
+#### 指南
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
+-  **不建议使用旧风格转盘。它只能用在首选皮肤为默认皮肤的时候。** 使用 SpinnerBackground 的皮肤会改变 spinner-background.png 的颜色并且这将对转盘的外观产生负面影响。这一设置无法通过编辑 `.osu` 文件中的 `[Colours]` 来修改。
 
-## Difficulty-specific
+## 具体难度
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu! difficulty_. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+具体难度的规则和指南只适用于与它们在文中所列出位置相对应的难度，因此_不是**每个** osu! 难度都适用_。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，在这些情况下请合理判断其适用性。
 
 ### ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 
-#### Rules
+#### 规则
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/1 hit objects to stack.** Directly overlapping hit objects cause reading problems for new players.
+-  **如果要使用重叠的物件，必须设置足够高的 Stack Leniency 数值让相隔 1/1 的物件出现堆叠效果。** 直接重叠的物件会给新人玩家造成读图问题。
 
-#### Guidelines
+#### 指南
 
--  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
--  **When distance snap is used, try to keep it between 0.8x and 1.2x.** Values too much higher or lower may make the difference between slider velocity and spacing counterintuitive. A higher distance snap can be used to avoid overlapping, but the slider velocity should be increased if you find yourself doing this often.
--  **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
--  **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
--  **Avoid overlapping circles, slider heads, and slider tails.** These can be confusing for new players. 1/1 overlaps due to distance snapping should be avoided with higher spacing or slider velocity.
--  **Avoid 1/1 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
--  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
--  **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
--  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
--  **Spinner recovery time should be at least 4 beats.** This is to ensure adequate time to click a hit object following a spinner.
--  **Avoid spinners less than 4 beats.** Players need time to recognize that they have to begin spinning.
+-  **应使用时间 - 间距等比例设定。** 如果间距明显与其他节奏使用的间距不同的话可以接受适当的变化。当物件之间相隔 2 拍，而且在打图区域内的间距相当远，则间距不需要这样精确。
+-  **当使用 DS 时，尽量将 DS 保持在 0.8x 到 1.2x 之间。** 过高或过低的数值会使视觉上滑条速度和不规则的间距变化产生差别。高 DS 可以用来避免物件接触，但是如果你经常需要增大 DS，那么你应该同时增加滑条速度。
+-  **物件密度应主要由 1/1 和 2/1 节奏或者更慢的节奏组成。**
+-  **避免使用比 1/2 滑条更短的滑条。** 这些滑条对于新手玩家来说太过快速，不易理解。
+-  **避免圆圈、滑条头以及滑条尾互相接触。** 这些会困扰新手玩家。对于 1/1 节奏下由 DS 产生的物件接触，应该使用更大的间距或者滑条速度来避免。
+-  **避免使用多次折返的 1/1 滑条。** 额外的折返可见的时间很短，所以新手玩家无法读清。
+-  **避免出现只有滑条的部分。** 连续对准并跟随很多滑条会使新手玩家觉得很累，在这种情况下，应该加入一些圆圈和没有物件需要点击或跟随的休息时间。
+-  **尽量不要变动滑条速度。** 滑条速度应该只在音乐起伏的部分进行变动，并且不能有很大变动。
+-  **使用简单直接并且容易理解的滑条形状。** 新手玩家可能不知道如何跟随更加复杂的滑条形状。
+-  **转盘后恢复时间应至少有 4 拍。** 这是为了保证在点击转盘后面的物件前有充足的时间进行准备。
+-  **避免使用小于 4 拍的转盘。** 玩家需要时间来确认他们需要开始转圈。
 
-#### Difficulty Setting Guidelines
+#### 难度设置指南
 
--  Approach Rate should be 5 or less.
--  Overall Difficulty / HP Drain Rate should be between 1 and 3.
+-  AR 应该不超过 5。
+-  OD/HP 应该在 1-3 之间。
 
 ### ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 
-#### Rules
+#### 规则
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/1 hit objects to stack.** Directly overlapping hit objects cause reading problems for new players.
+-  **如果要使用重叠的物件，必须设置足够高的 Stack Leniency 数值让相隔 1/1 的物件出现堆叠效果。** 直接重叠的物件会给新人玩家造成读图问题。
 
-#### Guidelines
+#### 指南
 
--  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
--  **When distance snap is used, try to keep it between 0.8x and 1.3x.** Values too much higher or lower may make the difference between slider velocity and spacing counterintuitive. A higher distance snap can be used to avoid overlapping, but the slider velocity should be increased if you find yourself doing this often.
--  **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
--  **Avoid overlapping circles, slider heads, and slider tails.** These can be confusing for new players. 1/2 overlaps due to distance snapping are an exception.
--  **Avoid long chains of hit objects with 1/2 gaps.** Too many consecutive hit objects overlapping can be confusing for new players.
--  **Avoid 1/2 hit objects after sliders which appear underneath the previous slider's path.** Players at this level fully follow sliders’ paths, so placing a hit object directly after the slider is more intuitive. This also includes stacks underneath slider ends.
--  **Avoid 1/2 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
--  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
--  **Stacks are acceptable, but avoid switching between 1/1 and 1/2 stacks repeatedly.** This may cause reading issues for new players, since two different rhythms are visually the same.
--  **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
--  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
--  **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
--  **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
+-  **应使用时间 - 间距等比例设定。** 如果间距明显与其他节奏使用的间距不同的话可以接受适当的变化。当物件之间相隔 1 拍，而且在打图区域内的间距相当远，则间距不需要这样精确。
+-  **当使用 DS 时，尽量将 DS 保持在 0.8x 到 1.3x 之间。** 过高或过低的数值会使视觉上滑条速度和不规则的间距变化产生差别。高 DS 可以用来避免物件接触，但是如果你经常需要增大 DS，那么你应该同时增加滑条速度。
+-  **物件密度应该主要由 1/1 和偶尔的 1/2 节奏或者更慢的节奏组成。**
+-  **避免圆圈、滑条头以及滑条尾的接触。** 这些会困扰新手玩家。1/2 节奏下因 DS 产生的物件接触是例外情况。
+-  **避免使用一连串的 1/2 物件。** 太多连续的、互相接触的物件会困扰新手玩家。
+-  **避免在 1/2 跨度下前一个滑条的路径下面摆放物件。** 这个水平的玩家会完全跟随滑条路径，所以直接在滑条的后面摆放下一个物件更加直观。这也包括了在滑条尾巴下面摆放重叠的物件。
+-  **避免使用多次折返的 1/2 滑条。** 额外的折返可见的时间很短，所以新手玩家无法读清。
+-  **避免出现只有滑条的部分。** 连续对准并跟随很多滑条会使新手玩家觉得很累，在这种情况下，应该加入一些圆圈和没有物件需要点击或跟随的休息时间。
+-  **可以出现重叠，但是避免反复交叉使用 1/1 和 1/2 节奏的重叠。** 因为如果这两种节奏看起来是一样的，会给新手玩家造成读图困难。
+-  **尽量不要变动滑条速度。** 滑条速度应该只在音乐起伏的部分进行变动，并且不能有很大变动。
+-  **使用简单直接并且容易理解的滑条形状。** 新手玩家可能不知道如何跟随更加复杂的滑条形状。
+-  **转盘后恢复时间应至少有 2 拍。** 这是为了保证在点击转盘后面的物件前有充足的时间进行准备。
+-  **避免使用小于 3 拍的转盘。** 玩家需要时间来确认他们需要开始转圈。
 
-#### Difficulty Setting Guidelines
+#### 难度设置指南
 
--  Approach Rate should be between 4 and 6.
--  Overall Difficulty / HP Drain Rate should be between 3 and 5.
+-  AR 应该在 4-6 之间。
+-  OD/HP 应该在 3-5 之间。
 
 ### ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 
-#### Rules
+#### 规则
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/2 hit objects to stack.** Directly overlapping hit objects cause reading problems for players of this level.
+-  **如果要使用重叠的物件，必须设置足够高的 Stack Leniency 数值让相隔 1/2 的物件出现堆叠效果。** 直接重叠的物件会给新人玩家造成读图问题。
 
-#### Guidelines
+#### 指南
 
--  **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hit object following a spinner.
--  **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
--  **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
--  **Avoid visually similar 1/2 and 1/1 spacing.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from 1/1 gaps.
--  **Avoid mixing 1/2 and 1/4 rhythms in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
--  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
--  **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
+-  **转盘恢复时间应至少有 1 拍。** 这是为了保证在点击转盘后面的物件前有充足的时间进行准备。
+-  **物件密度应该主要由 1/2 和偶尔的 1/4 节奏或者更慢的节奏组成。**
+-  **连打的长度避免超过五个。** 如果合曲，可以使用短折返滑条作为替换。
+-  **避免看起来相似的 1/1 和 1/2 间距。** 可以用跳在有重音的地方改变间距，但是这些跳看起来应与 1/1 跨度的间距不同。
+-  **避免在同一重叠点上混合使用 1/2 和 1/4 节奏的物件。** 在此密度下的不同节奏如果没有间距变化的提示会造成读图问题。
+-  **不建议使用滑条点上的音效。** 如果你要使用它们，请确保平衡它们的音量 (即：比常规的音效轻很多)。一个非常响的滑条点音效，尤其是只用到一两次的，会有非常大的违和感。
+-  **避免使用小于 2 拍的转盘。** 玩家需要时间来确认他们需要开始转圈。
 
-#### Difficulty Setting Guidelines
+#### 难度设置指南
 
-- Approach Rate should be between 6 and 8.
-- Overall Difficulty should be between 5 and 7.
-- HP Drain Rate should be between 4 and 6.
+-  AR 应该在 6-8 之间。
+-  OD 应该在 5-7 之间。
+-  HP 应该在 4-6 之间。
 
 ### ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
 
-#### Guidelines
+#### 指南
 
--  **Avoid cross screen jumps and spaced streams.** These are mapping techniques primarily reserved for Expert level difficulties.
--  **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
--  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+-  **避免全屏跳和大间距连打。** 它们主要是 Expert 级别的难度特有的作图技术。
+-  **避免不合理的难度差异。** 难度应代表歌曲的强度。
+-  **不建议使用滑条点上的音效。** 如果你要使用它们，请确保平衡它们的音量 (即：比常规的音效轻很多)。一个非常响的滑条点音效，尤其是只用到一两次的，会有非常大的违和感。
 
-#### Difficulty Setting Guidelines
+#### 难度设置指南
 
--  Approach Rate should be between 7 and 9.3
--  Overall Difficulty should be between 7 and 9.
--  HP Drain Rate should be between 5 and 8.
+-  AR 应该在 7-9.3 之间。
+-  OD 应该在 7-9 之间。
+-  HP 应该在 5-8 之间。
 
 ### ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
 
-#### Guidelines
+#### 指南
 
--  **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
--  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+-  **避免不合理的难度差异。** 难度应代表歌曲的强度。
+-  **不建议使用滑条点上的音效。** 如果你要使用它们，请确保平衡它们的音量 (即：比常规的音效轻很多)。一个非常响的滑条点音效，尤其是只用到一两次的，会有非常大的违和感。
 
-#### Difficulty Setting Guidelines
+#### 难度设置指南
 
--  Approach Rate / Overall Difficulty should be 8 or higher.
--  HP Drain Rate should be 5 or higher.
+-  AR/OD 应该不小于 8。
+-  HP 应该不小于 5。
