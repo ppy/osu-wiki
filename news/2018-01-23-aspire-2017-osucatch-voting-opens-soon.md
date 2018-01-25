@@ -12,7 +12,7 @@ With some incredible offerings from both experienced osu!catch Aspirants and fre
 
 There will be eye-popping aesthetics and gameplay alike, from snazzy storyboards to astonishing pattern art, teleporting catchers to mountainous fruit stacks - if you want to know what osu!catch mapping is truly capable of, this is the showcase for you! Even if you're not an avid osu!catch player, fruits are good for you, so what's to lose by tuning in!?
 
-We'll be starting the livestream over on the [official osu! Twitch channel](https://twitch.tv/osulive) at **23:00 UTC on Saturday the 27th of January**. Voting will go live as soon as the stream begins, so you can vote along with everybody watching and select your most creative and astounding fruit-arrangement masterpieces!
+We'll be starting the livestream over on the [official osu! Twitch channel](https://twitch.tv/osulive) at **23:00 UTC on Saturday the 27th of January** - keep an eye on our [Aspire 2017: osu!catch countdown](http://itsalmo.st/#aspire2017osucatch) to make sure you don't miss it! Voting will go live as soon as the stream begins, so you can vote along with everybody watching and select your most creative and astounding fruit-arrangement masterpieces!
 
 See you all there!
 
