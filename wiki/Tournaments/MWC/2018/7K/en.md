@@ -59,6 +59,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/users/3461860)**, [HappyOverjoy](https://osu.ppy.sh/users/3244389), [Radius](https://osu.ppy.sh/users/5419711) |
 | ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [NamesAreRubbish](https://osu.ppy.sh/users/5213962), [masaya](https://osu.ppy.sh/users/5818319), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585) |
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![][flag_SG] | **Singapore** | **[Paralit](https://osu.ppy.sh/users/876528)**, [ByeForNow](https://osu.ppy.sh/users/7199159), [RealmRipper](https://osu.ppy.sh/users/7349397), [Rommmy](https://osu.ppy.sh/users/9262190) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
 
 
@@ -67,10 +68,12 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
+| ![][flag_BR] | **Brazil** | **[Lazarento](https://osu.ppy.sh/users/3224958)** |
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)** |
+| ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)** |
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)** |
+| ![][flag_PL] | **Poland** | **[Kamikaze](https://osu.ppy.sh/users/2124783)** |
 | ![][flag_RU] | **Russian Federation** | **[Kivicat](https://osu.ppy.sh/users/2790640)** |
-| ![][flag_SG] | **Singapore** | **[Paralit](https://osu.ppy.sh/users/876528)** |
 | ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)** |
 | ![][flag_SE] | **Sweden** | **[RilipWorldWider](https://osu.ppy.sh/users/3395312)** |
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)** |
@@ -244,3 +247,5 @@ The mappools will be revealed one week in advance of each stage and will be disp
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+
