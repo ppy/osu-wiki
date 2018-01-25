@@ -51,7 +51,33 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Participants
 
-The participants will be displayed once the registration phase is over.
+**List of confirmed rosters**
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Somnium-](https://osu.ppy.sh/users/2037798), [\_\_Yu](https://osu.ppy.sh/users/6253228) |
+| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903) |
+| ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/users/3461860)**, [HappyOverjoy](https://osu.ppy.sh/users/3244389), [Radius](https://osu.ppy.sh/users/5419711) |
+| ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [NamesAreRubbish](https://osu.ppy.sh/users/5213962), [masaya](https://osu.ppy.sh/users/5818319), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585) |
+| ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
+
+
+**List of pending rosters**
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
+| ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)** |
+| ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)** |
+| ![][flag_RU] | **Russian Federation** | **[Kivicat](https://osu.ppy.sh/users/2790640)** |
+| ![][flag_SG] | **Singapore** | **[Paralit](https://osu.ppy.sh/users/876528)** |
+| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)** |
+| ![][flag_SE] | **Sweden** | **[RilipWorldWider](https://osu.ppy.sh/users/3395312)** |
+| ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)** |
+
+*Remember this is not the full list yet, there are still more teams to come!*
+
 
 ------------------------------------------------------------------------
 
@@ -210,3 +236,12 @@ The mappools will be revealed one week in advance of each stage and will be disp
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
