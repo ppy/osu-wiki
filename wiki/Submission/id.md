@@ -3,9 +3,9 @@ Pengajuan
 
 [Beatmapper](/wiki/Glossary/#beatmapper) dan mengajukan beatmap yang [masih dalam tahap pengerjaan (WIP)](/wiki/Glossary/#wip) maupun beatmap yang mereka anggap selesai (2 tingkat kesulitan dibutuhkan) ke masing-masing subforum [Beatmap](https://osu.ppy.sh/forum/12) *[Work In Progress/Help](https://osu.ppy.sh/forum/10)* dan [Pending Beatmap](https://osu.ppy.sh/forum/6), menggunakan **Sistem Pengajuan Beatmap (BSS)** dalam permainan \[Ctrl + Shift + U\].
 
-Terletak dalam [Penyunting](/wiki/Beatmap_Editor) osu!, BSS secara otomatis mengunggah beatmap berserta segala elemennya (mp3, video, storyboard, dll.) ke server osu! dan membuat thread dengan sebuah tautan unduh di forum yang relevan. Moderator dan anggota forum lainnya dapat berkomentar dan menawarkan umpan balik pada beatmap. Jika beatmap itu telah mendapatkan persetujuan paling tidak 2 BNG, maka beatmap itu akan dirank ![Heart icon](/wiki/shared/Heart.gif "Heart icon").
+Terletak dalam [Penyunting](/wiki/Beatmap_Editor) osu!, BSS secara otomatis mengunggah beatmap berserta segala elemennya (mp3, video, storyboard, dll.) ke server osu! dan membuat thread dengan sebuah tautan unduh di forum yang relevan. Moderator dan anggota forum lainnya dapat berkomentar dan menawarkan umpan balik pada beatmap. Jika beatmap itu telah mendapatkan persetujuan paling tidak 2 BNG, maka beatmap itu akan dirank ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon").
 
-![Heart icon](/wiki/shared/Heart.gif "Heart icon") Beatmap yang telah dirank dipindahkan ke subforum *[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)*, ditambahkan ke [Daftar Beatmap Ranked](https://osu.ppy.sh/p/beatmaplist) termasuk ke dalam [Paket Beatmap Ranked](https://osu.ppy.sh/p/packlist), dan akan muncul di profil mereka. Skor yang diperoleh ketika mereka bermain beatmap tersebut akan menambahkan *Total Ranked Score* pemain dalam [Peringkat Pemain](https://osu.ppy.sh/p/playerranking) dan penilaian pemain dapat dimasukkan sebagai hitungan mereka pada [Peringkat Beatmapper](https://osu.ppy.sh/p/mapperranking).
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Beatmap yang telah dirank dipindahkan ke subforum *[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)*, ditambahkan ke [Daftar Beatmap Ranked](https://osu.ppy.sh/p/beatmaplist) termasuk ke dalam [Paket Beatmap Ranked](https://osu.ppy.sh/p/packlist), dan akan muncul di profil mereka. Skor yang diperoleh ketika mereka bermain beatmap tersebut akan menambahkan *Total Ranked Score* pemain dalam [Peringkat Pemain](https://osu.ppy.sh/p/playerranking) dan penilaian pemain dapat dimasukkan sebagai hitungan mereka pada [Peringkat Beatmapper](https://osu.ppy.sh/p/mapperranking).
 
 ![Layar Peringatan Sistem Pengajuan Beatmap](BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
 
@@ -47,41 +47,41 @@ Setelah kamu mengirim beatmapmu, itu akan tersedia untuk diunduh oleh anggota fo
 
 Moderator dapat memberikan sebuah simbol ke thread beatmap tersebut berdasarkan evaluasi mereka terhadap beatmap tersebut. Simbol ini ditampilkan di sebelah judulnya dalam subforum dan di sebelah judul kiriman pertamanya. Simbol yang mungkin untuk sebuah beatmap miliki ialah sebagai berikut (diurutukan dari terbaik hingga terburuk):
 
--   ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Hati / ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Api
--   ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Gelembung berpikir (Gelembung untuk lebih singkatnya)
--   ![Star icon](/wiki/shared/Star.gif "Star icon") Bintang
+-   ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Hati / ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Api
+-   ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Gelembung berpikir (Gelembung untuk lebih singkatnya)
+-   ![Star icon](/wiki/shared/icon/star.gif "Star icon") Bintang
 -   Tanpa simbol
--   ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Hati yang retak
--   ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuklir
+-   ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Hati yang retak
+-   ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuklir
     -   *Graveyard* jika tidak aktif selama sebulan.
 
-#### ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Hati
+#### ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Hati
 
-Setelah BN kedua menominasikan sebuah beatmap dengan sebuah simbol Gelembung Pikiran ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") , ia mengkualifikasikannya dan otomatis diberikan simbol ini ketika dipindahkan ke forum *Ranked/Approved Beatmaps*.
+Setelah BN kedua menominasikan sebuah beatmap dengan sebuah simbol Gelembung Pikiran ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") , ia mengkualifikasikannya dan otomatis diberikan simbol ini ketika dipindahkan ke forum *Ranked/Approved Beatmaps*.
 
-#### ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Api
+#### ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Api
 
-Sebuah Api diberikan pada beatmap yang tidak memiliki masalah teknis yang ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") beatmap Nuked punya, dan akan dianggap sebagai beatmap Approved karena durasinya panjang dan memenuhi Kriteria Pemeringkatan. Dahulu skor total atau jumlah tingkat kesulitannya termasuk dalam kriteria pemeringkatannya, tapi sekarang hanya durasi yang dipertimbangkan. Map tersebut bisa disebut susah dan dibuat sebagai tantangan pada para pemain yang mahir.
+Sebuah Api diberikan pada beatmap yang tidak memiliki masalah teknis yang ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") beatmap Nuked punya, dan akan dianggap sebagai beatmap Approved karena durasinya panjang dan memenuhi Kriteria Pemeringkatan. Dahulu skor total atau jumlah tingkat kesulitannya termasuk dalam kriteria pemeringkatannya, tapi sekarang hanya durasi yang dipertimbangkan. Map tersebut bisa disebut susah dan dibuat sebagai tantangan pada para pemain yang mahir.
 
-#### ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Gelembung pikiran
+#### ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Gelembung pikiran
 
-Biasanya dipanggil *Bubble (Gelembung)* untuk lebih singkatnya, simbol ini diberikan ketika **seorang BN telah puas terhadap seluruh aspek dari beatmap tersebut dan menominasikannya untuk dirank.** Setelah BN kedua menyetujui beatmap tersebut, maka itu telah dikualifikasi ![Heart icon](/wiki/shared/Heart.gif "Heart icon"). Sebuah Gelembung Pikiran mungkin akan turun menjadi sebuah ![Star icon](/wiki/shared/Star.gif "Star icon") Bintang jika moderator kedua menemukan kesalahan pada bagian moderator pertama, tapi selama ini belum ada penurunan yang pernah terjadi.
+Biasanya dipanggil *Bubble (Gelembung)* untuk lebih singkatnya, simbol ini diberikan ketika **seorang BN telah puas terhadap seluruh aspek dari beatmap tersebut dan menominasikannya untuk dirank.** Setelah BN kedua menyetujui beatmap tersebut, maka itu telah dikualifikasi ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon"). Sebuah Gelembung Pikiran mungkin akan turun menjadi sebuah ![Star icon](/wiki/shared/icon/star.gif "Star icon") Bintang jika moderator kedua menemukan kesalahan pada bagian moderator pertama, tapi selama ini belum ada penurunan yang pernah terjadi.
 
-#### ![Star icon](/wiki/shared/Star.gif "Star icon") Bintang
+#### ![Star icon](/wiki/shared/icon/star.gif "Star icon") Bintang
 
-Sebuah bintang diberikan pada sebuah beatmap yang **BN anggap telah benar namun masih membutuhkan beberapa peningkatan sebelum ia menyetujuinya dengan sebuah ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Gelembung Pemikiran.** Contoh termasuk beberapa sedikit penyesuaian pada timing, jarak ketukan yang kurang tepat pada beberapa bagian, atau membutuhkan tambahan versi tingkat kesulitan.
+Sebuah bintang diberikan pada sebuah beatmap yang **BN anggap telah benar namun masih membutuhkan beberapa peningkatan sebelum ia menyetujuinya dengan sebuah ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Gelembung Pemikiran.** Contoh termasuk beberapa sedikit penyesuaian pada timing, jarak ketukan yang kurang tepat pada beberapa bagian, atau membutuhkan tambahan versi tingkat kesulitan.
 
 Ini seharusnya TIDAK membuat kerancuan dengan sebuah "Bintang Kudosu". Sebuah Bintang Kudosu diberikan oleh modder yang berpikir bahwa map tersebut layak mendapatkannya. Bintang Kudosu memberikan berbagai macam bintang prioritas bergantung siapa yang memberikannya, tapi mereka dapat menempatkan map leih tinggi pada daftar prioritas. Tolong lihat [Kudosu](/wiki/Glossary/#kudosu) untuk informasi lebih lanjut tentang Kudosu.
 
 #### Tanpa simbol
 
-Semua beatmap yang tidak mempunyai simbol pada mereka ketika mereka baru dikirim pertama kali. BN yang berpikir ada beberapa masalah yang mencegahnya memberikan sebuah ![Star icon](/wiki/shared/Star.gif "Star icon") Bintang. Keadaan ini tidak seharusnya membuatmu khawatir terlalu banyak, karena biasanya beatmap ditandai dengan sebuah bintang ataupun sebuah Gelembung Pemikiran setelah anjuran BN diikuti.
+Semua beatmap yang tidak mempunyai simbol pada mereka ketika mereka baru dikirim pertama kali. BN yang berpikir ada beberapa masalah yang mencegahnya memberikan sebuah ![Star icon](/wiki/shared/icon/star.gif "Star icon") Bintang. Keadaan ini tidak seharusnya membuatmu khawatir terlalu banyak, karena biasanya beatmap ditandai dengan sebuah bintang ataupun sebuah Gelembung Pemikiran setelah anjuran BN diikuti.
 
-#### ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Didiskualifikasi
+#### ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Didiskualifikasi
 
 BN hanyalah seorang manusia. Jika sebuah beatmap telah dikualifikasi dan QAT menemukan sesuatu yang menurut mereka mencegah sebuat beatmap disetujui secara resmi, beatmap dapat didiskualifikasi sementara dan skor yang didapat pada beatmap tersebut *dibersihkan*. Beatmap kembali ke kondisi WIP. Setelah masalah telah diperbaiki, beatmap dapat dikualifikasi lagi.
 
-#### ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuklir
+#### ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuklir
 
 Simbol ini diberikan pada beatmap yang **gagal mengikuti petunjuk yang paling dasar**, seperti memiliki timing yang sangat tidak benar atau objek ditempatkan secara acak dan/atau baris waktu, dan memerlukan banyak peningkatan untuk memulai dirank.
 
