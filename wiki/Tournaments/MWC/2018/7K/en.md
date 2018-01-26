@@ -75,7 +75,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)** |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)** |
 | ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)** |
-| ![][flag_ID] | **Indonesia** | **[projectc1](https://osu.ppy.sh/users/2663343)** |
+| ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
 | ![][flag_JP] | **Japan** | **[sylph_c](https://osu.ppy.sh/users/8022125)** |
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)** |
 | ![][flag_PL] | **Poland** | **[Kamikaze](https://osu.ppy.sh/users/2124783)** |
