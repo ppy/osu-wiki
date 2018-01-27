@@ -98,6 +98,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
 -   **A custom slider border color must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
 -   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **Both slider border and body colors must be manually set or not set.** Setting only one may conflict with a user's custom skin choices.
 
 #### Guidelines
 
