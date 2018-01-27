@@ -156,6 +156,7 @@ If you have lost your account's password and are not receiving any password reco
 Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
 - `att.net`
 - `free.fr`
+- `i.ua`
 - `laposte.net`
 - `sbcglobal.net`
 - `t-online.de`

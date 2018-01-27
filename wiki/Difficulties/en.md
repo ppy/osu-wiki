@@ -44,16 +44,16 @@ The star rating ranges determines which web icon is going to be used on any give
 
 ### osu!catch
 
-- ![Cup icon](/wiki/shared/diff/easy-c.png "Cup icon") [Cup](/wiki/Cup)
-- ![Salad icon](/wiki/shared/diff/normal-c.png "Salad icon") [Salad](/wiki/Salad)
-- ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") [Platter](/wiki/Platter)
-- ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") [Rain](/wiki/Rain)
-- ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") [Overdose](/wiki/Overdose)
+- ![Cup icon](/wiki/shared/diff/easy-c.png "Cup icon") Cup
+- ![Salad icon](/wiki/shared/diff/normal-c.png "Salad icon") Salad
+- ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
+- ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
+- ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
 
 ### osu!mania
 
-- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") [EZ](/wiki/EZ)
-- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") [NM](/wiki/NM)
-- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") [HD](/wiki/HD)
-- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") [MX](/wiki/MX)
-- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") [SC](/wiki/SC)
+- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") EZ
+- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") NM
+- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
+- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
+- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
