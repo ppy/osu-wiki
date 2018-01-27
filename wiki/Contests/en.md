@@ -188,6 +188,18 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 - [Contest thread](https://osu.ppy.sh/forum/t/482629)
 - [Results post](https://osu.ppy.sh/forum/t/504645)
 
+#### Pending Cup \#5 (2017)
+
+| Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | Shimotsuki Haruka - Byakuya Gensoutan        | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Level9](httphttps://osu.ppy.sh/u/7232130)       | [Kibbleru](https://osu.ppy.sh/u/3193504)    |
+| 2         | Nekomata Gekidan - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Garden](https://osu.ppy.sh/u/2849992)              | [Ellyu](https://osu.ppy.sh/u/4438154)         |
+| 3         | Camellia - Chirality             | [Suzuki_1112](https://osu.ppy.sh/u/3170678)         | [Miura](https://osu.ppy.sh/u/4990362)         | [\[ Drop \]](https://osu.ppy.sh/u/2391299)      |
+
+- [Contest thread](https://osu.ppy.sh/forum/t/620182)
+- [Results post](https://osu.ppy.sh/forum/t/640906)
+
+
 ### Newspaper Cup
 
 Newspaper Cup is an annually mapping contest which aims at attract normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
@@ -221,3 +233,13 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 
 - [Contest thread](https://osu.ppy.sh/forum/t/546038)
 - [Results post](https://osu.ppy.sh/forum/t/570350)
+
+#### Newspaper Cup \#4 (2017)
+
+| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
+|-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| 1         | 葉月ゆら - サラマンドラの踊り子             |  TBA           | TBA                 |
+| 2         | P＊Light - SAY BAY           | TBA              | TBA  |
+
+- [Contest thread](https://osu.ppy.sh/forum/t/690824)
+- Results post - TBA
