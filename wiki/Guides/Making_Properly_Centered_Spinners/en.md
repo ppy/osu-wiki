@@ -20,7 +20,7 @@ Make a new document. The template skin is 666x666, and while it's safe to go ove
 
 ### Select your circle
 
-Use the ellipse tool (shortcut is "e") and make a circle on the entire document. Create a new layer and fill it with a color.
+Use the ellipse tool (shortcut is "e") and make a circle on the entire document. Create a new layer and fill it with a colour.
 
 ![Tutorial Image 2](MPCS_02.png "Tutorial Image 2")
 
@@ -30,7 +30,7 @@ Then shrink the selection by going to Select -> Shrink. Fore more accurate circl
 
 ![Tutorial Image 3](MPCS_03.png "Tutorial Image 3")
 
-Here is chosen 15, but you can choose however much you want. Create a new layer and fill the smaller selection with a different color so you can see it.
+Here is chosen 15, but you can choose however much you want. Create a new layer and fill the smaller selection with a different colour so you can see it.
 
 ### The spinner
 
@@ -52,7 +52,7 @@ And copy/paste the selection from the image you want to copy:
 
 ### Set canvas size
 
-Finally, you can add a design in the middle, or recolor the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and center the image so you have a 1 pixel border around the image.
+Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and center the image so you have a 1 pixel border around the image.
 
 ![Tutorial Image 7](MPCS_07.png "Tutorial Image 7")
 
@@ -79,17 +79,17 @@ First, take the background at 1024x768 and crop out the top 46 pixels and bottom
 
 ### Use the channels tab to turn off editing the alpha channel
 
-Technically, you are done, but if you want to make the background "fill in" with a background spinner meter, then you can use the template skin, or make it yourself. Bring in the template spinner-meter. To recolor it, turn off the alpha channel by selecting it, so you don't modify the transparency at all. Then use the bucket fill and fill the entire area with a gray color or whatever color you want (I used black).
+Technically, you are done, but if you want to make the background "fill in" with a background spinner meter, then you can use the template skin, or make it yourself. Bring in the template spinner-meter. To recolour it, turn off the alpha channel by selecting it, so you don't modify the transparency at all. Then use the bucket fill and fill the entire area with a gray colour or whatever colour you want (I used black).
 
 ![Tutorial Image 11](MPCS_11.png "Tutorial Image 11")
 
 ### Copy/Paste into new layer, then save your spinner meter
 
-Once you have the color, select the entire alpha channel again (right click on the alpha channel -> channel to selection) copy and paste the spinner background so you have something to fill in for your spinner meter.
+Once you have the colour, select the entire alpha channel again (right click on the alpha channel -> channel to selection) copy and paste the spinner background so you have something to fill in for your spinner meter.
 
 ![Tutorial Image 12](MPCS_12.png "Tutorial Image 12")
 
-### Turn down the opacity until you get a color your like
+### Turn down the opacity until you get a colour your like
 
 To add some more detail, you can turn down the opacity on the black image.
 

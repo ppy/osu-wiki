@@ -29,7 +29,7 @@ In addition to using the `.png` format, you should:
 
 ### What are overlays?
 
-Overlays will *overlay* an element's image **and will not be colored or tinted**. Note that only a few elements contains an overlay.
+Overlays will *overlay* an element's image **and will not be coloured or tinted**. Note that only a few elements contains an overlay.
 
 ### Resolutions
 

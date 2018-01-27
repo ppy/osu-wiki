@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 Turnamen
 ===========
 

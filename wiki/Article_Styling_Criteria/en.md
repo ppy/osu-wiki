@@ -4,7 +4,7 @@ _See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News).
 
 The article styling criteria (ASC) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
 
-All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
+All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. Agood osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
 ## Repository directory
 
@@ -472,7 +472,7 @@ Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side no
 
 ---
 
-When pluralizing acronyms and/or abbreviations, use an apostrophe followed by the letter `s` (`'s`) (e.g. `BN's`, `QAT's`, `GMT's`). If this writing style appears foreign or weird to you, try rewriting the sentence to avoid doing so in the first place.
+When pluralizing acronyms and/or abbreviations, do not use an apostrophe followed by the letter `s` (`'s`) (e.g. `BNs`, `QATs`, `GMTs`).
 
 ### Serial comma
 
