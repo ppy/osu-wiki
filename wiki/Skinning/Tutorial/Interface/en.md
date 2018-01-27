@@ -576,8 +576,8 @@ _Default skin_
 ![](fs/input-overlay_1.png)
 _[Yugen](https://osu.ppy.sh/forum/t/365036)_
 
-In the [skin.ini](/wiki/Skinning/Skin.ini/en.md), there is an option under the `[Colors]` section called `InputOverlayText`.
-This defines the input overlay's text color.
+In the [skin.ini](/wiki/Skinning/Skin.ini/en.md), there is an option under the `[Colours]` section called `InputOverlayText`.
+This defines the input overlay's text colour.
 For example, setting it to `255,255,255` will make the input overlay's text white (as seen in the "Yugen" example above).
 However, the default is `0,0,0` (black).
 

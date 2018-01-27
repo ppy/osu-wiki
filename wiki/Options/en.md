@@ -268,7 +268,7 @@ This section is about skin related things.
 | `Always use skin cursor`                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                                                          | Checkbox | `Enabled`  |
 | `Cursor Size`                              | Adjust the cursor size.                                                                                                                 | Slider   | `1x`       |
 | `Automatic Cursor Sizing`                  | Automatically adjusts the cursor size based on the circle size of the played beatmap.                                                   | Checkbox | `Disabled` |
-| `Use combo colour as tint for slider ball` | Slider balls will use the current combo color (usually transparent). Requires skin support.                                             | Checkbox | `Enabled`  |
+| `Use combo colour as tint for slider ball` | Slider balls will use the current combo colour (usually transparent). Requires skin support.                                             | Checkbox | `Enabled`  |
 
 ## Input
 
