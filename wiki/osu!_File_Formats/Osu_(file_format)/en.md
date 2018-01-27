@@ -182,7 +182,7 @@ Example of an inherited Timing Point:
 Colours
 -------
 
-Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
+Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB colour.
 
 `Combo1 : 245,245,245`
 
@@ -217,7 +217,7 @@ For osu!mania, only *x* is relevant. See the osu!mania hold note section below.
 - Bit 1 (2): slider.
 - Bit 2 (4): new combo.
 - Bit 3 (8): spinner.
-- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip.
+- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colours to skip.
 - Bit 7 (128) is for an osu!mania hold note.
 
 Circles, sliders, spinners, and hold notes can be OR'd with new combos and the combo skip value, but not with each other.
@@ -228,7 +228,7 @@ Examples:
 
 - `1`: circle.
 - `5 = 1 + 4`: circle starting a new combo.
-- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colors.
+- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colours.
 
 #### Hit sounds
 

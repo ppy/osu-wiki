@@ -1,7 +1,7 @@
 Commands
 ==========
 
-Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
+Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
 A command under an object declaration looks like:
 
@@ -220,21 +220,21 @@ _R,0,47210,47810,0,-25.133
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The virtual light source color on the object. The colors of the pixels on the object are determined subtractively. | A color triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
+| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:
 
--   (start_r),(start_g),(start_b) is the color at starttime
+-   (start_r),(start_g),(start_b) is the colour at starttime
 -   (end_r),(end_g),(end_b) is the scale factor at endtime
 
-For example, to make an object appear as a shadow (entirely black) and fade into its actual color:
+For example, to make an object appear as a shadow (entirely black) and fade into its actual colour:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-To make something appear in (span style="background:#CCCC00")this yellow color(/span):
+To make something appear in (span style="background:#CCCC00")this yellow colour(/span):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -254,7 +254,7 @@ where (parameter) is one of the following:
 
 -   "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
 -   "V" - flip the image vertically. [Vertical Flip]
--   "A" - use additive-color blending instead of alpha-blending
+-   "A" - use additive-colour blending instead of alpha-blending
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
 

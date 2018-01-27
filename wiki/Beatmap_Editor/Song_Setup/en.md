@@ -166,9 +166,9 @@ Colours
 
 ![Colours section](img/SS_Colours.jpg "Colours section")
 
-These sections are used mainly to assign combo colors. Combo colors are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo color opens up your OS's color picker (At picture, uploader used Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background. Up to eight combo colors can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo color (in other word, reverse order 8-7-6-5-4-3-2).
+These sections are used mainly to assign combo colours. Combo colours are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo colour opens up your OS's colour picker (At picture, uploader used Windows OS). Choose colours that compliment the background but the colours must not camouflage into the background. Up to eight combo colours can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo colour (in other word, reverse order 8-7-6-5-4-3-2).
 
-The other part of this window is assigning the playfield background color, but this is usually a moot point because beatmaps can't be ranked without a background image which usually overrides this setting unless you are planning to use a storyboard which the background may be visible.
+The other part of this window is assigning the playfield background colour, but this is usually a moot point because beatmaps can't be ranked without a background image which usually overrides this setting unless you are planning to use a storyboard which the background may be visible.
 
 Storyboarding
 -------------
@@ -188,7 +188,7 @@ You can change the speed and offset of the countdown as well.
 
 **Display storyboard in front of combo fire**: A long long time ago, osu! had a flame appear if you had a combo of 30 or more (it was amazing at the time!) but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out of date. Otherwise this option will do what it says, put the storyboard in front of the combo fire.
 
-**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.*"
+**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colours in the storyboard must use the epilepsy warning.*"
 
 **Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, but is not allowed for mania specific maps! (because breaks aren't allowed in osu!mania, anyways)
 
