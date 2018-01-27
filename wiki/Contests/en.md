@@ -36,7 +36,7 @@ Notes:
 | 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/s/342751)                                  | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/u/200768)            | [Results](https://osu.ppy.sh/news/126037472723) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
 | 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/s/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/news/134459652408) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
 | 12          | [IAHN - Candy Luv](https://osu.ppy.sh/s/456054)                                                        | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/u/2732340)         | [Results](https://osu.ppy.sh/news/144933230753) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
-| 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/s/569888)                                                      | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/u/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | ???         |
+| 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/s/569888)                                                      | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/u/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | N/A         |
 | March 2017  | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/s/639991)                                                   | ![osu!catch][o!c]    | [Ascendance](https://osu.ppy.sh/u/2931883)      | TBA                                             | [Score #14](https://osu.ppy.sh/news/144933230753)      |
 | April 2017  | [cYsmix - Breeze](https://osu.ppy.sh/s/629575)                                                         | ![osu!mania][o!m]    | [Soul Evans](https://osu.ppy.sh/u/4490770)      | TBA                                             | [Score #15](https://osu.ppy.sh/community/contests/46)  |
 
@@ -192,9 +192,9 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 
 | Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | Shimotsuki Haruka - Byakuya Gensoutan        | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Level9](httphttps://osu.ppy.sh/u/7232130)       | [Kibbleru](https://osu.ppy.sh/u/3193504)    |
-| 2         | Nekomata Gekidan - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Garden](https://osu.ppy.sh/u/2849992)              | [Ellyu](https://osu.ppy.sh/u/4438154)         |
-| 3         | Camellia - Chirality             | [Suzuki_1112](https://osu.ppy.sh/u/3170678)         | [Miura](https://osu.ppy.sh/u/4990362)         | [\[ Drop \]](https://osu.ppy.sh/u/2391299)      |
+| 1         | 霜月はるか - 白夜幻想谭        | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Level9](https://osu.ppy.sh/u/7232130)       | [Kibbleru](https://osu.ppy.sh/u/3193504)    |
+| 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/u/3621552)      | [Garden](https://osu.ppy.sh/u/2849992)              | [Ellyu](https://osu.ppy.sh/u/4438154)         |
+| 3         | 猫叉劇団 - Chirality             | [Suzuki_1112](https://osu.ppy.sh/u/3170678)         | [Miura](https://osu.ppy.sh/u/4990362)         | [\[ Drop \]](https://osu.ppy.sh/u/2391299)      |
 
 - [Contest thread](https://osu.ppy.sh/forum/t/620182)
 - [Results post](https://osu.ppy.sh/forum/t/640906)
