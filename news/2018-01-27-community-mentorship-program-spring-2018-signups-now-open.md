@@ -5,11 +5,11 @@ date: 2018-01-26 12:00:00 +0000
 ---
 Have you ever opened up the editor and just looked at everything it offers in confusion? Do you have no idea where to even begin beatmapping? Worry no further, the Community Mentorship Program might be the place for you!
 
-![](/wiki/shared/news/2018-01-26-community-mentorship-program-spring-2018-signups-now-open/banner.png)
+![](/wiki/shared/news/2018-01-27-community-mentorship-program-spring-2018-signups-now-open/banner.png)
 
-If you've ever opened up the editor and tried to make a beatmap you've probably noticed that everything can feel overwhelming. If this feeling rings a bell, the Community Mentorship Program might be the place for you!
+There are so many things to learn about beatmapping and the most difficult part is getting started, especially if you're on your own. 
 
-The program pairs experienced mentors with newer mappers for a 10 week cycle to pass on mapping knowledge and expertise in one on one and small group settings.
+But you don't have to be tackling this on your own! The Community Mentorship Program pairs experienced mentors with newer mappers for a 10 week cycle to pass on mapping knowledge and expertise in one on one and small group settings.
 
 **For the upcoming spring cycle our mentors are looking for mentees for all game modes!**
 
