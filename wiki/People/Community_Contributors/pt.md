@@ -1,6 +1,3 @@
----
-outdated: true
----
 Contribuidores da Comunidade
 =================================
 
