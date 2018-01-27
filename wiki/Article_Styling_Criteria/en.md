@@ -532,4 +532,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use "beatmaps" instead of "maps".
 - Use "creator" instead of "beatmapper" or "mapper".
-- Use "BN" or "BNs" when referring to the the _beatmap nominators_. Do not use "BNG" or "Beatmap Nomination Group".
+When pluralizing acronyms and/or abbreviations, use an apostrophe followed by the letter `s` (`'s`) (e.g. `BN's`, `QAT's`, `GMT's`). If this writing style appears foreign or weird to you, try rewriting the sentence to avoid doing so in the first place.
