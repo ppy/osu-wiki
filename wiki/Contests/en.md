@@ -36,9 +36,9 @@ Notes:
 | 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/s/342751)                                  | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/u/200768)            | [Results](https://osu.ppy.sh/news/126037472723) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
 | 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/s/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/news/134459652408) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
 | 12          | [IAHN - Candy Luv](https://osu.ppy.sh/s/456054)                                                        | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/u/2732340)         | [Results](https://osu.ppy.sh/news/144933230753) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
-| 13          | BilliumMoto - HDHR                                                                                     | ![osu!standard][o!s] | TBA                                             | TBA                                             | TBA                                                    |
-| March 2017  | nanobii - HYPER★DRIVE                                                                                 | ![osu!catch][o!c]    | TBA                                             | TBA                                             | TBA                                                    |
-| April 2017  | cYsmix - Breeze                                                                                        | ![osu!mania][o!m]    | TBA                                             | TBA                                             | TBA                                                    |
+| 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/s/569888)                                                      | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/u/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | ???         |
+| March 2017  | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/s/639991)                                                   | ![osu!catch][o!c]    | [Ascendance](https://osu.ppy.sh/u/2931883)      | TBA                                             | [Score #14](https://osu.ppy.sh/news/144933230753)      |
+| April 2017  | [cYsmix - Breeze](https://osu.ppy.sh/s/629575)                                                         | ![osu!mania][o!m]    | [Soul Evans](https://osu.ppy.sh/u/4490770)      | TBA                                             | [Score #15](https://osu.ppy.sh/community/contests/46)  |
 
 ### Aspire Contest
 
@@ -53,7 +53,8 @@ Notes:
 |:---------------------:|---------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
 | Aspire 2016           | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/s/484689)                              | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/u/2706438)       | [Results](https://osu.ppy.sh/news/147838862138) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22)   |
 | Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/s/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/u/3250792) | [Results](https://osu.ppy.sh/news/159160085153) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
-| Aspire 2017 Stage Two | Function Phantom - Algebra                                                                  | ![osu!taiko][o!t]    | TBA                                             | TBA                                             | TBA                                                    |
+| Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/s/654033)                                   | ![osu!taiko][o!t]    | [Supairo](https://osu.ppy.sh/u/2837231)         |  [Results](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Score #3](https://osu.ppy.sh/community/contests/47) |
+| Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY                                                                  | ![osu!catch][o!c]    | TBA | TBA | TBA |
 
 ## Monthly Fanart Contest
 
@@ -120,6 +121,21 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [News post](https://osu.ppy.sh/news/145357306703)
 - [Results post](https://osu.ppy.sh/news/152901340878)
 - [Offical post](https://osu.ppy.sh/forum/t/448842)
+
+### 2017
+ 
+ | Placing | Results                                                                                   | Original Artist                                           |
+ |---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+ | First   | [Renril](https://osu.ppy.sh/u/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)          | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw)                        |
+ | Second  | [Will Stetson](https://osu.ppy.sh/u/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)              | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc)        |
+ | Third   | [Thievley](https://osu.ppy.sh/u/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE)                           |
+ 
+ 
+ - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
+ - [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
+ - [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
+ - [Offical post](https://osu.ppy.sh/forum/t/617845)
+ 
 
 ## Community Contests
 
