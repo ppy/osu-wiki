@@ -7,14 +7,11 @@
 The following commands has been tested on these Linux distributions:
 
 -   Ubuntu 17.10
+-   Ubuntu 16.04
 
 ## Installing osu!
 
-There are two ways to installing osu! on Linux: via command line or through PlayOnLinux (may report false crashes). Both will use Wine, but their methodology of getting osu! to work on Linux is slightly different.
-
-### Command line
-
-1.  Add the Wine PPA.
+1.  Open the terminal and add the Wine PPA.
 ```
 > wget 'https://dl.winehq.org/wine-builds/Release.key'
 > sudo apt-key add Release.key
@@ -32,12 +29,12 @@ There are two ways to installing osu! on Linux: via command line or through Play
 > WINEARCH=win32 winecfg
 ```
 
-4.  Install .NET 4.5 via winetricks.
+4.  Install .NET 4.5 via winetricks. (This will also install .NET 2.0 and .NET 3.0.)
 ```
 > WINEPREFIX=~/.wine winetricks dotnet45
 ```
 
-5.  If prompt to restart, click `Restart Now` (though, this does nothing). Download `osu!install.exe`.
+5.  If prompted to restart, click `Restart Now` (this does nothing). Download `osu!install.exe`.
 ```
 > wget 'https://m1.ppy.sh/r/osu!install.exe'
 ```
@@ -55,7 +52,7 @@ There are two ways to installing osu! on Linux: via command line or through Play
 8.  Change the directory to that directory and run `osu!install.exe` via Wine.
 ```
 > cd '.wine/drive_c/Program Files/osu!'
-> wine 'osu!install.exe'
+> WINEPREFIX=~/.wine wine 'osu!install.exe'
 ```
 
 9.  Once the installer is completed, the osu! updater will run. The problem here is that osu! will try to download a file called `discord-rpc.dll`. However, Wine will be unable to handle this correctly, thus osu! will be in a catch-22 until this file is present. To resolve this, exit the updater (or press `Ctrl` + `C`) and download the file, then rename it in the osu! directory.
@@ -66,24 +63,10 @@ There are two ways to installing osu! on Linux: via command line or through Play
 
 10. Run and enjoy osu! (You can also double click `osu!.exe` to run it.)
 ```
-> wine 'osu!.exe'
+> WINEPREFIX=~/.wine wine 'osu!.exe'
 ```
+
 <!--
-### PlayOnLinux
-
-1.  Install PlayOnLinux.
-```
-> sudo apt-get install playonlinux
-```
-
-2.  Open PlayOnLinux and click `Tools`, then `Manage Wine Versions`.
-3.  In the `Wine versions (x86)` tab, select `1.8.3` and click the `>` button.
-4.  Continue clicking on `Next` until the installation is completed.
-5.  Go back to the main window and click `Configure`.
-6.  Click `New`, `Next`, `32 bits`, `Next`, `1.8.3`, `Next`.
-7.  Name it, `osu!`, then keep click on `Next` until it is done.
-8.  Select `osu` from the list.
-
 ## Optimizations
 
 There are many optimization issues with running osu! with Wine (most notably, high latency and/or low FPS). Here are some things you can do.
@@ -101,4 +84,5 @@ There are many optimization issues with running osu! with Wine (most notably, hi
 > wine regedit
 ```
 
-### -->
+###
+-->
