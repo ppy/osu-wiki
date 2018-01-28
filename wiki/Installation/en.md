@@ -1,8 +1,9 @@
 # Installation
 
 <!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
+*See also: [Installation/Linux](/wiki/Installation/Linux).*
 
-This page will roughly tell you how to get osu! working in your device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
+This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
@@ -31,7 +32,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 1.  Go to the [beatmap listing page](/beatmapsets) and log into the website.
 2.  Find a song you like to play.
-3.  click on the download icon to save the beatmapset on your computer.
+3.  Click on the download icon to save the beatmapset on your computer.
 4.  Locate and open the beatmapset file, it has an `.osz` extension.
     -   Alternatively, you can also place the beatmapset file into the `Songs` directory of the osu! installation.
 5.  osu! will automatically handle the rest for you and load the beatmapset.
@@ -54,9 +55,9 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 2.  Once you find a skin, download it.
 3.  Depending on how the skinner has packaged their skin, you may need to do different things.
     -   If the skin is using `.osk`:
-        1.  Open it.
+        1.  Open it or drag and drop it into osu!.
         2.  osu! will process the skin and automatically select it for you.
-    -   If the skin is compressed (using `.7z`, `.rar`, or `.zip`):
+    -   If the skin is compressed (using `.7z`, `.rar`, `.zip`, etc.):
         1.  Extract it.
         2.  Move the skin folder into the `Skins` directory of the osu! installation.
         3.  If osu! is opened, you may need to restart it before the skin can be used.
