@@ -32,10 +32,10 @@ Notes:
 | 7.3         | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526)                                             | ![osu!catch][o!c]    | [Deif](https://osu.ppy.sh/users/318565)             | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.3](https://osu.ppy.sh/p/contestresults?c=15) |
 | 7.4         | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526)                                             | ![osu!mania][o!m]    | [ExPew](https://osu.ppy.sh/users/665612)            | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.4](https://osu.ppy.sh/p/contestresults?c=16) |
 | 8           | [raja_ffm - the light](https://osu.ppy.sh/beatmapsets/299224)                                          | ![osu!standard][o!s] | [Damnae](https://osu.ppy.sh/users/989377)           | [Results](https://osu.ppy.sh/news/115885774698) | [Score #8](https://osu.ppy.sh/p/contestresults?c=17)   |
-| 9           | [Furries in a Blender - Storm World](https://osu.ppy.sh/beatmapsets/319473)                            | ![osu!taiko][o!t]    | [Firce777](https://osu.ppy.sh/users/274072)         | [Results](https://osu.ppy.sh/news/122549062138) | [Score #9](https://osu.ppy.sh/p/contestresults?c=18)   |
-| 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751)                        | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/users/200768)            | [Results](https://osu.ppy.sh/news/126037472723) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
-| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/news/134459652408) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
-| 12          | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054)                                              | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340)         | [Results](https://osu.ppy.sh/news/144933230753) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
+| 9           | [Furries in a Blender - Storm World](https://osu.ppy.sh/beatmapsets/319473)                            | ![osu!taiko][o!t]    | [Firce777](https://osu.ppy.sh/users/274072)         | [Results](https://osu.ppy.sh/home/news/2015-06-27-monthly-beatmapping-contest-9-results) | [Score #9](https://osu.ppy.sh/p/contestresults?c=18)   |
+| 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751)                        | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/users/200768)            | [Results](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
+| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
+| 12          | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054)                                              | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340)         | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
 | 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)                                            | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/users/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | N/A         |
 | March 2017  | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/beatmapsets/639991)                                         | ![osu!catch][o!c]    | [Ascendance](https://osu.ppy.sh/users/2931883)      | TBA                                             | [Score #14](https://osu.ppy.sh/community/contests/44)      |
 | April 2017  | [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)                                               | ![osu!mania][o!m]    | [Soul Evans](https://osu.ppy.sh/users/4490770)      | TBA                                             | [Score #15](https://osu.ppy.sh/community/contests/46)  |
@@ -51,8 +51,8 @@ Notes:
 
 | Contest No.           | Beatmap                                                                                     | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
 |:---------------------:|---------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
-| Aspire 2016           | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689)                              | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438)       | [Results](https://osu.ppy.sh/news/147838862138) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22)   |
-| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/news/159160085153) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
+| Aspire 2016           | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689)                              | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438)       | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22)   |
+| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
 | Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033)                                   | ![osu!taiko][o!t]    | [Supairo](https://osu.ppy.sh/users/2837231)         |  [Results](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Score #3](https://osu.ppy.sh/community/contests/47) |
 | Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY                                                                  | ![osu!catch][o!c]    | TBA | TBA | TBA |
 
@@ -104,8 +104,8 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [News post](https://osu.ppy.sh/news/125447383718)
-- [Results post](https://osu.ppy.sh/news/134589253878)
+- [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
+- [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
 - [Offical post](https://osu.ppy.sh/forum/t/352608)
 
 ### 2016
@@ -118,8 +118,8 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [News post](https://osu.ppy.sh/news/145357306703)
-- [Results post](https://osu.ppy.sh/news/152901340878)
+- [News post](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
+- [Results post](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
 - [Offical post](https://osu.ppy.sh/forum/t/448842)
 
 ### 2017
