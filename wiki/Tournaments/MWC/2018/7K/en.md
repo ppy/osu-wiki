@@ -38,7 +38,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ------------ | -------------- |
 | Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map Selectors | [![][flag_ES] aitor98](https://osu.ppy.sh/users/3154852), [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_BR] spoonguy](https://osu.ppy.sh/users/932381) |
-| Commentators | [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_US] Nivrad00](https://osu.ppy.sh/users/1984634), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184),  [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] stupud man](https://osu.ppy.sh/users/2141612), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Commentators | [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992) [![][flag_US] Nivrad00](https://osu.ppy.sh/users/1984634), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184),  [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] stupud man](https://osu.ppy.sh/users/2141612), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -55,8 +55,11 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Somnium-](https://osu.ppy.sh/users/2037798), [\_\_Yu](https://osu.ppy.sh/users/6253228) |
+| ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)**, [Niisound](https://osu.ppy.sh/users/970979), [Ansymer](https://osu.ppy.sh/users/981144), [Ven](https://osu.ppy.sh/users/3209453) |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903) |
+| ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)**, [Dualshock](https://osu.ppy.sh/users/1902591), [stankill](https://osu.ppy.sh/users/2583455), [playin14](https://osu.ppy.sh/users/2144038) |
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/users/3461860)**, [HappyOverjoy](https://osu.ppy.sh/users/3244389), [Radius](https://osu.ppy.sh/users/5419711) |
+| ![][flag_JP] | **Japan** | **[auzen](https://osu.ppy.sh/users/235080)**, [quicalid4](https://osu.ppy.sh/users/6172698), [haraharaman](https://osu.ppy.sh/users/7803518), [Next_style](https://osu.ppy.sh/users/11446537) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [LuciDestiny](https://osu.ppy.sh/users/8041703) |
 | ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [NamesAreRubbish](https://osu.ppy.sh/users/5213962), [masaya](https://osu.ppy.sh/users/5818319), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585) |
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [cieloday05](https://osu.ppy.sh/users/2722489) |
@@ -64,7 +67,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_SG] | **Singapore** | **[Paralit](https://osu.ppy.sh/users/876528)**, [ByeForNow](https://osu.ppy.sh/users/7199159), [RealmRipper](https://osu.ppy.sh/users/7349397), [Rommmy](https://osu.ppy.sh/users/9262190) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Pope Gadget](https://osu.ppy.sh/users/2288341), [Traps are Cute](https://osu.ppy.sh/users/3359035), [Civilization](https://osu.ppy.sh/users/6814203) |
-
+| ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
 
 **List of pending rosters**
 
@@ -72,17 +75,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ---: | :---: | :--- |
 | ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
 | ![][flag_BR] | **Brazil** | **[Lazarento](https://osu.ppy.sh/users/3224958)** |
-| ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)** |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)** |
-| ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)** |
 | ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
-| ![][flag_JP] | **Japan** | **[sylph_c](https://osu.ppy.sh/users/8022125)** |
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)** |
 | ![][flag_PL] | **Poland** | **[Kamikaze](https://osu.ppy.sh/users/2124783)** |
 | ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)** |
 | ![][flag_SE] | **Sweden** | **[RilipWorldWider](https://osu.ppy.sh/users/3395312)** |
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)** |
-| ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)** |
 
 *Remember this is not the full list yet, there are still more teams to come!*
 
