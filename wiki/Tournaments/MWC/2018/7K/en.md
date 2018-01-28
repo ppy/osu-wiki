@@ -76,6 +76,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
 | ![][flag_BR] | **Brazil** | **[Lazarento](https://osu.ppy.sh/users/3224958)** |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)** |
+| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)** |
 | ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)** |
 | ![][flag_PL] | **Poland** | **[Kamikaze](https://osu.ppy.sh/users/2124783)** |
@@ -83,7 +84,6 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_SE] | **Sweden** | **[RilipWorldWider](https://osu.ppy.sh/users/3395312)** |
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)** |
 
-*Remember this is not the full list yet, there are still more teams to come!*
 
 
 ------------------------------------------------------------------------
