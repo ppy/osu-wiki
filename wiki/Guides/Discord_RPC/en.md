@@ -1,4 +1,4 @@
-# Discord
+# Discord RPC
 
 Since 2017-10-31, Discord RPC has now made its way to stable!
 
