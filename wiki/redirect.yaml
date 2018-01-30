@@ -436,6 +436,8 @@
 "cropping_with_simple_backgrounds":                           "Guides/Cropping_with_Simple_Backgrounds"
 "custom_hit_sound_library":                                   "Guides/Custom_Hit_Sound_Library"
 "custom_sample_overrides":                                    "Guides/Custom_Sample_Overrides"
+"discord_rpc": "Guides/Discord_RPC"
+"discord":     "Guides/Discord_RPC"
 "getting_songs_from_video_games":                             "Guides/Getting_Songs_From_Video_Games"
 "getting_your_map_modded":                                    "Guides/Getting_Your_Map_Modded"
 "getting_my_map_modded":                                      "Guides/Getting_Your_Map_Modded"
