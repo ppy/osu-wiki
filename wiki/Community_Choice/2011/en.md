@@ -1,6 +1,6 @@
 # 2011
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Main page: [Community Choice](/wiki/Community_Choice "Community Choice")_
 
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2011)
