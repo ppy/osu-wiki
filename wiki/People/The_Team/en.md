@@ -22,7 +22,7 @@ Active
 | [smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
 | [Shiro](https://osu.ppy.sh/u/113005) | Player support |
 | [Tom94](https://osu.ppy.sh/u/1857058) | pp development |
-| [yelle](https://osu.ppy.sh/u/4916903) | [osu!store](/wiki/osu!store) management |
+| [yelle](https://osu.ppy.sh/u/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | [Zallius](https://osu.ppy.sh/u/55) | Endangered species |
 
 Inactive
