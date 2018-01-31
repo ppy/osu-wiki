@@ -15,11 +15,11 @@ Active
 
 | Name | Description |
 | ---- | ----------- |
-| [![][flag_NO] cYsmix](https://osu.ppy.sh/u/272870) | Audio design & official osu! Featured Artist |
+| [![][flag_NO] cYsmix](https://osu.ppy.sh/u/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | [![][flag_AU] Ephemeral](https://osu.ppy.sh/u/102335) | Media, Featured Artist outreach, Meganekko secretary |
 | [![][flag_JP] flyte](https://osu.ppy.sh/u/3103765) | Lead designer, [osu!next](https://next.ppy.sh/) |
 | [![][flag_JP] nanaya](https://osu.ppy.sh/u/2387883) | osu!web developer |
-| [![][flag_AU] nekodex](https://osu.ppy.sh/u/102) | osu!web developer & official osu! Featured Artist |
+| [![][flag_AU] nekodex](https://osu.ppy.sh/u/102) | osu!web developer |
 | [![][flag_US] RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
 | [![][flag_FR] Shiro](https://osu.ppy.sh/u/113005) | Player support |
