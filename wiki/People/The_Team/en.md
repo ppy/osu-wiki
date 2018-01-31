@@ -63,6 +63,7 @@ User Groups
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
