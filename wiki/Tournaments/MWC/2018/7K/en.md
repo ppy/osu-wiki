@@ -60,7 +60,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)**, [Niisound](https://osu.ppy.sh/users/970979), [Ansymer](https://osu.ppy.sh/users/981144), [Ven](https://osu.ppy.sh/users/3209453) |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903) |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)**, [Wilben_Chan](https://osu.ppy.sh/users/6659363), [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [qx0407](https://osu.ppy.sh/users/10569738) |
-| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [CharlisMadCut](https://osu.ppy.sh/users/2863607), [Ssauw](https://osu.ppy.sh/users/7484046), [Skorer](https://osu.ppy.sh/users/7861278) |
+| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Ssauw](https://osu.ppy.sh/users/7484046), [Skorer](https://osu.ppy.sh/users/7861278) |
 | ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)**, [Dualshock](https://osu.ppy.sh/users/1902591), [stankill](https://osu.ppy.sh/users/2583455), [playin14](https://osu.ppy.sh/users/2144038) |
 | ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)**, [projectc1](https://osu.ppy.sh/users/2663343), [lino-sama](https://osu.ppy.sh/users/10364342), [rizalpramana](https://osu.ppy.sh/users/9545578) |
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/users/3461860)**, [HappyOverjoy](https://osu.ppy.sh/users/3244389), [Radius](https://osu.ppy.sh/users/5419711) |
