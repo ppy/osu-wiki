@@ -119,7 +119,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [machol30](https://osu.ppy.sh/u/5772) | BAT |
 | [Maeglwn](https://osu.ppy.sh/u/2440936) | GMT |
 | [Mafiamaster](https://osu.ppy.sh/u/17695) | BAT |
-| [Makar](https://osu.ppy.sh/u/686389) | GMT |  
+| [Makar](https://osu.ppy.sh/u/686389) | GMT |
 | [mattyu007](https://osu.ppy.sh/u/4934) | BAT |
 | [MaxwellDemon](https://osu.ppy.sh/u/4254) | BAT |
 | [Melophobia](https://osu.ppy.sh/u/1077845) | BAT |
