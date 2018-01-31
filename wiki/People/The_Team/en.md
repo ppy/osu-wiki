@@ -13,15 +13,16 @@ Active
 
 | Name | Description |
 | ---- | ----------- |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | Player support, Meganekko secretary |
+| [cYsmix](https://osu.ppy.sh/u/272870) | Audio design & official osu! Featured Artist |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | Media, Featured Artist outreach, Meganekko secretary |
 | [flyte](https://osu.ppy.sh/u/3103765), [osu!next](https://next.ppy.sh/) | Lead designer |
-| [Loctav](https://osu.ppy.sh/u/71366) | Official tournament organization, Staff and community management |
-| [nanaya](https://osu.ppy.sh/u/2387883) | Web implementation |
+| [nanaya](https://osu.ppy.sh/u/2387883) | osu!web developer |
+| [nekodex](https://osu.ppy.sh/u/104) | osu!web developer & official osu! Featured Artist |
 | [RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | [smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
+| [Shiro](https://osu.ppy.sh/u/113005) | Player support |
 | [Tom94](https://osu.ppy.sh/u/1857058) | pp development |
 | [yelle](https://osu.ppy.sh/u/4916903) | [osu!store](/wiki/osu!store) management |
-| [ztrot](https://osu.ppy.sh/u/6347) | [osu!academy](/wiki/Announcements/osu!academy) professor, Media/character design |
 | [Zallius](https://osu.ppy.sh/u/55) | Endangered species |
 
 Inactive
@@ -34,6 +35,7 @@ Inactive
 | [Echo](https://osu.ppy.sh/u/431) ([blog](http://blog.echo.sh/)) | osu! dev team, IRC integration of in-game chat, Site maintenance |
 | [Intermezzo](https://osu.ppy.sh/u/136842) | osu! dev team, osz2/p2p backend |
 | Jim ([Brand New Games](http://www.bravegamer.com/)) |  Original site design |
+| [Loctav](https://osu.ppy.sh/u/71366) | World Cup organization and administration, QAT leadership and community management |
 | [LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epic skin design, Contributions to default skin and iconset |
 | [mm201](https://osu.ppy.sh/u/30655) | osu! dev team, mm sliders |
 | [nuudles](https://osu.ppy.sh/u/21312) | osu! iPhone dev |
@@ -41,6 +43,7 @@ Inactive
 | [Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Original Pippi concept and artwork design |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Meeting minutes, Large FAQ contributions |
 | [woc2006](https://osu.ppy.sh/u/1105845) | osu! dev team, osu!mania mode dev |
+| [ztrot](https://osu.ppy.sh/u/6347) | [osu!academy](/wiki/Announcements/osu!academy) professor, Media/character design |
 
 User Groups
 ----------------------
