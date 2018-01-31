@@ -21,8 +21,8 @@ Active
 | [![][flag_JP] nanaya](https://osu.ppy.sh/u/2387883) | osu!web developer |
 | [![][flag_AU] nekodex](https://osu.ppy.sh/u/102) | osu!web developer |
 | [![][flag_US] RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
-| [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
 | [![][flag_FR] Shiro](https://osu.ppy.sh/u/113005) | Player support |
+| [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
 | [![][flag_DE] Tom94](https://osu.ppy.sh/u/1857058) | pp development |
 | [![][flag_JP] yelle](https://osu.ppy.sh/u/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | [![][flag_AU] Zallius](https://osu.ppy.sh/u/55) | Endangered species |
