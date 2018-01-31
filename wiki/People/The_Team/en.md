@@ -15,7 +15,7 @@ Active
 | ---- | ----------- |
 | [cYsmix](https://osu.ppy.sh/u/272870) | Audio design & official osu! Featured Artist |
 | [Ephemeral](https://osu.ppy.sh/u/102335) | Media, Featured Artist outreach, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/u/3103765), [osu!next](https://next.ppy.sh/) | Lead designer |
+| [flyte](https://osu.ppy.sh/u/3103765) | Lead designer |
 | [nanaya](https://osu.ppy.sh/u/2387883) | osu!web developer |
 | [nekodex](https://osu.ppy.sh/u/104) | osu!web developer & official osu! Featured Artist |
 | [RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
