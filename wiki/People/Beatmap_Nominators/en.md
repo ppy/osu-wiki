@@ -51,7 +51,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 Team Members
 ------------
 
-_Please note: All BN speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
+_Please note: All BN speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/groups/28).
 
 Also note: the game modes columns listed below indicates the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
 
