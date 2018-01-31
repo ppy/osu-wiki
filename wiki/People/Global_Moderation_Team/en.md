@@ -56,6 +56,7 @@ Team Members
 | [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
 | [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Chat Moderation |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
+| [spboxer3](https://osu.ppy.sh/u/197974) | Chinese | Chat Moderation |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat Moderation |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |

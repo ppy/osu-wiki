@@ -33,7 +33,6 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [chan](https://osu.ppy.sh/u/94) | BAT |
 | [Charles445](https://osu.ppy.sh/u/85000) | GMT |
 | [CheeseWarlock](https://osu.ppy.sh/u/9072) | BAT |
-| [Chewin](https://osu.ppy.sh/u/617323) | BAT |
 | [Colin Hou](https://osu.ppy.sh/u/196614) | BAT |
 | [CXu](https://osu.ppy.sh/u/84841) | BAT |
 | [Cyclohexane](https://osu.ppy.sh/u/116078) | GMT |
@@ -46,11 +45,9 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [DawnII](https://osu.ppy.sh/u/8399) | BAT |
 | [deepsea](https://osu.ppy.sh/u/7824) | BAT |
 | [Derekku](https://osu.ppy.sh/u/91341) | Administration |
-| [Desperate-kun](https://osu.ppy.sh/u/2202645) | QAT |
 | [DiamondCrash](https://osu.ppy.sh/u/123790) | BAT |
 | [DJPop](https://osu.ppy.sh/u/2363) | BAT |
 | [dkun](https://osu.ppy.sh/u/154400) | BAT |
-| [Doddler](https://osu.ppy.sh/u/54) | BAT |
 | [Doomsday](https://osu.ppy.sh/u/18983) | BAT |
 | [Drafura](https://osu.ppy.sh/u/326099) | BAT |
 | [Dragvon](https://osu.ppy.sh/u/126927) | Chat Moderator |
@@ -64,14 +61,13 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Extor](https://osu.ppy.sh/u/555) | BAT |
 | [eyup](https://osu.ppy.sh/u/88) | BAT |
 | [Faust](https://osu.ppy.sh/u/65152) | BAT |
+| [Feerum](https://osu.ppy.sh/u/4815717) | QAT |
 | [foulcoon](https://osu.ppy.sh/u/19883) | BAT |
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
 | [Frostmourne](https://osu.ppy.sh/u/199669) | GMT |
-| [Fycho](https://osu.ppy.sh/u/1876867) | QAT |
 | [Gamu](https://osu.ppy.sh/u/611174) | QAT |
 | [Garven](https://osu.ppy.sh/u/244216) | QAT |
 | [Gemi](https://osu.ppy.sh/u/7365) | BAT |
-| [General Pepper](https://osu.ppy.sh/u/3669) | BAT |
 | [Gens](https://osu.ppy.sh/u/23062) | BAT |
 | [Gonzvlo](https://osu.ppy.sh/u/237733) | BAT |
 | [Guy](https://osu.ppy.sh/u/91738) | QAT |
@@ -87,7 +83,6 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [James](https://osu.ppy.sh/u/5728) | BAT |
 | [James2250](https://osu.ppy.sh/u/16978) | GMT |
 | [jericho2442](https://osu.ppy.sh/u/88904) | BAT |
-| [jonathanlfj](https://osu.ppy.sh/u/270377) | BAT |
 | [Kai](https://osu.ppy.sh/u/4537) | BAT |
 | [kanpakyin](https://osu.ppy.sh/u/394326) | QAT |
 | [Kawayi Rika](https://osu.ppy.sh/u/596298) | BAT |
@@ -131,7 +126,6 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [mrtn](https://osu.ppy.sh/u/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/u/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/u/930165) | Chat Moderator |
-| [n0ah](https://osu.ppy.sh/u/3086393) | GMT |
 | [narakucrimson](https://osu.ppy.sh/u/287468) | BAT |
 | [NatsumeRin](https://osu.ppy.sh/u/151679) | BAT |
 | [nekodex](https://osu.ppy.sh/u/102) | BAT |
@@ -166,7 +160,6 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Sinistro](https://osu.ppy.sh/u/5530) | GMT |
 | [Shockwave](https://osu.ppy.sh/u/251631) | GMT |
 | [Skyripper](https://osu.ppy.sh/u/31803) | GMT |
-| [spboxer3](https://osu.ppy.sh/u/197974) | GMT |
 | [Spectator](https://osu.ppy.sh/u/702598) | GMT |
 | [Starrodkirby86](https://osu.ppy.sh/u/410) | BAT |
 | [Starry-](https://osu.ppy.sh/u/2166199) | QAT |
