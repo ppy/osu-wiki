@@ -472,7 +472,7 @@ Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side no
 
 ---
 
-When pluralizing acronyms and/or abbreviations, do not use an apostrophe followed by the letter `s` (`'s`) (e.g. `BNs`, `QATs`, `GMTs`).
+Do not pluralize abbreviations or  acronyms. (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`)
 
 ### Serial comma
 
