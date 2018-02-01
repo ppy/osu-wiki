@@ -6,18 +6,6 @@ Since September of 2017, the "QAT Gazette" series has been posted as [osu!news](
 
 If you have an idea for a topic to be discussed in the blog, feel free to contact any member of the QAT!
 
-## Current contributors
-
-- ![][flag_US] [Blocko](https://osu.ppy.sh/u/4075092)
-- ![][flag_US] [Cryptic](https://osu.ppy.sh/u/3728904)
-- ![][flag_DE] [Feerum](https://osu.ppy.sh/u/4815717)
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/u/4879508)
-- ![][flag_HU] [Kurokami](https://osu.ppy.sh/u/260933)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/u/2204515)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/u/876419)
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/u/1623405)
-- ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)
-
 ## Post Compendium
 
 ### 2016
@@ -77,9 +65,3 @@ December
 ## See also
 
 Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/u/4815717)
-
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_US]: /wiki/shared/flag/US.gif
