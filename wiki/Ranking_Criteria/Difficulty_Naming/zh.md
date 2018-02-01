@@ -1,16 +1,16 @@
-# Difficulty Naming
-	
-The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme. 
+# 难度命名
 
-## Default	
+难度命名的目的是告诉玩家一张谱面的难易程度。这篇文章列出了经常出现的难度名及其替代名称。这些难度名是描述性的，它们清晰地表示了难度层次，你可以使用任何一种难度命名方式。
 
-This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
+## 默认
 
-- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/drain_time), and thus can form a mapset on its own.
+以下列举出每个游戏模式默认的**各种**难度名，它们被广泛地使用：
+
+- **Marathon**: [Drain time](/wiki/drain_time) 超过5分钟的谱面，可以称之为马拉松图。
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
- 
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
@@ -26,7 +26,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
-- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup 
+- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup
 - ![Salad](/wiki/shared/diff/normal-c.png "Salad") Salad
 - ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
 - ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
@@ -34,15 +34,15 @@ This subsection shows the default **scaling** difficulty names for each game mod
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
-- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ 
+- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ
 - ![NM](/wiki/shared/diff/normal-m.png "NM") NM
 - ![HD](/wiki/shared/diff/hard-m.png "HD") HD
 - ![MX](/wiki/shared/diff/insane-m.png "MX") MX
 - ![SC](/wiki/shared/diff/expert-m.png "SC") SC
 
-## Songs from other rhythm games
+## 来自其他音乐游戏的歌曲
 
-This subsection shows the **scaling** difficulty names for mapsets of songs that come from other rhythm games. Using said rhythm game's style of difficulty naming is acceptable.
+以下是来自其他音乐游戏的谱面所使用的**各种**难度名。可以使用这些音乐游戏的难度命名方式。
 
 ### Beatmania IIDX (or BMS songs)
 
@@ -56,7 +56,7 @@ This subsection shows the **scaling** difficulty names for mapsets of songs that
 
 Abbreviations on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
 
-- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC 
+- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC
 - ![NOVICE](/wiki/shared/diff/normal-s.png "NOVICE") NOVICE
 - ![ADVANCED](/wiki/shared/diff/hard-s.png "ADVANCED") ADVANCED
 - ![EXHAUST](/wiki/shared/diff/insane-s.png "EXHAUST") EXHAUST
@@ -64,10 +64,10 @@ Abbreviations on this particular difficulty naming scheme are acceptable (e.g. N
 
 ### Pop 'n Music
 
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
-- ![EX](/wiki/shared/diff/insane-s.png "EX") EX 
+- ![EX](/wiki/shared/diff/insane-s.png "EX") EX
 
 ### DanceDanceRevolution (DDR)
 
@@ -85,32 +85,32 @@ Abbreviations on this particular difficulty naming scheme are acceptable (e.g. N
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
 
-## Songs from other games
+## 来自其他游戏的歌曲
 
 ### Touhou Project (東方Project)
 
-Difficulty spread inspired by Touhou Project (東方Project in Japanese), including any individual game from the project.
+难度命名方式来源于 Touhou Project （日文：東方Project）。
 
-The difficulty spread would follow the Default difficulty naming scheme, with the exception of the Insane and Expert difficulties, which can be substituted by the following:
+难度命名方式遵循默认难度命名体系，但是 Insane 和 Expert 难度可以使用以下难度名替代：
 
-- ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Insane can be substituted by **Lunatic**.
-- ![Extra](/wiki/shared/diff/expert-s.png "Extra") Expert can be substituted by **Extra** / **Extra Stage** / **Phantasm**.
+- ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Insane 可以替换为 **Lunatic**.
+- ![Extra](/wiki/shared/diff/expert-s.png "Extra") Expert 可以替换为 **Extra** / **Extra Stage** / **Phantasm**.
 
-## Widely accepted alternatives 
+## 其他广泛使用的命名方式
 
-The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
+可以使用以下**单独的**难度名来替代原有的难度名。
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu! 
+### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
-- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
-- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: it can be used to represent a more difficult Expert.
+- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: 在默认的 Easy-Normal-Hard-Insane-Expert 命名方式中，Beginner 指最简单的难度，比 Easy 还要简单。
+- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: 在默认的 Easy-Normal-Hard-Insane-Expert 命名方式中, 这个难度处在 Normal 和 Hard 之间。
+- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: 在默认的 Easy-Normal-Hard-Insane-Expert 命名方式中, 这个难度处在 Hard 和 Insane 之间。
+- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: 表示比 Expert 更难的难度。
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
-- ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: it can be used to represent a more difficult Inner Oni / Ura Oni.
+- ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: 表示比 Inner Oni / Ura Oni 更难的难度。
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
-- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: it can be used to represent a more difficult Overdose.
+- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: 表示比 Overdose 更难的难度。
