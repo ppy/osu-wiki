@@ -22,7 +22,6 @@ Team Members
 | ---- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat Moderation |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
 | [Clobohne](https://osu.ppy.sh/u/499343) | German | Chat Moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
@@ -48,7 +47,6 @@ Team Members
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | Mappers Guild |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technical support |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
 | [ruexia](https://osu.ppy.sh/u/385069) | Korean | Chat Moderation |
 | [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Chat Moderation |
@@ -58,9 +56,10 @@ Team Members
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
 | [spboxer3](https://osu.ppy.sh/u/197974) | Chinese | Chat Moderation |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat Moderation |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
+| [Stymlice](https://osu.ppy.sh/u/5122436) | Russian | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Chat Moderation |
+| [ToGlette](https://osu.ppy.sh/u/1076236) | Korean, Japanese | Chat Moderation |
+| [Tommay](https://osu.ppy.sh/u/3132818) | French | Chat Moderation |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
 | [Uni](https://osu.ppy.sh/u/617106) | Dutch | Chat Moderation |

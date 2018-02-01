@@ -18,6 +18,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Andrea](https://osu.ppy.sh/u/33599) | GMT |
 | [Armin](https://osu.ppy.sh/u/105902)	| BAT |
 | [Asphyxia](https://osu.ppy.sh/u/1715720) | QAT |
+| [Atrue](https://osu.ppy.sh/u/1758523) | GMT |
 | [awp](https://osu.ppy.sh/u/2650) | GMT |
 | [Azure_Kite](https://osu.ppy.sh/u/66296) | MAT |
 | [Bakari](https://osu.ppy.sh/u/597957) | GMT |
@@ -140,6 +141,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210) | GMT |
 | [Pasonia](https://osu.ppy.sh/u/43345) | BAT |
 | [Pereira006](https://osu.ppy.sh/u/537344) | GMT |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | GMT |
 | [Pokie](https://osu.ppy.sh/u/207340) | BAT |
 | [popner](https://osu.ppy.sh/u/759860) | BAT |
 | [Princess](https://osu.ppy.sh/u/3480) | BAT |
@@ -167,6 +169,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Strawberry](https://osu.ppy.sh/u/519978) | BAT |
 | [Sushi](https://osu.ppy.sh/u/43108) | BAT |
 | [Suzully](https://osu.ppy.sh/u/431791) | BAT |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | GMT |
 | [Sync](https://osu.ppy.sh/u/806921) | BAT |
 | [Takuma](https://osu.ppy.sh/u/43677) | GMT |
 | [Tapdancingmetroid](https://osu.ppy.sh/u/1733) | BAT |
