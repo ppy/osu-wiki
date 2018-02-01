@@ -114,7 +114,7 @@ The only exception to this are sounds. They can be used from other skins, even w
 
 You can make skin mashups (a skin with elements from other skins), but keep them to yourself. You are not allowed to post skin mashups, mixed skins, edits, etc. on the forums.
 
-If you want to share it, you can put it in your user signature or userpage (this requires [osu!supporter](/wiki/osu!supporter)).
+If you want to share them, put them in your user signature or userpage (this requires [osu!supporter](/wiki/osu!supporter)).
 
 ### How do I animate an element?
 
