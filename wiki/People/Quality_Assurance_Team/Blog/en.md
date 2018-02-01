@@ -1,4 +1,4 @@
-# Quality Assurance Team Blog
+# Blog
 
 The **[Quality Assurance Team Blog](http://osuqat.tumblr.com)**, commonly referred to as the QAT Blog, is a semi-regular blog written by members of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team). Since August of 2016, they have been discussing not only the activities of the QAT, but a variety of other topics spanning osu! gameplay, mapping, modding and the game/community as a whole.
 
@@ -60,9 +60,9 @@ June
 - Controversial Mania Mapping
 - Modding and why long mods are not automatically better
 
-## External Links
+## See also
 
-Original "QAT Blog | Blog Post Compendium" forum post: <https://osu.ppy.sh/community/forums/topics/578437>
+Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/u/4815717)
 
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
