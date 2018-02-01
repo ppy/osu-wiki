@@ -6,6 +6,6 @@ You can find documentation of the API at [osu-api's Wiki](https://github.com/ppy
 
 Note that the documentation on the osu!api wiki may not be entirely complete or extensive, and the API itself is not under active development. A new, much more robust API is in the works at [osu-web](https://github.com/ppy/osu-web).
 
-## External Links
+## See also
 
-- Original "osu!api open beta" forum post: <https://osu.ppy.sh/community/forums/topics/141240>
+- Original forum post: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/u/2)
