@@ -1,12 +1,12 @@
 ---
 layout: post 
 title: "Mapping With Rewards #2 - Bounties Complete!"
-date: 2017-12-02 23:00:00 +0000
+date: 2018-02-02 04:00:00 +0000
 --- 
 
 Long overdue, but not forgotten. The second set of mapping bounties have finally been awarded and the game client has three new bundled maps!
 
-![](/wiki/shared/news/2017-12-02-mapping-with-rewards-2-bounties-complete/mwr-banner.jpg)
+![](/wiki/shared/news/2018-02-02-mapping-with-rewards-2-bounties-complete/mwr-banner.jpg)
 
 Never thought you'd see this day, huh? Over two years ago, "Mapping With Rewards" was introduced to the public as a way to reward users who created maps for osu!'s officially licensed music -- namely tracks by [cYsmix](https://osu.ppy.sh/beatmaps/artists/2). 
 
@@ -18,7 +18,7 @@ Two rounds of mapping bounties were held: one in [September 2015](https://blog.p
 
 - Fright March: [Gero's rendition](https://osu.ppy.sh/s/486142)
 
-- Moonlight Sonata: [Okorin's rendition](https://osu.ppy.sh/s/486535)
+- Moonlight Sonata: [Okoratu's rendition](https://osu.ppy.sh/s/486535)
 
 - Classic Pursuit: [-kevincela-'s rendition](https://osu.ppy.sh/s/488238)
 
