@@ -8,4 +8,4 @@ Note that the documentation on the osu!api wiki may not be entirely complete or 
 
 ## See also
 
-- Original forum post: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/u/2)
+- Original forum post: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
