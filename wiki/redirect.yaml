@@ -812,6 +812,8 @@
 
 "academy":                     "osu!academy"
 
+"api":                         "osu!api"
+
 "external_ports/osu!stream": "osu!stream"
 "game_modes/external_ports/osu!stream": "osu!stream"
 
