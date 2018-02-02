@@ -19,7 +19,7 @@ O Global Moderation Team é responsável pela moderação do chat/fórum e cuida
 Membros da Equipe
 -----------------
 
-*Note que: Todos os membros do GMT falam inglês, a não ser que seja indicado abaixo.* - [Página da Equipe](http://osu.ppy.sh/g/4)
+*Note que: Todos os membros do GMT falam inglês, a não ser que seja indicado abaixo.* - [Página da Equipe](https://osu.ppy.sh/groups/4)
 
 | Nomes | Linguagens adicionais faladas | Area of focus |
 | ----- | ----------------------------- | ------------- |

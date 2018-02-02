@@ -19,7 +19,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 チームメンバー
 --------------
 
-*Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](http://osu.ppy.sh/g/4)
+*Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Name | Additional Languages Spoken | Area of focus |
 | ---- | --------------------------- | ------------- |

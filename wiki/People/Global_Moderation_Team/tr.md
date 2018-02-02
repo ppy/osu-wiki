@@ -19,7 +19,7 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 Takım Üyeleri
 ------------
 
-*Lütfen unutmayın: Bütün GMT üyeleri aksi belirtilmediği sürece İngilizcenin üstüne aşağıdaki dilleri konuşur.* - [Takım Sayfas](https://osu.ppy.sh/g/4)
+*Lütfen unutmayın: Bütün GMT üyeleri aksi belirtilmediği sürece İngilizcenin üstüne aşağıdaki dilleri konuşur.* - [Takım Sayfas](https://osu.ppy.sh/groups/4)
 
 | İsim | Diller | Odaklandığı Alan |
 | ----- | --------- | ------------- |

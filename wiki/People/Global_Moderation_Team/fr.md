@@ -20,7 +20,7 @@ Liste des GM
 ------------
 
 *Veuillez noter que tous les GM peuvent également parler anglais en plus des langues listées ci-dessous.*
-[Page du groupe](http://osu.ppy.sh/g/4)
+[Page du groupe](https://osu.ppy.sh/groups/4)
 
 | Nom | Langues | Domaine d'intervention |
 | --- | ------- | ---------------------- |

@@ -16,7 +16,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 
 ### Teammitglieder
 
-*Hinweis: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.* - [Team-Seite](http://osu.ppy.sh/g/4)
+*Hinweis: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.* - [Team-Seite](https://osu.ppy.sh/groups/4)
 
 | Name | Sprachen | Area of focus |
 | ---- | -------- | ------------- |

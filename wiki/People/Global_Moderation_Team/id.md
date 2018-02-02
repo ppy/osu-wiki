@@ -19,7 +19,7 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 Anggota Tim
 -----------
 
-*Harap dicatat: Semua GMT berbahasa Inggris kecuali disebutkan sebaliknya.* - [Halaman tim](http://osu.ppy.sh/g/4)
+*Harap dicatat: Semua GMT berbahasa Inggris kecuali disebutkan sebaliknya.* - [Halaman tim](https://osu.ppy.sh/groups/4)
 
 | Nama | Bahasa | Fokus |
 | ---- | ------ | ----- |

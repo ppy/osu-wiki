@@ -2,7 +2,7 @@ osu! Alumni
 ===========
 
 **osu! Alumni** oyuna yaptıkları katkılar tarafından bilinen oyunculardır. Eğer elimizde kaynak olsaydı her bir üyenin heykelini şehir meydanına dikerdik.
-[Kullanıcı grubu sayfası linki](https://osu.ppy.sh/g/16)
+[Kullanıcı grubu sayfası linki](https://osu.ppy.sh/groups/16)
 
 | İsim  | Son Görevi |
 | ----- | ------- |

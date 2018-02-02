@@ -6,7 +6,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 Liste des osu! Alumnis actuels
 ---------------------------------
 
-[Lien du groupe](http://osu.ppy.sh/g/16)
+[Lien du groupe](https://osu.ppy.sh/groups/16)
 
 | Nom | Ancienne position |
 | ----- | ------- |

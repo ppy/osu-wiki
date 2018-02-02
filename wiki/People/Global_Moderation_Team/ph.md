@@ -19,7 +19,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 Team Members
 ------------
 
-*Nota: Lahat ng BAT ay nagsasalita ng Ingles maliban nalang kung ito ay nakanota.* - [Team Page](http://osu.ppy.sh/g/4)
+*Nota: Lahat ng BAT ay nagsasalita ng Ingles maliban nalang kung ito ay nakanota.* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Pangalan | Ibang wika na naiintindihan | Lugar kung saan nakafocus |
 | -------- | --------------------------- | ------------------------- |

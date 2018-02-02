@@ -19,7 +19,7 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 Membri
 ------
 
-*NOTA: Tutti i GMT parlano Inglese a meno che non sia specificato il contrario.* - [Pagina del Team](http://osu.ppy.sh/g/4)
+*NOTA: Tutti i GMT parlano Inglese a meno che non sia specificato il contrario.* - [Pagina del Team](https://osu.ppy.sh/groups/4)
 
 | Nome | Lingua | Area di Interesse |
 | ---- | ------ | ----------------- |
