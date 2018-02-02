@@ -64,4 +64,4 @@ December
 
 ## See also
 
-Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/u/4815717)
+Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/users/4815717)
