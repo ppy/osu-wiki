@@ -1,341 +1,341 @@
-Skin Set List 
-============= 
+Skin Set List
+=============
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+_父页面： [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-The following tables contain all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
+以下表格包含所有在皮肤草案中的出现的皮肤元素组，该草案由 [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) 起草，由 Ephemeral 命名。
 
 ## osu!
 
-### Cursor Set
+### 光标组
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|cursor.png   |should always be included together with cursortrail.png   | required   | -  |
-|cursortrail.png   |should always be included together with cursor.png   | required  | -  |
-|cursormiddle.png   |should be optional depending on the cursor's design   | optional  | -   |
-|cursor-smoke.png   |-   | optional   | -   |
+|           文件名 |              注释               | 要求 | 标准皮肤的推荐尺寸 |
+|-----------------:|:-------------------------------:|:----:|:------------------:|
+|       cursor.png | 应该与 cursortrail.png 一起使用 | 必须 |         -          |
+|  cursortrail.png |   应该与 cursor.png 一起使用    | 必须 |         -          |
+| cursormiddle.png |     可选，取决于皮肤的设计      | 可选 |         -          |
+| cursor-smoke.png |                -                | 可选 |         -          |
 
-### Hitburst Set
+### 打击闪光组
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|hit0(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|hit50(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|hit100(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|hit100k(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|hit300(-n).png   | should be clearly distinguishable from all other hitbursts   | required  | -  |
-|hit300g(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|hit300k(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
-|lighting.png   | -  | optional  | -  |
-|particle50.png   | should be included together with all other particles; will only work if custom hitbursts are included   | optional  | 7x7px  |
-|particle100.ong   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
-|particle300.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
-|sliderpoint10.png   | should be included together with sliderpoint30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
-|sliderpoint30.png   | should be included together with sliderpoint10.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
+|            文件名 |                                   注释                                   | 要求 | 标准皮肤的推荐尺寸 |
+|------------------:|:------------------------------------------------------------------------:|:----:|:------------------:|
+|      hit0(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|     hit50(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|    hit100(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|   hit100k(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|    hit300(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|   hit300g(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|   hit300k(-n).png |                  应该与其他所有 Hitbursts 有明显的区别                   | 必须 |         -          |
+|      lighting.png |                                    -                                     | 可选 |         -          |
+|    particle50.png |     应该与其他 Particles 一起使用；只会在包含自定义 Hitbursts 时生效     | 可选 |       7x7px        |
+|   particle100.ong |     应该与其他 Particles 一起使用；只会在包含自定义 Hitbursts 时生效     | 可选 |       7x7px        |
+|   particle300.png |     应该与其他 Particles 一起使用；只会在包含自定义 Hitbursts 时生效     | 可选 |       7x7px        |
+| sliderpoint10.png | 应该与 sliderpoint30.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
+| sliderpoint30.png | 应该与 sliderpoint10.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
 
-### Hitcircle Set
+### Hitcircle 组
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|approachcircle.png   |-   |required   |126x126px   |
-|followpoint.png   |-   |required   |-   |
-|hitcircle.png   | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   |118x118px (circle) 128x128px (whole file)   |
-|hitcircleoverlay(-n).png   |used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   | 118x118px (circle) 128x128px (whole file)  |
-|reversearrow.png   |should face right   |required   | -  |
-|sliderendcircle.png   |should always be included to avoid conflicting with user-specific skins   |required   |118x118px (circle) 128x128px (whole file)   |
-|sliderendcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) 128x128px (whole file)   |
-|sliderstartcircle.png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) 128x128px (whole file)   |
-|sliderstartcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) / 128x128px (whole file)   |
-|hitcircleselect.png   |only seen in the editor   |optional   |118x118px (circle) 128x128px (whole file)   |
+|                           文件名 |                    注释                    | 要求 |             标准皮肤的推荐尺寸              |
+|---------------------------------:|:------------------------------------------:|:----:|:-------------------------------------------:|
+|               approachcircle.png |                     -                      | 必须 |                  126x126px                  |
+|                  followpoint.png |                     -                      | 必须 |                      -                      |
+|                    hitcircle.png | 在没有定义 Slidercircles 时会使用这个元素  | 必须 |  118x118px (circle) 128x128px (whole file)  |
+|         hitcircleoverlay(-n).png | 在没有定义 Slidercircles 时会使用这个元素  | 必须 |  118x118px (circle) 128x128px (whole file)  |
+|                 reversearrow.png |                应该朝向右边                | 必须 |                      -                      |
+|              sliderendcircle.png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 |  118x118px (circle) 128x128px (whole file)  |
+|   sliderendcircleoverlay(-n).png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 |  118x118px (circle) 128x128px (whole file)  |
+|            sliderstartcircle.png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 |  118x118px (circle) 128x128px (whole file)  |
+| sliderstartcircleoverlay(-n).png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 | 118x118px (circle) / 128x128px (whole file) |
+|              hitcircleselect.png |           只会在谱面编辑器中可见           | 可选 |  118x118px (circle) 128x128px (whole file)  |
 
-### Slidertrack Set
+### 滑条轨迹
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|sliderb(n).png   |-   |required   |118x118px   |
-|sliderb-nd.png   |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118px   |
-|sliderb-spec.png  |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118px   |
-|sliderfollowcircle(-n).png   |-   |required   |256x256px   |
-|sliderscorepoint.png   |also used in osu!taiko   |required   |-   |
+|                     文件名 |                      注释                       | 要求 | 标准皮肤的推荐尺寸 |
+|---------------------------:|:-----------------------------------------------:|:----:|:------------------:|
+|             sliderb(n).png |                        -                        | 必须 |     118x118px      |
+|             sliderb-nd.png | 只在强制默认皮肤，并且没有自定义 Sliderb 时使用 | 可选 |     118x118px      |
+|           sliderb-spec.png | 只在强制默认皮肤，并且没有自定义 Sliderb 时使用 | 可选 |     118x118px      |
+| sliderfollowcircle(-n).png |                        -                        | 必须 |     256x256px      |
+|       sliderscorepoint.png |              也在 osu!taiko 中使用              | 必须 |         -          |
 
-### Hitcircle Number Set
+### Hitcircle 数字组
 
-The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
-Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria Proposal.
+这个皮肤组的元素与游戏有关。数字之间的层叠和间隙由自定义皮肤设定，不会受谱面本身的影响。
+请注意，这个皮肤组的所有推荐尺寸在 Ranking Criteria 建议的指南中列出。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|default-0.png   |-   |required   |-   |
-|default-1.png   |-   |required   |-   |
-|default-2.png   |-   |required   |-   |
-|default-3.png   |-   |required   |-   |
-|default-4.png   |-   |required   |-   |
-|default-5.png   |-   |required   |-   |
-|default-6.png   |-   |required   |-   |
-|default-7.png   |-   |required   |-   |
-|default-8.png   |-   |required   |-   |
-|default-9.png   |-  |required   | -  |
+|        文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|--------------:|:----:|:----:|:------------------:|
+| default-0.png |  -   | 必须 |         -          |
+| default-1.png |  -   | 必须 |         -          |
+| default-2.png |  -   | 必须 |         -          |
+| default-3.png |  -   | 必须 |         -          |
+| default-4.png |  -   | 必须 |         -          |
+| default-5.png |  -   | 必须 |         -          |
+| default-6.png |  -   | 必须 |         -          |
+| default-7.png |  -   | 必须 |         -          |
+| default-8.png |  -   | 必须 |         -          |
+| default-9.png |  -   | 必须 |         -          |
 
-### Spinner Set
+### 转盘组
 
-All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style". 
+除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你**不应该**再使用「新皮肤样式（new spinner style）」的元素。
 
-This is because the basic spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+因为在同时有两种皮肤元素时，基本转盘样式的元素的优先级会比新皮肤样式的元素高。新皮肤元素只会在自定义皮肤没有使用基本转盘样式，同时支持皮肤版本 2 或更高，或者谱面强制默认皮肤时使用。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|spinner-background.png   |basic spinner style   |required   |-   |
-|spinner-circle.png   |basic spinner style   |required   |666x666px   |
-|spinner-metre.png   |basic spinner style   |required   |1024x692px   |
-|spinner-bottom.png   |new spinner style   |required   |667x667px  |
-|spinner-glow.png   |new spinner style   |required   |852x852px   |
-|spinner-middle.png   |new spinner style   |required   |689x689px   |
-|spinner-middle2.png   |new spinner style   |required   |17x17px   |
-|spinner-top.png   |new spinner style   |required   |667x667px  |
-|spinner-approachcircle.png   |used by both sets   |required   |384x384px   |
-|spinner-clear.png   |-   |required   |-   |
-|spinner-spin.png   |-   |required   |-   |
-|spinner-osu.png   |will only work if an user-specific skin supports skin version 1   |optional   |-   |
-|spinner-rpm.png   |should be included if both score number set and spinner set are skinned   |optional   |280x56px   |
+|                     文件名 |                 注释                  | 要求 | 标准皮肤的推荐尺寸 |
+|---------------------------:|:-------------------------------------:|:----:|:------------------:|
+|     spinner-background.png |             基本转盘样式              | 必须 |         -          |
+|         spinner-circle.png |             基本转盘样式              | 必须 |     666x666px      |
+|          spinner-metre.png |             基本转盘样式              | 必须 |     1024x692px     |
+|         spinner-bottom.png |              新转盘样式               | 必须 |     667x667px      |
+|           spinner-glow.png |              新转盘样式               | 必须 |     852x852px      |
+|         spinner-middle.png |              新转盘样式               | 必须 |     689x689px      |
+|        spinner-middle2.png |              新转盘样式               | 必须 |      17x17px       |
+|            spinner-top.png |              新转盘样式               | 必须 |     667x667px      |
+| spinner-approachcircle.png |              两者都使用               | 必须 |     384x384px      |
+|          spinner-clear.png |                   -                   | 必须 |         -          |
+|           spinner-spin.png |                   -                   | 必须 |         -          |
+|            spinner-osu.png | 只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
+|            spinner-rpm.png |   应该在定义了分数组和转盘组时使用    | 可选 |      280x56px      |
 
 ## osu!taiko
 
-### Hitobject Set
+### 打击物件组
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|approachcircle.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |126x126px   |
-|taikobigcircle.png   |-   |required   |118x118px   |
-|taikobigcircleoverlay(-n).png   |-   |required   |118x118px   |
-|taikohitcircle.png   |-   |required   |118x118px   |
-|taikohitcircleoverlay(-n).png   |-   |required   |118x118px   |
-|sliderscorepoint.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |-   |
-|taiko-roll-middle.png   |gets stretched to fill the roll   |required   |1x118px (line) 1x128px (whole file)   |
-|taiko-roll-end.png   |right half of a circle   |required   |59x118px (half circle) 64x128px (whole file)   |
-|spinner-warning.png   |-   |required   |-   |
+|                        文件名 |                       注释                       | 要求 |              标准皮肤的推荐尺寸              |
+|------------------------------:|:------------------------------------------------:|:----:|:--------------------------------------------:|
+|            approachcircle.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 必须 |                  126x126px                   |
+|            taikobigcircle.png |                        -                         | 必须 |                  118x118px                   |
+| taikobigcircleoverlay(-n).png |                        -                         | 必须 |                  118x118px                   |
+|            taikohitcircle.png |                        -                         | 必须 |                  118x118px                   |
+| taikohitcircleoverlay(-n).png |                        -                         | 必须 |                  118x118px                   |
+|          sliderscorepoint.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 必须 |                      -                       |
+|         taiko-roll-middle.png |                  拉伸以填满黄条                  | 必须 |     1x118px (line) 1x128px (whole file)      |
+|            taiko-roll-end.png |                    圈的右半边                    | 必须 | 59x118px (half circle) 64x128px (whole file) |
+|           spinner-warning.png |                        -                         | 必须 |                      -                       |
 
-### Hitburst Set
+### 打击闪光组
 
-The entirety of this skin set is gameplay relevant and all included hitbursts should be clearly distinguishable from each other.
+这个元素组的内容与游戏有关，应该与其他所有 Hitbursts 有明显的区别。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|taiko-hit0(-n).png   | -  |required   | -  |
-|taiko-hit100(-n).png   | -  |required   | -  |
-|taiko-hit100k(-n).png   | -  |required   |-   |
-| taiko-hit300(-n).png  | -  |required   | -  |
-| taiko-hit300k(-n).png  |-   | required  |-   |
+|                文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|----------------------:|:----:|:----:|:------------------:|
+|    taiko-hit0(-n).png |  -   | 必须 |         -          |
+|  taiko-hit100(-n).png |  -   | 必须 |         -          |
+| taiko-hit100k(-n).png |  -   | 必须 |         -          |
+|  taiko-hit300(-n).png |  -   | 必须 |         -          |
+| taiko-hit300k(-n).png |  -   | 必须 |         -          |
 
-### Pippidon Set
+### Pippidon 组
 
-This skin set is not gameplay relevant.
+这个皮肤组的元素与游戏无关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|pippidonclear(n).png   |-   |required   |-   |
-|pippidonfail(n).png   |-   |required   |-   |
-|pippidonidle(n).png   |-   |required   |-   |
-|pippidonkiai(n).png   |-   |required   |-   |
-|taiko-flower-group(-n).png   |combobursts in osu!taiko   |optional   |-   |
+|                     文件名 |        注释        | 要求 | 标准皮肤的推荐尺寸 |
+|---------------------------:|:------------------:|:----:|:------------------:|
+|       pippidonclear(n).png |         -          | 必须 |         -          |
+|        pippidonfail(n).png |         -          | 必须 |         -          |
+|        pippidonidle(n).png |         -          | 必须 |         -          |
+|        pippidonkiai(n).png |         -          | 必须 |         -          |
+| taiko-flower-group(-n).png | osu!taiko 连击闪光 | 可选 |         -          |
 
 ## osu!catch
 
-### Fruits Set
+### 水果组
 
-The entirety of this skin set is gameplay relevant.
+这个皮肤组的元素与游戏有关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|fruit-apple.png   | -  |required   |128x128px   |
-|fruit-apple-overlay.png   |-   |required   |128x128px   |
-|fruit-grapes.png   |-   |required   |128x128px   |
-|fruit-grapes-overlay.png   |-   |required   |128x128px   |
-|fruit-orange.png   |-   | required  |128x128px   |
-|fruit-orange-overlay.png   |-   | required  |128x128px   |
-|fruit-bananas.png   |should be designed differently from the other fruits   |required   |128x128px   |
-|fruit-bananas-overlay.png   |should be designed differently from the other fruits   | required  |128x128px   |
-|fruit-drop.png   |-   |required   |82x103px   |
-|fruit-drop-overlay.png   |should be included to guarantee correct display when an user-specific skin has it skinned because the default skin uses a transparent image for this file   |required   |82x103px   |
+|                    文件名 |                                       注释                                       | 要求 | 标准皮肤的推荐尺寸 |
+|--------------------------:|:--------------------------------------------------------------------------------:|:----:|:------------------:|
+|           fruit-apple.png |                                        -                                         | 必须 |     128x128px      |
+|   fruit-apple-overlay.png |                                        -                                         | 必须 |     128x128px      |
+|          fruit-grapes.png |                                        -                                         | 必须 |     128x128px      |
+|  fruit-grapes-overlay.png |                                        -                                         | 必须 |     128x128px      |
+|          fruit-orange.png |                                        -                                         | 必须 |     128x128px      |
+|  fruit-orange-overlay.png |                                        -                                         | 必须 |     128x128px      |
+|         fruit-bananas.png |                           应该与其他水果的设计有所不同                           | 必须 |     128x128px      |
+| fruit-bananas-overlay.png |                           应该与其他水果的设计有所不同                           | 必须 |     128x128px      |
+|            fruit-drop.png |                                        -                                         | 必须 |      82x103px      |
+|    fruit-drop-overlay.png | 为了保证显示正确，在使用自定义皮肤时应该包含它，因为默认皮肤使用了透明的图像文件 | 必须 |      82x103px      |
 
-### Catcher Set
+### Catcher 组
 
-All elements besides lightning.png are gameplay relevant. 
-For catchers the plate must be perfectly centered and exactly 302px across in width.
+除了 lightning.png，所有元素与游戏有关。
+Catchers 应该居中，宽度为 302px。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|fruit-catcher-fail(-n).png   |should face right   |required   | minimum 302px wide   |
-|fruit-catcher-idle(-n).png   |should face right   |required   | minimum 302px wide  |
-|fruit-catcher-kiai(-n).png   |should face right   |required   | minimum 302px wide  |
-|lighting.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |optional   | -   |
+|                     文件名 |                       注释                       | 要求 | 标准皮肤的推荐尺寸 |
+|---------------------------:|:------------------------------------------------:|:----:|:------------------:|
+| fruit-catcher-fail(-n).png |                   应该朝向右边                   | 必须 |   最小 302px 宽    |
+| fruit-catcher-idle(-n).png |                   应该朝向右边                   | 必须 |   最小 302px 宽    |
+| fruit-catcher-kiai(-n).png |                   应该朝向右边                   | 必须 |   最小 302px 宽    |
+|               lighting.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 可选 |         -          |
 
-## Interface
+## 界面
 
-### Scorebar Set
+### 分数栏组
 
-The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria proposal.
+这个皮肤组的元素与游戏有关。请注意，这个皮肤组的所有推荐尺寸在 Ranking Criteria 建议的指南中列出。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|scorebar-bg.png   |should be included together with scorebar-colour(-n).png   |required   | -   |
-|scorebar-colour(-n).png   |should be included together with scorebar-bg.png   |required   | -  |
-|scorebar-ki.png   |-   |required   | -  |
-|scorebar-kidanger.png   | -  |required   |-   |
-|scorebar-kidanger2.png   |-   |required   |-   |
-|scorebar-marker.png   | must be inlcuded to guarantee correct display of the ki and can be a blank file  |required   |-   |
+|                  文件名 |                          注释                          | 要求 | 标准皮肤的推荐尺寸 |
+|------------------------:|:------------------------------------------------------:|:----:|:------------------:|
+|         scorebar-bg.png |        应该与 scorebar-colour(-n).png 一起使用         | 必须 |         -          |
+| scorebar-colour(-n).png |            应该与 scorebar-bg.png 一起使用             | 必须 |         -          |
+|         scorebar-ki.png |                           -                            | 必须 |         -          |
+|   scorebar-kidanger.png |                           -                            | 必须 |         -          |
+|  scorebar-kidanger2.png |                           -                            | 必须 |         -          |
+|     scorebar-marker.png | 必须包含以保证 ki 可以正常显示。可以使用空白的图像文件 | 必须 |         -          |
 
-### Score Number Set
+### 游戏分数组
 
-The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
+这个皮肤组的元素与游戏有关。数字之间的层叠和间隙由自定义皮肤设定，不会受谱面本身的影响。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|score-0.png   |-   |required   |-   |
-|score-1.png   |-   |required   |-   |
-|score-2.png   |-   |required   |-   |
-|score-3.png   |-   |required   |-   |
-|score-4.png   |-   |required   |-   |
-|score-5.png   |-   |required   |-   |
-|score-6.png   |-   |required   |-   |
-|score-7.png   |-   |required   |-   |
-|score-8.png   |-   |required   |-   |
-|score-9.png   |-   |required   |-   |
-|score-comma.png   |-   |required   |-   |
-|score-dot.png   |-   |required   |-   |
-|score-percent.png   |-   |required   |-   |
-|score-x.png   |can be left out on beatmap sets without osu! difficulties   |required   |-   |
+|            文件名 |                 注释                 | 要求 | 标准皮肤的推荐尺寸 |
+|------------------:|:------------------------------------:|:----:|:------------------:|
+|       score-0.png |                  -                   | 必须 |         -          |
+|       score-1.png |                  -                   | 必须 |         -          |
+|       score-2.png |                  -                   | 必须 |         -          |
+|       score-3.png |                  -                   | 必须 |         -          |
+|       score-4.png |                  -                   | 必须 |         -          |
+|       score-5.png |                  -                   | 必须 |         -          |
+|       score-6.png |                  -                   | 必须 |         -          |
+|       score-7.png |                  -                   | 必须 |         -          |
+|       score-8.png |                  -                   | 必须 |         -          |
+|       score-9.png |                  -                   | 必须 |         -          |
+|   score-comma.png |                  -                   | 必须 |         -          |
+|     score-dot.png |                  -                   | 必须 |         -          |
+| score-percent.png |                  -                   | 必须 |         -          |
+|       score-x.png | 可以在不包含 osu! 难度的谱面包中使用 | 必须 |         -          |
 
-### Mod Icon Set
+### Mod 图标组
 
-This skin set is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
+这个皮肤组的元素与游戏无关。这些细分的图标，即使被列为「必须」，如果没有在谱面的任何游戏模式中使用，也可以留空。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|selection-mod-autoplay.png   |-   |required   |-   |
-|selection-mod-doubletime.png   |-   |required   |-   |
-|selection-mod-easy.png   |-   |required   |-   |
-|selection-mod-fadein.png   |-   | required  |-   |
-|selection-mod-flashlight.png   |-   |required   |-   |
-|selection-mod-halftime.png   |-   |required   |-   |
-|selection-mod-hardrock.png   |-   |required   |-   |
-|selection-mod-hidden.png   |-   |required   |-   |
-|selection-mod-key1.png   |-   |optional   |-   |
-|selection-mod-key2.png   |-   |optional   |-   |
-|selection-mod-key3.png   |-   |optional   |-   |
-|selection-mod-key4.png   |-   |optional   |-   |
-|selection-mod-key5.png   |-   |optional   |-   |
-|selection-mod-key6.png   |-   |optional   |-   |
-|selection-mod-key7.png   |-   |optional   |-   |
-|selection-mod-key8.png   |-   |optional   |-   |
-|selection-mod-key9.png   |-   |optional   |-   |
-|selection-mod-keycoop.png   |-   |required   |-   |
-|selection-mod-nightcore.png   |-   |required   |-   |
-|selection-mod-nofail.png   |-   |required   |-   |
-|selection-mod-perfect.png   |-   |required   |-   |
-|selection-mod-random.png   |-   |required   |-   |
-|selection-mod-relax.png   |-   |required   |-   |
-|selection-mod-relax2.png   |-   |required   |-   |
-|selection-mod-scorev2.png   |-   |required   |-   |
-|selection-mod-spunout.png   |-   |required   |-   |
-|selection-mod-suddendeath.png   |-   |required   |-   |
+|                        文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|------------------------------:|:----:|:----:|:------------------:|
+|    selection-mod-autoplay.png |  -   | 必须 |         -          |
+|  selection-mod-doubletime.png |  -   | 必须 |         -          |
+|        selection-mod-easy.png |  -   | 必须 |         -          |
+|      selection-mod-fadein.png |  -   | 必须 |         -          |
+|  selection-mod-flashlight.png |  -   | 必须 |         -          |
+|    selection-mod-halftime.png |  -   | 必须 |         -          |
+|    selection-mod-hardrock.png |  -   | 必须 |         -          |
+|      selection-mod-hidden.png |  -   | 必须 |         -          |
+|        selection-mod-key1.png |  -   | 可选 |         -          |
+|        selection-mod-key2.png |  -   | 可选 |         -          |
+|        selection-mod-key3.png |  -   | 可选 |         -          |
+|        selection-mod-key4.png |  -   | 可选 |         -          |
+|        selection-mod-key5.png |  -   | 可选 |         -          |
+|        selection-mod-key6.png |  -   | 可选 |         -          |
+|        selection-mod-key7.png |  -   | 可选 |         -          |
+|        selection-mod-key8.png |  -   | 可选 |         -          |
+|        selection-mod-key9.png |  -   | 可选 |         -          |
+|     selection-mod-keycoop.png |  -   | 必须 |         -          |
+|   selection-mod-nightcore.png |  -   | 必须 |         -          |
+|      selection-mod-nofail.png |  -   | 必须 |         -          |
+|     selection-mod-perfect.png |  -   | 必须 |         -          |
+|      selection-mod-random.png |  -   | 必须 |         -          |
+|       selection-mod-relax.png |  -   | 必须 |         -          |
+|      selection-mod-relax2.png |  -   | 必须 |         -          |
+|     selection-mod-scorev2.png |  -   | 必须 |         -          |
+|     selection-mod-spunout.png |  -   | 必须 |         -          |
+| selection-mod-suddendeath.png |  -   | 必须 |         -          |
 
-### Playfield Set
+### Playfield 组
 
-The combobursts included in this set are gameplay relevant and star2.png is only gameplay relevant if kiai time is present in the map. All other elements are not gameplay relevant.
+这组中的连击闪光与游戏有关，谱面中有 Kiai time 时，star2.png 是唯一与游戏有关的元素。所有其他元素都与游戏无关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|comboburst-fruits(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
-|comboburst-mania(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
-|comboburst(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
-|menu-button-background.png   |used for the leaderboard   |optional   | minimum resolution 690x85px   |
-|menu-osu.png   |spectator-mode only pause-screen   |optional   |-   |
-|multi-skipped.png   |multiplayer: shows who skipped the intro   |optional   |-   |
-|play-skip(-n).png   |-   |optional   |-   |
-|play-unranked.png   |-   |optional   |-   |
-|star2.png   |must not be skinned in beatmapsets which have neither kiai time nor breaks   |optional   |-   |
+|                     文件名 |                      注释                      | 要求 | 标准皮肤的推荐尺寸  |
+|---------------------------:|:----------------------------------------------:|:----:|:-------------------:|
+|  comboburst-fruits(-n).png |      应该朝向右边，显示在右边时会自动反转      | 可选 |     最高：768px     |
+|   comboburst-mania(-n).png |      应该朝向右边，显示在右边时会自动反转      | 可选 |     最高：768px     |
+|         comboburst(-n).png |      应该朝向右边，显示在右边时会自动反转      | 可选 |     最高：768px     |
+| menu-button-background.png |                 在排行榜上使用                 | 可选 | 最小分辨率 690x85px |
+|               menu-osu.png |           只在观察者的暂停屏幕上使用           | 可选 |          -          |
+|          multi-skipped.png |          多人模式：跳过开头的玩家显示          | 可选 |          -          |
+|          play-skip(-n).png |                       -                        | 可选 |          -          |
+|          play-unranked.png |                       -                        | 可选 |          -          |
+|                  star2.png | 在不包含 Kiai time 和 Break 的谱面包中不能使用 | 可选 |          -          |
 
-### Inputoverlay Set
+### Inputoverlay 组
 
-This skin set is not gameplay relevant.
+这个皮肤组的元素与游戏无关。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|inputoverlay-background.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |193x55px   |
-|inputoverlay-key.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |max: 46x46px   |
+|                      文件名 |                       注释                        | 要求 | 标准皮肤的推荐尺寸 |
+|----------------------------:|:-------------------------------------------------:|:----:|:------------------:|
+| inputoverlay-background.png | 在不包含 osu! 和 osu!catch 难度的谱面包中不能使用 | 必须 |      193x55px      |
+|        inputoverlay-key.png | 在不包含 osu! 和 osu!catch 难度的谱面包中不能使用 | 必须 |   最大：46x46px    |
 
-### Leaderboard Entry Number Set
+### Leaderboard Entry Number 组
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|scoreentry-0.png   |-   |required   |11x14px   |
-|scoreentry-1.png   |-   |required   |11x14px   |
-|scoreentry-2.png   |-   |required   |11x14px   |
-|scoreentry-3.png   |-   |required   |11x14px   |
-|scoreentry-4.png   |-   |required   |11x14px   |
-|scoreentry-5.png   |-   |required   |11x14px   |
-|scoreentry-6.png   |-   |required   |11x14px   |
-|scoreentry-7.png   |-   |required   |11x14px   |
-|scoreentry-8.png   |-   | required  |11x14px   |
-|scoreentry-9.png   |-   |required   |11x14px   |
-|scoreentry-comma.png   |-   |required   |5x14px   |
-|scoreentry-dot.png   |-   |required   |5x14px   |
-|scoreentry-percent.png   |-   |required   |12x14px   |
-|scoreentry-x.png   |-   |required   |10x14px   |
+|                 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|-----------------------:|:----:|:----:|:------------------:|
+|       scoreentry-0.png |  -   | 必须 |      11x14px       |
+|       scoreentry-1.png |  -   | 必须 |      11x14px       |
+|       scoreentry-2.png |  -   | 必须 |      11x14px       |
+|       scoreentry-3.png |  -   | 必须 |      11x14px       |
+|       scoreentry-4.png |  -   | 必须 |      11x14px       |
+|       scoreentry-5.png |  -   | 必须 |      11x14px       |
+|       scoreentry-6.png |  -   | 必须 |      11x14px       |
+|       scoreentry-7.png |  -   | 必须 |      11x14px       |
+|       scoreentry-8.png |  -   | 必须 |      11x14px       |
+|       scoreentry-9.png |  -   | 必须 |      11x14px       |
+|   scoreentry-comma.png |  -   | 必须 |       5x14px       |
+|     scoreentry-dot.png |  -   | 必须 |       5x14px       |
+| scoreentry-percent.png |  -   | 必须 |      12x14px       |
+|       scoreentry-x.png |  -   | 必须 |      10x14px       |
 
-### Countdown Set
+### 倒计时组
 
-The entirety of this skin set is gameplay relevant. This skin set must not be skinned if the beatmap does not utilise countdowns.
+这个皮肤组的元素与游戏有关。如果谱面没有包含倒计时，不能使用。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|ready.png   | -  |required   |max: 1366x768px   |
-|count1.png   |-   |required   |max: 1366x768px   |
-|count2.png   |-   |required   |max: 1366x768px   |
-|count3.png   |-   |required   |max: 1366x768px   |
-|go.png   |-   |required   |max: 1366x768px   |
+|     文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|-----------:|:----:|:----:|:------------------:|
+|  ready.png |  -   | 必须 |  最大：1366x768px  |
+| count1.png |  -   | 必须 |  最大：1366x768px  |
+| count2.png |  -   | 必须 |  最大：1366x768px  |
+| count3.png |  -   | 必须 |  最大：1366x768px  |
+|     go.png |  -   | 必须 |  最大：1366x768px  |
 
-### Section Indicator Set
+### 章节指示器组
 
-This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for section indicators to show up.
+这个皮肤组的元素与游戏无关。如果谱面没有包含长 Break，显示章节指示器（section indicators），则不能使用。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|section-fail.png   |-  |required   |max height: 768px   |
-|section-pass.png  |-  |required   |max height: 768px   |
+|           文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|-----------------:|:----:|:----:|:------------------:|
+| section-fail.png |  -   | 必须 |    最高：768px     |
+| section-pass.png |  -   | 必须 |    最高：768px     |
 
-### Grade Indicator Set
+### 判定指示器组
 
-This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for grade indicators to show up.
+这个皮肤组的元素与游戏无关。如果谱面没有包含长 Break，显示章节指示器（section indicators），则不能使用。
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|ranking-a-small.png   |-   |required   |34x40px   |
-|ranking-b-small.png   |-   |required   |34x40px   |
-|ranking-c-small.png   |-   |required   |34x40px   |
-|ranking-d-small.png   |-   |required   |34x40px   |
-|ranking-s-small.png   |-   |required   |34x40px   |
-|ranking-sh-small.png   |-   |required   |34x40px   |
-|ranking-x-small.png   |-   |required   |34x40px   |
-|ranking-xh-small.png   |-   |required   |34x40px   |
+|               文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+|---------------------:|:----:|:----:|:------------------:|
+|  ranking-a-small.png |  -   | 必须 |      34x40px       |
+|  ranking-b-small.png |  -   | 必须 |      34x40px       |
+|  ranking-c-small.png |  -   | 必须 |      34x40px       |
+|  ranking-d-small.png |  -   | 必须 |      34x40px       |
+|  ranking-s-small.png |  -   | 必须 |      34x40px       |
+| ranking-sh-small.png |  -   | 必须 |      34x40px       |
+|  ranking-x-small.png |  -   | 必须 |      34x40px       |
+| ranking-xh-small.png |  -   | 必须 |      34x40px       |
 
-### Pause Screen Set
+### Pause Screen 组
 
-|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
-|--:|:-:|:-:|:-:|
-|pause-back.png   |-   |required   |-   |
-|pause-continue.png   |-   |required   |-   |
-|pause-retry.png   |-   |required   |-   |
-|fail-background.png   |if one background is skinned the other one should also be skinned, gets scaled to fit the player's screen   |optional   |max: 1920x1200px   |
-|pause-overlay.png   |if one background is skinned the other one should also be skinned   |optional  |1366x768px   |
+|              文件名 |                      注释                      | 要求 | 标准皮肤的推荐尺寸 |
+|--------------------:|:----------------------------------------------:|:----:|:------------------:|
+|      pause-back.png |                       -                        | 必须 |         -          |
+|  pause-continue.png |                       -                        | 必须 |         -          |
+|     pause-retry.png |                       -                        | 必须 |         -          |
+| fail-background.png | 应该与下者同时使用。会被拉伸以适应玩家的屏幕。 | 可选 | 最大：1920x1200px  |
+|   pause-overlay.png |              应该与上者同时使用。              | 可选 |     1366x768px     |
