@@ -39,8 +39,7 @@ And a super special mention for our oldest contributors:
 
 [awp](https://osu.ppy.sh/u/2650) - for early community management and moderation and huge contributions over the course of his time here
 
-[Sinistro](https://osu.ppy.sh/u/5530) - for being the 
-first impromptu community manager and global moderator, who set the bar extremely high for the GMT to follow
+[Sinistro](https://osu.ppy.sh/u/5530) - for being the first impromptu community manager and global moderator, who set the bar extremely high for the GMT to follow
 
 [Ivalset](https://osu.ppy.sh/u/827) - for being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing
 
