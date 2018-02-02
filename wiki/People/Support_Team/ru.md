@@ -33,15 +33,15 @@
 
 | Имя | Дополнительные языки |
 | ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| [Ezoda](https://osu.ppy.sh/u/1231180) | немецкий |
-| [Marcin](https://osu.ppy.sh/u/722665) | польский |
-| [MillhioreF](https://osu.ppy.sh/u/941094) | |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedish, испанский |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | испанский |
-| [Tom94](https://osu.ppy.sh/u/1857058) | немецкий |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | голландский |
+| [deadbeat](https://osu.ppy.sh/users/128370) | |
+| [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| [Ezoda](https://osu.ppy.sh/users/1231180) | немецкий |
+| [Marcin](https://osu.ppy.sh/users/722665) | польский |
+| [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») |
+| [Saten](https://osu.ppy.sh/users/444506) | Swedish, испанский |
+| [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| [TheVileOne](https://osu.ppy.sh/users/278862) | |
+| [Trosk-](https://osu.ppy.sh/users/3469385) | испанский |
+| [Tom94](https://osu.ppy.sh/users/1857058) | немецкий |
+| [VeilStar](https://osu.ppy.sh/users/4255720) | голландский |

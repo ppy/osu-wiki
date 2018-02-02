@@ -20,15 +20,15 @@ Support Team 主要负责:
 
 | Name | 除英语外其他熟练语言 |
 | ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| [Ezoda](https://osu.ppy.sh/u/1231180) | 德语 |
-| [Marcin](https://osu.ppy.sh/u/722665) | 波兰语 |
-| [MillhioreF](https://osu.ppy.sh/u/941094) | |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | 菲律宾语 |
-| [Saten](https://osu.ppy.sh/u/444506) | 瑞典语, 西班牙语 |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | 西班牙语 |
-| [Tom94](https://osu.ppy.sh/u/1857058) | 德语 |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | 荷兰语 |
+| [deadbeat](https://osu.ppy.sh/users/128370) | |
+| [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| [Ezoda](https://osu.ppy.sh/users/1231180) | 德语 |
+| [Marcin](https://osu.ppy.sh/users/722665) | 波兰语 |
+| [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
+| [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 |
+| [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| [TheVileOne](https://osu.ppy.sh/users/278862) | |
+| [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
+| [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
+| [VeilStar](https://osu.ppy.sh/users/4255720) | 荷兰语 |

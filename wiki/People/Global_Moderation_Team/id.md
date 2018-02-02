@@ -23,51 +23,51 @@ Anggota Tim
 
 | Nama | Bahasa | Fokus |
 | ---- | ------ | ----- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Italia | Moderasi Chat |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongaria | Moderasi Chat |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Cina | Moderasi Chat |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | Moderasi Chat |
-| [deadbeat](https://osu.ppy.sh/u/128370) | | Pembuatan osu!media |
-| [Deif](https://osu.ppy.sh/u/318565) | Spanyol | Turnamen |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Dukungan Teknis |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | Bantuan pemain |
-| [Flanster](https://osu.ppy.sh/u/447818) | Bulgaria | osu!idol hosting, Moderasi Chat |
-| [Gabe](https://osu.ppy.sh/u/654108) | Perancis | Moderasi Chat |
-| [Galkan](https://osu.ppy.sh/u/169570) | Polandia | Moderasi Chat |
-| [ghm12](https://osu.ppy.sh/u/2594229) | Portugis | Moderasi Chat |
-| [heyronii](https://osu.ppy.sh/u/5642779) | Turki | Moderasi Chat |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | Kanton, Cina | Moderasi Chat |
-| [juankristal](https://osu.ppy.sh/u/443656) | Spanyol | Moderasi Chat, Turnamen |
-| [Kobold84](https://osu.ppy.sh/u/3227533) | Rusia | Moderasi Chat |
-| [Kurai](https://osu.ppy.sh/u/77089) | Perancis, Rusia | Moderasi Chat |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Rusia | Moderasi Chat |
-| [Lassikko](https://osu.ppy.sh/u/7253731) | Finlandia | Moderasi Chat |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanyol | Moderasi Chat, Moderasi Forum |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polandia | Moderasi Forum, Pengembangan |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | Italia | Moderasi Chat |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipina | Moderasi Chat, Moderasi Forum |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | Perancis | Moderasi Chat |
-| [Nyquill](https://osu.ppy.sh/u/682935) | Cina | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderasi Chat, Dukungan Teknis |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Belanda | Moderasi Chat |
-| [Repflez](https://osu.ppy.sh/u/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |
-| [ruexia](https://osu.ppy.sh/u/385069) | Korea | Moderasi Chat |
-| [S o h](https://osu.ppy.sh/u/2234772) | Jepang | Moderasi Chat |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedia, Spanyol | Moderasi Chat |
-| [shARPII](https://osu.ppy.sh/u/776257) | Perancis | Moderasi Chat, Turnamen |
-| [Shiro](https://osu.ppy.sh/u/113005) | Perancis, Spanyol | Moderasi Chat |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesia | Moderasi Chat |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Hongaria | Moderasi Chat |
-| [Stefan](https://osu.ppy.sh/u/626907) | Jerman | Moderasi Chat, Moderasi Forum |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Korea | Moderasi Chat |
-| [Tasha](https://osu.ppy.sh/u/1031958) | | Pembuatan osu!media |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | Korean, Jepang | Moderasi Chat |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanyol | Dukungan Teknis |
-| [Ukami](https://osu.ppy.sh/u/820865) | Polandia | Moderasi Chat |
-| [Uni](https://osu.ppy.sh/u/617106) | Belanda | Moderasi Chat |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | | Dukungan Teknis |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanyol | Moderasi Chat, Moderasi Forum |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polandia | Moderasi Chat |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | Cina | Moderasi Chat |
-| [Zetera](https://osu.ppy.sh/u/587737) | Jerman | Moderasi Chat |
+| [-kevincela-](https://osu.ppy.sh/users/266596) | Italia | Moderasi Chat |
+| [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongaria | Moderasi Chat |
+| [Atrue](https://osu.ppy.sh/users/1758523) | Cina | Moderasi Chat |
+| [Chaos](https://osu.ppy.sh/users/2628870) | | Moderasi Chat |
+| [deadbeat](https://osu.ppy.sh/users/128370) | | Pembuatan osu!media |
+| [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen |
+| [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Dukungan Teknis |
+| [Ephemeral](https://osu.ppy.sh/users/102335) | | Bantuan pemain |
+| [Flanster](https://osu.ppy.sh/users/447818) | Bulgaria | osu!idol hosting, Moderasi Chat |
+| [Gabe](https://osu.ppy.sh/users/654108) | Perancis | Moderasi Chat |
+| [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi Chat |
+| [ghm12](https://osu.ppy.sh/users/2594229) | Portugis | Moderasi Chat |
+| [heyronii](https://osu.ppy.sh/users/5642779) | Turki | Moderasi Chat |
+| [IamKwaN](https://osu.ppy.sh/users/1856463) | Kanton, Cina | Moderasi Chat |
+| [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Moderasi Chat, Turnamen |
+| [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi Chat |
+| [Kurai](https://osu.ppy.sh/users/77089) | Perancis, Rusia | Moderasi Chat |
+| [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi Chat |
+| [Lassikko](https://osu.ppy.sh/users/7253731) | Finlandia | Moderasi Chat |
+| [mancuso_JM_](https://osu.ppy.sh/users/521568) | Spanyol | Moderasi Chat, Moderasi Forum |
+| [Marcin](https://osu.ppy.sh/users/722665) | Polandia | Moderasi Forum, Pengembangan |
+| [MrSergio](https://osu.ppy.sh/users/2581696) | Italia | Moderasi Chat |
+| [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
+| [Nathanael](https://osu.ppy.sh/users/2295078) | Filipina | Moderasi Chat, Moderasi Forum |
+| [Neil Watts](https://osu.ppy.sh/users/3048059) | Perancis | Moderasi Chat |
+| [Nyquill](https://osu.ppy.sh/users/682935) | Cina | osu!weekly |
+| [Pawsu](https://osu.ppy.sh/users/2371454) |  | Moderasi Chat, Dukungan Teknis |
+| [Pittigbassje](https://osu.ppy.sh/users/2167433) | Belanda | Moderasi Chat |
+| [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |
+| [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi Chat |
+| [S o h](https://osu.ppy.sh/users/2234772) | Jepang | Moderasi Chat |
+| [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi Chat |
+| [shARPII](https://osu.ppy.sh/users/776257) | Perancis | Moderasi Chat, Turnamen |
+| [Shiro](https://osu.ppy.sh/users/113005) | Perancis, Spanyol | Moderasi Chat |
+| [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesia | Moderasi Chat |
+| [Spkz](https://osu.ppy.sh/users/2964029) | Hongaria | Moderasi Chat |
+| [Stefan](https://osu.ppy.sh/users/626907) | Jerman | Moderasi Chat, Moderasi Forum |
+| [Sylphi](https://osu.ppy.sh/users/1399551) | Korea | Moderasi Chat |
+| [Tasha](https://osu.ppy.sh/users/1031958) | | Pembuatan osu!media |
+| [ToGlette](https://osu.ppy.sh/users/1076236) | Korean, Jepang | Moderasi Chat |
+| [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan Teknis |
+| [Ukami](https://osu.ppy.sh/users/820865) | Polandia | Moderasi Chat |
+| [Uni](https://osu.ppy.sh/users/617106) | Belanda | Moderasi Chat |
+| [VeilStar](https://osu.ppy.sh/users/4255720) | | Dukungan Teknis |
+| [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Moderasi Chat, Moderasi Forum |
+| [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi Chat |
+| [Zero__wind](https://osu.ppy.sh/users/1822830) | Cina | Moderasi Chat |
+| [Zetera](https://osu.ppy.sh/users/587737) | Jerman | Moderasi Chat |
