@@ -2,19 +2,21 @@
 
 ![Edytor postów na forum](img/editor.jpg "Pole edycyjne na forum")
 
-BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures and user pages.
+BBCode to język formatowania wiadomości internetowych. Jest on używany na forum osu!, a właściwie na większości internetowych forów dyskusyjnych. Składa się on ze znaczników umieszczonych wewnątrz tekstu i (czasami) ich atrybutów. BBCode jest używane w wątkach na forum, sygnaturach oraz na stronach profilowych użytkowników.
 
-## Notes
+## Informacje
 
-While the post editor provides a few basic formatting tools, it is possible to manually write the BBCode. BBCode tags are case insensitive.
+Podczas gdy edytor postów posiada podstawowe opcje formatowania, to istnieje możliwość ręcznego pisania BBCode. Znaczniki muszą być zapisywane z małej litery.
 
 ### Działanie przycisków
 
-Without any text highlighted, clicking the button will surround the tags around the text cursor placement in the post editor. With text highlighted in the post editor, clicking the button will surround the tags around the highlighted text.
+Jeżeli żaden tekst nie jest zaznaczony, to naciśnięcie przycisku spowoduje wstawienie znaczników zależnie od położenia kursora tekstowego w edytorze postów. 
+
+Jeżeli dany tekst jest zaznaczony, to naciśnięcie przycisku spowoduje wstawienie znaczników wokół zaznaczonego tekstu.
 
 ### Łączenie znaczników
 
-Tags can be combined for richer formatting. The order and nesting of the tags **must** be respected when combining the tags. Failure to adhere to the order/nesting may break the post formatting.
+Znaczniki można łączyć, aby poszerzyć formatowanie. Kolejność i rozmieszczenie znaczników **musi** być przestrzegana podczas łączenia. Błędy w kolejności mogą skutkować zepsuciem formatowania.
 
 Dla przykładu (zwróć uwagę na położenie znaczników):
 
@@ -25,11 +27,11 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 ### Pogrubienie
 
-**Emphasize** words or an entire paragraph in a **bardziej wyrazisty** sposób niż poprzez [kursywę](#kursywa).
+**Uwydatnij** tekst w **bardziej wyrazisty** sposób niż poprzez [kursywę](#kursywa).
 
-- Przycisk: ![Bold button](img/bold.png)
+- Dedykowany przycisk: ![Bold button](img/bold.png)
 - Ważne:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
+  - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
 - Składnia:
 ```
 [b] ... [/b]
@@ -37,11 +39,11 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 ### Kursywa
 
-**Emphasize** words or an entire paragraph in a *łagodniejszy* sposób niż poprzez [pogrubienie](#pogrubienie).
+**Uwydatnij** tekst w *łagodniejszy* sposób niż poprzez [pogrubienie](#pogrubienie).
 
-- Przycisk: ![Italic button](img/italic.png)
+- Dedykowany przycisk: ![Italic button](img/italic.png)
 - Ważne:
-  - Use sparingly. Overuse will weaken the effectiveness of the emphasize.
+  - Używaj sporadycznie. Nadużycie tego znacznika obniży jego efektywność.
 - Składnia:
 ```
 [i] ... [/i]
@@ -49,11 +51,11 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 ### Podkreślenie
 
-**Draws a horizontal line underneath** the word(s) or an entire paragraph.
+**Dodaje podkreślenie** do tekstu.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
+  - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
 - Składnia:
 ```
 [u] ... [/u]
@@ -61,11 +63,11 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 ### Przekreślenie
 
-**Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
+**Dodaje przekreślenie** do tekstu.
 
-- Przycisk: ![Strike button](img/strike.png)
+- Dedykowany przycisk: ![Strike button](img/strike.png)
 - Ważne:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
+  - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
 - Składnia:
 ```
 [strike] ... [/strike]
@@ -73,69 +75,64 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 ### Kolor
 
-**Adds colour** to some text.
+**Zmienia kolor** tekstu.
 
-- Przycisks: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - The colour box is located on the right side of the text box.
-  - Use this tag sparingly. Overuse of this will create discomfort for the reader's eyes. Misuse of this will make your text illegible.
-  - If you choose a colour, make sure it is is contrast to the background so that anyone can read it.
-  - The `HEXCODE` argument should not use quotation marks.
+  - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
+  - Jeżeli wybierzesz już jakiś kolor, upewnij się, że nie zlewa się on z tłem.
+  - Atrybut `HEXCODE` nie może znajdować się w cudzysłowach.
 - Składnia:
-  - Where `HEXCODE` is a colour in hexadecimal or colour name.
-    - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
-    - For colour name, it must be a valid html colour.
+  - `HEXCODE` to kolor w systemie szesnastkowym bądź nazwa koloru.
+    - Dla koloru w systemie szesnastkowym, musi składać się on z sześciu znaków z systemu szesnastkowego (0 - 9, A - F), poprzedzone znakiem `#`.
+    - Dla nazwy koloru, musi być to poprawna nazwa z języka HTML.
 ```
 [color=HEXCODE] ... [/color]
 ```
 
-For a list of colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
+Sprawdź także [listę kolorów HTML](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart), aby dowiedzieć się więcej.
 
 ### Rozmiar czcionki
 
-Relatively adjusts the text size.
+Zmienia rozmiar czcionki tekstu.
 
-- Przycisks: ![Font size options](img/font-size.png)
+- Dedykowany przycisk: ![Font size options](img/font-size.png)
 - Ważne:
-  - Use this tag sparingly.
-  - There are only 4 sizes that you can use:
-    - `50` (tiny)
-    - `85` (small)
-    - `100` (normal; default)
-    - `150` (large)
-  - If you enter a value that is not one of the listed above, it will use the default font size.
-  - The `NUMBER` argument should not use quotation marks.
+  - Używaj sporadycznie.
+  - Są dostępne tylko 4 rozmiary czcionki:
+    - `50` (malutka)
+    - `85` (mała)
+    - `100` (normalna; domyślna)
+    - `150` (duża)
+  - Jeżeli wprowadzisz inną liczbę niż podane powyżej, zostanie użyty domyślny rozmiar czcionki.
+  - Atrybut `NUMBER` nie może znajdować się w cudzysłowach.
 - Składnia:
-  - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
+  - `NUMBER` to jedna z podanych powyżej liczb (`50`, `85`, `100` lub `150`).
 ```
 [size=NUMBER] ... [/size]
 ```
 
 ### Spoiler
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+**Przykrywa tekst** czarnym tłem.
 
-**Covers text** with a black background.
+Znacznik ten jest użyteczny jeżeli mówisz o kluczowej scenie w serialu, filmie czy anime, ale nie chcesz zaspoilerować jej innym. Mimo tego, czytelnik może zobaczyć tekst poprzez najechanie na niego kursorem.
 
-This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others. The reader, however, can still read the text by highlighting over the text.
-
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
+  - Jeżeli użyjesz znacznika [koloru](#kolor) wraz z tym znacznikiem, to zmieni on tylko kolor tekstu.
 - Składnia:
 ```
 [spoiler] ... [/spoiler]
 ```
 
-### Spoilerbox
+### Blok ze spoilerem
 
-_Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
+**Ukrywa tekst** w automatycznie nazwanym bloku. Mimo tego, czytelnik może zobaczyć tekst poprzez naciśnięcie na blok ze spoilerem.
 
-**Hides a paragraph** inside an prenamed box from the reader's view. The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
-
-- Przycisk: ![Spoilerbox button](img/spoilerbox.png)
+- Dedykowany przycisk: ![Spoilerbox button](img/spoilerbox.png)
 - Ważne:
-  - This will create a [Box](#box) with the heading text of `collapsed text`.
+  - [Blok](#blok) zostanie utworzony z nagłówkiem o nazwie `collapsed text`.
 - Składnia:
 ```
 [spoilerbox]
@@ -143,20 +140,20 @@ _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 [/spoilerbox]
 ```
 
-### Box
+### Blok
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+_Blok jest oznaczony na stronie osu! jako Spoiler._
 
-**Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
+**Ukrywa tekst** w możliwym do nazwania bloku. Mimo tego, czytelnik może zobaczyć tekst poprzez naciśnięcie na blok.
 
-These are commonly used to hide large images or a large amount of images.
+Zazwyczaj używany, aby ukryć wiele zdjęć bądź zdjęcia o dużym rozmiarze.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - By default, this will create a box with the no heading text.
-    - If you do leave the `NAME` argument blank (or do not include one), the height of the box will be very small!
-  - The `NAME` argument should not use quotation marks.
-  - The `NAME` argument can contain spaces.
+  - Domyślnie, zostanie utworzony blok bez nagłówka.
+    - Jeżeli nie załączysz atrybutu `NAME` bądź nie zapiszesz jego wartości, to blok będzie bardzo niski.
+  - Atrybut `NAME` nie może znajdować się w cudzysłowach.
+  - Atrybut `NAME` może zawierać spacje.
 - Składnia:
   - Where `NAME` is a name for the box.
 ```
@@ -167,16 +164,16 @@ These are commonly used to hide large images or a large amount of images.
 
 ### Cytat
 
-Quote formatting for the given word/paragraph.
+Dodaje formatowanie dla cytowanego tekstu.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - It is nice to note the author of the quote if you are quoting someone (use `NAME` argument).
-  - The `NAME` argument **must** use quotation marks.
-  - There is a quote button per post (bottom-right corner) that will automatically quote the text of a user.
-    - If you did this, the post (when you click `Post`) will be posted in the current thread.
+  - Użyj atrybutu `NAME`, aby podać autora cytatu.
+  - Atrybut `NAME` **musi** znajdować się w cudzysłowach.
+  - W prawym-górnym rogu każdego posta znajduje się przycisk do automatycznego cytowania tekstu użytkownika.
+    - Jeśli tak zrobisz, to post z cytatem pojawi się w temacie w którym znajduje się cytowany post.
 - Składnia:
-  - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
+  - `NAME` to nagłówek cytatu (**musi** znajdować się w cudzysłowach).
 ```
 [quote=NAME]
 ...
@@ -185,12 +182,12 @@ Quote formatting for the given word/paragraph.
 
 ### Kod
 
-Format text with a monospaced font-family and place it inside a gray box. This is useful when you are posting code for a storyboard or source code from a project.
+Nadaje tekstowi czcionkę o stałej szerokości znaków i umieszcza go wewnątrz szarego bloku. Znacznik ten jest używany zazwyczaj podczas umieszczania kodu storyboardu lub kodu źródłowego danego projektu.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - This will preserve white spacing, this means that none of the lines will break unless you break it.
-  - Overflowing text lines will enable a horizontal scroll box.
+  - Tekst nie zostanie automatycznie przeniesiony do następnej linijki, chyba że wstawisz znak nowej linii.
+  - Wychodzenie tekstu poza blok spowoduje pojawienie się poziomego paska przesuwania.
 - Składnia:
 ```
 [code]
@@ -200,11 +197,11 @@ Format text with a monospaced font-family and place it inside a gray box. This i
 
 ### Wyśrodkowanie
 
-Centre align a paragraph; this is typically used for titles or headings.
+Wyśrodkowuje tekst; zazwyczaj używane dla tytułów bądź nagłówków.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - The tags **must** be spelt as `centre` not `center` (note the last two letters).
+  - Znacznik ten **musi** zostać zapisany jako `centre`, a nie `center`.
 - Składnia:
 ```
 [centre]
@@ -214,45 +211,46 @@ Centre align a paragraph; this is typically used for titles or headings.
 
 ### Łącze
 
-Adds a link.
+Dodaje łącze.
 
-You do not need to use this tag if you do not want to use link text. The osu!forums will automatically link pasted URLs inside the post.
+Nie musisz używać tego znacznika, jeśli nie chcesz, aby za łącze był podstawiony tekst. Forum osu! automatycznie linkują wstawione łącza.
 
-- Przycisk: ![URL button](img/url.png)
+- Dedykowany przycisk: ![URL button](img/url.png)
 - Ważne:
-  - The `LINK` argument should not use quotation marks.
+  - Atrybut `LINK` nie powinien znajdować się w cudzysłowach.
 - Składnia:
-  - Where `LINK` is the url.
-  - Where `TEXT` is the link text.
+  - `LINK` to łącze.
+  - `TEXT` to tekst, który zostanie podstawiony za łącze.
 ```
 [url=LINK]TEXT[/url]
 ```
 
 ### Profil
-Links a user profile using the user's name.
 
-Usage of this button is **heavily discouraged**! The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter). And once they do, the link will fail.
+Dodaje łącze do profilu użytkownika.
 
-It is recommended to use [URL](#url) instead (using the user's id number).
+Używanie tego znacznika jest **niezalecane**! Znacznik ten jest problematyczny, ponieważ istnieje możliwość, że użytkownik zmieni swój pseudonim, co sprawi, że łącze przestanie działać.
 
-- Przycisk: Brak
+Zaleca się używanie znacznika [Łącze](#łącze) używając numeru ID użytkownika zamiast znacznika Profil.
+
+- Dedykowany przycisk: Brak
 - Ważne:
-  - Not recommended!
-  - The `USER` argument has to be defined.
+  - Używanie tego znacznika jest niezalecane!
+  - Atrybut `USER` musi być podany.
 - Składnia:
-  - Where `USER` is the name of the user.
+  - `USER` to nazwa użytkownika.
 ```
 [profile]USER[/profile]
 ```
 
 ### Google
 
-Automatically links to a Google Search query using the provided text.
+Wyszuka podany tekst używając wyszukiwarki Google.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
+  - Warto zanotować, że wyniki wyszukiwania nie będą takie same dla wszystkich.
+    - Część wyników będzie ukryta bazując na języku i lokalizacji.
 - Składnia:
 ```
 [google]...[/google]
@@ -260,12 +258,13 @@ Automatically links to a Google Search query using the provided text.
 
 ### Szczęsliwy traf
 
-**Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
+Dodaje łącze do strony wyszukanej dzięki funkcji *Szczęśliwy traf* wyszukiwarki Google.
 
-- Przycisk: Brak
+
+- Dedykowany przycisk: Brak
 - Ważne:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
+  - Warto zanotować, że wyniki wyszukiwania nie będą takie same dla wszystkich.
+    - Część wyników będzie ukryta bazując na języku i lokalizacji.
 - Składnia:
 ```
 [lucky]...[/lucky]
@@ -273,29 +272,26 @@ Automatically links to a Google Search query using the provided text.
 
 ### Lista
 
-Formats the text into a list.
+Zmienia tekst w listę.
 
-In BBCode, there are two parts for making the list: the wrapper and the bullets. Where the bullets are placed inside the wrapper.
+W BBCode, listy składają się z dwóch części: znaczników - ukazujących zasięg listy - oraz punktów.
 
-- Przycisks:
-  - Bulleted list: ![List button](img/list.png)
-  - Numbered list: ![Numbered list button](img/list-numbered.png)
-  - List bullet: Brak
-  - List type: Brak
+- Dedykowany przycisk:
+  - Lista punktowana: ![Przycisk dla listy puntkowanej](img/list.png)
+  - Lista numerowana: ![Przycisk dla listy numerowanej](img/list-numbered.png)
 - Ważne:
-  - All bullets must be surrounded by the list/list type tags.
-  - These are the valid arguments for `TYPE`:
-    - _(empty)_ - bulleted
-    - `1` - numbered
-    - `a` - lettered (lowercased)
-    - `A` - lettered (upper-cased)
-    - `i` - roman numeral (lowercased)
-    - `I` - roman numeral (upper-cased)
-  - By default, bulleted lists uses sqaure bullets.
-  - Lists inside lists are known to be buggy.
+  - Wszystkie punkty muszą znajdować się wewnątrz znacznika Lista.
+  - Istnieje 6 argumentów dla atrybutu `TYPE`:
+    - _(pusty)_ - punkty
+    - `1` - liczby
+    - `a` - litery (małe litery)
+    - `A` - litery (duże litery)
+    - `i` - liczby rzymskie (małe litery)
+    - `I` - liczby rzymskie (duże litery)
+  - Listy umieszczone wewnątrz list mogą być problematyczne.
 - Składnia:
-  - Where `TYPE` is one of the listed types above.
-  - If `TYPE` is not defined, bullets will be used instead.
+  - `TYPE` to jeden z argumentów opisanych powyżej.
+  - Jeżeli `TYPE` nie jest określony, zostanie użyta lista punktowana.
 ```
 [list=TYPE]
 [*]...
@@ -304,45 +300,45 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
 
 ### Obrazek
 
-**Show an image from an online image source**.
+Dodaje obrazek z łącza.
 
-The images can be sourced from anywhere, as long as the image exists from the given url.
+Obrazki mogą być załączane z każdej strony, dopóki znajdują się one w łączach.
 
-**Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
+**Nie dodawaj obrazków używając lokalnej ścieżki dostępu!** Użycie `C:\Users\Name\Pictures\image.jpg` **nie zadziała**.
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+Prosimy o dodawanie zdjęć z wiarygodnych stron internetowych takich jak [imgur](https://imgur.com/ "imgur") czy [puush](https://puush.me/ "puush"). Gdy zdjęcie zostanie przesłane, skopiuj bezpośredni odnośnik do obrazka i wstaw je między znacznik otwierający a zamykający. Miej na uwadze, że niektóre strony nie podają bezpośrednich odnośników do zdjęć. Strony, takie jak te podane powyżej, podają owe odnośniki, ponieważ są to strony oferujące darmowy hosting grafiki.
 
-- Przycisk: ![Image button](img/image.png)
+- Dedykowany przycisk: ![Image button](img/image.png)
 - Ważne:
-  - If you have many images or large images, it is recommended to put them inside a [Box](#box).
+  - Jeśli w poście występuje wiele zdjęć albo zdjęcia o dużym rozmiarze, zaleca się umieszczenie ich w [Bloku](#blok).
 - Składnia:
-  - Where `LINK` is a direct link to an image.
+  - `LINK` to bezpośredni odnośnik do zdjęcia.
 ```
 [img]LINK[/img]
 ```
 
 ### Youtube
 
-Embeds a YouTube video in your post.
+Dodaje wbudowany odtwarzacz dla filmiku z YouTube'a.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - If you have many images or large images, it is recommended to put them inside a [Box](#box).
+  - Jeżeli w poście występuje wiele zdjęć bądź są one duże, zaleca się umieszczenie ich w [Bloku](#blok).
 - Składnia:
-  - Where `VIDEO_ID` is the YouTube video ID (11 characters long), **not** the whole url!
-    - The YouTube video ID is located after the `?v=` url parameter.
+  - `VIDEO_ID` to ID filmiku (11-literowe), **nie** cały link!
+    - ID filmiku jest umieszczone w linku po `?v=`.
 ```
 [youtube]VIDEO_ID[/youtube]
 ```
 
 ### Nagłówek (v1)
 
-Adds a big fancy pink heading.
-This is usually used to denote a new section in your post.
+Dodaje duży różowy nagłówek.
+Zazwyczaj używany w celu zaznaczenia nowej sekcji w poście.
 
-- Przycisk: ![Heading button](img/heading.png)
+- Dedykowany przycisk: ![Heading button](img/heading.png)
 - Ważne:
-  - You must type the syntax yourself.
+  - Wymaga samodzielnego napisania.
 - Składnia:
 ```
 [heading]...[/heading]
@@ -350,13 +346,13 @@ This is usually used to denote a new section in your post.
 
 ### Nagłówek (v2)
 
-Adds a big fancy purple heading with a horizontal line. This is usually used to denote a new section in your post.
+Dodaje duży fioletowy nagłówek z podkreśleniem. Zazwyczaj używany w celu zaznaczenia nowej sekcji w poście.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - This only works in the beatmaps forum!
-  - This only appears after posting, not in preview.
-  - You must type the syntax yourself.
+  - Znacznik ten zadziała tylko w forum Beatmaps!
+  - Znacznik ten pojawi się dopiero po utworzeniu posta, nie w podglądzie.
+  - Wymaga samodzielnego napisania.
 - Składnia:
 ```
 [...]
@@ -364,11 +360,11 @@ Adds a big fancy purple heading with a horizontal line. This is usually used to 
 
 ### Ogłoszenie
 
-Places the paragraph inside a white box.
+Umieszcza akapit wewnątrz białego bloku.
 
-- Przycisk: Brak
+- Dedykowany przycisk: Brak
 - Ważne:
-  - You must type the syntax yourself.
+  - Wymaga samodzielnego napisania.
 - Składnia:
 ```
 [notice]
@@ -380,7 +376,7 @@ Places the paragraph inside a white box.
 
 - Oryginalny post na forum: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) użytkownika [Stefan](https://osu.ppy.sh/users/626907)
 
-### Historia
+### Ciekawostki
 
-- There is a colour bug on in the current osu!web forums, if you use the colour `transparent`, it will make the text transparent.
+- Na starym forum osu! istniał błąd pozwalający na użycie przezroczystego koloru tekstu.
   - Jednakże ten problem został rozwiązany na nowej stronie osu!.
