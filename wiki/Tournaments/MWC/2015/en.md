@@ -28,7 +28,7 @@ The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) is a country-based osu!m
 
 ## Organization
 
-The osu!mania 7K World Cup 2016 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 4K World Cup 2015 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 |---|---|
