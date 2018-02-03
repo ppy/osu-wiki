@@ -122,7 +122,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Group Stage
 
-**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
+**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
 
 - FreeMod
   - [yozuca* - LOVING TRIP (shionelove)](http://osu.ppy.sh/b/964012&m=3) [Another]
