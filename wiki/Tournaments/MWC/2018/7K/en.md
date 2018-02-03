@@ -57,7 +57,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Thailand           | ![][flag_TH] | ![][flag_SG] | Singapore     | **12.00 UTC** | 19.00 UTC +7 | 20.00 UTC +8 |
 | Switzerland        | ![][flag_CH] | ![][flag_CN] | China         | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
 | Germany            | ![][flag_DE] | ![][flag_SG] | Singapore     | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
-| Argentina          | ![][flag_AR] | ![][flag_CN] | China         | **13.00 UTC** | 10.00 UTC *3 | 21.00 UTC +8 |
+| Argentina          | ![][flag_AR] | ![][flag_CN] | China         | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 |
 | Sweden             | ![][flag_SE] | ![][flag_CL] | Chile         | **17.00 UTC** | 18.00 UTC +1 | 14.00 UTC -3 |
 | Norway             | ![][flag_NO] | ![][flag_CA] | Canada        | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 |
 | Argentina          | ![][flag_AR] | ![][flag_CH] | Switzerland   | **17.00 UTC** | 14.00 UTC -3 | 18.00 UTC +1 |
