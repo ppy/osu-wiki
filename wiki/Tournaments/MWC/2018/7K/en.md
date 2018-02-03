@@ -126,17 +126,17 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 **[Download the mappack here! (89 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
 
 - FreeMod
-  - [yozuca* - LOVING TRIP (shionelove)(http://osu.ppy.sh/b/964012&m=3) [Another]]
-  - [Haruki <Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85)(http://osu.ppy.sh/b/1515408&m=3) [do you hear me?]]
-  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi)(http://osu.ppy.sh/b/384381&m=3) [7K Burst! 'Cruel Shower']]
-  - [Camellia - Proluvies (Lenfried-)(http://osu.ppy.sh/b/1536295&m=3) [7K Hard]]
-  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE)(http://osu.ppy.sh/b/1124577&m=3) [\_underjoy's Insane]]
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove)(http://osu.ppy.sh/b/1209101&m=3) [Sulit [HD]]
-  - [ClariS - Anemone -TV MIX- (richardfeder)(http://osu.ppy.sh/b/799473&m=3) [7K Insane]]
-  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya)(http://osu.ppy.sh/b/1038325&m=3) [Kivi's 7K Cruel World]]
-  - [RADWIMPS - Sakusen Kaigi (Level 51)(http://osu.ppy.sh/b/1533313&m=3) [it's criminal!]]
+  - [yozuca\* - LOVING TRIP (shionelove)\[Another\]](http://osu.ppy.sh/b/964012&m=3) 
+  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85)\[do you hear me?\]](http://osu.ppy.sh/b/1515408&m=3) 
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi)\[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/b/384381&m=3) 
+  - [Camellia - Proluvies (Lenfried-)\[7K Hard\]](http://osu.ppy.sh/b/1536295&m=3) 
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE)\[_underjoy's Insane\]](http://osu.ppy.sh/b/1124577&m=3) 
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove)\[Sulit [HD]\]](http://osu.ppy.sh/b/1209101&m=3) 
+  - [ClariS - Anemone -TV MIX- (richardfeder)\[7K Insane\]](http://osu.ppy.sh/b/799473&m=3) 
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya)\[Kivi's 7K Cruel World\]](http://osu.ppy.sh/b/1038325&m=3) 
+  - [RADWIMPS - Sakusen Kaigi (Level 51)\[it's criminal!\]](http://osu.ppy.sh/b/1533313&m=3) 
 - Tiebreaker
-  - [KIVA feat. Qma - Flame Dark (Protastic101)(http://osu.ppy.sh/b/1355805&m=3) [Minseo's 7K Solipsism]]
+  - [KIVA feat. Qma - Flame Dark (Protastic101)\[Minseo's 7K Solipsism\]](http://osu.ppy.sh/b/1355805&m=3) 
 
 ------------------------------------------------------------------------
 
