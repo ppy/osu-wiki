@@ -45,6 +45,44 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!]**(https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml)
+
+------------------------------------------------------------------------
+
+## Match Schedule: Group Stage
+
+### Saturday, 10. February 2018
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Thailand           | ![][flag_TH] | ![][flag_SG] | Singapore     | **12.00 UTC** | 19.00 UTC +7 | 20.00 UTC +8 |
+| Switzerland        | ![][flag_CH] | ![][flag_CN] | China         | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
+| Germany            | ![][flag_DE] | ![][flag_SG] | Singapore     | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
+| Argentina          | ![][flag_AR] | ![][flag_CN] | China         | **13.00 UTC** | 10.00 UTC *3 | 21.00 UTC +8 |
+| Sweden             | ![][flag_SE] | ![][flag_CL] | Chile         | **17.00 UTC** | 18.00 UTC +1 | 14.00 UTC -3 |
+| Norway             | ![][flag_NO] | ![][flag_CA] | Canada        | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 |
+| Argentina          | ![][flag_AR] | ![][flag_CH] | Switzerland   | **17.00 UTC** | 14.00 UTC -3 | 18.00 UTC +1 |
+| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **18.00 UTC** | 22.00 UTC +4 | 10.00 UTC -8 |
+| Norway             | ![][flag_NO] | ![][flag_BR] | Brazil        | **18.00 UTC** | 19.00 UTC +1 | 16.00 UTC -2 |
+| Canada             | ![][flag_CA] | ![][flag_BR] | Brazil        | **19.00 UTC** | 14.00 UTC -5 | 17.00 UTC -2 |
+
+
+### Sunday, 11. February 2018
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Australia          | ![][flag_AU] | ![][flag_CL] | Chile         | **2.00 UTC** | 13.00 UTC +11 | 23.00 (Sat.) UTC +11 |
+| Japan              | ![][flag_JP] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 18.00 (Sat.) UTC -8 |
+| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan         | **11.00 UTC** | 15.00 UTC +4 | 20.00 UTC +9 |
+| Macau              | ![][flag_MO] | ![][flag_KR] | South Korea   | **11.00 UTC** | 19.00 UTC +8 | 20.00 UTC +9 |
+| Indonesia          | ![][flag_ID] | ![][flag_MY] | Malaysia      | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
+| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia     | **12.00 UTC** | 13.00 UTC +1 | 23.00 UTC +11 |
+| Philippines        | ![][flag_PH] | ![][flag_IT] | Italy         | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| Macau              | ![][flag_MO] | ![][flag_FR] | France        | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| United Kingdom     | ![][flag_GB] | ![][flag_PH] | Philippines   | **13.00 UTC** | 13.00 UTC +0 | 21.00 UTC +8 |
+| France             | ![][flag_FR] | ![][flag_KR] | South Korea   | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 |
+| Poland             | ![][flag_PL] | ![][flag_MY] | Malaysia      | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
+| Germany            | ![][flag_DE] | ![][flag_TH] | Thailand      | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
+| United Kingdom     | ![][flag_GB] | ![][flag_IT] | Italy         | **14.00 UTC** | 14.00 UTC +0 | 15.00 UTC +1 |
+| Poland             | ![][flag_PL] | ![][flag_ID] | Indonesia     | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
 
 ------------------------------------------------------------------------
 
@@ -83,7 +121,22 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
-The mappools will be revealed one week in advance of each stage and will be displayed in here whenever that moment takes place.
+### Group Stage
+
+**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
+
+- FreeMod
+  - [yozuca* - LOVING TRIP (shionelove)](http://osu.ppy.sh/b/964012&m=3) [Another]
+  - [Haruki <\Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85)](http://osu.ppy.sh/b/1515408&m=3) [do you hear me?]
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi)](http://osu.ppy.sh/b/384381&m=3) [7K Burst! 'Cruel Shower']
+  - [Camellia - Proluvies (Lenfried-)](http://osu.ppy.sh/b/1536295&m=3) [7K Hard]
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE)](http://osu.ppy.sh/b/1124577&m=3) [_underjoy's Insane]
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove)](http://osu.ppy.sh/b/1209101&m=3) [Sulit [HD]]
+  - [ClariS - Anemone -TV MIX- (richardfeder)](http://osu.ppy.sh/b/799473&m=3) [7K Insane]
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya)](http://osu.ppy.sh/b/1038325&m=3) [Kivi's 7K Cruel World]
+  - [RADWIMPS - Sakusen Kaigi (Level 51)](http://osu.ppy.sh/b/1533313&m=3) [it's criminal!]
+- Tiebreaker
+  - [KIVA feat. Qma - Flame Dark (Protastic101)](http://osu.ppy.sh/b/1355805&m=3) [Minseo's 7K Solipsism]
 
 ------------------------------------------------------------------------
 
