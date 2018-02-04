@@ -142,7 +142,11 @@ OverallDifficulty:4
 ApproachRate:4.8
 ```
 
-*HPDrainRate* specifies how fast the health decreases. However, the definition of this property may be changed in the near future.
+### HP Drain Rate
+
+*HPDrainRate* (HP) specifies how fast the health decreases.
+
+The definition of this property may be changed in the near future.
 
 ### Circle Size
 
