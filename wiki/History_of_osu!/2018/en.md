@@ -18,4 +18,8 @@ In osu!lazer, background blurring and the hidden mod were added. In osu!web, pag
 
 The ability to see star ratings in the osu!direct was backported from osu!lazer. ([Dean Herbert on Twitter](https://twitter.com/ppy/status/958220599783866368)) Lastly, thanks to nekodex, the beatmap leaderboards were revamped. ([ppy/osu-web#2292](https://github.com/ppy/osu-web/pull/2292))
 
+peppy opened a GitHub issue thread to discuss about *passive HP*. ([ppy/osu#1990](https://github.com/ppy/osu/issues/1990))
+
+In osu!lazer, osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hit sounds were added. osu!catch's autoplay was fixed to be more human-like. ([dev changelog 20180128 – ppy blog](https://blog.ppy.sh/dev-changelog-20180128/))
+
 ## February
