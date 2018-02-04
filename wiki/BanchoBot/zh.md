@@ -19,9 +19,9 @@ BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#
 | --------- | ---------------------- | ----------- | ------------- | ---------------- |
 | `HELP`    | 无                   | 返回可用指令的列表                                                    | `!help`                               | （本列表） |
 | `ROLL`    | `[整数]`             | 返回不大于给定整数的随机自然数。如果仅仅输入`!roll`，将会使用默认最大值 100。                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
-| `STATS`   | `<玩家名>`          | 展示目标玩家在目标当前游玩模式中的游戏数据统计                   | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
-| `WHERE`   | `<玩家名>`          | 展示目标用户的当前位置                                                  | `!where Kyubey`                       | "Kyubey is in Russia" |
-| `FAQ`     | `[语言:]<条目>/list`  | 展示目标条目的消息。当输入条目为 `list` 时将返回所有可用条目列表。  | `!faq ping`                           | "Pong!" |
-| `REPORT`  | `<玩家名> <举报原因>` | 向聊天管理员举报某玩家的不当行为。玩家名的空格必须用下划线 `_` 代替。     | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | 无                  | 随机返回玩家要求他人协助修改的一张谱面。                     | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+| `STATS`   | `<玩家名>`          | 显示目标玩家在目标前游玩模式中的游戏数据统计                   | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
+| `WHERE`   | `<玩家名>`          | 显示目标用户的当前位置                                                  | `!where Kyubey`                       | "Kyubey is in Russia" |
+| `FAQ`     | `[语言:]<条目>/list`  | 显示目标条目的相消息。当输入条目为 `list` 时将返回所有可用条目列表。  | `!faq ping`                           | "Pong!" |
+| `REPORT`  | `<玩家名> <举报原因>` | 向聊天管理员举报某玩家的不当行为。玩家名中的空格用下划线 `_` 代替。     | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
+| `REQUEST` | 无                  | 随机返回一玩家要求他人协助修改的谱面。                     | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
 <!-- Note: The !search command is not included because it is no longer working. -->
