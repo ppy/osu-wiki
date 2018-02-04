@@ -133,7 +133,7 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 Difficulty
 ----------
 
-The following 4 difficulty properties are expressed in *stars*, where 0 star means very easy, and 10 stars means very hard.
+The following four difficulty properties are expressed in *stars*, where 0 is very easy, and 10 is very hard.
 
 ```
 HPDrainRate:4
@@ -142,15 +142,15 @@ OverallDifficulty:4
 ApproachRate:4.8
 ```
 
-*HPDrainRate* specifies how fast the health bar decreases. At the time of this writing, the near future definition of this property remains unsettled.
+*HPDrainRate* specifies how fast the health decreases. However, the definition of this property may be changed in the near future.
 
 ### Circle Size
 
-*CircleSize* (CS) defines the size of the hit circles and sliders in the osu!standard mode.
+*CircleSize* (CS) defines the size of the hit objects in the osu!standard mode.
 
-The resulting circle radius in osu!pixels is defined by the formula `32 * (1 - 0.7 * (CircleSize - 5) / 5)`, alternatively written `54.4 - 4.48 * CircleSize`.
+The radius in osu!pixels is defined by the formula `32 * (1 - 0.7 * (CircleSize - 5) / 5)`, alternatively written `54.4 - 4.48 * CircleSize`.
 
-Ranked beatmaps must have a CircleSize value between 2 and 7, inclusive.
+The value of *CircleSize* for ranked beatmaps must stand at from 2 to 7, inclusive.
 
 In osu!mania mode, *CircleSize* is the number of columns.
 
@@ -172,7 +172,7 @@ The width of the hit window is defined by the following table:
 
 ### Approach Rate
 
-*ApproachRate* (AR) defines when hit objects start to fade in relative to when they should be hit.
+*ApproachRate* (AR) defines when hit objects start to fade in relatively to when they should be hit.
 
 ```
                                         X = perfect hit
@@ -200,9 +200,9 @@ SliderMultiplier:1.3
 SliderTickRate:1
 ```
 
-SliderMultiplier (Decimal) specifies a multiplier for the slider velocity. The reference velocity at slider multiplier = 1 is 100 osu!pixels per beat. A slider multiplier of 2 would yield a velocity of 200 osu!pixels per beat. The default slider multiplier is 1.4 when the property is omitted.
+*SliderMultiplier* (Decimal) specifies the multiplier of the slider velocity. The velocity at slider multiplier = 1 is 100 osu!pixels per beat. A slider multiplier of 2 would yield a velocity of 200 osu!pixels per beat. The default slider multiplier is 1.4 when the property is omitted.
 
-SliderTickRate (Decimal) is the number of ticks per beat. It defaults to 1 tick per beat.
+*SliderTickRate* (Decimal) is the number of ticks per beat. The default value is 1 tick per beat.
 
 Events
 ------
