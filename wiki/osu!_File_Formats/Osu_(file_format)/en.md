@@ -142,11 +142,17 @@ OverallDifficulty:4
 ApproachRate:4.8
 ```
 
-*HPDrainRate* specifies how fast the health bar decreases.
+*HPDrainRate* specifies how fast the health bar decreases. At the time of this writing, the near future definition of this property remains unsettled.
 
-TODO: The health bar decreases continuously, but also when the player misses a note. Which of the two this settings affect? How much exactly?
+### Circle Size
 
-*CircleSize* (CS) defines the size of the hit circles and sliders in the osu!standard mode. The resulting circle radius in osu!pixels is defined by the formula `54.4 - 4.48 * CircleSize`. Ranked beatmaps must have a CircleSize value betwenn 2 and 7, inclusive. In osu!mania mode, *CircleSize* is the number of columns.
+*CircleSize* (CS) defines the size of the hit circles and sliders in the osu!standard mode.
+
+The resulting circle radius in osu!pixels is defined by the formula `32 * (1 - 0.7 * (CircleSize - 5) / 5)`, alternatively written `54.4 - 4.48 * CircleSize`.
+
+Ranked beatmaps must have a CircleSize value betwenn 2 and 7, inclusive.
+
+In osu!mania mode, *CircleSize* is the number of columns.
 
 ### Overall Difficulty
 
@@ -196,7 +202,7 @@ SliderTickRate:1
 
 SliderMultiplier (Decimal) specifies a multiplier for the slider velocity. The reference velocity at slider multiplier = 1 is 100 osu!pixels per beat. A slider multiplier of 2 would yield a velocity of 200 osu!pixels per beat. The default slider multiplier is 1.4 when the property is omitted.
 
-TODO: SliderTickRate (Decimal) is the number of ticks per beat. It defaults to 1 tick per beat.
+SliderTickRate (Decimal) is the number of ticks per beat. It defaults to 1 tick per beat.
 
 Events
 ------
