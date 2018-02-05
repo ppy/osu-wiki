@@ -3,8 +3,8 @@
 [Taiko]: /wiki/shared/mode/taiko.png
 [Ctb]: /wiki/shared/mode/catch.png
 [Mania]: /wiki/shared/mode/mania.png
-[Heart]: /wiki/shared/Heart.gif
-[Fire]: /wiki/shared/Fire.gif
+[Heart]: /wiki/shared/icon/heart.gif
+[Fire]: /wiki/shared/icon/flame.gif
 
 # Interface
 

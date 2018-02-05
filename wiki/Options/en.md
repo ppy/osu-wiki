@@ -1,6 +1,6 @@
 # Options
 
-![Options menu](img/options_basic.jpg "Options menu (sidebar on left)")
+![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
 
 Click `Options`, press `O` in the main menu or press `Ctrl` + `O` in almost any screen to access the options sidebar and change the way _osu!_ behaves.
 
@@ -14,7 +14,7 @@ Clicking on this will reset the value back to its default value.
 
 ![General icon](img/general.jpg "General icon")
 
-This section is about your account, langauge settings, and what updates you want your osu!client to receive.
+This section is about your account, language settings, and what updates you want your osu!client to receive.
 
 ### Sign In
 
@@ -77,7 +77,6 @@ If you open the dropdown list for `Release stream`, you will be presented with t
 | Name                          | Effect                                                                 |
 |-------------------------------|------------------------------------------------------------------------|
 | `Stable (Latest)`             | Public release build.                                                  |
-| `Stable (Fallback)`           | "Backup" public build for those experiencing issues.                   |
 | `Beta`                        | Dev build - gets new features early, but buggier.                      |
 | `Cutting Edge (Experimental)` | Dev build - gets new features even earlier, but significantly buggier. |
 
@@ -114,11 +113,9 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 - `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
   - When you are doing anything but playing a beatmap, `240fps` is used instead.
 
-**Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!**
+*Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!* Keep in mind that the higher the fps limit is, the more resources your osu!client will consume!
 
-Keep in mind that the higher the fps limit is, the more resources your osu!client will consume!
-
-Note: when the osu!client is not the active window, the fps limit is dropped to 30fps automatically.
+*Note: when the osu!client is not the active window, the fps limit is dropped to 30fps automatically.*
 
 ### Layout
 
@@ -140,7 +137,7 @@ Note: when the osu!client is not the active window, the fps limit is dropped to 
 | `Background Video`  | Allow background video files to play while playing beatmaps (can be disabled per-beatmap).         | Checkbox | `Enabled`             |
 | `Storyboards`       | Allow beatmap storyboards to be played (can be disabled per-beatmap).                              | Checkbox | `Enabled`             |
 | `Combo Bursts`      | Allow images to burst from the left or right side of the screen upon reaching a combo milestone.   | Checkbox | `Enabled`             |
-| `Hit Lighting`      | A subtle glow behind each hit explosion. Does not disable lighting during Kial Time.               | Checkbox | `Enabled`             |
+| `Hit Lighting`      | A subtle glow behind each hit explosion. Does not disable lighting during Kiai Time.               | Checkbox | `Enabled`             |
 | `Shaders`           | Graphically speaking, concert-type effects. This may be disabled if you computer cannot handle it. | Checkbox | `Disabled`            |
 | `Softening filter`  | Adjusts `shader` to be less flashy. This will automatically enable `Shaders`.                      | Checkbox | `Disabled`            |
 | `Screenshot Format` | Set the screenshot file format to `JPEG (web-friendly)` or `PNG (Lossless)`.                       | Dropdown | `JPEG (web friendly)` |
@@ -291,8 +288,8 @@ This section is about input peripherals.
 | `Disable mouse buttons in play mode`        | Disable mouse buttons during gameplay. This is helpful for keyboard users.                        | Button   | Disabled               |
 | `Cursor ripples`                            | Show subtle ripple effect when the mouse is clicked.                                              | Button   | Disabled               |
 
-- When `Raw Input` is enabled, it will display the number of reports it recieves per second and the latency in milliseconds.
-- The cursor rupple effect can be triggered by pressing `M1` and `M2` during game play.
+- When `Raw Input` is enabled, it will display the number of reports it receives per second and the latency in milliseconds.
+- The cursor ripple effect can be triggered by pressing `M1` and `M2` during game play.
 
 ---
 
@@ -316,7 +313,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 | Name                           | Effect                                                                                                           | Type     | Default    |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|----------|------------|
 | `OS TabletPC support`          | Improves compatibility with graphic tablets and tablet PCs.                                                      | Checkbox | `Disabled` |
-| `Wiimote/TaTaCon Drum support` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via bluetooth before enabling. | Checkbox | `Disabled` |
+| `Wiimote/TaTaCon Drum support` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via Bluetooth before enabling. | Checkbox | `Disabled` |
 
 ## Editor
 
@@ -335,7 +332,7 @@ These options only affect while working inside the beatmap editor or in test mod
 | `Snaking sliders`         | Enable snaking sliders while editing.                                       | Checkbox | `Enabled`  |
 | `Hit animations`          | Enable hit animations while editing.                                        | Checkbox | `Disabled` |
 | `Follow points`           | Enable follow points while editing.                                         | Checkbox | `Enabled`  |
-| `Stacking`                | Stack the hitcircles as if in gameplay.                                     | Checkbox | `Enabled`  |
+| `Stacking`                | Stack the hit circles as if in gameplay.                                    | Checkbox | `Enabled`  |
 
 These options can be manually overwritten by using the `View` menu in the beatmap editor.
 
@@ -398,7 +395,7 @@ This section is about beatmaps, updates, and debugging (cuttingedge only).
 
 These settings are only in cuttingedge.
 
-**Notice**: Restarting the osu!client does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!
+*Caution: Restarting the osu!client does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!*
 
 | Name                              | Effect                                      | Type     | Default    |
 |-----------------------------------|---------------------------------------------|----------|------------|
@@ -421,7 +418,7 @@ These settings are only in cuttingedge.
 
 Last but not least, the osu!client build version.
 
-Here, you can see which build version you currently have and which type of build updates you are reciving.
+Here, you can see which build version you currently have and which type of build updates you are receiving.
 Clicking on this will direct you to the Release Notes using your preferred browser.
 
 The builds are versioned using this scheme:
