@@ -48,7 +48,7 @@ A full set of a brutal aim map that disguises itself as a stream map. [Krimek](h
 
 Mazare Party as a song is a collaboration between 3 popular Japanese vocalists, and likewise the map is a collaboration between 3 popular mappers! 
 
-[ProfessionalBox](https://osu.ppy.sh/u/3250792), [Asahina Momoko](https://osu.ppy.sh/u/3650145), and [Nathan](https://osu.ppy.sh/u/4785223) join forces in a fantastic collab to a fantastic song, with a few lower difficulties by [toybot](https://osu.ppy.sh/u/2848604) and [NeilPerry](https://osu.ppy.sh/u/2848604) to fill out the set.
+[ProfessionalBox](https://osu.ppy.sh/u/3250792), [Asahina Momoko](https://osu.ppy.sh/u/3650145), and [Nathan](https://osu.ppy.sh/u/4785223) join forces in a fantastic collab to a fantastic song, with a few lower difficulties by [toybot](https://osu.ppy.sh/u/2848604) and [NeilPerry](https://osu.ppy.sh/u/841391) to fill out the set.
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu!/responsibility-response.jpg)](https://osu.ppy.sh/community/forums/topics/699480)
 
@@ -132,7 +132,7 @@ It has been featured in the MWC 7K 2016 Quarterfinals and has retained its popul
 
 As the song title suggests, The Scales of Struggle scales the amount of struggle with each step up the difficulty ladder. Ranging from easy peasy to outright warfare, each difficulty tests the waters of speedy technicality for the whole playerbase.
 
-A great collaboration between veteran charter Fullerene- and veteran speedster Staiain, which we're sure you'll enjoy.
+A great collaboration between veteran charter [Fullerene-](https://osu.ppy.sh/u/2531335) and veteran speedster [Staiain](https://osu.ppy.sh/u/86188), which we're sure you'll enjoy.
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu!mania/peace-breaker.jpg)](https://osu.ppy.sh/community/forums/topics/699504)
 
