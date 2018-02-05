@@ -3,9 +3,9 @@
 
 [Mapperは譜面の完成状態に応じて](/wiki/Glossary/#beatmapper)[Work-In-Progress (WIP)もしくは](/wiki/Glossary/#wip)[Pending](/wiki/Beatmaps)(2難易度が必要)のどちらかに譜面を投稿(アップロード)することが出来ます。**Beatmap Submission System (BSS)** \[Ctrl + Shift + U\]を使用して上げることができます。
 
-osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要素(mp3や動画、storyboard)をアップロードし、osu!のサーバーにスレッドをダウンロードリンクと共に用意させます。モデレーターと他のフォーラムメンバーは譜面にコメントやフィードバックする事ができます。最低二人のBATによって譜面が認められた時、その譜面は ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Rankedとなります。
+osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要素(mp3や動画、storyboard)をアップロードし、osu!のサーバーにスレッドをダウンロードリンクと共に用意させます。モデレーターと他のフォーラムメンバーは譜面にコメントやフィードバックする事ができます。最低二人のBATによって譜面が認められた時、その譜面は ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankedとなります。
 
-![Heart icon](/wiki/shared/Heart.gif "Heart icon") Rankされた譜面は[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)サブフォーラムに移動され、[Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist)に追加、 Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist)に含まれるようになり、プロフィールに表示されるようになります。Rankされた譜面をプレイした時、プレイヤーのスコアは [Player Ranking](https://osu.ppy.sh/p/playerranking)でトータルスコアに加算され、プレイヤーは譜面に評価をすることができるようになります。 [Beatmapper Rank](https://osu.ppy.sh/p/mapperranking)
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankされた譜面は[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)サブフォーラムに移動され、[Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist)に追加、 Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist)に含まれるようになり、プロフィールに表示されるようになります。Rankされた譜面をプレイした時、プレイヤーのスコアは [Player Ranking](https://osu.ppy.sh/p/playerranking)でトータルスコアに加算され、プレイヤーは譜面に評価をすることができるようになります。 [Beatmapper Rank](https://osu.ppy.sh/p/mapperranking)
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
@@ -45,29 +45,29 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 Moderatorは譜面の評価に基づいて、譜面のスレッドにシンボルを与えることができます。このシンボルはサブフォーラムでタイトルの次に表示され、最初のPostにも表示されます。これらは譜面が持つことができるシンボルです(最も良い状態から悪い状態まであります):
 
--   ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Heart / ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Flame
--   ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought bubble (Bubble for short)
--   ![Star icon](/wiki/shared/Star.gif "Star icon") Star
+-   ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Heart / ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Flame
+-   ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought bubble (Bubble for short)
+-   ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star
 -   No symbol
--   ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Deranking
--   ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuke
+-   ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Deranking
+-   ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuke
     -   *Graveyard*には1ヶ月間何もしていないと移動させられます。
 
-#### ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Heart
+#### ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Heart
 
-Bubble![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon")がある譜面に二人目のModeratorが承認をすることで、その人が譜面をRankし、Ranked/Approvedに移動された時に自動的にこのシンボルが与えられます。
+Bubble![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon")がある譜面に二人目のModeratorが承認をすることで、その人が譜面をRankし、Ranked/Approvedに移動された時に自動的にこのシンボルが与えられます。
 
-#### ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Flame
+#### ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Flame
 
-レアなシンボルで、Nuke譜面![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon")が持つ技術的な問題がない譜面に与えられ、Rank譜面として扱われますが、長かったり変わったり譜面だったりするので、"Flame"は一般的に高いスキルを持つMapperが楽しい練習として、あるいはトッププレイヤーへの挑戦として作ります。
+レアなシンボルで、Nuke譜面![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon")が持つ技術的な問題がない譜面に与えられ、Rank譜面として扱われますが、長かったり変わったり譜面だったりするので、"Flame"は一般的に高いスキルを持つMapperが楽しい練習として、あるいはトッププレイヤーへの挑戦として作ります。
 
-#### ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble
+#### ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought Bubble
 
-通常は略して"Bubble"(もしくは泡)と呼ばれ、**あらゆる要素がRank条件を満たしたと判断し、Rankにノミネートするとき**に与えられます。 二人目のModeratorが譜面を同様に承認した時、譜面がRank![Heart icon](/wiki/shared/Heart.gif "Heart icon")します。最初のModeratorで見落としがあった場合、二人目のModeratorがStar![Star icon](/wiki/shared/Star.gif "Star icon")に降格させることがありますが、それ以上降格されることはありません。
+通常は略して"Bubble"(もしくは泡)と呼ばれ、**あらゆる要素がRank条件を満たしたと判断し、Rankにノミネートするとき**に与えられます。 二人目のModeratorが譜面を同様に承認した時、譜面がRank![Heart icon](/wiki/shared/icon/heart.gif "Heart icon")します。最初のModeratorで見落としがあった場合、二人目のModeratorがStar![Star icon](/wiki/shared/icon/star.gif "Star icon")に降格させることがありますが、それ以上降格されることはありません。
 
-#### ![Star icon](/wiki/shared/Star.gif "Star icon") Star
+#### ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star
 
-Starは**Moderatorが譜面が良好だと判断しつつも、Bubble![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon")を与える前に向上できることがまだある場合に与えられます。**具体的にはタイミングの微調整やビートの間隔がいくつかの場所で間違っていたり、さらに難易度を追加する必要がある時などです。もし誰かが譜面の状態に大きな変更が必要だと判断した場合は、Starは他のModeratorによって削除されるかもしれません。
+Starは**Moderatorが譜面が良好だと判断しつつも、Bubble![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon")を与える前に向上できることがまだある場合に与えられます。**具体的にはタイミングの微調整やビートの間隔がいくつかの場所で間違っていたり、さらに難易度を追加する必要がある時などです。もし誰かが譜面の状態に大きな変更が必要だと判断した場合は、Starは他のModeratorによって削除されるかもしれません。
 
 これは"Kudosu Star"とは別のものなので混同しないように注意をしてください。KudosuはModderが良いと思った譜面に与えられるもので、それによって譜面の優先順位を変更させることができます。
 
@@ -75,15 +75,15 @@ Starは**Moderatorが譜面が良好だと判断しつつも、Bubble![Thinking 
 
 #### No symbol
 
-全ての譜面は最初に譜面を上げた時、このシンボルなしの状態となっています。ModeratorがStar![Star icon](/wiki/shared/Star.gif "Star icon")を与えるには問題があり、かといってNuke![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon")を与えるほどでもない場合、Modをするときにシンボルを与えません。しかし*特には気にする必要はありません*。Moderatorの提案に従えばStarあるいはBubbleアイコンが手に入ることがあります。
+全ての譜面は最初に譜面を上げた時、このシンボルなしの状態となっています。ModeratorがStar![Star icon](/wiki/shared/icon/star.gif "Star icon")を与えるには問題があり、かといってNuke![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon")を与えるほどでもない場合、Modをするときにシンボルを与えません。しかし*特には気にする必要はありません*。Moderatorの提案に従えばStarあるいはBubbleアイコンが手に入ることがあります。
 
-#### ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Deranking
+#### ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Deranking
 
 Moderatorも人間です。彼らがRankされた譜面で何か問題を見つけた時、Rankのステータスから降格をし、Derank(Unrank)をすることができ、降格をされた譜面のスコアは*リセット*されます。問題が解決すればすぐにRerankされます。
 
 MapperもBSSはRankした譜面にはアップデートを適用することができないので、リクエストをして一時的にUnrankを要求することができます。
 
-#### ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuke
+#### ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuke
 
 このシンボルは酷く間違ったタイミングや、グリッドやタイムライン上でランダムな配置をしたり、Rankを狙うにあたって多くの問題がある**ガイドラインの基本的な物をフォローしていない**譜面に与えられます。
 

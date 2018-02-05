@@ -12,7 +12,7 @@ The following standards apply only to articles saved in the `wiki/` directory.
 
 ### Locales
 
-Listed below are the supported locales for the osu!wiki. If your language is not listed, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)! Remember that osu!web is translated by the osu! community, and that, by opening an issue, it will not guarantee that someone else will translate it for you. If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+Listed below are the properly-supported locales for the osu!wiki.
 
 | File Name | Locale Name | Native Script |
 |-----------|-------------|---------------|
@@ -25,7 +25,14 @@ Listed below are the supported locales for the osu!wiki. If your language is not
 | `pl.md` | Polish | Polski |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ru.md` | Russian | Русский |
+| `sv.md` | Swedish | Svenska |
 | `zh.md` | Chinese (Simplified) | 中文 |
+
+Keep in mind, it is intended that the osu!wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
+
+- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution).
+  - For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article
+- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
 
@@ -444,15 +451,15 @@ When referring to the name of a language, capitalize the first letter of that la
 - The `#spanish` chat channel are for those who speak **Spanish**.
 - The `#french` chat channel are for those who speak **French**.
 
-### Abbreviations
+### Abbreviations and acronyms
 
-When using abbreviations, it is really important to note what the abbreviation means upon their first occurrence. For example:
+When using abbreviations and/or acronyms, it is really important to note what the abbreviations and/or acronyms mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
 
 ```
-The NC (Nightcore) mod is similar to the DT (Double Time) mod. While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
+The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-All abbreviations of **must** be capitalised. For example:
+All abbreviations and acronyms of **must** be capitalised. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -462,6 +469,10 @@ All abbreviations of **must** be capitalised. For example:
 ---
 
 Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbreviation for "for example" (it is the abbreviation for "exercise").
+
+---
+
+When pluralizing acronyms and/or abbreviations, use an apostrophe followed by the letter `s` (`'s`) (e.g. `BN's`, `QAT's`, `GMT's`). If this writing style appears foreign or weird to you, try rewriting the sentence to avoid doing so in the first place.
 
 ### Serial comma
 
@@ -543,4 +554,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Do not pluralize the abbreviation "BN" (never use `BNs`). Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
