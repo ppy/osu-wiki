@@ -45,20 +45,60 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml)**
+
+------------------------------------------------------------------------
+
+## Match Schedule: Group Stage
+
+### Saturday, 10. February 2018
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Thailand           | ![][flag_TH] | ![][flag_SG] | Singapore     | **12.00 UTC** | 19.00 UTC +7 | 20.00 UTC +8 |
+| Switzerland        | ![][flag_CH] | ![][flag_CN] | China         | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
+| Germany            | ![][flag_DE] | ![][flag_SG] | Singapore     | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
+| Argentina          | ![][flag_AR] | ![][flag_CN] | China         | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 |
+| Sweden             | ![][flag_SE] | ![][flag_CL] | Chile         | **17.00 UTC** | 18.00 UTC +1 | 14.00 UTC -3 |
+| Norway             | ![][flag_NO] | ![][flag_CA] | Canada        | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 |
+| Argentina          | ![][flag_AR] | ![][flag_CH] | Switzerland   | **17.00 UTC** | 14.00 UTC -3 | 18.00 UTC +1 |
+| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **18.00 UTC** | 22.00 UTC +4 | 10.00 UTC -8 |
+| Norway             | ![][flag_NO] | ![][flag_BR] | Brazil        | **18.00 UTC** | 19.00 UTC +1 | 16.00 UTC -2 |
+| Canada             | ![][flag_CA] | ![][flag_BR] | Brazil        | **19.00 UTC** | 14.00 UTC -5 | 17.00 UTC -2 |
+
+
+### Sunday, 11. February 2018
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Australia          | ![][flag_AU] | ![][flag_CL] | Chile         | **2.00 UTC** | 13.00 UTC +11 | 23.00 (Sat.) UTC +11 |
+| Japan              | ![][flag_JP] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 18.00 (Sat.) UTC -8 |
+| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan         | **11.00 UTC** | 15.00 UTC +4 | 20.00 UTC +9 |
+| Macau              | ![][flag_MO] | ![][flag_KR] | South Korea   | **11.00 UTC** | 19.00 UTC +8 | 20.00 UTC +9 |
+| Indonesia          | ![][flag_ID] | ![][flag_MY] | Malaysia      | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
+| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia     | **12.00 UTC** | 13.00 UTC +1 | 23.00 UTC +11 |
+| Philippines        | ![][flag_PH] | ![][flag_IT] | Italy         | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| Macau              | ![][flag_MO] | ![][flag_FR] | France        | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
+| United Kingdom     | ![][flag_GB] | ![][flag_PH] | Philippines   | **13.00 UTC** | 13.00 UTC +0 | 21.00 UTC +8 |
+| France             | ![][flag_FR] | ![][flag_KR] | South Korea   | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 |
+| Poland             | ![][flag_PL] | ![][flag_MY] | Malaysia      | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
+| Germany            | ![][flag_DE] | ![][flag_TH] | Thailand      | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
+| United Kingdom     | ![][flag_GB] | ![][flag_IT] | Italy         | **14.00 UTC** | 14.00 UTC +0 | 15.00 UTC +1 |
+| Poland             | ![][flag_PL] | ![][flag_ID] | Indonesia     | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
 
 ------------------------------------------------------------------------
 
 ## Participants
 
-**List of confirmed rosters**
+### Confirmed rosters
 
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Somnium-](https://osu.ppy.sh/users/2037798), [\_\_Yu](https://osu.ppy.sh/users/6253228) |
 | ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Evios](https://osu.ppy.sh/users/2058022), [sankansuki](https://osu.ppy.sh/users/2877926), [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| ![][flag_BR] | **Brazil** | **[Lazarento](https://osu.ppy.sh/users/3224958)**, [Keweft](https://osu.ppy.sh/users/75777), [UrsoManso](https://osu.ppy.sh/users/4569601), [Lothus](https://osu.ppy.sh/users/9530019) |
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)**, [Niisound](https://osu.ppy.sh/users/970979), [Ansymer](https://osu.ppy.sh/users/981144), [Ven](https://osu.ppy.sh/users/3209453) |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903) |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)**, [Wilben_Chan](https://osu.ppy.sh/users/6659363), [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [qx0407](https://osu.ppy.sh/users/10569738) |
+| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Ssauw](https://osu.ppy.sh/users/7484046), [Skorer](https://osu.ppy.sh/users/7861278) |
 | ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)**, [Dualshock](https://osu.ppy.sh/users/1902591), [stankill](https://osu.ppy.sh/users/2583455), [playin14](https://osu.ppy.sh/users/2144038) |
 | ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)**, [projectc1](https://osu.ppy.sh/users/2663343), [lino-sama](https://osu.ppy.sh/users/10364342), [rizalpramana](https://osu.ppy.sh/users/9545578) |
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/users/3461860)**, [HappyOverjoy](https://osu.ppy.sh/users/3244389), [Radius](https://osu.ppy.sh/users/5419711) |
@@ -67,30 +107,36 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)**, [[MY]Idiot](https://osu.ppy.sh/users/2059742), [ZYuan](https://osu.ppy.sh/users/3337688), [cheewee10](https://osu.ppy.sh/users/4477497) |
 | ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [NamesAreRubbish](https://osu.ppy.sh/users/5213962), [masaya](https://osu.ppy.sh/users/5818319), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585) |
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![][flag_PL] | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)**, [Benzopirene](https://osu.ppy.sh/users/1887068), [Lambard](https://osu.ppy.sh/users/6034749), [\_underjoy](https://osu.ppy.sh/users/2235750) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Daleenie](https://osu.ppy.sh/users/1540597), [Kivicat](https://osu.ppy.sh/users/2790640), [MisterPlegas](https://osu.ppy.sh/users/3677208) |
 | ![][flag_SG] | **Singapore** | **[Paralit](https://osu.ppy.sh/users/876528)**, [ByeForNow](https://osu.ppy.sh/users/7199159), [RealmRipper](https://osu.ppy.sh/users/7349397), [Rommmy](https://osu.ppy.sh/users/9262190) |
 | ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [Kim_GodSSI](https://osu.ppy.sh/users/2218047), [Estonians](https://osu.ppy.sh/users/7014697), [ideu-](https://osu.ppy.sh/users/137227) |
 | ![][flag_SE] | **Sweden** | **[Stug](https://osu.ppy.sh/users/4899311)**, [Craty](https://osu.ppy.sh/users/3918056), [Sadcat](https://osu.ppy.sh/users/4123399), [Vortex-](https://osu.ppy.sh/users/4999669) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Gamer97](https://osu.ppy.sh/users/4952941) |
+| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Luxsus_](https://osu.ppy.sh/users/2419363), [\[ - J a c K - \]](https://osu.ppy.sh/users/2880426), [- Hibiki](https://osu.ppy.sh/users/7808720) |
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Pope Gadget](https://osu.ppy.sh/users/2288341), [Traps are Cute](https://osu.ppy.sh/users/3359035), [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
-
-**List of pending rosters**
-
-| | Country | Member |
-| ---: | :---: | :--- |
-| ![][flag_BR] | **Brazil** | **[Lazarento](https://osu.ppy.sh/users/3224958)** |
-| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)** |
-| ![][flag_PL] | **Poland** | **[Kamikaze](https://osu.ppy.sh/users/2124783)** |
-| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)** |
-
-
 
 ------------------------------------------------------------------------
 
 ## Mappools
 
-The mappools will be revealed one week in advance of each stage and will be displayed in here whenever that moment takes place.
+### Group Stage
+
+**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
+
+- FreeMod
+  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](http://osu.ppy.sh/b/964012&m=3) 
+  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](http://osu.ppy.sh/b/1515408&m=3) 
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/b/384381&m=3) 
+  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](http://osu.ppy.sh/b/1536295&m=3) 
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[_underjoy's Insane\]](http://osu.ppy.sh/b/1124577&m=3) 
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](http://osu.ppy.sh/b/1209101&m=3) 
+  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](http://osu.ppy.sh/b/799473&m=3) 
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](http://osu.ppy.sh/b/1038325&m=3) 
+  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/b/1533313&m=3) 
+- Tiebreaker
+  - [KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/b/1355805&m=3) 
 
 ------------------------------------------------------------------------
 
