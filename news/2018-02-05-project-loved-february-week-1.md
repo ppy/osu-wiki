@@ -62,9 +62,9 @@ Since it is a lower star difficulty than the majority of the maps featured this 
 
 I wish you Good Luck in G Major.
 
-[![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu!/grenade.jpg)](https://osu.ppy.sh/s/563413)
+[![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu!/grenade.jpg)](https://osu.ppy.sh/community/forums/topics/699482)
 
-Returning for another chance at Loved after the initial rounds of voting, Grenade by [Nanashima Asami](https://osu.ppy.sh/community/forums/topics/699482) is a very well constructed tech map that has been featured in multiple tournaments. 
+Returning for another chance at Loved after the initial rounds of voting, Grenade by [Nanashima Asami](https://osu.ppy.sh/u/7370134) is a very well constructed tech map that has been featured in multiple tournaments. 
 
 The quality of this map is incredibly high, from the patterning to the rhythm choices, and the song backing it is sure to get your blood pumping!
 
