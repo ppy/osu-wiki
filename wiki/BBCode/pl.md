@@ -29,7 +29,7 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 **Uwydatnij** tekst w **bardziej wyrazisty** sposób niż poprzez [kursywę](#kursywa).
 
-- Dedykowany przycisk: ![Bold button](img/bold.png)
+- Dedykowany przycisk: ![Przycisk dla pogrubienia](img/bold.png)
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
 - Składnia:
@@ -41,7 +41,7 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 **Uwydatnij** tekst w *łagodniejszy* sposób niż poprzez [pogrubienie](#pogrubienie).
 
-- Dedykowany przycisk: ![Italic button](img/italic.png)
+- Dedykowany przycisk: ![Przycisk dla kursywy](img/italic.png)
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika obniży jego efektywność.
 - Składnia:
@@ -65,7 +65,7 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 
 **Dodaje przekreślenie** do tekstu.
 
-- Dedykowany przycisk: ![Strike button](img/strike.png)
+- Dedykowany przycisk: ![Przycisk dla przekreślenia](img/strike.png)
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i spowodować dyskomfort dla oczu.
 - Składnia:
@@ -96,7 +96,7 @@ Sprawdź także [listę kolorów HTML](https://en.wikipedia.org/wiki/X11_color_n
 
 Zmienia rozmiar czcionki tekstu.
 
-- Dedykowany przycisk: ![Font size options](img/font-size.png)
+- Dedykowany przycisk: ![Rozmiar czcionki](img/font-size.png)
 - Ważne:
   - Używaj sporadycznie.
   - Są dostępne tylko 4 rozmiary czcionki:
@@ -130,7 +130,7 @@ Znacznik ten jest użyteczny jeżeli mówisz o kluczowej scenie w serialu, filmi
 
 **Ukrywa tekst** w automatycznie nazwanym bloku. Mimo tego, czytelnik może zobaczyć tekst poprzez naciśnięcie na blok ze spoilerem.
 
-- Dedykowany przycisk: ![Spoilerbox button](img/spoilerbox.png)
+- Dedykowany przycisk: ![Przycisk dla bloku ze spoilerem](img/spoilerbox.png)
 - Ważne:
   - [Blok](#blok) zostanie utworzony z nagłówkiem o nazwie `collapsed text`.
 - Składnia:
@@ -141,8 +141,6 @@ Znacznik ten jest użyteczny jeżeli mówisz o kluczowej scenie w serialu, filmi
 ```
 
 ### Blok
-
-_Blok jest oznaczony na stronie osu! jako Spoiler._
 
 **Ukrywa tekst** w możliwym do nazwania bloku. Mimo tego, czytelnik może zobaczyć tekst poprzez naciśnięcie na blok.
 
@@ -215,7 +213,7 @@ Dodaje łącze.
 
 Nie musisz używać tego znacznika, jeśli nie chcesz, aby za łącze był podstawiony tekst. Forum osu! automatycznie linkują wstawione łącza.
 
-- Dedykowany przycisk: ![URL button](img/url.png)
+- Dedykowany przycisk: ![Przycisk dla łącza](img/url.png)
 - Ważne:
   - Atrybut `LINK` nie powinien znajdować się w cudzysłowach.
 - Składnia:
@@ -308,7 +306,7 @@ Obrazki mogą być załączane z każdej strony, dopóki znajdują się one w ł
 
 Prosimy o dodawanie zdjęć z wiarygodnych stron internetowych takich jak [imgur](https://imgur.com/ "imgur") czy [puush](https://puush.me/ "puush"). Gdy zdjęcie zostanie przesłane, skopiuj bezpośredni odnośnik do obrazka i wstaw je między znacznik otwierający a zamykający. Miej na uwadze, że niektóre strony nie podają bezpośrednich odnośników do zdjęć. Strony, takie jak te podane powyżej, podają owe odnośniki, ponieważ są to strony oferujące darmowy hosting grafiki.
 
-- Dedykowany przycisk: ![Image button](img/image.png)
+- Dedykowany przycisk: ![Przycisk dla obrazka](img/image.png)
 - Ważne:
   - Jeśli w poście występuje wiele zdjęć albo zdjęcia o dużym rozmiarze, zaleca się umieszczenie ich w [Bloku](#blok).
 - Składnia:
@@ -336,7 +334,7 @@ Dodaje wbudowany odtwarzacz dla filmiku z YouTube'a.
 Dodaje duży różowy nagłówek.
 Zazwyczaj używany w celu zaznaczenia nowej sekcji w poście.
 
-- Dedykowany przycisk: ![Heading button](img/heading.png)
+- Dedykowany przycisk: ![Przycisk dla nagłówka](img/heading.png)
 - Ważne:
   - Wymaga samodzielnego napisania.
 - Składnia:
