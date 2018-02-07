@@ -30,6 +30,8 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
+The osu!taiko World Cup 2011 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+
 | Position | Member(s) |
 | --- | --- |
 | Mangement | [![][flag_KR] lepidopodus](https://osu.ppy.sh/users/194807), [![][flag_KR] arien666](https://osu.ppy.sh/users/113646), [![][flag_TW] Alace](https://osu.ppy.sh/users/25993), [![][flag_IL] Noobita](https://osu.ppy.sh/users/119188), [![][flag_HK] wmfchris](https://osu.ppy.sh/users/7401) |
@@ -49,7 +51,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | ![][flag_BRCL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
 | ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), small-qiang |
 | ![][flag_FI] | **Finland** | **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
-| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, _Didou_ |
+| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, Didou |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), RockeDon, [Trashy](https://osu.ppy.sh/users/55191) |
 | ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), Der_Locher, [bennius](https://osu.ppy.sh/users/3129206) |
 | ![][flag_HK] | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
@@ -147,7 +149,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 - FreeMod
   - [\_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) \[Roko-Don's Taiko\]](https://osu.ppy.sh/b/73769)
   - [Bangsili - Ah! Salvia (DJ Cheori Remix Ver.) (ykcarrot) \[Shino's Taiko\]](https://osu.ppy.sh/b/78034)
-  - [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/69595)
+  - [Chai Found Music Workshop - Kikyoku \~Seasons of Asia\~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/69595)
   - [ClariS - Connect (TV Size) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/86199)
   - [Dai2BungeibuBand - KiraKira (Short Ver.) (Tenshi-nyan) \[Ozzy's Taiko\]](https://osu.ppy.sh/b/91077)
   - [fripSide - fortissimo -the ultimate crisis- (osuplayer111) \[Kana's Taiko\]](https://osu.ppy.sh/b/90170)
