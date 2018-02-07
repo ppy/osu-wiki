@@ -1,11 +1,11 @@
 # osu!api
 
-osu! has a public API that third-party services can use to expand and support the osu! platform. It used to be more private, only to be used on a per-request basis, but now anybody can use the API so long as they have an osu! account.
+osu! 有一个公共 API ，第三方服务可以使用这个 API 扩展 osu! 平台。这个 API 在以前是非公开使用的，且只能在每个请求的基础上使用。但现在只要有一个 osu! 账号，任何人都可以使用这个 API 。
 
-You can find documentation of the API at [osu-api's Wiki](https://github.com/ppy/osu-api/wiki). The current version of the API uses private keys to authenticate requests. You can apply for an API key at the [application page](https://osu.ppy.sh/p/api) on osu!'s website.
+你可以在 [osu-api 的 wiki](https://github.com/ppy/osu-api/wiki) 上找到 API 的文档。当前版本的 API 使用私钥来验证请求。你可以在 osu! 网站上的 [应用页面](https://osu.ppy.sh/p/api) 申请一个 API 密钥。
 
-Note that the documentation on the osu!api wiki may not be entirely complete or extensive, and the API itself is not under active development. A new, much more robust API is in the works at [osu-web](https://github.com/ppy/osu-web).
+注意，osu!api wiki 上的文档可能不是完全完整的，而 API 也并不在积极的开发中。 一个新的、更健壮的 API 正在 [osu-web](https://github.com/ppy/osu-web) 上工作。
 
-## See also
+## 参见
 
-- Original forum post: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
+- 最早的论坛帖子： [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
