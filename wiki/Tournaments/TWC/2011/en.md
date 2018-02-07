@@ -30,7 +30,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The osu!taiko World Cup 2011 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2011 was ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | --- | --- |
