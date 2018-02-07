@@ -320,9 +320,9 @@ The osu!taiko World Cup 2011 is ran by various community members by distributing
 The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
 
 1.  More matches won.
-2.  Have bigger {(the number of games won) - (the number of games defeated)}.
+2.  Have bigger `{(the number of games won) - (the number of games defeated)}`.
 3.  More games won.
-4.  Have bigger ∑{(total score difference) / (maximum score)}.
+4.  Have bigger `∑{(total score difference) / (maximum score)}`.
 5.  Winner of the rematch.
 
 Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
