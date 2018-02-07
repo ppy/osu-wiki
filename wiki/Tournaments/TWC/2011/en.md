@@ -30,6 +30,8 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
+The osu!taiko World Cup 2011 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+
 | Position | Member(s) |
 | --- | --- |
 | Mangement | [![][flag_KR] lepidopodus](https://osu.ppy.sh/users/194807), [![][flag_KR] arien666](https://osu.ppy.sh/users/113646), [![][flag_TW] Alace](https://osu.ppy.sh/users/25993), [![][flag_IL] Noobita](https://osu.ppy.sh/users/119188), [![][flag_HK] wmfchris](https://osu.ppy.sh/users/7401) |
@@ -49,7 +51,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | ![][flag_BRCL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
 | ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), small-qiang |
 | ![][flag_FI] | **Finland** | **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
-| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, _Didou_ |
+| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, Didou |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), RockeDon, [Trashy](https://osu.ppy.sh/users/55191) |
 | ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), Der_Locher, [bennius](https://osu.ppy.sh/users/3129206) |
 | ![][flag_HK] | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
@@ -318,9 +320,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
 
 1.  More matches won.
-2.  Have bigger {(the number of games won) - (the number of games defeated)}.
+2.  Have bigger `{(the number of games won) - (the number of games defeated)}`.
 3.  More games won.
-4.  Have bigger ∑{(total score difference) / (maximum score)}.
+4.  Have bigger `∑{(total score difference) / (maximum score)}`.
 5.  Winner of the rematch.
 
 Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
