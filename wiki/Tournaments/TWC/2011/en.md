@@ -87,19 +87,19 @@ The osu!taiko World Cup 2011 is ran by various community members by distributing
 ### Finals
 
 - FreeMod
-  - [Akitaka Toyama - The Carnivorous Carnival (lepidopodus) \[Oni for TWC\]](https://kodoup.astoni.sh/index.php/files/get/H2r-ATj7Wy/akitaka-toyama-the-carnivorous-carnival.osz)
+  - Akitaka Toyama - The Carnivorous Carnival (lepidopodus) \[Oni for TWC\]
   - [Akitaka Toyama - Yozakura Shanikusai (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/99165)
   - [Amuro vs Killer - Mei (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/87775)
-  - [Ayako Saso - Kamikaze Remix (lepidopodus) \[Oni for TWC\]](https://kodoup.astoni.sh/index.php/files/get/nVRZJstxlm/ayako-saso-kamikaze-remix.osz)
+  - Ayako Saso - Kamikaze Remix (lepidopodus) \[Oni for TWC\]
   - [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/b/58061)
   - [DragonForce - Through The Fire And Flames (Lesjuh) \[Taiko\]](https://osu.ppy.sh/b/72404)
   - [Linda AI-CUE - Kita Saitama2000 (zelos) \[Taiko Oni\]](https://osu.ppy.sh/b/88821)
   - [Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/88245)
-  - [ribbon rooms - mint tears (lepidopodus) \[Oni for TWC\]](https://kodoup.astoni.sh/index.php/files/get/rxkfm37UsP/ribbon-room-mint-tears.osz)
+  - ribbon rooms - mint tears (lepidopodus) \[Oni for TWC\]
   - [sampling mastes MEGA - Rotter Tarmination (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/61917)
   - [Taiko no Tatsujin - Haya Saitama2000 (Zekira) \[Oni\]](https://osu.ppy.sh/p/beatmap?b=39076&m=1)
   - [Taiko no Tatusjin - Hataraku2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/51845)
-  - [Zeami - Ryougen no Mai (lepidopodus) \[Oni for TWC\]](https://kodoup.astoni.sh/index.php/files/get/GLeCv7oLZ8/zeami-ryougen-no-mai.osz)
+  - Zeami - Ryougen no Mai (lepidopodus) \[Oni for TWC\]
   - [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/75184)
 - Tiebreaker
   - [Linda-AI-CUE - Shimedore2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/94475)
@@ -111,8 +111,8 @@ The osu!taiko World Cup 2011 is ran by various community members by distributing
   - [Demetori - Jehovah's YaHVeH (happy30) \[Taiko\]](https://osu.ppy.sh/b/45895)
   - [Jonathan Underdown - IN THE ZONE (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/80425)
   - [Len - U.N. Owen was her? (Louis Cyphre) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/78390)
-  - [Linda AI-CUE - Soroban2000 (lepidopodus) \[Oni for TWC\]](https://kodoup.astoni.sh/index.php/files/get/up0P6g-4Bl/linda-ai-cue-soroban2000.osz)
-  - [LindaAI-CUE - X-DAY2000 (arien666) \[Taiko Oni\]](https://osu.ppy.sh/s/13713)
+  - Linda AI-CUE - Soroban2000 (lepidopodus) \[Oni for TWC\]
+  - LindaAI-CUE - X-DAY2000 (arien666) \[Taiko Oni\]
   - [M2U - Blythe (MoonFragrance) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/69725)
   - [Makou - Fermion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/72946)
   - [Maximum the Hormone - What's Up, People? (Louis Cyphre) \[Aru's 666 Taiko\]](https://osu.ppy.sh/b/89363)
@@ -285,7 +285,7 @@ The osu!taiko World Cup 2011 is ran by various community members by distributing
 | 2011-04-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland   | [#1](http://osu.ppy.sh/community/matches/587957) |
-| **Japan** ![][flag_JP]         | **3** | 0 | ![][flag_FI] Germany B | [#1](http://osu.ppy.sh/community/matches/588494) |
+| **Japan** ![][flag_JP]         | **3** | 0 | ![][flag_DE] Germany B | [#1](http://osu.ppy.sh/community/matches/588494) |
 
 | 2011-04-26 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -304,14 +304,14 @@ The osu!taiko World Cup 2011 is ran by various community members by distributing
 | Philippines ![][flag_PH]       | 1 | **3** | ![][flag_CN] **China**               | [#1](http://osu.ppy.sh/community/matches/534652) |
 | Malaysia ![][flag_MY]          | 0 | **3** | ![][flag_ITNL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/535028) |
 | **Taiwan** ![][flag_TW]        | **3** | 2 | ![][flag_FR] France                  | [#1](http://osu.ppy.sh/community/matches/535848) |
-| Finland ![][flag_FI]           | 0 | **3** | ![][flag_FI] **Germany B**           | [#1](http://osu.ppy.sh/community/matches/537311) |
+| Finland ![][flag_FI]           | 0 | **3** | ![][flag_DE] **Germany B**           | [#1](http://osu.ppy.sh/community/matches/537311) |
 | **United States** ![][flag_US] | **3** | 0 | ![][flag_BRCL] Brazil-Chile          | [#1](http://osu.ppy.sh/community/matches/538664) |
 
 | 2011-04-17 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan         | [#1](http://osu.ppy.sh/community/matches/542259) |
 | **China** ![][flag_CN]         | **3** | 0 | ![][flag_MY] Malaysia      | [#1](http://osu.ppy.sh/community/matches/542705) |
-| Philippines ![][flag_PH]       | 0 | **3** | ![][flag_FI] **Germany A** | [#1](http://osu.ppy.sh/community/matches/543150) |
+| Philippines ![][flag_PH]       | 0 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/543150) |
 
 ## Ruleset
 
