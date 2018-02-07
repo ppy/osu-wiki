@@ -37,7 +37,7 @@
 
 ### 斜体
 
-使用比 [粗体](#粗体) **更轻微地强调**单词或段落。
+比 [粗体](#粗体) **更轻微地强调**单词或段落。
 
 - 专用按钮： ![斜体](img/italic.png)
 - 注：
@@ -95,7 +95,7 @@
 
 相对地调整文本大小。
 
-- 专用按钮：![字体大小选项](img/font-size.png)
+- 专用按钮： ![字体大小选项](img/font-size.png)
 - 注：
   - 尽量少用这个标签。
   - 你可以使用的只有 4 种尺寸：
@@ -378,7 +378,7 @@ _不要与 [剧透框](#剧透框) 混淆。_
 
 ## 冷知识
 
-- 最早的论坛帖子：[HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) by [Stefan](https://osu.ppy.sh/users/626907)
+- 最早的论坛帖子： [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) by [Stefan](https://osu.ppy.sh/users/626907)
 
 ### 历史
 
