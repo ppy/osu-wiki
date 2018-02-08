@@ -1,4 +1,12 @@
-# osu! World Cup #1
+---
+tags:
+- OWC #1
+- OWC 1
+- OWC#1
+- OWC1
+---
+osu! World Cup #1
+=====================
 
 ![osu! World Cup #1](logo.png)
 
