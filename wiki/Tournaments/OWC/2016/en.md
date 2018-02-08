@@ -1,3 +1,8 @@
+---
+tags:
+- OWC 2016
+- OWC2016
+---
 # osu! World Cup 2016
 
 ![osu! World Cup 2016](logo.jpg)
