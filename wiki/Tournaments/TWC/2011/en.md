@@ -242,7 +242,7 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 | China ![][flag_CN]      | 1 | **4** | ![][flag_JP] **Japan**     | [#1](http://osu.ppy.sh/community/matches/714056) |
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | -Win by default- |
 
-## Quarterfinals
+### Quarterfinals
 
 | 2011-05-07 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -254,7 +254,7 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 | ---: | :---: | :---: | :--- | :---: |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](http://osu.ppy.sh/community/matches/677605) |
 
-## Group Stage - Week 3
+### Group Stage - Week 3
 
 | 2011-04-29 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -276,7 +276,7 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 | China ![][flag_CN]     | 2 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/633234) |
 | **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland       | [#1](http://osu.ppy.sh/community/matches/633728) |
 
-## Group Stage - Week 2
+### Group Stage - Week 2
 
 | 2011-04-22 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -297,7 +297,7 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 | Germany A ![][flag_DE]      | 1 | **3** | ![][flag_ITNL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/602804) |
 | Brazil-Chile ![][flag_BRCL] | 0 | **3** | ![][flag_PL] **Poland**              | -Win by default- |
 
-## Group Stage - Week 1
+### Group Stage - Week 1
 
 | 2011-04-15 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
