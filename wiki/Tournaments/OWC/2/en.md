@@ -12,16 +12,6 @@ osu! World Cup #2
 
 The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the osu! team. It is the 2nd installment of the osu! World Cup.
 
-
-## Tournament Schedule
-
-| Event | Timestamp |
-| -----:| --------- |
-| Registration Phase | 2011-10-28/2011-11-21 |
-| Group Stage (Round 1) |2011-11-19/2011-11-26 |
-
-`wip lol`
-
 ## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
