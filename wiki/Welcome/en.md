@@ -31,13 +31,13 @@ Beatmapping is the process of a creator creating a beatmap. This process include
 
 _See also: [Modding](/wiki/Modding/#getting-started)._
 
-Modding is the process of users reviewing (or commonly called "modding") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
+Modding is the process of users reviewing (or commonly called "modders") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
 ## Skinning
 
 *See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all of the game modes.
+Skinning allows anyone to change the way *osu!* looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
 ## osu!wiki - How you can help!
 
