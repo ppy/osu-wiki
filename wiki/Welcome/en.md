@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; osu!mania, a key smashing mania.
+Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; osu!mania, a key smashing mania.
 
 ## Common points of interest
 
@@ -19,7 +19,7 @@ Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game m
 
 _See also: [Performance Points](/wiki/Performance_Points)._
 
-Performance Points is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like *osu!*. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
+Performance Points is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
 
 ## Beatmapping
 
@@ -37,7 +37,7 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 *See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Skinning allows anyone to change the way *osu!* looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
 ## osu!wiki - How you can help!
 
