@@ -17,9 +17,9 @@ Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game m
 
 ## Article of the month
 
-_See also: [Ranking Criteria](/wiki/Ranking_Criteria)._
+_See also: [Performance Points](/wiki/Performance_Points)._
 
-Ranking Criteria is a set of rules and guidelines set by the QAT to ensure that every player can expect similar game play throughout every beatmap.
+Performance Points is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like *osu!*. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
 
 ## Beatmapping
 
@@ -33,8 +33,14 @@ _See also: [Modding](/wiki/Modding/#getting-started)._
 
 Modding is the process of users reviewing (or commonly called "modding") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
+## Skinning
+
+*See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+
+Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all of the game modes.
+
 ## osu!wiki - How you can help!
 
-Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
+Since 2016-08-26, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
 
 To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
