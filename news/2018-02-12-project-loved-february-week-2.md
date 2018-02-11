@@ -34,7 +34,7 @@ A long awaited entry into the Loved category, [jesse1412](https://osu.ppy.sh/u/2
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/a-kiss-for-the-flower.jpg)](https://osu.ppy.sh/community/forums/topics/702298)
 
-[Silynn](https://osu.ppy.sh/u/1171628)'s A Kiss for a Flower is an incredibly *iconic* map of an *interesting* and *compassionate* tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine’s Day.
+[Silynn](https://osu.ppy.sh/u/1171628)'s A Kiss for the Flower is an incredibly *iconic* map of an *interesting* and *compassionate* tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine’s Day.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/hime-hime.jpg)](https://osu.ppy.sh/community/forums/topics/702299)
 
