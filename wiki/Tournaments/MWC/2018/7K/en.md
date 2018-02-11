@@ -66,7 +66,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | United States | ![][flag_US] | ![][flag_AU] | Australia   | **4.00 UTC**  | 20.00 (Sat) UTC -8 | 15.00 UTC +11 |
 | Indonesia     | ![][flag_ID] | ![][flag_SG] | Singapore   | **10.00 UTC** | 17.00 UTC +7       | 18.00 UTC +8  |
 | Malaysia      | ![][flag_MY] | ![][flag_DE] | Germany     | **11.00 UTC** | 19.00 UTC +8       | 12.00 UTC +1  |
-| South Korea   | ![][flag_SK] | ![][flag_IT] | Italy       | **12.00 UTC** | 21.00 UTC +9       | 13.00 UTC +1  |
+| South Korea   | ![][flag_KR] | ![][flag_IT] | Italy       | **12.00 UTC** | 21.00 UTC +9       | 13.00 UTC +1  |
 | Chile         | ![][flag_CL] | ![][flag_JP] | Japan       | **13.00 UTC** | 10.00 UTC -3       | 22.00 UTC +9  |
 | France        | ![][flag_FR] | ![][flag_PH] | Philippines | **14.00 UTC** | 15.00 UTC +1       | 22.00 UTC +8  |
 | Brazil        | ![][flag_BR] | ![][flag_AR] | Argentina   | **15.00 UTC** | 13.00 UTC -2       | 12.00 UTC -3  |
@@ -110,7 +110,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Round of 16
 
-**[Download the mappack here! ( MB)]()**
+**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
 
 - Freemod
   - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/b/760452&m=3) 
@@ -168,13 +168,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ---: | :---: | :---: | :--- | :---: |
 | Japan ![][flag_JP] | 2 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39979434) |
 | Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/39988692) |
-| Macau ![][flag_MO] | 0 | 4 | ![][flag_SK] South Korea | [#1](https://osu.ppy.sh/community/matches/39988688) |
+| Macau ![][flag_MO] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39988688) |
 | Indonesia ![][flag_ID] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39988684) |
 | Sweden ![][flag_SE] | 2 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/39990058) |
 | Philippines ![][flag_PH] | 4 | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39990055) |
 | Macau ![][flag_MO] | 3 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/39990063) |
 | United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/39991459) |
-| France ![][flag_FR] | 0 | 4 | ![][flag_SK] South Korea | [#1](https://osu.ppy.sh/community/matches/39991485) |
+| France ![][flag_FR] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39991485) |
 | Poland ![][flag_PL] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39991462) |
 | Germany ![][flag_DE] | 4 | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/39992982) |
 | United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39992995) |
