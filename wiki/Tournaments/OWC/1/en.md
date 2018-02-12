@@ -30,7 +30,7 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The osu! World Cup #1 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup #1 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 - ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993)
 - ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192)
@@ -49,8 +49,6 @@ The osu! World Cup #1 is run by various community members by distributing the mu
 ------------------------------------------------------------
 
 ## Participants
-
-### Confirmed Rosters
 
 | | Country | Team Members |
 | --- | :-------: | ------------ |
