@@ -86,7 +86,7 @@ This mapset, by osu!taiko veteran [OnosakiHito](https://osu.ppy.sh/u/290128), ha
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/mute-city.jpg)](https://osu.ppy.sh/community/forums/topics/702315)
 
-The main draw of this one-diff set is obviously it’s amazing song :^). An enjoyable outing from [Mew104](https://osu.ppy.sh/u/2345156), this has slider gimmicks galore, and a lot of players should be familiar with it as the German TWC Teams warm-up in the past. Enjoy the memes!
+The main draw of this one-diff set is obviously it’s amazing song! An enjoyable outing from [Mew104](https://osu.ppy.sh/u/2345156), this has slider gimmicks galore, and a lot of players should be familiar with it as the German TWC Teams warm-up in the past. Enjoy the memes!
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/move-that-body.jpg)](https://osu.ppy.sh/community/forums/topics/702316)
 
