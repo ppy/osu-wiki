@@ -4,6 +4,8 @@ title: "Project Loved: February Week 2"
 date: 2018-02-12 09:00:00 +0000
 ---
 
+This week's [Project Loved](https://osu.ppy.sh/community/forums/120) community voting for osu! and osu!taiko is now live! There's also a special set of Valentine's Day themed picks for osu!, including some long time community favourites, so come check it out!
+
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
 Hi everyone! Welcome to the [Project Loved](https://osu.ppy.sh/community/forums/120) map showcase for Week 2 of February 2018! Before we begin, I'd like to introduce the structure of voting weeks, since it seemed like last week people were concerned of our lack of acknowledgement for osu!catch.
