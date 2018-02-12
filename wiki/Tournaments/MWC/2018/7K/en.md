@@ -106,6 +106,10 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.png)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 ### Round of 16
