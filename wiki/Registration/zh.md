@@ -1,53 +1,53 @@
-# Registration
+# 注册
 
-## How do I register?
+## 我该怎么注册？
 
-**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the steps below to set up your osu! account.**
+**请注意，无论何时，如果你有多个账号则是违反 [osu! 规则](/wiki/Rules/) 的。按照下面的步骤设置你的 osu! 帐户。**
 
-1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
-![Registration button](Register-1.png "Registration button")
-2. Fill out all fields in the form below and press ``Continue``  
-![Account fields](Register-2.png "Account fields")
-    1. Username          
-        - Maximum of 15 characters
-        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``), dashes (``-``), and spaces (`` ``) are the only characters allowed.
-    2. E-mail Address
-    3. Password
-    4. Note
-    5. Continue
-3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
+1. 在 [主页面](https://osu.ppy.sh) 中，点击 ``I'm new!`` 按钮以开始注册过程。
+![注册按钮](Register-1.png "注册按钮")
+2. 填写表中的所有字段并按下 ``Continue`` 按钮。
+![账号字段](Register-2.png "账号字段")
+    1. 用户名          
+        - 最多 15 个字符。
+        - 只支持字母、数字（``a-z``， ``A-Z``， ``0-9``）、下划线（``_``）、方括号、（``[`` 和 ``]``）、破折号（``-``）与空格（`` ``）。
+    2. 电子邮箱地址
+    3. 密码
+    4. 提示
+    5. ``Continue`` 按钮
+3. 登录进 *osu!* 后，整个注册过程便完成了。你已经成功地注册了你的 *osu!* 账号！
 
-## Logging In to osu!
+## 登录 osu!
 
-### osu! executable
+### osu! 可执行文件
 
-![Register.png](Register-3.png)  
+![osu! 可执行文件](Register-3.png)  
 
-This executable (which should be named `osu!.exe`) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._
+这个可执行文件（应该被命名为 `osu!.exe`）将运行游戏本身。如果游戏需要更新，那么它将会自动执行更新操作。 _注意：你不需要以管理员身份运行 osu! 。如果游戏需要权限，那么它将会自己提示。_
 
-### Options panel
+### 选项面板
 
-*See also: [Options](/wiki/Options)*
+*参见：[选项](/wiki/Options)*
 
-![Login.png](Login.png)
+![登录面板](Login-zh.png)
 
-If this is your first time starting *osu!*, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.
+如果这是你第一次运行 *osu!* ，你将会在游戏界面的左边看见这个登录面板。输入你的用户名和密码并进行登录。
 
-### User panel
+### 用户面板
 
-![Userpanel.png](Userpanel.png)
+![用户面板](Userpanel.png)
 
-Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into *osu!* and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
+如果你正确的输入了用户名和密码，你将会在游戏界面的左上角看到你的用户面板。你现在已经登录进了 *osu!* 并准备好开始玩这个游戏了！你还将会在歌曲选择界面的底部看到你的用户面板，它位于 ``Beatmap Options`` 按钮的右边。
 
 
-What's next?
+下一步该做什么？
 ------------
 
-You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
+你已经准备好开始你的节奏冒险了，继续阅读 [欢迎](/wiki/Welcome/) 页面以开始游玩！不要忘记仔细地阅读 [规则](/wiki/Rules/) ！
 
-If you need in-game assistance, ask the `#help` channel on IRC or post your problem to the forums.
+如果你需要游戏中的帮助，在 IRC 上对 `#help` 频道进行提问或者在论坛中发帖报告你的问题。
 
-To join ``#help``, press `F8` and type ``/join #help``. You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to ``#help``, and click it to join the channel.
+如果需要加入 ``#help`` 频道，按下 `F8` 键并且输入 ``/join #help``。你也可以点击已打开频道右边的黄色按钮![打开频道按钮](Channelopenbutton.png)，向下滚动找到 ``#help`` 频道，点击它即可加入频道。
 
-When in doubt, always remember that:
-> rhythm is just a click away!
+当有疑问时，永远记住：
+> 节奏跃然指上！
