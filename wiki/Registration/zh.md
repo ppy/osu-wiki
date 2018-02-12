@@ -1,47 +1,53 @@
-怎么注册？
-----------
+# Registration
 
-<center>
-**<font size="5">注意你只能拥有一个帐号！创建多个帐号是严重违背 [osu! 规则](ZH:Osu!:Rules "wikilink") 的行为。
-按照以下的步骤来建立你的 osu! 帐号：**</font>
+## How do I register?
 
-</center>
-步骤
-----
+**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the steps below to set up your osu! account.**
 
-<center>
-<span style="font-size:18px">1. 到<span class="plainlinks">[官网](https://osu.ppy.sh)</span>点击右上角的“<b>I'm new!</b>”就可以进入注册页面了。</span>
+1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
+![Registration button](Register-1.png "Registration button")
+2. Fill out all fields in the form below and press ``Continue``  
+![Account fields](Register-2.png "Account fields")
+    1. Username          
+        - Maximum of 15 characters
+        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``), dashes (``-``), and spaces (`` ``) are the only characters allowed.
+    2. E-mail Address
+    3. Password
+    4. Note
+    5. Continue
+3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
 
-<span style="font-size:18px">2. 在注册表单填好所需的资料之后，按下Continue。 </span>
+## Logging In to osu!
 
-| **需要填上的内容：**                                                                                               |
-|--------------------------------------------------------------------------------------------------------------------|
-| **1. 用户名**                                                                                                      |
-| a. 15个英文字符限制                                                                                                |
-| b. 只能用大小写英文字母、阿拉伯数字 ("a-z, A-Z, 0-9")、 下划线("\_")、半角中括号 ("\[" 和 "\]") 以及连接号 ("-")。 |
-| **2. 电子邮箱地址**                                                                                                |
-| **3. 密码**                                                                                                        |
-| **4. 提示**                                                                                                        |
-| **5. 继续**                                                                                                        |
+### osu! executable
 
-<span style="font-size:18px">3. 登陆 osu! </span>
+![Register.png](Register-3.png)  
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
+This executable (which should be named `osu!.exe`) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
+### Options panel
 
-| <b>这个画面的解释</b> |
-|-----------------------|
-| **1. 启动 osu!**      |
-| **2. 玩家面板**       |
-| **3. 登录视窗**       |
+*See also: [Options](/wiki/Options)*
 
-</center>
-然后？
-------
+![Login.png](Login.png)
 
-您的 osu! 旅程已经启航了！您可以继续参照 [欢迎](ZH:Welcome "wikilink") 页面，也请阅读一下 [osu! 规则](ZH:Osu!:Rules "wikilink")！
+If this is your first time starting *osu!*, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.
 
-如果您在游戏里需要帮助，可以在聊天室里输入 /join \#help 加入 \#help 频道（英文限定），或者输入 /join \#chinese 來中频（\#chinese）询问！
+### User panel
 
-节奏就在你的指尖，祝您旅途愉快！
+![Userpanel.png](Userpanel.png)
+
+Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into *osu!* and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
+
+
+What's next?
+------------
+
+You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
+
+If you need in-game assistance, ask the `#help` channel on IRC or post your problem to the forums.
+
+To join ``#help``, press `F8` and type ``/join #help``. You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to ``#help``, and click it to join the channel.
+
+When in doubt, always remember that:
+> rhythm is just a click away!
