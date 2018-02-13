@@ -4,7 +4,7 @@
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
 # Compendium
-This is a compendium of all completed osu! skins.
+Compendium of all completed osu! skins.
 
 - ![][o!s] means the skin contains osu!standard elements.
 - ![][o!c] means the skin contains osu!catch elements.
