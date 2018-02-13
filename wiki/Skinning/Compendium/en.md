@@ -3,13 +3,13 @@
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
-# Skins Compendium
-This is a compendium of all completed osu! skins
+# Compendium
+This is a compendium of all completed osu! skins.
 
-- ![][o!s] This means the skins contains osu!standard elements
-- ![][o!c] This means the skins contains osu!catch elements
-- ![][o!t] This means the skins contains osu!taiko elements
-- ![][o!m] This means the skins contains osu!mania elements
+- ![][o!s] means the skin contains osu!standard elements.
+- ![][o!c] means the skin contains osu!catch elements.
+- ![][o!t] means the skin contains osu!taiko elements.
+- ![][o!m] means the skin contains osu!mania elements.
 
 ## A
 
@@ -120,7 +120,6 @@ This is a compendium of all completed osu! skins
 
 - [Mahou Shoujo Lyrical Nanoha](https://osu.ppy.sh/community/forums/topics/16299) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
 - [Materialist](https://osu.ppy.sh/community/forums/topics/440774) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]
-- [Materialist](https://osu.ppy.sh/community/forums/topics/440774) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]
 - [MaterialStuff](https://osu.ppy.sh/community/forums/topics/659733) by [h3oCharles](https://osu.ppy.sh/users/8712289)![][o!s]![][o!c]
 - [Material Design](https://osu.ppy.sh/community/forums/topics/486167) by [JapanYoshiTheGamer](https://osu.ppy.sh/users/616511)![][o!s]![][o!t]![][o!c]
 - [Medicine Melancholy](https://osu.ppy.sh/community/forums/topics/488355) by [Little Pakan](https://osu.ppy.sh/users/8178299)![][o!s]![][o!t]![][o!c]![][o!m]
@@ -141,7 +140,6 @@ This is a compendium of all completed osu! skins
 
 - [Nacho ♥ Mau](https://osu.ppy.sh/community/forums/topics/108866) by [Rolling Boy](https://osu.ppy.sh/users/1915456)![][o!s]![][o!c]
 - [NeonFX](https://osu.ppy.sh/community/forums/topics/316252) by [O2MasterFX](https://osu.ppy.sh/users/4244842)![][o!s]![][o!m]
-- [Neonlight](https://osu.ppy.sh/community/forums/topics/307973) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]
 - [Neonlight](https://osu.ppy.sh/community/forums/topics/307973) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]
 - [Neon Flower Style](https://osu.ppy.sh/community/forums/topics/376291) by [Haskorion](https://osu.ppy.sh/users/3252321)![][o!s]
 - [NeOsu](https://osu.ppy.sh/community/forums/topics/83087) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!t]![][o!c]
