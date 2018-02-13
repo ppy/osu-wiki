@@ -1,34 +1,33 @@
-# Guide: How to adjust my skin.ini
+# skin.ini
 
-*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini).*
+*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) and [Skinning](https://osu.ppy.sh/help/wiki/Skinning).*
 
 ## What does the skin.ini do?
-The skin.ini determines how _osu!_ will treat some of the files of your skin.
+The skin.ini file can modify the behaviour of certain skinning elements in a skin.
 
-To create a `skin.ini` create a new textfile and name it `skin.ini`. These are the basic commands most skins use. Make sure that you type everything correctly and use a space ` ` after every `:`. *Remember, you aren't forced to add a value to every command! If you do leave one blank, remove it or comment it by prefixing with `//`.*
+To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to have the `Show file extensions` options enabled in windows). Make sure that you type everything correctly and use a space ` ` after every `:`. *Remember, you are not forced to add a value to every command! If you do leave one blank, remove it or comment it by prefixing with `//`.*
 
 ### [General]
-`Name:` The name _osu!_ will give the skin when it gets ex-/imported as .osk.
-`Author:` The name of the creator = your name
-`Version:` Enter the newest version here, `2.5` at the release of this guide. You should never use `latest` here, this can cause bugs with newer versions when they get released.
-`AllowSliderBallTint:` If you want that the slider ball `sliderb` has the same color as your combo colour, type `1` in here. If you don't want this, type `0`.
-`CursorRotate:` If you want that your `cursor` rotates, type `1` in here. If you don't want this, type `0`.
-`CursorExpand:` If you want that your `cursor` gets bigger when you click, type `1` in here. If you don't want this, type `0 `.
-`CursorTrailRotate:` If you want that your `cursortrail` rotates, type `1` in here. if you don't want this, type `0`.
++`Name:` The name of the skin.
++`Author:` The name of the skinner (your in-game name).
++`Version:` The version you want to use. Check [skin.ini](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#versions) for detailed informations about every version.
++`AllowSliderBallTint:` Should the slider ball `sliderb` have the same color as the combo colour it is on? If so, use `1`. If not, use `0`.
++`CursorRotate:` Should the `cursor` rotate? If so, use `1`. If not, use `0`.
++`CursorExpand:` Should the `cursor` expand when the player clicks? If so, use `1`. If not, use `0 `.
++`CursorTrailRotate:` Should the `cursortrail` rotate? If so, use `1`. if not, use `0`.
 
 ### [Colours]
-*Up to 8 combo colours can be used*
-`Combo1:` Type a value `R,G,B` for the last combo colour in here.
-`Combo2:` Type a value `R,G,B` for the first combo colour in here.
-`Combo3:` Type a value `R,G,B` for the second combo colour in here.
-`SliderBorder:` Type a value `R,G,B` for the slider border in here.
-`SliderTrackOverride:` Type a value `R,G,B` for the slider track in here.
+*Note: Up to 8 combo colours can be used*
++`Combo1:` Enter an `R,G,B` value for the last combo colour here.
++`Combo2:` Enter an `R,G,B` value for the first combo colour here.
++`Combo3:` Enter an `R,G,B` value for the second combo colour here.
++`SliderBorder:` Enter an `R,G,B` value for the slider border colour here.
++`SliderTrackOverride:` Enter an `R,G,B` value for the slider track colour here.
 
 ### [Fonts]
-`HitCirclePrefix:` This will determine which image will get used for the numbers on the hitcircles. By default, `default-` will get used.
-`HitCircleOverlap:` This moves the images of the multi-digit numbers towards eachother if u use a positive value or away from eachother if you use a negative value.
-`ScorePrefix:` This will determine which image will get used for the score numbers. By default, `score-` will get used.
-`ScoreOverlap:` This moves the images of the multi-digit numbers towards eachother if u use a positive value or away from eachother if you use a negative value.
-`ComboPrefix:` This will determine which image will get used for the score numbers. By default, `score-` will get used.
-`ComboOverlap:` This moves the images of the multi-digit numbers towards eachother if u use a positive value or away from eachother if you use a negative value.
-
++`HitCirclePrefix:`This will determine which image set will be used for the numbers for the hit circles. The value is the prefix for this image set. By default, `default-` will get used.
++`HitCircleOverlap:` This will adjust the spacing of multi-digit numbers on hit circles. A positive integer will spaces them further apart while negative integers will move them closer.
++`ScorePrefix:` This will determine which image set will be used for the numbers for the score. The value is the prefix for this image set. By default, `score-` will get used.
++`ScoreOverlap:` This will adjust the spacing for the score. A positive integer will spaces them further apart while negative integers will move them closer.
++`ComboPrefix:` This will determine which image set will be used for the numbers for the combo count. The value is the prefix for this image set. By default, `score-` will get used.
++`ComboOverlap:` This will adjust the spacing of multi-digit combos. A positive integer will spaces them further apart while negative integers will move them closer.
