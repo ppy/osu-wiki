@@ -153,14 +153,14 @@ Approach Rate通常缩写为"**AR**"。
 
 点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说Whistle就是Normal音效和Whistle音效的叠加(就是同时播放)
 
-谱面相关颜色设定(Colours)
+谱面相关颜色设定(Colors)
 -------------------------
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Colors section](img/SS_Colors.jpg "Colors section")
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
-这些选项可以直接规定某一串combo的颜色。对于一个谱面来说，combo的颜色是很重要的,一个铺面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。 在页面上点击一个Combo将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击“Remove Combo Colour”会移除最后一个自定义颜色。
+这些选项可以直接规定某一串combo的颜色。对于一个谱面来说，combo的颜色是很重要的,一个铺面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。 在页面上点击一个Combo将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击“Remove Combo Color”会移除最后一个自定义颜色。
 
 ### 谱面背景色(Playfield Background)
 
