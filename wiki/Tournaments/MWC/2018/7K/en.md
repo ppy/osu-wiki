@@ -56,40 +56,20 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 10. February 2018
+### Sunday, 18. February 2018
+
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Thailand           | ![][flag_TH] | ![][flag_SG] | Singapore     | **12.00 UTC** | 19.00 UTC +7 | 20.00 UTC +8 |
-| Switzerland        | ![][flag_CH] | ![][flag_CN] | China         | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
-| Germany            | ![][flag_DE] | ![][flag_SG] | Singapore     | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
-| Argentina          | ![][flag_AR] | ![][flag_CN] | China         | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 |
-| Sweden             | ![][flag_SE] | ![][flag_CL] | Chile         | **17.00 UTC** | 18.00 UTC +1 | 14.00 UTC -3 |
-| Norway             | ![][flag_NO] | ![][flag_CA] | Canada        | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 |
-| Argentina          | ![][flag_AR] | ![][flag_CH] | Switzerland   | **17.00 UTC** | 14.00 UTC -3 | 18.00 UTC +1 |
-| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **18.00 UTC** | 22.00 UTC +4 | 10.00 UTC -8 |
-| Norway             | ![][flag_NO] | ![][flag_BR] | Brazil        | **18.00 UTC** | 19.00 UTC +1 | 16.00 UTC -2 |
-| Canada             | ![][flag_CA] | ![][flag_BR] | Brazil        | **19.00 UTC** | 14.00 UTC -5 | 17.00 UTC -2 |
-
-
-### Sunday, 11. February 2018
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Australia          | ![][flag_AU] | ![][flag_CL] | Chile         | **2.00 UTC** | 13.00 UTC +11 | 23.00 (Sat.) UTC +11 |
-| Japan              | ![][flag_JP] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 18.00 (Sat.) UTC -8 |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan         | **11.00 UTC** | 15.00 UTC +4 | 20.00 UTC +9 |
-| Macau              | ![][flag_MO] | ![][flag_KR] | South Korea   | **11.00 UTC** | 19.00 UTC +8 | 20.00 UTC +9 |
-| Indonesia          | ![][flag_ID] | ![][flag_MY] | Malaysia      | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
-| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia     | **12.00 UTC** | 13.00 UTC +1 | 23.00 UTC +11 |
-| Philippines        | ![][flag_PH] | ![][flag_IT] | Italy         | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
-| Macau              | ![][flag_MO] | ![][flag_FR] | France        | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
-| United Kingdom     | ![][flag_GB] | ![][flag_PH] | Philippines   | **13.00 UTC** | 13.00 UTC +0 | 21.00 UTC +8 |
-| France             | ![][flag_FR] | ![][flag_KR] | South Korea   | **13.00 UTC** | 14.00 UTC +1 | 22.00 UTC +9 |
-| Poland             | ![][flag_PL] | ![][flag_MY] | Malaysia      | **13.00 UTC** | 14.00 UTC +1 | 21.00 UTC +8 |
-| Germany            | ![][flag_DE] | ![][flag_TH] | Thailand      | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
-| United Kingdom     | ![][flag_GB] | ![][flag_IT] | Italy         | **14.00 UTC** | 14.00 UTC +0 | 15.00 UTC +1 |
-| Poland             | ![][flag_PL] | ![][flag_ID] | Indonesia     | **14.00 UTC** | 15.00 UTC +1 | 21.00 UTC +7 |
+| Canada        | ![][flag_CA] | ![][flag_CN] | China       | **3.00 UTC**  | 22:00 (Sat) UTC -5 | 11.00 UTC +8  |
+| United States | ![][flag_US] | ![][flag_AU] | Australia   | **4.00 UTC**  | 20.00 (Sat) UTC -8 | 15.00 UTC +11 |
+| Indonesia     | ![][flag_ID] | ![][flag_SG] | Singapore   | **10.00 UTC** | 17.00 UTC +7       | 18.00 UTC +8  |
+| Malaysia      | ![][flag_MY] | ![][flag_DE] | Germany     | **11.00 UTC** | 19.00 UTC +8       | 12.00 UTC +1  |
+| South Korea   | ![][flag_KR] | ![][flag_IT] | Italy       | **12.00 UTC** | 21.00 UTC +9       | 13.00 UTC +1  |
+| Chile         | ![][flag_CL] | ![][flag_JP] | Japan       | **13.00 UTC** | 10.00 UTC -3       | 22.00 UTC +9  |
+| France        | ![][flag_FR] | ![][flag_PH] | Philippines | **14.00 UTC** | 15.00 UTC +1       | 22.00 UTC +8  |
+| Brazil        | ![][flag_BR] | ![][flag_AR] | Argentina   | **15.00 UTC** | 13.00 UTC -2       | 12.00 UTC -3  |
 
 ------------------------------------------------------------------------
 
@@ -126,7 +106,30 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.png)
+
+------------------------------------------------------------------------
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
+
+- Freemod
+  - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/b/760452&m=3) 
+  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/b/261515&m=3) 
+  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/b/955188&m=3) 
+  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](http://osu.ppy.sh/b/1170409&m=3) 
+  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](http://osu.ppy.sh/b/615683&m=3) 
+  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](http://osu.ppy.sh/b/1206690&m=3) 
+  - [xi - .357 Magnum (Level 51) \[Insane\]](http://osu.ppy.sh/b/1099592&m=3) 
+  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](http://osu.ppy.sh/b/1189760&m=3) 
+  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](http://osu.ppy.sh/b/1186335&m=3) 
+  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](http://osu.ppy.sh/b/293691&m=3) 
+  - [she - gum (spoonguy) \[spoongum\]](http://osu.ppy.sh/b/1546340&m=3)
+- Tiebreaker
+  - [kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](http://osu.ppy.sh/b/1074472&m=3) 
 
 ### Group Stage
 
@@ -144,6 +147,43 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
   - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/b/1533313&m=3) 
 - Tiebreaker
   - [KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/b/1355805&m=3) 
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 10. February 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Thailand ![][flag_TH] | 0 | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/39954578) |
+| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/39954590) |
+| Germany ![][flag_DE] | 1 | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/39956341) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/39956356) |
+| Sweden ![][flag_SE] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/39963811) |
+| Norway ![][flag_NO] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/39963808) |
+| Argentina ![][flag_AR] | 4 | 3 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/39963810) |
+| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39965860) |
+| Norway ![][flag_NO] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/39965793) |
+| Canada ![][flag_CA] | 3 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/39967317) |
+| Australia ![][flag_AU] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/39979395) |
+
+| Sunday, 11. February 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 2 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39979434) |
+| Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/39988692) |
+| Macau ![][flag_MO] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39988688) |
+| Indonesia ![][flag_ID] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39988684) |
+| Sweden ![][flag_SE] | 2 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/39990058) |
+| Philippines ![][flag_PH] | 4 | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39990055) |
+| Macau ![][flag_MO] | 3 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/39990063) |
+| United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/39991459) |
+| France ![][flag_FR] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39991485) |
+| Poland ![][flag_PL] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39991462) |
+| Germany ![][flag_DE] | 4 | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/39992982) |
+| United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39992995) |
+| Poland ![][flag_PL] | 1 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/39992978) |
+
 
 ------------------------------------------------------------------------
 

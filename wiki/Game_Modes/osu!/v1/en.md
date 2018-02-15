@@ -304,7 +304,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 
 **The following will result in health recovery:-**
 
-- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a color combo awards more health).
+- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health).
 - A successful tap on a slider start.
 - The slider ball collected a slider tick successfully.
 - The slider ball touched the end or a reverse arrow of a slider successfully (better judgement at the end tick leads to more health gain).
