@@ -372,7 +372,7 @@ It is suggested to add a subfolder for the images (e.g. `img/` for all and any i
 
 Tables use the GFM syntax.
 
-If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use
+If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
 
 Here is a tool to help visualize tables:
 
@@ -446,7 +446,7 @@ Other brandings that aren't covered by the osu! official branding must use space
 - `osu! client`
 - `osu! wiki`
 
-### Capitalization
+### Capitalisation
 
 #### Article names
 
