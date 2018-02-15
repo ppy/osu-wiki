@@ -212,14 +212,14 @@ Everything from here on is not as detailed and pictured as the basic one. It is 
 
 ##### Insert your twitch.tv chat in the Scene
 
-The basic idea here is, that if spectators are watching your stream in fullscreen, they are unable to follow the chat. So why not include it in your stream? Also, if you watch the video later and maybe have an audio commentary by yourself, you still know what you are referring to. If you are playing *osu!* in fullscreen, this method will requires you to use a 2nd monitor connected with it! If the Color Key step does not work properly for you, try using the BetterTTV plugin and going to the gear icon in chat, and hit Black Chat. Chat must be popped out for this option to show.
+The basic idea here is, that if spectators are watching your stream in fullscreen, they are unable to follow the chat. So why not include it in your stream? Also, if you watch the video later and maybe have an audio commentary by yourself, you still know what you are referring to. If you are playing *osu!* in fullscreen, this method will requires you to use a 2nd monitor connected with it! If the Colour Key step does not work properly for you, try using the BetterTTV plugin and going to the gear icon in chat, and hit Black Chat. Chat must be popped out for this option to show.
 
 1.  Pop out the twitch.tv chat
 2.  `Add a Source` > `Window Capture`
 3.  Choose the popped Twitch Chat, Inner Window
 4.  Disable `Capture Cursor`
 5.  `Set Subregio`n > `Select Region` > Drag the mask, so only the chat messages themselves are in.
-6.  Use Color Key and select the background of your Twitch chat.
+6.  Use Colour Key and select the background of your Twitch chat.
 7.  Approve everything and rearrange your scene.
 
 You might want to add an image behind the captured chat and set its opacity to 50-70 % for better reading.

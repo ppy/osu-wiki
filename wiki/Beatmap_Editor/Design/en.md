@@ -20,7 +20,7 @@ Getting Started
 
     "-" on "Keyframe Control" removes the point again, and the arrows buttons let you jump between more points in the same command for the same SB element.
 
-5.  Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding color line between those points.
+5.  Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding colour line between those points.
 
     Green - Move ; Red - Scale ; Pink - Fade ; Yellow - Rotate ; Light Pink - Colour
 
