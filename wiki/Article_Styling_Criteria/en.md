@@ -554,4 +554,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` nor `Beatmap Nomination Group`.
