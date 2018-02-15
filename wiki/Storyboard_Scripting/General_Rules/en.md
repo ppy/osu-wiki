@@ -61,7 +61,7 @@ States **before the first playtime** (e.g., before the first [circle/slider/spin
 
 States during **playtime** ("draining time", when the player is expected to click on objects to keep their HP bar from draining)
 
--   Pass State if this is the first color combo or if the previous color combo ended with a Geki/Elite Beat! (all 300s in the color combo).
+-   Pass State if this is the first colour combo or if the previous colour combo ended with a Geki/Elite Beat! (all 300s in the colour combo).
 -   Fail State otherwise. Note that there is no state for just Katu/Beat!, unlike in the DS games (which had three states).
     -   In [Taiko](/wiki/Game_Modes/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
     -   In [Catch the Beat](/wiki/Game_Modes/osu!catch), this is always the state that the previous break was. The first playable section will always be Pass State.
