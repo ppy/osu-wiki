@@ -3,71 +3,71 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct) is part of the Ranking Criteria and applies to all existent game modes in _osu!_**
+**注意[行为准则](/wiki/Code_of_Conduct)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
 
-_For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
+_查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。_
 
-Glossary
+术语
 --------
 
-### General Terms
+### 一般术语
 
-- **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
-- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+- **规定（Rules）：** 规定就是**规定**。它们**不是**准则，在**任何**情况下都**不得**违反。
+- **准则（Guidelines）：** 在特殊情况下可以违反准则。这些例外情况必须得到详尽的解释，说明为什么准则遭到违反，为什么不违反准则将影响谱面的整体质量。
 
-### Timing
+### 时间点
 
-- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
-- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
-- **Uninherited Timing point:** A point used to change a map's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
-- **Inherited Timing point:** A point that inherits elements from the previous timing point, and is not used to modify a map's timing. Indicated by a green line in the editor and informally called a `green line`.
-- **Single-BPM Timing:** Timing which only requires one BPM.
-- **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
-- **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
+- **BPM：** `每分钟节拍数`的缩写，用于确定歌曲的节奏。
+- **偏移（Offset）：** 时间点中谱面的开始位置，以毫秒为单位，与歌曲的 BPM 有关。
+- **非继承时间点（Uninherited Timing point）：** 用于改变谱面的 BPM、偏移或者拍子记号的时间点。在编辑器中显示为红色的线，通常称为`红线`。
+- **继承时间点（Inherited Timing point）：** 从上一个时间点继承下来的时间点，不用于修改谱面的时间点。在编辑器中显示为绿色的先，通常称为`绿线`。
+- **单 BPM 时间点（Single-BPM Timing）：** 只需要单一 BPM 的时间点。
+- **多 BPM 时间点（Multi-BPM Timing）：** 随着歌曲的节奏改变 BPM 的时间点，不会因为节奏变化而不规律变化。
+- **变 BPM 时间点（Variable-BPM Timing）：** 会随着节奏变化而不规律地变化的时间点。
 
-### Skinning
+### 皮肤
 
-- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
-- **Hitburst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
-- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
-- **User-specific:** A user’s personal skin which they set in their options menu.
-- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
+- **游戏元素（Gameplay elements）：** 在游戏过程中，玩家与之交互和接受反馈的皮肤元素，不包含在休息（break）时间显示的元素。与游戏相关的元素可以在这个[表格](/wiki/Ranking_Criteria/Skin_Set_List/)中查询。
+- **Hitburst：** 在击中一个元素后显示的元素，提示玩家他们相对于准确时间的点击偏差（300/100/50）。
+- **完整的皮肤组（Complete set）：** 在概述中列出一组皮肤元素。皮肤组是完整的，指的是该组中有所有必须皮肤元素。如果包含可选皮肤元素，则必须包含所有必需元素，但是可以不包含其他可选元素。
+- **用户皮肤（User-specific）：** 玩家在选项菜单中设置的用户皮肤。
+- **谱面皮肤（Beatmap-specific）：** 谱面文件夹中的一组皮肤元素。
 
-### Storyboarding
+### 故事板
 
-- **Storyboard Image:** This refers to the image in the song folder that the storyboard uses.
-- **Sprite:** An object in a storyboard representing an image, or a series of images.
-- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
-- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
-- **Axis Specific Command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
-- **Active:** From the first start time to the last end time of commands in the object.
-- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
-- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
+- **故事板图片（Storyboard Image）：** 指歌曲文件夹中故事板使用的图片。
+- **Sprite：** 故事板中表示一张图片，或者一系列图片的对象。
+- **时间（Time）：** 表示时间线的位置，以毫秒为单位。出现在编辑器的「设计」部分。
+- **命令（Command）：** 它们以各种方式改变 Sprite。命令包含 `Move`（移动），`Scale`（缩放），`Fade`（隐藏）和 `Rotate`（旋转）等等。每一个都有开始时间和结束时间。
+- **坐标轴命令（Axis Specific Command）：** 只会影响特定空间坐标轴的命令，例如 `MoveX` 和 `MoveY`。
+- **Active：** 在对象的命令中，从第一个开始到最后一个结束的时间。
+- **被渲染（Rendered）：** 通常指尚未在屏幕中完全消失的 Sprite。
+- **osu! 像素（osu!pixel）：** 设计标签页中的堆笑尺寸。可以在编辑器屏幕的右上角看到，例如 `x: 104; y: 88`。
 
-## General
+## 一般
 
-### Rules
+### 规定
 
--   **No two hitobjects on the same tick (osu!mania game mode is an exception).** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. Although this may be possible to accomplish while playing, it defeats the purpose of following the rhythm of the song.
--   **Do not overuse kiai time.** The general rule of thumb is one toggle per minute of playtime. Kiai is meant to accent chorus sections, so don't use it just for fountains unless you're doing this rarely. You can toggle kiai off and back on halfway through the chorus if it fits, but using it constantly every few beats/measures is just ridiculous and can distract players.
--   **Do not manually edit anything in an `.osu` file that cannot be changed through the Editor.** The only exceptions are `.osu`-specific storyboards, **slider velocity multipliers** and skin-related options such as SliderBorder and SliderTrackOverride. If non-standard slider velocity multipliers are used, they must be announced in the beatmap description during the modding process.
--   **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
--   **You must have a background image on every difficulty of your map.** If your map has a storyboard, then you can easily fade the background out, but one is still required for the song selection menu, online thumbnail icon, and for players not downloading with video (if the map has one).
--   **Approved Category is only for Marathon maps.** Long maps with over 5 minutes of draining time fit the Approval category. Only then they are allowed to be single difficulty mapsets. If they are below 5 minutes of draining time, a full difficulty spread is needed and the map will have to be ranked instead.
--   **There must not be any unused files in the map's folder** except for the map's `.osb` file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard `.thumb` files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
+-   **两个物件不能出现在同一个时间点上（osu!mania 模式除外）。** 包括圈，滑条的开始和结束，转盘的开始和结束。虽然这么放物件仍然可以完成滑条或者转盘，但它与跟随歌曲节奏的目的相悖。
+-   **不要滥用 Kiai time。** 一条经验法则是每分钟使用一次。Kiai 是为了强调歌曲高潮部分，所以不要经常使用它来获得绚丽的视觉效果。如果合适，你可以在歌曲高潮部分的中途将结束 Kiai，但每隔几个节拍 / 小节就使用 Kiai 是不合适的，
+-   **不要手动编辑 `.osu` 文件中的编辑器无法修改的内容。** 例外是：`.osu` 自身的故事板，**滑条速度倍速（Slider velocity multipliers）** 和皮肤相关的选项，比如 SliderBorder 和 SliderTrackOverride。如果使用了非标准滑条速率倍速，它们必须在 Modding 过程中在谱面描述中指明。
+-   **背景 / 故事板 / 视频的内容不得有任何色情内容。** 包括裸体、近裸体、性暗示、暴力和滥用毒品等等。保持 PG，适合 12 岁以上。图像分级应该在这之上：能在所有观众的电视、公告标志上显示，且其内容不需要在任何国家进行审查。
+-   **你必须为你的谱面的每个难度设置背景图片。** 如果谱面上有故事板，则你可以轻易地淡出背景，但歌曲选择菜单、网站上的缩略图和选择不下载视频（如果谱面有视频）的玩家仍然需要谱面拥有背景图片。
+-   **Approval 类别只适用于马拉松图。** 具有超过 5 分钟的 Draining 时间的长谱面符合这个类别。只有这种情况，这些谱面才能成为单难度谱面包。如果谱面的 Draining 时间小于 5 分钟，则需要完整的难度分布，且应该成为 Ranked 谱面。
+-   **谱面文件夹中不能有任何未使用文件，** 除了谱面的 `.osb` 文件（因为即使谱面没有故事板，有时也会添加这些文件）和故事板的 `.thumb` 文件（因为它们是在图片文件夹中自动添加的）。未使用的文件会增加谱面的大小，这是没有必要的。
 
-### Guidelines
+### 准则
 
--   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.
--   **Kiai should be consistent throughout difficulties** of your mapset (especially since it is shown on the main menu). If you have a guest difficulty from another mapper that uses different kiai, then it's fine as long as it still makes sense.
--   **Kiai should start on a white tick** (or more commonly, the big white tick called the [downbeat](/wiki/Glossary/#downbeat)) of a measure. Generally, the main part of the chorus will start at this point.
--   **The song should not be too long.** Aim for 3 minutes maximum; anything longer gets tiring. If you need help editing a song down to length, feel free to ask in the Beatmap [General Questions]( https://osu.ppy.sh/forum/56) forum.
--   **Options such as letterboxing, countdown, and audio lead-in should be consistent between difficulties.** Having cohesive settings throughout your mapset will look much more professional, although there are always scenarios where this is impossible. One difficulty might start at the beginning of the `.mp3`, where a countdown is impossible but an audio lead-in is absolutely necessary; while another difficulty may start a few seconds in, where a countdown is usable but an audio lead-in is senseless.
--   **Try to keep osz files under 10MB, or 30MB if you include a video/storyboard.** Videos and storyboards can generally be decreased in size by lowering the quality of the video or trimming/resizing storyboard elements.
+-   **确保你可以通过谱面包中的每个难度。** 不断测试（玩）你的谱面是发现错误和更正问题的最佳方法之一。
+-   **Kiai 应该在每一张谱面中保持一致。**（因为它们会在主菜单中播放。如果你的某个来自其他作图者的谱面使用了不同的 Kiai，只要适合歌曲，是可以的。
+-   **Kiai 应该从一个白节奏点开始。**（或者更常见的是，从大的白节奏点 [下拍](/wiki/Glossary/#downbeat) 开始）。一般来说，歌曲的高潮部分从这里开始。
+-   **歌曲不应该太长。** 最多 3 分钟，更长的话会感觉很累。如果你在剪短歌曲长度上需要帮助，请在谱面论坛的[一般问题](https://osu.ppy.sh/forum/56) 中提出。
+-   **所有难度应该保持设置一致，例如 Letterboxing，倒计时和歌曲导入时间（AudioLeadIn）。** 在整个谱面包中使用相同的设置会看起来更专业，尽管不能绝对做到。一个谱面可能立即开始，在这时使用倒计时是不可能的，但使用歌曲导入时间是非常必要的；而另一个谱面可能在几秒种后开始，这时使用倒计时是可以的，但是使用歌曲导入时间迟是不合适的。
+-   **osz 文件的大小最好在 10MB 以下，如果你包含视频或故事板，最好在 30MB 以下。** 视频和故事板通常可以通过降低视频的质量和修剪 / 调整故事板中元素的大小来减少尺寸。
 
-## Mapset
+## 谱面包
 
-### Rules
+### 规定
 
 -   **Mapsets must have at least two difficulties of the same game mode, one of which must be an Easy/Normal level.** It is possible for Marathon difficulties to have only 1 difficulty, but it must be named Marathon for the BSS to allow the submission to pending.
 -   **The mapset must have a well-designed spread of difficulties, containing at least an Easy or a Normal difficulty.** This is so that players of all levels of experience are able to enjoy maps of the songs they love.
@@ -83,113 +83,113 @@ Glossary
 -   **Having just one osu!catch specific difficulty is allowed within an osu! standard mapset, if it is not an Extra level difficulty.** If you wish to add a CtB-specific Extra level difficulty into a osu! standard mapset, you must at least add another CtB-specific Insane difficulty. osu! difficulties are converted correctly into osu!catch. However, in mapsets without osu! standard difficulties you must create a full spreaded CtB set, as osu!taiko and osu!mania difficulties can not be converted into osu!catch.
 -   **No guest mapper should have more difficulties in the mapset than the creator, all modes together**. For collaboration mapsets, the uploader should take part in all [collab](/wiki/Glossary/#collab) difficulties. The person who should upload the map is the one who contributed most to it. Maps with an ambiguous set of difficulties such as collabs will be evaluated on a case-by-case basis to ensure that the submitting mapper is properly accounted for.
 
-### Guidelines
+### 准则
 
 -   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
 -   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
 
-## Metadata
+## 元数据
 
-### Rules
+### 规定
 
--   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
--   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
--   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the `Romanised Title` field.** As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. Refer to the [Wikipedia page on hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for more information. Loan words should be expressed using romanisation from the original language.
--   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/community/forums/topics/244684) for more information.
--   **Vocaloids can be featured within the artist section if the producer/composer includes it via official sources.** This ensures that we enforce metadata being accurate in all cases.
--   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as `Short Ver.`, `TV Size` and so forth unless those markers are part of the official song title as listed by a reputable source.
--   **Only use the Source field if the song comes from or was made famous by a video game, movie, or series.** Website names are not an acceptable Artist nor Source.
--   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
--   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
+-   **元数据（Metadata）在所有难度中保持一致。** 这是为了保证谱面包的搜索结果是一致和清晰的。
+-   **东方的艺术家必须以正确的「姓氏名字」格式填写**（比如：日本人/中国人/韩国人）。对于有更好的罗马音的艺术家，使用罗马音。如果你不确定艺术家的名字，可以查看过去的 Rank 谱面，谷歌，维基百科，或者向 BN 寻求帮助。
+-   **带有日文名称的歌曲必须在「罗马音名称」字段使用修改后的赫本罗马化方法。** 作为一个非 Unicode 域，长元音如 `おう` 和 `うう` 应该写作罗马音 `ou` 和 `uu`，以避免长元音符号。更多有关信息，请参阅关于[赫本罗马化的维基百科页面](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanizatio)，外来词应使用原始的罗马音表达形式。
+-   **带有中文名称的歌曲使用拼音：一个字一个拼音，首字母大写，空格隔开。** 如果有正式的罗马音，则应该使用正式的罗马音。外来词应使用原始的罗马音表达形式。有关信息，请参阅[帖子 - 中文罗马化](https://osu.ppy.sh/community/forums/topics/244684)。
+-   **如果 P主 / 作曲者使用了 Vocaloid 音源，则在艺术家（Artist）字段中可以包含这个音源。**（比如，使用 `feat. Hatsune Miku` 初音未来。）这保证我们在所有情况下强制执行的元数据都是准确的。
+-   **不要修改歌曲的标题。** 包括添加任何标记来描述歌曲版本，例如 `Short Ver`，`TV Size` 等等，除非这个歌曲名称是由权威的来源列出的官方名称。
+-   **当且仅当歌曲出自游戏、电影或者某个系列，或者因此成名时才使用来源（Source）字段。** 网站链接不是可接受的艺术家或来源。
+-   **由同人圈的作曲者创作的歌曲应该将这个圈子列为主要作曲者。**（比如，Touhou 东方）唯一的例外是当这个圈子以这个作曲家的名字而闻名。在这种情况下，可以使用它们自己的作曲家名称。（比如，07th Expantion 龙骑士007）
+-   **如果有客串作图者，谱面包中必须有多个谱面贡献者的信息。** 可以通过谱面创建者的留言、故事板、难度命名。你只需提供客串作图者和协助者的信息。**客串作图者必须添加到谱面包的标签（Tag）中。** 这有助于其他人知道谱面上传者是否是谱面的主要贡献者，以及谁对这张谱面做了贡献。
 
-## Timing
+## 时间点
 
-### Rules
+### 规定
 
--   **Uninherited timing points must be used to accurately map the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For time signatures unsupported in the editor, metronome resets or editing of the `.osu` file are acceptable.
--   **Maps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
--   **Uninherited timing points must be the same in every difficulty of a mapset.** Each point must have the same BPM and offset in each difficulty.
--   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Resetting metronomes to be as musically accurate as possible through uninherited timing points is acceptable.
--   **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
--   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
--   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
--   **If objects cannot be snapped using the editor’s supported beat snap divisors, a change in BPM must be used to accommodate for it.** Objects cannot be unsnapped.
--   **An object which is wrongly snapped due to passing through a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
--   **An object which is wrongly snapped due to ending slightly before a new uninherited timing point must have its end snapped to the new timing point.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
+-   **必须使用非继承时间点来准确地定位歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个下拍（Downbeat）添加非继承时间点以重置拍子记号。对于编辑器中不支持的拍子记号，可以将节拍器重置或编辑 `.osu` 文件。
+-   **有单 BPM 和多 BPM 时间点的谱面必须将每个音符对准。** 这意味着 BPM 和偏移与歌曲完全同步。
+-   **非继承时间点在谱面包的每个难度中必须相同。** 每个时间点在每个难度中必须有相同的 BPM 和偏移。
+-   **任何难度都不能有额外的非继承时间点。** 这可能会影响主菜单脉特效、NightCore 模式，由于毫秒舍入误差而导致时间偏移。可以通过设置非继承时间点将节拍器重置，以尽可能准确地贴合音乐。
+-   **不能将两个非继承或两个继承定时点放置在同一点。** 将两个非继承或两个继承定时点彼此重叠将导致滑块速度和音量设置的错误行为。
+-   **继承时间点不能放在第一个非继承时间点之前。** 如果没有任何要继承的设置，继承时间点将无法正常工作。如果要在第一个非继承时间点之前修改敲击音效或滑块速度，则必须将其后移一个完整的拍子，以便可以使用继承时间点。
+-   **地图的第一个非继承点不能用于切换 Kiai。** 这样做将导致 Kiai 在其出现之前闪烁。必须使用与第一个非继承点位置相同的继承点来切换 Kiai。
+-   **如果无法使用编辑器中的节拍分割线来定位物件，则必须更改 BPM 来定位对象。** 物件不能解除锁定。
+-   **由于新的非继承时间点而被错误对齐的物件必须在新的时间部分内对齐其末端。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
+-   **由于在新的非继承时间点之前结束而被错误对齐的物件尾部必与新的时间点对齐。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
 
-### Guidelines
+### 准则
 
--   **Maps with Variable-BPM timing should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offset are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
+-   **具有可变 BPM 时间点的谱面应该尽可能准确地对准音符，不会应该对游戏产生负面影响。** 你的 BPM 和偏移应该大多与歌曲同步，但也可以包括一些小的更改，以获得更好地游戏体验。休息时间和转盘中的复杂 Timing 是可选的。
 
-## Audio
+## 音频
 
-### Rules
+### 规定
 
--   **A beatmap set may only contain one music file used by all difficulties.** Multiple music files within a single beatmap set is unsupported by osu! and results in unexpected behaviour with preview times, metadata, etc.
--   **The song's audio file must be of reasonable quality.** Try and source `.mp3` files yourself; ripping them from a streaming video site often results in low quality audio with high file sizes. The bitrate of a beatmap's audio file must be no lower than 128kbps and no higher than 192kbps. If you are having trouble acquiring an appropriate audio file, contact one of the more audio-savvy BN; they will be more than happy to help find an `.mp3` for you.
--   **The minimum draining (play) time for a map is 30 seconds** (but the recommended minimum is 45 seconds). If your map is shorter than that, then try looping the song with an audio editing program. This is so each map gives a high enough score, and also so people do not try and cut songs too short for no reason, thus stopping people from enjoying the song fully.
--   **You must cut your `.mp3` if you're using less than 80% of it.** This doesn't count intro time, and thus only applies if more than 20% of the outro is unmapped. If you only plan to map a portion of your song, then including the full `.mp3` is a waste of file space. Many `.mp3` editing tools [like mp3DirectCut](https://osu.ppy.sh/community/forums/topics/34303) exist which make fading and cutting a song simple. However, if you have a legitimate reason for keeping your full `.mp3` (e.g. a storyboard after the map ends), then that is fine.
--   **You must use hitsounds.** Without these, things get way too monotonous as you are throwing away one of the main elements of variation present in mapping. You don't need to place them on every note (and are discouraged from doing so), but they must at least be frequently heard when playing.
--   **Hitsounds must be in `.wav`.** Hitsounds in `.wav` format are preferred, as `.mp3` files will not loop correctly and have a short delay, between 0ms and 20ms, but `.mp3` is allowed only for a special purpose for the beatmap, like the usage of `reverse cymbal` that have delay on the start. Note that using ogg is unrankable.
--   **Hitsounds from notes and sliders must be audible.** These provide feedback for the player, and having them silent in a rhythm game doesn't make much sense. If you don't like the default sounds, then find replacements rather than silencing notes. You can use hitsounds from the [Custom Hitsound Library](https://osu.ppy.sh/community/forums/topics/15407) or easily find others online. Lowering the volume of a few notes to provide a dampened effect is usually fine, but complete silence is always unacceptable. The end of a spinner (or even the entire spinner) the sliding sound of a slider, and the end of a slider can be silent, but only do it if it makes sense. Finally, you cannot silence both slider ticks and slider slides together.
--   **Do not use sliderslide, sliderwhistle, and spinnerspin hitsounds in a way that would replicate a hitsound on a circle, slider start, slider end, slider tick, or slider repeat.** Sliderslide, sliderwhistle, and spinnerspin hitsounds are considered continuous hitsounds, meaning that their files play from start to end and loop as one continuous sound for the length of the held object. Do not alter any section of a held object to play a single hitsound.
--   **Songs/Maps with mature lyrics/themes must be marked with a label such as `18+` in the map's thread.** This game is for all ages, and so a warning is needed for younger audiences. There is currently no way to distinguish this outside of the map's thread, but this may change in the future.
--   **Each difficulty of the mapset must have a preview point set** (and be consistent in every difficulty). This is used for both the song selection menu and the online thumbnail preview.
--   **Every `.wav` file must be at least 100ms long** to prevent issues with soundcards. If you want a silent/blank hitsound, then you must use a [0-byte wave file](https://up.ppy.sh/files/blank.wav).
-    **Note:** Due to a technical issue having any files that are 0 bytes in size in the beatmap folder will cause files after the (first) 0-byte file to be missing. Please do NOT use any 0-byte files. The one linked above is 44KB in size and won't cause issues.
--   **Hitsounds must have an acceptable range of delay under 5ms.** Every hitsound file should start in time, preferrably at 0ms. This is to ensure that every map doesn't sound mistimed, and therefore could provide acceptably synchronized rhythm feedback to players.
+-   **谱面包中只包含一个音频文件，所有难度使用同一个音频文件。** osu! 不支持单谱面包中的多个音乐文件，这会导致具有预览时间、元数据等出现错误。
+-   **歌曲的音频文件必须具有合理的质量。** 请自己寻找合适质量的 `.mp3`；从视频站点提取的音频通常是体积较大质量较差的音频。谱面音频文件的比特率必须不低于 128kbps 且不高于 192kbps。如果您在获取适当的音频文件时遇到问题，请联系精通音频的 BN 之一；他们会非常乐意帮助你找到一个合适的 `.mp3`。
+-   **谱面的最小游戏（打图）时间为 30 秒（但建议的最小值为 45 秒）。** 如果您的谱面比这短，则可以使用音频编辑程序循环播放歌曲。这是因为每张地图都应当有足够高的分数，通常人们不会无缘无故地把歌曲做得太短，从而使听众无法充分欣赏这首歌。
+-   **如果你使用不到 80%，你必须剪这个 `.mp3`。** 这不包括前奏时间，仅适用于超过 20% 的曲尾未使用的情况。如果您只计想将歌曲的一部分做成谱面，那么包括完整的 `.mp3` 是对文件空间的浪费。许多 `.mp3` 编辑工具（比如 [mp3DirectCut](https://osu.ppy.sh/community/forums/topics/34303)）使得歌曲渐变和剪辑变得简单。但是，如果你有正当的理由使用完整的 `.mp3`（例如地图结束后的故事板），那么也可以使用。
+-   **必须使用敲击音效。** 如果没有这些音效，谱面就会显得过于单调，它们是使谱面富于变化的主要元素之一。你不需要把它们放在每一个音符上（也不鼓励这样做），但至少在打图时必须经常听到它们。
+-   **音效必须使用 `.wav` 格式。** `.wav` 格式的音效是首选的，而 `.mp3` 文件无法正确循环，`.wav` 延迟很短，介于 0 毫秒和 20 毫秒之间，但是 `.mp3` 可以在特殊情况下使用，例如 `reverse cymbal` 一开始就有延迟。请注意，使用 ogg 格式的谱面是 Unrankable（不能被 Rank ）的。
+-   **音符和滑条的敲击音效不能没有声音。** 它们为玩家提供反馈，不应该让它们在节奏游戏中静音。如果你不喜欢默认声音，请查找替换音而不是使其静音。你可以使用[自定义音效库](https://osu.ppy.sh/community/forums/topics/15407) 或者在网上找其他人的音效使用。可以降低几个音符的音量来提供阻尼效果，但是不能完全使其静音。转盘尾（甚至整个转盘）、滑条的滑动声音和滑块尾可以静音，但只能在恰当的时候才这样做。最后，不能同时静音滑条节奏点和滑条滑块。
+-   **请勿使用 Sliderslide，Sliderwhistle，和 Spinnerspin 音效，它们会使用圈、滑条头、滑条尾、滑条节奏点或折返滑条上的敲击音效。** Sliderslide、Sliderwhistle 和 Spinnerspin 音效被视为连续音效，这意味着它们的音频文件从开始起作为一个连续声音循环播放直至结束播放，播放时间为整个物件的长度。不要修改该物件的任何部分来播放单个音效。
+-   **带有少儿不宜内容的歌词/主题的歌曲/谱面的帖子中必须带有例如 `18+` 这样的标签。** 这款游戏适合所有年龄段的人，因此需要提醒年轻观众。目前无法在谱面贴之外区分这一点，但将来可能会有所改变。
+-   **谱面包的每个难度都必须有一个预览时间点（并在每一个困难中保持一致）。** 这用于歌曲选择菜单和在线缩略图预览。
+-   **每一个 `.wav` 文件长度必须至少为 100 毫秒，** 以防止声卡解析时出现问题。如果你想要使用无声/空白的敲击音效，则必须使用 [0 字节波形文件](https://up.ppy.sh/files/blank.wav)。
+    **注：** 由于技术问题，谱面文件夹中任何大小为 0 字节的文件都将导致（第一个）0 字节文件之后的文件丢失。请不要使用任何 0 字节文件。上面链接中的文件大小为 44KB，不会引起问题。
+-   **敲击音效的延迟范围必须小于 5 毫秒。** 每一个敲击音效文件应该及时开始，最好在 0 毫秒。这是为了保证每张谱面听起来不会出现时间偏差，从而向玩家提供可接受的节奏反馈。
 
-### Guidelines
+### 准则
 
--   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
+-   **不要使用故事板的音效。** 如果玩家错过了故事版中的音效对应的物件，这个音效也会将被播放（这是一个利用音效反馈的节奏游戏，这么做没有多大意义）。另外，在没有物件的地方，故事板的音效会让玩家误以为有一些看不见的物件，这也是不合理的。
 
-## Video
+## 视频
 
-### Rules
+### 规定
 
--   **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported by `.osz2` and will result in errors during upload and processing.
--   **The video's dimensions must not exceed 1280x720.** As well, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
--   **The video's offset must be correct and consistent between difficulties** so that it follows the music how it was originally meant to be.
--   **The video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap.
+-   **谱面包不能包含多个背景视频文件。** `.osz2` 不支持单个谱面包中包含多个视频，将在上载和处理时导致错误。
+-   **视频的尺寸不得超过 1280x720。** 同样，应该避免较低分辨率的视频放大到较高分辨率。这样可保证视频文件不会变得过大或占用过多空间。
+-   **视频偏移必须正确且在每个难度中保持一致，** 这样视频就能准确地跟随音乐。
+-   **视频的音频轨道必须从视频文件中删除。** 视频中的音频轨道不用于 osu!，因此删除它会减小谱面文件大小。
 
-## Skinning
+## 皮肤
 
-### Rules
+### 规定
 
--   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
--   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
--   **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
--   **Do not make any gameplay elements larger than their recommended skin dimensions.** Elements like this may affect gameplay performance, and thus having them in a different size should be avoided. Elements that are not tagged as gameplay-relevant may use a different dimension and if no recommended size is given; this variable is left up to the skinner.
--   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found on the [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning.
+-   **如果您要使用其他社区成员创建的皮肤元素，请事先征得同意。** 尊重他人的工作是非常重要的，大多数人会很高兴你在皮肤项目中阐明他们的工作！因此，如果你不知道是谁创建了你的皮肤项目使用的元素，则不能使用它们。
+-   **游戏元素必须可见。** 你不能使任何会影响谱面游戏体验的元素不可见，因为它会使谱面不直观，甚至无法玩（`cursormiddle.png` 是一个例外，因为它影响光标跟踪的行为）。与游戏无关的元素只有在有充足理由的情况下才能透明，并且保证这样做不会对界面元素产生负面影响。
+-   **皮肤元素必须裁剪好，这样它们周围就不会有像素化的锯齿或半裁剪阴影。**
+-   **不要让任何游戏元素大于它们的推荐皮肤尺寸。** 这样的元素可能会影响游戏性能，因此应该避免使用不同尺寸的元素。没有标记为与游戏相关的元素可以使用不同的尺寸。如果没有给出推荐的尺寸，元素尺寸由皮肤作者决定。
+-   **在设置游戏元素的皮肤时，需要设置完整的元素组，以避免用户皮肤和谱面皮肤之间的冲突。** 可在[皮肤元素组列表](/wiki/Ranking_Criteria/Skin_Set_List/)中查看元素组。如果你使用了标记为可选的元素，需要包括相应元素组的所有必需元素，但可以跳过其他可选元素，除非它们与其他皮肤元素组合在一起。
 
-### Guidelines
+### 准则
 
--   **Skinned elements should not exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
--   **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
+-   **皮肤元素不应超过在默认皮肤中与之重叠的下层元素的尺寸。** 这仅适用于图像的可见部分，这可能在视觉上阻碍正常可见的元素，从而使游戏体验变差。
+-   **皮肤元素应该使用 `.png` 格式（如果它们有透明度）。** 如果他们不使用任何透明度，他们可以使用任何占用空间最小的格式（osu! 中支持的文件格式）。
 
-## Storyboarding
+## 故事板
 
-### Rules
+### 规定
 
--   **Storyboard images must not exceed a width of 1920 pixels and a height of 1200 pixels.** The storyboard editor works based on osu!pixels with an internal maximum width of 854 pixels and a height of 480 pixels. If you are using an image bigger than that, you may need to scale accordingly.
--   **Maps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or color in the storyboard must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
--   **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
+-   **故事板图像的高宽不得超过 1920x1200 像素。** 故事板编辑器基于 osu! 像素，最大宽度 854 像素，最大高度 480 像素。如果你使用的图像大于该值，则可能需要相应的缩放。
+-   **包含重复频闪，脉冲图像，故事板中有对比度、颜色和亮度的快速变化的谱面必须使用癫痫警告。** 如果警告会影响游戏，则必须延长歌曲导入时间。3 HZ 以下的频闪不会引起人的注意。如果有疑问，在 Modding 过程中添加警告并确认其必要性。
+-   **谱面在加载时，不能引发解析错误。** 这意味着解析器无法读取故事板指令的某一部分。
 
-### Guidelines
+### 准则
 
--   **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
--   **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the map.** Test play the map during the modding process to confirm this.
--   **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
--   **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
--   **Widescreen support should be turned on if the mapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
--   **Make sure the storyboard is optimized as much as possible,** within practical means.
-    -   **Avoid having sprites, or the background of the map, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the map, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
-    -   **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
-    -   **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
-    -   **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
-    -   **Avoid using two axis specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
-    -   **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** `.png` format often takes up more file size for larger images due to the lossless compression method, unlike `.jpeg`.
-    -   **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
-    -   **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
-    -   **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
-    -   **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the map, which is why fading these out when done is preferable.
+-   **在旋转的皮肤元素的故事板图片走位留下一个透明的像素边框。** osu! 不会开启图像的抗锯齿，因此，如果边缘可见的皮肤元素被旋转，将会非常明显。
+-   **尽量避免任何明显的性能问题。即使被优化过，具有一致的帧速率对于打图体验也是至关重要的。** 在 Modding 过程中测试谱面来确认这一点。
+-   **避免使用故事板声音音效，在打图过程中容易与 hitsounds 混淆。** 这违背了听觉反馈的概率，因为故事板音效将独立于玩家的操作播放。
+-   **避免使用不合逻辑、相互冲突和作废的命令。** 间隔重叠、结束时间早于开始时间或无法成功触发的这类命令，将不能正常执行或者作废，应将其删除或调整使其正常工作。
+-   **如果谱面包中包含宽屏故事板，则应启用宽屏支持。** 反之，如果故事板设计为 4:3 分辨率，则应关闭宽屏支持。如果没有故事板，此设置不会影响谱面中的任何内容。
+-   **请尽可能优化故事板，** 通过各种各样的方式。
+    -   **避免在渲染时皮肤元素和谱面背景被完全遮挡。** 出于性能考虑，当元素不可见时，最好将它们隐藏。如要隐藏谱面的背景，请将相同的背景图像作为皮肤元素，`背景`或 `0` 作为第二个参数，然后相应的隐藏。
+    -   **在使用皮肤元素的过程中，避免元素离开屏幕或者阻碍视线。** 在这种情况下，应该裁剪图像的相应部分，除非它们对故事板中的效果来说是必要的。
+    -   **避免故事板图像周围不必要的透明度。** 为了提高性能，应尽可能多地裁剪图像以获得所需要的效果。
+    -   **对于多次使用的命令，使用循环，除非这样做会影响视觉效果。** 使用 Loop 指令通常会大量减少行数，从而减少文件大小。
+    -   **当使用一个常用命令可以实现相同的效果时，请避免使用两个坐标轴命令。** 使用一个命令而不是两个命令，意味着文件的整体大小会更小。
+    -   **使用最小文件大小的图像文件格式，同时保持合理的质量。** `.png` 格式与 `.jpeg` 不同，由于无损压缩方式，png 格式通常有更大的文件大小。
+    -   **避免任何重复的图像文件。**具有完全相同内容的两个实例会增加不必要的文件大小。
+    -   **避免在未渲染时激活多个子画面。** 无论皮肤元素是否可见，激活的元素仍然会处理命令。如果这种情况的持续时间较长，请实例化新的元素，以便在其重新出现时可用。
+    -   **在皮肤元素上使用相同类型的多个指令时，请使它们的开始时间之间至少保留 16 毫秒。** 每秒 60 个命令足以让皮肤元素平滑过渡。这是为了减小文件大小和减少加载时间。
+    -   **由触发器激活的皮肤元素在使用后隐藏。** 触发器将从其第一个可能的激活命令开始，保持活动状态直到谱面结束，这就是为什么最好在完成后将其隐藏。
