@@ -1,3 +1,10 @@
+---
+tags:
+- index
+- all links
+- all pages
+- all articles
+---
 # Sitemap
 
 -   [About](/wiki/About)
