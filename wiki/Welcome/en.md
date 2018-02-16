@@ -19,7 +19,7 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 
 _See also: [Performance Points](/wiki/Performance_Points)._
 
-Performance Points is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
+Performance Points are a value from a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
 
 ## Beatmapping
 
