@@ -1027,6 +1027,9 @@
 "skr":                         "Shortcut_Key_Reference"
 
 "main_page": "Sitemap"
+"all_articles": "Sitemap"
+"all_pages": "Sitemap"
+"all_links": "Sitemap"
 "index": "Sitemap"
 
 "skinning_interface":          "Skinning/Interface"
