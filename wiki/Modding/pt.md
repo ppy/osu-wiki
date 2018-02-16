@@ -68,9 +68,9 @@ The difficulty settings can be found in the Song Set-up window, opened by click 
 
 The actual Song Setup options do not impact game play, but it is important to give correct names. The artist name, the title of the song, the source (if applicable), and the tags should all be the same in each difficulty. Audio Lead-in times are usually the same, but can differ depending on when the first note is played. The "Enable Countdown" button should be either activated or deactivated in all difficulties.
 
-### Background, Skin, and Combo Colors
+### Background, Skin, and Combo Colours
 
-Most importantly, all beatmaps must have a background picture. The skin should not blend in with the background or greatly hinder game play (because of complex [hitcircle](PT:Hitcircle "wikilink") design, huge [hitbursts](PT:Hitbursts "wikilink"), etc.). There are also many [Skinning](PT:Skinning "wikilink") rules which are needed to be followed. Similar to Skinning, combo colors should not blend in with the background either. These combo colors should also be very distinct and clear. The mapper should not have two almost identical combo colors (unless they are separated by a very contrasting color in between).
+Most importantly, all beatmaps must have a background picture. The skin should not blend in with the background or greatly hinder game play (because of complex [hitcircle](PT:Hitcircle "wikilink") design, huge [hitbursts](PT:Hitbursts "wikilink"), etc.). There are also many [Skinning](PT:Skinning "wikilink") rules which are needed to be followed. Similar to Skinning, combo colours should not blend in with the background either. These combo colours should also be very distinct and clear. The mapper should not have two almost identical combo colours (unless they are separated by a very contrasting colour in between).
 
 ### [Storyboarding](PT:Storyboarding "wikilink")
 

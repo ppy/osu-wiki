@@ -101,9 +101,9 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email.
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
 ### Can I take another player's username?
 
@@ -144,6 +144,23 @@ A couple of hours at the absolute maximum will clear the status for most people 
 If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
+
+### I didn't receive any emails from osu!/I forgot my email address!
+
+**There might be an issue with your account's current email address.**
+
+If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+
+If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you logged in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+
+Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+- `att.net`
+- `bellsouth.net`
+- `free.fr`
+- `i.ua`
+- `laposte.net`
+- `sbcglobal.net`
+- `t-online.de`
 
 ----------------------------------------------------------------------------
 

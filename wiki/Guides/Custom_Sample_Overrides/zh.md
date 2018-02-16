@@ -1,4 +1,4 @@
-Custom Sample Overrides (中文)
+Custom Sample Overrides
 =================================
 
 你可以在谱面所在文件夹下放置或者替换下列文件来自定义你的音效:

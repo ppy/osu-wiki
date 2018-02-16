@@ -1,5 +1,5 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 # Skinning osu!taiko
 

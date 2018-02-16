@@ -163,6 +163,8 @@ The entirety of this skin set is gameplay relevant.
 |fruit-grapes-overlay.png   |-   |required   |128x128px   |
 |fruit-orange.png   |-   | required  |128x128px   |
 |fruit-orange-overlay.png   |-   | required  |128x128px   |
+|fruit-pear.png   |-   | required  |128x128px   |
+|fruit-pear-overlay.png   |-   | required  |128x128px   |
 |fruit-bananas.png   |should be designed differently from the other fruits   |required   |128x128px   |
 |fruit-bananas-overlay.png   |should be designed differently from the other fruits   | required  |128x128px   |
 |fruit-drop.png   |-   |required   |82x103px   |

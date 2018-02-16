@@ -22,7 +22,7 @@ The functionality of each button is described below:
 - `Panic`: Press this when something goes wrong, e.g. a window is not spectating the user or a window crashes. This will reinitialize all osu! instances.
 - `Exit`: Shuts down the client.
 
-The functionality of each text boxe is described below:
+The functionality of each text box is described below:
 
 - `Annotation text`: The text to show on the annotation.
 - `Best Of`: Updates the star count at the top with the amount of matches each team needs to win.

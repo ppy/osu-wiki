@@ -1,5 +1,5 @@
-Storyboarding
-===================
+Storyboards
+===========
 
 ![Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
 ![Adegan ini tampil ketika anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")

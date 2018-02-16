@@ -1,4 +1,4 @@
-Countries that participated in osu! tournaments (Português)
+Countries that participated in osu! tournaments
 ========================================================================
 
 Este artigo lista os países que participaram nos vários torneios de osu!, Taiko, CTB e mania, e suas classificações para aqueles que chegaram no top 4.
@@ -296,8 +296,8 @@ Observações
 
 **×2** - Teve dois times.
 
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

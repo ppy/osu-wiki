@@ -1,4 +1,8 @@
-The Team (中文)
+---
+outdated: true
+---
+
+The Team
 =====================
 
 游戏创建者

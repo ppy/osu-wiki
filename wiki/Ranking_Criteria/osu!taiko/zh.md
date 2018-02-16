@@ -1,4 +1,4 @@
-osu!taiko Ranking Criteria (中文)
+osu!taiko Ranking Criteria
 ==================================
 
 这些规则和指导思想在[太鼓讨论串](https://osu.ppy.sh/forum/p/1275323)当中讨论出来。 一些新的建议在 [讨论串](https://osu.ppy.sh/forum/87)被提出，当争论经过整理后可能会被添加进来。

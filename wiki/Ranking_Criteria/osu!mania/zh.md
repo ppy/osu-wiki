@@ -1,4 +1,4 @@
-osu!mania Ranking Criteria (中文)
+osu!mania Ranking Criteria
 ==================================
 
 术语

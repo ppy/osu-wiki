@@ -12,21 +12,21 @@ Glossary
 
 ### Difficulty Names
 
--  **![Easy](/wiki/shared/Easy-s.png "Easy") Easy**
--  **![Normal](/wiki/shared/Normal-s.png "Normal") Normal**
--  **![Hard](/wiki/shared/Hard-s.png "Hard") Hard**
--  **![Insane](/wiki/shared/Insane-s.png "Insane") Insane**
--  **![Expert](/wiki/shared/Expert-s.png "Expert") Expert**
+-  **![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy**
+-  **![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal**
+-  **![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard**
+-  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
+-  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
 Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
 
-- **![Hard](/wiki/shared/Hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
-- **![Expert](/wiki/shared/Expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
+- **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
+- **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
 
 ### Gameplay
 
 - **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
-- **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
+- **Stream:** Consecutive circles grouped together. Usually snapped to 1/4 beats.
 - **Stack:** Two or more hit objects placed in the same spot on the grid.
 - **Stack Leniency:** A setting used to determine if hit objects stack or directly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
@@ -39,7 +39,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Short Reversing Slider:** A short slider (usually 1/4 or 1/8 snapping) with 1 or more reverses. This allows a player to keep their cursor in one place while the slider reverses.
 - **Hold Slider:** A slider requiring the player to keep their cursor in one place rather than follow the sliderball.
 - **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
-- **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is ¾ of a beat.
+- **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is 3/4 of a beat.
 - **Slider Tick Rate:** The amount of slider ticks that appear per beat of music.
 - **Spinner Recovery Time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
@@ -57,18 +57,19 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
--   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
+-   **Each map must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
 
 #### Guidelines
 
+-   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
--   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
--   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
--   **Avoid using combo colors with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
+-   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses 1/3 snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
+-   **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
+-   **Avoid using combo colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 -   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 -   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
 -   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
@@ -86,7 +87,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4 or 1/8 are recommended. If the song is using a swing beat, 1/6 or 1/12 are recommended. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
 -   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
 -   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
--   **Avoid using similar combo colors in successive combos.** Players should be able to differentiate between different combos in a map.
+-   **Avoid using similar combo colours in successive combos.** Players should be able to differentiate between different combos in a map.
 -   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
 
 ### Skinning
@@ -95,19 +96,18 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
--   **A custom slider border color must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
--   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
--   **Both slider border and body colors must be manually set or not set.** Setting only one may conflict with a user's custom skin choices.
+-   **A custom slider border colour must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific colour scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **Slider body colour cannot be too similar to slider border colour.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body colour can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
 
 #### Guidelines
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
+-   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the colour of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
 
 ## Difficulty-specific
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu! difficulty_. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
 
-### ![Easy](/wiki/shared/Easy-s.png "Easy") Easy
+### ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 
 #### Rules
 
@@ -132,7 +132,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be 5 or less.
 -  Overall Difficulty / HP Drain Rate should be between 1 and 3.
 
-### ![Normal](/wiki/shared/Normal-s.png "Normal") Normal
+### ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 
 #### Rules
 
@@ -159,7 +159,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Approach Rate should be between 4 and 6.
 -  Overall Difficulty / HP Drain Rate should be between 3 and 5.
 
-### ![Hard](/wiki/shared/Hard-s.png "Hard") Hard
+### ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 
 #### Rules
 
@@ -181,7 +181,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Overall Difficulty should be between 5 and 7.
 - HP Drain Rate should be between 4 and 6.
 
-### ![Insane](/wiki/shared/Insane-s.png "Insane") Insane
+### ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
 
 #### Guidelines
 
@@ -195,7 +195,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  Overall Difficulty should be between 7 and 9.
 -  HP Drain Rate should be between 5 and 8.
 
-### ![Expert](/wiki/shared/Expert-s.png "Expert") Expert
+### ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
 
 #### Guidelines
 
