@@ -1,9 +1,9 @@
 # Visual Settings
 
-![Example of Visual Settings](img/VisualSettings.jpg "Example of Visual Settings")
+![Example of Visual Settings](./VisualSettings.jpg "Example of Visual Settings")
 
--   Visual Settings is below the screen, a few seconds before the beatmap starts. Having it open delays the beatmap from starting until your mouse pointer leaves it.
-    -   You can pause the game to open Visual Settings (Does not work on [Multi](/wiki/Multi)).
+- [Visual Settings](#visual-settings)
+    - [Available options](#available-options)
 
 ## Available options
 
