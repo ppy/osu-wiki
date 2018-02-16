@@ -2,8 +2,9 @@
 
 ![Example of Visual Settings](./VisualSettings.jpg "Example of Visual Settings")
 
-- [Visual Settings](#visual-settings)
-    - [Available options](#available-options)
+**Visual Settings** is a hidden setting located at the bottom of a beatmap's playfield a few seconds before the beatmap starts. When the `Visual Settings` is shown, the beatmap will be delayed until the osu!cursor left the `Visual Settings` screen.
+
+Alternatively, it is possible to pause to access `Visual Settings` but the pause method will not work in a [Multi](/wiki/Multi) match due to the keybind to pause is rebinded to quit the room instead when pressed twice.
 
 ## Available options
 
