@@ -26,7 +26,7 @@ Any track that is highly intense or shocking in any manner as described in the t
 
 What determines "highly intense" should be abundantly obvious to a large selection of random people. 
 
-### What happens if my track isn't okay?
+## What happens if my track isn't okay?
 
 Any beatmap containing a disallowed track will be removed from the website.
 

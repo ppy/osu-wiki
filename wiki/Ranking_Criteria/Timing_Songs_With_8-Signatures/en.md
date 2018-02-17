@@ -26,9 +26,7 @@ Generally speaking, there are 2 methods of dealing with this problem in _osu!_.
 
 When talking about the `3/4`-difficulty in _Leonard Bernstein's "America"_, I mentioned that one of the beats lands on a red tick instead of a white tick at `00:04:232` because that measure is split into [3+3], which makes it a `6/8-measure`. In order to "fix" where the beat lands, the BPM has to be multiplied with `0,666`. Furthermore, the Time Signature shown in the TimingSetupPanel has to be set to `2/4` - This is currently not possible in the editor, but it is allowed to change it in the map's `.osu`-file. After doing that, the BeatSnapDivisor has to be changed to `1/3` so it splits one beat into three ♪-notes, which are then represented by the purple ticks. The result of this can be seen in the `6/8`-difficulty.
 
-![150 BPM with a 2/4 metronome](/wiki/shared/timing/150bpm24.png)
-
-![100 BPM with a 3/4 metronome](/wiki/shared/timing/100bpm34.png)
+![150 BPM with a 2/4 metronome in comparison with 100 BPM with a 3/4 metronome](/wiki/shared/timing/150bpm24vs100bpm34.png)
 
 For a simpler example, take a look at the provided set of _Queen's "We Are The Champions"_, which is a song purely in `6/8`-signature. When you look at the timing-tab of the `6/8`-difficulty, you can see that the small white ticks in-between the measures land precisely on the song's actual beats, and all the eighth-notes ♪ are mapped by using the `1/3-BeatSnapDivisor`.
 
