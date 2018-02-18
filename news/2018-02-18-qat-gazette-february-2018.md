@@ -28,9 +28,11 @@ A significant part in the above-mentioned success might be attributed to a few n
 
 Some are returning veterans, some are stepping up for the first time, but all are working towards the same goal of bringing high quality beatmaps to the Ranked section. Many congratulations to you all on the start of another exciting journey in mapping and modding!
 
+Additionally, [Electoz](https://osu.ppy.sh/users/6485263) and [Gabe](https://osu.ppy.sh/users/654108) have joined the ranks of the osu! Beatmap Nominators, after previously demonstrating their proficiency in osu!catch and osu!taiko, respectively. Well done to them both!
+
 ### Beatmap Nominator retirements
 
-Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [Litharrale](https://osu.ppy.sh/users/3189995) for the osu!mania game mode. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come. 
+Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [OzzyOzrock](https://osu.ppy.sh/users/465153), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [Litharrale](https://osu.ppy.sh/users/3189995) for the osu!mania game mode. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come. 
 
 ### Changes to Beatmap Nominator applications
 
