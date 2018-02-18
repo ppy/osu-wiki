@@ -70,7 +70,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| South Korea   | ![][flag_SK] | ![][flag_BR] | Brazil    | **2:00 UTC**  | 11:00 UTC +9       | 23:00 (Sat) UTC -3 |
+| South Korea   | ![][flag_KR] | ![][flag_BR] | Brazil    | **2:00 UTC**  | 11:00 UTC +9       | 23:00 (Sat) UTC -3 |
 | Singapore     | ![][flag_SG] | ![][flag_CL] | Chile     | **3:00 UTC**  | 11:00 UTC +8       | 0:00 UTC -3        |
 | United States | ![][flag_US] | ![][flag_MY] | Malaysia  | **4:00 UTC**  | 20:00 (Sat) UTC -8 | 12:00 UTC +8       |
 | Italy         | ![][flag_IT] | ![][flag_AR] | Argentina | **18:00 UTC** | 19:00 UTC +1       | 15:00 UTC -3       |
@@ -115,7 +115,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Quarterfinals
 
-**[Download the mappack here! (65 MB)(http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)]**
+**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)**
 
 - Freemod
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](http://osu.ppy.sh/b/1497082&m=3) 
@@ -180,7 +180,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | United States ![][flag_US] | 5 | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
 | Indonesia ![][flag_ID] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40179448) |
 | Malaysia ![][flag_MY] | 5 | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40180481) |
-| South Korea ![][flag_KR] | 5 | 0 | ![][flag_IT] Italy | [#1](-WIN BY DEFAULT-) |
+| South Korea ![][flag_KR] | 5 | 0 | ![][flag_IT] Italy | WBD |
 | Chile ![][flag_CL] | 5 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40182937) |
 | France ![][flag_FR] | 0 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40184493) |
 | Brazil ![][flag_BR] | 5 | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/40186843) |
