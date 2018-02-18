@@ -57,7 +57,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
--   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
+-   **Each map must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
@@ -68,8 +68,8 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 -   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses 1/3 snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
--   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
--   **Avoid using combo colors with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
+-   **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
+-   **Avoid using combo colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 -   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 -   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
 -   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
@@ -87,7 +87,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4 or 1/8 are recommended. If the song is using a swing beat, 1/6 or 1/12 are recommended. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
 -   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
 -   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
--   **Avoid using similar combo colors in successive combos.** Players should be able to differentiate between different combos in a map.
+-   **Avoid using similar combo colours in successive combos.** Players should be able to differentiate between different combos in a map.
 -   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
 
 ### Skinning
@@ -96,12 +96,12 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
--   **A custom slider border color must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
--   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **A custom slider border colour must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific colour scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **Slider body colour cannot be too similar to slider border colour.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body colour can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
 
 #### Guidelines
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
+-   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the colour of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
 
 ## Difficulty-specific
 

@@ -15,7 +15,7 @@ Once you get them, move them into the song folder itself. If you don't know wher
 1. Open osu!
 2. Edit
 3. Navigate to *your beatmap* and open it
-4. Files (top-left menu, it is an off-white colored bar at the top)
+4. Files (top-left menu, it is an off-white coloured bar at the top)
 5. Open song folder
 6. *and paste them here*
 

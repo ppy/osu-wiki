@@ -472,7 +472,7 @@ Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side no
 
 ---
 
-When pluralizing acronyms and/or abbreviations, use an apostrophe followed by the letter `s` (`'s`) (e.g. `BN's`, `QAT's`, `GMT's`). If this writing style appears foreign or weird to you, try rewriting the sentence to avoid doing so in the first place.
+Do not pluralize abbreviations nor acronyms. (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`)
 
 ### Serial comma
 
@@ -554,4 +554,4 @@ The term `Difficulty` may refer to a specific `Beatmap` (these terms are interch
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` nor `Beatmap Nomination Group`.

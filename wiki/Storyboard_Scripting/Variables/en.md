@@ -44,4 +44,4 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12
 ```
 
-Saving will replace the "12"s in color specification with "$number_of_loops".
+Saving will replace the "12"s in colour specification with "$number_of_loops".

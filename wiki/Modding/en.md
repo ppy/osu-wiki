@@ -180,16 +180,16 @@ These are important to game play so that the song is at a fair level of difficul
 For example, an [Easy](/wiki/Easy) difficulty does not really need an [approach rate](/wiki/approach_rate) (AR) of 7 or an [HP drain rate](/wiki/HP_drain_rate) (HP) of 8.
 Using these values for an Easy difficulty makes this completely illogical and will make the difficulty much harder than it should be.
 
-### Background, Skin, and Combo Colors
+### Background, Skin, and Combo Colours
 
 All beatmaps must have a background image.
 The skin you supply should not blend with the background image or greatly hinder (or chellenge) game play.
 For example, complicated hit circle design, huge hit bursts, etc.
 
 There are also many [skinning](/wiki/skinning) rules that should be followed.
-Similar to skinning, combo colors should not blend in with the background either.
-These combo colors should also be very distinct and clear.
-The mapper should not have two almost identical combo colors unless they are separated by a very contrasting color in between.
+Similar to skinning, combo colours should not blend in with the background either.
+These combo colours should also be very distinct and clear.
+The mapper should not have two almost identical combo colours unless they are separated by a very contrasting colour in between.
 
 ### Storyboarding
 

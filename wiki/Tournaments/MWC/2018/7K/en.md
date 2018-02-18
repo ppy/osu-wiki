@@ -1,3 +1,10 @@
+---
+tags:
+- MWC 2018
+- MWC 7K 2018
+- MWC2018
+- MWC7K 2018
+---
 osu!mania 7K World Cup 2018
 =============================
 
@@ -45,6 +52,24 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml)**
+
+------------------------------------------------------------------------
+
+## Match Schedule: Round of 16
+
+### Sunday, 18. February 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Canada        | ![][flag_CA] | ![][flag_CN] | China       | **3.00 UTC**  | 22:00 (Sat) UTC -5 | 11.00 UTC +8  |
+| United States | ![][flag_US] | ![][flag_AU] | Australia   | **4.00 UTC**  | 20.00 (Sat) UTC -8 | 15.00 UTC +11 |
+| Indonesia     | ![][flag_ID] | ![][flag_SG] | Singapore   | **10.00 UTC** | 17.00 UTC +7       | 18.00 UTC +8  |
+| Malaysia      | ![][flag_MY] | ![][flag_DE] | Germany     | **11.00 UTC** | 19.00 UTC +8       | 12.00 UTC +1  |
+| South Korea   | ![][flag_KR] | ![][flag_IT] | Italy       | **12.00 UTC** | 21.00 UTC +9       | 13.00 UTC +1  |
+| Chile         | ![][flag_CL] | ![][flag_JP] | Japan       | **13.00 UTC** | 10.00 UTC -3       | 22.00 UTC +9  |
+| France        | ![][flag_FR] | ![][flag_PH] | Philippines | **14.00 UTC** | 15.00 UTC +1       | 22.00 UTC +8  |
+| Brazil        | ![][flag_BR] | ![][flag_AR] | Argentina   | **15.00 UTC** | 13.00 UTC -2       | 12.00 UTC -3  |
 
 ------------------------------------------------------------------------
 
@@ -81,9 +106,84 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.png)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
-The mappools will be revealed one week in advance of each stage and will be displayed in here whenever that moment takes place.
+### Round of 16
+
+**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
+
+- Freemod
+  - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/b/760452&m=3) 
+  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/b/261515&m=3) 
+  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/b/955188&m=3) 
+  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](http://osu.ppy.sh/b/1170409&m=3) 
+  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](http://osu.ppy.sh/b/615683&m=3) 
+  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](http://osu.ppy.sh/b/1206690&m=3) 
+  - [xi - .357 Magnum (Level 51) \[Insane\]](http://osu.ppy.sh/b/1099592&m=3) 
+  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](http://osu.ppy.sh/b/1189760&m=3) 
+  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](http://osu.ppy.sh/b/1186335&m=3) 
+  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](http://osu.ppy.sh/b/293691&m=3) 
+  - [she - gum (spoonguy) \[spoongum\]](http://osu.ppy.sh/b/1546340&m=3)
+- Tiebreaker
+  - [kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](http://osu.ppy.sh/b/1074472&m=3) 
+
+### Group Stage
+
+**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
+
+- FreeMod
+  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](http://osu.ppy.sh/b/964012&m=3) 
+  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](http://osu.ppy.sh/b/1515408&m=3) 
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/b/384381&m=3) 
+  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](http://osu.ppy.sh/b/1536295&m=3) 
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[_underjoy's Insane\]](http://osu.ppy.sh/b/1124577&m=3) 
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](http://osu.ppy.sh/b/1209101&m=3) 
+  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](http://osu.ppy.sh/b/799473&m=3) 
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](http://osu.ppy.sh/b/1038325&m=3) 
+  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/b/1533313&m=3) 
+- Tiebreaker
+  - [KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/b/1355805&m=3) 
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 10. February 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Thailand ![][flag_TH] | 0 | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/39954578) |
+| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/39954590) |
+| Germany ![][flag_DE] | 1 | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/39956341) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/39956356) |
+| Sweden ![][flag_SE] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/39963811) |
+| Norway ![][flag_NO] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/39963808) |
+| Argentina ![][flag_AR] | 4 | 3 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/39963810) |
+| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39965860) |
+| Norway ![][flag_NO] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/39965793) |
+| Canada ![][flag_CA] | 3 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/39967317) |
+| Australia ![][flag_AU] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/39979395) |
+
+| Sunday, 11. February 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 2 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39979434) |
+| Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/39988692) |
+| Macau ![][flag_MO] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39988688) |
+| Indonesia ![][flag_ID] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39988684) |
+| Sweden ![][flag_SE] | 2 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/39990058) |
+| Philippines ![][flag_PH] | 4 | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39990055) |
+| Macau ![][flag_MO] | 3 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/39990063) |
+| United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/39991459) |
+| France ![][flag_FR] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/39991485) |
+| Poland ![][flag_PL] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/39991462) |
+| Germany ![][flag_DE] | 4 | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/39992982) |
+| United Kingdom ![][flag_GB] | 1 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/39992995) |
+| Poland ![][flag_PL] | 1 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/39992978) |
+
 
 ------------------------------------------------------------------------
 

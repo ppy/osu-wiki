@@ -500,8 +500,6 @@
 
 "how_you_can_help":            "How_You_Can_Help!"
 
-"main_page":                   "Index"
-
 "install":                     "Installation"
 "install_osu!":                "Installation"
 "osu!_install":                "Installation"
@@ -812,6 +810,8 @@
 
 "academy":                     "osu!academy"
 
+"api":                         "osu!api"
+
 "external_ports/osu!stream": "osu!stream"
 "game_modes/external_ports/osu!stream": "osu!stream"
 
@@ -899,6 +899,7 @@
 "alumni":                          "People/osu!_Alumni"
 
 "qat":                             "People/Quality_Assurance_Team"
+"qat_blog":                        "People/Quality_Assurance_Team/Blog"
 
 "support_team":                    "People/Support_Team"
 "support_team_redux":              "People/Support_Team"
@@ -1024,6 +1025,12 @@
 "scorev2":                     "Score/#scorev2"
 
 "skr":                         "Shortcut_Key_Reference"
+
+"main_page": "Sitemap"
+"all_articles": "Sitemap"
+"all_pages": "Sitemap"
+"all_links": "Sitemap"
+"index": "Sitemap"
 
 "skinning_interface":          "Skinning/Interface"
 "interface_skinning":          "Skinning/Interface"
