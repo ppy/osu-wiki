@@ -20,7 +20,7 @@ Now to give you a first example of this in _osu!_, look at the `3/4`-difficulty 
 
 ## Methods of timing songs with #/8-signatures
 
-Generally speaking, there are 2 methods of dealing with this problem in _osu!_. 
+Generally speaking, there are 2 viable methods of dealing with this problem in _osu!_. 
 
 ### Emulating #/8-signatures
 
