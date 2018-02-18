@@ -180,7 +180,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | United States ![][flag_US] | 5 | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
 | Indonesia ![][flag_ID] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40179448) |
 | Malaysia ![][flag_MY] | 5 | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40180481) |
-| South Korea ![][flag_KR] | 5 | 0 | ![][flag_IT] Italy | WBD |
+| South Korea ![][flag_KR] | 5 | 0 | ![][flag_IT] Italy | -Win by default- |
 | Chile ![][flag_CL] | 5 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40182937) |
 | France ![][flag_FR] | 0 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40184493) |
 | Brazil ![][flag_BR] | 5 | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/40186843) |
