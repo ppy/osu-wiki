@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 Le staff d'osu!
 =====================
 

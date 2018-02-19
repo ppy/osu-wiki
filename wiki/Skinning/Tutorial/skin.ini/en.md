@@ -1,53 +1,33 @@
 # skin.ini
 
-*Main page: [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
+*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) and [Skinning](https://osu.ppy.sh/help/wiki/Skinning).*
 
-*See also: [skin.ini](/wiki/skin.ini).*
+## What does the skin.ini do?
+The skin.ini file can modify the behaviour of certain skinning elements in a skin.
 
-### But, what is "skin.ini"?
+To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to have the `Show file extensions` options enabled in windows). Make sure that you type everything correctly and use a space ` ` after every `:`. *Remember, you are not forced to add a value to every command! If you do leave one blank, remove it or comment it by prefixing with `//`.*
 
-`skin.ini` is a file that all skins could have. It is a text file that allows you to adjust various things (e.g. combo colours).
+### [General]
++ `Name:` The name of the skin.
++ `Author:` The name of the skinner (your in-game name).
++ `Version:` The version you want to use. Check [skin.ini](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#versions) for detailed informations about every version.
++ `AllowSliderBallTint:` Should the slider ball `sliderb` have the same color as the combo colour it is on? If so, use `1`. If not, use `0`.
++ `CursorRotate:` Should the `cursor` rotate? If so, use `1`. If not, use `0`.
++ `CursorExpand:` Should the `cursor` expand when the player clicks? If so, use `1`. If not, use `0 `.
++ `CursorTrailRotate:` Should the `cursortrail` rotate? If so, use `1`. if not, use `0`.
 
-## Okay, how do I adjust it?
+### [Colours]
+*Note: Up to 8 combo colours can be used*
++ `Combo1:` Enter an `R,G,B` value for the last combo colour here.
++ `Combo2:` Enter an `R,G,B` value for the first combo colour here.
++ `Combo3:` Enter an `R,G,B` value for the second combo colour here.
++ `SliderBorder:` Enter an `R,G,B` value for the slider border colour here.
++ `SliderTrackOverride:` Enter an `R,G,B` value for the slider track colour here.
 
-To being, let's start with a some of the basics. First, in your skin folder, create a text file and name it to `skin.ini`. Make sure to remove the `.txt` extension. Open it and paste the following text into that file. After this, all you have to do now is to fill in each of the items.
-
-```
-Name: The skin name.
-Author: Your username, so that everyone knows who created this skin.
-Version: By default, this would be automatically 1.0 if you don't type anything in here. But you should, there are some newer versions, see https://osu.ppy.sh/wiki/Skinning/skin.ini/#versions
-AllowSliderBallTint: If you want the slider ball to have the same colour as the current combo colour, type 1 here! If you don't want this, type 0.
-CursorRotate: If you want that your cursor rotates, type 1 in here! If you don't want this, type 0.
-CursorExpand: If you want that your cursor gets bigger when you click, type 1 in here! If you don't want this, type 0.
-
-[Colours]
-
-Combo1: Type a value (RGB) for the last combo colour in here.
-Combo2: Type a value (RGB) for the first combo colour in here.
-Combo3: Type a value (RGB) for the second combo colour in here.
-Combo4: Type a value (RGB) for the third combo colour in here.
-SliderBorder: Type a value (RGB) for the slider border in here.
-SliderTrackOverride: Type a value (RGB) for the slider track in here.
-
-[Fonts]
-
-HitCirclePrefix: Because it's for the default numbers, you type default in here.
-HitCircleOverlap: It decides how many pixels the two-digit numbers are far away from each other.
-ScorePrefix: Because it's for the score numbers, you type score in here.
-ScoreOverlap: It decides how many pixels the multi-digit numbers are far away from each other.
-ComboPrefix: Because it's for the combo numbers, you can type score in here. If you have elements for the combo (eg. combo-7.png), use combo then.
-ComboOverlap: It decides how many pixels the multi-digit numbers are far away from each other.
-```
-
-## Tips
-
-- `0` as value means no and `1` means yes in the most cases.
-- The words in the square brackets are really important, do not forget them!
-- Whitespace between commands and values is optional.
-- Make sure you everything is spelt correctly!
-- If you make a change in the `skin.ini` file, you must reload your skin by pressing the keyboard shortcut `Ctrl` + `Alt` + `Shift` + `S` in the osu!client.
-- For more commands and information, see [skin.ini](/wiki/skin.ini).
-
-## Trivia
-
-- Original forum post by [Lyawi](https://osu.ppy.sh/users/5851253): [Guide: How to adjust my skin.ini?](https://osu.ppy.sh/community/forums/topics/575880)
+### [Fonts]
++ `HitCirclePrefix:`This will determine which image set will be used for the numbers for the hit circles. The value is the prefix for this image set. By default, `default-` will get used.
++ `HitCircleOverlap:` This will adjust the spacing of multi-digit numbers on hit circles. A positive integer will spaces them further apart while negative integers will move them closer.
++ `ScorePrefix:` This will determine which image set will be used for the numbers for the score. The value is the prefix for this image set. By default, `score-` will get used.
++ `ScoreOverlap:` This will adjust the spacing for the score. A positive integer will spaces them further apart while negative integers will move them closer.
++ `ComboPrefix:` This will determine which image set will be used for the numbers for the combo count. The value is the prefix for this image set. By default, `score-` will get used.
++ `ComboOverlap:` This will adjust the spacing of multi-digit combos. A positive integer will spaces them further apart while negative integers will move them closer.

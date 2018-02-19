@@ -1,3 +1,10 @@
+---
+tags:
+- MWC 2017
+- MWC 7K 2017
+- MWC2017
+- MWC7K 2017
+---
 osu!mania 7K World Cup 2017
 =============================
 
@@ -9,13 +16,13 @@ The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!m
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 12. - 25. December 2016 | 
-| Drawings | 8. January 2017 (14:00 UTC+0) | 
-| Group Stage | 14. - 15. January 2017 | 
-| Quarterfinals | 21. - 22. January 2017 | 
-| Semifinals | 28. - 29. January 2017 | 
-| Finals - Week 1 | 04. - 05. February 2017 | 
-| Finals - Week 2 | 11. - 12. February 2017 | 
+| Registration Phase | 2016-12-12/2016-12-25   |
+| Drawings           | 2017-01-08 14:00:00 UTC |
+| Group Stage        | 2017-01-14/2017-01-15   |
+| Quarterfinals      | 2017-01-21/2017-01-22   |
+| Semifinals         | 2017-01-28/2017-01-29   |
+| Finals             | 2017-02-04/2017-02-05   |
+| Grand Finals       | 2017-02-11/2017-02-12   |
 
 ## Prizes
 
@@ -31,8 +38,8 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 The osu!mania World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Member |
-| ------------ | -------------- |
+| Position | Member(s) |
+|---|---|
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_PL] -Kamikaze-](https://osu.ppy.sh/users/2124783), [![][flag_SG] Evening](https://osu.ppy.sh/users/2193881) |
 | Commentators | [![][flag_US] Daikyi](https://osu.ppy.sh/users/811832), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_SG] Evening](https://osu.ppy.sh/users/2193881), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] -Konner-](https://osu.ppy.sh/users/6108644), [![][flag_US] Nivrad00](https://osu.ppy.sh/users/1984634), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
@@ -78,167 +85,167 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ## Mappools
 
-### Group Stage
+### Finals
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
+**This mappool will be used in Finals and Grand Finals**
 
-- FreeMod
-  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](http://osu.ppy.sh/b/1030861&m=3) 
-  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-)](http://osu.ppy.sh/b/1158709&m=3) \[Pope's Anfractuous Derivative\]
-  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](http://osu.ppy.sh/b/687322&m=3) 
-  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](http://osu.ppy.sh/b/426032&m=3) 
-  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](http://osu.ppy.sh/b/362574&m=3) 
-  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](http://osu.ppy.sh/b/787134&m=3) 
-  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](http://osu.ppy.sh/b/1074573&m=3) 
-  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](http://osu.ppy.sh/b/255968&m=3) 
-  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](http://osu.ppy.sh/b/359560&m=3) 
-  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](http://osu.ppy.sh/b/712126&m=3) 
-  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](http://osu.ppy.sh/b/841216&m=3) 
-  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](http://osu.ppy.sh/b/320510&m=3) 
-  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](http://osu.ppy.sh/b/468795&m=3) 
-- Tiebreaker
-  - [Nhato - Magic (Tear) \[Enchanted\]](http://osu.ppy.sh/b/427993&m=3) 
-
-### Quarterfinals
-
-**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
+**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
 
 - FreeMod
-  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](http://osu.ppy.sh/b/1150224&m=3) 
-  - [SHK - Milky Way (ExPew) \[SC\]](http://osu.ppy.sh/b/305675&m=3) 
-  - [xi - Hesperides (ExKagii-) \[Another\]](http://osu.ppy.sh/b/1035076&m=3) 
-  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](http://osu.ppy.sh/b/525686&m=3) 
-  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](http://osu.ppy.sh/b/405715&m=3) 
-  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](http://osu.ppy.sh/b/412973&m=3) 
-  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](http://osu.ppy.sh/b/543414&m=3) 
-  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](http://osu.ppy.sh/b/509575&m=3) 
-  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](http://osu.ppy.sh/b/516758&m=3) 
-  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](http://osu.ppy.sh/b/1025646&m=3) 
-  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](http://osu.ppy.sh/b/440089&m=3) 
-  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](http://osu.ppy.sh/b/941427&m=3) 
-  - [M2U - Promise (Jinjin) \[Yaksok\]](http://osu.ppy.sh/b/869223&m=3) 
+  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](http://osu.ppy.sh/b/1188811&m=3)
+  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](http://osu.ppy.sh/b/1104259&m=3)
+  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/993185&m=3)
+  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](http://osu.ppy.sh/b/1060566&m=3)
+  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](http://osu.ppy.sh/b/1146187&m=3)
+  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](http://osu.ppy.sh/b/1154859&m=3)
+  - [EZFG - cloud (Ciel) \[High (nerfed)\]](http://osu.ppy.sh/b/1178427&m=3)
+  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](http://osu.ppy.sh/b/1185659&m=3)
+  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](http://osu.ppy.sh/b/766085&m=3)
+  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](http://osu.ppy.sh/b/908448&m=3)
+  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](http://osu.ppy.sh/b/1185947&m=3)
+  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](http://osu.ppy.sh/b/982489&m=3)
+  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](http://osu.ppy.sh/b/1178316&m=3)
+  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](http://osu.ppy.sh/b/1099040&m=3)
+  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](http://osu.ppy.sh/b/837107&m=3)
 - Tiebreaker
-  - [niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](http://osu.ppy.sh/b/1017922&m=3) 
+  - [Camellia - Fastest Crash (Gekido-) \[Fastest\]](http://osu.ppy.sh/b/767979&m=3)
 
 ### Semifinals
 
 **[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
 
 - FreeMod
-  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](http://osu.ppy.sh/b/1042544&m=3) 
-  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](http://osu.ppy.sh/b/519264&m=3) 
-  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](http://osu.ppy.sh/b/1082251&m=3) 
-  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](http://osu.ppy.sh/b/909107&m=3) 
-  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](http://osu.ppy.sh/b/1083582&m=3) 
-  - [goreshit - o'er the flood (Blocko) \[torrent\]](http://osu.ppy.sh/b/974969&m=3) 
-  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](http://osu.ppy.sh/b/368423&m=3) 
-  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](http://osu.ppy.sh/b/1072967&m=3) 
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](http://osu.ppy.sh/b/1165581&m=3) 
-  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/580759&m=3) 
-  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](http://osu.ppy.sh/b/1015428&m=3) 
-  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](http://osu.ppy.sh/b/725614&m=3) 
-  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](http://osu.ppy.sh/b/1157119&m=3) 
-  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](http://osu.ppy.sh/b/895160&m=3) 
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](http://osu.ppy.sh/b/1042544&m=3)
+  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](http://osu.ppy.sh/b/519264&m=3)
+  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](http://osu.ppy.sh/b/1082251&m=3)
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](http://osu.ppy.sh/b/909107&m=3)
+  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](http://osu.ppy.sh/b/1083582&m=3)
+  - [goreshit - o'er the flood (Blocko) \[torrent\]](http://osu.ppy.sh/b/974969&m=3)
+  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](http://osu.ppy.sh/b/368423&m=3)
+  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](http://osu.ppy.sh/b/1072967&m=3)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](http://osu.ppy.sh/b/1165581&m=3)
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/580759&m=3)
+  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](http://osu.ppy.sh/b/1015428&m=3)
+  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](http://osu.ppy.sh/b/725614&m=3)
+  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](http://osu.ppy.sh/b/1157119&m=3)
+  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](http://osu.ppy.sh/b/895160&m=3)
 - Tiebreaker
-  - [Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](http://osu.ppy.sh/b/991010&m=3) 
+  - [Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](http://osu.ppy.sh/b/991010&m=3)
 
-### Finals
+### Quarterfinals
 
-**This mappool will be used in Finals - Week 1 and Finals - Week 2**
-
-**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
+**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
 
 - FreeMod
-  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](http://osu.ppy.sh/b/1188811&m=3) 
-  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](http://osu.ppy.sh/b/1104259&m=3) 
-  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/993185&m=3) 
-  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](http://osu.ppy.sh/b/1060566&m=3) 
-  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](http://osu.ppy.sh/b/1146187&m=3) 
-  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](http://osu.ppy.sh/b/1154859&m=3) 
-  - [EZFG - cloud (Ciel) \[High (nerfed)\]](http://osu.ppy.sh/b/1178427&m=3) 
-  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](http://osu.ppy.sh/b/1185659&m=3) 
-  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](http://osu.ppy.sh/b/766085&m=3) 
-  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](http://osu.ppy.sh/b/908448&m=3) 
-  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](http://osu.ppy.sh/b/1185947&m=3) 
-  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](http://osu.ppy.sh/b/982489&m=3) 
-  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](http://osu.ppy.sh/b/1178316&m=3) 
-  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](http://osu.ppy.sh/b/1099040&m=3) 
-  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](http://osu.ppy.sh/b/837107&m=3) 
+  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](http://osu.ppy.sh/b/1150224&m=3)
+  - [SHK - Milky Way (ExPew) \[SC\]](http://osu.ppy.sh/b/305675&m=3)
+  - [xi - Hesperides (ExKagii-) \[Another\]](http://osu.ppy.sh/b/1035076&m=3)
+  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](http://osu.ppy.sh/b/525686&m=3)
+  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](http://osu.ppy.sh/b/405715&m=3)
+  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](http://osu.ppy.sh/b/412973&m=3)
+  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](http://osu.ppy.sh/b/543414&m=3)
+  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](http://osu.ppy.sh/b/509575&m=3)
+  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](http://osu.ppy.sh/b/516758&m=3)
+  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](http://osu.ppy.sh/b/1025646&m=3)
+  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](http://osu.ppy.sh/b/440089&m=3)
+  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](http://osu.ppy.sh/b/941427&m=3)
+  - [M2U - Promise (Jinjin) \[Yaksok\]](http://osu.ppy.sh/b/869223&m=3)
 - Tiebreaker
-  - [Camellia - Fastest Crash (Gekido-) \[Fastest\]](http://osu.ppy.sh/b/767979&m=3) 
-  
+  - [niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](http://osu.ppy.sh/b/1017922&m=3)
+
+### Group Stage
+
+**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
+
+- FreeMod
+  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](http://osu.ppy.sh/b/1030861&m=3)
+  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-) \[Pope's Anfractuous Derivative\]](http://osu.ppy.sh/b/1158709&m=3)
+  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](http://osu.ppy.sh/b/687322&m=3)
+  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](http://osu.ppy.sh/b/426032&m=3)
+  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](http://osu.ppy.sh/b/362574&m=3)
+  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](http://osu.ppy.sh/b/787134&m=3)
+  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](http://osu.ppy.sh/b/1074573&m=3)
+  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](http://osu.ppy.sh/b/255968&m=3)
+  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](http://osu.ppy.sh/b/359560&m=3)
+  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](http://osu.ppy.sh/b/712126&m=3)
+  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](http://osu.ppy.sh/b/841216&m=3)
+  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](http://osu.ppy.sh/b/320510&m=3)
+  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](http://osu.ppy.sh/b/468795&m=3)
+- Tiebreaker
+  - [Nhato - Magic (Tear) \[Enchanted\]](http://osu.ppy.sh/b/427993&m=3)
+
 ------------------------------------------------------------------------
 
 ## Match Results
 
 ### Grand Finals
 
-| Sunday, 12. February 2017 | | | | |
+| 2017-02-12 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| South Korea ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/31033827) |
+| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/31033827) |
 
-### Finals: Week 1
+### Finals
 
-| Saturday, 4. February 2017 | | | | |
+| 2017-02-04 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| United States ![][flag_US] | 2 | **6** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30827217) |
-| China ![][flag_CN] | 0 | **6** | ![][flag_KR] South Korea | -win by default- |
-| Thailand ![][flag_TH] | 4 | **6** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30830208) |
+| United States ![][flag_US] | 2 | **6** | ![][flag_ID] **Indonesia**   | [#1](https://osu.ppy.sh/community/matches/30827217) |
+| China ![][flag_CN]         | 0 | **6** | ![][flag_KR] **South Korea** | -Win by default- |
+| Thailand ![][flag_TH]      | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30830208) |
 
-| Sunday, 5. February 2017 | | | | |
+| 2017-02-05 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Indonesia ![][flag_ID] | **6** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30858348) |
-| China ![][flag_CN] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30861745) |
+| **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30858348) |
+| **China** ![][flag_CN]     | **6** | 0 | ![][flag_ID] Indonesia   | [#1](https://osu.ppy.sh/community/matches/30861745) |
 
 ### Semifinals
 
-| Saturday, 29. January 2017 | | | | |
+| 2017-01-29 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Indonesia ![][flag_ID] | 0 | **6** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30699733) |
-| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30701653) |
-| Chile ![][flag_CL] | 0 | **6** | ![][flag_TH] Thailand | -win by default- |
-| United States ![][flag_US] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30705988) |
+| Indonesia ![][flag_ID]         | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/30699733) |
+| Philippines ![][flag_PH]       | 0 | **6** | ![][flag_CN] **China**       | [#1](https://osu.ppy.sh/community/matches/30701653) |
+| Chile ![][flag_CL]             | 0 | **6** | ![][flag_TH] **Thailand**    | -Win by default- |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_FR] France          | [#1](https://osu.ppy.sh/community/matches/30705988) |
 
 ### Quarterfinals
 
-| Saturday, 21. January 2017 | | | | |
+| 2017-01-21 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| South Korea ![][flag_KR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30507247) |
-| China ![][flag_CN] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30508461) |
-| Chile ![][flag_CL] | 2 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30510203) |
-| United States ![][flag_US] | 2 | **5** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30510203) |
+| **South Korea** ![][flag_KR]   | **5** | 0 | ![][flag_TH] Thailand        | [#1](https://osu.ppy.sh/community/matches/30507247) |
+| **China** ![][flag_CN]         | **5** | 0 | ![][flag_FR] France          | [#1](https://osu.ppy.sh/community/matches/30508461) |
+| Chile ![][flag_CL]             | 2 | **5** | ![][flag_ID] **Indonesia**   | [#1](https://osu.ppy.sh/community/matches/30510203) |
+| United States ![][flag_US]     | 2 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30510203) |
 
 ### Group Stage
 
-| Saturday, 14. January 2017 | | | | |
+| 2017-01-14 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Indonesia ![][flag_ID] | 1 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30338922) |
-| Philippines ![][flag_PH] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30338925) |
-| Australia ![][flag_AU] | 0 | **5** | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30338930) |
-| Russian Federation ![][flag_RU] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/30340143) |
-| France ![][flag_FR] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/30340147) |
-| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30340152) |
-| Philippines ![][flag_PH] | **5** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/30340157) |
-| Malaysia ![][flag_MY] | **5** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30341742) |
-| Argentina ![][flag_AR] | 0 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30341746) |
-| Singapore ![][flag_SG] | 1 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30341751) |
-| France ![][flag_FR] | 1 | **5** | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/30348053) |
-| Russian Federation ![][flag_RU] | 2 | **5** | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/30348061) |
-| Chile ![][flag_CL] | 4 | **5** | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30350044) |
+| Indonesia ![][flag_ID]              | 1 | **5** | ![][flag_CN] **China**         | [#1](https://osu.ppy.sh/community/matches/30338922) |
+| Philippines ![][flag_PH]            | 0 | **5** | ![][flag_KR] **South Korea**   | [#1](https://osu.ppy.sh/community/matches/30338925) |
+| Australia ![][flag_AU]              | 0 | **5** | ![][flag_TH] **Thailand**      | [#1](https://osu.ppy.sh/community/matches/30338930) |
+| **Russian Federation** ![][flag_RU] | **5** | 2 | ![][flag_AU] Australia         | [#1](https://osu.ppy.sh/community/matches/30340143) |
+| **France** ![][flag_FR]             | **5** | 1 | ![][flag_MY] Malaysia          | [#1](https://osu.ppy.sh/community/matches/30340147) |
+| United Kingdom ![][flag_GB]         | 0 | **5** | ![][flag_KR] **South Korea**   | [#1](https://osu.ppy.sh/community/matches/30340152) |
+| **Philippines** ![][flag_PH]        | **5** | 2 | ![][flag_SG] Singapore         | [#1](https://osu.ppy.sh/community/matches/30340157) |
+| **Malaysia** ![][flag_MY]           | **5** | 3 | ![][flag_BR] Brazil            | [#1](https://osu.ppy.sh/community/matches/30341742) |
+| Argentina ![][flag_AR]              | 0 | **5** | ![][flag_CN] **China**         | [#1](https://osu.ppy.sh/community/matches/30341746) |
+| Singapore ![][flag_SG]              | 1 | **5** | ![][flag_KR] **South Korea**   | [#1](https://osu.ppy.sh/community/matches/30341751) |
+| France ![][flag_FR]                 | 1 | **5** | ![][flag_CL] **Chile**         | [#1](https://osu.ppy.sh/community/matches/30348053) |
+| Russian Federation ![][flag_RU]     | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/30348061) |
+| Chile ![][flag_CL]                  | 4 | **5** | ![][flag_BR] **Brazil**        | [#1](https://osu.ppy.sh/community/matches/30350044) |
 
-| Sunday, 15. January 2017 | | | | |
+| 2017-01-15 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Australia ![][flag_AU] | 0 | **5** | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/30362455) |
-| United States ![][flag_US] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30363554) |
-| Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30373030) |
-| Argentina ![][flag_AR] | 1 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30373052) |
-| Poland ![][flag_PL] | 1 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30373084) |
-| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30373170) |
-| Poland ![][flag_PL] | 2 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30374278) |
-| Malaysia ![][flag_MY] | 0 | **5** | ![][flag_CL] Chile  | -win by default- |
-| United Kingdom ![][flag_GB] | **5** | 0 | ![][flag_SG] Singapore | -win by default- |
-| France ![][flag_FR] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30375970) |
-| Argentina ![][flag_AR] | 0 | **5** | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/30375979) |
+| Australia ![][flag_AU]              | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/30362455) |
+| **United States** ![][flag_US]      | **5** | 1 | ![][flag_TH] Thailand          | [#1](https://osu.ppy.sh/community/matches/30363554) |
+| Russian Federation ![][flag_RU]     | 1 | **5** | ![][flag_TH] **Thailand**      | [#1](https://osu.ppy.sh/community/matches/30373030) |
+| Argentina ![][flag_AR]              | 1 | **5** | ![][flag_ID] **Indonesia**     | [#1](https://osu.ppy.sh/community/matches/30373052) |
+| Poland ![][flag_PL]                 | 1 | **5** | ![][flag_CN] **China**         | [#1](https://osu.ppy.sh/community/matches/30373084) |
+| United Kingdom ![][flag_GB]         | 0 | **5** | ![][flag_PH] **Philippines**   | [#1](https://osu.ppy.sh/community/matches/30373170) |
+| Poland ![][flag_PL]                 | 2 | **5** | ![][flag_ID] **Indonesia**     | [#1](https://osu.ppy.sh/community/matches/30374278) |
+| Malaysia ![][flag_MY]               | 0 | **5** | ![][flag_CL] **Chile**         | -Win by default- |
+| **United Kingdom** ![][flag_GB]     | **5** | 0 | ![][flag_SG] Singapore         | -Win by default- |
+| **France** ![][flag_FR]             | **5** | 2 | ![][flag_BR] Brazil            | [#1](https://osu.ppy.sh/community/matches/30375970) |
+| Argentina ![][flag_AR]              | 0 | **5** | ![][flag_PL] **Poland**        | [#1](https://osu.ppy.sh/community/matches/30375979) |
 
 ------------------------------------------------------------------------
 

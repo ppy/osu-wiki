@@ -1,3 +1,8 @@
+---
+tags:
+- CWC 2015
+- CWC2015
+---
 osu! Catch the Beat World Cup 2015
 ==================================
 

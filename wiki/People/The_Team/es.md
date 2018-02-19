@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 El Equipo de osu!
 ===================
 

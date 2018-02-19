@@ -187,7 +187,7 @@ Glossary
 ### Rules
 
 -   **Storyboard images must not exceed a width of 1920 pixels and a height of 1200 pixels.** The storyboard editor works based on osu!pixels with an internal maximum width of 854 pixels and a height of 480 pixels. If you are using an image bigger than that, you may need to scale accordingly.
--   **Maps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or color in the storyboard must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+-   **Maps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 -   **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 
 ### Guidelines
