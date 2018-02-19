@@ -3,32 +3,32 @@ osu!catch
 
 _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-**osu!catch Ranking criteria** 是一系列关于创建 osu!catch 谱面的规定和指南。为了使 osu!catch 谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而指南可以在某些情况下打破。但这些例外的情况必须有详尽合理的解释，解释指南被打破的原因，以及为什么你认为遵守指南会影响谱面的整体质量。
+**osu!catch Ranking criteria** 是一系列关于创建 osu!catch 谱面的规定和指南。为了使 osu!catch 谱面被 Rank，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而指南可以在某些情况下打破。但这些例外的情况必须有详尽合理的解释，解释指南被打破的原因，以及为什么你认为遵守指南会影响谱面的整体质量。
 
 术语
 ---------
 
-这些术语常见于与 osu!catch 难度相关的地方，也在Ranking Criteria 中使用。
+这些术语常见于与 osu!catch 难度相关的地方，也在 Ranking criteria 中使用。
 
 ### 难度名
 
--   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**。简单
--   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**。普通
--   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**。困难
--   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**。疯狂
--   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**。专家
+-   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup** - 简单
+-   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad** - 普通
+-   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter** - 困难
+-   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain** - 疯狂
+-   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose** - 专家
 
 ### 游戏术语
 
--   **Fruit**：水果，一个可以代表圆圈、滑条头、滑条尾或者折返的大物件。
--   **Drop**：一个代表滑条节奏点的中等大小物件。
--   **Droplet**：水滴，一个代表滑条主体的小物件。没接住它们会降低你的准确度，但是与前面两种物件不同的是，它不会造成连击中断。
--   **Banana**：香蕉，一个在转盘时出现的物件。它们有额外得分，但是不会影响准确度和最大连击数。
--   **Jump**：跳，需要按住加速键来接住两个物件的间距。
--   **Hyperjump**：红果跳，只按住加速键是接不到的。在游戏中，当第一个物件是发光的时，hyperjump 会在两个物件之间被触发。
--   **Edge Dash**：边缘跳，当两个物件之间距离较大但又未达到红果跳的距离时，第一个物件必须用盘子的边缘去接才能接住第二个物件。
--   **Trigger distance**：两个物件之间产生红果跳的最短距离。
--   **Antiflow**：反向梗，即向正常移动方向反方向移动的物件模式。
+-   **Fruit（水果）：** 一个可以代表圆圈、滑条头、滑条尾或者折返的大物件。
+-   **Drop：** 一个代表滑条节奏点的中等大小物件。
+-   **Droplet（水滴）：** 一个代表滑条主体的小物件。没接住它们会降低你的准确度，但是与前面两种物件不同的是，它不会造成连击中断。
+-   **Banana（香蕉）：** 一个在转盘时出现的物件。它们有额外得分，但是不会影响准确度和最大连击数。
+-   **Jump（跳）：** 需要按住加速键来接住两个物件的间距。
+-   **Hyperjump（红果跳）：** 只按住加速键是接不到的。在游戏中，当第一个物件是发光的时，hyperjump 会在两个物件之间被触发。
+-   **Edge Dash（边缘跳）** 当两个物件之间距离较大但又未达到红果跳的距离时，第一个物件必须用盘子的边缘去接才能接住第二个物件。
+-   **Trigger distance：** 两个物件之间产生红果跳的最短距离。
+-   **Antiflow（反向梗）：** 即向正常移动方向反方向移动的物件模式。
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -   **OD 应该与 AR 的值相同。** 这仅仅是一个标准值，因为 OD 不会影响游戏，也不会影响转盘中水果的总数，它只会影响一个难度的最高得分值。在两者的值不相同的情况下，OD 的数值不能超过下一更高难度的 OD 值。
 -   **红果跳应该仅仅在水滴或者滑条折返上使用，并且滑条的路径应该较为简单。** 这样可以避免混乱和不合理的滑条移动，因为过于复杂的滑条或红果跳对玩家来说较为困难，并且对准确度影响相当大。在滑条折返中的红果跳不能被使用超过两次，这样的滑条不能被连续地使用。
 -   **在每一个难度中使用相同的滑条速度。** 因为它是音乐本身的属性而不是谱面的属性。但是，简单的难度可以有更低的滑条速度，以减少对新玩家的准确度要求，使他们能跟上歌曲的节奏。使用高滑条速度来提高分数、连击数、难度是无意义的做法。
--   **位于游戏区域的左右边缘的红果跳是不能使用的。** 这会造成不连贯的移动，Catcher 会在移动到游戏区域边缘时强制停止移动。试着在红果跳结束点和边缘间留出至少 16 osu 像素的空间，一般分别为 x:16 或者 x:496。
+-   **位于游戏区域的左右边缘的红果跳是不能使用的。** 这会造成不连贯的移动，Catcher 会在移动到游戏区域边缘时强制停止移动。试着在红果跳结束点和边缘间留出至少 16 osu! 像素的空间，一般分别为 x:16 和 x:496。
 
 ### 皮肤
 
@@ -64,7 +64,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 #### 指南
 
--   **自定义 catchers 应该在皮肤中额外包含元素 `lighting.png`** 可以选择是否添加这个元素，元素默认拥有 184x184 像素的尺寸，但它可能随着元素的可见性变化。
+-   **自定义 catchers 应该在皮肤中额外包含元素 `lighting.png`。** 可以选择是否添加这个元素，元素默认拥有 184x184 像素的尺寸，但它可能随着元素的可见性变化。
 
 ------------------------------------------------------------------------
 
