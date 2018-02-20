@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Community Choice 2017"
+title: "Community Choice 2017 Results"
 date: 2018-02-20 14:00:00 +0000
 ---
 
-The results are finally in, and it is time to announce the Community Favourites of 2017!
+The results are finally in, and it is time to announce the winners of Community Choice 2017!
 
 [![](/wiki/shared/news/2018-01-18-community-choice-2017/banner.jpg)](https://osu.ppy.sh/community/contests/59)
 
@@ -16,65 +16,65 @@ Without further ado, here are the four grand winners from each mode:
 
 ## [osu!](https://osu.ppy.sh/community/contests/59)
 
-[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/hitorigoto.jpg)](https://osu.ppy.sh/s/596704)
+[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/hitorigoto.jpg)](https://osu.ppy.sh/beatmapsets/596704)
 
-In an overwhelming display of support that should surprise exactly nobody, [Doormat](https://osu.ppy.sh/u/3230571)'s set of [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/s/596704) takes the title for Community Favourite of 2017 with an outstanding **4434** votes, nearly a full thousand more than its nearest competitor.
+In an overwhelming display of support that should surprise exactly nobody, [Doormat](https://osu.ppy.sh/u/3230571)'s set of [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/596704) takes the title for Community Favourite of 2017 with an outstanding **4434** votes, nearly a full thousand more than its nearest competitor.
 
 Riding off the (questionable) success of last year's hit anime Eromanga-sensei, Hitorigoto is a track all about talking to one's self, and this highly popular set certainly managed to get people talking.
 
 Notable runners up were:
 
-[Agnete Kjolsrud - Get Jinxed](http://osu.ppy.sh/s/361740) by [Tarrasky](https://osu.ppy.sh/u/4098393) in 2nd place overall with **3565** votes.
+[Agnete Kjolsrud - Get Jinxed](http://osu.ppy.sh/beatmapsets/361740) by [Tarrasky](https://osu.ppy.sh/u/4098393) in 2nd place overall with **3565** votes.
 
-[\*namirin - Koi no Hime Hime Pettanko](http://osu.ppy.sh/s/485056) by [C u r i](https://osu.ppy.sh/u/4746949) in 3rd place overall with **2749** votes.
+[\*namirin - Koi no Hime Hime Pettanko](http://osu.ppy.sh/beatmapsets/485056) by [C u r i](https://osu.ppy.sh/u/4746949) in 3rd place overall with **2749** votes.
 
 ## [osu!taiko](https://osu.ppy.sh/community/contests/60)
 
-[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/renren.jpg)](https://osu.ppy.sh/s/663337)
+[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/renren.jpg)](https://osu.ppy.sh/beatmapsets/663337)
 
-By the skin of its teeth with only **9** votes between first and second place, [Backfire](https://osu.ppy.sh/u/263110)'s set of [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion](https://osu.ppy.sh/s/663337) snags the title of Community Favourite 2017 for osu!taiko with **117** votes.
+By the skin of its teeth with only **9** votes between first and second place, [Backfire](https://osu.ppy.sh/u/263110)'s set of [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion](https://osu.ppy.sh/beatmapsets/663337) snags the title of Community Favourite 2017 for osu!taiko with **117** votes.
 
 Unlike the track itself, we're definitely not stuttering.
 
 Notable runners up were:
 
-[D(ABE3) - MANIERA](http://osu.ppy.sh/s/400761) by [\_yu68](https://osu.ppy.sh/u/6170507) with **108** votes.
+[D(ABE3) - MANIERA](http://osu.ppy.sh/beatmapsets/400761) by [\_yu68](https://osu.ppy.sh/u/6170507) with **108** votes.
 
-[Dunderpatrullen - We Are Number One (Remix)](https://osu.ppy.sh/s/547301) by [Midnaait](https://osu.ppy.sh/u/1506011) with **104** votes.
+[Dunderpatrullen - We Are Number One (Remix)](https://osu.ppy.sh/beatmapsets/547301) by [Midnaait](https://osu.ppy.sh/u/1506011) with **104** votes.
 
 ## [osu!catch](https://osu.ppy.sh/community/contests/61)
 
-[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/onthefm.jpg)](https://osu.ppy.sh/s/609679)
+[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/onthefm.jpg)](https://osu.ppy.sh/beatmapsets/609679)
 
 Fiercely competitive all the way to the end, osu!catch had some of the most robust voting of all the gamemodes so far, a few big maps fighting for the lion's share of the vote.
 
-In the end, [Ascendance](https://osu.ppy.sh/u/2931883)'s set of [C\-Show - On the FM](https://osu.ppy.sh/s/609679) triumphed over the others with **249** votes, and walks away with the title of Community Favourite 2017 for osu!!catch.
+In the end, [Ascendance](https://osu.ppy.sh/u/2931883)'s set of [C\-Show - On the FM](https://osu.ppy.sh/beatmapsets/609679) triumphed over the others with **249** votes, and walks away with the title of Community Favourite 2017 for osu!!catch.
 
 Notable runners up were:
 
-[DJ Totoriott - Chronoxia](https://osu.ppy.sh/s/429184) by [Kyuare](https://osu.ppy.sh/u/2705312) with **233** votes.
+[DJ Totoriott - Chronoxia](https://osu.ppy.sh/beatmapsets/429184) by [Kyuare](https://osu.ppy.sh/u/2705312) with **233** votes.
 
-[Camellia - Towards The Horizon](https://osu.ppy.sh/s/629384) by [Sinnoh](https://osu.ppy.sh/u/4236057) with **227** votes.
+[Camellia - Towards The Horizon](https://osu.ppy.sh/beatmapsets/629384) by [Sinnoh](https://osu.ppy.sh/u/4236057) with **227** votes.
 
 ## [osu!mania](https://osu.ppy.sh/community/contests/62)
 
-[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/exit.jpg)](http://osu.ppy.sh/s/575053)
+[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/exit.jpg)](http://osu.ppy.sh/beatmapsets/575053)
 
-With the biggest turnout among the three smaller gamemodes, the players of osu!mania fought fiercely over top spot, with [Protastic101](https://osu.ppy.sh/u/6712747)'s set of [Camellia - Exit This Earth's Atomosphere](http://osu.ppy.sh/s/575053) reigning supreme with **754** votes.
+With the biggest turnout among the three smaller gamemodes, the players of osu!mania fought fiercely over top spot, with [Protastic101](https://osu.ppy.sh/u/6712747)'s set of [Camellia - Exit This Earth's Atomosphere](http://osu.ppy.sh/beatmapsets/575053) reigning supreme with **754** votes.
 
 This set definitely seemed to send much of the osu!mania community into orbit.
 
 Notable runners up were:
 
-[Dustvoxx - Trigger (Zekk Remix)](http://osu.ppy.sh/s/555076) by [Wonki](https://osu.ppy.sh/u/7898495) with **726** votes.
+[Dustvoxx - Trigger (Zekk Remix)](http://osu.ppy.sh/beatmapsets/555076) by [Wonki](https://osu.ppy.sh/u/7898495) with **726** votes.
 
-[t+pazolite - Oshama Scramble!](http://osu.ppy.sh/s/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/u/4632359) with **587** votes.
+[t+pazolite - Oshama Scramble!](http://osu.ppy.sh/beatmapsets/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/u/4632359) with **587** votes.
 
 ----
 
 Each top-voted set has its mapper walk away with a shiny new profile badge, and 6 months of osu!supporter for their efforts. The runners up and the top 10 voted sets for each mode receive 1 months of osu!supporter as well.
 
-You can view a handy spreadsheet of the full voting results below, or [check out the contest listings for a prettier version](https://osu.ppy.sh/community/contests/59). The listings themselves will display 'points' instead of votes - this is simply a holdover from the way the system once was.
+You can view a handy spreadsheet of the full voting results below, or [check out the contest listings for a prettier version](https://osu.ppy.sh/community/contests/59). The listings themselves will display 'points' instead of votes - this is simply a holdover from the way the system once was. No weighting whatsoever has been applied.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&amp;headers=false"></iframe><br>
 
