@@ -2,7 +2,7 @@
 
 ![SST Tournament 2018](Banner.png)
 
-SS Tournament 2018 is a tournament organized and ran by by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), [NeonLights](https://osu.ppy.sh/users/5277199), and ![] [flag_GE] (https://osu.ppy.sh/users/9696149).
+SS Tournament 2018 is a osu! standard tournament organized and ran by by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), [NeonLights](https://osu.ppy.sh/users/5277199), and ![] [flag_GE] (https://osu.ppy.sh/users/9696149).
 It is a open rank 3v3 tournament with rosters of 3 - 4 players held semi annually.
 
 SS tournament's information can be found on its most recent [forum post] (https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document] (https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
