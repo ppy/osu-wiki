@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2017"
-date: 2018-02-20 08:00:00 +0000
+date: 2018-02-20 14:00:00 +0000
 ---
 
 The results are finally in, and it is time to announce the Community Favourites of 2017!
@@ -69,7 +69,6 @@ Notable runners up were:
 [Dustvoxx - Trigger (Zekk Remix)](http://osu.ppy.sh/s/555076) by [Wonki](https://osu.ppy.sh/u/7898495) with **726** votes.
 
 [t+pazolite - Oshama Scramble!](http://osu.ppy.sh/s/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/u/4632359) with **587** votes.
-
 
 ----
 
