@@ -2,10 +2,10 @@
 
 ![SS Tournament 2018](Banner.png)
 
-SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![] [flag_GR] [FrozenPheonix] (https://osu.ppy.sh/users/9696149).
+SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![] [flag_GR] [FrozenPheonix](https://osu.ppy.sh/users/9696149).
 It is a open rank 3v3 tournament with rosters of 3 - 4 players held semi annually.
 
-SS tournament's most up to date information can be found on its most recent [forum post] (https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document] (https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
+SS tournament's most up to date information can be found on its most recent [forum post](https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document](https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
 
 ## Schedule
 
@@ -14,12 +14,12 @@ SS tournament's most up to date information can be found on its most recent [for
 |------------------------------------:|:---------------------|
 | Registration                        | 2018-01-02/2018-01-20     |
 | Qualifiers                          | 2018-01-27/2018-01-28     |
-| GroupStages                         | 2018-02-02/2018-02-04     |
+| Group Stages                         | 2018-02-02/2018-02-04     |
 | Round of 16 and Losers round 1      | 2018-02-16/2018-02-18     |
-| QuarterFinals and Losers round 2    | 2018-02-23/2018-02-25     |
-| Semifinals and Losers round 3       | 2018-03-02/2018-03-04     |
+| Quarter Finals and Losers round 2    | 2018-02-23/2018-02-25     |
+| Semi Finals and Losers round 3       | 2018-03-02/2018-03-04     |
 | Finals and Losers round 4 & 5       | 2018-03-09-2018-03-11     |
-| GrandFinals                         | 2018-03-16/2018-03-18     |
+| Grand Finals                         | 2018-03-16/2018-03-18     |
 
 ## Rules
 
@@ -60,33 +60,33 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Qualifiers
 
-![SS Tournament 2018](Qaulifiers.png)
+![Qualifiers Mappool](Qaulifiers.png)
 
 ### Group Stage
 
-![SS Tournament 2018](Group.png)
+![Group Stage Mappool](Group.png)
 
 ### Round Of 16
 
-![SS Tournament 2018](Round.png)
+![Round Of 16 Mappool](Round.png)
 
 ### Quarter Finals
 
-![SS Tournament 2018](Qaurter.png)
+![Quarter Finals Mappool](Qaurter.png)
 
 ### Semi Finals
 
-![SS Tournament 2018](Empty.png)
+![Semi Finals Mappool](Empty.png)
 
 ### Finals
 
-![SS Tournament 2018](Empty.png)
+![Finals Mappool](Empty.png)
 
 ### Tournament Brackets and standings
 
 ![SS Tournament 2018](Brackets.png)
 
-All information on seeding and standings for groups can be found [here.] (https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml#)
+All information on seeding and standings for groups can be found [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml#)
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
@@ -112,4 +112,3 @@ All information on seeding and standings for groups can be found [here.] (https:
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_US]: /wiki/shared/flag/US.gif
-
