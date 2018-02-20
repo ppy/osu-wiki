@@ -1,6 +1,6 @@
 # SS Tournament 2018
 
-![SS Tournament 2018](Banner.png)
+![SS Tournament 2018](Banner.jpg)
 
 SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![] [flag_GR] [FrozenPheonix](https://osu.ppy.sh/users/9696149).
 It is a open rank 3v3 tournament with rosters of 3 - 4 players held semi annually.
@@ -60,31 +60,122 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Qualifiers
 
-![Qualifiers Mappool](Qaulifiers.png)
+![Qualifiers Mappool](Qaulifiers.jpg)
 
+- NoMod
+  - [Ceui - COLORFUL DAYS!!](https://osu.ppy.sh/b/203315) [Insane]
+  - [Mastermind(xi+nora2r) - Dreadnought](https://osu.ppy.sh/b/813331) [Another]
+  - [Function Phantom - Euclid] (https://osu.ppy.sh/b/971086) [toybot's Insane]	
+- DoubleTime
+  - [Duca - Clover](https://osu.ppy.sh/b/157856) [Collab]	
+  - [Icon For Hire - Make A Move](https://osu.ppy.sh/b/1077369) [Hard]		
+- Hidden  
+  - [Dreamcatcher - Sleep-walking](https://osu.ppy.sh/b/1370703) [Insane]	
+  - [yuiko - petit bonheur](https://osu.ppy.sh/b/1327955) [Insane]	
+- Hardrock
+  - [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/b/154357) [Hanabi]		
+  - [ALiCE'S EMOTiON - Dark Flight Dreamer](https://osu.ppy.sh/b/763294) [Twaoi's Insane]			
 ### Group Stage
 
-![Group Stage Mappool](Group.png)
+![Group Stage Mappool](Group.jpg)
+
+- NoMod
+  - [GARNiDELiA - ambiguous](https://osu.ppy.sh/b/680886) [Insane]
+  - [Mind Vortex - Arc](https://osu.ppy.sh/b/239037) [NSane]
+  - [sakuzyo - VALLISTA](https://osu.ppy.sh/b/127313) [Another]
+  - [B-ko(Cv:Touyama Nao) - Nisemono Chuuihou](https://osu.ppy.sh/b/1253351) [Insane]
+  - [Mediks - Doomsday](https://osu.ppy.sh/b/1290316) [Insane]
+  - [Dark PHOENiX - Taketori Hishou](https://osu.ppy.sh/b/86324) [Extra]
+- Double Time
+  - [Two Steps From Hell - Star Sky](https://osu.ppy.sh/b/1270965) [Unstoppable]
+  - [Petit Rabbit's - No Poi!(nenpulse bootleg remix)](https://osu.ppy.sh/b/937188) [YakiBoss's Hard]
+  - [Chata - Koi wo Shiyouyo](https://osu.ppy.sh/b/81200) [Insane]
+- Hidden
+  - [Kano - Yuudachi no Ribbon](https://osu.ppy.sh/b/1078420) [Dailycare's Insane]
+  - [Renard - Terminal](https://osu.ppy.sh/b/270363) [Ends' Insane]
+  - [Ne;on & Haiji - Haruka Tooki Gensoukyo - Dream of fantasy](https://osu.ppy.sh/b/106475) [lkp's Lunatic]
+- Hardrock
+  - [Rchetype - V Is For] (https://osu.ppy.sh/b/290919) [Insane]
+  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO](https://osu.ppy.sh/b/507098) [Master]
+  - [Sota Fujimori - Move That Body -Extended Mix-](https://osu.ppy.sh/b/547229) [RLC's Insane]
+- Free Mod
+  - [Kozato Snow - Izayoi Sakura](https://osu.ppy.sh/b/86352) [Insane]
+  - [iojjj - Deus Ex Machina](https://osu.ppy.sh/b/688907) [EXTRA]
+  - [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/b/144028) [Another]
+- Tiebreaker
+  - [Demetori - The Grimoire of Alice ~ Alice in Wonderland](https://osu.ppy.sh/b/628369) [Lolis]
 
 ### Round Of 16
 
-![Round Of 16 Mappool](Round.png)
+![Round Of 16 Mappool](Round.jpg)
+
+ - NoMod
+  - [Eiko Shimamiya - Higurashi no Naku Koro ni] (https://osu.ppy.sh/b/738088) [Extra]
+  - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/b/1097612) [Linada's Extra]  	
+  - [Suzaku - Anisakis -somatic mutation type''Forza''(https://osu.ppy.sh/b/199593) [Ultra]
+  - [Megpoid GUMI - Cosmos](https://osu.ppy.sh/b/123374) [Cosmos]
+  - [LeaF - Evanescent](https://osu.ppy.sh/b/950963) [Extra]	
+  - [Nico Nico Douga - Owens] [Another]		
+- DoubleTime  
+  - [Pile, Mimori Suzuko, Nanjo Yoshino - soldier game](https://osu.ppy.sh/b/498711) [Insane]	
+  - [T.M.Revolution - FLAGS](https://osu.ppy.sh/b/864204) [Euny's Hard]			
+  - [Komine Lisa - Resuscitated Hope](https://osu.ppy.sh/b/765880) [Insane]		
+- Hidden
+  - [baker - Kimi ga Kimi ga -vocanico remix-](https://osu.ppy.sh/b/1443510) [Extra]	
+  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX-](https://osu.ppy.sh/b/682020) [N a s y a's INFINITE]	
+  - [Wayne Lytle - Pipe Dream](https://osu.ppy.sh/b/38912) [Insane]			  
+- HardRock
+  - [Nitta Emi - White Eternity](https://osu.ppy.sh/b/645342) [AstralAir]
+  - [An - artcore JINJA](https://osu.ppy.sh/b/297411) [Lunatic]	
+  - [UNDEAD CORPORATION - In the Night Where the Kasha Screamed](https://osu.ppy.sh/b/1094737) [Insane]
+- FreeMod
+  - [Amatsuki - Higurashi Moratorium](https://osu.ppy.sh/b/254370) [Frobe's Extra]		
+  - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/b/553131) [Lunatic]  	
+  - [Myrath - Endure The Silence](https://osu.ppy.sh/b/1303812) [BOUYAAA's Extra]
+- Tiebreaker  
+  - [Taishi - Aviator in the Soul](https://osu.ppy.sh/b/1429225) [Endurance]			
 
 ### Quarter Finals
 
-![Quarter Finals Mappool](Qaurter.png)
+![Quarter Finals Mappool](Qaurter.jpg)
 
+- NoMod
+  - [Suzuki Konomi - Blow out](https://osu.ppy.sh/b/1303641) [Meg's Another]		
+  - [Sayuri - Heikousen](https://osu.ppy.sh/b/1234535) [Hanabi]
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/b/1306871) [Lince's Schizophrenia]
+  - [Delain - Go Away](https://osu.ppy.sh/b/1016263) [Extra]			
+  - [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/b/1097509) [Doorfin's Extra]			
+  - [N-Trance - Destiny (Nightcore Mix)](https://osu.ppy.sh/b/71562) [MADNESSVER3!!!]	
+- DoubleTime  
+  - [Yun*chi - Your song*](https://osu.ppy.sh/b/812010) [Your song*]			
+  - [07th Expansion - Dread of the Grave](https://osu.ppy.sh/b/81007) [Collab]			
+  - [Milky Holmes - Future after Rain](https://osu.ppy.sh/b/79798) [Insane]		
+- Hidden  
+  - [ayaponzu* - Yakubyougami](https://osu.ppy.sh/b/1495657) [Collab Extra]	
+  - [Reol & nqrse - Ooedo Ranvu](https://osu.ppy.sh/b/833389) [Wild Dance]			
+  - [a*ru - Kizuato](https://osu.ppy.sh/b/1207948) [Extra Stage]	
+- HardRock
+  - [EGOIST - Fallen](https://osu.ppy.sh/b/538930) [Extra]			
+  - [Traktion - Gid V](https://osu.ppy.sh/b/793350) [Asphyxia's Extra]			
+  - [Street - Sakura Fubuki](https://osu.ppy.sh/b/797108) [Sakura no Hana]
+- FreeMod
+  - [TK from Ling tosite sigure - haze](https://osu.ppy.sh/b/1204502) [Extra]			
+  - [xi - Halcyon](https://osu.ppy.sh/b/73699) [Another]  			
+  - [Yousei Teikoku - Hades: The rise](https://osu.ppy.sh/b/1403588) [Extra]		
+- Tiebreaker  
+  - [LiSA - Rising Hope (LU-I Remix)](https://osu.ppy.sh/b/1420353) [Irregularity]	
+  
 ### Semi Finals
 
-![Semi Finals Mappool](Empty.png)
+![Semi Finals Mappool](Empty.jpg)
 
 ### Finals
 
-![Finals Mappool](Empty.png)
+![Finals Mappool](Empty.jpg)
 
 ### Tournament Brackets and standings
 
-![SS Tournament 2018](Brackets.png)
+![SS Tournament 2018](Brackets.jpg)
 
 All information on seeding and standings for groups can be found [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml#)
 
