@@ -60,29 +60,32 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Qualifiers
 
-![SST Tournament 2018](Qualifiers.png)
+![SS Tournament 2018](Qualifiers.png)
 
 ### Group Stage
 
-![SST Tournament 2018](Group.png)
+![SS Tournament 2018](Group.png)
 
 ### Round Of 16
 
-![SST Tournament 2018](Round.png)
+![SS Tournament 2018](Round.png)
 
 ### Quarter Finals
 
-![SST Tournament 2018](Qaurter.png)
+![SS Tournament 2018](Qaurter.png)
 
 ### Semi Finals
 
-![SST Tournament 2018](Empty.png)
+![SS Tournament 2018](Empty.png)
 
 ### Finals
 
-![SST Tournament 2018](Empty.png)
+![SS Tournament 2018](Empty.png)
 
+### Tournament Brackets and standings
 
+![SS Tournament 2018](Brackets.png)
 
+All information on seeding and standings for groups can be found [here.] (https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml#)
 
 
