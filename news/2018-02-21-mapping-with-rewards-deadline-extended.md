@@ -4,28 +4,28 @@ title: "Mapping With Rewards Deadline Extended"
 date: 2018-02-21 12:00:00 +0000
 ---
 
-If you haven't managed to submit or finish your entries for [Mapping With Rewards](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns.md) in time, rejoice! The deadline for mapping [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for this contest is extended until the **30th April 2018** and a few of the conditions are changed!
+If you haven't managed to submit or finish your entries for [Mapping With Rewards](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) in time, rejoice! The deadline for mapping [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for this contest is extended until the **1st May 2018** and a few of the conditions have been changed!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-**Mapping With Rewards** is a more open-ended approach to mapping contests first floated in [September of 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) with a simple premise: we offer a bounty for the best beatmap set of a [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song, and a big timeframe to complete it in.
+**Mapping With Rewards** is a more open-ended approach to mapping contests first run in [September of 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) with a simple premise: we offer a bounty for the best beatmap set of a [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song, and a large timeframe to complete it in.
 
 The deadline for this contest was hit on the **31st December 2017** and the turnout for this contest was as follows:
 - **Fractal Dreamers - Fortuna Redux**
 	- 2 valid entries; 1 osu!, 1 osu!taiko
 - **Loki - A New King Is Born**
 	- 6 valid entries; 1 osu!, 1 osu!taiko, 3 osu!mania, 1 osu!catch
-- **namirin\*- closing eyes**
+- **\*namirin - closing eyes**
 	- 5 valid entries; 3 osu!, 2 osu!taiko
 
-Because of the incredibly low turnout the deadline of this contest is extended towards the **30th April 2018 UTC+0**. The other major change is that there will not be any distinction made between the short and full versions of the songs provided, because balancing this restriction fairly proved to be impossible. The ruleset and conditions for future iterations of this contest are subject to change and improvement, but it would be unfair to any submissions to this currently running iteration of it if the ruleset was changed after the first deadline has been hit. 
+Because of the incredibly low turnout the deadline of this contest is extended towards the **1st May 2018 00:00 UTC+0**. The other major change is that there will not be any distinction made between the short and full versions of the songs provided, because balancing this restriction fairly proved to be impossible. The ruleset and conditions for future iterations of this contest are subject to change and improvement, but it would be unfair to any submissions to this currently running iteration of it if the ruleset was changed after the first deadline has been hit. 
 
 ## Conditions
 - **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** Maps only uploaded via the Beatmap Submission System will not be considered. 
 - You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song. 
 - It is allowed to submit the beatmap sets via the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running. 
 - **Both versions of the song are judged equally, mapping the full version or the short version of a song is a choice left open to the mapper.**
-- **Entries may be submitted until 30th April 2018 UTC+0.**  
+- **Entries may be submitted until 1st May 2018 00:00 UTC+0.**  
 - **We reserve the right to change the map's background after it has been ranked.**
 - **Custom hitsound samples cannot be used.** 
 - **Collaborations are not allowed because we aim for coherent sets**.
@@ -71,3 +71,7 @@ This is the bounty set on this contest:
 
 > The cinematic climax of [Loki/Thaehan's](https://osu.ppy.sh/beatmaps/artists/7) *The Fall of a Hero*. High BPM symphonic metal with prominent electric guitar melodies and leads, set to muted but varied percussion.
 + [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
+
+If any of these songs interest you, feel free to open one in editor and take a shot at mapping it over the course of the next two and a half months! We look forward to seeing your submissions in the near future.
+
+—Okoratu
