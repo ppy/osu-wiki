@@ -64,23 +64,23 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Group Stage
 
-![SST Tournament 2018] (Group.png)
+![SST Tournament 2018](Group.png)
 
 ### Round Of 16
 
-![SST Tournament 2018] (Round.png)
+![SST Tournament 2018](Round.png)
 
 ### Quarter Finals
 
-![SST Tournament 2018] (Qaurter.png)
+![SST Tournament 2018](Qaurter.png)
 
 ### Semi Finals
 
-![SST Tournament 2018] (Empty.png)
+![SST Tournament 2018](Empty.png)
 
 ### Finals
 
-![SST Tournament 2018] (Empty.png)
+![SST Tournament 2018](Empty.png)
 
 
 
