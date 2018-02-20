@@ -6,7 +6,7 @@ date: 2017-08-31 14:00:00 +0000
 
 INTRO TEXT
 
-![](/wiki/shared/news/banners/mania7k_logo_2018.jpg)
+![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
 ### Navigation
 
