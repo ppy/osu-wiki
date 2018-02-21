@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Quarterfinals Recap"
-date: 2017-08-31 14:00:00 +0000
+title: "osu!mania 7K World Cup - ro16 Recap"
+date: 2018-02-21 22:00:00 +0000
 ---
 
-INTRO TEXT
+
 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
@@ -13,19 +13,31 @@ INTRO TEXT
 <a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
 
 --------
-The RO16 stage blah.
+If you've already forgotten the events that have transpired last week, here's a video recap by our beloved Junihuhn summarising the highlights of the Group Stage.
+
+(video link)
+
+This week in the Round of 16, 
 
 ## <a name="mappool" id="mappool"></a>Mappool
 
-**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance. 
+**This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.**
 
 ### A word from our Mappool Selectors:
 
-*"QUOTE"*
+*"It's alright but the reception we got from certain maps (namely [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and a little from [KOTOKO - agony (TV Size)](https://osu.ppy.sh/b/261515&m=3)) made me think that we didn't do so well because the patterns weren't really the best in those maps, so now we're aiming for something that can make tournament players be wary of a tough map, instead of having them ban a map outright because of it."* 
+
+—Blocko
+
+*"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."
+
+—aitor98
 
 ### Mappool Statistics:
 
-NWOLF HELP ME
+Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and [she - gum](https://osu.ppy.sh/b/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/b/1206690&m=3) was the most popular pick this weekend, having been played in 6 matches.
+
+For full details, please refer to the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml#) compiled by Nwolf and deadbeat! 
 
 ## <a name="matches" id="matches"></a>Tournament Matches
 
