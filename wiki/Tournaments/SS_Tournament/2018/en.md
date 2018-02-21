@@ -284,3 +284,10 @@ All information on seeding and standings for groups can be found [here.](https:/
 [flag_IL]: /wiki/shared/flag/IL.gif
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_RO]: /wiki/shared/flag/RO.gif
+[flag_EE]: /wiki/shared/flag/EE.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_EG]: /wiki/shared/flag/EG.gif
+[flag_KZ]: /wiki/shared/flag/KZ.gif
+[flag_PE]: /wiki/shared/flag/PE.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
+[flag_LT]: /wiki/shared/flag/LT.gif
