@@ -112,7 +112,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
  - NoMod
   - [Eiko Shimamiya - Higurashi no Naku Koro ni](https://osu.ppy.sh/beatmaps/738088) [Extra]
   - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/beatmaps/1097612) [Linada's Extra]  	
-  - [Suzaku - Anisakis -somatic mutation type''Forza''(https://osu.ppy.sh/beatmaps/199593) [Ultra]
+  - [Suzaku - Anisakis -somatic mutation type''Forza''-](https://osu.ppy.sh/beatmaps/199593) [Ultra]
   - [Megpoid GUMI - Cosmos](https://osu.ppy.sh/beatmaps/123374) [Cosmos]
   - [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/950963) [Extra]	
   - [Nico Nico Douga - Owens](https://osu.ppy.sh/beatmaps/72469 [Another]		
