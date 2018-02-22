@@ -1,9 +1,12 @@
 # Precisión
 
 La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes, por último la precisión [pp](/wiki/pp) del jugador que depende de la precisión del puntaje obtenido.
+
+## Modos de juego
+
 ### osu!standard
 
-![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](osu-wiki/wiki/Accuracy/img/accuracy_standard.png "Formula de precisión para osu!standard")
+![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
 
 En osu!standar, la precisión se calcula ponderando el criterio con el que se le da a cada nota por su valor y dividido por la máxima cantidad posible.
 
@@ -34,7 +37,7 @@ En osu!catch, la precisión se calcula tomando el total de objetos golpeados no-
 
 ![Precisión = (50 \* número de 50s + 100 \* número de 100s + 200 \* número de 200s + 300 \* número de 300s + 300 \* número de MAXs) / 300(número de 0s + número de 50s + número de 100s + número de 200s + número de 300s + número de MAXs)](img/accuracy_mania.png "Formula de precision para osu!mania")
 
-En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard).
+En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard). 
 
 ## Gráfico de rendimiento
 
@@ -67,7 +70,3 @@ Además de la precisión, también se ve algo de información sobre los spinners
 #### Velocidad
 
 La velocidad representa las RPM(revoluciones por minuto) promedio en todos los spinners en el beatmap. Max es el RPM más alto logrado en cualquiera de los spinners del beatmap.
-
-#### Unstable rate
-
-Unstable rate representa el promedio contra la desviación máxima, donde los números más bajos son mejores. La fórmula es desconocida.
