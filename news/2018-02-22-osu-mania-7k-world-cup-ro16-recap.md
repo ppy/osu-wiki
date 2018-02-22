@@ -13,13 +13,13 @@ osu!mania 7K World Cup is fully underway, with 16 teams fighting their way to th
 <a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
 
 --------
-If you've already forgotten the events that have transpired last week, here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/u/4182339) summarising the highlights of the Group Stage.
+**Have you already forgotten the events that have transpired last week?** Here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/u/4182339) summarising the highlights of the Group Stage.**
 
 <iframe width="90%" height="450" src="https://www.youtube.com/watch?v=69UAX01RA14" frameborder="0" allowfullscreen></iframe>
 
-This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday. Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
+**This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday.** Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
 
-There were also some fancy new changes to the stream layout - for the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!   
+**There were also some fancy new changes to the stream layout.** For the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!   
 
 ## <a name="mappool" id="mappool"></a>Mappool
 
@@ -27,15 +27,15 @@ There were also some fancy new changes to the stream layout - for the first time
 
 ### A word from our Mappool Selectors:
 
-*"It's alright but the reception we got from certain maps (namely [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and a little from [KOTOKO - agony (TV Size)](https://osu.ppy.sh/b/261515&m=3)) made me think that we didn't do so well because the patterns weren't really the best in those maps, so now we're aiming for something that can make tournament players be wary of a tough map, instead of having them ban a map outright because of it."* 
-
-—Blocko
-
 *"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."*
 
 —aitor98
 
-*quote from spoonguy*
+*"It's alright but the reception we got from certain maps (namely [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and a little from [KOTOKO - agony (TV Size)](https://osu.ppy.sh/b/261515&m=3)) made me think that we didn't do so well because the patterns weren't really the best in those maps, so now we're aiming for something that can make tournament players be wary of a tough map, instead of having them ban a map outright because of it."* 
+
+—Blocko
+
+*"There were quite a few problems with the Ro16 pool (more than what I could fit in a small paragraph) and I'm definitely not proud of it. Some of the problems I can quote are the quality of the maps used which could've been higher, and the primary SV map [she - gum](https://osu.ppy.sh/b/1546340&m=3) was a bit of a miscalculation - it was too hard for Ro16. Let's not talk about [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3). Regardless, I can say we learned quite a bit from all the feedback we received and hopefully the QF pool is a lot better."*
 
 —spoonguy
 
@@ -53,7 +53,7 @@ Taking place over 2 blocks on the same day,
 
 ***Block 1 (03:00 - 05:00 UTC):***
 
-**The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, opting for [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683), winning by a marginal 27K score. Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite their best efforts (including a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - yielding by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
+**The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, taking the lead with [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683). Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite their best efforts (including a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - yielding by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
 
 **The next match saw the United States dominating against Australia in a convincing 5 - 0 victory.** After [a very interesting warmup](https://osu.ppy.sh/beatmapsets/556800#mania/1178254), the US proceeded to take point after point, with most score differences being in excess of 100K score. Australia put up a good fight on the final pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592), but the US shot through their dreams, conceding the match.
 
@@ -63,9 +63,19 @@ Taking place over 2 blocks on the same day,
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
+**Indonesia v Singapore** 
 
+**Malaysia v Germany** 
 
+**South Korea v Italy** 
 
+**Chile v Japan** 
+
+![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/chile_japan.jpg)
+
+**France v Philippines** 
+
+**Brazil v Argentina** 
 
 If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all. Alternatively, you can check out Junihuhn's wonderful recap video below!
 
@@ -75,18 +85,25 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 ## <a name="ahead" id="ahead"></a>Looking Ahead: Quarterfinals
 
-  
-### Winners Bracket:
+### Saturday, 24. February 2018
 
-FUTURE STUFF
+| Team A |  |  | Team B | Match Time (UTC) |
+| ---: | ---: | :--- | :--- | :---: |
+| China     | ![][flag_CN] | ![][flag_PH] | Philippines | **10:00 UTC**  |
+| Australia | ![][flag_AU] | ![][flag_DE] | Germany     | **11:00 UTC**  |
+| Indonesia | ![][flag_ID] | ![][flag_JP] | Japan       | **12:00 UTC**  |
 
-### Losers Bracket:
+### Sunday, 25. February 2018
 
-LOSER STUFF
+| Team A |  |  | Team B | Match Time (UTC) |
+| ---: | ---: | :--- | :--- | :---: |
+| South Korea   | ![][flag_KR] | ![][flag_BR] | Brazil    | **2:00 UTC**  |
+| Singapore     | ![][flag_SG] | ![][flag_CL] | Chile     | **3:00 UTC**  |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia  | **4:00 UTC**  | 
+| Italy         | ![][flag_IT] | ![][flag_AR] | Argentina | **18:00 UTC** | 
+| Canada        | ![][flag_CA] | ![][flag_FR] | France    | **19:00 UTC** |
 
---------
-
-**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.**. Team China will be facing of Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
+**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.** Team China will be facing of Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/280).
 
@@ -95,5 +112,5 @@ LOSER STUFF
 And that's all from me this week! It's good to be back writing for the World Cups again, even though I'm a little busy working on some other community projects. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 
 See you next week!
-
+  
 —mangomizer
