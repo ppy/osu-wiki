@@ -3,93 +3,112 @@
 
 # Interface
 
-_See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)_
+*See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
-Interface skinning elements are used in multiple game modes or parts of the osu!client's user interface.
+Interface skinning elements are used in multiple game modes or parts of the osu! client's user interface.
 
 ## Main Menu
 
-![](img/menu-background.jpg "menu-background.jpg")
+`menu-background.jpg`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/menu-background.jpg)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 |
+
+Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required
-- This element is used as the playfield if map does not have a background.
-- This element may use the `.jpg` format.
+- This element is used as the playfield if beatmap does not have a background.
+- This element can be in the `.jpg` or `.png` format.
 
 ---
 
-![](img/welcome_text.png "welcome_text.png")
+`welcome_text.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/welcome_text.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
+
+Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required
-- This should say "Welcome".
+- This element appears upon starting the osu! client.
 
 ---
 
-_`menu-snow.png`_ (transparent; not included; see small game mode icons)
+`menu-snow.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Additive | Centre | 32x32 |
 
-**Notes:**
+Notes:
 
 - If not skinned, the current game mode's small icon will be used instead.
-- Togglable in the [options](/wiki/options).
-  - This option may forcibly be turned on during winter.
+- Must be enabled in the [options](/wiki/options) to see.
+  - This option may forcibly be enabled during winter.
 
 ## Button
 
-These buttons are used for the beatmap options menu, in the editor, and multiplayer lobby and room.
-Since the button has three parts, it is best to keep the heights the same!
+`button-left.png`
+
+![](img/button-left.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Multiplicative | TopRight | - |
+
+Notes:
+
+- Use same height as other button pieces.
+- Tinting varies by button state.
 
 ---
 
-![](img/button-left.png "button-left.png")
+`button-middle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/button-middle.png)
 
----
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Multiplicative | Top | - |
 
-![](img/button-middle.png "button-middle.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
-
-**Note:**
+Notes:
 
 - This element is stretched to fit the needed width.
+- Use same height as other button pieces.
+- Tinting varies by button state.
 
 ---
 
-![](img/button-right.png "button-right.png")
+`button-right.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/button-right.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Multiplicative | TopLeft | - |
+
+Notes:
+
+- Use same height as other button pieces.
+- Tinting varies by button state.
 
 ## Cursor
 
-![](img/cursor.png "cursor.png")
+`cursor.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/cursor.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - By default, this element will rotate and expand (on click).
 - [skin.ini](/wiki/skin.ini) commands:
@@ -98,364 +117,485 @@ Since the button has three parts, it is best to keep the heights the same!
 
 ---
 
-![](img/cursormiddle.png "cursormiddle.png")
+`cursormiddle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/cursormiddle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- Skin versions 2.2+ can support thumbnails (toggleable in [options](/wiki/options)) for song selection
-- This element is used in various places:
-  - leaderboard in song selection
-  - button for the beatmap difficulty in song selection
-  - leaderboard on the left while playing
-  - button that shows the selected beatmap while waiting in a multiplayer room
+Notes:
+
+- This element does not rotate nor expand (on click).
+- This element is above the `cursor.png` element
 
 ---
 
-![](img/cursor-smoke.png "cursor-smoke.png")
+`cursor-smoke.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/cursor-smoke.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - This is used when the player presses the smoke key.
   - By default, the smoke key is binded to `C`.
 
 ---
 
-![](img/cursortrail.png "cursortrail.png")
+`cursortrail.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/cursortrail.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
+Notes:
+
+- This element is underneath the `cursor.png` element
+- If `cursormiddle.png` is present, a longer trail is used.
 - By default, this element does not rotate.
 - [skin.ini](/wiki/skin.ini) command:
   - To enable cursortrail rotate, set `CursorTrailRotate` to `1`.
 
-## FPS
-
-**Stable (Fallback) only**.
-The FPS counter needs to be enabled in the [options](/wiki/options).
-
-The following table is for all FPS elements.
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
----
-
-![](img/fps-0.png "fps-0.png")
-
-
----
-
-![](img/fps-1.png "fps-1.png")
-
----
-
-![](img/fps-2.png "fps-2.png")
-
----
-
-![](img/fps-3.png "fps-3.png")
-
----
-
-![](img/fps-4.png "fps-4.png")
-
----
-
-![](img/fps-5.png "fps-5.png")
-
----
-
-![](img/fps-6.png "fps-6.png")
-
----
-
-![](img/fps-7.png "fps-7.png")
-
----
-
-![](img/fps-8.png "fps-8.png")
-
----
-
-![](img/fps-9.png "fps-9.png")
-
----
-
-![](img/fps-comma.png "fps-comma.png")
-
----
-
-![](img/fps-fps.png "fps-fps.png")
-
 ## Mod icons
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
-
-The following table is for all game modifier icons.
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+*See also: [Game Modifiers](/wiki/Game_Modifiers).*
 
 ---
 
-![](img/selection-mod-autoplay.png "selection-mod-autoplay.png")
+`selection-mod-autoplay.png`
+
+![](img/selection-mod-autoplay.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-cinema.png "selection-mod-cinema.png")
+`selection-mod-cinema.png`
 
-**Note:**
+![](img/selection-mod-cinema.png)
 
-- This mod is seen after clicking the Auto mod once more.
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
----
+Notes:
 
-![](img/selection-mod-doubletime.png "selection-mod-doubletime.png")
-
----
-
-![](img/selection-mod-easy.png "selection-mod-easy.png")
+- Click the Auto mod icon to see this icon.
 
 ---
 
-![](img/selection-mod-fadein.png "selection-mod-fadein.png")
+`selection-mod-doubletime.png`
 
-**Note:**
+![](img/selection-mod-doubletime.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
-
----
-
-![](img/selection-mod-flashlight.png "selection-mod-flashlight.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-halftime.png "selection-mod-halftime.png")
+`selection-mod-easy.png`
+
+![](img/selection-mod-easy.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-hardrock.png "selection-mod-hardrock.png")
+`selection-mod-fadein.png`
+
+![](img/selection-mod-fadein.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
 
 ---
 
-![](img/selection-mod-hidden.png "selection-mod-hidden.png")
+`selection-mod-flashlight.png`
 
-**Note:**
+![](img/selection-mod-flashlight.png)
 
-- For osu!mania mode, click Fade In mod once more.
-
----
-
-![](img/selection-mod-key1.png "selection-mod-key1.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-key2.png "selection-mod-key2.png")
+`selection-mod-halftime.png`
 
-**Note:**
+![](img/selection-mod-halftime.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
-
----
-
-![](img/selection-mod-key3.png "selection-mod-key3.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-key4.png "selection-mod-key4.png")
+`selection-mod-hardrock.png`
 
-**Note:**
+![](img/selection-mod-hardrock.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
-
----
-
-![](img/selection-mod-key5.png "selection-mod-key5.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-key6.png "selection-mod-key6.png")
+`selection-mod-hidden.png`
 
-**Note:**
+![](img/selection-mod-hidden.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
----
+Notes:
 
-![](img/selection-mod-key7.png "selection-mod-key7.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+- For [osu!mania](/wiki/osu!mania), click the Fade In mod icon to see this icon.
 
 ---
 
-![](img/selection-mod-key8.png "selection-mod-key8.png")
+`selection-mod-key1.png`
 
-**Note:**
+![](img/selection-mod-key1.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
----
+Notes:
 
-![](img/selection-mod-key9.png "selection-mod-key9.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
-
----
-
-![](img/selection-mod-keycoop.png "selection-mod-keycoop.png")
-
-**Note:**
-
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
 
 ---
 
-![](img/selection-mod-nightcore.png "selection-mod-nightcore.png")
+`selection-mod-key2.png`
 
-**Note:**
+![](img/selection-mod-key2.png)
 
-- This mod is seen after clicking the Double Time mod once more.
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
----
+Notes:
 
-![](img/selection-mod-nofail.png "selection-mod-nofail.png")
-
----
-
-![](img/selection-mod-perfect.png "selection-mod-perfect.png")
-
-**Note:**
-
-- This mod is seen after clicking the Sudden Death mod once more.
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
 
 ---
 
-![](img/selection-mod-random.png "selection-mod-random.png")
+`selection-mod-key3.png`
 
-**Note:**
+![](img/selection-mod-key3.png)
 
-- This mod is only used for [osu!mania](/wiki/osu!mania).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
----
+Notes:
 
-![](img/selection-mod-relax.png "selection-mod-relax.png")
-
-**Notes:**
-
-- This mod is used for [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch).
-- This mod has different effects when using it with different modes:
-  - In [osu!standard](/wiki/osu!standard), this mod will click for the player, while the player just needs to move the cursor.
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
 
 ---
 
-![](img/selection-mod-relax2.png "selection-mod-relax2.png")
+`selection-mod-key4.png`
 
-**Notes:**
+![](img/selection-mod-key4.png)
 
-- This mod is only used for [osu!standard](/wiki/osu!standard).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+
+---
+
+`selection-mod-key5.png`
+
+![](img/selection-mod-key5.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
+
+---
+
+`selection-mod-key6.png`
+
+![](img/selection-mod-key6.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
+
+---
+
+`selection-mod-key7.png`
+
+![](img/selection-mod-key7.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
+
+---
+
+`selection-mod-key8.png`
+
+![](img/selection-mod-key8.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
+
+---
+
+`selection-mod-key9.png`
+
+![](img/selection-mod-key9.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- Cycle through the xK mods to view.
+
+---
+
+`selection-mod-keycoop.png`
+
+![](img/selection-mod-keycoop.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+
+---
+
+`selection-mod-nightcore.png`
+
+![](img/selection-mod-nightcore.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- Click the Double Time mod icon to see this icon.
+
+---
+
+`selection-mod-nofail.png`
+
+![](img/selection-mod-nofail.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+---
+
+`selection-mod-perfect.png`
+
+![](img/selection-mod-perfect.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- Click the Sudden Death mod icon to see this icon.
+
+---
+
+`selection-mod-random.png`
+
+![](img/selection-mod-random.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+
+---
+
+`selection-mod-relax.png`
+
+![](img/selection-mod-relax.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch)-specific mod.
+
+---
+
+`selection-mod-relax2.png`
+
+![](img/selection-mod-relax2.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!standard](/wiki/osu!standard)-specific mod.
 - This mod will move the cursor for the player while the player just needs to tap or click.
 
 ---
 
-![](img/selection-mod-spunout.png "selection-mod-spunout.png")
+`selection-mod-spunout.png`
 
-**Note:**
+![](img/selection-mod-spunout.png)
 
-- This mod is only used for [osu!standard](/wiki/osu!standard).
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This is an [osu!standard](/wiki/osu!standard)-specific mod.
 
 ---
 
-![](img/selection-mod-suddendeath.png "selection-mod-suddendeath.png")
+`selection-mod-suddendeath.png`
+
+![](img/selection-mod-suddendeath.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 ---
 
-![](img/selection-mod-target.png "selection-mod-target.png")
+`selection-mod-target.png`
 
-- This mod is only available for the cuttingedge stream only.
-- This mod is only used for [osu!standard](/wiki/osu!standard).
+![](img/selection-mod-target.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+- This mod is available in the cuttingedge stream only.
+- This is an [osu!standard](/wiki/osu!standard)-specific mod.
 
 ## Offset Wizard
 
-_See also: [Offset Wizard](/wiki/Offset_Wizard)._
+*See also: [Offset Wizard](/wiki/Offset_Wizard).*
 
 ---
 
-![](img/options-offset-tick.png "options-offset-tick.png")
+`options-offset-tick.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/options-offset-tick.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Multiplicative | Centre | - |
 
-- This element is stretched to fit screen height.
+Notes:
+
+- Tinting varies by tick state.
 
 ## Playfield
 
-![](img/play-skip.png "play-skip.png")
+`play-skip.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+![](img/play-skip.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Multiplicative | BottomRight | - |
 
-- Animation name: `play-skip-#.png`; replace `#` with indexed count (start frame count at zero).
+
+Notes:
+
+- Animation name: `play-skip-{n}.png`
 
 ---
 
-![](img/play-unranked.png "play-unranked.png")
+`play-unranked.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/play-unranked.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | - |
+
+Notes:
 
 - Shown when using mods that disable score submission.
 
 ---
 
-![](img/play-warningarrow.png "play-warningarrow.png")
+`play-warningarrow.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/play-warningarrow.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | - |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- Tint colour depends on use:
+- Tinting varies by version.
   - pause screen:
     - all versions: tinted blue
   - exiting breaks:
@@ -464,279 +604,382 @@ _See also: [Offset Wizard](/wiki/Offset_Wizard)._
 
 ---
 
-_`arrow-generic.png`_ (transparent; not included)
+`arrow-pause.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
 
-**Notes:**
-
-- Beatmap skinnable status is suspected to be a bug.
-- This overrides `play-warningarrow.png` (but not for Stable (Fallback) stream)
-- Usage is unknown, but it is believed that this is used for Multiplayer tag gameplay (the arrow that points for the current player's turn)
-- This element is not tinted nor coloured, this means you can add as much colour you like.
-
----
-
-_`arrow-pause.png`_ (transparent; not included)
-
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
-
-**Notes:**
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- Overrides `play-warningarrow.png` (but not for Stable (Fallback) stream).
+- Overrides `play-warningarrow.png`.
 - This is used in the pause and fail screens.
-- This element is not tinted nor coloured, this means you can add as much colour you like.
+- This element is not tinted.
 
 ---
 
 _`arrow-warning.png`_ (transparent; not included)
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
 
-**Notes:**
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- Overrides `play-warningarrow.png` (but not for Stable (Fallback) stream).
-- used for the end break warning
-- this element is not tinted nor coloured, this means you can add as much colour you like.
+- Overrides `play-warningarrow.png`.
+- Used for the end break warning.
+- This element is not tinted.
 
 ---
 
-![](img/masking-border.png "masking-border.png")
+masking-border.png
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/masking-border.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Right | - |
 
-- Beatmap skinnable status is suspected to be a bug.
-- This is primarily used when playing with 4:3 storyboards on widescreen.
+Notes:
+
+- Max height: 768px
+- Used when playing with 4:3 storyboards on widescreen.
 - While beatmapping, disable `Widescreen support` in [song setup](/wiki/song_setup) for this to appear.
 - This element is stretched to fit the needed area.
 - The right pillar is flipped horizontally.
 
 ---
 
-![](img/menu-osu.png "menu-osu.png")
+`multi-skipped.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/multi-skipped.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | BottomRight | 60x30 |
 
-- This element is seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
+Notes:
 
----
-
-![](img/multi-skipped.png "multi-skipped.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
-
-**Note:**
-
-- This is used in multiplayer games, seen next to the player's score (on the sides) when the player votes to skip the intro of a map.
+- This is used in multi games, seen next to the player's score (on the sides) when the player votes to skip the intro of a beatmap.
 
 ---
 
-![](img/section-fail.png "section-fail.png")
+`section-fail.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/section-fail.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - This element is seen when the player has a low amount of HP, about less than 50%, during a long enough break.
 
 ---
 
-![](img/section-pass.png "section-pass.png")
+`section-pass.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/section-pass.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - This element is seen when the player has a high amount of HP, about more than 50%, during a long enough break.
 
 ### Countdown
 
-If the skin version is:
+`count1.png`
 
-- 1.0, the countdown will use a segmented style (where 3 is on the left, 2 is on the right, and 1 is in the centre).
-- 2.0+, the countdown will use a centred style (where all the count numbers are in the centre).
+![](img/count1.png)
 
-The following table is for all countdown elements.
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
-
----
-
-![](img/count1.png "count1.png")
-
-**Note:**
+Notes:
 
 - This should either say "1" or "3".
 
-- Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
-- Tinted black over time when near critical zone and tinted red in the critical zone.
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
-
 ---
 
-![](img/count2.png "count2.png")
+`count2.png`
 
-**Note:**
+![](img/count2.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] | Normal | Right | - |
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - This should say "2".
 
 ---
 
-![](img/count3.png "count3.png")
+`count3.png`
 
-**Note:**
+![](img/count3.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] | Normal | Left | - |
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+
+Notes:
 
 - This should either say "3" or "1".
 
 ---
 
-![](img/go.png "go.png")
+`go.png`
 
-**Note:**
+![](img/go.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+
+Notes:
 
 - This should say "Go!".
 
 ---
 
-![](img/ready.png "ready.png")
+`ready.png`
 
-**Note:**
+![](img/ready.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
 
 - This should say "Are You Ready?" or "Ready?".
 
 ### Hit Bursts
 
-These hit bursts are used in osu!standard and in [multi](/wiki/multi).
+`hit0.png`
 
-The following table is for all hit bursts.
+![](img/hit0.png)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
----
+Notes:
 
-![](img/hit0.png "hit0.png")
-
----
-
-![](img/hit50.png "hit50.png")
-
----
-
-![](img/hit100.png "hit100.png")
+- Animation name: `hit0-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
 
 ---
 
-![](img/hit100k.png "hit100k.png")
+`hit50.png`
+
+![](img/hit50.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit50-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
 
 ---
 
-![](img/hit300.png "hit300.png")
+`hit100.png`
+
+![](img/hit100.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit100-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
 
 ---
 
-![](img/hit300g.png "hit300g.png")
+`hit100k.png`
+
+![](img/hit100k.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit100k-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
 
 ---
 
-![](img/hit300k.png "hit300k.png")
+`hit300.png`
+
+![](img/hit300.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit300-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
+
+---
+
+`hit300g.png`
+
+![](img/hit300g.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit300g-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
+
+---
+
+`hit300k.png`
+
+![](img/hit300k.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `hit300k-{n}.png`
+- Animation rate is fixed to 60 FPS.
+- If animation is used:
+  - the 0th frame is used on the ranking screen.
+  - animation does not loop, but the last frame persists until it fades out.
+  - single frame behaviour is not used.
 
 ### Input Overlay
 
-![](img/inputoverlay-background.png "inputoverlay-background.png")
+`inputoverlay-background.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/inputoverlay-background.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopRight | 193x55 |
 
-- This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
-- Toggleable in the [options](/wiki/options).
-- This is rotated 90 degrees clockwise.
-- Stretched by 1.05x ingame.
+Notes:
+
+- This element is positioned at 320px height.
+- Since the image is rotated, the origin on the image itself is TopLeft.
+- This element is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
+- This element is rotated 90 degrees clockwise and stretched by 1.05x in-game.
+- Must be enabled in the [options](/wiki/options) to see.
 
 ---
 
-![](img/inputoverlay-key.png "inputoverlay-key.png")
+`inputoverlay-key.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/inputoverlay-key.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 43x46 |
+
+Notes:
 
 - This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
+- Positioning varies for each key:
+  - 24px away from screenborder
+  - K1/L: at 350px height
+  - K2/R: at 398px height
+  - M1/D: at 446px height
+  - M2: at 492px height
 - Toggleable in the [options](/wiki/options).
-- Expands whenever the keys is pressed.
+- Expands when the keys are pressed.
+- Tinting varies by button state.
 
 ### Pause Screen
 
-_`pause-overlay.png`_ (transparent; not included)
+`pause-overlay.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 1366x768 |
 
-**Notes:**
+Notes:
 
-- If this is not skinned, the background of the map will be dimmed and used by default.
-- This element is will **not** strech to fit.
+- If this is not skinned, the playfield will be dimmed instead.
+- This element is will not strech to fit.
 - Full image height is 768px.
+- Smaller images are shown with transparent borders while larger images are partially shown.
 
 ---
 
-_`fail-background.png`_ (transparent; not included)
+`fail-background.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 1366x768 |
 
-**Notes:**
+Notes:
 
-- If this is not skinned, the background of the map will be dimmed and used by default.
+- If this is not skinned, the playfield will be dimmed instead.
 - This element will strech to fit.
 
 ---
 
-![](img/pause-back.png "pause-back.png")
+`pause-back.png`
+
+![](img/pause-back.png)
 
 | Animatable   | Beatmap Skinnable |
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - This element appears in the fail and pause screens.
 
@@ -758,7 +1001,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - This element appears on the ranking screen (after finishing a map or viewing a score).
 - This overrides `ranking-replay.png` in skin versions 2.0+.
@@ -771,7 +1014,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - This element appears on the ranking screen after finishing a map and on the pause and fail screens.
 - This overrides `ranking-retry.png` in v2.0+.
@@ -784,7 +1027,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - This element has no size restrictions.
 - When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
@@ -797,7 +1040,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![Yes][true] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
 - Tinted black over time when near critical zone and tinted red in the critical zone.
@@ -812,7 +1055,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - For skin versions 2.0+, `scorebar-marker.png` has higher priority.
 - This element represents the "passing" zone.
@@ -826,7 +1069,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - For skin versions 2.0+, `scorebar-marker.png` has higher priority.
 - this element represents the "warning" zone
@@ -840,7 +1083,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - For skin versions 2.0+, `scorebar-marker.png` has higher priority.
 - This element represents the "critical" zone.
@@ -913,7 +1156,7 @@ The following table is for all score number elements.
 
 ![](img/score-comma.png "score-comma.png")
 
-**Notes:**
+Notes:
 
 - By default, this is also a part of the combo numbers.
 - This is for the accuracy display.
@@ -923,7 +1166,7 @@ The following table is for all score number elements.
 
 ![](img/score-dot.png "score-dot.png")
 
-**Notes:**
+Notes:
 
 - By default, this is also a part of the combo numbers.
 - This is for the accuracy diaplay.
@@ -933,7 +1176,7 @@ The following table is for all score number elements.
 
 ![](img/score-percent.png "score-percent.png")
 
-**Notes:**
+Notes:
 
 - By default, this is also a part of the combo numbers.
 - This is for the accuracy.
@@ -942,7 +1185,7 @@ The following table is for all score number elements.
 
 ![](img/score-x.png "score-x.png")
 
-**Notes:**
+Notes:
 
 - By default, this is also a part of the combo numbers.
 - This is for the combo, only used in [osu!standard](/wiki/osu!standard).
@@ -1041,7 +1284,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------------:|:-----------------:|
 | ![No][false]&sup1; | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is the headline for the player's accuracy.
 
@@ -1053,7 +1296,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is the background of the player's performance over time graph (performance is the amount from life bar)
 
@@ -1065,7 +1308,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------------------:|:-----------------:|
 | ![No][false] (see notes) | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - If an animation is used, the zeroth frame is used.
 - This is the headline for the player's highest combo obtained.
@@ -1078,7 +1321,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is the body of the ranking panel.
 
@@ -1090,7 +1333,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------------------:|:-----------------:|
 | ![No][false] (see notes) | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - If an animation is used, the zeroth frame is used.
 - "Perfect" is correlated with hit scores, not accuracy.
@@ -1103,7 +1346,7 @@ After version 2.0+, most of these elements got realigned.
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is the heading for the entire ranking screen
 
@@ -1115,7 +1358,7 @@ _`ranking-replay.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - This element is for legacy support (for older skins).
 - This will override `pause-replay.png`, if skinned.
@@ -1128,7 +1371,7 @@ _`ranking-retry.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - This element is for legacy support (for older skins).
 - This will override `pause-retry.png`, if skinned.
@@ -1141,7 +1384,7 @@ _`ranking-retry.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is used in multiplayer for the winner of the round.
 
@@ -1153,7 +1396,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 |:------------:|:-----------------:|
 | ![Yes][true] | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - Animation name: `menu-back-#.png`; replace `#` with indexed count (start frame count at zero).
 - _osu!_ has a new back button; however, it is unskinnable!
@@ -1167,7 +1410,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Notes:**
+Notes:
 
 - Skin versions 2.2+ can support thumbnails (toggleable in [options](/wiki/options)) for song selection
 - This element is used in various places:
@@ -1232,7 +1475,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - Depending on the osu!client's window size, 4 or 5 tabs will be displayed.
 
@@ -1244,7 +1487,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is used for star ratings (seen in song selection).
 
@@ -1256,7 +1499,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Note:**
+Notes:
 
 - This is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
 
@@ -1379,7 +1622,7 @@ Interface skinning elements that are longer in use are peacefully resting here.
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - This element was removed and was replaced with `menu-background.jpg`.
 
@@ -1391,7 +1634,7 @@ Interface skinning elements that are longer in use are peacefully resting here.
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - This element was removed for an unknown reason.
 - This button opens the beatmap options menu for the individual beatmaps.
@@ -1405,6 +1648,6 @@ Interface skinning elements that are longer in use are peacefully resting here.
 |:------------:|:-----------------:|
 | ![No][false] | ![No][false]      |
 
-**Notes:**
+Notes:
 
 - This element was removed with `selection-selectoptions.png`
