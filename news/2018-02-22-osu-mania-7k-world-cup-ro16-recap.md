@@ -23,7 +23,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 ## <a name="mappool" id="mappool"></a>Mappool
 
-**This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.**
+This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
 ### A word from our Mappool Selectors:
 
@@ -41,7 +41,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 ### Mappool Statistics:
 
-Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and [she - gum](https://osu.ppy.sh/b/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/b/1206690&m=3) was the most popular pick this weekend, having been played in 6 matches.
+Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3) and [she - gum](https://osu.ppy.sh/b/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/b/1206690&m=3) was the most popular pick this weekend, having been played in 6 out of 7 matches.
 
 For full details, please refer to the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml#) compiled by Nwolf and deadbeat! 
 
@@ -49,7 +49,7 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 ### Sunday:
 
-Taking place over 2 blocks on the same day, 
+Taking place over 2 blocks on the same day, the majority of the matches ended up in sweeps, though some of the matches were a lot closer than you would think.
 
 ***Block 1 (03:00 - 05:00 UTC):***
 
@@ -69,13 +69,17 @@ Taking place over 2 blocks on the same day,
 
 **The South Korea vs Italy match ended with a WBD in favour of the Koreans.** Italy was unable to find 2 players for this match, thus they conceded the match by default. It is always a shame to see these kind of outcomes, especially during the elimination stages. Nevertheless, these teams have yet to be eliminated, so best of luck in their upcoming matches next week! 
 
-**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.**  
+**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.** 
+
+In spite of sporting a roster of only 2 players, Chile was able to hold their own and triumph - what a truly remarkable performance! Also, kudosu! to the mid-seeded Japan for taking the top-seeded Chile all the way to tiebreaker. Definitely watch out for both teams as the tournament progresses!
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/chile_japan.jpg)
 
-**France couldn't quite keep up with Philippines, resulting in a 0 - 5 loss.** 
+**France couldn't quite keep up with Philippines, resulting in a 0 - 5 loss.** Team Philippines started things off with [she - Is This Love [osu!mania Speedmapping Challenge #5](https://osu.ppy.sh/b/1206690&m=3), taking the early lead. Like Chile before them, they only had 2 players to work with, but this monstrous duo tore apart the French team like butter. Winning pick after pick, it was not long before the Philippines secured their win.
 
-**The final match of the weekend saw Brazil scoring a 5 - 0 victory against Argentina.** 
+**The final match of the day saw Brazil scoring a 5 - 0 victory against Argentina.** Argentina had the first pick, going for [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452). Brazil was ready for this however, and their victory of 80K score difference definitely showed where the two teams stood. The top-seeded Brazil continued their relentless attack, and sealed the deal when they won the final point on [capitaro - Tenshinranman Haikara Hime](https://osu.ppy.sh/beatmapsets/561041#mania/1186335).
+
+What a surprising weekend this has been! 
 
 --------
 
