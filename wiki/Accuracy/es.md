@@ -6,7 +6,7 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ### osu!standard
 
-![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
 
 En osu!standar, la precisión se calcula ponderando el criterio con el que se le da a cada nota por su valor y dividido por la máxima cantidad posible.
 
