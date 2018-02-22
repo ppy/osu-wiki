@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup - ro16 Recap"
 date: 2018-02-21 22:00:00 +0000
 ---
 
-
+osu!mania 7K world cup is 
 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
@@ -17,7 +17,9 @@ If you've already forgotten the events that have transpired last week, here's a 
 
 (video link)
 
-This week in the Round of 16, 
+This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday. Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
+
+There were also some fancy new changes to the stream layout - for the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!   
 
 ## <a name="mappool" id="mappool"></a>Mappool
 
@@ -41,15 +43,23 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 ## <a name="matches" id="matches"></a>Tournament Matches
 
-### Saturday:
-
-Day 1
---------
-
 ### Sunday:
 
-Day 2
+Taking place over 2 blocks on the same day, 
+
+**Block 1 (03:00 - 05:00 UTC):**
+
+**The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, opting for [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683), winning by a marginal 27K score. Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite their best efforts (including a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - yielding by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
+
+**The next match saw the United States dominating against Australia in a convincing 5 - 0 victory.** After [a very interesting warmup](https://osu.ppy.sh/beatmapsets/556800#mania/1178254), the US proceeded to take point after point, with most score differences being in excess of 100K score. Australia put up a good fight on the final pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592), but the US shot through their dreams, conceding the match.
+
+![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/unitedstates_australia.jpg)
+
 --------
+
+**Block 2 (10:00 - 16:00 UTC):**
+
+
 
 If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
