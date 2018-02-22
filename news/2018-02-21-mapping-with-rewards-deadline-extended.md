@@ -18,7 +18,11 @@ The deadline for this contest was hit on the **31st December 2017** and the turn
 - **\*namirin - closing eyes**
 	- 5 valid entries; 3 osu!, 2 osu!taiko
 
-Because of the incredibly low turnout the deadline of this contest is extended towards the **1st May 2018 00:00 UTC+0**. The other major change is that there will not be any distinction made between the short and full versions of the songs provided, because balancing this restriction fairly proved to be impossible. The ruleset and conditions for future iterations of this contest are subject to change and improvement, but it would be unfair to any submissions to this currently running iteration of it if the ruleset was changed after the first deadline has been hit. 
+We'll be extending deadline of the contest to the **1st May 2018 00:00 UTC+0** to allow for more people to participate. 
+
+The other major change is that there will not be any distinction made between the short and full versions of the songs provided, because balancing this restriction fairly proved to be infeasible. 
+
+The ruleset and conditions for future iterations of this contest are subject to change and improvement as said in the initial announcement, but it would be unfair to any submissions to this currently running iteration of it if the ruleset was changed after the first deadline has been hit. 
 
 ## Conditions
 - **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** Maps only uploaded via the Beatmap Submission System will not be considered. 
@@ -72,6 +76,6 @@ This is the bounty set on this contest:
 > The cinematic climax of [Loki/Thaehan's](https://osu.ppy.sh/beatmaps/artists/7) *The Fall of a Hero*. High BPM symphonic metal with prominent electric guitar melodies and leads, set to muted but varied percussion.
 + [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
 
-If any of these songs interest you, feel free to open one in editor and take a shot at mapping it over the course of the next two and a half months! We look forward to seeing your submissions in the near future.
+If any of these songs interest you, feel free to open one in the editor and take a shot at mapping it over the course of the next two and a half months! We look forward to seeing your submissions in the near future.
 
 —Okoratu
