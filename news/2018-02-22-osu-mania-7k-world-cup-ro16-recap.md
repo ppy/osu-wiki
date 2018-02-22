@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup - ro16 Recap"
 date: 2018-02-21 22:00:00 +0000
 ---
 
-osu!mania 7K World Cup is fully underway, with 16 teams fighting their way to the top! Have you missed out on any of the action? Fear not, as we've got you covered here! 
+osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their way to the top! Did you miss out on any of the action? Fear not, as we've got you covered here! 
 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
@@ -27,7 +27,7 @@ osu!mania 7K World Cup is fully underway, with 16 teams fighting their way to th
 
 ### A word from our Mappool Selectors:
 
-*"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."*
+*"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."* 
 
 —aitor98
 
@@ -35,7 +35,7 @@ osu!mania 7K World Cup is fully underway, with 16 teams fighting their way to th
 
 —Blocko
 
-*"There were quite a few problems with the Ro16 pool (more than what I could fit in a small paragraph) and I'm definitely not proud of it. Some of the problems I can quote are the quality of the maps used which could've been higher, and the primary SV map [she - gum](https://osu.ppy.sh/b/1546340&m=3) was a bit of a miscalculation - it was too hard for Ro16. Let's not talk about [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3). Regardless, I can say we learned quite a bit from all the feedback we received and hopefully the QF pool is a lot better."*
+*"There were quite a few problems with the Ro16 pool (more than what I could fit in a small paragraph) and I'm definitely not proud of it. Some of the problems I can quote are the quality of the maps used which could've been higher, and the primary SV map [she - gum](https://osu.ppy.sh/b/1546340&m=3) was a bit of a miscalculation - it was too hard for Ro16. Let's not talk about [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/b/293691&m=3). Regardless, I can say we learned quite a bit from all the feedback we received and hopefully the QF pool is a lot better."* 
 
 —spoonguy
 
@@ -53,9 +53,9 @@ Taking place over 2 blocks on the same day,
 
 ***Block 1 (03:00 - 05:00 UTC):***
 
-**The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, taking the lead with [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683). Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite their best efforts (including a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - yielding by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
+**The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, taking the lead with [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683). Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - missing out by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
 
-**The next match saw the United States dominating against Australia in a convincing 5 - 0 victory.** After [a very interesting warmup](https://osu.ppy.sh/beatmapsets/556800#mania/1178254), the US proceeded to take point after point, with most score differences being in excess of 100K score. Australia put up a good fight on the final pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592), but the US shot through their dreams, conceding the match.
+**The next match saw the United States dominating against Australia in a convincing 5 - 0 victory.** After [a very interesting warmup](https://osu.ppy.sh/beatmapsets/556800#mania/1178254), the US proceeded to take point after point, with most score differences being in excess of 100K. Australia put up a good fight on the final pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592), but the US blasted right through, winning the match.
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/unitedstates_australia.jpg)
 
@@ -63,19 +63,21 @@ Taking place over 2 blocks on the same day,
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
-**Indonesia v Singapore** 
+**Indonesia vs Singapore was next, with Singapore triumphing 0 - 5.**  
 
-**Malaysia v Germany** 
+**Malaysia won a convincing 5 - 0 victory over Germany.** 
 
-**South Korea v Italy** 
+**The South Korea vs Italy match ended with a WBD in favour of the Koreans.** Italy was unable to find 2 players for this match, thus they conceded the match by default. It is always a shame to see these kind of outcomes, especially during the elimination stages. Nevertheless, these teams have yet to be eliminated, so best of luck in their upcoming matches next week! 
 
-**Chile v Japan** 
+**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.**  
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/chile_japan.jpg)
 
-**France v Philippines** 
+**France couldn't quite keep up with Philippines, resulting in a 0 - 5 loss.** 
 
-**Brazil v Argentina** 
+**The final match of the weekend saw Brazil scoring a 5 - 0 victory against Argentina.** 
+
+--------
 
 If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all. Alternatively, you can check out Junihuhn's wonderful recap video below!
 
