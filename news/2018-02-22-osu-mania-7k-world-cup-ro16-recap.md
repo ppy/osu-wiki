@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup - ro16 Recap"
 date: 2018-02-21 22:00:00 +0000
 ---
 
-osu!mania 7K world cup is 
+osu!mania 7K World Cup is fully underway, with 16 teams fighting their way to the top! Have you missed out on any of the action? Fear not, as we've got you covered here! 
 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
 
@@ -13,9 +13,9 @@ osu!mania 7K world cup is
 <a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
 
 --------
-If you've already forgotten the events that have transpired last week, here's a video recap by our beloved Junihuhn summarising the highlights of the Group Stage.
+If you've already forgotten the events that have transpired last week, here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/u/4182339) summarising the highlights of the Group Stage.
 
-(video link)
+<iframe width="90%" height="450" src="https://www.youtube.com/watch?v=69UAX01RA14" frameborder="0" allowfullscreen></iframe>
 
 This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday. Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
 
@@ -31,9 +31,13 @@ There were also some fancy new changes to the stream layout - for the first time
 
 —Blocko
 
-*"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."
+*"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."*
 
 —aitor98
+
+*quote from spoonguy*
+
+—spoonguy
 
 ### Mappool Statistics:
 
@@ -47,7 +51,7 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 Taking place over 2 blocks on the same day, 
 
-**Block 1 (03:00 - 05:00 UTC):**
+***Block 1 (03:00 - 05:00 UTC):***
 
 **The first match of the day was between teams Canada and China, ending in a 0 - 5 sweep.** China was first to pick, opting for [Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania/615683), winning by a marginal 27K score. Canada retaliated in turn with [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452), but despite their best efforts (including a phenomenal 991K FC from [Dawt](https://osu.ppy.sh/users/2747704)), it was not enough to secure them the win - yielding by a mere 4.9K score. With overwhelming confidece, Team China then proceeded to win the match. A fine performance from both teams.
 
@@ -57,11 +61,15 @@ Taking place over 2 blocks on the same day,
 
 --------
 
-**Block 2 (10:00 - 16:00 UTC):**
+***Block 2 (10:00 - 16:00 UTC):***
 
 
 
-If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
+
+
+If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all. Alternatively, you can check out Junihuhn's wonderful recap video below!
+
+<iframe width="90%" height="450" src="https://www.youtube.com/watch?v=zYxA-8oLYTE" frameborder="0" allowfullscreen></iframe>
 
 That concludes all the matches for this weekend! Good luck to all the remaining teams in this tournament!
 
@@ -78,7 +86,7 @@ LOSER STUFF
 
 --------
 
-**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.** MATCH. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
+**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.**. Team China will be facing of Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/280).
 
