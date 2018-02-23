@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights: January 2018"
-date: 2018-02-22 09:00:00 +0000
+date: 2018-02-23 11:00:00 +0000
 ---
 
 The start of the year was strong and here we come again with our selection of maps from previous month! We are sure it will be interesting whether you are a player or mapper, make sure to drop by and check it out!
