@@ -83,7 +83,7 @@ What a surprising weekend this has been!
 
 --------
 
-If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all. Alternatively, you can check out Junihuhn's wonderful recap video below!
+If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all). Alternatively, you can check out Junihuhn's wonderful recap video below!
 
 <iframe width="90%" height="450" src="https://www.youtube.com/watch?v=zYxA-8oLYTE" frameborder="0" allowfullscreen></iframe>
 
