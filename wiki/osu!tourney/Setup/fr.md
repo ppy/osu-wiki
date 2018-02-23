@@ -7,7 +7,7 @@ _Page principale: [osu!tourney](/wiki/osu!tourney)_
 Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données des musiques peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les juste dans des dossiers séparés.  
 Pour ce faire, copiez `osu!.exe` dans un dossier vide et lancez-le. Une nouvelle installation d'osu! sera créée. C'est la seule installation qui sera modifiée.
 
-Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`. Changez le canal de mise à jour à `CuttingEdge` et attendez pour redémarrer osu!
+Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`.
 
 Fermez osu! et créez un fichier `tournament.cfg` dans le dossier d'installation. Démarrez osu! encore une fois et le client osu!tourney devrait s'ouvrir.
 

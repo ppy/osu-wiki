@@ -1054,7 +1054,7 @@ Please note: you may have to restart osu! after toggling these as some of these 
 </tr>
 <tr class="even">
 <td><p>Debug_DisableBlendingModes</p></td>
-<td><p>Stops blending the colors</p></td>
+<td><p>Stops blending the colours</p></td>
 </tr>
 <tr class="odd">
 <td><p>Debug_DisablePerformanceLogging</p></td>

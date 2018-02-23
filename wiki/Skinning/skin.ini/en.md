@@ -23,7 +23,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 - Old styled spinner (`spinner-circle.png`, `spinner-background.png`, and `spinner-metre.png`).
 - Segmented countdown image build-up.
 - Smaller selection bar images (87px height max).
-- Uncolored play-warningarrow during end of breaks.
+- Uncoloured play-warningarrow during end of breaks.
 - Version exclusive ranking screen buttons (`ranking-replay.png` and `ranking-retry.png`).
 - Version exclusive sliderpoints display (`sliderpoint10.png` and `sliderpoint30.png`).
 
@@ -37,7 +37,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 - Countdown sequence instead of segmented image.
   - Countdowns are now centered.
 - Hitcircle numbers are no longer part of hitburst explosions.
-- Red colored play-warningarrow during end of breaks.
+- Red coloured play-warningarrow during end of breaks.
 - Smaller expansion of `lighting.png`.
 - Anchor changes of selectionbar images.
 - Positioning changes of ranking screen images (generally, it is shifted down).

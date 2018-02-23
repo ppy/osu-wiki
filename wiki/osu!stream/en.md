@@ -422,7 +422,7 @@ In terms of getting life for lifebar, it is explained as in below.
 The player gain life from:
 
 - Hit allowed: 300, 100, osu!, gold good! and green good!.
-  - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a color combo awards more life.)
+  - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
   - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
   - Completing the Spinner and Hold Bubble(s) properly.
 

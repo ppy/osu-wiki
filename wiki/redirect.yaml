@@ -500,8 +500,6 @@
 
 "how_you_can_help":            "How_You_Can_Help!"
 
-"main_page":                   "Index"
-
 "install":                     "Installation"
 "install_osu!":                "Installation"
 "osu!_install":                "Installation"
@@ -1027,6 +1025,12 @@
 "scorev2":                     "Score/#scorev2"
 
 "skr":                         "Shortcut_Key_Reference"
+
+"main_page": "Sitemap"
+"all_articles": "Sitemap"
+"all_pages": "Sitemap"
+"all_links": "Sitemap"
+"index": "Sitemap"
 
 "skinning_interface":          "Skinning/Interface"
 "interface_skinning":          "Skinning/Interface"
