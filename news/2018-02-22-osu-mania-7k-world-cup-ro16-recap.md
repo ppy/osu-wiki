@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup - ro16 Recap"
-date: 2018-02-21 22:00:00 +0000
+date: 2018-02-23 00:30:00 +0000
 ---
 
 osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their way to the top! Did you miss out on any of the action? Fear not, as we've got you covered here! 
@@ -47,9 +47,9 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 ## <a name="matches" id="matches"></a>Tournament Matches
 
-### Sunday:
-
 Taking place over 2 blocks on the same day, the majority of the matches ended up in sweeps, though some of the matches were a lot closer than you would think.
+
+### Sunday:
 
 ***Block 1 (03:00 - 05:00 UTC):***
 
@@ -109,7 +109,7 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 | Italy         | ![][flag_IT] | ![][flag_AR] | Argentina | **18:00 UTC** | 
 | Canada        | ![][flag_CA] | ![][flag_FR] | France    | **19:00 UTC** |
 
-**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.** Team China will be facing of Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
+**The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.** Team China will be facing off Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/280).
 
