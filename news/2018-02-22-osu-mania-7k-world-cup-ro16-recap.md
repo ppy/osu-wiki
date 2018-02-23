@@ -63,19 +63,19 @@ Taking place over 2 blocks on the same day, the majority of the matches ended up
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
-**Indonesia vs Singapore was next, with Singapore triumphing 0 - 5.**  
+**Indonesia vs Singapore was next, with Singapore triumphing 0 - 5.** Despite it being a sweep, the former 3rd place country most assuredly gave Singapore one hell of a fight. Indonesia picked first, opting for [KOTOKO - agony (TV Size)](https://osu.ppy.sh/b/261515&m=3), losing only by 24K score. The subsequent two picks saw Indonesia missing out by 8.8K and 6.8K score respectively. The top seeded Singapore just proved too consistent a team, and barrelled through towards victory.  
 
-**Malaysia won a convincing 5 - 0 victory over Germany.** 
+**Malaysia won a convincing 5 - 0 victory over Germany.** All things considered, the low seeded Germany started off rather well, conceding their first pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592) by only 24K score. However, Things quickly turned south as Malaysia kicked into high gear, with [cheewee10](https://osu.ppy.sh/users/4477497) setting some of the best scores we've seen all weekend. Team Malaysia ends the match with the beatiful song [N.M.S.T - Snowflakes](https://osu.ppy.sh/beatmapsets/444615#mania/955188).
 
 **The South Korea vs Italy match ended with a WBD in favour of the Koreans.** Italy was unable to find 2 players for this match, thus they conceded the match by default. It is always a shame to see these kind of outcomes, especially during the elimination stages. Nevertheless, these teams have yet to be eliminated, so best of luck in their upcoming matches next week! 
 
-**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.** 
+**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.** Team Japan was first to pick - [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592). After a short but intense battle, Chile took the early lead by a marginal score difference of only 8.9K. Chile followed it up by winning their own pick [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/b/1206690&m=3). taking the score to 2 - 0. In a fierce display of determination, Japan proceeded to win **three** consecutive points in a row, with each victory being literally within a hair's breadth. After a few more small victories on either side, Japan equalised 4 - 4. It was time for the tiebreaker...     
 
-In spite of sporting a roster of only 2 players, Chile was able to hold their own and triumph - what a truly remarkable performance! Also, kudosu! to the mid-seeded Japan for taking the top-seeded Chile all the way to tiebreaker. Definitely watch out for both teams as the tournament progresses!
+Enter [kamome sano - eclair au chocolat (extended bittersweet mix)](https://osu.ppy.sh/beatmapsets/505048#mania/1074472), a devilishly tricky tiebreaker for the Round of 16 level. The stakes were high and the flickering was as real and intense as it could possibly be. In spite of sporting a roster of only 2 players, it was Team Chile that was able to hold their own and triumph, by a score difference of only 12K. Major kudosu! to the mid-seeded Japan for taking the top-seeded Chile all the way to tiebreaker - what a truly splendid performance! If I were you, I'd definitely watch out for both teams as the tournament progresses!
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/chile_japan.jpg)
 
-**France couldn't quite keep up with Philippines, resulting in a 0 - 5 loss.** Team Philippines started things off with [she - Is This Love [osu!mania Speedmapping Challenge #5](https://osu.ppy.sh/b/1206690&m=3), taking the early lead. Like Chile before them, they only had 2 players to work with, but this monstrous duo tore apart the French team like butter. Winning pick after pick, it was not long before the Philippines secured their win.
+**France couldn't quite keep up with Philippines, resulting in a 0 - 5 loss.** Team Philippines started things off with [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/b/1206690&m=3), taking the early lead. Like Chile before them, they only had 2 players to work with, but this monstrous duo tore apart the French team like butter. Winning pick after pick, it was not long before the Philippines secured their win.
 
 **The final match of the day saw Brazil scoring a 5 - 0 victory against Argentina.** Argentina had the first pick, going for [xi - Aragami](https://osu.ppy.sh/beatmapsets/344198#mania/760452). Brazil was ready for this however, and their victory of 80K score difference definitely showed where the two teams stood. The top-seeded Brazil continued their relentless attack, and sealed the deal when they won the final point on [capitaro - Tenshinranman Haikara Hime](https://osu.ppy.sh/beatmapsets/561041#mania/1186335).
 
