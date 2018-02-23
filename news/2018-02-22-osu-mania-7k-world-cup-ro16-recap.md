@@ -15,7 +15,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 --------
 **Have you already forgotten the events that have transpired last week?** Here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/users/4182339) summarising the highlights of the Group Stage.
 
-<iframe width="90%" height="450" src="https://www.youtube.com/embed/69UAX01RA14" frameborder="0" allowfullscreen></iframe>
+<iframe width="90%" height="450" src="https://www.youtube.com/embed/69UAX01RA14?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday.** Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
 
@@ -85,7 +85,7 @@ What a surprising weekend this has been!
 
 If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all). Alternatively, you can check out Junihuhn's wonderful recap video below!
 
-<iframe width="90%" height="450" src="https://www.youtube.com/embed/zYxA-8oLYTE" frameborder="0" allowfullscreen></iframe>
+<iframe width="90%" height="450" src="https://www.youtube.com/embed/zYxA-8oLYTE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 That concludes all the matches for this weekend! Good luck to all the remaining teams in this tournament!
 
