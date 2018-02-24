@@ -8,7 +8,7 @@ osu!mania World Cup 2014
 
 ![MWC 2014 logo](logo.png)
 
-The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 1st installment of the osu!mania World Cup and is separated in a 7-keys and 4-keys bracket.
+The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu!mania World Cup and is separated in a 7-keys and 4-keys bracket.
 
 ## Tournament Schedule
 
@@ -29,9 +29,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 month supporter tag, profile badge, osu! merchandise, "osu!mania Champion" usertitle |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 month supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6-month supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3-month supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1-month supporter tag |
 
 ## Organization
 
@@ -39,7 +39,7 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 
 | Position | Member(s) |
 |---|---|
-| Tournament Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565) |
+| Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565) |
 | Map Selectors | [![][flag_RU] \[Shi-Ra\]](https://osu.ppy.sh/users/2008489), [![][flag_CL] Agka](https://osu.ppy.sh/users/64811) |
 | Streamers | [![][flag_AU] peppy](https://osu.ppy.sh/users/2), [![][flag_PL] Marcin](https://osu.ppy.sh/users/722665), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Commentators | [![][flag_US] Charles445](https://osu.ppy.sh/users/85000), [![][flag_FR] Mr Color](https://osu.ppy.sh/users/116078), [![][flag_IT] Roxas](https://osu.ppy.sh/users/1041833), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347), [![][flag_RU] \[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
@@ -66,8 +66,6 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 | ![][flag_AR] | **Argentina** | **[juankristal](https://osu.ppy.sh/users/443656)**, [Icaruz](https://osu.ppy.sh/users/2605137), [Euroe](https://osu.ppy.sh/users/3633019) |
 | ![][flag_AU] | **Australia** | **[Envisionise](https://osu.ppy.sh/users/2853195)**, [-X Y Z-](https://osu.ppy.sh/users/1610833), [MasterSonic10](https://osu.ppy.sh/users/1249224), [Combinatorix](https://osu.ppy.sh/users/3174286) |
 | ![][flag_CA] | **Canada** | **[Bites](https://osu.ppy.sh/users/1671598)**, [ca25nada](https://osu.ppy.sh/users/103255) |
-| ![][flag_CL] | **Chile** | --- disbanded --- |
-| ![][flag_CZ] | **Czech Republic** | --- retired --- |
 | ![][flag_FR] | **France** | **[adrien062](https://osu.ppy.sh/users/2131990)**, [lim38](https://osu.ppy.sh/users/2741170), [HamarGaylord](https://osu.ppy.sh/users/1398639) |
 | ![][flag_DE] | **Germany** | **[IamBaum](https://osu.ppy.sh/users/3078914)**, [Reikokaz](https://osu.ppy.sh/users/1263173), [Dualshock](https://osu.ppy.sh/users/1902591), [Chucksal](https://osu.ppy.sh/users/2869914) |
 | ![][flag_ID] | **Indonesia** | **[dionzz99](https://osu.ppy.sh/users/2545604)**, [BeAyWayYou](https://osu.ppy.sh/users/2816463) |
@@ -97,27 +95,15 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 | ![][flag_ID] | **Indonesia** | **[Nyooo](https://osu.ppy.sh/users/2319372)**, [Midare](https://osu.ppy.sh/users/2663343), [Zeradok](https://osu.ppy.sh/users/544631) |
 | ![][flag_JP] | **Japan** | **[OmegaJack](https://osu.ppy.sh/users/205391)**, [coo\_m](https://osu.ppy.sh/users/1927193), [metyabo](https://osu.ppy.sh/users/623773) |
 | ![][flag_MY] | **Malaysia** | **[Gon](https://osu.ppy.sh/users/583765)**, [LongGone](https://osu.ppy.sh/users/35882), [\_Sylveon\_](https://osu.ppy.sh/users/3936677) |
-| ![][flag_NL] | **Netherlands** | --- retired --- |
 | ![][flag_NO] | **Norway** | **[BigMouthDog](https://osu.ppy.sh/users/2110078)**, [Dazzy](https://osu.ppy.sh/users/811297) |
 | ![][flag_PH] | **Philippines** | **[Entozer](https://osu.ppy.sh/users/277044)**, [snowkel](https://osu.ppy.sh/users/1073829), [SanniSanni](https://osu.ppy.sh/users/3036686) |
 | ![][flag_PL] | **Poland** | **[Modren](https://osu.ppy.sh/users/1828621)**, [Hudonom](https://osu.ppy.sh/users/1654221), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Tear](https://osu.ppy.sh/users/1340650) |
 | ![][flag_PT] | **Portugal** | **[-Blossom-](https://osu.ppy.sh/users/2535395)**, [Mizusi](https://osu.ppy.sh/users/2796312) |
 | ![][flag_RU] | **Russian Federation** | **[Daleenie](https://osu.ppy.sh/users/1540597)**, [Kiviman](https://osu.ppy.sh/users/2790640) |
 | ![][flag_KR] | **South Korea** | **[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [jhlee0133](https://osu.ppy.sh/users/140148), [WindyS](https://osu.ppy.sh/users/1190879) |
-| ![][flag_ES] | **Spain** | --- disbanded --- |
 | ![][flag_TH] | **Thailand** | **[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo[Mikoto]](https://osu.ppy.sh/users/445236) |
 | ![][flag_GB] | **United Kingdom** | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [The Muffin Man](https://osu.ppy.sh/users/2186171), [Mafham](https://osu.ppy.sh/users/3660531), [xWillx](https://osu.ppy.sh/users/696222) |
 | ![][flag_US] | **United States** | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092) |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | 4K Bracket | 7K Bracket |
-|:---:|---|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand**    |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia**    | ![][flag_MY] **Malaysia**    |
 
 ------------------------------------------------------------------------
 
@@ -151,7 +137,7 @@ This competition has come to an end and resulted in the following podium:
 
 ------------------------------------------------------------------------
 
-## 4K Mappools
+## 4K Mappool
 
 ### Finals
 
@@ -172,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/b/473228)
 
-### Semi-finals
+### Semifinals
 
 - FreeMod
   - [BlackY - Harpuia (Mystical Faith) \[4K\]](https://osu.ppy.sh/b/419904)
@@ -191,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [DJ Sharpnel - Over the Fullereneshift (Fullerene-) \[Komm, susser Tod\]](https://osu.ppy.sh/b/450928)
 
-### Quarter-finals
+### Quarterfinals
 
 - FreeMod
   - [t+pazolite - Stardust Lullaby (ZXCV) \[Sweet Dreams\]](https://osu.ppy.sh/b/383370)
@@ -240,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/b/407642)
 
-## 7K Mappools
+## 7K Mappool
 
 ### Finals
 
@@ -261,7 +247,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [xi - Ascension to Heaven (CLSW) \[L'SHD\]](https://osu.ppy.sh/b/449528)
 
-### Semi-finals
+### Semifinals
 
 - FreeMod
   - [C-SHOW feat Mikanjiru - Sea The Stars (Remillion Cross) \[Seas\]](https://osu.ppy.sh/b/439024)
@@ -280,7 +266,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94) \[Insane+\]](https://osu.ppy.sh/b/198272)
 
-### Quarter-finals
+### Quarterfinals
 
 - FreeMod
   - [Nakamura Meiko - Scarlet Faith (Tsukuyomi) \[PC's Another\]](https://osu.ppy.sh/b/417467)
@@ -331,7 +317,7 @@ This competition has come to an end and resulted in the following podium:
 
 ------------------------------------------------------------------------
 
-## Match Results: 4K
+## Results: 4K
 
 ### Finals
 
@@ -340,14 +326,14 @@ This competition has come to an end and resulted in the following podium:
 | Poland ![][flag_PL]      | 0 | **6** | ![][flag_MY] **Malaysia**    | [#1](https://osu.ppy.sh/community/matches/9193332) |
 | Philippines ![][flag_PH] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9194419) |
 
-### Semi-finals
+### Semifinals
 
 | Team A | | | Team B | History |
 |---:|:---:|:---:|:---|:---:|
 | **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_PL] Poland          | [#1](https://osu.ppy.sh/community/matches/9049440) |
 | Malaysia ![][flag_MY]        | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9050433) |
 
-### Quarter-finals
+### Quarterfinals
 
 | Team A | | | Team B | History |
 |---:|:---:|:---:|:---|:---:|
@@ -414,7 +400,7 @@ This competition has come to an end and resulted in the following podium:
 | Spain ![][flag_ES]                  | 0 | **4** | ![][flag_DE] **Germany**        | [#1](https://osu.ppy.sh/community/matches/8459866) |
 | **Poland** ![][flag_PL]             | **4** | 2 | ![][flag_FR] France             | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
-## Match Results: 7K
+## Results: 7K
 
 ### Finals
 
@@ -423,14 +409,14 @@ This competition has come to an end and resulted in the following podium:
 | **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_JP] Japan           | [#1](https://osu.ppy.sh/community/matches/9195322) |
 | Thailand ![][flag_TH]     | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9196502) |
 
-### Semi-finals
+### Semifinals
 
 | Team A | | | Team B | History |
 |---:|:---:|:---:|:---|:---:|
 | Japan ![][flag_JP]    | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9047313) |
 | Malaysia ![][flag_MY] | 3 | **6** | ![][flag_TH] **Thailand**    | [#1](https://osu.ppy.sh/community/matches/9048167) |
 
-### Quarter-finals
+### Quarterfinals
 
 | Team A | | | Team B | History |
 |---:|:---:|:---:|:---|:---:|
