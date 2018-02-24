@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 osu! World Cup 2013
 =====================
 
