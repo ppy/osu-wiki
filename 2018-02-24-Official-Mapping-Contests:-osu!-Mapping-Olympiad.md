@@ -4,7 +4,7 @@ title: "Official Mapping Contests: osu! Mapping Olympiad"
 date: 2018-02-24
 --- 
 
-The osu! Mapping Olympiad marks the return of official beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in force! Introducing the first contest: Pick one of three songs for your chance to become osu!'s first *Mapping Olympians*!
+The osu! Mapping Olympiad marks the return of official beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in force! Introducing the first contest: Pick one of three songs for your chance to become osu!'s next *Elite Mapper*!
 
 ![](https://cdn.discordapp.com/attachments/275879118799896577/403047079762460674/osu__mapping_olympiad.jpg)
 
@@ -47,7 +47,7 @@ All entries will be judged by the following criteria:
 - Impression (10P) - How does the judge view the map holistically (as the entire creation)? Do all of the concepts used in the map work well together and are they executed in a consistent and polished manner?
 - Hitsounding (5P) - How well does the entry utilize hitsounding to emphasize and follow the music?
 
-**We are looking for capable judges! If you are interested, please post in the [Judging Call thread](https://osu.ppy.sh/community/forums/topics/707971) or send a message to [Chaos](https://osu.ppy.sh/u/2628870). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
+**We are looking for capable judges! If you are interested, please post in the [Judging Call thread](https://osu.ppy.sh/community/forums/topics/691326) or send a message to [Chaos](https://osu.ppy.sh/u/2628870). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
 
 ## Prizes
 
@@ -59,7 +59,7 @@ After the entries have been judged and the results have been finalized, each of 
 
 For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a contest. Every 6 points earned will grant you a level of the badge, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6,4,2 for the top 3 entries respectively but the specific rewards will vary per contest based on expected effort and challenge for the participants.
 
-Some of you may be wondering why there isn't an *Elite Mapper* title being rewarded for this contest. We considered a few options but none provided an adequate balance between fairness, demonstrating mapping prowess, and integrity for this particular contest. We will have contests in the future where the title will be rewarded.
+Some of you may be wonder where the *Elite Mapper* title for this contest. We considered a few options but none provided an adequate balance between fairness, demonstrating mapping prowess, and integrity for this particular contest. We will have contests in the future where the title will be rewarded.
 
 The contest will remain open for **24 days** from the date of this post. Download the pre-timed .osz files below:
 
@@ -69,6 +69,6 @@ The contest will remain open for **24 days** from the date of this post. Downloa
 
 [Song 3: cYsmix - Escapism](https://assets.ppy.sh/artists/2/osz/cYsmix%20-%20Escapism.osz)
 
-You can find all the information as well as a submission deadline countdown for your convenience at the Contest listing, so be sure to check it out. But enough explanations - get out there and show us what you're capable of; we expect some awesome entries!
+You can find all the information as well as a submission deadline countdown for your convenience at the Contest listing, so be sure to check it out. But enough explanations - get out there and show us what you're capable of, we expect some awesome entries!
 
 -Chaos, Irreversible, Voli
