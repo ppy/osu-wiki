@@ -56,7 +56,7 @@ YUC'e - Sengoku HOP, brought to us by [Nathan](https://osu.ppy.sh/users/4785223)
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/come-and-get-it.jpg)](https://osu.ppy.sh/beatmapsets/417377)
 
-It doesn't require much knowledge or time to figure out that [hikikochan](https://osu.ppy.sh/users/6512678)'s mapset of the song "Come And Get It by Krewella" follows an older osu!taiko mapping meta, a time when dubstep portions of a song were mapped without the usage of 1/8 doublets as is the common case today. 
+It doesn't require much knowledge or time to figure out that [hikikochan](https://osu.ppy.sh/users/6512678)'s mapset of the song "Come And Get It" by Krewella follows an older osu!taiko mapping meta, a time when dubstep portions of a song were mapped without the usage of 1/8 doublets as is the common case today. 
 
 This Inner Oni is outstanding by being simple, but straightforward in its patterns, as more often than not the used colour (red/blue) only changes after two notes, except in rare occasions to highlight important sounds in the song.
 
