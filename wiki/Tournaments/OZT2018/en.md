@@ -58,16 +58,16 @@
 ## Staff 
 | Role | Member(s) |
 | ---: | :--- |
-| Host | ![][flag_US] BearZyo |
-| Co-Host | ![][flag_NZ] Div |
-| Statistician | ![][flag_US] BearZyo |
-| Programmer | ![][flag_KR] Eurus |
-| Media | ![][flag_US] Weed |
-| Graphics | ![][flag_FI] -Bye |
-| MapPool | ![][flag_US] Squilly ![][flag_US] BlackZero ![][flag_PS] Omaru ![][flag_GB] Alexdark69 ![][flag_SE] Bullen8 ![][flag_SG] Rachel |
-| Streamers | ![][flag_US] BearZyo ![][flag_US] CornLord7117 ![][flag_CA] Sparhten ![][flag_NL] Sartan |
-| Commentators | ![][flag_CA] Legless ![][flag_US] mcdemors ![][flag_MX] [Baskest] ![][flag_NL] Sartan ![][flag_PS] Omaru ![][flag_US] Weed ![][flag_GB] AlexDark69  ![][flag_US] CornLord7117 |
-| Referees | ![][flag_US] BearZyo ![][flag_NZ] Div ![][flag_PS] Omaru ![][flag_CA] Sparhten ![][flag_CA] Sakaguchi ![][flag_US] Science ![][flag_US] motive ![][flag_GB] Yazzehh ![][flag_GB] Alexdark69 ![][flag_US] divinereigns ![][flag_FR] Jean-michel Jr ![][flag_LT] Mancis ![][flag_NL] Mr HeliX ![][flag_SE] Nitroz ![][flag_US] BlackZero ![][flag_DE] Xenou|
+| Host | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) |
+| Co-Host | [![][flag_NZ] Div](https://osu.ppy.sh/u/3751116) |
+| Statistician | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) |
+| Programmer | [![][flag_KR] Eurus](https://osu.ppy.sh/u/3426414) |
+| Media | [![][flag_US] Weed](https://osu.ppy.sh/u/2609349) |
+| Graphics | [![][flag_FI] -Bye](https://osu.ppy.sh/u/4291882) |
+| MapPool | [![][flag_US] Squilly](https://osu.ppy.sh/u/4681578) [![][flag_US] BlackZero](https://osu.ppy.sh/u/5383496) [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143) [![][flag_GB] Alexdark69](https://osu.ppy.sh/u/5146647) [![][flag_SE] Bullen8](https://osu.ppy.sh/u/6831611) [![][flag_SG] Rachel](https://osu.ppy.sh/u/6494160) |
+| Streamers | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) [![][flag_US] CornLord7117](https://osu.ppy.sh/u/6699829) [![][flag_CA] Sparhten](https://osu.ppy.sh/u/7601720) [![][flag_NL] Sartan](https://osu.ppy.sh/u/4100941) |
+| Commentators | [![][flag_CA] Legless](https://osu.ppy.sh/u/3224243) [![][flag_US] mcdemors](https://osu.ppy.sh/u/5295701) [![][flag_MX] Baskest](https://osu.ppy.sh/u/3963408) [![][flag_NL] Sartan](https://osu.ppy.sh/u/4100941) [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143) [![][flag_US] Weed](https://osu.ppy.sh/u/2609349) [![][flag_GB] AlexDark69](https://osu.ppy.sh/u/5146647)  [![][flag_US] CornLord7117](https://osu.ppy.sh/u/6699829) |
+| Referees | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) [![][flag_NZ] Div](https://osu.ppy.sh/u/3751116) [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143) [![][flag_CA] Sparhten](https://osu.ppy.sh/u/7601720) [![][flag_CA] Sakaguchi](https://osu.ppy.sh/u/7057311) [![][flag_US] Science](https://osu.ppy.sh/u/5535233) [![][flag_US] motive](https://osu.ppy.sh/u/7376116) [![][flag_GB] Yazzehh](https://osu.ppy.sh/u/7068973) [![][flag_GB] Alexdark69](https://osu.ppy.sh/u/5146647) [![][flag_US] divinereigns](https://osu.ppy.sh/u/9244014) [![][flag_FR] Jean-michel Jr](https://osu.ppy.sh/u/4430948) [![][flag_LT] Mancis](https://osu.ppy.sh/u/4839300) [![][flag_NL] Mr HeliX](https://osu.ppy.sh/u/2330619) [![][flag_SE] Nitroz](https://osu.ppy.sh/u/5256529) [![][flag_US] BlackZero](https://osu.ppy.sh/u/5383496) [![][flag_DE] Xenou](https://osu.ppy.sh/u/2539403)|
 
 [flag_LT]: /wiki/shared/flag/LT.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
