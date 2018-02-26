@@ -1,16 +1,16 @@
 ---
 layout: post 
 title: "Official Mapping Contests: osu! Mapping Olympiad"
-date: 2018-02-24 19:00:00 +0100
+date: 2018-02-26 19:00:00 +0100
 --- 
 
-The osu! Mapping Olympiad marks the return of official beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in force! Introducing the first contest: Pick one of three songs for your chance to become osu!'s first *Mapping Olympians*!
+The osu! Mapping Olympiad marks the return of official beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in full force! Introducing the first contest: Pick one of three songs for your chance to become osu!'s first *Mapping Olympians*!
 
-[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](contest url)
+[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/63)
 
 With 2017 just behind us, 2018 is poised to bring many new experiences to osu! To help us start off the new year, let us reach back into something that was once in the past. After a long hiatus, we are thrilled to announce the revival of official beatmapping contests: Welcome to the _osu! Mapping Olympiad!_
 
-The osu! Mapping Olympiad aims to ensure mapping contests across all game modes on a regular schedule. We won't *quite* say it'll be monthly, but it'll hopefully be close to that, run by a small team of community members that are just as excited for more contests as you are!
+The osu! Mapping Olympiad aims to provide mapping contests across all game modes on a regular schedule. We won't *quite* say it'll be monthly, but it'll hopefully be close to that, run by a small team of community members that are just as excited for more contests as you are!
 
 To keep things interesting, we will be hosting a number of different contest formats, from traditional full mapset contests to speedmapping, Aspire and other new contests—so stay tuned in the upcoming months!
 
@@ -41,7 +41,7 @@ And last but certainly not least, this laid back track features playful melodies
 
 All entries will be judged by the following criteria:
 
-- Musical Relevance (10P) - how well entry follows the music with its choice of rhythms, emphasis, spacing, etc.
+- Musical Relevance (10P) - how well the entry follows the music with its choice of rhythms, emphasis, spacing, etc.
 - Creativity (10P) - how unique and innovative the entry is in its use of concepts and design.
 - Technique (10P) - how well the entry utilizes the editor and its tools to create structure, patterning, etc. 
 - Impression (10P) - how the judge views the map holistically (as the entire creation). All of the concepts used in the map should work well together and should be executed in a consistent and polished manner.
@@ -57,7 +57,7 @@ After the entries are judged and the results are finalized, each of the top thre
 - **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
 - **3rd place**: 1 months of osu!supporter, 2 Olympiad Points
 
-For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a contest. Every 6 points earned will grant you a level of the badge, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6,4,2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants.
+For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6,4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants.
 
 Some of you may be wondering why there isn't an *Elite Mapper* title being rewarded for this contest. We considered a few options, but none provided an adequate balance between fairness, demonstrating mapping prowess, and competitive integrity for this particular contest. We will have contests in the future where the title will be rewarded once again so worry not!
 
@@ -69,6 +69,6 @@ You may submit your entries for **24 days** from the date of this post. Download
 
 [Song 3: cYsmix - Escapism](https://assets.ppy.sh/artists/2/osz/cYsmix%20-%20Escapism.osz)
 
-You can find all the information as well as a submission deadline countdown for your convenience at the Contest listing, so be sure to check it out. But enough explanations—get out there and show us what you're capable of. Good luck!
+You can find all the information as well as a submission deadline countdown for your convenience at the [Contest Page](https://osu.ppy.sh/community/contests/63), so be sure to check it out. But enough explanations—get out there and show us what you're capable of. Good luck!
 
 —Chaos, Irreversible, Voli
