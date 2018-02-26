@@ -95,11 +95,11 @@ Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the _i_th
 
 **Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately _25397_ scores.**
 
-You can calculate the exact amount of this bonus by following this formula, where _N_ is the number of ranked maps with a score set:
+You can calculate the exact amount of this bonus by following this formula, where `N` is the number of ranked maps with a score set:
 
-416.6667 \/ (1- 0.9994^_N_).
+`416.6667 * (1 - 0.9994 ^ N)`.
 
-The median number of scores required to reach half of this bonus is roughly _1168_. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
+The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
 
 FAQ
