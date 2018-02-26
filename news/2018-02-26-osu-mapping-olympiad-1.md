@@ -1,8 +1,8 @@
 ---
-layout: post 
+layout: post
 title: "Official Mapping Contests: osu! Mapping Olympiad"
 date: 2018-02-26 19:00:00 +0100
---- 
+---
 
 The osu! Mapping Olympiad marks the return of official beatmapping contests. Starting with the osu! gamemode, we're bringing back beatmapping contests in full force! Introducing the first contest: Pick one of three songs for your chance to become osu!'s first *Mapping Olympians*!
 
