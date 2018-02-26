@@ -22,7 +22,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :--- |
+| :---: | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Atleast 1 month osu!supporter tag, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Atleast 1 month osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
@@ -129,7 +129,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [Rabpit - Sanctity (JJBurstOwO) \[Insane\]](https://osu.ppy.sh/b/663946)
 - DoubleTime
   - [yuikonnu - Zenryoku Batankyuu! (Sekaii) \[Insane\]](https://osu.ppy.sh/b/943471)
-  - [nyanta - SOLROS ~Vocal Edition~ ([CSGA]Ar3sgice) \[Insane\]](https://osu.ppy.sh/b/171368)
+  - [nyanta - SOLROS \~Vocal Edition\~ (\[CSGA\]Ar3sgice) \[Insane\]](https://osu.ppy.sh/b/171368)
 - FreeMod
   - [yuikonnu & ayaponzu\* - Happy Halloween (Loneight) \[Happy Halloween\]](https://osu.ppy.sh/b/1465149)
   - [Pendulum - Crush (Radio Edit) (Mao) \[Collab Extra\]](https://osu.ppy.sh/b/1531707)
@@ -158,7 +158,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/b/268445)
 - FreeMod
   - [REDALiCE - FLOWER REDALiCE Remix (Jenny) \[Another\]](https://osu.ppy.sh/b/302814)
-  - [Himeringo - Idola no Circus (cRyo[iceeicee]) \[Insane\]](https://osu.ppy.sh/b/418139)
+  - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/b/418139)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/b/152199)
 - Tiebreaker
   - [Halozy - Kanshou no Matenrou (mapper) \[Timeless\]](https://osu.ppy.sh/b/985004)
@@ -214,7 +214,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ### Qualifiers
 
 | Player | Total |  | Player | Total |  | Player | Total |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | :------: | ------ | ------ | :------: | ------ | ------ | :------: |
 | ![][flag_AU] Noobsicle | 3,739,471 |  | ![][flag_AU] Kooleyy | 2,594,783 |  | ![][flag_AU] hieepN | 1,968,412 |
 | ![][flag_AU] Lunirs | 3,457,504 |  | ![][flag_AU] Ezipie | 2,560,847 |  | ![][flag_AU] FknRhythmGames | 1,931,796 |
 | ![][flag_AU] Blobby3000 | 3,401,484 |  | ![][flag_NZ] smead | 2,503,472 |  | ![][flag_AU] kobeblue | 1,898,007 |
@@ -281,7 +281,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 * Both players will !roll. **Highest roll picks & bans first**. They will also choose warmup first.
 * Warmups may not be longer than 4:30.
 
-**Winning conditions:**
+### Winning conditions
   - In Round of 32 & Losers Bracket Rounds 1 & 2, you need to win 4 maps to win a match. (Best-of-7)
   - In Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 you need to win 5 maps to win a match. (Best-of-9)
   - In Semi-finals & Losers Bracket Rounds 7 & 8, you need to win 6 maps to win a match. (Best-of-11)
