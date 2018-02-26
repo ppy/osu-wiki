@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: February 2018"
-date: 2018-2-25 09:00:00 +0000
+date: 2018-2-26 13:00:00 +0000
 ---
 
 What's been happening in the Beatmap Nominators and Quality Assurance Team, you ask? Mapping successes, exciting current developments and many new team additions all round, that's what! Read on to find out all the details!
@@ -22,7 +22,7 @@ That said, we're always striving towards future growth and even more impressive 
 
 ### New Beatmap Nominator promotions
 
-A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!: 
+A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!: 
 
 [- Frontier -](https://osu.ppy.sh/users/4314710), [ailv](https://osu.ppy.sh/users/6933054), [AyanokoRin](https://osu.ppy.sh/users/5376866), [Bubblun](https://osu.ppy.sh/users/6191653), [dsco](https://osu.ppy.sh/users/4330511), [ezek](https://osu.ppy.sh/users/180241), [Hailie](https://osu.ppy.sh/users/5226970), [iYiyo](https://osu.ppy.sh/users/3919785), [Kuron-Kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [mancuso_JM_](https://osu.ppy.sh/users/521568), [Namki](https://osu.ppy.sh/users/5248582), [Nevo](https://osu.ppy.sh/users/7451883), [Noffy](https://osu.ppy.sh/users/1541323), [pinataman](https://osu.ppy.sh/users/1235485), [Realazy](https://osu.ppy.sh/users/918297), [Sotarks](https://osu.ppy.sh/users/4452992), [TheKingHenry](https://osu.ppy.sh/users/5128277), [timemon](https://osu.ppy.sh/users/2072005), [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Wishkey](https://osu.ppy.sh/users/1101704)!
 
@@ -50,7 +50,7 @@ Aside from continuing to develop Beatmap Nominator evaluations, there have been 
 
 A current hot topic in the osu! Ranking Criteria has been the unclear ruling on what we deem to be **"inappropriate or not-safe-for-work content"**. With the recent allowance/removal of some potentially borderline cases, it has become necessary to clarify and expand upon the current rule wording. This will aim to satisfy both mappers who wish to continue creating more mature-themed content, as well as players and moderators who wish to ensure osu! remains a safe and enjoyable environment for all.
 
-A first draft of the [rule change proposal](https://gist.github.com/Ephemeralis/b253dedf2fd87bbb6c154e483d449f2a) has been opened for a round of community discussion. Here, anyone can comment on the planned changes, as well as suggest further revisions. Included are guidelines on how to better decide if a song is appropriate for osu!, as well as clarification on what happens if a track is deemed to be unacceptable.
+To this effect, there has been a recent [Ranking Criteria amendment](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules) covering the recent changes and clarifications. Included are guidelines on how to better decide if a song is appropriate for osu!, as well as an explanation on what happens if a track is deemed to be unacceptable.
 
 ### Reporting misconduct
 
