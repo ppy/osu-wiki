@@ -6,7 +6,7 @@ date: 2018-02-26 12:00:00 +0000
 
 The fruits fell near-endlessly, and the world was a much healthier (and more interesting) place for them. Who would rise to the top in osu!catch's first official "anything-goes" mapping contest? Read on to find out!
 
-[![](/wiki/shared/news/banners/osu_catch.png)](https://osu.ppy.sh/community/contests/51)
+[![](https://assets.ppy.sh/contests/51/header.png)](https://osu.ppy.sh/community/contests/51)
 
 Faced with the task of mapping the appropriately food-themed _ONIGIRI FREEWAY_ by Featured Artist [OISHII](https://osu.ppy.sh/beatmaps/artists/17), fruit-arrangers came from far and wide to test their mapping might.
 
