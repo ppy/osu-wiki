@@ -3,7 +3,7 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [ Timing Songs With #/8th-Signatures] as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in _osu!_**
+**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in _osu!_**
 
 _For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
 
@@ -62,7 +62,7 @@ Glossary
 
 -   **No two hitobjects on the same tick (osu!mania game mode is an exception).** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. Although this may be possible to accomplish while playing, it defeats the purpose of following the rhythm of the song.
 -   **Do not overuse kiai time.** The general rule of thumb is one toggle per minute of playtime. Kiai is meant to accent chorus sections, so don't use it just for fountains unless you're doing this rarely. You can toggle kiai off and back on halfway through the chorus if it fits, but using it constantly every few beats/measures is just ridiculous and can distract players.
--   **Do not manually edit anything in an `.osu` file that cannot be changed through the Editor.** The only exceptions are `.osu`-specific storyboards, **slider velocity multipliers** and skin-related options such as SliderBorder and SliderTrackOverride. If non-standard slider velocity multipliers are used, they must be announced in the beatmap description during the modding process.
+-   **Do not manually edit anything in an `.osu` file that cannot be changed through the Editor.** The only exceptions are `.osu`-specific storyboards, **slider velocity multipliers** and skin-related options such as SliderBorder and SliderTrackOverride.
 -   **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 -   **You must have a background image on every difficulty of your map.** If your map has a storyboard, then you can easily fade the background out, but one is still required for the song selection menu, online thumbnail icon, and for players not downloading with video (if the map has one).
 -   **Approved Category is only for Marathon maps.** Long maps with over 5 minutes of draining time fit the Approval category. Only then they are allowed to be single difficulty mapsets. If they are below 5 minutes of draining time, a full difficulty spread is needed and the map will have to be ranked instead.
