@@ -8,14 +8,14 @@ The [Project Loved](https://osu.ppy.sh/community/forums/120) voting schedule is 
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Hello everyone! Welcome to the last [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of February 2018! We are slightly changing up the voting format starting this week based on feedback from the community. This change will simplify the Loved voting schedule, as well as make it a lot easier to follow for those who care about more than just one gamemode!
+Hello everyone! Welcome to the last [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of February 2018! We are slightly changing up the voting format starting this week based on feedback from the community. This change will simplify the voting schedule and make it a lot easier to follow for those who care about more than just one gamemode!
 
 Each mode will have a vote every 2 weeks, all at the same time as opposed to the staggered structure we previously used. Each vote will have the following amount of maps:
 
-- 10 osu!
-- 7 osu!taiko
-- 5 osu!catch
-- 10 osu!mania
+- osu! - 10
+- osu!taiko - 7
+- osu!catch - 5
+- osu!mania - 10
 
 This new system will offer a lot more breathing room to both the community and the Loved captains, as well as make the voting itself more uniform! If you have any comments, questions, or concerns regarding the new system, be sure to leave them in the comments section of this post.
 
@@ -30,7 +30,7 @@ With that out of the way, let's get on to this week's picks! For this round, [St
 
 ## <a name="osu" id="osu"></a>osu!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vRyDI07FcTg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vRyDI07FcTg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -98,7 +98,7 @@ Next on the list is a map you may not have tried which has recieved quite a few 
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/tstFskmG0MM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tstFskmG0MM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -146,7 +146,7 @@ A more conventional map compared to most maps this round, having only 150 BPM an
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WtilfLUwfjs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WtilfLUwfjs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -182,7 +182,7 @@ A map which features a lot of fast, consecutive and largely spaced hyperdashes. 
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/W87CHWI1waU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/W87CHWI1waU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -256,7 +256,7 @@ The chart's overwhelming popularity, current reception and level of nuance are a
 
 Up next we have [The Glory Days](https://osu.ppy.sh/beatmapsets/373357), one of the most popular unranked charts in 2016, a full spread mapset by a well known Korean charter [CloudHolic](https://osu.ppy.sh/users/3924047), known mostly for his mixed style and fun oriented patterning.
 
-The Glory Days is a map that's very accessible, with difficulties for all kinds of players, from a fairly standard normal which you can train 7k on if you're new to it to very dense and tricky Glory difficulty that challenges you in multitude of ways.
+The Glory Days is a map that's very accessible, with difficulties for all kinds of players, from a fairly standard normal which you can train 7K on if you're new to it to very dense and tricky Glory difficulty that challenges you in multitude of ways.
 
 The highest difficulty is a mix of very dense chordstreaming with small bursts in the choruses, that are also hardened by the usage of sporadic long LNs and calmer parts which are more LN oriented with some tricky to nail transitions making it an interesting map all around and a good choice for the loved category.
 
@@ -268,7 +268,7 @@ This set is something special. Brought by our own Elite Mapper [LordRaika](https
 
 Not only is this mapset keysounded, the song itself is LordRaika's mix of it, and it also has a wonderful storyboard by the elite storyboarder [Exile-](https://osu.ppy.sh/users/2559349).
 
-It doesn't end there! Because the mapset also offers an immense set of 30 difficulties throughout all 6 rankable keymodes, from 4k to 9k, offering a wide range of patterns and densities to train your favourite keymode or perhaps, learn a new one!
+It doesn't end there! Because the mapset also offers an immense set of 30 difficulties throughout all 6 rankable keymodes, from 4K to 9K, offering a wide range of patterns and densities to train your favourite keymode or perhaps, learn a new one!
 
 [![](/wiki/shared/news/2018-02-25-project-loved-week-of-february-25th/mania/piano-boss-rush.jpg)](https://osu.ppy.sh/community/forums/topics/708943)
 
@@ -282,6 +282,6 @@ So good luck with it, and as always, have fun!
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/p/beatmaplist&s=4&r=12) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
 —Project Loved
