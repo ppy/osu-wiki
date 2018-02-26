@@ -10,7 +10,7 @@ The [Project Loved](https://osu.ppy.sh/community/forums/120) voting schedule is 
 
 Hello everyone! Welcome to the last [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of February 2018! We are slightly changing up the voting format starting this week based on feedback from the community. This change will simplify the voting schedule and make it a lot easier to follow for those who care about more than just one gamemode!
 
-Each mode will have a vote every 2 weeks, all at the same time as opposed to the staggered structure we previously used. Each vote will have the following amount of maps:
+Each mode will have a vote every 2 weeks, all at the same time as opposed to the staggered structure we previously used. Each vote will have the following amount of beatmaps:
 
 - osu! - 10
 - osu!taiko - 7
@@ -19,7 +19,7 @@ Each mode will have a vote every 2 weeks, all at the same time as opposed to the
 
 This new system will offer a lot more breathing room to both the community and the Loved captains, as well as make the voting itself more uniform! If you have any comments, questions, or concerns regarding the new system, be sure to leave them in the comments section of this post.
 
-With that out of the way, let's get on to this week's picks! For this round, [Strato](https://osu.ppy.sh/users/6492199) has made us some awesome showcase videos for each mode. Check them out at the beginning of each section if you prefer a video format!
+With that out of the way, let's get on to this week's picks! For this round, [Strato](https://osu.ppy.sh/users/6492199) made some awesome showcase videos for each mode. Check them out at the beginning of each section if you prefer a video format!
 
 ### Navigation
 
