@@ -1,7 +1,7 @@
 Aus/NZ osu!standard Tournament 5 - Summer
 =============================
 
-![Osu! AU/NZ Tournament 5 Summer](logo.png)
+![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 
 **Aus/NZ osu!standard Tournament 5 - Summer** (**ANZT 5S**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154). It is the 5th installment of Aus/NZ tourneys.
 
@@ -28,8 +28,6 @@ Aus/NZ osu!standard Tournament 5 - Summer
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
 
 ## Organization
-
-The osu!taiko World Cup 2017 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member |
 | ------------ | -------------- |
@@ -68,104 +66,55 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 **[Download all](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
 - Hidden
-  - 
-  - 
 - HardRock
-  - 
-  - 
 - DoubleTime
-  - 
-  - 
 - FreeMod
-  - 
-  - 
 - Tiebreaker
-  - 
 
 ### Round of 32 & Losers Bracket Rounds 1 & 2
 
 **[Download all](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
 - Hidden
-  - 
-  - 
 - HardRock
-  - 
-  - 
 - DoubleTime
-  - 
-  - 
 - FreeMod
-  - 
-  - 
 - Tiebreaker
-  - 
 
 ### Round of 16 & Losers Bracket Rounds 3 & 4
 
 **[Download all](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
 - Hidden
-  - 
-  - 
 - HardRock
-  - 
-  - 
 - DoubleTime
-  - 
-  - 
 - FreeMod
-  - 
-  - 
 - Tiebreaker
-  - 
 
 ### Quarterfinals & Losers Bracket Rounds 5 & 6
 
 **[Download all](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
 - Hidden
-  - 
-  - 
 - HardRock
-  - 
-  - 
 - DoubleTime
-  - 
-  - 
 - FreeMod
-  - 
-  - 
-  - 
 - Tiebreaker
-  - 
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
+
+**[Download all](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip)**
+
+- NoMod
+- Hidden
+- HardRock
+- DoubleTime
+- FreeMod
+- Tiebreaker
 
 ### Finals - Week 1
 
