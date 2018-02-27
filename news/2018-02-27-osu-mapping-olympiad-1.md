@@ -21,17 +21,17 @@ To start off, we are launching this first contest with not one, but **three** so
 From one of the most well known artists in osu! comes another upbeat pop track infused with electronic elements that give it a dynamic twist: Kuba Oms - Beautiful Uncertainty (Redux)!
 
 <br>
-<audio controls> <source src="https://assets.ppy.sh/artists/13/previews/236.mp3" type="audio/mpeg"> </audio>
+<audio controls><source src="https://assets.ppy.sh/artists/13/previews/237.mp3" type="audio/mpeg"></audio><br>
 
 Featuring one of osu!'s newest Featured Artists, this is a fast and exciting retro video game inspired track: OISHII - Honey Snowflakes!
 
 <br>
-<audio controls> <source src="https://assets.ppy.sh/artists/17/previews/345.mp3" type="audio/mpeg"> </audio>
+<audio controls><source src="https://assets.ppy.sh/artists/17/previews/345.mp3" type="audio/mpeg"></audio><br>
 
 And last but certainly not least, this laid back track features playful melodies that float gently over a trance and house inspired groove: cYsmix - Escapism!
 
 <br>
-<audio controls> <source src="https://assets.ppy.sh/artists/2/previews/120.mp3" type="audio/mpeg"> </audio>
+<audio controls><source src="https://assets.ppy.sh/artists/2/previews/120.mp3" type="audio/mpeg"></audio><br>
 
 ## Rules
 
