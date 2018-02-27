@@ -10,7 +10,7 @@ The following standards apply only to articles written for the news, and saved i
 
 ## Locales
 
-The news system does not support locales at this time. All articles must be in British English, with a consistent register. 
+The news system does not support locales at this time. All articles must be in British English, with a consistent register.
 
 What this register entails depends on the focus and tone of your article, but it must be consistent. Articles that sound professional must always sound professional. Articles that are conversational must be always conversational.
 
@@ -20,7 +20,7 @@ All news articles must be written with a few key concepts in mind - conciseness,
 
 ### Conciseness
 
-News articles should be short and sweet, with appropriate information condensed as much as possible without being overly dense. 
+News articles should be short and sweet, with appropriate information condensed as much as possible without being overly dense.
 
 Provide links to in-depth resources instead of referencing them directly in-text. Use visual displays wherever possible to convey large amounts of information at a glance.
 
@@ -32,7 +32,7 @@ Consider well what you write within your article and whether it would interest t
 
 ### Presentation
 
-News articles must aim to be as pleasingly neutral as possible in terms of presentation. 
+News articles must aim to be as pleasingly neutral as possible in terms of presentation.
 
 Pleasingly neutral, however vague, refers to an article that is both light and robust, saying what it needs to say without giant blocks of text. It must be consistent in formatting, style and register. Large quantities of information should be supported or supplanted with visual aids.
 
@@ -76,7 +76,7 @@ News articles do not use traditional Markdown titles in any capacity whatsoever.
 
 #### Headers
 
-Headers are currently limited to header level 2 (``##``) at the current time.
+Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Preferably, start with level 2 and use level 3 if the section belongs underneath the leading level 2 header. Never use headers to style or format text.
 
 #### Bold
 
@@ -98,7 +98,7 @@ We do not recommend using Markdown tables for displaying data in news articles. 
 
 #### Repository directory
 
-All images linked to news articles must either be hosted on osu! servers (ie: `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
+All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
 
 News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, with the exception of the ``.md`` suffix.
 

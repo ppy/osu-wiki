@@ -35,7 +35,7 @@ Osu accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advanta
 Images
 ------
 
-There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use `.png` and `.jpg` compression to the most of their ability however, leaving you with 4 KB pngs of 1 color, which could be compressed up to 400 times smaller.
+There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use `.png` and `.jpg` compression to the most of their ability however, leaving you with 4 KB pngs of 1 colour, which could be compressed up to 400 times smaller.
 
 [GIMP](http://www.gimp.org/) actually does a good job with `.jpg` files.
 

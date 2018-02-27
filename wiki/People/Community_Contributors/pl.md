@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Zasłużeni dla społeczności
 ================================
 

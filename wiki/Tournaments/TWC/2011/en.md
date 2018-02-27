@@ -1,33 +1,354 @@
+---
+tags:
+- TWC 2011
+- TWC2011
+---
 Taiko World Cup 2011
 ======================
 
-[2011 Taiko World Cup (15th Apr ~ 29th May) hosted by lepidopodus](https://osu.ppy.sh/forum/t/47356)
-
 ![TWC 2011 logo](logo.png)
 
-![TWC 2011 logo](results.png)
+The **osu!taiko World Cup 2011** (***TWC #1***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is part of the 1st installment of the osu!taiko World Cup.
 
-Statistics is available ==> [here](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)
+## Tournament Schedule
 
-Streaming was offered by [dvorak](https://www.ustream.tv/channel/osu-dvo) and [matthewhln](https://www.justin.tv/matthewhln). Check those channels for streaming!
+| Event | Timestamp |
+| ---: | :--- |
+| Registration Phase   | 2011-03-12/2011-04-09 |
+| Group Stage - Week 1 | 2011-04-15/2011-04-17 |
+| Group Stage - Week 2 | 2011-04-22/2011-04-26 |
+| Group Stage - Week 3 | 2011-04-29/2011-05-01 |
+| Quarterfinals        | 2011-05-07/2011-05-08 |
+| Semifinals           | 2011-05-14/2011-05-15 |
+| Finals               | 2011-05-22/2011-05-29 |
 
-Tournament Instructions
---------------------------
+## Prizes
+
+In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
+
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter and a profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter |
+| *Special* | 1 month of osu!supporter |
+
+## Organization
+
+The osu!taiko World Cup 2011 was ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+
+| Position | Member(s) |
+| --- | --- |
+| Mangement | [![][flag_KR] lepidopodus](https://osu.ppy.sh/users/194807), [![][flag_KR] arien666](https://osu.ppy.sh/users/113646), [![][flag_TW] Alace](https://osu.ppy.sh/users/25993), [![][flag_IL] Noobita](https://osu.ppy.sh/users/119188), [![][flag_HK] wmfchris](https://osu.ppy.sh/users/7401) |
+| Streamers | [![][flag_JP] dvorak](https://osu.ppy.sh/users/271359), [![][flag_HK] matthewhln](https://osu.ppy.sh/users/291487) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/47356)
+- **[Statistics sheet](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)**
+
+------------------------------------------------------------------------
+
+## Participants
+
+| | Team | Member |
+| ---: | :---: | :--- |
+| ![][flag_BRCL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
+| ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), small-qiang |
+| ![][flag_FI] | **Finland** | **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
+| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, Didou |
+| ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), RockeDon, [Trashy](https://osu.ppy.sh/users/55191) |
+| ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), Der_Locher, [bennius](https://osu.ppy.sh/users/3129206) |
+| ![][flag_HK] | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
+| ![][flag_ITNL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [Henkie](https://osu.ppy.sh/users/16944) |
+| ![][flag_JP] | **Japan** | **inaba9510**, [TTTL](https://osu.ppy.sh/users/164583), [aruru1234](https://osu.ppy.sh/users/228812), [03123456789](https://osu.ppy.sh/users/295488) |
+| ![][flag_KR] | **Korea A** | **[KRZY](https://osu.ppy.sh/users/114017)**, BloodyLove, [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [\[Shalon\]](https://osu.ppy.sh/users/317802) |
+| ![][flag_KR] | **Korea B** | **samiljul**, [Nyan](https://osu.ppy.sh/users/36102), kds7769, [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
+| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, mekadon, [ffyong](https://osu.ppy.sh/users/168154), [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
+| ![][flag_PL] | **Poland** | **[1miko1](https://osu.ppy.sh/users/95690)**, [rEdo](https://osu.ppy.sh/users/49329), [Acrith](https://osu.ppy.sh/users/389880), Niko- |
+| ![][flag_PH] | **Philippines** | **[blacksymbian](https://osu.ppy.sh/users/53956)**, [Zekira](https://osu.ppy.sh/users/36749), [caelumangelus](https://osu.ppy.sh/users/710623), [\[Zero\_One\]](https://osu.ppy.sh/users/347574) |
+| ![][flag_TW] | **Taiwan** | **[Numbers 596108](https://osu.ppy.sh/users/194653)**, [TW-KUMA01](https://osu.ppy.sh/users/244499), ISHIDAMITSUNARI, [zx0502442](https://osu.ppy.sh/users/457766) |
+| ![][flag_GB] | **United Kingdom** | **[Rokodo](https://osu.ppy.sh/users/23374)**, [Sander-Don](https://osu.ppy.sh/users/284307), [MMzz](https://osu.ppy.sh/users/128993), [Nazo](https://osu.ppy.sh/users/55106) |
+| ![][flag_US] | **United States** | **[OzzyOzrock](https://osu.ppy.sh/users/465153)**, [KYOUI](https://osu.ppy.sh/users/460978), [Backfire](https://osu.ppy.sh/users/263110), [anongos](https://osu.ppy.sh/users/7135) |
+
+------------------------------------------------------------------------
+
+![TWC 2011 results](results.png)
+
+------------------------------------------------------------------------
+
+## Groups
+
+| Group A | Group B | Group C | Group D |
+|---|---|---|---|
+| ![][flag_CN] China               | ![][flag_FR] France         | ![][flag_BRCL] Brazil-Chile | ![][flag_FI] Finland       |
+| ![][flag_DE] Germany A           | ![][flag_KR] South Korea A  | ![][flag_HK] Hong Kong      | ![][flag_DE] Germany B     |
+| ![][flag_ITNL] Italy-Netherlands | ![][flag_TW] Taiwan         | ![][flag_PL] Poland         | ![][flag_JP] Japan         |
+| ![][flag_MY] Malaysia            | ![][flag_GB] United Kingdom | ![][flag_US] United States  | ![][flag_KR] South Korea B |
+| ![][flag_PH] Philippines         |                             |                             |                            |
+
+## Mappools
+
+### Finals
+
+- FreeMod
+  - Akitaka Toyama - The Carnivorous Carnival (lepidopodus) \[Oni for TWC\]
+  - [Akitaka Toyama - Yozakura Shanikusai (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/99165)
+  - [Amuro vs Killer - Mei (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/87775)
+  - Ayako Saso - Kamikaze Remix (lepidopodus) \[Oni for TWC\]
+  - [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/b/58061)
+  - [DragonForce - Through The Fire And Flames (Lesjuh) \[Taiko\]](https://osu.ppy.sh/b/72404)
+  - [Linda AI-CUE - Kita Saitama2000 (zelos) \[Taiko Oni\]](https://osu.ppy.sh/b/88821)
+  - [Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/88245)
+  - ribbon rooms - mint tears (lepidopodus) \[Oni for TWC\]
+  - [sampling mastes MEGA - Rotter Tarmination (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/61917)
+  - [Taiko no Tatsujin - Haya Saitama2000 (Zekira) \[Oni\]](https://osu.ppy.sh/p/beatmap?b=39076&m=1)
+  - [Taiko no Tatusjin - Hataraku2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/51845)
+  - Zeami - Ryougen no Mai (lepidopodus) \[Oni for TWC\]
+  - [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/75184)
+- Tiebreaker
+  - [Linda-AI-CUE - Shimedore2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/b/94475)
+
+### Semifinals
+
+- FreeMod
+  - [07th Expansion - dreamenddischarger (AngelHoney) \[Insane\]](https://osu.ppy.sh/p/beatmap?b=58361&m=1)
+  - [Demetori - Jehovah's YaHVeH (happy30) \[Taiko\]](https://osu.ppy.sh/b/45895)
+  - [Jonathan Underdown - IN THE ZONE (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/80425)
+  - [Len - U.N. Owen was her? (Louis Cyphre) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/78390)
+  - Linda AI-CUE - Soroban2000 (lepidopodus) \[Oni for TWC\]
+  - LindaAI-CUE - X-DAY2000 (arien666) \[Taiko Oni\]
+  - [M2U - Blythe (MoonFragrance) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/69725)
+  - [Makou - Fermion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/72946)
+  - [Maximum the Hormone - What's Up, People? (Louis Cyphre) \[Aru's 666 Taiko\]](https://osu.ppy.sh/b/89363)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Taiko Oni\]](https://osu.ppy.sh/b/42796)
+  - [SADA - STAR FIELD (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/79083)
+  - [Zeami - Black Rose Apostle (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/81344)
+  - [ZUN - Faith is for the Transient people (thepianist) \[dksslqj's Lunatic\]](https://osu.ppy.sh/p/beatmap?b=50430&m=1)
+  - [ZUN - Necrofantasia (Fight69) \[Wmf's Taikofantasia\]](https://osu.ppy.sh/b/70216)
+- Tiebreaker
+  - [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/93176)
+
+### Quarterfinals
+
+- FreeMod
+  - [3rd Coast & Paul Bazooka - Luv Flow (Funky House Mix) (MoonFragrance) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/86969)
+  - [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/75926)
+  - [DAISUKE ASAKURA - stealth (ouranhshc) \[31's Taiko\]](https://osu.ppy.sh/b/70334)
+  - [Denji Sano - Taiko Time (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/90616)
+  - [DJ Amuro remixed by DM Ashura - AAA (Clickz) \[wmf's Taiko\]](https://osu.ppy.sh/b/79035)
+  - [DJ YOSHITAKA - ALBIDA (TKiller) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/80827)
+  - [Galdeira - Almagest (Wuiss) \[31's Taiko\]](https://osu.ppy.sh/b/76993)
+  - [Hatsune Miku - Romeo and Cinderella (Nekoo\[\]) \[31's Taiko\]](https://osu.ppy.sh/b/76530)
+  - [Makou - Hamsin (MoonFragrance) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/60646)
+  - [Nami Nakagawa - DON'T CUT (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/67202)
+  - [Niko - Night of Fire (Gabi) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/77710)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Taiko Oni (Tatsujin)\]](https://osu.ppy.sh/b/46300)
+  - [ParagonX9 - Chaoz Fantasy (Aoitenshi) \[lepidopodus' Taiko Oni\]](https://osu.ppy.sh/b/49077)
+  - [Suzaku VS Genbu - Himiko (Mysterica) \[Another\]](https://osu.ppy.sh/p/beatmap?b=47462&m=1)
+- Tiebreaker
+  - [Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/77232)
+
+### Group Stage - Week 3
+
+- FreeMod
+  - [\_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) \[Roko-Don's Taiko\]](https://osu.ppy.sh/b/73769)
+  - [Bangsili - Ah! Salvia (DJ Cheori Remix Ver.) (ykcarrot) \[Shino's Taiko\]](https://osu.ppy.sh/b/78034)
+  - [Chai Found Music Workshop - Kikyoku \~Seasons of Asia\~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/69595)
+  - [ClariS - Connect (TV Size) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/86199)
+  - [Dai2BungeibuBand - KiraKira (Short Ver.) (Tenshi-nyan) \[Ozzy's Taiko\]](https://osu.ppy.sh/b/91077)
+  - [fripSide - fortissimo -the ultimate crisis- (osuplayer111) \[Kana's Taiko\]](https://osu.ppy.sh/b/90170)
+  - [Hatsune Miku - Nightmare Party Night (banvi) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/84587)
+  - [IOSYS - Danzai Yamaxanadu (Zekira) \[The Last Judgement\]](https://osu.ppy.sh/p/beatmap?b=50461&m=1)
+  - [Jimmy Eat World - The Middle (Gonzvlo) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/89450)
+  - [jun - SILVER DREAM (Twinkle Mix) (ouranhshc) \[31's Taiko\]](https://osu.ppy.sh/b/78760)
+  - [M2U - The Prince of Darkness (TKiller) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/48999)
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Taiko Joker\]](https://osu.ppy.sh/b/84803)
+  - [Ryo Yoshimata - Resolver (haha5957) \[31's Taiko\]](https://osu.ppy.sh/b/80556)
+  - [Shimotsuki Haruka - Omoi no Kanata (Short ver.) \[aabc's Taiko\]](https://osu.ppy.sh/b/87507)
+  - [Taiko no Tatsujin - Saitama2000 (Kharl) \[Taiko\]](https://osu.ppy.sh/b/28306)
+  - [YuFu - Holy Moon (wmfchris) \[Taiko\]](https://osu.ppy.sh/b/53245)
+  - [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/67051)
+  - [zts - WhiteBlue (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/62760)
+- Tiebreaker
+  - [Ai Otsuka - Sakuranbo (S i R i R u) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/60790)
+  - [yak\_won - lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/58041)
+
+### Group Stage - Week 2
+
+- FreeMod
+  - [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/b/49881)
+  - [Chata - Yuujou Pop (Rorry) \[Taiko Oni\]](https://osu.ppy.sh/b/77928)
+  - [ClariS - Irony (TV Size) \[Natteke's Taiko\]](https://osu.ppy.sh/b/76450)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[H-boy's Hyper\]](https://osu.ppy.sh/p/beatmap?b=62590&m=1)
+  - [dj TAKA feat.Kanako Hoshino - DROP (Sharp) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/79281)
+  - [ESTi - Ladymade Star (lzy) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/b/49322)
+  - [ESTi - Oblivion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/71514)
+  - [Forte Escape - End of the Moonlight (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/60189)
+  - [fripSide - future gazer (TV Size) (SamiPale) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/76510)
+  - [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/82529)
+  - [HTT - Pure Pure Heart (miccoliasms) \[miccoli\]](https://osu.ppy.sh/p/beatmap?b=67469&m=1)
+  - [Koike Masato - Raging Waves (LKs) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/59002)
+  - [Komiya Mao - Yozakura (Alace) \[Taiko Oni\]](https://osu.ppy.sh/b/88920)
+  - [Starving Trancer feat, Maki - Agony (James) \[Hard\]](https://osu.ppy.sh/p/beatmap?b=33963&m=1)
+  - [Taiko no Tatsujin - Mekadesu. (Zekira) \[Oni (2nd Gen)\]](https://osu.ppy.sh/p/beatmap?b=41044&m=1)
+  - [Whiteberry - Natsu Matsuri (NatsumeRin) \[Oni\]](https://osu.ppy.sh/s/12823)
+  - [Yoko Takahashi - Cruel Angel's Thesis (TV Size) (lepidopodus) \[Taiko Inner Oni (Tatsujin)\]](https://osu.ppy.sh/b/74498)
+  - [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](https://osu.ppy.sh/b/72069)
+- Tiebreaker
+  - [9mm Parabellum Bullet - Punishment (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/b/59792)
+  - [Anamanaguchi - Rock Club (Sushi) \[Taiko\]](https://osu.ppy.sh/b/73057)
+
+### Group Stage - Week 1
+
+- FreeMod
+  - [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/p/beatmap?b=41909&m=1)
+  - [Boom Boom Satelites - Shut Up And Explode (Lissette) \[Insane\]](https://osu.ppy.sh/p/beatmap?b=74478&m=1)
+  - [ESTi - SIN (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/66330)
+  - [dj TAKA feat. Erika Mochizuki - MOON (Gabi) \[youngdow's Taiko Oni\]](https://osu.ppy.sh/b/62290)
+  - [jun - KIMONO \<3 PRINCESS (ouranhshc) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/69385)
+  - [Kamui Gakupo, KAITO, Kagamine Len - IMITATION BLACK (Shinxyn) \[Insane\]](https://osu.ppy.sh/p/beatmap?b=37370&m=1)
+  - [Megurine Luka - DYE (Shinxyn) \[Hard\]](https://osu.ppy.sh/p/beatmap?b=48075&m=1)
+  - [Muse - MK Ultra (DJ KRZY) \[31's Taiko\]](https://osu.ppy.sh/b/53310)
+  - [ND Lee - Y (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/70659)
+  - [Nico Nico Douga - Kamijo-san & Biribiri at The Skyhigh (KIA) \[Taiko Oni\]](https://osu.ppy.sh/b/56732)
+  - [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/86669)
+  - [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) \[Taiko Oni\]](https://osu.ppy.sh/b/38237)
+  - [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](https://osu.ppy.sh/b/70966)
+  - [Taiko no Tatsujin - Kimi no Akari (aquabluu) \[Oni\]](https://osu.ppy.sh/p/beatmap?b=59424&m=1)
+  - [xi - Halcyon (gowww) \[miccoli's diff\]](https://osu.ppy.sh/p/beatmap?b=74057&m=1)
+  - [YUI - LIFE (JauiPlaY) \[LIFE\]](https://osu.ppy.sh/p/beatmap?b=78220&m=1)
+  - [Zun - Doll Judgment ~The Girl Who Played with People's Shapes (Zekira) \[Lunatic\]](https://osu.ppy.sh/p/beatmap?b=44998&m=1)
+- Tiebreaker
+  - [L'Arc~en\~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/70624)
+  - [Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](https://osu.ppy.sh/b/75251)
+
+## Match Results
+
+### Finals
+
+| 2011-05-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_US] United States | [#1](http://osu.ppy.sh/community/matches/762010) |
+
+| 2011-05-29 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/809078) |
+
+### Semifinals
+
+| 2011-05-14 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN]      | 1 | **4** | ![][flag_JP] **Japan**     | [#1](http://osu.ppy.sh/community/matches/714056) |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | -Win by default- |
+
+### Quarterfinals
+
+| 2011-05-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Taiwan** ![][flag_TW]    | **4** | 0 | ![][flag_ITNL] Italy-Netherlands | [#1](http://osu.ppy.sh/community/matches/669276) |
+| **China** ![][flag_CN]     | **4** | 3 | ![][flag_GB] United Kingdom      | [#1](http://osu.ppy.sh/community/matches/670326) |
+| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States**   | -Win by default- |
+
+| 2011-05-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](http://osu.ppy.sh/community/matches/677605) |
+
+### Group Stage - Week 3
+
+| 2011-04-29 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Germany A** ![][flag_DE] | **3** | 0 | ![][flag_MY] Malaysia | [#1](http://osu.ppy.sh/community/matches/620058) |
+
+| 2011-04-30 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Hong Kong** ![][flag_HK]           | **3** | 0 | ![][flag_BRCL] Brazil-Chile     | [#1](http://osu.ppy.sh/community/matches/621893) |
+| South Korea A ![][flag_KR]           | 1 | **3** | ![][flag_TW] **Taiwan**         | [#1](http://osu.ppy.sh/community/matches/625054) |
+| Italy-Netherlands ![][flag_ITNL]     | 1 | **3** | ![][flag_CN] **China**          | [#1](http://osu.ppy.sh/community/matches/625361) |
+| Germany B ![][flag_DE]               | 0 | **3** | ![][flag_KR] **South Korea B**  | [#1](http://osu.ppy.sh/community/matches/625672) |
+| **Italy-Netherlands** ![][flag_ITNL] | **3** | 1 | ![][flag_PH] Philippines        | [#1](http://osu.ppy.sh/community/matches/625361) |
+| France ![][flag_FR]                  | 0 | **3** | ![][flag_GB] **United Kingdom** | [#1](http://osu.ppy.sh/community/matches/620058) |
+| **United States** ![][flag_US]       | **3** | 0 | ![][flag_PL] Poland             | [#1](http://osu.ppy.sh/community/matches/628633) |
+
+| 2011-05-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Malaysia ![][flag_MY]  |  -  |  -  | ![][flag_PH] Philippines   | -Cancelled- |
+| China ![][flag_CN]     | 2 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/633234) |
+| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland       | [#1](http://osu.ppy.sh/community/matches/633728) |
+
+### Group Stage - Week 2
+
+| 2011-04-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United Kingdom ![][flag_GB]    | 2 | **3** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/570806) |
+| **South Korea A** ![][flag_KR] | **3** | 0 | ![][flag_FR] France | [#1](http://osu.ppy.sh/community/matches/571429) |
+
+| 2011-04-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Hong Kong** ![][flag_HK]  | **3** | 0 | ![][flag_US] United States | [#1](http://osu.ppy.sh/community/matches/574922) |
+
+| 2011-04-24 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland   | [#1](http://osu.ppy.sh/community/matches/587957) |
+| **Japan** ![][flag_JP]         | **3** | 0 | ![][flag_DE] Germany B | [#1](http://osu.ppy.sh/community/matches/588494) |
+
+| 2011-04-26 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Germany A ![][flag_DE]      | 1 | **3** | ![][flag_ITNL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/602804) |
+| Brazil-Chile ![][flag_BRCL] | 0 | **3** | ![][flag_PL] **Poland**              | -Win by default- |
+
+### Group Stage - Week 1
+
+| 2011-04-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **United Kingdom** ![][flag_GB] | **3** | 1 | ![][flag_KR] South Korea A | [#1](http://osu.ppy.sh/community/matches/528963) |
+
+| 2011-04-16 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Poland ![][flag_PL]            | 1 | **3** | ![][flag_HK] **Hong Kong**           | [#1](http://osu.ppy.sh/community/matches/534263) |
+| Philippines ![][flag_PH]       | 1 | **3** | ![][flag_CN] **China**               | [#1](http://osu.ppy.sh/community/matches/534652) |
+| Malaysia ![][flag_MY]          | 0 | **3** | ![][flag_ITNL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/535028) |
+| **Taiwan** ![][flag_TW]        | **3** | 2 | ![][flag_FR] France                  | [#1](http://osu.ppy.sh/community/matches/535848) |
+| Finland ![][flag_FI]           | 0 | **3** | ![][flag_DE] **Germany B**           | [#1](http://osu.ppy.sh/community/matches/537311) |
+| **United States** ![][flag_US] | **3** | 0 | ![][flag_BRCL] Brazil-Chile          | [#1](http://osu.ppy.sh/community/matches/538664) |
+
+| 2011-04-17 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan         | [#1](http://osu.ppy.sh/community/matches/542259) |
+| **China** ![][flag_CN]         | **3** | 0 | ![][flag_MY] Malaysia      | [#1](http://osu.ppy.sh/community/matches/542705) |
+| Philippines ![][flag_PH]       | 0 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/543150) |
+
+## Ruleset
+
+### Tournament Instructions
 
 The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
 
 1.  More matches won.
-2.  Have bigger {(the number of games won) - (the number of games defeated)}.
+2.  Have bigger `{(the number of games won) - (the number of games defeated)}`.
 3.  More games won.
-4.  Have bigger ∑{(total score difference) / (maximum score)}.
+4.  Have bigger `∑{(total score difference) / (maximum score)}`.
 5.  Winner of the rematch.
 
 Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
 
 Usually you will have a match per a week, but in the 1st round you may have two matches in certain week if your group consists of 5 teams.
 
-Match Instructions
---------------------
+### Registration Rules
+
+1.  Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
+2.  The team should include a captain for managing the team and the players.
+3.  Basically a team represents a nation since it's World Cup. That means you can make a team with players from same country basically.
+4.  If your country lacks Taiko players sufficient to participate this, you can recruit players from other nations with permission.
+5.  Due to so many Taiko players are from certain countries, more than one team per country is available with permission.
+6.  Captain should forum-PM to Tournament manager or post in this thread to make a team.
+    1.  Captain can make a team first, then add some players for it.
+    2.  One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
+    3.  Captain can add back-up player if there's no one for the team until the tournament actually starts.
+7.  Staff can't participate tournament as a player.
+8.  This rules can be modified without noticing.
+
+### Match Instructions
 
 1.  One of referees will make the room 15 minutes before the time. All players should arrive the room in right time.
     1.  The room will be locked. The password will be sent to the two captains as soon as possible.
@@ -45,278 +366,7 @@ Match Instructions
 8.  In Robin-round stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
 9.  In final round, you have to win 5 games first.
 
-Groups
----------
-
-### Round 1
-
-- This is totally random result. You can blame the manager if you want, though.
-
-![TWC 2011 groups](groups.png)
-
-#### Timetables
-
-**IMPORTANT**: If you want to change the time, **contact to the captain of the opponent team** and make agreement between both captains first, then notify manager by PM or post here. If you have any troubles with contacting them, tell manager for some help.
-
-Don't forget to apply [Daylight Saving Time](https://upload.wikimedia.org/wikipedia/commons/2/29/DaylightSaving-World-Subdivisions.png)!
-
-Previous timetable is here. **Round 1-1**
-
-**Group A**
-
-*   ![][flag_PH] **Philippines** vs ![][flag_CN] **China**: 16th April 12:00 UTC (20:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_MY] **Malaysia** vs ![][flag_ITNL] **Italy-Netherlands**: 16th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_CN] **China** vs ![][flag_MY] **Malaysia**: 17th April 12:00 UTC (20:00 UTC+8) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-*   ![][flag_PH] **Philippines** vs ![][flag_DE] **Germany A**: 17th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-
-**Group B**
-
-*   ![](https:[flag_TW] **Taiwan** vs ![](https:[flag_FR] **France**: 16th April 14:00 UTC (15:00 UTC+1, 22:00 UTC+8) (Referee: **[lepidopodus](https://osu.ppy.sh/u/119188)**)
-*   ![](https:[flag_GB] **United Kingdom** vs ![](https:[flag_KR] **Korea A**: 15th April 15:10 UTC (16th 00:10 UTC+9) (Referee: **[lepidopodus](https://osu.ppy.sh/u/119188)**)
-
-**Group C**
-
-*   ![][flag_PL] **Poland** vs ![][flag_HK] **Hong Kong**: 16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*　　![][flag_US] **United States** vs ![][flag_ITNL] **Brazil-Chile**: 16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-**Group D**
-
-*   ![][flag_FI] **Finland** vs ![][flag_DE] **Germany B**: 16th April 17:00 (18:00 in UTC+1, 19:00 in UTC+2) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-*   ![][flag_KR] **Korea B** vs ![][flag_JP] **Japan**: 17th April 11:00 UTC (20:00 in UTC+9) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
-
-**Round 1-2**
-
-**Group A**
-
-*   ![][flag_DE] **Germany A** vs ![][flag_ITNL] **Italy-Netherlands**: 26th April 18:00 UTC (20:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-**Group B**
-
-*   ![][flag_GB] **United Kingdom** vs ![][flag_TW] **Taiwan**: 22nd April 14:00 UTC (15:00 WEST, 22:00 NST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-*   ![][flag_KR] **Korea A** vs ![][flag_FR] **France**: 22nd April 15:10 UTC (17:10 CEST, 23rd 00:10 KST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
-
-**Group C**
-
-*   ![][flag_HK] **Hong Kong** vs ![][flag_US] **United States**: 23rd Apirl 4:00 UTC (12:00 HKT, 22th 21:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_BRCL] **Brazil-Chile** vs ![][flag_PL] **Poland**: 26th April 20:00 UTC (16:00 CLT, 17:00 BRT, 22:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-**Group D**
-
-*   ![][flag_KR] **Korea B** vs ![][flag_FI] **Finland**: 24th April 13:00 UTC (16:00 EEST, 22:00 KST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-　　![][flag_JP] **Japan** vs ![][flag_DE] **Germany B**: 24th April 14:00 UTC (16:00 CEST, 23:00 JST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-
-**Round 1-3**
-
-**Group A**
-
-*   ![][flag_DE] **Germany A** vs ![][flag_MY] **Malaysia**: 29th April 12:00 UTC (14:00 CEST, 20:00 MST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-*   ![][flag_ITNL] **Italy-Netherlands** vs ![][flag_CN] **China**: 30th April 12:15 UTC (14:15 CEST, 20:15 Beijing time) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_ITNL] **Italy-Netherlands** vs ![][flag_PH] **Philippines**: 30th April 15:00 UTC (17:00 CEST, 23:00 PST) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_MY] **Malaysia** vs ![][flag_PH] **Philippines**: 1st May 11:00 UTC (19:00 MST/PST) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-*   ![][flag_CN] **China** vs ![][flag_DE] **Germany A**: 1st May 12:00 UTC (20:00 Beijing time, 14:00 CEST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-
-**Group B**
-
-*   ![][flag_KR] **Korea A** vs ![][flag_TW] **Taiwan**: 30th April 11:30 UTC (20:30 KST, 19:30 NST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
-*   ![][flag_FR] **France** vs ![][flag_GB] **United Kingdom**: 30th April 18:00 UTC (20:00 CEST, 19:00 WEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-**Group C**
-
-*   ![][flag_HK] **Hong Kong** vs ![][flag_ITNL] **Brazil-Chile**: 30th April 2:00 UTC (10:00 HKT, 29th 22:00 CLT, 29th 23:00 BRT) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
-*   ![][flag_US] **United States** vs ![][flag_PL] **Poland**: 30th April 20:00 UTC (13:00 PDT, 22:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-
-**Group D**
-
-*   ![][flag_DE] **Germany B** vs ![][flag_KR] **Korea B**: 30th April 13:00 UTC (15:00 CEST, 22:00 KST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
-*   ![][flag_JP] **Japan** vs ![][flag_FI] **Finland**: 1st May 13:00 UTC (22:00 JST, 16.00 EEST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
-
-**Round 2**
-
-*   ![][flag_TW] **Taiwan** vs ![][flag_ITNL] **Italy-Netherlands**: 7th May 12:00 UTC (20:00 NST, 14:00 CEST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
-*   ![][flag_CN] **China** vs ![][flag_GB] **United Kingdom**: 7th May 14:00 UTC (22:00 Beijing time, 15:00 WEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-*   ![][flag_KR] **Korea B** vs ![][flag_US] **United States**: 7th May 22:30 UTC (8th 7:30 KST, 15:30 PDT) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
-*   ![][flag_HK] **Hong Kong** vs ![][flag_JP] **Japan**: 8th May 13:00 UTC (21:00 HKT, 22:00 JST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
-
-**Round 3**
-
-*   ![][flag_CN] **China** vs ![][flag_JP] **Japan**: 14th May 14:00 UTC (22:00 Beijing time, 23:00 JST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
-*   ![][flag_TW] **Taiwan** vs ![][flag_US] **United States**: 14th May 15:00 UTC (23:00 NST, 8:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-
-**Round 4**
-
-**Final**
-
-*   ![][flag_JP] **Japan** vs ![][flag_TW] **Taiwan**: 29th May 12:00 UTC (21:00 JST, 20:00 NST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
-
-**3rd Place Play-off**
-
-*   ![][flag_CN] **China** vs ![][flag_US] **United States**: 22nd May 4:00 UTC (12:00 Beijing time, 21st 21:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
-
-## Map List
-
-*   Please check which difficulty is available. It's not always the hardest difficulty in the mapset.
-*   Some maps might be non-ranked maps. If you have any problem about that, please contact to the manager.
-
-Previous Map List is here.
-
-### Round 1-1
-
-*   [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/s/10863)
-*   [Boom Boom Satelites - Shut Up And Explode (Lissette) \[Insane\]](https://osu.ppy.sh/s/21464)
-*   [ESTi - SIN (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/18751)
-*   [dj TAKA feat. Erika Mochizuki - MOON (Gabi) \[youngdow's Taiko Oni\]](https://osu.ppy.sh/s/16466)
-*   [jun - KIMONO \<3 PRINCESS (ouranhshc) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/19691)
-*   [Kamui Gakupo, KAITO, Kagamine Len - IMITATION BLACK (Shinxyn) \[Insane\]](https://osu.ppy.sh/s/9309)
-*   [Megurine Luka - DYE (Shinxyn) \[Hard\]](https://osu.ppy.sh/s/12903)
-*   [Muse - MK Ultra (DJ KRZY) \[31's Taiko\]](https://osu.ppy.sh/s/14217)
-*   [ND Lee - Y (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/20044)
-*   [Nico Nico Douga - Kamijo-san & Biribiri at The Skyhigh (KIA) \[Taiko Oni\]](https://osu.ppy.sh/s/14300)
-*   [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/25392)
-*   [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) \[Taiko Oni\]](https://osu.ppy.sh/s/9517)
-*   [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](https://osu.ppy.sh/s/14818)
-*   [Taiko no Tatsujin - Kimi no Akari (aquabluu) \[Oni\]](https://osu.ppy.sh/s/16607)
-*   [xi - Halcyon (gowww) \[miccoli's diff\]](https://osu.ppy.sh/s/20871)
-*   [YUI - LIFE (JauiPlaY) \[LIFE\]](https://osu.ppy.sh/s/17077)
-*   [Zun - Doll Judgment ~The Girl Who Played with People's Shapes (Zekira) \[Lunatic\]](https://osu.ppy.sh/s/11873)
-
-#### Maps for final game (2:2)
-
-*   [L'Arc~en~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/19681)
-*   [Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](https://osu.ppy.sh/s/20309)
-
-### Round 1-2
-
-*   [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/s/13451)
-*   [Chata - Yuujou Pop (Rorry) \[Taiko Oni\]](https://osu.ppy.sh/s/22404)
-*   [ClariS - Irony (TV Size) \[Natteke's Taiko\]](https://osu.ppy.sh/s/22121)
-*   [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[H-boy's Hyper\]](https://osu.ppy.sh/s/16619)
-*   [dj TAKA feat.Kanako Hoshino - DROP (Sharp) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/22925)
-*   [ESTi - Ladymade Star (lzy) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/s/13216)
-*   [ESTi - Oblivion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/20245)
-*   [Forte Escape - End of the Moonlight (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/16773)
-*   [fripSide - future gazer (TV Size) (SamiPale) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/22041)
-*   [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/23906)
-*   [HTT - Pure Pure Heart (miccoliasms) \[miccoli\]](https://osu.ppy.sh/s/16523)
-*   [Koike Masato - Raging Waves (LKs) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/16417)
-*   [Komiya Mao - Yozakura (Alace) \[Taiko Oni\]](https://osu.ppy.sh/s/26337)
-*   [Starving Trancer feat, Maki - Agony (James) \[Hard\]](https://osu.ppy.sh/s/8196)
-*   [Taiko no Tatsujin - Mekadesu. (Zekira) \[Oni (2nd Gen)\]](https://osu.ppy.sh/s/10568)
-*   [Whiteberry - Natsu Matsuri (NatsumeRin) \[Oni\]](https://osu.ppy.sh/s/12823)
-*   [Yoko Takahashi - Cruel Angel's Thesis (TV Size) (lepidopodus) \[Taiko Inner Oni (Tatsujin)\]](https://osu.ppy.sh/s/21472)
-*   [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](https://osu.ppy.sh/s/20005)
-
-#### Maps for final game (2:2)
-
-*   [9mm Parabellum Bullet - Punishment (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/16715)
-*   [Anamanaguchi - Rock Club (Sushi) [Taiko]](https://osu.ppy.sh/s/20801)
-
-### Round 1-3
-
-*   [_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) [Roko-Don's Taiko]](https://osu.ppy.sh/s/20266)
-*   [Bangsili - Ah! Salvia (DJ Cheori Remix Ver.) (ykcarrot) [Shino's Taiko]](https://osu.ppy.sh/s/20403)
-*   [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~ (xierbaliti) [Taiko Ura Oni]](https://osu.ppy.sh/s/19809)
-*   [ClariS - Connect (TV Size) [Climbb's Taiko Oni]](https://osu.ppy.sh/s/24565)
-*   [Dai2BungeibuBand - KiraKira (Short Ver.) (Tenshi-nyan) [Ozzy's Taiko]](https://osu.ppy.sh/s/24458)
-*   [fripSide - fortissimo -the ultimate crisis- (osuplayer111) [Kana's Taiko]](https://osu.ppy.sh/s/26767)
-*   [Hatsune Miku - Nightmare Party Night (banvi) [Ono's Taiko Oni]](https://osu.ppy.sh/s/23053)
-*   [IOSYS - Danzai Yamaxanadu (Zekira) [The Last Judgement]](https://osu.ppy.sh/s/13654)
-*   [Jimmy Eat World - The Middle (Gonzvlo) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/24685)
-*   [jun - SILVER DREAM (Twinkle Mix) (ouranhshc) [31's Taiko]](https://osu.ppy.sh/s/22517)
-*   [M2U - The Prince of Darkness (TKiller) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/12974)
-*   [Megpoid GUMI - Poker Face (NatsumeRin) [Taiko Joker]](https://osu.ppy.sh/s/24782)
-*   [Ryo Yoshimata - Resolver (haha5957) [31's Taiko]](https://osu.ppy.sh/s/22650)
-*   [Shimotsuki Haruka - Omoi no Kanata (Short ver.) [aabc's Taiko]](https://osu.ppy.sh/s/25838)
-*   [Taiko no Tatsujin - Saitama2000 (Kharl) [Taiko]](https://osu.ppy.sh/s/210)
-*   [YuFu - Holy Moon (wmfchris) [Taiko]](https://osu.ppy.sh/s/14561)
-*   [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/19013)
-*   [zts - WhiteBlue (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/17610)
-
-#### Maps for final game (2:2)
-
-*   [Ai Otsuka - Sakuranbo (S i R i R u) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/16928)
-*   [yak_won - lucid (soulfear) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/15898)
-
-### Round 2
-
-*   [3rd Coast & Paul Bazooka - Luv Flow (Funky House Mix) (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/25241)
-*   [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/21657)
-*   [DAISUKE ASAKURA - stealth (ouranhshc) [31's Taiko]](https://osu.ppy.sh/s/17367)
-*   [Denji Sano - Taiko Time (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/24320)
-*   [DJ Amuro remixed by DM Ashura - AAA (Clickz) [wmf's Taiko]](https://osu.ppy.sh/s/22607)
-*   [DJ YOSHITAKA - ALBIDA (TKiller) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/23416)
-*   [Galdeira - Almagest (Wuiss) [31's Taiko]](https://osu.ppy.sh/s/21915)
-*   [Hatsune Miku - Romeo and Cinderella (Nekoo[]) [31's Taiko]](https://osu.ppy.sh/s/21954)
-*   [Makou - Hamsin (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/16913)
-*   [Nami Nakagawa - DON'T CUT (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/19055)
-*   [Niko - Night of Fire (Gabi) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/18923)
-*   [Ochiai Yurika - Koibumi2000 (arken1015) [Taiko Oni (Tatsujin)]](https://osu.ppy.sh/s/10539)
-*   [ParagonX9 - Chaoz Fantasy (Aoitenshi) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/12465)
-*   [Suzaku VS Genbu - Himiko (Mysterica) [Another]](https://osu.ppy.sh/s/12710)
-
-#### Maps for final game (3:3)
-
-*   [Frederic Chopin - Etude Op. 10-4 (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/22374)
-
-### Round 3
-
-*   [07th Expansion - dreamenddischarger (AngelHoney) [Insane]](https://osu.ppy.sh/s/16258)
-*   [Demetori - Jehovah's YaHVeH (happy30) [Taiko]](https://osu.ppy.sh/s/9641)
-*   [Jonathan Underdown - IN THE ZONE (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/23502)
-*   [Len - U.N. Owen was her? (Louis Cyphre) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/22699)
-*   _[Linda AI-CUE - Soroban2000 (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/up0P6g-4Bl/linda-ai-cue-soroban2000.osz)_
-*   _[LindaAI-CUE - X-DAY2000 (arien666) [Taiko Oni]](https://osu.ppy.sh/s/13713)_
-*   [M2U - Blythe (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/19874)
-*   [Makou - Fermion (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/20723)
-*   [Maximum the Hormone - What's Up, People? (Louis Cyphre) [Aru's 666 Taiko]](https://osu.ppy.sh/s/13320)
-*   [MC Lynn - EkiBEN2000 (arken1015) [Taiko Oni]](https://osu.ppy.sh/s/9782)
-*   [SADA - STAR FIELD (yeahyeahyeahhh) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/22847)
-*   [Zeami - Black Rose Apostle (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/23838)
-*   [ZUN - Faith is for the Transient people (thepianist) [dksslqj's Lunatic]](https://osu.ppy.sh/s/12119)
-*   [ZUN - Necrofantasia (Fight69) [Wmf's Taikofantasia]](https://osu.ppy.sh/s/15812)
-
-#### Maps for final game (3:3)
-
-*   [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion [Ono's Taiko Oni]](https://osu.ppy.sh/s/20125)
-
-### Round 4
-
-*   _[Akitaka Toyama - The Carnivorous Carnival (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/H2r-ATj7Wy/akitaka-toyama-the-carnivorous-carnival.osz)_
-*   _[Akitaka Toyama - Yozakura Shanikusai (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/29952)_
-*   [Amuro vs Killer - Mei (yeahyeahyeahhh) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/25605)
-*   [_Ayako Saso - Kamikaze Remix (lepidopodus) [Oni for TWC]_](https://kodoup.astoni.sh/index.php/files/get/nVRZJstxlm/ayako-saso-kamikaze-remix.osz)
-*   [beatMARIO - Night of Knights (DJPop) [DONS]](https://osu.ppy.sh/s/15920)
-*   [DragonForce - Through The Fire And Flames (Lesjuh) [Taiko]](https://osu.ppy.sh/s/20237)
-*   _[Linda AI-CUE - Kita Saitama2000 (zelos) [Taiko Oni]](https://osu.ppy.sh/s/26296)_
-*   _[Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/26095)_
-*   _[ribbon rooms - mint tears (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/rxkfm37UsP/ribbon-room-mint-tears.osz)_
-*   [sampling mastes MEGA - Rotter Tarmination (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/17351)
-*   [Taiko no Tatsujin - Haya Saitama2000 (Zekira) [Oni]](https://osu.ppy.sh/s/9917)
-*   _[Taiko no Tatusjin - Hataraku2000 (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/12119)_
-*   _[Zeami - Ryougen no Mai (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/GLeCv7oLZ8/zeami-ryougen-no-mai.osz)_
-*   [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/21691)
-
-#### Maps for final game (4:4)
-
-*   _[Linda-AI-CUE - Shimedore2000 (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/28318)_
-
-## Registration (Closed)
-
-**(March 12th ~ April 9th UTC)**
-
-1.  Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
-2.  The team should include a captain for managing the team and the players.
-3.  Basically a team represents a nation since it's World Cup. That means you can make a team with players from same country basically.
-4.  If your country lacks Taiko players sufficient to participate this, you can recruit players from other nations with permission.
-5.  Due to so many Taiko players are from certain countries, more than one team per country is available with permission.
-6.  Captain should forum-PM to Tournament manager or post in this thread to make a team.
-    1.  Captain can make a team first, then add some players for it.
-    2.  One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
-    3.  Captain can add back-up player if there's no one for the team until the tournament actually starts.
-7.  Staff can't participate tournament as a player.
-8.  This rules can be modified without noticing.
-
-## Rules
+### Rules
 
 1.  The maps for the tournament will be announced each round. Basically this will be decided by staff.
     1.  There will be some maps that can be used only for the final games.
@@ -357,75 +407,6 @@ Previous Map List is here.
         1.  This can be revoked by manager.
 16.  If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
 17.  This rules can be modified without noticing.
-
-## Prizes
-
-*   Prizes for 1st, 2nd, 3rd prizes are sponsored by [peppy](https://osu.ppy.sh/u/2).
-
-**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter), and a nice **Profile Badge** designed by [crystalsuicune](https://osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
-
-**2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter).
-
-**3rd Place**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter).
-
-**Special prize**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter). (Other than above prizes, this prize is sponsored by the manager. All players will vote for the team which showed best gameplay, attitude, spirit of fair play, etc., and the team with the most votes will win the prize. Of course players can't vote for his/her own team. This prize won't be given to 1st~3rd place.)
-
-## Teams
-
-Sorted by alphabetic order by Country. **Bold** is for captain, and _italic_ is for back-up.
-
-*   ![][flag_ITNL] **Brazil-Chile**: **[Hyguys](https://osu.ppy.sh/u/362851)**, [Kurisuchianu](https://osu.ppy.sh/u/194345), [Foster Don](https://osu.ppy.sh/u/144464), _[JhowM](https://osu.ppy.sh/u/599290)_
-*   ![][flag_CN] **China**: **[Yowane \_ Haku](https://osu.ppy.sh/u/255267)**, [yukey](https://osu.ppy.sh/u/81972), [sagelord](https://osu.ppy.sh/u/56200), _small-qiang_
-*   ![][flag_FI] **Finland**: **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/u/39385), _[Pallero](https://osu.ppy.sh/u/7381)_
-*   ![][flag_FR] **France**: [\_Gezo\_](https://osu.ppy.sh/u/481582), [omegaflo](https://osu.ppy.sh/u/83291), Dagonpater, _Didou_
-*   ![][flag_DE] **Germany A**: **[OnosakiHito](https://osu.ppy.sh/u/290128), [DarkDunskin](https://osu.ppy.sh/u/98985), RockeDon, _[Trashy](https://osu.ppy.sh/u/55191)_**
-*   ![][flag_DE] **Germany B**: **[BrokenArrow1](https://osu.ppy.sh/u/384034)**, [Zeitgeist](https://osu.ppy.sh/u/227765), Der_Locher, _[bennius](https://osu.ppy.sh/u/3129206)_
-*   ![][flag_HK] **Hong Kong**: **[aabc271](https://osu.ppy.sh/u/155707)**, [XeBi320](https://osu.ppy.sh/u/342622), [KanaRin](https://osu.ppy.sh/u/310747), _[Kanpakyin](https://osu.ppy.sh/u/394326)_
-*   ![][flag_ITNL] **Italy-Netherlands**: **[NeoRainier](https://osu.ppy.sh/u/326049)**, [Pheon](https://osu.ppy.sh/u/292295), [Lokamp](https://osu.ppy.sh/u/63671), _[Henkie](https://osu.ppy.sh/u/16944)_
-*   ![][flag_JP] **Japan**: **inaba9510**, [TTTL](https://osu.ppy.sh/u/164583), [aruru1234](https://osu.ppy.sh/u/228812), _[03123456789](https://osu.ppy.sh/u/295488)_
-*   ![][flag_KR] **Korea A**: **[KRZY](https://osu.ppy.sh/u/114017)**, BloodyLove, [Remilia-Scarlet](https://osu.ppy.sh/u/602783), _[[Shalon]](https://osu.ppy.sh/u/317802)_
-*   ![][flag_KR] **Korea B**: **samiljul**, [Nyan](https://osu.ppy.sh/u/36102), kds7769, _[Kim Jin Seok](https://osu.ppy.sh/u/58034)_
-*   ![][flag_MY] **Malaysia**: **[HeatKai](https://osu.ppy.sh/u/332555)**, mekadon, [ffyong](https://osu.ppy.sh/u/168154), _[taiko_maniac1811](https://osu.ppy.sh/u/595764)_
-*   ![][flag_PL] **Poland**: **[1miko1](https://osu.ppy.sh/u/95690)**, [rEdo](https://osu.ppy.sh/u/49329), [Acrith](https://osu.ppy.sh/u/389880), _Niko-_
-*   ![][flag_PH] **Philippines**: **[blacksymbian](https://osu.ppy.sh/u/53956)**, [Zekira](https://osu.ppy.sh/u/36749), [caelumangelus](https://osu.ppy.sh/u/710623), _[[Zero_One]](https://osu.ppy.sh/u/347574)_
-*   ![][flag_TW] **Taiwan**: **[Numbers 596108](https://osu.ppy.sh/u/194653)**, [TW-KUMA01](https://osu.ppy.sh/u/244499), ISHIDAMITSUNARI, _[zx0502442](https://osu.ppy.sh/u/457766)_
-*   ![][flag_GB] **United Kingdom**: **[Rokodo](https://osu.ppy.sh/u/23374)**, Sander-Don, [MMzz](https://osu.ppy.sh/u/128993), _[Nazo](https://osu.ppy.sh/u/55106)_
-*   ![][flag_US] **United States**: **[OzzyOzrock](https://osu.ppy.sh/u/465153)**, [KYOUI](https://osu.ppy.sh/u/460978), [Backfire](https://osu.ppy.sh/u/263110), _[anongos](https://osu.ppy.sh/u/7135)_
-
-### Disqualifications
-
-Due to unexpected situation happened in Malaysia vs Philippines, I needed to take certain measures:
-
-1.  Team Malaysia and Team Philippines is banned from #1 Taiko World Cup.
-2.  Following players of Team Malaysia is banned from TWC till the next one: HeatKai, ffyong, taiko_maniac1811
-3.  Following players of Team Philippines is banned from TWC till the next one: blacksymbian, caelumangelus, [Zero_One]
-
-If you have anything to complain about this, don't post it here. Just forum-PM me.
-
-I've sent several PM to captains about schedule, and I clearly warned about this, as I remember, and you clearly ignored it.
-
-* * *
-
-Oh, and after consideration, I revoke some measures done before.
-
-ffyong, taiko_maniac1811, blacksymbian, caelumangelus, [Zero_One] are no longer banned.
-
-* * *
-
-HeatKai is no longer banned from TWC.
-
-## Staff
-
-*   ![][flag_KR] [lepidopodus](https://osu.ppy.sh/u/194807) (Tournament manager)
-*   ![][flag_KR] [arien666](https://osu.ppy.sh/u/113646) (Vice-manager)
-*   ![][flag_HK] [wmfchris](https://osu.ppy.sh/u/7401)
-*   ![][flag_TW] [Alace](https://osu.ppy.sh/u/25993)
-*   ![][flag_IL] [Noobita](https://osu.ppy.sh/u/119188)
-
-## Streamers
-
-*   ![][flag_JP] [dvorak](https://osu.ppy.sh/u/271359)
-*   ![][flag_HK] [matthewhln](https://osu.ppy.sh/u/291487)
 
 [flag_BRCL]: /wiki/shared/flag/BRCL.png
 [flag_CN]: /wiki/shared/flag/CN.gif

@@ -75,6 +75,6 @@ Depending on the severity of the conflicts, you may have two options to fix this
    2. Everything from `<<<<<<<` to the `=======` is your changes whereas everything from `=======` to `>>>>>>> master` is what's in the `ppy/master` branch.
    3. From here, you will need to manually fix the conflict and delete the `<<<<<<<`, the `=======`, and `>>>>>>> master` markings.
    4. Repeat for all.
-   5. When completed, click `Mark as resolved`. (This is only avliable when all conflicting parts of the file is resolved.)
+   5. When completed, click `Mark as resolved`. (This is only available when all conflicting parts of the file is resolved.)
 2. If the `Resolve conflicts` button is blocked due to it being too complicated for GitHub, you are out of luck and will need to [update your branch](#my-branch-is-out-of-date!) and make your changes again.
    - *Note: This is only true if you are limited to using GitHub Web Interface.* There are still ways to fix it, but it will not be covered in this article and it may not be worth the effort to do so because you will overwrite and revert the conflicting changes.

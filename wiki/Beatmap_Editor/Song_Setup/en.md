@@ -189,7 +189,7 @@ These sounds are additive; `Whistle` is a combination of `Normal` and `Whistle`.
 
 Miscellaneous toggles.
 
-`Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to the speed modifiers. Unchecking it will let the hit sounds play at its own preset pitch. This option is subjective to the creator so please use discretion before checking it.
+`Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to the speed modifiers. Unchecking it will let the hit sounds play at its own preset pitch. This option is meant for osu!mania with some or full usage of keysounds.
 
 ## Colours
 

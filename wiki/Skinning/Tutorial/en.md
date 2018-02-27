@@ -29,7 +29,7 @@ In addition to using the `.png` format, you should:
 
 ### What are overlays?
 
-Overlays will *overlay* an element's image **and will not be colored or tinted**. Note that only a few elements contains an overlay.
+Overlays will *overlay* an element's image **and will not be coloured or tinted**. Note that only a few elements contains an overlay.
 
 ### Resolutions
 
@@ -60,7 +60,7 @@ All HD sprites may also be bigger in filesize due to the fact that the canvas si
 
 ### Can someone make this skin from that show/game?
 
-If you have gone through the entire osu!skinning forums and you are certain that you cannot find _that_ skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want! 
+If you have gone through the entire skinning forums and you are certain that you cannot find _that_ skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want!
 
 Nonetheless, please, **never** request for a skin anywhere in the osu!forums. Failing to follow this rule will your thread be moved to the wastelands.
 
@@ -104,13 +104,17 @@ You are able to add different folders with alternative parts into your skin. *os
 
 ### Can I use a skinned element from someone else's skin?
 
-**Never post a skin with another user's skinning element(s) without permission!**
+**Never post a skin with another user's skinning element(s) with or without permission!**
 
-This is an important rule of skinning. If you got permission, or user is no longer active and it’s impossible to contact with them, just remember to credit them properly.
+You are not allowed to post skins that contain parts from other skins, even if you have the permission from the original author.
+
+The only exception to this are sounds. They can be used from other skins, even without explicit permission from the skinner. It would, however, be respectful of you to credit the original skinner.
 
 ### What about a skin mashup?
 
-You _could_ do that, but (even if you do get permission) please don't share those in the osu! skinning subforums. Please **keep those to yourself** and/or post it on your profile page. This will help skinners make their original skins stand out than the remixed/mashup-ed skins.
+You can make skin mashups (a skin with elements from other skins), but keep them to yourself. You are not allowed to post skin mashups, mixed skins, edits, etc. on the forums.
+
+If you want to share them, put them in your user signature or userpage (this requires [osu!supporter](/wiki/osu!supporter)).
 
 ### How do I animate an element?
 
@@ -177,7 +181,7 @@ Here is how to make an `.osk` file with osu!
 5. From there osu! will open a window for your exported skin.
 6. Take that file and upload it then share!
 
-### Can I post R15 skins in the osu!skinning subforums?
+### Can I post R15 skins in the skinning subforums?
 
 **Yes, and if you do, you _must_ add warning that your skin contains any of the below.**
 
@@ -190,15 +194,15 @@ R15 skins may include but are not limited to:
 - swimsuits and/or bikini
 - characters with revealing clothing (or with really skimpy clothing)
 
-### Can I post R18 skins in the osu!skinning subforums?
+### Can I post R18 skins in the skinning subforums?
 
 **You are _never_ allowed to post skins that contains any R18 content anywhere in osu!. Period.**
 
-If you post your R18 skin anywhere in the osu!community, be aware that you will be punished for that.
-On the other hand, if you release it outside the osu!community walls, nobody will hunt you down.
+If you post your R18 skin anywhere in the osu! community, be aware that you will be punished for that.
+On the other hand, if you release it outside the osu! community walls, nobody will hunt you down.
 
 
-## Posting your skin in the osu!skinning subforums
+## Posting your skin in the skinning subforums
 
 Of course, this is the _optional_ last step to skinning!
 
