@@ -34,3 +34,5 @@ Congratulations to the July Chart Winners!
 3.  [\[Shi\-Ra\]](https://osu.ppy.sh/u/2008489)
 
 Good luck to this month!
+
+—Ranking Chart Team

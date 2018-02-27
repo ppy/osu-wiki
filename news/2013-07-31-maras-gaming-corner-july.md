@@ -56,3 +56,5 @@ The game's audio is also great, but there are some issues when it comes to volum
 Overall, Cube World is really fun even though the game is in alpha and there isn't much content. With the right people, you can make multiplayer an enjoyable experience, but playing alone is already fun itself. I can't wait to see how Cube World has progressed when it goes into the beta stage!
 
 Mara Rating: **PLAY IT LOUD!**
+
+—Mara

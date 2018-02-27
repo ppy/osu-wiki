@@ -5,8 +5,6 @@ permalink: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 ---
-**by: [MillhioreF](https://osu.ppy.sh/u/941094)**
-
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?
 
 **What is Easy Mod?**
@@ -48,3 +46,5 @@ Hmm… now this is a tough one. Really, there's no one standard of maps that are
 You may be surprised to hear this, but in my humble opinion, the best skin for playing Easy mod is none other than the osu! default skin! The combo colors are very distinct from one another, the combo numbers are very readable, and the hitbursts don't completely hide circles, while still being visible, which is a huge help for Easy+Hidden mods. Unfortunately, I won't go to very much detail about that, since Easy+Hidden is a completely different beast, and it would nearly take another article entirely to explain its nuances. I highly, highly recommend avoiding it until you are very proficient at Easy alone…
 
 If you have any further questions, feel free to ask me via PM, either in-game or on the forums. I'm always happy to discuss the Easy mod and help out those who want to learn it!
+
+—MillhioreF

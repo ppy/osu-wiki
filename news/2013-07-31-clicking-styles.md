@@ -5,8 +5,6 @@ permalink: http://osunews.tumblr.com/post/56949145760/clicking-styles
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949145760/clicking-styles
 ---
-by: [thelewa](https://osu.ppy.sh/u/475021)
-
 What is the first thing people wonder when they see certain players on osu!? Some wonder if they play with a mouse or a tablet. Some wonder what kind of keyboard they use. These are all important for sure, but there is one thing that many seem to put off to the side.
 
 _How exactly do they hit these circles?_
@@ -26,3 +24,5 @@ Alternating as a clicking style is not used nearly as much as singletapping. The
 When alternating, the upper speed limit for ½ patterns is how fast you can move your two fingers. In theory, this means that the speed limit for ½ patterns for alternating players is twice as high as it is for singletappers. This is not exactly how it works in practice, but the speed limit is still quite a lot higher. This is the main reason as to why people alternate. The downsides of alternating, however, are the difficulty in transitioning from ½ patterns to ¼ streams and the difficulty of learning the style perfectly.
 
 As to what style a player should play with: why not both? Use singletapping for maps that you can singletap, and alternate on maps that are too fast for singletapping. This is the way most high-ranked players play the game, and those guys aren't ranked up at the top for nothing.
+
+—thelewa

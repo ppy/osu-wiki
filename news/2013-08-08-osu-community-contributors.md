@@ -2,7 +2,7 @@
 layout: post
 title: "osu! community contributors"
 permalink: http://osunews.tumblr.com/post/59476410622/osu-community-contributors
-date: 2013-08-08 00:00:00 +0000
+date: 2013-08-08 09:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/59476410622/osu-community-contributors
 ---
 Over the past four years, osu!'s community has grown dramatically. Many users from places all over the world and from all walks of life have come together from a common love of rhythm.
@@ -48,3 +48,5 @@ To all of these people, thank you. Thank you for your efforts in providing vital
 This will not be the last time these badges are given out.
 
 Congratulations to all of the recipients!
+
+—Ephemeral

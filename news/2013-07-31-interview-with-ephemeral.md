@@ -62,3 +62,5 @@ Please don't bring up bad memories. Zallius's office is a frightening thing.
 **Well Ephemeral, it was a swell interview! Is there anything you'd like to say before we call this a day?**
 
 I don't know.  Make people feel like they don't have to question me through the osu!monthly. I just wish more people would talk to me, since God knows we need more people to actually do things. Just please, talk to me. I'm desperate. It's like that one anime about the girl who wants to be popular. Just like that.
+
+—osu!news team

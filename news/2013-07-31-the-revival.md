@@ -20,3 +20,5 @@ In the past, the team has had people from 5 of the 7 continents working together
 **What can I do to help?**
 
 Feedback is always greatly appreciated. You can reach the editor-in-chief through email at [dkun@ppy.sh](mailto:dkun@ppy.sh) or by sending a tweet to @osumonthly. You're also free to contact any of the other team members through the forums or in-game.
+
+—osu!monthly team

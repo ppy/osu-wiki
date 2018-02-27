@@ -24,3 +24,5 @@ osu! has had an API for quite a while, but it has been private for the most part
 **osu! now has two brand new score meters!**
 
 Two new in-game overlays have been added as a metric for watching your own performance or others'. The first, a hit error meter, shows how close or far you were from hitting exactly on time. The second is a "color meter", which shows the results of the accuracy judgement on the last hits. You can enable them from the right-hand side of the Options menu, under the Graphic tab.
+
+—osu!news team

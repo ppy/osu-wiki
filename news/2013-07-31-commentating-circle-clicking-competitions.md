@@ -21,4 +21,4 @@ Being a commentator is actually quite easy. I've asked many people to come in an
 
 I think I've covered just about everything! I will be commentating on later competitions or events as well as next year's osu! and Taiko World Cups. If you'd like to join the fun and think you have what it takes, by all means, contact the manager of said tournament. I'll be glad to share the match with you. Until then, I hope you guys keep watching the streams, listening to my confused self tumbling over my own words and making great slip-ups such as "Korway", or having to announce maps with fantastic names, such as "Macuilxochitl", "Jeg onskerikke a skade deg" or "Suteki na Hakaba de Kuraseru to Omotta noni".
 
-by: [Mr Color](https://osu.ppy.sh/u/116078)
+—Mr Color

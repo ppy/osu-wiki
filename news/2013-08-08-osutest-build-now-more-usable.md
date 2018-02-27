@@ -28,3 +28,5 @@ To start using the test build:
 - Run this instead of your standard osu!.
 
 You may switch between public and test whenever you want. I hope to make switching between them available in the game client itself, so this process will be easier in the future. Let me know if you have any other suggestions/requests for the test build.
+
+—peppy
