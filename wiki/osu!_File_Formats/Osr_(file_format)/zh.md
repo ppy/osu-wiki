@@ -51,7 +51,7 @@
 | w    | Long     | 距离上个动作的时间（毫秒）                             |
 | x    | Float    | 鼠标的X坐标（从0到512）                                |
 | y    | Float    | 鼠标的Y坐标（从0到384）                                |
-| z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
+| z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
 
 Mods
 ----
@@ -63,7 +63,7 @@ Mods
 | None           | 0              |                                    |
 | NoFail         | 1 (0)          |                                    |
 | Easy           | 2 (1)          |                                    |
-| NoVideo        | 4 (2)          | 这不再是一个Mod。                  |
+| TouchDevice    | 4 (2)          | 替换未使用的 NoVideo mod            |
 | Hidden         | 8 (3)          |                                    |
 | HardRock       | 16 (4)         |                                    |
 | SuddenDeath    | 32 (5)         |                                    |
