@@ -23,7 +23,8 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required
 - This element is used as the playfield if beatmap does not have a background.
-- This element can be in the `.jpg` or `.png` format.
+- This element use the `.jpg` extension.
+  - `.png` images can be used, however, they must end with `.jpg` to work.
 
 ---
 
@@ -582,7 +583,7 @@ Notes:
 
 Notes:
 
-- Shown when using mods that disable score submission.
+- This is shown when using mods that disable score submission or when playing a [pending](/wiki/pending) or [graveyarded](/wiki/graveyarded) beatmap.
 
 ---
 
@@ -776,16 +777,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit0-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -795,16 +796,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit50-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -814,16 +815,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit100-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -833,16 +834,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit100k-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -852,16 +853,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit300-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -871,16 +872,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit300g-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -890,16 +891,16 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
 - Animation name: `hit300k-{n}.png`
 - Animation rate is fixed to 60 FPS.
 - If animation is used:
-  - the zeroth frame is used on the ranking screen.
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
+- This is not shown on the ranking screen.
 
 ### Input Overlay
 
@@ -939,8 +940,11 @@ Notes:
   - M1/D: at 446px height
   - M2: at 492px height
 - Toggleable in the [options](/wiki/options).
-- Expands when the keys are pressed.
-- Tinting varies by button state.
+- Shrinks briefly when the keys are pressed.
+- Tinting varies by button location and state:
+  - White, if key is not pressed.
+  - Yellow, if the key is pressed and locationed on the top half.
+  - Purple, if the key is pressed and locationed on the bottom half.
 
 ### Pause Screen
 
@@ -952,7 +956,7 @@ Notes:
 
 Notes:
 
-- If this is not skinned, the playfield will be dimmed instead.
+- When the game is paused, the playfield will be dimmed and this file will overlay on top of it.
 - This element is will not strech to fit.
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
@@ -967,7 +971,7 @@ Notes:
 
 Notes:
 
-- If this is not skinned, the playfield will be dimmed instead.
+- When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
 - This element will strech to fit.
 
 ---
@@ -1668,12 +1672,12 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![No][false] | Normal | TopLeft | - |
+| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
 
 Notes:
 
-- Animation name: `ranking-accuracy-{n}.png`
-  - Only the zeroth frame will be used.
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `ranking-accuracy-{n}.png`
 - Positioning varies:
   - v1.0: (291,500)
   - v2.0+: (291,480)
@@ -1706,12 +1710,12 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![No][false] | Normal | TopLeft | - |
+| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
 
 Notes:
 
-- Animation name: `ranking-maxcombo-{n}.png`
-  - Only the zeroth frame will be used.
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `ranking-maxcombo-{n}.png`
 - Positioning varies:
   - v1.0: (8,500)
   - v2.0+: (8,480)
@@ -1741,12 +1745,12 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![No][false] | Normal | Centre | - |
+| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - |
 
 Notes:
 
-- Animation name: `ranking-perfect-{n}.png`
-  - Only the zeroth frame will be used.
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `ranking-perfect-{n}.png`
 - Positioning varies:
   - v1.0: (320,688)
   - v2.0+: (416,688)
@@ -1856,7 +1860,7 @@ Notes:
 
 Notes:
 
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
@@ -1872,7 +1876,7 @@ Notes:
 Notes:
 
 - Hover over `selection-mode.png` to see.
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
@@ -1887,7 +1891,7 @@ Notes:
 
 Notes:
 
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
@@ -1903,7 +1907,7 @@ Notes:
 Notes:
 
 - Hover over `selection-mods.png` to see.
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
@@ -1918,7 +1922,7 @@ Notes:
 
 Notes:
 
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
@@ -1934,7 +1938,38 @@ Notes:
 Notes:
 
 - Hover over `selection-mods.png` to see.
-- In v1.0, positioning is 87px away from the bottom
+- In v1.0, positioning is 87px away from the bottom.
+
+---
+
+`selection-options.png`
+
+![](img/selection-options.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+
+Notes:
+
+- In v1.0, positioning is 87px away from the bottom.
+
+---
+
+`selection-options-over.png`
+
+![](img/selection-options-over.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+
+Notes:
+
+- Hover over `selection-options.png` to see.
+- In v1.0, positioning is 87px away from the bottom.
 
 ---
 
