@@ -63,7 +63,7 @@ Mods
 | None           | 0              |                                    |
 | NoFail         | 1 (0)          |                                    |
 | Easy           | 2 (1)          |                                    |
-| NoVideo        | 4 (2)          | 这不再是一个Mod。                  |
+| TouchDevice    | 4 (2)          | 替换未使用的 NoVideo mod            |
 | Hidden         | 8 (3)          |                                    |
 | HardRock       | 16 (4)         |                                    |
 | SuddenDeath    | 32 (5)         |                                    |

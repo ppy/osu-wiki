@@ -64,7 +64,7 @@ As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | None           | 0                 |                                      |
 | NoFail         | 1 (0)             |                                      |
 | Easy           | 2 (1)             |                                      |
-| NoVideo        | 4 (2)             | this isn't really a mod anymore.     |
+| TouchDevice    | 4 (2)             | Replaces unused NoVideo mod          |
 | Hidden         | 8 (3)             |                                      |
 | HardRock       | 16 (4)            |                                      |
 | SuddenDeath    | 32 (5)            |                                      |

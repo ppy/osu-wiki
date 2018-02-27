@@ -64,7 +64,7 @@ Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 | None           | 0                  |                                                               |
 | NoFail         | 1 (0)              |                                                               |
 | Easy           | 2 (1)              |                                                               |
-| NoVideo        | 4 (2)              | Ce mod a été désactivé suite à l'ajout des paramètres visuels |
+| TouchDevice    | 4 (2)              | Remplace le mode NoVideo non utlisé                           |
 | Hidden         | 8 (3)              |                                                               |
 | HardRock       | 16 (4)             |                                                               |
 | SuddenDeath    | 32 (5)             |                                                               |
