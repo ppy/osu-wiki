@@ -9,6 +9,21 @@ The listed skinning elements listed here are no longer in use.
 
 ## Interface
 
+`menu-osu.png`
+
+![](img/menu-osu.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- This element is seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
+- This element was considered to be a bug and was removed from being skinnable.
+
+---
+
 `playfield.png`
 
 ![](img/playfield.png)
