@@ -57,7 +57,7 @@ BNG'ye katılmak isteyen bir modder:
 Takım Üyeleri
 ------------
 
-_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/g/28).
+_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/groups/28).
 
 Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandığını göstermekle beraber, o oyun modu ile sınırlı kalmaz.
 
