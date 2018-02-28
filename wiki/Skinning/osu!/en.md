@@ -15,12 +15,12 @@
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | - |
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | - |
 
 Notes:
 
-- Animation name: `comboburst-{n}.png`.
-  - This element is not an animation; one of the frames will be used when a combo milestone is met.
+- To have multiple combobursts, use: `comboburst-{n}.png`.
+  - One of the images in the set will be appear when a combo milestone is met.
 - For v2.2-, this is osu!standard and osu!catch's combobursts.
 - For v2.3+, this is osu!standard's combobursts.
 - This can be disabled in the [options](/wiki/options).
@@ -410,7 +410,9 @@ Notes:
 
 ---
 
-![](img/sliderb-spec.png "sliderb-spec.png")
+`sliderb-spec`
+
+![](img/sliderb-spec.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
