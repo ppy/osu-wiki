@@ -1,3 +1,8 @@
+---
+tags:
+- {ABBR} 20{XX}
+- {ABBR}20{XX}
+---
 <!--
 find-replace these curly braces then delete this comment
 {MODE} = game mode
@@ -8,11 +13,6 @@ find-replace these curly braces then delete this comment
 {STATS_LINK} = link to overall statistics (should be Google Drive link)
 you will still to add other items such as tables
 -->
----
-tags:
-- {ABBR} 20{XX}
-- {ABBR}20{XX}
----
 
 # {MODE} World Cup 20{XX}
 
@@ -47,9 +47,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 The {MODE} World Cup 20{XX} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Member |
+| Position | Member(s) |
 | ------------ | -------------- |
-| Example; delete this line | [![][flag_AU] peppy](/users/2), [![][flag_AU] Bancho](/users/3) |
+| Example; delete this line | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [Bancho](/users/3) |
 | Management |  |
 | Map Selectors |  |
 | Commentators |  |
@@ -71,7 +71,7 @@ The {MODE} World Cup 20{XX} is run by various community members by distributing 
 
 ## Participants
 
-|  | Country | Member |
+|  | Country | Members |
 |---:|:---:|:---|
 | ![][flag_AU] | **Australia** | example; delete this line |
 |  |  |  |
