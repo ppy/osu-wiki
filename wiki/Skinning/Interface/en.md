@@ -23,7 +23,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required
 - This element is used as the playfield if beatmap does not have a background.
-- This element use the `.jpg` extension.
+- This element uses the `.jpg` extension.
   - `.png` images can be used, however, they must end with `.jpg` to work.
 
 ---
