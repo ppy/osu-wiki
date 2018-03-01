@@ -258,6 +258,182 @@ See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-
 
 If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
+### Gameplay
+
+##### My combo counter, score display or accuracy display is missing!
+
+**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
+
+If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+
+##### My local scores are missing!
+
+There's a few reasons why this can happen. Read on below!
+
+###### Have you recently reinstalled the game client?
+
+**Reinstalling the game client will automatically clear all of your local scores.**
+
+These are unfortunately, gone.
+
+The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+
+Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+
+###### Are you set to the correct game mode?
+
+**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
+
+A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
+
+You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
+
+###### Are you playing offline?
+
+**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
+
+If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
+
+###### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+
+**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
+
+Playing the game or doing something else will let the client catch up in the background.
+
+##### What is this white trail or smoke-like line behind my cursor?
+
+**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+
+The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+
+##### How do I save my own replay of a score I just made?
+
+**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
+
+This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
+
+*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+
+Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
+
+##### osu! is telling me that my game client is too old!
+
+**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
+
+If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
+
+##### My scores aren't submitting!
+
+Oops! There's a few reasons why this can happen. Let's go through them:
+
+###### Were you connected to the Internet while playing?
+
+**If you were not able to access the Internet when finishing your score, it may not submit.**
+
+This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
+
+###### Is osu! allowed in your local firewall or anti-virus suite?
+
+**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+
+Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+
+###### Are you running lots of programs in the background?
+
+**Some can interfere with your ability to submit scores.**
+
+Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
+
+###### Are the score submission servers up?
+
+**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+
+If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+
+###### Can you upload a score I set for me?
+
+**Unfortunately, we cannot upload scores upon request.**
+
+If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
+
+##### The notes seem out of sync or out of time with the music!
+
+**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+
+Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
+
+Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+
+The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
+
+- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
+- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
+- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+
+##### I'm experiencing lag spikes or stuttering during play!
+
+**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+
+###### Do you have lots of programs open at the same time while playing osu!?
+
+**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
+
+Try closing some programs that you do not need open while playing the game.
+
+###### Is your computer secure?
+
+**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
+
+Keep your computer clean and safe and you might notice an improvement.
+
+###### How old is your computer?
+
+**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
+
+The only way to deal with this one is to upgrade your computer!
+
+###### Are your drivers up to date? 
+
+**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+
+Graphics card drivers are particularly important for osu!, as well as sound card drivers.
+
+###### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+
+**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+
+An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+
+###### Are you running osu! in windowed or borderless mode?
+
+**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+
+###### Does your game freeze up for only a moment or so?
+
+**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+
+This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+
+###### Has the game recently updated?
+
+**Sometimes after a game update, the client may struggle for seemingly no reason.**
+
+If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+
+If it doesn't resolve, a reboot can sometimes help.
+
+##### My game looks glitchy, like the graphics are torn!
+
+**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
+
+This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
+
+You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+ 
+Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+
+Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+
 ### Online features
 
 ##### I can't login or connect to the game at all!
@@ -542,184 +718,6 @@ Simply type the name of the artist you are searching for into the Google Custom 
 **You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
 
 If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
-
-----------------------------------------------------------------------------
-
-## Gameplay
-
-##### My combo counter, score display or accuracy display is missing!
-
-**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
-
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
-
-##### My local scores are missing!
-
-There's a few reasons why this can happen. Read on below!
-
-###### Have you recently reinstalled the game client?
-
-**Reinstalling the game client will automatically clear all of your local scores.**
-
-These are unfortunately, gone.
-
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
-
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
-
-###### Are you set to the correct game mode?
-
-**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
-
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
-
-You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
-
-###### Are you playing offline?
-
-**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
-
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
-
-###### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
-
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
-
-Playing the game or doing something else will let the client catch up in the background.
-
-##### What is this white trail or smoke-like line behind my cursor?
-
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
-
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
-
-##### How do I save my own replay of a score I just made?
-
-**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
-
-This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
-
-*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
-
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
-
-##### osu! is telling me that my game client is too old!
-
-**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
-
-If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
-
-##### My scores aren't submitting!
-
-Oops! There's a few reasons why this can happen. Let's go through them:
-
-###### Were you connected to the Internet while playing?
-
-**If you were not able to access the Internet when finishing your score, it may not submit.**
-
-This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
-
-###### Is osu! allowed in your local firewall or anti-virus suite?
-
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
-
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
-
-###### Are you running lots of programs in the background?
-
-**Some can interfere with your ability to submit scores.**
-
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
-
-###### Are the score submission servers up?
-
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
-
-If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
-
-###### Can you upload a score I set for me?
-
-**Unfortunately, we cannot upload scores upon request.**
-
-If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
-
-##### The notes seem out of sync or out of time with the music!
-
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
-
-Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
-
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
-
-The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
-
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
-
-##### I'm experiencing lag spikes or stuttering during play!
-
-**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
-
-###### Do you have lots of programs open at the same time while playing osu!?
-
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
-
-Try closing some programs that you do not need open while playing the game.
-
-###### Is your computer secure?
-
-**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
-
-Keep your computer clean and safe and you might notice an improvement.
-
-###### How old is your computer?
-
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
-
-The only way to deal with this one is to upgrade your computer!
-
-###### Are your drivers up to date? 
-
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
-
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
-
-###### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
-
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
-
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
-
-###### Are you running osu! in windowed or borderless mode?
-
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
-
-###### Does your game freeze up for only a moment or so?
-
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
-
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
-
-###### Has the game recently updated?
-
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
-
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
-
-If it doesn't resolve, a reboot can sometimes help.
-
-##### My game looks glitchy, like the graphics are torn!
-
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
-
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
-
-You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
- 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
-
-Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
 ----------------------------------------------------------------------------
 
