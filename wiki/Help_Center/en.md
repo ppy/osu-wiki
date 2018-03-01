@@ -204,7 +204,7 @@ To check, try the following steps (under Windows 8 and above):
 3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
 4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
-####### My game will not update properly!
+###### My game will not update properly!
 
 **This is usually due to issues with your PC, but can very rarely be caused by new updates.**
 
@@ -301,7 +301,7 @@ If you are still having issues connecting to our game servers, please submit a s
 * A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
 * The `network.log` file from the `Logs` folder in your osu! installation directory
 
-####### Running a trace route to troubleshoot connection issues
+###### Running a trace route to troubleshoot connection issues
 
 **A trace route will help us detect exactly where the problem is between you and our servers.**
 
