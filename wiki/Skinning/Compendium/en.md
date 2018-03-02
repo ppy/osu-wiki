@@ -54,6 +54,7 @@ Compendium of all completed osu! skins.
 - [DJMax Trilogy](https://osu.ppy.sh/community/forums/topics/126460) by [TouchFluffyTail](https://osu.ppy.sh/users/1377887)![][o!m]
 - [Draw Skin](https://osu.ppy.sh/community/forums/topics/303007) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]![][o!t]![][o!c]
 - [Drop](https://osu.ppy.sh/community/forums/topics/561458) by [Shino Inuzuka](https://osu.ppy.sh/users/9268238)![][o!s]![][o!t]![][o!c]![][o!m]
+- [D.Gray-Man VER 2.0 Exorcist Edition](https://osu.ppy.sh/community/forums/topics/420407) by [Ichigo2467](https://osu.ppy.sh/users/4134456)![][o!s]![][o!t]![][o!c]![][o!m]
 - [D.Va NERF THIS!](https://osu.ppy.sh/community/forums/topics/473313) by [Choilicious](https://osu.ppy.sh/users/2129634 )![][o!s]
 
 ## E
@@ -83,11 +84,14 @@ Compendium of all completed osu! skins.
 - [Hakurei Reimu](https://osu.ppy.sh/community/forums/topics/38951) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
 - [Hanami](https://osu.ppy.sh/community/forums/topics/256243) by [Raidexx](https://osu.ppy.sh/users/2244606)![][o!s]![][o!t]![][o!c]
 - [Hanayome to Maou](https://osu.ppy.sh/community/forums/topics/471178) by [atturbo555](https://osu.ppy.sh/users/5730417)![][o!s]
+- [Haruka Nanase](https://osu.ppy.sh/community/forums/topics/414226) by [Yukisa](https://osu.ppy.sh/users/7309067)![][o!s]![][o!c]![][o!m]
 - [Hatsune Miku Test](https://osu.ppy.sh/community/forums/topics/180796) by [Elzapatoverde](https://osu.ppy.sh/users/3717733)![][o!s]![][o!c]
 - [Hestia](https://osu.ppy.sh/community/forums/topics/460396) by [Heavenly](https://osu.ppy.sh/users/3300687)![][o!s]
 - [Hexarcle](https://osu.ppy.sh/community/forums/topics/385047) by [BDWZ](https://osu.ppy.sh/users/5610209)![][o!s]![][o!c]![][o!m]
 - [Hikari Kyokusei](https://osu.ppy.sh/community/forums/topics/515774) by [eltoroguaco](https://osu.ppy.sh/users/1439487)![][o!s]
+- [Himitsu Koi](https://osu.ppy.sh/community/forums/topics/308693) by [Yazumi](https://osu.ppy.sh/users/3318052)![][o!s]
 - [HueShift](https://osu.ppy.sh/community/forums/topics/470410) by [JapanYoshiTheGamer](https://osu.ppy.sh/users/616511)![][o!s]![][o!t]![][o!c]![][o!m]
+- [Hyperdimension neptunia](https://osu.ppy.sh/community/forums/topics/376182) by [Yukikaze Mythra](https://osu.ppy.sh/users/6617363)![][o!s]![][o!t]![][o!c]
 
 ## I
 
@@ -95,6 +99,7 @@ Compendium of all completed osu! skins.
 - [IIDX22 Style](https://osu.ppy.sh/community/forums/topics/426839) by [Toshiyuki Doma](https://osu.ppy.sh/users/792057)![][o!m]
 - [iMCrafter](https://osu.ppy.sh/community/forums/topics/460563) by [iMCrafter](https://osu.ppy.sh/users/7993300)![][o!s]
 - [Initial D](https://osu.ppy.sh/community/forums/topics/647964) by [FroxXyyy](https://osu.ppy.sh/users/9212147)![][o!s]
+- [Intuniv](https://osu.ppy.sh/community/forums/topics/418657) by [mizu no otoko](https://osu.ppy.sh/users/4466278)![][o!s]
 - [Izayoi Sakuya](https://osu.ppy.sh/community/forums/topics/32589) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
 
 ## K
@@ -111,8 +116,8 @@ Compendium of all completed osu! skins.
 - [Lithe](https://osu.ppy.sh/community/forums/topics/58842) by [Xiao](https://osu.ppy.sh/users/17894)![][o!s]
 - [Loli](https://osu.ppy.sh/community/forums/topics/146503) by [HandHeldPillow](https://osu.ppy.sh/users/2706545)![][o!s]
 - [Lorem Ipsum](https://osu.ppy.sh/community/forums/topics/349104) by [Elzapatoverde](https://osu.ppy.sh/users/3717733)![][o!s]![][o!c]
-- [LoveLive! School Idol Festival](https://osu.ppy.sh/community/forums/topics/586940) by [Nitrous](https://osu.ppy.sh/users/7293512)![][o!s]
 - [LoveLive! School Idol Festival](https://osu.ppy.sh/community/forums/topics/539048) by [Nitrous](https://osu.ppy.sh/users/7293512)![][o!m]
+- [LoveLive! School Idol Festival](https://osu.ppy.sh/community/forums/topics/586940) by [Nitrous](https://osu.ppy.sh/users/7293512)![][o!s]
 - [Love Live](https://osu.ppy.sh/community/forums/topics/269765) by [RainAid](https://osu.ppy.sh/users/3344403)![][o!s]![][o!t]![][o!c]
 - [Luminance - The Science of Color](https://osu.ppy.sh/community/forums/topics/168372) by [Uruoki](https://osu.ppy.sh/users/2615377)![][o!s]![][o!t]![][o!c]![][o!m]
 
@@ -143,15 +148,16 @@ Compendium of all completed osu! skins.
 - [Neonlight](https://osu.ppy.sh/community/forums/topics/307973) by [Fatal3ty](https://osu.ppy.sh/users/5212789)![][o!s]
 - [Neon Flower Style](https://osu.ppy.sh/community/forums/topics/376291) by [Haskorion](https://osu.ppy.sh/users/3252321)![][o!s]
 - [NeOsu](https://osu.ppy.sh/community/forums/topics/83087) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!t]![][o!c]
+- [Neosu Reloaded!! Fan Remix](https://osu.ppy.sh/community/forums/topics/658953) by [My Angel Digi](https://osu.ppy.sh/users/4543414)![][o!s]![][o!m]
 - [NeOsu 2](https://osu.ppy.sh/community/forums/topics/110915) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!t]![][o!c]![][o!m]
 - [NeOsu 3](https://osu.ppy.sh/community/forums/topics/132898) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!t]![][o!c]![][o!m]
 - [NeOsu 5 (NeOsu Surge)](https://osu.ppy.sh/community/forums/topics/202838) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!t]![][o!c]![][o!m]
 - [NeOsu Symphonia](https://osu.ppy.sh/community/forums/topics/183350) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!m]
-- [Neosu Reloaded!! Fan Remix](https://osu.ppy.sh/community/forums/topics/658953) by [My Angel Digi](https://osu.ppy.sh/users/4543414)![][o!s]![][o!m]
 - [Neo Street](https://osu.ppy.sh/community/forums/topics/332576) by [OsuMe65](https://osu.ppy.sh/users/852867)![][o!s]![][o!m]
 - [Nexus Slate & Ivory](https://osu.ppy.sh/community/forums/topics/55948) by [Xiao](https://osu.ppy.sh/users/17894)![][o!s]
 - [Nikaido Yuzu](https://osu.ppy.sh/community/forums/topics/604971) by [Lathler](https://osu.ppy.sh/users/9039378)![][o!s]
 - [Northen Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797) by [-[Jess]-](https://osu.ppy.sh/users/4085133)![][o!s]![][o!c]
+- [Nui Harime](https://osu.ppy.sh/community/forums/topics/417954) by [carnationturtle](https://osu.ppy.sh/users/4461382)
 
 ## O
 
@@ -161,6 +167,7 @@ Compendium of all completed osu! skins.
 - [osu!Retro](https://osu.ppy.sh/community/forums/topics/500813) by [WeebWoofWolf](https://osu.ppy.sh/users/7440594)![][o!s]
 - [osu!tale](https://osu.ppy.sh/community/forums/topics/436329) by [Lolzep](https://osu.ppy.sh/users/2593280)![][o!s]![][o!t]![][o!c]
 - [osu! Ends With You](https://osu.ppy.sh/community/forums/topics/3307) by [awp](https://osu.ppy.sh/users/2650)![][o!s]
+- [osu!next](https://osu.ppy.sh/community/forums/topics/422618) by [Janko](https://osu.ppy.sh/users/2424823)![][o!s]![][o!t]![][o!c]![][o!m]
 - [Overwatch](https://osu.ppy.sh/community/forums/topics/450927) by [Sycranet](https://osu.ppy.sh/users/5802021)![][o!s]![][o!t]![][o!c]
 - [O2Jam U Ultimate](https://osu.ppy.sh/community/forums/topics/247348) by [MeowPaz](https://osu.ppy.sh/users/1454484)![][o!m]
 
@@ -186,6 +193,7 @@ Compendium of all completed osu! skins.
 - [Reisen Udongein Inaba](https://osu.ppy.sh/community/forums/topics/34563) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
 - [Reiuji Utsuho](https://osu.ppy.sh/community/forums/topics/105440) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
 - [Remilia Scarlet](https://osu.ppy.sh/community/forums/topics/46112) by [MLGnom](https://osu.ppy.sh/users/46620)![][o!s]
+- [RetroVibe](https://osu.ppy.sh/community/forums/topics/654183) by [Galvit](https://osu.ppy.sh/users/7629682)![][o!s]
 - [Re:m](https://osu.ppy.sh/community/forums/topics/481314) by [Choilicious](https://osu.ppy.sh/users/2129634)![][o!s]
 - [RWBY 2 Black](https://osu.ppy.sh/community/forums/topics/351477) by [akkord](https://osu.ppy.sh/users/2129634)![][o!s]
 
@@ -235,6 +243,7 @@ Compendium of all completed osu! skins.
 - [Vicinity](https://osu.ppy.sh/community/forums/topics/121785) by [DJNightmare](https://osu.ppy.sh/users/70909)![][o!m]
 - [Vocaloid Project Skin](https://osu.ppy.sh/community/forums/topics/82739) by [NoClue](https://osu.ppy.sh/users/207167)![][o!s]![][o!t]![][o!c]![][o!m]
 - [VOID II DESTRUCTION](https://osu.ppy.sh/community/forums/topics/588628) by [Ben_5917](https://osu.ppy.sh/users/6026593)![][o!s]![][o!t]![][o!c]![][o!m]
+- [Vostok](https://osu.ppy.sh/community/forums/topics/431607) by [Vostok Sisters](https://osu.ppy.sh/users/7116996)![][o!s]
 
 ## W
 
@@ -255,10 +264,10 @@ Compendium of all completed osu! skins.
 
 ## Others
 
-- [- V O I D -](https://osu.ppy.sh/community/forums/topics/402100) by [Ben_5917](https://osu.ppy.sh/users/6026593)![][o!s]![][o!t]![][o!c]![][o!m]
-- [--[cyber.KIN3TIK]--](https://osu.ppy.sh/community/forums/topics/602283) by [badwolfvi](https://osu.ppy.sh/users/8997109)![][o!s]
 - [- [ The Font is Sans ] -](https://osu.ppy.sh/community/forums/topics/616189) by [h3oCharles](https://osu.ppy.sh/users/8712289)![][o!s]![][o!t]![][o!c]![][o!m]
 - [20XX](https://osu.ppy.sh/community/forums/topics/696128) by [Hidah](https://osu.ppy.sh/users/10804561)![][o!s]
+- [- V O I D -](https://osu.ppy.sh/community/forums/topics/402100) by [Ben_5917](https://osu.ppy.sh/users/6026593)![][o!s]![][o!t]![][o!c]![][o!m]
+- [--[cyber.KIN3TIK]--](https://osu.ppy.sh/community/forums/topics/602283) by [badwolfvi](https://osu.ppy.sh/users/8997109)![][o!s]
 - [[Nightcore HD]](https://osu.ppy.sh/community/forums/topics/135588) by [evil_genius](https://osu.ppy.sh/users/2526988)![][o!s]![][o!t]![][o!c]![][o!m]
 - [Ōkami - 大](https://osu.ppy.sh/community/forums/topics/275293) by [Elzapatoverde](https://osu.ppy.sh/users/3717733)![][o!s]
 - [♥ loveHeart](https://osu.ppy.sh/community/forums/topics/359459) by [Rebecca](https://osu.ppy.sh/users/6509768)![][o!s]
