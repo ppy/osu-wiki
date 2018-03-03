@@ -54,3 +54,9 @@ _Addition date: 6. April 2017, **in effect immediately**_
 + **__Every__ mapset is approved through two nominations** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 
 _Addition date: 2. June 2017, **in effect immediately**_
++ **At least 24 hours must pass between a first nomination and a qualification on every mapset, *ignoring renominations for minor changes.*** This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
+
+_Change date: 2. Feb 2018, **in effect immediately**_
++ **Do not qualify any beatmap if you are not yet a full member of the Beatmap Nominators, *unless it was nominated by someone who is.*** This ensures that a full nominator is always part of the process. New nominators become full members after 1-2 months depending on how they did in that period.
+
+_Change date: 2. March 2018, **in effect immediately**_
