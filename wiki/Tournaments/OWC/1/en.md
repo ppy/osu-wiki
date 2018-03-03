@@ -48,7 +48,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 
 ------------------------------------------------------------
 
-![Bracket](brackets.png)
+![osu! World Cup #1 Brackets](brackets.png)
 
 ----------------------------------------------------
 
