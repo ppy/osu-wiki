@@ -4,11 +4,11 @@ title: "Anime Remix Themed Spotlights 2018"
 date: 2018-03-05 14:00:00 +0000
 ---
 
-Greetings everyone! We are happy to announce that the Themed Spotlights are back! To celebrate this we prepared a special selection of anime remixes for you! Enjoy the songs while clicking those circles, hitting the drum, catching those healthy fruits and go octopus-mode with the squares!
+Greetings everyone! We are happy to announce that the Themed Spotlights are back! To celebrate this, we prepared a special selection of anime remixes for you! Enjoy the songs while clicking those circles, hitting the drums, catching those healthy fruits and go octopus-mode with the notes!
 
 ![](/wiki/shared/news/2018-03-05-anime-remix-themed-spotlights-2018/spotlight-header.jpg)
 
-With that said, we just released the Anime Remix Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=ARCH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
+With that said, we have just released the Anime Remix Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=ARCH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
 ## osu!
 
