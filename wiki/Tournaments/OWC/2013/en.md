@@ -279,7 +279,7 @@ Mappool
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmaps/127363)**
 
-## Results
+## Match Results
 
 ### Finals
 
