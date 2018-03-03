@@ -10,7 +10,7 @@ Greetings everyone! We are happy to announce that the Themed Spotlights are back
 
 With that said, we just released the Anime Remix Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=ARCH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-##osu!
+## osu!
 
 + [DJ Genericname - Dear You](https://osu.ppy.sh/beatmapsets/43466) by [Rue](https://osu.ppy.sh/users/417551)
 + [Sawai Miku - Colorful. (Asterisk DnB Remix)](https://osu.ppy.sh/beatmapsets/299454) by [Skystar](https://osu.ppy.sh/users/873961)
@@ -21,7 +21,7 @@ With that said, we just released the Anime Remix Themed Charts and can be found 
 + [SawanoHiroyuki\[nZk\]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix)](https://osu.ppy.sh/beatmapsets/331872) by [captin1](https://osu.ppy.sh/users/689997) and [Skystar](https://osu.ppy.sh/users/873961)
 + [Ayane - Itsumo Kono Basho de (Salktwod Remix)](https://osu.ppy.sh/beatmapsets/240459) by [Seikatu](https://osu.ppy.sh/users/654516)
 
-##osu!taiko
+## osu!taiko
 
 + [Datsuji-P - Anison Sprint (Anime Song Medley)](https://osu.ppy.sh/beatmapsets/45853) by [aabc271](https://osu.ppy.sh/users/155707), [wmfchris](https://osu.ppy.sh/users/7401), [climbb65588](https://osu.ppy.sh/users/31610), [KanaRin](https://osu.ppy.sh/users/310747), [matthewhln](https://osu.ppy.sh/users/291487)
 + [Hiroyuki Sawano feat. Mika Kobayashi - Before My Body Is Dry (tomatomerde remix)](https://osu.ppy.sh/beatmapsets/478494) by [Chromoxx](https://osu.ppy.sh/users/1881639)
@@ -31,7 +31,7 @@ With that said, we just released the Anime Remix Themed Charts and can be found 
 + [fhana - Aozora no Rhapsody (maji yabakune Remix)](https://osu.ppy.sh/beatmapsets/692109) by [komasy](https://osu.ppy.sh/users/1980256) and [butter0414](https://osu.ppy.sh/users/7935022)
 + [CINDERELLA PROJECT - Shine!! (DJ Ramakun FUNKOT REMIX)](https://osu.ppy.sh/beatmapsets/549167) by [Nishizumi](https://osu.ppy.sh/users/2496768) and [ayomikasa](https://osu.ppy.sh/users/4866957)
 
-##osu!catch
+## osu!catch
 
 + [Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express](https://osu.ppy.sh/beatmapsets/228539) by [Spectator](https://osu.ppy.sh/users/702598) and [Len](https://osu.ppy.sh/users/1686145)
 + [Chino (CV:Minase Inori) - Mahou Shoujo Chino (nenpulse bootleg remix)](https://osu.ppy.sh/beatmapsets/458983) by [Minato Yukina](https://osu.ppy.sh/users/531253)
@@ -39,7 +39,7 @@ With that said, we just released the Anime Remix Themed Charts and can be found 
 + [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix)](https://osu.ppy.sh/beatmapsets/440862) by [Minato Yukina](https://osu.ppy.sh/users/531253)
 + [Sakamoto Maaya - Okaerinasai (tomatomerde Remix)](https://osu.ppy.sh/beatmapsets/544468) by [Ascendance](https://osu.ppy.sh/users/2931883)
 
-##osu!mania
+## osu!mania
 
 + [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion](https://osu.ppy.sh/beatmapsets/683691) by [Garalulu](https://osu.ppy.sh/users/757783)
 + [Ogura Yui - Baby Sweet Berry Love (3R2 Remix)](https://osu.ppy.sh/beatmapsets/335072) by [Kawawa](https://osu.ppy.sh/users/4647754)
