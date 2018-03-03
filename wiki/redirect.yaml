@@ -427,6 +427,8 @@
 "audio_editing":                                              "Guides/Audio_Editing"
 "beginner's_tutorial":                                        "Guides/Beginner's_Tutorial"
 "beginner":                                                   "Guides/Beginner's_Tutorial"
+"bss_issues": "Guides/BSS_Issues"
+"beatmap_submission_system_issues": "Guides/BSS_Issues"
 "changing_the_artist_or_title":                               "Guides/Changing_the_Artist_or_Title"
 "changing_the_title_text":                                    "Guides/Changing_the_Title_Text"
 "collab_information":                                         "Guides/Collab_Information"
