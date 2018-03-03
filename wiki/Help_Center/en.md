@@ -1,4 +1,4 @@
-# Help Center
+# Help Centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
@@ -460,7 +460,7 @@ To make sure osu! can access the internet, we will need to allow it to communica
 
 Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
 
-##### Allowing a program through Kaspersky Security Center
+##### Allowing a program through Kaspersky Security Centre
 
 Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone.
 
