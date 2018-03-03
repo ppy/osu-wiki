@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # 欢迎
 
 欢迎来到 osu! ， 一款由 peppy 开发的有着以下四个模式的音乐游戏： osu!standard ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
