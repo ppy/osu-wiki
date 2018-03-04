@@ -4,7 +4,7 @@ title: "Anime Remix Themed Spotlights 2018"
 date: 2018-03-05 14:00:00 +0000
 ---
 
-Greetings everyone! We are happy to announce that the Themed Spotlights are back! To celebrate this, we prepared a special selection of anime remixes for you! Enjoy the songs while clicking those circles, hitting the drums, catching those healthy fruits and go octopus-mode with the notes!
+Greetings everyone! We are happy to announce that the Themed Spotlights are back! To celebrate this, we prepared a special selection of anime remixes for you! Enjoy the songs while clicking those circles, hitting the drums, catching those healthy fruits and going octopus-mode with the notes!
 
 ![](/wiki/shared/news/2018-03-05-anime-remix-themed-spotlights-2018/spotlight-header.jpg)
 
