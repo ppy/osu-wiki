@@ -622,7 +622,7 @@ Notes:
 
 ---
 
-_`arrow-warning.png`_ (transparent; not included)
+`arrow-warning.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -637,7 +637,7 @@ Notes:
 
 ---
 
-masking-border.png
+`masking-border.png`
 
 ![](img/masking-border.png)
 
@@ -771,6 +771,10 @@ Notes:
 
 ### Hit Bursts
 
+*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy).*
+
+---
+
 `hit0.png`
 
 ![](img/hit0.png)
@@ -786,7 +790,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -805,7 +808,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -824,7 +826,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -843,7 +844,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -862,7 +862,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
@@ -881,7 +880,6 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- On the ranking screen, only the non-animated version of this is used.
 
 ---
 
