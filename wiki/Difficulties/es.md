@@ -12,12 +12,12 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
-- ¡1.50 estrellas y menos es Easy! [Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
-- ¡1.51 - 2.25 es Normal! [Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal")
-- ¡2.26 - 3.75 es Hard! [Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
-- ¡3.76 - 5.25 estrellas es Insane! [Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
-- ¡5.26 - 6.75 estrellas es Expert! [Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
-- ¡6.76 estrellas y mas es Expert+! [Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon")
+- 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
+- 1.51 - 2.25 es Normal ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal")
+- 2.26 - 3.75 es Hard  ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
+- 3.76 - 5.25 estrellas es Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
+- 5.26 - 6.75 estrellas es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
+- 6.76 estrellas y mas es Expert+ ![Icono de Expert+](/wiki/shared/diff/expertplus-s.png "Expert+ icon")
 
 ### Iconos web
 
