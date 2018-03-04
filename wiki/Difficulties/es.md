@@ -34,7 +34,6 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") [Hard](/wiki/Hard)
 - ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") [Insane](/wiki/Insane)
 - ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") [Expert](/wiki/Expert)
-- ![Icono de Expert+](/wiki/shared/diff/expertplus-s.png "Icono de Expert+") [Expert+](/wiki/Expert_Plus)
 
 ### osu!taiko
 
@@ -43,7 +42,6 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") [Muzukashii](/wiki/Muzukashii)
 - ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") [Oni](/wiki/Oni)
 - ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") [Ura Oni](/wiki/Ura_Oni) (Aveces llamado _Inner Oni_)
-- ![Icono de Expert+](/wiki/shared/diff/expertplus-s.png "Icono de Expert+") [Expert+](/wiki/Expert_Plus)
 
 ### osu!catch
 
@@ -52,7 +50,6 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono Platter](/wiki/shared/diff/hard-c.png "Icono Platter") Platter
 - ![Icono Rain](/wiki/shared/diff/insane-c.png "Icono Rain") Rain
 - ![Icono Overdose](/wiki/shared/diff/expert-c.png "Icono Overdose") Overdose
-- ![Icono de Expert+](/wiki/shared/diff/expertplus-s.png "Icono de Expert+") [Expert+](/wiki/Expert_Plus)
 
 ### osu!mania
 
@@ -61,4 +58,3 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono HD](/wiki/shared/diff/hard-m.png "Icono HD") HD
 - ![Icono MX](/wiki/shared/diff/insane-m.png "Icono MX") MX
 - ![Icono SC](/wiki/shared/diff/expert-m.png "Icono SC") SC
-- ![Icono de Expert+](/wiki/shared/diff/expertplus-s.png "Icono de Expert+") [Expert+](/wiki/Expert_Plus)
