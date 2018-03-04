@@ -75,33 +75,33 @@ Presione el número o haga clic en la barra para activar:
 
 | Comando        | Efecto                                                                                          | Ejemplo            | Respuesta de BanchoBot                                                               | 
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| `/addfriend  [usuario]`   | Add `[user]` to your friends list.      | `/addfriend Amigo` | You are now friends with Amigo. |
-| `/delfriend [user]`   | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [message]` | Sets an away message (sent to users PMing you). Leave message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~?  BanchoBot: I am John Smith.|
-| `/bb` | Sends a message to bancho like rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) | 
-| `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) | 
-| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo [c], any possible text highlighting you by Amigo [h] any Private Message sent to you by Amigo [p]) | 
-| `/j [channel]` or `/join [channel]` | Joins the specified channel | `/join #lobby` | (#lobby tab is opened) | 
-| `/p` or `/part` | Leaves the current channel you're parting or leaving. | `/part` | n/a | 
-| `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) | 
-| `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home | 
-| `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. | 
-|`/np`| Print to chat the current song you are listening to or playing.| `/np`| (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
-| `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) | 
-| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) | 
-| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) | 
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game | 
+| `/addfriend  [usuario]`   | Agrega a `[usuario]` a tu lista de amigos.      | `/addfriend Amigo` |Ahora eres amigo de Amigo. |
+| `/delfriend [usuario]`   | Elimina a `[usuario]` de tu lista de amigos. | `/delfriend Amigo` | Ya no eres amigo de Amigo. |
+| `/away [mensaje]` | Establece un mensaje ausente (enviado a los usuarios enviandote mensajes privados). Deje el mensaje en blanco para cancelar. | `/away Soy John Smith.` | Usted ha sido marcado como ausente: Soy John Smith. Cuando Amigo /msg John ¿Dónde estás~? BanchoBot: soy John Smith..|
+| `/bb` | Envía un mensaje a bancho como rango `[número]` | `/bb rank 1` | 15/11/12] Estadísticas para Uan: Puntuación: 47,323,299,680 (n.º 1) Juegos: 176293 (lv102) Precisión: 98,95% |
+| `/chat [usuario]` | Abre una nueva pestaña de chat con el usuario especificado.   | `/chat Amigo` | (Se abre la pestaña Amigo) | 
+| `/clear` | Borra el historial de chat actual. | `/clear` | (Borra básicamente todo en la pestaña actual)  | 
+| `/ignore [usuario][@chp]` |  Ignora todos los mensajes del usuario especificado para esta sesión. Al agregar un @ seguido de las letras, c, h, y/o p, puede ignorarlas en el chat, las altas luces o los mensajes privados, respectivamente. | `/ignore Amigo@chp` | Ya no oirás Amigo {chat} {highlights} {PM} (Tu consola de chat está configurada para: ignorar cualquier texto escrito por Amigo [c], cualquier texto posible que te resalte Amigo [h] cualquier mensaje privado enviado a por Amigo [p]) | 
+| `/j [canal]` o `/join [canal]` | Se une al canal especificado | `/join #lobby` | (Se abre la pestaña #lobby) | 
+| `/p` o `/part` | Deja el canal actual del que te estás separando o saliendo. | `/part` | n/a | 
+| `/unignore [usuario]` |Deja de ignorar a este usuario para esta sesión. | `/unignore Amigo` | Ahora puedes escuchar a Amigo. (Su consola de chat permitirá que cualquier comentario hecho por Amigo esté disponible para su consola de chat) | 
+| `/me [action]` | Realiza una acción en tercera persona. | `/me está en casa` | * John está en casa | 
+| `/msg [usuario] [msg]` | Envíe un mensaje privado a `[usuario]`. | `/msg Amigo estoy enfermo en casa` | (En la pestaña Amigo) John: Estoy enfermo en casa. | 
+|`/np`| muestra en el chat la canción actual que está escuchando o reproduciendo.| `/np`| (En partida) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Modos de juego](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Mods para aumentar la dificultad](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Mods para disminuir la dificultad](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (Si no hace nada, basado en la jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (Si está de espectaculo o Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Mods para disminuir la dificultad](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/reply` o `/r` | Responde al último mensaje privado recibido. | `/r ¿Conoces a algún buen doctor?` | ((En la pestaña Amigo) [Comentarios previos] John: Estoy enfermo en casa. Amigo: ¿De verdad? John: ¿Conoces a algún buen doctor? | 
+| `/savelog` | Guarda la pestaña de chat actual en un archivo de texto. | `/savelog` | (Se creará una carpeta llamada "Chat" en el directorio osu! Que contendrá todas las pestañas de la pestaña de chat futura) | 
+| `/watch [usuario]` | Comience a observar a `[usuario]`. | `/watch Amigo` | * Comenzó a ver a Amigo. (Cuando Amigo juegue un beatmap que tenga, verá su juego [después de un almacenamiento en búfer] con su nombre a la izquierda de la pantalla de Amigo)  | 
+| `/nopm` | Alternar para permitir mensajes privados de todos o solo amigos | `/nopm` | (Aparecerá un banner emergente en el centro que detalla que está permitiendo que todos / amigos solo para mensajes privados) | 
+| `/invite [usuario]` | Invita a `[usuario]`a la sala de jugadores múltiples junto con el enlace. | `/invite Nathanael` | * Nathanael ha sido invitado al juego | 
 
 
 ### /keys
 
-| Keyboard keys     | Effect                                                   |
+| Teclas de teclado     | Efecto                                                   |
 |-------------------|----------------------------------------------------------|
-| `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
-| `Tab`               | Auto-complete currently typing nickname.                 |
-| `F8`                | Toggle chat console.                                     |
-| `F9`                | Toggle extended chat console.                            |
-| `Ctrl` + `C` / `V`        | Copy/Paste.                                              |
-| `Alt` + `0` - `9`         | Switch to respective tab.                                |
+| `Page Up` / `Page Down` | Desplácese por la ventana de chat. También puede usar la rueda del mouse. |
+| `Tab`               | Autocompletar actualmente escribiendo apodo.                 |
+| `F8`                | Alternar la consola de chat.                                     |
+| `F9`                | Alternar la consola de chat extendida.                            |
+| `Ctrl` + `C` / `V`        | Copiar/pegar.                                              |
+| `Alt` + `0` - `9`         | Cambia a la pestaña respectiva.                                |
