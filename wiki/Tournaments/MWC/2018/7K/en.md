@@ -56,31 +56,19 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 3. March 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Australia     | ![][flag_AU] | ![][flag_CL] | Chile         | **2:00 UTC**  | 13:00 UTC +11      | 23:00 UTC (Fri) -3 | ² |
-| United States | ![][flag_US] | ![][flag_JP] | Japan         | **3:00 UTC**  | 19:00 UTC (Fri) -8 | 12:00 UTC +9       | ² |
-| Malaysia      | ![][flag_MY] | ![][flag_KR] | South Korea   | **11:00 UTC** | 19:00 UTC +8       | 20:00 UTC +9       | ¹ |
-| China         | ![][flag_CN] | ![][flag_SG] | Singapore     | **12:00 UTC** | 20:00 UTC +8       | 20:00 UTC +8       | ¹ |
-| Italy         | ![][flag_IT] | ![][flag_PH] | Philippines   | **13:00 UTC** | 14:00 UTC +1       | 21:00 UTC +8       | ² |
-| Chile         | ![][flag_CL] | ![][flag_IT] | Italy         | **18:00 UTC** | 15:00 UTC -3       | 19:00 UTC +1       | ³ |
-| France        | ![][flag_FR] | ![][flag_BR] | Brazil        | **19:00 UTC** | 20:00 UTC +1       | 16:00 UTC -3       | ² |
-| Brazil        | ![][flag_BR] | ![][flag_US] | United States | **20:00 UTC** | 17:00 UTC -3       | 12:00 UTC -8       | ³ |
-| France        | ![][flag_FR] | ![][flag_US] | United States | **20:00 UTC** | 21:00 UTC +1       | 12:00 UTC -8       | ³ |
-
-### Sunday, 4. March 2018
+### Sunday, 11. March 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Brazil    | ![][flag_BR] | ![][flag_JP] | Japan       | **2:00 UTC**  | 23:00 UTC (Sat) -3 | 11:00 UTC +9 | ³ |
-| Chile     | ![][flag_CL] | ![][flag_PH] | Philippines | **3:00 UTC**  | 0:00 UTC -3        | 11:00 UTC +8 | ³ |
-| Australia | ![][flag_AU] | ![][flag_PH] | Philippines | **3:00 UTC**  | 14:00 UTC +11      | 11:00 UTC +8 | ³ |
-| Australia | ![][flag_AU] | ![][flag_IT] | Italy       | **12:00 UTC** | 23:00 UTC +11      | 13:00 UTC +1 | ³ |
-| France    | ![][flag_FR] | ![][flag_JP] | Japan       | **13:00 UTC** | 14:00 UTC +1       | 22:00 UTC +9 | ³ |
+| Brazil        | ![][flag_BR] | ![][flag_SG] | Singapore | **3:00 UTC**  | 0:00 UTC -3  | 11:00 UTC +8 | ² |
+| Philippines   | ![][flag_PH] | ![][flag_MY] | Malaysia  | **4:30 UTC**  | 12:30 UTC +8 | 12:30 UTC +8 | ² |
+| South Korea   | ![][flag_KR] | ![][flag_CN] | China     | **12:00 UTC** | 21:00 UTC +9 | 20:00 UTC +8 | ¹ |
+| Philippines   | ![][flag_PH] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
+| Philippines   | ![][flag_PH] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
+| Malaysia      | ![][flag_MY] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
+| Malaysia      | ![][flag_MY] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
 
  ¹ Winner bracket encounter
  
@@ -128,6 +116,29 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
+
+- Freemod
+  - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/b/1421269&m=3) 
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[* * * \ ( o w o)/ ** !!\]](http://osu.ppy.sh/b/1309991&m=3) 
+  - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/b/1351223&m=3) 
+  - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](http://osu.ppy.sh/b/943256&m=3) 
+  - [Gekikara Mania - Deublithick (_underjoy) \[Ultra\]](http://osu.ppy.sh/b/1536787&m=3) 
+  - [Nauts - Second Run (Core Mix) (Reba) \[Lv.60\]](http://osu.ppy.sh/b/1173638&m=3) 
+  - [DJ Sharpnel - Gate Openerz (qodtjr) \[qodwawa\]](http://osu.ppy.sh/b/1291115&m=3) 
+  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (arcwinolivirus) \[Beating Fallen Angel\]](http://osu.ppy.sh/b/1299515&m=3) 
+  - [YUC'e - Future Cider (Blasticide) \[Future Candy\]](http://osu.ppy.sh/b/1407558&m=3) 
+  - [xi - Valhalla (AncuL) \[Collab Grimnismal\]](http://osu.ppy.sh/b/1539702&m=3) 
+  - [Ras - TURNDOWN(gdbg edit) (spoonguy) \[sp7\]](http://osu.ppy.sh/b/1567241&m=3) 
+  - [F-777 - Deadlocked (Ciel) \[Lockstep\]](http://osu.ppy.sh/b/1567673&m=3) 
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[Coronation\]](http://osu.ppy.sh/b/1495919&m=3) 
+  - [DragonForce - Through The Fire And Flames (Jinjin) \[Eternal Reign\]](http://osu.ppy.sh/b/1565212&m=3) 
+  - [lapix - Carry me away (Couil) \[7K SV Challenge\]](http://osu.ppy.sh/b/1526642&m=3) 
+- Tiebreaker
+  - [DJ Genki (as Gram) vs. Camellia - Ragnarok (Jinjin) \[Fate\]](http://osu.ppy.sh/b/1566335&m=3)
 
 ### Semifinals
 
@@ -208,6 +219,22 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 3. March 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Australia ![][flag_AU] | 0 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/40518173) |
+| United States ![][flag_US] | 6 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40519477) |
+| Malaysia ![][flag_MY] | 0 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/40527504) |
+| China ![][flag_CN] | 6 | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40528604) |
+| Italy ![][flag_IT] | 4 | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40530352) |
+| France ![][flag_FR] | 0 | 6 | ![][flag_BR] Brazil | -WIN BY DEFAULT- |
+| Brazil ![][flag_BR] | 6 | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/40544245) |
+
+| Sunday, 4. March 2018 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![][flag_CL] | 2 | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
