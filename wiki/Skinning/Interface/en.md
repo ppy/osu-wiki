@@ -21,7 +21,9 @@ Interface skinning elements are used in multiple game modes or parts of the osu!
 
 Notes:
 
-- [osu!supporter](/wiki/osu!supporter) required
+- [osu!supporter](/wiki/osu!supporter) required.
+- By default, osu! has 5 background images that it will cycle through.
+  - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
 - This element is used as the playfield if beatmap does not have a background.
 - This element uses the `.jpg` extension.
   - `.png` images can be used, however, they must end with `.jpg` to work.
@@ -38,7 +40,7 @@ Notes:
 
 Notes:
 
-- [osu!supporter](/wiki/osu!supporter) required
+- [osu!supporter](/wiki/osu!supporter) required.
 - This element appears upon starting the osu! client.
 
 ---
@@ -131,7 +133,7 @@ Notes:
 Notes:
 
 - This element does not rotate nor expand (on click).
-- This element is above the `cursor.png` element
+- This element is above the `cursor.png` element.
 
 ---
 
@@ -1140,7 +1142,7 @@ Notes:
 - If skinned, this element overrides the `scorebar-ki.png`, `scorebar-kidanger.png`, and `scorebar-kidanger2.png` elements.
 - The marker fades out if the player reaches the critical zone.
 - This element is not used in [osu!mania](/wiki/osu!mania).
-- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`.
 
 ### Score numbers
 
