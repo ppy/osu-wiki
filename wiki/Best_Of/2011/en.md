@@ -1,18 +1,26 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2011
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
+
+## General
 
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2011)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+  
+### osu!standard
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/s/28107/ "DJ Fresh - Gold Dust (galvenize)")|
-|2|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/s/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
-|3|119|[07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/s/26226/ "07th Expansion - Final Answer (gowww)")|
+|![1][#1]|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/s/28107/ "DJ Fresh - Gold Dust (galvenize)")|
+|![2][#2]|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/s/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
+|![3][#3]|119|[07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/s/26226/ "07th Expansion - Final Answer (gowww)")|
 |4|110|[Hatsune Miku - Senbonzakura (Short Ver.) (NatsumeRin)](http://osu.ppy.sh/s/36858/ "Hatsune Miku - Senbonzakura (Short Ver.) (NatsumeRin)")|
 |5|105|[Noisestorm - Solar (Shiirn)](http://osu.ppy.sh/s/33483/ "Noisestorm - Solar (Shiirn)")|
 |6|90|[Hatsune Miku - Rubik's Cube (rui)](http://osu.ppy.sh/s/33651/ "Hatsune Miku - Rubik's Cube (rui)")|
@@ -84,7 +92,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |72|31|[ClariS - Kimi to Futari (osuplayer111)](http://osu.ppy.sh/s/27527/ "ClariS - Kimi to Futari (osuplayer111)")|
 |73|31|[Megpoid GUMI - Chocolate (val0108)](http://osu.ppy.sh/s/26652/ "Megpoid GUMI - Chocolate (val0108)")|
 |74|31|[Hatsune Miku - Kusaregedou to Chocolate (val0108)](http://osu.ppy.sh/s/25248/ "Hatsune Miku - Kusaregedou to Chocolate (val0108)")|
-|75|30|[wa. remixed celas - Suishou-Sekai ~Fracture~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai ~Fracture~ (soulfear)")|
+|75|30|[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear)")|
 |76|30|[DECO*27 feat. marina - Aimai Elegy (Mafiamaster)](http://osu.ppy.sh/s/27306/ "DECO*27 feat. marina - Aimai Elegy (Mafiamaster)")|
 |77|30|[DJ Okawari - Flower Dance (spboxer3)](http://osu.ppy.sh/s/23207/ "DJ Okawari - Flower Dance (spboxer3)")|
 |78|30|[seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)](http://osu.ppy.sh/s/32523/ "seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)")|
@@ -92,7 +100,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |80|29|[Hatsune Miku - Senkouhanabi Aika (val0108)](http://osu.ppy.sh/s/33556/ "Hatsune Miku - Senkouhanabi Aika (val0108)")|
 |81|29|[3L - Come Back To Me (orioncomet)](http://osu.ppy.sh/s/24201/ "3L - Come Back To Me (orioncomet)")|
 |82|29|[ALiCE'S EMOTiON - Voice (banvi)](http://osu.ppy.sh/s/31904/ "ALiCE'S EMOTiON - Voice (banvi)")|
-|83|28|[Ano Hana Cast - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (TV Size) (Colin Hou)](http://osu.ppy.sh/s/29489/ "Ano Hana Cast - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (TV Size) (Colin Hou)")|
+|83|28|[Ano Hana Cast - secret base \~Kimi ga Kureta Mono\~ (10 years after Ver.) (TV Size) (Colin Hou)](http://osu.ppy.sh/s/29489/ "Ano Hana Cast - secret base \~Kimi ga Kureta Mono\~ (10 years after Ver.) (TV Size) (Colin Hou)")|
 |84|28|[RO-KYU-BU! - SHOOT! (TV Size) (KanaRin)](http://osu.ppy.sh/s/32047/ "RO-KYU-BU! - SHOOT! (TV Size) (KanaRin)")|
 |85|28|[Megurine Luka - Leia (Mafiamaster)](http://osu.ppy.sh/s/29064/ "Megurine Luka - Leia (Mafiamaster)")|
 |86|28|[Two Door Cinema Club - What You Know (Krisom)](http://osu.ppy.sh/s/31517/ "Two Door Cinema Club - What You Know (Krisom)")|

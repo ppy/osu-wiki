@@ -1,6 +1,10 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2013
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
 
 ## General
 
@@ -14,9 +18,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/s/79498/ "Infected Mushroom - The Pretender (RLC)")|
-|2|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/s/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
-|3|402|[An - artcore JINJA (Flower)](http://osu.ppy.sh/s/114987/ "An - artcore JINJA (Flower)")|
+|![1][#1]|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/s/79498/ "Infected Mushroom - The Pretender (RLC)")|
+|![2][#2]|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/s/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
+|![3][#3]|402|[An - artcore JINJA (Flower)](http://osu.ppy.sh/s/114987/ "An - artcore JINJA (Flower)")|
 |4|358|[Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](http://osu.ppy.sh/s/87630/ "Linked Horizon - Guren no Yumiya (TV Size) (Kuria)")|
 |5|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
 |6|350|[FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/s/108529/ "FujuniseikouyuuP - FREEDMAN (val0108)")|
@@ -1348,9 +1352,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|358|[Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](http://osu.ppy.sh/s/87630/ "Linked Horizon - Guren no Yumiya (TV Size) (Kuria)")|
-|2|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
-|3|350|[FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/s/108529/ "FujuniseikouyuuP - FREEDMAN (val0108)")|
+|![1][#1]|358|[Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](http://osu.ppy.sh/s/87630/ "Linked Horizon - Guren no Yumiya (TV Size) (Kuria)")|
+|![2][#2]|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
+|![3][#3]|350|[FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/s/108529/ "FujuniseikouyuuP - FREEDMAN (val0108)")|
 |4|350|[LeaF - Calamity Fortune (Flower)](http://osu.ppy.sh/s/96103/ "LeaF - Calamity Fortune (Flower)")|
 |5|320|[3L - Three Magic (cRyo[iceeicee])](http://osu.ppy.sh/s/59631/ "3L - Three Magic (cRyo[iceeicee])")|
 |6|302|[Tatsh - IMAGE -MATERIAL- <Version 0> (Scorpiour)](http://osu.ppy.sh/s/93523/ "Tatsh - IMAGE -MATERIAL- <Version 0> (Scorpiour)")|
@@ -1363,9 +1367,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|271|[ONE OK ROCK - Rock, Scissors, Paper (Haya)](http://osu.ppy.sh/s/82282/ "ONE OK ROCK - Rock, Scissors, Paper (Haya)")|
-|2|197|[DECO*27 feat. marina - Aimai Elegy (val0108)](http://osu.ppy.sh/s/43248/ "DECO*27 feat. marina - Aimai Elegy (val0108)")|
-|3|166|[LeaF - MEPHISTO (Alumetorz)](http://osu.ppy.sh/s/106212/ "LeaF - MEPHISTO (Alumetorz)")|
+|![1][#1]|271|[ONE OK ROCK - Rock, Scissors, Paper (Haya)](http://osu.ppy.sh/s/82282/ "ONE OK ROCK - Rock, Scissors, Paper (Haya)")|
+|![2][#2]|197|[DECO*27 feat. marina - Aimai Elegy (val0108)](http://osu.ppy.sh/s/43248/ "DECO*27 feat. marina - Aimai Elegy (val0108)")|
+|![3][#3]|166|[LeaF - MEPHISTO (Alumetorz)](http://osu.ppy.sh/s/106212/ "LeaF - MEPHISTO (Alumetorz)")|
 |4|104|[Gentle Stick X M2U - Hades in the Heaven (AngelHoney)](http://osu.ppy.sh/s/114488/ "Gentle Stick X M2U - Hades in the Heaven (AngelHoney)")|
 |5|89|[IOSYS - Endless Tewi-ma Park (Kurosanyan)](http://osu.ppy.sh/s/48874/ "IOSYS - Endless Tewi-ma Park (Kurosanyan)")|
 |6|66|[Infected Mushroom - The Pretender (Seph)](http://osu.ppy.sh/s/104516/ "Infected Mushroom - The Pretender (Seph)")|
@@ -1378,9 +1382,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
-|2|166|[LeaF - MEPHISTO (Alumetorz)](http://osu.ppy.sh/s/106212/ "LeaF - MEPHISTO (Alumetorz)")|
-|3|119|[Igorrr - Unpleasant Sonata (Sieg)](http://osu.ppy.sh/s/90385/ "Igorrr - Unpleasant Sonata (Sieg)")|
+|![1][#1]|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
+|![2][#2]|166|[LeaF - MEPHISTO (Alumetorz)](http://osu.ppy.sh/s/106212/ "LeaF - MEPHISTO (Alumetorz)")|
+|![3][#3]|119|[Igorrr - Unpleasant Sonata (Sieg)](http://osu.ppy.sh/s/90385/ "Igorrr - Unpleasant Sonata (Sieg)")|
 |4|104|[Gentle Stick X M2U - Hades in the Heaven (AngelHoney)](http://osu.ppy.sh/s/114488/ "Gentle Stick X M2U - Hades in the Heaven (AngelHoney)")|
 |5|103|[fripSide - only my railgun (TV Size) (DJPop)](http://osu.ppy.sh/s/63089/ "fripSide - only my railgun (TV Size) (DJPop)")|
 |6|90|[RYO - Shuffle Heaven (Nemis)](http://osu.ppy.sh/s/85802/ "RYO - Shuffle Heaven (Nemis)")|

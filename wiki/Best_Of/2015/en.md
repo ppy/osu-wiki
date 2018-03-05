@@ -1,6 +1,6 @@
 # 2015
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
 
 ## General
 
@@ -1273,7 +1273,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1257|240234|[ShockOne - Home (feat. Reija Lee) (Milan-)](https://osu.ppy.sh/s/240234/ "ShockOne - Home (feat. Reija Lee) (Milan-)")|0.91|50|4222|
 |1258|163434|[KOTOKO - Sakura Mau Saka o, Kimi to Aruku (-Nanaka-)](https://osu.ppy.sh/s/163434/ "KOTOKO - Sakura Mau Saka o, Kimi to Aruku (-Nanaka-)")|0.91|26|3323|
 |1259|286486|[Linkin Park - Carousel (Sieg)](https://osu.ppy.sh/s/286486/ "Linkin Park - Carousel (Sieg)")|0.91|69|2081|
-|1260|236280|[Qverktett:|| - OVERLAPPERS (CelsiusLK)](https://osu.ppy.sh/s/236280/ "Qverktett:|| - OVERLAPPERS (CelsiusLK)")|0.91|26|2375|
+|1260|236280|[Qverktett:\|\| - OVERLAPPERS (CelsiusLK)](https://osu.ppy.sh/s/236280/ "Qverktett:\|\| - OVERLAPPERS (CelsiusLK)")|0.91|26|2375|
 |1261|320194|[My Chemical Romance - Helena (pishifat)](https://osu.ppy.sh/s/320194/ "My Chemical Romance - Helena (pishifat)")|0.91|91|4694|
 |1262|372850|[Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a)](https://osu.ppy.sh/s/372850/ "Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a)")|0.91|154|7321|
 |1263|177490|[Chata - Reviver (DakeDekaane)](https://osu.ppy.sh/s/177490/ "Chata - Reviver (DakeDekaane)")|0.91|8|1724|
@@ -1400,7 +1400,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1384|224496|[Linkin Park - Robot Boy (-Bakari-)](https://osu.ppy.sh/s/224496/ "Linkin Park - Robot Boy (-Bakari-)")|0.89|38|1663|
 |1385|320155|[FELT - Clean (Kinshara)](https://osu.ppy.sh/s/320155/ "FELT - Clean (Kinshara)")|0.89|25|3474|
 |1386|296320|[Caramella Girls - Cheerleaders (Radio Mix) (Gero)](https://osu.ppy.sh/s/296320/ "Caramella Girls - Cheerleaders (Radio Mix) (Gero)")|0.89|46|3342|
-|1387|222253|[Qverktett:|| - OVERLAPPERS (Sekai-nyan)](https://osu.ppy.sh/s/222253/ "Qverktett:|| - OVERLAPPERS (Sekai-nyan)")|0.89|46|3343|
+|1387|222253|[Qverktett:\|\| - OVERLAPPERS (Sekai-nyan)](https://osu.ppy.sh/s/222253/ "Qverktett:\|\| - OVERLAPPERS (Sekai-nyan)")|0.89|46|3343|
 |1388|330147|[Gakuen Seikatsu Bu - Friend Shitai (wcx19911123)](https://osu.ppy.sh/s/330147/ "Gakuen Seikatsu Bu - Friend Shitai (wcx19911123)")|0.89|88|5671|
 |1389|339646|[The Monkees - I'm A Believer (Bonsai)](https://osu.ppy.sh/s/339646/ "The Monkees - I'm A Believer (Bonsai)")|0.89|66|2511|
 |1390|342603|[Horie Yui - PRESENTER ([Sc4v4ng3r])](https://osu.ppy.sh/s/342603/ "Horie Yui - PRESENTER ([Sc4v4ng3r])")|0.89|17|1698|

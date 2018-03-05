@@ -1,6 +1,12 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2010
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
+
+## General
 
 - [Results (table text file)](https://puu.sh/Fju)
   - [Forum](https://osu.ppy.sh/forum/t/43834)
@@ -9,11 +15,13 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
 
+### osu!standard
+
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|59|[Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789/ "Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)")|
-|2|56|[07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994/ "07th Expansion - rog-limitation (AngelHoney)")|
-|3|56|[Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/s/17852/ "Baracuda - La Di Da (Nightcore Mix) (ztrot)")|
+|![1][#1]|59|[Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789/ "Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)")|
+|![2][#2]|56|[07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994/ "07th Expansion - rog-limitation (AngelHoney)")|
+|![3][#3]|56|[Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/s/17852/ "Baracuda - La Di Da (Nightcore Mix) (ztrot)")|
 |4|55|[HTT - NO, Thank You! (Full Ver.) (S i R i R u)](https://osu.ppy.sh/s/18841/ "HTT - NO, Thank You! (Full Ver.) (S i R i R u)")|
 |5|51|[Hatsune Miku, Megurine Luka - World's End Dancehall (NatsumeRin)](https://osu.ppy.sh/s/16600/ "Hatsune Miku, Megurine Luka - World's End Dancehall (NatsumeRin)")|
 |6|46|[07th Expansion - Worldenddominator (tieff)](https://osu.ppy.sh/s/14546/ "07th Expansion - Worldenddominator (tieff)")|

@@ -1,6 +1,6 @@
 # 2016
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
 
 ## General
 

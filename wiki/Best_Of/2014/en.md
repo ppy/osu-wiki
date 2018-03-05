@@ -1,6 +1,10 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2014
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
 
 ## General
 
@@ -8,11 +12,11 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!standard
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
-|1|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
-|2|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|3|2122|[cYsmix feat. Emmy - Tear Rain (jonathanlfj)](http://osu.ppy.sh/s/140662/ "cYsmix feat. Emmy - Tear Rain (jonathanlfj)")|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
+|![1][#1]|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
+|![2][#2]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
+|![3][#3]|2122|[cYsmix feat. Emmy - Tear Rain (jonathanlfj)](http://osu.ppy.sh/s/140662/ "cYsmix feat. Emmy - Tear Rain (jonathanlfj)")|
 |4|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
 |5|1910|[Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)](http://osu.ppy.sh/s/175036/ "Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)")|
 |6|1766|[Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr)](http://osu.ppy.sh/s/176832/ "Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr)")|
@@ -1400,11 +1404,11 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!taiko
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
-|1|3093|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|2|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
-|3|1910|[Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)](http://osu.ppy.sh/s/175036/ "Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)")|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
+|![1][#1]|3093|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
+|![2][#2]|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
+|![3][#3]|1910|[Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)](http://osu.ppy.sh/s/175036/ "Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)")|
 |4|1338|[Knife Party - Bonfire (inverness)](http://osu.ppy.sh/s/73576/ "Knife Party - Bonfire (inverness)")|
 |5|1062|[Himeringo - Yotsuya-san ni Yoroshiku (RLC)](http://osu.ppy.sh/s/100049/ "Himeringo - Yotsuya-san ni Yoroshiku (RLC)")|
 |6|1027|[fripSide - black bullet (TV Size) (Chloe)](http://osu.ppy.sh/s/157168/ "fripSide - black bullet (TV Size) (Chloe)")|
@@ -1415,11 +1419,11 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!catch
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
-|1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
-|3|633|[Warak - REANIMATE (Amamiya Yuko)](http://osu.ppy.sh/s/209103/ "Warak - REANIMATE (Amamiya Yuko)")|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
+|![1][#1]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
+|![2][#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
+|![3][#3]|633|[Warak - REANIMATE (Amamiya Yuko)](http://osu.ppy.sh/s/209103/ "Warak - REANIMATE (Amamiya Yuko)")|
 |4|302|[u's - Snow halation (TV Size) (Xinely)](http://osu.ppy.sh/s/183161/ "u's - Snow halation (TV Size) (Xinely)")|
 |5|270|[An - Encryption (HelloSCV)](http://osu.ppy.sh/s/96368/ "An - Encryption (HelloSCV)")|
 |6|255|[kors k - Insane Techniques (LeiN-)](http://osu.ppy.sh/s/138188/ "kors k - Insane Techniques (LeiN-)")|
@@ -1430,11 +1434,11 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!mania
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
-|1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
-|3|605|[Yuyoyuppe - AiAe (Fullerene-)](http://osu.ppy.sh/s/174381/ "Yuyoyuppe - AiAe (Fullerene-)")|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
+|![1][#1]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
+|![2][#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
+|![3][#3]|605|[Yuyoyuppe - AiAe (Fullerene-)](http://osu.ppy.sh/s/174381/ "Yuyoyuppe - AiAe (Fullerene-)")|
 |4|584|[AAA - Wake up! (Anime ver.) (Atsuro)](http://osu.ppy.sh/s/159068/ "AAA - Wake up! (Anime ver.) (Atsuro)")|
 |5|575|[BABYMETAL - MEGITSUNE (arcwinolivirus)](http://osu.ppy.sh/s/167880/ "BABYMETAL - MEGITSUNE (arcwinolivirus)")|
 |6|497|[Camellia - Bangin' Burst (Spy)](http://osu.ppy.sh/s/140097/ "Camellia - Bangin' Burst (Spy)")|

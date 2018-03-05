@@ -1,20 +1,26 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2009
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of the [Best Of](/wiki/Best_Of) series._
 
-![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
+## General
 
 - [Results](https://osu.ppy.sh/forum/t/22162)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2009)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
+  
+## osu!standard
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
-|2|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|
-|3|172| [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/s/6358)|
+|![1][#1]|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
+|![2][#2]|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|
+|![3][#3]|172| [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/s/6358)|
 |4|148| [Hanataba - Night of Knights (v2b)](https://osu.ppy.sh/s/5445)|
 |5|140| [Masayoshi Minoshima ft. nomico - Bad Apple!! (Ephemeral)](https://osu.ppy.sh/s/10435)|
 |6|131| [nomico - Bad Apple!! (James)](https://osu.ppy.sh/s/6252)|
@@ -39,6 +45,6 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |25|62| [IOSYS - Neko Miko Reimu (-SiN-)](https://osu.ppy.sh/s/9264)|
 |26|61| [Silver Forest - Kero (9) Destiny (Yes)](https://osu.ppy.sh/s/8523)|
 |27|60| [Hatsune Miku - Triple Baka (Mafiamaster)](https://osu.ppy.sh/s/4674)|
-|28|59| [Hisaka Yoko - Fudepen ~Ballpen~ (TV Size) (DJPop)](https://osu.ppy.sh/s/8431)|
+|28|59| [Hisaka Yoko - Fudepen \~Ballpen\~ (TV Size) (DJPop)](https://osu.ppy.sh/s/8431)|
 |29|58| [Nightmare - The World (cesc)](https://osu.ppy.sh/s/4851)|
 |30|58| [Girls' Generation - Gee (supergarlic)](https://osu.ppy.sh/s/6680)|
