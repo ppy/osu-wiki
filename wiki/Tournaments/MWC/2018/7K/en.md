@@ -58,7 +58,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Match Schedule: Finals
 
-### Sunday, 11. March 2018
+### Sunday, 2018-03-11
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -121,7 +121,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
 
-- Freemod
+- FreeMod
   - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/b/1421269&m=3) 
   - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](http://osu.ppy.sh/b/1309991&m=3) 
   - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/b/1351223&m=3) 
@@ -144,7 +144,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip)**
 
-- Freemod
+- FreeMod
   - [FELT - Flower Flag (17VA) \[Lunatic\]](http://osu.ppy.sh/b/1142360&m=3) 
   - [ZiGZaG - VVV (AncuL) \[Nightmare\]](http://osu.ppy.sh/b/1180112&m=3) 
   - [fripSide - white forces (Pikobaka) \[White\]](http://osu.ppy.sh/b/959256&m=3) 
@@ -165,7 +165,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)**
 
-- Freemod
+- FreeMod
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](http://osu.ppy.sh/b/1497082&m=3) 
   - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[Blocko's 7K Extra\]](http://osu.ppy.sh/b/1552763&m=3) 
   - [The Flashbulb - Passage D (Wonki) \[Forbidden Path\]](http://osu.ppy.sh/b/1348685&m=3) 
@@ -184,7 +184,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
 
-- Freemod
+- FreeMod
   - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/b/760452&m=3) 
   - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/b/261515&m=3) 
   - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/b/955188&m=3) 
@@ -222,7 +222,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Semifinals
 
-| Saturday, 3. March 2018 | | | | |
+| Saturday, 2018-03-03 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Australia ![][flag_AU] | 0 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/40518173) |
 | United States ![][flag_US] | 6 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40519477) |
@@ -232,13 +232,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | France ![][flag_FR] | 0 | 6 | ![][flag_BR] Brazil | -WIN BY DEFAULT- |
 | Brazil ![][flag_BR] | 6 | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/40544245) |
 
-| Sunday, 4. March 2018 | | | | |
+| Sunday, 2018-03-04 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Chile ![][flag_CL] | 3 | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
-| Saturday, 24. February 2018 | | | | |
+| Saturday, 2018-02-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | China ![][flag_CN] | 5 | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40337357) |
 | Australia ![][flag_AU] | 5 | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40338527) |
@@ -247,14 +247,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Singapore ![][flag_SG] | 5 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/40365467) |
 | United States ![][flag_US] | 3 | 5 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40366912) |
 
-| Sunday, 25. February 2018 | | | | |
+| Sunday, 2018-02-25 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Italy ![][flag_IT] | 5 | 0 | ![][flag_AR] Argentina | -WIN BY DEFAULT- |
 | Canada ![][flag_CA] | 0 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/40386907) |
 
 ### Round of 16
 
-| Sunday, 18. February 2018 | | | | |
+| Sunday, 2018-02-18 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Canada ![][flag_CA] | 0 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/40172677) |
 | United States ![][flag_US] | 5 | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
@@ -267,7 +267,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 10. February 2018 | | | | |
+| Saturday, 2018-02-10 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Thailand ![][flag_TH] | 0 | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/39954578) |
 | Switzerland ![][flag_CH] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/39954590) |
@@ -281,7 +281,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Canada ![][flag_CA] | 3 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/39967317) |
 | Australia ![][flag_AU] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/39979395) |
 
-| Sunday, 11. February 2018 | | | | |
+| Sunday, 2018-02-11 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Japan ![][flag_JP] | 2 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/39979434) |
 | Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/39988692) |
