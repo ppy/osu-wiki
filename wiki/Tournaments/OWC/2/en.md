@@ -10,7 +10,7 @@ osu! World Cup #2
 
 ![osu! World Cup #2 logo](logo.png)
 
-The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the osu! team. It is the 2nd installment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu! World Cup.
 
 ## Prizes
 
@@ -36,6 +36,10 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 - [Tournament Schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
 - [Pre-tournament Interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
+
+------------------------------------------
+
+![osu! World Cup #2 Brackets](brackets.png)
 
 ------------------------------------------
 
@@ -76,7 +80,6 @@ The osu! World Cup #2 was run by various community members by distributing the m
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, Z e o n, [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), Snepif, [AlrdyExists](https://osu.ppy.sh/users/407022) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [JerryC](https://osu.ppy.sh/users/279278), [Shin1801](https://osu.ppy.sh/users/604492), [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [xLightningx](https://osu.ppy.sh/users/1007806), [kira\_lacus1995](https://osu.ppy.sh/users/996435) |
 
-## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -85,13 +88,9 @@ The osu! World Cup #2 was run by various community members by distributing the m
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] Republic of Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
 | ![][flag_JP] Japan | ![][flag_PH] Philippines| ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
 
------------------------------------
-
-![OWC 2 brackets](brackets.png)
-
 ------------------------------------
 
-## Mappools
+## Mappool
 
 ### Finals
 
@@ -114,7 +113,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 - Tiebreaker:
     - [Loathing in Las Vegas - Just Awake \[Insane\]](https://osu.ppy.sh/beatmaps/139446)
 
-### Semi-finals
+### Semifinals
     
 - NoMod:
     - [Seiryu - Time to Air \[DaRRi MIx\]](https://osu.ppy.sh/beatmaps/24594)
@@ -134,7 +133,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 - Tiebreaker:
     - [DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
 
-### Quarter-finals
+### Quarterfinals
 
 - NoMod:
     - [Hatsune Miku - Recommended Spell \[Spell\]](https://osu.ppy.sh/beatmaps/96055)
