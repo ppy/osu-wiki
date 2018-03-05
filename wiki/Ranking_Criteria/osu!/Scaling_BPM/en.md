@@ -1,7 +1,7 @@
 Scaling BPM on the Ranking Criteria
 ===================================
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria/osu!)_
+_Main page: [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!)_
 
 The _osu!_ Ranking Criteria's rules and guidelines are based around songs of 180BPM with 4/4 time signatures. This guide clarifies how that scaling works!
 
