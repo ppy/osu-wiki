@@ -54,5 +54,5 @@ Grupy
 | [Nominatorzy Beatmap](/wiki/People/Beatmap_Nomination_Group) | Osoby które zrobią wszystko, żeby twoja mapa była "zakwalifikowana" |
 | [Twórcy](http://osu.ppy.sh/g/11) | Sprawianie, że gra jest wspaniała poprzez naprawianie bugów i dodawanie nowych opcji |
 | [osu! alumni](/wiki/People/osu!_Alumni) | Ludzie, którzy zapisali się w historii osu! |
-| [Support Team Redux](/wiki/People/Support_Team) | Rozpatrywanie pytań i próśb  |
+| [Support Team Redux](/wiki/People/Support_Team) | Pomooc z prośbami i pytaniami  |
 | [Zespół zapewnienia jakości](/wiki/People/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |
