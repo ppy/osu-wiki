@@ -123,7 +123,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 - Freemod
   - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/b/1421269&m=3) 
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[* * * \ ( o w o)/ ** !!\]](http://osu.ppy.sh/b/1309991&m=3) 
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](http://osu.ppy.sh/b/1309991&m=3) 
   - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/b/1351223&m=3) 
   - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](http://osu.ppy.sh/b/943256&m=3) 
   - [Gekikara Mania - Deublithick (_underjoy) \[Ultra\]](http://osu.ppy.sh/b/1536787&m=3) 
@@ -234,7 +234,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 | Sunday, 4. March 2018 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Chile ![][flag_CL] | 2 | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40554885) |
+| Chile ![][flag_CL] | 3 | 6 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
