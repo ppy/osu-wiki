@@ -1,12 +1,14 @@
 Załoga
 ========
 
+Wymienione poniżej osoby są rdzeniem zespołu Osu i głównie odpowiadają za pomoc w sprawianiu, by gra była wspaniała dla wszystkich.
+
 Twórca
 ----------------------
 
 | Pseudonim | Opis |
 | ---- | ----------- |
-| [peppy](https://osu.ppy.sh/u/2) | Prowadzenie projektu |
+| [![][flag_AU] peppy](https://osu.ppy.sh/u/2) | Prowadzenie projektu |
 
 Aktywni
 ----------------------
