@@ -24,7 +24,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/forum/t/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
 | [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders.|
 | [Loctav](/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
-| [Blazevoir](/users/120265) | Tiempo récord de moderación insano (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
+| [Blazevoir](/users/120265) | Tiempo récord insano de moderación (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
 | [Piotrekol](/users/304520) | Desarrollar y mantener [osu!Stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
 | [MillhioreF](/users/941094) | Excelente rendimiento en la corrección de errores/funciones probando y manejo de consultas del soporte del usuario. |
 | [DeathxShinigami](/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [Beatmap Packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
