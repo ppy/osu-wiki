@@ -23,7 +23,7 @@ Activos
 | [![][flag_US] RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, creador de cosas genialmente extraordinarias |
 | [![][flag_FR] Shiro](https://osu.ppy.sh/u/113005) | Asistencia al jugador |
 | [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | Desarrolador de osu!mania, cazador de bugs |
-| [![][flag_DE] Tom94](https://osu.ppy.sh/u/1857058) | Desarrolador de pp |
+| [![][flag_DE] Tom94](https://osu.ppy.sh/u/1857058) | Desarrolador del pp |
 | [![][flag_JP] yelle](https://osu.ppy.sh/u/4916903) | Administrador de la [osu!store](https://osu.ppy.sh/store/listing) |
 | [![][flag_AU] Zallius](https://osu.ppy.sh/u/55) | Especie en peligro |
 
@@ -38,12 +38,12 @@ Inactivos
 | [![][flag_NL] Intermezzo](https://osu.ppy.sh/u/136842) |Equipo de desarrollo osu!, soporte osz2/p2p  |
 | ![][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) |  Diseñador original del sitio |
 | [![][flag_DE] Loctav](https://osu.ppy.sh/u/71366) | Organizador y administrador de la Copa del Mundo, lider y administrador comunitario del QAT|
-| [![][flag_US] LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Diseñador de skins épica, contribuciones a la skin y el conjunto de iconos predeterminados |
+| [![][flag_US] LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Diseñador de skins épica, contribuciones a la skin y al conjunto de iconos predeterminados |
 | [![][flag_US] mm201](https://osu.ppy.sh/u/30655) |Equipo de desarrollo osu!, deslizadores mm |
 | [![][flag_US] nuudles](https://osu.ppy.sh/u/21312) | Desarrollo osu! iPhone  |
 | ![][flag_US] Phil | Trabajador de diseño del foro |
 | [![][flag_US] Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Diseñador original del concepto y el artwork de Pippi |
-| [![][flag_GR] Sinistro](https://osu.ppy.sh/u/5530) | Administrador y lider temprano comunitario, Meeting minutes, contribuciones a preguntas frecuentes |
+| [![][flag_GR] Sinistro](https://osu.ppy.sh/u/5530) | Administrador y lider temprano de la comunidad, Meeting minutes, contribuciones a preguntas frecuentes |
 | [![][flag_CN] woc2006](https://osu.ppy.sh/u/1105845) | Equipo de desarrollo osu!, Desarrollador del modo osu!mania |
 | [![][flag_US] ztrot](https://osu.ppy.sh/u/6347) | Profesor de [osu!academy](/wiki/Announcements/osu!academy), Diseñador de medios/personajes |
 
