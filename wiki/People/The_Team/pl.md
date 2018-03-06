@@ -4,60 +4,60 @@ Załoga
 Osoby przedstawione poniżej są rdzeniem załogi osu!. Mają za zadanie sprawić, aby gra była przyjazna dla wszystkich użytkowników.
 
 Twórca
-----------------------
+-------
 
 | Pseudonim | Opis |
 | ---- | ----------- |
-| [![][flag_AU] peppy](https://osu.ppy.sh/u/2) | Twórca projektu |
+| [![][flag_AU] peppy](https://osu.ppy.sh/users/2) | Prowadzenie projektu |
 
 Aktywni
-----------------------
+---------
 
 | Pseudonim | Opis |
 | ---- | ----------- |
-| [![][flag_NO] cYsmix](https://osu.ppy.sh/u/272870) | Projektant udźwiękowania oraz [wyróżniony artysta](https://osu.ppy.sh/beatmaps/artists/2) |
-| [![][flag_AU] Ephemeral](https://osu.ppy.sh/u/102335) | Media, sekretarz Meganekko |
-| [![][flag_JP] flyte](https://osu.ppy.sh/u/3103765) | Główny grafik, [osu!next](http://next.ppy.sh/) |
-| [![][flag_JP] nanaya](https://osu.ppy.sh/u/2387883)) | programista osu!web |
-| [![][flag_AU] nekodex](https://osu.ppy.sh/u/102) | programista osu!web |
-| [![][flag_US] RBRat3](https://osu.ppy.sh/u/307202) | osu!artysta, twórca odjechanych rzeczy |
-| [![][flag_FR] Shiro](https://osu.ppy.sh/u/113005) | Zarządzanie społecznością |
-| [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | Twórca osu!manii, naprawianie błędów |
-| [![][flag_DE] Tom94](https://osu.ppy.sh/u/1857058) | Twórca systemu PP |
-| [![][flag_JP] yelle](https://osu.ppy.sh/u/4916903) | Zarządzanie sklepem osu! |
-| [![][flag_AU] Zallius](https://osu.ppy.sh/u/55) | Gatunek zagrożony |
+| [![][flag_NO] cYsmix](https://osu.ppy.sh/users/272870) | Projekt udźwiękowania oraz [wyróżniony artysta](https://osu.ppy.sh/beatmaps/artists/2) |
+| [![][flag_AU] Ephemeral](https://osu.ppy.sh/users/102335) | Przekaz, opieka nad wyróżnionymi artystami, niezdarna sekretarka |
+| [![][flag_JP] flyte](https://osu.ppy.sh/users/3103765) | Naczelny grafik, [osu!next](https://next.ppy.sh/) |
+| [![][flag_JP] nanaya](https://osu.ppy.sh/users/2387883) | Rozwijanie strony osu! |
+| [![][flag_AU] nekodex](https://osu.ppy.sh/users/102) | Rozwijanie strony osu! |
+| [![][flag_US] RBRat3](https://osu.ppy.sh/users/307202) | Grafik osu!, tworzenie odjechanych rzeczy |
+| [![][flag_FR] Shiro](https://osu.ppy.sh/users/113005) | Członek pomocy technicznej |
+| [![][flag_AU] smoogipooo](https://osu.ppy.sh/users/1040328) | Rozwijanie osu!manii, naprawianie błędów |
+| [![][flag_DE] Tom94](https://osu.ppy.sh/users/1857058) | Rozwijanie systemu Performance Points |
+| [![][flag_JP] yelle](https://osu.ppy.sh/users/4916903) | Zarządzanie [sklepem osu!](https://osu.ppy.sh/store/listing) |
+| [![][flag_AU] Zallius](https://osu.ppy.sh/users/55) | Gatunki zagrożone wyginięciem |
 
 Nieaktywni
-----------------------
+------------
 
 | Pseudonim | Opis |
 | ---- | ----------- |
-| [![][flag_US] awp](https://osu.ppy.sh/u/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Generalna pomoc, ilustracje postaci w grze/na stronie |
-| [![][flag_US] Derekku](https://osu.ppy.sh/u/91341) | Generalna pomoc, zarządzanie społecznością |
-| [![][flag_NZ] Echo](https://osu.ppy.sh/u/431) ([blog](http://blog.echo.sh/)) | Jeden z twórców gry, integracja IRC z czatem w grze, Utrzymanie strony |
-| [![][flag_NL] Intermezzo](https://osu.ppy.sh/u/136842) | Jeden z twórców gry, twórca osz2/p2p |
-| ![][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Projekt oryginalnej strony |
-| [![][flag_DE] Loctav](https://osu.ppy.sh/u/71366) | Organizowanie oficjalnych turniejów, zarządzanie zespołem QAT i społecznością |
-| [![][flag_US] LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Projektant skórki, wkład w domyślną skórkę i zestaw ikon |
-| [![][flag_US] mm201](https://osu.ppy.sh/u/30655) | Jeden z twórców gry, slidery mm |
-| [![][flag_US] nuudles](https://osu.ppy.sh/u/21312) | Twórca osu! na iPhone |
-| ![][flag_US] Phil | Projektant forum |
-| [![][flag_US] Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Oryginalny projekt Pippi |
-| [![][flag_GR] Sinistro](https://osu.ppy.sh/u/5530) | Zarządzanie społecznością i kierownictwo, organizacja spotkań, ogromny wkład w FAQ |
-| [![][flag_CN] woc2006](https://osu.ppy.sh/u/1105845) | Jeden z twórców gry, twórca osu!manii |
-| [![][flag_US] ztrot](https://osu.ppy.sh/u/6347) | Profesor osu!academy, wygląd maskotek |
+| [![][flag_US] awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Generalna pomoc, projekt szkicu chibi |
+| [![][flag_US] Derekku](https://osu.ppy.sh/users/91341) | Generalna pomoc, zarządzanie społecznością |
+| [![][flag_NZ] Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Programista, zintegrowanie IRC z czatem gry, prowadzenie strony osu! |
+| [![][flag_NL] Intermezzo](https://osu.ppy.sh/users/136842) | Programista, twórca osz2/p2p |
+| ![][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Oryginalny projekt strony |
+| [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366) | Organizacja oficjalnych turniejów, członek administracji, przewodzenie grupie QAT oraz zarządzanie społecznością |
+| [![][flag_US] LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Projekt skórki, wkład w domyślną skórkę oraz zestaw ikon |
+| [![][flag_US] mm201](https://osu.ppy.sh/users/30655) | Programista, twórca sliderów mm |
+| [![][flag_US] nuudles](https://osu.ppy.sh/users/21312) | Rozwijanie osu! na iPhone |
+| ![][flag_US] Phil | Projekt forum |
+| [![][flag_US] Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Oryginalny projekt i szkic Pippi |
+| [![][flag_GR] Sinistro](https://osu.ppy.sh/users/5530) | Zarządzanie społecznością, organizowanie spotkań, wkład w FAQ |
+| [![][flag_CN] woc2006](https://osu.ppy.sh/users/1105845) | Programista, rozwijanie osu!manii |
+| [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) | Profesor [akademii osu!](/wiki/Announcements/osu!academy), projekt niektórych maskotek |
 
 Grupy
-----------------------
+-------
 
-| Pseudonim | Opis |
+| Nazwa | Opis |
 | ---- | ----------- |
-| [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) | Sprawowanie porządku na forum i w czacie |
-| [Nominatorzy Beatmap](/wiki/People/Beatmap_Nomination_Group) | Osoby które zrobią wszystko, żeby twoja mapa była "zakwalifikowana" |
-| [Twórcy](http://osu.ppy.sh/g/11) | Ulepszanie gry poprzez naprawianie błędów i dodawania nowych funkcji |
-| [osu! alumni](/wiki/People/osu!_Alumni) | Ludzie, którzy zapisali się w historii osu! |
-| [Support Team Redux](/wiki/People/Support_Team) | Odpowiadanie na prośby i pytania  |
-| [Zespół zapewnienia jakości](/wiki/People/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |
+| [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) | Sprawowanie nadzoru na forum i czatem |
+| [Nominatorzy beatmap](/wiki/People/Beatmap_Nomination_Group) | Kwalifikowanie i modowanie beatmap |
+| [Programiści](https://osu.ppy.sh/groups/11) | Ulepszanie gry poprzez naprawianie błędów i dodawanie nowych funkcji |
+| [osu! Alumni](/wiki/People/osu!_Alumni) | Osoby, które zapisały się w historii osu! |
+| [Pomoc techniczna](/wiki/People/Support_Team) | Odpowiadanie na pytania i prośby |
+| [Zespół zapewniania jakości](/wiki/People/Quality_Assurance_Team) | Zapewnianie jakości beatmap |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
