@@ -22,9 +22,9 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [RBRat3](/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](/users/165946) | Arte de los [Logros](/wiki/Achievements), |
 | [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/forum/t/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
-| [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo codigo de numerosas funciones para mapeadores y modders.|
+| [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders.|
 | [Loctav](/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
-| [Blazevoir](/users/120265) | Record en tiempo insado de moderación (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
+| [Blazevoir](/users/120265) | Tiempo récord de moderación insano (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
 | [Piotrekol](/users/304520) | Desarrollar y mantener [osu!Stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
 | [MillhioreF](/users/941094) | Excelente rendimiento en la corrección de errores/funciones probando y manejo de consultas del soporte del usuario. |
 | [DeathxShinigami](/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [Beatmap Packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
@@ -58,7 +58,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Saten](/users/444506) | Sobresaliente presencia y compromiso de moderación (+30k asesinatos). |
 | [MoonShade](/users/273649) | Desarrollar funciones revolucionarias de storyboard (SGL) |
 | [Hatsu](/users/322480) | Mikuia.tv - Desarrolador del toolkit del bot de twitch de osu! |
-| [Tillerino](/users/2070907) | El desarrollo del bot de recomendación Beatmap |
+| [Tillerino](/users/2070907) | Desarrolador del bot de recomendación de Beatmaps |
 
 ### Marzo
 
@@ -66,7 +66,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | ---- | ------------- |
-| [Charles445](/users/85000) | Años de mantener y mejorar la calidad del mapeo, proporcionando asistencia en muchas ocasiones para ayudar a resolver diversos problemas en la comunidad. |
+| [Charles445](/users/85000) | Años de mantener y mejorar la calidad del mapping, proporcionando asistencia en muchas ocasiones para ayudar a resolver diversos problemas en la comunidad. |
 
 ### Noviembre
 
@@ -90,7 +90,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | ---- | ------------- |
-| [OnosakiHito](/users/290128) | Trabajo sobresaliente en la formación de la comunidad temprana de osu!taiko, varios años de tenencia en el BAT/QAT |
+| [OnosakiHito](/users/290128) | Trabajo sobresaliente en la formación de la comunidad temprana de osu!taiko, varios años de permanencia en el BAT/QAT |
 | [Deif](/users/318565) | Contribución excepcional a la comunidad de osu!catch, revisión de criterios de clasificación y torneos |
 | [deadbeat](/users/128370) | Contribución excepcional a innumerables proyectos de medios, torneos y un mandato a largo plazo en el GMT |
 | [Garven](/users/244216) | Años de servicio dedicado a BAT/QAT, y una inmensa contribución a los criterios de clasificación. |
