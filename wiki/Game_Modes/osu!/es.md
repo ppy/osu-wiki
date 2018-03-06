@@ -68,7 +68,7 @@ _Tutorial: [(Incloido en osu!) Tutorial original][osu!tutorial basic], [Version 
 
 La jugabilidad pone énfasis en:-
 
-- Adaptabilidad y reacción a los estímulos (es decir, los objetos golpeables que aparecen en toda la pantalla a la velocidad del rayo).
+- Adaptabilidad y reacción a los estímulos (es decir, los objetos de golpeo que aparecen en toda la pantalla a la velocidad del rayo).
 - Comprensión del ritmo y diseño de la canción.
 - Control del dispositivo de entrada. (Mouse, tablet, etc)
 - Sincronizacion del clickeo en los objeto que aparecen en la pantalla.
@@ -78,8 +78,7 @@ La jugabilidad pone énfasis en:-
 
 Estas son algunas de las habilidades vitales para convertirse en un _ maestro del ritmo en osu!_.
 
-El primer paso para comenzar el viaje es aprender los conceptos básicos (y las teorías) de los objetos golpeables
-
+El primer paso para comenzar el viaje es aprender los conceptos básicos (y las teorías) de los objetos de golpeo
 ### Seleccion de canción
 
 Para acceder al osu! modo de juego, presiona `Ctrl` +` 1` al mismo tiempo.
@@ -104,7 +103,7 @@ El círculo junto a la precisión (y debajo del puntaje) es un temporizador para
 
 El número en la parte inferior izquierda es el combo contador/multiplicador de puntaje.
 
-#### Circulos golpeables
+#### Circulos de golpeo
 ![Circulos golpeables][osu_hit circles image]
 
 _Algunos circulos golpeables son colocados en una trayectoria para tocar el ritmo_
@@ -117,7 +116,7 @@ El circulos golpeable desaparecerá después de que el puntaje estalle.
 Para comprender el encanto oculto de los circulos golpeable, no confíes solo en la percepción; siente el ritmo del beatmap.
 Te ayudara a hacer algunos de los patrones de hit circles visualmente complejos que se encuentran en dificultades posteriores.
 
-#### Control deslizante
+#### Controles deslizantes
 ![Control deslizante][osu_slider image]
 
 _Un control deslizante de una sola repetición, con un circulo de seguimiento naranja rodeando la pelota del control deslizante, y unas palomitas dentro del control deslizante (pequeño circulos blancos) _
@@ -251,7 +250,7 @@ CS normalmente no puede ir por debajo de 2 o por encima de 7 (requiere una modif
 Tenga en cuenta que los modificadores del juego (como Hard Rock / Easy) no cambiarán el ** Multiplicador de dificultad **.
 Solo representará los valores originales solamente.
 
-### Juicio de los circulos golpeables
+### Juicio de los circulos de golpeo
 
 **Circulos golpeables**
 
@@ -264,15 +263,15 @@ Solo representará los valores originales solamente.
 - Los controles deslizantes constan de tics control deslizante, que incluyen los puntos de inicio, fin y repetición del control deslizante.
 - Un 300 se hace por el jugador si obtiene con éxito todos los tics del control deslizante, un 100 dado si el jugador obtiene al menos la mitad de ellos, y un 50 dado si el jugador logra recoger incluso uno de los tics.
 - Tocar un control deslizante **demasiado temprano** no hara que se pierda, pero **restablecerá** el multiplicador de puntaje a **0**.
-- No recopilar los tics de control deslizante, no incurrirá en un error, pero **restablecerá** el multiplicador de puntaje a **0**.
-- Perder el control deslizante no incurre en un Fallos, pero **no** incrementará el multiplicador de puntuación.
+  - No recopilar los tics de control deslizante, no incurrirá en un error, pero **restablecerá** el multiplicador de puntaje a **0**.
+  - Perder el control deslizante no incurre en un Fallos, pero **no** incrementará el multiplicador de puntuación.
 - Una falla se hace si el jugador no recoge ninguno de los tics del control deslizante.
 
 **Ruleta**
 
 - Un 300, 100 o 50 dado dependiendo de la cantidad de giros realizados en comparación con la longitud de la ruleta.
 - Un Fallo se dara por el jugador si este no puede expandir el circulo de la ruleta a un límite satisfactorio para dar 50.
-- Comportamiento de la sin v1: Un Fallo se dara por el jugador si este no puede llenar el medidor que se muestra en ambos lados de la ruleta hasta un límite satisfactorio para 50.
+  - Comportamiento de la sin v1: Un Fallo se dara por el jugador si este no puede llenar el medidor que se muestra en ambos lados de la ruleta hasta un límite satisfactorio para 50.
 
 ### Multiplicador de Puntuación/Combo
 
@@ -286,11 +285,11 @@ Solo representará los valores originales solamente.
 
 **Lo siguientes restablecerán el multiplicador de puntaje a cero:-**
 
-- Perdier un círculo golpeable
+- Perder un círculo golpeable
 - Tocar el comienzo del control deslizante demasiado temprano.
 - Fallar el comienzo control deslizante o el final del control deslizante.
 - No se pudo expandir el círculo de la ruleta a un tamaño satisfactorio.
-- Comportamiento de la skin v1: no se pudo llenar al menos la mitad del medidor de una ruleta.
+  - Comportamiento de la skin v1: no se pudo llenar al menos la mitad del medidor de una ruleta.
 
 **Los siguientes no aumentaran ni restableceran el multiplicador de puntaje:-**
 
@@ -343,11 +342,10 @@ _Uso del humo_
 
 _Humo en la configuración de atajos de teclado; mantener apretada la tecla `C` de forma predeterminada en osu! _
 
-- Dependiendo de la configuración de la dificultad y de la tolerancia de tiempo, al tocar el objeto golpeable demasiado tarde, se hará vibrar el objeto golpable.
+- Dependiendo de la configuración de la dificultad y de la tolerancia de tiempo, al tocar el objeto de golpeo demasiado tarde, se hará vibrar el objeto de golpeo.
 - Al soltar la bola del control deslizante en la trayectoria del control deslizante vacia y sin tics de control deslizante ocultas o visibles, no se traduce en una interrupción del combo ni ninguna puntuación.
-  El juicio del control deslizante solo verifica si se hizo clic en el círculo de inicio, se recogieron las marcas de control deslizante y se completó con éxito el círculo de finalización o no.
-- Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction.
-  Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta.
+  El juicio del control deslizante solo verifica si se hizo clic en el círculo de inicio, se recogieron las marcas de control deslizante y se completó con éxito el círculo de finalización o no.
+- Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta.
 - El progreso del giro no se perderá durante la reorientación (no aumentará en cambio), y continuará aumentando en el giro inverso.
 - No girar alrededor del centro de la ruleta**no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego.
