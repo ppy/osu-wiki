@@ -1,6 +1,6 @@
 # Discusión de Beatmaps
 
-Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
+La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
 
 ## Presentar un beatmap para la discusión de Beatmap
 
@@ -72,7 +72,7 @@ Este contiene al creador que envió el set de beatmaps, muestra la fecha de env�
 
 ### Observar/Dejar de observar
 
-Esto reemplaza la suscripción de beatmap. Puedes seguir el estado de los beatmaps y los problemas abiertos. Se accede a esta página a través de la página de inicio del sitio web haciendo clic en [`Lista de seguimiento de modding` link](https://osu.ppy.sh/beatmapsets/watches) ubicado cerca de la parte superior de la página.
+Esto reemplaza la suscripción de beatmap. Puedes seguir el estado de los beatmaps y los problemas abiertos. Se accede a esta página a través de la página de inicio del sitio web haciendo clic en [`link de la lista de seguimiento de modding`](https://osu.ppy.sh/beatmapsets/watches) ubicado cerca de la parte superior de la página.
 
 ### Tren del Hype
 
