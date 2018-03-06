@@ -42,6 +42,7 @@ Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required.
 - This element appears upon starting the osu! client.
+- This element folds out and expands, then fades out.
 
 ---
 
