@@ -14,7 +14,7 @@ Last month's live showcase featured ten of the most creative offerings seen in o
 
 When the dust settled, only one would top the mountain, but it would do so with an utterly dominant performance that blew all other competition out of the water. Receiving critical praise from the community and judging panel alike, the winner of Aspire 2017: Stage Three is perhaps fittingly, **Superior Fox**, mapped by the one and only [Spectator](https://osu.ppy.sh/users/702598), with a total score of **72.2/80** and **218** unique public votes!
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/mJqI-W7R8gI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/mJqI-W7R8gI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Spectator's Superior Fox demonstrated a masterful command of 2B patterning, Slider Velocity changes and BPM manipulation, with execution slicker than a well-oiled machine. Whilst not the most outlandish of entries, our judges praised its varied use of gimmicks whilst retaining beautiful aesthetics, playability and enjoyment, awarding it the highest mark of any entry in all of the four judging categories. 
 
@@ -24,7 +24,7 @@ With almost twice as many public votes as the runner-up, it would appear the com
 
 Heading the chasing pack was **Truthful Waxwing** by [-Ken](https://osu.ppy.sh/users/4430811), achieving a score of **46.9/80** and **128** unique public votes. 
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/5dkjsG_bUb8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/5dkjsG_bUb8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 -Ken's Truthful Waxwing got a chuckle out of us all with its initial storyboarding endeavours, but this merely foreshadowed a seriously impressive technical offering, featuring a vast array of hyperwalks, stacked notes and bizzare stream shapes. Placing second overall for Creativity and fourth in other criteria, our judges felt that some questionable structuring and a slight lack of variety were all that held this map back from being a contender for the top spot.
 
@@ -34,7 +34,7 @@ With favourable feedback from the judging panel and a sizeable chunk of the publ
 
 Missing out on the second place spot by the slimmest of margins was **Panicky Armadillo** by [-Sh1n1-](https://osu.ppy.sh/users/1957638), racking up **43.6/80** and **110** unique public votes.
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/r2nm_z_u__k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/r2nm_z_u__k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Demonstrating excellent use of inter-connected and overlapping sliders and a huge variety of stacked sliders and streams, all whilst being aesthetically beautiful and hugely enjoyable to play, -Sh1n1-'s Panicky Armadillo rounds out our podium for this contest. Placing second overall in the Technical Skill category and third for Flow and Structure, our judges felt that a somewhat limited array of gimmicks used was the only major criticism on an otherwise outstanding entry.
 
