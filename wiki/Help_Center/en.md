@@ -92,6 +92,34 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `sbcglobal.net`
 - `t-online.de`
 
+### Name Changes
+
+#### Can I change my account's username?
+
+**Yes, absolutely!**
+
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+
+At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+
+#### Can I take another player's username?
+
+**Yes, but only under certain circumstances.**
+
+If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+
+For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
+
+#### Is it possible to change my name back or revert to my old username?
+
+**Yes, but under certain circumstances.**
+
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+
+We only grant this one time per account, so please consider carefully before requesting!
+
 ### Other issues
 
 #### The flag on my account profile is wrong!
@@ -127,32 +155,6 @@ You get to play on the first account you ever registered with us, and that's it!
 We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
-
-#### Can I change my account's username?
-
-**Yes, absolutely!**
-
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
-
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
-
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
-
-#### Can I take another player's username?
-
-**Yes, but only under certain circumstances.**
-
-If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
-
-For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
-
-#### Is it possible to change my name back or revert to my old username?
-
-**Yes, but under certain circumstances.**
-
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
-
-We only grant this one time per account, so please consider carefully before requesting!
 
 #### Can I play on a computer that another osu! user has used before?
 
