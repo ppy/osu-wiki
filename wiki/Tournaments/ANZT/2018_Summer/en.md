@@ -196,57 +196,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ------------------------------------------------------------------------
 ## Results
-
-### Finals - Week 2
-
-### Finals - Week 1
-
-### Semifinals & Losers Bracket Rounds 7 & 8
-
-### Quarterfinals & Losers Bracket Rounds 5 & 6
-
-### Round of 16 & Losers Bracket Rounds 3 & 4
-
-### Round of 32 & Losers Bracket Rounds 1 & 2
-
-### Round of 64
-
-| Sunday, 4. Feb 2018 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Kurume ![][flag_NZ] | 4 | 3 | ![][flag_AU] kuur0 | [#1](https://osu.ppy.sh/community/matches/39767470) |
-| Drox- ![][flag_AU] | 4 | 1 | ![][flag_AU] Kor3ry3-Kun | [#1](https://osu.ppy.sh/community/matches/39795464) |
-| Rik0 ![][flag_AU] | 4 | 1 | ![][flag_AU] Levidia | [#1](https://osu.ppy.sh/community/matches/39796348) |
-| suffix wizard ![][flag_AU] | 1 | 0 | ![][flag_AU] Xinks | -win by forfeit- |
-| ibrocky ![][flag_AU] | 1 | 4 | ![][flag_AU] turretxbuddy | [#1](https://osu.ppy.sh/community/matches/39797327) |
-| fuji ![][flag_AU] | 4 | 2 | ![][flag_NZ] TCN | [#1](https://osu.ppy.sh/community/matches/39798169) |
-| Onyaga ![][flag_AU] | 4 | 0 | ![][flag_AU] pewdekz | [#1](https://osu.ppy.sh/community/matches/39800269) |
-| killerfox123 ![][flag_AU] | 4 | 2 | ![][flag_AU] Barhunga | [#1](https://osu.ppy.sh/community/matches/39800023) |
-| Kano ![][flag_AU] | 4 | 0 | ![][flag_AU] Prosal | [#1](https://osu.ppy.sh/community/matches/39801200) |
-
-| Saturday, 3. Feb 2018 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| overcomplexifii ![][flag_AU] | 4 | 0 | ![][flag_NZ] Particlex | [#1](https://osu.ppy.sh/community/matches/39760123) |
-| Kukukoke ![][flag_NZ] | 1 | 4 | ![][flag_NZ] Ayachi Meme | [#1](https://osu.ppy.sh/community/matches/39761195) |
-| Kooleyy ![][flag_AU] | 2 | 4 | ![][flag_AU] HolyJesus | [#1](https://osu.ppy.sh/community/matches/39760711) |
-| Dumi ![][flag_AU] | 1 | 4 | ![][flag_AU] FknRhythmGames | [#1](https://osu.ppy.sh/community/matches/39762058) |
-| Peekamoo ![][flag_AU] | 1 | 0 | ![][flag_AU] owo 6821 | -win by forfeit- |
-| robo50211 ![][flag_AU] | 4 | 0 | ![][flag_AU] hieepN | [#1](https://osu.ppy.sh/community/matches/39763577) |
-| aska ![][flag_AU] | 4 | 3 | ![][flag_AU] yay | [#1](https://osu.ppy.sh/community/matches/39765105) |
-
-| Friday, 2. Feb 2018 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Athrun ![][flag_AU] | 4 | 0 | ![][flag_AU] kobeblue | [#1](https://osu.ppy.sh/community/matches/39727713) |
-| Jordan The Bear ![][flag_AU] | 4 | 0 | ![][flag_AU] PudIsTrash | [#1](https://osu.ppy.sh/community/matches/39728906) [#2](https://osu.ppy.sh/community/matches/39729244) |
-| TheOmyNomy ![][flag_AU] | 4 | 0 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/39729626) |
-| smead ![][flag_NZ] | 4 | 0 | ![][flag_AU] Panzer911 | [#1](https://osu.ppy.sh/community/matches/39729639) |
-| Ezipie ![][flag_AU] | 2 | 4 | ![][flag_NZ] Feyyy | [#1](https://osu.ppy.sh/community/matches/39730216) |
-| TTG ![][flag_AU] | 4 | 0 | ![][flag_NZ] proftroutington | [#1](https://osu.ppy.sh/community/matches/39730772) |
-| Morrowind ![][flag_NZ] | 4 | 3 | ![][flag_AU] PHzN | [#1](https://osu.ppy.sh/community/matches/39730833) |
-| Rivastyx ![][flag_AU] | 1 | 0 | ![][flag_AU] BranOtaku | -win by forfeit- |
-
-| Thursday, 1. Feb 2018 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Illkryn ![][flag_AU] | 2 | 4 | ![][flag_AU] Monk Gyatso | [#1](https://osu.ppy.sh/community/matches/39704672) |
+Results of the main bracket can be found [Here](http://anzttournaments.challonge.com/o1fs6s1q)
 
 ### Qualifiers
 
