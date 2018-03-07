@@ -118,6 +118,3 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |98|25|[O-Life Japan - Yamanobori Kibun (qinche)](http://osu.ppy.sh/s/30256/ "O-Life Japan - Yamanobori Kibun (qinche)")|
 |99|25|[Lia - Toki wo Kizamu Uta (kanpakyin)](http://osu.ppy.sh/s/35701/ "Lia - Toki wo Kizamu Uta (kanpakyin)")|
 |100|25|[Ai Nonaka , Eri Kitamura - and I'm Home (goodbye)](http://osu.ppy.sh/s/35713/ "Ai Nonaka , Eri Kitamura - and I'm Home (goodbye)")|
-|101|25|[fripSide - HAPPY Generation (Thite)](http://osu.ppy.sh/s/30451/ "fripSide - HAPPY Generation (Thite)")|
-|102|25|[Nobunaga - Shinkai Shoujo (gowww)](http://osu.ppy.sh/s/28050/ "Nobunaga - Shinkai Shoujo (gowww)")|
-|103|25|[Furries in a Blender - Ridorii (-Lennox-)](http://osu.ppy.sh/s/29727/ "Furries in a Blender - Ridorii (-Lennox-)")|
