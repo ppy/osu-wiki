@@ -29,7 +29,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ## Organization
 
-| Position | Member |
+| Position | Staff Members |
 | ------------ | -------------- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135) |
@@ -267,6 +267,9 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 
 * Referees will create the lobby and invite players 10 minutes before the designated match time.
 * Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
+* Both players must !roll. **The highest roll gets first warmup, ban and pick**.
+* Each player will be allowed one warmup map and one ban unless stated otherwise
+* Warmup maps may not be longer than 4 minutes 30 seconds.
 * If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
 * Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
 * Players may not choose from the same mod pool twice in a row (HD/HR/DT/FreeMod). This does not apply to NoMod.
@@ -279,19 +282,11 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 * Players will be assigned lobbies and play through four maps once. Each will be played with their respective mod (NoMod/HD/HR/DT).
 * There are **no warmups** for this stage.
 * Scores will be scaled accordingly. Failed scores **will not count**.
-* The top 64 players will move on to groups.
+* The top 64 players will move on to round of 64.
 
 ### Round of 64 Rules
 
 * There will be **no warmups** and **one ban** per player.
-* Both players will !roll. **Highest roll picks & bans first**.
-* Top two players from each group will continue to RO32.
-
-### Round of 32 Rules
-
-* Each player will have **one warmup** and **one ban**.
-* Both players will !roll. **Highest roll picks & bans first**. They will also choose warmup first.
-* Warmups may not be longer than 4:30.
 
 ### Winning conditions
   - In Round of 32 & Losers Bracket Rounds 1 & 2, you need to win 4 maps to win a match. (Best-of-7)
