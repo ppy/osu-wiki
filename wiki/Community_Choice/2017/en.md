@@ -26,7 +26,9 @@ All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1v
 
 - [Community Choice 2017 Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
-## osu!standard (Top 50)
+## Modes
+
+### osu!standard (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -81,7 +83,7 @@ All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1v
 | 49	|	[BLANKFIELD - Goodbye by Kyubey](http://osu.ppy.sh/beatmapsets/553906)	|	586	|	553906	|
 | 50	|	[Helblinde - The Solace of Oblivion by ProfessionalBox](http://osu.ppy.sh/beatmapsets/594751)	|	568	|	594751	|
 
-## osu!taiko (Top 50)
+### osu!taiko (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -136,7 +138,7 @@ All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1v
 | 49	|	[Chino(Minase Inori) - Okashi na Yume o Ohitotsu Douzo by 404 AccNotFound](http://osu.ppy.sh/beatmapsets/593993)	|	42	|	593993	|
 | 50	|	[DECO*27 - Reversible Campaign by snowball112](http://osu.ppy.sh/beatmapsets/555581)	|	41	|	555581	|
 
-## osu!catch (Top 50)
+### osu!catch (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -191,7 +193,7 @@ All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1v
 | 49	|	[Los Fix - Halloween by Ponchiwi](http://osu.ppy.sh/beatmapsets/512281)	|	56	|	512281	|
 | 50	|	[MISATO - Necro Fantasia by Chromoxx](http://osu.ppy.sh/beatmapsets/516494)	|	56	|	516494	|
 
-## osu!mania (Top 50)
+### osu!mania (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|

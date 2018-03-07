@@ -14,9 +14,11 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 
-## osu!standard
+## Modes
 
-|Placing|Votes|Beatmap|
+### osu!standard
+
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/beatmapsets/79498/ "Infected Mushroom - The Pretender (RLC)")|
 |![2][#2]|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/beatmapsets/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
@@ -119,7 +121,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|87|[S.S.H. - Intersect Thunderbolt-Remix (7odoa)](http://osu.ppy.sh/beatmapsets/38316/ "S.S.H. - Intersect Thunderbolt-Remix (7odoa)")|
 |100|85|[96Neko x KurousaP - Kagen no Tsuki (Nyquill)](http://osu.ppy.sh/beatmapsets/84698/ "96Neko x KurousaP - Kagen no Tsuki (Nyquill)")|
 
-## osu!taiko
+### osu!taiko
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
@@ -134,7 +136,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |9|228|[Igorrr - Pavor Nocturnus (grumd)](http://osu.ppy.sh/beatmapsets/57525/ "Igorrr - Pavor Nocturnus (grumd)")|
 |10|222|[Linked Horizon - Jiyuu no Tsubasa (TV Size) (Kuria)](http://osu.ppy.sh/beatmapsets/104986/ "Linked Horizon - Jiyuu no Tsubasa (TV Size) (Kuria)")|
 
-## osu!catch
+### osu!catch
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
@@ -149,7 +151,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |9|43|[ZUN - Because Princess Inada is Scolding Me (Stefan)](http://osu.ppy.sh/beatmapsets/50717/ "ZUN - Because Princess Inada is Scolding Me (Stefan)")|
 |10|35|[ginkiha - Oriens (Deif)](http://osu.ppy.sh/beatmapsets/65855/ "ginkiha - Oriens (Deif)")|
 
-## osu!mania
+### osu!mania
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|

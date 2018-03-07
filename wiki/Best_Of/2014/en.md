@@ -10,9 +10,11 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-## osu!standard
+## Modes
 
-|Placing|Votes|Beatmap|
+### osu!standard
+
+|Placing|Votes|Beatmap (Mapper)|
 |:-----:|:---:|:------|
 |![1][#1]|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/beatmapsets/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
 |![2][#2]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/beatmapsets/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
@@ -115,7 +117,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|475|[Omoi - Nee William (Yales)](http://osu.ppy.sh/beatmapsets/164155/ "Omoi - Nee William (Yales)")|
 |100|472|[Dzeko & Torres - 2013 In 10 Minutes (Aleks719)](http://osu.ppy.sh/beatmapsets/159357/ "Dzeko & Torres - 2013 In 10 Minutes (Aleks719)")|
 
-## osu!taiko
+### osu!taiko
 
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
@@ -130,7 +132,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |9|637|[xi - Happy End of the World (Liiraye)](http://osu.ppy.sh/beatmapsets/129676/ "xi - Happy End of the World (Liiraye)")|
 |10|624|[IOSYS - Cirno's Perfect Math Class (Mao)](http://osu.ppy.sh/beatmapsets/120071/ "IOSYS - Cirno's Perfect Math Class (Mao)")|
 
-## osu!catch
+### osu!catch
 
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
@@ -145,7 +147,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |9|205|[FELT - Goldrop (Lust)](http://osu.ppy.sh/beatmapsets/204927/ "FELT - Goldrop (Lust)")|
 |10|179|[LeaF - Calamity Fortune (Krah)](http://osu.ppy.sh/beatmapsets/114741/ "LeaF - Calamity Fortune (Krah)")|
 
-## osu!mania
+### osu!mania
 
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|

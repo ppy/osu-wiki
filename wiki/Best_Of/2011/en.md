@@ -13,10 +13,14 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+
+## Modes
+
+_Only osu!standard for this year._
   
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/beatmapsets/28107/ "DJ Fresh - Gold Dust (galvenize)")|
 |![2][#2]|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/beatmapsets/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|

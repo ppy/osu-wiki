@@ -15,9 +15,13 @@ _Part of the [Best Of](/wiki/Best_Of) series._
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
 
+## Modes
+
+_Only osu!standard for this year._
+
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|59|[Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/beatmapsets/19789/ "Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)")|
 |![2][#2]|56|[07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/beatmapsets/14994/ "07th Expansion - rog-limitation (AngelHoney)")|

@@ -1,3 +1,7 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2015
 
 _Part of the [Best Of](/wiki/Best_Of) series._
@@ -10,13 +14,15 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - [News Results](https://osu.ppy.sh/news/138781453998)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-## osu!standard
+## Modes
+
+### osu!standard
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
-|1|332532|[Panda Eyes & Teminite - Highscore (Fort)](https://osu.ppy.sh/beatmapsets/332532/ "Panda Eyes & Teminite - Highscore (Fort)")|1.72|9817|29272|
-|2|219380|[Konuko - Toumei Elegy (Awaken)](https://osu.ppy.sh/beatmapsets/219380/ "Konuko - Toumei Elegy (Awaken)")|1.65|7586|25400|
-|3|280107|[gmtn. (witch's slave) - furioso melodia (Alumetorz)](https://osu.ppy.sh/beatmapsets/280107/ "gmtn. (witch's slave) - furioso melodia (Alumetorz)")|1.61|3802|13704|
+|:---:|:--:|:---|:---:|:--:|:--:|
+|![1][#1]|332532|[Panda Eyes & Teminite - Highscore (Fort)](https://osu.ppy.sh/beatmapsets/332532/ "Panda Eyes & Teminite - Highscore (Fort)")|1.72|9817|29272|
+|![2][#2]|219380|[Konuko - Toumei Elegy (Awaken)](https://osu.ppy.sh/beatmapsets/219380/ "Konuko - Toumei Elegy (Awaken)")|1.65|7586|25400|
+|![3][#3]|280107|[gmtn. (witch's slave) - furioso melodia (Alumetorz)](https://osu.ppy.sh/beatmapsets/280107/ "gmtn. (witch's slave) - furioso melodia (Alumetorz)")|1.61|3802|13704|
 |4|158023|[UNDEAD CORPORATION - Everything will freeze (Ekoro)](https://osu.ppy.sh/beatmapsets/158023/ "UNDEAD CORPORATION - Everything will freeze (Ekoro)")|1.49|6740|27023|
 |5|323059|[DragonForce - Defenders (Spaghetti)](https://osu.ppy.sh/beatmapsets/323059/ "DragonForce - Defenders (Spaghetti)")|1.37|2242|11256|
 |6|180138|[Halozy - Genryuu Kaiko (Hollow Wings)](https://osu.ppy.sh/beatmapsets/180138/ "Halozy - Genryuu Kaiko (Hollow Wings)")|1.37|2102|10925|
@@ -115,13 +121,13 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|332623|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)](https://osu.ppy.sh/beatmapsets/332623/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)")|1.06|1385|16536|
 |100|223871|[Goose house - Hikaru nara -TV size- (Pandiar)](https://osu.ppy.sh/beatmapsets/223871/ "Goose house - Hikaru nara -TV size- (Pandiar)")|1.06|633|10581|
 
-## osu!taiko
+### osu!taiko
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
-|1|275331|[cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331/ "cillia - Fairytale, (mintong89)")|1.57|93|257|
-|2|329268|[joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/beatmapsets/329268/ "joeyclassic - seal.mp4 (IntelliTroodon)")|1.50|276|528|
-|3|215476|[CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/beatmapsets/215476/ "CyoucyoP feat.Hatsune Miku - End of the World (TKS)")|1.47|228|582|
+|:---:|:--:|:---|:---:|:--:|:--:|
+|![1][#1]|275331|[cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331/ "cillia - Fairytale, (mintong89)")|1.57|93|257|
+|![2][#2]|329268|[joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/beatmapsets/329268/ "joeyclassic - seal.mp4 (IntelliTroodon)")|1.50|276|528|
+|![3][#3]|215476|[CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/beatmapsets/215476/ "CyoucyoP feat.Hatsune Miku - End of the World (TKS)")|1.47|228|582|
 |4|324146|[Eluveitie - Helvetios (Grimbow)](https://osu.ppy.sh/beatmapsets/324146/ "Eluveitie - Helvetios (Grimbow)")|1.38|114|345|
 |5|348969|[MowtenDoo - Run Run Bodywash (Midnaait)](https://osu.ppy.sh/beatmapsets/348969/ "MowtenDoo - Run Run Bodywash (Midnaait)")|1.37|218|478|
 |6|328117|[Kurokotei - Galaxy Collapse (Sayaka-)](https://osu.ppy.sh/beatmapsets/328117/ "Kurokotei - Galaxy Collapse (Sayaka-)")|1.33|147|381|
@@ -220,13 +226,13 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|194109|[RYO - Shuffle Heaven (Nwolf)](https://osu.ppy.sh/beatmapsets/194109/ "RYO - Shuffle Heaven (Nwolf)")|0.99|72|498|
 |100|198294|[J*Dee'Z with Pikachu - Peace Smile! (Coro)](https://osu.ppy.sh/beatmapsets/198294/ "J*Dee'Z with Pikachu - Peace Smile! (Coro)")|0.99|29|154|
 
-## osu!catch
+### osu!catch
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
-|1|253969|[Halozy - Genryuu Kaiko (CLSW)](https://osu.ppy.sh/beatmapsets/253969/ "Halozy - Genryuu Kaiko (CLSW)")|1.83|541|867|
-|2|287873|[Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/beatmapsets/287873/ "Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)")|1.49|218|495|
-|3|139525|[Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/beatmapsets/139525/ "Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)")|1.41|287|641|
+|:---:|:--:|:---|:---:|:--:|:--:|
+|![1][#1]|253969|[Halozy - Genryuu Kaiko (CLSW)](https://osu.ppy.sh/beatmapsets/253969/ "Halozy - Genryuu Kaiko (CLSW)")|1.83|541|867|
+|![2][#2]|287873|[Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/beatmapsets/287873/ "Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)")|1.49|218|495|
+|![3][#3]|139525|[Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/beatmapsets/139525/ "Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)")|1.41|287|641|
 |4|310499|[Reol - Asymmetry (Skystar)](https://osu.ppy.sh/beatmapsets/310499/ "Reol - Asymmetry (Skystar)")|1.40|223|514|
 |5|286414|[Camellia - dreamless wanderer (Amamiya Yuko)](https://osu.ppy.sh/beatmapsets/286414/ "Camellia - dreamless wanderer (Amamiya Yuko)")|1.36|250|552|
 |6|297668|[void feat. Komatsuna - Akatsuki no Tsuki (Spectator)](https://osu.ppy.sh/beatmapsets/297668/ "void feat. Komatsuna - Akatsuki no Tsuki (Spectator)")|1.35|516|960|
@@ -297,13 +303,13 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |71|231024|[Toni Ten - Tu ets el meu cor encantat (Hanjamon)](https://osu.ppy.sh/beatmapsets/231024/ "Toni Ten - Tu ets el meu cor encantat (Hanjamon)")|0.67|22|262|
 |72|290520|[Yoshito Hirano - Opening (BoberOfDarkness)](https://osu.ppy.sh/beatmapsets/290520/ "Yoshito Hirano - Opening (BoberOfDarkness)")|0.67|41|363|
 
-## osu!mania
+### osu!mania
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
-|1|272871|[D(ABE3) - MANIERA (iJinjin)](https://osu.ppy.sh/beatmapsets/272871/ "D(ABE3) - MANIERA (iJinjin)")|1.63|880|2259|
-|2|200552|[BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/beatmapsets/200552/ "BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)")|1.48|1366|3789|
-|3|288794|[AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/beatmapsets/288794/ "AKINO from bless4 - MIIRO ([ S a k u r a ])")|1.38|1023|3174|
+|:---:|:--:|:---|:---:|:--:|:--:|
+|![1][#1]|272871|[D(ABE3) - MANIERA (iJinjin)](https://osu.ppy.sh/beatmapsets/272871/ "D(ABE3) - MANIERA (iJinjin)")|1.63|880|2259|
+|![2][#2]|200552|[BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/beatmapsets/200552/ "BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)")|1.48|1366|3789|
+|![3][#3]|288794|[AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/beatmapsets/288794/ "AKINO from bless4 - MIIRO ([ S a k u r a ])")|1.38|1023|3174|
 |4|293235|[C-Show - Invitation from Mr.C (_FrEsH_ChICkEn_)](https://osu.ppy.sh/beatmapsets/293235/ "C-Show - Invitation from Mr.C (_FrEsH_ChICkEn_)")|1.33|882|3175|
 |5|246853|[bbn - Identic Conflict (pporse)](https://osu.ppy.sh/beatmapsets/246853/ "bbn - Identic Conflict (pporse)")|1.28|140|600|
 |6|298006|[Yooh - LegenD. (_FrEsH_ChICkEn_)](https://osu.ppy.sh/beatmapsets/298006/ "Yooh - LegenD. (_FrEsH_ChICkEn_)")|1.24|804|3198|
