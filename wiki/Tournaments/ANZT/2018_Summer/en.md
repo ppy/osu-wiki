@@ -192,6 +192,31 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ### Finals - Week 1
 
+**[Download all](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip)**
+
+- NoMod
+  - [nmk - sola (Morinaga) \[Last Word\]](https://osu.ppy.sh/b/1526226)
+  - [Nekomata Gekidan - AsiaN distractive (Regou) \[Orientalism\]](https://osu.ppy.sh/b/1392007)
+  - [Byakko - Kachou Fuusetsu (EvilElvis) \[MasterPeesya\]](https://osu.ppy.sh/b/453790)
+  - [jioyi - Platinum (Plaudible) \[Winber1's Extra\]](https://osu.ppy.sh/b/1566610)
+  - [xi - Vanitas (RLC) \[Memorium\]](https://osu.ppy.sh/b/243657)
+  - [Mitsuki Nakae - Ouka Enbu (Lasse) \[Petal\]](https://osu.ppy.sh/b/1457104)
+- Hidden
+  - [Sound Horizon - StarDust (Shirasaka Koume) \[Stardust\]](https://osu.ppy.sh/b/1484477)
+  - [Lon - Yuru Fuwa Jukai Girl (Jounzan) \[soda\]](https://osu.ppy.sh/b/1560201)
+- HardRock
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[EXPERT\]](https://osu.ppy.sh/b/698516)
+  - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/b/495899)
+- DoubleTime
+  - [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/b/143989)
+  - [SYNC.ART'S ft. Sakaue Nachi - Green Grass Garden (xierbaliti) \[Lunatic\]](https://osu.ppy.sh/b/54529)
+- FreeMod
+  - [REOL - Endless Line (DeRandom Otaku) \[Infinite\]](https://osu.ppy.sh/b/1493345)
+  - [la la larks - Sayonara Waltz (captin1) \[Waltz\]](https://osu.ppy.sh/b/416882)
+  - [Aimer - twoface (HalfDeckOfCards) \[Sorrowful\]](https://osu.ppy.sh/b/1278365)
+- Tiebreaker
+  - [Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/b/779179)
+
 ### Finals - Week 2
 
 ------------------------------------------------------------------------
