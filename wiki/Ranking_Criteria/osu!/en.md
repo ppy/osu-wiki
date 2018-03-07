@@ -49,7 +49,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 Overall
 --------
 
-Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM maps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different. [This article](/wiki/Ranking_Criteria/osu!/Scaling_BPM) serves as a reference for dealing with differing BPMs more accurately and is as such this Ranking Criteria and applying to all difficulties.
+Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM maps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/osu!/Scaling_BPM).
 
 ### General
 
