@@ -216,7 +216,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 | Kurume ![][flag_NZ] | 4 | 3 | ![][flag_AU] kuur0 | [#1](https://osu.ppy.sh/community/matches/39767470) |
 | Drox- ![][flag_AU] | 4 | 1 | ![][flag_AU] Kor3ry3-Kun | [#1](https://osu.ppy.sh/community/matches/39795464) |
 | Rik0 ![][flag_AU] | 4 | 1 | ![][flag_AU] Levidia | [#1](https://osu.ppy.sh/community/matches/39796348) |
-| suffix wizard ![][flag_AU] | 1 | 0 | ![][flag_AU] Xinks | [-win by forfeit-](https://new.ppy.sh/community/matches/31698275) |
+| suffix wizard ![][flag_AU] | 1 | 0 | ![][flag_AU] Xinks | -win by forfeit- |
 | ibrocky ![][flag_AU] | 1 | 4 | ![][flag_AU] turretxbuddy | [#1](https://osu.ppy.sh/community/matches/39797327) |
 | fuji ![][flag_AU] | 4 | 2 | ![][flag_NZ] TCN | [#1](https://osu.ppy.sh/community/matches/39798169) |
 | Onyaga ![][flag_AU] | 4 | 0 | ![][flag_AU] pewdekz | [#1](https://osu.ppy.sh/community/matches/39800269) |
