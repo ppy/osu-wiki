@@ -189,7 +189,7 @@ Mappools will be revealed one week in advance of each stage.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both, based on the beatmap.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both.
   - When playing a FreeMod map, at least 1 player of each team must have at least one mode activated.
 
 8. The tiebreaker will be played under FreeMod conditions.
