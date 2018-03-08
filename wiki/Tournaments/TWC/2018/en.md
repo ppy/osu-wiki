@@ -6,7 +6,7 @@ tags:
 osu!taiko World Cup 2018
 =============================
 
-![osu!taiko World Cup 2018](logo.png)
+![osu!taiko World Cup 2018](logo.jpg)
 
 The **osu!taiko World Cup 2017** (**_TWC 2018_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu!taiko World Cup.
 

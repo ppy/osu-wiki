@@ -6,10 +6,10 @@ date: 2018-03-08 13:00:00 +0000
  
 Once more the drumfest of the osu!taiko World Cup is back for its 8th installment! Some minor tweaks to the ScoreV2 system alongside a fresh map selection team are our premises for an exciting tournament! The Registration Phase already started, no time to waste!
 
-![](/wiki/shared/news/banners/TWC_2018_ban.jpg)
+![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
  
 For more details, refer to the **[osu!taiko World Cup 2018 wiki article](/wiki/Tournaments/TWC/2018/)**.
-You can discuss this event and follow the most important changes in the **[official discussion thread](https://new.ppy.sh/forum/t/555072)**.
+You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/713163)**.
  
 ## Tournament Schedule
  
