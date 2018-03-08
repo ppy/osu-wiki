@@ -8,20 +8,20 @@ osu!taiko World Cup 2018
 
 ![osu!taiko World Cup 2018](logo.jpg)
 
-The **osu!taiko World Cup 2017** (**_TWC 2018_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2018** (**_TWC 2018_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | ---: | :--- |
 | Registration Phase | 2018-03-08/2018-03-21 |
-| Drawings | 2018-03-31 14:00:00 UTC |
+| Drawings | 2018-03-31 (14:00:00 UTC) |
 | Group Stage | 2018-04-07/2018-04-08 |
 | Round of 16 | 2018-04-14/2018-04-15 |
 | Quarterfinals | 2018-04-21/2018-04-22 |
 | Semifinals | 2018-04-28/2018-04-29 |
-| Finals - Week 1 | 2018-05-05/2018-05-06 |
-| Finals - Week 2 | 2018-05-12/2018-05-13 |
+| Finals | 2018-05-05/2018-05-06 |
+| Grand Finals | 2018-05-12/2018-05-13 |
 
 ## Prizes
 
@@ -39,7 +39,7 @@ _More prizes to be defined_
 
 The osu!taiko World Cup 2018 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Member |
+| Position | Members |
 | ------------ | -------------- |
 | Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map Selectors | [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766), [![][flag_DE] Onosakihito](https://osu.ppy.sh/users/290128) |
@@ -47,7 +47,7 @@ The osu!taiko World Cup 2018 is ran by various community members by distributing
 
 ## Links
 
-- [Discussion thread](https://new.ppy.sh/forum/t/555072)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/555072)
 - [Sign-Up for the tournament!](https://osu.ppy.sh/community/tournaments/14)
 - [Livestream](https://www.twitch.tv/osulive)
 
@@ -164,10 +164,10 @@ Map pools will be revealed one week in advance of each stage.
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-  - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2017: (TeamBlue) vs (TeamRed)".
+  - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2017: (TeamRed) vs (TeamBlue)".
   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 
-2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
+2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
@@ -182,7 +182,7 @@ Map pools will be revealed one week in advance of each stage.
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-  - Finals Week 1 & Finals Week 2 use the same mappool.
+  - Finals & Grand Finals use the same mappool.
 
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool consists of 14 maps in total with the exception of the Finals pool which will have 16 maps in total.
@@ -197,7 +197,7 @@ Map pools will be revealed one week in advance of each stage.
 
 9. The size of the NoMod bracket will be 5 in all stages with the exception of the Finals which will have 6 maps.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
-11. The size of the FreeMod brackets will be 2 in all stages with the exception of the Finals which will have 6 maps.
+11. The size of the FreeMod brackets will be 2 in all stages with the exception of the Finals which will have 3 maps.
 
 ### Scheduling Instructions
 
