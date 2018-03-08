@@ -92,7 +92,7 @@ Una vez que un beatmap acumule al menos 5 puntos de hype, el beatmap sera elegib
 
 ## Campo de envío de modificaciones
 
-![](img/mod-submission-field.jpg "El lugar donde sucede la magia de las modificaciones.")
+![](img/mod-submission-field.jpg "El lugar donde sucede la magia del modding.")
 
 ### Sección de presentación de modificaciones
 
@@ -107,7 +107,7 @@ Esta es la sección del beatmap al que enviarás tus inquietudes.
 
 ### Campo de Modding
 
-![](img/modding-field.jpg "Donde ocurre la magia de las modificaciones")
+![](img/modding-field.jpg "Donde ocurre la magia del modding")
 
 Aquí es donde escribes tu modificación. Si usa la sección de la Línea de tiempo, debe incluir una marca de tiempo en la publicación. La primera marca de tiempo que se colocará será la marca de tiempo que se muestra en la sección Discusión. Las secciones generales no requieren marcas de tiempo, pero pueden incluirlas.
 
@@ -121,13 +121,13 @@ Si tu marca de tiempo enviada a través de la sección Línea de tiempo está ce
 
 ![](img/mod-type.jpg)
 
-Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`,` Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. ** Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión. ** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
+Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`,` Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. **Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión.** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
 
 ### Alfiler
 
 Al habilitar el alfiler, el [campo de modificaciones] (# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del campo de modding.
 
-## Campo de discusión de modificaciones
+## Campo de discusión de modding
 
 ![](img/discussions.jpg)
 
