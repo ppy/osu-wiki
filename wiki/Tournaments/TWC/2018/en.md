@@ -61,7 +61,7 @@ Players will be displayed after the registration phase is completed.
 
 ## Mappool
 
-Map pools will be revealed one week in advance of each stage.
+Mappools will be revealed one week in advance of each stage.
 
 ------------------------------------------------------------------------
 
