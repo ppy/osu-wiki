@@ -137,36 +137,36 @@ Informativo
 | La "Stack leniency" es mayor que 0,9 o menor que 0,3. | | |
 | El artista romanizado contiene unicode. | | |
 | El título romanizado contiene unicode. | | |
-| La cuenta regresiva no está permitida en el modo de manía. | ¡mapas de osu!mania solamente! | Vaya a "Song Settings" y deshabilite la Cuenta atrás en la pestaña "Diseño" |
-| Letterboxing no está permitido en el modo Mania. | ¡mapas de osu!mania solamente! | |
-| La tasa de OD se recomienda que sea al menos 5. | ¡mapas de osu!mania solamente! | Vaya a "Song Settings" y configure la tasa de OD en 5 o más |
-| Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 8. | ¡mapas de osu!mania solamente! | |
-| La cuenta atrás no está permitida en el modo Taiko. | ¡mapas de osu!taiko solamente! | |
-| La advertencia de epilepsia no está permitida en el modo Taiko. | ¡mapas de osu!taiko solamente! | |
-| Letterboxing no está permitido en el modo Taiko. | ¡mapas de osu!taiko solamente! | |
+| La cuenta regresiva no está permitida en el modo de manía. | ¡Mapas de osu!mania solamente! | Vaya a "Song Settings" y deshabilite la Cuenta atrás en la pestaña "Diseño" |
+| Letterboxing no está permitido en el modo Mania. | ¡Mapas de osu!mania solamente! | |
+| La tasa de OD se recomienda que sea al menos 5. | ¡Mapas de osu!mania solamente! | Vaya a "Song Settings" y configure la tasa de OD en 5 o más |
+| Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 8. | ¡Mapas de osu!mania solamente! | |
+| La cuenta atrás no está permitida en el modo Taiko. | ¡Mapas de osu!taiko solamente! | |
+| La advertencia de epilepsia no está permitida en el modo Taiko. | ¡Mapas de osu!taiko solamente! | |
+| Letterboxing no está permitido en el modo Taiko. | ¡Mapas de osu!taiko solamente! | |
 
 #### Mapset
 
 | Mensaje | Explicación | Solución |
 | ------ | ------------- | -------- |
-| El artista entra en conflicto con {0} diff. | | |
-| El archivo de audio entra en conflicto con {0} diff. | | |
-| La cuenta regresiva está en conflicto con {0} diff. | | |
-| El audio entra en conflicto con {0} diff. | | |
-| Letterbox en breaks entra en conflicto con {0} diff. | | |
-| El tiempo de vista previa de audio entra en conflicto con {0} diff. | | |
-| La fuente está en conflicto con {0} diff. | | |
-| Las etiquetas entran en conflicto con {0} diff. | | |
-| El título está en conflicto con {0} diff. | | |
-| El artista Unicode entra en conflicto con {0} diff. | | |
-| El título Unicode entra en conflicto con {0} diff. | | |
-| Este mapset no puede tener una diferencia Insane. sin una Hard Dif. | | |
+| El artista entra en conflicto con dificultad {0}. | | |
+| El archivo de audio entra en conflicto con dificultad {0}. | | |
+| La cuenta regresiva está en conflicto con dificultad {0}. | | |
+| El audio entra en conflicto con dificultad {0}. | | |
+| Letterbox en breaks entra en conflicto con dificultad {0}. | | |
+| El tiempo de vista previa de audio entra en conflicto con dificultad {0}. | | |
+| La fuente está en conflicto con dificultad {0}. | | |
+| Las etiquetas entran en conflicto con dificultad {0}. | | |
+| El título está en conflicto con dificultad {0}. | | |
+| El artista Unicode entra en conflicto con dificultad {0}. | | |
+| El título Unicode entra en conflicto con dificultad {0}. | | |
+| Este mapset no puede tener una dificultad Insane. sin una dificultad Hard. | | |
 | El tamaño del archivo del conjunto de mapas supera los 10 MB sin video. | | |
 | El tamaño de archivo del conjunto de mapas excede los 24MB con video. | | |
-| A este conjunto de mapas le falta diff: {0} | | |
-| Este mapset necesita al menos 2 osu!catch diffs. | ¡solo mapas de osu! | |
+| A este conjunto de mapas le falta dificultad: {0} | | |
+| Este mapset necesita al menos 2 osu!catch diffs. | ¡Solo mapas de osu! | |
 | Este mapset necesita al menos 1 diferencia Fácil / Normal. | | |
-| Este mapset necesita al menos 2 osu!mania diffs. | ¡mapas de osu!mania solamente! | |
+| Este mapset necesita al menos 2 osu!mania diffs. | ¡Mapas de osu!mania solamente! | |
 | Este mapset necesita al menos 2 diferencias estándar. | ¡Mapas estándar solamente! | |
-| Este mapset necesita al menos 2 osu!taiko diffs. | ¡mapas de osu!taiko solamente! | |
-| Los puntos de temporización no heredados entran en conflicto con {0} diff. | | |
+| Este mapset necesita al menos 2 osu!taiko diffs. | ¡Mapas de osu!taiko solamente! | |
+| Los puntos de temporización no heredados entran en conflicto con dificultad {0} . | | |
