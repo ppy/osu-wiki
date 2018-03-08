@@ -19,8 +19,8 @@ You can discuss this event and follow the most important changes in the **[offic
 + Round of 16: 2018-04-14/2018-04-15
 + Quarterfinals: 2018-04-21/2018-04-22
 + Semifinals: 2018-04-28/2018-04-29
-+ Finals - Week 1: 2018-05-05/2018-05-06
-+ Finals - Week 2: 2018-05-12/2018-05-13
++ Finals: 2018-05-05/2018-05-06
++ Grand Finals: 2018-05-12/2018-05-13
  
 ## Prizes
 + **1st:** Profile badge, "osu!taiko Champion" user title for one year
