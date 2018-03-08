@@ -17,14 +17,14 @@ Cada una de las configuraciones pone diferentes colores de ticks en las [Lineas 
 
 ![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
-- Medops Beats
+- Medios Beats
 - Agrega marcas rojas
 
 ### Divisor 1/3
 
 ![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
-- Tripletes *
+- Tripletes*
 - Tiene dos marcas de color púrpura entre cada marca blanca
 - Tiempo compuesto
 
@@ -53,14 +53,14 @@ Cada una de las configuraciones pone diferentes colores de ticks en las [Lineas 
 
 El 1/3 y 1/6 son especiales porque significa que su BPM es divisible por tres, pero esto es *raro*.
 
-Al mantener presionado el botón "Alt" sobre el slider, se cambia al [distance spacing](/wiki/Beatmap_Editor/Distance_Snap) slider.
+Al mantener presionado el botón "Alt" sobre el control deslizante, se cambia el control deslizante por [distance spacing](/wiki/Beatmap_Editor/Distance_Snap).
 
 osu!mania
 -----
 
-Doble línea blanca: medida
+Doble línea blanca: Medida
 
-Línea blanca: tiempo común
+Línea blanca: Tiempo común
 
 Línea Verde: Tú.
 
