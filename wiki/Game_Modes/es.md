@@ -24,7 +24,7 @@ Aquí están los modos de juego disponibles en osu!:-
 
 - ![Icono de osu!][osu! icon link] _[osu!standard/osu!][osu! wikilink]_:
   Basado en _[Osu! Tatakae! Ouendan][ouendan wikipedia]_.
-  Toca, deslize y gira al ritmo.
+  Toca, desliza y gira al ritmo.
 - ![Icono de osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_:
   Basado en _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_.
   Toque, y ruede el tambor taiko al ritmo.
