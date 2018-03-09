@@ -62,14 +62,14 @@ Turnamen/kompetisi tidak resmi yang diselenggarai oleh komunitas.
 
 ### ![](/wiki/shared/mode/osu.png) North American osu! Standard Tournament
 
-The North American osu! Standard Tournament (Turnamen osu!Standard Amerika Utara) adalah turnamen tahunan yang diselenggarai oleh [MMzz](https://osu.ppy.sh/u/128993), Turnamen ini menggunakan sistem [Eleminasi Pasangan](https://en.wikipedia.org/wiki/Double-elimination_tournament) untuk menentukan pemenang pertandingan dan merupakan sebuah turnamen berbasis solo (1vs1). Sistem ini memperbolehkan seorang pemain untuk kalah di sebuah pertandingan, namun masih memiliki kesempatan untuk menang, untuk melawan fakta bahwa para pemain baru memungkinkan untuk dipertarungkan dengan para pemain yang tinggi peringkatnya di ronde pertama.
+The North American osu! Standard Tournament (Turnamen osu!Standard Amerika Utara) adalah turnamen tahunan yang diselenggarai oleh [MMzz](https://osu.ppy.sh/users/128993), Turnamen ini menggunakan sistem [Eleminasi Pasangan](https://en.wikipedia.org/wiki/Double-elimination_tournament) untuk menentukan pemenang pertandingan dan merupakan sebuah turnamen berbasis solo (1vs1). Sistem ini memperbolehkan seorang pemain untuk kalah di sebuah pertandingan, namun masih memiliki kesempatan untuk menang, untuk melawan fakta bahwa para pemain baru memungkinkan untuk dipertarungkan dengan para pemain yang tinggi peringkatnya di ronde pertama.
 Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berlangsung di masa mendatang. Postingan Forum yang mengurai semua detil mengenai turnamen ini dapat ditemukan di [disini](https://osu.ppy.sh/forum/t/324720)
 
 #### Pemenang Sebelumnya
 
 - **PEMENANG NAT 2013:** SapphireGhost
-- **PEMENANG NAT 2014:** [Azer](https://osu.ppy.sh/u/2155578)
-- **PEMENANG NAT 2015:** [[Toy]](https://osu.ppy.sh/u/2757689)
+- **PEMENANG NAT 2014:** [Azer](https://osu.ppy.sh/users/2155578)
+- **PEMENANG NAT 2015:** [[Toy]](https://osu.ppy.sh/users/2757689)
 
 Lihat juga
 ------------
