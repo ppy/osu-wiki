@@ -2,12 +2,12 @@
 
 ![Foros de osu!](main.jpg "Imagen de los foros de osu!")
 
-Los foros de osu! son una de las principales características de la web osu! Aquí, puede crear nuevos temas o publicaciones en discusiones dentro de la comunidad osu!
+Los foros son una de las principales características de la web de osu! Aquí, puede crear nuevos temas o publicaciones en discusiones dentro de la comunidad.
 
 ## Subforos
 
 - [osu!](https://osu.ppy.sh/community/forums/1): _Especifico para osu!_
-  - [Desarrollo](https://osu.ppy.sh/community/forums/2): _Vamos a mover osu! hacia adelante. Discuta proyectos, consideraciones, noticias y publicidad, reuniones y cosas similares._
+  - [Desarrollo](https://osu.ppy.sh/community/forums/2): _Vamos a mover osu! hacia adelante. Discute proyectos, consideraciones, noticias y publicidad, reuniones y cosas similares._
     - [Projectos completados](https://osu.ppy.sh/community/forums/116): _Los proyectos completados se pueden archivar y analizar aquí._
       - [osu! iPhone](https://osu.ppy.sh/community/forums/47)
         - [Reporte de Bugs](https://osu.ppy.sh/community/forums/50)
@@ -27,7 +27,7 @@ Los foros de osu! son una de las principales características de la web osu! Aqu
   - [Peticiones de características](https://osu.ppy.sh/community/forums/4): _Sugiere lo que te gustaría ver en osu!._
     - [Peticiones completadas](https://osu.ppy.sh/community/forums/30): _Las solicitudes cumplidas yacen en paz aquí._
   - [Ayuda](https://osu.ppy.sh/community/forums/5): _El lugar al que ir cuando tienes un problema para informar o una pregunta para hacer._
-    - [Problemas resueltos](https://osu.ppy.sh/community/forums/29): _Todos los errores resueltos descanzan en paz aquí._
+    - [Problemas resueltos](https://osu.ppy.sh/community/forums/29): _Todos los errores resueltos descansan en paz aquí._
     - [Problemas confirmados](https://osu.ppy.sh/community/forums/101)
 - [Beatmaps](https://osu.ppy.sh/community/forums/2)
   - [Beatmaps Rankeados/Aprovados](https://osu.ppy.sh/community/forums/14): _Los beatmaps oficialmente aprobados residen aquí._
@@ -39,7 +39,7 @@ Los foros de osu! son una de las principales características de la web osu! Aqu
   - [Beatmap Graveyard](https://osu.ppy.sh/community/forums/19): _Los beatmaps que no han estado activos durante 4 semanas o más se moverán aquí._
   - [Projectos de Beatmaps](https://osu.ppy.sh/community/forums/53): _Anuncia, debate y participa en proyectos de beatmapping aquí._
     - [Proyectos completados](https://osu.ppy.sh/community/forums/62)
-  - [Administración de Beatmaps](https://osu.ppy.sh/community/forums/115): _Los miembros del Grupo de Nominación Beatmap discuten los últimos temas aquí._
+  - [Administración de Beatmaps](https://osu.ppy.sh/community/forums/115): _Los miembros del Grupo de Nominación Beatmaps discuten los últimos temas aquí._
     - [Archivos](https://osu.ppy.sh/community/forums/117)
 - [Otros](https://osu.ppy.sh/community/forums/11)
   - [Discusión general](https://osu.ppy.sh/community/forums/7): _Publica cualquier cosa que no sea osu!, siempre y cuando se trate de contenido de calidad._
@@ -49,8 +49,8 @@ Los foros de osu! son una de las principales características de la web osu! Aqu
     - [Encuestas](https://osu.ppy.sh/community/forums/114): _PRETENDE ESTO ES ASK.FM Y HAGA PREGUNTAS DE LA GENTE QUE A NADIE LE PREOCUPA_
   - [Introducciones](https://osu.ppy.sh/community/forums/8): _Presentate a ti mismo!_
   - [Salón de música](https://osu.ppy.sh/community/forums/91): _Discusión musical fuera del reino de osu!_
-  - [Cultura Otaku](https://osu.ppy.sh/community/forums/75): _Discuta Anime, Manga y otros temas relacionados con Otakus aquí._
-  - [Videojuegos](https://osu.ppy.sh/community/forums/17): _Discuta cualquiera y todos los juegos no osu! aquí. Esto incluye otros juegos estilo beat._
+  - [Cultura Otaku](https://osu.ppy.sh/community/forums/75): _Discute sobre Anime, Manga y otros temas relacionados con Otakus aquí._
+  - [Videojuegos](https://osu.ppy.sh/community/forums/17): _Discute sobre videojuegos que no sean osu!. Esto incluye otros juegos estilo beat._
   - [Arte](https://osu.ppy.sh/community/forums/103): _¡Publica tus obras maestras, encuentra nuevos avatares y más!_
 - [Específico por lenguaje](https://osu.ppy.sh/community/forums/23)
   - [Русский](https://osu.ppy.sh/community/forums/35): _Ruso_
@@ -59,12 +59,12 @@ Los foros de osu! son una de las principales características de la web osu! Aqu
   - [Otros idiomas](https://osu.ppy.sh/community/forums/18)
     - [Indonesian](https://osu.ppy.sh/community/forums/73)
     - [Malaysian](https://osu.ppy.sh/community/forums/94)
-    - [Deutsch](https://osu.ppy.sh/community/forums/37): _Aleman_
+    - [Deutsch](https://osu.ppy.sh/community/forums/37): _Alemán_
     - [Español](https://osu.ppy.sh/community/forums/33): _Español_
-    - [Français](https://osu.ppy.sh/community/forums/34): _Frances_
+    - [Français](https://osu.ppy.sh/community/forums/34): _Francés_
     - [Italiano](https://osu.ppy.sh/community/forums/36): _Italiano_
-    - [Magyar](https://osu.ppy.sh/community/forums/95): _Hungaro_
-    - [Nederlands](https://osu.ppy.sh/community/forums/69): _Holandes_
+    - [Magyar](https://osu.ppy.sh/community/forums/95): _Héngaro_
+    - [Nederlands](https://osu.ppy.sh/community/forums/69): _Holandés_
     - [Polski](https://osu.ppy.sh/community/forums/26): _Polaco_
     - [Português](https://osu.ppy.sh/community/forums/74): _Portugues_
     - [Skandinavien](https://osu.ppy.sh/community/forums/77): _Danés/Noruego/Sueco_
@@ -72,4 +72,4 @@ Los foros de osu! son una de las principales características de la web osu! Aqu
     - [Tagalog](https://osu.ppy.sh/community/forums/76): _Filipino_
     - [Türkçe](https://osu.ppy.sh/community/forums/93): _Turco_
     - [ภาษาไทย](https://osu.ppy.sh/community/forums/54): _Tailandés_
-    - [日本語](https://osu.ppy.sh/community/forums/32): _Japones_
+    - [日本語](https://osu.ppy.sh/community/forums/32): _Japonés_
