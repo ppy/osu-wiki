@@ -1,10 +1,10 @@
-# ¿De verdad quieres preguntarle a Peppy?
+# ¿De verdad quieres preguntarle a peppy?
 
 Hola. Yo, ([peppy](/users/2)), entiendo su impulso de querer contactarme personalmente, pero les pido que primero comprenda que este **no** es el lugar por donde querrias pedir ayuda/apoyo. ¡Mantengo el soporte de osu! separado de los mensajes personales, y también encuentro que responder a los mensajes privados del foro es bastante difícil de seguir. Por lo tanto, les pido que hagan una de las siguientes opciones:
 
 ## Soporte técnico
 
-La mayoría de los problemas técnicos se pueden resolver buscando o publicando en el [foro de soporte técnico](/community/forums/5). Hay muchos otros ahi para ayudarte con tus problemas, por lo que encontrará una solución más rápido que ponerse en contacto conmigo.
+La mayoría de los problemas técnicos se pueden resolver buscando o publicando en el [foro de soporte técnico](/community/forums/5). Hay muchos otros ahí para ayudarte con tus problemas, por lo que encontrará una solución más rápido que ponerse en contacto conmigo.
 
 ## Soporte general de osu!
 
@@ -12,4 +12,4 @@ Para problemas de cuentas, problemas con los pagos, informacion sobre baneos, co
 
 ## Ponerse en contacto con peppy
 
-Si desea contactarse con Peppy personalmente para motivos no relacionados con osu!, puede enviarlo por correo electrónico a [pe@ppy.sh](mailto:pe@ppy.sh). Tenga en cuenta que cualquier solicitud relacionada con soporte y cuentas a este correo electrónico, se marcará como correo no deseado.
+Si desea contactarse con peppy personalmente para motivos no relacionados con osu!, puede enviarlo por correo electrónico a [pe@ppy.sh](mailto:pe@ppy.sh). Tenga en cuenta que cualquier solicitud relacionada con soporte y cuentas a este correo electrónico, se marcará como correo no deseado.
