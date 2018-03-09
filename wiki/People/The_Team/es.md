@@ -53,10 +53,10 @@ Grupos de Usuarios
 | Nombre | Descripción |
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Vigilando los foros y el chat en el juego |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Usuarios van más allá de la llamada para asegurarse de que tus mapas sean calificado |
+| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Encargados de la calificación de beatmaps |
 | [Developers](https://osu.ppy.sh/g/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |
-| [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que han trasendido |
-| [Support Team Redux](/wiki/People/Support_Team) | Ayuda/Solicitud de funciones de asistencia |
+| [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
+| [Support Team Redux](/wiki/People/Support_Team) | Asistencia en foros de ayuda |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Ayudandote a disfrutar *osu!*, empezando por asegurar la calidad de los beatmaps. |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
