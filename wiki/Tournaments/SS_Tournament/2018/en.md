@@ -85,7 +85,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [Mind Vortex - Arc](https://osu.ppy.sh/beatmaps/239037) [NSane]
   - [sakuzyo - VALLISTA](https://osu.ppy.sh/beatmaps/127313) [Another]
   - [B-ko(Cv:Touyama Nao) - Nisemono Chuuihou](https://osu.ppy.sh/beatmaps/1253351) [Insane]
-  - [Mediks - Doomsday](https://osu.ppy.sh/b/1290316) [Insane]
+  - [Mediks - Doomsday](https://osu.ppy.sh/beatmaps/1290316) [Insane]
   - [Dark PHOENiX - Taketori Hishou](https://osu.ppy.sh/beatmaps/86324) [Extra]
 - Double Time
   - [Two Steps From Hell - Star Sky](https://osu.ppy.sh/beatmaps/1270965) [Unstoppable]
@@ -128,7 +128,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 - HardRock
   - [Nitta Emi - White Eternity](https://osu.ppy.sh/beatmaps/645342) [AstralAir]
   - [An - artcore JINJA](https://osu.ppy.sh/beatmaps/297411) [Lunatic]	
-  - [UNDEAD CORPORATION - In the Night Where the Kasha Screamed](https://osu.ppy.sh/b/1094737) [Insane]
+  - [UNDEAD CORPORATION - In the Night Where the Kasha Screamed](https://osu.ppy.sh/beatmaps/1094737) [Insane]
 - FreeMod
   - [Amatsuki - Higurashi Moratorium](https://osu.ppy.sh/beatmaps/254370) [Frobe's Extra]		
   - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmaps/553131) [Lunatic]  	

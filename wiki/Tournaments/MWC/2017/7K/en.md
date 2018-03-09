@@ -92,87 +92,87 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 **[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
 
 - FreeMod
-  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](http://osu.ppy.sh/b/1188811&m=3)
-  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](http://osu.ppy.sh/b/1104259&m=3)
-  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/993185&m=3)
-  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](http://osu.ppy.sh/b/1060566&m=3)
-  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](http://osu.ppy.sh/b/1146187&m=3)
-  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](http://osu.ppy.sh/b/1154859&m=3)
-  - [EZFG - cloud (Ciel) \[High (nerfed)\]](http://osu.ppy.sh/b/1178427&m=3)
-  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](http://osu.ppy.sh/b/1185659&m=3)
-  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](http://osu.ppy.sh/b/766085&m=3)
-  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](http://osu.ppy.sh/b/908448&m=3)
-  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](http://osu.ppy.sh/b/1185947&m=3)
-  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](http://osu.ppy.sh/b/982489&m=3)
-  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](http://osu.ppy.sh/b/1178316&m=3)
-  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](http://osu.ppy.sh/b/1099040&m=3)
-  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](http://osu.ppy.sh/b/837107&m=3)
+  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](http://osu.ppy.sh/beatmaps/1188811&m=3)
+  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](http://osu.ppy.sh/beatmaps/1104259&m=3)
+  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/beatmaps/993185&m=3)
+  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](http://osu.ppy.sh/beatmaps/1060566&m=3)
+  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](http://osu.ppy.sh/beatmaps/1146187&m=3)
+  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](http://osu.ppy.sh/beatmaps/1154859&m=3)
+  - [EZFG - cloud (Ciel) \[High (nerfed)\]](http://osu.ppy.sh/beatmaps/1178427&m=3)
+  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](http://osu.ppy.sh/beatmaps/1185659&m=3)
+  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](http://osu.ppy.sh/beatmaps/766085&m=3)
+  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](http://osu.ppy.sh/beatmaps/908448&m=3)
+  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](http://osu.ppy.sh/beatmaps/1185947&m=3)
+  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](http://osu.ppy.sh/beatmaps/982489&m=3)
+  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](http://osu.ppy.sh/beatmaps/1178316&m=3)
+  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](http://osu.ppy.sh/beatmaps/1099040&m=3)
+  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](http://osu.ppy.sh/beatmaps/837107&m=3)
 - Tiebreaker
-  - [Camellia - Fastest Crash (Gekido-) \[Fastest\]](http://osu.ppy.sh/b/767979&m=3)
+  - [Camellia - Fastest Crash (Gekido-) \[Fastest\]](http://osu.ppy.sh/beatmaps/767979&m=3)
 
 ### Semifinals
 
 **[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
 
 - FreeMod
-  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](http://osu.ppy.sh/b/1042544&m=3)
-  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](http://osu.ppy.sh/b/519264&m=3)
-  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](http://osu.ppy.sh/b/1082251&m=3)
-  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](http://osu.ppy.sh/b/909107&m=3)
-  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](http://osu.ppy.sh/b/1083582&m=3)
-  - [goreshit - o'er the flood (Blocko) \[torrent\]](http://osu.ppy.sh/b/974969&m=3)
-  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](http://osu.ppy.sh/b/368423&m=3)
-  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](http://osu.ppy.sh/b/1072967&m=3)
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](http://osu.ppy.sh/b/1165581&m=3)
-  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/b/580759&m=3)
-  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](http://osu.ppy.sh/b/1015428&m=3)
-  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](http://osu.ppy.sh/b/725614&m=3)
-  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](http://osu.ppy.sh/b/1157119&m=3)
-  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](http://osu.ppy.sh/b/895160&m=3)
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](http://osu.ppy.sh/beatmaps/1042544&m=3)
+  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](http://osu.ppy.sh/beatmaps/519264&m=3)
+  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](http://osu.ppy.sh/beatmaps/1082251&m=3)
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](http://osu.ppy.sh/beatmaps/909107&m=3)
+  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](http://osu.ppy.sh/beatmaps/1083582&m=3)
+  - [goreshit - o'er the flood (Blocko) \[torrent\]](http://osu.ppy.sh/beatmaps/974969&m=3)
+  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](http://osu.ppy.sh/beatmaps/368423&m=3)
+  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](http://osu.ppy.sh/beatmaps/1072967&m=3)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](http://osu.ppy.sh/beatmaps/1165581&m=3)
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/beatmaps/580759&m=3)
+  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](http://osu.ppy.sh/beatmaps/1015428&m=3)
+  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](http://osu.ppy.sh/beatmaps/725614&m=3)
+  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](http://osu.ppy.sh/beatmaps/1157119&m=3)
+  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](http://osu.ppy.sh/beatmaps/895160&m=3)
 - Tiebreaker
-  - [Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](http://osu.ppy.sh/b/991010&m=3)
+  - [Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](http://osu.ppy.sh/beatmaps/991010&m=3)
 
 ### Quarterfinals
 
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
 
 - FreeMod
-  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](http://osu.ppy.sh/b/1150224&m=3)
-  - [SHK - Milky Way (ExPew) \[SC\]](http://osu.ppy.sh/b/305675&m=3)
-  - [xi - Hesperides (ExKagii-) \[Another\]](http://osu.ppy.sh/b/1035076&m=3)
-  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](http://osu.ppy.sh/b/525686&m=3)
-  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](http://osu.ppy.sh/b/405715&m=3)
-  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](http://osu.ppy.sh/b/412973&m=3)
-  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](http://osu.ppy.sh/b/543414&m=3)
-  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](http://osu.ppy.sh/b/509575&m=3)
-  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](http://osu.ppy.sh/b/516758&m=3)
-  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](http://osu.ppy.sh/b/1025646&m=3)
-  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](http://osu.ppy.sh/b/440089&m=3)
-  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](http://osu.ppy.sh/b/941427&m=3)
-  - [M2U - Promise (Jinjin) \[Yaksok\]](http://osu.ppy.sh/b/869223&m=3)
+  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](http://osu.ppy.sh/beatmaps/1150224&m=3)
+  - [SHK - Milky Way (ExPew) \[SC\]](http://osu.ppy.sh/beatmaps/305675&m=3)
+  - [xi - Hesperides (ExKagii-) \[Another\]](http://osu.ppy.sh/beatmaps/1035076&m=3)
+  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](http://osu.ppy.sh/beatmaps/525686&m=3)
+  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](http://osu.ppy.sh/beatmaps/405715&m=3)
+  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](http://osu.ppy.sh/beatmaps/412973&m=3)
+  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](http://osu.ppy.sh/beatmaps/543414&m=3)
+  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](http://osu.ppy.sh/beatmaps/509575&m=3)
+  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](http://osu.ppy.sh/beatmaps/516758&m=3)
+  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](http://osu.ppy.sh/beatmaps/1025646&m=3)
+  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](http://osu.ppy.sh/beatmaps/440089&m=3)
+  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](http://osu.ppy.sh/beatmaps/941427&m=3)
+  - [M2U - Promise (Jinjin) \[Yaksok\]](http://osu.ppy.sh/beatmaps/869223&m=3)
 - Tiebreaker
-  - [niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](http://osu.ppy.sh/b/1017922&m=3)
+  - [niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](http://osu.ppy.sh/beatmaps/1017922&m=3)
 
 ### Group Stage
 
 **[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
 
 - FreeMod
-  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](http://osu.ppy.sh/b/1030861&m=3)
-  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-) \[Pope's Anfractuous Derivative\]](http://osu.ppy.sh/b/1158709&m=3)
-  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](http://osu.ppy.sh/b/687322&m=3)
-  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](http://osu.ppy.sh/b/426032&m=3)
-  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](http://osu.ppy.sh/b/362574&m=3)
-  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](http://osu.ppy.sh/b/787134&m=3)
-  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](http://osu.ppy.sh/b/1074573&m=3)
-  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](http://osu.ppy.sh/b/255968&m=3)
-  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](http://osu.ppy.sh/b/359560&m=3)
-  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](http://osu.ppy.sh/b/712126&m=3)
-  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](http://osu.ppy.sh/b/841216&m=3)
-  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](http://osu.ppy.sh/b/320510&m=3)
-  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](http://osu.ppy.sh/b/468795&m=3)
+  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](http://osu.ppy.sh/beatmaps/1030861&m=3)
+  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-) \[Pope's Anfractuous Derivative\]](http://osu.ppy.sh/beatmaps/1158709&m=3)
+  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](http://osu.ppy.sh/beatmaps/687322&m=3)
+  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](http://osu.ppy.sh/beatmaps/426032&m=3)
+  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](http://osu.ppy.sh/beatmaps/362574&m=3)
+  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](http://osu.ppy.sh/beatmaps/787134&m=3)
+  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](http://osu.ppy.sh/beatmaps/1074573&m=3)
+  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](http://osu.ppy.sh/beatmaps/255968&m=3)
+  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](http://osu.ppy.sh/beatmaps/359560&m=3)
+  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](http://osu.ppy.sh/beatmaps/712126&m=3)
+  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](http://osu.ppy.sh/beatmaps/841216&m=3)
+  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](http://osu.ppy.sh/beatmaps/320510&m=3)
+  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](http://osu.ppy.sh/beatmaps/468795&m=3)
 - Tiebreaker
-  - [Nhato - Magic (Tear) \[Enchanted\]](http://osu.ppy.sh/b/427993&m=3)
+  - [Nhato - Magic (Tear) \[Enchanted\]](http://osu.ppy.sh/beatmaps/427993&m=3)
 
 ------------------------------------------------------------------------
 

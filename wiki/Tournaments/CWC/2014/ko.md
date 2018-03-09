@@ -32,11 +32,11 @@ osu! Catch the Beat World Cup 2014
 
 | Job     | Person(s)                                                                                                                                                                                                                                                                      |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                   |
-| 비트맵 선별  | ![][flag_KR] [CLSW](https://osu.ppy.sh/u/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/u/326099)                                                                                |
-| 방송      | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                    |
-| 해설      | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/u/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/u/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/u/2107523) |
-| 통계      | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
+| 토너먼트 관리 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703)                                                                                                                                                   |
+| 비트맵 선별  | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099)                                                                                |
+| 방송      | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                    |
+| 해설      | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
+| 통계      | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                 |
 
 
 ------------------------------------------------------------------------
@@ -74,58 +74,58 @@ osu! Catch the Beat World Cup 2014
 | Flag                           | Country | Group A Members                                                                                                                                                                                                      |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][flag_PH] | 필리핀     | --- disbanded ---                                                                                                                                                                                                    |
-| ![][flag_GB] | 영국      | **[destructor966](https://osu.ppy.sh/u/2667584)**, [Nanomight](https://osu.ppy.sh/u/160439), [bubbz](https://osu.ppy.sh/u/86414), [Phlo10](https://osu.ppy.sh/u/2643155), [DarkKanaki](https://osu.ppy.sh/u/2614160)                               |
-| ![][flag_TH] | 타이      | **[boomngong](https://osu.ppy.sh/u/1090858)**, [Nansugumi](https://osu.ppy.sh/u/795915), [0814587134](https://osu.ppy.sh/u/1054016)                                                                                                    |
-| ![][flag_US] | 미국      | **[Zak](https://osu.ppy.sh/u/1375955)**, [-itsy_v2-](https://osu.ppy.sh/u/2815946), [-Kurisu-](https://osu.ppy.sh/u/500696), [Minky](https://osu.ppy.sh/u/1978891), [TenguKing9](https://osu.ppy.sh/u/1637716), [-Ryuuji-](https://osu.ppy.sh/u/2107523) |
+| ![][flag_GB] | 영국      | **[destructor966](https://osu.ppy.sh/users/2667584)**, [Nanomight](https://osu.ppy.sh/users/160439), [bubbz](https://osu.ppy.sh/users/86414), [Phlo10](https://osu.ppy.sh/users/2643155), [DarkKanaki](https://osu.ppy.sh/users/2614160)                               |
+| ![][flag_TH] | 타이      | **[boomngong](https://osu.ppy.sh/users/1090858)**, [Nansugumi](https://osu.ppy.sh/users/795915), [0814587134](https://osu.ppy.sh/users/1054016)                                                                                                    |
+| ![][flag_US] | 미국      | **[Zak](https://osu.ppy.sh/users/1375955)**, [-itsy_v2-](https://osu.ppy.sh/users/2815946), [-Kurisu-](https://osu.ppy.sh/users/500696), [Minky](https://osu.ppy.sh/users/1978891), [TenguKing9](https://osu.ppy.sh/users/1637716), [-Ryuuji-](https://osu.ppy.sh/users/2107523) |
 
 | Flag                           | Country | Group B Members                                                                                                                                                                 |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_HK] | 홍콩      | **[alienflybot](https://osu.ppy.sh/u/636114)**, [XXXZ](https://osu.ppy.sh/u/1226238), [[_NaGI]](https://osu.ppy.sh/u/788406), [HineX](https://osu.ppy.sh/u/13854), [longkitang](https://osu.ppy.sh/u/1744806) |
-| ![][flag_PL] | 폴란드     | **[WujekGrzyb](https://osu.ppy.sh/u/258289)**, [wampir](https://osu.ppy.sh/u/261497), [Kosmit](https://osu.ppy.sh/u/1749173), [Scorpionek](https://osu.ppy.sh/u/149730)                                 |
+| ![][flag_HK] | 홍콩      | **[alienflybot](https://osu.ppy.sh/users/636114)**, [XXXZ](https://osu.ppy.sh/users/1226238), [[_NaGI]](https://osu.ppy.sh/users/788406), [HineX](https://osu.ppy.sh/users/13854), [longkitang](https://osu.ppy.sh/users/1744806) |
+| ![][flag_PL] | 폴란드     | **[WujekGrzyb](https://osu.ppy.sh/users/258289)**, [wampir](https://osu.ppy.sh/users/261497), [Kosmit](https://osu.ppy.sh/users/1749173), [Scorpionek](https://osu.ppy.sh/users/149730)                                 |
 | ![][flag_CL] | 칠레      | --- disbanded ---                                                                                                                                                               |
-| ![][flag_EE] | 에스토니아   | **[fanatik](https://osu.ppy.sh/u/913992)**, [warstape](https://osu.ppy.sh/u/1133783), [KostjaSun](https://osu.ppy.sh/u/2450912)                                                                   |
+| ![][flag_EE] | 에스토니아   | **[fanatik](https://osu.ppy.sh/users/913992)**, [warstape](https://osu.ppy.sh/users/1133783), [KostjaSun](https://osu.ppy.sh/users/2450912)                                                                   |
 
 | Flag                           | Country | Group C Members                                                                                                                                                                          |
 |--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][flag_TW] | 타이완     | --- disqualified ---                                                                                                                                                                     |
-| ![][flag_NL] | 네덜란드    | **[Givralii](https://osu.ppy.sh/u/2466879)**, [Nebux](https://osu.ppy.sh/u/2342051), [Greaper](https://osu.ppy.sh/u/2369776), [CakeAndBanana](https://osu.ppy.sh/u/1981424), [wesley221](https://osu.ppy.sh/u/2407265) |
-| ![][flag_SG] | 싱가포르    | **[Accel](https://osu.ppy.sh/u/1169796)**, [Kagayane](https://osu.ppy.sh/u/1777691), [He Ang Erika](https://osu.ppy.sh/u/2451381), [Otaku_MQ](https://osu.ppy.sh/u/2650135), [Ridicule](https://osu.ppy.sh/u/3473425)  |
-| ![][flag_NO] | 노르웨이    | **[Kiwikun](https://osu.ppy.sh/u/1794766)**, [Azeidith](https://osu.ppy.sh/u/2819676), [lanki33](https://osu.ppy.sh/u/2535200), [Zerzxes](https://osu.ppy.sh/u/2094253), [Hakkun](https://osu.ppy.sh/u/2179438)        |
+| ![][flag_NL] | 네덜란드    | **[Givralii](https://osu.ppy.sh/users/2466879)**, [Nebux](https://osu.ppy.sh/users/2342051), [Greaper](https://osu.ppy.sh/users/2369776), [CakeAndBanana](https://osu.ppy.sh/users/1981424), [wesley221](https://osu.ppy.sh/users/2407265) |
+| ![][flag_SG] | 싱가포르    | **[Accel](https://osu.ppy.sh/users/1169796)**, [Kagayane](https://osu.ppy.sh/users/1777691), [He Ang Erika](https://osu.ppy.sh/users/2451381), [Otaku_MQ](https://osu.ppy.sh/users/2650135), [Ridicule](https://osu.ppy.sh/users/3473425)  |
+| ![][flag_NO] | 노르웨이    | **[Kiwikun](https://osu.ppy.sh/users/1794766)**, [Azeidith](https://osu.ppy.sh/users/2819676), [lanki33](https://osu.ppy.sh/users/2535200), [Zerzxes](https://osu.ppy.sh/users/2094253), [Hakkun](https://osu.ppy.sh/users/2179438)        |
 
 | Flag                           | Country | Group D Members                                                                                                                                                                                               |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_AT] | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480), [Raaban](https://osu.ppy.sh/u/1569025), [xXMarcelXx](https://osu.ppy.sh/u/2355698), [Zuyanta](https://osu.ppy.sh/u/2772759)                                                        |
+| ![][flag_AT] | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480), [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759)                                                        |
 | ![][flag_FR] | 프랑스     | --- disbanded ---                                                                                                                                                                                             |
-| ![][flag_MY] | 말레이시아   | **[-Rin](https://osu.ppy.sh/u/1202101)**, [Shadow Fear](https://osu.ppy.sh/u/635485), [Rick--](https://osu.ppy.sh/u/950241), [QHideaki13](https://osu.ppy.sh/u/733998), [kho keng chung](https://osu.ppy.sh/u/369045)                       |
-| ![][flag_JP] | 일본      | **[uppia](https://osu.ppy.sh/u/1513301)**, [rullu](https://osu.ppy.sh/u/595140), [sekirei](https://osu.ppy.sh/u/1643335), [giru HD](https://osu.ppy.sh/u/707456), [Magiyu](https://osu.ppy.sh/u/1667470), [Lafollia](https://osu.ppy.sh/u/827985) |
+| ![][flag_MY] | 말레이시아   | **[-Rin](https://osu.ppy.sh/users/1202101)**, [Shadow Fear](https://osu.ppy.sh/users/635485), [Rick--](https://osu.ppy.sh/users/950241), [QHideaki13](https://osu.ppy.sh/users/733998), [kho keng chung](https://osu.ppy.sh/users/369045)                       |
+| ![][flag_JP] | 일본      | **[uppia](https://osu.ppy.sh/users/1513301)**, [rullu](https://osu.ppy.sh/users/595140), [sekirei](https://osu.ppy.sh/users/1643335), [giru HD](https://osu.ppy.sh/users/707456), [Magiyu](https://osu.ppy.sh/users/1667470), [Lafollia](https://osu.ppy.sh/users/827985) |
 
 | Flag                           | Country | Group E Members                                                                                                                                                                          |
 |--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_MX] | 멕시코     | **[Lostty](https://osu.ppy.sh/u/2118519)**, [ChibiOzed](https://osu.ppy.sh/u/1690328), [blacklotus](https://osu.ppy.sh/u/2115337)                                                                          |
-| ![][flag_DK] | 덴마크     | **[-Crab-](https://osu.ppy.sh/u/2563435)**, [TheCo0k1e](https://osu.ppy.sh/u/3386472), [jacoblemming12](https://osu.ppy.sh/u/3593786), [FlowHomie](https://osu.ppy.sh/u/2831095)                                 |
-| ![][flag_NZ] | 뉴질랜드    | **[IQ166](https://osu.ppy.sh/u/1452911)**, [Nibble147](https://osu.ppy.sh/u/3866541), [JakeCC](https://osu.ppy.sh/u/88973)                                                                                 |
-| ![][flag_SE] | 스웨덴     | **[Yukiteru Amano](https://osu.ppy.sh/u/1894511)**, [Walterx8](https://osu.ppy.sh/u/1993041), [Negri_sk](https://osu.ppy.sh/u/2231396), [-Airi-](https://osu.ppy.sh/u/2546340), [Suzuki](https://osu.ppy.sh/u/2960209) |
+| ![][flag_MX] | 멕시코     | **[Lostty](https://osu.ppy.sh/users/2118519)**, [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337)                                                                          |
+| ![][flag_DK] | 덴마크     | **[-Crab-](https://osu.ppy.sh/users/2563435)**, [TheCo0k1e](https://osu.ppy.sh/users/3386472), [jacoblemming12](https://osu.ppy.sh/users/3593786), [FlowHomie](https://osu.ppy.sh/users/2831095)                                 |
+| ![][flag_NZ] | 뉴질랜드    | **[IQ166](https://osu.ppy.sh/users/1452911)**, [Nibble147](https://osu.ppy.sh/users/3866541), [JakeCC](https://osu.ppy.sh/users/88973)                                                                                 |
+| ![][flag_SE] | 스웨덴     | **[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [Walterx8](https://osu.ppy.sh/users/1993041), [Negri_sk](https://osu.ppy.sh/users/2231396), [-Airi-](https://osu.ppy.sh/users/2546340), [Suzuki](https://osu.ppy.sh/users/2960209) |
 
 | Flag                           | Country | Group F Members                                                                                                                                                                       |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_ES] | 스페인     | **[SK Eternal](https://osu.ppy.sh/u/588046)**, [Raimon](https://osu.ppy.sh/u/609627), [RAMONLINKK](https://osu.ppy.sh/u/843155), [Nokeru-Chan](https://osu.ppy.sh/u/602315), [sarkras](https://osu.ppy.sh/u/709625) |
+| ![][flag_ES] | 스페인     | **[SK Eternal](https://osu.ppy.sh/users/588046)**, [Raimon](https://osu.ppy.sh/users/609627), [RAMONLINKK](https://osu.ppy.sh/users/843155), [Nokeru-Chan](https://osu.ppy.sh/users/602315), [sarkras](https://osu.ppy.sh/users/709625) |
 | ![][flag_PE] | 페루      | --- disbanded ---                                                                                                                                                                     |
-| ![][flag_FI] | 핀란드     | **[YERTI](https://osu.ppy.sh/u/1490757)**, [Static Noise Bird](https://osu.ppy.sh/u/826132), [MrSake](https://osu.ppy.sh/u/264729), [Mianki](https://osu.ppy.sh/u/39658)                                      |
-| ![][flag_HR] | 크로아티아   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/u/404314)**, [Animewolf](https://osu.ppy.sh/u/949513), [TinTin](https://osu.ppy.sh/u/2227976)                                                                   |
+| ![][flag_FI] | 핀란드     | **[YERTI](https://osu.ppy.sh/users/1490757)**, [Static Noise Bird](https://osu.ppy.sh/users/826132), [MrSake](https://osu.ppy.sh/users/264729), [Mianki](https://osu.ppy.sh/users/39658)                                      |
+| ![][flag_HR] | 크로아티아   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/users/404314)**, [Animewolf](https://osu.ppy.sh/users/949513), [TinTin](https://osu.ppy.sh/users/2227976)                                                                   |
 
 | Flag                           | Country | Group G Members                                                                                                                                                                  |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_KR] | 한국      | **[Spectator](https://osu.ppy.sh/u/702598)**, [dae6254](https://osu.ppy.sh/u/563262), [Frobe](https://osu.ppy.sh/u/670365), [Kuzino](https://osu.ppy.sh/u/158552), [Last Bubble](https://osu.ppy.sh/u/1302259) |
-| ![][flag_DE] | 독일      | **[DeathXHunter](https://osu.ppy.sh/u/405326)**, [NoteKuroi](https://osu.ppy.sh/u/186642), [Nyan-Zapo](https://osu.ppy.sh/u/480676)                                                                |
-| ![][flag_CA] | 캐나다     | **[Kitokofox](https://osu.ppy.sh/u/1815420)**, [Sumaki](https://osu.ppy.sh/u/207916), [Kitsunemimi](https://osu.ppy.sh/u/100037)                                                                   |
-| ![][flag_BO] | 볼리비아    | **[donjuan_217](https://osu.ppy.sh/u/2169426)**, [brian_rqc](https://osu.ppy.sh/u/3710738), [gakupoXD](https://osu.ppy.sh/u/871103), [Zen Youkai](https://osu.ppy.sh/u/3364257)                          |
+| ![][flag_KR] | 한국      | **[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259) |
+| ![][flag_DE] | 독일      | **[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)                                                                |
+| ![][flag_CA] | 캐나다     | **[Kitokofox](https://osu.ppy.sh/users/1815420)**, [Sumaki](https://osu.ppy.sh/users/207916), [Kitsunemimi](https://osu.ppy.sh/users/100037)                                                                   |
+| ![][flag_BO] | 볼리비아    | **[donjuan_217](https://osu.ppy.sh/users/2169426)**, [brian_rqc](https://osu.ppy.sh/users/3710738), [gakupoXD](https://osu.ppy.sh/users/871103), [Zen Youkai](https://osu.ppy.sh/users/3364257)                          |
 
 | Flag                           | Country | Group H Members                                                                                                                                                                               |
 |--------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_AR] | 아르헨티나   | **[NightWar](https://osu.ppy.sh/u/1209167)**, [Litooo](https://osu.ppy.sh/u/1170107), [Gundisalv](https://osu.ppy.sh/u/1160340), [musicguy007](https://osu.ppy.sh/u/2159777)                                          |
-| ![][flag_CN] | 중국      | **[Dusk](https://osu.ppy.sh/u/533210)**, [hy1hy1hy](https://osu.ppy.sh/u/243877), [MisakaMikoto](https://osu.ppy.sh/u/434917), [Ibuki Suika](https://osu.ppy.sh/u/290249)                                             |
-| ![][flag_UY] | 우루과이    | **[Themaster155](https://osu.ppy.sh/u/1850067)**, [quique95](https://osu.ppy.sh/u/472924), [Truxxxton](https://osu.ppy.sh/u/1379428), [S3B4](https://osu.ppy.sh/u/3437784)                                            |
-| ![][flag_ID] | 인도네시아   | **[Shurelia](https://osu.ppy.sh/u/3807986)**, [Deceitful](https://osu.ppy.sh/u/1396447), [\_EliteYud\_](https://osu.ppy.sh/u/2365634), [Yoshida Haru-](https://osu.ppy.sh/u/3073351), [- Rii -](https://osu.ppy.sh/u/3734591) |
+| ![][flag_AR] | 아르헨티나   | **[NightWar](https://osu.ppy.sh/users/1209167)**, [Litooo](https://osu.ppy.sh/users/1170107), [Gundisalv](https://osu.ppy.sh/users/1160340), [musicguy007](https://osu.ppy.sh/users/2159777)                                          |
+| ![][flag_CN] | 중국      | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249)                                             |
+| ![][flag_UY] | 우루과이    | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784)                                            |
+| ![][flag_ID] | 인도네시아   | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
 
 ------------------------------------------------------------------------
 
@@ -135,34 +135,34 @@ osu! Catch the Beat World Cup 2014
 ### 준결승
 
 - NoMod
-  - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/b/338326&m=2)
-  - [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/b/237848&m=2)
-  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/b/182001&m=2)
-  - [void - Club Ibuki in Break All (Drafura) \[Etoile\]](https://osu.ppy.sh/b/253605&m=2)
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/b/214248&m=2)
-  - [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](https://osu.ppy.sh/b/356818&m=2)
+  - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmaps/338326&m=2)
+  - [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmaps/237848&m=2)
+  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmaps/182001&m=2)
+  - [void - Club Ibuki in Break All (Drafura) \[Etoile\]](https://osu.ppy.sh/beatmaps/253605&m=2)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmaps/214248&m=2)
+  - [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](https://osu.ppy.sh/beatmaps/356818&m=2)
 - Hidden
-  - [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/b/121836&m=2)
-  - [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/b/84485&m=2)
-  - [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/b/220231&m=2)
-  - [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/b/223397&m=2)
+  - [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/beatmaps/121836&m=2)
+  - [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/beatmaps/84485&m=2)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/beatmaps/220231&m=2)
+  - [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmaps/223397&m=2)
 - HardRock
-  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/b/86324&m=2)
-  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/b/238938&m=2)
-  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/b/47152&m=2)
-  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/b/68431&m=2)
+  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmaps/86324&m=2)
+  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmaps/238938&m=2)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmaps/47152&m=2)
+  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmaps/68431&m=2)
 - DoubleTime
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/b/91462&m=2)
-  - [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/b/90032&m=2)
-  - [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/b/121804&m=2)
-  - [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](https://osu.ppy.sh/b/255705&m=2)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmaps/91462&m=2)
+  - [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/beatmaps/90032&m=2)
+  - [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/beatmaps/121804&m=2)
+  - [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](https://osu.ppy.sh/beatmaps/255705&m=2)
 - FreeMod
-  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/b/65233&m=2)
-  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/b/129891&m=2)
-  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/b/41586&m=2)
-  - [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/b/38294&m=2)
+  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/beatmaps/65233&m=2)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmaps/129891&m=2)
+  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/beatmaps/41586&m=2)
+  - [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmaps/38294&m=2)
 - Tiebreaker
-  - [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/b/297463&m=2)
+  - [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/297463&m=2)
 
 ### 8강
 
@@ -171,102 +171,102 @@ osu! Catch the Beat World Cup 2014
 [**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)
 
 - NoMod
-  - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/b/298908&m=2)
-  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/b/124664&m=2)
-  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/b/207721&m=2)
-  - [wowaka - World's End Dancehall (CLSW) \[Rain\]](https://osu.ppy.sh/b/282770&m=2)
-  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/b/168031&m=2)
-  - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025&m=2)
+  - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmaps/298908&m=2)
+  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmaps/124664&m=2)
+  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/207721&m=2)
+  - [wowaka - World's End Dancehall (CLSW) \[Rain\]](https://osu.ppy.sh/beatmaps/282770&m=2)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmaps/168031&m=2)
+  - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmaps/313025&m=2)
 - Hidden
-  - [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](https://osu.ppy.sh/b/283897&m=2)
-  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/b/244781&m=2)
-  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/143036&m=2)
-  - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/b/155227&m=2)
+  - [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](https://osu.ppy.sh/beatmaps/283897&m=2)
+  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmaps/244781&m=2)
+  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/143036&m=2)
+  - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/beatmaps/155227&m=2)
 - HardRock
-  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/b/82734&m=2)
-  - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/b/59693&m=2)
-  - [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/b/195165&m=2)
-  - [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/b/94005&m=2)
+  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmaps/82734&m=2)
+  - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/beatmaps/59693&m=2)
+  - [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/beatmaps/195165&m=2)
+  - [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmaps/94005&m=2)
 - DoubleTime
-  - [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/b/60941&m=2)
-  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/b/96523&m=2)
-  - [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/b/54145&m=2)
-  - [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/b/48926&m=2)
+  - [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/beatmaps/60941&m=2)
+  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmaps/96523&m=2)
+  - [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmaps/54145&m=2)
+  - [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/beatmaps/48926&m=2)
 - FreeMod
-  - [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/b/116006&m=2)
-  - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/b/54373&m=2)
-  - [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](https://osu.ppy.sh/b/125660&m=2)
-  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/b/69405&m=2)
+  - [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/116006&m=2)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmaps/54373&m=2)
+  - [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](https://osu.ppy.sh/beatmaps/125660&m=2)
+  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmaps/69405&m=2)
 - Tiebreaker
-  - [nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/b/369563&m=2)
+  - [nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/beatmaps/369563&m=2)
 
 ### 16강
 
 타이브레이커[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)
 
 |- NoMod
-  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/b/242575&m=2)
-  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/b/247643&m=2)
-  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/b/254814&m=2)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/b/93842&m=2)
-  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/b/352863&m=2)
-  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/b/150358&m=2)
+  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmaps/242575&m=2)
+  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/beatmaps/247643&m=2)
+  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmaps/254814&m=2)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/93842&m=2)
+  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/beatmaps/352863&m=2)
+  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/beatmaps/150358&m=2)
 - Hidden
-  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/b/170608&m=2)
-  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/b/364516&m=2)
-  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/b/87764&m=2)
-  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/b/125128&m=2)
+  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/beatmaps/170608&m=2)
+  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/beatmaps/364516&m=2)
+  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/beatmaps/87764&m=2)
+  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/beatmaps/125128&m=2)
 - HardRock
-  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/b/75831&m=2)
-  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/b/120366&m=2)
-  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/b/127313&m=2)
-  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/b/59679&m=2)
+  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmaps/75831&m=2)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmaps/120366&m=2)
+  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/beatmaps/127313&m=2)
+  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/beatmaps/59679&m=2)
 - DoubleTime
-  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/b/308593&m=2)
-  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/b/90466&m=2)
-  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/b/61124&m=2)
-  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/b/56524&m=2)
+  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/beatmaps/308593&m=2)
+  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmaps/90466&m=2)
+  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmaps/61124&m=2)
+  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/beatmaps/56524&m=2)
 - FreeMod
-  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/b/136400&m=2)
-  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/b/59643&m=2)
-  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/b/207659&m=2)
-  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/b/82249&m=2)
+  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmaps/136400&m=2)
+  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmaps/59643&m=2)
+  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/beatmaps/207659&m=2)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmaps/82249&m=2)
 - Tiebreaker
-  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/b/105143&m=2)
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmaps/105143&m=2)
 
 ### 조별 예선
 
 타이브레이커**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 - NoMod
-  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/b/242575&m=2)
-  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/b/247643&m=2)
-  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/b/254814&m=2)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/b/93842&m=2)
-  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/b/352863&m=2)
-  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/b/150358&m=2)
+  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmaps/242575&m=2)
+  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/beatmaps/247643&m=2)
+  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmaps/254814&m=2)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/93842&m=2)
+  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/beatmaps/352863&m=2)
+  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/beatmaps/150358&m=2)
 - Hidden
-  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/b/170608&m=2)
-  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/b/364516&m=2)
-  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/b/87764&m=2)
-  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/b/125128&m=2)
+  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/beatmaps/170608&m=2)
+  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/beatmaps/364516&m=2)
+  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/beatmaps/87764&m=2)
+  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/beatmaps/125128&m=2)
 - HardRock
-  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/b/75831&m=2)
-  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/b/120366&m=2)
-  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/b/127313&m=2)
-  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/b/59679&m=2)
+  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/beatmaps/75831&m=2)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmaps/120366&m=2)
+  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/beatmaps/127313&m=2)
+  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/beatmaps/59679&m=2)
 - DoubleTime
-  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/b/308593&m=2)
-  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/b/90466&m=2)
-  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/b/61124&m=2)
-  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/b/56524&m=2)
+  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/beatmaps/308593&m=2)
+  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmaps/90466&m=2)
+  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmaps/61124&m=2)
+  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/beatmaps/56524&m=2)
 - FreeMod
-  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/b/136400&m=2)
-  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/b/59643&m=2)
-  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/b/207659&m=2)
-  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/b/82249&m=2)
+  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmaps/136400&m=2)
+  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmaps/59643&m=2)
+  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/beatmaps/207659&m=2)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmaps/82249&m=2)
 - Tiebreaker
-  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/b/105143&m=2)
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmaps/105143&m=2)
 
 ------------------------------------------------------------------------
 
@@ -277,65 +277,65 @@ osu! Catch the Beat World Cup 2014
 
 | Team A                                   | Scores        | Team B                                   | History                       |
 |:-----------------------------------------|:-------------:|-----------------------------------------:|-------------------------------|
-| ![][flag_AT] 오스트리아     | 0     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/mp/6655525) |
-| ![][flag_KR] **한국**    | **4** - 0     | 볼리비아 ![][flag_BO]      | [#1](https://osu.ppy.sh/mp/6655395) |
+| ![][flag_AT] 오스트리아     | 0     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/community/matches/6655525) |
+| ![][flag_KR] **한국**    | **4** - 0     | 볼리비아 ![][flag_BO]      | [#1](https://osu.ppy.sh/community/matches/6655395) |
 | ![][flag_CN] 중국        | 0     - **4** | **우루과이** ![][flag_UY]  | Win by default                |
-| ![][flag_TH] 타이        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/mp/6653614) |
-| ![][flag_GB] 영국        | 0     - **4** | **타이** ![][flag_TH]    | [#1](https://osu.ppy.sh/mp/6657824) |
-| ![][flag_TW] **타이완**   | **4** - 2     | 싱가포르 ![][flag_SG]      | [#1](https://osu.ppy.sh/mp/6657864) |
-| ![][flag_AR] 아르헨티나     | 0     - **4** | **인도네시아** ![][flag_ID] | [#1](https://osu.ppy.sh/mp/6657850) |
-| ![][flag_PL] **폴란드**   | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/mp/6657969) |
-| ![][flag_DK] 덴마크       | 0     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/mp/6658911) |
-| ![][flag_NL] **네덜란드**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6658927) |
+| ![][flag_TH] 타이        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/community/matches/6653614) |
+| ![][flag_GB] 영국        | 0     - **4** | **타이** ![][flag_TH]    | [#1](https://osu.ppy.sh/community/matches/6657824) |
+| ![][flag_TW] **타이완**   | **4** - 2     | 싱가포르 ![][flag_SG]      | [#1](https://osu.ppy.sh/community/matches/6657864) |
+| ![][flag_AR] 아르헨티나     | 0     - **4** | **인도네시아** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
+| ![][flag_PL] **폴란드**   | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/community/matches/6657969) |
+| ![][flag_DK] 덴마크       | 0     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/community/matches/6658911) |
+| ![][flag_NL] **네덜란드**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/community/matches/6658927) |
 | ![][flag_DE] **독일**    | **4** - 0     | 볼리비아 ![][flag_BO]      | Win by default                |
-| ![][flag_ES] **스페인**   | **4** - 0     | 핀란드 ![][flag_FI]       | [#1](https://osu.ppy.sh/mp/6659024) |
-| ![][flag_DE] **독일**    | **4** - 1     | 캐나다 ![][flag_CA]       | [#1](https://osu.ppy.sh/mp/6662031) |
-| ![][flag_ES] **스페인**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/mp/6661946) |
-| ![][flag_MX] 멕시코       | 1     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/mp/6662038) |
-| ![][flag_AR] 아르헨티나     | 0     - **4** | **우루과이** ![][flag_UY]  | [#1](https://osu.ppy.sh/mp/6662109) |
-| ![][flag_GB] 영국        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/mp/6667279) |
-| ![][flag_MX] **멕시코**   | **4** - 0     | 뉴질랜드 ![][flag_NZ]      | [#1](https://osu.ppy.sh/mp/6667239) |
+| ![][flag_ES] **스페인**   | **4** - 0     | 핀란드 ![][flag_FI]       | [#1](https://osu.ppy.sh/community/matches/6659024) |
+| ![][flag_DE] **독일**    | **4** - 1     | 캐나다 ![][flag_CA]       | [#1](https://osu.ppy.sh/community/matches/6662031) |
+| ![][flag_ES] **스페인**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/community/matches/6661946) |
+| ![][flag_MX] 멕시코       | 1     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/community/matches/6662038) |
+| ![][flag_AR] 아르헨티나     | 0     - **4** | **우루과이** ![][flag_UY]  | [#1](https://osu.ppy.sh/community/matches/6662109) |
+| ![][flag_GB] 영국        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/community/matches/6667279) |
+| ![][flag_MX] **멕시코**   | **4** - 0     | 뉴질랜드 ![][flag_NZ]      | [#1](https://osu.ppy.sh/community/matches/6667239) |
 | ![][flag_CA] **캐나다**   | **4** - 0     | 볼리비아 ![][flag_BO]      | Win by default                |
-| ![][flag_KR] **한국**    | **4** - 2     | 독일 ![][flag_DE]        | [#1](https://osu.ppy.sh/mp/6680444) |
-| ![][flag_CN] **중국**    | **4** - 3     | 인도네시아 ![][flag_ID]     | [#1](https://osu.ppy.sh/mp/6680664) |
+| ![][flag_KR] **한국**    | **4** - 2     | 독일 ![][flag_DE]        | [#1](https://osu.ppy.sh/community/matches/6680444) |
+| ![][flag_CN] **중국**    | **4** - 3     | 인도네시아 ![][flag_ID]     | [#1](https://osu.ppy.sh/community/matches/6680664) |
 | ![][flag_NZ] 뉴질랜드      | 0     - **4** | **스웨덴** ![][flag_SE]   | Win by default                |
-| ![][flag_MY] 말레이시아     | 1     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/mp/6681641) |
+| ![][flag_MY] 말레이시아     | 1     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/community/matches/6681641) |
 | ![][flag_DK] 덴마크       | 0     - 0     | 뉴질랜드 ![][flag_NZ]      | No match                      |
-| ![][flag_TW] **타이완**   | **4** - 0     | 네덜란드 ![][flag_NL]      | [#1](https://osu.ppy.sh/mp/6681780) |
-| ![][flag_ID] **인도네시아** | **4** - 0     | 우루과이 ![][flag_UY]      | [#1](https://osu.ppy.sh/mp/6682737) |
-| ![][flag_HK] **홍콩**    | **4** - 3     | 폴란드 ![][flag_PL]       | [#1](https://osu.ppy.sh/mp/6682744) |
-| ![][flag_SG] **싱가포르**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6682800) |
-| ![][flag_TW] **타이완**   | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6683945) |
-| ![][flag_AT] 오스트리아     | 0     - **4** | **말레이시아** ![][flag_MY] | [#1](https://osu.ppy.sh/mp/6683957) |
+| ![][flag_TW] **타이완**   | **4** - 0     | 네덜란드 ![][flag_NL]      | [#1](https://osu.ppy.sh/community/matches/6681780) |
+| ![][flag_ID] **인도네시아** | **4** - 0     | 우루과이 ![][flag_UY]      | [#1](https://osu.ppy.sh/community/matches/6682737) |
+| ![][flag_HK] **홍콩**    | **4** - 3     | 폴란드 ![][flag_PL]       | [#1](https://osu.ppy.sh/community/matches/6682744) |
+| ![][flag_SG] **싱가포르**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/community/matches/6682800) |
+| ![][flag_TW] **타이완**   | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/community/matches/6683945) |
+| ![][flag_AT] 오스트리아     | 0     - **4** | **말레이시아** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
 | ![][flag_AR] 아르헨티나     | 0     - **4** | **캐나다** ![][flag_CA]   | Win by default                |
 | ![][flag_KR] **한국**    | **4** - 0     | 캐나다 ![][flag_CA]       | Win by default                |
-| ![][flag_FI] **핀란드**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/mp/6685074) |
-| ![][flag_NL] 네덜란드      | 1     - **4** | **싱가포르** ![][flag_SG]  | [#1](https://osu.ppy.sh/mp/6685076) |
+| ![][flag_FI] **핀란드**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/community/matches/6685074) |
+| ![][flag_NL] 네덜란드      | 1     - **4** | **싱가포르** ![][flag_SG]  | [#1](https://osu.ppy.sh/community/matches/6685076) |
 | ![][flag_MX] **멕시코**   | **4** - 0     | 덴마크 ![][flag_DK]       | Win by default                |
-| ![][flag_HK] **홍콩**    | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/mp/6685082) |
+| ![][flag_HK] **홍콩**    | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
 ### 16강
 
 | Team A                                   | Scores        | Team B                                      | History                       |
 |:-----------------------------------------|:-------------:|--------------------------------------------:|-------------------------------|
-| ![][flag_GB] 영국        | 0     - **5** | **핀란드**   ![][flag_FI]    | [#1](https://osu.ppy.sh/mp/6808334) |
-| ![][flag_SE] **스웨덴**   | **5** - 0     | 말레이시아      ![][flag_MY]   | [#1](https://osu.ppy.sh/mp/6808918) |
-| ![][flag_ES] 스페인       | 2     - **5** | **싱가포르** ![][flag_SG]     | [#1](https://osu.ppy.sh/mp/6810811) |
-| ![][flag_ID] **인도네시아** | **5** - 0     | 타이           ![][flag_TH] | [#1](https://osu.ppy.sh/mp/6835441) |
-| ![][flag_KR] **한국**    | **5** - 1     | 폴란드        ![][flag_PL]   | [#1](https://osu.ppy.sh/mp/6837116) |
-| ![][flag_HK] 홍콩        | 1     - **5** | **독일**   ![][flag_DE]     | [#1](https://osu.ppy.sh/mp/6838919) |
-| ![][flag_JP] **일본**    | **5** - 1     | 멕시코        ![][flag_MX]   | [#1](https://osu.ppy.sh/mp/6840792) |
-| ![][flag_US] **미국**    | **5** - 4     | 우루과이       ![][flag_UY]   | [#1](https://osu.ppy.sh/mp/6842138) |
+| ![][flag_GB] 영국        | 0     - **5** | **핀란드**   ![][flag_FI]    | [#1](https://osu.ppy.sh/community/matches/6808334) |
+| ![][flag_SE] **스웨덴**   | **5** - 0     | 말레이시아      ![][flag_MY]   | [#1](https://osu.ppy.sh/community/matches/6808918) |
+| ![][flag_ES] 스페인       | 2     - **5** | **싱가포르** ![][flag_SG]     | [#1](https://osu.ppy.sh/community/matches/6810811) |
+| ![][flag_ID] **인도네시아** | **5** - 0     | 타이           ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6835441) |
+| ![][flag_KR] **한국**    | **5** - 1     | 폴란드        ![][flag_PL]   | [#1](https://osu.ppy.sh/community/matches/6837116) |
+| ![][flag_HK] 홍콩        | 1     - **5** | **독일**   ![][flag_DE]     | [#1](https://osu.ppy.sh/community/matches/6838919) |
+| ![][flag_JP] **일본**    | **5** - 1     | 멕시코        ![][flag_MX]   | [#1](https://osu.ppy.sh/community/matches/6840792) |
+| ![][flag_US] **미국**    | **5** - 4     | 우루과이       ![][flag_UY]   | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
 8강
 ---
 
 | Team A                                 | Scores        | Team B                                  | History                       |
 |:---------------------------------------|:-------------:|----------------------------------------:|-------------------------------|
-| ![][flag_FI] 핀란드     | 4     - **5** | **일본**   ![][flag_JP] | [#1](https://osu.ppy.sh/mp/6972405) |
-| ![][flag_KR] **한국**  | **5** - 2     | 인도네시아   ![][flag_ID]  | [#1](https://osu.ppy.sh/mp/6974337) |
-| ![][flag_SE] **스웨덴** | **5** - 4     | 싱가포르   ![][flag_SG]   | [#1](https://osu.ppy.sh/mp/6975640) |
-| ![][flag_US] 미국      | 1     - **5** | **독일** ![][flag_DE]   | [#1](https://osu.ppy.sh/mp/6977532) |
+| ![][flag_FI] 핀란드     | 4     - **5** | **일본**   ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6972405) |
+| ![][flag_KR] **한국**  | **5** - 2     | 인도네시아   ![][flag_ID]  | [#1](https://osu.ppy.sh/community/matches/6974337) |
+| ![][flag_SE] **스웨덴** | **5** - 4     | 싱가포르   ![][flag_SG]   | [#1](https://osu.ppy.sh/community/matches/6975640) |
+| ![][flag_US] 미국      | 1     - **5** | **독일** ![][flag_DE]   | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
 ------------------------------------------------------------------------
 
