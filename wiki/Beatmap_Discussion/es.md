@@ -26,7 +26,7 @@ Presiona en el boton `Discusión` en la pagina de informacion del beatmap.
 
 ### Mediante osu.ppy.sh:
 
-Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pagina, si está actualmente en el sistemad Discusión de Beatmaps.
+Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pagina, si está actualmente en el sistema de Discusión de Beatmaps.
 
 ## Pagina de Discusión de Beatmaps
 
