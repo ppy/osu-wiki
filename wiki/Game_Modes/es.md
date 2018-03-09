@@ -27,15 +27,15 @@ Aquí están los modos de juego disponibles en osu!:-
   Toca, desliza y gira al ritmo.
 - ![Icono de osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_:
   Basado en _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_.
-  Toque, y ruede el tambor taiko al ritmo.
+  Toca, y ruede el tambor taiko al ritmo.
 - ![Icono osu!catch][osu!catch icon link] _[osu!catch][osu!catch wikilink]_:
   Recoge las frutas que caen moviendo el colector con un plato.
   Sigue bailando y no te pierdas el paso del ritmo.
 - ![Icono osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
   Basado en juegos de ritmo tipo transportador, principalmente introducido e implementado por **woc2006**.
-  Haz que las toquen una melodia al ritmo.
+  Haz que las notas toquen una melodia al ritmo.
 
-Para una explicación general de los modos de juego anteriores, consulte [FAQ][FAQ wikilink].
+Para una explicación general de los modos de juego anteriores, consulta: [FAQ][FAQ wikilink].
 
 ## Puertos externos
 
