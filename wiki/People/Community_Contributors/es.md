@@ -5,7 +5,7 @@ Colaboradores de la comunidad
 
 Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de [*osu!*](/Wiki/Glossary/#osu) aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-No debe confundirse com [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, Los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar *osu!* Y el entorno de la comunidad.
+No debe confundirse con [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar *osu!* Y el entorno de la comunidad.
 
 Los usuarios actuales con esta insignia se indican en esta tabla:
 
@@ -74,7 +74,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | ---- | ------------- |
-| [pishifat](/users/3178418) | Rendimiento ejemplar en construcción y educación de beatmap |
+| [pishifat](/users/3178418) | Rendimiento ejemplar en la creación de beatmaps y en la enseñanza sobre ellos |
 | [Okorin](/users/1623405) | Excepcional liderazgo en los asuntos de gestión de beatmap |
 | [IamKwaN](/users/1856463) | Sobresaliente presencia de moderación y contribución global |
 | [Marcin](/users/722665) | Contribución excepcional a los asuntos de la comunidad, organización y moderación |
@@ -98,7 +98,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Irreversible](/users/1287964) | Contribución dedicada a BAT/QAT durante incontables años |
 | [Nwolf](/users/1910766) | Cientos de horas de estadísticas y análisis de torneos de la Copa Mundial |
 | [Yazzehh](/users/7068973) | Destacada presencia del árbitro en docenas de torneos comunitarios |
-| [Evrien](/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes basados en eventos |
+| [Evrien](/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes sobre competiciones |
 | [Tom94](/users/1857058) | ¡La mente maestra detrás de innumerables mejoras en osu!, desde pp, reescritura de motor de gráficos, calificación de estado y más! |
 | [DrabWeb](/users/6946022) | Contribución excepcional al proyecto osu!lazer|
 | [EVAST](/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
