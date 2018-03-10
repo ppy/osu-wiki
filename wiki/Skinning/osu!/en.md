@@ -459,8 +459,7 @@ Notes:
 
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
-- Used during [kiai time](/wiki/kiai_time):
-  - This is the lighting layer of the default sliderball.
+- This is the top layer of the ball stays in a static position (does not flip nor rotate).
 
 ---
 
