@@ -50,7 +50,7 @@ Los foros son una de las principales características de la web de osu! Aquí, p
   - [Introductions](https://osu.ppy.sh/community/forums/8): _¡Presentate a ti mismo!_
   - [Music Hall](https://osu.ppy.sh/community/forums/91): _Discusión musical fuera del reino de osu!_
   - [Otaku Culture](https://osu.ppy.sh/community/forums/75): _Discute sobre Anime, Manga y otros temas relacionados con los Otaku aquí_
-  - [Video Games](https://osu.ppy.sh/community/forums/17): _Discute cualquiera y todos los juegops que no sean osu! aquí. Esto incluye otros juegos estilo beat._
+  - [Video Games](https://osu.ppy.sh/community/forums/17): _Discute cualquiera y todos los juegos que no sean osu! aquí. Esto incluye otros juegos estilo beat._
   - [Art](https://osu.ppy.sh/community/forums/103): _¡Publica tus piezas de arte, Encuentra nuevos avatares y más!_
 - [Other Languages](https://osu.ppy.sh/community/forums/23)
   - [Русский](https://osu.ppy.sh/community/forums/35): _Ruso_
