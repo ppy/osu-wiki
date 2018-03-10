@@ -8,7 +8,7 @@
 
 ### What is skinning?
 
-Skinning is a simple image changing mechanism that osu! will load upon selecting a skin in the options. Putting a skin together is easy, but creating the assets is a little more difficult to achieve.
+Skinning is a simple image changing mechanism that osu! will load upon selecting a skin in the options. Putting a skin together is easy, but creating the assets for it is a little more difficult to achieve.
 
 ### Can someone make this skin from that show/game?
 
@@ -153,7 +153,7 @@ Basically, osu! will prefer `.wav` files because these can loop short sounds bet
 
 ### What format should the images be in?
 
-Images must use the `.png` format. However, the `menu-background.jpg` element must use `.jpg`.
+Im most cases, images must use the `.png` format. However, the `menu-background.jpg` element must use `.jpg` extension.
 
 In addition to using the `.png` format, you should:
 
@@ -208,7 +208,6 @@ However, the osu!mania ranking screen is an exception to this. That is, if an an
 
 *Note: in osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
 
-
 ## Animiations
 
 ### How do I animate an element?
@@ -230,3 +229,62 @@ If your animation is too fast/slow, you have two ways to fix it:
    - This will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow.
 2. Use the `AnimationFramerate` command in the `skin.ini`.
    - This command affects all animations expect for a few, like `pippidon` or the `hitcircleoverlay`.
+
+## Skinning
+
+### How do I make a long cursortrail?
+
+You will need the `cursormiddle.png` element to be present in your skin. If you do not want it, use a transparent image.
+
+### I deleted an element, but it's still there! How do I remove it?
+
+If you want to remove an element, you must use a transparent image in place of the element you want removed. Then [reload your skin](#how-do-i-reload-my-skin-in-osu!?).
+
+#### How do I delete the lighting after tapping on an object?
+
+There are two ways to do this:
+
+- Disable `Hit Lighting` in the [options](/wiki/options).
+- Use a transparent image called `lighting.png` in your skin.
+
+##### I meant the particles after clicking!
+
+For the particles, simply remove the `particle50.png`, `particle100.png`, and `particle300.png` files. You do not need a transparent image for these three.
+
+#### How do I remove the slider end circle?
+
+Add a transparent file called `sliderendcircle.png` to your skin.
+
+#### How do I hide the 300 hit scores?
+
+Add a transparent file for these filenames:
+
+- `hit-300-0.png`
+- `hit-300g-0.png`
+- `hit-300k-0.png`
+
+### How to add a background in main menu?
+
+You must have [osu!supporter](/wiki/osu!supporter) to see the background image in the main menu. To quickly change them, you can drag and drop a `.png` or `.jpg` image osu! (in the main menu). This will overwrite the current one from your selected skin's folder.
+
+### What does the @2x do?
+
+*See also: [HD images](#hd-images).*
+
+### My taiko drums are in the wrong position!
+
+Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or higher.
+
+### How do I change the combo colours?
+
+*See also: [skin.ini](/wiki/skin.ini/#[colours]).*
+
+### How do I disable one or more hit sounds?
+
+There are three different types of hit sounds using these three prefixes: `normal`, `soft`, and `drum`. All of these has a suffix: `-hitnormal`, `-hitwhistle`, `-hitfinish`, and `-hitclap`.
+
+To disable them, find the ones you do not like and replace it with another sound.
+
+### I use dots instead of numbers, but when I get to the 10th combo, two dots appear!
+
+To fix this, you need to change the `HitCircleOverlap` value to the width of the image used for the default numbers. For example, if your the skinned element size is 60x70 pixels, the value should be 60.
