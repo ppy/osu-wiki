@@ -22,8 +22,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 Notes:
 
 - Animation name: `pippidonclear{n}.png` (without the hyphen (`-`)).
+  - You can only skin up 7 frames (from 0 to 6).
+  - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
+  - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
 - The animation rate is BPM dependent.
-- This animation plays when the player hits a combo milestone.
+- This animation only plays once when the player hits a combo milestone; then goes back to the idle or kiai state.
 
 ---
 
@@ -60,7 +63,9 @@ Notes:
 
 ---
 
-![](img/pippidonkiai.gif "pippidonkiai.png")
+`pippidonkiai.png`
+
+![](img/pippidonkiai.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -253,7 +258,9 @@ Notes:
 
 ---
 
-![](img/taiko-glow.png "taiko-glow.png")
+`taiko-glow.png`
+
+![](img/taiko-glow.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -403,8 +410,8 @@ Notes:
 - This element will get stretched to fit screen width.
 - This is the normal state of the scrolling bar.
 - Position varies by skin version:
-  - V1: (181,216)
-  - V2.1+: (0,216)
+  - v1.0 - v2.0: (181,216)
+  - v2.1+: (0,216)
 
 ---
 
@@ -424,8 +431,8 @@ Notes:
 - This is the kiai state of the scrolling bar.
 - This element overlays `taiko-bar-right`.
 - Position varies by skin version:
-  - V1: (181,216)
-  - V2.1+: (0,216)
+  - v1.0 - v2.0: (181,216)
+  - v2.1+: (0,216)
 
 ## Drumrolls
 
@@ -500,7 +507,7 @@ Notes:
 Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This element is also used in osu!standard.
+- This element is also used in [osu!standard](/wiki/osu!standard).
 - For each hit in the spinner happens, the circle rotates anti-clockwise.
 
 ---
@@ -516,6 +523,6 @@ Notes:
 Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This element is also used in osu!standard.
+- This element is also used in [osu!standard](/wiki/osu!standard).
 - This is the duration indicator of the spinner.
   - This shrinks over time.

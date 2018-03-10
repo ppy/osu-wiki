@@ -208,7 +208,7 @@ Notes:
 
 Notes:
 
-- Tinted depends on the hit circle's combo colour.
+- Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
   - If [Hidden](/wiki/Hidden) mod is enabled, this element will not be used.
     - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/options).
@@ -228,7 +228,7 @@ Notes:
 
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
-- Tinted depends on the hit circle's combo colour.
+- Tinting depends on the hit circle's combo colour.
 - Also used for `sliderstartcircle` and/or `sliderendcircle` if not skinned.
 - Should be a circle.
 
@@ -298,7 +298,7 @@ Notes:
 Notes:
 
 - This can be disabled in the [options](/wiki/options).
-- Tinted depends on the hit circle's combo colour.
+- Tinting depends on the hit circle's combo colour.
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.
   - Glowing behind hit circles during kiai time.
@@ -424,7 +424,7 @@ Notes:
 Notes:
 
 - Animation name: `sliderb{n}.png` (no hyphen (`-`))
-- Tinted depends on the hit circle's combo colour.
+- Tinting depends on the hit circle's combo colour.
 - By default, the sliderball flips upon hitting the reverse arrow.
   - To disable this, set `sliderballflip` to `0`.
 
@@ -447,7 +447,7 @@ Notes:
 
 ---
 
-`sliderb-spec`
+`sliderb-spec.png`
 
 ![](img/sliderb-spec.png)
 
@@ -459,7 +459,7 @@ Notes:
 
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
-- This is the top layer of the ball stays in a static position (does not flip nor rotate).
+- This is the top layer of the ball that stays in a static position (does not flip nor rotate).
 
 ---
 
@@ -473,6 +473,7 @@ Notes:
 
 - Beatmap Skinnable if the player skin is using v1.0.
 - Used when the player collects a slider tick.
+- Should say "10".
 
 ---
 
@@ -486,6 +487,7 @@ Notes:
 
 - Beatmap Skinnable if the player skin is using v1.0.
 - Used when the player starts a slider and/or when they hit the reverse arrow.
+- Should say "30".
 
 ---
 
@@ -523,6 +525,7 @@ Notes:
 - Applied to both styles.
 - Shrinks over time, like `approachcircle.png`
 - Usage is forced when `spinner-circle.png` or `spinner-top.png` is skinned.
+- This is also used for [osu!taiko](/wiki/osu!taiko).
 
 ---
 
@@ -602,6 +605,8 @@ Notes:
 
 - This element is positioned around 397px vertically.
 - This is the rotating part of the spinner.
+- This is also used for [osu!taiko](/wiki/osu!taiko).
+  - If using the new spinner style, you can still skin this for osu!taiko.
 
 ---
 
@@ -619,6 +624,7 @@ Notes:
   - (0,46) at 1024x768 and (171,46) at 1366x768.
 - This is the progression bars
 - The highest part of the bar will blink when bonus points are awarded.
+  - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/skin.ini)
 
 ---
 

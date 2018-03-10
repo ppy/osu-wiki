@@ -87,7 +87,7 @@ Notes:
 
 Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
@@ -99,7 +99,7 @@ Notes:
 
 Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
@@ -111,7 +111,7 @@ Notes:
 
 Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
@@ -123,7 +123,7 @@ Notes:
 
 Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ## Clicks
 
@@ -327,7 +327,7 @@ Notes:
 
 Notes:
 
-- Plays when clicking on Back in the pause menu.
+- Plays when clicking `Back to Menu` in the pause menu.
 
 ---
 
@@ -339,7 +339,7 @@ Notes:
 
 Notes:
 
-- Plays when clicking on Continue in the pause menu.
+- Plays when clicking `Continue` in the pause menu.
 
 ---
 
@@ -351,7 +351,7 @@ Notes:
 
 Notes:
 
-- Plays when clicking on Retry in the pause menu.
+- Plays when clicking `Retry` in the pause menu.
 
 ---
 
@@ -729,18 +729,6 @@ Notes:
 
 ## Metronome
 
-`metronomehigh.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
-Notes:
-
-- Plays on the big white ticks in the beatmap editor.
-
----
-
 `metronomelow.wav`
 
 | Beatmap Skinnable |
@@ -749,8 +737,8 @@ Notes:
 
 Notes:
 
-- Plays on the small white ticks in the beatmap editor.
-- This is also used in the offset wizard, osu!catch spinners (pitches goes up per caught banana).
+- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
+- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
 
 ## Gameplay
 
@@ -774,8 +762,8 @@ Notes:
 
 Notes:
 
-- Like combobursts, multiple sounds can be included.
-- Applicable on preset counts (`CustomComboBurstSounds` command in [skin.ini](/wiki/skin.ini)).
+- For multiple sounds, use `comboburst-{n}.wav`.
+- In the [skin.ini](/wiki/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
 
 ---
 
@@ -837,6 +825,7 @@ Notes:
 
 - Plays when the game is paused.
 - This sound is looped.
+- Fades out when the client loses focus.
 
 ## Hit Sounds
 

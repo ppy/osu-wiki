@@ -337,7 +337,7 @@ Notes:
 Notes:
 
 - This element is shown on the left side of the stage(s).
-- This is stretched to fit the stage height (allows for smaller images).
+- This is stretched to fit the stage height (allows for shorter images).
 
 ---
 
@@ -352,7 +352,7 @@ Notes:
 Notes:
 
 - This element is shown on the right side of the stage(s).
-- This is stretched to fit the stage height (allows for smaller images).
+- This is stretched to fit the stage height (allows for shorter images).
 
 ---
 
@@ -366,8 +366,8 @@ Notes:
 
 - This is 0.625x smaller than the stage width.
 - Animation name: `mania-stage-bottom-{n}.png`.
-- Shown on the bottom (or top, if the stage is upside down) of the stage(s)
-- This element will not stretched to fit the stage width!
+- Shown on the bottom (or top, if the stage is upside down) of the stage(s).
+- This element will not be stretched to fit the stage width!
 - This element should be skinned for a 480px playfield height.
 - This element overlays the entire stage, including the notes.
 
@@ -404,7 +404,9 @@ Notes:
 Notes:
 
 - This is the graphical representation of the judgement line.
-  - The judgement line is drawn in the middle of the image.
+  - The judgement line is drawn in the centre of the image.
+- This is drawn for the entire stage width, not individual columns.
+- This is stretched to fit the stage width (allowing for narrower images).
 
 ---
 

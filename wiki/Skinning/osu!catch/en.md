@@ -109,7 +109,7 @@ Notes:
 - This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/kiai_time).
 - This element is also used in [osu!standard](/wiki/osu!standard) and [osu!taiko](/wiki/osu!taiko).
 - This can be disabled in the [options](/wiki/options).
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
@@ -125,7 +125,7 @@ Notes:
 
 - This element is shown first.
 - This element is used for the hyperdash outline.
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
@@ -155,7 +155,7 @@ Notes:
 
 - This element is shown second.
 - This element is used for the hyperdash outline.
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
@@ -185,7 +185,7 @@ Notes:
 
 - This element is shown third.
 - This element is used for the hyperdash outline.
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
@@ -217,7 +217,7 @@ Notes:
   - Animation name: `fruit-orange-{n}.png`
 - This element is shown fourth (last).
 - This element is used for the hyperdash outline.
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
   - On the ranking screen:
     - Tinted orange for collected fruit
     - Tinted light grey for missed fruit.
@@ -283,7 +283,7 @@ Notes:
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `fruit-drop-{n}.png`
 - This is shown during a "slider".
-- Tinted depends on the fruit's combo colour.
+- Tinting depends on the fruit's combo colour.
 
 ---
 

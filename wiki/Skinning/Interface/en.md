@@ -25,8 +25,14 @@ Notes:
 - By default, osu! has 5 background images that it will cycle through.
   - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
 - This element is used as the playfield if beatmap does not have a background.
-- This element uses the `.jpg` extension.
-  - `.png` images can be used, however, they must end with `.jpg` to work.
+- The seasonal background option can affect the visbility of this element.
+  - If it is set to `Always` the seasonal backgrounds will override this element.
+  - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
+- `.jpg` extension only.
+  - If the image type is `.png` change the extension to `.jpg`.
+    - If the background is transparent, the background color will be black.
+- The player can drag and drop an image to overwrite the skin's skinned image
+  - **This will delete the skin's image in the process!**
 
 ---
 
@@ -56,7 +62,7 @@ Notes:
 
 - If not skinned, the current game mode's small icon will be used instead.
 - Must be enabled in the [options](/wiki/options) to see.
-  - This option may forcibly be enabled during winter.
+  - This option may forcibly be enabled during the holidays (Christmas).
 
 ## Button
 
@@ -586,7 +592,7 @@ Notes:
 
 Notes:
 
-- This is shown when using mods that disable score submission or when playing a [pending](/wiki/pending) or [graveyarded](/wiki/graveyarded) beatmap.
+- This is shown when using mods that disable score submission.
 
 ---
 
@@ -961,6 +967,8 @@ Notes:
 - This element is will not strech to fit.
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
+- This can also be a `.jpg` file (and can have the `.jpg` extension).
+  - osu! preferences `.png` over `.jpg`.
 
 ---
 
@@ -974,6 +982,8 @@ Notes:
 
 - When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
 - This element will strech to fit.
+- This can also be a `.jpg` file (and can have the `.jpg` extension).
+  - osu! preferences `.png` over `.jpg`.
 
 ---
 
@@ -1016,7 +1026,6 @@ Notes:
 Notes:
 
 - This element appears on the ranking screen (after finishing a map or viewing a score).
-- If skinned, this element overrides `ranking-replay.png` in skin versions 2.0+.
 - This element is positioned at 672px height or at 576px height, if `pause-retry.png` is not available.
 
 ---
@@ -1037,7 +1046,6 @@ Notes:
   - ranking screen:
     - Right, positioned at 576px height
 - This element appears on the ranking screen after finishing a map and on the pause and fail screens.
-- If skinned, this element overrides `ranking-retry.png` in v2.0+.
 
 ### Scorebar
 
@@ -1089,7 +1097,7 @@ Notes:
 
 Notes:
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
+- `scorebar-marker.png` has higher priority.
 - This element represents the "passing" zone.
 - This element is not used in [osu!mania](/wiki/osu!mania).
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
@@ -1106,7 +1114,7 @@ Notes:
 
 Notes:
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
+- `scorebar-marker.png` has higher priority.
 - this element represents the "warning" zone
 - This element is not used in [osu!mania](/wiki/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
@@ -1123,7 +1131,7 @@ Notes:
 
 Notes:
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
+- `scorebar-marker.png` has higher priority.
 - This element represents the "critical" zone.
 - This element is not used in [osu!mania](/wiki/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
@@ -1780,7 +1788,6 @@ Notes:
 
 Notes:
 
-- If skinned, this will override `pause-replay.png`.
 - Position varies:
   - at 672px height.
   - at 576px height, if retry is not available.
@@ -1795,7 +1802,6 @@ Notes:
 
 Notes:
 
-- If skinned, this will override `pause-retry.png`.
 - Positioned at 576px height.
 
 ---
@@ -2151,7 +2157,7 @@ Notes:
 
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!standard](/wiki/osu!standard) for this to see.
-- If the `menu-snow.png` element is not skined, this element will be used if it is selected.
+- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
 
@@ -2167,7 +2173,7 @@ Notes:
 
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!taiko](/wiki/osu!taiko) for this to see.
-- If the `menu-snow.png` element is not skined, this element will be used if it is selected.
+- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
 
@@ -2183,7 +2189,7 @@ Notes:
 
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!catch](/wiki/osu!catch) for this to see.
-- If the `menu-snow.png` element is not skined, this element will be used if it is selected.
+- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
 
@@ -2199,4 +2205,4 @@ Notes:
 
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!mania](/wiki/osu!mania) for this to see.
-- If the `menu-snow.png` element is not skined, this element will be used if it is selected.
+- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
