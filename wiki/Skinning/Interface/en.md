@@ -7,7 +7,7 @@
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
-Interface skinning elements are used in multiple game modes or parts of the osu! client's user interface.
+Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
 ## Main menu
 
@@ -47,7 +47,7 @@ Notes:
 Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required.
-- This element appears upon starting the osu! client.
+- This element appears upon starting the client.
 - This element folds out and expands, then fades out.
 
 ---
@@ -778,7 +778,7 @@ Notes:
 
 - This should say "Are You Ready?" or "Ready?".
 
-### Hit Bursts
+### Hit bursts
 
 *See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy).*
 
@@ -909,7 +909,7 @@ Notes:
   - single frame behaviour is not used.
 - This is not shown on the ranking screen.
 
-### Input Overlay
+### Input overlay
 
 `inputoverlay-background.png`
 
@@ -953,7 +953,7 @@ Notes:
   - Yellow, if the key is pressed and locationed on the top half.
   - Purple, if the key is pressed and locationed on the bottom half.
 
-### Pause Screen
+### Pause screen
 
 `pause-overlay.png`
 
@@ -1818,6 +1818,289 @@ Notes:
 
 - This element is used in [multi](/wiki/multi) only.
 
+## Score entry
+
+`scoreentry-0.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-1.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-2.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-3.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-4.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-5.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-6.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-7.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-8.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-9.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards and input overlay.
+  - For input overlay, the initial button labels are not skinnable.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+  - Rank: TopRight
+  - Input overlay: Top
+
+---
+
+`scoreentry-comma.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 5x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards.
+- This element is used as the decimal separator.
+  - Useage depends on your selected language.
+- Tinting depends on use:
+  - Score: white
+  - Combo: cyan
+- Origin varies on use:
+  - Score: TopLeft
+  - Combo: TopRight
+
+---
+
+`scoreentry-dot.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 5x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards.
+- This element is used as the decimal separator.
+  - Useage depends on your selected language.
+- Tinted white.
+
+---
+
+`scoreentry-percent.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 12x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards.
+- This element is used in [Multi](/wiki/Multi) games when the win condition is set to Accuracy.
+- Tinted white.
+
+---
+
+`scoreentry-x.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopRight | 10x14 |
+
+Notes:
+
+- This element is used for the in-game leaderboards.
+- This element is used as the multiplier symbol.
+- Tinted cyan.
+
 ## Song selection
 
 `menu-back.png`
@@ -1990,7 +2273,7 @@ Notes:
 
 Notes:
 
-- Depending on the osu! client's window size, 4 to 5 tabs will be displayed.
+- Depending on the client's window size, 4 to 5 tabs will be displayed.
 
 ---
 
