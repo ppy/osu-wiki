@@ -154,7 +154,7 @@ Notes:
 
 Notes:
 
-- This is used when the player presses the smoke key.
+- This element is used when the player presses the smoke key.
   - By default, the smoke key is binded to `C`.
 
 ---
@@ -235,7 +235,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 
 ---
 
@@ -293,7 +293,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -308,7 +308,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -323,7 +323,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -338,7 +338,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 
 ---
 
@@ -352,7 +352,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -367,7 +367,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -382,7 +382,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -397,7 +397,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -412,7 +412,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 - Cycle through the xK mods to view.
 
 ---
@@ -427,7 +427,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 
 ---
 
@@ -479,7 +479,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!mania](/wiki/osu!mania)-specific mod.
+- This element is [osu!mania](/wiki/osu!mania)-specific.
 
 ---
 
@@ -493,7 +493,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch)-specific mod.
+- This element is [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch)-specific mod.
 
 ---
 
@@ -507,7 +507,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!standard](/wiki/osu!standard)-specific mod.
+- This element is [osu!standard](/wiki/osu!standard)-specific mod.
 - This mod will move the cursor for the player while the player just needs to tap or click.
 
 ---
@@ -522,7 +522,7 @@ Notes:
 
 Notes:
 
-- This is an [osu!standard](/wiki/osu!standard)-specific mod.
+- This element is [osu!standard](/wiki/osu!standard)-specific mod.
 
 ---
 
@@ -545,7 +545,7 @@ Notes:
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
 
 - This mod is available in the cuttingedge stream only.
-- This is an [osu!standard](/wiki/osu!standard)-specific mod.
+- This element is an [osu!standard](/wiki/osu!standard)-specific mod.
 
 ## Offset wizard
 
@@ -592,7 +592,7 @@ Notes:
 
 Notes:
 
-- This is shown when using mods that disable score submission.
+- This element is shown when using mods that disable score submission.
 
 ---
 
@@ -626,8 +626,8 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - If skinned, this element overrides `play-warningarrow.png`.
-- This is used in the pause and fail screens.
-- This element is not tinted.
+- This element is used in the pause and fail screens.
+- Not tinted.
 
 ---
 
@@ -642,7 +642,7 @@ Notes:
 - Beatmap skinnable status is suspected to be a bug.
 - If skinned, this element overrides `play-warningarrow.png`.
 - Used for the end break warning.
-- This element is not tinted.
+- Not tinted.
 
 ---
 
@@ -673,7 +673,7 @@ Notes:
 
 Notes:
 
-- This is used in multi games, seen next to the player's score (on the sides) when the player votes to skip the intro of a beatmap.
+- This element is used in multi games, seen next to the player's score (on the sides) when the player votes to skip the intro of a beatmap.
 
 ---
 
@@ -907,7 +907,7 @@ Notes:
 - If animation is used:
   - animation does not loop, but the last frame persists until it fades out.
   - single frame behaviour is not used.
-- This is not shown on the ranking screen.
+- This element is not shown on the ranking screen.
 
 ### Input overlay
 
@@ -939,7 +939,7 @@ Notes:
 
 Notes:
 
-- This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
+- This element is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
 - Positioning varies for each key:
   - 24px away from screenborder
   - K1/L: at 350px height
@@ -1356,7 +1356,7 @@ Notes:
 Notes:
 
 - By default, this is also used for the combo numbers.
-- This is for the accuracy.
+- This element is for the accuracy.
 - The usage is dependent of your selected language.
 
 ---
@@ -1372,7 +1372,7 @@ Notes:
 Notes:
 
 - By default, this is also used for the combo numbers.
-- This is for the accuracy.
+- This element is for the accuracy.
 - The usage is dependent of your selected language.
 
 ---
@@ -1388,7 +1388,7 @@ Notes:
 Notes:
 
 - By default, this is also used for the combo numbers.
-- This is for the accuracy.
+- This element is for the accuracy.
 
 ---
 
@@ -1403,7 +1403,7 @@ Notes:
 Notes:
 
 - By default, this is also used for the combo numbers.
-- This is for the combo, only used in [osu!standard](/wiki/osu!standard).
+- This element is for the combo, only used in [osu!standard](/wiki/osu!standard).
 - Blend mode varies:
   - If used for combo counter:
     - Additive for the expanding after images.
@@ -2287,7 +2287,7 @@ Notes:
 
 Notes:
 
-- This is used for difficulty star ratings (seen in song selection).
+- This element is used for difficulty star ratings (seen in song selection).
   - v2.2+ will scale down the last star, if necessary
   - v2.1- will crop the last star, if necessary
 - Tinting depends on the state of `menu-button-background.png`
@@ -2304,7 +2304,7 @@ Notes:
 
 Notes:
 
-- This is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
+- This element is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
 
 ### Mode select
 

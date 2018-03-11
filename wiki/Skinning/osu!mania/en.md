@@ -337,7 +337,7 @@ Notes:
 Notes:
 
 - This element is shown on the left side of the stage(s).
-- This is stretched to fit the stage height (allows for shorter images).
+- This element is stretched to fit the stage height (allows for shorter images).
 
 ---
 
@@ -352,7 +352,7 @@ Notes:
 Notes:
 
 - This element is shown on the right side of the stage(s).
-- This is stretched to fit the stage height (allows for shorter images).
+- This element is stretched to fit the stage height (allows for shorter images).
 
 ---
 
@@ -364,7 +364,7 @@ Notes:
 
 Notes:
 
-- This is 0.625x smaller than the stage width.
+- This element is 0.625x smaller than the stage width.
 - Animation name: `mania-stage-bottom-{n}.png`.
 - Shown on the bottom (or top, if the stage is upside down) of the stage(s).
 - This element will not be stretched to fit the stage width!
@@ -384,9 +384,9 @@ Notes:
 Notes:
 
 - Animation name: `mania-stage-light-{n}.png`.
-- This is the lighting for the columns when the key is pressed.
+- This element is the lighting for the columns when the key is pressed.
 - This element is placed underneath the notes.
-- Tinted white by default.
+- By default, tinted white.
   - Use `ColourLight` to change this.
 - Positioning is set by the [skin.ini](/wiki/skin.ini)
   - Use `LightPosition`.
@@ -403,10 +403,10 @@ Notes:
 
 Notes:
 
-- This is the graphical representation of the judgement line.
+- This element is the graphical representation of the judgement line.
   - The judgement line is drawn in the centre of the image.
-- This is drawn for the entire stage width, not individual columns.
-- This is stretched to fit the stage width (allowing for narrower images).
+- This element is drawn for the entire stage width, not individual columns.
+- This element is stretched to fit the stage width (allowing for narrower images).
 
 ---
 
@@ -420,7 +420,7 @@ Notes:
 
 - This element should point downwards.
   - This image is automatically flipped horizontally if the stage is upside down.
-- This is always seen before the map starts, if there is enough time.
+- This element is always seen before the map starts, if there is enough time.
 
 ### Lighting
 

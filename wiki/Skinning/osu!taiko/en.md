@@ -181,9 +181,9 @@ Notes:
 
 Notes:
 
-- This is used for finisher/big notes.
+- This element is used for finisher/big notes.
   - This element is upscaled automatically.
-- This is also used on the hit position.
+- This element is also used on the hit position.
 - Tinted red for "Don" (235,69,44)
 - Tinted blue for "Katsu" (68,141,171)
 - Tinted yellow for drumroll starting circle (252,83,6)
@@ -219,8 +219,8 @@ Notes:
 
 Notes:
 
-- Tinted red for 'Don' (235,69,44)
-- Tinted blue for 'Katsu' (68,141,171)
+- Tinted red for "Don" (235,69,44)
+- Tinted blue for "Katsu" (68,141,171)
 - Tinted yellow for drumroll starting circle (252,83,6)
 
 ---
@@ -253,7 +253,7 @@ Notes:
 
 Notes:
 
-- This is used on the hit position as a border.
+- This element is used on the hit position as a border.
 - This element is also used in osu!standard.
 
 ---
@@ -269,8 +269,8 @@ Notes:
 Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This is tinted yellow.
-- This is behind the hit position during [kiai time](/wiki/kiai_time), expands when notes are hit.
+- Tinted yellow.
+- This element is behind the hit position during [kiai time](/wiki/kiai_time), expands when notes are hit.
 
 ---
 
@@ -284,7 +284,7 @@ Notes:
 
 Notes:
 
-- This is tinted orange-red.
+- Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
   - This element is only visible when using a transparent taiko bar.
 - This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/kiai_time).
@@ -303,7 +303,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This is disbaled if the beatmap has a storyboard.
+- This element is disbaled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x ingame.
 
 ---
@@ -321,7 +321,7 @@ Notes:
 - This appears when the player misses a note or if the health bar isn't filled up to 50% during a break.
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This is disbaled if the beatmap has a storyboard.
+- This element is disbaled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x ingame.
 
 ---
@@ -355,7 +355,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Positioned at (0,216).
-- This is where the drum goes.
+- This element is where the drum goes.
 
 ---
 
@@ -408,7 +408,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
-- This is the normal state of the scrolling bar.
+- This element is the normal state of the scrolling bar.
 - Position varies by skin version:
   - v1.0 - v2.0: (181,216)
   - v2.1+: (0,216)
@@ -428,7 +428,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
-- This is the kiai state of the scrolling bar.
+- This element is the kiai state of the scrolling bar.
 - This element overlays `taiko-bar-right`.
 - Position varies by skin version:
   - v1.0 - v2.0: (181,216)
@@ -447,8 +447,8 @@ Notes:
 Notes:
 
 - The SD image width must be exactly 1px wide.
-- This is the track of the roll where the `sliderscorepoint.png` are placed on.
-- Tint shifts from yellow to red.
+- This element is the track of the roll where the `sliderscorepoint.png` are placed on.
+- Tinting shifts from yellow to red.
 
 ---
 
@@ -462,8 +462,8 @@ Notes:
 
 Notes:
 
-- This is the end part of a roll.
-- Tint shifts from yellow to red.
+- This element is the end part of a roll.
+- Tinting shifts from yellow to red.
 
 ---
 
@@ -492,7 +492,7 @@ Notes:
 
 Notes:
 
-- This is an indicator for the spinner.
+- This element is an indicator for the spinner.
 
 ---
 
@@ -524,5 +524,5 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element is also used in [osu!standard](/wiki/osu!standard).
-- This is the duration indicator of the spinner.
+- This element is the duration indicator of the spinner.
   - This shrinks over time.

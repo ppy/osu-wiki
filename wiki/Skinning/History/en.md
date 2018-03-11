@@ -19,7 +19,7 @@ The listed skinning elements listed here are no longer in use.
 
 Notes:
 
-- This element is seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
+- This element was seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
 - This element was considered to be a bug and was removed from being skinnable.
 
 ---

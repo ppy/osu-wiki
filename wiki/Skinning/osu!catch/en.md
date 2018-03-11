@@ -20,7 +20,7 @@
 Notes:
 
 - Animation name: `fruit-catcher-idle-{n}.png`
-- This is the catcher state when doing nothing or catching objects
+- This element is the catcher state when doing nothing or catching objects
 - This should face towards the right.
 - The first 16 pixels at the top should be transparent.
 - The width should cover two fruits at a Circle Size of 0.
@@ -38,7 +38,7 @@ Notes:
 Notes:
 
 - Animation name: `fruit-catcher-fail-{n}.png`
-- This is the "missed" catcher state.
+- This element is the "missed" catcher state.
 - This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/kiai_time).
 - This should face towards the right.
 
@@ -55,7 +55,7 @@ Notes:
 Notes:
 
 - Animation name: `fruit-catcher-kiai-{n}.png`
-- This is the catcher state during kiai time.
+- This element is the catcher state during kiai time.
 - `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/kiai_time).
 - This should face towards the right.
 
@@ -250,7 +250,7 @@ Notes:
 
 Notes:
 
-- This element is always tinted yellow.
+- Tinted yellow.
 - This element is shown during a "spinner".
 - This element is used for the hyperdash outline.
 
@@ -282,7 +282,7 @@ Notes:
 
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `fruit-drop-{n}.png`
-- This is shown during a "slider".
+- This element is shown during a "slider".
 - Tinting depends on the fruit's combo colour.
 
 ---

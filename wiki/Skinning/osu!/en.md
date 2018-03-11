@@ -316,7 +316,7 @@ Notes:
 Notes:
 
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
-- This is the hit circle for the start of the slider.
+- This element is the hit circle for the start of the slider.
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - Should be a circle.
@@ -353,7 +353,7 @@ Notes:
 Notes:
 
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
-- This is the hitcircle for the end of the slider.
+- This element is the hitcircle for the end of the slider.
 - This element fades in before completing and expands when completed.
   - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - Should be a circle.
@@ -443,7 +443,7 @@ Notes:
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
 - Tinted black.
-- This is the background layer of the default slider ball.
+- This element is the background layer of the default slider ball.
 
 ---
 
@@ -459,7 +459,7 @@ Notes:
 
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
-- This is the top layer of the ball that stays in a static position (does not flip nor rotate).
+- This element is the top layer of the ball that stays in a static position (does not flip nor rotate).
 
 ---
 
@@ -501,7 +501,7 @@ Notes:
 
 Notes:
 
-- This is the slider tick.
+- This element is the slider tick.
 - If this element is overlapping the slider start or end, it will not be rendered.
 - This element is also used in [osu!taiko](/wiki/osu!taiko).
 
@@ -521,11 +521,11 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
+- This element is positioned around 397px vertically.
 - Applied to both styles.
 - Shrinks over time, like `approachcircle.png`
 - Usage is forced when `spinner-circle.png` or `spinner-top.png` is skinned.
-- This is also used for [osu!taiko](/wiki/osu!taiko).
+- This element is also used for [osu!taiko](/wiki/osu!taiko).
 
 ---
 
@@ -540,7 +540,7 @@ Notes:
 Notes:
 
 - RPM is short for "Revolutions Per Minute"
-- This is positioned at 139px to the left from the middle of the screen and at 712px height
+- This element is positioned at 139px to the left from the middle of the screen and at 712px height
   - (373,712) at 1024x768
   - (544,712) at 1366x768
 
@@ -588,7 +588,7 @@ Notes:
 
 - **osu! is watching for this element.** If found, it will force the old styled spinners on v2.0+ (all elements in this section).
 - Using the suggested SD size will help alignment with `spinner-metre.png`.
-- By default, this is tinted grey.
+- By default, tinted grey.
   - To change this, use the `SpinnerBackground` command.
 
 ---
@@ -604,8 +604,8 @@ Notes:
 Notes:
 
 - This element is positioned around 397px vertically.
-- This is the rotating part of the spinner.
-- This is also used for [osu!taiko](/wiki/osu!taiko).
+- This element is the rotating part of the spinner.
+- This element is also used for [osu!taiko](/wiki/osu!taiko).
   - If using the new spinner style, you can still skin this for osu!taiko.
 
 ---
@@ -622,7 +622,7 @@ Notes:
 
 - Positioned 46px away from top and 512px to the left from the middle axis.
   - (0,46) at 1024x768 and (171,46) at 1366x768.
-- This is the progression bars
+- This element is the progression bars
 - The highest part of the bar will blink when bonus points are awarded.
   - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/skin.ini)
 
@@ -653,10 +653,10 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
+- This element is positioned around 397px vertically.
 - Tinted cyan, blinks white when bonus points are awarded
 - This blinks when awarding bonus points.
-- This is the lowest layer.
+- This element is the lowest layer.
 
 ---
 
@@ -670,9 +670,9 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
+- This element is positioned around 397px vertically.
 - This rotates the slowest.
-- This is the second lowest layer.
+- This element is the second lowest layer.
 
 ---
 
@@ -686,9 +686,9 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
+- This element is positioned around 397px vertically.
 - This rotates the second fastest (slower than `spinner-middle2.png`).
-- This is the middle layer.
+- This element is the middle layer.
 
 ---
 
@@ -702,9 +702,9 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
+- This element is positioned around 397px vertically.
 - This rotates the fastest.
-- This is the second highest layer.
+- This element is the second highest layer.
 
 ---
 
@@ -718,9 +718,9 @@ Notes:
 
 Notes:
 
-- This is positioned around 397px vertically.
-- Tints red over time (this is the time indicator).
-- This is the highest layer.
+- This element is positioned around 397px vertically.
+- Tinted red over time (this is the time indicator).
+- This element is the highest layer.
 
 ## Particles
 
