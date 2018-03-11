@@ -5,10 +5,9 @@ tags:
 ---
 # osu! World Cup 2016
 
-![osu! World Cup 2016](logo.jpg)
+![osu! World Cup 2016 logo](logo.jpg)
 
-The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team).
-It is the 7th installment of the osu! World Cup.
+The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 6th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
