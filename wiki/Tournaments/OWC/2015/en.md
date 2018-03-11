@@ -22,12 +22,11 @@ The **osu! World Cup 2015** (***OWC 2015***) is a country-based osu! tournament 
 | Finals - Week 1    | 2015-12-05/2015-12-06    |
 | Finals - Week 2    | 2015-12-12/2015-12-13    |
 
-Prizes
--------
+## Prizes
 
-We are aiming to have a minimum $5,000 cash prize pool for this world cup. You can support this by **[purchasing profile banners here!](https://store.ppy.sh/store/product/38)**
+In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Placing                                                    | Prizes                                                                  |
+| Place                                                    | Prize(s)                                                                  |
 |------------------------------------------------------------|-------------------------------------------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% of the raised prize pool, profile badge, "osu! Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge                             |

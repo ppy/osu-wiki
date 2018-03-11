@@ -24,10 +24,10 @@ The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament 
 
 ## Prizes
 
-We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
+In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Placing                                              | Prize(s)                                                                    |
-|------------------------------------------------------|:----------------------------------------------------------------------------|
+| Place                                               | Prize(s)                                                                    |
+|------------------------------------------------------|----------------------------------------------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge                             |
