@@ -5,7 +5,7 @@
 
 *Main page: [Skinning](/wiki/Skinning)*
 
-The listed skinning elements listed here are no longer in use.
+The skinning elements listed here are no longer in use.
 
 ## Interface
 

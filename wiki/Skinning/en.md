@@ -1,8 +1,6 @@
 # Skinning
 
-Skinning is one of the fundamentals of all osu! game modes. It enables players to derive from the original skinning elements to create their own!
-
-Skins vary from for-fun to a central theme (e.g. anime or group of people) to those that are nigh impossible to play with. Another type of skin are PRO skins, where they maximize playfield visibility and minimize visual obtrusions (e.g. replacing hitbursts with blank images).
+Skinning is one of the key features of osu! It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
 
 ## Skinning sets
 
@@ -16,7 +14,7 @@ Skins vary from for-fun to a central theme (e.g. anime or group of people) to th
 
 ## Skin elements lists
 
-The list of skinning elements was split up into these five categories:
+The list of skinning elements is split up into these five categories:
 
 - [Skinning Interface](/wiki/Skinning/Interface)
 - [Skinning osu!standard](/wiki/Skinning/osu!)
