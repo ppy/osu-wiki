@@ -58,7 +58,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Match Schedule: Grand Finals
 
-### Sunday, 18. March 2018
+### Sunday, 2018-03-18
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
