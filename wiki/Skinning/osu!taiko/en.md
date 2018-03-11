@@ -260,7 +260,7 @@ Notes:
 
 `taiko-glow.png`
 
-![](img/taiko-glow.png)
+<!-- ![](img/taiko-glow.png) -->
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -345,7 +345,7 @@ Notes:
 
 `taiko-bar-left.png`
 
-![](img/taiko-bar-left.png)
+<!-- ![](img/taiko-bar-left.png) -->
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
