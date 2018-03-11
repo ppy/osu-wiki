@@ -9,19 +9,18 @@ tags:
 
 The **osu! World Cup 2015** (***OWC 2015***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu! World Cup.
 
-Tournament schedule
---------------------
+## Tournament Schedule
 
 | Event              | Timestamp                |
-|--------------------|--------------------------|
-| Registration Phase | 01-18 Oct 2015           |
-| Live Drawings      | 1 Nov 2015 14.00 (UTC+0) |
-| Group Stage        | 7-8 Nov 2015             |
-| Round 16           | 14-15 Nov 2015           |
-| Quarter-finals     | 21-22 Nov 2015           |
-| Semi-finals        | 28-29 Nov 2015           |
-| Finals - Week 1    | 5-6 Dec 2015             |
-| Finals - Week 2    | 12-13 Dec 2015           |
+|-------------------:|--------------------------|
+| Registration Phase | 2015-10-01/2015-10-18    |
+| Drawings           | 2015-11-01 (14:00 UTC+0) |
+| Group Stage        | 2015-11-07/2015-11-08    |
+| Round of 16        | 2015-11-14/2015-11-15    |
+| Quarterfinals      | 2015-11-21/2015-11-22    |
+| Semifinals         | 2015-11-28/2015-11-29    |
+| Finals - Week 1    | 2015-12-05/2015-12-06    |
+| Finals - Week 2    | 2015-12-12/2015-12-13    |
 
 Prizes
 -------
