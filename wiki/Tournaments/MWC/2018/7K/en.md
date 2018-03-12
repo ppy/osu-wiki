@@ -56,25 +56,19 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
-### Sunday, 2018-03-11
+### Sunday, 2018-03-18
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Brazil        | ![][flag_BR] | ![][flag_SG] | Singapore | **3:00 UTC**  | 0:00 UTC -3  | 11:00 UTC +8 | ² |
-| Philippines   | ![][flag_PH] | ![][flag_MY] | Malaysia  | **4:30 UTC**  | 12:30 UTC +8 | 12:30 UTC +8 | ² |
-| South Korea   | ![][flag_KR] | ![][flag_CN] | China     | **12:00 UTC** | 21:00 UTC +9 | 20:00 UTC +8 | ¹ |
-| Philippines   | ![][flag_PH] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
-| Philippines   | ![][flag_PH] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
-| Malaysia      | ![][flag_MY] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
-| Malaysia      | ![][flag_MY] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
+| China       | ![][flag_CN] | ![][flag_MY] | Malaysia | **10:00 UTC**  | 18:00 UTC +8  | 18:00 UTC +8 | ¹ |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **12:30 UTC**  | 21:30 UTC +9  | 20:30 UTC +8 | ² |  
+| South Korea | ![][flag_KR] | ![][flag_CN] | China    | **12:30 UTC**  | 21:30 UTC +9  | 20:30 UTC +8 | ² |
 
- ¹ Winner bracket encounter
+ ¹ 3rd place encounter 
  
- ² Loser bracket encounter
- 
- ³ Encounter dependent on results of ²Loser bracket encounter
+ ² Grand Finals Encounter dependent on results of ²3rd place encounter
 
 ------------------------------------------------------------------------
 
@@ -219,6 +213,15 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-03-11 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Brazil ![][flag_BR] | 7 | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40743246) |
+| Philippines ![][flag_PH] | 0 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40745201) |
+| South Korea ![][flag_KR] | 7 | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/40752937) |
+| Malaysia ![][flag_MY] | 7 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/40754939) |
 
 ### Semifinals
 
