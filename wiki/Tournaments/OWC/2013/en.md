@@ -8,7 +8,7 @@ tags:
 
 ![osu! World Cup 2013 logo](logo.png)
 
-The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament hosted by the osu! team. It is the 3rd installment of the osu! World Cup.
+The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 4th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
@@ -48,7 +48,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 - [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
 - [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
-- [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
+- **[Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 
 -------------------------------------------
 

@@ -5,75 +5,50 @@ tags:
 ---
 # osu! World Cup 2016
 
-![osu! World Cup 2016](logo.jpg)
+![osu! World Cup 2016 logo](logo.jpg)
 
-The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team).
-It is the 7th installment of the osu! World Cup.
+The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 7th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
 | Event              | Timestamp                |
-|--------------------|--------------------------|
-| Registration Phase | 02-16 Oct 2016           |
-| Drawings           | 4 Nov 2016 (12:00 UTC+0) |
-| Group Stage        | 12-13 Nov 2016           |
-| Round of 16        | 19-20 Nov 2016           |
-| Quarterfinals      | 26-27 Nov 2016           |
-| Semifinals         | 03-04 Dec 2016           |
-| Finals - Week 1    | 10-11 Dec 2016           |
-| Finals - Week 2    | 17-18 Dec 2016           |
+|-------------------:|--------------------------|
+| Registration Phase | 2016-10-02/2016-10-16    |
+| Drawings           | 2016-11-04 (12:00 UTC+0) |
+| Group Stage        | 2016-11-12/2016-11-13    |
+| Round of 16        | 2016-11-19/2016-11-20    |
+| Quarterfinals      | 2016-11-26/2016-11-27    |
+| Semifinals         | 2016-12-03/2016-12-04    |
+| Finals - Week 1    | 2016-12-10/2016-12-11    |
+| Finals - Week 2    | 2016-12-17/2016-12-18    |
 
 ## Prizes
 
-We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
+In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Placing                                              | Prize(s)                                                                    |
-|------------------------------------------------------|:----------------------------------------------------------------------------|
+| Place                                               | Prize(s)                                                                    |
+|------------------------------------------------------|----------------------------------------------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge                             |
 
 ## Organization
 
-The osu! World Cup 2016 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-### Tournament Management
-
-- ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366 "Loctav")
-- ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703 "p3n")
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565 "Deif")
-- ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257 "shARPII")
-
-### Map Selectors
-
-- ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145 "Asahina Momoko")
-- ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405 "Okorin")
-- ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961 "Skystar")
-
-### Commentators
-
-- ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")
-- ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832 "Daikyi")
-- ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat")
-- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983 "Doomsday")
-- ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660 "Evrien")
-- ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656 "juankristal")
-- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz")
-- ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232 "Rime")
-- ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843 "Slainv")
-- ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347 "ztrot")
-
-### Statistician
-
-- ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat")
-- ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766 "Nwolf")
+| Position | Members |
+| -------- | ------- |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366 "Loctav"), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703 "p3n"), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565 "Deif"), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257 "shARPII") |
+| Map Selectors | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145 "Asahina Momoko"), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405 "Okorin"), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961 "Skystar") |
+| Commentators | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe"), ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832 "Daikyi"), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983 "Doomsday"), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660 "Evrien"), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656 "juankristal"), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232 "Rime"), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843 "Slainv"), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347 "ztrot") |
+| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766 "Nwolf") |
 
 ## Links
 
-- [Livestream](https://www.twitch.tv/osulive)
-- [Statistics](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)
 - [Discussion Thread](https://osu.ppy.sh/forum/t/507270)
+- [Livestream](https://www.twitch.tv/osulive)
 - [Stage Recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl) (by Feurigel)
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)**
 
 -----------
 
