@@ -8,7 +8,7 @@ Another week of [Project Loved](https://osu.ppy.sh/community/forums/120) voting 
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Hello everyone! Welcome to the first of two [Project Loved](https://osu.ppy.sh/community/forums/120) showcases for March 2018! Below you'll find handy headers to help you navigate between all 4 modes, as well as videos showcasing each mode done once again by the lovely [Strato](https://osu.ppy.sh/users/6492199). We really hope you enjoy the picks this week; there are incredibly exciting maps up for vote in every game mode!
+Hello everyone! Welcome to the first of two [Project Loved](https://osu.ppy.sh/community/forums/120) showcases for March 2018! Below you'll find handy headers to help you navigate between all 4 modes, as well as videos showcasing each mode done once again by the lovely [Strato](https://osu.ppy.sh/users/6492199). We really hope you enjoy the picks this week; there are incredibly exciting maps up for voting in every game mode!
 
 Without further ado, let's begin!
 
@@ -41,7 +41,7 @@ From the extremely well known mapper [SnowNiNo\_](https://osu.ppy.sh/users/25062
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/fks.jpg)](https://osu.ppy.sh/community/forums/topics/715022)
 
-From the famed top player [Azer](https://osu.ppy.sh/users/2155578) comes [F.K.S.](https://osu.ppy.sh/beatmapsets/276313), a well known technical map of a Sound Voltex song! As you'd probably expect from both the song and the mapper, the map features challenging rhythms and tricky patterns while still remaining accessible to most players due to its lower star rating. Be sure to check out [captin](https://osu.ppy.sh/users/689997)'s absolutely masterful difficulty featuring tricky cutstreams as well, it's one of my favourite captin maps and kind of a hidden gem seeing as it's a guest difficulty!
+From the famed top player [Azer](https://osu.ppy.sh/users/2155578) comes [F.K.S.](https://osu.ppy.sh/beatmapsets/276313), a well known technical map of a Sound Voltex song! As you'd probably expect from both the song and the mapper, the map features challenging rhythms and tricky patterns while still remaining accessible to most players due to its lower star rating. Be sure to check out [captin1](https://osu.ppy.sh/users/689997)'s absolutely masterful difficulty featuring tricky cutstreams as well, it's one of my favourite captin maps and kind of a hidden gem seeing as it's a guest difficulty!
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/bylas-dla-mnie-wszystkim.jpg)](https://osu.ppy.sh/community/forums/topics/715023)
 
@@ -53,11 +53,11 @@ From the extremely popular high star mapper [Settia](https://osu.ppy.sh/users/24
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/aura.jpg)](https://osu.ppy.sh/community/forums/topics/715025)
 
-People who don't know who [Midge](https://osu.ppy.sh/users/2226436) is or have never seen his maps may not fully grasp just how momentus of an occasion this map being up for the Loved vote is. [aura](https://osu.ppy.sh/beatmapsets/281721) is a unique technical map which was shunted and denied ranking at the time of its creation due to its unusual aesthetics and its stylistically extreme flow and appearance. However, this map has endured as a classic set still today, and more than deserves its leaderboard all this time later: #loveaura.
+People who don't know who [Midge](https://osu.ppy.sh/users/2226436) is or have never seen his maps may not fully grasp just how momentous of an occasion this map being up for the Loved vote is. [aura](https://osu.ppy.sh/beatmapsets/281721) is a unique technical map which was shunted and denied ranking at the time of its creation due to its unusual aesthetics and its stylistically extreme flow and appearance. However, this map has endured as a classic set still today, and more than deserves its leaderboard all this time later: #loveaura.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/promise.jpg)](https://osu.ppy.sh/community/forums/topics/715026)
 
-On a much less heavy note, [koreapenguin](https://osu.ppy.sh/users/1458069)'s [Promise](https://osu.ppy.sh/beatmapsets/225049) should be instantly recognizable to any older osu! player as a classic extremely difficult map. Honestly, it still holds up quite well to today's standards for very high star mapping, featuring very challenging yet intuitive square jumps that are sure to beat down anyone not accustomed to playing non 1-2 jump patterns.The map has been updated somewhat recently to raise the AR and OD, but if you'd like the original experience I'd recommend trying to pass this behemoth on AR9 OD7 if you ever feel like an old school challenge!
+On a much less heavy note, [koreapenguin](https://osu.ppy.sh/users/1458069)'s [Promise](https://osu.ppy.sh/beatmapsets/225049) should be instantly recognizable to any older osu! player as a classic extremely difficult map. Honestly, it still holds up quite well to today's standards for very high star mapping, featuring very challenging yet intuitive square jumps that are sure to beat down anyone not accustomed to playing non 1-2 jump patterns. The map has been updated somewhat recently to raise the AR and OD, but if you'd like the original experience or feel like tackling an old school challenge, I'd recommend trying to pass this behemoth on AR9 and OD7!
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/the-empress.jpg)](https://osu.ppy.sh/community/forums/topics/715027)
 
@@ -93,7 +93,7 @@ A personal favorite of mine, in fact, I was such a big fan that I requested to m
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/taiko/akutagawa-overflow.jpg)](https://osu.ppy.sh/community/forums/topics/715047)
 
-One of my favorite things as a captain of Loved is the ability to give certain maps exposure, and make other creators have a level of pride in being featured in this great section we have created over the period it has been introduced. On a personal level, [applerss](https://osu.ppy.sh/users/983349) is one of those people who I will never understand doesn't get the level of exposure that they should. This map features a beautiful, melancholy breakcore interpretation of a touhou track, as well as flawless technical mapping. A map that is worthy of being shared with the world, please give [AKUTAGAW OVERFLOW](https://osu.ppy.sh/beatmapsets/706117) some time out of your day.
+One of my favorite things as a captain of Loved is the ability to give certain maps exposure, and make other creators have a level of pride in being featured in this great section we have created over the period it has been introduced. On a personal level, [applerss](https://osu.ppy.sh/users/983349) is one of those people who I will never understand doesn't get the level of exposure that they should. This map features a beautiful, melancholy breakcore interpretation of a touhou track, as well as flawless technical mapping. A map that is worthy of being shared with the world, please give [AKUTAGAWA OVERFLOW](https://osu.ppy.sh/beatmapsets/706117) some time out of your day.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/taiko/shippuujinrai.jpg)](https://osu.ppy.sh/community/forums/topics/715048)
 
@@ -119,7 +119,7 @@ A quite difficult challenge presented by one of the most memorable NoMod players
 
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-One of the most severly underrated and cleanest maps made by [Arthas](https://osu.ppy.sh/users/3414261) (now known as Razor Sharp) makes a comeback on the loved selection after having been left untouched for almost a year. [This map](https://osu.ppy.sh/beatmapsets/549286) is filled with very straightforward patterning which really compliments the beautiful song that Ice Angel is. It also serves to be quite a challenge to fc, especially when attempted with mods such as hardrock or hidden, so the replayability on this one is great as well. All in all: if you want to be Razor Sharp's little (ice) angel here, go vote!
+One of the most severly underrated and cleanest maps made by [Arthas](https://osu.ppy.sh/users/3414261) (now known as Razor Sharp) makes a comeback on the loved selection after having been left untouched for almost a year. [This map](https://osu.ppy.sh/beatmapsets/549286) is filled with very straightforward patterning which really compliments the beautiful song that Ice Angel is. It also serves to be quite a challenge to FC, especially when attempted with mods such as hardrock or hidden, so the replayability on this one is great as well. All in all: if you want to be Razor Sharp's little (ice) angel here, go vote!
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/eastward.jpg)](https://osu.ppy.sh/community/forums/topics/715057)
 
@@ -137,7 +137,7 @@ An [incredible marathon map](https://osu.ppy.sh/beatmapsets/286386) by [Kyuare](
 
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And yet again here it is in the loved selection. This one has been used in a multitude of tournaments and has also been a very famous pick in multiplayer lobbies for as long as it has existed. The structure of this map is very much like you would imagine from [Spectator](https://osu.ppy.sh/users/702598): very clean, great emphasis on the music (al changes throughout the song), no uncomfortable difficulty spikes and a calming, enjoyable song, it's replayability having been proven by the map's usage throughout various community activities. Even though we can't change the fact the song is called No title, perhaps you can help it become Yes entitled to being loved after voting!
+Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And yet again here it is in the loved selection. This one has been used in a multitude of tournaments and has also been a very famous pick in multiplayer lobbies for as long as it has existed. The structure of this map is very much like you would imagine from [Spectator](https://osu.ppy.sh/users/702598): very clean, great emphasis on the musical changes throughout the song, no uncomfortable difficulty spikes and a calming, enjoyable song, with its replayability having been proven by the map's usage throughout various community activities. Even though we can't change the fact the song is called No title, perhaps you can help it become Yes entitled to being loved after voting!
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
@@ -195,7 +195,7 @@ Is the highest difficulty too difficult for you? That's no problem. There are 2 
 
 We're going into more MWC picks, hooray! Here's one of the most evil charts from MWC 7K 2017 Finals, a collaboration between [Jinjin](https://osu.ppy.sh/users/3360737) and [Evening](https://osu.ppy.sh/users/2193881), [Angelic Party](https://osu.ppy.sh/beatmapsets/560692)!
 
-This 4 minute chart features most of what you can expect from a ridiculously hard chart that tests all skillsets: it has very dense streaming, it has very dense LN patterns, a combination of both, bursts, speedup SVs and nasty slowjams with 6 column inversions, clocking at 8,88 stars, this is a monster a lot of top players will struggle with.
+This 4 minute chart features most of what you can expect from a ridiculously hard chart that tests all skillsets: it has very dense streaming, it has very dense LN patterns, a combination of both, bursts, speedup SVs and nasty slowjams with 6 column inversions, clocking at 8.88 stars, this is a monster a lot of top players will struggle with.
 
 If you're not a fan on LNs, there's always [jakads](https://osu.ppy.sh/users/259972)' difficulty which has no LNs and focuses on stamina and chordstreaming with bursts throughout the entire length of the song.
 
@@ -211,7 +211,7 @@ This map has been used for a few tournaments already, such as MWC 7K 2018, MWC 7
 
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Here we have [17VA](https://osu.ppy.sh/users/1895984), this time with [Flower Flag by FELT](https://osu.ppy.sh/beatmapsets/539088). This map does distinguish from others due to the length and complexity of the patterns. This map starts slowly, with a few chords followed by Long Notes but do not be fooled by this because it gets harder and harder as further you advance into the map until we reach the first kiai section. We can find patterns such as shields, jacks, Long Notes, unconditional Long Note releases and a few but light chordstreams during the intersections of such kiai section. The second kiai is basically the same as the first one but a little bit denser and streamy. After that, a really harsh inverse section comes along with the ending of the map. It does have 4 difficulties going from 1,99 stars to 5,95 so it becomes accessible to everyone.
+Here we have [17VA](https://osu.ppy.sh/users/1895984), this time with [Flower Flag by FELT](https://osu.ppy.sh/beatmapsets/539088). This map does distinguish from others due to the length and complexity of the patterns. This map starts slowly, with a few chords followed by Long Notes but do not be fooled by this because it gets harder and harder as further you advance into the map until we reach the first kiai section. We can find patterns such as shields, jacks, Long Notes, unconditional Long Note releases and a few but light chordstreams during the intersections of such kiai section. The second kiai is basically the same as the first one but a little bit denser and streamy. After that, a really harsh inverse section comes along with the ending of the map. It does have 4 difficulties going from 1.99 stars to 5.95 so it becomes accessible to everyone.
  
 Talking a little about 17VA, he has been mapping since 2014 and he has made 31 (submitted) beatmaps which all of those are Long Note based. His maps are really popular in the 7K mania community, with a lot of favorites and a few of them have actually been used for both unofficial and official tournaments. He also has 2 loved beatmaps so, why not another one? His mapping style is somewhat unique even though it's really o2jam based, the structure that he uses can be distinguishable from other maps. Definitely a map worth enough for Loved.
 
