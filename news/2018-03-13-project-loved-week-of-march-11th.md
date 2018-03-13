@@ -49,7 +49,7 @@ From notable mapper [fartownik](https://osu.ppy.sh/users/56917) comes the highly
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/walk-this-way.jpg)](https://osu.ppy.sh/community/forums/topics/715024)
 
-From the extremely popular high star mapper [Settia](https://osu.ppy.sh/users/2445897) comes [Walk This Way](https://osu.ppy.sh/beatmapsets/339394), an appropriately challenging beatmap that will push your aim to its limits! The map features highly structured geometric jumps which are both comfortable to play as well as satisfying to hit. Are you strong enough to clear this brutal map 260 BPM map?
+From the extremely popular high star mapper [Settia](https://osu.ppy.sh/users/2445897) comes [Walk This Way](https://osu.ppy.sh/beatmapsets/339394), an appropriately challenging beatmap that will push your aim to its limits! The map features highly structured geometric jumps which are both comfortable to play as well as satisfying to hit. Are you strong enough to clear this brutal 260 BPM map?
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/aura.jpg)](https://osu.ppy.sh/community/forums/topics/715025)
 
