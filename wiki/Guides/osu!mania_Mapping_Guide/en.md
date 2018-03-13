@@ -109,7 +109,7 @@ I also would like to show you a little program that can be really helpful to fin
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/TimingSetup.png "Timing Setup")
+![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
 | Name | Description |
 | ---- | ----------- |
