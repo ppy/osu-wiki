@@ -3,7 +3,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ![SOFT3 Banner](banner.jpg)
 
-> 3rd times the charm!
+> Third time's the charm!
 
 **SOFT**, short for **Springtime Osu!mania Free-for-all Tournament**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, it is a 4 key tournament.
 
@@ -28,7 +28,7 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 ## Prizes
 
-*To be determinated*
+*To be determined*
 
 ## Organization
 
@@ -45,15 +45,13 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 ## Links
 
-- [Discussion thread](/community/forums/posts/6449304)
+- [Discussion Thread](/community/forums/posts/6449304)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [Challonge](https://challonge.com/SOFT3r)
 
 ## Participants
 
 ### Qualified Participants
-
-*Note: This list is ordered by his overall seed number*
 
 | Seed | Users |
 | --- | --- |
@@ -272,7 +270,7 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 ### Qualifiers
 
-The results of the qualifiers can be found on [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml).
+The results of the qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml).
 
 ## Rules
 
@@ -280,60 +278,60 @@ The results of the qualifiers can be found on [this link](https://docs.google.co
 
 #### Qualification Process
 
-- All players that enter the tournament will be eligible to play in the qualification round; however, participants cut down to a power of 2. **The maximum number of players to advance into the post-qualification stage is 128**.
+- All players that enter the tournament will be eligible to play in the qualification round; however, participants are cut down to a power of 2. **The maximum number of players to advance into the post-qualification stage is 128**.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
-  - If 33 players enter, the lowest individual gets eliminated and the top 32 go on.
-  - If 49 players enter, the lowest 17 individuals get eliminated and the top 32 go on.
-  - If 63 players enter, the lowest 31 individuals get eliminated and the top 32 go on.
+  - If 33 players enter, the lowest individual gets eliminated and the top 32 move on.
+  - If 49 players enter, the lowest 17 individuals get eliminated and the top 32 move on.
+  - If 63 players enter, the lowest 31 individuals get eliminated and the top 32 move on.
   - If 64 players enter, all 64 players will qualify and no one gets eliminated.
-  - If 127 players enter, the lowest 63 individuals get eliminated and the top 64 go on.
+  - If 127 players enter, the lowest 63 individuals get eliminated and the top 64 move on.
 
 
 - The qualification round will have a 4 song mini-pool that varies widely in difficulty. Each map will be assigned a tier, with tier 1 being the lowest difficulty, and tier 4 being the highest difficulty.
 
 - **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualifier, to provide 0 opportunity for advantage through familiarity**.
 
-- All players will have two chances at each qualifier, making a qualifying session 8 songs total, where the highest of the two runs on each qualifier will be tabulated and cumulated for your final score.
+- All players will have two chances at each qualifier map, making a qualifying session 8 songs total, where the highest of the two runs on each qualifier map will be tabulated and cumulated for your final score.
 
-- Players will be organized in groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once, streamlining the process. If this is a confusing process, do not worry if you do not understand: simply adhere to the schedule put out and follow referee instructions during the match. The purpose of putting you guys in groups of 8 is to give everyone streaming time, as qualifiers will be streamed as well!
+- Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once, streamlining the process. If this is a confusing process, do not worry: simply adhere to the schedule put out and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, as qualifiers will be streamed as well!
 
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their cumulative score from all four songs, with the best score being seed \#1, and the worst score being seed n, with n being the number of players to clear the qualification stage.
 
-- The score system we will be using this time is **Score V2** in all the rounds. The total of the four songs played will accumulate to your final qualification score.
+- The scoring system we will be using this time is **Score V2** in all the rounds. The total of the four songs played will cumulate to your final qualification score.
 
 #### Post-Qualification
 
-- The round post-qualification will be a SINGLE ELIMINATION bracket stage with specific rules. Those who advance during this post-qualification stage (or second qualification) will be placed with 3 different players (with a total of 4 players) in a group.
+- The round post-qualification will be a SINGLE ELIMINATION bracket stage with specific rules. Those who advance during this post-qualification stage (or second qualification) will be placed with 3 additional players (with a total of 4 players) in a group.
 
-- After the first qualification round the remaining 128 (or 64, depending on the registrations) players will be placed in 4 DIFFERENT GROUPS determined by their seeds during the first round of qualification.
-  - **Top16**: The top 16 seeds of the first qualification stage will advance directly into the group stage and they wont play the second round of qualification or post-qualification stage. This teams will be the top seeded teams of the group in all the cases.
+- After the first qualification round, the remaining 128 (or 64, depending on the registrations) players will be placed in 4 DIFFERENT GROUPS determined by their seeds during the first round of qualification.
+  - **Top16**: The top 16 seeds of the first qualification stage will advance directly into the group stage and they won't play the second round of qualification or post-qualification stages.
 
-  - **17°-32° seeds**: Those who get this seeds will get guaranteed High-Seed in the group stage if they manage to advance further into the tournament but they will have to play and win one match in order to qualify to it.
+  - **17°-32° seeds**: Those who get this seed will be guaranteed the High-Seed spot in the group stage if they manage to advance further into the tournament but they will have to play and win one match in order to qualify to it.
 
-  - **33°-96° seeds**: This players will have to play once as well but they will play against each other (example, seed 33 plays against seed 96) and the winners of those matchups will advance and depending on who ends up qualified their seed of the qualification stage will determinate their seeds in the group stage.
+  - **33°-96° seeds**: These players will have to play once as well but they will play against each other (example, seed 33 plays against seed 96) and the winners of those matchups will advance and depending on who ends up qualified, their seed of the qualification stage will determinate their seeds in the group stage.
 
   - **97°-128° seeds**: Those who end up in the last spots will be forced to play 2 MATCHES instead of one if they want to qualify into the group stage. The first match will be once again a single elimination between themselves (for example, seed 97 against seed 128) and the second one will be against those who ended up being in the 17°-32° seeds for a spot in the group stage.
 
 
-- At the end, your seed determinates your seed in the group stage and it the sorting will all be seed dependent.
+- At the end, your seed determinates your seed in the group stage and the sorting will all be seed dependent.
 
 - To reiterate, *the number of players entered in the tournament determines the number of players to move on past the qualification period*.
 
 #### Group Stage
 
-- Following the qualification process will be a group stage tournament style that transitions to a double-elimination. The groups will be made of 4 players each and they will be a number of 16 groups (or 8, depending on the amount of players registrated).
+- Following the qualification process will be a group stage tournament style that transitions to a double-elimination. The groups will be made of 4 players each and there will be a number of 16 groups (or 8, depending on the amount of players registrated).
 
 ### Tournament Play
 
 #### Protocol
 
-- All matches must have a referee that is listed in the staff section of this tournament unless otherwise noted by myself.
+- All matches must have a referee that is listed in the staff section of this tournament unless otherwise noted by myself (*juankristal*).
 
 - For maximal accountability on myself and my staff, each match will have a primary referee and a back-up referee in the event that the primary cannot make the match. This way we ensure you that there will be someone there to handle your tournament match.
 
-- Overlaps between matches in dense stages might and will happen and because of that streaming every single map is just literally not doable. Even still, we will do our best job to get stream time for everyone.
+- Overlaps between matches in dense stages might and will happen and because of that, streaming every single map is just not doable. Even then, we will do our best job to get stream time for everyone.
 
-- Matches will be listed in time blocks of a certain duration depending on the stage. If it is required the match schedules will consider running them for more time (for example, the finals will likely be scheduled to last for 1:30 hours).
+- Matches will be listed in time blocks of a certain duration depending on the stage.
 
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
   - This means that rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
@@ -358,7 +356,7 @@ The results of the qualifiers can be found on [this link](https://docs.google.co
 
 
 - ***It is our right as tournament staff to reprimand users for intolerable behavior***.
-  - I (*juankristal*) will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so please -- do everyone (and yourself) a favor and just be respectful.
+  - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so please -- do everyone (and yourself) a favor and be respectful.
 
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
@@ -372,9 +370,9 @@ The results of the qualifiers can be found on [this link](https://docs.google.co
 
 - Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
 
-- Warm-up songs will be on free mode, allowing for any special modifications that you see fit for the purpose of warming up properly.
+- Warm-up songs will be on FreeMod, allowing for any special modifications that you see fit for the purpose of warming up properly.
 
-- In early stages your Warm-up cant be longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
+- In the early stages, your Warm-up cant be longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
 #### Bans, Rolls and Song Selection
 
@@ -384,7 +382,7 @@ The results of the qualifiers can be found on [this link](https://docs.google.co
 
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first banned song, while the winning roll picks the first song of the match.
 
-- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick songs, and this process will continue until one of the two conditions is satisfied:
+- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
 
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
 
