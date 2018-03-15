@@ -51,6 +51,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | Nama                                             | Mulai      | Selesai    | Mode | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 4K | ![][flag_KR] Korea Selatan      | ![][flag_PH] Filipina  ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 7K | ![][flag_KR] Korea Selatan      | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13-07-2015 | 27-09-2015 | 4K | ![][flag_US] Amerika Serikat    | ![][flag_JP] Jepang | ![][flag_GB] Britania Raya |
@@ -59,6 +60,8 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 12-12-2016 | 12-02-2017 | 7K | ![][flag_KR] Korea Selatan      | ![][flag_CN] Cina | ![][flag_ID] Indonesia |
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 10-07-2017 | 17-09-2017 | 4K | ![][flag_KR] Korea Selatan      | ![][flag_US] Amerika Serikat | ![][flag_BR] Brasil |
 =======
+=======
+>>>>>>> 137fd02fa6a698213a1bf2cbe520375c2c2d8fbe
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 4K | ![][flag_KR] Korea Selatan  | ![][flag_PH] Filipina | ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 7K | ![][flag_KR] Korea Selatan  | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13-07-2015 | 27-09-2015 | 4K | ![][flag_US] USA            | ![][flag_JP] Jepang | ![][flag_GB] Britania Raya |
