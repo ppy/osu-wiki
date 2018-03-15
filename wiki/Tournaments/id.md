@@ -50,7 +50,7 @@ osu! World Cup (Pertandingan osu! Kancah Dunia) adalah sebuah turnamen berbasis 
 
 | Nama                                             | Mulai      | Selesai    | Mode | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 4K | ![][flag_KR] Korea Selatan  | ![][flag_PH] Filipina  ![][flag_MY] Malaysia |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 4K | ![][flag_KR] Korea Selatan  | ![][flag_PH] Filipina | ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01-07-2014 | 14-09-2014 | 7K | ![][flag_KR] Korea Selatan  | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13-07-2015 | 27-09-2015 | 4K | ![][flag_US] USA            | ![][flag_JP] Jepang | ![][flag_GB] Britania Raya |
 | [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 01-12-2015 | 14-02-2016 | 7K | ![][flag_CN] China          | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia |
