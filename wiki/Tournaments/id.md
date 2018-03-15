@@ -1,7 +1,7 @@
 Turnamen
 ===============
 
-Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum Di sini.](https://osu.ppy.sh/forum/55)
+Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum di sini.](https://osu.ppy.sh/forum/55)
 
 Turnamen Resmi Tingkat Dunia
 --------------------------------------------------
