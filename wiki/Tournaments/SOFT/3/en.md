@@ -376,7 +376,7 @@ The results of the qualifiers can be found via [this link](https://docs.google.c
 
 #### Bans, Rolls and Song Selection
 
-- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding map pool. Maps are to be played on a restrictive Free Mod: only Hidden, Fade In, or Flashlight can be used.
+- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding map pool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 
