@@ -903,6 +903,11 @@
 "qat":                             "People/Quality_Assurance_Team"
 "qat_blog":                        "People/Quality_Assurance_Team/Blog"
 
+"staff_log": "People/Staff_Log"
+"staff_promotion/retirement_log": "People/Staff_Log"
+"staff_promotion_log": "People/Staff_Log"
+"staff_retirement_log": "People/Staff_Log"
+
 "support_team":                    "People/Support_Team"
 "support_team_redux":              "People/Support_Team"
 "st":                              "People/Support_Team"
