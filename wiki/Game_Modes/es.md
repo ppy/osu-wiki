@@ -20,25 +20,24 @@
 
 ## Modos de juego oficiales
 
-Aquí están los modos de juego disponibles en osu!:-
+Aquí están los modos de juego disponibles en osu!:
 
 - ![Icono de osu!][osu! icon link] _[osu!standard/osu!][osu! wikilink]_:
   Basado en _[Osu! Tatakae! Ouendan][ouendan wikipedia]_.
   Toca, desliza y gira al ritmo.
 - ![Icono de osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_:
   Basado en _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_.
-  Toca, y ruede el tambor taiko al ritmo.
+  Toca, y rueda el tambor taiko al ritmo.
 - ![Icono osu!catch][osu!catch icon link] _[osu!catch][osu!catch wikilink]_:
-  Recoge las frutas que caen moviendo el colector con un plato.
-  Sigue bailando y no te pierdas el paso del ritmo.
+  Recoge las frutas que caen moviendo el receptor con un plato. Sigue bailando y no te pierdas el paso del ritmo.
 - ![Icono osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
-  Basado en juegos de ritmo tipo transportador, principalmente introducido e implementado por **woc2006**.
+  Basado en juegos de ritmo tipo transportador, introducido e implementado principalmente por **woc2006**.
   Haz que las notas toquen una melodia al ritmo.
+  
+Para obtener una explicación general de los modos de juego anteriores, consulta: [FAQ][FAQ wikilink].
 
-Para una explicación general de los modos de juego anteriores, consulta: [FAQ][FAQ wikilink].
+## Adaptaciones externas
 
-## Puertos externos
-
-Ports jugables de los modos de juego de osu!
+Adaptaciones jugables de los modos de juego de osu!
 
 [Haz clic aquí para visitar la página Puertos externos][External Ports wikilink]
