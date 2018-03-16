@@ -8,11 +8,11 @@ As announced with [Trial & Error's release](https://osu.ppy.sh/home/news/2018-03
 
 ![](/wiki/shared/news/2018-03-18-featured-artist-track-updates/banner.jpg)
 
-Without further ado, let's get stuck in to the new tracks:
+Without further ado, let's dive into what's now available:
 
 ## IAHN
 
-We've got **four** new tracks lined up from IAHN in his classic electronic style. [Check out his Featured Artist listing for the downloads!](https://osu.ppy.sh/beatmaps/artists/3)
+We've got **four** new tracks lined up from IAHN in his classic electronic style. [Check out his Featured Artist listing for the download links and more info!](https://osu.ppy.sh/beatmaps/artists/3)
 
 ### All In One
 
@@ -56,7 +56,7 @@ We've got **four** new tracks lined up from IAHN in his classic electronic style
 
 ## Helblinde
 
-Though we've come to learn that Helblinde has retired from releasing under this alias for now, we're proud to help keep his legacy alive with the release of his last EP *Omnia Vanitas*, sporting **four** new tracks to test your mapping mettle against.
+We're delighted to offer mappers the tracks from *Omnia Vanitas*, Helblinde's latest EP, offering **four** new songs to test your mapping mettle with.
 
 Do you have what it takes to bend these tracks to your will? [Check out Helblinde's Featured Artist listing for download links and more information!](https://osu.ppy.sh/beatmaps/artists/5)
 
@@ -168,9 +168,7 @@ Back again under the Thaehan alias with his latest EP, *OMGWTF !*, osu!'s favour
 
 We're still hard at work trying to acquire the remainder of Rin's absurdly excellent musical lineup, including tracks from his Ocelot alias and the rest of his Function Phantom works.
 
-In addition, there's also over four sets of House mixes we've yet to release, many of which that have been featured on the osulive World Cup streams as backing tracks.
-
-For now, we have only **one** track to offer from his Function Phantom alias, but boy is it a good one!
+For now, we have only **one** track to offer from his Function Phantom alias, but boy, is it a good one!
 
 ### Variable (Function Phantom)
 
@@ -180,11 +178,11 @@ For now, we have only **one** track to offer from his Function Phantom alias, bu
 
 ## Fractal Dreamers
 
-The journey continues on through the soundscapes of the Fractal Dreamers, and we're proud to announce that a selection of tracks from their latest EP, *Everything For A Dream* are now available as a part of this update.
+The journey continues on through the soundscapes of the Fractal Dreamers, and we're proud to announce that a selection of tracks from their latest EP, *Everything For A Dream* is now available as a part of this update.
 
 If you've been watching the MWC7K World Cup, you might already be familiar with *Fata Morgana* - as an ending snippet is featured as the 'applause' finisher at the end of each match.
 
-This means **eight** brand new tracks of varying intensity and composition to play around with. [Check out the Fractal Dreamers Featured Artist listing for more information, and for download links!](https://osu.ppy.sh/beatmaps/artists/15)
+This means **eight** brand new tracks of varying intensity and composition to play around with. [Check out the Fractal Dreamers Featured Artist listing for more information, and download links!](https://osu.ppy.sh/beatmaps/artists/15)
 
 ### Blue Haven
 
