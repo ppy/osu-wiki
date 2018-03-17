@@ -4,11 +4,11 @@ title: "New Mappers' Guild Pack Now Available"
 date: 2018-03-17 10:00:00 +0000
 ---
 
-Straight from some of the Guild's finest mappers, we're proud to present a brand new beatmap pack and shiny new medal to accompany it! Check out some of the latest maps set to some of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists)!
+Straight from some of the Guild's finest mappers, we're proud to present a brand new beatmap pack and a shiny new medal to accompany it! Check out some of the latest maps set to some of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists)!
 
 ![](/wiki/shared/news/2018-03-17-new-mappers-guild-pack-release/banner.jpg)
 
-The Mappers' Guild has been hard at work since the beginning of the year, with the first set of **8** new beatmaps finally available to showcase their efforts.
+The Mappers' Guild has been working hard since the beginning of the year, with the first set of **8** new beatmaps finally available to showcase their efforts.
 
 ![](/wiki/shared/news/2018-03-17-new-mappers-guild-pack-release/listing.jpg)
 
