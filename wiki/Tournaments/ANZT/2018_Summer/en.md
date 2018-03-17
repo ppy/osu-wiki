@@ -161,7 +161,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/b/418139)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/b/152199)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (mapper) \[Timeless\]](https://osu.ppy.sh/b/985004)
+  - [Halozy - Kanshou no Matenrou (Lasse) \[Timeless\]](https://osu.ppy.sh/b/985004)
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
