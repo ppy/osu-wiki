@@ -219,6 +219,31 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ### Finals - Week 2
 
+**[Download all](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
+
+- NoMod
+  - [mafumafu - Revenge Syndrome (Rizia) \[Reunion\]](https://osu.ppy.sh/b/1162811)
+  - [Hanatan - Kogitsune no Ran (Awaken) \[Helheimsk\]](https://osu.ppy.sh/b/421257)
+  - [Memme - Cherry Blossom (xLolicore-) \[Flower Dance\]](https://osu.ppy.sh/b/1519282)
+  - [Rohi - Kanata ni Mau ha Sakura no Senritsu (AmamiyaYuko) \[Regou's Extra\]](https://osu.ppy.sh/b/1512325)
+  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[Extra\]](https://osu.ppy.sh/b/281632)
+  - [Awake - Supernova (wa_) \[Princess From The Moon\]](https://osu.ppy.sh/b/1405979)
+- Hidden
+  - [Hige Driver - Palette (Jounzan) \[Moonlight\]](https://osu.ppy.sh/b/1505568)
+  - [Rita - Dream Walker (Amamiya Yuko) \[Dailycare's INFINITE\]](https://osu.ppy.sh/b/1109972)
+- HardRock
+  - [Yanni - With an Orchid (ts8zs) \[AR233\]](https://osu.ppy.sh/b/220804)
+  - [FELT - crescent moon (Meg) \[Insane\]](https://osu.ppy.sh/b/594307)
+- DoubleTime
+  - [Choucho - When the First Love Ends (MeLLoN) \[Lunatic\]](https://osu.ppy.sh/b/105531)
+  - [School Food Punishment - flashback trip syndrome (Damnae) \[Beren & Blove's Insane\]](https://osu.ppy.sh/b/153631)
+- FreeMod
+  - [REDALiCE - FLOWER REDALiCE Remix (Jenny) \[black another\]](https://osu.ppy.sh/b/1433158)
+  - [Himeringo - Idola no Circus (cRyo[iceeicee]) \[Avxo\]](https://osu.ppy.sh/b/796307)
+  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[BakaNA\]](https://osu.ppy.sh/b/214248)
+- Tiebreaker
+  - [Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/b/1460627)
+
 ------------------------------------------------------------------------
 ## Results
 Results of the main bracket can be found [Here](http://anzttournaments.challonge.com/o1fs6s1q)
