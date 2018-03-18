@@ -205,6 +205,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2018-03-18 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
 | China ![][flag_CN] | 4 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40933215) |
 | South Korea ![][flag_KR] | 7 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
 
