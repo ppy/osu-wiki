@@ -5,9 +5,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 > Third time's the charm!
 
-**SOFT**, short for **Springtime Osu!mania Free-for-all Tournament**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, it is a 4 key tournament.
-
-There are no prerequisites for entering this tournament! You can enter from any country, with any rank or performance points. Read on to see if this tournament is a good choice for you!
+**SOFT 3**, short for **Springtime Osu!mania Free-for-all Tournament 3**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, it is a 4 key tournament.
 
 ## Tournament Schedule
 
@@ -85,6 +83,25 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (55.36 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
+
+- FreeMod
+  - [Sir.Vixx - Whore (Xay) [Insane]](https://osu.ppy.sh/b/1240925)
+  - [Girls' Generation - Gee (Couil) [Easy LNs]](https://osu.ppy.sh/b/1557379)
+  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) [LN]](https://osu.ppy.sh/b/1489611)
+  - [Kozato - 45nen no Yukizakura (Amayukki) [\_UJ's Sakura]](https://osu.ppy.sh/b/820516)
+  - [goreshit - o'er the flood (Shoegazer) [deluge]](https://osu.ppy.sh/b/1552320)
+  - [Porter Robinson - Natural Light (SitekX) [Diffraction]](https://osu.ppy.sh/b/1222575)
+  - [cYsmix - Arcade Busters (Raveille) [Number Busting]](https://osu.ppy.sh/b/1460752)
+  - [U1 overground - Dopamine (Abraxos) [(11b)-11,17,21-trihydroxypregn-4-ene-3,20-dione]](https://osu.ppy.sh/b/1305530)
+  - [encX - One Day (Lenfried-) [4K SV]](https://osu.ppy.sh/b/1413835)
+  - [Cardboard Box - Infernoplextratone (pikechu) [Challenge]](https://osu.ppy.sh/b/940381)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) [Another]](https://osu.ppy.sh/b/1428368)
+- Tiebreaker
+  - [Chroma - Hoshi ga Furanai Machi (Guilhermeziat) [Shooting Stars]](https://osu.ppy.sh/b/1578514)
+
 ### Group Stage
 
 **[Download the mappack here! (53.63 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0)**
@@ -132,6 +149,8 @@ There are no prerequisites for entering this tournament! You can enter from any 
 ## Match Results
 
 ### Group Stage
+
+Detailed results of the Group Stage can be found via [this link](https://goo.gl/FfQfZi).
 
 | Friday, 2018-03-09 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -184,7 +203,69 @@ There are no prerequisites for entering this tournament! You can enter from any 
 | **Tidek** ![][flag_PL]          | **4** | 1 | ![][flag_US] Chrubble         | |
 | **Dawt** ![][flag_CA]           | **4** | 1 | ![][flag_US] RemiFlan         | |
 
+| Saturday, 2018-03-17 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **SurfChu85** ![][flag_PH]     | **4** | 0 | ![][flag_FR] Tantei B           | WBD |
+| **Minisora** ![][flag_MY]      | **4** | 0 | ![][flag_ID] Lafreniere         | WBD |
+| **Minisora** ![][flag_MY]      | **4** | 1 | ![][flag_PH] joseee-            | |
+| \[ Vento \] ![][flag_SE]       | 0 | **4** | ![][flag_AU] **PotassiumF**     | WBD |
+| **Minisora** ![][flag_MY]      | **4** | 1 | ![][flag_BE] yetified           | |
+| \[ Vento \] ![][flag_SE]       | 0 | **4** | ![][flag_SG] **Raveille**       | WBD |
+| Lusty Platypus ![][flag_AU]    | 2 | **4** | ![][flag_ID] **lombit**         | |
+| yetified ![][flag_BE]          | 3 | **4** | ![][flag_PH] **joseee-**        | |
+| **pikechu** ![][flag_CN]       | **4** | 0 | ![][flag_FI] -Oreo-             | WBD |
+| Mage ![][flag_RU]              | 1 | **4** | ![][flag_ID] **lombit**         | |
+| **WalterToro** ![][flag_CL]    | **4** | 0 | ![][flag_CN] pikechu            | |
+| Mage ![][flag_RU]              | 0 | **4** | ![][flag_AU] **Lusty Platypus** | |
+| **RemFangirl** ![][flag_ID]    | **4** | 0 | ![][flag_FR] Elementaires       | WBD |
+| **aitor98** ![][flag_ES]       | **4** | 0 | ![][flag_FI] -Oreo-             | |
+| **TheToaphster** ![][flag_US]  | **4** | 0 | ![][flag_RU] Mage               | |
+| **WalterToro** ![][flag_CL]    | **4** | 0 | ![][flag_FI] -Oreo-             | |
+| **RemFangirl** ![][flag_ID]    | **4** | 0 | ![][flag_US] Neuro-             | |
+| **Couil** ![][flag_SE]         | **4** | 1 | ![][flag_PL] Cyan\_Star         | |
+| **aitor98** ![][flag_ES]       | **4** | 0 | ![][flag_CL] WalterToro         | |
+| **Couil** ![][flag_SE]         | **4** | 2 | ![][flag_US] dhn                | |
+| **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_FR] Koiidex            | |
+| Couil ![][flag_SE]             | 0 | **4** | ![][flag_CA] **Panshow**        | |
+| dhn ![][flag_US]               | 0 | **4** | ![][flag_PL] **Cyan\_Star**     | WBD |
+| **Panshow** ![][flag_CA]       | **4** | 0 | ![][flag_PL] Cyan\_Star         | |
+| **Panshow** ![][flag_CA]       | **4** | 0 | ![][flag_US] dhn                | WBD |
+| **andreymc** ![][flag_BR]      | **4** | 3 | ![][flag_US] DJKhaled           | |
+| **Lothus** ![][flag_BR]        | **4** | 1 | ![][flag_US] HeZeus             | |
+| Elementaires ![][flag_FR]      | 0 | **4** | ![][flag_AU] **-Xenovia-**      | WBD |
+| **TheToaphster** ![][flag_US]  | **4** | 0 | ![][flag_AU] Lusty Platypus     | |
+
+| Sunday, 2018-03-18 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Neuro-** ![][flag_US]       | **4** | 0 | ![][flag_AU] -Xenovia-        | |
+| **HeZeus** ![][flag_US]       | **4** | 2 | ![][flag_CA] CommandoBlack    | |
+| Rythze ![][flag_CL]           | 0 | **4** | ![][flag_AU] PotassiumF       | WBD |
+| **Dawt** ![][flag_CA]         | **4** | 0 | ![][flag_PH] SurfChu85        | |
+| **RemiFlan** ![][flag_US]     | **4** | 1 | ![][flag_PH] SurfChu85        | |
+| **DJKhaled** ![][flag_US]     | **4** | 1 | ![][flag_TH] - \[ Yuki \] -   | |
+| Raveille ![][flag_SG]         | 3 | **4** | ![][flag_AU] **PotassiumF**   | |
+| **DJKhaled** ![][flag_US]     | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray     | WBD |
+| **RemFangirl** ![][flag_ID]   | **4** | 0 | ![][flag_AU] -Xenovia-        | |
+| **joseee-** ![][flag_PH]      | **4** | 0 | ![][flag_ID] Lafreniere       | WBD |
+| **inteliser** ![][flag_JP]    | **4** | 0 | ![][flag_PL] \_underjoy       | |
+| **inteliser** ![][flag_JP]    | **4** | 1 | ![][flag_JP] AMDuskia1996     | |
+| **yetified** ![][flag_BE]     | **4** | 0 | ![][flag_ID] Lafreniere       | WBD |
+| **aitor98** ![][flag_ES]      | **4** | 1 | ![][flag_CN] pikechu          | |
+| **inteliser** ![][flag_JP]    | **4** | 0 | ![][flag_PL] Moskas           | |
+| **Rythze** ![][flag_CL]       | **4** | 1 | ![][flag_SG] Raveille         | |
+| \_underjoy ![][flag_PL]       | 1 | **4** | ![][flag_JP] **AMDuskia1996** | |
+| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_PL] Moskas           | |
+| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_ID] lombit           | WBD |
+| **HeZeus** ![][flag_US]       | **4** | 0 | ![][flag_FR] Koiidex          | |
+| \_underjoy ![][flag_PL]       | 3 | **4** | ![][flag_PL] **Moskas**       | |
+| **Lothus** ![][flag_BR]       | **4** | 0 | ![][flag_FR] Koiidex          | |
+| \[ Vento \] ![][flag_SE]      | 0 | **4** | ![][flag_CL] **Rythze**       | WBD |
+| **Lothus** ![][flag_BR]       | **4** | 0 | ![][flag_CA] CommandoBlack    | |
+| Elementaires ![][flag_FR]     | 0 | **4** | ![][flag_US] **Neuro-**       | WBD |
+
 ### Playoffs
+
+Detailed results of the Playoffs can be found via [this link](https://goo.gl/CGgypm).
 
 | Wednesday, 2018-02-21 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -192,18 +273,18 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 | Saturday, 2018-02-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| **sleetgirl** ![][flag_JP]      | **4** | 1 | ![][flag_AU] -Xenovia-    | |
-| **pikechu** ![][flag_CN]        | **4** | 2 | ![][flag_MY] never214     | |
-| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] _dk          | WBD |
-| **lombit** ![][flag_ID]         | **4** | 1 | ![][flag_ES] Nyanpasuuu   | |
-| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty        | WBD |
-| **Kroly-** ![][flag_PL]         | **4** | 0 | ![][flag_PH] Kaleiodo     | WBD |
-| **joseee-** ![][flag_PH]        | **4** | 1 | ![][flag_BR] Zergh        | |
-| **bananacake304** ![][flag_PH]  | **4** | 1 | ![][flag_PL] Brunosky     | |
-| Natty2708 ![][flag_GB]          | 1 | **4** | ![][flag_IT] **Enjoy-**   | |
-| **yetified** ![][flag_BE]       | **4** | 2 | ![][flag_ZA] Cyrosu       | |
-| **CommandoBlack** ![][flag_CA]  | **4** | 1 | ![][flag_PL] ArchGMSati   | |
-| BlankPxl ![][flag_GB]           | 2 | **4** | ![][flag_AR] **BubShish** | |
+| sleetgirl ![][flag_JP]          | 0 | **4** | ![][flag_AU] **-Xenovia-** | |
+| **pikechu** ![][flag_CN]        | **4** | 2 | ![][flag_MY] never214      | |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk          | WBD |
+| **lombit** ![][flag_ID]         | **4** | 1 | ![][flag_ES] Nyanpasuuu    | |
+| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty         | WBD |
+| **Kroly-** ![][flag_PL]         | **4** | 0 | ![][flag_PH] Kaleiodo      | WBD |
+| **joseee-** ![][flag_PH]        | **4** | 1 | ![][flag_BR] Zergh         | |
+| **bananacake304** ![][flag_PH]  | **4** | 1 | ![][flag_PL] Brunosky      | |
+| Natty2708 ![][flag_GB]          | 1 | **4** | ![][flag_IT] **Enjoy-**    | |
+| **yetified** ![][flag_BE]       | **4** | 2 | ![][flag_ZA] Cyrosu        | |
+| **CommandoBlack** ![][flag_CA]  | **4** | 1 | ![][flag_PL] ArchGMSati    | |
+| BlankPxl ![][flag_GB]           | 2 | **4** | ![][flag_AR] **BubShish**  | |
 
 | Sunday, 2018-02-25 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -270,7 +351,7 @@ There are no prerequisites for entering this tournament! You can enter from any 
 
 ### Qualifiers
 
-The results of the qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml).
+The results of the Qualifiers can be found via [this link](https://goo.gl/TC4A91).
 
 ## Rules
 
