@@ -4,11 +4,11 @@ title: "Featured Artist Track Updates"
 date: 2018-03-18 05:00:00 +0000
 ---
 
-As announced with [Trial & Error's release](https://osu.ppy.sh/home/news/2018-03-06-new-featured-artist-trial-and-error), we're proud to present **thirty** new tracks from for our existing Featured Artists, including [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [yuki.](https://osu.ppy.sh/beatmaps/artists/4), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [dark cat](https://osu.ppy.sh/beatmaps/artists/6), [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7), [Rin/Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) and the [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15)!
+As announced with [Trial & Error's release](https://osu.ppy.sh/home/news/2018-03-06-new-featured-artist-trial-and-error), we're proud to present **thirty** new tracks from some of our amazing Featured Artists, including [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [yuki.](https://osu.ppy.sh/beatmaps/artists/4), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [dark cat](https://osu.ppy.sh/beatmaps/artists/6), [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7), [Rin/Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) and the [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15)!
 
 ![](/wiki/shared/news/2018-03-18-featured-artist-track-updates/banner.jpg)
 
-Without further ado, let's dive into what's now available:
+Without further ado, let's dive into what's new:
 
 ## IAHN
 
