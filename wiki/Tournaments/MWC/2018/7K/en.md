@@ -56,22 +56,6 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Sunday, 2018-03-18
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| China       | ![][flag_CN] | ![][flag_MY] | Malaysia | **10:00 UTC**  | 18:00 UTC +8  | 18:00 UTC +8 | ¹ |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **12:30 UTC**  | 21:30 UTC +9  | 20:30 UTC +8 | ² |  
-| South Korea | ![][flag_KR] | ![][flag_CN] | China    | **12:30 UTC**  | 21:30 UTC +9  | 20:30 UTC +8 | ² |
-
- ¹ 3rd place encounter 
- 
- ² Grand Finals Encounter dependent on results of ²3rd place encounter
-
-------------------------------------------------------------------------
-
 ## Participants
 
 ### Confirmed rosters
@@ -102,6 +86,10 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Luxsus_](https://osu.ppy.sh/users/2419363), [\[ - J a c K - \]](https://osu.ppy.sh/users/2880426), [- Hibiki](https://osu.ppy.sh/users/7808720) |
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Pope Gadget](https://osu.ppy.sh/users/2288341), [Traps are Cute](https://osu.ppy.sh/users/3359035), [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
+
+------------------------------------------------------------------------
+
+![Winner Podium](Podium.png)
 
 ------------------------------------------------------------------------
 
@@ -213,6 +201,12 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-03-18 | | | | |
+| China ![][flag_CN] | 4 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40933215) |
+| South Korea ![][flag_KR] | 7 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
 
 ### Finals
 
