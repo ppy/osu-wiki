@@ -22,7 +22,7 @@ First off, do not ask this in the forums; otherwise, your thread will most likel
 
 ### Can I use a skinned element from someone else's skin?
 
-Yes, you can use skinning elements from other skins. These are called "mixed skins" or "skin mashups". However, **you are not allowed post these on the skinning subforum with or without permission!** You could, however, post them in your signature or me! page.
+Yes, you can use skinning elements from other skins. These are called "mixed skins" or "skin mashups". However, **you are not allowed post these on the skinning subforum with or without permission!** You could, however, post them in your signature or me! userpage.
 
 The only exception to this are sounds, as they are typically harder to make. These can be used from other skins, even without explicit permission from the original skinner. It would, however, be nice of you to credit the original skinner.
 
@@ -50,23 +50,6 @@ In osu!, there are over 200 skinnable elements (not including the individual ani
 
 That being said, a skinning set (defined by the Ranking Criteria) basically states which elements must be skinned if one of them in the set were skinned. For example, the player using your skin may not like it if you had only skinned only half of the default numbers and left the others as to use their defaults. However, this only strictly applies to beatmap skinning but you may want to take this into account for you own skin.
 
-### What are normal, simplified, and PRO skins?
-
-These are the three basic categories for skins:
-
-- Normal
-  - These contain elements that the skinner wants to change.
-  - They don't have to necessarily follow the given template sizes.
-  - These skins are often colourful and creative.
-  - May contain many different animations.
-  - Typical skin for casual players.
-- Simplified
-  - These are directed to a players who dislike distractions, but would still want to see some things.
-  - These skins often have minimized size of hitbursts (300, 100, 50, etc.), size of parts aren't larger than template's, less colourful, less animations.
-- PRO
-  - These are heavily focused on removing any distractions.
-  - These contains transparent hitbursts, no animations, reduced colours, larger `followpoint.png` (for readablity), semi-transparent hit circle (to see underneath), and less sounds.
-
 ## Sharing
 
 ### How do I share my skin?
@@ -89,7 +72,7 @@ First, before you share your skin, make sure you have removed other files that a
 - swimsuits and/or bikinis
 - characters with revealing or skimpy clothing
 
-To add this warning, simply prefix `[R15]` to your thread post title.
+To add this warning, simply prefix `[R15]` to your thread post title and write a notice at the top of the post itself.
 
 ### Can I post R18 skins in the skinning subforums?
 
@@ -102,25 +85,20 @@ If you post your R18 skin anywhere in the osu! community, be aware that you will
 If you don't know how to make friendly looking thread, you can use this template.
 
 ```
-[General]
-[b]Skin Name[/b]: Your skin name will go here.
-[b]Creator[/b]: Name(s) of who made it.
-[b]Theme[/b]: Tell us what theme your skin is based at.
-[b]Version[/b]: Self-explanatory
-[b]Tags[/b]: This can make finding your skin easier.
-[b]Download[/b]: Put download link here.
+[centre][size=150][color=#cc5288]{Name of the skin}[/color][/size]
 
-[Data]
-[b]Size[/b]: Approx. size of your skin
-[b]Is it fully skinned? Yes/No.[/b] (Gameplay/Menu/Taiko/Catch the Beat/cursor - only?)
-[b]HD support? Yes/No.[/b] (does the skin use HD images (using the @2x suffix))
-[b]Screenshots[/b]: Screenshots go here. (Adding a spoilerbox is useful for people with slow connections)
-[b]Video preview[/b]: (Optional, if you have one)
+[size=150]{Write a short 1-3 sentence description of your skin here}[/size]
 
-[Misc]
-[b]Creator's comment[/b]: Self-explanatory.
-[b]Updates[/b]: Leave your updates here (Again, a spoilerbox could be very useful here)
-[b]Requests[/b]: Since no one is perfect, you can use this to request help to your skin :)
+[box=Screenshots]
+[size=150]Song selection
+[img]https://example.com/image-link-here.png[/img]
+Mod selection menu
+[img]https://example.com/image-link-here.png[/img]
+Ranking screen
+[img]https://example.com/image-link-here.png[/img]
+osu! gameplay
+[img]https://example.com/image-link-here.png[/img][/size][/box]
+[url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
 ```
 
 It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or puush to upload them.
@@ -153,7 +131,7 @@ Basically, osu! will prefer `.wav` files because these can loop short sounds bet
 
 ### What format should the images be in?
 
-Im most cases, images must use the `.png` format. However, the `menu-background.jpg` element must use `.jpg` extension.
+In most cases, images must use the `.png` format. However, the `menu-background.jpg` element must use `.jpg` extension.
 
 In addition to using the `.png` format, you should:
 
@@ -163,7 +141,7 @@ In addition to using the `.png` format, you should:
 
 ### What are overlays?
 
-Overlays are elements that will be placed on top of another element (the same element name but without the `-overlay` suffix). These are a bit special in that they will not be coloured or tinted. However, only a small handful of elements are given an overlay.
+Overlays are elements that will be placed on top of another element (the same element name but without the `overlay` or `-overlay` suffix). These are a bit special in that they will not be coloured or tinted. However, only a small handful of elements are given an overlay (they can be found in the skin elements lists).
 
 ### What window resolution should I skin?
 
@@ -259,11 +237,11 @@ Add a transparent file called `sliderendcircle.png` to your skin.
 
 Add a transparent file for these filenames:
 
-- `hit-300-0.png`
-- `hit-300g-0.png`
-- `hit-300k-0.png`
+- `hit300-0.png`
+- `hit300g-0.png`
+- `hit300k-0.png`
 
-### How to add a background in main menu?
+### How do I add a background in main menu?
 
 You must have [osu!supporter](/wiki/osu!supporter) to see the background image in the main menu. To quickly change them, you can drag and drop a `.png` or `.jpg` image osu! (in the main menu). This will overwrite the current one from your selected skin's folder.
 
@@ -287,4 +265,4 @@ To disable them, find the ones you do not like and replace it with another sound
 
 ### I use dots instead of numbers, but when I get to the 10th combo, two dots appear!
 
-To fix this, you need to change the `HitCircleOverlap` value to the width of the image used for the default numbers. For example, if your the skinned element size is 60x70 pixels, the value should be 60.
+To fix this, you need to change the `HitCircleOverlap` value to the width of the image used for the default numbers. For example, if your the skinned element size is 60x70 pixels (width by height), the value should be 60.
