@@ -1,13 +1,13 @@
 # Twitter
 
-## We tweet, too!
+## My także tweetujemy!
 
-osu! has several twitter accounts, each serving specific purposes. Most are very low traffic but will help to keep you informed outside of the osu! ecosystem.
+osu! posiada kilka kont na Twitterze; każde z nich pełni inne funkcje. Większość z nich jest mało aktywnych, lecz pozwolą ci na wystarczające doinformowanie o świecie osu!.
 
-Avatar | Handle | Description
+Awatar | Konto | Opis
 :----: | :----: | -----------
-![osu!status avatar](https://pbs.twimg.com/profile_images/706719922596900864/xTzREmuc_bigger.jpg) | [@osustatus](https://twitter.com/osustatus) | Dedicated to providing low-traffic notifications of site and bancho issues. If you follow only one account, this is the one you want!
-![osu! avatar](https://pbs.twimg.com/profile_images/706741102120800256/xOf4lxBy_bigger.jpg) | [@osugame](https://twitter.com/osugame) | A feed of the latest news and notifications of [newly ranked beatmaps](https://osu.ppy.sh/p/beatmaplist).
-![Dean Herbert avatar](https://pbs.twimg.com/profile_images/646911857802907648/6Ojh9ewB_bigger.png) | [@ppy](https://twitter.com/ppy) | Not strictly osu! related, but I'll leave this here for those interested. My life is mostly osu!, after all.
-![osu!support avatar](https://pbs.twimg.com/profile_images/879140567476817920/bYXKpmhg_bigger.jpg) | [@osusupport](https://twitter.com/osusupport) | Helping you with account/community issues.
-![BanchoBoat avatar](https://pbs.twimg.com/profile_images/1238393475/bboat_bigger.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Comedy relief when things go wrong.
+![Awatar konta osu!status](https://pbs.twimg.com/profile_images/706719922596900864/xTzREmuc_bigger.jpg) | [@osustatus](https://twitter.com/osustatus) | Dostarczanie informacji dotyczących problemów ze stroną bądź z Bancho. Jeśli chcesz obserwować tylko jedno z tych konto, to powinno być to właśnie ono!
+![Awatar konta osu!](https://pbs.twimg.com/profile_images/706741102120800256/xOf4lxBy_bigger.jpg) | [@osugame](https://twitter.com/osugame) | Podawanie nowych wiadomości oraz [beatmap, które otrzymały status rankingowy](https://osu.ppy.sh/p/beatmaplist).
+![Awatar konta Dean Herbert](https://pbs.twimg.com/profile_images/646911857802907648/6Ojh9ewB_bigger.png) | [@ppy](https://twitter.com/ppy) | Niezwiązane ściśle z osu!, ale pozostawione dla osób zainteresowanych.
+![Awatar konta osu!support](https://pbs.twimg.com/profile_images/879140567476817920/bYXKpmhg_bigger.jpg) | [@osusupport](https://twitter.com/osusupport) | Rozwiązywanie problemów z kontami/społecznością.
+![Awatar konta BanchoBoat](https://pbs.twimg.com/profile_images/1238393475/bboat_bigger.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Dostarczanie humoru, gdy coś pójdzie nie tak.
