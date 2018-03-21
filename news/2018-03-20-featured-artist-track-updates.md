@@ -12,7 +12,7 @@ Without further ado, let's dive into what's new:
 
 ## IAHN
 
-We've got **four** new tracks lined up from IAHN in his classic electronic style. [Check out his Featured Artist listing for the download links and more info!](https://osu.ppy.sh/beatmaps/artists/3)
+We've got **three** new tracks lined up from IAHN in his classic electronic style. [Check out his Featured Artist listing for the download links and more info!](https://osu.ppy.sh/beatmaps/artists/3)
 
 ### All In One
 
@@ -30,12 +30,6 @@ We've got **four** new tracks lined up from IAHN in his classic electronic style
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/3/previews/387.mp3" type="audio/mpeg">
-</audio>
-
-### Winter Vacation
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/3/previews/388.mp3" type="audio/mpeg">
 </audio>
 
 ## yuki.
