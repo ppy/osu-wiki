@@ -40,7 +40,9 @@ Do note, however, the folder called `taiko` (case-insensitive) is reserved for o
 
 ### How do I reload my skin in osu!?
 
-First, you will need to have your skin selected, then press this keystoke to reload a skin in osu! is `Ctrl` + `Alt` + `Shift` + `S`. You can also exit and reopen osu! or start the updater for reload the skin, but it is much quicker to use the four-keystoke to reload the skin.
+You will need to have your skin selected, then press this keystoke to reload a skin in osu! is `Ctrl` + `Alt` + `Shift` + `S`.
+
+You can also exit and reopen osu! or start the updater to reload the skin, but it usually is much quicker to use the four-keystoke combination to reload the skin in osu!
 
 ### What are skinning sets?
 
