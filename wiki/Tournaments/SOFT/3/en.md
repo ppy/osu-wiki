@@ -26,7 +26,9 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Prizes
 
-*To be determined*
+*The winner of the tournament will get a Profile Badge, the rest of the prizes are being decided*
+
+![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
 
 ## Organization
 
