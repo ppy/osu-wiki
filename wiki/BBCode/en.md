@@ -296,7 +296,7 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
     - `A` - lettered (upper-cased)
     - `i` - roman numeral (lowercased)
     - `I` - roman numeral (upper-cased)
-  - By default, bulleted lists uses sqaure bullets.
+  - By default, bulleted lists uses square bullets.
   - Lists inside lists are known to be buggy.
 - Syntax:
   - Where `TYPE` is one of the listed types above.
