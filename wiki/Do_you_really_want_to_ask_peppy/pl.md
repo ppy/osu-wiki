@@ -8,7 +8,7 @@ Większość problemów technicznych można rozwiązać poprzez znalezienie odpo
 
 ## Pomoc ogólna
 
-Dla problemów związanych z kontem, opłatami, korespondencji dotyczącej blokad konta, pytań odnośnie turniejów oraz **wszystkich pozostałych kwestii wymagających wsparcia** wyślij e-maila na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące kont) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe). Jeśli któryś z członków zespołu pomocy technicznej jest dostępny, możesz użyć małego przycisku ze znakiem zapytania, który pojawi się w prawym dolnym rogu.
+Dla problemów związanych z kontem, opłatami, korespondencji dotyczącej blokad konta, pytań odnośnie turniejów oraz **wszystkich pozostałych spraw** wyślij e-maila na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące kont) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe). Jeśli któryś z członków zespołu pomocy technicznej jest dostępny, możesz użyć małego przycisku ze znakiem zapytania, który pojawi się w prawym dolnym rogu.
 
 ## Kontakt z peppym
 
