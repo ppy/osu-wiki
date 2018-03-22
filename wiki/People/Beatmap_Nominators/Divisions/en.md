@@ -18,6 +18,9 @@ Leaders are **bolded**.
   + [Plaudible](https://osu.ppy.sh/users/7149815)
   + [Realazy](https://osu.ppy.sh/users/918297)
   + [AyanokoRin](https://osu.ppy.sh/users/5376866)
+  + [celerih](https://osu.ppy.sh/users/4696296)
+  + [ailv](https://osu.ppy.sh/users/6933054)
+  + [Gabe](https://osu.ppy.sh/users/654108)
 
 #### sd_report_okoratu
 + Members:
@@ -25,22 +28,9 @@ Leaders are **bolded**.
   + [sahuang](https://osu.ppy.sh/users/5318910)
   + [Nozhomi](https://osu.ppy.sh/users/2716981)
   + [-Mo-](https://osu.ppy.sh/users/2202163)
-  + [Delis](https://osu.ppy.sh/users/1603923)
-  + [Kagetsu](https://osu.ppy.sh/users/6203841)
   + [MaridiuS](https://osu.ppy.sh/users/4496961)
   + [Myxomatosis](https://osu.ppy.sh/users/2202645)
-
-#### sd_triangles 
-+ Members:
-  + [**Natsu**](https://osu.ppy.sh/users/1953876)
-  + [Gero](https://osu.ppy.sh/users/1467715)
-  + [Karen](https://osu.ppy.sh/users/3143784)
-  + [pishifat](https://osu.ppy.sh/users/3178418)
-  + [Regraz](https://osu.ppy.sh/users/3076909)
-  + [Chromoxx](https://osu.ppy.sh/users/1881639)
-  + [Chewin](https://osu.ppy.sh/users/617323)
-  + [ezek](https://osu.ppy.sh/users/180241)
-  + [iYiyo](https://osu.ppy.sh/users/3919785)
+  + [jonathanlfj](https://osu.ppy.sh/users/270377)
 
 #### sd_metadata 
 + Members:
@@ -51,25 +41,34 @@ Leaders are **bolded**.
   + [Battle](https://osu.ppy.sh/users/4037545)
   + [Noffy](https://osu.ppy.sh/users/1541323)
   + [Doyak](https://osu.ppy.sh/users/2046893)
-  + [Kisses](https://osu.ppy.sh/users/4276114)
 
-#### sd_chiron 
+#### sd_thinking
 + Members:
-  + [**Cerulean Veyron**](https://osu.ppy.sh/users/1886524)
-  + [Wishkey](https://osu.ppy.sh/users/1101704)
-  + [Namki](https://osu.ppy.sh/users/5248582)
-  + [timemon](https://osu.ppy.sh/users/2072005)
-  + [pinataman](https://osu.ppy.sh/users/1235485)
-
-#### sd_maple_syrup 
-+ Members:
-  + [**Kibbleru**](https://osu.ppy.sh/users/3193504)
-  + [celerih](https://osu.ppy.sh/users/4696296)
-  + [Gabe](https://osu.ppy.sh/users/654108)
-  + [jonathanlfj](https://osu.ppy.sh/users/270377)
-  + [Sinnoh](https://osu.ppy.sh/users/4236057)
+  + [**Halie**](https://osu.ppy.sh/users/5226970)
+  + [**squirrelpascals**](https://osu.ppy.sh/users/6151332)
   + [UndeadCapulet](https://osu.ppy.sh/users/2523533)
+  + [Nevo](https://osu.ppy.sh/users/7451883)
+  + [Sotarks](https://osu.ppy.sh/users/4452992)
+  + [Electoz](https://osu.ppy.sh/users/6485263)
+  + [Kuron-kun](https://osu.ppy.sh/users/2697284)
+  + [Kibbleru](https://osu.ppy.sh/users/3193504)
   + [Doormat](https://osu.ppy.sh/users/3230571)
+  + [Chromoxx](https://osu.ppy.sh/users/1881639)
+
+#### sd_we_are_not_qah
++ Members:
+  + [**Karen**](https://osu.ppy.sh/users/3143784)
+  + [Delis](https://osu.ppy.sh/users/1603923)
+  + [Garden](https://osu.ppy.sh/users/2849992)
+  + [Kagetsu](https://osu.ppy.sh/users/6203841)
+
+#### sd_gremio
++ Mebers:
+  + [**Gero**](https://osu.ppy.sh/users/1467715)
+  + [ezek](https://osu.ppy.sh/users/180241)
+  + [iYiyo](https://osu.ppy.sh/users/3919785)
+  + [mancuso_JM_](https://osu.ppy.sh/users/521568)
+  + [Natsu](https://osu.ppy.sh/users/1953876)
 
 ### osu!taiko
 
@@ -79,24 +78,24 @@ Leaders are **bolded**.
   + [Volta](https://osu.ppy.sh/users/4154071)
   + [Skylish](https://osu.ppy.sh/users/2845958)
   + [JUDYDANNY](https://osu.ppy.sh/users/1165475)
+  + [Faputa](https://osu.ppy.sh/users/845733)
+  + [Kisses](https://osu.ppy.sh/users/4276114)
+  + [Okoratu](https://osu.ppy.sh/users/1623405)
+  + [Kin](https://osu.ppy.sh/users/480689)
+  + [tasuke912](https://osu.ppy.sh/users/2774767)
 
 #### sd_ban_anime 
 + Members:
   + [**Raiden**](https://osu.ppy.sh/users/2239480)
+  + [**Gabe**](https://osu.ppy.sh/users/654108)
   + [frukoyurdakul](https://osu.ppy.sh/users/7612550)
-  + [Gabe](https://osu.ppy.sh/users/654108)
   + [incandescence](https://osu.ppy.sh/users/6256027)
   + [Jonawaga](https://osu.ppy.sh/users/3653035)
   + [Surono](https://osu.ppy.sh/users/3611370)
   + [Aloda](https://osu.ppy.sh/users/1190127)
-
-#### sd_taco_mafia 
-+ Members:
-  + [**Arrival**](https://osu.ppy.sh/users/1694000)
-  + [neonat](https://osu.ppy.sh/users/1561995)
-  + [Okoratu](https://osu.ppy.sh/users/1623405)
-  + [Kin](https://osu.ppy.sh/users/480689)
-  + [tasuke912](https://osu.ppy.sh/users/2774767)
+  + [hikikochan](https://osu.ppy.sh/users/6512678)
+  + [-Kazu-](https://osu.ppy.sh/users/920861)
+  + [Nepuri](https://osu.ppy.sh/users/6637817)
 
 ### osu!catch
 
@@ -104,16 +103,24 @@ Leaders are **bolded**.
 + Members:
   + [**Deif**](https://osu.ppy.sh/users/318565)
   + [**JBHyperion**](https://osu.ppy.sh/users/4879508)
-  + [F D Flourite](https://osu.ppy.sh/users/2459589)
-  + [ZiRoX](https://osu.ppy.sh/users/200768)
-  + [MBomb](https://osu.ppy.sh/users/3071175)
-  + [Benny-](https://osu.ppy.sh/users/4023183)
-  + [Electoz](https://osu.ppy.sh/users/6485263)
   + [alienflybot](https://osu.ppy.sh/users/636114)
+  + [Electoz](https://osu.ppy.sh/users/6485263)
+  + [F D Flourite](https://osu.ppy.sh/users/2459589)
+  + [JeirYagtama](https://osu.ppy.sh/users/7483452)
+  + [MBomb](https://osu.ppy.sh/users/3071175)
+  + [Sinnoh](https://osu.ppy.sh/users/4236057)
+  + [ZiRoX](https://osu.ppy.sh/users/200768)
+  + [AJamez](https://osu.ppy.sh/users/7890134)
+
+#### sd_orchard
++ Members:
+  + [**Benny-**](https://osu.ppy.sh/users/4023183)
+  + [Ascendance](https://osu.ppy.sh/users/2931883)
+  + [celerih](https://osu.ppy.sh/users/4696296)
   + [Hareimu](https://osu.ppy.sh/users/4138746)
   + [Nokashi](https://osu.ppy.sh/users/5431196)
+  + [Sanyi](https://osu.ppy.sh/users/7496029)
   + [Sorcerer](https://osu.ppy.sh/users/1913190)
-  + [celerih](https://osu.ppy.sh/users/4696296)
 
 ### osu!mania
 
@@ -124,3 +131,5 @@ Leaders are **bolded**.
   + [Tofu1222](https://osu.ppy.sh/users/6089608)
   + [Garalulu](https://osu.ppy.sh/users/757783)
   + [Rivals_7](https://osu.ppy.sh/users/4610379)
+  + [Arzenvald](https://osu.ppy.sh/users/3027421)
+  + [error_exe777](https://osu.ppy.sh/users/7975796)
