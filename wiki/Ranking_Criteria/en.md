@@ -39,14 +39,14 @@ Glossary
 
 ### Audio
 
-- **Active hitsounds:** Hitsounds that reach their peak impact exactly when they are clicked.
-- **Passive hitsounds:** Hitsounds that are not designed to match a player’s exact clicking, such as ambient sounds.
-- **Storyboarded hitsounds:** Hitsounds played through storyboard coding.
+- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
+- **Passive hit sounds:** Hit sounds that are not designed to match a player’s exact clicking, such as ambient sounds.
+- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
 
 ### Skinning
 
 - **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
-- **Hitburst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
+- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
 - **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
 - **User-specific:** A user’s personal skin which they set in their options menu.
 - **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
@@ -66,7 +66,7 @@ Glossary
 ## General
 
 ### Rules
-- **No two hitobjects can be placed on the same tick** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. osu!mania maps are exempt from this.
+- **No two hit objects can be placed on the same tick** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. osu!mania maps are exempt from this.
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 - **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
@@ -124,7 +124,7 @@ Glossary
 -   **Uninherited timing points must be the same in every difficulty of a mapset.** Each point must have the same BPM and offset in each difficulty.
 -   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Resetting metronomes to be as musically accurate as possible through uninherited timing points is acceptable.
 -   **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
--   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
+-   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hit sounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 -   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
 -   **If objects cannot be snapped using the editor’s supported beat snap divisors, a change in BPM must be used to accommodate for it.** Objects cannot be unsnapped.
 -   **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file. 
@@ -142,19 +142,19 @@ Glossary
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
 - **A mapset’s audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
 - **If you do not map the last 20% of your mapset’s audio file, it must be cut.** The intro time is not included. 
-- **Maps must be hitsounded.** While every game mode has its own techniques, effective hitsounds in all modes accent the most important parts of the music. 
-- **All clicked objects must have audible active hitsounds or active hitnormal samples.** osu!mania maps are exempt from this because of the mode's rhythm construction.
-- **Active hitsounds must use the `.wav` file format.** Active hitsounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hitsounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed. 
-- **Active hitsounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively.
-- **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song’s samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
+- **Maps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music. 
+- **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania maps are exempt from this because of the mode's rhythm construction.
+- **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed. 
+- **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively.
+- **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song’s samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a mapset.** This is used for both the song selection menu and the online thumbnail preview.
 - **Every `.wav` file must be at least 100ms long to prevent issues with soundcards.**
-- **Completely silent hitsounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
-- **Storyboarded hitsounds cannot be used as replacements for active hitsounds.** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
+- **Completely silent hit sounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
+- **Storyboarded hit sounds cannot be used as replacements for active hit sounds.** These give an inaccurate form of player feedback. Storyboarded hit sounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
 
--   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
+-   **Avoid using storyboarded hit sounds.** If a player misses the hit object that the storyboarded hit sound lands on, then the hit sound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hit sounds at places where there are no objects can confuse the player into thinking there was some unseen hit object, which doesn't make sense either.
 
 ## Video and Background
 
@@ -194,7 +194,7 @@ Glossary
 
 -   **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
 -   **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the map.** Test play the map during the modding process to confirm this.
--   **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
+-   **Refrain from usage of storyboard sound samples in ways that are easily confused with hit sounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
 -   **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
 -   **Widescreen support should be turned on if the mapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
 -   **Make sure the storyboard is optimized as much as possible,** within practical means.
