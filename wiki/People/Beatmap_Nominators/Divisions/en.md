@@ -2,7 +2,7 @@
 
 *Main page: [Beatmap Nominators](/wiki/Beatmap Nominators).*
 
-Subdivisions are small working group within the Beatmap Nominators to ensure better teamwork and efficiency.
+Subdivisions are small working groups within the Beatmap Nominators to ensure better teamwork and efficiency.
 
 Leaders are **bolded**.
 
