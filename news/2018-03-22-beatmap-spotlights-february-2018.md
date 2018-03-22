@@ -4,7 +4,7 @@ title: "Beatmap Spotlights: February 2018"
 date: 2018-03-22 12:00:00 +0000
 ---
 
-The February Spotlights are here, bringing our selection of maps that we loved.
+The February Spotlights are now available, sporting a bunch of incredible maps for every game mode, and a shiny new medal for the collectors among us!
 
 ![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/spotlight-header.jpg)
 
