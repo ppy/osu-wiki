@@ -1,4 +1,4 @@
-#Divisions
+# Divisions
 
 *Main page: [Beatmap Nominators](/wiki/Beatmap Nominators).*
 
