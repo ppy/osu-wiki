@@ -153,10 +153,10 @@ Approach Rate通常缩写为"**AR**"。
 
 点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说Whistle就是Normal音效和Whistle音效的叠加(就是同时播放)
 
-谱面相关颜色设定(Colours)
+谱面相关颜色设定(Colors)
 -------------------------
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Colors section](img/SS_Colors.jpg "Colors section")
 
 ### 物件颜色(Hitcircle/Slider Combos)
 

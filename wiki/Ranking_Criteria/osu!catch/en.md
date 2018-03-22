@@ -43,7 +43,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 -   **Your map must theoretically be possible to SS.** This means it must be possible to catch absolutely all fruits, including droplets.
 -   **Edge dashes must not be used in direct conjunction with hyperjumps.** This is because such patterns require especially precise movement and force an unreasonable restriction on accuracy required to catch them.
--   **Each map must use at least two different combo colors which must not blend in with the map's background/storyboard/video.** This is so hit objects are always visible to the player.
+-   **Each map must use at least two different combo colours which must not blend in with the map's background/storyboard/video.** This is so hit objects are always visible to the player.
 
 #### Guidelines
 
@@ -59,7 +59,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 #### Rules
 
 -   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` and `fruit-catcher-fail.png`.
--   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
+-   **Custom fruits must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
 -   **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the fruits, 82x103 for the drops and 306x320 for the catcher.
 
 #### Guidelines

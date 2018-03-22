@@ -1,8 +1,16 @@
-# osu! World Cup #1
+---
+tags:
+- OWC #1
+- OWC 1
+- OWC#1
+- OWC1
+---
+osu! World Cup #1
+=====================
 
 ![osu! World Cup #1](logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the osu! team. It is the 1st installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu! World Cup.
 
 ## Tournament Schedule
 
@@ -18,11 +26,11 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
-| *Special* | 1 month supporter tag (won by ![][flag_JP] Team Japan) |
+| *Special* | 1 month supporter tag (won by ![][flag_JP] Japan) |
 
 ## Organization
 
-The osu! World Cup #1 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup #1 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 - ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993)
 - ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192)
@@ -40,11 +48,13 @@ The osu! World Cup #1 is run by various community members by distributing the mu
 
 ------------------------------------------------------------
 
+![osu! World Cup #1 Brackets](brackets.png)
+
+----------------------------------------------------
+
 ## Participants
 
-### Confirmed Rosters
-
-| | Country | Team Members |
+| | Country | Members |
 | --- | :-------: | ------------ |
 | ![][flag_AT] | **Austria** | **TouhouNerd**, Snowball, Hanyuu, Nharox, unbelievable |
 | ![][flag_AR] | **Argentina** | **Wishy22**, RocknRolla, Grisuh, Vivere, lota78, violentt |
@@ -75,39 +85,49 @@ The osu! World Cup #1 is run by various community members by distributing the mu
 | ![][flag_GB] | **United Kingdom** | **Doomsday**, Natteke, aevv, Jericho2442, DiamondCrash |
 | ![][flag_US] | **United States** | **Lybydose**, Mafiamaster, Cyclone, ebacho, naptime |
 
+| Asia/Oceania | Europe | America |
+| ------------ | ------ | ------- |
+| ![][flag_CN] China       | ![][flag_AT] Austria | ![][flag_AR] Argentina |  
+| ![][flag_ID] Indonesia   | ![][flag_FI] Finland | ![][flag_BR] Brazil |
+| ![][flag_JP] Japan       | ![][flag_FR] France | ![][flag_CA] Canada |
+| ![][flag_KR] Korea       | ![][flag_DE] Germany | ![][flag_CL] Chile |
+| ![][flag_MO] Macau       | ![][flag_IT] Italy | ![][flag_DO] Dominican Republic |
+| ![][flag_MY] Malaysia    | ![][flag_NL] Netherlands | ![][flag_US] United States | 
+| ![][flag_NZ] New Zealand | ![][flag_PL] Poland | |
+| ![][flag_PH] Philippines | ![][flag_PT] Portugal | | 
+| ![][flag_TW] Taiwan      | ![][flag_RU] Russia | |
+| | ![][flag_ES] Spain | |
+| | ![][flag_SE] Sweden | |
+| | ![][flag_UA] Ukraine | |
+| | ![][flag_GB] United Kingdom | |
+
 ---------------------------------------------------
 
-![OWC #1 brackets](brackets.png "Brackets")
-
-----------------------------------------------------
-
-## Mappools
+## Mappool
 
 ### Finals
 
-**Played in order**
-
-1. [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
-2. [YUI - Sea (VanMoNky) \[Senior\]](https://osu.ppy.sh/beatmapsets/13021#osu/48422)
-3. [Suzaku - Anisakis -somatic mutation type "Forza" (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/15579#osu/56347)
-4. [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
-5. [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
-6. [Betwixt & Between - I think we can go to the moon (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/13728#osu/50658)
-
-**Tiebreaker (3-3)** [Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)
+- NoMod (played in order)
+  - [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
+  - [YUI - Sea (VanMoNky) \[Senior\]](https://osu.ppy.sh/beatmapsets/13021#osu/48422)
+  - [Suzaku - Anisakis -somatic mutation type "Forza" (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/15579#osu/56347)
+  - [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
+  - [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
+  - [Betwixt & Between - I think we can go to the moon (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/13728#osu/50658)
+- Tiebreaker
+  - [Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)
 
 ### Semifinals
 
-**Played in order**
-
-1. [COOL&CREATE - Rapid Ensemble (Doomsday93) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13235#osu/49067)
-2. [Suzaku VS Genbu - Himiko (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/12710#osu/47462)
-3. [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#osu/42244)
-4. [NEWS - weeeek (Echo) \[Insane\]](https://osu.ppy.sh/beatmapsets/3697#osu/22422)
-5. [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
-6. [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#osu/27466)
-
-**Tiebreaker (3-3)** [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+- NoMod (played in order)
+  - [COOL&CREATE - Rapid Ensemble (Doomsday93) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13235#osu/49067)
+  - [Suzaku VS Genbu - Himiko (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/12710#osu/47462)
+  - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#osu/42244)
+  - [NEWS - weeeek (Echo) \[Insane\]](https://osu.ppy.sh/beatmapsets/3697#osu/22422)
+  - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
+  - [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#osu/27466)
+- Tiebreaker
+  - [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
 
 ### Quarterfinals
 

@@ -427,6 +427,8 @@
 "audio_editing":                                              "Guides/Audio_Editing"
 "beginner's_tutorial":                                        "Guides/Beginner's_Tutorial"
 "beginner":                                                   "Guides/Beginner's_Tutorial"
+"bss_issues": "Guides/BSS_Issues"
+"beatmap_submission_system_issues": "Guides/BSS_Issues"
 "changing_the_artist_or_title":                               "Guides/Changing_the_Artist_or_Title"
 "changing_the_title_text":                                    "Guides/Changing_the_Title_Text"
 "collab_information":                                         "Guides/Collab_Information"
@@ -436,6 +438,8 @@
 "cropping_with_simple_backgrounds":                           "Guides/Cropping_with_Simple_Backgrounds"
 "custom_hit_sound_library":                                   "Guides/Custom_Hit_Sound_Library"
 "custom_sample_overrides":                                    "Guides/Custom_Sample_Overrides"
+"discord_rpc": "Guides/Discord_RPC"
+"discord":     "Guides/Discord_RPC"
 "getting_songs_from_video_games":                             "Guides/Getting_Songs_From_Video_Games"
 "getting_your_map_modded":                                    "Guides/Getting_Your_Map_Modded"
 "getting_my_map_modded":                                      "Guides/Getting_Your_Map_Modded"
@@ -483,7 +487,7 @@
 "hoo/2016":                     "History_of_osu!/2016"
 "hoo/2017":                     "History_of_osu!/2017"
 "hoo/2018":                     "History_of_osu!/2018"
-"hoo/osu!wiki":                 "History_of_osu!/osu!wiki"
+"hoo/osu!wiki":                 "History_of_osu!/osu!_wiki"
 
 "hitobjects":                  "Hit_Objects"
 "objects":                     "Hit_Objects"
@@ -497,8 +501,6 @@
 "spinners":                    "Hit_Objects/#spinner"
 
 "how_you_can_help":            "How_You_Can_Help!"
-
-"main_page":                   "Index"
 
 "install":                     "Installation"
 "install_osu!":                "Installation"
@@ -810,6 +812,8 @@
 
 "academy":                     "osu!academy"
 
+"api":                         "osu!api"
+
 "external_ports/osu!stream": "osu!stream"
 "game_modes/external_ports/osu!stream": "osu!stream"
 
@@ -897,6 +901,12 @@
 "alumni":                          "People/osu!_Alumni"
 
 "qat":                             "People/Quality_Assurance_Team"
+"qat_blog":                        "People/Quality_Assurance_Team/Blog"
+
+"staff_log": "People/Staff_Log"
+"staff_promotion/retirement_log": "People/Staff_Log"
+"staff_promotion_log": "People/Staff_Log"
+"staff_retirement_log": "People/Staff_Log"
 
 "support_team":                    "People/Support_Team"
 "support_team_redux":              "People/Support_Team"
@@ -1022,6 +1032,12 @@
 "scorev2":                     "Score/#scorev2"
 
 "skr":                         "Shortcut_Key_Reference"
+
+"main_page": "Sitemap"
+"all_articles": "Sitemap"
+"all_pages": "Sitemap"
+"all_links": "Sitemap"
+"index": "Sitemap"
 
 "skinning_interface":          "Skinning/Interface"
 "interface_skinning":          "Skinning/Interface"

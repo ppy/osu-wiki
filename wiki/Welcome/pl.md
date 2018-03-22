@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Na początek
 
 Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
@@ -31,7 +34,7 @@ Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ust
 
 _Zobacz także: [Modowanie](/wiki/Modding)._
 
-Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy. 
+Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy.
 
 ## osu!wiki - Jak możesz pomóc!
 

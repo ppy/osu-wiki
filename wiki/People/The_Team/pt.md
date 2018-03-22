@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 A Equipe
 =========
 
@@ -6,41 +10,41 @@ Criador
 
 | Nome | Descrição |
 | ---- | ----------- |
-| [peppy](https://osu.ppy.sh/u/2) | Lider do Projeto |
+| [peppy](https://osu.ppy.sh/users/2) | Lider do Projeto |
 
 Ativos
 ----------------------
 
 | Nome | Descrição |
 | ---- | ----------- |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | Suporte a Jogadores, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/u/3103765), [osu!next](http://next.ppy.sh/) | Lead designer |
-| [Loctav](https://osu.ppy.sh/u/71366) | Organização oficial de torneios, Staff and community management |
-| [nanaya](https://osu.ppy.sh/u/2387883) | Web implementation |
-| [RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
-| [Tom94](https://osu.ppy.sh/u/1857058) | pp development |
-| [yelle](https://osu.ppy.sh/u/4916903) | osu!store management |
-| [ztrot](https://osu.ppy.sh/u/6347) | professor do osu!academy, Designer de Media/Personagens |
-| [Zallius](https://osu.ppy.sh/u/55) | Endangered species |
+| [Ephemeral](https://osu.ppy.sh/users/102335) | Suporte a Jogadores, Meganekko secretary |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Lead designer |
+| [Loctav](https://osu.ppy.sh/users/71366) | Organização oficial de torneios, Staff and community management |
+| [nanaya](https://osu.ppy.sh/users/2387883) | Web implementation |
+| [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
+| [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
+| [Tom94](https://osu.ppy.sh/users/1857058) | pp development |
+| [yelle](https://osu.ppy.sh/users/4916903) | osu!store management |
+| [ztrot](https://osu.ppy.sh/users/6347) | professor do osu!academy, Designer de Media/Personagens |
+| [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 Inativos
 ----------------------
 
 | Nome | Descrição |
 | ---- | ----------- |
-| [awp](https://osu.ppy.sh/u/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | General housekeeping and help, game/site chibi artwork |
-| [Derekku](https://osu.ppy.sh/u/91341) | General housekeeping, Gerenciamento da Comunidade |
-| [Echo](https://osu.ppy.sh/u/431) ([blog](http://blog.echo.sh/)) | osu! dev team, Integração do IRC do chat in-game, Manutenção do site |
-| [Intermezzo](https://osu.ppy.sh/u/136842) | osu! dev team, osz2/p2p backend |
+| [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | General housekeeping and help, game/site chibi artwork |
+| [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Gerenciamento da Comunidade |
+| [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! dev team, Integração do IRC do chat in-game, Manutenção do site |
+| [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
 | Jim ([Brand New Games](http://www.bravegamer.com/)) |  Designer original do site |
-| [LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer de skins, Contribuições para a skin padrão e conjunto de icones |
-| [mm201](https://osu.ppy.sh/u/30655) | osu! dev team, mm sliders |
-| [nuudles](https://osu.ppy.sh/u/21312) | osu! iPhone dev |
+| [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer de skins, Contribuições para a skin padrão e conjunto de icones |
+| [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
+| [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
 | Phil | Forum design work |
-| [Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Original Pippi concept and artwork design |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Meeting minutes, Grande contribuições no FAQ |
-| [woc2006](https://osu.ppy.sh/u/1105845) | osu! dev team, Desenvolvedor do modo de jogo osu!mania |
+| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Original Pippi concept and artwork design |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Grande contribuições no FAQ |
+| [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, Desenvolvedor do modo de jogo osu!mania |
 
 Grupo de usuários
 ----------------------

@@ -21,4 +21,4 @@ Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
 3.  **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
 4.  Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.
 5.  **Die Kiai Time-Sektionen in [Gast Schwierigkeitsstufen](/wiki/Glossary) können sich von den Schwierigkeitsstufen des Beatmaperstellers unterscheiden**. Dies ist des öfteren der Fall, da nicht jeder denkt, dass die eine Stelle am besten für den Kiai geeignet ist; nichts desto trotz sollte sie jedoch passend zur Map definiert werden.
-6.  Colorhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.
+6.  Colourhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.
