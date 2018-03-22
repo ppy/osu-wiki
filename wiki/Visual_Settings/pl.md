@@ -1,19 +1,19 @@
-# Visual Settings
+# Ustawienia wizualne
 
-![Example of Visual Settings](./VisualSettings.jpg "Example of Visual Settings")
+![Nakładka ustawień wizualnych](./VisualSettings.jpg "Nakładka ustawień wizualnych")
 
-**Visual Settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading. When the Visual Settings overlay is shown, the beatmap will be delayed until the osu!cursor leaves the Visual Settings overlay.
+**Ustawienia wizualne** to ukryta nakładka, która znajduje się w dolnej części obszaru gry. Może zostać osiągnęty, gdy beatmapa jest ładowana. Rozpoczęcie beatmapy zostanie opóźnione, do czasu aż kursor opuści obszar nakładki. 
 
-Alternatively, it is possible to access Visual Settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Multi "Multi") match as it will be treated as attempting to quit the match and leave the room instead.
+Ewentualnie, nakładka ustawień wizualnych może zostać osiągnięta poprzez zapauzowanie gry. Jednakże, metoda ta nie zadziała w trakcie meczu w [trybie wieloosobowym](/wiki/Multi "Multi"), ponieważ zostanie to uznane jako próba wyjścia z meczu i opuszczenia pokoju.
 
-_Note:_ Setting changes from Visual Settings are saved per beatmap and will be lost after closing osu!. Global settings can be set in the [Options](/wiki/Options "Options") sidebar.
+_Ważne:_ Zmiany w ustawieniach wizualnych są zapisywane osobno dla każdej beatmapy i przepadają po wyłączeniu osu!. Globalne ustawienia znajdują się w nakładce [opcji](/wiki/Options "Opcje").
 
-## Available options
+## Dostępne opcje
 
-| Name | Effect | Notes |
+| Nazwa | Efekt | Adnotacje |
 |:---:|:---|:---|
-| Background dim | Darken the playfield. | During breaks, the dim is -30% of the rate set or 0%. No special effects at 100% dim. Also darkens storyboard elements at 100% dim. |
-| Disable storyboard | Remove all storyboard elements. Does not affect Kiai Time and background video. | In maps with an epilepsy warning, this is recommended for players with epilepsy issue. This option is disabled if there is no storyboard to play. |
-| Ignore beatmap skin | Do not use the beatmap's custom skin, if any. The player's selected skin will be used instead. | Requires a retry to take effect. |
-| Ignore beatmap hitsounds | Do not use the beatmap's custom hit sounds, if any. The player's selected skin's hit sounds will be used. | Requires a retry to take effect. |
-| Disable video | Do not play the video. This does not remove the storyboard. | Requires a retry if activated after the song starts. This option is disabled if there is no video to play. |
+| Przyciemnienie tła | Przyciemnia obszar gry. | Podczas przerw tło zostaje przyciemnione do ok. 30% przy przyciemnieniu tła równym 0%. Brak specjalnych efektów przy ustawieniu na 100%. Przyciemnia całkowicie elementy scenorysu przy ustawieniu na 100%. |
+| Wyłącz storyboard | Usuwa wszystkie elementy scenorysu. Nie ma wpływu na Czas Kiai ani na wideo w tle. | Włączenie tej opcji jest zalecane dla beatmap z ostrzeżeniem dot. epilepsji. Opcja ta zostanie automatycznie wyłączona, jeżeli beatmapa nie posiada scenorysu |
+| Ignoruj skórkę beatmapy | Ignoruje elementy skórki beatmapy, jeżeli owe występują. W takiej sytuacji zostaną użyte elementy ze skórki użytkownika. | Aby opcja ta zadziałała, należy zrestartować beatmapę. |
+| Ignoruj efekty dźwiękowe beatmapy | Ignoruje efekty dźwiękowe beatmapy, jeżeli owe występują. W takiej sytuacji zostaną użyte efekty dźwiękowe ze skórki użytkownika. | Aby opcja ta zadziałała, należy zrestartować beatmapę. |
+| Wyłącz wideo | Wyłącza wideo w tle. Nie ma jednak żadnego wpływu na scenorys. | Należy zrestartować beatmapę, jeżeli opcja została aktywowana po rozpoczęciu się piosenki. Opcja ta zostanie automatycznie wyłączona, jeżeli beatmapa nie posiada wideo w tle. |
