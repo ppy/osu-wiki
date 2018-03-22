@@ -37,6 +37,12 @@ Glossary
 - **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
 - **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
 
+### Audio
+
+- **Active hitsounds:** Hitsounds that reach their peak impact exactly when they are clicked.
+- **Passive hitsounds:** Hitsounds that are not designed to match a player’s exact clicking, such as ambient sounds.
+- **Storyboarded hitsounds:** Hitsounds played through storyboard coding.
+
 ### Skinning
 
 - **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
@@ -56,26 +62,19 @@ Glossary
 - **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
 - **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
+
 ## General
 
-### Rules
+### **Rules**
+- **No two hitobjects can be placed on the same tick** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. osu!mania maps are exempt from this.
+- **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
+- **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
+- **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
 
--   **No two hitobjects on the same tick (osu!mania game mode is an exception).** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. Although this may be possible to accomplish while playing, it defeats the purpose of following the rhythm of the song.
--   **Do not overuse kiai time.** The general rule of thumb is one toggle per minute of playtime. Kiai is meant to accent chorus sections, so don't use it just for fountains unless you're doing this rarely. You can toggle kiai off and back on halfway through the chorus if it fits, but using it constantly every few beats/measures is just ridiculous and can distract players.
--   **Do not manually edit anything in an `.osu` file that cannot be changed through the Editor.** The only exceptions are `.osu`-specific storyboards, **slider velocity multipliers** and skin-related options such as SliderBorder and SliderTrackOverride.
--   **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
--   **You must have a background image on every difficulty of your map.** If your map has a storyboard, then you can easily fade the background out, but one is still required for the song selection menu, online thumbnail icon, and for players not downloading with video (if the map has one).
--   **Approved Category is only for Marathon maps.** Long maps with over 5 minutes of draining time fit the Approval category. Only then they are allowed to be single difficulty mapsets. If they are below 5 minutes of draining time, a full difficulty spread is needed and the map will have to be ranked instead.
--   **There must not be any unused files in the map's folder** except for the map's `.osb` file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard `.thumb` files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
-
-### Guidelines
-
--   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.
--   **Kiai should be consistent throughout difficulties** of your mapset (especially since it is shown on the main menu). If you have a guest difficulty from another mapper that uses different kiai, then it's fine as long as it still makes sense.
--   **Kiai should start on a white tick** (or more commonly, the big white tick called the [downbeat](/wiki/Glossary/#downbeat)) of a measure. Generally, the main part of the chorus will start at this point.
--   **The song should not be too long.** Aim for 3 minutes maximum; anything longer gets tiring. If you need help editing a song down to length, feel free to ask in the Beatmap [General Questions]( https://osu.ppy.sh/forum/56) forum.
--   **Options such as letterboxing, countdown, and audio lead-in should be consistent between difficulties.** Having cohesive settings throughout your mapset will look much more professional, although there are always scenarios where this is impossible. One difficulty might start at the beginning of the `.mp3`, where a countdown is impossible but an audio lead-in is absolutely necessary; while another difficulty may start a few seconds in, where a countdown is usable but an audio lead-in is senseless.
--   **Try to keep osz files under 10MB, or 30MB if you include a video/storyboard.** Videos and storyboards can generally be decreased in size by lowering the quality of the video or trimming/resizing storyboard elements.
+### **Guidelines**
+- **Letterboxing and countdown options should be consistent between difficulties of a mapset.** 
+- **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they fit a song more appropriately than standard tick rates.
+- **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 
 ## Mapset
 
@@ -83,11 +82,10 @@ Glossary
 
 -   **Single-mode mapsets must include a reasonable spread of at least two difficulties.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
 -   **Hybrid mapsets without osu!standard difficulties must include a reasonable spread of at least two difficulties per mode.** The lowest difficulty of each mode cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
--   **If a hybrid mapset includes osu!standard difficulties...**
+-   **If a hybrid mapset includes osu! difficulties...**
     -   **A reasonable spread of at least two osu!standard difficulties must be included.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. 
     -   **Converted difficulties must form a reasonable spread.** For example, a mapset with Easy and Normal osu!standard difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
-    -   **Any two or more osu!taiko or osu!mania difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
-    -   **One or more osu!catch difficulties may be included.** The lowest difficulty cannot be harder than an Insane.
+    -   **Any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
 -   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
 -   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
 -   **Excluding a mapset’s hardest difficulty, a difficulty’s name must accurately indicate its level of difficulty.** Conventional difficulty names vary between game modes, but any set of clearly progressive difficulty names can be alternatively used. Additionally, a mapset’s hardest difficulty should not use a misrepresentative difficulty name.
@@ -139,32 +137,35 @@ Glossary
 
 ### Rules
 
--   **A beatmap set may only contain one music file used by all difficulties.** Multiple music files within a single beatmap set is unsupported by osu! and results in unexpected behaviour with preview times, metadata, etc.
--   **The song's audio file must be of reasonable quality.** Try and source `.mp3` files yourself; ripping them from a streaming video site often results in low quality audio with high file sizes. The bitrate of a beatmap's audio file must be no lower than 128kbps and no higher than 192kbps. If you are having trouble acquiring an appropriate audio file, contact one of the more audio-savvy BN; they will be more than happy to help find an `.mp3` for you.
--   **The minimum draining (play) time for a map is 30 seconds** (but the recommended minimum is 45 seconds). If your map is shorter than that, then try looping the song with an audio editing program. This is so each map gives a high enough score, and also so people do not try and cut songs too short for no reason, thus stopping people from enjoying the song fully.
--   **You must cut your `.mp3` if you're using less than 80% of it.** This doesn't count intro time, and thus only applies if more than 20% of the outro is unmapped. If you only plan to map a portion of your song, then including the full `.mp3` is a waste of file space. Many `.mp3` editing tools [like mp3DirectCut](https://osu.ppy.sh/community/forums/topics/34303) exist which make fading and cutting a song simple. However, if you have a legitimate reason for keeping your full `.mp3` (e.g. a storyboard after the map ends), then that is fine.
--   **You must use hitsounds.** Without these, things get way too monotonous as you are throwing away one of the main elements of variation present in mapping. You don't need to place them on every note (and are discouraged from doing so), but they must at least be frequently heard when playing.
--   **Hitsounds must be in `.wav`.** Hitsounds in `.wav` format are preferred, as `.mp3` files will not loop correctly and have a short delay, between 0ms and 20ms, but `.mp3` is allowed only for a special purpose for the beatmap, like the usage of `reverse cymbal` that have delay on the start. Note that using ogg is unrankable.
--   **Hitsounds from notes and sliders must be audible.** These provide feedback for the player, and having them silent in a rhythm game doesn't make much sense. If you don't like the default sounds, then find replacements rather than silencing notes. You can use hitsounds from the [Custom Hitsound Library](https://osu.ppy.sh/community/forums/topics/15407) or easily find others online. Lowering the volume of a few notes to provide a dampened effect is usually fine, but complete silence is always unacceptable. The end of a spinner (or even the entire spinner) the sliding sound of a slider, and the end of a slider can be silent, but only do it if it makes sense. Finally, you cannot silence both slider ticks and slider slides together.
--   **Do not use sliderslide, sliderwhistle, and spinnerspin hitsounds in a way that would replicate a hitsound on a circle, slider start, slider end, slider tick, or slider repeat.** Sliderslide, sliderwhistle, and spinnerspin hitsounds are considered continuous hitsounds, meaning that their files play from start to end and loop as one continuous sound for the length of the held object. Do not alter any section of a held object to play a single hitsound.
--   **Songs/Maps with mature lyrics/themes must be marked with a label such as `18+` in the map's thread.** This game is for all ages, and so a warning is needed for younger audiences. There is currently no way to distinguish this outside of the map's thread, but this may change in the future.
--   **Each difficulty of the mapset must have a preview point set** (and be consistent in every difficulty). This is used for both the song selection menu and the online thumbnail preview.
--   **Every `.wav` file must be at least 100ms long** to prevent issues with soundcards. If you want a silent/blank hitsound, then you must use a [0-byte wave file](https://up.ppy.sh/files/blank.wav).
-    **Note:** Due to a technical issue having any files that are 0 bytes in size in the beatmap folder will cause files after the (first) 0-byte file to be missing. Please do NOT use any 0-byte files. The one linked above is 44KB in size and won't cause issues.
--   **Hitsounds must have an acceptable range of delay under 5ms.** Every hitsound file should start in time, preferrably at 0ms. This is to ensure that every map doesn't sound mistimed, and therefore could provide acceptably synchronized rhythm feedback to players.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the map's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
+- **A mapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
+- **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
+- **A mapset’s audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
+- **If you do not map the last 20% of your mapset’s audio file, it must be cut.** The intro time is not included. 
+- **Maps must be hitsounded.** While every game mode has its own techniques, effective hitsounds in all modes accent the most important parts of the music. 
+- **All clicked objects must have audible active hitsounds or active hitnormal samples.** osu!mania maps are exempt from this because of the mode's rhythm construction.
+- **Active hitsounds must use the `.wav` file format.** Active hitsounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hitsounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed. 
+- **Active hitsounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively.
+- **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song’s samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
+- **Preview points must be set and consistent between all difficulties of a mapset.** This is used for both the song selection menu and the online thumbnail preview.
+- **Every `.wav` file must be at least 100ms long to prevent issues with soundcards.**
+- **Completely silent hitsounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
+- **Storyboarded hitsounds cannot be used as replacements for active hitsounds.** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
 
 -   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
 
-## Video
+## Video and Background
 
 ### Rules
 
--   **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported by `.osz2` and will result in errors during upload and processing.
--   **The video's dimensions must not exceed 1280x720.** As well, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
--   **The video's offset must be correct and consistent between difficulties** so that it follows the music how it was originally meant to be.
--   **The video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap.
+- **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported.
+- **You must have a background image on every difficulty of your map.** Different background files for different difficulties is acceptable.
+- **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
+- **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen. 
+- **A video's offset must be correct and consistent between difficulties.** Videos synchronize with their respective songs, so inconsistencies result in one or more difficulties being out of sync.
+- **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap. This includes videos with muted audio tracks.
 
 ## Skinning
 
