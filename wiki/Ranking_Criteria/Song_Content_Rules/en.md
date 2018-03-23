@@ -6,7 +6,7 @@ _Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
 With a wide variety of music available, most tracks will be fine for use in osu!, providing that they are not:
 
 - Intensely explicit, suggestive, or otherwise extremely confrontational in regards to shocking, obscene or highly sexual content
-- Glorifying, promoting or otherwise encouraging suicide, murder, or self-harm
+- Glorifying, promoting or otherwise encouraging drug abuse, suicide, murder, or self-harm
 - Promoting racial tension or division
 - Extremely and unbearably loud or excessively clipped
 
