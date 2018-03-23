@@ -1,53 +1,55 @@
-# Registration
+# Rejestracja
 
-## How do I register?
+## Jak się zarejestrować?
 
-**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the steps below to set up your osu! account.**
+**Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z [zasadami osu!](/wiki/Rules/). Aby stworzyć konto, postępuj zgodnie z następującymi krokami.**
 
-1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
-![Registration button](Register-1.png "Registration button")
-2. Fill out all fields in the form below and press ``Continue``  
-![Account fields](Register-2.png "Account fields")
-    1. Username          
-        - Maximum of 15 characters
-        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``), dashes (``-``), and spaces (`` ``) are the only characters allowed.
-    2. E-mail Address
-    3. Password
-    4. Note
-    5. Continue
-3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
+1. Na [stronie osu!](https://osu.ppy.sh), kliknij ``I'm new!``, aby rozpocząć rejstrację.
 
-## Logging In to osu!
+![Przycisk rejestracji](Register-1.png "Przycisk rejestracji")
 
-### osu! executable
+2. Wypełnij wszystkie pola i kliknij ``Continue``  
 
-![Register.png](Register-3.png)  
+![Formularz rejestracyjny](Register-2.png "Formularz rejestracyjny")
 
-This executable (which should be named `osu!.exe`) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._
+    1. Nazwa użytkownika         
+        - Może składać się z maksymalnie 15 znaków
+        - Dozwolone są tylko znaki alfanumeryczne (``a-z``, ``A-Z``, ``0-9``), podłogi (``_``), kwadratowe nawiasy, (``[`` i ``]``), myślniki (``-``) oraz spacje (`` ``).
+    2. Adres e-mail
+    3. Hasło
+    4. Adnotacja
+    5. Kontynuuj
+3. Zaloguj się w osu! i gotowe. Udało ci się utworzyć własne konto!
 
-### Options panel
+## Logowanie się
 
-*See also: [Options](/wiki/Options)*
+### Plik wykonywalny osu!
 
-![Login.png](Login.png)
+![Plik wykonywalny osu!](Register-3.png)  
 
-If this is your first time starting *osu!*, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.
+Plik wykonywalny o nazwie `osu!.exe` służy do otwierania gry. Jeżeli pojawią się nowe aktualizacje, zostaną one zainstalowane automatycznie. _Ważne: Nie musisz uruchamiać osu! jako administrator. Jeżeli gra będzie tego wymagać, otrzymasz odpowiednie powiadomienie._
 
-### User panel
+### Panel opcji
 
-![Userpanel.png](Userpanel.png)
+*Zobacz także: [Opcje](/wiki/Options)*
 
-Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into *osu!* and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
+![Panel opcji](Login.png)
 
+Jeżeli uruchamiasz osu! po raz pierwszy, panel opcji pojawi się po lewej stronie ekranu gry. Wpisz swoją nazwę użytkownika i hasło w odpowiednie pola i zaloguj się.
 
-What's next?
-------------
+### Panel użytkownika
 
-You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
+![Panel użytkownika](Userpanel.png)
 
-If you need in-game assistance, ask the `#help` channel on IRC or post your problem to the forums.
+Jeżeli wprowadzone przez ciebie dane są poprawne, panel użytkownika pojawi się w lewej górnej części ekranu gry. Oznacza to, że logowanie przeszło poprawnie i możesz zacząć grać! Panel ten będzie także widoczny w dolnej części ekranu wyboru piosenki, po prawo od przycisku ``Beatmap Options``.
 
-To join ``#help``, press `F8` and type ``/join #help``. You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to ``#help``, and click it to join the channel.
+## Co dalej?
 
-When in doubt, always remember that:
-> rhythm is just a click away!
+Możesz rozpocząć już swoją rytmiczną przygodę, dlatego udaj się do [strony powitalnej](/wiki/Welcome/) i zacznij grać! Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules/)!
+
+Jeżeli masz pytania lub potrzebujesz pomocy, zapytaj na kanale `#help` bądź utwórz nowy post w odpowiednim forum.
+
+Aby dołączyć do kanału ``#help``, naciśnij `F8` i napisz ``/join #help``. Możesz także nacisnąć ![Przycisk wyboru kanałów](Channelopenbutton.png) żółty przycisk, znajdujący się na prawo od otworzonych kanałów, przejdź do ``#help`` i nacisnąć go, aby dołączyć do kanału.
+
+W razie wątpliwości pamiętaj, że:1
+> rytm jest tylko o klik stąd!
