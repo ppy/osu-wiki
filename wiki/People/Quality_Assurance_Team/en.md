@@ -16,7 +16,7 @@ Team Members
 Link to [user group page](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages       | Primary Branch       |
-|---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------:|----------------------------:|
+|---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|:----------------------------|
 | [-Mo-](https://osu.ppy.sh/users/4314710)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                            | Disqualifications      |
 | [Asherz007](https://osu.ppy.sh/users/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                            | osu!mania              |
 | [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German             | BN Applications        |
