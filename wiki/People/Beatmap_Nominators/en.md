@@ -6,30 +6,28 @@ Beatmap Nominators
 
 *See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](Beatmap_Nominator_General_Information).*
 
-The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. The most recent change was on 2015-02-01 when the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*.
+The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums.
 
 Roles and Responsibilities
 --------------------------
 
-![The Nominator Badge](Nominator.png "The Nominator Badge")
-
-Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for any modding or advice requests about anything mapping or modding related.
+Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related.
 
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team on 22. August 2014, joining the Beatmap Nominators is now a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
+With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one month.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
 + They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
-+ They provide 3 to 5 of their mods which they think qualify them to be a part of the Beatmap Nominators.
++ They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What Qualifies as a Mod Post
 + Upon signing up you will be asked to provide the total amount of Kudosu as well as the amount of mod posts within the last 3 months, sorted by month upon signing up. So if the announcement is posted in April, the mod posts for January, February, and March will be relevant. The relevant months will also be listed on the submission form.
 + A mod post qualifies as one if it has received a Kudosu and has been created within the time span listed on the submission form.
-+ Since November 2017 beatmaps affected under Modding V2 had a reward system implemented based on upvotes/downvotes. The "mod post" equivalent in this case is a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote.
++ Since November 2017, beatmaps affected under Modding V2 had a reward system implemented based on upvotes/downvotes. The "mod post" equivalent in this case is a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote.
 + The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 + The point in time at which the Kudosu has been awarded to you mod post does not matter. The only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
 
@@ -43,23 +41,25 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 
 ![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
 
++ [This online tool](http://modscore.little.moe/) can be used to calculate mod score.
 + In order to determine their `Required Minimum Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
 + The overall minimum threshold is set to the following values:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
-+ It is usually a good idea to keep your score well above these numbers, as they can vary slightly depending on the amount of applicants.
++ It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
-+ The `Mod Score` and the `Kudosu Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
++ The `Mod Score` and `Kudosu Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
 + Modders that acquired enough score will be evaluated by the corresponding QAT members of the game mode they applied for, taking into account the following criteria:
   + General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   + Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
-+ After balancing the pros and cons of each modder, a discussion will be made whether the modder will become a Beatmap Nominator or not.
++ After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
 Team Members
 ------------
 
-_Please note: All BN speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/groups/28).
+The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
+_Please note: All BN speak English unless otherwise noted._ Link to the [user group page](https://osu.ppy.sh/groups/28).
 
 ### osu!standard
 
