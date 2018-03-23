@@ -1,43 +1,53 @@
-Jak się zarejestrować?
-----------------------
+# Registration
 
-<center>
-**<font size="3">Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules zasadami osu!\]</span>. Aby stworzyć konto, wykonaj następujące kroki.**
-</font>
-<span style="font-size:18px">1. Na <span class="plainlinks"> [stronie osu!](https://osu.ppy.sh)</span> naciśnij „<b>I'm new!</b>”, aby się zarejestrować. </span>
+## How do I register?
 
-<span style="font-size:18px">2. Wypełnij wszystkie pola i naciśnij „Continue” </span>
+**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the steps below to set up your osu! account.**
 
-| <b>Legenda</b>                                                                                                                           |
-|------------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Username**                                                                                                                          |
-| a. Maksymalna długość to 15 znaków                                                                                                       |
-| b. Dozwolone są tylko znaki alfanumeryczne („a-z, A-Z, 0-9”), podkreślenia („\_”), nawiasy kwadratowe („\[” i „\]”) oraz myślniki („-”). |
-| **2. E-mail Address**                                                                                                                    |
-| **3. Password**                                                                                                                          |
-| **4. Note**                                                                                                                              |
-| **5. Przycisk Continue**                                                                                                                 |
+1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
+![Registration button](Register-1.png "Registration button")
+2. Fill out all fields in the form below and press ``Continue``  
+![Account fields](Register-2.png "Account fields")
+    1. Username          
+        - Maximum of 15 characters
+        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``), dashes (``-``), and spaces (`` ``) are the only characters allowed.
+    2. E-mail Address
+    3. Password
+    4. Note
+    5. Continue
+3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
 
-<span style="font-size:18px">3. Zaloguj się w kliencie osu!, i gotowe. Rejestracja konta została zakończona pomyślnie! </span>
+## Logging In to osu!
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
+### osu! executable
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
+![Register.png](Register-3.png)  
 
-| Legenda             |
-|---------------------|
-| **1. Ikonka osu!**  |
-| **2. Panel opcji**  |
-| **3. Karta gracza** |
+This executable (which should be named `osu!.exe`) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._
 
-</center>
-Co dalej?
----------
+### Options panel
 
-Twoja przygoda z osu! właśnie się rozpoczyna! Przejrzyj jeszcze [stronę powitalną](PL:Welcome "wikilink") i możesz zacząć grać. Nie zapomnij o przeczytaniu [zasad](PL:Rules "wikilink")!
+*See also: [Options](/wiki/Options)*
 
-Jeżeli potrzebujesz pomocy, zapytaj na kanale \#help albo napisz post na forum!
+![Login.png](Login.png)
 
-Aby dołączyć do kanału \#help, naciśnij F8 i napisz „/join \#help”. Możesz także nacisnąć żółty przycisk ![](Channelopenbutton.png "fig:Channelopenbutton.png") znajdujący się na prawo od listy obecnie wyświetlanych kanałów i wybrać kanał \#help z listy.
+If this is your first time starting *osu!*, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.
 
-W razie wątpliwości, zawsze pamiętaj, że rytm jest tylko jedno kliknięcie stąd!
+### User panel
+
+![Userpanel.png](Userpanel.png)
+
+Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into *osu!* and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
+
+
+What's next?
+------------
+
+You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
+
+If you need in-game assistance, ask the `#help` channel on IRC or post your problem to the forums.
+
+To join ``#help``, press `F8` and type ``/join #help``. You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to ``#help``, and click it to join the channel.
+
+When in doubt, always remember that:
+> rhythm is just a click away!
