@@ -88,7 +88,7 @@ The osu!taiko World Cup 2018 is ran by various community members by distributing
 
 
 
-_Remember this is not the full list of team, some of them are still missing_
+_Remember this is not the full list of teams, some of them are still missing_
 
 
 
