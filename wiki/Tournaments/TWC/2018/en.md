@@ -29,7 +29,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!taiko Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
 
@@ -244,30 +244,27 @@ Mappools will be revealed one week in advance of each stage.
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
 
 
