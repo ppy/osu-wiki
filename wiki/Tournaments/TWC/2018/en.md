@@ -15,7 +15,7 @@ The **osu!taiko World Cup 2018** (**_TWC 2018_**) is a country-based osu!taiko t
 | Event | Timestamp |
 | ---: | :--- |
 | Registration Phase | 2018-03-08/2018-03-21 |
-| Drawings | 2018-03-31 (14:00:00 UTC) |
+| Drawings | 2018-03-31 (14:00 UTC) |
 | Group Stage | 2018-04-07/2018-04-08 |
 | Round of 16 | 2018-04-14/2018-04-15 |
 | Quarterfinals | 2018-04-21/2018-04-22 |
@@ -36,7 +36,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The osu!taiko World Cup 2018 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | ------------ | -------------- |
@@ -199,10 +199,10 @@ Mappools will be revealed one week in advance of each stage.
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2017: (TeamRed) vs (TeamBlue)".
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
-3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
