@@ -29,11 +29,10 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | profile badge, "osu!taiko Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
 
-_More prizes to be defined_
 
 ## Organization
 
@@ -41,21 +40,57 @@ The osu!taiko World Cup 2018 is ran by various community members by distributing
 
 | Position | Members |
 | ------------ | -------------- |
-| Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selectors | [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766), [![][flag_DE] Onosakihito](https://osu.ppy.sh/users/290128) |
+| Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selectors | [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766), [![][flag_DE] OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Commentators | _To be decided_ |
+| Referees | [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565) |
+| Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/555072)
-- [Sign-Up for the tournament!](https://osu.ppy.sh/community/tournaments/14)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/713163)
 - [Livestream](https://www.twitch.tv/osulive)
 
 -----------------------
 
 ## Participants
 
-Players will be displayed after the registration phase is completed.
+- Confirmed rosters
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![][flag_AU] | **Australia** | **[Aloda](https://osu.ppy.sh/users/1190127)**, [rango](https://osu.ppy.sh/users/7728466), [Beat43210](https://osu.ppy.sh/users/5664171), [Ceryuia](https://osu.ppy.sh/users/5253213), [remii](https://osu.ppy.sh/users/2913584) |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Reikocchi](https://osu.ppy.sh/users/1110109), [hot anime girl](https://osu.ppy.sh/users/4773855), [Lefafel](https://osu.ppy.sh/users/2295850) |
+| ![][flag_HK] | **Hong Kong** | **[sing216](https://osu.ppy.sh/users/6096445)**, [J a c k y](https://osu.ppy.sh/users/8011704), [Faputa](https://osu.ppy.sh/users/845733) |
+| ![][flag_PT] | **Portugal** | **[babysnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430), [BlackPet](https://osu.ppy.sh/users/3795067) |
+| ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [L y s](https://osu.ppy.sh/users/211825), [\_Asriel](https://osu.ppy.sh/users/566276), [MetalStream](https://osu.ppy.sh/users/165027) |
+| ![][flag_UA] | **Ukraine** | **[gavnono](https://osu.ppy.sh/users/1625581)**, [Protoescapist](https://osu.ppy.sh/users/7226687), [Don Omar](https://osu.ppy.sh/users/689414) |
+| ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [[\_LordEnder\_]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
+
+- Pending rosters
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | **[Midnaait](https://osu.ppy.sh/users/1506011)** |
+| ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)** |
+| ![][flag_CA] | **Canada** | **[janitoreihil](https://osu.ppy.sh/users/3307897)** |
+| ![][flag_CL] | **Chile** | **[-Kazu-](https://osu.ppy.sh/users/920861)** |
+| ![][flag_FR] | **France** | **[Arrival](https://osu.ppy.sh/users/1694000)** |
+| ![][flag_DE] | **Germany** | **[Nepuri](https://osu.ppy.sh/users/6637817)** |
+| ![][flag_ID] | **Indonesia** | **[Niko-nyan](https://osu.ppy.sh/users/906991)** |
+| ![][flag_JP] | **Japan** | **[tasuke912](https://osu.ppy.sh/users/2774767)** |
+| ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)** |
+| ![][flag_RU] | **Russian Federation** | **[Alt](https://osu.ppy.sh/users/736496)** |
+| ![][flag_ES] | **Spain** | **[Raiden](https://osu.ppy.sh/users/2239480)** |
+| ![][flag_TW] | **Taiwan** | **[-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)** |
+| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)** |
+
+
+
+_Remember this is not the full list of team, some of them are still missing_
+
+
 
 -----------------------
 
@@ -69,7 +104,7 @@ Mappools will be revealed one week in advance of each stage.
 ### Tournament Rules
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
+   - The competition will feature a 2v2 format with 3 substitues allowed for each team.
 
 2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://new.ppy.sh/forum/t/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
@@ -129,7 +164,6 @@ Mappools will be revealed one week in advance of each stage.
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
-  - This may change depending on how many teams are accepted into the competition at the end.
 
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
@@ -210,30 +244,30 @@ Mappools will be revealed one week in advance of each stage.
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_MO]: /wiki/shared/flag/MO.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+
+
