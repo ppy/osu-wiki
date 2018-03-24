@@ -52,6 +52,18 @@ In osu!, there are over 200 skinnable elements (not including the individual ani
 
 That being said, a skinning set (defined by the Ranking Criteria) basically states which elements must be skinned if one of them in the set were skinned. For example, the player using your skin may not like it if you had only skinned only half of the default numbers and left the others as to use their defaults. However, this only strictly applies to beatmap skinning but you may want to take this into account for you own skin.
 
+### Is an edited skin a mixed skin?
+
+Edited skins are considered mixed. Thus, they cannot be posted in any subforums.
+
+### Can I remake a skin that someone else made?
+
+Yes, you can have a similar skin theme as someone else who might have done it before you. However, you must make the assets yourself and, obviously, don't copy the assets from the other skin you are trying to remake.
+
+### Why isn't there a database for skins, like beatmaps?
+
+There are some third-party projects that try to do this already. However, the skinning database is already planned. For more details, see [ppy/osu-web#61 - Skin System](https://github.com/ppy/osu-web/issues/61).
+
 ## Sharing
 
 ### How do I share my skin?
@@ -66,9 +78,21 @@ First, before you share your skin, make sure you have removed other files that a
 1. Take the `.osk` file with your skin's name and upload it
 1. You can now share it!
 
+### Can I post a mixed skin in the skinning subforums?
+
+No, you are not allowed to post a mixed skin in any subforums. The same thing applies for edited skins as well.
+
+#### Where can I post my mixed skin?
+
+You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins/), or anywhere else outside of the osu! forums.
+
+### Can I post a skin remake?
+
+Yes, skin remakes are not considered to be mixed. So you can post these, as long as none of the assets were copied or duplicated from another skin (in which, it would be considered mixed).
+
 ### Can I post R15 skins in the skinning subforums?
 
-**Yes, and if you do, you must add warning on your forum post.** R15 skins may include but are not limited to:
+**Yes, and if you do, you must add warning on your forum post.** R15 skins may include but not limited to:
 
 - suggestive or visible underwear
 - swimsuits and/or bikinis
@@ -80,7 +104,13 @@ To add this warning, simply prefix `[R15]` to your thread post title and write a
 
 **No, you are never allowed to post skins that contains any R18 content anywhere in osu! Period.**
 
-If you post your R18 skin anywhere in the osu! community, be aware that you will be punished for that. On the other hand, if you release it outside the osu! community walls, nobody will hunt you down.
+If you post your R18 skin anywhere in the osu! community, be aware that you will be punished for that. On the other hand, if you release it outside the osu! community walls, nobody will hunt you down. R18 skins may include but not limited to:
+
+- nudity
+- near-nudity
+- sexual references
+- violence
+- drug abuse
 
 ### Post template
 
