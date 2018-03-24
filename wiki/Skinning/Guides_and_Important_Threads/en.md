@@ -1,6 +1,6 @@
-# Guides and important threads
+# Guides and Important Threads
 
-This  is a list of guides and important threads, that got created by the community.
+List of guides and important threads, created by the community.
 
 ## Guides
 
