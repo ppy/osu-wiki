@@ -18,6 +18,9 @@ As some of you may already be aware, it's been another busy month in our fair co
 
 One of these changes is that for the first time in months, I won't be presenting this issue alone! Who knows what could happen, so let's get started right away!
 
+## Within the Beatmap Nominators 
+by [Protastic101](https://osu.ppy.sh/users/6712747)
+
 Last month we opened the Gazette with some fun little statistics about the current rate of beatmap qualification and the impressive showing made by our hard-working Beatmap Nominators. I'm pleased to say a month later that our progress continues at an incredible pace, with currently just shy of 120 brand new beatmaps on their way to Ranked status.
 
 ### New Beatmap Nominator Promotions
