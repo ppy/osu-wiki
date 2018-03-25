@@ -1,6 +1,6 @@
 # 2007
 
-*Página principal: [History of osu!](/wiki/HOO).*
+*Página principal: [Historia de osu!](/wiki/HOO).*
 
 Lo siguiente es parte de la historia de osu! desde su comienzo. Gracias especiales a [Sinistro](/users/5530) por ayudar a compilar el contenido de 2007/2008.
 ![](img/2007.jpg)
