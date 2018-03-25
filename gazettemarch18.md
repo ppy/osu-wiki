@@ -6,6 +6,8 @@ date: 2018-03-27 09:00:00 +0000
 ## Opening 
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
+Welcome back everyone! JBHyperion here with another month's worth of news and developments!
+
 Restructuring of the Quality Assurance Team, more communication and transparency regarding decision-making, and a greater focus on actually ensuring quality in the Qualified section again... Big changes to discuss this month, so read inside to find out all the details!
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
@@ -65,5 +67,8 @@ Not everything can always be good news, for it is at times of loss when one real
 ## Summary 
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
+And so another month of updates in osu!'s mapping and modding community draws to its conclusion. Many thanks to Raiden and Protastic101 for their contributions in this month's issue - hopefully you enjoyed a slightly different perspective on things if you're too used to my ramblings by now! It's a little scary to think that a quarter of 2018 has passed by already, but we have achieved so much as a community in that short period of time that I can't wait to see where we all end up... There truly are no brakes on this hype train!
+
+Thanks for reading, and we'll see you all next month for more!
 
 **—JBHyperion**, **Protastic101** and **Raiden** 
