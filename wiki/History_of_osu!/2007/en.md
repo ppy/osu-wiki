@@ -1,99 +1,99 @@
 # 2007
 
-*Main page: [History of osu!](/wiki/HOO).*
+*Página principal: [Historia de osu!](/wiki/HOO).*
 
-The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](/users/5530) for helping in compiling the 2007/2008 content.
-
+Lo siguiente es parte de la historia de osu! desde su comienzo. Gracias especiales a [Sinistro](/users/5530) por ayudar a compilar el contenido de 2007/2008.
 ![](img/2007.jpg)
 
-## July
+## Julio
 
-osu! began as a proof-of-concept named "ouentest". The first version was released on 2007-07-01 to a small group of peppy's close friends and featured a very basic editor and play mode. The editor had no seeking or snapping functions, but could only make simple beatmaps. There were no sliders or spinners at this point, but basic scoring/combo counters were present. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) to handle updating to the latest version.
+osu! comanzó como una prueba de concepto llamado "ouentest". La primera versión fue lanzado en 2007-07-01 a un pequeño grupo de amigos íntimos de Peppy que contenía un editor y modo de juego muy básico. El editor no contenía con funciones de busqueda o ajuste, por lo tanto solo se podían hacer beatmaps simples. En este punto aún no habían deslizadores o ruletas, pero estaba presente un contador básico de combo/puntaje. La primera versión tomó aproximadamente 16 horas de codificación y se realizón en un *single all-nighter*. `pUpdater` fue introducido (que pronto se conocerá como `osume`) para gestionar actualizaciones a versiones más actuales.
 
-![](img/2007-07_01.jpg "Song Selection")
+![](img/2007-07_01.jpg "Selección de canción")
 
-![](img/2007-07_02.jpg "Test-play")
+![](img/2007-07_02.jpg "Juegos de prueba")
 
-![](img/2007-07_03.jpg "More test-play")
+![](img/2007-07_03.jpg "Más juego de prueba")
 
-![](img/2007-07_04.jpg "Hit circles")
+![](img/2007-07_04.jpg "Círculos")
 
-By the end of July, the menu system was changed to add a bit of style to the game. An initial implementation of sliders was completed, with a non-animated orange slider ball and some relatively ugly curves. Beat snapping was added to the editor, as was a timeline and a more robust editor interface (quite similar to what you see in [Compose](/wiki/Compose) view today).
+A fines de Julio, El sistema de menu fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización del tiempo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Compose) actualmente).
 
-![](img/2007-07_05.jpg "The editor")
+![](img/2007-07_05.jpg "El editor")
 
-![](img/2007-07_06.jpg "Song Selection for Edit Mode")
+![](img/2007-07_06.jpg "Selección de canciones para el modo editor")
 
-![](img/2007-07_07.jpg "Slider creation in the editors")
+![](img/2007-07_07.jpg "Creación de deslizadores en el editor")
 
 ![](img/2007-07_08.jpg "Gameplay")
 
-## August
+## Agosto
 
-The main menu was updated with a new look, and the editor received a lot of new functionalities, including copy and paste support. The Windows's menubar and cursor were added, making editor features were a lot more accessible than before. Sliders were more extensively supported, with ticks present and disappearing as the slider ball passes them. Stacking of hit circles were present. Local high scores were a lot better supported. The `.osu` file format was revised and completely revamped, but includes conversion of older files to the new format.
+El menú principal fue actualizado con un nuevo diseño, y el editor recibió muchas mejoras, incluyendo un soporte para copiar y pegar. Se agregó la barra de menú y el cursor de Windows, haciendo funciones del editor mucho más accesibles que antes. Los deslizadores eran mucho mejor soportados, con ticks presentes y desapareciendo cuando la bola deslizadora los pasa. Apilamiento de círculos estaban presentes. Los puntajes locales estaban mucho mejor soportados. El formato de archivo `.osu` fue revisado y completamente renovado, pero incluye la conversión de archivos antiguos al nuevo formato.
 
-![](img/2007-08_01.jpg "Song Selection screen for Play Mode")
+![](img/2007-08_01.jpg "Pantalla para seleccionar canciones en el modo juego")
 
-![](img/2007-08_02.jpg "Evolution of the hit bursts")
+![](img/2007-08_02.jpg "Evolucion de los hit bursts")
 
-Gameplay was enhanced with the debut of [combo fire](/wiki/combo_fire), the HP bar, mouse trails, and better looking sliders. By this point, osu! had a humble collection of around 10 beatmaps made by the testing team of around 5 people.
+La jugabilidad se vio mejorada con el debut de [combo fire](/wiki/combo_fire), la barra de HP, rastros del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
 
-![](img/2007-08_03.jpg "Song Selection for Edit Mode")
+![](img/2007-08_03.jpg "Selector de canciones para el modo editor")
 
 ![](img/2007-08_04.jpg "Gameplay")
 
-## September
+## Septiembre
 
 ![](img/2007-09.jpg)
 
-2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on <http://www.bemanistyle.com> which drew quite a few interested people with previous rhythm game experience.
+2007-09-17 fue el nacimiento de osu! en lo que respecta al público. los foros que conocemos actualmente fueron establecidos, y alojados desde el dominio de origen de Peppy (`ppy.sh`). La atención se obtuvo a través de un anuncio de noticias en <http://www.bemanistyle.com> 
+que atrajo a bastantes personas interesadas con experiencias anteriores en juegos de ritmo.
 
-![](img/2007-09_01.jpg "Slider creation in the editor")
+![](img/2007-09_01.jpg "Creación de deslizador en el editor")
 
-![](img/2007-09_02.jpg "Main Menu")
+![](img/2007-09_02.jpg "Menu principal")
 
-![](img/2007-09_03.jpg "Spinner \(based on DS's official Ouendan\)")
+![](img/2007-09_03.jpg "Ruleta \(basado en el juego de DS official Ouendan\)")
 
-![](img/2007-09_04.jpg "Grading Screen")
+![](img/2007-09_04.jpg "Pantalla de clasificación")
 
-![](img/2007-09_05.jpg "News announcement on a gaming website")
+![](img/2007-09_05.jpg "Anuncio de noticias en un sitio web de juegos")
 
-Quickly after the public release, the first play mods, [Easy](/wiki/EZ) and [No Fail](/wiki/NF), were added, as well as break sections (which up until now had been ignored and missing). A large number of changes quickly made osu! look more and more like a commercial rhythm game.
+Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/EZ) y [No Fail](/wiki/NF), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hice que osu! rápidamente se viera más y más como un juego de ritmo comercial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
-## October
+## Octubre
 
-2007-10-01 was the day when online rankings were made available publicly. This also saw the launch of the `.osz` packaging method, and online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and also displayed on the website.
+2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmap en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz de en-juego y también mostradas en la página.
 
 ![](img/2007-10_01.jpg)
 
-The song selection screen saw improvements, with grouping of difficulties and more intuitive song wheel movement. The soft sample set, keyboard-based controls, in-game searching all originate in this month. Players could make universal skins and per-beatmap skins for the first time and full TabletPC support was implemented.
+La pantalla para seleccionar canciones vio mejoras, con agrupación de dificultades y un movimiento más intuitivo de rueda. Conjunto de muestra más suave, controles basados en teclado, todas las búsquedas dentro del juego se originan en este mes. Los jugadores podrían hacer skins universales y por beatmap por primera vez y se implementó el soporte total de TabletPC.
 
-![](img/2007-10_02.jpg "Song Selection in Solo Mode")
+![](img/2007-10_02.jpg "Selector de canciones en un jugador")
 
-![](img/2007-10_03.jpg "Error message")
+![](img/2007-10_03.jpg "Mensaje de error")
 
-`pUpdater` (`osume`) version 2 was released, supporting optional package downloads. This included making the first user-made skins available to all players via the updater. The editor saw the addition of [distance-based snapping](/wiki/Distance_Snap), bookmark support, multiple slider curve types, custom colours, play-testing, lead-in time, and much more.
+La versión 2 de `pUpdater` (`osume`) fue lanzada, compatible con descargas de paquetes opcionales. Esto incluyó hacer que los primeros skins hechos por el usuario estén disponibles para todos los jugadores a través del actualizador. El editor vio la implementación de [distance-based snapping](/wiki/Distance_Snap), soporte de marcadores, múltiples tipos de curvas para los deslizadores, colores customizados, juego de prueba, tiempo de entrada, y mucho más.
 
-## November
+## Noviembre
 
-A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/NV) and [Hidden](/wiki/HD) mods were introduced, and the SH (sliver S) and SSH (sliver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon.
+El resultado SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/NV) y [Hidden](/wiki/HD) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con esto. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
 ---
 
-![](img/2007-11_01.jpg "Main Menu \(Flooded with stars\)")
+![](img/2007-11_01.jpg "Menú principal \(Lleno de estrellas\)")
 
-![](img/2007-11_02.jpg "Log in screen")
+![](img/2007-11_02.jpg "Pantalla para iniciar sesión")
 
-![](img/2007-11_03.jpg "Testing IRC usage")
+![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-The [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of pending and ranked maps and helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added, as an IRC client built from scratch and connected to a standard IRC server (no bancho yet). Extended chat was visible. Avatars and basic stats were displayed in game (using an http-based communication). Audio controls were also added to the main menu, which also now plays a random song on startup. Replays could be watched for both local scores and online plays. Players could spectate other players (and spectator data was sent raw over IRC!).
+El sistema [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo el estado de mapas pendientes y en el ranking lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, como un cliente IRC construido en scratch y conectado a un servidor IRC estándar (todavía no existe Bancho) El chat ampliado era visible. Avatars y otras estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Control de audio fue introducido al menú principal, que también reproduce una canción al azar al inicio. Las repeticiones pueden ser vistas en records locales o en línea. Los jugadores pueden espectar a otros (¡y los datos del espectador se enviaron sin procesar a través de IRC!).
 
-## December
+## Diciembre
 
-Songs could be edited by dragging them into the osu! window. Tooltips were added; explaining all the various buttons in the osu! menus and editor interface. Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). New sorting methods were added to the song selection screen. peppy could now send universal announcements to all osu! players. Minor tweaks were made to gameplay, such as non-active circle dimming.
+Las canciones pueden ser editadas al ser arrastradas a la venta de osu!. Infromación sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchos skins de calidad fueron presentados por desarrolladores pasados ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). Nuevos métodos de clasificación en la pantalla de selección de canciones. Peppy ahora podría enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
 
 ![](img/2007-12_01.jpg)
