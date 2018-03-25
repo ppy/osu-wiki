@@ -16,13 +16,24 @@ As some of you may already be aware, it's been another busy month in our fair co
 
 One of these changes is that for the first time in months, I won't be presenting this issue alone! Who knows what could happen, so let's get started right away!
 
-## Within the Beatmap Nominators 
-by [Protastic101](https://osu.ppy.sh/users/6712747)
-### New Beatmap Nominator promotions
+Last month we opened the Gazette with some fun little statistics about the current rate of beatmap qualification and the impressive showing made by our hard-working Beatmap Nominators. I'm pleased to say a month later that our progress continues at an incredible pace, with currently just shy of 120 brand new beatmaps on their way to Ranked status.
 
-### Beatmap Nominator retirements
+### New Beatmap Nominator Promotions
+With the ever increasing number of pending maps submitted daily for modding and nomination by helpful members of the community and our hardworking Beatmap Nominators, we’ve added new members for osu!taiko, osu!catch, and osu!mania. Please welcome our newest additions to the Beatmap Nominators:
+
+[Nepuri](https://osu.ppy.sh/users/6637817), [-Kazu-](https://osu.ppy.sh/users/920861), [Faputa](https://osu.ppy.sh/users/845733), [hikikochan](https://osu.ppy.sh/users/6512678), [Ascendance](https://osu.ppy.sh/users/2931883), [Sanyi](https://osu.ppy.sh/users/7496029), [JeirYagtama](https://osu.ppy.sh/users/7483452), [Arzenvald](https://osu.ppy.sh/users/3027421), [AJamez](https://osu.ppy.sh/users/7890134), and [error_exe777](https://osu.ppy.sh/users/7975796)!
+
+Additionally, [mancuso_JM_](https://osu.ppy.sh/users/521568) and [Kisses](https://osu.ppy.sh/users/4276114) are now qualified to check osu!taiko maps alongside their original qualification in osu!
+
+Less than a month in and they’ve all worked hard to bring new content to the ranked section. Congratulations to everyone and may your time in the Beatmap Nominators be an enjoyable and exciting experience!
+
+### Beatmap Nominator Retirements
+Just as we say hello to new members, we must also say goodbye to old friends who have left to focus on other things. Please say farewell to [Naotoshi](https://osu.ppy.sh/u/5364763) and [xfraczynho](https://osu.ppy.sh/u/2192669) and show them appreciation for their hard work in Osu! and Osu!Taiko respectively. Their efforts have positively impacted this community and paved the way for new members to follow in continuation of their work. It is much appreciated!
 
 ### Creation of the Quality Assurance Helpers (QAH for short)
+The Beatmap Nominators have been internally split with the creation of the Quality Assurance Helpers. With the large influx of newly qualified maps every day, there was no easy way to ensure the quality of all these maps without going back to the old 2014 model of having the small team of QATs checking multiple maps all the time. As a result, the Quality Assurance Helpers was started in order to get Beatmap Nominators more involved in the checking of qualified maps to keep this a community driven effort rather than the opinions of only a few Quality Assurance Team members on every map in qualified. Any full member of the BNG is allowed to join and leave at any time they wish, and activity requirements are fairly low to avoid burn out.
+
+Even if you’re not a Beatmap Nominator, don’t fear because you can still report qualified maps yourself in the [Report a Qualified Beatmap Here!](https://osu.ppy.sh/community/forums/topics/447428) thread, the same as before. The purpose of the Quality Assurance Helpers is to streamline this process and make sure all and not just some maps are checked. Everything else remains the same as before. If you have concerns over a beatmap, post your concerns and it will be looked over by a member of the Quality Assurance Team!
 
 ## Within the Quality Assurance Team 
 by [Raiden](https://osu.ppy.sh/users/2239480)
