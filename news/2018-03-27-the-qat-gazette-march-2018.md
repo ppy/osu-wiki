@@ -56,8 +56,10 @@ by [Raiden](https://osu.ppy.sh/users/2239480)
 
 Members marked with an (L) are the designed **leaders** of each branch.
 
-People join, people leave. That's how communities evolve throughout history. And the QAT is no different. 
+
 ### New Quality Assurance Team additions
+People join, people leave. That's how communities evolve throughout history. And the QAT is no different. 
+
 Thanks to the QAH initiative explained above, we have determined some of our Beatmap Nominators were qualified enough to become part of our team. With the addition of the new branches also explained above, each one of the new QAT members is assigned to one or various branches, making our duties more organized. 
 
 Please give a warm welcome to:
