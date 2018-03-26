@@ -133,6 +133,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
 | [JUDYDANNY](https://osu.ppy.sh/users/1165475)         | Japanese                 |
 | [Kin](https://osu.ppy.sh/users/480689)                | French                   |
+| [Kisses](https://osu.ppy.sh/users/4276114)            |                          |
 | [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
