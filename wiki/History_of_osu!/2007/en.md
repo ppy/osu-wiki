@@ -7,7 +7,7 @@ Lo siguiente es parte de la historia de osu! desde su comienzo. Gracias especial
 
 ## Julio
 
-osu! comanzó como una prueba de concepto llamado "ouentest". La primera versión fue lanzado en 2007-07-01 a un pequeño grupo de amigos íntimos de Peppy que contenía un editor y modo de juego muy básico. El editor no contenía con funciones de busqueda o ajuste, por lo tanto solo se podían hacer beatmaps simples. En este punto aún no habían deslizadores o ruletas, pero estaba presente un contador básico de combo/puntaje. La primera versión tomó aproximadamente 16 horas de codificación y se realizón en un *single all-nighter*. `pUpdater` fue introducido (que pronto se conocerá como `osume`) para gestionar actualizaciones a versiones más actuales.
+osu! comenzó como una prueba de concepto llamado "ouentest". La primera versión fue lanzada en 2007-07-01 a un pequeño grupo de amigos íntimos de Peppy que contenía un editor y modo de juego muy básico. El editor no contenía funciones de busqueda o ajuste, por lo tanto solo se podían hacer beatmaps simples. En este punto aún no habían deslizadores o ruletas, pero estaba presente un contador básico de combo/puntaje. La primera versión tomó aproximadamente 16 horas de codificación y se realizón en un *single all-nighter*. `pUpdater` fue introducido (que pronto se conocerá como `osume`) para gestionar actualizaciones a versiones más actuales.
 
 ![](img/2007-07_01.jpg "Selección de canción")
 
@@ -17,7 +17,7 @@ osu! comanzó como una prueba de concepto llamado "ouentest". La primera versió
 
 ![](img/2007-07_04.jpg "Círculos")
 
-A fines de Julio, El sistema de menu fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización del tiempo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Compose) actualmente).
+A fines de Julio, El sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización del tiempo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Compose) actualmente).
 
 ![](img/2007-07_05.jpg "El editor")
 
@@ -58,7 +58,7 @@ que atrajo a bastantes personas interesadas con experiencias anteriores en juego
 
 ![](img/2007-09_05.jpg "Anuncio de noticias en un sitio web de juegos")
 
-Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/EZ) y [No Fail](/wiki/NF), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hice que osu! rápidamente se viera más y más como un juego de ritmo comercial.
+Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/EZ) y [No Fail](/wiki/NF), fueron integrados, así como secciones de descanso (que hasta ahora habían sido ignoradas). Una gran cantidad de cambios hizo que osu! rápidamente se viera más y más como un juego de ritmo comercial.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -90,10 +90,10 @@ El resultado SS fue agregado al sistema de calificaciones, reemplazando el resul
 
 ![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-El sistema [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo el estado de mapas pendientes y en el ranking lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, como un cliente IRC construido en scratch y conectado a un servidor IRC estándar (todavía no existe Bancho) El chat ampliado era visible. Avatars y otras estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Control de audio fue introducido al menú principal, que también reproduce una canción al azar al inicio. Las repeticiones pueden ser vistas en records locales o en línea. Los jugadores pueden espectar a otros (¡y los datos del espectador se enviaron sin procesar a través de IRC!).
+El sistema [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo la sección de mapas pendientes y en el ranking lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido en scratch y conectado a un servidor IRC estándar (todavía no existe Bancho) El chat ampliado era visible. Avatars y otras estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Control de audio fue introducido al menú principal, que también reproduce una canción al azar al inicio. Las repeticiones de records locales o en línea pueden ser vistas por el usuario. Los jugadores pueden espectar a otros (¡y los datos del espectador se enviaron sin procesar a través de IRC!).
 
 ## Diciembre
 
-Las canciones pueden ser editadas al ser arrastradas a la venta de osu!. Infromación sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchos skins de calidad fueron presentados por desarrolladores pasados ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). Nuevos métodos de clasificación en la pantalla de selección de canciones. Peppy ahora podría enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
+Las canciones pueden ser editadas al ser arrastradas a la venta de osu!. Infromación sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchos skins de calidad fueron presentados por desarrolladores con experiencia ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). Nuevos métodos de clasificación en la pantalla de selección de canciones. Peppy ahora podría enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
 
 ![](img/2007-12_01.jpg)
