@@ -12,8 +12,6 @@ Restructuring of the Quality Assurance Team, more communication and transparency
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
-Welcome back everyone!
-
 As some of you may already be aware, it's been another busy month in our fair community, though you've hopefully come to expect that - these articles wouldn't be very exciting if there was nothing interesting to talk about after all! Thankfully, it's also been a month of tremendous growth. With growth comes change, and with changes comes an exciting opportunity for us to tell you all about it! 
 
 One of these changes is that for the first time in months, I won't be presenting this issue alone! Who knows what could happen, so let's get started right away!
