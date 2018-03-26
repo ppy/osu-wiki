@@ -69,7 +69,7 @@ Please give a warm welcome to:
 ### Quality Assurance Team retirements
 Not everything can always be good news, for it is at times of loss when one really appreciates what one had
 
-- After 5 years of service and countless efforts made for the team, being both in the BAT and the QAT, the judge of mapping contests, co-creator of Beatmap Nominator tests, our long-lasting member [Irreversible](https://osu.ppy.sh/users/1287964) has made the decision of working on his own. He will still hold the Olympiad contests, though, so stay alert!
+- After 5 years of service and countless efforts made for the team, being both in the BAT and the QAT, the judge of mapping contests, co-creator of Beatmap Nominator tests, our long-lasting member [Irreversible](https://osu.ppy.sh/users/1287964) has made the decision of working on his own. He will still hold the Olympiad contests, though, so stay alert! The Mapping Olympiad is the ambitious successor of the old Monthly Beatmapping Contests. 
 - We also have to bid farewell to [Okoratu](https://osu.ppy.sh/users/1623405), one of our former QAT leaders. He has chosen to follow his own path while continuing to contribute to the mapping and modding scene by remaining a **Beatmap Nominator**. Being one of the pioneers of the **United Beat-Knights of the Ranking Criteria**, he worked tremendously hard to make our Ranking Criterias a dynamic set of rules that adapt to the evolution of the mapping scene. On top of that, he is also one of the founders and main organizers of the **Mentorship Program** as well as one of the promoters of **Mapping with Rewards**, making his departure indubitably a great loss for the QAT.
 
 ## Summary 
