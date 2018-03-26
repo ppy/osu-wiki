@@ -1,3 +1,8 @@
+---
+tags:
+- SOFT3
+- SOFT 3
+---
 Springtime Osu!mania Free-for-all Tournament 3
 =============================
 
@@ -85,24 +90,43 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (61.21 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
+
+- FreeMod
+  - [fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]](https://osu.ppy.sh/b/1584871)
+  - [Vertical Gizmo - Nigro (Xay) \[Choof's 4k\]](https://osu.ppy.sh/b/928093)
+  - [Nobuo Uematsu - Someday the Dream Will End (Halogen-) \[Final Farewell\]](https://osu.ppy.sh/b/1274762)
+  - [Suimega - 365 UNITED STARS (Xay) \[Xay's 4K\]](https://osu.ppy.sh/b/1241644)
+  - [Assertive Fluttershy - Sorairo Days (IcyWorld) \[Hard\]](https://osu.ppy.sh/b/1562379)
+  - [Morimori Atsushi - MilK (Raveille) \[MiLN\]](https://osu.ppy.sh/b/1526104)
+  - [Hammer Switch - Lots of Spices (Couil) \[SV Challenge\]](https://osu.ppy.sh/b/1485544)
+  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/b/1498129)
+  - [Mili - Imagined Flight (juankristal) \[Missing Piece\]](https://osu.ppy.sh/b/1426009)
+  - [ZUN arr.Myon - Plastic Mind (Kuo Kyoka) \[snover's Phantasm\]](https://osu.ppy.sh/b/795044)
+  - [ZUN remix by 44teru-k - Harutoman no Youkai Shoujo~VirusV (Wh1teh) \[k\]](https://osu.ppy.sh/b/1126369)
+- Tiebreaker
+  - [Helblinde - The Solace of Oblivion (lombit) \[Oblivion\]](https://osu.ppy.sh/b/1260592)
+
 ### Round of 32
 
 **[Download the mappack here! (55.36 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
 
 - FreeMod
-  - [Sir.Vixx - Whore (Xay) [Insane]](https://osu.ppy.sh/b/1240925)
-  - [Girls' Generation - Gee (Couil) [Easy LNs]](https://osu.ppy.sh/b/1557379)
-  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) [LN]](https://osu.ppy.sh/b/1489611)
-  - [Kozato - 45nen no Yukizakura (Amayukki) [\_UJ's Sakura]](https://osu.ppy.sh/b/820516)
-  - [goreshit - o'er the flood (Shoegazer) [deluge]](https://osu.ppy.sh/b/1552320)
-  - [Porter Robinson - Natural Light (SitekX) [Diffraction]](https://osu.ppy.sh/b/1222575)
-  - [cYsmix - Arcade Busters (Raveille) [Number Busting]](https://osu.ppy.sh/b/1460752)
-  - [U1 overground - Dopamine (Abraxos) [(11b)-11,17,21-trihydroxypregn-4-ene-3,20-dione]](https://osu.ppy.sh/b/1305530)
-  - [encX - One Day (Lenfried-) [4K SV]](https://osu.ppy.sh/b/1413835)
-  - [Cardboard Box - Infernoplextratone (pikechu) [Challenge]](https://osu.ppy.sh/b/940381)
-  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) [Another]](https://osu.ppy.sh/b/1428368)
+  - [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/b/1240925)
+  - [Girls' Generation - Gee (Couil) \[Easy LNs\]](https://osu.ppy.sh/b/1557379)
+  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/b/1489611)
+  - [Kozato - 45nen no Yukizakura (Amayukki) \[\_UJ's Sakura\]](https://osu.ppy.sh/b/820516)
+  - [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/b/1552320)
+  - [Porter Robinson - Natural Light (SitekX) \[Diffraction\]](https://osu.ppy.sh/b/1222575)
+  - [cYsmix - Arcade Busters (Raveille) \[Number Busting\]](https://osu.ppy.sh/b/1460752)
+  - [U1 overground - Dopamine (Abraxos) \[(11b)-11,17,21-trihydroxypregn-4-ene-3,20-dione\]](https://osu.ppy.sh/b/1305530)
+  - [encX - One Day (Lenfried-) \[4K SV\]](https://osu.ppy.sh/b/1413835)
+  - [Cardboard Box - Infernoplextratone (pikechu) \[Challenge\]](https://osu.ppy.sh/b/940381)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/b/1428368)
 - Tiebreaker
-  - [Chroma - Hoshi ga Furanai Machi (Guilhermeziat) [Shooting Stars]](https://osu.ppy.sh/b/1578514)
+  - [Chroma - Hoshi ga Furanai Machi (Guilhermeziat) \[Shooting Stars\]](https://osu.ppy.sh/b/1578514)
 
 ### Group Stage
 
@@ -150,6 +174,32 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Match Results
 
+### Round of 32
+
+Detailed results of the Round of 32 can be found via [this link](https://goo.gl/XUjUy4).
+
+| Saturday, 2018-03-24 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_SE] Couil      | |
+| **aitor98** ![][flag_ES]   | **5** | 0 | ![][flag_PH] joseee-    | |
+| **Tidek** ![][flag_PL]     | **5** | 1 | ![][flag_CL] WalterToro | |
+| **Lothus** ![][flag_BR]    | **5** | 0 | ![][flag_US] Chrubble   | |
+| **Pipper** ![][flag_GB]    | **5** | 0 | ![][flag_US] DJKhaled   | WBD |
+| **Dawt** ![][flag_CA]      | **5** | 0 | ![][flag_US] RemiFlan   | |
+| \_Mytros\_ ![][flag_MX]    | 3 | **5** | ![][flag_CL] **Rythze** | |
+
+| Sunday, 2018-03-25 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| -Electro- ![][flag_US]        | 3 | **5** | ![][flag_US] **HeZeus**       | |
+| **Panshow** ![][flag_CA]      | **5** | 0 | ![][flag_ID] lombit           | |
+| **PotassiumF** ![][flag_AU]   | **5** | 1 | ![][flag_BE] NightNarumi      | |
+| Minisora ![][flag_MY]         | 3 | **5** | ![][flag_JP] **AMDuskia1996** | |
+| **RemFangirl** ![][flag_ID]   | **5** | 2 | ![][flag_GB] Pope Gadget      | |
+| **andreymc** ![][flag_BR]     | **5** | 2 | ![][flag_GB] Traps Are Cute   | |
+| **SitekX** ![][flag_PL]       | **5** | 0 | ![][flag_CA] arpia97          | |
+| **Azubeur** ![][flag_FR]      | **5** | 0 | ![][flag_US] Neuro-           | |
+| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_PL] Arkitev          | |
+
 ### Group Stage
 
 Detailed results of the Group Stage can be found via [this link](https://goo.gl/FfQfZi).
@@ -189,7 +239,7 @@ Detailed results of the Group Stage can be found via [this link](https://goo.gl/
 | **-Electro-** ![][flag_US]      | **4** | 0 | ![][flag_TH] floodlord        | |
 | 3KO3 ![][flag_JP]               | 0 | **4** | ![][flag_CA] **arpia97**      | |
 | **3KO3** ![][flag_JP]           | **4** | 1 | ![][flag_TH] floodlord        | |
-| - \[ Yuki \] - ![][flag_TH]     | 1 | **4** | ![][flag_TH] **\[Xiiao\]Ray** | |
+| - \[ Yuki \] - ![][flag_TH]     | 1 | **4** | ![][flag_MY] **\[Xiiao\]Ray** | |
 | **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 3 | ![][flag_PL] Miq              | |
 | **Pope Gadget** ![][flag_GB]    | **4** | 1 | ![][flag_SG] Polytetral       | |
 | MapleSyrup- ![][flag_PH]        | 0 | **4** | ![][flag_DK] **tailsdk**      | |
@@ -241,7 +291,7 @@ Detailed results of the Group Stage can be found via [this link](https://goo.gl/
 | ---: | :---: | :---: | :--- | :---: |
 | **Neuro-** ![][flag_US]       | **4** | 0 | ![][flag_AU] -Xenovia-        | |
 | **HeZeus** ![][flag_US]       | **4** | 2 | ![][flag_CA] CommandoBlack    | |
-| Rythze ![][flag_CL]           | 0 | **4** | ![][flag_AU] PotassiumF       | WBD |
+| Rythze ![][flag_CL]           | 0 | **4** | ![][flag_AU] **PotassiumF**   | WBD |
 | **Dawt** ![][flag_CA]         | **4** | 0 | ![][flag_PH] SurfChu85        | |
 | **RemiFlan** ![][flag_US]     | **4** | 1 | ![][flag_PH] SurfChu85        | |
 | **DJKhaled** ![][flag_US]     | **4** | 1 | ![][flag_TH] - \[ Yuki \] -   | |
