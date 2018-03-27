@@ -59,6 +59,7 @@ Team Members
 ------------
 
 The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
+
 _Please note: All BN speak English unless otherwise noted._ Link to the [user group page](https://osu.ppy.sh/groups/28).
 
 ### osu!standard
@@ -181,7 +182,3 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Sandalphon](https://osu.ppy.sh/users/2633753)        | Chinese                  |
 | [Tofu1222](https://osu.ppy.sh/users/6089608)          | Chinese                  |
 | [Weber](https://osu.ppy.sh/users/6410432)             |                          |
-
-
-
-
