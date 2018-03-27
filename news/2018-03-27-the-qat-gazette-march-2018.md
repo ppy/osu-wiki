@@ -79,4 +79,4 @@ And so another month of updates in osu!'s mapping and modding community draws to
 
 Thanks for reading, and we'll see you all next month for more!
 
-**—JBHyperion**, **Protastic101** and **Raiden** 
+—JBHyperion, Protastic101 and Raiden 
