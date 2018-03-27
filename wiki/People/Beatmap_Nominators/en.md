@@ -16,7 +16,7 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one month.
+With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one to two months.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
