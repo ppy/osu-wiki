@@ -72,6 +72,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | ![][flag_JP] | **Japan** | **[tasuke912](https://osu.ppy.sh/users/2774767)**, [uone](https://osu.ppy.sh/users/5321719), [zkane2](https://osu.ppy.sh/users/6359835), [iceOC](https://osu.ppy.sh/users/5482401), [\_Rise](https://osu.ppy.sh/users/5217107) |
 | ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)**, [ZethZ161](https://osu.ppy.sh/users/9912966), [Dakry](https://osu.ppy.sh/users/1994145), [cdhsausageboy](https://osu.ppy.sh/users/2403621), [Jerry](https://osu.ppy.sh/users/605973) |
 | ![][flag_NL] | **Netherlands** | **[Pheon](https://osu.ppy.sh/users/292295)**, [Halzyn](https://osu.ppy.sh/users/156349), [n0ah](https://osu.ppy.sh/users/3086393), [jackylam5](https://osu.ppy.sh/users/1540807) |
+| ![][flag_PL] | **Poland** |  **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Tetsurio](https://osu.ppy.sh/users/2044810) |
 | ![][flag_PT] | **Portugal** | **[babysnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430), [BlackPet](https://osu.ppy.sh/users/3795067) |
 | ![][flag_RU] | **Russian Federation** | **[Alt](https://osu.ppy.sh/users/736496)**, [DayzeekFeed](https://osu.ppy.sh/users/5009970), [artemean](https://osu.ppy.sh/users/8650631), [Naninub](https://osu.ppy.sh/users/8188876), [greenyoyo](https://osu.ppy.sh/users/1581472) |
 | ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [L y s](https://osu.ppy.sh/users/211825), [\_Asriel](https://osu.ppy.sh/users/566276), [MetalStream](https://osu.ppy.sh/users/165027) |
@@ -87,11 +88,6 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![][flag_ID] | **Indonesia** | **[Niko-nyan](https://osu.ppy.sh/users/906991)** |
-
-
-_Remember this is not the full list of teams, some of them are still missing_
-
-
 
 -----------------------
 
@@ -269,5 +265,6 @@ Mappools will be revealed one week in advance of each stage.
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 
 
