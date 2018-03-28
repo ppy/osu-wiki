@@ -3,8 +3,8 @@ tags:
 - oPHST 2018
 - oPHST2018
 ---
-osu!Philippines Summer Tournament 2018
-=============================
+
+# osu!Philippines Summer Tournament 2018
 
 ![oPHST2018 Poster](poster.png)
 
