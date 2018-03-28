@@ -11,7 +11,7 @@ osu!Philippines Summer Tournament 2018
 
 > The sun is up, temperatures are high, and it's time to set your rhythm ablaze!
 
-The **osu!Philippines Summer Tournament** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is to be considered the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes. 
+The **osu!Philippines Summer Tournament 2018** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is to be considered the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes. 
 
 This also serves as the third edition of the annual **osu!mania Philippines Summer Tournament**.
 
