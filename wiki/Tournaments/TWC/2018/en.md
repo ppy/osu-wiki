@@ -267,5 +267,7 @@ Mappools will be revealed one week in advance of each stage.
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VE]: /wiki/shared/flag/VE.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
 
 
