@@ -104,7 +104,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
 | [Noffy](https://osu.ppy.sh/users/1541323)             |                          |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
-| [Okoratu](https://osu.ppy.sh/users/1623405)           | German (Taiko? Confirming)                  |
+| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pinataman](https://osu.ppy.sh/users/1235485)         |                          |
 | [Plaudible](https://osu.ppy.sh/users/7149815)         |                          |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
@@ -139,6 +139,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
 | [Nwolf](https://osu.ppy.sh/users/1910766)             | German                   |
+| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [Skylish](https://osu.ppy.sh/users/2845958)           | Cantonese, Chinese       |
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
