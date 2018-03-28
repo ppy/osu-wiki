@@ -219,7 +219,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### Addition of osu!standard and osu!catch 
 
-- Initially, this tournament would have been just an osu!mania tournament, similar to the [previous](https://osu.ppy.sh/forum/t/437448) [two](https://osu.ppy.sh/forum/t/579557) editions. Though after the success of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/forum/t/640068), [Zaphirox](https://osu.ppy.sh/users/2478675) has suggested adding osu!standard (and later, with [Lobsterr](https://osu.ppy.sh/users/6575915)'s o signal, osu!catch) to the fray. With a few modifications to the rules introduced, this tournament series was born.
+- Initially, this tournament would have been just an osu!mania tournament, similar to the [previous](https://osu.ppy.sh/community/forums/topics/437448) [two](https://osu.ppy.sh/community/forums/topics/579557) editions. Though after the success of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068), [Zaphirox](https://osu.ppy.sh/users/2478675) has suggested adding osu!standard (and later, with [Lobsterr](https://osu.ppy.sh/users/6575915)'s go signal, osu!catch) to the fray. With a few modifications to the rules introduced, this tournament series was born.
 
 ### "National Championships" 
 
@@ -227,7 +227,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### Player Eligibility 
 
-- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/forum/t/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are logged in before allowing their participation. 
+- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are logged in before allowing their participation. 
 
 ### Qualification Criteria (osu!mania) 
 
