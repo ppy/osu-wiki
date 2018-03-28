@@ -89,6 +89,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 #### osu!standard 
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool. 
+
 	- **NoMod** - No mod is to be used at all for the beatmap. 
 	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool. 
 	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool. 
@@ -98,6 +99,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 #### osu!catch
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool. 
+
 	- **NoMod** - No mod is to be used at all for the beatmap. 
 	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool. 
 	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool. 
@@ -156,6 +158,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 #### Match Format 
 
 - Players shall alternate picks until a match winner is determined. This shall be in a Best-of-X series with the formats listed as follows: 
+
 	- Round of 32/o!m Group Stage - Best-of-7 (First to 4) 
 	- Round of 16/o!m Quarterfinals - Best-of-9 (First to 5) 
 	- Quarterfinals/o!m Semifinals - Best-of-11 (First to 6) 
@@ -181,6 +184,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### Disconnections 
 
 - In case disconnections happen during a match, the following guidelines are given:
+
 	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and shall be repeated once the player re-enters, or gets moved into the room.
 	- If the player disconnects within 30 seconds of the drain time of the pick, the play shall continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
 	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play shall continue and will be counted as part of the scoreboard. 
@@ -225,7 +229,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### Qualification Criteria (osu!mania) 
 
-- During the staff discussions on the [Spingtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3)Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **Score Rating System** (illustrated [here](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/u/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers. 
+- During the staff discussions on the [Spingtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **Score Rating System** (illustrated [here](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/u/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers. 
 
 ### Disconnection Clauses 
 
