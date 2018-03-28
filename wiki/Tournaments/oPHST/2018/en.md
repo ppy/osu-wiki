@@ -54,7 +54,9 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ## Prizes
 
-*To be finalized*
+*Winners of each Tournament will receive a Profile Badge. the rest of the prizes are being decided*
+
+![std badge](std.png) ![ctb badge](ctb.png) ![mania 4K badge](4kmania.png) ![mania 7K badge](7Kmania.png)
 
 
 ## Organization
