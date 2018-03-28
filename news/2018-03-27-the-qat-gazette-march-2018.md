@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: March 2018"
-date: 2018-03-27 09:00:00 +0000
+date: 2018-04-02 09:00:00 +0000
 ---
 Restructuring of the Quality Assurance Team, more communication and transparency regarding decision-making, and a greater focus on actually ensuring quality in the Qualified section again... Big changes to discuss this month, so read inside to find out all the details!
 
