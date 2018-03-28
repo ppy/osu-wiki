@@ -11,7 +11,7 @@ osu!Philippines Summer Tournament 2018
 
 > The sun is up, temperatures are high, and it's time to set your rhythm ablaze!
 
-The **osu!Philippines Summer Tournament 2018** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is to be considered the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes. 
+The **osu!Philippines Summer Tournament 2018** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is considered as the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes. 
 
 This also serves as the third edition of the annual **osu!mania Philippines Summer Tournament**.
 
@@ -54,7 +54,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ## Prizes
 
-*Winners of each Tournament will receive a Profile Badge. the rest of the prizes are being decided*
+*Winners of each game mode will receive a Profile Badge. The rest of the prizes are to be decided*
 
 ![std badge](std.png) ![ctb badge](ctb.png) ![mania 4K badge](4kmania.png) ![mania 7K badge](7Kmania.png)
 
@@ -79,6 +79,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+
+------------------------
 
 ## Rules
 
