@@ -253,6 +253,8 @@ Aus/NZ osu!standard Tournament 5 - Summer
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/u/4241054) |
 
+### Main Bracket
+
 Results of the main bracket can be found [Here](http://anzttournaments.challonge.com/o1fs6s1q)
 
 ### Qualifiers
