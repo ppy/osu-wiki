@@ -3,7 +3,6 @@ tags:
 - oPHST 2018
 - oPHST2018
 ---
-
 osu!Philippines Summer Tournament 2018
 =============================
 
@@ -22,10 +21,10 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 |---:|---|
 | Registration Phase   | 2018-04-02/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
-| Round of 16          | 2017-05-05/2017-05-06 |
-| Quarterfinals        | 2017-05-12/2017-05-13 |
-| Semifinals           | 2017-05-19/2017-05-20 |
-| Finals               | 2017-05-26/2017-05-27 |
+| Round of 16          | 2018-05-05/2018-05-06 |
+| Quarterfinals        | 2018-05-12/2018-05-13 |
+| Semifinals           | 2018-05-19/2018-05-20 |
+| Finals               | 2018-05-26/2018-05-27 |
 
 ### osu!catch
 
@@ -33,10 +32,10 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 |---:|---|
 | Registration Phase   | 2018-04-02/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
-| Round of 16          | 2017-05-05/2017-05-06 |
-| Quarterfinals        | 2017-05-12/2017-05-13 |
-| Semifinals           | 2017-05-19/2017-05-20 |
-| Finals               | 2017-05-26/2017-05-27 |
+| Round of 16          | 2018-05-05/2018-05-06 |
+| Quarterfinals        | 2018-05-12/2018-05-13 |
+| Semifinals           | 2018-05-19/2018-05-20 |
+| Finals               | 2018-05-26/2018-05-27 |
 
 ### osu!mania
 
@@ -44,13 +43,13 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 |---:|---|
 | Registration Phase   | 2018-04-02/2018-04-15 |
 | Qualifiers (4K)      | 2018-04-28/2018-04-29 |
-| Qualifiers (7K)      | 2017-05-05/2017-05-06 |
-| Group Stage (4K)     | 2017-05-12/2017-05-13 |
-| Group Stage (7K)     | 2017-05-19/2017-05-20 |
-| Quarterfinals        | 2017-05-26/2017-05-27 |
-| Semifinals           | 2017-06-02/2017-06-03 |
-| Finals Week 1        | 2017-06-09/2017-06-10 |
-| Finals Week 1        | 2017-06-06/2017-06-17 |
+| Qualifiers (7K)      | 2018-05-05/2018-05-06 |
+| Group Stage (4K)     | 2018-05-12/2018-05-13 |
+| Group Stage (7K)     | 2018-05-19/2018-05-20 |
+| Quarterfinals        | 2018-05-26/2018-05-27 |
+| Semifinals           | 2018-06-02/2018-06-03 |
+| Finals Week 1        | 2018-06-09/2018-06-10 |
+| Finals Week 1        | 2018-06-06/2018-06-17 |
 
 ## Prizes
 
