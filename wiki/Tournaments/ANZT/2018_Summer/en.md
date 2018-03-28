@@ -23,8 +23,8 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | At least 1 month osu!supporter tag, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | At least 1 month osu!supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
 
 ## Organization
