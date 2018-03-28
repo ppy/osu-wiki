@@ -125,7 +125,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - The registration phase of the tournament shall begin on April 2, 2018 and end on April 15, 2018. Only thirty-two (32) slots are opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Players are allowed to join ANY of the four tournaments. 
 
-- THE TOURNAMENT STAFF HAS THE RIGHT TO REVOKE A PLAYER'S REGISTRATION IF THERE IS ENOUGH EVIDENCE AGAINST THEM. 
+- **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
 #### Qualifier Round for osu!mania 4K and 7K 
 
@@ -237,30 +237,6 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - It has been observed that computing percentages from the drain time is not practical, hence a definite clause was laid out.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_ZA]: /wiki/shared/flag/ZA.gif
