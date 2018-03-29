@@ -52,7 +52,7 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 | w | Long (long) | Temps en millisecondes du temps qui sépare cette action de la précédente |
 | x | Flottante (float) | Valeur de l'abscisse (x) de la position du curseur (de 0 à 512) |
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
-| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 4, K2 = 8) (K1 et M1 sont toujours utilisés simultanément; K2 et M2 sont toujours utilisés simultanément: 1+4=5; 2+8=10) |
+| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Fumée = 16) (K1 et M1 sont toujours utilisés simultanément; K2 et M2 sont toujours utilisés simultanément: 1+4=5; 2+8=10) |
 
 Mods
 ----
@@ -64,7 +64,7 @@ Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 | None           | 0                  |                                                               |
 | NoFail         | 1 (0)              |                                                               |
 | Easy           | 2 (1)              |                                                               |
-| NoVideo        | 4 (2)              | Ce mod a été désactivé suite à l'ajout des paramètres visuels |
+| TouchDevice    | 4 (2)              | Remplace le mode NoVideo non utlisé                           |
 | Hidden         | 8 (3)              |                                                               |
 | HardRock       | 16 (4)             |                                                               |
 | SuddenDeath    | 32 (5)             |                                                               |
