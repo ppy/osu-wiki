@@ -23,8 +23,8 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | At least 1 month osu!supporter tag, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | At least 1 month osu!supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
 
 ## Organization
@@ -33,8 +33,8 @@ Aus/NZ osu!standard Tournament 5 - Summer
 | ------------ | -------------- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135) |
-| Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/u/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/u/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/u/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/u/4945688) |
-| Streamers | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837) |
+| Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/u/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/u/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/u/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/u/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
+| Streamers | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/u/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
 | Referees | ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/u/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/u/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/u/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/u/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/u/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/u/8784747) |
 | Map Selectors | ![][flag_AU] [Dumii](https://osu.ppy.sh/u/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/u/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
 | Graphics Design | ![][flag_NZ] [-Akito](https://osu.ppy.sh/u/5716327) |
@@ -161,7 +161,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/b/418139)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/b/152199)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (mapper) \[Timeless\]](https://osu.ppy.sh/b/985004)
+  - [Halozy - Kanshou no Matenrou (Lasse) \[Timeless\]](https://osu.ppy.sh/b/985004)
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
@@ -219,8 +219,42 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ### Finals - Week 2
 
+**[Download all](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
+
+- NoMod
+  - [mafumafu - Revenge Syndrome (Rizia) \[Reunion\]](https://osu.ppy.sh/b/1162811)
+  - [Hanatan - Kogitsune no Ran (Awaken) \[Helheimsk\]](https://osu.ppy.sh/b/421257)
+  - [Memme - Cherry Blossom (xLolicore-) \[Flower Dance\]](https://osu.ppy.sh/b/1519282)
+  - [Rohi - Kanata ni Mau ha Sakura no Senritsu (AmamiyaYuko) \[Regou's Extra\]](https://osu.ppy.sh/b/1512325)
+  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[Extra\]](https://osu.ppy.sh/b/281632)
+  - [Awake - Supernova (wa_) \[Princess From The Moon\]](https://osu.ppy.sh/b/1405979)
+- Hidden
+  - [Hige Driver - Palette (Jounzan) \[Moonlight\]](https://osu.ppy.sh/b/1505568)
+  - [Rita - Dream Walker (Amamiya Yuko) \[Dailycare's INFINITE\]](https://osu.ppy.sh/b/1109972)
+- HardRock
+  - [Yanni - With an Orchid (ts8zs) \[AR233\]](https://osu.ppy.sh/b/220804)
+  - [FELT - crescent moon (Meg) \[Insane\]](https://osu.ppy.sh/b/594307)
+- DoubleTime
+  - [Choucho - When the First Love Ends (MeLLoN) \[Lunatic\]](https://osu.ppy.sh/b/105531)
+  - [School Food Punishment - flashback trip syndrome (Damnae) \[Beren & Blove's Insane\]](https://osu.ppy.sh/b/153631)
+- FreeMod
+  - [REDALiCE - FLOWER REDALiCE Remix (Jenny) \[black another\]](https://osu.ppy.sh/b/1433158)
+  - [Himeringo - Idola no Circus (cRyo[iceeicee]) \[Avxo\]](https://osu.ppy.sh/b/796307)
+  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[BakaNA\]](https://osu.ppy.sh/b/214248)
+- Tiebreaker
+  - [Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/b/1460627)
+
 ------------------------------------------------------------------------
 ## Results
+
+| Placing | Player |
+|:----------------------------------------------------:|---------------------------------------------------------|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/u/2118945) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/u/4241054) |
+
+### Main Bracket
+
 Results of the main bracket can be found [Here](http://anzttournaments.challonge.com/o1fs6s1q)
 
 ### Qualifiers
