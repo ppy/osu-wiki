@@ -55,7 +55,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Participants
 
-| | Country | Member |
+| | Country | Members |
 | ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [TrolloCat](https://osu.ppy.sh/users/9228032), [BossPlays_02](https://osu.ppy.sh/users/7341471), [Midnaait](https://osu.ppy.sh/users/1506011), [Laut1G](https://osu.ppy.sh/users/7286821) |
 | ![][flag_AU] | **Australia** | **[Aloda](https://osu.ppy.sh/users/1190127)**, [rango](https://osu.ppy.sh/users/7728466), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [remii](https://osu.ppy.sh/users/2913584) |
@@ -75,7 +75,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | ![][flag_PT] | **Portugal** | **[babysnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430), [BlackPet](https://osu.ppy.sh/users/3795067) |
 | ![][flag_RU] | **Russian Federation** | **[Alt](https://osu.ppy.sh/users/736496)**, [DayzeekFeed](https://osu.ppy.sh/users/5009970), [artemean](https://osu.ppy.sh/users/8650631), [Naninub](https://osu.ppy.sh/users/8188876), [greenyoyo](https://osu.ppy.sh/users/1581472) |
 | ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [L y s](https://osu.ppy.sh/users/211825), [\_Asriel](https://osu.ppy.sh/users/566276), [MetalStream](https://osu.ppy.sh/users/165027) |
-| ![][flag_ES] | **Spain** | **[Maitroxsk](https://osu.ppy.sh/users/4875451)**, [Raiden](https://osu.ppy.sh/users/2239480), [Hanjamon](https://osu.ppy.sh/users/1703330), [AlvaroYL](https://osu.ppy.sh/users/6333166), [LZD](https://osu.ppy.sh/users/224335) |
+| ![][flag_ES] | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)**, [Maitroxsk](https://osu.ppy.sh/users/4875451), [Raiden](https://osu.ppy.sh/users/2239480), [Hanjamon](https://osu.ppy.sh/users/1703330), [LZD](https://osu.ppy.sh/users/224335) |
 | ![][flag_TW] | **Taiwan** | **[-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)**, [KyouRekii87](https://osu.ppy.sh/users/10457907), [stu00608](https://osu.ppy.sh/users/1977606), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [Y u w a n](https://osu.ppy.sh/users/8192004) |
 | ![][flag_UA] | **Ukraine** | **[gavnono](https://osu.ppy.sh/users/1625581)**, [Protoescapist](https://osu.ppy.sh/users/7226687), [Don Omar](https://osu.ppy.sh/users/689414) |
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [Mekelemembe](https://osu.ppy.sh/users/3289191), [abrian](https://osu.ppy.sh/users/1159051), [Grimbow](https://osu.ppy.sh/users/1387762) |
