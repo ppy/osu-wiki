@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Loved: Week of March 25th"
+title: "Project Loved: Week of March 29th"
 date: 2018-03-29 12:00:00 +0000
 ---
 
