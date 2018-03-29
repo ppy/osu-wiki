@@ -55,8 +55,6 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Participants
 
-- Confirmed rosters
-
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [TrolloCat](https://osu.ppy.sh/users/9228032), [BossPlays_02](https://osu.ppy.sh/users/7341471), [Midnaait](https://osu.ppy.sh/users/1506011), [Laut1G](https://osu.ppy.sh/users/7286821) |
