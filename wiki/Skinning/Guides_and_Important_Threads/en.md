@@ -14,7 +14,7 @@ List of guides and important threads, created by the community.
 ## Important threads
 
 + [Skinning forum rules](https://osu.ppy.sh/community/forums/topics/318193)
-+ [Frequently asked questions](https://osu.ppy.sh/forum/t/533940) by [Lyawi](https://osu.ppy.sh/users/5851253)
++ [Frequently asked questions](https://osu.ppy.sh/community/forums/topics/533940) by [Lyawi](https://osu.ppy.sh/users/5851253)
 + [Skinning support](https://osu.ppy.sh/community/forums/topics/51694) by [MLGnom](https://osu.ppy.sh/users/46620)
 + [osu! default skins template](https://osu.ppy.sh/community/forums/topics/129191) by [peppy](https://osu.ppy.sh/users/2)
 + [Skin checker](https://osu.ppy.sh/community/forums/topics/617168) by [Roan](https://osu.ppy.sh/users/8214639)
