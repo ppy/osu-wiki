@@ -7,7 +7,7 @@ It is a open rank 3v3 tournament with rosters of 3 - 4 players held semi annuall
 
 SS tournament's most up to date information can be found on its most recent [forum post](https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document](https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
 
-![SS Tournament 2018](Badge.png)
+![SS Tournament 2018](Badge.jpg)
 
 ## Schedule
 
