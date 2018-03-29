@@ -7,8 +7,9 @@ It is a open rank 3v3 tournament with rosters of 3 - 4 players held semi annuall
 
 SS tournament's most up to date information can be found on its most recent [forum post](https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document](https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
 
-## Schedule
+![SS Tournament 2018](Badge.png)
 
+## Schedule
 
 | Event                               | Date                 |
 |------------------------------------:|:---------------------|
@@ -20,6 +21,37 @@ SS tournament's most up to date information can be found on its most recent [for
 | Semi Finals and Losers round 3       | 2018-03-02/2018-03-04     |
 | Finals and Losers round 4 & 5       | 2018-03-09/2018-03-11     |
 | Grand Finals                         | 2018-03-16/2018-03-18     |
+
+
+## Staff
+
+|Role | Staff Member |
+|----:|:-------------|
+|Host | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |
+|Host | ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199) |
+|Host | ![][flag_GR] [FrozenPheonix](https://osu.ppy.sh/users/9696149) |
+|Head of Staff | ![][flag_US] [Californian](https://osu.ppy.sh/users/4994598) |
+|Head of Staff | ![][flag_CA][HaruHong](https://osu.ppy.sh/users/2971423) |
+|Head of Staff | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841) |
+|Head of Staff | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+|Head of Map Pools | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |
+|Head of Map Pools | ![][flag_US][_p0ke_](https://osu.ppy.sh/users/5434711) |
+|Map Pooler | ![][flag_US] [Nightlys](https://osu.ppy.sh/users/7094489) |
+|Map Pooler | ![][flag_CA] [Anopob](https://osu.ppy.sh/users/728332) |
+|Map Pooler | ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054) |
+|Referee | ![][flag_US] [KuraresaCupcake](https://osu.ppy.sh/users/6953271) |
+|Referee | ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) |
+|Referee | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) |
+|Referee | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754) |
+|Referee | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
+|Referee | ![][flag_CA] [ImNotBrandon](https://osu.ppy.sh/users/6917313) |
+|Streamer | ![][flag_CA] [xenonius](https://osu.ppy.sh/users/7426260) |
+|Streamer | ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/736181) |
+|Commentator | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) |
+|Commentator | ![][flag_CA] [xenonius](https://osu.ppy.sh/users/7426260) |
+|Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
+| Statistician | ![][flag_US][YoshiLover456](https://osu.ppy.sh/users/6843383) |
+
 
 ## Rules
 
@@ -72,7 +104,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 - Hidden  
   - [Dreamcatcher - Sleep-walking](https://osu.ppy.sh/b/1370703) [Insane]	
   - [yuiko - petit bonheur](https://osu.ppy.sh/b/1327955) [Insane]	
-- Hardrock
+- HardRock
   - [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/b/154357) [Hanabi]		
   - [ALiCE'S EMOTiON - Dark Flight Dreamer](https://osu.ppy.sh/b/763294) [Twaoi's Insane]			
 ### Group Stage
@@ -86,7 +118,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [B-ko(Cv:Touyama Nao) - Nisemono Chuuihou](https://osu.ppy.sh/b/1253351) [Insane]
   - [Mediks - Doomsday](https://osu.ppy.sh/b/1290316) [Insane]
   - [Dark PHOENiX - Taketori Hishou](https://osu.ppy.sh/b/86324) [Extra]
-- Double Time
+- DoubleTime
   - [Two Steps From Hell - Star Sky](https://osu.ppy.sh/b/1270965) [Unstoppable]
   - [Petit Rabbit's - No Poi!(nenpulse bootleg remix)](https://osu.ppy.sh/b/937188) [YakiBoss's Hard]
   - [Chata - Koi wo Shiyouyo](https://osu.ppy.sh/b/81200) [Insane]
@@ -94,11 +126,11 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [Kano - Yuudachi no Ribbon](https://osu.ppy.sh/b/1078420) [Dailycare's Insane]
   - [Renard - Terminal](https://osu.ppy.sh/b/270363) [Ends' Insane]
   - [Ne;on & Haiji - Haruka Tooki Gensoukyo - Dream of fantasy](https://osu.ppy.sh/b/106475) [lkp's Lunatic]
-- Hardrock
+- HardRock
   - [Rchetype - V Is For](https://osu.ppy.sh/b/290919) [Insane]
   - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO](https://osu.ppy.sh/b/507098) [Master]
   - [Sota Fujimori - Move That Body -Extended Mix-](https://osu.ppy.sh/b/547229) [RLC's Insane]
-- Free Mod
+- FreeMod
   - [Kozato Snow - Izayoi Sakura](https://osu.ppy.sh/b/86352) [Insane]
   - [iojjj - Deus Ex Machina](https://osu.ppy.sh/b/688907) [EXTRA]
   - [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/b/144028) [Another]
@@ -167,13 +199,68 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   
 ### Semi Finals
 
-![Semi Finals Mappool](Empty.jpg)
+![Semi Finals Mappool](Semifinals.jpg)
+
+- NoMod
+ - [Shinigiwa Satellite - Nenten Puranetto](https://osu.ppy.sh/b/1279068) [A World Without Form]
+ - [Hanatan - Ai no Scenario](https://osu.ppy.sh/b/760743) [Skystar's Extra]
+ - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix)](https://osu.ppy.sh/b/1073789) [NiNo's Extra]
+ - [Nanahoshi Kangengakudan - anoko dokonoko](https://osu.ppy.sh/b/1387233) [Extra]
+ - [STEREO DIVE FOUNDATION - Genesis](https://osu.ppy.sh/b/1389960) [Conviction]
+ - [Nekomata Master+ - squall](https://osu.ppy.sh/b/248991) [WIND]
+- Double Time
+ - [senya - Saihate no Kotoba](https://osu.ppy.sh/b/905424) [Ghostly]
+ - [Busta Rhymes ft. Linkin Park - We Made It](https://osu.ppy.sh/b/47487) [Insane]
+ - [zts - resurrectedreplayer](https://osu.ppy.sh/b/693412) [Intricate]
+- Hidden
+ - [maras k - Play Time!!](https://osu.ppy.sh/b/762631) [Let's Play]
+ - [USAO - Dynamite](https://osu.ppy.sh/b/1310581) [Ultimate]
+ - [SHO - Plain Asia ~ Guardian of the Village](https://osu.ppy.sh/b/88176) [Insane]
+- Hardrock
+ - [Primary - Awake] (https://osu.ppy.sh/b/689290) [Goodbye]
+ - [Streetlight Manifesto - Everything Went Numb](https://osu.ppy.sh/b/899552) [Extra]
+ - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE](https://osu.ppy.sh/b/1463054) [Another]
+- Free Mod
+ - [ONE OK ROCK - Mikansei Koukyoukyoku](https://osu.ppy.sh/b/768986) [Extreme]
+ - [REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix)](https://osu.ppy.sh/b/225296) [Ends]
+ - [DCX - Flying High (DJ Splash Remix)](https://osu.ppy.sh/b/76663) [InoSane]
+- Tiebreaker
+ - [shoujo byou - Gareki no Shuuon](https://osu.ppy.sh/b/1303380) [Flore Albo]
 
 ### Finals
 
-![Finals Mappool](Empty.jpg)
+![Finals Mappool](Finals.jpg)
 
+- NoMod
+ - [nano - Bull's Eye](https://osu.ppy.sh/b/823710) [Aria]			
+ - [BLOOD STAIN CHILD - MOON LIGHT WAVE](https://osu.ppy.sh/b/665787) [Effulgence]
+ - [OSTER project - Capriccio of My Mind](https://osu.ppy.sh/b/281632) [Extra]
+ - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version-](https://osu.ppy.sh/b/1451540) [End sky]
+ - [P*Light - 2 MINUTES FIGHTERS](https://osu.ppy.sh/b/1156568) [toybot's MASTER]
+ - [WSTR - Eastbound & Down](https://osu.ppy.sh/b/1271476) [Irre <3 HanzeR]
+- DoubleTime 
+ - [Goose house - Hikaru nara](https://osu.ppy.sh/b/947166) [Synethesia]
+ - [zts - miragecoordinator](https://osu.ppy.sh/b/1383876) [Perversion]
+ - [Susumu Hirasawa - Forces](https://osu.ppy.sh/b/72419) [KIRBY Mix]
+- Hidden
+ - [xi vs sakuzyo - STORIA](https://osu.ppy.sh/b/1260751) [Collab Ultra]
+ - [FOLiACETATE - Heterochromia Iridis](https://osu.ppy.sh/b/279481) [Terror]
+ - [Dragonforce - Fury Of The Storm](https://osu.ppy.sh/b/40753) [Expert]
+- HardRock
+ - [Mago de Oz - Xanandra](https://osu.ppy.sh/b/221026) [Insane]
+ - [MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/b/837946) [Weakness]
+ - [Camellia - Drumstep4 [The project file of this song was deleted X](https://osu.ppy.sh/b/844722)
+- FreeMod
+ - [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut](https://osu.ppy.sh/b/1360912) [aL†aiR]
+ - [mafumafu - Yuugure Semi Nikki](https://osu.ppy.sh/b/1229863) [mawaru, mawaru]
+ - [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/b/94264) [ReMiX]
+- Tiebreaker
+ - [Ariabl'eyeS - Kegare Naki Bara Juuji](https://osu.ppy.sh/s/448818) [Twin-Renatic]
+ 
+ 
 ### Tournament Brackets and standings
+
+![SS Tournament 2018](Medals.jpg)	
 
 ![SS Tournament 2018](Brackets.jpg)
 
