@@ -2,14 +2,12 @@
 
 ![SS Tournament 2018](Banner.jpg)
 
-SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149).
+SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149).
 It is an open rank 3v3 tournament with rosters of 3 - 4 players held semi-annually.
 
 SS Tournament's most up to date information can be found on its most recent [forum post](https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document](https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing)
 
-### Badge
-
-![SS Tournament 2018](Badge.jpg)
+![SS Tournament 2018](Badge.jpg "SS Tournament 2018 Badge")
 
 ## Schedule
 
