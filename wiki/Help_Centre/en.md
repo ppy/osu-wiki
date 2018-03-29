@@ -1,4 +1,4 @@
-# Help Center
+# Help Centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
@@ -50,10 +50,10 @@ If this does not work for you (or you do not have access to your registration em
 
 Good information to include this email would be:
 
-* The name of the email address that you registered the account on, or any other email the account has been associated with since
-* Any receipts for purchased osu!supporter tags or other items from the osu!store
-* The last date you can remember being able to access your account normally
-* Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+- The name of the email address that you registered the account on, or any other email the account has been associated with since
+- Any receipts for purchased osu!supporter tags or other items from the osu!store
+- The last date you can remember being able to access your account normally
+- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
 
 #### My account has been stolen!
 
@@ -168,7 +168,7 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 **Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
 
-So long as you are playing on only your own account, you can play *osu!* anywhere.
+So long as you are playing on only your own account, you can play osu! anywhere.
 
 If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
 
@@ -250,7 +250,7 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 **You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
-If you see this error when you try to open *osu!* or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
+If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
 Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
@@ -322,7 +322,7 @@ The default keybinding for this feature is `C`, and it will work for as long as 
 
 This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
 
-*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+osu! also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
 
 Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
 
@@ -358,7 +358,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 **The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
-If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
 ##### Can you upload a score I set for me?
 
@@ -484,8 +484,8 @@ Please consult McAffee's [official knowledgebase entry on the topic](https://ser
 
 If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
-* A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-* The `network.log` file from the `Logs` folder in your osu! installation directory
+- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
+- The `network.log` file from the `Logs` folder in your osu! installation directory
 
 ##### Running a trace route to troubleshoot connection issues
 
