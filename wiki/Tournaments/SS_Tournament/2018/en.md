@@ -33,7 +33,7 @@ SS Tournament's most up to date information can be found on its most recent [for
 |Host | ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199) |
 |Host | ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149) |
 |Head of Staff | ![][flag_US] [Californian](https://osu.ppy.sh/users/4994598) |
-|Head of Staff | ![][flag_CA][HaruHong](https://osu.ppy.sh/users/2971423) |
+|Head of Staff | ![][flag_CA] [HaruHong](https://osu.ppy.sh/users/2971423) |
 |Head of Staff | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841) |
 |Head of Staff | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 |Head of Map Pools | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |
@@ -144,12 +144,12 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 ![Round Of 16 Mappool](Round.jpg)
 
  - NoMod
-  - [Eiko Shimamiya - Higurashi no Naku Koro ni](https://osu.ppy.sh/b/738088) [Extra]
-  - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/b/1097612) [Linada's Extra]  	
-  - [Suzaku - Anisakis -somatic mutation type''Forza''](https://osu.ppy.sh/b/199593) [Ultra]
-  - [Megpoid GUMI - Cosmos](https://osu.ppy.sh/b/123374) [Cosmos]
-  - [LeaF - Evanescent](https://osu.ppy.sh/b/950963) [Extra]	
-  - [Nico Nico Douga - Owens](https://osu.ppy.sh/b/72469) [Another]		
+   - [Eiko Shimamiya - Higurashi no Naku Koro ni](https://osu.ppy.sh/b/738088) [Extra]
+   - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/b/1097612) [Linada's Extra]  	
+   - [Suzaku - Anisakis -somatic mutation type''Forza''](https://osu.ppy.sh/b/199593) [Ultra]
+   - [Megpoid GUMI - Cosmos](https://osu.ppy.sh/b/123374) [Cosmos]
+   - [LeaF - Evanescent](https://osu.ppy.sh/b/950963) [Extra]	
+   - [Nico Nico Douga - Owens](https://osu.ppy.sh/b/72469) [Another]		
 - DoubleTime  
   - [Pile, Mimori Suzuko, Nanjo Yoshino - soldier game](https://osu.ppy.sh/b/498711) [Insane]	
   - [T.M.Revolution - FLAGS](https://osu.ppy.sh/b/864204) [Euny's Hard]			
@@ -204,60 +204,60 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 ![Semi Finals Mappool](Semifinals.jpg)
 
 - NoMod
- - [Shinigiwa Satellite - Nenten Puranetto](https://osu.ppy.sh/b/1279068) [A World Without Form]
- - [Hanatan - Ai no Scenario](https://osu.ppy.sh/b/760743) [Skystar's Extra]
- - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix)](https://osu.ppy.sh/b/1073789) [NiNo's Extra]
- - [Nanahoshi Kangengakudan - anoko dokonoko](https://osu.ppy.sh/b/1387233) [Extra]
- - [STEREO DIVE FOUNDATION - Genesis](https://osu.ppy.sh/b/1389960) [Conviction]
- - [Nekomata Master+ - squall](https://osu.ppy.sh/b/248991) [WIND]
+  - [Shinigiwa Satellite - Nenten Puranetto](https://osu.ppy.sh/b/1279068) [A World Without Form]
+  - [Hanatan - Ai no Scenario](https://osu.ppy.sh/b/760743) [Skystar's Extra]
+  - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix)](https://osu.ppy.sh/b/1073789) [NiNo's Extra]
+  - [Nanahoshi Kangengakudan - anoko dokonoko](https://osu.ppy.sh/b/1387233) [Extra]
+  - [STEREO DIVE FOUNDATION - Genesis](https://osu.ppy.sh/b/1389960) [Conviction]
+  - [Nekomata Master+ - squall](https://osu.ppy.sh/b/248991) [WIND]
 - Double Time
- - [senya - Saihate no Kotoba](https://osu.ppy.sh/b/905424) [Ghostly]
- - [Busta Rhymes ft. Linkin Park - We Made It](https://osu.ppy.sh/b/47487) [Insane]
- - [zts - resurrectedreplayer](https://osu.ppy.sh/b/693412) [Intricate]
+  - [senya - Saihate no Kotoba](https://osu.ppy.sh/b/905424) [Ghostly]
+  - [Busta Rhymes ft. Linkin Park - We Made It](https://osu.ppy.sh/b/47487) [Insane]
+  - [zts - resurrectedreplayer](https://osu.ppy.sh/b/693412) [Intricate]
 - Hidden
- - [maras k - Play Time!!](https://osu.ppy.sh/b/762631) [Let's Play]
- - [USAO - Dynamite](https://osu.ppy.sh/b/1310581) [Ultimate]
- - [SHO - Plain Asia ~ Guardian of the Village](https://osu.ppy.sh/b/88176) [Insane]
+  - [maras k - Play Time!!](https://osu.ppy.sh/b/762631) [Let's Play]
+  - [USAO - Dynamite](https://osu.ppy.sh/b/1310581) [Ultimate]
+  - [SHO - Plain Asia ~ Guardian of the Village](https://osu.ppy.sh/b/88176) [Insane]
 - Hardrock
- - [Primary - Awake](https://osu.ppy.sh/b/689290) [Goodbye]
- - [Streetlight Manifesto - Everything Went Numb](https://osu.ppy.sh/b/899552) [Extra]
- - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE](https://osu.ppy.sh/b/1463054) [Another]
+  - [Primary - Awake](https://osu.ppy.sh/b/689290) [Goodbye]
+  - [Streetlight Manifesto - Everything Went Numb](https://osu.ppy.sh/b/899552) [Extra]
+  - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE](https://osu.ppy.sh/b/1463054) [Another]
 - Free Mod
- - [ONE OK ROCK - Mikansei Koukyoukyoku](https://osu.ppy.sh/b/768986) [Extreme]
- - [REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix)](https://osu.ppy.sh/b/225296) [Ends]
- - [DCX - Flying High (DJ Splash Remix)](https://osu.ppy.sh/b/76663) [InoSane]
+  - [ONE OK ROCK - Mikansei Koukyoukyoku](https://osu.ppy.sh/b/768986) [Extreme]
+  - [REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix)](https://osu.ppy.sh/b/225296) [Ends]
+  - [DCX - Flying High (DJ Splash Remix)](https://osu.ppy.sh/b/76663) [InoSane]
 - Tiebreaker
- - [shoujo byou - Gareki no Shuuon](https://osu.ppy.sh/b/1303380) [Flore Albo]
+  - [shoujo byou - Gareki no Shuuon](https://osu.ppy.sh/b/1303380) [Flore Albo]
 
 ### Finals
 
 ![Finals Mappool](Finals.jpg)
 
 - NoMod
- - [nano - Bull's Eye](https://osu.ppy.sh/b/823710) [Aria]			
- - [BLOOD STAIN CHILD - MOON LIGHT WAVE](https://osu.ppy.sh/b/665787) [Effulgence]
- - [OSTER project - Capriccio of My Mind](https://osu.ppy.sh/b/281632) [Extra]
- - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version-](https://osu.ppy.sh/b/1451540) [End sky]
- - [P*Light - 2 MINUTES FIGHTERS](https://osu.ppy.sh/b/1156568) [toybot's MASTER]
- - [WSTR - Eastbound & Down](https://osu.ppy.sh/b/1271476) [Irre <3 HanzeR]
+  - [nano - Bull's Eye](https://osu.ppy.sh/b/823710) [Aria]			
+  - [BLOOD STAIN CHILD - MOON LIGHT WAVE](https://osu.ppy.sh/b/665787) [Effulgence]
+  - [OSTER project - Capriccio of My Mind](https://osu.ppy.sh/b/281632) [Extra]
+  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version-](https://osu.ppy.sh/b/1451540) [End sky]
+  - [P*Light - 2 MINUTES FIGHTERS](https://osu.ppy.sh/b/1156568) [toybot's MASTER]
+  - [WSTR - Eastbound & Down](https://osu.ppy.sh/b/1271476) [Irre <3 HanzeR]
 - DoubleTime 
- - [Goose house - Hikaru nara](https://osu.ppy.sh/b/947166) [Synethesia]
- - [zts - miragecoordinator](https://osu.ppy.sh/b/1383876) [Perversion]
- - [Susumu Hirasawa - Forces](https://osu.ppy.sh/b/72419) [KIRBY Mix]
+  - [Goose house - Hikaru nara](https://osu.ppy.sh/b/947166) [Synethesia]
+  - [zts - miragecoordinator](https://osu.ppy.sh/b/1383876) [Perversion]
+  - [Susumu Hirasawa - Forces](https://osu.ppy.sh/b/72419) [KIRBY Mix]
 - Hidden
- - [xi vs sakuzyo - STORIA](https://osu.ppy.sh/b/1260751) [Collab Ultra]
- - [FOLiACETATE - Heterochromia Iridis](https://osu.ppy.sh/b/279481) [Terror]
- - [Dragonforce - Fury Of The Storm](https://osu.ppy.sh/b/40753) [Expert]
+  - [xi vs sakuzyo - STORIA](https://osu.ppy.sh/b/1260751) [Collab Ultra]
+  - [FOLiACETATE - Heterochromia Iridis](https://osu.ppy.sh/b/279481) [Terror]
+  - [Dragonforce - Fury Of The Storm](https://osu.ppy.sh/b/40753) [Expert]
 - HardRock
- - [Mago de Oz - Xanandra](https://osu.ppy.sh/b/221026) [Insane]
- - [MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/b/837946) [Weakness]
- - [Camellia - Drumstep4 [The project file of this song was deleted X](https://osu.ppy.sh/b/844722)
+  - [Mago de Oz - Xanandra](https://osu.ppy.sh/b/221026) [Insane]
+  - [MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/b/837946) [Weakness]
+  - [Camellia - Drumstep4 [The project file of this song was deleted X](https://osu.ppy.sh/b/844722)
 - FreeMod
- - [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut](https://osu.ppy.sh/b/1360912) [aL†aiR]
- - [mafumafu - Yuugure Semi Nikki](https://osu.ppy.sh/b/1229863) [mawaru, mawaru]
- - [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/b/94264) [ReMiX]
+  - [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut](https://osu.ppy.sh/b/1360912) [aL†aiR]
+  - [mafumafu - Yuugure Semi Nikki](https://osu.ppy.sh/b/1229863) [mawaru, mawaru]
+  - [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/b/94264) [ReMiX]
 - Tiebreaker
- - [Ariabl'eyeS - Kegare Naki Bara Juuji](https://osu.ppy.sh/s/448818) [Twin-Renatic]
+  - [Ariabl'eyeS - Kegare Naki Bara Juuji](https://osu.ppy.sh/s/448818) [Twin-Renatic]
  
  
 ### Tournament Brackets and standings
