@@ -251,7 +251,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 - HardRock
   - [Mago de Oz - Xanandra](https://osu.ppy.sh/b/221026) [Insane]
   - [MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/b/837946) [Weakness]
-  - [Camellia - Drumstep4 [The project file of this song was deleted X](https://osu.ppy.sh/b/844722)
+  - [Camellia - Drumstep4 [The project file of this song was deleted X]](https://osu.ppy.sh/b/844722)
 - FreeMod
   - [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut](https://osu.ppy.sh/b/1360912) [aL†aiR]
   - [mafumafu - Yuugure Semi Nikki](https://osu.ppy.sh/b/1229863) [mawaru, mawaru]
