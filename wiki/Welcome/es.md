@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Bienvenido
 
 Bienvenidos a osu!, un juego rítmico de categoría "libre para ganar" creado por peppy con cuatro modos de juego: osu!standard, un simulador para dar clics en los círculos, osu!taiko, un emulador de tambores, osu!catch, un atrapador de ensalada de frutas, osu!mania, una mania de golpear teclas.

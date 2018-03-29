@@ -31,7 +31,13 @@ Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ust
 
 _Zobacz także: [Modowanie](/wiki/Modding)._
 
-Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy. 
+Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy.
+
+## Tworzenie skórek
+
+*Zobacz także: [Tworzenie skórek](/wiki/Skinning) oraz [Poradnik dot. tworzenia skórek](/wiki/Skinning_Tutorial).*
+
+Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno kosmetyczne (np. inny kursor), jak i znaczące (np. całkowicie nowy wygląd elementów gry i interfejsu).
 
 ## osu!wiki - Jak możesz pomóc!
 

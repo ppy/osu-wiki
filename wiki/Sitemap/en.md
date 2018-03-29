@@ -73,6 +73,7 @@ tags:
     -   [Audio Editing](/wiki/Guides/Audio_Editing)
     -   [Beatmap Discussion](/wiki/Beatmap_Discussion)
     -   [Beginner's Tutorial](/wiki/Guides/Beginner's_Tutorial)
+    -   [BSS Issues](/wiki/Guides/BSS_Issues)
     -   [Changing the Artist or Title](/wiki/Guides/Changing_the_Artist_or_Title)
     -   [Changing the Title Text](/wiki/Guides/Changing_the_Title_Text)
     -   [Collab Information](/wiki/Guides/Collab_Information)
