@@ -28,7 +28,7 @@ We'll choose the top upvoted comments to present to the guests for discussion on
 
 ## When is this happening?
 
-The next episode of the osu! Coffee Hour will be happening this Friday, the [30th of March, at 12PM UTC](http://itsalmo.st/#osutaikogamemodeshowcase) over at [osulive](http://www.twitch.tv/osulive).
+The next episode of the osu! Coffee Hour will be happening this Saturday, the [31st of March, at 1PM UTC](http://itsalmo.st/#osutaiko_ivbip) over at [osulive](http://www.twitch.tv/osulive).
 
 We'll see you there!
 
