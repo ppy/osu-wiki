@@ -28,7 +28,7 @@ The approved status is typically for songs that are over five minutes in length 
 
 Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
-These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
 - No [pp](/wiki/pp) will be awarded.
 - All scores will be deleted when the status is changed.
