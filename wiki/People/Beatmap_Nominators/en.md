@@ -66,7 +66,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [- Frontier -](https://osu.ppy.sh/users/4314710)      | Thai                     |
 | [ailv](https://osu.ppy.sh/users/6933054)              |                          |
 | [AyanokoRin](https://osu.ppy.sh/users/5376866)        | French                   |
 | [Battle](https://osu.ppy.sh/users/4037545)            |                          |
@@ -117,7 +116,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Strategas](https://osu.ppy.sh/users/2971837)         | Lithuanian               |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
-| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
 
 ### osu!taiko
