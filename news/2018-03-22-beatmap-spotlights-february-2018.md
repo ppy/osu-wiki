@@ -132,11 +132,11 @@ Despite some similarities, "Sennen no Kotowari" is a noticeably more subdued map
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/yume.jpg)](http://osu.ppy.sh/beatmapsets/619531)
 
-Topping off this month’s mania Spotlights, [eyes](https://osu.ppy.sh/users/7741797) returns to the ranked scene after two years with RADWIMPS’s “Yume Tourou”. With a fresh take on 8 key mapping, eyes restricts his columns to create a focus on one side of the map to reflect the pan of the music, and also utilizes slider velocity changes to emphasize key transitions and provide a varied experience for any player to enjoy.
+Topping off this month’s mania Spotlights, [eyes](https://osu.ppy.sh/users/7741797) returns to the ranked scene after two years with RADWIMPs’s “Yume Touru.” With a fresh take on 8 key mapping, eyes restricts his columns to create a focus on one side of the map to reflect the pan of the music, and also utilizes slider velocity changes to emphasize key transitions and provide a varied experience for any player to enjoy.
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/yukari.jpg)](http://osu.ppy.sh/beatmapsets/416020)
 
-After a two-year break between his last ranked map and now, [liaoxingyao](https://osu.ppy.sh/users/3620963) makes a come back with Ocelot's "YUKARI". Featuring prominent use of stacks and trills to create a contrast within the top difficulty, players must be alert to avoid missing at any of the many rigid transitions. 
+After a two-year break between his last ranked map and now, [liaoxingyao](https://osu.ppy.sh/users/3620963) makes a come back with, Ocelot – YUKARI. Featuring prominent use of stacks and trills to create a contrast within the top difficulty, players must be alert to avoid missing at any of the many rigid transitions. 
 
 Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it’s found itself a spot in this month’s spotlights.
 
