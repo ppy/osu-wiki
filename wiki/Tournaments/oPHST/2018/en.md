@@ -19,7 +19,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-02/2018-04-15 |
+| Registration Phase   | 2018-04-01/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
 | Round of 16          | 2018-05-05/2018-05-06 |
 | Quarterfinals        | 2018-05-12/2018-05-13 |
@@ -30,7 +30,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-02/2018-04-15 |
+| Registration Phase   | 2018-04-01/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
 | Round of 16          | 2018-05-05/2018-05-06 |
 | Quarterfinals        | 2018-05-12/2018-05-13 |
@@ -41,7 +41,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-02/2018-04-15 |
+| Registration Phase   | 2018-04-01/2018-04-15 |
 | Qualifiers (4K)      | 2018-04-28/2018-04-29 |
 | Qualifiers (7K)      | 2018-05-05/2018-05-06 |
 | Group Stage (4K)     | 2018-05-12/2018-05-13 |
@@ -69,8 +69,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084) |
 | Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Graphic Designers | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
-| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
+| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Links
 
@@ -78,6 +78,16 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+- Registration Forms
+	- [osu!standard](https://goo.gl/forms/BXh9rWkzurtpRR5o1)
+	- [osu!catch](https://goo.gl/forms/NiXvErz6WhFGkHZl2)
+	- [osu!mania](https://goo.gl/forms/pttJgrxtpSlhu7QD3)
+
+------------------------
+
+## Mappools
+
+Mappools will be revealed one week in advance of each stage.
 
 ------------------------
 
@@ -132,11 +142,11 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as FAILED SCORES WILL STILL COUNT. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
+- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
 
 - The room name format is as follows: ``oPHST18: (Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. 
 
-- Players are to be ranked according to the weighted average of their Score Rating (illustrated [here](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
+- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
 
 ### Match Proper 
 
@@ -172,7 +182,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool. 
 
-#### Mappools 
+#### Mappools and their Construction 
 
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu!standard and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 
@@ -232,7 +242,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### Qualification Criteria (osu!mania) 
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **Score Rating System** (illustrated [here](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers. 
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed [**Score Rating System**](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers. 
 
 ### Disconnection Clauses 
 
