@@ -67,9 +67,9 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Venezuela          | ![][flag_VE] | ![][flag_HK] | Hong Kong      | **15:00 UTC** | 11:00 UTC -4 | 23:00 UTC +8  |
 | Germany            | ![][flag_DE] | ![][flag_PL] | Poland         | **18:00 UTC** | 20:00 UTC +2 | 20:00 UTC +2  |
 | Finland            | ![][flag_FI] | ![][flag_CL] | Chile          | **18:00 UTC** | 21:00 UTC +3 | 15:00 UTC -3  |
-| Germany            | ![][flag_DE] | ![][flag_US] | United States  | **19:00 UTC** | 21:00 UTC +2 | 12:00 UTC -7  |
+| Germany            | ![][flag_DE] | ![][flag_US] | United States  | **19:00 UTC** | 21:00 UTC +2 | 14:00 UTC -5  |
 | Argentina          | ![][flag_AR] | ![][flag_CA] | Canada         | **19:00 UTC** | 16:00 UTC -3 | 15:00 UTC -4  |
-| Poland             | ![][flag_PL] | ![][flag_US] | United States  | **20:00 UTC** | 22:00 UTC +2 | 13:00 UTC -7  |
+| Poland             | ![][flag_PL] | ![][flag_US] | United States  | **20:00 UTC** | 22:00 UTC +2 | 15:00 UTC -5  |
 
 ### Sunday, 8. April 2018
 
