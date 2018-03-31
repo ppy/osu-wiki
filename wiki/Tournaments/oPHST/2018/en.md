@@ -134,7 +134,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
 
-- The registration phase of the tournament shall begin on April 2, 2018 and end on April 15, 2018. Only thirty-two (32) slots are opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament shall begin on April 1, 2018 and end on April 15, 2018. Only thirty-two (32) slots are opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Players are allowed to join ANY of the four tournaments. 
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
