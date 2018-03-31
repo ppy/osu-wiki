@@ -147,7 +147,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](http://osu.ppy.sh/b/1012645&m=1) 
   - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](http://osu.ppy.sh/b/635003&m=1) 
 - Tiebreaker
-  - ["sasakure.UK - Good Bye \[ Mr. Jack (tkdLolly)"\]](twcLolly) 
+  - [sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](http://osu.ppy.sh/b/1566477&m=1) 
 
 ------------------------------------------------------------------------
 
