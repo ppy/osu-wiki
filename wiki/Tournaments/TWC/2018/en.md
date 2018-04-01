@@ -50,6 +50,45 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/713163)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://goo.gl/phCq6X)
+
+-----------------------
+
+## Match Schedule: Group Stage
+
+### Saturday, 7. April 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Netherlands        | ![][flag_NL] | ![][flag_KR] | South Korea    | **13:00 UTC** | 15:00 UTC +2 | 22:00 UTC +9  |
+| Finland            | ![][flag_FI] | ![][flag_AU] | Australia      | **13:00 UTC** | 16:00 UTC +3 | 23:00 UTC +10 |
+| Russian Federation | ![][flag_RU] | ![][flag_FR] | France         | **14:00 UTC** | 17:00 UTC +3 | 16:00 UTC +2  |
+| Venezuela          | ![][flag_VE] | ![][flag_TW] | Taiwan         | **14:00 UTC** | 10:00 UTC -4 | 22:00 UTC +8  |
+| United Kingdom     | ![][flag_GB] | ![][flag_FR] | France         | **15:00 UTC** | 16:00 UTC +1 | 17:00 UTC +2  |
+| Venezuela          | ![][flag_VE] | ![][flag_HK] | Hong Kong      | **15:00 UTC** | 11:00 UTC -4 | 23:00 UTC +8  |
+| Germany            | ![][flag_DE] | ![][flag_PL] | Poland         | **18:00 UTC** | 20:00 UTC +2 | 20:00 UTC +2  |
+| Finland            | ![][flag_FI] | ![][flag_CL] | Chile          | **18:00 UTC** | 21:00 UTC +3 | 15:00 UTC -3  |
+| Germany            | ![][flag_DE] | ![][flag_US] | United States  | **19:00 UTC** | 21:00 UTC +2 | 14:00 UTC -5  |
+| Argentina          | ![][flag_AR] | ![][flag_CA] | Canada         | **19:00 UTC** | 16:00 UTC -3 | 15:00 UTC -4  |
+| Poland             | ![][flag_PL] | ![][flag_US] | United States  | **20:00 UTC** | 22:00 UTC +2 | 15:00 UTC -5  |
+
+### Sunday, 8. April 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Chile              | ![][flag_CL] | ![][flag_AU] | Australia      | **1:00 UTC**  | 22:00 (Sat) UTC -3 | 11:00 UTC +10      |
+| South Korea        | ![][flag_KR] | ![][flag_BR] | Brazil         | **2:00 UTC**  | 11:00 UTC +9       | 23:00 (Sat) UTC -3 |
+| Malaysia           | ![][flag_MY] | ![][flag_JP] | Japan          | **11:00 UTC** | 19:00 UTC +8       | 20:00 UTC +9       |
+| Hong Kong          | ![][flag_HK] | ![][flag_TW] | Taiwan         | **11:00 UTC** | 19:00 UTC +8       | 19:00 UTC +8       |
+| Ukraine            | ![][flag_UA] | ![][flag_JP] | Japan          | **12:00 UTC** | 15:00 UTC +3       | 21:00 UTC +9       |
+| Spain              | ![][flag_ES] | ![][flag_ID] | Indonesia      | **12:00 UTC** | 14:00 UTC +2       | 19:00 UTC +7       |
+| Ukraine            | ![][flag_UA] | ![][flag_MY] | Malaysia       | **13:00 UTC** | 16:00 UTC +3       | 21:00 UTC +8       |
+| Italy              | ![][flag_IT] | ![][flag_ID] | Indonesia      | **13:00 UTC** | 15:00 UTC +2       | 20:00 UTC +7       |
+| Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 17:00 UTC +3       | 15:00 UTC +1       |
+| Italy              | ![][flag_IT] | ![][flag_ES] | Spain          | **17:00 UTC** | 19:00 UTC +2       | 19:00 UTC +2       |
+| Portugal           | ![][flag_PT] | ![][flag_AR] | Argentina      | **17:00 UTC** | 19:00 UTC +2       | 14:00 UTC -3       |
+| Portugal           | ![][flag_PT] | ![][flag_CA] | Canada         | **18:00 UTC** | 20:00 UTC +2       | 14:00 UTC -4       |
+| Netherlands        | ![][flag_NL] | ![][flag_BR] | Brazil         | **18:00 UTC** | 20:00 UTC +2       | 15:00 UTC -3       |
 
 -----------------------
 
@@ -86,7 +125,30 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Mappool
 
-Mappools will be revealed one week in advance of each stage.
+### Group Stage
+
+**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/q87i9p51i3627bu/TWC%202018%20-%20GROUP%20STAGE%20MAPPOOL.rar)**
+
+- NoMod
+  - [Chroma - Collapse (MMzz) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1463029) 
+  - [NegaRen - Goin' Under (Nofool) \[Special Oni2\]](http://osu.ppy.sh/beatmaps/1254140) 
+  - [xi - Caramel Custard (D o t) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1102314) 
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (KitajimaYN) \[Taiko of an Illusion\]](http://osu.ppy.sh/beatmaps/1424840) 
+  - [Yuitsuki yukari - Shiawase ni nareru kakushi komando ga aru rashii (Firce777) \[Firce777's Taiko\]](http://osu.ppy.sh/beatmaps/514465)
+- Hidden
+  - [Ice - Entrance (Midnaait) \[Inner Oni (2014 Ver.)\]](http://osu.ppy.sh/beatmaps/1590333) 
+  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1362671) 
+- HardRock
+  - [ESTi - HELIX (Edit ver.) (hikikochan) \[MX\]](http://osu.ppy.sh/beatmaps/1584721) 
+  - [YUC'e - Cinderella Syndrome (KinomiCandy) \[Last Dance\]](http://osu.ppy.sh/beatmaps/1167967) 
+- DoubleTime
+  - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Oni\]](http://osu.ppy.sh/beatmaps/751189) 
+  - [FELT - Day after (Senritsu) \[Oni\]](http://osu.ppy.sh/beatmaps/718430) 
+- FreeMod
+  - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1012645) 
+  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/635003) 
+- Tiebreaker
+  - [sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](http://osu.ppy.sh/beatmaps/1566477) 
 
 ------------------------------------------------------------------------
 
