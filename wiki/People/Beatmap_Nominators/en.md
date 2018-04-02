@@ -125,7 +125,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
 | [Aloda](https://osu.ppy.sh/users/1190127)             |                          |
 | [Arrival](https://osu.ppy.sh/users/1694000)           | French                   |
-| [Faputa](https://osu.ppy.sh/users/845733)             | Chinese                  |
+| [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
 | [frukoyurdakul](https://osu.ppy.sh/users/7612550)     | Turkish                  |
 | [hikikochan](https://osu.ppy.sh/users/6512678)        |                          |
 | [incandescence](https://osu.ppy.sh/users/6256027)     | Some Spanish             |
