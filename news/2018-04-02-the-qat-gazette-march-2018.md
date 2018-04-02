@@ -65,8 +65,11 @@ Thanks to the QAH initiative explained above, we have determined some of our Bea
 
 Please give a warm welcome to:
 - [-Mo-](https://osu.ppy.sh/users/2202163) and [Mir](https://osu.ppy.sh/users/8688812), who will be joining the **Disqualification** branch;
-- [Gabe](https://osu.ppy.sh/users/654108), who will partake the **Moderation** branch; 
+- [Gabe](https://osu.ppy.sh/users/654108), who will partake the **Moderation** branch;
+- [Feerum](https://osu.ppy.sh/users/4815717), an old hand who just couldn't stay away and is back once again to rejoin the **Disqualification** branch;
 - and finally, [Lanturn](https://osu.ppy.sh/users/1446665), who will assist the **Metadata** branch.
+
+
 ### Quality Assurance Team retirements
 Not everything can always be good news, for it is at times of loss when one really appreciates what one had
 
