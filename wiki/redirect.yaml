@@ -427,6 +427,8 @@
 "audio_editing":                                              "Guides/Audio_Editing"
 "beginner's_tutorial":                                        "Guides/Beginner's_Tutorial"
 "beginner":                                                   "Guides/Beginner's_Tutorial"
+"bss_issues": "Guides/BSS_Issues"
+"beatmap_submission_system_issues": "Guides/BSS_Issues"
 "changing_the_artist_or_title":                               "Guides/Changing_the_Artist_or_Title"
 "changing_the_title_text":                                    "Guides/Changing_the_Title_Text"
 "collab_information":                                         "Guides/Collab_Information"
@@ -463,8 +465,8 @@
 "tips_and_tricks_on_skill_improvement":                       "Guides/Tips_and_Tricks_on_Skill_Improvement"
 "videos_from_youTube":                                        "Guides/Videos_From_YouTube"
 
-"help_center":                 "Help_Center"
-"help":                        "Help_Center"
+"help_center":                 "Help_Centre"
+"help":                        "Help_Centre"
 
 "hoo":                          "History_of_osu!"
 "hoo/1":                        "History_of_osu!/2007"
@@ -485,7 +487,7 @@
 "hoo/2016":                     "History_of_osu!/2016"
 "hoo/2017":                     "History_of_osu!/2017"
 "hoo/2018":                     "History_of_osu!/2018"
-"hoo/osu!wiki":                 "History_of_osu!/osu!wiki"
+"hoo/osu!wiki":                 "History_of_osu!/osu!_wiki"
 
 "hitobjects":                  "Hit_Objects"
 "objects":                     "Hit_Objects"
@@ -900,6 +902,11 @@
 
 "qat":                             "People/Quality_Assurance_Team"
 "qat_blog":                        "People/Quality_Assurance_Team/Blog"
+
+"staff_log": "People/Staff_Log"
+"staff_promotion/retirement_log": "People/Staff_Log"
+"staff_promotion_log": "People/Staff_Log"
+"staff_retirement_log": "People/Staff_Log"
 
 "support_team":                    "People/Support_Team"
 "support_team_redux":              "People/Support_Team"

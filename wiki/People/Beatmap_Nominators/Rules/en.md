@@ -1,6 +1,6 @@
 # Rules
 
-*Main page: [Beatmap Nominators](/wiki/Beatmap Nominators).*
+*Main page: [Beatmap Nominators](/wiki/Beatmap_Nominators).*
 
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them.
 
@@ -43,14 +43,14 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **You can veto a beatmap set by placing a bubble pop on the set that you disagree with being fit for being Ranked.** Bubble popping over any kind of quality issues that you think need to be addressed before the map can move anywhere is one of your main responsibilities. A proper discussion with attempting to reach a mutual agreement by both sides of the argument has to follow.
 + **You are free to pop a rebubble of another nominator if you are not the original bubble popper and disagree with the reasoning for disregarding the bubble pop.** Thus the original popper is unable to overvote two other nominators.
 + **If the community member(s) requesting disqualification cannot reach an agreement with the mapper and you placed the last bubble or heart on a map, you cannot rebubble or requalify it.** For osu!taiko, osu!catch, osu!mania, and hybrid sets, you may break these conditions once per map due to the low number of nominators.
-+ **Abide by the [_osu!_ Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
++ **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
 
 ## Changelog
 This section lists recent addition to this ruleset as well as rules that are in the process of transition and may be handled differently for a certain time. This interval as well as additional information, where available, is listed in _italics_.
 
 + **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the mapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
 
-_Addition date: 6. April 2017, **in effect immediately**_
+_Addition date: 2017-04-06, **in effect immediately**_
 + **__Every__ mapset is approved through two nominations** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 
 _Addition date: 2. June 2017, **in effect immediately**_

@@ -32,10 +32,10 @@ osu! Taiko World Cup 2014
 
 | Job    | Person(s)                                                                                                                                                                                                                                                                                     |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理   | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                                  |
-| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
-| 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/u/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
-| 赛果统计   | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
+| 赛事管理   | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703)                                                                                                                                                                  |
+| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                                                                                                                           |
+| 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
+| 赛果统计   | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
