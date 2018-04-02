@@ -11,12 +11,12 @@ Greetings everyone! We hope all of you have a wonderful Christmas today and cele
 
 With that said, the Winter Themed Charts have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=WINCH16), containing this time 8 beatmaps! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy winter / christmas themed maps of the last years.
 
 
-###osu!
+### osu!
 
 + [Train - Shake Up Christmas](https://osu.ppy.sh/s/63945) by [Ayu](https://osu.ppy.sh/u/1267151)
 + [BeautifulDay - Christmas Memories](https://osu.ppy.sh/s/239387) by [fanzhen0019](https://osu.ppy.sh/u/418699)
@@ -27,7 +27,7 @@ The charts have previously been created by letting volunteers alongside the Qual
 + [NoboruP - Hitorikiri no Merry Day](https://osu.ppy.sh/s/68132) by [Chewin](https://osu.ppy.sh/u/617323)
 + [Naomile - LAST CHRISTMAS](https://osu.ppy.sh/s/67125) by [JauiPlaY](https://osu.ppy.sh/u/313072)
 
-###osu!taiko
+### osu!taiko
 
 + [9nine - White Wishes (TV Size)](https://osu.ppy.sh/s/69992) by [NoHitter](https://osu.ppy.sh/u/124455) and [mintong89](https://osu.ppy.sh/u/966210)
 + [ave;new feat. Sakura Saori - snow of love](https://osu.ppy.sh/s/388858) by [chaica](https://osu.ppy.sh/u/4455389)
@@ -38,7 +38,7 @@ The charts have previously been created by letting volunteers alongside the Qual
 + [Mahito Yokota - White Snow](https://osu.ppy.sh/s/221167) by [Nwolf](https://osu.ppy.sh/u/1910766)
 + [u's - Snow halation](https://osu.ppy.sh/s/66385) by [kanpakyin](https://osu.ppy.sh/u/394326) and [aabc271](https://osu.ppy.sh/u/155707)
 
-###osu!catch
+### osu!catch
 
 + [Kugimiya Rie & Kitamura Eri - Holy Night](https://osu.ppy.sh/s/227585) by [Kurokami](https://osu.ppy.sh/u/260933)
 + [Mahito Yokota - White Snow](https://osu.ppy.sh/s/221167) by [Sey](https://osu.ppy.sh/u/553656) and [mingmichael](https://osu.ppy.sh/u/1570876)
@@ -49,7 +49,7 @@ The charts have previously been created by letting volunteers alongside the Qual
 + [BoA - Kiseki](https://osu.ppy.sh/s/150145) by [Hinsvar](https://osu.ppy.sh/u/1249323)
 + [S-C-U - milky ice bear](https://osu.ppy.sh/s/57272) by [Deif](https://osu.ppy.sh/u/318565)
 
-###osu!mania
+### osu!mania
 
 + [BeautifulDay - Christmas Memories](https://osu.ppy.sh/s/241103) by [arviejhay](https://osu.ppy.sh/u/145871)
 + [Yooh - Ice Angel](https://osu.ppy.sh/s/379365) by [pporse](https://osu.ppy.sh/u/4991434)

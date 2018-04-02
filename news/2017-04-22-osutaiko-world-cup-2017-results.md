@@ -16,7 +16,7 @@ It all came together to create some of the most intense matches in the TWC thus 
 
 Without further ado, let's get to the results!
 
-<center><img src="http://puu.sh/vsmm0/24f479f16f.png"></center>
+![](http://puu.sh/vsmm0/24f479f16f.png)
 
 **With an explosively dominating performance, team Japan claims victory in the osu!taiko World Cup 2017!**
 
@@ -38,9 +38,9 @@ Team Hong Kong takes home a profile badge as proof of their performance, along w
 
 I have had the utmost joy of experiencing this splendid tournament through three different perspectives; as player, commentator, and recap writer.
 
-I’d like to take this opportunity to thank all the players for their good sportsmanship, and the tournament staff for the amount of effort they’ve put in behind the scenes - for without their undying commitment and dedication this World Cup would not have been as successful and amazing as it was. 
+I'd like to take this opportunity to thank all the players for their good sportsmanship, and the tournament staff for the amount of effort they've put in behind the scenes - for without their undying commitment and dedication this World Cup would not have been as successful and amazing as it was.
 
-Finally,  I’d also like to thank all the viewers for showing support for their teams and creating a truly exciting environment for such a fantastic contest to take place in.
+Finally,  I'd also like to thank all the viewers for showing support for their teams and creating a truly exciting environment for such a fantastic contest to take place in.
 
 I can't wait for next year's TWC, and I hope you feel the same way.
 

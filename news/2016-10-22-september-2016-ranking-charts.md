@@ -20,13 +20,13 @@ Volunteers are suggested and invited by the QAT. Due to the varying amount of QA
 
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 + **[Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/s/342472) by [384059043](https://osu.ppy.sh/u/1343783)** (Nominator: [Okorin](https://osu.ppy.sh/u/1623405))
 
@@ -53,7 +53,7 @@ A really well-put together set featuring quality difficulties from various guest
 5 different mappers come together to produce a beautiful representation of this song. Mochi's Easy is a smooth and simple difficulty relying mostly on blankets and clean shapes while Andrea's Normal gives us a taste of old, vertical axis symmetry mapping. alacat's Hard manages to pull off the tricky rhythms in this song well while maintaining the simplicity expected from a hard difficulty. Chewin's own difficulty, Insane, showcases his characteristic curved slider style, accompanied by fluid jumps and coupled patterns. Skystar's Extra is a jaw-dropping assortment of rhythms and patterns. From symmetry to streamjumps, it has everything. Be sure to play this at least once to experience how Skystar manages to turn an awfully complex rhythm into a delightful playing experience. All in all, 5 quality difficulties from 5 quality mappers clearly deserving of a spot in this month's chart.
 
 
-###osu!taiko
+### osu!taiko
 
 + **[Hate vs Brilliance - Qubism](https://osu.ppy.sh/s/451660) by [Nishizumi](https://osu.ppy.sh/u/2496768)** (Nominator: [S a n d](https://osu.ppy.sh/u/676578))
 
@@ -81,7 +81,7 @@ Another very notable thing about this set is the simplicity, as the maps are ver
 A very interesting map, I had fun playing all difficulties, especially Oni (DT) and Inner Oni. The placement and usage of 1/6 + 1/12 are pretty good and the same goes for the usage of finishers. The map itself is well structured and consistent. I don't have much to say since these kind of maps aren't common in Taiko and it would be nice if we have more like these.
 
 
-###osu!catch
+### osu!catch
 
 + **[Bitter Sweet Entertainment - Kanashimi no Mukougawa (Piano Version)](https://osu.ppy.sh/s/435287) by [JBHyperion](https://osu.ppy.sh/u/4879508)** (Nominator: [Chara](https://osu.ppy.sh/u/829284))
 
@@ -109,7 +109,7 @@ I like how the difficulty is increasing in this mapset. Starting from Hard the j
 
 
 
-###osu!mania
+### osu!mania
 
 + **[Senpi- - Touhou EX Boss Rush!! +a Kouhen](https://osu.ppy.sh/s/165924) by [RuberusuScarlet](https://osu.ppy.sh/u/2534632)** (Nominator: [Feerum](https://osu.ppy.sh/u/4815717))
 
@@ -143,10 +143,10 @@ Yet another energetic t+pazolite 4K set. Running at 195 bpm, this set has a wide
 **The September 2016 ranking charts will end on the 15th November 2016.**
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system for the charts, we have to halt the release of the winners of the past charts. We apologize for the inconvenience and hope to reactivate the score system soon!
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
 —OnosakiHito

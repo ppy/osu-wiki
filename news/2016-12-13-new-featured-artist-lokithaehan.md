@@ -13,11 +13,13 @@ Hailing from Bordeaux in France, **Loki/Thaehan** is an incredibly talented musi
 
 Don't believe it?
 
-Here's a sample of his work as **Loki**, with a distinctively symphonic twist on metal:<br><br><center>
-<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3357931948/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://loki2.bandcamp.com/album/tales-of-the-mountains">Tales of the Mountains by Loki/Thaehan</a></iframe></center>
+Here's a sample of his work as **Loki**, with a distinctively symphonic twist on metal:
 
-And here's a taste of his work as **Thaehan**, sporting the aforementioned chiptune-fuelled sugar rush:<br><br><center>
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=936406348/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://loki2.bandcamp.com/album/bwa">Bwa by Thaehan</a></iframe></center>
+<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3357931948/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://loki2.bandcamp.com/album/tales-of-the-mountains">Tales of the Mountains by Loki/Thaehan</a></iframe>
+
+And here's a taste of his work as **Thaehan**, sporting the aforementioned chiptune-fuelled sugar rush:
+
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=936406348/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://loki2.bandcamp.com/album/bwa">Bwa by Thaehan</a></iframe>
 
 You can read more about **Loki/Thaehan** over at [his Featured Artist listing](https://new.ppy.sh/beatmaps/artists/7), and even download dozens of his tracks already timed and ready to be mapped!
 
