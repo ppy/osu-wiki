@@ -25,6 +25,7 @@ Active
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Player support |
 | ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp development |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Player support |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
@@ -62,6 +63,7 @@ User Groups
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
