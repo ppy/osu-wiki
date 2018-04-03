@@ -67,13 +67,13 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06-05-2017 | 14-05-2017 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06-05-2017 | 14-05-2017 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Tahun | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24-06-2017 | 06-08-2017 | - Choma - | [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24-06-2017 | 06-08-2017 | - Choma - | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 
 ### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
 
