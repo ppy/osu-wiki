@@ -4,7 +4,7 @@ title: "Spring 2018 Fanart Contest"
 date: 2018-04-03 07:00:00 +0000
 ---
 
-We're ready to appreciate the blooming talents of our amazing artists once again, in 2018's first Fan Art contest, featuring spring! Like to draw and want some free osu!supporter? Check this out!
+We're ready to appreciate the blooming talents of our amazing artists once again, in 2018's first fanart contest, featuring spring! Like to draw and want some free osu!supporter? Check this out!
 
 [![](https://assets.ppy.sh/contests/64/header.jpg)](https://osu.ppy.sh/community/contests/64)
 
@@ -12,9 +12,9 @@ The seasons are changing once again, and that means we get a brand new opportuni
 
 Spring is in the air, so put some spring in your step and hop over to your trusty drawing implement of choice and get to penning **any of the osu! or community mascots in a spring-themed piece**.
 
-The intrepid artists up for the challenge will find they have a whopping **27 days** from the date of this post to pull out their best work for the contest. Way better than the ten or twenty days you used to get, right?
+The intrepid artists up for the challenge will find they have **16 days** from the date of this post to pull out their best work for the contest.
 
-All valid entries will be placed up for a big community vote as per the normal procedure for these contests, and the top ten winners will receive **2 months of osu!supporter** for either themselves, a friend, or two friends.
+All valid entries will be placed up for a big community vote pretty much immediately after entry closes for **7 days of agonizing voting**, and the top ten winners will receive **2 months of osu!supporter** for either themselves, a friend, or two friends.
 
 The top ten winners will also be included as 2018's 'seasonal' background pack for spring, and will remain live in the game client for several weeks - conveniently spanning all of the osu!taiko World Cup! Nice.
 
