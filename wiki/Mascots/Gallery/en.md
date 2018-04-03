@@ -4,7 +4,7 @@
 
 ## Official
 
-### Pippi
+### pippi
 
 #### Original pippi (Idol outfit)
 
