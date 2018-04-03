@@ -1,234 +1,97 @@
-A video about the mascots: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
+# Mascots
 
-osu! Mascots
-============
+*See also: [Mascots/Gallery](/wiki/Mascots/Gallery).*
 
-Pippi
------
+A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+## Official
 
-#### Real Name
-Pippi
+### pippi
 
-#### Alisaes
-* Pippi
-* Pippidon
+![pippi](img/pippi.png "pippi")
 
-#### Birthday
-?
+pippi, stylized with a lowercase p, is the osu!standard mascot that joined the osu! mascots on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by crystalsuicune, and the current art was designed by Daru.
 
-#### Height
-?
+### Yuzu
 
-#### Appearance
-* osu! (Official mascot)
-* Taiko (as Pippidon)
-* Yandere Simulator (as NPC easter egg)
+*For the news post, see: [Meet Yuzu](/home/news/89483664163).*
 
-#### Creator
-* Sarumaru (Concept and original art)
-* Daru (Current art)
-* crystalsuicune (pippidon)
+![Yuzu](img/Yuzu.png "Yuzu")
 
-#### Gender
-Female
+Yuzu is the osu!catch mascot that had joined the osu! mascots on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprite was done by ztrot while Daru had created the comboburst art.
 
-#### Date Joined
-22/06/2008
+### Maria
 
-#### Weight
-?
+*For the news post, see: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
 
-#### Biodata
-(to be added)
+![Maria](img/Maria.png "Maria")
 
-Yuzu
-----
+Maria is the osu!mania mascot that had joined the osu! mascots on 2016-03-04. Her art was designed by Daru.
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+### Mocha
 
-#### Real Name
-Yuzu
+*For the news post, see: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
-#### Aliases
-Yuzu
+<!-- ![Mocha](img/Mocha.png "Mocha") -->
 
-#### Birthday
-10/04/2000
+Mocha is the osu!taiko mascot. She was initially designed during the [sixth fanart contest](/community/contests/2) by Crowie, which had been ranked 21st from the polls.
 
-#### Height
-172cm
+## Cameos
 
-#### Appearance
-Catch the Beat
+### Ryūta Ippongi
 
-#### Creator
-* Daru (Art)
-* ztrot (Catcher art, Concept design)
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-#### Gender
-Male
+> He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
-#### Date Joined
-22/06/2014
+一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined the osu! mascots in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by iNiS Corporation and was once part of the old website. He also had an appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
-#### Weight
-65kg
+Ryuuta was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
 
-#### Biodata
-[Introduction](https://osu.ppy.sh/news/89483664163) (to be added)
+### Agent J
 
-Maria
------
+![Agent J](img/Agent_J.png "Agent J")
 
-![Maria](Maria_Profile.jpeg "Maria")
+> An expert in many styles of dance ranging from hip-hop to ballet, J can mesmerize any living thing.
 
-#### Real Name
-Maria
+Agent J, also known as BA-2 (Beat Agent-2) or J, was one of the osu! mascots in 2008 but had retired in 2014. He was created by iNiS Corporation and was once part of the old website.
 
-#### Aliases
-Maria
+Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
 
-#### Birthday
-?
+### Don
 
-#### Height
-?
+![Don](img/Don.png "Don")
 
-#### Appearance
-Mania
+> Don is the protagonist of the Taiko no Tatsujin series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
 
-#### Creator
-* Daru (Art)
+和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko tha joined in 2008-05. He is 48cm tall and weighs 100+ kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
 
-#### Gender
-Female
+## Community
 
-#### Date Joined
-03/04/2016
+List of officially reconsized community mascots.
 
-#### Weight
-?
+### Aiko
 
-#### Biodata
-[Introduction](https://osu.ppy.sh/news/143103453693) (to be added)
+![Aiko](img/Aiko.jpg "Aiko")
 
-Cameos
-======
+Designed by [JMC](/users/774010), Aiko is an energetic girl with a passion for Taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on the 6th of April, 1999.
 
-Ryūta Ippongi
--------------
+### Alisa
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Alisa](img/Alisa.jpg "Alisa")
 
-#### Real Name
-一本木龍太 (Ryūta Ippongi)
+Designed by [\[ Glitch \]](/users/3781400), Alisa has been playing Taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing Taiko, or playing retro video games for kicks!
 
-#### Aliases
-Ryuuta
+### Tama
 
-#### Birthday
-?
+![Tama](img/Tama.jpg "Tama")
 
-#### Height
-?
+Designed by [crystalsuicine](/users/9974), Tama is one of the younger participants in the osu!taiko mascot design contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
 
-#### Appearance
-* Catch the Beat (as chibi-Ryuuta) [replaced by Yuzu]
-* osu!webpage (chibi-Ryuuta as Mascot) [Retired]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
-* Yandere Simulator (as NPC Easter Egg)
+### Taikonator
 
-#### Creator
-iNiS Corporation
+![Taikonator](img/Taikonator.jpg "Taikonator")
 
-#### Gender
-Male
+### pyun
 
-#### Date Joined
-2008 [Retired:2014]
-
-#### Weight
-?
-
-#### Biodata
-He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
-
-Agent J
--------
-
-![Agent J](J_chibi_Header.png "Agent J")
-
-#### Real Name
-Agent J
-
-#### Aliases
-BA-2 (Beat Agent-2), J
-
-#### Birthday
-?
-
-#### Height
-?
-
-#### Appearance
-* osu!webpage (chibi-J as Mascot) [Retired]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
-
-#### Creator
-iNiS Corporation
-
-#### Gender
-Male
-
-#### Date Joined
-2008 [Retired:2014]
-
-#### Weight
-?
-
-#### Biodata
-An expert in many styles of dance ranging from hip-hop to ballet, J can mesmerize any living thing.
-
-Don
----
-
-![Don](Don-chan_Taiko.png "Don")
-
-#### Real Name
-和田どん (Wada Don)
-
-#### Aliases
-Don, Don-chan
-
-#### Birthday
-?
-
-#### Height
-48cm
-
-#### Appearance
-* Taiko (Skin)
-{Official skin for [Options's trigger](Options#Skin "wikilink")}
-
-#### Creator
-* Yukiko Yokoo (横尾有希子) [Art]
-* Narahashi Miki (楢橋 美紀) [Voice provider]
-
-#### Gender
-Male
-
-#### Date Joined
-May 2008
-
-#### Weight
-100+ kg
-
-#### Biodata
-Don is the protagonist of the Taiko no Tatsujin series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
-
-Image gallery
-=============
-
-[Click here to go to image gallery.](/wiki/Mascots/Gallery "wikilink")
+![pyun](img/pyun.jpg "pyun")
