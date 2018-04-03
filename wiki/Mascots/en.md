@@ -72,13 +72,13 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 ![Aiko](img/Aiko.jpg "Aiko")
 
-Designed by [JMC](/users/774010), Aiko is an energetic girl with a passion for Taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on the 6th of April, 1999.
+Designed by [JMC](/users/774010), Aiko is an energetic girl with a passion for osu!taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on 1999-04-06.
 
 ### Alisa
 
 ![Alisa](img/Alisa.jpg "Alisa")
 
-Designed by [\[ Glitch \]](/users/3781400), Alisa has been playing Taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing Taiko, or playing retro video games for kicks!
+Designed by [\[ Glitch \]](/users/3781400), Alisa has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing osu!taiko, or playing retro video games for kicks!
 
 ### Tama
 
