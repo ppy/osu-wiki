@@ -68,8 +68,6 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 ## Community
 
-List of officially reconsized community mascots.
-
 ### Aiko
 
 ![Aiko](img/Aiko.jpg "Aiko")
