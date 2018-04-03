@@ -10,7 +10,7 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase p, is the osu!standard mascot that joined the osu! mascots on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by crystalsuicune, and the current art was designed by Daru.
+pippi, stylized with a lowercase p, is the osu!standard mascot that joined on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by crystalsuicune, and the current art was designed by Daru.
 
 ### Yuzu
 
@@ -18,7 +18,7 @@ pippi, stylized with a lowercase p, is the osu!standard mascot that joined the o
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu is the osu!catch mascot that had joined the osu! mascots on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprite was done by ztrot while Daru had created the comboburst art.
+Yuzu is the osu!catch mascot that had joined on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprite was done by ztrot while Daru had created the comboburst art.
 
 ### Maria
 
@@ -26,7 +26,7 @@ Yuzu is the osu!catch mascot that had joined the osu! mascots on 2014-06-22. He 
 
 ![Maria](img/Maria.png "Maria")
 
-Maria is the osu!mania mascot that had joined the osu! mascots on 2016-03-04. Her art was designed by Daru.
+Maria is the osu!mania mascot that had joined on 2016-03-04. Her art was designed by Daru.
 
 ### Mocha
 
@@ -44,7 +44,7 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 > He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
-一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined the osu! mascots in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by iNiS Corporation and was once part of the old website. He also had an appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
+一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by iNiS Corporation and was once part of the old website. He also had an appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
 Ryuuta was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
 
