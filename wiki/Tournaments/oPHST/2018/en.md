@@ -159,6 +159,8 @@ Mappools will be revealed one week in advance of each stage.
 
 - Players are to be ranked according to the total of their best attempts during their qualifying run. Top 32 players advance to the bracket stage, and the rest are eliminated.
 
+- In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
+
 #### osu!mania 4K and 7K 
 
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round shall also serve as the division's seeding phase.
@@ -174,6 +176,8 @@ Mappools will be revealed one week in advance of each stage.
 	- **Seeds 1 to 4** will automatically advance to the Group Stage and will not play during this round.
 	- **Seeds 9 to 24** will face each other (9 vs 24, 10 vs 23, so on) in this round and the winners will go to the Group Stage.
 	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 25 vs 32, Seed 6 will face the winner of 26 vs 31, and so on), winners of these matches will advance to the Group Stage.
+	
+- In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 ### Match Proper 
 
