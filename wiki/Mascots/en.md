@@ -72,24 +72,28 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 ![Aiko](img/Aiko.jpg "Aiko")
 
-Designed by [JMC](/users/774010), Aiko is an energetic girl with a passion for osu!taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on 1999-04-06.
+Designed by [JMC](/users/774010), Aiko was one of the participants in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on 1999-04-06.
 
 ### Alisa
 
 ![Alisa](img/Alisa.jpg "Alisa")
 
-Designed by [\[ Glitch \]](/users/3781400), Alisa has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing osu!taiko, or playing retro video games for kicks!
+Designed by [\[ Glitch \]](/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing osu!taiko, or playing retro video games for kicks!
 
 ### Tama
 
 ![Tama](img/Tama.jpg "Tama")
 
-Designed by [crystalsuicine](/users/9974), Tama is one of the younger participants in the osu!taiko mascot design contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
+Designed by [crystalsuicine](/users/9974), Tama was one of the younger participants in the osu!taiko mascot design contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.jpg "Taikonator")
 
+Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
+
 ### pyun
 
 ![pyun](img/pyun.jpg "pyun")
+
+Designed by [pyun](/users/981534), pyun was one of the participants in the osu!taiko mascot design contest. She is seen in some of pyun's past fanart contest submissions.
