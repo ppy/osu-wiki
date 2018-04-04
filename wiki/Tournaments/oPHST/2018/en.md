@@ -88,6 +88,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ------------------------
 
+## Participants
+
+An initial list of participants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified Participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
+
+------------------------
+
 ## Mappools
 
 Mappools will be revealed one week in advance of each stage.
