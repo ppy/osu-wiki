@@ -19,7 +19,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-01/2018-04-15 |
+| Registration Phase   | 2018-04-01/2018-04-04 |
+| Qualifiers           | 2018-04-14/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
 | Round of 16          | 2018-05-05/2018-05-06 |
 | Quarterfinals        | 2018-05-12/2018-05-13 |
@@ -43,6 +44,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 |---:|---|
 | Registration Phase   | 2018-04-01/2018-04-15 |
 | Qualifiers (4K)      | 2018-04-28/2018-04-29 |
+| Play-offs  (4K)      | 2018-05-05/2018-05-06 |
 | Qualifiers (7K)      | 2018-05-05/2018-05-06 |
 | Group Stage (4K)     | 2018-05-12/2018-05-13 |
 | Group Stage (7K)     | 2018-05-19/2018-05-20 |
@@ -50,6 +52,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Semifinals           | 2018-06-02/2018-06-03 |
 | Finals Week 1        | 2018-06-09/2018-06-10 |
 | Finals Week 1        | 2018-06-06/2018-06-17 |
+
+**Note**: Registrations may prematurely end when there are a sufficient number of registrants.
 
 ## Prizes
 
@@ -79,7 +83,6 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 - Registration Forms
-	- [osu!standard](https://goo.gl/forms/BXh9rWkzurtpRR5o1)
 	- [osu!catch](https://goo.gl/forms/NiXvErz6WhFGkHZl2)
 	- [osu!mania](https://goo.gl/forms/pttJgrxtpSlhu7QD3)
 
@@ -138,15 +141,33 @@ Mappools will be revealed one week in advance of each stage.
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
-#### Qualifier Round for osu!mania 4K and 7K 
+### Qualifier Round
 
-- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
+#### osu!standard
+
+- All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
+
+- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
+
+- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+
+- Players are to be ranked according to the total of their best attempts during their qualifying run. Top 32 players advance to the bracket stage, and the rest are eliminated.
+
+#### osu!mania 4K and 7K 
+
+- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round shall also serve as the division's seeding phase.
 
 - Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
 
-- The room name format is as follows: ``oPHST18: (Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. 
+- The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
 - Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
+
+- 4K Division players who advance are then sorted into groups depending on their standing and will play on a Best of 7 Play-off round the week after qualification in order to reduce the field to 16 players for the group stage. They are stated as follows:
+
+	- **Seeds 1 to 4** will automatically advance to the Group Stage and will not play during this round.
+	- **Seeds 9 to 24** will face each other (9 vs 24, 10 vs 23, so on) in this round and the winners will go to the Group Stage.
+	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 25 vs 32, Seed 6 will face the winner of 26 vs 31, and so on), winners of these matches will advance to the Group Stage.
 
 ### Match Proper 
 
