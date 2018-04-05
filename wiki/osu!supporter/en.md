@@ -1,100 +1,48 @@
 # osu!supporter
 
-![osu!supporter link on main page](./img/lazer_sup.png "osu!supporter link on main page.")
+*For the osu!supporter page from osu!web, see [support the game](https://osu.ppy.sh/home/support).*
 
-[Support osu!](https://osu.ppy.sh/home/support "Support osu!")
+![osu!supporter button](img/signed-out-home.png "osu!supporter button on the home page when signed out")
 
-## Advantages of osu!supporter
+## Benefits
 
-![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
+*For a list of goodies from having osu!supporter, see [support the game](https://osu.ppy.sh/home/support).*
 
-- osu!direct (in-game direct download function).
-  - Automatic beatmap download when beatmap is not available or a beatmap link is clicked in-game.
-- Access to [Multi](/wiki/Multi "Multi") when using `Cutting Edge (Experimental)` stream.
-- [Chat Console](/wiki/Chat_Console "Chat Console"): Shown as bright yellow name for others; shown as white as usual for the player.
-- [Beatmap listing](https://osu.ppy.sh/p/beatmaplist "Beatmap list"): Filter beatmap searches by played and unplayed maps.
-- [Skinning](/wiki/Skinning "Skinning"): Some additional skin elements can be used, such as the [main menu](https://osu.ppy.sh/forum/t/96949)'s background.
-  - Specifically: `menu-background.jpg` (Main Menu), `welcome.wav` (Welcome Sound), `seeya.wav` (Exiting Sound).
-- [Feature Requests](https://osu.ppy.sh/community/forums/4 "Feature Requests"): Extra votes for feature requests (2 per month over usual 1 per month).
-- [Song Selection](/wiki/Interface "Song Selection in Interface"): The ability to view beatmaps in player's country/friends/mod-specific rankings in-game.
-- Account's Profile:-
-  - A user page can be added to the account's profile.
-    - The user page will not be deleted when osu!supporter expires.
-  - The ability to [change username](https://osu.ppy.sh/store/product/32) **once for free on the account**.
-    - Should the player choose not to use it, the free username change is still valid even when osu!supporter expires.
-      - The free username change is only provided once per account only. Getting osu!supporter again does not provide another new free username change.
-    - Once used, the consecutive username change must be bought instead.
-  - Increased beatmap submission limits (up to 10 pending beatmaps total).
-- [Performance Ranking](https://osu.ppy.sh/p/pp): Allow `filter to friends` command.
+In general, by buying osu!supporter tag, you will be directly supporting the game's developement while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
 
 ## Getting osu!supporter
 
-![Banner for osu!supporter tag in osu!store](./img/lazer_store_sup.png "Banner for osu!supporter tag in osu!store")
+![osu!store product banner](img/store-product.jpg "osu!supporter product banner from the osu!store")
 
-[osu!store #208: osu!supporter tag](https://osu.ppy.sh/store/products/208 "osu!supporter tag")
+To get osu!supporter, sign in (or [sign up](/wiki/sign_up)). Then go to the [store page](https://osu.ppy.sh/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
 
-### Pricing
+### Selecting the duration
 
-osu!supporter is priced in `USD` (United States Dollar, `$`) currency; use [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price at per country rate.
+![Buying osu!supporter](img/selecting-duration.jpg "Selecting the user and duration for osu!supporter")
 
-| Months | Price, `USD` (against actual overall) |
-|--------|---------------------------------------|
-| 1      | 4                                     |
-| 2      | 8                                     |
-| 4      | 12 (-25%)                             |
-| 6      | 16 (-33%)                             |
-| 8      | 20 (-38%)                             |
-| 9      | 22 (-39%)                             |
-| 10     | 24 (-40%)                             |
-| 12     | 26 (-46% max)                         |
-| 24     | 52 (-46% max)                         |
+The usercard displayed above the slider is the user you are buying osu!supporter for. By default, it should be your usercard. To gift to a friend, enter your friend's username (not user ID) into the grey box below the usercard. Once this is done, the usercard will change to match the username you had entered. From here, you can then select the duration of osu!supporter you want to gift, but keep in mind that there is no promotion for group gifting.
 
-Note: Prices shown are by per individual account. There are no promotions for group gifting.
+### Checking out
 
-### Transaction
+Once you are done, click `Add to Cart` to put it into the osu!store shopping cart.
 
-#### osu! account login
+![osu!store shopping cart](img/shopping-cart.jpg "osu!store shopping cart with osu!supporter for flyte")
 
-To begin the transaction, please sign-up or login to an osu! account before visiting [the osu!store page for osu!supporter](https://osu.ppy.sh/store/products/208 "osu!supporter tag").
+You can only buy or gift osu!supporter to one user at a time within this screen. To gift another user, you will need to go back to the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and repeat the steps for adding another user.
 
-#### Selecting the account and periods
+When you are ready to make the purchase, go to your [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`. From there, follow the prompts to make your payment.
 
-![An example of buying supporter](./img/lazer_store_sup2.png "An example of buying supporter")
+## Conclusion
 
-By default, only the player's account will be shown. If the player wants to gift osu!supporter to another player, type in the player's account name on the player's account name field provided.
+After the transaction is completed, the Recent Activity section in your account (if you had brought it your self) or the accounts you have gifted will say:
 
-Once the account to be given is confirmed, drag the slider at the bottom to determine osu!supporter active duration and the amount to pay for the account's osu!supporter. An extra set of buttons at the bottom-right of values `2`, `4`, `6`, `8`, `12`, `18`, and `24` months are provided for common active periods of osu!supporter.
+- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
+- `{username} has once again chosen to donate to the osu! cause - thanks for your generosity!` if the account has been an osu!supporter before.
 
-Click on `Add to Cart` to put it into the osu!store shopping cart.
+---
 
-#### Checking the Shopping Cart
+![Userpage with osu!supporter](img/userpage.jpg "Userpage with osu!supporter")
 
-![osu!store shopping cart with osu!supporter for account user flyte for a month](./img/lazer_store_sup3.png "osu!store shopping cart with osu!supporter for account user flyte for a month")
+![Usercard with osu!supporter](img/usercard.png "Usercard with osu!supporter")
 
-The player can click on the `I want to check out more goodies before completing the order` or leave the page to find other merchandises in the osu!store if so desired.
-
-Click on the `x` at the rightmost of the item box to cancel the item order.
-
-Once the player has finished shopping, click on `Checkout` button to confirm the transaction and make payment.
-
-The player may be prompted to verify the player's account with a verification email sent to the account's email. Complete the verification challenge to continue to the checkout page.
-
-#### Checkout and Payment
-
-![Select Payment Method](./img/lazer_store_sup4.png "Select Payment Method")
-
-Pick one of the payment methods provided.
-
-If the player decides not to complete the transaction now, it is possible to simply leave the checkout page. The transaction order will still be available in the Shopping Cart.
-
-#### Successful transaction notifications
-
-After the transaction is completed, the account's `Recent Activity` will say "{username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. The osu!supporter badge can be found below the account image.
-
-![An email for a player receiving osu!supporter from another player](./img/sup_mail-gifted.png "An email for a player receiving osu!supporter from another player")
-
-An email will be sent by the osu! Management to all the accounts receiving the osu!supporter tag from the transaction.
-
-## History
-
-[Please visit the v1 page for more information.](./v1 "The older way of getting supporter")
+In the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
