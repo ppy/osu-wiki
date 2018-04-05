@@ -1,1125 +1,1117 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 # Sounds
 
-`.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds (but do note that `.wav` files are prioritized).
+`.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
 
 ## Main Menu
 
-_`heartbeat.wav`_
+`heartbeat.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Notes:**
+Notes:
 
 - This plays when the cursor is hovering over the osu!cookie in the main menu.
 
 ---
 
-_`seeya.wav`_
+`seeya.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
-- Plays when **closing** the osu!client.
+- Plays when closing the osu!client.
 - This can be disabled in the [options](/wiki/options).
 
 ---
 
-_`welcome.wav`_
+`welcome.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
-- Plays when **starting** the osu!client.
+- Plays when starting the osu!client.
 - This can be disabled in the [options](/wiki/options).
 
 ## Keys
 
-_`key-confirm.wav`_
+`key-confirm.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when sending a message in chat.
 
 ---
 
-_`key-delete.wav`_
+`key-delete.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when deleting text in a message in chat.
 
 ---
 
-_`key-movement.wav`_
+`key-movement.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when changing the text cursor position.
 
 ---
 
-_`key-press-1.wav`_
+`key-press-1.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
-_`key-press-2.wav`_
+`key-press-2.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
-_`key-press-3.wav`_
+`key-press-3.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ---
 
-_`key-press-4.wav`_
+`key-press-4.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when pressing a keys for chat, search, edit, etc.
+- Plays when pressing a key for chat, search, edit, etc.
 
 ## Clicks
 
-_`back-button-click.wav`_
+`back-button-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on back button.
 
 ---
 
-_`check-on.wav`_
+`check-on.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when enabling a checkboxes or enabling a mod.
 
 ---
 
-_`check-off.wav`_
+`check-off.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when disabling a checkboxes or disabling a mod.
 
 ---
 
-_`click-close.wav`_
+`click-close.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when closing a chat tab.
 
 ---
 
-_`click-short-confirm.wav`_
+`click-short-confirm.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking to confirm a button or dropdown option, opening or closing chat, switching between chat tabs, or switching groups.
 
 ---
 
-_`menuback.wav`_
+`menuback.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `menu-back` or returning to the previous screen.
 
 ---
 
-_`menuhit.wav`_
+`menuhit.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when confirming a selection that switches screens.
 
 ---
 
-_`menu-back-click.wav`_
+`menu-back-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Back` in the main menu.
 
 ---
 
-_`menu-charts-click.wav`_
+`menu-charts-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Charts` in the main menu.
 
 ---
 
-_`menu-direct-click.wav`_
+`menu-direct-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `osu!direct` in the main menu.
 
 ---
 
-_`menu-edit-click.wav`_
+`menu-edit-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Edit` in the main menu.
 
 ---
 
-_`menu-exit-click.wav`_
+`menu-exit-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Exit` in the main menu.
 
 ---
 
-_`menu-freeplay-click.wav`_
+`menu-freeplay-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Solo` in the main menu.
 
 ---
 
-_`menu-multiplayer-click.wav`_
+`menu-multiplayer-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Multiplayer` in the main menu.
 
 ---
 
-_`menu-options-click.wav`_
+`menu-options-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Options` in the main menu.
 
 ---
 
-_`menu-play-click.wav`_
+`menu-play-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when clicking on `Play` in the main menu.
 
 ---
 
-_`pause-back-click.wav`_
+`pause-back-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when clicking on Back in the pause menu.
+- Plays when clicking `Back to Menu` in the pause menu.
 
 ---
 
-_`pause-continue-click.wav`_
+`pause-continue-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when clicking on Continue in the pause menu.
+- Plays when clicking `Continue` in the pause menu.
 
 ---
 
-_`pause-retry-click.wav`_
+`pause-retry-click.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when clicking on Retry in the pause menu.
+- Plays when clicking `Retry` in the pause menu.
 
 ---
 
-_`select-expand.wav`_
+`select-expand.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when switching into song selection, selecting a beatmap set, opening dropdown boxes, opening chat tabs.
 
 ---
 
-_`select-difficulty.wav`_
+`select-difficulty.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when selecting a difficulty of a beatmap set.
 
 ---
 
-_`shutter.wav`_
+`shutter.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when a screenshot is taken.
 
 ## Hover
 
-_`back-button-hover.wav`
+`back-button-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above the back button.
 
 ---
 
-_`click-short.wav`_
+`click-short.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when hovering above all selectable boxes except beatmaps or main screen buttons
+- Plays when hovering above all selectable boxes except beatmaps or main screen buttons.
 
 ---
 
-_`menuclick.wav`_
+`menuclick.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays when hovering above difficulties
+- Plays when hovering above difficulties.
 
 ---
 
-_`menu-back-hover.wav`_
+`menu-back-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Back in the main menu.
 
 ---
 
-_`menu-charts-hover.wav`_
+`menu-charts-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Charts in the main menu.
 
 ---
 
-_`menu-direct-hover.wav`_
+`menu-direct-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Direct in the main menu.
 
 ---
 
-_`menu-edit-hover.wav`_
+`menu-edit-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Edit in the main menu.
 
 ---
 
-_`menu-exit-hover.wav`_
+`menu-exit-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Exit in the main menu.
 
 ---
 
-_`menu-freeplay-hover.wav`_
+`menu-freeplay-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Solo in the main menu.
 
 ---
 
-_`menu-multiplayer-hover.wav`_
+`menu-multiplayer-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Multiplayer in the main menu.
 
 ---
 
-_`menu-options-hover.wav`_
+`menu-options-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Options in the main menu.
 
 ---
 
-_`menu-play-hover.wav`_
+`menu-play-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering above Play in the main menu.
 
 ---
 
-_`pause-hover.wav`_
+`pause-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
 ---
 
-_`pause-back-hover.wav`_
+`pause-back-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering over Back in pause menu.
 
 ---
 
-_`pause-continue-hover.wav`_
+`pause-continue-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering over Continue in pause menu.
 
 ---
 
-_`pause-retry-hover.wav`_
+`pause-retry-hover.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when hovering over Retry in pause menu.
 
 ## Drag
 
-_`sliderbar.wav`_
+`sliderbar.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when changing the options via a slider.
 
 ---
 
-_`whoosh.wav`_
+`whoosh.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - As of now, this is disabled.
 
 ## Multiplayer
 
-_`match-confirm.wav`_
+`match-confirm.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when all players are ready.
 
 ---
 
-_`match-join.wav`_
+`match-join.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when a player joins a room.
 
 ---
 
-_`match-leave.wav`_
+`match-leave.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when a player leaves a room.
 
 ---
 
-_`match-notready.wav`_
+`match-notready.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when a player revoked his ready signal.
 
 ---
 
-_`match-ready.wav`_
+`match-ready.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
 - Plays when a player is ready to start.
 
 ---
 
-_`match-start.wav`_
+`match-start.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Notes:**
+Notes:
 
 - Plays when the match is starting.
 - This is also the chat highlight sound.
 
 # Countdown
 
-_`count.wav`_
+`count.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Notes:**
+Notes:
 
-- This replaces the `count#s` sounds (if one sound is wanted).
+- This replaces the `count{n}s` sounds (if one sound is wanted).
 - This is also the metronome for the target practice mod.
 
-_`count1s.wav`_
+---
+
+`count1s.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
 ---
 
-_`count2s.wav`_
+`count2s.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
 ---
 
-_`count3s.wav`_
+`count3s.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
 ---
 
-_`gos.wav`_
+`gos.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
 ---
 
-_`readys.wav`_
+`readys.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
 ## Metronome
 
-_`metronomehigh.wav`_
+`metronomelow.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [No][false]       |
+| ![No][false]      |
 
-**Note:**
+Notes:
 
-- Plays on the big white ticks in the beatmap editor (not skinnable).
-
----
-
-_`metronomelow.wav`_
-
-| Beatmap Skinnable |
-|:-----------------:|
-| [No][false]       |
-
-**Notes:**
-
-- Plays on the small white ticks in the beatmap editor (not skinnable).
-- This is also used in the offset wizard, osu!catch spinners (pitches goes up per caught banana).
+- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
+- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
 
 ## Gameplay
 
-_`applause.wav`_
+`applause.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - On the ranking screen after clearing a map.
 
 ---
 
-_`comboburst.wav`_
+`comboburst.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Like combobursts, multiple sounds can be included.
-- Applicable on preset counts (`CustomComboBurstSounds` command in [skin.ini](/wiki/skin.ini)).
+- For multiple sounds, use `comboburst-{n}.wav`.
+- In the [skin.ini](/wiki/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
 
 ---
 
-_`combobreak.wav`_
+`combobreak.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Plays when player breaks a combo of 20 or more.
 
 ---
 
-_`failsound.wav`_
+`failsound.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Failing a map at any point.
 
 ---
 
-_`sectionpass.wav`_
+`sectionpass.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Halfway through a break with high HP remaining.
 
 ---
 
-_`sectionfail.wav`_
+`sectionfail.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Halfway through a break with low HP remaining.
 
 ## Pause Screen
 
-_`pause-loop.wav`_
+`pause-loop.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Plays when the game is paused.
 - This sound is looped.
+- Fades out when the client loses focus.
 
 ## Hit Sounds
 
-Hit sounds should not have any more than a 5 millisecond delay (unless it has a special purpose)
+Hit sounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
 
 ### Drum Set
 
-_`drum-hitnormal.wav`_
+`drum-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 
 ---
 
-_`drum-hitclap.wav`_
+`drum-hitclap.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 
 ---
 
-_`drum-hitfinish.wav`_
+`drum-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 
 ---
 
-_`drum-hitwhistle.wav`_
+`drum-hitwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 
 ---
 
-_`drum-slidertick.wav`_
+`drum-slidertick.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 
 ---
 
-_`drum-sliderslide.wav`_
+`drum-sliderslide.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 - This sound is looped.
 
 ---
 
-_`drum-sliderwhistle.wav`_
+`drum-sliderwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
+- Mapped as `D:C1` on beatmap skins.
 - This sound is looped.
 
 ### Normal Set
 
-_`normal-hitnormal.wav`_
+`normal-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`normal-hitclap.wav`_
+`normal-hitclap.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`normal-hitfinish.wav`_
+`normal-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`normal-hitwhistle.wav`_
+`normal-hitwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`normal-slidertick.wav`_
+`normal-slidertick.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`normal-sliderslide.wav`_
+`normal-sliderslide.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins.
+- Mapped as `N:C1` on beatmap skins.
 - This sound is looped.
 
 ---
 
-_`normal-sliderwhistle.wav`_
+`normal-sliderwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins.
+- Mapped as `N:C1` on beatmap skins.
 - This sound is looped.
 
 ### Soft Set
 
-_`soft-hitnormal.wav`_
+`soft-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`soft-hitclap.wav`_
+`soft-hitclap.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-Mapped as S:C1 on beatmap skins
+Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`soft-hitfinish.wav`_
+`soft-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-Mapped as S:C1 on beatmap skins
+Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`soft-hitwhistle.wav`_
+`soft-hitwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-Mapped as S:C1 on beatmap skins
+Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`soft-slidertick.wav`_
+`soft-slidertick.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-Mapped as S:C1 on beatmap skins
+Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`soft-sliderslide.wav`_
+`soft-sliderslide.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 - This sound is looped.
 
 ---
 
-_`soft-sliderwhistle.wav`_
+`soft-sliderwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 - This sound is looped.
 
 ### Spinner Set
 
-_`spinnerspin.wav`_
+`spinnerspin.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - This sound is looped.
-- This sound could modulate from ~500hz to 80000hz (togglable with [skin.ini](/wiki/skin.ini))
+- This sound could modulate from ~500 hz to 80000 hz.
+  - To disable this, set `SpinnerFrequencyModulate` to `0`.
 
 ---
 
-_`spinnerbonus.wav`_
+`spinnerbonus.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
@@ -1127,112 +1119,112 @@ _`spinnerbonus.wav`_
 
 #### Normal Set
 
-_`taiko-normal-hitnormal.wav`_
+`taiko-normal-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`taiko-normal-hitclap.wav`_
+`taiko-normal-hitclap.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`taiko-normal-hitfinish.wav`_
+`taiko-normal-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 ---
 
-_`taiko-normal-hitwhistle.wav`_
+`taiko-normal-hitwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as N:C1 on beatmap skins
+- Mapped as `N:C1` on beatmap skins.
 
 #### Soft Set
 
-_`taiko-soft-hitnormal.wav`_
+`taiko-soft-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`taiko-soft-hitclap.wav`_
+`taiko-soft-hitclap.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`taiko-soft-hitfinish.wav`_
+`taiko-soft-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 
 ---
 
-_`taiko-soft-hitwhistle.wav`_
+`taiko-soft-hitwhistle.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Note:**
+Notes:
 
-- Mapped as S:C1 on beatmap skins
+- Mapped as `S:C1` on beatmap skins.
 
 #### Drum Set
 
-_`taiko-drum-hitnormal.wav`_
+`taiko-drum-hitnormal.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapped as `D:C1` on beatmap skins.
+- Only played when mapped and included.
 
 ---
 
@@ -1240,35 +1232,35 @@ _`taiko-drum-hitclap.wav`_
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
-
----
-
-_`taiko-drum-hitfinish.wav`_
-
-| Beatmap Skinnable |
-|:-----------------:|
-| [Yes][true]       |
-
-**Notes:**
-
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapped as `D:C1` on beatmap skins.
+- Only played when mapped and included.
 
 ---
 
-_`taiko-drum-hitwhistle.wav`_
+`taiko-drum-hitfinish.wav`
 
 | Beatmap Skinnable |
 |:-----------------:|
-| [Yes][true]       |
+| ![Yes][true]      |
 
-**Notes:**
+Notes:
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapped as `D:C1` on beatmap skins.
+- Only played when mapped and included.
+
+---
+
+`taiko-drum-hitwhistle.wav`
+
+| Beatmap Skinnable |
+|:-----------------:|
+| ![Yes][true]      |
+
+Notes:
+
+- Mapped as `D:C1` on beatmap skins.
+- Only played when mapped and included.

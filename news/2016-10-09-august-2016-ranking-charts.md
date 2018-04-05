@@ -8,13 +8,13 @@ tumblr_url: http://osunews.tumblr.com/post/151558446353/august-2016-ranking-char
 The Ranking Charts for August 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart/?ch=MONTH1608)! As we are still searching for more volunteers to help out with preparing future monthly ranking charts, their appearance has to wait for just a little longer. Stay tuned!
 <!-- more -->
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have [previously](https://osu.ppy.sh/news/150551685358) been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 + **[orangentle / Yu_Asahina - HAELEQUIN (Extended ver.)](https://osu.ppy.sh/s/272333) by [RLC](https://osu.ppy.sh/u/1047883)** (Nominator: [handsome](https://osu.ppy.sh/u/2123087))
 
@@ -41,7 +41,7 @@ It's sometimes a struggle to express a song with so many distinct sounds, but th
 ProfessionalBox brings out much of the song's intensity with a modern mapping style. Masterfully executed slider patterns, smooth streams and fluid jumps give this map a solid spot in this month's charts.
 
 
-###osu!taiko
+### osu!taiko
 
 + **[Demetori - Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World](https://osu.ppy.sh/s/464535) by [Surono](https://osu.ppy.sh/u/3611370)** (Nominator: [Nwolf](https://osu.ppy.sh/u/1910766))
 
@@ -70,7 +70,7 @@ A very challenging map with complex 1/4 pattern alongside with 1/6. The intro ha
 You know a beatmap it's good when the feeling you got from playing it gets ingrained in you for a long time, and it's the case with this map. Despite its simple looks, the way the map is built is an invitation to have a really fun time, as it's well structured and follows the song nicely, two crucial things we can ask from a beatmap. All this combined with a soothing yet powerful song awaits for you, be sure you don't miss any of those drumroll bonus points!
 
 
-###osu!catch
+### osu!catch
 
 + **[Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express](https://osu.ppy.sh/s/228539) by [Spectator](https://osu.ppy.sh/u/702598)** (Nominator: [Chara](https://osu.ppy.sh/u/829284))
 
@@ -84,7 +84,7 @@ alienflybot is well known for his high-quality Rain difficulties, but in this ma
 
 This set provides a nice learing curve although a slightly easier one than the osu!catch specific ones. The two easier difficulty is good for the speed along with the Hard which has some well placed jump. Starting from Insane the level goes up and requires better control and reflex which could be a good challenge for those who can't play specific ones yet. All in all, the jumps are surprisingly well placed and I really enjoyed this mapset. I hope you guys will do that too.
 
-+ [Maon Kurosaki feat.TRUSTRICK - DEAD OR LIE <tv size>](https://osu.ppy.sh/s/481696) by [Chaoslitz](https://osu.ppy.sh/u/3621552) (Nominator: [Deif](https://osu.ppy.sh/u/318565))
++ [Maon Kurosaki feat.TRUSTRICK - DEAD OR LIE &lt;tv size>](https://osu.ppy.sh/s/481696) by [Chaoslitz](https://osu.ppy.sh/u/3621552) (Nominator: [Deif](https://osu.ppy.sh/u/318565))
 
 Interesting Rain difficulty by examination, quite entertaining and fun to play. It offers a nice extra challenge if HR is applied. There is not much more to say from my side.
 
@@ -98,7 +98,7 @@ Here's a map from fergas who's already known for mapping a couple other great Ve
 
 
 
-###osu!mania
+### osu!mania
 
 + **[xi - Double Helix](https://osu.ppy.sh/s/398197) by [Level 51](https://osu.ppy.sh/u/3617847)** (Nominator: [Evening](https://osu.ppy.sh/u/2193881))
 
@@ -129,10 +129,10 @@ Pretty challenging beatmap, especially the highest difficulty. Very dense jumpst
 **The August 2016 ranking charts will end on the 30th October 2016.**
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system for the charts, we have to halt the release of the winners of the past charts. We apologize for the inconvenience and hope to reactivate the score system soon!
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
-—OnosakiHito </tv>
+—OnosakiHito

@@ -16,7 +16,7 @@ The following elements are skinnable:
 
 ![Team icons can be displayed beside the team names](Osutourneyicons.png)
 
-The client will display icons located in the path `/Skins/User/tournament/icons` beside the team names. This may be used to show e.g. country flags or use avatars.
+The client will display icons located in the path `/Skins/User/tournament/icons` beside the team names. These may be used to show e.g. country flags or avatars.
 
 Icon names must correspond to the team name. For example, if the room is called `Test Tourney: (Team 1) vs (Team 2)`, the icons must be named `Team 1.jpg` and `Team 2.jpg`. Icons can be in either `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 

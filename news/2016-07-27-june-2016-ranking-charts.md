@@ -9,14 +9,14 @@ We apologize for the delay as stuff went a bit up and down, but by now, the Rank
 This month our dedicated top chart and general players, [Cookiezi](https://osu.ppy.sh/u/124493), [tasuke912](https://osu.ppy.sh/u/2774767), [_Asriel](https://osu.ppy.sh/u/566276) and [Runa](https://osu.ppy.sh/u/4643294) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Cookiezi](https://osu.ppy.sh/u/124493)** pick their favourite maps.
 
@@ -47,7 +47,7 @@ To be honest there is not much I have to say about this difficulty either, besid
 
 
 
-###osu!taiko
+### osu!taiko
 
 For osu!taiko, we asked **[tasuke912](https://osu.ppy.sh/u/2774767)** about their favourite maps in June 2016.
 
@@ -78,7 +78,7 @@ Amazing Touhou song remixed by t+pazolite. I think that the most charming point 
 
 
 
-###osu!catch
+### osu!catch
 
 For osu!catch, **[_Asriel](https://osu.ppy.sh/u/566276)** was the chosen one to declare the winners of the June 2016 beatmaps.
 
@@ -109,7 +109,7 @@ This pick is not intended to look like a joke. I would just like to give everyon
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Runa](https://osu.ppy.sh/u/4643294)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -150,7 +150,7 @@ A happy hardcore song with simple and balanced patterns. This mapset consists of
 **The June 2016 ranking charts will end on the 20th August 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system in the charts, we have to postpone the release of the winners of the past charts. We apologize for the inconvenience and hope to releases the winners soon!
 
@@ -159,6 +159,6 @@ Due to a maintenance of the current score system in the charts, we have to postp
 + **Catch the Beat:** N/A
 + **osu!mania:** N/A
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
 —OnosakiHito </queen>

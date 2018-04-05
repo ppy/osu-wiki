@@ -11,10 +11,10 @@
 [Taiko no Tatsujin wikipedia]: https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
 
 <!-- shared image -->
-[osu! icon link]: /wiki/shared/Osu.gif "icône d'osu!"
-[osu!taiko icon link]: /wiki/shared/Taiko.gif "icône d'osu!taiko"
-[osu!catch icon link]: /wiki/shared/Ctb.gif "icône d'osu!catch"
-[osu!mania icon link]: /wiki/shared/Mania.gif "icône d'osu!mania"
+[osu! icon link]: /wiki/shared/mode/osu.png "icône d'osu!"
+[osu!taiko icon link]: /wiki/shared/mode/taiko.png "icône d'osu!taiko"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "icône d'osu!catch"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "icône d'osu!mania"
 
 # Modes de Jeu
 

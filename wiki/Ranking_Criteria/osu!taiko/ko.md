@@ -1,4 +1,4 @@
-osu!taiko Ranking Criteria (한국어)
+osu!taiko Ranking Criteria
 ====================================
 
 이 규칙과 가이드라인들은 [태고 논의 스레드](https://osu.ppy.sh/forum/p/1275323)에서 논의되어 왔습니다. 새로운 규칙과 가이드라은들은 한 번 논의되던 것이 동의를 얻으면 업데이트되는 [논의 포럼](https://osu.ppy.sh/forum/87)에서 제안 가능합니다.

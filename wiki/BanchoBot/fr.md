@@ -1,32 +1,36 @@
-# BanchoBot (Français)
+# BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![La carte de joueur de BanchoBot](BanchoBot.jpg "La carte de joueur de BanchoBot")
 
-BanchoBot aide dans la modération des serveurs d'osu!. Il contrôle l'[IRC](/wiki/Internet_Relay_Chat), la sauvegarde des scores, l'organisation des matchs multijoueur...
+BanchoBot est un bot (lire: un ensemble de commandes avec des réponses automatiques) programmé afin d'assister les joueurs dans le chat en affichant certaines informations et annonçant des messages liés au jeu.
+BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) et a un profil nommé _[BanchoBot](https://osu.ppy.sh/u/3)_.
 
-Il a été conçu par [Zallius](https://osu.ppy.sh/u/Zallius) lors de la création d'osu!.
+## Ouverture de BanchoBot
 
-Les [GMT](/wiki/People/Global_Moderation_Team), [modérateurs de langue](/wiki/People/Language_Moderators) et autres membres du Staff ont le grand privilège de pouvoir le contrôler.
+Pour ouvrir BanchoBot, écrivez `!help` dans le chat dans la console (n'importe quel onglet public fera l'affaire).
 
-Profil de
+Une fois fait, un message privé avec BanchoBot s'ouvrira, et vous aurez la liste des commandes disponibles (voir le tableau suivant).
 
-Apparence et tâches
--------------------
+## Commandes
 
-### !help
+Vous pouvez utiliser la commande `!<commande>` ou `/bb <commande>` dans n'importe quel onglet de chat public.
 
--   Cette commande ouvre l'onglet BanchoBot et affiche l'aide. Elle vous décrit une liste de commandes.
--   Si vous avez l'onglet BanchoBot d'ouvert, toutes les commandes que vous taperez dans n'importe quel canal de discussion apparaîtra dans cet onglet.
--   Le point d'exclamation devant chaque commande peut être remplacé par **/bb**.
--   A moins que vous soyez membre du Staff, vous ne pouvez pas utiliser les commandes de BanchoBot en dehors de son onglet.
+| `<commande>`                          | Effet                                                                                                                               | Exemple                             | Exemple de réponse de BanchoBot                                         |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------|
+| `WHERE <utilisateur>`                 | Affiche la localisation du joueur donné.                                                                                            | `!where John`                       | John is in USA                                                          | 
+| `STATS <utilisateur>`                 | Affiche le statut du joueur donné (basé sur l'onglet actuel du joueur).                                                             | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. | 
+| `FAQ <code-de-langue><objet> <liste>` | Questions fréquemment posées, accessibles par mots-clé. !faq list en donne une liste exhaustive.                                    | `!faq wiki` / `!faq ru:wiki`        | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
+| `REPORT <raison>`                     | Signale qu'un utilisateur a enfreint les règles. Remplacez les espaces du nom d'utilisateur par des underscores (`_`).              | `!report Thomas offending comments` | Chat moderators has been alerted. Thanks for your help.                 |
+| `REQUEST <liste>`                     | Affiche une requête de mod au hasard. [liste] Montre 5 requêtes de mod au hasard prise dans les maps données en lien dans #modreqs. | `/bb request`                       | Seether - Fake It by [Dellirium]                                        |
+| `ROLL <nombre>`                       | Lance un dé (virtuel) et donne un nombre au hasard entre 1 et le nombre donné (défaut à 100) inclus.                                | `/bb roll 9000`                     | John rolls 1337 point(s)                                                |
 
-#### Commandes standard (à placer devant un ! ou /bb)
+Notes:
 
-| Commande | Effet | Exemple | Réponse de BanchoBot |
-| -------- | ----- | ------- |- ------------------- |
-| WHERE (pseudo) | Montre l'emplacement géographique d'un joueur | !where John | John is in USA |
-| STATS (pseudo) | Montre les statistiques d'un joueur (selon son étiquette) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
-| FAQ (L.code)(item) (list) | Usages variés. [list] Liste des paramètres utilisables | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (reason) | Appelle un modérateur. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | Affiche une récente requête pour modding au hasard. [list] Affiche les 5 dernières requêtes pour modding. | !request | Seether - Fake It by [Dellirium]                                        |
-| ROLL (nombre) | Ecrit un chiffre au hasard compris entre 1 et le nombre tapé (100 par défaut) | !roll 9000 | John rolls 1337 point(s) |
+- La liste de maps pour `REQUEST` se met rarement à jour, vous pourriez donc tomber sur une map déjà ranked.
+
+## Caprices de BanchoBot
+
+- Les commandes sont sensibles à la casse.
+- Si vous n'êtes pas dans l'onglet de BanchoBot, vous devez utiliser le préfixe `!` ou `/bb`.
+- Si vous avez déjà appelé BanchoBot (avec son onglet disponble), n'importe quelle commande que vous utiliserez apparaîtra toujours dans l'onglet BanchoBot, ignorant l'onglet dans lequel vous avez exécuté la commande.
+- Vous pouvez soumettre des commandes à BanchoBot sans le préfixe `!` ou `/bb` (fonctionne seulement quand vous exécutez les commandes dans l'onglet BanchoBot).

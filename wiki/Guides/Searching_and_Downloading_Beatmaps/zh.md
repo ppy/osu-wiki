@@ -1,4 +1,4 @@
-Searching and Downloading Beatmaps (中文)
+Searching and Downloading Beatmaps
 =========================================
 
 本条目说明了如何搜索并下载谱面。有关谱面分类、编号等资料，可以参考[谱面](/wiki/Beatmaps)。

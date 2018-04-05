@@ -10,12 +10,12 @@ The Spotlights for March 2017 have been released and can be found [here](https:/
 <!-- more -->
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-##Spotlights Creation
+## Spotlights Creation
 
 The spotlights have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
-###osu! (7)
+### osu! (7)
 
 +  **[SHK - East West Wobble](http://osu.ppy.sh/s/325432) by [Irreversible](https://osu.ppy.sh/u/1287964)** (Nominator: [Mao](https://osu.ppy.sh/u/2204515))
 
@@ -45,7 +45,7 @@ Very interesting map which reflects the song's instruments by taking advantage o
 
 An enjoyable mapset for those, who'd like to play a full-length song by LiSA. The diffs are well-mapped and the spread is offering something for every type of player. A must have for all Sword Art Online fans!
 
-###osu!taiko (5)
+### osu!taiko (5)
 
 +  **[you - Hold Angel](http://osu.ppy.sh/s/381103) by [Nishizumi](https://osu.ppy.sh/u/2496768)** (Nominator: [qoot8123](https://osu.ppy.sh/u/766371))
 
@@ -67,11 +67,11 @@ Great 1/3 map by Nwolf this month! The complex rhythms used in this map make it 
 
 This is truly a noteworthy addition because it is the first time in ages since a map has provided a genuine challenge for even high level players (alongside Hold Angel). Hopefully this marks the start of a new paradigm of "difficult maps" becoming ranked. Regarding the actual mapset itself, it has good spread, helped in part by the excellent guest difficulties mapped by Nwolf and Dainesl. However, what truly stands out is the challenging [Limit Break] difficulty, mapped by Grimbow himself. With an SR of 7.54*, it has great execution of flow when it comes to placement of long deathstreams. In spite of the repetitive nature of the song, the patterns are varied enough to keep the map interesting and enjoyable, without sounding out of place at all.
 
-###osu!catch (3)
+### osu!catch (3)
 
 +  **[Halozy - Don't let you down](http://osu.ppy.sh/s/349949) by [- Magic Girl -](https://osu.ppy.sh/u/3095784) and [JBHyperion](https://osu.ppy.sh/u/4879508)** (Nominator: [Sorcerer](https://osu.ppy.sh/u/1913190))
 
-It may have taken a while to get this to ranked status but - Magic Girl - and JBHyperion were determined not to let us down. Making an appearance together for their second Spotlight in a row 'Don't let you down' is a wonderfully crafted lowish bpm overdose that’s shows us these two really have something magic when they collaborate. For those who prefer a lower density compared to your typical overdose this should not disappoint, though do watch out for some cheeky streams. As a couple of extra bonuses it comes with a cute custom skin and let's be serious for a moment, who doesn't like Halozy?
+It may have taken a while to get this to ranked status but - Magic Girl - and JBHyperion were determined not to let us down. Making an appearance together for their second Spotlight in a row 'Don't let you down' is a wonderfully crafted lowish bpm overdose that's shows us these two really have something magic when they collaborate. For those who prefer a lower density compared to your typical overdose this should not disappoint, though do watch out for some cheeky streams. As a couple of extra bonuses it comes with a cute custom skin and let's be serious for a moment, who doesn't like Halozy?
 
 +  [Sakamoto Maaya - Okaerinasai (tomatomerde Remix)](http://osu.ppy.sh/s/544468) by [Ascendance](https://osu.ppy.sh/u/2931883) (Nominator: [RoseusJaeger](https://osu.ppy.sh/u/6709840))
 
@@ -81,15 +81,15 @@ Okaerinasai certainly is a pleasant map for those who enjoy aesthetic mapping. T
 
 Sinnoh here gives us a small set, not going for difficulty, but still being one of the quality osu!catch beatmaps of the month. The map finds ways to make the repetitive rhythm feel less repetitive, and that is one of the main good points of it. Together with fun patterns and execution, make this map one of the Spotlight maps. Oh, and by the way, it's a word meaning lake.
 
-###osu!mania (5)
+### osu!mania (5)
 
 +  **[takamatt feat. GUMI - TOKIO FUNKA](http://osu.ppy.sh/s/539611) by [-Kamikaze-](https://osu.ppy.sh/u/2124783)** (Nominator: [juankristal](https://osu.ppy.sh/u/443656))
 
 It has been a looong journey Kamikaze, right? This map has been around for like 3 years and it has finally been ranked! And thank god it happened.
-Featured in the MWC 7K of 2016 as the tiebreaker this mapset comes back once again with the usual combo from Kami. That combo I like to call it EVERYTHING. A decent amount of different snaps are used here in combination with streams with harsh accentuation and of course, LNs and SVs to add on top of it. Not only that, even as a player who plays without hitsounds I can tell the hitsounding here is GODLIKE tier and I absolutely love it. Totally deserved #1 spot of the month after such a long time fighting. Congratulations Kami!
+Featured in the MWC 7K of 2016 as the tiebreaker this mapset comes back once again with the usual combo from Kami. That combo I like to call it EVERYTHING. A decent amount of different snaps are used here in combination with streams with harsh accentuation and of course, LNs and SVs to add on top of it. Not only that, even as a player who plays without hitsounds I can tell the hitsounding here is GODLIKE tier and I absolutely love it. Totally deserved \#1 spot of the month after such a long time fighting. Congratulations Kami!
 
 +  [sakuraburst - skyshifter vip](http://osu.ppy.sh/s/529155) by [Evening](https://osu.ppy.sh/u/2193881) (Nominator: [juankristal](https://osu.ppy.sh/u/443656))
-  
+
 I have to admit that this mapset isnt something that I particularilly love but jesus that it is unique. At first, I thought this map was not really that great but after putting my time into the editor, trying to learn the Slider Velocities and pretty much just playing the map a bunch of times I realized how carefully is this map executed. A map that looks really innocent pattern-wise but add all this crazy Evening-tier SVs and you have a really complex in both timing and reading skillsets. I swear to god the day I hit the jumptrill patterns correctly I will be super happy, but for now, I will just keep trying, as this map replayability is real good too. You will feel lost, but trust me, this map is amazing.
 
 +  [Gabba Front Berlin - Lacrima Mosa Est](http://osu.ppy.sh/s/407237) by [Janko](https://osu.ppy.sh/u/2424823) (Nominator: [Feerum](https://osu.ppy.sh/u/4815717))
@@ -108,7 +108,7 @@ If we have some unique and challenging maps in one spectrum, we have enjoyable, 
 **The March 2017 spotlights will end on the 15th May 2017.**
 
 
-##Past Spotlights results
+## Past Spotlights results
 
 Congratulations to the winners of the January/February 2017 Spotlights. They receive two month of supporter status for their efforts!
 
@@ -117,6 +117,6 @@ Congratulations to the winners of the January/February 2017 Spotlights. They rec
 + **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/u/448547)
 + **osu!mania:** [hizasama](https://osu.ppy.sh/u/6860160)
 
-Good luck with the new Spotlights! We’d love to hear any and all feedback you have about the new planed format for the Spotlights - feel free to leave a comment below!
+Good luck with the new Spotlights! We'd love to hear any and all feedback you have about the new planed format for the Spotlights - feel free to leave a comment below!
 
 —OnosakiHito

@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/144493773648/aspire-returns-beatmap-c
 Aspire returns for a second round. Mappers from around the world, prepare yourselves!
 <!-- more -->
 
-<center><img src="http://puu.sh/oTUdn/ce9faf4bbe.jpg"></center>
+![](http://puu.sh/oTUdn/ce9faf4bbe.jpg)
 
 Due to overwhelming demand, we've decided to bring the contest back for a second run, pitting the best creative minds of the mapping community against each other in an almost-everything-goes design free-for-all!
 
@@ -19,7 +19,7 @@ You can listen a preview of the track below:
 
 *(This is a preview of the actual track, not the whole track included with the beatmap itself.)*
 
-The rules of this Aspire contest variant is as follows: 
+The rules of this Aspire contest variant is as follows:
 
 * The contest accepts only **osu!standard** mapsets.
 * **The map must be able to be completed without the NoFail mod required to pass it**. Completion is considered as being able to pass the track without failing it - not FCing (full-combo) it!
@@ -38,7 +38,7 @@ The winners of the contest will receive the following prizes:
 
 Yes, you did read that right - any map impressive enough to warrant an honorable mention by verdict of the judges will receive a prize. There's no excuse to not get involved and give it your all.
 
-Get the pre-timed osz file and submit your entries [here](https://osu.ppy.sh/p/contest?c=22). 
+Get the pre-timed osz file and submit your entries [here](https://osu.ppy.sh/p/contest?c=22).
 
 **If you plan to submit a storyboard or any other extra resource (hitsounds, video, etc) with your entry, you will need to package the resources in a zip file and put a link to said zip file in your entry notes when submitting.**
 

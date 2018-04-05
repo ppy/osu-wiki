@@ -130,7 +130,7 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 **Note :** Alors que HT et DT ne changent pas la valeur actuelle de l'OD, l'effet de la vitesse sur les fenêtres de temps feront croire que les objets ont un OD plus long ou court, selon le mod actif. Dans la charte ci-dessous, des valeurs semblables sont données pour permettre un comparaison entre les OD avec ou sans mods. Sachez que ces OD ne s'appliquent qu'aux 300. Les fenêtres pour les 100, 50 et les sliders (qui utilisent la fenêtre pour un 50) sont plus stricts avec DT et moins stricts avec HT, contrairement à ce que l'OD suggeste. Encore une fois, en dehors de NoMod/HR/EZ (à gauche), les valeurs ci-dessous ne sont que pour comparaison : l'OD actuelle est toujours une valeur entre 0 et 10.
 
-![Charte OD détaillé](img/ODTable.jpg "Charte OD détaillé")
+![Charte OD détaillé](img/ODTable.png "Charte OD détaillé")
 
 **Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
 

@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 osu! World Cup 2013
 ======================
 
@@ -24,15 +27,15 @@ Premi
 Organizzazione
 ---------------
 
-**Gestione torneo:** ![][flag_DE] [Loctav](https://osu.ppy.sh/u/Loctav), ![][flag_US] [dkun](https://osu.ppy.sh/u/dkun), ![][flag_DE] [p3n](https://osu.ppy.sh/u/p3n)
+**Gestione torneo:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/Loctav), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_DE] [p3n](https://osu.ppy.sh/users/p3n)
 
 **Riferimenti:** [Tournament Management usergroup](https://osu.ppy.sh/g/26)
 
-**Scelta delle beatmap:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/u/Darksonic), ![][flag_AR] [Wishy](https://osu.ppy.sh/u/Wishy)
+**Scelta delle beatmap:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/Darksonic), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/Wishy)
 
-**Diretta trasmessa da:** ![][flag_CA] [Nyquill](https://osu.ppy.sh/u/Nyquill), ![][flag_AU] [kingking9](https://osu.ppy.sh/u/kingking9), ![][flag_US] [Love](https://osu.ppy.sh/u/Love), ![][flag_EE] [ShinseinaTenshi](https://osu.ppy.sh/u/ShinseinaTenshi)
+**Diretta trasmessa da:** ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/Nyquill), ![][flag_AU] [kingking9](https://osu.ppy.sh/users/kingking9), ![][flag_US] [Love](https://osu.ppy.sh/users/Love), ![][flag_EE] [ShinseinaTenshi](https://osu.ppy.sh/users/ShinseinaTenshi)
 
-**Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/u/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/u/Agnes)
+**Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/users/Agnes)
 
 ------------------------------------------------------------------------
 

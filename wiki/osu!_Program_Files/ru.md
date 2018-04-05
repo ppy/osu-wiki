@@ -1,4 +1,4 @@
-osu! Program Files (Русский)
+osu! Program Files
 ==============================
 
 ![Содержимое папки osu!](Osu!sys.jpg "Содержимое папки osu!")

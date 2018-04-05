@@ -1,41 +1,41 @@
 Formats de fichiers
 ======================
 
-Formats de fichiers spécifiques d'osu!
+Formats de fichiers spécifiques à osu!
 -----------------------------------------
 
 ### Archive
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | Fichier beatmap exécutable.                                                                        |
-| [.osk][Osk Link]       | Fichier skin exécutable.                                                                            |
-| [.db][Db Link]        | Fichier de base de données.                                                                              |
+| [.osz][Osz Link]       | Fichier de beatmap exécutable.                                                                                        |
+| [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
+| [.db][Db Link]        | Fichier de base de données.                                                                                            |
 
 ### [Éditeur de beatmap](/wiki/Beatmap_Editor)
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osu][Osu Link]        | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                     |
+| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                                |
 
 ### Replay
 
-| Format du fichier                                 | Usage                                                                                            |
+| Format du fichier                                 | Usage                                                                                      |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]       | Fichier replay exécutable (n'est pas décompressable).                                        |
+| [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
 
 Créer un fichier .osz/.osk
 ----------------------------
 
-.osz/.osk est une extension de fichier lié spécifiquement pour osu!.exe. Quand ouverts, les fichiers .osz seront extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk seront extraits et transférés au dossier "Skins". Par défaut, les fichiers beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
+.osz/.osk est une extension de fichier liée spécifiquement à osu!.exe. Lorsqu'ils sont ouverts, les fichiers .osz sont extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk sont extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
 
 ### Depuis un logiciel d'archivage
 
-**Programmes nécessaires :**
+**Programmes nécessaires:**
 
--   Logiciel d'archivage des fichiers (WinRAR, 7zip)
--   osu! (Afin de tester et pour l'icone d'osu!)
+- Logiciel d'archivage des fichiers (WinRAR, 7zip)
+- osu! (Afin de tester et pour l'icone d'osu!)
 
 **Procédure**
 
@@ -54,34 +54,35 @@ Créer un fichier .osz/.osk
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
 
-**Exemples en images** (anglais, remerciment au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
+**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
-    -   Pour les beatmaps, utilisez l'extension .osz.
+- [WinRAR](http://puu.sh/1MBV)
+- [7-zip](http://puu.sh/1MBW)
+    - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu
 
-**Programmes nécessaires :**
+**Programmes nécessaires:**
 
--   osu! (et rien d'autre, puisque le jeu peut créer des .osz/.osk)
+- osu! (et rien d'autre, puisque le jeu peut créer des .osz/.osk)
 
 **Procédure**
 
-1.  Comme ci-dessus, compilez vos fichiers dans un dossier.
-    - Normalement, si vous avez édité la beatmap auparavant, tout sera prêt à être converti en .osz. Pour les skins, vous devez obligatoirement compiler les fichiers avant.
+1.  Comme-ci dessus, rassemblez vos fichiers dans un dossier et nommez-le.
+
+    Généralement, si vous avez déjà édité la beatmap, tout sera prêt à être converti en .osz. Pour les skins, vous devez d'abord compiler les fichiers.
 
 2.  Ouvrez osu!.
-3.  Si vous voulez créer un .osz, alors :
-    - Allez dans "Edit" et choisissez la beatmap à convertir en .osz.
-    - Cliquez sur "File", puis sur "Export Package..."
-    - Le fichier .osz sera créé et placé dans le dossier "Exports" du dossier d'osu!.
+3.  Si vous voulez faire un .osz, alors:
+    - Allez dans "Edit" et choisissez la beatmap que vous voulez convertir en .osz.
+    - Ouvrez "File", puis "Export Package..."
+    - Le .osz sera produit et placé dans le dossier "Exports" à l'intérieur du dossier osu!
 
-4.  Si vous voulez créer un .osk, alors:
-    - Premièrement, soyez sûrs que votre skin possède tous les fichiers que vous voulez compiler. Vous pouvez vérifier en cliquant sur "Open Skin Folder" si vous utilisez le skin à convertir.
-    - Puis dans le menu "Options", cliquez sur "Sélectionner un Skin".
-    - Sur l'écran de sélection du skin, choisissez le skin que vous voulez et cliquez sur "Exporter en .osk".
-    - Le fichier .osk sera créé et placé dans le dossier "Exports" du dossier d'osu!.
+4.  Si vous voulez faire un .osk, alors:
+    - Assurez-vous que votre skin a tout que vous voulez compiler. Vous pouvez vérifier en cliquant sur "Open Skin Folder" si vous utilisez le skin à convertir.
+    - Dans le menu "Options", cliquez sur "Select Skin".
+    - Dans l'écran de sélection des skins, choisissez le skin que vous voulez puis cliquez sur "Export as .osk".
+    - Le .osk sera produit et placé dans le dossier "Exports" du dossier osu!
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)

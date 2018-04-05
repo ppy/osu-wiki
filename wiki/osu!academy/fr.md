@@ -1,61 +1,57 @@
-osu!academy (Français)
-=========================
+# osu!academy
 
-![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
+![Logo d'osu!academy](img/osu!academy-logo.jpg "logo osu!academy")
 
-Introduction
--------------
+Le but de l'**osu!academy** est de donner les bases pour comprendre tous les aspects d'_osu!_, depuis le système de jeu jusqu'au mapping, et tout ce qu'il y a entre.
 
-Source : <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
+Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aideront à comprendre le jeu sans problèmes.
+Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
 
-Chaine Youtube officielle : <https://www.youtube.com/user/osuacademy/videos>
+[Maintenant avec une bande-annonce](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
-Thread officiel : <https://osu.ppy.sh/forum/t/169707>
+## Épisodes
 
-Le but d'osu!academy est d’expliquer les différents aspects de osu!, que ce soit au niveau du jeu en lui-même ou bien du mapping par exemple. Nous espérons que les nouveaux joueurs trouveront ces vidéos intéressantes et qu'elles les aideront dans l'apprentissage périlleux de osu!.
+| Épisode                  | Lien                                                                     | Description                                                                                                |
+|--------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| ![](img/Academy_1.png)   | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1")     | Installation et création du compte !                                                                       |
+| ![](img/Academy_2.png)   | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2")     | Le mode de jeu osu!standard et ajustement des réglages                                                     |
+| ![](img/Academy_3.png)   | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3")     | Le mode de jeu osu!mania avec Lolifan !                                                                    |
+| ![](img/Academy_4.png)   | [Episode 4](https://www.youtube.com/watch?v=6WKZE2HPOK8 "Episode 4")     | Le mode de jeu osu!catch !                                                                                 |
+| ![](img/Academy_5.png)   | [Episode 5](https://www.youtube.com/watch?v=f_uSO2ESCRI "Episode 5")     | Le mode de jeu osu!taiko avec Tasha !                                                                      |
+| ![](img/Academy_6.png)   | [Episode 6](https://www.youtube.com/watch?v=cyYRl-a5xII "Episode 6")     | Le mode multijouer !                                                                                       |
+| ![](img/Academy_7-0.png) | [Episode 7-0](https://www.youtube.com/watch?v=WKS8Zhut9XU "Episode 7-0") | Le monde de la confection de beatmaps !                                                                    |
+| ![](img/Academy_7-1.png) | [Episode 7-1](https://www.youtube.com/watch?v=RKLanv4pvJc "Episode 7-1") | Les bases de la création de sliders !                                                                      |
+| ![](img/Academy_7-2.png) | [Episode 7-2](https://www.youtube.com/watch?v=8nsbrOhLE9w "Episode 7-2") | Comment bien régler le timing de votre beatmap !                                                           |
+| ![](img/Academy_7-3.png) | [Episode 7-3](https://www.youtube.com/watch?v=MhIuPvQjLbU "Episode 7-3") | À propos des grilles et ce qu'elles font !                                                                 |
+| ![](img/Academy_8.png)   | [Episode 8](https://www.youtube.com/watch?v=PFEYlQfiJHQ "Episode 8")     | Une des plus importantes parties du mapping, qui peut perfectionner ou ruiner une beatmap: le hitsounding! |
+| ![](img/Academy_9.png)   | [Episode 9](https://www.youtube.com/watch?v=bTGBspoMFVA "Episode 9")     | Le modding de beatmaps !                                                                                   |
+| ![](img/Academy_10.png)  | [Episode 10](https://www.youtube.com/watch?v=bTGBspoMFVA "Episode 10")   | Discussion sur le modding de beatmaps !                                                                    |
+| ![](img/Academy_11.png)  | [Episode 11](https://www.youtube.com/watch?v=j8fpJKCjTvM "Episode 11")   | Trucs et astuces pour jouer en standard !                                                                  |
+| ![](img/Academy_12.png)  | [Episode 12](https://www.youtube.com/watch?v=8reEFNk5kQY "Episode 12")   | Retour à l'éditeur, mais pour les autres modes de jeu !                                                    |
+| ![](img/Academy_13.png)  | [Episode 13](https://www.youtube.com/watch?v=oUvCBsGyTtw "Episode 13")   | Comment changer l'apparence d'osu! via le skinning !                                                       |
+| ![](img/Academy_14.png)  | [Episode 14](https://www.youtube.com/watch?v=dyDMyB9D420 "Episode 14")   | Comment utiliser l'éditeur pour osu!catch !                                                                |
+| ![](img/Academy_15.png)  | [Episode 15](https://www.youtube.com/watch?v=muu3HkG38kk "Episode 15")   | Où obtenir de la musique et quelques erreurs à éviter !                                                    |
+| ![](img/Academy_16.png)  | [Episode 16](https://www.youtube.com/watch?v=uTnO_7bMV44 "Episode 16")   | Comment utiliser l'éditeur d'osu!mania !                                                                   |
+| ![](img/Academy_17.png)  | [Episode 17](https://www.youtube.com/watch?v=yWqRJZ5FX5Y "Episode 17")   | Les différentes commandes d'IRC et ce pourquoi elles sont utilisées !                                      |
+| ![](img/Academy_18.png)  | [Episode 18](https://www.youtube.com/watch?v=Ywu3PZGYPxs "Episode 18")   | Les aspects pratiques du forum de Support Technique !                                                      |
+| ![](img/Academy_19.png)  | [Episode 19](https://www.youtube.com/watch?v=ZoBAZCl9wXY "Episode 19")   | Un sujet sensible: les joueurs se comportant mal et comment informer l'équipe de leur présence !           |
+| ![](img/Academy_20.png)  | [Episode 20](https://www.youtube.com/watch?v=exyuI9lv_OI "Episode 20")   | Un autre aspect de l'édition de beatmap, l'encodage vidéo !                                                |
+| ![](img/Academy_21.png)  | [Episode 21](https://www.youtube.com/watch?v=59Tm9LvYk3Q "Episode 21")   | Les bases pour capturer/streamer sur votre site de streming favori, comme twitch ou livestream !           |
+| ![](img/Academy_22.png)  | [Episode 22](https://www.youtube.com/watch?v=ec0pLh4U8eY "Episode 22")   | Un aperçu rapide des fonctionnalités d'osu!direct et les bénéfices d'avoir le statut de supporter !        |
+| ![](img/Academy_23.png)  | [Episode 23](https://www.youtube.com/watch?v=MxlB__wjt9A "Episode 23")   | Les nouvelles fonctionnalités pour la communauté de modding avec Shiro !                                   |
+| ![](img/Academy_24.png)  | [Episode 24](https://www.youtube.com/watch?v=pq33jvMitRk "Episode 24")   | S'améliorer au streaming avec Kyonko Hizara !                                                              |
+| ![](img/Academy_25.png)  | [Episode 25](https://www.youtube.com/watch?v=sgcdrxevAT4 "Episode 25")   | Les différents groupes de l'équipe en détail !                                                             |
+| ![](img/Academy_26.png)  | [Episode 26](https://www.youtube.com/watch?v=y61v2QCHlpY "Episode 26")   | Une annonce !                                                                                              |
+| ![](img/Academy_27.png)  | [Episode 27](https://www.youtube.com/watch?v=nXWA1Qh9bT8 "Episode 27")   | Comment faire et partager vos propres difficultés d'invité !                                               |
+| ![](img/Academy_28.png)  | [Episode 28](https://www.youtube.com/watch?v=PEZFOM8NKtw "Episode 28")   | Les bases du forum, où poster et avoir un bon comportement !                                               |
+| ![](img/Academy_29.png)  | [Episode 29](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Episode 29")   | Les bases du storyboarding !                                                                               |
+| ![](img/Academy_30.png)  | [Episode 30](https://www.youtube.com/watch?v=EvICgPuOylk "Episode 30")   | Les tutoriels avancés sur le storyboarding!                                                                |
+| ![](img/Academy_31.png)  | [Episode 31](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Episode 31")   | Plus de détails sur les difficultés d'invité et d'autres contributions aux beatmaps !                      |
+| ![](img/Academy_32.png)  | [Episode 32](https://www.youtube.com/watch?v=wa_hNegtBw0 "Episode 32")   | Les nouveaux système de classement !                                                                       |
+| ![](img/Academy_33.png)  | [Episode 33](https://www.youtube.com/watch?v=_-Xke2bqzok "Episode 33")   | Encore plus d'astuces sur l'éditeur !                                                                      |
 
-Ces tutoriels vidéo, œuvres de , sont **en anglais**.
+## Liens externes
 
-[La bande-annonce](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg)
-
-Épisodes
----------
-
-| Épisode                                                                                         | Description                                                                                            |
-|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Épisode 1")     | Installation et création du compte (4:51)                                                              |
-| [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Épisode 2")     | Gameplay du mode standard et ajustement des réglages (4:39)                                            |
-| [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Épisode 3")     | osu!mania, la disposition des keys et gameplay avec Loliflan (4:24)                                    |
-| [![](img/Academy_4.png)](https://www.youtube.com/watch?v=6WKZE2HPOK8 "Épisode 4")     | Les contrôles du mode Catch the Beat et les bases (2:36)                                               |
-| [![](img/Academy_5.png)](https://www.youtube.com/watch?v=f_uSO2ESCRI "Épisode 5")     | Les contrôles du mode Taiko et les bases (3:19)                                                        |
-| [![](img/Academy_6.png)](https://www.youtube.com/watch?v=cyYRl-a5xII "Épisode 6")     | Les bases du multijoueur et le panneau des utilisateurs en ligne (6:52)                                |
-| [![](img/Academy_7-0.png)](https://www.youtube.com/watch?v=WKS8Zhut9XU "Épisode 7-0") | Les bases de l'éditeur de beatmaps (7:13)                                                              |
-| [![](img/Academy_7-1.png)](https://www.youtube.com/watch?v=RKLanv4pvJc "Épisode 7-1") | Les bases pour les sliders (2:54)                                                                      |
-| [![](img/Academy_7-2.png)](https://www.youtube.com/watch?v=8nsbrOhLE9w "Épisode 7-2") | Les bases du timing (13:01)                                                                            |
-| [![](img/Academy_7-3.png)](https://www.youtube.com/watch?v=MhIuPvQjLbU "Épisode 7-3") | Les grilles (1:19)                                                                                     |
-| [![](img/Academy_8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ "Épisode 8")     | Les hitsounds (6:14)                                                                                   |
-| [![](img/Academy_9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Épisode 9")     | Le modding (1/2) (4:18)                                                                                |
-| [![](img/Academy_10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Épisode 10")   | Le modding (2/2) (4:51)                                                                                |
-| [![](img/Academy_11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM "Épisode 11")   | Les modes et les moyens de s'améliorer à osu!standard (6:20)                                           |
-| [![](img/Academy_12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY "Épisode 12")   | Les bases du mapping en taiko (4:28)                                                                   |
-| [![](img/Academy_13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw "Épisode 13")   | Personnalisez le look de osu! avec des skins (6:11)                                                    |
-| [![](img/Academy_14.png)](https://www.youtube.com/watch?v=dyDMyB9D420 "Épisode 14")   | Les bases du mapping en Catch the Beat (5:38)                                                          |
-| [![](img/Academy_15.png)](https://www.youtube.com/watch?v=muu3HkG38kk "Épisode 15")   | Encodage audio (4:02)                                                                                  |
-| [![](img/Academy_16.png)](https://www.youtube.com/watch?v=uTnO_7bMV44 "Épisode 16")   | Les bases du mapping en Mania (4:33)                                                                   |
-| [![](img/Academy_17.png)](https://www.youtube.com/watch?v=yWqRJZ5FX5Y "Épisode 17")   | Les commandes du chat (4:12)                                                                           |
-| [![](img/Academy_18.png)](https://www.youtube.com/watch?v=Ywu3PZGYPxs "Épisode 18")   | Support technique (4:57)                                                                               |
-| [![](img/Academy_19.png)](https://www.youtube.com/watch?v=ZoBAZCl9wXY "Épisode 19")   | Reporter les joueurs se conduisant mal (2:16)                                                          |
-| [![](img/Academy_20.png)](https://www.youtube.com/watch?v=exyuI9lv_OI "Épisode 20")   | Encodage vidéo (2:26)                                                                                  |
-| [![](img/Academy_21.png)](https://www.youtube.com/watch?v=59Tm9LvYk3Q "Épisode 21")   | Les bases du live streaming (4:52)                                                                     |
-| [![](img/Academy_22.png)](https://www.youtube.com/watch?v=ec0pLh4U8eY "Épisode 22")   | Supporter et osu!direct (2:09)                                                                         |
-| [![](img/Academy_23.png)](https://www.youtube.com/watch?v=MxlB__wjt9A "Épisode 23")   | La communauté du modding avec Shiro (1:48)                                                             |
-| [![](img/Academy_24.png)](https://www.youtube.com/watch?v=pq33jvMitRk "Épisode 24")   | S'améliorer à faire les streams (gameplay) avec Kyonko Hizara (6:14)                                   |
-| [![](img/Academy_25.png)](https://www.youtube.com/watch?v=sgcdrxevAT4 "Épisode 25")   | In this episode, we are going to be talking about the staff teams a bit more!                          |
-| [![](img/Academy_26.png)](https://www.youtube.com/watch?v=y61v2QCHlpY "Épisode 26")   | The following episode of the osu! academy is brought to you by a public service announcement!          |
-| [![](img/Academy_27.png)](https://www.youtube.com/watch?v=nXWA1Qh9bT8 "Épisode 27")   | In this episode, we will go over how to make and share your own guest difficulties!                    |
-| [![](img/Academy_28.png)](https://www.youtube.com/watch?v=PEZFOM8NKtw "Épisode 28")   | In this episode, we will cover forum basics such as where to post and correct behaviour!               |
-| [![](img/Academy_29.png)](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Épisode 29")   | In this episode, we will cover the basics of storyboarding!                                            |
-| [![](img/Academy_30.png)](https://www.youtube.com/watch?v=EvICgPuOylk "Épisode 30")   | In this episode, we will cover more advanced storyboarding!                                            |
-| [![](img/Academy_31.png)](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Épisode 31")   | In this episode, we will go further in-depth about guest difficulties and other beatmap contributions! |
-| [![](img/Academy_32.png)](https://www.youtube.com/watch?v=wa_hNegtBw0 "Épisode 32")   | In this episode, we will go over the new ranking system!                                               |
-| [![](img/Academy_33.png)](https://www.youtube.com/watch?v=_-Xke2bqzok "Épisode 33")   | In this episode, we will cover more advanced editor tips!                                              |
+- Source: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
+- Chaîne Youtube officielle: <https://www.youtube.com/user/osuacademy/videos>
+- Sujet officiel: <https://osu.ppy.sh/forum/t/169707>

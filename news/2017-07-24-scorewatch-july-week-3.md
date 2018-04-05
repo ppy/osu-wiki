@@ -10,7 +10,7 @@ It might've been a bit calmer this week, but that hasn't stopped players from go
 
 ![](/wiki/shared/news/2017-07-24-scorewatch-july-week-3/banner.png)
 
-[Megure](https://osu.ppy.sh/u/3468264) unexpectedly got the first ever SS on the Nao’s Eclipse difficulty on [The Koxx - A FOOL MOON NIGHT](https://osu.ppy.sh/b/1141084), beating out the likes of Dustice and Musty. What control does this guy have in his bones?
+[Megure](https://osu.ppy.sh/u/3468264) unexpectedly got the first ever SS on the Nao's Eclipse difficulty on [The Koxx - A FOOL MOON NIGHT](https://osu.ppy.sh/b/1141084), beating out the likes of Dustice and Musty. What control does this guy have in his bones?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KptQoF9mGeA" frameborder="0" allowfullscreen></iframe></br>
 

@@ -1,248 +1,299 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 # osu!catch
 
-_Main page: [Skinning](/wiki/Skinning)_
+*Main page: [Skinning](/wiki/Skinning).*
 
-_See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)_
+*See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial).*
 
 ## Catcher
 
-![](img/fruit-catcher-fail.png "fruit-catcher-fail.png")
+`fruit-catcher-idle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+![](img/fruit-catcher-idle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Top | Min width: 302px |
 
-- Animation name: `fruit-catcher-fail-#.png`, replace `#` with an indexed count (start frame count at zero).
-- This is the "missed" catcher state.
-  - This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/kiai_time).
+Notes:
 
----
-
-![](img/fruit-catcher-idle.png "fruit-catcher-idle.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
-
-**Notes:**
-
-- Animation name: `fruit-catcher-idle-#.png`, replace `#` with an indexed count (start frame count at zero)
-- this is the catcher state when doing nothing or catching fruits/drops/droplets/bananas
+- Animation name: `fruit-catcher-idle-{n}.png`
+- This element is the catcher state when doing nothing or catching objects
+- This should face towards the right.
+- The first 16 pixels at the top should be transparent.
+- The width should cover two fruits at a Circle Size of 0.
 
 ---
 
-![](img/fruit-catcher-kiai.png "fruit-catcher-kiai.png")
+`fruit-catcher-fail.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+![](img/fruit-catcher-fail.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
-- Animation name: `fruit-catcher-kiai-#.png`, replace `#` with an indexed count (start frame count at zero)
-- this is the catcher state during kiai time
-  - `fruit-catcher-fail.png` can override this if the player misses a fruit or drop/droplet during kiai time
+Notes:
+
+- Animation name: `fruit-catcher-fail-{n}.png`
+- This element is the "missed" catcher state.
+- This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/kiai_time).
+- This should face towards the right.
 
 ---
 
-![](img/fruit-ryuuta.png "fruit-ryuuta.png")
+`fruit-catcher-kiai.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![Yes][true] | ![Yes][true] (see notes) |
+![](img/fruit-catcher-kiai.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
-- If element is included in a beatmap skin, the end user must be using a skin that uses versions `1.0`, `2.0`, `2.1`, or `2.2`.
-- Animation name: `fruit-ryuuta-#.png`, replace `#` with an indexed count (start frame count at zero).
-- This should face towards the **right**.
+Notes:
+
+- Animation name: `fruit-catcher-kiai-{n}.png`
+- This element is the catcher state during kiai time.
+- `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/kiai_time).
+- This should face towards the right.
+
+---
+
+`fruit-ryuuta.png`
+
+![](img/fruit-ryuuta.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.2- | ![Yes][true] | ![Yes][true] (see notes) | Normal | Centre | - |
+
+Notes:
+
+- Beatmap Skinnable if the player skin is using v2.2-.
+- Animation name: `fruit-ryuuta-{n}.png`
+- This should face towards the right.
 
 ## Comboburst
 
-![](img/comboburst-fruits.png "comboburst-fruits.png")
+`comboburst-fruits.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![No][false] (see notes) | ![Yes][true]      |
+![](img/comboburst-fruits.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![No][false] (see notes) | ![Yes][true] | Normal | BottomLeft | Max height: 768px |
 
-- This element is not an animation; instead, one of the frames will be used when a combo milestone is met.
-   - use `comboburst-fruits-#.png`, replace `#` with an indexed count (start frame count at zero).
-- osu!catch specific combobursts
+Notes:
+
+- To have multiple combobursts, use: `comboburst-fruits-{n}.png`.
+  - One of the images in the set will be appear when a combo milestone is met.
+- On v2.2-, `comboburst.png` will be used instead.
+- osu!catch-specific combobursts
 - This can be disabled in the [options](/wiki/options).
-- skin version `2.3` needs to be explictly stated in [skin.ini](/wiki/skin.ini).
-  - Prior to this change, osu!standard and osu!catch shared combobursts.
-- This should face towards the **right**.
+- This should face towards the right.
 
 ## Fruits
 
-It is important to not make the fruit images transparent!
-This is because the hyperdash outline uses the fruit image to create this outline.
-You could, however, make the overlays transparent!
+`lighting.png`
 
-All fruits are coloured with the current combo colour.
+![](img/lighting.png)
 
----
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 |
 
-![](img/lighting.png "lighting.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
+Notes:
 
 - This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/kiai_time).
-- This element is also used in osu!standard and osu!taiko.
+- This element is also used in [osu!standard](/wiki/osu!standard) and [osu!taiko](/wiki/osu!taiko).
+- This can be disabled in the [options](/wiki/options).
+- Tinting depends on the fruit's combo colour.
 
 ---
 
-![](img/fruit-apple.png "fruit-apple.png")
+`fruit-pear.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-pear.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
 
-- This element is shown third.
+Notes:
 
----
-
-![](img/fruit-apple-overlay.png "fruit-apple-overlay.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Note:**
-
-- This element is shown third; overlaying `fruit-apple.png`.
+- This element is shown first.
+- This element is used for the hyperdash outline.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
-![](img/fruit-bananas.png "fruit-bananas.png")
+`fruit-pear-overlay.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-pear-overlay.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
 
-- This element is always tinted yellow.
-- This is the osu!catch equivalent of a spinner in osu!standard.
+Notes:
 
----
-
-![](img/fruit-bananas-overlay.png "fruit-bananas-overlay.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Note:**
-
-- This element is shown during a spinner; overlaying `fruit-bananas.png`.
+- This element is shown first; overlaying `fruit-pear.png`.
 
 ---
 
-![](img/fruit-drop.png "fruit-drop.png")
+`fruit-grapes.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-grapes.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
 
-- This is the osu!catch equivalent of a slider trail and slider tick in osu!standard.
-
----
-
-_`fruit-drop-overlay.png`_ (transparent; not included)
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Notes:**
-
-- This is not used in the ranking screen.
-- This element is shown during a slider; overlaying `fruit-drop.png`
-
----
-
-![](img/fruit-grapes.png "fruit-grapes.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Note:**
+Notes:
 
 - This element is shown second.
+- This element is used for the hyperdash outline.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
-![](img/fruit-grapes-overlay.png "fruit-grapes-overlay.png")
+`fruit-grapes-overlay.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-grapes-overlay.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+
+Notes:
 
 - This element is shown second; overlaying `fruit-grapes.png`.
 
 ---
 
-![](img/fruit-orange.png "fruit-orange.png")
+`fruit-apple.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-apple.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
 
-- This element is shown fourth (last).
+Notes:
+
+- This element is shown third.
+- This element is used for the hyperdash outline.
+- Tinting depends on the fruit's combo colour.
 
 ---
 
-![](img/fruit-orange-overlay.png "fruit-orange-overlay.png")
+`fruit-apple-overlay.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-apple-overlay.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
 
+Notes:
+
+- This element is shown third; overlaying `fruit-apple.png`.
+
+---
+
+`fruit-orange.png`
+
+![](img/fruit-orange.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 |
+
+Notes:
+
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `fruit-orange-{n}.png`
+- This element is shown fourth (last).
+- This element is used for the hyperdash outline.
+- Tinting depends on the fruit's combo colour.
+  - On the ranking screen:
+    - Tinted orange for collected fruit
+    - Tinted light grey for missed fruit.
+
+---
+
+`fruit-orange-overlay.png`
+
+![](img/fruit-orange-overlay.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 128x128 |
+
+Notes:
+
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `fruit-orange-overlay-{n}.png`
 - This element is shown fourth (last); overlaying `fruit-orange.png`.
 
 ---
 
-![](img/fruit-pear.png "fruit-pear.png")
+`fruit-bananas.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-bananas.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
 
-- This element is shown first.
+Notes:
+
+- Tinted yellow.
+- This element is shown during a "spinner".
+- This element is used for the hyperdash outline.
 
 ---
 
-![](img/fruit-pear-overlay.png "fruit-pear-overlay.png")
+`fruit-bananas-overlay.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/fruit-bananas-overlay.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
 
-- This element is shown first; overlaying `fruit-pear.png`.
+Notes:
+
+- This element is shown during a spinner; overlaying `fruit-bananas.png`.
+
+---
+
+`fruit-drop.png`
+
+![](img/fruit-drop.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 |
+
+Notes:
+
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `fruit-drop-{n}.png`
+- This element is shown during a "slider".
+- Tinting depends on the fruit's combo colour.
+
+---
+
+`fruit-drop-overlay.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+
+Notes:
+
+- This element is not used in the ranking screen.
+- This element is shown during a "slider"; overlaying `fruit-drop.png`

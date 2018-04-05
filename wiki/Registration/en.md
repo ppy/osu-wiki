@@ -10,7 +10,7 @@
 ![Account fields](Register-2.png "Account fields")
     1. Username          
         - Maximum of 15 characters
-        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``) and dashes (``-``) are the only characters allowed.
+        - Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``), dashes (``-``), and spaces (`` ``) are the only characters allowed.
     2. E-mail Address
     3. Password
     4. Note

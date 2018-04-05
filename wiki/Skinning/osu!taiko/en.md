@@ -1,474 +1,528 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
-# Skinning osu!taiko
+# osu!taiko
 
-You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder.
+*Main page: [Skinning](/wiki/Skinning).*
 
-If this approach is used, the user will need to explicitly enable this in the options (enable the `Use Taiko skin for Taiko mode` button) otherwise the default skin elements will be used.
+*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial).*
+
+You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
 ## Pippidon
 
-_`pippidonclear.png`_ (included images below)
+`pippidonclear.png`
 
-![](img/pippidonclear0.png "pippidonclear0.png")
+![](img/pippidonclear.gif)
 
-![](img/pippidonclear1.png "pippidonclear1.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
 
-![](img/pippidonclear2.png "pippidonclear2.png")
+Notes:
 
-![](img/pippidonclear3.png "pippidonclear3.png")
-
-![](img/pippidonclear4.png "pippidonclear4.png")
-
-![](img/pippidonclear5.png "pippidonclear5.png")
-
-![](img/pippidonclear6.png "pippidonclear6.png")
-
-![](img/pippidonclear7.png "pippidonclear7.png")
-
-![](img/pippidonclear8.png "pippidonclear8.png")
-
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![Yes][true] (see notes) | ![Yes][true]      |
-
-**Notes:**
-
-- Animation name: `pippidonclear#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `pippidonclear{n}.png` (without the hyphen (`-`)).
+  - You can only skin up 7 frames (from 0 to 6).
+  - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
+  - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
 - The animation rate is BPM dependent.
-- This animation plays when the player hits a combo milestone.
+- This animation only plays once when the player hits a combo milestone; then goes back to the idle or kiai state.
 
 ---
 
-_`pippidonfail.png`_ (included images below)
+`pippidonfail.png`
 
-![](img/pippidonfail0.png "pippidonfail0.png")
+![](img/pippidonfail.gif)
 
-![](img/pippidonfail1.png "pippidonfail1.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
 
-![](img/pippidonfail2.png "pippidonfail2.png")
+Notes:
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
-
-**Notes:**
-
-- Animation name: `pippidonfail#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `pippidonfail{n}.png` (without the hyphen (`-`)).
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/kiai_time).
 
 ---
 
-_`pippidonidle.png`_ (included images below)
+`pippidonidle.png`
 
-![](img/pippidonidle0.png "pippidonidle0.png")
-![](img/pippidonidle1.png "pippidonidle1.png")
+![](img/pippidonidle.gif)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
 
-**Notes:**
+Notes:
 
-- Animation name: `pippidonidle#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `pippidonidle{n}.png` (without the hyphen (`-`)).
 - The animation rate is BPM dependent.
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
 ---
 
-_`pippidonkiai.png`_ (included images below)
+`pippidonkiai.png`
 
-![](img/pippidonkiai0.png "pippidonkiai0.png")
+![](img/pippidonkiai.gif)
 
-![](img/pippidonkiai1.png "pippidonkiai1.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+Notes:
 
-**Notes:**
-
-- Animation name: `pippidonkiai#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `pippidonkiai{n}.png` (without the hyphen (`-`)).
 - The animation rate is BPM dependent.
 - This animation plays during [kiai time](/wiki/kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
 
 ## Hit Bursts
 
-The following table is for all hit bursts but `taiko-hit300g`.
+`taiko-hit0.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![Yes][true] (see notes) | ![Yes][true]      |
+![](img/taiko-hit0.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
-- If the animation is not skinned, the original behavior is used.
-  - The original behavior is a short bounce (or upscaling with particles).
-  - If two or more frames are skinned, the animation is played.
-- These elements follow a fixed animation rate of 60 FPS.
-- The last frame persists until it is faded out.
-- The ranking screen will use the 0th frame or the static image.
+Notes:
+
+- Animation name: `taiko-hit0-{n}.png`.
+- If animated, default effect from static images will not be disabled.
 
 ---
 
-![](img/taiko-hit0.png "taiko-hit0.png")
+`taiko-hit100.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![Yes][true] (see notes) | ![Yes][true]      |
+![](img/taiko-hit100.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
-- Animation name: `taiko-hit0-#.png`, replace # with indexed count (start frame count at zero)
+Notes:
 
----
-
-![](img/taiko-hit100.png "taiko-hit100.png")
-
-**Note:**
-
-- Animation name: `taiko-hit100-#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `taiko-hit100-{n}.png`.
+- If animated, default effect from static images will not be disabled.
 
 ---
 
-![](img/taiko-hit300.png "taiko-hit300.png")
+`taiko-hit100k.png`
 
-**Note:**
+![](img/taiko-hit100k.png)
 
-- Animation name: `taiko-hit300-#.png`, replace # with indexed count (start frame count at zero)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
----
+Notes:
 
-![](img/taiko-hit100k.png "taiko-hit100k.png")
-
-**Note:**
-
-- Animation name: `taiko-hit100k-#.png`, replace # with indexed count (start frame count at zero)
-
----
-
-![](img/taiko-hit300k.png "taiko-hit300k.png")
-
-**Note:**
-
-- Animation name: `taiko-hit300k-#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `taiko-hit100k-{n}.png`.
+- If animated, default effect from static images will not be disabled.
 
 ---
 
-![](img/taiko-hit300g.png "taiko-hit300g.png")
+`taiko-hit300.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![No][false] (see notes) | ![Yes][true]      |
+![](img/taiko-hit300.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
-- Animation name: `taiko-hit300g-#.png`, replace # with indexed count (start frame count at zero)
-  - If this element is skinned as an animation, the zeroth frame is used.
-- This is only used on the ranking screen in place of `taiko-hit300k` on the ranking screen.
+Notes:
+
+- Animation name: `taiko-hit300-{n}.png`.
+- If animated, default effect from static images will not be disabled.
+
+---
+
+`taiko-hit300k.png`
+
+![](img/taiko-hit300k.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `taiko-hit300k-{n}.png`.
+- If animated, default effect from static images will not be disabled.
+
+---
+
+`taiko-hit300g.png`
+
+![](img/taiko-hit300g.png).
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - |
+
+Notes:
+
+- Can be animated, but only the zeroth frame will be used.
+  - Animation name: `taiko-hit300g-{n}.png`
+- This image is only used on the ranking screen (instead of `taiko-hit300k.png`).
 
 ## Notes
 
-![](img/taikobigcircle.png "taikobigcircle.png")
+`taikobigcircle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/taikobigcircle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
 
-- This is used for finisher/big notes.
+Notes:
+
+- This element is used for finisher/big notes.
   - This element is upscaled automatically.
-- This is also used on the hit position.
+- This element is also used on the hit position.
+- Tinted red for "Don" (235,69,44)
+- Tinted blue for "Katsu" (68,141,171)
+- Tinted yellow for drumroll starting circle (252,83,6)
 
 ---
 
-![](img/taikobigcircleoverlay.png "taikobigcircleoverlay.png")
+`taikobigcircleoverlay.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![Yes][true] (see notes) | ![Yes][true]      |
+![](img/taikobigcircleoverlay.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 |
 
-- Animation name: `taikobigcircleoverlay-#.png`, replace # with indexed count (start frame count at zero)
+Notes:
+
+- Animation name: `taikobigcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
-    - animation speed depends on BPM
+  - animation speed depends on BPM
     - animation starts at combo 50
     - speeds up at combo 150
-- This is seen overlaying `taikobigcircle`.
-  - This element is upscaled automatically.
-- This is also used on the hit position.
+- This element is upscaled automatically.
 
 ---
 
-![](img/taikohitcircle.png "taikohitcircle.png")
+`taikohitcircle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/taikohitcircle.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+
+Notes:
+
+- Tinted red for "Don" (235,69,44)
+- Tinted blue for "Katsu" (68,141,171)
+- Tinted yellow for drumroll starting circle (252,83,6)
 
 ---
 
-![](img/taikohitcircleoverlay.png "taikohitcircleoverlay.png")
+`taikohitcircleoverlay.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![Yes][true] (see notes) | ![Yes][true]      |
+![](img/taikohitcircleoverlay.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 |
 
-- Animation name: `taikohitcircleoverlay-#.png`, replace # with indexed count (start frame count at zero)
+Notes:
+
+- Animation name: `taikohitcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
-    - animation speed depends on BPM
+  - animation speed depends on BPM
     - animation starts at 50 combo
     - speeds up at 150 combo
-- This is seen overlaying `taikohitcircle`.
 
 ---
 
-![](img/approachcircle.png "approachcircle.png")
+`approachcircle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+![](img/approachcircle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 126x126 |
 
-- This is used on the hit position as a border.
+Notes:
+
+- This element is used on the hit position as a border.
 - This element is also used in osu!standard.
 
 ---
 
-![](img/taiko-glow.png "taiko-glow.png")
+`taiko-glow.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![Yes][true] | ![No][false] (see notes) |
+<!-- ![](img/taiko-glow.png) -->
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | - |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This is tinted yellow.
-- This is behind the hit position during [kiai time](/wiki/kiai_time), expands when notes are hit
+- Tinted yellow.
+- This element is behind the hit position during [kiai time](/wiki/kiai_time), expands when notes are hit.
 
 ---
 
-![](img/lighting.png "lighting.png")
+`lighting.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/lighting.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | - |
 
-= This is tinted orange-red.
+Notes:
+
+- Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
   - This element is only visible when using a transparent taiko bar.
 - This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/kiai_time).
 
 ## Playfield (upper half)
 
-These parts are above the taiko bar, where the hit objects scroll through.
+`taiko-slider.png`
 
----
+![](img/taiko-slider.png)
 
-![](img/taiko-slider.png "taiko-slider.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 776x162 |
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![Yes][true] | ![No][false] (see notes) |
-
-**Notes:**
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This is disbaled if the beatmap has a storyboard.
+- This element is disbaled if the beatmap has a storyboard.
+- Gets upscaled by 1.4x ingame.
 
 ---
 
-![](img/taiko-slider-fail.png "taiko-slider-fail.png")
+`taiko-slider-fail.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![Yes][true] | ![No][false] (see notes) |
+![](img/taiko-slider-fail.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | TopLeft | 776x162 |
 
-- Beatmap skinnable status is suspected to be a bug.
+Notes:
+
 - This appears when the player misses a note or if the health bar isn't filled up to 50% during a break.
+- Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This is disbaled if the beatmap has a storyboard.
+- This element is disbaled if the beatmap has a storyboard.
+- Gets upscaled by 1.4x ingame.
 
 ---
 
-![](img/taiko-flower-group.png "taiko-flower-group.png")
+`taiko-flower-group.png`
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![No][false] (see notes) | ![Yes][true]      |
+![](img/taiko-flower-group.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Bottom | - |
 
-- Not an animation; instead, one of the frames will be used when a combo milestone is met
-  - Animation name: `taiko-flower-group-#.png`, replace # with an indexed count (start frame count at zero)
-- This element is really the comboburst of osu!taiko.
-  - Appears when combo milestone is met.
+Notes:
+
+- These are like combobursts.
+- To have multiple combobursts, use: `taiko-flower-group-{n}.png`.
+  - One of the images in the set will be appear when a combo milestone is met.
 - This image expands and fades in from behind pippidon when it changes to clear state.
 
 ## Playfield (lower half)
 
-These parts are parts of the drums and the taiko bar.
+`taiko-bar-left.png`
 
----
+<!-- ![](img/taiko-bar-left.png) -->
 
-![](img/taiko-bar-left.png "taiko-bar-left.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 181x200 |
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
-
-**Notes:**
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This is where the drum goes.
+- Positioned at (0,216).
+- This element is where the drum goes.
 
 ---
 
-![](img/taiko-drum-inner.png "taiko-drum-inner.png")
+`taiko-drum-inner.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/taiko-drum-inner.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 56px |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
+- Position varies by skin version:
+  - v1 - v2.0: (29,266) (and (86,266) when mirrored)
+  - v2.1+: (0,216) (and (90,216) when mirrored)
 
 ---
 
-![](img/taiko-drum-outer.png "taiko-drum-outer.png")
+`taiko-drum-outer.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/taiko-drum-outer.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 72px |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
+- Position varies by skin version:
+  - v1 - v2.0: (85,253) ((13,253) when mirrored)
+  - v2.1+: (90,216) (and (0,216) when mirrored)
 
 ---
 
-![](img/taiko-bar-right.png "taiko-bar-right.png")
+`taiko-bar-right.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/taiko-bar-right.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
-- This is the normal state of the scrolling bar.
+- This element is the normal state of the scrolling bar.
+- Position varies by skin version:
+  - v1.0 - v2.0: (181,216)
+  - v2.1+: (0,216)
 
 ---
 
-![](img/taiko-bar-right-glow.png "taiko-bar-right-glow.png")
+`taiko-bar-right-glow.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/taiko-bar-right-glow.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
-- This is the kiai state of the scrolling bar.
+- This element is the kiai state of the scrolling bar.
 - This element overlays `taiko-bar-right`.
+- Position varies by skin version:
+  - v1.0 - v2.0: (181,216)
+  - v2.1+: (0,216)
 
 ## Drumrolls
 
-Drumrolls are the equivalent of the osu!standard sliders.
+`taiko-roll-middle.png`
+
+![](img/taiko-roll-middle.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 1x128 |
+
+Notes:
+
+- The SD image width must be exactly 1px wide.
+- This element is the track of the roll where the `sliderscorepoint.png` are placed on.
+- Tinting shifts from yellow to red.
 
 ---
 
-![](img/taiko-roll-middle.png "taiko-roll-middle.png")
+`taiko-roll-end.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/taiko-roll-end.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 64x128 |
 
-- This is the track of the roll where the `sliderscorepoint` are placed on.
+Notes:
 
----
-
-![](img/taiko-roll-end.png "taiko-roll-end.png")
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
-
-**Note:**
-
-- This is the end part of a roll.
+- This element is the end part of a roll.
+- Tinting shifts from yellow to red.
 
 ---
 
-![](img/sliderscorepoint.png "sliderscorepoint.png")
+`sliderscorepoint.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+![](img/sliderscorepoint.png)
 
-**Note:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- This is the ticks of the roll.
+Notes:
+
+- This element is also used in osu!standard.
+- This are the ticks of the roll.
 
 ## Shaker
 
-Shakers are the equivalent of the osu!standard spinner.
+`spinner-warning.png`
+
+![](img/spinner-warning.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- This element is an indicator for the spinner.
 
 ---
 
-![](img/spinner-warning.png "spinner-warning.png")
+`spinner-circle.png`
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+![](img/spinner-circle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
 
-- This is an indicator for the spinner.
-
----
-
-![](img/spinner-circle.png "spinner-circle.png")
-
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
-
-**Notes:**
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
+- This element is also used in [osu!standard](/wiki/osu!standard).
 - For each hit in the spinner happens, the circle rotates anti-clockwise.
 
 ---
 
-![](img/spinner-approachcircle.png "spinner-approachcircle.png")
+`spinner-approachcircle.png`
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+![](img/spinner-approachcircle.png)
 
-**Notes:**
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
+
+Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This is the duration indicator of the spinner.
+- This element is also used in [osu!standard](/wiki/osu!standard).
+- This element is the duration indicator of the spinner.
   - This shrinks over time.

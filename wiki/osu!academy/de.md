@@ -1,4 +1,4 @@
-osu!academy (Deutsch)
+osu!academy
 =====================
 
 Einführung
