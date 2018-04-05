@@ -263,7 +263,7 @@ Notes:
 
 Notes:
 
-- Animation name: `mania-noteS-#.png`.
+- Animation name: `mania-noteS-{n}.png`.
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
 - Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
