@@ -4,7 +4,7 @@ _Halaman Utama: [osu!tourney](/wiki/osu!tourney)_
 
 **Catatan:** Saat ini supporter tag yang aktif diperlukan untuk menjalankan klien osu!tourney.
 
-Penggunaan **klien osu! yang masih baru** sangat disarankan. Hal ini dikarenakan database Lagu mungkin mengalami kerusakan. Anda dapat memiliki beberapa klien osu!, tapi simpan di folder terpisah. 
+Penggunaan **klien osu! yang masih baru** sangat disarankan. Hal ini dikarenakan database lagu mungkin mengalami kerusakan. Anda dapat memiliki beberapa klien osu!, tapi simpan di folder terpisah. 
 Untuk melakukannya, salin `osu!.exe` ke folder kosong dan jalankan. Klien osu! baru akan dibuat. Proses ini adalah satu-satunya pemasangan yang perlu dimodifikasi.
 
 Buka osu! dan masuk, centang kotak 'Ingat Nama Pengguna' dan kotak 'Ingat Kata Sandi'.
@@ -23,7 +23,7 @@ acronym = OWC
 Jangan mengubah file `tournament.cfg` saat osu! sedang dijalankan. Tutup osu! dan ubah atau tambahkan ke baris di atas sesuai keinginan dengan pilihan berikut:
 
 - `TeamSize`: Jumlah pemain per tim. Klien akan membuka 1-8 jendela per tim, jendela yang terbuka ditentukan oleh nilai ini. Nilai maksimalnya adalah 8.
-- `ClientNameSize`: Jumlah pemain yang akan disoroti warna kuning.
+- `ClientNameSize`: Besar tulisan nama pemain pada klien turnamen yang disoroti dengan warna kuning
 - `privateserver`: Dibiarkan saja jangan disentuh.
 - `acronym`: Singkatan untuk turnamen. Hal ini mempengaruhi penamaan ruang yang akan digunakan untuk turnamen, periksa [panduan penggunaan multiplayer](/wiki/osu!tourney/Multiplayer_Usage) untuk informasi lebih lanjut.
 - `BufferTimeoutTime`: Jumlah waktu klien akan menunggu pemain untuk *buffer* sebelum melanjutkan permainan tanpa mereka.
