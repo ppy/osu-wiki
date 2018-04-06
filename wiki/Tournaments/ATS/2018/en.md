@@ -80,34 +80,34 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
-6. Failed plays will result with the enemy's team winning by default.
+6. Failed plays will result with the enemy's winning by default.
 7. If the match ends in a draw, the game will be nullified and proceed to the next pick, selected by the next player.
-8. If a player doesn't show up within **10 minutes** of the start time, the enemy team wins by default.
+8. If a player doesn't show up within **10 minutes** of the start time, the enemy wins by default.
 9. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched.
 
 10. If a player disconnects between the beatmaps, the match can be delayed up to 10 minutes max.
-    - In case the disconnected player exceed 10 minutes max. this will result with the enemy's team winning by default.
+    - In case the disconnected player exceed 10 minutes max. this will result with the enemy's winning by default.
 11. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 12. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+1. In the first stage (Group Stage), the players will be divided into 8 groups of 4 players.
 
-2. All the teams from each group will face each other.
+2. All the players from each group will face each other.
 
-3. The top 2 teams of each group will move on to the Knock-Out Stages.
+3. The top 2 players of each group will move on to the Knock-Out Stages.
 
-4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!taiko, Head To Head, Win Condition: 'Score V2'. Room name must be "ATS 2018: (TeamBlue) vs (TeamRed)".
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - The player mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 
-2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
+2. Each player is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
 4. Beatmap selection will alternate between each player selecting a beatmap out of the mappool.
 5. Each player must use "!roll" once in #multiplayer.
