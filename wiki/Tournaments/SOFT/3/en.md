@@ -95,21 +95,21 @@ Springtime Osu!mania Free-for-all Tournament 3
 **[Download the mappack here! (82.24 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
 
 - FreeMod
-  - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/b/1574468)
-  - [UNDEAD CORPORATION - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/b/1538017)
-  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](https://osu.ppy.sh/b/1475857)
-  - [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back the Cover\]](https://osu.ppy.sh/b/1595289)
-  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/b/1572067)
-  - [OSTER project - EBONY & IVORY (Vortex-) \[Cute Things\]](https://osu.ppy.sh/b/1515312)
-  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/b/1516908)
-  - [EZFG - Glucagon (Wh1teh) \[!!\]](https://osu.ppy.sh/b/1588213)
-  - [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/b/1553587)
-  - [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/b/1413635)
-  - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/b/1532410)
-  - [sakuraburst - anticrystal (Couil) \[dusk\]](https://osu.ppy.sh/b/1301433)
-  - [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/b/1068479)
+  - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmaps/1574468)
+  - [UNDEAD CORPORATION - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/beatmaps/1538017)
+  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](https://osu.ppy.sh/beatmaps/1475857)
+  - [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back the Cover\]](https://osu.ppy.sh/beatmaps/1595289)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmaps/1572067)
+  - [OSTER project - EBONY & IVORY (Vortex-) \[Cute Things\]](https://osu.ppy.sh/beatmaps/1515312)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmaps/1516908)
+  - [EZFG - Glucagon (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmaps/1588213)
+  - [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/beatmaps/1553587)
+  - [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/beatmaps/1413635)
+  - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmaps/1532410)
+  - [sakuraburst - anticrystal (Couil) \[dusk\]](https://osu.ppy.sh/beatmaps/1301433)
+  - [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmaps/1068479)
 - Tiebreaker
-  - [Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/b/1564113)
+  - [Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmaps/1564113)
 
 ### Round of 16
 
