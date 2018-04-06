@@ -41,18 +41,19 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 | Position | Members |
 | ------------ | -------------- |
-| Organizer | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
+| Organizers | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 | Map Selectors | [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621), [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122)  |
 | Commentators | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991) |
 | Streamers | *To be decided* |
-| Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/5281416) |
-| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] xfraczynho](https://osu.ppy.sh/users/2192669), [![][flag_CL] Valelup](https://osu.ppy.sh/users/5281416), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
+| Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
+| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] xfraczynho](https://osu.ppy.sh/users/2192669), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
 | Statisticians | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## Links
 
 - [Livestream](https://www.twitch.tv/idtslive)
 - [Registration Form](https://goo.gl/forms/Z40RvcISgnMKNwGf2)
+- [Asian Taiko Showdown Discord](https://discord.gg/2xQDbkS)
 
 -----------------------
 
