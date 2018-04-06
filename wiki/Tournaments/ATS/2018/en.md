@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-**ATS 2018**, short for **Asian Taiko Showdown 2018**, is a double elimination one-on-one osu!taiko tournament hosted by [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002). Previously ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070), it is the 2nd installment of the tournament and extension from Indonesia region to Asia.
+**ATS 2018**, short for **Asian Taiko Showdown 2018**, is a double elimination one-on-one osu!taiko tournament hosted by [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002). Previously ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from Indonesia region to Asia.
 
 ## Tournament Schedule
 
@@ -52,7 +52,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community member.
 ## Links
 
 - [Livestream](https://www.twitch.tv/idtslive)
-- [Registration Form]()
+- [Registration Form](https://goo.gl/forms/Z40RvcISgnMKNwGf2)
 
 -----------------------
 
@@ -75,7 +75,7 @@ Mappools will be revealed one week in advance of each stage.
 2. In order for your registration to count, You must meet following condition:
     - Participant must fill out the provided form.
     - Participant's Flag on their profile must be a country from **Asia Continent.**
-    - Maximum Performace Points (PP) allowed for participant to register is **8.500pp.**
+    - Maximum Performace Points (PP) allowed for participant to register is **8,500pp.**
     - Participant's account must be **6 months old or above.**
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Tournament Management (see below).
