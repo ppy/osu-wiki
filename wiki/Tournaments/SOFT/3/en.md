@@ -31,7 +31,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Prizes
 
-*The winner of this tournament will earn a Profile Badge. The rest of the prizes are currently being decided on.*
+*The winner of this tournament will earn a Profile Badge. The rest of the prizes are to be decided.*
 
 ![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
 
@@ -197,7 +197,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ### Round of 16
 
-Detailed results of the Round of 16 stage can be found through [this link](https://goo.gl/jbctVe).
+Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbctVe).
 
 | Saturday, 2018-03-31 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -223,7 +223,7 @@ Detailed results of the Round of 16 stage can be found through [this link](https
 
 ### Round of 32
 
-Detailed results of the Round of 32 stage can be found through [this link](https://goo.gl/XUjUy4).
+Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUjUy4).
 
 | Saturday, 2018-03-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -249,7 +249,7 @@ Detailed results of the Round of 32 stage can be found through [this link](https
 
 ### Group Stage
 
-Detailed results of the Group Stage can be found through [this link](https://goo.gl/FfQfZi).
+Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 
 | Friday, 2018-03-09 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -364,7 +364,7 @@ Detailed results of the Group Stage can be found through [this link](https://goo
 
 ### Playoffs
 
-Detailed results of the Playoffs can be found through [this link](https://goo.gl/CGgypm).
+Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 
 | Wednesday, 2018-02-21 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -450,7 +450,7 @@ Detailed results of the Playoffs can be found through [this link](https://goo.gl
 
 ### Qualifiers
 
-The results of the Qualifiers can be found through [this link](https://goo.gl/TC4A91).
+The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
 ## Rules
 
