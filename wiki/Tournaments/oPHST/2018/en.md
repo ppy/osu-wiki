@@ -135,8 +135,6 @@ Mappools will be revealed one week in advance of each stage.
 
 ### Eligibility and Registration 
 
-#### General Guidelines 
-
 - Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted. 
 
 - Players who have shown exemplary performances over the previous months shall be given an invitation to join the tournament and shall be reserved a registration slot upon acceptance. 
