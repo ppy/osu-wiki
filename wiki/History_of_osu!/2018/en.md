@@ -68,9 +68,9 @@ Trial & Error was introduced as a new Featured Artist.
 
 In osu!lazer, basic skinning support was implemented. The parallax effect was reduced during gameplay.
 
-In osu!web, the play history and watch replay history graphs (the design is temporary) and post count in the user profiles were added. The mobile view of the website will now have a dedicated search box. The page titles were rearranged to prioritise the page name (rather than the game's name) allow easier navigation between tabs. The forum search results are threaded.
+In osu!web, the play history and watch replay history graphs (the design is temporary) and post count in the user profiles were added. The mobile view of the website will now have a dedicated search box. The page titles were rearranged to prioritise the page name (rather than the game's name) allow easier navigation between tabs. The forum search results are threaded. Thanks to nanaya, user badges are now displayed on the user pages.
 
-On 2018-03-13, peppy opened the #ranking-procedures channel in the osu!dev Discord to give BNs and QATs an area to discuss topics they want actioned upon. This was done so allow more transparent and open discussion, but to also prevent outsiders from assuming that the "osu! staff" are the ones who were making decisions BNs and QATs make.
+On 2018-03-13, peppy opened the `#ranking-procedures` channel (now called `#modding`) in the osu!dev Discord to give BNs and QATs an area to discuss topics they want actioned upon. This was done so allow more transparent and open discussion, but to also prevent outsiders from assuming that the "osu! staff" are the ones who were making decisions BNs and QATs make.
 
 MWC 7K 2018 concluded with South Korea, Malaysia, and China taking first, second, and third place respectively.
 
@@ -85,3 +85,48 @@ Links:
 - [ppy/osu-web#2531](https://github.com/ppy/osu-web/pull/2531)
 - [ppy/osu-web#2332](https://github.com/ppy/osu-web/pull/2332)
 - [osu!mania 7K World Cup 2018 Concludes](https://osu.ppy.sh/home/news/2018-03-22-mwc-7k-2018-concludes)
+
+## April
+
+The cookie in the main menu slowly rotated clockwise as time passed. Whereas the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over it would enlarge the cookie, as normal, but would also make it rotate faster.
+
+![](img/april-fools-main-menu.jpg "Main menu")
+
+![](img/april-fools-song-select.jpg "Song selection screen cookie")
+
+![](img/april-fools-song-select-hover.jpg "Song selection screen when hovering over the cookie")
+
+---
+
+The community contributor badge was updated to match the new display of user badges; shaping the guidelines for how existing and future user badges should look like.
+
+![](img/osu!supporter-before.jpg)
+
+![](img/osu!supporter-after.jpg)
+
+---
+
+In osu!web, thanks to nanaya, the header has been updated to match flyte's new design. Showing username history was added to the userpage. Username history were now visible and missing userpages now display a similar message from the old site, rather than giving the vague 404 page.
+
+![](img/header-before.jpg "The header before.")
+
+![](img/header-before-menu.jpg "The header's menu before.")
+
+![](img/header-after.jpg "The header after.")
+
+![](img/header-after-menu.jpg "The header's menu after.")
+
+---
+
+Thanks to nekodex, the osu!supporter status is now visible in the [support the game](/home/support) page and adding your discord username to your user account was implemented.
+
+---
+
+Links:
+
+-   [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
+-   [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
+-   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+-   [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
+-   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+-   [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)
