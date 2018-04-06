@@ -87,7 +87,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
    - Disconnects within 30 seconds after map begin can be rematched.
 
 10. If a player disconnects between the beatmaps, the match can be delayed up to 10 minutes max.
-   - In case the disconnected player exceed 10 minutes max. this will result with the enemy's team winning by default.
+    - In case the disconnected player exceed 10 minutes max. this will result with the enemy's team winning by default.
 11. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 12. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 
