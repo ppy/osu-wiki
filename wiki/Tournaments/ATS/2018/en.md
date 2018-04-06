@@ -51,6 +51,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ## Links
 
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/726251)
 - [Livestream](https://www.twitch.tv/idtslive)
 - [Registration Form](https://goo.gl/forms/Z40RvcISgnMKNwGf2)
 - [Asian Taiko Showdown Discord](https://discord.gg/2xQDbkS)
