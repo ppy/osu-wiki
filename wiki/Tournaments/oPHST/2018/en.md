@@ -17,7 +17,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ## Tournament Schedule
 ### osu!standard
 
-| Event | Timestamp |
+| Event | Dates |
 |---:|---|
 | Registration Phase   | 2018-04-01/2018-04-04 |
 | Qualifiers           | 2018-04-14/2018-04-15 |
@@ -29,7 +29,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### osu!catch
 
-| Event | Timestamp |
+| Event | Dates |
 |---:|---|
 | Registration Phase   | 2018-04-01/2018-04-15 |
 | Round of 32          | 2018-04-28/2018-04-29 |
@@ -40,7 +40,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### osu!mania
 
-| Event | Timestamp |
+| Event | Dates |
 |---:|---|
 | Registration Phase   | 2018-04-01/2018-04-15 |
 | Qualifiers (4K)      | 2018-04-28/2018-04-29 |
