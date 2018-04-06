@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # 환영합니다
 
 _osu!_ 에 오신 것을 환영합니다! _osu!_ 는 peppy가 개발한 동그라미를 클릭하는 시뮬레이터인 osu!standard, 드럼 에뮬레이터 osu!taiko, 과일 샐러드를 받아내는 osu!catch, 키보드 부수기의 달인 osu!mania의 네 가지 게임 모드를 가지고 있는 무료 리듬게임입니다.
