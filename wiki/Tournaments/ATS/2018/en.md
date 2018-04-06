@@ -1,4 +1,4 @@
-----
+---
 tags:
 - ATS 2018
 - ATS2018
@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-**ATS 2018**, short for **Asian Taiko Showdown 2018**, is a double elimination one-on-one osu!taiko tournament hosted by [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002). Previously ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from Indonesia region to Asia.
+**ATS 2018**, short for **Asian Taiko Showdown 2018**, is a double elimination one-on-one osu!taiko tournament hosted by [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from the Indonesia region to Asia.
 
 ## Tournament Schedule
 
@@ -33,11 +33,11 @@ Asian Taiko Showdown 2018
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage Banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage Banner |
 
-*Rest prizes are to be decided*
+ *The remaining prizes are to be decided.*
 
 ## Organization
 
-The Asian Taiko Showdown 2018 is run by various osu!taiko community member.
+The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 | Position | Members |
 | ------------ | -------------- |
@@ -58,13 +58,13 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community member.
 
 ## Participants
 
-Players will be displayed after the registration phase is completed.
-
+ *The participants will be listed once the registration phase is completed.*
+ 
 -----------------------
 
 ## Mappool
 
-Mappools will be revealed one week in advance of each stage.
+ *The mappools will be revealed one week in advance for each stage.*
 
 ------------------------------------------------------------------------
 
@@ -72,21 +72,22 @@ Mappools will be revealed one week in advance of each stage.
 ### Tournament Rules
 
 1. The Asian Taiko Showdown is a one-on-one tournament, played on the osu!taiko game mode.
-2. In order for your registration to count, You must meet following condition:
+2. In order for your registration to count, you must meet following conditions:
     - Participant must fill out the provided form.
-    - Participant's Flag on their profile must be a country from **Asia Continent.**
+    - Participant's Flag on their profile must be a country from **Asia.**
     - Maximum Performace Points (PP) allowed for participant to register is **8,500pp.**
-    - Participant's account must be **6 months old or above.**
+    - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
-6. Failed plays will result on enemy's winning.
-7. If the beatmap ends in a draw, the game will be nullified and proceed to next pick by next player.
-8. The maximum tolerance to attend is **10 minutes.**
-9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
+6. Failed plays will result with the enemy's team winning by default.
+7. If the match ends in a draw, the game will be nullified and proceed to the next pick, selected by the next player.
+8. If a player doesn't show up within **10 minutes** of the start time, the enemy team wins by default.
+9. If a player disconnects, it will be treated as if they failed the map.
+   - Disconnects within 30 seconds after map begin can be rematched.
 
-10. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
+10. If a player disconnects between the beatmaps, the match can be delayed up to 10 minutes max.
+   - In case the disconnected player exceed 10 minutes max. this will result with the enemy's team winning by default.
 11. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 12. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 
@@ -107,8 +108,8 @@ Mappools will be revealed one week in advance of each stage.
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
-3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
-4. Beatmap selection will alternate between each player selecting a beatmap out of the map pool.
+3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
+4. Beatmap selection will alternate between each player selecting a beatmap out of the mappool.
 5. Each player must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning.
@@ -131,7 +132,7 @@ Mappools will be revealed one week in advance of each stage.
 8. The tiebreaker will be played under NoMod conditions.
    - In case of a tie, the tiebreaker will be replayed again with FreeMod activated.
 
-8. The map pool consists of following format:
+8. The mappool consists of following format:
    - 5 NoMod
    - 2 Hidden
    - 2 HardRock
