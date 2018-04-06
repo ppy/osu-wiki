@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Na początek
 
 Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
