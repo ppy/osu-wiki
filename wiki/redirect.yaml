@@ -82,6 +82,7 @@
 "osu!/hard":                         "Difficulties/Hard"
 "osu!/insane":                       "Difficulties/Insane"
 "osu!/expert":                       "Difficulties/Expert"
+"easy":                              "Difficulties/Easy"
 "normal":                            "Difficulties/Normal"
 "hard":                              "Difficulties/Hard"
 "insane":                            "Difficulties/Insane"
@@ -139,6 +140,8 @@
 "taiko":                                "Game_Modes/osu!taiko"
 
 "game_modifier":               "Game_Modifiers"
+"mods":                        "Game_Modifiers"
+"mod":                         "Game_Modifiers"
 "modifiers":                   "Game_Modifiers"
 "modifier":                    "Game_Modifiers"
 "game_mods/summary":           "Game_Modifiers/Summary"
@@ -157,6 +160,7 @@
 "coop":                        "Game_Modifiers/#co-op"
 "easy_mod":                    "Game_Modifiers/#easy"
 "easy_mode":                   "Game_Modifiers/#easy"
+"ez":                          "Game_Modifiers/#easy"
 "double_time":                 "Game_Modifiers/#double-time"
 "doubletime":                  "Game_Modifiers/#double-time"
 "dt":                          "Game_Modifiers/#double-time"
@@ -221,6 +225,7 @@
 "approach_circle":             "Glossary/#approach-circle"
 "aspire":                      "Glossary/#aspire"
 "authentic":                   "Glossary/#authentic"
+"bancho":                      "Glossary/#bancho"
 "beat":                        "Glossary/#beat"
 "beat_spacing":                "Glossary/#beat-spacing"
 "beatmapid":                   "Glossary/#beatmapid"
@@ -766,8 +771,6 @@
 "medals/beatmap_packs_0916":       "Medals/Beatmap_Packs_0916"
 "achievements/beatmap_packs_0916": "Medals/Beatmap_Packs_0916"
 "beatmap_packs_0916":              "Medals/Beatmap_Packs_0916"
-
-"mods": "Mod"
 
 "modded":                      "Modding"
 
