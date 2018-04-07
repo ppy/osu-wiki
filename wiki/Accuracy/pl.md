@@ -1,12 +1,12 @@
 # Precyzja
 
-Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
-
+Precyzja to wartość określająca dokładność gracza. Obecnie wyróżniamy trzy typy precyzji, możliwych do zdobycia. Pierwsza, to precyzja na danej beatmapie, zależna od zdobytych . Kolejna, to precyzja gracza, będąca średnią wszystkich osiągniętych wyników. Ostatnia, to precyzja [pp](/wiki/pp) gracza, zależna od precyzji na osiągniętych wynikach.
+s
 ## Tryby gry
 
 ### osu!standard
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_standard.png "Wzór na precyzję dla osu!standard")
 
 In osu!standard, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
 
@@ -21,13 +21,13 @@ Reference for one hit circle:
 
 ### osu!taiko
 
-![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![Precyzja = 0.5(liczba GOOD + liczba GREAT) / (liczba BAD + liczba GOOD + liczba GREAT)](img/accuracy_taiko.png "Wzór na precyzję dla osu!taiko")
 
 In osu!taiko, accuracy is calculated by taking the sum of the note accuracy divided by the number of notes. The note accuracy are as follows: a GREAT (良) counts as 100%, GOOD (可) as 50% (half), and MISS/BAD (不可) as 0% (which also breaks the combo). Drum rolls and spinners do not influence the accuracy.
 
 ### osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
+![Precyzja = (liczba droplets + liczba drops + liczba fruits) / (liczba missed droplets + liczba missed drops + liczba missed fruits + liczba droplets + liczba drops + liczba fruits)](img/accuracy_catch.png "Wzór na precyzję dla osu!catch")
 
 In osu!catch, accuracy is calculated by taking the total of non-spinner hit objects collected divided by the total number of non-spinner objects. All hit objects have the same value, except for bananas, as they are part of the spinner object.
 
@@ -35,9 +35,9 @@ In osu!catch, accuracy is calculated by taking the total of non-spinner hit obje
 
 ### osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 200 \* liczba 200 + 300 \* liczba 300 + 300 \* liczba MAX) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 200 + liczba 300 + liczba MAX)](img/accuracy_mania.png "Wzór na precyzję dla osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!standard](#osu!standard).
+Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standard](#osu!standard).
 
 ## Wykres wyniku
 
@@ -63,14 +63,14 @@ Unstable rate represents the consistency of the timing of the hits, where lower 
 
 ### Kręcenie spinnerami
 
-*Note: Spin is only used for [osu!standard](/wiki/osu!standard).*
+*Ważne: Wartość ta jest dostępna tylko dla trybu [osu!standard](/wiki/osu!standard).*
 
-In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
+Dodatkowo, w etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 
 #### Prędkość
 
-Speed represents the average RPM (revolutions per minute) on all the spinners in the beatmap. Max is the highest RPM achieved in any of the beatmap's spinners.
+Prędkość oznacza średnią wartość RPM (obroty na minutę) na wszystkich spinnerach danej beatmapy. Max to największa wartość RPM osiągnięta na spinnerach danej beatmapy.
 
 #### Wskaźnik dokładności
 
-Unstable rate represents the average against Max deviation, where lower numbers are better. Formula is unknown.
+Wskaźnik dokładności określa średnie odchylenie od wartości Max, gdzie im mniejsza jest jego wartość, tym lepszy jest wynik. Wzór jest nieznany.
