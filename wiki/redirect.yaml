@@ -82,7 +82,6 @@
 "osu!/hard":                         "Difficulties/Hard"
 "osu!/insane":                       "Difficulties/Insane"
 "osu!/expert":                       "Difficulties/Expert"
-"easy":                              "Difficulties/Easy"
 "normal":                            "Difficulties/Normal"
 "hard":                              "Difficulties/Hard"
 "insane":                            "Difficulties/Insane"
@@ -99,6 +98,12 @@
 "oni":                               "Difficulties/Oni"
 "ura_oni":                           "Difficulties/Ura_Oni"
 "inner_oni":                         "Difficulties/Ura_Oni"
+
+"bancho": "Disambiguation/Bancho"
+"easy": "Disambiguation/Easy"
+"ez": "Disambiguation/EZ"
+"mods": "Disambiguation/Mod"
+"mod": "Disambiguation/Mod"
 
 "doyoureallywanttoaskpeppy":       "Do_you_really_want_to_ask_peppy"
 
@@ -140,8 +145,6 @@
 "taiko":                                "Game_Modes/osu!taiko"
 
 "game_modifier":               "Game_Modifiers"
-"mods":                        "Game_Modifiers"
-"mod":                         "Game_Modifiers"
 "modifiers":                   "Game_Modifiers"
 "modifier":                    "Game_Modifiers"
 "game_mods/summary":           "Game_Modifiers/Summary"
@@ -160,7 +163,6 @@
 "coop":                        "Game_Modifiers/#co-op"
 "easy_mod":                    "Game_Modifiers/#easy"
 "easy_mode":                   "Game_Modifiers/#easy"
-"ez":                          "Game_Modifiers/#easy"
 "double_time":                 "Game_Modifiers/#double-time"
 "doubletime":                  "Game_Modifiers/#double-time"
 "dt":                          "Game_Modifiers/#double-time"
@@ -225,7 +227,6 @@
 "approach_circle":             "Glossary/#approach-circle"
 "aspire":                      "Glossary/#aspire"
 "authentic":                   "Glossary/#authentic"
-"bancho":                      "Glossary/#bancho"
 "beat":                        "Glossary/#beat"
 "beat_spacing":                "Glossary/#beat-spacing"
 "beatmapid":                   "Glossary/#beatmapid"
