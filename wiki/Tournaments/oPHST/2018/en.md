@@ -98,6 +98,21 @@ An initial list of participants may be found on [this spreadsheet](https://docs.
 
 Mappools will be revealed one week in advance of each stage.
 
+### Qualifiers
+
+#### osu!standard
+
+[**Download the Mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
+
+- NoMod
+	- [dj TAKA - quaver (Monstrata) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/917129)
+- Hidden
+	- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! (Shioi) \[Dan Dan\]](https://osu.ppy.sh/beatmaps/949011)
+- Hard Rock
+	- [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
+- Double Time
+	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
+
 ------------------------
 
 ## Rules
