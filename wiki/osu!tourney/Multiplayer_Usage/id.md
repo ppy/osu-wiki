@@ -20,9 +20,9 @@ Nama-nama tim (`Nama Tim 1` dan `Nama Tim 2`) dapat diganti sesuai keinginan, **
 
 _Lihat juga: [Perintah Pengaturan Turnamen](/wiki/osu!tourney/Tournament_Management_Commands "Perintah Pengaturan Turnamen")_
 
-Pastikan untuk memberikan slot yang benar untuk pemain yang bergabung dengan ruangan menggunakan perintah `!mp move` dan`!mp team`.
+Pastikan untuk memberikan slot yang benar untuk pemain yang bergabung ke ruangan dengan menggunakan perintah `!mp move` dan`!mp team`.
 
-Seperti yang dijelaskan dalam [panduan untuk spektator](/wiki/osu!tourney/Spectator_Usage), setiap jendela di klien ditetapkan ke slot di lobi multiplayer. Setelah mengatur nilai `TeamSize` dalam file `tournament.cfg`, tim biru akan menempati slot-slot `TeamSize` pertama dan tim merah akan menempati slot ` TeamSize` yang di bawahnya.
+Seperti yang dijelaskan dalam [panduan penggunaan untuk spektator](/wiki/osu!tourney/Spectator_Usage), setiap jendela di klien ditetapkan ke slot di lobi multiplayer. Setelah mengatur nilai `TeamSize` dalam file `tournament.cfg`, tim biru akan menempati slot-slot `TeamSize` pertama dan tim merah akan menempati slot ` TeamSize` yang di bawahnya.
 
 Misalnya, dengan nilai `TeamSize = 4`, slot ke-1, ke-2, ke-3, dan ke-4 akan menjadi milik tim biru, dan slot ke-5, ke-6, ke-7, dan ke-8 akan menjadi milik tim merah. Dengan nilai `TeamSize = 3`, slot ke-1, ke-2, dan ke-3 akan menjadi milik tim biru, dan slot ke-4, ke-5, dan ke-6 akan menjadi milik tim merah.
 
