@@ -1,16 +1,17 @@
 # Precyzja
 
-Precyzja to wartość określająca dokładność gracza. Obecnie wyróżniamy trzy typy precyzji, możliwych do zdobycia. Pierwsza, to precyzja na danej beatmapie, zależna od zdobytych . Kolejna, to precyzja gracza, będąca średnią wszystkich osiągniętych wyników. Ostatnia, to precyzja [pp](/wiki/pp) gracza, zależna od precyzji na osiągniętych wynikach.
-s
+Precyzja to wartość określająca dokładność gracza. Obecnie wyróżniamy trzy typy precyzji, możliwych do zdobycia. Pierwsza, to precyzja na danej beatmapie, zależna od zdobytych <hit points>. Kolejna, to precyzja gracza, będąca średnią wszystkich osiągniętych wyników. Ostatnia, to precyzja [pp](/wiki/pp) gracza, zależna od precyzji na osiągniętych wynikach.
+
 ## Tryby gry
 
 ### osu!standard
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_standard.png "Wzór na precyzję dla osu!standard")
 
-In osu!standard, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
 
-Reference for one hit circle:
+W trybie osu!standard precyzja jest liczona poprzez zsumowanie zdobytych <hit points> pomnożonych przez ich wartości i podzielenie tej sumy przez największą możliwą wartość. 
+
+Wartości dla jednego kółka:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
@@ -23,15 +24,15 @@ Reference for one hit circle:
 
 ![Precyzja = 0.5(liczba GOOD + liczba GREAT) / (liczba BAD + liczba GOOD + liczba GREAT)](img/accuracy_taiko.png "Wzór na precyzję dla osu!taiko")
 
-In osu!taiko, accuracy is calculated by taking the sum of the note accuracy divided by the number of notes. The note accuracy are as follows: a GREAT (良) counts as 100%, GOOD (可) as 50% (half), and MISS/BAD (不可) as 0% (which also breaks the combo). Drum rolls and spinners do not influence the accuracy.
+W trybie osu!taiko precyzja jest liczona poprzez zsumowanie trafionych obietków i podzielenie ich przez liczbę wszystkich obiektów. Wartości obiektów są następujące: GREAT (良) liczy się jako 100%, GOOD (可) jako 50% (połowa) i MISS/BAD (不可) jako 0% (przerywa także combo). Drum rolle i spinnery nie mają wpływu na precyzję.
 
 ### osu!catch
 
-![Precyzja = (liczba droplets + liczba drops + liczba fruits) / (liczba missed droplets + liczba missed drops + liczba missed fruits + liczba droplets + liczba drops + liczba fruits)](img/accuracy_catch.png "Wzór na precyzję dla osu!catch")
+![Precyzja = (liczba dropletów + liczba dropów + liczba owoców) / (liczba niezłapanych dropletów + liczba niezłapanych dropów + liczba niezłapanych owoców + liczba dropletów + liczba dropów + liczba owoców)](img/accuracy_catch.png "Wzór na precyzję dla osu!catch")
 
-In osu!catch, accuracy is calculated by taking the total of non-spinner hit objects collected divided by the total number of non-spinner objects. All hit objects have the same value, except for bananas, as they are part of the spinner object.
+W trybie osu!catch precyzja jest liczona poprzez zsumowanie wszystkich złapanych obiektów nie licząc bananów i podzielenie ich przez sumę wszystkich obiektów nie licząc bananów. Wszystkie obiekty mają taką samą wartość oprócz bananów, które są częscią spinnera.
 
-*Note for API users: To calculate the accuracy in osu!catch, number of droplets are under `count50` and number of missed droplets are under `countkatu`.*
+*Ważne dla użytkowników API: Aby obliczyć precyzję w trybie osu!catch, liczba dropletów znajduje się pod `count50`, a liczba niezłapanych dropletów pod `countkatu`.*
 
 ### osu!mania
 
@@ -41,25 +42,25 @@ Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standa
 
 ## Wykres wyniku
 
-![Performance graph](img/performance_graph.jpg "Performance graph")
+![Wykres wyniku](img/performance_graph.jpg "Wykres wyniku")
 
-The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
+Wykres wyniku, to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem na wykres.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching an exported replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
+*Note: Dodatkowe informacje wyświetlą się tylko po zagraniu beatmapy lub oglądaniu eksportowanej powtórkiy. Po wyjściu z [ekranu wyniku](/wiki/results_screen), informacje te nie zostaną zapisane.*
 
 ### Precyzja
 
-When hovering over the performance graph, a tooltip is displayed with an *Error* and *Unstable Rate*.
+Po najechaniu na wykres wyniku, wyświetli się etykieta z *Zakresem błędu* i *Wskaźnikiem dokładności*.
 
-Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing DT, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing HT.
+Z powodu sposobu wprowadzenia modyfikatorów [DT](/wiki/DT) (Double Time) i [HT](/wiki/HT) (Half Time), zakres błędu i wskaźnik dokładności zostaną pomnożone przez taką samą wartość co piosenka. Aby uzyskać prawdziwe wartości, podziel je przez 1.5 przy DT lub pomnóż przez 1.33 przy HT.
 
 #### Zakres błędu
 
-Error will always display two values which represents how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Overall_Difficulty) value of the beatmap is, the lower the Error values will have to be to do well when playing the beatmap.
+Zakres błędu wyświetla dwie wartości ukazujące średni czas w którym obiekty były naciskane za wcześnie i za późno. Im większa jest [Precyzja (OD)](/wiki/Overall_Difficulty) beatmapy, tym mniejsze będą musiały być te wartości, aby uzyskać dobry wynik.
 
 #### Wskaźnik dokładności
 
-Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
+Wskaźnik dokładności określa dokładność gracza w podążaniu za rytmem, gdzie im mniejsza jest jego wartość, tym lepszy jest wynik (najlepsi gracze często uzyskują wynik poniżej 100). Miej na uwadze, że ma tu znaczenie dokładność, nie precyzja, dlatego stałe klikanie 15ms za wcześnie będzie znaczyło to samo, co klikanie "na czas". Wzór to to wychylenie od zakresu błędu (w milisekundach) pomnożone przez 10.
 
 ### Kręcenie spinnerami
 
