@@ -29,9 +29,9 @@ Asian Taiko Showdown 2018
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special Profile Badge, Userpage Banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage Banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage Banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge, Userpage banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
  *The remaining prizes are to be decided.*
 
@@ -60,7 +60,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ## Participants
 
- *The participants will be listed once the registration phase is completed.*
+ *The participants will be listed once the registration phase is finished.*
  
 -----------------------
 
@@ -74,6 +74,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ### Tournament Rules
 
 1. The Asian Taiko Showdown is a one-on-one tournament, played on the osu!taiko game mode.
+
 2. In order for your registration to count, you must meet following conditions:
     - Participant must fill out the provided form.
     - Participant's Flag on their profile must be a country from **Asia.**
@@ -87,7 +88,6 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 8. If a player doesn't show up within **10 minutes** of the start time, the enemy wins by default.
 9. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched.
-
 10. If a player disconnects between the beatmaps, the match can be delayed up to 10 minutes max.
     - In case the disconnected player exceed 10 minutes max. this will result with the enemy's winning by default.
 11. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -98,9 +98,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 1. In the first stage (Group Stage), the players will be divided into 8 groups of 4 players.
 
 2. All the players from each group will face each other.
-
 3. The top 2 players of each group will move on to the Knock-Out Stages.
-
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 
 ### Match Instructions
@@ -108,14 +106,13 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!taiko, Head To Head, Win Condition: 'Score V2'. Room name must be "ATS 2018: (TeamBlue) vs (TeamRed)".
    - The player mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-
 2. Each player is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
 4. Beatmap selection will alternate between each player selecting a beatmap out of the mappool.
+
 5. Each player must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning.
-
 6. Players may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 
@@ -123,7 +120,6 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-
 2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
@@ -133,8 +129,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 8. The tiebreaker will be played under NoMod conditions.
    - In case of a tie, the tiebreaker will be replayed again with FreeMod activated.
-
-8. The mappool consists of following format:
+9. The mappool consists of following format:
    - 5 NoMod
    - 2 Hidden
    - 2 HardRock
