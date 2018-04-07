@@ -9,13 +9,13 @@ The Ranking Charts for December 2016 have been released and can be found [here](
 
 <!-- more -->
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 + **[KikuoHana - Nobore! Susume! Takai Tou](https://osu.ppy.sh/s/528821) by [Karen](https://osu.ppy.sh/u/3143784)** (Nominator: [Desperate-kun](https://osu.ppy.sh/u/2202645))
 
@@ -44,11 +44,11 @@ An absolutely breathtaking experience to behold. Even though it's spboxer3's fir
 pishifat contributing another really well-mapped Apocalyptica map to the ranked section is no surprise anymore. The song's pace varies a lot, so does the map and its patterns. Playing this one feels like an adventure similar to sailing the seven seas. 'BOUYAAA's Extra' provides a less stressful experience for those players who can't handle the challenges 'Extreme' provides.
 
 
-###osu!taiko
+### osu!taiko
 
 + **[KOTOKO - Koi Kou Enishi](https://osu.ppy.sh/s/485249) by [JUDYDANNY](https://osu.ppy.sh/u/1165475)** (Nominator: [qoot8123](https://osu.ppy.sh/u/766371))
 
-Although there aren't any extra-rated map,the structure of this set is rather solid and almost flawless, especially Oni. JUDYDANNY uses kat not only follow the snare of the song, but also vocal and instrument. And he manages to make balance with every instrument every well. It lead to rather solid structure and flow which is very impressive to me. 
+Although there aren't any extra-rated map,the structure of this set is rather solid and almost flawless, especially Oni. JUDYDANNY uses kat not only follow the snare of the song, but also vocal and instrument. And he manages to make balance with every instrument every well. It lead to rather solid structure and flow which is very impressive to me.
 Moreover, other difficulties also mapped in similar idea like oni. No matter the usage of break or highest snapped patterns, he mapped them on correct place. All in all, this set is quite nicely mapped and worth to be one of maps in December chart!
 
 + [Muzzy - Endgame](https://osu.ppy.sh/s/519474) by [gaston_2199](https://osu.ppy.sh/u/5938161) (Nominator: [Ntiger](https://osu.ppy.sh/u/1910766))
@@ -72,7 +72,7 @@ Who is this dude called Ntiger? Anyway, this dude called Ntiger has created some
 The structure in Oni by qoot8123 is way beyond "solid" or "sophisticated". It might seem mundane, but trust me, you can't pick any flaws no matter how hard you try. The Oni difficulty offers a very Authentic (Taiko no Tatsujin) style like structure. The map mostly features simple triplet, pentaplets, and slightly more complex but short streams; a perfect combination of good song and good map for beginners sharpen their skills. As of the lower difficulties by Sh1n1, they are once again very well structured. On top of that, the spread between each difficulties are well set. Overall, a very well-done set.
 
 
-###osu!catch
+### osu!catch
 
 + **[Hecq - Dstrukt](https://osu.ppy.sh/s/511538) by [JBHyperion](https://osu.ppy.sh/u/4879508)** (Nominator: [Yuii-](https://osu.ppy.sh/u/2935923))
 
@@ -100,9 +100,9 @@ While Satellite's maps are usually easy in osu!catch this is somewhat an excepti
 
 
 
-###osu!mania
+### osu!mania
 
-+ **[w_tre respect for AT&HU - Schur's Theorem](https://osu.ppy.sh/s/258553) by [Nivrad00](https://osu.ppy.sh/u/1984634)** (Nominator: [Jinjin](https://osu.ppy.sh/u/3360737))
++ **[w\_tre respect for AT&HU - Schur's Theorem](https://osu.ppy.sh/s/258553) by [Nivrad00](https://osu.ppy.sh/u/1984634)** (Nominator: [Jinjin](https://osu.ppy.sh/u/3360737))
 
 A map of a song with a linear algebra reference can't ever go wrong, am I right? Nivrad00 comes back to the ranked map scene once more featuring very technical structures! Every difficulty is appropriately mapped in terms of patterning and overall strain, and the highest difficulty includes some finger-breaking bursts and trills! It's also pretty neat to see that Nivrad00 (being a piano player himself) managed to make the map feel as if one was playing the piano. Well executed in terms of pitch relevance and chord structuring. Master this map, and you will be one step closer to moving up in the ranking columns and raising your rank! (Sorry for this terrible linear algebra pun)
 
@@ -132,10 +132,10 @@ It makes me more than happy to see finally another German osu!mania beatmapper. 
 **The December 2016 ranking charts will end on the 15th February 2017.**
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system for the charts, we have to halt the release of the winners of the past charts. We apologize for the inconvenience and hope to reactivate the score system soon!
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
 —OnosakiHito

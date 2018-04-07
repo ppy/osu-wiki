@@ -7,12 +7,12 @@ tumblr_url: http://osunews.tumblr.com/post/146609981558/osumania-4k-world-cup-20
 ---
 We'd like to welcome all of you to this year's official osu!mania 4K World Cup. As usual, the rules have been adjusted from the previous MWC 4K, so please **[read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016/4K#Ruleset)** before registering for this tournament.
 
-<center><img src="http://puu.sh/pJ9Ml/8d6f0d1b51.png"></center>
+![](http://puu.sh/pJ9Ml/8d6f0d1b51.png)
 
 For more details, refer to the **[osu!mania 4K World Cup 2016 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016/4K)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/472027)**.
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 28 Jun - 17 Jul 2016
 + Live Drawings: 31 Jul 2016 14:00 UTC+0
@@ -23,7 +23,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + Finals - Week 1: 03-04 Sep 2016
 + Finals - Week 2: 10-11 Sep 2016
 
-##What has been changed?
+## What has been changed?
 
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We added a cash prize pool for this competition! Additionally, everyone is able to support funding this prize pool by purchasing support banners for their user profile when available.
@@ -31,7 +31,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + We adjusted the mappool size and ban amounts for balancing purposes. Teams may only ban 1 beatmap each per match now. All mappools now have a constant size of 15 across all stages, with 10 NoMod, 4 FreeMod and 1 Tiebreaker beatmap.
 + We will use ScoreV2 for this tournament. Check out **[this thread](https://osu.ppy.sh/forum/t/466617)** for more information.
 
-##Prizes
+## Prizes
 
 We are aiming to have a $1,900 cash prize pool for this world cup. You can support raising this amount of money. We will publish a method for that, as soon as we have it available!
 
@@ -39,10 +39,10 @@ We are aiming to have a $1,900 cash prize pool for this world cup. You can suppo
 + 2nd: 38% of the raised prize pool, profile badge
 + 3rd: 12% of the raised prize pool, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://new.ppy.sh/tournaments/6)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
++ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **17. July 2016.**
 
 Note that you can only participate if you are of a **osu!mania global ranking of #5000 or higher and did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.

@@ -41,6 +41,7 @@ In osu!web, the total play time was implemented in user profiles. Elasticsearch 
 The Community Choice 2017 results were released with Doormat, Backfire, Ascendance, and Protastic101 winning the community's vote in osu!standard, osu!taiko, osu!catch, and osu!mania respectively.
 
 Links:
+
 - [dev changelog 20180206 – ppy blog](https://blog.ppy.sh/dev-changelog-20180206/)
 - [ppy/osu#2003](https://github.com/ppy/osu/pull/2003)
 - [ppy/osu#2011](https://github.com/ppy/osu/pull/2011)
@@ -60,3 +61,27 @@ Links:
 - [ppy/osu-web#2409](https://github.com/ppy/osu-web/pull/2409)
 - [ppy/osu-web#2449](https://github.com/ppy/osu-web/pull/2449)
 - [ppy/osu-web#2448](https://github.com/ppy/osu-web/pull/2448)
+
+## March
+
+Trial & Error was introduced as a new Featured Artist.
+
+In osu!lazer, basic skinning support was implemented. The parallax effect was reduced during gameplay.
+
+In osu!web, the play history and watch replay history graphs (the design is temporary) and post count in the user profiles were added. The mobile view of the website will now have a dedicated search box. The page titles were rearranged to prioritise the page name (rather than the game's name) allow easier navigation between tabs. The forum search results are threaded.
+
+On 2018-03-13, peppy opened the #ranking-procedures channel in the osu!dev Discord to give BNs and QATs an area to discuss topics they want actioned upon. This was done so allow more transparent and open discussion, but to also prevent outsiders from assuming that the "osu! staff" are the ones who were making decisions BNs and QATs make.
+
+MWC 7K 2018 concluded with South Korea, Malaysia, and China taking first, second, and third place respectively.
+
+Links:
+
+- [New Featured Artist: Trial & Error](https://osu.ppy.sh/home/news/2018-03-06-new-featured-artist-trial-and-error)
+- [dev changelog 20180306 – ppy blog](https://blog.ppy.sh/dev-changelog-20180306/)
+- [ppy/osu#2134](https://github.com/ppy/osu/pull/2134)
+- [ppy/osu-web#2608](https://github.com/ppy/osu-web/pull/2608)
+- [ppy/osu-web#2597](https://github.com/ppy/osu-web/pull/2597)
+- [ppy/osu-web#2578](https://github.com/ppy/osu-web/pull/2578)
+- [ppy/osu-web#2531](https://github.com/ppy/osu-web/pull/2531)
+- [ppy/osu-web#2332](https://github.com/ppy/osu-web/pull/2332)
+- [osu!mania 7K World Cup 2018 Concludes](https://osu.ppy.sh/home/news/2018-03-22-mwc-7k-2018-concludes)

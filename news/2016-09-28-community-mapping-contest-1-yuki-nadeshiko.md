@@ -8,9 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/151057958633/community-mapping-contes
 Another talented artist emerges as an official osu!musician. To celebrate, we're holding a brand new collaborative community mapping contest in a brand new, never-before-seen format with community voting! Come check it out!
 <!-- more -->
 
-<center>
 ![](http://puu.sh/rqLHx/42a523ea5c.jpg)
-</center>
 
 We're back at last with a new mapping contest! To formally usher in our newest osu!musician, we've decided to hold **an all-modes mapping contest with a brand new twist**. [**yuki.**](https://new.ppy.sh/beatmaps/artists/4) has stepped up to the plate alongside [IAHN](https://new.ppy.sh/beatmaps/artists/3), [cYsmix](https://new.ppy.sh/beatmaps/artists/2) and [nekodex](https://new.ppy.sh/beatmaps/artists/1) to form our first set of featured artists.
 
@@ -18,14 +16,14 @@ We're back at last with a new mapping contest! To formally usher in our newest o
 
 Don't just take our word for it, give yuki.'s first osu! exclusive track track a listen, titled **Nadeshiko Sensation**:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LD3kF295A8A?rel=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LD3kF295A8A?rel=0&controls=0" frameborder="0" allowfullscreen></iframe>
 
 Interested? Good, here's the details about the contest proper:
 
 * **Only a single difficulty will be accepted per *difficulty tier* per gamemode**. To clarify, difficulty tiers are represented by the standard range of difficulty - **Easy, Normal, Hard, Insane, Extra** as represented by star rating in the game client.
     * *For the purposes of the above, any difficulty above 5.5 stars will be considered as an Extra difficulty.*
     * *You may also submit a full set for one gamemode consisting of a maximum of one difficulty for each difficulty tier.*
-    * ***You are not required to submit an entry for each difficulty tier if you do not want to.** You may skip tiers completely, but you may only ever submit one of each tier.*
+    * _**You are not required to submit an entry for each difficulty tier if you do not want to.** You may skip tiers completely, but you may only ever submit one of each tier._
 * **Each game-mode will be listed as a separate contest in the contest system**. Users that wish to participate in multiple gamemodes must submit at least one difficulty for each gamemode that they're interested in.
 * **Difficulties will be grouped within their specific difficulty tiers per gamemode and then opened to a community vote (using the new contest system) to determine the winner for each tier.** The most popular entry will be considered the winning difficulty for that gamemode, *and will be bundled together with the winners of the other difficulty tiers in the winning mapset.*
     * *For example, all of the 1-2 star maps submitted for the osu!standard gamemode will be competing for the same spot, and so on for each gamemode and difficulty tier.*
