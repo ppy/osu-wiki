@@ -1,8 +1,8 @@
-# Accuracy
+# Precyzja
 
 Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
 
-## Game modes
+## Tryby gry
 
 ### osu!standard
 
@@ -39,7 +39,7 @@ In osu!catch, accuracy is calculated by taking the total of non-spinner hit obje
 
 In osu!mania, accuracy is calculated similarly to [osu!standard](#osu!standard).
 
-## Performance graph
+## Wykres wyniku
 
 ![Performance graph](img/performance_graph.jpg "Performance graph")
 
@@ -47,30 +47,30 @@ The performance graph is a chart that displays the player's performance (based o
 
 *Note: The additional information can only be viewed after playing a beatmap or watching an exported replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
 
-### Accuracy
+### Precyzja
 
 When hovering over the performance graph, a tooltip is displayed with an *Error* and *Unstable Rate*.
 
 Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing DT, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing HT.
 
-#### Error
+#### Zakres błędu
 
 Error will always display two values which represents how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Overall_Difficulty) value of the beatmap is, the lower the Error values will have to be to do well when playing the beatmap.
 
-#### Unstable rate
+#### Wskaźnik dokładności
 
 Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
 
-### Spin
+### Kręcenie spinnerami
 
 *Note: Spin is only used for [osu!standard](/wiki/osu!standard).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
 
-#### Speed
+#### Prędkość
 
 Speed represents the average RPM (revolutions per minute) on all the spinners in the beatmap. Max is the highest RPM achieved in any of the beatmap's spinners.
 
-#### Unstable rate
+#### Wskaźnik dokładności
 
 Unstable rate represents the average against Max deviation, where lower numbers are better. Formula is unknown.
