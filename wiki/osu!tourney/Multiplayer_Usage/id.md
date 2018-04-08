@@ -16,9 +16,9 @@ Nama-nama tim (`Nama Tim 1` dan `Nama Tim 2`) dapat diganti sesuai keinginan, **
 
 ## Pengelolaan Ruangan
 
-### Perintah Pengaturan Turnamen
+### Perintah Pengelolaan Klien Turnamen
 
-_Lihat juga: [Perintah Pengaturan Turnamen](/wiki/osu!tourney/Tournament_Management_Commands "Perintah Pengaturan Turnamen")_
+_Lihat juga: [Perintah Pengelolaan Klien Turnamen](/wiki/osu!tourney/Tournament_Management_Commands "Perintah Pengelolaan Klien Turnamen")_
 
 Pastikan untuk memberikan slot yang benar untuk pemain yang bergabung ke ruangan dengan menggunakan perintah `!mp move` dan`!mp team`.
 
