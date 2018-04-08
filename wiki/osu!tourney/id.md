@@ -10,6 +10,6 @@ Pengguna yang menghadapi **teknis** saat menjalankan klien bisa membaca [panduan
 - [Penggunaan Untuk Multiplayer](/wiki/osu!tourney/Multiplayer_Usage/ "Pembuatan dan penanganan sesi multiplayer")
 - [Penggunaan Untuk Spektator](/wiki/osu!tourney/Spectator_Usage/ "Panduan antarmuka klien osu! Tourney")
 - [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-- [Perintah Pengaturan Turnamen](/wiki/osu!tourney/Tournament_Management_Commands/ "Perintah Pengaturan Turnamen")
+- [Perintah Pengelolaan Klien Turnamen](/wiki/osu!tourney/Tournament_Management_Commands/ "Perintah Pengelolaan Klien Turnamen")
 - [Penyelesaihan Masalah](/wiki/osu!tourney/Troubleshooting/ "Penyelesaihan Masalah")
 - [Hadiah](/wiki/osu!tourney/Prizes/ "Hadiah")

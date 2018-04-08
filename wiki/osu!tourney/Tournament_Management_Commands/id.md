@@ -1,8 +1,8 @@
-# Tournament Management Commands
+# Perintah Pengelolaan Klien Turnamen
 
 _Halaman utama: [osu!tourney](/wiki/osu!tourney)_
 
-Perintah obrolan berikut disediakan untuk pengelolaan jarak jauh ruang turnamen multiplayer:
+ Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen multiplayer:
 
 - `!mp make <name>` - Membuat ruang turnamen dengan nama yang ditentukan. Maksimal ruangan yang dapat dibuat sebanyak 4.
   - Ruangan ini istimewa karena tidak ditutup meskipun semua pemain telah meninggalkan ruangan, dan ruangan ini dilindungi oleh kata sandi untuk mencegah pemain yang tidak diinginkan bergabung ke ruangan.
@@ -17,7 +17,7 @@ Perintah obrolan berikut disediakan untuk pengelolaan jarak jauh ruang turnamen 
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
 - `!mp move <username> <slot>` - Memindahkan pemain di dalam ruangan ke slot yang ditentukan.
 - `!mp host <username>` - Transfer host ke pemain.
-- `!mp clearhost` - Menghapus host pemain.
+- `!mp clearhost` - Menghapus host.
 - `!mp settings` - Menampilkan rincian penuh ruangan.
 - `!mp start [<time>]` - Memulai pertandingan setelah waktu yang ditentukan (dalam detik) atau secara instan jika waktu tidak ditentukan.
 - `!mp abort` - Membatalkan match.
@@ -26,7 +26,7 @@ Perintah obrolan berikut disediakan untuk pengelolaan jarak jauh ruang turnamen 
 - `!mp map <mapid> [<playmode>]` - Mengubah beatmap dan mode yang dimainkan di ruangan.
   - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
 - `!mp mods <mod> [<mod>] [<mod>] …` - Menghapus semua mod yang saat ini diterapkan dan menerapkan mod berikut ke ruangan.
-  - Any amount of mods can be entered.
+  - Mod yang dapat dimasukkan tidak dibatasi.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
 - `!mp timer [<time>]` - Memulai penghitung waktu mundur.
   - `time` standarnya adalah 30s.
@@ -34,11 +34,11 @@ Perintah obrolan berikut disediakan untuk pengelolaan jarak jauh ruang turnamen 
 - `!mp aborttimer` - Menghentikan pengatur waktu saat ini (timer normal dan timer mulai pertandingan).
 - `!mp kick <username>` - Mengeluarkan pemain dari ruangan.
 - `!mp password [<password>]` - Mengubah kata sandi ruangan. Kata sandi akan dihapus jika `<password>` tidak diberikan.
-- `!mp addref <username> [<username>] …` - Menambahkan wasit ke ruangan. Referee yang dapat ditambahkan maksimal 8. Hanya pembuat ruangan yang dapat menambahkan wasit.
+- `!mp addref <username> [<username>] …` - Menambahkan wasit ke ruangan. Wasit yang dapat ditambahkan maksimal 8. Hanya pembuat ruangan yang dapat menambahkan wasit.
   - Wasit harus bergabung ke lobi ruangan dalam game, atau dengan memasuki saluran obrolan ruangan melalui `/join #mp_<room_id>` di IRC.
   - Wasit dapat mengelola ruangan seperti pembuat ruangan, namun mereka tidak dapat menambahkan atau menghapus wasit lain itu sendiri.
   - [Klien osu!tourney](/wiki/osu!tourney "osu!tourney") akan menunjukkan ruang obrolan untuk wasit.
-- `!mp removeref <username> [<username>] …` - Menghapus wasit dari ruangan. Hanya pembuat ruangan yang dapat menghapus wasit.
+- `!mp removeref <username> [<username>] …` - Menghapus hak wasit dari ruangan. Hanya pembuat ruangan yang dapat menghapus hak wasit.
 - `!mp listrefs` - Melihat daftar semua wasit di ruangan.
 - `!mp close` - Menutup ruangan.
 
@@ -49,7 +49,7 @@ Username yang memiliki spasi harus digantikan dengan garis bawah ( `_` ). `#<use
 
 ## Penggunaan
 
-Perintah ini dapat digunakan baik dari dalam osu! atau melalui klien IRC seperti mIRC, HexChat, atau HydraIRC.
+Perintah ini dapat digunakan baik dari dalam maupun luar osu! atau melalui klien IRC seperti mIRC, HexChat, atau HydraIRC.
 
 Host asli dari ruang multiplayer juga dapat menggunakan perintah ini. Jika pembuat ruangan asli keluar, host berikutnya tidak akan mewarisi perintah pembuat ruangan. Host asli dapat menggunakan perintahnya kembali jika mereka bergabung kembali ke ruangan.
 
