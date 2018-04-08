@@ -982,3 +982,31 @@ All users listed below were added on 2017-12-11.
 
 -   Added [Lasse](/users/896613) to the Quality Assurance Team (2018-03-01)
 -   Moved [Stefan](/users/626907) to the Global Moderation Team (2018-03-11)
+-   Moved [Okoratu](/users/1623405) to the osu! Alumni and Beatmap Nominators (2018-03-18)
+-   Moved [shARPII](/users/776257) to the osu! Alumni  
+-   Added [-Mo-](/users/2202163) to the Quality Assurance Team (2018-03-22)
+-   Added [Gabe](/users/654108) to the Quality Assurance Team (2018-03-22)
+-   Added [Lanturn](/users/1446665) to the Quality Assurance Team (2018-03-22)
+-   Added [Mir](/users/8688812) to the Quality Assurance Team (2018-03-22)
+
+#### BN removals
+
+-   Removed [Naotoshi](/users/5364763) from the Beatmap Nominators due to resignation (2018-03-11)
+-   Removed [xfraczynho](/users/2192669) from the Beatmap Nominators due to resignation (2018-03-19)
+
+#### NewBN additions
+
+-   Added [Nepuri](/users/6637817) to the Beatmap Nominators (2018-03-12)
+-   Added [-Kazu-](/users/920861) to the Beatmap Nominators (2018-03-12)
+-   Added [Faputa](/users/845733) to the Beatmap Nominators (2018-03-12)
+-   Added [hikikochan](/users/6512678) to the Beatmap Nominators (2018-03-12)
+-   Added [Ascendance](/users/2931883) to the Beatmap Nominators (2018-03-12)
+-   Added [Sanyi](/users/7496029) to the Beatmap Nominators (2018-03-12)
+-   Added [JeirYagtama](/users/7483452) to the Beatmap Nominators (2018-03-12)
+-   Added [Arzenvald](/users/3027421) to the Beatmap Nominators (2018-03-12)
+-   Added [AJamez](/users/7890134) to the Beatmap Nominators (2018-03-19)
+-   Added [error_exe777](/users/7975796) to the Beatmap Nominators (2018-03-19)
+
+### April
+
+-   Moved [Zetera](/users/587737) to the osu! Alumni (2018-04-06)
