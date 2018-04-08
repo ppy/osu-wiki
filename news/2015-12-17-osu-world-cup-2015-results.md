@@ -5,17 +5,17 @@ permalink: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-result
 date: 2015-12-17 14:07:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-results
 ---
-The osu! World Cup 2015 concluded last Sunday with an amazing Grand Final. In an unexpected turn of events, the United States were able to come back from the loser’s bracket and secure their first osu! World Cup Title against their final opponent: China.
+The osu! World Cup 2015 concluded last Sunday with an amazing Grand Final. In an unexpected turn of events, the United States were able to come back from the loser's bracket and secure their first osu! World Cup Title against their final opponent: China.
 
 ![](http://puu.sh/lYTOx/c1d6f3a2c9.png)
 
-After losing against China in the previous week’s semi-finals, the US team made up for their loss by winning the first match 7-2. However as they were returning from the loser’s bracket, they needed to win not one but *two* matches! The second battle against China was long, exhausting, thrilling and rewarding. With an amazingly close match ending with the tie breaker "gmtn. (witch's slave) - furioso melodia", the United States secured their win at the very last moment! China put up a great fight and are definitely deserving of their second place.. The third place goes to Poland that already secured their slot a week earlier after facing Germany and South Korea! 
+After losing against China in the previous week's semi-finals, the US team made up for their loss by winning the first match 7-2. However as they were returning from the loser's bracket, they needed to win not one but *two* matches! The second battle against China was long, exhausting, thrilling and rewarding. With an amazingly close match ending with the tie breaker "gmtn. (witch's slave) - furioso melodia", the United States secured their win at the very last moment! China put up a great fight and are definitely deserving of their second place.. The third place goes to Poland that already secured their slot a week earlier after facing Germany and South Korea!
 
-If you didn’t catch it live, we highly recommended you check out the recording of the Grand Finals and share in the amazing hype that it was!
+If you didn't catch it live, we highly recommended you check out the recording of the Grand Finals and share in the amazing hype that it was!
 
 <iframe width="760" height="430" src="https://www.youtube.com/embed/JlLTbsG7NQw" frameborder="0" allowfullscreen></iframe>
 
-+ Team United States wins $320 for each player ($2,600 in total), a profile badge and the user title "osu! champion!” for 1 year.
++ Team United States wins $320 for each player ($2,600 in total), a profile badge and the user title "osu! champion!" for 1 year.
 
 + Team China is awarded with $240 for each player ($1,900 in total) and a profile badge!
 
@@ -29,6 +29,6 @@ If you want to learn more about the osu!World Cup 2015, take a look at the [wiki
 
 We would also like to mention that the [osu!mania 7K World Cup 2016](http://osu.ppy.sh/wiki/MWC_7K_2016) is now [open for registrations](http://new.ppy.sh/tournaments/3) (closing this weekend, so hurry)!
 
-Stay tuned, and we’ll see you next time!
+Stay tuned, and we'll see you next time!
 
 —Loctav

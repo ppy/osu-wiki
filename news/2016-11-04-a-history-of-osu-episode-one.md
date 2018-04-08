@@ -10,7 +10,9 @@ As osu! slowly plods along towards its 10 year anniversary and the coming of osu
 
 Over the past 9 years, osu! has undergone a number of changes - from developments in the game's client, to the community and how it is run, and much much more. As we advance further into the future, all of these aspects are likely to keep changing. Sometimes though, it's important to take a step back and look at how we got to where we are.
 
-The first episode of this new multi-part series titled *A History of osu!* focuses purely on the visual design of the game and how it has grown over the years, from humble cartoony beginnings to the sleek avatar of modern design it has become (and is becoming!).<br><br><center><iframe width="560" height="315" src="https://www.youtube.com/embed/cyQ4lW9xOPs?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe></center>
+The first episode of this new multi-part series titled *A History of osu!* focuses purely on the visual design of the game and how it has grown over the years, from humble cartoony beginnings to the sleek avatar of modern design it has become (and is becoming!).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyQ4lW9xOPs?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
 There are many more episodes slated to come, exploring various aspects of the game's development over time such as beatmap design, the introduction of various gamemodes, the development of the game's mascots and much, much more.
 

@@ -7,12 +7,12 @@ tumblr_url: http://osunews.tumblr.com/post/160263921203/osucatch-world-cup-2017-
 ---
 Here we are again with this year's official osu!catch World Cup. As in every year, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://new.ppy.sh/wiki/Tournaments/CWC/2017)** before registering for this tournament.
 
-<center><img src="https://puu.sh/vEfBQ/a6880caeae.png"></center>
+![](https://puu.sh/vEfBQ/a6880caeae.png)
 
 For more details, refer to the **[osu!catch World Cup 2017 wiki article](https://new.ppy.sh/wiki/Tournaments/CWC/2017)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/589552)**.
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 03-14 May 2017
 + Live Drawings: 28 May 2017 14:00 UTC+0
@@ -23,14 +23,14 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + Finals - Week 1: 01-02 Jul 2017
 + Finals - Week 2: 08-09 Jul 2017
 
-##What has been changed?
+## What has been changed?
 
 + We have changed our prize pool to offer unique and exclusive merchandise to all of our podium winners, giving the winners something more special, rewarding and outstanding when competing against the best of the best.
 + We adjusted the mappool structure and size. All pools are now of a size of **16** beatmaps in total, whereas **6** are in the NoMod bracket and **3** are in the Hidden HardRock and DoubleTime brackets respectively, and 1 is the tiebreaker of the pool.
 + We have adjusted the ban amounts for balancing purposes. Teams may only ban **1** beatmap each per match now.
 + Along with opening up the new World Cup season, the graphic design has been renewed to give everything a fresh touch.
 
-##Prizes
+## Prizes
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
@@ -38,10 +38,10 @@ We plan to distribute exclusive and unique merchandise to all our podium winners
 + 2nd: unique item, profile badge
 + 3rd: unique item, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://new.ppy.sh/tournaments/10)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
++ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **14. May 2017.**
 
 Note that you can only participate if you are of a **osu!catch global ranking of #5000 or higher and did not violate the [osu! community rules](https://new.ppy.sh/wiki/Rules) in the past 12 months**.

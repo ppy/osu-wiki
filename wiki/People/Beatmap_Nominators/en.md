@@ -4,7 +4,7 @@
 Beatmap Nominators
 ==================
 
-*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](Beatmap_Nominator_General_Information).*
+*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums.
 
@@ -66,7 +66,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [- Frontier -](https://osu.ppy.sh/users/4314710)      | Thai                     |
 | [ailv](https://osu.ppy.sh/users/6933054)              |                          |
 | [AyanokoRin](https://osu.ppy.sh/users/5376866)        | French                   |
 | [Battle](https://osu.ppy.sh/users/4037545)            |                          |
@@ -117,7 +116,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Strategas](https://osu.ppy.sh/users/2971837)         | Lithuanian               |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
-| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
 
 ### osu!taiko
@@ -127,7 +125,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
 | [Aloda](https://osu.ppy.sh/users/1190127)             |                          |
 | [Arrival](https://osu.ppy.sh/users/1694000)           | French                   |
-| [Faputa](https://osu.ppy.sh/users/845733)             | Chinese                  |
+| [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
 | [frukoyurdakul](https://osu.ppy.sh/users/7612550)     | Turkish                  |
 | [hikikochan](https://osu.ppy.sh/users/6512678)        |                          |
 | [incandescence](https://osu.ppy.sh/users/6256027)     | Some Spanish             |

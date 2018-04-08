@@ -19,7 +19,7 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **__Every__ mapset is approved through two nominations.** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 + **Do not nominate beatmap sets that you contributed to.** This applies to your own maps, collaboration difficulties you participate in as well as beatmaps that you hitsounded or made a storyboard for.
 + **Do not nominate a map directly without any communication with the mapper.** The mapper might have done self-changes after the last icon, so nominating a mapset without communicating with the mapper can lead to pointless disqualifications.
-+ **Do not qualify any beatmaps if you are not yet a full member of the Beatmap Nominators.** Upon joining the Beatmap Nominators you will be put on probation for one to two months where you may only bubble beatmaps and are not allowed to qualify them.
++ **Do not qualify any beatmap if you are not yet a full member of the Beatmap Nominators, unless it was nominated by someone who is.** This ensures that a full nominator is always part of the process. New nominators become full members after 1-2 months depending on how they did in that period.
 + **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the mapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
 + **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them so blocking a nomination without the ability to renominate the beatmap makes no sense.
 + **Do not nominate maps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
@@ -53,4 +53,10 @@ This section lists recent addition to this ruleset as well as rules that are in 
 _Addition date: 2017-04-06, **in effect immediately**_
 + **__Every__ mapset is approved through two nominations** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 
-_Addition date: 2017-06-02, **in effect immediately**_
+_Addition date: 2. June 2017, **in effect immediately**_
++ **At least 24 hours must pass between a first nomination and a qualification on every mapset, *ignoring renominations for minor changes.*** This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
+
+_Change date: 2. Feb 2018, **in effect immediately**_
++ **Do not qualify any beatmap if you are not yet a full member of the Beatmap Nominators, *unless it was nominated by someone who is.*** This ensures that a full nominator is always part of the process. New nominators become full members after 1-2 months depending on how they did in that period.
+
+_Change date: 2. March 2018, **in effect immediately**_

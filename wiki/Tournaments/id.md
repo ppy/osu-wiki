@@ -67,13 +67,25 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06-05-2017 | 14-05-2017 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06-05-2017 | 14-05-2017 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Tahun | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24-06-2017 | 06-08-2017 | - Choma - | [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24-06-2017 | 06-08-2017 | ![][flag_TW] - Choma - | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+
+### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
+
+| Tahun | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [Aus/NZ osu!standard Tournament 5 - Summer (ANZT 5S)](/wiki/Tournaments/ANZT/2018_Summer) | 26-01-2018 | 17-03-2018 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+
+### ![](/wiki/shared/mode/osu.png) SS Tournament
+
+| Tahun | Mulai | Selesai | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018/) | 27-01-2018 | 18-03-2018 | Content is Hot | Sleeping Accommodation | Floating up |
 
 Lihat juga
 ----------
@@ -81,6 +93,7 @@ Lihat juga
 -   [Daftar negara yang berpartisipasi di dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk menyiarkan turnamen)
 
+[flag_AU]: /wiki/shared/flag/AU.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

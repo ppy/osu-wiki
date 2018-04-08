@@ -10,11 +10,11 @@ Los nuevos beatmaps enviados a través del sistema de envío de Beatmaps utiliza
 
 ### Viejos beatmaps
 
-Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](/users/102335) está actualmente a cargo de transferir sets de beatmaps. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
+Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
 
 ### Volviendo al antiguo sistema de modding
 
-Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que pueden usar el sistema antiguo son aquellos con mensajes mod. Si los beatmaps ya usan la Discusión de Beatmaps, el hilo del foro no tendrá un botón de respuesta, sino que se reemplazará con un botón que redirecciona al panel de Discusión de Beatmaps.
+Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que pueden usar el sistema antiguo son aquellos con publicaciones de modificaciónes. Si los beatmaps ya usan la Discusión de Beatmaps, el hilo del foro no tendrá un botón de respuesta, sino que se reemplazará con un botón que redirecciona al panel de Discusión de Beatmaps.
 
 ## Accediendo a la pagina de Discusión de Beatmaps
 
@@ -58,7 +58,7 @@ Todas las modificaciones a continuación son para la dificultad seleccionada. Al
 
 ### Modificación de la línea de tiempo
 
-![](img/timeline.jpg "Modificaciones enviadas, marca de tiempo")
+![](img/timeline.jpg "Modificaciones enviadas, marcas de tiempo")
 
 Esto muestra todas las modificaciones hechas para dicha dificultad que tiene una marca de tiempo. Al hacer clic en estas se desplazará hacia abajo hasta la modificacion publicada en esa marca de tiempo.
 
@@ -68,9 +68,9 @@ Esto muestra todas las modificaciones hechas para dicha dificultad que tiene una
 
 ### Creador del beatmap
 
-Este contiene al creador que envió el set de beatmaps, muestra la fecha de envío y la fecha en que se actualizó el beatmap por última vez.
+Este contiene al creador que envió el beatmapset, muestra la fecha de envío y la fecha en que se actualizó el beatmap por última vez.
 
-### Observar/Dejar de observar
+### Mirar/Dejar de mirar
 
 Esto reemplaza la suscripción de beatmap. Puedes seguir el estado de los beatmaps y los problemas abiertos. Se accede a esta página a través de la página de inicio del sitio web haciendo clic en [`link de la lista de seguimiento de modding`](https://osu.ppy.sh/beatmapsets/watches) ubicado cerca de la parte superior de la página.
 
@@ -82,13 +82,13 @@ El tren del hype es similar al anterior sistema de prioridad por estrellas.
 
 > ¡Agregar elogios aumentará el hype de este beatmap, haciéndolo más visible para la nominación y el ranking!
 
-<!-- *Nota: Se requiere que los jugadores jueguen una dificultad en el beatmapset para agregar Hype a un beatmap.* -->
+*Nota: Se requiere que los jugadores jueguen una dificultad en el beatmapset para agregar Hype a un beatmap.*
 
 Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o` Linea de Tiempo`.
 
 ### Nominación
 
-Una vez que un beatmap acumule al menos 5 puntos de hype, el beatmap sera elegible para la nominación. Esto funciona como lo hizo con el sistema de modding anterior. Se requiere que el beatmap tenga 2 nominaciones por los [Nominadores de beatmaps](/wiki/Beatmap_Nominators) para pasar al estado [Calificado](/wiki/qualified).
+Una vez que un beatmap acumule al menos 5 puntos de Hype, el beatmap sera elegible para la nominación. Esto funciona como lo hizo con el sistema de modding anterior. Se requiere que el beatmap tenga 2 nominaciones por los [Nominadores de beatmaps](/wiki/Beatmap_Nominators) para pasar al estado de [Calificado](/wiki/qualified).
 
 ## Campo de envío de modificaciones
 
@@ -101,7 +101,7 @@ Esta es la sección del beatmap al que enviarás tus inquietudes.
 - `General (Todas las dificultades)`: Problemas generales con el beatmap asi como metadatos y discusión general sobre el beatmapset como un todo. También puedes agregar Hype a un beatmap aquí publicando un comentario con Elogios.
 - `General`: Problemas generales con la dificultad, como la configuración del beatmap y la discusión general sobre la dificultad específica.
 - `Linea de tiempo`: Problemas en ciertos puntos del beatmap. Debe contener una marca de tiempo. La mayoría de las modificaciones terminarán en esta sección.
-- `Historial`: Muestra cuando los problemas fueron marcados como resueltos. Puedes hacer clic en cualquier problema para saltar a la publicación.
+- `Historial`: Muestra cuando los problemas que fueron marcados como resueltos. Puedes hacer clic en cualquier problema para saltar a la publicación.
 
 ![](img/history.jpg)
 
@@ -115,17 +115,17 @@ Aquí es donde escribes tu modificación. Si usa la sección de la Línea de tie
 
 ![](img/similar-post-warning.jpg)
 
-Si tu marca de tiempo enviada a través de la sección Línea de tiempo está cerca de otra modificación ya publicada, deberá confirmar que la modificación no aborda el problema que está enviando actualmente. ** ¡Por favor revise el campo de discusión antes de marcar la casilla! **
+Si tu marca de tiempo enviada a través de la sección Línea de tiempo está cerca de otra modificación ya publicada, deberá confirmar que la modificación no aborda el problema que está enviando actualmente. **¡Por favor revisa el campo de discusión antes de marcar la casilla!**
 
 ### Tipo de modificación
 
 ![](img/mod-type.jpg)
 
-Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`,` Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. **Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión.** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
+Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. **Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión.** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
 
 ### Alfiler
 
-Al habilitar el alfiler, el [campo de modificaciones] (# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del campo de modding.
+Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
 
 ## Campo de discusión de modding
 
@@ -134,15 +134,15 @@ Al habilitar el alfiler, el [campo de modificaciones] (# modding-field) se despl
 ### Funciones
 
 - `Ordenar por`: Ordena las publicaciones por `linea de tiempo` (predeterminado, ordenada por la marca de tiempo dada desde la publicación de la modificación) o `Ultima actualización` (ordenada segun cuando se publicó la publicación)
-- `Contraer todo` and `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
+- `Contraer todo` y `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
 - Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
 	- Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
 	- **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
-	- Solo los miembros de [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
+	- Solo los miembros del [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
 - Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
 - Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
 - Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.
-- `Responder`: Responder a la publicación presionando 'Enter' o haciendo clic en 'Responder', mas tarde enviará su respuesta.
+- `Responder`: Responde a la publicación presionando 'Enter' o haciendo clic en 'Responder', mas tarde se enviará tu respuesta.
 - `Marcar como resuelto`: El creador o el publicador de la modificación puede seleccionar esto cuando el problema ha sido abordado y aceptado o denegado
 - `Re abrir una discusión`: Si la publicación necesita más discusión, el creador o el remitente de la modificación puede reabrir el envío respondiendo y desmarcando Resuelto.
 
@@ -150,15 +150,15 @@ Al habilitar el alfiler, el [campo de modificaciones] (# modding-field) se despl
 
 ### Hype
 
-Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la prioridad por estrellas se utilizó anteriormente. Una vez que un beatmapset recibe 5 Hype, es elegible para la nominación. Tenga en cuenta lo siguiente:
+Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la prioridad por estrellas se utilizó anteriormente. Una vez que un beatmapset recibe 5 Hypes, es elegible para la nominación. Ten en cuenta lo siguiente:
 
 - Cada usuario tiene un suministro limitado de hype (5 por semana para comenzar).
   - Recuperarás un hype 7 días después de ser utilizado
-<!-- - Hype solo se puede usar después de jugar a través de una dificultad de un beatmapset. -->
+  - El Hype solo se puede usar después de jugar a través de una dificultad de un beatmapset.
 
 ### Nominación
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap] (/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/QAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/QAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
 
@@ -182,9 +182,9 @@ Los miembros de BN, QAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo
 - Selecciona la sección adecuada a la que envías tu modificación.
 - **Solo publica un problema a la vez.** ¡No envíe múltiples problemas en una sola publicación!
 - La sección Línea de tiempo requiere al menos una marca de tiempo antes de poder enviar tu publicación.
-- Verifique si el problema ya ha sido abordado cuando aparece la advertencia de publicación similar.
+- Verifica si el problema ya ha sido abordado si aparece la advertencia de publicación similar.
 - ¿Te gusta el beatmap? ¡Da tu Hype para ayudar al beatmap a acercarse a la nominación!
-- ¡Asegúrese de votar sobre sugerencias y/o problemas, ya que ahora premian a Kudosu! a los modders
+- Asegúrate de votar sobre sugerencias y/o problemas, ya que ahora premian con Kudosu! a los modders
 
 ## Consejos
 
@@ -197,22 +197,22 @@ Los miembros de BN, QAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo
 ## Guía paso a paso para publicar una modificación
 
 1. Selecciona el modo de juego apropiado en la parte superior de la página del beatmap que deseas modificar (osu!standar, osu!taiko, osu!catch, osu!mania)
-2. Seleccione la dificultad que desea modificar en el menú desplegable. (Fácil, Normal, Difícil, Insano, etc.)
-3. Seleccione la sección en la que desea publicar su modificación (`General (todas las dificultades)`, `General` o `Linea de tiempo`)
-4. Escriba su modificación en el campo de discusión. Use una marca de tiempo si está usando la sección Línea de tiempo. **¡Un problema por publicación!**
+2. Selecciona la dificultad que desea modificar en el menú desplegable. (Fácil, Normal, Difícil, Insano, etc.)
+3. Selecciona la sección en la que desea publicar su modificación (`General (todas las dificultades)`, `General` o `Linea de tiempo`)
+4. Escribe tu modificación en el campo de discusión. Usa una marca de tiempo si estás usando la sección Línea de tiempo. **¡Un problema por publicación!**
 5. Selecciona el tipo de modificación que estás haciendo (`Elogio`,`Sugerencia`, o `Problema`)
 
 ¡Tu publicación será enviada! Puede reiniciar en el paso 3 si desea continuar modificando la misma dificultad. No te olvides de darle hype al beatmap si quieres ayudarlo a avanzar para la nominación.
 
 ## FAQ
 
-### ¿Podré modificar con el sistema anterior después de que se lanza la Discusión de Beatmap?
+### ¿Podré modificar con el sistema anterior después de que se lance la Discusión de Beatmap?
 
 Debes modificar con el sistema que el creador ha elegido. Si se centran en la Discusión Beatmap, deberas modificar con la Discusión Beatmap. De lo contrario, tus modificaciones pueden pasar desapercibidas.
 
 ### ¡No me gusta la discusión de Beatmap! ¿Cómo vuelvo al sistema anterior?
 
-La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema anterior; sin embargo, los beatmaps de pre Discusión Beatmap con modificaciones, todavía pueden usar el sistema de modding anterior.
+La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema anterior; sin embargo, los beatmaps anteriores a la Discusión de Beatmap con modificaciones, todavía pueden usar el sistema de modding anterior.
 
 ## Ver también
 
