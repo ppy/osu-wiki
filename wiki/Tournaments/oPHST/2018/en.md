@@ -97,6 +97,21 @@ An initial list of participants may be found on [this spreadsheet](https://docs.
 
 Mappools will be revealed one week in advance of each stage.
 
+### Qualifiers
+
+#### osu!standard
+
+[**Download the Mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
+
+- NoMod
+	- [dj TAKA - quaver (NiNo) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/917129)
+- Hidden
+	- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! (Shioi) \[Dan Dan\]](https://osu.ppy.sh/beatmaps/949011)
+- Hard Rock
+	- [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
+- Double Time
+	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
+
 ------------------------
 
 ## Rules
@@ -150,7 +165,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
+- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 
 - The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
