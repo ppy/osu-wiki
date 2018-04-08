@@ -1,11 +1,11 @@
 # Welcome
 
-Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; osu!mania, a key smashing mania.
+Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; and osu!mania, a key smashing synthesizer.
 
 ## Common points of interest
 
-- [Registration](/wiki/Registration)
 - [Installation](/wiki/Installation)
+- [Registration](/wiki/Registration)
 - [Rules](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - Game Modes
@@ -14,12 +14,17 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Multi](/wiki/Multi/#getting-started)
+- [Ranking Criteria](/wiki/Ranking_Criteria)
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Article of the month
 
-_See also: [Performance Points](/wiki/Performance_Points)._
+*See also: [Mascots](/wiki/Mascots).*
 
-Performance Points are a value from a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
+Meet pippi, Yuzu, Maria, and Mocha; the four mascots of osu!standard, osu!catch, osu!mania, and osu!taiko respectively.
 
 ## Beatmapping
 

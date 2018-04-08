@@ -9,14 +9,14 @@ Hello everyone! The Ranking Charts for November 2015 have just been released and
 This month [Endaris](https://osu.ppy.sh/u/392866), [Raiden](https://osu.ppy.sh/u/2239480), [JBHyperion](https://osu.ppy.sh/u/4879508) and [pporse](https://osu.ppy.sh/u/4991434) picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Endaris](https://osu.ppy.sh/u/392866)** pick their favourite maps.
 
@@ -50,7 +50,7 @@ I couldn't help myself but to put this in. Normal and Hard of this set are a per
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Raiden](https://osu.ppy.sh/u/2239480)** about their favourite maps in November 2015.
 
@@ -94,7 +94,7 @@ difficulties offer simple but hard to read patterns due to the natural fast pace
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[JBHyperion](https://osu.ppy.sh/u/4879508)** was the chosen one to declare the winners of the November 2015 beatmaps.
 
@@ -125,7 +125,7 @@ Surprisingly the only pure CtB mapset in my selection, I chose this mapset for t
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[pporse](https://osu.ppy.sh/u/4991434)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -195,7 +195,7 @@ Also, there are few maps that you can practice the Variable Scratch, the scratch
 **The November 2015 ranking charts will end on the 15th January 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the October 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -204,6 +204,6 @@ Congratulations to the winners of the October 2015 Ranking Charts. They receive 
 + **Catch the Beat:** [No492_Shaymin](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Sue](https://osu.ppy.sh/u/6542193)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

@@ -18,7 +18,7 @@ Please note that **the winner of the community vote is not the chosen mascot.** 
 
 In the meanwhile, we're delighted to present to you, **the most popular osu!taiko mascot by community vote**:
 
-<center><img src="https://assets.ppy.sh/contests/2/entries/26.jpg" width="50%" height="50%"></center>
+<img src="https://assets.ppy.sh/contests/2/entries/26.jpg" width="50%" height="50%"/>
 
 **Aiko** (愛子), designed by [JMC](https://osu.ppy.sh/u/774010)! With a whopping **11684** votes (over 4000 more than the closest competitor), Aiko was clearly a favorite right from the very start.
 
@@ -28,13 +28,13 @@ It yet remains to be seen if she will take the staff vote and rise to become the
 
 Honorable mentions also go out to the second and third place entries as follows:
 
-<center><img src="https://assets.ppy.sh/contests/2/entries/3.jpg" width="50%" height="50%"></center>
+<img src="https://assets.ppy.sh/contests/2/entries/3.jpg" width="50%" height="50%"/>
 
 **Alisa**, designed by [[ Glitch ]](https://osu.ppy.sh/u/%5B%20Glitch%20%5D). Sporting **7164** votes, Alisa came closer than anyone else to snatching the spotlight from Aiko with her more mature charms.
 
 A cheerful and social 17 year old girl, Alisa has been playing Taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing Taiko, or playing retro video games for kicks!
 
-<center><img src="https://assets.ppy.sh/contests/2/entries/13.jpg" width="50%" height="50%"></center>
+<img src="https://assets.ppy.sh/contests/2/entries/13.jpg" width="50%" height="50%">
 
 **Tama**, designed by long-time Taiko player [crystalsuicine](https://osu.ppy.sh/u/9974). Stealing the hearts of **4164** voters, Tama snuck barely into third place with her mischeavous grin.
 

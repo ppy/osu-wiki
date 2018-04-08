@@ -9,12 +9,12 @@ The Ranking Charts for June 2015 have just been released and [can be found here]
 This month [Kyubey](https://osu.ppy.sh/u/2195646), [Senritsu](https://osu.ppy.sh/u/1165368), [Yami Shoujo](https://osu.ppy.sh/u/1978891) and [Kuo Kyoka](https://osu.ppy.sh/u/2596306) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Kyubey](https://osu.ppy.sh/u/2195646)** pick their favourite maps.
 
@@ -52,19 +52,19 @@ This map has difficulties. A lot of them. A REALLY lot. Almost every average pla
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Senritsu](https://osu.ppy.sh/u/1165368)** about their favourite maps in May 2015.
 
 
 + **[Jimmy Weckl - Icicles](https://osu.ppy.sh/s/96115) by [OzzyOzrock](https://osu.ppy.sh/u/465153)**
- 
+
 Relaxing map with relaxing song, not only hard difficulties, the easier difficulties also mapped really clean and even though the spacing is different, it's still understandable for players. Not only it's mapped really well with finishers emphasizing the correct place and instrument, there are also streams placed on Inner which follows the instrument really well. The music is catchy, and the map supports it as well, makes it really enjoyable and fun to play.
 
 
 
 + [Furries in a Blender - Storm World](https://osu.ppy.sh/s/319473) by [Firce777](https://osu.ppy.sh/u/274072)
- 
+
 Our monthly beatmap contest winner. It's mapped well, but there's a lot of same pattern being repeated all over, which may makes people bored. But put that aside, the patterns on this map follows the music and rhythm well, especially Oni, which makes the map is interesting to play.
 
 
@@ -96,7 +96,7 @@ Although the pattern is common among taiko maps, it's still deserve the right to
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[Yami Shoujo](https://osu.ppy.sh/u/1978891)** was the chosen one to declare the winners of the May 2015 beatmaps.
 
@@ -125,7 +125,7 @@ Now this song is something unique as a convert, from beginning to end, this song
 A great mapset that really makes you enjoy a song. Razor overdose may be one of the easier diffs out of this list, but its far from it actually being easy to play. Having you to move according to sliders and having some moments where you stand, then jump and stand again to fully get every droplet, it makes you accurately understand how far you must go to perfectly catch all the droplets from a slider.
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Kuo Kyoka](https://osu.ppy.sh/u/2596306)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -159,15 +159,15 @@ An extended version of the popular B.B.K.K.B.K.K. song from BMS - And Marirose b
 **The June 2015 ranking charts will end on the 15th August 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the May 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
 + **osu! standard:** [[Toy]](https://osu.ppy.sh/u/2757689)
 + **Taiko:** [Nishizumi](https://osu.ppy.sh/u/2496768)
 + **Catch the Beat:** [Dusk](https://osu.ppy.sh/u/533210)
-+ **osu!mania:** [_S h i r o_ ](https://osu.ppy.sh/u/766374)
++ **osu!mania:** [\_S h i r o\_](https://osu.ppy.sh/u/766374)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

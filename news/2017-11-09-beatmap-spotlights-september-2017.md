@@ -30,15 +30,15 @@ Congratulations to the winners of the August 2017 Spotlights. They receive one m
 
 In his mapset, [Frey](https://osu.ppy.sh/u/695678) presents us a fast-paced dubstep piece by renowned artist Pegboard Nerds. Five full difficulties of non-stop intense gameplay, all mapped fully by none other than himself. The very nature of the set brings us a genuine feeling of coherence and unity, a rare sight in the modern jungle of collaborations and guest difficulties.
 
-From the ‘Normal’ difficulty we are already introduced to his characteristic clean style, which relies heavily on visual appeal by minimizing overlaps and prioritizing blankets. The style becomes more pronounced as we progress up the difficulties, with denser rhythms and spacing freedom allowing for a more distinct aesthetic. Everything culminates in the 'Night Begins' difficulty, where we see energetic patterns left and right, all arranged in an elegant, simple fashion.
+From the 'Normal' difficulty we are already introduced to his characteristic clean style, which relies heavily on visual appeal by minimizing overlaps and prioritizing blankets. The style becomes more pronounced as we progress up the difficulties, with denser rhythms and spacing freedom allowing for a more distinct aesthetic. Everything culminates in the 'Night Begins' difficulty, where we see energetic patterns left and right, all arranged in an elegant, simple fashion.
 
 A charming set that shows that one does not have to break boundaries to secure a spot in the spotlights, as even the simplest of styles, when mastered, are able to do so!
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/beginnings.jpg)](https://osu.ppy.sh/s/646603)
 
-Inspired to come out of mapping retirement, [La Cataline](https://osu.ppy.sh/u/301279)’s guest difficulty adds additional charm to [Mirash](https://osu.ppy.sh/u/2841009)'s tantalising mapset of her song - “Beginnings”. This flagship difficulty has a taste from times long since past, but easily holds up to the modern standards of mapping. 
+Inspired to come out of mapping retirement, [La Cataline](https://osu.ppy.sh/u/301279)'s guest difficulty adds additional charm to [Mirash](https://osu.ppy.sh/u/2841009)'s tantalising mapset of her song - "Beginnings". This flagship difficulty has a taste from times long since past, but easily holds up to the modern standards of mapping. 
  
-Don’t discount the rest of the spread though, especially not the ‘Collab Insane’, which consists of varied unique patterns and interesting stylistic choices! With such diverse talent, this is one gem you certainly don’t want to miss!
+Don't discount the rest of the spread though, especially not the 'Collab Insane', which consists of varied unique patterns and interesting stylistic choices! With such diverse talent, this is one gem you certainly don't want to miss!
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/chrono-diver.jpg)](https://osu.ppy.sh/s/419600)
 
@@ -84,7 +84,7 @@ The way these SVs are done on the Inner Oni difficulty fits perfectly to the eye
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/yoiyoi-kokon.jpg)](https://osu.ppy.sh/s/552854)
 
-Topping the September osu!catch Spotlights we have a song by community favourite band REOL! This time, [JBHyperion](https://osu.ppy.sh/u/4879508) graces us with a not-so-often seen Circle Size 5 difficulty, utilising a variety of patterns ranging from streams to strong antiflow movements all while graciously blending several layers of instruments within the rhythm choices. This map is sure to test players’ precision skills as accurate movements are vital here. For those looking for a little less of a challenge it's good news, as this amazing Overdose difficulty is accompanied by a wonderfully executed Rain, which will also let less skilled players enjoy the song.
+Topping the September osu!catch Spotlights we have a song by community favourite band REOL! This time, [JBHyperion](https://osu.ppy.sh/u/4879508) graces us with a not-so-often seen Circle Size 5 difficulty, utilising a variety of patterns ranging from streams to strong antiflow movements all while graciously blending several layers of instruments within the rhythm choices. This map is sure to test players' precision skills as accurate movements are vital here. For those looking for a little less of a challenge it's good news, as this amazing Overdose difficulty is accompanied by a wonderfully executed Rain, which will also let less skilled players enjoy the song.
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/lilieze-to-enryuu-laevateinn.jpg)](https://osu.ppy.sh/s/415827)
 
@@ -100,9 +100,9 @@ Well balanced spread, good touch of simple but yet effective slider velocity cha
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/yell.jpg)](https://osu.ppy.sh/s/591786)
 
-Mania’s had a rather lackluster month this time around, so [Maxus](https://osu.ppy.sh/u/4335785)’s newest marathon map YELL!, with long notes, slider velocity changes, and jacks is a refreshing addition to this month’s spotlights.
+Mania's had a rather lackluster month this time around, so [Maxus](https://osu.ppy.sh/u/4335785)'s newest marathon map YELL!, with long notes, slider velocity changes, and jacks is a refreshing addition to this month's spotlights.
 
-Starting the map, the player is introduced to some light jacks with half a measure long hold notes, which leads into a buildup of 1/8 bursts that will challenge the player’s speed and reading. Making it past that is a calm section consisting of many half-beat Long Notes of which goes into a transitional phrase with a fair amount of minijacks peppered throughout.
+Starting the map, the player is introduced to some light jacks with half a measure long hold notes, which leads into a buildup of 1/8 bursts that will challenge the player's speed and reading. Making it past that is a calm section consisting of many half-beat Long Notes of which goes into a transitional phrase with a fair amount of minijacks peppered throughout.
 
 Players will be taken by surprise at the height of the song with a long note section full of quickly timed 1/4ths which will require precise holding and releasing to get through with a high accuracy. While not terribly difficult, this will definitely challenge and force your average player out of their comfort zone and serves as an excellent introduction to harder types of patterning not commonly found in the ranked section.
 

@@ -10,7 +10,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 > Third time's the charm!
 
-**SOFT 3**, short for **Springtime Osu!mania Free-for-all Tournament 3**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, it is a 4 key tournament.
+**SOFT 3**, short for **Springtime Osu!mania Free-for-all Tournament 3**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, this tournament is an osu!mania 4-key tournament.
 
 ## Tournament Schedule
 
@@ -31,7 +31,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Prizes
 
-*The winner of the tournament will get a Profile Badge, the rest of the prizes are being decided*
+*The winner of this tournament will earn a Profile Badge. The rest of the prizes are to be decided.*
 
 ![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
 
@@ -40,9 +40,9 @@ Springtime Osu!mania Free-for-all Tournament 3
 | Position | Member |
 | ------------ | -------------- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Coordinator | ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644) |
+| Coordinator | ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
 | Map Selectors | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamers | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
 | Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 | Graphic Designers | ![][flag_AR] [aluuu](https://osu.ppy.sh/users/4585260), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
@@ -89,6 +89,27 @@ Springtime Osu!mania Free-for-all Tournament 3
 ---------------------------
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (82.24 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
+
+- FreeMod
+  - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmaps/1574468)
+  - [UNDEAD CORPORATION - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/beatmaps/1538017)
+  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](https://osu.ppy.sh/beatmaps/1475857)
+  - [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back the Cover\]](https://osu.ppy.sh/beatmaps/1595289)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmaps/1572067)
+  - [OSTER project - EBONY & IVORY (Vortex-) \[Cute Things\]](https://osu.ppy.sh/beatmaps/1515312)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmaps/1516908)
+  - [EZFG - Glucagon (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmaps/1588213)
+  - [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/beatmaps/1553587)
+  - [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/beatmaps/1413635)
+  - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmaps/1532410)
+  - [sakuraburst - anticrystal (Couil) \[dusk\]](https://osu.ppy.sh/beatmaps/1301433)
+  - [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmaps/1068479)
+- Tiebreaker
+  - [Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmaps/1564113)
 
 ### Round of 16
 
@@ -174,9 +195,35 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Match Results
 
+### Round of 16
+
+Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbctVe).
+
+| Saturday, 2018-03-31 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| arpia97 ![][flag_CA]      | 1 | **5** | ![][flag_GB] **Traps Are Cute** | |
+| Couil ![][flag_SE]        | 2 | **5** | ![][flag_MX] **\_Mytros\_**     | |
+| **Arkitev** ![][flag_PL]  | **5** | 0 | ![][flag_US] DJKhaled           | WBD |
+| **Chrubble** ![][flag_US] | **5** | 1 | ![][flag_US] Neuro-             | |
+
+| Sunday, 2018-04-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Panshow** ![][flag_CA]      | **5** | 1 | ![][flag_AU] PotassiumF      | |
+| RemiFlan ![][flag_US]         | 0 | **5** | ![][flag_MY] **Minisora**    | |
+| joseee- ![][flag_PH]          | 0 | **5** | ![][flag_US] **-Electro-**   | WBD |
+| **Dawt** ![][flag_CA]         | **5** | 0 | ![][flag_JP] AMDuskia1996    | |
+| lombit ![][flag_ID]           | 3 | **5** | ![][flag_BE] **NightNarumi** | |
+| **inteliser** ![][flag_JP]    | **5** | 0 | ![][flag_CL] Rythze          | WBD |
+| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_GB] Pipper          | |
+| SitekX ![][flag_PL]           | 1 | **5** | ![][flag_BR] **andreymc**    | |
+| **aitor98** ![][flag_ES]      | **5** | 0 | ![][flag_US] HeZeus          | |
+| **Pope Gadget** ![][flag_GB]  | **5** | 2 | ![][flag_CL] WalterToro      | |
+| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_FR] Azubeur         | |
+| RemFangirl ![][flag_ID]       | 1 | **5** | ![][flag_PL] **Tidek**       | |
+
 ### Round of 32
 
-Detailed results of the Round of 32 can be found via [this link](https://goo.gl/XUjUy4).
+Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUjUy4).
 
 | Saturday, 2018-03-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -202,7 +249,7 @@ Detailed results of the Round of 32 can be found via [this link](https://goo.gl/
 
 ### Group Stage
 
-Detailed results of the Group Stage can be found via [this link](https://goo.gl/FfQfZi).
+Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 
 | Friday, 2018-03-09 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -317,7 +364,7 @@ Detailed results of the Group Stage can be found via [this link](https://goo.gl/
 
 ### Playoffs
 
-Detailed results of the Playoffs can be found via [this link](https://goo.gl/CGgypm).
+Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 
 | Wednesday, 2018-02-21 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -403,7 +450,7 @@ Detailed results of the Playoffs can be found via [this link](https://goo.gl/CGg
 
 ### Qualifiers
 
-The results of the Qualifiers can be found via [this link](https://goo.gl/TC4A91).
+The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
 ## Rules
 
@@ -411,48 +458,53 @@ The results of the Qualifiers can be found via [this link](https://goo.gl/TC4A91
 
 #### Qualification Process
 
-- All players that enter the tournament will be eligible to play in the qualification round; however, participants are cut down to a power of 2. **The maximum number of players to advance into the post-qualification stage is 128**.
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
-  - If 33 players enter, the lowest individual gets eliminated and the top 32 move on.
-  - If 49 players enter, the lowest 17 individuals get eliminated and the top 32 move on.
-  - If 63 players enter, the lowest 31 individuals get eliminated and the top 32 move on.
+  - If 33 players enter, the worst-performing player gets eliminated and the top 32 will advance to the next round.
+  - If 49 players enter, the 17 worst-performing players get eliminated and the top 32 will advance to the next round.
+  - If 63 players enter, the 31 worst-performing players get eliminated and the top 32 will advance to the next round.
   - If 64 players enter, all 64 players will qualify and no one gets eliminated.
-  - If 127 players enter, the lowest 63 individuals get eliminated and the top 64 move on.
+  - If 127 players enter, the 63 worst-performing players get eliminated and the top 64 will advance to the next round.
 
 
-- The qualification round will have a 4 song mini-pool that varies widely in difficulty. Each map will be assigned a tier, with tier 1 being the lowest difficulty, and tier 4 being the highest difficulty.
+- The qualification round will have a 4 song mappool that widely varies in difficulty. Each map will be assigned a tier, with tier 1 being the lowest difficulty, and tier 4 being the highest difficulty.
 
-- **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualifier, to provide 0 opportunity for advantage through familiarity**.
+- **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity**.
 
-- All players will have two chances at each qualifier map, making a qualifying session 8 songs total, where the highest of the two runs on each qualifier map will be tabulated and cumulated for your final score.
+- All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate your final score.
 
-- Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once, streamlining the process. If this is a confusing process, do not worry: simply adhere to the schedule put out and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, as qualifiers will be streamed as well!
+- Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 
-- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their cumulative score from all four songs, with the best score being seed \#1, and the worst score being seed n, with n being the number of players to clear the qualification stage.
+- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their cumulative score on all four songs, with the best score being seed \#1, and the worst score being seed n; n being the number of players in the qualification stage.
 
-- The scoring system we will be using this time is **Score V2** in all the rounds. The total of the four songs played will cumulate to your final qualification score.
+- We will be using **Score V2** for all rounds of the tournament.
 
 #### Post-Qualification
 
-- The round post-qualification will be a SINGLE ELIMINATION bracket stage with specific rules. Those who advance during this post-qualification stage (or second qualification) will be placed with 3 additional players (with a total of 4 players) in a group.
+- The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
 
-- After the first qualification round, the remaining 128 (or 64, depending on the registrations) players will be placed in 4 DIFFERENT GROUPS determined by their seeds during the first round of qualification.
-  - **Top16**: The top 16 seeds of the first qualification stage will advance directly into the group stage and they won't play the second round of qualification or post-qualification stages.
+- After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
+  - **Top16**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
 
-  - **17°-32° seeds**: Those who get this seed will be guaranteed the High-Seed spot in the group stage if they manage to advance further into the tournament but they will have to play and win one match in order to qualify to it.
+  - **17th-32nd° seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
 
-  - **33°-96° seeds**: These players will have to play once as well but they will play against each other (example, seed 33 plays against seed 96) and the winners of those matchups will advance and depending on who ends up qualified, their seed of the qualification stage will determinate their seeds in the group stage.
+  - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
 
-  - **97°-128° seeds**: Those who end up in the last spots will be forced to play 2 MATCHES instead of one if they want to qualify into the group stage. The first match will be once again a single elimination between themselves (for example, seed 97 against seed 128) and the second one will be against those who ended up being in the 17°-32° seeds for a spot in the group stage.
-
-
-- At the end, your seed determinates your seed in the group stage and the sorting will all be seed dependent.
-
-- To reiterate, *the number of players entered in the tournament determines the number of players to move on past the qualification period*.
+  - **97th-128th seeds**: Players within this group will participate in **two matches** in the Play-Offs stage. Their first opponent will be a player in the 97th to 128th seed group. In particular, their opponent's seed will be `(225 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th to 32nd seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
 #### Group Stage
 
-- Following the qualification process will be a group stage tournament style that transitions to a double-elimination. The groups will be made of 4 players each and there will be a number of 16 groups (or 8, depending on the amount of players registrated).
+- After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
+
+- Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the next round.
+
+- A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
+  - Number of matches won.
+  - `Number of rounds won - numbers of round lost`.
+  - Number of losses by default (lower is better).
+  - Higher qualification seed.
+
+- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the next round. In particular, their opponent for the next round will be `(33 - player's GS seed)`
 
 ### Tournament Play
 

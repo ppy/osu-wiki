@@ -6,7 +6,7 @@ _Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
 With a wide variety of music available, most tracks will be fine for use in osu!, providing that they are not:
 
 - Intensely explicit, suggestive, or otherwise extremely confrontational in regards to shocking, obscene or highly sexual content
-- Glorifying, promoting or otherwise encouraging suicide, murder, or self-harm
+- Glorifying, promoting or otherwise encouraging drug abuse, suicide, murder, or self-harm
 - Promoting racial tension or division
 - Extremely and unbearably loud or excessively clipped
 
@@ -35,4 +35,4 @@ Each time your submission is removed, you will be afforded an explanation by the
 You may contest this with them via PM if you so wish, or seek the opinions of others to substantiate your claim to the track's suitability. If you still cannot find common ground on this front, your claim may be escalated to a consensus vote among the current QAT, who will collectively decide if your track is acceptable or not.
 
 All users are given a **one submission leeway** before penalties are handed out due to the uncertain nature of this ruling.
-After this leeway has passed, users who continually choose to upload inappropriate tracks will face a 42 hour infringement along with the removal of their submission.
+After this leeway has passed, users who continually choose to upload inappropriate tracks will face a 42-hour infringement along with the removal of their submission.

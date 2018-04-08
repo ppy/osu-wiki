@@ -16,4 +16,4 @@ If you want to know the judges comments and the results of the other mappers, yo
 
 Congratulations to the winning mapper, and we hope that eveyone will enjoy the soon to be running Mania themed Monthly Beatmapping Contest #11!
 
-&mdash;ztrot
+—ztrot

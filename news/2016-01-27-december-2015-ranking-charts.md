@@ -9,20 +9,20 @@ Hello everyone and my apologies for the big delay! The Ranking Charts for Decemb
 This month [Baraatje123](https://osu.ppy.sh/u/2533040), [OzzyOzrock](https://osu.ppy.sh/u/465153), [alienflybot](https://osu.ppy.sh/u/636114) and [Halogen-](https://osu.ppy.sh/u/169992) picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Baraatje123](https://osu.ppy.sh/u/2533040)** pick their favourite maps.
 
-+ **[Kuroneko Dungeon - Ryoushi no Umi no Lindwurm](https://osu.ppy.sh/s/372850) by [P o M u T a](http://osu.ppy.sh/u/610988)** 
++ **[Kuroneko Dungeon - Ryoushi no Umi no Lindwurm](https://osu.ppy.sh/s/372850) by [P o M u T a](http://osu.ppy.sh/u/610988)**
 
-I don't even know where to start with this map. It has a total of 11 difficulties, making the map fun for everyone to play. The lower difficulties are all manageable, but once you get to the higher difficulties they start getting ridiculous. Usually ridiculous maps are a bad thing, but P o M u T a, ignorethis, jyc-Binggan and Kiddly really know how to handle these types of difficulties. Kiddly's difficulty, EXK, is one of the hardest maps I truly enjoyed playing. It's quite gimmicky, but in such extent that it is rather easy to read and fun to play. Furthermore, this shows HT can still be really fun, and that you don't need to be a professional in order to like harder maps. Therefore, this map clearly deserves to be #1 of December! 
+I don't even know where to start with this map. It has a total of 11 difficulties, making the map fun for everyone to play. The lower difficulties are all manageable, but once you get to the higher difficulties they start getting ridiculous. Usually ridiculous maps are a bad thing, but P o M u T a, ignorethis, jyc-Binggan and Kiddly really know how to handle these types of difficulties. Kiddly's difficulty, EXK, is one of the hardest maps I truly enjoyed playing. It's quite gimmicky, but in such extent that it is rather easy to read and fun to play. Furthermore, this shows HT can still be really fun, and that you don't need to be a professional in order to like harder maps. Therefore, this map clearly deserves to be \#1 of December!
 
 + [Reol - No Title](http://osu.ppy.sh/s/343672) by [Pho](http://osu.ppy.sh/u/3624692)
 
@@ -34,7 +34,7 @@ Gero truly deserves to be on this list, because of this map. Despite it only hav
 
 + [Waterflame - Final Battle](http://osu.ppy.sh/s/358679) by [Arphimigon](http://osu.ppy.sh/u/5392762)
 
-Properly mapping 1/3 is quite hard, especcially when it comes to rather repetitive songs. The most fitting patterns would be triangles, which get boring quite fast. Arphimigon however knows how to map 1/3, and keep it interesting. The map starts calmly, with normal spacing, but when the kiai starts the fun begins. The spacing increases, 1/3 sliders appearing who all follow the rhythm perfectly, and the map stays interesting for the rest of the song, combined with a lovely storyboard make this map deseve a place in the top 6. 
+Properly mapping 1/3 is quite hard, especcially when it comes to rather repetitive songs. The most fitting patterns would be triangles, which get boring quite fast. Arphimigon however knows how to map 1/3, and keep it interesting. The map starts calmly, with normal spacing, but when the kiai starts the fun begins. The spacing increases, 1/3 sliders appearing who all follow the rhythm perfectly, and the map stays interesting for the rest of the song, combined with a lovely storyboard make this map deseve a place in the top 6.
 
 + [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey](http://osu.ppy.sh/s/274111) by [Irreversible](http://osu.ppy.sh/u/1287964)
 
@@ -47,7 +47,7 @@ This map shows how streams are done correctly. The song calls for streams, somet
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[OzzyOzrock](https://osu.ppy.sh/u/465153)** about their favourite maps in December 2015.
 
@@ -62,7 +62,7 @@ I promised I wouldn't pick memes. But I just can't help myself. Armed with the p
 
 + [Kanon Wakeshima - killy killy JOKER](https://osu.ppy.sh/s/225202) by [DakeDekaane](https://osu.ppy.sh/u/1425253)
 
-A simple map from a simple man, “killy killy JOKER” gets its spot for its wonderful emphasis on the great vocals this song provides, while still following the song's rhythm in between. Well placed big notes along with long spinners really show the effort to truly map everything the song contains, not just one sole instrument.
+A simple map from a simple man, "killy killy JOKER" gets its spot for its wonderful emphasis on the great vocals this song provides, while still following the song's rhythm in between. Well placed big notes along with long spinners really show the effort to truly map everything the song contains, not just one sole instrument.
 
 + [CHiCO with HoneyWorks - Ai no Scenario](https://osu.ppy.sh/s/329188) by [-Sh1n1-](https://osu.ppy.sh/u/1957638)
 
@@ -79,7 +79,7 @@ With a BPM that doubles from 132 to 266, this song is one tough cookie despite h
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[alienflybot](https://osu.ppy.sh/u/636114)** was the chosen one to declare the winners of the December 2015 beatmaps.
 
@@ -105,12 +105,12 @@ Though the map is a bit short in length, this mapset showcased an array of diffi
 
 + [Camellia - d:for the DELTA](https://osu.ppy.sh/s/373240) by [Naitoshi](https://osu.ppy.sh/u/2730086)
 
-Everyone knows that playing Camellia songs is quite interesting because of the uplifting streams and throbbing beats. For me, this map totally displayed how thrilling the gameplay are, with the crazy patterns that can really bring shocking-yet-fulfilling experiences to the players. In addition, this map also offer challenges to the top Catch the Beat players since it involves a flurry of intense patterns, such as the slider-stream madness jumping in the Kiai Time. Let's see if you can pass it, or even getting into the leaderboard! 
+Everyone knows that playing Camellia songs is quite interesting because of the uplifting streams and throbbing beats. For me, this map totally displayed how thrilling the gameplay are, with the crazy patterns that can really bring shocking-yet-fulfilling experiences to the players. In addition, this map also offer challenges to the top Catch the Beat players since it involves a flurry of intense patterns, such as the slider-stream madness jumping in the Kiai Time. Let's see if you can pass it, or even getting into the leaderboard!
 
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Halogen-](https://osu.ppy.sh/u/169992)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -144,7 +144,7 @@ Rounding off the December ranking pool is Takane6's 7K set for everyone's favori
 **The December 2015 ranking charts will end on the 20th February 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the November 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -153,6 +153,6 @@ Congratulations to the winners of the November 2015 Ranking Charts. They receive
 + **Catch the Beat:** [No492_Shaymin](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Estonians](https://osu.ppy.sh/u/7014697)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

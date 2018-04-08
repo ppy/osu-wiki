@@ -8,11 +8,11 @@ Have you ever wondered what the Quality Assurance Team get up to besides looking
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
-To those of you who have been following this blog at its [previous home](http://osuqat.tumblr.com/), welcome back! We’ve shuffled through a bit of a lean period on account of the summer holidays (or in my case, even more work than usual), but I am happy to bring you **the return of The QAT Gazette!** Feel free to skip down a little if you’re already familiar with our humble blog and want to get straight into the news, but if this is your first time and you’re wondering what all the fuss is about, read on!
+To those of you who have been following this blog at its [previous home](http://osuqat.tumblr.com/), welcome back! We've shuffled through a bit of a lean period on account of the summer holidays (or in my case, even more work than usual), but I am happy to bring you **the return of The QAT Gazette!** Feel free to skip down a little if you're already familiar with our humble blog and want to get straight into the news, but if this is your first time and you're wondering what all the fuss is about, read on!
 
 **A little over a year ago**, the Quality Assurance Team formed a blog to give people an idea of the work that goes on behind the scenes, the internal topics that come up for discussion, and our visions for shaping the future of the osu! mapping and modding community.
 
-There were highlights of upcoming projects and events, reviews of past occurrences such as Beatmap Nominator tests and the Best of 2016 awards, and sometimes opinion pieces simply giving our thoughts on various aspects of the community, the mapping meta, and so on. With the growth of the mapping and modding community over the past year, as well as the significant changes to the role of the QAT, more and more people rightfully ask, **“What the heck do you guys actually do now!?”** Hence the birth of regular updates, and now, a move into the mainstream for all to see!
+There were highlights of upcoming projects and events, reviews of past occurrences such as Beatmap Nominator tests and the Best of 2016 awards, and sometimes opinion pieces simply giving our thoughts on various aspects of the community, the mapping meta, and so on. With the growth of the mapping and modding community over the past year, as well as the significant changes to the role of the QAT, more and more people rightfully ask, **"What the heck do you guys actually do now!?"** Hence the birth of regular updates, and now, a move into the mainstream for all to see!
 
 ## Updates to the Beatmap Nominators
 
@@ -26,9 +26,9 @@ Whilst in this probationary period, Beatmap Nominators will be closely surveyed 
 
 To test this process, **we are currently reviewing applications from a new batch of fresh-faced modding aspirants!** The latest application process for the osu!taiko, osu!catch and osu!mania! game modes has recently closed, with successful applicants expected to be promoted in the coming week.
 
-With Beatmap Nominator tests being recently discontinued, new applications will consist of an activity check, as well as submission of the applicant’s “best” modding work - either as a standard mod post, or series of suggestions in the moddingv2 panel. 
+With Beatmap Nominator tests being recently discontinued, new applications will consist of an activity check, as well as submission of the applicant's "best" modding work - either as a standard mod post, or series of suggestions in the moddingv2 panel. 
 
-For those that meet the activity requirements, the Quality Assurance Team will then supplement this with additional random, anonymised examples of the applicant’s modding work from the past three months and evaluate these examples on a number of criteria, such as structure, helpfulness, knowledge of the Ranking Criteria, and so on. These modding examples will be voted on by the remaining members of the QAT who were not involved in selecting examples of applicant modding, to avoid bias.
+For those that meet the activity requirements, the Quality Assurance Team will then supplement this with additional random, anonymised examples of the applicant's modding work from the past three months and evaluate these examples on a number of criteria, such as structure, helpfulness, knowledge of the Ranking Criteria, and so on. These modding examples will be voted on by the remaining members of the QAT who were not involved in selecting examples of applicant modding, to avoid bias.
 
 **Those with a majority of positive votes will be promoted into one of the available** [Nominator Subdivisions](https://osu.ppy.sh/community/forums/topics/589351), as Probationary members. Feedback will be made available to all applicants on request, regardless of whether they were accepted into the Beatmap Nomination Group or not.
 
@@ -56,9 +56,9 @@ These are just a few highlights of what may be to come - a full list of the prop
 
 ## Summary
 
-If you’re still reading and the above has interested you in any way, thanks a lot! Together with my colleague Feerum, **we’ll be bringing new issues out monthly** from here on, covering the summaries of QAT meetings, insights into our work, and much more! If there’s an aspect of the Quality Assurance Team you’d like to know more about, a burning question you’d like us to answer, or simply an aspect of osu! mapping and modding for us to dissect and discuss, feel free to put it to us in the comments below!
+If you're still reading and the above has interested you in any way, thanks a lot! Together with my colleague Feerum, **we'll be bringing new issues out monthly** from here on, covering the summaries of QAT meetings, insights into our work, and much more! If there's an aspect of the Quality Assurance Team you'd like to know more about, a burning question you'd like us to answer, or simply an aspect of osu! mapping and modding for us to dissect and discuss, feel free to put it to us in the comments below!
 
-With that being said, I’ll call time on this issue, with a promise of more to come next month of course! More information on both past and upcoming articles, as well as my partners in crime who may also be contributing from time to time can be found in the [QAT Blog Compendium](https://osu.ppy.sh/community/forums/topics/578437).
+With that being said, I'll call time on this issue, with a promise of more to come next month of course! More information on both past and upcoming articles, as well as my partners in crime who may also be contributing from time to time can be found in the [QAT Blog Compendium](https://osu.ppy.sh/community/forums/topics/578437).
 
 Thanks for reading!
 

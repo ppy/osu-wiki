@@ -38,7 +38,7 @@ However, his words were not fulfilled as he actually FC'd the entirety of the ma
 
 ![](/wiki/shared/news/2017-12-06-osu-world-cup-quarterfinals/ca_at.png)
 
-<p style="text-align: center;">(Canada's warmup pick was…quite interesting, least to say.)</p>
+<p style="text-align: center;">(Canada's warmup pick was...quite interesting, least to say.)</p>
 
 The final match of the weekend was between the Russian Federation and the United States. Both teams have very scary and highly consistent players for this mappool, and neither side seemed willing to relinquish the ticket to the next round in Winner's Bracket.
 
