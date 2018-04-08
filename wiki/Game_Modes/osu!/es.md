@@ -12,7 +12,7 @@
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "se puede encontrar más información en Modificadores de Juego bajo el nombre de Auto Pilot"
 [Spun Out wikilink]: /wiki/Game_Modifiers "se puede encontrar más información en Modificadores de Juego bajo el nombre de Spun Out"
 [Beatmapping wikilink]: /wiki/Beatmapping "Beatmapping"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "se puede encontrar más información en Configuración de Canción bajo el nombre de Tamaño de Ciruculos"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "se puede encontrar más información en Configuración de Canción bajo el nombre de Tamaño de Circulos"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "se puede encontrar más información en Configuración de Canción bajo el nombre de Drenaje de Vida"
 [OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "se puede encontrar más información en Configuración de Canción bajo el nombre de Dificultad general"
 
