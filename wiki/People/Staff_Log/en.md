@@ -910,7 +910,7 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [Monstrata](/users/2706438) from the Beatmap Nominators due to less than stellar behaviour over extended periods of time (2017-12-19)
+-   Removed [Monstrata](/users/2706438) due to less than stellar behaviour over extended periods of time (2017-12-19)
 
 ## 2018
 
@@ -929,7 +929,7 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [sheela](/users/1138027) from the Beatmap Nominators due to resignation (2018-01-13)
+-   Removed [sheela](/users/1138027) due to resignation (2018-01-13)
 
 #### New BN additions
 
@@ -967,11 +967,11 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [Litharrale](/users/3189995) from the Beatmap Nominators due to resignation (2018-02-02)
--   Removed [ailv](/users/6933054) from the Beatmap Nominators for irresponsible nomination (2018-02-19)
--   Removed [Halfsmashed](/users/4847256) from the Beatmap Nominators due to resignation (2018-02-21)
--   Removed [Wafu](/users/888955) from the Beatmap Nominators due to resignation (2018-02-25)
--   Removed [Voli](/users/2522275) from the Beatmap Nominators due to resignation (2018-02-28)
+-   Removed [Litharrale](/users/3189995) due to resignation (2018-02-02)
+-   Removed [ailv](/users/6933054) for irresponsible nomination (2018-02-19)
+-   Removed [Halfsmashed](/users/4847256) due to resignation (2018-02-21)
+-   Removed [Wafu](/users/888955) due to resignation (2018-02-25)
+-   Removed [Voli](/users/2522275) due to resignation (2018-02-28)
 
 #### New BN additions
 
@@ -991,21 +991,28 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [Naotoshi](/users/5364763) from the Beatmap Nominators due to resignation (2018-03-11)
--   Removed [xfraczynho](/users/2192669) from the Beatmap Nominators due to resignation (2018-03-19)
+-   Removed [Naotoshi](/users/5364763) due to resignation (2018-03-11)
+-   Removed [xfraczynho](/users/2192669) due to resignation (2018-03-19)
 
 #### New BN additions
 
--   Added [Nepuri](/users/6637817) to the Beatmap Nominators (2018-03-12)
--   Added [-Kazu-](/users/920861) to the Beatmap Nominators (2018-03-12)
--   Added [Faputa](/users/845733) to the Beatmap Nominators (2018-03-12)
--   Added [hikikochan](/users/6512678) to the Beatmap Nominators (2018-03-12)
--   Added [Ascendance](/users/2931883) to the Beatmap Nominators (2018-03-12)
--   Added [Sanyi](/users/7496029) to the Beatmap Nominators (2018-03-12)
--   Added [JeirYagtama](/users/7483452) to the Beatmap Nominators (2018-03-12)
--   Added [Arzenvald](/users/3027421) to the Beatmap Nominators (2018-03-12)
--   Added [AJamez](/users/7890134) to the Beatmap Nominators (2018-03-19)
--   Added [error\_exe777](/users/7975796) to the Beatmap Nominators (2018-03-19)
+All users listed below were added on 2018-03-12.
+
+-   [Nepuri](/users/6637817)
+-   [-Kazu-](/users/920861)
+-   [Faputa](/users/845733)
+-   [hikikochan](/users/6512678)
+-   [Ascendance](/users/2931883)
+-   [Sanyi](/users/7496029)
+-   [JeirYagtama](/users/7483452)
+-   [Arzenvald](/users/3027421)
+
+---
+
+All users listed below were added on 2018-03-19.
+
+-   [AJamez](/users/7890134)
+-   [error\_exe777](/users/7975796)
 
 ### April
 
