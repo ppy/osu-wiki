@@ -105,7 +105,7 @@ Mappools will be revealed one week in advance of each stage.
 [**Download the Mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
 
 - NoMod
-	- [dj TAKA - quaver (Monstrata) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/917129)
+	- [dj TAKA - quaver (NiNo) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/917129)
 - Hidden
 	- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! (Shioi) \[Dan Dan\]](https://osu.ppy.sh/beatmaps/949011)
 - Hard Rock
