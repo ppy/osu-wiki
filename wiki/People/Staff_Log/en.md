@@ -189,7 +189,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [Melophobia](/users/Melophobia) to the BAT (2014-08-24)
 -   Added [ToGlette](/users/ToGlette) to the Chat Moderators (2014-08-27)
 
-#### NewBAT additions
+#### New BAT additions
 
 All users listed below were added on 2014-08-24.
 
@@ -250,7 +250,7 @@ All users listed below were added on 2014-08-30.
 -   Moved [ztrot](/users/ztrot) to the BAT (2014-09-20)
 -   Removed [mintong89](/users/mintong89) from the BAT (2014-09-23)
 
-#### NewBAT additions
+#### New BAT additions
 
 All users listed below were added on 2014-09-17.
 
@@ -292,7 +292,7 @@ All users listed below were added on 2014-09-17.
 -   Moved [ursa](/users/ursa) to the Quality Assurance Team (2014-11-25)
 -   Added [Neil Watts](/users/Neil%20Watts) to the Chat Moderator (2014-11-28)
 
-#### NewBAT additions
+#### New BAT additions
 
 All users listed below were added on 2014-11-22.
 
@@ -326,7 +326,7 @@ All users listed below were added on 2014-11-22.
 -   Moved [Scorpiour](/users/Scorpiour) to the Global Moderation Team (2014-12-29)
 -   Added [IamKwaN](/users/IamKwaN) to the Chat Moderators (2014-12-30)
 
-#### NewBAT additions
+#### New BAT additions
 
 All users listed below were added on 2014-12-02.
 
@@ -351,7 +351,7 @@ All users listed below were added on 2014-12-02.
 -   Moved [CLSW](/users/CLSW) to the Quality Assurance Team (2015-01-26)
 -   Moved [FrostxE](/users/FrostxE) to the Global Moderation Team (2015-01-27)
 
-#### NewBAT additions
+#### New BAT additions
 
 All users listed below were added on 2015-01-03.
 
@@ -407,7 +407,7 @@ All users listed below were added on 2015-01-03.
 -   Moved [ToGlette](/users/ToGlette) to the Global Moderation Team (2015-02-22)
 -   Removed [Scorpiour](/users/Scorpiour) from the Global Moderation Team (2015-02-28)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-02-06.
 
@@ -445,7 +445,7 @@ All users listed below were added on 2015-02-06.
 -   Added [Fycho](/users/Fycho) to the Chat Moderators (2015-03-12)
 -   Added [VeilStar](/users/VeilStar) to the Support Team (2015-03-28)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-03-03.
 
@@ -482,7 +482,7 @@ All users listed below were added on 2015-03-03.
 -   Added [Guy](/users/Guy) to the Quality Assurance Team (2015-04-30)
 -   Added [Spectator](/users/Spectator) to the Chat Moderators (2015-04-30)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-04-06.
 
@@ -498,7 +498,7 @@ All users listed below were added on 2015-04-06.
 -   Moved [Aleks719](/users/Aleks719) to the osu! Alumni (2015-05-07)
 -   Added [Tari](/users/Tari) to the Quality Assurance Team (2015-05-08)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-05-11.
 
@@ -523,7 +523,7 @@ All users listed below were added on 2015-05-11.
 -   Moved [IamKwaN](/users/IamKwaN) to the Global Moderation Team (2015-06-10)
 -   Added [VeilStar](/users/VeilStar) to the Chat Moderators (2015-06-14)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-06-15.
 
@@ -540,7 +540,7 @@ All users listed below were added on 2015-06-15.
 -   Moved [\[Shi-Ra\]](/users/%5BShi-Ra%5D) to the Quality Assurance Team (2015-07-09)
 -   Moved [Oinari-sama](/users/Oinari-sama) to the osu! Alumni (2015-07-27)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-07-19.
 
@@ -579,7 +579,7 @@ All users listed below were added on 2015-07-19.
 -   Moved [Krah](/users/Krah) to the Global Moderation Team (2015-10-13)
 -   Moved [Maeglwn](/users/Maeglwn) to the osu! Alumni (2015-10-29)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2015-10-02.
 
@@ -618,7 +618,7 @@ All users listed below were added on 2015-10-02.
 -   Moved [Irreversible](/users/Irreversible) to the osu! Alumni (2016-01-25)
 -   Moved [alacat](/users/alacat) to the osu! Alumni (2016-01-29)
 
-#### NewBN additions
+#### New BN additions
 
 -   Added [Sey](/users/Sey) to the Beatmap Nomination Group (2016-01-20)
 -   Added [\- Magic Bomb -](/users/-%20Magic%20Bomb%20-) to the Beatmap Nomination Group (2016-01-20)
@@ -639,7 +639,7 @@ All users listed below were added on 2015-10-02.
 -   Moved [Zero__wind](/users/Zero__wind) to the Global Moderation Team (2016-03-17)
 -   Added [MrSergio](/users/MrSergio) to the Global Moderation Team (2016-03-17)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2016-03-07.
 
@@ -673,7 +673,7 @@ All users listed below were added on 2016-03-07.
 -   Moved [alacat](/users/alacat) to the Quality Assurance Team (2016-06-24)
 -   Added [JBHyperion](/users/JBHyperion) to the Quality Assurance Team (2016-06-24)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2016-06-01.
 
@@ -697,7 +697,7 @@ All users listed below were added on 2016-06-01.
 
 -   Moved [OnosakiHito](/users/OnosakiHito) to the Quality Assurance Team (2016-08-04)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2016-08-22.
 
@@ -740,7 +740,7 @@ All users listed below were added on 2016-08-22.
 -   Moved [-kevincela-](/users/-kevincela-) to the Global Moderation Team (2016-11-15)
 -   Moved [Gabe](/users/Gabe) to the Global Moderation Team (2016-11-15)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2016-11-04.
 
@@ -770,7 +770,7 @@ All users listed below were added on 2016-11-04.
 -   Added [heyronii](/users/heyronii) to the Global Moderation Team (2017-01-28)
 -   Added [ruexia](/users/ruexia) to the Global Moderation Team (2017-01-29)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-01-20.
 
@@ -798,7 +798,7 @@ All users listed below were added on 2017-01-20.
 -   Moved [Desperate-kun](/users/Desperate-kun) to the osu! Alumni (2017-04-27)
 -   Moved [Fycho](/users/Fycho) to the osu! Alumni (2017-04-27)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-04-25.
 
@@ -820,7 +820,7 @@ All users listed below were added on 2017-04-25.
 
 ### June
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-06-30.
 
@@ -844,7 +844,7 @@ All users listed below were added on 2017-06-30.
 -   Moved [Pereira006](/users/537344) to the osu! Alumni (2017-09-21)
 -   Moved [Shockwave](/users/251631) to the osu! Alumni (2017-09-21)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-09-10.
 
@@ -872,7 +872,7 @@ All users listed below were added on 2017-09-10.
 -   Moved [IamKwaN](/users/1856463) to the osu! Alumni (2017-10-14)
 -   Added [Death](/users/3242450) to the Global Moderation Team and Support Team (2017-10-20)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-10-24.
 
@@ -896,7 +896,7 @@ All users listed below were added on 2017-10-24.
 -   Added [Clobohne](/users/499343) to the Global Moderation Team (2017-12-29)
 -   Added [Kurai](/users/77089) to the Quality Assurance Team (2017-12-31)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-12-11.
 
@@ -931,7 +931,7 @@ All users listed below were added on 2017-12-11.
 
 -   Removed [sheela](/users/1138027) from the Beatmap Nominators due to resignation (2018-01-13)
 
-#### NewBN additions
+#### New BN additions
 
 All users listed below were added on 2017-12-11.
 
@@ -973,7 +973,7 @@ All users listed below were added on 2017-12-11.
 -   Removed [Wafu](/users/888955) from the Beatmap Nominators due to resignation (2018-02-25)
 -   Removed [Voli](/users/2522275) from the Beatmap Nominators due to resignation (2018-02-28)
 
-#### NewBN additions
+#### New BN additions
 
 -   Added [Kuron-Kun](/users/2697284) to the Beatmap Nominators (2018-02-06)
 -   Added [ailv](/users/6933054) to the Beatmap Nominators (2018-02-26)
@@ -994,7 +994,7 @@ All users listed below were added on 2017-12-11.
 -   Removed [Naotoshi](/users/5364763) from the Beatmap Nominators due to resignation (2018-03-11)
 -   Removed [xfraczynho](/users/2192669) from the Beatmap Nominators due to resignation (2018-03-19)
 
-#### NewBN additions
+#### New BN additions
 
 -   Added [Nepuri](/users/6637817) to the Beatmap Nominators (2018-03-12)
 -   Added [-Kazu-](/users/920861) to the Beatmap Nominators (2018-03-12)
@@ -1005,7 +1005,7 @@ All users listed below were added on 2017-12-11.
 -   Added [JeirYagtama](/users/7483452) to the Beatmap Nominators (2018-03-12)
 -   Added [Arzenvald](/users/3027421) to the Beatmap Nominators (2018-03-12)
 -   Added [AJamez](/users/7890134) to the Beatmap Nominators (2018-03-19)
--   Added [error_exe777](/users/7975796) to the Beatmap Nominators (2018-03-19)
+-   Added [error\_exe777](/users/7975796) to the Beatmap Nominators (2018-03-19)
 
 ### April
 
