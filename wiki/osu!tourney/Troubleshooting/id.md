@@ -1,4 +1,4 @@
-# Penyelesaihan Masalah
+# Penyelesaian Masalah
 
 _Halaman utama: [osu!tourney](/wiki/osu!tourney)_
 
@@ -6,11 +6,11 @@ _Halaman utama: [osu!tourney](/wiki/osu!tourney)_
 
 Salin `osu!.exe` ke folder kosong dan jalankan.
 
-## My osu! windows are not aligning properly!
+## Jendela osu! saya tidak selaras!
 
 Matikan semua monitor sekunder! osu!tourney hanya berjalan di monitor utama. Pastikan monitor utama memiliki resolusi yang lebih besar daripada resolusi klien (secara standar 1280x720).
 
-## osu!tourney tidak terbuka, dan membuka error prompt dan/atau menutup!
+## osu!tourney tidak terbuka, dan membuka error prompt dan/atau menutup dengan sendirinya!
 
 - Pastikan Anda telah masuk ke osu! dan kotak 'Ingat Nama Pengguna' dan 'Ingat Kata Sandi' dicentang.
 - Pastikan bahwa kunci `privateserver` di `tournament.cfg` tidak memiliki nilai.
