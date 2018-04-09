@@ -29,7 +29,7 @@ Let's get started!
 
 ## <a name="osu" id="osu"></a>osu!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YjsLW_um4cI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yv45xL5HklA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
