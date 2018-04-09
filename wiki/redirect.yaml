@@ -510,6 +510,9 @@
 
 "user_interface":              "Interface"
 "ui":                          "Interface"
+"ranking_screen":              "Interface#ranking-screen"
+"results_screen":              "Interface#ranking-screen"
+"grading_screen":              "Interface#ranking-screen"
 
 "irc":                         "Internet_Relay_Chat"
 
