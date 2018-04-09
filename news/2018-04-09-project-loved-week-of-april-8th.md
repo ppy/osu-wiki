@@ -109,47 +109,52 @@ ProfessionalBox has long been known as a high quality technical mapper, and koda
 
 ---
 
-*osu!taiko beatmap descriptions written by [Backfire](https://osu.ppy.sh/users/263110)*
-
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/soundcloud-do-not-die.jpg)](https://osu.ppy.sh/community/forums/topics/727591)
 
-[Katagiri - Soundcloud, do not die!](https://osu.ppy.sh/beatmapsets/702806) by [Rafael Nadal](https://osu.ppy.sh/users/3456229) and [Sansheng](https://osu.ppy.sh/users/3579473)
+[Katagiri - Soundcloud, do not die!](https://osu.ppy.sh/beatmapsets/702806) by [Rafael Nadal](https://osu.ppy.sh/users/3456229) and [Sansheng](https://osu.ppy.sh/users/3579473)  
+*written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 Boy, where do we have to start? Soundcloud, do not die! is a difficult beatmap by Rafael Nadal - not the famous tennisman - and is going to be very taxing on your stamina. It also comes with a slightly easier difficulty by Sansheng, complimenting the beatmap and offering a different approach to the beatmap! Both of the difficulties are very difficult to master, as its density is very high, reaching 1,000 notes per minute. Needless to say, this beatmap is really not for the faint-hearted! If you're looking for a fun, difficult beatmap and want to train your stamina, look no further!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/grief-and-malice.jpg)](https://osu.ppy.sh/community/forums/topics/727592)
 
-[Helblinde - Grief & Malice](https://osu.ppy.sh/beatmapsets/439241) by [S a n d](https://osu.ppy.sh/users/676578) and [Backfire](https://osu.ppy.sh/users/263110)
+[Helblinde - Grief & Malice](https://osu.ppy.sh/beatmapsets/439241) by [S a n d](https://osu.ppy.sh/users/676578) and [Backfire](https://osu.ppy.sh/users/263110)  
+*written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 Created by S a n d and Backfire, Grief & Malice is a popular beatmap that some of you have already played in Taiko World Cup 2017. This awesome beatmap uses mild SV, kiai fountains and many streams all set to a catchy tune! The beatmap is challenging without being too hard, and is fun for most players who are seeking a great beatmap to play anytime, in any occasion: multiplayer, singleplayer, tournaments, etc.
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/tsugihagi-construction-2012.jpg)](https://osu.ppy.sh/community/forums/topics/727593)
 
-[t+pazolite - tsugihagi Construction 2012](https://osu.ppy.sh/beatmapsets/42749) by [Nyan](https://osu.ppy.sh/users/36102)
+[t+pazolite - tsugihagi Construction 2012](https://osu.ppy.sh/beatmapsets/42749) by [Nyan](https://osu.ppy.sh/users/36102)  
+*written by [Backfire](https://osu.ppy.sh/users/263110)*
 
 A difficulty from all the way back in the beginning of 2012, this beatmap is actually incredibly old and obscure. The taiko difficulty is by Nyan, known previously as ddrddr125, an absolute legend in the taiko community. One of the oldest mappers for osu!taiko, his influence was widespread in the early days and this is one of his best beatmaps in his prime. His ability to make unmatched hard difficulties really shows in this, as this was one of our more challenging beatmaps back when it was created. It still holds up very well today!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/holy.jpg)](https://osu.ppy.sh/community/forums/topics/727594)
 
-[moro - Holy Bitch](https://osu.ppy.sh/beatmapsets/595898) by [Midnaait](https://osu.ppy.sh/users/1506011)
+[moro - Holy Bitch](https://osu.ppy.sh/beatmapsets/595898) by [Midnaait](https://osu.ppy.sh/users/1506011)  
+*written by [Backfire](https://osu.ppy.sh/users/263110)*
 
 A very notably high star difficulty that just seemed to never get pushed for Rank, Holy Bitch is one of those things that can very well define the current taiko "meta". Lots of 1/8 doubles, incredibly boosted streams with 1/6 bursts, as well as a banging 5+ minute song, all very gorgeously and consistently mapped. This song does have it all, and you can feel no shame or burden of pp hanging over your head for enjoying it!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/uber-6.jpg)](https://osu.ppy.sh/community/forums/topics/727595)
 
-[PrimeMIX - Uber 6](https://osu.ppy.sh/beatmapsets/332051) by [snowball112](https://osu.ppy.sh/users/2350722), [Onicorn](https://osu.ppy.sh/users/3936770) and [Okoratu](https://osu.ppy.sh/users/1623405)
+[PrimeMIX - Uber 6](https://osu.ppy.sh/beatmapsets/332051) by [snowball112](https://osu.ppy.sh/users/2350722), [Onicorn](https://osu.ppy.sh/users/3936770) and [Okoratu](https://osu.ppy.sh/users/1623405)  
+*written by [Backfire](https://osu.ppy.sh/users/263110)*
 
 Familiar to those who participated in the TWC: Last Man Standing 3 Tournament, this is a bit of a peculiar map, as it was in the Grand Finals Free Mod bracket, but also it seems that its background was a real hit with the Japanese team that ended up winning, all of them having corresponding avatars (which can actually still be seen on IceOC's user page!). The mapset itself has a variety of difficulties for everyone to enjoy, and we hope everyone appreciates it in the same way that everyone appreciates the background!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/stronghold.jpg)](https://osu.ppy.sh/community/forums/topics/727596)
 
-[Lite Show Magic - Stronghold](https://osu.ppy.sh/beatmapsets/464923) by [Nofool](https://osu.ppy.sh/users/672430)
+[Lite Show Magic - Stronghold](https://osu.ppy.sh/beatmapsets/464923) by [Nofool](https://osu.ppy.sh/users/672430)  
+*written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 Stronghold is a gimmicky beatmap by the well-known Nofool, and is mapped as a tribute to DTX2110's already existing Taikojiro map. It relies exclusively on the usage of SVs, but this does not make it less impressive - in fact, this beatmap proves that using only this type of gimmick can still give interesting results that are fun to play! This beatmap really tests your reading skills, from sudden changes to absurdly high speed, without being unfair! In short, this beatmap is fun while being challenging!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/dreamin-attraction.jpg)](https://osu.ppy.sh/community/forums/topics/727597)
 
-[hino isuika - Dreamin' attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/576641) by [asuasu\_yura](https://osu.ppy.sh/users/2875968)
+[hino isuika - Dreamin' attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/576641) by [asuasu\_yura](https://osu.ppy.sh/users/2875968)  
+*written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 Japanese mapper asuasu\_yura gifts us with yet another well-designed beatmap, Dreamin' attraction!!, a happy hardcore song that is really worth listening to! Streams, technique, stamina are the three words that define this beatmap, but to give it justice, there are no words in the English language properly conveying the feelings this beatmap gives. In the end, the song will not be the only happy thing!
 
