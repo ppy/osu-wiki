@@ -159,6 +159,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
