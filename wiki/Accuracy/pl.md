@@ -51,7 +51,7 @@ Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standa
 
 Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem.
 
-*Uwaga: Dodatkowe informacje wyświetlą się tylko po zagraniu beatmapy lub obejrzeniu zapisanej wcześniej powtórki. Po wyjściu z [ekranu wyniku](/ wiki/Interface#ranking-screen) informacje te nie zostaną zapisane.*
+*Uwaga: Dodatkowe informacje wyświetlą się tylko po zagraniu beatmapy lub obejrzeniu zapisanej wcześniej powtórki. Po wyjściu z [ekranu wyniku](/wiki/results_screen) informacje te nie zostaną zapisane.*
 
 ### Precyzja
 
