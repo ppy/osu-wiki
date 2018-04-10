@@ -105,7 +105,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ### Round of 16
 
-**[Download the mappack here! (73 MB)]()**
+**[Download the mappack here! (73 MB)](http://www.mediafire.com/file/xzf9idadhstnsa0/TWC%202018%20RO16%20MAPPOOL.zip)**
 
 - NoMod
   - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](http://osu.ppy.sh/b/1461118&m=1) 
