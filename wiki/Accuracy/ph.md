@@ -1,6 +1,6 @@
-# Kaiksaktuhan
+# Katumpakan
 
-Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
+Ang katumpakan ay isang sukatan ng pagkakapare-pareho ng isang manlalaro. Mayroong tatlong uri ng katumpakan na maaaring makuha ng isang manlalaro. Ang isa sa kanila ay ang katumpakan ng beatmap na umaasa sa mga nakamit na iskor. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
 
 ## Mga istilo ng laro
 
@@ -45,9 +45,9 @@ In osu!mania, accuracy is calculated similarly to [osu!standard](#osu!standard).
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching an exported replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
+*Tandaan: Ang karagdagang impormasyon ay maaari lamang makita pagkatapos ng paglalaro ng beatmap o sa panunuod ng isang na-export na replay. Pagkatapos lumabas sa  [screen ng mga resulta](/wiki/results_screen), ang impormasyong ito ay hindi ma isa-saved.*
 
-### Kaiksaktuhan
+### Katumpakan
 
 When hovering over the performance graph, a tooltip is displayed with an *Error* and *Unstable Rate*.
 
@@ -63,7 +63,7 @@ Unstable rate represents the consistency of the timing of the hits, where lower 
 
 ### Ikot
 
-*Note: Spin is only used for [osu!standard](/wiki/osu!standard).*
+*Tandaan: Spin is only used for [osu!standard](/wiki/osu!standard).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
 
