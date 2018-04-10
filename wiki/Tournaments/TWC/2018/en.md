@@ -185,8 +185,8 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Italy ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41501592) |
 | Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/41502894) |
 | Italy ![][flag_IT] | 1 | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/41507763) |
-| Portugal ![][flag_PO] | 1 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/41507781) |
-| Portugal ![][flag_PO] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41509498), [#2](https://osu.ppy.sh/community/matches/41510211) |
+| Portugal ![][flag_PT] | 1 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/41507781) |
+| Portugal ![][flag_PT] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41509498), [#2](https://osu.ppy.sh/community/matches/41510211) |
 | Netherlands ![][flag_NL] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41509503), [#2](https://osu.ppy.sh/community/matches/41510238) |
 
 ------------------------------------------------------------------------
