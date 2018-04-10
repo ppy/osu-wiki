@@ -19,12 +19,12 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 - **Username:** Nama pengguna osu! anda (ganti spasi dengan garis bawah)
 - **Password:** Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 
-*Kata sandi IRC anda berbeda dengan kata sandi akun anda. **Jangan dibagikan kepada orang lain**.*
+*Kata sandi IRC anda berbeda dengan kata sandi akun osu! anda. **Jangan dibagikan kepada orang lain**.*
 
 
 Perintah Dasar IRC
 ------------------
-| Perintah             | Deskripsi                                             |
+| Perintah             | Deskripsi                                          |
 | -------------------- | -------------------------------------              |
 | `/join <#channel>`   | Bergabung ke kanal                                 |
 | `/part <#channel>`   | Meninggalkan kanal                                 |
@@ -64,7 +64,7 @@ Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang terse
 Pertanyaan yang Sering Diajukan
 --------------------------------
 
-### Saya mendapat kesalahan "Token Otentikasi Buruk".
+### Saya mendapat kesalahan "Token Otentikasi Salah".
 1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 2. Jika nama pengguna osu! anda memiliki spasi, ganti dengan garis bawah (misalnya **This Username** menjadi **This_Username**)
 
