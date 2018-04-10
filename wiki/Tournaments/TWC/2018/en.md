@@ -173,7 +173,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Argentina ![][flag_AR] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41478274), [#2](https://osu.ppy.sh/community/matches/41480104) |
 | Poland ![][flag_PL] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41480356) |
 
-| Saturday, 2018-04-07 | | | | |
+| Sunday, 2018-04-08 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Chile ![][flag_CL] | 4 | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41488009) |
 | South Korea ![][flag_KR] | 4 | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41488883) |
