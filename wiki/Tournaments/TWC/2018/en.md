@@ -101,7 +101,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-![Double Elimination bracket](bracket.jpg)
+![Double Elimination bracket](bracket.png)
 
 -----------------------
 
