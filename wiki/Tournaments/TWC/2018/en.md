@@ -101,6 +101,10 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
+![Double Elimination bracket](bracket.jpg)
+
+-----------------------
+
 ## Mappool
 
 ### Round of 16
@@ -164,7 +168,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Netherlands ![][flag_NL] | 1 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/41466387) |
 | Finland ![][flag_FI] | 1 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41466557) |
 | Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41468287) |
-| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_TW] Taiwan | -WIN BY DEFAULT- |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_TW] Taiwan | -win by default- |
 | United Kingdom ![][flag_GB] | 3 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41470025) |
 | Venezuela ![][flag_VE] | 1 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41470035) |
 | Germany ![][flag_DE] | 0 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/41476203) |
