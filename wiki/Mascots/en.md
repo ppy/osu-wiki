@@ -32,7 +32,7 @@ Maria is the osu!mania mascot that had joined on 2016-03-04. Her art was designe
 
 *For the news post, see: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
-<!-- ![Mocha](img/Mocha.png "Mocha") -->
+![Mocha](img/Mocha.png "Mocha")
 
 Mocha is the osu!taiko mascot. She was initially designed during the [sixth fanart contest](/community/contests/2) by Crowie, which had been ranked 21st from the polls.
 

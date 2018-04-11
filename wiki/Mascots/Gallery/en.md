@@ -12,11 +12,11 @@
 
 ![osu!standard comboburst from the default v1 skin](img/pippi-original-comboburst.png "Comboburst from the default v1 skin.")
 
-![Chibi-pippi (Header image)](img/pippi-original-header.png "Chibi-pippi (Banner image)")
+![Chibi-pippi (Header image)](img/pippi-original-header.jpg "Chibi-pippi (Banner image)")
 
 ![Old 404 error image from the old website](img/pippi-original-website-404.jpg "Old 404 error image from the old website")
 
-![pippi illustrated by Daru](img/pippi-original-installer.png "pippi illustrated by Daru (was once found on the old osu!installer)")
+![pippi illustrated by Daru](img/pippi-original-installer.jpg "pippi illustrated by Daru (was once found on the old osu!installer)")
 
 ![Old osu! client error dialog](img/pippi-original-error.jpg "pippi chewing on the cookie")
 
@@ -72,6 +72,8 @@ For more Maria fanart, see:
 - [Fan Art 9: Spring](/community/contests/45)
 
 ### Mocha
+
+![Mocha design](img/Mocha-design.jpg "Mocha design")
 
 ![Fanart with pippi and Mocha](img/Mocha-fanart-1.jpg "Fanart by 2Su")
 
