@@ -113,25 +113,25 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 **[Download the mappack here! (73 MB)](http://www.mediafire.com/file/xzf9idadhstnsa0/TWC%202018%20RO16%20MAPPOOL.zip)**
 
 - NoMod
-  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](http://osu.ppy.sh/b/1461118&m=1) 
-  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (sing216) \[Toy Oni\]](http://osu.ppy.sh/b/1259018&m=1) 
-  - [Kanekochiharu - Lachryma \<Re:Queen'M\> (ll-oscar) \[ll-taiko\]](http://osu.ppy.sh/b/902927&m=1) 
-  - [xi - Jackknife (Arrival) \[Inner Oni\]](http://osu.ppy.sh/b/1370014&m=1) 
-  - [Black Hole - Pluto (Zetera) \[Majin Oni TWC ver.\]](http://osu.ppy.sh/b/1599257&m=1) 
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1461118) 
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (sing216) \[Toy Oni\]](http://osu.ppy.sh/beatmaps/1259018) 
+  - [Kanekochiharu - Lachryma \<Re:Queen'M\> (ll-oscar) \[ll-taiko\]](http://osu.ppy.sh/beatmaps/902927) 
+  - [xi - Jackknife (Arrival) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1370014) 
+  - [Black Hole - Pluto (Zetera) \[Majin Oni TWC ver.\]](http://osu.ppy.sh/beatmaps/1599257) 
 - Hidden
-  - [KNOWER - Time Traveler (Nifty) \[Inner Oni\]](http://osu.ppy.sh/b/1312589&m=1) 
-  - [onoken - Viden (Nwolf) \[Inner Oni\]](http://osu.ppy.sh/b/1497491&m=1) 
+  - [KNOWER - Time Traveler (Nifty) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1312589) 
+  - [onoken - Viden (Nwolf) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1497491) 
 - HardRock
-  - [An - Akasagarbha (Dainesl) \[Taikocalypse\]](http://osu.ppy.sh/b/669314&m=1) 
-  - [Virt - Staring at my Spaceship (HashishKabob) \[Taiko Guru v2\]](http://osu.ppy.sh/b/766477&m=1) 
+  - [An - Akasagarbha (Dainesl) \[Taikocalypse\]](http://osu.ppy.sh/beatmaps/669314) 
+  - [Virt - Staring at my Spaceship (HashishKabob) \[Taiko Guru v2\]](http://osu.ppy.sh/beatmaps/766477) 
 - DoubleTime
-  - [Noam Lederman - Nosso Samba (mangomizer) \[Samba\]](http://osu.ppy.sh/b/1601332&m=1) 
-  - [ClariS - Colorful -2017- (Volta) \[Oni\]](http://osu.ppy.sh/b/1510406&m=1) 
+  - [Noam Lederman - Nosso Samba (mangomizer) \[Samba\]](http://osu.ppy.sh/beatmaps/1601332) 
+  - [ClariS - Colorful -2017- (Volta) \[Oni\]](http://osu.ppy.sh/beatmaps/1510406) 
 - FreeMod
-  - [COSIO (ZUNTATA) - Black MInD (Chocola_2287) \[Inner Oni\]](http://osu.ppy.sh/b/1030554&m=1) 
-  - [t+pazolite - Elder Dragon Legend (ft. Kabocha) (Backfire) \[Taikocalypse\]](http://osu.ppy.sh/b/1602056&m=1) 
+  - [COSIO (ZUNTATA) - Black MInD (Chocola_2287) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1030554) 
+  - [t+pazolite - Elder Dragon Legend (ft. Kabocha) (Backfire) \[Taikocalypse\]](http://osu.ppy.sh/beatmaps/1602056) 
 - Tiebreaker
-  - [BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](http://osu.ppy.sh/b/1281858&m=1) 
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](http://osu.ppy.sh/beatmaps/1281858) 
 
 ### Group Stage
 
