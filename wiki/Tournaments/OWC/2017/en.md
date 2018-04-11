@@ -3,51 +3,50 @@ tags:
 - OWC 2017
 - OWC2017
 ---
-osu! World Cup 2017
-=============================
+# osu! World Cup 2017
 
-![osu! World Cup 2017](logo.png)
+![osu! World Cup 2017 logo](logo.png)
 
 The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
-| Event | Timestamp |
-| ---: | :--- |
-| Registration Phase | 13. - 29. October 2017 |
-| Drawings | 12. November 2017 (14:00 UTC+0) |
-| Group Stage | 18. - 19. November 2017 |
-| Round of 16 | 25. - 26. November 2017 |
-| Quarterfinals | 2. - 3. December 2017 |
-| Semifinals | 9. - 10. December 2017 |
-| Finals | 15. - 17. December 2017 |
+| Event              | Timestamp                       |
+|-------------------:|---------------------------------|
+| Registration Phase | 2017-10-13/2017-10-29           |
+| Drawings           | 2017-11-12 (14:00 UTC+0)        |
+| Group Stage        | 2017-11-18/2017-11-19           |
+| Round of 16        | 2017-11-25/2017-11-26           |
+| Quarterfinals      | 2017-12-02/2017-12-03           |
+| Semifinals         | 2017-12-09/2017-12-10           |
+| Finals             | 2017-12-15/2017-12-17           |
 
 ## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Placing | Prize(s) |
-| --- | :--- |
+| Place | Prize(s) |
+| --- | --- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
 
 ## Organization
 
-The osu! World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Member |
-| ------------ | -------------- |
-| Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mapset Selectors | [![][flag_JP] Delis](https://osu.ppy.sh/users/1603923), [![][flag_DE] Okorin](https://osu.ppy.sh/users/1623405), [![][flag_KR] ToGlette](https://osu.ppy.sh/users/1076236) |
-| Commentators | [![][flag_HK] - G I D Z -](https://osu.ppy.sh/users/2286528), [![][flag_AU] Bauxe](https://osu.ppy.sh/users/1881685), [![][flag_GB] Doomsday](https://osu.ppy.sh/users/18983), [![][flag_CA] Evrien](https://osu.ppy.sh/users/791660), [![][flag_AU] Kano](https://osu.ppy.sh/users/3036203), [![][flag_AT] Omgforz](https://osu.ppy.sh/users/578943), [![][flag_FI] ProfessionalBox](https://osu.ppy.sh/users/3250792) |
-| Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Position | Members |
+| -------- | ------- |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Map Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Commentators | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
+| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/653192)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)**
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)**
 
 ------------------------------------------------------------------------
 

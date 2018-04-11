@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Season’s Greetings From osu!"
+title: "Season's Greetings From osu!"
 permalink: http://osunews.tumblr.com/post/154683003458/seasons-greetings-from-osu
 date: 2016-12-19 17:33:52 +0000
 tumblr_url: http://osunews.tumblr.com/post/154683003458/seasons-greetings-from-osu
@@ -14,7 +14,9 @@ Curious? Go see them all at the [voting page](https://new.ppy.sh/community/conte
 
 Unfortunately, giving out only three votes is going to be *exceptionally* difficult, because there are so many absolutely amazing entries. Wow. Just wow.
 
-On top of this, [cYsmix](https://new.ppy.sh/beatmaps/artists/2) has yet again outdone himself and produced a beautiful festive intro track for the occasion, which you can hear by opening the game, or by listening below:<br><br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298592691&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
+On top of this, [cYsmix](https://new.ppy.sh/beatmaps/artists/2) has yet again outdone himself and produced a beautiful festive intro track for the occasion, which you can hear by opening the game, or by listening below:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298592691&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 The Charts crew also have a **HUGE** Christmas themed chart on the cards, so large in fact that it'll be getting its own post announcing its release, along with some swanky new prizes to boot! Keep your eyes peeled!
 

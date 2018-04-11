@@ -36,7 +36,7 @@ To resolve this (for both GitHub Web Interface and GitHub Desktop editors):
 20. You can copy the description of the closed pull request into the new one you just opened. It is helpful to also include a reference to the other pull request you had closed.
 21. Click `Create pull request`. You are now done with fixing your commits. If you have completed the reviews from the closed pull request and you are certain that the pull request is ready to be merged, ask someone to merge it.
 
-Technicality, this is the best way to squash commits from a branch when limited to only using the GitHub web interface. It is impossible to squash commits using GitHub Desktop.
+Technically, this is the best way to squash commits from a branch when limited to only using the GitHub web interface. It is impossible to squash commits using GitHub Desktop.
 
 ## My branch is out of date!
 

@@ -56,28 +56,6 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
-
-### Sunday, 2018-03-11
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Brazil        | ![][flag_BR] | ![][flag_SG] | Singapore | **3:00 UTC**  | 0:00 UTC -3  | 11:00 UTC +8 | ² |
-| Philippines   | ![][flag_PH] | ![][flag_MY] | Malaysia  | **4:30 UTC**  | 12:30 UTC +8 | 12:30 UTC +8 | ² |
-| South Korea   | ![][flag_KR] | ![][flag_CN] | China     | **12:00 UTC** | 21:00 UTC +9 | 20:00 UTC +8 | ¹ |
-| Philippines   | ![][flag_PH] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
-| Philippines   | ![][flag_PH] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
-| Malaysia      | ![][flag_MY] | ![][flag_BR] | Brazil    | **13:30 UTC** | 21:30 UTC +8 | 10:30 UTC -3 | ³ |
-| Malaysia      | ![][flag_MY] | ![][flag_SG] | Singapore | **13:30 UTC** | 21:30 UTC +8 | 21:30 UTC +8 | ³ |
-
- ¹ Winner bracket encounter
- 
- ² Loser bracket encounter
- 
- ³ Encounter dependent on results of ²Loser bracket encounter
-
-------------------------------------------------------------------------
-
 ## Participants
 
 ### Confirmed rosters
@@ -108,6 +86,10 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Luxsus_](https://osu.ppy.sh/users/2419363), [\[ - J a c K - \]](https://osu.ppy.sh/users/2880426), [- Hibiki](https://osu.ppy.sh/users/7808720) |
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Pope Gadget](https://osu.ppy.sh/users/2288341), [Traps are Cute](https://osu.ppy.sh/users/3359035), [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
+
+------------------------------------------------------------------------
+
+![Winner Podium](Podium.png)
 
 ------------------------------------------------------------------------
 
@@ -219,6 +201,22 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-03-18 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 4 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40933215) |
+| South Korea ![][flag_KR] | 7 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
+
+### Finals
+
+| Saturday, 2018-03-11 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Brazil ![][flag_BR] | 7 | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40743246) |
+| Philippines ![][flag_PH] | 0 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40745201) |
+| South Korea ![][flag_KR] | 7 | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/40752937) |
+| Malaysia ![][flag_MY] | 7 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/40754939) |
 
 ### Semifinals
 

@@ -9,12 +9,12 @@ With some delay, the Ranking Charts for September 2015 have just been released a
 This month [Secretpipe](https://osu.ppy.sh/u/2208964), [Nwolf](https://osu.ppy.sh/u/1910766), [Krah](https://osu.ppy.sh/u/1436748) and [-Kamikaze-](https://osu.ppy.sh/u/2124783) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Secretpipe](https://osu.ppy.sh/u/2208964)** pick their favourite maps.
 
@@ -45,7 +45,7 @@ A little surprise? Yes! I was really surprised by [ Rizen ]'s map, a new mapper 
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Nwolf](https://osu.ppy.sh/u/1910766)** about their favourite maps in September 2015.
 
@@ -76,7 +76,7 @@ Last but not least we've got another drum'n'bass song, Reprise, mapped by _Gezo_
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[Krah](https://osu.ppy.sh/u/1436748)** was the chosen one to declare the winners of the September 2015 beatmaps.
 
@@ -90,7 +90,7 @@ I seriously hesitated between this one and the previous one because they are bot
 
 + [Apocalyptica - Hall of the Mountain King](https://osu.ppy.sh/s/340399) by [pishifat](https://osu.ppy.sh/u/3178418)
 
-I always liked those songs with an increasing bpm so this was most likely obvious for me. The first version of  Hall of the Mountain King that pishifat ranked was already a nice and challenging convert and this one is of the same kind. Stay focused till the end because it will go faster and faster and faster. 
+I always liked those songs with an increasing bpm so this was most likely obvious for me. The first version of  Hall of the Mountain King that pishifat ranked was already a nice and challenging convert and this one is of the same kind. Stay focused till the end because it will go faster and faster and faster.
 
 + [Hige Driver join. SELEN - Dadadadadadadadadada](https://osu.ppy.sh/s/350076) by [CLSW](https://osu.ppy.sh/u/531253)
 
@@ -98,14 +98,14 @@ If you enjoy most of recent maps you will enjoy this one too. The EX difficulty 
 
 + [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/s/342751) by [ZiRoX](https://osu.ppy.sh/u/200768)
 
-So here it is, the winning entry of the CtB second Monthly Beatmapping Contest. It doesn't go with current standard so spread could look easy but it will still provide an interesting challenge to a lot of players. The collab rain is a quite nice collab (because let's not forgot Deif too here) and it relative low AR will let to the best players a possibility to Double Time it and to probably even fc it like that. 
+So here it is, the winning entry of the CtB second Monthly Beatmapping Contest. It doesn't go with current standard so spread could look easy but it will still provide an interesting challenge to a lot of players. The collab rain is a quite nice collab (because let's not forgot Deif too here) and it relative low AR will let to the best players a possibility to Double Time it and to probably even fc it like that.
 
 + [Nishiura Tomohito - Omoide no Teien](https://osu.ppy.sh/s/329707) by [JBHyperion](https://osu.ppy.sh/u/4879508)
 
-The easiest map for this month. It will as you expect with this kind of calm song contain calm patterns. But the interesting part with low bpm songs is that you tend to notice more the hitsounds and the one here are simple but work nicely. A nice choice if you are beginner or just want to relax a bit. 
+The easiest map for this month. It will as you expect with this kind of calm song contain calm patterns. But the interesting part with low bpm songs is that you tend to notice more the hitsounds and the one here are simple but work nicely. A nice choice if you are beginner or just want to relax a bit.
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[-Kamikaze-](https://osu.ppy.sh/u/2124783)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -140,7 +140,7 @@ difficulty are very hard to hit accurately due to very unique and complex long n
 **The September 2015 ranking charts will end on the 15th November 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the August 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -149,6 +149,6 @@ Congratulations to the winners of the August 2015 Ranking Charts. They receive a
 + **Catch the Beat:** [No492_Shaymin](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Runa](https://osu.ppy.sh/u/4643294)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

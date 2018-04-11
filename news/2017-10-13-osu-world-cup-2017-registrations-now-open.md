@@ -29,7 +29,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 ## How do I register?
 
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/12)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
++ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **29. October 2017.**
 
 Note that you can only participate if you are of a **osu! global ranking of #5000 or higher and did not violate the [osu! community rules](/wiki/Rules) in the past 12 months**.

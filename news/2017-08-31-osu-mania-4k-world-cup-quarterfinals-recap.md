@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup - Quarterfinals Recap"
 date: 2017-08-31 14:00:00 +0000
 ---
 
-This week, we’re gonna try switching up the recap format to something a little more stylish! Hopefully this will facilitate in your avid reading pleasure, as we dive right into the Quarterfinals stage of the osu!mania 4K World Cup!
+This week, we're gonna try switching up the recap format to something a little more stylish! Hopefully this will facilitate in your avid reading pleasure, as we dive right into the Quarterfinals stage of the osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 

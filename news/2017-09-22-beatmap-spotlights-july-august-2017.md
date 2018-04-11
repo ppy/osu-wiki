@@ -4,11 +4,11 @@ title: "Beatmap Spotlights: July and August 2017"
 date: 2017-09-22 16:00:00 +0000
 ---
 
-It’s a big month for the Spotlights, with shiny new medals for finishing each set finally making their way into the game client. Additionally, we have TWO months worth of Spotlights to present to you, featuring some of the best maps from both July and August. Read on to find out more!
+It's a big month for the Spotlights, with shiny new medals for finishing each set finally making their way into the game client. Additionally, we have TWO months worth of Spotlights to present to you, featuring some of the best maps from both July and August. Read on to find out more!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-That’s right, **Spotlight medals are now in the game and achievable by everyone.** If you’ve finished a beatmap pack or Spotlight in the past, simply play any map from that set again to get any applicable medals for it. All of 2017’s Spotlights have shiny new medals for you to collect, so get cracking!
+That's right, **Spotlight medals are now in the game and achievable by everyone.** If you've finished a beatmap pack or Spotlight in the past, simply play any map from that set again to get any applicable medals for it. All of 2017's Spotlights have shiny new medals for you to collect, so get cracking!
 
 With that said, the beatmap charts for July and August can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH17078). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
@@ -177,9 +177,9 @@ Featured as a guest difficulty for [toybot](https://osu.ppy.sh/u/2848604)'s set,
 Rhythms used are fairly straightforward as we can expect from a drum and bass track, but the relatively high BPM will keep your hands hot and busy! This beatmap is definitely a must have for every high tier osu!taiko player.
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/false-cross.jpg)](https://osu.ppy.sh/s/615067)
-Despite a fairly repetitive song, [butter0414](https://osu.ppy.sh/u/7935022) managed to create a set with a good variety of patterning to dodge the song’s natural tedium, with the density increasing gradually to encompass quintuplets mixed with ⅙ streams.
+Despite a fairly repetitive song, [butter0414](https://osu.ppy.sh/u/7935022) managed to create a set with a good variety of patterning to dodge the song's natural tedium, with the density increasing gradually to encompass quintuplets mixed with ⅙ streams.
 
-It might only be his second ranked beatmap, but it’s every bit as remarkable as every other map we’ve featured here so far. Well done!
+It might only be his second ranked beatmap, but it's every bit as remarkable as every other map we've featured here so far. Well done!
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/din-don-dan.jpg)](https://osu.ppy.sh/s/609906)
 
@@ -191,7 +191,7 @@ This map features a variety of patterns with many of them being snapped to the u
 
 A well structured mapset by [Nardoxyribonucleic](https://osu.ppy.sh/u/876419), almost completely bereft of any issues to point out. Simply superb all around.
 
-He managed to achieve a perfect balance in his following of the vocals by ample usage of cleverly designed rest moments, creating an excellent portrayal of a variety of techniques that aren’t often used when mapping vocals so closely in osu!taiko. An example for mappers to take note of!
+He managed to achieve a perfect balance in his following of the vocals by ample usage of cleverly designed rest moments, creating an excellent portrayal of a variety of techniques that aren't often used when mapping vocals so closely in osu!taiko. An example for mappers to take note of!
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/black-or-white.jpg)](https://osu.ppy.sh/s/606833)
 
@@ -215,7 +215,7 @@ With nearly twenty minutes of drain time on offer (more than any previously rank
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/boogie.jpg)](https://osu.ppy.sh/s/569985)
 
-It has been a quiet couple of years for fans of the legendary mapper [Spectator](https://osu.ppy.sh/u/702598) but now he's back and as brilliant as ever. Boogie is an intense and unrelenting beatmap that barely gives the player a moment’s rest. Fast and dense quarter beat patterns dominate the beatmap with quick hyperdashes and constant direction changes that require real stamina and concentration to catch.
+It has been a quiet couple of years for fans of the legendary mapper [Spectator](https://osu.ppy.sh/u/702598) but now he's back and as brilliant as ever. Boogie is an intense and unrelenting beatmap that barely gives the player a moment's rest. Fast and dense quarter beat patterns dominate the beatmap with quick hyperdashes and constant direction changes that require real stamina and concentration to catch.
 
 Despite the rather repetitive nature of the song, Spectator uses just the right amount of variety to keep things familiar yet fresh that overall makes for a fantastic six minutes of frenzied fruit catching.
 
@@ -239,9 +239,9 @@ It feels refreshing everytime you play it, and dispite of how harsh the map look
 
 [Kawawa](https://osu.ppy.sh/u/4647754) is back again to bless the ranked section of osu!mania with another 7-key marathon length map, this time with a wide variety of patterns and techniques. 
 
-Beginning with a rigid stack based structure, Kawawa deceives the player’s eyes with an equal mix of both subtle and aggressive slider velocity changes, eventually adding basic long notes and dense chord streams to the mix.
+Beginning with a rigid stack based structure, Kawawa deceives the player's eyes with an equal mix of both subtle and aggressive slider velocity changes, eventually adding basic long notes and dense chord streams to the mix.
 
-All of this comes together at the climax of the song in a perfect blend of long note frenzy that will put the player’s accuracy to the test, resulting in a map that is difficult but satisfying to pass.
+All of this comes together at the climax of the song in a perfect blend of long note frenzy that will put the player's accuracy to the test, resulting in a map that is difficult but satisfying to pass.
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/miko.jpg)](https://osu.ppy.sh/s/453386)
 

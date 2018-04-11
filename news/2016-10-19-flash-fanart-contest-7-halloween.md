@@ -25,7 +25,7 @@ The winners will also both receive 2 months of osu! supporter to tide them over 
 Rules
 --------
 * Artists should use the custom templates provided: [PSD template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.psd) / [PNG template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.png). 
-* **Note: these templates are to be used as a guide. Don’t leave the pink circle in your work though, you’ll just look dumb!**
+* **Note: these templates are to be used as a guide. Don't leave the pink circle in your work though, you'll just look dumb!**
 * The artwork you create has to be Halloween themed. If you show up with Christmas stuff, you'll be comically wrong. Even if clowns are in season this Halloween, it still isn't going to fly.
 * Submit only your own work! Don't plagiarise. This should go without saying. Don't trace other people's poses or anything either.
 * Don't use copyrighted characters from other intellectual properties. You're free to use the community-submitted mascots from the last contest as references to replicate in your own work, but they still remain the creation of their original artists, so respect that!

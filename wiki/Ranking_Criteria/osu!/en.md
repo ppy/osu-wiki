@@ -49,7 +49,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 Overall
 --------
 
-Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM maps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/osu!/Scaling_BPM).
 
 ### General
 
@@ -153,6 +153,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 -  **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
+
+If you use a Normal difficulty as the _lowest difficulty_ of your mapset, it should follow these guidelines in addition to the ones above
+-  **Avoid more than three actively clicked 1/2 rhythms in a row.**
+-  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of maps with extremely long sliders, such as sliders longer than 2 measures. 
+-  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders. 
+-  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable. 
+-  **Avoid slider velocity above 1.3x.**
 
 #### Difficulty Setting Guidelines
 

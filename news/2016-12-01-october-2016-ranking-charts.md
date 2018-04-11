@@ -12,13 +12,13 @@ The Ranking Charts for October 2016 have been just released and can be found [he
 Additionally, with the help of [Stefan](https://osu.ppy.sh/u/626907), we reintroduce to you the Chart Packs which are an easier and more convenient way to access to the charted beatmaps. You can find these and any upcoming Charts in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r).
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 + **[Masayoshi Minoshima feat. Sakaue Nachi - ILIAS](https://osu.ppy.sh/s/373543) by [-kevincela-](https://osu.ppy.sh/u/266596)**  (Nominator: [Irreverible](https://osu.ppy.sh/u/1287964))
 
@@ -47,7 +47,7 @@ Everything about this mapset is well-designed to reflect the music. Renegade is 
 In classic Okorin fashion, a spectacular 11-difficulty full-length set all done by himself. With each difficulty being done in his own characteristic style, it feels very cohesive. The rhythm choices used are perfect in bringing out the different intensities in the song, and the movement used is that of a calming nature, very appropriate for the song choice as well. The multitude of difficulties given is also great at appealing to a wider range of audiences. All in all, a well-rounded mapset that suits its position in this month's charts.
 
 
-###osu!taiko
+### osu!taiko
 
 + **[Ryu* feat.Mayumi Morinaga - Din Don Dan](https://osu.ppy.sh/s/467975) by [aabc271](https://osu.ppy.sh/u/155707)** (Nominator: [S a n d](https://osu.ppy.sh/u/676578))
 
@@ -75,7 +75,7 @@ Despite this song having complex melodies, Nwolf and SKSalt completely nailed th
 Another solid full taiko mapset which I'd like to mention in October. From eaier difficulties to harder one, mappers did very well on their maps. kantan and futsuu contains reasonable breaks by following vocal and drum,futsuu is harder than averange in order to make better difficulty gap with Muzukashii. Moreover, this set has two closed level Onis but the styles are totally different. Nardo's Oni was arranged rather rigorous or neat. ll-oscar and WoahE's one is relatively varied, plus, the SV change also provide the map become more interesting to play! To sum up ,every element about making taiko full set like spread, map's structure, pattern arrangement ... ect is quite decent. This set is worth to be one of charts as a good model of taiko full set in October!
 
 
-###osu!catch
+### osu!catch
 
 + **[FELT - Day after](https://osu.ppy.sh/s/458825) by [BennyBananas](https://osu.ppy.sh/u/4023183)** (Nominator: [JBHyperion](https://osu.ppy.sh/u/4879508))
 
@@ -103,7 +103,7 @@ This is probably the endurance challenge of these charts. The marathon mapped by
 
 
 
-###osu!mania
+### osu!mania
 
 + **[DragonForce - Symphony of the Night](https://osu.ppy.sh/s/478042) by [ajeemaniz](https://osu.ppy.sh/u/3027421)** (Nominator: [Feerum](https://osu.ppy.sh/u/4815717))
 
@@ -136,10 +136,10 @@ Kamikaze takes a rather unconventional take on the mapping scene of osu!mania wi
 **The October 2016 ranking charts will end on the 20th December 2016.**
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system for the charts, we have to halt the release of the winners of the past charts. We apologize for the inconvenience and hope to reactivate the score system soon!
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
 —OnosakiHito

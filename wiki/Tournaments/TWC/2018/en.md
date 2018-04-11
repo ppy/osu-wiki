@@ -50,6 +50,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/713163)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://goo.gl/phCq6X)
 
 -----------------------
 
@@ -137,25 +138,25 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/q87i9p51i3627bu/TWC%202018%20-%20GROUP%20STAGE%20MAPPOOL.rar)**
 
 - NoMod
-  - [Chroma - Collapse (MMzz) \[Inner Oni\]](http://osu.ppy.sh/b/1463029&m=1) 
-  - [NegaRen - Goin' Under (Nofool) \[Special Oni2\]](http://osu.ppy.sh/b/1254140&m=1) 
-  - [xi - Caramel Custard (D o t) \[Inner Oni\]](http://osu.ppy.sh/b/1102314&m=1) 
-  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (KitajimaYN) \[Taiko of an Illusion\]](http://osu.ppy.sh/b/1424840&m=1) 
-  - [Yuitsuki yukari - Shiawase ni nareru kakushi komando ga aru rashii (Firce777) \[Firce777's Taiko\]](http://osu.ppy.sh/b/514465&m=1)
+  - [Chroma - Collapse (MMzz) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1463029) 
+  - [NegaRen - Goin' Under (Nofool) \[Special Oni2\]](http://osu.ppy.sh/beatmaps/1254140) 
+  - [xi - Caramel Custard (D o t) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1102314) 
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (KitajimaYN) \[Taiko of an Illusion\]](http://osu.ppy.sh/beatmaps/1424840) 
+  - [Yuitsuki yukari - Shiawase ni nareru kakushi komando ga aru rashii (Firce777) \[Firce777's Taiko\]](http://osu.ppy.sh/beatmaps/514465)
 - Hidden
-  - [Ice - Entrance (Midnaait) \[Inner Oni (2014 Ver.)\]](http://osu.ppy.sh/b/1590333&m=1) 
-  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Inner Oni\]](http://osu.ppy.sh/b/1362671&m=1) 
+  - [Ice - Entrance (Midnaait) \[Inner Oni (2014 Ver.)\]](http://osu.ppy.sh/beatmaps/1590333) 
+  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1362671) 
 - HardRock
-  - [ESTi - HELIX (Edit ver.) (hikikochan) \[MX\]](http://osu.ppy.sh/b/1584721&m=1) 
-  - [YUC'e - Cinderella Syndrome (KinomiCandy) \[Last Dance\]](http://osu.ppy.sh/b/1167967&m=1) 
+  - [ESTi - HELIX (Edit ver.) (hikikochan) \[MX\]](http://osu.ppy.sh/beatmaps/1584721) 
+  - [YUC'e - Cinderella Syndrome (KinomiCandy) \[Last Dance\]](http://osu.ppy.sh/beatmaps/1167967) 
 - DoubleTime
-  - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Oni\]](http://osu.ppy.sh/b/751189&m=1) 
-  - [FELT - Day after (Senritsu) \[Oni\]](http://osu.ppy.sh/b/718430&m=1) 
+  - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Oni\]](http://osu.ppy.sh/beatmaps/751189) 
+  - [FELT - Day after (Senritsu) \[Oni\]](http://osu.ppy.sh/beatmaps/718430) 
 - FreeMod
-  - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](http://osu.ppy.sh/b/1012645&m=1) 
-  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](http://osu.ppy.sh/b/635003&m=1) 
+  - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1012645) 
+  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/635003) 
 - Tiebreaker
-  - ["sasakure.UK - Good Bye \[ Mr. Jack (tkdLolly)"\]](twcLolly) 
+  - [sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](http://osu.ppy.sh/beatmaps/1566477) 
 
 ------------------------------------------------------------------------
 

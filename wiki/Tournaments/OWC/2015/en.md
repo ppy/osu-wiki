@@ -3,59 +3,53 @@ tags:
 - OWC 2015
 - OWC2015
 ---
-osu! World Cup 2015
-========================
+# osu! World Cup 2015
 
-![OWC 2015 logo](logo.jpg)
+![osu! World Cup 2015 logo](logo.jpg)
 
-The **osu! World Cup 2015** (***OWC 2015***) is a country-based osu! tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 6th installment of the osu! World Cup.
+The **osu! World Cup 2015** (***OWC 2015***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 6th installment of the osu! World Cup.
 
-Tournament schedule
---------------------
+## Tournament Schedule
 
 | Event              | Timestamp                |
-|--------------------|--------------------------|
-| Registration Phase | 01-18 Oct 2015           |
-| Live Drawings      | 1 Nov 2015 14.00 (UTC+0) |
-| Group Stage        | 7-8 Nov 2015             |
-| Round 16           | 14-15 Nov 2015           |
-| Quarter-finals     | 21-22 Nov 2015           |
-| Semi-finals        | 28-29 Nov 2015           |
-| Finals - Week 1    | 5-6 Dec 2015             |
-| Finals - Week 2    | 12-13 Dec 2015           |
+|-------------------:|--------------------------|
+| Registration Phase | 2015-10-01/2015-10-18    |
+| Drawings           | 2015-11-01 (14:00 UTC+0) |
+| Group Stage        | 2015-11-07/2015-11-08    |
+| Round of 16        | 2015-11-14/2015-11-15    |
+| Quarterfinals      | 2015-11-21/2015-11-22    |
+| Semifinals         | 2015-11-28/2015-11-29    |
+| Finals - Week 1    | 2015-12-05/2015-12-06    |
+| Finals - Week 2    | 2015-12-12/2015-12-13    |
 
-Prizes
--------
+## Prizes
 
-We are aiming to have a minimum $5,000 cash prize pool for this world cup. You can support this by **[purchasing profile banners here!](https://store.ppy.sh/store/product/38)**
+In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Placing                                                    | Prizes                                                                  |
+| Place                                                    | Prize(s)                                                                  |
 |------------------------------------------------------------|-------------------------------------------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% of the raised prize pool, profile badge, "osu! Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge                             |
 
-Organization
---------------
+## Organization
 
-| Job                   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                                                                                                                                                           |
-| Map Selectors         | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| Streamers             | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Commentators          | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistician          | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+The osu! World Cup 2015 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-------------------------------------------------------------------------
+| Position | Members |
+| -------- | ------- |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)  |
+| Map Selectors         | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)  |
+| Streamers             | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentators          | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician          | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)  |
 
-Links
-------
+## Links
 
--   [osu! World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
+
 -   [Discussion Thread](https://osu.ppy.sh/forum/p/4550383)
--   [Registration page](https://jizz.ppy.sh/tournaments/2)
--   [Live results of current stage](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
--   **[Group Stage Statistics overview (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+-   [Livestream](https://www.twitch.tv/osulive/)
+-   **[Group Stage Statistics overview](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ------------------------------------------------------------------------
 

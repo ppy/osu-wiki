@@ -36,6 +36,12 @@ _Zobacz także: [Modowanie](/wiki/Modding)._
 
 Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy.
 
+## Tworzenie skórek
+
+*Zobacz także: [Tworzenie skórek](/wiki/Skinning) oraz [Poradnik dot. tworzenia skórek](/wiki/Skinning_Tutorial).*
+
+Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno kosmetyczne (np. inny kursor), jak i znaczące (np. całkowicie nowy wygląd elementów gry i interfejsu).
+
 ## osu!wiki - Jak możesz pomóc!
 
 26 sierpnia 2016 roku osu!wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu!wiki.
