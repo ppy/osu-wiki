@@ -90,6 +90,25 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/b/1600467)
+  - [Dillinja and Skibadee vs. Damian Marley - Twist 'Em Out vs. Welcome to Jamrock (Anorable) \[they call it murder\]](https://osu.ppy.sh/b/1548467)
+  - [Masakariushi - Blinded By Light (Elekton) [revealed by dark]](https://osu.ppy.sh/b/1357722)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/b/1454026)
+  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/b/1393891)
+  - [Laur - KILL KILL KILL KILL KILL (Valedict) \[QUINTUPLE HOMICIDE\]](https://osu.ppy.sh/b/1258153)
+  - [polysha - The Golden Era (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/b/1523992)
+  - [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/b/1504680)
+  - [amarazashi - Sora ni Utaeba (Gekido-) \[Go Beyond!\]](https://osu.ppy.sh/b/1590880)
+  - [The Algorithm - floating point (Drumcorps Remix) (Shoegazer) \[Incomputable\]](https://osu.ppy.sh/b/1479277)
+  - [DJ Noriken - #MAGiCVLGiRL\_TRV\P_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/b/1565515)
+  - [Max Dragon - OMEGA (Guilhermeziat) \[Terminal\]](https://osu.ppy.sh/b/1599981)
+  - [Gram VS Camellia - Ragnarok (Curiossity) \[Ragnarok\]](https://osu.ppy.sh/b/1477205)
+- Tiebreaker
+  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/b/1512722)
+
 ### Quarterfinals
 
 **[Download the mappack here! (82.24 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
@@ -194,6 +213,35 @@ Springtime Osu!mania Free-for-all Tournament 3
   - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
 
 ## Match Results
+
+### Quarterfinals
+
+Detailed results of the Round of 16 stage can be found [here](https://goo.gl/LevsDD).
+
+| Friday, 2018-04-06 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** | |
+
+| Saturday, 2018-04-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Azubeur ![][flag_FR]    | 0 | **6** | ![][flag_GB] **Traps Are Cute** | WBD |
+| **HeZeus** ![][flag_US] | **6** | 1 | ![][flag_BE] NightNarumi        | |
+| Rythze ![][flag_CL]     | 0 | **6** | ![][flag_PL] **Arkitev**        | WBD |
+| Pipper ![][flag_GB]     | 3 | **6** | ![][flag_MX] **\_Mytros\_**     | |
+| andreymc ![][flag_BR]   | 4 | **6** | ![][flag_ES] **aitor98**        | |
+| SitekX ![][flag_PL]     | 0 | **6** | ![][flag_US] **Chrubble**       | WBD |
+
+| Sunday, 2018-04-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| PotassiumF ![][flag_AU]       | 0 | **6** | ![][flag_US] **-Electro-**    | |
+| **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_GB] Pope Gadget      | |
+| **Minisora** ![][flag_MY]     | **6** | 0 | ![][flag_PL] Arkitev          | |
+| \_Mytros\_ ![][flag_MX]       | 4 | **6** | ![][flag_JP] **AMDuskia1996** | |
+| **TheToaphster** ![][flag_US] | **6** | 2 | ![][flag_CA] Dawt             | |
+| Panshow ![][flag_CA]          | 3 | **6** | ![][flag_BR] **Lothus**       | |
+| **-Electro-** ![][flag_US]    | **6** | 5 | ![][flag_GB] Traps Are Cute   | |
+| **Chrubble** ![][flag_US]     | **6** | 0 | ![][flag_US] HeZeus           | |
+| Tidek ![][flag_PL]            | 0 | **6** | ![][flag_JP] **inteliser**    | WBD |
 
 ### Round of 16
 
