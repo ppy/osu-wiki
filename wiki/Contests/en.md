@@ -123,19 +123,19 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Offical post](https://osu.ppy.sh/forum/t/448842)
 
 ### 2017
- 
- | Placing | Results                                                                                   | Original Artist                                           |
- |---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
- | First   | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)          | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw)                        |
- | Second  | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)              | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc)        |
- | Third   | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE)                           |
- 
- 
- - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
- - [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
- - [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
- - [Offical post](https://osu.ppy.sh/forum/t/617845)
- 
+
+| Placing | Results                                                                                   | Original Artist                                           |
+|---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| First   | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)          | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw)                        |
+| Second  | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)              | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc)        |
+| Third   | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE)                           |
+
+
+- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
+- [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
+- [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
+- [Offical post](https://osu.ppy.sh/forum/t/617845)
+
 
 ## Community Contests
 
