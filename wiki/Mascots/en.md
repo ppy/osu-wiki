@@ -10,15 +10,15 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase p, is the osu!standard mascot that joined on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by crystalsuicune, and the current art was designed by Daru.
+pippi, stylized with a lowercase p, is the osu!standard mascot that joined on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by [crystalsuicune](/users/9974), and the current art was designed by [Daru](/users/32480).
 
 ### Yuzu
 
-*For the news post, see: [Meet Yuzu](/home/news/89483664163).*
+<!-- *For the news post, see: [Meet Yuzu](/home/news/89483664163).* -->
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu is the osu!catch mascot that had joined on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprite was done by ztrot while Daru had created the comboburst art.
+Yuzu is the osu!catch mascot that had joined on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprite was done by [ztrot](/users/6347) while Daru had created the comboburst art.
 
 ### Maria
 
@@ -34,7 +34,7 @@ Maria is the osu!mania mascot that had joined on 2016-03-04. Her art was designe
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha is the osu!taiko mascot. She was initially designed during the [sixth fanart contest](/community/contests/2) by Crowie, which had been ranked 21st from the polls.
+Mocha is the osu!taiko mascot. She was initially designed during the [sixth fanart contest](/community/contests/2) by [Crowie](/users/6894067), which had been ranked 21st from the polls.
 
 ## Cameos
 
@@ -44,9 +44,9 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 > He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
-一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by iNiS Corporation and was once part of the old website. He also had an appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
+一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also had an appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
-Ryuuta was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Ryuuta was also featured in [LuigiHann](/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
 
 ### Agent J
 
@@ -62,7 +62,7 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 ![Don](img/Don.png "Don")
 
-> Don is the protagonist of the Taiko no Tatsujin series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
+> Don is the protagonist of the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
 
 和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48cm tall and weighs 100+ kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
 
