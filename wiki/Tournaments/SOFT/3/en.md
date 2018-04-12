@@ -93,21 +93,21 @@ Springtime Osu!mania Free-for-all Tournament 3
 ### Semifinals
 
 - FreeMod
-  - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/b/1600467)
-  - [Dillinja and Skibadee vs. Damian Marley - Twist 'Em Out vs. Welcome to Jamrock (Anorable) \[they call it murder\]](https://osu.ppy.sh/b/1548467)
-  - [Masakariushi - Blinded By Light (Elekton) [revealed by dark]](https://osu.ppy.sh/b/1357722)
-  - [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/b/1454026)
-  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/b/1393891)
-  - [Laur - KILL KILL KILL KILL KILL (Valedict) \[QUINTUPLE HOMICIDE\]](https://osu.ppy.sh/b/1258153)
-  - [polysha - The Golden Era (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/b/1523992)
-  - [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/b/1504680)
-  - [amarazashi - Sora ni Utaeba (Gekido-) \[Go Beyond!\]](https://osu.ppy.sh/b/1590880)
-  - [The Algorithm - floating point (Drumcorps Remix) (Shoegazer) \[Incomputable\]](https://osu.ppy.sh/b/1479277)
-  - [DJ Noriken - #MAGiCVLGiRL\_TRV\P_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/b/1565515)
-  - [Max Dragon - OMEGA (Guilhermeziat) \[Terminal\]](https://osu.ppy.sh/b/1599981)
-  - [Gram VS Camellia - Ragnarok (Curiossity) \[Ragnarok\]](https://osu.ppy.sh/b/1477205)
+  - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/beatmaps/1600467)
+  - [Dillinja and Skibadee vs. Damian Marley - Twist 'Em Out vs. Welcome to Jamrock (Anorable) \[they call it murder\]](https://osu.ppy.sh/beatmaps/1548467)
+  - [Masakariushi - Blinded By Light (Elekton) [revealed by dark]](https://osu.ppy.sh/beatmaps/1357722)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/beatmaps/1454026)
+  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmaps/1393891)
+  - [Laur - KILL KILL KILL KILL KILL (Valedict) \[QUINTUPLE HOMICIDE\]](https://osu.ppy.sh/beatmaps/1258153)
+  - [polysha - The Golden Era (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmaps/1523992)
+  - [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/beatmaps/1504680)
+  - [amarazashi - Sora ni Utaeba (Gekido-) \[Go Beyond!\]](https://osu.ppy.sh/beatmaps/1590880)
+  - [The Algorithm - floating point (Drumcorps Remix) (Shoegazer) \[Incomputable\]](https://osu.ppy.sh/beatmaps/1479277)
+  - [DJ Noriken - #MAGiCVLGiRL\_TRV\P_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/beatmaps/1565515)
+  - [Max Dragon - OMEGA (Guilhermeziat) \[Terminal\]](https://osu.ppy.sh/beatmaps/1599981)
+  - [Gram VS Camellia - Ragnarok (Curiossity) \[Ragnarok\]](https://osu.ppy.sh/beatmaps/1477205)
 - Tiebreaker
-  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/b/1512722)
+  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmaps/1512722)
 
 ### Quarterfinals
 
