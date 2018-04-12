@@ -64,7 +64,7 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 > Don is the protagonist of the Taiko no Tatsujin series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
 
-和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko tha joined in 2008-05. He is 48cm tall and weighs 100+ kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48cm tall and weighs 100+ kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
 
 ## Community
 
