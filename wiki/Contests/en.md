@@ -92,7 +92,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
 - [News post](https://osu.ppy.sh/news/95662228778)
 - [Results post](https://osu.ppy.sh/news/106902823593)
-- [Offical post](https://osu.ppy.sh/forum/t/234545)
+- [Official post](https://osu.ppy.sh/forum/t/234545)
 
 ### 2015
 
@@ -106,7 +106,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
 - [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
-- [Offical post](https://osu.ppy.sh/forum/t/352608)
+- [Official post](https://osu.ppy.sh/forum/t/352608)
 
 ### 2016
 
@@ -120,7 +120,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
 - [Results post](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
-- [Offical post](https://osu.ppy.sh/forum/t/448842)
+- [Official post](https://osu.ppy.sh/forum/t/448842)
 
 ### 2017
 
@@ -134,7 +134,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
 - [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
 - [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
-- [Offical post](https://osu.ppy.sh/forum/t/617845)
+- [Official post](https://osu.ppy.sh/forum/t/617845)
 
 
 ## Community Contests
