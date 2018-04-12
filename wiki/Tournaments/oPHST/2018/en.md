@@ -123,7 +123,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
 
-- The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of April 15, 2018, 18:00 UTC+8.
+- The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of 2018-04-15 (18:00 UTC+8).
 
 - Both **osu!mania 4K** and **osu!mania 7K** divisions shall adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
@@ -162,7 +162,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
 
-- The registration phase of the tournament shall begin on April 1, 2018 and end on April 15, 2018. Only thirty-two (32) slots are opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament shall begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
@@ -222,11 +222,11 @@ Mappools will be revealed one week in advance of each stage.
 
 - Players shall alternate picks until a match winner is determined. This shall be in a Best-of-X series with the formats listed as follows: 
 
-	- Round of 32/o!m Group Stage - Best-of-7 (First to 4) 
-	- Round of 16/o!m Quarterfinals - Best-of-9 (First to 5) 
-	- Quarterfinals/o!m Semifinals - Best-of-11 (First to 6) 
-	- Semifinals/o!m Finals Week 1 - Best-of-13 (First to 7) 
-	- Finals/o!m Finals Week 2 - Best-of-13 (First to 7) 
+	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4) 
+	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5) 
+	- osu!standard Quarterfinals/osu!catch and osu!mania Semifinals - Best-of-11 (First to 6) 
+	- osu!standard Semifinals/osu!catch and osu!mania Finals Week 1 - Best-of-13 (First to 7) 
+	- osu!standard Finals/osu!catch and osu!mania Finals Week 2 - Best-of-13 (First to 7) 
 
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**. 
 
@@ -236,7 +236,9 @@ Mappools will be revealed one week in advance of each stage.
 
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu!standard and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 
-- For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker. The Loser's Bracket Finals will be played using the Finals Week 2 mappool. 
+- For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker.
+
+- For osu!catch and osu!mania, the Loser's Bracket Finals will be played using the Finals Week 2 mappool of the respective game modes.
 
 ### Rescheduling 
 
