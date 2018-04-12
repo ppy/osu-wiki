@@ -74,7 +74,7 @@ Overall, the maps were constructed very well, and I would not be surprised to se
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/united.jpg)](http://osu.ppy.sh/s/556731)
 
-We make the choices, and united we decided that Unmei Muma’s United deserves a spot in this month’s spotlight! 
+We make the choices, and united we decided that Unmei Muma's United deserves a spot in this month's spotlight! 
 
 Wait, this sounds familiar. With more difficult, longer patterns and more drastic slider velocity changes than last month's United map, we have another approach at mapping this song. 
 

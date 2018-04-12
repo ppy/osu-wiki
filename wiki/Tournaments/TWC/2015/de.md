@@ -33,11 +33,11 @@ Organisation
 
 | Job                | Person(s)                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565)  |
-| Map Wähler         | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
-| Streamer           | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257) |
-| Kommentatoren      | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347)                                                               |
-| Statistiker        | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
+| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
+| Map Wähler         | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
+| Streamer           | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Kommentatoren      | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                               |
+| Statistiker        | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

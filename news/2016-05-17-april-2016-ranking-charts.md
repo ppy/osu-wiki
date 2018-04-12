@@ -11,14 +11,14 @@ With that being said, we are heading to the current Ranking Charts for April 201
 This month [Andrea](https://osu.ppy.sh/u/33599), [S a n d](https://osu.ppy.sh/u/676578), [Kingkevin30](https://osu.ppy.sh/u/564334) and [_underjoy](https://osu.ppy.sh/u/2235750) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Andrea](https://osu.ppy.sh/u/33599)** pick their favourite maps.
 
@@ -74,7 +74,7 @@ completely made for you! Don't miss this chance.
 
 
 
-###osu!taiko
+### osu!taiko
 
 For Taiko, we asked **[S a n d](https://osu.ppy.sh/u/676578)** about their favourite maps in April 2016.
 
@@ -96,7 +96,7 @@ Starting with the 1/6, none of them are miss placed or over mapped on purpose as
 
 + [Sleeping With Sirens - If You Can't Hang](https://osu.ppy.sh/s/409025) by [Raiden](https://osu.ppy.sh/u/2239480)
 
-<strike>Because you are such a pretty pretty pretty pretty map.</strike> The way Raiden has mapped the kiai to entirely follow the drum sound creates a very nice emphasis on the sound of kat. Another thing to mention is how he has made every single kiai gradually increase in density which really got me high when I was playing the last kiai. Also, the way he has emphasized the "pretty pretty pretty pretty face" with repetitive triplets really adds a nice flow when playing. This map made me feel like I went from a pathetic keyboard Taiko player to a professional drummer. wow, much drum, very professional, many nice job, good Raiden. 
+<strike>Because you are such a pretty pretty pretty pretty map.</strike> The way Raiden has mapped the kiai to entirely follow the drum sound creates a very nice emphasis on the sound of kat. Another thing to mention is how he has made every single kiai gradually increase in density which really got me high when I was playing the last kiai. Also, the way he has emphasized the "pretty pretty pretty pretty face" with repetitive triplets really adds a nice flow when playing. This map made me feel like I went from a pathetic keyboard Taiko player to a professional drummer. wow, much drum, very professional, many nice job, good Raiden.
 
 + [senya - Yozakura ni Kimi o Kakushite](https://osu.ppy.sh/s/365251) by [Surono](https://osu.ppy.sh/u/3611370)
 
@@ -105,7 +105,7 @@ I was quite disappointed on the previous map set on this song because of how eas
 
 
 
-###osu!catch
+### osu!catch
 
 For osu!catch, **[Kingkevin30](https://osu.ppy.sh/u/564334)** was the chosen one to declare the winners of the April 2016 beatmaps.
 
@@ -136,7 +136,7 @@ As one of the slower maps on my selection this map won't be a powerhouse or a bi
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[_underjoy](https://osu.ppy.sh/u/2235750)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -172,7 +172,7 @@ Ranked on 1st of April, this beatmap is NOT a joke! This mapset consists of only
 **The April 2016 ranking charts will end on the 15th June 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the March 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -181,6 +181,6 @@ Congratulations to the winners of the March 2016 Ranking Charts. They receive a 
 + **Catch the Beat:** [_Asriel](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Runa](https://osu.ppy.sh/u/4643294)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

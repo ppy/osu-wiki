@@ -40,8 +40,8 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 - 16 Packs. (4 Themen x 4 Teilen)
   - 1 Stunde 20 Minuten = 1 Pack (Durchschnittliche Zeit, um ein Pack zu vervollständigen)
-- 211 Lieder (206 + 3 ![Ranked](/wiki/shared/Heart.gif "Ranked") Ranked, 1 ![Approved](/wiki/shared/Fire.gif "Approved") Approved und 1 Pending)
-- 662 Schwierigkeitsstufen (660 ![Ranked](/wiki/shared/Heart.gif "Ranked") Ranked, 1 ![Approved](/wiki/shared/Fire.gif "Approved") Approved und 1 Pending)
+- 211 Lieder (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") Ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") Approved und 1 Pending)
+- 662 Schwierigkeitsstufen (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") Ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") Approved und 1 Pending)
 - 1.39 GB (zipped), 1.47 GB (importiert)
 - 3 Minuten 33 Sekunden. (Importierungszeit für alle 16 Packs)
 

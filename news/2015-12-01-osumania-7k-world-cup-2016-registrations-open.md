@@ -7,10 +7,9 @@ tumblr_url: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-20
 ---
 We would like to welcome all of you to new year's official osu!mania World Cups, starting with the 7-key edition! To ensure that you are aware of everything, please [read our wiki article carefully](http://osu.ppy.sh/wiki/MWC_7K_2016)  before registering for this tournament.
 
-<center>
-<img src="http://puu.sh/lE9oF/4f12030aef.png"></center>
+![](http://puu.sh/lE9oF/4f12030aef.png)
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 1-20 Dec 2015
 + Live Drawings: 3 Jan 2016 14:00 UTC+0
@@ -21,12 +20,12 @@ We would like to welcome all of you to new year's official osu!mania World Cups,
 + Finals - Week 1: 6-7 Feb 2016
 + Finals - Week 2: 13-14 Feb 2016
 
-##What has been changed?
+## What has been changed?
 
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We implemented a money prize pool.
 
-##Prizes
+## Prizes
 
 We are aiming to have a minimum $1,900 cash prize pool for this world cup. We will be announcing a way you can help raise funds for the prize pool shortly, so stay tuned!
 
@@ -35,7 +34,7 @@ We are aiming to have a minimum $1,900 cash prize pool for this world cup. We wi
 + 2nd: 38% of the raised prize pool, profile badge
 + 3rd: 12% of the raised prize pool, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://new.ppy.sh/tournaments/3)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.

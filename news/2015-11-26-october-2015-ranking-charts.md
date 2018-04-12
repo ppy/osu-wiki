@@ -9,14 +9,14 @@ Hello everyone and sorry for the late announcement! The Ranking Charts for Octob
 This month [Priti](https://osu.ppy.sh/u/2198472), [SKSalt](https://osu.ppy.sh/u/3280542), [- Magic Bomb -](https://osu.ppy.sh/u/3071175) and [ExUsagi](https://osu.ppy.sh/u/3027421) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Priti](https://osu.ppy.sh/u/2198472)** pick their favourite maps.
 
@@ -47,7 +47,7 @@ I usually dislike DnB maps due to them being generally boring and unoriginal, bu
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[SKSalt](https://osu.ppy.sh/u/3280542)** about their favourite maps in October 2015.
 
@@ -66,7 +66,7 @@ This friendly set is the easiest and shortest one in this chart. Every difficult
 
 + [Black Raison d'etre - INSIDE IDENTITY](https://osu.ppy.sh/s/66901) by [taiko_maniac1811](https://osu.ppy.sh/u/595764) & [lolcubes](https://osu.ppy.sh/u/578401)
 
-This song is long compared to the others. It's over 4 minutes, but you'll never get tired of playing it. There are two difficulties with a basic flow, but it gives you a feeling of how the gameplay in Taiko works. It represents the sentence “less is more” in a good way.
+This song is long compared to the others. It's over 4 minutes, but you'll never get tired of playing it. There are two difficulties with a basic flow, but it gives you a feeling of how the gameplay in Taiko works. It represents the sentence "less is more" in a good way.
 
 + [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/s/332623)　by [_Gezo_](https://osu.ppy.sh/u/481582) & [Nardoxyribonucleic](https://osu.ppy.sh/u/876419)
 
@@ -80,7 +80,7 @@ I chose this mapset as the last one, mapped by Lost The Lights. The high BPM is 
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[- Magic Bomb -](https://osu.ppy.sh/u/3071175)** was the chosen one to declare the winners of the October 2015 beatmaps.
 
@@ -111,17 +111,17 @@ Another convert map of another amazing song, this map by Bakari is a very fun co
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[ExUsagi](https://osu.ppy.sh/u/3027421)** was able to select their personal most noteworthy beatmap from last month.
 
 + **[Halozy - Kanshou no Matenrou](https://osu.ppy.sh/s/350528) by [Rumia-](https://osu.ppy.sh/u/1787171)**
 
-In 2015, sometimes I felt there weren’t many 7k maps that were special in their own, unique way that were ranked. I am so glad that Rumia- gave me another chance to play some cool stuff that has been absent for a while in the ranked listing: A true, challenging and impressive 7K osu!mania map.
+In 2015, sometimes I felt there weren't many 7k maps that were special in their own, unique way that were ranked. I am so glad that Rumia- gave me another chance to play some cool stuff that has been absent for a while in the ranked listing: A true, challenging and impressive 7K osu!mania map.
 
 What impressed me, despite the fact that the song is rather repetitive, is that the structure of the patterns in each phase are designed in a creative and different way. It doesn't feel like there are any repetitive and boring patterns; it is flow at its finest, and the map itself is very solid and fits perfectly with the mood of the song.
 
-Some key features of the map that I’d like to point out is that the map and the song flow perfecting in sync with each other. As the music transitions from a more intense sound to a more quiet, relaxed phase, and then becomes more climatic until the end, the map merges together perfectly through each of these sections.
+Some key features of the map that I'd like to point out is that the map and the song flow perfecting in sync with each other. As the music transitions from a more intense sound to a more quiet, relaxed phase, and then becomes more climatic until the end, the map merges together perfectly through each of these sections.
 
 Just to point out, not every mapper is able to map something as brilliant as has Rumia- did for their mania mapset. Honestly, for me, this map deserved the first spot for this monthly chart!
 
@@ -148,7 +148,7 @@ The secondnd set with simple and solid N H I in 4K. liaoxingyao and SanadaYukimu
 + [Erio o Kamattechan - os-Uchuujin(Asterisk Makina Remix)](https://osu.ppy.sh/s/338762) by [Frim4503](https://osu.ppy.sh/u/2945775)
 
 Ayyy, a catchy song from Asterisk made into a 5k marathon.
-Yes! A marathon! In 5K! For 5K lovers! Frim4503 managed to create another impressive, fun, & "Greget" 5K map. In this marathon you will find a light usage of patterns that are relatively easy to execute, but which can be still quiet a challenge for rookie and medicore players. The note chart is mainly focuses on the synthesizer and the Drum’n’Bass percussion throughout the song in a fresh way, so it’s worth to try 5K maps sometimes. 
+Yes! A marathon! In 5K! For 5K lovers! Frim4503 managed to create another impressive, fun, & "Greget" 5K map. In this marathon you will find a light usage of patterns that are relatively easy to execute, but which can be still quiet a challenge for rookie and medicore players. The note chart is mainly focuses on the synthesizer and the Drum'n'Bass percussion throughout the song in a fresh way, so it's worth to try 5K maps sometimes.
 
 
 
@@ -156,7 +156,7 @@ Yes! A marathon! In 5K! For 5K lovers! Frim4503 managed to create another impres
 **The October 2015 ranking charts will end on the 15th December 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the September 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -165,6 +165,6 @@ Congratulations to the winners of the September 2015 Ranking Charts. They receiv
 + **Catch the Beat:** [No492_Shaymin](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Squishykorean](https://osu.ppy.sh/u/4372604)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

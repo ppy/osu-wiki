@@ -1,4 +1,4 @@
-Timing (Français)
+Timing
 ===================
 
 Le **timing** d'une [Beatmap](/wiki/Beatmaps) se compose de la définition du décalage du son (« *offset* ») et du nombre de battements par minute (BPM). Le BPM de la musique va en général aussi vite que le son lui-même. Le décalage correspond à la durée entre le nombre de temps entre le début du mp3 et le premier battement du son, c'est-à-dire le début de la musique.

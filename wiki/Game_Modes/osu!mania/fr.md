@@ -21,7 +21,7 @@
 [set fixed scaling image]: ./img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'Options"
 
 <!-- shared image -->
-[osu!mania icon link]: /wiki/shared/Mania.gif "icône d'osu!mania"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "icône d'osu!mania"
 [osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "les notes d'osu!mania"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "les longues notes d'osu!mania"

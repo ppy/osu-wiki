@@ -1,12 +1,5 @@
-[Ns]: /wiki/shared/Na-s.png "No"
-[Nt]: /wiki/shared/Na-t.png "No"
-[Nf]: /wiki/shared/Na-f.png "No"
-[Nm]: /wiki/shared/Na-m.png "No"
-
-[Ys]: /wiki/shared/Insane-s.png "Yes"
-[Yt]: /wiki/shared/Insane-t.png "Yes"
-[Yf]: /wiki/shared/Insane-f.png "Yes"
-[Ym]: /wiki/shared/Insane-m.png "Yes"
+[false]: /wiki/shared/false.png "No"
+[true]: /wiki/shared/true.png "Yes"
 
 Quality Assurance Team
 ======================
@@ -15,27 +8,33 @@ The **Quality Assurance Team**, commonly referred to as QAT, are the judges of q
 
 QAT members will be held to strict activity standards as their role requires them to be regularly involved in assessing beatmap quality.
 
-Members of this team will be promoted from [BNs](/wiki/People/Beatmap_Nomination_Group), should they accept the new role offered. Members of QAT have a red name in in-game chat and on the forums, whereas BNs no longer do.
+Members of this team will be promoted from [BNs](/wiki/People/Beatmap_Nominators/), should they accept the new role offered. Members of QAT have a red name on the in-game chat and on the forums, whereas BNs only have a purple name on the forums.
 
 Team Members
 ------------
 
-Link to [user group page](https://osu.ppy.sh/g/7)
+Link to [user group page](https://osu.ppy.sh/groups/7)
 
-| Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Additional Languages       |
-|---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------|
-| [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese, some French      |
-| [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                            |
-| [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
-| [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish, German            |
-| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                     |
-| [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | German                     |
-| [IamKwaN](https://osu.ppy.sh/u/1856463)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, Cantonese         |
-| [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German, Swiss, some French |
-| [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  |                            |
-| [Kurokami](https://osu.ppy.sh/u/260933)           | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Hungarian                  |
-| [Mao](https://osu.ppy.sh/u/2204515)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                     |
-| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Chinese, Cantonese         |
-| [Okorin](https://osu.ppy.sh/u/1623405)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                     |
-| [OnosakiHito](https://osu.ppy.sh/u/290128)        | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German, Serbian, Japanese  |
-| [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
+| Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages        |
+|---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
+| [-Mo-](https://osu.ppy.sh/users/4314710)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Asherz007](https://osu.ppy.sh/users/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
+| [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German         |
+| [Doyak](https://osu.ppy.sh/users/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Korean                  |
+| [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German                  |
+| [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
+| [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
+| [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
+| [Kurai](https://osu.ppy.sh/users/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                  |
+| [Kurokami](https://osu.ppy.sh/users/260933)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Hungarian               |
+| [Lanturn](https://osu.ppy.sh/users/1446665)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
+| [Mao](https://osu.ppy.sh/users/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
+| [Mir](https://osu.ppy.sh/users/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Myxomatosis](https://osu.ppy.sh/users/2202645)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
+| [Naxess](https://osu.ppy.sh/users/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                 |
+| [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese, Cantonese      |
+| [p3n](https://osu.ppy.sh/users/123703)                | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
+| [pishifat](https://osu.ppy.sh/users/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Protastic101](https://osu.ppy.sh/users/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
+| [Raiden](https://osu.ppy.sh/users/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan        |

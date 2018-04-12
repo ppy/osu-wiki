@@ -1,31 +1,28 @@
+<!-- BanchoBot Information -->
 # BanchoBot
 
 ![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
 BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by **Echo49** that assists people in chat by displaying certain information and announcing game-related messages.
-BanchoBot is your host for the [osu!chat server](/wiki/Internet_Relay_Chat) and has a profile named _[BanchoBot](https://osu.ppy.sh/u/3)_.
+It is the host of the [bancho irc](/wiki/Internet_Relay_Chat) and has a user profile with the ID _[#3](https://osu.ppy.sh/u/3)_ (next to peppy who is [#2](https://osu.ppy.sh/u/2)). *It also has its own [twitter profile](https://twitter.com/banchoboat)!*
 
-## Using BanchoBot
 
-To use BanchoBot, type `/help` into chat; any chat tab will do. After that, you will be given a list of available commands in your chat bar that only you can see. **All commands are case insensitive.** Below is a list of all of the commands and their effects: 
+<!-- BanchoBot (server) commands start with an exclamation mark! `!`-->
+## BanchoBot Commands
 
-## Commands
+To use BanchoBot commands, you must use the `!` prefix everytime. **Normal users can only use these commands in multiplayer channels and in BanchoBot PM.** If a user send a command in public chat, normal users won't see it and they get it as a private message.
+Users can also use `/bb <command>` client command to automatically open a BanchoBot tab and sending the command immediately.
 
-**Note: You *must* prefix all commands with a `/`!** All effect listings are verbatim from the command list. Notes are shown in *italics*.
+*For a list of slash (client) commands, visit the [Chat Console](/wiki/Chat_Console#commands-list) article.*
 
-### Standard Commands
-
-*For a table of standard commands, go to the [Chat Console](/wiki/Chat_Console) article.*
-
-### /bb Commands
-
-Inside of the BanchoBot tab, the prefix `/bb` is not required. All commands beginning with `/bb` open a new tab with BanchoBot if the tab is not already opened; otherwise they appear in BanchoBot's tab as if you typed them in there. All responses are received through BanchoBot's tab.
-
-| Command | Argument(s) | Effect | Example | Example Response |
-| ------- | ----------- | ------ | ------- | ---------------- |
-| `WHERE` | `<user>` | Shows where the selected player is located in the real world. | /bb WHERE Sudokyu | "Sudokyu is in Japan" | 
-| `STATS` | `<user>` | Shows the status and stats of the selected player. | /bb STATS ThomasTheTrain | "Stats for ThomasTheTrain is Playing: <br> Score:  20,255,242 (#918000) <br> Plays:  160 (lv24) <br> Accuracy: 97.42% | 
-| `FAQ` | `[lang:]<item>` | Shows information about the item. Use `list` as the argument to generate a list of available entries. | /bb FAQ wiki <br> /bb FAQ jp:wiki | "The [osu!wiki](https://osu.ppy.sh/wiki/) is currently moved to GitHub: [ppy/osu-wiki](https://github.com/ppy/osu-wiki/) <br> [osu!のWikiページ](https://osu.ppy.sh/wiki/) - さらに良いページにしていきましょう! |
-| `REPORT` | `<user> <reason>` | Report someone for a reason | /bb REPORT MikeSchmidt Works at Freddy Fazbear's | "Chat moderators has been alerted. Thanks for your help." |
-| `REQUEST` | N/A | Receive a random beatmap that had a mod request. The list doesn't update frequently, so it's possible to receive an already ranked beatmap. | /bb REQUEST | [HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio |
-| `ROLL` | `[max]` | Roll a virtual `max`-sided die and receive a random result. If no argument is given, `max` is defaulted to 100. | /bb ROLL 50 | "\<username\> rolls 7 point(s)" |
+<!-- Commands List -->
+| Command   | Argument(s)            | Description | Example Input | Example Response |
+| --------- | ---------------------- | ----------- | ------------- | ---------------- |
+| `HELP`    | None                   | Shows the list of available commands                                                    | `!help`                               | This list |
+| `ROLL`    | `[number]`             | Randomly gets a value up to the selected number (default is 100).                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
+| `STATS`   | `<user_name>`          | Displays the stats of the user depending on the mode they're playing                    | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
+| `WHERE`   | `<user_name>`          | Shows the current location of the user.                                                 | `!where Kyubey`                       | "Kyubey is in Russia" |
+| `FAQ`     | `[lang:]<entry>/list`  | Displays the message of the entry. Use `list` as entry to show all available entries.   | `!faq ping`                           | "Pong!" |
+| `REPORT`  | `<user_name> <reason>` | Sends a report to the chat moderators. Replace username spaces to underscores `_`       | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
+| `REQUEST` | None                   | Receive a random beatmap that a user requests modding assistance.                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+<!-- Note: The !search command is not included because it is no longer working. -->

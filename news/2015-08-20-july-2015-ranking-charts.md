@@ -10,12 +10,12 @@ With some delay, the Ranking Charts for July 2015 have just been released and [c
 This month [monstrata](https://osu.ppy.sh/u/2706438), [Stefan](https://osu.ppy.sh/u/626907), [ExRei](https://osu.ppy.sh/u/1929336) and [Harbyter](https://osu.ppy.sh/u/1147679) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[monstrata](https://osu.ppy.sh/u/2706438)** pick their favourite maps.
 
@@ -27,9 +27,9 @@ Despite its 10 minutes of drain time, this is one of the few maps that make you 
 
 Open up this map in editor and you'll see some immaculate yet creative designs. Literally every circle and slider on this map is there for a reason and part of a pattern. If you want to look at some well structured maps, this is definitely one of them. Lets talk about some cool concepts shown here. The entire first section of this map features sliders going only in a single direction (up). This concept is really interesting because despite the repetitive upward motion, the section is really fun to play because of the various motions in between sliders. Slider shapes are also very well designed throughout this map. I really enjoyed the slider-art, but also the various 1/2 slider-shapes used. Also, I thoroughly enjoyed the streams on this map. They were challenging, but visually appealing, while still being tame enough to not affect playability. This was a challenging but expertly designed map, and I had a lot of fun playing it.
 
-+ [Razihel &amp; Virtual Riot - One For All, All For One](https://osu.ppy.sh/s/275655) by [Fort](https://osu.ppy.sh/u/2805457) 
++ [Razihel &amp; Virtual Riot - One For All, All For One](https://osu.ppy.sh/s/275655) by [Fort](https://osu.ppy.sh/u/2805457)
 
-I will always have a special appreciation for mappers who can produce large mapsets for songs that are not tv-sized. Lets talk about the highest difficulty "Together We've Fallen". The sliders on this map are extremely well designed so that players can take advantage of slider-leniency to play otherwise complex and difficult patterns with relative ease. Additionally, while this map features a lot of 210 217.5 BPM single-taps they all play very intuitively and provide just enough of a challenge for the player without coming off as over-snapped. Don't forget to check out the other 10 difficulties in this set! There's bound to be a difficulty suitable for everyone. 
+I will always have a special appreciation for mappers who can produce large mapsets for songs that are not tv-sized. Lets talk about the highest difficulty "Together We've Fallen". The sliders on this map are extremely well designed so that players can take advantage of slider-leniency to play otherwise complex and difficult patterns with relative ease. Additionally, while this map features a lot of 210 217.5 BPM single-taps they all play very intuitively and provide just enough of a challenge for the player without coming off as over-snapped. Don't forget to check out the other 10 difficulties in this set! There's bound to be a difficulty suitable for everyone.
 
 + [onoken - Izayoi -INST-](https://osu.ppy.sh/s/247580) by [cmn_891127](https://osu.ppy.sh/u/408461)
 
@@ -45,7 +45,7 @@ Nara did a great job with mapping this song. If you open up "First Love" in edit
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Stefan](https://osu.ppy.sh/u/626907)** about their favourite maps in July 2015.
 
@@ -82,7 +82,7 @@ They were some controversial parts in the harder difficulties such as 1/6 usage 
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[ExRei](https://osu.ppy.sh/u/1929336)** was the chosen one to declare the winners of the July 2015 beatmaps.
 
@@ -111,7 +111,7 @@ A marathon converted map. This map is really good(I bet you'll dancing after hea
 The easiest map on this writing. Relaxing song with relaxing patterns. If you as beginner are new to CTB, try playing this beatmap. It is kinda made for CTB training and can be played on all mods!
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Harbyter](https://osu.ppy.sh/u/1147679)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -121,7 +121,7 @@ For osu!mania, **[Harbyter](https://osu.ppy.sh/u/1147679)** was able to select t
 
 + [MiddleIsland - Achromat](https://osu.ppy.sh/s/195940) by [iJinjin](https://osu.ppy.sh/u/3360737)
 
-At first you might think this is just some random chord spam map with lots of stream and ridiculous jacks, just for the purpose to fill the difficulty gap in this set. But let me tell you, it&rsquo;s not! It is actually a pretty fun map which gives you an insight about how to use chord control, dealing with tons of jacking, playing long stream alongside with quick grace notes. Considering also that it is very well mapped in term of snapping and pattern placement that follows most of the time the piano.
+At first you might think this is just some random chord spam map with lots of stream and ridiculous jacks, just for the purpose to fill the difficulty gap in this set. But let me tell you, it's not! It is actually a pretty fun map which gives you an insight about how to use chord control, dealing with tons of jacking, playing long stream alongside with quick grace notes. Considering also that it is very well mapped in term of snapping and pattern placement that follows most of the time the piano.
 
 + [Ogura Yui - Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix)](https://osu.ppy.sh/s/316659) by [KawaEE](https://osu.ppy.sh/u/4647754)
 
@@ -129,7 +129,7 @@ A map with a very good consistency and enjoyable patterns. What I love most abou
 
 + [penoreri - Everlasting Message](https://osu.ppy.sh/s/307175) by [Julie](https://osu.ppy.sh/u/2420987)
 
-First of all, this is "a must have beatmap" for everyone. And even though it is not 1st on this ranking chart, doesn't mean it's below current 1st. This beatmap is awesome in in terms of learning how to chord in an easier way and stair control in "intuitive" way plus farming PP on "a very lovely song" that you will never get bored off. Sure, overall you can consider this map as easy, but it is really a very good 7K beatmap with nicely done patterns which aren&rsquo;t too stressful.
+First of all, this is "a must have beatmap" for everyone. And even though it is not 1st on this ranking chart, doesn't mean it's below current 1st. This beatmap is awesome in in terms of learning how to chord in an easier way and stair control in "intuitive" way plus farming PP on "a very lovely song" that you will never get bored off. Sure, overall you can consider this map as easy, but it is really a very good 7K beatmap with nicely done patterns which aren't too stressful.
 
 + [C-Show - Invitation from Mr.C](https://osu.ppy.sh/s/293235) by [\_FrEsH_ChICkEn\_](https://osu.ppy.sh/u/3984370)
 
@@ -137,7 +137,7 @@ Probably the most exciting 4K of this month which really deserve a place here. G
 
 + [Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/s/302726) by [Starry-](https://osu.ppy.sh/u/2166199)
 
-A great set doesn't always have to contain a really hard difficulty or hardcore stuff in general. But the main reason why I choose this set for the charts is the way being mapped in a very neat and clean way. Followed by a good and simple spread which absolutely fits for everyone&rsquo;s level. Even an average player can enjoy this beatmap by following the rhythm, which has a good difficulty curve, too.
+A great set doesn't always have to contain a really hard difficulty or hardcore stuff in general. But the main reason why I choose this set for the charts is the way being mapped in a very neat and clean way. Followed by a good and simple spread which absolutely fits for everyone's level. Even an average player can enjoy this beatmap by following the rhythm, which has a good difficulty curve, too.
 
 
 
@@ -145,7 +145,7 @@ A great set doesn't always have to contain a really hard difficulty or hardcore 
 **The July 2015 ranking charts will end on the 15th September 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the June 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -156,4 +156,4 @@ Congratulations to the winners of the June 2015 Ranking Charts. They receive a m
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
-&mdash;OnosakiHito
+—OnosakiHito

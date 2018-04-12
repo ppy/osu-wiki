@@ -3,7 +3,7 @@
 이 문서에는 오탈자 및 실제 유저가 사용하지 않는 단어가 있을 수 있습니다. 찾으면 수정해주세요.
 위키 문서를 잘 작성하지 못하는 사람이 작성했습니다. 잘못된 부분이 있으면 수정해주세요.
 <img src="Intro_static.jpg" title="fig:Right|시작화면" alt="Right|시작화면" width="400" /> \_\_TOC\_\_
-= **메인메뉴** = <img src="introscreen.png" title="fig:메인 메뉴" alt="메인 메뉴" width="280" />
+= **메인메뉴** = <img src="Introscreen.jpg" title="fig:메인 메뉴" alt="메인 메뉴" width="280" />
 
 1. 오스!로고는 재생되고 있는 노래의 설정된 [BPM에](KO:Timing "wikilink") 맞취 뜁니다(둠칫둠칫!). 노래가 재생되고있지 않으면, 기본설정대로 느리게 뜁니다.
 
@@ -34,7 +34,7 @@
 **플레이 메뉴**
 ===============
 
-<img src="introscreen2.png" title="플레이 메뉴" alt="플레이 메뉴" width="280" />
+<img src="Introscreen2.jpg" title="플레이 메뉴" alt="플레이 메뉴" width="280" />
 
 -   Solo를 누르면\[P\] 혼자서 플레이 할 수 있습니다. 솔로플레이 화면으로 넘어갑니다.
 -   Multi를 누르면\[M\] 다른사람과 멀티플레이를 즐길 수 있습니다. 멀티플레이 로비로 넘어갑니다.

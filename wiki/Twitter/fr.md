@@ -1,4 +1,4 @@
-# Twitter (Français)
+# Twitter
 
 ## Nous tweetons aussi!
 

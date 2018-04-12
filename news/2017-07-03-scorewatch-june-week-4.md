@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/5AH-Vkcenc0" frameborder="0" allowfullscreen>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/dOTlAs9lK4I" frameborder="0" allowfullscreen></iframe></br>
 
-[-GN](https://osu.ppy.sh/u/895581) might have churned out the craziest osu! EZHD play of all time, pulling off an absolutely terrifying 96.56% EZHD FC on [Nico Nico Douga - BARUSA of MIKOSU](https://osu.ppy.sh/b/24722) (which is 9.53*!), taking the No. 1 spot on the map live at Dreamhack. This would be worth approximately 707pp. What else can be better than for you to watch this amazing play yourself, together with the live chat, straight from -GN’s YouTube channel!
+[-GN](https://osu.ppy.sh/u/895581) might have churned out the craziest osu! EZHD play of all time, pulling off an absolutely terrifying 96.56% EZHD FC on [Nico Nico Douga - BARUSA of MIKOSU](https://osu.ppy.sh/b/24722) (which is 9.53*!), taking the No. 1 spot on the map live at Dreamhack. This would be worth approximately 707pp. What else can be better than for you to watch this amazing play yourself, together with the live chat, straight from -GN's YouTube channel!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MyTOUzA-sS8" frameborder="0" allowfullscreen></iframe></br>
 
@@ -27,14 +27,14 @@ src="https://www.youtube.com/embed/5AH-Vkcenc0" frameborder="0" allowfullscreen>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zqidKHSJ2-Q" frameborder="0" allowfullscreen></iframe></br>
 
-We haven’t shown [jakads](https://osu.ppy.sh/u/259972) in the Scorewatch for a while now, so here he is, taking [sakuzyo - Altale](https://osu.ppy.sh/b/767311&m=3) and slapping on DT to pull off a crazy 99.87% FC on the hardest difficulty worth 677pp. Just enjoy some intense keyboard action along with jakads’ interesting reactions.
+We haven't shown [jakads](https://osu.ppy.sh/u/259972) in the Scorewatch for a while now, so here he is, taking [sakuzyo - Altale](https://osu.ppy.sh/b/767311&m=3) and slapping on DT to pull off a crazy 99.87% FC on the hardest difficulty worth 677pp. Just enjoy some intense keyboard action along with jakads' interesting reactions.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/JbbOrDtEJh0" frameborder="0" allowfullscreen></iframe></br>
 
 NOTABLE MENTIONS
 -----
 
-[Karthy](https://osu.ppy.sh/u/4196808) followed [cptnXn](https://osu.ppy.sh/u/495272)’s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/s/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
+[Karthy](https://osu.ppy.sh/u/4196808) followed [cptnXn](https://osu.ppy.sh/u/495272)'s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/s/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
 
 [WubWoofWolf](https://osu.ppy.sh/u/39828) still continues to amaze the crowd by beating his personal best on [Kurokotei - Galaxy Collapse](https://osu.ppy.sh/b/924759?m=0) and setting a 1406x combo 88.16% score to claim the No. 1 spot again live at Dreamhack.
 

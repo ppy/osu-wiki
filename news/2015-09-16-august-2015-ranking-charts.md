@@ -10,13 +10,13 @@ This month [Sieg](https://osu.ppy.sh/u/1404615), [Nardoxyribonucleic](https://os
 
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Sieg](https://osu.ppy.sh/u/1404615)** pick their favourite maps.
 
@@ -47,7 +47,7 @@ The E. Priti is well known in community due to his unique Ultra diffs. While you
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Nardoxyribonucleic](https://osu.ppy.sh/u/876419)** about their favourite maps in August 2015.
 
@@ -83,7 +83,7 @@ Without having a look in editor, most of the players will be surprised owing to 
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[diao](https://osu.ppy.sh/u/500696)** was the chosen one to declare the winners of the August 2015 beatmaps.
 
@@ -109,11 +109,11 @@ Another wonderful song by Halozy, this might be my favorite ranked Halozy song b
 
 + [Parov Stelar - Catgroove](https://osu.ppy.sh/s/144955) by [Blue Dragon](https://osu.ppy.sh/u/19048)
 
-Blue Dragon is a fairly infamous name in the CtB community for his old ar10 maps, but don't forget that he maps far less intense things too! This song is the definition of chill, smooth, and classy and all of the diffs do an excellent job at complementing the mood. If you've played Charles445's map Dragons or even his Smile of Split you will probably think about those maps when you play the insane diff. These kinds of 3/4 slider heavy maps flow nicely as converts, sometimes creating a hyperdash heavy challenge like Spec's Yoiyami map. This set is less intense with the jump distance, but that does not take away from the challenge of timing smaller non-hyper mini jumps from one slider to the next. Hope you guys have fun with this one. 
+Blue Dragon is a fairly infamous name in the CtB community for his old ar10 maps, but don't forget that he maps far less intense things too! This song is the definition of chill, smooth, and classy and all of the diffs do an excellent job at complementing the mood. If you've played Charles445's map Dragons or even his Smile of Split you will probably think about those maps when you play the insane diff. These kinds of 3/4 slider heavy maps flow nicely as converts, sometimes creating a hyperdash heavy challenge like Spec's Yoiyami map. This set is less intense with the jump distance, but that does not take away from the challenge of timing smaller non-hyper mini jumps from one slider to the next. Hope you guys have fun with this one.
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[juankristal](https://osu.ppy.sh/u/443656)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -123,11 +123,11 @@ With only two 7 Key mapsets this month, I wanted to at least have one for the 7K
 
 + [Sawai Miku - Colorful. (Asterisk DnB Remix)](https://osu.ppy.sh/s/322571) by [Frim4503](https://osu.ppy.sh/u/2945775)
 
-Oh god, this decision was really hard to do. This map is awesome as well. A 5K marathon map (really uncommon thing) mapped by Frim. Really nice pattering with a really flow based map, not really hard but challenging enough for those people who want to try new gamemodes or keymodes(just as me). The use of the SV here is incredible well done and it feels very nice, I really enjoy this map and it’s sad for me to not put this one on #1 slot because it is really great.
+Oh god, this decision was really hard to do. This map is awesome as well. A 5K marathon map (really uncommon thing) mapped by Frim. Really nice pattering with a really flow based map, not really hard but challenging enough for those people who want to try new gamemodes or keymodes(just as me). The use of the SV here is incredible well done and it feels very nice, I really enjoy this map and it's sad for me to not put this one on #1 slot because it is really great.
 
 + [Lifetheory - Daisy](https://osu.ppy.sh/s/323163) by [Tidek](https://osu.ppy.sh/u/743282)
 
-The top 3 was really hard for me to decide. Daisy is a really awesome map made by Tidek and, in a personal opinion, one of the best structured maps I have seen ranked. A nice amount of long notes combined with well placed doubles following the piano pitch really well and also going for drums. A really good calm song with really good use of the SV(seems like Tidek knows how to handle them). Middle section SV is just awesome and you all should try this beatmap if you haven’t. If you don’t feel comfortable with hard stuff you can go and try the Clarity difficulty that’s also really good for people who are starting with 4k.
+The top 3 was really hard for me to decide. Daisy is a really awesome map made by Tidek and, in a personal opinion, one of the best structured maps I have seen ranked. A nice amount of long notes combined with well placed doubles following the piano pitch really well and also going for drums. A really good calm song with really good use of the SV(seems like Tidek knows how to handle them). Middle section SV is just awesome and you all should try this beatmap if you haven't. If you don't feel comfortable with hard stuff you can go and try the Clarity difficulty that's also really good for people who are starting with 4k.
 
 + [Drop - Granat](https://osu.ppy.sh/s/281349) by [-Kamikaze-](https://osu.ppy.sh/u/2124783)
 
@@ -135,7 +135,7 @@ What can I say about this mapset? As a mapset this is probably the best one of t
 
 + [Yooh - LegenD.](https://osu.ppy.sh/s/298006) by [_FrEsH_ChICkEn_](https://osu.ppy.sh/u/3984370)
 
-And now we have one of my favourites songs of SDVX and I am talking about _FrEsH_ChICkEn_ and Kuo Kyoka's LegenD.! This is really intense map from SDVX and a really [12][34] trill oriented beatmap, one of my favourites patterns too so I really enjoy playing this mapset. Gravity also have some crazy 1/12 burst, streams, long notes, almost everything that a good mapset needs. Even so, I think EXH is the best of the set which I really enjoy playing. If you are looking for cool music and you are a fan of SDVX style then, go play this map and don’t waste more time! You don’t even need to be a top player since there is a Basic and Advanced difficulty as well.
+And now we have one of my favourites songs of SDVX and I am talking about _FrEsH_ChICkEn_ and Kuo Kyoka's LegenD.! This is really intense map from SDVX and a really [12][34] trill oriented beatmap, one of my favourites patterns too so I really enjoy playing this mapset. Gravity also have some crazy 1/12 burst, streams, long notes, almost everything that a good mapset needs. Even so, I think EXH is the best of the set which I really enjoy playing. If you are looking for cool music and you are a fan of SDVX style then, go play this map and don't waste more time! You don't even need to be a top player since there is a Basic and Advanced difficulty as well.
 
 + [Tatsh - HEAVENLY MOON](https://osu.ppy.sh/s/243654) by [Spy](https://osu.ppy.sh/u/1217122)
 
@@ -147,16 +147,15 @@ And for the last map of this month we have Heavenly Moon by Spy. A really good m
 
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the July 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
 + **osu! standard:**[Toy](https://osu.ppy.sh/u/2757689)
-+ **Taiko:** [asuasu_yura](https://osu.ppy.sh/u/2875968)
++ **Taiko:** [asuasu\_yura](https://osu.ppy.sh/u/2875968)
 + **Catch the Beat:** [Dusk](https://osu.ppy.sh/u/533210)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito
-
