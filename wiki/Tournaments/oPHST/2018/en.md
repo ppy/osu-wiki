@@ -30,12 +30,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-01/2018-04-15 |
-| Round of 32          | 2018-04-28/2018-04-29 |
-| Round of 16          | 2018-05-05/2018-05-06 |
-| Quarterfinals        | 2018-05-12/2018-05-13 |
-| Semifinals           | 2018-05-19/2018-05-20 |
-| Finals               | 2018-05-26/2018-05-27 |
+| Registration Phase   | 2018-04-01/2018-04-12 |
+| Round of 16          | 2018-04-28/2018-04-29 |
+| Quarterfinals        | 2018-05-05/2018-05-06 |
+| Semifinals           | 2018-05-12/2018-05-13 |
+| Finals Week 1        | 2018-05-19/2018-05-20 |
+| Finals Week 2        | 2018-05-26/2018-05-27 |
 
 ### osu!mania
 
@@ -82,7 +82,6 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 - Registration Forms
-	- [osu!catch](https://goo.gl/forms/NiXvErz6WhFGkHZl2)
 	- [osu!mania](https://goo.gl/forms/pttJgrxtpSlhu7QD3)
 
 ------------------------
@@ -119,6 +118,14 @@ Mappools will be revealed one week in advance of each stage.
 ### Game Modes and Scoring Format 
 
 - The tournament shall host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament shall use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
+
+### Tournament Formats
+
+- The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
+
+- The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of April 15, 2018, 18:00 UTC+8.
+
+- Both **osu!mania 4K** and **osu!mania 7K** divisions shall adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 ### Mods Used in the Tournament 
 
