@@ -96,7 +96,7 @@ All the tracks listed above (and on [his Featured Artist listing](https://osu.pp
 
 We're already aware that a couple of mappers are way ahead of the curve with this and are already diving head-first into **Dictate**'s sound, so don't miss out!
 
-If you like what you hear, don't hesitate to swing by [his SoundCloud](https://soundcloud.com/dictateneuro) and have a listen. You can also check him out on [Spotify](https://open.spotify.com/artist/4a74ArK6onepkCuKcZfG3w), say hello via [Twitter](https://twitter.com/DictateNeuro), or just even say hi in-game!
+If you like his sound, don't hesitate to swing by [his SoundCloud](https://soundcloud.com/dictateneuro) and have a listen to some of his other work. You can also check him out on [Spotify](https://open.spotify.com/artist/4a74ArK6onepkCuKcZfG3w), say hello via [Twitter](https://twitter.com/DictateNeuro), or even just say hi in-game!
 
 We've got more updates and more new artists planned for the coming weeks and months - with more than a few of them just as close to home as **Dictate** is!
 
