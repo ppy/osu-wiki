@@ -2,7 +2,7 @@
 
 *Página principal: [Historia de osu!](/wiki/HOO).*
 
-Lo siguiente es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](/users/5530) por ayudar a reunir el contenido de 2007/2008.
+Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](/users/5530) por ayudar a reunir el contenido de 2007/2008.
 ![](img/2007.jpg)
 
 ## Julio
@@ -52,7 +52,7 @@ que atrajo a bastantes personas interesadas con experiencias anteriores en juego
 
 ![](img/2007-09_02.jpg "Menu principal")
 
-![](img/2007-09_03.jpg "Ruleta \(basado en el juego de DS official Ouendan\)")
+![](img/2007-09_03.jpg "Ruleta \(basado en el Ouendan oficial de DS\)")
 
 ![](img/2007-09_04.jpg "Pantalla de clasificación")
 
@@ -64,11 +64,11 @@ Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/
 
 ## Octubre
 
-2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmap en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
+2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
 
 ![](img/2007-10_01.jpg)
 
-La pantalla para seleccionar canciones vio mejoras, con agrupación de dificultades y un movimiento más intuitivo de rueda. Conjunto de muestra más suave, controles basados en teclado, todas las búsquedas dentro del juego se originan dentro del mes. Los jugadores pudieron hacer skins universales y por beatmap por primera vez y se implementó el soporte total de TabletPC.
+La pantalla para seleccionar canciones vio mejoras, con agrupación de dificultades y un movimiento más intuitivo de rueda. El conjunto de muestras suaves, los controles basados en el teclado y la búsqueda dentro del juego se originan en este mes. Los jugadores pudieron hacer skins universales y por beatmap por primera vez y se implementó el soporte total de TabletPC.
 
 ![](img/2007-10_02.jpg "Selector de canciones en un jugador")
 
@@ -90,7 +90,7 @@ El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado
 
 ![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-El [Sistema de envío de Beatmaps](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Controles de audio fue introducido al menú principal, el cual tambien reproduce una canción al azar al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
+El [Sistema de envío de Beatmaps](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
 
 ## Diciembre
 
