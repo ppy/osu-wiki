@@ -1,4 +1,4 @@
-# Common Issues
+# 흔히 발생하는 문제
 
 *메인 페이지: [osu!wiki 기여 가이드](/wiki/owcg).*
 
