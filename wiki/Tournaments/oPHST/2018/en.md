@@ -81,8 +81,6 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- Registration Forms
-	- [osu!mania](https://goo.gl/forms/pttJgrxtpSlhu7QD3)
 
 ------------------------
 
