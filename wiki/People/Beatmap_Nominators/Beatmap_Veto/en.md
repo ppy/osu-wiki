@@ -1,4 +1,6 @@
-_**Main page:  [Beatmap Nominators](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators)**_
+# Beatmap Veto
+
+*Main page: [Beatmap Nominators](/wiki/People/Beatmap_Nominators).*
 
 The _beatmap veto_ allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section.
 
