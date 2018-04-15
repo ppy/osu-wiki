@@ -1052,7 +1052,6 @@
 
 "skr":                         "Shortcut_Key_Reference"
 
-"main_page": "Sitemap"
 "all_articles": "Sitemap"
 "all_pages": "Sitemap"
 "all_links": "Sitemap"
@@ -1502,6 +1501,7 @@
 
 # "soft": "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
 "soft_3": "Tournaments/SOFT/3"
+"soft3": "Tournaments/SOFT/3"
 
 "sst":      "Tournaments/#-ss-tournament"
 "sst_2018": "Tournaments/SS_Tournament/2018"
