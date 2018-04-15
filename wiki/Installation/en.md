@@ -7,7 +7,7 @@ This page will roughly tell you how to get osu! working on your Windows device. 
 ## Minimum system requirements
 
 -   .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
--   Any piece of hardware that has a graphics card of any sort.
+-   A decent graphics card.
 
 ## Installing osu!
 
