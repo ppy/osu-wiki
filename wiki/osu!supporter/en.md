@@ -22,15 +22,15 @@ To get osu!supporter, sign in (or [sign up](/wiki/sign_up)). Then go to the [sto
 
 The usercard displayed above the slider is the user you are buying osu!supporter for. By default, it should be your usercard. To gift to a friend, enter your friend's username (not user ID) into the grey box below the usercard. Once this is done, the usercard will change to match the username you had entered. From here, you can then select the duration of osu!supporter you want to gift, but keep in mind that there is no promotion for group gifting.
 
+You can only buy or gift osu!supporter to one user at a time within this screen. To gift another user, you will need to go back to the [osu!supporter store page](/store/products/supporter-tag) and repeat the steps for adding another user.
+
 ### Checking out
 
 Once you are done, click `Add to Cart` to put it into the osu!store shopping cart.
 
 ![osu!store shopping cart](img/shopping-cart.jpg "osu!store shopping cart with osu!supporter for flyte")
 
-You can only buy or gift osu!supporter to one user at a time within this screen. To gift another user, you will need to go back to the [osu!supporter store page](/store/products/supporter-tag) and repeat the steps for adding another user.
-
-When you are ready to make the purchase, go to your [shopping cart](/store/cart) and click `Checkout`. From there, follow the prompts to make your payment.
+When you are ready to make the purchase, go to your [shopping cart](/store/cart) and click `Checkout`. Then follow the prompts to make your payment.
 
 ## Conclusion
 
@@ -39,7 +39,7 @@ After the transaction is completed, the Recent Activity section in your account 
 - `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
 - `{username} has once again chosen to donate to the osu! cause - thanks for your generosity!` if the account has been an osu!supporter before.
 
----
+### Userpage and usercard
 
 ![Userpage with osu!supporter](img/userpage.jpg "Userpage with osu!supporter")
 
@@ -47,7 +47,7 @@ After the transaction is completed, the Recent Activity section in your account 
 
 On the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
 
----
+### Checking your support status
 
 ![osu!supporter tag with three months remaining](img/status.jpg "Three months left of osu!supporter tag")
 
