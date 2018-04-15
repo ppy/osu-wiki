@@ -30,9 +30,9 @@
 
 ![404 error image](img/pippi-Daru-404.png "404 error image")
 
-#### Fanart
+#### Fan arts
 
-For pippi fanart, see:
+For pippi fan arts, see:
 
 - [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
 - [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
@@ -43,7 +43,7 @@ For pippi fanart, see:
 
 ### Yuzu
 
-![Yuzu by Daru](img/Yuzu-Daru.png "Comboburst  by Daru")
+![Yuzu by Daru](img/Yuzu-Daru.png "Comboburst by Daru")
 
 ![Yuzu in osu!catch by ztrot](img/Yuzu-idle.png "Yuzu in osu!catch by ztrot")
 
@@ -51,9 +51,9 @@ For pippi fanart, see:
 
 ![Yuzu while missing fruits in osu!catch](img/Yuzu-fail.png "Yuzu while missing fruits in osu!catch")
 
-#### Fanart
+#### Fan arts
 
-For Yuzu fanart, see:
+For Yuzu fan arts, see:
 
 - [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
 - [Fan Art 7: Halloween!](/community/contests/5)
@@ -64,9 +64,9 @@ For Yuzu fanart, see:
 
 ![Fanart with pippi and Maria](img/Maria-fanart-1.jpg "Fanart by Anny")
 
-#### Fanart
+#### Fan arts
 
-For more Maria fanart, see:
+For more Maria fan arts, see:
 
 - [Fan Art 8: Christmas](/community/contests/36)
 - [Fan Art 9: Spring](/community/contests/45)
@@ -81,9 +81,9 @@ For more Maria fanart, see:
 
 ![Fanart with Mocha](img/Mocha-fanart-3.jpg "Fanart by Leissss")
 
-#### Fanart
+#### Fan arts
 
-For more Mocha fanart, see:
+For more Mocha fan arts, see:
 
 - [Mocha in Summer Fanart Contest](/community/contests/48)
 
@@ -95,15 +95,15 @@ For more Mocha fanart, see:
 
 ![The old Catch the Beat button in Special Modes](/wiki/shared/Ctb_logo.jpg "The old Catch the Beat button in Special Modes")
 
-### Fanart
+### Fan arts
 
-For fanart with cameo mascots, see:
+For fan arts with cameo mascots, see:
 
 - [Mocha in Summer Fanart Contest](/community/contests/48)
 
 ## Community
 
-For the community mascot fanart, see:
+For fan arts with the community-made mascots, see:
 
 - [Fan Art 6: osu!taiko mascot](/community/contests/2)
 - [Fan Art 7: Halloween!](/community/contests/5)
