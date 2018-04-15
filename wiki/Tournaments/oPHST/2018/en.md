@@ -294,6 +294,8 @@ Mappools will be revealed one week in advance of each stage.
 
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**. 
 
+- If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
+
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool. 
 
 #### Mappools and their Construction 
