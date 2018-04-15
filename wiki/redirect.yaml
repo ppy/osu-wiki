@@ -841,6 +841,19 @@
 "bng":                                   "People/Beatmap_Nominators"
 "bat":                                   "People/Beatmap_Nominators"
 "beatmap_appreciation_team":             "People/Beatmap_Nominators"
+"people/beatmap_nominator/beatmap_veto":        "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nominators/beatmap_veto":              "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nominator/beatmap_veto":               "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nominators_beatmap_veto":              "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nominator_beatmap_veto":               "People/Beatmap_Nominators/Beatmap_Veto"
+"people/beatmap_nomination_group/beatmap_veto": "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nomination_group/beatmap_veto":        "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_nomination_group_beatmap_veto":        "People/Beatmap_Nominators/Beatmap_Veto"
+"bn/beatmap_veto":                              "People/Beatmap_Nominators/Beatmap_Veto"
+"bn_beatmap_veto":                              "People/Beatmap_Nominators/Beatmap_Veto"
+"bng/beatmap_veto":                             "People/Beatmap_Nominators/Beatmap_Veto"
+"bng_beatmap_veto":                             "People/Beatmap_Nominators/Beatmap_Veto"
+"beatmap_veto":                                 "People/Beatmap_Nominators/Beatmap_Veto"
 "people/beatmap_nominator/rules":        "People/Beatmap_Nominators/Rules"
 "beatmap_nominators/rules":              "People/Beatmap_Nominators/Rules"
 "beatmap_nominator/rules":               "People/Beatmap_Nominators/Rules"
@@ -1039,7 +1052,6 @@
 
 "skr":                         "Shortcut_Key_Reference"
 
-"main_page": "Sitemap"
 "all_articles": "Sitemap"
 "all_pages": "Sitemap"
 "all_links": "Sitemap"
@@ -1489,6 +1501,7 @@
 
 # "soft": "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
 "soft_3": "Tournaments/SOFT/3"
+"soft3": "Tournaments/SOFT/3"
 
 "sst":      "Tournaments/#-ss-tournament"
 "sst_2018": "Tournaments/SS_Tournament/2018"
