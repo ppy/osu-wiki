@@ -86,7 +86,44 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ## Participants
 
-An initial list of participants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
+### osu!standard
+
+| Seed |  Player                                              | 
+|------|------------------------------------------------------| 
+| 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       | 
+| 2    | [Dunois](https://osu.ppy.sh/users/4581715)           | 
+| 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         | 
+| 4    | [-Marika](https://osu.ppy.sh/users/2199427)          | 
+| 5    | [Fraye](https://osu.ppy.sh/users/5352971)            | 
+| 6    | [fixedbyglue](https://osu.ppy.sh/users/8296269)      | 
+| 7    | [PhasiconN](https://osu.ppy.sh/users/7183538)        | 
+| 8    | [- Neon -](https://osu.ppy.sh/users/7273455)         | 
+| 9    | [TyrantsEye2014](https://osu.ppy.sh/users/4530738)   | 
+| 10   | [Oooodriiin](https://osu.ppy.sh/users/7223737)       | 
+| 11   | [Xidorn](https://osu.ppy.sh/users/7904667)           | 
+| 12   | [Nezol](https://osu.ppy.sh/users/7509103)            | 
+| 13   | [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) | 
+| 14   | [\[Vik\]](https://osu.ppy.sh/users/5428448)          | 
+| 15   | [NymphSan05](https://osu.ppy.sh/users/5340700)       | 
+| 16   | [Eboryte](https://osu.ppy.sh/users/7243198)          | 
+| 17   | [NepNep-](https://osu.ppy.sh/users/4800093)          | 
+| 18   | [Natsume-](https://osu.ppy.sh/users/5682791)         | 
+| 19   | [Marika](https://osu.ppy.sh/users/1679638)           | 
+| 20   | [xchan](https://osu.ppy.sh/users/6100591)            | 
+| 21   | [CharlesMoveOn](https://osu.ppy.sh/users/8670152)    | 
+| 22   | [Rimazii](https://osu.ppy.sh/users/3831514)          | 
+| 23   | [Caernarvon725](https://osu.ppy.sh/users/8208317)    | 
+| 24   | [SkyLifeHope](https://osu.ppy.sh/users/7417642)      | 
+| 25   | [CloudBlaze](https://osu.ppy.sh/users/5742581)       | 
+| 26   | [Awishi](https://osu.ppy.sh/users/4290020)           | 
+| 27   | [Scylz](https://osu.ppy.sh/users/8367043)            | 
+| 28   | [\[Paradoxum\]](https://osu.ppy.sh/users/6927531)    | 
+| 29   | [Aharu](https://osu.ppy.sh/users/5039816)            | 
+| 30   | [Mietzu](https://osu.ppy.sh/users/7960710)           | 
+| 31   | [Itsvet](https://osu.ppy.sh/users/9989784)           | 
+| 32   | [Afireee](https://osu.ppy.sh/users/7919913)          | 
+
+The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
 
 ------------------------
 
@@ -108,6 +145,14 @@ Mappools will be revealed one week in advance of each stage.
 	- [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
 - Double Time
 	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
+
+------------------------
+
+## Match Results
+
+### Qualifiers
+
+- Detailed results of the osu!standard Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
 
 ------------------------
 
