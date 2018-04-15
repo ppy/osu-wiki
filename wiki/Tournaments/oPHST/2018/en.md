@@ -123,6 +123,27 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | 31   | [Itsvet](https://osu.ppy.sh/users/9989784)           | 
 | 32   | [Afireee](https://osu.ppy.sh/users/7919913)          | 
 
+### osu!catch
+
+| Seed | Player                                             | 
+|------|----------------------------------------------------| 
+| 1    | [Roido](https://osu.ppy.sh/users/6829103)          | 
+| 2    | [Laqure](https://osu.ppy.sh/users/1642435)         | 
+| 3    | [kaarin](https://osu.ppy.sh/users/10054160)        | 
+| 4    | [Kuya Frex](https://osu.ppy.sh/users/8868701)      | 
+| 5    | [Weazle](https://osu.ppy.sh/users/7864598)         | 
+| 6    | [AJamez](https://osu.ppy.sh/users/7890134)         | 
+| 7    | [-MomoX](https://osu.ppy.sh/users/2150415)         | 
+| 8    | [KaganimeRin](https://osu.ppy.sh/users/1626093)    | 
+| 9    | [Crowley](https://osu.ppy.sh/users/6341006)        | 
+| 10   | [- Kielzu -](https://osu.ppy.sh/users/6221114)     | 
+| 11   | [JeirYagtama](https://osu.ppy.sh/users/7483452)    | 
+| 12   | [princealbert10](https://osu.ppy.sh/users/7804181) | 
+| 13   | [-Nicotine](https://osu.ppy.sh/users/4818935)      | 
+| 14   | [Contingent](https://osu.ppy.sh/u/11849880)        | 
+| 15   | [justin1709](https://osu.ppy.sh/users/4699130)     | 
+| 16   | [oSuTroop3r](https://osu.ppy.sh/users/7661767)     | 
+
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
 
 ------------------------
