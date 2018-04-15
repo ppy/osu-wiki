@@ -240,7 +240,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 Use code for the following scenarios:
 
 - keyboard keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
+  - When doing this, use capital letters for single characters and title case for modifiers.
 - button or menu text
   - When copying the text from a menu or button, copy the letter casing as is.
 - folder names
