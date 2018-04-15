@@ -173,7 +173,7 @@ Mappools will be revealed one week in advance of each stage.
 
 ### Qualifiers
 
-- Detailed results of the osu!standard Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
+- Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
 
 ------------------------
 
