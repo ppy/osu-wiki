@@ -10,7 +10,7 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase p, is the osu!standard mascot that joined on 2008-06-22. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by [crystalsuicune](/users/9974), and the current art was designed by [Daru](/users/32480).
+pippi, stylized with a lowercase p, is the osu!standard mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by Sarumaru, the pippidon sprite were created by [crystalsuicune](/users/9974), and the current art was designed by [Daru](/users/32480).
 
 ### Yuzu
 
