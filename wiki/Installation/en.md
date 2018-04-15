@@ -39,6 +39,8 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ### osu!direct
 
+*Note: You need to have osu!supporter tag and internet connection to use osu!direct.*
+
 1.  Open osu!, if you hadn't already.
 2.  Find a song you like to play.
 3.  Double click the the song on the list or click `Download` on the right to download it.
