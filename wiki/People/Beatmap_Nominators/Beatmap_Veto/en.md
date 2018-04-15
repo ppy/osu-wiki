@@ -8,7 +8,7 @@ Any Beatmap Nominator may place a beatmap veto, provided they are formally quali
 
 Each beatmap veto must be discussed by both parties - the mapper as well as the Nominator placing the beatmap veto - in an attempt to reach an agreed compromise.
 
-In cases where discussion does not take place or is inconclusive, members of the [QAT](/wiki/Quality_Assurance_Team) (Quality Assurance Team) disqualification branch will mediate to either uphold or dismiss the veto.
+In cases where discussion does not take place or is inconclusive, members of the [QAT](/wiki/People/Quality_Assurance_Team) (Quality Assurance Team) disqualification branch will mediate to either uphold or dismiss the veto.
 
 ## Performing a beatmap veto
 
