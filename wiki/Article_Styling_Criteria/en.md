@@ -32,8 +32,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 
 Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
-- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution).
-  - For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article
+- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
 - Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
@@ -130,11 +129,11 @@ While editing, sentences are to be in a paragraph form, not in single lines. For
 ```
 Do not:
 osu!lazer is a development build that you can download.
-It will one day be the successor of the previous osu!client.
+It will one day be the successor of the previous osu! client.
 Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 
 Do:
-osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
+osu!lazer is a development build that you can download. It will one day be the successor of the previous osu! client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
 ```
 
 #### Escaping
@@ -155,10 +154,10 @@ When trying to emphasize words, **never use all capital letters**. Instead, bold
 
 ```
 Do not:
-You are NOT allowed to post R-18 skins on the osu!forums.
+You are NOT allowed to post R-18 skins on the osu! forums.
 
 Do:
-**You are not allowed to post R-18 skins on the osu!forums.**
+**You are not allowed to post R-18 skins on the osu! forums.**
 ```
 
 #### Bold
@@ -294,7 +293,7 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 ##### User profiles
 
-When linking to an osu!user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
 Do not:
