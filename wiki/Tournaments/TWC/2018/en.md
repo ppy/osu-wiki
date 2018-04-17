@@ -54,41 +54,20 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 7. April 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands        | ![][flag_NL] | ![][flag_KR] | South Korea    | **13:00 UTC** | 15:00 UTC +2 | 22:00 UTC +9  |
-| Finland            | ![][flag_FI] | ![][flag_AU] | Australia      | **13:00 UTC** | 16:00 UTC +3 | 23:00 UTC +10 |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France         | **14:00 UTC** | 17:00 UTC +3 | 16:00 UTC +2  |
-| Venezuela          | ![][flag_VE] | ![][flag_TW] | Taiwan         | **14:00 UTC** | 10:00 UTC -4 | 22:00 UTC +8  |
-| United Kingdom     | ![][flag_GB] | ![][flag_FR] | France         | **15:00 UTC** | 16:00 UTC +1 | 17:00 UTC +2  |
-| Venezuela          | ![][flag_VE] | ![][flag_HK] | Hong Kong      | **15:00 UTC** | 11:00 UTC -4 | 23:00 UTC +8  |
-| Germany            | ![][flag_DE] | ![][flag_PL] | Poland         | **18:00 UTC** | 20:00 UTC +2 | 20:00 UTC +2  |
-| Finland            | ![][flag_FI] | ![][flag_CL] | Chile          | **18:00 UTC** | 21:00 UTC +3 | 15:00 UTC -3  |
-| Germany            | ![][flag_DE] | ![][flag_US] | United States  | **19:00 UTC** | 21:00 UTC +2 | 14:00 UTC -5  |
-| Argentina          | ![][flag_AR] | ![][flag_CA] | Canada         | **19:00 UTC** | 16:00 UTC -3 | 15:00 UTC -4  |
-| Poland             | ![][flag_PL] | ![][flag_US] | United States  | **20:00 UTC** | 22:00 UTC +2 | 15:00 UTC -5  |
-
-### Sunday, 8. April 2018
+### Sunday, 15. April 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Chile              | ![][flag_CL] | ![][flag_AU] | Australia      | **1:00 UTC**  | 22:00 (Sat) UTC -3 | 11:00 UTC +10      |
-| South Korea        | ![][flag_KR] | ![][flag_BR] | Brazil         | **2:00 UTC**  | 11:00 UTC +9       | 23:00 (Sat) UTC -3 |
-| Malaysia           | ![][flag_MY] | ![][flag_JP] | Japan          | **11:00 UTC** | 19:00 UTC +8       | 20:00 UTC +9       |
-| Hong Kong          | ![][flag_HK] | ![][flag_TW] | Taiwan         | **11:00 UTC** | 19:00 UTC +8       | 19:00 UTC +8       |
-| Ukraine            | ![][flag_UA] | ![][flag_JP] | Japan          | **12:00 UTC** | 15:00 UTC +3       | 21:00 UTC +9       |
-| Spain              | ![][flag_ES] | ![][flag_ID] | Indonesia      | **12:00 UTC** | 14:00 UTC +2       | 19:00 UTC +7       |
-| Ukraine            | ![][flag_UA] | ![][flag_MY] | Malaysia       | **13:00 UTC** | 16:00 UTC +3       | 21:00 UTC +8       |
-| Italy              | ![][flag_IT] | ![][flag_ID] | Indonesia      | **13:00 UTC** | 15:00 UTC +2       | 20:00 UTC +7       |
-| Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 17:00 UTC +3       | 15:00 UTC +1       |
-| Italy              | ![][flag_IT] | ![][flag_ES] | Spain          | **17:00 UTC** | 19:00 UTC +2       | 19:00 UTC +2       |
-| Portugal           | ![][flag_PT] | ![][flag_AR] | Argentina      | **17:00 UTC** | 19:00 UTC +2       | 14:00 UTC -3       |
-| Portugal           | ![][flag_PT] | ![][flag_CA] | Canada         | **18:00 UTC** | 20:00 UTC +2       | 14:00 UTC -4       |
-| Netherlands        | ![][flag_NL] | ![][flag_BR] | Brazil         | **18:00 UTC** | 20:00 UTC +2       | 15:00 UTC -3       |
+| Brazil         | ![][flag_BR] | ![][flag_US] | United States | **1:00 UTC**  | 22:00 (Sat) UTC -3  | 18:00 (Sat) UTC -7  |
+| Malaysia       | ![][flag_MY] | ![][flag_CA] | Canada        | **2:00 UTC**  | 10:00 UTC +8        | 22:00 (Sat) UTC -4  |
+| Australia      | ![][flag_AU] | ![][flag_TW] | Taiwan        | **11:00 UTC** | 21:00 UTC +10       | 19:00 UTC +8        |
+| France         | ![][flag_FR] | ![][flag_ID] | Indonesia     | **12:00 UTC** | 14:00 UTC +2        | 19:00 UTC +7        |
+| Japan          | ![][flag_JP] | ![][flag_AR] | Argentina     | **13:00 UTC** | 22:00 UTC +9        | 10:00 UTC -3        |
+| South Korea    | ![][flag_KR] | ![][flag_PL] | Poland        | **14:00 UTC** | 23:00 UTC +9        | 16:00 UTC +2        |
+| Chile          | ![][flag_CL] | ![][flag_HK] | Hong Kong     | **15:00 UTC** | 12:00 UTC -3        | 23:00 UTC +8        |
+| United Kingdom | ![][flag_GB] | ![][flag_ES] | Spain         | **16:00 UTC** | 17:00 UTC +1        | 18:00 UTC +2        |
 
 -----------------------
 
@@ -123,7 +102,36 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
+![Double Elimination bracket](bracket.png)
+
+-----------------------
+
 ## Mappool
+
+### Round of 16
+
+**[Download the mappack here! (73 MB)](http://www.mediafire.com/file/xzf9idadhstnsa0/TWC%202018%20RO16%20MAPPOOL.zip)**
+
+- NoMod
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1461118) 
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (sing216) \[Toy Oni\]](http://osu.ppy.sh/beatmaps/1259018) 
+  - [Kanekochiharu - Lachryma \<Re:Queen'M\> (ll-oscar) \[ll-taiko\]](http://osu.ppy.sh/beatmaps/902927) 
+  - [xi - Jackknife (Arrival) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1370014) 
+  - [Black Hole - Pluto (Zetera) \[Majin Oni TWC ver.\]](http://osu.ppy.sh/beatmaps/1599257) 
+- Hidden
+  - [KNOWER - Time Traveler (Nifty) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1312589) 
+  - [onoken - Viden (Nwolf) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1497491) 
+- HardRock
+  - [An - Akasagarbha (Dainesl) \[Taikocalypse\]](http://osu.ppy.sh/beatmaps/669314) 
+  - [Virt - Staring at my Spaceship (HashishKabob) \[Taiko Guru v2\]](http://osu.ppy.sh/beatmaps/766477) 
+- DoubleTime
+  - [Noam Lederman - Nosso Samba (mangomizer) \[Samba\]](http://osu.ppy.sh/beatmaps/1601332) 
+  - [ClariS - Colorful -2017- (Volta) \[Oni\]](http://osu.ppy.sh/beatmaps/1510406) 
+- FreeMod
+  - [COSIO (ZUNTATA) - Black MInD (Chocola_2287) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/1030554) 
+  - [t+pazolite - Elder Dragon Legend (ft. Kabocha) (Backfire) \[Taikocalypse\]](http://osu.ppy.sh/beatmaps/1602056) 
+- Tiebreaker
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](http://osu.ppy.sh/beatmaps/1281858) 
 
 ### Group Stage
 
@@ -149,6 +157,42 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](http://osu.ppy.sh/beatmaps/635003) 
 - Tiebreaker
   - [sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](http://osu.ppy.sh/beatmaps/1566477) 
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 2018-04-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/41466387) |
+| Finland ![][flag_FI] | 1 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41466557) |
+| Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41468287) |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_TW] Taiwan | -win by default- |
+| United Kingdom ![][flag_GB] | 3 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41470025) |
+| Venezuela ![][flag_VE] | 1 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41470035) |
+| Germany ![][flag_DE] | 0 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/41476203) |
+| Finland ![][flag_FI] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/41476142) |
+| Germany ![][flag_DE] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41478279) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41478274), [#2](https://osu.ppy.sh/community/matches/41480104) |
+| Poland ![][flag_PL] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41480356) |
+
+| Sunday, 2018-04-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![][flag_CL] | 4 | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41488009) |
+| South Korea ![][flag_KR] | 4 | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41488883) |
+| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/41498599) |
+| Hong Kong ![][flag_HK] | 1 | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/41498567) |
+| Ukraine ![][flag_UA] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/41500000) |
+| Spain ![][flag_ES] | 4 | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41500005) |
+| Ukraine ![][flag_UA] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/41501486) |
+| Italy ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41501592) |
+| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/41502894) |
+| Italy ![][flag_IT] | 1 | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/41507763) |
+| Portugal ![][flag_PT] | 1 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/41507781) |
+| Portugal ![][flag_PT] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41509498), [#2](https://osu.ppy.sh/community/matches/41510211) |
+| Netherlands ![][flag_NL] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41509503), [#2](https://osu.ppy.sh/community/matches/41510238) |
 
 ------------------------------------------------------------------------
 

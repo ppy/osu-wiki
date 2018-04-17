@@ -154,6 +154,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
 | [celerih](https://osu.ppy.sh/users/4696296)           | French                   |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
+| [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
 | [Hareimu](https://osu.ppy.sh/users/4138746)           | Spanish                  |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
 | [MBomb](https://osu.ppy.sh/users/3071175)             |                          |
@@ -173,7 +174,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Fresh Chicken](https://osu.ppy.sh/users/3984370)     | Korean, Japanese         |
 | [Garalulu](https://osu.ppy.sh/users/757783)           | Korean                   |
 | [juankristal](https://osu.ppy.sh/users/443656)        | Spanish                  |
-| [Julie](https://osu.ppy.sh/users/2420987)             |                          |
+| [Julie](https://osu.ppy.sh/users/2420987)             | French                   |
 | [Kamikaze](https://osu.ppy.sh/users/2124783)          | Polish                   |
 | [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
 | [Maxus](https://osu.ppy.sh/users/4335785)             | Indonesian               |

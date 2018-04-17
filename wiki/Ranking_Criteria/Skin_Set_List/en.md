@@ -115,7 +115,6 @@ The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|approachcircle.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |126x126px   |
 |taikobigcircle.png   |-   |required   |118x118px   |
 |taikobigcircleoverlay(-n).png   |-   |required   |118x118px   |
 |taikohitcircle.png   |-   |required   |118x118px   |
@@ -262,7 +261,6 @@ The combobursts included in this set are gameplay relevant and star2.png is only
 |comboburst-mania(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
 |comboburst(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
 |menu-button-background.png   |used for the leaderboard   |optional   | minimum resolution 690x85px   |
-|menu-osu.png   |spectator-mode only pause-screen   |optional   |-   |
 |multi-skipped.png   |multiplayer: shows who skipped the intro   |optional   |-   |
 |play-skip(-n).png   |-   |optional   |-   |
 |play-unranked.png   |-   |optional   |-   |

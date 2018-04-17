@@ -20,7 +20,7 @@ The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-o
 | Drawings | 2018-05-27 (19:00 UTC +7) |
 | Group Stage | 2018-06-02/2018-06-03 |
 | Round of 16 | 2018-06-09/2018-06-10 |
-| Quarterfinals | 2018-04-16/2018-04-17 |
+| Quarterfinals | 2018-06-16/2018-06-17 |
 | Semifinals | 2018-06-23/2018-06-24 |
 | Finals | 2018-06-30/2018-07-01 |
 | Grand Finals | 2018-07-08 |
@@ -44,7 +44,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Organizers | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 | Map Selectors | [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621), [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122)  |
 | Commentators | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991) |
-| Streamers | *To be decided* |
+| Streamers | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
 | Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
 | Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] xfraczynho](https://osu.ppy.sh/users/2192669), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
 | Statisticians | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
@@ -159,6 +159,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
