@@ -10,7 +10,7 @@ THOM CUP #1
 
 ## Preface
 
-**THOM CUP** is a one-on-one euro-american tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, this tournament is an osu!mania 7-key tournament.
+**THOM CUP** is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. As the title indicates, this tournament is for the osu!mania game mode. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
@@ -39,10 +39,14 @@ THOM CUP #1
 | Coordinator | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Map Selectors | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 
+------------------------------------------------------------------------
+
 ## Links
 
 - [Discussion Thread](/community/forums/posts/731431)
 - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScuxNDPPjsI7-769vXteCdNDTzFcCJWa17XrRvyJvBfXa0pNQ/viewform)
+
+------------------------------------------------------------------------
 
 ## Rules
 
