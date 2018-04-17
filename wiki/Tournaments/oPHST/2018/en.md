@@ -181,7 +181,7 @@ Mappools will be revealed one week in advance of each stage.
 
 ### Game Modes and Scoring Format 
 
-- The tournament shall host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament shall use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
+- The tournament will host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
 
 ### Tournament Formats
 
@@ -189,7 +189,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of 2018-04-15 (18:00 UTC+8).
 
-- Both **osu!mania 4K** and **osu!mania 7K** divisions shall adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
+- Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 ### Mods Used in the Tournament 
 
@@ -216,17 +216,17 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!mania
 
-- For both osu!mania 4K and 7K, the tournament shall assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick. 
+- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick. 
 
 ### Eligibility and Registration 
 
 - Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted. 
 
-- Players who have shown exemplary performances over the previous months shall be given an invitation to join the tournament and shall be reserved a registration slot upon acceptance. 
+- Players who have shown exemplary performances over the previous months will be given an invitation to join the tournament and will be reserved a registration slot upon acceptance. 
 
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
 
-- The registration phase of the tournament shall begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament will begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
@@ -234,11 +234,11 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!standard
 
-- All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
+- All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round will also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
+- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 
-- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
 - Players are to be ranked according to the total of their best attempts during their qualifying run. Top 32 players advance to the bracket stage, and the rest are eliminated.
 
@@ -246,11 +246,11 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!mania 4K and 7K 
 
-- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round shall also serve as the division's seeding phase.
+- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
+- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
 
-- The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
 - Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
 
@@ -266,25 +266,25 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Preparation
 
-- The referees shall prepare the match room ten (10) minutes prior to the match schedule. It is the referee's obligation to inform the players about this and be invited to the room. If the player does not respond within this time period, the player is forcibly moved at the actual match schedule.
+- The referees will prepare the match room ten (10) minutes prior to the match schedule. It is the referee's obligation to inform the players about this and be invited to the room. If the player does not respond within this time period, the player is forcibly moved at the actual match schedule.
 
 - The room name format for the three tournaments is: ``oPHST18: (Player 1) vs (Player 2)``
 
-- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period shall be considered as a no-show and the player inside the room already shall be declared the winner. If both players do not appear, the player with the higher seed shall be considered the winner. 
+- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner. 
 
 - It is asked of the players to allow non-friend PM's in order for the invites to arrive.
 
 #### Warm-up Phase
 
-- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) shall be disallowed.  
+- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) will be disallowed.  
 
 #### Bans and Picks 
 
-- After the warm-up phase, the players shall proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
+- After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
 #### Match Format 
 
-- Players shall alternate picks until a match winner is determined. This shall be in a Best-of-X series with the formats listed as follows: 
+- Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows: 
 
 	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4) 
 	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5) 
@@ -310,23 +310,23 @@ Mappools will be revealed one week in advance of each stage.
 
 - Players are allowed to reschedule their matches as long as their opponent have a mutual agreement on this arrangement, and is **made before the Thursday prior to the match**. This is for the staff to be able to adjust their general schedules for the round, including the streams. If the arrangement is made after the set deadline, the match will still be rescheduled, but there is no assurance that it will be streamed. 
 
-- For reschedules made after the deadline, the staff shall only consider this if given a valid reason (academics, sickness, family matters) with proof. 
+- For reschedules made after the deadline, the staff will only consider this if given a valid reason (academics, sickness, family matters) with proof. 
 
 ### Disconnections 
 
 - In case disconnections happen during a match, the following guidelines are given:
 
-	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and shall be repeated once the player re-enters, or gets moved into the room.
-	- If the player disconnects within 30 seconds of the drain time of the pick, the play shall continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
-	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play shall continue and will be counted as part of the scoreboard. 
-	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used shall be counted as a point for their opponent. (Only applies for disconnections during the play) 
-	- Players are only given 10 minutes to return to the room upon disconnection. If the player fails to return, the match score shall be frozen and will be considered the official result.
-	- If the player who leads the score is the one who disconnected, the match shall continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player shall be disqualified from the match. 
-	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) shall be decided immediately by the staff on-the-spot. 
+	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and will be repeated once the player re-enters, or gets moved into the room.
+	- If the player disconnects within 30 seconds of the drain time of the pick, the play will continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
+	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play will continue and will be counted as part of the scoreboard. 
+	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used will be counted as a point for their opponent. (Only applies for disconnections during the play) 
+	- Players are only given 10 minutes to return to the room upon disconnection. If the player fails to return, the match score will be frozen and will be considered the official result.
+	- If the player who leads the score is the one who disconnected, the match will continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player will be disqualified from the match. 
+	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot. 
 	
 ### Player and Staff Conduct 
 
-- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff shall assure a good experience for the players during the tournament. 
+- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament. 
 
 #### Match Conduct 
 
@@ -334,15 +334,15 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Overall Conduct 
 
-- The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player shall be deemed disqualified from the tournament as a whole, and the tournament rankings shall be adjusted accordingly.
+- The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player will be deemed disqualified from the tournament as a whole, and the tournament rankings will be adjusted accordingly.
 
 - If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service. 
 
-- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration shall be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default. 
+- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default. 
 
 ### Updates and Concerns 
 
-- Most of the major updates regarding the tournament shall be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
+- Most of the major updates regarding the tournament will be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
 
 ## Changes from Previous Editions
 
