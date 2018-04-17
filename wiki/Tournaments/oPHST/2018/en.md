@@ -50,7 +50,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Quarterfinals        | 2018-05-26/2018-05-27 |
 | Semifinals           | 2018-06-02/2018-06-03 |
 | Finals Week 1        | 2018-06-09/2018-06-10 |
-| Finals Week 2        | 2018-06-06/2018-06-17 |
+| Finals Week 2        | 2018-06-16/2018-06-17 |
 
 **Note**: Registrations may prematurely end when there are a sufficient number of registrants.
 
@@ -101,7 +101,7 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!standard
 
-[**Download the Mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
+[**Download the mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
 
 - NoMod
 	- [dj TAKA - quaver (NiNo) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/917129)
