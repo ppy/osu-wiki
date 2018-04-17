@@ -10,9 +10,9 @@
 - [ЧАВО](/wiki/FAQ)
 - Режимы игры
   - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![значок osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![значок osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![значок osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
+  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Мультиплеер](/wiki/Multi/#getting-started)
 - [Критерии ранкинга карт](/wiki/Ranking_Criteria)
   - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
