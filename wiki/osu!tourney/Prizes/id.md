@@ -25,6 +25,6 @@ Komentator tidak dianggap sebagai staf oleh kami, dan dapat bermain atau berinte
 
 Kami secara historis memiliki masalah dimana penyelenggara yang tidak bermoral telah mengarahkan turnamen secara khusus (yaitu: memilih map yang lebih mereka kenal, menyesuaikan seeds/brackets, dan lainnya) supaya mendapatkan lencara profil lebih mudah untuk mereka dan teman-teman mereka. Meskipun kami memahami bahwa sebagian besar grup tidak akan melakukan ini, kami harus menerapkan pembatasan ini untuk menjaga semuanya tetap adil bagi semua orang.
 
-## Mengapa lencara tidak dapat diberikan untuk turnamen rutin bulanan (atau mingguan)?
+## Mengapa lencana tidak dapat diberikan untuk turnamen rutin bulanan (atau mingguan)?
 
-Membanjiri game dengan lencara profil mencoreng gengsi hadiah untuk orang lain. Kami tidak ingin lencara profil menjadi sesuatu yang orang dapatkan 'instan' dari beberapa set reguler, turnamen berulang.
+Membanjiri game dengan lencara profil mencoreng gengsi hadiah untuk orang lain. Kami tidak ingin lencana profil menjadi sesuatu yang orang dapatkan 'instan' dari beberapa set reguler, turnamen berulang.

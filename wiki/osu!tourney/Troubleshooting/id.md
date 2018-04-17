@@ -17,7 +17,7 @@ Matikan semua monitor sekunder! osu!tourney hanya berjalan di monitor utama. Pas
 
 ## Database lagu osu! saya rusak saat memulai klien!
 
-Gunakan klien osu! yang masih baru.
+Gunakan instalasi osu! terbaru.
 
 ## Latar belakang dari osu!tourney tidak ditampilkan!
 
@@ -28,9 +28,9 @@ Lihat [panduan skinning](/wiki/osu!tourney/Skinning) untuk lebih jelasnya.
 
 Ubah nama atau hapus file `tournament.cfg`.
 
-## Klien saya tidak menyorot pemain!
+## Klien saya tidak menyoroti pemain!
 
-Klik nama ruangan di panel hitam bawah sehingga tampak **tebal**. Jika klien masih tidak menyoroti, klik tombol `Panic`.
+Klik nama ruangan di panel hitam bawah sehingga tampak **tebal**. Jika klien masih tidak menyorot pemain, klik tombol `Panic`.
 
 ## Ruangan tidak muncul!
 
@@ -42,7 +42,7 @@ Lihat jawaban sebelumnya.
 
 ## Bagaimana cara menyiarkan turnamen saya ke layanan streaming seperti Twitch?
 
-Kami menyarankan menggunakan [Open Broadcaster Software](https://obsproject.com/), tetapi program streaming lain yang dapat menangkan layar juga dapat digunakan.
+Kami menyarankan menggunakan [Open Broadcaster Software](https://obsproject.com/), tetapi program streaming lain yang dapat merekam layar juga dapat digunakan.
 
 Resolusi bagian atas osu!tourney dapat dimodifikasi dalam file `tournament.cfg` tetapi secara standar adalah `1280x720`. Pastikan resolusi monitor anda lebih besar dari nilai ini. Lihat [panduan pemasangan](/wiki/osu!tourney/Setup) untuk informasi tentang cara mengubah resolusi.
 
@@ -50,6 +50,6 @@ Jangan lupa untuk menyesuaikan pemotongan untuk menghapus panel kendali hitam da
 
 ## Masalah/pertanyaan saya tidak tercantum di sini! Apa yang harus dilakukan?
 
-Pastikan bahwa osu! tidak dijalankan sebagai administrator, kecuali jika diminta sendiri, dan diperbaharui ke build CuttingEdge terbaru.
+Pastikan bahwa osu! tidak dijalankan sebagai administrator, kecuali jika diminta sendiri, dan diperbaharui ke build CuttingEdge yang terbaru.
 
 Kirim e-mail ke [tournaments@ppy.sh](mailto:tournaments@ppy.sh) jika anda memiliki masalah yang tidak tercantum di sini. Pastikan untuk deskriptif dan memberikan *screenshot* jika memungkinkan.

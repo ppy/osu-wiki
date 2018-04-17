@@ -24,7 +24,7 @@ Fungsi masing-masing tombol dijelaskan di bawah ini:
 
 Fungsi masing-masing text box dijelaskan di bawah ini:
 
-- `Annotation text`: Teks yang akan ditampilkan di anotasi.
+- `Annotation text`: Teks yang akan ditampilkan di bagian komentar.
 - `Best Of`: Memperbaharui jumlah bintang di bagian atas dengan jumlah pertandingan yang dibutuhkan tim untuk menang.
 
 ![Ketika sebuah ruangan dibuat dengan benar, ruangan itu akan terdaftar dan menggantikan instruksi.](Osutourneyroomlist.png)

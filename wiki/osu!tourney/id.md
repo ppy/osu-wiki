@@ -2,7 +2,7 @@
 
 **osu!tourney** merupakan klien *multi-spektator* resmi yang digunakan untuk melihat dan menyiarkan semua pemain di ruang multiplayer sekaligus.
 
-Pengguna yang menghadapi **teknis** saat menjalankan klien bisa membaca [panduan mengatasi masalah](/wiki/osu!tourney/Troubleshooting "Troubleshooting") atau mengirim email ke [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Pengguna yang mengalami masalah **teknis** saat menjalankan klien bisa membaca [panduan penyelesaian masalah](/wiki/osu!tourney/Troubleshooting "Troubleshooting") atau mengirim email ke [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Artikel terkait
 

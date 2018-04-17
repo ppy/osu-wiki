@@ -26,13 +26,13 @@ Jangan mengubah file `tournament.cfg` saat osu! sedang dijalankan. Tutup osu! da
 - `ClientNameSize`: Besar tulisan nama pemain pada klien turnamen yang disoroti dengan warna kuning.
 - `privateserver`: Dibiarkan saja jangan disentuh.
 - `acronym`: Singkatan untuk turnamen. Hal ini mempengaruhi penamaan ruang yang akan digunakan untuk turnamen, periksa [panduan penggunaan multiplayer](/wiki/osu!tourney/Multiplayer_Usage) untuk informasi lebih lanjut.
-- `BufferTimeoutTime`: Jumlah waktu klien akan menunggu pemain untuk *buffer* sebelum melanjutkan permainan tanpa mereka *(pemain yang buffer)*.
+- `BufferTimeoutTime`: Jumlah waktu tunggu klien untuk pemain *buffer* sebelum melanjutkan permainan tanpa mereka *(pemain yang buffer)*.
   - Tidak disarankan untuk mengubahnya.
 - `BufferTotalTime`: Jumlah waktu *buffer* klien untuk mengurangi frekuensi jeda untuk menunggu *buffer*. Hal ini mengakibatkan penundaan antara klien dan pemain.
   - Tidak disarankan untuk mengubahnya.
 - `BufferDangerTime`: Jumlah waktu tersisa untuk *buffer* sebelum klien berhenti dan menunggu lebih banyak frame yang dimuat.
   - Tidak disarankan untuk mengubahnya.
-- `RankingChatDelay`: Jeda (dalam milisekon) sebelum skor disembunyikan dan membuka kembali obrolan di layar peringkat.
+- `RankingChatDelay`: Jeda (dalam milidetik) sebelum skor disembunyikan dan membuka kembali obrolan di layar peringkat.
 - `Height`: Ketinggian area yang ditayangkan oleh klien.
   - Klien akan menghitung lebar secara otomatis dalam rasio 16:9.
   - "Area yang ditayangkan" dari klien tidak termasuk panel kendali. Secara umum, panel kendali berukuran 200 piksel lebih besar dari tinggi klien, jadi misalnya layar 1440p akan aman untuk melakukan penayangan turnamen 1080p.
