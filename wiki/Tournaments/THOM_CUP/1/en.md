@@ -16,7 +16,7 @@ THOM CUP #1
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-05-16/2018-05-11 (23:59 UTC) |
+| Registration Phase   | 2018-04-16/2018-05-11 (23:59 UTC) |
 | Qualifiers           | 2018-05-19/2018-05-20             |
 | Playoffs - Week 1    | 2018-05-26/2018-05-27             |
 | Playoffs - Week 2    | 2018-06-02/2018-06-03             |
