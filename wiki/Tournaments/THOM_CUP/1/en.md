@@ -160,15 +160,15 @@ THOM CUP #1
 
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
 
-    - The winning player moves onto the next match.
+     - The winning player moves onto the next match.
 
-    - The losing player falls to the loser’s bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The losing player falls to the loser’s bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
 
   2. Both players are at match point at the same time.
 
-    - Both players will play the song designated as the tiebreaker.
+     - Both players will play the song designated as the tiebreaker.
 
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the loser’s bracket, depending on the position of the tournament.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the loser’s bracket, depending on the position of the tournament.
 
 #### Disconnections
 
