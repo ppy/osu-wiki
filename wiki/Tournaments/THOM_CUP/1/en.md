@@ -3,12 +3,12 @@ tags:
 - THOM
 - THOM CUP
 ---
-THOM CUP #1
+THOM CUP \#1
 ======================
 
 ![THOM CUP Logo](logo.png)
 
-**THOM CUP** is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
+**THOM CUP \#1** is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
