@@ -9,16 +9,16 @@
 - [Правила](/wiki/Rules)
 - [ЧАВО](/wiki/FAQ)
 - Режимы игры
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
+  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
+  - ![значок osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![значок osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![значок osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Мультиплеер](/wiki/Multi/#getting-started)
 - [Критерии ранкинга карт](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Статья месяца
 
