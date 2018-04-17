@@ -1,103 +1,78 @@
-Apa Itu IRC?
-============
+Apa itu Internet Relay Chat?
+============================
 
-[IRC](http://id.wikipedia.org/wiki/Internet_Relay_Chat) adalah protokol yang sudah sering digunakan untuk mengobrol dan memiliki sejumlah perangkat lunak yang dapat digunakan untuk menyambung.
+[Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
 
-<center>
-</center>
-Obrolan osu!
-============
+osu!Bancho
+---------
+osu!Bancho menyediakan gateway untuk mengakses IRC (obrolan dalam game). Anda dapat terhubung dengan klien anda sendiri dan mulai obrolan dengan orang lain tanpa harus menggunakan klien osu!. Mohon perhatikan bahwa prokotol IRC ini telah dimodifikasi oleh karena itu jangan harap fitur klien anda berfungsi dengan benar.
 
-osu! menggunakan protokol IRC untuk [obrolan dalam gamenya](ID:Chat_Console "wikilink"). Kamu dapat menyambungkan dengan perangkat lunak IRC dan mengobrol dengan teman-teman osu!mu jika tak menjalankan osu!. Harap diingat bahwa osu! Bancho menggunakan implementasi tersendiri untuk protokol IRC-nya dan tidak ada jalan lain untuk pengimplementasian fitur secara menyeluruh; jadi, tolong jangan berharap bahwa semua fitur akan berfungsi dengan baik oleh perangkat lunak IRC-mu.
+**Pemberitahuan: [HexChat](http://hexchat.github.io/) diketahui memiliki masalah dengan IRC osu!** ([laporan bug dari GitHub HexChat](http://github.com/hexchat/hexchat/issues/818)), jika hal ini mengganggu anda, pertimbangkan untuk menggunakan klien lain .
 
-***Pemberitahuan: [HexChat](http://hexchat.github.io/) telah diketahui mempunyai masalah dengan IRC osu!*** ([halaman untuk melaporkan bug untuk HexChat di GitHub](http://github.com/hexchat/hexchat/issues/818)), pikirkan untuk menggunakan perangkat lunak lain jika itu mengganggumu.
 
-Cara Untuk Menyambungkan
-------------------------
+Cara Menghubungkan
+--------------
+Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
-Setelah kamu memiliki perangkat lunak yang dapat gunakan untuk menyambung
+- **Server:**  `irc.ppy.sh`
+- **Port:** `6667` (standar)
+- **Username:** Nama pengguna osu! anda (ganti spasi dengan garis bawah)
+- **Password:** Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 
-` `[`cho.ppy.sh`](irc://cho.ppy.sh)` ATAU `[`irc.ppy.sh`](irc://irc.ppy.sh)` (keduanya menggunakan host yang sama) di port `<b>`6667`</b>` (IRC port yang biasa digunakan)`
+*Kata sandi IRC anda berbeda dengan kata sandi akun osu! anda. **Jangan dibagikan kepada orang lain**.*
 
-Mengautentikasi Ke Bancho
--------------------------
 
-Jika kamu menyambungkan untuk pertama kali, kamu akan mendapatkan pesan seperti ini.
+Perintah Dasar IRC
+------------------
+| Perintah             | Deskripsi                                          |
+| -------------------- | -------------------------------------              |
+| `/join <#channel>`   | Bergabung ke kanal                                 |
+| `/part <#channel>`   | Meninggalkan kanal                                 |
+| `/me <action>`       | Mengirim pesan aksi                                |
+| `/ignore <username>` | Mengabaikan pengguna (menyembunyikan pesan mereka) |
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
 
-`* Selamat datang di osu!bancho`
-`* -`
-`* - Kamu perlu untuk mengautentikasikannya terlebih dahulu sebelum mengakses servis ini.`
-`* - Tolong klik tautan berikut untuk menyelesaikan proses ini:`
+Menonaktifkan Pemberitahuan Masuk/Meninggalkan
+----------------------------
+Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanalnya sangat ramai seperti `#osu`, anda akan menerima pemberitahuan masuk/meninggalkan terus menerus dan tidak dapat mengikuti percakapan. Oleh karena itu, biasanya pesan-pesan ini lebih disarankan untuk disembunyikan.
 
-Apabila kamu pergi ke tautan yang diberikan, kamu akan melihat layar dengan tombol besar yang menarik *Authorise IRC connection* (Mengautentikasikan koneksi IRC). Klik tombol itu saja untuk membolehkanmu mengobrol dan kamu akan otomatis tergabung di [\#osu](irc://cho.ppy.sh/osu).
+```
+[17:46] * lauripihl (cho@ppy.sh) telah meninggalkan #lobby
+[17:46] * Kastun (cho@ppy.sh) bergabung ke #lobby
+[17:46] * AuReL (cho@ppy.sh) bergabung ke #lobby
+[17:46] * osukd (cho@ppy.sh) bergabung ke #lobby
+[17:46] * BreadTooGood (cho@ppy.sh) bergabung ke #lobby
+[17:46] * keanyew18 (cho@ppy.sh) bergabung ke #lobby
+[17:46] * JaKox (cho@ppy.sh) bergabung ke #lobby
+[17:46] * Kerantor (cho@ppy.sh) bergabung ke #lobby
+```
 
-Jika kamu tidak ingin mengklik tombol besar yang menarik itu setiap kali kamu menyambungkan, kamu dapat memberikannya kata sandi entah untuk kolom kata sandi server di profilmu atau menggunakannya untuk menyambungkan di lain waktu.
+### Menonaktifkan Pemberitahuan Masuk/Meninggalkan Pada Klien IRC
+| Klien IRC                                 | Deskripsi   |
+| ----------------------------------------- | ----------- |
+| [HexChat](http://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
+| [ircII](http://www.eterna.com.au/ircii/)  | Ketik `/ignore * crap` |
+| [Irssi](http://www.irssi.org)             | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |
+| [Weechat](http://www.weechat.org)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Catatan:** Ganti **username** dengan nama pengguna osu! anda.
+| [KVIrc](http://www.kvirc.net)             | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
+| [mIRC](http://www.mirc.com/)              | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
+| [Quassel IRC](http://www.quassel-irc.org) | Klik kanan di jendela obrolan, lalu pilih Hide Events » Join/Part/Quit. |
+| [XChat](http://www.xchat.org)             | Ketik `/set irc_conf_mode 1` (atau [2](http://xchat.org/faq/#q211) untuk menonaktifkan pemberitahuan dari seluruh kanal). |
 
-`To permanently authorise a client, please change your IRC password (server password) to: XXXXXXX`
+Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang tersedia, sebagian besar klien memiliki cara untuk menonaktifkannya.
 
-`Untuk mengautentikasikan perangkat lunak IRC secara permanen, `
-`harap ganti kata sandi IRC-mu (kata sandi server) menjadi: XXXXXXX`
+Pertanyaan yang Sering Diajukan
+--------------------------------
 
-Dasar Perintah IRC
-==================
+### Saya mendapat kesalahan "Token Otentikasi Salah".
+1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).
+2. Jika nama pengguna osu! anda memiliki spasi, ganti dengan garis bawah (misalnya **This Username** menjadi **This_Username**)
 
-| Deskripsi                       | Perintah                  |
-|---------------------------------|---------------------------|
-| Masuk kanal (contohnya \#lobby) | **/join** \#suatukanal    |
-| Meninggalkan kanal              | **/part**                 |
-| Mengabaikan pengguna            | **/ignore** suatupengguna |
-| Mengganti nama panggilan        | **/nick** suatunama       |
-| Membuat suatu aksi              | **/me** melakukan sesuatu |
 
-Menonaktifkan Pesan Masuk/Meninggalkan
-======================================
+### Dapatkah saya menggunakan nama pengguna lain?
+Tidak. Anda hanya dapat menggunakan nama pengguna osu! anda.
 
-Setiap kali seseorang masuk ke suatu kanal atau meninggalkannya, pesan seperti ini akan muncul:
+### Apa fungsi status suara yang saya miliki ini? Saya juga melihat beberapa orang memilikinya.
+Semua pengguna dengan *status suara* terhubung menggunakan klien IRC, kecuali moderator chat yang selalu memiliki status *operator (+o)* terlepas dari klien apapun yang mereka gunakan.
 
-`someuser has joined #somechannel`
-`someuser has quit #somechannel`
-
-`seseorang telah memasuki #suatukanal`
-`seseorang telah meninggalkan #suatukanal`
-
-Jika dalam kanal yang sepi, biasanya ini tidak akan mengganggu, orang-orang yang masuk dan meninggalkan \#osu kerapkali membuat sulit untuk tetap mengikuti obrolan.
-
-Menonaktifkan Pesan Masuk/Meninggalkan pada Beberapa Perangkat Lunak IRC
-------------------------------------------------------------------------
-
-| Perangkat Lunak                           | Perintah                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Klik kanan di kanal yang ingin kamu ubah, di bawah bagian menu *Settings* (Pengaturan) centang *Hide Join/Part Message* (Hilangkan Pesan Masuk/Meninggalkan)  
-
-                                             b. Pergi ke *Settings* (Pengaturan) » *Preferences* (Preferensi), di bawah *Chatting* (Mengobrol) » *General* (Umum) centang *Hide Join/Part Message* (Hilangkan Pesan Masuk/Meninggalkan)                                                                                                                             |
-| [ircII](http://www.eterna.com.au/ircii/)  | **/ignore \* crap**                                                                                                                                                                                                                                                                                                   |
-| [Irssi](http://www.irssi.org)             | **/ignore** *-channels \#somechannel* \* **JOINS PARTS QUITS** (/ignore -kanal \#suatukanal \* JOINS PARTS QUITS)                                                                                                                                                                                                     |
-| [Weechat](http://www.weechat.org)         | **/filter add irc\_smart\_weechat** *irc.somename.* *\#somechannel* **irc\_smart\_filter \*** (/filter add irc\_smart\_weechat irc.suatunama. \#suatukanal irc\_smart\_filter \*)  
-
-                                             **Catat:** suatunama adalah nama yang kamu berikan jika kamu menambahkan **server IRC** ke Weechat.                                                                                                                                                                                                                    |
-| [KVIrc](http://www.kvirc.net)             | Merujuk ke [galur berikut](http://www.kvirc.ru/forum/?topic=609.0) di forum ofisial KVIrc                                                                                                                                                                                                                             |
-| [mIRC](http://www.mirc.com/)              | *Tools* (Peralatan) » *Options* (Opsi) » pilih **IRC**. Klik tombol **Events...**. Ganti **joins**, **parts**, **quits**, dan **nicks** menjadi pengaturan yang kamu inginkan: *In Status* (Sedang digunakan) atau *Hide* (Hilangkan) adalah pengaturan yang baik [1](http://i.clintecker.com/disable-irc-msgs.html). |
-| [Quassel IRC](http://www.quassel-irc.org) | Klik kanan di jendela obrolan lalu kemudian pilih *Hide Events* (Hilangkan perihal) » *Join/Part/Quit* (Masuk/Tinggalkan/Keluar).                                                                                                                                                                                     |
-| [XChat](http://www.xchat.org)             | Klik kanan di **tab** yang ingin kamu ubah.Di **submenu** suatu kanal, ada pengaturan *Show join/part messages* (Munculkan pesan Masuk/Tinggalkan), cukup matikan saja.Atau kamu dapat mengetik **/set irc\_conf\_mode 1** [2](http://xchat.org/faq/#q211) untuk menonaktifkan pesan yang muncul di kanal.            |
-
-Jika perangkat lunak yang kamu gunakan tidak ada di dalam halaman ini, silahkan merujuk ke dokumentasi perangkat lunak tersebut. Hampir semua perangkat lunak memiliki cara untuk ini.
-
-Frequently Asked Questions (FAQ)
-================================
-
-Saya mendapat error "Bad Authentication Token". Apa yang seharusnya saya lakukan?
----------------------------------------------------------------------------------
-
-1. Pastikan kamu menggunakan password yang ada di halaman [IRC Authentication](https://osu.ppy.sh/p/irc).
-
-2. Jika nama pengenalmu memiliki tanda spasi, ganti dengan tanda garis bawah (contoh: "Ini Nama" ganti ke "Ini\_Nama")
-
-Bisakah saya menggunakan nama pengenal lain?
---------------------------------------------
-
-Tidak. Kamu hanya bisa menggunakan nama pengenal yang kamu gunakan di dalam game.
+Pengguna yang tidak memiliki status, terhubung menggunakan klien osu!.
