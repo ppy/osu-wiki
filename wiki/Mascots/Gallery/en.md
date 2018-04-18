@@ -1,46 +1,113 @@
-Gallery
-=========
+# Gallery
 
-***[Click to return to Mascots page](/wiki/Mascots)***
+*Main page: [Mascots](/wiki/Mascots).*
 
-osu! Originals
-----------------
+## Official
 
-### Original pippi (Idol outfit)
+### pippi
 
-![pippi's concept art by Sarumaru.](img/OSUconceptWIP-3.jpg "pippi's concept art by Sarumaru.")
-![Combo Burst of (old) "osu!default by peppy" skin.](img/Pippi_Sarumaru_CB.png "Combo Burst of (old) \"osu!default by peppy\" skin.")
-![Chibi-pippi (Header image).](img/Pippi_Sarumaru_Chibi.png "Chibi-pippi (Header image).")
-![404 error image](img/Pippi_404_old.jpg "404 error image")
-![pippi illustrated by Daru (Can be found on osu!installer).](img/Pippi_old_Daru_CG1.png "pippi illustrated by Daru (Can be found on osu!installer).")
-![pippi when osu! received an error.](img/Pippi_corruption.jpg "pippi when osu! received an error.")
+#### Original pippi (Idol outfit)
 
-### Current pippi (DJ outfit)
+![Original concept art of pippi](img/pippi-original-concept.jpg "pippi's concept art by Sarumaru.")
 
-![pippi (New revision by Daru).](img/Pippi_welcome.png "pippi (New revision by Daru).")
-![Combo Burst of "osu! by peppy" skin.](img/Pippi_Daru_CB.png "Combo Burst of \"osu! by peppy\" skin.")
-![Header image.](../Pippi_Daru_Header.png "Header image.")
-![404 error image.](img/Pippi_Daru_404.png "404 error image.")
+![osu!standard comboburst from the default v1 skin](img/pippi-original-comboburst.png "Comboburst from the default v1 skin.")
 
-### pippi (Fanart)
+![Chibi-pippi (Header image)](img/pippi-original-header.jpg "Chibi-pippi (Banner image)")
 
-![Art by Lempika for MFC #2.](img/Pippi_Lempika_oAtW.jpg "Art by Lempika for MFC #2.")
+![Old 404 error image from the old website](img/pippi-original-website-404.jpg "Old 404 error image from the old website")
+
+![pippi illustrated by Daru](img/pippi-original-installer.jpg "pippi illustrated by Daru (was once found on the old osu!installer)")
+
+![Old osu! client error dialog](img/pippi-original-error.jpg "pippi chewing on the cookie")
+
+![pippidon](img/pippidon.png "pippidon")
+
+#### Current pippi (DJ outfit)
+
+![pippi redesigned by Daru](img/pippi-Daru-redesigned.png "pippi redesigned by Daru (seen in the welcome page)")
+
+![osu!standard comboburst from the default v2 skin](img/pippi-Daru-comboburst.png "Comboburst from the default v2 skin.")
+
+![404 error image](img/pippi-Daru-404.png "404 error image")
+
+#### Fan arts
+
+For pippi fan arts, see:
+
+- [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
+- [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
+- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [Fan Art 7: Halloween!](/community/contests/5)
+- [Fan Art 8: Christmas](/community/contests/36)
+- [Mocha in Summer Fanart Contest](/community/contests/48)
 
 ### Yuzu
 
-![Yuzu by Daru](img/Yuzu_Artwork.png "Yuzu by Daru")
-![Yuzu in osu!catch by ztrot](img/Yuzu_Idle.png "Yuzu in osu!catch by ztrot")
-![Yuzu during a Kiai Time in osu!catch](img/Yuzu_Kiai.png "Yuzu during a Kiai Time in osu!catch")
-![Yuzu while missing fruits in osu!catch](img/Yuzu_Fail.png "Yuzu while missing fruits in osu!catch")
+![Yuzu by Daru](img/Yuzu-Daru.png "Comboburst by Daru")
 
-### Misc
+![Yuzu in osu!catch by ztrot](img/Yuzu-idle.png "Yuzu in osu!catch by ztrot")
 
-![pippidon (Taiko mode).](img/Pippidon.png "pippidon (Taiko mode).")
-![pippi & Yuzu recording a talk.](img/Osu!Talk.png "pippi & Yuzu recording a talk.")
+![Yuzu during Kiai Time in osu!catch](img/Yuzu-kiai.png "Yuzu during Kiai Time in osu!catch")
 
-Cameos
---------
+![Yuzu while missing fruits in osu!catch](img/Yuzu-fail.png "Yuzu while missing fruits in osu!catch")
 
-![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
-![Chibi-J](../J_chibi_Header.png "Chibi-J")
-![Old pippi & friends in depreciated Special Modes.](/wiki/shared/Ctb_logo.jpg "Old pippi & friends in depreciated Special Modes.")
+#### Fan arts
+
+For Yuzu fan arts, see:
+
+- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [Fan Art 7: Halloween!](/community/contests/5)
+- [Fan Art 8: Christmas](/community/contests/36)
+- [Yuzu's New Look Contest](/community/contests/49)
+
+### Maria
+
+![Fanart with pippi and Maria](img/Maria-fanart-1.jpg "Fanart by Anny")
+
+#### Fan arts
+
+For more Maria fan arts, see:
+
+- [Fan Art 8: Christmas](/community/contests/36)
+- [Fan Art 9: Spring](/community/contests/45)
+
+### Mocha
+
+![Mocha design](img/Mocha-design.jpg "Mocha design")
+
+![Fanart with pippi and Mocha](img/Mocha-fanart-1.jpg "Fanart by 2Su")
+
+![Fanart with pippi and Mocha](img/Mocha-fanart-2.jpg "Fanart by Leissss")
+
+![Fanart with Mocha](img/Mocha-fanart-3.jpg "Fanart by Leissss")
+
+#### Fan arts
+
+For more Mocha fan arts, see:
+
+- [Mocha in Summer Fanart Contest](/community/contests/48)
+
+### Miscellaneous
+
+![pippi and Yuzu recording a talk](img/osu!talk.jpg "osu!talk episode backdrop")
+
+## Cameos
+
+![The old Catch the Beat button in Special Modes](/wiki/shared/Ctb_logo.jpg "The old Catch the Beat button in Special Modes")
+
+### Fan arts
+
+For fan arts with cameo mascots, see:
+
+- [Mocha in Summer Fanart Contest](/community/contests/48)
+
+## Community
+
+For fan arts with the community-made mascots, see:
+
+- [Fan Art 6: osu!taiko mascot](/community/contests/2)
+- [Fan Art 7: Halloween!](/community/contests/5)
+- [Fan Art 8: Christmas](/community/contests/36)
+- [Fan Art 9: Spring](/community/contests/45)
+- [Mocha in Summer Fanart Contest](/community/contests/48)
+- [Yuzu's New Look Contest](/community/contests/49)
