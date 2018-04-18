@@ -4,7 +4,7 @@ tags:
 - THOM CUP
 - Heptakey osu!mania CUP
 ---
-The Heptakey osu!mania Cup \#1
+The Heptakey osu!mania Cup #1
 ======================
 
 ![THOM CUP Logo](logo.png)
@@ -42,7 +42,7 @@ The Heptakey osu!mania Cup \#1
 
 ## Links
 
-- [Discussion Thread](/community/forums/posts/731431)
+- [Discussion Thread](/community/forums/topics/731431)
 - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScuxNDPPjsI7-769vXteCdNDTzFcCJWa17XrRvyJvBfXa0pNQ/viewform)
 
 ------------------------------------------------------------------------
