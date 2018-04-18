@@ -2,13 +2,14 @@
 tags:
 - THOM
 - THOM CUP
+- Heptakey osu!mania CUP
 ---
-THOM CUP \#1
+The Heptakey osu!mania Cup \#1
 ======================
 
 ![THOM CUP Logo](logo.png)
 
-**THOM CUP \#1** (short for **"The Heptakey osu!mania Cup"**) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
+**The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
