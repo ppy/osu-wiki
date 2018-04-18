@@ -30,12 +30,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Event | Timestamp |
 |---:|---|
-| Registration Phase   | 2018-04-01/2018-04-15 |
-| Round of 32          | 2018-04-28/2018-04-29 |
-| Round of 16          | 2018-05-05/2018-05-06 |
-| Quarterfinals        | 2018-05-12/2018-05-13 |
-| Semifinals           | 2018-05-19/2018-05-20 |
-| Finals               | 2018-05-26/2018-05-27 |
+| Registration Phase   | 2018-04-01/2018-04-12 |
+| Round of 16          | 2018-04-28/2018-04-29 |
+| Quarterfinals        | 2018-05-05/2018-05-06 |
+| Semifinals           | 2018-05-12/2018-05-13 |
+| Finals Week 1        | 2018-05-19/2018-05-20 |
+| Finals Week 2        | 2018-05-26/2018-05-27 |
 
 ### osu!mania
 
@@ -69,7 +69,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Map Selectors (osu!standard) | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895), ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [LJustChill_PH](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
+| Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641) |
 | Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
@@ -81,15 +81,70 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- Registration Forms
-	- [osu!catch](https://goo.gl/forms/NiXvErz6WhFGkHZl2)
-	- [osu!mania](https://goo.gl/forms/pttJgrxtpSlhu7QD3)
 
 ------------------------
 
 ## Participants
 
-An initial list of participants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
+### osu!standard
+
+| Seed |  Player                                              | 
+|------|------------------------------------------------------| 
+| 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       | 
+| 2    | [Dunois](https://osu.ppy.sh/users/4581715)           | 
+| 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         | 
+| 4    | [-Marika](https://osu.ppy.sh/users/2199427)          | 
+| 5    | [Fraye](https://osu.ppy.sh/users/5352971)            | 
+| 6    | [fixedbyglue](https://osu.ppy.sh/users/8296269)      | 
+| 7    | [PhasiconN](https://osu.ppy.sh/users/7183538)        | 
+| 8    | [- Neon -](https://osu.ppy.sh/users/7273455)         | 
+| 9    | [TyrantsEye2014](https://osu.ppy.sh/users/4530738)   | 
+| 10   | [Oooodriiin](https://osu.ppy.sh/users/7223737)       | 
+| 11   | [Xidorn](https://osu.ppy.sh/users/7904667)           | 
+| 12   | [Nezol](https://osu.ppy.sh/users/7509103)            | 
+| 13   | [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) | 
+| 14   | [\[Vik\]](https://osu.ppy.sh/users/5428448)          | 
+| 15   | [NymphSan05](https://osu.ppy.sh/users/5340700)       | 
+| 16   | [Eboryte](https://osu.ppy.sh/users/7243198)          | 
+| 17   | [NepNep-](https://osu.ppy.sh/users/4800093)          | 
+| 18   | [Natsume-](https://osu.ppy.sh/users/5682791)         | 
+| 19   | [Marika](https://osu.ppy.sh/users/1679638)           | 
+| 20   | [xchan](https://osu.ppy.sh/users/6100591)            | 
+| 21   | [CharlesMoveOn](https://osu.ppy.sh/users/8670152)    | 
+| 22   | [Rimazii](https://osu.ppy.sh/users/3831514)          | 
+| 23   | [Caernarvon725](https://osu.ppy.sh/users/8208317)    | 
+| 24   | [SkyLifeHope](https://osu.ppy.sh/users/7417642)      | 
+| 25   | [CloudBlaze](https://osu.ppy.sh/users/5742581)       | 
+| 26   | [Awishi](https://osu.ppy.sh/users/4290020)           | 
+| 27   | [Scylz](https://osu.ppy.sh/users/8367043)            | 
+| 28   | [\[Paradoxum\]](https://osu.ppy.sh/users/6927531)    | 
+| 29   | [Aharu](https://osu.ppy.sh/users/5039816)            | 
+| 30   | [Mietzu](https://osu.ppy.sh/users/7960710)           | 
+| 31   | [Itsvet](https://osu.ppy.sh/users/9989784)           | 
+| 32   | [Afireee](https://osu.ppy.sh/users/7919913)          | 
+
+### osu!catch
+
+| Seed | Player                                             | 
+|------|----------------------------------------------------| 
+| 1    | [Roido](https://osu.ppy.sh/users/6829103)          | 
+| 2    | [-Nicotine](https://osu.ppy.sh/users/4818935)      | 
+| 3    | [- Kielzu -](https://osu.ppy.sh/users/6221114)     | 
+| 4    | [Crowley](https://osu.ppy.sh/users/6341006)        | 
+| 5    | [-MomoX](https://osu.ppy.sh/users/2150415)         | 
+| 6    | [Laqure](https://osu.ppy.sh/users/1642435)         | 
+| 7    | [Kuya Frex](https://osu.ppy.sh/users/8868701)      | 
+| 8    | [KaganimeRin](https://osu.ppy.sh/users/1626093)    | 
+| 9    | [JeirYagtama](https://osu.ppy.sh/users/7483452)    | 
+| 10   | [AJamez](https://osu.ppy.sh/users/7890134)         | 
+| 11   | [Contingent](https://osu.ppy.sh/users/11849880)    | 
+| 12   | [kaarin](https://osu.ppy.sh/users/10054160)        | 
+| 13   | [Weazle](https://osu.ppy.sh/users/7864598)         | 
+| 14   | [oSuTroop3r](https://osu.ppy.sh/users/7661767)     | 
+| 15   | [princealbert10](https://osu.ppy.sh/users/7804181) | 
+| 16   | [justin1709](https://osu.ppy.sh/users/4699130)     | 
+
+The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
 
 ------------------------
 
@@ -114,11 +169,27 @@ Mappools will be revealed one week in advance of each stage.
 
 ------------------------
 
+## Match Results
+
+### Qualifiers
+
+- Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
+
+------------------------
+
 ## Rules
 
 ### Game Modes and Scoring Format 
 
 - The tournament shall host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament shall use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
+
+### Tournament Formats
+
+- The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
+
+- The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of 2018-04-15 (18:00 UTC+8).
+
+- Both **osu!mania 4K** and **osu!mania 7K** divisions shall adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 ### Mods Used in the Tournament 
 
@@ -155,7 +226,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
 
-- The registration phase of the tournament shall begin on April 1, 2018 and end on April 15, 2018. Only thirty-two (32) slots are opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament shall begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
@@ -215,13 +286,15 @@ Mappools will be revealed one week in advance of each stage.
 
 - Players shall alternate picks until a match winner is determined. This shall be in a Best-of-X series with the formats listed as follows: 
 
-	- Round of 32/o!m Group Stage - Best-of-7 (First to 4) 
-	- Round of 16/o!m Quarterfinals - Best-of-9 (First to 5) 
-	- Quarterfinals/o!m Semifinals - Best-of-11 (First to 6) 
-	- Semifinals/o!m Finals Week 1 - Best-of-13 (First to 7) 
-	- Finals/o!m Finals Week 2 - Best-of-13 (First to 7) 
+	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4) 
+	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5) 
+	- osu!standard Quarterfinals/osu!catch and osu!mania Semifinals - Best-of-11 (First to 6) 
+	- osu!standard Semifinals/osu!catch and osu!mania Finals Week 1 - Best-of-13 (First to 7) 
+	- osu!standard Finals/osu!catch and osu!mania Finals Week 2 - Best-of-13 (First to 7) 
 
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**. 
+
+- If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool. 
 
@@ -229,7 +302,9 @@ Mappools will be revealed one week in advance of each stage.
 
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu!standard and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 
-- For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker. The Loser's Bracket Finals will be played using the Finals Week 2 mappool. 
+- For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker.
+
+- For osu!catch and osu!mania, the Loser's Bracket Finals will be played using the Finals Week 2 mappool of the respective game modes.
 
 ### Rescheduling 
 
