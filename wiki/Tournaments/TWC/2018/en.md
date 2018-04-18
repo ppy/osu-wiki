@@ -198,7 +198,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Malaysia ![][flag_MY] | 0 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41672176) |
 | Australia ![][flag_AU] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/41681566) |
 | France ![][flag_FR] | 1 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41682697) |
-| Japan ![][flag_JP] | 5 | 0 | ![][flag_AR] Argentina | -win by default-) |
+| Japan ![][flag_JP] | 5 | 0 | ![][flag_AR] Argentina | -win by default- |
 | South Korea ![][flag_KR] | 5 | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/41685929) |
 | Chile ![][flag_CL] | 5 | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41687469) |
 | United Kingdom ![][flag_GB] | 1 | 5 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/41689289) |
