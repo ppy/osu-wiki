@@ -1,4 +1,4 @@
-# Pengaturan visual
+# Pengaturan Visual
 
 ![Contoh Pengaturan Visual](./VisualSettings.jpg "Contoh Pengaturan Visual")
 
