@@ -90,6 +90,29 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (84.3 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
+
+- FreeMod
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmaps/1412004)
+  - [Kano - Uchouten Vivace (Trixta) \[Extatic Vivace!\]](https://osu.ppy.sh/beatmaps/1502863)
+  - [DJ CHUCKY - Abyss Of The Darkness (AutotelicBrown) \[Ayumu's abyss\]](https://osu.ppy.sh/beatmaps/1393350)
+  - [Dan Terminus - Margaritifer (XeoStyle) \[Phobos\]](https://osu.ppy.sh/beatmaps/1574526)
+  - [Toromaru - Enigma (TheToaphster) \[Maestro\]](https://osu.ppy.sh/beatmaps/1360128)
+  - [Amane - Dodger's Gadget (UNMIXED) (inteliser) \[Catastrophy \[LN\]\]](https://osu.ppy.sh/beatmaps/1536202)
+  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmaps/1343180)
+  - [Camellia - Proluvies (TheToaphster) \[SVecial\]](https://osu.ppy.sh/beatmaps/1511192)
+  - [LeaF - Lyrith (Vortex-) \[Amnesia\]](https://osu.ppy.sh/beatmaps/1463532)
+  - [DJ SHARPNEL - COCORO (Mina) \[Beginner\]](https://osu.ppy.sh/beatmaps/1607985)
+  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](https://osu.ppy.sh/beatmaps/1609983)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Extreme\]](https://osu.ppy.sh/beatmaps/1449017)
+  - [Susumu Hirasawa - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmaps/1065834)
+  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmaps/1592359)
+  - [Zef - Gambit (Gekido-) \[8-Bit Insanity\]](https://osu.ppy.sh/beatmaps/1552957)
+- Tiebreaker
+  - [Camellia - GHOST (Gekido-) \[Inconspicuous\]](https://osu.ppy.sh/beatmaps/1563688)
+
 ### Semifinals
 
 - FreeMod
@@ -213,6 +236,24 @@ Springtime Osu!mania Free-for-all Tournament 3
   - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
 
 ## Match Results
+
+### Semifinals
+
+Detailed results of the Round of 16 stage can be found [here](https://goo.gl/hmSMka).
+
+| Saturday, 2018-04-14 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996  | |
+| TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus**    | |
+| Tidek ![][flag_PL]        | 2 | **6** | ![][flag_US] **-Electro-** | |
+| **Dawt** ![][flag_CA]     | **6** | 1 | ![][flag_US] Chrubble      | |
+
+| Sunday, 2018-04-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Panshow** ![][flag_CA] | **6** | 0 | ![][flag_MY] Minisora      | |
+| aitor98 ![][flag_ES]     | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
+| -Electro- ![][flag_US]   | 0 | **6** | ![][flag_BR] **andreymc**  | WBD |
+| **Dawt** ![][flag_CA]    | **6** | 4 | ![][flag_CA] Panshow       | |
 
 ### Quarterfinals
 
