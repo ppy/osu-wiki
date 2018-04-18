@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 ![osu!supporter tag](Supporter tag.png "osu!supporter tag")
 
 Introductie

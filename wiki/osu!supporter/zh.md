@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # osu!supporter
 
 ![osu!supporter 标志](/wiki/shared/osu!supporter.png "osu!supporter 标志")
