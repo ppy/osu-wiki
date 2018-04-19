@@ -11,7 +11,7 @@ If you violate any of these Terms of Use, your permission to use the web site au
 osu.ppy.sh provides online gameplay services free of charge to end users, along with online rankings, listings and means of communication (specifically forums and chat rooms).
 osu.ppy.sh also provides users with a means of hosting user created content allowing other users to gain access to uploaded content.
 
-The osu! management make no guarantees as to whether any user-uploaded content and information is accurate, current, of substaintial quality.
+The osu! management make no guarantees as to whether any user-uploaded content and information is accurate, current, or of substantial quality.
 We assume no responsibility as to whether objectionable content has been uploaded.
 We assume no responsibility over whether users have the rights to distribute uploaded content.
 
