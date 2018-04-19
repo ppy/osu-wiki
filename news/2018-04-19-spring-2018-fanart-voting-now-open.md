@@ -17,7 +17,7 @@ The intrepid artists behind the winning works will nab themselves **2 months of 
 Check out a little teaser of this year's entries, set to *Hana* from the ever-lovely [Wisp X](https://osu.ppy.sh/beatmaps/artists/16). If you like what you hear, you can always try mapping it - Featured Artist tracks are always free for use in osu! mapping!
 
 <div align="center">
-    <video width="640" height="360" controls>
+    <video width="90%" controls>
         <source src="https://assets.ppy.sh/contests/64/fanart-preview.mp4" type="video/mp4" preload="none">
     </video>
 </div>
