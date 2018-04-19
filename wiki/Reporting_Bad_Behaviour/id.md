@@ -4,7 +4,7 @@
 
 Sistem lapor adalah sebuah fitur penting untuk memberitahu moderator mengenai pemain yang berperilaku buruk untuk diberikan hukuman yang sesuai.
 
-Tidak hanya sebatas obrolan dalam game tetapia juga di tempat lain seperti forum dan wiki itu sendiri.
+Tidak hanya sebatas obrolan dalam game tetapi juga di tempat lain seperti forum dan wiki itu sendiri.
 
 ## Bagaimana cara melaporkan seseorang
 
@@ -20,7 +20,7 @@ Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan
 
 Sistem lapor tidak peka huruf besar-kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti ``this_user_name``.
 
-![Example of using the !report command](./img/Report-command.png "Example of using the !report command")
+![Contoh penggunaan perintah !report](./img/Report-command.png "Contoh penggunaan perintah !report")
 
 ### Menggunakan tombol laporkan pengguna dalam game
 
@@ -28,7 +28,7 @@ Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks t
 
 ![Klik tombol laporkan pengguna](./img/Report-user-1.png "Klik tombol laporkan pengguna")
 
-![Jangan lupa menambahkan alasan di sini!](img/Report-user-2.png "Jangan lupa menambahkan alasan di sini!")
+![Jangan lupa menambahkan alasannya di sini!](img/Report-user-2.png "Jangan lupa menambahkan alasannya di sini!")
 
 ### Menggunakan tombol report user di profil pengguna
 
@@ -42,7 +42,7 @@ Jangan lupa menambahkan detil laporan anda di komentar.
 
 Penggunaan fitur ini hanya boleh digunakan ketika melaporkan pengguna yang melakukan kecurangan.
 
-![Menekan tombol ini akan melaporkan skor itu.](img/Report-user-beatmap.png "Menekan tombol ini akan melaporkan skor itu.")
+![Menekan tombol ini akan melaporkan skor yang disorot.](img/Report-user-beatmap.png "Menekan tombol ini akan melaporkan skor yang disorot.")
 
 ## Contoh apa yang harus dilaporkan
 
