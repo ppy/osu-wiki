@@ -18,6 +18,7 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages        |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Aloda](https://osu.ppy.sh/users/1190127)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                         |
 | [Asherz007](https://osu.ppy.sh/users/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
 | [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German         |
 | [Doyak](https://osu.ppy.sh/users/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Korean                  |
