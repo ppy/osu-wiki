@@ -24,7 +24,7 @@ Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang
 
 *Lihat juga: [Maskot](/wiki/Mascots).*
 
-Temui Pippi, Yuzu, Maria, dan Mocha; empat maskot dari mode osu!standard, osu!catch, osu!mania, dan osu!taiko.
+Temui pippi, Yuzu, Maria, dan Mocha; empat maskot dari mode osu!standard, osu!catch, osu!mania, dan osu!taiko.
 
 ## Beatmapping
 
