@@ -19,9 +19,9 @@
 
 ![Account fields](Register-2.png "Account fields")
 
-3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
+3. Sign in to osu! and the process is finished. You have successfully registered an osu! account!
 
-## Logging In to osu!
+## Signing In to osu!
 
 ### osu! executable
 
@@ -35,13 +35,13 @@ This executable (which should be named `osu!.exe`) will open the game itself. If
 
 ![Login section in Options panel](Login.png "Login section in Options panel")
 
-If this is your first time starting *osu!*, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.
+If this is your first time starting osu!, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and sign in.
 
 ### User panel
 
 ![Example of a user panel](Userpanel.png "Example of a user panel")
 
-Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into *osu!* and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
+Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now signed into osu! and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button.
 
 
 ## What's next?
