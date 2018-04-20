@@ -6,7 +6,8 @@
 
 1. Di [halaman utama web](https://osu.ppy.sh), klik ``I'm new!`` untuk memulai proses pendaftaran.
 ![Tombol registrasi](Register-1.png "Tombol registrasi")
-2. Isi semua kolom dalam formulir di bawah dan tekan ``Continue`` ![Kolom akun](Register-2.png "Kolom akun")
+2. Isi semua kolom dalam formulir di bawah dan tekan ``Continue`` !
+![Kolom akun](Register-2.png "Kolom akun")
     1. Nama Pengguna
         - Jumlah maksimumnya 15 karakter
         - Karakter alfanumerik (``a-z``, ``A-Z``, ``0-9``), garis bawah (``_``), kurung kotak, (``[`` and ``]``), setrip (``-``), dan spasi (`` ``) merupakan karakter yang diizinkan.
@@ -20,7 +21,7 @@
 
 ### osu! executable
 
-![Register.png](Register-3.png)  
+![Ikon osu!.exe](Register-3.png)  
 
 File executable ini (biasa juga diberi nama `osu!.exe`) akan membuka game itu sendiri. Jika pembaruan diperlukan, osu! akan memperbarui secara otomatis. _Catatan: Anda tidak perlu membuka osu! sebagai administrator. Jika game membutuhkannya, osu! akan melakukannya sendiri._
 
@@ -28,20 +29,20 @@ File executable ini (biasa juga diberi nama `osu!.exe`) akan membuka game itu se
 
 *Lihat juga: [Pengaturan](/wiki/Options)*
 
-![Login.png](Login.png)
+![Masuk](Login.png)
 
 Jika ini adalah pertama kalinya anda memulai *osu!*, anda akan melihat panel ini di sisi kiri layar game anda. Masukkan nama pengguna dan kata sandi anda di kolom masing-masing dan masuk.
 
 ### Panel pengguna
 
-![Userpanel.png](Userpanel.png)
+![Panel Pengguna](Userpanel.png)
 
 Setelah anda memasukkan nama pengguna dan kata sandi anda dengan benar, anda akan melihat panel pengguna anda di kiri atas layar anda. Anda sekarang telah masuk ke *osu!* dan siap bermain! Anda juga akan melihat panel pengguna anda di bagian bawah layar pemilihan lagu anda, di sebelah kanan tombol ``pilihan pengaturan`` anda.
 
 Berikutnya apa?
 ------------
 
-Anda siap memulai petualangan ritme anda, lanjutkan ke halaman ![selamat datang](/wiki/Welcome/) dan mulai bermain! Jangan lupa baca [peraturan yang berlaku](/wiki/Rules/) dengan sangat hati-hati!
+Anda siap memulai petualangan ritme anda, lanjutkan ke halaman [selamat datang](/wiki/Welcome/) dan mulai bermain! Jangan lupa baca [peraturan yang berlaku](/wiki/Rules/) dengan sangat hati-hati!
 
 Jika anda membutuhkan bantuan dalam game, ajukan pertanyaan anda ke kanal `#help` di IRC atau poskan masalah anda ke forum.
 
