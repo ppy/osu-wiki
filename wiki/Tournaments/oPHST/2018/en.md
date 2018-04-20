@@ -156,6 +156,8 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Round of 32
 
+[**Download the mappack here! (97.0 MB)**](https://drive.google.com/open?id=1HjXmRpMblbDVfqFQ8E78uy6kVHPoaTFJ)
+
 - NoMod
 	- [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Nathan) \[Nathan's Extra\]](https://osu.ppy.sh/beatmaps/1418503)
 	- [jippusu - Mushikui Saikede Rhythm (Skystar) \[Skystar\]](https://osu.ppy.sh/beatmaps/239104)
@@ -195,6 +197,8 @@ Mappools will be revealed one week in advance of each stage.
 ### osu!catch 
 
 #### Round of 16
+
+[**Download the mappack here! (102.3 MB)**](https://drive.google.com/open?id=1kY272z24TD6tVZ4XfhzlRnTq3p-SoGqP)
 
 - NoMod
 	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmaps/1036560)
