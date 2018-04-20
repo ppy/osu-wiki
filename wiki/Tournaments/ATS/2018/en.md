@@ -47,7 +47,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Commentators | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991) |
 | Streamers | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
 | Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
+| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885) |
 | Statisticians | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## Links
@@ -99,7 +99,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 1. In the first stage (Group Stage), the players will be divided into 8 groups of 6 players.
 
 2. All the players from each group will face each other.
-3. The top 2 players of each group will move on to the Knock-Out Stages.
+3. The top 4 players of each group will move on to the Knock-Out Stages.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 
 ### Match Instructions
@@ -124,13 +124,14 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
-5. The NoMod and Special bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both.
+5. The NoMod bracket will be played with no modes activated.
+6. The Special bracket is harder version of NoMod bracket with more map variants, it will be played with no modes activated.
+7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
+8. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, both, or NoMod.
 
-8. The tiebreaker will be played under NoMod conditions.
+9. The tiebreaker will be played under NoMod conditions.
    - In case of a tie, the tiebreaker will be replayed again with FreeMod activated.
-9. The mappool consists of following format:
+10. The mappool consists of following format:
    - 5 NoMod
    - 2 Hidden
    - 2 HardRock
