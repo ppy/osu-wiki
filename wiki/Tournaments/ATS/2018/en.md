@@ -19,11 +19,12 @@ The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-o
 | Registration Phase | 2018-04-21/2018-05-26 |
 | Drawings | 2018-05-27 (19:00 UTC +7) |
 | Group Stage | 2018-06-02/2018-06-03 |
-| Round of 16 | 2018-06-09/2018-06-10 |
-| Quarterfinals | 2018-06-16/2018-06-17 |
-| Semifinals | 2018-06-23/2018-06-24 |
-| Finals | 2018-06-30/2018-07-01 |
-| Grand Finals | 2018-07-08 |
+| Round of 32 | 2018-06-09/2018-06-10 |
+| Round of 16 | 2018-06-16/2018-06-17 |
+| Quarterfinals | 2018-06-23/2018-07-24 |
+| Semifinals | 2018-06-30/2018-07-01 |
+| Finals | 2018-07-07/2018-07-08 |
+| Grand Finals | 2018-07-15 |
 
 ## Prizes
 
@@ -42,11 +43,11 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Position | Members |
 | ------------ | -------------- |
 | Organizers | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
-| Map Selectors | [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621), [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122)  |
+| Map Selectors | [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122), [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 | Commentators | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991) |
 | Streamers | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
 | Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] xfraczynho](https://osu.ppy.sh/users/2192669), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
+| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
 | Statisticians | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## Links
@@ -95,7 +96,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the players will be divided into 8 groups of 4 players.
+1. In the first stage (Group Stage), the players will be divided into 8 groups of 6 players.
 
 2. All the players from each group will face each other.
 3. The top 2 players of each group will move on to the Knock-Out Stages.
@@ -118,7 +119,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
+1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 32, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
 2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
