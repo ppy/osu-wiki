@@ -4,7 +4,7 @@ title: "Beatmap Spotlights October 2017"
 date: 2017-11-29 14:00:00 +0000
 ---
 
-Halloween may be over, but with that comes a selection of the best maps from the spooky month of October. It's time to look at October’s Spotlights, and maybe get a medal while you’re at it!
+Halloween may be over, but with that comes a selection of the best maps from the spooky month of October. It's time to look at October's Spotlights, and maybe get a medal while you're at it!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -74,9 +74,9 @@ Covering a full spread, this mapset successfully gives out colorful presentation
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/despacito.jpg)](https://osu.ppy.sh/s/665562)
 
-Love it or hate it, however you might feel about this song, it cannot be denied that [Ascendance](https://osu.ppy.sh/u/2931883) and [Spectator](https://osu.ppy.sh/u/702598) have created a fantastic pair of osu!catch difficulties. Weaving between the strong drums and energetic vocals, both difficulties capture the song’s essence wonderfully. 
+Love it or hate it, however you might feel about this song, it cannot be denied that [Ascendance](https://osu.ppy.sh/u/2931883) and [Spectator](https://osu.ppy.sh/u/702598) have created a fantastic pair of osu!catch difficulties. Weaving between the strong drums and energetic vocals, both difficulties capture the song's essence wonderfully. 
 
-Ascendance’s Rain makes great use of big hyperdashes whilst Spectator’s Overdose turns things up a notch with quicker snaps for faster hyperdashes and more direction changes to deliver all the challenge this song has to offer. So even if you’ve heard this song a thousand times already, try giving it just a couple more for these great difficulties.
+Ascendance's Rain makes great use of big hyperdashes whilst Spectator's Overdose turns things up a notch with quicker snaps for faster hyperdashes and more direction changes to deliver all the challenge this song has to offer. So even if you've heard this song a thousand times already, try giving it just a couple more for these great difficulties.
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/utopiosphere.jpg)](https://osu.ppy.sh/s/522132)
 
@@ -88,7 +88,7 @@ The spread of this mapset is pretty balanced, and you can enjoy some interesting
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/impulsive-state.jpg)](https://osu.ppy.sh/s/643857)
 
-Topping this month’s mania spotlights is none other than [Parachor](https://osu.ppy.sh/u/5241655) with his newest addition to the ranked section, The Impulsive State. Staying true to his signature unconventional style, the chart sports an impressive variety of slider velocity changes ranging from stutters and reverse bumps to fast jams and waves. 
+Topping this month's mania spotlights is none other than [Parachor](https://osu.ppy.sh/u/5241655) with his newest addition to the ranked section, The Impulsive State. Staying true to his signature unconventional style, the chart sports an impressive variety of slider velocity changes ranging from stutters and reverse bumps to fast jams and waves. 
 
 With a high HP of 8.8, coupled with some very tight long note releases and overlapped timings, passing is no easy feat despite its low Star Rating and is a refreshing challenge for players of many levels.
 

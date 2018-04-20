@@ -17,6 +17,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 | File Name | Locale Name | Native Script |
 |-----------|-------------|---------------|
 | `en.md` | English | English |
+| `da.md` | Danish | Dansk |
 | `es.md` | Spanish | Español |
 | `fr.md` | French | Français |
 | `it.md` | Italian | Italiano |
@@ -26,12 +27,12 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ru.md` | Russian | Русский |
 | `sv.md` | Swedish | Svenska |
-| `zh.md` | Chinese (Simplified) | 中文 |
+| `zh.md` | Chinese (Simplified) | 简体中文 |
+| `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
 Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
-- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution).
-  - For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article
+- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
 - Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
@@ -128,11 +129,11 @@ While editing, sentences are to be in a paragraph form, not in single lines. For
 ```
 Do not:
 osu!lazer is a development build that you can download.
-It will one day be the successor of the previous osu!client.
+It will one day be the successor of the previous osu! client.
 Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 
 Do:
-osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
+osu!lazer is a development build that you can download. It will one day be the successor of the previous osu! client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
 ```
 
 #### Escaping
@@ -153,10 +154,10 @@ When trying to emphasize words, **never use all capital letters**. Instead, bold
 
 ```
 Do not:
-You are NOT allowed to post R-18 skins on the osu!forums.
+You are NOT allowed to post R-18 skins on the osu! forums.
 
 Do:
-**You are not allowed to post R-18 skins on the osu!forums.**
+**You are not allowed to post R-18 skins on the osu! forums.**
 ```
 
 #### Bold
@@ -238,7 +239,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 Use code for the following scenarios:
 
 - keyboard keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
+  - When doing this, use capital letters for single characters and title case for modifiers.
 - button or menu text
   - When copying the text from a menu or button, copy the letter casing as is.
 - folder names
@@ -292,7 +293,7 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 ##### User profiles
 
-When linking to an osu!user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
 Do not:
@@ -350,8 +351,8 @@ Never use raw links for linking or have the link text be the URL. For example:
 
 ```
 Do not: https://osu.ppy.sh/home
-or: <https://osu.ppy.sh/home>
-or: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
+Do not: <https://osu.ppy.sh/home>
+Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
 Do: [osu! on the web](https://osu.ppy.sh/home)
 ```
@@ -515,15 +516,15 @@ These words are spelt as follows (note the spacing):
 - Use `creator` instead of `beatmapper` or `mapper`.
 - Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
 
-### Abbreviations and acronyms
+### Abbreviations, acronyms, and initialisms
 
-When using abbreviations and/or acronyms, it is important to note what the abbreviations and/or acronyms mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
+When using abbreviations, acronyms, and/or initialisms, it is important to note what they mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
 
 ```
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-All abbreviations and acronyms of **must be capitalised**. For example:
+All abbreviations, acronyms, and/or initialisms **must be capitalised**. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -532,11 +533,11 @@ All abbreviations and acronyms of **must be capitalised**. For example:
 
 ---
 
-Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbreviation for "for example" (it is the abbreviation for "exercise").
+Use `e.g.` when initialising "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another initialism for "for example" (it is the initialism for "exercise").
 
 ---
 
-Do not pluralize abbreviations nor acronyms. (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`)
+Do not pluralize abbreviations, acronyms, nor initialisms (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`).
 
 ### Date formatting
 
@@ -583,7 +584,7 @@ Contractions are a shortened form of a word or group of words. In the osu! wiki,
 
 ### Point of view
 
-When referring to the player, use `the player` or `a player`. **Never use `he`/`his` or `she`/`her`!** Instead, use `they`/`their`/`theirs`.
+When referring to the player, use `the player` or `a player`. **Never use `he`/`his` or `she`/`her`,** but use `they`/`their`/`theirs` instead.
 
 Articles that talk directly to the reader may use the word `you`.
 

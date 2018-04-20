@@ -9,24 +9,24 @@ The Ranking Charts for May 2016 have been just released and [can be found here](
 This month our dedicated QAT members, [Bakari](https://osu.ppy.sh/u/597957), [MMzz](https://osu.ppy.sh/u/128993), [Deif](https://osu.ppy.sh/u/318565) and [Blocko](https://osu.ppy.sh/u/4075092) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Bakari](https://osu.ppy.sh/u/597957)** pick their favourite maps.
 
 + **[BESTie - Excuse Me](https://osu.ppy.sh/s/423925) by [Euny](https://osu.ppy.sh/u/3896865)**
 
-One of the most noticeable sets of the month. Video, background and even combo colours and, of course, mapping styles as well - everything goes brilliantly with the song. Dynamic flow of every difficulty that varies in style as you pick harder difficulties emphasizes the map in a very interesting way. Be sure to check it out! Whatever you skill level way, you are almost certain to enjoy it! 
+One of the most noticeable sets of the month. Video, background and even combo colours and, of course, mapping styles as well - everything goes brilliantly with the song. Dynamic flow of every difficulty that varies in style as you pick harder difficulties emphasizes the map in a very interesting way. Be sure to check it out! Whatever you skill level way, you are almost certain to enjoy it!
 
 + [96Neko x KurousaP - Kagen no Tsuki](https://osu.ppy.sh/s/393343) by [jonathanlfj](https://osu.ppy.sh/u/270377)
 
-A great proof of the fact that we do not give "Elite Mapper" titles away for nothing. Insanely amazing harder difficulties, that gently descend into brilliantly mapped collab and more beginner friendly Normal and guest Hard.  Every difficulty on its own is beautiful enough and could stand as a good example of how to map, but in the set all together they leave me speechless, as I can not help but play the set again, and again and again. 
+A great proof of the fact that we do not give "Elite Mapper" titles away for nothing. Insanely amazing harder difficulties, that gently descend into brilliantly mapped collab and more beginner friendly Normal and guest Hard.  Every difficulty on its own is beautiful enough and could stand as a good example of how to map, but in the set all together they leave me speechless, as I can not help but play the set again, and again and again.
 
 + [Torleif Thedeen - Suite Nr.1 G-Dur, BWV 1007 I. Prelude](https://osu.ppy.sh/s/160528) by [pishifat](https://osu.ppy.sh/u/3178418)
 
@@ -34,7 +34,7 @@ Looking for something different to try? Up for some hit accuracy training? This 
 
 + [Sharlo - Shinkai Shoujo](https://osu.ppy.sh/s/221768) by [yf_bmp](https://osu.ppy.sh/u/1243669)
 
-It is impossible not to like the wonderful voice Sharlo has! Along with the lovely and catchy melody, the song makes a perfect match for this community. The map is also well-done, as the difficulty spread is well thought, and every difficulty is designed in a way, it gets the best this wonderful music can provide. 
+It is impossible not to like the wonderful voice Sharlo has! Along with the lovely and catchy melody, the song makes a perfect match for this community. The map is also well-done, as the difficulty spread is well thought, and every difficulty is designed in a way, it gets the best this wonderful music can provide.
 
 + [Nightwish - Sagan](https://osu.ppy.sh/s/395298) by [T-Mac](https://osu.ppy.sh/u/2775906)
 
@@ -42,22 +42,22 @@ A great and powerful song enriched by well-done hitsounds. Mapping is organized 
 
 + [Elle King - Ex's & Oh's](https://osu.ppy.sh/s/417230) by [ezek](https://osu.ppy.sh/u/180241)
 
-Powerful vocals and 1/3 snapping go too well together. I could not ignore this piece of art that is so fun to play! Despite the simplicity of the rhythms and the fact, that there is no any difficulty above 3,5 stars, this map is still surprisingly fun to play even for the skilled players as the rhythm is quite different from what we see in the majority of the maps. 
+Powerful vocals and 1/3 snapping go too well together. I could not ignore this piece of art that is so fun to play! Despite the simplicity of the rhythms and the fact, that there is no any difficulty above 3,5 stars, this map is still surprisingly fun to play even for the skilled players as the rhythm is quite different from what we see in the majority of the maps.
 
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[MMzz](https://osu.ppy.sh/u/128993)** about their favourite maps in May 2016.
 
 + **[LeaF - Kyouki Ranbu](https://osu.ppy.sh/s/394552) by [DakeDekaane](https://osu.ppy.sh/u/1425253)**
 
-As always with LeaF, you need to expect the unexpected. There are quite a few 1/6 and even 1/8 burst that always catch me off guard. Outside of the tricky patterns, the map is solid, with some interesting streams and rhythm choices that help it stand out from the batch of ranked maps in May. 
+As always with LeaF, you need to expect the unexpected. There are quite a few 1/6 and even 1/8 burst that always catch me off guard. Outside of the tricky patterns, the map is solid, with some interesting streams and rhythm choices that help it stand out from the batch of ranked maps in May.
 
 + [DragonForce - Cry for Eternity](https://osu.ppy.sh/s/418435) by [Raiden](https://osu.ppy.sh/u/2239480)
 
-Keeping up with the Dragonforce trend, be prepared for constant dense patterns/streaming. Although this is one of the easier Dragonforce maps because of the BPM and OD, the streams can still get a little tricky with offbeat sections. Make sure you pay attention while streaming. 
+Keeping up with the Dragonforce trend, be prepared for constant dense patterns/streaming. Although this is one of the easier Dragonforce maps because of the BPM and OD, the streams can still get a little tricky with offbeat sections. Make sure you pay attention while streaming.
 
 + [LindaAI-CUE - Norudon2000](https://osu.ppy.sh/s/335229) by [OnosakiHito](https://osu.ppy.sh/u/290128)
 
@@ -65,11 +65,11 @@ As an official song from Taiko no Tatsujin, the song is very "interesting" to sa
 
 + [Zhan Xun Wei - Tanhou ~Blooming~](https://osu.ppy.sh/s/380233) by [-[ Dumpling ]-](https://osu.ppy.sh/u/2478693)
 
-This map might not be the most challenging out of the maps ranked in May, but it is definitely charming because of the music choice. This style of music always blends well with Taiko drums and Dumpling does it just right. The rhythm they use is a combination of following the song, but adding their own rhythm in as well to make it more unique. 
+This map might not be the most challenging out of the maps ranked in May, but it is definitely charming because of the music choice. This style of music always blends well with Taiko drums and Dumpling does it just right. The rhythm they use is a combination of following the song, but adding their own rhythm in as well to make it more unique.
 
 + [Camellia as "Bang Riot" - Blastix Riotz](https://osu.ppy.sh/s/351644) by [Nwolf](https://osu.ppy.sh/u/1910766)
 
-Hands down the hardest map we saw in May. At 256 BPM, the amount of raw speed and endurance you need is very high. Nwolf piles very dense patterns on top of a very interesting beat provided by the song. Even in the more "calm" sections of the song, you will see some 5 note 1/4 patterns. That with the very long streams you see near the beginning and end of the map should warn you to not take this map lightly. 
+Hands down the hardest map we saw in May. At 256 BPM, the amount of raw speed and endurance you need is very high. Nwolf piles very dense patterns on top of a very interesting beat provided by the song. Even in the more "calm" sections of the song, you will see some 5 note 1/4 patterns. That with the very long streams you see near the beginning and end of the map should warn you to not take this map lightly.
 
 + [Girls Dead Monster - Alchemy (MUZIK SERVANT vs you Remix)](https://osu.ppy.sh/s/389093) by [Charlotte](https://osu.ppy.sh/u/3686901)
 
@@ -78,7 +78,7 @@ A collaboration with [Nofool](https://osu.ppy.sh/u/672430). Although the song do
 
 
 
-###osu!catch
+### osu!catch
 
 For osu!catch, **[Deif](https://osu.ppy.sh/u/318565)** was the chosen one to declare the winners of the May 2016 beatmaps.
 
@@ -110,7 +110,7 @@ Do you enjoy catching hard/edge dashes? This is the perfect beatmap for you! Com
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Blocko](https://osu.ppy.sh/u/4075092)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -146,7 +146,7 @@ And another 4K map enters the Ranking Charts! This time by Dellvangel - featurin
 **The May 2016 ranking charts will end on the 15th July 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the March 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -155,6 +155,6 @@ Congratulations to the winners of the March 2016 Ranking Charts. They receive a 
 + **Catch the Beat:** [_Asriel](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Runa](https://osu.ppy.sh/u/4643294)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

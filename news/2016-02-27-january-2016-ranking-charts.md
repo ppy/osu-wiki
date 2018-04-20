@@ -9,14 +9,14 @@ The Ranking Charts for January 2016 have just been released and [can be found he
 This month [ByBy13](https://osu.ppy.sh/u/3436326), [mintong89](https://osu.ppy.sh/u/966210), [ZiRoX](https://osu.ppy.sh/u/200768) and [Feerum](https://osu.ppy.sh/u/4815717) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[ByBy13](https://osu.ppy.sh/u/3436326)** pick their favourite maps.
 
@@ -47,7 +47,7 @@ Another Touhou Project song from Kite! Honestly said, the hardest difficulty, Se
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[mintong89](https://osu.ppy.sh/u/966210)** about their favourite maps in January 2016.
 
@@ -79,7 +79,7 @@ Last but not least, I choose this map for the Charts. It suits to those who want
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[ZiRoX](https://osu.ppy.sh/u/200768)** was the chosen one to declare the winners of the January 2016 beatmaps.
 
@@ -93,11 +93,11 @@ Here we have it, Razor Sharp's first ranked mapset. This is one of the two CtB m
 
 + [u's - Korekara no Someday](https://osu.ppy.sh/s/335711) by [koreapenguin](https://osu.ppy.sh/u/1458069)
 
-This song again? Yeah, but in a shorter version (and from different mappers)! For those in the competitive scene, there are two names you know really well: Spectator and CLSW. While last month’s charts had Spectator's Korekara no Someday, this chart includes an Overdose diff by CLSW, which I couldn't ignore considering charts are a competition. Crystal's Captivation is the only CtB specific difficulty in this mapset, but there are several standard diffs ranging from Easy to Extra, so there's probably one convert for you to play here.
+This song again? Yeah, but in a shorter version (and from different mappers)! For those in the competitive scene, there are two names you know really well: Spectator and CLSW. While last month's charts had Spectator's Korekara no Someday, this chart includes an Overdose diff by CLSW, which I couldn't ignore considering charts are a competition. Crystal's Captivation is the only CtB specific difficulty in this mapset, but there are several standard diffs ranging from Easy to Extra, so there's probably one convert for you to play here.
 
 + [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai](https://osu.ppy.sh/s/320717) by [Setz](https://osu.ppy.sh/u/3165798)
 
-Going through the standard beatmaps listing was a hard thing, after I set some conditions for maps to be on my candidates list to make it to the charts. This song is long enough to guarantee a decent max score for competition, and the 5-diffs spread ranging from Easy to Extra allows players of different levels to enjoy the mapset. On top of that, the song is really catchy, and that’s what made me put it in the charts over other candidates.
+Going through the standard beatmaps listing was a hard thing, after I set some conditions for maps to be on my candidates list to make it to the charts. This song is long enough to guarantee a decent max score for competition, and the 5-diffs spread ranging from Easy to Extra allows players of different levels to enjoy the mapset. On top of that, the song is really catchy, and that's what made me put it in the charts over other candidates.
 
 + [Demetori - Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World](https://osu.ppy.sh/s/347719) by [jonathanlfj](https://osu.ppy.sh/u/270377)
 
@@ -105,12 +105,12 @@ Here we have an interesting convert marathon mapset, consisting of 2 diffs! Both
 
 + [MY FIRST STORY - Itsuwari NEUROSE](https://osu.ppy.sh/s/365963) by [Saut](https://osu.ppy.sh/u/3799202)
 
-When I first heard this, it reminded me a lot of ONE OK ROCK, and it turned out both vocalists are brothers. Trivia stuff aside, the 7 difficulties from this mapset provide a difficulty for every CtB player out there: Easy, Normal and Hard difficulties will appeal Cup and Salad players, while the Insane and Broccoly’s Extra will feel adequate for Platter and Rain players, respectively. Jommy’s Extreme and the Madness diff exploit the song’s rhythm to the last, making for interesting and challenging patterns, recommended for top players.
+When I first heard this, it reminded me a lot of ONE OK ROCK, and it turned out both vocalists are brothers. Trivia stuff aside, the 7 difficulties from this mapset provide a difficulty for every CtB player out there: Easy, Normal and Hard difficulties will appeal Cup and Salad players, while the Insane and Broccoly's Extra will feel adequate for Platter and Rain players, respectively. Jommy's Extreme and the Madness diff exploit the song's rhythm to the last, making for interesting and challenging patterns, recommended for top players.
 
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Feerum](https://osu.ppy.sh/u/4815717)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -146,7 +146,7 @@ I had the feeling I had to choose at least one opening map for the charts! And h
 **The January 2016 ranking charts will end on the 15th March 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the December 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -155,6 +155,6 @@ Congratulations to the winners of the December 2015 Ranking Charts. They receive
 + **Catch the Beat:** [No492_Shaymin](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

@@ -40,7 +40,7 @@ Don't let the difficulty name fool you, because that's exactly what [jonathanlfj
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/hyakka-ryouran.jpg)](https://osu.ppy.sh/s/617188)
 
-Even though he's mapped seven songs by Ito Kashitaro already, [appleeaterx](https://osu.ppy.sh/u/2407160)'s rendition of Hyakka Ryouran is his best work yet! The highest difficulty features unconventional rhythm choice in each chorus and highly spaced streams throughout, while [Milan-](https://osu.ppy.sh/u/1052994)’s Insane and the lower difficulties are a treat as well. Be sure to watch out for the massive slider speed changes - they're bound to catch you off guard!
+Even though he's mapped seven songs by Ito Kashitaro already, [appleeaterx](https://osu.ppy.sh/u/2407160)'s rendition of Hyakka Ryouran is his best work yet! The highest difficulty features unconventional rhythm choice in each chorus and highly spaced streams throughout, while [Milan-](https://osu.ppy.sh/u/1052994)'s Insane and the lower difficulties are a treat as well. Be sure to watch out for the massive slider speed changes - they're bound to catch you off guard!
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/gokuraku.jpg)](https://osu.ppy.sh/s/489039)
 
@@ -72,7 +72,7 @@ In conclusion, the entire map contains rather solid structure, well arranged hit
 
 Ever wanted to bang some drums to the sound of intense violins? Well then, Memme - Avalanche delivers just that with some of the most amazingly well structured taiko difficulties that we have seen this month, accompanied by an absolutely stunning storyboard by [Starfy](https://osu.ppy.sh/u/2045914)!
 
-The highlight of this set would definitely be the Inner Oni difficulty by [aabc271](https://osu.ppy.sh/u/155707). With clever usage of finishers, 1/6 patterns, streams and rhythm switches throughout the map, it offers both a fun yet challenging experience for veteran players. We mustn’t forget about the Muzukashii and Oni difficulties though - mapped by [iloveyou4ever](https://osu.ppy.sh/u/4964596) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) respectively, they too are also beautifully crafted for players of lower levels to enjoy.
+The highlight of this set would definitely be the Inner Oni difficulty by [aabc271](https://osu.ppy.sh/u/155707). With clever usage of finishers, 1/6 patterns, streams and rhythm switches throughout the map, it offers both a fun yet challenging experience for veteran players. We mustn't forget about the Muzukashii and Oni difficulties though - mapped by [iloveyou4ever](https://osu.ppy.sh/u/4964596) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) respectively, they too are also beautifully crafted for players of lower levels to enjoy.
 
 ## osu!catch
 
@@ -80,7 +80,7 @@ The highlight of this set would definitely be the Inner Oni difficulty by [aabc2
 
 For this month, [Sinnoh](https://osu.ppy.sh/u/4236057) has single-handedly crafted this interpretation of Camellia's Towards the Horizon!
 
-Despite its low BPM, the song contains complex rhythms - and this mapset uses that complexity to its advantage. With rhythmic diversity using a variety of beat snaps, engaging patterns with its movement-heavy style, and an evenly-spread set for different skill levels, this set shines over the horizon for this month’s Spotlights.
+Despite its low BPM, the song contains complex rhythms - and this mapset uses that complexity to its advantage. With rhythmic diversity using a variety of beat snaps, engaging patterns with its movement-heavy style, and an evenly-spread set for different skill levels, this set shines over the horizon for this month's Spotlights.
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/a-bella.jpg)](https://osu.ppy.sh/s/541101)
 
@@ -88,11 +88,11 @@ Despite its low BPM, the song contains complex rhythms - and this mapset uses th
 
 Deif's Overdose however turns things up a bit. No doubt familiar to viewers of the osu!catch World Cup 2017 and notoriously tricky to play with Hidden, Deif takes every opportunity provided by the song - combining big hyperdashes with fast sliders to make maintaining a high accuracy a difficult task.
 
-This beatmap is ultimately great fun to play and one you really shouldn’t miss out on this month.
+This beatmap is ultimately great fun to play and one you really shouldn't miss out on this month.
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/arcadia.jpg)](https://osu.ppy.sh/s/472434)
 
-Having been featured in the osu!catch World Cup a few months ago, [JBHyperion](https://osu.ppy.sh/u/4879508) takes us all the way to a different meta in the ranked section, with the top difficulty of his Arcadia mapset sporting an unconventional Circle Size and gimmicky patterns. Moreover, players of all skill levels can enjoy the ride through this mapset with a difficulty tailored for them. I’m sure you'll be begging for an encore in your attempt to get the highest score on this cool beatmap!
+Having been featured in the osu!catch World Cup a few months ago, [JBHyperion](https://osu.ppy.sh/u/4879508) takes us all the way to a different meta in the ranked section, with the top difficulty of his Arcadia mapset sporting an unconventional Circle Size and gimmicky patterns. Moreover, players of all skill levels can enjoy the ride through this mapset with a difficulty tailored for them. I'm sure you'll be begging for an encore in your attempt to get the highest score on this cool beatmap!
 
 ## osu!mania
 

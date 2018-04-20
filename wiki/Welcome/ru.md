@@ -1,0 +1,51 @@
+# Добро пожаловать
+
+Добро пожаловать в osu! — бесплатную ритм-игру с четырьмя режимами: симулятор щелчков по кругам osu!standard, эмулятор барабана osu!taiko, ловля фруктов osu!catch и синтезатор ударов по клавишам osu!mania. Игра разработана Dean Herbert, известным также под ником peppy. 
+
+## Популярные темы
+
+- [Установка](/wiki/Installation)
+- [Регистрация](/wiki/Registration)
+- [Правила](/wiki/Rules)
+- [ЧАВО](/wiki/FAQ)
+- Режимы игры
+  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
+  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
+- [Мультиплеер](/wiki/Multi/#getting-started)
+- [Критерии ранкинга карт](/wiki/Ranking_Criteria)
+  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+
+## Статья месяца
+
+*Подробнее: [Маскоты (персонажи-талисманы)](/wiki/Mascots).*
+
+Встречайте pippi, Yuzu, Maria и Mocha — полюбившихся всем маскотов osu!standard, osu!catch, osu!mania и osu!taiko.
+
+## Маппинг
+
+_Подробнее: [Маппинг](/wiki/Beatmapping/#getting-started)._
+
+Маппинг — это процесс создания карты. Он включает в себя выбор музыки, настройку тайминга, расстановку игровых элементов и тестирование карты. Также создатель карты может добавить видео, [сториборд](/wiki/storyboarding/#getting-started) или свой [скин](/wiki/skinning/#getting-started). Всё это может быть сделано им как самостоятельно, так и совместно с другими пользователями.
+
+## Моддинг
+
+_Подробнее: [Моддинг](/wiki/Modding/#getting-started)._
+
+Моддинг — это просмотр и улучшение новой карты другими участниками (которых обычно называют моддерами). Моддинг играет важную роль в создании качественных карт, поскольку он помогает найти и исправить ошибки.
+
+## Скины
+
+*Подробнее: [Скины](/wiki/Skinning) и [Учебник по скинам](/wiki/Skinning/Tutorial).*
+
+Скины позволяют каждому изменить то, как osu! выглядит и ощущается. Можно внести как небольшие правки (например поменять курсор) так и полностью переделать интерфейс игры и оформление во всех режимах.
+
+## osu!wiki - нам нужна ваша помощь!
+
+Начиная с 2016-08-26 osu!wiki была перенесена в репозиторий на GitHub. После этого рабочий процесс сильно изменился. Все правки теперь вносятся через [репозиторий osu-wiki на GitHub](https://github.com/ppy/osu-wiki) и проверяются перед тем, как они будут  опубликованы на osu!wiki.
+
+Прочтите [гайд](/wiki/owcg) или [тему на форуме](/community/forums/topics/566978) если хотите поучаствовать в переводе и наполнении wiki.

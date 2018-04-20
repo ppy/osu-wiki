@@ -7,7 +7,7 @@ tags:
 
 ![osu! World Cup 2014 logo](logo.png)
 
-The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament hosted by the osu! team. It is the 4th installment of the osu! World Cup.
+The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
@@ -38,11 +38,11 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 | Position | Members |
 | -------- | ------- |
-| Management | ![][flag_DE][Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE][p3n](https://osu.ppy.sh/users/123703), ![][flag_ES][Deif](https://osu.ppy.sh/users/318565)  |
-| Map Selectors | ![][flag_NL][GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR][ToGlette](https://osu.ppy.sh/users/1076236)  |
-| Streamers | ![][flag_AU][peppy](https://osu.ppy.sh/users/2), ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR][shARPII](https://osu.ppy.sh/users/776257) |
-| Commentators | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116), ![][flag_FR][Mr Color](https://osu.ppy.s6078), ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
-| Statistician | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665)  |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
+| Map Selectors | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)  |
+| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentators | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_FR][Mr Color](https://osu.ppy.s6078), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)  |
 
 ## Links
 

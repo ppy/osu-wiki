@@ -33,7 +33,7 @@ As one of the most well known mappers in the community, [handsome](https://osu.p
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/yoiyoi-kokon.jpg)](https://osu.ppy.sh/beatmapsets/545737)
 
-[DreaM117er](https://osu.ppy.sh/users/1945090)'s YoiYoi Kokon brings us a mapset full of great difficulties. The highest difficulty made by the infamous [kiddly](https://osu.ppy.sh/users/74937) is packed with its own twists on popular patterns like sliderstreams, while the mapset host's own Expert difficulty manages to impress with its clean patterning and great flow. Add a stunning storyboard by [StarrodKirby86](https://osu.ppy.sh/users/410), combined with a beautiful skin by [Chaoslitz](https://osu.ppy.sh/users/3621552), and you have a mapset that’s not to be missed out this month!
+[DreaM117er](https://osu.ppy.sh/users/1945090)'s YoiYoi Kokon brings us a mapset full of great difficulties. The highest difficulty made by the infamous [kiddly](https://osu.ppy.sh/users/74937) is packed with its own twists on popular patterns like sliderstreams, while the mapset host's own Expert difficulty manages to impress with its clean patterning and great flow. Add a stunning storyboard by [StarrodKirby86](https://osu.ppy.sh/users/410), combined with a beautiful skin by [Chaoslitz](https://osu.ppy.sh/users/3621552), and you have a mapset that's not to be missed out this month!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/geurida.jpg)](https://osu.ppy.sh/beatmapsets/688183)
 
@@ -59,7 +59,7 @@ Winning the 5th Pending Cup, an annual mapping contest that attracts experienced
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/saifu-kamiasobi.jpg)](https://osu.ppy.sh/beatmapsets/627038)
 
-This month has proven that you don't need to be a known mapper or make a 6* map to be featured in, or even top, the monthly Spotlights, because that’s exactly what [ASPIRIN](https://osu.ppy.sh/users/6487115) has achieved !
+This month has proven that you don't need to be a known mapper or make a 6* map to be featured in, or even top, the monthly Spotlights, because that's exactly what [ASPIRIN](https://osu.ppy.sh/users/6487115) has achieved !
 His map of the song "Saifu 'Kamiasobi no Uta'" features varied yet consistent and accurate patterns, a storyboard and minor slider velocity changes. ASPIRIN successfully used the song's varied nature to create a fun experience and a nice addition to osu!taiko's ranked map section.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/powa-of-da-wildanes.jpg)](https://osu.ppy.sh/beatmapsets/693222)
@@ -95,25 +95,25 @@ With nice flow and unique vocal emphasis with slider velocity manipulation, [Har
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/just-hold-on.jpg)](https://osu.ppy.sh/beatmapsets/409440)
 
-[Blocko](https://osu.ppy.sh/users/4075092)’s set of void - Just Hold on (To All Fighters) tops this month’s Spotlights! With additional help from guest mappers [Expew](https://osu.ppy.sh/users/665612) and [Soul Evans](https://osu.ppy.sh/users/4490770), this mapset is truly a monumental effort, spanning 7 difficulties from Easy to Extra, with a long drain time of 4:20. Each difficulty exhibits their own unique style, allowing for exciting gameplay from the novice to the master.
+[Blocko](https://osu.ppy.sh/users/4075092)'s set of void - Just Hold on (To All Fighters) tops this month's Spotlights! With additional help from guest mappers [Expew](https://osu.ppy.sh/users/665612) and [Soul Evans](https://osu.ppy.sh/users/4490770), this mapset is truly a monumental effort, spanning 7 difficulties from Easy to Extra, with a long drain time of 4:20. Each difficulty exhibits their own unique style, allowing for exciting gameplay from the novice to the master.
 
 The advantage of such an exceptionally long chart is that it allows for greater variation in pattern diversity, leaving no room for boredom or over-repetitiveness. As the title of the song suggests, the key charm of the song are the complicated long notes that show up at every corner, especially in the Resolve difficulty, where the slider velocity changes are used to represent the intensity of the individual parts, adding another layer to the already exhilarating gameplay. Just hold on to the long notes. You'll be fine, I promise!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/ren-ai-cir.jpg)](https://osu.ppy.sh/beatmapsets/683691)
 
-[Garalulu](https://osu.ppy.sh/users/757783) strays from his usual 7K charts into the experimental but growing 4K long note heavy style in his latest mapset, Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion. Already presenting a reading challenge due to complex long note timings, this map goes the extra mile by presenting a new way of utilizing slider velocities with millisecond ratios to make notes almost disappear the moment they’re on screen. Players will have a tough time passing on their first few tries!
+[Garalulu](https://osu.ppy.sh/users/757783) strays from his usual 7K charts into the experimental but growing 4K long note heavy style in his latest mapset, Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion. Already presenting a reading challenge due to complex long note timings, this map goes the extra mile by presenting a new way of utilizing slider velocities with millisecond ratios to make notes almost disappear the moment they're on screen. Players will have a tough time passing on their first few tries!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/scars-of-fauna.jpg)](https://osu.ppy.sh/beatmapsets/644654)
 
 For his 14th ranked map, [Critical_Star](https://osu.ppy.sh/users/3793196) presents us with a song which is beautiful to listen and awesome to play - Scars of FAUNA by Nekomata Master. The way the map is made is rather unique, having a good pattern style spread such as chordstream, long notes, even some technical parts with jacks. We can also observe bursts in every intersection throughout the map, which fits extremely well with the rhythm of the music.
 
-With that being said, even though this map didn’t top the Spotlights this month, this map totally deserves more popularity for its unique pattern style, which is rarely seen in the ranked section.
+With that being said, even though this map didn't top the Spotlights this month, this map totally deserves more popularity for its unique pattern style, which is rarely seen in the ranked section.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/breeze.jpg)](https://osu.ppy.sh/beatmapsets/632221)
 
 Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/5314573) demonstrates his mapping prowess with the newly ranked map cYsmix - Breeze. This map is notable as it contains unusual elements such as long note walls and unique slider velocity changes, patterns that are not commonly found in the ranked section. 
 
-During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it’s actually a really cool map - just don’t get fooled by the star rating!.
+During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 
 --------
 
