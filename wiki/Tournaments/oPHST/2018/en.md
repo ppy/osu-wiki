@@ -197,7 +197,7 @@ Mappools will be revealed one week in advance of each stage.
 #### Round of 16
 
 - NoMod
-	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab]\](https://osu.ppy.sh/beatmaps/1036560)
+	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmaps/1036560)
 	- [Mili - Rosetta (P i k u) \[Rose\]](https://osu.ppy.sh/beatmaps/893353)
 	- [Eguchi Takahiro - Silver Temple (Sey) \[Rain\]](https://osu.ppy.sh/beatmaps/405444)
 	- [gmtn. (witch's slave) - furioso melodia (Urushi38) \[Another\]](https://osu.ppy.sh/beatmaps/432030)
