@@ -258,7 +258,7 @@ Mappools will be revealed one week in advance of each stage.
 
 	- **Seeds 1 to 4** will automatically advance to the Group Stage and will not play during this round.
 	- **Seeds 9 to 24** will face each other (9 vs 24, 10 vs 23, so on) in this round and the winners will go to the Group Stage.
-	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 25 vs 32, Seed 6 will face the winner of 26 vs 31, and so on), winners of these matches will advance to the Group Stage.
+	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 28 vs 29, Seed 6 will face the winner of 27 vs 30, and so on), winners of these matches will advance to the Group Stage.
 	
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
