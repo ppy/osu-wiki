@@ -157,27 +157,27 @@ Mappools will be revealed one week in advance of each stage.
 #### Round of 32
 
 - NoMod
-	- [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Nathan) [Nathan's Extra]](https://osu.ppy.sh/beatmaps/1418503)
-	- [jippusu - Mushikui Saikede Rhythm (Skystar) [Skystar]](https://osu.ppy.sh/beatmaps/239104)
-	- [BiBi - Fuyu ga Kureta Yokan (Sakaue Nachi) [Expert]](https://osu.ppy.sh/beatmaps/599487)
-	- [Sota Fujimori - Move That Body -Extended Mix- (RLC) [RLC's Extra]](https://osu.ppy.sh/beatmaps/542336)
-	- [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) [Collab]](https://osu.ppy.sh/beatmap/951600)
-	- [Kagamine Rin - Black Rebel (val0108) [0108 Rebel]](https://osu.ppy.sh/beatmaps/109301)
+	- [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Nathan) \[Nathan's Extra\]](https://osu.ppy.sh/beatmaps/1418503)
+	- [jippusu - Mushikui Saikede Rhythm (Skystar) \[Skystar\]](https://osu.ppy.sh/beatmaps/239104)
+	- [BiBi - Fuyu ga Kureta Yokan (Sakaue Nachi) \[Expert\]](https://osu.ppy.sh/beatmaps/599487)
+	- [Sota Fujimori - Move That Body -Extended Mix- (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmaps/542336)
+	- [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmap/951600)
+	- [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmaps/109301)
 - Hidden
-	- [ZAQ - Serendipity (Xexxar) [Pure Illusion]](https://osu.ppy.sh/beatmaps/1121378)
-	- [Nanamori-chu * Goraku-bu - My Pace de Ikimashou (bakabaka) [Yuri]](https://osu.ppy.sh/beatmaps/118226)
+	- [ZAQ - Serendipity (Xexxar) \[Pure Illusion\]](https://osu.ppy.sh/beatmaps/1121378)
+	- [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
 - Hard Rock
-	- [Qrispy Joybox feat.mao - Good-bye Tears (Wreath) [Master]](https://osu.ppy.sh/beatmaps/161653)
-	- [DJ Fresh - Gold Dust (galvenize) [Insane]](https://osu.ppy.sh/beatmaps/93842)
+	- [Qrispy Joybox feat.mao - Good-bye Tears (Wreath) \[Master\]](https://osu.ppy.sh/beatmaps/161653)
+	- [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
 - Double Time
-	- [StylipS - Choose me Darling (TV Size) (P A N) [Insane]](https://osu.ppy.sh/beatmaps/231018)
-	- [Hanatan - Torinoko City (Frostmourne) [Insane]](https://osu.ppy.sh/beatmaps/558277)
+	- [StylipS - Choose me Darling (TV Size) (P A N) \[Insane\]](https://osu.ppy.sh/beatmaps/231018)
+	- [Hanatan - Torinoko City (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmaps/558277)
 - FreeMod
-	- [Nishino Kana - Sweet Dreams (11t dnb mix) (captin1) [Insane]](https://osu.ppy.sh/beatmaps/966207)
-	- [FELT - a wonderful moon (Naitoshi) [Lunatic]](https://osu.ppy.sh/beatmaps/454385)
-	- [Hiroyuki Sawano - BLOWIN' (ktgster) [Challenge]](https://osu.ppy.sh/beatmaps/1184609)
+	- [Nishino Kana - Sweet Dreams (11t dnb mix) (captin1) \[Insane\]](https://osu.ppy.sh/beatmaps/966207)
+	- [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmaps/454385)
+	- [Hiroyuki Sawano - BLOWIN' (ktgster) \[Challenge\]](https://osu.ppy.sh/beatmaps/1184609)
 - Tiebreaker
-	- [paraoka feat. haru\*nya - Manimani (Yales) [Yamazakura]](https://osu.ppy.sh/beatmaps/1510461)
+	- [paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmaps/1510461)
 
 #### Qualifiers
 
@@ -197,26 +197,26 @@ Mappools will be revealed one week in advance of each stage.
 #### Round of 16
 
 - NoMod
-	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) [Rain Collab]](https://osu.ppy.sh/beatmaps/1036560)
-	- [Mili - Rosetta (P i k u) [Rose]](https://osu.ppy.sh/beatmaps/893353)
-	- [Eguchi Takahiro - Silver Temple (Sey) [Rain]](https://osu.ppy.sh/beatmaps/405444)
-	- [gmtn. (witch's slave) - furioso melodia (Urushi38) [Another]](https://osu.ppy.sh/beatmaps/432030)
-	- [Renard - Da Nu Nuttah (GamerX4life) [Xtreme]](https://osu.ppy.sh/beatmaps/185784)
-	- [MARiA - Buriki no Dance (eXceed) [AriExtra]](https://osu.ppy.sh/beatmaps/478148)
+	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab]\](https://osu.ppy.sh/beatmaps/1036560)
+	- [Mili - Rosetta (P i k u) \[Rose\]](https://osu.ppy.sh/beatmaps/893353)
+	- [Eguchi Takahiro - Silver Temple (Sey) \[Rain\]](https://osu.ppy.sh/beatmaps/405444)
+	- [gmtn. (witch's slave) - furioso melodia (Urushi38) \[Another\]](https://osu.ppy.sh/beatmaps/432030)
+	- [Renard - Da Nu Nuttah (GamerX4life) \[Xtreme\]](https://osu.ppy.sh/beatmaps/185784)
+	- [MARiA - Buriki no Dance (eXceed) \[AriExtra\]](https://osu.ppy.sh/beatmaps/478148)
 - Hidden
-	- [Kaneko Chiharu - Lachryma<Re:Queen'M> (Hey lululu) [krt's EXHAUST]](https://osu.ppy.sh/beatmaps/1458350)
-	- [Hylian Lemon - Foresight Is for Losers (ZiRoX) [Collab Rain]](https://osu.ppy.sh/beatmaps/757539)
-	- [Shiokara-zu - Shiokara-Bushi (ZiRoX) [Rainmaker]](https://osu.ppy.sh/beatmaps/738947)
+	- [Kaneko Chiharu - Lachryma\<Re:Queen'M\> (Hey lululu) \[krt's EXHAUST\]](https://osu.ppy.sh/beatmaps/1458350)
+	- [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmaps/757539)
+	- [Shiokara-zu - Shiokara-Bushi (ZiRoX) \[Rainmaker\]](https://osu.ppy.sh/beatmaps/738947)
 - Hard Rock
-	- [Tomatsu Haruka - Yume Sekai (Ascendance) [Fiance's Dream World]](https://osu.ppy.sh/beatmaps/1526886)
-	- [Kugimiya Rie & Kitamura Eri - Holy Night (Kurokami) [Platter]](https://osu.ppy.sh/beatmaps/530224)
-	- [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Dief) [Salad]](https://osu.ppy.sh/beatmaps/806344)
+	- [Tomatsu Haruka - Yume Sekai (Ascendance) \[Fiance's Dream World\]](https://osu.ppy.sh/beatmaps/1526886)
+	- [Kugimiya Rie & Kitamura Eri - Holy Night (Kurokami) \[Platter\]](https://osu.ppy.sh/beatmaps/530224)
+	- [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Dief) \[Salad\]](https://osu.ppy.sh/beatmaps/806344)
 - Double Time
-	- [Goose House - Sedan Girl (mingmichael) [Platter]](https://osu.ppy.sh/beatmaps/682672)
-	- [Agematsu Noriyasu - the MOON is a harsh mistress (Kurokami) [Platter]](https://osu.ppy.sh/beatmaps/337930)
-	- [ClariS - Colorful -movie MIX- (Xinely) [m1ng's Platter]](https://osu.ppy.sh/beatmaps/386687)
+	- [Goose House - Sedan Girl (mingmichael) \[Platter\]](https://osu.ppy.sh/beatmaps/682672)
+	- [Agematsu Noriyasu - the MOON is a harsh mistress (Kurokami) \[Platter\]](https://osu.ppy.sh/beatmaps/337930)
+	- [ClariS - Colorful -movie MIX- (Xinely) \[m1ng's Platter\]](https://osu.ppy.sh/beatmaps/386687)
 - Tiebreaker
-	- [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) [Ascendance's Reunion]](https://osu.ppy.sh/beatmaps/1161865)
+	- [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmaps/1161865)
 
 ------------------------
 
