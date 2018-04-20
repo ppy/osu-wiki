@@ -52,7 +52,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 *See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning).*
 
-1.  Go to the [skinning subfourms](/community/forums/15) and find a skin you like.
+1.  Go to the [skinning subforums](/community/forums/15) and find a skin you like.
 2.  Once you find a skin, download it.
 3.  Depending on how the skinner has packaged their skin, you may need to do different things.
     -   If the skin is using `.osk`:
