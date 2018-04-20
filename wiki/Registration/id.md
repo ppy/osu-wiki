@@ -41,11 +41,11 @@ Setelah anda memasukkan nama pengguna dan kata sandi anda dengan benar, anda aka
 Berikutnya apa?
 ------------
 
-Anda siap memulai petualangan ritme anda, lanjutkan ke halaman [selamat datang](/wiki/Welcome/) dan mulai bermain! Jangan lupa baca [peraturan yang berlaku](/wiki/Rules/) dengan sangat hati-hati!
+Anda siap memulai petualangan ritme anda, lanjutkan ke halaman ![selamat datang](/wiki/Welcome/) dan mulai bermain! Jangan lupa baca [peraturan yang berlaku](/wiki/Rules/) dengan sangat hati-hati!
 
 Jika anda membutuhkan bantuan dalam game, ajukan pertanyaan anda ke kanal `#help` di IRC atau poskan masalah anda ke forum.
 
-Untuk bergabung ke kanal `#help`, tekan `F8` dan ketik `/join #help`. Anda juga dapat mengklik [!Tombolbukakanal](Channelopenbutton.png) tombol kuning di sebelah kanan kanal yang terbuka, gulir ke bawah dan cari #help, setelah itu klik untuk bergabung ke dalam kanal.
+Untuk bergabung ke kanal `#help`, tekan `F8` dan ketik `/join #help`. Anda juga dapat mengklik ![Tombolbukakanal](Channelopenbutton.png) tombol kuning di sebelah kanan kanal yang terbuka, gulir ke bawah dan cari #help, setelah itu klik untuk bergabung ke dalam kanal.
 
 Jika anda ragu, selalu ingat bahwa:
 >rhythm is just a click away!
