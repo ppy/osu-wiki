@@ -161,7 +161,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [jippusu - Mushikui Saikede Rhythm (Skystar) \[Skystar\]](https://osu.ppy.sh/beatmaps/239104)
 	- [BiBi - Fuyu ga Kureta Yokan (Sakaue Nachi) \[Expert\]](https://osu.ppy.sh/beatmaps/599487)
 	- [Sota Fujimori - Move That Body -Extended Mix- (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmaps/542336)
-	- [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmap/951600)
+	- [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmaps/951600)
 	- [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmaps/109301)
 - Hidden
 	- [ZAQ - Serendipity (Xexxar) \[Pure Illusion\]](https://osu.ppy.sh/beatmaps/1121378)
