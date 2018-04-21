@@ -81,6 +81,9 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+- Challonge Links
+	- [osu!standard](https://challonge.com/oPHST2018_std)
+	- [osu!catch](https://challonge.com/oPHST2018_ctb)
 
 ------------------------
 
