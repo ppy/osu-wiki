@@ -59,12 +59,12 @@ $ sudo dnf groupinstall "Development Tools"
 
 3.  Add the Wine repository. If you are running Fedora 24 or 25, change the `26` in the link to your Fedora version.
 ```
-$ dnf config-manager --add-repo 'https://dl.winehq.org/wine-builds/fedora/26/winehq.repo'
+$ sudo dnf config-manager --add-repo 'https://dl.winehq.org/wine-builds/fedora/26/winehq.repo'
 ```
 
 4.  Install wine.
 ```
-$ dnf install winehq-stable
+$ sudo dnf install winehq-stable
 ```
 
 5.  Install winetricks. If prompted to install `wine-mono`, install it.
