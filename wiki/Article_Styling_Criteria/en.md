@@ -21,6 +21,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `es.md` | Spanish | Español |
 | `fr.md` | French | Français |
 | `it.md` | Italian | Italiano |
+| `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
 | `pl.md` | Polish | Polski |
@@ -98,15 +99,11 @@ Folder names should not use characters that require percent encoding. Those char
 
 ### Article file names
 
-The name of an article file can be found in the `File Name` column of [locales](#locales).
-
-The location of a translation is to be placed in the appropriate English-named folder.
+The name of an article file can be found in the `File Name` column of [locales](#locales). The location of a translation is to be placed in the appropriate English-named folder.
 
 ### Index pages
 
-All folders must contain a page of some kind, even if they are index pages that link to their subfolders.
-
-Index pages must link to their own subfolders and could contain descriptions of what each link links to.
+All folders must contain a page of some kind, even if they are index pages that link to their subfolders. Index pages must link to their own subfolders and could contain descriptions of what each link links to.
 
 ## Markdown
 
@@ -114,9 +111,7 @@ These rules are to be followed for all articles.
 
 ### GFM
 
-Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki.
-
-GFM has a small amount of markup that **anyone can learn in about 3 minutes**! However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
+Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki. GFM has a small amount of markup that **anyone can learn in about 3 minutes**! However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
 #### HTML
 
@@ -146,6 +141,8 @@ The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507).
 
 The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
 
+The title of an article must never be escaped; otherwise, the backslashes will show up on the website.
+
 ### Emphasizing
 
 *Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
@@ -162,9 +159,7 @@ Do:
 
 #### Bold
 
-Use bold when you need to caution or note something's importance.
-
-When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word.
+Use bold when you need to caution or note something's importance. When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word.
 
 #### Italics
 
@@ -172,17 +167,19 @@ Use italics only when naming a video game or the name of a work.
 
 ---
 
-You must use italics when writing a note. For example:
+You must use italics when writing a note, and for main page and see also links. For example:
 
 ```
+*Main page: [Welcome](/wiki/Welcome).*
+
+*See also: [Guides](/wiki/Guides).*
+
 *Note: You will need a decent internet connection to connect to Bancho and submit scores.*
 ```
 
 ### Headers
 
-Please limit to a header level of 5 and never use headers to style or format text.
-
-If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
+Please limit to a header level of 5 and never use headers to style or format text. If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
 
 Optionally, but preferably, add an extra line before and after the headers (this applies for both underline and hash styles). Doing so will help make the headers stand out a bit more when editing.
 
@@ -216,9 +213,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 ### Lists
 
-There are two kinds of lists: bulleted and numbered.
-
-The spacing for both types of bullets is very important! Please limit to 4 indentations/sub-bullets.
+There are two kinds of lists: bulleted and numbered. The spacing for both types of bullets is very important! Please limit to 4 indentations/sub-bullets.
 
 #### Bulleted
 
@@ -240,6 +235,7 @@ Use code for the following scenarios:
 
 - keyboard keys
   - When doing this, use capital letters for single characters and title case for modifiers.
+  - Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes).
 - button or menu text
   - When copying the text from a menu or button, copy the letter casing as is.
 - folder names
@@ -257,9 +253,7 @@ Use code for the following scenarios:
 
 ### Code blocks
 
-It is preferred to use the triple grave marks instead of the four prefixed spaces.
-
-Code blocks do not use syntax highlighting in the osu! wiki.
+It is preferred to use the triple grave marks instead of the four prefixed spaces. In the osu! wiki, code blocks do not use syntax highlighting.
 
 ### Links
 
@@ -270,6 +264,18 @@ Keep in mind that there are good times to prefer one over the other. For example
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access. However, for flags, do the opposite, put them at the bottom of the article.
 
 Never use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
+
+---
+
+Never use raw links for linking or have the link text be the URL. For example:
+
+```
+Do not: https://osu.ppy.sh/home
+Do not: <https://osu.ppy.sh/home>
+Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
+
+Do: [osu! on the web](https://osu.ppy.sh/home)
+```
 
 #### Internal
 
@@ -293,6 +299,8 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 ##### User profiles
 
+All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent. However, if it is impossible or is hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
+
 When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
@@ -309,7 +317,7 @@ Do (preferred):
 `[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 ```
 
-Whenever possible, use the current user's name instead of the user's previous names.
+Whenever possible, use the current user's name rather than their previous name(s).
 
 ---
 
@@ -344,18 +352,6 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 Prefer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
 
 External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
-
----
-
-Never use raw links for linking or have the link text be the URL. For example:
-
-```
-Do not: https://osu.ppy.sh/home
-Do not: <https://osu.ppy.sh/home>
-Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
-
-Do: [osu! on the web](https://osu.ppy.sh/home)
-```
 
 ### Images
 
@@ -394,9 +390,7 @@ Some tools for beautifying tables are:
 
 ### Horizontal bar
 
-Use horizontal bars sparingly.
-
-A few uses of the horizontal bar may include (but is not limited to):
+Use horizontal bars sparingly. A few uses of the horizontal bar may include (but is not limited to):
 
 - separating images from text
 - marking the end of a "section" within the same section
@@ -422,9 +416,7 @@ For example use:
 
 ### osu!
 
-The name of the game, osu!, is **never capitalised nor italicised**.
-
-The osu! official branding are to not use any spaces. Examples include:
+The name of the game, osu!, is **never capitalised nor italicised**. The osu! official branding are to not use any spaces. Examples include:
 
 - `osu!academy`
 - `osu!api`
@@ -515,6 +507,8 @@ These words are spelt as follows (note the spacing):
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
 - Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
+- Use `sign in` instead of `log in`.
+- Use `sign out` instead of `log out`.
 
 ### Abbreviations, acronyms, and initialisms
 
