@@ -221,6 +221,18 @@ Mappools will be revealed one week in advance of each stage.
 	- [ClariS - Colorful -movie MIX- (Xinely) \[m1ng's Platter\]](https://osu.ppy.sh/beatmaps/386687)
 - Tiebreaker
 	- [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmaps/1161865)
+	
+### osu!mania 4K
+
+#### Qualifiers
+
+[**Download the mappack here! (13.3 MB)**](https://drive.google.com/open?id=1swGRoTuTe8KoFuOqRfpR0q3OZEwdi0RQ)
+
+- FreeMod
+	- [FLOOR BABA - Whole Pocket (Lenfried-) \[8 ball\]](https://osu.ppy.sh/beatmaps/1616314)
+	- [Space Candy - Crowded Bathroom Tiles (Lenfried-) \[Cold Shower\]](https://osu.ppy.sh/beatmaps/1616317)
+	- [Hiro \[Crackin' DJ\] - Sun Dance (Raveille) \[Fun Party\]](https://osu.ppy.sh/beatmaps/1616312)
+	- [Tipper - Bubble Control (Lenfried-) \[Surface Tension\]](https://osu.ppy.sh/beatmaps/1616322)
 
 ------------------------
 
