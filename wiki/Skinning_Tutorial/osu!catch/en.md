@@ -34,9 +34,39 @@ Some interface elements are used in osu!catch:
 
 ## Playfield design
 
+There are two things to take into account for when you design the playfield elements: the margins and the area of focus.
+
+### Margins
+
+Since in osu!, the playfield is always 4:3, it possible to place an image on the left and right sides of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
+
+---
+
+![](img/margin-4-3.jpg "The playfield in 4:3 ratio aspect (no margins)")
+
+In 4:3, there are no margins, thus there is really no where else to place an image anywhere without having to go inside the playfield.
+
+---
+
+![](img/margin-16-9.jpg "The margins in 16:9 ratio aspect")
+
+![](img/margin-16-10.jpg "The margins in 16:10 ratio aspect")
+
+![](img/margin-21-9.jpg "The margins in 21:9 ratio aspect")
+
+In 16:9 and 21:9, there should be enough room to place an image on either side, but 16:10 might not.
+
+### Area of focus
+
+![](img/focus-4-3.jpg "The area of focus in 4:3 ratio aspect")
+
 Don't make a huge, thick scorebar that covers most of the toppart of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big.
 
-Since in osu!, the playfield is always 4:3, it possible to place your an image on the left and right sides of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
+![](img/focus-16-9.jpg "The area of focus in 16:9 ratio aspect")
+
+![](img/focus-16-10.jpg "The area of focus in 16:10 ratio aspect")
+
+![](img/focus-21-9.jpg "The area of focus in 21:9 ratio aspect")
 
 ## Catcher
 
