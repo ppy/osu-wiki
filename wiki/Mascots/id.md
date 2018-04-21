@@ -26,7 +26,7 @@ Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir
 
 ![Maria](img/Maria.png "Maria")
 
-Maria adalah maskot osu!mania yang bergabung pada 4 Maret 2016. Rancangan Maria dirancang oleh Daru.
+Maria adalah maskot osu!mania yang bergabung pada 4 Maret 2016. Maria dirancang oleh Daru.
 
 ### Mocha
 
