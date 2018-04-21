@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Rejestracja
 
 ## Jak się zarejestrować?
