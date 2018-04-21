@@ -1,6 +1,6 @@
 # Tutorial
 
-*Main page: [Skinning](/wiki/Skinning).*
+*See also: [Skinning](/wiki/Skinning).*
 
 *This article is the tutorial for skinning. For frequently answered skinning questions, see [Skinning/FAQ](/wiki/Skinning/FAQ).*
 
