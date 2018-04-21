@@ -1,6 +1,6 @@
 # osu!catch
 
-*Main page: [Skinning](/wiki/Skinning).*
+*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
 ## Skinning elements
 
@@ -10,7 +10,7 @@
 
 There are four fruits and four fruit overlays. These fruits resemble the hitcircles and slider start and end in osu!catch. The fruits are tinted with the combo colour; however, unlike osu!standard (where each comboset uses the same combo colour) the individual fruits cycle through the combo colours (but slider trail, ticks, and end will use the same colour as its start fruit). Lastly, they appear in this order: pear, grapes, apple, orange, and repeat.
 
-Fruits and their overlays are the same size as a hitcircle, 128x128 with their origin point being the centre. Most skinners would make all of the fruits the same and it is common to use simple shapes.
+Fruits and their overlays are the same size as a hitcircle, 128x128 (SD size) with their origin point being the centre. Most skinners would make all of the fruits the same and it is common to use simple shapes.
 
 Fruit overlays do not get tinted but should not be used in place of the fruit itself! This is because the hyperdash outlines are rendered based on the fruit itself, not the fruit's overlay. To combat this, you would need to include a shape of some kind for osu! to render the hyperdash outlines properly.
 
@@ -54,13 +54,13 @@ In 4:3, there are no margins, thus there is really no where else to place an ima
 
 ![](img/margin-21-9.jpg "The margins in 21:9 ratio aspect")
 
-In 16:9 and 21:9, there should be enough room to place an image on either side, but 16:10 might not.
+In 16:9 and 21:9, there should be enough room to place an image inside the margins (in red) on either side, but 16:10 might not.
 
 ### Area of focus
 
-![](img/focus-4-3.jpg "The area of focus in 4:3 ratio aspect")
+Don't make a big scorebar that covers most of the top of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big. Most players are looking from the combo number and above to position the catcher, if their view is blocked, it may deter them from using your skin.
 
-Don't make a huge, thick scorebar that covers most of the toppart of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big.
+![](img/focus-4-3.jpg "The area of focus in 4:3 ratio aspect")
 
 ![](img/focus-16-9.jpg "The area of focus in 16:9 ratio aspect")
 
