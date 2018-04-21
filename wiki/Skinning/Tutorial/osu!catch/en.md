@@ -1,102 +1,75 @@
-# Skinning Tutorial (osu!catch)
+# osu!catch
 
-## Fruits
+*Main page: [Skinning](/wiki/Skinning).*
 
-**NOTE: if you choose to leave the fruit transparent, make the overlay transparent (this is because the hyperdash outline uses the outline of the fruit, not overlay)!**
+## Skinning elements
 
-There are four fruits that can be skinned separately.
-It is sugguested for these to not be coloured in because osu! will tint them with the combo colours.
+*See also: [Skinning/osu!catch](/wiki/Skinning/osu!catch).*
 
-![](fs/fruit-apple.png)
-_Default skin's apple_
+### Fruits
 
-![](fs/fruit-pear.png)
-_Default skin's pear_
+There are four fruits and four fruit overlays. These fruits resemble the hitcircles and slider start and end in osu!catch. The fruits are tinted with the combo colour; however, unlike osu!standard (where each comboset uses the same combo colour) the individual fruits cycle through the combo colours (but slider trail, ticks, and end will use the same colour as its start fruit). Lastly, they appear in this order: pear, grapes, apple, orange, and repeat.
 
-![](fs/fruit-grapes.png)
-_Default skin's grape_
+Fruits and their overlays are the same size as a hitcircle, 128x128 with their origin point being the centre. Most skinners would make all of the fruits the same and it is common to use simple shapes.
 
-![](fs/fruit-orange.png)
-_Default skin's orange_
+Fruit overlays do not get tinted but should not be used in place of the fruit itself! This is because the hyperdash outlines are rendered based on the fruit itself, not the fruit's overlay. To combat this, you would need to include a shape of some kind for osu! to render the hyperdash outlines properly.
 
-<!-- TODO image examples -->
+#### Juice streams
 
-### Fruit overlays
+Juice streams are the equivalent of the osu!standard sliders. A drop is bigger in comparision to a droplet, but **they both use the same element** (thus, droplets are downscaled to be smaller). They have a size of 128x128 with their origin point being the centre. Drops (and droplets) do have an overlay but it is transparent by default.
 
-On top of this (pun intended), here are the overlays.
-These could be coloured, but should have some transparency.
+#### Bananas
 
-![](fs/fruit-apple-overlay.png)
-_Default skin's apple overlay_
+Bananas are separate from the fruits, despite being a fruit, because they are specifically used for in place of osu!standard spinners. Bananas and its overlay has a size of 128x128 with its origin point being the centre. These will always be tinted in shades of yellow and orange.
 
-![](fs/fruit-pear-overlay.png)
-_Default skin's pear overlay_
+### Shared elements
 
-![](fs/fruit-grapes-overlay.png)
-_Default skin's grape overlay_
+Some interface elements are used in osu!catch:
 
-![](fs/fruit-orange-overlay.png)
-_Default skin's orange overlay_
+-  scorebar and all its files
+-  score numbers
+-  combo numbers
+-  inputoverlay-background and -key
+-  hit bursts from osu!standard for the ranking panel
 
-<!-- TODO image examples -->
+## Playfield design
 
-## Drop
+Don't make a huge, thick scorebar that covers most of the toppart of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big.
 
-This element is the drop (slidertick) and the droplet (slidertrail) image.
+Since in osu!, the playfield is always 4:3, it possible to place your an image on the left and right sides of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
 
-In addition to the fruits you can skin the droplets during sliders as well.
-Slidertrails (smaller droplets) cannot be skinned, they will be scaled.
+## Catcher
 
-![](fs/fruit-drop.png)
-_Default skin;s drop_
+The catcher is basically the cursor of osu!catch. There are three states: idle, kiai, and fail. Idle will be used during normal gameplay, kiai will be used in the kiai time, and fail will be used when you miss a note (which will override idle and kiai). When hyperdashing, these will leave a few after images behind that will expand.
 
-<!-- TODO image examples -->
+These have a minimum width of 302px and the first 16 horizontal lines from the top of them should be empty (the hitbox is 16 horizontal lines from the top of these images). Catchers normally are pictured holding some kind of plate on top of their heads. The fruits, when caught, will go through the catcher until their hitboxes are hit and stay there until the comboset is completed. If the plate is too thin, it will appear as if it is clipping through the plate. Thus, many skinners design their catchers in a way to make sure this doesn't happen (usually by making the plate a little taller).
 
-## Spinners
+## skin.ini commands
 
-This is the newest added skinable element in osu!catch.
-Named as fruit-bananas but it is actually for the spinners.
+*See also: [skin.ini](/wiki/skin.ini).*
 
-![](fs/fruit-bananas.png)
-_Default skin's bananas_
+osu!catch has three unique skin.ini commands:
 
-<!-- TODO image examples -->
+- `HyperDash` - defines the hyperdash colour of the catcher itself. This is used on the very first after image right after obtaining the hyperdash fruit. `255,0,0` (red) is used by default.
+- `HyperDashFruit` - defines the hyperdash border on the fruit itself. `HyperDash` colour is used if not defined.
+- `HyperDashAfterImage` - defines the tint colour of the after images from the catcher. `HyperDash` colour is used if not defined.
 
-## Comboburst
+Make sure the `HyperDash` colour stands out!
 
-osu!catch now has its own comboburst that ***only*** appear this game mode and did not affect the rest.
-You can even use different images than in the other modes.
+### Shared commands
 
-Use this **for skin versions 2.3 and up**.
+osu!catch shares these skin.ini commands with other modes:
 
-<!-- TODO image examples -->
-
-## Fruit-catcher
-
-The fruit catcher has three states:
-
-- idle (used when a fruit is caught or doing nothing)
-- fail (used when the player misses a fruit, overrides kiai if a fruit is missed during kiai time)
-- kiai (used during kiai time)
-
-[![](pr/fruit-catcher-idle.png)](fs/fruit-catcher-idle.png)
-_Default skin's catcher idle_
-
-[![](pr/fruit-catcher-fail.png)](fs/fruit-catcher-fail.png)
-_Default skin's catcher fail_
-
-[![](pr/fruit-catcher-kiai.png)](fs/fruit-catcher-kiai.png)
-_Default skin's catcher kiai_
-
-<!-- TODO image examples -->
-
-### Fruit-ryuuta
-
-Ryuuta was the previous [mascot](/wiki/Mascots/en.md) for osu!catch, now replaced by Yuzu.
-
-Use this **for skin versions 2.2 and lower**.
-
-[![](pr/fruit-ryuuta.png)](fs/fruit-ryuuta.png)
-_Default skin (v1.0)'s Ryuuta_
-
-<!-- TODO image examples -->
+- `Combo1`
+- `Combo2`
+- `Combo3`
+- `Combo4`
+- `Combo5`
+- `Combo6`
+- `Combo7`
+- `Combo8`
+- `InputOverlayText`
+- `ScorePrefix`
+- `ScoreOverlap`
+- `ComboPrefix`
+- `ComboOverlap`
