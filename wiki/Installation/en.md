@@ -1,12 +1,13 @@
 # Installation
 
-<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
+<!-- *See also: [Installation/MacOS](/wiki/Installation/MacOS) and [Installation/Linux](/wiki/Installation/Linux).* -->
+*See also: [Installation/Linux](/wiki/Installation/Linux).*
 
 This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
--   .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+-   .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130)).
 -   A decent graphics card.
 
 ## Installing osu!
