@@ -51,11 +51,11 @@
 
 ## Registrations
 **Register your team here!** Remember, all team members must join the discord for the team to be eligible to play.
-- Team Registration
+- [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform)
 
 
 **Don't have a team?** You're in the right place! Here, other teams will be able to scout players out, and you could possibly be picked up.
-- Free Agent Registration
+- [Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSe_QRQlRucnud49Hev5ij18c1f_LM3MNMqOGPzqyWl-jnguew/viewform)
 
 ## Staff 
 | Role | Member(s) |
