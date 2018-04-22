@@ -12,10 +12,10 @@
 - Any further questions must be forwarded to **[BearZyo](https://osu.ppy.sh/u/6116759) or [Div](https://osu.ppy.sh/u/3751116)**
 
 ## Links
-- Discord
+- [Discord](https://discord.gg/29RmHDQ)
 - [Stream](https://www.twitch.tv/ztournament)
-- Spreadsheet
-- Ruleset
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
+- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
 - MapPool
 - Forum Post
 
