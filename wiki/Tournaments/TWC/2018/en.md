@@ -54,25 +54,37 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 21. April 2018
+### Saturday, 28. April 2018
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Argentina      | ![][flag_AR] | ![][flag_HK] | Hong Kong     | **15:00 UTC** | 12:00 UTC -3 | 23:00 UTC +8 |
-| Poland         | ![][flag_PL] | ![][flag_FR] | France        | **16:00 UTC** | 18:00 UTC +2 | 18:00 UTC +2 |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil        | **17:00 UTC** | 18:00 UTC +1 | 14:00 UTC -3 |
-| Spain          | ![][flag_ES] | ![][flag_US] | United States | **18:00 UTC** | 20:00 UTC +2 | 11:00 UTC -7 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Australia     | ![][flag_AU] | ![][flag_CL] | Chile       | **13:30 UTC** | 23:30 UTC +10 | 10:30 UTC -3 | ² |
+| Brazil        | ![][flag_BR] | ![][flag_ID] | Indonesia   | **15:00 UTC** | 12:00 UTC -3  | 22:00 UTC +7 | ² |
+| Poland        | ![][flag_PL] | ![][flag_ES] | Spain       | **16:30 UTC** | 18:30 UTC +2  | 18:30 UTC +2 | ² |
 
-### Sunday, 22. April 2018
+### Sunday, 29. April 2018
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Australia   | ![][flag_AU] | ![][flag_MY] | Malaysia  | **12:00 UTC**  | 22:00 UTC +10 | 20:00 UTC +8 |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | **13:00 UTC**  | 22:00 UTC +9  | 20:00 UTC +7 |
-| Japan       | ![][flag_JP] | ![][flag_CL] | Chile     | **14:00 UTC**  | 23:00 UTC +9  | 11:00 UTC -3 |
-| Taiwan      | ![][flag_TW] | ![][flag_CA] | Canada    | **15:00 UTC**  | 23:00 UTC +8  | 11:00 UTC -4 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Hong Kong     | ![][flag_HK] | ![][flag_CA] | Canada      | **2:00 UTC**   | 10:00 UTC +8       | 22:00 (Sat) UTC -4 | ² |
+| United States | ![][flag_US] | ![][flag_TW] | Taiwan      | **3:30 UTC**   | 20:30 (Sat) UTC -7 | 11:30 UTC +8       | ¹ |
+| Japan         | ![][flag_JP] | ![][flag_KR] | South Korea | **5:00 UTC**   | 14:00 UTC +9       | 14:00 UTC +9       | ¹ |
+| Hong Kong     | ![][flag_HK] | ![][flag_PL] | Poland      | **10:00 UTC**  | 18:00 UTC +8       | 12:00 UTC +2       | ³ |
+| Hong Kong     | ![][flag_HK] | ![][flag_ES] | Spain       | **11:30 UTC**  | 19:30 UTC +8       | 13:30 UTC +2       | ³ |
+| Brazil        | ![][flag_BR] | ![][flag_AU] | Australia   | **13:00 UTC**  | 10:00 UTC -3       | 23:00 UTC +10      | ³ |
+| Indonesia     | ![][flag_ID] | ![][flag_AU] | Australia   | **13:00 UTC**  | 20:00 UTC +7       | 23:00 UTC +10      | ³ |
+| Indonesia     | ![][flag_ID] | ![][flag_CL] | Chile       | **14:30 UTC**  | 21:30 UTC +7       | 11:30 UTC -3       | ³ |
+| Canada        | ![][flag_CA] | ![][flag_ES] | Spain       | **18:00 UTC**  | 14:00 UTC -4       | 20:00 UTC +2       | ³ |
+| Canada        | ![][flag_CA] | ![][flag_PL] | Poland      | **18:00 UTC**  | 14:00 UTC -4       | 20:00 UTC +2       | ³ |
+| Brazil        | ![][flag_BR] | ![][flag_CL] | Chile       | **19:30 UTC**  | 16:30 UTC -3       | 16:30 UTC -3       | ³ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 -----------------------
 
@@ -113,7 +125,34 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Mappool
 
+### Semifinals
+
+**[Download the mappack here! (96 MB)](http://www.mediafire.com/file/18k43lb741naww5/SF+Pool.zip)**
+
+- NoMod
+  - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](http://osu.ppy.sh/beatmaps/1416106) 
+  - [Qoiet - Out Now on Crowsnest (tasuke912) \[Expert\]](http://osu.ppy.sh/beatmaps/1411524) 
+  - [UNDEAD CORPORATION - Revived (Ekoro) \[Sorcery Light\]](http://osu.ppy.sh/beatmaps/818305) 
+  - [Kaitendaentai - Soutou no Rei (yea) \[Reassurance\]](http://osu.ppy.sh/beatmaps/1580076) 
+  - [Mass Kaneko - tang pong (Gezoda) \[Akumu\]](http://osu.ppy.sh/beatmaps/1168304) 
+- Hidden
+  - [Umeboshi Chazuke - Bison Charge (Midnaait) \[Bit Crusher\]](http://osu.ppy.sh/beatmaps/1559744) 
+  - [Hitori Tori - perthed again (yambabom remix) (tsubaki131) \[miKuru'oni\]](http://osu.ppy.sh/beatmaps/701069)
+- HardRock
+  - [Nightmare - Epileptic Crisis (Xay) \[Xay's Taiko\]](http://osu.ppy.sh/beatmaps/1174827) 
+  - [Whispered - Strike! (frukoyurdakul) \[K.O.\]](http://osu.ppy.sh/beatmaps/1507092) 
+- DoubleTime
+  - [Ellie Goulding - Burn (Nashmun) \[Oni\]](http://osu.ppy.sh/beatmaps/351271) 
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[714's Taiko Oni\]](http://osu.ppy.sh/beatmaps/217280) 
+- FreeMod
+  - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](http://osu.ppy.sh/beatmaps/919457) 
+  - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](http://osu.ppy.sh/beatmaps/1502771) 
+- Tiebreaker
+  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Imperfect\]](http://osu.ppy.sh/beatmaps/1256958) 
+
 ### Quarterfinals
+
+**[Download the mappack here! (74 MB)](http://www.mediafire.com/file/m1klo1gsnho6kqw/QFs%20TWC2018.zip)**
 
 - NoMod
   - [Kaneko Chiharu - WHITEOUT (aabc271) \[Inner Oni+\]](http://osu.ppy.sh/beatmaps/1507133) 
@@ -189,6 +228,22 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2018-04-21 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Argentina ![][flag_AR] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41838646) |
+| Poland ![][flag_PL] | 5 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41840557) |
+| United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41842794) |
+| Spain ![][flag_ES] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41844527) |
+
+| Sunday, 2018-04-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Australia ![][flag_AU] | 5 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/41868618) |
+| South Korea ![][flag_KR] | 5 | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41870252) |
+| Japan ![][flag_JP] | 5 | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/41872072) |
+| Taiwan ![][flag_TW] | 5 | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41873900) |
 
 ### Round of 16
 
