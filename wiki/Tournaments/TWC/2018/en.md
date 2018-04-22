@@ -130,25 +130,25 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 **[Download the mappack here! (96 MB)](http://www.mediafire.com/file/18k43lb741naww5/SF+Pool.zip)**
 
 - NoMod
-  - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](http://osu.ppy.sh/b/1416106&m=1) 
-  - [Qoiet - Out Now on Crowsnest (tasuke912) \[Expert\]](http://osu.ppy.sh/b/1411524&m=1) 
-  - [UNDEAD CORPORATION - Revived (Ekoro) \[Sorcery Light\]](http://osu.ppy.sh/b/818305&m=1) 
-  - [Kaitendaentai - Soutou no Rei (yea) \[Reassurance\]](http://osu.ppy.sh/b/1580076&m=1) 
-  - [Mass Kaneko - tang pong (Gezoda) \[Akumu\]](http://osu.ppy.sh/b/1168304&m=1) 
+  - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](http://osu.ppy.sh/beatmaps/1416106) 
+  - [Qoiet - Out Now on Crowsnest (tasuke912) \[Expert\]](http://osu.ppy.sh/beatmaps/1411524) 
+  - [UNDEAD CORPORATION - Revived (Ekoro) \[Sorcery Light\]](http://osu.ppy.sh/beatmaps/818305) 
+  - [Kaitendaentai - Soutou no Rei (yea) \[Reassurance\]](http://osu.ppy.sh/beatmaps/1580076) 
+  - [Mass Kaneko - tang pong (Gezoda) \[Akumu\]](http://osu.ppy.sh/beatmaps/1168304) 
 - Hidden
-  - [Umeboshi Chazuke - Bison Charge (Midnaait) \[Bit Crusher\]](http://osu.ppy.sh/b/1559744&m=1) 
-  - [Hitori Tori - perthed again (yambabom remix) (tsubaki131) \[miKuru'oni\]](http://osu.ppy.sh/b/701069&m=1)
+  - [Umeboshi Chazuke - Bison Charge (Midnaait) \[Bit Crusher\]](http://osu.ppy.sh/beatmaps/1559744) 
+  - [Hitori Tori - perthed again (yambabom remix) (tsubaki131) \[miKuru'oni\]](http://osu.ppy.sh/beatmaps/701069)
 - HardRock
-  - [Nightmare - Epileptic Crisis (Xay) \[Xay's Taiko\]](http://osu.ppy.sh/b/1174827&m=1) 
-  - [Whispered - Strike! (frukoyurdakul) \[K.O.\]](http://osu.ppy.sh/b/1507092&m=1) 
+  - [Nightmare - Epileptic Crisis (Xay) \[Xay's Taiko\]](http://osu.ppy.sh/beatmaps/1174827) 
+  - [Whispered - Strike! (frukoyurdakul) \[K.O.\]](http://osu.ppy.sh/beatmaps/1507092) 
 - DoubleTime
-  - [Ellie Goulding - Burn (Nashmun) \[Oni\]](http://osu.ppy.sh/b/351271&m=1) 
-  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[714's Taiko Oni\]](http://osu.ppy.sh/b/217280&m=1) 
+  - [Ellie Goulding - Burn (Nashmun) \[Oni\]](http://osu.ppy.sh/beatmaps/351271) 
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[714's Taiko Oni\]](http://osu.ppy.sh/beatmaps/217280) 
 - FreeMod
-  - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](http://osu.ppy.sh/b/919457&m=1) 
-  - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](http://osu.ppy.sh/b/1502771&m=1) 
+  - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](http://osu.ppy.sh/beatmaps/919457) 
+  - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](http://osu.ppy.sh/beatmaps/1502771) 
 - Tiebreaker
-  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Imperfect\]](http://osu.ppy.sh/b/1256958&m=1) 
+  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Imperfect\]](http://osu.ppy.sh/beatmaps/1256958) 
 
 ### Quarterfinals
 
