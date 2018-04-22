@@ -71,8 +71,8 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Hong Kong     | ![][flag_HK] | ![][flag_CA] | Canada      | **2:00 UTC**   | 10:00 UTC +8       | 22:00 (Sat) UTC -4 | ² |
 | United States | ![][flag_US] | ![][flag_TW] | Taiwan      | **3:30 UTC**   | 20:30 (Sat) UTC -7 | 11:30 UTC +8       | ¹ |
 | Japan         | ![][flag_JP] | ![][flag_KR] | South Korea | **5:00 UTC**   | 14:00 UTC +9       | 14:00 UTC +9       | ¹ |
+| Hong Kong     | ![][flag_HK] | ![][flag_PL] | Poland      | **10:00 UTC**  | 18:00 UTC +8       | 11:00 UTC +2       | ³ |
 | Hong Kong     | ![][flag_HK] | ![][flag_ES] | Spain       | **11:30 UTC**  | 19:30 UTC +8       | 13:30 UTC +2       | ³ |
-| Hong Kong     | ![][flag_HK] | ![][flag_PL] | Poland      | **11:30 UTC**  | 19:30 UTC +8       | 13:30 UTC +2       | ³ |
 | Brazil        | ![][flag_BR] | ![][flag_AU] | Australia   | **13:00 UTC**  | 10:00 UTC -3       | 23:00 UTC +10      | ³ |
 | Indonesia     | ![][flag_ID] | ![][flag_AU] | Australia   | **13:00 UTC**  | 20:00 UTC +7       | 23:00 UTC +10      | ³ |
 | Indonesia     | ![][flag_ID] | ![][flag_CL] | Chile       | **14:30 UTC**  | 21:30 UTC +7       | 11:30 UTC -3       | ³ |
@@ -233,17 +233,17 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 | Saturday, 2018-04-21 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Argentina ![][flag_AR] | 0 | 5 | ![][flag_HK] Hong Kong | [#1]() |
-| Poland ![][flag_PL] | 5 | 2 | ![][flag_FR] France | [#1]() |
-| United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_BR] Brazil | [#1]() |
-| Spain ![][flag_ES] | 1 | 5 | ![][flag_US] United States | [#1]() |
+| Argentina ![][flag_AR] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41838646) |
+| Poland ![][flag_PL] | 5 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41840557) |
+| United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41842794) |
+| Spain ![][flag_ES] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41844527) |
 
 | Sunday, 2018-04-22 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Australia ![][flag_AU] | 5 | 1 | ![][flag_MY] Malaysia | [#1]() |
-| South Korea ![][flag_KR] | 5 | 2 | ![][flag_ID] Indonesia | [#1]() |
-| Japan ![][flag_JP] | 5 | 1 | ![][flag_CL] Chile | [#1]() |
-| Taiwan ![][flag_TW] | 5 | 0 | ![][flag_CA] Canada | [#1]() |
+| Australia ![][flag_AU] | 5 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/41868618) |
+| South Korea ![][flag_KR] | 5 | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41870252) |
+| Japan ![][flag_JP] | 5 | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/41872072) |
+| Taiwan ![][flag_TW] | 5 | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41873900) |
 
 ### Round of 16
 
