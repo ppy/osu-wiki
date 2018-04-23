@@ -142,7 +142,7 @@ One of the more popular entries into the "ll-taiko" series by ll-oscar, Snow Dri
 [t+pazolite - Oshama Scramble!](https://osu.ppy.sh/beatmapsets/360838) by [[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-Much like the other Loved set by [_Chichinya_], TSLove, Oshama Scramble smashes as many difficulties as possible to accomodate for as many playstyles and players there are out there. With over 70 favorites, it was more of an inevitability that this "All-Mode" set would eventually find it's way to Loved, and hopefully people enjoy what it has to offer!
+Much like the other Loved set by [\_Chichinya\_], TSLove, Oshama Scramble smashes as many difficulties as possible to accomodate for as many playstyles and players there are out there. With over 70 favorites, it was more of an inevitability that this "All-Mode" set would eventually find it's way to Loved, and hopefully people enjoy what it has to offer!
 
 [![](/wiki/shared/news/2018-04-23-project-loved-week-of-april-22nd/taiko/chambarising.jpg)](https://osu.ppy.sh/community/forums/topics/736005)
 
