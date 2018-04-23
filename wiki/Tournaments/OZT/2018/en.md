@@ -9,7 +9,7 @@
 - [OZT2018 Spreadsheet (Contains schedules, stats, teams, etc.)](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
 - [OZT2018 Ruleset (Rules on every aspect of the tournament)](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
 - OZT2018 MapPool
-- [OZT2018 osu! Forum Post (Miss the old post?)](https://osu.ppy.sh/forum/t/735631)
+- [OZT2018 osu! Forum Post (Will redirect you to the forum post)](https://osu.ppy.sh/forum/t/735631)
 
 ## General Tournament rules
 - Score system: **Scorev2**
