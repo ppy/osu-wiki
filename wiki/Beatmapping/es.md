@@ -26,7 +26,7 @@ Deberas completar esta información antes de crear otra [dificultad](/wiki/dific
 Esto asegurará que los metadatos sean consistentes en todas las dificultades del conjunto.
 
 Ahora puedes cambiar las opciones en las otras pestañas si lo deseas, pero pueden cambiarse más adelante.
-Haga clic en 'OK', ¡Y podrás comenzar con el beatmapping!
+Haga clic en `OK`, ¡Y podrás comenzar con el beatmapping!
 El siguiente paso es agregar tiempo a tu beatmap.
 
 ### Tiempo
