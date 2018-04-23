@@ -1,23 +1,26 @@
 # osu! Z-Tournament 2018
 ![osu!Z-Tournament 2018](logo.png)
 
-- The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament.
+- The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted yearly by BearZyo and Div. The osu! Z-Tournament 2018 is the 5th iteration of the Z-Tournament series, the previous iteration could be found here: [osu! Z-Tournament 2017](https://osu.ppy.sh/forum/t/580366).
 
 ## Links
-- [Discord](https://discord.gg/29RmHDQ)
-- [Stream](https://www.twitch.tv/ztournament)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
-- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
-- MapPool
-- [Forum Post](https://osu.ppy.sh/forum/t/735631)
+- [OZT2018 Discord Server (Announcements and scheduling will be dealt here)](https://discord.gg/29RmHDQ)
+- [OZT2018 Twitch stream (The channel will be where all matches will be streamed)](https://www.twitch.tv/ztournament)
+- [OZT2018 Spreadsheet (Contains schedules, stats, teams, etc.)](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
+- [OZT2018 Ruleset (Rules on every aspect of the tournament)](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
+- OZT2018 MapPool
+- [OZT2018 osu! Forum Post (Miss the old post?)](https://osu.ppy.sh/forum/t/735631)
 
 ## General Tournament rules
 - Score system: **Scorev2**
 - This tournament will hold up to **64 teams, with 6 players at minimum and 8 players at maximum in each team.**
 - **Group stages will be held round robin style**, afterwards the **Bracket stages will be double elimination**
 - It is **required** that all players join the discord
+- Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed. (Players, team name, etc.)
+- Scheduling must be done before the match, there must be mutual agreement between the teams.
+- Any misconduct will result in a punishment.
 - Any further questions must be forwarded to **[BearZyo](https://osu.ppy.sh/u/6116759) or [Div](https://osu.ppy.sh/u/3751116)**
-- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
+- [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
 ## Tournament Schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
@@ -38,9 +41,9 @@
 
 | Place | Prize |
 | ---: | :--- |
-| 1st | Profile Badge |
-| 2nd | |
-| 3rd | |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | |
 
 ## Groups
 - TBA: 2018-05-27
