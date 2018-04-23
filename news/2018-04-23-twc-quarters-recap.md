@@ -67,6 +67,10 @@ The last match of the day was also arguably the most even one, United Kingdom vs
 
 ### Quarterfinals Matches
 
+The Quarterfinals stage marked the end of the journeys of 4 teams in the Taiko World Cup. Those being Argentina, Malaysia, United Kingdom and France. Better luck to them next year! 
+
+**Hong Kong kicked off the weekend by sweeping Argentina 5-0.** Argentina arrived with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately wasn't one of them.
+
 
 
  [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/). 
