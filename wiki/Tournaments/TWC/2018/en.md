@@ -148,7 +148,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](http://osu.ppy.sh/beatmaps/919457) 
   - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](http://osu.ppy.sh/beatmaps/1502771) 
 - Tiebreaker
-  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Imperfect\]](http://osu.ppy.sh/beatmaps/1256958) 
+  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Perfect\]](http://osu.ppy.sh/beatmaps/1617154) 
 
 ### Quarterfinals
 
