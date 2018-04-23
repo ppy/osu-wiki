@@ -28,16 +28,16 @@ Hay **tres formas de habilitar/deshabilitar el Ajuste de distancia**:-
 -   **Haz clic** en el icono **"Ajustar distancia" en la esquina inferior derecha de la pantalla** Cuando está encendido se ilumina; haz click de nuevo para desabilitarlo
 -   Usa la tecla de acceso directo del teclado, `Y`, para habilitarla/deshabilitarla.
 -   **Manten presionada** la tecla del teclado, `Alt`, para **habilitar/deshabilitartemporalmente** la opción Ajuste de distancia desactivada/habilitada respectivamente **hasta que sueltes** la tecla.
-    -   While holding the `Alt` key, the Beat Snap Divisor slider located at the upper-right of the editor will switch to Distance Spacing slider, allowing you to set the multiplier for the distance/time variable by mousewheel or sliding it. Default is 1.0x from 0.1x - 6.0x.
+    -  Mientras mantienes presionada la tecla 'Alt', el control deslizante Divisor de ritmo ubicado en la esquina superior derecha del editor cambiará al control deslizante Ajuste de Distancia, lo que le permite configurar el multiplicador para la variable de distancia/tiempo con la rueda del mouse o deslizándolo. El valor predeterminado es 1.0x desde 0.1x - 6.0x.
+    
+**Nota**: un icono rojo de Ajuste de Distancia significa que el círculo está demasiado lejos del campo de juego, por lo tanto, hay un error. Puedes solucionarlo bajando el multiplicador de Ajuste de Distancia o usa tu propio juicio y las opiniones de otros mappers.
 
-**Note**: A red Distance Snap icon means the circle is too far away from the playfield, hence an error. You can fix it by lowering the distance spacing multiplier or use your own judgement and other mappers' opinions.
-
-Suggested Distance Spacing multiplier?
+¿Multiplicador de Ajuste de Distancia sugerido?
 --------------------------------------
 
-When setting the distance, you should focus on certain points having about the same the BPM and use your own judgement. While it is possible to use up to 6.0x, a high and inconsistent use of the multiplier will make hit-objects look like they are randomly scattered on the field. As the lower limit may vary, try to make sure that hit-objects do not overlap with each other too closely except for special cases like (death)streams.
+Al establecer la distancia, debes centrarte en ciertos puntos que tienen aproximadamente el mismo BPM y usar tu propio juicio. Si bien es posible usar hasta 6.0x, un uso alto e incoherente del multiplicador hará que los objetos de golpe se vean como si estuvieran dispersos aleatoriamente en el campo. Como el límite inferior puede variar, intenta asegurarte de que los objetos de golpeo no se superpongan entre sí muy de cerca, excepto en casos especiales, como los (death)streams
 
-Using Distance Snap
+Usando el Ajuste de Distancia
 -------------------
 
-Distance Snap is just a **tool** to maintain proportional distance between two hit-objects, a "crutch" if you will. It works well in most situations but over-reliance will make your difficulty predictable and with limited working space. While it is not wrong to use Distance Snap, remember that it is just a tool intended to suit the mapper's purpose. A change in distance should make sense and follow to the rhythm well. Distance Snap is just a helper and does not constitute a professional advice, that would be in the [beatmap forum](/wiki/Beatmap_Forum) if you need one.
+El Ajuste de Distancia es solo una **herramienta** para mantener la distancia proporcional entre dos objetos de golpe, una "muleta" si se quiere. Funciona bien en la mayoría de las situaciones, pero la dependencia excesiva hará que su dificultad sea predecible y con un espacio de trabajo limitado. Si bien no es incorrecto utilizar el Ajuste de Distancia, recuerda que es solo una herramienta diseñada para cumplir con el propósito del mapper. Un cambio en la distancia debe tener sentido y seguir bien el ritmo. El Ajuste de Distancia es solo un ayudante y no constituye un consejo profesional, que estaría en el [foro de beatmap](/wiki/Beatmap_Forum) si lo necesitas.
