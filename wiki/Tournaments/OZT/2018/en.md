@@ -57,8 +57,11 @@
 **Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
 - [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform)
 
+---
 
 **Don't have a team?** You're in the right place! Here, other teams will be able to scout players out, and you could possibly be picked up.
+
+Be aware that becoming a free agent will **not guarantee a spot for playing in the tournament**.
 - [Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSe_QRQlRucnud49Hev5ij18c1f_LM3MNMqOGPzqyWl-jnguew/viewform)
 
 ## Staff 
