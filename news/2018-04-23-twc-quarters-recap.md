@@ -69,7 +69,14 @@ The last match of the day was also arguably the most even one, United Kingdom vs
 
 The Quarterfinals stage marked the end of the journeys of 4 teams in the Taiko World Cup. Those being Argentina, Malaysia, United Kingdom and France. Better luck to them next year! 
 
-**Hong Kong kicked off the weekend by sweeping Argentina 5-0.** Argentina arrived with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately wasn't one of them.
+**Hong Kong kicked off the weekend by sweeping Argentina 5-0.** Argentina did arrive with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately wasn't one of them.
+
+The match between Poland and France seemed like an even one when the teams traded wins until 2-2. At that point, Poland had enough. With [CreepyDuck](https://osu.ppy.sh/users/2435013) leading the way, **Poland won the last 3 maps to cause a 5-2 upset against the top-seeded French.** 
+
+The United Kingdom were missing a couple key players, which **Brazil took full advantage of and swept the UK 5-0.**
+
+Spain versus United States is another match where the teams looked balanced early on. Spain edged out the win on the speedy nomod pick [LeaF - I](https://osu.ppy.sh/beatmaps/1607811) to equalize the score at 1-1. Other than that, the US dominated every map in style and set some jaw-dropping scores while doing so. [Dargin](https://osu.ppy.sh/users/7086439) intimidated Spain right away with an amazing accuracy of only three 100s on the DoubleTime map [M2U - Masquerade](https://osu.ppy.sh/beatmapsets/132040/#taiko/332272). Later in the match, [JDrago14](https://osu.ppy.sh/users/7690078) displayed their amazing reading skills by getting a full combo on the Hidden map [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247). This also happened:
+![](/wiki/shared/news/2018-04-19-twc-ro16-recap/usa-2-100s.jpg)
 
 
 
