@@ -4,12 +4,12 @@
 - The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted yearly by BearZyo and Div. The osu! Z-Tournament 2018 is the 5th iteration of the Z-Tournament series, the previous iteration could be found here: [osu! Z-Tournament 2017](https://osu.ppy.sh/forum/t/580366).
 
 ## Links
-- [OZT2018 Discord Server (Announcements and scheduling will be dealt here)](https://discord.gg/29RmHDQ)
-- [OZT2018 Twitch stream (The channel will be where all matches will be streamed)](https://www.twitch.tv/ztournament)
-- [OZT2018 Spreadsheet (Contains schedules, stats, teams, etc.)](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
-- [OZT2018 Ruleset (Rules on every aspect of the tournament)](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
+- [OZT2018 Discord Server](https://discord.gg/29RmHDQ)
+- [OZT2018 Twitch stream](https://www.twitch.tv/ztournament)
+- [OZT2018 Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
+- [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
 - OZT2018 MapPool
-- [OZT2018 osu! Forum Post (Will redirect you to the forum post)](https://osu.ppy.sh/forum/t/735631)
+- [OZT2018 osu! Forum Post](https://osu.ppy.sh/forum/t/735631)
 
 ## General Tournament rules
 - Score system: **Scorev2**
