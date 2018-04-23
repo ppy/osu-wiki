@@ -2,14 +2,6 @@
 ![osu!Z-Tournament 2018](logo.png)
 
 - The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament.
-- There are no rank limits, therefore allowing any player to join.
-- Score system: **Scorev2**
-- This tournament will hold up to **64 teams, with 6 players at minimum and 8 players at maximum in each team.**
-- **Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
-- **Group stages will be held round robin style**, afterwards the **Bracket stages will be double elimination**
-- It is **required** that all players join the discord
-- This page will only cover the general rules of the tournament, **you are required to read the ruleset.**
-- Any further questions must be forwarded to **[BearZyo](https://osu.ppy.sh/u/6116759) or [Div](https://osu.ppy.sh/u/3751116)**
 
 ## Links
 - [Discord](https://discord.gg/29RmHDQ)
@@ -19,6 +11,13 @@
 - MapPool
 - [Forum Post](https://osu.ppy.sh/forum/t/735631)
 
+## General Tournament rules
+- Score system: **Scorev2**
+- This tournament will hold up to **64 teams, with 6 players at minimum and 8 players at maximum in each team.**
+- **Group stages will be held round robin style**, afterwards the **Bracket stages will be double elimination**
+- It is **required** that all players join the discord
+- Any further questions must be forwarded to **[BearZyo](https://osu.ppy.sh/u/6116759) or [Div](https://osu.ppy.sh/u/3751116)**
+- [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
 ## Tournament Schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
@@ -50,7 +49,9 @@
 - TBA: 2018-06-11
 
 ## Registrations
-**Register your team here!** Remember, all team members must join the discord for the team to be eligible to play.
+**Register your team here!** Remember, all team members must join the discord for the team to be eligible to play. There are no rank limits, therefore allowing any player to join.
+
+**Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
 - [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform)
 
 
