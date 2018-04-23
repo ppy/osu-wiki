@@ -84,7 +84,7 @@ There's very little to say about [fartownik](https://osu.ppy.sh/users/56917)'s H
 
 [![](/wiki/shared/news/2018-04-23-project-loved-week-of-april-22nd/osu/megalovania.jpg)](https://osu.ppy.sh/community/forums/topics/735992)
 
-[toby fox + RichaadEB - MEGALOVANIA ~Dual Mix~](https://osu.ppy.sh/beatmapsets/375201) by [The_CJ](https://osu.ppy.sh/users/5342579)  
+[toby fox + RichaadEB - MEGALOVANIA \~Dual Mix\~](https://osu.ppy.sh/beatmapsets/375201) by [The_CJ](https://osu.ppy.sh/users/5342579)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
 [MEGALOVANIA](https://osu.ppy.sh/beatmapsets/375201) is an incredibly iconic song, and with 580 favourites this mapset by [The_CJ](https://osu.ppy.sh/users/5342579) has clearly struck a chord with a lot of people as well. Despite the mapset featuring a 9(!!!!!) star difficulty, there still is a relatively reasonable diff spread so Undertale fans can enjoy the map regardless of their osu skill level. The real star of the show in my opinion is the storyboard, which uses elaborate and complex effects to accompany the song very well.
