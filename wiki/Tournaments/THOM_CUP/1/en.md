@@ -49,6 +49,8 @@ The Heptakey osu!mania Cup #1
 
 ## Rules
 
+### Tournament Organization
+
 #### Qualification Process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 64**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
