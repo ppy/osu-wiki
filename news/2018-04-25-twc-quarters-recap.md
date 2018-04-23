@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Round of 16 Recap"
-date: 2018-04-19 00:00:00 +0000
+title: "osu!taiko World Cup - Quarterfinals Recap"
+date: 2018-04-24 00:00:00 +0000
 ---
 
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 
-**Hi, I'm Eiuh and I'll be writing the recaps for the osu!taiko World Cup this year.** I couldn't get started with the group stage recap in time last week, but I'll start off by quickly covering it here to give you some background to the Round Of 16. Better late than never, right?
+**Hi, I'm Eiuh and I'll be writing the recaps for the osu!taiko World Cup this year.** Let's start off by going over the Group Stage and Round Of 16 to give you some background to the Quarterfinals. Better late than never, right?
 
-Because of so many group stage matches being blowouts, **I'll focus heavily on a select few matches**, including upsets that caused crucial changes to the elimination bracket.
+Because of so many Group Stage matches being blowouts, **I'll focus heavily on a select few matches**, including upsets that caused crucial changes to the elimination bracket.
 
 
 ### Group Stage Matches
@@ -44,9 +44,9 @@ A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of th
 
 Unlike in the Group Stage, **the Round Of 16 didn't give us any close scorelines.** The 2nd place teams unfortunately only managed to steal 3 points in total from the group winners.
 
-**Remember those upsets I mentioned?** Brazil's loss to South Korea in the Group Stage meant they faced the titans that are the United States. The Brazilians were a couple players short and couldn't get a point on the board against the ruthless accuracies from the US. They are still not eliminated though, and will be fighting in the losers bracket to stay in the tournament from this weekend onwards.
+**Remember those upsets I mentioned?** Brazil's loss to South Korea in the Group Stage meant they faced the titans that are the United States. The Brazilians were a couple players short and couldn't get a point on the board against the ruthless accuracies from the US. 
 
-Canada and Taiwan made Malaysia and Australia meet the same fate as Brazil and the Maustraysian duo will also be playing in the losers bracket from now on.
+Canada made quick work of Malaysia with a 5-0 victory, and Taiwan did the same against top-seeded Australia, forcing the Maustraysian duo into the losers bracket along with Brazil.
 
 Things got really interesting in the match between France and Indonesia. The losses of France usually came down to a single misplay, and they eventually took a point on the FreeMod [t+pazolite - Elder Dragon Legend (ft. Kabocha)](https://osu.ppy.sh/beatmapsets/761951#taiko/1602056) despite the 2 mod advantage of Indonesia. Overall though, **Indonesia will take their revenge on France 5-1**, the same score they lost by last year.
 
@@ -55,25 +55,26 @@ Only one Argentinian player woke up for their match, resulting in a **win by def
 South Korea edged out Poland on every match they played, but that didn't stop CreepyDuck from pulling off this crazy score on Viden:
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/viden-poland-south-korea.jpg)
 
-Hong Kong missing one of their three players put them in a tough spot against Chile with no replacement players. The accuracy monster sing216 lived up to their reputation by getting 5 scores above 99,9%, 3 of which were SS ranks. The other Hong Kong player, Faputa, couldn't quite match that but still exceeded the expectations of many and helped put Hong Kong on the board. **It ended 5-1 in favour of the Chileans.** 
+Hong Kong missing one of their three players put them in a tough spot against Chile with no replacements. The accuracy monster sing216 lived up to their reputation by getting 5 scores above 99,9%, 3 of which were SS ranks. The other Hong Kong player, Faputa, couldn't quite match that but still exceeded the expectations of many and helped put Hong Kong on the board. **It ended 5-1 in favour of the Chileans.** 
 
-The last match of the day was also arguably the most even one, United Kingdom vs Spain.  This one could have been significantly closer, but with the small score differences all going the way of Spain, they clinched the match 5-1. However, with the dedication United Kingdom displayed on the memorization map [Black Hole - Pluto](https://osu.ppy.sh/beatmapsets/599679/#taiko/1599257), **teams in the losers bracket should not take them lightly.**
+The last match of the day was also arguably the most even one, United Kingdom vs Spain. This one could have been significantly closer, but with the small score differences all going the way of Spain, they clinched the match 5-1. However, United Kingdom still proved themselves as a dedicated team on the memorization map [Black Hole - Pluto](https://osu.ppy.sh/beatmapsets/599679/#taiko/1599257):
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/pluto-uk-fcs.jpg)
-
 
 ### Round Of 16 Mappool
 
-**The picks were evenly spread out this week, more so than in the Group Stage anyway.** Across 7 matches, every map was played at least once except for tiebreaker. Teams kept it simple by banning out technical maps a lot, such as [onoken - Viden](https://osu.ppy.sh/beatmapsets/708312/#taiko/1497491) (Hidden) and [Virt - Staring at my Spaceship](https://osu.ppy.sh/beatmapsets/57145/#taiko/766477) (HardRock). 
+**The picks in Round Of 16 were evenly spread out, more so than in the Group Stage anyway.** Across 7 matches, every map was played at least once except for tiebreaker. Teams kept it simple by banning out technical maps a lot, such as [onoken - Viden](https://osu.ppy.sh/beatmapsets/708312/#taiko/1497491) (Hidden) and [Virt - Staring at my Spaceship](https://osu.ppy.sh/beatmapsets/57145/#taiko/766477) (HardRock). 
 
 
-### Quarterfinals Preview
+### Quarterfinals Matches
 
-In the Quarterfinals winners bracket, we'll be seeing: Japan vs. Chile, South Korea vs. Indonesia, Spain vs. USA and Taiwan vs. Canada. **The losers of these matches will drop down to the losers bracket.** Speaking of the losers bracket, the matches we'll be seeing there this weekend are: Argentina vs. Hong Kong, Poland vs. France, United Kingdom vs. Brazil and Australia vs. Malaysia. **The losers of these matches will be eliminated from the tournament.** The updated bracket and schedule will be available on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/). 
+
+
+ [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/). 
 
 
 ### Useful Links
 
-This is surely shaping up to be an exciting Quarterfinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive).** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#). 
+This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive).** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#). 
 
 **Also, don't forget to buy a banner!** You can support your favourite team by purchasing a banner at the [osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.   
 
