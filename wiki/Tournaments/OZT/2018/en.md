@@ -17,7 +17,7 @@
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
 - [Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
 - MapPool
-- Forum Post
+- [Forum Post](https://osu.ppy.sh/forum/t/735631)
 
 ## Tournament Schedule
 
