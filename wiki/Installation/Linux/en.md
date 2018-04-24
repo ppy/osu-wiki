@@ -77,19 +77,21 @@ $ chmod +x winetricks
 
 *Warning: Never run wine using the root user or sudo!*
 
-1.  Once you have installed wine and winetricks, create a wine prefix using the Windows 32-bit architecture.
+*Note: You may use a different wine prefix folder.* This part of the guide will be using the `~/.wine` folder.
+
+1.  Once you have installed wine and winetricks, create a wine prefix using the Windows 32-bit architecture and install the .NET 4.5 framework, the core and CJK fonts and gdiplus.
 ```
-$ WINPREFIX=~/.wine WINEARCH=win32 winecfg
+$ WINPREFIX=~/.wine WINEARCH=win32 winetricks dotnet45 corefonts cjkfonts gdiplus
 ```
 
-2.  If wine asks you to install wine_gecko for any reason, you can click `No`. Once the Wine configuration window opens, click `OK`.
+2.  If wine asks you to install wine_gecko for any reason, click `No`.
 
-3.  Install the .NET 4.5 framework and the core fonts.
-```
-$ WINEPREFIX=~/.wine winetricks dotnet45 corefonts
-```
+3.  The .Net 4.0 installer window will open, follow the prompts and install it. After this is done, the .Net 4.5 installer window will open, follow the prompts and install it. If prompted to restart, click either button (this will do nothing and you do not need to restart your computer).
 
-4.  The .Net 4.0 installer window will open, follow the prompts and install it. After this is done, the .Net 4.5 installer window will open, follow the prompts and install it. If prompted to restart, click either button (this will do nothing and you do not need to restart your computer).
+4.  Once the installation is completed, open the Wine Configuration window and go to the `Graphics` tab. From there, enable the `Allow the window manager to decorate the windows` and `Allow the window manager to control the windows` checkboxes in the Window settings fieldset. Then click `OK`.
+```
+$ WINEPREFIX=~/.wine winecfg
+```
 
 5.  Once that is done, download the osu! installer. You can either download it from the website or using the following command:
 ```
@@ -115,18 +117,22 @@ $ WINEPREFIX=~/.wine wine '~/.wine/drive_c/Program Files/osu!/osu!install.exe'
 
 10. You can now enjoy playing osu! on Linux!
 
----
+### Creating a shortcut
 
 To play osu! after you have closed it, you can:
 
--  Navigate to the `~/.wine/drive_c/Program Files/osu!` folder and double click `osu!.exe`
--  Create a shortcut to `~/.wine/drive_c/Program Files/osu!/osu!.exe`, if your desktop environment allows it.
--  Run the following command:
+-   Navigate to the `~/.wine/drive_c/Program Files/osu!` folder and double click `osu!.exe`
+
+-   Create a shortcut to `~/.wine/drive_c/Program Files/osu!/osu!.exe`, if your desktop environment allows it.
+
+-   Run the following command:
 ```
 $ WINEPREFIX=~/.wine wine '~/.wine/drive_c/Program Files/osu!/osu!.exe'
 ```
--  Create a [desktop entry](https://wiki.archlinux.org/index.php/desktop_entries) in `~/.local/share/applications/osu!.desktop`.
+
+-   Create a [desktop entry](https://wiki.archlinux.org/index.php/desktop_entries) (this creates an application icon to click on, if your desktop environment does this).
 ```
+$ cat > ~/.local/share/applications/osu!.desktop << "EOF"
 [Desktop Entry]
 Type=Application
 Name=osu!
@@ -135,12 +141,128 @@ Exec=env WINEPREFIX="~/.wine" wine "~/.wine/drive_c/Program Files/osu!/osu!.exe"
 Comment=Rhythm is just a click away!
 Categories=Game
 Icon=583A_osu!.0
+EOF
 ```
 
-## Tweaks and troubleshooting
+-   Create a script. If this id done, you can run `osu` in the terminal to start osu!
+```
+$ cat > osu << "EOF"
+#!/bin/sh
 
-### CJK characters show up as square boxes
+export vblank_mode=0
+export WINEARCH=win32
+export WINEPREFIX=$HOME/osu-wine
+wine ~/osufolder/osu\!.exe "$@"
+EOF
 
-Wine and winetricks don't include CJK fonts by default. To resolve this,
+$ sudo mv osu /usr/bin/
+$ sudo chmod +x /usr/bin/osu
+```
 
-### 
+### Creating a kill script
+
+There are times that osu! may freeze or may not start up at all. If that does happen, you will need to kill the wineserver for your Wine prefix using:
+
+```
+$ WINEPREFIX=~/.wine wineserver -k
+```
+
+---
+
+You could also create a short script to do this quickly for you, as follows:
+
+```
+# cat > osukill << "EOF"
+#!/bin/sh
+
+export WINEPREFIX=~/.wine
+wineserver -k
+EOF
+
+$ sudo mv osukill /usr/bin/
+$ sudo chmod +x /usr/bin/osukill
+```
+
+Once this is done, you can run `osukill` in the terminal to force-kill osu!
+
+## Tweaks
+
+### Reducing sound latency
+
+You can set the sound driver to use alsa to help reduce latency.
+```
+$ WINPREFIX=~/.wine winetricks sound=alsa
+```
+
+The above should work with PulseAudio. If not, revert back to pulseaudio.
+```
+$ WINPREFIX=~/.wine winetricks sound=pulse
+```
+
+#### Registry tweak
+
+You can also do a registry tweak to further minimize sound latency.
+
+```
+$ cat > dsound.reg << "EOF"
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Wine\DirectSound]
+"HelBuflen"="512"
+"SndQueueMax"="3"
+EOF
+
+$ WINEPREFIX=~/.wine wine regedit dsound.reg
+```
+
+This will generate a file call `dsound.reg`, once you run it with Wine, you can delete it or run the following:
+
+```
+$ rm desound.reg
+```
+
+### Font hinting issues
+
+To fix this, run the following to fix this:
+
+```
+WINEPREFIX=~/.wine winetricks settings fontsmooth=rgb
+```
+
+### Other notes
+
+#### Full screen mode
+
+If your desktop enviroment has special compositor and effects, you may want to keep osu! in fullscreen mode. As it will bypass the compositor.
+
+#### Multiple monitors
+
+If you are using multiple monitors, you should definitely use windowed or borderless windowed mode because the compositors will have a hard time trying to keep up and may cause performance issues. You could try to turn off the compositor (you will need to look this up yourself), not use one at all, or use a lightweight window manager.
+
+#### Tiling window manager
+
+If you are using a tiling window manager (e.g. dwm), fullscreen mode may have performance issues. If this is the case, you should use windowed mode.
+
+## Troubleshooting
+
+### mscoree.dll is not found!
+
+While installing dotnet45 (and dotnet40), winetricks may, rarely, forget to put an override for this DLL file. To fix this, reinstall dotnet40.
+
+```
+$ WINPREFIX=~/.wine winetricks --force dotnet40
+```
+
+### Approach circles look weird and choppy
+
+Limit your FPS.
+
+While osu! is closed, edit your `osu!.{user}.cfg` file and set `CustomFrameLimit` to a value your computer can handle stably. Note that you can use the highest number shown in the fps counter milliseconds of how osu! handles each frame, meaning `FPS = 1000 / {how many milliseconds it takes to render a frame}`
+
+### Red "x" during installation
+
+This issue is common amongst Arch Linux users. This means you have an outdated or missing `lib32-libpng` and `libpng` packages (both 32 and 64-bit). To fix this, simply install or update them.
+
+```
+# pacman -S lib32-libpng libpng
+```
