@@ -18,8 +18,7 @@ The Group Stage started off with Australia setting the tone for the weekend. In 
 
 After a few more matches, United Kingdom came out swinging against France. In fact, they swang hard enough to find themselves on match point with the opportunity to clinch the game 4-2 over the French. Unfortunately for the brits, **France pulled themselves together to come back and win on tiebreaker.** The fierce battle between the powerhouses goheegy and TimmyAkmed was a delight to watch, but the upsets would have to wait until later.
 
-The nocturnal matches (UTC time) both resulted in upsets. **Chile and South Korea showed a dominant performance against the top seeds 
-Australia and Brazil respectively**, only losing 1 map each. Going into the Round Of 16, this put Chile and South Korea in even, winnable matchups while Australia and Brazil had tough teams ahead: Taiwan and USA.
+The nocturnal matches (UTC time) both resulted in upsets. **Chile and South Korea showed a dominant performance against the top seeds Australia and Brazil respectively**, only losing 1 map each. Going into the Round Of 16, this put Chile and South Korea in even, winnable matchups while Australia and Brazil had tough teams ahead: Taiwan and USA.
 
 
 The third and final upset of the weekend, Spain versus Indonesia, was a real thriller. After trading close points with each other for 6 maps, the two teams ended up on tiebreaker where **Spain clutched out the victory.** 
