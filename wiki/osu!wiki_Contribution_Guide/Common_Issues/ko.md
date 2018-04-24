@@ -14,7 +14,7 @@
 
 이 문제를 해결하는 방법 (GitHub의 웹 인터페이스 및 GitHub Desktop 에디터 기준):
 
-1. 당신이 fork 한 `osu-wiki` 저장소로 이동하세요.
+1. 당신이 fork 한 `osu-wiki` 레포지토리로 이동하세요.
 2. 문제가 되는 branch와 동일한 이름에 번호를 붙이거나, 원하는 이름으로 새로운 branch를 생성하세요.
 3. Pull request를 생성하세요.
 4. `base fork` 그리고 `head fork` 메뉴가 없는 경우에는, `compare across forks` 링크를 클릭해주세요.
@@ -30,7 +30,7 @@
 14. 제목을 고쳐주세요 (이것은 나중에 커밋 메시지가 될 내용입니다; 의미 있는 내용이 되도록 작성합시다).
 15. 설명을 고쳐주세요 (이것은 나중에 커밋에 대한 설명이 됩니다; 필수는 아니지만 변경해주세요).
 16. `Confirm squash and merge`를 클릭해주세요.
-17. [`ppy/osu-wiki` 저장소](https://github.com/ppy/osu-wiki)로 이동하세요.
+17. [`ppy/osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki)로 이동하세요.
 18. 문제가 있던 branch에 대한 Pull request를 닫아주세요.
 19. 새로 생성한 branch에 대한 Pull request를 열어주세요.
 20. 닫혔던 Pull request에 있던 설명을 새로 생성한 Pull request에 복사하세요. 닫은 Pull reuqest에 대한 참조를 포함시키면 도움이 됩니다.
@@ -40,17 +40,17 @@
 
 ## 제 branch가 오래됐습니다!
 
-`osu-wiki` 저장소를 fork를 생성하면, 그 당시에 내용을 가져옵니다. 문제는 이것이 자동으로 업데이트가 되지 않으며, GitHub은 이것에 대해 해결책을 주지 않습니다.
+`osu-wiki` 레포지토리를 fork하여 생성하면, 그 당시에 내용을 가져옵니다. 문제는 이것이 자동으로 업데이트가 되지 않으며, GitHub은 이것에 대해 해결책을 주지 않습니다.
 
 ---
 
-이것을 해결하기 위해, [Upriver](https://upriver.github.io/)라는 서비스/스크립트가 있습니다. 저 페이지에 명시된 것과 같이, GitHub API만을 이용하여 저장소를 업스트림과 손쉽게 동기화 할수 있습니다.
+이것을 해결하기 위해, [Upriver](https://upriver.github.io/)라는 서비스/스크립트가 있습니다. 저 페이지에 명시된 것과 같이, GitHub API만을 이용하여 레포지토리를 업스트림과 손쉽게 동기화 할수 있습니다.
 
 1. [Upriver](https://upriver.github.io/)로 이동하세요.
 2. `Sign in with GitHub`를 클릭하세요. 이미 가입되어 있다면 이 단계는 넘어가셔도 됩니다.
 3. `Authorize upriver`를 클릭하세요. 이미 이 작업을 수행했었다면 이 단계는 넘어가셔도 됩니다.
 4. 다음과 같이 설정하세요:
-   - into: *fork한 `osu-wiki` 저장소*
+   - into: *fork한 `osu-wiki` 레포지토리*
    - branch: `master`
    - from: `ppy/osu-wiki`
    - branch: `master`
