@@ -60,6 +60,7 @@ Hong Kong missing one of their three players put them in a tough spot against Ch
 The last match of the day was also arguably the most even one, United Kingdom vs Spain. This one could have been significantly closer, but with the small score differences all going the way of Spain, they clinched the match 5-1. However, United Kingdom still proved themselves as a dedicated team on the memorization map [Black Hole - Pluto](https://osu.ppy.sh/beatmapsets/599679/#taiko/1599257):
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/pluto-uk-fcs.jpg)
 
+
 ### Round Of 16 Mappool
 
 **The picks in Round Of 16 were evenly spread out, more so than in the Group Stage anyway.** Across 7 matches, every map was played at least once except for tiebreaker. Teams kept it simple by banning out technical maps a lot, such as [onoken - Viden](https://osu.ppy.sh/beatmapsets/708312/#taiko/1497491) (Hidden) and [Virt - Staring at my Spaceship](https://osu.ppy.sh/beatmapsets/57145/#taiko/766477) (HardRock). 
@@ -69,23 +70,42 @@ The last match of the day was also arguably the most even one, United Kingdom vs
 
 The Quarterfinals stage marked the end of the journeys of 4 teams in the Taiko World Cup. Those being Argentina, Malaysia, United Kingdom and France. Better luck to them next year! 
 
-**Hong Kong kicked off the weekend by sweeping Argentina 5-0.** Argentina did arrive with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately wasn't one of them.
+**Hong Kong kicked off Saturday by sweeping Argentina 5-0.** Argentina did arrive with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately was not one of them.
 
 The match between Poland and France seemed like an even one when the teams traded wins until 2-2. At that point, Poland had enough. With [CreepyDuck](https://osu.ppy.sh/users/2435013) leading the way, **Poland won the last 3 maps to cause a 5-2 upset against the top-seeded French.** 
 
 The United Kingdom were missing a couple key players, which **Brazil took full advantage of and swept the UK 5-0.**
 
-Spain versus United States is another match where the teams looked balanced early on. Spain edged out the win on the speedy nomod pick [LeaF - I](https://osu.ppy.sh/beatmaps/1607811) to equalize the score at 1-1. Other than that, the US dominated every map in style and set some jaw-dropping scores while doing so. [Dargin](https://osu.ppy.sh/users/7086439) intimidated Spain right away with an amazing accuracy of only three 100s on the DoubleTime map [M2U - Masquerade](https://osu.ppy.sh/beatmapsets/132040/#taiko/332272). Later in the match, [JDrago14](https://osu.ppy.sh/users/7690078) displayed their amazing reading skills by getting a full combo on the Hidden map [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247). This also happened:
+Spain versus United States is another match where the teams looked balanced early on, but **the US ran away with the game to win 5-1.** Spain edged out the win on the speedy nomod pick [LeaF - I](https://osu.ppy.sh/beatmaps/1607811) to equalize the score at 1-1. Other than that, the US dominated every map in style and set some jaw-dropping scores while doing so. [Dargin](https://osu.ppy.sh/users/7086439) intimidated Spain right away with an amazing accuracy of only three 100s on the DoubleTime map [M2U - Masquerade](https://osu.ppy.sh/beatmapsets/132040/#taiko/332272). Later in the match, [JDrago14](https://osu.ppy.sh/users/7690078) displayed their amazing reading skills by getting a full combo on the Hidden map [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247). This also happened:
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/usa-2-100s.jpg)
 
+For the first match on Sunday, **Australia swiftly eliminated their northern neighbours Malaysia 5-0.**
+
+South Korea started out strong against Indonesia, taking the first three maps. Indonesia then attempted a comeback and took two maps of their own, but it wasn't meant to be as **South Korea closed out the game 5-2.** A very impressive upset from the mid seeded Koreans, to say the least.
+
+The anticipated Japanese team was streamed for the first time in their match against Chile. While **Japan won the match 5-1**, the Chileans should still be proud of taking a point, as that is something few teams could manage against the favourite team of the tournament.
+![](/wiki/shared/news/2018-04-19-twc-ro16-recap/chile-gum.jpg)
+
+The last match of this stage was Taiwan versus Canada is the winners bracket. There is some rivalry to this matchup, as Canada fell short on the tiebreaker against Taiwan back in the 2016 Finals stage. This time Taiwan had a much easier time, clinching the game with a 5-0 sweep. If Canada wants the silver medal this year, the mountain they have to climb to obtain it is even steeper than previous years. 
 
 
- [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/). 
+### Quarterfinals Mappool
+
+In the Quarterfinals we saw every map get played atleast twice except for the tiebreaker and [U-F SEQUENCER - EupHolic](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103) (FreeMod) which didn't get picked at all. This map was also the most targeted ban along with [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247) (Hidden). Some thoughts from one of the map selectors, [mangomizer](https://osu.ppy.sh/users/1893718), regarding the Quarterfinals mappool:
+
+*"We were pleasantly surprised by the spread of picks - it seems that the players coped well with most of the niches we set for this stage. I didn't expect Jikininki (the longest map) to be the most popular pick (6/8 matches), nor did I expect Eupholic to not be picked at all.* 
+
+*It's slightly disappointing to have a tiebreaker drought for the second week in a row, though at the very least every other map received some attention. Player feedback and comments have been extremely helpful, and we look forward to putting that to good use in shaping the future pools!"*
+
+
+### Semifinals Preview
+
+The tiebreaker drought is indeed real, but these upcoming matches are looking likely to break that trend. In the winners bracket, mid-seeded South Korea will challenge Japan while Taiwan and United States play a rematch from last year. In the losers bracket, we'll be seeing another rematch from last year between Australia and Chile, along with Canada versus Hong Kong, Brazil versus Indonesia and a European brawl between Spain and Poland. The last 2 matchups will depend on the results in the losers bracket. To learn more, you can find the schedule, bracket and other info on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/). 
 
 
 ### Useful Links
 
-This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive).** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#). 
+This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive). The first match starts 13:30UTC on Saturday.** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#). 
 
 **Also, don't forget to buy a banner!** You can support your favourite team by purchasing a banner at the [osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.   
 
