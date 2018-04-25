@@ -95,23 +95,23 @@ Springtime Osu!mania Free-for-all Tournament 3
 **[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
 
 - FreeMod
-  - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/b/1300054)
-  - [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/b/1617005)
-  - [trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]](https://osu.ppy.sh/b/1564558)
-  - [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/b/1305297)
-  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/b/1273424)
-  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/b/1617006)
-  - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/b/1576294)
-  - [Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]](https://osu.ppy.sh/b/1617001)
-  - [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/b/1586625)
-  - [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/b/1615634)
-  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/b/1566116)
-  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/b/1579095)
-  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Guilhermeziat) \[Evening's Till November Night\]](https://osu.ppy.sh/b/1616971)
-  - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/b/1513593)
-  - [gems - Gems pack 13 - LN Master 5th (gemboyong) \[69 :^ - Randy Mortimer, Penguin (Pinnacle Remix)\]](https://osu.ppy.sh/b/1239928)
+  - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmaps/1300054)
+  - [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmaps/1617005)
+  - [trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]](https://osu.ppy.sh/beatmaps/1564558)
+  - [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/beatmaps/1305297)
+  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/beatmaps/1273424)
+  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmaps/1617006)
+  - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmaps/1576294)
+  - [Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]](https://osu.ppy.sh/beatmaps/1617001)
+  - [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/beatmaps/1586625)
+  - [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/beatmaps/1615634)
+  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/beatmaps/1566116)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1579095)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Guilhermeziat) \[Evening's Till November Night\]](https://osu.ppy.sh/beatmaps/1616971)
+  - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/beatmaps/1513593)
+  - [gems - Gems pack 13 - LN Master 5th (gemboyong) \[69 :^ - Randy Mortimer, Penguin (Pinnacle Remix)\]](https://osu.ppy.sh/beatmaps/1239928)
 - Tiebreaker
-  - [Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/b/1470192)
+  - [Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/beatmaps/1470192)
 
 ### Finals
 
