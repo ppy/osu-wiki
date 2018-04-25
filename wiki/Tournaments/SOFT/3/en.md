@@ -90,6 +90,29 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Mappools
 
+### Grandfinals
+
+**[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
+
+- FreeMod
+  - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmaps/1300054)
+  - [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmaps/1617005)
+  - [trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]](https://osu.ppy.sh/beatmaps/1564558)
+  - [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/beatmaps/1305297)
+  - [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/beatmaps/1273424)
+  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmaps/1617006)
+  - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmaps/1576294)
+  - [Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]](https://osu.ppy.sh/beatmaps/1617001)
+  - [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/beatmaps/1586625)
+  - [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/beatmaps/1615634)
+  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/beatmaps/1566116)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1579095)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Guilhermeziat) \[Evening's Till November Night\]](https://osu.ppy.sh/beatmaps/1616971)
+  - [Rephaim - Lament Configuration (LovelySerenade) \[ex.press(ion)\]](https://osu.ppy.sh/beatmaps/1513593)
+  - [gems - Gems pack 13 - LN Master 5th (gemboyong) \[69 :^ - Randy Mortimer, Penguin (Pinnacle Remix)\]](https://osu.ppy.sh/beatmaps/1239928)
+- Tiebreaker
+  - [Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/beatmaps/1470192)
+
 ### Finals
 
 **[Download the mappack here! (84.3 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
@@ -114,6 +137,8 @@ Springtime Osu!mania Free-for-all Tournament 3
   - [Camellia - GHOST (Gekido-) \[Inconspicuous\]](https://osu.ppy.sh/beatmaps/1563688)
 
 ### Semifinals
+
+**[Download the mappack here! (74.7 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0)**
 
 - FreeMod
   - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/beatmaps/1600467)
@@ -237,9 +262,23 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Match Results
 
+### Finals
+
+Detailed results of the Finals stage can be found [here](https://goo.gl/TQAKDv).
+
+| Saturday, 2018-04-21 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Lothus ![][flag_BR]  | 6 | **7** | ![][flag_JP] **inteliser** | |
+| aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt**      | |
+
+| Sunday, 2018-04-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc         | |
+| Dawt ![][flag_CA]             | 2 | **7** | ![][flag_US] **TheToaphster** | |
+
 ### Semifinals
 
-Detailed results of the Round of 16 stage can be found [here](https://goo.gl/hmSMka).
+Detailed results of the Semifinals stage can be found [here](https://goo.gl/hmSMka).
 
 | Saturday, 2018-04-14 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -257,7 +296,7 @@ Detailed results of the Round of 16 stage can be found [here](https://goo.gl/hmS
 
 ### Quarterfinals
 
-Detailed results of the Round of 16 stage can be found [here](https://goo.gl/LevsDD).
+Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/LevsDD).
 
 | Friday, 2018-04-06 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
