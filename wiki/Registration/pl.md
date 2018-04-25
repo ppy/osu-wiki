@@ -9,9 +9,6 @@
 ![Przycisk rejestracji](Register-1.png "Przycisk rejestracji")
 
 2. Wypełnij wszystkie pola i kliknij ``Continue``.
-
-![Formularz rejestracyjny](Register-2.png "Formularz rejestracyjny")
-
     1. Nazwa użytkownika         
         - Może składać się z maksymalnie 15 znaków
         - Dozwolone są tylko znaki alfanumeryczne (``a-z``, ``A-Z``, ``0-9``), znaki podkreślenia (``_``), nawiasy kwadratowe, (``[`` i ``]``), myślniki (``-``) oraz spacje (`` ``).
@@ -19,6 +16,9 @@
     3. Hasło
     4. Adnotacja
     5. Kontynuuj
+
+![Formularz rejestracyjny](Register-2.png "Formularz rejestracyjny")
+
 3. Zaloguj się w osu! i gotowe. Udało ci się utworzyć własne konto!
 
 ## Logowanie się
