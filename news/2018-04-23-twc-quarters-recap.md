@@ -36,7 +36,7 @@ The rejection of accuracy maps in this stage was made even more apparent by the 
 
 A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of the map selectors: 
 
-*In Group Stage picks/bans mostly went as expected. We were surprised about the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.* 
+*In Group Stage picks and bans mostly went as expected. We were surprised about the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.* 
 
 
 ### Round Of 16 Matches
