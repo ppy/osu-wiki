@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup - Quarterfinals Recap"
-date: 2018-04-24 00:00:00 +0000
+date: 2018-04-26 00:00:00 +0000
 ---
 
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
