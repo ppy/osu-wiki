@@ -4,8 +4,9 @@ title: "osu!taiko World Cup - Quarterfinals Recap"
 date: 2018-04-26 18:00:00 +0000
 ---
 
-![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
+The osu!taiko World Cup 2018 is well underway as the best of the best face off among themselves for the title of Champion! Missed the matches? Join Eiuh in this handy recap of the Group Stage and Round of 16 to catch up!
 
+![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 **Hi, I'm Eiuh and I'll be writing the recaps for the osu!taiko World Cup this year.** Let's start off by going over the Group Stage and Round Of 16 to give you some background to the Quarterfinals. Better late than never, right?
 
