@@ -36,7 +36,7 @@ The rejection of accuracy maps in this stage was made even more apparent by the 
 
 A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of the map selectors: 
 
-*In Group Stage picks and bans mostly went as expected. We were surprised about the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.* 
+*In Group Stage picks and bans mostly went as expected. We were surprised by the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.* 
 
 
 ### Round Of 16 Matches
@@ -49,7 +49,7 @@ Canada made quick work of Malaysia with a 5-0 victory, and Taiwan did the same a
 
 Things got really interesting in the match between France and Indonesia. The losses of France usually came down to a single misplay, and they eventually took a point on the FreeMod [t+pazolite - Elder Dragon Legend (ft. Kabocha)](https://osu.ppy.sh/beatmapsets/761951#taiko/1602056) despite the 2 mod advantage of Indonesia. Overall though, **Indonesia will take their revenge on France 5-1**, the same score they lost by last year.
 
-Only one Argentinian player woke up for their match, resulting in a **win by default for Japan.**
+Only one Argentinian player made it to their match, resulting in a **win by default for Japan.**
 
 South Korea edged out Poland on every match they played, but that didn't stop CreepyDuck from pulling off this crazy score on Viden:
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/viden-poland-south-korea.jpg)
