@@ -27,10 +27,6 @@ Nominator: [NoHitter](https://osu.ppy.sh/u/124455)
 
 Center anti-jumps has a note or a slider placed in the center while the other hit objects but are spaced the same in the timeline as a form of an [anti-jump](#anti-jumps).
 
-### Large Jumps
-
-`¯\_(ツ)_/¯`
-
 ### Oibon Jumps
 
 Nominator: [Zekira](https://osu.ppy.sh/u/36749)
