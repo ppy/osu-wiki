@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
+[Game_Modes wikilink]: ../ "Modos de Juego"
 [Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "se puede encontrar más información en Estilos de Juego bajo el nombre de osu osu!"
 [Score#osu!SV wikilink]: /wiki/Score/#osu "se puede encontrar más información en Puntuación bajo el nombre de Valores de Puntuación de osu! "
 [Options#Keyboard wikilink]: /wiki/Options/ "se puede encontrar más información en Opciones bajo el nombre de Teclado"
@@ -18,11 +18,11 @@
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Entrada de Wikipedia de Osu! Tatakae! Ouendan"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial por defecto con la instalación por peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 " osu!tutorial rankeado por Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial por defecto con la instalación creado por peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/s/19928 " osu!tutorial rankeado creado por Sushi"
 
 <!-- shared image -->
-[ouendan image]: /wiki/shared/Ouendan.jpg "Exemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS"
+[ouendan image]: /wiki/shared/Ouendan.jpg "Ejemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS"
 [osu! icon link]: /wiki/shared/mode/osu.png "icono de osu!"
 [osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "circulos de golpeo de osu!"
 [osu_slider image]: /wiki/shared/osu_slider.jpg "Controles deslizantes de osu!"
