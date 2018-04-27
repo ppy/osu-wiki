@@ -60,7 +60,7 @@ Momoko has done a great job here on capturing this song through his difficulty, 
 
 [![](/wiki/share/news/2018-04-22-beatmap-spotlights-march-2018/dum-surfer.jpg)](http://osu.ppy.sh/s/716193)
 
-soon:tm:
+This month, [dsco](https://osu.ppy.sh/users/4330511) brings us "Dum Surfer" by "King Krule". The mapper managed to take geometrical mapping to a whole nother level by combining it with low approach rate and perfectly overlapping stacks. These give the mapper the freedom to use unorthodox mapping techniques like multiple stacked notes with different distances in time. Combined with a type of song not very common on osu!, this mapset is a unique experience you should not miss out on!
 
 ## osu!taiko
 
