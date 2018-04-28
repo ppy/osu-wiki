@@ -1,4 +1,4 @@
-# Tutorial
+# Skinning Tutorial
 
 *See also: [Skinning](/wiki/Skinning).*
 
@@ -32,28 +32,28 @@ The last thing to have ready is patience and a lot of time. Yes, this is very im
 
 ### skin.ini
 
-*See also: [Skinning/Tutorial/skin.ini](/wiki/Skinning/Tutorial/skin.ini).*
+*See also: [Skinning Tutorial/skin.ini](/wiki/Skinning_Tutorial/skin.ini).*
 
 ### Interface
 
-*See also: [Skinning/Tutorial/Interface](/wiki/Skinning/Tutorial/Interface).*
+*See also: [Skinning Tutorial/Interface](/wiki/Skinning_Tutorial/Interface).*
 
 ### osu!standard
 
-*See also: [Skinning/Tutorial/osu!standard](/wiki/Skinning/Tutorial/osu!).*
+*See also: [Skinning Tutorial/osu!standard](/wiki/Skinning_Tutorial/osu!).*
 
 ### osu!taiko
 
-*See also: [Skinning/Tutorial/osu!taiko](/wiki/Skinning/Tutorial/osu!taiko).*
+*See also: [Skinning Tutorial/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko).*
 
 ### osu!catch
 
-*See also: [Skinning/Tutorial/osu!catch](/wiki/Skinning/Tutorial/osu!catch).*
+*See also: [Skinning Tutorial/osu!catch](/wiki/Skinning_Tutorial/osu!catch).*
 
 ### osu!mania
 
-*See also: [Skinning/Tutorial/osu!mania](/wiki/Skinning/Tutorial/osu!mania).*
+*See also: [Skinning Tutorial/osu!mania](/wiki/Skinning_Tutorial/osu!mania).*
 
 ### Sounds
 
-*See also: [Skinning/Tutorial/Sounds](/wiki/Skinning/Tutorial/Sounds).*
+*See also: [Skinning Tutorial/Sounds](/wiki/Skinning_Tutorial/Sounds).*
