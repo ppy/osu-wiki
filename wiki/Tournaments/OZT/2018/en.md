@@ -1,3 +1,8 @@
+---
+tags:
+- OZT 2018
+- OZT2018
+---
 # osu! Z-Tournament 2018
 ![osu!Z-Tournament 2018](logo.png)
 
