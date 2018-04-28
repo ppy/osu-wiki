@@ -2,7 +2,7 @@
 
 *Main page: [Installation](/wiki/Installation).*
 
-This page will roughly tell you how to get osu! working on your Linux device.
+This page will roughly tell you how to get osu! working on your Linux device using Wine.
 
 ## Prerequisite
 
@@ -12,7 +12,7 @@ Before installing osu!, you will need to install Wine first. Find your Linux dis
 
 1.  If you are using 64-bit Arch, enable Multilib. See [Multilib (ArchWiki)](https://wiki.archlinux.org/index.php/multilib) for more information.
 
-2.  Open the terminal and enter as root. Then install `wine`, `winetricks`, `lib32-gnutls`, and `wget`.
+2.  Open the terminal and enter as root. Then install `wine`, `winetricks`, `lib32-gnutls`, and `wget`. `wget` is optional, but this guide will be using it.
 ```
 $ su
 # pacman -S wine winetricks lib32-gnutls wget
