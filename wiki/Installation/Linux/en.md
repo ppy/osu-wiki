@@ -77,7 +77,7 @@ $ chmod +x winetricks
 
 *Warning: Never run wine using the root user or sudo!*
 
-*Note: You may use a different wine prefix folder.* This part of the guide will be using the `~/.wine` folder.
+*Note: A Wine prefix (`WINEPREFIX`) refers to a folder for where your Windows applications and configurations are installed and located. You may use a different Wine prefix.* This part of the guide will be using `~/.wine`.
 
 1.  Once you have installed wine and winetricks, create a wine prefix using the Windows 32-bit architecture and install the .NET 4.5 framework, the core and CJK fonts and gdiplus.
 ```
@@ -117,7 +117,7 @@ $ WINEPREFIX=~/.wine wine '~/.wine/drive_c/Program Files/osu!/osu!install.exe'
 
 10. You can now enjoy playing osu! on Linux!
 
-### Creating a shortcut
+### Starting osu!
 
 To play osu! after you have closed it, you can:
 
@@ -223,7 +223,7 @@ $ rm desound.reg
 
 ### Font hinting issues
 
-To fix this, run the following to fix this:
+To fix this, run the following:
 
 ```
 WINEPREFIX=~/.wine winetricks settings fontsmooth=rgb
@@ -245,6 +245,14 @@ If you are using a tiling window manager (e.g. dwm), fullscreen mode may have pe
 
 ## Troubleshooting
 
+### CJK fonts are squares and icons are missing
+
+Install `cjkfonts` from Winetricks (this will also fix the icons).
+
+```
+$ WINEPREFIX=~/.wine winetricks cjkfonts
+```
+
 ### mscoree.dll is not found!
 
 While installing dotnet45 (and dotnet40), winetricks may, rarely, forget to put an override for this DLL file. To fix this, reinstall dotnet40.
@@ -259,10 +267,85 @@ Limit your FPS.
 
 While osu! is closed, edit your `osu!.{user}.cfg` file and set `CustomFrameLimit` to a value your computer can handle stably. Note that you can use the highest number shown in the fps counter milliseconds of how osu! handles each frame, meaning `FPS = 1000 / {how many milliseconds it takes to render a frame}`
 
-### Red "x" during installation
+### Red "x" images during installation
 
 This issue is common amongst Arch Linux users. This means you have an outdated or missing `lib32-libpng` and `libpng` packages (both 32 and 64-bit). To fix this, simply install or update them.
 
 ```
+$ su
 # pacman -S lib32-libpng libpng
+# exit
 ```
+
+### Updater stuck with no internet connection
+
+This issue is common amongst Arch Linux users. If the osu! updater states that it has no internet connection, make sure you have installed the `lib32-gnutls` package to enable secure connections. To fix this, simply install the `lib32-gnutls` package.
+
+```
+$ su
+# pacman -S lib32-gnutls
+# exit
+```
+
+### Updater stuck in a loop trying to download discord-rpc.dll
+
+If the osu! updater is stuck in a loop trying to download `discord-rpc.dll`, you will need to manually download the [`discord-rpc.dll` file](https://m1.ppy.sh/r/discord-rpc.dll/f_250e4d35ed51ac293527865ca2080c2b) and move it to your osu! installation folder.
+
+```
+$ wget https://m1.ppy.sh/r/discord-rpc.dll/f_250e4d35ed51ac293527865ca2080c2b -o discord-rpc.dll
+$ mv discord-rpc.dll ~/.wine/drive_c/Program Files/osu!/discord-rpc.dll
+```
+
+### osu! was started but nothing shows up
+
+This may rarely be accompanied with high CPU usage. To fix this, you will need to kill the process using either the [kill script](#creating-a-kill-script) or using the following command:
+
+```
+$ WINEPREFIX=~/.wine wineserver -k
+```
+
+### Mouse
+
+#### Acceleration
+
+You can disable mouse acceleration by using the following command:
+
+```
+$ xset m 0 0
+```
+
+To check to see if acceleration is disabled, running:
+
+```
+$ xset q | grep -A 1 Pointer
+```
+
+should output the following:
+
+```
+Pointer Control:
+  acceleration:  0/1    threshold:  0
+```
+
+You could have X.Org execute this on start up by adding the command to your `.xinitrc` file, or use your desktop environment to handle it for you, if your desktop environment allows it.
+
+#### Polling Rate
+
+*Note: You should only do the following if you believe there is some latency or choppyness in your mouse movements. Doing so may increase CPU usage in X.org and FireFox.*
+
+To adjust the mouse polling rate, run the following command:
+
+```
+$ echo "options usbhid mousepoll=1" | sudo tee /etc/modprobe.d/usbhid.conf
+$ sudo rmmod usbhid && sudo modprobe usbhid
+```
+
+*Note: In `mousepoll=1`, the `1` is the interval in milliseconds.* Meaning that `1` is 1000Hz, `2` is 500Hz, and so on. Larger numbers will have your computer poll for the mouse's delta in position more frequently, but can be CPU intensive.
+
+If the second command fails, your computer will no longer listen to any keyboard or mouse inputs until you reboot the computer.
+
+### osu!tablet area and monitor mapping
+
+*Note: This also applies to the Huion H420.*
+
+
