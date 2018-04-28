@@ -58,7 +58,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 
 ---
 
-Don't have a team? You're in the right place! Fill in the [**Free Agent Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSe_QRQlRucnud49Hev5ij18c1f_LM3MNMqOGPzqyWl-jnguew/viewform)! Here, other teams will be able to scout players out, and with the possibly of being picked up.
+Don't have a team? You're in the right place! Fill in the [**Free Agent Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSe_QRQlRucnud49Hev5ij18c1f_LM3MNMqOGPzqyWl-jnguew/viewform)! Here, other teams will be able to scout players out, with the possibly of being picked up.
 
 Be aware that becoming a free agent will **not guarantee a spot for playing in the tournament**.
 
