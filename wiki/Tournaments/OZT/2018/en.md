@@ -6,25 +6,25 @@ tags:
 # osu! Z-Tournament 2018
 ![osu!Z-Tournament 2018](logo.png)
 
-The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted yearly by BearZyo and Div. The osu! Z-Tournament 2018 is the 5th iteration of the Z-Tournament series, the previous iteration could be found here: [osu! Z-Tournament 2017](https://osu.ppy.sh/forum/t/580366).
+The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/forum/t/580366).
 
 ## Links
-- [OZT2018 Discord Server](https://discord.gg/29RmHDQ)
+- [OZT2018 Discord server](https://discord.gg/29RmHDQ)
 - [OZT2018 Twitch stream](https://www.twitch.tv/ztournament)
 - [OZT2018 Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
-- OZT2018 MapPool
-- [OZT2018 osu! Forum Post](https://osu.ppy.sh/forum/t/735631)
+- OZT2018 Map pool
+- [OZT2018 osu! Forum post](https://osu.ppy.sh/forum/t/735631)
 
 ## General Tournament rules
-- Score system: **Scorev2**
-- This tournament will hold up to **64 teams, with 6 players at minimum and 8 players at maximum in each team.**
-- **Group stages will be held round robin style**, afterwards the **Bracket stages will be double elimination**
+- Score system: Scorev2
+- This tournament will hold up to 64 teams, with 6 players at minimum and 8 players at maximum in each team.
+- Group stages will be held round robin style, afterwards the Bracket stages will be double elimination
 - It is **required** that all players join the discord
 - Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed. (Players, team name, etc.)
 - Scheduling must be done before the match, there must be mutual agreement between the teams.
 - Any misconduct will result in a punishment.
-- Any further questions must be forwarded to **[BearZyo](https://osu.ppy.sh/u/6116759) or [Div](https://osu.ppy.sh/u/3751116)**
+- Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/u/6116759) or [**Div**](https://osu.ppy.sh/u/3751116)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
 ## Tournament Schedule
 
@@ -70,17 +70,17 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 ## Staff 
 | Role | Member(s) |
 | ---: | :--- |
-| Host | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) |
-| Co-Host | [![][flag_NZ] Div](https://osu.ppy.sh/u/3751116) |
-| Spreadsheet Management | [![][flag_CA] Meow Mix](https://osu.ppy.sh/u/3021634)
-| Statistician | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759) |
-| Programmer | [![][flag_KR] Eurus](https://osu.ppy.sh/u/3426414) |
-| Media | [![][flag_US] Weed](https://osu.ppy.sh/u/2609349) |
-| Graphics | [![][flag_FI] -Bye](https://osu.ppy.sh/u/4291882) |
-| MapPool | [![][flag_US] Squilly](https://osu.ppy.sh/u/4681578), [![][flag_US] BlackZero](https://osu.ppy.sh/u/5383496), [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143), [![][flag_GB] AlexDark69](https://osu.ppy.sh/u/5146647), [![][flag_SE] Bullen8](https://osu.ppy.sh/u/6831611), [![][flag_SG] Rachel](https://osu.ppy.sh/u/6494160) |
-| Streamers | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759), [![][flag_US] CornLord7117](https://osu.ppy.sh/u/6699829), [![][flag_CA] Sparhten](https://osu.ppy.sh/u/7601720), [![][flag_NL] Sartan](https://osu.ppy.sh/u/4100941) |
-| Commentators | [![][flag_CA] Legless](https://osu.ppy.sh/u/3224243), [![][flag_US] mcdemors](https://osu.ppy.sh/u/5295701), [![][flag_MX] Baskest](https://osu.ppy.sh/u/3963408), [![][flag_NL] Sartan](https://osu.ppy.sh/u/4100941), [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143), [![][flag_US] Weed](https://osu.ppy.sh/u/2609349), [![][flag_GB] AlexDark69](https://osu.ppy.sh/u/5146647),  [![][flag_US] CornLord7117](https://osu.ppy.sh/u/6699829) |
-| Referees | [![][flag_US] BearZyo](https://osu.ppy.sh/u/6116759), [![][flag_NZ] Div](https://osu.ppy.sh/u/3751116), [![][flag_PS] Omaru](https://osu.ppy.sh/u/6574143), [![][flag_CA] Sparhten](https://osu.ppy.sh/u/7601720), [![][flag_CA] Sakaguchi](https://osu.ppy.sh/u/7057311), [![][flag_US] Science](https://osu.ppy.sh/u/5535233), [![][flag_US] motive](https://osu.ppy.sh/u/7376116), [![][flag_GB] Yazzehh](https://osu.ppy.sh/u/7068973), [![][flag_GB] AlexDark69](https://osu.ppy.sh/u/5146647), [![][flag_US] divinereigns](https://osu.ppy.sh/u/9244014), [![][flag_FR] Jean-Michel Jr](https://osu.ppy.sh/u/4430948), [![][flag_LT] Mancis](https://osu.ppy.sh/u/4839300), [![][flag_NL] Mr HeliX](https://osu.ppy.sh/u/2330619), [![][flag_SE] Nitroz](https://osu.ppy.sh/u/5256529), [![][flag_US] BlackZero](https://osu.ppy.sh/u/5383496), [![][flag_DE] Xenou](https://osu.ppy.sh/u/2539403),  [![][flag_US] gummimallow](https://osu.ppy.sh/u/6372755)|
+| Host | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759) |
+| Co-Host | [![][flag_NZ] Div](https://osu.ppy.sh/user/3751116) |
+| Spreadsheet Management | [![][flag_CA] Meow Mix](https://osu.ppy.sh/user/3021634)
+| Statistician | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759) |
+| Programmer | [![][flag_KR] Eurus](https://osu.ppy.sh/user/3426414) |
+| Media | [![][flag_US] Weed](https://osu.ppy.sh/user/2609349) |
+| Graphics | [![][flag_FI] -Bye](https://osu.ppy.sh/user/4291882) |
+| Map pool | [![][flag_US] Squilly](https://osu.ppy.sh/user/4681578), [![][flag_US] BlackZero](https://osu.ppy.sh/user/5383496), [![][flag_PS] Omaru](https://osu.ppy.sh/user/6574143), [![][flag_GB] AlexDark69](https://osu.ppy.sh/user/5146647), [![][flag_SE] Bullen8](https://osu.ppy.sh/user/6831611), [![][flag_SG] Rachel](https://osu.ppy.sh/user/6494160) |
+| Streamers | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759), [![][flag_US] CornLord7117](https://osu.ppy.sh/user/6699829), [![][flag_CA] Sparhten](https://osu.ppy.sh/user/7601720), [![][flag_NL] Sartan](https://osu.ppy.sh/user/4100941) |
+| Commentators | [![][flag_CA] Legless](https://osu.ppy.sh/user/3224243), [![][flag_US] mcdemors](https://osu.ppy.sh/user/5295701), [![][flag_MX] Baskest](https://osu.ppy.sh/user/3963408), [![][flag_NL] Sartan](https://osu.ppy.sh/user/4100941), [![][flag_PS] Omaru](https://osu.ppy.sh/user/6574143), [![][flag_US] Weed](https://osu.ppy.sh/user/2609349), [![][flag_GB] AlexDark69](https://osu.ppy.sh/user/5146647),  [![][flag_US] CornLord7117](https://osu.ppy.sh/user/6699829) |
+| Referees | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759), [![][flag_NZ] Div](https://osu.ppy.sh/user/3751116), [![][flag_PS] Omaru](https://osu.ppy.sh/user/6574143), [![][flag_CA] Sparhten](https://osu.ppy.sh/user/7601720), [![][flag_CA] Sakaguchi](https://osu.ppy.sh/user/7057311), [![][flag_US] Science](https://osu.ppy.sh/user/5535233), [![][flag_US] motive](https://osu.ppy.sh/user/7376116), [![][flag_GB] Yazzehh](https://osu.ppy.sh/user/7068973), [![][flag_GB] AlexDark69](https://osu.ppy.sh/user/5146647), [![][flag_US] divinereigns](https://osu.ppy.sh/user/9244014), [![][flag_FR] Jean-Michel Jr](https://osu.ppy.sh/user/4430948), [![][flag_LT] Mancis](https://osu.ppy.sh/user/4839300), [![][flag_NL] Mr HeliX](https://osu.ppy.sh/user/2330619), [![][flag_SE] Nitroz](https://osu.ppy.sh/user/5256529), [![][flag_US] BlackZero](https://osu.ppy.sh/user/5383496), [![][flag_DE] Xenou](https://osu.ppy.sh/user/2539403),  [![][flag_US] gummimallow](https://osu.ppy.sh/user/6372755)|
 
 [flag_LT]: /wiki/shared/flag/LT.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
