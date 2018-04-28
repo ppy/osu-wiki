@@ -38,13 +38,13 @@ There are two things to take into account for when you design the playfield elem
 
 ### Margins
 
-Since in osu!, the playfield is always 4:3, it possible to place an image on the left and right sides of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
+Since the playfield is always 4:3, it possible to place an image on the left and right margins of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
 
 ---
 
 ![](img/margin-4-3.jpg "The playfield in 4:3 ratio aspect (no margins)")
 
-In 4:3, there are no margins, thus there is really no where else to place an image anywhere without having to go inside the playfield.
+In 4:3, there are no margins. Thus there is really no where else to place an image anywhere without having to go inside the playfield.
 
 ---
 
