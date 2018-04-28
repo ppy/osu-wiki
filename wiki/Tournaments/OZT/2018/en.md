@@ -4,7 +4,7 @@ tags:
 - OZT2018
 ---
 # osu! Z-Tournament 2018
-![osu!Z-Tournament 2018](logo.png)
+![osu!Z-Tournament 2018](OZT2018.png)
 
 The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/forum/t/580366).
 
