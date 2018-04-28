@@ -16,7 +16,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - OZT2018 Map pool
 - [OZT2018 osu! Forum post](https://osu.ppy.sh/forum/t/735631)
 
-## General Tournament rules
+## General tournament rules
 - Score system: Scorev2
 - This tournament will hold up to 64 teams, with 6 players at minimum and 8 players at maximum in each team.
 - Group stages will be held round robin style, afterwards the Bracket stages will be double elimination
@@ -26,7 +26,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - Any misconduct will result in a punishment.
 - Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/u/6116759) or [**Div**](https://osu.ppy.sh/u/3751116)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
 | ---: | :--- |
@@ -72,7 +72,7 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 | ---: | :--- |
 | Host | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759) |
 | Co-Host | [![][flag_NZ] Div](https://osu.ppy.sh/user/3751116) |
-| Spreadsheet Management | [![][flag_CA] Meow Mix](https://osu.ppy.sh/user/3021634)
+| Spreadsheet management | [![][flag_CA] Meow Mix](https://osu.ppy.sh/user/3021634)
 | Statistician | [![][flag_US] BearZyo](https://osu.ppy.sh/user/6116759) |
 | Programmer | [![][flag_KR] Eurus](https://osu.ppy.sh/user/3426414) |
 | Media | [![][flag_US] Weed](https://osu.ppy.sh/user/2609349) |
