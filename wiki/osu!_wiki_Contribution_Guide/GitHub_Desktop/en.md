@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
+*Main page: [osu! wiki Contribution Guide](/wiki/owcg).*
 
 *This article continues from the main page* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
@@ -102,4 +102,4 @@ For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image
 
 ## Finishing
 
-You can now go back to the [osu!wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+You can now go back to the [osu! wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.

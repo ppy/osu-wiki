@@ -44,8 +44,8 @@ Modding adalah proses pengguna meninjau (atau biasa disebut "modders") beatmap p
 
 Skinning memungkinkan siapapun untuk mengubah tampilan osu!. Hal ini bisa sekecil mengubah kursor atau sebesar membuat ulang tampilan semua mode permainan dan antarmuka.
 
-## osu!wiki - Bagaimana anda bisa membantu!
+## osu! wiki - Bagaimana anda bisa membantu!
 
-Semenjak 26-08-2016, osu!wiki telah dipindahkan ke repositori GitHub. Setelah perubahan ini, alur kerjanya telah berubah drastis. Semua kontribusi sekarang akan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau sebelum disetujui dan diimplementasikan ke osu!wiki.
+Semenjak 26-08-2016, osu! wiki telah dipindahkan ke repositori GitHub. Setelah perubahan ini, alur kerjanya telah berubah drastis. Semua kontribusi sekarang akan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau sebelum disetujui dan diimplementasikan ke osu! wiki.
 
-Untuk memulai, lihat [Panduan Kontribusi osu!wiki](/wiki/owcg).
+Untuk memulai, lihat [Panduan Kontribusi osu! wiki](/wiki/owcg).
