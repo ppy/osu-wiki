@@ -171,7 +171,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [captin1](/users/689997) to the QAT (2014-08-21)
 -   Moved Deif to the QAT (2014-08-21)
 -   Moved [Garven](/users/244216) to the QAT (2014-08-21)
--   Moved [Irreversible](https://new.ppy.sh/users/1287964) to the QAT (2014-08-21)
+-   Moved [Irreversible](/users/1287964) to the QAT (2014-08-21)
 -   Moved [kanpakyin](/users/394326) to the QAT (2014-08-21)
 -   Moved [Krah](/users/1436748) to the QAT (2014-08-21)
 -   Moved [Loctav](/users/71366) to the QAT (2014-08-21)
@@ -615,7 +615,7 @@ All users listed below were added on 2015-10-02.
 
 -   Added [Nishiji](/users/167629) to the Global Moderation Team (2016-01-03)
 -   Moved Nyquill to the Global Moderation Team (2016-01-03)
--   Moved [Irreversible](https://new.ppy.sh/users/1287964) to the osu! Alumni (2016-01-25)
+-   Moved [Irreversible](/users/1287964) to the osu! Alumni (2016-01-25)
 -   Moved [alacat](/users/869782) to the osu! Alumni (2016-01-29)
 
 #### New BN additions
@@ -629,7 +629,7 @@ All users listed below were added on 2015-10-02.
 
 ### February
 
--   Moved [Irreversible](https://new.ppy.sh/users/1287964) to the Quality Assurance Team (2016-02-20)
+-   Moved [Irreversible](/users/1287964) to the Quality Assurance Team (2016-02-20)
 -   Moved [Galkan](/users/169570) to the Global Moderation Team (2016-02-20)
 -   Moved [Guy](/users/91738) to the osu! Alumni (2016-02-25)
 
@@ -963,7 +963,7 @@ All users listed below were added on 2017-12-11.
 -   Moved [Darksonic](/users/570042) to the Global Moderation Team (2018-02-13)
 -   Moved [Uni](/users/617106) to the osu! Alumni (2018-02-20)
 -   Moved [\[ Another \]](/users/3416573) to the osu! Alumni (2018-02-20)
--   Removed [Irreversible](https://new.ppy.sh/users/1287964) from the Quality Assurance Team (2018-02-27)
+-   Removed [Irreversible](/users/1287964) from the Quality Assurance Team (2018-02-27)
 
 #### BN removals
 
