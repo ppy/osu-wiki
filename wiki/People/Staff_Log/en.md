@@ -22,7 +22,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 ### January
 
 -   Added [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-01-01)
--   Added [TKS](/users/940878) as Taiko BAT (2014-01-04)
+-   Added [TKS](/users/940878) as osu!taiko BAT (2014-01-04)
 -   Readded [Teara](/users/123491) as BAT (2014-01-05)
 -   Added [shARPII](/users/776257) as Chat Moderator (2014-01-16)
 -   Added [Stickie] as Chat Moderator (2014-01-16)
@@ -90,7 +90,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [La Cataline](/users/301279) to Alumni (2014-04-15)
 -   Moved [senaya](/users/304103) to Alumni (2014-04-15)
 -   Moved [Sushi](/users/43108) to Alumni (2014-04-15)
--   Added [Love](/users/467487) to Taiko BAT (2014-04-21)
+-   Added [Love](/users/467487) to osu!taiko BAT (2014-04-21)
 -   Added [Xytox](/users/2229274) to Chat Moderator (2014-04-21)
 -   Moved [Pokie](/users/207340) to the GMT (2014-04-22)
 -   Moved [Darksonic](/users/570042) to Alumni (2014-04-24)
