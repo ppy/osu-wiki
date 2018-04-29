@@ -25,7 +25,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Added [TKS](/users/940878) as osu!taiko BAT (2014-01-04)
 -   Readded [Teara](/users/123491) as BAT (2014-01-05)
 -   Added [shARPII](/users/776257) as Chat Moderator (2014-01-16)
--   Added [Stickie] as Chat Moderator (2014-01-16)
+-   Added [Stickie](/users/1248732) as Chat Moderator (2014-01-16)
 -   Removed [Gabe](/users/654108) as BAT (2014-01-17)
 -   Added [Krah](/users/1436748) as CtB BAT (2014-01-20)
 -   Readded [dkun](/users/154400) as BAT (2014-01-20)
@@ -110,7 +110,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Added [Atrue](/users/1758523) to the BAT (2014-05-06)
 -   Readded [Kenezz](/users/167050) to the BAT (2014-05-06)
 -   Moved [Shiro](/users/113005) to the BAT (2014-05-08)
--   Moved Byakugan249 to Alumni (2014-05-11)
+-   Moved [Byakugan249](/users/660484) to Alumni (2014-05-11)
 -   Moved [Strawberry](/users/519978) to Alumni (2014-05-11)
 -   Removed [Krah](/users/1436748) as BAT (2014-05-11)
 -   Moved [MMzz](/users/128993) to the BAT (2014-05-15)
@@ -195,7 +195,7 @@ All users listed below were added on 2014-08-24.
 
 -   Added [arcwinolivirus](/users/2039089) to the BAT
 -   Added [-Bakari-](/users/597957) to the BAT
--   Added CDFA to the BAT
+-   Added [CDFA](/users/135630) to the BAT
 -   Added [Cherry Blossom](/users/1156742) to the BAT
 -   Added [Delis](/users/1603923) to the BAT
 -   Added [Desperate-kun](/users/2202645) to the BAT
@@ -203,7 +203,7 @@ All users listed below were added on 2014-08-24.
 -   Added [Flask](/users/959763) to the BAT
 -   Added [Flower](/users/1033017) to the BAT
 -   Added [Fycho](/users/1876867) to the BAT
--   Added \_Gezo\_ to the BAT
+-   Added [\_Gezo\_](/users/481582) to the BAT
 -   Added [Hinsvar](/users/1249323) to the BAT
 -   Added [Kyshiro](/users/640611) to the BAT
 -   Added [Lanturn](/users/1446665) to the BAT
@@ -232,7 +232,7 @@ All users listed below were added on 2014-08-30.
 -   Added [Low](/users/976963) to the BAT
 -   Added [Satellite](/users/1661227) to the BAT
 -   Added [Secretpipe](/users/2208964) to the BAT
--   Added Simple_Star to the BAT
+-   Added [Simple_Star](/users/2300597) to the BAT
 -   Added [Spy](/users/1217122) to the BAT
 -   Added [Tari](/users/1779172) to the BAT
 -   Added [those](/users/557166) to the BAT
@@ -242,7 +242,7 @@ All users listed below were added on 2014-08-30.
 
 -   Moved [Gabe](/users/654108) to the BAT (2014-09-02)
 -   Moved [FrostxE](/users/199669) to the QAT (2014-09-05)
--   Added XavierJones the Chat Moderators (2014-09-08)
+-   Added [XavierJones](/users/495733) the Chat Moderators (2014-09-08)
 -   Moved [Card N'FoRcE](/users/3936) to the Alumni (2014-09-11)
 -   Moved [Asphyxia](/users/1715720) to the QAT (2014-09-20)
 -   Moved [captin1](/users/689997) to the BAT (2014-09-20)
@@ -299,7 +299,7 @@ All users listed below were added on 2014-11-22.
 -   Added [Gamu](/users/611174) to the Beatmap Appreciation Team
 -   Added [Hollow Wings](/users/416662) to the Beatmap Appreciation Team
 -   Added [Kenterz](/users/1587976) to the Beatmap Appreciation Team
--   Added [Minakami Yuki](/users/10957873) to the Beatmap Appreciation Team
+-   Added [Minakami Yuki](/users/2433507) to the Beatmap Appreciation Team
 -   Added [Nwolf](/users/1910766) to the Beatmap Appreciation Team
 -   Added [pishifat](/users/3178418) to the Beatmap Appreciation Team
 -   Added [Rakuen](/users/2426126) to the Beatmap Appreciation Team
@@ -355,19 +355,19 @@ All users listed below were added on 2014-12-02.
 
 All users listed below were added on 2015-01-03.
 
--   Added \[ S a k u r a \] to the Beatmap Appreciation Team
+-   Added [\[ S a k u r a \]](/users/3653042) to the Beatmap Appreciation Team
 -   Added [Andrea](/users/33599) to the Beatmap Appreciation Team
 -   Added [BeatofIke](/users/1103522) to the Beatmap Appreciation Team
 -   Added [CloudSplash16](/users/2099102) to the Beatmap Appreciation Team
 -   Added [\[CSGA\]Ar3sgice](/users/989563) to the Beatmap Appreciation Team
 -   Added [DE-CADE](/users/3734394) to the Beatmap Appreciation Team
--   Added Inyuschan to the Beatmap Appreciation Team
+-   Added [Inyuschan](/users/1721995) to the Beatmap Appreciation Team
 -   Added [Momochikun](/users/2032824) to the Beatmap Appreciation Team
 -   Added [Okoratu](/users/1623405) to the Beatmap Appreciation Team
 -   Added [OniJAM](/users/961752) to the Beatmap Appreciation Team
 -   Added [Pereira006](/users/537344) to the Beatmap Appreciation Team
 -   Added [Pho](/users/3624692) to the Beatmap Appreciation Team
--   Added pieguy1372 to the Beatmap Appreciation Team
+-   Added [pieguy1372](/users/107485) to the Beatmap Appreciation Team
 -   Added [Sonnyc](/users/11771) to the Beatmap Appreciation Team
 -   Added [Xgor](/users/98661) to the Beatmap Appreciation Team
 
@@ -426,9 +426,9 @@ All users listed below were added on 2015-02-06.
 -   [LordRaika](/users/3265023)
 -   [LexiaLovesU](/users/1710462)
 -   [Kuo Kyoka](/users/2596306)
--   Kodora
+-   [Kodora](/users/8596)
 -   [koreapenguin](/users/1458069)
--   Kawaiwkyik
+-   [Kawaiwkyik](/users/1367570)
 -   [Ichigaki](/users/2403444)
 -   [HelloSCV](/users/798743)
 -   [HabiHolic](/users/1974436)
@@ -449,7 +449,7 @@ All users listed below were added on 2015-02-06.
 
 All users listed below were added on 2015-03-03.
 
--   Static Noise Bird
+-   [Static Noise Bird](/users/826132)
 -   [Lally](/users/1262490)
 -   [-Nya-](/users/1293097)
 -   [Harbyter](/users/1147679)
@@ -460,14 +460,14 @@ All users listed below were added on 2015-03-03.
 -   [Genocide](/users/6477309)
 -   [CelsiusLK](/users/1409012)
 -   [ZZHBOY](/users/1565739)
--   Gray Veyron
--   \_S u w a k o\_
--   sheela901
--   \[GraveChaos\]
--   \[Shana Lesus\]
+-   [Gray Veyron](/users/1886524)
+-   [\_S u w a k o\_](/users/2786984)
+-   [sheela901](/users/1138027)
+-   [\[GraveChaos\]](/users/3009472)
+-   [\[Shana Lesus\]](/users/2881789)
 -   [handsome](/users/2123087)
--   Zan -
--   Z3nx
+-   [Zan -](/users/1411817)
+-   [Z3nx](/users/2193881)
 -   [RuberusuScarlet](/users/2534632)
 
 ### April
@@ -486,7 +486,7 @@ All users listed below were added on 2015-03-03.
 
 All users listed below were added on 2015-04-06.
 
--   ByBy_ChAn
+-   [ByBy_ChAn](/users/3436326)
 -   [Blocko](/users/4075092)
 -   [Krfawy](/users/1478292)
 -   [sukiNathan](/users/4785223)
@@ -544,9 +544,9 @@ All users listed below were added on 2015-06-15.
 
 All users listed below were added on 2015-07-19.
 
--   Added Mako Sakata to the Beatmap Nomination Group (2015-07-19)
+-   Added [Mako Sakata](/users/1857063) to the Beatmap Nomination Group (2015-07-19)
 -   Added [OzzyOzrock](/users/465153) to the Beatmap Nomination Group (2015-07-19)
--   Added Baraatje123 to the Beatmap Nomination Group (2015-07-19)
+-   Added [Baraatje123](/users/2533040) to the Beatmap Nomination Group (2015-07-19)
 -   Added [monstrata](/users/2706438) to the Beatmap Nomination Group (2015-07-19)
 -   Added [Milan-](/users/1052994) to the Beatmap Nomination Group (2015-07-19)
 
@@ -644,7 +644,7 @@ All users listed below were added on 2015-10-02.
 All users listed below were added on 2016-03-07.
 
 -   [Nozhomi](/users/2716981)
--   [[Sonnyc](/users/11771)](/users/11771)
+-   [Sonnyc](/users/11771)
 -   [Regraz](/users/3076909)
 -   [Bonsai](/users/987334)
 -   [Kibbleru](/users/3193504)
@@ -746,9 +746,9 @@ All users listed below were added on 2016-11-04.
 
 -   [Absolute Zero](/users/4847256)
 -   [-Sh1n1-](/users/1957638)
--   DixonBlackwing
+-   [DixonBlackwing](/users/4335785)
 -   [juankristal](/users/443656)
--   SanadaYukimura
+-   [SanadaYukimura](/users/2633753)
 -   [Protastic101](/users/6712747)
 -   [Dellvangel](/users/5186244)
 -   [Rivals_7](/users/4610379)
