@@ -62,7 +62,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | Canada    | ![][flag_CA] | ![][flag_KR] | South Korea   | **2:00 UTC**  | 22:00 (Sat) UTC -4 | 11:00 UTC +9       | ² |
 | Indonesia | ![][flag_ID] | ![][flag_US] | United States | **3:30 UTC**  | 10:30 UTC +7       | 20:30 (Sat) UTC -7 | ² |
-| Japan       | ![][flag_JP] | ![][flag_TW] | Taiwan        | **10:00 UTC**  | 19:00 UTC +9 | 18:00 UTC +8 | ¹ |
+| Japan       | ![][flag_JP] | ![][flag_TW] | Taiwan        | **12:30 UTC**  | 21:30 UTC +9 | 20:30 UTC +8 | ¹ |
 | Canada      | ![][flag_CA] | ![][flag_ID] | Indonesia     | **14:00 UTC**  | 10:00 UTC -4 | 21:00 UTC +7 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **14:00 UTC**  | 23:00 UTC +9 | 21:00 UTC +7 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | **14:00 UTC**  | 23:00 UTC +9 | 7:00  UTC -7 | ³ |
