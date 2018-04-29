@@ -36,8 +36,8 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved MMzz to Alumni (2014-01-21)
 -   Moved [Sync](/users/806921) to Alumni (2014-01-21)
 -   Moved those to Alumni (2014-01-21)
--   Moved [YGOKid8](/users/users/69114) to Alumni (2014-01-21)
--   Readded [YGOKid8](/users/users/69114) as BAT (2014-01-23)
+-   Moved [YGOKid8](/users/69114) to Alumni (2014-01-21)
+-   Readded [YGOKid8](/users/69114) as BAT (2014-01-23)
 -   Moved [Sakura](/users/289422) to Alumni (2014-01-24)
 -   Moved [Kurai](/users/77089) to GMT (2014-01-25)
 -   Added HelloSCV as BAT (2014-01-27)
@@ -131,7 +131,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved FrostxE to Alumni (2014-06-15)
 -   Readded [Krah](/users/1436748) as CtB BAT (2014-06-16)
 -   Readded [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-06-17)
--   Moved [YGOkid8](/users/users/69114) to Alumni (2014-06-18)
+-   Moved [YGOkid8](/users/69114) to Alumni (2014-06-18)
 -   Added ExPew as osu!mania BAT (2014-06-23)
 -   Added [Oinari-Sama](/users/405508) to Support Team and Chat Moderators (2014-06-29)
 
@@ -151,7 +151,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [CXu](/users/84841) to the Alumni (2014-07-24)
 -   Moved Drafura to the Alumni (2014-07-24)
 -   Moved [Lissette](/users/326099) to the Alumni (2014-07-24)
--   Moved [Kawayi Rika](users/596298) to the Alumni (2014-07-24)
+-   Moved [Kawayi Rika](/users/596298) to the Alumni (2014-07-24)
 -   Moved [Melophobia](/users/1077845) to the Alumni (2014-07-24)
 -   Moved Nyquill to the Alumni (2014-07-24)
 -   Moved [Kurai](/users/77089) to the Alumni (2014-07-25)
@@ -182,7 +182,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [NoHitter](/users/124455) to the BAT (2014-08-22)
 -   Moved [narakucrimson](/users/287468) to the BAT (2014-08-22)
 -   Moved [happy30](/users/27767) to the BAT (2014-08-22)
--   Moved [Kawayi Rika](users/596298) to the BAT (2014-08-23)
+-   Moved [Kawayi Rika](/users/596298) to the BAT (2014-08-23)
 -   Moved -kevincela- to the BAT (2014-08-23)
 -   Moved [Gonzvlo](/users/237733) to the BAT (2014-08-24)
 -   Moved [Krisom](/users/99269) to the BAT (2014-08-24)
@@ -218,7 +218,7 @@ All users listed below were added on 2014-08-24.
 -   Added Rumia- to the BAT
 -   Added Sey to the BAT
 -   Added Spectator to the BAT
--   Added [TicClick](users/672931) to the BAT
+-   Added [TicClick](/users/672931) to the BAT
 -   Added UnitedWeSin to the BAT
 
 ---
@@ -246,7 +246,7 @@ All users listed below were added on 2014-08-30.
 -   Moved [Card N'FoRcE](/users/3936) to the Alumni (2014-09-11)
 -   Moved [Asphyxia](/users/1715720) to the QAT (2014-09-20)
 -   Moved [captin1](/users/689997) to the BAT (2014-09-20)
--   Moved [TicClick](users/672931) to the QAT (2014-09-20)
+-   Moved [TicClick](/users/672931) to the QAT (2014-09-20)
 -   Moved [ztrot](/users/6347) to the BAT (2014-09-20)
 -   Removed mintong89 from the BAT (2014-09-23)
 
@@ -473,9 +473,9 @@ All users listed below were added on 2015-03-03.
 ### April
 
 -   Moved [TKS](/users/940878) to the osu! Alumni (2015-04-01)
--   Moved [Kawayi Rika](users/596298) to the osu! Alumni (2015-04-01)
+-   Moved [Kawayi Rika](/users/596298) to the osu! Alumni (2015-04-01)
 -   Moved [QHideaki13](/users/733998) to the Chat Moderators (2015-04-02)
--   Removed [TicClick](users/672931) from the Quality Assurance Team (2015-04-16)
+-   Removed [TicClick](/users/672931) from the Quality Assurance Team (2015-04-16)
 -   Moved [Tasha](/users/1031958) to the Global Moderation Team (2015-04-18)
 -   Removed [Andrea](/users/33599) from the Global Moderation Team (2015-04-27)
 -   Moved [Fycho](/users/1876867) to the Quality Assurance Team (2015-04-30)
