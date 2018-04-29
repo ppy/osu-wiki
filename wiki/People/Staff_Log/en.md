@@ -33,28 +33,28 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Removed [HeatKai](/users/332555) as BAT (2014-01-21)
 -   Moved [jericho2442](/users/88904) to Alumni (2014-01-21)
 -   Moved [lolcubes](/users/578401) to Alumni (2014-01-21)
--   Moved MMzz to Alumni (2014-01-21)
+-   Moved [MMzz](/users/128993) to Alumni (2014-01-21)
 -   Moved [Sync](/users/806921) to Alumni (2014-01-21)
 -   Moved those to Alumni (2014-01-21)
 -   Moved [YGOKid8](/users/69114) to Alumni (2014-01-21)
 -   Readded [YGOKid8](/users/69114) as BAT (2014-01-23)
 -   Moved [Sakura](/users/289422) to Alumni (2014-01-24)
 -   Moved [Kurai](/users/77089) to GMT (2014-01-25)
--   Added HelloSCV as BAT (2014-01-27)
+-   Added [HelloSCV](/users/798743) as BAT (2014-01-27)
 
 ### February
 
 -   Readded [Gabe](/users/654108) to BAT (2014-02-02)
--   Readded Blue Dragon to BAT (2014-02-03)
+-   Readded [Blue Dragon](/users/19048) to BAT (2014-02-03)
 -   Readded Low to BAT (2014-02-03)
 -   Moved [KSHR](/users/409957) to the BAT (2014-02-07)
 -   Moved [Marcin](/users/722665) to the GMT (2014-02-07)
--   Added BeatofIke to BAT (2014-02-07)
+-   Added [BeatofIke](/users/1103522) to BAT (2014-02-07)
 -   Added [Zero\_\_wind](/users/1822830) to BAT (2014-02-07)
 -   Moved [kanpakyin](/users/394326) to Alumni (2014-02-07)
 -   Moved [lolcubes](/users/578401) to BAT (2014-02-10)
 -   Moved [Dangaard](/users/19488) to Alumni (2014-02-15)
--   Moved LoliFlan to Alumni (2014-02-15)
+-   Moved [LoliFlan](/users/447818) to Alumni (2014-02-15)
 -   Added [Kitokofox](/users/1815420) to Chat Moderator (2014-02-22)
 -   Added [Nathanael](/users/2295078) to Support Team (2014-02-23)
 -   Added Loneight to Chat Moderator (2014-02-23)
@@ -63,13 +63,13 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [narakucrimson](/users/287468) to Alumni (2014-02-24)
 -   Moved [NatsumeRin](/users/151679) to Alumni (2014-02-24)
 -   Moved [Nymph](/users/601990) to Alumni (2014-02-24)
--   Moved wcx19911123 to Alumni (2014-02-24)
+-   Moved [wcx19911123](/users/376831) to Alumni (2014-02-24)
 -   Added [mtmcl](/users/5960) to Alumni (2014-02-24)
 
 ### March
 
 -   Readded [Chewin](/users/617323) as BAT (2014-03-06)
--   Removed HelloSCV as BAT (2014-03-13)
+-   Removed [HelloSCV](/users/798743) as BAT (2014-03-13)
 -   Moved [ljqandylee](/users/141469) to Alumni (2014-03-17)
 -   Added [h3k1ru](/users/291211) as Chat Moderator (2014-03-19)
 -   Added [Stefan](/users/626907) as Chat Moderator (2014-03-28)
@@ -100,7 +100,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Added [Asphyxia](/users/1715720) to the BAT (2014-05-03)
 -   Moved [Leader](/users/631530) to the BAT (2014-05-03)
 -   Moved [Andrea](/users/33599) to the GMT (2014-05-04)
--   Removed Blue Dragon as BAT (2014-05-04)
+-   Removed [Blue Dragon](/users/19048) as BAT (2014-05-04)
 -   Added Trust to the BAT (2014-05-04)
 -   Added [captin1](/users/689997) to the BAT (2014-05-04)
 -   Readded [kanpakyin](/users/394326) to the BAT (2014-05-04)
@@ -108,27 +108,27 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Added [Guy](/users/91738) to the BAT (2014-05-04)
 -   Moved [Gabe](/users/654108) to the GMT (2014-05-05)
 -   Added [Atrue](/users/1758523) to the BAT (2014-05-06)
--   Readded [Kenezz](167050) to the BAT (2014-05-06)
+-   Readded [Kenezz](/users/167050) to the BAT (2014-05-06)
 -   Moved [Shiro](/users/113005) to the BAT (2014-05-08)
 -   Moved Byakugan249 to Alumni (2014-05-11)
 -   Moved [Strawberry](/users/519978) to Alumni (2014-05-11)
 -   Removed [Krah](/users/1436748) as BAT (2014-05-11)
--   Moved MMzz to the BAT (2014-05-15)
+-   Moved [MMzz](/users/128993) to the BAT (2014-05-15)
 -   Added Cookie to Chat Moderators (2014-05-16)
 -   Added [Maeglwn](/users/2440936) to Chat Moderators (2014-05-16)
 -   Readded [Pereira006](/users/537344) to Chat Moderators (2014-05-16)
 -   Readded KanaRin to the BAT (2014-05-16)
--   Readded wcx19911123 to the BAT (2014-05-19)
+-   Readded [wcx19911123](/users/376831) to the BAT (2014-05-19)
 -   Added [Nathanael](/users/2295078) as Chat Moderator (2014-05-21)
 
 ### June
 
 -   Readded [Nymph](/users/601990) to the BAT (2014-06-03)
 -   Moved [\[Shi-Ra\]](/users/2008489) to Alumni (2014-06-07)
--   Readded LoliFlan to Chat Moderators (2014-06-11)
+-   Readded [LoliFlan](/users/447818) to Chat Moderators (2014-06-11)
 -   Moved [Kytoxid](/users/98460) to Alumni (2014-06-12)
 -   Moved [ZHSteven](/users/142413) to Alumni (2014-06-12)
--   Moved FrostxE to Alumni (2014-06-15)
+-   Moved [FrostxE](/users/199669) to Alumni (2014-06-15)
 -   Readded [Krah](/users/1436748) as CtB BAT (2014-06-16)
 -   Readded [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-06-17)
 -   Moved [YGOkid8](/users/69114) to Alumni (2014-06-18)
@@ -138,7 +138,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 ### July
 
 -   Added [Ukami](/users/820865) to Chat Moderators (2014-07-07)
--   Added Blue Dragon to Chat Moderators (2014-07-16)
+-   Added [Blue Dragon](/users/19048) to Chat Moderators (2014-07-16)
 -   Moved [Aleks719](/users/360176) to the BAT (2014-07-21)
 -   Moved [Nathanael](/users/2295078) to the GMT (2014-07-22)
 -   Moved [kingking9](/users/1277097) to the Alumni (2014-07-22)
@@ -147,13 +147,13 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [Dragvon](/users/126927) to the Alumni (2014-07-22)
 -   Moved [Gabe](/users/654108) to the Alumni (2014-07-22)
 -   Moved [XPJ38](/users/273531) to the Alumni (2014-07-22)
--   Moved -kevincela- to the Alumni (2014-07-24)
+-   Moved [-kevincela-](/users/266596) to the Alumni (2014-07-24)
 -   Moved [CXu](/users/84841) to the Alumni (2014-07-24)
 -   Moved Drafura to the Alumni (2014-07-24)
 -   Moved [Lissette](/users/326099) to the Alumni (2014-07-24)
 -   Moved [Kawayi Rika](/users/596298) to the Alumni (2014-07-24)
 -   Moved [Melophobia](/users/1077845) to the Alumni (2014-07-24)
--   Moved Nyquill to the Alumni (2014-07-24)
+-   Moved [Nyquill](/users/682935) to the Alumni (2014-07-24)
 -   Moved [Kurai](/users/77089) to the Alumni (2014-07-25)
 -   Readded [Strawberry](/users/519978) to the BAT (2014-07-25)
 -   Added [ErunamoJAZZ](/users/1869764) to the Chat Moderators (2014-07-29)
@@ -162,20 +162,20 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 
 ### August
 
--   Added CLSW to the CtB BATs (2014-08-10)
+-   Added [CLSW](/users/531253) to the CtB BATs (2014-08-10)
 -   Added AnataNoBaka to the Chat Moderators (2014-08-11)
--   Moved Charles445 to the QAT (2014-08-21)
+-   Moved [Charles445](/users/85000) to the QAT (2014-08-21)
 -   Moved [KSHR](/users/409957) to the QAT (2014-08-21)
 -   Moved [p3n](/users/123703) to the QAT (2014-08-21)
 -   Moved [Aleks719](/users/360176) to the QAT (2014-08-21)
 -   Moved [captin1](/users/689997) to the QAT (2014-08-21)
--   Moved Deif to the QAT (2014-08-21)
+-   Moved [Deif](/users/318565) to the QAT (2014-08-21)
 -   Moved [Garven](/users/244216) to the QAT (2014-08-21)
 -   Moved [Irreversible](/users/1287964) to the QAT (2014-08-21)
 -   Moved [kanpakyin](/users/394326) to the QAT (2014-08-21)
 -   Moved [Krah](/users/1436748) to the QAT (2014-08-21)
 -   Moved [Loctav](/users/71366) to the QAT (2014-08-21)
--   Moved MMzz to the QAT (2014-08-21)
+-   Moved [MMzz](/users/128993) to the QAT (2014-08-21)
 -   Moved [OnosakiHito](/users/290128) to the QAT (2014-08-21)
 -   Moved [Shiro](/users/113005) to the QAT (2014-08-21)
 -   Moved [\[Shi-Ra\]](/users/2008489) to the QAT (2014-08-21)
@@ -183,7 +183,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [narakucrimson](/users/287468) to the BAT (2014-08-22)
 -   Moved [happy30](/users/27767) to the BAT (2014-08-22)
 -   Moved [Kawayi Rika](/users/596298) to the BAT (2014-08-23)
--   Moved -kevincela- to the BAT (2014-08-23)
+-   Moved [-kevincela-](/users/266596) to the BAT (2014-08-23)
 -   Moved [Gonzvlo](/users/237733) to the BAT (2014-08-24)
 -   Moved [Krisom](/users/99269) to the BAT (2014-08-24)
 -   Moved [Melophobia](/users/1077845) to the BAT (2014-08-24)
@@ -194,12 +194,12 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 All users listed below were added on 2014-08-24.
 
 -   Added arcwinolivirus to the BAT
--   Added -Bakari- to the BAT
+-   Added [-Bakari-](/users/597957) to the BAT
 -   Added CDFA to the BAT
--   Added Cherry Blossom to the BAT
+-   Added [Cherry Blossom](/users/1156742) to the BAT
 -   Added [Delis](/users/1603923) to the BAT
--   Added Desperate-kun to the BAT
--   Added EvilElvis to the BAT
+-   Added [Desperate-kun](/users/2202645) to the BAT
+-   Added [EvilElvis](/users/1848318) to the BAT
 -   Added Flask to the BAT
 -   Added Flower to the BAT
 -   Added [Fycho](/users/1876867) to the BAT
@@ -241,7 +241,7 @@ All users listed below were added on 2014-08-30.
 ### September
 
 -   Moved [Gabe](/users/654108) to the BAT (2014-09-02)
--   Moved FrostxE to the QAT (2014-09-05)
+-   Moved [FrostxE](/users/199669) to the QAT (2014-09-05)
 -   Added XavierJones the Chat Moderators (2014-09-08)
 -   Moved [Card N'FoRcE](/users/3936) to the Alumni (2014-09-11)
 -   Moved [Asphyxia](/users/1715720) to the QAT (2014-09-20)
@@ -270,7 +270,7 @@ All users listed below were added on 2014-09-17.
 -   Removed Trust from the Beatmap Appreciation Team (2014-10-04)
 -   Moved Spy to the Quality Assurance Team (2014-10-08)
 -   Moved [Chewin](/users/617323) to the osu! Alumni (2014-10-19)
--   Removed wcx19911123 from the Beatmap Appreciation Team (2014-10-22)
+-   Removed [wcx19911123](/users/376831) from the Beatmap Appreciation Team (2014-10-22)
 -   Moved [Kurai](/users/77089) to the osu! Alumni (2014-10-28)
 -   Moved [Sakura](/users/289422) to the Global Moderation Team (2014-10-28)
 -   Moved [Sakura](/users/289422) to the Beatmap Appreciation Team (2014-10-31)
@@ -336,7 +336,7 @@ All users listed below were added on 2014-12-02.
 -   Added Leorda to the Beatmap Appreciation Team
 -   Added lkx_shore to the Beatmap Appreciation Team
 -   Added [Sieg](/users/1404615) to the Beatmap Appreciation Team
--   Added wcx19911123 to the Beatmap Appreciation Team
+-   Added [wcx19911123](/users/376831) to the Beatmap Appreciation Team
 -   Added xxdeathx to the Beatmap Appreciation Team
 
 ## 2015
@@ -348,8 +348,8 @@ All users listed below were added on 2014-12-02.
 -   Moved [NoHitter](/users/124455) to the osu! Alumni (2015-01-03)
 -   Moved PROGUY to the osu! Alumni (2015-01-07)
 -   Removed ursa from the Quality Assurance Team (2015-01-14)
--   Moved CLSW to the Quality Assurance Team (2015-01-26)
--   Moved FrostxE to the Global Moderation Team (2015-01-27)
+-   Moved [CLSW](/users/531253) to the Quality Assurance Team (2015-01-26)
+-   Moved [FrostxE](/users/199669) to the Global Moderation Team (2015-01-27)
 
 #### New BAT additions
 
@@ -357,7 +357,7 @@ All users listed below were added on 2015-01-03.
 
 -   Added \[ S a k u r a \] to the Beatmap Appreciation Team
 -   Added [Andrea](/users/33599) to the Beatmap Appreciation Team
--   Added BeatofIke to the Beatmap Appreciation Team
+-   Added [BeatofIke](/users/1103522) to the Beatmap Appreciation Team
 -   Added CloudSplash16 to the Beatmap Appreciation Team
 -   Added \[CSGA\]Ar3sgice to the Beatmap Appreciation Team
 -   Added DE-CADE to the Beatmap Appreciation Team
@@ -375,16 +375,16 @@ All users listed below were added on 2015-01-03.
 
 -   Moved [QHideaki13](/users/733998) to the osu! Alumni (2015-02-01)
 -   Moved [KSHR](/users/409957) to the Global Moderation Team (2015-02-01)
--   Moved -kevincela- to the osu! Alumni (2015-02-05)
--   Moved [Kenezz](167050) to the osu! Alumni (2015-02-05)
+-   Moved [-kevincela-](/users/266596) to the osu! Alumni (2015-02-05)
+-   Moved [Kenezz](/users/167050) to the osu! Alumni (2015-02-05)
 -   Moved [Leader](/users/631530) to the Global Moderation Team (2015-02-05)
 -   Moved [narakucrimson](/users/287468) to the osu! Alumni (2015-02-05)
--   Moved LoliFlan to the Global Moderation Team (2015-02-11)
+-   Moved [LoliFlan](/users/447818) to the Global Moderation Team (2015-02-11)
 -   Removed Wojjan from the Forum Moderators and Chat Moderators (2015-02-13)
 -   Moved [Lust](/users/2316951) to the Quality Assurance Team (2015-02-16)
 -   Moved [Shiro](/users/113005) to the Global Moderation Team (2015-02-16)
 -   Moved [Asphyxia](/users/1715720) to the Quality Assurance Team (2015-02-18)
--   Moved DesperateDesperate-kun) to the Quality Assurance Team (2015-02-18)
+-   Moved [Desperate-kun](/users/2202645) to the Quality Assurance Team (2015-02-18)
 -   Moved [Mystyk](/users/930165) to the Global Moderation Team (2015-02-18)
 -   Moved [IamKwaN](/users/1856463) to the Quality Assurance Team (2015-02-19)
 -   Removed AnataNoBaka from the Chat Moderators (2015-02-22)
@@ -417,7 +417,7 @@ All users listed below were added on 2015-02-06.
 -   Sekai-nyan
 -   scanter
 -   REDYUMiKA
--   Priti
+-   [Priti](/users/2198472)
 -   No Dap
 -   [neonat](/users/1561995)
 -   [Nardoxyribonucleic](/users/876419)
@@ -430,7 +430,7 @@ All users listed below were added on 2015-02-06.
 -   koreapenguin
 -   Kawaiwkyik
 -   Ichigaki
--   HelloSCV
+-   [HelloSCV](/users/798743)
 -   HabiHolic
 -   Gaia
 -   ExUsagi
@@ -489,7 +489,7 @@ All users listed below were added on 2015-04-06.
 -   ByBy_ChAn
 -   [Blocko](/users/4075092)
 -   Krfawy
--   sukiNathan
+-   [sukiNathan](/users/4785223)
 
 ### May
 
@@ -511,9 +511,9 @@ All users listed below were added on 2015-05-11.
 
 ### June
 
--   Added -Bakari- to the Quality Assurance Team (2015-06-02)
+-   Added [-Bakari-](/users/597957) to the Quality Assurance Team (2015-06-02)
 -   Moved [Atrue](/users/1758523) to the Global Moderation Team (2015-06-02)
--   Removed Blue Dragon from the Chat Moderators (2015-06-03)
+-   Removed [Blue Dragon](/users/19048) from the Chat Moderators (2015-06-03)
 -   Moved [Shockwave](/users/251631) to the Global Moderation Team (2015-06-03)
 -   Moved [Uni](/users/617106) to the Global Moderation Team (2015-06-03)
 -   Moved [Roxas](/users/1041833) to the osu! Alumni (2015-06-05)
@@ -527,7 +527,7 @@ All users listed below were added on 2015-05-11.
 
 All users listed below were added on 2015-06-15.
 
--   \- Magic Bomb -
+-   [\- Magic Bomb -](/users/3071175)
 -   Alex Li
 -   [Chaoslitz](/users/3621552)
 -   Yuii-
@@ -547,7 +547,7 @@ All users listed below were added on 2015-07-19.
 -   Added Mako Sakata to the Beatmap Nomination Group (2015-07-19)
 -   Added OzzyOzrock to the Beatmap Nomination Group (2015-07-19)
 -   Added Baraatje123 to the Beatmap Nomination Group (2015-07-19)
--   Added monstrata to the Beatmap Nomination Group (2015-07-19)
+-   Added [monstrata](/users/2706438) to the Beatmap Nomination Group (2015-07-19)
 -   Added Milan- to the Beatmap Nomination Group (2015-07-19)
 
 ### August
@@ -555,7 +555,7 @@ All users listed below were added on 2015-07-19.
 -   Removed [Lust](/users/2316951) from the Quality Assurance Team (2015-08-15)
 -   **Chat Moderators and Global Moderation Team have been merged** (2015-08-20)
 -   Moved [captin1](/users/689997) to the osu! Alumni (2015-08-20)
--   Moved FrostxE to the osu! Alumni (2015-08-20)
+-   Moved [FrostxE](/users/199669) to the osu! Alumni (2015-08-20)
 -   Moved [mancuso\_JM\_](/users/521568) to the osu! Alumni (2015-08-20)
 -   Moved Mr Color to the osu! Alumni (2015-08-20)
 -   Moved [Osu Tatakae Ouendan](/users/594210) to the osu! Alumni (2015-08-20)
@@ -575,7 +575,7 @@ All users listed below were added on 2015-07-19.
 
 ### October
 
--   Moved CLSW to the osu! Alumni (2015-10-12)
+-   Moved [CLSW](/users/531253) to the osu! Alumni (2015-10-12)
 -   Moved [Krah](/users/1436748) to the Global Moderation Team (2015-10-13)
 -   Moved [Maeglwn](/users/2440936) to the osu! Alumni (2015-10-29)
 
@@ -614,14 +614,14 @@ All users listed below were added on 2015-10-02.
 ### January
 
 -   Added [Nishiji](/users/167629) to the Global Moderation Team (2016-01-03)
--   Moved Nyquill to the Global Moderation Team (2016-01-03)
+-   Moved [Nyquill](/users/682935) to the Global Moderation Team (2016-01-03)
 -   Moved [Irreversible](/users/1287964) to the osu! Alumni (2016-01-25)
 -   Moved [alacat](/users/869782) to the osu! Alumni (2016-01-29)
 
 #### New BN additions
 
 -   Added Sey to the Beatmap Nomination Group (2016-01-20)
--   Added \- Magic Bomb - to the Beatmap Nomination Group (2016-01-20)
+-   Added [\- Magic Bomb -](/users/3071175) to the Beatmap Nomination Group (2016-01-20)
 -   Added koliron to the Beatmap Nomination Group (2016-01-20)
 -   Added -Kamikaze- to the Beatmap Nomination Group (2016-01-21)
 -   Added [Feerum](/users/4815717) to the Beatmap Nomination Group (2016-01-21)
@@ -656,7 +656,7 @@ All users listed below were added on 2016-03-07.
 -   Added [Pittigbaasje](/users/2167433) to the Global Moderation Team (2016-05-04)
 -   Moved [Atrue](/users/1758523) to the osu! Alumni (2016-05-31)
 -   Moved [Blazevoir](/users/120265) to the osu! Alumni (2016-05-31)
--   Moved Charles445 to the osu! Alumni (2016-05-31)
+-   Moved [Charles445](/users/85000) to the osu! Alumni (2016-05-31)
 -   Moved [Krah](/users/1436748) to the osu! Alumni (2016-05-31)
 -   Moved Spectator to the osu! Alumni (2016-05-31)
 -   Removed Zak from the Global Moderation Team (2016-05-31)
@@ -702,10 +702,10 @@ All users listed below were added on 2016-06-01.
 All users listed below were added on 2016-08-22.
 
 -   [Lasse](/users/896613)
--   Spaghetti
+-   [Spaghetti](/users/4761930)
 -   Stjpa
 -   Len
--   Ayyri
+-   [Ayyri](/users/7182318)
 -   [Kagetsu](/users/6203841)
 -   [Cryptic](/users/3728904)
 -   [Strategas](/users/2971837)
@@ -713,7 +713,7 @@ All users listed below were added on 2016-08-22.
 -   Kencho
 -   [MrSergio](/users/2581696)
 -   [pishifat](/users/3178418)
--   Xexxar
+-   [Xexxar](/users/2773526)
 -   [ezek](/users/180241)
 -   [sahuang](/users/5318910)
 -   [Zero\_\_wind](/users/1822830)
@@ -722,7 +722,7 @@ All users listed below were added on 2016-08-22.
 
 ### October
 
--   Moved MMzz to the osu! Alumni (2016-10-08)
+-   Moved [MMzz](/users/128993) to the osu! Alumni (2016-10-08)
 -   Added [pishifat](/users/3178418) to the Quality Assurance Team (2016-10-18)
 -   Moved [KSHR](/users/409957) to the osu! Alumni (2016-10-27)
 -   Moved [ToGlette](/users/1076236) to the osu! Alumni (2016-10-27)
@@ -737,14 +737,14 @@ All users listed below were added on 2016-08-22.
 
 -   Moved [Bakari](/users/597957) to the osu! Alumni (2016-11-15)
 -   Moved [Nishiji](/users/167629) to the osu! Alumni (2016-11-15)
--   Moved -kevincela- to the Global Moderation Team (2016-11-15)
+-   Moved [-kevincela-](/users/266596) to the Global Moderation Team (2016-11-15)
 -   Moved [Gabe](/users/654108) to the Global Moderation Team (2016-11-15)
 
 #### New BN additions
 
 All users listed below were added on 2016-11-04.
 
--   Absolute Zero
+-   [Absolute Zero](/users/4847256)
 -   -Sh1n1-
 -   DixonBlackwing
 -   [juankristal](/users/443656)
@@ -795,7 +795,7 @@ All users listed below were added on 2017-01-20.
 -   Moved [Uni](/users/617106) to the Global Moderation Team (2017-04-03)
 -   Moved [ErunamoJAZZ](/users/1869764) to the osu! Alumni (2017-04-03)
 -   Moved [DakeDekaane](/users/1425253) to the osu! Alumni (2017-04-27)
--   Moved Desperate-kun to the osu! Alumni (2017-04-27)
+-   Moved [Desperate-kun](/users/2202645) to the osu! Alumni (2017-04-27)
 -   Moved [Fycho](/users/1876867) to the osu! Alumni (2017-04-27)
 
 #### New BN additions
