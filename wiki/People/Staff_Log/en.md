@@ -1017,3 +1017,34 @@ All users listed below were added on 2018-03-19.
 ### April
 
 -   Moved [Zetera](/users/587737) to the osu! Alumni (2018-04-06)
+-   Added [Aloda](/users/1190127) to the Quality Assurance Team (2018-04-16)
+
+#### BN removals
+
+-   Removed [Sanyi](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
+-   Removed [ezek](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
+-   Removed Kisses from the Beatmap Nominators due to account restriction (2018-04-22)
+
+#### New BN additions
+
+All users listed below were added on 2018-04-23.
+
+-   [Mirash](/users/2841009)
+-   [Kyuukai](/users/5337374)
+-   [Net0](/users/5099768)
+-   [Ultima Fox](/users/3198109)
+-   [Deramok](/users/1428455)
+-   [hypercyte](/users/9155377)
+-   [Smokeman](/users/2140676)
+-   [Trynna](/users/2652951)
+-   [Ryuusei Aika](/users/7777875)
+-   [SnowNiNo_](/users/2506267)
+-   [kwk](/users/365586)
+-   [Sonnyc](/users/11771)
+-   [Lafayla](/users/5312547)
+-   [bossandy](/users/360437)
+-   [Andrea](/users/33599)
+-   [Sieg](/users/1404615)
+-   [Mordred](/users/7265097)
+-   [Kalibe](/users/3376777)
+-   [Nao Tomori](/users/5364763)
