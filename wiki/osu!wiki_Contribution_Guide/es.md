@@ -12,9 +12,9 @@ Si en alguna parte estás confundido y/o necesitas ayuda, puedes enviar un mensa
 
 2\. [Inicia sesión](https://github.com/login).
 
-3\. Continúa con una [Clonación](#forking) del repositorio.
+3\. Continúa con una [Bifurcación](#forking) del repositorio.
 
-### Clonación
+### Bifurcación
 
 1\. Ve al [repositorio `osu-wiki`](https://github.com/ppy/osu-wiki).
 
@@ -22,31 +22,31 @@ Si en alguna parte estás confundido y/o necesitas ayuda, puedes enviar un mensa
 
 ![](img/fork.jpg)
 
-3\. Haz clic en `Fork` de nuevo para ir a tu clon.
+3\. Haz clic en `Fork` de nuevo para ir a tu bifurcación.
 
-4\. Si ves algo similar a la imágen significa que hiciste un clon del repositorio de `ppy/osu-wiki` y estás en ese mismo clon.
+4\. Si ves algo similar a la imágen significa que hiciste una bifurcación del repositorio de `ppy/osu-wiki` y estás en esa misma bifurcación.
 
 ![](img/forked.jpg)
 
-5\. Continúa [Sincronizando de tu clon](#syncing-your-fork).
+5\. Continúa [Sincronizando tu bifurcación](#syncing-your-fork).
 
-### Sincronizando de tu clon
+### Sincronizando tu bifurcación
 
 1\. Ve al repositorio `osu-wiki`.
 
-2\. Encima de los archivos, hay un texto que te dirá si tu clon está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu clon está "behind" o "ahead and behind" con cualquier cantidad de revisiones, significa que tu clon está desactualizado.
+2\. Encima de los archivos, hay un texto que te dirá si tu bifurcación está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu bifurcación está "behind" o "ahead and behind" con cualquier cantidad de revisiones, significa que tu bifurcación está desactualizada.
 
 ![](img/fork-even.jpg "OK \(Sin revisiones y actualizado\)")
 
 ![](img/fork-ahead.jpg "OK \(Éstas son tus revisiones\)")
 
-![](img/fork-behind.jpg "Potencialmente mal \(Tu clon está desactualizado\)")
+![](img/fork-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada\)")
 
-![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu clon está desactualizado con tus revisiones\)")
+![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada con tus revisiones\)")
 
 3\. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable,  más revisiones tendrás.
 
-4\. Para solucionar esto, ve [la sección ¡Mi clon está desactualizado! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4\. Para solucionar esto, ve [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
 5\. Una vez que hayas completado el paso 4, continúa con [Editando en línea o localmente](#editing-online-or-locally).
 
@@ -81,7 +81,7 @@ Tienes dos opciones:
 
 ![](img/head-fork.jpg)
 
-6\. Haz clic en el menú desplegable `compare` y selecciona el que tiene el clon que hiciste anteriormente (estos están en orden alfabético).
+6\. Haz clic en el menú desplegable `compare` y selecciona el que tiene la bifurcación que hiciste anteriormente (estos están en orden alfabético).
 
 ![](img/compare-branch.jpg)
 
@@ -99,7 +99,7 @@ Tienes dos opciones:
 
 ### Revisiones
 
-Una vez que hayas creado tu "pull request", otros editores de osu!wiki pueden revisar tus cambios para ayudarte en localizar algunos errores que hayas cometido. **Necesitarás mantenerte al día con las revisiones,** de otra manera, ¡tu "pull request" se cancelará! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
+Una vez que hayas creado tu "pull request", otros editores de osu!wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que hayas cometido. **Necesitarás mantenerte al día con las revisiones,** de otra manera, ¡tu "pull request" se cancelará! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
 
 ### Unión 
 
