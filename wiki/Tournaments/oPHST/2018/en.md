@@ -199,17 +199,17 @@ Mappools will be revealed one week in advance of each stage.
 
 - NoMod
 	- [FujuniseikouyuuP - Make a Loser (val0108) \[0108 style\]](https://osu.ppy.sh/beatmaps/649034)
-	- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo_) \[Corinn's Extra\]](https://osu.ppy.sh/beatmaps/1161150)
+	- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) \[Corinn's Extra\]](https://osu.ppy.sh/beatmaps/1161150)
 	- [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmaps/154226)
 	- [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Monstrata) \[God of Speed\]](https://osu.ppy.sh/beatmaps/815857)
-	- [Sharlo - Eisou Youga ~Meikyou Shisui~ (Sharlo) \[Fast's Expert\]](https://osu.ppy.sh/beatmaps/874940)
+	- [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) \[Fast's Expert\]](https://osu.ppy.sh/beatmaps/874940)
 	- [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[Dance Number\]](https://osu.ppy.sh/beatmaps/778603)
 - Hidden
 	- [Jun Kuroda & AAAA - Cygnus (Rohit6) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmaps/888465)
 	- [Cres - End Time (Maddy) \[eXtra\]](https://osu.ppy.sh/beatmaps/209276)
 - Hard Rock
 	- [TWICE - CHEER UP (Natsu) \[SHASHASHA\]](https://osu.ppy.sh/beatmaps/978382)
-	- [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmaps/152561)
+	- [44teru-k - Yami \~ Shoujo no Yume , Kyomu no Sekai ~ (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmaps/152561)
 - Double Time
 	- [Sound Holic - Love-Colored Dream (Yes) \[Dream\]](https://osu.ppy.sh/beatmaps/43765)
 	- [Tsunamaru - paranoia (Chewin) \[RLC\]](https://osu.ppy.sh/beatmaps/226563)
