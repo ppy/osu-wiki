@@ -1,43 +1,52 @@
----
-outdated: true
----
 # Bienvenido
 
-Bienvenidos a osu!, un juego rítmico de categoría "libre para ganar" creado por peppy con cuatro modos de juego: osu!standard, un simulador para dar clics en los círculos, osu!taiko, un emulador de tambores, osu!catch, un atrapador de ensalada de frutas, osu!mania, una mania de golpear teclas.
+Bienvenidos a osu!, un juego rítmico de categoría "libre para ganar" creado por peppy con cuatro modos de juego: osu!standard, un simulador de hacer clics en circulos, osu!taiko, un emulador de tambores, osu!catch, un atrapador de ensalada de frutas, osu!mania, un sintetizador de golpear teclas.
 
 ## Puntos de interés común.
 
-- [Registro](/wiki/Registration)
 - [Instalación](/wiki/Installation)
+- [Registro](/wiki/Registration)
 - [Reglas](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - Modos de juego
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [Multijugador](/wiki/Multi/#getting-started)
+  - ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
+  - ![icono de osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![icono de osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![icono de osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
+- [Multi](/wiki/Multi/#getting-started)
+- [Criterios de Clasificación](/wiki/Ranking_Criteria)
+  - ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![icono de osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![icono de osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![icono de osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Artículo del mes.
 
-_Ver también: [Ranking Criteria](/wiki/Ranking_Criteria)._
+*Ver tambien: [Mascotas](/wiki/Mascots).*
 
-el Ranking Criteria es un set de reglas y lineamientos hecho por el grupo QAT para asegurar que cada jugador pueda esperar un modo similar en cada beatmap.
+Conoce a pippi, Yuzu, Maria y Mocha; las cuatro mascotas de osu!standard, osu!catch, osu!mania y osu!taiko, respectivamente.
 
 ## Beatmapping
 
 _Ver también: [Beatmapping](/wiki/Beatmapping/#getting-started)._
 
-el Beatmapping es el proceso donde un usuario crea un beatmap. Este proceso incluye: Seleccionar la música, ajustar el tiempo y agregar notas al beatmap, y probar el beatmap. Además de eso incluye: agregar un video, agregar un [storyboard](/wiki/storyboarding/#getting-started), y/o agregar un [custom skin](/wiki/skinning/#getting-started). Todos estos complementos pueden estar hechos por el usuario creador solo o con otros usuarios, algunas veces referidos como  _storyboarders_, _skinners_, y/o _usuarios invitados_, dependiendo de lo que hayan hecho.
+El Beatmapping es el proceso donde un usuario crea un beatmap. Este proceso incluye: Seleccionar la música, ajustar el tiempo y agregar notas al beatmap, y probar el beatmap. Además de eso incluye: agregar un video, agregar un [storyboard](/wiki/storyboarding/#getting-started), y/o agregar una [skin personalizada](/wiki/skinning/#getting-started). Todos estos complementos pueden estar hechos por el usuario creador solo o con otros usuarios, algunas veces referidos como  _storyboarders_, _skinners_, y/o _usuarios invitados_, dependiendo de lo que hayan hecho.
 
 ## Modding
 
 _Ver también: [Modding](/wiki/Modding/#getting-started)._
 
-el Modding es el proceso de revisión de los usuarios (o comúnmente llamado "modding") a los beatmaps creados en la sección Pendientes (o Trabajos en proceso/Ayuda). El Modding juega un gran rol en el control de calidad de los beatmaps por que eso permite al creador arreglar situaciones/problemas con sus beatmaps.
+El Modding es el proceso de revisión de los usuarios (o comúnmente llamado "modding") a los beatmaps creados en la sección Pendientes (o Trabajos en proceso/Ayuda). El Modding juega un gran rol en el control de calidad de los beatmaps por que eso permite al creador arreglar situaciones/problemas con sus beatmaps.
 
-## osu!wiki - Como puedes ayudar!
+## Skinning
 
-Desde el 26 de agosto del año 2016, el osu!wiki ha sido movido al repositorio de GitHub. Después de este cambio, el flujo de trabajo ha sido cambiado drásticamente. Todas las contribuciones ahora van hacia el [Repositorio de osu!wiki en GitHub](https://github.com/ppy/osu-wiki) y son revisados antes de ser aprobados y fusionados al osu!wiki.
+*Ver tambien: [Skinning](/wiki/Skinning) y [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Para empezar, ve la [Guia de contribución del osu!wiki](/wiki/owcg).
+¡Skinning permite que cualquier persona cambie la forma en la que osu! se ve y se siente. Esto puede ser tan pequeño como cambiar el cursor o tan grande como rehacer las apariencias de todos los modos de juego y la interfaz.
+
+
+## osu!wiki - ¡Como puedes ayudar!
+
+Desde el 26 de agosto del año 2016, la osu!wiki ha sido movida al repositorio de GitHub. Después de este cambio, el flujo de trabajo ha sido cambiado drásticamente. Todas las contribuciones ahora van hacia el [Repositorio de osu!wiki en GitHub](https://github.com/ppy/osu-wiki) y son revisados antes de ser aprobados y fusionados a la osu!wiki.
+
+Para empezar, ve la [Guia de contribución de osu!wiki](/wiki/owcg).
