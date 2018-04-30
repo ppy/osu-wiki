@@ -197,6 +197,8 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Round of 16
 
+[**Download the mappack here! (86.7 MB)**](https://drive.google.com/open?id=1inneBvPp0SAHlJw4ND36RQzD65_HNuaH)
+
 - NoMod
 	- [FujuniseikouyuuP - Make a Loser (val0108) \[0108 style\]](https://osu.ppy.sh/beatmaps/649034)
 	- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) \[Corinn's Extra\]](https://osu.ppy.sh/beatmaps/1161150)
@@ -264,6 +266,8 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Quarterfinals
 
+[**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1ox7BQuLZD4jwkyNxTeoVONKD2-BxuHWj)
+
 - NoMod
 	- [Rib - Setsuna Trip (RoseusJaeger) \[Deif's Rain\]](https://osu.ppy.sh/beatmaps/1474932)
 	- [Yooh - LegenD. (Minato Yukina) \[exam's EXHAUST\]](https://osu.ppy.sh/beatmaps/1077988)
@@ -316,6 +320,8 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Post-qualification Play-offs
 
+[**Download the mappack here! (47.0 MB)**](https://drive.google.com/open?id=1bGjzgSoAqaQwHcBvb0Djkb4hwDQM3bqH)
+
 - FreeMod
 	- [S-C-U feat. Qrispy Joybox - anemone (Julie) \[4K Hyper\]](https://osu.ppy.sh/beatmaps/644701)
 	- [Dr.Flowershirts - Canon (O2 Version)+ (Niji) \[Another\]](https://osu.ppy.sh/beatmaps/583935)
@@ -341,6 +347,8 @@ Mappools will be revealed one week in advance of each stage.
 ### osu!mania 7K
 
 #### Qualifiers
+
+[**Download the mappack here! (14.4 MB)**](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO)
 
 - FreeMod
 	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology]](https://osu.ppy.sh/beatmaps/1624698)
