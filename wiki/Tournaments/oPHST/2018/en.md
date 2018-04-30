@@ -280,7 +280,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [REOL - drop pop candy (Nysrogh) \[Candies Platter\]](https://osu.ppy.sh/beatmaps/1293300)
 	- [Dan Winter - Don't Stop Push It Now (Nightcore Mix) (Gero) \[Insane\]](https://osu.ppy.sh/beatmaps/474929)
 - Double Time
-	- [Senya - Ondosa (Marinaga) \[Lunatic]\](https://osu.ppy.sh/beatmaps/909244)
+	- [Senya - Ondosa (Marinaga) \[Lunatic\]](https://osu.ppy.sh/beatmaps/909244)
 	- [7!! - Orange (-Plus-) \[the girl under full-bloomed cherry blossoms\]](https://osu.ppy.sh/beatmaps/824525)
 	- [Awake - Supernova (Razorflamekun) \[Salad\]](https://osu.ppy.sh/beatmaps/616923)
 - Tiebreaker
