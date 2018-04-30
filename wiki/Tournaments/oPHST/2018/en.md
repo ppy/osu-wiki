@@ -383,7 +383,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml?gid=375654597)
 
-| Seed | Player 1        | Score |       | Player 2       | Seed |     | 
+| Seed | Player 1        |       |       | Player 2       | Seed |     | 
 |------|-----------------|-------|-------|----------------|------|-----| 
 | 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
 | 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
