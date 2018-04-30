@@ -28,9 +28,9 @@ Si en alguna parte estás confundido y/o necesitas ayuda, puedes enviar un mensa
 
 ![](img/forked.jpg)
 
-5\. Continúa con la [Sincronización de tu clon](#syncing-your-fork).
+5\. Continúa [Sincronizando de tu clon](#syncing-your-fork).
 
-### Sincronización de tu clon
+### Sincronizando de tu clon
 
 1\. Ve al repositorio `osu-wiki`.
 
@@ -63,7 +63,7 @@ Tienes dos opciones:
 
 ## Para finalizar
 
-### Abrir un Pull Request
+### Abrir un "pull request"
 
 1\. Ve al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
@@ -99,8 +99,8 @@ Tienes dos opciones:
 
 ### Revisiones
 
-Una vez que hayas creado tu Pull Request, otros editores de osu!wiki pueden revisar tus cambios para ayudarte en localizar algunos errores que hayas cometido. **Necesitarás mantenerte al día con las revisiones,** de otra manera, ¡tu Pull Request se cancelará! Si necesitas que alguien revise tu Pull Request, puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
+Una vez que hayas creado tu "pull request", otros editores de osu!wiki pueden revisar tus cambios para ayudarte en localizar algunos errores que hayas cometido. **Necesitarás mantenerte al día con las revisiones,** de otra manera, ¡tu "pull request" se cancelará! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
 
 ### Unión 
 
-Para que tus cambios aparezcan en osu!wiki, tu Pull Request necesita ser "unido". Una vez que tu Pull Request haya sido revisado y aprovado, puedes usar la sección de comentarios en GitHub para preguntar a alguien que lo una, o haz una pregunta en el [chat de osu!dev en Discord](https://discord.gg/ppy). Una vez que haya sido unido, tus cambios tardarán hasta cinco horas en aparecer en osu!wiki.
+Para que tus cambios aparezcan en la osu!wiki, tu "pull request" necesita ser "unida". Una vez que tu "pull request" haya sido revisada y aprovada, puedes usar la sección de comentarios en GitHub para preguntar a alguien que la una, o haz una pregunta en el [chat de osu!dev en Discord](https://discord.gg/ppy). Una vez que haya sido unida, tus cambios tardarán hasta cinco horas en aparecer en la osu!wiki.
