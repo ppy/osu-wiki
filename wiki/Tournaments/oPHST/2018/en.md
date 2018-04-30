@@ -150,40 +150,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### osu!mania 4K
 
-| Seed | Player                                                | 
-|------|-------------------------------------------------------| 
-| 1    | [joseee-](https://osu.ppy.sh/users/10083439)          | 
-| 2    | [MapleSyrup-](https://osu.ppy.sh/users/1192936)       | 
-| 3    | [windrush123](https://osu.ppy.sh/users/9087181)       | 
-| 4    | [nyx-](https://osu.ppy.sh/users/9883834)              | 
-| 5    | [TheArge](https://osu.ppy.sh/users/9919550)           | 
-| 6    | [Mk3605](https://osu.ppy.sh/users/8416824)            | 
-| 7    | [Nelvin\_27](https://osu.ppy.sh/users/2766029)        | 
-| 8    | [FeveredNickel](https://osu.ppy.sh/users/7331952)     | 
-| 9    | [Trainer-](https://osu.ppy.sh/users/9331760)          | 
-| 10   | [\_Shirayukihime\_](https://osu.ppy.sh/users/875341)  | 
-| 11   | [Toyohime-](https://osu.ppy.sh/users/9770359)         | 
-| 12   | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)   | 
-| 13   | [exodia3000](https://osu.ppy.sh/users/10500797)       | 
-| 14   | [GTXCZE](https://osu.ppy.sh/users/9209185)            | 
-| 15   | [Baltz](https://osu.ppy.sh/users/6083463)             | 
-| 16   | [inverselina](https://osu.ppy.sh/users/6375534)       | 
-| 17   | [Mentai Cosmic](https://osu.ppy.sh/users/6908508)     | 
-| 18   | [\[\_blank-\]](https://osu.ppy.sh/users/10583118)     | 
-| 19   | [EikiShiki60](https://osu.ppy.sh/users/11517895)      | 
-| 20   | [Kaleiodo](https://osu.ppy.sh/users/4657592)          | 
-| 21   | [takedown411](https://osu.ppy.sh/users/9374607)       | 
-| 22   | [Chez](https://osu.ppy.sh/users/4866112)              | 
-| 23   | [Hezekiah-](https://osu.ppy.sh/users/6819871)         | 
-| 24   | [Victoria Artois](https://osu.ppy.sh/users/8021372)   | 
-| 25   | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479) | 
-| 26   | [Lordie09](https://osu.ppy.sh/users/10010130)         | 
-| 27   | [Batujitsu](https://osu.ppy.sh/users/6402552)         | 
-| 28   | [szc19](https://osu.ppy.sh/users/11444817)            | 
-| 29   | [Inoariusu](https://osu.ppy.sh/users/8586656)         | 
-| 30   | [lord\_waker](https://osu.ppy.sh/users/7235545)       | 
-| 31   | [vincent4399](https://osu.ppy.sh/users/9764388)       | 
-| 32   | [Altertis](https://osu.ppy.sh/users/9374657)          | 
+| Seed | Players | 
+| --- | --- | 
+| Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) | 
+| High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
+| Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) | 
+| Low (#25 - #32) | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), [Lordie09](https://osu.ppy.sh/users/10010130), [Batujitsu](https://osu.ppy.sh/users/6402552), [szc19](https://osu.ppy.sh/users/11444817), [Inoariusu](https://osu.ppy.sh/users/8586656), [lord\_waker](https://osu.ppy.sh/users/7235545), [vincent4399](https://osu.ppy.sh/users/9764388), [Altertis](https://osu.ppy.sh/users/9374657) | 
 
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
 
