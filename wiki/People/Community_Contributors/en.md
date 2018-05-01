@@ -3,9 +3,9 @@ Community Contributors
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
 
-The **Community Contributors** are the people who have taken it upon themselves to provide service to the [*osu!*](/wiki/Glossary/#osu) community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
+The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
-Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous osu!team members ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve *osu!* and the community environment.
+Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous osu!team members ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 ## 2013
 
@@ -16,7 +16,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | User | Contributions |
 | ---- | ------------- |
 | [Darkimmortal](/users/10886) | Developing and maintaining the [osu!record service](http://osu.ppy.sh/forum/t/108092) (replay `.osr` to video file.) |
-| [nanashiRei](/users/807630) | Hosting and maintaining one of *osu!*'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
+| [nanashiRei](/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | [RBRat3](/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
 | [Ballance](/users/165946) | [Achievement](/wiki/Achievements) artwork. |
 | [akrolsmir](/users/576800) | Developing and maintaining [AIBat](/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
