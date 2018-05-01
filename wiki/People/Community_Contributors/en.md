@@ -1,7 +1,7 @@
 Community Contributors
 ======================
 
-![Contributor Badge](Contributor_Badge.png "Contributor Badge")
+![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the [*osu!*](/wiki/Glossary/#osu) community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
