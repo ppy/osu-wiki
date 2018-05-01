@@ -11,7 +11,7 @@ The Semifinals offered some very exciting matches, including the first tiebreake
 
 ### Semifinals Matches
 
-**The opening match started with Australia eliminating Chile 6-2.** At first, the Australians found themselves in a 1-2 deficit, losing out heavily on the nomods [Revived](https://osu.ppy.sh/beatmapsets/373517#taiko/818305) and [Out Now On Crowsnest](https://osu.ppy.sh/beatmapsets/667033#taiko/1411524). All the following picks went in favour of Australia, as the combined strength of [Jaye](https://osu.ppy.sh/users/4841352) and [rango](https://osu.ppy.sh/users/7728466) was too much to handle for the Chileans.
+**The opening match started with Australia eliminating Chile 6-2.** At first, the Australians found themselves in a 1-2 deficit, losing out heavily on the nomods [UNDEAD CORPORATION - Revived](https://osu.ppy.sh/beatmapsets/373517#taiko/818305) and [Qoiet - Out Now On Crowsnest](https://osu.ppy.sh/beatmapsets/667033#taiko/1411524). All the following picks went in favour of Australia, as the combined strength of [Jaye](https://osu.ppy.sh/users/4841352) and [rango](https://osu.ppy.sh/users/7728466) was too much to handle for the Chileans.
 
 The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep over Brazil.** While some maps were close, Brazil leaves the match empty-handed as they're knocked out of the tournament along with Chile, leaving no Latin American teams left in the cup.
 
