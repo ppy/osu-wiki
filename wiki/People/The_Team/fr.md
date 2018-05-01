@@ -42,7 +42,7 @@ Inactifs
 | [mm201](https://osu.ppy.sh/users/30655) | Développeur d'osu!, Intégrateur des sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | Développeur d'osu!iPhone |
 | Phil | Conception du Forum |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Créateur et concepteur original de Pippi |
+| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Créateur et concepteur original de pippi |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Importantes contributions à la FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, Développaur d'osu!mania |
 
