@@ -4,15 +4,15 @@ title: "Camellia Themed Spotlights 2018"
 date: 2018-05-05 14:00:00 +0000
 ---
 
-Greetings everyone! This time Camellia makes his appearance in Themed Spotlights! Come and check out our selection of excelent beatmaps!
+Greetings everyone! This time Camellia makes his appearance in Themed Spotlights! Come and check out our selection of excellent beatmaps!
 
 ![](/wiki/shared/news/2018-05-05-camellia-themed-spotlights-2018/spotlight-header.jpg)
 
-We just released the Camellia Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=CACH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
+We have just released the Camellia Themed Charts which can be found [here](https://osu.ppy.sh/p/chart?ch=CACH18). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-## Past Winners
+## Winners
 
-Congratulations to the winners of the Camellia Themed Spotlights. They receive two month of supporter status for their efforts!
+Congratulations to the winners of the Anime Remix Themed Spotlights. They will receive two month of supporter status for their efforts!
 
 + **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
 + **osu!taiko:** [touhou hdhr](https://osu.ppy.sh/users/7739269)
