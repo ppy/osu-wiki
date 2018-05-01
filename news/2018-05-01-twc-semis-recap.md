@@ -41,12 +41,15 @@ In the last match of the weekend, the journey of the last European team came to 
 
 In Semifinals, every map was picked atleast once (including tiebreaker!) and the most common bans by far were [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086/#taiko/1507092) (HardRock) and [Hitori Tori - perthed again (yambabom remix)](https://osu.ppy.sh/beatmapsets/313081/#taiko/701069) (Hidden). For some more insight on the pool, let's hear what the map selectors had to say about it.
 
-*I was surprised that Avalanche was picked as often as it was, and got quite a high amount of HD / HDHR plays which surprised me considering how anti-HD it was compared to playing it with HR. Epileptic Crisis, being a reading pick, was not too surprising to be the most picked map. Overall I'm happy with the diversity of player picks, with no maps being entirely ignored and no map being the top favorite to pick as several maps shared that spot but were also sometimes picked very late in matches.*
+*"I was surprised that Avalanche was picked as often as it was, and got quite a high amount of HD / HDHR plays which surprised me considering how anti-HD it was compared to playing it with HR. Epileptic Crisis, being a reading pick, was not too surprising to be the most picked map. Overall I'm happy with the diversity of player picks, with no maps being entirely ignored and no map being the top favorite to pick as several maps shared that spot but were also sometimes picked very late in matches.*
 
-*Also, Burn and the tiebreaker got played, two maps where I'm really happy I got to see them this stage (Burn even three times!). I thought Revived would get picked one or two times more, but I guess OD6 and the dense sections made it too risky.* —[Nwolf](https://osu.ppy.sh/users/1910766)
+*Also, Burn and the tiebreaker got played, two maps where I'm really happy I got to see them this stage (Burn even three times!). I thought Revived would get picked one or two times more, but I guess OD6 and the dense sections made it too risky."* —[Nwolf](https://osu.ppy.sh/users/1910766)
 
+*"Upon releasing the mappool, we were sure it would be met with some harsh criticisms. Personally, I had felt that the mappool lacked cohesiveness, and despite our best efforts, Nwolf and I both thought it was a mess. But to our surprise, it seemed that the majority of the players took a liking to it, and the matches played thereafter showed a fairly balanced spread of picks across the weekend.*
 
-—[mangomizer](https://osu.ppy.sh/users/1893718):
+*Probably the most ambitious thing we experimented within this pool was the inclusion of a gimmick map in the FreeMod bracket. To our knowledge, it was something that had never been done before, and we think it was a huge success - its inclusion was critical to some upsets we saw this weekend.*
+
+*Overall, Nwolf and I are pleasantly surprised with the success of the Semifinals Mappool. After all, who wouldn't be satisfied with a tiebreaker match after a two week drought? With Finals Mappool released, we look forward to hearing your thoughts and feedback in the comments below!"* —[mangomizer](https://osu.ppy.sh/users/1893718)
 
 
 ### Finals Preview
