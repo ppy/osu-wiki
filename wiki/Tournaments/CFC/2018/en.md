@@ -22,10 +22,9 @@ tags:
 
 ## Prizes
 
-| Placing                                             | Prize(s)                             |
+| Place                                             | Prize(s)                             |
 |----------------------------------------------------|---------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge + 8 months of supporter |
-
 
 ## Organization
 
@@ -33,28 +32,12 @@ The Catch French Cup 2018 is run by various french community members by distribu
 
 | Position | Member(s) |
 | ------------ | -------------- |
-
 | Host | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | GFX  | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240)   |
-| Map Selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166)  |
-| Map Selector | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994)  |
-| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Referee | ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270) |
-| Referee | ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902) |
-| Referee | ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Referee | ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667) | 
-| Referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) | 
-| Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) | 
-| Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322) | 
-| Streamer | ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667) |
-| Streamer | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
-| Streamer | ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
-| Commentators | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)  |
-| Commentators | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322) |
-| Commentators | ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232) |
-| Commentators | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) |
-| Commentators | ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
-| Commentators | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
+| Map Selectors | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994)  |
+| Referees | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) | 
+| Commentators | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
 
 ## Links
 
@@ -78,6 +61,7 @@ The Catch French Cup 2018 is run by various french community members by distribu
 | **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Kyuare](https://osu.ppy.sh/users/2705312) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467)
 | **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750)
 | **D** | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728)
+
 ---------------------------
 
 ## Mappool
@@ -87,34 +71,34 @@ The Catch French Cup 2018 is run by various french community members by distribu
 **[Download the mappack here! (239.6MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo)**
 
 - Nomod
- 	- [Getty vs. DJ DiA - Ops:Code-Rapture- \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060/#fruits/1188198)
-  - [Silentroom - Nhelv \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/684268/#fruits/1448121)
-  - [Camellia - gigadelic (Camellia's "The TERA" RMX) \[Crystal's Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/388122/#fruits/861028)
-  - [Omoi - Teo \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804/#fruits/1524103)
-  - [rerulili - MA'JI'KI'TI'GIRL \[No One But CRN\]](https://osu.ppy.sh/beatmapsets/65660/#fruits/194320)
-  - [Sota Fujimori - polygon \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097/#fruits/1234400)
+ - [Getty vs. DJ DiA - Ops:Code-Rapture- \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060/#fruits/1188198)
+ - [Silentroom - Nhelv \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/684268/#fruits/1448121)
+ - [Camellia - gigadelic (Camellia's "The TERA" RMX) \[Crystal's Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/388122/#fruits/861028)
+ - [Omoi - Teo \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804/#fruits/1524103)
+ - [rerulili - MA'JI'KI'TI'GIRL \[No One But CRN\]](https://osu.ppy.sh/beatmapsets/65660/#fruits/194320)
+ - [Sota Fujimori - polygon \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097/#fruits/1234400)
 - Hidden
-   - [Various Artists - Dan ~ CTB ~ TechMap Pack \[Forgotten ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829/#fruits/1468082)
-   - [USAO - Boss Rush \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/602460/#fruits/1272534)
-   - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon \[Insane\]](https://osu.ppy.sh/beatmapsets/70247/#fruits/201974)
-   - [sana - Packet Hero \[Ruthless\]](https://osu.ppy.sh/beatmapsets/404910/#fruits/880321)
+  - [Various Artists - Dan ~ CTB ~ TechMap Pack \[Forgotten ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829/#fruits/1468082)
+  - [USAO - Boss Rush \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/602460/#fruits/1272534)
+  - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon \[Insane\]](https://osu.ppy.sh/beatmapsets/70247/#fruits/201974)
+  - [sana - Packet Hero \[Ruthless\]](https://osu.ppy.sh/beatmapsets/404910/#fruits/880321)
 - Hard Rock
-   - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/581787/#fruits/1536964)
-   - [Memme - Avalanche \[Overdose\]](https://osu.ppy.sh/beatmapsets/357244/#fruits/785892)
-   - [xi - ANiMA \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271/#fruits/949234)
-   - [BLUE ENCOUNT - HOPE \[SURVIVOR\]](https://osu.ppy.sh/beatmapsets/685622/#fruits/1451282)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/581787/#fruits/1536964)
+  - [Memme - Avalanche \[Overdose\]](https://osu.ppy.sh/beatmapsets/357244/#fruits/785892)
+  - [xi - ANiMA \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271/#fruits/949234)
+  - [BLUE ENCOUNT - HOPE \[SURVIVOR\]](https://osu.ppy.sh/beatmapsets/685622/#fruits/1451282)
 - Double Time
-   - [Seiryu - Ultramarine \[Rain\]](https://osu.ppy.sh/beatmapsets/275991/#fruits/625941)
-   - [GRANRODEO - Can Do (TV Size) \[Platter\]](https://osu.ppy.sh/beatmapsets/580381/#fruits/1228853)
-   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura \[Insane\]](https://osu.ppy.sh/beatmapsets/36248/#fruits/148911)
-   - [Hardwell & Joey Dale feat. Luciana - Arcadia \[Paradise\]](https://osu.ppy.sh/beatmapsets/258193/#fruits/590695)
+  - [Seiryu - Ultramarine \[Rain\]](https://osu.ppy.sh/beatmapsets/275991/#fruits/625941)
+  - [GRANRODEO - Can Do (TV Size) \[Platter\]](https://osu.ppy.sh/beatmapsets/580381/#fruits/1228853)
+  - [Hatsune Miku & Megpoid Gumi - Ashurashurashura \[Insane\]](https://osu.ppy.sh/beatmapsets/36248/#fruits/148911)
+  - [Hardwell & Joey Dale feat. Luciana - Arcadia \[Paradise\]](https://osu.ppy.sh/beatmapsets/258193/#fruits/590695)
 - Freemod
-   - [Various Artists - Dan ~ CTB ~ JumpMap Pack \[Los! Los! Los! ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/692137/#fruits/1464599)
-   - [Within Temptation - In The Middle Of The Night (Nightcore Mix) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/603419/#fruits/1274497)
-   - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) \[Holy Shit! It's Rainbow Dash!!\]](https://osu.ppy.sh/beatmapsets/57255/#fruits/172662)
-   - [Memme - Extreme Fantasy \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459/#fruits/152480)
+  - [Various Artists - Dan ~ CTB ~ JumpMap Pack \[Los! Los! Los! ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/692137/#fruits/1464599)
+  - [Within Temptation - In The Middle Of The Night (Nightcore Mix) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/603419/#fruits/1274497)
+  - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) \[Holy Shit! It's Rainbow Dash!!\]](https://osu.ppy.sh/beatmapsets/57255/#fruits/172662)
+  - [Memme - Extreme Fantasy \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459/#fruits/152480)
 - Tiebreaker 
-  - [Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Overdrive]](https://osu.ppy.sh/beatmapsets/713891/#fruits/1508761)
+ - [Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Overdrive]](https://osu.ppy.sh/beatmapsets/713891/#fruits/1508761)
   
 ### Winner's Bracket + Loser's Bracket Finals
 
@@ -149,6 +133,7 @@ The Catch French Cup 2018 is run by various french community members by distribu
    - [Lucas Fader - Main Theme - Dubstep Remix \[Expert: Neo Cortex\]](https://osu.ppy.sh/beatmapsets/588976/#fruits/1246807)
 - Tiebreaker 
   - [BlackY - Harpuia -evolutionary extended ver- \[Final Showdown\]](https://osu.ppy.sh/beatmapsets/565247/#fruits/1194708)
+  
 ### Semifinals
 
 **[Download the mappack here! (172.7MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU)**
@@ -171,9 +156,9 @@ The Catch French Cup 2018 is run by various french community members by distribu
    - [Dschinghis Khan - Moskau \[Lesjuh/Happy30\]](https://osu.ppy.sh/beatmapsets/5947/#fruits/29965)
    - [Renard - Da Nu Nuttah \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665/#fruits/205282)
 - Double Time
-   - [Kalafina - believe \[Bless\]](https://osu.ppy.sh/beatmapsets/316647/#fruits/705527
+   - [Kalafina - believe \[Bless\]](https://osu.ppy.sh/beatmapsets/316647/#fruits/705527)
    - [Goose house - Hikaru nara \[Sc4's Rain\]](https://osu.ppy.sh/beatmapsets/519023/#fruits/1113160)
-   - [Akiko Shikata - Umineko no Naku Koro ni ~Rengoku~ \[AHO\]](https://osu.ppy.sh/beatmapsets/21079/#fruits/77996)
+   - [Akiko Shikata - Umineko no Naku Koro ni \~Rengoku\~ \[AHO\]](https://osu.ppy.sh/beatmapsets/21079/#fruits/77996)
    - [rerulili - Noushou Sakuretsu Girl \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434/#fruits/208935)
 - Freemod
    - [Hige Driver join. SELEN - Dadadadadadadadadada \[EX\]](https://osu.ppy.sh/beatmapsets/350076/#fruits/771879)
