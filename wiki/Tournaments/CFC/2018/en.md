@@ -23,7 +23,7 @@ tags:
 ## Prizes
 
 | Place                                             | Prize(s)                             |
-|-:-:-------------------------------------------------|---------------------------------------|
+|:--------------------------------------------------:|---------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge + 8 months of supporter |
 
 ## Organization
@@ -56,7 +56,7 @@ The Catch French Cup 2018 is run by various french community members by distribu
 ## Participants
 
 | Group | Top | High | Low | Unseeded |
-| ------- | ------- | ------- | --------- |
+| ------- | ---- | ----- | ----- | ----------- |
 | **A** | ![][flag_FR] [bastoo0](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [[E] n i g m a](https://osu.ppy.sh/users/9354778)
 | **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Kyuare](https://osu.ppy.sh/users/2705312) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467)
 | **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750)
@@ -71,12 +71,12 @@ The Catch French Cup 2018 is run by various french community members by distribu
 **[Download the mappack here! (239.6MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo)**
 
 - Nomod
- - [Getty vs. DJ DiA - Ops:Code-Rapture- \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060/#fruits/1188198)
- - [Silentroom - Nhelv \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/684268/#fruits/1448121)
- - [Camellia - gigadelic (Camellia's "The TERA" RMX) \[Crystal's Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/388122/#fruits/861028)
- - [Omoi - Teo \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804/#fruits/1524103)
- - [rerulili - MA'JI'KI'TI'GIRL \[No One But CRN\]](https://osu.ppy.sh/beatmapsets/65660/#fruits/194320)
- - [Sota Fujimori - polygon \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097/#fruits/1234400)
+  - [Getty vs. DJ DiA - Ops:Code-Rapture- \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060/#fruits/1188198)
+  - [Silentroom - Nhelv \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/684268/#fruits/1448121)
+  - [Camellia - gigadelic (Camellia's "The TERA" RMX) \[Crystal's Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/388122/#fruits/861028)
+  - [Omoi - Teo \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804/#fruits/1524103)
+  - [rerulili - MA'JI'KI'TI'GIRL \[No One But CRN\]](https://osu.ppy.sh/beatmapsets/65660/#fruits/194320)
+  - [Sota Fujimori - polygon \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097/#fruits/1234400)
 - Hidden
   - [Various Artists - Dan ~ CTB ~ TechMap Pack \[Forgotten ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829/#fruits/1468082)
   - [USAO - Boss Rush \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/602460/#fruits/1272534)
@@ -98,7 +98,7 @@ The Catch French Cup 2018 is run by various french community members by distribu
   - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) \[Holy Shit! It's Rainbow Dash!!\]](https://osu.ppy.sh/beatmapsets/57255/#fruits/172662)
   - [Memme - Extreme Fantasy \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459/#fruits/152480)
 - Tiebreaker 
- - [Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Overdrive]](https://osu.ppy.sh/beatmapsets/713891/#fruits/1508761)
+  - [Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/713891/#fruits/1508761)
   
 ### Winner's Bracket + Loser's Bracket Finals
 
@@ -167,12 +167,13 @@ The Catch French Cup 2018 is run by various french community members by distribu
    - [Kitsune^2 - Rainbow Tylenol \[Hell\]](https://osu.ppy.sh/beatmapsets/20789/#fruits/72585)
 - Tiebreaker 
   - [DystopiaGround - AugoEidEs \[Ressurection\]](https://osu.ppy.sh/beatmapsets/537671/#fruits/1139268)
+  
 ### Quarterfinals
 
 **[Download the mappack here! (109.8MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68)**
 
 - Nomod
- 	- [PUSHER - Feel U \[Overdose\]](https://osu.ppy.sh/beatmapsets/740666/#fruits/1562529)
+  - [PUSHER - Feel U \[Overdose\]](https://osu.ppy.sh/beatmapsets/740666/#fruits/1562529)
   - [M2U - Marigold (feat. Guriri) \[Alice\]](https://osu.ppy.sh/beatmapsets/605710/#fruits/1279904)
   - [Qrispy Joybox - licca \[Special\]](https://osu.ppy.sh/beatmapsets/242877/#fruits/560453)
   - [Himeringo - Yotsuya-san ni Yoroshiku \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049/#fruits/378781)
@@ -194,30 +195,29 @@ The Catch French Cup 2018 is run by various french community members by distribu
    - [Hyadain - Hyadain no Joujou Yuujou (TV Size) \[Saten's SELAMAT PAGI!\]](https://osu.ppy.sh/beatmapsets/32775/#fruits/112586)
 - Tiebreaker 
   - [UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920/#fruits/1351241)
+  
 ### Group Stage 
 
 **[Download the mappack here! (81.3MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM)**
 
 - Nomod
- 	- [ClariS - Hitorigoto -TV MIX- \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/624544/#fruits/1316296)
+  - [ClariS - Hitorigoto -TV MIX- \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/624544/#fruits/1316296)
   - [An - Artcore Jinja \[Sauci's Rain\]](https://osu.ppy.sh/beatmapsets/215155/#fruits/506536)
   - [AKI AKANE - Kando*Reduction  \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/262403/#osu/598863)
   - [M2U - Marigold (feat. Guriri) \[Asaiga's Insane\]](https://osu.ppy.sh/beatmapsets/595496/#osu/1382836)
 - Hidden
-   - [FELT - Goldrop \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927/#fruits/506395)
-   - [Cream puff - Mermaid girl \[Another\]](https://osu.ppy.sh/beatmapsets/715915/#osu/1512693)
+  - [FELT - Goldrop \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927/#fruits/506395)
+  - [Cream puff - Mermaid girl \[Another\]](https://osu.ppy.sh/beatmapsets/715915/#osu/1512693)
 - Hard Rock
-   - [Camellia - Ultimate Ascension \[Salad\]](https://osu.ppy.sh/beatmapsets/520301/#fruits/1105922)
-   - [yuikonnu - Byoumei Koiwazurai \[Hard\]](https://osu.ppy.sh/beatmapsets/135358/#osu/355623)
+  - [Camellia - Ultimate Ascension \[Salad\]](https://osu.ppy.sh/beatmapsets/520301/#fruits/1105922)
+  - [yuikonnu - Byoumei Koiwazurai \[Hard\]](https://osu.ppy.sh/beatmapsets/135358/#osu/355623)
 - Double Time
-   - [Goose house - 18sai \[Platter\]](https://osu.ppy.sh/beatmapsets/242856/#fruits/560407)
-   - [All Levels at Once - Changeling  \[Insane\]](https://osu.ppy.sh/beatmapsets/68169/#osu/197482)
+  - [Goose house - 18sai \[Platter\]](https://osu.ppy.sh/beatmapsets/242856/#fruits/560407)
+  - [All Levels at Once - Changeling  \[Insane\]](https://osu.ppy.sh/beatmapsets/68169/#osu/197482)
 - Freemod
-   - [Mili - Utopiosphere -Platonism- \[Tyrell's Utopia\]](https://osu.ppy.sh/beatmapsets/522132/#fruits/1111110)
-   - [DWB feat. Fade - One Reason (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/100892/#osu/323797)
+  - [Mili - Utopiosphere -Platonism- \[Tyrell's Utopia\]](https://osu.ppy.sh/beatmapsets/522132/#fruits/1111110)
+  - [DWB feat. Fade - One Reason (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/100892/#osu/323797)
 - Tiebreaker 
   - [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468/#fruits/1161865)
-
-
 
 [flag_FR]: /wiki/shared/flag/FR.gif
