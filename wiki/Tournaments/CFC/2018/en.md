@@ -52,7 +52,6 @@ The Catch French Cup 2018 is run by various french community members by distribu
 <!-- ![Bracket](bracket.jpg) -->
 
 ---------------------------------------
-
 ## Participants
 
 | Group | Top | High | Low | Unseeded |
