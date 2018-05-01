@@ -1024,6 +1024,8 @@ All users listed below were added on 2018-03-19.
 -   Removed [Sanyi](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
 -   Removed [ezek](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
 -   Removed Kisses from the Beatmap Nominators due to account restriction (2018-04-22)
+-   Removed [Hareimu](/users/4138746) from the Beatmap Nominators by resignation (2018-04-24)
+-   Removed Sotarks from the Beatmap Nominators due to account restriction (2018-04-30) 
 
 #### New BN additions
 
@@ -1038,7 +1040,7 @@ All users listed below were added on 2018-04-23.
 -   [Smokeman](/users/2140676)
 -   [Trynna](/users/2652951)
 -   [Ryuusei Aika](/users/7777875)
--   [SnowNiNo_](/users/2506267)
+-   [SnowNiNo\_](/users/2506267)
 -   [kwk](/users/365586)
 -   [Sonnyc](/users/11771)
 -   [Lafayla](/users/5312547)
