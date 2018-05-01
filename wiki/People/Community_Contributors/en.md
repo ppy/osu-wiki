@@ -7,13 +7,11 @@ The **Community Contributors** are the people who have taken it upon themselves 
 
 Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous osu!team members ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve *osu!* and the community environment.
 
-The current users with this badge are noted in this table:
-
 ## 2013
 
 ### August
 
-*Also see the forum thread: [osu! community contributors](https://osu.ppy.sh/forum/p/2489459).*
+*Also see the forum thread: [osu! community contributors](/community/forums/posts/2489459).*
 
 | User | Contributions |
 | ---- | ------------- |
@@ -21,13 +19,13 @@ The current users with this badge are noted in this table:
 | [nanashiRei](/users/807630) | Hosting and maintaining one of *osu!*'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | [RBRat3](/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
 | [Ballance](/users/165946) | [Achievement](/wiki/Achievements) artwork. |
-| [akrolsmir](/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/forum/t/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
+| [akrolsmir](/users/576800) | Developing and maintaining [AIBat](/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
 | [statementreply](/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
 | [Loctav](/users/71366) | Organising several major official tournaments (including the OWC). |
 | [Blazevoir](/users/120265) | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
 | [Piotrekol](/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
 | [MillhioreF](/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
-| [DeathxShinigami](/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/p/packlist) and several years of managing the beatmap charts. |
+| [DeathxShinigami](/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](/p/packlist) and several years of managing the beatmap charts. |
 | [LuigiHann](/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboards) as an art and motivation. |
 | [awp](/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
 | [Sinistro](/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
@@ -47,11 +45,11 @@ The current users with this badge are noted in this table:
 
 ### January
 
-*Also see the announcement post: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
+*Also see the announcement post: [Community Contributor Badges (January 2016)](/home/news/2016-01-09-community-contributor-badges-january-2016).*
 
 | User | Contributions |
 | ---- | ------------- |
-| [ztrot](/users/6347) | Founding the [osu!academy](/wiki/Announcements/osu!academy) |
+| [ztrot](/users/6347) | Founding the [osu!academy](/wiki/osu!academy) |
 | [Tasha](/users/1031958) | osu!weekly + News Contributor |
 | [Flanster](/users/447818) | Outstanding moderation presence (10k+ kills). |
 | [Nathanael](/users/2295078) | Outstanding moderation presence (10k+ kills). |
@@ -62,7 +60,7 @@ The current users with this badge are noted in this table:
 
 ### March
 
-*Also see the announcement post: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
+*Also see the announcement post: [osu!weekly #53](/home/news/2016-03-22-osuweekly-53).*
 
 | User | Contributions |
 | ---- | ------------- |
@@ -70,7 +68,7 @@ The current users with this badge are noted in this table:
 
 ### November
 
-*Also see the announcement post: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
+*Also see the announcement post: [Recognising the Best of the Best](/home/news/2016-11-02-recognising-the-best-of-the-best).*
 
 | User | Contributions |
 | ---- | ------------- |
@@ -86,7 +84,7 @@ The current users with this badge are noted in this table:
 
 ## 2017
 
-*Also see the announcement post: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
+*Also see the announcement post: [Community Contributors: 2017](/home/news/2017-12-24-community-contributors-2017).*
 
 | User | Contributions |
 | ---- | ------------- |
