@@ -20,7 +20,7 @@ You can discuss this event and follow the most important changes in the **[offic
 + Quarterfinals: 2018-06-23/2018-06-24
 + Semifinals: 2018-06-30/2018-07-01
 + Finals: 2018-07-07/2018-07-08
-+ Grand Finals: 2018-07-14/2018-05-15
++ Grand Finals: 2018-07-14/2018-07-15
  
 ## Prizes
 + **1st:** Profile badge, "osu!catch Champion" user title for one year
