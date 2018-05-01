@@ -168,7 +168,7 @@ _Map pools will be revealed one week in advance of each stage_
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2018: (TeamRead) vs (TeamBlue)".
+   - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2018: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
@@ -186,7 +186,7 @@ _Map pools will be revealed one week in advance of each stage_
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals Week 1 & Finals Week 2 use the same mappool.
+   - Finals and Grand Finals use the same mappool.
 
 2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
 3. Each mappool consists of 16 maps in total.
