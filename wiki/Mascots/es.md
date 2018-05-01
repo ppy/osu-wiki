@@ -34,7 +34,7 @@ Maria es la mascota de osu!mania que se unió en 2016-03-04. Su arte fue diseña
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto concurso de fanart](/community/contests/2) por [Crowie](/users/6894067), que ha sido clasificada en el puesto 21 de las votaciones.
+Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto concurso de fanart](/community/contests/2) por [Crowie](/users/6894067), y quedó clasificada en el puesto 21 de las votaciones.
 
 ## Camafeos
 
@@ -72,7 +72,7 @@ Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.
 
 ![Aiko](img/Aiko.jpg "Aiko")
 
-Diseñada por [JMC](/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos "Tabi" elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante corta con sólo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos "Tabi" elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
 
 ### Alisa
 
@@ -84,7 +84,7 @@ Diseñada por [\[ Glitch \]](/users/3781400), Alisa fue una de las participantes
 
 ![Tama](img/Tama.jpg "Tama")
 
-Diseñada por [crystalsuicine](/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente festivales, donde se arrebata cualquier takoyaki que encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
+Diseñada por [crystalsuicine](/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
 
 ### Taikonator
 
