@@ -22,8 +22,6 @@ tags:
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
-
 | Placing                                             | Prize(s)                             |
 |----------------------------------------------------|---------------------------------------|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge + 8 months of supporter |
@@ -31,7 +29,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The {MODE} World Cup 20{XX} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch French Cup 2018 is run by various french community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | ------------ | -------------- |
