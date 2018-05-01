@@ -1,10 +1,10 @@
 # Guía de Contribución de la osu!wiki
 
-¡Gracias por tu interés en hacer la osu!wiki mejor! En estos momentos, contribuir a la osu!wiki necesitará más tiempo y un poco más de esfuerzo para hacer que tus cambios realmente se apliquen. Esta guía rápida está destinada a novatos que nunca han trabajado con GitHub y la osu!wiki anteriormente. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para actualizaciones de contenido en este repositorio.
+¡Gracias por tu interés en hacer la osu!wiki mejor! En estos momentos, contribuir a la osu!wiki necesitará más tiempo y un poco más de esfuerzo para hacer que tus cambios realmente se apliquen. Esta guía de inicio rápido está destinada a los recién llegados que nunca han trabajado con GitHub ni con el flujo de trabajo de contribuciones de la osu!wiki. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para actualizaciones de contenido en este repositorio.
 
-Si en alguna parte estás confundido y/o necesitas ayuda, puedes enviar un mensaje al [chat de osu!dev en Discord](https://discord.gg/ppy) en el canal `#osu-wiki`.
+Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, siéntete libre de enviar un mensaje al [chat de Discord de osu!dev](https://discord.gg/ppy) en el canal `#osu-wiki`.
 
-## Para comenzar
+## Empezando
 
 ### Registrarse
 
@@ -44,7 +44,7 @@ Si en alguna parte estás confundido y/o necesitas ayuda, puedes enviar un mensa
 
 ![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada con tus revisiones\)")
 
-3\. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable,  más revisiones tendrás.
+3\. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable, más revisiones tendrás.
 
 4\. Para solucionar esto, ve [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
@@ -61,7 +61,7 @@ Tienes dos opciones:
 
 **Cuando hayas completado la edición de tu archivo, ya sea con la *Interfaz Web de GitHub* o *GitHub para Escritorio*, puedes continuar con la siguiente sección.**
 
-## Para finalizar
+## Finalizando
 
 ### Abrir un "pull request"
 
@@ -99,7 +99,7 @@ Tienes dos opciones:
 
 ### Revisiones
 
-Una vez que hayas creado tu "pull request", otros editores de la osu!wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que hayas cometido. **Necesitarás mantenerte al día con las revisiones,** de otra manera, ¡tu "pull request" se cancelará! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
+Una vez que hayas creado tu "pull request", otros editores de la osu!wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que puedes haber pasado por alto. **Necesitarás mantenerte al día con las revisiones,** de otra manera ¡Tu "pull request" puede ser marcada para su cierre! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu!wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
 
 ### Unión 
 
