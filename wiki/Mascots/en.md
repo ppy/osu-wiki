@@ -6,13 +6,13 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ## Official
 
-### pippi
+### ![osu!standard icon](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and had an appeareance in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](/users/9427), the pippidon sprite were created by [crystalsuicune](/users/9974), and the current art was designed by [Daru](/users/32480).
+pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](/users/9427), the pippidon sprite was created by [crystalsuicune](/users/9974), and the current art was designed by [Daru](/users/32480).
 
-### Yuzu
+### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
 <!-- *For the news post, see: [Meet Yuzu](/home/news/89483664163).* -->
 
@@ -20,15 +20,15 @@ pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 
 
 Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprites were done by [ztrot](/users/6347) while Daru has created the comboburst art.
 
-### Maria
+### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
 *For the news post, see: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
 
 ![Maria](img/Maria.png "Maria")
 
-Maria is the osu!mania mascot that had joined on 2016-03-04. Her art was designed by Daru.
+Maria is the osu!mania mascot that joined on 2016-03-04. Her art was designed by Daru.
 
-### Mocha
+### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
 *For the news post, see: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
