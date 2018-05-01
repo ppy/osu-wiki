@@ -100,21 +100,21 @@ The cookie in the main menu slowly rotated clockwise as time passed. Whereas the
 
 The community contributor badge was updated to match the new display of user badges; shaping the guidelines for how existing and future user badges should look like.
 
-![](img/osu!supporter-before.jpg)
+![](img/contributor-old.jpg "The old contributor badge")
 
-![](img/osu!supporter-after.jpg)
+![](/wiki/shared/contributor.jpg "The new contributor badge")
 
 ---
 
 In osu!web, thanks to nanaya, the header has been updated to match flyte's new design. Showing username history was added to the userpage. Username history were now visible and missing userpages now display a similar message from the old site, rather than giving the vague 404 page.
 
-![](img/header-before.jpg "The header before.")
+![](img/header-before.jpg "The header before")
 
-![](img/header-before-menu.jpg "The header's menu before.")
+![](img/header-before-menu.jpg "The header's menu before")
 
-![](img/header-after.jpg "The header after.")
+![](img/header-after.jpg "The header after")
 
-![](img/header-after-menu.jpg "The header's menu after.")
+![](img/header-after-menu.jpg "The header's menu after")
 
 ---
 
