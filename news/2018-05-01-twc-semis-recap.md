@@ -25,7 +25,7 @@ The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep o
 In the other winners bracket match, **Japan mercilessly knocked South Korea into the losers bracket with a 6-0 sweep.** If Japan continue to play at this level, the other remaining teams should be very concerned.
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/japan-perthed.jpg)
 
-Since Indonesia and Australia won their respective matches, they would now face each other. **Indonesia did win 6-2 after a 5 map win streak to close it out**, but don't let that scoreline fool you. Many of the maps could've gone either way, and the Indonesians had to fight tooth and nail for most of their wins. An exception would be the gruesome DoubleTime finisher map [Burn](https://osu.ppy.sh/beatmapsets/140698#taiko/351271), which is something the Australians certainly felt.
+Since Indonesia and Australia won their respective matches, they would now face each other. **Indonesia did win 6-2 after a 5 map win streak to close it out**, but don't let that scoreline fool you. Many of the maps could've gone either way, and the Indonesians had to fight tooth and nail for most of their wins. An exception would be the gruesome DoubleTime finisher map [Ellie Goulding - Burn](https://osu.ppy.sh/beatmapsets/140698#taiko/351271), which is something the Australians certainly felt.
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/indonesia-burn.jpg)
 
 A few reflections on the cup by the Australian player [Jaye](https://osu.ppy.sh/users/4841352) following their elimination: 
@@ -63,7 +63,7 @@ In the winners bracket, the undefeated teams of Japan and Taiwan will battle for
 
 **Want to join in on the Finals action?** The first match between South Korea and Canada starts on Sunday at 02:00 UTC on the [osulive channel](https://www.twitch.tv/osulive), so don't miss out! While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, why not have a look at the various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) which can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#), as well as [these leaderboards I've compiled](https://docs.google.com/spreadsheets/d/1cZzz-MiT3i6Hp0VW2XXvASMDUVe1ETl-r6fMKHwVhtE/edit#gid=1063908524).
 
-**Don't forget to buy a banner if you haven't already!** If you end up supporting the winner of the tournament, your banner will remain on your profile until the next world cup! Since there are so few teams remaining, the chances of that happening are fairly sizeable. You can pick up your banner at [the osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.
+**Don't forget to buy a banner if you haven't already!** If you end up supporting the winner of the tournament, your banner will remain on your profile until the next world cup! Since there are so few teams remaining, the chances of that happening are now fairly sizeable. You can pick up your banner at [the osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.
 
 As always, feedback is greatly appreciated, so feel free to provide some in the comments below or by PM. **See you next week!**
 
