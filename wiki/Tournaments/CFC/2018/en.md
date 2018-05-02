@@ -217,5 +217,25 @@ The Catch French Cup 2018 is run by various French community members by distribu
   - [DWB feat. Fade - One Reason (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/100892/#osu/323797)
 - Tiebreaker 
   - [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468/#fruits/1161865)
+  
+## Rules
+
+### General Rules
+
+* The tournament will be held in 1v1 double-elimination format with traditional seeding.
+* The matches will be played using Score V1 and Head to Head settings.
+* A referee will be present in every match.
+* The tournament will be held over 5 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
+* First week-end matches will be best of 7, second week-end matches best of 9, third week-end matches are best of 11, and fourth and fifth week-end matches will be best of 13. 
+
+### Match Rules
+
+1. The referee will create the room and invite the players in.
+1. Theplayers will roll to determine the order of picking warmups and maps.
+1. The higher roller will pick the first warmup map.
+1. The lower roller will ban first, the higher roller will pick first.
+    * FreeMod is forced mod, meaning every player has to use at least one mod.
+      * Tiebreaker is not forced mod but you may choose a mod.
+      * Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 [flag_FR]: /wiki/shared/flag/FR.gif
