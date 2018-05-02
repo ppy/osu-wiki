@@ -128,6 +128,12 @@ If you find your recent namechange has been undone, it may be because the userna
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
+#### Can I remove my previous usernames/delete username history?
+
+**Not at the moment, sorry.**
+
+Your profile will show all your previous purchased namechanges, and we do not accept request to remove them for now. If one of your previous usernames breaches your privacy (for example, if it contains your legal name), contact accounts@ppy.sh to request it removed.
+
 ### Other issues
 
 #### The flag on my account profile is wrong!
