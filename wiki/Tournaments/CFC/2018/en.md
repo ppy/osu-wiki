@@ -5,9 +5,9 @@ tags:
 ---
 # Catch French Cup 2018
 
-![](https://user-images.githubusercontent.com/13593112/39479837-bc0b8830-4d66-11e8-86ec-fdfefd15c845.png)
+![](logo.png)
 
-**CFC 2018**, short for **Catch French Cup 2018** is a one-on-one french-based osu!catch tournament hosted and organized by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263).
+**CFC 2018**, short for **Catch French Cup 2018**, is a one-on-one french-based osu!catch tournament hosted and organized by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263).
 
 ## Tournament Schedule
 
@@ -24,11 +24,11 @@ tags:
 
 | Place                                             | Prize(s)                             |
 |:--------------------------------------------------:|---------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge + 8 months of supporter |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge + 8 months of osu!supporter tag |
 
 ## Organization
 
-The Catch French Cup 2018 is run by various french community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch French Cup 2018 is run by various French community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | ------------ | -------------- |
@@ -44,7 +44,6 @@ The Catch French Cup 2018 is run by various french community members by distribu
 - [Discussion thread](/community/forums/topics/714536)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Main Spreadsheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
-
 -----------------------------------
 
 <!-- ![Podium](podium.jpg) -->
