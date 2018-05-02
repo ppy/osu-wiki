@@ -15,7 +15,7 @@ We'll be granting the supporter tags and contacting the first prize winner about
 
 **Update (11/1):** It has been brought to our attention that the entry awarded third place by public poll was in violation of the contest rules ("Everything in your image must be your own work! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose"). As such, this entry has been disqualified and the 4-month supporter tag has been revoked.
 
-The winners are…
+The winners are...
 
 ## PUBLIC POLL RESULTS:
 

@@ -118,7 +118,7 @@ He did a nice job since he didn't overuse jumps nor streams but he tried his bes
 
 For osu!mania, **[Rumia-](https://osu.ppy.sh/u/1787171)** was able to select their personal most noteworthy beatmap from last month.
 
-- **[Ayane - Endless tears…](https://osu.ppy.sh/s/201476) by [richardfeder](https://osu.ppy.sh/u/2446000)**
+- **[Ayane - Endless tears...](https://osu.ppy.sh/s/201476) by [richardfeder](https://osu.ppy.sh/u/2446000)**
 
 This one is a really beautiful marathon map. Especially the guitar solo part was impressively mapped. The way this map is executed and mapped made me recommend this map to everyone who plays osu!mania
 

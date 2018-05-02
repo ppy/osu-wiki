@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-av
 date: 2015-03-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-available-contest
 ---
-Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)… [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
+Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)... [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
 
 ![](https://puu.sh/gFcQ2/6cbb2ea5e1.jpg)
 

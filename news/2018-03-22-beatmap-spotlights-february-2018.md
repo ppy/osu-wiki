@@ -108,11 +108,11 @@ Another refreshing difficulty you won't want to miss is [JBHyperion](https://osu
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/four-seasons.jpg)](http://osu.ppy.sh/beatmapsets/597325)
 
-[-wwwww](https://osu.ppy.sh/users/3922569)'s map of "Four Seasons" by t=NODE unsurprisingly takes players on a year long journey through the four seasons. From the calm of spring, to the warming sunshine of summer and to a somewhat dramatic autumn warning us of what’s about to come next. 
+[-wwwww](https://osu.ppy.sh/users/3922569)'s map of "Four Seasons" by t=NODE unsurprisingly takes players on a year long journey through the four seasons. From the calm of spring, to the warming sunshine of summer and to a somewhat dramatic autumn warning us of what's about to come next. 
 
 The white out blizzard of winter is ironically where the song and map come to life. Harsh and unforgiving, much like winter itself, -wwwww does not hold back. Winter is the season where this map earns its star rating. 
 
-There’s no fire to warm yourself by and escape the cold on these challenging yet beautiful stream patterns so make sure you're well prepared.
+There's no fire to warm yourself by and escape the cold on these challenging yet beautiful stream patterns so make sure you're well prepared.
 
 Whilst it may be a simple touch, the storyboard is a really nice addition to the beatmap's theme. Falling leaves, glowing sunshine, a harsh blizzard and even a touch of rain accompany each season that adds to the atmosphere of the song.
 
@@ -132,13 +132,13 @@ Despite some similarities, "Sennen no Kotowari" is a noticeably more subdued map
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/yume.jpg)](http://osu.ppy.sh/beatmapsets/619531)
 
-Topping off this month’s mania Spotlights, [eyes](https://osu.ppy.sh/users/7741797) returns to the ranked scene after two years with RADWIMPS’s “Yume Tourou”. With a fresh take on 8 key mapping, eyes restricts his columns to create a focus on one side of the map to reflect the pan of the music, and also utilizes slider velocity changes to emphasize key transitions and provide a varied experience for any player to enjoy.
+Topping off this month's mania Spotlights, [eyes](https://osu.ppy.sh/users/7741797) returns to the ranked scene after two years with RADWIMPS's "Yume Tourou". With a fresh take on 8 key mapping, eyes restricts his columns to create a focus on one side of the map to reflect the pan of the music, and also utilizes slider velocity changes to emphasize key transitions and provide a varied experience for any player to enjoy.
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/yukari.jpg)](http://osu.ppy.sh/beatmapsets/416020)
 
 After a two-year break between his last ranked map and now, [liaoxingyao](https://osu.ppy.sh/users/3620963) makes a come back with Ocelot's "YUKARI". Featuring prominent use of stacks and trills to create a contrast within the top difficulty, players must be alert to avoid missing at any of the many rigid transitions. 
 
-Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it’s found itself a spot in this month’s spotlights.
+Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it's found itself a spot in this month's spotlights.
 
 --------
 
