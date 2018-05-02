@@ -18,7 +18,7 @@ In first place with a whopping **15923** votes is [Sunako](https://osu.ppy.sh/us
 
 It turns out Mocha looks really good in buns, who knew?
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/In%20those%20days.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20In%20those%20days.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/In%20those%20days.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20In%20those%20days.png)
 
 Trailing super close in second place with **14251** votes is [In those days](https://osu.ppy.sh/users/777173)'s rendition of a spring-attired Pippi talking a walk among sakura-trees in bloom. Simply spectacular, what more is there to say?
 
@@ -34,7 +34,7 @@ Coming in shortly after with **11675** votes, [Evaine](https://osu.ppy.sh/users/
 
 Strolling by with **8876** votes total, [Amumizu](https://osu.ppy.sh/users/2920755)'s strolling Mocha features all the natural beauty of spring and our youngest mascot to match.
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Raynel.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Raynel.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Raynel.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Raynel.png)
 
 Earning **7602** votes, [Raynel](https://osu.ppy.sh/users/6318119)'s simple but beautifully stark piece frames both Pippi and Mocha in traditional Japanese attire before a grand estate.
 
@@ -42,11 +42,11 @@ Earning **7602** votes, [Raynel](https://osu.ppy.sh/users/6318119)'s simple but 
 
 Putting the selfie in spring, [keizami](https://osu.ppy.sh/users/5402247)'s adorable piece scored **7270** votes, featuring all of the major mascots, and perhaps the first time in a fanart contest where Maria's actually showing her age.
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/2Su.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%202Su.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/2Su.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%202Su.png)
 
 Chasing close after with **6734** votes, [2Su](https://osu.ppy.sh/users/6598966)'s amazing work features the major mascots all dressed up in formal springwear, enjoying a walk under a blooming tree. Bonus points from us for one of the nicest Maria cameos we've seen so far as well!
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/YaoiForeva.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20YaoiForeva.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/YaoiForeva.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20YaoiForeva.png)
 
 Saying hello to **6556** votes, [YaoiForeva](https://osu.ppy.sh/users/7959038)'s take on Pippi and Maria enjoying some juice and sake respectively before a beautiful blue sky. Twice in one contest where a finalist entry features Maria drinking!
 
@@ -60,7 +60,7 @@ I also feel compelled to note that the depiction of the osu!team cockpit relates
 
 Scoring **5301** votes, [Heidy](https://osu.ppy.sh/users/7425199)'s beautifully illustrated take on Mocha and Pippi enjoying some sun and candy is serene, simple, and absolutely beautiful.
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Evans.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Evans.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Evans.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Evans.png)
 
 **5004** votes. [Evans](https://osu.ppy.sh/users/11967425). Mocha. Cute.
 
@@ -70,11 +70,11 @@ It is just too adorable to describe any more than that. Check it out!
 
 Sunset overtones herald **4771** votes for [Vio](https://osu.ppy.sh/users/5661237)'s wonderfully unique entry, showcasing Mocha enjoying a ride on her bike and appreciating the local wildlife. A beautifully realised setting that just *oozes* personality. Excellent work!
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/R3_AL.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20R3_AL.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/R3_AL.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20R3_AL.png)
 
 Achieving **3664** votes, [R3\_AL](https://osu.ppy.sh/users/11983357)'s adorable drawing of a rather aptly titled spring Pippi showcases her wonderfully bright-eyed gaze highlighted with vibrant colouring.
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/RaudhrAkai.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20RaudhrAkai.jpg)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/RaudhrAkai.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20RaudhrAkai.png)
 
 On wings of a spring-tinged dream, **3647** voters were enthralled by [RaudhrAkai](https://osu.ppy.sh/users/1631442)'s fantastical take on an otherwordly Pippi enjoying some springtime scenery. Well done!
 
