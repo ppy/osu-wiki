@@ -231,8 +231,8 @@ The Catch French Cup 2018 is run by various French community members by distribu
 ### Match Rules
 
 1. The referee will create the room and invite the players in.
-1. Theplayers will roll to determine the order of picking warmups and maps.
-1. The higher roller will pick the first warmup map.
+1. The players will roll to determine the order of picking warmups and beatmaps.
+1. The higher roller will pick the first warmup beatmap.
 1. The lower roller will ban first, the higher roller will pick first.
     * FreeMod is forced mod, meaning every player has to use at least one mod.
       * Tiebreaker is not forced mod but you may choose a mod.
