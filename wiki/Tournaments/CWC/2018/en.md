@@ -21,7 +21,7 @@ The **osu!catch World Cup 2018** (**_CWC 2018_**) is a country-based osu!catch t
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |
 | Finals | 2018-07-07/2018-07-08 |
-| Grand Finals | 2018-07-14/2018-05-15 |
+| Grand Finals | 2018-07-14/2018-07-15 |
 
 ## Prizes
 
