@@ -14,7 +14,7 @@ Without further ado, here are the finalists from the 2018 Spring Fanart Contest:
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Sunako.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Sunako.jpg)
 
-In first place with a whopping **15923** votes is [Sunako](https://osu.ppy.sh/users/2801166)'s entry! Featuring all of the main four mascots plus Tama enjoying a evening walk throughout a Japanese-themed festival, this wonderfully captivating work is simple, clean, and absolutely adorable.
+In first place with a whopping **15923** votes is [Sunako](https://osu.ppy.sh/users/2801166)'s entry! Featuring all of the main four mascots plus Tama enjoying an evening walk throughout a Japanese-themed festival, this wonderfully captivating work is simple, clean, and absolutely adorable.
 
 It turns out Mocha looks really good in buns, who knew?
 
@@ -44,7 +44,7 @@ Putting the selfie in spring, [keizami](https://osu.ppy.sh/users/5402247)'s ador
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/2Su.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%202Su.png)
 
-Chasing close after with **6734** votes, [2Su](https://osu.ppy.sh/users/6598966)'s amazing work features the major mascots all dressed up in formal springwear, enjoying a walk under a blooming tree. Bonus points from us for one of the nicest Maria cameos we've seen so far as well!
+Chasing close after with **6734** votes, [2Su](https://osu.ppy.sh/users/6598966)'s amazing work features the major mascots all dressed up in formal spring wear, enjoying a walk under a blooming tree. Bonus points from us for one of the nicest Maria cameos we've seen so far as well!
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/YaoiForeva.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20YaoiForeva.png)
 
@@ -76,7 +76,7 @@ Achieving **3664** votes, [R3\_AL](https://osu.ppy.sh/users/11983357)'s adorable
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/RaudhrAkai.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20RaudhrAkai.png)
 
-On wings of a spring-tinged dream, **3647** voters were enthralled by [RaudhrAkai](https://osu.ppy.sh/users/1631442)'s fantastical take on an otherwordly Pippi enjoying some springtime scenery. Well done!
+On wings of a spring-tinged dream, **3647** voters were enthralled by [RaudhrAkai](https://osu.ppy.sh/users/1631442)'s fantastical take on an otherworldly Pippi enjoying some springtime scenery. Well done!
 
 ---------
 
@@ -84,6 +84,6 @@ Like what you see? [Download all of the entries bundled together in high quality
 
 We'd like to thank everyone who entered for helping make the contest so great - this particular fanart contest was accompanied with a LOT of calls for more votes across the board, highlighting the number of incredibly talented entries we got to see.
 
-Each finalist snags themselves 2 months of osu!supporter for themselves or a friend, and the winning pieces are available **NOW** in-game as the Spring seasonal background pack, and will remain live for several weeks. Show the artist of your favourite piece some support and check out their profiles!
+Each finalist snags themselves 2 months of osu!supporter for themselves or a friend, and their works are available **NOW** in-game as the Spring seasonal background pack, and will remain live for several weeks. Show the artist of your favourite piece some support and check out their profiles!
 
 —Ephemeral
