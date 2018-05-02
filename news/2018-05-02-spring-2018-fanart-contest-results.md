@@ -20,19 +20,19 @@ It turns out Mocha looks really good in buns, who knew?
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/In%20those%20days.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20In%20those%20days.png)
 
-Trailing super close in second place with **14251** votes is [In those days](https://osu.ppy.sh/users/777173)'s rendition of a spring-attired Pippi talking a walk among sakura-trees in bloom. Simply spectacular, what more is there to say?
+Trailing super close in second place with **14251** votes is [In those days](https://osu.ppy.sh/users/777173)'s rendition of a spring-attired Pippi taking a walk among sakura-trees in bloom. Simply spectacular, what more is there to say?
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Leissss.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Leissss.jpg)
 
-In third place, [Leissss](https://osu.ppy.sh/users/4750716)'s stunning entry aimed for the stars and scored **13997** votes, set before two torii upon a starlit plain. Amazing use of perspective and colour to really make the surroundings pop just as much as Pippi and Mocha themselves!
+In third place, [Leissss](https://osu.ppy.sh/users/4750716)'s stunning entry aimed for the stars and scored **13997** votes, set before two torii upon a starlit plain. Amazing use of perspective and colour really makes the surroundings pop just as much as Pippi and Mocha themselves!
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Evaine.jpg)
 
-Coming in shortly after with **11675** votes, [Evaine](https://osu.ppy.sh/users/7295733)'s incredible piece, featuring Alisa from the osu!taiko community mascots set to a frankly breathtakingly rendered backdrop using some of the best colouring we've ever seen. Absolutely spectacular, well done!
+Coming in shortly after with **11675** votes, [Evaine](https://osu.ppy.sh/users/7295733)'s incredible piece, featuring Alisa from the osu!taiko community mascots is set to a frankly breathtakingly rendered backdrop using some of the best colouring we've ever seen. Absolutely spectacular, well done!
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Amumizu.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Amumizu.jpg)
 
-Strolling by with **8876** votes total, [Amumizu](https://osu.ppy.sh/users/2920755)'s strolling Mocha features all the natural beauty of spring and our youngest mascot to match.
+Strolling by with **8876** votes total, [Amumizu](https://osu.ppy.sh/users/2920755)'s take on Mocha features all the natural beauty of spring and our youngest mascot to match.
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Raynel.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Raynel.png)
 
