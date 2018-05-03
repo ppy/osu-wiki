@@ -25,9 +25,9 @@ First of all, congratulations to the winners of the February 2018 Spotlights. Th
 
 The titles are as follows:
 
-+ **1st place:** Master of *circles/drums/fruits/piano keys*
-+ **2nd place:** Expert of *circles/drums/fruits/piano keys*
-+ **3rd place:** Scholar of *circles/drums/fruits/piano keys*
++ **1st place:** Master of *Circles/Drums/Fruits/Piano Keys*
++ **2nd place:** Expert of *Circles/Drums/Fruits/Piano Keys*
++ **3rd place:** Scholar of *Circles/Drums/Fruits/Piano Keys*
 
 We hope that this change will bring about a new level of competition and excitement to the Spotlights Leaderboards, because let's be honest - we're tired of seeing Toy dominate the Spotlights rankings *every single month* for the past year and a half. 
 
