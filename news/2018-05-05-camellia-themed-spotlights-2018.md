@@ -19,7 +19,7 @@ Congratulations to the winners of the Anime Remix Themed Spotlights. They will r
 + **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
-## osu!
+![](/wiki/shared/news/2018-05-05-camellia-themed-spotlights-2018/spotlight-header-osu.jpg)
 
 + [Camellia - dreamless wanderer](https://osu.ppy.sh/beatmapsets/286414) by [Skystar](https://osu.ppy.sh/users/873961)
 + [Camellia ft. Ayakura Mei - Integration under the moon of codes](https://osu.ppy.sh/beatmapsets/57995) by [kiddly](https://osu.ppy.sh/users/74937)
@@ -27,21 +27,21 @@ Congratulations to the winners of the Anime Remix Themed Spotlights. They will r
 + [Camellia - d:for the DELTA](https://osu.ppy.sh/beatmapsets/373240) by [Naitoshi](https://osu.ppy.sh/users/2730086)
 + [Camellia - Chirality](https://osu.ppy.sh/beatmapsets/227598) by [RLC](https://osu.ppy.sh/users/1047883)
 
-## osu!taiko
+![](/wiki/shared/news/2018-05-05-camellia-themed-spotlights-2018/spotlight-header-taiko.jpg)
 
 + [Camellia - Routing](https://osu.ppy.sh/beatmapsets/375111) by [MMzz](https://osu.ppy.sh/users/128993)
 + [Camellia - LET'S JUMP](https://osu.ppy.sh/beatmapsets/688928) by [Nishizumi](https://osu.ppy.sh/users/2496768)
 + [Camellia - POWA OF DA WILDANES](https://osu.ppy.sh/beatmapsets/693222) by [MMzz](https://osu.ppy.sh/users/128993)
 + [Camellia - flying in the flow of deep-sea](https://osu.ppy.sh/beatmapsets/397682) by [Nwolf](https://osu.ppy.sh/users/1910766)
 
-## osu!catch
+![](/wiki/shared/news/2018-05-05-camellia-themed-spotlights-2018/spotlight-header-catch.jpg)
 
 + [KASAI HARCORES - Cycle Hit](https://osu.ppy.sh/beatmapsets/692367) by [Spectator](https://osu.ppy.sh/users/702598) and [Ascendance](https://osu.ppy.sh/users/2931883)
 + [Camellia - d:for the DELTA](https://osu.ppy.sh/beatmapsets/416308) by [alienflybot](https://osu.ppy.sh/users/636114)
 + [Camellia - dreamless wanderer](https://osu.ppy.sh/beatmapsets/286414) by [Minato Yukina](https://osu.ppy.sh/users/531253)
 + [Camellia - Towards The Horizon](https://osu.ppy.sh/beatmapsets/629384) by [Sinnoh](https://osu.ppy.sh/users/4236057)
 
-## osu!mania
+![](/wiki/shared/news/2018-05-05-camellia-themed-spotlights-2018/spotlight-header-mania.jpg)
 
 + [Camellia - Lunatic Rough Party!! (Long Ver.)](https://osu.ppy.sh/beatmapsets/286262) by [Ichigaki](https://osu.ppy.sh/users/2403444)
 + [Camellia - PLANET//SHAPER](https://osu.ppy.sh/beatmapsets/376293) by [Evening](https://osu.ppy.sh/users/2193881)
