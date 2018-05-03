@@ -323,7 +323,7 @@ Mappools will be revealed one week in advance of each stage.
 [**Download the mappack here! (14.4 MB)**](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO)
 
 - FreeMod
-	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology]](https://osu.ppy.sh/beatmaps/1624698)
+	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology\]](https://osu.ppy.sh/beatmaps/1624698)
 	- [Eckle - Sakoya (cut) (eyes) \[deshoda v2\]](https://osu.ppy.sh/beatmaps/1624695)
 	- [Kageyama Shota - Ryuusei Aika (SurfChu85) \[Lamentation\]](https://osu.ppy.sh/beatmaps/1624699)
 	- [ninomiya tatsuki - furiae (Lenfried-) \[Desolate\]](https://osu.ppy.sh/beatmaps/1624696)
