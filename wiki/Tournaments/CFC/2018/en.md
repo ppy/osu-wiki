@@ -7,7 +7,7 @@ tags:
 
 ![](logo.png)
 
-**CFC 2018**, short for **Catch French Cup 2018**, is a one-on-one french-based osu!catch tournament hosted and organized by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263).
+**CFC 2018**, short for **Catch French Cup 2018**, is a one-on-one French-based osu!catch tournament hosted and organized by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263).
 
 ## Tournament Schedule
 
@@ -44,17 +44,11 @@ The Catch French Cup 2018 is run by various French community members by distribu
 - [Discussion thread](/community/forums/topics/714536)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Main Spreadsheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
------------------------------------
 
-<!-- ![Podium](podium.jpg) -->
-
-<!-- ![Bracket](bracket.jpg) -->
-
----------------------------------------
 ## Participants
 
 | Group | Top | High | Low | Unseeded |
-| ------- | ---- | ----- | ----- | ----------- |
+| :-----: | ---- | ----- | ----- | ----------- |
 | **A** | ![][flag_FR] [bastoo0](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [[E] n i g m a](https://osu.ppy.sh/users/9354778)
 | **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Kyuare](https://osu.ppy.sh/users/2705312) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467)
 | **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750)
@@ -68,7 +62,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 
 **[Download the mappack here! (239.6MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo)**
 
-- Nomod
+- NoMod
   - [Getty vs. DJ DiA - Ops:Code-Rapture- \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060/#fruits/1188198)
   - [Silentroom - Nhelv \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/684268/#fruits/1448121)
   - [Camellia - gigadelic (Camellia's "The TERA" RMX) \[Crystal's Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/388122/#fruits/861028)
@@ -90,7 +84,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
   - [GRANRODEO - Can Do (TV Size) \[Platter\]](https://osu.ppy.sh/beatmapsets/580381/#fruits/1228853)
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura \[Insane\]](https://osu.ppy.sh/beatmapsets/36248/#fruits/148911)
   - [Hardwell & Joey Dale feat. Luciana - Arcadia \[Paradise\]](https://osu.ppy.sh/beatmapsets/258193/#fruits/590695)
-- Freemod
+- FreeMod
   - [Various Artists - Dan ~ CTB ~ JumpMap Pack \[Los! Los! Los! ~ Aleph ~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/692137/#fruits/1464599)
   - [Within Temptation - In The Middle Of The Night (Nightcore Mix) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/603419/#fruits/1274497)
   - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) \[Holy Shit! It's Rainbow Dash!!\]](https://osu.ppy.sh/beatmapsets/57255/#fruits/172662)
@@ -102,7 +96,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 
 **[Download the mappack here! (116.2MB)](https://mega.nz/#!R9VxiBoS!prokzQthV3M32505pt7dHmeLMejvV2U2dUhGegnhfHM)**
 
-- Nomod
+- NoMod
  	- [BlackYooh vs. siromaru - BLACK or WHITE? \[EXTRA\]](https://osu.ppy.sh/beatmapsets/508846/#fruits/1082169)
   - [xi - Glorious Crown \[ULTRA\]](https://osu.ppy.sh/beatmapsets/642391/#fruits/1361874)
   - [ZUN remixed by LeaF - Resurrection Spell \[Hourai Doll\]](https://osu.ppy.sh/beatmapsets/311925/#fruits/696566)
@@ -124,7 +118,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
    - [REDALiCE - FLOWER REDALiCE Remix \[Platter\]](https://osu.ppy.sh/beatmapsets/145194/#fruits/415798)
    - [zts - dreamenddischarger \[Love Letter\]](https://osu.ppy.sh/beatmapsets/339615/#fruits/758298)
    - [IOSYS - Border of Death \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14107/#fruits/53380)
-- Freemod
+- FreeMod
    - [LeaF - Evanescent \[Crystal's Deluge\]](https://osu.ppy.sh/beatmapsets/176646/#fruits/427249)
    - [O2i3 - Ooi [Game Edit] \[MQ (Deluge EX)\]](https://osu.ppy.sh/beatmapsets/451239/#fruits/968033)
    - [I SEE MONSTAS - Holdin On (Skrillex and Nero Remix) \[Hobbes2's Extreme\]](https://osu.ppy.sh/beatmapsets/701330/#fruits/1498152)
@@ -136,7 +130,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 
 **[Download the mappack here! (172.7MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU)**
 
-- Nomod
+- NoMod
  	- [D.watt(OTAKU-ELITE Recordings) - Opium and Purple haze \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/596519/#fruits/1261322)
   - [BTS - FIRE \[Overdose\]](https://osu.ppy.sh/beatmapsets/731684/#fruits/1544003)
   - [TERRASPEX - AMAZING BREAK \[KYUARE SPEC'S INVASION\]](https://osu.ppy.sh/beatmapsets/727329/#fruits/1535572)
@@ -158,7 +152,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
    - [Goose house - Hikaru nara \[Sc4's Rain\]](https://osu.ppy.sh/beatmapsets/519023/#fruits/1113160)
    - [Akiko Shikata - Umineko no Naku Koro ni \~Rengoku\~ \[AHO\]](https://osu.ppy.sh/beatmapsets/21079/#fruits/77996)
    - [rerulili - Noushou Sakuretsu Girl \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434/#fruits/208935)
-- Freemod
+- FreeMod
    - [Hige Driver join. SELEN - Dadadadadadadadadada \[EX\]](https://osu.ppy.sh/beatmapsets/350076/#fruits/771879)
    - [Helblinde - Grief & Malice \[Madness\]](https://osu.ppy.sh/beatmapsets/325817/#fruits/723610)
    - [Sagara Kokoro - Hoshizora no Ima \[S.S\]](https://osu.ppy.sh/beatmapsets/79116/#fruits/221950)
@@ -170,7 +164,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 
 **[Download the mappack here! (109.8MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68)**
 
-- Nomod
+- NoMod
   - [PUSHER - Feel U \[Overdose\]](https://osu.ppy.sh/beatmapsets/740666/#fruits/1562529)
   - [M2U - Marigold (feat. Guriri) \[Alice\]](https://osu.ppy.sh/beatmapsets/605710/#fruits/1279904)
   - [Qrispy Joybox - licca \[Special\]](https://osu.ppy.sh/beatmapsets/242877/#fruits/560453)
@@ -187,7 +181,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
    - [Mili - Utopiosphere \[Platter\]](https://osu.ppy.sh/beatmapsets/187177/#fruits/446767)
    - [Function Phantom - Algebra \[Sinnoh's Platter\]](https://osu.ppy.sh/beatmapsets/468281/#fruits/1442004)
    - [senya - Magica \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791/#fruits/248474)
-- Freemod
+- FreeMod
    - [nano - Nevereverland \[Rain\]](https://osu.ppy.sh/beatmapsets/149570/#fruits/439454)
    - [Roselia - LOUDER \[Crystal's Rain\]](https://osu.ppy.sh/beatmapsets/595580/#fruits/1270273)
    - [Hyadain - Hyadain no Joujou Yuujou (TV Size) \[Saten's SELAMAT PAGI!\]](https://osu.ppy.sh/beatmapsets/32775/#fruits/112586)
@@ -198,7 +192,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 
 **[Download the mappack here! (81.3MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM)**
 
-- Nomod
+- NoMod
   - [ClariS - Hitorigoto -TV MIX- \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/624544/#fruits/1316296)
   - [An - Artcore Jinja \[Sauci's Rain\]](https://osu.ppy.sh/beatmapsets/215155/#fruits/506536)
   - [AKI AKANE - Kando*Reduction  \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/262403/#osu/598863)
@@ -212,7 +206,7 @@ The Catch French Cup 2018 is run by various French community members by distribu
 - Double Time
   - [Goose house - 18sai \[Platter\]](https://osu.ppy.sh/beatmapsets/242856/#fruits/560407)
   - [All Levels at Once - Changeling  \[Insane\]](https://osu.ppy.sh/beatmapsets/68169/#osu/197482)
-- Freemod
+- FreeMod
   - [Mili - Utopiosphere -Platonism- \[Tyrell's Utopia\]](https://osu.ppy.sh/beatmapsets/522132/#fruits/1111110)
   - [DWB feat. Fade - One Reason (TV Size) \[Insane\]](https://osu.ppy.sh/beatmapsets/100892/#osu/323797)
 - Tiebreaker 
@@ -223,12 +217,12 @@ The Catch French Cup 2018 is run by various French community members by distribu
 ### General Rules
 
 * The tournament will be held in 1v1 double-elimination format with traditional seeding.
-* The matches will be played using Score V1 and Head to Head settings.
+* The matches will be played using **Score V1** and **Head to Head** settings.
 * A referee will be present in every match.
 * The tournament will be held over 5 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
 * First week-end matches will be best of 7, second week-end matches best of 9, third week-end matches are best of 11, and fourth and fifth week-end matches will be best of 13. 
 
-### Match Rules
+### Match Instructions
 
 1. The referee will create the room and invite the players in.
 1. The players will roll to determine the order of picking warmups and beatmaps.
