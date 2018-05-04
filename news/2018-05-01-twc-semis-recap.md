@@ -15,7 +15,7 @@ The Semifinals offered some very exciting matches, including the first tiebreake
 
 The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep over Brazil.** While some maps were close, Brazil leaves the match empty-handed as they're knocked out of the tournament along with Chile, leaving no Latin American teams left in the cup.
 
-**The European brawl between Spain and Poland ended 6-2 for Spain** [CreepyDuck](https://osu.ppy.sh/users/2435013) besting both of the Spaniards on 5 out of 8 maps was simply not enough for Poland. Spain would be the last European team standing, but not for long. 
+**The European brawl between Spain and Poland ended 6-2 for Spain.** [CreepyDuck](https://osu.ppy.sh/users/2435013) besting both of the Spaniards on 5 out of 8 maps was simply not enough for Poland. Spain would be the last European team standing, but not for long. 
 
 **Canada versus Hong Kong was the definite highlight of the weekend, ending 6-5 for the Canadians.** The mid-seeded Hong Kong team took everyone by surprise as they took Canada all the way to tiebreaker where they narrowly lost. If you missed this truly spectacular performance, you can rewatch it on the [osulive Twitch channel](https://www.twitch.tv/osulive/videos/all).
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/canada-hk-tiebreaker.jpg)
