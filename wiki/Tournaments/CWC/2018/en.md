@@ -64,7 +64,7 @@ _The participant list will be revealed once all sign ups are processed, this cou
 
 ## Mappools
 
-_Map pools will be revealed one week in advance of each stage_
+_Mappools will be revealed one week in advance of each stage_
 
 ------------------------------------------------------------------------
 
@@ -75,16 +75,16 @@ _Map pools will be revealed one week in advance of each stage_
 1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 
-2. Map scoring is based on Score V2.
+2. Map scoring will use Score V2.
 
-3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+   - There will be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
 
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a map gets considered as passing it.
+   - Reviving and surviving during a map is considered as passing it.
 
 7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
@@ -92,14 +92,14 @@ _Map pools will be revealed one week in advance of each stage_
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
-11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
+11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -171,12 +171,12 @@ _Map pools will be revealed one week in advance of each stage_
    - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2018: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
-2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
+2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning.
+   - The winner of the !roll starts picking the first beatmap of the match.
 
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
@@ -191,12 +191,12 @@ _Map pools will be revealed one week in advance of each stage_
 2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
-5. The NoMod bracket will be played with no modes activated.
+5. The NoMod bracket will be played with no mods activated.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 
 7. The tiebreaker will be played under NoMod conditions.
-8. The size of the NoMod bracket will be 6 in all stages.
+8. There will be 6 maps in the NoMod bracket for all stages.
 9. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in all stages.
 
 ### Scheduling Instructions
