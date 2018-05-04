@@ -60,7 +60,7 @@ And finally, we have one more beatmap from a_hisa - Tokei no Heya to Seishin Sek
 
 Momoko has done a great job here on capturing this song through his difficulty, featuring peculiar patterns arranged in a clean and polished fashion which perfectly resonates with every single detail of the song. The rest of Momoko's mapset is not to be neglected either - they are no less expressive when compared to the top difficulty and is definitely worth playing as well!
 
-[![](/wiki/share/news/2018-05-03-beatmap-spotlights-march-2018/dum-surfer.jpg)](http://osu.ppy.sh/beatmapsets/716193)
+[![](/wiki/shared/news/2018-05-03-beatmap-spotlights-march-2018/dum-surfer.jpg)](http://osu.ppy.sh/beatmapsets/716193)
 
 This month, [dsco](https://osu.ppy.sh/users/4330511) brings us "Dum Surfer" by "King Krule". The mapper managed to take geometrical mapping to a whole nother level by combining it with low approach rate and perfectly overlapping stacks. These give the mapper the freedom to use unorthodox mapping techniques like multiple stacked notes with different distances in time. Combined with a type of song not very common on osu!, this mapset is a unique experience you should not miss out on!
 
