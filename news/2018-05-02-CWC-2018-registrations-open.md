@@ -32,12 +32,12 @@ _The rest of the prizes will be determined during the registration phase._
 ## How do I register?
  
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/15)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
++ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
 + Hand in your registration before the **16th of May.**
 
-Please note - you may only participate if you are of a **osu!catch global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
+Please note that you may only participate if you are of a **osu!catch global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
  
-If your registration successfully passes our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
+If your registration successfully passes our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country is assigned, the list will be sent to them. This may take a while, so please be patient.
  
 _Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
  
