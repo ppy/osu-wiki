@@ -100,7 +100,7 @@ Spectator never fails to impress both players and mappers with his style through
 
 [![](/wiki/shared/news/2018-05-03-beatmap-spotlights-march-2018/element-of-spada.jpg)](http://osu.ppy.sh/beatmapsets/485733)
 
-Finally making it's long-overdue arrival in the Ranked section, [Tenshichan](https://osu.ppy.sh/users/1101600)'s "Element of SPADA" is a prime example of the beauty of simplicity. Without attempting any particularly radical patterning or quirky rhythm choices, this approval-length beatmap still manages to interest and challenge the player, continuously shifting and evolving throughout. Perhaps more importantly, its also an absolute joy to play through.
+Finally making it's long-overdue arrival in the Ranked section, [Tenshichan](https://osu.ppy.sh/users/1101600)'s "Element of SPADA" is a prime example of the beauty of simplicity. Without attempting any particularly radical patterning or quirky rhythm choices, this approval-length beatmap still manages to interest and challenge the player, continuously shifting and evolving throughout. Perhaps more importantly, it's also an absolute joy to play through.
 
 After previously producing one of the most dramatic and exhilarating matches of the osu!catch World Cup 2017, it's great to see such a memorable and high quality beatmap given the spotlight it deserves for all to experience.
 
