@@ -22,7 +22,7 @@ The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep o
 
 **In the first winners bracket match, Taiwan stopped USA in their tracks with a 6-3 win.** The US did steal one more map from Taiwan than last year, but will need to perform even better to contend for the silver medal moving forward.
 
-In the other winners bracket match, **Japan mercilessly knocked South Korea into the losers bracket with a 6-0 sweep.** If Japan continue to play at this level, the other remaining teams should be very concerned.
+In the other winners bracket match, **Japan mercilessly knocked South Korea into the losers bracket with a 6-0 sweep.** If Japan continues to play at this level, the other remaining teams should be very concerned.
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/japan-perthed.jpg)
 
 Since Indonesia and Australia won their respective matches, they would now face each other. **Indonesia did win 6-2 after a 5 map win streak to close it out**, but don't let that scoreline fool you. Many of the maps could've gone either way, and the Indonesians had to fight tooth and nail for most of their wins. An exception would be the gruesome DoubleTime finisher map [Ellie Goulding - Burn](https://osu.ppy.sh/beatmapsets/140698#taiko/351271), which is something the Australians certainly felt.
