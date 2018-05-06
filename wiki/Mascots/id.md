@@ -6,13 +6,13 @@ Terdapat sebuah video di Youtube yang menampilkan maskot osu!, konten tersebut b
 
 ## Resmi
 
-### pippi
+### ![osu!standard icon](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergabung pada Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi awalnya dirancang oleh [Sarumaru](/users/9427), sprite pippidon dibuat oleh [crystalsuicune](/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](/users/32480).
 
-### Yuzu
+### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
 <!-- *Untuk postingan beritanya, lihat: [Meet Yuzu](/home/news/89483664163).* -->
 
@@ -20,7 +20,7 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergab
 
 Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172cm, dan beratnya 65kg. Konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](/users/6347) lalu Daru membuat comboburst-nya.
 
-### Maria
+### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
 *Untuk postingan beritanya, lihat: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
 
@@ -28,7 +28,7 @@ Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir
 
 Maria adalah maskot osu!mania yang bergabung pada 4 Maret 2016. Maria dirancang oleh Daru.
 
-### Mocha
+### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
 *Untuk postingan beritanya, lihat: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
