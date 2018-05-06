@@ -44,7 +44,7 @@ Inactive
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
 | ![][flag_US] Phil | Forum design work |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original Pippi concept and artwork design, [DeviantArt](https://sarumaru.deviantart.com/) |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork design, [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community management and leadership, Meeting minutes, FAQ contributions |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Announcements/osu!academy) professor, Media/character design |

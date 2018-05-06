@@ -42,7 +42,7 @@ Tidak aktif
 | [mm201](https://osu.ppy.sh/users/30655) | Tim pengembang osu!, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! di iPhone |
 | Phil | Forum desain kerja |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Konsep Pippi asli dan desain karya seni |
+| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Konsep pippi asli dan desain karya seni |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Menit Pertemuan, Kontribusi pertanyaan-pertanyaan umum |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Tim pengembang osu!, Pengembang mode osu!mania |
 

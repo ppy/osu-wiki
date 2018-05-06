@@ -31,7 +31,11 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Prizes
 
-*The winner of this tournament will earn a Profile Badge. The rest of the prizes are to be decided.*
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 9 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter |
 
 ![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
 
@@ -88,9 +92,21 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ---------------------------
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
+
+---------------------------
+
 ## Mappools
 
-### Grandfinals
+### Grand Finals
 
 **[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
 
@@ -261,6 +277,19 @@ Springtime Osu!mania Free-for-all Tournament 3
   - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
 
 ## Match Results
+
+### Grand Finals
+
+Detailed results of the Grand Finals stage can be found [here](https://goo.gl/wvJcRV).
+
+| Saturday, 2018-04-28 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Lothus** ![][flag_BR] | **7** | 1 | ![][flag_US] TheToaphster |
+
+| Sunday, 2018-04-29 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| inteliser ![][flag_JP]  | 3 | **7** | ![][flag_BR] **Lothus** | |
+| **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser  | |
 
 ### Finals
 
@@ -584,6 +613,15 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
 ### Tournament Organization
 
+#### Round Overview
+
+- With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
+  - **Qualification Stage:** 4 song mappool, no winning condition, no tiebreaker song
+  - **Playoffs Stage and Group Stage:** 10 song mappool, best of 7 (first to 4), one tiebreaker song
+  - **Round of 32 and Round of 16:** 12 song mappool, best of 9 (first to 5), one tiebreaker song
+  - **Quarterfinals and Semifinals:** 14 song mappool, best of 11 (first to 6), one tiebreaker song
+  - **Finals and Grand Finals:** 16 song mappool, best of 13 (first to 7), one tiebreaker song
+
 #### Qualification Process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
@@ -624,7 +662,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 
-- Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the next round.
+- Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
 
 - A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
   - Number of matches won.
@@ -632,68 +670,80 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
   - Number of losses by default (lower is better).
   - Higher qualification seed.
 
-- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the next round. In particular, their opponent for the next round will be `(33 - player's GS seed)`
+- The two worst-performing players of each group will be eliminated from the tournament.
+
+#### Bracket Stage
+
+- The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
+
+- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
+
+- The SOFT3 bracket can be found [here](https://challonge.com/SOFT3r).
+
+- In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
+
+- In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
+
+- Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
+
+- Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
 ### Tournament Play
 
 #### Protocol
 
-- All matches must have a referee that is listed in the staff section of this tournament unless otherwise noted by myself (*juankristal*).
+- Overlaps between matches may happen in certain stages, and streaming every match is not viable because of these overlaps. However, we will do our best to give every player in the tourney some stream time.
 
-- For maximal accountability on myself and my staff, each match will have a primary referee and a back-up referee in the event that the primary cannot make the match. This way we ensure you that there will be someone there to handle your tournament match.
-
-- Overlaps between matches in dense stages might and will happen and because of that, streaming every single map is just not doable. Even then, we will do our best job to get stream time for everyone.
-
-- Matches will be listed in time blocks of a certain duration depending on the stage.
+- Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
-  - This means that rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
+  - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
+
+  - For maximal accountability on the SOFT3 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
 
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
 
-  - Take care of any priorities you may have immediately before and/or after the match, as we will be running on a fixed schedule.
+  - Take care of any priorities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
 
-  - If it is less than five (5) minutes before your match start time and you have not been invited to your corresponding multiplayer room, find the designated referee for your match in game and send them a message. If they are not available, send a message to the backup referee of the matchup. If for any reason neither of them are available, send me a Discord message at **juankristal#4568**, with your invitation to add as a contact indicating that you are a player in my tournament and do not have a referee for your matchup. I will mitigate the situation both with your tournament match and unreliability of my team at that point.
+  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in SOFT3 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
-  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point, the match will be forfeited and the player that has arrived will win by default.
+  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the SOFT3 staff.
 
-  - In the extreme circumstance where both players have not shown up, **the player with the higher seed in the match-up will advance automatically**. This is to prevent byes for multiple matches while providing potential for more intense matchups to still be possible.
+  - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**.
 
 
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
 
-  - If you dislike something, you are allowed to state your dislike -- however, do so reasonably. Speaking in absolutes/matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+  - If you dislike something, you are allowed to state your dislike -- however, do so reasonably. Speaking in absolutes/a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 
-- ***It is our right as tournament staff to reprimand users for intolerable behavior***.
-  - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so please -- do everyone (and yourself) a favor and be respectful.
+- ***It is our right as the SOFT3 staff to reprimand users for intolerable behavior***.
+  - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
 
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up Songs
 
-- Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups total between both players.
+- Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players.
 
-- The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match.
+- The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
 
-- Maps that have a beatmap listing but cannot be downloaded are not allowed for the purpose of warmup.
+- Maps that have a beatmap listing but cannot be downloaded are not allowed for the purpose of warming up.
 
-- Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
+- Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 
-- Warm-up songs will be on FreeMod, allowing for any special modifications that you see fit for the purpose of warming up properly.
-
-- In the early stages, your Warm-up cant be longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
+- In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
 #### Bans, Rolls and Song Selection
 
-- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding map pool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
+- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first banned song, while the winning roll picks the first song of the match.
+- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
 
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
 
@@ -701,13 +751,13 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
     - The winning player moves onto the next match.
 
-    - The losing player falls to the loser’s bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
 
   2. Both players are at match point at the same time.
 
     - Both players will play the song designated as the tiebreaker.
 
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the loser’s bracket, depending on the position of the tournament.
+    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 
 #### Disconnections
 
@@ -715,7 +765,7 @@ The results of the Qualifiers can be found [here](https://goo.gl/TC4A91).
 
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 
-- A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared winner.
+- A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
