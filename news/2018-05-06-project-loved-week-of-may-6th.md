@@ -10,7 +10,7 @@ Another Sunday marks another [Project Loved](https://osu.ppy.sh/community/forums
 
 Hello and welcome to the first [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of May 2018! This week contains several exciting picks for every game mode, and has something for both new and old players!
 
-For those of you who are unfamiliar with Project Loved or how the new system works, each mode has "captains" who pick a selection of your submissions to be put up for vote every two weeks. These chosen selections are each given their own community poll, and any beatmap with an approval rating above 75% after a week's time is moved into the Loved category. Beatmaps that are Loved have leaderboards, but do not award performance points (much like Qualified maps).
+For those of you who are unfamiliar with Project Loved or how the new system works, each mode has "captains" who pick a selection of your submissions to be put up for vote every two weeks. These chosen selections are each given their own community poll, and any beatmaps with an approval rating above 75% (or 80%, for osu!mania) after a week's time are moved into the Loved category. Beatmaps that are Loved have leaderboards, but do not award performance points (much like Qualified maps).
 
 If you'd like to vote for any of the beatmaps in this week's selection, just click the map's header image and it'll lead you to the poll!
 
@@ -32,14 +32,14 @@ Unfortunately, there won't be any videos this week; our regular video producer h
 [MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) by [Moway](https://osu.ppy.sh/users/1352672)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-With a staggering 791 favourites, [Moway](https://osu.ppy.sh/users/1352672)'s [Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) is insanely popular, and it’s easy to see why. The mapset is incredibly clean, featuring an easily rankable spread of difficulties by several notable mappers and a top difficulty which has been featured in too many tournaments to count. Hopefully this beloved map can finally receive the scoreboard it deserves through Loved!
+With a staggering 791 favourites, [Moway](https://osu.ppy.sh/users/1352672)'s [Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) is insanely popular, and it's easy to see why. The mapset is incredibly clean, featuring an easily rankable spread of difficulties by several notable mappers and a top difficulty which has been featured in too many tournaments to count. Hopefully this beloved map can finally receive the scoreboard it deserves through Loved!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/canon-rock.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [JerryC - Canon Rock](https://osu.ppy.sh/beatmapsets/203734) by [momo1101](https://osu.ppy.sh/users/4220343)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-[Canon Rock](https://osu.ppy.sh/beatmapsets/203734) is a mapset hosted by mania mapper [momo1101](https://osu.ppy.sh/users/4220343) that features high quality difficulties for all 4 modes. It's clear that a tremendous amount of work has gone into this mapset based on the thread, and the 200 people who have favorited the map are a testament to the appeal of the map. With a full spread for standard including a notable extra by the mapper previously known as [Fort](https://osu.ppy.sh/users/2805457), you’re sure to find some enjoyment here, no matter your skill level!
+[Canon Rock](https://osu.ppy.sh/beatmapsets/203734) is a mapset hosted by mania mapper [momo1101](https://osu.ppy.sh/users/4220343) that features high quality difficulties for all 4 modes. It's clear that a tremendous amount of work has gone into this mapset based on the thread, and the 200 people who have favorited the map are a testament to the appeal of the map. With a full spread for standard including a notable extra by the mapper previously known as [Fort](https://osu.ppy.sh/users/2805457), you're sure to find some enjoyment here, no matter your skill level!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/you-may-not-want-to-hear-this-but.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
@@ -81,7 +81,7 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 [Dollscythe - Flashes (Extended)](https://osu.ppy.sh/beatmapsets/512648) by [Skystar](https://osu.ppy.sh/users/873961)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-[Flashes](https://osu.ppy.sh/beatmapsets/512648) is a masterful map by the master himself, [Skystar](https://osu.ppy.sh/users/873961). The top diff was the winner of Pending Cup 4, a very highly regarded Chinese mapping contest, and it's incredibly clear why: the crisp, inventive patterns and genius use of 2B elements put this map in a league of its own. If you've never seen this mapset before, I implore you to check it out because you’re definitely missing out!
+[Flashes](https://osu.ppy.sh/beatmapsets/512648) is a masterful map by the master himself, [Skystar](https://osu.ppy.sh/users/873961). The top diff was the winner of Pending Cup 4, a very highly regarded Chinese mapping contest, and it's incredibly clear why: the crisp, inventive patterns and genius use of 2B elements put this map in a league of its own. If you've never seen this mapset before, I implore you to check it out because you're definitely missing out!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/bassdrop-freaks.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
@@ -146,7 +146,7 @@ Ya' know, music producers in the Taiko Community are few and far between, but bo
 [BlackY - B(Camellia's"BlAst-Off"Remix)](https://osu.ppy.sh/beatmapsets/718270) by [yea](https://osu.ppy.sh/users/6874332)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, that is really the title of the song; B. However, don't let the underwhelming title fool you, B is most certainly an overwhelm to the senses. At 280 BPM and filled to the brim with difficult patterns, this is one of [yea](https://osu.ppy.sh/users/6874332)'s most exciting maps yet. This one is for the players who really want to test their speed and streaming ability!
+Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, that is really the title of the song; B. However, don't let the underwhelming title fool you, B is most certainly an overwhelm to the senses. At 280BPM and filled to the brim with difficult patterns, this is one of [yea](https://osu.ppy.sh/users/6874332)'s most exciting maps yet. This one is for the players who really want to test their speed and streaming ability!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
@@ -203,7 +203,7 @@ The Telos chart in XeoStyle's marathon is actually a toned down version of this 
 
 If you were to ask me for the absolute most frenzied and aggressive chart that I can think of, it would be [Valedict](https://osu.ppy.sh/users/2537082)'s chart for [Punishment](https://osu.ppy.sh/beatmapsets/532682). To call it intense is an understatement; the song itself is among 9mm Parabellum Bullet's most adrenaline-filled (who has multiple other frenzied songs to their name), and Valedict's approach to this chart encompasses the frenzied nature of the track with a sense of grittiness that is practically irreplicable with a cleaner approach.
 
-The chart starts by kicking your face in with cutthroat 1/6 bursts at 212bpm, and the pace of the chart does not let up from there. The pace is even accelerated in some sections with long patches of super dense jumpstream and continuous 1/5 to 1/6 streaming. The chart ends with a continuous 1/6 stream with fast and messy polyrhythms, which captures the grittiness of the song beautifully.
+The chart starts by kicking your face in with cutthroat 1/6 bursts at 212BPM, and the pace of the chart does not let up from there. The pace is even accelerated in some sections with long patches of super dense jumpstream and continuous 1/5 to 1/6 streaming. The chart ends with a continuous 1/6 stream with fast and messy polyrhythms, which captures the grittiness of the song beautifully.
 
 Like Valedict's other Loved charts, while this may not be Valedict's most technically sound chart, it is one of his most memorable. There are not many songs that are as intense as Punishment that are charted for osu!mania, and Valedict did a fantastic job in capturing that level of intensity that Punishment provides. It most certainly helps that the chart itself is excellent and is already played in competitive circles as well.
 
@@ -225,7 +225,7 @@ The 7K mapset, mapped by [LordRaika](https://osu.ppy.sh/users/3265023) are chart
 
 Up next we have a classic chart from the hands of the resident speed demon viking [Staiain](https://osu.ppy.sh/users/86188) and legendary American StepMania player [samurai7694](https://osu.ppy.sh/users/1033229), and it is a hard one.
 
-Starting out fairly tame, the chart slowly introduces what it's going to be about with short bursts of 250 bpm streams and then a longer 375 BPM stream which is the meat of the chart. It's fairly lenient patterning for singlestreams but clocking at whooping 375 BPM and runs of semi-dense jumpstream at 250 BPM for the most part. The speed factor is why this chart has been very popular both on SM and osu!mania for a very long time, and as such, I think it deserves its spot in the Loved category!
+Starting out fairly tame, the chart slowly introduces what it's going to be about with short bursts of 250BPM streams and then a longer 375BPM stream which is the meat of the chart. It's fairly lenient patterning for singlestreams but clocking at whooping 375BPM and runs of semi-dense jumpstream at 250BPM for the most part. The speed factor is why this chart has been very popular both on SM and osu!mania for a very long time, and as such, I think it deserves its spot in the Loved category!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/zen-zen-zense.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
@@ -250,7 +250,7 @@ This mapset was designed to be beginner-friendly, which shows at lowest difficul
 [osu!mania 7K Dan Course - Insane Level (Regular)](https://osu.ppy.sh/beatmapsets/450069) by [Jinjin](https://osu.ppy.sh/users/3360737)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-This time, the set we are going to talk about is made entirely to test the player's skill level accurately. [Jinjin](https://osu.ppy.sh/users/3360737) created this set that goes by the name of [osu!mania 7K Dan Course - Insane Level (Regular)](https://osu.ppy.sh/beatmapsets/450069) to help people see how good they are at certain patterns, specially jacks, mixed patterns, speed and stamina (this set has been recently updated to be more up to date with today’s standards). You actually need to achieve an accuracy of 96% or above to be able to move on to the next level, and so on.
+This time, the set we are going to talk about is made entirely to test the player's skill level accurately. [Jinjin](https://osu.ppy.sh/users/3360737) created this set that goes by the name of [osu!mania 7K Dan Course - Insane Level (Regular)](https://osu.ppy.sh/beatmapsets/450069) to help people see how good they are at certain patterns, specially jacks, mixed patterns, speed and stamina (this set has been recently updated to be more up to date with today's standards). You actually need to achieve an accuracy of 96% or above to be able to move on to the next level, and so on.
 
 In this set there are only four courses that go from 0 to 3, but there are up to fourteen courses (the last three are extra levels) that become way more difficult the further you advance. If you want more information you can always check [this post](https://osu.ppy.sh/community/forums/topics/304618) for further information.
 
