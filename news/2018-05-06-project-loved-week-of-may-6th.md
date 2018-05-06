@@ -16,9 +16,7 @@ If you'd like to vote for any of the beatmaps in this week's selection, just cli
 
 If you'd like to help out and submit beatmaps *you* love to be considered for the Loved category, please use this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 
-Once again, [to the beat!](https://www.youtube.com/channel/UCIFsWU-grp6UgGgMm57FiGQ) has created a video for each game mode showcasing our beatmap selections, so if you'd like to see the entries in action, be sure to check out the videos below!
-
-Let's get started!
+Unfortunately, there won't be any videos this week; our regular video producer has been busy with school and exams. There will be videos next time, we promise!
 
 ### Navigation
 
@@ -28,10 +26,6 @@ Let's get started!
 - [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/fukagyaku-replace.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
@@ -105,10 +99,6 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/taiko/marianne-nottaiko-edit-.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [Yooh - MariannE (NotTaiko Edit)](https://osu.ppy.sh/beatmapsets/673935) by [481582](https://osu.ppy.sh/users/Gezoda)  
@@ -160,10 +150,6 @@ Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, tha
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/catch/yukari.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [Ocelot - YUKARI](https://osu.ppy.sh/beatmapsets/462829) by [4138746](https://osu.ppy.sh/users/Hareimu)  
@@ -200,10 +186,6 @@ dreeeeam is a spread from [-Plus-](https://osu.ppy.sh/users/829284) with contrib
 When you read [ZHSteven](https://osu.ppy.sh/users/142413) you know it is going to be hard in some way. His map for L specifically is unique in its own way. Old-style left-right patterns paired with CS5 is not what you see everyday, especially not of this length. The difficulty name Hand - Breaking isn't there just for show; Due to the unusual movements and left-rights it drains at your stamina over the time, making it really hard to still consistently hit them in the later part of the map. The fact that a lot of the distances are really tight doesn't help either. Getting close to an FC would already be considered amazing given how much of a challenge this map is.
 
 ## <a name="osumania" id="osumania"></a>osu!mania
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/telos.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
