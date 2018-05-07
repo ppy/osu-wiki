@@ -144,7 +144,7 @@ Icon=583A_osu!.0
 EOF
 ```
 
--   Create a script. If this id done, you can run `osu` in the terminal to start osu!
+-   Create a script. If this is done, you can run `osu` in the terminal to start osu!
 ```
 $ cat > osu << "EOF"
 #!/bin/sh
@@ -233,7 +233,7 @@ WINEPREFIX=~/.wine winetricks settings fontsmooth=rgb
 
 #### Full screen mode
 
-If your desktop enviroment has special compositor and effects, you may want to keep osu! in fullscreen mode. As it will bypass the compositor.
+If your desktop environment has special compositor and effects, you may want to keep osu! in fullscreen mode, as it will bypass the compositor.
 
 #### Multiple monitors
 
@@ -340,7 +340,7 @@ $ echo "options usbhid mousepoll=1" | sudo tee /etc/modprobe.d/usbhid.conf
 $ sudo rmmod usbhid && sudo modprobe usbhid
 ```
 
-*Note: In `mousepoll=1`, the `1` is the interval in milliseconds.* Meaning that `1` is 1000Hz, `2` is 500Hz, and so on. Larger numbers will have your computer poll for the mouse's delta in position more frequently, but can be CPU intensive.
+*Note: In `mousepoll=1`, the `1` is the interval in milliseconds, meaning that `1` is 1000Hz, `2` is 500Hz, and so on. Larger numbers will have your computer poll for the mouse's delta in position more frequently, but can be CPU intensive.*
 
 If the second command fails, your computer will no longer listen to any keyboard or mouse inputs until you reboot the computer.
 
