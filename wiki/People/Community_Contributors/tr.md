@@ -4,7 +4,7 @@ outdated: true
 Topluluk İştirakçıları
 ======================
 
-![Contributor Badge](Contributor_Badge.png "İştirakçı Rozeti")
+![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 
 **Topluluk İştirakçıları** [*osu!*](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 

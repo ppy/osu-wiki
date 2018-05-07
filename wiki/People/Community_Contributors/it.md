@@ -4,7 +4,7 @@ outdated: true
 Collaboratori della Comunità
 ==================================
 
-![Badge dei Collaboratori](Contributor_Badge.png "Badge dei Collaboratori")
+![Badge dei Collaboratori](/wiki/shared/contributor.jpg "Badge dei Collaboratori")
 
 I **Collaboratori della Comunità** sono le persone che hanno preso l'iniziativa di provvedere servizi alla comunità di [osu!](/wiki/Glossary) a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera comunità.
 
