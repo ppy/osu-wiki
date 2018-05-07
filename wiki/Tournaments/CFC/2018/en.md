@@ -217,9 +217,9 @@ The Catch French Cup 2018 is run by various French community members by distribu
 ### General Rules
 
 * The tournament will be held in 1v1 double-elimination format with traditional seeding.
-* The matches will be played using **Score V1** and **Head to Head** settings.
+* The tournament will be held over 5 weekends. The matches will be played using **Score V1** and **Head to Head** settings.
 * A referee will be present in every match.
-* The tournament will be held over 5 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
+* Joining the Discord server is mandatory at least for the duration of the tournament.
 * First week-end matches will be best of 7, second week-end matches best of 9, third week-end matches are best of 11, and fourth and fifth week-end matches will be best of 13. 
 
 ### Match Instructions
