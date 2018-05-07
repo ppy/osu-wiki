@@ -191,7 +191,7 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Quarterfinals
 
-[**Download the mappack here! (103.3)**](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8)
+[**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8)
 
 - NoMod
 	- [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](https://osu.ppy.sh/beatmaps/1018247)
