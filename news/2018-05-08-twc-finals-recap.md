@@ -3,8 +3,7 @@ layout: post
 title: "osu!taiko World Cup - Finals Recap!"
 date: 2018-05-08 00:00:00 +0000
 ---
-With only 6 remaining teams, the past weekend gave us some of the most intense matches yet(including a breathtaking North American derby), 
-which were amplified even more by the evil mappool. Read more to catch up and get ready for the epic Grand Finals stage!
+With only 6 remaining teams, the past weekend gave us some of the most intense matches yet(including a breathtaking North American derby), which were amplified even more by the evil mappool. Read more to catch up and get ready for the epic Grand Finals stage!
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 ### Finals Matches
