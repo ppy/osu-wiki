@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: April 2018"
-date: 2018-05-02 09:00:00 +0000
+date: 2018-05-08 05:00:00 +0000
 ---
 
 New rules on beatmap vetoing and disqualifications, contributor badges for long-serving Beatmap Nominators, the introduction of public QAT meetings and so much more in store for the busiest month of 2018 yet! Sound interesting? Of course it does! Read on to find out more!
