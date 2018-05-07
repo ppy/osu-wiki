@@ -95,7 +95,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!standard
 
 | Seed |  Player                                              | 
-|------|------------------------------------------------------| 
+|:------:|------------------------------------------------------| 
 | 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       | 
 | 2    | [Dunois](https://osu.ppy.sh/users/4581715)           | 
 | 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         | 
@@ -132,7 +132,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!catch
 
 | Seed | Player                                             | 
-|------|----------------------------------------------------| 
+|:------:|----------------------------------------------------| 
 | 1    | [Roido](https://osu.ppy.sh/users/6829103)          | 
 | 2    | [-Nicotine](https://osu.ppy.sh/users/4818935)      | 
 | 3    | [- Kielzu -](https://osu.ppy.sh/users/6221114)     | 
@@ -153,7 +153,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!mania 4K
 
 | Seed | Players | 
-| --- | --- | 
+| :---: | --- | 
 | Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) | 
 | High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
 | Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) | 
@@ -162,7 +162,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 #### Groups
 
 | Group | Top              | High               | Low                     | Bottom              | 
-|-------|------------------|--------------------|-------------------------|---------------------| 
+|:-------:|------------------|--------------------|-------------------------|---------------------| 
 | **A** | (#4) nyx-        | (#7) Nelvin\_27    | (#12) Vigne Tsukinose   | (#14) GTXCZE        | 
 | **B** | (#2) MapleSyrup- | (#5) TheArge       | (#9) Trainer-           | (#13) exodia3000    | 
 | **C** | (#3) windrush123 | (#8) FeveredNickel | (#11) Toyohime-         | (#15) Baltz         | 
@@ -171,7 +171,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!mania 7K
 
 | Group | Top                                                      | High                                                | Low                                                        | Bottom                                              | 
-|-------|----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------| 
+|:-------:|----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------| 
 | **A** | (#3) [cieloday05](https://osu.ppy.sh/users/2722489)      | (#6) [joseee-](https://osu.ppy.sh/users/10083439)   | (#9) [FeveredNickel](https://osu.ppy.sh/users/7331952)     | (#14) [DrawdeX](https://osu.ppy.sh/users/2228215)   | 
 | **B** | (#2) [- Kura -](https://osu.ppy.sh/users/11420405)       | (#5) [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) [windrush123](https://osu.ppy.sh/users/9087181)      | (#13) [Chez](https://osu.ppy.sh/users/4866112)      | 
 | **C** | (#1) [MapleSyrup-](https://osu.ppy.sh/users/1192936)     | (#8) [Tots](https://osu.ppy.sh/users/3443131)       | (#11) [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) [- Aries -](https://osu.ppy.sh/users/6639880) | 
@@ -450,31 +450,31 @@ All results are compiled for public viewing via [this link](https://docs.google.
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml?gid=612281589)
 
-| Match No. | Seed | Player 1      |       |       | Player 2           | Seed |     | 
-|-----------|------|---------------|-------|-------|--------------------|------|-----| 
-| 17        | 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     | 
-| 18        | 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     | 
-| 19        | 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     | 
-| 20        | 5    | Fraye         | 0     | **5** | **Nezol**          | 12   | WBD | 
-| 21        | 2    | **Dunois**    | **5** | 1     | Natsume-           | 18   |     | 
-| 22        | 7    | **PhasiconN** | **5** | 1     | Oooodriiin         | 10   |     | 
-| 23        | 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     | 
-| 24        | 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     | 
+| Seed | Player 1      |       |       | Player 2           | Seed |     | 
+|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----| 
+| 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     | 
+| 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     | 
+| 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     | 
+| 5    | Fraye         | 0     | **5** | **Nezol**          | 12   | WBD | 
+| 2    | **Dunois**    | **5** | 1     | Natsume-           | 18   |     | 
+| 7    | **PhasiconN** | **5** | 1     | Oooodriiin         | 10   |     | 
+| 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     | 
+| 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     | 
 
 #### osu!catch Quarterfinals and Loser's Bracket Round 1
 
 All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
 
-| Match No. | Seed | Player 1           |       |       | Player 2        | Seed |     | 
-|-----------|------|--------------------|-------|-------|-----------------|------|-----| 
-| 9         | 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
-| 10        | 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
-| 11        | 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
-| 12        | 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
-| 13        | 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
-| 14        | 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
-| 15        | 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
-| 16        | 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
+| Seed | Player 1           |       |       | Player 2        | Seed |     | 
+|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
+| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
+| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
+| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
+| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
+| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
+| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
+| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
 
 Matches **9 to 12** are Loser's Bracket Matches. Matches **13 to 16** are Winner's Bracket Matches.
 
@@ -482,30 +482,24 @@ Matches **9 to 12** are Loser's Bracket Matches. Matches **13 to 16** are Winner
 
 All resuls are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
-| Match No. | Seed | Player 1              |       |       | Player 2          | Seed |     | 
-|-----------|------|-----------------------|-------|-------|-------------------|------|-----| 
-| 1         | 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
-| 2         | 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
-| 3         | 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
-| 4         | 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
-| 5         | 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
-| 6         | 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
-| 7         | 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
-| 8         | 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
-| 9         | 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
-| 10        | 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
-| 11        | 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
-| 12        | 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
-| 13        | 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
-| 14        | 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
-| 15        | 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
-| 16        | 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
-
-| Key             |                                    | 
-|-----------------|------------------------------------| 
-| Mid-Seed Match  | Seeds #16 to #24 (Matches 1 to 8)  | 
-| Low-Seed Match  | Seeds #25 to #32 (Matches 9 to 12) | 
-| High-Seed Match | Seed #5 to #8 (Matches 13 to 16)   | 
+| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
+| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
+| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
+| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
+| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
+| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
+| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
+| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
+| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
+| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
+| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
+| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
+| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
+| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
+| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
 
 ### Match Week 1 (2018-04-28 to 2018-04-29)
 
@@ -514,7 +508,7 @@ All resuls are compiled for public viewing via [this link](https://docs.google.c
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
 | Seed | Player 1           |       |       | Player 2      | Seed |     | 
-|------|--------------------|-------|-------|---------------|------|-----| 
+|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
 | 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD | 
 | 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     | 
 | 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD | 
@@ -537,7 +531,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
 | Seed | Player 1        |       |       | Player 2       | Seed |     | 
-|------|-----------------|-------|-------|----------------|------|-----| 
+|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----| 
 | 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
 | 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
 | 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     | 
