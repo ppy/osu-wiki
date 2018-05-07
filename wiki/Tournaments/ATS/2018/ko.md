@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-아시안 태고 쇼다운 2018(ATS 2018)는 fajar13k가 개최한 더블 일리미네이션 1대일 오스 태고 경기입니다.
+아시안 태고 쇼다운 2018_(ATS 2018)_는 [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002)가 개최한 더블 일리미네이션 1대일 오스 태고 경기입니다.
 2번째 대회이고 지역을 인도네시아에서 아시아로 확장했습니다.
 
 ## 토너먼트 스케쥴
