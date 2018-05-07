@@ -1,37 +1,23 @@
 ---
 layout: post
 title: "Beatmap Spotlights: March 2018"
-date: 2018-05-03
-12:00:00 +0000
+date: 2018-05-03 12:00:00 +0000
 ---
 
-The March Spotlights are now available, bringing a selection of incredible maps for every game mode, and a shiny new medal for the collectors among us!
+Better late than never, the March Spotlights are now available, bringing a selection of incredible maps for every game mode, and a shiny new medal for the collectors among us!
 
 ![](/wiki/shared/news/2018-05-03-beatmap-spotlights-march-2018/spotlight-header.jpg)
 
-The beatmap charts for the March Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1804) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The March 2018 Spotlights rankings will end on 15th May 2018.**
+The beatmap charts for the March Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1804) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The March 2018 Spotlights rankings will end on 25th May 2018.**
 
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the February 2018 Spotlights. They receive one month of supporter status for their efforts!
+
 + **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
 + **osu!taiko:** [Alepat](https://osu.ppy.sh/users/1164931)
 + **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
-
-# Announcing changes in the prizes
-
-**We are happy to announce that from this month onward, we will be rewarding the Top 3 players of each Spotlights leaderboard with special user titles for their efforts!** 
-
-The titles are as follows:
-
-+ **1st place:** Master of *Circles/Drums/Fruits/Piano Keys*
-+ **2nd place:** Expert of *Circles/Drums/Fruits/Piano Keys*
-+ **3rd place:** Scholar of *Circles/Drums/Fruits/Piano Keys*
-
-We hope that this change will bring about a new level of competition and excitement to the Spotlights Leaderboards, because let's be honest - we're tired of seeing Toy dominate the Spotlights rankings *every single month* for the past year and a half. 
-
-*Note: These user titles are temporary, and will only last for the duration leading up to the announcement of the next cycle of Spotlights winners (~1 month). Thus, these titles will not be awarded retroactively for past Spotlights winners.*
 
 # March 2018 Spotlights
 
