@@ -10,7 +10,7 @@ Another Sunday marks another [Project Loved](https://osu.ppy.sh/community/forums
 
 Hello and welcome to the first [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of May 2018! This week contains several exciting picks for every game mode, and has something for both new and old players!
 
-For those of you who are unfamiliar with Project Loved or how the new system works, each mode has "captains" who pick a selection of your submissions to be put up for vote every two weeks. These chosen selections are each given their own community poll, and any beatmaps with an approval rating above 75% (or 80%, for osu!mania) after a week's time are moved into the Loved category. Beatmaps that are Loved have leaderboards, but do not award performance points (much like Qualified maps).
+For those of you who are unfamiliar with Project Loved or how the new system works, each mode has "captains" who pick a selection of your submissions to be put up for vote every two weeks. These chosen selections are each given their own community poll, and any beatmaps with an approval rating above 75% for osu!standard and osu!taiko or 80% for osu!catch and osu!mania are moved into the Loved category after a week's time. Beatmaps that are Loved have leaderboards, but do not award performance points (much like Qualified maps).
 
 If you'd like to vote for any of the beatmaps in this week's selection, just click the map's header image and it'll lead you to the poll!
 
