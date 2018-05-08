@@ -524,7 +524,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Post-qualification Play-offs
 
-All resuls are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
 | Seed | Player 1              |       |       | Player 2          | Seed |     | 
 |:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
