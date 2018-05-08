@@ -5,7 +5,7 @@ Momento Kiai
 
 ![El Momento Kiai aparece en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.](img/Kiai_Time_edit.jpg "El Tiempo Kiai se muestra en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.")
 
-El **Tiemo Kiai** está definido por el [mapper](/wiki/Glossary) en un [beatmap](/wiki/Beatmaps) entre 2 [Secciones de Tiempo](/wiki/ Beatmap_Editor/Timing). Puedes reconocer un Momento Kiai porque la pantalla parpadea y verás una fuente estelar, luego todos los [Objetos de Golpeo](/wiki/Hit_Objects) parpadearán al ritmo del [ritmo principal](/wiki/Beatmap_Editor/Timing) y las estrellas explotarán desde el cursor cuando un [Objeto de golpeo](/wiki/Hit_Objects) se golpee o caiga del cursor cuando sigas un [control deslizante](/wiki/Hit_Objects) o una [Ruleta](/wiki/Hit_Objects) .
+El **Momento Kiai** está definido por el [mapper](/wiki/Glossary) en un [beatmap](/wiki/Beatmaps) entre 2 [Secciones de Tiempo](/wiki/ Beatmap_Editor/Timing). Puedes reconocer un Momento Kiai porque la pantalla parpadea y verás una fuente estelar, luego todos los [Objetos de Golpeo](/wiki/Hit_Objects) parpadearán al ritmo del [ritmo principal](/wiki/Beatmap_Editor/Timing) y las estrellas explotarán desde el cursor cuando un [Objeto de golpeo](/wiki/Hit_Objects) se golpee o caiga del cursor cuando sigas un [control deslizante](/wiki/Hit_Objects) o una [Ruleta](/wiki/Hit_Objects) .
 
 
 Kiai Time en el Beatmapping
