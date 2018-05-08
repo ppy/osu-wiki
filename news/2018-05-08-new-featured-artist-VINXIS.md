@@ -16,13 +16,13 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 ### Facade
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/lH278b_WFsc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br><br>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/lH278b_WFsc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
 > A complex jaunt through orchestral themes underpinned with a classic DnB twist, Facade is both the latest and most advanced iteration on VINXIS' sound. With all the muscle of a tech-oriented track but none of the gristle, Facade is something special.
 
 ### Sidetracked Day
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/-40fLtf9Hio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br><br>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/-40fLtf9Hio?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
 > Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/s/728276) by [SnowNiNo\_](https://osu.ppy.sh/u/2506267), Sidetracked Day builds and just keeps on building right until the very end.
 
@@ -30,7 +30,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 ### Greetings
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/cEhLC31Q1ZI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br><br>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/cEhLC31Q1ZI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
 > A curious walk through stuttering vocals underpinned by pensive lyrics. Subtle variation keeps progression interesting throughout.
 
@@ -38,13 +38,13 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 ### A Centralized View
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/K5UL_RxK0lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br><br>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/K5UL_RxK0lk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
 > Atmospheric to say the least, A Centralized View is many things, and infinitely mappable is one of them. Layers of simple synthlines intertwine amidst complex percussion to create something as uniquely enthralling as it is clean and uplifting.
 
 ### Take 
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/2EtkxNE_2Ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br><br>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/2EtkxNE_2Ag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
 > Beep boop. Wub wub. What you take away from Take is up to you, but what is certain is that six minutes of evolving rhythm and trills is sure to test the skills of even the most skilled mappers.
 
