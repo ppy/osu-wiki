@@ -1,6 +1,6 @@
 # GitHub Web Interface
 
-*Halaman utama: [Panduan Kontribusi osu!wiki](/wiki/owcg).*
+*Halaman utama: [Panduan Kontribusi osu! wiki](/wiki/owcg).*
 
 *Artikel ini merupakan lanjutan dari halaman utama.* Jika anda akan membuat perubahan pada beberapa artikel (termasuk mengunggah, menghapus, dan/atau memindahkan gambar atau file), silakan lihat panduan lainnya, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
 
@@ -18,7 +18,7 @@
 
 5\. Anda sekarang dapat membuat perubahan anda. Saat membuat perubahan, coba ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebaik mungkin.
 
-6\. Lanjutkan ke [Saving and committing](#saving-and-committing).
+6\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
 ### Memindahkan file
 
@@ -36,7 +36,7 @@
 
 5\. Setelah anda berada di level yang diperlukan, ketik nama folder lain dan/atau nama locale (dalam huruf kecil) diikuti dengan `.md`.
 
-6\. Lanjutkan ke [Saving and committing](#saving-and-committing).
+6\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
 ### Membuat file
 
@@ -48,7 +48,7 @@
 
 4\. Masukkan lokasi dan/atau name file dari artikel yang anda buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (dalam huruf kecil) diikuti oleh `.md`. Untuk daftar locale, anda bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC/#locales).
 
-5\. Lanjutkan ke [Saving and committing](#saving-and-committing).
+5\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
 ### Mengunggah file
 
@@ -60,7 +60,7 @@
 
 4\. Pilih file yang akan anda unggah.
 
-5\. Lanjutkan ke [Saving and committing](#saving-and-committing).
+5\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
 *Catatan: Anda juga dapat mengunggah folder.* Hal ini mungkin berguna bagi mereka yang akan membuat artikel baru secara lokal.
 
@@ -74,9 +74,9 @@
 
 3\. Klik pada ikon tempat sampah.
 
-4\. Lanjutkan ke [Saving and committing](#saving-and-committing).
+4\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
-## Saving and committing
+## Menyimpan dan Melakukan Commit
 
 1\. Ketika anda selesai membuat perubahan, scroll ke bagian bawah halaman. Anda akan melihat sesuatu yang mirip dengan ini:
 
@@ -102,4 +102,4 @@
 
 ## Penyelesaian
 
-Anda sekarang dapat kembali ke [Panduan Kontribusi osu!wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
+Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.

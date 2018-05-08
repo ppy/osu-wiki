@@ -1,6 +1,6 @@
-# Panduan Kontribusi osu!wiki
+# Panduan Kontribusi osu! wiki
 
-Terima kasih atas minat anda untuk membuat osu!wiki menjadi lebih baik! Saat ini, berkontribusi pada osu!wiki akan membutuhkan lebih banyak waktu dan usaha untuk membuat perubahan yang anda lakukan benar-benar diterapkan. Panduan ringkas ini ditujukan untuk pendatang baru yang belum pernah menggunakan GitHub dan belum mengenal alur kerja kontribusi osu!wiki sebelumnya. Jika anda sudah pernah berpengalaman menggunakan GitHub, tidak disalahkan untuk melewatkan panduan ini dan mengikuti alur kerja fitur branch untuk pembaruan konten di repositori osu!wiki.
+Terima kasih atas minat anda untuk membuat osu! wiki menjadi lebih baik! Saat ini, berkontribusi pada osu! wiki akan membutuhkan lebih banyak waktu dan usaha untuk membuat perubahan yang anda lakukan benar-benar diterapkan. Panduan ringkas ini ditujukan untuk pendatang baru yang belum pernah menggunakan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika anda sudah pernah berpengalaman menggunakan GitHub, tidak disalahkan untuk melewatkan panduan ini dan mengikuti alur kerja fitur branch untuk pembaruan konten di repositori osu! wiki.
 
 Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanjut, jangan ragu mengirim pesan ke [Discord osu!dev](https://discord.gg/ppy) di kanal `#osu-wiki`.
 
@@ -34,7 +34,7 @@ Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanj
 
 1\. Kunjungi fork repo `osu-wiki` anda.
 
-2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind", "ahead", atau "even dengan `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui. 
+2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui. 
 
 ![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
 
@@ -59,7 +59,7 @@ Pada titik ini, anda memiliki dua pilihan:
 
 *Catatan: Anda tidak dibatasi dengan kedua pilihan yang tercantum di atas untuk penyuntingan.* Untuk menjaga panduan ini singkat dan sederhana, artikel-artikel ini tidak akan membahas penggunaan alat-alat yang digunakan secara mendalam. Terdapat aplikasi pihak ketiga lainnya yang dapat melakukan lebih banyak atau lebih sedikit dari apa yang sudah dilakukan oleh GitHub Web Interface dan GitHub Desktop.
 
-**Ketika anda telah menentukan pilihan antara *GitHub Web Interface* atau *GitHub Desktop*, anda dapat melanjutkan ke bagian selanjutnya.**
+**Ketika anda telah menentukan pilihan antara *GitHub Web Interface (Antarmuka GitHub Web)* atau *GitHub Desktop*, anda dapat melanjutkan ke bagian selanjutnya.**
 
 ## Penyelesaian
 
@@ -99,8 +99,8 @@ Pada titik ini, anda memiliki dua pilihan:
 
 ### Peninjauan
 
-Setelah anda membuat pull request anda, editor osu!wiki lainnya dapat meninjau perubahan yang anda lakukan dan membantu mencari kesalahan yang mungkin anda lewatkan. **Anda harus terus mengikuti ulasan ini**, jika tidak pull request anda mungkin akan ditutup! Jika anda ingin seseorang untuk meninjau pull request anda, anda dapat meminta kepada editor osu!wiki lainnya di obrolan [Discord osu!dev](https://discord.gg/ppy) atau di kolom komentar GitHub.
+Setelah anda membuat pull request anda, editor osu! wiki lainnya dapat meninjau perubahan yang anda lakukan dan membantu mencari kesalahan yang mungkin anda lewatkan. **Anda harus terus mengikuti ulasan ini**, jika tidak pull request anda mungkin akan ditutup! Jika anda ingin seseorang untuk meninjau pull request anda, anda dapat meminta kepada editor osu! wiki lainnya di obrolan [Discord osu!dev](https://discord.gg/ppy) atau di kolom komentar GitHub.
 
 ### Penggabungan
 
-Agar perubahan yang anda lakukan muncul di osu!wiki, pull request anda harus digabung. Setelah pull request anda ditinjau dan disetujui, anda dapat menggunakan kolom komentar GitHub untuk meminta seseorang untuk menggabungkannya atau lakukan hal yang sama di obrolan [Discord osu!dev](https://discord.gg/ppy). Setelah digabungkan, perubahan anda akan memakan waktu hingga lima jam untuk ditampilkan di osu!wiki.
+Agar perubahan yang anda lakukan muncul di osu! wiki, pull request anda harus digabung. Setelah pull request anda ditinjau dan disetujui, anda dapat menggunakan kolom komentar GitHub untuk meminta seseorang untuk menggabungkannya atau lakukan hal yang sama di obrolan [Discord osu!dev](https://discord.gg/ppy). Setelah digabungkan, perubahan anda akan memakan waktu hingga lima jam untuk ditampilkan di osu! wiki.

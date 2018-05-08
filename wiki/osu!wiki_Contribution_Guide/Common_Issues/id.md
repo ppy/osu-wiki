@@ -1,6 +1,6 @@
 # Masalah Umum
 
-*Halaman utama: [Panduan Kontribusi osu!wiki](/wiki/owcg).*
+*Halaman utama: [Panduan Kontribusi osu! wiki](/wiki/owcg).*
 
 ## Seseorang mengatakan kepada saya untuk meninggalkan pesan commit yang lebih berarti!
 
@@ -30,7 +30,7 @@ Untuk menyelesaikan hal ini (baik pengguna GitHub Web Interface maupun GitHub De
 14. Perbaiki judul (pesan ini akan menjadi pesan commit, pastikan pesannya bermakna).
 15. Perbaiki deskripsinya (pesan ini akan menjadi deskripsi commit, hal ini opsional, tetapi pastikan anda mengubahnya).
 16. Klik `Confirm squash and merge`.
-17. Kunjungi [`repo ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
+17. Kunjungi repo [`ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 18. Tutup pull request anda yang memiliki branch bermasalah.
 19. Buka pull request baru menggunakan branch baru.
 20. Anda dapat menyalin deskripsi dari pull request yang sudah ditutup ke pull request yang baru anda buka. Akan sangat membantu juga untuk menyertakan referensi ke pull request lainnya yang telah anda tutup.

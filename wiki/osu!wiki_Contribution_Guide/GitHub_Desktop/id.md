@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Halaman utama: [Panduan Kontribusi osu!wiki](/wiki/owcg).*
+*Halaman utama: [Panduan Kontribusi osu! wiki](/wiki/owcg).*
 
 *Artikel ini merupakan lanjutan dari halaman utama* dan berasumsi bahwa anda akan menggunakan [Github Desktop](https://desktop.github.com). **Anda dapat menggunakan klien git lain dengan resiko anda sendiri.** Bahkan jika anda bekerja secara lokal, anda masih harus mengakses GitHub untuk membuat pull request supaya anda dapat menerapkan perubahan yang anda lakukan.
 
@@ -48,13 +48,13 @@
 
 3\. Anda sekarang dapat membuat perubahan anda. Saat membuat perubahan, coba ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
 
-4\. Lanjutkan ke [Committing and pushing](#committing-and-pushing).
+4\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
 
 ### Memindahkan file yang ada
 
 1\. Gunakan Windows Explorer untuk memindahkan file.
 
-2\. Lanjutkan ke [Committing and pushing](#committing-and-pushing).
+2\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
 
 ### Membuat file baru
 
@@ -62,15 +62,15 @@
 
 1\. Gunakan Windows Explorer, editor gambar favorit anda, dan/atau editor teks favorit anda untuk membuat file baru. Jika anda membuat artikel atau terjemahan baru, ganti nama file mengikuti [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC/#locales).
 
-2\. Lanjutkan [Committing and pushing](#committing-and-pushing).
+2\. Lanjutkan [Meng-Commit dan push](#committing-and-pushing).
 
 ### Menghapus file
 
 1\. Gunakan Windows Explorer untuk menghapus file.
 
-2\. Lanjutkan ke [Committing and pushing](#committing-and-pushing).
+2\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
 
-## Committing and pushing
+## Meng-Commit dan Push
 
 1\. Kembali ke GitHub Desktop. Anda akan melihat sesuatu yang mirip dengan ini:
 
@@ -102,4 +102,4 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots/#pippi) telah 
 
 ## Penyelesaian
 
-Anda sekarang dapat kembali ke [Panduan Kontribusi osu!wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
+Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
