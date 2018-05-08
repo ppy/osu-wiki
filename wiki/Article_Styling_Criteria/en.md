@@ -355,15 +355,124 @@ External links must be a clean and direct link to a reputable source with the li
 
 ### Images
 
-_See also: [Article Styling Criteria/Images](/wiki/Article_Styling_Criteria/Images)._
-
-The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
-
-Like the [links](#links), you can use either reference or inline style when linking to images.
+The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark (`!`), the link text is now the "alt" text, and there is a third argument for the title text. Like the [links](#links), you can use either reference or inline style when linking to images.
 
 ---
 
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
+
+#### Metadata
+
+To maintain consistency between all images on the osu! wiki, all images must adhere to the following image standards.
+
+#### Formats and quality
+
+Images used in the osu! wiki must be in JPG format at quality 8 (80). If the image contains transparency or needs to have its text be readable, use the PNG format instead. The `.gif` format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
+
+#### File names
+
+*Note: All image file extensions must use lowercase letters, otherwise they will fail to load!*
+
+Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive. Never use timestamps or long hashes for the file name.
+
+#### Image behaviour
+
+Images on the osu! wiki behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. For example:
+
+```
+Installing osu! is easy. First, download the installer from the download page.
+
+![](img/download-page.jpg)
+
+Then locate the installer and run it.
+```
+
+#### Alternate and title text
+
+All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text (otherwise known as "hover text") is **optional** and it could be the same as the alt text if needed.
+
+#### Captions
+
+Images are automatically given captions if they fulfill these rules:
+
+- The image is by itself.
+- The image is not inside a heading.
+- The image has title text.
+
+The syntax for captions are the same as normal Markdown images, just add title text. Image captions must be plain text and never contain style or link markup. Images with captions are also centred automatically on the website.
+
+#### Max image width
+
+The osu! wiki will give every image a max-width, being the width of the article body (680px). This means when an image's width is more than 680px, you should consider downscaling it to 680px to ensure that we do not waste digital space.
+
+#### Annotating images
+
+When annotating images, use the _Exo 2 light_ font. For Chinese, Korean, Japanese characters, use the _Microsoft YaHei_.
+
+##### Translating annotated images
+
+When translating annotated images, the localized image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localized image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps).
+
+- e.g. `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
+- e.g. `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
+- e.g. `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
+
+#### Screenshots of gameplay
+
+All screenshots of gameplay must be done in the stable build (not to be confused with the _stable (fallback)_ build), unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
+
+##### osu! client settings
+
+Note: If you do not want to change your current settings for the osu! wiki, you can install a separate installation of osu! in another directory!
+
+You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
+
+-   Select language: `English`
+-   Prefer metadata in original language: `Enabled`
+-   Release stream: `Stable`
+-   Frame limiter: `VSync`
+-   Detect performance issues: `Disabled`
+-   Resolution: `1280x720`
+-   Fullscreen mode: `Disabled`
+-   Screenshot format: `JPEG (web-friendly)`
+-   Parallax: `Disabled`
+-   Menu tips: `Disabled`
+-   Seasonal backgrounds: `Never`
+-   Show thumbnails: `Enabled`
+-   Background dim: `30%`
+-   Progress display: `Top-Right (Pie)`
+-   Score meter type: `Hit error`
+-   Score meter size: `1x`
+-   Always show key overlay: `Enabled`
+-   Current skin: `Default` (first option)
+
+#### Image links
+
+Never use image links! Image links are links with the image as the link text. On a PC platform, they will work. However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
+
+---
+
+Flag icons next to userlinks must be separate from the username. For example:
+
+```
+Don't: [![][flag_AU] peppy](/users/2)
+
+Do:    ![][flag_AU] [peppy](/users/2)
+```
+
+#### Flag icons
+
+*For a list of flag icons, see [issue \#328](https://github.com/ppy/osu-wiki/issues/328).*
+
+All of these icons uses the two letter code (all capital letters) and ends with the GIF extension. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+
+```
+![](/wiki/shared/flag/xx.gif)
+```
+
+`xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+
+Adding the full country names in the alt text is optional.
 
 ### Tables
 
