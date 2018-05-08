@@ -49,7 +49,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | 直播 | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
 | 美術 | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
 | 裁判 | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻譯 | [![][flag_JP] JUDYDANNY](https://osu.ppy.sh/users/1165475), [![][flag_TW] Smallwu](https://osu.ppy.sh/users/2512120), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_KR] Konpaku Sariel](https://osu.ppy.sh/users/533502), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
+| 翻譯 | [![][flag_JP] JUDYDANNY](https://osu.ppy.sh/users/1165475), [![][flag_JP] Noko_BSF](https://osu.ppy.sh/users/3811831), [![][flag_TW] Smallwu](https://osu.ppy.sh/users/2512120), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_KR] Konpaku Sariel](https://osu.ppy.sh/users/533502), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
 | 統計 | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## 連結
