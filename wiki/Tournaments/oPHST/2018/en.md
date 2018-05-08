@@ -451,7 +451,7 @@ All results are compiled for public viewing via [this link](https://docs.google.
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml?gid=612281589)
 
 | Seed | Player 1      |       |       | Player 2           | Seed |     | 
-|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----| 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
 | 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     | 
 | 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     | 
 | 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     | 
@@ -466,7 +466,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
 
 | Seed | Player 1           |       |       | Player 2        | Seed |     | 
-|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
 | 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
 | 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
 | 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
@@ -483,7 +483,7 @@ Matches **9 to 12** are Loser's Bracket Matches. Matches **13 to 16** are Winner
 All resuls are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
 | Seed | Player 1              |       |       | Player 2          | Seed |     | 
-|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
 | 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
 | 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
 | 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
@@ -508,7 +508,7 @@ All resuls are compiled for public viewing via [this link](https://docs.google.c
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
 | Seed | Player 1           |       |       | Player 2      | Seed |     | 
-|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
 | 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD | 
 | 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     | 
 | 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD | 
@@ -531,7 +531,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
 | Seed | Player 1        |       |       | Player 2       | Seed |     | 
-|:------:|---------------|:-------:|:-------:|--------------------:|:------:|-----| 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
 | 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
 | 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
 | 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     | 
