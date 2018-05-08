@@ -22,25 +22,27 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 
 ## Article of the month
 
-*See also: [Mascots](/wiki/Mascots).*
+*Main page: [Mascots](/wiki/Mascots).*
 
 Meet pippi, Yuzu, Maria, and Mocha; the four mascots of osu!standard, osu!catch, osu!mania, and osu!taiko respectively.
 
 ## Beatmapping
 
-_See also: [Beatmapping](/wiki/Beatmapping/#getting-started)._
+*Main page: [Beatmapping](/wiki/Beatmapping/#getting-started).*
 
-Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as *storyboarders*, *skinners*, and/or *guest creators*, depending on what they do.
 
 ## Modding
 
-_See also: [Modding](/wiki/Modding/#getting-started)._
+*Main page: [Modding](/wiki/Modding/#getting-started).*
 
 Modding is the process of users reviewing (or commonly called "modders") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
 ## Skinning
 
-*See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Main page: [Skinning](/wiki/Skinning).*
+
+*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
 Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
