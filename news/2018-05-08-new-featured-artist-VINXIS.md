@@ -24,7 +24,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/-40fLtf9Hio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/s/728276) by [SnowNiNo\_](https://osu.ppy.sh/u/2506267), Sidetracked Day builds and builds upon itse
+> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/s/728276) by [SnowNiNo\_](https://osu.ppy.sh/u/2506267), Sidetracked Day builds and just keeps on building right until the very end.
 
 *A short version of this track is available.*
 
@@ -40,7 +40,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/K5UL_RxK0lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> Atmospheric to say the least, A Centralized View is many things, and infinitely mappable is one of them. Layers of simple synthlines intertwine amidst complex percussion to create something uniquely enthralling as it is uplifting and clean.
+> Atmospheric to say the least, A Centralized View is many things, and infinitely mappable is one of them. Layers of simple synthlines intertwine amidst complex percussion to create something as uniquely enthralling as it is clean and uplifting.
 
 ### Take 
 
