@@ -24,6 +24,10 @@ well to the mappool, they might be able to steal a few more points or maybe even
 
 It has been quite the tough year for Canada, and [janitoreihil](https://osu.ppy.sh/users/3307897) will give us some perspective on their cup experience with the help of some teammates:
 
+*Even though this is the second year in a row that Canada has just missed out on a spot on the podium (shoutout to the US team for being taiko demons, by the way), everyone on the team is still quite satisfied overall with our placement and performances throughout the tournament. This year, the mantle of team captain was given to vladyushko, who did a lot to organize the team, whether it be scores, scheduling, or even just moral support. The most surprising member of the team this year was definitely [-Yuno-], who showed a great deal of improvement from the previous year and proved to be a key player for several of the Hard Rock and gimmicks picks throughout the tournament.* 
+
+*This year proved to be a slight disappointment in some matches, as we ended up losing to both Taiwan and the US, our long-time rivals. Even though we did end up having an amazing match against Hong Kong in the Semifinals, taking revenge for our defeat last year, the victory was a little bittersweet due to their shortage of players this year. Nonetheless, the team enjoyed the pools and matches overall, even with some of the more...interesting picks (Nosso Samba, anyone?), and we look forward to the further development of the Taiko World Cup next year.*
+
 ### Finals Mappool
 
 There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. Despite that, the FreeMod map [The Flashbulb - Passage D](https://osu.ppy.sh/beatmapsets/587426/#taiko/1243907) has yet to be played, but that might change this weekend. Considering the low amount of matches, the 8 bans were also spread out in the sense that one map from every mod bracket got banned atleast once. As the work for the mappool selectors this year has come to an end, here are their closing comments:
