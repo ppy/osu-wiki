@@ -1,14 +1,12 @@
 # Article Styling Criteria
 
-_See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News)._
+*For news posts, see: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News)*
 
-The article styling criteria (ASC) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu! wiki.
+The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu! wiki.
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu! wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
-## Repository directory
-
-The following standards apply only to articles saved in the `wiki/` directory.
+The following standards apply only to files saved in the `wiki/` directory.
 
 ### Locales
 
@@ -34,7 +32,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
 - Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
-- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
 
@@ -52,7 +50,7 @@ This is to be placed at the very top of the translation files to flag them as be
 
 #### Tagging pages
 
-Tagging pages will help the osu! web's search engine query articles better. It is unlikely that you'll need to do this, but the markup is as follows:
+Tagging pages will help the website's search engine query articles better. It is unlikely that you'll need to do this, but the markup is as follows:
 
 ```
 ---
@@ -111,7 +109,7 @@ These rules are to be followed for all articles.
 
 ### GFM
 
-Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki. GFM has a small amount of markup that **anyone can learn in about 3 minutes**! However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
+Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki. GFM has a small amount of markup that anyone can learn in about 3 minutes. However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
 #### HTML
 
@@ -122,7 +120,7 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 While editing, sentences are to be in a paragraph form, not in single lines. For example:
 
 ```
-Do not:
+Don't:
 osu!lazer is a development build that you can download.
 It will one day be the successor of the previous osu! client.
 Please, do **not** send the development team any issues you are facing, as things are still subject to change.
@@ -143,6 +141,54 @@ The escaping character in Markdown is the backslash (`\`). To escape the escape 
 
 The title of an article must never be escaped; otherwise, the backslashes will show up on the website.
 
+### Hatnotes
+
+Hatnotes are short notes placed at the top of an article that help readers navigate to related articles. Hatnotes must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
+
+#### Main page
+
+Main page hatnotes directs a reader to an article with more information. These should be placed after a heading, but before the summary. For example:
+
+```
+## Modding
+
+*Main page: [Modding](/wiki/Modding)*
+
+Modding is the process of users reviewing (or commonly called "modders") a creator's beatmap in the pending (or work in progress/help) stage.
+```
+
+#### See also
+
+See also hatnotes are used to suggest a reader other points of interest from a given article. For example:
+
+```
+## Beatmapping
+
+*See also: [Storyboarding](/wiki/Storyboarding)*
+
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. 
+```
+
+#### For see
+
+For see hatnotes are similar to see also, but may help reduce ambiguation and is more descriptive. For example:
+
+```
+# Installation
+
+*For the Linux installation, see: [Installation/Linux](/wiki/Installation/Linux)*
+```
+
+#### Notice
+
+A notice can be placed where appropriate. A notice must begin with "Note", "Notice", "Caution", or "Warning"; be at the start of a line; use italics; and use a full stop (notices are complete sentences). Anything within the same paragraph of a notice must be italicised.
+
+```
+*Note: You will need a decent internet connection to connect to Bancho and submit scores.*
+```
+
+Note is for trivial information or reminders that may affect a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
+
 ### Emphasizing
 
 *Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
@@ -150,7 +196,7 @@ The title of an article must never be escaped; otherwise, the backslashes will s
 When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
 
 ```
-Do not:
+Don't:
 You are NOT allowed to post R-18 skins on the osu! forums.
 
 Do:
@@ -163,19 +209,7 @@ Use bold when you need to caution or note something's importance. When bolding, 
 
 #### Italics
 
-Use italics only when naming a video game or the name of a work.
-
----
-
-You must use italics when writing a note, and for main page and see also links. For example:
-
-```
-*Main page: [Welcome](/wiki/Welcome).*
-
-*See also: [Guides](/wiki/Guides).*
-
-*Note: You will need a decent internet connection to connect to Bancho and submit scores.*
-```
+Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this.
 
 ### Headers
 
@@ -270,16 +304,16 @@ Never use the word `here` as the link text. Instead, take the title of the page 
 Never use raw links for linking or have the link text be the URL. For example:
 
 ```
-Do not: https://osu.ppy.sh/home
-Do not: <https://osu.ppy.sh/home>
-Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
+Don't: https://osu.ppy.sh/home
+Don't: <https://osu.ppy.sh/home>
+Don't: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
-Do: [osu! on the web](https://osu.ppy.sh/home)
+Do:    [osu! on the web](https://osu.ppy.sh/home)
 ```
 
 #### Internal
 
-Internal links are the links linking within the osu! website.
+Internal links are the links linking within the website.
 
 ##### Wiki links
 
@@ -287,7 +321,7 @@ All links that point to an osu! wiki article must start with `/wiki/` followed b
 
 You could use a redirect to shorten a link a bit further.
 
-##### Other osu! web pages
+##### Other osu! webpages
 
 You can use the URL from the address bar of your browser and, optionally, omit the first part of the URL `https://osu.ppy.sh`. For example:
 
@@ -304,20 +338,20 @@ All usernames must be linked on first occurrence. Other occurrences are optional
 When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
-Do not:
-`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`
-`[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
+Don't:
+[osuplayer111](https://osu.ppy.sh/users/osuplayer111)
+[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)
 
 Do (okay):
-`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`
-`[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
+[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")
+[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")
 
 Do (preferred):
-`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`
-`[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
+[Andrea](https://osu.ppy.sh/users/33599 "Andrea")
+[Mashley](https://osu.ppy.sh/users/41481 "Mashley")
 ```
 
-Whenever possible, use the current user's name rather than their previous name(s).
+Whenever possible, with exception, use the current user's name rather than their previous name(s).
 
 ---
 
@@ -325,7 +359,7 @@ To get a user's id number:
 
 1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
 2. Press `Enter`
-3. Once the page loads, osu!web will convert the username to an id
+3. Once the page loads, the website will convert the username to an id
 
 ##### Beatmaps
 
@@ -369,9 +403,13 @@ To maintain consistency between all images on the osu! wiki, all images must adh
 
 Images used in the osu! wiki must be in JPG format at quality 8 (80). If the image contains transparency or needs to have its text be readable, use the PNG format instead. The `.gif` format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
 
+##### File size
+
+Images must be under 2 megabytes or they will fail to load.
+
 #### File names
 
-*Note: All image file extensions must use lowercase letters, otherwise they will fail to load!*
+*Notice: All image file extensions must use lowercase letters, otherwise they will fail to load!*
 
 Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive. Never use timestamps or long hashes for the file name.
 
@@ -476,9 +514,11 @@ Adding the full country names in the alt text is optional.
 
 ### Tables
 
-Tables use the GFM syntax.
+Tables use the GFM syntax. Tables in the osu! wiki support headings along the first row.
 
 If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
+
+---
 
 Here is a tool to help visualize tables:
 
@@ -504,7 +544,7 @@ Use horizontal bars sparingly. A few uses of the horizontal bar may include (but
 - separating images from text
 - marking the end of a "section" within the same section
 
-When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, osu!web will think the text above is a heading level 2.
+When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, the website will think the text above is a heading level 2.
 
 ## Grammar
 
@@ -609,13 +649,9 @@ These words are spelt as follows (note the spacing):
 
 ---
 
-*Difficulty* refers to how difficult a beatmap is to play and complete. *Version* refers to the name of a difficulty. *Beatmap* refers to the file of a version (i.e. the `.osu` file). *Beatmapset* refers to a set of beatmaps (i.e. the `.osz` file).
-
----
-
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_. Never use `BNG` or `Beatmap Nomination Group`.
+- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
 - Use `sign in` instead of `log in`.
 - Use `sign out` instead of `log out`.
 
@@ -667,7 +703,7 @@ When listing a start and an end date, list the start date first, followed by a f
 
 ### Serial comma
 
-_The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
+*The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
 
 When a list consists of 3 or more items in a sentence, use the serial comma. For example:
 
@@ -677,7 +713,7 @@ Keep in mind that there are some exceptions to not using the serial comma.
 
 ### Contractions
 
-Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are discouraged. This is to keep a formal tone in the osu! wiki. Articles that talk directly to the reader may be exempt from this rule (e.g. guides, rules, FAQ). For example, use:
+Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are discouraged. This is to keep a formal tone in the osu! wiki. Articles that talk directly to the reader may be an exception from this rule (e.g. guides, rules, FAQ). For example, use:
 
 - `Do not` instead of `Don't`
 - `You will` instead of `You'll`
