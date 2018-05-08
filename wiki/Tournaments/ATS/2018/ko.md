@@ -166,5 +166,5 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_TW]: /wiki/shared/flag_TW.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
