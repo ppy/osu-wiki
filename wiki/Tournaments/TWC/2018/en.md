@@ -113,7 +113,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [Kaneko Chiharu - iLLness LiLin (ll-oscar) \[ll-taiko Sp.\]](http://osu.ppy.sh/beatmaps/1244054) 
   - [ARM - Primula (tasuke912) \[TAIKO-HOLiC\]](http://osu.ppy.sh/beatmaps/1354418) 
   - [Igorrr - Pavor Nocturnus (XK2238) \[Clamatis\]](http://osu.ppy.sh/beatmaps/371761) 
-  - ["Nanoka - Tsukimade Todoke \[ Fushi no Kemuri (JhowM)"\]](Extra \(Special Edition\)) 
+  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM)\[(Extra \(Special Edition\))\]](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963)
   - [Lily - Scarlet Rose (ll-oscar) \[ll-taiko Sp.\]](http://osu.ppy.sh/beatmaps/463330) 
   - [cranky - R176 [Short Edit] (Nwolf) \[Kugessi\]](http://osu.ppy.sh/beatmaps/1623411) 
 - Hidden
