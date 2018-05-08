@@ -1,58 +1,60 @@
-# osu! Copyright Policy
+# osu! 저작권 정책
 
-osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
+*주의: 이 문서는 공식 번역이 아니기 떄문에 법적인 효력을 갖지 않습니다. 오래되었거나 틀릴 수도 있습니다. 항상 영어 원본을 확인해주세요.*
+*모든 내용을 보낼 때에는 반드시 영어로 작성해야 합니다.*
 
-The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (http://www.copyright.gov/onlinesp/list/index.html).
-osu! takes copyright and other intellectual property rights very seriously.
+osu!는 디지털 밀레니엄 저작권법 17 U.S.C. 512에 따라 저작권 침해에 관해서 다음과 같은 정책을 채택했습니다.
 
-It is osu!'s policy to (1) expeditiously block access to or remove content that it believes in good faith may contain material that infringes the copyrights of third parties and (2) remove and discontinue service to repeat offenders.
+저작권 침해 주장 통지를 받는 osu!의 지정 대리인의 연락처("지정 대리인")는 마지막 부분에 있으며, 미국 저작권청에 등록되어 있습니다 (http://www.copyright.gov/onlinesp/list/index.html).
+osu!는 저작권과 지식재산권을 매우 중요하게 생각합니다.
+osu!는 (1) 컨텐츠에 제3자의 저작권을 침해하는 요소가 포함되어 있다고 판단할 경우 신속하게 접근을 차단하거나 삭제하고 (2) 반복하는 경우 서비스의 이용을 중지시키는 정책을 채택하고 있습니다.
 
-## Reporting Copyright Infringements
+## 저작권 침해 통지 제출
 
-If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements): 
+osu! 웹사이트나 서비스를 통해 접근할 수 있는 컨텐츠가 당신의 저작권을 침해한다고 믿는다면, 다음 정보를 포함해서 지정 대리인에게 저작권 침해 통지를 보내주세요 (이러한 요구 사항을 확인하려면 법률 고문과 상담하거나 17 U.S.C. 512(c)를 참고해주세오.):
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed; 
+1. 침해당한 저작권의 소유자거나 대신 권한이 있는 사람의 물리적 또는 전자적 서명;
 
-2. Identification of the copyrighted works claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; 
+2. 저작권이 있는 작품이거나, 여러 작품이 단일 온라인 사이트에 있거나, 해당 사이트에서 해당 작품의 대표 목록을 하나의 통지로 포함한다는 증명;
 
-3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit osu! to locate the material; 
+3. 침해하는 것으로 주장하거나 침해 활동의 대상이 되고 그로 인하여 삭제되거나 접근이 비활성화되어야 하는 자료, 균일한 자료 위치 표시자를 포함하여 osu!에서 자료를 찾을 수 있게 하는 충분한 양의 정보;
 
-4. Contact information for the notifier, such as an address, telephone number and, if available, an e-mail address; 
+4. 통지에 포함될 주소, 전화번호, 그리고 가능하다면, 이메일 주소와 같은 연락 정보;
 
-5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
+5. 해당 자료의 사용이 저작권 소유자, 또는 그의 대리인, 또는 법에 의해 허가되지 않았다는 믿음; 그리고
 
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorized to act on behalf of the owner of the copyright that is allegedly infringed.
+6. 통지에 입력된 정보는 정확하고, 당신은 저작권 소유자의 이익을 실행할 권한에 대해 위증죄로 처벌받을 수 있음을 서약.
 
-Once a complete and proper notice of claimed copyright infringement is received by the Designated Agent, or if osu! otherwise comes to believe in good faith that a file on the osu! service may contain material that infringes copyright: 
+지정 대리인에게 저작권 침해 통보를 보내면, osu!가 osy! 서비스에서 저작권을 침해한다고 판단하면:
 
-**It is osu!'s policy:**
+**osu! 정책:**
 
-1. to remove or disable access to the content identified in the notice of claimed infringement; 
+1. 침해됐다고 확인된 컨텐츠의 삭제 또는 비활성화;
 
-2. to notify the content provider, member or user that it has removed or disabled access to the content; and 
+2. 컨텐츠 제공자, 회원 또는 사용자에게 컨텐츠가 삭제 또는 비활성화됐다고 알림; 그리고
 
-3. to terminate in appropriate circumstances subscribers and account holders who are repeat infringers.
+3. 반복적인 위반이 지나칠 경우 해당 계정을 해지.
 
-## Submitting Counter-Notices
+## 이의 제기 제출
 
-If the content provider, member or user believes that the content that was removed or to which access was disabled is not infringing, or the content provider, member or user believes that it has the right to post and use such content from the copyright owner, the copyright owner's agent, or pursuant to the law, the content provider, member or user may send a counter-notice containing the following information to the Designated Agent listed below: 
+삭제되거나 접근이 금지된 컨텐츠가 저작권 침해가 아니거나 컨텐츠 제공자, 회원 또는 사용자가 저작권 소유자의 게시물을 게시해서 사용할 권리가 있다고 생각하는 콘텐츠 제공자, 회원 또는 사용자는 저작권 소유자의 대리인에게 법에 따라 컨텐츠 제공자, 회원 또는 사용자는 마지막 부분에 있는 지정 대리인에게 다음 정보가 포함된 이의 제기를 보낼 수 있습니다:
 
-1. A physical or electronic signature of the content provider, member or user; 
+1. 컨텐츠 제공자, 회원 또는 사용자의 물리적 또는 전자적 서명;
 
-2. Identification of the content that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled; 
+2. 컨텐츠가 제거되었거나 액세스가 비활성화 된 위치 및 제거되거나 액세스가 해제되기 전에 자료가 나타난 위치 증명;
 
-3. A statement under penalty of perjury that the content provider, member or user has a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material to be removed or disabled; and 
+3. 컨텐츠 제공자, 회원 또는 사용자의 자료가 실수로 인해 제거되거나 비활성화되었다고 판단하며 이 내용이 사실과 다른 경우 위증의 처벌을 받는 데에 동의; 그리고
 
-4. Content provider's, member's or user's name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal District Court for the judicial district in which the content provider's, member's or user's address is located, or if the Content provider's, member's or user's address is located outside the United States, for Los Angeles County, California, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement or an agent of such person.
+4. 컨텐츠 제공자, 회원 또는 유저의 이름, 주소, 전화번호, 그리고, 가능하다면, 이메일 주소와 컨텐츠 제공자, 회원 또는 유저의 재판구를 관할하는 연방 지방 법원의 사법권에 동의하며, 컨텐츠 제공자나, 회원 또는 유저의 주소가 미국 밖인 경우, 캘리포니아 주에 있는 로스앤젤레스 법원의 사법권에 동의하며, 통지를 제출한 사람 또는 그 대리인과 절차를 진행하는 것에 동의.
 
-If a counter-notice is received by the Designated Agent, osu! may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days.
-Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at osu!'s sole discretion.
+이의 제기를 지정 대리인에게 보내면, osu!는 침해 통지를 제출한 사람에게 이의 제기의 사본과 영업일 기준으로 10일 이내에 컨텐츠의 삭제 또는 사용 중단을 취소할 수 있음을 보낼 수 있습니다.
+저작권 소유자가 컨텐츠 제공 업체, 회원 또는 사용자에 대한 법원 명령을 요구하지 않는 이상, 영업일 기준 10일에서 14일 이내에 삭제된 컨텐츠가 복구되거나, 다시 접근할 수 있으며, 이는 osu!의 단독 재량입니다.
 
-## Designated Agent Contact Details
+## 지정 대리인 연락처 정보
 
-**Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (24 hour response guaranteed) 
+**이메일**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (24시간 내 응답)
 
-**Postal Address**: 
+**주소**:
 
 ```
 Dean Herbert
