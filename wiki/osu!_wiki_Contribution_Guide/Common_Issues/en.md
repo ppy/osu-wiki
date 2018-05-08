@@ -1,6 +1,6 @@
 # Common Issues
 
-*Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
+*Main page: [osu! wiki Contribution Guide](/wiki/owcg).*
 
 ## Someone told me to use meaningful commit messages!
 

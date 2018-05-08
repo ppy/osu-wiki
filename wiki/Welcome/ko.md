@@ -35,8 +35,8 @@ _같이 보기: [모딩](/wiki/Modding/#getting-started)._
 
 모딩은 펜딩 (혹은 제작중/도움이 필요함) 단계에 있는 제작자의 비트맵을 유저들이 검토 (혹은 일반적으로 모딩이라고 불리우는) 과정입니다. 모딩은 제작자에게 그들의 비트맵에 있는 문제점을 고치도록 해 주기 때문에 퀄리티 조절에 큰 역할을 합니다.
 
-## osu!wiki - 어떻게 도와주실 건가요!
+## osu! wiki - 어떻게 도와주실 건가요!
 
-2016년 8월 26일부터, osu!wiki는 GitHub 저장소로 옮겼습니다. 이렇게 바꾼 이후, 작업의 흐름은 크게 바뀌었습니다. 이제 모든 작업물들은 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)로 이동하여 osu!wiki에 승인을 받고 저장되기 전에 검토됩니다.
+2016년 8월 26일부터, osu! wiki는 GitHub 저장소로 옮겼습니다. 이렇게 바꾼 이후, 작업의 흐름은 크게 바뀌었습니다. 이제 모든 작업물들은 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)로 이동하여 osu! wiki에 승인을 받고 저장되기 전에 검토됩니다.
 
-시작하려면, [osu!wiki 투고 지침](/wiki/owcg)을 읽어주세요.
+시작하려면, [osu! wiki 투고 지침](/wiki/owcg)을 읽어주세요.
