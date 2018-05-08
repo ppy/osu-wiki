@@ -1,10 +1,10 @@
 # News
 
-News articles exist on a slightly different system to the main osu!wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
+*For wiki articles, see [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
+
+News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
-
-## Repository directory
 
 The following standards apply only to articles written for the news, and saved in the `news/` directory.
 
@@ -68,7 +68,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-The wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
+The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
 
 #### Titles
 
@@ -84,7 +84,7 @@ Bolding is reserved for highlighting objects or phrases of importance, be them p
 
 #### Italics
 
-Italics is used uncommonly to accent phrases or statements of interest within the conversational register. It may also be used to designate names of other creative works, such as the _osu! Coffee Hour_ or the _Aspire Beatmapping Contests_.
+Italics is used uncommonly to accent phrases or statements of interest within the conversational register. It may also be used to designate names of other creative works, such as the *osu! Coffee Hour* or the *Aspire Beatmapping Contests*.
 
 #### Horizontal bar
 
@@ -92,11 +92,9 @@ Horizontal bars must be used sparingly and only in situations where content need
 
 #### Tables
 
-We do not recommend using Markdown tables for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
+It is not recommend to use Markdown tables for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
 
 ### Images
-
-#### Repository directory
 
 All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
 
@@ -113,6 +111,8 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 #### File size
 
 All images must be optimized as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
+
+Images must be under 2 megabytes or they will fail to load.
 
 #### Captions
 
