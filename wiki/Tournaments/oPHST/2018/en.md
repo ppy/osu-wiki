@@ -444,11 +444,11 @@ Mappools will be revealed one week in advance of each stage.
 
 All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml)
 
-### Match Week 2 (2018-05-05 to 2018-05-06)
+### osu!standard
 
-#### osu!standard Round of 16
+#### Round of 16
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml?gid=612281589)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
 
 | Seed | Player 1      |       |       | Player 2           | Seed |     | 
 |:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
@@ -461,49 +461,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     | 
 | 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     | 
 
-#### osu!catch Quarterfinals and Loser's Bracket Round 1
-
-All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
-
-| Seed | Player 1           |       |       | Player 2        | Seed |     | 
-|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
-| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
-| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
-| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
-| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
-| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
-| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
-| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
-| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
-
-Matches **9 to 12** are Loser's Bracket Matches. Matches **13 to 16** are Winner's Bracket Matches.
-
-#### osu!mania 4K Post-qualification Play-offs
-
-All resuls are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
-
-| Seed | Player 1              |       |       | Player 2          | Seed |     | 
-|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
-| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
-| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
-| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
-| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
-| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
-| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
-| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
-| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
-| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
-| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
-| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
-| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
-| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
-| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
-| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
-| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
-
-### Match Week 1 (2018-04-28 to 2018-04-29)
-
-#### osu!standard Round of 32
+#### Round of 32
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
@@ -526,7 +484,28 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 6    | **fixedbyglue**    | **4** | 0     | Scylz         | 27   |     | 
 | 11   | **Xidorn**         | **4** | 2     | Rimazii       | 22   |     | 
 
-#### osu!catch Round of 16
+#### Qualifiers
+
+Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
+
+### osu!catch 
+
+#### Quarterfinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
+
+| Seed | Player 1           |       |       | Player 2        | Seed |     | 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
+| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
+| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
+| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
+| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
+| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
+| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
+| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
+
+#### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
@@ -541,11 +520,43 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD | 
 | 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD | 
 
-### Qualifiers
+### osu!mania 4K 
 
-- Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
-- Detailed results of the **osu!mania 4K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
-- Detailed results of the **osu!mania 7K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
+#### Post-qualification Play-offs
+
+All resuls are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
+| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
+| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
+| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
+| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
+| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
+| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
+| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
+| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
+| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
+| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
+| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
+| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
+| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
+| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
+
+#### Qualifiers
+
+Detailed results of the **osu!mania 4K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
+
+### osu!mania 7K
+
+#### Qualifiers
+
+Detailed results of the **osu!mania 7K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
+
+
+
 
 ------------------------
 
