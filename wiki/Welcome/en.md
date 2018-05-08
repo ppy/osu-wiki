@@ -44,8 +44,8 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
-## osu!wiki - How you can help!
+## osu! wiki - How you can help!
 
-Since 2016-08-26, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
+Since 2016-08-26, the osu! wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu! wiki.
 
-To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
+To get started, see the [osu! wiki Contribution Guide](/wiki/owcg).

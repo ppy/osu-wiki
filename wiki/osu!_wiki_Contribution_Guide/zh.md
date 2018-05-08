@@ -1,6 +1,6 @@
-# osu!wiki 贡献指南
+# osu! wiki 贡献指南
 
-感谢你有兴趣让 osu!wiki 变得更好！现在，为 osu!wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu!wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
+感谢你有兴趣让 osu! wiki 变得更好！现在，为 osu! wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
 
 如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)中询问我们。
 
@@ -93,10 +93,10 @@
 
 ### 审阅
 
-当你创建了 Pull Request 后，其他 osu!wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
+当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
 
 注：对于中文文章，你可以通过 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 
 ### 合并
 
-为了让你的修改可以最终上线 osu!wiki，你的 Pull Request 需要被合并。一旦你的 Pull Request 审阅完成并得到批准（Approved），你可以在评论区或者 [osu!dev Discord 频道](https://discord.gg/ppy)中请求合并你的分支。一旦分支被合并，你的修改会在 5 小时内上线 osu!wiki。
+为了让你的修改可以最终上线 osu! wiki，你的 Pull Request 需要被合并。一旦你的 Pull Request 审阅完成并得到批准（Approved），你可以在评论区或者 [osu!dev Discord 频道](https://discord.gg/ppy)中请求合并你的分支。一旦分支被合并，你的修改会在 5 小时内上线 osu! wiki。

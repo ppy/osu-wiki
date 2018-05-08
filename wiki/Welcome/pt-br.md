@@ -36,8 +36,8 @@ _Veja também: [Modding](/wiki/Modding/#getting-started)._
 
 Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de _Pendente_ ou _Trabalho em Progresso/Precisando de Ajuda_. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
 
-## osu!wiki - Como você pode ajudar!
+## osu! wiki - Como você pode ajudar!
 
-Desde 26 de Agosto de 2016, a osu!wiki foi movida para um repositório do Github. Após essa mudança, o fluxo de trabalho mudou drasticamente. Atualmente, todas as contribuições passam pelo [Repositório do  osu-wiki](https://github.com/ppy/osu-wiki), no qual são então revisadas, aprovadas e mescladas à osu!wiki.
+Desde 26 de Agosto de 2016, a osu! wiki foi movida para um repositório do Github. Após essa mudança, o fluxo de trabalho mudou drasticamente. Atualmente, todas as contribuições passam pelo [Repositório do  osu-wiki](https://github.com/ppy/osu-wiki), no qual são então revisadas, aprovadas e mescladas à osu! wiki.
 
-Para começar, confira o [Guia de Contribuição da osu!wiki](/wiki/owcg).
+Para começar, confira o [Guia de Contribuição da osu! wiki](/wiki/owcg).

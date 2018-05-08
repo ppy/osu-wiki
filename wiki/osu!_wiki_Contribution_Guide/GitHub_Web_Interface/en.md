@@ -1,6 +1,6 @@
 # GitHub Web Interface
 
-*Main page: [osu!wiki Contribution Guide](/wiki/owcg).*
+*Main page: [osu! wiki Contribution Guide](/wiki/owcg).*
 
 *This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
 
@@ -102,4 +102,4 @@
 
 ## Finishing
 
-You can now go back to the [osu!wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+You can now go back to the [osu! wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
