@@ -56,23 +56,15 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Match Schedule: Finals
 
-### Sunday, 6. May 2018
+### Sunday, 13. May 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Canada    | ![][flag_CA] | ![][flag_KR] | South Korea   | **2:00 UTC**  | 22:00 (Sat) UTC -4 | 11:00 UTC +9       | ² |
-| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **3:30 UTC**  | 10:30 UTC +7       | 20:30 (Sat) UTC -7 | ² |
-| Japan       | ![][flag_JP] | ![][flag_TW] | Taiwan        | **10:00 UTC**  | 19:00 UTC +9 | 18:00 UTC +8 | ¹ |
-| Canada      | ![][flag_CA] | ![][flag_ID] | Indonesia     | **14:00 UTC**  | 10:00 UTC -4 | 21:00 UTC +7 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **14:00 UTC**  | 23:00 UTC +9 | 21:00 UTC +7 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **14:00 UTC**  | 23:00 UTC +9 | 7:00  UTC -7 | ³ |
-| Canada      | ![][flag_CA] | ![][flag_US] | United States | **20:00 UTC**  | 16:00 UTC -4 | 13:00 UTC -7 | ³ |
+| Taiwan     | ![][flag_TW] | ![][flag_US] | United States   | **3:00 UTC**  | 11:00 UTC +8  | 23:00 (Sat) UTC -4 | ¹ |
+| Japan      | ![][flag_JP] | ![][flag_TW] | Taiwan          | **11:00 UTC** | 20:00 UTC +9  | 19:00 UTC +8       | ² |
+| Japan      | ![][flag_JP] | ![][flag_US] | United States   | **13:00 UTC**  | 22:00 UTC +7 | 9:00 UTC -4        | ² |
 
-¹ Winner bracket encounter
- 
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
+² Depends on the result of ¹ encounter
 
 -----------------------
 
@@ -243,6 +235,15 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Sunday, 2018-05-06 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![][flag_CA] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42242430) |
+| Indonesia ![][flag_ID] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/42244231) |
+| Japan ![][flag_JP] | 7 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42253405) |
+| Canada ![][flag_CA] | 4 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/42266346) |
 
 ### Semifinals
 
