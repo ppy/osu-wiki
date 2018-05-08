@@ -1,16 +1,16 @@
 <!-- Información del BanchoBot -->
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "Tarjeta de jugador de BanchoBot")
+![Tarjeta de jugador del BanchoBot](BanchoBot.jpg "Tarjeta de jugador del BanchoBot")
 
 BanchoBot es un bot (es decir, un conjunto de comandos con respuestas automáticas) programado por **Echo49** que ayuda a las personas en el chat al mostrar cierta información y anunciar mensajes relacionados con el juego.
 Es el anfitrión del [bancho irc](/wiki/Internet_Relay_Chat) y tiene un perfil de usuario con la ID _[#3](https://osu.ppy.sh/u/3)_ (al lado de Peppy que es [#2](https://osu.ppy.sh/u/2)). *También tiene su propio [perfil de twitter](https://twitter.com/banchoboat)!*
 
 
-<!-- ¡Los comandos de BanchoBot (servidor) comienzan con un signo de exclamación! `!`-->
+<!-- ¡Los comandos del BanchoBot (servidor) comienzan con un signo de exclamación! `!`-->
 ## Commandos del BanchoBot
 
-Para usar los comandos de BanchoBot, debe usar el prefijo `!` Cada vez. **Los usuarios normales solo pueden usar estos comandos en canales multijugador y en el chat privado del BanchoBot** Si un usuario envía un comando en el chat público, los usuarios normales no lo verán y lo recibirán como un mensaje privado.
+Para usar los comandos del BanchoBot, debe usar el prefijo `!` Cada vez. **Los usuarios normales solo pueden usar estos comandos en canales multijugador y en el chat privado del BanchoBot** Si un usuario envía un comando en el chat público, los usuarios normales no lo verán y lo recibirán como un mensaje privado.
 Los usuarios también pueden usar el comando de cliente `/bb <command>` para abrir automáticamente una pestaña de BanchoBot y enviar el comando inmediatamente.
 
 *Para obtener una lista de comandos de barra inclinada "/" (cliente), visita el articulo de la [Consola de chat](/wiki/Chat_Console#commands-list).*
