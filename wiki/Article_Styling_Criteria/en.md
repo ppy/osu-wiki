@@ -2,7 +2,7 @@
 
 *For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
 
-The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu! wiki.
+The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu! wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
@@ -32,7 +32,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
 - Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
-- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
 
