@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > 皆で多様性を結び付けましょう！
 
-**Asian Taiko Showdown 2018 _(ATS 2018)_** は、[![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002)が主催する1vs1のTaikoトーナメントです。 ATSは過去に、[Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) として開かれていました。 この大会は第二回目の大会となり、インドネシアからアジアへ広げられたものです。
+**Asian Taiko Showdown 2018 _(ATS 2018)_** は、![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002)が主催する1vs1のTaikoトーナメントです。 ATSは過去に、[Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) として開かれていました。 この大会は第二回目の大会となり、インドネシアからアジアへ広げられたものです。
 
 ## 大会スケジュール
 
@@ -42,14 +42,13 @@ ATS 2018は様々なo!tコミュニティﾒﾝﾊﾞｰにより運営します
 
 | 役割 | ﾒﾝﾊﾞｰ |
 | ------------ | -------------- |
-| 主催 | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
-| 譜面セレクター | [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621), [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122)  |
-| コメンテーター | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991), [![][flag_CA] janitoreihil](https://osu.ppy.sh/users/3307897) |
-| 放送配信者 | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
-| デザイナー | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| 審判 | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] xfraczynho](https://osu.ppy.sh/users/2192669), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_ID] pmriva](https://osu.ppy/sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻訳家 | [![][flag_JP] JUDYDANNY](https://osu.ppy.sh/users/1165475), [![][flag_JP] Noko_BSF](https://osu.ppy.sh/users/3811831), [![][flag_TW] Smallwu](https://osu.ppy.sh/users/2512120), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_KR] Konpaku Sariel](https://osu.ppy.sh/users/533502), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
-| 集計 | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
+| 主催 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |(https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| コメンテーター | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| 放送配信者 | ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279), ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993) |
+| デザイナー | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| 審判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| 翻訳家 | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), |
+| 集計 | ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## リンク
 

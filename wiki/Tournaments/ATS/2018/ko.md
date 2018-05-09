@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-아시안 태고 쇼다운 2018(ATS 2018)는 [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002)가 개최한 더블 일리미네이션 1대일 오스 태고 경기입니다.
+아시안 태고 쇼다운 2018(ATS 2018)는 ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002)가 개최한 더블 일리미네이션 1대일 오스 태고 경기입니다.
 2번째 대회이고 지역을 인도네시아에서 아시아로 확장했습니다.
 
 ## 토너먼트 스케쥴
@@ -43,14 +43,14 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 | 위치 | 멤버 |
 | ------------ | -------------- |
-| 주최자 | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
-| 맵 셀렉터 | [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122), [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| 코멘터 | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991), [![][flag_CA] janitoreihil](https://osu.ppy.sh/users/3307897) |
-| 스트리머 | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
-| 디자이너 | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| 심판 | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
-| 번역가 | [![][flag_JP] JUDYDANNY](https://osu.ppy.sh/users/1165475), [![][flag_JP] Noko_BSF](https://osu.ppy.sh/users/3811831), [![][flag_TW] Smallwu](https://osu.ppy.sh/users/2512120), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_KR] Konpaku Sariel](https://osu.ppy.sh/users/533502), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
-| 통계 | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
+| 주최자 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 맵 셀렉터 | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| 코멘터 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| 스트리머 | ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279), ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993) |
+| 디자이너 | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| 심판 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| 번역가 | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), |
+| 통계 | ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## 링크
 
