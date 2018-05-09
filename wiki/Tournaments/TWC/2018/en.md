@@ -56,15 +56,11 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Match Schedule: Finals
 
-### Sunday, 13. May 2018
+### Saturday, 12. May 2018
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Taiwan     | ![][flag_TW] | ![][flag_US] | United States   | **3:00 UTC**  | 11:00 UTC +8  | 23:00 (Sat) UTC -4 | ¹ |
-| Japan      | ![][flag_JP] | ![][flag_TW] | Taiwan          | **11:00 UTC** | 20:00 UTC +9  | 19:00 UTC +8       | ² |
-| Japan      | ![][flag_JP] | ![][flag_US] | United States   | **13:00 UTC**  | 22:00 UTC +7 | 9:00 UTC -4        | ² |
-
-² Depends on the result of ¹ encounter
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 |
 
 -----------------------
 
