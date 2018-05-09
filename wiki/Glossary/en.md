@@ -767,7 +767,7 @@ _See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
 
 Standard refers to the game mode in _osu!_ and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 
-This term is used greatly within the osu!wiki to prevent ambiguity between _osu!_ (the framework, game client, etc.) and the game mode itself.
+This term is used greatly within the osu! wiki to prevent ambiguity between _osu!_ (the framework, game client, etc.) and the game mode itself.
 
 ### Star
 

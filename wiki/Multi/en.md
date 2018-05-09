@@ -156,7 +156,7 @@ Press the `1. Start Game` button to **create the Match Setup** with the **player
 
 ## Match Setup
 
-<!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu!wiki for Song Selection? -->
+<!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
 ![Host Match Setup view][Multi_roomhost image]
 
