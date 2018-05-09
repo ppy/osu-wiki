@@ -63,6 +63,22 @@ Notes:
 
 ---
 
+`mania-hit200.png`
+
+![](img/mania-hit200.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `mania-hit200-{n}.png`.
+- This element has a fixed looped animation of 60 FPS.
+- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+
+---
+
 `mania-hit300.png`
 
 ![](img/mania-hit300.png)
@@ -111,6 +127,96 @@ Notes:
 - This can be disabled in the [options](/wiki/options).
 - Unlike osu!standard and osu!catch's combobursts, all edges of this imageset should not be clipped.
 
+## Keys
+
+`mania-key1.png`
+
+![](img/mania-key1.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the idle state.
+- This element gets stretched or compressed to fit the column width.
+
+---
+
+`mania-key1D.png`
+
+![](img/mania-key1D.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the pressed state.
+- This element gets stretched or compressed to fit the column width.
+
+---
+
+`mania-key2.png`
+
+![](img/mania-key2.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the idle state.
+- This element gets stretched or compressed to fit the column width.
+
+---
+
+`mania-key2D.png`
+
+![](img/mania-key2D.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the pressed state.
+- This element gets stretched or compressed to fit the column width.
+
+---
+
+`mania-keyS.png`
+
+![](img/mania-keyS.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the idle state.
+- This element gets stretched or compressed to fit the column width.
+
+---
+
+`mania-keySD.png`
+
+![](img/mania-keySD.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
+
+Notes:
+
+- This is the pressed state.
+- This element gets stretched or compressed to fit the column width.
+
 ## Notes
 
 `mania-note1.png`
@@ -157,7 +263,7 @@ Notes:
 
 Notes:
 
-- Animation name: `mania-noteS-#.png`.
+- Animation name: `mania-noteS-{n}.png`.
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
 - Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.

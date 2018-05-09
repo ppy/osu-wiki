@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Comment s'inscrire?
 -------------------
 

@@ -33,7 +33,7 @@ Could [Wilchq](https://osu.ppy.sh/u/2021758) be the next person to HDHR FC [Team
 NOTABLE MENTIONS
 ------
 
-[My Angel Serena](https://osu.ppy.sh/u/1545031), popularly known as NerO, isn’t out of the scene yet. He recently set a crazy 99.23% HD FC on [Primary - Inai Sekai](https://osu.ppy.sh/b/1185036?m=0) to steal 571pp and the No. 2 spot on the map, 2nd only to [DanyL](https://osu.ppy.sh/u/3069354) who had the same accuracy
+[My Angel Serena](https://osu.ppy.sh/u/1545031), popularly known as NerO, isn't out of the scene yet. He recently set a crazy 99.23% HD FC on [Primary - Inai Sekai](https://osu.ppy.sh/b/1185036?m=0) to steal 571pp and the No. 2 spot on the map, 2nd only to [DanyL](https://osu.ppy.sh/u/3069354) who had the same accuracy
 
 [Emilia](https://osu.ppy.sh/u/2003326) may not have the accuracy, but he sure did have the amazing combo as he set a 96.27% 5x miss HD score on [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/b/890190?m=0), gaining 504pp and the No. 2 spot on the map.
 

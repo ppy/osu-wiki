@@ -18,7 +18,7 @@ Hot off the heels of an unprecedented turnout for our last seasonal contest, we 
 
 Following the seasonal approach, please include the **theme of "summer"** in your artwork in any way you feel appropriate.
  
-Make sure to reference Mocha’s [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed. We've prepared a [handy design pack](https://assets.ppy.sh/media/mocha/Mocha_Design_Package.zip) for your convenience that contains the design documentation shown above, as well as the signature motifs for the osu!taiko design which are featured heavily in her clothing.
+Make sure to reference Mocha's [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed. We've prepared a [handy design pack](https://assets.ppy.sh/media/mocha/Mocha_Design_Package.zip) for your convenience that contains the design documentation shown above, as well as the signature motifs for the osu!taiko design which are featured heavily in her clothing.
  
 The top 10 entries selected by voters will receive 2 months of osu!supporter, as well as get a spot in the in-game background rotations for everyone to enjoy. Yes, these are a regular thing now, and you'll be seeing more options in the game client to support them very shortly.
  
@@ -32,8 +32,8 @@ Rules
 * **Entries must meet the size requirements for a main-menu piece** (at least 1366x768, or higher. 2732x1536 is optimal wherever possible.)
 * **All entries must feature Mocha in some way**. You are free to include other characters if you wish.
 * **All entries should carry a "summer" theme in some way**. Hot. Summer.
-* **Submit only your own work! This means NO TRACING!** If we find out you have been stealing from other people’s work, we will henceforth bar you from participating in a fanart contest ever again.
-* **Don’t use copyrighted characters from other intellectual properties.** The community-submitted mascots from previous contests are free to be used, but remember that these designs are somebody else’s creation, so make sure to treat them with the same respect that you’d want shown to your work.
+* **Submit only your own work! This means NO TRACING!** If we find out you have been stealing from other people's work, we will henceforth bar you from participating in a fanart contest ever again.
+* **Don't use copyrighted characters from other intellectual properties.** The community-submitted mascots from previous contests are free to be used, but remember that these designs are somebody else's creation, so make sure to treat them with the same respect that you'd want shown to your work.
  
 **[Check out the contest listing page and submit your entry!](https://osu.ppy.sh/community/contests/48)**
  

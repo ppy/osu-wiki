@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Shortcut Key Reference
 =================================
 

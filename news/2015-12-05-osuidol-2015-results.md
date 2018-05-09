@@ -9,8 +9,7 @@ Throughout the last 4 months, with over 100 competitors, we went through 4 stage
 This year it was up to you, the community, to decide who will shine as the osu!idol! Over the course of 2 weeks, we gathered your votes and now that the time is up, the results shall be announced!
 <!-- more -->
 
-<center>
-<img src="http://puu.sh/lKeMa/ead7add5ae.png"></center>
+![](http://puu.sh/lKeMa/ead7add5ae.png)
 
 Full details can be found on the datasheet [here.](https://docs.google.com/spreadsheets/d/1IdvI7fuD-dayxo1cFmmtDVlbPtNlNyPm0iF6ONIQIG0/pubhtml)
 

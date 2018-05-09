@@ -16,7 +16,7 @@ Two for one! Chocobo, Road of Resistance, Kikoku Doukoku Jigokuraku, Milk Crown 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UMh_nT3gIoY" frameborder="0" allowfullscreen></iframe></br>
 
-Remember Hollow Wings’ famous [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/b/942356) map? Well, it seems like the Champion Above Champions has stepped up and challenged this slider-hell map, setting an incredible 99.94% HDSD FC to take the number one spot on the map and 216pp. What is next for the Norwegian? 
+Remember Hollow Wings' famous [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/b/942356) map? Well, it seems like the Champion Above Champions has stepped up and challenged this slider-hell map, setting an incredible 99.94% HDSD FC to take the number one spot on the map and 216pp. What is next for the Norwegian? 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b5DW1o3guAU" frameborder="0" allowfullscreen></iframe></br>
 

@@ -10,13 +10,13 @@ The dread moon rises as All Hallow's Eve draws near. Chills and thrills abound b
 
 To celebrate the coming of everyone's favourite spooky holiday, we've got a bunch of stuff planned for everyone to enjoy.
 
-<br><center>![](http://puu.sh/rZkQL/13dfe2e551.png)</center><br>
+![](http://puu.sh/rZkQL/13dfe2e551.png)
 
 **A mischievous spirit has possessed the osu! game client, turning the main-menu into a Halloween-themed paradise - for the dead!** Featuring the fantastic art of the top 10 community voted pieces from the [Halloween Fanart contest](https://new.ppy.sh/community/contests/5) alongside an all-new spooky remix of the osu! theme by our resident osu!musician cYsmix, the new menu is sure to get you in the rhythm for this year's Halloween spectacular.
 
 You have these wonderful artists to thank for the new menu backgrounds:
 
-* [56567878ae](https://new.ppy.sh/u/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg) 
+* [56567878ae](https://new.ppy.sh/u/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg)
 * [Artheard](https://new.ppy.sh/u/Artheard) for their eerily relevant portrayal of [pumpkin-pippi gazing at the full moon](https://puu.sh/rZkGd/6fc6612403.jpg)
 * [xiemon](https://new.ppy.sh/u/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
 * [Dramilion](https://new.ppy.sh/u/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
@@ -29,11 +29,11 @@ You have these wonderful artists to thank for the new menu backgrounds:
 
 These fancy new looks won't linger for long once the power of All Hallow's Eve dissipates, so make sure to enjoy them while you can! The titular "pumpkins" remix will remain around forever though (these are no *ordinary* pumpkins), and you can download it below for your own listening (or mapping) pleasure.
 
-<br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 **Aside from that, we've also unearthed some brand new hush-hush style achievements from the dead, complete with swanky medals**:
 
-<center>![](http://puu.sh/rYFY5/4653b8ec95.png)</center>
+![](http://puu.sh/rYFY5/4653b8ec95.png)
 
 There's no time to spare, so get meticulous and start figuring out the infinitesimal clues that will lead to your impeccable acquisition of these brand new medals. Slow and steady sometimes wins the race though, so don't fret if you can't quite catch up to the realtor extraordinaire - these medals are no fickle dream, and you'll be able to get them in reality if you try hard enough! Particularly crafty players will find our mechanical benefactors yield their secrets in no time, so make sure to cooperate with your friends to find out what's what! But make sure to at least give the mystery a try for yourself first - balance in all things, after all.
 

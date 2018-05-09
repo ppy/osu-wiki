@@ -7,10 +7,9 @@ tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-regis
 ---
 We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](http://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
 
-<center>
-<img src="http://puu.sh/kux2m/60c6d1a88c.jpg"></center>
+![](http://puu.sh/kux2m/60c6d1a88c.jpg)
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 1-18 Oct 2015
 + Live Drawings: 1 Nov 2015 14:00 UTC
@@ -21,7 +20,7 @@ We would like to welcome all of you to this year's official osu! World Cup. This
 + Finals - Week 1: 5-6 Dec 2015
 + Finals - Week 2: 12-13 Dec 2015
 
-##What has been changed?
+## What has been changed?
 
 + Players are now able to sign-up individually. Teams will be compiled by captains **after** the registration phase is over. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/wiki/OWC_2015#Tournament_Registration).
 + You can sign up from the [registration page](https://jizz.ppy.sh/tournaments/2).
@@ -32,7 +31,7 @@ We would like to welcome all of you to this year's official osu! World Cup. This
 + We plan to use a different scoring system within the tournament matches, relying less on pure combo count and more on accuracy. We will provide you detailed information as soon as it is available!
 
 
-##Prizes
+## Prizes
 
 We are aiming to have a minimum $5,000 cash prize pool for this world cup. We will be announcing a way you can help raise funds for the prize pool shortly, so stay tuned!
 
@@ -41,7 +40,7 @@ We are aiming to have a minimum $5,000 cash prize pool for this world cup. We wi
 + 2nd: 38% of the raised prize pool, profile badge
 + 3rd: 12% of the raised prize pool, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://jizz.ppy.sh/tournaments/2)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
@@ -53,7 +52,7 @@ If your registration was successful, you will be notified via a forum message. T
 
 _Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
 
-##Links
+## Links
 
 + [Wiki article](http://osu.ppy.sh/wiki/OWC_2015)
 + [Discussion thread](https://osu.ppy.sh/forum/t/371786)

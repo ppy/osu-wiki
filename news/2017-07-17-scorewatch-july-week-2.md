@@ -13,11 +13,11 @@ Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads g
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7e4iJabYwpA" frameborder="0" allowfullscreen></iframe></br>
 
-He isn’t the only one to enter the 700pp club that day! [Yaong](https://osu.ppy.sh/u/1883865) surged into the 11k pp club with an unbelievable 98.82% HR FC on [xi - Blue Zenith](https://osu.ppy.sh/b/658127) to score 707pp and taking the No. 2 spot on the map, taking the first modded FC on the FOUR DIMENSIONS difficulty. You have to watch this.
+He isn't the only one to enter the 700pp club that day! [Yaong](https://osu.ppy.sh/u/1883865) surged into the 11k pp club with an unbelievable 98.82% HR FC on [xi - Blue Zenith](https://osu.ppy.sh/b/658127) to score 707pp and taking the No. 2 spot on the map, taking the first modded FC on the FOUR DIMENSIONS difficulty. You have to watch this.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sf29XhQc1cM" frameborder="0" allowfullscreen></iframe></br>
 
-[Rucker](https://osu.ppy.sh/u/147515) definitely had [MinG3012](https://osu.ppy.sh/u/1583218) (and [Axarious](https://osu.ppy.sh/u/2614511) and [Epiphany](https://osu.ppy.sh/u/3256299)) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/b/893739) to earn himself 118pp. So, when’s the all 50 run? We will be waiting.
+[Rucker](https://osu.ppy.sh/u/147515) definitely had [MinG3012](https://osu.ppy.sh/u/1583218) (and [Axarious](https://osu.ppy.sh/u/2614511) and [Epiphany](https://osu.ppy.sh/u/3256299)) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/b/893739) to earn himself 118pp. So, when's the all 50 run? We will be waiting.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7iPh4um_Qwo" frameborder="0" allowfullscreen></iframe></br>
 
