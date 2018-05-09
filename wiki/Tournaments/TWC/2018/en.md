@@ -54,14 +54,30 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Finals
+## Match Schedule: (Grand) Finals
 
 ### Saturday, 12. May 2018
 
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :-: |
+| Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 | ² |
+
+### Sunday, 13. May 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :-: |
+| Taiwan     | ![][flag_TW] | ![][flag_CA] | Canada    | **03:00 UTC**  | 11:00 UTC +8  | 23:00 (Sat) UTC -4 | ³ |
+| Taiwan     | ![][flag_TW] | ![][flag_ID] | Indonesia | **03:00 UTC**  | 11:00 UTC +8  | 10:00 UTC +7 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_CA] | Canada    | **04:30 UTC**  | 13:30 UTC +9  | 00:30 UTC -4 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_TW] | Taiwan    | **07:00 UTC**  | 16:00 UTC +9  | 15:00 UTC +8 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_ID] | Indonesia | **07:00 UTC**  | 16:00 UTC +9  | 14:00 UTC +7 | ³ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 -----------------------
 
