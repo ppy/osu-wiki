@@ -38,10 +38,10 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 | Poste | Membre |
 | ------------ | -------------- |
-| Direction | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Sélecteurs de maps | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentateurs | [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticiens | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Sélecteurs de maps | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentateurs | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statisticiens | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Liens
 
@@ -193,7 +193,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
   - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](http://osu.ppy.sh/beatmaps/1279175&m=3)
   - [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](http://osu.ppy.sh/beatmaps/1252742&m=3)
 - Tiebreaker
-  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](http://osu.ppy.sh/beatmaps/1038662&m=3) 
+  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](http://osu.ppy.sh/beatmaps/1038662&m=3)
 
 ### Demi-finales
 
