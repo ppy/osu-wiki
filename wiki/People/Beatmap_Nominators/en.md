@@ -19,7 +19,7 @@ Becoming a Beatmap Nominator
 With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one to two months.
 
 ### Basic Criteria
-Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
+Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
 + They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
 + They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
@@ -74,7 +74,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Bubblun](https://osu.ppy.sh/users/6191653)           |                          |
 | [celerih](https://osu.ppy.sh/users/4696296)           | French                   |
 | [Cerulean Veyron](https://osu.ppy.sh/users/1886524)   | Arabic                   |
-| [Chaoslitz](https://osu.ppy.sh/users/3621552)         | Cantonese, Chinese       |
 | [Chewin](https://osu.ppy.sh/users/617323)             | Italian                  |
 | [Delis](https://osu.ppy.sh/users/1603923)             | Japanese                 |
 | [Deramok](https://osu.ppy.sh/users/1428455)           |                          |
