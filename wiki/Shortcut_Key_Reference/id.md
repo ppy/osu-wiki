@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Referensi Tombol Pintasan
 ==========================
 

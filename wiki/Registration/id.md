@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Bagaimana cara saya mendaftar?
 ------------------------------
 

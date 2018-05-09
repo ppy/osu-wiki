@@ -58,6 +58,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ### Saturday, 12. May 2018
 
+
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 |
@@ -151,7 +152,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](http://osu.ppy.sh/beatmaps/919457) 
   - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](http://osu.ppy.sh/beatmaps/1502771) 
 - Tiebreaker
-  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Imperfect\]](http://osu.ppy.sh/beatmaps/1256958) 
+  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Perfect\]](http://osu.ppy.sh/beatmaps/1617154) 
 
 ### Quarterfinals
 
@@ -237,9 +238,8 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Sunday, 2018-05-06 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Canada ![][flag_CA] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42242430) |
-| Indonesia ![][flag_ID] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/42244231) |
+| Indonesia ![][flag_ID] | 7 | 0 | ![][flag_US] United States | Nullified |
 | Japan ![][flag_JP] | 7 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42253405) |
-| Canada ![][flag_CA] | 4 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/42266346) |
 
 ### Semifinals
 
