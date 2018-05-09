@@ -69,4 +69,4 @@ Ces beatmaps étaient de base [en attente](#en-attente), mais sont déplacées d
 
 Aucune beatmap du cimetière n'affecte les statistiques de l'utilisateur.
 
-Afin de sauvegarder de l'espace pour de nouvelles beatmaps, *osu!* supprimera les beatmaps du cimetière si elles sont là depuis longtemps.
+Afin de sauvegarder de l'espace pour de nouvelles beatmaps, osu! supprimera les beatmaps du cimetière si elles sont là depuis longtemps.

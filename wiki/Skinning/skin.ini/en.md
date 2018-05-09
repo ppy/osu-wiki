@@ -3,7 +3,7 @@
 *See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank).*
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
-This file will define how _osu!_ will display certain skin elements.
+This file will define how osu! will display certain skin elements.
 
 **Caution:** `skin.ini` commands are case sensitive, make sure you follow the proper spelling and are using the correct capitalisation!
 
@@ -111,7 +111,7 @@ Before viewing the `skin.ini` commands below, here are some notes.
 
 *tl;dr `0 = no` and `1 = yes`*
 
-Some commands only accept a boolean value (a `true` or a `false` value). When skinning, *osu!* is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
+Some commands only accept a boolean value (a `true` or a `false` value). When skinning, osu! is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
 
 Here is a classic example:
 
@@ -143,7 +143,7 @@ A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
 
 ### Sections
 
-*osu!* organizes the commands with a heading command. Which may look like this `[General]`. *osu!* only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
+osu! organizes the commands with a heading command. Which may look like this `[General]`. osu! only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
 
 ## \[General\]
 
@@ -188,7 +188,7 @@ A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
   - Default: `0`
   - Notes:
     - The default sliderball will always get tinted, if enabled in [options](/wiki/options).
-- `ComboBurstRandom` 
+- `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
   - Default: `0`
@@ -422,21 +422,21 @@ A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
   - Values: _RGB_
   - Default: `255,0,0`
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour of the catcher itself.
 - `HyperDashFruit:`
   - Question: What colour should be used for the fruits?
   - Values: _RGB_
   - Default: *use `HyperDash`*
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour outlining the fruit.
 - `HyperDashAfterImage:`
   - Question: What colour should be used for the after images?
   - Values: _RGB_
   - Default: *use `HyperDash`*
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour of the images following the catcher after obtaining the hyperdash fruit.
 
 ## \[Mania\]

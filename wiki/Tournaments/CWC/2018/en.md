@@ -41,11 +41,11 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 | Position | Members |
 | ------------ | -------------- |
-| Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CN] F D Flourite](https://osu.ppy.sh/users/2459589), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
+| Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selectors | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
 | Commentators | _To be decided_ |
-| Referees | [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565) |
-| Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 
 ## Links

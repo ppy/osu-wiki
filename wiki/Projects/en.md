@@ -14,7 +14,7 @@ Listed below are projects that were created from the osu!team.
     -   osu! on OS X (results will vary)
 -   osu! Community Localisation Project - [forums](/community/forums/topics/104342)
     -   The osu! localisation project, localise your language into osu!
--   osu!wiki - [forums](/community/forums/topics/68479) - [website](/wiki/)
+-   osu! wiki - [forums](/community/forums/topics/68479) - [website](/wiki/)
     -   Houses information about and only osu!
 
 ### Inactive

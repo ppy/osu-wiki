@@ -77,7 +77,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 - `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
   - When used, osu! will mute itself and hide the window in the toolbar.
-  - To disable boss key, click on the _osu!_ icon in the task bar and the osu!client will open.
+  - To disable boss key, click on the osu! icon in the task bar and the osu!client will open.
 
 ## Editor
 

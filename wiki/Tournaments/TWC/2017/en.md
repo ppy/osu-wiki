@@ -39,10 +39,10 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | Position | Member |
 | ------------ | -------------- |
-| Management | [![][flag_DE] Loctav](https://new.ppy.sh/users/71366), [![][flag_DE] p3n](https://new.ppy.sh/users/123703), [![][flag_ES] Deif](https://new.ppy.sh/users/318565), [![][flag_FR] shARPII](https://new.ppy.sh/users/776257) |
-| Map Selectors | [![][flag_DE] OnosakiHito](https://new.ppy.sh/users/290128), [![][flag_FR] Sayaka-](https://new.ppy.sh/users/398275) |
-| Commentators | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_NZ] deadbeat](https://new.ppy.sh/users/128370), [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_HK] magnomizer](https://osu.ppy.sh/users/1893718), [![][flag_CA] Tasha](https://new.ppy.sh/users/1031958), [![][flag_DE] Zetera](https://osu.ppy.sh/users/587737), [![][flag_US] ztrot](https://new.ppy.sh/users/6347) |
-| Statistician | [![][flag_NZ] deadbeat](https://new.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://new.ppy.sh/users/1910766) |
+| Management | ![][flag_DE] [Loctav](https://new.ppy.sh/users/71366), ![][flag_DE] [p3n](https://new.ppy.sh/users/123703), ![][flag_ES] [Deif](https://new.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://new.ppy.sh/users/776257) |
+| Map Selectors | ![][flag_DE] [OnosakiHito](https://new.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://new.ppy.sh/users/398275) |
+| Commentators | ![][flag_BD] [Arf](https://osu.ppy.sh/users/3716999), ![][flag_NZ] [deadbeat](https://new.ppy.sh/users/128370), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_HK] [magnomizer](https://osu.ppy.sh/users/1893718), ![][flag_CA] [Tasha](https://new.ppy.sh/users/1031958), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_US] [ztrot](https://new.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://new.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://new.ppy.sh/users/1910766) |
 
 ## Links
 
