@@ -1,6 +1,6 @@
 # Linux
 
-*Main page: [Installation](/wiki/Installation).*
+*For the Windows installation, see: [Installation](/wiki/Installation)*
 
 This page will roughly tell you how to get osu! working on your Linux device using Wine.
 
@@ -62,12 +62,12 @@ $ sudo dnf groupinstall "Development Tools"
 $ sudo dnf config-manager --add-repo 'https://dl.winehq.org/wine-builds/fedora/26/winehq.repo'
 ```
 
-4.  Install wine.
+4.  Install Wine.
 ```
 $ sudo dnf install winehq-stable
 ```
 
-5.  Install winetricks. If prompted to install `wine-mono`, install it.
+5.  Install Winetricks. If prompted to install `wine-mono`, install it.
 ```
 $ wget  https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
 $ chmod +x winetricks
@@ -75,30 +75,30 @@ $ chmod +x winetricks
 
 ## Installing osu!
 
-*Warning: Never run wine using the root user or sudo!*
+*Caution: Never run Wine using the root user or sudo!*
 
-*Note: A Wine prefix (`WINEPREFIX`) refers to a folder for where your Windows applications and configurations are installed and located. You may use a different Wine prefix.* This part of the guide will be using `~/.wine`.
+*Note: A Wine prefix (`WINEPREFIX`) refers to a folder for where your Windows applications and configurations are installed and located. You may use a different Wine prefix, but this guide will be using `~/.wine`.*
 
-1.  Once you have installed wine and winetricks, create a wine prefix using the Windows 32-bit architecture and install the .NET 4.5 framework, the core and CJK fonts and gdiplus.
+1.  Once you have installed Wine and Winetricks, create a Wine prefix using the Windows 32-bit architecture and install the .NET 4.5 framework, the core and CJK fonts and gdiplus.
 ```
 $ WINPREFIX=~/.wine WINEARCH=win32 winetricks dotnet45 corefonts cjkfonts gdiplus
 ```
 
-2.  If wine asks you to install wine_gecko for any reason, click `No`.
+2.  If Wine asks you to install `wine_gecko` for any reason, click `No`.
 
 3.  The .Net 4.0 installer window will open, follow the prompts and install it. After this is done, the .Net 4.5 installer window will open, follow the prompts and install it. If prompted to restart, click either button (this will do nothing and you do not need to restart your computer).
 
-4.  Once the installation is completed, open the Wine Configuration window and go to the `Graphics` tab. From there, enable the `Allow the window manager to decorate the windows` and `Allow the window manager to control the windows` checkboxes in the Window settings fieldset. Then click `OK`.
+4.  Once the installation is completed, open the Wine configuration window and go to the `Graphics` tab. From there, enable the `Allow the window manager to decorate the windows` and `Allow the window manager to control the windows` checkboxes in the Window settings fieldset. Then click `OK`.
 ```
 $ WINEPREFIX=~/.wine winecfg
 ```
 
-5.  Once that is done, download the osu! installer. You can either download it from the website or using the following command:
+5.  Once that is done, download the osu! installer. You can either download it [from the website](/home/download) or using the following command:
 ```
 $ wget 'https://m1.ppy.sh/r/osu!install.exe'
 ```
 
-6.  Navigate to your wine prefix's Program Files folder (this should be `~/.wine/drive_c/Program Files`) and create a folder called `osu!` or use the following command:
+6.  Navigate to your Wine prefix's Program Files folder (this should be `~/.wine/drive_c/Program Files`) and create a folder called `osu!` or use the following command:
 ```
 $ mkdir '~/.wine/drive_c/Program Files/osu!'
 ```
@@ -108,7 +108,7 @@ $ mkdir '~/.wine/drive_c/Program Files/osu!'
 $ mv 'osu!install.exe' '~/.wine/drive_c/Program Files/osu!'
 ```
 
-8.  Execute the osu!installer using wine.
+8.  Execute the osu!installer using Wine.
 ```
 $ WINEPREFIX=~/.wine wine '~/.wine/drive_c/Program Files/osu!/osu!install.exe'
 ```
@@ -255,7 +255,7 @@ $ WINEPREFIX=~/.wine winetricks cjkfonts
 
 ### mscoree.dll is not found!
 
-While installing dotnet45 (and dotnet40), winetricks may, rarely, forget to put an override for this DLL file. To fix this, reinstall dotnet40.
+While installing dotnet45 (and dotnet40), Winetricks may, rarely, forget to put an override for this DLL file. To fix this, reinstall dotnet40.
 
 ```
 $ WINPREFIX=~/.wine winetricks --force dotnet40
@@ -331,7 +331,7 @@ You could have X.Org execute this on start up by adding the command to your `.xi
 
 #### Polling Rate
 
-*Note: You should only do the following if you believe there is some latency or choppyness in your mouse movements. Doing so may increase CPU usage in X.org and FireFox.*
+*Note: You should only do the following if you believe there is some latency or choppyness in your mouse movements. Doing so may increase CPU usage in X.org and Firefox.*
 
 To adjust the mouse polling rate, run the following command:
 
