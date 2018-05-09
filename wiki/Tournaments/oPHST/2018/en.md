@@ -377,7 +377,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [cubesato - April Showers (Raveille) \[Drizzling\]](https://osu.ppy.sh/beatmaps/1577952)
 	- [Electro-Light - Throwback (AlisceaSparku) \[Liberation\]](https://osu.ppy.sh/beatmaps/1429587)
 	- [TSUNKU - Kumitate Koujou (DDMythical) \[Major Scale\]](https://osu.ppy.sh/beatmaps/1115654)
-	- [sakuzyo - SAO:The Beginning- Main Theme (eyes) \[wind\]](https://osu.ppy.sh/beatmaps/1560930)
+	- [sakuzyo - SAO:The Beginning- Main Theme (eyes) \[harmony\]](https://osu.ppy.sh/beatmaps/1560930)
 	- [Dasu - NAKAKAPAGPABAGABAG (Toshiyuki Doma) \[Worrisome\]](https://osu.ppy.sh/beatmaps/1048093)
 - Tiebreaker
 	- [fhana - Wonder Stella (Asherz007) \[Cosmos\]](https://osu.ppy.sh/beatmaps/1300647)
