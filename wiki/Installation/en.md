@@ -1,9 +1,9 @@
 # Installation
 
 <!-- *See also: [Installation/MacOS](/wiki/Installation/MacOS) and [Installation/Linux](/wiki/Installation/Linux).* -->
-*See also: [Installation/Linux](/wiki/Installation/Linux).*
+*For the Linux installation, see: [Installation/Linux](/wiki/Installation/Linux).*
 
-This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
+This page will roughly tell you how to get osu! working on Windows. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
@@ -22,11 +22,9 @@ This page will roughly tell you how to get osu! working on your Windows device. 
     -   If you have an account already, log in.
     -   If you need to sign up, see [Registration](/wiki/Registration), then log in.
 
-## Adding beatmapsets
+## Adding beatmaps
 
-*See also: [Beatmaps](/wiki/Beatmaps) and [Beatmapsets](/wiki/Beatmapsets)*
-
-There are two ways to add beatmaps, via the website or osu!direct (requires [osu!supporter](/wiki/osu!supporter)).
+There are two ways to add [beatmaps](/wiki/beatmaps), via the website or osu!direct (requires [osu!supporter](/wiki/osu!supporter)).
 
 ### Website
 
