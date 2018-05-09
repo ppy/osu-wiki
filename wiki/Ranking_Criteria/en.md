@@ -3,7 +3,7 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in _osu!_**
+**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in osu!**
 
 _For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
 
@@ -17,8 +17,8 @@ Glossary
 
 ### Mapset
 
-- **Drain time:** The time during which the health-bar drains. Excludes break periods. Taiko mode’s drain time includes sliders and the intended length of spinners. 
-- **Reasonable Spread:** A mapset without drastically large differences between difficulties as dictated by difficulty-specific rules and guidelines. 
+- **Drain time:** The time during which the health-bar drains. Excludes break periods. Taiko mode’s drain time includes sliders and the intended length of spinners.
+- **Reasonable Spread:** A mapset without drastically large differences between difficulties as dictated by difficulty-specific rules and guidelines.
 - **Game-mode:** osu!, osu!taiko, osu!catch, and each of osu!mania’s key counts are considered individual game-modes.
 - **Single-mode mapset:** A mapset which contains difficulties of only one game-mode.
 - **Hybrid mapset:** A mapset which contains difficulties of multiple game-modes.
@@ -69,10 +69,10 @@ Glossary
 - **No two hit objects can be placed on the same tick** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. osu!mania maps are exempt from this.
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 - **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
-- **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
+- **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable.
 
 ### Guidelines
-- **Letterboxing and countdown options should be consistent between difficulties of a mapset.** 
+- **Letterboxing and countdown options should be consistent between difficulties of a mapset.**
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they fit a song more appropriately than standard tick rates.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 
@@ -83,7 +83,7 @@ Glossary
 -   **Single-mode mapsets must include a reasonable spread of at least two difficulties.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
 -   **Hybrid mapsets without osu!standard difficulties must include a reasonable spread of at least two difficulties per mode.** The lowest difficulty of each mode cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
 -   **If a hybrid mapset includes osu! difficulties...**
-    -   **A reasonable spread of at least two osu!standard difficulties must be included.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. 
+    -   **A reasonable spread of at least two osu!standard difficulties must be included.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria.
     -   **Converted difficulties must form a reasonable spread.** For example, a mapset with Easy and Normal osu!standard difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
     -   **Any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
 -   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
@@ -92,7 +92,7 @@ Glossary
 -   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its mappers’ username or nickname. (e.g. Guest Mapper’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 -   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
 -   **A mapset host must have mapped equal or more drain time than any guest difficulty mappers.** This is to provide credit where credit is due.
--   **A mapset host and guest mappers can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the mapset host must delete the guest contribution upon request. If a guest mapper cannot be contacted for a month, they will be assumed to agree with any changes. 
+-   **A mapset host and guest mappers can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the mapset host must delete the guest contribution upon request. If a guest mapper cannot be contacted for a month, they will be assumed to agree with any changes.
 
 ### Guidelines
 
@@ -127,7 +127,7 @@ Glossary
 -   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hit sounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 -   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
 -   **If objects cannot be snapped using the editor’s supported beat snap divisors, a change in BPM must be used to accommodate for it.** Objects cannot be unsnapped.
--   **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file. 
+-   **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
 
 ### Guidelines
 
@@ -141,10 +141,10 @@ Glossary
 - **A mapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
 - **A mapset’s audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
-- **If you do not map the last 20% of your mapset’s audio file, it must be cut.** The intro time is not included. 
-- **Maps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music. 
+- **If you do not map the last 20% of your mapset’s audio file, it must be cut.** The intro time is not included.
+- **Maps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania maps are exempt from this because of the mode's rhythm construction.
-- **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed. 
+- **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed.
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song’s samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a mapset.** This is used for both the song selection menu and the online thumbnail preview.
@@ -163,7 +163,7 @@ Glossary
 - **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported.
 - **You must have a background image on every difficulty of your map.** Different background files for different difficulties is acceptable.
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
-- **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen. 
+- **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen.
 - **A video's offset must be correct and consistent between difficulties.** Videos synchronize with their respective songs, so inconsistencies result in one or more difficulties being out of sync.
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap. This includes videos with muted audio tracks.
 
