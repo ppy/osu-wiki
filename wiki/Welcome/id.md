@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Selamat Datang
 
 Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang menyediakan pilihan empat mode permainan yang ditawarkan: osu!standard, simulator klik lingkaran; osu!taiko, emulator drum; osu!catch, penangkap buah salad, dan osu!mania, sebuah synthesizer dengan menekan tombol.
@@ -28,13 +31,13 @@ Temui pippi, Yuzu, Maria, dan Mocha; empat maskot dari mode osu!standard, osu!ca
 
 ## Beatmapping
 
-_Lihat juga: [Beatmapping](/wiki/Beatmapping/#getting-started)._
+*Lihat juga: [Beatmapping](/wiki/Beatmapping/#getting-started).*
 
-Beatmapping adalah proses pemain yang akan menciptakan beatmap. Proses ini meliputi: pemilihan musik, mengatur waktu dan memetakan beatmap, dan menguji beatmap. Mungkin juga termasuk: menambahkan video, menambahkan [storyboard](/wiki/storyboarding/#getting-started), dan/atau menambahkan [skin kustom](/wiki/skinning/#getting-started). Semua itu dapat dilakukan oleh pembuat beatmap itu sendiri atau dengan pemain lain, kadang-kadang disebut juga _storyboarders_, _skinners_, dan/atau _guest creators_, tergantung pada apa yang mereka lakukan.
+Beatmapping adalah proses pemain yang akan menciptakan beatmap. Proses ini meliputi: pemilihan musik, mengatur waktu dan memetakan beatmap, dan menguji beatmap. Mungkin juga termasuk: menambahkan video, menambahkan [storyboard](/wiki/storyboarding/#getting-started), dan/atau menambahkan [skin kustom](/wiki/skinning/#getting-started). Semua itu dapat dilakukan oleh pembuat beatmap itu sendiri atau dengan pemain lain, kadang-kadang disebut juga *storyboarders*, *skinners*, dan/atau *guest creators*, tergantung pada apa yang mereka lakukan.
 
 ## Modding
 
-_Lihat juga: [Modding](/wiki/Modding/#getting-started)._
+*Lihat juga: [Modding](/wiki/Modding/#getting-started).*
 
 Modding adalah proses pengguna meninjau (atau biasa disebut "modders") beatmap pembuat dalam tahap pending (atau work in progress/help). Modding memainkan peran besar dalam pengontrolan kualitas, karena hal ini memungkinkan pembuat beatmap untuk memperbaiki masalah di beatmap yang mereka buat.
 
