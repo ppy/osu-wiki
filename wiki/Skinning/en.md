@@ -14,7 +14,7 @@ Skinning is one of the key features of osu! It enables players to derive from th
 
 ## Skin elements lists
 
-The list of skinning elements is split up into these five categories:
+The list of skinning elements is split up into these categories:
 
 - [Skinning Interface](/wiki/Skinning/Interface)
 - [Skinning osu!standard](/wiki/Skinning/osu!)
@@ -26,3 +26,7 @@ The list of skinning elements is split up into these five categories:
 ## See also
 
 - [skin.ini](/wiki/skin.ini)
+- [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
+- [Compendium](/wiki/Skinning/Compendium) - a list of completed skins
+- [Skinning FAQ](/wiki/Skinning/FAQ)
+- [Guides and Important Threads](/wiki/Skinning/Guides_and_Important_Threads)
