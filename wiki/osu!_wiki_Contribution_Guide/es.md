@@ -71,7 +71,7 @@ Tienes dos opciones:
 
 ![](img/github-recent.jpg)
 
-3\. Si lo ves, haz clic en el botón `Compare & pull request` (saltar hasta el paso 8). Si no, haz clic en  el botón `New pull request`(continúa con el paso 4).
+3\. Si lo ves, haz clic en el botón `Compare & pull request` (saltar hasta el paso 8). Si no, haz clic en el botón `New pull request`(continúa con el paso 4).
 
 4\. En la siguiente página, si ves dos botones como en la imagen de abajo, haz clic en `compare across forks`.
 
