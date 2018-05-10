@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-one osu!taiko tournament hosted by [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from the Indonesia region to Asia.
+The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from the Indonesia region to Asia.
 
 ## Tournament Schedule
 
@@ -42,13 +42,14 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 | Position | Members |
 | ------------ | -------------- |
-| Organizers | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
-| Map Selectors | [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122), [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| Commentators | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991), [![][flag_CA] janitoreihil](https://osu.ppy.sh/users/3307897) |
-| Streamers | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
-| Designers | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| Referees | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
-| Statisticians | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
+| Organizers | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| Map Selectors | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| Commentators | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| Streamers | ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279), ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993) |
+| Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| Referees | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| Translators | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), |
+| Statisticians | ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## Links
 
@@ -167,4 +168,5 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif

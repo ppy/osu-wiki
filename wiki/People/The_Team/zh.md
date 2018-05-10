@@ -42,7 +42,7 @@ The Team
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev 团队, mm 滑条 |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
 | Phil | 论坛设计工作 |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | 原创的 Pippi 概念和美术设计 |
+| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | 原创的 pippi 概念和美术设计 |
 | [Sinistro](https://osu.ppy.sh/users/5530) | 讨论记录, FAQ 贡献者 |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev 团队, osu!mania 模式创始人 |
 

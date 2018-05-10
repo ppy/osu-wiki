@@ -4,7 +4,7 @@ outdated: true
 Kontributor Komunitas
 ======================
 
-![Contributor Badge](Contributor_Badge.png "Contributor Badge")
+![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
 
 Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](/wiki/Glossary) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
 
