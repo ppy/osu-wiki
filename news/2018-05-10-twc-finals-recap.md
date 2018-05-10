@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Finals Recap!"
+title: "osu!taiko World Cup - Finals Week 1 Recap!"
 date: 2018-05-10 10:00:00 +0000
 ---
 With only 6 remaining teams, the past weekend gave us some of the most intense matches yet, which were amplified even more by the evil mappool. Read more to catch up and get ready for the epic Grand Finals stage!
