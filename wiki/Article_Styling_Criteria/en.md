@@ -6,6 +6,8 @@ The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling st
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu! wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
+If you have any suggestions against or regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
+
 ## Repository directory
 
 The following standards apply only to files saved in the `wiki/` directory.
@@ -112,6 +114,10 @@ The name of an article file can be found in the `File Name` column of [locales](
 ### Index pages
 
 All folders must contain a page of some kind, even if they are index pages that link to their subfolders. Index pages must link to their own subfolders and could contain descriptions of what each link links to.
+
+### Disambiguation pages
+
+[Disambiguation](/wiki/Disambiguation) pages must be placed in the `/wiki/Disambiguation` folder.
 
 ## Markdown
 
