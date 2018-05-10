@@ -6,7 +6,17 @@ The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling st
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu! wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
+## Repository directory
+
 The following standards apply only to files saved in the `wiki/` directory.
+
+### Article caching
+
+Articles in the osu! wiki are cached for up to five hours before they are fetched again from GitHub. Purging an article from the cache is possible, but is limited to a few osu! team members.
+
+#### Image caching
+
+Images in the osu! wiki are cached for up to two hours before they are fetched again from GitHub. There is no way to purge an image from the cache.
 
 ### Locales
 
