@@ -6,7 +6,13 @@ News articles exist on a slightly different system to the main osu! wiki, but fo
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
+## Repository directory
+
 The following standards apply only to articles written for the news, and saved in the `news/` directory.
+
+### News post caching
+
+News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the `#osu-wiki` [discord channel](https://discord.gg/ppy) to purge it.
 
 ## Locales
 
@@ -76,7 +82,7 @@ News articles do not use traditional Markdown titles in any capacity whatsoever.
 
 #### Headers
 
-Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Preferably, start with level 2 and use level 3 if the section belongs underneath the leading level 2 header. Never use headers to style or format text.
+Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Never use headers to style or format text.
 
 #### Bold
 
@@ -92,7 +98,7 @@ Horizontal bars must be used sparingly and only in situations where content need
 
 #### Tables
 
-It is not recommend to use Markdown tables for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
+Markdown tables can be used, but is not recommended for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
 
 ### Images
 
