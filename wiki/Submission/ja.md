@@ -7,7 +7,7 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankされた譜面は[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)サブフォーラムに移動され、[Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist)に追加、 Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist)に含まれるようになり、プロフィールに表示されるようになります。Rankされた譜面をプレイした時、プレイヤーのスコアは [Player Ranking](https://osu.ppy.sh/p/playerranking)でトータルスコアに加算され、プレイヤーは譜面に評価をすることができるようになります。 [Beatmapper Rank](https://osu.ppy.sh/p/mapperranking)
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
+![Beatmap Submission System Warning screen](img/BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 投稿
 ------
@@ -18,7 +18,7 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 ### 譜面の投稿
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen") 
+![Beatmap Submission System Warning screen](img/BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 *いずれかの*難易度をEditorで開き、**"File"**をメニューから開き、**"Upload Beatmap"** (もしくは"Ctrl + Shift + U")を選択してください。BSSのダイアログボックス を開き、Upload Filesを押してください。この段階で何か変えたいことがあれば、キャンセルをしてダイアログボックスを閉じてEditorに戻ることが出来ます。
 

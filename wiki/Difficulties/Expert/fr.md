@@ -21,4 +21,4 @@ Paramètres de la map
 -   AR (Approach Rate/Fenêtre d'approche): 9+
 -   OD (Overall Difficulty/Difficulté générale): 8+
 
-![Paramètres de mapping potentiels pour une difficulté Expert.](Expertsetup.png "Paramètres de mapping potentiels pour une difficulté Expert.")
+![Paramètres de mapping potentiels pour une difficulté Expert.](Expertsetup.jpg "Paramètres de mapping potentiels pour une difficulté Expert.")

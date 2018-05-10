@@ -1,8 +1,8 @@
 Storyboards
 ===========
 
-![Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"](Sbpassing.png "Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"")
-![Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.](Sbfailing.png "Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.")
+![Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"](img/Sbpassing.jpg "Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"")
+![Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.](img/Sbfailing.jpg "Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.")
 
 Une **Storyboard** (SB) est un fond animé accompagnant le [Beatmap](/wiki/Glossary), souvent à but décoratif. Il influe de temps à autre sur le gameplay. Une Storyboard peut être faite d'à peu près tout, mais elle consiste généralement d'une suite d'effets ayant pour but de rendre la map plus agréable visuellement et marquer l'esprit du joueur. Les Storyboards sont directement inspirées du jeu dont est tiré osu!, Osu! Tatakae! Ouendan. Comme leurs modèles, les Storyboards sont capables de s'aligner sur la performance du joueur et d'afficher différents éléments en fonction de sa réussite.
 

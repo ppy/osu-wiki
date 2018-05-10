@@ -30,7 +30,7 @@ Setup
 -   Approach Rate: 5 or below
 -   Overall Difficulty: 5 or below
 
-![Typical difficulty settings for Normal.](Normalsetup.png "Typical difficulty settings for Normal.")
+![Typical difficulty settings for Normal.](Normalsetup.jpg "Typical difficulty settings for Normal.")
 
 The [slider velocity](/wiki/Mapping_Techniques/Slider) can vary greatly. Typically, 1.0x to 1.6x works well for a Normal, but at high [BPMs](/wiki/Beatmap_Editor/Timing) you might want to use less than 1.0x. Your difficulty settings and slider velocity settings really depend on whether or not you have an Easy. If you have an Easy, then you want to make it harder than your Easy. If you don't have an Easy, you want to make it so that newbies can still play your map easily.
 

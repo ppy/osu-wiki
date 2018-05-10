@@ -1,6 +1,6 @@
 # Visual Settings
 
-![Example of Visual Settings](./VisualSettings.jpg "Example of Visual Settings")
+![Example of Visual Settings](img/VisualSettings.jpg "Example of Visual Settings")
 
 **Visual Settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading. When the Visual Settings overlay is shown, the beatmap will be delayed until the osu!cursor leaves the Visual Settings overlay.
 

@@ -4,7 +4,7 @@ AiMod
 **AiMod** ist ein Hilfsmittel im Beatmap Editor.
 Der **AiMod** kann über den Tastenkürzel `Strg` + `Shift` + `A` oder über **File**, dann **Open AiMod** geöffnet werden.
 
-![AiMod](AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
+![AiMod](img/AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
 
 AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt.
  Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
@@ -97,7 +97,7 @@ Nachrichten
 | This object overlaps with another object.                                            | Nur bei osu!mania Maps. Zwei Hitobjekte überlappen sich.                                                                                                  | Entferne oder verschiebe die betroffenen Hitobjekte voneinander.                                                                                                                                                                                              |
 | This object is stacked on top of another object.                                     | Nur bei osu!mania Maps. Die angegebenen Noten überlappen sich, was es unmöglich macht die Note zu treffen.                                            | Die Noten sollten verschoben oder gelöscht werden.                                                                                                                                                                                                |
 | More than 6 notes simultaneously is not allowed.                                     | Nur bei osu!mania Maps. Die meisten Tastaturen können nur bis zu 6 Tasten gleichzeitig verarbeiten.                                       | Versuche mehr als 6 Noten gleichzeitig zu vermeiden.                                                                                                                                                                                              |
-            
+
 #### Design
 
 | Nachricht                                                                             | Erklärung                                                                                                | Lösung                                                                                       |

@@ -7,7 +7,7 @@ Terletak dalam [Penyunting](/wiki/Beatmap_Editor) osu!, BSS secara otomatis meng
 
 ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Beatmap yang telah dirank dipindahkan ke subforum *[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)*, ditambahkan ke [Daftar Beatmap Ranked](https://osu.ppy.sh/p/beatmaplist) termasuk ke dalam [Paket Beatmap Ranked](https://osu.ppy.sh/p/packlist), dan akan muncul di profil mereka. Skor yang diperoleh ketika mereka bermain beatmap tersebut akan menambahkan *Total Ranked Score* pemain dalam [Peringkat Pemain](https://osu.ppy.sh/p/playerranking) dan penilaian pemain dapat dimasukkan sebagai hitungan mereka pada [Peringkat Beatmapper](https://osu.ppy.sh/p/mapperranking).
 
-![Layar Peringatan Sistem Pengajuan Beatmap](BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
+![Layar Peringatan Sistem Pengajuan Beatmap](img/BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
 
 Pengajuan
 -----------
@@ -18,7 +18,7 @@ Sebelum mengajukan beatmapmu, pastikan kamu telah mencoba membuatnya sebagus pen
 
 ### Mengajukan sebuah Beatmap
 
-![Layar Peringatan Sistem Pengajuan Beatmap](BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
+![Layar Peringatan Sistem Pengajuan Beatmap](img/BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
 
 Buka *salah satu* versi tingkat kesulitan dari beatmapmu di Penyunting, pilih **"File"** dari kepala menu dan kemudian pilih **"Upload Beatmap"** (atau "Ctrl + Shift + U"). Kotak dialog Sistem Pengajuan Beatmap akan terbuka. Klik tombol *Upload* untuk mengirim mapnya. Jika kamu berubah pikiran, pilih *Cancel* untuk keluar dari kotak dialog dan kembali ke Penyunting.
 

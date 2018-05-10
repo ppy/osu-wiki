@@ -23,7 +23,7 @@ Nota adicional: en la mayoría de los casos lo importante es el [mapping](/wiki/
 -   Approach Rate: 9+
 -   Overall Difficulty: 8+
 
-![Potential difficulty settings for Expert.](Expertsetup.png "otential difficulty settings for Expert.")
+![Potential difficulty settings for Expert.](Expertsetup.jpg "otential difficulty settings for Expert.")
 
 ### Overmapping
 

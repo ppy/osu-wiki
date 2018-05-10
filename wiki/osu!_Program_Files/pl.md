@@ -1,7 +1,7 @@
 Pliki osu!
 ==============
 
-![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
+![Pliki osu! w skrócie](img/Osu!sys.jpg "Pliki osu! w skrócie.")
 
 Lokalizacja
 -----------

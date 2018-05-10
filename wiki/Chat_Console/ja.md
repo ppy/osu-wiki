@@ -2,7 +2,7 @@
 
 `F8`もしくは下部の`Show Chat`ボタンを押すことでosu!のほとんどの画面からチャットコンソールを呼び出すことができます。
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chat_Console.jpg "Chat Console")
 
 -   タブは現在利用可能なチャンネルをリストしています。シンプルにタブをクリックするだけでそのチャットチャンネルに移動でき、`New`を選ぶことで新しいチャットチャンネルに参加できるようになります。
 -   ユーザー名の色が異なるというのは様々なことを意味します。
@@ -28,7 +28,7 @@
 
 `F9`もしくは下部の`Show Chat`ボタンを押すことでosu!のほとんどの画面から拡張されたチャットコンソールを呼び出すことができます。加えてチャットコンソールの画面全体の余っている部分2/3に拡張されたコンソールが表示され、現在のログインしているユーザーの情報が表示されます。
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![Extended chat console](img/Chat_Console-Extended.jpg "Extended chat console")
 
 osu!にログインしている各ユーザーは拡張されたチャットに表示され、デフォルトでは基本情報(名前、PP、ランク、ACC、プレイカウント、ユーザーアバター)が表示されます。マウスカーソルをその上に置くともう一つの情報(名前、ランク、アバター、ローカルタイム、タイムゾーン、許可している場合はユーザーの都市)が表示されます。
 
@@ -42,18 +42,18 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 
 | Panel colour                                                                                         | Description                      |
 |------------------------------------------------------------------------------------------------------|------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                            | グレー - 譜面をプレイしています |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                   | ライトブルー/パープル - プレイ、もしくはリプレイを見ています |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                | レッド - 自分の譜面をEditしています |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")               | グリーン - 誰かの譜面をEditで見ています |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")               | パープル - Editorで譜面をテストプレイしています |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")      | ターコイズ - 譜面をアップロードしています |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")               | ブラウン - マルチプレイにいますが、プレイはしていません |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                       | イエロー - マルチプレイをしています |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer")| ブラック - 2分半以上放置しています |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                               | ダークブルー - 上に該当しないものです |
+| ![Player is idle](img/Chat_Console-Idle.jpg "Player is idle")                                            | グレー - 譜面をプレイしています |
+| ![Player is playing](img/Chat_Console-Playing.jpg "Player is playing")                                   | ライトブルー/パープル - プレイ、もしくはリプレイを見ています |
+| ![Player is watching](img/Chat_Console-Watching.jpg "Player is watching")                                | レッド - 自分の譜面をEditしています |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.jpg "Player is editing a beatmap")               | グリーン - 誰かの譜面をEditで見ています |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.jpg "Player is testing a beatmap")               | パープル - Editorで譜面をテストプレイしています |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.jpg "Player is submitting a beatmap")      | ターコイズ - 譜面をアップロードしています |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.jpg "Player is modding a beatmap")               | ブラウン - マルチプレイにいますが、プレイはしていません |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.jpg "Player in Mulitplayer")                       | イエロー - マルチプレイをしています |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.jpg "Player is playing in Multiplayer")| ブラック - 2分半以上放置しています |
+| ![Player is Afk](img/Chat_Console-Afk.jpg "Player is Afk")                                               | ダークブルー - 上に該当しないものです |
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 いずれかのプレイヤーの上でクリックするとこの画面が出ます 番号を押すか、有効化するためにクリックしてください:-
 

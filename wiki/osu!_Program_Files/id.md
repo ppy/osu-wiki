@@ -1,7 +1,7 @@
 Berkas Program osu!
 =======================
 
-![File aturcara osu! secara keseluruhan](Osu!sys.jpg "File aturcara osu! secara keseluruhan")
+![File aturcara osu! secara keseluruhan](img/Osu!sys.jpg "File aturcara osu! secara keseluruhan")
 
 Lokasi
 --------

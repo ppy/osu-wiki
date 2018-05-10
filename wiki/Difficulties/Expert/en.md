@@ -23,4 +23,4 @@ Also note: in most cases it's the [mapping](/wiki/Beatmapping), not the [Song Se
 -   AR (Approach Rate): 9+
 -   OD (Overall Difficulty): 8+
 
-![Potential difficulty settings for Expert.](Expertsetup.png "Potential difficulty settings for Expert.")
+![Potential difficulty settings for Expert.](Expertsetup.jpg "Potential difficulty settings for Expert.")

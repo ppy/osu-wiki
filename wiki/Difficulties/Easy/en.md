@@ -29,11 +29,11 @@ You'll want to use [Distance Snapping](/wiki/Beatmap_Editor/Distance_Snap) to al
 
 This is easier to follow:
 
-![Beats that are farther apart, better for newer players.](Farther_Aparts.png "Beats that are farther apart, better for newer players.")
+![Beats that are farther apart, better for newer players.](Farther_Aparts.jpg "Beats that are farther apart, better for newer players.")
 
 than something like this:
 
-![Beats closer together, better for more advanced players.](Less_so.png "Beats closer together, better for more advanced players.")  
+![Beats closer together, better for more advanced players.](Less_so.jpg "Beats closer together, better for more advanced players.")  
 
 Set the [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, then select the circle and hit play and start placing circles in time to the music.
 

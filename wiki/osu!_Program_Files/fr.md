@@ -1,7 +1,7 @@
 osu! Program Files
 =============================
 
-![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")
+![Le dossier Program Files osu! en bref](img/Osu!sys.jpg "Le dossier Program Files osu! en bref")
 
 Emplacement
 -----------

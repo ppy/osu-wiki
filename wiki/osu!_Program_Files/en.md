@@ -1,7 +1,7 @@
 osu! Program Files
 ===================
 
-![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
+![osu! Program Files in nutshell](img/Osu!sys.jpg "osu! Program Files in nutshell")
 
 Location
 --------

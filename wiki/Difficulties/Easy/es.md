@@ -11,11 +11,11 @@ Las [dificultades](/wiki/Beatmap_Editor/Song_Setup) faciles son faciles de hacer
 
 Ahora, vas a querer usar la función de [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) sobre todo en una dificultad Facil. Asi que, '''ajusta el multiplicador de la distancia de chasqueo de tal manera que los círculos que están separados por un sólo beat no se superpongan entre ellos. Para círculos tamaño 4 una distancia de chasqueo de .5 debería funcionar. Los nuevos jugadores a seguido notan que los círculos que se sobreponen así son difíciles de leer.
 
-![Farther Aparts](Farther_Aparts.png "Farther Aparts")
+![Farther Aparts](Farther_Aparts.jpg "Farther Aparts")
 
 Los beats más alejados entre si son mejores para los jugadores nuevos.
 
-![Less so](Less_so.png "Less so")
+![Less so](Less_so.jpg "Less so")
 
 Los beats más cercanos entre ellos son mejores para jugadores avanzados.
 

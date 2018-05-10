@@ -7,7 +7,7 @@ Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads 
 
 ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked beatmaps are moved to the [Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14) subforum, added to the [Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist), included in the Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist), and appear in their profile. The scores achieved when playing them count towards a player's Total Ranked Score in the [Player Rankings](https://osu.ppy.sh/p/playerranking) and the ratings players can give them count towards their Beatmapper Rank.
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
+![Beatmap Submission System Warning screen](img/BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 Submission
 -----------
@@ -18,7 +18,7 @@ Before submitting your beatmap, make sure you've tried to make it as good as you
 
 ### Submitting a Beatmap
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
+![Beatmap Submission System Warning screen](img/BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 Open *any* difficulty version of your beatmap in the Editor, select **"File"** from the menu header and then select **"Upload Beatmap"** (or "Ctrl + Shift + U"). The Beatmap Submission System dialog box appears. Click the Upload button to submit the map. If you've changed your mind, select Cancel to exit the dialog box and return to the Editor.
 

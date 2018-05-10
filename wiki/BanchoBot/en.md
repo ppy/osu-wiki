@@ -1,7 +1,7 @@
 <!-- BanchoBot Information -->
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
 BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by **Echo49** that assists people in chat by displaying certain information and announcing game-related messages.
 It is the host of the [bancho irc](/wiki/Internet_Relay_Chat) and has a user profile with the ID _[#3](https://osu.ppy.sh/u/3)_ (next to peppy who is [#2](https://osu.ppy.sh/u/2)). *It also has its own [twitter profile](https://twitter.com/banchoboat)!*

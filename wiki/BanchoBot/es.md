@@ -1,6 +1,6 @@
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
 El anfitrión del [chat de osu!](/wiki/Internet_Relay_Chat).
 

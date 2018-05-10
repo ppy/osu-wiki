@@ -4,7 +4,7 @@
 
 ## Available Songs
 
-![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
+![cYsmix BG 2](img/cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Classic Pursuit
 - Source: osu!
@@ -13,7 +13,7 @@
 
 ---
 
-![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
+![cYsmix BG 2](img/cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Fright March
 - Source: osu!
@@ -22,7 +22,7 @@
 
 ---
 
-![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
+![cYsmix BG 2](img/cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Moonlight Sonata
 - Source: osu!
@@ -31,7 +31,7 @@
 
 ## Claimed Songs
 
-![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")
+![cYsmix BG](img/cYsmix_bg.jpg "cYsmix BG")
 
 - cYsmix - Manic
 - Source: osu!
@@ -41,7 +41,7 @@
 
 ---
 
-![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")
+![cYsmix BG](img/cYsmix_bg.jpg "cYsmix BG")
 
 - cYsmix - House With Legs
 - Source: osu!
@@ -51,7 +51,7 @@
 
 ---
 
-![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")
+![cYsmix BG](img/cYsmix_bg.jpg "cYsmix BG")
 
 - cYsmix - Dovregubben's Hall (New Ver.)
 - Source: osu!

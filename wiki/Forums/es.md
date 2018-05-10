@@ -1,6 +1,6 @@
 # Foros
 
-![Foros de osu!](main.jpg "Imagen de los foros de osu!")
+![Foros de osu!](img/main.jpg "Imagen de los foros de osu!")
 
 Los foros son una de las principales características de la web de osu! Aquí, puedes crear nuevos temas o publicaciones en discusiones dentro de la comunidad.
 

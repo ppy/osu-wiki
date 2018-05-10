@@ -1,6 +1,6 @@
 # BanchoBot
 
-![BanchoBots Benutzer Panel.](BanchoBot.jpg "BanchoBots Benutzer Panel.")
+![BanchoBots Benutzer Panel.](img/BanchoBot.jpg "BanchoBots Benutzer Panel.")
 
 Er ist ihr Host für den osu! Chat Server.
 

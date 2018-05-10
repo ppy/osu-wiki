@@ -2,7 +2,7 @@
 
 osu!의 거의 모든 화면에서는 F8키나 우측 하단에 있는 `Show Chat` 클릭을 통해 화면의 하단 3분의1에 채팅창을 열수 있습니다.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chat_Console.jpg "Chat Console")
 
 -   탭은 현재 사용가능한 채널을 나열합니다. 간단히 탭을 클릭하는 것으로 그 채널로 들어갈 수 있습니다. 들어갈 수 있는 새로운 채널들의 목록을 표시하려면 New를 클릭합니다.
 -   유저 이름의 색은 각각 다른 사항을 의미합니다.
@@ -26,7 +26,7 @@ osu!의 거의 모든 화면에서는 F8키나 우측 하단에 있는 `Show Cha
 
 osu! 대부분의 화면에서는 F9키나 처음 화면 오른쪽 아래의 `Online Users` 버튼을 이용해 온라인 유저창을 열거나 닫을수 있습니다. 추가적으로, 온라인 유저창에서는 남은 2/3의 화면에서 현재 온라인인 유저의 정보를 확인할 수 있습니다!
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![Extended chat console](img/Chat_Console-Extended.jpg "Extended chat console")
 
 osu! 에 로그인한 유저는 Extended Chat에 유저 패널이 생깁니다. 디폴트로 일반 정보 (이름, 총 랭크 점수, 랭크, 정확도, 플레이 카운트 그리고 있을경우 그 유저의 아바타) 가 표시됩니다. 유저 패널에 커서를 올려놓으면 추가적인 정보 (아이디, 랭크, 아바타, 현지 시간, 시간대, 국가 위치와 설정되어 있을 경우 도시, 그리고 현재 하고 있는 행동) 가 표시됩니다.
 
@@ -40,20 +40,20 @@ osu! 에 로그인한 유저는 Extended Chat에 유저 패널이 생깁니다. 
 
 | Panel colour                                                                                          | Description                                                                                                    |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | **검은파란색:** 위의 상태에 해당되지 않는 상태입니다.                                 |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | **회색:** 비트맵을 플레이중인 상태입니다.                                                                            |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | **연파랑색:** 타인의 플레이, 또는 리플레이를 관전하는 상태입니다.                                                          |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | **빨간색:** 자신의 비트맵을 Edit 하고 있는 상태입니다.                                                                               |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | **초록색:** 타인의 비트맵을 Edit하고 있는 상태입니다.                                              |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       |  **연녹색:** 비트맵을 업로드중인 상태입니다.                       |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | Green - Modding or editing someone else's beatmap.                                                             |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | **갈색:** 멀티플레이에 들어와 있으나 대기중인 상태입니다.                                                     |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | **노란색:** 멀티플레이중인 상태입니다.                                                     |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | **검은색:** 2분 30초 이상 아무것도 하지 않고있는 상태입니다.                                                                 |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Player is idle](img/Chat_Console-Idle.jpg "Player is idle")                                             | **검은파란색:** 위의 상태에 해당되지 않는 상태입니다.                                 |
+| ![Player is playing](img/Chat_Console-Playing.jpg "Player is playing")                                    | **회색:** 비트맵을 플레이중인 상태입니다.                                                                            |
+| ![Player is watching](img/Chat_Console-Watching.jpg "Player is watching")                                 | **연파랑색:** 타인의 플레이, 또는 리플레이를 관전하는 상태입니다.                                                          |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.jpg "Player is editing a beatmap")                | **빨간색:** 자신의 비트맵을 Edit 하고 있는 상태입니다.                                                                               |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.jpg "Player is testing a beatmap")                | **초록색:** 타인의 비트맵을 Edit하고 있는 상태입니다.                                              |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.jpg "Player is submitting a beatmap")       |  **연녹색:** 비트맵을 업로드중인 상태입니다.                       |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.jpg "Player is modding a beatmap")                | Green - Modding or editing someone else's beatmap.                                                             |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.jpg "Player in Mulitplayer")                        | **갈색:** 멀티플레이에 들어와 있으나 대기중인 상태입니다.                                                     |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.jpg "Player is playing in Multiplayer") | **노란색:** 멀티플레이중인 상태입니다.                                                     |
+| ![Player is Afk](img/Chat_Console-Afk.jpg "Player is Afk")                                                | **검은색:** 2분 30초 이상 아무것도 하지 않고있는 상태입니다.                                                                 |
+| ![Player is connected via IRC](img/Chat_Console-IRC.jpg "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but logged in from an IRC client or stats are not available. |
 
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 아무 사용자 패널을 클릭하면 옵션화면이 나타납니다. 활성화를 위해 번호를 누르거나 줄을 클릭 :-
 
