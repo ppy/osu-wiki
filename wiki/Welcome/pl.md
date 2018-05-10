@@ -20,25 +20,25 @@ Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiad
 
 ## Artykuł miesiąca
 
-*Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria).*
+*Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria)*
 
 Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](/wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
 
 ## Mapowanie
 
-*Zobacz także: [Mapowanie](/wiki/Beatmapping).*
+*Zobacz także: [Mapowanie](/wiki/Beatmapping)*
 
 Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ustawianie rytmów, umieszczanie obiektów w rytm muzyki oraz grę próbną. Proces ten może także zawierać dodanie wideo w tle, [scenorysu](/wiki/Storyboarding) bądź [niestandardowej skórki](/wiki/Skinning). Wszystkie te czynności mogą zostać wykonane przez samego twórcę lub z pomocą innych użytkowników.
 
 ## Modowanie
 
-*Zobacz także: [Modowanie](/wiki/Modding).*
+*Zobacz także: [Modowanie](/wiki/Modding)*
 
 Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy.
 
 ## Tworzenie skórek
 
-*Zobacz także: [Tworzenie skórek](/wiki/Skinning) oraz [Poradnik dot. tworzenia skórek](/wiki/Skinning_Tutorial).*
+*Zobacz także: [Tworzenie skórek](/wiki/Skinning) oraz [Poradnik dot. tworzenia skórek](/wiki/Skinning_Tutorial)*
 
 Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno kosmetyczne (np. inny kursor), jak i znaczące (np. całkowicie nowy wygląd elementów gry i interfejsu).
 

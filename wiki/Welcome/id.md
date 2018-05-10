@@ -25,25 +25,25 @@ Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang
 
 ## Artikel bulan ini
 
-*Lihat juga: [Maskot](/wiki/Mascots).*
+*Lihat juga: [Maskot](/wiki/Mascots)*
 
 Temui pippi, Yuzu, Maria, dan Mocha; empat maskot dari mode osu!standard, osu!catch, osu!mania, dan osu!taiko.
 
 ## Beatmapping
 
-*Lihat juga: [Beatmapping](/wiki/Beatmapping/#getting-started).*
+*Lihat juga: [Beatmapping](/wiki/Beatmapping/#getting-started)*
 
 Beatmapping adalah proses pemain yang akan menciptakan beatmap. Proses ini meliputi: pemilihan musik, mengatur waktu dan memetakan beatmap, dan menguji beatmap. Mungkin juga termasuk: menambahkan video, menambahkan [storyboard](/wiki/storyboarding/#getting-started), dan/atau menambahkan [skin kustom](/wiki/skinning/#getting-started). Semua itu dapat dilakukan oleh pembuat beatmap itu sendiri atau dengan pemain lain, kadang-kadang disebut juga *storyboarders*, *skinners*, dan/atau *guest creators*, tergantung pada apa yang mereka lakukan.
 
 ## Modding
 
-*Lihat juga: [Modding](/wiki/Modding/#getting-started).*
+*Lihat juga: [Modding](/wiki/Modding/#getting-started)*
 
 Modding adalah proses pengguna meninjau (atau biasa disebut "modders") beatmap pembuat dalam tahap pending (atau work in progress/help). Modding memainkan peran besar dalam pengontrolan kualitas, karena hal ini memungkinkan pembuat beatmap untuk memperbaiki masalah di beatmap yang mereka buat.
 
 ## Skinning
 
-*Lihat juga: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Lihat juga: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
 Skinning memungkinkan siapapun untuk mengubah tampilan osu!. Hal ini bisa sekecil mengubah kursor atau sebesar membuat ulang tampilan semua mode permainan dan antarmuka.
 
