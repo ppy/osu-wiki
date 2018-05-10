@@ -28,7 +28,9 @@ There was bound to be diversity in the picks, since teams required a whole 7 map
 
 [mangomizer](https://osu.ppy.sh/users/1893718):
 
-""
+""It may come as a surprise to you that the Finals Mappool was the second mappool we started work on, immediately following Group Stage. This was done as a precaution to avoid having a repeat of the thermal runaway mappool that almost killed everyone last year. In spite of this, the Finals Mappool still ended up being extremely difficult – perhaps even more challenging than last year. We are thankful to have started this early, as it gave us more time to ensure the balance of the mappool.
+
+With regards to the matches last weekend, I’m certainly glad to see a fairly even spread of picks across the board. “Nanoka - Tsukimade Todoke, Fushi no Kemuri” was probably my greatest oversight – I had seriously underestimated the difficulty it would pose on the players. Otherwise, I am seriously impressed with how players are coping with this mappool – their stellar performances exceeding my expectations more times than I can count. I eagerly await for more surprises in the upcoming final weekend matches!”"
 
 ### Grand Finals Preview
 
