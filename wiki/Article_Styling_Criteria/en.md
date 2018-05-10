@@ -191,13 +191,13 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and is
 
 #### Notice
 
-A notice can be placed where appropriate. A notice must begin with "Note", "Notice", "Caution", or "Warning"; be at the start of a line; use italics; and use a full stop (notices are complete sentences). Anything within the same paragraph of a notice must be italicised.
+A notice can be placed where appropriate and must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices must start off the paragraph and use italics. These are written as complete sentenes, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
 
 ```
 *Note: You will need a decent internet connection to connect to Bancho and submit scores.*
 ```
 
-Note is for trivial information or reminders that may affect a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
+Note is something that the reader should be made aware about, but only applies a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
 
 ### Emphasizing
 
@@ -229,9 +229,7 @@ Optionally, but preferably, add an extra line before and after the headers (this
 
 #### Titles
 
-**All articles must have one level 1 heading, being the article's title.**
-
-Article titles are to be in title case and **should never contain styles, links, nor images.** The title of an article is the name of the folder that the article is located in.
+**All articles must have one level 1 heading, being the article's title.** Article titles must use title case and **should never contain styles, links, nor images.** The title of an article is the name of the folder that the article is located in.
 
 The level 1 heading should be placed at the start of the article unless you have reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
 
@@ -241,19 +239,9 @@ For English article titles, if you need to reword the title, you must rename the
 
 All section headings are to be using levels 2 to 5 headings.
 
-Section headings are to use sentence case and **should never contain styles nor links**. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading).
+Section headings are to use sentence case and **should never contain styles nor links**. In addition to this, section headings must never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading.
 
 Unlike titles, section headings can have small image icons.
-
-All sections **must** contain some text, even if they are containers for subsections. For example:
-
-```
-# Game Modes
-
-## ![](/wiki/shared/mode/osu.png) osu!
-
-osu! is a frustrating but fun circle-clicking simulator.
-```
 
 ### Lists
 
