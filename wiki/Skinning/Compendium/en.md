@@ -201,7 +201,7 @@ This is a compendium of all completed osu! skins
 - [Nikaido Yuzu](https://osu.ppy.sh/community/forums/topics/604971) by [Lathler](https://osu.ppy.sh/users/9039378)![][o!s]
 - [NOEL](https://osu.ppy.sh/community/forums/topics/651827) by [dlwnstns99](https://osu.ppy.sh/users/4585661)![][o!s]
 - [Northen Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797) by [-[Jess]-](https://osu.ppy.sh/users/4085133)![][o!s]![][o!c]
-- [Nui Harime](https://osu.ppy.sh/community/forums/topics/417954) by [carnationturtle](https://osu.ppy.sh/users/4461382)
+- [Nui Harime](https://osu.ppy.sh/community/forums/topics/417954) by [carnationturtle](https://osu.ppy.sh/users/4461382)![][o!s]
 
 ## O
 
