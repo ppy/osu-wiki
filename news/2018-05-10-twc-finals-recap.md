@@ -3,17 +3,17 @@ layout: post
 title: "osu!taiko World Cup - Finals Week 1 Recap!"
 date: 2018-05-10 10:00:00 +0000
 ---
-With only 6 remaining teams, the past weekend gave us some of the most intense matches yet, which were amplified even more by the evil mappool. Read more to catch up and get ready for the epic Grand Finals stage!
+With only 6 teams remaining, the past weekend has given us some of the most intense matches to date, only amplified further by the brutal Finals mappool. Check out our recap below and get ready for the long-awaited Grand Finals this weekend!
+
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
-**Note: Team United States were disqualified due to one of their players cheating and thus, all of their matches this stage were nullified, resulting in Indonesia winning over them by default.**
+**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC and we won't go over their match in this recap. You can read about the situation at https://osu.ppy.sh/community/forums/topics/743380
 
 ### Finals Matches
 
-**In the first match, Canada claimed their top 4 placing by taking down South Korea 7-3.** The Koreans dominated the speedy nomod picks [Nanoka - Tsukimade Todoke, Fushi no Kemuri](https://osu.ppy.sh/beatmapsets/763774#taiko/1605963) and [Lily - Scarlet Rose](https://osu.ppy.sh/beatmapsets/195238#taiko/463330), but that only got them so far. Still though, give it up for South Korea for even reaching Finals despite being mid seeded and having such a limited roster. Just imagine what they could accomplish with a bigger roster in future cups...
+**In the first match, Canada claimed their top 4 placing by taking down South Korea 7-3.** The Koreans dominated the speedy nomod picks [Nanoka - Tsukimade Todoke, Fushi no Kemuri](https://osu.ppy.sh/beatmapsets/763774#taiko/1605963) and [Lily - Scarlet Rose](https://osu.ppy.sh/beatmapsets/195238#taiko/463330), but that only got them so far. Having reached the Finals as the only remaining mid-seed, this hailed the end of South Korea's spectacular run this TWC. Just imagine what they could accomplish with a bigger roster in future cups...
 
-History was repeated and made at the same time in the classic top 2 matchup between Japan and Taiwan in the winners bracket. Japan 
-won the match 7-3, but they lost more maps in a match than ever before. If Taiwan rematches Japan in the Grand Final next week and adapts well to the mappool, they might be able to steal a few more points or maybe even the match, only time will tell.
+History was simultaneously repeated and made in the Winners Finals match between Japan vs. Taiwan in one of the most exciting matches we've seen thus far. Everyone was on the edge of their seats as the increasing chinks in Japan's armor turned into an unprecedented 3 - 3 tie halfway into the match. Japan however regained their composure and pulled ahead to end with a 7 - 3 victory. With Japan's armor not as impenetrable as we thought, we'll have to wait until the Grand Finals to see if any of the remaining teams can turn those visible chinks into a victory.
 
 
 It has been quite the year for Canada, and [janitoreihil](https://osu.ppy.sh/users/3307897) will give us some perspective on their cup experience with the help of some teammates:
@@ -24,7 +24,7 @@ This year proved to be a slight disappointment in some matches, as we ended up l
 
 ### Finals Mappool
 
-There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. Despite that, the FreeMod map [The Flashbulb - Passage D](https://osu.ppy.sh/beatmapsets/587426/#taiko/1243907) has yet to be played, but that might change this weekend. Considering the low amount of matches, the 8 bans were also spread out in the sense that one map from every mod bracket got banned atleast once. As the work for the mappool selectors this year has come to an end, here are the closing comments of one of them:
+There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. Despite that, the FreeMod map [The Flashbulb - Passage D](https://osu.ppy.sh/beatmapsets/587426/#taiko/1243907) has yet to be played. Here's hoping that'll change this weekend. Given the low volume of matches, all 8 bans have been surprisingly spread out across the board, with at least one map from each mod bracket being banned at least once. As the work for the mappool selectors this year has come to an end, here are the closing comments of one of them:
 
 [mangomizer](https://osu.ppy.sh/users/1893718):
 
