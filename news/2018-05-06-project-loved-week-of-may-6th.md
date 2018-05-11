@@ -210,7 +210,7 @@ Like [Valedict](https://osu.ppy.sh/users/2537082)'s other Loved charts, while th
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/renatus.jpg)](https://osu.ppy.sh/community/forums/topics/742426)
 
 [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/235827) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+*written by [Shoegazer](https://osu.ppy.sh/users/2520707) and [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 Greatly overlooked due to its notable reserve, [Fullerene](https://osu.ppy.sh/users/2894788)'s chart for [Renatus](https://osu.ppy.sh/beatmapsets/235827) is one of Fullerene's best charts. It doesn't quite have the same panache as his other Loved charts such as [dreamless wanderer](https://osu.ppy.sh/beatmapsets/321347/#mania/714878) or [PEACE BREAKER](https://osu.ppy.sh/beatmapsets/352754#mania/777348), but the 4K mapset shows a command of the fundamentals that is practically never seen in both the Loved section and the Ranked section. The 4K Insane difficulty is also a chart that is played in several competitive circles today.
 
