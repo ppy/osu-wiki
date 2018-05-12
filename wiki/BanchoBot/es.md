@@ -1,28 +1,28 @@
+<!-- Información del BanchoBot -->
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![Tarjeta de jugador del BanchoBot](BanchoBot.jpg "Tarjeta de jugador del BanchoBot")
 
-El anfitrión del [chat de osu!](/wiki/Internet_Relay_Chat).
+BanchoBot es un bot (es decir, un conjunto de comandos con respuestas automáticas) programado por **Echo49** que ayuda a las personas en el chat al mostrar cierta información y anunciar mensajes relacionados con el juego.
+Es el anfitrión del [bancho irc](/wiki/Internet_Relay_Chat) y tiene un perfil de usuario con la ID _[#3](https://osu.ppy.sh/u/3)_ (al lado de peppy que es [#2](https://osu.ppy.sh/u/2)). *También tiene su propio [perfil de Twitter](https://twitter.com/banchoboat)!*
 
-¡tiene un perfil!
 
-Apariencia y tareas
--------------------
+<!-- ¡Los comandos del BanchoBot (servidor) comienzan con un signo de exclamación! `!`-->
+## Commandos del BanchoBot
 
-### !help
+Para usar los comandos del BanchoBot, debe usar el prefijo `!` Cada vez. **Los usuarios normales solo pueden usar estos comandos en canales multijugador y en el chat privado del BanchoBot** Si un usuario envía un comando en el chat público, los usuarios normales no lo verán y lo recibirán como un mensaje privado.
+Los usuarios también pueden usar el comando de cliente `/bb <command>` para abrir automáticamente una pestaña de BanchoBot y enviar el comando inmediatamente.
 
--   Abre una conversación con BanchoBot. Te mostrará una lista de comandos mostrados en la tabla.
-    -   Si tienes abierta una conversación con BanchoBot, cualquier comando que utilices se mostrará en esa conversación sin importar en cual estés cuando lo uses. (Excepto por el canal op)
-    -   Si escribes el COMANDO sin el signo apropiado ("!") mientras estás en una conversación con BanchoBot, lo recibirá como cuando usas /bb
--   No puedes usar comandos con este signo en una conversación que no sea con BanchoBot.
+*Para obtener una lista de comandos de barra inclinada "/" (cliente), visita el articulo de la [Consola de chat](/wiki/Chat_Console#commands-list).*
 
-#### Comandos (!COMMAND o /bb COMMAND)
-
-| COMANDO | Efecto | Ejemplo | Respuesta de BanchoBot |
-| ------- | ------ | ------- | ---------------------- |
-| WHERE (user) | Muesta la ubicación de cierto jugador | !where John | John is in USA |
-| STATS (user) | Muestra las estadísticas de cierto jugador (basado en la conversación actual) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
-| FAQ (L.code)(item) (list) | Uso variado. [list] Lista de comandos usables | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (reason) | Solicitar a un moderador | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | Muestra un beatmap reciente para modear aleatorio. [list] Muestra 5 solicitudes de modeo recientes aleatorias | !request | Seether - Fake It by [Dellirium] |
-| ROLL (number) | Lanza un dado (virtual) y obtiene un resultado alreatorio del 1 al 100 (por defecto) | !roll 9000 | John rolls 1337 point(s) |
+<!-- Lita de comandos -->
+| Comando   | Argumento(s)            | Descripción | Ejemplo de entrada | Ejemplo de respuesta |
+| --------- | ---------------------- | ----------- | ------------- | ---------------- |
+| `HELP`    | Ninguno                   | Muestra la lista de comandos disponibles                                                    | `!help`                               | Esta lista |
+| `ROLL`    | `[number]`             | Al azar obtiene un valor hasta el número seleccionado (el valor predeterminado es 100).                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
+| `STATS`   | `<user_name>`          | Muestra las estadísticas del usuario según el modo en el que está jugando                    | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
+| `WHERE`   | `<user_name>`          | Muestra la ubicación actual del usuario.                                                | `!where Kyubey`                       | "Kyubey is in Russia" |
+| `FAQ`     | `[lang:]<entry>/list`  | Muestra el mensaje de la entrada. Usa `list` como entrada para mostrar todas las entradas disponibles.   | `!faq ping`                           | "Pong!" |
+| `REPORT`  | `<user_name> <reason>` | Envía un informe a los moderadores de chat. Reemplazar espacios de nombre de usuario por guione bajos `_`       | `!report S_o_h spamming in #japanese` | "Chat moderators has been alerted. Thanks for your help." |
+| `REQUEST` | Ninguno                   | Recibe un beatmap aleatorio en el que algún usuario solicite ayuda de modding.                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+<!-- Nota: El comando !search no está incluido porque ya no está funcionando. -->
