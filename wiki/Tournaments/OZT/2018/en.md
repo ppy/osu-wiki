@@ -76,7 +76,7 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 | Statistician | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Programmer | ![][flag_KR] [Eurus](https://osu.ppy.sh/users/3426414) |
 | Media | ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349) |
-| Graphics | ![][flag_FI] [-Bye](https://osu.ppy.sh/users/4291882) |
+| Graphics | ![][flag_SE] [-Bye](https://osu.ppy.sh/users/4291882) |
 | Map pool | ![][flag_US] [Squilly](https://osu.ppy.sh/users/4681578), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_SE] [Bullen8](https://osu.ppy.sh/users/6831611), ![][flag_SG] [Rachel](https://osu.ppy.sh/users/6494160) |
 | Streamers | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
 | Commentators | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [mcdemors](https://osu.ppy.sh/users/5295701), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647),  ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829) |
