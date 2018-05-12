@@ -1,6 +1,6 @@
 # Bienvenido
 
-Bienvenidos a osu!, un juego rítmico de categoría "libre para ganar" creado por peppy con cuatro modos de juego: osu!standard, un simulador de hacer clics en circulos, osu!taiko, un emulador de tambores, osu!catch, un atrapador de ensalada de frutas, osu!mania, un sintetizador de golpear teclas.
+Bienvenidos a osu!, un juego de ritmo gratis creado por peppy el cual tiene cuatro modos de juego: osu!standard, un simulador de hacer clics en circulos, osu!taiko, un emulador de tambores, osu!catch, un recolector de ensaladas de frutas, osu!mania, un sintetizador de golpear teclas.
 
 ## Puntos de interés común.
 
@@ -42,7 +42,7 @@ El Modding es el proceso de revisión de los usuarios (o comúnmente llamado "mo
 
 *Ver tambien: [Skinning](/wiki/Skinning) y [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-¡Skinning permite que cualquier persona cambie la forma en la que osu! se ve y se siente. Esto puede ser tan pequeño como cambiar el cursor o tan grande como rehacer las apariencias de todos los modos de juego y la interfaz.
+Skinning permite que cualquier persona cambie la forma en la que osu! se ve y se siente. Esto puede ser tan pequeño como cambiar el cursor o tan grande como rehacer las apariencias de todos los modos de juego y la interfaz.
 
 
 ## osu!wiki - ¡Como puedes ayudar!
