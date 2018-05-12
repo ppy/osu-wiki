@@ -32,7 +32,7 @@ Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requi
 1. Ve a la [página de listado de beatmaps](/beatmapsets) e inicia sesión en el sitio web.
 2. Encuentra una canción que te guste tocar.
 3. Haz clic en el ícono de descarga para guardar el beatmapset en tu computadora.
-4. Ubiqca y abre el archivo del beatmapset, tiene una extensión `.osz`.
+4. Ubica y abre el archivo del beatmapset, tiene una extensión `.osz`.
      - Alternativamente, también puedes colocar el archivo beatmapset en el directorio `Songs` de la instalación de osu!.
 5. osu! se encargará automáticamente del resto y cargará el beatmapset.
      - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Solo_mode) para volver a procesar tus mapas de ritmo.
