@@ -15,7 +15,7 @@
 
 ## ¿Que sigue?
 
-¡No olvide leer las [reglas](/wiki/Rules) con mucho cuidado!
+¡No olvides leer las [reglas](/wiki/Rules) con mucho cuidado!
 
 Una vez hecho esto, ¡Ya estás listo para comenzar tu aventura rítmica! Puedes [agregar beatmaps](/wiki/installation#adding-beatmapsets) para jugar, [hacer una skin](/wiki/skinning), o [hacer un beatmap](/wiki/beatmapping). También puedes pasar y decir "Hola" en el [Subforo de presentaciones](/community/forums/8).
 
