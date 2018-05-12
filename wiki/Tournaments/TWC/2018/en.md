@@ -54,19 +54,24 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Finals
+## Match Schedule: (Grand) Finals
 
-### Sunday, 6. May 2018
+### Saturday, 12. May 2018
+
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Canada    | ![][flag_CA] | ![][flag_KR] | South Korea   | **2:00 UTC**  | 22:00 (Sat) UTC -4 | 11:00 UTC +9       | ² |
-| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **3:30 UTC**  | 10:30 UTC +7       | 20:30 (Sat) UTC -7 | ² |
-| Japan       | ![][flag_JP] | ![][flag_TW] | Taiwan        | **12:30 UTC**  | 21:30 UTC +9 | 20:30 UTC +8 | ¹ |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **14:00 UTC**  | 23:00 UTC +9 | 21:00 UTC +7 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **14:00 UTC**  | 23:00 UTC +9 | 7:00  UTC -7 | ³ |
-| Canada      | ![][flag_CA] | ![][flag_ID] | Indonesia     | **16:00 UTC**  | 12:00 UTC -4 | 23:00 UTC +7 | ³ |
-| Canada      | ![][flag_CA] | ![][flag_US] | United States | **20:00 UTC**  | 16:00 UTC -4 | 13:00 UTC -7 | ³ |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :-: |
+| Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 | ² |
+
+### Sunday, 13. May 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :-: |
+| Taiwan     | ![][flag_TW] | ![][flag_CA] | Canada    | **03:00 UTC**  | 11:00 UTC +8  | 23:00 (Sat) UTC -4 | ³ |
+| Taiwan     | ![][flag_TW] | ![][flag_ID] | Indonesia | **03:00 UTC**  | 11:00 UTC +8  | 10:00 UTC +7 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_CA] | Canada    | **04:30 UTC**  | 13:30 UTC +9  | 00:30 UTC -4 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_TW] | Taiwan    | **07:00 UTC**  | 16:00 UTC +9  | 15:00 UTC +8 | ³ |
+| Japan      | ![][flag_JP] | ![][flag_ID] | Indonesia | **07:00 UTC**  | 16:00 UTC +9  | 14:00 UTC +7 | ³ |
 
 ¹ Winner bracket encounter
  
@@ -121,7 +126,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
   - [Kaneko Chiharu - iLLness LiLin (ll-oscar) \[ll-taiko Sp.\]](http://osu.ppy.sh/beatmaps/1244054) 
   - [ARM - Primula (tasuke912) \[TAIKO-HOLiC\]](http://osu.ppy.sh/beatmaps/1354418) 
   - [Igorrr - Pavor Nocturnus (XK2238) \[Clamatis\]](http://osu.ppy.sh/beatmaps/371761) 
-  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM) \[Extra \(Special Edition\)\]](http://osu.ppy.sh/b/1605963&m=1)
+  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM)\[(Extra \(Special Edition\))\]](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963)
   - [Lily - Scarlet Rose (ll-oscar) \[ll-taiko Sp.\]](http://osu.ppy.sh/beatmaps/463330) 
   - [cranky - R176 [Short Edit] (Nwolf) \[Kugessi\]](http://osu.ppy.sh/beatmaps/1623411) 
 - Hidden
@@ -243,6 +248,14 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Sunday, 2018-05-06 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![][flag_CA] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42242430) |
+| Indonesia ![][flag_ID] | 7 | 0 | ![][flag_US] United States | Nullified |
+| Japan ![][flag_JP] | 7 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42253405) |
 
 ### Semifinals
 

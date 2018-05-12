@@ -69,8 +69,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Map Selectors (osu!standard) | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895), ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
-| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641) |
+| Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_PH] [Tephtunia](https://osu.ppy.sh/users/5209045), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
 | Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
 | Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
@@ -81,6 +81,10 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+- Challonge
+	- [osu!standard](https://challonge.com/oPHST2018_std)
+	- [osu!catch](https://challonge.com/oPHST2018_ctb)
+- [Full Match Schedule List](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMJjQOXNljDNvjvVijb6clLx1dPA4grQgzdTs58BiQzOuSc2LoopezVHkSMtwiRO_ac8P7Rlvp2vRI/pubhtml?gid=0)
 
 ------------------------
 
@@ -144,6 +148,15 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | 15   | [princealbert10](https://osu.ppy.sh/users/7804181) | 
 | 16   | [justin1709](https://osu.ppy.sh/users/4699130)     | 
 
+### osu!mania 4K
+
+| Seed | Players | 
+| --- | --- | 
+| Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) | 
+| High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
+| Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) | 
+| Low (#25 - #32) | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), [Lordie09](https://osu.ppy.sh/users/10010130), [Batujitsu](https://osu.ppy.sh/users/6402552), [szc19](https://osu.ppy.sh/users/11444817), [Inoariusu](https://osu.ppy.sh/users/8586656), [lord\_waker](https://osu.ppy.sh/users/7235545), [vincent4399](https://osu.ppy.sh/users/9764388), [Altertis](https://osu.ppy.sh/users/9374657) | 
+
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
 
 ------------------------
@@ -152,9 +165,63 @@ The full list of registrants may be found on [this spreadsheet](https://docs.goo
 
 Mappools will be revealed one week in advance of each stage.
 
-### Qualifiers
+### osu!standard
 
-#### osu!standard
+#### Round of 16
+
+[**Download the mappack here! (86.7 MB)**](https://drive.google.com/open?id=1inneBvPp0SAHlJw4ND36RQzD65_HNuaH)
+
+- NoMod
+	- [FujuniseikouyuuP - Make a Loser (val0108) \[0108 style\]](https://osu.ppy.sh/beatmaps/649034)
+	- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) \[Corinn's Extra\]](https://osu.ppy.sh/beatmaps/1161150)
+	- [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmaps/154226)
+	- [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Monstrata) \[God of Speed\]](https://osu.ppy.sh/beatmaps/815857)
+	- [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) \[Fast's Expert\]](https://osu.ppy.sh/beatmaps/874940)
+	- [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[Dance Number\]](https://osu.ppy.sh/beatmaps/778603)
+- Hidden
+	- [Jun Kuroda & AAAA - Cygnus (Rohit6) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmaps/888465)
+	- [Cres - End Time (Maddy) \[eXtra\]](https://osu.ppy.sh/beatmaps/209276)
+- Hard Rock
+	- [TWICE - CHEER UP (Natsu) \[SHASHASHA\]](https://osu.ppy.sh/beatmaps/978382)
+	- [44teru-k - Yami \~ Shoujo no Yume , Kyomu no Sekai ~ (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmaps/152561)
+- Double Time
+	- [Sound Holic - Love-Colored Dream (Yes) \[Dream\]](https://osu.ppy.sh/beatmaps/43765)
+	- [Tsunamaru - paranoia (Chewin) \[RLC\]](https://osu.ppy.sh/beatmaps/226563)
+- FreeMod
+	- [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/215238)
+	- [HHH×MM×ST - Oboro (Morinaga) \[Blurred\]](https://osu.ppy.sh/beatmaps/1377917)
+	- [Renard - Banned Forever (Blue  Dragon) \[Nogard\]](https://osu.ppy.sh/beatmaps/64267)
+- Tiebreaker
+	- [Camellia - flying in the flow of deep-sea (Bearizm) \[dripping wet\]](https://osu.ppy.sh/beatmaps/778160)
+
+#### Round of 32
+
+[**Download the mappack here! (97.0 MB)**](https://drive.google.com/open?id=1HjXmRpMblbDVfqFQ8E78uy6kVHPoaTFJ)
+
+- NoMod
+	- [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Nathan) \[Nathan's Extra\]](https://osu.ppy.sh/beatmaps/1418503)
+	- [jippusu - Mushikui Saikede Rhythm (Skystar) \[Skystar\]](https://osu.ppy.sh/beatmaps/239104)
+	- [BiBi - Fuyu ga Kureta Yokan (Sakaue Nachi) \[Expert\]](https://osu.ppy.sh/beatmaps/599487)
+	- [Sota Fujimori - Move That Body -Extended Mix- (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmaps/542336)
+	- [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmaps/951600)
+	- [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmaps/109301)
+- Hidden
+	- [ZAQ - Serendipity (Xexxar) \[Pure Illusion\]](https://osu.ppy.sh/beatmaps/1121378)
+	- [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
+- Hard Rock
+	- [Qrispy Joybox feat.mao - Good-bye Tears (Wreath) \[Master\]](https://osu.ppy.sh/beatmaps/161653)
+	- [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
+- Double Time
+	- [StylipS - Choose me Darling (TV Size) (P A N) \[Insane\]](https://osu.ppy.sh/beatmaps/231018)
+	- [Hanatan - Torinoko City (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmaps/558277)
+- FreeMod
+	- [Nishino Kana - Sweet Dreams (11t dnb mix) (captin1) \[Insane\]](https://osu.ppy.sh/beatmaps/966207)
+	- [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmaps/454385)
+	- [Hiroyuki Sawano - BLOWIN' (ktgster) \[Challenge\]](https://osu.ppy.sh/beatmaps/1184609)
+- Tiebreaker
+	- [paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmaps/1510461)
+
+#### Qualifiers
 
 [**Download the mappack here! (22.6 MB)**](https://drive.google.com/open?id=1c9jrOMN_UqeSPeaifCcMGxaDB9M-YGrc)
 
@@ -166,14 +233,151 @@ Mappools will be revealed one week in advance of each stage.
 	- [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
 - Double Time
 	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
+	
+### osu!catch 
+
+#### Quarterfinals
+
+[**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1ox7BQuLZD4jwkyNxTeoVONKD2-BxuHWj)
+
+- NoMod
+	- [Rib - Setsuna Trip (RoseusJaeger) \[Deif's Rain\]](https://osu.ppy.sh/beatmaps/1474932)
+	- [Yooh - LegenD. (Minato Yukina) \[exam's EXHAUST\]](https://osu.ppy.sh/beatmaps/1077988)
+	- [P\*Light - FUNKY SUMMER BEACH (Avena) \[Ultra\]](https://osu.ppy.sh/beatmaps/498989)
+	- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! (Sanyi) \[Vincs' Overdose\]](https://osu.ppy.sh/beatmaps/1231254)
+	- [Mr. Saturn - Saturn (Saturnalize) \[OverdoZe\]](https://osu.ppy.sh/beatmaps/356150)
+	- [lily white - Binetsu Kara Mystery (Spectator) \[Rain\]](https://osu.ppy.sh/beatmaps/664699)
+- Hidden
+	- [Maksim Mrvica - Croatian Rhapsody (ZHSteven) \[Insane\]](https://osu.ppy.sh/beatmaps/881329)
+	- [DJ TOTTO feat.Enako - Precious \* Star (handsome) \[Glimmer\]](https://osu.ppy.sh/beatmaps/1094167)
+	- [NeLiME - CODE NAME : ZERO (ursa) \[OverdoZe\]](https://osu.ppy.sh/beatmaps/374232)
+- Hard Rock	
+	- [DJVI - Base After Base (Kurokami) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmaps/857417)
+	- [REOL - drop pop candy (Nysrogh) \[Candies Platter\]](https://osu.ppy.sh/beatmaps/1293300)
+	- [Dan Winter - Don't Stop Push It Now (Nightcore Mix) (Gero) \[Insane\]](https://osu.ppy.sh/beatmaps/474929)
+- Double Time
+	- [Senya - Ondosa (Marinaga) \[Lunatic\]](https://osu.ppy.sh/beatmaps/909244)
+	- [7!! - Orange (-Plus-) \[the girl under full-bloomed cherry blossoms\]](https://osu.ppy.sh/beatmaps/824525)
+	- [Awake - Supernova (Razorflamekun) \[Salad\]](https://osu.ppy.sh/beatmaps/616923)
+- Tiebreaker
+	- [Taishi feat. Aoki Lapis - A Sugar Business (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmaps/976631)
+
+#### Round of 16
+
+[**Download the mappack here! (102.3 MB)**](https://drive.google.com/open?id=1kY272z24TD6tVZ4XfhzlRnTq3p-SoGqP)
+
+- NoMod
+	- [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmaps/1036560)
+	- [Mili - Rosetta (P i k u) \[Rose\]](https://osu.ppy.sh/beatmaps/893353)
+	- [Eguchi Takahiro - Silver Temple (Sey) \[Rain\]](https://osu.ppy.sh/beatmaps/405444)
+	- [gmtn. (witch's slave) - furioso melodia (Urushi38) \[Another\]](https://osu.ppy.sh/beatmaps/432030)
+	- [Renard - Da Nu Nuttah (GamerX4life) \[Xtreme\]](https://osu.ppy.sh/beatmaps/185784)
+	- [MARiA - Buriki no Dance (eXceed) \[AriExtra\]](https://osu.ppy.sh/beatmaps/478148)
+- Hidden
+	- [Kaneko Chiharu - Lachryma\<Re:Queen'M\> (Hey lululu) \[krt's EXHAUST\]](https://osu.ppy.sh/beatmaps/1458350)
+	- [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmaps/757539)
+	- [Shiokara-zu - Shiokara-Bushi (ZiRoX) \[Rainmaker\]](https://osu.ppy.sh/beatmaps/738947)
+- Hard Rock
+	- [Tomatsu Haruka - Yume Sekai (Ascendance) \[Fiance's Dream World\]](https://osu.ppy.sh/beatmaps/1526886)
+	- [Kugimiya Rie & Kitamura Eri - Holy Night (Kurokami) \[Platter\]](https://osu.ppy.sh/beatmaps/530224)
+	- [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Dief) \[Salad\]](https://osu.ppy.sh/beatmaps/806344)
+- Double Time
+	- [Goose House - Sedan Girl (mingmichael) \[Platter\]](https://osu.ppy.sh/beatmaps/682672)
+	- [Agematsu Noriyasu - the MOON is a harsh mistress (Kurokami) \[Platter\]](https://osu.ppy.sh/beatmaps/337930)
+	- [ClariS - Colorful -movie MIX- (Xinely) \[m1ng's Platter\]](https://osu.ppy.sh/beatmaps/386687)
+- Tiebreaker
+	- [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmaps/1161865)
+	
+### osu!mania 4K
+
+#### Post-qualification Play-offs
+
+[**Download the mappack here! (47.0 MB)**](https://drive.google.com/open?id=1bGjzgSoAqaQwHcBvb0Djkb4hwDQM3bqH)
+
+- FreeMod
+	- [S-C-U feat. Qrispy Joybox - anemone (Julie) \[4K Hyper\]](https://osu.ppy.sh/beatmaps/644701)
+	- [Dr.Flowershirts - Canon (O2 Version)+ (Niji) \[Another\]](https://osu.ppy.sh/beatmaps/583935)
+	- [Chino(Minase Inori) - Okashi na Yume o Ohitotsu Douzo (Mentai Cosmic) \[Hard\]](https://osu.ppy.sh/beatmaps/1361111)
+	- [gmtn. (witch's slave) - Daraku no Sono (shadowsnoop) \[Hard\]](https://osu.ppy.sh/beatmaps/1253591)
+	- [Wham! - Careless Whisper (Instrumental) (Pope Gadget) \[Smooth Sax\]](https://osu.ppy.sh/beatmaps/1213539)
+	- [XX:me - Hitori (Raveille) \[Where are you now...\]](https://osu.ppy.sh/beatmaps/1610599)
+	- [Celldweller - Weaponized (Noxus) \[Normal '9mm Pistol'\]](https://osu.ppy.sh/beatmaps/1523952)
+	- [Porter Robinson - Natural Light (SitekX) \[Ray\]](https://osu.ppy.sh/beatmaps/1222576)
+	- [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmaps/1045578)
+	- [Chime - Undertale (Chime Remix) (SourToast) \[True Pacifist\]](https://osu.ppy.sh/beatmaps/976440)
+
+#### Qualifiers
+
+[**Download the mappack here! (13.3 MB)**](https://drive.google.com/open?id=1swGRoTuTe8KoFuOqRfpR0q3OZEwdi0RQ)
+
+- FreeMod
+	- [FLOOR BABA - Whole Pocket (Lenfried-) \[8 ball\]](https://osu.ppy.sh/beatmaps/1616314)
+	- [Space Candy - Crowded Bathroom Tiles (Lenfried-) \[Cold Shower\]](https://osu.ppy.sh/beatmaps/1616317)
+	- [Hiro \[Crackin' DJ\] - Sun Dance (Raveille) \[Fun Party\]](https://osu.ppy.sh/beatmaps/1616312)
+	- [Tipper - Bubble Control (Lenfried-) \[Surface Tension\]](https://osu.ppy.sh/beatmaps/1616322)
+	
+### osu!mania 7K
+
+#### Qualifiers
+
+[**Download the mappack here! (14.4 MB)**](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO)
+
+- FreeMod
+	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology]](https://osu.ppy.sh/beatmaps/1624698)
+	- [Eckle - Sakoya (cut) (eyes) \[deshoda v2\]](https://osu.ppy.sh/beatmaps/1624695)
+	- [Kageyama Shota - Ryuusei Aika (SurfChu85) \[Lamentation\]](https://osu.ppy.sh/beatmaps/1624699)
+	- [ninomiya tatsuki - furiae (Lenfried-) \[Desolate\]](https://osu.ppy.sh/beatmaps/1624696)
 
 ------------------------
 
 ## Match Results
 
+All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml)
+
+### Match Week 1 (2018-04-28 to 2018-04-29)
+
+#### osu!standard Round of 32
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml?gid=235298817)
+
+| Seed | Player 1           |       |       | Player 2      | Seed |     | 
+|------|--------------------|-------|-------|---------------|------|-----| 
+| 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD | 
+| 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     | 
+| 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD | 
+| 9    | **TyrantsEye2014** | **4** | 0     | SkyLifeHope   | 24   |     | 
+| 4    | **-Marika**        | **4** | 0     | Aharu         | 29   |     | 
+| 13   | **xX_MusicMan_Xx** | **4** | 2     | xchan         | 20   |     | 
+| 5    | **Fraye**          | **4** | 0     | [Paradoxum]   | 28   | WBD | 
+| 12   | **Nezol**          | **4** | 1     | CharlesMoveOn | 21   |     | 
+| 2    | **Dunois**         | **4** | 0     | Itsvet        | 31   |     | 
+| 15   | NymphSan05         | 0     | **4** | **Natsume-**  | 18   | WBD | 
+| 7    | **PhasiconN**      | **4** | 0     | Awishi        | 26   |     | 
+| 10   | **Oooodriiin**     | **4** | 0     | Caernarvon725 | 23   |     | 
+| 3    | **Varsagus**       | **4** | 0     | Mietzu        | 30   |     | 
+| 14   | **[Vik]**          | **4** | 0     | Marika        | 19   | WBD | 
+| 6    | **fixedbyglue**    | **4** | 0     | Scylz         | 27   |     | 
+| 11   | **Xidorn**         | **4** | 2     | Rimazii       | 22   |     | 
+
+#### osu!catch Round of 16
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml?gid=375654597)
+
+| Seed | Player 1        |       |       | Player 2       | Seed |     | 
+|------|-----------------|-------|-------|----------------|------|-----| 
+| 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
+| 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
+| 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     | 
+| 5    | **-MomoX**      | **4** | 0     | kaarin         | 12   |     | 
+| 2    | **-Nicotine**   | **4** | 0     | princealbert10 | 15   | WBD | 
+| 7    | Kuya Frex       | 0     | **4** | **AJamez**     | 10   |     | 
+| 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD | 
+| 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD | 
+
 ### Qualifiers
 
 - Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
+- Detailed results of the **osu!mania 4K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml?gid=555080779)
 
 ------------------------
 
@@ -181,7 +385,7 @@ Mappools will be revealed one week in advance of each stage.
 
 ### Game Modes and Scoring Format 
 
-- The tournament shall host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament shall use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
+- The tournament will host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
 
 ### Tournament Formats
 
@@ -189,7 +393,7 @@ Mappools will be revealed one week in advance of each stage.
 
 - The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of 2018-04-15 (18:00 UTC+8).
 
-- Both **osu!mania 4K** and **osu!mania 7K** divisions shall adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
+- Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 ### Mods Used in the Tournament 
 
@@ -216,17 +420,17 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!mania
 
-- For both osu!mania 4K and 7K, the tournament shall assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick. 
+- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick. 
 
 ### Eligibility and Registration 
 
 - Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted. 
 
-- Players who have shown exemplary performances over the previous months shall be given an invitation to join the tournament and shall be reserved a registration slot upon acceptance. 
+- Players who have shown exemplary performances over the previous months will be given an invitation to join the tournament and will be reserved a registration slot upon acceptance. 
 
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
 
-- The registration phase of the tournament shall begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament will begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
 
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
 
@@ -234,11 +438,11 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!standard
 
-- All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round shall also serve as the division's seeding phase.
+- All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round will also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
+- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 
-- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
 - Players are to be ranked according to the total of their best attempts during their qualifying run. Top 32 players advance to the bracket stage, and the rest are eliminated.
 
@@ -246,11 +450,11 @@ Mappools will be revealed one week in advance of each stage.
 
 #### osu!mania 4K and 7K 
 
-- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round shall also serve as the division's seeding phase.
+- All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they shall be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
+- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
 
-- The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There shall be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
 - Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
 
@@ -258,7 +462,7 @@ Mappools will be revealed one week in advance of each stage.
 
 	- **Seeds 1 to 4** will automatically advance to the Group Stage and will not play during this round.
 	- **Seeds 9 to 24** will face each other (9 vs 24, 10 vs 23, so on) in this round and the winners will go to the Group Stage.
-	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 25 vs 32, Seed 6 will face the winner of 26 vs 31, and so on), winners of these matches will advance to the Group Stage.
+	- **Seeds 25 to 32** will face each other (25 vs 32, 26 vs 31, so on) in this round and the winners will face **Seeds 5 to 8** (Seed 5 will face the winner of 28 vs 29, Seed 6 will face the winner of 27 vs 30, and so on), winners of these matches will advance to the Group Stage.
 	
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
@@ -266,25 +470,25 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Preparation
 
-- The referees shall prepare the match room ten (10) minutes prior to the match schedule. It is the referee's obligation to inform the players about this and be invited to the room. If the player does not respond within this time period, the player is forcibly moved at the actual match schedule.
+- The referees will prepare the match room ten (10) minutes prior to the match schedule. It is the referee's obligation to inform the players about this and be invited to the room. If the player does not respond within this time period, the player is forcibly moved at the actual match schedule.
 
 - The room name format for the three tournaments is: ``oPHST18: (Player 1) vs (Player 2)``
 
-- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period shall be considered as a no-show and the player inside the room already shall be declared the winner. If both players do not appear, the player with the higher seed shall be considered the winner. 
+- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner. 
 
 - It is asked of the players to allow non-friend PM's in order for the invites to arrive.
 
 #### Warm-up Phase
 
-- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) shall be disallowed.  
+- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) will be disallowed.  
 
 #### Bans and Picks 
 
-- After the warm-up phase, the players shall proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
+- After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
 #### Match Format 
 
-- Players shall alternate picks until a match winner is determined. This shall be in a Best-of-X series with the formats listed as follows: 
+- Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows: 
 
 	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4) 
 	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5) 
@@ -310,23 +514,23 @@ Mappools will be revealed one week in advance of each stage.
 
 - Players are allowed to reschedule their matches as long as their opponent have a mutual agreement on this arrangement, and is **made before the Thursday prior to the match**. This is for the staff to be able to adjust their general schedules for the round, including the streams. If the arrangement is made after the set deadline, the match will still be rescheduled, but there is no assurance that it will be streamed. 
 
-- For reschedules made after the deadline, the staff shall only consider this if given a valid reason (academics, sickness, family matters) with proof. 
+- For reschedules made after the deadline, the staff will only consider this if given a valid reason (academics, sickness, family matters) with proof. 
 
 ### Disconnections 
 
 - In case disconnections happen during a match, the following guidelines are given:
 
-	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and shall be repeated once the player re-enters, or gets moved into the room.
-	- If the player disconnects within 30 seconds of the drain time of the pick, the play shall continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
-	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play shall continue and will be counted as part of the scoreboard. 
-	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used shall be counted as a point for their opponent. (Only applies for disconnections during the play) 
-	- Players are only given 10 minutes to return to the room upon disconnection. If the player fails to return, the match score shall be frozen and will be considered the official result.
-	- If the player who leads the score is the one who disconnected, the match shall continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player shall be disqualified from the match. 
-	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) shall be decided immediately by the staff on-the-spot. 
+	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and will be repeated once the player re-enters, or gets moved into the room.
+	- If the player disconnects within 30 seconds of the drain time of the pick, the play will continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
+	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play will continue and will be counted as part of the scoreboard. 
+	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used will be counted as a point for their opponent. (Only applies for disconnections during the play) 
+	- Players are only given 10 minutes to return to the room upon disconnection. If the player fails to return, the match score will be frozen and will be considered the official result.
+	- If the player who leads the score is the one who disconnected, the match will continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player will be disqualified from the match. 
+	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot. 
 	
 ### Player and Staff Conduct 
 
-- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff shall assure a good experience for the players during the tournament. 
+- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament. 
 
 #### Match Conduct 
 
@@ -334,15 +538,15 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Overall Conduct 
 
-- The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player shall be deemed disqualified from the tournament as a whole, and the tournament rankings shall be adjusted accordingly.
+- The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player will be deemed disqualified from the tournament as a whole, and the tournament rankings will be adjusted accordingly.
 
 - If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service. 
 
-- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration shall be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default. 
+- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default. 
 
 ### Updates and Concerns 
 
-- Most of the major updates regarding the tournament shall be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
+- Most of the major updates regarding the tournament will be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
 
 ## Changes from Previous Editions
 
@@ -369,3 +573,4 @@ Mappools will be revealed one week in advance of each stage.
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
+[flag_BR]: /wiki/shared/flag/BR.gif

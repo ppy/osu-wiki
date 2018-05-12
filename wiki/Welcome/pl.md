@@ -3,7 +3,7 @@ outdated: true
 ---
 # Na początek
 
-Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
+Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
 
 ## Główne obszary zainteresowań
 
@@ -20,19 +20,19 @@ Witaj w _osu!_, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posi
 
 ## Artykuł miesiąca
 
-_Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria)._
+*Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria).*
 
 Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](/wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
 
 ## Mapowanie
 
-_Zobacz także: [Mapowanie](/wiki/Beatmapping)._
+*Zobacz także: [Mapowanie](/wiki/Beatmapping).*
 
 Mapowanie jest to proces tworzenia beatmap. Uwzględnia on: wybór piosenki, ustawianie rytmów, umieszczanie obiektów w rytm muzyki oraz grę próbną. Proces ten może także zawierać dodanie wideo w tle, [scenorysu](/wiki/Storyboarding) bądź [niestandardowej skórki](/wiki/Skinning). Wszystkie te czynności mogą zostać wykonane przez samego twórcę lub z pomocą innych użytkowników.
 
 ## Modowanie
 
-_Zobacz także: [Modowanie](/wiki/Modding)._
+*Zobacz także: [Modowanie](/wiki/Modding).*
 
 Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez różnych użytkowników. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich mapy.
 
@@ -42,8 +42,8 @@ Modowanie jest to proces sprawdzania i oceniania nierankingowej beatmapy przez r
 
 Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno kosmetyczne (np. inny kursor), jak i znaczące (np. całkowicie nowy wygląd elementów gry i interfejsu).
 
-## osu!wiki - Jak możesz pomóc!
+## osu! wiki - Jak możesz pomóc!
 
-26 sierpnia 2016 roku osu!wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu!wiki.
+26 sierpnia 2016 roku osu! wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu! wiki.
 
-Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu!wiki](/wiki/owcg).
+Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu! wiki](/wiki/owcg).

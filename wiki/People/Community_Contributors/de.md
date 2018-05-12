@@ -4,7 +4,7 @@ outdated: true
 Mitwirkende der Community
 ===========================
 
-![Contributor Abzeichen](Contributor_Badge.png "Contributor Abzeichen")
+![Contributor Abzeichen](/wiki/shared/contributor.jpg "Contributor Abzeichen")
 
 Die "Community Mitwirkenden" sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, der zeigt, dass sie besonders nennenswert sind und etwas in und für die osu! Community getan haben.
 

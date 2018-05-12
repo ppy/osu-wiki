@@ -1,7 +1,7 @@
 Colaboradores de la comunidad
 ======================
 
-![Medalla de colaborador](Contributor_Badge.png "Medalla de colaborador")
+![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
 
 Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de [*osu!*](/Wiki/Glossary/#osu) aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
