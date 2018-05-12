@@ -39,7 +39,7 @@ El Modding es el proceso de revisión de los usuarios (o comúnmente llamado "mo
 
 ## Skinning
 
-*Pagina principal: [Skinning](/wiki/Skinning)
+*Pagina principal: [Skinning](/wiki/Skinning)*
 
 *Ver tambien: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
