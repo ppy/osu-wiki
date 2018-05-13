@@ -4,7 +4,7 @@ Accuracy is a measurement of a player's consistency. There are three types of ac
 
 ## Game modes
 
-### osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!standard
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
 
@@ -19,13 +19,13 @@ Reference for one hit circle:
 0   ->   0 / 300 = 0   =   0.00%
 ```
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
 
 In osu!taiko, accuracy is calculated by taking the sum of the note accuracy divided by the number of notes. The note accuracy are as follows: a GREAT (良) counts as 100%, GOOD (可) as 50% (half), and MISS/BAD (不可) as 0% (which also breaks the combo). Drum rolls and spinners do not influence the accuracy.
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 ![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
 
@@ -33,7 +33,7 @@ In osu!catch, accuracy is calculated by taking the total of non-spinner hit obje
 
 *Note for API users: To calculate the accuracy in osu!catch, number of droplets are under `count50` and number of missed droplets are under `countkatu`.*
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
