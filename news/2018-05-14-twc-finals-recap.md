@@ -7,7 +7,7 @@ The drum mashing of the Taiko World Cup 2018 has concluded while the fruit puns 
 
 ![](/wiki/shared/news/2018-05-07-twc-finals-recap/podium.png)
 
-**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC and we won't go over their matches in this recap. You can read about the situation at https://osu.ppy.sh/community/forums/topics/743380
+**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC and we won't go over their matches in this recap. You can read about the situation at https://osu.ppy.sh/community/forums/topics/743380 **
 
 ### Finals Matches
 
