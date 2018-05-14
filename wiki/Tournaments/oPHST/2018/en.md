@@ -495,6 +495,17 @@ All results are compiled for public viewing via [this link](https://docs.google.
 
 ### osu!standard
 
+#### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
+
+| Seed | Player 1     |       |       | Player 2           | Seed |  | 
+|:------:|:--------------|:-------:|:-------:|--------------------:|:------:|--| 
+| 16   | Eboryte      | 0     | **6** | **TyrantsEye2014** | 9    |  | 
+| 4    | **-Marika**  | **6** | 1     | Nezol              | 12   |  | 
+| 2    | **Dunois**   | **6** | 0     | PhasiconN          | 7    |  | 
+| 3    | **Varsagus** | **6** | 3     | Xidorn             | 11   |  | 
+
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
@@ -537,7 +548,23 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
 
-### osu!catch 
+### osu!catch
+
+#### Semifinals and Loser's Bracket Round 2 and 3
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2        | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 8    | **KaganimeRin** | **6** | 0     | Contingent      | 11   | WBD | 
+| 4    | **Crowley**     | **6** | 0     | princealbert10  | 15   | WBD | 
+| 10   | **AJamez**      | **6** | 0     | Weazle          | 13   | WBD | 
+| 6    | **Laqure**      | **6** | 0     | JeirYagtama     | 9    | WBD | 
+| 4    | Crowley         | 4     | **6** | **KaganimeRin** | 8    |     | 
+| 6    | **Laqure**      | **6** | 0     | AJamez          | 10   | WBD | 
+| 1    | **Roido**       | **6** | 3     | -MomoX          | 5    |     | 
+| 2    | **-Nicotine**   | **6** | 3     | * Kielzu -      | 3    |     | 
+
 
 #### Quarterfinals and Loser's Bracket Round 1
 
