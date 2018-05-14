@@ -189,6 +189,31 @@ Mappools will be revealed one week in advance of each stage.
 
 ### osu!standard
 
+#### Semifinals
+
+- NoMod
+	- [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/beatmaps/202756)
+	- [yuikonnu - Kakushigoto (murasaki\_sk) \[CRN-AR10-\]](https://osu.ppy.sh/beatmaps/283723)
+	- [Ocelot - YUKARI (Nhawak) \[Mystic\]](https://osu.ppy.sh/beatmaps/1058995)
+	- [Camellia - Routing (Mir) \[Reverb\]](https://osu.ppy.sh/beatmaps/1403907)
+	- [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) \[captin's Legend\]](https://osu.ppy.sh/beatmaps/495633)
+	- [Igorrr - Unpleasant Sonata (Sieg) \[Insane\]](https://osu.ppy.sh/beatmaps/245284)
+- Hidden
+	- [P\*Light - FUNKY SUMMER BEACH (Priti) \[Ultra\]](https://osu.ppy.sh/beatmaps/498989)
+	- [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmaps/1187506)
+- Hard Rock
+	- [Shiena Nishizawa - Meaning (Taeyang) \[True Meaning\]](https://osu.ppy.sh/beatmaps/799913)
+	- [Ayane - FaV -F\*\** and Vanguard- (Corinn) \[Happiness\]](https://osu.ppy.sh/beatmaps/1052871)
+- Double Time
+	- [senya - Kataomoi no Bigaku (Satellite) \[Aesthetics\]](https://osu.ppy.sh/beatmaps/798083)
+	- [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/163054)
+- FreeMod
+	- [yuikonnu - Yakimochi no Kotae -another story- (Lasse) \[Jealousy\]](https://osu.ppy.sh/beatmaps/966576)
+	- [Tia - The Glory Days (Nara) \[Rainbow\]](https://osu.ppy.sh/beatmaps/853625)
+	- [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/178645)
+- Tiebreaker
+	- [Camellia - Light it up (Opsi) \[Brilliance\]](https://osu.ppy.sh/beatmaps/1378892)
+
 #### Quarterfinals
 
 [**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8)
@@ -284,6 +309,30 @@ Mappools will be revealed one week in advance of each stage.
 	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
 	
 ### osu!catch 
+
+#### Finals Week 1
+
+- NoMod
+	- [TERRASPEX - AMAZING BREAK (Spectator) \[OVERDOSE\]](https://osu.ppy.sh/beatmaps/1541641)
+	- [The Quick Brown Fox - PACEMAKER (-Plus-) \[Overdose\]](https://osu.ppy.sh/beatmaps/1399287)
+	- [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (- \[ Asuna \] - ) \[Rainbow\]](https://osu.ppy.sh/beatmaps/626437)
+	- [MYTH & ROID - STYX HELIX (Minato Yukina) \[Re:Start\]](https://osu.ppy.sh/beatmaps/1033595)
+	- [Kero Kero Bonito - Flamingo (WTN3 Remix) (Nerova Riuz GX) \[Multi Color\]](https://osu.ppy.sh/beatmaps/888383)
+	- [Nizikawa - F.K.S. (Pho) \[Collab GRAVITY\]](https://osu.ppy.sh/beatmaps/1152014)
+- Hidden
+	- [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion) \[Radiance\]](https://osu.ppy.sh/beatmaps/1009520)
+	- [M2U - Stellar (Spectator) \[Alice\]](https://osu.ppy.sh/beatmaps/1481269)
+	- [beatMARIO - Night of Knights (DJPop) \[TAG4\]](https://osu.ppy.sh/beatmaps/58064)
+- Hard Rock
+	- [Marika - Knowing short ver. (Konei) \[Rain\]](https://osu.ppy.sh/beatmaps/572867)
+	- [PinocchioP - Kusaregedou to Chocolate (Katty Pie) \[Insane\]](https://osu.ppy.sh/beatmaps/238052)
+	- [TeamGrimoire+Amaneko - croiX (HelloSCV) \[Spec's CTB Rain\]](https://osu.ppy.sh/beatmaps/274012)
+- Double Time
+	- [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/163054)
+	- [sana - Packet Hero (Fuccho) \[Pho's Hard\]](https://osu.ppy.sh/beatmaps/924562)
+	- [Coalamode. - Nanairo Symphony -TV Size- (Ascendance) \[A World of Color\]](https://osu.ppy.sh/beatmaps/1040807)
+- Tiebreaker
+	- [Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](https://osu.ppy.sh/beatmaps/1119645)
 
 #### Semifinals
 
