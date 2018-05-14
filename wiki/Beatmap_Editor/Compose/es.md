@@ -99,14 +99,14 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 #### Selector
 
-| Buttons / Header (Keyboard Shortcut) | Usage | Description |
+| Botones / Titulo (Atajo de Teclado) | Uso | Descripción |
 | ------------------------------------ | ----- | ----------- |
-| Sampleset | Auto, Normal, Soft, Drum | This ignore the timing section's Sampleset setting , and add the selected one... e.g. Timing point with **soft 77%**, While this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
-| Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
-| Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
-| Circle (`2`) | **Left/Right-click:** Add/Remove hit circle. | Hit Circle. |
-| Slider (`3`) | **Left/Right-click:** Start/End Slider. Add/Remove sliderpoints (white square). **Left-Click x2:** New curve section (red square). | Slider. |
-| Spinner (`4`) | **Left/Right-click:** Start/End Spinner at current timestamp. | Spinner. Make sure Auto can at least score 2,000 Bonus per Spinner (to prevent the infamous spinner spam/ninja spinner). |
+| Sampleset | Auto, Normal, Soft, Drum | Esto ignora la configuración del Sampleset de la sección de tiempo, y agrega la configuración seleccionada... Ej. Punto de sincronización con **suave 77%**, Mientras este conjunto de samples se establece en **Drum** y tiene **Clap** en las notas, se reproducirá por defecto drum-hitnormal 77% + drum-hitclap 77% en el golpe |
+| Adiciones | Auto, Normal, Soft, Drum | Las adiciones de sonidos de golpe significan agregar Clap, Finish y Whistle con el conjunto SELECCIONADO... Ej. Sampleset **Normal**, Punto de tiempo **Soft 77%**, mientras que Adiciones está configurado en **Drum** y tiene **Clap** en las notas, resultará de normal-hitnormal 77% + drum-hitclap 77% en el golpe |
+| Seleccionar (`1`) | **Clic izquierdo/arrastre:** Selecciona/Ajusta la ubicación de las notas/puntos de controles deslizantes. **Clic derecho:** Elimina las notas/controles deslizantes. **`Ctrl` + Click:** Selección múltiple.	| Selecciona y modifica las notas existentes. |
+| Circulo (`2`) | **Clic izquierdo/derecho:** Agrega/Elimina el Círculo de Golpeo. | Círculo de Golpeo. |
+| Deslizador (`3`) | **Clic izquierdo/derecho:** Empieza/Termina un control deslizante. Agrega/Elimina puntos de controles deslizantes (cuadrado blanco). **Clic izquierdo x2:** Nueva sección de curva(cuadrado rojo). | Control deslizante. |
+| Ruleta (`4`) | **Clic izquierdo/derecho:** Inicia/Termina la ruleta en la marca de tiempo actual. | Ruleta. Asegúrate de que Auto pueda al menos obtener 2.000 Bonus por Ruleta (para evitar la infame ruleta spam/ruleta ninja ). |
 
 ### Centro (Area de juego)
 
@@ -122,21 +122,21 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 | -------------------------- | ----- | ----------- |
 | Nuevo combo (`Q`) | **Clic derecho:** Cambiar la nota actual al siguiente color combinado. | Nota combo. Esto es equivalente a un verso / medida en el guión de canción / instrumento. Un rango aceptable es de aproximadamente 5-20. |
 
-#### Hit Sounds
+#### Sonidos de Golpe
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
-| Whistle (`W`) | ("Select" on a Hit note) **Left-Click:** Use whistle sound on this note | Add a whistle sound addition to the selection. |
-| Finish (`E`) | ("Select" on a Hit note) **Left-Click:** Use finish sound on this note | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | ("Select" on a Hit note) **Left-Click:** Use clap sound on this note | Add a clap sound addition to the selection. |
+| Whistle (`W`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usar sonido de silbido en esta nota | Agrega una adición de sonido de silbido a la selección. |
+| Finish (`E`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usar sonido de finalización en esta nota | Agrega un sonido final (platillos) a la selección. |
+| Clap (`R`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usa un sonido de aplauso en esta nota | Agrega una adición de sonido de aplauso a la selección. |
 
 #### Assist Tools
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
-| Grid Snap (`T`) | **`Shift` (Hold):** Temporary toggle. **`Ctrl` (Hold):** Temporary disable angle snapping. | Hit notes will be snapped to the grid by default. |
-| Distance Snap (`Y`) | **`Alt` (Hold):** Temporary toggle. Switch Beat Snap Divisor to Distance Snap **`Alt` + Mousewheel:** Adjust Distance Snap multiplier. | Distance between consecutive hit notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
-| Lock Notes (`L`) | ("Select" on a Hit note) **Left-Click:** Lock this note | Lock selected note to current position and timestamp. |
+| Ajuste de cuadricula (`T`) | **`Shift` (Mantener):** Alterna temporalmente. **`Ctrl` (mantener):** Desactiva temporalmente el ajuste de ángulo. | Las notas de golpeo se ajustarán a la cuadrícula de forma predeterminada. |
+| Ajuste de distancia (`Y`) | **`Alt` (Mantener):** Alterna temporalmente. Cambia el divisor de ritmo por el ajuste de distancia **`Alt` + Rueda del mouse:** Ajuste el multiplicador de ajuste de distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Se usa mejor cuando la línea de tiempo está en pausa. |
+| Bloquear notas (`L`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
 
 ### Bottom (Song's Timeline)
 
