@@ -19,7 +19,7 @@ Due to the forfeit of United States, Indonesia got another chance against Canada
 
 When Canada went up against Taiwan, their memorization game was on point as they opened the match with a win on the SV map [cranky - R176](https://osu.ppy.sh/beatmaps/1623411). After that, Taiwan remembered their warmup map [Dave Rodgers - Deja Vu](https://osu.ppy.sh/beatmaps/1637925). **They knew it was their time to go to the grand final, which they had been in before.** In order to get there, they hit full throttle to the point where Canada could not keep up. Taiwan had secured their Grand Final spot over Canada 7-1.
 
-As for the Grand Final, Taiwan was still going at full speed since the last match as they won the first 3 points against Japan. If that in itself isn't a historical achivement, Japan had to suffer 2 more maps lost as they clawed their way back to a 7-5 victory. Taiwan truly played their hearts out and made the Grand Final one of the most even matches of the tournament.Taiwan may have lost the match, but atleast they ended the tournament with a win on the tiebreaker showcase: 
+As for the Grand Final, Taiwan was still going at full speed since the last match as they won the first 3 points against Japan. If that in itself isn't a historical achivement, Japan had to suffer 2 more maps lost as they clawed their way back to a 7-5 victory. Taiwan truly played their hearts out and made the Grand Final one of the most even matches of the tournament. Taiwan may have lost the match, but atleast they ended the tournament with a win on the tiebreaker showcase: 
 
 ![](/wiki/shared/news/2018-05-07-twc-finals-recap/japan-taiwan-tb.jpg)
 
@@ -48,6 +48,6 @@ We saw some mid seeded teams really step up this year. Hong Kong taking Canada t
  
 Now then, it's time to set our sights on the next event, which is the osu!catch World Cup 2018 starting in June. Feel free to hype it up in [the discussion thread](https://osu.ppy.sh/community/forums/topics/739799) while we wait.
  
- Until next year, keep hitting those dons and kats, and I'll see you around!
+ **Until next year, keep hitting those dons and kats, and I'll see you around!**
  
  —Eiuh
