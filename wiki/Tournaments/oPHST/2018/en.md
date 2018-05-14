@@ -189,6 +189,8 @@ Mappools will be revealed one week in advance of each stage.
 
 ### osu!standard
 
+[**Download the mappack here! (111.1 MB)**](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1)
+
 #### Semifinals
 
 - NoMod
@@ -311,6 +313,8 @@ Mappools will be revealed one week in advance of each stage.
 ### osu!catch 
 
 #### Finals Week 1
+
+[**Download the mappack here! (111.6 MB)**](https://drive.google.com/open?id=10GxDpVygDxeCJ92p8TThEHZgRy0diNZc)
 
 - NoMod
 	- [TERRASPEX - AMAZING BREAK (Spectator) \[OVERDOSE\]](https://osu.ppy.sh/beatmaps/1541641)
