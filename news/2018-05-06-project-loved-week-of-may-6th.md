@@ -29,28 +29,28 @@ Unfortunately, there won't be any videos this week; our regular video producer h
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/fukagyaku-replace.jpg)](https://osu.ppy.sh/community/forums/topics/742387)
 
-[MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) by [Moway](https://osu.ppy.sh/users/1352672)  
+[MY FIRST STORY - Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) by [Moway](https://osu.ppy.sh/users/1352672), [toybot](https://osu.ppy.sh/users/2848604), [Saut](https://osu.ppy.sh/users/3799202), [pkhg](https://osu.ppy.sh/users/343624) and [Aka](https://osu.ppy.sh/users/1307553)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
 With a staggering 791 favourites, [Moway](https://osu.ppy.sh/users/1352672)'s [Fukagyaku Replace](https://osu.ppy.sh/beatmapsets/227021) is insanely popular, and it's easy to see why. The mapset is incredibly clean, featuring an easily rankable spread of difficulties by several notable mappers and a top difficulty which has been featured in too many tournaments to count. Hopefully this beloved map can finally receive the scoreboard it deserves through Loved!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/canon-rock.jpg)](https://osu.ppy.sh/community/forums/topics/742388)
 
-[JerryC - Canon Rock](https://osu.ppy.sh/beatmapsets/203734) by [momo1101](https://osu.ppy.sh/users/4220343)  
+[JerryC - Canon Rock](https://osu.ppy.sh/beatmapsets/203734) by [momo1101](https://osu.ppy.sh/users/4220343) et al.  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
 [Canon Rock](https://osu.ppy.sh/beatmapsets/203734) is a mapset hosted by mania mapper [momo1101](https://osu.ppy.sh/users/4220343) that features high quality difficulties for all 4 modes. It's clear that a tremendous amount of work has gone into this mapset based on the thread, and the 200 people who have favorited the map are a testament to the appeal of the map. With a full spread for standard including a notable extra by the mapper previously known as [Fort](https://osu.ppy.sh/users/2805457), you're sure to find some enjoyment here, no matter your skill level!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/you-may-not-want-to-hear-this-but.jpg)](https://osu.ppy.sh/community/forums/topics/742389)
 
-[Foreground Eclipse - You May Not Want To Hear This But](https://osu.ppy.sh/beatmapsets/89429) by [GoldenWolf](https://osu.ppy.sh/users/1612624)  
+[Foreground Eclipse - You May Not Want To Hear This But](https://osu.ppy.sh/beatmapsets/89429) by [GoldenWolf](https://osu.ppy.sh/users/1612624) and [Xakyrie](https://osu.ppy.sh/users/684730)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
 Hailing from the 2103/2014 era, this 5\* map has distance snap written all over it. Though [GoldenWolf](https://osu.ppy.sh/users/1612624) now may be known for some higher starred Demetori marathons, this set remains highly popular with 215 favorites despite being a little rougher around the edges compared to his current productions. Though the three-diff set may seem somewhat standard in today's mapping meta, its place in the Loved category would be fair considering its permanence within the community, even sneaking its way into some recent tournament mappools.
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/moskau.jpg)](https://osu.ppy.sh/community/forums/topics/742390)
 
-[Dschinghis Khan - Moskau](https://osu.ppy.sh/beatmapsets/5947) by [RemmyX25](https://osu.ppy.sh/users/612)  
+[Dschinghis Khan - Moskau](https://osu.ppy.sh/beatmapsets/5947) by [RemmyX25](https://osu.ppy.sh/users/612) et al.  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
 Quite possibly the "old map set to end old map sets", this MASSIVE collaboration by [RemmyX25](https://osu.ppy.sh/users/612) from 2009 features some of the most prolific names from that mapping era. Those familiar with maps predating 2010 will recognize names such as [Hitoshirenu Shourai](https://osu.ppy.sh/users/602), [Larto](https://osu.ppy.sh/users/12328), [Starrodkirby86](https://osu.ppy.sh/users/410) and so many more! It truly is an authentic experience for anyone who hails by the older mapping style.
@@ -64,7 +64,7 @@ Once again, a map that has can possibly attribute a part of its popularity to to
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/maid-chan-yori-.jpg)](https://osu.ppy.sh/community/forums/topics/742392)
 
-[Maid-chan (CV: Horie Yui) - Maid-chan yori.](https://osu.ppy.sh/beatmapsets/369623) by [Yakisoba\_Pan](https://osu.ppy.sh/users/3345902)  
+[Maid-chan (CV: Horie Yui) - Maid-chan yori.](https://osu.ppy.sh/beatmapsets/369623) by [Shirasaka Koume](https://osu.ppy.sh/users/3062998)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
 The biggest anime plot twist of 2018 arrived in the form of well-versed tournament player and mapper [Shirasaka Koume](https://osu.ppy.sh/users/3062998) openly admitted to also be the owner of the now restricted account Roll\_Pan. The once faceless graveyard mapper can now be properly credited for their extremely popular mapsets, with [Maid-chan yori](https://osu.ppy.sh/beatmapsets/369623) being among them. The single difficulty GD from [Koume](https://osu.ppy.sh/users/3062998) has become somewhat of a cult classic, garnering 170+ favorites since 2015 and achieving widespread popularity among players and tournament mappoolers alike.
@@ -78,7 +78,7 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/flashes-extended-.jpg)](https://osu.ppy.sh/community/forums/topics/742394)
 
-[Dollscythe - Flashes (Extended)](https://osu.ppy.sh/beatmapsets/512648) by [Skystar](https://osu.ppy.sh/users/873961)  
+[Dollscythe - Flashes (Extended)](https://osu.ppy.sh/beatmapsets/512648) by [Skystar](https://osu.ppy.sh/users/873961), [Vert](https://osu.ppy.sh/users/3420746) and [yf\_bmp](https://osu.ppy.sh/users/1243669)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
 [Flashes](https://osu.ppy.sh/beatmapsets/512648) is a masterful map by the master himself, [Skystar](https://osu.ppy.sh/users/873961). The top diff was the winner of Pending Cup 4, a very highly regarded Chinese mapping contest, and it's incredibly clear why: the crisp, inventive patterns and genius use of 2B elements put this map in a league of its own. If you've never seen this mapset before, I implore you to check it out because you're definitely missing out!
@@ -92,7 +92,7 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/koisuru-uchuu-sensou-ryu-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/742396)
 
-[Prim - Koisuru\*Uchuu Sensou!! (Ryu\* Remix)](https://osu.ppy.sh/beatmapsets/47027) by [DoKito](https://osu.ppy.sh/users/537084)  
+[Prim - Koisuru\*Uchuu Sensou!! (Ryu\* Remix)](https://osu.ppy.sh/beatmapsets/47027) by [DoKito](https://osu.ppy.sh/users/537084) and [OnosakiHito](https://osu.ppy.sh/users/290128)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
 [DoKito](https://osu.ppy.sh/users/537084) is a mapper who has been active for a long time, and [Koisuru\*Uchu Sensou](https://osu.ppy.sh/beatmapsets/47027) is one of his well known classics. The map features winding streams that are sure to still pose a threat to the players of today, as well as plenty of classic symmetry-based patterning. [val0108](https://osu.ppy.sh/users/243917) said it best in the thread of this map 6 years ago: "awesome really.big big fun".
@@ -101,14 +101,14 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/taiko/marianne-nottaiko-edit-.jpg)](https://osu.ppy.sh/community/forums/topics/742402)
 
-[Yooh - MariannE (NotTaiko Edit)](https://osu.ppy.sh/beatmapsets/673935) by [Gezoda](https://osu.ppy.sh/users/481582)  
+[Yooh - MariannE (NotTaiko Edit)](https://osu.ppy.sh/beatmapsets/673935) by [Gezoda](https://osu.ppy.sh/users/481582), [Mew104](https://osu.ppy.sh/users/2345156) and [katacheh](https://osu.ppy.sh/users/6651672)  
 *written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 MariannE sounds like a familiar name in the Loved section, right? Well, [yes](https://osu.ppy.sh/beatmapsets/521862). This is a fast-paced challenge that will require focus at all times. It's a collaboration between [Gezoda](https://osu.ppy.sh/users/481582), [Mew104](https://osu.ppy.sh/users/2345156) and [katacheh](https://osu.ppy.sh/users/6651672), each providing their own gimmicks! Now known as Yukiko's Challenge, this thing will either make you yell in triangles, or just label every mod that ever shows up as banned/illegal. To those who are coming for the full combo, we hope you still remembered that this isn't Taiko anymore!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/taiko/hana-kagerou.jpg)](https://osu.ppy.sh/community/forums/topics/742403)
 
-[Minamotoya feat. Kuroa\* - Hana Kagerou](https://osu.ppy.sh/beatmapsets/491879) by [Ni-Sokkususu](https://osu.ppy.sh/users/1807472)  
+[Minamotoya feat. Kuroa\* - Hana Kagerou](https://osu.ppy.sh/beatmapsets/491879) by [K-2](https://osu.ppy.sh/users/1807472) and [KamizonoShinobu](https://osu.ppy.sh/users/1163051)  
 *written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 If you liked [KHAMEN BREAK](https://osu.ppy.sh/beatmapsets/426572), you will love [Hana Kagerou](https://osu.ppy.sh/beatmapsets/491879) so much that you will replay it. Made by [Ni-Sokkususu](https://osu.ppy.sh/users/1807472) (now known as K-2), and with a difficulty made by [KamizonoShinobu](https://osu.ppy.sh/users/1163051), this set uses a variety of hitsounds to enhance the high-quality mapping provided. Ranging from traditional Japanese instruments to more western kick drums, and without forgetting the infamous banging noise from SOUND VOLTEX, this beatmap is a delight to the ears!
@@ -122,7 +122,7 @@ If you liked [KHAMEN BREAK](https://osu.ppy.sh/beatmapsets/426572), you will lov
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/taiko/night-sky.jpg)](https://osu.ppy.sh/community/forums/topics/742405)
 
-[USAO - Night sky](https://osu.ppy.sh/beatmapsets/376397) by [Mel](https://osu.ppy.sh/users/1696312)  
+[USAO - Night sky](https://osu.ppy.sh/beatmapsets/376397) by [Mel](https://osu.ppy.sh/users/1696312) et al.  
 *written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
 Stop everything and look at the night sky outside! Isn't it very starry? Because this is what this map is. This set of four difficulties made by [DarkVortex](https://osu.ppy.sh/users/1940325), [Nishizumi](https://osu.ppy.sh/users/2496768) and [jomnhnk](https://osu.ppy.sh/users/298328) is something you should not miss for any reason, because every diff is two minutes of pure fun set to a fantastic song by USAO! The views of each mapper make this set a great experience to anyone touching it, and the starry night sky's stars will end up in your eyes after playing the map!
@@ -173,7 +173,7 @@ Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, tha
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/catch/dreeeeam.jpg)](https://osu.ppy.sh/community/forums/topics/742417)
 
-[dors k(uro) - dreeeeam](https://osu.ppy.sh/beatmapsets/444696) by [Chara](https://osu.ppy.sh/users/829284)  
+[dors k(uro) - dreeeeam](https://osu.ppy.sh/beatmapsets/444696) by [-Plus-](https://osu.ppy.sh/users/829284), [Hunter Howl](https://osu.ppy.sh/users/3003738) and [Vulkin](https://osu.ppy.sh/users/4901066)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
 [dreeeeam](https://osu.ppy.sh/beatmapsets/444696) is a spread from [-Plus-](https://osu.ppy.sh/users/829284) with contribution from various mappers which makes for an extremely clean set of maps with various difficulties fitted for all sorts of players at any skill level. Overall, the maps are frankly quite generic without any sort of special tinkering to them. They are, however, all very polished and still fun to play, hence why the map has been used in various tournaments throughout its lifetime. If you have a heart filled with determination for -Plus- and his great works, then consider voting!
@@ -209,8 +209,8 @@ Like [Valedict](https://osu.ppy.sh/users/2537082)'s other Loved charts, while th
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/renatus.jpg)](https://osu.ppy.sh/community/forums/topics/742426)
 
-[Soleily - Renatus](https://osu.ppy.sh/beatmapsets/235827) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+[Soleily - Renatus](https://osu.ppy.sh/beatmapsets/235827) by [Fullerene-](https://osu.ppy.sh/users/2531335), [LordRaika](https://osu.ppy.sh/users/3265023), [arcwinolivirus](https://osu.ppy.sh/users/2039089) and [Kamikaze](https://osu.ppy.sh/users/2124783)  
+*written by [Shoegazer](https://osu.ppy.sh/users/2520707) and [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 Greatly overlooked due to its notable reserve, [Fullerene](https://osu.ppy.sh/users/2894788)'s chart for [Renatus](https://osu.ppy.sh/beatmapsets/235827) is one of Fullerene's best charts. It doesn't quite have the same panache as his other Loved charts such as [dreamless wanderer](https://osu.ppy.sh/beatmapsets/321347/#mania/714878) or [PEACE BREAKER](https://osu.ppy.sh/beatmapsets/352754#mania/777348), but the 4K mapset shows a command of the fundamentals that is practically never seen in both the Loved section and the Ranked section. The 4K Insane difficulty is also a chart that is played in several competitive circles today.
 
@@ -220,7 +220,7 @@ The 7K mapset, mapped by [LordRaika](https://osu.ppy.sh/users/3265023) are chart
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/the-battle-of-lil-slugger-ch-1-boss-extended-cut-250bpm-.jpg)](https://osu.ppy.sh/community/forums/topics/742427)
 
-[Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm)](https://osu.ppy.sh/beatmapsets/79839) by [Staiain](https://osu.ppy.sh/users/86188)  
+[Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm)](https://osu.ppy.sh/beatmapsets/79839) by [Staiain](https://osu.ppy.sh/users/86188) and [samurai7694](https://osu.ppy.sh/users/1033229)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 Up next we have a classic chart from the hands of the resident speed demon viking [Staiain](https://osu.ppy.sh/users/86188) and legendary American StepMania player [samurai7694](https://osu.ppy.sh/users/1033229), and it is a hard one.
@@ -229,7 +229,7 @@ Starting out fairly tame, the chart slowly introduces what it's going to be abou
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/zen-zen-zense.jpg)](https://osu.ppy.sh/community/forums/topics/742428)
 
-[RADWIMPS - Zen Zen Zense](https://osu.ppy.sh/beatmapsets/533010) by [Niima](https://osu.ppy.sh/users/3221985)  
+[RADWIMPS - Zen Zen Zense](https://osu.ppy.sh/beatmapsets/533010) by [Niima](https://osu.ppy.sh/users/3221985) and [LostCool](https://osu.ppy.sh/users/766374)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 [Niima](https://osu.ppy.sh/users/3221985) has been actively mapping osu!mania charts for a considerable amount of years, and we're going to talk about one of them called [Zen Zen Zense by RADWIMPS](https://osu.ppy.sh/beatmapsets/533010). With 70 favourites, this map features Long Notes in its entirety, as well as two different keymodes (4 keys and 7 keys), having such as shields, inverse chordstreams, extremely irregular and fast Long Note chordstreams, and way more that you will find out when you play it.
