@@ -14,7 +14,7 @@ Over the past few weeks, much forward progress has been made on the [performance
 
 We begin this journey with the following areas of change:
 
-## inactive players
+## Inactive players
 
 Until recently, we have not been marking inactive players (no score recorded in 3 months) as such in all cases, which means that as we perform this reprocessing, **all users will generally see a sudden increase in rank**.
 
