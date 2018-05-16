@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Finals Week 1 Recap!"
+title: "osu!taiko World Cup - Finals Recap!"
 date: 2018-05-15 00:00:00 +0000
 ---
-The drum mashing of the Taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. 
+The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. 
 
 ![](/wiki/shared/news/2018-05-07-twc-finals-recap/podium.png)
 
-**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC and we won't go over their matches in this recap. You can read about the situation at https://osu.ppy.sh/community/forums/topics/743380**
+**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC. We won't go over their matches in this recap. You can read about the situation [in this thread](https://osu.ppy.sh/community/forums/topics/743380).**
 
 ### Finals Matches
 
@@ -19,7 +19,7 @@ Due to the forfeit of United States, Indonesia got another chance against Canada
 
 When Canada went up against Taiwan, their memorization game was on point as they opened the match with a win on the SV map [cranky - R176](https://osu.ppy.sh/beatmaps/1623411). After that, Taiwan remembered their warmup map [Dave Rodgers - Deja Vu](https://osu.ppy.sh/beatmaps/1637925). **They suddenly remembered that in order to keep up with tradition, they'd have to make it to the Grand Finals.** In order to get there, they hit full throttle to the point where Canada could not keep up. Taiwan had secured their Grand Finals spot over Canada 7-1.
 
-As for the Grand Finals, Taiwan was still going at full speed since the last match as they won the first 3 points against Japan. If that in itself isn't a historical achievement, Japan had to suffer 2 more maps lost as they clawed their way back to a 7-5 victory. Taiwan truly played their hearts out and made the Grand Final one of the most even matches of the tournament. Taiwan may have lost the match, but atleast they ended the tournament with a win on the tiebreaker showcase: 
+As for the Grand Finals, Taiwan was still going at full speed since their last match, as they won the first 3 points against Japan. If that in itself isn't a historical achievement, Japan had to suffer 2 more maps lost as they clawed their way back to a 7-5 victory. Taiwan truly played their hearts out and made the Grand Final one of the most even matches of the tournament. Taiwan may have lost the match, but at least they ended the tournament with a win on the tiebreaker showcase: 
 
 ![](/wiki/shared/news/2018-05-07-twc-finals-recap/japan-taiwan-tb.jpg)
 
@@ -30,21 +30,20 @@ And that wraps up all the matches for this year! Here's how the entire eliminati
 
 ### Finals Mappool
 
-There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. As the work for the mappool selectors this year has come to an end, here are the closing comments of one of them:
-
-[mangomizer](https://osu.ppy.sh/users/1893718):
+There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. As the work for the mappool selectors this year has come to an end, here is a closing comment from [mangomizer](https://osu.ppy.sh/users/1893718):
 
 "It may come as a surprise to you that the Finals Mappool was the second mappool we started work on, immediately following Group Stage. This was done as a precaution to avoid having a repeat of the thermal runaway mappool that almost killed everyone last year. In spite of this, the Finals Mappool still ended up being extremely difficult – perhaps even more challenging than last year. We are thankful to have started this early, as it gave us more time to ensure the balance of the mappool.
 
-With regards to the matches last weekend, I’m certainly glad to see a fairly even spread of picks across the board. [“Nanoka - Tsukimade Todoke, Fushi no Kemuri”](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963) was probably my greatest oversight – I had seriously underestimated the difficulty it would pose on the players. Otherwise, I am seriously impressed with how players are coping with this mappool – their stellar performances exceeding my expectations more times than I can count. It has been an absolute pleasure to mappool select this year, and I cannot wait to do it again next year.”
+With regards to the matches last weekend, I’m certainly glad to see a fairly even spread of picks across the board. [Nanoka - Tsukimade Todoke, Fushi no Kemuri](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963) was probably my greatest oversight – I had seriously underestimated the difficulty it would pose on the players. Otherwise, I am seriously impressed with how players are coping with this mappool – their stellar performances exceeding my expectations more times than I can count. It has been an absolute pleasure to mappool select this year, and I cannot wait to do it again next year."
+
 
 ### Conclusion
 
-We saw some mid-seeded teams really step up this year. Hong Kong taking Canada to tiebreaker, Spain reaching top 8 and South Korea reaching top 6 are all signs of the skill gap between teams evening out, so let's hope this trend continues in future cups!
+We saw some mid-seeded teams really step up this year. Hong Kong taking Canada to tiebreaker, Spain reaching top 8 and South Korea reaching top 6 appear to be signs of the skill gap between teams evening out, so let's hope this trend continues in future cups!
  
- [osulive on Twitch](https://www.twitch.tv/osulive) is where you can watch the past matches, in case you missed them.
+[osulive on Twitch](https://www.twitch.tv/osulive) is where you can watch the past matches, in case you missed them.
 
- For more information surrounding the tournament, you can check out [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).  
+For more information surrounding the tournament, you can check out [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).  
  
 Now then, it's time to set our sights on the next event, which is the osu!catch World Cup 2018 starting in June. Feel free to hype it up in [the discussion thread](https://osu.ppy.sh/community/forums/topics/739799) while we wait.
  
