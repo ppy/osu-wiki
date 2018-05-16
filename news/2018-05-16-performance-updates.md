@@ -43,3 +43,5 @@ On top of the changes proposed, a multiplier adjustment has been applied to brin
 --------
 
 As we move more and more in an open source direction, it is easier than every for anyone to contribute to the osu! projects. Check out `#osu-performance` on the [osu!dev discord](https://discordapp.com/invite/ppy) to follow along with the latest, or visit [osu-performance on github](https://github.com/ppy/osu-performance) to get directly involved in the code.
+
+—peppy
