@@ -12,7 +12,7 @@ Over the past few weeks, much forward progress has been made on the [performance
 
 **Note that as these changes are applied, ranks may fly around a bit.** We are doing our best to alleviate the visual effect of reprocessing, but as this is the first time we've done this kind of operation in a while it is a learning experience – there's a lot of data to process!
 
-We begin this journey with the following changes:
+We begin this journey with the following areas of change:
 
 ## inactive players
 
@@ -20,21 +20,21 @@ Until recently, we have not been marking inactive players (no score recorded in 
 
 ## osu!
 
-### [Adjusting Hidden Mod As Speed Multiplier](https://github.com/ppy/osu-performance/pull/42)
+Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42) [#2](https://github.com/ppy/osu-performance/pull/47)). For a full explanation along with historical context, check out [Toy's write-up](https://docs.google.com/document/d/1pY9rtz9lUxjbBYg4aR_Jh1YdXDIlf1vnfVptdp8Dth0/edit), but here are the quick points you should know:
 
-The aim value scales significantly less than it did before but speedValue has now been given a scaling bonus. Simply put, this means that when using Hidden jumps reward less pp and streams reward more pp than before.
-
-### [AR Fix for aim on HD](https://github.com/ppy/osu-performance/pull/47) to fix further [issues raised by NoMoreDiv](https://github.com/ppy/osu-performance/issues/45).
-
-Hidden's aim value now scales slightly less than previously at very high approach rates where using the mod often makes it easier to read and quickly react to. The new calculation now gives a higher scaling to lower approach rates than before as well.
+- The aim bonus the Hidden mod is reduced. Maps that features more jumps or higher jump spacing have been nerfed. 
+- This aim reduction is linear based on the approach rate of the map. Higher AR means a smaller aim bonus than lower AR for the same pattern.
+- The speed bonus for the Hidden mod has been increased. Streams are calculated under the speed category, and now more spaced streams have been buffed slightly.
+- This is NOT an absolute nerf to Hidden as a whole, it is the beginning of a rework in how the mod affects the formula as a whole.
+- Playing a map with Hidden will still award more points than not using it with the same accuracy.
 
 ## osu!mania
 
 ### [Lower star rating pp exponent and increase accuracy value on high SR maps](https://github.com/ppy/osu-performance/pull/15)
 
-Proposed by [Shoegazer](https://osu.ppy.sh/users/2520707) as a "bandaid" fix and [implemented by MillhioreF](https://github.com/ppy/osu-performance/pull/15), osu!mania has received a set of changes that adjust its performance calculations quite drastically.
+One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/u/Shoegazer)'s proposal.
 
-In particular, the targeted changes for osu!mania significantly decrease the "strain" value attributed to higher star rating maps, meaning that they are generally worth less than they were before.
+This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before.
 
 The rationale behind these changes has been comprehensively [documented by Shoegazer](https://docs.google.com/document/d/1RJfGKcXfiiA7uMaIROzY3VF9mgexAgVsS1Ls2ADTojM/edit#) for those interested in reading into the specifics.
 
