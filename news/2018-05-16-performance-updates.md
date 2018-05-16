@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Scoring Updates: osu! and osu!mania"
+title: "Performance Calculation Updates: osu! and osu!mania"
 date: 2018-05-16 14:00:00 +0000
 ---
 
