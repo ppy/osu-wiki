@@ -26,7 +26,7 @@ Until recently, we have not been marking inactive players (no score recorded in 
 
 ## osu!mania
 
-Proposed by [Shoegazer](https://osu.ppy.sh/users/2520707) as a "bandaid" fix and [implemented by MillhioreF(https://github.com/ppy/osu-performance/pull/15), osu!mania has received a set of changes that adjust its performance calculations quite drastically.
+Proposed by [Shoegazer](https://osu.ppy.sh/users/2520707) as a "bandaid" fix and [implemented by MillhioreF](https://github.com/ppy/osu-performance/pull/15), osu!mania has received a set of changes that adjust its performance calculations quite drastically.
 
 In particular, the targeted changes for osu!mania significantly decrease the "strain" value attributed to higher star rating maps, meaning that they are generally worth less than they were before.
 
