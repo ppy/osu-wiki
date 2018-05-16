@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup - Finals Recap!"
-date: 2018-05-15 00:00:00 +0000
+date: 2018-05-16 00:00:00 +0000
 ---
 The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. 
 
