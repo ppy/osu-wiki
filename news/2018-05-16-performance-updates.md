@@ -32,11 +32,16 @@ Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42
 
 One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/u/Shoegazer)'s proposal.
 
-This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before.
+This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before. Summarised:
+
+- 800k-1mil scores get a substantial buff.
+- Scores below 800k will be relatively nerfed, especially those under 700k.
+- 960-1mil scores are especially buffed. This is to incentivise players to achieve high accuracy (98.5%+).
+- A linear reduction of 27% to *all* PP values.
 
 The rationale behind these changes has been comprehensively [documented by Shoegazer](https://docs.google.com/document/d/1RJfGKcXfiiA7uMaIROzY3VF9mgexAgVsS1Ls2ADTojM/edit#) for those interested in reading into the specifics.
 
-On top of the changes proposed, a multiplier adjustment has been applied to bring osu!mania pp totals in line with other game modes. This will result in most users experiencing an overall decrease in pp of up to 50%, but rest assured that as this is applied across the board it will *not affect your global rank*.
+The linear reduction was applied to bring osu!mania pp totals in line with other game modes. This will result in most users experiencing an overall decrease in pp, but rest assured that as this is applied across the board it will *not affect your global rank* after recalculation.
 
 --------
 
