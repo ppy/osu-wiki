@@ -26,7 +26,7 @@ Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42
 - This aim reduction is linear based on the approach rate of the map. Higher AR means a smaller aim bonus than lower AR for the same pattern.
 - The speed bonus for the Hidden mod has been increased. Streams are calculated under the speed category, and now more spaced streams have been buffed slightly.
 - This is NOT an absolute nerf to Hidden as a whole, it is the beginning of a rework in how the mod affects the formula as a whole.
-- Playing a map with Hidden will still award more points than not using it with the same accuracy.
+- Given equal accuracy, a map played with Hidden will still award more PP than not.
 
 ## osu!mania
 
