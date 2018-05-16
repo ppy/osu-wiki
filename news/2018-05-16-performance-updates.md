@@ -20,11 +20,17 @@ Until recently, we have not been marking inactive players (no score recorded in 
 
 ## osu!
 
-[Adjusting Hidden Mod As Speed Multiplier](https://github.com/ppy/osu-performance/pull/42)
+### [Adjusting Hidden Mod As Speed Multiplier](https://github.com/ppy/osu-performance/pull/42)
 
-[AR Fix for aim on HD](https://github.com/ppy/osu-performance/pull/47) to fix further [issues raised by NoMoreDiv](https://github.com/ppy/osu-performance/issues/45).
+The aim value scales significantly less than it did before but speedValue has now been given a scaling bonus. Simply put, this means that when using Hidden jumps reward less pp and streams reward more pp than before.
+
+### [AR Fix for aim on HD](https://github.com/ppy/osu-performance/pull/47) to fix further [issues raised by NoMoreDiv](https://github.com/ppy/osu-performance/issues/45).
+
+Hidden's aim value now scales slightly less than previously at very high approach rates where using the mod often makes it easier to read and quickly react to. The new calculation now gives a higher scaling to lower approach rates than before as well.
 
 ## osu!mania
+
+### [Lower star rating pp exponent and increase accuracy value on high SR maps](https://github.com/ppy/osu-performance/pull/15)
 
 Proposed by [Shoegazer](https://osu.ppy.sh/users/2520707) as a "bandaid" fix and [implemented by MillhioreF](https://github.com/ppy/osu-performance/pull/15), osu!mania has received a set of changes that adjust its performance calculations quite drastically.
 
