@@ -6,7 +6,7 @@ tags:
 Taiko LMS: Shift Cup
 =============================
 
-![Taiko LMS: Shift Cup](banner.png)
+![Taiko LMS: Shift Cup](banner.jpg)
 
 **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US][Backfire](https://osu.ppy.sh/users/263110). It is a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG.
 
@@ -49,7 +49,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 - [Official Forums Thread](https://osu.ppy.sh/community/forums/topics/744163)
 - [Livestream](https://www.twitch.tv/osutaikolive)
-- [Registration](https://puu.sh/AmErh/c36eadf9e2.png)
+- [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
 - [Official LMS Discord](https://discord.gg/wEkYka)
 
 -----------------------
@@ -72,7 +72,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 1. Taiko LMS: Shift Cup is a 3v3 team tournament, with the aspects of knock-out rules, and double elimination bracket.
 
 2. The mapsets for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place.
-3. Participants must be between Rank **\#75** and **\#5.000** Global.
+3. Participants must be between Rank **\#75** and **\#5,000** Global.
 4. Map scoring is based on **Score V2.**
 5. Match schedule will be settled by the Tournament Management.
 6. If no staff or referee is available, the match will be postponed.
@@ -170,7 +170,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 2. Matches in Group Stage may overlap. 
 3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
-4. Captains are responsible for their teams’ availability. The greater team size exists to ensure every team can provide at least three players for each match.
+4. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
