@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Calculation Updates: osu! and osu!mania"
-date: 2018-05-16 14:00:00 +0000
+date: 2018-05-16 12:54:00 +0900
 ---
 
 A brand new set of pp adjustments have made their way through the pipeline for osu! and osu!mania – the first of their kind in several years! Wonder how the changes might have affected you and your ranks? Read on!
