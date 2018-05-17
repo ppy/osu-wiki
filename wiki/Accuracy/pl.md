@@ -1,10 +1,10 @@
 # Precyzja
 
-Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Termin ten stosuje się w dwóch przypadkach. Pierwszy to precyzja na danej beatmapie liczona poprzez zsumowanie wartości trafień każdego obiektu na beatmapie w stosunku do najwyższej wartości dla wszystkich możliwych obiektów. Drugi to ogólna ważona precyzja gracza, która większy nacisk kładzie na lepsze zagrania. 
+Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Termin ten stosuje się w dwóch przypadkach. Pierwszy to precyzja na danej beatmapie liczona poprzez zsumowanie wartości trafień każdego obiektu na beatmapie w stosunku do najwyższej wartości dla wszystkich możliwych obiektów. Drugi to ogólna ważona precyzja gracza, która większy nacisk kładzie na lepsze zagrania.
 
 ## Tryby gry
 
-### osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!standard
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_standard.png "Wzór na precyzję dla osu!standard")
 
@@ -17,7 +17,7 @@ W trybie osu!standard wartości dla jednego obiektu są następujące:
 0   ->   0 / 300 = 0   =   0.00%
 ```
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ![Precyzja = 0.5(liczba GOOD + liczba GREAT) / (liczba BAD + liczba GOOD + liczba GREAT)](img/accuracy_taiko.png "Wzór na precyzję dla osu!taiko")
 
@@ -31,7 +31,7 @@ MISS/BAD (不可) - 0%
 
 Slidery i spinnery nie mają wpływu na precyzję.
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 ![Precyzja = (liczba dropletów + liczba dropów + liczba owoców) / (liczba niezłapanych dropletów + liczba niezłapanych dropów + liczba niezłapanych owoców + liczba dropletów + liczba dropów + liczba owoców)](img/accuracy_catch.png "Wzór na precyzję dla osu!catch")
 
@@ -39,7 +39,7 @@ W trybie osu!catch wszystkie obiekty mają taką samą wartość oprócz bananó
 
 *Ważne dla użytkowników API: Aby obliczyć precyzję w trybie osu!catch, liczba dropletów znajduje się pod `count50`, a liczba niezłapanych dropletów pod `countkatu`.*
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 200 \* liczba 200 + 300 \* liczba 300 + 300 \* liczba MAX) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 200 + liczba 300 + liczba MAX)](img/accuracy_mania.png "Wzór na precyzję dla osu!mania")
 
