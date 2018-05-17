@@ -110,14 +110,14 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 房間相關設定為：osu!taiko，Head to Head，勝利條件為＂Score V2＂。房名必為＂ATS 2018: (藍方) vs (紅方)＂。
    - 房間名字中首先出現的參賽者名稱須為藍組，其次者須為紅組。
 2. 每位參賽者可以自由選擇一張熱身譜面。禁止選擇內容不雅的譜面，或是非太鼓專用之譜面。
-3. 每位參賽者各需排除 **一張譜面** ，於該場比賽期間不得作為可選譜面。
+3. 每位參賽者各需禁用 **一張譜面** ，於該場比賽期間不得作為可選譜面。
 4. 每位參賽者輪流由圖池選擇譜面。
 
 5. 每位參賽者須在 #multiplayer 使用 「!roll」指令。
    - !roll 值較高者可以首先選擇比賽譜面。
    - !roll 值較低者可以首先ban圖
 6. 玩家可以從圖池中任意選擇一張譜面。
-   - 和局者須由Tiebreaker譜面以決勝負。
+   - 和局者須由TieBreaker譜面以決勝負。
 
 ### 圖池說明
 
@@ -125,14 +125,14 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 但決賽及總決賽使用相同的圖池
 2. 每個圖池皆由 NoMod、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers)、Special 以及 FreeMod 組成。
 3. 每個圖池皆有 16 張譜面。
-4. 每個圖池皆有 1 張 TieBreak。
+4. 每個圖池皆有 1 張 TieBreaker。
 5. NoMod 將在不使用任何Mod的狀況下遊玩。
 6. Special 相較於NoMod更難且有更多花樣，其將在不使用任何Mod的狀況下遊玩。
 7. Hidden、HardRock 以及 DoubleTime 將在開啟它們各自的Mod的狀況下遊玩。
 8. FreeMod 可允許使用NoMod，HardRock，Hidden 或是兩者皆用的狀況下遊玩
 
-9. TieBreak 將以NoMod的狀況下遊玩。
-   - 假若平局，TieBreak將會以FreeMod再次被遊玩。
+9. TieBreaker 將以NoMod的狀況下遊玩。
+   - 假若平局，TieBreaker將會以FreeMod再次被遊玩。
 10. 圖池由以下格式組成：
    - 5 張NoMod
    - 2 張Hidden
@@ -140,11 +140,11 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 2 張DoubleTime
    - 2 張Special
    - 2 張FreeMod
-   - 1 張TieBreak
+   - 1 張TieBreaker
 
 ### 賽程說明
 
-1. 每階段的比賽都會被安排在[b]單個週末[/b]內舉行。
+1. 每階段的比賽都會被安排在 **單個週末** 內舉行。
 
 2. 所有的雙淘汰階段都會被安排在週六或週日(UTC+7)舉行。
 3. 賽程由主辦單位安排。時間表將會在當前階段之所有比賽結束後的星期天被公布。重新安排賽程是允許的，但選手雙方皆必須同意，且必須提供證據。
