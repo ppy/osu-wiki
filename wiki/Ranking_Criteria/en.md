@@ -27,6 +27,20 @@ Glossary
 - **Guest difficulty:** A difficulty added to a mapset which is not created by its mapset host.
 - **Collaborative difficulty:** A single difficulty mapped by more than one mapper. Also referred to as "collab".
 
+### Metadata
+- **vs.**: versus
+- **&**: and
+- **feat./ft.**: featuring
+- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
+- **Lenticular brackets**: Also known as Sumitsukikakko and written as `【】`.
+- **Corner brackets**: Also known as Kagikakko and written as `「」`.
+- **Square brackets**: `[]`
+- **asterisk**: `*`
+- **umlauts**: `ü`, `ö`, `ä` and `ß`
+- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
+- **Russian Romanisation**: Use `BGN/PCGN` system for Russian/Cyrillic. `Е` and `е` should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `ye`, however, use `yo` or `o` to avoid usage of special characters. Ignore any other rules in the file provided, these are either irrelevant or wouldn't help in the game. If an artist uses a preferred romanisation, follow it regardless of this rule. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
+- **Character-by-character romanisation**: each Chinese character must be Romanised as a capitalised word and separated with a space.
+
 ### Timing
 
 - **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
@@ -105,15 +119,51 @@ Glossary
 
 ### Rules
 
--   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
--   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
--   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the `Romanised Title` field.** As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. Refer to the [Wikipedia page on hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for more information. Loan words should be expressed using romanisation from the original language.
--   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/community/forums/topics/244684) for more information.
--   **Vocaloids can be featured within the artist section if the producer/composer includes it via official sources.** This ensures that we enforce metadata being accurate in all cases.
--   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as `Short Ver.`, `TV Size` and so forth unless those markers are part of the official song title as listed by a reputable source.
--   **Only use the Source field if the song comes from or was made famous by a video game, movie, or series.** Website names are not an acceptable Artist nor Source.
--   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
--   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
+- **The following technical limitations or conventions are put in place to ensure consistency:**
+  - **Metadata must be consistent across all difficulties of a beatmap set.** 
+  - **The artists of a song must be traceable to existing people.** As such, programs like Vocaloids or fictional characters cannot be used as the sole artist of any given song.
+  - **Use the metadata of a song as is without adding any additional markers, such as `Full Version` and the likes.** If your track is a mashup or something among those lines, use whatever the artist supplies while paying respect to proper English syntax rules.
+  - **Guest mappers, storyboarders, and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and helping others identify the main contributors of any given beatmap set.
+  - **You must use the Source field if the song comes from, is remixed from or specifically fan-made for a video game, movie, or series.** Website names are not an acceptable Artist nor Source. 
+  - **If the artist or title field exceeds the uploadable maximum length, or both together cause Windows filenames for the `.osu` files to exceed 255 characters, any additional markers from the fields causing this have to be dropped consistently and if this is still not sufficient, the corresponding fields need to be abbreviated reasonably and end in `...` to signal that this song title has been shortened.**
+  - **Special characters that have both a full-width and half-width equivalent must retain their original printing forms if they are used in the unicode artist fields,** so that searching while copying and pasting the original song title is always possible. This does not apply to additional information that is printed in half-width to begin with because searching for these will be ambiguous no matter what.
+  
+- **The following conventions are enforced in order to standardise the general handling of metadata:**
+  - **If the song is a TV sized cut of a full song, use a standard `(TV Size)` tag at the end of the current title string.** If a TV size marker exists in the title, the standard marker would replace it.
+  - **For songs belonging to doujin circles, the circle name must be used over the vocalist or composer, unless these contributors are not part of the circle.** In these cases the priority falls on vocalist followed by composer for instrumental songs.
+  - **If a song or artist are referred to in multiple ways on official sources provided by the artist, the mapper is free to choose any of the romanisations.** The only exception to this is if the song already has a mapset in the Ranked Section, in which case the corresponding guideline applies to it.
+  - **If a track has more than 5 artists they must be substituted with `Various Artists`, similarly if a track is composed of 3 or more individual tracks, the title must be substituded to `<Descriptor> Compilation` unless all songs are part of an organised set of songs (such as an album) and that set only contains those songs, then the name of the set grouping the songs can be used instead.**
+  - **Commas, `vs.`, `&`, any variations of `feat./ft.`, `CV:` must always use a trailing whitespace.** If the marker is preceded by a word, whitespace is also required unless it is a comma.
+  - **Any form of `vs`. such as `Vs.`, `VS` and the likes are to be written as `vs.` only.**
+  - **Any form of `CV:` such as `CV,`, `Cv`, `Cv.` and the likes are to be written as `CV:` only.** If only the character is credited in any sources, the `CV:` marker has to be added to satisfy traceability to existing people. If such a marker is added to an artist, they must be added following the fictional character the character voice actor represents.
+  - **If the creator of the mapset has done major edits to the `.mp3`, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs must still be clearly indicated in order for players to be able to search for the original songs.
+  - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the `Romanised Artist` and `Romanised Title` fields within a `.osu` file.** ★ ☆ ⚝ ✩ ✪ ✫ ✬ ✭ 🟉 🟊 ✮ ✯ ✰ and the likes are substituded to an asterisk. Corner Brackets have to be written as quotation marks instead. Other special characters are to be romanised or dropped on case-by-case basis.
+
+
+- **Romanisation of characters and languages other than English are to be handled the following ways:**
+  - **When a song uses repeat words in the title where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
+  - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
+  - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
+  - **Romanise artist names in whichever order they are printed in the unicode fields.** The sole exception to this are artists widely known and using a differing English alias.
+  - **Songs with German metadata must romanise umlauts into two-letter equivalents (`ue`, `oe`, `ae` and `ss`).**
+  - **Songs with Russian metadata must be romanised using the Russian Romanisation method in romanised fields when there is no romanisation or translation information listed by a reputable source.** The same applies to the `Source` field if a romanised Source is preferred by the mapper.
+  - **Songs with Japanese metadata must use the Modified Hepburn Romanisation method in romanised fields.** The same applies to the `Source` field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. 
+  - **Songs with Chinese metadata are to be handled with respect to the tones and dialects of Chinese they belong to using character-by-character romanisation method with the exception of artist names.** In any case, all diacritical tone marks must be omitted:
+    - **Mandarin metadata must be romanised using the Hanyu Pinyin system.** 
+    - **Cantonese metadata must be romanised by using the Jyutping system.** 
+    - **If the song falls into neither category, this choice is left up to the mapper's discretion.**
+
+### Guidelines
+
+- **If multiple beatmap sets of the same song that you are mapping exist in the Ranked section already, their metadata should be followed unless they contain major errors and official sources state something completely different.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
+- **When a song is covered by a different artist and has metadata varying from the original song,** use common sense to determine whether the variation was a mistake or an intentional artist choice.
+- **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylized apply standard capitalisation unless you have reasons to do otherwise. 
+- **When the song has appeared in multiple medias, even after its initial release, it may use the source that the mapset is themed around (Backgrounds, Storyboards, Videos, etc.) as long as the song itself appeared in it.**
+- **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring such in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
+- **Brackets within artist or title fields should be separated from the other text surrounding it, unless there is obvious reason not to do so.** Reasoning like this would include syntactical use of brackets and the general typesetting of a song title or artist using them without whitespaces often and consistently across multiple platforms.
+- **Lenticular brackets should be romanised to either quotation marks or square brackets depending on the context they are used in.**
+- **If a series applicable to be used as a source is clustered into multiple sub-series, the most precise label should be prioritised.** 
+
 
 ## Timing
 
