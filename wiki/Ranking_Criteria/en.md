@@ -102,7 +102,12 @@ Glossary
     -   **Any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
 -   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
 -   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
--   **Excluding a mapset’s hardest difficulty, a difficulty’s name must accurately indicate its level of difficulty.** Conventional difficulty names vary between game modes, but any set of clearly progressive difficulty names can be alternatively used. Additionally, a mapset’s hardest difficulty should not use a misrepresentative difficulty name.
+-   **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
+    - The highest difficulty.
+    - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
+
+Custom naming must follow a common theme or pattern related to the song and must not be misrepresentative.
+
 -   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its mappers’ username or nickname. (e.g. Guest Mapper’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 -   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
 -   **A mapset host must have mapped equal or more drain time than any guest difficulty mappers.** This is to provide credit where credit is due.
