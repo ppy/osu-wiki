@@ -39,7 +39,7 @@ Si vous créez un compte durant vos vacances aux États-Unis, votre compte sera 
 
 L'équipe du support peut changer le pays de votre compte sur votre demande, **mais seulement si vous vivez activement dans ce pays.**
 
-Pour confirmer cela, l'équipe vous demandera une preuve de votre résidence - cela peut être un passeport, votre permis de conduire, ou autres formes d'identification. Il doit y avoir sur l'image votre écran avec le client *osu!* d'ouvert et authentifié avec votre compte.
+Pour confirmer cela, l'équipe vous demandera une preuve de votre résidence - cela peut être un passeport, votre permis de conduire, ou autres formes d'identification. Il doit y avoir sur l'image votre écran avec le client osu! d'ouvert et authentifié avec votre compte.
 
 Nous ne diffuserons jamais ces informations à d'autres personnes, et nous vous encourageons à supprimer toute information personnelle (cela ne nous empêchera pas de déterminer le pays pour lequel le document est destiné !) si vous souhaitez absolument conserver votre vie privée.
 
@@ -266,7 +266,7 @@ Si vous remarquez qu'un de vos composants dépasse les 90°C ou 194°F, votre or
 
 Pour voir quelle est la limite actuelle, essayez les étapes suivantes:
 
-1. Ouvrez *osu!*.
+1. Ouvrez osu!.
 2. Ouvrez le menu `Options` ou faites la combinaison `Control` + `O` par défaut.
 3. Écrivez `frame` pour ramener l'option de limite d'images par seconde.
 
@@ -335,7 +335,7 @@ Nous vous suggérons aussi de nettoyer vos périphériques. Un cheveu ou une pou
 
 Pour l'activer, essayez les étapes suivantes:
 
-1. Ouvrez *osu!*.
+1. Ouvrez osu!.
 2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
 3. Écrivez `raw` dans la recherche rapide pour vous retrouver tout de suite dans l'option.
 4. Cliquez sur le bouton radio `Contourner le pilote du dispositif de pointage`.
@@ -384,7 +384,7 @@ Vous pouvez aussi forcer le jeu à se mettre à jour.
 
 **Cela peut être changé dans le menu Options du jeu.**
 
-1. Ouvrez *osu!*.
+1. Ouvrez osu!.
 2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
 3. Écrivez `release` dans la recherche rapide.
 4. Assurez-vous que le menu déroulant indique `Stable (Latest)` pour recevoir les dernières versions stables du jeu.
@@ -393,7 +393,7 @@ Vous pouvez aussi forcer le jeu à se mettre à jour.
 
 **Vous pouvez forcer le jeu à se mettre à jour via le menu d'options.**
 
-1. Ouvrez *osu!*.
+1. Ouvrez osu!.
 2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
 3. Écrivez `update` dans la recherche rapide.
 4. Cliquez sur le bouton `Lancer le logiciel de mise à jour`.
@@ -404,7 +404,7 @@ Vous pouvez forcer le jeu à se mettre à jour en créant un fichier nommé `hel
 
 **Vous avez supprimé ou perdu d'importantes polices d'écritures système fournies avec l'installation Windows. Ce n'est probablement pas le seul problème que vous devriez recontrer !**
 
-Si vous avez cette erreur en ouvrant *osu!* ou son logiciel de mise à jour, cela signifie que vous avez supprimé ou perdu d'importantes polices d'écriture système fournies avec Windows. Ces polices sont utilisées par Windows, vous devriez donc aussi rencontrer des problèmes comme de mauvaises polices, des textes manquants, et autres crashs d'applications dans votre système.
+Si vous avez cette erreur en ouvrant osu! ou son logiciel de mise à jour, cela signifie que vous avez supprimé ou perdu d'importantes polices d'écriture système fournies avec Windows. Ces polices sont utilisées par Windows, vous devriez donc aussi rencontrer des problèmes comme de mauvaises polices, des textes manquants, et autres crashs d'applications dans votre système.
 
 Voici une collection de polices communément utilisées dans différentes versions de Windows:
 
@@ -599,7 +599,7 @@ La touche par défaut pour cette fonctionnalité est `C`, et ça fonctionnera ta
 
 Ça sauvegardera votre brillant score dans un fichier `.osr` dans le dossier /Replays/ du dossier d'installation d'osu!
 
-*osu!* sauvegarde aussi automatiquement tous les replays après que vous complétez une musique se situant sous le dossier `/Data/r/`, lui aussi dans le dossier d'installation d'osu!.
+osu! sauvegarde aussi automatiquement tous les replays après que vous complétez une musique se situant sous le dossier `/Data/r/`, lui aussi dans le dossier d'installation d'osu!.
 
 Sachez que si aucun replay n'a été sauvegardé pour le score, vous ne serez pas capable d'en avoir un.
 

@@ -60,7 +60,7 @@ Grupos de Usuarios
 | [Developers](https://osu.ppy.sh/g/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
 | [Support Team Redux](/wiki/People/Support_Team) | Asistencia en foros de ayuda |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Te ayudamos a disfrutar de *osu!*, empezando por asegurar la calidad de los beatmaps. |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Te ayudamos a disfrutar de osu!, empezando por asegurar la calidad de los beatmaps. |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"

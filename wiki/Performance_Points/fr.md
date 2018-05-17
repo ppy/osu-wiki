@@ -1,7 +1,7 @@
 Points de Performance
 ==================
 
-Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'*osu!*
+Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!
 
 Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en _pp_, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
 
