@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu!taiko World Cup - Finals Recap!"
-date: 2018-05-16 00:00:00 +0000
+date: 2018-05-17 17:00:00 +0000
 ---
 The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. 
 
 ![](/wiki/shared/news/2018-05-07-twc-finals-recap/podium.png)
 
-**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC. We won't go over their matches in this recap. You can read about the situation [in this thread](https://osu.ppy.sh/community/forums/topics/743380).**
+**Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC. We won't go over their matches in this recap, but you can read about the situation [in this thread](https://osu.ppy.sh/community/forums/topics/743380).**
 
 ### Finals Matches
 
@@ -43,10 +43,12 @@ We saw some mid-seeded teams really step up this year. Hong Kong taking Canada t
  
 [osulive on Twitch](https://www.twitch.tv/osulive) is where you can watch the past matches, in case you missed them.
 
+[The Grand Finals can also be viewed here](https://youtu.be/1m3A_Fh6gSk).
+
 For more information surrounding the tournament, you can check out [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).  
  
 Now then, it's time to set our sights on the next event, which is the osu!catch World Cup 2018 starting in June. Feel free to hype it up in [the discussion thread](https://osu.ppy.sh/community/forums/topics/739799) while we wait.
  
- **Until next year, keep hitting those dons and kats, and we'll see you around!**
+**Until next year, keep hitting those dons and kats, and we'll see you around!**
  
- —Eiuh
+—Eiuh
