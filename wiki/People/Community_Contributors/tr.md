@@ -6,9 +6,9 @@ Topluluk İştirakçıları
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 
-**Topluluk İştirakçıları** [*osu!*](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
+**Topluluk İştirakçıları** [osu!](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-Eskiden osu!takım üyeleri olan ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp *osu!* ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
+Eskiden osu!takım üyeleri olan ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp osu! ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
 
 Bu tabloda bu rozete sahip mevcut kullanıcılar listelenmiştir:
 
@@ -19,7 +19,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/forum/p
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](http://osu.ppy.sh/forum/t/108092) (tekrar `.osr`'sinden video dosyasına) |
-| [nanashiRei](https://osu.ppy.sh/u/807630) | *osu!*'nun çalışan en büyük alternatif beatmap arşivinin sahibi ve bakıcısı. [Alternatif beatmap arşivi](https://osu.yas-online.net/). |
+| [nanashiRei](https://osu.ppy.sh/u/807630) | osu!'nun çalışan en büyük alternatif beatmap arşivinin sahibi ve bakıcısı. [Alternatif beatmap arşivi](https://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Oyun istemcisi ve geri kalan her şeye (saymakla bitmez) grafik katısı. |
 | [Ballance](https://osu.ppy.sh/u/165946) | [Başarım](/wiki/Achievements) simgeleri. |
 | [akrolsmir](https://osu.ppy.sh/u/576800) | Topluluk tarafından oluşuturmuş en popüler üçüncü-parti beatmap modlama yazılımı olan [AIBat](https://osu.ppy.sh/forum/t/55305)'ın geliştiricisi. |

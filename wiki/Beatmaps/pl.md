@@ -69,4 +69,4 @@ Te beatmapy oryginalnie posiadały status [oczekującej](#oczekujące), ale zost
 
 Żadna z nieaktualizowanych beatmap nie wpływa na statystyki użytkowników.
 
-Aby zachować miejsce na dysku dla nowszych beatmap, *osu!* będzie automatycznie usuwało nieaktualizowane beatmapy, jeżeli posiadają ten status od dłuższego czasu.
+Aby zachować miejsce na dysku dla nowszych beatmap, osu! będzie automatycznie usuwało nieaktualizowane beatmapy, jeżeli posiadają ten status od dłuższego czasu.

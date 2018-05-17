@@ -1,7 +1,7 @@
 Performance Points
 ==================
 
-The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like *osu!*.
+The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
 
 It aims to shift the focus of skill progression from the amount of time played to an **actual representation of the player's skill.** This is attained by the calculation of a unique _pp_ score, based on the difficulty of a beatmap and a player's performance on that map.
 

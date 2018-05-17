@@ -1,6 +1,6 @@
 # Chat Konsole
 
-Fast überall in *osu!* kann die Chat Konsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat` Tabs (unten rechts) aktiviert werden.
+Fast überall in osu! kann die Chat Konsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat` Tabs (unten rechts) aktiviert werden.
 
 ![Chat Konsole im Hauptmenü](Chatconsole1.png "Chat Konsole im Hauptmenü")
 
@@ -15,7 +15,7 @@ Fast überall in *osu!* kann die Chat Konsole durch das Betätigen der `F8`-Tast
 |**Rot**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") Mitglied |
 |**Grün**   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet.                           |
 |**Blau**   | Private Nachrichten                                                                                                                                                                                     |
-|**Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von *osu!*                                                                                                                                       |
+|**Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von osu!                                                                                                                                       |
 |**Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                          |
 
 -   `Show Ticker` Tab: Zeigt die neusten Nachrichten am unteren Bildschirmrand an, auch wenn die Chat Konsole nicht sichtbar ist.
@@ -24,11 +24,11 @@ Fast überall in *osu!* kann die Chat Konsole durch das Betätigen der `F8`-Tast
 
 ## Erweiterte Chat Konsole
 
-Fast überall in *osu!* kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users` Tabs (unten rechts) die Chat Konsole erweitert werden. Als Zusatz zu der Chat Konsole wird ein Panel von Online-Usern aufgelistet, die zeigen, was jemand gerade tut.
+Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users` Tabs (unten rechts) die Chat Konsole erweitert werden. Als Zusatz zu der Chat Konsole wird ein Panel von Online-Usern aufgelistet, die zeigen, was jemand gerade tut.
 
 ![Erweiterte Chat Konsole](Chat_Console-Extended.png "Erweiterte Chat Konsole")
 
-Von jedem Spieler, der in *osu!* eingeloggt ist, erscheint ein Panel im erweiterten Chat Konsolen Fenster. Standardmäßig wird im Panel folgende Informationen angezeigt: Name, Performance Points, Total Ranked Score, Accuracy, Play Count und Avatar. Wenn der Mauszeiger über dem Panel bewegt wird, werden andere Informationen anzeigt: Name, lokale Uhrzeit, Avatar und Herkunftslandes.
+Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel im erweiterten Chat Konsolen Fenster. Standardmäßig wird im Panel folgende Informationen angezeigt: Name, Performance Points, Total Ranked Score, Accuracy, Play Count und Avatar. Wenn der Mauszeiger über dem Panel bewegt wird, werden andere Informationen anzeigt: Name, lokale Uhrzeit, Avatar und Herkunftslandes.
 
 -   `Filter` Tab: Die Panels lassen sich nach `All`, `Friends`, `Nearby` und `Country` filtern.
     -   `All`: Alle Panels werden ungefiltert angezeigt.
@@ -92,7 +92,7 @@ Drücke entweder auf das jeweilige Tab oder die dazugehörige Zahl:
 | `/msg [Benutzername] [Nachricht]`                         | Sende eine private Nachricht an `[Benutzername]`. | `/msg Deimos Ich bin sooooo schlecht.` | (Aus Deimos' Sichtweise) Phobos: Ich bin sooooo schlecht.
 | `/np`                                                     | Nennt das derzeitige Lied, was du gerade hörst, spielen, oder beim Zuschauen gespielt wird.                                                                                                                  | `/np`                | (Wenn du die Beatmap spielst) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (Wenn du dir die Beatmap anhörst) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (Wenn du jemanden oder Autoplay zuschaust) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
 | `/reply`                                                  | Antwortet zur zuletzt erhaltenen Nachricht. | `/r Wie werde ich besser?` | (Aus Deimos' Sichtweise) [Vorherige Kommentare] Phobos: Man, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
-| `/savelog`                                                | Speichert den derzeitg ausgewählten Chat Tab in einer Textdatei ab. | `/savelog` | (Ein Ordner mit dem Namen "Chat" wird im *osu!* Verzeichnis erstellt, welches alle zukünftigen abgespeicherten Logs aufbewahrt.) |
+| `/savelog`                                                | Speichert den derzeitg ausgewählten Chat Tab in einer Textdatei ab. | `/savelog` | (Ein Ordner mit dem Namen "Chat" wird im osu! Verzeichnis erstellt, welches alle zukünftigen abgespeicherten Logs aufbewahrt.) |
 | `/watch [Benutzername]`                                   | Beginnt `[Benutzername]` zuzusehen. | `/watch Deimos` | * Started spectating Deimos. (Wenn Deimos eine Beatmap spielt, die du auch hast, dann wirst du ihm nach etwas Buffering beim Spielen zusehen. Dein Name erscheint dann an der linken Seite.) |
 | `/nopm`                                                   | Schalter, um private Nachrichten von allen oder nur von Freunden zu bekommen. | `/nopm` | Eine Nachricht wird in der Mitte des Bildschirms erscheinen, was dir mitteilt, ob du nun private Nachrichten von allen oder nur von Freunden bekommst. |
 | `/invite [Benutzername]`                                  | Ladet `[Benutzername]` zum Mutliplayer Lobby ein. | `/invite Deimos` | * Deimos has been invited to the game |

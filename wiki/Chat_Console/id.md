@@ -15,7 +15,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 | Merah        | Anggota [Tim Moderasi Global](/wiki/People/Global_Moderation_Team/ "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/People/Quality_Assurance_Team/ "Quality_Assurance_Team")                                   
 | Hijau        | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di kanal yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru         | Pesan Pribadi                                                                                  |
-| Biru Terang  | [peppy](https://osu.ppy.sh/u/2 "peppy"), pembuat *osu!*                                                                               |
+| Biru Terang  | [peppy](https://osu.ppy.sh/u/2 "peppy"), pembuat osu!                                                                               |
 | Merah Muda   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                            |
 
 -   Klik `Show Ticker` untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol obrolan tidak terlihat/terbuka.
@@ -26,11 +26,11 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 *[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi/ "Bermain Bersama").*
 
-Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring *osu!*
+Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-Setiap pengguna yang masuk ke dalam *osu!* mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
+Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
 
 -   **Friends** hanya menampilkan daftar teman kamu.
 -   **Lock Panels** untuk mengunci panel.

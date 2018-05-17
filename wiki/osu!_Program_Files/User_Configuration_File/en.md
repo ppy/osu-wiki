@@ -32,19 +32,19 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `SkinSamples`        | Toggles `Use skin samples` in-game.          |
 | `ComboFire`          | Toggles Combo Fire on and off. This option cannot be changed in-game.|
 | `Precision` | Used to toggle `Enable mouse precision` in-game. The option no longer exists, and has been replaced by RawInput.|
-| `Width`              | Width of your *osu!* in windowed mode. Change this to set custom window widths.|
-| `Height`             | Height of your *osu!* in windowed mode. Change this to set custom window heights. |
-| `WidthFullscreen`    | Width of your *osu!* when using fullscreen mode.|
-| `HeightFullscreen`   | Height of your *osu!* when using fullscreen mode.|
+| `Width`              | Width of your osu! in windowed mode. Change this to set custom window widths.|
+| `Height`             | Height of your osu! in windowed mode. Change this to set custom window heights. |
+| `WidthFullscreen`    | Width of your osu! when using fullscreen mode.|
+| `HeightFullscreen`   | Height of your osu! when using fullscreen mode.|
 | `Offset` | Universal offset.                                       |
 | `EditorTip`          | Shows which editor tip will display next.   |
 | `MenuTip`            | Shows which menu tip will display next.     |
 | `Fullscreen`         | Toggles `Fullscreen Mode` in-game.          |
-| `OnlineDefault`      | Used to toggle whether *osu!* would use online or local scoreboard. The option longer exists, and has been replaced by RankMode.|
+| `OnlineDefault`      | Used to toggle whether osu! would use online or local scoreboard. The option longer exists, and has been replaced by RankMode.|
 | `Video`              | Toggles "Background Video" in-game.          |
 | `NotifySubmittedThread`| Automatically checks the `Receive email notification on reply` box when submitting your map via BSS.|
 | `AutoChatHide`       | Toggles `Automatically hide chat during gameplay` in-game.|
-| `FrameSync`                   | Determines which frame limiter *osu!* will use.                                                                                                                                                              |
+| `FrameSync`                   | Determines which frame limiter osu! will use.                                                                                                                                                              |
 | `DisableWheel`                 | Toggles `Disable mouse wheel in play mode` in-game.                                                                                                                                                         |
 | `DisableButtons`               | Toggles `Disable mouse buttons in play mode` in-game.                                                                                                                                                       |
 | `SaveReplay`                   | Used to automatically check `Save replay` on the ranking screen. The option no longer exists; replays are always saved.                                                                                    |
@@ -69,12 +69,12 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `ComboBurst`                   | Toggles `Combo Bursts` in-game.                                                                                                                                                                             |
 | `AbsoluteScroll`               | Used to toggle `Absolute Scrolling` in song select. The option no longer exists; absolute scrolling was implemented permanently. Use right click in the Song Select screen anywhere in vertical direction. |
 | `HoverSelect`                  | Used to toggle `Hover Select` in song select. The option no longer exists; hover select was removed entirely.                                                                                              |
-| `HoverReturn`                  | Used to toggle `Hover Return` in song select. The option no longer exists; *osu!* always returns from a hover now.                                                                                           |
-| `SkipTablet`                   | Disables *osu!*'s special tablet handling code. This option cannot be changed in-game.                                                                                                                        |
+| `HoverReturn`                  | Used to toggle `Hover Return` in song select. The option no longer exists; osu! always returns from a hover now.                                                                                           |
+| `SkipTablet`                   | Disables osu!'s special tablet handling code. This option cannot be changed in-game.                                                                                                                        |
 | `DisplayCityLocation`          | Toggles `Share your city location with others` in-game.                                                                                                                                                     |
 | `ChatHighlightName`            | Toggles `Show a notification popup when someone says your name` in-game.                                                                                                                                    |
-| `Display`                      | Remembers which screen *osu!* should open on, for users with multiple monitors.                                                                                                                              |
-| `Renderer`                     | Which renderer *osu!* uses - OpenGL or DirectX.                                                                                                                                                              |
+| `Display`                      | Remembers which screen osu! should open on, for users with multiple monitors.                                                                                                                              |
+| `Renderer`                     | Which renderer osu! uses - OpenGL or DirectX.                                                                                                                                                              |
 | `FpsCounter`                   | Toggles `Show FPS Counter` in-game.                                                                                                                                                                         |
 | `DistanceSpacingEnabled`       | Remembers whether or not distance snap is enabled in the editor.                                                                                                                                           |
 | `FriendsOnly`                  | Toggles `Block private messages from non-friends` in-game.                                                                                                                                                  |
@@ -85,7 +85,7 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `YahooIntegration`             | Toggles `Integrate with Yahoo! status display` in-game.                                                                                                                                                     |
 | `HighlightWords`               | Contains everything in `Chat highlight words` in-game.                                                                                                                                                      |
 | `HitLighting`                  | Toggles `Hit Lighting` in-game.                                                                                                                                                                             |
-| `ScreenshotFormat`             | Whether *osu!* will save screenshots as `.png` or `.jpeg`.                                                                                                                                                       |
+| `ScreenshotFormat`             | Whether osu! will save screenshots as `.png` or `.jpeg`.                                                                                                                                                       |
 | `LobbyShowPassworded`          | Multiplayer lobby filter settings.                                                                                                                                                                         |
 | `LobbyShowExistingOnly`        |
 | `LobbyShowFriendsOnly`         |
@@ -99,7 +99,7 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `Wiimote`                      | Use *Wiimote* toggle                                                                                                                                                                                         |
 | `ChatAudibleHighlight`         | Enable/disable sound notifications when highlighted                                                                                                                                                        |
 | `ChatPrivateTabs`              | Display private messages in separate chat tabs                                                                                                                                                             |
-| `Language`                     | Language that *osu!* will use                                                                                                                                                                                |
+| `Language`                     | Language that osu! will use                                                                                                                                                                                |
 | `ChatChannels`                 | Displays a list of chat channels you've used                                                                                                                                                               |
 | `MyPcSucks`                    | Disables all fancy graphics settings. Should only be needed if your PC is very old                                                                                                                         |
 | `NotifyFriends`                |                                                                                                                                                                                                            |
@@ -183,7 +183,7 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `RefreshRate`                  |                                                                                                                                                                                                            |
 | `CustomFrameLimit`             | Set a custom frame limit                                                                                                                                                                                   |
 | `LobbyShowInProgress`          |                                                                                                                                                                                                            |
-| `keyBossKey`                   | Hotkey to minimize *osu!* to the task bar                                                                                                                                                                    |
+| `keyBossKey`                   | Hotkey to minimize osu! to the task bar                                                                                                                                                                    |
 | `ShowUnicode`                  |                                                                                                                                                                                                            |
 | `BlockNonFriendPM`             | Enables you to only receive messages from your friends                                                                                                                                                     |
 | `BossKeyFirstActivation`       |                                                                                                                                                                                                            |
@@ -206,7 +206,7 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `RawInput`                     | Raw input toggle                                                                                                                                                                                           |
 | `ScoreMeterScale`              | Changes the size of the score meter if it's enabled                                                                                                                                                        |
 | `MenuSnow`                     | Let it snow                                                                                                                                                                                                |
-| `BeatmapDirectory `            | Tells *osu!* what folder to store maps in                                                                                                                                                                    |
+| `BeatmapDirectory `            | Tells osu! what folder to store maps in                                                                                                                                                                    |
 | `FastEditor`                  |                                                                                                                                                                                                            |
 | `LoadSubmittedThread`          | BSS option to open page linked to submitted map's thead                                                                                                                                                    |
 | `ShowMenuTips`                 | Enable menu tips                                                                                                                                                                                           |

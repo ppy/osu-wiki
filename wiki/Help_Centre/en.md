@@ -236,7 +236,7 @@ You can also try forcing the game to update.
 
 **This can be changed via the in-game options menu.**
 
-1. Open *osu!*.
+1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `release` into the quick-search to jump straight to the option.
 4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
@@ -245,7 +245,7 @@ You can also try forcing the game to update.
 
 **You can force the game to update via the options menu.**
 
-1. Open *osu!*.
+1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `update` into the quick-search to jump straight to the option.
 4. Click the `Run osu! updater` button.
@@ -533,7 +533,7 @@ This helps to identify your own messages from everyone else's. There is no optio
 
 To check what your frame limiter is set to, follow these steps:
 
-1. Open *osu!*.
+1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `frame` into the quick-search to bring up the frame limiter options.
 
@@ -597,7 +597,7 @@ We also suggest ensuring your peripherals are clean and free from dirt or debris
 
 To enable raw input, follow these steps:
 
-1. Open *osu!*.
+1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `raw` into the quick-search to jump straight to the option.
 4. Click the `Raw input` radio button.

@@ -111,7 +111,7 @@ Before viewing the `skin.ini` commands below, here are some notes.
 
 *tl;dr `0 = no` and `1 = yes`*
 
-Some commands only accept a boolean value (a `true` or a `false` value). When skinning, *osu!* is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
+Some commands only accept a boolean value (a `true` or a `false` value). When skinning, osu! is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
 
 Here is a classic example:
 
@@ -143,7 +143,7 @@ A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
 
 ### Sections
 
-*osu!* organizes the commands with a heading command. Which may look like this `[General]`. *osu!* only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
+osu! organizes the commands with a heading command. Which may look like this `[General]`. osu! only uses five sections throughout the skin.ini file, which are indicated with the section headers below.
 
 ## \[General\]
 
