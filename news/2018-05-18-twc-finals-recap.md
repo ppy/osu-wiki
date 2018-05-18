@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "osu!taiko World Cup - Finals Recap!"
-date: 2018-05-17 17:00:00 +0000
+date: 2018-05-18 04:00:00 +0000
 ---
-The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. 
 
-![](/wiki/shared/news/2018-05-07-twc-finals-recap/podium.png)
+The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for the gold medal has left us with one winning team, but definitely not in the dominant fashion that was expected. Read on to find out more!
+
+![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 **Note: Due to an unfortunate situation surrounding foul play, team United States has forfeited out of the TWC. We won't go over their matches in this recap, but you can read about the situation [in this thread](https://osu.ppy.sh/community/forums/topics/743380).**
 
