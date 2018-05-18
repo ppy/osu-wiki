@@ -1,6 +1,6 @@
 # Apakah Anda benar-benar ingin bertanya kepada peppy?
 
-Hai, Saya ([peppy](/users/2 "peppy")) memahami keinginan Anda untuk menghubungi saya secara pribadi, tetapi saya meminta Anda untuk pertama-tama memahami bahwa Anda menghubungi saya dengan tujuan **bukan** untuk meminta bantuan/disamakan dengan layanan dukungan. Saya memutuskan untuk memisahkan layanan dukungan osu! terpisah dengan pesan pribadi, dan juga sadar bahwa menjawab PM dari forum sangat sulit untuk mengimbanginya. Karena itu saya meminta Anda melakukan salah satu opsi berikut:
+Hai, Saya ([peppy](/users/2 "peppy")) memahami keinginan Anda untuk menghubungi saya secara pribadi, tetapi saya meminta Anda untuk pertama-tama memahami bahwa Anda menghubungi saya dengan tujuan **bukan** untuk meminta bantuan/disamakan dengan layanan dukungan. Saya memutuskan untuk memisahkan layanan dukungan osu! terpisah dengan pesan pribadi, dan juga sadar bahwa menjawab Pesan Pribadi dari forum sangat sulit untuk mengimbanginya. Karena itu saya meminta Anda melakukan salah satu opsi berikut:
 
 ## Layanan Dukungan Teknis
 
@@ -12,4 +12,4 @@ Untuk masalah akun dan pembayaran, pelarangan tindak lanjut, pertanyaan mengenai
 
 ## Menghubungi peppy
 
-Jika Anda ingin menghubungi peppy secara pribadi untuk kebutuhan di luar osu!, Anda dapat mengirim email kepada peppy ke alamat [pe@ppy.sh](mailto:pe@ppy.sh). Harap perhatikan bahwa permintaan layanan dukungan atau layanan akun apa pun yang terkait dengan email yang Anda kirim akan ditandai sebagai spam.
+Jika Anda ingin menghubungi peppy secara pribadi untuk kebutuhan di luar osu!, Anda dapat mengirim email kepada peppy ke alamat [pe@ppy.sh](mailto:pe@ppy.sh). Harap perhatikan bahwa permintaan perihal layanan ataupun hal yang terkait dengan osu! akan ditandai sebagai spam.
