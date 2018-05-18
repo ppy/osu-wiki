@@ -1,43 +1,23 @@
----
-outdated: true
----
-Bagaimana cara saya mendaftar?
-------------------------------
+# Pendaftaran
 
-<center>
-**<font size="3">Tolong diingat bahwa kamu hanya boleh mempunyai satu akun! 2 akun atau lebih adalah pelanggaran keras dari <span class="plainlinks"> [peraturan osu!](/wiki/Rules)</span>. Ikuti langkah di bawah ini untuk membuat akun osu!mu.**</font>
-<span style="font-size:18px">1.Pergi ke <span class="plainlinks"> [website](https://osu.ppy.sh)</span> dan klik "<b>I'm new!</b>" untuk melanjutkan ke formulir pendaftaran. </span>
+*Harap diperhatikan bahwa memiliki lebih dari satu akun osu! merupakan salah satu pelanggaran terhadap [peraturan osu!](/wiki/Rules/).*
 
-<span style="font-size:18px">2. Isilah formulir di bawah ini kemudian tekan "Continue" </span>
+1. Setelah [menginstal](/wiki/installation) osu! dan menjalankannya, osu! akan meminta Anda untuk masuk atau mendaftar. Dengan asumsi bahwa Anda memerlukan akun untuk bisa masuk, klik `Create an account` dan biarkan osu! tetap terbuka. Seharusnya Anda akan diarahkan ke halaman [Create Account](https://osu.ppy.sh/p/register).
 
-| <b>Legenda</b>                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Nama Pengguna**                                                                                                                        |
-| a. Maksimal 15 karakter                                                                                                                     |
-| b. Karakter angka dan huruf ("a-z, A-Z, 0-9"), garis bawah ("\_"), kurung kotak, ("\[" and "\]") dan tanda hubung ("-") yang diperbolehkan. |
-| **2. Alamat E-mail**                                                                                                                        |
-| **3. <b>Kata Sandi</b>**                                                                                                                    |
-| **4. Catatan**                                                                                                                              |
-| **5. Tombol "Continue"**                                                                                                                    |
+![Formulir pendaftaran yang berada di situs web](img/register.jpg "Formulir pendaftaran osu!")
 
-<span style="font-size:18px">3. Masuk ke osu! dan kamu pun siap! </span>
+2. Isi semua kolom dalam formulir yang telah disediakan.
+   - Untuk kolom nama pengguna, ada maksimum sebanyak 15 karakter, yang hanya bisa berupa karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), kurung kotak (`[` dan `]`), setrip (-), dan spasi (` `).
+   - Untuk kolom alamat email, gunakan email Anda. Email ini akan digunakan untuk mengatur ulang kata sandi Anda dan menerima kode verifikasi saat dibutuhkan, jadi jangan masukkan email yang tidak pernah Anda gunakan.
+   - Untuk kolom kata sandi, gunakan kata sandi yang panjangnya minimal 8 karakter.
+3. Setelah tahap ini selesai, tekan `Continue` kemudian kembali ke osu!
+4. Masuk untuk menyelesaikan tahap pendaftaran.
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
+## Apa selanjutnya?
+------------
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
+Jangan lupa untuk membaca [peraturan](/wiki/Rules) yang berlaku dengan sangat hati-hati!
 
-| Legenda                 |
-|-------------------------|
-| **1. Program osu!.exe** |
-| **2. Panel Opsi**       |
-| **3. Panel Pengguna**   |
+Setelah tahap di atas selesai, Anda siap memulai petualangan ritme Anda! Anda dapat [menambahkan beatmap](/wiki/installation#adding-beatmapsets) untuk mulai bermain, [membuat skin](/wiki/skinning), atau bahkan [membuat beatmap](/wiki/beatmapping). Anda juga bisa mampir dan berkata, "Hai", di [subforum Introductions](/community/forums/8).
 
-</center>
-Apa yang harus dilakukan selanjutnya?
--------------------------------------
-
-Kamu telah siap untuk memulai petualanganmu, jadi kunjungilah halaman [ini](ID:Welcome "wikilink") dan jangan lupa untuk membaca [Peraturan](ID:Rules "wikilink")!
-
-Jika kamu membutuhkan bantuan dalam permainan, kamu dapat bergabung di kanal \#help dengan mengetik "/join \#help" dan kemudian tanyakanlah pertanyaanmu. (dalam bahasa inggris)
-
-*Rhythm is just a click away*, jadi bersenang-senanglah!
+Jika Anda membutuhkan bantuan lebih lanjut dalam game, Anda dapat bertanya melewati [IRC](/wiki/IRC) di kanal `#help` (Internet Relay Chat) dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Anda juga dapat mengirim pertanyaan Anda di subforum [Help](/community/forums/5).
