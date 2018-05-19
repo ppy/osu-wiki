@@ -6,7 +6,7 @@ Kebanyakan channel-channel yang ditampilkan di osu! memiliki moderatornya masing
 Daftar moderator bahasa spesifik (terkini)
 ------------------------------------------
 
-| channel | Subforum | Operator Obrolan |
+| Channel | Subforum | Operator Obrolan |
 | ------- | -------- | --------- |
 | `#arabic` | | |
 | `#balkan` | [Balkan](https://osu.ppy.sh/forum/t/83962) | [OnosakiHito](https://osu.ppy.sh/u/290128), [Stefan](https://osu.ppy.sh/u/626907) |
