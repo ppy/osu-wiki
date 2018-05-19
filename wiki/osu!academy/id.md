@@ -41,7 +41,7 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 | ![](img/Academy_23.png) | [Episode 23](https://www.youtube.com/watch?v=MxlB__wjt9A "Episode 23") | Dalam episode ini, kita akan membicarakan fitur baru yang baru saja tersedia untuk komunitas modding, yaitu community modding bersama Shiro! |
 | ![](img/Academy_24.png) | [Episode 24](https://www.youtube.com/watch?v=pq33jvMitRk "Episode 24") | kita akan membahas bagaimana cara meningkatkan kemampuan streaming bersama Kyonko Hizara! |
 | ![](img/Academy_25.png) | [Episode 25](https://www.youtube.com/watch?v=sgcdrxevAT4 "Episode 25") | Dalam episode ini, kita akan membicarakan tim staff osu! sedikit lagi! |
-| ![](img/Academy_26.png) | [Episode 26](https://www.youtube.com/watch?v=y61v2QCHlpY "Episode 26") | Episode osu!academy berikut dipersembahkan oleh iklan layanan masyarakat! |
+| ![](img/Academy_26.png) | [Episode 26](https://www.youtube.com/watch?v=y61v2QCHlpY "Episode 26") | Episode osu!academy kali ini dibawakan melalui sebuah pengumuman pelayanan publik kepada anda! |
 | ![](img/Academy_27.png) | [Episode 27](https://www.youtube.com/watch?v=nXWA1Qh9bT8 "Episode 27") | Episode osu!academy berikut dipersembahkan oleh iklan layanan masyarakat! |
 | ![](img/Academy_28.png) | [Episode 28](https://www.youtube.com/watch?v=PEZFOM8NKtw "Episode 28") | Dalam episode ini, kita akan membahas dasar-dasar forum seperti di mana seharusnya kita membuat kiriman dan berperilaku yang benar! |
 | ![](img/Academy_29.png) | [Episode 29](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Episode 29") | Dalam episode ini, kita akan membahas dasar-dasar storyboard! |
