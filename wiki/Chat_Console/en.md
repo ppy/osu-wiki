@@ -1,6 +1,6 @@
 # Chat Console
 
-From most screens in *osu!* you can press `F8` or click the `Show Chat` button on the lower right to overlay the Chat Console on the lower third of the screen.
+From most screens in osu! you can press `F8` or click the `Show Chat` button on the lower right to overlay the Chat Console on the lower third of the screen.
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
@@ -15,7 +15,7 @@ From most screens in *osu!* you can press `F8` or click the `Show Chat` button o
 | **Red**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") member      |
 | **Green**  | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue**   | Private Message                                                                                                                                                                                          |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), the creator of *osu!*                                                                                                                                            |
+| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), the creator of osu!                                                                                                                                            |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                           |
 
 -   Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.
@@ -26,7 +26,7 @@ From most screens in *osu!* you can press `F8` or click the `Show Chat` button o
 
 *[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
-From most screens in *osu!* you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in *osu!*
+From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in osu!
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 

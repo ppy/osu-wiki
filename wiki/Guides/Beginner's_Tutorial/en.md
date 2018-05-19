@@ -1,7 +1,7 @@
 # Beginner
 
 
-Welcome to the *osu!* beginner tutorial. The world of *osu!* can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in *osu!*, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of *osu!*.
+Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in osu!, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of osu!.
 
 Types of Input
 --------------
@@ -30,7 +30,7 @@ Mouse play tends to struggle with:
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play *osu!* with, you should check out the [Tablet purchase](/wiki/List_of_Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/List_of_Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
 -   Precise movement and speed.
@@ -59,7 +59,7 @@ Gameplay Techniques
 
 ### Accuracy and Timing
 
-One of the most important factors when playing *osu!* is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
+One of the most important factors when playing osu! is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
 
 Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognize whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
 
@@ -67,9 +67,9 @@ Music works in beats and rhythms. When you start a map (or even before you play)
 
 ### Aiming
 
-In a point-and-click game like *osu!*, aiming is also another important factor. Being able to get the notes at the right time is pretty pointless without being able to get your cursor to the right location. In this case, the most effective way to improve in this sector is to simply play the game. It also helps to play harder and harder maps, since the spacing between notes will likely get bigger, making you move around more and tap the notes from wider distances.
+In a point-and-click game like osu!, aiming is also another important factor. Being able to get the notes at the right time is pretty pointless without being able to get your cursor to the right location. In this case, the most effective way to improve in this sector is to simply play the game. It also helps to play harder and harder maps, since the spacing between notes will likely get bigger, making you move around more and tap the notes from wider distances.
 
-The best way you can practice for aiming without playing *osu!* is using your computer with input device of your own choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
+The best way you can practice for aiming without playing osu! is using your computer with input device of your own choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
 
 ### Speed
 
@@ -77,7 +77,7 @@ Eventually, when you get to harder difficulties, you will need to click the note
 
 ### Practice
 
-Another heavy topic is the fact that *osu!* is a game with an infinitely rising difficulty curve, meaning there is no "winning" the game. Instead, you'll be focused on improving yourself constantly. Instead of playing one map over and over, you will need to eventually move onto other maps once you start outclassing their difficulty.
+Another heavy topic is the fact that osu! is a game with an infinitely rising difficulty curve, meaning there is no "winning" the game. Instead, you'll be focused on improving yourself constantly. Instead of playing one map over and over, you will need to eventually move onto other maps once you start outclassing their difficulty.
 
 The best way to improve is to challenge yourself. The only way you will get used to more and more tenacious difficulties is by exploring past your boundaries. Playing a map that makes you miss quite a few times grants ultimately more gameplay experience than playing many that you can get a full combo on or even get an SS rank on. This works much like an MMORPG, the harder the enemy, the more experience you will get for it.
 
@@ -90,7 +90,7 @@ Getting more out of Gameplay
 
 *See also [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).*
 
-Depending on the devices you use to play *osu!* with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
 In the [Offset Wizard](/wiki/Options/Universal_Offset), which you can access from the [Settings](/wiki/Options/) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
 
@@ -102,13 +102,13 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 *See also [Options](/wiki/Options/#mouse).*
 
-A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into *osu!* itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
+A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 
 ### Skins
 
 *See also [Skinning](/wiki/Skinning/).*
 
-There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing *osu!* easier on the eyes. Or, if you prefer to not have a lot of the *osu!* HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of *osu!* and make your experience while climbing up the ranks a little nicer. ;)
+There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
 
 ## Beginner Maps
 
@@ -153,4 +153,4 @@ Want to push yourself and take on a challenge? Try these!
 
 ## Going Beyond
 
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their *osu!* world adventure begun. Lastly, but most importantly, have fun!
+Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!

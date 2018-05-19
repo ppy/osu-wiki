@@ -69,4 +69,4 @@ Estes beatmaps estiveram inicialmente como [pendentes](#pending), mas não foram
 
 Beatmaps enterrados não afetam as estatísticas individuais do usuário.
 
-Sob o pretexto de salvar espaço de armazenamento para beatmaps novos, *osu!* irá expurgar beatmaps enterrados automaticamente caso eles permaneçam nesse status por um longo período de tempo.
+Sob o pretexto de salvar espaço de armazenamento para beatmaps novos, osu! irá expurgar beatmaps enterrados automaticamente caso eles permaneçam nesse status por um longo período de tempo.

@@ -4,7 +4,7 @@
 
 ## Beatmap Packs
 
-**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
+**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!/) Modus von osu! gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -21,8 +21,8 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
 - Der Spielmodus muss der [osu!](/wiki/Game_Modes/osu!/) Modus sein.
-- Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den *osu!* Song Ordner. Starte *osu!* und spiel die Maps. Das ist alles.
-  - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den *osu!* Song Ordner und erstelle nicht einen neuen Ordner dafür.
+- Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den osu! Song Ordner. Starte osu! und spiel die Maps. Das ist alles.
+  - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den osu! Song Ordner und erstelle nicht einen neuen Ordner dafür.
   - Die Beatmaps können auch einzeln heruntergeladen und gespielt werden.
 - Beatmaps vom selben Lied aber anderen Erstellern zählen nicht. Ausschließlich die aufgelistete Beatmap wird gewertet.
 - Man muss mit seinem Account im Spiel angemeldet sein. Nur auf der Webseite angemeldet zu sein, reicht nicht aus.
@@ -55,7 +55,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ## Skill
 
-Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im *osu!* Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
+Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im osu! Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
 
 Neben den Komboerfolgen gibt es noch weitere 20 Erfolge für jeden Spielmodi (osu!, osu!taiko, osu!catch und osu!mania), die in 3 Gruppen aufgeteilt sind: **Rank**, **Pass** und **Perfect**.
 
