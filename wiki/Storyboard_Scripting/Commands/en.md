@@ -53,10 +53,10 @@ where:
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
 ![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
-Basic command
+Basic commands
 -------------------
 
-These are the fundamental command for any object. The command are easy to use and only requires minor calculation.
+These are the fundamental commands for any object. The commands are easy to use and only requires minor calculation.
 
 ### Fade (F) Command
 
@@ -141,10 +141,10 @@ So,
 -   x-coordinate: 320
 -   y-coordinate: (240 overwritten with) -100 -> 580
 
-Advanced command
+Advanced commands
 -----------------
 
-These are extra command for an object to use. These command are quite advanced, so consult with others or experiment yourself before use.
+These are extra commands for an object to use. These commands are quite advanced, so consult with others or experiment yourself before use.
 
 ### Scale (S) Command
 
@@ -241,7 +241,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,CC,CC,0
 ```
 
-Extra command
+Extra commands
 -----------------
 
 ### Parameter (P) Command
