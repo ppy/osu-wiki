@@ -167,7 +167,15 @@ The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507).
 
 The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
 
-The title of an article must never be escaped; otherwise, the backslashes will show up on the website.
+The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.
+
+#### Whitespace
+
+One empty line between two bodies of text is parsed as two separate paragraphs. Adding more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line.
+
+#### Line breaks
+
+Inserting two trailing spaces at the very end of a line is parsed as a line break. Line breaks are not allowed in the osu! wiki.
 
 ### Hatnotes
 
@@ -550,6 +558,10 @@ Some tools for beautifying tables are:
   - this will require you to use [VS Code](https://code.visualstudio.com/)
 - [Markdown Table Formatter](http://markdowntable.com/)
   - alignment syntax (`:`) will not parse correctly
+
+### Blockquotes
+
+Usage of blockquotes is limited to quoting text from someone. It must not be used to format text.
 
 ### Horizontal bar
 
