@@ -197,8 +197,8 @@ So,
 
 where:
 
--   (start_rotate) is the scale factor at starttime
--   (end_rotate) is the scale factor at endtime
+-   (start_rotate) is the rotation at starttime
+-   (end_rotate) is the rotation at endtime
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
@@ -225,7 +225,7 @@ _R,0,47210,47810,0,-25.133
 where:
 
 -   (start_r),(start_g),(start_b) is the colour at starttime
--   (end_r),(end_g),(end_b) is the scale factor at endtime
+-   (end_r),(end_g),(end_b) is the colour at endtime
 
 For example, to make an object appear as a shadow (entirely black) and fade into its actual colour:
 
