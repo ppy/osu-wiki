@@ -8,8 +8,8 @@ Di sini, Anda dapat membuat topik atau kiriman baru dan berdiskusi bersama dalam
 ## Subforum
 
 - [osu!](https://osu.ppy.sh/community/forums/1): _Bahasan seputar osu!_
-  - [Development](https://osu.ppy.sh/community/forums/2): _Ayo bawa osu! selangkah lebih maju. Diskusikan proyek, ide-ide baru, periklanan dan berita, rapat dan sebagainya._
-    - [Completed Projects](https://osu.ppy.sh/community/forums/116): _Proyek yang telah selesai dapat diarsipkan dan didiskusikan di sini._
+  - [Development](https://osu.ppy.sh/community/forums/2): _Ayo bawa osu! selangkah lebih maju. Diskusikan proyek, ide-ide baru, periklanan, berita, rapat dan sebagainya._
+    - [Completed Projects](https://osu.ppy.sh/community/forums/116): _Proyek yang telah selesai akan diarsipkan dan dapat didiskusikan di sini._
       - [osu! iPhone](https://osu.ppy.sh/community/forums/47)
         - [Bug Reports](https://osu.ppy.sh/community/forums/50)
     - [Community Voice](https://osu.ppy.sh/community/forums/65): _Jajak pendapat mingguan untuk membantu kami memahami komunitas kami sedikit lebih baik._
@@ -23,7 +23,7 @@ Di sini, Anda dapat membuat topik atau kiriman baru dan berdiskusi bersama dalam
     - [Taiko](https://osu.ppy.sh/community/forums/105)
     - [Catch the Beat](https://osu.ppy.sh/community/forums/106)
     - [osu!mania](https://osu.ppy.sh/community/forums/107)
-  - [Skinning](https://osu.ppy.sh/community/forums/15): _Diskusikan skinning dan kustomisasi!_
+  - [Skinning](https://osu.ppy.sh/community/forums/15): _Diskusikan tentang skinning dan kustomisasi!_
     - [Completed Skins](https://osu.ppy.sh/community/forums/109)
   - [Feature Requests](https://osu.ppy.sh/community/forums/4): _Sarankan apa yang Anda inginkan di osu!._
     - [Completed Requests](https://osu.ppy.sh/community/forums/30): _Permintaan yang telah dikabulkan diletakkan di sini dengan damai._
@@ -49,7 +49,7 @@ Di sini, Anda dapat membuat topik atau kiriman baru dan berdiskusi bersama dalam
       - [Mafia](https://osu.ppy.sh/community/forums/84): _Mafia, Werewolf, dan game sejenis lainnya dapat ditemukan di sini!_
     - [Surveys](https://osu.ppy.sh/community/forums/114): _ANGGAP INI ADALAH ASK.FM DAN TANYAKAN PERTANYAAN YANG TIDAK DIPEDULIKAN SEMUA ORANG_
   - [Introductions](https://osu.ppy.sh/community/forums/8): _Perkenalkan dirimu!_
-  - [Music Hall](https://osu.ppy.sh/community/forums/91): _Diskusi musik di luar dunia osu!_
+  - [Music Hall](https://osu.ppy.sh/community/forums/91): _Diskusikan musik di luar dunia osu!_
   - [Otaku Culture](https://osu.ppy.sh/community/forums/75): _Diskusikan Anime, Manga, dan topik terkait Otaku lainnya di sini._
   - [Video Games](https://osu.ppy.sh/community/forums/17): _Diskusikan semua permainan di luar osu! di sini. Hal yang didiskusikan termasuk permainan ritme lainnya._
   - [Art](https://osu.ppy.sh/community/forums/103): _Posting karya Anda, temukan avatar baru dan masih banyak lagi!_
