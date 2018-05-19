@@ -184,32 +184,32 @@ Características (osu!mania)
 
 ![Divisor de ritmo (osu!mania ver.)](img/BEM_BSD.jpg "Divisor de ritmo (osu!mania ver.)")
 
-***Main Article: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
+***Articulo principal: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
-**In layman's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).** Since osu!mania highly prioritise every timing of the notes, **Time signature** (MM:B) from the Timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (-8:-3 for example) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
+**En terminos simples, ajustar la longitud dada de un hilo de color (sección de tiempo) para un espacio de diseño de bordado (medidas, dividido por los divisores que se llamaran beats) en la tela (canción).** Ya que osu!mania prioriza mucho cada sincronización de las notas, **Signatura de compás** (MM:B) desde la sección de Tiempo se agrega (15:3 = 15a medida 3ra pulsación) al lado de la barra de ajuste para facilitar la referencia del mapper. Puede ir a un valor negativo (-8:-3 por ejemplo) si la primera sección de tiempo está a *unos segundos de distancia* del inicio del archivo de la canción del Beatmap.
 
-**Insert Break Time** button will put/stop "Break Time" in current timestamp. Beside the button is the **short sound file name storyboarded to the selected(blue) note**, known as **keysound** (refer to "Sampling" section at the end of this page).
+El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca de tiempo actual. Al lado del botón se encuentra el **nombre breve del archivo de sonido grabado en la nota (azul) seleccionada**, conocido como **sonido de tecla** (consulte la sección "Muestreo" al final de esta página).
 
-### Centre-Left (Selector)
+### Centro Izquierda (Selector)
 
-**Your construction toolkit osu!mania ver., made for DIY.**
+**Su kit de herramientas de construcción versión osu!mania, hecho para "hacerlo tu mismo"**
 
-**Please note that in osu!mania's default notes hitsound works different with Standard/osu!**
+**Ten en cuenta que el sonido predeterminado de las notas de osu!mania funcionan de manera diferente con Standard/osu!**
 
-- adding clap on a notes will only play 'hitclap' sound instead of 'hitclap' *' + hitnormal*' sound on hit while in osu!mania :
+- Al agregar aplausos en las notas, solo se reproducirá el sonido 'hitclap' en lugar de 'hitclap' *'+ hitnormal*' al golpear mientras está en osu!mania :
 
-![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
+![Selector de notas de golpeo (osu!mania ver.)](img/BEM_HO.jpg "Selector de notas de golpeo (osu!mania ver.)")
 
 
 #### Selector
 
-| Buttons / Header (Keyboard Shortcut) | Usage | Description |
+| Botones / Titulo (Atajo de teclado) | Uso | Descripción |
 | ------------------------------------ | ----- | ----------- |
 | Sampleset | Auto, Normal, Soft, Drum | Change the Sampleset ignoring the current one on timing section. Ex : Timing **Drum 66%**, while this Sampleset is **Soft**, will play all related **Soft** sound on the notes like clap , normal , finish, whistle with 66% volume. |
-| Additions | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
-| Select (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
-| Circle (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
-| Hold (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
+| Adiciones | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
+| Seleccionar (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
+| Circulo (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
+| Mantener (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
 
 ### Centre (Playfield)
 
