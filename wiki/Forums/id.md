@@ -52,7 +52,7 @@ Di sini, Anda dapat membuat topik atau kiriman baru dan berdiskusi bersama dalam
   - [Music Hall](https://osu.ppy.sh/community/forums/91): _Diskusikan musik di luar dunia osu!_
   - [Otaku Culture](https://osu.ppy.sh/community/forums/75): _Diskusikan Anime, Manga, dan topik terkait Otaku lainnya di sini._
   - [Video Games](https://osu.ppy.sh/community/forums/17): _Diskusikan semua permainan di luar osu! di sini. Hal yang didiskusikan termasuk permainan ritme lainnya._
-  - [Art](https://osu.ppy.sh/community/forums/103): _Posting karya Anda, temukan avatar baru dan masih banyak lagi!_
+  - [Art](https://osu.ppy.sh/community/forums/103): _Posting karya terbaik Anda, temukan avatar baru dan masih banyak lagi!_
 - [Language Specific](https://osu.ppy.sh/community/forums/23)
   - [Русский](https://osu.ppy.sh/community/forums/35): _Russian_
   - [中文](https://osu.ppy.sh/community/forums/25): _Chinese_
