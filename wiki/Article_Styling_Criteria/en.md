@@ -151,7 +151,7 @@ While editing, sentences are to be in a paragraph form, not in single lines. For
 Don't:
 osu!lazer is a development build that you can download.
 It will one day be the successor of the previous osu! client.
-Please, do **not** send the development team any issues you are facing, as things are still subject to change.
+Please, **do not send the development team any issues you are facing,** as things are still subject to change.
 
 Do:
 osu!lazer is a development build that you can download. It will one day be the successor of the previous osu! client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
@@ -207,7 +207,7 @@ Beatmapping is the process of a creator creating a beatmap. This process include
 
 #### For see
 
-For see hatnotes are similar to see also, but may help reduce ambiguation and is more descriptive. For example:
+For see hatnotes are similar to see also, but may help reduce ambiguation and usually are more descriptive. For example:
 
 ```
 # Installation
@@ -217,7 +217,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and is
 
 #### Notice
 
-A notice can be placed where appropriate and must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices must start off the paragraph and use italics. These are written as complete sentenes, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
+A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentenes, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
 
 ```
 *Note: You will need a decent internet connection to connect to Bancho and submit scores.*
@@ -227,7 +227,7 @@ Note is something that the reader should be made aware about, but only applies a
 
 ### Emphasizing
 
-*Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
+*Note: Misuse of emphasis will reduce its effectiveness.*
 
 When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
 
@@ -341,9 +341,17 @@ Internal links are the links linking within the website.
 
 ##### Wiki links
 
-All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting.
+All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. For example:
 
-You could use a redirect to shorten a link a bit further.
+```
+[Welcome](/wiki/Welcome)
+```
+
+You could use a redirect to shorten a link a bit further. For example:
+
+```
+[BN](/wiki/BN)
+```
 
 ##### Other osu! webpages
 
@@ -364,22 +372,24 @@ When linking to a user profile, use the user's id number instead of their userna
 ```
 Don't:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111)
-[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)
+[Agent Spin Here](/users/Agent%20Spin%20Here)
+[peppy](/users/peppy)
 
 Do (okay):
 [osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")
-[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")
+[Agent Spin Here](https://osu.ppy.sh/users/41481)
 
 Do (preferred):
-[Andrea](https://osu.ppy.sh/users/33599 "Andrea")
-[Mashley](https://osu.ppy.sh/users/41481 "Mashley")
+[Andrea](https://osu.ppy.sh/users/33599)
+[Mashley](https://osu.ppy.sh/users/41481)
+[peppy](/users/2)
 ```
 
 Whenever possible, with exception, use the current user's name rather than their previous name(s).
 
 ---
 
-To get a user's id number:
+To get a user's id:
 
 1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
 2. Press `Enter`
@@ -394,6 +404,8 @@ Whenever linking to a beatmap, use this format as the link text:
 ```
 
 When linking to a beatmap, make sure that the link actually links to that difficulty. All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/beatmaps/{BeatmapID}`.
+
+The difficulty name can be left outside of the link text, but must be consistent.
 
 ##### Beatmapsets
 
@@ -656,7 +668,7 @@ Tournament articles are an exception to this and can use camel case (omit the sp
 
 #### Gameplay elements
 
-**Gameplay elements are never capitalised.** For example:
+Gameplay elements are never capitalised. For example:
 
 - In osu!standard, beatmaps are composed of three different gameplay elements: **hit circles**, **sliders**, and **spinners**.
 
@@ -676,7 +688,7 @@ When writing the name of the game modes, they are to be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-*Note: To maintain consistency, never use `osu!` to refer to the game mode `osu!standard`.* However, folder names must use `osu!`, not `osu!standard`, when referring to the game mode.
+*Note: To maintain consistency, never use `osu!` to refer to the game mode `osu!standard`. However, folder names must use `osu!`, not `osu!standard`, when referring to the game mode.*
 
 You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
@@ -706,7 +718,7 @@ These words are spelt as follows (note the spacing):
 
 ### Abbreviations, acronyms, and initialisms
 
-When using abbreviations, acronyms, and/or initialisms, it is important to note what they mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
+When using abbreviations, acronyms, and/or initialisms, it is important to note what they mean upon their first occurrence. After writing out their meaning on the first occurrence, it is no longer necessary to repeat their meanings throughout the entire article. For example:
 
 ```
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
@@ -717,7 +729,7 @@ All abbreviations, acronyms, and/or initialisms **must be capitalised**. For exa
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
 - `DT` for `Double Time`
-- `ASC` for `Article Styling Criteria`
+- `SBS` for `Storyboard Scripting`
 
 ---
 
@@ -752,7 +764,7 @@ When listing a start and an end date, list the start date first, followed by a f
 
 ### Serial comma
 
-*The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
+*Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
 
 When a list consists of 3 or more items in a sentence, use the serial comma. For example:
 
