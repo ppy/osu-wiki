@@ -130,7 +130,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 | Finish (`E`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usar sonido de finalización en esta nota | Agrega un sonido final (platillos) a la selección. |
 | Clap (`R`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usa un sonido de aplauso en esta nota | Agrega una adición de sonido de aplauso a la selección. |
 
-#### Assist Tools
+#### Herramientas de ayuda
 
 | Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
@@ -138,53 +138,53 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 | Ajuste de distancia (`Y`) | **`Alt` (Mantener):** Alterna temporalmente. Cambia el divisor de ritmo por el ajuste de distancia **`Alt` + Rueda del mouse:** Ajuste el multiplicador de ajuste de distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Se usa mejor cuando la línea de tiempo está en pausa. |
 | Bloquear notas (`L`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
 
-### Bottom (Song's Timeline)
+### Parte inferior (Linea de tiempo de la Canción)
 
-![Song's Timeline](img/BE_HSAT.jpg "Song's Timeline")
+![Linea de tiempo de la Canción](img/BE_HSAT.jpg "Linea de tiempo de la Canción")
 
-At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
+**Abajo a la izquierda**, está la **marca de tiempo** en milisegundos (ms) y **la duración de la canción** en porcentaje. El porcentaje puede cambiarse a "introducción" o "outro" si hay un guion gráfico antes o después de la música.
 
-At the **bottom-centre**, there is a **timeline** with markings and the compulsory music player buttons. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
+En la zona **central inferior**, hay una **línea de tiempo** con marcas y los botones del reproductor de música. El botón `Test` a la derecha de la línea de tiempo guardará tú Beatmap y luego podrás probarlo, comenzando en la marca de tiempo actual.
 
-#### Colour markers
+#### Marcadores de color
 
-| Colour | Description |
+| Color | Descripción |
 | ------ | ----------- |
-| Bright White Long	| Current test section |
-| Yellow Long | Preview point. |
-| Yellow up	| Start of Drain time. |
-| Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
-| Red up | Timing Points. (See Timing Setup) |
-| Blue Down |Bookmark |
+| Blanco brillante largo	| Sección de prueba actual |
+| Amarillo largo | Punto de vista previa |
+| Amarillo arriba	| Inicio del tiempo de drenaje |
+| Verde arriba | Puntos heredados. (Ver [Configuración de sincronización](/wiki/Beatmap_Editor/Timing)) |
+| Rojo arriba | Marcas de tiempo. (Ver configuración de tiempo) |
+| Azul abajo | Marcador |
 
-#### Colour Highlights
+#### Aspectos destacados del color
 
-| Colour | Description |
+| Color | Descripción |
 | ------ | ----------- |
-| Grey | Break Time |
-| Orange | Kiai Time |
+| Gris | Descanso |
+| Naranjo | Momento Kiai |
 
-#### Bookmarking command
+#### Comandos de marcadores
 
-| Shortcut | Description |
+| Atajo | Descripción |
 | -------- | ----------- |
-| `Ctrl` + `B` | Add bookmark at current location. |
-| `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
-| `Ctrl` + `Right` Arrow | Next bookmark. |
-| `Ctrl` + `Left` Arrow	| Previous bookmark. |
+| `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
+| `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
+| `Ctrl` + `Right` Flecha | Siguiente marcador. |
+| `Ctrl` + `Left` Flecha	| Marcador anterior. |
 
-At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
+**Abajo a la derecha** se puede ajustar la **Tasa de reproducción** en **valores por cuartos**
 
-Features (osu!mania)
+Características (osu!mania)
 -----------------------
 
-(The top-left hitobjects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/forum/t/118868) [Mapping & Keysound](https://osu.ppy.sh/forum/t/139139)
+(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/forum/t/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/forum/t/139139)
 
-### Top-Right (Beat Snap Divisor)
+### Esquina superior derecha (Divisor de ritmo)
 
-![Beat Snap Divisor (osu!mania ver.)](img/BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
+![Divisor de ritmo (osu!mania ver.)](img/BEM_BSD.jpg "Divisor de ritmo (osu!mania ver.)")
 
-***Main Article: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
+***Main Article: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
 **In layman's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).** Since osu!mania highly prioritise every timing of the notes, **Time signature** (MM:B) from the Timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (-8:-3 for example) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
 
