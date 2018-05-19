@@ -131,6 +131,18 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 
 **HTML use is prohibited!** If you need to use any HTML for any reason, you must reconsider the layout you are using.
 
+##### HTML entities
+
+*For more information about HTML entities, see [Entity - Glossary (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Entity)*
+
+HTML character entites should be used sparingly. If used however, prefer the character over the entity. For example:
+
+```
+Don't: the bestest free-to-win rhythm game&trade;
+
+Do:    the bestest free-to-win rhythm game™
+```
+
 ### Raw text editing
 
 While editing, sentences are to be in a paragraph form, not in single lines. For example:
