@@ -5,7 +5,7 @@
 **osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
 Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini. 
-Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan kanal YouTube-nya.
+Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
 
 [Berikut merupakan trailernya](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
@@ -13,7 +13,7 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 
 | Thumbnail Episode | Tautan | Deskripsi |
 |----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](img/Academy_1.png) | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1") | Dalam episode ini, kita akan membahas cara penginstalan dan pembuatan akun! |
+| ![](img/Academy_1.png) | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1") | Dalam episode ini, kita akan membahas cara memasang osu! dan membuat sebuah akun |
 | ![](img/Academy_2.png) | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2") | Dalam episode ini, kita akan membahas gameplay standard dan bagaimana mengubah pengaturan gaya bermain! |
 | ![](img/Academy_3.png) | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3") | Dalam episode ini, kita akan membahas mode permainan osu!mania bersama LoliFlan! |
 | ![](img/Academy_4.png) | [Episode 4](https://www.youtube.com/watch?v=6WKZE2HPOK8 "Episode 4") | Dalam episode ini, kita akan membahas mode permainan CtB |
@@ -24,7 +24,7 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 | ![](img/Academy_7-2.png) | [Episode 7-2](https://www.youtube.com/watch?v=8nsbrOhLE9w "Episode 7-2") | Dalam episode ini, kita akan membahas bagaimana mengatur timing beatmap Anda! |
 | ![](img/Academy_7-3.png) | [Episode 7-3](https://www.youtube.com/watch?v=MhIuPvQjLbU "Episode 7-3") | Dalam episode ini, kita akan membahas grid dan apa fungsi mereka! |
 | ![](img/Academy_8.png) | [Episode 8](https://www.youtube.com/watch?v=PFEYlQfiJHQ "Episode 8") | Dalam episode ini, kita akan membahas bagian penting dari mapping yang dapat membuat map lebih baik atau buruk: pemberian hitsound! |
-| ![](img/Academy_9.png) | [Episode 9](https://www.youtube.com/watch?v=bTGBspoMFVA "Episode 9") | Dalam episode ini, kita akan membahas modding beatmap! |
+| ![](img/Academy_9.png) | [Episode 9](https://www.youtube.com/watch?v=bTGBspoMFVA "Episode 9") | Dalam episode ini, kita akan membahas tentang modding beatmap! |
 | ![](img/Academy_10.png) | [Episode 10](https://www.youtube.com/watch?v=bTGBspoMFVA "Episode 10") | Dalam episode ini, kita akan melanjutkan pembahasan sebelumnya mengenai modding beatmap! |
 | ![](img/Academy_11.png) | [Episode 11](https://www.youtube.com/watch?v=j8fpJKCjTvM "Episode 11") | Dalam episode ini, kita akan membahas beberapa tips dan trik saat bermain standard! |
 | ![](img/Academy_12.png) | [Episode 12](https://www.youtube.com/watch?v=8reEFNk5kQY "Episode 12") | Dalam episode ini, kita akan melihat kembali editor, tetapi untuk mode permainan lainnya! |
@@ -46,12 +46,12 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 | ![](img/Academy_28.png) | [Episode 28](https://www.youtube.com/watch?v=PEZFOM8NKtw "Episode 28") | Dalam episode ini, kita akan membahas dasar-dasar forum seperti di mana seharusnya kita membuat kiriman dan berperilaku yang benar! |
 | ![](img/Academy_29.png) | [Episode 29](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Episode 29") | Dalam episode ini, kita akan membahas dasar-dasar storyboard! |
 | ![](img/Academy_30.png) | [Episode 30](https://www.youtube.com/watch?v=EvICgPuOylk "Episode 30") | Dalam episode ini, kita akan membahas storyboard tingkat lanjut! |
-| ![](img/Academy_31.png) | [Episode 31](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Episode 31") | Dalam episode ini, we will go further in-depth about guest difficulties and other beatmap contributions! |
+| ![](img/Academy_31.png) | [Episode 31](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Episode 31") | Dalam episode ini, kita akan membahas lebih dalam tentang guest diff dan kontribusi beatmap lainnya |
 | ![](img/Academy_32.png) | [Episode 32](https://www.youtube.com/watch?v=wa_hNegtBw0 "Episode 32") | Dalam episode ini, kita akan membahas sistem ranking terbaru! |
 | ![](img/Academy_33.png) | [Episode 33](https://www.youtube.com/watch?v=_-Xke2bqzok "Episode 33") | Dalam episode ini, kita akan membahas tips editor tingkat lanjut! |
 
 ## Tautan Eksternal
 
 - Sumber: <https://new.ppy.sh/post/70504430082/introducing-the-osu-academy>
-- Kanal YouTube resmi: <https://www.youtube.com/user/osuacademy/videos>
+- Channel YouTube resmi: <https://www.youtube.com/user/osuacademy/videos>
 - Forum diskusi resmi: <https://osu.ppy.sh/community/forums/topics/169707>
