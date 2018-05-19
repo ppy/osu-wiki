@@ -126,7 +126,7 @@ Memang banyak, lebih banyak beatmapper dari moderator, dan jika *mereka* ceroboh
 
 Moderator akan memberikan mod pada beatmap apapun, tetapi hanya jika beatmapmu menunjukkan usaha dan kepedulian yang telah kamu berikan dalam pembuatannya.
 
-Kamu juga dapat mencoba mengangkat thread beatmapmu lewat Sistem Pengajuan Beatmap (hanya gunakan beberapa hari sekali) atau pergi ke kanal \#modreqs osu dan mintalah beatmapmu untuk dimod.
+Kamu juga dapat mencoba mengangkat thread beatmapmu lewat Sistem Pengajuan Beatmap (hanya gunakan beberapa hari sekali) atau pergi ke channel \#modreqs osu dan mintalah beatmapmu untuk dimod.
 
 Setelah beatmapmu mendapatkan saran awal, meresponnya tepat waktu, menunjukkan niat untuk meningkatkan beatmapmu untuk dirank akan membantunya mendapat perhatian moderator terhadap beatmapmu.
 
