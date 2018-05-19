@@ -44,7 +44,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
 - Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
-- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+- Help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web) (this is the permanent solution). If you need help translating the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
 #### Outdated pages
 
