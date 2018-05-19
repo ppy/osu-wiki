@@ -411,17 +411,13 @@ The markup for images is similar for [links](#links). The differences are that y
 
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
 
-#### Metadata
-
-To maintain consistency between all images on the osu! wiki, all images must adhere to the following image standards.
-
 #### Formats and quality
 
-Images used in the osu! wiki must be in JPG format at quality 8 (80). If the image contains transparency or needs to have its text be readable, use the PNG format instead. The `.gif` format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
+Images used in the osu! wiki must be in JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or needs to have its text be readable, use the PNG format instead. The `.gif` format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
 
 ##### File size
 
-Images must be under 2 megabytes or they will fail to load.
+Images must be under 2 megabytes or they will fail to load, downscaling and using JPG at 80% is almost always under the size limit.
 
 #### File names
 
@@ -440,6 +436,8 @@ Installing osu! is easy. First, download the installer from the download page.
 
 Then locate the installer and run it.
 ```
+
+There is no way to "float" an image or have text wrap around an image. If the image is inline with the raw text, the image is parsed inline with the text.
 
 #### Alternate and title text
 
