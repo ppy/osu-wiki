@@ -46,7 +46,7 @@ Keep in mind, it is intended that the osu! wiki will try to give readers their s
 - Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
 - Help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web) (this is the permanent solution). If you need help translating the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
-#### Outdated pages
+#### Outdated articles
 
 If you are updating an English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup for this is as follows:
 
@@ -60,9 +60,9 @@ This is to be placed at the very top of the translation files to flag them as be
 
 *Note for translators: When you have updated your language's version of said article, do not change the boolean to `false`, but instead omit the `outdated` mark (as it appears above).*
 
-#### Tagging pages
+#### Tagging articles
 
-Tagging pages will help the website's search engine query articles better. It is unlikely that you'll need to do this, but the markup is as follows:
+Tagging articles will help the website's search engine query articles better. It is unlikely that you'll need to do this, but the markup is as follows:
 
 ```
 ---
@@ -75,7 +75,7 @@ tags:
 
 You should only need to include words that aren't found in the article.
 
-#### Outdated and tagged pages
+#### Outdated and tagged articles
 
 *Note for translators: Do delete the `outdated` mark, but do not delete the tags.*
 
@@ -111,13 +111,13 @@ Folder names should not use characters that require percent encoding. Those char
 
 The name of an article file can be found in the `File Name` column of [locales](#locales). The location of a translation is to be placed in the appropriate English-named folder.
 
-### Index pages
+### Index articles
 
-All folders must contain a page of some kind, even if they are index pages that link to their subfolders. Index pages must link to their own subfolders and could contain descriptions of what each link links to.
+All folders must contain a page of some kind, even if they are index articles that link to their subfolders. Index articles must link to their own subfolders and could contain descriptions of what each link links to.
 
-### Disambiguation pages
+### Disambiguation articles
 
-[Disambiguation](/wiki/Disambiguation) pages must be placed in the `/wiki/Disambiguation` folder.
+[Disambiguation](/wiki/Disambiguation) articles must be placed in the `/wiki/Disambiguation` folder.
 
 ## Markdown
 
@@ -731,4 +731,4 @@ When referring to the player, use `the player` or `a player`. **Never use `he`/`
 
 Articles that talk directly to the reader may use the word `you`.
 
-**Never use the first person perspective (`I`) in any articles,** even if they are ported guides that had once used first person.
+Never use the first person perspective (`I`) in any page, even if they are ported guides that had once used first person.
