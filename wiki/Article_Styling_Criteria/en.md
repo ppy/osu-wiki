@@ -612,12 +612,35 @@ When writing about a topic that has an article, **never capitalise it unless it 
 
 #### Game modifiers
 
-**Game modifiers must be capitalised.** For example:
+Game modifiers must be spelt as seen below (note the letter casing and spacing):
 
-- `Hard Rock`
-- `Nightcore`
-- `Double Time`
-- `Easy`
+- `Easy Mode`, `Easy`, or `EZ`
+- `No Fail` or `NF`
+- `Half Time` or `HT`
+- `Daycore` or `DC`
+- `Hard Rock` or `HR`
+- `Sudden Death` or `SD`
+- `Perfect` or `PF`
+- `Double Time` or `DT`
+- `Nightcore` or `NC`
+- `Fade In` or `FI`
+- `Hidden` or `HD`
+- `Flashlight` or `FL`
+- `Relax` or `RL`
+- `Auto Pilot` or `AP`
+- `Target Practice` or `TP`
+- `Spun Out` or `SO`
+- `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K`, and `9K`
+- `Co-op` or `CO`
+- `Random` or `RD`
+- `Auto` or `AT`
+- `Cinema` or `CM`
+- `Touch Device` or `TD`
+
+Tournament articles are an exception to this and can use camel case (omit the space but keep their letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below:
+
+- `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
+- `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
 
 #### Gameplay elements
 
