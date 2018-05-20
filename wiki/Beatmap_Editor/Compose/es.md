@@ -291,7 +291,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | Ajuste de Distancia (`Y`) | **`Alt` (Mantener):** Temporalmente activado. Cambia el Divisor de ritmo por el Ajuste de Distancia **`Alt` + Rueda del ratón:** Ajusta el multiplicador del Ajuste de Distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Mejor uso mientras la línea de tiempo está en pausa. |
 | Bloquear Notas (`L`) | ("Select" en una Nota de Golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
 
-Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (se mostrará una ventana emergente con muestras de sonido dentro de tu carpeta delBeatmap). Consulta la sección "Muestreo" al final de la página.
+Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (se mostrará una ventana emergente con muestras de sonido dentro de tu carpeta del Beatmap). Consulta la sección "Muestreo" al final de la página.
 
 ### Parte Inferior (Linea de Tiempo de la Canción)
 
@@ -315,41 +315,41 @@ Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota
 
 ![Ventana emergente del Muestreo (Windows 8's ver.)](img/Sample_omc.jpg "Ventana emergente del Muestreo (Windows 8's ver.)")
 
-El **Muestreo** es el proceso de **agregar sonido a la nota.** Para comenzar, selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (Se mostrará una ventana emergente con muestras de sonido dentro de su carpeta delbeatmap).
+El **Muestreo** es el proceso de **agregar sonido a la nota.** Para comenzar, selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (Se mostrará una ventana emergente con muestras de sonido dentro de su carpeta del beatmap).
 
 #### Importación de Muestreo
 
-**Sección izquierda ** es la ** lista de archivos de sonido que tienes en la carpeta de beatmap. **
+La **Sección izquierda** es la **lista de archivos de sonido que tienes en la carpeta del beatmap.**
 
-**Right-section** is **settings for the selected sound file.**
+La **Sección Derecha** es **la configuración para el archivo de sonido seleccionado.**
 
-##### Basics
+##### Basico
 
-| Name | Description |
+| Nombre | Descripción |
 | ---- | ----------- |
-| CustomSet | **Ignoring** selected custom hitsound in this editor, and apply the **default** hitsound **SET** and volume without using timing point. ( Use basic sample must be enable in order to use this to be able to work as its intended )ex : added soft-hitwhistle77.wav with 90% volume.Note that you must add the whistle to the note manually as well. **Also this feature is not recommended while the normal APPLY function in this editor is easier to be used than this one while both of this basically works the same.** |
-| Volume | How loud you want this sound file be. Use integer value only. ( 8 - 100 ) |
-| Use basic sample | **Ignoring** selected custom hitsound in this editor , and apply only the volume on selected notes.This means , no matter what the notes is about, this feature only changes the selected notes volume.Ex : this can be used to change multiple volume on different notes with different hitsound sample at once or just enhance the default hitsound ignoring any timing point's volume setting. |
+| Conjunto personalizado | **Ignorando** el Hitsound personalizado seleccionado en este editor, y aplicando el **SET** de hitsound **predeterminado**,  y volumen sin usar el punto de tiempo. (El uso de la muestra básica debe estar habilitada para usar esto y que funcione como está previsto) Por ejemplo: agregó soft-hitwhistle77.wav con un volumen del 90%. Ten en cuenta que también debes agregar el whistle a la nota manualmente. **Además, esta característica no se recomienda debido a que la función APLICAR normal en este editor es más fácil de usar que esta, aunque ambas funcionen básicamente igual.** |
+| Volumen | Que tan fuerte quieres que sea este archivo de sonido. Usa solo valores enteros. (8 - 100) |
+| Usar muestra básica | **Ignorando** el hitsound personalizado seleccionado en este editor, y aplicando solo el volumen en las notas seleccionadas. Esto significa que, independientemente de las notas, esta función solo cambia el volumen de las notas seleccionadas. Ej: Esto puede usarse para cambiar múltiples volumenes en diferentes notas con diferente muestra de hitsound a la vez o simplemente mejorar el hitsound predeterminado ignorando la configuración de volumen de cualquier punto de tiempo. |
 
-##### Buttons
+##### Botones
 
-| Name | Description |
+| Nombre | Descripción |
 | ---- | ----------- |
-| Play | Play the selected sound file |
-| Import | Import the custom sound file from a subfolder inside the beatmap's folder |
-| Delete | **Delete the custom sound file.** To remove the sound file associated with the note, use the "Reset" button. |
-| Apply | Apply this selected custom sound file to this note. |
-| Sample | Put this selected custom sound file to the storyboard with respect to current timestamp. |
-| Sample list | Storyboarded sound files. Refer "Sample event list" below |
-| Reset | Remove the sound file associated with the note |
-| Cancel | Close the window. |
+| Reproducir | Reproduce el archivo de sonido seleccionado |
+| Importar | Importa el archivo de sonido personalizado desde una subcarpeta dentro de la carpeta de beatmap |
+| Eliminar | **Borra el archivo de sonido personalizado.** Para eliminar el archivo de sonido asociado con la nota, usa el botón "Reiniciar". |
+| Aplicar | Aplica este archivo de sonido personalizado seleccionado a esta nota. |
+| Muestra | Coloca este archivo de sonido personalizado seleccionado en el guión gráfico con respecto a la marca de tiempo actual. |
+| Lista de Muestras | Archivos de sonido con storyboarded. Consulta la "Lista de eventos de la muestra" a continuación. |
+| Reiniciar| Eliminar el archivo de sonido asociado con la nota |
+| Cancelar | Cierra la ventana. |
 
-#### Sample event list
+#### Lista de eventos de la muestra
 
-**Actual storyboarding**. Click on "Sample list" will summon another window (shown in right-side of the picture) named "Sample event list", which would be this. The two buttons should be self-explanatory (Delete = Delete the selected event. Close = Close the window). '''These storyboarded elements will go to the `.osu` file (the selected difficulty) '''
+**Storyboarding real**. Haz clic en "Lista de muestra" para hacer aparecer otra ventana (que se muestra en el lado derecho de la imagen) llamada "Lista de eventos de la muestra", que sería esta. Los dos botones deben ser autoexplicativos (Eliminar = Elimina el evento seleccionado. Cerrar = Cierra la ventana). ''' Estos elementos del storyboard pasarán al archivo `.osu` (en la dificultad seleccionada) '''
 
-The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Seconds:Milliseconds respectively.
+La codificación es `MM:SS:XXX` `{Sound_file}@{Volume}` donde MM:SS:XXX es Minutos:Segundos:Milisegundos respectivamente.
 
-**Example:** 1:57:745 kick.wav@100% means at 1 min 57 second 745th millisecond, trigger the "kick.wav" file at 100% volume regardless of condition.
+**Ejemplo:** 1:57:745 kick.wav@100% significa 1 min 57 segundos 745avo millisegundo, reproduce el archivo "kick.wav" al 100% del volumen, independientemente de la condición.
 
-[If this doesn't tickle your fancy, you can always go for the hardcore SBS way.](/wiki/Storyboard_Scripting/Miscellaneous)
+[Si esto no le hace cosquillas a tu fantasía, siempre puede optar por el estilo SBS.](/wiki/Storyboard_Scripting/Miscellaneous)
