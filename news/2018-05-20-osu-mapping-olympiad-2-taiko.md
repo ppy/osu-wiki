@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #2: osu!taiko"
-date: 2018-05-19 13:00:00 +0000
+date: 2018-05-20 13:00:00 +0000
 ---
 
 As osu!’s iteration of the Mapping Olympiad is wrapping up, it is time to bring another mode into the spotlight: osu!taiko! For the second contest in this series, we bring you an opportunity to become osu!taiko’s first ever Mapping Olympian and also claim the title of Elite Mapper!
@@ -24,7 +24,7 @@ To start off your Olympiad journey as a drum master, we have chosen a song by fe
 ## Rules
 
 - This contest is for the **osu!taiko** gamemode only.
-- Each entry **must follow the Ranking Criteria**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
+- Each entry **must follow the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
 - The size of the beatmap submission must not exceed 15MB.
 - Storyboards will not be considered during the judging process.
 - Custom hitsounds **may** be used.
@@ -52,7 +52,7 @@ After the entries are judged and the results are finalized, the top three entrie
 - **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
 - **3rd place**: 1 month of osu!supporter, 2 Olympiad Points
 
-For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6,4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants. 
+For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6, 4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants. 
 
 You will have 21 days from the date of this post to submit your entries. [Download the pre-timed .osz here](https://assets.ppy.sh/artists/7/osz/Thaehan%20-%20Bwa%20!.osz).
 
