@@ -205,122 +205,121 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 
 | Botones / Titulo (Atajo de teclado) | Uso | Descripción |
 | ------------------------------------ | ----- | ----------- |
-| Sampleset | Auto, Normal, Soft, Drum | Change the Sampleset ignoring the current one on timing section. Ex : Timing **Drum 66%**, while this Sampleset is **Soft**, will play all related **Soft** sound on the notes like clap , normal , finish, whistle with 66% volume. |
-| Adiciones | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
-| Seleccionar (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
-| Circulo (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
-| Mantener (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
+| Conjunto de muestra | Auto, Normal, So, Drum | Cambia el Sampleset ignorando el actual en la sección de tiempo. Ej: Temporización **Drum 66%**, mientras que este conjunto de samples es **Soft**, reproducirá todo el sonido **Soft** relacionado en las notas como clap, normal, finish, whistle con 66% de volumen. |
+| Adiciones | Auto, Normal, Soft, Drum | Básicamente lo mismo de arriba, PERO la configuración de Adiciones sobrescribe la configuración del conjunto de muestras. Ej: Temporización **Drum 55%**, conjunto de muestras **Soft**, mientras que estas Adiciones es **Normal**, reproducirá todo el sonido **Normal** relacionado en las notas como clap, normal, finish, whistle con 55% de volumen. |
+| Seleccionar (`1`) | **Clic izquierdo/ arrastrar:** Mueve la marda de tiempo y ubicación de una nota. **Clic derecho:** Elimina la nota. **`Ctrl` + Clic:** Selección múltiple.	| Selecciona y modifica las notas existentes. |
+| Circulo (`2`) | **Clic Izquierdo/Derecho** Coloca/Elimina la nota. | Agrega una nota en la columna actual en función de la posición del mouse. |
+| Mantener (`3`) | **Clic izquierdo (Mantener):** Coloca una nota sostenida y ajusta su duración. **Sotarla:** Establece longitud de retención | Agrega un nota de sostenida en la columna actual según la posición del mouse. |
 
-### Centre (Playfield)
+### Centro (Area de juego)
 
-![osu!mania playfield](/wiki/shared/BEM_PF.jpg "osu!mania playfield")
+![Area de juego de osu!mania](/wiki/shared/BEM_PF.jpg "Area de juego osu!mania")
 
-**Visual representation of mapping based on current timestamp.**
+**Representación visual del mappeo basada en la marca de tiempo actual.**
 
-#### Playfield Boxes
+#### Recuadros del Area de juego
 
-| Name | Description |
+| Nombre | Descripción |
 | ---- | ----------- |
-| Left Box | Notes intensity (Timeline). |
-| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
+| Cuadro izquierdo | Intensidad de las notas (línea de tiempo). |
+| Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
 
 #### Colour notes
 
-| Name | Description |
+| Nombre | Descripción |
 | ---- | ----------- |
-| Double white line | Measure |
-| White line | Common Time |
-| Green line | You / Judgement Line |
-| Blue colour | Currently-selected note |
-| White/Pink/Yellow colour | Normal notes colour |
+| Doble línea Blanca | Medida |
+| Línea Blanca | Tiempo común |
+| Línea Verde | Tú / Linea de juicio |
+| Color Azul | Nota seleccionada actualmente |
+| Color Blanco/Rosa/Amarillo | Color de notas normales |
 
 #### Divisor 1/1
 
 ![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
 
-- Full Beats
-- White ticks only
-- Best used for Easy difficulty.
+- Beats enteros.
+- Solo marcas blancas.
+- Mejor utilizado para la dificultad fácil.
 
 #### Divisor 1/2
 
 ![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
 
-- Half Beats
-- Adds red ticks
+- Medios Beats.
+- Agrega marcas rojas.
 
 #### Divisor 1/3
 
 ![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
 
-- Triplets
-- Has two purple ticks between each white tick
-- Compound Timing
+- Tresillo*.
+- Tiene dos marcas de color púrpura entre cada marca blanca.
+- Tiempo compuesto.
 
 #### Divisor 1/4
 
 ![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
 
-- Quarter Beats
-- Adds blue ticks, in addition to the red ticks
-- Useful for general mapping
+- Cuatro beats.
+- Agrega marcas azules, además de las marcas rojas.
+- Útil para el mapeo general.
 
-### Centre-Right (Hit Sounds & Assist Tools)
+### Centro derecha (Sonidos de Golpeo y Herramientas de Ayuda)
 
-![Hit Sounds & Assist Tools](img/BE_HSAT.jpg "Hit Sounds & Assist Tools")
+![Sonidos de Golpeo y Herramientas de Ayuda](img/BE_HSAT.jpg "Sonidos de Golpeo y Herramientas de Ayuda")
 
-**List of available subtools complement to the toolkit.**
+**La lista de subherramientas disponibles que complementan al kit de herramientas.**
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
-| New Combo (`Q`) | **Right-click:** Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
+| Nuevo combo (`Q`) | **Clic Derecho:** Cambia la nota actual al siguiente color de combo. | Nota combo. Esta es equivalente a un verso en el guion de la canción. Un rango aceptable es de aproximadamente 5-20. |
 
-#### Hit Sounds
+#### Sonidos de Golpeo
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
-| Whistle (`W`) | ("Select" on a Hit note) **Left-Click:** Use whistle sound on this note | Add a whistle sound addition to the selection. |
-| Finish (`E`) | ("Select" on a Hit note) **Left-Click:** Use finish sound on this note | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | ("Select" on a Hit note) **Left-Click:** Use clap sound on this note | Add a clap sound addition to the selection. |
+| Whistle (`W`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de whistle en esta nota | Agrega una adición de sonido de whistle a la selección. |
+| Finish (`E`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de finish en esta nota | Agrega una adición de sonido de finish (platillo) a la selección. |
+| Clap (`R`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de clap en esta nota | Agrega una adición de sonido de clap a la selección. |
 
 #### Assist Tools
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Boton (Atajo de teclado) | Uso | Descripción |
 | -------------------------- | ----- | ----------- |
-| Grid Snap (`T`) | **`Shift` (Hold):** Temporary toggle. **`Ctrl` (Hold):** Temporary disable angle snapping. | Hit notes will be snapped to the grid by default. |
-| Distance Snap (`Y`) | **`Alt` (Hold):** Temporary toggle. Switch Beat Snap Divisor to Distance Snap **`Alt` + Mousewheel:** Adjust Distance Snap multiplier. | Distance between consecutive hit notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
-| Lock Notes (`L`) | ("Select" on a Hit note) **Left-Click:** Lock this note | Lock selected note to current position and timestamp. |
+| Ajuste de Cuadricula (`T`) | **`Shift` (Mantener):** Temporalmente activado **`Ctrl` (Mantener):** Temporalmente desactiva el ajuste de ángulo | Las notas de golpeo se ajustarán a la cuadrícula de forma predeterminada. |
+| Ajuste de Distancia (`Y`) | **`Alt` (Mantener):** Temporalmente activado. Cambia el Divisor de ritmo por el Ajuste de Distancia **`Alt` + Rueda del ratón:** Ajusta el multiplicador del Ajuste de Distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Mejor uso mientras la línea de tiempo está en pausa. |
+| Bloquear Notas (`L`) | ("Select" en una Nota de Golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
 
-For **keysound** (adding SE on hitnotes), select the note and **`Alt` + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder). Refer to "Sampling" section at end of page.
+Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (se mostrará una ventana emergente con muestras de sonido dentro de tu carpeta delBeatmap). Consulta la sección "Muestreo" al final de la página.
 
-### Bottom (Song Timeline)
+### Parte Inferior (Linea de Tiempo de la Canción)
 
-![Song Timeline](/wiki/shared/BE_STL.jpg "Song Timeline")
+![Linea de Tiempo de la Canción](/wiki/shared/BE_STL.jpg "Linea de Tiempo de la Canción")
 
-At **bottom-left**, it shows **timestamp in milliseconds (ms)** and **song duration %**.
+**Abajo a la izquierda** se muestra la **marca de tiempo en milisegundos (ms)** y la **duración de la canción%**.
+**Abajo en el centro** se muestra la **línea de tiempo con marcas y los botones obligatorios del reproductor de música.** Para el botón "Prueba", su Beatmap se guardará para probarse comenzando en la marca de tiempo actual.
 
-At **bottom-centre**, it shows the **timeline with markings and the compulsory music player buttons.** For "Test" button, your beatmap will be saved to test the beatmap starting on current timestamp.
+#### Comandos de Marcadores
 
-#### Bookmarking command
-
-| Shortcut | Description |
+| Atajo | Descripción |
 | -------- | ----------- |
-| `Ctrl` + `B` | Add bookmark at current location. |
-| `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
-| `Ctrl` + `Right` Arrow | Next bookmark. |
-| `Ctrl` + `Left` Arrow	| Previous bookmark. |
+| `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
+| `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
+| `Ctrl` + `Right` Flecha | Siguiente marcador |
+| `Ctrl` + `Left` Flecha	| Marcador anterior. |
 
-At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
+**Abajo a la derecha** se puede ajustar la **Tasa de reproducción** en **valores por cuartos**
 
-### Sampling
+### Muestreo
 
-![Sample pop-up window (Windows 8's ver.)](img/Sample_omc.jpg "Sample pop-up window (Windows 8's ver.)")
+![Ventana emergente del Muestreo (Windows 8's ver.)](img/Sample_omc.jpg "Ventana emergente del Muestreo (Windows 8's ver.)")
 
-**Sampling** is a process of **adding sound to the note.** To begin, select the note and **`Alt` + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder).
+El **Muestreo** es el proceso de **agregar sonido a la nota.** Para comenzar, selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (Se mostrará una ventana emergente con muestras de sonido dentro de su carpeta delbeatmap).
 
-#### Sample import
+#### Importación de Muestreo
 
-**Left-section** is the **list of sound files you have in the beatmap's folder.**
+**Sección izquierda ** es la ** lista de archivos de sonido que tienes en la carpeta de beatmap. **
 
 **Right-section** is **settings for the selected sound file.**
 
