@@ -835,13 +835,13 @@
 
 "tourney":                     "osu!tourney"
 
-"osu!wiki_Contribution_Guide":                      "osu!_wiki_Contribution_Guide"
+"osu!wiki_contribution_guide":                      "osu!_wiki_Contribution_Guide"
 "owcg":                                             "osu!_wiki_Contribution_Guide"
-"osu!wiki_Contribution_Guide/common_issues":        "osu!_wiki_Contribution_Guide/Common_Issues"
+"osu!wiki_contribution_guide/common_issues":        "osu!_wiki_Contribution_Guide/Common_Issues"
 "owcg/common_issues":                               "osu!_wiki_Contribution_Guide/Common_Issues"
-"osu!wiki_Contribution_Guide/github_web_interface": "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
+"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
 "owcg/github_web_interface":                        "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
-"osu!wiki_Contribution_Guide/github_desktop":       "osu!_wiki_Contribution_Guide/GitHub_Desktop"
+"osu!wiki_contribution_guide/github_desktop":       "osu!_wiki_Contribution_Guide/GitHub_Desktop"
 "owcg/github_desktop":                              "osu!_wiki_Contribution_Guide/GitHub_Desktop"
 
 "people/beatmap_nominator":              "People/Beatmap_Nominators"
