@@ -194,27 +194,27 @@ Mappools will be revealed one week in advance of each stage.
 [**Download the mappack here! (127.3 MB)**](https://drive.google.com/open?id=1VFTmj0Wc95abHmRbiUG5TQ__VSGf2mKT)
 
 - NoMod
-	- [Guilty Kiss - Strawberry Trapper (Asaiga) \[Athy's Trick in Dice\]](https://osu.ppy.sh/beatmapsets/496107)
-	- [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Settia) \[Extra\]](https://osu.ppy.sh/beatmapsets/394834)
-	- [nowisee - confusion (hot anime girl) \[Shira's Expert\]](https://osu.ppy.sh/beatmapsets/720882)
-	- [Nanahira - Shinchoku Doudesu ka?(Halozy Mix) (AtHeoN) \[Extra\]](https://osu.ppy.sh/beatmapsets/451857)
-	- [Mio Yamazaki - Noise (English ver.) (Akitoshi) \[Extreme\]](https://osu.ppy.sh/beatmapsets/702892)
-	- [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/383147)
+	- [Guilty Kiss - Strawberry Trapper (Asaiga) \[Athy's Trick in Dice\]](https://osu.ppy.sh/beatmaps/1055997)
+	- [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Settia) \[Extra\]](https://osu.ppy.sh/beatmaps/944802)
+	- [nowisee - confusion (hot anime girl) \[Shira's Expert\]](https://osu.ppy.sh/beatmaps/1522333)
+	- [Nanahira - Shinchoku Doudesu ka?(Halozy Mix) (AtHeoN) \[Extra\]](https://osu.ppy.sh/beatmaps/969324)
+	- [Mio Yamazaki - Noise (English ver.) (Akitoshi) \[Extreme\]](https://osu.ppy.sh/beatmaps/1487213)
+	- [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmaps/837694)
 - Hidden
-	- [MYTH & ROID - Paradisus-Paradoxum (Mira-san) \[Paradigm\]](https://osu.ppy.sh/beatmapsets/483079)
-	- [Caravan Palace - Lone Digger (Sheepcraft) \[Funky\]](https://osu.ppy.sh/beatmapsets/376860)
+	- [MYTH & ROID - Paradisus-Paradoxum (Mira-san) \[Paradigm\]](https://osu.ppy.sh/beatmaps/1030738)
+	- [Caravan Palace - Lone Digger (Sheepcraft) \[Funky\]](https://osu.ppy.sh/beatmaps/824970)
 - Hard Rock
-	- [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151)
-	- [96neko - Uso no Hibana (Yasaija 714) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/569503)
+	- [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
+	- [96neko - Uso no Hibana (Yasaija 714) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/1255495)
 - Double Time
-	- [Petit Rabbit's - Takarabako no Jet Coaster (Doormat) \[Fleur de Lapin\]](https://osu.ppy.sh/beatmapsets/428142)
-	- [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmapsets/369380)
+	- [Petit Rabbit's - Takarabako no Jet Coaster (Doormat) \[Fleur de Lapin\]](https://osu.ppy.sh/beatmaps/946685)
+	- [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmaps/809513)
 - FreeMod
-	- [Amatsuki - Chiisana Koi no Uta (Logic Agent) \[Together\]](https://osu.ppy.sh/beatmapsets/534788)
-	- [Red Velvet - Ice Cream Cake (handsome) \[Seulgi\]](https://osu.ppy.sh/beatmapsets/415299)
-	- [Kano - Ama no Jaku (Realazy) \[Divulgence\]](https://osu.ppy.sh/beatmapsets/754383)
+	- [Amatsuki - Chiisana Koi no Uta (Logic Agent) \[Together\]](https://osu.ppy.sh/beatmaps/1169701)
+	- [Red Velvet - Ice Cream Cake (handsome) \[Seulgi\]](https://osu.ppy.sh/beatmaps/899942)
+	- [Kano - Ama no Jaku (Realazy) \[Divulgence\]](https://osu.ppy.sh/beatmaps/1588264)
 - Tiebreaker
-	- [Kano - Walk This Way! (Rumia-) \[7.6\]](https://osu.ppy.sh/beatmapsets/728975)
+	- [Kano - Walk This Way! (Rumia-) \[7.6\]](https://osu.ppy.sh/beatmaps/1572830)
 
 #### Semifinals
 
