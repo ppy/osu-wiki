@@ -28,10 +28,6 @@ If you read the last Project Loved post, you may remember that we promised the v
 
 ## <a name="osu" id="osu"></a>osu!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/kick-ass-kung-fu-carnival.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [t+pazolite - Kick-ass Kung-fu Carnival](https://osu.ppy.sh/beatmapsets/70469) by [Zapy](https://osu.ppy.sh/users/1961512)  
@@ -104,10 +100,6 @@ If it weren't for the anomaly [Mayday](https://osu.ppy.sh/beatmapsets/756794) th
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/still-scared-of-ouija-boards.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [Goreshit - Still scared of ouija boards](https://osu.ppy.sh/beatmapsets/663341) by [Backfire](https://osu.ppy.sh/users/263110)  
@@ -159,10 +151,6 @@ This one was for the ages. Featuring a list of over 30 incredible and noteworthy
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/catch/francium.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
 [nanahira - Francium](https://osu.ppy.sh/beatmapsets/116056) by [Yami Shoujo](https://osu.ppy.sh/users/1978891)  
@@ -192,10 +180,6 @@ Similar to the standard equivalent of the song [Kanpan Tasogare Shinbun](https:/
 So here we have a pretty recent map from [Emiru](https://osu.ppy.sh/users/3306180), making its way into the loved section. This map contains quite a handful of sliders with hypers integrated within them, some streams as well as occasional jumpy sections. The map should not be too challenging to pass, especially thanks to the 2.8 HP it bears, but getting a solid score could prove quite challenging as you need to be very consistent. Overall a very solid map with well integrated gimmicks!
 
 ## <a name="osumania" id="osumania"></a>osu!mania
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/mania/free-tibet-vini-vici-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
