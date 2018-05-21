@@ -588,6 +588,16 @@ All results are compiled for public viewing via [this link](https://docs.google.
 
 ### osu!standard
 
+#### Semifinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2    | Seed |  | 
+|:------:|:----------------|:-------:|:-------:|-------------:|:------:|--| 
+| 9    | TyrantsEye2014 | 3     | **7** | **-Marika** | 4    |  | 
+| 2    | **Dunois**     | **7** | 2     | Varsagus    | 3    |  | 
+
+
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
@@ -639,9 +649,20 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
 
 ### osu!catch
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml)
+
+| Seed | Player 1   |       |       | Player 2        | Seed |     | 
+|:------:|:------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 5    | **-MomoX** | **7** | 2     | Laqure          | 6    |     | 
+| 3    | - Kielzu - | 0     | **7** | **KaganimeRin** | 8    | WBD | 
+| 5    | -MomoX     | 3     | **7** | **KaganimeRin** | 8    |     | 
+| 1    | **Roido**  | **7** | 2     | -Nicotine       | 2    |     | 
 
 #### Semifinals and Loser's Bracket Round 2 and 3
 
@@ -691,6 +712,37 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### osu!mania 4K 
 
+#### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2            | Seed |     | 
+|:----:|:-----------------------|:-------:|:-------:|---------------------:|:------:|-----| 
+| 4    | **nyx-**              | **4** | 0     | Nelvin\_27          | 7    | WBD | 
+| 4    | nyx-                  | 3     | **4** | **Vigne Tsukinose** | 12   |     | 
+| 4    | **nyx-**              | **4** | 3     | GTXCZE              | 14   |     | 
+| 7    | Nelvin\_27            | 0     | **4** | **Vigne Tsukinose** | 12   | WBD | 
+| 7    | Nelvin\_27            | 0     | **4** | **GTXCZE**          | 14   | WBD | 
+| 12   | **Vigne Tsukinose**   | **4** | 1     | GTXCZE              | 14   |     | 
+| 2    | **MapleSyrup-**       | **4** | 3     | TheArge             | 5    |     | 
+| 2    | **MapleSyrup-**       | **4** | 1     | Trainer-            | 9    |     | 
+| 2    | **MapleSyrup-**       | **4** | 0     | exodia3000          | 13   |     | 
+| 5    | **TheArge**           | **4** | 0     | Trainer-            | 9    | WBD | 
+| 5    | TheArge               | 0     | **4** | **exodia3000**      | 13   | WBD | 
+| 9    | Trainer-              | 3     | **4** | **exodia3000**      | 13   |     | 
+| 3    | **windrush123**       | **4** | 0     | FeveredNickel       | 8    |     | 
+| 3    | windrush123           | 3     | **4** | **Toyohime-**       | 11   |     | 
+| 3    | **windrush123**       | **4** | 0     | Baltz               | 15   |     | 
+| 8    | FeveredNickel         | 1     | **4** | **Toyohime-**       | 11   |     | 
+| 8    | FeveredNickel         | 1     | **4** | **Baltz**           | 15   |     | 
+| 11   | **Toyohime-**         | **4** | 2     | Baltz               | 15   |     | 
+| 1    | **joseee-**           | **4** | 0     | Mk3605              | 6    |     | 
+| 1    | **joseee-**           | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
+| 1    | **joseee-**           | **4** | 0     | Mentai Cosmic       | 17   |     | 
+| 6    | **Mk3605**            | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
+| 6    | **Mk3605**            | **4** | 1     | Mentai Cosmic       | 17   |     | 
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Mentai Cosmic       | 17   | WBD | 
+
 #### Post-qualification Play-offs
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
@@ -716,16 +768,41 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results of the **osu!mania 4K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
 
 ### osu!mania 7K
 
+#### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+|:------:|:-----------------------|:-------:|:-------:|-------------------:|:------:|-----| 
+| 3    | **cieloday05**        | **4** | 1     | joseee-           | 6    |     | 
+| 3    | **cieloday05**        | **4** | 0     | FeveredNickel     | 9    | WBD | 
+| 3    | **cieloday05**        | **4** | 0     | DrawdeX           | 14   | WBD | 
+| 6    | **joseee-**           | **4** | 0     | FeveredNickel     | 9    |     | 
+| 6    | **joseee-**           | **4** | 0     | DrawdeX           | 14   |     | 
+| 9    | **FeveredNickel**     | **4** | 0     | DrawdeX           | 14   | WBD | 
+| 2    | **- Kura -**          | **4** | 2     | LackPoints        | 5    |     | 
+| 2    | **- Kura -**          | **4** | 1     | windrush123       | 12   |     | 
+| 2    | **- Kura -**          | **4** | 0     | Chez              | 13   | WBD | 
+| 5    | **LackPoints**        | **4** | 0     | windrush123       | 12   |     | 
+| 5    | **LackPoints**        | **4** | 0     | Chez              | 13   | WBD | 
+| 12   | **windrush123**       | **4** | 0     | Chez              | 13   | WBD | 
+| 1    | **MapleSyrup-**       | **4** | 1     | Tots              | 8    |     | 
+| 1    | **MapleSyrup-**       | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
+| 1    | **MapleSyrup-**       | **4** | 0     | - Aries -         | 15   |     | 
+| 8    | **Tots**              | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
+| 8    | **Tots**              | **4** | 0     | - Aries -         | 15   | WBD | 
+| 11   | **\_Shirayukihime\_** | **4** | 0     | - Aries -         | 15   | WBD | 
+| 4    | **Vigne Tsukinose**   | **4** | 1     | fer789            | 7    |     | 
+| 4    | **Vigne Tsukinose**   | **4** | 0     | nyx-              | 10   |     | 
+| 7    | fer789                | 2     | **4** | **nyx-**          | 10   |     | 
+
 #### Qualifiers
 
-Detailed results of the **osu!mania 7K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
-
-
-
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
 
 ------------------------
 
