@@ -6,7 +6,7 @@ date: 2018-05-21 14:00:00 +0000
 
 As osu!'s iteration of the Mapping Olympiad is wrapping up, it is time to bring another mode into the spotlight: osu!taiko! For the second contest in this series, we bring you an opportunity to become osu!taiko's first ever Mapping Olympian and also claim the title of Elite Mapper!
 
-[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/65)
+[![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/65)
 
 It has certainly been a while since osu!taiko's had an official mapping contest, so we are excited to be bringing this contest to everyone, complete with prizes and an opportunity to win the coveted Elite Mapper title!
 
