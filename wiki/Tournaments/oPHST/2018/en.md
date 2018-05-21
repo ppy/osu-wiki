@@ -189,9 +189,34 @@ Mappools will be revealed one week in advance of each stage.
 
 ### osu!standard
 
-[**Download the mappack here! (111.1 MB)**](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1)
+#### Finals
+
+- NoMod
+	- [Guilty Kiss - Strawberry Trapper (Asaiga) \[Athy's Trick in Dice\]](https://osu.ppy.sh/beatmapsets/496107)
+	- [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Settia) \[Extra\]](https://osu.ppy.sh/beatmapsets/394834)
+	- [nowisee - confusion (hot anime girl) \[Shira's Expert\]](https://osu.ppy.sh/beatmapsets/720882)
+	- [Nanahira - Shinchoku Doudesu ka?(Halozy Mix) (AtHeoN) \[Extra\]](https://osu.ppy.sh/beatmapsets/451857)
+	- [Mio Yamazaki - Noise (English ver.) (Akitoshi) \[Extreme\]](https://osu.ppy.sh/beatmapsets/702892)
+	- [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/383147)
+- Hidden
+	- [MYTH & ROID - Paradisus-Paradoxum (Mira-san) \[Paradigm\]](https://osu.ppy.sh/beatmapsets/483079)
+	- [Caravan Palace - Lone Digger (Sheepcraft) \[Funky\]](https://osu.ppy.sh/beatmapsets/376860)
+- Hard Rock
+	- [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151)
+	- [96neko - Uso no Hibana (Yasaija 714) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/569503)
+- Double Time
+	- [Petit Rabbit's - Takarabako no Jet Coaster (Doormat) \[Fleur de Lapin\]](https://osu.ppy.sh/beatmapsets/428142)
+	- [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmapsets/369380)
+- FreeMod
+	- [Amatsuki - Chiisana Koi no Uta (Logic Agent) \[Together\]](https://osu.ppy.sh/beatmapsets/534788)
+	- [Red Velvet - Ice Cream Cake (handsome) \[Seulgi\]](https://osu.ppy.sh/beatmapsets/415299)
+	- [Kano - Ama no Jaku (Realazy) \[Divulgence\]](https://osu.ppy.sh/beatmapsets/754383)
+- Tiebreaker
+	- [Kano - Walk This Way! (Rumia-) \[7.6\]](https://osu.ppy.sh/beatmapsets/728975)
 
 #### Semifinals
+
+[**Download the mappack here! (111.1 MB)**](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1)
 
 - NoMod
 	- [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/beatmaps/202756)
@@ -312,6 +337,32 @@ Mappools will be revealed one week in advance of each stage.
 	
 ### osu!catch 
 
+#### Finals Week 2
+
+[**Download the mappack here! (133.1 MB)**](https://drive.google.com/open?id=1LCKZ3jOCkHxqIhwYtMZ4Pqva0WWgeOMb)
+
+- NoMod
+	- [senya - Akatsuki no Suiheisen ni (Razor Sharp) \[Grief\]](https://osu.ppy.sh/beatmaps/1313189)
+	- [senya - Zetsubou no Fuchi (Ascendance) \[Despair\]](https://osu.ppy.sh/beatmaps/1603797)
+	- [kors k - Playing With Fire (Sota Fujimori Remix) (Ascendance) \[Let's do it now!\]](https://osu.ppy.sh/beatmaps/1445272)
+	- [Green Day - Bang Bang (Crowley) \[World War Zero\]](https://osu.ppy.sh/beatmaps/1636562)
+	- [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Expert\]](https://osu.ppy.sh/beatmaps/1332900)
+	- [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmaps/131564)
+- Hidden
+	- [Reol - Echo (Tokufi) \[Mirror\]](https://osu.ppy.sh/beatmaps/1209412)
+	- [Memme - Goat Fantasia (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmaps/1346273)
+	- [guna with team kyukkyu - subconsciousness (Snow Note) \[Another\]](https://osu.ppy.sh/beatmaps/413428)
+- Hard Rock
+	- [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmaps/506395)
+	- [Goose House - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmaps/560408)
+	- [Camellia - crystallized (Ashasaki) \[NiNo's Insane\]](https://osu.ppy.sh/beatmaps/799711)
+- Double Time
+	- [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmaps/724582)
+	- [Goose House - Hikaru Nara (Ascendance) \[Sc4's Rain\]](https://osu.ppy.sh/beatmaps/1113160)
+	- [Dragonforce - Through The Fire And Flames (Lesjuh) \[Legend\]](https://osu.ppy.sh/beatmaps/70760)
+- Tiebreaker
+	- [Feryquitous - Central Nucleus (Spectator) \[Karyolysis\]](https://osu.ppy.sh/beatmaps/1451055)
+
 #### Finals Week 1
 
 [**Download the mappack here! (111.6 MB)**](https://drive.google.com/open?id=10GxDpVygDxeCJ92p8TThEHZgRy0diNZc)
@@ -418,6 +469,25 @@ Mappools will be revealed one week in advance of each stage.
 	
 ### osu!mania 4K
 
+#### Quarterfinals
+
+[**Download the mappack here! (59.2 MB)**](https://drive.google.com/open?id=1zYl0oTMdQnk6afGu8ph7DqVMjjGFjUNq)
+
+- FreeMod
+	- [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmaps/1428368)
+	- [sasakure.UK - Pangaea (Kamikaze) \[Harmony\]](https://osu.ppy.sh/beatmaps/1449802)
+	- [Jan Amit - In Torture (ft. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmaps/1215562)
+	- [Billx - Equinox (Janko) \[Insane\]](https://osu.ppy.sh/beatmaps/1466198)
+	- [Camellia as "Bang Riot" - Blastix Riotz (hi19hi19) \[hi19's EXHAUST\]](https://osu.ppy.sh/beatmaps/1195106)
+	- [Silent Siren - Cherry Bomb (JztCallMeRon) \[Cherry!\]](https://osu.ppy.sh/beatmaps/1390573)
+	- [Memme - Acid Burst (juankristal) \[Chaos\]](https://osu.ppy.sh/beatmaps/1530202)
+	- [Killerblood - Theme of Kingdom No. 8 (Minseo2000) \[Start Menu\]](https://osu.ppy.sh/beatmaps/1363743)
+	- [YUC'e - PUMP (Couil) \[Future Candy\]](https://osu.ppy.sh/beatmaps/1367425)
+	- [The Flashbulb - Back of the Yards (Halogen-) \[Stage 1: Boundary\]](https://osu.ppy.sh/beatmaps/1527721)
+	- [primrose - Lycoris (Tidek) \[Red Magic Lily\]](https://osu.ppy.sh/beatmaps/1410039)
+- Tiebreaker
+	- [goreshit - fleshbound (Couil) \[trapped\]](https://osu.ppy.sh/beatmaps/1383190)
+
 #### Group Stage
 
 [**Download the mappack here! (67.8 MB)**](https://drive.google.com/open?id=16qRiqTB1Oa0IB39J63e-8Xj2pi-_Cp9t)
@@ -463,6 +533,25 @@ Mappools will be revealed one week in advance of each stage.
 	- [Tipper - Bubble Control (Lenfried-) \[Surface Tension\]](https://osu.ppy.sh/beatmaps/1616322)
 	
 ### osu!mania 7K
+
+#### Quarterfinals
+
+[**Download the mappack here! (67.8 MB)**](https://drive.google.com/open?id=13vhyw4kBR4H0-XdWvic7G00HtRmlxoy2)
+
+- FreeMod
+	- [Nekomata Master feat. Hayashi Momoko - Rainbow After Snow (ShikiNoHollow) \[7K MX\]](https://osu.ppy.sh/beatmaps/391682)
+	- [Porter Robinson & Madeon - Shelter (eyes) \[me\]](https://osu.ppy.sh/beatmaps/1400635)
+	- [Chata - Mirai no Monogatari (yoshilove) \[7K MX\]](https://osu.ppy.sh/beatmaps/442566)
+	- [RoughSketch + DD"Nakata"Metal - Booths of Fighters (Skalim) \[Skalim's 7K HD\]](https://osu.ppy.sh/beatmaps/675769)
+	- [Xe - 3rd eye rag (pporse) \[pporse's Insane\]](https://osu.ppy.sh/beatmaps/1200878)
+	- [ETIA. - Claiomh Solais (Arzenvald) \[Insanity\]](https://osu.ppy.sh/beatmaps/836057)
+	- [Petit Rabiit's - Daydream Cafe (ArcherLove) \[Sangat Sulit \[MX\]\]](https://osu.ppy.sh/beatmaps/1220591)
+	- [maras k - Play Time!! (Julie) \[Insane\]](https://osu.ppy.sh/beatmaps/1510767)
+	- [(K)NoW_NAME - crepuscular rays (richardfeder) \[Insane\]](https://osu.ppy.sh/beatmaps/1032593)
+	- [mimimemeMIMI - Mr. Darling (DJ Profetti) \[MX\]](https://osu.ppy.sh/beatmaps/734882)
+	- [Yun\*chi - Your song\* (Zillah) \[ZS\]](https://osu.ppy.sh/beatmaps/427971)
+- Tiebreaker
+	- [yanaginagi - Owari no Sekai Kara (Taiwan_CDZ) \[MX\]](https://osu.ppy.sh/beatmaps/785894)
 
 #### Group Stage
 
