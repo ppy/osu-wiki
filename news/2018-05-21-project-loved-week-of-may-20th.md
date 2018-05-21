@@ -28,73 +28,65 @@ If you read the last Project Loved post, you may remember that we promised the v
 
 ## <a name="osu" id="osu"></a>osu!
 
+*All osu! descriptions were written by [Toy](https://osu.ppy.sh/users/2757689)*
+
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/kick-ass-kung-fu-carnival.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[t+pazolite - Kick-ass Kung-fu Carnival](https://osu.ppy.sh/beatmapsets/70469) by [Zapy](https://osu.ppy.sh/users/1961512)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[t+pazolite - Kick-ass Kung-fu Carnival](https://osu.ppy.sh/beatmapsets/70469) by [Zapy](https://osu.ppy.sh/users/1961512)
 
 The old Graveyard cemetery caretaker [Zapy](https://osu.ppy.sh/users/1961512) returns with another classic map from 2012. It was quite uncommon to see CS3 maps back in the day, though symmetry mapping was an extremely common theme apparent throughout the map. Despite what may be seen today as bland mapping, Kick-ass Kung-fu Carnival remains to be the absolute joy to play as it was 6 years ago.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/wirtshaus-gaudi.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[Equilibrium - Wirtshaus Gaudi](https://osu.ppy.sh/beatmapsets/364403) by [Mazzerin](https://osu.ppy.sh/users/2942381)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[Equilibrium - Wirtshaus Gaudi](https://osu.ppy.sh/beatmapsets/364403) by [Mazzerin](https://osu.ppy.sh/users/2942381)
 
 Although [Mazzerin](https://osu.ppy.sh/users/2942381) may be known for his affinity for extremely intense, technical death metal songs to map, Wirtshaus Gaudi keeps the harsh vocals and combines them with a melodic jig that's difficult not to bounce along to. Matching the happy bouncy chorus of symphonic folk band Equilibrium, the kiai is full of jumps and spaced triples compared to the more streamy intro and verses. Whether you enjoy metal or not, this song is hard not to love due to how melodic it is.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/ryuu-to-shoujo-to-decoherence.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[Kuroneko Dungeon - Ryuu to Shoujo to Decoherence](https://osu.ppy.sh/beatmapsets/154833) by [Flower](https://osu.ppy.sh/users/1033017)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[Kuroneko Dungeon - Ryuu to Shoujo to Decoherence](https://osu.ppy.sh/beatmapsets/154833) by [Flower](https://osu.ppy.sh/users/1033017)
 
 One of osu!'s possibly most underrated mappers, [Flower](https://osu.ppy.sh/users/1033017) has created over 100 graveyarded maps, all of which continue to push the envelope of playability and difficulty in some way. In that same fashion, it may surprise you to see that Ryuu to Shoujo to Decoherence is from 2014. No ordinary 165BPM map, Flower manages to combine subtle symmetry with some interestingly devious patterns with very high speed sliders to make for a very high paced experience that matched no other at the time.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/absurd-gaff.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[siromaru - Absurd Gaff](https://osu.ppy.sh/beatmapsets/278213) by [rustbell](https://osu.ppy.sh/users/227717)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[siromaru - Absurd Gaff](https://osu.ppy.sh/beatmapsets/278213) by [rustbell](https://osu.ppy.sh/users/227717)
 
 Nearly everyone must be familiar with [rustbell](https://osu.ppy.sh/users/227717) in some way at this point. High profile top player in both standard and mania along with being one of the most popular high star rating graveyard mappers out there, rustbell never disappoints in his creations, all of which have an underlying motif to the madness which stands out at first glance in his works. As intense as his maps may be, they all fit in one way or another to the music, and those patterning choices are best exemplified in Absurd Gaff. A nearly full mapset (only the Insane is incomplete) all mapped by rustbell himself, Absurd Gaff may be one of his most notable creations to this day.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/diabolikha.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[Hatsuki Yura - Diabolikha](https://osu.ppy.sh/beatmapsets/286168) by [Lan wings](https://osu.ppy.sh/users/467860)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[Hatsuki Yura - Diabolikha](https://osu.ppy.sh/beatmapsets/286168) by [Lan wings](https://osu.ppy.sh/users/467860)
 
 Similarly to [Flower](https://osu.ppy.sh/users/1033017), [Lan wings](https://osu.ppy.sh/users/467860) has been the unseen influence on many modern mappers, and much like [rustbell](https://osu.ppy.sh/users/227717), every note in his beatmaps serve to fit the music and not for the sake of making a difficult map. Sitting at an intense 7.9\*, every part of Diabolikha feels warranted in this 286BPM behemoth. Emphasis within patterns is placed in all the right places and by the end you'll have forgotten that the map is supposed to be difficult and instead be in awe of how beautiful the structure of this map is.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/disconnected.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[Helblinde - Disconnected](https://osu.ppy.sh/beatmapsets/169874) by [Taikuta](https://osu.ppy.sh/users/207967)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[Helblinde - Disconnected](https://osu.ppy.sh/beatmapsets/169874) by [Taikuta](https://osu.ppy.sh/users/207967)
 
 What's a round of Loved voting without one mapset that's more popular for its song and jump spam? This 2014 classic by [Taikuta](https://osu.ppy.sh/users/207967) made its rounds through the community as the ultimate jump "pass challenge", further cementing its place in history as it collected 189 favorites. Pick your poison on either AR9 or AR10, and do your best to keep up with the neverending jump spam.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/omega-rhythm-bpm210-ver-.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[UPLIFT SPICE - Omega Rhythm(BPM210.Ver)](https://osu.ppy.sh/beatmapsets/153455) by [T1Y](https://osu.ppy.sh/users/2293227)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[UPLIFT SPICE - Omega Rhythm(BPM210.Ver)](https://osu.ppy.sh/beatmapsets/153455) by [T1Y](https://osu.ppy.sh/users/2293227)
 
 Much like Disconnected, these BPM edits of Omega Rhythm also made its rounds among the 2014 community as another "pass challenge". It's difficult to explain why this map was so popular, though the 155 favorites should speak for themselves. The mapset features guest difficulties by [caren\_sk](https://osu.ppy.sh/users/542498) and [HabiHolic](https://osu.ppy.sh/users/1974436), as well as a 240BPM edit of [T1Y](https://osu.ppy.sh/users/2293227)'s original difficulty. Once you play the map at this speed, it'll be difficult to hear it at the original speed.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/mayday-feat-laura-brehm-.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[TheFatRat - Mayday (feat. Laura Brehm)](https://osu.ppy.sh/beatmapsets/756794) by [Voltaeyx](https://osu.ppy.sh/users/2715118)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[TheFatRat - Mayday (feat. Laura Brehm)](https://osu.ppy.sh/beatmapsets/756794) by [Voltaeyx](https://osu.ppy.sh/users/2715118)
 
 Okay. Actually who could have predicted this. As of writing this, [Voltaeyx](https://osu.ppy.sh/users/2715118)'s Mayday has reached over 3370 favorites as of writing this when it only had 600 a few days ago. To put this in perspective, this map has amassed more favorites in a week than popular osu! staples such as [FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804), [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313), [Blue Zenith](https://osu.ppy.sh/beatmapsets/292301), or [The Big Black](https://osu.ppy.sh/beatmapsets/41823), all of which hover around 2000-2500 favorites. The popularity boom behind this map is unparalled. If you're unsure why the map is so popular, please take the time to watch [this video](https://youtu.be/GthVq14IJl8?t=26s) and see for yourself.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/gid-v.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[Traktion - Gid V](https://osu.ppy.sh/beatmapsets/56886) by [galvenize](https://osu.ppy.sh/users/381444)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[Traktion - Gid V](https://osu.ppy.sh/beatmapsets/56886) by [galvenize](https://osu.ppy.sh/users/381444)
 
 Hopping all the way back to 2012, [galvenize](https://osu.ppy.sh/users/381444)'s Gid V was one of the most popular DnB maps of the time. It's incorporates everything people love about galvenize's style and puts it to a fun, catchy Traktion track. There's very little to say about the map, aside from highlighting its popularity from the time it was submitted.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/drop-pop-candy.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
-[GigaP & Reol - Drop Pop Candy](https://osu.ppy.sh/beatmapsets/194576) by [- M a o n -](https://osu.ppy.sh/users/701533)  
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+[GigaP & Reol - Drop Pop Candy](https://osu.ppy.sh/beatmapsets/194576) by [- M a o n -](https://osu.ppy.sh/users/701533)
 
 If it weren't for the anomaly [Mayday](https://osu.ppy.sh/beatmapsets/756794) this week, [- M a o n -](https://osu.ppy.sh/users/701533)'s Drop Pop Candy would have had the most favorites with 244. For those looking for something easier to play this Loved round, Drop Pop Candy is perfect for you. Its popularity may stem from being one of the first maps following the release of the GigaP/Reol collab song, though its mapping should not be undermined as it matches the pace perfectly.
 
