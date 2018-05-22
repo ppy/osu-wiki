@@ -46,7 +46,7 @@ While we have set teams that handle the approval process, there's nothing stoppi
 
 ### Where to start:
 
--   Look through (or search) the [Pending Beatmaps](http://osu.ppy.sh/p/beatmaplist&s=7&r=2) listing for artists/songs you like (or just choose ones at random).
+-   Look through (or search) the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?m=-1&s=4) listing for artists/songs you like (or just choose ones at random).
 -   Play the beatmaps and leave feedback in threads.
 -   Read the [Modding Guide](/wiki/Modding "Modding") and learn the basics of more technical modding.
 -   Read the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") and become familiar with what makes a map rankable.
