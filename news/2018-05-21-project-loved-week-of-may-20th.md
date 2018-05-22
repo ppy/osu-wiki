@@ -4,19 +4,21 @@ title: "Project Loved: Week of May 20th"
 date: 2018-05-21 06:00:00 +0000
 ---
 
-Another Sunday marks another [Project Loved](https://osu.ppy.sh/community/forums/120) voting on the horizon! Come and vote for your favourite beatmaps nominated from all four game modes!
+[Project Loved](https://osu.ppy.sh/community/forums/120) is back with another round of voting! Check out the captains' picks for all four game modes and vote for your favourites!
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Hello and welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of May 2018! This week contains several exciting picks for every game mode, and has something for both new and old players!
+Welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) voting round of May 2018! This week's map selection includes both recent hits and old favorites; there's sure to be something that will fit your tastes! The beatmap descriptions provided below will do the explaining, but first, there are a few things about Project Loved that we need to address.
 
-For those of you who are unfamiliar with Project Loved or how the new system works, each mode has "captains" who pick a selection of your submissions to be put up for vote every two weeks. These chosen selections are each given their own community poll, and any beatmaps with an approval rating above 75% for osu!standard and osu!taiko or 80% for osu!catch and osu!mania are moved into the Loved category after a week's time. Beatmaps that are Loved have leaderboards, but do not award performance points (much like Qualified maps).
+Firstly, the lineup of osu!catch captains is changing! Two of our long-time captains, [Deif](https://osu.ppy.sh/users/318565) and [JBHyperion](https://osu.ppy.sh/users/4879508), have decided to retire from the role. They both deserve a huge thanks for all the work they've done in nominating and reviewing osu!catch maps over the last seven months. To fill in the gap, regular beatmap description writer [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941) will be taking the position. He's already been working close with the Project Loved team for quite some time, so we're glad to welcome him as a captain!
 
-If you'd like to vote for any of the beatmaps in this week's selection, just click the map's header image and it'll lead you to the poll!
+Also this week, osu!catch is changing their nomination schedule slightly. From now on, osu!catch voting will only contain **four** beatmaps per week, one less than the previous five. The captains agreed that if they didn't slow down the pace, they might've run out of high-quality maps too quickly.
 
-If you'd like to help out and submit beatmaps *you* love to be considered for the Loved category, please use this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
+It's still going to be a while until any of the modes clear their backlogs of wanted loved maps. However, we're almost getting to the point where we need to consider how the format of Project Loved will change as we have less and less maps to move into the category. When the time comes closer, we'll share our thoughts regarding possible schedule changes and map quanitity reductions.
 
-If you read the last Project Loved post, you may remember that we promised the videos would be back this week... unfortunately, that's not the case. We're hoping to have our editor back in action for the next round of voting. Sorry :(
+Lastly, if you read the last Project Loved post, you may remember that we promised the videos would be back this week... unfortunately, that's not the case. We're hoping to have our editor back in action for the next round of voting. Sorry :(
+
+Alright, that's all for the meta talk. As always, you can vote for your favourite maps to enter the Loved category by clicking on the maps' images. Let's get into the picks!
 
 ### Navigation
 
