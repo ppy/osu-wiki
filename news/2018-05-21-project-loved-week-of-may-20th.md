@@ -14,7 +14,7 @@ Firstly, the lineup of osu!catch captains is changing! Two of our long-time capt
 
 Also this week, osu!catch is changing their nomination schedule slightly. From now on, osu!catch voting will only contain **four** beatmaps per week, one less than the previous five. The captains agreed that if they didn't slow down the pace, they might've run out of high-quality maps too quickly.
 
-It's still going to be a while until any of the modes clear their backlogs of wanted loved maps. However, we're almost getting to the point where we need to consider how the format of Project Loved will change as we have less and less maps to move into the category. When the time comes closer, we'll share our thoughts regarding possible schedule changes and map quanitity reductions.
+It's still going to be a while until any of the modes clear their backlogs of wanted loved maps. However, we're almost getting to the point where we need to consider how the format of Project Loved will change as we have less and less maps to move into the category. When the time comes closer, we'll share our thoughts regarding possible schedule changes and map quantity reductions.
 
 Lastly, if you read the last Project Loved post, you may remember that we promised the videos would be back this week... unfortunately, that's not the case. We're hoping to have our editor back in action for the next round of voting. Sorry :(
 
@@ -77,7 +77,7 @@ Much like Disconnected, these BPM edits of Omega Rhythm also made its rounds amo
 
 [TheFatRat - Mayday (feat. Laura Brehm)](https://osu.ppy.sh/beatmapsets/756794) by [Voltaeyx](https://osu.ppy.sh/users/2715118)
 
-Okay. Actually who could have predicted this. As of writing this, [Voltaeyx](https://osu.ppy.sh/users/2715118)'s Mayday has reached over 3370 favorites as of writing this when it only had 600 a few days ago. To put this in perspective, this map has amassed more favorites in a week than popular osu! staples such as [FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804), [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313), [Blue Zenith](https://osu.ppy.sh/beatmapsets/292301), or [The Big Black](https://osu.ppy.sh/beatmapsets/41823), all of which hover around 2000-2500 favorites. The popularity boom behind this map is unparalled. If you're unsure why the map is so popular, please take the time to watch [this video](https://youtu.be/GthVq14IJl8?t=26s) and see for yourself.
+Okay. Actually who could have predicted this. As of writing this, [Voltaeyx](https://osu.ppy.sh/users/2715118)'s Mayday has reached over 3370 favorites as of writing this when it only had 600 a few days ago. To put this in perspective, this map has amassed more favorites in a week than popular osu! staples such as [FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804), [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313), [Blue Zenith](https://osu.ppy.sh/beatmapsets/292301), or [The Big Black](https://osu.ppy.sh/beatmapsets/41823), all of which hover around 2000-2500 favorites. The popularity boom behind this map is unparalleled. If you're unsure why the map is so popular, please take the time to watch [this video](https://youtu.be/GthVq14IJl8?t=26s) and see for yourself.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/gid-v.jpg)](https://osu.ppy.sh/community/forums/topics/749054)
 
