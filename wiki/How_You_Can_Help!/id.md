@@ -10,7 +10,7 @@ Berikut adalah daftar terkini hal-hal yang saya pikir semua orang dapat membantu
 
 ## Bantu pengembangan [osu!wiki](https://github.com/ppy/osu-wiki "osu-wiki di GitHub")!
 
-Untuk menjaga konten di situs web tetap segar dan terkini, saya ingin memindahkan semua bagian yang berisi teks ke wiki. Hal ini termasuk FAQ, panduan ranking (ranking guidelines), semua panduan berbasis forum kami, bagian sejarah/informasi. Meskipun kami telah membuat kemajuan besar (berkat beberapa pengguna yang sangat berdedikasi), memperbarui wiki adalah proses berkelanjutan yang pada dasarnya dapat dilakukan oleh siapa pun. Ada juga banyak kesempatan untuk melakukan terjemahan yang tersisa untuk membuat konten dapat diakses dalam bahasa lain yang dikenal umat manusia!
+Untuk menjaga konten di situs web tetap terkini, saya ingin memindahkan semua bagian yang berisi teks ke wiki. Hal ini termasuk FAQ, panduan ranking (ranking guidelines), semua panduan berbasis forum kami, bagian sejarah/informasi. Meskipun kami telah membuat kemajuan besar (berkat beberapa pengguna yang sangat berdedikasi), memperbarui wiki adalah proses berkelanjutan yang pada dasarnya dapat dilakukan oleh siapa pun. Ada juga banyak kesempatan untuk melakukan terjemahan yang tersisa untuk membuat konten dapat diakses dalam bahasa lain yang dikenal umat manusia!
 
 ### Dimulai dari mana:
 
@@ -74,8 +74,7 @@ Setiap hari saya melihat hal negatif di osu!. Orang-orang mengeluh antara satu s
 ### Dimulai dari mana:
 
 -   Bersikap ramah satu sama lain. Hidup terlalu pendek untuk diperdebatkan.
--   Don't complain about cheaters. Just [report them and get on with your day](/wiki/Reporting_Bad_Behaviour/Handling_Cheating "Handling Cheating/Foul Behaviour"). They may have taken your top rank, but a simple "!report <username> seems to be cheating" can fix this in minutes to hours.
--   Jangan mengeluhkan pemain yang curang. [Laporkan saja dan lanjutkan hari Anda](/wiki/Reporting_Bad_Behaviour/Handling_Cheating "Menangani Perilaku Curang"). Mereka mungkin telah mengambil peringkat teratas Anda, tetapi sesederhana "!report <username> sepertinya melakukan kecurangan" dapat memperbaikinya dalam hitungan menit hingga berjam-jam.
+-   Jangan mengeluhkan pemain yang melakukan kecurangan. [Laporkan saja dan lanjutkan hari Anda](/wiki/Reporting_Bad_Behaviour/Handling_Cheating "Menangani Perilaku Curang"). Mereka mungkin telah mengambil peringkat teratas Anda, tetapi sesederhana "!report <username> sepertinya melakukan kecurangan" dapat memperbaikinya dalam hitungan menit hingga berjam-jam.
 -   Gunakan cara Anda untuk menengahi situasi negatif dan ubah menjadi hal yang lebih positif.
 
 Kiriman ini bukan berarti semuanya telah lengkap saya sampaikan, tapi saya harap saya telah membagikan beberapa wawasan mengenai apa saja yang bisa Anda lakukan untuk membuat osu! lebih baik dari yang sudah ada :).
