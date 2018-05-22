@@ -1,79 +1,77 @@
-Beatmaps 
+# Beatmaps 
 
-Tidak bingung dengan: Kesulitan
+*Tidak bingung dengan: [Kesulitan](/wiki/Difficulties).*
 
-Beatmaps adalah tingkat kesulitan dalam osu! seperti tahapan di permainan DS. Dalam bentuk paling dasar mereka,
-beatmap memiliki lagu dan berbagai hit objects yang ditempatkan sesuai dengan irama musik.Mereka juga dapat memiliki gambar latar belakang,
-video, dan / atau storyboard.
+Beatmaps adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permain DS](/wiki/Glossary/#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik.Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
 
-Beatmaps dapat diunggah oleh BSS (Beatmap Submission System) dan kemudianmelalui proses persetujuan yang disebut modding untuk mempertahankan standar.
+Beatmaps diunggah menggunakan [BSS](/wiki/BSS) (Beatmap Submission System) dan kemudian melalui proses persetujuan yang disebut [modding](/wiki/modding) untuk mempertahankan standar.
 
-Anda dapat menemukan beatmaps di Beatmaps Listing di halaman di osu! web.
+Anda dapat menemukan beatmaps di [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) di halaman di osu! web.
 
-Status Ranking
+## Status Ranking
 
-Ranked beatmap menggunakan ikon chevron ganda ke atas (Ikon chevron ganda ke atas) di halaman pemilihan lagu.
+Beatmap yang ter ranked dan approved memerlukan persetujuan dari dua [Beatmap Nominators](/wiki/Beatmap_Nominators). Mereka dapat mengubah statistik pada profil seorang pemain yang membuat mereka berbeda dari beatmap [pending](#pending) atau [graveyarded](#graveyard).
+
+### Ranked
+
+Ranked beatmap menggunakan ikon chevron ganda ke atas (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) di halaman pemilihan lagu.
+
+Beatmaps ini memenuhi semua [kriteria peringkatan](/wiki/ranking_criteria) secara ideal. Hal ini untuk memastikan bahwa sebagian besar pemain dapat mengharapkan standar tertentu saat memainkannya.
+
+### Approved
+
+Beatmap yang disetujui menggunakan ikon centang (![Check icon](/wiki/shared/status/approved.png)) di halaman pemilihan lagu.
+
+Status yang disetujui biasanya untuk lagu yang berdurasi lebih dari lima menit (juga dikenal sebagai [maraton](/wiki/marathon)), diukur dari total [drain time](/wiki/drain_time) dari sebuah beatmap. Kebanyakan beatmap yang disetujui tidak memiliki kesulitan yang [easy](/wiki/easy) atau [normal](/wiki/normal). Namun, beberapa pembuat konten dapat mengunggahnya sebagai beatmap yang terpisah dengan lagu-lagu yang identik sementara beberapa termasuk di dalam ranked, berisi ranked beatmaps.
+
+### Qualified
+
+Beatmap yang memenuhi syarat menggunakan ikon centang (![Check icon](/wiki/shared/status/qualified.png)) di halaman pemilihan lagu.
+
+Beatmap ini berada di tahap terakhir dari proses beatmapping dan modding. Sebelum beatmap mulai, dialog akan ditampilkan, memperingati status dari beatmap akan menyebabkan:
+
+- Tidak ada pp yang akan diberikan.
+- Semua skor akan dihapus saat status beatmap diganti.
+  - Jika status beatmap diganti ke ranked, disetujui, atau kembali ke tertunda; semua skor akan dihapus!
+  
+Ketika sebuah beatmap memenuhi syarat,telah lulus [kriteria peringkatan](/wiki/ranking_criteria) dan telah diperiksa oleh dua [Beatmap Nominators](/wiki/Beatmap_Nominators). Beatmap yang memenuhi syarat memasuki tahap terakhir pertahanan karena mereka harus berada dalam status ini selama satu minggu sebelum menjadi [ranked](#ranked) atau [approved](#approved) secara permanen.
  
-Beatmaps ini memenuhi semua kriteria peringkat secara ideal. Hal ini untuk memastikan bahwa sebagian besar pemain dapat mengharapkan standar tertentu saat memainkannya.
-
-Disetujui
-
-Beatmap yang disetujui menggunakan ikon centang (ikon centang) di halaman pemilihan lagu.
-
-Status yang disetujui biasanya untuk lagu yang berdurasi lebih dari lima menit (juga dikenal sebagai marathon), diukur dengan total
-drain time dari sebuah beatmap. Kebanyakan beatmap yang disetujui tidak memiliki kesulitan yang mudah atau normal.Namun, beberapa pembuat konten
-dapat mengunggahnya sebagai beatmap yang terpisah dengan lagu-lagu yang identik sementara beberapa termasuk di dalam ranked, berisi ranked beatmaps.
-
-Berkualitas
-
-Beatmap yang memenuhi syarat menggunakan ikon centang (ikon Cek) di halaman pemilihan lagu.
-
-Beatmap ini berada di tahap terakhir dari proses beatmapping dan modding. Sebelum beatmap mulai, 
-dialog akan ditampilkan, memperingati status dari beatmap akan menyebabkan:
-• Tidak ada pp yang akan diberikan.
-• Semua skor akan dihapus saat status beatmap diganti.
-  ○ Jika status beatmap diganti ke ranked, disetujui, atau kembali ke tertunda; semua skor akan dihapus!
+Namun, selama durasi satu minggu, [QATs](/wiki/QAT) diizinkan untuk mencari permasalahan dengan beatmap ini. Jika ini terjadi, status beatmapset akan kembali ke pending dan prosesnya dimulai lagi.
   
-Ketika sebuah beatmap memenuhi syarat,telah lulus kriteria peringkat dan telah diperiksa oleh dua Nominator Beatmap. Beatmap yang memenuhi syarat
- memasuki tahap terakhir pertahanan karena mereka harus berada dalam status ini selama satu minggu sebelum menjadi peringkat atau disetujui secara permanen.
- 
- Namun, selama durasi satu minggu, QAT diizinkan untuk mencari permasalahan dengan beatmap ini. Jika ini terjadi,
-  status beatmapset akan kembali ke pending dan prosesnya dimulai lagi.
+### Loved
   
-Dicintai
+Beatmap yang dicintai menggunakan ikon hati (![Heart icon](/wiki/shared/status/loved.png)) di halaman pemilihan lagu.
   
-Beatmap yang dicintai menggunakan ikon hati (ikon Jantung) di halaman pemilihan lagu.
-  
-Beatmap ini mungkin tidak memenuhi kriteria peringkat tetapi dicintai oleh komunitas dan secara teratus ditambahkan berdasarkan suara.
-Sebelum beatmap mulai, dialog akan ditampilkan, memperingati status dari beatmap akan menyebabkan:
-  • Tidak ada pp yang akan diberikan.
-  • Semua skor akan dihapus saat pembuat memperbaharui beatmapnya.
+Beatmap ini mungkin tidak memenuhi [kriteria peringkatan](/wiki/ranking_criteria) tetapi dicintai oleh komunitas dan secara teratur ditambahkan berdasarkan suara. Sebelum beatmap mulai, dialog akan ditampilkan, memperingati status dari beatmap akan menyebabkan:
+
+- Tidak ada pp yang akan diberikan.
+- Semua skor akan dihapus saat pembuat memperbaharui beatmapnya.
 
 Status ini akan meberikan beatmap leaderboard.
 
-Untuk menjadikan sebuah beatmap ke status dicintai, lihat post forum: Jadikan beatmap mu dicintai!.
+Untuk menjadikan sebuah beatmap ke status dicintai, lihat kiriman forum: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
 
-Tertunda
+### Pending
 
-Lihat juga: Prosedur Peringkat Beatmap
+*Lihat juga: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
 
-Beatmap yang tertunda menggunakan ikon tanda tanya (ikon tanda tanya) di halaman pemilihan lagu.
-Sebuah beatmap dengan status tertunda biasanya menunggu untuk di mod.Pembuat harus mencari modder dari komunitas
-dan setidaknya dua Beatmap Nominator untuk mengeluarkan beatmapset mereka dari status ini.
+Beatmap yang tertunda menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/pending.png)) di halaman pemilihan lagu.
 
-Beatmap yang tidak akif yang telah ada di kategori ini selama 4 minggu akan dipindahkan ke status kuburan secara otomatis.
+Sebuah beatmap dengan status tertunda biasanya menunggu untuk di [modded](/wiki/modded). [Pembuat](/wiki/Creators) harus mencari modder dari komunitas dan setidaknya dua Beatmap Nominator untuk mengeluarkan beatmapset mereka dari status ini.
+
+Beatmap yang tidak akif yang telah ada di kategori ini selama 4 minggu akan dipindahkan ke status [graveyard](#graveyard) secara otomatis.
 
 Semua beatmap yang tertunda tidak mempengaruhi statistik pengguna.
 
-Kuburan.
+### Graveyard
 
-Beatmap Kuburan menggunakan ikon tanda tanya (ikon tanda tanya) di halaman pemilihan lagu.
+Beatmap Kuburan menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/graveyard.png)) di halaman pemilihan lagu.
 
-These beatmaps were initally pending,tetapi dipindahkan ke status ini karena belum diperbarui 
-atau post nya tidak aktif selama 4 minggu. Beatmap ini tidak dapat diperbarui sampai mapper menghidupkannya dengan mengklik
-tautan Revive Beatmap di profil mereka, di bawah kategori Beatmaps.
+Beatmap tersebut sebenarnya dalam status [pending](#pending), tetapi dipindahkan ke status ini karena belum diperbarui 
+atau post nya tidak aktif selama 4 minggu. Beatmap ini tidak dapat diperbarui sampai [mapper](/wiki/mapper) menghidupkannya dengan mengklik
+tautan `Revive Beatmap` di profil mereka, di bawah kategori `Beatmaps`.
 
-Semua beatmap yang berada di kuburantidak mempengaruhi statistik pengguna.
+Semua beatmap yang berada di status graveyard tidak akan mempengaruhi statistik pengguna.
 
 Demi menghemat ruang digital untuk beatmap terbaru, osu! akan menyingkirkan beatmap ini jika mereka telah berada dalam status
 ini untuk jangka waktu yang lama.
