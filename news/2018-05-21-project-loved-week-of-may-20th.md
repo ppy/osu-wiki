@@ -81,7 +81,7 @@ Okay. Actually who could have predicted this. As of writing this, [Voltaeyx](htt
 
 [Traktion - Gid V](https://osu.ppy.sh/beatmapsets/56886) by [galvenize](https://osu.ppy.sh/users/381444)
 
-Hopping all the way back to 2012, [galvenize](https://osu.ppy.sh/users/381444)'s Gid V was one of the most popular DnB maps of the time. It's incorporates everything people love about galvenize's style and puts it to a fun, catchy Traktion track. There's very little to say about the map, aside from highlighting its popularity from the time it was submitted.
+Hopping all the way back to 2012, [galvenize](https://osu.ppy.sh/users/381444)'s Gid V was one of the most popular DnB maps of the time. It incorporates everything people love about galvenize's style and puts it to a fun, catchy Traktion track. There's very little to say about the map, aside from highlighting its popularity from the time it was submitted.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/drop-pop-candy.jpg)](https://osu.ppy.sh/community/forums/topics/749055)
 
@@ -96,28 +96,28 @@ If it weren't for the anomaly [Mayday](https://osu.ppy.sh/beatmapsets/756794) th
 [Goreshit - Still scared of ouija boards](https://osu.ppy.sh/beatmapsets/663341) by [Backfire](https://osu.ppy.sh/users/263110) and [-Kazu-](https://osu.ppy.sh/users/920861)  
 *written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
-It may not be Halloween yet, but [Backfire](https://osu.ppy.sh/users/263110) and [-Kazu-](https://osu.ppy.sh/users/920861) are still bringing the ouija boards for you to be spooked! Although the song doesn't quite fit the theme, this very awesome beatmap to a great tune really brings out the best of both of these mappers. It’s a good stamina and reading challenge, and it’s not something you want to miss! Just, don’t burn the map if you’re too scared...
+It may not be Halloween yet, but [Backfire](https://osu.ppy.sh/users/263110) and [-Kazu-](https://osu.ppy.sh/users/920861) are still bringing the ouija boards for you to be spooked! Although the song doesn't quite fit the theme, this very awesome beatmap to a great tune really brings out the best of both of these mappers. It's a good stamina and reading challenge, and it's not something you want to miss! Just, don't burn the map if you're too scared...
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/sink-to-the-deep-sea-world.jpg)](https://osu.ppy.sh/community/forums/topics/749061)
 
 [Chroma - sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811) by [Ulqui](https://osu.ppy.sh/users/1263669)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-An extremely prolific and underrated mapper in the taiko community, [Ulqui](https://osu.ppy.sh/users/1263669), makes his debut in the Loved category! Mostly known for his use of SV in taiko, we are treated to one of his most popular maps, [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811). Very densely packed, this map has a lot of extremely long 1/4 streams, and players might remember this map from last year's TWC as a Hard Rock pick in the Semi-Finals! Let’s not let this one sink any further into the grave!
+An extremely prolific and underrated mapper in the taiko community, [Ulqui](https://osu.ppy.sh/users/1263669), makes his debut in the Loved category! Mostly known for his use of SV in taiko, we are treated to one of his most popular maps, [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811). Very densely packed, this map has a lot of extremely long 1/4 streams, and players might remember this map from last year's TWC as a Hard Rock pick in the Semi-Finals! Let's not let this one sink any further into the grave!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/kakushinteki-metamaruphose-.jpg)](https://osu.ppy.sh/community/forums/topics/749062)
 
 [Umaru Doma [CV: Aimi Tanaka] - Kakushinteki\*Metamaruphose!](https://osu.ppy.sh/beatmapsets/334440) by [-H a y a-](https://osu.ppy.sh/users/5440423)  
 *written by [Gezoda](https://osu.ppy.sh/users/481582)*
 
-You asked for it; they delivered! Fun, speed, some stamina and crazy anime openings in one single set mapped by -H a y a-. Thankfully for anyone who isn't brave enough to tackle this insane challenge, this set is complete, meaning you can play at your level rather than playing something that is way too hard, and the difficulties are still solid. If you love this anime, give this map a go, and don’t forget to turn on the wifi! ...Or so they say.
+You asked for it; they delivered! Fun, speed, some stamina and crazy anime openings in one single set mapped by -H a y a-. Thankfully for anyone who isn't brave enough to tackle this insane challenge, this set is complete, meaning you can play at your level rather than playing something that is way too hard, and the difficulties are still solid. If you love this anime, give this map a go, and don't forget to turn on the wifi! ...Or so they say.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/ra-am.jpg)](https://osu.ppy.sh/community/forums/topics/749063)
 
-[Rairyu - ra’am](https://osu.ppy.sh/beatmapsets/224900) by [glalucard](https://osu.ppy.sh/users/577406)  
+[Rairyu - ra'am](https://osu.ppy.sh/beatmapsets/224900) by [glalucard](https://osu.ppy.sh/users/577406)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-As far as legends go, [glalucard](https://osu.ppy.sh/users/577406) is certainly one of them. Hosting a number of maps that felt instantly ahead of anyone else at the time, at the forefront we have the infamous [ra'am](https://osu.ppy.sh/beatmapsets/224900). A test of one’s ability to play tricky patterns and at a relatively high speed, this has been one taiko players have practiced for years and years. Many will surely be delighted to see this in the Loved section!
+As far as legends go, [glalucard](https://osu.ppy.sh/users/577406) is certainly one of them. Hosting a number of maps that felt instantly ahead of anyone else at the time, at the forefront we have the infamous [ra'am](https://osu.ppy.sh/beatmapsets/224900). A test of one's ability to play tricky patterns and at a relatively high speed, this has been one taiko players have practiced for years and years. Many will surely be delighted to see this in the Loved section!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/chousai-kenbo-sengen.jpg)](https://osu.ppy.sh/community/forums/topics/749064)
 
@@ -131,7 +131,7 @@ Technical map with a pinch of catgirls, Chousai Kenbo Sengen really is something
 [Silent Siren - Hachigatsu no Yoru](https://osu.ppy.sh/beatmapsets/410556) by [suni](https://osu.ppy.sh/users/4126437)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-With over 30 favorites and a great grasp of rhythm and just the right amount of challenge to keep most players entertained, you would figure this wasn't [suni](https://osu.ppy.sh/users/4126437)’s first map but, you’d be surprised to find out that it is! For a first map, [Hachigatsu no Yoru](https://osu.ppy.sh/beatmapsets/410556) is certainly impressive. With it’s fun variety of patterns and infectiously catchy use of vocal mapping, you really can’t go wrong!
+With over 30 favorites and a great grasp of rhythm and just the right amount of challenge to keep most players entertained, you would figure this wasn't [suni](https://osu.ppy.sh/users/4126437)'s first map but, you'd be surprised to find out that it is! For a first map, [Hachigatsu no Yoru](https://osu.ppy.sh/beatmapsets/410556) is certainly impressive. With its fun variety of patterns and infectiously catchy use of vocal mapping, you really can't go wrong!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/the-medley-of-kirby-ssdx.jpg)](https://osu.ppy.sh/community/forums/topics/749066)
 
@@ -147,14 +147,14 @@ This one was for the ages. Featuring a list of over 30 incredible and noteworthy
 [nanahira - Francium](https://osu.ppy.sh/beatmapsets/116056) by [Yami Shoujo](https://osu.ppy.sh/users/1978891)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-Here we go back in time to experience some nostalgia with [Yami Shoujo](https://osu.ppy.sh/users/1978891)'s take on nanahira’s Francium. This map is very well known for people that played lots of multiplayer in the past, being very popular and liked back in the day. It contains various interesting stream patterns which compliment nyanyahira’s song very fittingly. The map is not too difficult, which makes it accessible to most people. So to anyone who enjoys either Yami Shoujo’s or nanahira’s work: rejoice! It is now your chance to possibly get this the love it deserves.
+Here we go back in time to experience some nostalgia with [Yami Shoujo](https://osu.ppy.sh/users/1978891)'s take on nanahira's Francium. This map is very well known for people that played lots of multiplayer in the past, being very popular and liked back in the day. It contains various interesting stream patterns which compliment nyanyahira's song very fittingly. The map is not too difficult, which makes it accessible to most people. So to anyone who enjoys either Yami Shoujo's or nanahira's work: rejoice! It is now your chance to possibly get this the love it deserves.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/catch/sumidagawa-karenka.jpg)](https://osu.ppy.sh/community/forums/topics/749071)
 
 [seiya-murai feat.ALT - Sumidagawa Karenka](https://osu.ppy.sh/beatmapsets/359719) by [Gommy](https://osu.ppy.sh/users/3555114)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-[Gommy](https://osu.ppy.sh/users/3555114)'s Sumidagawa Karenka is one of the most soothing cross screen jump maps from the past few years. The map being as soothing as it is doesn’t imply however that it is also easy to play, as there are very few people capable of passing this let alone pulling off a full combo. Altogether this makes for a very fun experience with tons of replayability that can be done, so check it out!
+[Gommy](https://osu.ppy.sh/users/3555114)'s Sumidagawa Karenka is one of the most soothing cross screen jump maps from the past few years. The map being as soothing as it is doesn't imply however that it is also easy to play, as there are very few people capable of passing this let alone pulling off a full combo. Altogether this makes for a very fun experience with tons of replayability that can be done, so check it out!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/catch/kanpan-tasogare-shinbun.jpg)](https://osu.ppy.sh/community/forums/topics/749072)
 
@@ -184,7 +184,7 @@ A fairly known chart in competitive circles, [Jole](https://osu.ppy.sh/users/288
 [Billx - LA MD](https://osu.ppy.sh/beatmapsets/455656) by [Wh1teh](https://osu.ppy.sh/users/2640467)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-Next up we have a chart that's a very popular chart in the community for a long while:  [Wh1teh](https://osu.ppy.sh/users/2640467)’s rendition of [LA MD](https://osu.ppy.sh/beatmapsets/455656). This chart is very widely known in the 4K community as a standard stamina tester, running at 190BPM, it has fairly consistent patterning with straight, not overly dense jumpstreams and some sporadic rolly bursts, it’s fairly approachable difficulty is a big draw for players looking to test their physical limits. Not to mention that the song is an absolute banger!
+Next up we have a chart that's a very popular chart in the community for a long while:  [Wh1teh](https://osu.ppy.sh/users/2640467)'s rendition of [LA MD](https://osu.ppy.sh/beatmapsets/455656). This chart is very widely known in the 4K community as a standard stamina tester, running at 190BPM, it has fairly consistent patterning with straight, not overly dense jumpstreams and some sporadic rolly bursts, it's fairly approachable difficulty is a big draw for players looking to test their physical limits. Not to mention that the song is an absolute banger!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/mania/the-clockwork-rose-tokei-shikake-no-bara-shoujo-.jpg)](https://osu.ppy.sh/community/forums/topics/749081)
 
@@ -200,13 +200,13 @@ This chart is also notorious for its difficulty -- it was used in the Finals sta
 [Suzumu - Kakumeisei ousama densenbyou](https://osu.ppy.sh/beatmapsets/463826) by [Zenonia](https://osu.ppy.sh/users/437945)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-We've already talked about [Zenonia](https://osu.ppy.sh/users/437945)’s maps in the past, and here we are again to talk about his map, [Kakumeisei ousama densenbyou by Suzumu](https://osu.ppy.sh/beatmapsets/463826). This map is very Long Note heavy apart from being 200 BPM, which is pretty fast for Long Notes. This map is not friendly at all due to the kind of patterning that it shows, featuring Inverse Chordstreams, a few light chordstreaming sections, and some rolly Long Notes every here and there. This does not look something comfortable to play, right? Well... The ending is basically a mix of everything I mentioned before plus extremely tricky shields will force EVERY SINGLE PLAYER to combobreak, no matter how good you are.
+We've already talked about [Zenonia](https://osu.ppy.sh/users/437945)'s maps in the past, and here we are again to talk about his map, [Kakumeisei ousama densenbyou by Suzumu](https://osu.ppy.sh/beatmapsets/463826). This map is very Long Note heavy apart from being 200 BPM, which is pretty fast for Long Notes. This map is not friendly at all due to the kind of patterning that it shows, featuring Inverse Chordstreams, a few light chordstreaming sections, and some rolly Long Notes every here and there. This does not look something comfortable to play, right? Well... The ending is basically a mix of everything I mentioned before plus extremely tricky shields will force EVERY SINGLE PLAYER to combobreak, no matter how good you are.
 
 Even though this map sounds like hell, there is something "positive"! Due to the low Overall Difficulty that this map is set at, the Long Notes are a little bit easier to hit, therefore your score will not be as bad as it could be.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/mania/dreamin-attraction-extended-.jpg)](https://osu.ppy.sh/community/forums/topics/749083)
 
-[Hino isuika - Dreamin’ attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/517221) by [qodtjr](https://osu.ppy.sh/users/3021168)  
+[Hino isuika - Dreamin' attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/517221) by [qodtjr](https://osu.ppy.sh/users/3021168)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 Please, give a warm welcome to [qodtjr](https://osu.ppy.sh/users/3021168) (also known as baengseok) and his map, [hino isuika – Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/517221). Being featured in the 7K osu!mania World Cup 2017 Finals/Grand Finals mappool, this map brings us a unique BMS experience with mid-high density chordstreams, light jacks and light Long Note sections during the first half. After that, we can appreciate a small break to rest our hands and prepare to the upcoming section.
