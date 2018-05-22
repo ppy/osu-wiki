@@ -6,7 +6,7 @@ BanchoBot ist ein Bot (d.h. er führt eine Liste an Befehlen aus und antwortet m
 
 ## BanchoBots Befehle
 
-Um Befehle von BanchoBot ausführen zu lassen, muss immer ein `!` am Anfang der Nachricht stehen. **Normale Nutzer können Befehle nur in Mehrspielerkanälen und in PMs an BanchoBot ausführen!** Wenn du einen Befehl in öffentlichen Kanälen sendest, ist die Antwort darauf immer eine private Nachricht, die von anderen Nutzern nicht gesehen werden kann. Man kann auch den Clientbefehl `/bb <Befehl>` verwenden, um den Befehl direkt als Privatnachricht an BanchoBot zu senden.
+Um Befehle von BanchoBot ausführen zu lassen, muss immer ein `!` am Anfang der Nachricht stehen. **Normale Nutzer können Befehle nur in Mehrspielerkanälen und in Privatnachrichten an BanchoBot ausführen!** Wenn du einen Befehl in öffentlichen Kanälen sendest, ist die Antwort darauf immer eine private Nachricht, die von anderen Nutzern nicht gesehen werden kann. Man kann auch den Clientbefehl `/bb <Befehl>` verwenden, um den Befehl direkt als Privatnachricht an BanchoBot zu senden.
 
 _Für eine Liste an Clientbefehlen (`/befehl`) siehe [Chatkonsole](/wiki/Chat_Console#commands-list)._
 
