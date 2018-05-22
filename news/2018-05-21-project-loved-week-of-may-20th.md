@@ -8,7 +8,7 @@ date: 2018-05-21 06:00:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) voting round of May 2018! This week's map selection includes both recent hits and old favorites; there's sure to be something that will fit your tastes! The beatmap descriptions provided below will do the explaining, but first, there are a few things about Project Loved that we need to address.
+Welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) voting round of May 2018! This week's beatmap selection includes both recent hits and old favourites; there's sure to be something that will fit your tastes! The descriptions provided below will do the explaining, but first, there are a few things about Project Loved that we need to address.
 
 Firstly, the lineup of osu!catch captains is changing! Two of our long-time captains, [Deif](https://osu.ppy.sh/users/318565) and [JBHyperion](https://osu.ppy.sh/users/4879508), have decided to retire from the role. They both deserve a huge thanks for all the work they've done in nominating and reviewing osu!catch maps over the last seven months. To fill in the gap, regular beatmap description writer [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941) will be taking the position. He's already been working close with the Project Loved team for quite some time, so we're glad to welcome him as a captain!
 
@@ -53,7 +53,7 @@ One of osu!'s possibly most underrated mappers, [Flower](https://osu.ppy.sh/user
 
 [siromaru - Absurd Gaff](https://osu.ppy.sh/beatmapsets/278213) by [rustbell](https://osu.ppy.sh/users/227717)
 
-Nearly everyone must be familiar with [rustbell](https://osu.ppy.sh/users/227717) in some way at this point. High profile top player in both standard and mania along with being one of the most popular high star rating graveyard mappers out there, rustbell never disappoints in his creations, all of which have an underlying motif to the madness which stands out at first glance in his works. As intense as his maps may be, they all fit in one way or another to the music, and those patterning choices are best exemplified in Absurd Gaff. A nearly full mapset (only the Insane is incomplete) all mapped by rustbell himself, Absurd Gaff may be one of his most notable creations to this day.
+Nearly everyone must be familiar with [rustbell](https://osu.ppy.sh/users/227717) in some way at this point. High profile top player in both osu! and osu!mania along with being one of the most popular high star rating graveyard mappers out there, rustbell never disappoints in his creations, all of which have an underlying motif to the madness which stands out at first glance in his works. As intense as his maps may be, they all fit in one way or another to the music, and those patterning choices are best exemplified in Absurd Gaff. A nearly full mapset (only the Insane is incomplete) all mapped by rustbell himself, Absurd Gaff may be one of his most notable creations to this day.
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/osu/diabolikha.jpg)](https://osu.ppy.sh/community/forums/topics/749050)
 
@@ -105,7 +105,7 @@ It may not be Halloween yet, but [Backfire](https://osu.ppy.sh/users/263110) and
 [Chroma - sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811) by [Ulqui](https://osu.ppy.sh/users/1263669)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-An extremely prolific and underrated mapper in the taiko community, [Ulqui](https://osu.ppy.sh/users/1263669), makes his debut in the Loved category! Mostly known for his use of SV in taiko, we are treated to one of his most popular maps, [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811). Very densely packed, this map has a lot of extremely long 1/4 streams, and players might remember this map from last year's TWC as a Hard Rock pick in the Semi-Finals! Let's not let this one sink any further into the grave!
+An extremely prolific and underrated mapper in the osu!taiko community, [Ulqui](https://osu.ppy.sh/users/1263669), makes his debut in the Loved category! Mostly known for his use of SV in osu!taiko, we are treated to one of his most popular maps, [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/589811). Very densely packed, this map has a lot of extremely long 1/4 streams, and players might remember this map from last year's TWC as a Hard Rock pick in the Semi-Finals! Let's not let this one sink any further into the grave!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/kakushinteki-metamaruphose-.jpg)](https://osu.ppy.sh/community/forums/topics/749062)
 
@@ -119,7 +119,7 @@ You asked for it; they delivered! Fun, speed, some stamina and crazy anime openi
 [Rairyu - ra'am](https://osu.ppy.sh/beatmapsets/224900) by [glalucard](https://osu.ppy.sh/users/577406)  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-As far as legends go, [glalucard](https://osu.ppy.sh/users/577406) is certainly one of them. Hosting a number of maps that felt instantly ahead of anyone else at the time, at the forefront we have the infamous [ra'am](https://osu.ppy.sh/beatmapsets/224900). A test of one's ability to play tricky patterns and at a relatively high speed, this has been one taiko players have practiced for years and years. Many will surely be delighted to see this in the Loved section!
+As far as legends go, [glalucard](https://osu.ppy.sh/users/577406) is certainly one of them. Hosting a number of maps that felt instantly ahead of anyone else at the time, at the forefront we have the infamous [ra'am](https://osu.ppy.sh/beatmapsets/224900). A test of one's ability to play tricky patterns and at a relatively high speed, this has been one that osu!taiko players have practiced for years and years. Many will surely be delighted to see this in the Loved section!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/taiko/chousai-kenbo-sengen.jpg)](https://osu.ppy.sh/community/forums/topics/749064)
 
@@ -140,7 +140,7 @@ With over 30 favorites and a great grasp of rhythm and just the right amount of 
 [Hapi - THE MEDLEY OF KIRBY SSDX](https://osu.ppy.sh/beatmapsets/205717) by [alecreit](https://osu.ppy.sh/users/2586173) et al.  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-This one was for the ages. Featuring a list of over 30 incredible and noteworthy Japanese mappers, this is their biggest and best collaboration. A 15 minute medley of Kirby music and an epic collaboration of mappers can only equal pure unadulterated joy over the length of your play. Between the storyboard and the music, this is one huge nostalgia trip for Taiko nerds all around the world. Names that you may recognize, names you may never have seen before, one cannot help but feel happy for the joy that Taiko brings to the Japanese community, and we all get to celebrate it with this map!
+This one was for the ages. Featuring a list of over 30 incredible and noteworthy Japanese mappers, this is their biggest and best collaboration. A 15 minute medley of Kirby music and an epic collaboration of mappers can only equal pure unadulterated joy over the length of your play. Between the storyboard and the music, this is one huge nostalgia trip for taiko nerds all around the world. Names that you may recognize, names you may never have seen before, one cannot help but feel happy for the joy that osu!taiko brings to the Japanese community, and we all get to celebrate it with this map!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
@@ -202,7 +202,7 @@ This chart is also notorious for its difficulty -- it was used in the Finals sta
 [Suzumu - Kakumeisei ousama densenbyou](https://osu.ppy.sh/beatmapsets/463826) by [Zenonia](https://osu.ppy.sh/users/437945)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-We've already talked about [Zenonia](https://osu.ppy.sh/users/437945)'s maps in the past, and here we are again to talk about his map, [Kakumeisei ousama densenbyou by Suzumu](https://osu.ppy.sh/beatmapsets/463826). This map is very Long Note heavy apart from being 200 BPM, which is pretty fast for Long Notes. This map is not friendly at all due to the kind of patterning that it shows, featuring Inverse Chordstreams, a few light chordstreaming sections, and some rolly Long Notes every here and there. This does not look something comfortable to play, right? Well... The ending is basically a mix of everything I mentioned before plus extremely tricky shields will force EVERY SINGLE PLAYER to combobreak, no matter how good you are.
+We've already talked about [Zenonia](https://osu.ppy.sh/users/437945)'s maps in the past, and here we are again to talk about his map, [Kakumeisei ousama densenbyou by Suzumu](https://osu.ppy.sh/beatmapsets/463826). This map is very Long Note heavy apart from being 200BPM, which is pretty fast for Long Notes. This map is not friendly at all due to the kind of patterning that it shows, featuring Inverse Chordstreams, a few light chordstreaming sections, and some rolly Long Notes every here and there. This does not look something comfortable to play, right? Well... The ending is basically a mix of everything I mentioned before plus extremely tricky shields will force EVERY SINGLE PLAYER to combobreak, no matter how good you are.
 
 Even though this map sounds like hell, there is something "positive"! Due to the low Overall Difficulty that this map is set at, the Long Notes are a little bit easier to hit, therefore your score will not be as bad as it could be.
 
@@ -220,22 +220,22 @@ If you think, the first half is hard enough, well.... The second half is almost 
 [UNDEAD CORPORATION - Seven Colors](https://osu.ppy.sh/beatmapsets/288138) by [Nwolf](https://osu.ppy.sh/users/1910766) et al.  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Being a multimode set, [Seven Colors by UNDEAD CORPORATION](https://osu.ppy.sh/beatmapsets/288138) brings us a really good 7K difficulty set made by [LordRaika](https://osu.ppy.sh/users/3265023) and [Arzenvald](https://osu.ppy.sh/users/3027421). It mostly features a good mix between low-mid density chordstreams and Long Note sections, followed by sightreadable Scroll Velocities throughout the entire map at 200 BPM for almost 3 minutes and a half, which means two things, stamina and consistency.
+Being a multimode set, [Seven Colors by UNDEAD CORPORATION](https://osu.ppy.sh/beatmapsets/288138) brings us a really good 7K difficulty set made by [LordRaika](https://osu.ppy.sh/users/3265023) and [Arzenvald](https://osu.ppy.sh/users/3027421). It mostly features a good mix between low-mid density chordstreams and Long Note sections, followed by sightreadable Scroll Velocities throughout the entire map at 200BPM for almost 3 minutes and a half, which means two things, stamina and consistency.
 
-This map was also featured in the 7K osu!mania World Cup 2018 Quarterfinals mappool and it is good enough to give it a shoot at least. Good luck!
+This map was also featured in the 7K osu!mania World Cup 2018 Quarterfinals mappool and it is good enough to give it a shot at least. Good luck!
 
 [![](/wiki/shared/news/2018-05-21-project-loved-week-of-may-20th/mania/outside.jpg)](https://osu.ppy.sh/community/forums/topics/749085)
 
 [Bill wurtz - outside](https://osu.ppy.sh/beatmapsets/735580) by [Nivrad00](https://osu.ppy.sh/users/1984634)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-Our last chart in the list, comes from the charter that at this point, everyone knows. The most unique persona in osu!mania's charting scene - [Nivrad00](https://osu.ppy.sh/users/1984634). This time we are featuring one of his works made specifically for this year's 7K Mania World Cup - [Outside](https://osu.ppy.sh/beatmapsets/735580).
+Our last chart in the list, comes from the charter that at this point, everyone knows. The most unique persona in osu!mania's charting scene - [Nivrad00](https://osu.ppy.sh/users/1984634). This time we are featuring one of his works made specifically for this year's 7K osu!mania World Cup - [Outside](https://osu.ppy.sh/beatmapsets/735580).
 
 This jazzy tune by even more unique artist - Bill Wurtz is complimented incredibly well by the tasteful and silly usage of SV gimmick, including some funky white line gimmicks and fairly artistic patterning, combining abrasive LN patterning with wide variety of rice including weird bursts and tough to read minijacks. It's really going Outside the boundaries of conventional charting and as such deserves a spot in the Loved category!
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 
