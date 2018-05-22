@@ -4,12 +4,12 @@
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
 # Sammlung
-Eine Sammlung mit allen vollendeten osu! Skins.
+Eine Sammlung mit allen vollendeten Skins für osu!.
 
-- ![][o!s]  - bedeutet, dass der Skin osu!standard Elemente enthält.
-- ![][o!c]  - bedeutet, dass der Skin osu!catch Elemente enthält.
-- ![][o!t]  - bedeutet, dass der Skin osu!taiko Elemente enthält.
-- ![][o!m]  - bedeutet, dass der Skin osu!mania Elemente enthält.
+- ![][o!s]  - bedeutet, dass der Skin osu!standard-Elemente enthält.
+- ![][o!c]  - bedeutet, dass der Skin osu!catch-Elemente enthält.
+- ![][o!t]  - bedeutet, dass der Skin osu!taiko-Elemente enthält.
+- ![][o!m]  - bedeutet, dass der Skin osu!mania-Elemente enthält.
 
 ## A
 
