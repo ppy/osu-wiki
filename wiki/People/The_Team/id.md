@@ -1,61 +1,74 @@
----
-outdated: true
----
-
 Tim
-=======
+==========
 
-Pelopor pembuatan
-----------------------
+Orang-orang yang ada di bawah adalah inti dari osu!team, dan bertanggung jawab untuk membuat game ini menjadi luar biasa bagi semua orang.
+
+Pencipta
+---------
 
 | Nama | Deskripsi |
-| ---- | ----------- |
-| [peppy](https://osu.ppy.sh/users/2) | Pemimpin proyek |
+| ---- | --------- |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Pemimpin proyek |
 
 Aktif
+------
+
+| Nama | Deskripsi |
+| ---- | ----------- |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Desain Audio & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Media, Featured Artist outreach, Sekretaris Meganekko  |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pimpinan Desainer, [osu!next](https://next.ppy.sh/) |
+| ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang osu!web |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web |
+| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang osu!web |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Orang-orang hebat yang luar biasa |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Bantuan Pengguna |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | Pengembangan osu!mania , Pencari Bug |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembangan pp |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Bantuan Pengguna |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajemen [osu!store](https://osu.ppy.sh/store/listing) |
+| ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies Langka |
+
+Tidak Aktif
+--------
+
+| Nama | Deskripsi |
+| ---- | ----------- |
+| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Pembersihan dan bantuan, Kreator karya chibi untuk game/web, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Pembersihan umum, Manajemen Komunitas |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Tim osu! dev, Integrasi IRC dengan obrolan dalam game, Pemeliharaan situs, [Blog](http://blog.echo.sh/) |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | tim osu! dev, osz2/p2p backend |
+| ![][flag_US] Jim | Desain situs orisinal, [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Administrasi dan Organisasi World Cup, Pemimpin QAT dan Manajemen Komunitas |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Desain skin epic, Kontribusi skin dan set ikon bawaan, [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Tim osu! dev, mm sliders |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
+| ![][flag_US] Phil | Desain situs forum |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Konsep dan desain orisinal pippi, [DeviantArt](https://sarumaru.deviantart.com/) |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajemen dan kepemimpinan komunitas pada masa awal, Meeting minutes, Kontribusi FAQ |
+| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Tim osu! dev, Pengembang mode osu!mania |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professor [osu!academy](/wiki/Announcements/osu!academy) ,Desain karakter dan media |
+
+User Groups
 ----------------------
 
 | Nama | Deskripsi |
 | ---- | ----------- |
-| [Ephemeral](https://osu.ppy.sh/users/102335) | Layanan pemain, Sekretaris Meganekko |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) |	Pemimpin desainer |
-| [Loctav](https://osu.ppy.sh/users/71366) | Organisasi turnamen resmi, Staf dan manajemen komunitas |
-| [nanaya](https://osu.ppy.sh/users/2387883) | Pelaksana web |
-| [RBRat3](https://osu.ppy.sh/users/307202) | Pelukis osu!, Orang yang gaul-alias orang luar biasa |
-| [smoogipooo](https://osu.ppy.sh/users/1040328) | Pengembang osu!mania, Penghilang bug |
-| [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang pp |
-| [yelle](https://osu.ppy.sh/users/4916903) | Pengelola market osu! |
-| [ztrot](https://osu.ppy.sh/users/6347) | Profesor academy osu!, Media/desain karakter |
-| [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Mengawasi percakapan pada forum dan obrolan dalam game |
+| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Pengguna yang datang untuk memastikan beatmap anda memenuhi syarat |
+| [Developers](https://osu.ppy.sh/g/11) | Membuat game lebih memukau dan mengatasi bug |
+| [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang telah berkontribusi dan telah berhenti |
+| [Support Team Redux](/wiki/People/Support_Team) | Penangana Permintaan bantuan maupun saran |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu !, dimulai dengan memastikan kualitas beatmap. |
 
-Tidak aktif
-----------------------
-
-| Nama | Deskripsi |
-| ---- | ----------- |
-| [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Pembenahan umum dan bantuan, game/situs karya seni unyu |
-| [Derekku](https://osu.ppy.sh/users/91341) | Pembenahan umum, Manajemen komunitas |
-| [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Tim pengembang osu!, IRC Integrasi di dalam obrolan gamem Pemeliharaan situs |
-| [Intermezzo](https://osu.ppy.sh/users/136842) | Tim pengembang osu!, osz2/p2p zaman dulu |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) | Desain situs asli |
-| [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Desain skin keren, Kontribusi ke standar skin dan ikon set |
-| [mm201](https://osu.ppy.sh/users/30655) | Tim pengembang osu!, mm sliders |
-| [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! di iPhone |
-| Phil | Forum desain kerja |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Konsep pippi asli dan desain karya seni |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Menit Pertemuan, Kontribusi pertanyaan-pertanyaan umum |
-| [woc2006](https://osu.ppy.sh/users/1105845) | Tim pengembang osu!, Pengembang mode osu!mania |
-
-Anggota grup
-----------------------
-
-| Nama | Deskripsi |
-| ---- | ----------- |
-| [Tim Moderasi Global](/wiki/People/Global_Moderation_Team) | Mengawasi forum dan percakapan dalam permainan |
-| [Grup Penominasi Beatmap](/wiki/People/Beatmap_Nomination_Group) | Membantu Anda dalam meningkatkan beatmap Anda |
-| [Developer](http://osu.ppy.sh/g/11) | Membuat permainan menjadi keren dengan menambahkan fitur baru dan memperbaiki bug |
-| [alumni osu!](/wiki/People/osu!_Alumni) | Orang-orang yang dikenal atas kontribusi mereka setelah pindah |
-| [Tim Pendukung Zaman Dulu](/wiki/People/Support_Team) | Dukungan Teknis/Bantuan Permintaan Fitur |
-| [Berita osu!](http://osu.ppy.sh/g/25) | Menyediakan Anda dengan kualitas bacaan sejak 2013 |
-| [Karyawan Turnamen](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
-| [Tim Penjamin Asuransi](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, mulai dari menjamin kualitas beatmap. |
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
