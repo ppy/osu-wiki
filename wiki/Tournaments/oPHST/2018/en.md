@@ -357,7 +357,7 @@ Mappools will be revealed one week in advance of each stage.
 - Hard Rock
 	- [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmaps/506395)
 	- [Goose House - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmaps/560408)
-	- [Camellia - crystallized (Ashasaki) \[NiNo's Insane\]](https://osu.ppy.sh/beatmaps/799711)
+	- [Camellia - crystallized (Ashasaki) \[NiNo's Insane\]](https://osu.ppy.sh/beatmaps/1152853)
 - Double Time
 	- [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmaps/724582)
 	- [Goose House - Hikaru Nara (Ascendance) \[Sc4's Rain\]](https://osu.ppy.sh/beatmaps/1113160)
