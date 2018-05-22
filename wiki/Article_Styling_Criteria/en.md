@@ -28,8 +28,12 @@ Listed below are the properly-supported locales for the osu! wiki.
 |-----------|-------------|---------------|
 | `en.md` | English | English |
 | `da.md` | Danish | Dansk |
+| `de.md` | German | Deutsch |
+| `gr.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fr.md` | French | Français |
+| `hu.md` | Hungarian | Magyar |
+| `id.md` | Indonesian | Bahasa Indonesia |
 | `it.md` | Italian | Italiano |
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
@@ -38,6 +42,9 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ru.md` | Russian | Русский |
 | `sv.md` | Swedish | Svenska |
+| `th.md` | Thai | ไทย |
+| `tr.md` | Turkish | Türkçe |
+| `vi.md` | Vietnamese | Tiếng Việt |
 | `zh.md` | Chinese (Simplified) | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
