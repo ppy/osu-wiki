@@ -23,7 +23,7 @@ Referensi untuk satu hit lingkaran:
 
 ![Akurasi = 0.5(jumlah GOOD + jumlah GREAT) / (jumlah BAD + jumlah GOOD + jumlah GREAT)](img/accuracy_taiko.png "Formula akurasi untuk osu!taiko")
 
-Di osu!taiko, akurasi dikalkulasikan dengan mengambil jumlah akurasi not dibagi dengan jumlah not. Akurasi not adalah sebagai berikut: sebuah GREAT (良) dihitung sebagai 100%, GOOD (可) sebagai 50% (sebagian), dan MISS/BAD (不可) sebagai 0% (yang juga memutus combo). Drum roll dan pemutar tidak mempengaruhi akurasi.
+Di osu!taiko, akurasi dikalkulasikan dengan mengambil jumlah akurasi not dibagi dengan jumlah not. Akurasi not adalah sebagai berikut: sebuah GREAT (良) dihitung sebagai 100%, GOOD (可) sebagai 50% (sebagian), dan MISS/BAD (不可) sebagai 0% (yang juga memutus combo). Drum roll dan spinner tidak mempengaruhi akurasi.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -65,11 +65,11 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 *Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/osu!standard).*
 
-Sebagai tambahan akurasi, beberapa informasi mengenai pemutar juga terdapat di tooltip yang sama.
+Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 
 #### Kecepatan
 
-Kecepatan mewakili rata-rata RPM (putaran per menit) di semua pemutar dalam beatmap. Maks adalah RPM tertinggi yang dicapai dalam spinner beatmap manapun.
+Kecepatan mewakili rata-rata RPM (putaran per menit) di semua spinner dalam beatmap. Maks adalah RPM tertinggi yang dicapai dalam spinner beatmap manapun.
 
 #### Laju tidak stabil
 
