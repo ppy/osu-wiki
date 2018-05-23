@@ -69,27 +69,27 @@ The Heptakey osu!mania Cup #1
 **[Download the mappack here! (87.1 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0)**
 
 - FreeMod
-  - [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/b/747358)
-  - [FLOW - Kaze no Uta -TV Size- (AlisceaSparku) \[Sora's 7K HD\]](https://osu.ppy.sh/b/1039589)
-  - [Darren Korb - Terminal March (\[Shi-Ra\]) \[\[Shi-Ra\]'s Hell March \[HD\]\]](https://osu.ppy.sh/b/309121)
-  - [Gotou Mai - Funwari Fuwari (shionelove) \[HD\]](https://osu.ppy.sh/b/752599)
-  - [REDALiCE - Kizuato (Reikosaka) \[Maximum\]](https://osu.ppy.sh/b/299840)
-  - [Gate - Escape (lonleyplanet120) \[Jmeh's 7K HD\]](https://osu.ppy.sh/b/567885)
-  - [BlackY - Harpuia (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/b/709373)
-  - [Moe Shop - <3 (TheToaphster) \[Soul\]](https://osu.ppy.sh/b/1640374)
-  - [Paul Bazooka - Luv Flow (Funky House Mix) (shionelove) \[yoshilove's Luv\]](https://osu.ppy.sh/b/1379293)
+  - [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/beatmaps/747358)
+  - [FLOW - Kaze no Uta -TV Size- (AlisceaSparku) \[Sora's 7K HD\]](https://osu.ppy.sh/beatmaps/1039589)
+  - [Darren Korb - Terminal March (\[Shi-Ra\]) \[\[Shi-Ra\]'s Hell March \[HD\]\]](https://osu.ppy.sh/beatmaps/309121)
+  - [Gotou Mai - Funwari Fuwari (shionelove) \[HD\]](https://osu.ppy.sh/beatmaps/752599)
+  - [REDALiCE - Kizuato (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmaps/299840)
+  - [Gate - Escape (lonleyplanet120) \[Jmeh's 7K HD\]](https://osu.ppy.sh/beatmaps/567885)
+  - [BlackY - Harpuia (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/beatmaps/709373)
+  - [Moe Shop - <3 (TheToaphster) \[Soul\]](https://osu.ppy.sh/beatmaps/1640374)
+  - [Paul Bazooka - Luv Flow (Funky House Mix) (shionelove) \[yoshilove's Luv\]](https://osu.ppy.sh/beatmaps/1379293)
 - Tiebreaker
-  - [fripSide - fortissimo -the ultimate crisis- (- R u m i a -) \[Insane\]](https://osu.ppy.sh/b/273738)
+  - [fripSide - fortissimo -the ultimate crisis- (- R u m i a -) \[Insane\]](https://osu.ppy.sh/beatmaps/273738)
 
 ### Qualifiers
 
 **[Download the mappack here! (27.3 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0)**
 
 - FreeMod
-  - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/b/1640164)
-  - [Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]](https://osu.ppy.sh/b/1640173)
-  - [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/b/1640175)
-  - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/b/1640170)
+  - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmaps/1640164)
+  - [Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]](https://osu.ppy.sh/beatmaps/1640173)
+  - [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmaps/1640175)
+  - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
 
 ## Match Results
 
