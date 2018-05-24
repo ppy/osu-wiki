@@ -84,7 +84,7 @@ In many cases, user submissions such as forum posts and beatmaps can be deleted 
 
 If you are covered by the European Union, you have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect". 
 
-As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Data Collection".
+As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect".
 
 ## Cookies
 
