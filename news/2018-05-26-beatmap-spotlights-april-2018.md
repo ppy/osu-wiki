@@ -4,7 +4,7 @@ title: "Beatmap Spotlights: April 2018"
 date: 2018-05-26 12:00:00 +0000
 ---
 
-Bringing awesome maps for every game mode, and a shiny new medal for the collector hiding deep inside you, The April Spotlights are now available!
+Bringing awesome maps for every game mode and a shiny new medal for the collector hiding deep inside you, the April Spotlights are now available!
 
 ![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/spotlight-header.jpg)
 
@@ -27,11 +27,13 @@ Starting off his mapping career with a bang, [Damnjelly](https://osu.ppy.sh/user
 
 The mapset also features a geometry based spread design, with more angles being introduced per difficulty level, and an incredible recreation of the song's music video in storyboard form.
 
+In addition, as the difficulty level in the mapset increases, each difficulty's theme increases in angles, going from being based around triangles, to squares and pentagons. All thematics considered, this mapset provides a highly enjoyable experience and is a sign of incredible potential from this new mapper.
+
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/gabriel.jpg)](http://osu.ppy.sh/beatmapsets/572809)
 
 With his latest ranked map of the song "Gabriel Drop Kick" by Tomita Miyu, Onishi Saori, Ohzora Naomi and Hanazawa Kana, [Okoratu](https://osu.ppy.sh/users/1623405) brings us a great collaborative mapset that spans across all modes. 
 
-In his own difficulties, the mapper follows the song perfectly by using structured patterning whenever the music is calm and disheveled patterning when the song is more chaotic. Combined with a guest Insane by [Yuii-](https://osu.ppy.sh/users/2935923) that uses an interesting hitsounding concept, this mapset is an experience not to be missed this month!
+In his own difficulties, the mapper follows the song perfectly by using structured patterning whenever the music is calm and dishevelled patterning when the song is more chaotic. Combined with a guest Insane by [Yuii-](https://osu.ppy.sh/users/2935923) that uses an interesting hitsounding concept, this mapset is an experience not to be missed this month!
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/booths-of-fighters.jpg)](http://osu.ppy.sh/beatmapsets/730808)
 
@@ -39,7 +41,7 @@ Here comes RoughSketch feat. DD "Nakata" Metal - Booths of Fighters (Camellia's 
 
 For those who are looking for a genuine challenge, this marathon definitely will not disappoint! Call of fighters, call your way!
 
-(Spoiler: watch out your fingers when you tap those 346bpm streams.)
+(Spoiler: watch out for your fingers when you tap those 346bpm streams.)
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/captivate.jpg)](http://osu.ppy.sh/beatmapsets/744587)
 
@@ -85,15 +87,15 @@ Maintaining a high combo on this map might be easy for the average player, but b
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/turii.jpg)](http://osu.ppy.sh/beatmapsets/685428)
 
-[Kyuare](https://osu.ppy.sh/users/2705312)'s latest mapset of Turii \~Panta rhei\~ brings us an exhilarating experience! This mid-length mapset has an even spread of 5 decent difficulties, fitting players at all level.
+[Kyuare](https://osu.ppy.sh/users/2705312)'s latest mapset of "Turii \~Panta rhei\~" brings us an exhilarating experience! This mid-length mapset has an even spread of 5 decent difficulties, fitting players at all level.
 
 While 1/4 stream patterns are most common in modern osu!catch mapping, this beatmap employs its specialty in a different way. The top Turii difficulty has Kyuare's typical wiggle patterns that definitely give you great challenge. But if you find it too hard, don't worry! The Rain difficulty, which features some tap dashes, can also hype you up! Don't get deceived by star ratings and try your best!
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/gabriel-catch.jpg)](http://osu.ppy.sh/beatmapsets/572809)
 
-Large multi-mode collaborations can sometimes fall flat if each particular game mode didn't receive enough dedicated attention, but happily this is far from the case here. [Sc4v4ng3r](https://osu.ppy.sh/users/4838429)'s osu!catch difficulty spread for "Gabriel Drop Kick" is a beautifully clean affair, but also sports a variety of different patterns and flows fitting each different section.
+Large multi-mode collaborations can sometimes fall flat if each particular game mode didn't receive enough dedicated attention, but fortunately, this is far from the case here. [Sc4v4ng3r](https://osu.ppy.sh/users/4838429)'s osu!catch difficulty spread for "Gabriel Drop Kick" is a beautifully clean affair, but also sports a variety of different patterns and flows fitting each different section.
 
-The fact that Sc4v4ng3r's mapset has managed to reached Ranked status, even when the man himself is on an extended leave of absence from osu! is testament to the quality of his work and the kind efforts of our community. Truly great to see and I hope an eventual return yields more of the same from him.
+The fact that Sc4v4ng3r's mapset has managed to reached Ranked status, even when the man himself is on an extended leave of absence from osu! is a testament to the quality of his work and the kind efforts of our community. Truly great to see and I hope an eventual return yields more of the same from him.
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/der-wald.jpg)](http://osu.ppy.sh/beatmapsets/581787)
 
@@ -103,7 +105,7 @@ The lower two difficulties are also neatly organized with delicate and friendly 
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/akaito.jpg)](http://osu.ppy.sh/beatmapsets/610994)
 
-It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdoses today, [RoseusJaeger](https://osu.ppy.sh/users/67098409) and [Ascendance](https://osu.ppy.sh/users/2931883) are surprisingly gifting us a newly approved mapset, "Akaito" by Rib, with mostly 1/2 patterns. This map features convenient flow and proper emphasis throughout the whole difficulty. Meanwhile it is also able to come up with different patterns that make it colorful and catchy. With Rib's smooth voice, you are about to love playing this map.
+It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdoses today, [RoseusJaeger](https://osu.ppy.sh/users/67098409) and [Ascendance](https://osu.ppy.sh/users/2931883) are surprisingly gifting us a newly approved mapset, "Akaito" by Rib, with mostly 1/2 patterns. This map features convenient flow and proper emphasis throughout the whole difficulty. Meanwhile it's' also able to come up with different patterns that make it colourful and catchy. With Rib's smooth voice, you are about to love playing this map.
 
 ## osu!mania
 
@@ -111,13 +113,13 @@ It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdose
 
 "Don't mess the timing with your eyes. Feel the rhythm with your soul!" [Lenfried-](https://osu.ppy.sh/users/5314573) brings us here the probably most enjoyable and fun mapset which consist only out of easy difficulties! The BASIC consist mostly of 2/1 and 1/1 pattern which got placed in order to the vocals from the music. It's perfect for every new player.
 
-The CHALLENGE difficulty is where the fun begins! The vocal tells you how to play and then the pattern repeat again but with a incredibly high slider velocity, high enough that the notes become unreadable. You have to remember which pattern you played before and listen to the vocal to hit them accurate!
+The CHALLENGE difficulty is where the fun begins! The vocal tells you how to play and then the pattern repeats again but with an incredibly high slider velocity, high enough that the notes become unreadable. You have to remember which pattern you played before and listen to the vocal to hit them accurately!
 
-This mapset really deserve it to be the best of the month April. Well done Lenfried-! Would be cool to see more maps like this from you!
+This mapset really deserves to be the best of the month April. Well done Lenfried-! We would like to see more maps like this from you!
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/deublithick.jpg)](http://osu.ppy.sh/beatmapsets/725078)
 
-[\_underjoy](https://osu.ppy.sh/users/2235750) came back with his undoubtfully insane 7K mapset with Gekikara Mania's "Deublithick". The spread features with three extreme difficulties, including [Blocko](https://osu.ppy.sh/users/4075092) as a guest mapper and an Insane difficulty accompanied by [capsafangirl](https://osu.ppy.sh/users/4308015), which present extreme streaming burst at the 1/3 posterior section of the song, along with complex usage of multiple chord stream jump hands.
+[\_underjoy](https://osu.ppy.sh/users/2235750) came back with his undoubtfully insane 7K mapset with Gekikara Mania's "Deublithick". The spread features three extreme difficulties, including [Blocko](https://osu.ppy.sh/users/4075092) as a guest mapper, and an Insane difficulty accompanied by [capsafangirl](https://osu.ppy.sh/users/4308015), which present extreme streaming burst at the 1/3 posterior section of the song, along with complex usage of multiple chord stream jump hands.
 
 \_underjoy once again showed his unique and excellent mapping style, encouraging for 7K lovers to once again challenge and test their skills.
 
@@ -131,9 +133,9 @@ Even if long notes aren't your thing, the lower difficulties share the same crea
 
 [Turrim](https://osu.ppy.sh/users/3846265), new mania mapper has made his appearance with his first ranked mapset, DJ Genki VS Camellia feat. moimoi - YELL!
 
-As he showed on many unranked maps, this map also has kind of unusual long note style. There is the well-layered structure, starting from vocal to heavy drum roll backs it up. He focused on the feeling when he faced the part, it makes him to put many long notes at the main melody. Sometimes he excluded the strength of drum for the sake of it, that aids in organization of pattern creativity in the good way. 
+As he showed on many unranked maps, this map also has kind of unusual long note style. There is the well-layered structure, starting from vocal to heavy drum roll backs it up. He focused on the feeling when he faced the part, it makes him to put many long notes at the main melody. Sometimes he excluded the strength of drum for the sake of it, that aids in organization of pattern creativity in a good way. 
 
-The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping, let's give him a round of applause for his best effort!
+The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping but he was able to overcome it!
 
 --------
 
