@@ -98,7 +98,7 @@ We also regularly purge data on an ongoing and automatic basis as to only keep a
 
 ## Children
 
-osu! services not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
+osu! services are not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
 
 ## Data Controller
 
