@@ -517,7 +517,8 @@
 "irc":                         "Internet_Relay_Chat"
 
 "copyright":                   "Legal/Copyright"
-"tos":                         "Legal/TOS"
+"tos":                         "Legal/Terms"
+"legal/tos":                   "Legal/Terms"
 
 "mapping_technique":                      "Mapping_Techniques"
 "map_techs":                              "Mapping_Techniques"
