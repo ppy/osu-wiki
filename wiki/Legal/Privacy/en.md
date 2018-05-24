@@ -10,7 +10,7 @@ osu! is run by an Australian entity (ppy Pty Ltd), with the majority of servers 
 
 osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, replay comments.
 
-In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possibly in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
+In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
 
 This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
