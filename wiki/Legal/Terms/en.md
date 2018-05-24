@@ -1,5 +1,7 @@
 # osu! Terms of Service
 
+Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
+
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 
 By visiting and/or using the services offered by this site (https://osu.ppy.sh, the osu! game client (as found on https://osu.ppy.sh/home/download) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
