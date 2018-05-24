@@ -27,7 +27,7 @@ While limited functionality can be enjoyed without an account, it is often requi
 - Your password (bcrypt+salt)
 - Your IP address and country
 
-This personal information, with the exception of your username, is never shared publicly.
+This personal information, with the exception of your username and country, is never shared publicly.
 
 ### On updating your profile
 
