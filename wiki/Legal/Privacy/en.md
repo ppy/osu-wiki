@@ -10,9 +10,9 @@ osu! run by an Australian entity (ppy Pty Ltd), with the majority of servers ope
 
 osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, replay comments.
 
-In order to offer these services to you, we must often collect, store and transmit personal information.
+In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possibly in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
 
-This privacy policy describes what information we collect on our network and in the use of our products and services, how we use that information, and what options we offer you to control your personal information.
+This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
 By using our service, you confirm that you have read and understood the [Terms of Service](/wiki/Legal/Terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
 
@@ -66,7 +66,7 @@ This collected data is aggregated and only retained as it is useful. Generally t
 
 ## Disclosures of your personal data
 
-We do not perform any marketing, advertising or send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as purchasing a product or enabling notifications for a discussion).
+We do not perform any marketing, advertising nor send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as requesting two-factor authentication, purchasing a product or enabling notifications for a discussion).
 
 We may share your personal data with third parties in very specific cases:
 
@@ -76,11 +76,7 @@ We may share your personal data with third parties in very specific cases:
 - To process your customer service tickets (we use [Enchant](https://enchant.com))
 - In order to improve our service, via error logging (we use ([Sentry](https://sentry.io))
 
-## Cookies
-
-We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and login credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
-
-## Your choice and control
+## Your rights and control
 
 As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
 
@@ -90,17 +86,25 @@ If you are covered by the European Union, you have the option of deleting your a
 
 As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Data Collection".
 
+## Cookies
+
+We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and login credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
+
 ## Data security
 
 Security is very important to us. osu! follows accepted standards to protect your personal information during processing, transferring, and storage. We employ HSTS to ensure all sites on our domain are encrypted via TLS and maintain high standards in data security for access to our servers, restricting access to your personal data when we do not need to access it.
 
 We also regularly purge data on an ongoing and automatic basis as to only keep as much historical data as necessary to perform our legitimate business interests.
 
+## Children
+
+osu! services not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
+
 ## Data Controller
 
 Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
 
-**Email**: [copyright@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed) 
+**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed) 
 
 **Postal Address**: 
 
