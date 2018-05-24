@@ -6,7 +6,7 @@ In addition to this policy, please also make sure to visit and understand our [T
 
 ## Introduction
 
-osu! run by an Australian entity (ppy Pty Ltd), with the majority of servers operating from the United States.
+osu! is run by an Australian entity (ppy Pty Ltd), with the majority of servers operating from the United States.
 
 osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, replay comments.
 
