@@ -20,7 +20,7 @@ To usher him in, the Mappers' Guild have been hard at work creating an ensemble 
 
 ![](/wiki/shared/news/2018-05-25-new-featured-artist-cranky/mappers-guild-sets.jpg)
 
-[Download the full pack of all eight maps!](https://assets.ppy.sh/beatmap-packs/MappersGuildCranky.zip)
+[Download the full pack of all eight maps!](https://assets.ppy.sh/beatmap-packs/MappersGuildCranky.zip) or check out [all existing ranked beatmaps featuring cranky's music](https://osu.ppy.sh/beatmapsets?q=cranky) to be more selective.
 
 Beyond these fine tracks, there are **over 70 more for a total of 79 tracks available** for mapping in osu!, all pre-timed and raring to go on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/23).
 
