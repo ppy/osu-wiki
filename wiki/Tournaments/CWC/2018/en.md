@@ -29,11 +29,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Profile badge |
-
-_More prizes yet to be decided_
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Profile badge |
 
 ## Organization
 
@@ -52,13 +50,45 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/739799)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Sign up here!](https://osu.ppy.sh/community/tournaments/15)**
 
 ------------------------------------------------------------------------
 
 ## Participants
 
-_The participant list will be revealed once all sign ups are processed, this could take at most one week after the sign ups phase is concluded_
+| | Country | Members |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | **[[Force]](https://osu.ppy.sh/users/1617217)** |
+| ![][flag_AT] | **Austria** | **[Scrollum](https://osu.ppy.sh/users/10415976)** |
+| ![][flag_AU] | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)** |
+| ![][flag_BR] | **Brazil** | **[Predominador](https://osu.ppy.sh/users/4568537)** |
+| ![][flag_CA] | **Canada** | **[Yoshi_green](https://osu.ppy.sh/users/1035891)** |
+| ![][flag_CL] | **Chile** | **[OwO NYANQT x33](https://osu.ppy.sh/users/989542)** |
+| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)** |
+| ![][flag_CO] | **Colombia** | **[Deley-](https://osu.ppy.sh/users/8291465)** |
+| ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)** |
+| ![][flag_DK] | **Denmark** | **[SharpN](https://osu.ppy.sh/users/4382076)** |
+| ![][flag_ES] | **Spain** | **[R y u k](https://osu.ppy.sh/users/10863802)** |
+| ![][flag_FI] | **Finland** | **[forgottentaco](https://osu.ppy.sh/users/6109660)** |
+| ![][flag_FR] | **France** | **[Noulayfe](https://osu.ppy.sh/users/4316542)** |
+| ![][flag_HK] | **Hong Kong** | **[alienflybot](https://osu.ppy.sh/users/636114)** |
+| ![][flag_ID] | **Indonesia** | **[Deceitful](https://osu.ppy.sh/users/1396447)** |
+| ![][flag_IT] | **Italy** | **[ArMa79](https://osu.ppy.sh/users/4982799)** |
+| ![][flag_JP] | **Japan** | **[noraRcat](https://osu.ppy.sh/users/883939)** |
+| ![][flag_KR] | **South Korea** | **[Berea](https://osu.ppy.sh/users/3657951)** |
+| ![][flag_MX] | **Mexico** | **[Ponchiwi](https://osu.ppy.sh/users/1089040)** |
+| ![][flag_MY] | **Malaysia** | **[Kagari](https://osu.ppy.sh/users/3366264)** |
+| ![][flag_NL] | **Netherlands** | **[SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)** |
+| ![][flag_NO] | **Norway** | **[Cameragod](https://osu.ppy.sh/users/4974088)** |
+| ![][flag_PH] | **Philippines** | **[-Plus-](https://osu.ppy.sh/users/829284)** |
+| ![][flag_PL] | **Poland** | **[Kosmit](https://osu.ppy.sh/users/1749173)** |
+| ![][flag_PT] | **Portugal** | **[Buffow](https://osu.ppy.sh/users/4427038)** |
+| ![][flag_RU] | **Russian Federation** | **[Myle](https://osu.ppy.sh/users/4915649)** |
+| ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)** |
+| ![][flag_SG] | **Singapore** | **[He Ang Erika](https://osu.ppy.sh/users/2451381)** |
+| ![][flag_TH] | **Thailand** | **[-Luminate](https://osu.ppy.sh/users/4778689)** |
+| ![][flag_TW] | **Taiwan** | **[XXXZ](https://osu.ppy.sh/users/2111624)** |
+| ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)** |
+| ![][flag_VN] | **Vietnam** | **[Hana Yukiko](https://osu.ppy.sh/users/4964095)** |
 
 ------------------------------------------------------------------------
 
@@ -213,19 +243,17 @@ _Mappools will be revealed one week in advance of each stage_
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BD]: /wiki/shared/flag/BD.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
@@ -234,13 +262,14 @@ _Mappools will be revealed one week in advance of each stage_
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
