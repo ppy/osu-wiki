@@ -22,7 +22,7 @@ To usher him in, the Mappers' Guild have been hard at work creating an ensemble 
 
 [Download the full pack of all eight maps!](https://assets.ppy.sh/beatmap-packs/MappersGuildCranky.zip)
 
-Beyond these fine tracks, there are **over 70 more for a total of 79 tracks available** for mapping in osu!, all pre-timed and roaring to go on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/23).
+Beyond these fine tracks, there are **over 70 more for a total of 79 tracks available** for mapping in osu!, all pre-timed and raring to go on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/23).
 
 **Cranky**'s addition as our 23rd Featured Artist also denotes a big milestone for the project - we now have over 500 tracks totalling nearly **30 hours** of non-stop musical goodness totally free for use in osu! mapping. The hype doesn't stop here however, we will continue our journey to expand the Featured Artist listing until it requires pagination and a search system to navigate!
 
