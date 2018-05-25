@@ -176,11 +176,13 @@ The escaping character in Markdown is the backslash (`\`). To escape the escape 
 
 The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.
 
+#### Empty lines
+
+An empty line between two bodies of text is parsed as two separate paragraphs. Adding more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line.
+
+If an empty line is not present between two lines, the two paragraphs will merge into one. Doing this is not allowed in the osu! wiki.
+
 #### Whitespace
-
-One empty line between two bodies of text is parsed as two separate paragraphs. Adding more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line.
-
-#### Line breaks
 
 Inserting two trailing spaces at the very end of a line is parsed as a line break. Line breaks are not allowed in the osu! wiki.
 
