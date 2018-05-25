@@ -142,10 +142,12 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 
 *For more information about HTML entities, see [Entity - Glossary (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Entity)*
 
-HTML character entites should be used sparingly. If used however, prefer the character over the entity. For example:
+HTML character entites should almost never be used. If used however, prefer the character over the entity. For example:
 
 ```
 Don't: the bestest free-to-win rhythm game&trade;
+Don't: the bestest free-to-win rhythm game&#153;
+Don't: the bestest free-to-win rhythm game&#x99;
 
 Do:    the bestest free-to-win rhythm game™
 ```
