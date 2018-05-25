@@ -1,5 +1,5 @@
 # Über
 
-osu! wiki ist ein von der Gemeinschaft betriebenes und verfasstes Projekt um die osu! Nutzer das Spiel besser verstehen zu lassen.
+Das osu!-Wiki ist ein von der Community betriebenes und verfasstes Projekt um die osu!-Nutzer alles rund um das Spiel besser verstehen zu lassen.
 
-osu! ist urheberrechtlich geschützt von Dean Herbert (peppy).
+osu! ist von Dean Herbert (peppy) urheberrechtlich geschützt.
