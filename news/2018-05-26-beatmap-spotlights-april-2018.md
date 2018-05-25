@@ -119,13 +119,13 @@ This mapset really deserves to be the best of the month April. Well done Lenfrie
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/deublithick.jpg)](http://osu.ppy.sh/beatmapsets/725078)
 
-[\_underjoy](https://osu.ppy.sh/users/2235750) came back with his undoubtfully insane 7K mapset with Gekikara Mania's "Deublithick". The spread features three extreme difficulties, including [Blocko](https://osu.ppy.sh/users/4075092) as a guest mapper, and an Insane difficulty accompanied by [capsafangirl](https://osu.ppy.sh/users/4308015), which present extreme streaming burst at the 1/3 posterior section of the song, along with complex usage of multiple chord stream jump hands.
+[\_underjoy](https://osu.ppy.sh/users/2235750) came back with his undoubtfully insane 7K mapset with Gekikara Mania's "Deublithick". The spread features three extreme difficulties, including [Blocko](https://osu.ppy.sh/users/4075092) as a guest mapper, and an Insane difficulty accompanied by [capsafangirl](https://osu.ppy.sh/users/4308015), which present extreme streaming burst at the chorus section of the song, along with complex usage of multiple chord stream jump hands.
 
 \_underjoy once again showed his unique and excellent mapping style, encouraging for 7K lovers to once again challenge and test their skills.
 
 [![](/wiki/shared/news/2018-05-26-beatmap-spotlights-april-2018/onigiri.jpg)](http://osu.ppy.sh/beatmapsets/663098)
 
-Debuting his first ranked map, [Mentholzzz](https://osu.ppy.sh/users/7182779)'s ONIGIRI FREEWAY by featured artist OISHII is quite the active chart for an active song. Featuring twisting long notes with well crafted inverse sections, it's certainly a break from the established norm. 
+Debuting his first ranked map, [Mentholzzz](https://osu.ppy.sh/users/7182779)'s "ONIGIRI FREEWAY" by featured artist OISHII is quite the active chart for an active song. Featuring twisting long notes with well crafted inverse sections, it's certainly a break from the established norm. 
 
 Even if long notes aren't your thing, the lower difficulties share the same creative spark that makes the top diff stand out, and to top it all off, it's key sounded! With a little something for everyone, this has definitely earned its place in this month's Spotlights.
 
