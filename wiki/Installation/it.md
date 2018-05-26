@@ -41,221 +41,220 @@ Considera, per favore, che puoi scaricare un numero limitato di beatmaps in un c
 - Usa un mirror. I mirror sono gentilmente offerti dalla community e ti permettono di scaricare beatmaps senza il bisogno di dover usufruire del sito di osu!, evitando così il rischio di raggiungere il limite massimo di downloads.Il più famoso è [yas-online](http://osu.yas-online.net/), ma ce ne sono altri disponibili nel web.
 - Se sai come usare un client torrent, [qui ci sono file torrent forniti da un utente della community](https://osu.ppy.sh/forum/t/147478) che ti permetteranno di scaricare vari pacchetti di beatmaps allo stesso tempo.
 
-##### OS X (beta version)
+##### OS X (versione beta)
 
-###### How to install
-- Go to the [download page](http://osu.ppy.sh/p/download) and click on the "OS X installer" link to download the latest version.
-- [Follow these instructions](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) to install the .dmg file on your Mac.
-- Run osu!
-  - The first time you run osu!, it may take up to 5 minutes to start. This is due to X11 (the graphical subsystem) rebuilding a font cache.
+###### Come installare
+- Vai alla [pagina di download](http://osu.ppy.sh/p/download) e clicca su "OS X installer" link per scaricare l'ultima versione.
+- [Segui le istruzioni](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) per installare il .dmg file sul tuo Mac.
+- Apri osu!
+  - La prima volta che apri osu!, potrebbe richiedere fino a 5 minuti per avviarsi. Questa è a causa di X11 (il sottosistema grafico) che ricostruisce la cache dei caratteri.
 
-###### Adding Beatmaps
-> [Original post](http://osu.ppy.sh/forum/p/909738)
-For a picture guide, press the Original post link above.
+###### Aggiungere beatmaps
+> [Post originale](http://osu.ppy.sh/forum/p/909738)
+Per una guida ad immagini, clicca il link del Post originale sovrastante.
 
-- Right-click osu!.app and select "Show Package Contents"
-  - If you are moving only one .osz file, drag that directly to osu!.app icon. The map will be extracted.
-- Navigate to "Contents/Resources/winePrefix/drive_c/osu/Songs"
-- Drag your .osz (or .zip) files to the "Songs" file
-- Open your osu!.app and go to song selection or hit "F5".
-  - Importing songs may get stuck. If this happens, try "ALT-F4" or "ESC" mashing, or quit osu! and run it again.
+- Fai tasto destro su osu!.app e seleziona "Show Package Contents"
+  - Se stai spostando un solo file .osz, trascinalo direttamento nell'icona di osu!.app. La mappa verrà estratta.
+- Naviga in "Contents/Resources/winePrefix/drive_c/osu/Songs"
+- Trascina i tuoi file .osz (o .zip) nel file "Songs"
+- Apri l'osu!.app e vai nella selezione delle song o clicca "F5".
+  - Importare le song potrebbe portare ad un blocco. Se dovesse succedere, prova "ALT-F4" o "ESC", oppure esci osu! e riavvialo.
 
-###### Notes
-- This build will always start the updater when you run it. It will update to newer releases and therefore when the remaining issues are fixed you will automatically receive the fixes.
-- You can make a shortcut to the songs folder on your desktop by dragging the folder while holding command and option. This should make it easier to load new maps.
+###### Note
+- Questa versione avvierà sempre l'updater quando lo esegui. Si aggiornerà alla versione più recente perciò quando i rimanenti problemi verranno risolti, riceverei automaticamenti i correlati fix.
+- Puoi fare un collegamento alla cartella delle song sul tuo desktop trascinando la cartella mentre tieni premuto command e option. Questo dovrebbe semplificare il caricamento delle nuove mappe.
 
-##### Linux (using Wine)
->This tutorial may not be up to date! Check out [the last pages of this thread](http://osu.ppy.sh/forum/t/14614) in the forums
-to find a way provided by the community to install the newest versions of osu!.
+##### Linux (tramite Wine)
+>Questo tutorial potrebbe non essere aggiornato! Controlla [le ultime pagine di questo thread](http://osu.ppy.sh/forum/t/14614) nei forum
+per trovare un modo fornito dalla comunità per installare l'ultima versione di osu!.
 
-###### How to install
-1. Basic setup.
-  - First, check your Graphic Card.
-    - For best results, get a nVIDIA-Chipset.
-    - On Intel graphic cards, you need to enable Vsync.
-    - On AMD HD**** cards you need to disable the shaders.
-  - Install "Wine". (If you didn't already)
+###### Come installare
+1. Setup di base.
+  - Prima, controlla la tua scheda grafica.
+    - Per risultati migliori, procurati una scheda basata su chipset NVIDIA.
+    - Nelle schede grafiche Intel, assicurati di abilitare il VSync.
+    - Nelle schede grafiche AMD HD*** devi disabilitare le shader.
+  - Installa "Wine". (Se non l'hai già fatto)
 
-2. Getting Wine to work.
-  - For Ubuntu/GNU/LINUX Debian, just do:
+2. Facciamo funzionare Wine.
+  - Per Ubuntu/GNU/LINUX Debian, fai semplicemente:
     - sudo apt-get -y install wine
-  - For Gentoo / Sabayon do:
+  - Per Gentoo / Sabayon fai:
     - sudo emerge wine
-  - For Fedora do:
+  - Per Fedora fai:
     - sudo dnf install wine
-  - For any other OS read the install-manual of the system.
-3. Create a 32 bit wine prefix
+  - Per altri OS leggi il manuale di installazione del sistema.
+3. Crea un prefisso wine a 32 bit
   - mkdir ~/.wine-osu
   - cd ~/.wine-osu
   - export WINEPREFIX=~/.wine-osu WINEARCH=win32
   - winecfg
 
-4. Getting osu! to work.
-    - You will need to use winetricks...
-      - As normal user,
+4. Facciamo funzionare osu!.
+    - Avrai bisogno di winetricks...
+      - Come utente normale,
         - winetricks install dotnet20 ie7
-    - Next, download the latest osu! Windows installer and launch it.
-    - Install osu!
-    - Launch osu!
+    - Successivamente, scarica l'ultima versione dell'installer di osu! e avvialo.
+    - Installa osu!
+    - Esegui osu!
 
-Please keep in mind that each time you will want to launch/install osu! or configure this wine prefix, the WINEARCH and WINEPREFIX environment variables must be set as written above (even for the application launcher)
+Tieni a mente che ogni volta che avvierai il launcher di osu! o configuri il prefisso wine, le variabili di ambiente WINEARCH e WINEPREFIX devono essere configurate come sopra. (anche l'applicazione launcher)
 
-###### Adding Beatmaps
+###### Aggiungere beatmaps
 
-- Drag and drop the .osz file from a file manager to an osu! window.
+- Trascina e rilascia il file .osz dal file manager nella finestra di osu!.
 
-### Android devices
+### Dispostivi Android
 
-#### osu!droid (unofficial, created by Pesets and neico)
+#### osu!droid (non ufficiale, creato da Pesets and neico)
 
-##### How to install (Phone way)
-> [Original Post](http://osu.ppy.sh/forum/t/62680)
+##### Come installare (tramite telefono)
+> [Post originale](http://osu.ppy.sh/forum/t/62680)
 
-- You have 2 choices. Pick either one.
-  - Going to [Google play page for osu!droid](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Highly suggested)
-  - Use the QR code. (see the Original Post above)
-- Allow osu!droid.apk to install.
-- osu!droid is now installed in your phone.
+- Hai 2 opzioni. Scegline una .
+  - Vai alla [pagina Google Play di osu!droid](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Fortemente consigliato)
+  - Usa il QR code. (vedi il Post originale sovrastante)
+- Permetti l'installazione di osu!droid.apk.
+- osu!droid è adesso installato sul tuo telefono.
 
-##### How to install (USB way)
-- Use [this download link](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (osu!droid.apk ver. 1.5.5)
-- Download the .apk file from your computer.
-- Transfer the .apk file to your phone using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
-  - Please set your device to USB connection mode first. (Depending on your device)
-- Find and open the .apk file from your device.
-- Allow osu!droid.apk to install.
-- osu!droid is now installed in your phone.
+##### Come installare (tramite USB)
+- Usa [questo link di download](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (osu!droid.apk ver. 1.5.5)
+- Scarica il file .apk dal computer.
+- Trasferisci il file .apk nel tuo telefono usando l'adeguato cavo USB (Bluetooth è possibile ma l'USB è più efficiente).
+  - Imposta il tuo telefono nella modalità connessione USB. (In base al tuo dispositivo)
+- Cerca e apri il file .apk dal tuo telefono.
+- Permetti l'installazione di osu!droid.apk.
+- osu!droid è adesso installato sul tuo telefono.
 
-##### Adding Beatmaps
-> Note: Picture guide is also included in the Original post above
+##### Aggiungere Beatmaps
+> Note: la guida ad immagine è anche inclusa nel Post originale sovrastante
 
-##### Smartphone way
-- Open your browser and login at osu.ppy.sh
-  - Important: Not all web browsers can download beatmaps from osu.ppy.sh. Please use Opera Mobile or Firefox.
-- Select your desired beatmap for downloading
-- Change the download directory to "/mnt/sdcard/osu!droid/" (This directory is default)
-- Wait until the beatmap is downloaded.
-- The beatmap will be imported automatically at the next launch of osu!droid
+##### Tramite smartphone
+- Apri il browser e accedi a osu.ppy.sh
+  - Importante: non tutti i browser Web possono scaricare beatmap da osu.ppy.sh. Si prega di utilizzare Opera Mobile o Firefox.
+- Seleziona la beatmap desiderata per il download
+- Cambia la directory di download in "/mnt/sdcard/osu!droid/" (questa directory è predefinita)
+- Attendi fino a quando la beatmap non viene scaricata.
+- La beatmap verrà importata automaticamente al prossimo avvio di osu!droid
 
-##### USB way
-- Connect your device to PC with USB cable
-- The location you should put in now depends on what type the file is.
-  - If you have **.osz or .zip files**, copy them into your device's **osu!droid** directory.
-  - If you have **unpacked songs (i.e. in folders)**, copy them into **osu!droid/Songs** directory.
-    - Directory will vary **if you did modify it in Advanced Option. You need to put in that directory you set instead.**
-- Plug off your device and launch osu!droid
+##### Tramite USB
+- Collega il tuo dispositivo al PC con cavo USB
+- La posizione che dovresti inserire ora dipende dal tipo di file.
+  - Se disponi di **file .osz o .zip**, copiali nella directory **osu!droid** del dispositivo.
+  - Se hai **brani decompressi (cioè in cartelle)**, copiali nella directory **osu!droid/Songs**.
+    - La directory varierà ** se l'hai modificata in Opzioni avanzate. Devi inserire la directory che hai impostato. **
+- Scollega il dispositivo e avvia osu!droid
 
-#### T-Aiko [Taiko]  (unofficial, created by Guy-kun)
+#### T-Aiko [Taiko]  (non ufficiale, creato da Guy-kun)
 
-##### How to install (Phone way)
-> [Original Post](http://osu.ppy.sh/forum/t/58640)
+##### Come installare (tramite telefono)
+> [Post originale](http://osu.ppy.sh/forum/t/58640)
 
-- Go to [Google Play page for T-Aiko](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
-- Allow the file to install.
-- T-Aiko is now installed in your phone.
-##### Adding Beatmaps
-##### Smartphone way
-- Get connected to the internet.
-- Open T-Aiko and press "Get Maps"
-  - If the "Get Maps" is grayed out, it means you are not connected to the internet.
-- Pick your song of choice to download. (The file will go to the songs directory that is set by you or by default)
-- Wait for it. You can continue searching or leave after the downloading is completed.
-- Press "Play" from your main menu and the beatmap can be played.
+- Vai alla[pagina Google Play di T-Aiko](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
+- Permetti l'installazione del file.
+- T-Aiko è ora installato sul tuo telefono.
+##### Aggiungere Beatmaps
+##### Tramite telefono
+- Collegati a Internet.
+- Apri T-Aiko e premi "Ottieni mappe"
+  - Se "Ottieni mappe" è disattivato, significa che non sei connesso a Internet.
+- Scegli il tuo brano preferito da scaricare. (Il file andrà alla directory dei brani che è stata impostata dall'utente o per impostazione predefinita)
+- Attendi. È possibile continuare la ricerca o uscire dopo aver completato il download.
+- Premere "Play" dal menu principale e la beatmap può essere giocata.
 
-##### USB way
-- Connect your device to PC with USB cable
-- The location you should put in now depends on what type the file is.
-  - If you have **.osz or .zip files**, copy them into your device's **T-Aiko** directory.
-  - If you have **unpacked songs (i.e. in folders)**, copy them into **T-Aiko/Songs** directory.
-    - Directory will vary **if you did modify it in Advanced Option. You need to put in that directory you set instead.**
-- Plug off your device and launch T-Aiko
+##### Tramite USB
+- Collega il tuo dispositivo al PC con cavo USB
+- La posizione che dovresti inserire ora dipende dal tipo di file.
+  - Se disponi di **file .osz o .zip**, copiali nella directory **T-Aiko** del dispositivo.
+  - Se hai **brani decompressi (cioè in cartelle)**, copiali nella directory **T-Aiko / Songs**.
+    - La directory varierà **se l'hai modificata in Opzione avanzata. Devi inserire la directory che hai impostato.**
+- Scollega il dispositivo e avvia T-Aiko
 
-### iOS devices
+### Dispositivi iOS
 
-#### osu! iPhone (unofficial, created by nuudles)
+#### osu! iPhone (non ufficiale, creato da nuudles)
 
-##### How to install
-- Follow [this link](http://osu.ppy.sh/forum/t/176495) to find a step-by-step tutorial on how to install osu! iPhone on a jailbroken iOS 7.0.4 device.
+##### Come installare
+- Segui [questo link] (http://osu.ppy.sh/forum/t/176495) per trovare un tutorial passo-passo su come installare osu! iPhone su un dispositivo iOS 7.0.4 jailbriccato.
 
 #### osu!stream
 
-##### How to install
-> Warning: osu!stream is *NOT* osu!.
-It is another game quite similar to osu! but that has its own features and rankings.
+##### Come installare
+> Attenzione: osu! Stream *NON* è osu!.
+È un altro gioco abbastanza simile a osu! ma questo ha le sue caratteristiche e le sue classifiche.
 
-##### iDevice's App Store method (Suggested)
-> Make sure your iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).
+##### Metodo App Store di iDevice (consigliato)
+> Assicurati che il tuo iDevice possa connettersi a Internet (tramite Wi-Fi o 3G / 4G).
 
-- Go to "App Store" from your iDevice
-- Search for osu!stream
-- Press and install osu!stream
-  - If you are prompted to key-in your Apple ID and the password, please do so.
-- osu!stream can be played after the download and auto-installation is completed.
-  - It is suggested you read "Adding Beatmaps" section too to ensure you get the latest free songs pack. Your download contains only 2 songs.
+- Vai su "App Store" dal tuo iDevice
+- Cerca osu!stream
+- Premi e installa osu!stream
+  - Se ti viene richiesto di digitare il tuo ID Apple e la password, ti preghiamo di farlo.
+- osu!stream può essere giocato dopo il download e l'autoinstallazione è completata.
+  - Ti suggeriamo di leggere anche la sezione "Come aggiungere Beatmap" per assicurarti di ottenere l'ultimo pacchetto di canzoni gratuito. Il tuo download contiene solo 2 brani.
 
-##### USB method
-> Your computer must have [iTunes](https://www.apple.com/itunes/) installed.
+##### Tramite USB
+> Il tuo computer deve avere [iTunes] (https://www.apple.com/itunes/) installato.
 
-- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
-  - If they request for Apple ID, key-in your Apple ID and the password.
-- Plug-in your iDevice (that has osu!stream) to your computer
-- Transfer the osu!stream files using iTunes
-- Unplug your iDevice and osu!stream can be played.
+- Vai su [questo link e scaricalo] (http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+  - Se richiedono l'ID Apple, digita il tuo ID Apple e la password.
+- Collega il tuo iDevice (che ha osu! Stream) al tuo computer
+- Trasferisci i file osu!stream usando iTunes
+- Scollega il tuo iDevice e osu!stream può essere giocato.
 
-##### Adding Beatmaps
->Make sure your iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).
+##### Aggiungere Beatmaps
+> Assicurati che il tuo iDevice possa connettersi a Internet (tramite Wi-Fi o 3G/4G).
 
-- Open osu!stream.
-- Press the osu! symbol and you should be directed to the main menu (or tutorial if this is your first time)
-- Press the "Store" bar
-  - You can also head to "Play" and press "Download more songs!"
-- Select your desired pack.
-  - It is suggested you download packs that do not cost you money first. Free packs have "FREE" tag instead of the "USD$" cost tag.
-
-FAQ and troubleshooting
+- Apri osu!stream.
+- Premi il simbolo di osu! e dovresti essere indirizzato al menu principale (o tutorial se questa è la tua prima volta)
+- Premi la barra "Store"
+  - Puoi anche andare su "Play" e premere "Scarica più canzoni!"
+- Seleziona il pacchetto desiderato.
+  - Ti suggeriamo di scaricare prima dei pacchetti che non ti costano soldi. I pacchetti gratuiti hanno il tag "FREE" al posto del tag di costo "USD$".
+FAQ and risoluzione dei problemi
 -----------------------
 
 ### osu!
 
--   **I try to run osu! and get an 'Initialization Error**'
-    -   Make sure you have the [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22) installed.
--   **Why can't I download from the Beatmap listing?**
-    -   You need to register for the site first. Registration is free and very quick, and as well as giving you the benefit of accessing beatmap downloads, it also allows you to obtain a ranking on the online leaderboards and chat to other players in-game. So there's no excuse not to sign up!
--   **I can't play the Beatmap I downloaded!**
-    -   Your file is incomplete/corrupted. Did you just cancel the download half-way? If so, search back that song name and download it again and stay till the song has completed it's download properly.
-        -   osu! will put the incomplete/corrupted song under "Failed" folder in "Songs" folder file.
--   **Something else going wrong?**
-    -   If you come across a bug or error not listed above, check out the [Bug Reports forum](http://osu.ppy.sh/forum/5) and post there (searching through existing threads first is highly recommended). Someone will definitely be around to help. Just make sure you speak your points clearly and provide a proof to back-up your points (like a screenshot, video, and/or the steps to reproduce).
-    -   Also, please consider using the osu! IRC channel if you are bit skeptical to post at Bug Reports section.
+- **Cerco di eseguire osu! e ottengo un 'errore di inizializzazione**'
+    - Assicurati di aver installato [.NET Framework 3.5] (http://www.microsoft.com/en-us/download/details.aspx?id=22).
+- **Perché non posso scaricare dall'elenco Beatmap?**
+    - Devi prima registrarti per il sito. La registrazione è gratuita e molto veloce e, oltre a darti il ​​vantaggio di accedere ai download di beatmap, ti permette anche di ottenere un ranking nelle classifiche online e chattare con altri giocatori nel gioco. Quindi non ci sono scuse per non iscriversi!
+- **Non riesco a riprodurre la Beatmap che ho scaricato!**
+    - Il tuo file è incompleto / corrotto. Hai appena annullato il download a metà? In tal caso, cerca di nuovo il nome di quel brano e scaricalo di nuovo e resta fino a quando il brano non ha completato correttamente il download.
+        - osu! metterà il brano incompleto / corrotto nella cartella "Fallito" nel file di cartella "Songs".
+- **Qualcos'altro sta andando storto?**
+    - Se incontri un bug o un errore non elencato sopra, controlla il [Forum di Report Bug] (http://osu.ppy.sh/forum/5) e posta lì (la ricerca attraverso i thread esistenti prima è altamente raccomandata). Qualcuno sarà sicuramente in giro per aiutare. Assicurati di parlare chiaramente i tuoi punti e fornisci una prova per eseguire il back-up dei tuoi punti (come uno screenshot, un video e/o i passaggi da seguire).
+    - Inoltre, per favore considera di usare il canale IRC di osu! se sei un pò scettico da postare nella sezione Report Bug.
 
 ### osu!droid
 
--   What versions of Android OS are supported?
-    -   All versions since 1.6 (Donut).
--   Will you support storyboard/video?
+- Quali versioni del sistema operativo Android sono supportate?
+    - Tutte le versioni dal 1.6 (Donut).
+- Supporterete storyboard/video?
     -   No.
--   Will you make a <feature name>?
-    -   Make your request in the [feature requests thread](http://osu.ppy.sh/forum/t/62313).
+- Farete una <nome funzionalità>?
+    - Effettua la tua richiesta nel [thread richieste di funzionalità] (http://osu.ppy.sh/forum/t/62313).
 
 ### T-Aiko
 
--   I can't play on my Android phone!
-    -   Do you happen to be using a Motorola smartphone? There seems to be a bug in Motorola Android firmware that causes the game to crash when pressing play without even letting you send an error report. The only recommendation to-do is to install a (Stock) Google ROM.
-    -   If you discover any (bugs/problems), please post at [this forum post](http://osu.ppy.sh/forum/t/58640) complete with what smartphone you are using and the steps to reproduce the problem.
+- Non riesco a giocare sul mio telefono Android!
+    - Stai per caso utilizzando uno smartphone Motorola? Sembra che ci sia un bug nel firmware di Motorola Android che causa il crash del gioco quando si preme play senza nemmeno inviare un report di errore. L'unica cosa da fare è installare una ROM Google (Stock).
+    - Se scopri qualsiasi (bug / problemi), si prega di postare su [questo post del forum] (http://osu.ppy.sh/forum/t/58640) completo di quale smartphone si sta utilizzando e dei passaggi per riprodurre il problema .
 
-External links
+Link esterni
 --------------
 
--   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
--   peppy's download page [2](http://osu.ppy.sh/p/download)
+-   FAQ di peppy [1](http://osu.ppy.sh/p/faq)
+-   pagina download di peppy [2](http://osu.ppy.sh/p/download)
 -   peppy's osu! (OS X) testing release [3](http://osu.ppy.sh/forum/p/909738)
--   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](http://osu.ppy.sh/forum/t/14664/)
-    -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
--   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151's General Information and Download (osu!droid) [6](http://osu.ppy.sh/forum/t/62680)
-    -   Pesets's osu!droid Changelog [7](http://osu.ppy.sh/forum/t/62315)
-    -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun's T-Aiko! for Android (Market Release!) [9](http://osu.ppy.sh/forum/t/58640)
-    -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
--   peppy's osu!stream official page [11](http://osustream.com/)
-    -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+-   mattyu007's Come eseguire osu! sul Mac senza utilizzare Boot Camp [4](http://osu.ppy.sh/forum/t/14664/)
+    -   [Come eseguire osu! sul Mac senza utilizzare Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
+-   Soluzione di KcLKcL: Eseguire osu! su Ubuntu o Xubuntu[5](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+-   Informazioni generali e downloa di doomed151 (osu!droid) [6](http://osu.ppy.sh/forum/t/62680)
+    -   Note di rilascio osu!droid di Pesets   [7](http://osu.ppy.sh/forum/t/62315)
+    -   Pagina Google Play di osu!droid [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
+-    T-Aiko! di Guy-kun per Android (Market Release!) [9](http://osu.ppy.sh/forum/t/58640)
+    -   Pagina Google Play di T-Aiko! [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
+-   Pagina ufficiale osu!stream di peppy [11](http://osustream.com/)
+    -   Pagina App Store di osu!stream[12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
