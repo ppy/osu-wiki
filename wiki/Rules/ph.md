@@ -48,14 +48,14 @@ Ang isang hanay ng mga mas detalyadong mga tuntunin para sa konstruksiyon ng bea
 2.  **Manatili sa paksa sa mga talakayan ng Beatmap.** Ang mga thread / diskusyon ay tungkol sa beatmap na pinag-uusapan, at walang iba pa. Kung mayroon kang isang isyu sa isang bagay na hindi direktang tumutukoy sa beatmap, i-post ito sa naaangkop na forum.
 3.  **Huwag mag-plagiarise o magtangkang magnakaw ng gawain ng iba.** Huwag din mag-upload o gumamit ng trabaho ng ibang tao nang walang tahasang pahintulot (kabilang ang, ngunit hindi limitado sa, mga skin at mga kahirapan sa panauhin).
 
-Mga Panuntunan ng Off-Paksa
+Mga Panuntunan ng Off-Topic
 ---------------
 
 *Nalalapat ang mga patakaran sa ibaba LAMANG sa [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum maliban kung nakasaad.*
 
-1. **Wala nang paksa sa Off-Topic na halaga.** Ang mga ito ay inilagay lamang, basura. Kung ang iyong mga thread panatilihin ang paglipat sa Off-Paksa, sila ay hinuhusgahan upang maging hindi karapat-dapat ng malubhang talakayan. Kunin ang pahiwatig.
+1. **Walang halagang Topic sa Off-Topic .** Ang mga ito ay inilagay lamang, basura. Kung ang iyong mga thread panatilihin ang paglipat sa Off-Topic, sila ay hinuhusgahan upang maging hindi karapat-dapat ng malubhang talakayan. Kunin ang pahiwatig.
 2. **Ang sobrang katangahan ay masama.** Ang pagiging matalik na pipi ay mabuti, at bumagsak sa modus operandi ng shitposting. Ang tunay na katangahan ay hindi maganda. Kung hindi mo makilala ang pagkakaiba, nilalabag mo na ang panuntunan.
-3. **Ang mga thread ng birthday ay pinapayagan lamang sa Off-Paksa, at wala saan man.** Ang lahat ng mga kaarawan thread ay dapat na sinamahan ng hindi kukulangin sa tatlong (3) mga imahe ng sayawan anime batang babae o sila ay *ruthlessly*  itinapon sa ilalim ng isang bus.
+3. **Ang mga thread ng birthday ay pinapayagan lamang sa Off-Topic, at wala saan man.** Ang lahat ng mga kaarawan thread ay dapat na sinamahan ng hindi kukulangin sa tatlong (3) mga imahe ng sayawan anime batang babae o sila ay *ruthlessly*  itinapon sa ilalim ng isang bus.
 
 Ano ang mangyayari kung sisira ako sa mga panuntunan?
 ---------------
