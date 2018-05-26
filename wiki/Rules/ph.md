@@ -15,7 +15,7 @@ Mga Panuntunan ng Komunidad
 
 Mga Panuntunan sa In-Game Chat
 ------------------
-
+ 
 1.  **Maging magalang at maingat sa iba pang mga gumagamit sa channel, at maiwasan ang pagbaha o pag-spam.** Ang isang tao na kumukuha ng kalahati ng screen nang sabay-sabay ay nakakainis, upang maiwasan ang paggawa nito hangga't maaari. Ang iba pang mga tao ay nagsisikap na makipag-chat rin!
 2.  **Hayaang mahawakan ng mga moderator ang mga isyu sa chat.** Maaari mong ituro ang mga bagay sa kanila sa pamamagitan ng !reportutos at hahawakan nila ang iba.
 3.  **Kung ang isang tao ay makakapag-time out, silenced o restricted, iwanan ang mga ito at huwag magsimulang magsalita tungkol sa mga ito.** Kung limitado ang isang tao, ang kanilang kaso ay nagsasangkot lamang sa kanila at sa pangangasiwa ng laro - walang pasubali na walang ibang tao!
