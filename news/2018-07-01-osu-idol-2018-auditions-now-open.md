@@ -16,7 +16,7 @@ The annual community driven singing contest - osu!idol! It's where contestants a
 
 Top three will receive supporter tags with a bonus for the winner - the osu!idol winner badge!
 
-* **1st:** osu!idol 2017 Winner profile Badge + 6 months supporter tag.
+* **1st:** osu!idol 2018 Winner profile Badge + 6 months supporter tag.
 * **2nd:** 3 months supporter tag.
 * **3rd:** 2 months supporter tag. 
 
