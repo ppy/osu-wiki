@@ -81,7 +81,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 2. In order for your registration to count, you must meet following conditions:
     - Participant must fill out the provided form.
     - Participant's Flag on their profile must be a country from **Asia.**
-    - Maximum Performace Points (PP) allowed for participant to register is **8,500pp.**
+    - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
     - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Tournament Management (see below).
