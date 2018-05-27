@@ -22,7 +22,7 @@ Top three will receive supporter tags with a bonus for the winner - the osu!idol
 
 ### Sign up where?!
 
-[**Checkout the official thread for the contest rules, details on the contest and discussion.**](https://osu.ppy.sh/notdoneyet)
+[**Checkout the official thread for the contest rules, details on the contest and discussion.**](https://osu.ppy.sh/community/forums/topics/752088)
 Come join our [Discord server](https://discord.gg/7hZgNeH) to receive announcements and updates, ask questions, and join in the banter with your fellow contestants! 
 
 —Flanster
