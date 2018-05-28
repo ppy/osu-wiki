@@ -69,7 +69,7 @@ This is to be placed at the very top of the translation files to flag them as be
 
 #### Tagging articles
 
-Tagging articles will help the website's search engine query articles better. It is unlikely that you'll need to do this, but the markup is as follows:
+Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup is as follows:
 
 ```
 ---
@@ -80,7 +80,7 @@ tags:
 ---
 ```
 
-You should only need to include words that aren't found in the article.
+You should only need to include words that are not found in the article.
 
 #### Outdated and tagged articles
 
@@ -109,7 +109,7 @@ Folder names must never contain URL reserved characters. Generally, all folder n
 
 #### Percent encoding characters
 
-Folder names should not use characters that require percent encoding. Those characters may include, but aren't limited to:
+Folder names should not use characters that require percent encoding. Those characters may include, but are not limited to:
 
 - ` ` (spaces)
 - `'` (apostrophes)
@@ -145,9 +145,9 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 HTML character entites should almost never be used. If used however, prefer the character over the entity. For example:
 
 ```
-Don't: the bestest free-to-win rhythm game&trade;
-Don't: the bestest free-to-win rhythm game&#153;
-Don't: the bestest free-to-win rhythm game&#x99;
+Do not: the bestest free-to-win rhythm game&trade;
+Do not: the bestest free-to-win rhythm game&#153;
+Do not: the bestest free-to-win rhythm game&#x99;
 
 Do:    the bestest free-to-win rhythm game™
 ```
@@ -157,7 +157,7 @@ Do:    the bestest free-to-win rhythm game™
 While editing, sentences are to be in a paragraph form, not in single lines. For example:
 
 ```
-Don't:
+Do not:
 osu!lazer is a development build that you can download.
 It will one day be the successor of the previous osu! client.
 Please, **do not send the development team any issues you are facing,** as things are still subject to change.
@@ -243,7 +243,7 @@ Note is something that the reader should be made aware about, but only applies a
 When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
 
 ```
-Don't:
+Do not:
 You are NOT allowed to post R-18 skins on the osu! forums.
 
 Do:
@@ -276,7 +276,7 @@ For English article titles, if you need to reword the title, you must rename the
 
 All section headings are to be using levels 2 to 5 headings.
 
-Section headings are to use sentence case and **should never contain styles nor links**. In addition to this, section headings must never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading.
+Section headings are to use sentence case and **should never contain styles nor links**. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading.
 
 Unlike titles, section headings can have small image icons.
 
@@ -339,9 +339,9 @@ Never use the word `here` as the link text. Instead, take the title of the page 
 Never use raw links for linking or have the link text be the URL. For example:
 
 ```
-Don't: https://osu.ppy.sh/home
-Don't: <https://osu.ppy.sh/home>
-Don't: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
+Do not: https://osu.ppy.sh/home
+Do not: <https://osu.ppy.sh/home>
+Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
 Do:    [osu! on the web](https://osu.ppy.sh/home)
 ```
@@ -381,7 +381,7 @@ All usernames must be linked on first occurrence. Other occurrences are optional
 When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
-Don't:
+Do not:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111)
 [Agent Spin Here](/users/Agent%20Spin%20Here)
 [peppy](/users/peppy)
@@ -538,7 +538,7 @@ Never use image links! Image links are links with the image as the link text. On
 Flag icons next to userlinks must be separate from the username. For example:
 
 ```
-Don't: [![][flag_AU] peppy](/users/2)
+Do not: [![][flag_AU] peppy](/users/2)
 
 Do:    ![][flag_AU] [peppy](/users/2)
 ```
@@ -628,7 +628,7 @@ The name of the game, osu!, is **never capitalised nor italicised**. The osu! of
 - `osu!talk`
 - `osu!tourney`
 
-Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
+Other brandings that are not covered by the osu! official branding must use spaces. Examples may include:
 
 - `osu! tournaments`
 - `osu! alumni`
@@ -785,13 +785,15 @@ Keep in mind that there are some exceptions to not using the serial comma.
 
 ### Contractions
 
-Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are discouraged. This is to keep a formal tone in the osu! wiki. Articles that talk directly to the reader may be an exception from this rule (e.g. guides, rules, FAQ). For example, use:
+<!-- Shiro ruled that they are not allowed. -->
 
-- `Do not` instead of `Don't`
+Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are not allowed. This is to keep a formal tone in the osu! wiki. For example, use:
+
+- `Do not` instead of `Do not`
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-*Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.*
+*Note: the possessive form of a word (e.g. `the player's` or `the skinner's`) is not a contraction.*
 
 ### Point of view
 
