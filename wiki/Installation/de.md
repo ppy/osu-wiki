@@ -16,7 +16,7 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
 3. Sobald das Installationsprogramm läuft, hast du zehn Sekunden Zeit, um das Installationsverzeichnis zu ändern.
     - Wenn du das Verzeichnis ändern willst, klicke einfach auf den Text unter "Hi!" und suche ein neues Verzeichnis aus.
     - Dorthin wird osu! nach dem Ablauf der zehn Sekunden installiert.
-4. Direkt nach der Installation startet sich osu!, lädt durch osu!direct  einige Beatmaps herunter und installiert sie, damit du direkt loslegen kannst.
+4. Direkt nach der Installation startet sich osu!, lädt durch osu!direct einige Beatmaps herunter und installiert sie, damit du direkt loslegen kannst.
 5. Nun wird osu! dich auffordern, dich entweder zu registrieren oder einzuloggen.
     - Wenn du einen Account hast, logge dich ein.
     - Ansonsten siehe [Registrierung](/wiki/Registration) und logge dich danach ein.
