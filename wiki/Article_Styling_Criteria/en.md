@@ -252,11 +252,11 @@ Do:
 
 #### Bold
 
-Use bold when you need to caution or note something's importance. When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word.
+Use bold when you need to caution or note something's importance. When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word. Prefer double asterisks (`**`) over double underscores (`__`).
 
 #### Italics
 
-Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this.
+Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this.  Prefer single asterisks (`*`) over single underscores (`_`).
 
 ### Headers
 
