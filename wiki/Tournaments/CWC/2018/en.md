@@ -41,7 +41,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ------------ | -------------- |
 | Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CN] F D Flourite](https://osu.ppy.sh/users/2459589), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
-| Commentators | [![][flag_US]] chickenbible](https://osu.ppy.sh/users/2306637), [![][flag_NO]] Divine Cake](https://osu.ppy.sh/users/3636998), [![][flag_US]] Dohland](https://osu.ppy.sh/users/5220511), [![][flag_GB]] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_GR]] Nokashi](https://osu.ppy.sh/users/5431196), [![][flag_NL]] SartNYAN OwO xD](https://osu.ppy.sh/users/4100941), [![][flag_US]] vkells](https://osu.ppy.sh/users/632048), [![][flag_US]] Zak](https://osu.ppy.sh/u/1375955) |
+| Commentators | [![][flag_US] chickenbible](https://osu.ppy.sh/users/2306637), [![][flag_NO] Divine Cake](https://osu.ppy.sh/users/3636998), [![][flag_US] Dohland](https://osu.ppy.sh/users/5220511), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_GR] Nokashi](https://osu.ppy.sh/users/5431196), [![][flag_NL] SartNYAN OwO xD](https://osu.ppy.sh/users/4100941), [![][flag_US] vkells](https://osu.ppy.sh/users/632048), [![][flag_US] Zak](https://osu.ppy.sh/u/1375955) |
 | Referees | [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_CL] WalterToro](https://osu.ppy.sh/users/5281416), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -79,7 +79,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ![][flag_PT] | **Portugal** | **[Buffow](https://osu.ppy.sh/users/4427038)**, [uwu](https://osu.ppy.sh/users/2788013), [PTrollYO](https://osu.ppy.sh/users/6502093), [DemiGod Yoxide](https://osu.ppy.sh/users/6205809), [123tris](https://osu.ppy.sh/users/3821475) |
 | ![][flag_RU] | **Russian Federation** | **[Myle](https://osu.ppy.sh/users/4915649)**, [aoe](https://osu.ppy.sh/users/6094216), [Xetopia](https://osu.ppy.sh/users/6689101), [OneLoveOneLife](https://osu.ppy.sh/users/6856387), [Nelly](https://osu.ppy.sh/users/4741164), [CirnoBaka](https://osu.ppy.sh/users/2535016) |
 | ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [DamnEasy](https://osu.ppy.sh/users/4452911), [CocoSunshine](https://osu.ppy.sh/users/6471909), [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [Osten](https://osu.ppy.sh/users/4417929), [\[ M e a k u \]](https://osu.ppy.sh/users/2747072) |
-| ![][flag_SG] | **Singapore** | **[He Ang Erika](https://osu.ppy.sh/users/2451381)** |
 | ![][flag_TH] | **Thailand** | **[-Luminate](https://osu.ppy.sh/users/4778689)**, [rew0825](https://osu.ppy.sh/users/2488026), [- AodEito -](https://osu.ppy.sh/users/10043310), [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952), [bank78952](https://osu.ppy.sh/users/1443297), [-\[elsee25\]-](https://osu.ppy.sh/users/7036796) |
 | ![][flag_TW] | **Taiwan** | **[Megpoid](https://osu.ppy.sh/users/158240)**, [XXXZ](https://osu.ppy.sh/users/2111624), [\[-naniwa-\]](https://osu.ppy.sh/users/4958376), [-Scarlet Rose-](https://osu.ppy.sh/users/2322189), [Majiyabakune](https://osu.ppy.sh/users/605088), [Sanami](https://osu.ppy.sh/users/1629471) |
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Playboy](https://osu.ppy.sh/users/2165558), [-Electro-](https://osu.ppy.sh/users/3251373), [Guillotine](https://osu.ppy.sh/users/4365562), [Dahcreeper](https://osu.ppy.sh/users/6926006), [chickenbible](https://osu.ppy.sh/users/2306637) |
@@ -96,6 +95,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)** |
 | ![][flag_FR] | **France** | **[Noulayfe](https://osu.ppy.sh/users/4316542)** |
 | ![][flag_NL] | **Netherlands** | **[SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)** |
+| ![][flag_SG] | **Singapore** | **[He Ang Erika](https://osu.ppy.sh/users/2451381)** |
 
 ------------------------------------------------------------------------
 
