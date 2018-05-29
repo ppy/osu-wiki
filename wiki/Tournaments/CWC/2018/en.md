@@ -281,5 +281,5 @@ _Mappools will be revealed one week in advance of each stage_
 [flag_VN]: /wiki/shared/flag/VN.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
-[flag_GR]: /wiki/shared/flag/GB.gif
-[flag_GB]: /wiki/shared/flag/GR.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
