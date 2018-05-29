@@ -79,7 +79,7 @@ Naciśnij numer na klawiaturze lub pasek widoczny na ekranie, aby aktywować dan
 2. Naciśnij `Zobacz profil`, aby wyświetlić profil gracza w twojej przeglądarce.
 3. Naciśnij `Rozpocznij rozmowę`, aby zacząć prywatną rozmowę na czacie z danym graczem.
 4. Naciśnij `Zaproś do gry` (jeżeli jesteś w pokoju trybu Multi), aby zaprosić gracza do swojego pokoju.
-5. Naciśnij `Dodaj jako znajomego`//`Usuń jako znajomego`, aby dodać lub usunąć gracza z listy znajomych.
+5. Naciśnij `Dodaj jako znajomego`/`Usuń jako znajomego`, aby dodać lub usunąć gracza z listy znajomych.
 6. Naciśnij `Zgłoś użytkownika`, aby zgłosić użytkownika moderatorom, jeżeli źle się zachowuje. Nie powinno być używane bez wyraźnej potrzeby. Możesz zgłosić użytkownika za różnego rodzaju złe zachowanie w grez, ale także nn forum.
 7. Naciśnij `Ignoruj użytkownika`, aby każdy jego wpis na czace nie wyświetlał się w twojej grze.
 8. Naciśnij `Zamknij`, aby zamknąć te opcje.
