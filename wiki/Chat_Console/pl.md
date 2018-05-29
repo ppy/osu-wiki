@@ -46,8 +46,9 @@ Kiedy kursor myszy znajduje się na panelu gracza pokazywane są inne informacje
 - Państwo,
 - Miasto, jeżeli dozwolone przez gracza,
 - Co aktualnie robi.
+
 Kontrolki:
-- Filtr `Zanjomi` ogranicza wyświetlane informacje do tylko dotyczących twoich znajomych.
+- Filtr `Znajomi` ogranicza wyświetlane informacje do tylko dotyczących twoich znajomych.
 - `Zablokuj panele` zatrzymuje przemieszczanie się paneli.
 - Naciśnij na zakładkę, aby sortować graczy według danej informacji.
 - Kliknij na zakładkę `Mapa świata`, aby zobaczyć mapę świata, na której zostaną umieszczeni gracze.
