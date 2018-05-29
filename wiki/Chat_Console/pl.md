@@ -57,14 +57,29 @@ Kontrolki:
 
 | Kolor panelu                                                                                          | Opis                                                                                                    |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | Ciemnoniebieski - Gracz jest aktualnie nieaktywny lub nic nie robi, bądź po prostu czatuje.                                  |
+| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | Ciemnoniebieski - Gracz jest aktualnie bezczynny lub nic nie robi, bądź po prostu czatuje.                                  |
 | ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | Szary - Gracz przechodzi beatmapę w trybie solo.                                                                              |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | Light Blue - Watching a replay or spectating someone.                                                          |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | Red - Editing their own beatmap.                                                                               |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | Purple - Test playing a beatmap either it's their beatmap or not.                                              |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | Turquoise - Submitting (either uploading or updating) the beatmap that they have made.                         |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | Green - Modding or editing someone else's beatmap.                                                             |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Brown - User is in multiplayer, but not playing.                                                               |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Yellow - Currently playing in multiplayer.                                                                     |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Black - Inactive or away from keyboard (afk).                                                                  |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | Jasnoniebieski - ogląda powtórkę lub kogoś śledzi.                                                          |
+| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | Czerwony - Gracz edytuje swoją własną beatmapę.                                                                               |
+| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | Fioletowy - Gracz testuje swoją lub czyjąś beatmapę.                                              |
+| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | Turkusowy - Gracz zgłasza beatmapę, którą sam utworzył (niezależnie czy przekazuje ją pierwszy raz czy ją uaktualnia).                         |
+| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | Zielony - Moduje lub edytuje czyjąś (nieswoją) beatmapę.                                                             |
+| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Brązowy - Gracz jest w trybie multiplayer, ale w tej chwili nie gra.                                                               |
+| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Żółty - Gracz właśnie gra w trybie Multiplayer.                                                                     |
+| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Czarny - Gracz jest nieaktywny lub daleko od komputera (afk).                                                                  |
+| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Ciemnoniebieski bez zawartości - Gracz nie jest zalogowany w grze, tylko przez klienta IRC lub statystyki nie są dostępne. |
+
+Kliknięcie na panel dowolnego gracza pokazuje ekran opcji.
+
+![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+
+Naciśnij numer na klawiaturze lub pasek widoczny na ekranie, aby aktywować daną opcję. Czasami niektóre opcje mogą być niedostępne.
+
+1. Naciśnij `Oglądaj`, aby oglądać grę gracza. Jest to możliwe, jeżeli dany gracz akurat gra i ty posiadasz daną beatmapę. Twoje imię będzie widoczne na Liście widzów.
+2. Naciśnij `Zobacz profil`, aby wyświetlić profil gracza w twojej przeglądarce.
+3. Naciśnij `Rozpocznij rozmowę`, aby zacząć prywatną rozmowę na czacie z danym graczem.
+4. Naciśnij `Zaproś do gry` (jeżeli jesteś w pokoju trybu Multi), aby zaprosić gracza do swojego pokoju.
+5. Naciśnij `Dodaj jako znajomego`//`Usuń jako znajomego`, aby dodać lub usunąć gracza z listy znajomych.
+6. Naciśnij `Zgłoś użytkownika`, aby zgłosić użytkownika moderatorom, jeżeli źle się zachowuje. Nie powinno być używane bez wyraźnej potrzeby. Możesz zgłosić użytkownika za różnego rodzaju złe zachowanie w grez, ale także nn forum.
+7. Naciśnij `Ignoruj użytkownika`, aby każdy jego wpis na czace nie wyświetlał się w twojej grze.
+8. Naciśnij `Zamknij`, aby zamknąć te opcje.
