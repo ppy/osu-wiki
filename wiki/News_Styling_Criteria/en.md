@@ -1,6 +1,6 @@
 # News Styling Criteria
 
-*For wiki articles, see [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
+*For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria).*
 
 News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
@@ -8,11 +8,11 @@ As always, all news articles should aim to have proper spelling and grammar at a
 
 ## Repository directory
 
-The following standards apply only to articles written for the news, and saved in the `news/` directory.
+The following standards apply only to articles written for the news, and saved in the `news` directory.
 
 ### News post caching
 
-News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the `#osu-wiki` [discord channel](https://discord.gg/ppy) to purge it.
+News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the `#osu-wiki` [Discord channel](https://discord.gg/ppy) to purge it.
 
 ## Locales
 
@@ -102,7 +102,7 @@ Markdown tables can be used, but is not recommended for displaying data in news 
 
 ### Images
 
-All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
+All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the `osu-wiki` shared image repository.
 
 News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, with the exception of the ``.md`` suffix.
 
@@ -116,7 +116,7 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 
 #### File size
 
-All images must be optimized as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
+All images must be optimised as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
 
 Images must be under 2 megabytes or they will fail to load.
 
