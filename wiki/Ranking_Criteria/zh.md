@@ -3,7 +3,7 @@ Ranking Criteria
 
 这里会列出[官方论坛](https://osu.ppy.sh/forum/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
 
-**注意[行为准则](/wiki/Code_of_Conduct)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
+**注意[行为准则](/wiki/Code_of_Conduct)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Ranking_Criteria/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
 
 _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。_
 
@@ -15,6 +15,32 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 - **规定（Rules）：** 规定就是**规定**。它们**不是**准则，在**任何**情况下都**不得**违反。
 - **准则（Guidelines）：** 在特殊情况下可以违反准则。这些例外情况必须得到详尽的解释，说明为什么准则遭到违反，为什么不违反准则将影响谱面的整体质量。
 
+### 谱面包
+
+- **Drain time：** 指会消耗血条的时间 。不包括休息时间。Taiko 模式的 Drain time 包括滑条和长度的转盘。
+- **合理的分布（Reasonable Spread）：** 在特定谱面难度中，根据其难度的规定和准则，各个谱面之间没有显著差异的谱面包。
+- **游戏模式（Game-mode）：** osu!，osu!taiko，osu!catch 和每一种 osu!mania 的键数都被看出单独的游戏模式。
+- **单模式谱面包（Single-mode mapset）：** 只包含一种游戏模式谱面的谱面包。
+- **混合映射集（Hybrid mapset）：** 包含多个游戏模式谱面的的映射集。
+- **马拉松（Marathon）：** 一个不需要完整难度分布的谱面包。
+- **谱面包创建者（Mapset host）：** 上载和管理谱面包的用户。
+- **客串谱面（Guest difficulty）：** 由不是谱面包创建者的其他人添加到谱面包中谱面难度。
+- **合作难度（Collaborative difficulty）：** 由多个作图者所做的单张谱面，也被称为 "collab"。
+
+### 元数据
+- **vs.**: versus 与
+- **&**: and 和
+- **feat./ft.**: featuring 以……为特色，一般用于表示合作的歌手
+- **CV**: character voice，通常用来指虚构人物的配音演员。
+- **实心方括号（Lenticular brackets）**: 也称为 隅付き括弧（Sumitsukikakko），写作 `【】`。
+- **直角括号（Corner brackets）**: 也称为 かぎかっこ（Kagikakko），写作 `「」`.
+- **方括号（Square brackets）**: `[]`
+- **星号（asterisk）**: `*`
+- **元音变音（umlauts）**: `ü`，`ö`，`ä` 和 `ß`
+- **平文式罗马字 改（Modified Hepburn Romanisation）**: 参阅[这篇文章](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization)了解更多。
+- **俄语罗马化（Russian Romanisation）**: 俄语/希里尔语使用 `BGN/PCGN` 体系。如果 `Е` 和 `е` 单独出现，或在 `a`，`e`，`ё`，`и`，`о`，`у`，`ы`，`э`，`ю`，`я`，`й`，`ъ`，`ь` 之后出现，应该罗马音化为 `ye`。在其他情况中，应该罗马音化为 `e`。`ё` 应该罗马音化为 `ye`，但是，使用 `yo` 或 `o` 以避免使用特殊字符。忽略提供的文件中的任何其他规则，这些规则或者是无关紧要的，或者对游戏没有帮助。如果艺术家有更好的罗马音名称，可以不必遵循这个规则。对于大部分其他字符的转换规则，请参阅[这个文件的第一页](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf)。
+- **连续字符罗马化（Character-by-character romanisation）**: 每一个中文字符必须使用拼音，首字母大写，用空格分割开。
+
 ### 时间点
 
 - **BPM：** `每分钟节拍数`的缩写，用于确定歌曲的节奏。
@@ -25,10 +51,16 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 - **多 BPM 时间点（Multi-BPM Timing）：** 随着歌曲的节奏改变 BPM 的时间点，不会因为节奏变化而不规律变化。
 - **变 BPM 时间点（Variable-BPM Timing）：** 会随着节奏变化而不规律地变化的时间点。
 
+### 音频
+
+- **主动音效（Active hit sounds）：** 敲击时发出的音效。
+- **被动音效（Passive hit sounds）：** 未敲击时发出的音效，比如环境声音。
+- **故事版音效（Storyboarded hit sounds）：** 通过故事版代码控制的声音。
+
 ### 皮肤
 
 - **游戏元素（Gameplay elements）：** 在游戏过程中，玩家与之交互和接受反馈的皮肤元素，不包含在休息（Break）时间显示的元素。与游戏相关的元素可以在这个[表格](/wiki/Ranking_Criteria/Skin_Set_List/)中查询。
-- **敲击火花（Hitburst）：** 在击中一个物件后显示的元素，用于提示玩家相对于准确时间的敲击偏差（300/100/50）。
+- **敲击火花（Hit burst）：** 在击中一个物件后显示的元素，用于提示玩家相对于准确时间的敲击偏差（300/100/50）。
 - **完整的皮肤组（Complete set）：** 在概述中列出一组皮肤元素。皮肤组是完整的，指的是该组中有所有必须皮肤元素。如果包含可选皮肤元素，则必须包含所有必需元素，但是可以不包含其他可选元素。
 - **用户皮肤（User-specific）：** 玩家在选项菜单中设置的用户皮肤。
 - **谱面皮肤（Beatmap-specific）：** 谱面文件夹中的一组皮肤元素。
@@ -44,49 +76,44 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 - **被渲染（Rendered）：** 通常指尚未在屏幕中完全消失的精灵图。
 - **osu! 像素（osu!pixel）：** 设计标签页中的最小尺寸。可以在编辑器屏幕的右上角看到，例如 `x: 104; y: 88`。
 
+
 ## 一般
 
 ### 规定
-
--   **两个物件不能出现在同一个时间点上（osu!mania 模式除外）。** 包括圈，滑条的开始和结束，转盘的开始和结束。虽然这么放物件仍然可以完成滑条或者转盘，但它与跟随歌曲节奏的目的相悖。
--   **不要滥用 Kiai 时间。** 一条经验法则是每分钟使用一次。Kiai 是为了强调歌曲高潮部分，所以不要经常使用它来获得绚丽的视觉效果。如果合适，你可以在歌曲高潮部分的中途将结束 Kiai，但每隔几个节拍 / 小节就使用 Kiai 是不合适的，
--   **不要手动编辑 `.osu` 文件中的编辑器无法修改的内容。** 例外是：`.osu` 自身的故事板，**滑条速度倍速（Slider velocity multipliers）** 和皮肤相关的选项，比如 SliderBorder 和 SliderTrackOverride。如果使用了非标准滑条速率倍速，它们必须在摸图时在谱面描述中指明。
+-   **两个物件不能出现在同一个时间点上。** 包括圈，滑条的开始和结束，转盘的开始和结束。osu!mania 模式除外。
 -   **背景 / 故事板 / 视频的内容不得有任何色情内容。** 包括裸体、近裸体、性暗示、暴力和滥用毒品等等。遵循 PG 级（普通级，建议在父母的陪伴下观看），适合 12 岁以上的人。图片的分级应该在这之上：能在所有观众的电视、公告标志上显示，且其内容不需要在任何国家进行审查。
--   **你必须为你的谱面的每个难度设置背景图片。** 如果谱面上有故事板，你可以轻松地淡出背景，但歌曲选择菜单、网站上的缩略图和选择不下载视频（如果谱面有视频）的玩家仍然需要谱面拥有背景图片。
--   **Approval 类别只适用于马拉松图。** 具有超过 5 分钟的 Draining 时间的长谱面符合这个类别。只有这种情况，这些谱面才能成为单难度谱面包。如果谱面的 Draining 时间小于 5 分钟，则需要完整的难度分布，且应该成为 Ranked 谱面。
--   **谱面文件夹中不能有任何未使用文件，** 除了谱面的 `.osb` 文件（因为即使谱面没有故事板，有时也会添加这些文件）和故事板的 `.thumb` 文件（因为它们是在图片文件夹中自动添加的）。未使用的文件会增加谱面的大小，这是没有必要的。
+-   **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。这条规则的唯一例外是自动生成的 `.osb` 文件和故事版的 `.thumb` 文件。
+-   **不要通过编辑 `.osu ` 文件来修改难度设定或插入休息时间，这可能会对相应的游戏模式产生意外的问题。** 对 `.osu` 文件的其他修改是可以的，例如修改偏移系数（Stack leniency）,滑条速度（Slider velocity）,皮肤设定等等。
 
 ### 准则
-
--   **确保你可以通过谱面包中的每个难度。** 不断测试（玩）你的谱面是发现错误和更正问题的最佳方法之一。
--   **Kiai 应该在每一张谱面中保持一致。**（因为它们会在主菜单中播放。如果你的某个来自其他作图者的谱面使用了不同的 Kiai，只要适合歌曲，是可以的。
--   **Kiai 应该从一个白节奏点开始。**（或者更常见的是，从大的白节奏点 [下拍](/wiki/Glossary/#downbeat) 开始）。一般来说，歌曲的高潮部分从这里开始。
--   **歌曲不应该太长。** 最多 3 分钟，更长的话会感觉很累。如果你在剪短歌曲长度上需要帮助，请在谱面论坛的[一般问题](https://osu.ppy.sh/forum/56) 中提出。
--   **所有难度应该保持设置一致，例如 Letterboxing，倒计时和歌曲导入时间（AudioLeadIn）。** 在整个谱面包中使用相同的设置会看起来更专业，尽管不能绝对做到。一个谱面可能立即开始，在这时使用倒计时是不可能的，但使用歌曲导入时间是非常必要的；而另一个谱面可能在几秒种后开始，这时使用倒计时是可以的，但是使用歌曲导入时间迟是不合适的。
--   **osz 文件的大小最好在 10MB 以下，如果包含视频或故事板，最好在 30MB 以下。** 视频和故事板通常可以通过降低视频的质量和裁剪 / 调整故事板中元素的大小来减少尺寸。
+-   **所有谱面中的 Letterboxing 和倒计时设定应该一致。**
+-   **不能通过编辑 `.osu` 文件来修改滑条节拍倍率。** 大多数自定义值会导致不整齐的滑条节拍，虽然 0.5，1.333 和 1.5 这些值有一定的使用，但只能在比标准节拍速率更适合歌曲时才能使用。
+-   **Kiai 应该从歌曲中的一个声音开始。** 否则让 Kiai 听起来与歌曲无关。
 
 ## 谱面包
 
 ### 规定
 
--   **Mapsets must have at least two difficulties of the same game mode, one of which must be an Easy/Normal level.** It is possible for Marathon difficulties to have only 1 difficulty, but it must be named Marathon for the BSS to allow the submission to pending.
--   **The mapset must have a well-designed spread of difficulties, containing at least an Easy or a Normal difficulty.** This is so that players of all levels of experience are able to enjoy maps of the songs they love.
--   **The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it.** The order can be seen in the chart below. If your mapset has two difficulties, one of them cannot be an Insane or Expert. **The lowest difficulty must be below 2.0 stars**. The difficulty level of osu!taiko-specific and osu!mania-specific difficulties must also follow a well-designed spread and might contain an Hard/Insane only, if there are standard difficulties present. In CtB, the spread evaluation is upon the [Beatmap Nominators'](/wiki/People/Beatmap_Nomination_Group/) discretion. The difficulty spread is determined by the map's star rating. A map falls under a certain difficulty when having a specific star rating:
-    -   Below 1.50: Easy
-    -   1.50-2.25: Normal
-    -   2.25-3.75: Hard
-    -   3.75-5.25: Insane
-    -   Above 5.25: Expert
--   **A difficulty's name must indicate its level of difficulty, with the exception of the hardest level of difficulty in a set.** The [mapset](/wiki/Glossary/#beatmapset)'s hardest difficulty may use an appropriate custom difficulty name, unrelated to a username. Mapsets may also use a complete set of custom difficulty names that clearly indicate their level of difficulty to the player. Marathon maps with a single difficulty may use free naming.
--   **Each difficulty must be able to be played by a single player.** Thus, Multiplayer TAG-specific difficulties are not allowed since multiple people are required to play them. However, you may add an external link to a [TAG](/wiki/Glossary/#tag) difficulty in your map thread.
--   **A mapset cannot have just one osu!taiko or osu!mania difficulty.** If you decide, for example, to include osu!taiko in your map, make sure you have at least 2 osu!taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty. However having only one CtB difficulty is fine.
--   **Having just one osu!catch specific difficulty is allowed within an osu! standard mapset, if it is not an Extra level difficulty.** If you wish to add a CtB-specific Extra level difficulty into a osu! standard mapset, you must at least add another CtB-specific Insane difficulty. osu! difficulties are converted correctly into osu!catch. However, in mapsets without osu! standard difficulties you must create a full spreaded CtB set, as osu!taiko and osu!mania difficulties can not be converted into osu!catch.
--   **No guest mapper should have more difficulties in the mapset than the creator, all modes together**. For collaboration mapsets, the uploader should take part in all [collab](/wiki/Glossary/#collab) difficulties. The person who should upload the map is the one who contributed most to it. Maps with an ambiguous set of difficulties such as collabs will be evaluated on a case-by-case basis to ensure that the submitting mapper is properly accounted for.
+-   **单模式谱面包必须有合理的难度分布，至少两个谱面。** 最低难度不能高于普通（Normal），且必须遵循对应模式和难度的 Rank 标准。osu!mania 没有特定难度的 Rank 标准，因此 osu!mania 谱面包的最低难度必须小于 2.00 星。
+-  **不包含 osu! 谱面的混合谱面包必须有合理的难度分布，每个模式至少两个谱面。** 每个模式的最低难度不能高于普通（Normal）难度，且必须符合其各自模式的特定难度标准。osu!mania 没有特定难度的 Rank 标准，因此 osu!mania 谱面包的最低难度必须小于 2.00 星。
+-  **如果谱面包包含 osu! 谱面：**
+   -  **一个合理的难度分布至少有两个 osu! 谱面** 最低难度不能高于普通（Normal），且必须遵循对应模式和难度的 Rank 标准。
+   -  **转换后的谱面必须有合理的分布。** 例如，一个包含简单（Easy）和普通（Normal）的 osu! 谱面和一个疯狂（Insane）的 osu!catch 难度放在一起是不允许的。可能需要增加一个或多个困难来填充间隙。
+   -  **任何两个以上的 osu!taiko，osu!mania 和 osu!catch 谱面必须有合理的难度分布。** 最低难度不能比困难（Hard）高。
+-   **谱面包最小的 Drain time 为 30 秒。** 这样保证每张 Rank 图有实际的打图时间。
+-   **马拉松图的最少 Drain time 为 5 分钟。** 这些特别长的谱面可以不拥有完整的难度分布。
+-   **除了谱面包中最难的谱面，难度的名称必须准确地指示其困难程度。** 常规的难度名称在各个游戏模式不同，但是作为替代，可以使用任何一组明显渐进的难度名称。此外，谱面包最难的难度不应使用错误的难度名称。
+-   **困难的名称必须与用户名无关。** 但是，客串难度可以使用作图者的用户名或昵称来表示。（例如：Guest Mapper's Insane）。如果难度名称中的单词与用户名有关，只要它们与歌曲相关，则可以使用。
+-   **此外，谱面包创建者的名字不能出现在难度名称中。**（例如：Mapset Host’s Insane）。 做了多张拥有相同元信息和合作难度而造成冲突时除外。
+-   **谱面包创建者所做的图的 Drain time 不得少有客串难度的 Drain time。** 你的付出应该与谱面包创建者的身份相称。
+-   **谱面包创建者和客串作图者可以按照自己的需要修改各自的谱面。** 如果两者意见不一致，谱面制作者必须通过申请删除客串谱面。如果在一个月内无法与客串作图者取得联系，它们将默认同意任何修改。
 
 ### 准则
 
--   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
--   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
+-   **避免使用无法理解的用户名组合来表示拥有客串作图者的谱面。** 如果不清楚是谁的用户名组合，建议使用缩写。
+-   **避免使用与客串谱面或与难度级别没有明确关联的难度名称。** （例如：Mapper’s Tragic Love Extra）
+-   **客串难度中出现的用户名应在多个谱面中保持一致。** 一个用户使用不同昵称会对理解谁创建了谱面产生模糊或误导。
+-   **避免在难度名称中使用非字母数字 unicode 字符。** 这可能会导致谱面提交系统出现错误，以及玩家在聊天中出现问题。
 
 ## 元数据
 
@@ -106,7 +133,7 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 
 ### 规定
 
--   **必须使用非继承时间点来准确地定位歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个下拍（Downbeat）添加非继承时间点以重置拍子记号。对于编辑器中不支持的拍子记号，可以将节拍器重置或编辑 `.osu` 文件。
+-   **必须使用非继承时间点来准确地定位歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍（Downbeat）添加非继承时间点以重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[模拟图表](/wiki/shared/timing/Timing_signature_reference_chart.png)，查阅[这个指南](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)获取更多信息。
 -   **有单 BPM 和多 BPM 时间点的谱面必须将每个音符对准。** 这意味着 BPM 和偏移与歌曲完全同步。
 -   **非继承时间点在谱面包的每个难度中必须相同。** 每个时间点在每个难度中必须有相同的 BPM 和偏移。
 -   **任何难度都不能有额外的非继承时间点。** 这可能会影响主菜单脉冲特效、NightCore 模式，或者由于毫秒舍入误差而导致时间偏移。可以通过设置非继承时间点将节拍器重置，以尽可能准确地贴合音乐。
@@ -115,7 +142,6 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 -   **地图的第一个非继承点不能用于切换 Kiai。** 这样做将导致 Kiai 在出现之前闪烁。必须使用与第一个非继承点位置相同的继承点来切换 Kiai。
 -   **如果无法使用编辑器中的节拍分割线来定位物件，则必须更改 BPM 来定位对象。** 物件不能解除锁定。
 -   **由于新的非继承时间点而被错误对齐的物件必须在新的时间部分内对齐其末端。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
--   **由于在新的非继承时间点之前结束而被错误对齐的物件尾部必与新的时间点对齐。** 对于转盘和 osu!mania 长音符，可以通过拖动一个对象的尾部使其对齐时间线来实现。对于滑条，这可以通过修改滑条速度操作或编辑 `.osu` 文件来实现。
 
 ### 准则
 
@@ -125,31 +151,34 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 
 ### 规定
 
+-   **带有少儿不宜内容歌词 / 主题的歌曲 / 谱面的帖子中必须带有例如 `18+` 这样的标签。** 这款游戏适合所有年龄段的人，因此需要提醒年轻人。但是，有些歌曲无论是否有 `18+` 警告，都是不能 Rank 的，相关信息请参阅[歌曲内容规定](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules)。
 -   **谱面包中只包含一个音频文件，所有难度使用同一个音频文件。** osu! 不支持单谱面包中的多个音乐文件，这会导致具有预览时间、元数据等出现错误。
--   **歌曲的音频文件必须具有合理的质量。** 请自己寻找合适质量的 `.mp3`；从视频站点提取的音频通常是体积较大质量较差的音频。谱面音频文件的比特率必须不低于 128kbps 且不高于 192kbps。如果您在获取适当的音频文件时遇到问题，请联系熟悉音频的 BN；他们会非常乐意帮助你找到一个合适的 `.mp3`。
--   **谱面的最小游戏（打图）时间为 30 秒（但建议的最小值为 45 秒）。** 如果您的谱面比这短，则可以使用音频编辑程序循环播放歌曲。这是因为每张地图都应当有足够高的分数，通常人们不会无缘无故地把歌曲做得太短，从而使听众无法充分欣赏这首歌。
--   **如果你使用不到 80%，你必须剪辑这个 `.mp3`。** 这不包括前奏时间，仅适用于超过 20% 的曲尾未使用的情况。如果您只想将歌曲的一部分做成谱面，那么包括完整的 `.mp3` 是对文件空间的浪费。许多 `.mp3` 编辑工具（比如 [mp3DirectCut](https://osu.ppy.sh/community/forums/topics/34303)）使得歌曲渐变和剪辑变得简单。但是，如果你有正当的理由使用完整的 `.mp3`（例如地图结束后的故事板），那么也可以使用。
--   **必须使用敲击音效。** 如果没有这些音效，谱面就会显得过于单调，它们是使谱面富于变化的主要元素之一。你不需要把它们放在每一个音符上（也不鼓励这样做），但至少在打图时必须经常听到它们。
--   **音效必须使用 `.wav` 格式。** `.wav` 格式的音效是首选的，而 `.mp3` 文件无法正确循环，`.wav` 延迟很短，介于 0 毫秒和 20 毫秒之间，但是 `.mp3` 可以在特殊情况下使用，例如 `reverse cymbal` 一开始就有延迟。请注意，使用 ogg 格式的谱面是 Unrankable（不能被 Rank 的）。
--   **音符和滑条的敲击音效不能没有声音。** 它们为玩家提供反馈，不应该让它们在节奏游戏中静音。如果你不喜欢默认声音，请查找替换音而不是使其静音。你可以在[自定义音效库](https://osu.ppy.sh/community/forums/topics/15407)中找找或者在网上找其他人的音效使用。可以降低几个音符的音量来提供阻尼效果，但是不能完全使其静音。转盘尾（甚至整个转盘）、滑条的滑动声音和滑块尾可以静音，但只能在恰当的时候才这样做。最后，不能同时静音滑条节奏点和滑条滑块。
--   **请勿使用 Sliderslide，Sliderwhistle，和 Spinnerspin 音效，它们会使用圈、滑条头、滑条尾、滑条节奏点或折返滑条上的敲击音效。** Sliderslide、Sliderwhistle 和 Spinnerspin 音效被视为连续音效，这意味着它们的音频文件从开始起作为一个连续声音循环播放直至结束播放，播放时间为整个物件的长度。不要修改该物件的任何部分来播放单个音效。
--   **带有少儿不宜内容歌词 / 主题的歌曲 / 谱面的帖子中必须带有例如 `18+` 这样的标签。** 这款游戏适合所有年龄段的人，因此需要提醒年轻观众。目前无法在谱面贴之外区分这一点，但将来可能会有所改变。
+-   **歌曲的音频文件必须具有合适的质量。** 请尝试查找可用的最高质量源文件，而不是从流视频网站中提取文件。歌曲信息应该与其发布版本一致。
+-   **谱面音频文件的比特率必须不低于 128kbps 且不高于 192kbps。** 变码率歌曲的平均值应该在该范围以内。
+-   **如果不使用谱面包中音频文件的最后 20% 部分，必须要剪掉它们。** 歌曲的前奏不需要剪掉。
+-   **谱面必须有敲击音效。** 每个游戏模式有自己的特点，所有模式中有效的敲击音效需要强调音乐中最重要的部分。
+-   **所有可击中的物件都必须有有声的敲击音效或者主动触发的声音样本。** osu!mania 谱面除外，因为这个模式的节奏构成与其他模式不同。
+-   **主动敲击音效必须使用 `.wav` 格式。** 主动敲击音效需要在敲击时对应它们声音的峰值。`.mp3` 文件有轻微的延迟，因此只能在更长的被动敲击音效中使用，比如环境噪音。`.ogg` 文件已被弃用，不再允许使用。
+-   **主动敲击音效的延迟不能超过 5ms。** 「延迟」是由声音的峰值时间点计算而不是它的开始时间点计算。这保证敲击音效可以有效地同步反馈一首歌曲。
+-   **敲击音效必须有声音。** 它们的目的是提供反馈，所以音量极低的敲击音效，或者由歌曲的样本合成的敲击音效都是不能使用的。具体游戏模式的例外情况请参阅它们相应的 Rank 标准。
 -   **谱面包的每个难度都必须有一个预览时间点（并在每一个困难中保持一致）。** 这用于歌曲选择菜单和在线缩略图预览。
--   **每一个 `.wav` 文件长度必须至少为 100 毫秒，** 以防止声卡解析时出现问题。如果你想要使用无声 / 空白的敲击音效，则必须使用 [0 字节波形文件](https://up.ppy.sh/files/blank.wav)。
-    **注：** 由于技术问题，谱面文件夹中任何大小为 0 字节的文件都将导致（第一个）0 字节文件之后的文件丢失。请不要使用任何 0 字节文件。上面链接中的文件大小为 44KB，不会出现这个问题。
--   **敲击音效的延迟范围必须小于 5 毫秒。** 每一个敲击音效文件应该及时开始，最好在 0 毫秒。这是为了保证每张谱面听起来不会出现时间偏差，从而向玩家提供可接受的节奏反馈。
+-   **每一个 `.wav` 文件长度必须至少为 100 毫秒，以防止声卡解析时出现问题。**
+-   **完全静音的敲击营销必须使用[这个 44 字节文件](https://up.ppy.sh/files/blank.wav)。** 其他文件可能会文件大小过大，0 字节的文件并不能达到想要的效果。
+-   **故事板敲击音效不能替换活动敲击音效。** 这会给玩家不准确的反馈形式。在其他情况下，可以但不鼓励使用故事板敲击音效。osu!mania 不受这一规定的约束。
 
 ### 准则
 
 -   **不要使用故事板的音效。** 如果玩家错过了故事版中的音效对应的物件，这个音效也会将被播放（这是一个利用音效反馈的节奏游戏，这么做没有多大意义）。另外，在没有物件的地方，故事板的音效会让玩家误以为有一些看不见的物件，这也是不合理的。
 
-## 视频
+## 视频和背景图片
 
 ### 规定
 
--   **谱面包不能包含多个背景视频文件。** `.osz2` 不支持单个谱面包中包含多个视频，将在上载和处理时导致错误。
+-   **谱面包不能包含多个背景视频文件。** 不支持单个谱面包中包含多个视频。
+-   **谱面包中每个难度必须含有一个背景图片。** 可以为不同的难度设定不同的背景图片。
 -   **视频的尺寸不得超过 1280x720 像素。** 同样，应该避免较低分辨率的视频放大到较高分辨率。这样可保证视频文件不会变得过大或占用过多空间。
--   **视频偏移必须正确且在每个难度中保持一致，** 这样视频就能准确地跟随音乐。
+-   **背景图像不得超过 1920x1200 像素。** 垂直或水平分辨率低于玩家屏幕分辨率的图片将被放大以适应整个屏幕。
+-   **视频偏移必须正确且在每个难度中保持一致，** 视频与它们各自的歌曲同步，因此不一致会导致一个或多个困难不同步。
 -   **视频的音频轨道必须从视频文件中删除。** 视频中的音频轨道不用于 osu!，因此删除它会减小谱面文件大小。
 
 ## 皮肤
@@ -171,7 +200,7 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 
 ### 规定
 
--   **故事板图像的高宽不得超过 1920x1200 像素。** 故事板编辑器基于 osu! 像素，最大宽度 854 像素，最大高度 480 像素。如果你使用的图像大于该值，则可能需要相应的缩放。
+    - **为了保证大部分电脑都能在短时间内加载完成，故事板图像不能超过 17,000,000 像素。** 此外，你需要根据故事板编辑器内部最大尺寸（854 x 480 像素）来缩放和你的图像。
 -   **包含重复频闪，脉冲图像，故事板中有对比度、颜色和亮度的快速变化的谱面必须使用癫痫警告。** 如果警告会影响游戏，则必须延长歌曲导入时间。3 HZ 以下的频闪不会引起人的注意。如果有疑问，在摸图时添加警告并确认其必要性。
 -   **谱面在加载时，不能引发解析错误。** 这意味着解析器无法读取故事板指令的某一部分。
 
