@@ -37,6 +37,7 @@ Każdy gracz zalogowany w osu! swój panel gracza wyświetlaną w rozszerzonej k
 - Precyzję,
 - Liczbę zagrań,
 - Awatar gracza (jeżeli takowy posiada).
+
 Kiedy kursor myszy znajduje się na panelu gracza pokazywane są inne informacje:
 - Nick,
 - Miejsce w rankingu,
