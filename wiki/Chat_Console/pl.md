@@ -107,5 +107,16 @@ Naciśnij numer na klawiaturze lub pasek widoczny na ekranie, aby aktywować dan
 | `/reply` or `/r` | Odpowiada na ostatnio otrzymaną wiadomość prywatną. | `/r Do you know any good doctor?` | (Na zakładce Amigo) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
 | `/savelog` | Zapisuje całą zawartość czatu dostępną dla ciebie z aktualnej zakładki/kanału. | `/savelog` | (W folderze osu! zostanie utworzony folder "Chat", w którym będą zapisywane wszystkie zapisy czatu.) | 
 | `/watch [użytkownik]` | Zaczyna obserwowanie `[użytkownik]`. | `/watch Amigo` | * Started spectating Amigo. (Kiedy Amigo będzie grał beatmapę, którą posiadasz, będziesz obserwował jego grę [po odrobinie buforowania]. Twój nick zostanie wyświetlony z lewej strony ekranu Amigo.) | 
-| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) | 
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game | 
+| `/nopm` | Ustala, czy wiadomości prywatne mogą ci wysyłać tylko znajomi, czy wszyscy użytkownicy. | `/nopm` | (Na środku ekranu pokaże się baner, informujący o tym, czy pozwalasz na wysyłanie ci wiadomości prywatnych tylko znajomym, czy wszystkim.) | 
+| `/invite [użytkownik]` | Zaprasza `[użytkownik]` do multiplayer'a razem z linkiem. | `/invite Nathanael` | * Nathanael has been invited to the game | 
+
+### /keys
+
+| Klawisze klawiatury     | Efekt                                                   |
+|-------------------|----------------------------------------------------------|
+| `Page Up` / `Page Down` | Przewija konsolę czatu. Możesz też użyć koła myszy. |
+| `Tab`               | Autouzupełnia aktualnie wpisywany nick gracza.                 |
+| `F8`                | Uruchamia konsolę czatu.                                     |
+| `F9`                | Uruchamia rozszerzoną konsolę czatu.                            |
+| `Ctrl` + `C` / `V`        | Kopiuj/Wklej.                                              |
+| `Alt` + `0` - `9`         | Przęłącza do odpowiedniej zakładki.                                |
