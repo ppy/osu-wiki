@@ -2,7 +2,7 @@
 
 Das **Beatmapping** (kurz auch: **Mapping**) beschreibt den Prozess der Erstellung einer [Beatmap](/wiki/Beatmap), die dann von anderen osu!-Spielern gespielt werden kann. Das Mapping beinhaltet die Wahl eines Liedes, das [Timing](/wiki/timing), das Platzieren von [Objekten](/wiki/hit_objects), und (optional) [Skinning](/wiki/skinning) sowie [Storyboarding](/wiki/storyboarding).
 
-Die meisten Mapper wollen, dass ihre Beatmaps [ranked](/wiki/Beatmaps/#ranked) werden. Dafür müssen sie den [Rankingprozess](/wiki/Beatmap_Ranking_Procedure) durchlaufen.
+Die meisten Mapper wollen, dass ihre Beatmaps [gerankt](/wiki/Beatmaps/#ranked) werden. Dafür müssen sie den [Rankingprozess](/wiki/Beatmap_Ranking_Procedure) durchlaufen.
 
 Da osu! ein rhythmusbasiertes Spiel ist, sollte das von dir gewählte Lied einen offensichtlichen und gleichmäßigen Beat besitzen. Versuche, Lieder mit langsamem Tempo oder wechselnder Geschwindigkeit zu vermeiden, bis du etwas erfahrener bist.
 
@@ -24,7 +24,7 @@ Die anderen Optionen kannst du jetzt oder auch später verändern, das bleibt ga
 
 _Siehe auch: [Timing](/wiki/Timing)_
 
-**Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht ranked werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/hit_objects) platzierst.
+**Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht gerankt werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/hit_objects) platzierst.
 
 Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst einen Mod oder poste deine Beatmap in das ["Beatmap Help"-Forum](community/forums/10). Damit sparst du dir (und der Moddingcommunity) später eine Menge Ärger.
 
