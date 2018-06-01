@@ -1,7 +1,7 @@
 # Mod
 
-**Mod**kann folgendes bedeuten:
+**Mod** kann Folgendes bedeuten:
 
--   Ein Moderator, wie z.B. ein [QAT-](/wiki/QAT) oder [GMT-](/wiki/GMT)Mitglied.
--   Eine Person die über eine Beatmap drüber guckt und ihr Feedback zu dieser abgibt.
--   Ein [Spielmodifikator](/wiki/game_modifier).
+- Ein Moderator, wie z.B. ein [QAT](/wiki/QAT)- oder [GMT](/wiki/GMT)-Mitglied.
+- Eine Person, die über eine Beatmap bewertet und ihr Feedback zu dieser abgibt.
+- Ein [Spielmodifikator](/wiki/game_modifier).
