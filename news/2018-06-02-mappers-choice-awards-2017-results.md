@@ -6,7 +6,7 @@ date: 2018-06-02 14:00:00 +0000
 
 The Mapper's Choice Awards for 2017 have ended, and the results are in. Celebrate some of osu!'s best and brightest from the perspective of the mapping community!
 
-![](https://i.imgur.com/xDU004u.png)
+![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/banner.jpg)
 
 The **[Mapper's Choice Awards](https://osu.ppy.sh/forum/t/734377)** is back again for 2017, and bigger than ever! 
 
