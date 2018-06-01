@@ -66,7 +66,7 @@ Being a constant in the mapping scene for almost 10 years at this point, it is n
 
 Although more acclaimed as a mapper, **[yf_bmp](https://osu.ppy.sh/u/1243669)**'s work as a storyboarder is not overlooked, with masterpieces such as the aforementioned **enn**. His storyboarding style is best described him none other tham himself: 'not just a showoff of effects and particles, but rather an attempt to follow the soul of the music'. 
 
-[![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/pishifat.jpg)](https://osu.ppy.sh/u/3178418)
+[![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/pishi.jpg)](https://osu.ppy.sh/u/3178418)
 
 Already well-known in the scene for his collection of mapping-related videos, it's definitely no surprise to anyone that **[pishifat](https://osu.ppy.sh/u/3178418)** once again snags the title of 'Outstanding Contribution' for the second year in a row. On top of his videos and QAT work, he has began managing the Mapper's Guild's activites, to bring more official content to the game!
 
@@ -322,7 +322,7 @@ When we talked about the amount of high quality consistency in the mod contribut
 
 *written by [Maxus](https://osu.ppy.sh/u/4335785)*
 
-[![](h/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/evening.jpg)](https://osu.ppy.sh/u/2193881)
+[![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/evening.jpg)](https://osu.ppy.sh/u/2193881)
 
 **[Evening](](https://osu.ppy.sh/u/2193881))**'s mapping journey already give a huge insight of what he already accomplished not only in the amount of maps that people already support him, but also on how he brings new concepts to mania not only in ranking section but also to what the mania editor actually capable of. 
 
