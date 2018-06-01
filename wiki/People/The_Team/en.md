@@ -17,20 +17,20 @@ Active
 | ---- | ----------- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organization and administration |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Lead designer, [osu!next](https://next.ppy.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! coffee hour host, World Cup streaming and tournament organization |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streaming and tournament organisation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organization and administration |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organisation and administration |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organization |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organization, and osu!academy professor |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/Announcements/osu!academy) professor |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
@@ -50,7 +50,7 @@ Inactive
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
 | ![][flag_US] Jim | Original site design, [Brand New Games](http://www.bravegamer.com/) |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organization and administration, QAT leadership and community management |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organisation and administration, QAT leadership and community management |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin design, Contributions to default skin and iconset, [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
