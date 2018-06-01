@@ -16,7 +16,13 @@ Our intention is to give a different perspective on the best maps of 2017 throug
 
 Voting has concluded recently and we have already announced the winners on stream, but if you happened to miss that, here's a quick recap on the winners of **Mapper's Choice Awards 2017**!
 
-![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_osu.jpg)
+### Navigation
+
+<a href="#standard">osu!</a></br><a href="#taiko">osu!taiko</a></br><a href="#catch">osu!catch</a></br><a href="#mania">osu!mania</a>
+
+---------------
+
+<a name="standard" id="standard">![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_osu.jpg)</a>
 
 [![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/chata.jpg)](https://osu.ppy.sh/s/406217)
 
@@ -74,7 +80,7 @@ Already well-known in the scene for his collection of mapping-related videos, it
 
 A quick glance at his maps, and even his oldest ones would probably make one doubt just how much of a rookie he is. However, **[dsco](https://osu.ppy.sh/u/4330511)**'s just that more cultured that everyone else. He has brought a variety of styles and concepts to the table, and not just in terms of maps!
 
-![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_taiko.jpg)
+<a name="taiko" id="taiko">![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_taiko.jpg)</a>
 
 [![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/encounter.jpg)](https://osu.ppy.sh/s/474003)
 
@@ -154,7 +160,7 @@ It is a bit surprising to see **[katacheh]( https://osu.ppy.sh/u/6651672)** here
 
 *written by [Nofool](https://osu.ppy.sh/u/672430)*
 
-![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_catch.jpg)
+<a name="catch" id="catch">![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_catch.jpg)</a>
 
 [![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/on-the-fm.jpg)](https://osu.ppy.sh/s/609679)
 
@@ -246,7 +252,7 @@ Winning the 'most influential' category of the MCA, **[Ascendance](https://osu.p
 
 *written by [Spectator](https://osu.ppy.sh/u/702598)*
 
-![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_mania.jpg)
+<a name="mania" id="mania">![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/mode_mania.jpg)</a>
 
 [![](/wiki/shared/news/2018-06-02-mappers-choice-awards-2017-results/trigger.jpg)](https://osu.ppy.sh/s/555076)
 
