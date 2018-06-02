@@ -103,18 +103,22 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](http://osu.ppy.sh/b/771881&m=2)
   - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](http://osu.ppy.sh/b/111302&m=2)
   - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](http://osu.ppy.sh/b/846259&m=2)
+  
 -Hidden
   - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](http://osu.ppy.sh/b/1448086&m=2)
   - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](http://osu.ppy.sh/b/937653&m=2)
   - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)
+  
 -HardRock
   - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](http://osu.ppy.sh/b/1154583&m=2)
   - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](http://osu.ppy.sh/b/899608&m=2)
   - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)
+  
 -DoubleTime
   - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](http://osu.ppy.sh/b/1533955&m=2)
   - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](http://osu.ppy.sh/b/717056&m=2)
   - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
+  
 -Tiebreaker
   - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
 
