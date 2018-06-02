@@ -1,6 +1,6 @@
 # osu!api
 
-osu! hat eine eigene und öffentliche API, die Entwickler nutzen können, um die osu! Plattform unterstützen zu können und zu erweitern. Es kann nur privat genutzt werden, die auf einer Anfrage auf die osu!api basiert, aber nun kann dies jeder nutzen und es bleibt, solange ihr Account existiert, bestehen.
+osu! hat eine eigene und öffentliche API, die Entwickler nutzen können, um die osu! Plattform unterstützen zu können und zu erweitern. Es kann nur privat genutzt werden, die auf Anfrage beantragt werden kann. Aber nun kann dies jeder nutzen und es bleibt, solange ihr Account existiert, bestehen.
 
 Du kannst eine Dokumentation von der API auf der [osu-api Wiki](https://github.com/ppy/osu-api/wiki) finden. Die aktuelle Version der API nutzt private Keys für die Authentifizierung der Anfragen. Du kannst dir einen API Key auf der [Beantragungs-Seite](https://osu.ppy.sh/p/api) von osu! beantragen.
 
