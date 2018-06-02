@@ -96,7 +96,89 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Mappools
 
-_Mappools will be revealed one week in advance of each stage_
+-NoMod
+  - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](http://osu.ppy.sh/b/1439325&m=2)
+  - [Ito Kanako - Uncontrollable \(Yumeno Himiko\) \[Rain\]](http://osu.ppy.sh/b/1183490&m=2)
+  - [Tama - Saigetsu \(Midnight Moon Walker Remix\) \(Spectator\) \[Overdose\]](http://osu.ppy.sh/b/1530447&m=2)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](http://osu.ppy.sh/b/771881&m=2)
+  - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](http://osu.ppy.sh/b/111302&m=2)
+  - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](http://osu.ppy.sh/b/846259&m=2)
+-Hidden
+  - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](http://osu.ppy.sh/b/1448086&m=2)
+  - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](http://osu.ppy.sh/b/937653&m=2)
+  - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)
+-HardRock
+  - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](http://osu.ppy.sh/b/1154583&m=2)
+  - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](http://osu.ppy.sh/b/899608&m=2)
+  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)
+-DoubleTime
+  - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](http://osu.ppy.sh/b/1533955&m=2)
+  - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](http://osu.ppy.sh/b/717056&m=2)
+  - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
+-Tiebreaker
+  - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
+
+------------------------------------------------------------------------
+
+## Match Schedule: Group Stage
+
+### Saturday, 9. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| France             | ![][flag_FR] | ![][flag_TW] | Taiwan             | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Singapore          | ![][flag_SG] | ![][flag_HK] | Hong Kong          | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
+| Malaysia           | ![][flag_MY] | ![][flag_IT] | Italy              | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Denmark            | ![][flag_DK] | ![][flag_ID] | Indonesia          | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
+| Hungary            | ![][flag_HU] | ![][flag_TW] | Taiwan             | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
+| Singapore          | ![][flag_SG] | ![][flag_VN] | Vietnam            | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 |
+| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile              | **14:00 UTC** | 19:00 UTC+05 | 11:00 UTC-03 |
+| Thailand           | ![][flag_TH] | ![][flag_FI] | Finland            | **14:00 UTC** | 21:00 UTC+07 | 17:00 UTC+03 |
+| Vietnam            | ![][flag_VN] | ![][flag_HK] | Hong Kong          | **15:00 UTC** | 22:00 UTC+07 | 23:00 UTC+08 |
+| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway             | **15:00 UTC** | 20:00 UTC+05 | 17:00 UTC+02 |
+| Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **15:00 UTC** | 17:00 UTC+02 | 22:00 UTC+07 |
+| Thailand           | ![][flag_TH] | ![][flag_ID] | Indonesia          | **15:00 UTC** | 22:00 UTC+07 | 22:00 UTC+07 |
+| Hungary            | ![][flag_HU] | ![][flag_FR] | France             | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Colombia           | ![][flag_CO] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 12:00 UTC-05 | 22:00 UTC+05 |
+| Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
+| Canada             | ![][flag_CA] | ![][flag_FR] | France             | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
+| Argentina          | ![][flag_AR] | ![][flag_US] | United States      | **18:00 UTC** | 15:00 UTC-03 | 11:00 UTC-07 |
+| Denmark            | ![][flag_DK] | ![][flag_FI] | Finland            | **18:00 UTC** | 20:00 UTC+02 | 21:00 UTC+03 |
+| Hungary            | ![][flag_HU] | ![][flag_CA] | Canada             | **19:00 UTC** | 21:00 UTC+02 | 15:00 UTC-04 |
+| Colombia           | ![][flag_CO] | ![][flag_CL] | Chile              | **19:00 UTC** | 14:00 UTC-05 | 16:00 UTC-03 |
+
+### Sunday, 10. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Brazil             | ![][flag_BR] | ![][flag_AU] | Australia          | **2:00 UTC**  | 23:00 (Sat) UTC-03 | 12:00 UTC+10       |
+| Mexico             | ![][flag_MX] | ![][flag_HK] | Hong Kong          | **2:00 UTC**  | 21:00 (Sat) UTC-05 | 10:00 UTC+08       |
+| Canada             | ![][flag_CA] | ![][flag_TW] | Taiwan             | **3:00 UTC**  | 23:00 (Sat) UTC-04 | 11:00 UTC+08       |
+| Singapore          | ![][flag_SG] | ![][flag_MX] | Mexico             | **3:00 UTC**  | 11:00 UTC+08       | 22:00 (Sat) UTC-05 |
+| Vietnam            | ![][flag_VN] | ![][flag_MX] | Mexico             | **4:00 UTC**  | 11:00 UTC+07       | 23:00 (Sat) UTC-05 |
+| Japan              | ![][flag_JP] | ![][flag_PH] | Philippines        | **10:00 UTC** | 19:00 UTC+09       | 18:00 UTC+08       |
+| Poland             | ![][flag_PL] | ![][flag_KR] | South Korea        | **10:00 UTC** | 12:00 UTC+02       | 19:00 UTC+09       |
+| Australia          | ![][flag_AU] | ![][flag_DE] | Germany            | **11:00 UTC** | 21:00 UTC+10       | 13:00 UTC+02       |
+| Japan              | ![][flag_JP] | ![][flag_CN] | China              | **11:00 UTC** | 20:00 UTC+09       | 19:00 UTC+08       |
+| Austria            | ![][flag_AT] | ![][flag_PH] | Philippines        | **11:00 UTC** | 13:00 UTC+02       | 19:00 UTC+08       |
+| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia          | **12:00 UTC** | 14:00 UTC+02       | 22:00 UTC+10       |
+| Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02       | 21:00 UTC+09       |
+| Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08       | 20:00 UTC+08       |
+| Malaysia           | ![][flag_MY] | ![][flag_KR] | South Korea        | **12:00 UTC** | 20:00 UTC+08       | 21:00 UTC+09       |
+| Austria            | ![][flag_AT] | ![][flag_CN] | China              | **13:00 UTC** | 15:00 UTC+02       | 21:00 UTC+08       |
+| Malaysia           | ![][flag_MY] | ![][flag_PL] | Poland             | **13:00 UTC** | 21:00 UTC+08       | 15:00 UTC+02       |
+| Italy              | ![][flag_IT] | ![][flag_KR] | South Korea        | **13:00 UTC** | 15:00 UTC+02       | 22:00 UTC+09       |
+| Finland            | ![][flag_FI] | ![][flag_ID] | Indonesia          | **14:00 UTC** | 17:00 UTC+03       | 21:00 UTC+07       |
+| Portugal           | ![][flag_PT] | ![][flag_NL] | Netherlands        | **14:00 UTC** | 15:00 UTC+01       | 16:00 UTC+02       |
+| Brazil             | ![][flag_BR] | ![][flag_SE] | Sweden             | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
+| Portugal           | ![][flag_PT] | ![][flag_US] | United States      | **17:00 UTC** | 18:00 UTC+01       | 10:00 UTC-07       |
+| Argentina          | ![][flag_AR] | ![][flag_NL] | Netherlands        | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
+| Brazil             | ![][flag_BR] | ![][flag_DE] | Germany            | **18:00 UTC** | 15:00 UTC-03       | 20:00 UTC+02       |
+| Italy              | ![][flag_IT] | ![][flag_PL] | Poland             | **18:00 UTC** | 20:00 UTC+02       | 20:00 UTC+02       |
+| Colombia           | ![][flag_CO] | ![][flag_NO] | Norway             | **18:00 UTC** | 13:00 UTC-05       | 20:00 UTC+02       |
+| Sweden             | ![][flag_SE] | ![][flag_DE] | Germany            | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
+| Portugal           | ![][flag_PT] | ![][flag_AR] | Argentina          | **19:00 UTC** | 20:00 UTC+01       | 16:00 UTC-03       |
+| Netherlands        | ![][flag_NL] | ![][flag_US] | United States      | **19:00 UTC** | 21:00 UTC+02       | 12:00 UTC-07       |
 
 ------------------------------------------------------------------------
 
