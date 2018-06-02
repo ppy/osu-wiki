@@ -4,7 +4,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 
 ![Chatkonsole im Hauptmenü](Chatconsole1.png "Chatkonsole im Hauptmenü")
 
-- Die Tabs zeigen die zuletzt offenen Channels an. Um zum jeweiligen Channel zu wechseln, klicke einfach auf den Tab. Eine Liste mit allen öffentlich zugänglichen Channeln erhält man durch das Klicken des gelben Tabs mit dem Plus drauf (am Ende der Reihe).
+- Die verschiedenen Tabs zeigen deine offenen Channel an. Das gelbe Plus-Symbol öffnet eine Liste aller verfügbaren Channel, denen du dann einfach beitreten kannst.
 - Die Farben der Benutzernamen im Chat haben verschiedene Bedeutungen:
 
  | Farbe | Bedeutung |
@@ -19,7 +19,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
  | **Pink** | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") |
 
 - Klicke auf den `Show Ticker`-Tab, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.
-- Klicke auf den `Auto-Hide`-Tab, um die Chatkonsole während des Spielens  automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.
+- Klicke auf den `Auto-Hide`-Tab, um die Chatkonsole während des Spielens automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.
 - Klicke auf den `Hide Chat`-Tab (oder drücke `F8` erneut), um die Chatkonsole zu schließen.
 
 ## Erweiterte Chatkonsole
@@ -71,7 +71,7 @@ Klicke entweder auf die Leiste oder drücke die zugehörige Zahl um:
 2. `Profil anzeigen`: Öffne das Profil des Spielers im Browser.
 3. `Chat beginnen`: Öffne einen privaten Chatkanal mit dem Spieler.
 4. `Zum Spiel einladen`: Lade einen Spieler in deinen Mehrspielerraum ein.
-5. `Als Freund hinzufügen/Freund entfernen`: Füge einen Spieler  zur Freundesliste hinzu oder entferne ihn von ihr.
+5. `Als Freund hinzufügen/Freund entfernen`: Füge einen Spieler zur Freundesliste hinzu oder entferne ihn von ihr.
 6. `Benutzer melden`: Melde den Spieler aufgrund von Regelbrüchen oder Fehlverhalten.
 7. `Benutzer ignorieren`: Mache alle Nachrichten des Nutzers bis zum nächsten Neustart des Spiels unsichtbar.
 8. `Schließen`: Schließe das Menü.
@@ -81,14 +81,14 @@ Klicke entweder auf die Leiste oder drücke die zugehörige Zahl um:
 ### /help
 
  | Kommando | Effekt | Beispiel | BanchoBots Antwort |
- | -------- | ------ | -------- | ------------------ |
+ | --- | --- | --- | --- |
  | `/addfriend [Benutzername]` | `[Benutzername]` als Freund hinzufügen. | `/addfriend Deimos` | Deimos. |
  | `/delfriend [Benutzername]` | `[Benutzername]` als Freund entfernen. | `/delfriend Deimos` | Deimos. |
  | `/away [Nachricht]` | Legt eine "Away"-Nachricht fest, die automatisch auf Privatnachrichten geantwortet wird. Zum Entfernen [Nachricht] leer lassen. | `/away Nicht hier.` | You have been marked as being away: Nicht hier. Jeder, der dich nun privat anschreibt, erhält die Nachricht: BanchoBot: Nicht hier. |
  | `/bb` | Sende eine Nachricht an BanchoBot, wie z. B. `rank [Zahl]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
  | `/chat [Benutzername]` | Öffnet eine Privatnachricht mit `[Benutzername]`. | `/chat Deimos` | (Kanal an Deimos wird geöffnet) |
  | `/clear` | Alle Nachrichten vom derzeitig ausgewählten Chat Tab werden entfernt. | `/clear` |  |
- | `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} (Die Chatkonsole wurde eingestellt: Ignoriere alle Nachrichten in öffentlichen Channeln von Deimos (`c`), alle Nachrichten von Deimos, die ein Highlight für dich auslösen (`h`), alle privaten Nachrichten von Deimos (`p`)) |
+ | `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} (Die Chatkonsole wurde eingestellt: Ignoriere alle Nachrichten in öffentlichen Channels von Deimos (`c`), alle Nachrichten von Deimos, die ein Highlight für dich auslösen (`h`), alle privaten Nachrichten von Deimos (`p`)) |
  | `/join [Channel]` oder `/j [Channel]` | Tritt einem bestimmten Channel bei. | `/join #german` | (Tab mit #german wird geöffnet) |
  | `/part` | Schließt den derzeitig ausgewählten Chat-Tab. | `/part` |  |
  | `/unignore [Benutzername]` | `[Benutzername]` wird nicht mehr ignoriert. | `/unignore Deimos` | You may now hear Deimos. (Die Chatkonsole zeigt nun alle zukünftigen Nachrichten von Deimos an)
