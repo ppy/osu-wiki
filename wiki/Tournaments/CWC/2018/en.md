@@ -96,6 +96,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Mappools
 
+### Group Stage
+
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](http://osu.ppy.sh/b/1439325&m=2)
   - [Ito Kanako - Uncontrollable \(Yumeno Himiko\) \[Rain\]](http://osu.ppy.sh/b/1183490&m=2)
