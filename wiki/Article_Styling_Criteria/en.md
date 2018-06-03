@@ -4,17 +4,17 @@
 
 The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
-All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu! wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
+All articles should try to aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give you feedback in your pull request(s) for blunders and/or suggestions. A good osu! wiki writer/editor will read these and either apply them or return feedback to help improve the overall quality of the osu! wiki to ensure an optimal experience for the reader.
 
 If you have any suggestions against or regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Repository directory
 
-The following standards apply only to files saved in the `wiki/` directory.
+The following repository directory standards apply only to files saved in the `wiki` directory.
 
 ### Article caching
 
-Articles in the osu! wiki are cached for up to five hours before they are fetched again from GitHub. Purging an article from the cache is possible, but is limited to a few osu! team members.
+Articles in the osu! wiki are cached for up to five hours before they are fetched again from GitHub. Purging an article from the cache is possible, but is limited to a few osu! team members and is normally not needed.
 
 #### Image caching
 
@@ -48,14 +48,19 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `zh.md` | Chinese (Simplified) | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
-Keep in mind, it is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
+*Notice: It is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available).*
 
-- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article.
-- Help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web) (this is the permanent solution). If you need help translating the website, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
+If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can talk about it in the `#osu-web` [osu!dev Discord channel](https://discord.gg/ppy).
 
-#### Outdated articles
+#### Metadata
 
-If you are updating an English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup for this is as follows:
+*Notice: Metadata must be placed at the very top of the file; otherwise, it will be parsed as plain text.*
+
+##### Outdated articles
+
+*Note: Translators, when you update your language's version of an article, never set the boolean to `false`, just delete the markup as it appears above.*
+
+Never delete translated articles, regardless if the content is outdated or is malformed. Instead, use the `outdated` mark. The markup for this is as follows:
 
 ```
 ---
@@ -63,13 +68,11 @@ outdated: true
 ---
 ```
 
-This is to be placed at the very top of the translation files to flag them as being outdated.
+##### Tagging articles
 
-*Note for translators: When you have updated your language's version of said article, do not change the boolean to `false`, but instead omit the `outdated` mark (as it appears above).*
+*Note: You should only need to include words that are not found in the article.*
 
-#### Tagging articles
-
-Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup is as follows:
+Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup it is as follows:
 
 ```
 ---
@@ -80,11 +83,9 @@ tags:
 ---
 ```
 
-You should only need to include words that are not found in the article.
+##### Outdated and tagged articles
 
-#### Outdated and tagged articles
-
-*Note for translators: Do delete the `outdated` mark, but do not delete the tags.*
+*Note: Translators, do not delete the `outdated` mark, but do not delete the tags.*
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
@@ -99,13 +100,15 @@ tags:
 
 ### Folder names
 
-Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
+Folder names must never contain URL reserved characters. Generally, all folder names must use these characters:
 
 - A - Z (uppercase letters)
 - a - z (lowercase letters)
 - 0 - 9 (numbers)
 - `_` (underscore)
 - `!` (exclamation mark)
+
+*Notice: Spaces must be changed to underscores.*
 
 #### Percent encoding characters
 
@@ -116,11 +119,11 @@ Folder names should not use characters that require percent encoding. Those char
 
 ### Article file names
 
-The name of an article file can be found in the `File Name` column of [locales](#locales). The location of a translation is to be placed in the appropriate English-named folder.
+The name of an article file can be found in the `File Name` column of the [locales section](#locales). The location of a translation is to be placed in the appropriate English-named folder.
 
 ### Index articles
 
-All folders must contain a page of some kind, even if they are index articles that link to their subfolders. Index articles must link to their own subfolders and could contain descriptions of what each link links to.
+All folders should contain an article of some kind. If it seems impractical to create an article for a folder that holds other articles, create an index article instead. Index articles list off articles that are inside its own folder and could contain a description for each link.
 
 ### Disambiguation articles
 
@@ -128,42 +131,46 @@ All folders must contain a page of some kind, even if they are index articles th
 
 ## Markdown
 
-These rules are to be followed for all articles.
+All wiki articles must adhere to the following rules.
 
-### GFM
+### GitHub Flavored Markdown
 
 Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki. GFM has a small amount of markup that anyone can learn in about 3 minutes. However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
 #### HTML
 
+<!-- ppy ruled HTML is not allowed. from:ppy#0001 during:2017-06-26 in:osu-wiki markdown -->
+
 **HTML use is prohibited!** If you need to use any HTML for any reason, you must reconsider the layout you are using.
 
 ##### HTML entities
 
-*For more information about HTML entities, see [Entity - Glossary (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Entity)*
+*For more information about HTML entities, see: [Entity - Glossary (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Entity)*
 
 HTML character entites should almost never be used. If used however, prefer the character over the entity. For example:
 
 ```
-Do not: the bestest free-to-win rhythm game&trade;
-Do not: the bestest free-to-win rhythm game&#153;
-Do not: the bestest free-to-win rhythm game&#x99;
+Do not: all this with more transparency&trade; than ever before!
+Do not: all this with more transparency&#153; than ever before!
+Do not: all this with more transparency&#x99; than ever before!
 
-Do:    the bestest free-to-win rhythm game™
+Do:     all this with more transparency™ than ever before!
 ```
 
 ### Raw text editing
 
-While editing, sentences are to be in a paragraph form, not in single lines. For example:
+#### Escaping
+
+*Note: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
+
+Any Markdown syntax that is not used to format text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
 
 ```
-Do not:
-osu!lazer is a development build that you can download.
-It will one day be the successor of the previous osu! client.
-Please, **do not send the development team any issues you are facing,** as things are still subject to change.
+The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
+```
 
-Do:
-osu!lazer is a development build that you can download. It will one day be the successor of the previous osu! client. Please, **do not send the development team any issues you are facing,** as things are still subject to change.
+The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
+
 ```
 
 #### Escaping
@@ -190,7 +197,7 @@ Inserting two trailing spaces at the very end of a line is parsed as a line brea
 
 ### Hatnotes
 
-Hatnotes are short notes placed at the top of an article that help readers navigate to related articles. Hatnotes must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
+Hatnotes are short notes placed at the top of an article or underneath a section to help readers navigate to related articles or inform them about certain topics. Hatnotes (unless stated otherwise) must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
 
 #### Main page
 
@@ -240,7 +247,7 @@ Note is something that the reader should be made aware about, but only applies a
 
 *Note: Misuse of emphasis will reduce its effectiveness.*
 
-When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
+When trying to emphasize words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasize. For example:
 
 ```
 Do not:
@@ -256,45 +263,52 @@ Use bold when you need to caution or note something's importance. When bolding, 
 
 #### Italics
 
-Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this.  Prefer single asterisks (`*`) over single underscores (`_`).
+Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this. Prefer single asterisks (`*`) over single underscores (`_`).
 
-### Headers
+### Headings
 
-Please limit to a header level of 5 and never use headers to style or format text. If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
+Limit to a heading level of 5 and never use headings to style or format text. Prefer the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) over the [Setext (underline) style](https://github.github.com/gfm/#setext-headings).
 
-Optionally, but preferably, add an extra line before and after the headers (this applies for both underline and hash styles). Doing so will help make the headers stand out a bit more when editing.
+Optionally, add an extra line before and after the heading to help make the heading stand out while editing.
 
 #### Titles
 
-**All articles must have one level 1 heading, being the article's title.** Article titles must use title case and **should never contain styles, links, nor images.** The title of an article is the name of the folder that the article is located in.
+All articles must have one level 1 heading, being the article's title. Article titles must use title case and never contain formatting, links, nor images. The title of an article is the name of the folder that the article is located in.
 
 The level 1 heading should be placed at the start of the article unless you have reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
 
-For English article titles, if you need to reword the title, you must rename the folder to match the article title. There are certain exceptions to this, however.
+For English article titles, if you need to reword the title, you must rename the folder to match the article title. There are rare exceptions to this however.
 
 #### Sections
 
-All section headings are to be using levels 2 to 5 headings.
+All section headings are to be using levels 2 to 5. Section headings are to use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
-Section headings are to use sentence case and **should never contain styles nor links**. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading.
-
-Unlike titles, section headings can have small image icons.
+In the osu! wiki, heading levels 4 and 5 are hidden in the table of contents.
 
 ### Lists
 
-There are two kinds of lists: bulleted and numbered. The spacing for both types of bullets is very important! Please limit to 4 indentations/sub-bullets.
+There are two kinds of lists: bulleted and numbered. The spacing for both types of bullets is very important! Limit to 4 indentations/sub-bullets.
 
 #### Bulleted
 
-Use bulleted lists when the order of the list does not matter. It is preferred to use the hyphen (`-`) or plus symbol (`+`) instead of the asterisk (`*`) because the single asterisk is already used for italics.
+Use bulleted lists when the order of the list does not matter. It is preferred to use the hyphen (`-`) or the plus symbol (`+`) instead of the asterisk (`*`) because the single asterisk is already used for italics.
 
 #### Numbered
 
-Use numbered lists when the order of the list does matter. Incrementing the numbers is optional.
+Use numbered lists when the order of the list does matter. Do not increment the numbers. For example:
+
+```
+Game modes of osu! (in order of implementation):
+
+1. osu!standard
+1. osu!taiko
+1. osu!catch
+1. osu!mania
+```
 
 #### Mixed
 
-You can also combine both bulleted and numbered lists.
+You could combine both bulleted and numbered lists, but this should be done sparingly.
 
 ### Code
 
@@ -343,7 +357,7 @@ Do not: https://osu.ppy.sh/home
 Do not: <https://osu.ppy.sh/home>
 Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
-Do:    [osu! on the web](https://osu.ppy.sh/home)
+Do:     [osu! on the web](https://osu.ppy.sh/home)
 ```
 
 #### Internal
@@ -378,7 +392,7 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent. However, if it is impossible or is hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
 
-When linking to a user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+When linking to a user profile, you must use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
 ```
 Do not:
@@ -403,8 +417,8 @@ Whenever possible, with exception, use the current user's name rather than their
 To get a user's id:
 
 1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
-2. Press `Enter`
-3. Once the page loads, the website will convert the username to an id
+1. Press `Enter`
+1. Once the page loads, the website will convert the username to an id
 
 ##### Beatmaps
 
@@ -416,7 +430,7 @@ Whenever linking to a beatmap, use this format as the link text:
 
 When linking to a beatmap, make sure that the link actually links to that difficulty. All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/beatmaps/{BeatmapID}`.
 
-The difficulty name can be left outside of the link text, but must be consistent.
+The difficulty name can be left outside of the link text, but doing so must be consistent throughout the entire article.
 
 ##### Beatmapsets
 
@@ -430,31 +444,39 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 #### External
 
-Prefer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
+*Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
+Prefer the `https` protocol and **never use protocol relative links (e.g. `//example.com`).** External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
+
+There are no visual differences between external and osu! web links. Due to this, you may want to include the website name after the title in the link text. For example:
+
+```
+*For more information about music theory, see [Music theory (Wikipedia)](https://en.wikipedia.org/wiki/Music_theory)*
+```
 
 ### Images
 
-The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark (`!`), the link text is now the "alt" text, and there is a third argument for the title text. Like the [links](#links), you can use either reference or inline style when linking to images.
+The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark (`!`), the link text is now the alternate text, and there is a third argument for the title text (also known as hover text). Like the [links](#links), you can use either reference or inline style when linking to images.
 
 ---
 
-It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
+When adding images, create a folder named `img` in the article's folder.
+
+Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 
 #### Formats and quality
 
-Images used in the osu! wiki must be in JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or needs to have its text be readable, use the PNG format instead. The `.gif` format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
+Images used in the osu! wiki must be in JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. The GIF format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
 
 ##### File size
 
-Images must be under 2 megabytes or they will fail to load, downscaling and using JPG at 80% is almost always under the size limit.
+Images must be under 2 megabytes, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
 
 #### File names
 
 *Notice: All image file extensions must use lowercase letters, otherwise they will fail to load!*
 
-Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive. Never use timestamps or long hashes for the file name.
+Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive but short. Never use timestamps or long hashes for the file name.
 
 #### Image behaviour
 
@@ -468,29 +490,31 @@ Installing osu! is easy. First, download the installer from the download page.
 Then locate the installer and run it.
 ```
 
-There is no way to "float" an image or have text wrap around an image. If the image is inline with the raw text, the image is parsed inline with the text.
+There is no way to float an image or have text wrap around an image. If the image is inline with the raw text, the image is parsed inline with the text.
 
 #### Alternate and title text
 
-All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text (otherwise known as "hover text") is **optional** and it could be the same as the alt text if needed.
+All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text (also known as hover text) is optional and it could be the same as the alt text if needed.
 
 #### Captions
 
 Images are automatically given captions if they fulfill these rules:
 
-- The image is by itself.
-- The image is not inside a heading.
-- The image has title text.
+1. The image is by itself.
+1. The image is not inside a heading.
+1. The image has title text.
 
-The syntax for captions are the same as normal Markdown images, just add title text. Image captions must be plain text and never contain style or link markup. Images with captions are also centred automatically on the website.
+Captions are assumed via the title text. Image captions must be plain text and never contain formattnig nor link markup. Images with captions are also centred with the image on the website.
 
 #### Max image width
 
-The osu! wiki will give every image a max-width, being the width of the article body (680px). This means when an image's width is more than 680px, you should consider downscaling it to 680px to ensure that we do not waste digital space.
+The osu! wiki will give every image a max-width, being the width of the article body (680 pixels). This means when an image's width is more than 680 pixels, you should consider downscaling it to 680 pixels to limit wasted digital space.
 
 #### Annotating images
 
-When annotating images, use the _Exo 2 light_ font. For Chinese, Korean, Japanese characters, use the _Microsoft YaHei_.
+When annotating images, use the *Exo 2 light* font. For Chinese, Korean, Japanese characters, use the *Microsoft YaHei*.
+
+Try to limit writting text in images, as it is difficult for translators (and other editors besides you) to edit them.
 
 ##### Translating annotated images
 
@@ -502,11 +526,11 @@ When translating annotated images, the localized image version must be placed in
 
 #### Screenshots of gameplay
 
-All screenshots of gameplay must be done in the stable build (not to be confused with the _stable (fallback)_ build), unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
+All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
 
 ##### osu! client settings
 
-Note: If you do not want to change your current settings for the osu! wiki, you can install a separate installation of osu! in another directory!
+*Note: If you do not want to change your current settings for the osu! wiki, you can install a separate installation of osu! in another directory.*
 
 You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
 
@@ -540,20 +564,20 @@ Flag icons next to userlinks must be separate from the username. For example:
 ```
 Do not: [![][flag_AU] peppy](/users/2)
 
-Do:    ![][flag_AU] [peppy](/users/2)
+Do:     ![][flag_AU] [peppy](/users/2)
 ```
 
 #### Flag icons
 
-*For a list of flag icons, see [issue \#328](https://github.com/ppy/osu-wiki/issues/328).*
+*For a list of flag icons, see: [issue \#328 (GitHub)](https://github.com/ppy/osu-wiki/issues/328).*
 
-All of these icons uses the two letter code (all capital letters) and ends with the GIF extension. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+All of the flag icons use the two letter code (in all capital letters) and ends with the GIF extension. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
 
 ```
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-`xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+`xx` is the [ISO 3166-2 (Wikipedia)](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 Adding the full country names in the alt text is optional.
 
@@ -591,15 +615,15 @@ Usage of blockquotes is limited to quoting text from someone. It must not be use
 Use horizontal bars sparingly. A few uses of the horizontal bar may include (but is not limited to):
 
 - separating images from text
-- marking the end of a "section" within the same section
+- marking the end of a part of text within the same section
 
-When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, the website will think the text above is a heading level 2.
+When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, it will be parsed as a level 2 heading.
 
 ## Grammar
 
 All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
 
-All English articles and locales without an ASC are to follow the following rules.
+All English articles must follow the following rules.
 
 ### British English
 
@@ -614,21 +638,23 @@ For example use:
 
 ### osu!
 
-The name of the game, osu!, is **never capitalised nor italicised**. The osu! official branding are to not use any spaces. Examples include:
+The name of the game, osu!, is never capitalised nor italicised. The osu! official branding are to not use any spaces. Examples include:
 
 - `osu!academy`
 - `osu!api`
 - `osu!catch`
 - `osu!direct`
+- `osu!keyboard`
 - `osu!mania`
 - `osu!store`
 - `osu!stream`
 - `osu!supporter`
+- `osu!tablet`
 - `osu!taiko`
 - `osu!talk`
 - `osu!tourney`
 
-Other brandings that are not covered by the osu! official branding must use spaces. Examples may include:
+Other brandings that are not covered by the osu! official branding must use spaces. Examples include:
 
 - `osu! tournaments`
 - `osu! alumni`
@@ -641,9 +667,11 @@ Other brandings that are not covered by the osu! official branding must use spac
 
 #### Article names
 
-When writing about a topic that has an article, **never capitalise it unless it is a link** (with exceptions, e.g. BanchoBot). For example:
+When writing about a topic that has an article, never capitalise it unless it is a link (with exceptions, e.g. BanchoBot). For example:
 
-- `The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.`
+```
+The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
+```
 
 #### Game modifiers
 
@@ -679,13 +707,20 @@ Tournament articles are an exception to this and can use camel case (omit the sp
 
 #### Gameplay elements
 
-Gameplay elements are never capitalised. For example:
+Gameplay elements are never capitalised, unless it is a [name of an article](#article-names). For example:
 
-- In osu!standard, beatmaps are composed of three different gameplay elements: **hit circles**, **sliders**, and **spinners**.
+```
+In osu!standard, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
+```
 
 #### Language names
 
-When referring to the name of a language, capitalise the first letter of that language.
+Language names must be first-letter capitalised. For example:
+
+```
+The `#spanish` chat channel are for those who speak Spanish.
+```
+
 
 - The `#spanish` chat channel are for those who speak **Spanish**.
 - The `#french` chat channel are for those who speak **French**.
@@ -699,7 +734,7 @@ When writing the name of the game modes, they are to be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-*Note: To maintain consistency, never use `osu!` to refer to the game mode `osu!standard`. However, folder names must use `osu!`, not `osu!standard`, when referring to the game mode.*
+*Notice: To maintain consistency, use `osu!standard` when referring to the game mode. However, folder names must use `osu!` (not `osu!standard`) when referring to the game mode.*
 
 You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
@@ -735,7 +770,7 @@ When using abbreviations, acronyms, and/or initialisms, it is important to note 
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-All abbreviations, acronyms, and/or initialisms **must be capitalised**. For example:
+All abbreviations, acronyms, and/or initialisms must be capitalised. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -744,11 +779,17 @@ All abbreviations, acronyms, and/or initialisms **must be capitalised**. For exa
 
 ---
 
-Use `e.g.` when initialising "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another initialism for "for example" (it is the initialism for "exercise").
+Use `e.g.` when initialising "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another initialism for "for example", it is the initialism for "exercise".
 
 ---
 
-Do not pluralize abbreviations, acronyms, nor initialisms (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`).
+Avoid pluralizing abbreviations, acronyms, and/or initialisms. If needed, reword the sentence. For example:
+
+```
+Do not: BNs can nominate your beatmapset.
+
+Do:     Members of the Beatmap Nominators can nominate your beatmapset.
+```
 
 ### Date formatting
 
@@ -779,17 +820,19 @@ When listing a start and an end date, list the start date first, followed by a f
 
 When a list consists of 3 or more items in a sentence, use the serial comma. For example:
 
-- The game modes of osu!: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
+```
+The game modes of osu!: osu!standard, osu!taiko, osu!catch, and osu!mania are fun to play with others.
+```
 
 Keep in mind that there are some exceptions to not using the serial comma.
 
 ### Contractions
 
-<!-- Shiro ruled that they are not allowed. -->
+<!-- Shiro ruled that contractions are not allowed. from:Anshee#1584 during:2018-05-28 in:osu-wiki -->
 
-Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are not allowed. This is to keep a formal tone in the osu! wiki. For example, use:
+Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are not allowed. For example, use:
 
-- `Do not` instead of `Do not`
+- `Do not` instead of `Don't`
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
@@ -797,8 +840,6 @@ Contractions are a shortened form of a word or group of words. In the osu! wiki,
 
 ### Point of view
 
-When referring to the player, use `the player` or `a player`. **Never use `he`/`his` or `she`/`her`,** but use `they`/`their`/`theirs` instead.
+When referring to the player, use `the player` or `a player`. Never use `he`/`his` or `she`/`her`, but use `they`/`their`/`theirs` instead.
 
-Articles that talk directly to the reader may use the word `you`.
-
-Never use the first person perspective (`I`) in any page, even if they are ported guides that had once used first person.
+Articles that talk directly to the reader may use the word `you`. Never use the first person perspective (`I`) in any page, even if they are ported guides that had once used first person. Avoid using `we`.
