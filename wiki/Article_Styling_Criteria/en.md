@@ -600,28 +600,31 @@ Adding the full country names in the alt text is optional.
 
 ### Tables
 
-Tables use the GFM syntax. Tables in the osu! wiki support headings along the first row.
+Tables in the osu! wiki support headings along the first row. If you cannot create a table because something would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
 
-If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
+Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the tect of each cell must be padded with one space on both sides.
+
+The delimter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
+
+- `---` (for left align)
+- `:--` (for left align)
+- `:-:` (for centre align)
+- `--:` (for right align)
+
+The left align delimter must be done consistently throughout the entire article.
 
 ---
 
-Here is a tool to help visualize tables:
+For example:
 
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
-
-#### Beautifying tables
-
-It is up to you whether or not if you want to beautify the tables.
-
-They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess. Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
-
-Some tools for beautifying tables are:
-
-- VS Code's Native Beautifier
-  - this will require you to use [VS Code](https://code.visualstudio.com/)
-- [Markdown Table Formatter](http://markdowntable.com/)
-  - alignment syntax (`:`) will not parse correctly
+```
+| Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
+| :-- | :-: | --: | :-- |
+| **peppy** | 5 - 2 | pippi | 9.3 stars |
+| Aiko | 1 - 6 | **Alisa** | 4.2 stars |
+| Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
+| **Taikonator** | 7 - 0 | Tama | 14.7 stars |
+```
 
 ### Blockquotes
 
