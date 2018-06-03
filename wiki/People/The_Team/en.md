@@ -30,7 +30,7 @@ Active
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/Announcements/osu!academy) professor |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/osu!academy) professor |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
@@ -58,7 +58,7 @@ Inactive
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork design, [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community management and leadership, Meeting minutes, FAQ contributions |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Announcements/osu!academy) professor, Media/character design |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, Media/character design |
 
 User Groups
 ----------------------
