@@ -218,7 +218,7 @@ Hatnotes are short notes placed at the top of an article or underneath a section
 
 #### Main page
 
-Main page hatnotes directs a reader to an article with more information. These should be placed after a heading, but before the summary. For example:
+Main page hatnotes directs a reader to an article with more information. These should be placed after a heading, but before the summary. They must start with the words `Main page` followed by a colon (`:`). For example:
 
 ```
 ## Modding
@@ -230,7 +230,7 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 #### See also
 
-See also hatnotes are used to suggest a reader other points of interest from a given article. For example:
+See also hatnotes are used to suggest a reader other points of interest from a given article. They must start with the words `See also` followed by a colon (`:`). For example:
 
 ```
 ## Beatmapping
@@ -242,7 +242,7 @@ Beatmapping is the process of a creator creating a beatmap. This process include
 
 #### For see
 
-For see hatnotes are similar to see also, but may help reduce ambiguation and usually are more descriptive. For example:
+For see hatnotes are similar to see also, but may help reduce ambiguation and are generally more descriptive. They must start with the word `For` followed by the description, a comma, `see`, then a colon (`:`). For example:
 
 ```
 # Installation
@@ -252,7 +252,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and us
 
 #### Notice
 
-A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentenes, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
+A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
 
 ```
 *Note: You will need a decent internet connection to connect to Bancho and submit scores.*
