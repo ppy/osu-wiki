@@ -868,6 +868,37 @@ When listing a start and an end date, list the start date first, followed by a f
 - `March 2, 2011 until April 30, 2012` must be `2011-03-02/2012-04-30`
 - `December 1, 2017 to January 1, 2018` must be `2017-12-01/2018-01-01`
 
+### Time formatting
+
+Time formatting is done using the following format:
+
+```
+HH:MM TIMEZONE
+```
+
+Time is written in 24-hour format and any single digits must be prefixed with a zero. A timezone must be written immediately after the time and should almost always be in UTC+0. Use `UTC` instead of `GMT`. For example:
+
+```
+Do not: 9:50 PM UTC
+Do not: 13:57 (UTC)
+Do not: 15:30
+Do not: 9:14
+
+Do:     15:23 UTC
+Do:     08:45 UTC+0
+Do:     07:15 UTC-4
+```
+
+`UTC` (without an offset) is implied to be `UTC+0`. You may use either one but when writing out `UTC+0`, you must use a plus symbol (`+`), not a hyphen (`-`).
+
+### Date and time formatting
+
+When both date and time are used together, the date is written first followed by the time. The time must be in between round brackets (`(` and `)`). For example:
+
+```
+2018-04-01 (13:26 UTC)
+```
+
 ### Serial comma
 
 *Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
