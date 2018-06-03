@@ -741,9 +741,29 @@ Language names must be first-letter capitalised. For example:
 The `#spanish` chat channel are for those who speak Spanish.
 ```
 
+#### Proper nouns
 
-- The `#spanish` chat channel are for those who speak **Spanish**.
-- The `#french` chat channel are for those who speak **French**.
+Proper nouns must almost always be first-letter capitalised. For example:
+
+```
+Dean Herbert (also known as peppy) created osu!
+```
+
+#### Trademarks
+
+The following trademarks must be spelt as follows (note the letter casing):
+
+- `Discord`
+- `Facebook`
+- `GitHub`
+- `Google`
+- `Reddit`
+- `Skype`
+- `Twitter`
+- `Twitch`
+- `YouTube`
+
+Never use the trademark nor registered trademark symbols with trademarks.
 
 ### Game modes
 
