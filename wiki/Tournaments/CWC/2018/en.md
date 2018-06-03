@@ -132,6 +132,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | France             | ![][flag_FR] | ![][flag_TW] | Taiwan             | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Singapore          | ![][flag_SG] | ![][flag_HK] | Hong Kong          | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
 | Malaysia           | ![][flag_MY] | ![][flag_IT] | Italy              | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
@@ -143,7 +145,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Vietnam            | ![][flag_VN] | ![][flag_HK] | Hong Kong          | **15:00 UTC** | 22:00 UTC+07 | 23:00 UTC+08 |
 | Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway             | **15:00 UTC** | 20:00 UTC+05 | 17:00 UTC+02 |
 | Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **15:00 UTC** | 17:00 UTC+02 | 22:00 UTC+07 |
-| Thailand           | ![][flag_TH] | ![][flag_ID] | Indonesia          | **15:00 UTC** | 22:00 UTC+07 | 22:00 UTC+07 |
 | Hungary            | ![][flag_HU] | ![][flag_FR] | France             | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | Colombia           | ![][flag_CO] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 12:00 UTC-05 | 22:00 UTC+05 |
 | Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
@@ -168,14 +169,13 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Japan              | ![][flag_JP] | ![][flag_CN] | China              | **11:00 UTC** | 20:00 UTC+09       | 19:00 UTC+08       |
 | Austria            | ![][flag_AT] | ![][flag_PH] | Philippines        | **11:00 UTC** | 13:00 UTC+02       | 19:00 UTC+08       |
 | Sweden             | ![][flag_SE] | ![][flag_AU] | Australia          | **12:00 UTC** | 14:00 UTC+02       | 22:00 UTC+10       |
-| Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02       | 21:00 UTC+09       |
-| Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08       | 20:00 UTC+08       |
 | Malaysia           | ![][flag_MY] | ![][flag_KR] | South Korea        | **12:00 UTC** | 20:00 UTC+08       | 21:00 UTC+09       |
 | Austria            | ![][flag_AT] | ![][flag_CN] | China              | **13:00 UTC** | 15:00 UTC+02       | 21:00 UTC+08       |
 | Malaysia           | ![][flag_MY] | ![][flag_PL] | Poland             | **13:00 UTC** | 21:00 UTC+08       | 15:00 UTC+02       |
 | Italy              | ![][flag_IT] | ![][flag_KR] | South Korea        | **13:00 UTC** | 15:00 UTC+02       | 22:00 UTC+09       |
 | Finland            | ![][flag_FI] | ![][flag_ID] | Indonesia          | **14:00 UTC** | 17:00 UTC+03       | 21:00 UTC+07       |
 | Portugal           | ![][flag_PT] | ![][flag_NL] | Netherlands        | **14:00 UTC** | 15:00 UTC+01       | 16:00 UTC+02       |
+| Thailand           | ![][flag_TH] | ![][flag_ID] | Indonesia          | **14:00 UTC** | 21:00 UTC+07        | 21:00 UTC+07      |
 | Brazil             | ![][flag_BR] | ![][flag_SE] | Sweden             | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
 | Portugal           | ![][flag_PT] | ![][flag_US] | United States      | **17:00 UTC** | 18:00 UTC+01       | 10:00 UTC-07       |
 | Argentina          | ![][flag_AR] | ![][flag_NL] | Netherlands        | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
