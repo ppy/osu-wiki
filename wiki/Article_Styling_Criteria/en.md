@@ -171,29 +171,46 @@ The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507).
 
 The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
 
-```
-
-#### Escaping
-
-Any Markdown syntax that is not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
-
-```
-The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
-```
-
-The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
-
-The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.
-
 #### Empty lines
 
-An empty line between two bodies of text is parsed as two separate paragraphs. Adding more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line.
+An empty line between two lines of text is parsed as two separate paragraphs. For example:
 
-If an empty line is not present between two lines, the two paragraphs will merge into one. Doing this is not allowed in the osu! wiki.
+```
+Skinning allows anyone to change the way osu! looks and feels.
+
+This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+---
+
+If you added more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line. For example:
+
+```
+Skinning allows anyone to change the way osu! looks and feels.
+
+
+
+This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+Using multiple empty lines is now allowed in the osu! wiki, as it is parsed as if it were a single empty space.
+
+---
+
+<!-- ppy ruled non-separated paragraphs are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
+
+If an empty line is not present between two lines, the two lines will merge into one. For example:
+
+```
+Skinning allows anyone to change the way osu! looks and feels.
+This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+Not using an empty line between two lines with text is not allowed in the osu! wiki.
 
 #### Whitespace
 
-Inserting two trailing spaces at the very end of a line is parsed as a line break. Line breaks are not allowed in the osu! wiki.
+Appending two trailing spaces at the end of a line is parsed as a line break. (Where this is done, the paragraph will break into a separate line but be part of the same paragraph.) Line breaks are not allowed in the osu! wiki.
 
 ### Hatnotes
 
