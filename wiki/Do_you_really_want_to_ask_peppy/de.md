@@ -4,7 +4,7 @@ Hallo. Ich, [peppy](/users/2), verstehe deinen Drang mich persönlich zu kontakt
 
 ## Technischer Support
 
-Die meisten der technischen Probleme können durch das Suchen oder Posten im [Tech Support-Forum](/community/forums/5) gelöst werden. Dort gibt es einige bereitschaftige Leute, die dir helfen würden - was natürlich schneller wäre als mich direkt zu kontaktieren.
+Die meisten der technischen Probleme können durch das Suchen oder Posten im [Tech-Support-Forum](/community/forums/5) gelöst werden. Dort gibt es einige bereitschaftige Leute, die dir helfen würden - was natürlich schneller wäre als mich direkt zu kontaktieren.
 
 ## Allgemeiner osu! Support
 
@@ -12,4 +12,4 @@ Bei Accountproblemen, Bezahlungen, Sperrfristen, Anfragen zu Turnieren **und all
 
 ## peppy kontaktieren
 
-Wenn du dennoch peppy aus anderen Gründen kontaktieren willst, die nichts mit osu! am Hut haben, kannst du immer noch eine E-Mail an [pe@ppy.sh](mailto:pe@ppy.sh) senden. Bitte beachte, dass bei dieser E-Mail-Adresse alle zugesendeten Support- oder Kontoabfragen-Mails direkt als Spam markiert werden.
+Wenn du mich dennoch aus anderen Gründen kontaktieren willst, die nichts mit osu! am Hut haben, kannst du immer noch eine E-Mail an [pe@ppy.sh](mailto:pe@ppy.sh) senden. Bitte beachte, dass bei dieser E-Mail-Adresse alle zugesendeten Support- oder Kontoabfragen-Mails direkt als Spam markiert werden.
