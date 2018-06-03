@@ -683,6 +683,20 @@ Other brandings that are not covered by the osu! official branding must use spac
 - `osu! client`
 - `osu! wiki`
 
+---
+
+<!-- Ephemeral ruled to use a full stop. during:2018-05-30 from:ephemeralis#0001 in:osu-wiki -->
+
+Try to avoid letting the word `osu!` end the sentence. If you are unable to rewrite it, then use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`). For example:
+
+```
+Avoid: peppy created osu!.
+
+Do:    osu! was created by peppy.
+```
+
+Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (never use `osu!!`). You will need to restructure the sentence or the pargraph to ensure that this will never occur.
+
 ### Capitalisation
 
 #### Article names
