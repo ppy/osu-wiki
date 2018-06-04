@@ -141,18 +141,18 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Denmark            | ![][flag_DK] | ![][flag_ID] | Indonesia          | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
 | Hungary            | ![][flag_HU] | ![][flag_TW] | Taiwan             | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
 | Singapore          | ![][flag_SG] | ![][flag_VN] | Vietnam            | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 |
-| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile              | **14:00 UTC** | 19:00 UTC+05 | 11:00 UTC-03 |
+| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile              | **14:00 UTC** | 19:00 UTC+05 | 10:00 UTC-04 |
 | Thailand           | ![][flag_TH] | ![][flag_FI] | Finland            | **14:00 UTC** | 21:00 UTC+07 | 17:00 UTC+03 |
 | Vietnam            | ![][flag_VN] | ![][flag_HK] | Hong Kong          | **15:00 UTC** | 22:00 UTC+07 | 23:00 UTC+08 |
 | Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway             | **15:00 UTC** | 20:00 UTC+05 | 17:00 UTC+02 |
 | Hungary            | ![][flag_HU] | ![][flag_FR] | France             | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | Colombia           | ![][flag_CO] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 12:00 UTC-05 | 22:00 UTC+05 |
-| Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
+| Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 | Canada             | ![][flag_CA] | ![][flag_FR] | France             | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
 | Argentina          | ![][flag_AR] | ![][flag_US] | United States      | **18:00 UTC** | 15:00 UTC-03 | 11:00 UTC-07 |
 | Denmark            | ![][flag_DK] | ![][flag_FI] | Finland            | **18:00 UTC** | 20:00 UTC+02 | 21:00 UTC+03 |
 | Hungary            | ![][flag_HU] | ![][flag_CA] | Canada             | **19:00 UTC** | 21:00 UTC+02 | 15:00 UTC-04 |
-| Colombia           | ![][flag_CO] | ![][flag_CL] | Chile              | **19:00 UTC** | 14:00 UTC-05 | 16:00 UTC-03 |
+| Colombia           | ![][flag_CO] | ![][flag_CL] | Chile              | **19:00 UTC** | 14:00 UTC-05 | 15:00 UTC-04 |
 
 ### Sunday, 10. June 2018
 
