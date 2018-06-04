@@ -58,8 +58,8 @@ User Groups
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Pengguna yang datang untuk memastikan beatmap anda memenuhi syarat |
 | [Developers](https://osu.ppy.sh/g/11) | Membuat game lebih memukau dan mengatasi bug |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang telah berkontribusi dan telah berhenti |
-| [Support Team Redux](/wiki/People/Support_Team) | Penangana Permintaan bantuan maupun saran |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu !, dimulai dengan memastikan kualitas beatmap. |
+| [Support Team Redux](/wiki/People/Support_Team) | Penanganan Permintaan bantuan maupun saran |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, dimulai dengan memastikan kualitas beatmap. |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
