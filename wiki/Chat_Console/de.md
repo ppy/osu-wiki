@@ -1,6 +1,6 @@
 # Chatkonsole
 
-Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) aktiviert werden.
+Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) geöffnet werden.
 
 ![Chatkonsole im Hauptmenü](Chatconsole1.png "Chatkonsole im Hauptmenü")
 
@@ -24,13 +24,13 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 
 ## Erweiterte Chatkonsole
 
-_Die [osu!academy](/wiki/osu!academy) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Multi) behandelt._
+_Die [osu!academy](/wiki/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Multi) behandelt._
 
 Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 
 ![Erweiterte Chatkonsole](Chat_Console-Extended.png "Erweiterte Chatkonsole")
 
-Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel in der erweiterten Chatkonsole. Standardmäßig werden im Panel folgende Informationen angezeigt: Name, Gesamtpunktzahl, Rang, allgemeine Accuracy, Play-Anzahl und der Avatar. Wenn der Mauszeiger über das Panel bewegt wird, werden andere Informationen anzeigt: Name, Rang, Avatar, lokale Uhrzeit, Zeitzone, Standort (Land) und, falls vom Nutzer zugelassen, die Stadt und momentane Aktivität.
+Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel in der erweiterten Chatkonsole. Standardmäßig werden je Spieler folgende Informationen angezeigt: Name, Gesamtpunktzahl, Rang, allgemeine Accuracy, Play-Anzahl und der Avatar. Wenn der Mauszeiger über das Panel bewegt wird, werden andere Informationen anzeigt: Name, Rang, Avatar, lokale Uhrzeit, Zeitzone, Standort (Land) und, falls vom Nutzer zugelassen, die Stadt und momentane Aktivität.
 
 Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Mausrad scrollen. Außerdem kann man das Fenster durch die verfügbaren Elemente anpassen:
 
@@ -39,7 +39,7 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
     - `Friends`: Nur deine Freunde werden angezeigt.
     - `Nearby`: Nur Spieler in deiner Nähe werden angezeigt.
     - `Country`: Alle Spieler aus deinem Land werden angezeigt.
-- Die `Lock Panels`-Checkbox erlaubt es, die Panels einzufrieren. Das Ein-/Ausloggen von Nutzern und das Umsortieren werden dann ignoriert.
+- Die `Lock Panels`-Checkbox erlaubt es, die Panels einzufrieren. Das Ein-/Ausloggen von Nutzern und das Umsortieren bzw. Filtern werden dann ignoriert.
 - Die Reihenfolge der Panels lässt sich durch die Tabs `Name`, `Rank`, `Location` und `Time Zone` regeln.
     - `Name`: Die Panels werden alphabetisch nach dem Namen des Spielers sortiert.
     - `Rank`: Die Ränge der Spieler bestimmen die Reihenfolge der Panels (bester Spieler an 1. Stelle).
@@ -65,15 +65,15 @@ Klicke auf ein Nutzerpanel, um zum Optionsmenü zu gelangen:
 
 ![Nutzerpaneleinstellungen](DE-Chat_Console-Userpaneloptions.jpg "Nutzerpaneleinstellungen")
 
-Klicke entweder auf die Leiste oder drücke die zugehörige Zahl um:
+Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie haben folgende Funktionen:
 
-1. `Zuschauen starten`: Schaue einem Spieler live beim Spielen zu. Die Benutzernamen der Zuschauer werden auf der Zuschauerliste aufgelistet.
+1. `Zuschauen starten`: Sieh jemandem live beim Spielen zu.
 2. `Profil anzeigen`: Öffne das Profil des Spielers im Browser.
 3. `Chat beginnen`: Öffne einen privaten Chatkanal mit dem Spieler.
 4. `Zum Spiel einladen`: Lade einen Spieler in deinen Mehrspielerraum ein.
 5. `Als Freund hinzufügen/Freund entfernen`: Füge einen Spieler zur Freundesliste hinzu oder entferne ihn von ihr.
-6. `Benutzer melden`: Melde den Spieler aufgrund von Regelbrüchen oder Fehlverhalten.
-7. `Benutzer ignorieren`: Mache alle Nachrichten des Nutzers bis zum nächsten Neustart des Spiels unsichtbar.
+6. `Benutzer melden`: Melde einen Spieler aufgrund von Regelbrüchen oder Fehlverhalten.
+7. `Benutzer ignorieren`: Mache alle Nachrichten eines Nutzers bis zum nächsten Neustart des Spiels unsichtbar.
 8. `Schließen`: Schließe das Menü.
 
 ## Liste an Chatbefehlen
@@ -84,22 +84,22 @@ Klicke entweder auf die Leiste oder drücke die zugehörige Zahl um:
  | --- | --- | --- | --- |
  | `/addfriend [Benutzername]` | `[Benutzername]` als Freund hinzufügen. | `/addfriend Deimos` | Deimos. |
  | `/delfriend [Benutzername]` | `[Benutzername]` als Freund entfernen. | `/delfriend Deimos` | Deimos. |
- | `/away [Nachricht]` | Legt eine "Away"-Nachricht fest, die automatisch auf Privatnachrichten geantwortet wird. Zum Entfernen [Nachricht] leer lassen. | `/away Nicht hier.` | You have been marked as being away: Nicht hier. Jeder, der dich nun privat anschreibt, erhält die Nachricht: BanchoBot: Nicht hier. |
+ | `/away [Nachricht]` | Legt eine "Away"-Nachricht fest, die automatisch auf Privatnachrichten geantwortet wird. Zum Entfernen [Nachricht] leer lassen. | `/away Nicht hier.` | You have been marked as being away: Nicht hier. [Jeder, der dich nun privat anschreibt, erhält die Nachricht: 'BanchoBot: Nicht hier.'] |
  | `/bb` | Sende eine Nachricht an BanchoBot, wie z. B. `rank [Zahl]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
- | `/chat [Benutzername]` | Öffnet eine Privatnachricht mit `[Benutzername]`. | `/chat Deimos` | (Kanal an Deimos wird geöffnet) |
+ | `/chat [Benutzername]` | Öffnet einen privaten Chatkanal mit `[Benutzername]`. | `/chat Deimos` | [Kanal mit Deimos wird geöffnet] |
  | `/clear` | Alle Nachrichten vom derzeitig ausgewählten Chat Tab werden entfernt. | `/clear` |  |
- | `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} (Die Chatkonsole wurde eingestellt: Ignoriere alle Nachrichten in öffentlichen Channels von Deimos (`c`), alle Nachrichten von Deimos, die ein Highlight für dich auslösen (`h`), alle privaten Nachrichten von Deimos (`p`)) |
- | `/join [Channel]` oder `/j [Channel]` | Tritt einem bestimmten Channel bei. | `/join #german` | (Tab mit #german wird geöffnet) |
+ | `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} [Ignoriere alle öffentlichen (`c`), alle privaten (`p`) Nachrichten und alle Highlights (`h`) von Deimos.] |
+ | `/join [Channel]` oder `/j [Channel]` | Tritt einem bestimmten Channel bei. | `/join #german` | [Tab mit #german wird geöffnet] |
  | `/part` | Schließt den derzeitig ausgewählten Chat-Tab. | `/part` |  |
  | `/unignore [Benutzername]` | `[Benutzername]` wird nicht mehr ignoriert. | `/unignore Deimos` | You may now hear Deimos. (Die Chatkonsole zeigt nun alle zukünftigen Nachrichten von Deimos an)
  | `/me [Aktion]` | Spreche in der dritten Person über dich selbst. | `/me ist soooooo schlecht.` | * Phobos ist soooooo schlecht.
- | `/msg [Benutzername] [Nachricht]` | Sende eine private Nachricht an `[Benutzername]`. | `/msg Deimos Ich bin sooooo schlecht.` | (Aus Deimos' Sichtweise) Phobos: Ich bin sooooo schlecht.
- | `/np` | Nennt das Lied, das du gerade hörst oder spielst. | `/np` | (Wenn du spielst) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/b/22538) |
- | `/reply` | Antwortet auf die zuletzt erhaltene Nachricht. | `/r Wie werde ich besser?` | (Aus Deimos' Sichtweise) Phobos: Mann, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
- | `/savelog` | Speichert den Verlauf des aktuellen Kanals in einer Textdatei ab. | `/savelog` | (Ein Ordner mit dem Namen "Chat" wird im osu!-Verzeichnis erstellt, welcher alle zukünftigen abgespeicherten Logs aufbewahrt.) |
- | `/watch [Benutzername]` | Beginnt `[Benutzername]` zuzusehen. | `/watch Deimos` | * Started spectating Deimos. (Wenn Deimos eine Beatmap spielt, die du auch hast, dann wirst du ihm nach etwas Buffering beim Spielen zusehen. Dein Name erscheint dann an der linken Seite.) |
- | `/nopm` | Schalter, um private Nachrichten von allen oder nur von Freunden zu bekommen. | `/nopm` | Eine Nachricht wird in der Mitte des Bildschirms erscheinen, was dir mitteilt, ob du nun private Nachrichten von allen oder nur von Freunden bekommst. |
- | `/invite [Benutzername]` | Ladet `[Benutzername]` zum Mutliplayer Lobby ein. | `/invite Deimos` | * Deimos has been invited to the game |
+ | `/msg [Benutzername] [Nachricht]` | Sende eine private Nachricht an `[Benutzername]`. | `/msg Deimos Ich bin sooooo schlecht.` | [Aus Deimos' Sichtweise] Phobos: Ich bin sooooo schlecht.
+ | `/np` | Nennt das Lied, das du gerade hörst oder spielst. | `/np` | [Wenn du spielst] * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/b/22538) |
+ | `/reply` | Antwortet auf die zuletzt erhaltene Nachricht. | `/r Wie werde ich besser?` | [Aus Deimos' Sichtweise] Phobos: Mann, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
+ | `/savelog` | Speichert den Verlauf des aktuellen Kanals in einer Textdatei ab. | `/savelog` | [Ein Ordner mit dem Namen "Chat" wird im osu!-Verzeichnis erstellt, welcher alle Logdateien aufbewahrt.] |
+ | `/watch [Benutzername]` | Schaut `[Benutzername]` zu. | `/watch Deimos` | * Started spectating Deimos. [Du schaust Deimos nun zu, sobald er eine Beatmap spielt.] |
+ | `/nopm` | Wechselt zwischen den Optionen, private Nachrichten von allen oder nur von Freunden zu empfangen. | `/nopm` | [Eine Nachricht in der Mitte des Fensters zeigt den aktuellen Status.] |
+ | `/invite [Benutzername]` | Lädt `[Benutzername]` zum Mehrspielerraum ein. | `/invite Deimos` | * Deimos has been invited to the game |
 
 ### /keys
 
