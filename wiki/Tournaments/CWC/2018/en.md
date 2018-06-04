@@ -133,6 +133,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **12:00 UTC** | 14:00 UTC+02 | 19:00 UTC+07 |
 | Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | France             | ![][flag_FR] | ![][flag_TW] | Taiwan             | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Singapore          | ![][flag_SG] | ![][flag_HK] | Hong Kong          | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
@@ -144,7 +145,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Thailand           | ![][flag_TH] | ![][flag_FI] | Finland            | **14:00 UTC** | 21:00 UTC+07 | 17:00 UTC+03 |
 | Vietnam            | ![][flag_VN] | ![][flag_HK] | Hong Kong          | **15:00 UTC** | 22:00 UTC+07 | 23:00 UTC+08 |
 | Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway             | **15:00 UTC** | 20:00 UTC+05 | 17:00 UTC+02 |
-| Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **15:00 UTC** | 17:00 UTC+02 | 22:00 UTC+07 |
 | Hungary            | ![][flag_HU] | ![][flag_FR] | France             | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | Colombia           | ![][flag_CO] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 12:00 UTC-05 | 22:00 UTC+05 |
 | Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
