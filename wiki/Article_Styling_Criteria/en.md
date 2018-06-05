@@ -6,7 +6,7 @@ The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling st
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give you feedback in your pull request(s) for blunders and/or suggestions. A good osu! wiki writer/editor will read these and either apply them or return feedback to help improve the overall quality of the osu! wiki to ensure an optimal experience for the reader.
 
-If you have any suggestions against or regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
+If you have any suggestions regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Repository directory
 
@@ -50,7 +50,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 
 *Notice: It is intended that the osu! wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available).*
 
-If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can talk about it in the `#osu-web` [osu!dev Discord channel](https://discord.gg/ppy).
+If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can talk about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
 #### Metadata
 
@@ -58,7 +58,7 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 ##### Outdated articles
 
-*Note: Translators, when you update your language's version of an article, never set the boolean to `false`, just delete the markup as it appears above.*
+*Note for translators: When you update your language's version of an article, never set the boolean to `false`, just delete the markup as it appears above.*
 
 Never delete translated articles, regardless if the content is outdated or is malformed. Instead, use the `outdated` mark. The markup for this is as follows:
 
@@ -72,7 +72,7 @@ outdated: true
 
 *Note: You should only need to include words that are not found in the article.*
 
-Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup it is as follows:
+Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup is as follows:
 
 ```
 ---
@@ -85,7 +85,7 @@ tags:
 
 ##### Outdated and tagged articles
 
-*Note: Translators, do not delete the `outdated` mark, but do not delete the tags.*
+*Note for translators: Do delete the `outdated` mark, but do not delete the tags.*
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
@@ -100,7 +100,7 @@ tags:
 
 ### Folder names
 
-Folder names must never contain URL reserved characters. Generally, all folder names must use these characters:
+Folder names must never contain URL reserved characters. Generally, all folder names must only use these characters:
 
 - A - Z (uppercase letters)
 - a - z (lowercase letters)
