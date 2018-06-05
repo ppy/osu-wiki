@@ -16,7 +16,7 @@ News posts on the website are cached for up to sixty days before they are fetche
 
 ## Locales
 
-The news system does not support locales at this time. All articles must be in British English, with a consistent register.
+The news system does not support locales at this time. All articles must be in English (preferably British English), with a consistent register.
 
 What this register entails depends on the focus and tone of your article, but it must be consistent. Articles that sound professional must always sound professional. Articles that are conversational must be always conversational.
 
