@@ -116,9 +116,15 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 
 #### File size
 
-All images must be optimised as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
-
 Images must be under 2 megabytes or they will fail to load.
+
+All images must be optimised as much as possible. Use [jpeg-archive (GitHub)](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
+
+```
+jpeg-recompress -am smallfry <input> <output>
+```
+
+Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
 
 #### Captions
 
