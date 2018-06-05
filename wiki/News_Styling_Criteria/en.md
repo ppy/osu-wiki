@@ -1,6 +1,6 @@
 # News Styling Criteria
 
-*For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria).*
+*For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
 
 News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
