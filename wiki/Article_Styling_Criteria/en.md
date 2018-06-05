@@ -25,12 +25,13 @@ Images in the osu! wiki are cached for up to two hours before they are fetched a
 Listed below are the properly-supported locales for the osu! wiki.
 
 | File Name | Locale Name | Native Script |
-|-----------|-------------|---------------|
+| --- | --- | --- |
 | `en.md` | English | English |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
 | `gr.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
+| `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
 | `hu.md` | Hungarian | Magyar |
 | `id.md` | Indonesian | Bahasa Indonesia |
@@ -39,7 +40,9 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
 | `pl.md` | Polish | Polski |
+| `pt.md` | Portuguese | Português |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
+| `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
