@@ -12,6 +12,10 @@ May I interest you in some singing? Want to compete with others to become the ne
 
 The annual community driven singing contest - osu!idol! It's where contestants as a solo or a duet sing their way through multiple stages of different genres with the aim to reach the very top of the idol podium! The panel of judges we have prepared will evaluate your performances and ensure the best is standing at the final stretch. After that, you, the community, will decide with a voting to determine our next osu!idol! It's go time! 
 
+### What should I do?
+
+All you need to do is make a 30 second recording of your best performance without any background music. We'll be taking submissions up to a month so no theres no need to rush! Practice and make most of your only shot, otherwise you'd have to wait for next year!
+
 ### Did anyone say prizes?
 
 Top three will receive supporter tags with a bonus for the winner - the osu!idol winner badge!
@@ -22,8 +26,7 @@ Top three will receive supporter tags with a bonus for the winner - the osu!idol
 
 ### Sign up where?!
 
-[**Checkout the official thread for the contest rules, details on the contest and discussion.**](https://osu.ppy.sh/community/forums/topics/752088)
-Come join our [Discord server](https://discord.gg/7hZgNeH) to receive announcements and updates, ask questions, and join in the banter with your fellow contestants! 
+Check out the [**official thread**](https://osu.ppy.sh/community/forums/topics/752088) for the contest rules, where to submit, details on the contest and discussion. Come join our [Discord server](https://discord.gg/7hZgNeH) to receive announcements and updates, ask questions, and join in the banter with your fellow contestants! 
 
 —Flanster
 
