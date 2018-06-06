@@ -66,7 +66,7 @@ WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be
 
 UseSkinSprites (Boolean) specifies whether or not the storyboard can use the user's skin resources.
 
-[sample](https://osu.ppy.sh/beatmapsets/654033/#taiko/1386414)
+[UseSkinSprites sample](https://osu.ppy.sh/beatmapsets/654033/#taiko/1386414)
 
 `UseSkinSprites: 0`
 
