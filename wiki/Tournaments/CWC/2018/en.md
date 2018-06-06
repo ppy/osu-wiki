@@ -65,7 +65,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ![][flag_BR] | **Brazil** | **[Michael Jordan](https://osu.ppy.sh/users/4099041)**, [Super Choke](https://osu.ppy.sh/users/2054788), [Kqrth](https://osu.ppy.sh/users/4115718), [-Overdose-](https://osu.ppy.sh/users/7749445), [ExNando](https://osu.ppy.sh/users/5960935), [Predominador](https://osu.ppy.sh/users/4568537) |
 | ![][flag_CA] | **Canada** | **[Fii](https://osu.ppy.sh/users/3922569)**, [Yoshi_green](https://osu.ppy.sh/users/1035891), [1111](https://osu.ppy.sh/users/2747940), [\_wwwww](https://osu.ppy.sh/users/4820793), [melonsigh](https://osu.ppy.sh/users/8623922), [wwwww-](https://osu.ppy.sh/users/3616480) |
 | ![][flag_CL] | **Chile** | **[OwO NYANQT x33](https://osu.ppy.sh/users/989542)**, [\[Nico\]](https://osu.ppy.sh/users/1011240), [lechuguin](https://osu.ppy.sh/users/2872000), [Shinji Wings](https://osu.ppy.sh/users/5071280), [eldnl](https://osu.ppy.sh/users/285756), [Quit User](https://osu.ppy.sh/users/2389481) |
-| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin01](https://osu.ppy.sh/users/518503), [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103), [- N a g i -](https://osu.ppy.sh/users/2956936), [Kasumi](https://osu.ppy.sh/users/2331531) |
+| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103), [- N a g i -](https://osu.ppy.sh/users/2956936), [Kasumi](https://osu.ppy.sh/users/2331531) |
 | ![][flag_CO] | **Colombia** | **[Deley-](https://osu.ppy.sh/users/8291465)**, [\[ Azu- \]](https://osu.ppy.sh/users/8290364), [FeaRHuMaN](https://osu.ppy.sh/users/8579779), [archiwes](https://osu.ppy.sh/users/10434582), [Titan-](https://osu.ppy.sh/users/7855767) |
 | ![][flag_DK] | **Denmark** | **[SharpN](https://osu.ppy.sh/users/4382076)**, [TheRustShark](https://osu.ppy.sh/users/7839059), [Captain](https://osu.ppy.sh/users/2563435), [Wermii](https://osu.ppy.sh/users/2424947), [Only1Magma](https://osu.ppy.sh/users/3922957) |
 | ![][flag_FI] | **Finland** | **[forgottentaco](https://osu.ppy.sh/users/6109660)**, [YERTI](https://osu.ppy.sh/users/1490757), [NoitaKuningas](https://osu.ppy.sh/users/4022685), [Nikolai](https://osu.ppy.sh/users/5302804), [noksu15](https://osu.ppy.sh/users/10161144), [Kurtsi](https://osu.ppy.sh/users/4222176) |
@@ -133,7 +133,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia          | **12:00 UTC** | 14:00 UTC+02       | 22:00 UTC+10       |
 | Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **12:00 UTC** | 14:00 UTC+02 | 19:00 UTC+07 |
 | Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | France             | ![][flag_FR] | ![][flag_TW] | Taiwan             | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
@@ -169,6 +168,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Australia          | ![][flag_AU] | ![][flag_DE] | Germany            | **11:00 UTC** | 21:00 UTC+10       | 13:00 UTC+02       |
 | Japan              | ![][flag_JP] | ![][flag_CN] | China              | **11:00 UTC** | 20:00 UTC+09       | 19:00 UTC+08       |
 | Austria            | ![][flag_AT] | ![][flag_PH] | Philippines        | **11:00 UTC** | 13:00 UTC+02       | 19:00 UTC+08       |
+| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia          | **12:00 UTC** | 14:00 UTC+02       | 22:00 UTC+10       |
 | Malaysia           | ![][flag_MY] | ![][flag_KR] | South Korea        | **12:00 UTC** | 20:00 UTC+08       | 21:00 UTC+09       |
 | Finland            | ![][flag_FI] | ![][flag_ID] | Indonesia          | **12:00 UTC** | 15:00 UTC+03       | 19:00 UTC+07       |
 | Austria            | ![][flag_AT] | ![][flag_CN] | China              | **13:00 UTC** | 15:00 UTC+02       | 21:00 UTC+08       |
