@@ -1050,3 +1050,22 @@ All users listed below were added on 2018-04-23.
 -   [Mordred](/users/7265097)
 -   [Kalibe](/users/3376777)
 -   [Nao Tomori](/users/5364763)
+
+### May
+
+-   Added [Chaoslitz](/users/3621552) to the Quality Assurance Team (2018-05-09)
+-   Moved [Myxomatosis](/users/2202645) to the osu! Alumni (2018-05-09)
+
+#### BN removals
+
+-   Removed [Chromoxx](/users/1881639) from the Beatmap Nominators by resignation (2018-05-01)
+-   Removed [Chewin](/users/617323) from the Beatmap Nominators for inactivity (2018-05-14)
+-   Removed [MBomb](/users/3071175) from the Beatmap Nominators by resignation (2018-05-20)
+-   Removed [SnowNiNo_](/users/2506267) from the Beatmap Nominators by failing probation (2018-05-24)
+-   Removed [Smokeman](/users/2140676) from the Beatmap Nominators by failing probation (2018-05-24)
+-   Removed [Kyuukai](/users/5337374) from the Beatmap Nominators by failing probation (2018-05-24)
+-   Removed [juankristal](/users/443656) from the Beatmap Nominators for inactivity (2018-05-30)
+-   Removed [Nwolf](/users/1910766) from the Beatmap Nominators for inactivity (2018-05-30)
+-   Removed [Arrival](/users/1694000) from the Beatmap Nominators for inactivity (2018-05-30)
+-   Removed [Julie](/users/2420987) from the Beatmap Nominators for inactivity (2018-05-30)
+-   Removed [Weber](/users/6410432) from the Beatmap Nominators for inactivity (2018-05-30)
