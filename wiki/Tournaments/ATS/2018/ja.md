@@ -116,6 +116,8 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 ![ATS Upper Bracket](upper_bracket.png)
 
+![ATS Lower Bracket](lower_bracket.png)
+
 -----------------------
 
 ## 譜面プール(課題曲)

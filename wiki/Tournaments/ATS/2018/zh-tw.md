@@ -116,6 +116,8 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ![ATS Upper Bracket](upper_bracket.png)
 
+![ATS Lower Bracket](lower_bracket.png)
+
 -----------------------
 
 ## 圖池

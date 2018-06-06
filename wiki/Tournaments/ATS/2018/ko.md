@@ -116,6 +116,8 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ![ATS Upper Bracket](upper_bracket.png)
 
+![ATS Lower Bracket](lower_bracket.png)
+
 -----------------------
 
 ## 맵풀

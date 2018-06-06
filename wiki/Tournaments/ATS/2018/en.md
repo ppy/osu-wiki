@@ -115,6 +115,8 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ![ATS Upper Bracket](upper_bracket.png)
 
+![ATS Lower Bracket](lower_bracket.png)
+
 -----------------------
 
 ## Mappool
@@ -260,7 +262,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Eliminations
 
-| Group | Friday, 2018-06-01 |  |  |  |  | 
+| Group | Friday, 2018-06-01 | | | | | 
 | :--: | ---: | :---: | :--- | :--- | :---: |
 | EM | Beat43210 ![][flag_AU] | 3 | 0 | ![][flag_MY] Minisora | -Win by Default- |
 | EM | Bedwyr Aorta ![][flag_MY] | 3 | 0 | ![][flag_ID] Jin Kun | -Win by Default- |
