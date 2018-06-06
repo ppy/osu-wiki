@@ -62,14 +62,13 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 -----------------------
 
-## Match Schedule: Round of 16
+## 比賽賽程表：十六強
 
 ### Saturday, 9. June 2018
 
 | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Xin Leviathan | ![][flag_JP] | ![][flag_MY] | Dakry | **08:00 UTC** | 17:00 UTC +9 | 16:00 UTC +8 |
-| nyanmi-1828 | ![][flag_JP] | ![][flag_MY] | ZethZ161 | **09:00 UTC** | 18:00 UTC +9 | 17:00 UTC +8 |
 | Sanawieck | ![][flag_JP] | ![][flag_ID] | Niko-nyan | **13:00 UTC** | 22:00 UTC +9 | 21:00 UTC +8 |
 | Jerry | ![][flag_MY] | ![][flag_TW] | Smallwu | **14:00 UTC** | 22:00 UTC +8 | 22:00 UTC +8 |
 
@@ -79,6 +78,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Tsubasa2 | ![][flag_AU] | ![][flag_TW] | qoot8123 | **06:00 UTC** | 16:00 UTC +10 | 14:00 UTC +8 |
 | TS_LewisLuo | ![][flag_TW] | ![][flag_JP] | puropera209 | **07:00 UTC** | 15:00 UTC +8 | 16:00 UTC +9 |
+| nyanmi-1828 | ![][flag_JP] | ![][flag_MY] | ZethZ161 | **07:00 UTC** | 16:00 UTC +9 | 15:00 UTC +8 |
 | Noko_BSF | ![][flag_JP] | ![][flag_JP] | butter0414 | **08:00 UTC** | 17:00 UTC +9 | 17:00 UTC +9 |
 | ayomikasa | ![][flag_ID] | ![][flag_JP] | KILI3343 | **09:00 UTC** | 16:00 UTC +7 | 18:00 UTC +9 |
 
