@@ -62,14 +62,13 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 -----------------------
 
-## Match Schedule: Round of 16
+## 比賽賽程表：十六強
 
 ### Saturday, 9. June 2018
 
 | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Xin Leviathan | ![][flag_JP] | ![][flag_MY] | Dakry | **08:00 UTC** | 17:00 UTC +9 | 16:00 UTC +8 |
-| nyanmi-1828 | ![][flag_JP] | ![][flag_MY] | ZethZ161 | **09:00 UTC** | 18:00 UTC +9 | 17:00 UTC +8 |
 | Sanawieck | ![][flag_JP] | ![][flag_ID] | Niko-nyan | **13:00 UTC** | 22:00 UTC +9 | 21:00 UTC +8 |
 | Jerry | ![][flag_MY] | ![][flag_TW] | Smallwu | **14:00 UTC** | 22:00 UTC +8 | 22:00 UTC +8 |
 
@@ -79,6 +78,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Tsubasa2 | ![][flag_AU] | ![][flag_TW] | qoot8123 | **06:00 UTC** | 16:00 UTC +10 | 14:00 UTC +8 |
 | TS_LewisLuo | ![][flag_TW] | ![][flag_JP] | puropera209 | **07:00 UTC** | 15:00 UTC +8 | 16:00 UTC +9 |
+| nyanmi-1828 | ![][flag_JP] | ![][flag_MY] | ZethZ161 | **07:00 UTC** | 16:00 UTC +9 | 15:00 UTC +8 |
 | Noko_BSF | ![][flag_JP] | ![][flag_JP] | butter0414 | **08:00 UTC** | 17:00 UTC +9 | 17:00 UTC +9 |
 | ayomikasa | ![][flag_ID] | ![][flag_JP] | KILI3343 | **09:00 UTC** | 16:00 UTC +7 | 18:00 UTC +9 |
 
@@ -111,6 +111,12 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 -----------------------
 
 ![Group Stage Participants](gs_participants.gif)
+
+-----------------------
+
+![ATS Upper Bracket](upper_bracket.png)
+
+![ATS Lower Bracket](lower_bracket.png)
 
 -----------------------
 
@@ -201,7 +207,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 小組賽
 
-| Group | Saturday, 2018-06-02 | | | | | 
+| Group | Saturday, 2018-06-02 |  |  |  |  | 
 | :--: | ---: | :---: | :--- | :--- | :---: |
 | C | nyanmi-1828 ![][flag_JP] | 4 | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
 | D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
@@ -228,7 +234,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | H | GlinT fraulein ![][flag_JP] | 0 | 4 | ![][flag_JP] puropera209 | -Win by Default- |
 | G | Shirai- ![][flag_ID] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42991227) |
 
-| Group | Sunday, 2018-06-03 | | | | | 
+| Group | Sunday, 2018-06-03 |  |  |  |  | 
 | :--: | ---: | :---: | :--- | :--- | :---: |
 | B | Dakry ![][flag_MY] | 4 | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43007113) |
 | H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_PH] Jmeh07 | [#1](https://osu.ppy.sh/community/matches/43013154) |
@@ -257,7 +263,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### Eliminations
 
-| Group | Friday, 2018-06-01 | | | | | 
+| Group | Friday, 2018-06-01 |  |  |  |  | 
 | :--: | ---: | :---: | :--- | :--- | :---: |
 | EM | Beat43210 ![][flag_AU] | 3 | 0 | ![][flag_MY] Minisora | -Win by Default- |
 | EM | Bedwyr Aorta ![][flag_MY] | 3 | 0 | ![][flag_ID] Jin Kun | -Win by Default- |
