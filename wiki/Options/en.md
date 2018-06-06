@@ -23,7 +23,7 @@ If you are a guest, these options will be shown:
 | `Username` | Type in your registered osu! username. | Text | *(empty)* |
 | `Password` | Type in your password associated with your osu! username. | Text | *(empty)* |
 | `Remember Username` | If checked, this client will remember the username. | Checkbox | `Enabled` |
-| `Remember Password` | If checked, Have the client remember the password. | Checkbox | `Enabled` |
+| `Remember Password` | If checked, Have the client remember the password. | Checkbox | `Disabled` |
 | `Sign In` | Start signing yourself in. Pressing `Enter` in the username or password forms also works. | Button |  |
 | `Create an account` | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button |  |
 
@@ -375,7 +375,7 @@ This section is about chat, spectators, multi, and osu!direct.
 
 ## Maintenance
 
-![Manitenance icon](img/manitenance.jpg "Manitenance icon")
+![Maintenance icon](img/maintenance.jpg "Maintenance icon")
 
 This section is about beatmaps, and updates.
 
