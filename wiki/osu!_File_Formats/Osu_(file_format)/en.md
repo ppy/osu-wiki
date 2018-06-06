@@ -64,6 +64,14 @@ WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be
 
 `WidescreenStoryboard: 0`
 
+StoryFireInFront (Boolean) specifies whether or not display storyboard in front of combo fire.
+
+`StoryFireInFront: 0`
+
+SpecialStyle (Boolean) specifies whether or not use special style(N+1) for mania.
+
+`SpecialStyle: 0`
+
 EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning.
 
 `EpilepsyWarning: 0`
