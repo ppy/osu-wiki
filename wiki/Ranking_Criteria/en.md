@@ -38,7 +38,9 @@ Glossary
 - **asterisk**: `*`
 - **umlauts**: `ü`, `ö`, `ä` and `ß`
 - **TV Size**: A song where the particular version is used in a television program, web series, or direct to video series as an opening or ending. Indie/doujin series are not included in this.
+
 Note: If a mapset's song contains matching sections to the TV size song, in the same order, and is roughly the same length as the official TV Size song, the mapset's edit will also count as TV Size
+
 - **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
 - **Russian Romanisation**: Use `BGN/PCGN` system for Russian/Cyrillic. `Е` and `е` should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `ye`, however, use `yo` or `o` to avoid usage of special characters. Ignore any other rules in the file provided, these are either irrelevant or wouldn't help in the game. If an artist uses a preferred romanisation, follow it regardless of this rule. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
 - **Character-by-character romanisation**: each Chinese character must be Romanised as a capitalised word and separated with a space.
