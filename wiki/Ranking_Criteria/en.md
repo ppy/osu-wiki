@@ -37,6 +37,8 @@ Glossary
 - **Square brackets**: `[]`
 - **asterisk**: `*`
 - **umlauts**: `ü`, `ö`, `ä` and `ß`
+- **TV Size**: A song where the particular version is used in a television program, web series, or direct to video series as an opening or ending. Indie/doujin series are not included in this.
+Note: If a mapset's song contains matching sections to the TV size song, in the same order, and is roughly the same length as the official TV Size song, the mapset's edit will also count as TV Size
 - **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
 - **Russian Romanisation**: Use `BGN/PCGN` system for Russian/Cyrillic. `Е` and `е` should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `ye`, however, use `yo` or `o` to avoid usage of special characters. Ignore any other rules in the file provided, these are either irrelevant or wouldn't help in the game. If an artist uses a preferred romanisation, follow it regardless of this rule. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
 - **Character-by-character romanisation**: each Chinese character must be Romanised as a capitalised word and separated with a space.
@@ -84,11 +86,13 @@ Glossary
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 - **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
+- **osu! difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
 ### Guidelines
 - **Letterboxing and countdown options should be consistent between difficulties of a mapset.** 
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they fit a song more appropriately than standard tick rates.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
+- **Maps should not surpass a score of 2.147 billion with any mod combination or game mode conversion.** Scores are not calculated properly past this value. If the score limit is not reasonably achievable however (e.g. a HDHRDTFL SS play on a six star map), it may be ranked.
 
 ## Mapset
 
@@ -134,7 +138,7 @@ Custom naming must follow a common theme or pattern related to the song and must
   - **Special characters that have both a full-width and half-width equivalent must retain their original printing forms if they are used in the unicode artist fields,** so that searching while copying and pasting the original song title is always possible. This does not apply to additional information that is printed in half-width to begin with because searching for these will be ambiguous no matter what.
   
 - **The following conventions are enforced in order to standardise the general handling of metadata:**
-  - **If the song is a TV sized cut of a full song, use a standard `(TV Size)` tag at the end of the current title string.** If a TV size marker exists in the title, the standard marker would replace it.
+  - **If the song is TV size, use a standard `(TV Size)` tag at the end of the current title string.** If a TV size marker exists in the title, the standard marker would replace it.
   - **For songs belonging to doujin circles, the circle name must be used over the vocalist or composer, unless these contributors are not part of the circle.** In these cases the priority falls on vocalist followed by composer for instrumental songs.
   - **If a song or artist are referred to in multiple ways on official sources provided by the artist, the mapper is free to choose any of the romanisations.** The only exception to this is if the song already has a mapset in the Ranked Section, in which case the corresponding guideline applies to it.
   - **If a track has more than 5 artists they must be substituted with `Various Artists`, similarly if a track is composed of 3 or more individual tracks, the title must be substituded to `<Descriptor> Compilation` unless all songs are part of an organised set of songs (such as an album) and that set only contains those songs, then the name of the set grouping the songs can be used instead.**
@@ -150,6 +154,7 @@ Custom naming must follow a common theme or pattern related to the song and must
   - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
   - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
   - **Romanise artist names in whichever order they are printed in the unicode fields.** The sole exception to this are artists widely known and using a differing English alias.
+  - **If a Unicode Song title has an official translation provided by the artist, this may be used in the romanised title field.**
   - **Songs with German metadata must romanise umlauts into two-letter equivalents (`ue`, `oe`, `ae` and `ss`).**
   - **Songs with Russian metadata must be romanised using the Russian Romanisation method in romanised fields when there is no romanisation or translation information listed by a reputable source.** The same applies to the `Source` field if a romanised Source is preferred by the mapper.
   - **Songs with Japanese metadata must use the Modified Hepburn Romanisation method in romanised fields.** The same applies to the `Source` field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. 

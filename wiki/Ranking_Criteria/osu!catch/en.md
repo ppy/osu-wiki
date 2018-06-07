@@ -117,7 +117,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 -	**Hyperdashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed at 160 BPM and below, whereas 1/4 hyperdashes would be allowed under 120 BPM.
--	**Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher snapped hyperdashes, a limit of 1.3x is recommended instead.
 -	**Basic hyperdashes can't be used more than two times between consecutive fruits. If higher snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
 -	**Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
 -	**Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x the trigger distance and the movement after the hyperdash must be walkable.**
@@ -131,6 +130,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 -	**All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
 -	**Higher snapped dashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1x the trigger distance and the movement after the dash must be walkable.
+-	**Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher snapped hyperdashes, a limit of 1.3x is recommended instead.
 -   Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
 -   Approach Rate / Overall Difficulty should be between 7-8.5
