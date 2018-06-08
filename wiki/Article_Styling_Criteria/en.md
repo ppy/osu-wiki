@@ -267,7 +267,7 @@ A notice can be placed where appropriate in a section, but must start off the pa
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
-Note is something that the reader should be made aware about, but only applies a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
+"Note" should be used for trivial or factual details or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to to warn the reader that there may be action aginst them.
 
 ##### Notice to
 
