@@ -263,11 +263,11 @@ A notice can be placed where appropriate in a section, but must start off the pa
 
 Note is something that the reader should be made aware about, but only applies a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
 
-### Emphasizing
+### Emphasising
 
 *Note: Misuse of emphasis will reduce its effectiveness.*
 
-When trying to emphasize words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasize. For example:
+When trying to emphasise words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasise. For example:
 
 ```
 Do not:
@@ -334,25 +334,59 @@ You could combine both bulleted and numbered lists, but this should be done spar
 
 The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surround it in double grave marks, padded with 1 space.
 
-Use code for the following scenarios:
+#### Keyboard keys
 
-- keyboard keys
-  - When doing this, use capital letters for single characters and title case for modifiers.
-  - Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes).
-- button or menu text
-  - When copying the text from a menu or button, copy the letter casing as is.
-- folder names
-  - When copying the name of a folder, copy the letter casing as is.
-- directory names
-  - When copying the path of a directory, copy the letter casing as is.
-- keywords or commands
-  - When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable).
-- file names
-  - When copying the name of a file, copy the letter casing as is.
-- file extensions
-  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
-- chat channels
-  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
+When doing this, use capital letters for single characters and title case for modifiers. Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes).
+
+Due to styling issues with the website, when writing the space character, use `` `Space` `` instead of `` ` ` ``.
+
+#### Button and menu text
+
+When copying the text from a menu or button, copy the letter casing as is. For example:
+
+```
+The `osu!direct` button is visible in the main menu on the right side if you have osu!supporter tag.
+```
+
+#### Folder and directory names
+
+When copying the name of a folder or directory, copy the letter casing as is. Try to not use absolute paths starting from the drive letter (or root directory) to avoid displaying usernames. For example:
+
+```
+osu! is installed in the `AppData/Local` folder by default, unless you specify otherwise during installation.
+```
+
+#### Keywords and commands
+
+When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable). For example:
+
+```
+As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
+```
+
+#### File names
+
+When copying the name of a file, copy the letter casing as is.
+
+```
+To play osu!, double click the `osu!.exe` icon.
+```
+
+#### File extensions
+
+When writing a file extension, prefix the extension with a fullstop (`.`), followed by the file extension in lowercase letters. However, if talking about the file format (not the file extension), the file format must be in all capital letters without the prefixed fullstop (`.`). For example:
+
+```
+The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
+```
+
+#### Chat channels
+
+When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters. For example:
+
+```
+`#lobby` is where you can advertise your multi room.
+```
 
 ### Code blocks
 
