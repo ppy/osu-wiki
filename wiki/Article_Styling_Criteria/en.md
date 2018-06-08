@@ -309,7 +309,7 @@ Optionally, add an extra line before and after the heading to help make the head
 
 All articles must have one level 1 heading, being the article's title. Article titles must use title case and never contain formatting, links, nor images. The title of an article is the name of the folder that the article is located in.
 
-The level 1 heading should be placed at the start of the article unless you have reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
+The level 1 heading must be placed at the start of the article unless you have reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
 
 For English article titles, if you need to reword the title, you must rename the folder to match the article title. There are rare exceptions to this however.
 
@@ -907,7 +907,7 @@ Since many regions use different date and time formats, the osu! wiki will only 
 - `2015 March, 02` (`YYYY MM, DD`) must be `2015-03-02`
 - `2009.09.09` (`YYYY.MM.DD` or `YYYY.DD.MM` and similar) must be `2009-09-09`
 
-If your language uses a day, month, and year suffix (i.e. Chinese, Japanese, or Korean), you must not use said format; instead use the same format as stated above, ISO-8601.
+If your language uses a day, month, and year suffix (i.e. Chinese, Japanese, or Korean), you must not use said format; instead use the same format as stated above, ISO-8601. For example:
 
 - `2016年02月29日` must be `2016-02-29`
 - `2014년08월18일` must be `2014-08-18`
@@ -938,17 +938,21 @@ Do not: 9:14
 
 Do:     15:23 UTC
 Do:     08:45 UTC+0
+Do:     09:09 UTC+7
 Do:     07:15 UTC-4
 ```
 
-`UTC` (without an offset) is implied to be `UTC+0`. You may use either one but when writing out `UTC+0`, you must use a plus symbol (`+`), not a hyphen (`-`).
+`UTC` (without an offset) is implied to be `UTC+0`. You may use either one, but must be consistent. When writing out `UTC+0`, you must use a plus symbol (`+`), not a hyphen (`-`).
 
 ### Date and time formatting
 
 When both date and time are used together, the date is written first followed by the time. The time must be in between round brackets (`(` and `)`). For example:
 
 ```
-2018-04-01 (13:26 UTC)
+Do not: 2018-04-01 at 15:26 UTC
+Do not: 2017-03-31 17:26 UTC
+
+Do:     2016-02-26 (11:26 UTC)
 ```
 
 ### Serial comma
@@ -960,8 +964,6 @@ When a list consists of 3 or more items in a sentence, use the serial comma. For
 ```
 The game modes of osu!: osu!standard, osu!taiko, osu!catch, and osu!mania are fun to play with others.
 ```
-
-Keep in mind that there are some exceptions to not using the serial comma.
 
 ### Contractions
 
