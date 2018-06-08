@@ -105,11 +105,11 @@ tags:
 
 Folder names must never contain URL reserved characters. Generally, all folder names must only use these characters:
 
-- A - Z (uppercase letters)
-- a - z (lowercase letters)
-- 0 - 9 (numbers)
-- `_` (underscore)
-- `!` (exclamation mark)
+- uppercase letters
+- lowercase letters
+- numbers
+- underscores (`_`)
+- exclamation marks (`!`)
 
 *Notice: Spaces must be changed to underscores.*
 
@@ -117,8 +117,8 @@ Folder names must never contain URL reserved characters. Generally, all folder n
 
 Folder names should not use characters that require percent encoding. Those characters may include, but are not limited to:
 
-- ` ` (spaces)
-- `'` (apostrophes)
+- spaces
+- apostrophes (`'`)
 
 ### Article file names
 
