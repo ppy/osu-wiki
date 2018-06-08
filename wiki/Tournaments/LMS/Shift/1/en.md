@@ -1,5 +1,6 @@
 ---
 tags:
+- Taiko LMS
 - LMS Shift
 - LMSShift
 ---
@@ -8,7 +9,7 @@ Taiko LMS: Shift Cup
 
 ![Taiko LMS: Shift Cup](banner.jpg)
 
-**Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US][Backfire](https://osu.ppy.sh/users/263110). It is a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG.
+**Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It is a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG.
 
 ## Tournament Schedule
 
@@ -39,30 +40,90 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 | Position | Members |
 | ------------ | -------------- |
 | Management and Organization | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Map Selectors | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) | |
-| Commentators | *To be decided* |
+| Map Selectors | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Commentators | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_HK] [akali393394](https://osu.ppy.sh/users/9686628) |
 | Streamer | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Referees | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762) |
+| Referees | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213) |
 
 ## Links
 
 - [Official Forums Thread](https://osu.ppy.sh/community/forums/topics/744163)
 - [Livestream](https://www.twitch.tv/osutaikolive)
-- [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
 - [Official LMS Discord](https://discord.gg/wEkYka)
+- [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
+- [Match Schedules & Groups](https://docs.google.com/spreadsheets/d/1OmEe5J_os3fB95weFNtoXTdUD4wymnBH73m5x7CCb9I/edit?usp=sharing)
+- [Mappool Suggestions Form](https://docs.google.com/forms/d/e/1FAIpQLSdoInV0tQksRlZDgpk5tN06Mxa2illONxm0mEgX22shniuqwg/viewform)
 
 -----------------------
 
 ## Participants
 
- *The participants will be listed once the registration phase is finished.*
- 
+| Seed | Team | Members |
+| :---: | :--- | :--- |
+| Top | **あ** | ![][flag_JP] **[ma_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508) |
+|  | **FLip-FLop** | ![][flag_ID] **[XK2238](https://osu.ppy.sh/users/1139209)**, ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768), ![][flag_ID] [Katdon_donKat](https://osu.ppy.sh/users/8089664), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) | 
+|  | **V E R Y S T R O N G T E A M** | ![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027) | 
+|  | **Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353) | 
+|  | **Needs Some Nosso Samba 1212** | ![][flag_VE] **[Colorojo12](https://osu.ppy.sh/users/5136821)**, ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_US] [yea](https://osu.ppy.sh/users/6874332), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) | 
+|  | **The Spanish Inquisition** | ![][flag_ES] **[AlvaroYL](https://osu.ppy.sh/users/6333166)**, ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_ES] [Hanjamon](https://osu.ppy.sh/users/1703330), ![][flag_ES] [Maitroxsk](https://osu.ppy.sh/users/4875451) |
+|  | **Noko Pan Pan** | ![][flag_JP] **[Noko_BSF](https://osu.ppy.sh/users/3811831)**, ![][flag_JP] [hoku-4625](https://osu.ppy.sh/users/9503098), ![][flag_JP] [kitafuma](https://osu.ppy.sh/users/8987606), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
+| High | **Kong Donkey Donkey Kong** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_DE] [Ak1o](https://osu.ppy.sh/users/1600041) |
+|  | **AFK** | ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**, ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_CL] [Alepat](https://osu.ppy.sh/users/1164931), ![][flag_RU] [Alt](https://osu.ppy.sh/users/736496) |
+|  | **Pyon Pyon Usagi** | ![][flag_TW] **[Smallwu](https://osu.ppy.sh/users/2512120)**, ![][flag_TW] [TS_LewisLuo](https://osu.ppy.sh/users/4337536), ![][flag_TW] [bobson860412](https://osu.ppy.sh/users/1716059), ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) |
+|  | **:b:erkele** | ![][flag_FI] **[duski](https://osu.ppy.sh/users/6506484)**, ![][flag_FR] [Nayo](https://osu.ppy.sh/users/7930622), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_DE] [BrokenArrow](https://osu.ppy.sh/users/384034) |
+|  | **Loss.jpg** | ![][flag_ID] **[Lightning Wyvern](https://osu.ppy.sh/users/6506484)**, ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/7930622), ![][flag_ID] [\]\[ -GH- \]\[](https://osu.ppy.sh/users/6278008) |
+|  | **Welcome to otu!** | ![][flag_JP] **[Xin Leviathan](https://osu.ppy.sh/users/9575624)**, ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981), ![][flag_JP] [Soukun1shiki](https://osu.ppy.sh/users/10196449), ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) |
+|  | **TheLegendary MC + shu** | ![][flag_DE] **[-Leafeon](https://osu.ppy.sh/users/6956922)**, ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_DE] [jleste](https://osu.ppy.sh/users/8275687) |
+| Low | **Roko-Don's Taiko Cheeks** | ![][flag_US] **[Catgirl](https://osu.ppy.sh/users/2771995)**, ![][flag_AU] [Ceryuia](https://osu.ppy.sh/users/5253213), ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127), ![][flag_US] [Brames](https://osu.ppy.sh/users/Brames) |
+|  | **Furries of the Storm** | ![][flag_BR] **[Coryn](https://osu.ppy.sh/users/2828556)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_BR] [kbludoh](https://osu.ppy.sh/users/2543764), ![][flag_BR] [Serial Dreemurr](https://osu.ppy.sh/users/1235444) |
+|  | **Truncated OCTAheDons** | ![][flag_AR] **[Axer](https://osu.ppy.sh/users/7299864)**, ![][flag_PT] [hi im costarino](https://osu.ppy.sh/users/9209430), ![][flag_DE] [dudetm](https://osu.ppy.sh/users/7323979), ![][flag_GB] [Doggaz](https://osu.ppy.sh/users/7528639) |
+|  | **SagiriLovers Reborn** | ![][flag_RU] **[Naninub](https://osu.ppy.sh/users/8188876)**, ![][flag_RU] [DayzeekFeed](https://osu.ppy.sh/users/5009970), ![][flag_RU] [lolphis](https://osu.ppy.sh/users/4961687), ![][flag_RU] [-\_-Nico-\_-](https://osu.ppy.sh/users/9689534) |
+|  | **South Brazil** | ![][flag_BR] **[Kqrth](https://osu.ppy.sh/users/4115718)**, ![][flag_CL] [Kqrth2](https://osu.ppy.sh/users/8429046), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_BR] [Mikudayo](https://osu.ppy.sh/users/5235718) | 
+|  | **The Power is Yours** | ![][flag_TW] **[j9696410](https://osu.ppy.sh/users/3993980)**, ![][flag_TW] [sakura of piano](https://osu.ppy.sh/users/8652856), ![][flag_TW] [a2805146](https://osu.ppy.sh/users/4493348), ![][flag_TW] [nw9v4g46](https://osu.ppy.sh/users/2169329) | 
+|  | **We know de wae** | ![][flag_TW] **[mliencheng](https://osu.ppy.sh/users/586659)**, ![][flag_TW] [PING](https://osu.ppy.sh/users/818907), ![][flag_TW] [VanillaMilk](https://osu.ppy.sh/users/859410), ![][flag_TW] [nw9v4g46](https://osu.ppy.sh/users/358675) | 
+| Bottom | **Illness liLin** | ![][flag_MY] **[ZethZ161](https://osu.ppy.sh/users/9912966)**, ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504), ![][flag_MY] [delibrium](https://osu.ppy.sh/users/9445913) | 
+|  | **迫真osu!taiko部** | ![][flag_JP] **[nekomusya1234](https://osu.ppy.sh/users/1382717)**, ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_JP] [ton_411](https://osu.ppy.sh/users/11981877) |
+|  | **Where's eiuh** | ![][flag_AU] **[Beat43210](https://osu.ppy.sh/users/586659)**, ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_MY] [Dakry](https://osu.ppy.sh/users/1994145) | 
+|  | **Bola and his friends** | ![][flag_AR] **[Atreevete](https://osu.ppy.sh/users/2615199)**, ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871), ![][flag_JP] [Bola](https://osu.ppy.sh/users/1119463), ![][flag_ES] [Arnon](https://osu.ppy.sh/users/5332868) | 
+|  | **logic is half ＢＬＡＣＫ!** | ![][flag_GB] **[Lain Iwakura](https://osu.ppy.sh/users/4761739)**, ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678), ![][flag_GB] [Polfy](https://osu.ppy.sh/users/4623263), ![][flag_GB] [Sona lessthan3](https://osu.ppy.sh/users/6928305) | 
+|  | **Tatacon PH** | ![][flag_PH] **[Jmeh07](https://osu.ppy.sh/users/2852269)**, ![][flag_PH] [Kotaro](https://osu.ppy.sh/users/796530), ![][flag_PH] [Weaotaku](https://osu.ppy.sh/users/9702726), ![][flag_PH] [Micka](https://osu.ppy.sh/users/2770422) | 
+|  | **Mujuuryoku** | ![][flag_HK] **[Akali393394](https://osu.ppy.sh/users/9686628)**, ![][flag_PH] [yuki_momoiro722](https://osu.ppy.sh/users/7186791), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409) | 
+
 -----------------------
 
 ## Mappool
 
- *The mappools will be revealed one week in advance for each stage.*
+### Group Stage
+
+**[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1)**
+
+- NoMod
+  - [kors k - Echo Of Forever (Starger) \[Oni\]](https://osu.ppy.sh/beatmapsets/754193/#taiko/1587862) 
+  - [illion - AIWAGUMA (Ellyu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/533037/#taiko/1129305) 
+  - [Remo-con - FAKE TIME Reprise (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/359523/#taiko/790527)
+- Hidden
+  - [AAAA Chazuke - Sayonara Cosmonaut (D o t) \[Oni\]](https://osu.ppy.sh/beatmapsets/694743/#taiko/1481628) 
+  - [Yumemido - Lyrith -Meikyuu Lyrith- (Midnaait) \[Endless Labyrinth\]](https://osu.ppy.sh/beatmapsets/679602#taiko/1437072) 
+  - [Yucha-P - Thieves Night Trick (qoot8123) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/78268/#taiko/222740) 
+- HardRock
+  - [lapix - Nothing but Theory (Legless) \[Funktion\]](https://osu.ppy.sh/beatmapsets/781106/#taiko/1640583) 
+  - [BUTA-OTOME - Heisei Kaisei Dottenshan (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/737037/#taiko/1555438) 
+  - [Kagamine Rin - Tokyo Teddy Bear (climbb65588) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/39838/#taiko/128116)
+- DoubleTime
+  - [Jesse & Joy - Si Te Vas (Krisom) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30584/#taiko/100891) 
+  - [Shano & 40mP - Natsukoi Hanabi (-Sh1n1-) \[Oni\]](https://osu.ppy.sh/beatmapsets/351390/#taiko/774493) 
+  - [Mami Kawada - Crossing Way (Charlotte) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/793797/#taiko/1667941) 
+- FreeMod
+  - [Krewella X DISKORD - Beggars (Consouls Remix) (Remus) \[Remus' Inner Oni\]](https://osu.ppy.sh/beatmapsets/587043/#taiko/1617225) 
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (hs714) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/93555/#taiko/257573) 
+  - [OISHII - UP UP MT. CAKE (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/664795/#taiko/1406933) 
+- Extra
+  - [O2i3 - A Flat Minor (Kantan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/660455/#taiko/1398513) 
+  - [MASAYOSHI IIMORI - BREAK OVER (komasy) \[BREAK ONI\]](https://osu.ppy.sh/beatmapsets/632227/#taiko/1342119)
+  - [IOSYS - Mushi Miko Unya no Happy-py (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/716658/#taiko/1514303)
+- Tiebreaker
+  - [Camellia - ANOMALY (Nepuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/666077/#taiko/1456622) 
 
 ------------------------------------------------------------------------
 
@@ -172,10 +233,28 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
 4. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match.
 
+[flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BO]: /wiki/shared/flag/BO.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
