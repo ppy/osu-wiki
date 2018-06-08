@@ -625,7 +625,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 *For a list of flag icons, see: [issue \#328 (GitHub)](https://github.com/ppy/osu-wiki/issues/328).*
 
-All of the flag icons use the two letter code (in all capital letters) and ends with the GIF extension. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
 
 ```
 ![](/wiki/shared/flag/xx.gif)
@@ -639,7 +639,7 @@ Adding the full country names in the alt text is optional.
 
 Tables in the osu! wiki support headings along the first row. If you cannot create a table because something would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
 
-Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the tect of each cell must be padded with one space on both sides.
+Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the tect of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
 The delimter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
@@ -660,7 +660,8 @@ For example:
 | **peppy** | 5 - 2 | pippi | 9.3 stars |
 | Aiko | 1 - 6 | **Alisa** | 4.2 stars |
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
-| **Taikonator** | 7 - 0 | Tama | 14.7 stars |
+| **Taikonator** | 7 - 0 | Tama | 13.37 stars |
+| Maria | No Contest | Mocha |  |
 ```
 
 ### Blockquotes
