@@ -558,7 +558,7 @@ Images are automatically given captions if they fulfill these rules:
 1. The image is not inside a heading.
 1. The image has title text.
 
-Captions are assumed via the title text. Image captions must be plain text and never contain formattnig nor link markup. Images with captions are also centred with the image on the website.
+Captions are assumed via the title text. Image captions must be plain text and never contain formatting nor link markup. Images with captions are also centred with the image on the website.
 
 #### Max image width
 
@@ -568,11 +568,11 @@ The osu! wiki will give every image a max-width, being the width of the article 
 
 When annotating images, use the *Exo 2 light* font. For Chinese, Korean, Japanese characters, use the *Microsoft YaHei*.
 
-Try to limit writting text in images, as it is difficult for translators (and other editors besides you) to edit them.
+Try to limit writing text in images, as it is difficult for translators (and other editors besides you) to edit them.
 
 ##### Translating annotated images
 
-When translating annotated images, the localized image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localized image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps).
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps).
 
 - e.g. `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
 - e.g. `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
@@ -623,7 +623,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 #### Flag icons
 
-*For a list of flag icons, see: [issue \#328 (GitHub)](https://github.com/ppy/osu-wiki/issues/328).*
+*For a list of flag icons, see: [issue \#328 (GitHub)](https://github.com/ppy/osu-wiki/issues/328)*
 
 All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
 
@@ -875,7 +875,7 @@ Use `e.g.` when initialising "for example" and use `i.e.` for "that is". Side no
 
 ---
 
-Avoid pluralizing abbreviations, acronyms, and/or initialisms. If needed, reword the sentence. For example:
+Avoid pluralising abbreviations, acronyms, and/or initialisms. If needed, reword the sentence. For example:
 
 ```
 Do not: BNs can nominate your beatmapset.
