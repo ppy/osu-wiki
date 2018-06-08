@@ -258,10 +258,24 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
 
 ```
-*Note: You will need a decent internet connection to connect to Bancho and submit scores.*
+*Note: pippi is spelt with a lower case "p", like peppy.*
+
+*Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
+
+*Caution: This button does not ask for confirmation!
+
+*Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
 Note is something that the reader should be made aware about, but only applies a small or specific group of readers. Notice is for a more direct warning that the reader should be aware of. Caution is to warn the reader about unintended consequences. Warning is to warn the reader that there may be action aginst them.
+
+##### Notice to
+
+For notices that target specific readers, include the word `to` after "Note", "Notice", "Caution", or "Warning" then follow it with the target readers. For example:
+
+```
+*Note to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
+```
 
 ### Emphasising
 
