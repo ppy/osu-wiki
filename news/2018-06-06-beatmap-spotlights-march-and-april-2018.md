@@ -15,7 +15,7 @@ The beatmap charts for the April Spotlights can be found [here](https://osu.ppy.
 First of all, congratulations to the winners of the March 2018 Spotlights. They will receive one month of supporter status for their efforts!
 + **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
 + **osu!taiko:** [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
-+ **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
++ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 
 The observant among us may have noticed that the March Spotlights post didn't happen last month due to some minor mishaps with scheduling and workload. To make sure that you don't miss out on all the juicy details, we've included the blurbs and links from the March issue below for your reading pleasure.
 
