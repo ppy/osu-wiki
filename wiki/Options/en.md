@@ -388,9 +388,11 @@ This section is about beatmaps, and updates.
 | `Mark all maps as played` | Mark all maps as "played". | Button |
 | `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | Button |
 
-### Build version
+### Debug
 
-See which build version you currently have and which type of build updates you are receiving. Clicking on this will direct you to the release notes using your preferred browser.
+#### Build version
+
+See which build version the game client currently has and which type of build updates the game client receives. Clicking on this will direct you to the release notes using your preferred browser.
 
 The builds are versioned using this versioning scheme:
 
