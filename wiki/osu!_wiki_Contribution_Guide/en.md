@@ -10,7 +10,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 1. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
 
-1. [Log in](https://github.com/login).
+1. [Sign in](https://github.com/login).
 
 1. Continue to [Forking](#forking).
 
