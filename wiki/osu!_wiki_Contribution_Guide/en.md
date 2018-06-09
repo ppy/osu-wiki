@@ -87,9 +87,11 @@ At this point, you have two choices:
 
 7. Click `Create pull request`.
 
-8. Enter the title in English. The common title naming scheme is the two-lettered language name in square brackets, followed by the article's title. For example, `[FR] BBCode` would mean it is the French version of the BBCode article.
+8. Enter the title in English. This should be a very brief explanation of what you changed.
 
-9. Fill in the description box with the requested information, you can delete sections if they do not apply.
+  For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
+
+9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).
 
 10. Once you are ready, click `Create pull request`.
 
