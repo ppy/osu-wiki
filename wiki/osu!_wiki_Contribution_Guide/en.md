@@ -2,7 +2,7 @@
 
 Thanks for your interest in making the osu! wiki better! At this time, contributing to the osu! wiki will require more time and slightly more effort to make your changes actually happen. This quick-start guide is intended for newcomers that have never worked with GitHub and the osu! wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
 
-If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord chat](https://discord.gg/ppy) in the `#osu-wiki` channel.
+If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
 
 ## Getting started
 
@@ -101,8 +101,8 @@ At this point, you have two choices:
 
 ### Reviews
 
-Once you have created your pull request, other osu! wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu! wiki editors in the [osu!dev Discord chat](https://discord.gg/ppy) or in the GitHub comments.
+Once you have created your pull request, other osu! wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu! wiki editors in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) or in the GitHub comments.
 
 ### Merging
 
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord chat](https://discord.gg/ppy). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
