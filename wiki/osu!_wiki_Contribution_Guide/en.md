@@ -20,15 +20,15 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 1. Click `Fork`.
 
-  ![](img/fork.jpg)
+![](img/fork.jpg)
 
-1. Click `Fork` again to go to your fork.
+3. Click `Fork` again to go to your fork.
 
 1. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
 
-  ![](img/forked.jpg)
+![](img/forked.jpg)
 
-1. Continue to [Syncing your fork](#syncing-your-fork).
+5. Continue to [Syncing your fork](#syncing-your-fork).
 
 ### Syncing your fork
 
@@ -36,15 +36,15 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 1. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
-  ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
+![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
-  ![](img/fork-ahead.jpg "OK \(These are your commits\)")
+![](img/fork-ahead.jpg "OK \(These are your commits\)")
 
-  ![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
+![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
 
-  ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
+![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
 
-1. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
+3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
 
 1. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
@@ -69,23 +69,23 @@ At this point, you have two choices:
 
 1. If you were quick enough, you may see this yellow banner.
 
-  ![](img/github-recent.jpg)
+![](img/github-recent.jpg)
 
-1. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
+3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
 
 1. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
-  ![](img/compare-across-forks-no.jpg "No good.")
+![](img/compare-across-forks-no.jpg "No good.")
 
-1. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
+5. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
 
-  ![](img/head-fork.jpg)
+![](img/head-fork.jpg)
 
-1. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
+6. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
 
-  ![](img/compare-branch.jpg)
+![](img/compare-branch.jpg)
 
-1. Click `Create pull request`.
+7. Click `Create pull request`.
 
 1. Enter the title in English. This should be a very brief explanation of what you changed.
 
@@ -95,9 +95,9 @@ At this point, you have two choices:
 
 1. Once you are ready, click `Create pull request`.
 
-  ![](img/new-pull-request.png)
+![](img/new-pull-request.png)
 
-1. See [Reviews](#reviews) and [Merging](#merging) below.
+11. See [Reviews](#reviews) and [Merging](#merging) below.
 
 ### Reviews
 
