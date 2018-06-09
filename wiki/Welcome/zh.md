@@ -1,6 +1,3 @@
----
-outdated: true
----
 # 欢迎
 
 欢迎来到 osu! ， 一款由 peppy 开发的有着以下四个模式的音乐游戏： osu!standard ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
@@ -17,6 +14,11 @@ outdated: true
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [多人游戏](/wiki/Multi/#getting-started)
+- [Rank 标准](/wiki/Ranking_Criteria)
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## 本月推荐文章
 
@@ -33,6 +35,14 @@ outdated: true
 *参考：[改图](/wiki/Modding/#开始)。*
 
 改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
+
+## 皮肤制作
+
+*参考: [皮肤制作](/wiki/Skinning).*
+
+*另见: [皮肤制作教程](/wiki/Skinning_Tutorial).*
+
+任何玩家都可以通过制作皮肤来改变 osu! 的外观和玩 osu! 时的感受。你可以做一些像改变鼠标指针这样的微小修改，也可以进行重制游戏界面与所有游戏模式的外观这样的大改动。
 
 ## osu! wiki —— 如何贡献力量
 
