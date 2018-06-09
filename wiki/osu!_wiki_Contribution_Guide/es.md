@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Guía de Contribución de la osu! wiki
 
 ¡Gracias por tu interés en hacer la osu! wiki mejor! En estos momentos, contribuir a la osu! wiki necesitará más tiempo y un poco más de esfuerzo para hacer que tus cambios realmente se apliquen. Esta guía de inicio rápido está destinada a los recién llegados que nunca han trabajado con GitHub ni con el flujo de trabajo de contribuciones de la osu! wiki. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para actualizaciones de contenido en este repositorio.
