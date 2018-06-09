@@ -93,7 +93,7 @@ At this point, you have two choices:
 
 10. Once you are ready, click `Create pull request`.
 
-  ![](img/new-pull-request.jpg "Perfect")
+  ![](img/new-pull-request.png)
 
 11. See [Reviews](#reviews) and [Merging](#merging) below.
 
