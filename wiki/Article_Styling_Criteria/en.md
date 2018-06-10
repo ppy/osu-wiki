@@ -252,33 +252,33 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 *For the Linux installation, see: [Installation/Linux](/wiki/Installation/Linux)*
 ```
 
-#### Notice
+### Notices
 
-A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike the other hatnotes, must use a full stop or exclamation mark, if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice.
+A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but must be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice. For example:
 
 ```
 *Note: pippi is spelt with a lower case "p", like peppy.*
 
 *Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
 
-*Caution: This button does not ask for confirmation!
+*Caution: This button does not ask for confirmation!*
 
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
-"Note" should be used for trivial or factual details or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to to warn the reader that there may be action aginst them.
+"Note" should be used for trivial or factual details or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to to warn the reader that action may be taken against them.
 
-##### Notice to
+#### Notice to
 
-For notices that target specific readers, include the word `to` after "Note", "Notice", "Caution", or "Warning" then follow it with the target readers. For example:
+For notices that target specific readers, include the word `to` after "Note", "Notice", "Caution", or "Warning" then follow it with a brief description of the target readers. For example:
 
 ```
-*Note to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
+*Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
 ```
 
 ### Emphasising
 
-*Note: Misuse of emphasis will reduce its effectiveness.*
+*Notice: Misuse of emphasis will reduce its effectiveness.*
 
 When trying to emphasise words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasise. For example:
 
