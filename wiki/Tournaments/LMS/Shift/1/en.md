@@ -145,20 +145,21 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 10. Maps cannot be reused in the same match unless the game was nullified.
 11. If less than 3 players attend, your Revives will be limited by 1 less, per the round.
 12. The Revive System functions are as follows:
-    - You can only revive **OTHER** eliminated members of your team. Not yourself.
+    - You can only revive **other** eliminated members of your team. Not yourself.
     - You may not choose to revive yourself if playing as the last member (1 vs 3, for example).
     - Players may swap freely between each other for each map.
     - More information to the Revive system are in [Stage Instructions](#stage-instructions) and [Match Instructions](#match-instructions).
-13. Revives may only be used by the last surviving player of a team.
+13. Revive are always assigned to the active player.
     - During Group Stage, each team is given 1 Revive.
     - During Round of 16 and Quarterfinals, each team is given 2 Revives.
     - During and after Semifinals, each team is given 3 Revives.
-        - If a player loses a map they are knocked out and cannot participate in the same match unless revived.
-        - Revives are always assigned to the active player.
-        - Each player may only be revived once per match.
+      - If a player loses a map they are knocked out and cannot participate in the same match unless revived.
+      - The player who is revived may not participate in the match on the same turn they are revived, except in the instance that the team waits to use their revives after all players have been eliminated.
+      - Each player may only be revived once per match.
+      - _**Elimination Stages Only**_: Revives may only occur **after** that round's map has been chosen.
 14. Lag is not a valid reason to nullify a map.
-15. Unexpected incidents are handled by the tournament management.
-16. Any changes of these rules will be announced.
+15. Unexpected incidents are handled by tournament management.
+16. Any modification of these rules will be announced.
 17. Note that the players who get knocked out during a match is only gone temporarily, during the match. If their team advances, they can participate in the next match their team plays in.
 
 ### Tournament Registration
