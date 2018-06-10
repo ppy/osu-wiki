@@ -111,13 +111,12 @@ Folder names must never contain URL reserved characters. Generally, all folder n
 - underscores (`_`)
 - exclamation marks (`!`)
 
-*Notice: Spaces must be changed to underscores.*
-
 #### Percent encoding characters
 
 Folder names should not use characters that require percent encoding. Those characters may include, but are not limited to:
 
 - spaces
+  - all spaces must be underscores (`_`).
 - apostrophes (`'`)
 
 ### Article file names
@@ -975,7 +974,7 @@ Contractions are a shortened form of a word or group of words. In the osu! wiki,
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-*Note: the possessive form of a word (e.g. `the player's` or `the skinner's`) is not a contraction.*
+*Note: The possessive form of a word (e.g. `the player's` or `the skinner's`) is not a contraction.*
 
 ### Point of view
 
