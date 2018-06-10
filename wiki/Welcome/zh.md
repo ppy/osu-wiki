@@ -36,9 +36,9 @@
 
 改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
 
-## 皮肤制作
+## 皮肤
 
-*参考: [皮肤制作](/wiki/Skinning).*
+*参考: [皮肤](/wiki/Skinning).*
 
 *另见: [皮肤制作教程](/wiki/Skinning_Tutorial).*
 
