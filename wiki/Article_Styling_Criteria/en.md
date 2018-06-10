@@ -216,11 +216,11 @@ Appending two trailing spaces at the end of a line is parsed as a line break. (W
 
 ### Hatnotes
 
-Hatnotes are short notes placed at the top of an article or underneath a section to help readers navigate to related articles or inform them about certain topics. Hatnotes (unless stated otherwise) must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
+Hatnotes are short notes placed at the top of an article or underneath a section to help readers navigate to related articles or inform them about related topics. Hatnotes (unless stated otherwise) must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
 
 #### Main page
 
-Main page hatnotes directs a reader to an article with more information. These should be placed after a heading, but before the summary. They must start with the words `Main page` followed by a colon (`:`). For example:
+Main page hatnotes directs a reader to an article with more information. They must start with the words `Main page` followed by a colon (`:`). For example:
 
 ```
 ## Modding
