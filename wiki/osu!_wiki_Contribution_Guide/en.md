@@ -57,7 +57,7 @@ At this point, you have two choices:
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
-*Note: You are not limited to the two choices listed above for editing.* To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.
+*Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.*
 
 **When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
 
