@@ -99,6 +99,23 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Match Schedule: Round of 16
+
+### Sunday, 17. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 22:00 (Sat) UTC-04 | 21:00 (Sat) UTC-05 |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
+| Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
+| Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
+| Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
+| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **15:00 UTC** | 17:00 UTC+02       | 22:00 UTC+07       |
+| Germany     | ![][flag_DE] | ![][flag_NL] | Netherlands   | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
+| Sweden      | ![][flag_SE] | ![][flag_US] | United States | **20:00 UTC** | 22:00 UTC+02       | 13:00 UTC-07       |
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 ### Round of 16
@@ -138,41 +155,20 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](http://osu.ppy.sh/b/771881&m=2)
   - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](http://osu.ppy.sh/b/111302&m=2)
   - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](http://osu.ppy.sh/b/846259&m=2)
-  
 - Hidden
   - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](http://osu.ppy.sh/b/1448086&m=2)
   - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](http://osu.ppy.sh/b/937653&m=2)
-  - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)
-  
+  - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)  
 - HardRock
   - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](http://osu.ppy.sh/b/1154583&m=2)
   - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](http://osu.ppy.sh/b/899608&m=2)
-  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)
-  
+  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)  
 - DoubleTime
   - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](http://osu.ppy.sh/b/1533955&m=2)
   - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](http://osu.ppy.sh/b/717056&m=2)
-  - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
-  
+  - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)  
 - Tiebreaker
   - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
-
-------------------------------------------------------------------------
-
-## Match Schedule: Round of 16
-
-### Sunday, 17. June 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 23:00 (Sat) UTC-03 | 21:00 (Sat) UTC-05 |
-| South Korea | ![][flag_KR] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
-| Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
-| Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
-| Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
-| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **15:00 UTC** | 17:00 UTC+02       | 22:00 UTC+07       |
-| Germany     | ![][flag_DE] | ![][flag_NL] | Netherlands   | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
-| Sweden      | ![][flag_SE] | ![][flag_US] | United States | **20:00 UTC** | 22:00 UTC+02       | 13:00 UTC-07       |
 
 ------------------------------------------------------------------------
 
