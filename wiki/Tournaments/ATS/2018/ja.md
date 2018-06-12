@@ -49,7 +49,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | デザイナー | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
 | 審判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
 | 翻訳家  | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
-| 集計 | ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 集計 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## リンク
 
@@ -62,25 +62,25 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 -----------------------
 
-## 対戦スケジュール: Round of 16
+## 対戦スケジュール: Quarterfinals
 
-### Saturday, 9. June 2018
+### Saturday, 16. June 2018
 
-| Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Xin Leviathan | ![][flag_JP] | ![][flag_MY] | Dakry | **08:00 UTC** | 17:00 UTC +9 | 16:00 UTC +8 |
-| Sanawieck | ![][flag_JP] | ![][flag_ID] | Niko-nyan | **13:00 UTC** | 22:00 UTC +9 | 21:00 UTC +8 |
-| Jerry | ![][flag_MY] | ![][flag_TW] | Smallwu | **14:00 UTC** | 22:00 UTC +8 | 22:00 UTC +8 |
+| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| UB | Xin Leviathan | ![][flag_JP] | ![][flag_JP] | nyanmi-1828 | **08:00 UTC** | 17:00 UTC +9 | 17:00 UTC +9 |
+| LB | Jerry | ![][flag_MY] | ![][flag_AU] | Tsubasa2 | **09:00 UTC** | 17:00 UTC +8 | 19:00 UTC +10 |
+| LB | Niko-nyan | ![][flag_ID] | ![][flag_JP] | puropera209 | **09:00 UTC** | 17:00 UTC +8 | 18:00 UTC +9 |
+| UB | Smallwu | ![][flag_TW] | ![][flag_TW] | qoot8123 | **14:00 UTC** | 22:00 UTC +8 | 22:00 UTC +8 |
 
-### Sunday, 10. June 2018
+### Sunday, 17. June 2018
 
-| Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Tsubasa2 | ![][flag_AU] | ![][flag_TW] | qoot8123 | **06:00 UTC** | 16:00 UTC +10 | 14:00 UTC +8 |
-| TS_LewisLuo | ![][flag_TW] | ![][flag_JP] | puropera209 | **07:00 UTC** | 15:00 UTC +8 | 16:00 UTC +9 |
-| nyanmi-1828 | ![][flag_JP] | ![][flag_MY] | ZethZ161 | **07:00 UTC** | 16:00 UTC +9 | 15:00 UTC +8 |
-| Noko_BSF | ![][flag_JP] | ![][flag_JP] | butter0414 | **08:00 UTC** | 17:00 UTC +9 | 17:00 UTC +9 |
-| ayomikasa | ![][flag_ID] | ![][flag_JP] | KILI3343 | **09:00 UTC** | 16:00 UTC +7 | 18:00 UTC +9 |
+| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| UB | Sanawieck | ![][flag_JP] | ![][flag_TW] | TS_LewisLuo | **06:00 UTC** | 15:00 UTC +9 | 14:00 UTC +8 |
+| LB | Dakry | ![][flag_MY] | ![][flag_MY] | ZethZ161 | **07:00 UTC** | 15:00 UTC +8 | 15:00 UTC +8 |
+| UB | butter0414 | ![][flag_JP] | ![][flag_ID] | ayomikasa | **08:00 UTC** | 17:00 UTC +9 | 15:00 UTC +7 |
+| LB | Noko_BSF | ![][flag_JP] | ![][flag_JP] | KILI3343 | **09:00 UTC** | 18:00 UTC +9 | 18:00 UTC +9 |
 
 -----------------------
 
@@ -121,6 +121,34 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 -----------------------
 
 ## 譜面プール(課題曲)
+
+### Quarterfinals
+
+**[Mappackのダウンロードはこちら！ (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
+
+- NoMod
+  - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809/#taiko/1172641)
+  - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173/#taiko/1602516) 
+  - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157/#taiko/1104911) 
+  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581/#taiko/398568)
+  - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516/#taiko/1575117)
+- Hidden
+  - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265/#taiko/1670210) 
+  - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/519566/#taiko/1103735) 
+- HardRock
+  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/326711/#taiko/725333) 
+  - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/446239/#taiko/958486) 
+- DoubleTime
+  - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](https://osu.ppy.sh/beatmapsets/157896/#taiko/386782) 
+  - [cillia - Melt (mintong89) \[Oni\]](https://osu.ppy.sh/beatmapsets/552915/#taiko/1171884) 
+- Special
+  - [REDALiCE - Volar (yoyo) \[yoyo's Special TaiKo\]](https://osu.ppy.sh/beatmapsets/50932/#taiko/156304)
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552/#taiko/1493980)
+- FreeMod
+  - [An - Abstreact (xfraczynho) \[First Impulse\]](https://osu.ppy.sh/beatmapsets/620725/#taiko/1308564) 
+  - [sak respect for Arata Iiyoshi - Reason of being (rew0825) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/746440/#taiko/1573223)
+- Tiebreaker
+  - [Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](https://osu.ppy.sh/beatmapsets/551087/#taiko/1624252)
 
 ### Round of 16
 
@@ -204,6 +232,22 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ------------------------------------------------------------------------
 
 ## 試合結果
+
+### Round of 16
+
+| Group | Saturday, 2018-06-09 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| UB | Xin Leviathan ![][flag_JP] | 5 | 3 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43186328) |
+| UB | Sanawieck ![][flag_JP] | 5 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
+| UB | Jerry ![][flag_MY] | 4 | 5 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43194107) |
+
+| Group | Saturday, 2018-06-10 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| UB | Tsubasa2 ![][flag_AU] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43218564) |
+| UB | TS_LewisLuo ![][flag_TW] | 5 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43219599) |
+| UB | nyanmi-1828 ![][flag_JP] | 5 | 0 | ![][flag_MY] ZethZ161 | -Win by Default- |
+| UB | Noko_BSF ![][flag_JP] | 0 | 5 | ![][flag_JP] butter0414 | -Win by Default- |
+| UB | ayomikasa ![][flag_ID] | 5 | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43221245) |
 
 ### Group Stage
 
