@@ -103,6 +103,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ### Round of 16
 
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
+
 - NoMod
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](http://osu.ppy.sh/b/1599347&m=2)
   - [Mili - Vulnerability \(Benny-\) \[Frail\]](http://osu.ppy.sh/b/1494074&m=2)
@@ -126,6 +128,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Rita - Bookmark Memories \(F D Flourite\) \[Love\]](http://osu.ppy.sh/b/1645428&m=2)
 
 ### Group Stage
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](http://osu.ppy.sh/b/1439325&m=2)
@@ -162,7 +166,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 23:00 (Sat) UTC-03 | 21:00 (Sat) UTC-05 |
-| South Korea | ![][flag_SK] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
 | Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
 | Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
 | Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
@@ -223,7 +227,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Brazil ![][flag_BR] | 3 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/43233285) |
 | Portugal ![][flag_PT] | 1 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43233278) |
 | Argentina ![][flag_AR] | 0 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43233291) |
-| Brazil ![][flag_BR] | 0 | 4 | ![][flag_DE] Germany | (-Win by default-) |
+| Brazil ![][flag_BR] | 0 | 4 | ![][flag_DE] Germany | -Win by default- |
 | Italy ![][flag_IT] | 1 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/43235107) |
 | Colombia ![][flag_CO] | 0 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43235120) |
 | Sweden ![][flag_SE] | 3 | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43236583) |
