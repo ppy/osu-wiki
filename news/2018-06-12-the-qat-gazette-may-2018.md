@@ -31,9 +31,7 @@ Beatmap Nominator badges have arrived! Some of you may have already seen these a
 
 These are given in levels, each denoting the number of years a Beatmap Nominator or member of the Beatmap Appreciation Team pre-2014 have served, up to 5 years. The minimum time required to qualify for one of these badges is 2 years total, consecutive or nonconsecutive. As we progress through the year, we are sure to see more and more people receive badges!
 
-<p align="center">
-  <img src="/wiki/shared/news/2018-06-12-the-qat-gazette-april-2018/BNbadges_blog_600w.jpg">
-</p>
+![](/wiki/shared/news/2018-06-12-the-qat-gazette-april-2018/BNbadges_blog_600w.jpg)
 
 This isn’t limited only to Beatmap Nominators though. Quality Assurance Team members will receive a badge as well after three years of service to recognize their contribution.
 
