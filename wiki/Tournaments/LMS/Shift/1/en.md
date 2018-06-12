@@ -42,18 +42,42 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 | Management and Organization | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Map Selectors | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Commentators | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_HK] [akali393394](https://osu.ppy.sh/users/9686628), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Streamer | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
+| Streamers | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Referees | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| Referees | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008) |
 
 ## Links
 
 - [Official Forums Thread](https://osu.ppy.sh/community/forums/topics/744163)
-- [Livestream](https://www.twitch.tv/osutaikolive)
 - [Official LMS Discord](https://discord.gg/wEkYka)
+- [Livestream](https://www.twitch.tv/osutaikolive)
 - [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
-- [Match Schedules & Groups](https://docs.google.com/spreadsheets/d/1OmEe5J_os3fB95weFNtoXTdUD4wymnBH73m5x7CCb9I/edit?usp=sharing)
 - [Mappool Suggestions Form](https://docs.google.com/forms/d/e/1FAIpQLSdoInV0tQksRlZDgpk5tN06Mxa2illONxm0mEgX22shniuqwg/viewform)
+- [Match Schedules & Groups](https://docs.google.com/spreadsheets/d/1OmEe5J_os3fB95weFNtoXTdUD4wymnBH73m5x7CCb9I/edit?usp=sharing)
+- [LMS: Shift Cup Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml#)
+- [Challonge Brackets & Predictions](https://challonge.com/96vafjot)
+
+-----------------------
+
+## Match Schedule: Round of 16
+
+### Saturday, 16.June 2018
+
+| Group | Team A | Team B | Match Time (UTC) | Bracket |
+| :---: | ---: | :--- | :---: | :---: |
+| C3-A2 | 迫真osu!taiko部 | TheLegendary MC + shu | **09:00 UTC** | Upper |
+| E1-D2 | あ | Needs Some Nosso Samba 1212 | **11:00 UTC** | Upper |
+| F1-C2 | Welcome to otu! | Roko-Don's Taiko Cheeks | **12:00 UTC** | Upper |
+| C1-F2 | V E R Y S T R O N G T E A M | Where's eiuh | **13:00 UTC** | Upper |
+| A1-A3 | AFK | Kong Donkey Donkey Kong | **15:00 UTC** | Upper |
+| D1-E2 | The Spanish Inquisition | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | **17:00 UTC** | Upper |
+
+### Sunday, 17.June 2018
+
+| Group | Team A | Team B | Match Time (UTC) | Bracket |
+| :---: | ---: | :--- | :---: | :---: |
+| G1-B2 | Pyon Pyon Usagi | :b:erkele | **11:00 UTC** | Upper |
+| B1-G2 | Noko Pan Pan | FLip-FLop | **12:00 UTC** | Upper |
 
 -----------------------
 
@@ -94,6 +118,37 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 ## Mappool
 
+### Round of 16
+
+**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/82xuf7gzs4pobtt/LMSS%20-%20R16.rar?dl=1)**
+
+- NoMod
+  - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063/#taiko/1528896) 
+  - [Hommarju - HYENA (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/698586/#taiko/1479510) 
+  - [t+pazolite - FUJIN Rumble (tpz Overheat Remix) (Dargin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/699387/#taiko/1481060)
+- Hidden
+  - [Hitoshizuku-P x Yama - Twilight nighT (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/685762/#taiko/1451613) 
+  - [brz1128 - Plumage (asuasu_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/690676/#taiko/1461687) 
+  - [CY8ER - Natsukoi (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/684599/#taiko/1448825) 
+- HardRock
+  - [Chroma - Pon-Pon-Pompoko Dai-Sen-Saw! (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/448109/#taiko/961814) 
+  - [Hommarju - Crazy Jackpot (Lno) \[Crazy Oni\]](https://osu.ppy.sh/beatmapsets/744408/#taiko/1569566) 
+  - [Thaehan - Help (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/715912/#taiko/1512689)
+- DoubleTime
+  - [Rin' - Asuka (cmn_891127) \[Taiko\]](https://osu.ppy.sh/beatmapsets/52640/#taiko/160826) 
+  - [M2U - A Bella! (feat. Lucy) (Chromoxx) \[Chromoxx' Oni\]](https://osu.ppy.sh/beatmapsets/541101/#taiko/1184544) 
+  - [Shawn Wasabi - Marble Soda (Stingy) \[Oni Zero\]](https://osu.ppy.sh/beatmapsets/598830/#taiko/1265768) 
+- FreeMod
+  - [White Rose - Renai Yuusha (asuasu_yura) \[Yura's Inner Oni\]](https://osu.ppy.sh/beatmapsets/792164/#taiko/1662452) 
+  - [Asterisk - Finder(Extended Mix) (EdamaMe411) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639640/#taiko/1356604) 
+  - [Hommarju feat. R. Cena - Chousai Kenbo Sengen (Gezoda) \[Gezo's Oni\]](https://osu.ppy.sh/beatmapsets/689734/#taiko/1564485) 
+- Extra
+  - [lapix - YOLO ft. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229/#taiko/1526616) 
+  - [Lulickma - Thank You for Calling! (Dainesl) \[Dain's Inner Oni\]](https://osu.ppy.sh/beatmapsets/681633/#taiko/1456720)
+  - [Sadkey - Further (Airuei Redo) (Nifty) \[Discovery\]](https://osu.ppy.sh/beatmapsets/741764/#taiko/1564820)
+- Tiebreaker
+  - [Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381/#taiko/1639326) 
+
 ### Group Stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1)**
@@ -124,6 +179,57 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
   - [IOSYS - Mushi Miko Unya no Happy-py (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/716658/#taiko/1514303)
 - Tiebreaker
   - [Camellia - ANOMALY (Nepuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/666077/#taiko/1456622) 
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Group | 2018-06-09 & 2018-06-10 |  |  |  |  |
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| A | V E R Y S T R O N G T E A M | 4 | 0 | Furries of the Storm | [#1](https://osu.ppy.sh/community/matches/43188516) |
+| A | TheLegendary MC + shu | 4 | 1 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43189811) |
+| A | TheLegendary MC + shu | 1 | 4 | V E R Y S T R O N G T E A M | [#1](https://osu.ppy.sh/community/matches/43193162) |
+| A | V E R Y S T R O N G T E A M | 4 | 1 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43222396) |
+| A | Furries of the Storm | 0 | 4 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43224918) |
+| A | TheLegendary MC + shu | 4 | 2 | Furries of the Storm | [#1](https://osu.ppy.sh/community/matches/43230115) |
+| B | Noko Pan Pan | 4 | 1 | Bola and his friends | [#1](https://osu.ppy.sh/community/matches/43191340) |
+| B | South Brazil | 0 | 4 | Noko Pan Pan | [#1](https://osu.ppy.sh/community/matches/43193353) |
+| B | South Brazil | 0 | 4 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43203980) |
+| B | South Brazil | 4 | 2 | Bola and his friends | [#1](https://osu.ppy.sh/community/matches/43211052) |
+| B | Noko Pan Pan | 4 | 1 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43225033) |
+| B | Bola and his friends | 0 | 4 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43231970) |
+| C | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | 1 | 4 | Welcome to otu! | [#1](https://osu.ppy.sh/community/matches/43191159), [#2](https://osu.ppy.sh/community/matches/43192649) |
+| C | 迫真osu!taiko部 | 0 | 4 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | [#1](https://osu.ppy.sh/community/matches/43213556) |
+| C | 迫真osu!taiko部 | 4 | 2 | Welcome to otu! | [#1](https://osu.ppy.sh/community/matches/43221506) |
+| C | 迫真osu!taiko部 | 4 | 3 | SagiriLovers Reborn | [#1](https://osu.ppy.sh/community/matches/43223691) |
+| C | SagiriLovers Reborn | 0 | 4 | Welcome to otu! | [#1](https://osu.ppy.sh/community/matches/43225206) |
+| C | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | 4 | 2 | SagiriLovers Reborn | [#1](https://osu.ppy.sh/community/matches/43226306) |
+| D | Illness liLin | 0 | 4 | The Power is Yours | [#1](https://osu.ppy.sh/community/matches/43186611) |
+| D | Illness liLin | 0 | 4 | AFK | [#1](https://osu.ppy.sh/community/matches/43186611) |
+| D | AFK | 4 | 0 | The Power is Yours | [#1](https://osu.ppy.sh/community/matches/43194555) |
+| D | AFK | 4 | 0 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43209695) |
+| D | The Power is Yours | 1 | 4 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43213758) |
+| D | Illness liLin | 1 | 4 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43214631) |
+| E | Kong Donkey Donkey Kong | 0 | 4 | あ | [#1](https://osu.ppy.sh/community/matches/43160856) |
+| E | Mujuuryoku | 0 | 4 | Truncated OCTAheDons | [#1](https://osu.ppy.sh/community/matches/43162810) |
+| E | Mujuuryoku | 0 | 4 | あ | [#1](https://osu.ppy.sh/community/matches/43178169) |
+| E | Kong Donkey Donkey Kong | 4 | 0 | Mujuuryoku | [#1](https://osu.ppy.sh/community/matches/43186565) |
+| E | Kong Donkey Donkey Kong | 4 | 1 | Truncated OCTAheDons | [#1](https://osu.ppy.sh/community/matches/43201925) |
+| E | Truncated OCTAheDons | 0 | 4 | あ | [#1](https://osu.ppy.sh/community/matches/43206231) |
+| F | The Spanish Inquisition | 4 | 1 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43189735) |
+| F | The Spanish Inquisition | 4 | 0 | logic is half ＢＬＡＣＫ! | [#1](https://osu.ppy.sh/community/matches/43199870) |
+| F | Roko-Don's Taiko Cheeks | 4 | 1 | Loss.jpg | [#1](https://osu.ppy.sh/community/matches/43220430) |
+| F | Roko-Don's Taiko Cheeks | 4 | 0 | logic is half ＢＬＡＣＫ! | [#1](https://osu.ppy.sh/community/matches/43223663) |
+| F | Loss.jpg | 2 | 4 | logic is half ＢＬＡＣＫ! | [#1](https://osu.ppy.sh/community/matches/43227433) |
+| F | The Spanish Inquisition | 4 | 0 | Loss.jpg | [#1](https://osu.ppy.sh/community/matches/43229857) |
+| G | Tatacon PH | 1 | 4 | We know de wae  | [#1](https://osu.ppy.sh/community/matches/43159216) |
+| G | FLip-FLop | 4 | 0 | We know de wae  | [#1](https://osu.ppy.sh/community/matches/43161554) |
+| G | Tatacon PH | 1 | 4 | FLip-FLop | [#1](https://osu.ppy.sh/community/matches/43187411) |
+| G | Pyon Pyon Usagi | 4 | 3 | FLip-FLop | [#1](https://osu.ppy.sh/community/matches/43222375) |
+| G | Pyon Pyon Usagi | 4 | 0 | Tatacon PH | [#1](https://osu.ppy.sh/community/matches/43222375) |
+| G | Pyon Pyon Usagi | 4 | 1 | We know de wae  | [#1](https://osu.ppy.sh/community/matches/43226727) |
 
 ------------------------------------------------------------------------
 
