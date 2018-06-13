@@ -4,7 +4,7 @@
 
 In the main menu, click `Options` or press `O` (or press `Ctrl` + `O` in almost any screen) to access the options sidebar and change the way osu! behaves. Once the options menu is opened, type anywhere to search for a specific setting. The searchbar's text will shake if the search query has no results.
 
-When a setting that has a default value is changed, the gray vertical bar on the left will glow yellow. Clicking on this will reset the value back to its default value.
+When a setting that has a default value is changed, the grey vertical bar on the left will glow yellow. Clicking on this will reset the value back to its default value.
 
 ## General
 
@@ -377,7 +377,7 @@ This section is about chat, spectators, multi, and osu!direct.
 
 ![Maintenance icon](img/maintenance.jpg "Maintenance icon")
 
-This section is about beatmaps, and updates.
+This section is about beatmaps and updates.
 
 ### General
 
