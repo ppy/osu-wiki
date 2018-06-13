@@ -255,7 +255,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
     - You may not choose to revive yourself if playing as the last member (1 vs 3, for example).
     - Players may swap freely between each other for each map.
     - More information to the Revive system are in [Stage Instructions](#stage-instructions) and [Match Instructions](#match-instructions).
-13. Revive are always assigned to the active player.
+13. Revive is always assigned to the active player.
     - During Group Stage, each team is given 1 Revive.
     - During Round of 16 and Quarterfinals, each team is given 2 Revives.
     - During and after Semifinals, each team is given 3 Revives.
