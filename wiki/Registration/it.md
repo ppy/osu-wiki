@@ -1,6 +1,4 @@
----
-outdated: true
----
+
 # Registrazione
 
 *Attenzione: Il possesso di account multipli è in ogni momento una violazione delle [regole di osu!](/wiki/Rules)*
