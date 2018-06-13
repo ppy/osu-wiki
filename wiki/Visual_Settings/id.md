@@ -1,6 +1,6 @@
 # Pengaturan Visual
 
-![Contoh Pengaturan Visual](./VisualSettings.jpg "Contoh Pengaturan Visual")
+![Contoh Pengaturan Visual](img/VisualSettings.jpg "Contoh Pengaturan Visual")
 
 **Pengaturan Visual** adalah hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
 
@@ -11,7 +11,7 @@ Alternatif lainnya, anda dapat mengakses tampilan Pengaturan Visual dengan menun
 ## Pilihan yang tersedia
 
 | Nama | Pengaruh | Catatan |
-|:---:|:---|:---|
+| --- | --- | --- |
 | Keredupan Latar Belakang | Membuat playfield lebih gelap. | Selama istirahat, nilai redup adalah 30% dari nilai yang ditetapkan atau 0%. Tidak ada pengaruh khusus jika keredupan disetel menjadi 100%. Fungsi ini juga membuat elemen storyboard lebih gelap jika keredupan disetel 100%. |
 | Nonaktifkan storyboard | Menghapus semua elemen storyboard. Tidak berpengaruh pada Kiai Time dan video latar belakang. | Dalam maps yang memiliki peringatan epilepsi, fungsi ini direkomendasikan untuk pemain yang memiliki masalah dengan epilepsi. Opsi ini dinonaktifkan jika tidak ada storyboard untuk dimainkan. |
 | Abaikan skin bawaan beatmap | Tidak akan menggunakan skin kustom dari beatmap, jika ada. Tetapi akan menggunakan skin yang dipilih pemain sebagai gantinya. | Perlu memulai ulang untuk menerapkannya.  |
