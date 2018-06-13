@@ -5,7 +5,7 @@ It is an exclusive tournament where only players who have reached semi-finals in
 
 The tournament brackets can be found on the [Challonge page](https://challonge.com/rmotinvitational5). Most of the information here complies with the [forum post](/community/forums/topics/741126).
 
-![France][flag_FR] [Prosdokies](/users/3852436 "Prosdokies") won the fifth Invitational, beating ![Russian Federation][flag_RU] [Well Halen](/users/8660244 "Well Halen") in the Grand Finals
+![][flag_FR] [Prosdokies](/users/3852436 "Prosdokies") won the fifth Invitational, beating ![][flag_RU] [Well Halen](/users/8660244 "Well Halen") in the Grand Finals
 
 ## Schedule
 
@@ -22,16 +22,16 @@ This RMoT Invitational was held over three weekends.
 
 ## Staff
 
-| Role              | Member                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Host              | ![Slovenia][flag_SI] [Redavor](/users/3328606 "Redavor")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Admins            | ![Slovenia][flag_SI] [DomenBzo](/users/3450825 "DomenBzo"), ![Slovenia][flag_SI] [kristi71111](/users/3826105 "kristi71111"), ![Turkey][flag_TR] [oralekin](/users/7631823 "oralekin")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Moderators        | ![Netherlands][flag_NL] [Godot](/users/6466477 "Godot"), ![Germany][flag_DE] [Niegth](/users/1991114 "Niegth"), ![United States of America][flag_US] [You Watanabe](/users/3188911 "You Watanabe")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Mappool Selectors | ![Thailand][flag_TH] [GuChangeDeWorld](/users/7125579 "GuChangeDeWorld"), ![United States][flag_US] [Joezapy](/users/6725659 "Joezapy"), ![Canada][flag_CA] [Meow-Mix](/users/3021634 "Meow Mix")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Graphic Designers | ![Malaysia][flag_MY] [Xeious](/users/5357146 "Xeious")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Streamers         | ![United States of America][flag_US] [\_p0ke\_](/users/5434711 "\_p0ke\_"), ![Sweden][flag_SE] [BeatingHeart](/users/4586549 "BeatingHeart"), ![Poland][flag_PL] [Dabis](/users/509575 "Dabis"), ![Finland][flag_FI] [Lefafel](/users/2295850 "Lefafel"), ![Netherlands][flag_NL] [Mirai Subject](/users/5639709 "Mirai Subject"), ![United Kingdom][flag_GB] [OzzyOzborne](/users/5377173), ![Russian Federation][flag_RU] [Willjoy](/users/2484373)                                                                                                                                                                                                                                  |
-| Commentators      | ![Singapore][flag_SG] [Anfang](/users/9424243 "Anfang"), ![Sweden][flag_SE] [ErroTheCube](/users/4425262 "ErroTheCube"), ![Malaysia][flag_MY] [Espalza](/users/8355574 "Espalza"), ![Australia][flag_AU] [Grassy](/users/8067959 "Grassy"), ![Austria][flag_AT] [GumalaOC](/users/5367718 "GumalaOC"), ![Philippines][flag_PH] [kristoffer09](/users/3474344 "kristoffer09"), ![Philippines][flag_PH] [SilentVoice](/users/9570552 "SilentVoice"), ![Singapore][flag_SG] [woahsia](/users/195946 "woahsia")                                                                                                                                                                            |
-| Referees          | ![Philippenes][flag_PH] [Deadpulse](/users/8575527 "Deadpulse"), ![Germany][flag_DE] [DungeonFace](/users/1991031 "DungeonFace"), ![United States of America][flag_US] [Elcheer](/users/4420014 "Elcheer"), ![Poland][flag_PL] [HAEN24](/users/4390077 "HAEN24"), ![Singapore][flag_SG] [Kumabread](/users/7210491 "Kumabread"), ![Poland][flag_PL] [MagBlood](/users/6178640 "MagBlood"), ![Russian Federation][flag_RU] [NikerVM](/users/3618495 "NikerVM"), ![Russian Federation][flag_RU] [Soquire](/users/3618495 "Soquire"), ![United Kingdom][flag_GB] [Stedoss](/users/8331546 "Stedoss"),![United States of America][flag_US] [YoshiLover456](/users/6843383 "YoshiLover456") |
+| Role | Member |
+| --- | --- |
+| Host  | ![][flag_SI] [Redavor](/users/3328606 "Redavor") |
+| Admins | ![][flag_SI] [DomenBzo](/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](/users/7631823 "oralekin") |
+| Moderators | ![][flag_NL] [Godot](/users/6466477 "Godot"), ![][flag_DE] [Niegth](/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](/users/3188911 "You Watanabe") |
+| Mappool Selectors | ![][flag_TH] [GuChangeDeWorld](/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](/users/3021634 "Meow Mix") |
+| Graphic Designers | ![][flag_MY] [Xeious](/users/5357146 "Xeious") |
+| Streamers | ![][flag_US] [\_p0ke\_](/users/5434711 "\_p0ke\_"), ![][flag_SE] [BeatingHeart](/users/4586549 "BeatingHeart"), ![][flag_PL] [Dabis](/users/509575 "Dabis"), ![][flag_FI] [Lefafel](/users/2295850 "Lefafel"), ![][flag_NL] [Mirai Subject](/users/5639709 "Mirai Subject"), ![][flag_GB] [OzzyOzborne](/users/5377173), ![][flag_RU] [Willjoy](/users/2484373) |
+| Commentators | ![][flag_SG] [Anfang](/users/9424243 "Anfang"), ![][flag_SE] [ErroTheCube](/users/4425262 "ErroTheCube"), ![][flag_MY] [Espalza](/users/8355574 "Espalza"), ![][flag_AU] [Grassy](/users/8067959 "Grassy"), ![][flag_AT] [GumalaOC](/users/5367718 "GumalaOC"), ![][flag_PH] [kristoffer09](/users/3474344 "kristoffer09"), ![][flag_PH] [SilentVoice](/users/9570552 "SilentVoice"), ![][flag_SG] [woahsia](/users/195946 "woahsia") |
+| Referees | ![][flag_PH] [Deadpulse](/users/8575527 "Deadpulse"), ![][flag_DE] [DungeonFace](/users/1991031 "DungeonFace"), ![][flag_US] [Elcheer](/users/4420014 "Elcheer"), ![][flag_PL] [HAEN24](/users/4390077 "HAEN24"), ![][flag_SG] [Kumabread](/users/7210491 "Kumabread"), ![][flag_PL] [MagBlood](/users/6178640 "MagBlood"), ![][flag_RU] [NikerVM](/users/3618495 "NikerVM"), ![][flag_RU] [Soquire](/users/3618495 "Soquire"), ![][flag_GB] [Stedoss](/users/8331546 "Stedoss"), ![][flag_US] [YoshiLover456](/users/6843383 "YoshiLover456") |
 
 ## Prizes
 
@@ -55,28 +55,29 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 | Third Place  | 6 Points  |
 | Fourth Place | 3 Points  |
 
-![United Kingdom][flag_GB] [Olii](/users/7683305 "Olii") won the predictions; with ![Slovenia][flag_SI] [Redavor](/users/3328606 "Redavor")  in second place, and ![Poland][flag_PL] [Malson](/users/6047395 "Malson") in third place.
+![][flag_GB] [Olii](/users/7683305 "Olii") won the predictions, with ![][flag_SI] [Redavor](/users/3328606 "Redavor") in second place, and ![][flag_PL] [Malson](/users/6047395 "Malson") in third place.
 
 ## Players
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
 
-- ![Russian Federation][flag_RU] [\_Suzuha](/users/8445602 "\_Suzuha")
-- ![Norway][flag_NO] [Bissas](/users/7618918 "Bissas")
-- ![United States of America][flag_US] [diamondturtle01](/users/4118117 "diamondturtle01")
-- ![Lithuania][flag_LT] [Eismis](/users/1436793 "Eismis")
-- ![Morocco][flag_MA] [iTzAshraf](/users/10285023 "iTzAshraf")
-- ![United States of America][flag_US] [jppz](/users/7889571 "jppz")
-- ![Austria][flag_AU] [Klein-](/users/2153933 "Klein-")
-- ![Russian Federation][flag_RU] [KoloMl](/users/6544403 "KoloMl")
-- ![Russian Federation][flag_RU] [Nogad](/users/6488077 "Nogad")
-- ![United Kingdom][flag_GB] [Olii](/users/7683305 "Olii")
-- ![Brazil][flag_BR] [PlayPen](/users/5094351 "PlayPen")
-- ![France][flag_FR] [Prosdokies](/users/3852436 "Prosdokies")
-- ![Russian Federation][flag_RU] [Well Halen](/users/8660244 "Well Halen")
-- ![Ukraine][flag_UA] [Xelite](/users/7793117 "Xelite")
+- ![][flag_RU] [\_Suzuha](/users/8445602 "\_Suzuha")
+- ![][flag_NO] [Bissas](/users/7618918 "Bissas")
+- ![][flag_US] [diamondturtle01](/users/4118117 "diamondturtle01")
+- ![][flag_LT] [Eismis](/users/1436793 "Eismis")
+- ![][flag_MA] [iTzAshraf](/users/10285023 "iTzAshraf")
+- ![][flag_US] [jppz](/users/7889571 "jppz")
+- ![][flag_AU] [Klein-](/users/2153933 "Klein-")
+- ![][flag_RU] [KoloMl](/users/6544403 "KoloMl")
+- ![][flag_RU] [Nogad](/users/6488077 "Nogad")
+- ![][flag_GB] [Olii](/users/7683305 "Olii")
+- ![][flag_BR] [PlayPen](/users/5094351 "PlayPen")
+- ![][flag_FR] [Prosdokies](/users/3852436 "Prosdokies")
+- ![][flag_RU] [Well Halen](/users/8660244 "Well Halen")
+- ![][flag_UA] [Xelite](/users/7793117 "Xelite")
 
 **Notice:** Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament: filler players.
+
 The filler players are chosen according to a few criteria in the following priority:
 
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
@@ -84,7 +85,7 @@ The filler players are chosen according to a few criteria in the following prior
 3. Number of times participated in RMoT
 4. Current PP
 
-![Malaysia][flag_MY] [Aasheda\_](/users/7614055 "Aasheda\_"), ![United States of America][flag_US] [Likean00b](/users/4860447 "Likean00b"), ![Poland][flag_PL] [My Angel Erwin](/users/6814521 "My Angel Erwin") and ![Russian Federation][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") gained the right to participate in the Invitational, ![Russian Federation][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") being seeded lower than the other three.
+![][flag_MY] [Aasheda\_](/users/7614055 "Aasheda\_"), ![][flag_US] [Likean00b](/users/4860447 "Likean00b"), ![][flag_PL] [My Angel Erwin](/users/6814521 "My Angel Erwin") and ![][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") gained the right to participate in the Invitational, ![][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") being seeded lower than the other three.
 
 ## Rules
 
@@ -99,18 +100,16 @@ The filler players are chosen according to a few criteria in the following prior
 ### Match Rules
 
 1. The referee will create the room and invite or move the players in.
-1. The players will roll to determine the order of picking warmups and maps.
-1. The higher roller will pick the first warmup map.
-1. The lower roller will ban first, the higher roller will pick first.
-    - FreeMod is forced mod, meaning every player has to use at least one mod.
-      - Tiebreaker is not forced mod but you may choose a mod.
-      - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
+2. The players will roll to determine the order of picking warmups and maps.
+3. The higher roller will pick the first warmup map.
+4. The lower roller will ban first, the higher roller will pick first.
+5. FreeMod is forced mod, meaning every player has to use at least one mod.
+6. Tiebreaker is not forced mod but you may choose a mod.
+7. Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 ## Mappool
 
-There is only one mappool for all matches, made of beatmaps from the last four RMoT mappools.
-There are six tiebreaker beatmaps, one for each stage.
-Every tiebreaker from the last four RMoT's and two new beatmaps are picked for tiebreaker.
+There is only one mappool for all matches, made of beatmaps from the last four RMoT mappools. There are six tiebreaker beatmaps, one for each stage. Every tiebreaker from the last four RMoT's and two new beatmaps are picked for tiebreaker.
 
 [Download the mappack here!](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)
 
