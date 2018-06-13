@@ -18,7 +18,7 @@ Taiko LMS: Shift Cup
 | Registration Phase | 2018-04-11/2018-06-02 (09:00 UTC) |
 | Group Stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
-| Quarterfinals | 2018-06-23/2018-07-24 |
+| Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |
 | Finals | 2018-07-07/2018-07-08 |
 | Grand Finals | 2018-07-15 |
@@ -61,7 +61,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 ## Match Schedule: Round of 16
 
-### Saturday, 16.June 2018
+### Saturday, 16 June 2018
 
 | Group | Team A | Team B | Match Time (UTC) | Bracket |
 | :---: | ---: | :--- | :---: | :---: |
@@ -72,7 +72,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 | A1-A3 | AFK | Kong Donkey Donkey Kong | **15:00 UTC** | Upper |
 | D1-E2 | The Spanish Inquisition | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | **17:00 UTC** | Upper |
 
-### Sunday, 17.June 2018
+### Sunday, 17 June 2018
 
 | Group | Team A | Team B | Match Time (UTC) | Bracket |
 | :---: | ---: | :--- | :---: | :---: |
