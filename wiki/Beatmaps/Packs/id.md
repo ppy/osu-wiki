@@ -34,9 +34,9 @@ Paket beatmap bisa ditemukan dan diunduh dari: [laman osu! Beatmaps Packs](https
 
 ### Torrenting
 
-> Pemberitahuan: Beatmap torrents sepertinya sudah mati di kalangan komunitas osu!.
+> Pemberitahuan: Beatmap torrents sepertinya sudah tidak aktif lagi di kalangan komunitas osu!.
 
 - [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
+  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) oleh [Hiramiya](https://osu.ppy.sh/u/1313441)
 
 Anda akan membutuhkan banyak ruang penyimpanan (dan bandwidth) untuk torrent semua paket ini.
