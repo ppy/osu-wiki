@@ -14,7 +14,7 @@ The annual community driven singing contest - osu!idol! It's where contestants a
 
 ### What should I do?
 
-All you need to do is make a 30 second recording of your best performance without any background music. We'll be taking submissions up to a month so no theres no need to rush! Practice and make most of your only shot, otherwise you'd have to wait for next year!
+All you need to do is make a small recording of around 30 seconds with your best performance without any background music. We'll be taking submissions up to a month so no theres no need to rush! Practice and make most of your only shot, otherwise you'd have to wait for next year!
 
 ### Did anyone say prizes?
 
@@ -26,7 +26,7 @@ Top three will receive supporter tags with a bonus for the winner - the osu!idol
 
 ### Sign up where?!
 
-Check out the [**official thread**](https://osu.ppy.sh/community/forums/topics/752088) for the contest rules, where to submit, details on the contest and discussion. Come join our [Discord server](https://discord.gg/7hZgNeH) to receive announcements and updates, ask questions, and join in the banter with your fellow contestants! 
+Check out the [**official thread**](https://osu.ppy.sh/community/forums/topics/752088) for the contest rules, where to submit, details on the contest and discussion. Come join our [Discord server](https://discord.gg/7hZgNeH) for announcements and updates, ask questions, and a friendly chat! 
 
 —Flanster
 
