@@ -3,10 +3,10 @@
 **Beatmapping** adalah proses pembuatan [beatmaps](/wiki/beatmaps) di _osu!_ untuk pengguna agar dapat dimainkan.
 Ini termasuk pemilihan lagu, [timing](/wiki/timing), peletakan [objects](/wiki/objects), dan (opsional) [skinning](/wiki/skinning) dan [storyboarding](/wiki/storyboarding).
 
-Mapper biasanya ingin beatmapnya [ranked](/wiki/Beatmaps/#ranked) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
+Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps/#ranked) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
 
-_osu!_ adalah permainan musik game, Musik yang kamu pilih harus memiliki beat yang jelas dan konstan.
-Hindari musik yang memiliki tempo (kecepatan) berubah atau musik lambat sampai kamu mendapatkan pengalaman dan terbiasa dalam membuat beatmap.
+osu! adalah permainan berbasis musik, Musik yang kamu pilih harus memiliki beat yang jelas dan konstan.
+Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai kamu mendapatkan pengalaman dan terbiasa dalam membuat beatmap.
 
 ## Memulai
 
@@ -26,7 +26,7 @@ Ketika akan membuat [mapset](/wiki/mapset) baru, Kamu akan melihat dialog ini se
 Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/difficulty) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
 
-Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat dirubah nanti.
+Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat diubah nanti.
 Klik `OK`, dan kamu akan memulai proses pembuatan beatmap!
 Langkah selanjutnya adalah mengisi timing kedalam beatmap kamu.
 
@@ -36,7 +36,7 @@ _Lihat juga: [Timing](/wiki/Timing)_
 
 **Timing itu penting!**
 Beatmap yang memiliki timing yang salah tidak dipertimbangkan untuk ranking.
-Kamu harus sudah yakin timing kamu sudah bagus atau tidak sebelum menambahkan [hit objects](/wiki/hit_objects).
+Kamu harus sudah yakin timing kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
 
 Jika kamu tidak bisa menentukan timing, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
