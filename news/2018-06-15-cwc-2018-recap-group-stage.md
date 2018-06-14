@@ -1,3 +1,9 @@
+---
+layout: post
+title: "osu!catch World Cup 2018: Group Stage Recap"
+date: 2018-06-15 12:00:00 +0000
+---
+
 Another year of furious fruit catching competition is well and truly upon us, with the world’s best duking it out on the grandest stage of all for your viewing pleasure. Missed any of the action? Eager to see where we’re heading next? All the juicy details can be found within!
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
@@ -16,7 +22,7 @@ What screams excitement and high-stakes drama more than anything else? Why, four
 
 This block featured two agonising defeats for Thailand and Vietnam, the latter participating in their first ever osu!catch World Cup, as well as a closely-fought duel between Norway and the Russian Federation. However, the highlight was undoubtedly a clash of epic magnitude between France and Taiwan, which had everyone out of their seats as the two teams fought to the bitter end, trading leads back and forth. Taiwan would eventually prevail, eking out a mere 3,500 point lead on the final spinner to complete their first of two tiebreaker victories, also triumphing over Canada early on Sunday morning.
 
-![](wiki/shared/news/2018-06-15-cwc-2018-recap-group-stage/FRvTW_game7_720w.jpg)
+![](/wiki/shared/news/2018-06-15-cwc-2018-recap-group-stage/FRvTW_game7_720w.jpg)
 
 The early hours of Sunday morning saw Mexico fight through the pain to compete in three consecutive matches and secure their place in the Round of 16, but it was a somewhat concerning performance by defending Champions South Korea, who started out slowly in each of their matches before limiting the damage. It would have been unthinkable a year ago that South Korea could be taken to a tiebreaker situation in the Group Stages, but Poland very nearly made that a reality, losing their 6th and final game on the HR pick, [Horie Yui - Asymmetry](https://osu.ppy.sh/b/899608&m=2), by just 550 points.
 
@@ -24,7 +30,9 @@ The early hours of Sunday morning saw Mexico fight through the pain to compete i
 
 The final sessions offered just as much excitement and tension, with a further four matches reaching the dramatic (and by this point, almost _expected_) conclusion of a tiebreaker. An astonishing three of these matches (every match in their Group Stage draw, no less) were contested by Sweden, winning the first two against Australia and Brazil, but sadly not able to complete the three-peat against Germany in the last streamed match of the day.
 
-This match in particular will likely be remembered for a different reason however, in that, with the scoreline at 1-0 in Germany’s favour, Sweden elected to pick the perennially popular [Hige Driver join. SELEN - Dadadadadadadadadada](https://osu.ppy.sh/b/771881&m=2) from the NoMod pool. With both teams feeling red-hot off the back of previous victories, neither was prepared to give an inch to the other. The unthinkable happened, as all six players recorded an identical SS performance, resulting in a tie. But then the unthinkable happened again. And again. And even a fourth time – check the [match history](https://osu.ppy.sh/community/matches/43236583)! At the fifth time of asking, finally the German team made a mistake and allowed Sweden to tie the scores at 1-1, in what was effectively the 6th game of the match. Whilst Germany would eventually go on to take the match victory, both teams showed their incredible skill and determination here, and should be commended.
+This match in particular will likely be remembered for a different reason however, in that, with the scoreline at 1-0 in Germany’s favour, Sweden elected to pick the perennially popular [Hige Driver join. SELEN - Dadadadadadadadadada](https://osu.ppy.sh/b/771881&m=2) from the NoMod pool. With both teams feeling red-hot off the back of previous victories, neither was prepared to give an inch to the other.
+
+The unthinkable happened, as all six players recorded an identical SS performance, resulting in a tie. But then the unthinkable happened again. And again. And even a fourth time – check the [match history](https://osu.ppy.sh/community/matches/43236583)! At the fifth time of asking, finally the German team made a mistake and allowed Sweden to tie the scores at 1-1, in what was effectively the 6th game of the match. Whilst Germany would eventually go on to take the match victory, both teams showed their incredible skill and determination here, and should be commended.
 
 ## Upcoming Stage – Round of 16
 
@@ -40,4 +48,4 @@ Additionally, if you want to show your undying love and support for your favouri
 
 Hopefully you’re now all as excited for the remainder of this osu!catch World Cup as I am, and I look forward to seeing you all this weekend for more thrills, chills and inevitable fruit spills!
 
-**–JBHyperion**
+—JBHyperion
