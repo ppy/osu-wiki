@@ -107,10 +107,10 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 22:00 (Sat) UTC-04 | 21:00 (Sat) UTC-05 |
 | South Korea | ![][flag_KR] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
+| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **11:00 UTC** | 13:00 UTC+02       | 18:00 UTC+07       |
 | Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
 | Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
 | Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
-| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **15:00 UTC** | 17:00 UTC+02       | 22:00 UTC+07       |
 | Germany     | ![][flag_DE] | ![][flag_NL] | Netherlands   | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
 | Sweden      | ![][flag_SE] | ![][flag_US] | United States | **20:00 UTC** | 22:00 UTC+02       | 16:00 UTC-04       |
 
