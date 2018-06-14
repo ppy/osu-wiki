@@ -49,7 +49,7 @@ Beatmap Nominator applications for the **osu! game mode** will be heading your w
 ### Beatmap Nominator Retirements
 While applications are underway to welcome new members to the Beatmap Nominators, some of our hardworking members have departed to explore new horizons and pursue new opportunities. Please give thanks to the following for their contribution to the quality of the ranked section and accessibility to mappers:
 
-[Arrival](https://osu.ppy.sh/users/1694000), [Chromoxx](https://osu.ppy.sh/users/1881639), [Chewin](https://osu.ppy.sh/users/617323), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [juankristal](https://osu.ppy.sh/users/443656), [Julie](https://osu.ppy.sh/users/2420987),  [MBomb](https://osu.ppy.sh/users/3071175), [Nwolf](https://osu.ppy.sh/users/1910766) and [Weber](https://osu.ppy.sh/users/6410432).
+[Arrival](https://osu.ppy.sh/users/1694000), [Chromoxx](https://osu.ppy.sh/users/1881639), [Chewin](https://osu.ppy.sh/users/617323), [dsco](https://osu.ppy.sh/users/4330511), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [juankristal](https://osu.ppy.sh/users/443656), [Julie](https://osu.ppy.sh/users/2420987),  [MBomb](https://osu.ppy.sh/users/3071175), [Nwolf](https://osu.ppy.sh/users/1910766) and [Weber](https://osu.ppy.sh/users/6410432).
 
 ## Within the Quality Assurance Team
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
