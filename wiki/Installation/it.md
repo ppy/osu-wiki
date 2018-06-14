@@ -1,6 +1,3 @@
----
-outdated: true
----
 # Installazione
 
 <!-- *Vedi anche: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
