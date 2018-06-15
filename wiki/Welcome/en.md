@@ -20,12 +20,6 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## Article of the month
-
-*Main page: [Mascots](/wiki/Mascots).*
-
-Meet pippi, Yuzu, Maria, and Mocha; the four mascots of osu!standard, osu!catch, osu!mania, and osu!taiko respectively.
-
 ## Beatmapping
 
 *Main page: [Beatmapping](/wiki/Beatmapping/#getting-started).*
