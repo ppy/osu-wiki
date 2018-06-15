@@ -92,7 +92,7 @@ The Heptakey osu!mania Cup #1
   - [07th Expansion - Sakuratou's Adventure (tangjinxi) \[7K MaX\]](https://osu.ppy.sh/beatmaps/658314)
   - [M2U - A Little Dream (hannanos) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmaps/843076)
   - [enzo + O2i3 - Mentanpindoradora (Fresh Chicken) \[Vermilion\]](https://osu.ppy.sh/beatmaps/1587631)
-  - [Grand Thaw (Vo.nyanta) - SOLROS ~Vocal Edition~ (\_underjoy) \[Helichrysum\]](https://osu.ppy.sh/beatmaps/1670133)
+  - [Grand Thaw (Vo.nyanta) - SOLROS \~Vocal Edition\~ (\_underjoy) \[Helichrysum\]](https://osu.ppy.sh/beatmaps/1670133)
   - [Yeah Yeah Yeahs - Heads Will Roll (JVH-C Remix) (Lusty Platypus) \[ON THA FLOOR\]](https://osu.ppy.sh/beatmaps/1644020)
 - Tiebreaker
   - [Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmaps/844672)
