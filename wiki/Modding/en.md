@@ -78,7 +78,7 @@ However, be weary that the _weird spacing_ can be characteristic of a [jump](/wi
 
 ### Rhythm of Hit Objects
 
-Being that _osu!_ is a rhythm game, sensible rhythm is important.
+Being that osu! is a rhythm game, sensible rhythm is important.
 
 Do not hesitate to suggest if:
 

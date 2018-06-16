@@ -128,7 +128,7 @@ Nous ne permettons cela qu'une fois par compte, choisissez donc bien votre momen
 
 **Oui, absolument. Ceci inclut les ordinateurs partagés tels que les cybercafés et les PC bangs.**
 
-Tant que vous jouez sur votre compte, vous pouvez jouer à _osu!_ n'importe où.
+Tant que vous jouez sur votre compte, vous pouvez jouer à osu! n'importe où.
 
 Si vous jouez depuis une place publique, gardez un œil sur la sécurité de votre compte. Les ordinateurs partagés sont souvent une proie de choix pour les logiciels malintentionnés.
 
@@ -635,7 +635,7 @@ Essayez de fermer tous les autres programmes avant de jouer à osu! si vous renc
 
 **La réponse est très souvent oui, mais vérifiez [stat.ppy.sh](https://stat.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
 
-Si les serveurs sont hors-ligne, ne fermez pas _osu!_ jusqu'à ce que nous corrigions les problèmes et que les serveurs ne reviennent, et le jeu tentera de soumettre les score jusqu'à une heure après avoir été faits avant d'abandonner.
+Si les serveurs sont hors-ligne, ne fermez pas osu! jusqu'à ce que nous corrigions les problèmes et que les serveurs ne reviennent, et le jeu tentera de soumettre les score jusqu'à une heure après avoir été faits avant d'abandonner.
 
 #### Pouvez-vous poster un score que j'ai fait pour moi ?
 

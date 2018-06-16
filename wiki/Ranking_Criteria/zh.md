@@ -3,7 +3,7 @@ Ranking Criteria
 
 这里会列出[官方论坛](https://osu.ppy.sh/forum/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
 
-**注意[行为准则](/wiki/Code_of_Conduct)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
+**注意[行为准则](/wiki/Code_of_Conduct)是 Ranking Criteria 的一部分，适用于 osu! 中所有游戏模式。**
 
 _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。_
 

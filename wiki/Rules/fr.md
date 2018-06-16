@@ -1,13 +1,13 @@
 Règles
 ============
 
-Ces règles sont les bases qui nous aident à garder la communauté d'_osu!_ fun et accueillante pour tout le monde.
+Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun et accueillante pour tout le monde.
 
 Règles de Communauté
 ---------------
 
 1.  **Chaque joueur ne doit avoir qu'*UN* seul compte.** Ce compte c'est vous. Ce n'est personne d'autre - ni votre frère, votre mère, votre sœur, votre ami - c'est VOUS. Ne partagez votre compte avec personne.
-2.  **Soyez bon entre vous.** Le harcèlement ou autre antagonisme n'a pas de place dans la communauté d'_osu!_ Nous sommes ici pour cliquer sur des cercles, taper sur un tambour, attraper des fruits, et frapper jusqu'à dix-huit touches en même temps, pas pour mal se comporter avec les autres.
+2.  **Soyez bon entre vous.** Le harcèlement ou autre antagonisme n'a pas de place dans la communauté d'osu! Nous sommes ici pour cliquer sur des cercles, taper sur un tambour, attraper des fruits, et frapper jusqu'à dix-huit touches en même temps, pas pour mal se comporter avec les autres.
 3.  **Ne soyez pas idiots.** Si à n'importe quel moment vous n'êtes pas sûr de respecter les règles, vous ne les respectez probablement pas.
 4.  **Nous sommes une communauté tout-âges.** Ça signifie que les contenus 18+/NSFW (not safe for work) comme l'usage de drogues ou des discussions à nature sexuelles n'ont rien à faire ici. Exceptions faites pour les endroits où il est indiqué que c'est autorisé, mais généralement, restez neutres.
 5.  **Où les règles ne règnent pas, faites appel au bon sens.** Le jugement à appliquer est décidé à la discrétion de l'administration.
@@ -22,7 +22,7 @@ Règles du Chat En-Jeu
 5.  **Gardez le chat propre et approprié pour une communauté tout-âges, évitez au maximum les sujets NSFW.** Tout ce qui est classifié NSFW n'est pas approprié pour une communauté tout-âges. Faites ce que vous voulez en messages privés (tant que c'est correct) mais gardez les canaux publiques exempt de tout contenu NSFW pour le bien de tous.
 6.  **Soyez conscient de ce que vous partagez avec les autres, surtout si le contenu est potentiellement troublant ou de nature très graphique.** Si vous vous demandez deux fois si un lien est approprié ou non, il ne l'est probablement pas. Évitez les images avec des lumières vives ou stroboscopiques, du gore, des images d'abus ou autre matériel graphique.
 7.  **Gardez les liens pertinents et pointant vers des sites légaux.** Les sites de streaming (ceux ayant une licence comme Animelab et Crunchyroll sont OK) et tout ce qui est lié au "warez" ou aux logiciels piratés de quelque sorte qu'ils soient ne sont pas tolérés, et nous ne les voulons pas dans notre chat. Partager des liens Twitch pour d'autres jeux est toléré, mais SEULEMENT dans `#videogames`.
-8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'_osu!_ est à propos d'_osu!_ et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
+8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'osu! est à propos d'osu! et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
 9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
 Règles du Forum
@@ -39,11 +39,11 @@ Règles du Forum
 Règles de Soumission des Beatmaps
 ---------------------------------
 
-Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Beatmap_Submission_System) en jeu. Les sujets/discussions sont créés via le client _osu!_ lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
+Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Beatmap_Submission_System) en jeu. Les sujets/discussions sont créés via le client osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
 
 Un ensemble plus détaillé de règles pour la construction de beatmap existe, connu sous le nom de [Critères de Classement](/wiki/Ranking_Criteria).
 
-1. **Soyez sûr d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de musiques disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists/), où tout est 100% autorisé pour utilisation dans _osu!_.
+1. **Soyez sûr d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de musiques disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists/), où tout est 100% autorisé pour utilisation dans osu!.
 2.  **Restez sur le thème dans les discussions de Beatmap.** Ces discussions sont à propos de la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui n'est pas en rapport direct avec la beatmap, postez-le dans le forum approprié.
 3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 
