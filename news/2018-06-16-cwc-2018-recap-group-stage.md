@@ -4,11 +4,11 @@ title: "osu!catch World Cup 2018: Group Stage Recap"
 date: 2018-06-16 17:00:00 +0000
 ---
 
-Another year of furious fruit catching competition is well and truly upon us, with the world’s best duking it out on the grandest stage of all for your viewing pleasure. Missed any of the action? Eager to see where we’re heading next? All the juicy details can be found within!
+Another year of furious fruit catching competition has commenced in earnest, with the world’s best duking it out on the grandest stage of all for your viewing pleasure. Missed any of the action? Eager to see where we’re heading next? All the juicy details can be found within!
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Greetings everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here to once again bring you an update on all the action from this year’s edition of the osu!catch World Cup. Once again, more than 180 of the best players, representing 32 countries, are seeking the ultimate prize in fruit catching – a chance to forever etch their names in history as _osu!catch Champions_.
+Greetings everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here to once again bring you an update on all the action from this year’s edition of the osu!catch World Cup. As in previous editions, more than 180 of the best players, representing 32 countries, are seeking the ultimate prize in fruit catching – a chance to forever etch their names in history as _osu!catch Champions_.
 
 The osu!catch World Cup 2018 is already well underway, with the Group Stage having concluded this past weekend, but if you’re keen to find out how your favourite team performed, you’re in luck! VODs from the whole weekend are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 
