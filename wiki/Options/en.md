@@ -2,7 +2,7 @@
 
 ![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
 
-Click `Options`, press `O` in the main menu or press `Ctrl` + `O` in almost any screen to access the options sidebar and change the way osu! behaves.
+In the main menu, click `Options` or press `O` (or press `Ctrl` + `O` in almost any screen) to access the options sidebar and change the way osu! behaves. Once the options menu is opened, type anywhere to search for a specific setting. The searchbar's text will shake if the search query has no results.
 
 From here, type anywhere to search what you want to change.
 The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
@@ -24,14 +24,14 @@ By not signing in, the osu!client will mark you as a "Guest" and you will not be
 
 If you are a guest, you will see these options:
 
-| Name                | Effect                                                                                           | Type     | Default   |
-|---------------------|--------------------------------------------------------------------------------------------------|----------|-----------|
-| `Username`          | Type in your registered osu! username.                                                         | Text     | _(Empty)_ |
-| `Password`          | Type in your password associated with your osu! username.                                      | Text     | _(Empty)_ |
-| `Remember Username` | If checked, this osu!client will remember the username.                                          | Checkbox | `Enabled` |
-| `Remember Password` | If checked, Have the client remember the password.                                               | Checkbox | `Enabled` |
-| `Sign In`           | Start signing yourself in. You can also press `Enter` in the username or password forms.         | Button   |           |
-| `Create an account` | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button   |           |
+| Name | Description | Type | Default |
+| --- | --- | --- | --- |
+| `Username` | Sign in input for your username. | Text | *(empty)* |
+| `Password` | Sign in input for your password. | Password | *(empty)* |
+| `Remember Username` | If checked, the game client will remember the entered username. | Checkbox | `Enabled` |
+| `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed into the game client. | Checkbox | `Disabled` |
+| `Sign In` | Sign into osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
+| `Create an account` | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button |  |
 
 ---
 
@@ -64,11 +64,11 @@ You can also access this by clicking on your player card where available.
 
 ### Updates
 
-| Name                  | Effect                                                                    | Type     | Default           |
-|-----------------------|---------------------------------------------------------------------------|----------|-------------------|
-| `Release stream`      | Display a list of builds that you want to use.                            | Dropdown | `Stable (Latest)` |
-| `osu! is up-to-date!` | Force the osu!client to check for updates again and download them if any. | Button   |                   |
-| `Open osu! folder`    | Opens the local osu! folder (this contains your skins, beatmaps, etc.). | Button   |                   |
+| Name | Description | Type | Default |
+| --- | --- | --- | --- |
+| `Release stream` | Display a list of builds that you want to use. | Dropdown | `Stable` |
+| `osu! is up-to-date!` | Click to force the game client to check for updates again and download them, if any. | Button |  |
+| `Open osu! folder` | Open the local osu! folder, which contains your skins, beatmaps, etc. | Button |  |
 
 ---
 
@@ -88,13 +88,13 @@ This section is about the appearance of your osu!client and parts of the interfa
 
 ### Renderer
 
-| Name                        | Effect                                                                                                        | Type     | Default    |
-|-----------------------------|---------------------------------------------------------------------------------------------------------------|----------|------------|
-| `Frame Limiter`             | Change the frame rate limit. See below for details.                                                           | Dropdown | `120fps`   |
-| `Show FPS Counter`          | Display the FPS counter. This is seen in the bottom-right corner of the screen.                               | Checkbox | `Disabled` |
-| `Compatibility Mode`        | Use the old renderer that osu! used before with older operating systems. This will restart your osu!client. | Checkbox | `Disabled` |
-| `Reduce dropped frames`     | Adjust graphical settings to decrease dropped/stuttered frames.                                               | Checkbox | `Disabled` |
-| `Detect performance issues` | Warn you if another program on your computer may harm your osu!client's performance.                          | Checkbox | `Enabled`  |
+| Name | Description | Type | Default |
+| --- | --- | --- | --- |
+| `Frame Limiter` | Set the frame rate limit. See below for details. | Dropdown | `120fps` |
+| `Show FPS Counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
+| `Compatibility Mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
+| `Reduce dropped frames` | Adjust graphical settings to decrease dropped/stuttered frames. | Checkbox | `Disabled` |
+| `Detect performance issues` | Warn you if another program on your computer may harm your client's performance. | Checkbox | `Enabled` |
 
 ---
 
@@ -437,10 +437,9 @@ b{YYYY}{MM}{DD}.{revision}{type}
 
 ## Trivia
 
-- If you type in a name but leave the password form empty, osu! will use that name when saving the score locally.
-- Opening the options sidebar will automatically trigger `osu! is up-to-date!`'s function (check for updates).
-- The `Seasonal backgrounds` option was added after positive feedback was given to the osu!team.
-  - More details: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
+- If you type in a username but leave the password textbox empty, osu! will use that name when saving the score locally.
+- Opening the options sidebar will automatically trigger `osu! is up-to-date!`'s function (it will begin checking for updates).
+- The `Seasonal backgrounds` option was added after positive feedback was given to the osu!dev team.
 
 ### History
 
