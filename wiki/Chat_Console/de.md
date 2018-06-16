@@ -1,110 +1,113 @@
-# Chat Konsole
+# Chatkonsole
 
-Fast überall in osu! kann die Chat Konsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat` Tabs (unten rechts) aktiviert werden.
+Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) geöffnet werden.
 
-![Chat Konsole im Hauptmenü](Chatconsole1.png "Chat Konsole im Hauptmenü")
+![Chatkonsole im Hauptmenü](Chatconsole1.png "Chatkonsole im Hauptmenü")
 
--   Die Tabs zeigen die zuletzt offenen Channeln an. Um zum jeweiligen Channel zu wechseln, klicke einfach auf den Tab. Eine Liste mit allen öffentlich-zugänglichen Channeln erhält man durch das Klicken des gelben Tabs mit dem Plus drauf (am Ende der Reihe).
--   Die Farbe des Benutzernamens hat verschiedene Bedeutungen.
+- Die verschiedenen Tabs zeigen deine offenen Channel an. Das gelbe Plus-Symbol öffnet eine Liste aller verfügbaren Channel, denen du dann einfach beitreten kannst.
+- Die Farben der Benutzernamen im Chat haben verschiedene Bedeutungen:
 
-| Farbe | Wer?                                                                                                                                                                                                    |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Weiß**   | Du                                                                                                                                                                                                      |
-|**Bleich** | Andere Spieler                                                                                                                                                                                          |
-|**Gelb**   | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                              |
-|**Rot**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") Mitglied |
-|**Grün**   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet.                           |
-|**Blau**   | Private Nachrichten                                                                                                                                                                                     |
-|**Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von osu!                                                                                                                                       |
-|**Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                          |
+ | Farbe | Bedeutung |
+ | ----- | --------- |
+ | **Weiß** | Du |
+ | **Bleich** | Andere Spieler |
+ | **Gelb** | [osu!-Supporter](/wiki/osu!supporter/ "osu!-Supporter") |
+ | **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder des [Quality Assurance Teams](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") |
+ | **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
+ | **Blau** | Private Nachricht |
+ | **Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von osu! |
+ | **Pink** | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") |
 
--   `Show Ticker` Tab: Zeigt die neusten Nachrichten am unteren Bildschirmrand an, auch wenn die Chat Konsole nicht sichtbar ist.
--   `Auto-Hide` Tab: Die Chat Konsole wird während dem Spielen automatisch entfernt, sprich, die Chat Konsole ist nur während dem Intro, Outro und den Pausen vorhanden.
--   `Hide Chat` Tab: Die Chat Konsole wird geschlossen.
+- Klicke auf den `Show Ticker`-Tab, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.
+- Klicke auf den `Auto-Hide`-Tab, um die Chatkonsole während des Spielens automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.
+- Klicke auf den `Hide Chat`-Tab (oder drücke `F8` erneut), um die Chatkonsole zu schließen.
 
-## Erweiterte Chat Konsole
+## Erweiterte Chatkonsole
 
-Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users` Tabs (unten rechts) die Chat Konsole erweitert werden. Als Zusatz zu der Chat Konsole wird ein Panel von Online-Usern aufgelistet, die zeigen, was jemand gerade tut.
+_Die [osu!academy](/wiki/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Multi) behandelt._
 
-![Erweiterte Chat Konsole](Chat_Console-Extended.png "Erweiterte Chat Konsole")
+Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 
-Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel im erweiterten Chat Konsolen Fenster. Standardmäßig wird im Panel folgende Informationen angezeigt: Name, Performance Points, Total Ranked Score, Accuracy, Play Count und Avatar. Wenn der Mauszeiger über dem Panel bewegt wird, werden andere Informationen anzeigt: Name, lokale Uhrzeit, Avatar und Herkunftslandes.
+![Erweiterte Chatkonsole](Chat_Console-Extended.png "Erweiterte Chatkonsole")
 
--   `Filter` Tab: Die Panels lassen sich nach `All`, `Friends`, `Nearby` und `Country` filtern.
-    -   `All`: Alle Panels werden ungefiltert angezeigt.
-    -   `Friends`: Nur deine hinzugefügten Freunde werden angezeigt.
-    -   `Nearby`: Alle in deiner Nähe werden angezeigt.
-    -   `Country`: Alle aus deinem Land werden angezeigt.
--   `Lock Panels` Tab: Stoppt die Sortierung bzw. das Updaten der Panels, wenn andere Spieler online bzw. offline gehen.
--   Die Reihenfolge der Panels lässt sich durch die Tabs `Name`, `Rank`, `Location` und `Time Zone` regeln.
-    -   `Name`: Die Panels werden alphabetisch nach dem Namen des Spielers sortiert.
-    -   `Rank`: Die Ränge der Spieler bestimmen die Reihenfolge der Panels (bester Spieler an 1. Stelle).
-    -   `Location`: Die Panels werden alphabetisch nach dem Namen des Herkunftslandes des Spielers sortiert.
-    -   `Time Zone`: Die Zeitzone der Spieler bestimmt die Reihenfolge der Panels.
--   `World Map` Tab: Zeigt eine Weltkarte an, von wo die online Spieler kommen.
--   Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Mausrad scrollen.
+Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel in der erweiterten Chatkonsole. Standardmäßig werden je Spieler folgende Informationen angezeigt: Name, Gesamtpunktzahl, Rang, allgemeine Accuracy, Play-Anzahl und der Avatar. Wenn der Mauszeiger über das Panel bewegt wird, werden andere Informationen anzeigt: Name, Rang, Avatar, lokale Uhrzeit, Zeitzone, Standort (Land) und, falls vom Nutzer zugelassen, die Stadt und momentane Aktivität.
 
-| Panel-Farben.                                                                                   | Erklärung                                                                                      |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![Spieler ist anwesend](Chat_Console-Idle.png "Spieler ist anwesend")                           | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten.                 |
-| ![Spieler spielt](Chat_Console-Playing.png "Spieler spielt")                                    | **Grau** - Der Spieler spielt gerade eine Beatmap im Solo.                                 |
-| ![Spieler schaut jemanden zu](Chat_Console-Watching.png "Spieler schaut jemanden zu")           | **Hellblau** - Der Spieler sieht entweder jemanden live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
-| ![Spieler editiert eigene Map](Chat_Console-Editing.png "Spieler editiert eigene Map")          | **Rot** - Der Spieler bearbeitet die eigene Beatmap.                                                           |
-| ![Spieler testet eine Map](Chat_Console-Testing.png "Spieler testet eine Map")                  | **Lila** - Der Spieler testet eine Beatmap im Editor.                                                          |
-| ![Spieler lädt eine Map hoch](Chat_Console-Submitting.png "Spieler lädt eine Map hoch")         | **Türkis** - Der Spieler submitted (lädt entweder hoch oder updated) seine Beatmap.                              |
-| ![Spieler modded eine Map](Chat_Console-Modding.png "Spieler modded eine Map")                  | **Grün** - Der Spieler modded oder editiert eine Beatmap von jemand anderem.                                   |
-| ![Spieler ist im Multiplayer](Chat_Console-Multiplayer.png "Spieler ist im Multiplayer")        | **Braun** - Der Spieler ist im Multiplayer, spielt aber gerade nicht.                                          |
-| ![Spieler spielt im Multiplayer](Chat_Console-Multiplaying.png "Spieler spielt im Multiplayer") | **Gelb** - Der Spieler spielt eine Beatmap im Multiplayer.                                                     |
-| ![Spieler ist Afk](Chat_Console-Afk.png "Spieler ist Afk")                                      | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard).                                               |
-| ![Spieler ist per IRC verbunden](Chat_Console-IRC.png "Spieler ist per IRC verbunden")          | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/IRC/ "IRC") Client eingeloggt.                |
+Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Mausrad scrollen. Außerdem kann man das Fenster durch die verfügbaren Elemente anpassen:
 
-Klicke auf den Benutzernamen des Spielers im Chat, um zum Optionsfenster zu gelangen.
+- Der `Filter`-Dropdown erlaubt es, die Panels zu filtern:
+    - `All`: Alle Panels werden ungefiltert angezeigt.
+    - `Friends`: Nur deine Freunde werden angezeigt.
+    - `Nearby`: Nur Spieler in deiner Nähe werden angezeigt.
+    - `Country`: Alle Spieler aus deinem Land werden angezeigt.
+- Die `Lock Panels`-Checkbox erlaubt es, die Panels einzufrieren. Das Ein-/Ausloggen von Nutzern und das Umsortieren bzw. Filtern werden dann ignoriert.
+- Die Reihenfolge der Panels lässt sich durch die Tabs `Name`, `Rank`, `Location` und `Time Zone` regeln.
+    - `Name`: Die Panels werden alphabetisch nach dem Namen des Spielers sortiert.
+    - `Rank`: Die Ränge der Spieler bestimmen die Reihenfolge der Panels (bester Spieler an 1. Stelle).
+    - `Location`: Die Panels werden alphabetisch nach dem Namen des Herkunftslandes des Spielers sortiert.
+    - `Time Zone`: Die Zeitzone der Spieler bestimmt die Reihenfolge der Panels.
+- `World Map`-Tab: Zeigt eine Weltkarte an, auf der man den Standort der aktiven Spieler sehen kann.
 
-![Userpanel Einstellungen](DE-Chat_Console-Userpaneloptions.jpg "Userpanel Einstellungen")
+ | Panel-Farben | Erklärung |
+ | ------------ | --------- |
+ | ![Spieler ist anwesend](Chat_Console-Idle.png "Spieler ist anwesend") | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten. |
+ | ![Spieler spielt](Chat_Console-Playing.png "Spieler spielt") | **Grau** - Der Spieler spielt gerade eine Beatmap im Solomodus. |
+ | ![Spieler schaut jemandem zu](Chat_Console-Watching.png "Spieler schaut jemanden zu") | **Hellblau** - Der Spieler sieht entweder jemandem live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
+ | ![Spieler editiert eigene Map](Chat_Console-Editing.png "Spieler editiert eigene Map") | **Rot** - Der Spieler bearbeitet eine eigene Beatmap. |
+ | ![Spieler testet eine Map](Chat_Console-Testing.png "Spieler testet eine Map") | **Lila** - Der Spieler testet eine Beatmap im Editor. |
+ | ![Spieler lädt eine Map hoch](Chat_Console-Submitting.png "Spieler lädt eine Map hoch") | **Türkis** - Der Spieler submittet eine Beatmap (lädt also eine ganze Map oder ein Update hoch). |
+ | ![Spieler modded eine Map](Chat_Console-Modding.png "Spieler modded eine Map") | **Grün** - Der Spieler moddet oder editiert eine Beatmap von jemand anderem. |
+ | ![Spieler ist im Mehrspieler](Chat_Console-Multiplayer.png "Spieler ist im Mehrspieler") | **Braun** - Der Spieler ist im Mehrspielermodus, spielt aber gerade nicht. |
+ | ![Spieler spielt im Mehrspieler](Chat_Console-Multiplaying.png "Spieler spielt im Mehrspieler") | **Gelb** - Der Spieler spielt eine Beatmap im Mehrspieler. |
+ | ![Spieler ist AFK](Chat_Console-Afk.png "Spieler ist AFK") | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard). |
+ | ![Spieler ist per IRC verbunden](Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/IRC/ "IRC")-Client eingeloggt. |
 
-Drücke entweder auf das jeweilige Tab oder die dazugehörige Zahl:
--    1  `Zuschauen starten`: Schaue einem Spieler live beim Spielen zu. Die Benutzernamen der Zuschauer werden auf der Zuschauerliste aufgelistet.
--    2  `Profil anzeigen`: Öffnet das Profil des Spielers im Browser.
--    3  `Chat beginnen`: Öffnet ein privates Chat mit dem Spieler.
--    4  `Zum Spiel einladen`: Der Spieler erhält eine Einladung zum Multiplayer Raum.
--    5  `Als Freund hinzufügen/Freund entfernen`: Spieler wird zur Freundesliste hinzugefügt oder entfernt.
--    6  `Benutzer melden`: Meldet den Spieler aufgrund von Regelbrüchen oder Fehlverhalten.
--    7  `Benutzer ignorieren`: Alle Nachrichten des Spielers sind bis zum nächsten Neustart des Spieles nicht sichtbar.
--    8  `Schließen`: Schließt das Fenster.
+Klicke auf ein Nutzerpanel, um zum Optionsmenü zu gelangen:
 
-## Auflistung von Chat Kommandos
+![Nutzerpaneleinstellungen](DE-Chat_Console-Userpaneloptions.jpg "Nutzerpaneleinstellungen")
+
+Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie haben folgende Funktionen:
+
+1. `Zuschauen starten`: Sieh jemandem live beim Spielen zu.
+2. `Profil anzeigen`: Öffne das Profil des Spielers im Browser.
+3. `Chat beginnen`: Öffne einen privaten Chatkanal mit dem Spieler.
+4. `Zum Spiel einladen`: Lade einen Spieler in deinen Mehrspielerraum ein.
+5. `Als Freund hinzufügen/Freund entfernen`: Füge einen Spieler zur Freundesliste hinzu oder entferne ihn von ihr.
+6. `Benutzer melden`: Melde einen Spieler aufgrund von Regelbrüchen oder Fehlverhalten.
+7. `Benutzer ignorieren`: Mache alle Nachrichten eines Nutzers bis zum nächsten Neustart des Spiels unsichtbar.
+8. `Schließen`: Schließe das Menü.
+
+## Liste an Chatbefehlen
 
 ### /help
 
-| Kommando                                                | Effekt                                                                                                                                                                                                       | Beispiel           | BanchoBots Antwort                                                                                                                       | 
-|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| `/addfriend [Benutzername]`                               | `[Benutzername]` als Freund hinzufügen.                                                                                                                                                                        | `/addfriend Deimos`  | Deimos.                                                                                                                                  |
-| `/delfriend [Benutzername]`                               | `[Benutzername]` als Freund entfernen.                                                                                                                                                                         | `/delfriend Deimos`  | Deimos.                                                                                                                                  |
-| `/away [Nachricht]`                                       | Legt eine away Nachricht fest (wird verschickt, wenn du persönlich angeschrieben wurdest). Füge zum Deaktivieren der Funktion keine Nachricht hinzu.                                                         | `/away Nicht hier.`  | You have been marked as being away: Nicht hier. Die Person, die dich privat anschreibt, erhält die Nachricht: BanchoBot: Nicht hier.     |
-| `/bb`                                                     | Sende eine Nachricht an BanchoBot, wie z. B. `rank [Zahl]`                                                                                                                                                     | `/bb rank 1`         | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95%                                              |
-| `/chat [Benutzername]`                                    | Öffnet einen Chat Tab von `[Benutzername]`.                                                                                                                                                                    | `/chat Deimos`       | (Deimos Tab wird geöffnet.)                                                                                                              |
-| `/clear`                                                  | Alle Nachrichten vom derzeitig ausgewählten Chat Tab werden entfernt.                                                                                                                                        | `/clear`             | n/a                                                                                                                                      |
-| `/ignore [Benutzername][@chp]`                            | Ignoriere alle Nachrichten von `[Benutzername]` in dieser Session. Beim Hinzufügen von `@` mit den folgenden Buchstaben `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} (Ihre Chat Konsole wurde eingestellt: Ignorier alle Nachrichten in öffentlichen Channeln von Deimos (`c`), alle Nachrichten in denen du von Deimos gehighlighted wirst (`h`), alle privaten Nachrichten von Deimos (`p`)) |
-| `/join [Channel]` oder `/j [Channel]`                                        | Tritt einem spezifischen Channel bei.                                                                                                                                                                        | `/join #german`      | (#german Tab wird geöffnet.) |
-| `/part`                                                   | Schließt den derzeitig ausgewählten Chat Tab.                                                                                                                                                                | `/part`              | n/a |
-| `/unignore [Benutzername]`                                | Der `[Benutzername]` wird nicht mehr ignoriert. | `/unignore Deimos` | You may now hear Deimos. (Ihre Chat Konsole zeigt nun alle zukünftigen Nachrichten von Deimos an.)
-| `/me [Aktion]`                                            | Du sprichst dann in 3. Person von dir selbst. | `/me ist soooooo schlecht.` | * Phobos ist soooooo schlecht.
-| `/msg [Benutzername] [Nachricht]`                         | Sende eine private Nachricht an `[Benutzername]`. | `/msg Deimos Ich bin sooooo schlecht.` | (Aus Deimos' Sichtweise) Phobos: Ich bin sooooo schlecht.
-| `/np`                                                     | Nennt das derzeitige Lied, was du gerade hörst, spielen, oder beim Zuschauen gespielt wird.                                                                                                                  | `/np`                | (Wenn du die Beatmap spielst) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (Wenn du dir die Beatmap anhörst) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (Wenn du jemanden oder Autoplay zuschaust) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply`                                                  | Antwortet zur zuletzt erhaltenen Nachricht. | `/r Wie werde ich besser?` | (Aus Deimos' Sichtweise) [Vorherige Kommentare] Phobos: Man, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
-| `/savelog`                                                | Speichert den derzeitg ausgewählten Chat Tab in einer Textdatei ab. | `/savelog` | (Ein Ordner mit dem Namen "Chat" wird im osu! Verzeichnis erstellt, welches alle zukünftigen abgespeicherten Logs aufbewahrt.) |
-| `/watch [Benutzername]`                                   | Beginnt `[Benutzername]` zuzusehen. | `/watch Deimos` | * Started spectating Deimos. (Wenn Deimos eine Beatmap spielt, die du auch hast, dann wirst du ihm nach etwas Buffering beim Spielen zusehen. Dein Name erscheint dann an der linken Seite.) |
-| `/nopm`                                                   | Schalter, um private Nachrichten von allen oder nur von Freunden zu bekommen. | `/nopm` | Eine Nachricht wird in der Mitte des Bildschirms erscheinen, was dir mitteilt, ob du nun private Nachrichten von allen oder nur von Freunden bekommst. |
-| `/invite [Benutzername]`                                  | Ladet `[Benutzername]` zum Mutliplayer Lobby ein. | `/invite Deimos` | * Deimos has been invited to the game |
-
+ | Kommando | Effekt | Beispiel | BanchoBots Antwort |
+ | --- | --- | --- | --- |
+ | `/addfriend [Benutzername]` | `[Benutzername]` als Freund hinzufügen. | `/addfriend Deimos` | Deimos. |
+ | `/delfriend [Benutzername]` | `[Benutzername]` als Freund entfernen. | `/delfriend Deimos` | Deimos. |
+ | `/away [Nachricht]` | Legt eine "Away"-Nachricht fest, die automatisch auf Privatnachrichten geantwortet wird. Zum Entfernen [Nachricht] leer lassen. | `/away Nicht hier.` | You have been marked as being away: Nicht hier. [Jeder, der dich nun privat anschreibt, erhält die Nachricht: 'BanchoBot: Nicht hier.'] |
+ | `/bb` | Sende eine Nachricht an BanchoBot, wie z. B. `rank [Zahl]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+ | `/chat [Benutzername]` | Öffnet einen privaten Chatkanal mit `[Benutzername]`. | `/chat Deimos` | [Kanal mit Deimos wird geöffnet] |
+ | `/clear` | Alle Nachrichten vom derzeitig ausgewählten Chat Tab werden entfernt. | `/clear` |  |
+ | `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} [Ignoriere alle öffentlichen (`c`), alle privaten (`p`) Nachrichten und alle Highlights (`h`) von Deimos.] |
+ | `/join [Channel]` oder `/j [Channel]` | Tritt einem bestimmten Channel bei. | `/join #german` | [Tab mit #german wird geöffnet] |
+ | `/part` | Schließt den derzeitig ausgewählten Chat-Tab. | `/part` |  |
+ | `/unignore [Benutzername]` | `[Benutzername]` wird nicht mehr ignoriert. | `/unignore Deimos` | You may now hear Deimos. (Die Chatkonsole zeigt nun alle zukünftigen Nachrichten von Deimos an)
+ | `/me [Aktion]` | Spreche in der dritten Person über dich selbst. | `/me ist soooooo schlecht.` | * Phobos ist soooooo schlecht.
+ | `/msg [Benutzername] [Nachricht]` | Sende eine private Nachricht an `[Benutzername]`. | `/msg Deimos Ich bin sooooo schlecht.` | [Aus Deimos' Sichtweise] Phobos: Ich bin sooooo schlecht.
+ | `/np` | Nennt das Lied, das du gerade hörst oder spielst. | `/np` | [Wenn du spielst] * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/b/22538) |
+ | `/reply` | Antwortet auf die zuletzt erhaltene Nachricht. | `/r Wie werde ich besser?` | [Aus Deimos' Sichtweise] Phobos: Mann, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
+ | `/savelog` | Speichert den Verlauf des aktuellen Kanals in einer Textdatei ab. | `/savelog` | [Ein Ordner mit dem Namen "Chat" wird im osu!-Verzeichnis erstellt, welcher alle Logdateien aufbewahrt.] |
+ | `/watch [Benutzername]` | Schaut `[Benutzername]` zu. | `/watch Deimos` | * Started spectating Deimos. [Du schaust Deimos nun zu, sobald er eine Beatmap spielt.] |
+ | `/nopm` | Wechselt zwischen den Optionen, private Nachrichten von allen oder nur von Freunden zu empfangen. | `/nopm` | [Eine Nachricht in der Mitte des Fensters zeigt den aktuellen Status.] |
+ | `/invite [Benutzername]` | Lädt `[Benutzername]` zum Mehrspielerraum ein. | `/invite Deimos` | * Deimos has been invited to the game |
 
 ### /keys
 
-| Tasten               | Effekt                                                                       |
-|----------------------|------------------------------------------------------------------------------|
-| `Bild Oben` / `Bild Unten` | Im Chatfenster scrollen.                                                     |
-| `Tab`                      | Benutzername wirde automatisch vervollständigt, wenn der Spieler online ist. |
-| `F8`                       | Chatkonsole ein-/ausschalten.                                                |
-| `F9`                       | Erweiterte Chatkonsole ein-/ausschalten.                                     |
-| `STRG` + `C` / `V`         | Kopieren/Einfügen.                                                           |
-| `Alt` + `0` - `9`          | Zum jeweiligen Tab (Chat, Channel) springen.                                 |
+ | Tasten | Effekt |
+ | ------ | ------ |
+ | `Bild Oben` / `Bild Unten` | Im Chatfenster scrollen. |
+ | `Tab` | Nutzernamen vervollständigen (nur, wenn derjenige online ist). |
+ | `F8` | Chatkonsole ein-/ausschalten. |
+ | `F9` | Erweiterte Chatkonsole ein-/ausschalten. |
+ | `STRG` + `C` / `V` | Kopieren/Einfügen. |
+ | `Alt` + `0` - `9` | Zum jeweiligen Tab (Channel) springen. |
