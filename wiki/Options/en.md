@@ -440,6 +440,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - If you type in a username but leave the password textbox empty, osu! will use that name when saving the score locally.
 - Opening the options sidebar will automatically trigger `osu! is up-to-date!`'s function (it will begin checking for updates).
 - The `Seasonal backgrounds` option was added after positive feedback was given to the osu!dev team.
+  - More details: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 
 ### History
 
