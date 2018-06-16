@@ -28,7 +28,7 @@ Yuzu is male, and a teenager. **While we're all about new looks, he needs to sta
 
 ## Any special features?
 
-The main theme we are aiming for with the _osu!_ mascots is **coloured bangs**. 
+The main theme we are aiming for with the osu! mascots is **coloured bangs**. 
 
 This should be the centrepiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
 
@@ -36,7 +36,7 @@ This should be the centrepiece of your character design in some way - Yuzu's ban
 
 Yuzu should always be recognizable as Yuzu regardless of what form he's in or what he's wearing, even if he's wearing nothing at all. A flashy outfit is good, but a flashier character is even better.
 
-Yuzu is also moving around a lot, perhaps the most of all the _osu!_ mascots. **Giving him features that portray motion would be an excellent idea.** Characters with long hair often have no difficulty expressing emotion. Characters with short hair usually use props or an element of their costume to achieve the same thing.
+Yuzu is also moving around a lot, perhaps the most of all the osu! mascots. **Giving him features that portray motion would be an excellent idea.** Characters with long hair often have no difficulty expressing emotion. Characters with short hair usually use props or an element of their costume to achieve the same thing.
 
 ## What's this about props?
 
@@ -62,7 +62,7 @@ Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps e
 
 --------
 
-This is a little different from our previous _osu!_ mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
+This is a little different from our previous osu! mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 
 Interested in giving this a shot? [Head on over to the contest page](https://osu.ppy.sh/community/contests/49) and submit your take on Yuzu's new look.
 

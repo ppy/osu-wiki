@@ -8,15 +8,15 @@ date: 2017-09-10 08:00:00 +0000
 
 [![](https://assets.ppy.sh/artists/18/header.jpg)](https://osu.ppy.sh/beatmaps/artists/18)
 
-Adored by much of the _osu!_ community for her delightfully sweet voice and explosive popularity from her cover of Yowamushi Pedal's _Koi no Hime Hime Pettanko_, [**\*namirin (＊なみりん)**](https://osu.ppy.sh/beatmaps/artists/18) makes her entrance to the _osu!_ Featured Artist roster with her latest mini-album, *5colors*.
+Adored by much of the osu! community for her delightfully sweet voice and explosive popularity from her cover of Yowamushi Pedal's _Koi no Hime Hime Pettanko_, [**\*namirin (＊なみりん)**](https://osu.ppy.sh/beatmaps/artists/18) makes her entrance to the osu! Featured Artist roster with her latest mini-album, *5colors*.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/RJEDLZxCIks" frameborder="0" allowfullscreen></iframe>
 
-Produced in collaboration with [gear_haguruma (歯車製作所)](https://twitter.com/gear_haguruma), *5colors* is an exploration of **\*namirin's** incredible vocal talent, with a wonderfully new yet familiar sound. We're delighted to share it with the _osu!_ community as the first steps toward introducing her unique sound to the game.
+Produced in collaboration with [gear_haguruma (歯車製作所)](https://twitter.com/gear_haguruma), *5colors* is an exploration of **\*namirin's** incredible vocal talent, with a wonderfully new yet familiar sound. We're delighted to share it with the osu! community as the first steps toward introducing her unique sound to the game.
 
-We're excited to see what the intrepid mappers of our community will do with **five** brand new tracks that touch on the vocalist-heavy tastes that are something of a mainstay in the _osu!_ mapping scene.
+We're excited to see what the intrepid mappers of our community will do with **five** brand new tracks that touch on the vocalist-heavy tastes that are something of a mainstay in the osu! mapping scene.
 
-As with all Featured Artists, every track on [**\*namirin**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18) comes pre-timed in an .osz and is 100% licensed for use in _osu!_, so worry less, and map more!
+As with all Featured Artists, every track on [**\*namirin**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18) comes pre-timed in an .osz and is 100% licensed for use in osu!, so worry less, and map more!
 
 To build on this even more, we're excited to tease the return of an old contest-esque thing in the coming weeks, which will spotlight several of our Featured Artists, **\*namirin** among them. 
 
