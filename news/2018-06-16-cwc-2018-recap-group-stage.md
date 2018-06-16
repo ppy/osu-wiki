@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2018: Group Stage Recap"
-date: 2018-06-15 12:00:00 +0000
+date: 2018-06-16 17:00:00 +0000
 ---
 
 Another year of furious fruit catching competition is well and truly upon us, with the world’s best duking it out on the grandest stage of all for your viewing pleasure. Missed any of the action? Eager to see where we’re heading next? All the juicy details can be found within!
