@@ -1,6 +1,6 @@
 # Kişiler
 
-Aşağıda belirtilenler _osu!_'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır. 
+Aşağıda belirtilenler osu!'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır. 
 Bu üye gruplarının çoğuna forum ismi renkleri, oyun-içi sohbet renkleri ve/veya profil rozetleri verilir.
 
 - [Beatmap Aday Gösterme Grubu (BNG)](/wiki/People/Beatmap_Nomination_Group)
