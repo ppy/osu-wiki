@@ -157,21 +157,21 @@ Furioso melodia is one of [Minato Yukina](https://osu.ppy.sh/users/531253)'s mos
 [S.S.H. - Fierce Fight-Remix](https://osu.ppy.sh/beatmapsets/40480) by [Snow Note](https://osu.ppy.sh/users/643394), [DakkyChan](https://osu.ppy.sh/users/2107017), [ExGon](https://osu.ppy.sh/users/214187) and [inaba-tan](https://osu.ppy.sh/users/477744)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-Coming in with probably the most unorthodox map of this week's catch loved vote are [Exgon](https://osu.ppy.sh/users/214187) and [Dakkychan](https://osu.ppy.sh/users/2107017) with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights this maps clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix is and definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
+Coming in with probably the most unorthodox map of this week's catch loved vote are [ExGon](https://osu.ppy.sh/users/214187) and [Dakkychan](https://osu.ppy.sh/users/2107017) with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights, this map clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/holdin-on-skrillex-nero-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/762216)
 
 [MONSTA - Holdin' On (Skrillex & Nero Remix)](https://osu.ppy.sh/beatmapsets/78908) by [VelperK](https://osu.ppy.sh/users/348467)  
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-A map which most of the veteran players remember—Holdin' On by [VelperK](https://osu.ppy.sh/users/348467). Back in the days when he submitted this map it was instantly popular among the community and has been played in nearly every multiplayer match. Over the years it started to disappear slowly; it's about time to bring it back and feel the nostalgia. The mapping style is somewhat timeless; although you can feel that it is older it still doesn't feel too out of place for today's standards. It mostly consists of precise left-right movement paired with a few hyperchains here and there—super general. I believe the majority of the community appreciates this map which makes it a great contender for the loved category. My hope will never die.
+A map which most of the veteran players remember—Holdin' On by [VelperK](https://osu.ppy.sh/users/348467). Back in the days when he submitted this map it was instantly popular among the community and has been played in nearly every multiplayer match. Over the years, it started to disappear slowly; it's about time to bring it back and feel the nostalgia. The mapping style is somewhat timeless; although you can feel that it is older it still doesn't feel too out of place for today's standards. It mostly consists of precise left-right movement paired with a few hyperchains here and there—super general. I believe the majority of the community appreciates this map which makes it a great contender for the loved category. My hope will never die.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/dysthymia.jpg)](https://osu.ppy.sh/community/forums/topics/762217)
 
 [a\_hisa - Dysthymia](https://osu.ppy.sh/beatmapsets/616346) by [Kyuare](https://osu.ppy.sh/users/2705312)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-As 2017's CWC went into the quarter final's stage people discovered one of [Kyuare](https://osu.ppy.sh/users/2705312)'s at that time lesser famous maps, that being Dysthymia. This map has tons of variation in streaming patterns, as well as some long-distanced jumps, blended together with [Kyuare](https://osu.ppy.sh/users/2705312)'s well known triangle like left-rights. Altogether, this map makes for a very interesting experience on a pretty conventional map. Most active players should be able to pass this map without too many struggles, but pulling off a full combo can prove to be quite difficult with this map's earlier mentioned structure and length.
+As 2017's CWC went into the quarter final's stage, people discovered one of [Kyuare](https://osu.ppy.sh/users/2705312)'s lesser famous (at the time) maps, Dysthymia. This map has tons of variation in streaming patterns, as well as some long-distanced jumps, blended together with Kyuare's well-known triangle-like left-rights. Altogether, this map makes for a very interesting experience on a pretty conventional map. Most active players should be able to pass this map without too many struggles, but pulling off a full combo can prove to be quite difficult with this map's earlier mentioned structure and length.
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
@@ -180,23 +180,23 @@ As 2017's CWC went into the quarter final's stage people discovered one of [Kyua
 [Kaimar Kube - TRI PALOSKI](https://osu.ppy.sh/beatmapsets/510874) by [Jole](https://osu.ppy.sh/users/2883132)  
 *written by [Pope Gadget](https://osu.ppy.sh/users/2288341)*
 
-As with all of [Jole](https://osu.ppy.sh/users/2883132)'s charts, TRI PALOSKI is a barrel of fun. In particular, this chart is a little segue into the world of incredible speed, agility and flexibility. With dumpstreams at a dizzying 330BPM, and unforgiving one-handed trills intertwined, you can battle your friends on the leaderboards to see who really is the best squatter of all time.
+As with all of [Jole](https://osu.ppy.sh/users/2883132)'s charts, TRI PALOSKI is a barrel of fun. In particular, this chart is a little segue into the world of incredible speed, agility and flexibility. With jumpstreams at a dizzying 330BPM, and unforgiving one-handed trills intertwined, you can battle your friends on the leaderboards to see who really is the best squatter of all time.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/morgenglut-2012.jpg)](https://osu.ppy.sh/community/forums/topics/762220)
 
 [sun3 - Morgenglut 2012](https://osu.ppy.sh/beatmapsets/463897) by [\_underjoy](https://osu.ppy.sh/users/2235750)  
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
-[\_underjoy](https://osu.ppy.sh/users/2235750), a mapper well known for his additions to the ranked section, brings us Morgenglut 2012, something a bit different from his ranked endeavors. This chart brings the heat with a flurry long note patterns, going from relatively simple short-LN streaming and trills to near inverse at points, even sometimes bringing in burst streams that reach a blistering 270BPM. Despite this, though, the chart manages to maintain a clear amount of simplicity that gives it a charm that many LN charts lack, and also proves to be a great medium for high level players to test their LN skills.
+[\_underjoy](https://osu.ppy.sh/users/2235750), a mapper well known for his additions to the ranked section, brings us Morgenglut 2012, something a bit different from his ranked endeavors. This chart brings the heat with a flurry of long note patterns, going from relatively simple short-LN streaming and trills to near inverse at points, even sometimes bringing in burst streams that reach a blistering 270BPM. Despite this, though, the chart manages to maintain a clear amount of simplicity that gives it a charm that many LN charts lack, and also proves to be a great medium for high level players to test their LN skills.
 
-The chart was also used back in the 2016 mania world cup, a time when long notes and anti-meta was only at the start of its rise in the competitive scene. Given the playstyle's extreme growth over the years following this tournament, and the previous nomination of such charts as Voyage 1970 and Mirage, it only makes sense to add Morgenglut alongside as a nomination to the loved section.
+The chart was also used back in the 2016 osu!mania world cup, a time when long notes and anti-meta was only at the start of its rise in the competitive scene. Given the playstyle's extreme growth over the years following this tournament, and the previous nomination of such charts as Voyage 1970 and Mirage, it only makes sense to add Morgenglut alongside as a nomination to the loved section.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/katayoku-no-tori.jpg)](https://osu.ppy.sh/community/forums/topics/762221)
 
 [Hommarju feat. mamiko - Katayoku no Tori](https://osu.ppy.sh/beatmapsets/237512) by [Awang411](https://osu.ppy.sh/users/1014938) and [Gexigamma](https://osu.ppy.sh/users/3149376)  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-One hell of a throwback to early osu!mania days, [Awang411](https://osu.ppy.sh/users/1014938)'s Katayoku no Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in various multiplayer lobbies.
+One hell of a throwback to early osu!mania days, [Awang411](https://osu.ppy.sh/users/1014938)'s Katayoku no Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in many multiplayer lobbies.
 
 Katayoku no Tori owes its success and popularity to its large accessibility. The mapset contains a wide spread of 4K difficulties, ranging from 1st to 10th Twilight. With each difficulty, the map gets denser and more relentless—while the first Twilights are easily accessible to newcomers who want to try out a fun and fast song, the final Twilights challenge the player with 220BPM jumpstreams and handstreams.
 
@@ -207,7 +207,7 @@ Although from today's perspective the general patterning is rather unrefined and
 [Zeami - Music Revolver](https://osu.ppy.sh/beatmapsets/130464) by [Entozer](https://osu.ppy.sh/users/277044)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Here we have [Entozer](https://osu.ppy.sh/users/277044) again with a beautiful but hard beatmap set called Zeami – Music Revolver. This set features both Long Note and Chordstream difficulties, making it accessible for every kind of player. This map has been popular since the early days of osu!mania, apart from having an untrustful difficulty name choices which will likely confuse a lot of players because who would've ever wondered that a "Normal" difficulty could almost be 7 stars? I hope nobody did.
+Here we have [Entozer](https://osu.ppy.sh/users/277044) again with a beautiful but hard beatmapset for Music Revolver. This set features both long note and chordstream difficulties, making it accessible for every kind of player. This map has been popular since the early days of osu!mania, and you can recognize it by the untrustful difficulty name choices, which will likely confuse a lot of players, because who would've ever wondered that a "Normal" difficulty could almost be 7 stars?
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/endymion.jpg)](https://osu.ppy.sh/community/forums/topics/762223)
 
@@ -223,16 +223,16 @@ This mapset utilises the lively and aggressive song very accurately, retaining a
 [senya - Tsuki ni Murakumo Hana ni Kaze](https://osu.ppy.sh/beatmapsets/254589) by [17VA](https://osu.ppy.sh/users/1895984) et al.  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-We've already talked about [17VA](https://osu.ppy.sh/users/1895984) and his charts in the past, and this time will not be different at all. Senya – Tsuki ni Murakumo Hana ni Kaze it's been around osu!mania since 2015 and it is basically a Long Note mapset. This map features Genesis, [Kawawa](https://osu.ppy.sh/users/4647754) and [Rumia-](https://osu.ppy.sh/users/1787171) as guest difficulties and It has patterns such as shields, jacks, irregular Long Note releases, light chordstreams, and more.
+We've already talked about [17VA](https://osu.ppy.sh/users/1895984) and his charts in the past, and this time will not be different at all. Senya – Tsuki ni Murakumo Hana ni Kaze has been around osu!mania since 2015 and it's a nice long note mapset. This map features Genesis, [Kawawa](https://osu.ppy.sh/users/4647754) and [Rumia-](https://osu.ppy.sh/users/1787171) as guest mappers and it has patterns such as shields, jacks, irregular long note releases, light chordstreams, and more.
 
-This map has also been used for the osu!mania 7K World Cup 2016 Finals mappool. The difficulty span goes from 2 stars to almost 8, making it a really approachable set for more players. Definitely something you should check out.
+This map has also been used for the osu!mania 7K World Cup 2016 Finals mappool. The difficulty span goes from 2 stars to almost 8, making it a really approachable set for all players. It's definitely worth checking out!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/life-garden-short-ver-.jpg)](https://osu.ppy.sh/community/forums/topics/762225)
 
 [Yooh - LiFE Garden (short Ver.)](https://osu.ppy.sh/beatmapsets/436217) by [pocket-Gao](https://osu.ppy.sh/users/3162182) et al.  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-Our last pick comes from a pretty well known charter, creator of maps like Violet Soul, [pocket-Gao](https://osu.ppy.sh/users/3162182)! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh, definitely stands out. This chart is running at 149BPM, and while it's not the highest of tempos, it's fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, [Critical\_Star](https://osu.ppy.sh/users/3793196), [Crystal](https://osu.ppy.sh/users/1646397) & [ExNeko](https://osu.ppy.sh/users/7590894) it provides challenge to both newcomers and more advanced players.
+Our last pick comes from a pretty well-known charter, creator of maps like Violet Soul, [pocket-Gao](https://osu.ppy.sh/users/3162182)! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh, definitely stands out. This chart is running at 149BPM, and while it's not the highest of tempos, it's fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, [Critical\_Star](https://osu.ppy.sh/users/3793196), [Crystal](https://osu.ppy.sh/users/1646397) & [ExNeko](https://osu.ppy.sh/users/7590894) it provides challenge to both newcomers and more advanced players.
 
 It is a classic, really well designed set for a more uncommon keymode and I believe that it's a good candidate for the Loved category!
 
