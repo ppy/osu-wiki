@@ -193,14 +193,14 @@ The chart was also used back in the osu!mania World Cup 2016, a time when long n
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/katayoku-no-tori.jpg)](https://osu.ppy.sh/community/forums/topics/762221)
 
-[Hommarju feat. mamiko - Katayoku no Tori](https://osu.ppy.sh/beatmapsets/237512) by [Awang411](https://osu.ppy.sh/users/1014938) and [Gexigamma](https://osu.ppy.sh/users/3149376)  
+[Hommarju feat. mamiko - Katayoku No Tori](https://osu.ppy.sh/beatmapsets/237512) by [Awang411](https://osu.ppy.sh/users/1014938) and [Gexigamma](https://osu.ppy.sh/users/3149376)  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-One hell of a throwback to early osu!mania days, [Awang411](https://osu.ppy.sh/users/1014938)'s Katayoku no Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in many multiplayer lobbies.
+One hell of a throwback to early osu!mania days, [Awang411](https://osu.ppy.sh/users/1014938)'s Katayoku No Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in many multiplayer lobbies.
 
-Katayoku no Tori owes its success and popularity to its large accessibility. The mapset contains a wide spread of 4K difficulties, ranging from 1st to 10th Twilight. With each difficulty, the map gets denser and more relentless—while the first Twilights are easily accessible to newcomers who want to try out a fun and fast song, the final Twilights challenge the player with 220BPM jumpstreams and handstreams.
+Katayoku No Tori owes its success and popularity to its large accessibility. The mapset contains a wide spread of 4K difficulties, ranging from 1st to 10th Twilight. With each difficulty, the map gets denser and more relentless—while the first Twilights are easily accessible to newcomers who want to try out a fun and fast song, the final Twilights challenge the player with 220BPM jumpstreams and handstreams.
 
-Although from today's perspective the general patterning is rather unrefined and feels odd at times, Katayoku no Tori still retains its charm as the mapset heavily played in the older era of osu!mania. This is why we believe the mapset has earned its place in the Loved category.
+Although from today's perspective the general patterning is rather unrefined and feels odd at times, Katayoku No Tori still retains its charm as the mapset heavily played in the older era of osu!mania. This is why we believe the mapset has earned its place in the Loved category.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/music-revolver.jpg)](https://osu.ppy.sh/community/forums/topics/762222)
 
