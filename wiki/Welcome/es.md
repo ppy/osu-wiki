@@ -20,11 +20,6 @@ Bienvenidos a osu!, un juego de ritmo gratis creado por peppy el cual tiene cuat
   - ![icono de osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![icono de osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## Artículo del mes.
-
-*Pagina principal: [Mascotas](/wiki/Mascots).*
-Conoce a pippi, Yuzu, Maria y Mocha; las cuatro mascotas de osu!standard, osu!catch, osu!mania y osu!taiko, respectivamente.
-
 ## Beatmapping
 
 *Pagina principal: [Beatmapping](/wiki/Beatmapping/#getting-started).*

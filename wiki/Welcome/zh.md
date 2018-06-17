@@ -20,10 +20,6 @@
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## 本月推荐文章
-
-[点此查看](/wiki/Welcome?locale=en#article-of-the-month)
-
 ## 作图
 
 *参考：[作图](/wiki/Beatmapping/#开始)。*

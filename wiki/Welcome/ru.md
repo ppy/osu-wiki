@@ -23,12 +23,6 @@ outdated: true
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## Статья месяца
-
-*Подробнее: [Маскоты (персонажи-талисманы)](/wiki/Mascots).*
-
-Встречайте pippi, Yuzu, Maria и Mocha — полюбившихся всем маскотов osu!standard, osu!catch, osu!mania и osu!taiko.
-
 ## Маппинг
 
 *Подробнее: [Маппинг](/wiki/Beatmapping/#getting-started).*

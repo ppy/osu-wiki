@@ -20,12 +20,6 @@ Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modal
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## Articolo del mese
-
-*Pagina principale: [Mascotte](/wiki/Mascots).*
-
-Incontra pippi, Yuzu, Maria, e Mocha; rispettivamente le quattro mascotte di osu!standard, osu!catch, osu!mania, and osu!taiko.
-
 ## Beatmapping
 
 *Pagina principale: [Beatmapping](/wiki/Beatmapping/#getting-started).*
