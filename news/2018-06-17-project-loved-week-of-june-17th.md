@@ -147,7 +147,7 @@ Here we go again! Nekosogi Destruction is a speed map that will fool you from it
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/gigadelic-camellia-s-the-tera-rmx-.jpg)](https://osu.ppy.sh/community/forums/topics/762314)
 
-[Camellia - gigadelic (Camellia's "The TERA" RMX)](https://osu.ppy.sh/beatmapsets/388122) by [Alumetorz](https://osu.ppy.sh/users/531253)  
+[Camellia - gigadelic (Camellia's "The TERA" RMX)](https://osu.ppy.sh/beatmapsets/388122) by [Alumetorz](https://osu.ppy.sh/users/531253) and [Minato Yukina](https://osu.ppy.sh/users/531253)  
 *written by [Ascendance](https://osu.ppy.sh/users/2931883)*
 
 [Minato Yukina](https://osu.ppy.sh/users/531253) returns for this round of Project Loved with one of his patented "Nervous Breakdown" maps, gigadelic! Like most of the Nervous Breakdown series, gigadelic boasts challenging patterns at a fast pace and features classic CLSW patterns that long-time fans of the series will be sure to enjoy. Don't let the comfort of HP5 fool you, though; one miss could be your downfall as you succumb to a downpour of challenging jumps and devastating antiflow. Regardless of the daunting task ahead, you won't want to miss this map!
