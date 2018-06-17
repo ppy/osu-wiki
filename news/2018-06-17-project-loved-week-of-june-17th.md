@@ -8,7 +8,7 @@ date: 2018-06-17 20:00:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! This week's round of voting showcases some incredibly difficult beatmaps that are sure to give you a challenge. Across the four gamemodes, we've selected 28 maps, and now it's your turn to decide whether or not these will enter the Loved category. If a map has at least 75% positive votes for osu! or osu!taiko, or 80% for osu!catch or osu!mania, it'll make its way into the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8)!
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! This week's round of voting showcases some incredibly difficult beatmaps that are sure to give you a challenge. Across the four game modes, we've selected 28 maps, and now it's your turn to decide whether or not they will enter the Loved category. If a map has at least 75% positive votes for osu! or osu!taiko, or 80% for osu!catch or osu!mania, it'll make its way into the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8)!
 
 Next week, these thresholds will be changing. osu! and osu!taiko will be increasing to 80%, following feedback that we've gotten from you! Both of these modes will also be cutting their candidate count down to five—[Toy](https://osu.ppy.sh/users/2757689) believes that this will ensure that all five candidates are strong picks, and it'll make sure that there's no shortage of awesome maps in the future.
 
@@ -32,56 +32,56 @@ Let's get started!
 [nao - Toaru Shoukoku no Ohimesama](https://osu.ppy.sh/beatmapsets/370605) by [Settia](https://osu.ppy.sh/users/2445897)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-Toaru Shoukoku no Ohimesama is the quintessential [Settia](https://osu.ppy.sh/users/2445897) map, featuring ridiculous cross screen jumps overtop of a bombastic eroge song. If you aren't up to the challenge of the 8 star top difficulty, there are 4 lower diffs that vary in difficulty for you to enjoy! It's got some jumps, yo.
+Toaru Shoukoku no Ohimesama is the quintessential [Settia](https://osu.ppy.sh/users/2445897) map, featuring ridiculous cross screen jumps overtop of a bombastic eroge song. If you aren't up to the challenge of the 8 star top difficulty, there are four lower diffs that vary in difficulty for you to enjoy! It's got some jumps, yo.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/maybe-rosy-kiss-hard-dress-style-.jpg)](https://osu.ppy.sh/community/forums/topics/762192)
 
 [ave;new feat. Shirasawa Rie - MAYBE ROSY KISS -HARD dRESS STYLE-](https://osu.ppy.sh/beatmapsets/169650) by [\[CSGA\]Ar3sgice](https://osu.ppy.sh/users/989563)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-MAYBE ROSY KISS is a classic alternator style map by [\[CSGA\]Ar3sgice](https://osu.ppy.sh/users/989563), who you may know as the mapper of [Satori De Pon!](https://osu.ppy.sh/beatmapsets/46502) and other classics. Originally uploaded in 2014, the map features several patterns that were very ahead of their time, and the map remains a favourite among older age mappers and players, such as [RLC](https://osu.ppy.sh/users/1047883) and [Regou](https://osu.ppy.sh/users/419954). Will anyone FC? It's **maybe possible**.
+MAYBE ROSY KISS is a classic alternator-style map by [\[CSGA\]Ar3sgice](https://osu.ppy.sh/users/989563), who you may know as the mapper of [Satori De Pon!](https://osu.ppy.sh/beatmapsets/46502) and other classics. Originally uploaded in 2014, the map features several patterns that were very ahead of their time, and the map remains a favourite among older age mappers and players, such as [RLC](https://osu.ppy.sh/users/1047883) and [Regou](https://osu.ppy.sh/users/419954). Will anyone FC? It *might* be possible.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/mikusabbath.jpg)](https://osu.ppy.sh/community/forums/topics/762193)
 
 [utsuP - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/235068) by [- Milhofo -](https://osu.ppy.sh/users/3996979), [Haruaki](https://osu.ppy.sh/users/3576537) and [-Tochi](https://osu.ppy.sh/users/3664366)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-MiKUSABBATH is a fan favourite among players with a massive 369 favourites at the time of writing due to its frenetic mapping and exciting song choice. First uploaded in 2014, the map has gone through several years of modding and has now been left without a scoreboard despite the praise it has received from the community. Will the mapper's hard work finally pay off through the advent of the Loved category?
+MiKUSABBATH is a fan favourite among players, with a massive 369 favourites at the time of writing due to its frenetic mapping and exciting song choice. First uploaded in 2014, the map has gone through several years of modding and has now been left without a scoreboard despite the praise it has received from the community. Will the mapper's hard work finally pay off through the advent of the Loved category?
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/figue-folle.jpg)](https://osu.ppy.sh/community/forums/topics/762194)
 
 [Igorrr & Ruby My Dear - Figue Folle](https://osu.ppy.sh/beatmapsets/466872) by [Shrukaghn](https://osu.ppy.sh/users/6304675)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-Those of you familiar with Igorrr already know that the Baroquecore artist loves dialing up the creepiness factor to 11. Along with [Shrukaghn](https://osu.ppy.sh/users/6304675)'s spooky background, Figue Folle is the perfect combination of streams and kicksliders to make for a wonderfully enjoyable map. 2 years and 189 favorites later, it has finally found its way into the Loved category!
+Those of you familiar with Igorrr already know that the Baroquecore artist loves dialing up the creepiness factor to eleven. Along with [Shrukaghn](https://osu.ppy.sh/users/6304675)'s spooky background, Figue Folle has the perfect combination of streams and kicksliders to make for a wonderfully enjoyable map. Two years and 189 favourites later, it has finally found its way into the Loved category!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/rasen-hikou.jpg)](https://osu.ppy.sh/community/forums/topics/762195)
 
 [omoi - Rasen hikou](https://osu.ppy.sh/beatmapsets/340763) by [Arieruco](https://osu.ppy.sh/users/1811271)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-Formerly known as Arieeru, [Arieruco](https://osu.ppy.sh/users/1811271) is not an unknown name to those who enjoy graveyarded maps. 62 graved maps, along with an 1100+ favorite mapset of Snow Drive already in Loved, no introduction is needed for the level of quality Rasen hikou maintains. 155 favorites, 200 favorites, and another omoi song, Rasen hikou can be considered a mini Snow Drive in a way.  Fun jumps paired with some spaced streams comes together for an incredibly popular mapset for those not quite at the level of Snow Drive.
+Formerly known as Arieeru, [Arieruco](https://osu.ppy.sh/users/1811271) is not an unknown name to those who enjoy graveyarded maps. With 62 graved maps and an 1100+ favourite mapset of Snow Drive already in Loved, no introduction is needed for the level of quality Rasen hikou maintains. Having 155 favourites, 200BPM, and another omoi song, Rasen hikou can be considered a mini Snow Drive in a way. Fun jumps paired with some spaced streams come together for an incredibly popular mapset for those not quite at the level of Snow Drive.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/feliz-pascoa-pra-todos-voces-apesar-de-ninguem-ter-me-mandado-chocolates.jpg)](https://osu.ppy.sh/community/forums/topics/762196)
 
 [Maffalda - Feliz Pascoa pra todos voces apesar de ninguem ter me mandado chocolates](https://osu.ppy.sh/beatmapsets/336644) by [Nhawak](https://osu.ppy.sh/users/1572385) et al.  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-Another song from the ubiquitously popular Maffalda, known particularly for the mapset mononymously known as ["Gangsta"](https://osu.ppy.sh/beatmapsets/175036) by [Blue Dragon aka Mismagius](https://osu.ppy.sh/users/19048), this mapset by fellow Brazilian mapper [Nhawak](https://osu.ppy.sh/users/1572385) features a wealth of guest difficulties from popular mappers. This completely Easter themed map has racked up 166 favorites and manages to squeeze 7\* worth of jumps in its 47 second drain time within the top difficulty. Feliz Páscoa!
+Another song from the ubiquitously popular Maffalda, known particularly for the mapset mononymously known as ["Gangsta"](https://osu.ppy.sh/beatmapsets/175036) by [Mismagius](https://osu.ppy.sh/users/19048), this mapset by fellow Brazilian mapper [Nhawak](https://osu.ppy.sh/users/1572385) features a wealth of guest difficulties from popular mappers. This completely Easter-themed map has racked up 166 favourites and manages to squeeze 7\* worth of jumps in its 47-second drain time within the top difficulty. Feliz Páscoa!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/shinchoku-doudesu-ka-.jpg)](https://osu.ppy.sh/community/forums/topics/762197)
 
 [Nanahira - Shinchoku Doudesu ka?](https://osu.ppy.sh/beatmapsets/446027) by [BarkingMadDog](https://osu.ppy.sh/users/3475189)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-[BarkingMadDog](https://osu.ppy.sh/users/3475189) is no stranger to both the Loved category AND mapping Nanahira songs, but Shinchoku Doudesu ka is certainly one of his most notable maps. From the cross screen jumps to the somewhat questionable background, everything about this map is incredibly iconic and both a blast to watch as well as play. Be on the lookout for some impressive plays if this map makes it to the leaderboards!
+[BarkingMadDog](https://osu.ppy.sh/users/3475189) is no stranger to both the Loved category *and* mapping Nanahira songs, but Shinchoku Doudesu ka is certainly one of his most notable maps. From the cross screen jumps to the somewhat questionable background, everything about this map is incredibly iconic and both a blast to watch as well as play. Be on the lookout for some impressive plays if this map makes it to the leaderboards!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/anarchy-road.jpg)](https://osu.ppy.sh/community/forums/topics/762198)
 
 [Carpenter Brut - Anarchy Road](https://osu.ppy.sh/beatmapsets/345086) by [Voyen](https://osu.ppy.sh/users/2920725)  
 *written by [Kaifin](https://osu.ppy.sh/users/2596942)*
 
-Anarchy Road has been a staple of multiplayer lobbies since it was first uploaded in 2015, and it's quite easy to see why. The map is perfectly synchronized with the song in terms of intensity, starting off chill and eventually building to a huge peak in difficulty at the 2 minute mark. With over 160 favourites, Anarchy Road is a community favourite and a clear choice for Loved.
+Anarchy Road has been a staple of multiplayer lobbies since it was first uploaded in 2015, and it's quite easy to see why. The map is perfectly synchronized with the song in terms of intensity, starting off chill and eventually building to a huge peak in difficulty at the two-minute mark. With over 160 favourites, Anarchy Road is a community favourite and a clear choice for Loved.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/kyouki-chinden.jpg)](https://osu.ppy.sh/community/forums/topics/762199)
 
@@ -95,7 +95,7 @@ Anarchy Road has been a staple of multiplayer lobbies since it was first uploade
 [gmtn. (witch's slave) - disperagioia](https://osu.ppy.sh/beatmapsets/566624) by [Dokito](https://osu.ppy.sh/users/537084)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatmapsets/280107), [DoKito](https://osu.ppy.sh/users/537084) returns with one of my personal favorite maps of disperagioia. The all-around ominous background and bumping hardstyle track are paired with devilish spaced streams to create a very well put together 7.4\* mapset. The 90 favorites it has amassed make it more than worthy to be featured within the Loved category.
+From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatmapsets/280107), [DoKito](https://osu.ppy.sh/users/537084) returns with one of my personal favourite maps of disperagioia. The all-around ominous background and bumping hardstyle track are paired with devilish spaced streams to create a very well put together 7.4\* mapset. The 90 favourites it has amassed make it more than worthy to be featured within the Loved category.
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
@@ -105,37 +105,37 @@ From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatm
 
 [MuryokuP - Frozen World](https://osu.ppy.sh/beatmapsets/194955) by [c36098651](https://osu.ppy.sh/users/2048577) and [Firce777](https://osu.ppy.sh/users/274072)
 
-It's cold outside. Wonder why? Because this song is literally named Frozen World. A technical beatmap that will give you chills, and was featured in Taiko World Cup 2015! Let's put things straight: it's a [Firce777](https://osu.ppy.sh/users/274072) map, whom a lot of taiko players must have heard of at least once for winning a beatmapping contest, as well as making a ton of beatmaps that pro players have played, and has his own signature brutal difficulty name "Firce Force". This time around, he's made a fairly easy but still not free-to-FC beatmap that contains the usual tech things: 1/6 notes, some small 1/8 bursts and even one 1/12 burst near the end! And for you osu!mania players who seek some challenge, c36098651 made a difficulty in the set that is much harder than their ranked beatmap set!
+It's cold outside. Wonder why? Because this song is literally named Frozen World. It's a technical beatmap that will give you chills, and was featured in the osu!taiko World Cup 2015! Let's put things straight: it's a [Firce777](https://osu.ppy.sh/users/274072) map, whom a lot of taiko players must have heard of at least once for winning a beatmapping contest, as well as making a ton of beatmaps that pro players have played, and has his own signature brutal difficulty name "Firce Force". This time around, he's made a fairly easy but still not free-to-FC beatmap that contains the usual tech things: 1/6 notes, some small 1/8 bursts and even one 1/12 burst near the end! And for you osu!mania players who seek some challenge, [c36098651](https://osu.ppy.sh/users/2048577) made a difficulty that is much harder than in their ranked beatmapset!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/l-l-l-.jpg)](https://osu.ppy.sh/community/forums/topics/762203)
 
 [MYTH & ROID - L.L.L.](https://osu.ppy.sh/beatmapsets/505696) by [Devli](https://osu.ppy.sh/users/8276884) and [yassu-](https://osu.ppy.sh/users/7095592)
 
-Brought to you by the the band who made STYX HELIX, L.L.L. is the debut single of MYTH & ROID. And boy this song is great, and [Devli](https://osu.ppy.sh/users/8276884), along with [yassu-](https://osu.ppy.sh/users/7095592), knew it well. Be prepared for streams and tech for all 3:30 of the song, and this is going to be one hell of a ride. But if you're not like these pro players, don't worry too much about it! This beatmap set provides every level of difficulty, so you can enjoy the song even if you are a newcomer. And to be very honest, even if I don't know who is in the background, I really like her...  demons are the best things...
+Brought to you by the band who made STYX HELIX, L.L.L. is the debut single of MYTH & ROID. And boy this song is great; you can tell that [Devli](https://osu.ppy.sh/users/8276884) and [yassu-](https://osu.ppy.sh/users/7095592) knew it well. Be prepared for streams and tech patterns for all 3:30 of the song; it's going to be one hell of a ride! But if you're not like these pro players, don't worry too much about it! This beatmap set provides every level of difficulty, so you can enjoy the song even if you are a newcomer. And to be very honest, even if I don't know who is in the background, I really like her... demons are the best things... *(Note from post writer: Alright Gezo, I'm not sure we needed to know your preferences here)*
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/anomaly.jpg)](https://osu.ppy.sh/community/forums/topics/762205)
 
 [Camellia - ANOMALY](https://osu.ppy.sh/beatmapsets/498672) by [Y O U T A](https://osu.ppy.sh/users/4909860)
 
-Hello fellow players, this is your captain. It appears [Y O U T A](https://osu.ppy.sh/users/4909860) is back to the pollings after a while to bring us the craziest insanity that no other player has ever se- Wait, that's the wrong sheet! Anyway, ANOMALY is one hella radical beatmap that isn't going to kill you hard with wAcKy EfFeCtS. Expect purely technical patterns ending on blue ticks, some handswitches, both of these making you focus at all times. It may not be your usual tech map with lots of 1/6 or 1/8 notes, but if you run into it without knowing what it is... you might as well die of too many mistakes. o7
+Hello fellow players, this is your captain. It appears [Y O U T A](https://osu.ppy.sh/users/4909860) is back to the pollings after a while to bring us the craziest insanity that no other player has ever se—wait, that's the wrong sheet! Anyway, ANOMALY is one hella radical beatmap that isn't going to kill you hard with wAcKy EfFeCtS. Expect purely technical patterns ending on blue ticks and some handswitches, both of these making you focus at all times. It may not be your usual tech map with lots of 1/6 or 1/8 notes, but if you run into it without knowing what it is... you might have a hard time. o7
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/ur-musiceater-lv99.jpg)](https://osu.ppy.sh/community/forums/topics/762207)
 
 [LeaF - UR+ MusicEater LV99](https://osu.ppy.sh/beatmapsets/455972) by [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752) and [Backfire](https://osu.ppy.sh/users/263110)
 
-Do we still have to present LeaF? The artist behind many of the popular BMS songs such as Aleph-0 or Calamity Fortune. Well this time we get one more song that lies on the border between breakcore and chiptune. The beatmap of this song, made by [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752), was featured on Taiko World Cup: Last Man Standing 3 and is a crazy speed beatmap with lots of tech, 1/3 notes, and small 1/6 bursts. The "LMS Ver." difficulty is the that was used in the tournament, while "UNLIMITED Oni" is the original difficulty. Both are very similar experiences, so I can only recommend playing them!
+Do we still have to present LeaF? The artist behind many of the popular BMS songs such as Aleph-0 or Calamity Fortune is no stranger to Loved. This time, we get one more song that lies on the border between breakcore and chiptune. The beatmap of this song, made by [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752), was featured in [Taiko World Cup: Last Man Standing 3](https://osu.ppy.sh/community/forums/topics/449295) and is a crazy speed beatmap with lots of tech patterns, 1/3 notes, and small 1/6 bursts. The "LMS Ver." difficulty is the one that was used in the tournament, while "UNLIMITED Oni" is the original difficulty. Both are very similar experiences, so I can only recommend playing both of them!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/silly-300bpm-thing.jpg)](https://osu.ppy.sh/community/forums/topics/762208)
 
 [easyname - silly 300bpm thing](https://osu.ppy.sh/beatmapsets/651668) by [yea](https://osu.ppy.sh/users/6874332)
 
-This week, we are putting another map in redemption and this time, it is a silly 300BPM thing, an absurdly difficult speedtech maps mapped by [yea](https://osu.ppy.sh/users/6874332). It's got 1/6 bursts, 1/4 and 1/6 long sections that will just straight up kill you, even with the low HP that this map has to counterbalance the sheer difficulty. The easy difficulty gets rid of these to be more playable, but is still going to challenge anyone not ready for 300BPM streams. It's a very great beatmap that I personally recommend even if you don't think you can tackle the challenge, so go get it!
+This week, we are putting another map in redemption and this time, it is a silly 300BPM thing, an absurdly difficult speedtech map by [yea](https://osu.ppy.sh/users/6874332). It's got 1/6 bursts, and 1/4 and 1/6 long sections that will just straight up kill you, even with the low HP that this map has to counterbalance the sheer difficulty. The easy difficulty gets rid of these to be more playable, but is still going to challenge anyone not ready for 300BPM streams. It's a very great beatmap that I personally recommend even if you don't think you can tackle the challenge, so go get it!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/kakinchu-no-uta-more-charin-ver-.jpg)](https://osu.ppy.sh/community/forums/topics/762209)
 
 [Nanahira - Kakinchu no Uta -More Charin Ver.-](https://osu.ppy.sh/beatmapsets/403812) by [aabc271](https://osu.ppy.sh/users/155707) and [ll-oscar](https://osu.ppy.sh/users/1488736)
 
-Coming straight from an era where storyboard gimmicks were starting to take off using crazy songs, Kakinchu no Uta is a much more tame song from the community's beloved singer, Nanahira. It introduces the gimmicks very neatly, slowly and is not too hard for people who begin in the storyboard gimmick world. Other introductions made in it are the usage of Hidden and HardRock mods within the beatmap. It's something I personally love both for the fact that it defies the trope of "crazy songs = gimmicks", and for the way it was made. Let's just say that [aabc271](https://osu.ppy.sh/users/155707) really excelled themselves!
+Coming straight from an era where storyboard gimmicks were starting to take off using crazy songs, Kakinchu no Uta is a much more tame song from the community's beloved singer, Nanahira. It introduces the gimmicks very neatly, slowly and is not too hard for people who begin in the storyboard gimmick world. Other introductions made in it are the usage of Hidden and HardRock mods within the beatmap. It's something I personally love both for the fact that it defies the trope of "crazy songs = gimmicks", and for the way it was made. Let's just say that [aabc271](https://osu.ppy.sh/users/155707) really outdid themselves!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/nekosogi-destruction.jpg)](https://osu.ppy.sh/community/forums/topics/762210)
 
@@ -150,7 +150,7 @@ Here we go again! Nekosogi Destruction is a speed map that will fool you from it
 [gmtn. (witch's slave) - furioso melodia](https://osu.ppy.sh/beatmapsets/603435) by [Minato Yukina](https://osu.ppy.sh/users/531253)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-Furioso melodia is one of [Minato Yukina](https://osu.ppy.sh/users/531253)'s most ominous and well rounded maps he's ever made. In this map you will find tons of pretty hardcore jumping sections and rapid left-rights, which combine very well with the nerve wrecking song we all know furioso melodia is. The map is mostly suited for high to top end players, but will still prove very hard to full combo even for that playerbase. Will you be able to manage yourself, or will you crack under the pressure of the witch's slave, see for yourself!
+Furioso melodia is one of [Minato Yukina](https://osu.ppy.sh/users/531253)'s most ominous and well rounded maps he's ever made. In this map you will find tons of pretty hardcore jumping sections and rapid left-rights, which combine very well with the nerve wrecking song we all know furioso melodia is. The map is mostly suited for top-end players, but will still prove very hard to full combo even for that player base. Will you be able to manage yourself, or will you crack under the pressure of the witch's slave, see for yourself!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/fierce-fight-remix.jpg)](https://osu.ppy.sh/community/forums/topics/762215)
 
@@ -164,7 +164,7 @@ Coming in with probably the most unorthodox map of this week's catch loved vote 
 [MONSTA - Holdin' On (Skrillex & Nero Remix)](https://osu.ppy.sh/beatmapsets/78908) by [VelperK](https://osu.ppy.sh/users/348467)  
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-A map which most of the veteran players remember - Holdin' On by [VelperK](https://osu.ppy.sh/users/348467). Back in the days when he submitted this map it was instantly popular among the community and has been played in nearly every multiplayer match. Over the years it started to disappear slowly - It's about time to bring it back and feel the nostalgia. The mapping style is somewhat timeless; although you can feel that it is older it still doesn't feel too out of place for today's standards. It mostly consists of precise left-right movement paired with a few hyperchains here and there - super general. I believe the majority of the community appreciates this map which makes it a great contender for the loved category. My hope will never die.
+A map which most of the veteran players remember—Holdin' On by [VelperK](https://osu.ppy.sh/users/348467). Back in the days when he submitted this map it was instantly popular among the community and has been played in nearly every multiplayer match. Over the years it started to disappear slowly; it's about time to bring it back and feel the nostalgia. The mapping style is somewhat timeless; although you can feel that it is older it still doesn't feel too out of place for today's standards. It mostly consists of precise left-right movement paired with a few hyperchains here and there—super general. I believe the majority of the community appreciates this map which makes it a great contender for the loved category. My hope will never die.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/dysthymia.jpg)](https://osu.ppy.sh/community/forums/topics/762217)
 
@@ -198,7 +198,7 @@ The chart was also used back in the 2016 mania world cup, a time when long notes
 
 One hell of a throwback to early osu!mania days, [Awang411](https://osu.ppy.sh/users/1014938)'s Katayoku no Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in various multiplayer lobbies.
 
-Katayoku no Tori owes its success and popularity to its large accessibility. The mapset contains a wide spread of 4K difficulties, ranging from 1st to 10th Twilight. With each difficulty, the map gets denser and more relentless - while the first Twilights are easily accessible to newcomers who want to try out a fun and fast song, the final Twilights challenge the player with 220BPM jumpstreams and handstreams.
+Katayoku no Tori owes its success and popularity to its large accessibility. The mapset contains a wide spread of 4K difficulties, ranging from 1st to 10th Twilight. With each difficulty, the map gets denser and more relentless—while the first Twilights are easily accessible to newcomers who want to try out a fun and fast song, the final Twilights challenge the player with 220BPM jumpstreams and handstreams.
 
 Although from today's perspective the general patterning is rather unrefined and feels odd at times, Katayoku no Tori still retains its charm as the mapset heavily played in the older era of osu!mania. This is why we believe the mapset has earned its place in the Loved category.
 
@@ -207,7 +207,7 @@ Although from today's perspective the general patterning is rather unrefined and
 [Zeami - Music Revolver](https://osu.ppy.sh/beatmapsets/130464) by [Entozer](https://osu.ppy.sh/users/277044)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Here we have [Entozer](https://osu.ppy.sh/users/277044) again with a beautiful but hard beatmap set called Zeami – Music Revolver. This set features both Long Note and Chordstream difficulties, making it accessible for every kind of player.  This map has been popular since the early days of osu!mania, apart from having an untrustful difficulty name choices which will likely confuse a lot of players because who would've ever wondered that a "Normal" difficulty could almost be 7 stars? I hope nobody did.
+Here we have [Entozer](https://osu.ppy.sh/users/277044) again with a beautiful but hard beatmap set called Zeami – Music Revolver. This set features both Long Note and Chordstream difficulties, making it accessible for every kind of player. This map has been popular since the early days of osu!mania, apart from having an untrustful difficulty name choices which will likely confuse a lot of players because who would've ever wondered that a "Normal" difficulty could almost be 7 stars? I hope nobody did.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/endymion.jpg)](https://osu.ppy.sh/community/forums/topics/762223)
 
@@ -232,9 +232,9 @@ This map has also been used for the osu!mania 7K World Cup 2016 Finals mappool. 
 [Yooh - LiFE Garden (short Ver.)](https://osu.ppy.sh/beatmapsets/436217) by [pocket-Gao](https://osu.ppy.sh/users/3162182) et al.  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-Our last pick comes from a pretty well known in certain communities charter, creator of maps like Violet Soul, [pocket-Gao](https://osu.ppy.sh/users/3162182)! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh definitely stands out. This chart is running at 149BPM and while it's not the highest of tempos, this chart is fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, [Critical\_Star](https://osu.ppy.sh/users/3793196), [Crystal](https://osu.ppy.sh/users/1646397) & [ExNeko](https://osu.ppy.sh/users/7590894) it provides challenge to both newcomers and more advanced players.
+Our last pick comes from a pretty well known charter, creator of maps like Violet Soul, [pocket-Gao](https://osu.ppy.sh/users/3162182)! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh, definitely stands out. This chart is running at 149BPM, and while it's not the highest of tempos, it's fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, [Critical\_Star](https://osu.ppy.sh/users/3793196), [Crystal](https://osu.ppy.sh/users/1646397) & [ExNeko](https://osu.ppy.sh/users/7590894) it provides challenge to both newcomers and more advanced players.
 
-It is a classic, a really well designed set for a more uncommon keymode as well as the most popular keymode that's still relevant to this day and I believe that it's a good candidate for the Loved category!
+It is a classic, really well designed set for a more uncommon keymode and I believe that it's a good candidate for the Loved category!
 
 ---
 
