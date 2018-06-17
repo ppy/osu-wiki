@@ -92,7 +92,7 @@ Anarchy Road has been a staple of multiplayer lobbies since it was first uploade
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/disperagioia.jpg)](https://osu.ppy.sh/community/forums/topics/762200)
 
-[gmtn. (witch's slave) - disperagioia](https://osu.ppy.sh/beatmapsets/566624) by [Dokito](https://osu.ppy.sh/users/537084)  
+[gmtn. (witch's slave) - disperagioia](https://osu.ppy.sh/beatmapsets/566624) by [DoKito](https://osu.ppy.sh/users/537084)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
 From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatmapsets/280107), [DoKito](https://osu.ppy.sh/users/537084) returns with one of my personal favourite maps of disperagioia. The all-around ominous background and bumping hardstyle track are paired with devilish spaced streams to create a very well put together 7.4\* mapset. The 90 favourites it has amassed make it more than worthy to be featured within the Loved category.
@@ -157,7 +157,7 @@ Here we go again! Nekosogi Destruction is a speed map that will fool you from it
 [S.S.H. - Fierce Fight-Remix](https://osu.ppy.sh/beatmapsets/40480) by [Snow Note](https://osu.ppy.sh/users/643394), [DakkyChan](https://osu.ppy.sh/users/2107017), [ExGon](https://osu.ppy.sh/users/214187) and [inaba-tan](https://osu.ppy.sh/users/477744)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-Coming in with probably the most unorthodox map of this week's osu!catch loved vote are [ExGon](https://osu.ppy.sh/users/214187) and [Dakkychan](https://osu.ppy.sh/users/2107017) with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights, this map clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
+Coming in with probably the most unorthodox map of this week's osu!catch loved vote are [ExGon](https://osu.ppy.sh/users/214187) and [DakkyChan](https://osu.ppy.sh/users/2107017) with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights, this map clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/holdin-on-skrillex-nero-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/762216)
 
