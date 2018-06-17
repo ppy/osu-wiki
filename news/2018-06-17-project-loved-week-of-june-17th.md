@@ -145,12 +145,12 @@ Here we go again! Nekosogi Destruction is a speed map that will fool you from it
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
-[![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/furioso-melodia.jpg)](https://osu.ppy.sh/community/forums/topics/762214)
+[![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/gigadelic-camellia-s-the-tera-rmx-.jpg)](https://osu.ppy.sh/community/forums/topics/762314)
 
-[gmtn. (witch's slave) - furioso melodia](https://osu.ppy.sh/beatmapsets/603435) by [Minato Yukina](https://osu.ppy.sh/users/531253)  
-*written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
+[Camellia - gigadelic (Camellia's "The TERA" RMX)](https://osu.ppy.sh/beatmapsets/388122) by [Alumetorz](https://osu.ppy.sh/users/531253)  
+*written by [Ascendance](https://osu.ppy.sh/users/2931883)*
 
-Furioso melodia is one of [Minato Yukina](https://osu.ppy.sh/users/531253)'s most ominous and well rounded maps he's ever made. In this map you will find tons of pretty hardcore jumping sections and rapid left-rights, which combine very well with the nerve wrecking song we all know furioso melodia is. The map is mostly suited for top-end players, but will still prove very hard to full combo even for that player base. Will you be able to manage yourself, or will you crack under the pressure of the witch's slave, see for yourself!
+[Minato Yukina](https://osu.ppy.sh/users/531253) returns for this round of Project Loved with one of his patented "Nervous Breakdown" maps, gigadelic! Like most of the Nervous Breakdown series, gigadelic boasts challenging patterns at a fast pace and features classic CLSW patterns that long-time fans of the series will be sure to enjoy. Don't let the comfort of HP5 fool you, though; one miss could be your downfall as you succumb to a downpour of challenging jumps and devastating antiflow. Regardless of the daunting task ahead, you won't want to miss this map!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/fierce-fight-remix.jpg)](https://osu.ppy.sh/community/forums/topics/762215)
 
