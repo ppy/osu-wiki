@@ -76,7 +76,7 @@ The gameplay puts emphasis on:-
 - Physical stamina and mental fortitude (especially longer, marathon-type songs).
 - Proper positioning and hand-eye coordination.
 
-These are some of the vital skills to become an _osu! rhythm master_.
+These are some of the vital skills to become an _osu! rhythm champion_.
 
 The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
 
