@@ -69,13 +69,8 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
-
-### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
-
-| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
-| --- | --- | --- | --- | --- | --- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #5](/wiki/Tournaments/RMoT_Invitational/5) | 2018-05-12 | 2018-05-27 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
 ### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
 
@@ -94,6 +89,18 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018/) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/catch.png) Catch French Cup
+
+| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
+| --- | --- | --- | --- | --- | --- |
+| [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+
+### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
+
+| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
+| --- | --- | --- | --- | --- | --- |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+
 ### ![](/wiki/shared/mode/mania.png) Springtime osu!mania Free-for-all Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
@@ -102,12 +109,13 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 | Springtime osu!mania Free-for-all Tournament 2 | 2017-02-18 | 2017-04-30 | ![][flag_KR] [cheetose](https://osu.ppy.sh/users/3817144) | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) | ![][flag_VN] [Asrielly](https://osu.ppy.sh/users/2656302) | 
 | [Springtime osu!mania Free-for-all Tournament 3](/wiki/Tournaments/SOFT/3/) | 2018-02-17 | 2018-04-29 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | ![][flag_JP] [inteliser](https://osu.ppy.sh/users/1824775) | ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 
-
-### ![](/wiki/shared/mode/catch.png) Catch French Cup
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
-| [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) | 
+| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(7K)  | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(7K) | 
+| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018/) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(Standard), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(Catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(Standard), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)[Catch], ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(7K) |
 
 Zobacz także
 -------------
@@ -133,6 +141,7 @@ Zobacz także
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
