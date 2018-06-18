@@ -176,7 +176,7 @@ The entirety of this skin set is gameplay relevant.
 ### Catcher Set
 
 All elements besides lightning.png are gameplay relevant. 
-For catchers the plate must be perfectly centered and exactly 302px across in width.
+For catchers the plate must be perfectly centered and exactly 302px across in width. While the default skin's plate is uncentered, it may be used in beatmap-specific skins.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
