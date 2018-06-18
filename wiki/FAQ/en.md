@@ -30,7 +30,7 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium by deadbeat"
+[Skin Compendium link]: https://puu.sh/AHDf6/2355dfc56c.png "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
 [osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
