@@ -16,7 +16,7 @@ Asian Taiko Showdown 2018
 ## 大会スケジュール
 
 | 行事 | 日時 |
-| ---: | :--- |
+| --: | :-- |
 | 参加受付 | 2018-04-21/2018-05-26 |
 | 締め切り | 2018-05-27 21:00 UTC+9(日本時間)) |
 | Group Stage | 2018-06-02/2018-06-03 |
@@ -29,7 +29,7 @@ Asian Taiko Showdown 2018
 ## 賞
 
 | 順位 | 賞 |
-| --- | :--- |
+| --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 特別なプロフィールバッジ, ユーザーページにバナー追加 |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ユーザーページにバナー追加 |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ユーザーページにバナー追加 |
@@ -41,7 +41,7 @@ Asian Taiko Showdown 2018
 ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営します。
 
 | 役割 | ﾒﾝﾊﾞｰ |
-| ------------ | -------------- |
+| --- | --- |
 | 主催 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | 譜面セレクター | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | コメンテーター | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
@@ -67,7 +67,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### Saturday, 23 June 2018
 
 | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | LB | ayomikasa | ![][flag_ID] | ![][flag_MY] | ZethZ161 | **08:00 UTC** | 15:00 UTC +7 | 16:00 UTC +8 |
 | LB | Xin Leviathan | ![][flag_JP] | ![][flag_JP] | KILI3343 | **09:30 UTC** | 18:30 UTC +9 | 18:30 UTC +9 |
 | LB | Smallwu | ![][flag_TW] | ![][flag_ID] | Niko-nyan | **12:00 UTC** | 20:00 UTC +8 | 19:00 UTC +7 |
@@ -76,7 +76,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### Sunday, 24 June 2018
 
 | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | UB | qoot8123 | ![][flag_TW] | ![][flag_JP] | butter0414 | **06:00 UTC** | 14:00 UTC +8 | 15:00 UTC +9 |
 | LB | (Winner of ayomikasa - ZethZ161) |  |  | (Winner of Xin Leviathan - KILI3343) | **07:30 UTC** |  |  |
 | LB | (Winner of Smallwu - Niko-nyan) |  |  | (Winner of TS_LewisLuo - Jerry) | **09:00 UTC** |  |  |
@@ -261,16 +261,32 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 ## 試合結果
 
+### Quarterfinals
+
+| Group | Saturday, 2018-06-16 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| UB | Xin Leviathan ![][flag_JP] | 2 | 5 | ![][flag_JP] nyanmi-1828 | [#1](https://osu.ppy.sh/community/matches/43384244) |
+| LB | Jerry ![][flag_MY] | 5 | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43385309) |
+| LB | Niko-nyan ![][flag_ID] | 5 | 1 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43385319) |
+| UB | Smallwu ![][flag_TW] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43391517) |
+
+| Group | Sunday, 2018-06-17 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| UB | Sanawieck ![][flag_JP] | 5 | 3 | ![][flag_TW] TS_LewisLuo | [#1](https://osu.ppy.sh/community/matches/43413311) |
+| LB | Dakry ![][flag_MY] | 0 | 5 | ![][flag_MY] ZethZ161 | -Win by Default- |
+| UB | butter0414 ![][flag_JP] | 5 | 3 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/43414816) |
+| LB | Noko_BSF ![][flag_JP] | 2 | 5 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43415768) |
+
 ### Round of 16
 
 | Group | Saturday, 2018-06-09 |  |  |  |  | 
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | UB | Xin Leviathan ![][flag_JP] | 5 | 3 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43186328) |
 | UB | Sanawieck ![][flag_JP] | 5 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
 | UB | Jerry ![][flag_MY] | 4 | 5 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43194107) |
 
 | Group | Saturday, 2018-06-10 |  |  |  |  | 
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | UB | Tsubasa2 ![][flag_AU] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43218564) |
 | UB | TS_LewisLuo ![][flag_TW] | 5 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43219599) |
 | UB | nyanmi-1828 ![][flag_JP] | 5 | 0 | ![][flag_MY] ZethZ161 | -Win by Default- |
@@ -280,7 +296,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### Group Stage
 
 | Group | Saturday, 2018-06-02 |  |  |  |  | 
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | C | nyanmi-1828 ![][flag_JP] | 4 | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
 | D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
 | B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | Nullified |
@@ -307,7 +323,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | G | Shirai- ![][flag_ID] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42991227) |
 
 | Group | Sunday, 2018-06-03 |  |  |  |  | 
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | B | Dakry ![][flag_MY] | 4 | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43007113) |
 | H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_PH] Jmeh07 | [#1](https://osu.ppy.sh/community/matches/43013154) |
 | C | nyanmi-1828 ![][flag_JP] | 4 | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43013166) |
@@ -336,7 +352,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### Eliminations
 
 | Group | Friday, 2018-06-01 |  |  |  |  | 
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | EM | Beat43210 ![][flag_AU] | 3 | 0 | ![][flag_MY] Minisora | -Win by Default- |
 | EM | Bedwyr Aorta ![][flag_MY] | 3 | 0 | ![][flag_ID] Jin Kun | -Win by Default- |
 | EM | Taiko_VN12 ![][flag_VN] | 3 | 0 | ![][flag_PH] -Zephy- | -Win by Default- |
