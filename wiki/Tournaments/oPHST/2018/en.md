@@ -496,6 +496,8 @@ Mappools will be revealed one week in advance of each stage.
 
 #### Finals Week 1
 
+[**Download the mappack here! (95.1 MB)**](https://drive.google.com/open?id=1jBJVnW1x25rlwa41exRrOHOE4YY7p9SD)
+
 - FreeMod
 	- [Neko Kanimaru - Hidamari no machi - a! (shuniki) \[Black Another\]](https://osu.ppy.sh/beatmaps/1041327)
 	- [ATC - Around the World (Wh1teh) \[\]](https://osu.ppy.sh/beatmaps/937985)
@@ -828,7 +830,6 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 1    | **Roido**       | **6** | 3     | -MomoX          | 5    |     | 
 | 2    | **-Nicotine**   | **6** | 3     | * Kielzu -      | 3    |     | 
 
-
 #### Quarterfinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
@@ -859,7 +860,38 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD | 
 | 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD | 
 
-### osu!mania 4K 
+### osu!mania 4K
+
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2       | Seed |  | 
+|:------:|:-----------------|:-------:|:-------:|----------------:|:------:|--| 
+| 3    | Vigne Tsukinose | 2     | **7** | **exodia3000** | 8    |  | 
+| 1    | **joseee-**     | **7** | 6     | exodia3000     | 8    |  | 
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2        | Seed |     | 
+|:------:|:----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 4    | **Toyohime-**  | **7** | 6     | MapleSyrup-     | 2    |     | 
+| 7    | Mk3605         | 3     | **7** | **exodia3000**  | 8    |     | 
+| 8    | **exodia3000** | **7** | 1     | Toyohime-       | 4    |     | 
+| 1    | **joseee-**    | **7** | 0     | Vigne Tsukinose | 3    | WBD | 
+
+#### Semifinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2            | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|---------------------:|:------:|-----| 
+| 8    | **exodia3000**  | **6** | 0     | windrush123         | 5    |     | 
+| 2    | **MapleSyrup-** | **6** | 0     | nyx-                | 6    | WBD | 
+| 1    | **joseee-**     | **6** | 0     | Toyohime-           | 4    |     | 
+| 7    | Mk3605          | 2     | **6** | **Vigne Tsukinose** | 3    |     | 
 
 #### Quarterfinals
 
@@ -932,6 +964,37 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
 
 ### osu!mania 7K
+
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2            | Seed |  | 
+|:------:|:----------------|:-------:|:-------:|---------------------:|------:|--| 
+| 1    | MapleSyrup     | 0     | **7** | **Vigne Tsukinose** | 3    |  | 
+| 2    | **cieloday05** | **7** | 1     | Vigne Tsukinose     | 3    |  | 
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml)
+
+| Seed | Player 1            |       |       | Player 2       | Seed |     | 
+|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----| 
+| 5    | **LackPoints**      | **7** | 0     | joseee-        | 6    | WBD | 
+| 3    | **Vigne Tsukinose** | **7** | 0     | - Kura -       | 4    | WBD | 
+| 3    | **Vigne Tsukinose** | **7** | 0     | LackPoints     | 5    |     | 
+| 1    | MapleSyrup-         | 0     | **7** | **cieloday05** | 2    |     | 
+
+#### Semifinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2        | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 8    | nyx-            | 0     | **6** | **- Kura -**    | 4    | WBD | 
+| 7    | Tots            | 0     | **6** | **joseee-**     | 6    | WBD | 
+| 1    | **MapleSyrup-** | **6** | 0     | LackPoints      | 5    |     | 
+| 2    | **cieloday05**  | **6** | 0     | Vigne Tsukinose | 3    |     | 
 
 #### Quarterfinals
 
