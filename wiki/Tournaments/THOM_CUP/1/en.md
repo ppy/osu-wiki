@@ -78,6 +78,27 @@ The Heptakey osu!mania Cup #1
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (74.1 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
+
+- FreeMod
+  - [Silent Siren - BANG!BANG!BANG! (PP_Aika) \[lvl.33\]](https://osu.ppy.sh/beatmaps/1578815)
+  - [-45 - 44river (cut) (Jinjin) \[Delayanother\]](https://osu.ppy.sh/beatmaps/1675866)
+  - [Horie Yui - Asymmetry (Hanazawa Kana) \[Yoyu's Absolution\]](https://osu.ppy.sh/beatmaps/926281)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[underjoy's Another\]](https://osu.ppy.sh/beatmaps/1532817)
+  - [cYsmix - Manic (Kiviman) \[Extra\]](https://osu.ppy.sh/beatmaps/800207)
+  - [Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]](https://osu.ppy.sh/beatmaps/1679130)
+  - [LIONE - Leave This Place (ARMNHMR Remix) (Evening) \[We VIP\]](https://osu.ppy.sh/beatmaps/1677993)
+  - [455 - G e n g a o z o (stupud man) \[GOD (rework)\]](https://osu.ppy.sh/beatmaps/1678623)
+  - [ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]](https://osu.ppy.sh/beatmaps/689600)
+  - [toby fox - MEGALOVANIA (Jinjin) \[sans\]](https://osu.ppy.sh/beatmaps/1674242)
+  - [Nanahoshi Kangengakudan - Meikaruza (sankansuki) \[ONE TON FUN\]](https://osu.ppy.sh/beatmaps/922343)
+  - [EBICO - Persephone (Kamikaze) \[Maki'nother\]](https://osu.ppy.sh/beatmaps/1579893)
+  - [Camellia - Proluvies (Lenfried-) \[7K Insane\]](https://osu.ppy.sh/beatmaps/1536296)
+- Tiebreaker
+  - [aaaa - Bokutachi no Tabi to Epilogue (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmaps/1041584)
+
 ### Round of 16
 
 **[Download the mappack here! (95.5 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
@@ -144,6 +165,19 @@ The Heptakey osu!mania Cup #1
   - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
 
 ## Match Results
+
+### Round of 16
+
+| Sunday, 2018-05-17 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **aitor98** ![][flag_ES]      | **5** | 0 | ![][flag_RU] Mage         | [#1](https://osu.ppy.sh/community/matches/43421756) |
+| **robby250** ![][flag_RO]     | **5** | 1 | ![][flag_DK] Jole         | [#1](https://osu.ppy.sh/community/matches/43423366) |
+| Gekido- ![][flag_US]          | 2 | **5** | ![][flag_IT] **Yomiel**   | [#1](https://osu.ppy.sh/community/matches/43424816) |
+| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_DE] rohen04      | [#1](https://osu.ppy.sh/community/matches/43426548) |
+| **Skalim** ![][flag_CL]       | **5** | 0 | ![][flag_RU] Daleenie     | [#1](https://osu.ppy.sh/community/matches/43428153) |
+| Hayabusa ![][flag_GB]         | 3 | **5** | ![][flag_CH] **Gamer97**  | [#1](https://osu.ppy.sh/community/matches/43429449) |
+| **SillyFangirl** ![][flag_BR] | **5** | 1 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/43431702) |
+| Alternater ![][flag_US]       | 2 | **5** | ![][flag_BR] **Keweft**   | [#1](https://osu.ppy.sh/community/matches/43432870) |
 
 ### Group Stage
 
