@@ -193,6 +193,7 @@ The following players are the people who managed to pull through the whole compe
 |:---:|---|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Dunois](https://osu.ppy.sh/users/4581715) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Marika](https://osu.ppy.sh/users/2199427) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Varsagus](https://osu.ppy.sh/users/3885723), [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
 
 ### osu!catch Division
 
@@ -200,6 +201,7 @@ The following players are the people who managed to pull through the whole compe
 |:---:|---|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Roido](https://osu.ppy.sh/users/6829103) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 
 ### osu!mania 4K Division
 
@@ -207,6 +209,7 @@ The following players are the people who managed to pull through the whole compe
 |:---:|---|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [joseee-](https://osu.ppy.sh/users/10083439) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [exodia3000](https://osu.ppy.sh/users/10500797) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
 
 ### osu!mania 7K Division
 
@@ -214,6 +217,7 @@ The following players are the people who managed to pull through the whole compe
 |:---:|---|
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [cieloday05](https://osu.ppy.sh/users/2722489) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ------------------------
 
@@ -549,7 +553,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [saradisk - I Don't Play KanColle But Shimakaze-chan Is Cute (Daikyi) \[shimADHD\]](https://osu.ppy.sh/beatmaps/875482)
 	- [Inori - Prayer (Abuzeur) \[SV Accuracy\]](https://osu.ppy.sh/beatmaps/1410132)
 - Tiebreaker
-	- [uno - #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX (\_underjoy) [\Lunatic\]](https://osu.ppy.sh/beatmaps/1480321)
+	- [uno - #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX (\_underjoy) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1480321)
 
 #### Semifinals
 
@@ -757,6 +761,8 @@ Mappools will be revealed one week in advance of each stage.
 All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml)
 
 ### osu!standard
+
+#### Finals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml)
 
