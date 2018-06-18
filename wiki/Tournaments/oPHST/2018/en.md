@@ -56,10 +56,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ## Prizes
 
-*Winners of each game mode will receive a Profile Badge. The rest of the prizes are to be decided*
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
 
 ![std badge](std.png) ![ctb badge](ctb.png) ![mania 4K badge](4kmania.png) ![mania 7K badge](7Kmania.png)
-
 
 ## Organization
 
@@ -70,7 +72,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
 | Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_PH] [Tephtunia](https://osu.ppy.sh/users/5209045), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
+| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
 | Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
 | Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
@@ -79,14 +81,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/719874)
 - [Livestream](https://www.twitch.tv/osuliveph)
-- [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 - Challonge
 	- [osu!standard](https://challonge.com/oPHST2018_std)
 	- [osu!catch](https://challonge.com/oPHST2018_ctb)
 	- [osu!mania 4K](https://challonge.com/oPHST2018_4K)
 	- [osu!mania 7K](https://challonge.com/oPHST2018_7K)
-- [Full Match Schedule List](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMJjQOXNljDNvjvVijb6clLx1dPA4grQgzdTs58BiQzOuSc2LoopezVHkSMtwiRO_ac8P7Rlvp2vRI/pubhtml?gid=0)
 
 ------------------------
 
@@ -180,6 +180,40 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing).
+
+------------------------
+
+## Tournament Winners
+
+The following players are the people who managed to pull through the whole competition
+
+### osu!standard Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Dunois](https://osu.ppy.sh/users/4581715) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Marika](https://osu.ppy.sh/users/2199427) |
+
+### osu!catch Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Roido](https://osu.ppy.sh/users/6829103) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Nicotine](https://osu.ppy.sh/users/4818935) |
+
+### osu!mania 4K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [joseee-](https://osu.ppy.sh/users/10083439) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [exodia3000](https://osu.ppy.sh/users/10500797) |
+
+### osu!mania 7K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
 
 ------------------------
 
