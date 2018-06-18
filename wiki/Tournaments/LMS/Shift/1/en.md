@@ -120,7 +120,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1)
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1)**
 
 - NoMod
   - [BABYMETAL - Distortion (IceOC) \[Destruction\]](https://osu.ppy.sh/beatmapsets/779002/#taiko/1636023) 
