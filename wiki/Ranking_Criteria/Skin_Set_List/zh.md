@@ -33,7 +33,7 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 |   hit300k(-n).png |                    应该与所有其他打击闪光有明显的区别                    | 必须 |         -          |
 |      lighting.png |                                    -                                     | 可选 |         -          |
 |    particle50.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
-|   particle100.ong |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
+|   particle100.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
 |   particle300.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
 | sliderpoint10.png | 应该与 sliderpoint30.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
 | sliderpoint30.png | 应该与 sliderpoint10.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
