@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BBCode
 
 ![Edytor postów na forum](img/editor.jpg "Pole edycji postów na forum")
@@ -10,7 +13,7 @@ Mimo że edytor postów posiada podstawowe opcje formatowania, to BBCode można 
 
 ### Działanie przycisków
 
-Jeżeli żaden tekst nie jest zaznaczony, to naciśnięcie przycisku spowoduje wstawienie znaczników zależnie od położenia kursora tekstowego w edytorze postów. 
+Jeżeli żaden tekst nie jest zaznaczony, to naciśnięcie przycisku spowoduje wstawienie znaczników zależnie od położenia kursora tekstowego w edytorze postów.
 
 Jeżeli dany tekst jest zaznaczony, to naciśnięcie przycisku spowoduje wstawienie znaczników po obu stronach zaznaczonego tekstu.
 
