@@ -14,7 +14,7 @@ Taiko LMS: Shift Cup
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2018-04-11/2018-06-02 (09:00 UTC) |
 | Group Stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
@@ -26,7 +26,7 @@ Taiko LMS: Shift Cup
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :--- |
+| --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
@@ -38,7 +38,7 @@ Taiko LMS: Shift Cup
 The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 | Position | Members |
-| ------------ | -------------- |
+| --- | --- |
 | Management and Organization | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Map Selectors | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Commentators | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_HK] [akali393394](https://osu.ppy.sh/users/9686628), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
@@ -59,32 +59,32 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Match Schedule: Round of 16
+## Match Schedules: Quarterfinals
 
-### Saturday, 16 June 2018
+### Saturday, 23 June 2018
 
-| Group | Team A | Team B | Match Time (UTC) | Bracket |
-| :---: | ---: | :--- | :---: | :---: |
-| C3-A2 | 迫真osu!taiko部 | TheLegendary MC + shu | **09:00 UTC** | Upper |
-| E1-D2 | あ | Needs Some Nosso Samba 1212 | **11:00 UTC** | Upper |
-| F1-C2 | Welcome to otu! | Roko-Don's Taiko Cheeks | **12:00 UTC** | Upper |
-| C1-F2 | V E R Y S T R O N G T E A M | Where's eiuh | **13:00 UTC** | Upper |
-| A1-A3 | AFK | Kong Donkey Donkey Kong | **15:00 UTC** | Upper |
-| D1-E2 | The Spanish Inquisition | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | **17:00 UTC** | Upper |
+| Team A | Team B | Match Time (UTC) | Bracket |
+| --: | :-- | :-: | :-: |
+| V E R Y S T R O N G T E A M | あ | **11:00 UTC** | Upper |
+| Noko Pan Pan | The Spanish Inquisition | **12:00 UTC** | Lower |
+| FLip-FLop | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | **13:00 UTC** | Upper |
+| TheLegendary MC + shu | Kong Donkey Donkey Kong | **18:00 UTC** | Upper |
 
-### Sunday, 17 June 2018
+### Sunday, 24 June 2018
 
-| Group | Team A | Team B | Match Time (UTC) | Bracket |
-| :---: | ---: | :--- | :---: | :---: |
-| G1-B2 | Pyon Pyon Usagi | :b:erkele | **11:00 UTC** | Upper |
-| B1-G2 | Noko Pan Pan | FLip-FLop | **12:00 UTC** | Upper |
+| Team A | Team B | Match Time (UTC) | Bracket |
+| --: | :-- | :-: | :-: |
+| Pyon Pyon Usagi | Roko-Don's Taiko Cheeks | **11:00 UTC** | Upper |
+| Where's eiuh | Needs Some Nosso Samba 1212 | **12:00 UTC** | Lower |
+| 迫真osu!taiko部 | AFK | **13:00 UTC** | Lower |
+| :b:erkele | Welcome to otu! | **14:00 UTC** | Upper |
 
 -----------------------
 
 ## Participants
 
 | Seed | Team | Members |
-| :---: | :--- | :--- |
+| :-: | :-- | :-- |
 | Top | **あ** | ![][flag_JP] **[ma_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508) |
 | Top | **FLip-FLop** | ![][flag_ID] **[XK2238](https://osu.ppy.sh/users/1139209)**, ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768), ![][flag_ID] [Katdon_donKat](https://osu.ppy.sh/users/8089664), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) | 
 | Top | **V E R Y S T R O N G T E A M** | ![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027) | 
@@ -117,6 +117,37 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 -----------------------
 
 ## Mappool
+
+### Quarterfinals
+
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1)**
+
+- NoMod
+  - [BABYMETAL - Distortion (IceOC) \[Destruction\]](https://osu.ppy.sh/beatmapsets/779002/#taiko/1636023) 
+  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7_7) \[Gatagoto Gatagoto Oni\]](https://osu.ppy.sh/beatmapsets/673769/#taiko/1425840) 
+  - [DJ Mass MAD Izm* - Shakunetsu Beach Side Bunny (Consified) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/702330/#taiko/1486143)
+- Hidden
+  - [DOUBLE HELIX - Our Faith (Faithful MTL Remix) (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/640730/#taiko/1358868) 
+  - [EBIMAYO - GOODRAGE (asuasu_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/679340/#taiko/1436347) 
+  - [slushii - To Say Goodbye (Original Mix) (Surono) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/717906/#taiko/1516515) 
+- HardRock
+  - [tarolabo - Zeitmesser (nananass) \[Zeitmesser\]](https://osu.ppy.sh/beatmapsets/710147/#taiko/1501144) 
+  - [Mazare(Camellia feat. kradness, Nanahira and yukacco) - Mazare Party (Y O U T A) \[TaiKo ParTy\]](https://osu.ppy.sh/beatmapsets/546830/#taiko/1158241) 
+  - [onoken - ZADAMGA (agu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/458476/#taiko/982430)
+- DoubleTime
+  - [Atoguru - UNDER WORLD (Kirasame-Marisa) \[Yia's Taiko\]](https://osu.ppy.sh/beatmapsets/44628/#taiko/177947) 
+  - [Mili - Meatball Submarine (Bowashe) \[Oni\]](https://osu.ppy.sh/beatmapsets/684856/#taiko/1449355) 
+  - [Nakamura Mamechiyo - Kare Kano Kanon (mjw5150) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/37090/#taiko/119491) 
+- FreeMod
+  - [sasakure.UK feat. Hatsune Miku - SAMPLING MONSTER (HiroK) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/716475/#taiko/1513692) 
+  - [High Speed Music Team Sharpnel - Exciting Hyper Highspeed Star (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/769006/#taiko/1617086) 
+  - [Eity - M1R4CL3 M1M1K4 (yyyyyyyyyyypetu) \[M1R4CL3 PE2\]](https://osu.ppy.sh/beatmapsets/742391/#taiko/1571153) 
+- Extra
+  - [Jaroslav Beck - Legend (feat. Backchat) (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/781553/#taiko/1641405) 
+  - [Katagiri - Heisei Memehunters (Legless) \[we live in a society\]](https://osu.ppy.sh/beatmapsets/796694/#taiko/1673235)
+  - [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](https://osu.ppy.sh/beatmapsets/761900/#taiko/1601977)
+- Tiebreaker
+  - [t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire, -Kazu-) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203/#taiko/1678044) 
 
 ### Round of 16
 
@@ -184,10 +215,26 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 ## Match Results
 
+### Round of 16
+
+| Group | 2018-06-16 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| D1-E2 | AFK | 0 | 5 | Kong Donkey Donkey Kong | [#1](https://osu.ppy.sh/community/matches/43374897) |
+| C3-A2 | 迫真osu!taiko部 | 1 | 5 | TheLegendary MC + shu | [#1](https://osu.ppy.sh/community/matches/43385314) |
+| C1-F2 | Welcome to otu! | 1 | 5 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43388732) |
+| A1-A3 | V E R Y S T R O N G T E A M | 5 | 0 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43390089) |
+| F1-C2 | The Spanish Inquisition | 2 | 5 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | [#1](https://osu.ppy.sh/community/matches/43397323) |
+| E1-D2 | あ | 5 | 0 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43409660) |
+
+| Group | 2018-06-17 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| B1-G2 | Noko Pan Pan | 2 | 5 | FLip-FLop | [#1](https://osu.ppy.sh/community/matches/43418934) |
+| G1-B2 | Pyon Pyon Usagi | 5 | 0 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43420521) |
+
 ### Group Stage
 
 | Group | 2018-06-09 & 2018-06-10 |  |  |  |  |
-| :--: | ---: | :---: | :--- | :--- | :---: |
+| :-: | --: | :-: | :-- | :-- | :-: |
 | A | V E R Y S T R O N G T E A M | 4 | 0 | Furries of the Storm | [#1](https://osu.ppy.sh/community/matches/43188516) |
 | A | TheLegendary MC + shu | 4 | 1 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43189811) |
 | A | TheLegendary MC + shu | 1 | 4 | V E R Y S T R O N G T E A M | [#1](https://osu.ppy.sh/community/matches/43193162) |
