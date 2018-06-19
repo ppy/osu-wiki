@@ -6,7 +6,7 @@ Ini termasuk pemilihan lagu, [timing](/wiki/timing), peletakan [objects](/wiki/o
 Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps/#ranked) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
 
 osu! adalah permainan berbasis musik, Musik yang kamu pilih harus memiliki beat yang jelas dan konstan.
-Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai kamu mendapatkan pengalaman dan terbiasa dalam membuat beatmap.
+Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai kamu berpengalaman dan terbiasa dalam membuat beatmap.
 
 ## Memulai
 
