@@ -6,7 +6,7 @@ Tim Global Moderasi
 Menjadi GMT
 -----------
 
-Menjadi anggota dari **Tim Moderasi Global** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan kelakuan baik. Kemampuan mereka untuk berbicara bahasa kedua selain Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
+Menjadi anggota dari **Tim Moderasi Global** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan kelakuan baik.  Kemampuan mereka untuk berbicara bahasa kedua selain Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
 
 Peran dan Tanggung Jawab
 ------------------------
@@ -20,51 +20,51 @@ Anggota Tim
 
 | Nama | Bahasa | Area Fokus |
 | ---- | ------ | ----- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat Moderation |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat Moderation |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
-| [Clobohne](https://osu.ppy.sh/u/499343) | German | Chat Moderation |
-| [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
-| [Death](https://osu.ppy.sh/u/3242450) | | Technical Support | 
-| [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
-| [Edu](https://osu.ppy.sh/u/5618109) | Portuguese, Japanese | Chat Moderation |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
-| [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
-| [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
-| [Galkan](https://osu.ppy.sh/u/169570) | Polish | Chat Moderation |
-| [ghm12](https://osu.ppy.sh/u/2594229) | Portuguese | Chat Moderation |
-| [heyronii](https://osu.ppy.sh/u/5642779) | Turkish | Chat Moderation |
-| [juankristal](https://osu.ppy.sh/u/443656) | Spanish | Chat Moderation, Tournaments |
-| [Kobold84](https://osu.ppy.sh/u/3227533) | Russian | Chat Moderation |
-| [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Chat Moderation |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Chat Moderation |
-| [Lassikko](https://osu.ppy.sh/u/7253731) | Finnish | Chat Moderation |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanish | Chat Moderation, Forum Moderation |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat Moderation, Forum Moderation |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Chat Moderation, Forum Moderation |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
-| [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | Mappers Guild |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technical support |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
-| [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
-| [ruexia](https://osu.ppy.sh/u/385069) | Korean | Chat Moderation |
-| [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Chat Moderation |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Chat Moderation |
-| [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
-| [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Chat Moderation |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat Moderation |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
-| [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Chat Moderation |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
-| [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
-| [Uni](https://osu.ppy.sh/u/617106) | Dutch | Chat Moderation |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation, Forum Moderation |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
-| [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Italia | Moderasi Obrolan |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongaria | Moderasi Obrolan |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Tionghoa | Moderasi Obrolan |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | Moderasi Obrolan |
+| [Clobohne](https://osu.ppy.sh/u/499343) | Jerman | Moderasi Obrolan |
+| [deadbeat](https://osu.ppy.sh/u/128370) | | Pembuatan osu!media |
+| [Death](https://osu.ppy.sh/u/3242450) | | Layanan Teknis | 
+| [Deif](https://osu.ppy.sh/u/318565) | Spanyol | Turnamen |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Layanan Teknis |
+| [Edu](https://osu.ppy.sh/u/5618109) | Portugis, Jepang | Moderasi Obrolan |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Layanan Pemain |
+| [Flanster](https://osu.ppy.sh/u/447818) | Bulgaria | Hosting osu!idol, Moderasi Obrolan |
+| [Gabe](https://osu.ppy.sh/u/654108) | Perancis | Moderasi Obrolan |
+| [Galkan](https://osu.ppy.sh/u/169570) | Polski | Moderasi Obrolan |
+| [ghm12](https://osu.ppy.sh/u/2594229) | Portugis | Moderasi Obrolan |
+| [heyronii](https://osu.ppy.sh/u/5642779) | Turki | Moderasi Obrolan |
+| [juankristal](https://osu.ppy.sh/u/443656) | Spanyol | Moderasi Obrolan, Turnamen |
+| [Kobold84](https://osu.ppy.sh/u/3227533) | Rusia | Moderasi Obrolan |
+| [Kurai](https://osu.ppy.sh/u/77089) | Perancis, Rusia | Moderasi Obrolan |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | Rusia | Moderasi Obrolan |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | Suomi | Moderasi Obrolan |
+| [mancuso_JM_](https://osu.ppy.sh/u/521568) | Spanyol | Moderasi Obrolan, Moderasi Forum |
+| [Marcin](https://osu.ppy.sh/u/722665) | Polski | Moderasi Forum, Pengembangan |
+| [n0ah](https://osu.ppy.sh/u/3086393) | Belanda | Moderasi Obrolan, Moderasi Forum |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | Tagalog | Moderasi Obrolan, Moderasi Forum |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | Perancis | Moderasi Obrolan |
+| [Nyquill](https://osu.ppy.sh/u/682935) | Tionghoa | Persekutuan Mapper |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderasi Obrolan, Layanan Teknis |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Belanda | Moderasi Obrolan |
+| [Repflez](https://osu.ppy.sh/u/201392) | Spanyol | Moderasi Obrolan, Administrasi Wiki |
+| [ruexia](https://osu.ppy.sh/u/385069) | Korea | Moderasi Obrolan |
+| [S o h](https://osu.ppy.sh/u/2234772) | Jepang | Moderasi Obrolan |
+| [Saten](https://osu.ppy.sh/u/444506) | Swedia, Spanyol | Moderasi Obrolan |
+| [shARPII](https://osu.ppy.sh/u/776257) | Perancis | Moderasi Obrolan, Turnamen |
+| [Shiro](https://osu.ppy.sh/u/113005) | Perancis, Spanyol | Moderasi Obrolan |
+| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesia | Moderasi Obrolan |
+| [Spkz](https://osu.ppy.sh/u/2964029) | Hongaria | Moderasi Obrolan |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | Korea | Moderasi Obrolan |
+| [Tasha](https://osu.ppy.sh/u/1031958) | | Pembuatan osu!media |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| Korea, Jepang | Moderasi Obrolan |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanyol | Layanan Teknis |
+| [Ukami](https://osu.ppy.sh/u/820865) | Polski | Moderasi Obrolan |
+| [Uni](https://osu.ppy.sh/u/617106) | Belanda | Moderasi Obrolan |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | | Layanan Teknis |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanyol | Moderasi Obrolan, Moderasi Forum |
+| [Yason](https://osu.ppy.sh/u/2574392) | Polski | Moderasi Obrolan |
+| [Zero__wind](https://osu.ppy.sh/u/1822830) | Tionghoa | Moderasi Obrolan |
+| [Zetera](https://osu.ppy.sh/u/587737) | Jerman | Moderasi Obrolan |
