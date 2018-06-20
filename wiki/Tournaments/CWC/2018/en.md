@@ -99,20 +99,25 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Sunday, 17. June 2018
+### Saturday, 23. June 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 22:00 (Sat) UTC-04 | 21:00 (Sat) UTC-05 |
-| South Korea | ![][flag_KR] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
-| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **11:00 UTC** | 13:00 UTC+02       | 18:00 UTC+07       |
-| Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
-| Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
-| Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
-| Germany     | ![][flag_DE] | ![][flag_NL] | Netherlands   | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
-| Sweden      | ![][flag_SE] | ![][flag_US] | United States | **20:00 UTC** | 22:00 UTC+02       | 16:00 UTC-04       |
+| Germany   | ![][flag_DE] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong   | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
+| Poland    | ![][flag_PL] | ![][flag_SE] | Sweden      | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
+| Mexico    | ![][flag_MX] | ![][flag_FI] | Finland     | **19:00 UTC** | 14:00 UTC-05 | 22:00 UTC+03 |
+
+### Sunday, 24. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan         | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| China       | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 9:00 UTC-04  |
+| Chile       | ![][flag_CL] | ![][flag_TW] | Taiwan        | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| France      | ![][flag_FR] | ![][flag_NO] | Norway        | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 
 ------------------------------------------------------------------------
 
@@ -134,7 +139,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [M2U - Stellar \(Spectator\) \[Alice\]](http://osu.ppy.sh/b/1481269&m=2)
   - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](http://osu.ppy.sh/b/1353404&m=2)
 - HardRock
-  - [Zektbach - Turii ~Panta rhei~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
+  - [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
   - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](http://osu.ppy.sh/b/1624766&m=2)
   - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](http://osu.ppy.sh/b/205282&m=2)
 - DoubleTime
@@ -195,29 +200,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
 - Tiebreaker
   - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
-
-------------------------------------------------------------------------
-
-
-## Match Schedule: Quarterfinals
-
-### Saturday, 23. June 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Germany   | ![][flag_DE] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong   | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
-| Poland    | ![][flag_PL] | ![][flag_SE] | Sweden      | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
-| Mexico    | ![][flag_MX] | ![][flag_FI] | Finland     | **19:00 UTC** | 14:00 UTC-05 | 22:00 UTC+03 |
-
-### Sunday, 24. June 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan         | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| China       | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 9:00 UTC-04  |
-| Chile       | ![][flag_CL] | ![][flag_TW] | Taiwan        | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
-| France      | ![][flag_FR] | ![][flag_NO] | Norway        | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 
 ------------------------------------------------------------------------
 
