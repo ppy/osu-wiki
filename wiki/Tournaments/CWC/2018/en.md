@@ -203,29 +203,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-
-## Match Schedule: Quarterfinals
-
-### Saturday, 23. June 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Germany   | ![][flag_DE] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong   | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
-| Poland    | ![][flag_PL] | ![][flag_SE] | Sweden      | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
-| Mexico    | ![][flag_MX] | ![][flag_FI] | Finland     | **19:00 UTC** | 14:00 UTC-05 | 22:00 UTC+03 |
-
-### Sunday, 24. June 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan         | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| China       | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 9:00 UTC-04  |
-| Chile       | ![][flag_CL] | ![][flag_TW] | Taiwan        | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
-| France      | ![][flag_FR] | ![][flag_NO] | Norway        | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-
-------------------------------------------------------------------------
-
 ## Match Results
 
 ### Round of 16
