@@ -101,6 +101,30 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Mappools
 
+### QuarterFinals
+
+- NoMod
+  - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](http://osu.ppy.sh/b/1539487&m=2)
+  - [REOL - Yoiyoi Kokon \(Yumeno Himiko\) \[Overdose\]](http://osu.ppy.sh/b/1432753&m=2)
+  - [xi - .357 Magnum \(Crowley\) \[Filibusterismo.\]](http://osu.ppy.sh/b/1545661&m=2)
+  - [Aimer with chelly \(EGOIST\) - ninelie \(REDSHiFT x Vesuvia Remix\) \(-Luminate\) \[Daybreak\]](http://osu.ppy.sh/b/1391955&m=2)
+  - [DECO\*27 - Reversible Campaign \(tutuhaha\) \[Extra\]](http://osu.ppy.sh/b/1300151&m=2)
+  - [himmeltengoku - Whisper of Rose \(Tsukuyomi\) \[Maximum\]](http://osu.ppy.sh/b/419487&m=2)
+- Hidden
+  - [Hatsuki Yura - Saramandora no Odoriko \(F D Flourite\) \[Flamenco Dance\]](http://osu.ppy.sh/b/1524083&m=2)
+  - [M2U - Stellar \(Spectator\) \[Alice\]](http://osu.ppy.sh/b/1481269&m=2)
+  - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](http://osu.ppy.sh/b/1353404&m=2)
+- HardRock
+  - [Zektbach - Turii ~Panta rhei~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
+  - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](http://osu.ppy.sh/b/1624766&m=2)
+  - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](http://osu.ppy.sh/b/205282&m=2)
+- DoubleTime
+  - [u's - Snow halation \(Hinsvar\) \[Vhy's Platter\]](http://osu.ppy.sh/b/515242&m=2)
+  - [Toraboruta - Soleil \(Noffy\) \[Wild's Rain\]](http://osu.ppy.sh/b/992848&m=2)
+  - [SHISHAMO - Egao no Tonari \(Zero\_\_wind\) \[Smile\]](http://osu.ppy.sh/b/938481&m=2)
+- Tiebreaker
+  - [Camellia - d:for the DELTA \(Minato Yukina\) \[Dereliction\]](http://osu.ppy.sh/b/1221505&m=2)
+
 ### Round of 16
 
 - NoMod
@@ -134,49 +158,63 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](http://osu.ppy.sh/b/771881&m=2)
   - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](http://osu.ppy.sh/b/111302&m=2)
   - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](http://osu.ppy.sh/b/846259&m=2)
-  
 - Hidden
   - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](http://osu.ppy.sh/b/1448086&m=2)
   - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](http://osu.ppy.sh/b/937653&m=2)
   - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)
-  
 - HardRock
   - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](http://osu.ppy.sh/b/1154583&m=2)
   - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](http://osu.ppy.sh/b/899608&m=2)
-  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)
-  
+  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)  
 - DoubleTime
   - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](http://osu.ppy.sh/b/1533955&m=2)
   - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](http://osu.ppy.sh/b/717056&m=2)
   - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
-  
 - Tiebreaker
   - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Sunday, 17. June 2018
+### Saturday, 23. June 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Chile       | ![][flag_CL] | ![][flag_MX] | Mexico        | **2:00 UTC**  | 23:00 (Sat) UTC-03 | 21:00 (Sat) UTC-05 |
-| South Korea | ![][flag_SK] | ![][flag_JP] | Japan         | **3:00 UTC**  | 12:00 UTC+09       | 12:00 UTC+09       |
-| Norway      | ![][flag_NO] | ![][flag_HK] | Hong Kong     | **12:00 UTC** | 14:00 UTC+02       | 20:00 UTC+08       |
-| Taiwan      | ![][flag_TW] | ![][flag_FI] | Finland       | **13:00 UTC** | 21:00 UTC+08       | 16:00 UTC+03       |
-| Poland      | ![][flag_PL] | ![][flag_CN] | China         | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       |
-| France      | ![][flag_FR] | ![][flag_ID] | Indonesia     | **15:00 UTC** | 17:00 UTC+02       | 22:00 UTC+07       |
-| Germany     | ![][flag_DE] | ![][flag_NL] | Netherlands   | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
-| Sweden      | ![][flag_SE] | ![][flag_US] | United States | **20:00 UTC** | 22:00 UTC+02       | 13:00 UTC-07       |
+| Germany   | ![][flag_DE] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong   | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
+| Poland    | ![][flag_PL] | ![][flag_SE] | Sweden      | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
+| Mexico    | ![][flag_MX] | ![][flag_FI] | Finland     | **19:00 UTC** | 14:00 UTC-05 | 22:00 UTC+03 |
+
+### Sunday, 24. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan         | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| China       | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 9:00 UTC-04  |
+| Chile       | ![][flag_CL] | ![][flag_TW] | Taiwan        | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| France      | ![][flag_FR] | ![][flag_NO] | Norway        | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 
 ------------------------------------------------------------------------
 
 ## Match Results
 
+### Round of 16
+
+| Sunday, 2018-06-17 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![][flag_CL] | 5 | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43409482) |
+| South Korea ![][flag_KR] | 5 | 2 | ![][flag_J´P] Japan | [#1](https://osu.ppy.sh/community/matches/43410578) |
+| France ![][flag_FR] | 3 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43417766) |
+| Norway ![][flag_NO] | 2 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43419190) |
+| Taiwan ![][flag_TW] | 5 | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43420479) |
+| Poland ![][flag_PL] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43421992) |
+| Germany ![][flag_DE] | 5 | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43429726) |
+| Sweden ![][flag_SE] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43431438) |
+
 ### Group Stage
 
-| Saturday, 2018-06-11 | | | | |
+| Saturday, 2018-06-09 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Austria ![][flag_AT] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43191122) |
 | Denmark ![][flag_DK] | 4 | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/43191124) |
@@ -200,7 +238,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Hungary ![][flag_HU] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/43203691) |
 | Colombia ![][flag_CO] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43203741) |
 
-| Sunday, 2018-06-12 | | | | |
+| Sunday, 2018-06-10 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Brazil ![][flag_BR] | 0 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/43214536) |
 | Mexico ![][flag_MX] | 2 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43214539) |
