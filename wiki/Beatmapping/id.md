@@ -14,8 +14,8 @@ Untuk memulai membuat beatmap baru, silakan pergi ke edit mode kemudian drag-dan
 (Pilihan lain, kamu bisa memindahkan file audionya ke dalam folder `Songs`.)
 Ini akan langsung menuju ke dalam layar edit, bersamaan dengan audio yang kamu masukan tadi.
 Musik baru kamu akan berada dibawah daftar musik, biasanya berwarna ungu.
-Jika tidak muncul dalam daftar musik untuk alasan apapun, tekan `F5` untuk me-reset cache beatmap dan musik pasti akan muncul.
-Klik musik, ini akan membuka [beatmap editor](/wiki/beatmap_editor) dan dialog `Song Setup`.
+Jika tidak muncul dalam daftar musik, tekan `F5` untuk me-reset cache beatmap dan musik pasti akan muncul dengan sendirinya.
+Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/beatmap_editor) dan dialog `Song Setup`.
 
 ### Song Setup
 
@@ -28,14 +28,14 @@ Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam ma
 
 Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat diubah nanti.
 Klik `OK`, dan kamu akan memulai proses pembuatan beatmap!
-Langkah selanjutnya adalah mengisi timing kedalam beatmap kamu.
+Langkah selanjutnya adalah mengisi waktu kedalam beatmap kamu.
 
 ### Timing
 
 _Lihat juga: [Timing](/wiki/Timing)_
 
 **Waktu itu penting!**
-Beatmap yang memiliki waktu yang salah tidak dipertimbangkan untuk ranking.
+Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
 Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
 
 Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
@@ -45,12 +45,12 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 _Lihat juga: [Compose](/wiki/Compose)_
 
-Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk pembuatan beatmap.
+Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
 Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hit sounds](/wiki/hit_sounds)
 
 ### Design
 
 _Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)_
 
-Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur beatmap background menggunakan gambar, video, atau membuat storyboard.
+Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur background beatmap menggunakan gambar, video, atau membuat storyboard.
 Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/SBS) (storyboard scripting).
