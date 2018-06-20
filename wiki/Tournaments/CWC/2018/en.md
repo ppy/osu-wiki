@@ -101,6 +101,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Mappools
 
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
+
 ### QuarterFinals
 
 - NoMod
@@ -127,6 +129,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ### Round of 16
 
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
+
 - NoMod
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](http://osu.ppy.sh/b/1599347&m=2)
   - [Mili - Vulnerability \(Benny-\) \[Frail\]](http://osu.ppy.sh/b/1494074&m=2)
@@ -150,6 +154,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Rita - Bookmark Memories \(F D Flourite\) \[Love\]](http://osu.ppy.sh/b/1645428&m=2)
 
 ### Group Stage
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](http://osu.ppy.sh/b/1439325&m=2)
