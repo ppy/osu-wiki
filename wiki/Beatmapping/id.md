@@ -21,7 +21,7 @@ Klik musik, ini akan membuka [beatmap editor](/wiki/beatmap_editor) dan dialog `
 
 _Lihat juga: [Song Setup](/wiki/Song_Setup)_
 
-Ketika akan membuat [mapset](/wiki/mapset) baru, Kamu akan melihat dialog ini sebelum bagian-bagian lain yang terdapat di beatmap editor.
+Ketika akan membuat [mapset](/wiki/mapset) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
 Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/difficulty) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
@@ -34,11 +34,11 @@ Langkah selanjutnya adalah mengisi timing kedalam beatmap kamu.
 
 _Lihat juga: [Timing](/wiki/Timing)_
 
-**Timing itu penting!**
-Beatmap yang memiliki timing yang salah tidak dipertimbangkan untuk ranking.
-Kamu harus sudah yakin timing kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
+**Waktu itu penting!**
+Beatmap yang memiliki waktu yang salah tidak dipertimbangkan untuk ranking.
+Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
 
-Jika kamu tidak bisa menentukan timing, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
+Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose
