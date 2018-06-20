@@ -44,7 +44,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Organizers | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | Map Selectors | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | Commentators | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
-| Streamers |  ![][flag_JP] [SakuraFrost-](/users/8147993), ![][flag_ID] [rap12](/users/2300279) |
+| Streamers | ![][flag_JP] [SakuraFrost-](/users/8147993), ![][flag_ID] [rap12](/users/2300279) |
 | Designers | ![][flag_PH] [OsuMe65](/users/852867), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CL] [Valelup](/users/6497014) |
 | Referees | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_CL] [Valelup](/users/6497014), ![][flag_CL] [Asagaki](/users/2632902), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_ID] [Alwaysyukaz](/users/4999506), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_ID] [pmriva](/users/2180885), ![][flag_ID] [XK2238](/users/1139209) |
 | Translators | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
@@ -130,7 +130,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7_7) \[Gatagoto Gatagoto Oni\]](/beatmapsets/673769/#taiko/1425840) 
   - [MASAKI - Scarlet Lance (m1kado) \[Inner Oni\]](/beatmapsets/681440/#taiko/1440822) 
   - [Camellia feat. nanahira - Kizuitara Shunkashuutou (shinchikuhome) \[Taiko Inner Oni\]](/beatmapsets/532994/#taiko/1129200)
-  - [Camellia - /*decryption(instrumental)*/ (Nifty) \[Inner Oni\]](/beatmapsets/674049/#taiko/1426341)
+  - [Camellia - /\*decryption(instrumental)\*/ (Nifty) \[Inner Oni\]](/beatmapsets/674049/#taiko/1426341)
 - Hidden
   - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](/beatmapsets/274111/#taiko/667471) 
   - [Ym1024 - orange tea (tasuke912) \[Oni\]](/beatmapsets/282369/#taiko/638541) 
@@ -163,7 +163,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](/beatmapsets/795265/#taiko/1670210) 
   - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](/beatmapsets/519566/#taiko/1103735) 
 - HardRock
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (-xNaCLx-) \[Saltaiko@NaCL\]](/beatmapsets/326711/#taiko/725333) 
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](/beatmapsets/326711/#taiko/725333) 
   - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](/beatmapsets/446239/#taiko/958486) 
 - DoubleTime
   - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](/beatmapsets/157896/#taiko/386782) 
@@ -182,7 +182,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 **[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
 
 - NoMod
-  - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory~The Lost Memory~ (7odoa) \[Taiko Oni\]](/beatmapsets/44898/#taiko/145660)
+  - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](/beatmapsets/44898/#taiko/145660)
   - [dors k(uro) - dreeeeam (Vulkin) \[Inner Oni\]](/beatmapsets/788077/#taiko/1661560) 
   - [Haywyre - Insight (Guardistack-) \[Mini Satanic\]](/beatmapsets/739890/#taiko/1561061) 
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (SE_Soul) \[SE_Soul Crazy Taiko\]](/beatmapsets/88094/#taiko/240302)

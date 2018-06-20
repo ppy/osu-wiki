@@ -131,7 +131,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7_7) \[Gatagoto Gatagoto Oni\]](/beatmapsets/673769/#taiko/1425840) 
   - [MASAKI - Scarlet Lance (m1kado) \[Inner Oni\]](/beatmapsets/681440/#taiko/1440822) 
   - [Camellia feat. nanahira - Kizuitara Shunkashuutou (shinchikuhome) \[Taiko Inner Oni\]](/beatmapsets/532994/#taiko/1129200)
-  - [Camellia - /*decryption(instrumental)*/ (Nifty) \[Inner Oni\]](/beatmapsets/674049/#taiko/1426341)
+  - [Camellia - /\*decryption(instrumental)\*/ (Nifty) \[Inner Oni\]](/beatmapsets/674049/#taiko/1426341)
 - Hidden
   - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](/beatmapsets/274111/#taiko/667471) 
   - [Ym1024 - orange tea (tasuke912) \[Oni\]](/beatmapsets/282369/#taiko/638541) 
@@ -164,7 +164,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](/beatmapsets/795265/#taiko/1670210) 
   - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](/beatmapsets/519566/#taiko/1103735) 
 - HardRock
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (-xNaCLx-) \[Saltaiko@NaCL\]](/beatmapsets/326711/#taiko/725333) 
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](/beatmapsets/326711/#taiko/725333)
   - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](/beatmapsets/446239/#taiko/958486) 
 - DoubleTime
   - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](/beatmapsets/157896/#taiko/386782) 
@@ -183,7 +183,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 **[여기서 당신의 맵팩을 다운받는! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
 
 - NoMod
-  - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory~The Lost Memory~ (7odoa) \[Taiko Oni\]](/beatmapsets/44898/#taiko/145660)
+  - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](/beatmapsets/44898/#taiko/145660)
   - [dors k(uro) - dreeeeam (Vulkin) \[Inner Oni\]](/beatmapsets/788077/#taiko/1661560) 
   - [Haywyre - Insight (Guardistack-) \[Mini Satanic\]](/beatmapsets/739890/#taiko/1561061) 
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (SE_Soul) \[SE_Soul Crazy Taiko\]](/beatmapsets/88094/#taiko/240302)
