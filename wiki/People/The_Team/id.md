@@ -72,6 +72,7 @@ User Groups
 | [Support Team Redux](/wiki/People/Support_Team) | Penanganan Permintaan bantuan maupun saran |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, dimulai dengan memastikan kualitas beatmap. |
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
@@ -80,6 +81,9 @@ User Groups
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
