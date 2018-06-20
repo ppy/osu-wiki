@@ -210,7 +210,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Sunday, 2018-06-17 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Chile ![][flag_CL] | 5 | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43409482) |
-| South Korea ![][flag_KR] | 5 | 2 | ![][flag_J´P] Japan | [#1](https://osu.ppy.sh/community/matches/43410578) |
+| South Korea ![][flag_KR] | 5 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43410578) |
 | France ![][flag_FR] | 3 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43417766) |
 | Norway ![][flag_NO] | 2 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43419190) |
 | Taiwan ![][flag_TW] | 5 | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43420479) |
@@ -235,10 +235,10 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Thailand ![][flag_TH] | 0 | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43194376) |
 | Vietnam ![][flag_VN] | 1 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43196372) |
 | Russian Federation ![][flag_RU] | 3 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43196368) |
-| Hungary ![][flag_HU] | 1 | 4 | ![][flag_FI] France | [#1](https://osu.ppy.sh/community/matches/43199750) |
+| Hungary ![][flag_HU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/43199750) |
 | Colombia ![][flag_CO] | 1 | 4 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/43199790) |
 | Norway ![][flag_NO] | 2 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43199854) |
-| Canada ![][flag_CA] | 2 | 4 | ![][flag_FI] France | [#1](https://osu.ppy.sh/community/matches/43201876) |
+| Canada ![][flag_CA] | 2 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/43201876) |
 | Argentina ![][flag_AR] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43201717) |
 | Denmark ![][flag_DK] | 1 | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43201686) |
 | Hungary ![][flag_HU] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/43203691) |
