@@ -139,7 +139,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [M2U - Stellar \(Spectator\) \[Alice\]](http://osu.ppy.sh/b/1481269&m=2)
   - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](http://osu.ppy.sh/b/1353404&m=2)
 - HardRock
-  - [Zektbach - Turii ~Panta rhei~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
+  - [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
   - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](http://osu.ppy.sh/b/1624766&m=2)
   - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](http://osu.ppy.sh/b/205282&m=2)
 - DoubleTime
