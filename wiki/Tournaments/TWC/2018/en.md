@@ -85,7 +85,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-![Winner Podium](Podium.png)
+![Winner Podium](podium.png)
 
 -----------------------
 
@@ -226,7 +226,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Match Results
 
-### Grand Final
+### Grand Finals
 
 | Sunday, 2018-05-13 | | | | |
 | ---: | :---: | :---: | :--- | :---: |

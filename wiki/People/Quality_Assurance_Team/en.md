@@ -20,6 +20,7 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Aloda](https://osu.ppy.sh/users/1190127)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                         |
 | [Asherz007](https://osu.ppy.sh/users/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
+| [Chaoslitz](https://osu.ppy.sh/users/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese      |
 | [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German         |
 | [Doyak](https://osu.ppy.sh/users/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Korean                  |
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
@@ -32,7 +33,6 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Mao](https://osu.ppy.sh/users/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Mir](https://osu.ppy.sh/users/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
-| [Myxomatosis](https://osu.ppy.sh/users/2202645)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Naxess](https://osu.ppy.sh/users/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                 |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese, Cantonese      |
 | [p3n](https://osu.ppy.sh/users/123703)                | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |

@@ -18,12 +18,6 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [멀티플레이](/wiki/Multi/#getting-started)
 
-## 이번 달의 기사
-
-*같이 보기: [랭킹 기준](/wiki/Ranking_Criteria).*
-
-랭킹 기준은 QAT가 정한 규칙 및 지침으로, 모든 플레이어가 모든 비트맵에서 비슷한 게임을 기대할 수 있도록 합니다.
-
 ## 비트맵핑
 
 *같이 보기: [비트맵 제작](/wiki/Beatmapping/#getting-started).*

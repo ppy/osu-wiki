@@ -29,6 +29,9 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 -   **Edge Dash:** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 -   **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
 -   **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
+-	**Basic dash/hyperdash:** Any dash or hyperdash whose time between fruits is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
+-	**Higher snapped dash/hyperdash:** Any dash or hyperdash that doesn’t meet the requirement to be a basic one, i.e. the time between the objects is less than the threshold to be classified as basic.
+-	**Walk:** Any distance between two objects where no dash is needed to catch both.
 
 ------------------------------------------------------------------------
 
@@ -52,7 +55,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 -   **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty must be less than or equal to the Overall Difficulty of the next hardest difficulty.
 -   **Hyperdashes may only be used on droplets and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play and a major penalty to accuracy for little benefit. Hyperdash on slider repetitions must not be used for more than two repeats, and such slider must not be used consecutively.
 -   **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
--   **Hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.
+-	**Dashes and hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.
 
 ### Skinning
 
@@ -78,10 +81,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 -   **Dashes and hyperdashes of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
--   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
-    -   BPM &lt; 120 - 1/2 bar
-    -   BPM &lt; 240 - 1 bar
-    -   BPM ≥ 240 - 2 bars
+-	**At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
@@ -95,16 +95,17 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players. Difficulties may make use of basic (1/1, 1/2) regular dashing, although no type of dash can be used more than twice consecutively.
--   **Higher snapped dashes may be used singularly (not in conjunction with other dashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed under 160 BPM whereas 1/4 dashes would be allowed under 120 BPM.
+-   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
+-	**Dashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed at 160 BPM and below, whereas 1/4 dashes would be allowed at 120 BPM and below.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
--   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
-    -   BPM &lt; 120 - 1/2 bar
-    -   BPM &lt; 240 - 1 bar
-    -   BPM ≥ 240 - 2 bars
+-	**Basic dashes can't be used more than two times between consecutive fruits. If higher snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
+-	**Dashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
+-	**At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
+-	**All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
+-	**Higher snapped dashes should not be followed by antiflow patterns.** If used, the movement after the dash must be walkable.
 -   Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
 -   Approach Rate / Overall Difficulty should be between 6-7
@@ -115,17 +116,21 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. with a distance snap of 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used.
--   **Higher snapped hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed under 160 BPM whereas 1/4 hyperdashes would be allowed under 120 BPM.
+-	**Hyperdashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed at 160 BPM and below, whereas 1/4 hyperdashes would be allowed under 120 BPM.
+-	**Basic hyperdashes can't be used more than two times between consecutive fruits. If higher snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
+-	**Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
+-	**Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x the trigger distance and the movement after the hyperdash must be walkable.**
+-	**Dashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
+-	**Basic dashes can't be used more than four times between consecutive fruits. Higher snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
-    -   BPM &lt; 120 - 1/4 bar
-    -   BPM &lt; 240 - 1/2 bar
-    -   BPM ≥ 240 - 1 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+-	**At least 125 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
+-	**At least 250 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
+-	**All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
+-	**Higher snapped dashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1x the trigger distance and the movement after the dash must be walkable.
+-	**Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher snapped hyperdashes, a limit of 1.3x is recommended instead.
 -   Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
 -   Approach Rate / Overall Difficulty should be between 7-8.5
@@ -136,13 +141,10 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **More complex hyperdashes (1/3, 1/4) may begin to appear, but no type of hyperdash can be used between more than four consecutive objects.** Additionally, hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive objects.
--   **Higher snapped hyperdashes may be used singularily, if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed under 160 BPM whereas 1/8 hyperdashes would be allowed under 120 BPM.
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
-    -   BPM &lt; 120 - 1/4 bar
-    -   BPM &lt; 240 - 1/2 bar
-    -   BPM ≥ 240 - 1 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+-	**Hyperdashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes would be allowed at 120 BPM and below.
+-	**Basic hyperdashes can't be used more than four times between consecutive fruits. If higher snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
+-	**Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
+-	**At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM. 
 
 #### Guidelines
 
@@ -157,10 +159,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
-    -   BPM &lt; 240 - 1/4 bar
-    -   BPM ≥ 240 - 1/2 bar
-    -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
+-	**At least 62 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/6 gap would be required at 160 BPM, whereas a 1/4 gap would be required at 240 BPM.
+-	**At least 125 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
 #### Guidelines
 

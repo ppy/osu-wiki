@@ -45,8 +45,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Qualifiers (4K)      | 2018-04-28/2018-04-29 |
 | Play-offs  (4K)      | 2018-05-05/2018-05-06 |
 | Qualifiers (7K)      | 2018-05-05/2018-05-06 |
-| Group Stage (4K)     | 2018-05-12/2018-05-13 |
-| Group Stage (7K)     | 2018-05-19/2018-05-20 |
+| Group Stage (Week 1) | 2018-05-12/2018-05-13 |
+| Group Stage (Week 2) | 2018-05-19/2018-05-20 |
 | Quarterfinals        | 2018-05-26/2018-05-27 |
 | Semifinals           | 2018-06-02/2018-06-03 |
 | Finals Week 1        | 2018-06-09/2018-06-10 |
@@ -56,10 +56,12 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ## Prizes
 
-*Winners of each game mode will receive a Profile Badge. The rest of the prizes are to be decided*
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
 
 ![std badge](std.png) ![ctb badge](ctb.png) ![mania 4K badge](4kmania.png) ![mania 7K badge](7Kmania.png)
-
 
 ## Organization
 
@@ -70,7 +72,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
 | Match Referees | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_PH] [Tephtunia](https://osu.ppy.sh/users/5209045), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
+| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
 | Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
 | Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
@@ -79,21 +81,21 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/719874)
 - [Livestream](https://www.twitch.tv/osuliveph)
-- [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 - Challonge
 	- [osu!standard](https://challonge.com/oPHST2018_std)
 	- [osu!catch](https://challonge.com/oPHST2018_ctb)
-- [Full Match Schedule List](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMJjQOXNljDNvjvVijb6clLx1dPA4grQgzdTs58BiQzOuSc2LoopezVHkSMtwiRO_ac8P7Rlvp2vRI/pubhtml?gid=0)
+	- [osu!mania 4K](https://challonge.com/oPHST2018_4K)
+	- [osu!mania 7K](https://challonge.com/oPHST2018_7K)
 
 ------------------------
 
-## Participants
+## Qualfied Participants
 
 ### osu!standard
 
 | Seed |  Player                                              | 
-|------|------------------------------------------------------| 
+|:------:|------------------------------------------------------| 
 | 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       | 
 | 2    | [Dunois](https://osu.ppy.sh/users/4581715)           | 
 | 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         | 
@@ -130,7 +132,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!catch
 
 | Seed | Player                                             | 
-|------|----------------------------------------------------| 
+|:------:|----------------------------------------------------| 
 | 1    | [Roido](https://osu.ppy.sh/users/6829103)          | 
 | 2    | [-Nicotine](https://osu.ppy.sh/users/4818935)      | 
 | 3    | [- Kielzu -](https://osu.ppy.sh/users/6221114)     | 
@@ -151,13 +153,71 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 ### osu!mania 4K
 
 | Seed | Players | 
-| --- | --- | 
+| :---: | --- | 
 | Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) | 
 | High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
 | Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) | 
 | Low (#25 - #32) | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), [Lordie09](https://osu.ppy.sh/users/10010130), [Batujitsu](https://osu.ppy.sh/users/6402552), [szc19](https://osu.ppy.sh/users/11444817), [Inoariusu](https://osu.ppy.sh/users/8586656), [lord\_waker](https://osu.ppy.sh/users/7235545), [vincent4399](https://osu.ppy.sh/users/9764388), [Altertis](https://osu.ppy.sh/users/9374657) | 
 
-The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing). Qualified participants will be revealed after the Qualification Rounds (for osu!standard and osu!mania), or upon closing of registrations (for osu!catch).
+#### Groups
+
+| Group | Top              | High               | Low                     | Bottom              | 
+|:-------:|------------------|--------------------|-------------------------|---------------------| 
+| **A** | (#4) nyx-        | (#7) Nelvin\_27    | (#12) Vigne Tsukinose   | (#14) GTXCZE        | 
+| **B** | (#2) MapleSyrup- | (#5) TheArge       | (#9) Trainer-           | (#13) exodia3000    | 
+| **C** | (#3) windrush123 | (#8) FeveredNickel | (#11) Toyohime-         | (#15) Baltz         | 
+| **D** | (#1) joseee-     | (#6) Mk3605        | (#10) \_Shirayukihime\_ | (#17) Mentai Cosmic | 
+
+### osu!mania 7K
+
+| Group | Top                                                      | High                                                | Low                                                        | Bottom                                              | 
+|:-------:|----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------| 
+| **A** | (#3) [cieloday05](https://osu.ppy.sh/users/2722489)      | (#6) [joseee-](https://osu.ppy.sh/users/10083439)   | (#9) [FeveredNickel](https://osu.ppy.sh/users/7331952)     | (#14) [DrawdeX](https://osu.ppy.sh/users/2228215)   | 
+| **B** | (#2) [- Kura -](https://osu.ppy.sh/users/11420405)       | (#5) [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) [windrush123](https://osu.ppy.sh/users/9087181)      | (#13) [Chez](https://osu.ppy.sh/users/4866112)      | 
+| **C** | (#1) [MapleSyrup-](https://osu.ppy.sh/users/1192936)     | (#8) [Tots](https://osu.ppy.sh/users/3443131)       | (#11) [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) [- Aries -](https://osu.ppy.sh/users/6639880) | 
+| **D** | (#4) [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) [fer789](https://osu.ppy.sh/users/8901267)     | (#10) [nyx-](https://osu.ppy.sh/users/9883834)             | <blank spot>                                        | 
+
+
+
+The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing).
+
+------------------------
+
+## Tournament Winners
+
+The following players are the people who managed to pull through the whole competition
+
+### osu!standard Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Dunois](https://osu.ppy.sh/users/4581715) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Marika](https://osu.ppy.sh/users/2199427) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Varsagus](https://osu.ppy.sh/users/3885723), [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+
+### osu!catch Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Roido](https://osu.ppy.sh/users/6829103) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+
+### osu!mania 4K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [joseee-](https://osu.ppy.sh/users/10083439) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [exodia3000](https://osu.ppy.sh/users/10500797) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+
+### osu!mania 7K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ------------------------
 
@@ -166,6 +226,87 @@ The full list of registrants may be found on [this spreadsheet](https://docs.goo
 Mappools will be revealed one week in advance of each stage.
 
 ### osu!standard
+
+#### Finals
+
+[**Download the mappack here! (127.3 MB)**](https://drive.google.com/open?id=1VFTmj0Wc95abHmRbiUG5TQ__VSGf2mKT)
+
+- NoMod
+	- [Guilty Kiss - Strawberry Trapper (Asaiga) \[Athy's Trick in Dice\]](https://osu.ppy.sh/beatmaps/1055997)
+	- [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Settia) \[Extra\]](https://osu.ppy.sh/beatmaps/944802)
+	- [nowisee - confusion (hot anime girl) \[Shira's Expert\]](https://osu.ppy.sh/beatmaps/1522333)
+	- [Nanahira - Shinchoku Doudesu ka?(Halozy Mix) (AtHeoN) \[Extra\]](https://osu.ppy.sh/beatmaps/969324)
+	- [Mio Yamazaki - Noise (English ver.) (Akitoshi) \[Extreme\]](https://osu.ppy.sh/beatmaps/1487213)
+	- [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmaps/837694)
+- Hidden
+	- [MYTH & ROID - Paradisus-Paradoxum (Mira-san) \[Paradigm\]](https://osu.ppy.sh/beatmaps/1030738)
+	- [Caravan Palace - Lone Digger (Sheepcraft) \[Funky\]](https://osu.ppy.sh/beatmaps/824970)
+- Hard Rock
+	- [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
+	- [96neko - Uso no Hibana (Yasaija 714) \[NiNo's Extra\]](https://osu.ppy.sh/beatmaps/1255495)
+- Double Time
+	- [Petit Rabbit's - Takarabako no Jet Coaster (Doormat) \[Fleur de Lapin\]](https://osu.ppy.sh/beatmaps/946685)
+	- [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmaps/809513)
+- FreeMod
+	- [Amatsuki - Chiisana Koi no Uta (Logic Agent) \[Together\]](https://osu.ppy.sh/beatmaps/1169701)
+	- [Red Velvet - Ice Cream Cake (handsome) \[Seulgi\]](https://osu.ppy.sh/beatmaps/899942)
+	- [Kano - Ama no Jaku (Realazy) \[Divulgence\]](https://osu.ppy.sh/beatmaps/1588264)
+- Tiebreaker
+	- [Kano - Walk This Way! (Rumia-) \[7.6\]](https://osu.ppy.sh/beatmaps/1572830)
+
+#### Semifinals
+
+[**Download the mappack here! (111.1 MB)**](https://drive.google.com/open?id=1Qb53yWPN2X7WNgpnyPF8HW9CV_kFw2d1)
+
+- NoMod
+	- [Yousei Teikoku - The Creator (meiikyuu) \[Nyaten\]](https://osu.ppy.sh/beatmaps/202756)
+	- [yuikonnu - Kakushigoto (murasaki\_sk) \[CRN-AR10-\]](https://osu.ppy.sh/beatmaps/283723)
+	- [Ocelot - YUKARI (Nhawak) \[Mystic\]](https://osu.ppy.sh/beatmaps/1058995)
+	- [Camellia - Routing (Mir) \[Reverb\]](https://osu.ppy.sh/beatmaps/1403907)
+	- [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) \[captin's Legend\]](https://osu.ppy.sh/beatmaps/495633)
+	- [Igorrr - Unpleasant Sonata (Sieg) \[Insane\]](https://osu.ppy.sh/beatmaps/245284)
+- Hidden
+	- [P\*Light - FUNKY SUMMER BEACH (Priti) \[Ultra\]](https://osu.ppy.sh/beatmaps/498989)
+	- [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmaps/1187506)
+- Hard Rock
+	- [Shiena Nishizawa - Meaning (Taeyang) \[True Meaning\]](https://osu.ppy.sh/beatmaps/799913)
+	- [Ayane - FaV -F\*\** and Vanguard- (Corinn) \[Happiness\]](https://osu.ppy.sh/beatmaps/1052871)
+- Double Time
+	- [senya - Kataomoi no Bigaku (Satellite) \[Aesthetics\]](https://osu.ppy.sh/beatmaps/798083)
+	- [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/163054)
+- FreeMod
+	- [yuikonnu - Yakimochi no Kotae -another story- (Lasse) \[Jealousy\]](https://osu.ppy.sh/beatmaps/966576)
+	- [Tia - The Glory Days (Nara) \[Rainbow\]](https://osu.ppy.sh/beatmaps/853625)
+	- [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/178645)
+- Tiebreaker
+	- [Camellia - Light it up (Opsi) \[Brilliance\]](https://osu.ppy.sh/beatmaps/1378892)
+
+#### Quarterfinals
+
+[**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1UvJ9xl1W9-Hk2LUTGF1ZeUBdJxWyeKH8)
+
+- NoMod
+	- [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](https://osu.ppy.sh/beatmaps/1018247)
+	- [Camellia - crystallized (Smoothie World) \[Ca2Al3(SiO4)3(OH)\]](https://osu.ppy.sh/beatmaps/867819)
+	- [yuikonnu - Houkago Stride (Natsu) \[After School\]](https://osu.ppy.sh/beatmaps/698164)
+	- [YUC'e - Future Cider (Sing) \[Duplication\]](https://osu.ppy.sh/beatmaps/1252022)
+	- [USAO - Dynamite (Extended Mix) (Nathan) \[TWERK\]](https://osu.ppy.sh/beatmaps/990396)
+	- [Machico - fantastic dreamer (Rizia) \[Fantasy\]](https://osu.ppy.sh/beatmaps/909494)
+- Hidden
+	- [LiSA - EGOiSTiC SHOOTER (Asphyxia) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/588975)
+	- [An - Saigo (Rumia-) \[Final\]](https://osu.ppy.sh/beatmaps/1100091)
+- Hard Rock
+	- [Crash-TM - Untan Goose (Jounzan) \[Extra\]](https://osu.ppy.sh/beatmaps/518069)
+	- [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmaps/62269)
+- Double Time
+	- [yanaginagi - Owari no Sekai kara (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmaps/616251)
+	- [Tama - Sonna Yume wo Mita no \~lonely dreaming girl\~ (Remix) (Snowy Dream) \[Snowy\]](https://osu.ppy.sh/beatmaps/143853)
+- FreeMod
+	- [Halozy - S.A.T.O.R.A.R.E (Kyshiro) \[Satori Komeiji\]](https://osu.ppy.sh/beatmaps/631965)
+	- [la la larks - Sayonara Waltz (captin1) \[Waltz\]](https://osu.ppy.sh/beatmaps/416882)
+	- [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Setz) \[Eternal Happiness\]](https://osu.ppy.sh/beatmaps/713594)
+- Tiebreaker
+	- [kanone - The Sea of Memory (rrtyui) \[sentiments\]](https://osu.ppy.sh/beatmaps/860311)
 
 #### Round of 16
 
@@ -236,6 +377,84 @@ Mappools will be revealed one week in advance of each stage.
 	
 ### osu!catch 
 
+#### Finals Week 2
+
+[**Download the mappack here! (133.1 MB)**](https://drive.google.com/open?id=1LCKZ3jOCkHxqIhwYtMZ4Pqva0WWgeOMb)
+
+- NoMod
+	- [senya - Akatsuki no Suiheisen ni (Razor Sharp) \[Grief\]](https://osu.ppy.sh/beatmaps/1313189)
+	- [senya - Zetsubou no Fuchi (Ascendance) \[Despair\]](https://osu.ppy.sh/beatmaps/1603797)
+	- [kors k - Playing With Fire (Sota Fujimori Remix) (Ascendance) \[Let's do it now!\]](https://osu.ppy.sh/beatmaps/1445272)
+	- [Green Day - Bang Bang (Crowley) \[World War Zero\]](https://osu.ppy.sh/beatmaps/1636562)
+	- [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Expert\]](https://osu.ppy.sh/beatmaps/1332900)
+	- [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmaps/131564)
+- Hidden
+	- [Reol - Echo (Tokufi) \[Mirror\]](https://osu.ppy.sh/beatmaps/1209412)
+	- [Memme - Goat Fantasia (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmaps/1346273)
+	- [guna with team kyukkyu - subconsciousness (Snow Note) \[Another\]](https://osu.ppy.sh/beatmaps/413428)
+- Hard Rock
+	- [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmaps/506395)
+	- [Goose House - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmaps/560408)
+	- [Camellia - crystallized (Ashasaki) \[NiNo's Insane\]](https://osu.ppy.sh/beatmaps/1152853)
+- Double Time
+	- [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmaps/724582)
+	- [Goose House - Hikaru Nara (Ascendance) \[Sc4's Rain\]](https://osu.ppy.sh/beatmaps/1113160)
+	- [Dragonforce - Through The Fire And Flames (Lesjuh) \[Legend\]](https://osu.ppy.sh/beatmaps/70760)
+- Tiebreaker
+	- [Feryquitous - Central Nucleus (Spectator) \[Karyolysis\]](https://osu.ppy.sh/beatmaps/1451055)
+
+#### Finals Week 1
+
+[**Download the mappack here! (111.6 MB)**](https://drive.google.com/open?id=10GxDpVygDxeCJ92p8TThEHZgRy0diNZc)
+
+- NoMod
+	- [TERRASPEX - AMAZING BREAK (Spectator) \[OVERDOSE\]](https://osu.ppy.sh/beatmaps/1541641)
+	- [The Quick Brown Fox - PACEMAKER (-Plus-) \[Overdose\]](https://osu.ppy.sh/beatmaps/1399287)
+	- [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (- \[ Asuna \] - ) \[Rainbow\]](https://osu.ppy.sh/beatmaps/626437)
+	- [MYTH & ROID - STYX HELIX (Minato Yukina) \[Re:Start\]](https://osu.ppy.sh/beatmaps/1033595)
+	- [Kero Kero Bonito - Flamingo (WTN3 Remix) (Nerova Riuz GX) \[Multi Color\]](https://osu.ppy.sh/beatmaps/888383)
+	- [Nizikawa - F.K.S. (Pho) \[Collab GRAVITY\]](https://osu.ppy.sh/beatmaps/1152014)
+- Hidden
+	- [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion) \[Radiance\]](https://osu.ppy.sh/beatmaps/1009520)
+	- [M2U - Stellar (Spectator) \[Alice\]](https://osu.ppy.sh/beatmaps/1481269)
+	- [beatMARIO - Night of Knights (DJPop) \[TAG4\]](https://osu.ppy.sh/beatmaps/58064)
+- Hard Rock
+	- [Marika - Knowing short ver. (Konei) \[Rain\]](https://osu.ppy.sh/beatmaps/572867)
+	- [PinocchioP - Kusaregedou to Chocolate (Katty Pie) \[Insane\]](https://osu.ppy.sh/beatmaps/238052)
+	- [TeamGrimoire+Amaneko - croiX (HelloSCV) \[Spec's CTB Rain\]](https://osu.ppy.sh/beatmaps/274012)
+- Double Time
+	- [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/163054)
+	- [sana - Packet Hero (Fuccho) \[Pho's Hard\]](https://osu.ppy.sh/beatmaps/924562)
+	- [Coalamode. - Nanairo Symphony -TV Size- (Ascendance) \[A World of Color\]](https://osu.ppy.sh/beatmaps/1040807)
+- Tiebreaker
+	- [Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](https://osu.ppy.sh/beatmaps/1119645)
+
+#### Semifinals
+
+[**Download the mappack here! (99.3 MB)**](https://drive.google.com/open?id=1cXDn20nz5frreS59p1HeH8fPK3uQjEyi)
+
+- NoMod
+	- [Function Phantom - Euclid (Ascendance) \[Spec's Overdose\]](https://osu.ppy.sh/beatmaps/1546703)
+	- [Rapbit - Sacred (ursa) \[Overdose\]](https://osu.ppy.sh/beatmaps/344415)
+	- [Nanahira - Monosugoi Space Shuttle de Koishi ga Monosugoi Uta (-Plus-) \[Amazing Space Adventure to Space!\~\]](https://osu.ppy.sh/beatmaps/1632278)
+	- [DECO\*27 - First Storm feat. Hatsune Miku (Asaiga) \[my Drops of Tears I'll turn to Sparks of Fire\]](https://osu.ppy.sh/beatmaps/1474795)
+	- [Suzuki Konomi - Cyber Thunder Cider (koreapenguin ) \[No Chilsung No Cider\]](https://osu.ppy.sh/beatmaps/456291)
+	- [charon - Seventeen RPG (Zero\_\_wind) \[pishi's Extra\]](https://osu.ppy.sh/beatmaps/882929)
+- Hidden
+	- [Joe Hisaishi - Inochi no Namae (Arr. Kyle Landry) (-Kurisu-) \[Inochi\]](https://osu.ppy.sh/beatmaps/380962)
+	- [Seiryu - Ultramarine (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmaps/625941)
+	- [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmaps/42244)
+- Hard Rock
+	- [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (TicClick) \[Lunatic\]](https://osu.ppy.sh/beatmaps/521280)
+	- [Expander - Move That Body (MBomb) \[Platter\]](https://osu.ppy.sh/beatmaps/672479)
+	- [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Insane\]](https://osu.ppy.sh/beatmaps/123706)
+- Double Time
+	- [Team "Hanayamata" - Yorokobi Synchronicity (Xinely) \[Platter\]](https://osu.ppy.sh/beatmaps/821077)
+	- [Memme - Cherry Blossom (Spectator) \[Platter\]](https://osu.ppy.sh/beatmaps/1047736)
+	- [SHK - Death Moon (Deye) \[SHD\]](https://osu.ppy.sh/beatmaps/49644)
+- Tiebreaker
+	- [Halozy - 143 (extended mix) (JBHyperiion) \[Everlasting Love\]](https://osu.ppy.sh/beatmaps/1216237)
+
 #### Quarterfinals
 
 [**Download the mappack here! (103.3 MB)**](https://drive.google.com/open?id=1ox7BQuLZD4jwkyNxTeoVONKD2-BxuHWj)
@@ -290,6 +509,109 @@ Mappools will be revealed one week in advance of each stage.
 	
 ### osu!mania 4K
 
+#### Finals Week 2
+
+[**Download the mappack here! (154.5 MB)**](https://drive.google.com/open?id=1ZPx5o5959iorjxI6phqgPxJyhJPUxK1m)
+
+- FreeMod
+	- [carage - cross dagger (Kdefs) \[execution\]](https://osu.ppy.sh/beatmaps/1572417)
+	- [Suguro - Sun Valley (K2 Remix) (Guilhermeziat) \[le 8-bit\]](https://osu.ppy.sh/beatmaps/950875)
+	- [Goreshit - Satori de Pon! (MintApril_) \[Maybe you should pratice more\]](https://osu.ppy.sh/beatmaps/1304723)
+	- [Shaman Cure-All - Tuk Tuk Boshi (1234567890) \[Jump Hand+\]](https://osu.ppy.sh/beatmaps/838065)
+	- [Carlito - Who's that Boy (Evening) \[Who's that Boy (1.17x)\]](https://osu.ppy.sh/beatmaps/1577335)
+	- [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru (Evening) \[Till November Night\]](https://osu.ppy.sh/beatmaps/1616971)
+	- [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell\]](https://osu.ppy.sh/beatmaps/1404355)
+	- [OISHII  - ONIGIRI FREEWAY (Niro-) \[LN Challenge\]](https://osu.ppy.sh/beatmaps/1406512)
+	- [Traktion - Gid V (Hydria) \[Hydria's Noodle Ecstacy\]](https://osu.ppy.sh/beatmaps/959208)
+	- [Toromaru - Enigma (TheToaphster) \[Maestro\]](https://osu.ppy.sh/beatmaps/1360128)
+	- [U1 Overground - Dopamine (Jungdongjin) \[\]](https://osu.ppy.sh/beatmaps/1304540)
+	- [Sta - The Ricochet (Dreamwalker) \[//Re: B0u&d_\]](https://osu.ppy.sh/beatmaps/1483052)
+	- [Camellia - The King of Lions (Eedow) \[JUNGLE WARFARE (SHD+SV Edition)\]](https://osu.ppy.sh/beatmaps/1460724)
+	- [trapman featuring CreeperWorks - minefield surfing (\_underjoy) \[UJ's 4K SPEEDTRAP\]](https://osu.ppy.sh/beatmaps/1564558)
+	- [IAHN - Transform (Original Mix) (TheToaphster) \[Inspire\]](https://osu.ppy.sh/beatmaps/1474925)
+- Tiebreaker
+	- [Camellia - Furry Cannon (Curiossity) \[FINAL SVCRIFICE\]](https://osu.ppy.sh/beatmaps/1470192)
+
+#### Finals Week 1
+
+[**Download the mappack here! (95.1 MB)**](https://drive.google.com/open?id=1jBJVnW1x25rlwa41exRrOHOE4YY7p9SD)
+
+- FreeMod
+	- [Neko Kanimaru - Hidamari no machi - a! (shuniki) \[Black Another\]](https://osu.ppy.sh/beatmaps/1041327)
+	- [ATC - Around the World (Wh1teh) \[\]](https://osu.ppy.sh/beatmaps/937985)
+	- [Infected Mushroom - Sa'eed (IcyWorld) \[Challenge\]](https://osu.ppy.sh/beatmaps/1400786)
+	- [Ghidorah  - Toilet Story 5 (Guilhermeziat) \[Ha.. toilet... dumps.............\]](https://osu.ppy.sh/beatmaps/950878)
+	- [EBIMAYO - Firefly City (Short edit) (LeiN-) \[Light Swarm\]](https://osu.ppy.sh/beatmaps/1210020)
+	- [Cash For Sex - What You've Done (Original Mix) (Jole) \[WHAT YOU'VE DUMP\]](https://osu.ppy.sh/beatmaps/894553)
+	- [puru - Toki (maidable remix) (Shoegazer) \[Eternal\]](https://osu.ppy.sh/beatmaps/1454026)
+	- [LeaF - Lyrith -Meikyuu Lyrith- (Mentholzzz) \[Labyrinth of Fear // 4K\]](https://osu.ppy.sh/beatmaps/1606102)
+	- [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](https://osu.ppy.sh/beatmaps/1609983)
+	- [EYE RH - The Red Coronation (Minseo2000) \[Spiteful Deposition\]](https://osu.ppy.sh/beatmaps/1160300)
+	- [HOLY SAMBA MASTER -SATOH- - Holy Samba Land (Jinjin) \[LN Master\]](https://osu.ppy.sh/beatmaps/1373188)
+	- [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Garalulu) \[Koi Koi\]](https://osu.ppy.sh/beatmaps/1446011)
+	- [sakuraburst - deconstructing nature (Vortex-) \[destruction\]](https://osu.ppy.sh/beatmaps/1305926)
+	- [saradisk - I Don't Play KanColle But Shimakaze-chan Is Cute (Daikyi) \[shimADHD\]](https://osu.ppy.sh/beatmaps/875482)
+	- [Inori - Prayer (Abuzeur) \[SV Accuracy\]](https://osu.ppy.sh/beatmaps/1410132)
+- Tiebreaker
+	- [uno - #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX (\_underjoy) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1480321)
+
+#### Semifinals
+
+[**Download the mappack here! (82.5 MB)**](https://drive.google.com/open?id=1WeTMzKlytsEyLBOXZCp7H3H3WO_Jgd8w)
+
+- FreeMod
+	- [Nekomata Master - Izanami no Nageki (Zyph) \[4K\]](https://osu.ppy.sh/beatmaps/1297624)
+	- [matra magic - FRAME (Valedict) \[DATA\]](https://osu.ppy.sh/beatmaps/1170730)
+	- [DJ Sharpnel - KLASSIKER EINHEIT (IcyWorld) \[IcyWorld's SM Challenge Collab\]](https://osu.ppy.sh/beatmaps/941874)
+	- [Danger - 22:41 (Elekton) \[1789\]](https://osu.ppy.sh/beatmaps/1588195)
+	- [ITO KASHITARO  - Yuudachi no Ribbon (Abraxos) \[sleet\]](https://osu.ppy.sh/beatmaps/1538938)
+	- [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmaps/1393891)
+	- [Freezer feat. Kiichigo - Chocolate Planet (Lenfried-) \[LNfried's HEAVELNLY\]](https://osu.ppy.sh/beatmaps/1579836)
+	- [Zedd - Clarity feat. Foxes (IOSYS uno DENPA remix) (\_underjoy) \[You're my LNAVITY\]](https://osu.ppy.sh/beatmaps/1043481)
+	- [Dschinghis Khan - Moskau (Camellia's Handzup Bootleg) (SurfChu85) \[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmaps/1575832)
+	- [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmaps/1068479)
+	- [Tokyo Machine - OKAY (CommandoBlack) \[Hard SV\]](https://osu.ppy.sh/beatmaps/1245480)
+	- [Camellia - Routing (TheToaphster) \[Timeless Journey\]](https://osu.ppy.sh/beatmaps/1504680)
+	- [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Hakana Sora\]](https://osu.ppy.sh/beatmaps/1592515)
+- Tiebreaker
+	- [KASAI HARCORES - Cycle Hit (Knif3rism) \[All-Star Hitters\]](https://osu.ppy.sh/beatmaps/1492412)
+
+#### Quarterfinals
+
+[**Download the mappack here! (59.2 MB)**](https://drive.google.com/open?id=1zYl0oTMdQnk6afGu8ph7DqVMjjGFjUNq)
+
+- FreeMod
+	- [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmaps/1428368)
+	- [sasakure.UK - Pangaea (Kamikaze) \[Harmony\]](https://osu.ppy.sh/beatmaps/1449802)
+	- [Jan Amit - In Torture (ft. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmaps/1215562)
+	- [Billx - Equinox (Janko) \[Insane\]](https://osu.ppy.sh/beatmaps/1466198)
+	- [Camellia as "Bang Riot" - Blastix Riotz (hi19hi19) \[hi19's EXHAUST\]](https://osu.ppy.sh/beatmaps/1195106)
+	- [Silent Siren - Cherry Bomb (JztCallMeRon) \[Cherry!\]](https://osu.ppy.sh/beatmaps/1390573)
+	- [Memme - Acid Burst (juankristal) \[Chaos\]](https://osu.ppy.sh/beatmaps/1530202)
+	- [Killerblood - Theme of Kingdom No. 8 (Minseo2000) \[Start Menu\]](https://osu.ppy.sh/beatmaps/1363743)
+	- [YUC'e - PUMP (Couil) \[Future Candy\]](https://osu.ppy.sh/beatmaps/1367425)
+	- [The Flashbulb - Back of the Yards (Halogen-) \[Stage 1: Boundary\]](https://osu.ppy.sh/beatmaps/1527721)
+	- [primrose - Lycoris (Tidek) \[Red Magic Lily\]](https://osu.ppy.sh/beatmaps/1410039)
+- Tiebreaker
+	- [goreshit - fleshbound (Couil) \[trapped\]](https://osu.ppy.sh/beatmaps/1383190)
+
+#### Group Stage
+
+[**Download the mappack here! (67.8 MB)**](https://drive.google.com/open?id=16qRiqTB1Oa0IB39J63e-8Xj2pi-_Cp9t)
+
+- FreeMod
+	- [marasy - stella=steLLa (Fontes) \[Fontes' Hard\]](https://osu.ppy.sh/beatmaps/1188579)
+	- [Halozy - Brilliant Colors (Feerum) \[Thousand Colors\]](https://osu.ppy.sh/beatmaps/790181)
+	- [sakuzyo - Neurotoxin (Abraxos) \[Stage 2: Inhibition\]](https://osu.ppy.sh/beatmaps/1520776)
+	- [w_tre - Shannon's Theorem (hi19hi19) \[hi19hi19's Medium\]](https://osu.ppy.sh/beatmaps/1556939)
+	- [cubesato - April Showers (Raveille) \[Drizzling\]](https://osu.ppy.sh/beatmaps/1577952)
+	- [Electro-Light - Throwback (AlisceaSparku) \[Liberation\]](https://osu.ppy.sh/beatmaps/1429587)
+	- [TSUNKU - Kumitate Koujou (DDMythical) \[Major Scale\]](https://osu.ppy.sh/beatmaps/1115654)
+	- [sakuzyo - SAO:The Beginning- Main Theme (eyes) \[harmony\]](https://osu.ppy.sh/beatmaps/1560930)
+	- [Dasu - NAKAKAPAGPABAGABAG (Toshiyuki Doma) \[Worrisome\]](https://osu.ppy.sh/beatmaps/1048093)
+- Tiebreaker
+	- [fhana - Wonder Stella (Asherz007) \[Cosmos\]](https://osu.ppy.sh/beatmaps/1300647)
+
 #### Post-qualification Play-offs
 
 [**Download the mappack here! (47.0 MB)**](https://drive.google.com/open?id=1bGjzgSoAqaQwHcBvb0Djkb4hwDQM3bqH)
@@ -304,6 +626,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [Celldweller - Weaponized (Noxus) \[Normal '9mm Pistol'\]](https://osu.ppy.sh/beatmaps/1523952)
 	- [Porter Robinson - Natural Light (SitekX) \[Ray\]](https://osu.ppy.sh/beatmaps/1222576)
 	- [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmaps/1045578)
+- Tiebreaker	
 	- [Chime - Undertale (Chime Remix) (SourToast) \[True Pacifist\]](https://osu.ppy.sh/beatmaps/976440)
 
 #### Qualifiers
@@ -318,12 +641,115 @@ Mappools will be revealed one week in advance of each stage.
 	
 ### osu!mania 7K
 
+#### Finals Week 2
+
+[**Download the mappack here! (102.6 MB)**](https://drive.google.com/open?id=1yCyKYVnR2qT4KPGcEhAcatk09frB1F4y)
+
+- FreeMod
+	- [tarolabo - Chikyuu Tou Devo^shon (porter9876) \[Lv.21 Delaymaster\]](https://osu.ppy.sh/beatmaps/776593)
+	- [DJ Nanasaki - Unorthodox Red (ExNeko) \[7K ExTra\]](https://osu.ppy.sh/beatmaps/1426466)
+	- [lapix - Carry me away (Couil) \[7K SV Challenge\]](https://osu.ppy.sh/beatmaps/1526642)
+	- [Chroma - sink to the deep sea world (Garalulu) \[mariana trench\]](https://osu.ppy.sh/beatmaps/1614140)
+	- [void - Sudden Romance (\_underjoy) \[Koi\]](https://osu.ppy.sh/beatmaps/1603229)
+	- [k\*chan - Sore wa Chiisana Hikari no Youna (dj-Jo Remix) (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmaps/1020673)
+	- [Jackal Queenston - Redwood (Nivrad00) \[play me\]](https://osu.ppy.sh/beatmaps/1625519)
+	- [IU - Palette (feat. G-Dragon) (Reba) \[Twenty Five\]](https://osu.ppy.sh/beatmaps/1291014)
+	- [Camellia feat. Nanahira - Niwaka Sannen Ota Hachinen, Internets wa forever (Choubun Sumaso Long ver.) (Kim_GodSSI) \[Ninja\]](https://osu.ppy.sh/beatmaps/1576599)
+	- [senya - Nihil Kagura (Wilben_Chan) \[satori's LN\]](https://osu.ppy.sh/beatmaps/1534050)
+	- [LeaF - Evanescent (ExKagii-) \[Sognare\]](https://osu.ppy.sh/beatmaps/1048120)
+	- [S.S.H. - The Wanted (KafuuChino) \[Exceed\]](https://osu.ppy.sh/beatmaps/976188)
+	- [-45 - 44river (Imperial Wolf) \[7K Flow\]](https://osu.ppy.sh/beatmaps/1177675)
+	- [HyunA - Bubble Pop! (Schoolgirl) \[Cherry Poppin'\]](https://osu.ppy.sh/beatmaps/1671353)
+	- [Tanchiky - ENERGY SYNERGY MATRIX (jakads) \[E. S. M.\]](https://osu.ppy.sh/beatmaps/1476970)
+- Tiebreaker
+	- [Camellia - I Can Fly In The Universe (Wadu) \[Extraterrestrial\]](https://osu.ppy.sh/beatmaps/1098761)
+
+#### Finals Week 1
+
+[**Download the mappack here! (84.3 MB)**](https://drive.google.com/open?id=1JuyF0Ca64uTguA6k-gglKCA4-QfBGGYu)
+
+- FreeMod
+	- [xi - Zephyros (Remillion Cross) \[7K Extra\]](https://osu.ppy.sh/beatmaps/350280)
+	- [Skrillex - First Of The Year (Equinox) (Kim_GodSSI) \[Super SV\]](https://osu.ppy.sh/beatmaps/843877)
+	- [sak respect for Arata Iiyoshi - Reason of being (Wadu) \[Extra\]](https://osu.ppy.sh/beatmaps/1623521)
+	- [Camellia - Bangin' Burst (Skalim) [Rage!!]](https://osu.ppy.sh/beatmaps/488955)
+	- [UNDEAD CORPORATION - Everything will freeze (Raediaufar) \[SHD\]](https://osu.ppy.sh/beatmaps/754531)
+	- [Umeri - Paranoia (CloudHolic) \[CloudHolic's 7K Delusion\]](https://osu.ppy.sh/beatmaps/930543)
+	- [Konuko - Toumei Elegy (MAPLESR) \[7k Bpple's dance\]](https://osu.ppy.sh/beatmaps/1047575)
+	- [Paul Bazooka - Gigantic Saga (Minseo2000) \[Tempestuous Odyssey\]](https://osu.ppy.sh/beatmaps/1613918)
+	- [Toni Leys - Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (iJinJin) \[Expert\]](https://osu.ppy.sh/beatmaps/785944)
+	- [ONE - Future (arcwinolivirus) \[7K SV Innovation\]](https://osu.ppy.sh/beatmaps/1498465)
+	- [The Quick Brown Fox - Shut Down Everything (NegaRen Remix) (Agka) \[Crazy\]](https://osu.ppy.sh/beatmaps/412956)
+	- [Furon / Razuberiru - Love & Justice (Blasticide) \[Lv.13\]](https://osu.ppy.sh/beatmaps/1447448)
+	- [Kano - Stella-rium (moni) \[7K Stella\]](https://osu.ppy.sh/beatmaps/910635)
+	- [Porter Robinson & Madeon - Shelter (- A s u s a -) \[Piko x Asusa Deep in dream\]](https://osu.ppy.sh/beatmaps/1118901)
+	- [Kaneko Chiharu - AciculignosA (Dreamwalker) \[7K Scent (No SV)\]](https://osu.ppy.sh/beatmaps/1601829)
+- Tiebreaker
+	- [YUC'e - Future Cider (Blasticide) \[Future Candy\]](https://osu.ppy.sh/beatmaps/1631230)
+
+#### Semifinals
+
+[**Download the mappack here! (88.3 MB)**](https://drive.google.com/open?id=1tsG7KQ45UrurFJsYJ2f6Rpo2rvjoWROr)
+
+- FreeMod
+	- [Touyama Nao - Megumegu\*Fire Endless Night (Rumia-) \[Rumi's Fire!\]](https://osu.ppy.sh/beatmaps/373321)
+	- [t+pazolite - CENSORED!! (Arzenvald) \[Usagi's 7K EXHAUST\]](https://osu.ppy.sh/beatmaps/1023832)
+	- [fairy w!nk - Tenshi wa doko ni iru? (Benzopirene) \[white wings\]](https://osu.ppy.sh/beatmaps/1578698)
+	- [penoreri - Scarlet Pinheel (Shinzo-) \[EnZo's 7K Gravity\]](https://osu.ppy.sh/beatmaps/849365)
+	- [toby fox - MEGALOVANIA (Jinjin) \[...\]](https://osu.ppy.sh/beatmaps/1216317)
+	- [\* (Asterisk) - OwOver!! (Asterisk DnB Remix) (JztCallMeRon) \[o wo)!!\]](https://osu.ppy.sh/beatmaps/1224467)
+	- [Arca vs. DJ SUZUMI - BRIZARD (MAAAAAAAAAAAAAS) \[7K MX\]](https://osu.ppy.sh/beatmaps/1443926)
+	- [Reol - Echo (Zillah) \[Normal\]](https://osu.ppy.sh/beatmaps/555233)
+	- [Trick Trap - Blue Planet (DrawdeX) \[EXTRA STAGE\]](https://osu.ppy.sh/beatmaps/775581)
+	- [Cres - End Time (Pinecone) \[Stair\]](https://osu.ppy.sh/beatmaps/396735)
+	- [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/beatmaps/1625602)
+	- [M2U - The Queen (c36098651) \[Queen\]](https://osu.ppy.sh/beatmaps/300407)
+	- [Sadohara Kaori - Day to Story (TV Size) (Remillion Cross) \[Million's 7K MX\]](https://osu.ppy.sh/beatmpas/462460)
+- Tiebreaker
+	- [Ice - Parodia Sonatine -Grande- (Mentholzzz) \[7K The Final Symphony\]](https://osu.ppy.sh/beatmaps/1427008)
+
+#### Quarterfinals
+
+[**Download the mappack here! (67.8 MB)**](https://drive.google.com/open?id=13vhyw4kBR4H0-XdWvic7G00HtRmlxoy2)
+
+- FreeMod
+	- [Nekomata Master feat. Hayashi Momoko - Rainbow After Snow (ShikiNoHollow) \[7K MX\]](https://osu.ppy.sh/beatmaps/391682)
+	- [Porter Robinson & Madeon - Shelter (eyes) \[me\]](https://osu.ppy.sh/beatmaps/1400635)
+	- [Chata - Mirai no Monogatari (yoshilove) \[7K MX\]](https://osu.ppy.sh/beatmaps/442566)
+	- [RoughSketch + DD"Nakata"Metal - Booths of Fighters (Skalim) \[Skalim's 7K HD\]](https://osu.ppy.sh/beatmaps/675769)
+	- [Xe - 3rd eye rag (pporse) \[pporse's Insane\]](https://osu.ppy.sh/beatmaps/1200878)
+	- [ETIA. - Claiomh Solais (Arzenvald) \[Insanity\]](https://osu.ppy.sh/beatmaps/836057)
+	- [Petit Rabiit's - Daydream Cafe (ArcherLove) \[Sangat Sulit \[MX\]\]](https://osu.ppy.sh/beatmaps/1220591)
+	- [maras k - Play Time!! (Julie) \[Insane\]](https://osu.ppy.sh/beatmaps/1510767)
+	- [(K)NoW_NAME - crepuscular rays (richardfeder) \[Insane\]](https://osu.ppy.sh/beatmaps/1032593)
+	- [mimimemeMIMI - Mr. Darling (DJ Profetti) \[MX\]](https://osu.ppy.sh/beatmaps/734882)
+	- [Yun\*chi - Your song\* (Zillah) \[ZS\]](https://osu.ppy.sh/beatmaps/427971)
+- Tiebreaker
+	- [yanaginagi - Owari no Sekai Kara (Taiwan_CDZ) \[MX\]](https://osu.ppy.sh/beatmaps/785894)
+
+#### Group Stage
+
+[**Download the mappack here! (53.5 MB)**](https://drive.google.com/open?id=1W0G2STSSdx9forc9h9bQ19aBdHlt3Sh6)
+
+- FreeMod
+	- [Tamiyasu Tomoe, Aoba Ringo - Crayon Tulip (arcwinolivirus) \[7K 'Loli Overload' Arc\]](https://osu.ppy.sh/beatmaps/1097882)
+	- [Satou Hitomi - Summer in Kagome (SurfChu85) \[relaxation\]](https://osu.ppy.sh/beatmaps/1487920)
+	- [Tokyo Machine - FIGHT (MapleSyrup-) \[7K HD\]](https://osu.ppy.sh/beatmaps/1542934)
+	- [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmaps/712126)
+	- [Chiyoko - Alice's Mad Tea Party (Evening) \[lZenxl's MX\]](https://osu.ppy.sh/beatmaps/531488)
+	- [SHK - weep Irish (Nap) \[7K Hard\]](https://osu.ppy.sh/beatmaps/985112)
+	- [Kagamine Rin - I Like You, I Love You (Entozer) \[Normal\]](https://osu.ppy.sh/beatmaps/191526)
+	- [Helblinde - Above the Clouds (Level 51) \[Hymn\]](https://osu.ppy.sh/beatmaps/1074573)
+	- [Nishimori Yusa(CV.Uchida Maaya) - Rakuen made (- Aries -) \[MX\]](https://osu.ppy.sh/beatmaps/1216873)
+- Tiebreaker
+	- [Erica Masaki - Take a Chance! (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmaps/384030)
+
 #### Qualifiers
 
 [**Download the mappack here! (14.4 MB)**](https://drive.google.com/open?id=10vZt9-5LNbTYRG_23M5IWTi0sZCSr-zO)
 
 - FreeMod
-	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology]](https://osu.ppy.sh/beatmaps/1624698)
+	- [Machinedrum - Icya (cut) (Lenfried-) \[Urban Biology\]](https://osu.ppy.sh/beatmaps/1624698)
 	- [Eckle - Sakoya (cut) (eyes) \[deshoda v2\]](https://osu.ppy.sh/beatmaps/1624695)
 	- [Kageyama Shota - Ryuusei Aika (SurfChu85) \[Lamentation\]](https://osu.ppy.sh/beatmaps/1624699)
 	- [ninomiya tatsuki - furiae (Lenfried-) \[Desolate\]](https://osu.ppy.sh/beatmaps/1624696)
@@ -334,14 +760,58 @@ Mappools will be revealed one week in advance of each stage.
 
 All results are compiled for public viewing via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTTxOVuAkvW6s2pSwL2torJvD-RLSNKCsfY61WuUfzvJorkMT59Kp_le2p5L6lfGI370UxXpbYCVgS/pubhtml)
 
-### Match Week 1 (2018-04-28 to 2018-04-29)
+### osu!standard
 
-#### osu!standard Round of 32
+#### Finals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml?gid=235298817)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml)
+
+| Seed | Player 1 |   |       | Player 2   | Seed |  | 
+|:------:|:----------|:---:|:-------:|------------:|:------:|--| 
+| 4    | -Marika  | 2 | **7** | **Dunois** | 2    |  | 
+
+#### Semifinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2    | Seed |  | 
+|:------:|:----------------|:-------:|:-------:|-------------:|:------:|--| 
+| 9    | TyrantsEye2014 | 3     | **7** | **-Marika** | 4    |  | 
+| 2    | **Dunois**     | **7** | 2     | Varsagus    | 3    |  | 
+
+
+#### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
+
+| Seed | Player 1     |       |       | Player 2           | Seed |  | 
+|:------:|:--------------|:-------:|:-------:|--------------------:|:------:|--| 
+| 16   | Eboryte      | 0     | **6** | **TyrantsEye2014** | 9    |  | 
+| 4    | **-Marika**  | **6** | 1     | Nezol              | 12   |  | 
+| 2    | **Dunois**   | **6** | 0     | PhasiconN          | 7    |  | 
+| 3    | **Varsagus** | **6** | 3     | Xidorn             | 11   |  | 
+
+#### Round of 16
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
+
+| Seed | Player 1      |       |       | Player 2           | Seed |     | 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
+| 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     | 
+| 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     | 
+| 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     | 
+| 5    | Fraye         | 0     | **5** | **Nezol**          | 12   | WBD | 
+| 2    | **Dunois**    | **5** | 1     | Natsume-           | 18   |     | 
+| 7    | **PhasiconN** | **5** | 1     | Oooodriiin         | 10   |     | 
+| 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     | 
+| 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     | 
+
+#### Round of 32
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
 | Seed | Player 1           |       |       | Player 2      | Seed |     | 
-|------|--------------------|-------|-------|---------------|------|-----| 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
 | 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD | 
 | 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     | 
 | 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD | 
@@ -359,12 +829,68 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 6    | **fixedbyglue**    | **4** | 0     | Scylz         | 27   |     | 
 | 11   | **Xidorn**         | **4** | 2     | Rimazii       | 22   |     | 
 
-#### osu!catch Round of 16
+#### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml?gid=375654597)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml)
+
+### osu!catch
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJnP4qowpYEvx2txysAxgoOkmil9M52iU8sigiuRgvK3ku2KkYtfIx93mtc2xdYeyKdgWdwJXJlzda/pubhtml)
+
+#### Finals Week 2
+
+| Seed | Player 1      |       |   | Player 2    | Seed |     | 
+|:------:|:---------------|:-------:|:---:|-------------:|:------:|-----| 
+| 2    | **-Nicotine** | **7** | 3 | KaganimeRin | 8    |     | 
+| 1    | **Roido**     | **7** | 0 | Nicotine    | 2    | WBD | 
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml)
+
+| Seed | Player 1   |       |       | Player 2        | Seed |     | 
+|:------:|:------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 5    | **-MomoX** | **7** | 2     | Laqure          | 6    |     | 
+| 3    | - Kielzu - | 0     | **7** | **KaganimeRin** | 8    | WBD | 
+| 5    | -MomoX     | 3     | **7** | **KaganimeRin** | 8    |     | 
+| 1    | **Roido**  | **7** | 2     | -Nicotine       | 2    |     | 
+
+#### Semifinals and Loser's Bracket Round 2 and 3
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2        | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 8    | **KaganimeRin** | **6** | 0     | Contingent      | 11   | WBD | 
+| 4    | **Crowley**     | **6** | 0     | princealbert10  | 15   | WBD | 
+| 10   | **AJamez**      | **6** | 0     | Weazle          | 13   | WBD | 
+| 6    | **Laqure**      | **6** | 0     | JeirYagtama     | 9    | WBD | 
+| 4    | Crowley         | 4     | **6** | **KaganimeRin** | 8    |     | 
+| 6    | **Laqure**      | **6** | 0     | AJamez          | 10   | WBD | 
+| 1    | **Roido**       | **6** | 3     | -MomoX          | 5    |     | 
+| 2    | **-Nicotine**   | **6** | 3     | * Kielzu -      | 3    |     | 
+
+#### Quarterfinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
+
+| Seed | Player 1           |       |       | Player 2        | Seed |     | 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
+| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
+| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
+| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
+| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
+| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
+| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
+| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
+
+#### Round of 16
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
 | Seed | Player 1        |       |       | Player 2       | Seed |     | 
-|------|-----------------|-------|-------|----------------|------|-----| 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
 | 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
 | 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
 | 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     | 
@@ -374,10 +900,185 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD | 
 | 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD | 
 
-### Qualifiers
+### osu!mania 4K
 
-- Detailed results of the **osu!standard** Qualfiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9sVblR0IxsTCs8CX-rOftFqOBjRPXidPHGD0K0ZKvqW6k1XtuvEzhvzwEfvRzo0DkGkDboBSDszL1/pubhtml?gid=1817771911)
-- Detailed results of the **osu!mania 4K** Qualifiers can be found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml?gid=555080779)
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2       | Seed |  | 
+|:------:|:-----------------|:-------:|:-------:|----------------:|:------:|--| 
+| 3    | Vigne Tsukinose | 2     | **7** | **exodia3000** | 8    |  | 
+| 1    | **joseee-**     | **7** | 6     | exodia3000     | 8    |  | 
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2        | Seed |     | 
+|:------:|:----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 4    | **Toyohime-**  | **7** | 6     | MapleSyrup-     | 2    |     | 
+| 7    | Mk3605         | 3     | **7** | **exodia3000**  | 8    |     | 
+| 8    | **exodia3000** | **7** | 1     | Toyohime-       | 4    |     | 
+| 1    | **joseee-**    | **7** | 0     | Vigne Tsukinose | 3    | WBD | 
+
+#### Semifinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2            | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|---------------------:|:------:|-----| 
+| 8    | **exodia3000**  | **6** | 0     | windrush123         | 5    |     | 
+| 2    | **MapleSyrup-** | **6** | 0     | nyx-                | 6    | WBD | 
+| 1    | **joseee-**     | **6** | 0     | Toyohime-           | 4    |     | 
+| 7    | Mk3605          | 2     | **6** | **Vigne Tsukinose** | 3    |     | 
+
+#### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFEzcUVlpMMYroSYsEwsiaop5BnH_1JCUZGPk-EALl4BxAWL0FyIbISaio8QdCEMi1A_2HRxOiX-gl/pubhtml)
+
+| Seed | Player 1            |       |       | Player 2    | Seed |  | 
+|:------:|:---------------------|:-------:|:-------:|-------------:|:------:|--| 
+| 1    | **joseee-**         | **5** | 2     | exodia3000  | 8    |  | 
+| 4    | **Toyohime-**       | **5** | 4     | windrush123 | 5    |  | 
+| 2    | MapleSyrup-         | 1     | **5** | **Mk3605**  | 7    |  | 
+| 3    | **Vigne Tsukinose** | **5** | 1     | nyx-        | 6    |  | 
+
+
+#### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2            | Seed |     | 
+|:----:|:-----------------------|:-------:|:-------:|---------------------:|:------:|-----| 
+| 4    | **nyx-**              | **4** | 0     | Nelvin\_27          | 7    | WBD | 
+| 4    | nyx-                  | 3     | **4** | **Vigne Tsukinose** | 12   |     | 
+| 4    | **nyx-**              | **4** | 3     | GTXCZE              | 14   |     | 
+| 7    | Nelvin\_27            | 0     | **4** | **Vigne Tsukinose** | 12   | WBD | 
+| 7    | Nelvin\_27            | 0     | **4** | **GTXCZE**          | 14   | WBD | 
+| 12   | **Vigne Tsukinose**   | **4** | 1     | GTXCZE              | 14   |     | 
+| 2    | **MapleSyrup-**       | **4** | 3     | TheArge             | 5    |     | 
+| 2    | **MapleSyrup-**       | **4** | 1     | Trainer-            | 9    |     | 
+| 2    | **MapleSyrup-**       | **4** | 0     | exodia3000          | 13   |     | 
+| 5    | **TheArge**           | **4** | 0     | Trainer-            | 9    | WBD | 
+| 5    | TheArge               | 0     | **4** | **exodia3000**      | 13   | WBD | 
+| 9    | Trainer-              | 3     | **4** | **exodia3000**      | 13   |     | 
+| 3    | **windrush123**       | **4** | 0     | FeveredNickel       | 8    |     | 
+| 3    | windrush123           | 3     | **4** | **Toyohime-**       | 11   |     | 
+| 3    | **windrush123**       | **4** | 0     | Baltz               | 15   |     | 
+| 8    | FeveredNickel         | 1     | **4** | **Toyohime-**       | 11   |     | 
+| 8    | FeveredNickel         | 1     | **4** | **Baltz**           | 15   |     | 
+| 11   | **Toyohime-**         | **4** | 2     | Baltz               | 15   |     | 
+| 1    | **joseee-**           | **4** | 0     | Mk3605              | 6    |     | 
+| 1    | **joseee-**           | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
+| 1    | **joseee-**           | **4** | 0     | Mentai Cosmic       | 17   |     | 
+| 6    | **Mk3605**            | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
+| 6    | **Mk3605**            | **4** | 1     | Mentai Cosmic       | 17   |     | 
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Mentai Cosmic       | 17   | WBD | 
+
+#### Post-qualification Play-offs
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
+| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
+| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
+| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
+| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
+| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
+| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
+| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
+| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
+| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
+| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
+| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
+| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
+| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
+| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
+| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1VVVMBwpYsJ284jVK7thpJBxPbTbpBeUrBb7-S2T-elmd1dQgNy49ADLfLpD7-854gShIJSm8wcnj/pubhtml)
+
+### osu!mania 7K
+
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml)
+
+| Seed | Player 1       |       |       | Player 2            | Seed |  | 
+|:------:|:----------------|:-------:|:-------:|---------------------:|------:|--| 
+| 1    | MapleSyrup     | 0     | **7** | **Vigne Tsukinose** | 3    |  | 
+| 2    | **cieloday05** | **7** | 1     | Vigne Tsukinose     | 3    |  | 
+
+#### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml)
+
+| Seed | Player 1            |       |       | Player 2       | Seed |     | 
+|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----| 
+| 5    | **LackPoints**      | **7** | 0     | joseee-        | 6    | WBD | 
+| 3    | **Vigne Tsukinose** | **7** | 0     | - Kura -       | 4    | WBD | 
+| 3    | **Vigne Tsukinose** | **7** | 0     | LackPoints     | 5    |     | 
+| 1    | MapleSyrup-         | 0     | **7** | **cieloday05** | 2    |     | 
+
+#### Semifinals and Loser's Bracket Round 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml)
+
+| Seed | Player 1        |       |       | Player 2        | Seed |     | 
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
+| 8    | nyx-            | 0     | **6** | **- Kura -**    | 4    | WBD | 
+| 7    | Tots            | 0     | **6** | **joseee-**     | 6    | WBD | 
+| 1    | **MapleSyrup-** | **6** | 0     | LackPoints      | 5    |     | 
+| 2    | **cieloday05**  | **6** | 0     | Vigne Tsukinose | 3    |     | 
+
+#### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvCCksLFHwERSX-QL_ICRv8SptBrnlt-bjzlxQgk40gADlWlPWV9RDIOAisFC83wOseSvTkuHirYHY/pubhtml)
+
+| Seed | Player 1            |       |       | Player 2       | Seed |     | 
+|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----| 
+| 1    | **MapleSyrup-**     | **5** | 0     | nyx-           | 8    |     | 
+| 4    | - Kura -            | 0     | **5** | **LackPoints** | 5    | WBD | 
+| 2    | **cieloday05**      | **5** | 0     | Tots           | 7    | WBD | 
+| 3    | **Vigne Tsukinose** | **5** | 0     | joseee-        | 6    | WBD | 
+
+
+#### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml)
+
+| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+|:------:|:-----------------------|:-------:|:-------:|-------------------:|:------:|-----| 
+| 3    | **cieloday05**        | **4** | 1     | joseee-           | 6    |     | 
+| 3    | **cieloday05**        | **4** | 0     | FeveredNickel     | 9    | WBD | 
+| 3    | **cieloday05**        | **4** | 0     | DrawdeX           | 14   | WBD | 
+| 6    | **joseee-**           | **4** | 0     | FeveredNickel     | 9    |     | 
+| 6    | **joseee-**           | **4** | 0     | DrawdeX           | 14   |     | 
+| 9    | **FeveredNickel**     | **4** | 0     | DrawdeX           | 14   | WBD | 
+| 2    | **- Kura -**          | **4** | 2     | LackPoints        | 5    |     | 
+| 2    | **- Kura -**          | **4** | 1     | windrush123       | 12   |     | 
+| 2    | **- Kura -**          | **4** | 0     | Chez              | 13   | WBD | 
+| 5    | **LackPoints**        | **4** | 0     | windrush123       | 12   |     | 
+| 5    | **LackPoints**        | **4** | 0     | Chez              | 13   | WBD | 
+| 12   | **windrush123**       | **4** | 0     | Chez              | 13   | WBD | 
+| 1    | **MapleSyrup-**       | **4** | 1     | Tots              | 8    |     | 
+| 1    | **MapleSyrup-**       | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
+| 1    | **MapleSyrup-**       | **4** | 0     | - Aries -         | 15   |     | 
+| 8    | **Tots**              | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
+| 8    | **Tots**              | **4** | 0     | - Aries -         | 15   | WBD | 
+| 11   | **\_Shirayukihime\_** | **4** | 0     | - Aries -         | 15   | WBD | 
+| 4    | **Vigne Tsukinose**   | **4** | 1     | fer789            | 7    |     | 
+| 4    | **Vigne Tsukinose**   | **4** | 0     | nyx-              | 10   |     | 
+| 7    | fer789                | 2     | **4** | **nyx-**          | 10   |     | 
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqPGL8QtTEcM4h0aL4j4WFN00ADELKeKSMQJvqy9JPJet-0h-ccRj7vBCmzz5Yf4AFBzykchawwEAk/pubhtml)
 
 ------------------------
 

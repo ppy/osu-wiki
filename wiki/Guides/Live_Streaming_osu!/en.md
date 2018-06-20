@@ -1,6 +1,6 @@
 # Live Streaming osu!
 
-If you are visiting this page, it is likely you have an interest and want to learn how to live stream *osu!* on twitch.tv. Doing so is a very simple process but may require a reliable computer to be able to run both *osu!* and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
+If you are visiting this page, it is likely you have an interest and want to learn how to live stream osu! on twitch.tv. Doing so is a very simple process but may require a reliable computer to be able to run both osu! and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
 
 ## Step 1 - Registration
 
@@ -13,14 +13,14 @@ If you are visiting this page, it is likely you have an interest and want to lea
 
 ## Step 2 - Prepare twitch.tv for streaming
 
-Twitch.tv is a gaming community, and as such, there will be *a lot* of gaming libraries to select from. However, you only need to worry about finding *osu!* since that is what this guide is about.
+Twitch.tv is a gaming community, and as such, there will be *a lot* of gaming libraries to select from. However, you only need to worry about finding osu! since that is what this guide is about.
 ![Channel Setup](img/TTV_ChannelSetup.jpg "Channel Setup")
 
 1.  Once you have logged in, click on your username at the top right corner.
 2.  Click on `Dashboard` from the drop-down list.
-3.  Input the title and click on the icon where it says `Not Playing` to change into `Playing` then type "osu!". A list of games with similar names should appear, the one you want is *osu!*
+3.  Input the title and click on the icon where it says `Not Playing` to change into `Playing` then type "osu!". A list of games with similar names should appear, the one you want is osu!
 
-Once you are done with that, you are ready to start streaming if you want. There is one last question remaining, how can you make TTV recognize your *osu!* window and live stream it? We will cover that in the next step. If you already have a preferred program you want use for this then go ahead and start streaming, otherwise read on.
+Once you are done with that, you are ready to start streaming if you want. There is one last question remaining, how can you make TTV recognize your osu! window and live stream it? We will cover that in the next step. If you already have a preferred program you want use for this then go ahead and start streaming, otherwise read on.
 
 **Warning**: If you do not pause/mute the stream preview in either your channel or dashboard, your viewers may get echo. Also, you may click on the wheel icon on the chat and click on `popout` to pop out the chatroom and put it wherever you want without the need to constantly have your browser open.
 
@@ -52,7 +52,7 @@ Register and download the program. Once you have logged in you will be in a wind
 
 ![XSplit main menu](img/Xsplit_main.png "Xsplit main menu")
 
-To capture any region of your screen or a window, click at the bottom left on `Add`, then click `Screen Region`, afterwards just click on your *osu!* window and you will get this:
+To capture any region of your screen or a window, click at the bottom left on `Add`, then click `Screen Region`, afterwards just click on your osu! window and you will get this:
 
 ![XSplit initial capture](img/Xsplit_initial_capture.png "Xsplit initial capture")
 
@@ -162,13 +162,13 @@ For a higher framerate, adjust accordingly.
 
 **Tip:** You can record everything in original resolution (eg 1080p), and downscale (eg 480p) it later. This takes **much less** computing power than rescaling everything (upscaling rarely looks pretty).
 
--   `Audio Encoding`: As *osu!* usually has a 192kbps@44,1kHz `.mp3` format you can use either that or a 128kbps AAC@44,1kHz (recommended). If you have a really good microphone and will do some verbal commentary, you can also set this higher but keep in mind that those kbps are on top of your video bitrate.
+-   `Audio Encoding`: As osu! usually has a 192kbps@44,1kHz `.mp3` format you can use either that or a 128kbps AAC@44,1kHz (recommended). If you have a really good microphone and will do some verbal commentary, you can also set this higher but keep in mind that those kbps are on top of your video bitrate.
 
 **Video**
 
--   `Base resolution`: Here you can set your resolution for the scene to be streamed. If you do not plan to include anything other than *osu!*, just set it to your *osu!* resolution.
+-   `Base resolution`: Here you can set your resolution for the scene to be streamed. If you do not plan to include anything other than osu!, just set it to your osu! resolution.
 -   `Resolution Downscale`: Here, you have the possibility to downscale your scene to match your bitrate! If you do so, and the limitation is due to the connection, leave it at `Bilinear Filter`. Otherwise, you might want to go for the 16 samples bicubic one.
--   `FPS`: Since *osu!* is a rhythm game (frame-freeze and you are screwed with a Miss), you can tell the difference between 30fps and 60fps. If you have only a half-decent PC and low bandwidth, 42 fps works well. For starters, 30fps is recommended and you can try increasing fps later until you see fit.
+-   `FPS`: Since osu! is a rhythm game (frame-freeze and you are screwed with a Miss), you can tell the difference between 30fps and 60fps. If you have only a half-decent PC and low bandwidth, 42 fps works well. For starters, 30fps is recommended and you can try increasing fps later until you see fit.
 -   `Disable Aero`: For weak PCs or if you also want to capture whole windows or monitors. It is good to note that OBS has very poor monitor/window capture performance if you do not disable Aero.
 
 **Audio**
@@ -178,7 +178,7 @@ For a higher framerate, adjust accordingly.
 **Advanced**
 
 -   `Use Multithreaded Optimizations`: If you have a multicore processor (usually high-end PC), it is a should be enabled!
--   `Process Priority`:  Leave it normal, unless you know what it does! On lower-end machines, it can be changed to above normal. You can do this to *osu!*, but it is not recommended.
+-   `Process Priority`:  Leave it normal, unless you know what it does! On lower-end machines, it can be changed to above normal. You can do this to osu!, but it is not recommended.
 -   `x264 CPU Preset`: Best setting to experiment with when you have problems with the CPU usage! Set it to `superfast` to lower the usage for some quality loss. \*\*Otherwise, do not touch and leave it at `veryfast`.
 -   `x264 Encoding Profile`: **Must** be changed to `main` for twitch.tv use!
 -   `Keyframe Interval`: **Must** be changed to `2` for twitch.tv use! (FYI: Youtube also needs this at 2)
@@ -187,19 +187,19 @@ If you experience a motion-audio-shift in your stream, play around with the `Glo
 
 #### Setting up a basic scene
 
-Go back to the main OBS window. We are going to set *osu!* as `Global Source` (aka the main character) and hence, click the `Global Sources…` button > `Add` > `Add Game Capture`.
+Go back to the main OBS window. We are going to set osu! as `Global Source` (aka the main character) and hence, click the `Global Sources…` button > `Add` > `Add Game Capture`.
 
 ![Going to Game Capture menu from Main menu](img/OBS_AddGameCapture.jpg "Going to Game Capture menu from Main menu")
 
-Give it an appropriate nickname and choose *osu!* from the dropdown menu. Enable `Stretch image to screen` and disable `Capture mouse cursor`.
+Give it an appropriate nickname and choose osu! from the dropdown menu. Enable `Stretch image to screen` and disable `Capture mouse cursor`.
 
 ![Settings for osu! at Game Capture menu](img/OBS_SetOsuAsGameCapture.png "Settings for osu! at Game Capture menu")
 
-Go back to the main window and `right-click` in `Sources` > `Add` > `Global Sources` > {Game Capture Name}. Give it a name that *osu!* should have within the scene (eg. "osu! play by rem470").
+Go back to the main window and `right-click` in `Sources` > `Add` > `Global Sources` > {Game Capture Name}. Give it a name that osu! should have within the scene (eg. "osu! play by rem470").
 
 ![Adding osu! to the scene](img/OBS_InsertOsuAsGlobalSource.jpg "Adding osu! to the scene")
 
-And done. You should now be able to click `Preview Stream` and there should be the *osu!* window in Fullscreen in the preview window. Also, if you click `Start Streaming`, you should start streaming on your Twitch channel!
+And done. You should now be able to click `Preview Stream` and there should be the osu! window in Fullscreen in the preview window. Also, if you click `Start Streaming`, you should start streaming on your Twitch channel!
 
 #### Setting up an advanced scene
 
@@ -212,7 +212,7 @@ Everything from here on is not as detailed and pictured as the basic one. It is 
 
 ##### Insert your twitch.tv chat in the Scene
 
-The basic idea here is, that if spectators are watching your stream in fullscreen, they are unable to follow the chat. So why not include it in your stream? Also, if you watch the video later and maybe have an audio commentary by yourself, you still know what you are referring to. If you are playing *osu!* in fullscreen, this method will requires you to use a 2nd monitor connected with it! If the Colour Key step does not work properly for you, try using the BetterTTV plugin and going to the gear icon in chat, and hit Black Chat. Chat must be popped out for this option to show.
+The basic idea here is, that if spectators are watching your stream in fullscreen, they are unable to follow the chat. So why not include it in your stream? Also, if you watch the video later and maybe have an audio commentary by yourself, you still know what you are referring to. If you are playing osu! in fullscreen, this method will requires you to use a 2nd monitor connected with it! If the Colour Key step does not work properly for you, try using the BetterTTV plugin and going to the gear icon in chat, and hit Black Chat. Chat must be popped out for this option to show.
 
 1.  Pop out the twitch.tv chat
 2.  `Add a Source` > `Window Capture`
@@ -252,7 +252,7 @@ One possible way is to read the Window title out of the process and cut out the 
         }
     }
 ```
-Change `YourPath` to your osu! folder, or any other location you want. Save the file as `OsuTitleToFile.ahk`. This script remaps your `F10` key to pause the script and the `F11` key to reload the script. If you are using those keys in *osu!*, you can change it as you may. Start the script by dbl click it out of the explorer. With pressing `Alt` + `S` (!s::) you start the script and it writes the actual used title every 5 seconds in the specified file. (In this version in `D:\\Games\\osu!\\actualSong.txt`) Now go to your OBS and add a text to your scene. Use this file as source. The text itself will change every time the file got changed. You can also make it a marquee and use borders to make it more visible.
+Change `YourPath` to your osu! folder, or any other location you want. Save the file as `OsuTitleToFile.ahk`. This script remaps your `F10` key to pause the script and the `F11` key to reload the script. If you are using those keys in osu!, you can change it as you may. Start the script by dbl click it out of the explorer. With pressing `Alt` + `S` (!s::) you start the script and it writes the actual used title every 5 seconds in the specified file. (In this version in `D:\\Games\\osu!\\actualSong.txt`) Now go to your OBS and add a text to your scene. Use this file as source. The text itself will change every time the file got changed. You can also make it a marquee and use borders to make it more visible.
 
 ### OBS MultiPlatform (Open Broadcaster Software MultiPlatform)
 
@@ -294,13 +294,13 @@ Next, a few settings will need to be changed.
 -   Untick `Capture any fullscreen application`
 -   Under `Window`, choose `\[osu!.exe\]`
 -   Set `Window Match Priority` to `Executable Name`
--   Tick `Multi-adapter Compatibility` (this fixes *osu!* crashing)
--   Tick `Limit capture framerate` (this fixes *osu!* running under 60fps)
+-   Tick `Multi-adapter Compatibility` (this fixes osu! crashing)
+-   Tick `Limit capture framerate` (this fixes osu! running under 60fps)
 -   Untick `Capture Cursor`
 
 ![Settings for the Game Capture source](img/OBSMP_GameCapture2.png "Settings for the Game Capture source")
 
-You should now see your *osu!* gameplay within your OBS MultiPlatform window. If you click `Start Streaming`, your stream should appear in your Twitch channel shortly. From here, you may add more sources similar to OBS, however beware that plugins may not be ported to OBS MultiPlatform yet.
+You should now see your osu! gameplay within your OBS MultiPlatform window. If you click `Start Streaming`, your stream should appear in your Twitch channel shortly. From here, you may add more sources similar to OBS, however beware that plugins may not be ported to OBS MultiPlatform yet.
 
 ![OBS MultiPlatform should look like this when you are done](img/OBSMP_Finished.png "OBS MultiPlatform should look like this when you are done")
 

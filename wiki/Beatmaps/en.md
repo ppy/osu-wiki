@@ -71,4 +71,4 @@ These beatmaps were initally [pending](#pending), but are moved to this status b
 
 All graveyarded beatmaps do not affect user statistics.
 
-For the sake of saving digital space for newer beatmaps, *osu!* will purge graveyarded beatmaps if they have been in this status for a long period of time.
+For the sake of saving digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.

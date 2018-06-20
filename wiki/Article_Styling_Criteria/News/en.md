@@ -26,7 +26,7 @@ Provide links to in-depth resources instead of referencing them directly in-text
 
 ### Audience
 
-_osu!_'s chief audience is mainly teenagers and young adults, though we are an all-ages community. Consider the attention span of said demographic - conciseness ties in very closely to this.
+osu!'s chief audience is mainly teenagers and young adults, though we are an all-ages community. Consider the attention span of said demographic - conciseness ties in very closely to this.
 
 Consider well what you write within your article and whether it would interest the community at large enough to warrant including it.
 

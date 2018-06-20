@@ -4,7 +4,7 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ## Modos de juego
 
-### osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!standard
 
 ![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
 
@@ -19,13 +19,13 @@ Referencias para un círculo de golpe
 0   ->   0 / 300 = 0   =   0.00%
 ```
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ![Precisión = 0.5(numero de GOOD + numero de GREAT) / (numero de BAD + numero de GOOD + numero de GREAT)](img/accuracy_taiko.png "Formula de precisión para osu!taiko")
 
 En osu!taiko, la precisión se calcula sumando la precisión de la nota dividida por el número de notas. La precisión de la nota son las siguientes: Un GREAT (良) cuenta como 100%, GOOD (可) como 50% (mitad), y MISS / BAD (不可) como 0% (El cual también rompe el combo). Los Drum rolls y las ruletas no influyen en la precisión.
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 ![Precisión = (número de gotitas + número de gotas + número de frutas) / (número de gotitas falladas + número de gotas falladas + número de frutas falladas + número de gotitas + número de gotas + número de frutas)](img/accuracy_catch.png "Formula de precision para osu!catch")
 
@@ -33,11 +33,11 @@ En osu!catch, la precisión se calcula tomando el total de objetos de golpe reco
 
 *Nota para los usuarios de API: Para calcular la precisión en osu!catch, el número de gotas está bajo `count50` y el número de gotas perdidas está bajo `countkatu`.*
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 ![Precisión = (50 \* número de 50s + 100 \* número de 100s + 200 \* número de 200s + 300 \* número de 300s + 300 \* número de MAXs) / 300(número de 0s + número de 50s + número de 100s + número de 200s + número de 300s + número de MAXs)](img/accuracy_mania.png "Formula de precisión para osu!mania")
 
-En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard). 
+En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard).
 
 ## Gráfico de rendimiento
 

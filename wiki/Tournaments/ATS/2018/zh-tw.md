@@ -10,7 +10,7 @@ Asian Taiko Showdown 2018
 
 > Unite the Diversity between us!
 
-**Asian Taiko Showdown 2018 _(ATS 2018)_** 是由 [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002) 舉辦，以雙敗淘汰制形式進行的單對單比賽。
+**Asian Taiko Showdown 2018 _(ATS 2018)_** 是由 ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) 舉辦，以雙敗淘汰制形式進行的單對單比賽。
 本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) ，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
 
 ## 比賽賽程表
@@ -20,12 +20,11 @@ Asian Taiko Showdown 2018
 | 報名 | 2018-04-21/2018-05-26 |
 | 分組 | 2018-05-27 (19:00 UTC +7) |
 | 小組賽 | 2018-06-02/2018-06-03 |
-| 三十二強 | 2018-06-09/2018-06-10 |
-| 十六強 | 2018-06-16/2018-06-17 |
-| 八強 | 2018-06-23/2018-07-24 |
-| 四強 | 2018-06-30/2018-07-01 |
-| 決賽 | 2018-07-07/2018-07-08 |
-| 總決賽 | 2018-07-15 |
+| 十六強 | 2018-06-09/2018-06-10 |
+| 八強 | 2018-06-16/2018-06-17 |
+| 四強 | 2018-06-23/2018-06-24 |
+| 決賽 | 2018-06-30/2018-07-01 |
+| 總決賽 | 2018-07-08 |
 
 ## 獎品
 
@@ -43,34 +42,277 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 | 職位 | 成員 |
 | ------------ | -------------- |
-| 主辦 | [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
-| 選譜 | [![][flag_ID] Lightning Wyvern](https://osu.ppy.sh/users/1533122), [![][flag_ID] Guardistack-](https://osu.ppy.sh/users/1602428), [![][flag_MY] cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| 評論 | [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_ID] Niko-nyan](https://osu.ppy.sh/users/906991), [![][flag_CA] janitoreihil](https://osu.ppy.sh/users/3307897) |
-| 直播 | [![][flag_ID] rap12](https://osu.ppy.sh/users/2300279), [![][flag_JP] SakuraFrost-](https://osu.ppy.sh/users/8147993) |
-| 美術 | [![][flag_PH] OsuMe65](https://osu.ppy.sh/users/852867), [![][flag_ID] fajar13k](https://osu.ppy.sh/users/7100002), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014) |
-| 裁判 | [![][flag_HK] -GN Junior](https://osu.ppy.sh/users/3901754), [![][flag_CL] Valelup](https://osu.ppy.sh/users/6497014), [![][flag_CL] Asagaki](https://osu.ppy.sh/users/2632902), [![][flag_PH] Pochacco](https://osu.ppy.sh/users/2927742), [![][flag_ID] Alwaysyukaz](https://osu.ppy.sh/users/4999506), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_ID] pmriva](https://osu.ppy.sh/users/2180885), [![][flag_ID] XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻譯 | [![][flag_JP] JUDYDANNY](https://osu.ppy.sh/users/1165475), [![][flag_JP] Noko_BSF](https://osu.ppy.sh/users/3811831), [![][flag_TW] Smallwu](https://osu.ppy.sh/users/2512120), [![][flag_HK] tkdLolly](https://osu.ppy.sh/users/9035344), [![][flag_KR] Konpaku Sariel](https://osu.ppy.sh/users/533502), [![][flag_KR] MetalStream](https://osu.ppy.sh/users/165027) |
-| 統計 | [![][flag_ID] Aozora-](https://osu.ppy.sh/users/6918206), [![][flag_US] JDrago14](https://osu.ppy.sh/users/7690078) |
+| 主辦 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 選譜 | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| 評論 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
+| 直播 | ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279), ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993) |
+| 美術 | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| 裁判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| 翻譯 | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
+| 統計 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## 連結
 
 - [大賽討論頁面](https://osu.ppy.sh/community/forums/topics/726251)
-- [賽事直播連結](https://www.twitch.tv/idtslive)
+- [賽事直播連結](https://www.twitch.tv/osutaikoshowdown)
 - [比賽報名表格](https://goo.gl/forms/Z40RvcISgnMKNwGf2)
 - [圖池建議表格 ](https://goo.gl/forms/3mUBHYnKsusX03jC2)
 - [比賽專用Discord](https://discord.gg/2xQDbkS)
+- [ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)
+
+-----------------------
+
+## 比賽賽程表：八強
+
+### Saturday, 16. June 2018
+
+| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| UB | Xin Leviathan | ![][flag_JP] | ![][flag_JP] | nyanmi-1828 | **08:00 UTC** | 17:00 UTC +9 | 17:00 UTC +9 |
+| LB | Jerry | ![][flag_MY] | ![][flag_AU] | Tsubasa2 | **09:00 UTC** | 17:00 UTC +8 | 19:00 UTC +10 |
+| LB | Niko-nyan | ![][flag_ID] | ![][flag_JP] | puropera209 | **09:00 UTC** | 17:00 UTC +8 | 18:00 UTC +9 |
+| UB | Smallwu | ![][flag_TW] | ![][flag_TW] | qoot8123 | **14:00 UTC** | 22:00 UTC +8 | 22:00 UTC +8 |
+
+### Sunday, 17. June 2018
+
+| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :--: | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| UB | Sanawieck | ![][flag_JP] | ![][flag_TW] | TS_LewisLuo | **06:00 UTC** | 15:00 UTC +9 | 14:00 UTC +8 |
+| LB | Dakry | ![][flag_MY] | ![][flag_MY] | ZethZ161 | **07:00 UTC** | 15:00 UTC +8 | 15:00 UTC +8 |
+| UB | butter0414 | ![][flag_JP] | ![][flag_ID] | ayomikasa | **08:00 UTC** | 17:00 UTC +9 | 15:00 UTC +7 |
+| LB | Noko_BSF | ![][flag_JP] | ![][flag_JP] | KILI3343 | **09:00 UTC** | 18:00 UTC +9 | 18:00 UTC +9 |
 
 -----------------------
 
 ## 參賽者
 
- *參賽者將在報名階段結束後被列出。*
+### 參賽者
+
+| Seed | 成員 |
+| --- | --- |
+| Top | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371), ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_TW] [TS_LewisLuo](https://osu.ppy.sh/users/4337536), ![][flag_JP] [toorun12](https://osu.ppy.sh/users/10349712) |
+| High | ![][flag_MY] [ZethZ161](https://osu.ppy.sh/users/9912966), ![][flag_KR] [L y s](https://osu.ppy.sh/users/211825), ![][flag_JP] [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957), ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) |
+| Low | ![][flag_JP] [Sanawieck](https://osu.ppy.sh/users/4125666), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092), ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845), ![][flag_MY] [Dakry](https://osu.ppy.sh/users/1994145), ![][flag_AU] [SpiritsUnite](https://osu.ppy.sh/users/1198002), ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981), ![][flag_ID] [Braixen](https://osu.ppy.sh/users/4871378), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504) |
+| Bottom | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_PH] [Micka](https://osu.ppy.sh/users/2770422), ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_VN] [Taiko_VN12](https://osu.ppy.sh/users/10072828), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_ID] [_CaKy_](https://osu.ppy.sh/users/9828983), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_ID] [Jin Kun](https://osu.ppy.sh/users/6896699), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_PH] [-Zephy-](https://osu.ppy.sh/users/6862483) |
+
+### 小組
+
+| Group | Top | High | Low | Bottom |
+| --- | --- | --- | --- | --- |
+| A | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) | ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) | ![][flag_VN] [Taiko_VN12](https://osu.ppy.sh/users/10072828) |
+| B | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) | ![][flag_MY] [Dakry](https://osu.ppy.sh/users/1994145) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| C | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_KR] [L y s](https://osu.ppy.sh/users/211825) | ![][flag_ID] [Braixen](https://osu.ppy.sh/users/4871378) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
+| D | ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) | ![][flag_MY] [ZethZ161](https://osu.ppy.sh/users/9912966) | ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504) | ![][flag_PH] [Micka](https://osu.ppy.sh/users/2770422) |
+| E | ![][flag_JP] [toorun12](https://osu.ppy.sh/users/10349712) | ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831) | ![][flag_JP] [Sanawieck](https://osu.ppy.sh/users/4125666) | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
+| F | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_AU] [SpiritsUnite](https://osu.ppy.sh/users/1198002) | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| G | ![][flag_TW] [TS_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
+| H | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
  
+-----------------------
+
+![Group Stage Participants](gs_participants.gif)
+
+-----------------------
+
+![ATS Upper Bracket](upper_bracket.png)
+
+![ATS Lower Bracket](lower_bracket.png)
+
 -----------------------
 
 ## 圖池
 
- *圖池將會在每個階段的前一週揭曉。*
+### 八強
+
+**[此處下載圖池 (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
+
+- NoMod
+  - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809/#taiko/1172641)
+  - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173/#taiko/1602516) 
+  - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157/#taiko/1104911) 
+  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581/#taiko/398568)
+  - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516/#taiko/1575117)
+- Hidden
+  - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265/#taiko/1670210) 
+  - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/519566/#taiko/1103735) 
+- HardRock
+  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/326711/#taiko/725333) 
+  - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/446239/#taiko/958486) 
+- DoubleTime
+  - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](https://osu.ppy.sh/beatmapsets/157896/#taiko/386782) 
+  - [cillia - Melt (mintong89) \[Oni\]](https://osu.ppy.sh/beatmapsets/552915/#taiko/1171884) 
+- Special
+  - [REDALiCE - Volar (yoyo) \[yoyo's Special TaiKo\]](https://osu.ppy.sh/beatmapsets/50932/#taiko/156304)
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552/#taiko/1493980)
+- FreeMod
+  - [An - Abstreact (xfraczynho) \[First Impulse\]](https://osu.ppy.sh/beatmapsets/620725/#taiko/1308564) 
+  - [sak respect for Arata Iiyoshi - Reason of being (rew0825) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/746440/#taiko/1573223)
+- Tiebreaker
+  - [Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](https://osu.ppy.sh/beatmapsets/551087/#taiko/1624252)
+
+### 十六強
+
+**[此處下載圖池 (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
+
+- NoMod
+  - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory~The Lost Memory~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898/#taiko/145660)
+  - [dors k(uro) - dreeeeam (Vulkin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/788077/#taiko/1661560) 
+  - [Haywyre - Insight (Guardistack-) \[Mini Satanic\]](https://osu.ppy.sh/beatmapsets/739890/#taiko/1561061) 
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (SE_Soul) \[SE_Soul Crazy Taiko\]](https://osu.ppy.sh/beatmapsets/88094/#taiko/240302)
+  - [The Ghost Of 3.13 - Forgotten (\[luanny_phnyx\]) \[phNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560/#taiko/168807)
+- Hidden
+  - [Umetora - Ifuudoudou (a2805146) \[Oni\]](https://osu.ppy.sh/beatmapsets/578927/#taiko/1225677) 
+  - [Ryu* Vs. L.E.D.-G - PARADISE LOST (Frank7654321) \[Taiko\]](https://osu.ppy.sh/beatmapsets/38043/#taiko/122471) 
+- HardRock
+  - [Acchi Kocchi Cast - Acchi de Kocchi de (TV Size) (kg2161012) \[KG's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49967/#taiko/164702) 
+  - [Junichi Masuda, Go Ichinose - Pokemon World Championships Final (Stefan) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/600544/#taiko/1268988) 
+- DoubleTime
+  - [MYTH & ROID - STYX HELIX (Nardoxyribonucleic) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/501705/#taiko/1160392) 
+  - [Ikimono Gakari - Netsujou no Spectrum (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/275309/#taiko/624413) 
+- Special
+  - [Skan & Krale - No Glory (feat. M.I.M.E & Drama B) (Myckoll & Ulqui) \[Myruki's Glory\]](https://osu.ppy.sh/beatmapsets/725635/#taiko/1532116)
+  - [Crash-TM - Untan Goose (Lno) \[Lno's Oni\]](https://osu.ppy.sh/beatmapsets/299271/#taiko/671751)
+- FreeMod
+  - [happy30 - As the wind blows (Short Ver.) (Skylish) \[Skylish Windlish Oni\]](https://osu.ppy.sh/beatmapsets/478670/#taiko/1229268) 
+  - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](https://osu.ppy.sh/beatmapsets/679686/#taiko/1437286)
+- Tiebreaker
+  - [IOSYS - Doutei Korose (Plua-) \[Taikorose-\]](https://osu.ppy.sh/beatmapsets/653540/#taiko/1385416)
+
+### 小組賽
+
+**[此處下載圖池 (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
+
+- NoMod
+  - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248/#taiko/148859) 
+  - [TK from Ling tosite sigure - unravel (TV edit) (Desperate-Kun) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/206887/#taiko/487679) 
+  - [ALiCE'S EMOTiON - Mami Mami Zone (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43728/#taiko/143931) 
+  - [LeaF - Aleph-0 (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/675465/#taiko/1451091)
+  - [Eluvietie - Helvetios (Grimbow & Lno) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/324146/#taiko/742526)
+- Hidden
+  - [Hommarju - Rock It (Ayyri) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/703311/#taiko/1488043) 
+  - [Anamanaguchi - Blackout City (Sushi) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/67226/#taiko/203101) 
+- HardRock
+  - [Mitsuki Nakae - Disappearing Queen (bossandy) \[Boss Taiko Oni\]](https://osu.ppy.sh/beatmapsets/29582/#taiko/132499) 
+  - [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito) \[Oni\]](https://osu.ppy.sh/beatmapsets/175036/#taiko/468992) 
+- DoubleTime
+  - [Gunther - Famous (bossandy) \[Boss Taiko Oni\]](https://osu.ppy.sh/beatmapsets/47713/#taiko/148274) 
+  - [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (wmfchris) \[Wmf's Taiko Lite\]](https://osu.ppy.sh/beatmapsets/80747/#taiko/249761) 
+- Special
+  - [Kana Nishino - Sweet Dreams (11t dnb remix) (ZethZ161) \[Goodnight\]](https://osu.ppy.sh/beatmapsets/674708/#taiko/1427538)
+  - [LiSA - Rising Hope -TV Ver.- (cdhsausageboy) \[fAlling inTo deSpair\]](https://osu.ppy.sh/beatmapsets/767870/#taiko/1627201)
+- FreeMod
+  - [96neko - Uso no Hibana (Charlotte) \[Charlotte's Oni\]](https://osu.ppy.sh/beatmapsets/767870/#taiko/1627201) 
+  - [Ranko - Ashita mo Haremasu You ni (Kurai) \[Oni\]](https://osu.ppy.sh/beatmapsets/78870/#taiko/220354)
+- Tiebreaker
+  - [KikouHana - Nobore! Susume! Takai Tou (\[R\]) \[Continue!\]](https://osu.ppy.sh/beatmapsets/548016/#taiko/1160620)
+
+### Eliminations Stage
+
+**[此處下載圖池 (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
+
+- NoMod
+  - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854/#taiko/156706) 
+  - [Comp - Touchuu Aika (Nwolf) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/198700/#taiko/473603) 
+  - [nmk - sola (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/171239/#taiko/414274) 
+- Hidden
+  - [xi - .357 Magnum \[Ex's Oni\]](https://osu.ppy.sh/beatmapsets/155749/#taiko/682957) 
+  - [Pinocchio-P - Mushroom Mother (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/88802/#taiko/241858) 
+- HardRock
+  - [Miyazaki Ayumi - brave heart (HeatKai) \[Heat's Oni\]](https://osu.ppy.sh/beatmapsets/107222/#taiko/281048) 
+  - [Alex C. feat. Yasmin K. - Angel Of Darkness (Nightcore Mix) (psj1226) \[Psj's Taiko\]](https://osu.ppy.sh/beatmapsets/16489/#taiko/69439) 
+- DoubleTime
+  - [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/43100/#taiko/137802) 
+  - [SOUND HOLIC - CANDY POWDER (toarafict) \[Toara's Oni\]](https://osu.ppy.sh/beatmapsets/172627/#taiko/459500) 
+- FreeMod
+  - [t+pazolite - Pumpin' Junkies (Nwolf) \[Nwolf's Lite Oni\]](https://osu.ppy.sh/beatmapsets/364288/#taiko/991619) 
+  - [Atoguru - Privilege (Alace) \[Pangko\]](https://osu.ppy.sh/beatmapsets/43861/#taiko/138598)
+- Tiebreaker
+  - [Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)
+
+------------------------------------------------------------------------
+
+## 比賽結果
+
+### 十六強
+
+| Group | Saturday, 2018-06-09 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| UB | Xin Leviathan ![][flag_JP] | 5 | 3 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43186328) |
+| UB | Sanawieck ![][flag_JP] | 5 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
+| UB | Jerry ![][flag_MY] | 4 | 5 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43194107) |
+
+| Group | Saturday, 2018-06-10 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| UB | Tsubasa2 ![][flag_AU] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43218564) |
+| UB | TS_LewisLuo ![][flag_TW] | 5 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43219599) |
+| UB | nyanmi-1828 ![][flag_JP] | 5 | 0 | ![][flag_MY] ZethZ161 | -Win by Default- |
+| UB | Noko_BSF ![][flag_JP] | 0 | 5 | ![][flag_JP] butter0414 | -Win by Default- |
+| UB | ayomikasa ![][flag_ID] | 5 | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43221245) |
+
+### 小組賽
+
+| Group | Saturday, 2018-06-02 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| C | nyanmi-1828 ![][flag_JP] | 4 | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
+| D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
+| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | Nullified |
+| G | ayomikasa ![][flag_ID] | 4 | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42980581) |
+| F | butter0414 ![][flag_JP] | 4 | 1 | ![][flag_ID] Niko-nyan | [#1](https://osu.ppy.sh/community/matches/42981652) |
+| H | Jmeh07 ![][flag_PH] | 4 | 3 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/42981801) |
+| H | KILI3343 ![][flag_JP] | 4 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/42983025) |
+| C | L y s ![][flag_KR] | 0 | 4 | ![][flag_AU] Tsubasa2 | -Win by Default- |
+| F | butter0414 ![][flag_JP] | 4 | 0 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42982589) |
+| E | Noko_BSF ![][flag_JP] | 4 | 2 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/42984024) |
+| F | Niko-nyan ![][flag_ID] | 4 | 1 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42983966) |
+| D | qoot8123 ![][flag_TW] | 4 | 2 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/42984090) |
+| A | Jerry ![][flag_MY] | 4 | 0 | ![][flag_KR] 404 AccNotFound | -Win by Default- |
+| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | Nullified |
+| E | toorun12 ![][flag_JP] | 1 | 4 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/42985601) |
+| F | butter0414 ![][flag_JP] | 4 | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42985633) |
+| B | Smallwu ![][flag_TW] | 4 | 0 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/42987313) |
+| C | L y s ![][flag_KR] | 0 | 4 | ![][flag_ID] Braixen | -Win by Default- |
+| F | Niko-nyan ![][flag_ID] | 4 | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42987345) |
+| G | ayomikasa ![][flag_ID] | 2 | 4 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/42989100) |
+| E | Sanawieck ![][flag_JP] | 4 | 2 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/42989256) |
+| D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_MY] CrabCow | -Win by Default- |
+| H | GlinT fraulein ![][flag_JP] | 0 | 4 | ![][flag_JP] puropera209 | -Win by Default- |
+| G | Shirai- ![][flag_ID] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42991227) |
+
+| Group | Sunday, 2018-06-03 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| B | Dakry ![][flag_MY] | 4 | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43007113) |
+| H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_PH] Jmeh07 | [#1](https://osu.ppy.sh/community/matches/43013154) |
+| C | nyanmi-1828 ![][flag_JP] | 4 | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43013166) |
+| A | Jerry ![][flag_MY] | 3 | 4 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/43014229) |
+| G | TS_LewisLuo ![][flag_TW] | 4 | 3 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/43014204) |
+| E | toorun12 ![][flag_JP] | 2 | 4 | ![][flag_JP] Noko_BSF | [#1](https://osu.ppy.sh/community/matches/43015077) |
+| C | Braixen ![][flag_ID] | 0 | 4 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43015077) |
+| A | Xin Leviathan ![][flag_JP] | 4 | 0 | ![][flag_KR] 404 AccNotFound | -Win by Default- |
+| E | Noko_BSF ![][flag_JP] | 0 | 4 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/43016212) |
+| A | 404 AccNotFound ![][flag_KR] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
+| D | ZethZ161 ![][flag_MY] | 4 | 0 | ![][flag_MY] CrabCow | -Win by Default- |
+| C | nyanmi-1828 ![][flag_JP] | 4 | 0 | ![][flag_ID] Braixen | [#1](https://osu.ppy.sh/community/matches/43017203) |
+| H | Jmeh07 ![][flag_PH] | 4 | 2 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43017361) |
+| B | yyyyyyyyyyypetu ![][flag_JP] | 4 | 1 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43017420) |
+| G | TS_LewisLuo ![][flag_TW] | 4 | 0 | ![][flag_ID] Shirai- | -Win by Default- |
+| E | toorun12 ![][flag_JP] | 3 | 4 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/43018109) |
+| A | Jerry ![][flag_MY] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
+| D | ZethZ161 ![][flag_MY] | 4 | 1 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/43018296) |
+| B | yyyyyyyyyyypetu ![][flag_JP] | 3 | 4 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43019555) |
+| B | Smallwu ![][flag_TW] | 4 | 1 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43020029) |
+| H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/43021191) |
+| F | SpiritsUnite ![][flag_AU] | 4 | 0 | ![][flag_SG] uchuuj1n | -Win by Default- |
+| A | Xin Leviathan ![][flag_JP] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
+| G | TS_LewisLuo ![][flag_TW] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/43024126) |
+
+### Eliminations
+
+| Group | Friday, 2018-06-01 |  |  |  |  | 
+| :--: | ---: | :---: | :--- | :--- | :---: |
+| EM | Beat43210 ![][flag_AU] | 3 | 0 | ![][flag_MY] Minisora | -Win by Default- |
+| EM | Bedwyr Aorta ![][flag_MY] | 3 | 0 | ![][flag_ID] Jin Kun | -Win by Default- |
+| EM | Taiko_VN12 ![][flag_VN] | 3 | 0 | ![][flag_PH] -Zephy- | -Win by Default- |
+| EM | \_CaKy\_ ![][flag_ID] | 0 | 3 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
 ------------------------------------------------------------------------
 
@@ -111,7 +353,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 房間相關設定為：osu!taiko，Head to Head，勝利條件為＂Score V2＂。房名必為＂ATS 2018: (藍方) vs (紅方)＂。
    - 房間名字中首先出現的參賽者名稱須為藍組，其次者須為紅組。
 2. 每位參賽者可以自由選擇一張熱身譜面。禁止選擇內容不雅的譜面，或是非太鼓專用之譜面。
-3. 每位參賽者各需排除 **一張譜面** ，於該場比賽期間不得作為可選譜面。
+3. 每位參賽者各需禁用 **一張譜面** ，於該場比賽期間不得作為可選譜面。
 4. 每位參賽者輪流由圖池選擇譜面。
 
 5. 每位參賽者須在 #multiplayer 使用 「!roll」指令。
@@ -126,14 +368,14 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 但決賽及總決賽使用相同的圖池
 2. 每個圖池皆由 NoMod、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers)、Special 以及 FreeMod 組成。
 3. 每個圖池皆有 16 張譜面。
-4. 每個圖池皆有 1 張 TieBreak。
+4. 每個圖池皆有 1 張 Tiebreaker。
 5. NoMod 將在不使用任何Mod的狀況下遊玩。
 6. Special 相較於NoMod更難且有更多花樣，其將在不使用任何Mod的狀況下遊玩。
 7. Hidden、HardRock 以及 DoubleTime 將在開啟它們各自的Mod的狀況下遊玩。
 8. FreeMod 可允許使用NoMod，HardRock，Hidden 或是兩者皆用的狀況下遊玩
 
-9. TieBreak 將以NoMod的狀況下遊玩。
-   - 假若平局，TieBreak將會以FreeMod再次被遊玩。
+9. TieBreaker 將以NoMod的狀況下遊玩。
+   - 假若平局，TieBreaker將會以FreeMod再次被遊玩。
 10. 圖池由以下格式組成：
    - 5 張NoMod
    - 2 張Hidden
@@ -141,11 +383,11 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 2 張DoubleTime
    - 2 張Special
    - 2 張FreeMod
-   - 1 張TieBreak
+   - 1 張Tiebreaker
 
 ### 賽程說明
 
-1. 每階段的比賽都會被安排在[b]單個週末[/b]內舉行。
+1. 每階段的比賽都會被安排在 **單個週末** 內舉行。
 
 2. 所有的雙淘汰階段都會被安排在週六或週日(UTC+7)舉行。
 3. 賽程由主辦單位安排。時間表將會在當前階段之所有比賽結束後的星期天被公布。重新安排賽程是允許的，但選手雙方皆必須同意，且必須提供證據。
@@ -166,5 +408,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VN]: /wiki/shared/flag/VN.gif

@@ -352,7 +352,7 @@ _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 - Smoke last longer than default in-game cursor trail.
   Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi][Mascots#pippi wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!_.
+- When played by [Auto][Auto wikilink], the player name will be osu!.
 
 ### History
 
