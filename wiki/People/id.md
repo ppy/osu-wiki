@@ -1,6 +1,6 @@
 # People
 
-Berikut ini adalah grup pengguna yang terdiri dari para anggota komunitas osu! yang membantu memelihara osu! Sebagian besar dari kelompok pengguna ini dapat dikenali dengan warna pada nama forum mereka, warna obrolan dalam game, judul profil, maupun lencana pada laman profil mereka.
+Berikut ini adalah grup pengguna yang terdiri dari para anggota komunitas osu! yang membantu memelihara osu! Sebagian besar dari kelompok pengguna ini dapat dikenali dengan warna pada nama forum mereka, warna obrolan dalam game, judul profil, dan/atau lencana pada laman profil mereka.
 
 
 - [The Team](/wiki/People/The_Team)

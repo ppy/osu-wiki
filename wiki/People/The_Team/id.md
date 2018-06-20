@@ -1,7 +1,7 @@
 Tim
 ==========
 
-Orang-orang yang ada di bawah adalah inti dari osu!team, dan bertanggung jawab untuk membuat game ini menjadi luar biasa bagi semua orang.
+Orang-orang yang ada di bawah adalah inti dari osu!team, dan terutama bertanggung jawab untuk membuat game ini menjadi luar biasa bagi semua orang.
 
 Pencipta
 ---------
@@ -15,17 +15,28 @@ Aktif
 
 | Nama | Deskripsi |
 | ---- | ----------- |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderasi dan penasehat komunitas |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Desain Audio & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Media, Featured Artist outreach, Sekretaris Meganekko  |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisasi dan administrasi Piala Dunia  |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemeliharaan proyek/komunitas dan menjangkau Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pimpinan Desainer, [osu!next](https://next.ppy.sh/) |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Host osu! Coffee Hour, Streaming Piala Dunia dan organisasi turnamen |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding dan penasehat adegan mapping |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Organisasi dan administrasi Piala Dunia |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding dan penasehat adegan mapping |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang osu!web |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Pembenahan umum dan penasehat moderasi |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang osu!web |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, organisasi Persekutuan Mapper |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding dan penasehat adegan mapping |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding dan penasehat adegan mapping, organisasi Persekutuan Mapper, dan Professor [osu!academy](/wiki/osu!academy) |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Orang-orang hebat yang luar biasa |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Bantuan Pengguna |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Pembenahan umum and pemeliharaan wiki |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Pembenahan umum dan asisten Featured Artist |
 | ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | Pengembangan osu!mania , Pencari Bug |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembangan pp |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Bantuan Pengguna |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pembenahan umum |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajemen [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies Langka |
 
