@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #1 Results"
-date: 2018-06-21 10:00:00 +0000
+date: 2018-06-21 16:00:00 +0000
 ---
 
 The very first osu! Mapping Olympiad has just concluded, and the results are in! Read on to find out more about our first three Mapping Olympians!
@@ -93,13 +93,11 @@ For future reference, [here is a listing of all accumulated Olympiad Points](htt
 
 I'd like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
 
-Lastly, below are all of the entries for each song for everyone to look through:
+Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 
-- [Kuba Oms - Beautiful Uncertainty (Redux)](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul)
-- [cYsmix - Escapism](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg)
-- [OISHII - HONEY SNOWFLAKES](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt)
-
-pishifat will be putting together a mapset for ranking with the top three entries for [*Beautiful Uncertainty (Redux)*](https://osu.ppy.sh/s/801774) and Monstrata will be putting together a mapset for ranking with the top three entries for [*HONEY SNOWFLAKES*](https://osu.ppy.sh/s/801776), so please show them your support!
+- Kuba Oms - Beautiful Uncertainty (Redux): [All entries](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul), [Mapset](https://osu.ppy.sh/s/801774)
+- cYsmix - Escapism: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/s/801862)
+- OISHII - HONEY SNOWFLAKES[All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/s/801776)
 
 The next Olympiad contest to look forward to will be for the osu!mania gamemode, so be on the lookout for an announcement in the coming weeks!
 
