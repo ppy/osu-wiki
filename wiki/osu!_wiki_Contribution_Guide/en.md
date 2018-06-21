@@ -10,21 +10,21 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 1. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
 
-1. [Sign in](https://github.com/login).
+2. [Sign in](https://github.com/login).
 
-1. Continue to [Forking](#forking).
+3. Continue to [Forking](#forking).
 
 ### Forking
 
 1. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
 
-1. Click `Fork`.
+2. Click `Fork`.
 
 ![](img/fork.jpg)
 
 3. Click `Fork` again to go to your fork.
 
-1. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
+4. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
 
 ![](img/forked.jpg)
 
@@ -34,7 +34,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 1. Go to your fork of the `osu-wiki` repo.
 
-1. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
+2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
 ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
@@ -46,9 +46,9 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
 
-1. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
-1. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
+5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
 ## Editing online or locally
 
@@ -67,13 +67,13 @@ At this point, you have two choices:
 
 1. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
 
-1. If you were quick enough, you may see this yellow banner.
+2. If you were quick enough, you may see this yellow banner.
 
 ![](img/github-recent.jpg)
 
 3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
 
-1. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+4. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg "No good.")
 
@@ -87,13 +87,13 @@ At this point, you have two choices:
 
 7. Click `Create pull request`.
 
-1. Enter the title in English. This should be a very brief explanation of what you changed.
+8. Enter the title in English. This should be a very brief explanation of what you changed.
 
   For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
 
 9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).
 
-1. Once you are ready, click `Create pull request`.
+10. Once you are ready, click `Create pull request`.
 
 ![](img/new-pull-request.png)
 
