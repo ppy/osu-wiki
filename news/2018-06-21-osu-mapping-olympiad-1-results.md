@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #1 Results"
-date: 2018-06-21 12:00:00 -0500
+date: 2018-06-21 10:00:00 +0000
 ---
-The judging for the first Mapping Olympiad contest has been completed and the results are in: congratulations to the first Mapping Olympians!
+
+The very first osu! Mapping Olympiad has just concluded, and the results are in! Read on to find out more about our first three Mapping Olympians!
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/63)
 
@@ -25,7 +26,7 @@ Very close behind in **second place** is [**Fallmorph**](https://osu.ppy.sh/user
 
 And rounding out the top three, **third place** belongs to [**Gaia**](https://osu.ppy.sh/users/2683648) with a total score of **157.7**! Gaia received consistently high scores from each of the judges and across all categories.
 
-[Click here for the complete results for *Beautiful Uncertainty (Redux)* including judges’ comments for each entry.](https://docs.google.com/spreadsheets/d/1Q_5ATaQR25fLneqR2uG4T_Pj-xsKb9Y6QJ7d3t8wQII/edit?usp=sharing)
+[Click here for the complete results for *Beautiful Uncertainty (Redux)* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1Q_5ATaQR25fLneqR2uG4T_Pj-xsKb9Y6QJ7d3t8wQII/edit?usp=sharing)
 
 
 ## cYsmix - Escapism
@@ -50,7 +51,7 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 
 **Third place** goes to [**fanzhen0019**](https://osu.ppy.sh/users/418699) with a total score of **177.9**! fanzhen also scored excellently in each category, falling slightly behind on creativity and technique.
 
-[Click here for the complete results for *Escapism* including judges’ comments for each entry.](https://docs.google.com/spreadsheets/d/1ZcS7sDjjJSeiHs17ZX0k9p5fouZlqVQWJ59LR363Fnc/edit?usp=sharing)
+[Click here for the complete results for *Escapism* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1ZcS7sDjjJSeiHs17ZX0k9p5fouZlqVQWJ59LR363Fnc/edit?usp=sharing)
 
 ## OISHII - HONEY SNOWFLAKES
 **Rank**|**Username**|**Entry Name**|**Musical Relevance (50)**|**Creativity (50)**|**Technique (50)**|**Impression (50)**|**Hitsounding (25)**|**Total Score**
@@ -69,25 +70,25 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 #12|ARGENTINE DREAM|Wistful Iguana|18.5|12|14.5|15|10.5|**70.5**
 #13|- Crow|Ultimate Chameleon|16.5|18.5|17.3|17|1|**70.3**
 
-**First place** for *HONEY SNOWFLAKES* goes to [**Monstrata**](https://osu.ppy.sh/users/2706438) with a total score of **190.8**! Monstrata’s entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
+**First place** for *HONEY SNOWFLAKES* goes to [**Monstrata**](https://osu.ppy.sh/users/2706438) with a total score of **190.8**! Monstrata's entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
 
 In **second place** is [**Kibbleru**](https://osu.ppy.sh/users/3193504) with a total score of **166.3**! Kibbleru scored consistently high in each category showcasing a overall skillful entry.
 
 And **third place** goes to [**Nozhomi**](https://osu.ppy.sh/users/2716981) with a total score of **157.5**! Nozhomi also scored consistently high in each category, notably ahead of the rest of the entries.
 
-[Click here for the complete results for *HONEY SNOWFLAKES* including judges’ comments for each entry.](https://docs.google.com/spreadsheets/d/1DFpLr0JEsoWqMHdKEN8ytN4uW0mYShUpe0VTp8k-08k/edit?usp=sharing)
+[Click here for the complete results for *HONEY SNOWFLAKES* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1DFpLr0JEsoWqMHdKEN8ytN4uW0mYShUpe0VTp8k-08k/edit?usp=sharing)
   
 Thank you to everybody who submitted an entry and congratulations to all of the top three finishers! Here is what they will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 
-- **First place**: 3 months of osu!supporter, 6 Olympiad Points (resulting in ‘Mapping Olympian’ badge)
+- **First place**: 3 months of osu!supporter, 6 Olympiad Points (resulting in ‘Mapping Olympian' badge)
 - **Second place**: 2 months of osu!supporter, 4 Olympiad Points
 - **Third place**: 1 month of osu!supporter, 2 Olympiad Points
 
-As a bonus for winning first place, each of the winners’ badge descriptions will include the song they placed first in!
+As a bonus for winning first place, each of the winners' badge descriptions will include the song they placed first in!
 
 For future reference, [here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated after each contest.
 
-I’d like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
+I'd like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
 
 Lastly, below are all of the entries for each song for everyone to look through:
 
