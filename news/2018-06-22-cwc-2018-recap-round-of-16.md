@@ -8,9 +8,9 @@ Two weeks of frantic fruit-catching in the osu!catch World Cup 2018 completed, a
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) here to deliver your weekly round-up on all the action from this year's edition of the osu!catch World Cup. Following on from one of the most incredible Group Stages ever seen in an osu! World Cup, last weekend's Round of 16 saw our remaining teams each jostling for position in their march to becoming this year's *osu!catch Champions*.
+Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) here to deliver your weekly round-up on all the action from this year's edition of the osu!catch World Cup. Following on from one of the most incredible Group Stages ever seen in an osu! World Cup, last weekend's Round of 16 saw our remaining teams each jostling for position in the march to becoming this year's *osu!catch Champions*.
 
-A further eight matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape. 
+Eight more matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape. 
 
 Wanting to inject a little more flair and personality into things, the first match was preceded by an osu! Coffee Hour “pre-show” where fellow commentator [Dohland](https://osu.ppy.sh/u/5220511) and myself ran down a recap of the best moments from the previous week's Group Stages, as well as most anticipated moments and predictions for each of the Round of 16 matches.
 
@@ -38,21 +38,21 @@ Another team who were left wondering “what if?” after their match were The N
 
 ![](/wiki/shared/news/2018-06-22-cwc-2018-recap-round-of-16/GERvNL_game1_720w.jpg)
 
-From this point The Netherlands confidence was shot, and, buoyed by their opening break point victory, Germany reeled off four further game wins in succession to complete the 5-0 sweep. This was some measure of revenge for Germany, who had been soundly beaten by the Dutch in last year’s Semifinals, and they played with neither fear nor mercy in a frightening display of consistency that their future opponents have surely taken notice of.
+From this point, the Netherlands confidence was shot, and, buoyed by their opening break point victory, Germany reeled off four further game wins in succession to complete the 5-0 sweep. This was some measure of revenge for Germany, who had been soundly beaten by the Dutch in last year’s Semifinals, and they played with neither fear nor mercy in a frightening display of consistency that their future opponents have surely taken notice of.
 
 The Round of 16 concluded with a clinical United States securing a comfortable 5-0 victory over Sweden. Sweden threw quite literally everything in their playbook at this contest, but it merely bounced right off the American armour. Game after game, the Swedish challenge was checked by the Americans, who played with unshakeable consistency throughout and look incredibly strong going forward.
 
 ## Upcoming Stage - Quarter Finals
 
-Whilst no further eliminations will occur until next week, our eight Losers' Bracket teams must be feeling the nerves knowing every match is now a fight for survival. On the top side of the draw, the Netherlands look to recover against an inconsistent Japan, whilst Finland seek to continue their impressive run against a struggling Mexico. On the bottom side, Poland and Sweden look to bounce back from major losses, whilst the similarly over-performing France and Norway clash in what could prove to be a gutsy battle of attrition.
+Although no further eliminations will occur until next week, our eight Losers' Bracket teams must be feeling the nerves knowing every match is now a fight for survival. On the top side of the draw, the Netherlands seek a recovery in form against an inconsistent Japan, whilst Finland seek to continue their impressive run against a struggling Mexico. On the bottom side, Poland and Sweden look to bounce back from major losses, and the similarly over-performing France and Norway clash in what could prove to be a gutsy battle of attrition.
 
-If any of the remaining Winners' Bracket teams see this as a comfort net, they will no doubt receive a harsh reality check come the weekend, as the skill level and tournament experience on display is honestly staggering to behold. Germany look to prey upon an inconsistent South Korea in the top half of the draw, joined by a strong Chilean outfit and the ever-dangerous Taiwan.
+If any of the remaining Winners' Bracket teams see this as a comfort net, they will no doubt receive a harsh reality check come the weekend, as the skill level and tournament experience on display is honestly staggering to behold. Germany will hope to prey upon an inconsistent South Korea in the top half of the draw, joined by a strong Chilean outfit and the ever-dangerous Taiwan.
 
 The bottom half once again resembles a veritable warzone, with four of 2017's top six teams staring each other down for a Semi Final spot. Indonesia first cross blades with Hong Kong in a match oozing with star power and limitless potential, but the match on everybody's must watch list will surely be China locking horns with the United States. This mega match could realistically be a preview of this year's Grand Final, given the incredibly dominant showings by these two juggernauts of the fruit catching world thus far in the tournament, so is absolutely not to be missed!
 
 ## Summary
 
-Whether you're a long time fruit-catcher or had never checked out osu!catch before this article, everyone is welcome (and encouraged!) to join us for the Quarter Finals this coming weekend. Follow [@osugame on Twitter](https://twitter.com/osugame) to keep in touch, stay updated, and know when we go live, support your favourite knockout stage team by purchasing a profile banner from the [osu!store](https://osu.ppy.sh/store/listing), and of course, head on over to the [osu!live Twitch channel](https://www.twitch.tv/osulive) to witness all the action as it unfolds.
+Whether you're a long time fruit-catcher or had never checked out osu!catch before this article, everyone is welcome (and encouraged!) to join us for the Quarter Finals this coming weekend. Follow [@osugame on Twitter](https://twitter.com/osugame) to keep in touch, stay updated, and know when we go live! Support your favourite knockout stage team by purchasing a profile banner from the [osu!store](https://osu.ppy.sh/store/listing). Last but not least, don't forget to head on over to the [osu!live Twitch channel](https://www.twitch.tv/osulive) to witness all the action as it unfolds.
 
 That’s all from me for another week - next week's article might have a slightly different flavour as I will be jetting off to holiday, but you can count on it being just as juicy and action-packed as ever! See you next time!
 
