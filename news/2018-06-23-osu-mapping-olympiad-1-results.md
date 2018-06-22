@@ -4,7 +4,7 @@ title: "osu! Mapping Olympiad #1 Results"
 date: 2018-06-23 16:00:00 +0000
 ---
 
-The very first osu! Mapping Olympiad has just concluded, and the results are in! Read on to find out more about our first three Mapping Olympians!
+The very first osu! Mapping Olympiad has just concluded, and the results are in! See who emerged on top amongst the mappers who competed on three exciting songs by Kuba Oms, cYsmix and OISHII!
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/63)
 
@@ -90,7 +90,7 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 For future reference, [here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated after each contest.
 
-I'd like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
+We'd like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
 
 Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 
@@ -98,6 +98,6 @@ Lastly, below are all of the entries for each song for everyone to look through.
 - *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/s/801862)
 - *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/s/801776)
 
-The next Olympiad contest to look forward to will be for the osu!mania gamemode, so be on the lookout for an announcement in the coming weeks!
+The next Olympiad contest to look forward to will be for the osu!mania game mode, so be on the lookout for an announcement in the coming weeks!
 
 —Chaos, Irreversible, Voli
