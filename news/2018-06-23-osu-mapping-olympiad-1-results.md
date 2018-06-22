@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #1 Results"
-date: 2018-06-21 16:00:00 +0000
+date: 2018-06-23 16:00:00 +0000
 ---
 
 The very first osu! Mapping Olympiad has just concluded, and the results are in! Read on to find out more about our first three Mapping Olympians!
