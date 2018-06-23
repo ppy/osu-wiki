@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <!-- wiki -->
 [FAQ wikilink]: /wiki/FAQ/ "FAQ"
 [osu! wikilink]: ./osu!/ "osu!"
