@@ -1,6 +1,6 @@
 # Game Modes
 
-*For a general explanation of the game modes, see [FAQ](/wiki/FAQ/)*
+*For a general explanation of the game modes, see: [FAQ](/wiki/FAQ/)*
 
 - ![osu! icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard): Based on [*Osu! Tatakae! Ouendan* (Wikipedia)](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan). Tap, slide, and spin to the beat.
 - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko): Based on [*Taiko no Tatsujin* (Wikipedia)](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Drum, and roll the taiko drumroll to the beat.
