@@ -55,6 +55,13 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
   + Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 + After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
+Quality Assurance Helpers
+-------------------------
+
+The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who assist the Quality Assurance Team at checking every single qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/p/5075934) thread. 
+
+Quality Assurance Helpers are free to choose whatever maps they like to check as long as they check at least four qualified maps per month. If they are not able to fulfill these activity standards, they will be removed and can only rejoin after a cooldown of one month. Beatmap Nominators who are not on their probationary period or in the cooldown period mentioned above may join the Quality Assurance Helpers at any time. 
+
 Team Members
 ------------
 
@@ -75,7 +82,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [celerih](https://osu.ppy.sh/users/4696296)           | French                   |
 | [Cerulean Veyron](https://osu.ppy.sh/users/1886524)   | Arabic                   |
 | [Delis](https://osu.ppy.sh/users/1603923)             | Japanese                 |
-| [Deramok](https://osu.ppy.sh/users/1428455)           |                          |
 | [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
@@ -85,7 +91,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
 | [Halfslashed](https://osu.ppy.sh/users/4598899)       |                          |
 | [Hobbes2](https://osu.ppy.sh/users/8157492)           |                          |
-| [hypercyte](https://osu.ppy.sh/users/9155377)         | Bangla, some Arabic      |
 | [iYiyo](https://osu.ppy.sh/users/3919785)             | Spanish, some German     |
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
 | [Kagetsu](https://osu.ppy.sh/users/6203841)           | Spanish                  |
@@ -93,7 +98,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Karen](https://osu.ppy.sh/users/3143784)             | Chinese                  |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
 | [Kuron-kun](https://osu.ppy.sh/users/2697284)         | Portuguese               |
-| [kwk](https://osu.ppy.sh/users/365586)                |                          |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
@@ -115,7 +119,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese, some French     |
 | [sahuang](https://osu.ppy.sh/users/5318910)           | Chinese                  |
 | [Sieg](https://osu.ppy.sh/users/1404615)              | Russian                  |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            | Some French              |
 | [smallboat](https://osu.ppy.sh/users/243049)          | Chinese                  |
 | [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
 | [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |

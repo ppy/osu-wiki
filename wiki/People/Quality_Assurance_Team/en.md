@@ -4,7 +4,7 @@
 Quality Assurance Team
 ======================
 
-The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](https://osu.ppy.sh/community/forums/topics/764134), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
+The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/#quality-assurance-helpers), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
 
 In addition to assuring the basic expectation of quality, the QAT also manage the [Beatmap Nominators](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators) and ensure the enforcement of various rulesets surrounding the ranking process, for example the [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct), [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and [Beatmap Nominator Rules](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Rules). This requires them to be regularly involved in assessing beatmap quality and overseeing the activity of the Beatmap Nominators.
 
