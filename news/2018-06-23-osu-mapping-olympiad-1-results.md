@@ -8,7 +8,7 @@ The very first osu! Mapping Olympiad has just concluded, and the results are in!
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/63)
 
-For the inaugural Olympiad contest, we tasked mappers with choosing one of three songs to create a single difficulty showcasing their mapping prowess. There were 31 entries in total across the three songs and the results are below:
+For the inaugural Olympiad contest, we tasked mappers with choosing one of three songs to create a single difficulty showcasing their mapping prowess. There were 31 entries in total across the three songs, and the results are below:
 
 ## Kuba Oms - Beautiful Uncertainty (Redux)
 
@@ -74,7 +74,7 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 
 **First place** for *HONEY SNOWFLAKES* goes to [**Monstrata**](https://osu.ppy.sh/users/2706438) with a total score of **190.8**! Monstrata's entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
 
-In **second place** is [**Kibbleru**](https://osu.ppy.sh/users/3193504) with a total score of **166.3**! Kibbleru scored consistently high in each category showcasing a overall skillful entry.
+In **second place** is [**Kibbleru**](https://osu.ppy.sh/users/3193504) with a total score of **166.3**! Kibbleru scored consistently high in each category showcasing an overall skillful entry.
 
 And **third place** goes to [**Nozhomi**](https://osu.ppy.sh/users/2716981) with a total score of **157.5**! Nozhomi also scored consistently high in each category, notably ahead of the rest of the entries.
 
@@ -98,6 +98,6 @@ Lastly, below are all of the entries for each song for everyone to look through.
 - *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/s/801862)
 - *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/s/801776)
 
-The next Olympiad contest to look forward to will be for the osu!mania game mode, so be on the lookout for an announcement in the coming weeks!
+Judging for the osu!taiko contest is about to be underway, and the next contest to look forward to will be for osu!mania. Be on the lookout for an announcement in the coming weeks!
 
 —Chaos, Irreversible, Voli
