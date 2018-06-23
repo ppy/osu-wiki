@@ -4,11 +4,11 @@
 Quality Assurance Team
 ======================
 
-The **Quality Assurance Team**, commonly referred to as QAT, are the judges of quality control who will check recently qualified beatmaps for quality and playability, retracting their qualified status as a disqualification notice where appropriate. They form the bulwark of standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process.
+The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](https://osu.ppy.sh/community/forums/topics/764134), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
 
-QAT members will be held to strict activity standards as their role requires them to be regularly involved in assessing beatmap quality.
+In addition to assuring the basic expectation of quality, the QAT also manage the [Beatmap Nominators](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators) and ensure the enforcement of various rulesets surrounding the ranking process, for example the [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct), [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and [Beatmap Nominator Rules](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Rules). This requires them to be regularly involved in assessing beatmap quality and overseeing the activity of the Beatmap Nominators.
 
-Members of this team will be promoted from [BNs](/wiki/People/Beatmap_Nominators/), should they accept the new role offered. Members of QAT have a red name on the in-game chat and on the forums, whereas BNs only have a purple name on the forums.
+Members of this team are generally promoted from well-behaved, active and willing members of the Quality Assurance Helpers, whom are also deemed to work well with the team. Members of the QAT have a red name in the game's chat and on the forums, whereas BNs have a purple name only on the forums.
 
 Team Members
 ------------
@@ -19,16 +19,12 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Aloda](https://osu.ppy.sh/users/1190127)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                         |
-| [Asherz007](https://osu.ppy.sh/users/9014047)         | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
 | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese      |
 | [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German         |
-| [Doyak](https://osu.ppy.sh/users/2046893)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Korean                  |
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
 | [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
 | [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
-| [Kurai](https://osu.ppy.sh/users/77089)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | French                  |
-| [Kurokami](https://osu.ppy.sh/users/260933)           | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Hungarian               |
 | [Lanturn](https://osu.ppy.sh/users/1446665)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Mao](https://osu.ppy.sh/users/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
