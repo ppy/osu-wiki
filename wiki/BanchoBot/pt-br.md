@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BanchoBot
 
 ![Aba do BanchoBot](BanchoBot.jpg "aba do BanchoBot")

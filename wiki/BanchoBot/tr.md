@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BanchoBot
 
 ![BanchoBot'un oyuncu kartı](BanchoBot.jpg "BanchoBot's player card")

@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BanchoBot
 
 ![BanchoBot 玩家信息](BanchoBot.jpg "BanchoBot 玩家信息")

@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BanchoBot
 
 ![BanchoBots Benutzerpanel.](BanchoBot.jpg "BanchoBots Benutzerpanel.")

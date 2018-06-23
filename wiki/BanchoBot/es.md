@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <!-- Información del BanchoBot -->
 # BanchoBot
 
