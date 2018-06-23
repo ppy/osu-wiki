@@ -7,6 +7,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ----- | ------- |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Moderador del Chat |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | GMT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
 | [Agnes](https://osu.ppy.sh/u/136982) | GMT |
@@ -17,6 +18,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Andrea](https://osu.ppy.sh/u/33599) | GMT |
 | [Armin](https://osu.ppy.sh/u/105902)	| BAT |
 | [Asphyxia](https://osu.ppy.sh/u/1715720) | QAT |
+| [Atrue](https://osu.ppy.sh/u/1758523) | GMT |
 | [awp](https://osu.ppy.sh/u/2650) | GMT |
 | [Azure_Kite](https://osu.ppy.sh/u/66296) | MAT |
 | [Bakari](https://osu.ppy.sh/u/597957) | GMT |
@@ -41,7 +43,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | QAT |
 | [Dakeyrus](https://osu.ppy.sh/u/10441) | GMT |
 | [Dangaard](https://osu.ppy.sh/u/19488) | BAT |
-| [Darksonic](https://osu.ppy.sh/u/570042) | GMT |
 | [DawnII](https://osu.ppy.sh/u/8399) | BAT |
 | [deepsea](https://osu.ppy.sh/u/7824) | BAT |
 | [Derekku](https://osu.ppy.sh/u/91341) | Administración |
@@ -57,11 +58,13 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Duoprism](https://osu.ppy.sh/u/7186) | BAT |
 | [Echo](https://osu.ppy.sh/u/431) | Desarrollador de osu! |
 | [EiJi](https://osu.ppy.sh/u/2024) | BAT |
+| [Elfin](https://osu.ppy.sh/u/1399551) | GMT |
 | [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | GMT |
 | [ethox](https://osu.ppy.sh/u/441380) | Moderador del Chat |
 | [ExPew](https://osu.ppy.sh/u/665612) | QAT |
 | [Extor](https://osu.ppy.sh/u/555) | BAT |
 | [eyup](https://osu.ppy.sh/u/88) | BAT |
+| [Ezoda](https://osu.ppy.sh/u/1231180) | Equipo de Soporte |
 | [Faust](https://osu.ppy.sh/u/65152) | BAT |
 | [foulcoon](https://osu.ppy.sh/u/19883) | BAT |
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
@@ -89,6 +92,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [jonathanlfj](https://osu.ppy.sh/u/270377) | BAT |
 | [Kai](https://osu.ppy.sh/u/4537) | BAT |
 | [kanpakyin](https://osu.ppy.sh/u/394326) | QAT |
+| [karterfreak](https://osu.ppy.sh/u/1031958) | GMT y Creación de osu!media |
 | [Kawayi Rika](https://osu.ppy.sh/u/596298) | BAT |
 | [Kenezz](https://osu.ppy.sh/u/167050) | BAT |
 | [Kharl](https://osu.ppy.sh/u/452) | BAT |
@@ -130,7 +134,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [mrtn](https://osu.ppy.sh/u/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/u/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/u/930165) | Moderador del Chat |
-| [n0ah](https://osu.ppy.sh/u/3086393) | GMT |
 | [narakucrimson](https://osu.ppy.sh/u/287468) | BAT |
 | [NatsumeRin](https://osu.ppy.sh/u/151679) | BAT |
 | [nekodex](https://osu.ppy.sh/u/102) | BAT |
@@ -145,6 +148,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210) | GMT |
 | [Pasonia](https://osu.ppy.sh/u/43345) | BAT |
 | [Pereira006](https://osu.ppy.sh/u/537344) | GMT |
+| [Pittigbaasje](https://osu.ppy.sh/u/2167433) | GMT |
 | [Pokie](https://osu.ppy.sh/u/207340) | BAT |
 | [popner](https://osu.ppy.sh/u/759860) | BAT |
 | [Princess](https://osu.ppy.sh/u/3480) | BAT |
@@ -160,12 +164,12 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Saturos](https://osu.ppy.sh/u/3781) | BAT |
 | [Seibei4211](https://osu.ppy.sh/u/31537) | BAT |
 | [senaya](https://osu.ppy.sh/u/304103) | Moderador del Chat |
+| [shARPII](https://osu.ppy.sh/u/776257) | GMT |
 | [Shinde](https://osu.ppy.sh/u/103282) | MAT |
 | [Shinxyn](https://osu.ppy.sh/u/13996) | BAT |
 | [Sinistro](https://osu.ppy.sh/u/5530) | GMT |
 | [Shockwave](https://osu.ppy.sh/u/251631) | GMT |
 | [Skyripper](https://osu.ppy.sh/u/31803) | GMT |
-| [spboxer3](https://osu.ppy.sh/u/197974) | GMT |
 | [Spectator](https://osu.ppy.sh/u/702598) | GMT |
 | [Starrodkirby86](https://osu.ppy.sh/u/410) | BAT |
 | [Starry-](https://osu.ppy.sh/u/2166199) | QAT |
@@ -184,6 +188,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [TKS](https://osu.ppy.sh/u/940878) | BAT |
 | [tsububu](https://osu.ppy.sh/u/61) | BAT |
 | [UnderminE](https://osu.ppy.sh/u/444223) | Moderador del Chat |
+| [Uni](https://osu.ppy.sh/u/617106) | GMT |
 | [vytalibus](https://osu.ppy.sh/u/10028) | BAT |
 | [Where](https://osu.ppy.sh/u/549172) | GMT |
 | [whymeman](https://osu.ppy.sh/u/51994) | GMT |
