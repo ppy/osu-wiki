@@ -2,7 +2,7 @@
 
 ![BanchoBot's user card](BanchoBot.jpg "BanchoBot's user card")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [bancho IRC](/wiki/Internet_Relay_Chat). BanchoBot also has its own [user profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
+BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
 
 ## BanchoBot Commands
 
@@ -24,7 +24,7 @@ You can also use the `/bb` in-game client command to automatically open a Bancho
 
 Help shows the list of available commands.
 
-#### Usage Examples
+#### Usage Example
 
 *Notice: The `user` parameter for the `REPORT` command is missing.*
 
@@ -35,9 +35,9 @@ BanchoBot: SEARCH <query>|next|prev
 BanchoBot: WHERE <user>
 BanchoBot: STATS <user>
 BanchoBot: FAQ <item>|list
-BanchoBot: REPORT <reason> - call an admin
+BanchoBot: REPORT <reason> - call for an admin
 BanchoBot: REQUEST [list] - shows a random recent mod request
-BanchoBot: ROLL <number> - roll a dice to get a random result from 1 to number(default 100)
+BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
 ### ROLL
@@ -130,7 +130,7 @@ Tama: 谢谢
 
 Sends a report to the [GMT](/wiki/GMT) (Global Moderation Team) or [Language Moderators](/wiki/Language_Moderators).
 
-#### Usage Examples
+#### Usage Example
 
 ```
 pippi: !report flyte spamming in #japanese
@@ -146,7 +146,7 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 
 Get links to beatmaps that are requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
 
-#### Usage Examples
+#### Usage Example
 
 ```
 pippi: !request
