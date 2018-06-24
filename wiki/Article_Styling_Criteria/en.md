@@ -147,7 +147,7 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 
 ##### HTML entities
 
-*For more information about HTML entities, see: [Entity - Glossary (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Entity)*
+*For more information about HTML entities, see: [Entity - Glossary](https://developer.mozilla.org/en-US/docs/Glossary/Entity "MDN")*
 
 HTML character entites should almost never be used. If used however, prefer the character over the entity. For example:
 
@@ -515,10 +515,12 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 Prefer the `https` protocol and **never use protocol relative links (e.g. `//example.com`).** External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
 
-There are no visual differences between external and osu! web links. Due to this, you may want to include the website name after the title in the link text. For example:
+<!-- TPGPL suggests to put external site names in title text. in:osu-wiki during:2018-06-24 from:TPGPL#9098 hover -->
+
+There are no visual differences between external and osu! web links. Due to this, you may want to include the website name in the title text. For example:
 
 ```md
-*For more information about music theory, see [Music theory (Wikipedia)](https://en.wikipedia.org/wiki/Music_theory)*
+*For more information about music theory, see [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
 ```
 
 ### Images
@@ -636,7 +638,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 #### Flag icons
 
-*For a list of flag icons, see: [issue \#328 (GitHub)](https://github.com/ppy/osu-wiki/issues/328)*
+*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
 
 All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
 
@@ -644,7 +646,7 @@ All of the flag icons use the two letter code (in all capital letters) and ends 
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-`xx` is the [ISO 3166-2 (Wikipedia)](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+`xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
 
 Adding the full country names in the alt text is optional.
 
