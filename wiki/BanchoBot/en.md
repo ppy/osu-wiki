@@ -2,7 +2,7 @@
 
 ![BanchoBot's user card](BanchoBot.jpg "BanchoBot's user card")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by [Echo49](/users/431) that assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) and has a [user profile](/users/3). BanchoBot also has its own [Twitter profile](https://twitter.com/banchoboat)!
+BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) and has a [user profile](/users/3). BanchoBot also has its own [Twitter profile](https://twitter.com/banchoboat)!
 
 ## BanchoBot Commands
 
