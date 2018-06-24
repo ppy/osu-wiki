@@ -22,7 +22,7 @@ Images in the osu! wiki are cached for up to two hours before they are fetched a
 
 ### Locales
 
-Listed below are the properly-supported locales for the osu! wiki.
+Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then by `.md`.
 
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
