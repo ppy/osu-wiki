@@ -65,7 +65,9 @@ Displays the entered user's stats. The resulting stats depends on the mode they 
 
 *Note: BanchoBot will not tell you which game mode the stats came from.*
 
-#### Usage Example
+*Notice: BanchoBot will respond with `User not found` if the user has never played a game, even if the user does exist.*
+
+#### Usage Examples
 
 ```
 pippi: !stats peppy
@@ -73,6 +75,14 @@ BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
 BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
+```
+
+```
+pippi: !stats Ephemeral:
+BanchoBot: Stats for Ephemeral is Playing:
+BanchoBot: Store: 2,384,155,536 (#33697)
+BanchoBot: Plays: 14054 (lv96)
+BanchoBot: Accuracy: 94.19%
 ```
 
 ### WHERE
