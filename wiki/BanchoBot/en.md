@@ -2,13 +2,15 @@
 
 ![BanchoBot's user card](BanchoBot.jpg "BanchoBot's user card")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by [Echo49](/users/431) that assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) and has a [user profile](/users/3). BanchoBot also has its own [twitter profile](https://twitter.com/banchoboat)!
+BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by [Echo49](/users/431) that assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) and has a [user profile](/users/3). BanchoBot also has its own [Twitter profile](https://twitter.com/banchoboat)!
 
 ## BanchoBot Commands
 
-*For a list of client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
+*For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-To use BanchoBot commands, you must use the `!` prefix everytime. **Normal users can only use these commands in multiplayer channels and in BanchoBot PM.** If a user send a command in public chat, normal users won't see it and they get it as a private message. Users can also use `/bb <command>` client command to automatically open a BanchoBot tab and sending the command immediately.
+BanchoBot commands start with `!` immediately followed by the command. These commands work in-game and in external IRC clients and can be used in multiplayer chat channels and in BanchoBot's PM (private message). If a normal user sends a BanchoBot command in a public chat channel, other players will not see it, but the response will be displayed in a private message from BanchoBot.
+
+You can also use the `/bb` in-game client command to automatically open a BanchoBot tab and send the command immediately.
 
 *Notice: The `SEARCH` command is not included as it is not working.*
 
@@ -17,14 +19,14 @@ To use BanchoBot commands, you must use the `!` prefix everytime. **Normal users
 ### HELP
 
 ```
-HELP
+!HELP
 ```
 
 Help shows the list of available commands.
 
 #### Usage Examples
 
-*Notice: The `user` parameter for the REPORT command is missing.*
+*Notice: The `user` parameter for the `REPORT` command is missing.*
 
 ```
 pippi: !help
@@ -41,7 +43,7 @@ BanchoBot: ROLL <number> - roll a dice to get a random result from 1 to number(d
 ### ROLL
 
 ```
-ROLL <number>
+!ROLL <number>
 ```
 
 Get a random number from 1 to the selected number (default is 100).
@@ -56,10 +58,12 @@ BanchoBot: pippi rolls 109 point(s)
 ### STATS
 
 ```
-STATS <user>
+!STATS <user>
 ```
 
 Displays the entered user's stats. The resulting stats depends on the mode they are playing or last played.
+
+*Note: BanchoBot will not tell you which game mode the stats came from.*
 
 #### Usage Example
 
@@ -74,28 +78,30 @@ BanchoBot: Accuracy: 87.29%
 ### WHERE
 
 ```
-WHERE <user>
+!WHERE <user>
 ```
 
-Displays the entered user's current location. This only shows their country.
+Displays the entered user's current location.
+
+*Note: This only shows the user's country.*
 
 #### Usage Example
 
 ```
-pippi: !where peppy
-BanchoBot: peppy is in Japan
+pippi: !where Ephemeral
+BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
 ```
-FAQ <entry>
-FAQ list
+!FAQ <entry>
+!FAQ list
 ```
 
-Displays the message of the entry. You can use the `list` argument to show all available entries.
+Displays the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted though BanchoBot's PM.
 
-#### Usage Example
+#### Usage Examples
 
 ```
 pippi: !faq peppy
@@ -109,23 +115,25 @@ BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handl
 *Note: You can also use the user card to report a player.*
 
 ```
-REPORT <user> <reason>
+!REPORT <user> <reason>
 ```
 
-Sends a report to the [GMT](/wiki/GMT) (Global Moderation Team) or [Language Moderators](/wiki/Language_Moderators). When entering a username, replace spaces with underscores (`_`).
+*Notice: When entering the username, replace spaces with underscores (`_`).*
+
+Sends a report to the [GMT](/wiki/GMT) (Global Moderation Team) or [Language Moderators](/wiki/Language_Moderators).
 
 #### Usage Examples
 
 ```
-pippi: !report peppy spamming in #japanese
+pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
 
 ### REQUEST
 
 ```
-REQUEST
-REQUEST list
+!REQUEST
+!REQUEST list
 ```
 
 Get links to beatmaps that are requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
