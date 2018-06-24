@@ -22,7 +22,7 @@ Images in the osu! wiki are cached for up to two hours before they are fetched a
 
 ### Locales
 
-Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then by `.md`.
+Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then `.md`.
 
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
@@ -133,7 +133,7 @@ All folders should contain an article of some kind. If it seems impractical to c
 
 ## Markdown
 
-All wiki articles must adhere to the following rules.
+All osu! wiki articles must adhere to the following rules.
 
 ### GitHub Flavored Markdown
 
@@ -163,7 +163,7 @@ Do:     all this with more transparency™ than ever before!
 
 #### Escaping
 
-*Note: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
+*Notice: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
 
 Any Markdown syntax that is not used to format text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
 
@@ -305,6 +305,8 @@ Limit to a heading level of 5 and never use headings to style or format text. Pr
 Optionally, add an extra line before and after the heading to help make the heading stand out while editing.
 
 #### Titles
+
+*Notice: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
 
 All articles must have one level 1 heading, being the article's title. Article titles must use title case and never contain formatting, links, nor images. The title of an article is the name of the folder that the article is located in.
 
@@ -457,13 +459,13 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 ##### User profiles
 
-All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent. However, if it is impossible or is hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
+All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent. However, if it is impossible or hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
 
-When linking to a user profile, you must use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+When linking to a user profile, you must use the user's id number instead of their username. Usernames can be changed while user ids are bound to the user. Thus, this will ensure that the link still targets to the same user even after they have changed their username.
 
 ```md
 Do not:
-[osuplayer111](https://osu.ppy.sh/users/osuplayer111)
+[osuplayer111](https://osu.ppy.sh/users/osuplayer111 "Andrea")
 [Agent Spin Here](/users/Agent%20Spin%20Here)
 [peppy](/users/peppy)
 
@@ -477,15 +479,14 @@ Do (preferred):
 [peppy](/users/2)
 ```
 
-Whenever possible, with exception, use the current user's name rather than their previous name(s).
+Whenever possible, with exception, use the current user's name instead of their previous name(s).
 
 ---
 
 To get a user's id:
 
-1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
-1. Press `Enter`
-1. Once the page loads, the website will convert the username to an id
+1. Open a web browser and in the address bar, go to `https://osu.ppy.sh/users/` followed by the username.
+1. Once the page loads, the website will convert the username to an id.
 
 ##### Beatmaps
 
@@ -513,14 +514,16 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 *Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-Prefer the `https` protocol and **never use protocol relative links (e.g. `//example.com`).** External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
+<!-- ppy ruled no relative protocol links. in:#osu-wiki during:2017-02-11 from:ppy#0001 https -->
+
+Prefer the `https` protocol and never use protocol relative links (e.g. `//example.com`). External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
 
 <!-- TPGPL suggests to put external site names in title text. in:osu-wiki during:2018-06-24 from:TPGPL#9098 hover -->
 
 There are no visual differences between external and osu! web links. Due to this, you may want to include the website name in the title text. For example:
 
 ```md
-*For more information about music theory, see [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
 ```
 
 ### Images
@@ -738,7 +741,7 @@ Other brandings that are not covered by the osu! official branding must use spac
 
 ---
 
-<!-- Ephemeral ruled to use a full stop. during:2018-05-30 from:ephemeralis#0001 in:osu-wiki -->
+<!-- Ephemeral ruled to use a full stop. in:osu-wiki during:2018-05-30 from:ephemeralis#0001 stop -->
 
 Try to avoid letting the word `osu!` end the sentence. If you are unable to rewrite it, then use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`). For example:
 
@@ -968,7 +971,7 @@ The game modes of osu!: osu!standard, osu!taiko, osu!catch, and osu!mania are fu
 
 ### Contractions
 
-<!-- Shiro ruled that contractions are not allowed. from:Anshee#1584 during:2018-05-28 in:osu-wiki -->
+<!-- Shiro ruled that contractions are not allowed. in:osu-wiki from:Anshee#1584 during:2018-05-28 contractions -->
 
 Contractions are a shortened form of a word or group of words. In the osu! wiki, contractions are not allowed. For example, use:
 
