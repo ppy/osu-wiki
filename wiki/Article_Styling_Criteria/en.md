@@ -65,7 +65,7 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 Never delete translated articles, regardless if the content is outdated or is malformed. Instead, use the `outdated` mark. The markup for this is as follows:
 
-```
+```md
 ---
 outdated: true
 ---
@@ -77,7 +77,7 @@ outdated: true
 
 Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup is as follows:
 
-```
+```md
 ---
 tags:
 - single
@@ -92,7 +92,7 @@ tags:
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
-```
+```md
 ---
 outdated: true
 tags:
@@ -167,7 +167,7 @@ Do:     all this with more transparency™ than ever before!
 
 Any Markdown syntax that is not used to format text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
 
-```
+```md
 The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
 ```
 
@@ -222,7 +222,7 @@ Hatnotes are short notes placed at the top of an article or underneath a section
 
 Main page hatnotes directs a reader to an article with more information. They must start with the words `Main page` followed by a colon (`:`). For example:
 
-```
+```md
 ## Modding
 
 *Main page: [Modding](/wiki/Modding)*
@@ -234,7 +234,7 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 See also hatnotes are used to suggest a reader other points of interest from a given article. They must start with the words `See also` followed by a colon (`:`). For example:
 
-```
+```md
 ## Beatmapping
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
@@ -246,7 +246,7 @@ Beatmapping is the process of a creator creating a beatmap. This process include
 
 For see hatnotes are similar to see also, but may help reduce ambiguation and are generally more descriptive. They must start with the word `For` followed by the description, a comma, `see`, then a colon (`:`). For example:
 
-```
+```md
 # Installation
 
 *For the Linux installation, see: [Installation/Linux](/wiki/Installation/Linux)*
@@ -256,7 +256,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 
 A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but must be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice. For example:
 
-```
+```md
 *Note: pippi is spelt with a lower case "p", like peppy.*
 
 *Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
@@ -272,7 +272,7 @@ A notice can be placed where appropriate in a section, but must start off the pa
 
 For notices that target specific readers, include the word `to` after "Note", "Notice", "Caution", or "Warning" then follow it with a brief description of the target readers. For example:
 
-```
+```md
 *Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
 ```
 
@@ -282,7 +282,7 @@ For notices that target specific readers, include the word `to` after "Note", "N
 
 When trying to emphasise words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasise. For example:
 
-```
+```md
 Do not:
 You are NOT allowed to post R-18 skins on the osu! forums.
 
@@ -330,7 +330,7 @@ Use bulleted lists when the order of the list does not matter. It is preferred t
 
 Use numbered lists when the order of the list does matter. Do not increment the numbers. For example:
 
-```
+```md
 Game modes of osu! (in order of implementation):
 
 1. osu!standard
@@ -357,7 +357,7 @@ Due to styling issues with the website, when writing the space character, use ``
 
 When copying the text from a menu or button, copy the letter casing as is. For example:
 
-```
+```md
 The `osu!direct` button is visible in the main menu on the right side if you have osu!supporter tag.
 ```
 
@@ -365,7 +365,7 @@ The `osu!direct` button is visible in the main menu on the right side if you hav
 
 When copying the name of a folder or directory, copy the letter casing as is. Try to not use absolute paths starting from the drive letter (or root directory) to avoid displaying usernames. For example:
 
-```
+```md
 osu! is installed in the `AppData/Local` folder by default, unless you specify otherwise during installation.
 ```
 
@@ -373,7 +373,7 @@ osu! is installed in the `AppData/Local` folder by default, unless you specify o
 
 When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable). For example:
 
-```
+```md
 As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
 ```
 
@@ -381,7 +381,7 @@ As of now, the `Name` and `Author` commands in the skin configuration file (`ski
 
 When copying the name of a file, copy the letter casing as is.
 
-```
+```md
 To play osu!, double click the `osu!.exe` icon.
 ```
 
@@ -389,7 +389,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 When writing a file extension, prefix the extension with a fullstop (`.`), followed by the file extension in lowercase letters. However, if talking about the file format (not the file extension), the file format must be in all capital letters without the prefixed fullstop (`.`). For example:
 
-```
+```md
 The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 ```
 
@@ -397,7 +397,7 @@ The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 
 When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters. For example:
 
-```
+```md
 `#lobby` is where you can advertise your multi room.
 ```
 
@@ -419,7 +419,7 @@ Never use the word `here` as the link text. Instead, take the title of the page 
 
 Never use raw links for linking or have the link text be the URL. For example:
 
-```
+```md
 Do not: https://osu.ppy.sh/home
 Do not: <https://osu.ppy.sh/home>
 Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
@@ -435,17 +435,17 @@ Internal links are the links linking within the website.
 
 All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. For example:
 
-```
+```md
 [Welcome](/wiki/Welcome)
 ```
 
 You could use a redirect to shorten a link a bit further. For example:
 
-```
+```md
 [BN](/wiki/BN)
 ```
 
-##### Other osu! webpages
+##### Other osu! web pages
 
 You can use the URL from the address bar of your browser and, optionally, omit the first part of the URL `https://osu.ppy.sh`. For example:
 
@@ -461,7 +461,7 @@ All usernames must be linked on first occurrence. Other occurrences are optional
 
 When linking to a user profile, you must use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
-```
+```md
 Do not:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111)
 [Agent Spin Here](/users/Agent%20Spin%20Here)
@@ -517,7 +517,7 @@ Prefer the `https` protocol and **never use protocol relative links (e.g. `//exa
 
 There are no visual differences between external and osu! web links. Due to this, you may want to include the website name after the title in the link text. For example:
 
-```
+```md
 *For more information about music theory, see [Music theory (Wikipedia)](https://en.wikipedia.org/wiki/Music_theory)*
 ```
 
@@ -549,7 +549,7 @@ Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) i
 
 Images on the osu! wiki behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. For example:
 
-```
+```md
 Installing osu! is easy. First, download the installer from the download page.
 
 ![](img/download-page.jpg)
@@ -585,11 +585,11 @@ Try to limit writing text in images, as it is difficult for translators (and oth
 
 ##### Translating annotated images
 
-When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps).
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps). For example:
 
-- e.g. `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
-- e.g. `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
-- e.g. `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
+- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
+- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
+- `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
 
 #### Screenshots of gameplay
 
@@ -628,7 +628,7 @@ Never use image links! Image links are links with the image as the link text. On
 
 Flag icons next to userlinks must be separate from the username. For example:
 
-```
+```md
 Do not: [![][flag_AU] peppy](/users/2)
 
 Do:     ![][flag_AU] [peppy](/users/2)
@@ -640,7 +640,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
 
-```
+```md
 ![](/wiki/shared/flag/xx.gif)
 ```
 
@@ -654,20 +654,20 @@ Tables in the osu! wiki support headings along the first row. If you cannot crea
 
 Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the tect of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
-The delimter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
+The delimiter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
 - `---` (for left align)
 - `:--` (for left align)
 - `:-:` (for centre align)
 - `--:` (for right align)
 
-The left align delimter must be done consistently throughout the entire article.
+The left align delimiter must be done consistently throughout the entire article.
 
 ---
 
 For example:
 
-```
+```md
 | Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 stars |
@@ -754,7 +754,7 @@ Never end a sentence with `osu!` and have it followed by an exclamation mark (`!
 
 When writing about a topic that has an article, never capitalise it unless it is a link (with exceptions, e.g. BanchoBot). For example:
 
-```
+```md
 The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
 ```
 
@@ -802,7 +802,7 @@ In osu!standard, beatmaps are composed of three different gameplay elements: hit
 
 Language names must be first-letter capitalised. For example:
 
-```
+```md
 The `#spanish` chat channel are for those who speak Spanish.
 ```
 
@@ -811,7 +811,7 @@ The `#spanish` chat channel are for those who speak Spanish.
 Proper nouns must almost always be first-letter capitalised. For example:
 
 ```
-Dean Herbert (also known as peppy) created osu!
+Dean Herbert (also known as peppy) created osu!.
 ```
 
 #### Trademarks
