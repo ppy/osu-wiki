@@ -1,22 +1,22 @@
-# Registration
+# Rejestracja
 
-*Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
+*Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami osu!](/wiki/Rules)!*
 
-1.  After [installing](/wiki/installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account` and keep osu! opened. This should open the [Create Account](https://osu.ppy.sh/p/register) web page.
+1.  Po [zainstalowaniu](/wiki/installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
 
-![The registration form from the website](img/register.jpg "The registration form")
+![Formularz rejestracyjny](img/register.jpg "Formularz rejestracyjny")
 
-2.  Fill out all of the fields in the form.
-    -   For the username field, there is a maximum of 15 characters; of which can only be alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
-    -   For the email address field, use your email. This is used to reset your password and to send you verification codes when needed, so don't use a throw away email.
-    -   For the password field, use a password that is at least 8 characters long.
-3.  Once this is completed, press `Continue` then go back to osu!
-4.  Sign in to complete registration.
+2.  Wypełnij wszystkie pola w formularzu.
+    -   Do pola `Username` wprowadź nazwę użytkownika. Może składać się maksymalnie z 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
+    -   Do pola `Email Address` wprowadź swój prawdziwy adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że masz do niego dostęp. 
+    -   Do pola `Password` wprowadź długie na przynajmniej 8 znaków hasło.
+3.  Kiedy już to uczynisz, naciśnij przycisk `Continue` i wróć do okna z osu!.
+4.  Zaloguj się, aby zakończyć proces rejestracji.
 
-## What's next?
+## Co dalej?
 
-Don't forget to read the [rules](/wiki/Rules) very carefully!
+Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules)!
 
-Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/installation#adding-beatmapsets) to play, [make a skin](/wiki/skinning), or [make a beatmap](/wiki/beatmapping). You could also stop by and say, "Hi," in the [Introductions subforum](/community/forums/8).
+Gotowe, teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/installation#adding-beatmapsets), [stworzyć własną skórkę](/wiki/skinning) czy [stworzyć własną beatmapę](/wiki/beatmapping). Nie zapomnij o przywitaniu się w [podforum Introductions](/community/forums/8)!
 
-If you need further in-game help, you can ask in the `#help` [IRC](/wiki/IRC) (Internet Relay Chat) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](/community/forums/5).
+Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie napisz `/join help`. Możesz także utworzyć nowy wątek w  [podforum Help](/community/forums/5).
