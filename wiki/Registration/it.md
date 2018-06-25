@@ -1,6 +1,6 @@
 # Registrazione
 
-*Attenzione: Il possesso di account multipli è in ogni momento una violazione delle [regole di osu!](/wiki/Rules)*
+*Attenzione: Il possesso di account multipli in osu! è in ogni momento una violazione delle [regole](/wiki/Rules)!*
 
 1.  Dopo [aver installato](/wiki/installation) osu! ed eseguito, osu! richiederà una registrazione o login. Supponendo che tu sia qui perché hai bisogno di un account, clicca `Crea un account` e tieni osu! aperto. Questo dovrebbe aprire la pagina [Crea un account](https://osu.ppy.sh/p/register).
 
