@@ -544,6 +544,14 @@ Images used in the osu! wiki must be in JPG format at quality 8 (80 or 80%, depe
 
 Images must be under 2 megabytes, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
 
+All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
+
+```
+jpeg-recompress -am smallfry <input> <output>
+```
+
+Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
+
 #### File names
 
 *Notice: All image file extensions must use lowercase letters, otherwise they will fail to load!*

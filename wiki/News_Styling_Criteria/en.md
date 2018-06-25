@@ -12,7 +12,7 @@ The following standards apply only to articles written for the news, and saved i
 
 ### News post caching
 
-News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the `#osu-wiki` [Discord channel](https://discord.gg/ppy) to purge it.
+News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to purge it.
 
 ## Locales
 
