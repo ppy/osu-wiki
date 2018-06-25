@@ -1,58 +1,22 @@
----
-outdated: true
----
-# Rejestracja
+# Registration
 
-## Jak się zarejestrować?
+*Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 
-**Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z [zasadami osu!](/wiki/Rules/). Aby stworzyć konto, wykonaj następujące kroki.**
+1.  After [installing](/wiki/installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account` and keep osu! opened. This should open the [Create Account](https://osu.ppy.sh/p/register) web page.
 
-1. Na [stronie osu!](https://osu.ppy.sh), kliknij ``I'm new!``, aby rozpocząć rejestrację.
+![The registration form from the website](img/register.jpg "The registration form")
 
-![Przycisk rejestracji](Register-1.png "Przycisk rejestracji")
+2.  Fill out all of the fields in the form.
+    -   For the username field, there is a maximum of 15 characters; of which can only be alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
+    -   For the email address field, use your email. This is used to reset your password and to send you verification codes when needed, so don't use a throw away email.
+    -   For the password field, use a password that is at least 8 characters long.
+3.  Once this is completed, press `Continue` then go back to osu!
+4.  Sign in to complete registration.
 
-2. Wypełnij wszystkie pola i kliknij ``Continue``.
+## What's next?
 
-![Formularz rejestracyjny](Register-2.png "Formularz rejestracyjny")
+Don't forget to read the [rules](/wiki/Rules) very carefully!
 
-    1. Nazwa użytkownika         
-        - Może składać się z maksymalnie 15 znaków
-        - Dozwolone są tylko znaki alfanumeryczne (``a-z``, ``A-Z``, ``0-9``), znaki podkreślenia (``_``), nawiasy kwadratowe, (``[`` i ``]``), myślniki (``-``) oraz spacje (`` ``).
-    2. Adres e-mail
-    3. Hasło
-    4. Adnotacja
-    5. Kontynuuj
-3. Zaloguj się w osu! i gotowe. Udało ci się utworzyć własne konto!
+Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/installation#adding-beatmapsets) to play, [make a skin](/wiki/skinning), or [make a beatmap](/wiki/beatmapping). You could also stop by and say, "Hi," in the [Introductions subforum](/community/forums/8).
 
-## Logowanie się
-
-### Plik wykonywalny osu!
-
-![Plik wykonywalny osu!](Register-3.png)  
-
-Plik wykonywalny o nazwie `osu!.exe` służy do otwierania gry. Jeżeli pojawią się nowe aktualizacje, zostaną one zainstalowane automatycznie. _Ważne: Nie musisz uruchamiać osu! jako administrator. Jeżeli gra będzie tego wymagać, otrzymasz odpowiednie powiadomienie._
-
-### Panel opcji
-
-*Zobacz także: [Opcje](/wiki/Options)*
-
-![Panel opcji](Login.png)
-
-Jeżeli uruchamiasz osu! po raz pierwszy, panel opcji pojawi się po lewej stronie ekranu gry. Wpisz swoją nazwę użytkownika i hasło w odpowiednie pola i zaloguj się.
-
-### Panel użytkownika
-
-![Panel użytkownika](Userpanel.png)
-
-Jeżeli wprowadzone przez ciebie dane są poprawne, panel użytkownika pojawi się w lewej górnej części ekranu gry. Oznacza to, że logowanie przeszło poprawnie i możesz zacząć grać! Panel ten będzie także widoczny w dolnej części ekranu wyboru piosenki, na prawo od przycisku ``Beatmap Options``.
-
-## Co dalej?
-
-Możesz rozpocząć już swoją rytmiczną przygodę, dlatego udaj się do [strony powitalnej](/wiki/Welcome/) i zacznij grać! Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules/)!
-
-Jeżeli masz pytania lub potrzebujesz pomocy, zapytaj na kanale `#help` bądź utwórz nowy post w odpowiednim forum.
-
-Aby dołączyć do kanału ``#help``, naciśnij `F8` i napisz ``/join #help``. Możesz także nacisnąć ![Przycisk wyboru kanałów](Channelopenbutton.png) żółty przycisk znajdujący się na prawo od otwartych kanałów i wybrać `#help`.
-
-W razie wątpliwości pamiętaj, że:
-> rytm jest tylko o klik stąd!
+If you need further in-game help, you can ask in the `#help` [IRC](/wiki/IRC) (Internet Relay Chat) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](/community/forums/5).
