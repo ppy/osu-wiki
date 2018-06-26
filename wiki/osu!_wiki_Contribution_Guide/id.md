@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Panduan Kontribusi osu! wiki
 
 Terima kasih atas minat anda untuk membuat osu! wiki menjadi lebih baik! Saat ini, berkontribusi pada osu! wiki akan membutuhkan lebih banyak waktu dan usaha untuk membuat perubahan yang anda lakukan benar-benar diterapkan. Panduan ringkas ini ditujukan untuk pendatang baru yang belum pernah menggunakan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika anda sudah pernah berpengalaman menggunakan GitHub, tidak disalahkan untuk melewatkan panduan ini dan mengikuti alur kerja fitur branch untuk pembaruan konten di repositori osu! wiki.

@@ -17,6 +17,6 @@ Outros conteúdos do editor de beatmap incluem:
 - [Kiai Time](Kiai_Time): Notas que fazem surgir um monte de estrelas e luzes brilhantes durante uma certa seção do mapa.
 - [Menu](Menu): Uma explicação sobre os botões no topo do editor de beatmap
 - [SB Load](SB_Load): Um número usado para indicar o quão pesado é um storyboard. Qualquer número acima de 5x é ruim para computadores antigos.
-- [Slider](Slider): Uma explicação básica sobre como sliders funcionam no _osu!_
+- [Slider](Slider): Uma explicação básica sobre como sliders funcionam no osu!
 - [Timelines](Timelines): O painel do topo do editor de beatmap que mostra notas, breaks (pausas) e mais.
 - [Timing](Timing): Um guia de como fazer um timing adequado de um novo beatmap.

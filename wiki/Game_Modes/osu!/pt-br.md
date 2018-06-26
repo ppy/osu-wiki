@@ -351,7 +351,7 @@ _O botão da Fumaça pode ser definido na configuração de teclado do jogo. Por
 - A rotação deve ser realizada ao redor do núcleo do spinner ou então **será invalidada**.
 - A Fumaça dura mais tempo do que a trilha padrão do ponteiro. Aplique a Fumaça esparsadamente para prevenir que eles desapareçam rápido demais.
 - O mascote do osu! é o [pippi][Mascots#pippi wikilink].
-- Quando o modificador [Auto][Auto wikilink] é ativado, o nome do jogador aparecerá como _osu!_.
+- Quando o modificador [Auto][Auto wikilink] é ativado, o nome do jogador aparecerá como osu!.
 
 ### Histórico
 

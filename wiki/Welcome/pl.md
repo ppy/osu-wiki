@@ -18,12 +18,6 @@ Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiad
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Tryb wieloosobowy](/wiki/Multi)
 
-## Artykuł miesiąca
-
-*Zobacz także: [Kryteria rankingowe](/wiki/Ranking_Criteria).*
-
-Kryteria rankingowe to zbiór zasad i porad napisanych przez członków zespołu [QAT](/wiki/People/Quality_Assurance_Team) w celu zapewnienia standardu jakości wszystkim rankingowym beatmapom.
-
 ## Mapowanie
 
 *Zobacz także: [Mapowanie](/wiki/Beatmapping).*

@@ -10,7 +10,7 @@ The osu! World Cup has returned once again for 2017 in a spectacular fashion wit
 
 Hello there, this is [Evrien](https://osu.ppy.sh/users/791660), a long-time commentator and analyst of the osu! World Cup. It sure has been a while, but it's great to be writing for one of my favourite things in this game – the OWC!
 
-For those who have been living under a rock, OWC 2017 has begun - the biggest and meanest tournament _osu!_ has to offer, with dozens of countries squaring off against each other for the title of _osu! Champion_! 
+For those who have been living under a rock, OWC 2017 has begun - the biggest and meanest tournament osu! has to offer, with dozens of countries squaring off against each other for the title of _osu! Champion_! 
 
 The Group Stage just concluded this past weekend - the first of a few stages of elimination in the tournament proper. If you've missed it – worry not, VODs are available on the [official Twitch channel](http://www.twitch.tv/osulive), go check out how your favourite team is doing! But while you're at here, let's go over some of the more memorable moments that went down:
 

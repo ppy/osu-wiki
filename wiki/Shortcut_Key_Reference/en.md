@@ -1,6 +1,6 @@
 # Shortcut Key Reference
 
-There are many shortcuts in _osu!_ that can be utilized while in-game or while idle at any screen.
+There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
 **Note:** some of these keys can be changed in the [options](/wiki/options)!

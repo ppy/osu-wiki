@@ -128,7 +128,7 @@ Unstable Rate | **Valores baseados na média em função da variação máxima**
 
 **Avisos:**
 
-- Os valores citados logo acima **não serão salvos** e desaparecerão após fechar o _osu!_. Para poder conferí-los novamente, assista a um replay.
+- Os valores citados logo acima **não serão salvos** e desaparecerão após fechar o osu!. Para poder conferí-los novamente, assista a um replay.
 - Devido ao jeito que os mods Double Time (DT) e Half Time (HT) foram implementados, os valores do Miss Rate e Unstable Rate serão multiplicados pelo mesmo fator da música.
 Para obter os valores reais quando jogar com o mod DT, divida os resultados por _1.5_.
 Da mesma forma, multiplique os resultados por _1.33_ quando estiver jogando com o mod HT.
