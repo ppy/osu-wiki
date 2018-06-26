@@ -251,7 +251,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Germany ![][flag_DE] | 3 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43586102) |
 | Indonesia ![][flag_ID] | 5 | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43587773) |
 | Poland ![][flag_PL] | 5 | 0 | ![][flag_SE] Sweden | -Win by default- |
-| Mexico ![][flag_ME] | 5 | 0 | ![][flag_FI] Finland | -Win by default- |
+| Mexico ![][flag_MX] | 5 | 0 | ![][flag_FI] Finland | -Win by default- |
 
 | Sunday, 2018-06-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
