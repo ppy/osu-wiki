@@ -1,7 +1,7 @@
 Техподдержка
 ===============
 
-**Техподдержка** (Support Team Redux, «Техподдержка Возрождённая» — [Ephemeral](https://osu.ppy.sh/u/Ephemeral), 2014) — группа, участники которой следят за следующими форумами:
+**Техподдержка** (Support Team Redux, «Техподдержка Возрождённая» — [Ephemeral](https://osu.ppy.sh/users/Ephemeral), 2014) — группа, участники которой следят за следующими форумами:
 
 -   [Development](https://osu.ppy.sh/forum/2) (разработка);
 -   [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (геймплей и ранкинги), за исключением [Tournaments](https://osu.ppy.sh/forum/55) (организация турниров) и [Mapping Techniques](https://osu.ppy.sh/forum/61) (техники маппинга);
@@ -29,20 +29,20 @@
 Состав группы
 -------------
 
-[Всегда актуальная ссылка](https://osu.ppy.sh/g/22) (список). *Помимо указанных языков, все этих люди знают английский.*
+[Всегда актуальная ссылка](https://osu.ppy.sh/groups/22) (список). *Помимо указанных языков, все этих люди знают английский.*
 
 | Имя | Дополнительные языки |
 | ---- | --------- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)    | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/u/941094)    | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/u/2295078)    | тагалог («филиппинский») |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/u/2371454)        | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/u/444506)         | шведский, испанский |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/u/1040328)   | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/u/1857058)        | немецкий |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/u/3469385)       | испанский |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/u/4255720)     | |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | тагалог («филиппинский») |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | шведский, испанский |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328)   | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | немецкий |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | испанский |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720)     | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif

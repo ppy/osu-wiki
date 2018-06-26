@@ -16,20 +16,20 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f�
 Teammitglieder
 --------------
 
-*Jedes Mitglied im Support Team kann Englisch und muss daher nicht vermerkt werden. [Seite der Support Team Gruppe](https://osu.ppy.sh/g/22).*
+*Jedes Mitglied im Support Team kann Englisch und muss daher nicht vermerkt werden. [Seite der Support Team Gruppe](https://osu.ppy.sh/groups/22).*
 
 | Name | Zusätzlich gesprochene Sprachen |
 | ---- | --------- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)    | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/u/941094)    | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/u/2295078)    | Philippinisch |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/u/2371454)        | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/u/444506)         | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/u/1040328)   | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/u/1857058)        | Deutsch |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/u/3469385)       | Spanisch |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/u/4255720)     | Niederländisch |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Philippinisch |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | Schwedisch, Spanisch |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328)   | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | Deutsch |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | Spanisch |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720)     | Niederländisch |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif
