@@ -20,15 +20,23 @@ Teammitglieder
 
 | Name | Zusätzlich gesprochene Sprachen |
 | ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| [Ezoda](https://osu.ppy.sh/u/1231180) | Deutsch |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polnisch |
-| [MillhioreF](https://osu.ppy.sh/u/941094) | |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Philippinisch |
-| [Saten](https://osu.ppy.sh/u/444506) | Schwedisch, Spanisch |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanisch |
-| [Tom94](https://osu.ppy.sh/u/1857058) | Deutsch |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | Niederländisch |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)    | |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/u/941094)    | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/u/2295078)    | Philippinisch |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/u/2371454)        | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/u/444506)         | Schwedisch, Spanisch |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/u/1040328)   | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/u/1857058)        | Deutsch |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/u/3469385)       | Spanisch |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/u/4255720)     | Niederländisch |
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif

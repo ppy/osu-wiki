@@ -24,8 +24,8 @@ Team Members
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870)        | | Chat Moderation, Disqus Moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343)      | German | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042)     | Spanish | Chat Moderation, Forum Moderation, Disqus Moderation |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)      | | osu!media creation, Tournaments, Disqus Moderation |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | | Technical Support |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)      | | Tournaments, Disqus Moderation |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | | Chat Moderation, Technical Support |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)          | Spanish | Tournaments, Disqus Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technical Support |
 | ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)        | Korean | Metadata Team |
@@ -33,7 +33,7 @@ Team Members
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)     | | Player Support |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818)      | Bulgarian | osu!idol hosting, Forum Moderation, Chat Moderation, Disqus Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867)        | Chinese | Chat Moderation, Forum Moderation |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)          | French | Chat Moderation |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)          | French | Chat Moderation, Forum Moderation, Disqus Moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570)        | Polish | Chat Moderation |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229)        | Portuguese | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779)     | Turkish | Chat Moderation |
@@ -46,6 +46,7 @@ Team Members
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393)         | Dutch | Chat Moderation, Forum Moderation, Disqus Moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Filipino | Chat Moderation, Forum Moderation |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059)   | French | Chat Moderation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935)       | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405)      | German | Ranking Criteria, Forum Moderation, Chat Moderation |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | | Chat Moderation, Technical support |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392)       | Spanish | Chat Moderation, Wiki Administration |

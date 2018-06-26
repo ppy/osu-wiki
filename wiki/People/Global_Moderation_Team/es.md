@@ -24,8 +24,8 @@ Miembros del equipo
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870)        | | Moderación del chat, Moderación de Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343)      | Alemán | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042)     | Español | Moderación del chat, Moderación del foro, Moderación de Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)      | | Creación de osu!media, Torneos oficiales, Moderación de Disqus |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | | Soporte técnico |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)      | | Torneos oficiales, Moderación de Disqus |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | | Moderación del chat, Soporte técnico |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)          | Español | Torneos oficiales, Moderación de Disqus |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Soporte técnico |
 | ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)        | Coreano | Equipo de metadata |
@@ -33,7 +33,7 @@ Miembros del equipo
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)     | | Asistencia al jugador |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818)      | Búlgaro | Presentador de osu! idol, Moderación del foro, Moderación del chat, Moderación de Disqus |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867)        | Chino | Moderación del chat, Moderación del foro |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)          | Francés | Moderación del chat |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)          | Francés | Moderación del chat, Moderación del foro, Moderación de Disqus |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570)        | Polaco | Moderación del chat |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229)        | Portugués | Moderación del chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779)     | Turco | Moderación del chat |
@@ -46,6 +46,7 @@ Miembros del equipo
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393)         | Holandés | Moderación del chat, Moderación del foro, Moderación de Disqus |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Filipino | Moderación del chat, Moderación del foro |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059)   | Francés | Moderación del chat |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935)       | | Desarrollador de osu!, Organizador de la Mappers' Guild |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405)      | German | Ranking Criteria, Moderación del foro, Moderación del chat |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | | Moderación del chat, Soporte técnico |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392)       | Español | Moderación del chat, Administración de la osu! wiki |
