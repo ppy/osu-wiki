@@ -99,33 +99,72 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 23. June 2018
+### Saturday, 30. June 2018
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Germany   | ![][flag_DE] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong   | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
-| Poland    | ![][flag_PL] | ![][flag_SE] | Sweden      | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
-| Mexico    | ![][flag_MX] | ![][flag_FI] | Finland     | **19:00 UTC** | 14:00 UTC-05 | 22:00 UTC+03 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile     | **2:00 UTC**  | 11:00 UTC+09       | 22:00 (Fri) UTC-04 | ¹ |
+| Mexico      | ![][flag_MX] | ![][flag_HK] | Hong Kong | **3:30 UTC**  | 22:30 (Fri) UTC-05 | 11:30 UTC+08       | ² |
+| France      | ![][flag_FR] | ![][flag_TW] | Taiwan    | **12:30 UTC** | 14:30 UTC+02       | 20:30 UTC+08       | ² |
+| Netherlands | ![][flag_NL] | ![][flag_CN] | China     | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       | ² |
+| Poland      | ![][flag_PL] | ![][flag_DE] | Germany   | **15:30 UTC** | 17:30 UTC+02       | 17:30 UTC+02       | ² |
 
-### Sunday, 24. June 2018
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan         | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| China       | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 9:00 UTC-04  |
-| Chile       | ![][flag_CL] | ![][flag_TW] | Taiwan        | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
-| France      | ![][flag_FR] | ![][flag_NO] | Norway        | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+### Sunday, 1. July 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| China       | ![][flag_CN] | ![][flag_MX] | Mexico        | **3:30 UTC**   | 11:30 UTC+08 | 22:30 (Sat) UTC-05 | ³ |
+| China       | ![][flag_CN] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 19:30 UTC+08 | 19:30 UTC+08       | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 13:30 UTC+02 | 19:30 UTC+08       | ³ |
+| Taiwan      | ![][flag_TW] | ![][flag_PL] | Poland        | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
+| Taiwan      | ![][flag_TW] | ![][flag_DE] | Germany       | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
+| France      | ![][flag_FR] | ![][flag_PL] | Poland        | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
+| France      | ![][flag_FR] | ![][flag_DE] | Germany       | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
+| Indonesia   | ![][flag_ID] | ![][flag_US] | United States | **14:30 UTC**  | 21:30 UTC+07 | 7:30 UTC-07        | ¹ |
+| Netherlands | ![][flag_NL] | ![][flag_MX] | Mexico        | **16:00 UTC**  | 18:00 UTC+02 | 11:00 UTC-05       | ³ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
 ## Mappools
 
-**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
+### SemiFinals
+
+**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
+
+- NoMod
+  - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](http://osu.ppy.sh/b/1556545&m=2)
+  - [LeaF - Alice in Misanthrope -Ensei Alice- \(Deif\) \[Wonderland\]](http://osu.ppy.sh/b/1674302&m=2)
+  - [Cres - End Time \(Intensity\) \[Steven\]](http://osu.ppy.sh/b/883356&m=2)
+  - [AKI AKANE - Hankyou no Barrier Seed \(Spectator\) \[Alone\]](http://osu.ppy.sh/b/1594657&m=2)
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- \(Realazy\) \[Achromatic\]](http://osu.ppy.sh/b/1477241&m=2)
+  - [GARNiDELiA - Gokuraku Jodo \(Vert\) \[Zweib's Expert\]](http://osu.ppy.sh/b/1043223&m=2)
+- Hidden
+  - [Nekomata Gekidan - AsiaN distractive \(Yumeno Himiko\) \[Overdose\]](http://osu.ppy.sh/b/1390877&m=2)
+  - [YUI - again \(Crowley\) \[brotherhood\]](http://osu.ppy.sh/b/1552359&m=2)
+  - [monet - Noborenai Sakamichi \(Mirash\) \[Delis' Insane\]](http://osu.ppy.sh/b/1419974&m=2)
+- HardRock
+  - [sak respect for Arata Iiyoshi - Reason of being \(rew0825\) \[Reason\]](http://osu.ppy.sh/b/1573224&m=2)
+  - [Roselia - LOUDER \(scanter\) \[Crystal's Captivation\]](http://osu.ppy.sh/b/1270272&m=2)
+  - [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[wkyik's Extra\]](http://osu.ppy.sh/b/799724&m=2)
+- DoubleTime
+  - [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](http://osu.ppy.sh/b/1036560&m=2)
+  - [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](http://osu.ppy.sh/b/160002&m=2)
+  - [Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]](http://osu.ppy.sh/b/1049378&m=2)
+- Tiebreaker
+  - [Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](http://osu.ppy.sh/b/1570019&m=2)
 
 ### QuarterFinals
+
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
 
 - NoMod
   - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](http://osu.ppy.sh/b/1539487&m=2)
@@ -204,6 +243,22 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### QuarterFinals
+
+| Saturday, 2018-06-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Germany ![][flag_DE] | 3 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43586102) |
+| Indonesia ![][flag_ID] | 5 | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43587773) |
+| Poland ![][flag_PL] | 5 | 0 | ![][flag_SE] Sweden | -Win by default- |
+| Mexico ![][flag_MX] | 5 | 0 | ![][flag_FI] Finland | -Win by default- |
+
+| Sunday, 2018-06-24 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Netherlands ![][flag_NL] | 5 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43616653) |
+| China ![][flag_CN] | 4 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43617828) |
+| Chile ![][flag_CL] | 5 | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43619288) |
+| France ![][flag_FR] | 5 | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43620718) |
 
 ### Round of 16
 
