@@ -62,25 +62,22 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 -----------------------
 
-## 比賽賽程表：四強
+## 比賽賽程表：決賽
 
-### Saturday, 23 June 2018
+### Saturday, 30 June 2018
 
-| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| LB | ayomikasa | ![][flag_ID] | ![][flag_MY] | ZethZ161 | **08:00 UTC** | 15:00 UTC +7 | 16:00 UTC +8 |
-| LB | Xin Leviathan | ![][flag_JP] | ![][flag_JP] | KILI3343 | **09:30 UTC** | 18:30 UTC +9 | 18:30 UTC +9 |
-| LB | Smallwu | ![][flag_TW] | ![][flag_ID] | Niko-nyan | **12:00 UTC** | 20:00 UTC +8 | 19:00 UTC +7 |
-| LB | TS_LewisLuo | ![][flag_TW] | ![][flag_MY] | Jerry | **15:00 UTC** | 23:00 UTC +8 | 23:00 UTC +8 |
+| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| #28 | UB | nyanmi-1828 | ![][flag_JP] | ![][flag_JP] | butter0414 | **07:00 UTC** | 16:00 UTC +9 | 16:00 UTC +9 |
+| #25 | LB | Sanawieck | ![][flag_JP] | ![][flag_TW] | Smallwu | **08:30 UTC** | 17:30 UTC +9 | 16:30 UTC +8 |
+| #26 | LB | qoot8123 | ![][flag_TW] | ![][flag_JP] | Xin Leviathan | **14:00 UTC** | 22:00 UTC +8 | 23:00 UTC +9 |
 
-### Sunday, 24 June 2018
+### Sunday, 1 July 2018
 
-| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| UB | qoot8123 | ![][flag_TW] | ![][flag_JP] | butter0414 | **06:00 UTC** | 14:00 UTC +8 | 15:00 UTC +9 |
-| LB | (Winner of ayomikasa - ZethZ161) |  |  | (Winner of Xin Leviathan - KILI3343) | **07:30 UTC** |  |  |
-| LB | (Winner of Smallwu - Niko-nyan) |  |  | (Winner of TS_LewisLuo - Jerry) | **09:00 UTC** |  |  |
-| LB | nyanmi-1828 | ![][flag_JP] | ![][flag_JP] | Sanawieck | **12:00 UTC** | 21:00 UTC +9 | 21:00 UTC +9 |
+| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| #27 | LB | (Winner of #25) |  |  | (Winner of #26) | **08:00 UTC** |  |  |
+| #29 | LB | (Loser of #28) |  |  | (Winner of #27) | **09:30 UTC** |  |  |
 
 -----------------------
 
@@ -121,6 +118,34 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 -----------------------
 
 ## 圖池
+
+### Finals
+
+**[此處下載圖池 (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
+
+- NoMod
+  - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](/beatmapsets/796419/#taiko/1672405)
+  - [SWAN K feat. Asuka M - LOVE B.B.B (Zetera) \[Majin Oni (Tournament Edition)\]](/beatmapsets/606771/#taiko/1640328) 
+  - [Igorrr - Tendon (DukeDukeDura) \[Amiable\]](/beatmapsets/737578/#taiko/1557717) 
+  - [Ametsuchi Enikki - Reimei Sketchbook (Y O U T A) \[Sketch\]](/beatmapsets/571204/#taiko/1210546)
+  - [Seiryu x t+pazolite - 256*256 (Nishizumi) \[65536\]](/beatmapsets/642870/#taiko/1362862)
+- Hidden
+  - [Halozy - Monosugoi Raivu de Cirno ga Sokohakatonaku Monosugoi Uta (Nofool) \[Hard Oni\]](/beatmapsets/411578/#taiko/893023) 
+  - [Team:SASAKURATION - AVALON (Firce777) \[Firce777's Ura Oni\]](/beatmapsets/118763/#taiko/406755) 
+- HardRock
+  - [Kano - Yuudachi no Ribbon (Y O U T A) \[Ribbon\]](/beatmapsets/477178/#taiko/1019297) 
+  - [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](/beatmapsets/83519/#taiko/230572) 
+- DoubleTime
+  - [AIKO OI - Limitless Possibility (tasuke912) \[Oni\]](/beatmapsets/585513/#taiko/1240275)
+  - [mary - DAYBREAK FRONTLINE (Jerry) \[Daybreak Oni\]](/beatmapsets/609728/#taiko/1289501)
+- Special
+  - [DM Ashura - deltaMAX (Sayaka-) \[Oni\]](/beatmapsets/437153/#taiko/941375)
+  - [#FFFFFF - Couleur=Blanche (cdhsausageboy) \[Impending Chaos\]](/beatmapsets/790827/#taiko/1659257)
+- FreeMod
+  - [PSYQUI - Hype feat. Such (KinomiCandy) \[Future Oni\]](/beatmapsets/777879/#taiko/1634000) 
+  - [LeaF - Wizdomiot (JUDYDANNY) \[JuDa's Inner Oni\]](/beatmapsets/352682/#taiko/781859)
+- Tiebreaker
+  - [BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](/beatmapsets/523713/#taiko/1111804)
 
 ### 四強
 
@@ -260,6 +285,22 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 ------------------------------------------------------------------------
 
 ## 比賽結果
+
+### 四強
+
+| Group | Saturday, 2018-06-23 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| LB | ayomikasa ![][flag_ID] | 4 | 6 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/43586711) |
+| LB | Xin Leviathan ![][flag_JP] | 6 | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43583803) |
+| UB | qoot8123 ![][flag_TW] | 2 | 6 | ![][flag_JP] butter0414 | [#1](https://osu.ppy.sh/community/matches/43584932) |
+| LB | Smallwu ![][flag_TW] | 6 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
+
+| Group | Sunday, 2018-06-24 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| LB | TS_LewisLuo ![][flag_TW] | 6 | 5 | ![][flag_MY] Jerry | [#1](https://osu.ppy.sh/community/matches/43609032) |
+| LB | ZethZ161 ![][flag_MY] | 3 | 6 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43646954) |
+| LB | TS_LewisLuo ![][flag_TW] | 5 | 6 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/43613894) |
+| UB | nyanmi-1828 ![][flag_JP] | 6 | 2 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/43617099) |
 
 ### 八強
 
