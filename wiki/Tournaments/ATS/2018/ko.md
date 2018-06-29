@@ -70,12 +70,12 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 | :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | #28 | UB | nyanmi-1828 | ![][flag_JP] | ![][flag_JP] | butter0414 | **07:00 UTC** | 16:00 UTC +9 | 16:00 UTC +9 |
 | #25 | LB | Sanawieck | ![][flag_JP] | ![][flag_TW] | Smallwu | **08:30 UTC** | 17:30 UTC +9 | 16:30 UTC +8 |
-| #26 | LB | qoot8123 | ![][flag_TW] | ![][flag_JP] | Xin Leviathan | **10:00 UTC** | 18:00 UTC +8 | 19:00 UTC +9 |
+| #26 | LB | qoot8123 | ![][flag_TW] | ![][flag_JP] | Xin Leviathan | **14:00 UTC** | 22:00 UTC +8 | 23:00 UTC +9 |
 
 ### Sunday, 1 July 2018
 
-| Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
+| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | #27 | LB | (Winner of #25) |  |  | (Winner of #26) | **08:00 UTC** |  |  |
 | #29 | LB | (Loser of #28) |  |  | (Winner of #27) | **09:30 UTC** |  |  |
 
