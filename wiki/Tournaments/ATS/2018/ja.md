@@ -147,7 +147,6 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 - Tiebreaker
   - [BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](/beatmapsets/523713/#taiko/1111804)
 
-
 ### Semifinals
 
 **[Mappackのダウンロードはこちら！ (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
