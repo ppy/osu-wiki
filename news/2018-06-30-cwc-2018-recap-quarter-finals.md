@@ -8,7 +8,7 @@ Another week of historic fruit catching action down, just three more to go. This
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Hello everyone and welcome! With regular recapper [JBHyperion](https://osu.ppy.sh/u/4879508) on vacation, I, [Dohland](https://osu.ppy.sh/u/5220511) present to you the osu!catch World Cup 2018 Quarter Finals Recap! We had high expectations going into the weekend with one of the most stacked Winner’s Bracket Quarterfinals we’ve ever seen. Let’s see who came out on top!
+Hello everyone and welcome! With regular writer [JBHyperion](https://osu.ppy.sh/u/4879508) on vacation, I, [Dohland](https://osu.ppy.sh/u/5220511) present to you the osu!catch World Cup 2018 Quarter Finals Recap! We had high expectations going into the weekend with one of the most stacked Winners' Bracket Quarterfinals we've ever seen. Let's see who came out on top!
 
 <iframe src="https://player.twitch.tv/?autoplay=false&video=v277697607" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
@@ -24,7 +24,7 @@ Unfortunately, we saw our first two “win by default” results of the tourname
 
 Next up, Netherlands clashed with Japan – both teams were at risk of being eliminated and sent home, so they put their all on the line. Netherlands bounced back strongly from last week’s loss, taking an early lead and never looking back. Japan was unable to maintain consistency with the Dutch team and would eventually fall 5-1.
 
-Then came the match everyone was waiting for. China. The United States. So much at stake for both teams. After all the amazing moments and matches we've had so far in this tournament, it was hard to imagine anything topping what we had already seen. But leave it to the top two teams to shock us all!
+Then came the match everyone was waiting for – China versus the United States and so much at stake for both teams. After all the amazing moments and matches we've had so far in this tournament, it was hard to imagine anything topping what we had already seen. But leave it to the top two teams to shock us all!
 
 The match had no break points – both teams would win all of their picks which meant one thing, and one thing only. Tiebreaker. It's the kind of situation that you dream of when you're a kid. Bottom of the ninth, two outs, bases loaded, down by three. Who would be the hero?
 
@@ -38,7 +38,7 @@ The closing match saw France and Norway square off in the Losers' Bracket. Franc
 
 ## Upcoming Stage - Semi Finals
 
-The hype only gets bigger as we transition into what could be a historic week of matches for some of our remaining teams. In the Winners' Bracket, The United States are looking to clinch their first ever podium spot, whilst Chile are looking to return the podium for the first time since they won it all in 2013. Both will face fierce competition from the ever-consistent Indonesia and a growing-in-strength South Korea respectively.
+The hype only gets bigger as we transition into what could be a historic week of matches for some of our remaining teams. In the Winners' Bracket, the United States are looking to clinch their first ever podium spot, whilst Chile are looking to return the podium for the first time since they won it all in 2013. Both will face fierce competition from the ever-consistent Indonesia and a growing-in-strength South Korea respectively.
 
 Meanwhile in the Losers' Bracket, China seek to regroup against the Netherlands, Mexico square off against Hong Kong, and Germany cross blades with Poland. Perhaps most interestingly however, Taiwan and France meet for the second time this tournament, after their Group Stage encounter ended in a nail-biting tiebreaker victory for the Asian team.
 
