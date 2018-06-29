@@ -107,7 +107,6 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | South Korea | ![][flag_KR] | ![][flag_CL] | Chile     | **2:00 UTC**  | 11:00 UTC+09       | 22:00 (Fri) UTC-04 | ¹ |
 | Mexico      | ![][flag_MX] | ![][flag_HK] | Hong Kong | **3:30 UTC**  | 22:30 (Fri) UTC-05 | 11:30 UTC+08       | ² |
-| France      | ![][flag_FR] | ![][flag_TW] | Taiwan    | **12:30 UTC** | 14:30 UTC+02       | 20:30 UTC+08       | ² |
 | Netherlands | ![][flag_NL] | ![][flag_CN] | China     | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       | ² |
 | Poland      | ![][flag_PL] | ![][flag_DE] | Germany   | **15:30 UTC** | 17:30 UTC+02       | 17:30 UTC+02       | ² |
 
@@ -117,6 +116,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | China       | ![][flag_CN] | ![][flag_MX] | Mexico        | **3:30 UTC**   | 11:30 UTC+08 | 22:30 (Sat) UTC-05 | ³ |
+| France      | ![][flag_FR] | ![][flag_TW] | Taiwan        | **8:00 UTC**   | 10:00 UTC+02 | 16:00 UTC+08       | ² |
 | China       | ![][flag_CN] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 19:30 UTC+08 | 19:30 UTC+08       | ³ |
 | Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 13:30 UTC+02 | 19:30 UTC+08       | ³ |
 | Taiwan      | ![][flag_TW] | ![][flag_PL] | Poland        | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
