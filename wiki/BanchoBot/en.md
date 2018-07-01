@@ -128,7 +128,7 @@ Tama: ok
 
 ### REPORT
 
-*Notice: If you want to report a moderator, send an email [support@ppy.sh](mailto:support@ppy.sh) for moderator complaints.*
+*Notice: If you want to report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh) for moderator complaints.*
 
 *Note: You can also use the user card to report a user.*
 
