@@ -115,16 +115,11 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| China       | ![][flag_CN] | ![][flag_MX] | Mexico        | **3:30 UTC**   | 11:30 UTC+08 | 22:30 (Sat) UTC-05 | ³ |
 | France      | ![][flag_FR] | ![][flag_TW] | Taiwan        | **8:00 UTC**   | 10:00 UTC+02 | 16:00 UTC+08       | ² |
 | China       | ![][flag_CN] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 19:30 UTC+08 | 19:30 UTC+08       | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 13:30 UTC+02 | 19:30 UTC+08       | ³ |
-| Taiwan      | ![][flag_TW] | ![][flag_PL] | Poland        | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
 | Taiwan      | ![][flag_TW] | ![][flag_DE] | Germany       | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
-| France      | ![][flag_FR] | ![][flag_PL] | Poland        | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
 | France      | ![][flag_FR] | ![][flag_DE] | Germany       | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
 | Indonesia   | ![][flag_ID] | ![][flag_US] | United States | **14:30 UTC**  | 21:30 UTC+07 | 7:30 UTC-07        | ¹ |
-| Netherlands | ![][flag_NL] | ![][flag_MX] | Mexico        | **16:00 UTC**  | 18:00 UTC+02 | 11:00 UTC-05       | ³ |
 
 ¹ Winner bracket encounter
  
