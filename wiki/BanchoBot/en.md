@@ -2,13 +2,13 @@
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
+BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
 
 ## BanchoBot Commands
 
 *For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-BanchoBot commands start with `!` immediately followed by the command. These commands work in-game and in external IRC clients and can be used in multiplayer chat channels and in BanchoBot's PM (private message). If a normal user sends a BanchoBot command in a public chat channel, other players will not see it, but the response will be displayed in a private message from BanchoBot.
+BanchoBot commands start with `!` followed by the command. These commands work in-game and in external IRC clients. They can be used in multiplayer chat channels and in BanchoBot's PM (private message). If a normal user sends a BanchoBot command in a public chat channel, other users will not see it, but the response will be displayed in a private message from BanchoBot.
 
 You can also use the `/bb` in-game client command to automatically open a BanchoBot tab and send the command immediately.
 
@@ -22,7 +22,7 @@ You can also use the `/bb` in-game client command to automatically open a Bancho
 !HELP
 ```
 
-Help shows the list of available commands.
+Show a list of available BanchoBot commands.
 
 #### Usage Example
 
@@ -46,7 +46,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 !ROLL <number>
 ```
 
-Get a random number from 1 to the selected number (default is 100).
+Draw a random number from 1 to the selected number (default is 100).
 
 #### Usage Example
 
@@ -61,7 +61,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <user>
 ```
 
-Displays the entered user's stats. The resulting stats depends on the mode they are playing or last played.
+Displays the entered user's stats. The resulting stats depend on the mode they are playing or last played.
 
 *Note: BanchoBot will not tell you which game mode the stats came from.*
 
@@ -109,7 +109,7 @@ BanchoBot: Ephemeral is in Australia
 !FAQ list
 ```
 
-Displays the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted though BanchoBot's PM.
+Displays the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted through BanchoBot's PM.
 
 #### Usage Examples
 
@@ -128,9 +128,9 @@ Tama: 谢谢
 
 ### REPORT
 
-*Notice: If reporting a moderator, email [support@ppy.sh](mailto:support@ppy.sh) for moderator complaints.*
+*Notice: If you want to report a moderator, send an email [support@ppy.sh](mailto:support@ppy.sh) for moderator complaints.*
 
-*Note: You can also use the user card to report a player.*
+*Note: You can also use the user card to report a user.*
 
 ```
 !REPORT <user> <reason>
@@ -154,7 +154,7 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 !REQUEST list
 ```
 
-Get links to beatmaps that are requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
+List a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
 
 #### Usage Example
 
