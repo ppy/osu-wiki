@@ -330,15 +330,15 @@ Use bulleted lists when the order of the list does not matter. It is preferred t
 
 #### Numbered
 
-Use numbered lists when the order of the list does matter. Do not increment the numbers. For example:
+Use numbered lists when the order of the list does matter. For example:
 
 ```md
 Game modes of osu! (in order of implementation):
 
 1. osu!standard
-1. osu!taiko
-1. osu!catch
-1. osu!mania
+2. osu!taiko
+3. osu!catch
+4. osu!mania
 ```
 
 #### Mixed
