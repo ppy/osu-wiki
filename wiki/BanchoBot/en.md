@@ -22,7 +22,7 @@ You can also use the `/bb` in-game client command to automatically open a Bancho
 !HELP
 ```
 
-Show a list of available BanchoBot commands.
+Shows a list of available BanchoBot commands.
 
 #### Usage Example
 
@@ -46,7 +46,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 !ROLL <number>
 ```
 
-Draw a random number from 1 to the selected number (default is 100).
+Draws a random number from 1 to the selected number (default is 100).
 
 #### Usage Example
 
@@ -61,7 +61,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <user>
 ```
 
-Displays the entered user's stats. The resulting stats depend on the mode they are playing or last played.
+Shows the entered user's stats. The resulting stats depend on the mode they are playing or last played.
 
 *Note: BanchoBot will not tell you which game mode the stats came from.*
 
@@ -91,7 +91,7 @@ BanchoBot: Accuracy: 94.19%
 !WHERE <user>
 ```
 
-Displays the entered user's current location.
+Shows the entered user's current location.
 
 *Note: This only shows the user's country.*
 
@@ -109,7 +109,7 @@ BanchoBot: Ephemeral is in Australia
 !FAQ list
 ```
 
-Displays the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted through BanchoBot's PM.
+Shows the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted through BanchoBot's PM.
 
 #### Usage Examples
 
@@ -154,7 +154,7 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 !REQUEST list
 ```
 
-List a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
+Shows a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
 
 #### Usage Example
 
