@@ -123,7 +123,7 @@ Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
 BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
-Tama: 谢谢
+Tama: ok
 ```
 
 ### REPORT
