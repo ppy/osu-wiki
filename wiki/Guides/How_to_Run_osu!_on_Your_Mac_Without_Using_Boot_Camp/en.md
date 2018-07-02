@@ -3,7 +3,7 @@ How to run osu! on Mac without using Boot Camp
 
 Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/forum/t/14664/)
 
-Note: External Images cannot (or I assume so) be loaded through osu!wiki unless uploaded through osu!wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
+Note: External Images cannot (or I assume so) be loaded through osu! wiki unless uploaded through osu! wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
 
 Introduction/Description
 -------------------------
@@ -78,7 +78,7 @@ Configuring Virtualbox
 Installing Windows
 ------------------
 
-*Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu!wiki is strict; so I had to manually input them in.*
+*Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu! wiki is strict; so I had to manually input them in.*
 
 1. Press "Start". [36](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup36.png)
 

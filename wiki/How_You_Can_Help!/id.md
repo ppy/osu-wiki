@@ -8,7 +8,7 @@ Pertama, dari perspektif pribadi saya sudah benar-benar jenuh. Saya menghabiskan
 
 Berikut adalah daftar terkini hal-hal yang saya pikir semua orang dapat membantu, disortir berdasarkan dari yang paling penting di mata saya. Saya akan mencoba terus memperbarui kiriman ini ketika saya melihat hal-hal lain terpikirkan, tetapi jangan ragu untuk memberikan saya (sebaiknya di kiriman ini) jika Anda memilikinya).
 
-## Bantu pengembangan [osu!wiki](https://github.com/ppy/osu-wiki "osu-wiki di GitHub")!
+## Bantu pengembangan [osu! wiki](https://github.com/ppy/osu-wiki "osu-wiki di GitHub")!
 
 Untuk menjaga konten di situs web tetap terkini, saya ingin memindahkan semua bagian yang berisi teks ke wiki. Hal ini termasuk FAQ, panduan ranking (ranking guidelines), semua panduan berbasis forum kami, bagian sejarah/informasi. Meskipun kami telah membuat kemajuan besar (berkat beberapa pengguna yang sangat berdedikasi), memperbarui wiki adalah proses berkelanjutan yang pada dasarnya dapat dilakukan oleh siapa pun. Ada juga banyak kesempatan untuk melakukan terjemahan yang tersisa untuk membuat konten dapat diakses dalam bahasa lain yang dikenal umat manusia!
 

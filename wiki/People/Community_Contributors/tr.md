@@ -38,7 +38,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/forum/p
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/u/201392) | osu!wiki'ye üstün katkı. |
+| [Repflez](https://osu.ppy.sh/u/201392) | osu! wiki'ye üstün katkı. |
 | [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | osu! wiki'ye üstün katkı |
 | [givenameplz](https://osu.ppy.sh/u/947499) | osu!Rank & osu!Post geliştiriciliği. |
 

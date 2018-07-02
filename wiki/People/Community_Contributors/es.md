@@ -103,10 +103,10 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [DrabWeb](/users/6946022) | Contribución excepcional al proyecto osu!lazer|
 | [EVAST](/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
 | [huoyaoyuan](/users/2428732) | Contribución excepcional al proyecto osu!lazer |
-| [kj415j45](/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu!wiki y osu!lazer |
+| [kj415j45](/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |
 | [jorolf](/users/7004641) | Contribución excepcional al proyecto osu!lazer y creación de numerosas herramientas de medios |
 | [Syrin](/users/5701575) | Creador de PerformancePlus y osu!chan |
 | [Raveille](/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
 | [ThePooN](/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
-| [MegaApple_Pi](/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu!wiki con innumerables revisiones, reprocesos y revisiones |
-| [TPGPL](/users/3944705) | Piedra angular del proyecto osu!wiki y contribución sobresaliente a lo largo de los años |
+| [MegaApple_Pi](/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu! wiki con innumerables revisiones, reprocesos y revisiones |
+| [TPGPL](/users/3944705) | Piedra angular del proyecto osu! wiki y contribución sobresaliente a lo largo de los años |

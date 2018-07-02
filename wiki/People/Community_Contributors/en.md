@@ -37,8 +37,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 | User | Contributions |
 | ---- | ------------- |
-| [Repflez](/users/201392) | Outstanding contribution to the osu!wiki. |
-| [RaikireHiuduo](/users/1570014) | Outstanding contribution to the osu!wiki. |
+| [Repflez](/users/201392) | Outstanding contribution to the osu! wiki. |
+| [RaikireHiuduo](/users/1570014) | Outstanding contribution to the osu! wiki. |
 | [givenameplz](/users/947499) | osu!Rank & osu!Post development. |
 
 ## 2016
@@ -101,10 +101,10 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [DrabWeb](/users/6946022) | Outstanding contribution to the osu!lazer project |
 | [EVAST](/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
 | [huoyaoyuan](/users/2428732) | Outstanding contribution to the osu!lazer project |
-| [kj415j45](/users/9367540) | Outstanding contribution and organization of the Chinese localisation project for osu!, osu!wiki, and osu!lazer |
+| [kj415j45](/users/9367540) | Outstanding contribution and organization of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
 | [jorolf](/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
 | [Syrin](/users/5701575) | Creator of PerformancePlus and osu!chan |
 | [Raveille](/users/1388767) | Outstanding effort in the production and publishing of the Score project |
 | [ThePooN](/users/718454) | Outstanding effort in the production and publishing of the Score project |
-| [MegaApple_Pi](/users/2148208) | Outstanding efforts in furthering the osu!wiki project with countless revisions, reworks and reviews |
-| [TPGPL](/users/3944705) | Cornerstone of the osu!wiki project and outstanding contribution throughout the years |
+| [MegaApple_Pi](/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
+| [TPGPL](/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
