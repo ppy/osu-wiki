@@ -3,15 +3,16 @@ layout: post
 title: "Community Mentorship Program Fall 2018 Signups Now Open"
 date: 2018-07-02 12:00:00 +0000
 ---
+
 Are you an experienced mapper, or perhaps only recently opened the editor for the first time? Do you like helping others, or are in need of a helping hand in mapping or modding? The Community Mentorship Program has a place for both of you!
 
 ![](/wiki/shared/news/2018-07-02-community-mentorship-program-fall-2018-signups-now-open/banner.png)
 
-If you've ever wanted to pass on the knowledge that you accumulated about mapping to someone else and wish to do so in a structured format, the Community Mentorship Program offers a platform for you to do so! Become a mentor for the game mode you are proficient in and get to teaching someone what you know!
+If you're new to mapping and don't know where to start for any game mode, this program might be a good way to kickstart your mapping career! Look for a mentor that suits what you want to do and apply for being their mentee - start learning from someone experienced instead of figuring out everything on your own!
 
-If you're new and don't know where to start for any game mode, this program might be one way to go about it! Look for a mentor that suits what you want to do and apply for being their mentee - start learning from someone experienced instead of figuring out everything on your own!
+Maybe you're a little more experienced and have decided that you want to pass the knowledge you've accumulated about mapping on to someone else and wish to do so in a structured format - the Community Mentorship Program offers a platform for you to do so! Become a mentor for the game mode you are proficient in and get to teaching someone what you know!
 
-**For the upcoming fall cycle we are looking for mentors and mentees for all game modes!**
+**For the upcoming fall cycle we are looking for both mentors and mentees for all game modes!**
 
 The timeline is as follows (all opening and closing dates start and end at midnight):
 - Mentor signups will start on 01.07.2018 and close on 08.07.2018.
