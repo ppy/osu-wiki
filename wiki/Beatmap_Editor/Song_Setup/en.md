@@ -10,45 +10,55 @@
 
 ![A completed song setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
 
+These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
+
 #### Artist
 
-**The band, singer, composer, or group that performed or created the song.** It will be pulled automatically from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation used. **Anime or Game titles belong to Source. Vocaloid names or companies' names belong to [Tags](#tags).** Foreign/Eastern names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name; the western order, for consistency).
+**The band, singer, composer, or group that performed or created the song.** This normally is pulled automatically from the MP3 file's metadata, but double-check for proper spelling and punctuation.
+
+*Notice: Anime or game titles belong in the [source](#source) field. Vocaloid names or company names belong in the [tags](#tags) field.*
+
+Foreign/Eastern names should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency).
+
+This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
 
 ##### Romanised Artist
 
-**The romanised (English) name of the artist.** It should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name; the western order, for consistency). This field will only become available when Unicode characters are used in the [Artist](#artist) field.
+**The romanised name of the artist.** This should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency). This field will only become available if unicode characters are used in the [artist](#artist) field.
 
 #### Title
 
-**The name of the song.** It will be pulled automatically from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation used.
+**The song title.** This normally is pulled automatically from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation.
 
 ##### Romanised Title
 
-**The romanised (English) name of the song.** This field will only become available when Unicode characters are used in the [Title](#title) field.
+**The romanised name of the song.** This field will only become available when unicode characters are used in the [title](#title) field.
 
 #### Beatmap Creator
 
-**The logged-in account that created the beatmap.** osu! should handle this automatically and not allow you to edit this field, unless you are not the creator. [Guest difficulty](/wiki/GD) creators' names belong to the [Difficulty](#difficulty) and [Tags](#tags) fields, not here.
+**The creator's name that created the beatmap.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
+
+*Notice: The names of [guest creators](/wiki/GD) belong to the [difficulty](#difficulty) and/or [tags](#tags) fields.*
 
 #### Difficulty
 
-**The name of the beatmap (difficulty).** The dropdown contains the preset names of `Easy`, `Normal`, `Hard`, and `Insane`. The creator can select one of the default names from the dropdown menu or be creative with a new difficulty name. While it is good to be creative, do try to make the difficulty name very clear as ambiguous difficulty name will annoy players. This field is also the place to indicate that it is a guest difficulty (e.g. "Larto's Hard").
+**The name of the beatmap, in other words, the difficulty name.** The dropdown contains the preset names of `Easy`, `Normal`, `Hard`, and `Insane`. The creator can select one of the preset names from the dropdown menu or be creative use their own. While it is good to be creative, do try to make the difficulty names very clear as to which difficulty they represent. Ambiguous difficulty names will annoy players and is unrankable.
+
+This field can also be used to indicate that it is a guest difficulty (e.g. "Larto's Hard").
 
 #### Source
 
-**The origin of the song.** Generally, this field should be included only for anime/video game songs and occasionally for novelty (movies, TV, or internet) songs. If the song is from anime/video game or is famous for its use as a TV or movie theme, then the title of that source goes here. Rock and pop songs should generally leave the field blank. This is not to be used for things like album titles (those belong in the [Tags](#tags)).
+**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs. If the song is from an anime, a video game, or is famous for its use in a TV or movie theme; then the title of that source should be added in this field. If otherwise, this field should be left empty.
+
+*Notice: This is not to be used for album titles, those belong in the [tags](#tags) field.*
+
+Not every song needs something on the source field. The source is only for songs that are from something (e.g. a video game or an anime show). Regular rock and pop songs can have this field be left empty. Other relevant information should be entered on the [tags](#tags) field such as album title or subgenre information.
 
 #### Tags
 
-**Keywords to help in searching.** Commonly, tags include album names, creators of guest difficulty, company name, and other terms that may be used by people when searching for beatmaps. If the map has collaboration elements mapped by other creators, the names can go here. Tags are separated by spaces. It is not necessary to fill in, but it is greatly appreciated when using the web search bar or the in-game search bar. For example, if the beatmap has "qwertyuiop" as a tag, the beatmap can be found in-game or on the website by typing in "qwertyuiop".
+**A list of keywords to help with search queries.** Commonly, tags should include album names, guest creator usernames, company names, and other terms that may be used by people when searching for beatmaps. If the beatmap has collaboration elements (such as storyboarding) done by other users, their usernames should be added to this field.
 
-Notes:
-
-- `Artist` field should prefer to the spelling of the official release sources.
-  - The composer can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
-- Not every song needs something on the `Source` field. The source is only for songs that are *from* something (e.g. a video game or an anime). Regular rock and pop songs can just leave this field empty. Other relevant information should be entered on the `Tags` field such as album title or subgenre information.
-- Fill the metadata first before creating a second difficulty to ensure that metadata will be consistent across all difficulties in the beatmapset.
-  - In order to avoid issues, always make sure that everything (aside from Difficulty) is filled out identically when adding any difficulty to the beatmapset.
+Tags are separated with spaces (`Space`). It is not necessary to use this field as other metadata from the other fields are used to help query beatmaps; however, it is greatly appreciated for users trying to find your beatmaps when using the web search bar or the in-game search bar.
 
 ## Difficulty
 
