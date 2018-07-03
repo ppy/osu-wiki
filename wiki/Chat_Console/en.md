@@ -20,7 +20,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 -   Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.
 -   Click the `Auto-Hide` box to automatically hide the chat during gameplay (excluding beatmap intro, outro and breaks).
--   Click the `Hide Chat` box or press F8 again to hide the chat console.
+-   Click the `Hide Chat` box or press `F8` again to hide the chat console.
 
 ## Extended Chat Console
 
