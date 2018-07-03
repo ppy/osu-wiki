@@ -2,9 +2,7 @@
 
 ![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
-Twój host [serwera osu!](/wiki/Internet_Relay_Chat).
-
-ma swój własny profil!
+BanchoBot to bot internetowy (czyli zestaw komend i zautomatyzowanych odpowiedzi), zaprogramowany przez **Echo49**, który pomaga graczom na czacie poprzez wyświetlanie pewnych informacji zażądanych przez użytkownika oraz ogłaszanie informacji związanych z grą. Jest hostem [serwera osu!](/wiki/Internet_Relay_Chat) i posiada profil o nr ID _[#3](https://osu.ppy.sh/u/3)_ (tuż obok peppy'ego, który posiada profil o nr ID [#2](https://osu.ppy.sh/u/2)).
 
 Wygląd i zadania
 ----------------
