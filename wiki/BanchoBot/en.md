@@ -2,15 +2,15 @@
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It was programmed by [Echo49](/users/431) and is the host of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
+BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It has been programmed by [Echo49](/users/431) and is the host of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
 
-## BanchoBot Commands
+## Commands
 
 *For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-BanchoBot commands start with `!` followed by the command. These commands work in-game and in external IRC clients. They can be used in multiplayer chat channels and in BanchoBot's PM (private message). If a normal user sends a BanchoBot command in a public chat channel, other users will not see it, but the response will be displayed in a private message from BanchoBot.
+BanchoBot commands start with `!` followed by the command. These commands work in-game and in external IRC clients. They can be used in multiplayer chat channels and in BanchoBot's PM (private message) tab. If a normal user sends a BanchoBot command in a public chat channel, other users will not see it, but the response will be displayed in a private message from BanchoBot.
 
-You can also use the `/bb` in-game client command to automatically open a BanchoBot tab and send the command immediately.
+You can also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
 
 *Notice: The `SEARCH` command is not included as it is not working.*
 
@@ -138,7 +138,7 @@ Tama: ok
 
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
-Sends a report to the [GMT](/wiki/GMT) (Global Moderation Team) or [Language Moderators](/wiki/Language_Moderators).
+Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
 
 #### Usage Example
 
