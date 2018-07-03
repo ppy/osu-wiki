@@ -78,6 +78,50 @@ The Heptakey osu!mania Cup #1
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0)**
+
+- FreeMod
+  - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/b/691829)
+  - [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/b/1436278)
+  - [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/b/1693911)
+  - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/b/1473413)
+  - [w_tre - FIONA (stupud man) \[Hi (rework)\]](https://osu.ppy.sh/b/1694310)
+  - [Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]](https://osu.ppy.sh/b/1677804)
+  - [PLight - TRIGGERHAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/b/1498431)
+  - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/b/455082)
+  - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/b/766440)
+  - [litmus* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/b/960117)
+  - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/b/1647600)
+  - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/b/1693865)
+  - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/b/1649634)
+  - [IU - You & I (moni) \[I\]](https://osu.ppy.sh/b/824900)
+  - [void - Sudden Romance (\_underjoy) \[Chordmancer (short)\]](https://osu.ppy.sh/b/1597751)
+- Tiebreaker
+  - [xi - Blue Zenith (Jinjin) \[Bluanother III (Stratosphere)\]](https://osu.ppy.sh/b/891715)
+
+### Semifinals
+
+**[Download the mappack here! (86.4 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0)**
+
+- FreeMod
+  - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/b/1331176)
+  - [Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]](https://osu.ppy.sh/b/1686250)
+  - [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/b/1563205)
+  - [Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]](https://osu.ppy.sh/b/1686202)
+  - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/b/1391441)
+  - [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/b/1070254)
+  - [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/b/1625602)
+  - [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/b/1216907)
+  - [Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]](https://osu.ppy.sh/b/1686252)
+  - [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/b/992384)
+  - [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/b/1292459)
+  - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/b/1620760)
+  - [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/b/1670208)
+- Tiebreaker
+  - [lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]](https://osu.ppy.sh/b/1637822)
+
 ### Quarterfinals
 
 **[Download the mappack here! (74.1 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
@@ -165,6 +209,47 @@ The Heptakey osu!mania Cup #1
   - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
 
 ## Match Results
+
+### Semifinals
+
+| Friday, 2018-06-29 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **robby250** ![][flag_RO] | **6** | 0 | ![][flag_GB] Hayabusa | -Win by Default- |
+| **Gamer97** ![][flag_CH]  | **6** | 1 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
+
+| Saturday, 2018-06-30 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Yomiel** ![][flag_IT]   | **6** | 0 | ![][flag_FR] Elementaires | -Win by Default- |
+| SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_US] **Gekido-**  | -Win by Default- |
+| **Skalim** ![][flag_CL]   | **6** | 2 | ![][flag_BR] Lothus       | [#1](https://osu.ppy.sh/community/matches/43791757) |
+
+| Sunday, 2018-07-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] Keweft      | [#1](https://osu.ppy.sh/community/matches/43813280) |
+| Gamer97 ![][flag_CH]     | 5 | **6** | ![][flag_US] **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
+
+| Monday, 2018-07-02 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43835514) |
+
+### Quarterfinals
+
+| Friday, 2018-06-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Daleenie** ![][flag_RU] | **6** | 0 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43564735) |
+
+| Saturday, 2018-06-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Mage ![][flag_RU]       | 0 | **6** | ![][flag_FR] **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
+| **Skalim** ![][flag_CL] | **6** | 1 | ![][flag_RO] robby250         | [#1](https://osu.ppy.sh/community/matches/43594452) |
+
+| Sunday, 2018-06-24 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Gekido-** ![][flag_US] | **6** | 0 | ![][flag_DE] rohen04      | [#1](https://osu.ppy.sh/community/matches/43623915) |
+| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/43625367) |
+| Yomiel ![][flag_IT]      | 2 | **6** | ![][flag_BR] **Lothus**   | [#1](https://osu.ppy.sh/community/matches/43627012) |
+| **Keweft** ![][flag_BR]  | **6** | 2 | ![][flag_CH] Gamer97      | [#1](https://osu.ppy.sh/community/matches/43628968) |
+| Alternater ![][flag_US]  | 0 | **6** | ![][flag_GB] **Hayabusa** | -Win by Default- |
 
 ### Round of 16
 
