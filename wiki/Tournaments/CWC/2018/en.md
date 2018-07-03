@@ -101,30 +101,22 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Match Schedule: Semifinals
 
-### Saturday, 30. June 2018
+### Saturday, 07. July 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile     | **2:00 UTC**  | 11:00 UTC+09       | 22:00 (Fri) UTC-04 | ¹ |
-| Mexico      | ![][flag_MX] | ![][flag_HK] | Hong Kong | **3:30 UTC**  | 22:30 (Fri) UTC-05 | 11:30 UTC+08       | ² |
-| Netherlands | ![][flag_NL] | ![][flag_CN] | China     | **14:00 UTC** | 16:00 UTC+02       | 22:00 UTC+08       | ² |
-| Poland      | ![][flag_PL] | ![][flag_DE] | Germany   | **15:30 UTC** | 17:30 UTC+02       | 17:30 UTC+02       | ² |
+| China       | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
+| France      | ![][flag_FR] | ![][flag_ID] | Indonesia   | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 | ² |
 
-
-### Sunday, 1. July 2018
+### Sunday, 08. July 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| China       | ![][flag_CN] | ![][flag_MX] | Mexico        | **3:30 UTC**   | 11:30 UTC+08 | 22:30 (Sat) UTC-05 | ³ |
-| France      | ![][flag_FR] | ![][flag_TW] | Taiwan        | **8:00 UTC**   | 10:00 UTC+02 | 16:00 UTC+08       | ² |
-| China       | ![][flag_CN] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 19:30 UTC+08 | 19:30 UTC+08       | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong     | **11:30 UTC**  | 13:30 UTC+02 | 19:30 UTC+08       | ³ |
-| Taiwan      | ![][flag_TW] | ![][flag_PL] | Poland        | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
-| Taiwan      | ![][flag_TW] | ![][flag_DE] | Germany       | **13:00 UTC**  | 21:00 UTC+08 | 15:00 UTC+02       | ³ |
-| France      | ![][flag_FR] | ![][flag_PL] | Poland        | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
-| France      | ![][flag_FR] | ![][flag_DE] | Germany       | **13:00 UTC**  | 15:00 UTC+02 | 15:00 UTC+02       | ³ |
-| Indonesia   | ![][flag_ID] | ![][flag_US] | United States | **14:30 UTC**  | 21:30 UTC+07 | 7:30 UTC-07        | ¹ |
-| Netherlands | ![][flag_NL] | ![][flag_MX] | Mexico        | **16:00 UTC**  | 18:00 UTC+02 | 11:00 UTC-05       | ³ |
+| China       | ![][flag_CN] | ![][flag_FR] | France        | **12:00 UTC**  | 20:00 UTC+08 | 14:00 UTC+02 | ³ |
+| China       | ![][flag_CN] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 20:00 UTC+08 | 19:00 UTC+02 | ³ | 
+| South Korea | ![][flag_KR] | ![][flag_FR] | France        | **12:00 UTC**  | 21:00 UTC+09 | 14:00 UTC+07 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
+| Chile       | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC**  | 15:00 UTC-04 | 12:00 UTC-07 | ¹ |
 
 ¹ Winner bracket encounter
  
@@ -135,6 +127,30 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [USAO - Boss Rush \(Minato Yukina\) \[MAXIMUM\]](http://osu.ppy.sh/b/1272534&m=2)
+  - [Morimori Atsushi - Paradigm Shift \(Emiru\) \[Quantum Fluctuation\]](http://osu.ppy.sh/b/1536733&m=2)
+  - [xi - Akasha \(Yumeno Himiko\) \[Deluge\]](http://osu.ppy.sh/b/1627017&m=2)
+  - [YuFu - Holy Moon \(Kuzino\) \[4Q\]](http://osu.ppy.sh/b/112852&m=2)
+  - [DJ TOTTO feat. Sunao Yoshikawa - Arousing \(fanzhen0019\) \[HW's Extra\]](http://osu.ppy.sh/b/368845&m=2)
+  - [Panda Eyes & Teminite - Highscore \(Fort\) \[Game Over\]](http://osu.ppy.sh/b/736215&m=2)
+- Hidden
+  - [Memme - Goat Fantasia \(Spectator\) \[Overdose\]](http://osu.ppy.sh/b/1346273&m=2)
+  - [kanonxkanon - Calendula Requiem \(F D Flourite\) \[Lycoris Radiata\]](http://osu.ppy.sh/b/1371644&m=2)
+  - [Mitsuki - climactic cry \(Mythol\) \[RLQuillab2013\]](http://osu.ppy.sh/b/362297&m=2)
+- HardRock
+  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[Deif's Papaya\]](http://osu.ppy.sh/b/1335618&m=2)
+  - [KASAI HARCORES - Cycle Hit \(Spectator\) \[Grand Slam\]](http://osu.ppy.sh/b/1465042&m=2)
+  - [Megpoid GUMI - Cosmos \(val0108\) \[Cosmos\]](http://osu.ppy.sh/b/123374&m=2)
+- DoubleTime
+  - [Sayaka Sasaki - Zzz \(Spectator\) \[Lullaby\]](http://osu.ppy.sh/b/446794&m=2)
+  - [nanobii - HYPERDRIVE \(Ascendance\) \[Overdose\]](http://osu.ppy.sh/b/1357221&m=2)
+  - [WALKUERE - Ikenai Borderline \(Rizia\) \[Insane\]](http://osu.ppy.sh/b/975036&m=2)
+- Tiebreaker
+  - [BlackYooh vs. siromaru - BLACK or WHITE? \(Minato Yukina\) \[Final Showdown\]](http://osu.ppy.sh/b/1324298&m=2)
 
 ### SemiFinals
 
@@ -243,6 +259,22 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### SemiFinals
+
+| Saturday, 2018-06-30 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 3 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43767078) |
+| Mexico ![][flag_ME] | 2 | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43768481) |
+| Netherlands ![][flag_NL] | 1 | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43779290) |
+| Poland ![][flag_PL] | 3 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43781683) |
+
+| Saturday, 2018-07-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![][flag_FR] | 6 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43801047) |
+| China ![][flag_CN] | 6 | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43804340) |
+| France ![][flag_FR] | 6 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43806191) |
+| Indonesia ![][flag_ID] | 5 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43808202) |
 
 ### QuarterFinals
 
