@@ -61,7 +61,7 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 ##### Outdated articles
 
-*Note for translators: When you update your language's version of an article, never set the boolean to `false`, just delete the markup as it appears above.*
+*Note to translators: When you update your language's version of an article, never set the boolean to `false`, just delete the markup as it appears above.*
 
 Never delete translated articles, regardless if the content is outdated or is malformed. Instead, use the `outdated` mark. The markup for this is as follows:
 
@@ -88,7 +88,7 @@ tags:
 
 ##### Outdated and tagged articles
 
-*Note for translators: Do delete the `outdated` mark, but do not delete the tags.*
+*Note to translators: Do delete the `outdated` mark, but do not delete the tags.*
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
@@ -185,7 +185,7 @@ This can be as small as changing the cursor or as big as redoing the appearances
 
 ---
 
-If you added more empty lines afterwards will not affect spacing of the paragraphs; it will be parsed as if they were one empty line. For example:
+Adding more empty lines afterwards will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. For example:
 
 ```
 Skinning allows anyone to change the way osu! looks and feels.
@@ -195,11 +195,11 @@ Skinning allows anyone to change the way osu! looks and feels.
 This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 ```
 
-Using multiple empty lines is now allowed in the osu! wiki, as it is parsed as if it were a single empty space.
+Using multiple empty lines is not allowed in the osu! wiki, as it is parsed as if it were a single empty line.
 
 ---
 
-<!-- ppy ruled non-separated paragraphs are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
+<!-- ppy ruled single line sentences are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
 If an empty line is not present between two lines, the two lines will merge into one. For example:
 
@@ -216,7 +216,7 @@ Appending two trailing spaces at the end of a line is parsed as a line break. (W
 
 ### Hatnotes
 
-Hatnotes are short notes placed at the top of an article or underneath a section to help readers navigate to related articles or inform them about related topics. Hatnotes (unless stated otherwise) must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
+Hatnotes are short notes placed at the top of an article or underneath a section to help readers navigate to related articles or inform them about related topics. Hatnotes must be italised, never end with a full stop (`.`), and must be placed immediately after the title or heading.
 
 #### Main page
 
@@ -244,17 +244,17 @@ Beatmapping is the process of a creator creating a beatmap. This process include
 
 #### For see
 
-For see hatnotes are similar to see also, but may help reduce ambiguation and are generally more descriptive. They must start with the word `For` followed by the description, a comma, `see`, then a colon (`:`). For example:
+For see hatnotes are similar to see also, but may help reduce ambiguation and are generally more descriptive. They must start with the word `For` followed by the description, a comma (`,`), `see`, then a colon (`:`). For example:
 
 ```md
 # Installation
 
-*For the Linux installation, see: [Installation/Linux](/wiki/Installation/Linux)*
+*For the Linux installation guide, see: [Installation/Linux](/wiki/Installation/Linux)*
 ```
 
 ### Notices
 
-A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but must be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). These are written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must be italicised along with the notice. For example:
+A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but must be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices are written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must also be italicised along with the notice. For example:
 
 ```md
 *Note: pippi is spelt with a lower case "p", like peppy.*
@@ -266,7 +266,7 @@ A notice can be placed where appropriate in a section, but must start off the pa
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
-"Note" should be used for trivial or factual details or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to to warn the reader that action may be taken against them.
+"Note" should be used for trivial, factual details, or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to warn the reader that action may be taken against them.
 
 #### Notice to
 
@@ -280,21 +280,22 @@ For notices that target specific readers, include the word `to` after "Note", "N
 
 *Notice: Misuse of emphasis will reduce its effectiveness.*
 
-When trying to emphasise words, with rare exceptions, never use all capital letters. Instead, bold the words you are trying to emphasise. For example:
+When emphasising words, with rare exceptions, never use all capital letters. Instead, bold the words. For example:
 
 ```md
-Do not:
-You are NOT allowed to post R-18 skins on the osu! forums.
+Do not: You are NOT allowed to post R-18 skins on the osu! forums.
 
-Do:
-**You are not allowed to post R-18 skins on the osu! forums.**
+Do:     You are **not** allowed to post R-18 skins on the osu! forums.
+Do:     **You are not allowed to post R-18 skins on the osu! forums.**
 ```
 
 #### Bold
 
-Use bold when you need to caution or note something's importance. When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word. Prefer double asterisks (`**`) over double underscores (`__`).
+Use bold when you need to caution or note something's importance. When bolding, try to avoid bolding single word(s) but instead bold phrases, as it may be hard to notice the bolding on a single word. Prefer double asterisks (`**`) over double underscores (`__`).
 
 #### Italics
+
+<!-- Ephemeral ruled not to italise osu! in:#osu-wiki from:ephemeralis#0001 during:2018-02-11  anymore -->
 
 Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this. Prefer single asterisks (`*`) over single underscores (`_`).
 
@@ -316,13 +317,13 @@ For English article titles, if you need to reword the title, you must rename the
 
 #### Sections
 
-All section headings are to be using levels 2 to 5. Section headings are to use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
+All section headings are to be using levels 2 to 5, never use level 6. Section headings are to use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
-In the osu! wiki, heading levels 4 and 5 are hidden in the table of contents.
+In the osu! wiki, heading levels 4 and 5 (and 6) do not appear in the table of contents and are not given the id attribute (this means you cannot link directly to these headings).
 
 ### Lists
 
-There are two kinds of lists: bulleted and numbered. The spacing for both types of bullets is very important! Limit to 4 indentations/sub-bullets.
+There are two kinds of lists: bulleted and numbered. The prefixed spacing for both types of bullets is important. Limit to 4 indentations/sub-bullets.
 
 #### Bulleted
 
@@ -365,7 +366,7 @@ The `osu!direct` button is visible in the main menu on the right side if you hav
 
 #### Folder and directory names
 
-When copying the name of a folder or directory, copy the letter casing as is. Try to not use absolute paths starting from the drive letter (or root directory) to avoid displaying usernames. For example:
+When copying the name of a folder or directory, copy the letter casing as is, but prefer lowercased paths when possible. Do not use absolute paths starting from the drive letter (or the root directory). This is primarily to avoid displaying the username. For example:
 
 ```md
 osu! is installed in the `AppData/Local` folder by default, unless you specify otherwise during installation.
@@ -389,7 +390,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 #### File extensions
 
-When writing a file extension, prefix the extension with a fullstop (`.`), followed by the file extension in lowercase letters. However, if talking about the file format (not the file extension), the file format must be in all capital letters without the prefixed fullstop (`.`). For example:
+When writing a file extension, prefix the extension with a fullstop (`.`), followed by the file extension in lowercase letters. However, if talking about the file format (not the file extension), the file format must be in all capital letters without the prefixed fullstop (`.`) and not be in code. For example:
 
 ```md
 The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
@@ -397,7 +398,7 @@ The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 
 #### Chat channels
 
-When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters. For example:
+When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lowercase letters. For example:
 
 ```md
 `#lobby` is where you can advertise your multi room.
@@ -405,7 +406,7 @@ When copying the name of a chat channel, start it with a hash (`#`), followed by
 
 ### Code blocks
 
-It is preferred to use the triple grave marks instead of the four prefixed spaces. In the osu! wiki, code blocks do not use syntax highlighting.
+It is preferred to use the triple grave marks instead of the four prefixed spaces. As of now, the osu! wiki, does not support syntax highlighting.
 
 ### Links
 
@@ -413,7 +414,7 @@ You can use either the reference or inline style links.
 
 Keep in mind that there are good times to prefer one over the other. For example, one should use reference style links when linking to a flag or icon multiple times. On the other hand, one could use inline style links when linking to an article.
 
-If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access. However, for flags, do the opposite, put them at the bottom of the article.
+If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access (but under the metadata). However, for flags, do the opposite, put them at the bottom of the article.
 
 Never use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
 
@@ -459,7 +460,7 @@ You can use the URL from the address bar of your browser and, optionally, omit t
 
 ##### User profiles
 
-All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent. However, if it is impossible or hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
+All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. However, if it is impossible or hard to determine the user id (because they had changed their username and/or were unlisted from a group), you may skip over it.
 
 When linking to a user profile, you must use the user's id number instead of their username. Usernames can be changed while user ids are bound to the user. Thus, this will ensure that the link still targets to the same user even after they have changed their username.
 
@@ -528,7 +529,7 @@ There are no visual differences between external and osu! web links. Due to this
 
 ### Images
 
-The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark (`!`), the link text is now the alternate text, and there is a third argument for the title text (also known as hover text). Like the [links](#links), you can use either reference or inline style when linking to images.
+The markup for images is similar to [links](#links). The differences are that you must prefix the link with an exclamation mark (`!`), the link text is now the alternate text, and there is a third argument for the title text (commonly known as hover text). Like the [links](#links), you can use either reference or inline style when linking to images.
 
 ---
 
@@ -574,15 +575,15 @@ There is no way to float an image or have text wrap around an image. If the imag
 
 #### Alternate and title text
 
-All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text (also known as hover text) is optional and it could be the same as the alt text if needed.
+All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text is optional and could be the same as the alt text if needed.
 
 #### Captions
 
 Images are automatically given captions if they fulfill these rules:
 
 1. The image is by itself.
-1. The image is not inside a heading.
-1. The image has title text.
+2. The image is not inside a heading.
+3. The image has title text.
 
 Captions are assumed via the title text. Image captions must be plain text and never contain formatting nor link markup. Images with captions are also centred with the image on the website.
 
@@ -617,8 +618,6 @@ You must set these settings before taking a screenshot of the osu! client (setti
 -   Select language: `English`
 -   Prefer metadata in original language: `Enabled`
 -   Release stream: `Stable`
--   Frame limiter: `VSync`
--   Detect performance issues: `Disabled`
 -   Resolution: `1280x720`
 -   Fullscreen mode: `Disabled`
 -   Screenshot format: `JPEG (web-friendly)`
@@ -692,7 +691,7 @@ For example:
 
 ### Blockquotes
 
-Usage of blockquotes is limited to quoting text from someone. It must not be used to format text.
+Usage of blockquotes is limited to quoting text from someone. It must not be used to format text otherwise.
 
 ### Horizontal bar
 
@@ -713,7 +712,7 @@ All English articles must follow the following rules.
 
 In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
 
-For example use:
+For example, use:
 
 - `colour` instead of `color`
 - `centre` instead of `center`
@@ -768,7 +767,7 @@ Never end a sentence with `osu!` and have it followed by an exclamation mark (`!
 When writing about a topic that has an article, never capitalise it unless it is a link (with exceptions, e.g. BanchoBot). For example:
 
 ```md
-The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
+The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (internet relay chat). The chat console is located in the game client.
 ```
 
 #### Game modifiers
@@ -852,7 +851,7 @@ When writing the name of the game modes, they are to be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-*Notice: To maintain consistency, use `osu!standard` when referring to the game mode. However, folder names must use `osu!` (not `osu!standard`) when referring to the game mode.*
+*Notice: To maintain consistency, use `osu!standard` when referring to the game mode. Folder names, however, must use `osu!` (not `osu!standard`) even if it is referring to the game mode.*
 
 You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
@@ -897,11 +896,11 @@ All abbreviations, acronyms, and/or initialisms must be capitalised. For example
 
 ---
 
-Use `e.g.` when initialising "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another initialism for "for example", it is the initialism for "exercise".
+Use `e.g.` when initialising "for example" and use `i.e.` for "that is".
 
 ---
 
-Avoid pluralising abbreviations, acronyms, and/or initialisms. If needed, reword the sentence. For example:
+Avoid pluralising abbreviations, acronyms, and/or initialisms. If needed however, reword the sentence. For example:
 
 ```
 Do not: BNs can nominate your beatmapset.
