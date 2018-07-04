@@ -1,6 +1,6 @@
 ﻿# Rejestracja
 
-*Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami osu!](/wiki/Rules)!*
+*Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
 1.  Po [zainstalowaniu](/wiki/installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
 
