@@ -1,6 +1,6 @@
 # Song Setup
 
-**Song Setup** contains metadata and general beatmap configuration settings.
+Song Setup contains metadata and general beatmap configuration settings.
 
 ## General
 
@@ -62,7 +62,7 @@ Tags are separated with spaces (`Space`). It is not necessary to use this field 
 
 ## Difficulty
 
-![Difficulty section. The right section is for osu!mania-specific beatmap.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmap.")
+![Two screenshots of the difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmap.")
 
 *Notice: The game mode specific [Ranking Criterias](/wiki/Ranking_Criteria) has rankable values that should be used.*
 
@@ -150,45 +150,47 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ## Audio
 
-![A window dialog showing two versions of the audio tab.](img/SS_Audio.jpg "The audio section. The right is shown if the beatmap contains custom timing on volume settings.")
+![Two screenshots of the audio tab. They vary based on defined hit sound and volume settings.](img/SS_Audio.jpg "The audio section. The right is shown if the beatmap contains custom timing on volume settings.")
 
 ### Default Sample Settings
 
-Hit sounds configuration. Use the [timing](/wiki/Timing) sections (`F6`) to change either the hit-sound set or volume individually. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there is timing-sensitive volume adjustment used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustment.
+Configuration for hit sounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hit sound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 #### Sample Set Selection
 
-Choose to use `Normal`, `Soft`, or `Drum` built-in sample set. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) (put hit sounds files inside the beatmap's folder first) for custom hit sounds instead.
+Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hit sound files inside the beatmap's folder first for custom hit sounds.
 
 #### Sample Set Volume
 
-Set the volume of the sample set.
+Set the volume of the sample set globally.
 
 #### Test Sample Set
 
-Click on the buttons to test out how the sample set sounds. Four buttons are provided, namely: `Normal`, `Whistle`, `Finish`, and `Clap`. These sounds are additive; `Whistle` is a combination of `Normal` and `Whistle`.
+Clicking on those buttons to test out how the sample set sounds. Four buttons are provided, namely: `Normal`, `Whistle`, `Finish`, and `Clap`. These sounds are additive; `Whistle` is a combination of `Normal` and `Whistle`.
 
 ### Misc. Toggles
 
-Miscellaneous toggles. `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to the speed modifiers. Unchecking it will let the hit sounds play at its own preset pitch. This option is meant for osu!mania with some or full usage of keysounds.
+Miscellaneous toggles.
+
+The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hit sounds to play at its own preset pitch.
 
 ## Colours
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Screenshot of the colours tab](img/SS_Colours.jpg "Colours tab")
 
-Configure combo colours and playfield's background colour.
+Configure the combo colours and playfield's background colour.
 
 ### Hitcircle/Slider combos
 
 Configure the custom combo colour set. Combo colouring is an important aspect to a beatmap's aesthetic value.
 
-Clicking a combo colour or clicking on `New Combo Colour` opens up the operating system's colour picker (as shown in the image; Windows' colour picker). Choose colours that compliment the background but the colours must not camouflage into the background.
+Clicking a combo colour or clicking on `New Combo Colour` opens up the operating system's colour picker (as shown in the image; Windows' colour picker). Choose colours that compliment the background, not camouflage into the background.
 
-At most, eight combo colours can be used, although most beatmaps use four.
+At most, eight combo colours can be selected, although most beatmaps commonly use four.
 
 The `Enable Custom Colours` checkbox must be checked to enable the custom combo colour set above. Unchecking it will return to either the default combo colour settings or the player's skin combo colour settings. It is generally recommended to keep it checked so the beatmap can have its own unique identity in terms of combo colours. It can be safely unchecked for osu!taiko-specific and osu!mania-specific beatmaps.
 
-Clicking the `Remove Combo Colour` will remove the highest numbered combo colour (in other word, reverse order starting from 8-7-6-5-4-3-2).
+Clicking the `Remove Combo Colour` will remove the last defined combo colour.
 
 ### Playfield Background
 
@@ -198,42 +200,40 @@ A moot point to change except for storyboard that may expose the blank playfield
 
 ## Design
 
-![Design section](img/SS_Design.jpg "Design section")
+![Screenshot of the design tab](img/SS_Design.jpg "Design tab")
 
 ### Countdown
 
 Check the `Enable countdown` checkbox to enable the countdown animation cheer before the beatmap starts.
 
-When enabled, the countdown animation can be refined by **Countdown Speed** (`Half`, `Normal` \[default\], `Double`) and **Countdown Offset** (default to 0 beats; higher value means earlier countdown).
+When enabled, the countdown animation can be refined using the `Countdown Speed` radio buttons (`Half`, `Normal`, `Double`) and the `Countdown Offset` (default is 0; higher value means earlier countdown).
 
 ### Misc. Toggles
 
-- `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) on the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
-- `Display storyboard in front of combo fire`: A long, long time ago, osu! had a flame appearing at the bottom of the screen (if enabled in the `Options`) when reaching a combo of 30 or more, but combo fire feature is currently removed, making this option useless. Otherwise this checkbox will do what it says; put the storyboard in front of the combo fire.
-- `Display epilepsy warning (storyboard has quick strobing)`: Put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking Criteria under Storyboarding section](/wiki/Ranking_Criteria/#storyboarding): "_Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning_".
-- `Letterbox during breaks`: Determine if it should (or not) put letterboxes during breaks in the beatmap. This is usually enabled by default, but the option is not allowed for osu!mania-specific beatmaps.
+- `Widescreen Support`: Remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") from the left and right side of the playfield if the client is using any aspect ratio greater than `4:3`. This is typically enabled when using storyboard elements but can be disabled.
+- `Display storyboard in front of combo fire`: An obsolete setting, this can be ignored.
+- `Display epilepsy warning (storyboard has quick strobing)`: Display an epilepsy warning for (quick or any) flashing storyboards in the beatmap.
+- `Letterbox during breaks`: Determine if the beatmap should (or should not) put [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming) "Wikipedia") during breaks in the beatmap. This is usually enabled by default, but using this option in for osu!mania-specific beatmaps is not allowed.
 
 ### Skinning
 
-![The preferred skin is set as grungosu and there is no skin elements in the beatmapset folder as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half.](img/SS_Skin_eg.jpg "The preferred skin is set as grungosu and there is no skin elements in the beatmapset folder as shown in the top-half. If the player have the skin name in the Skins folder, that skin will be used as shown in the bottom-half.")
+![Screenshot of the skinning tab](img/SS_Skin_eg.jpg "Skinning tab")
 
-The `Preferred Skin` dropdown is used to set the preferred skin (from the player's `Skins` folder) to the defined skin name that will be used for the beatmap instead if the skin folder's name is present in the player's `Skins` folder. If the skin folder name is not present, a notice will pop-up regarding the missing skin name and the player's default skin will be used. By default, `User's preference (No Change)` is used.
+The `Preferred Skin` dropdown is used to set the preferred skin for the beatmap. Using this option assumes that the player has the skin you want them to use. However, if the player does not have the skin, a notification will appear for the player, stating that the requested skin is missing, but the player's current skin will be used instead. By default, `User's preference (No Change)` is used.
 
-Most creators will just include the skin elements as part of the beatmap file so this setting is rarely used unless to decrease the filesize or is part of a beatmap project (where the skin may be provided on the project page itself). Very old beatmaps may use this.
-
-An example of the usage would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmapsets/41820) using the `grungosu` skin that used to be available in the outdated `osume.exe` client (ancient osu! updater with a preloaded list of skins available to be downloaded through the client).
+You can, however, include the skin elements inside the beatmap folder. As most creators will just do this instead, this option is rarely used unless it would decrease the file size or is part of a beatmap project, where the skin may be provided on the project page itself.
 
 ## Advanced
 
-![Advanced section](img/SS_Advanced.jpg "Advanced section")
+![Advanced tab](img/SS_Advanced.jpg "Advanced tab")
 
 ### Stack Leniency
 
-![Stack Leniency](img/SS_SL_eg.jpg "Stack Leniency")
+![Example of hit object stacking](img/SS_SL_eg.jpg "Stack Leniency")
 
-osu! will automatically stack notes that occur in the same place and close by in-time. This is so that players can tell the hit objects apart.
+In osu!standard, hit objects will automatically stack if they are both placed in the same spot and close in-time. This is to help players see hit objects that overlap each other.
 
-The further to the right that this slider is, the further apart in-time stacking will occur. Rules dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as-is. Default value is `7`.
+Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!/#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
 
 *Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
 
@@ -241,15 +241,15 @@ Objects are considered to belong to same stack if they are at the same coordinat
 
 ### Mode Specific
 
-`Allowed Modes:` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`. It can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific but do note that the change will wipe all the beatmap's hit objects.
+`Allowed Modes:` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`, which means the creator will create an osu!standard beatmap that can be converted into the other game modes. This can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific; but keep in mind that the change will remove every hit object in the beatmap.
 
-Please decide early and confirm the beatmap's playable mode(s) first before putting in any hit objects to prevent wasted effort.
+*Note: Decide at the time of creation and confirm the beatmap's playable mode(s) first before adding in any hit objects to prevent wasted effort.*
 
-*Note: osu!mania have its own specific beatmap editor that is different from the typical beatmap editor.*
+*Note: osu!mania has its own beatmap editor that is different from the typical beatmap editor.*
 
-`Use special style(N+1 style) for mania` checkbox does nothing considering the player can set personal preference specifically at Options in `osu!mania layout` button.
+The `Use special style(N+1 style) for mania` checkbox does not do anything, considering the player can set a personal preference specifically in the [Options](/wiki/Options) using the `osu!mania layout` button.
 
 ## Trivia
 
 - The `Design` tab was formerly called "Storyboarding".
-- In the `Difficulty` tab, there used to be `Approximate Difficulty Rating` which is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score](/wiki/Score). This is not the final star ranking of the song; it is just an approximation based on the current settings. It has been replaced for a label that explained that holding `Shift` allows fine-tuning the values by an increment of 0.1 instead of the usual slide of 1.
+- In the `Difficulty` tab, there used to be `Approximate Difficulty Rating` which is a summary of all of the settings chosen on this page. More stars would imply a harder beatmap. This was, however, not the final star ranking of the beatmap as it was just an approximation based on the current difficulty settings. This was replaced for a label that explained that holding `Shift` would allow for fine-tuning the values by an increment of 0.1.
