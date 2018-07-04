@@ -4,7 +4,7 @@
 
 The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
-All articles should try to aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give you feedback in your pull request(s) for blunders and/or suggestions. A good osu! wiki writer/editor will read these and either apply them or return feedback to help improve the overall quality of the osu! wiki to ensure an optimal experience for the reader.
+All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give you feedback in your pull request(s) for blunders and/or suggestions. A good osu! wiki writer/editor will read these and either apply them or return feedback to help improve the overall quality of the osu! wiki and ensure an optimal experience for the reader.
 
 If you have any suggestions regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
@@ -27,6 +27,8 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
 | `en.md` | English | English |
+| `bg.md` | Bulgarian | Български |
+| `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
 | `gr.md` | Greek | Ελληνικά |
@@ -137,7 +139,7 @@ All osu! wiki articles must adhere to the following rules.
 
 ### GitHub Flavored Markdown
 
-Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki. GFM has a small amount of markup that anyone can learn in about 3 minutes. However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
+Parts of the GFM (GitHub Flavored Markdown) markup are supported in the osu! wiki. GFM has a small amount of markup that anyone can learn in about 3 minutes. However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
 #### HTML
 
@@ -149,7 +151,7 @@ Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu! wiki
 
 *For more information about HTML entities, see: [Entity - Glossary](https://developer.mozilla.org/en-US/docs/Glossary/Entity "MDN")*
 
-HTML character entites should almost never be used. If used however, prefer the character over the entity. For example:
+HTML character entities should almost never be used. If used however, prefer the character over the entity. For example:
 
 ```
 Do not: all this with more transparency&trade; than ever before!
@@ -199,7 +201,7 @@ Using multiple empty lines is not allowed in the osu! wiki, as it is parsed as i
 
 ---
 
-<!-- ppy ruled single line sentences are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
+<!-- ppy ruled multi-line paragraphs are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
 If an empty line is not present between two lines, the two lines will merge into one. For example:
 
@@ -208,7 +210,7 @@ Skinning allows anyone to change the way osu! looks and feels.
 This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 ```
 
-Not using an empty line between two lines with text is not allowed in the osu! wiki.
+Placing two or more sentences underneath one another without an empty line in between is not allowed in the osu! wiki.
 
 #### Whitespace
 
@@ -266,7 +268,7 @@ A notice can be placed where appropriate in a section, but must start off the pa
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
-"Note" should be used for trivial, factual details, or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. Warning should be used to warn the reader that action may be taken against them.
+"Note" should be used for trivial, factual details, or reminders. "Notice" should be used for attention, something that the reader should be made aware of. "Caution" should be used to warn the reader to avoid unintended consequences. "Warning" should be used to warn the reader that action may be taken against them.
 
 #### Notice to
 
@@ -295,7 +297,7 @@ Use bold when you need to caution or note something's importance. When bolding, 
 
 #### Italics
 
-<!-- Ephemeral ruled not to italise osu! in:#osu-wiki from:ephemeralis#0001 during:2018-02-11  anymore -->
+<!-- Ephemeral ruled not to italise "osu!". in:#osu-wiki from:ephemeralis#0001 during:2018-02-11 anymore -->
 
 Use italics only when naming a video game or the name of a work. osu!, the game, is exempt from this. Prefer single asterisks (`*`) over single underscores (`_`).
 
@@ -317,13 +319,13 @@ For English article titles, if you need to reword the title, you must rename the
 
 #### Sections
 
-All section headings are to be using levels 2 to 5, never use level 6. Section headings are to use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
+All section headings must use levels 2 to 5, never level 6. Section headings must use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
-In the osu! wiki, heading levels 4 and 5 (and 6) do not appear in the table of contents and are not given the id attribute (this means you cannot link directly to these headings).
+In the osu! wiki, heading levels 4 and above do not appear in the table of contents and are not given the id attribute (this means you cannot link directly to these headings).
 
 ### Lists
 
-There are two kinds of lists: bulleted and numbered. The prefixed spacing for both types of bullets is important. Limit to 4 indentations/sub-bullets.
+There are two kinds of lists: bulleted and numbered. The prefixed spacing for both types of bullets is important. Avoid going over 4 levels of indentation.
 
 #### Bulleted
 
@@ -354,7 +356,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 
 When doing this, use capital letters for single characters and title case for modifiers. Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes).
 
-Due to styling issues with the website, when writing the space character, use `` `Space` `` instead of `` ` ` ``.
+Due to styling issues with the website, never use `` ` ` ``.
 
 #### Button and menu text
 
@@ -406,7 +408,7 @@ When copying the name of a chat channel, start it with a hash (`#`), followed by
 
 ### Code blocks
 
-It is preferred to use the triple grave marks instead of the four prefixed spaces. As of now, the osu! wiki, does not support syntax highlighting.
+It is preferred to use the triple grave marks instead of the four prefixed spaces. As of now, the osu! wiki does not support syntax highlighting.
 
 ### Links
 
@@ -486,8 +488,8 @@ Whenever possible, with exception, use the current user's name instead of their 
 
 To get a user's id:
 
-1. Open a web browser and in the address bar, go to `https://osu.ppy.sh/users/` followed by the username.
-1. Once the page loads, the website will convert the username to an id.
+1. Go to `https://osu.ppy.sh/users/` followed by the username.
+2. Once the page loads, the website will convert the username to an id.
 
 ##### Beatmaps
 
@@ -593,9 +595,9 @@ The osu! wiki will give every image a max-width, being the width of the article 
 
 #### Annotating images
 
-When annotating images, use the *Exo 2 light* font. For Chinese, Korean, Japanese characters, use the *Microsoft YaHei*.
+When annotating images, use *Exo 2 light*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
 
-Try to limit writing text in images, as it is difficult for translators (and other editors besides you) to edit them.
+Try to limit writing text in images, as it is difficult for translators (and other editors) to edit them.
 
 ##### Translating annotated images
 
@@ -721,7 +723,7 @@ For example, use:
 
 ### osu!
 
-The name of the game, osu!, is never capitalised nor italicised. The osu! official branding are to not use any spaces. Examples include:
+The name of the game, osu!, is never capitalised nor italicised. The osu! official branding must not use any spaces. Examples include:
 
 - `osu!academy`
 - `osu!api`
@@ -758,7 +760,7 @@ Avoid: peppy created osu!.
 Do:    osu! was created by peppy.
 ```
 
-Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (never use `osu!!`). You will need to restructure the sentence or the pargraph to ensure that this will never occur.
+Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (i.e. `osu!!`). You will need to restructure the sentence or the pargraph to ensure that this will never occur.
 
 ### Capitalisation
 
@@ -767,14 +769,14 @@ Never end a sentence with `osu!` and have it followed by an exclamation mark (`!
 When writing about a topic that has an article, never capitalise it unless it is a link (with exceptions, e.g. BanchoBot). For example:
 
 ```md
-The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (internet relay chat). The chat console is located in the game client.
+The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
 ```
 
 #### Game modifiers
 
-Game modifiers must be spelt as seen below (note the letter casing and spacing):
+Game modifiers should have the word `mod` after the mod name to reduce ambiguity. These must be spelt as seen below (note the letter casing and spacing):
 
-- `Easy Mode`, `Easy`, or `EZ`
+- `Easy` or `EZ`
 - `No Fail` or `NF`
 - `Half Time` or `HT`
 - `Daycore` or `DC`
@@ -787,20 +789,24 @@ Game modifiers must be spelt as seen below (note the letter casing and spacing):
 - `Hidden` or `HD`
 - `Flashlight` or `FL`
 - `Relax` or `RL`
-- `Auto Pilot` or `AP`
+- `Autopilot` or `AP`
 - `Target Practice` or `TP`
 - `Spun Out` or `SO`
 - `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K`, and `9K`
+  - If referring to the key mods collectively, use `xK`.
 - `Co-op` or `CO`
 - `Random` or `RD`
 - `Auto` or `AT`
 - `Cinema` or `CM`
 - `Touch Device` or `TD`
 
+---
+
 Tournament articles are an exception to this and can use camel case (omit the space but keep their letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below:
 
 - `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
 - `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
+- `Tiebreaker`
 
 #### Gameplay elements
 
@@ -844,7 +850,9 @@ Never use the trademark nor registered trademark symbols with trademarks.
 
 ### Game modes
 
-When writing the name of the game modes, they are to be written as follows:
+<!-- ppy ruled to keep using osu!standard until a new term. in:#osu-wiki from:ppy#0001 during:2017-07-12 osu!standard -->
+
+When writing the name of the game modes, they must be written as follows:
 
 - `osu!standard` (unofficial, but used to prevent ambiguity)
 - `osu!taiko`
@@ -859,17 +867,18 @@ You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, a
 
 These words are spelt as follows (note the spacing):
 
-- `hit circles`
 - `approach circles`
+- `game mode` (or `mode`)
+- `game mod` (or `mod`)
+- `gameplay`
+- `hit burst`
+- `hit circles`
+- `hit sounds`
+- `in-game`
+- `play style`
 - `slider ticks`
 - `slider ball`
 - `slider path`
-- `hit burst`
-- `game mode` (or `mode`)
-- `game mod` (or `mod`)
-- `play style`
-- `gameplay`
-- `in-game`
 
 ---
 
