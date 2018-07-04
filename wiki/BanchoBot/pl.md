@@ -1,20 +1,20 @@
 # BanchoBot
 
-![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
+![Panel użytkownika BanchoBota](img/BanchoBot.jpg "Panel użytkownika BanchoBota")
 
-BanchoBot is a bot (i.e. a set of commands with automated responses) that assists people in chat by displaying certain information and announcing game-related messages. It has been programmed by [Echo49](/users/431) and is the host of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](/users/3) and [Twitter account](https://twitter.com/banchoboat)!
+BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), który pomaga użytkownikom czatu poprzez wyświetlanie określonych informacji i komunikatów związanych z grą. Został on zaprogramowany przez [Echo49](/users/431) i jest hostem [serwera Bancho](/wiki/Internet_Relay_Chat). BanchoBot posiada także swój własny [profil osu!](/users/3) oraz [konto na Twitterze](https://twitter.com/banchoboat)!
 
-## Commands
+## Komendy
 
-*For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
+*Dla listy komend klienta gry, sprawdź artykuł: [Czat](/wiki/Chat_Console)*
 
-BanchoBot commands start with `!` followed by the command. These commands work in-game and in external IRC clients. They can be used in multiplayer chat channels and in BanchoBot's PM (private message) tab. If a normal user sends a BanchoBot command in a public chat channel, other users will not see it, but the response will be displayed in a private message from BanchoBot.
+Komendy BanchoBota składają się z komend poprzedzonych znakiem `!`. Działają one zarówno w grze jak i zewnętrznych klientach IRC. Komendy mogą zostać użyte na kanałach trybu wieloosobowego, jak i w zakładce z BanchoBotem. Jeżeli zwykły użytkownik użyje komendy BanchoBota na kanale publicznym, inni użytkownicy jej nie zobaczą, a odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
 
-You can also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
+Możesz także użyć komendy klienta gry `/bb`, aby otworzyć zakładkę z BanchoBotem i natychmiastowo wysłać komendę.
 
-*Notice: The `SEARCH` command is not included as it is not working.*
+*Ważne: Komenda `SEARCH` nie została uwzględniona, gdyż przestała działać.*
 
-*Note: The user argument is case-insensitive, as usernames are case-insensitive.*
+*Ważne: Na atrybut `użytkownik` nie ma wpływu wielkość liter.*
 
 ### HELP
 
@@ -22,11 +22,11 @@ You can also use the `/bb` in-game client command to automatically open a tab wi
 !HELP
 ```
 
-Shows a list of available BanchoBot commands.
+Wyświetla listę wszystkich dostępnych komend BanchoBota.
 
-#### Usage Example
+#### Przykład użycia
 
-*Notice: The `user` parameter for the `REPORT` command is missing.*
+*Ważne: Atrybut `user` dla komendy `REPORT` jest brakujący.*
 
 ```
 pippi: !help
@@ -43,12 +43,12 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 ### ROLL
 
 ```
-!ROLL <number>
+!ROLL <liczba>
 ```
 
-Draws a random number from 1 to the selected number (default is 100).
+Losuje liczbę od jednego do wybranego numeru (domyślnie jest to 100).
 
-#### Usage Example
+#### Przykład użycia
 
 ```
 pippi: !roll 1000
@@ -58,16 +58,16 @@ BanchoBot: pippi rolls 109 point(s)
 ### STATS
 
 ```
-!STATS <user>
+!STATS <użytkownik>
 ```
 
-Shows the entered user's stats. The resulting stats depend on the mode they are playing or last played.
+Wyświetla statystyki wybranego użytkownika z ostatnio granego trybu gry.
 
-*Note: BanchoBot will not tell you which game mode the stats came from.*
+*Ważne: BanchoBot nie poda informacji z jakiego trybu pochodzą statystyki.*
 
-*Notice: BanchoBot will respond with `User not found` if the user has never played a game, even if the user does exist.*
+*Ważne: BanchoBot wyświetli `User not found`, jeżeli użytkownik nie zagrał żadnej beatmapy, nawet jeśli posiada on własne konto.*
 
-#### Usage Examples
+#### Przykłady użycia
 
 ```
 pippi: !stats peppy
@@ -88,14 +88,14 @@ BanchoBot: Accuracy: 94.19%
 ### WHERE
 
 ```
-!WHERE <user>
+!WHERE <użytkownik>
 ```
 
-Shows the entered user's current location.
+Wyświetla obecną lokalizację wybranego użytkownika.
 
-*Note: This only shows the user's country.*
+*Ważne: Zostanie wyświetlony tylko kraj w którym obecnie mieszka użytkownik.*
 
-#### Usage Example
+#### Przykład użycia
 
 ```
 pippi: !where Ephemeral
@@ -105,13 +105,13 @@ BanchoBot: Ephemeral is in Australia
 ### FAQ
 
 ```
-!FAQ <entry>
+!FAQ <hasło>
 !FAQ list
 ```
 
-Shows the message of the entry. You can use the `list` argument to show all available entries. When a moderator uses this in a public channel, the response will be outputted to that channel. When normal users use this in a public channel, the response will be outputted through BanchoBot's PM.
+Wyświetla wiadomość przypisaną do hasła. Użycie atrybutu `list` spowoduje wyświetlenie się listy wszystkich dostępnych haseł. Jeżeli moderator użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona na tym kanale. Jeżeli zwykły użytkownik użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
 
-#### Usage Examples
+#### Przykłady użycia
 
 ```
 pippi: !faq peppy
@@ -128,19 +128,19 @@ Tama: ok
 
 ### REPORT
 
-*Notice: If you want to report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh) for moderator complaints.*
+*Ważne: Jeżeli chcesz zgłosić moderatora, wyślij wiadomość e-mail pod adres [support@ppy.sh](mailto:support@ppy.sh).*
 
-*Note: You can also use the user card to report a user.*
+*Ważne: Możesz także użyć panelu użytkownika, aby zgłosić innych.*
 
 ```
-!REPORT <user> <reason>
+!REPORT <użytkownik> <powód>
 ```
 
-*Notice: When entering the username, replace spaces with underscores (`_`).*
+*Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (`_`).*
 
-Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
+Wysyła zgłoszenie nadużycia do [moderatorów globalnych](/wiki/Global_Moderation_Team) i [moderatorów](/wiki/Language_Moderators).
 
-#### Usage Example
+#### Przykład użycia
 
 ```
 pippi: !report flyte spamming in #japanese
@@ -154,9 +154,9 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 !REQUEST list
 ```
 
-Shows a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
+Podaje łącze do najnowszej beatmapy, która wymaga modowania. Możesz użyć atrybutu `list`, aby otrzymać kilka łącz naraz. Kliknięcie na łącze spowoduje otworzenie się strony z beatmapą lub osu!direct, jeżeli posiadasz aktywny status donatora osu!.
 
-#### Usage Example
+#### Przykład użycia
 
 ```
 pippi: !request
