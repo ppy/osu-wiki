@@ -3,7 +3,7 @@ Torneios
 
 Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/community/forums/55)
 
-Copas do Mundo Oficiais
+Oficiais
 ----------------------
 
 Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/g/26).

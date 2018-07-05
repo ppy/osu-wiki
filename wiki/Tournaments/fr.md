@@ -3,7 +3,7 @@ Tournois
 
 Section dédiée aux tournois et/ou aux compétitions. [Lien vers le forum ici.](https://osu.ppy.sh/community/forums/55)
 
-Coupes du monde officielles
+Officielles
 ----------------------
 
 Tournois officiels organisés par l'équipe de management de tournoi

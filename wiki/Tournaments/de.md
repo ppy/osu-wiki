@@ -3,7 +3,7 @@ Turniere
 
 Dieser Bereich ist für alle Turniere bestimmt. [Klicken Sie auf hier](https://osu.ppy.sh/community/forums/55), um ins Forum zu gelangen.
 
-Offizielle Weltmeisterschaft
+Offizielle
 ----------------------
 
 Offizielle Turniere, die vom Turniermanagement veranstaltet werden.

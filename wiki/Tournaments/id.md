@@ -1,9 +1,9 @@
 Turnamen
 ===============
 
-Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum di sini.](https://osu.ppy.sh/community/forums/55)
+Bagian ini diperuntukkan untuk Turnamen osu!. Turnamen memiliki forum khusus yang dapat Anda temukan [melewati tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Turnamen Resmi Tingkat Dunia
+Turnamen Resmi
 --------------------------------------------------
 
 Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
