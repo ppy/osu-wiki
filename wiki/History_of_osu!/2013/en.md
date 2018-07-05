@@ -15,7 +15,7 @@ Links:
 
 ## February
 
-A new version of the osu!mania editor was being worked on. Taiko mode skinning now has a "metadata" bar (song title and artist below the playfield), taiko playfield was no longer transparent and fades in and out of kiai time. The original [FAQ](http://osu.ppy.sh/p/faq) has been superseded by the [osu!wiki](/wiki/FAQ).
+A new version of the osu!mania editor was being worked on. Taiko mode skinning now has a "metadata" bar (song title and artist below the playfield), taiko playfield was no longer transparent and fades in and out of kiai time. The original [FAQ](http://osu.ppy.sh/p/faq) has been superseded by the [osu! wiki](/wiki/FAQ).
 
 BanchoBot's `!faq` command has been open to public for [translation](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). The legendary [BanchoBot](/wiki/BanchoBot) finally has a [profile](/users/3)! The user panels display now adjusts to display four columns on all widescreen modes.
 
