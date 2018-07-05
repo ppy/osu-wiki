@@ -8,7 +8,7 @@ The dread moon rises once again as Halloween visits for another year. The night 
 
 ![](/wiki/shared/news/2017-10-31-halloween-descends/banner.jpg)
 
-**The mischievous spirit that possessed the _osu!_ game client last year has returned again!** Featuring the top ten voted picks from the absolutely outstanding showing from this year's [Halloween Fanart contest](https://osu.ppy.sh/community/contests/56), the main menu has received a brand new set of limited-time seasonal backgrounds, starring the osu! mascots in all of their spooky glory.
+**The mischievous spirit that possessed the osu! game client last year has returned again!** Featuring the top ten voted picks from the absolutely outstanding showing from this year's [Halloween Fanart contest](https://osu.ppy.sh/community/contests/56), the main menu has received a brand new set of limited-time seasonal backgrounds, starring the osu! mascots in all of their spooky glory.
 
 And boy, are some of them spooky.
 
@@ -56,11 +56,11 @@ Enjoying a moonlit jaunt, [Yoviry's](https://osu.ppy.sh/users/9930803) enigmatic
 
 And finally, with **4749** votes overall, [B4D0U](https://osu.ppy.sh/users/1725945)'s chibi Halloween cuteness wrapped it all up with a much-adored dash of sugary sweetness. And creative use of the cookie template, too!
 
-As with last year, this little client-makeover also features cYsmix's spectacularly spooky remix of the main _osu!_ theme, _pumpkins_.
+As with last year, this little client-makeover also features cYsmix's spectacularly spooky remix of the main osu! theme, _pumpkins_.
 
 <br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
 
-We're also delighted to share a special Halloween-themed piece from one of our favourite _osu!_ artists, [Anny](https://osu.ppy.sh/u/249094), which will also be appearing in the main-menu. Check it out!
+We're also delighted to share a special Halloween-themed piece from one of our favourite osu! artists, [Anny](https://osu.ppy.sh/u/249094), which will also be appearing in the main-menu. Check it out!
 
 <center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Halloween! 🎃 <a href="https://t.co/rG18x8gupy">pic.twitter.com/rG18x8gupy</a></p>— anny (@annytf) <a href="https://twitter.com/annytf/status/925187326933917696?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
@@ -69,12 +69,12 @@ We're also delighted to share a special Halloween-themed piece from one of our f
 
 _(You can get a full-size, high-quality version of the image from [Anny's DeviantArt!](https://anny-tta.deviantart.com/art/Pippi-and-Mocha-Happy-Halloween-712605738))_
 
-**Halloween is terrifying, so don't go at it alone! _osu!_ now supports inviting your friends to spectate and join your multiplayer games via [Discord](https://discordapp.com/).** The intrepid seers among us may have noticed this hitting the Cutting-Edge builds of the game earlier in the month, but now it's here for everyone to enjoy!
+**Halloween is terrifying, so don't go at it alone! osu! now supports inviting your friends to spectate and join your multiplayer games via [Discord](https://discordapp.com/).** The intrepid seers among us may have noticed this hitting the Cutting-Edge builds of the game earlier in the month, but now it's here for everyone to enjoy!
 
 How does it work? It's really simple:
 
 * **Update the game by opening the game client first!** This new fancy Discord business only works with the special Halloween version of the game and any newer builds going forward - it will **NOT** work at all if you do not do this.
-* Make sure Discord detects _osu!_ as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the ``App Settings -> Games`` tab of the Discord options menu.
+* Make sure Discord detects osu! as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the ``App Settings -> Games`` tab of the Discord options menu.
 * Turn on the *Display currently running game as status message* option in the ``Games`` tab.
 * Start any game of multiplayer, head on over to your local Discord haunt and click the shiny green button in front of the plus sign (![](/wiki/shared/news/2017-10-31-halloween-descends/rpc-button.png)). It may take a few seconds to appear if you've only just started a game.
 
@@ -88,7 +88,7 @@ See the whole process in action:
 </center>
 
 
-You can also click on any one of your friends on a shared server who is currently playing _osu!_, and see what they're up to, as well as ask to join - if they're playing multiplayer.
+You can also click on any one of your friends on a shared server who is currently playing osu!, and see what they're up to, as well as ask to join - if they're playing multiplayer.
 
 ![](/wiki/shared/news/2017-10-31-halloween-descends/user-display.png)
 

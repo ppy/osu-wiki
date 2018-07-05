@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! wiki 贡献指南
 
 感谢你有兴趣让 osu! wiki 变得更好！现在，为 osu! wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。

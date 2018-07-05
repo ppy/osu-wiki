@@ -74,7 +74,7 @@ Warming things up a little, [Fye](https://osu.ppy.sh/users/2362951)'s toasty dep
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/sylux6.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Sylux6.jpg)
 
-Enjoying a display of festive lights, [Sylux6](https://osu.ppy.sh/users/2607507)'s scintillating piece of pippi and Mocha lit up the hearts of **3,866** voters. Official _osu!_ Mocha-styled beanies, anyone?
+Enjoying a display of festive lights, [Sylux6](https://osu.ppy.sh/users/2607507)'s scintillating piece of pippi and Mocha lit up the hearts of **3,866** voters. Official osu! Mocha-styled beanies, anyone?
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/raynel.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Raynel.jpg)
 

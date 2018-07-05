@@ -64,6 +64,24 @@ WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be
 
 `WidescreenStoryboard: 0`
 
+StoryFireInFront (Boolean) specifies whether or not display the storyboard in front of combo fire.
+
+`StoryFireInFront: 0`
+
+SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
+
+`SpecialStyle: 0`
+
+EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning of the beatmap.
+
+`EpilepsyWarning: 0`
+
+UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's skin resources.
+
+[UseSkinSprites sample](https://osu.ppy.sh/beatmapsets/654033/#taiko/1386414)
+
+`UseSkinSprites: 0`
+
 Editor
 ------
 

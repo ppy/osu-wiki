@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # BanchoBot
 
 반초봇이란

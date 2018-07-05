@@ -76,7 +76,7 @@ The gameplay puts emphasis on:-
 - Physical stamina and mental fortitude (especially longer, marathon-type songs).
 - Proper positioning and hand-eye coordination.
 
-These are some of the vital skills to become an _osu! rhythm master_.
+These are some of the vital skills to become an _osu! rhythm champion_.
 
 The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
 
@@ -353,7 +353,7 @@ _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 - Smoke last longer than default in-game cursor trail.
   Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi][Mascots#pippi wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!_.
+- When played by [Auto][Auto wikilink], the player name will be osu!.
 
 ### History
 

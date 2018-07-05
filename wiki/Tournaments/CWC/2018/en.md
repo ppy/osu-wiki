@@ -50,6 +50,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/739799)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml)
 
 ------------------------------------------------------------------------
 
@@ -94,9 +95,144 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.png)
+
+------------------------------------------------------------------------
+
+## Match Schedule: Semifinals
+
+### Saturday, 07. July 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| China       | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
+| France      | ![][flag_FR] | ![][flag_ID] | Indonesia   | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 | ² |
+
+### Sunday, 08. July 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| China       | ![][flag_CN] | ![][flag_FR] | France        | **12:00 UTC**  | 20:00 UTC+08 | 14:00 UTC+02 | ³ |
+| China       | ![][flag_CN] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 20:00 UTC+08 | 19:00 UTC+02 | ³ | 
+| South Korea | ![][flag_KR] | ![][flag_FR] | France        | **12:00 UTC**  | 21:00 UTC+09 | 14:00 UTC+07 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
+| Chile       | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC**  | 15:00 UTC-04 | 12:00 UTC-07 | ¹ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
+
+------------------------------------------------------------------------
+
 ## Mappools
 
+### Finals
+
+- NoMod
+  - [USAO - Boss Rush \(Minato Yukina\) \[MAXIMUM\]](http://osu.ppy.sh/b/1272534&m=2)
+  - [Morimori Atsushi - Paradigm Shift \(Emiru\) \[Quantum Fluctuation\]](http://osu.ppy.sh/b/1536733&m=2)
+  - [xi - Akasha \(Yumeno Himiko\) \[Deluge\]](http://osu.ppy.sh/b/1627017&m=2)
+  - [YuFu - Holy Moon \(Kuzino\) \[4Q\]](http://osu.ppy.sh/b/112852&m=2)
+  - [DJ TOTTO feat. Sunao Yoshikawa - Arousing \(fanzhen0019\) \[HW's Extra\]](http://osu.ppy.sh/b/368845&m=2)
+  - [Panda Eyes & Teminite - Highscore \(Fort\) \[Game Over\]](http://osu.ppy.sh/b/736215&m=2)
+- Hidden
+  - [Memme - Goat Fantasia \(Spectator\) \[Overdose\]](http://osu.ppy.sh/b/1346273&m=2)
+  - [kanonxkanon - Calendula Requiem \(F D Flourite\) \[Lycoris Radiata\]](http://osu.ppy.sh/b/1371644&m=2)
+  - [Mitsuki - climactic cry \(Mythol\) \[RLQuillab2013\]](http://osu.ppy.sh/b/362297&m=2)
+- HardRock
+  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[Deif's Papaya\]](http://osu.ppy.sh/b/1335618&m=2)
+  - [KASAI HARCORES - Cycle Hit \(Spectator\) \[Grand Slam\]](http://osu.ppy.sh/b/1465042&m=2)
+  - [Megpoid GUMI - Cosmos \(val0108\) \[Cosmos\]](http://osu.ppy.sh/b/123374&m=2)
+- DoubleTime
+  - [Sayaka Sasaki - Zzz \(Spectator\) \[Lullaby\]](http://osu.ppy.sh/b/446794&m=2)
+  - [nanobii - HYPERDRIVE \(Ascendance\) \[Overdose\]](http://osu.ppy.sh/b/1357221&m=2)
+  - [WALKUERE - Ikenai Borderline \(Rizia\) \[Insane\]](http://osu.ppy.sh/b/975036&m=2)
+- Tiebreaker
+  - [BlackYooh vs. siromaru - BLACK or WHITE? \(Minato Yukina\) \[Final Showdown\]](http://osu.ppy.sh/b/1324298&m=2)
+
+### SemiFinals
+
+**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
+
+- NoMod
+  - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](http://osu.ppy.sh/b/1556545&m=2)
+  - [LeaF - Alice in Misanthrope -Ensei Alice- \(Deif\) \[Wonderland\]](http://osu.ppy.sh/b/1674302&m=2)
+  - [Cres - End Time \(Intensity\) \[Steven\]](http://osu.ppy.sh/b/883356&m=2)
+  - [AKI AKANE - Hankyou no Barrier Seed \(Spectator\) \[Alone\]](http://osu.ppy.sh/b/1594657&m=2)
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- \(Realazy\) \[Achromatic\]](http://osu.ppy.sh/b/1477241&m=2)
+  - [GARNiDELiA - Gokuraku Jodo \(Vert\) \[Zweib's Expert\]](http://osu.ppy.sh/b/1043223&m=2)
+- Hidden
+  - [Nekomata Gekidan - AsiaN distractive \(Yumeno Himiko\) \[Overdose\]](http://osu.ppy.sh/b/1390877&m=2)
+  - [YUI - again \(Crowley\) \[brotherhood\]](http://osu.ppy.sh/b/1552359&m=2)
+  - [monet - Noborenai Sakamichi \(Mirash\) \[Delis' Insane\]](http://osu.ppy.sh/b/1419974&m=2)
+- HardRock
+  - [sak respect for Arata Iiyoshi - Reason of being \(rew0825\) \[Reason\]](http://osu.ppy.sh/b/1573224&m=2)
+  - [Roselia - LOUDER \(scanter\) \[Crystal's Captivation\]](http://osu.ppy.sh/b/1270272&m=2)
+  - [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[wkyik's Extra\]](http://osu.ppy.sh/b/799724&m=2)
+- DoubleTime
+  - [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](http://osu.ppy.sh/b/1036560&m=2)
+  - [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](http://osu.ppy.sh/b/160002&m=2)
+  - [Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]](http://osu.ppy.sh/b/1049378&m=2)
+- Tiebreaker
+  - [Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](http://osu.ppy.sh/b/1570019&m=2)
+
+### QuarterFinals
+
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
+
+- NoMod
+  - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](http://osu.ppy.sh/b/1539487&m=2)
+  - [REOL - Yoiyoi Kokon \(Yumeno Himiko\) \[Overdose\]](http://osu.ppy.sh/b/1432753&m=2)
+  - [xi - .357 Magnum \(Crowley\) \[Filibusterismo.\]](http://osu.ppy.sh/b/1545661&m=2)
+  - [Aimer with chelly \(EGOIST\) - ninelie \(REDSHiFT x Vesuvia Remix\) \(-Luminate\) \[Daybreak\]](http://osu.ppy.sh/b/1391955&m=2)
+  - [DECO\*27 - Reversible Campaign \(tutuhaha\) \[Extra\]](http://osu.ppy.sh/b/1300151&m=2)
+  - [himmeltengoku - Whisper of Rose \(Tsukuyomi\) \[Maximum\]](http://osu.ppy.sh/b/419487&m=2)
+- Hidden
+  - [Hatsuki Yura - Saramandora no Odoriko \(F D Flourite\) \[Flamenco Dance\]](http://osu.ppy.sh/b/1524083&m=2)
+  - [M2U - Stellar \(Spectator\) \[Alice\]](http://osu.ppy.sh/b/1481269&m=2)
+  - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](http://osu.ppy.sh/b/1353404&m=2)
+- HardRock
+  - [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](http://osu.ppy.sh/b/1450886&m=2)
+  - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](http://osu.ppy.sh/b/1624766&m=2)
+  - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](http://osu.ppy.sh/b/205282&m=2)
+- DoubleTime
+  - [u's - Snow halation \(Hinsvar\) \[Vhy's Platter\]](http://osu.ppy.sh/b/515242&m=2)
+  - [Toraboruta - Soleil \(Noffy\) \[Wild's Rain\]](http://osu.ppy.sh/b/992848&m=2)
+  - [SHISHAMO - Egao no Tonari \(Zero\_\_wind\) \[Smile\]](http://osu.ppy.sh/b/938481&m=2)
+- Tiebreaker
+  - [Camellia - d:for the DELTA \(Minato Yukina\) \[Dereliction\]](http://osu.ppy.sh/b/1221505&m=2)
+
+### Round of 16
+
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
+
+- NoMod
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](http://osu.ppy.sh/b/1599347&m=2)
+  - [Mili - Vulnerability \(Benny-\) \[Frail\]](http://osu.ppy.sh/b/1494074&m=2)
+  - [sana - Packet Hero \(celerih\) \[Rain\]](http://osu.ppy.sh/b/1469957&m=2)
+  - [EYE XY feat. Yoneko - Knight of Firmament \(The Chevalier\) \(Spectator\) \[Overdose\]](http://osu.ppy.sh/b/1498888&m=2)
+  - [Fractal Dreamers - Paradigm Shift \(appleeaterx\) \[Expert\]](http://osu.ppy.sh/b/1513623&m=2)
+  - [Nakashinoda Mugi - Senjou no Aria \(Okorin\) \[Extra Stage\]](http://osu.ppy.sh/b/859696&m=2)
+- Hidden
+  - [Akiyama Uni - Kaoru Juyouka \(murutattack\) \[Evanent's Rain\]](http://osu.ppy.sh/b/1119599&m=2)
+  - [Warak - REANIMATE \(- Magic Bomb -\) \[Hyperion's Rain\]](http://osu.ppy.sh/b/1042701&m=2)
+  - [96Neko x KurousaP - Kagen no Tsuki \(jonathanlfj\) \[Insane\]](http://osu.ppy.sh/b/940295&m=2)
+- HardRock
+  - [Eisyo-kobu - Oriental Blossom \(Spectator\) \[Himiko's Rain\]](http://osu.ppy.sh/b/1588595&m=2)
+  - [Suzuki Konomi - Redo \(Neoskylove\) \[tasuke's Rain\]](http://osu.ppy.sh/b/1185455&m=2)
+  - [Hanatan - Shiwa \(Ami\) \[Insane\]](http://osu.ppy.sh/b/329967&m=2)
+- DoubleTime
+  - [Kikuo - And Then You Became The Moon \(ZiRoX\) \[Platter\]](http://osu.ppy.sh/b/777823&m=2)
+  - [Memme - Force of Ra \(Deif\) \[Platter\]](http://osu.ppy.sh/b/1214850&m=2)
+  - [EastNewSound - Yuune Zekka, Ryouran no Sai \(goodbye\) \[Insane\]](http://osu.ppy.sh/b/128163&m=2)
+- Tiebreaker
+  - [Rita - Bookmark Memories \(F D Flourite\) \[Love\]](http://osu.ppy.sh/b/1645428&m=2)
+
 ### Group Stage
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](http://osu.ppy.sh/b/1439325&m=2)
@@ -105,86 +241,125 @@ The osu!catch World Cup 2018 is run by various community members by distributing
   - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](http://osu.ppy.sh/b/771881&m=2)
   - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](http://osu.ppy.sh/b/111302&m=2)
   - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](http://osu.ppy.sh/b/846259&m=2)
-  
 - Hidden
   - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](http://osu.ppy.sh/b/1448086&m=2)
   - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](http://osu.ppy.sh/b/937653&m=2)
   - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](http://osu.ppy.sh/b/495543&m=2)
-  
 - HardRock
   - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](http://osu.ppy.sh/b/1154583&m=2)
   - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](http://osu.ppy.sh/b/899608&m=2)
-  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)
-  
+  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](http://osu.ppy.sh/b/264701&m=2)  
 - DoubleTime
   - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](http://osu.ppy.sh/b/1533955&m=2)
   - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](http://osu.ppy.sh/b/717056&m=2)
   - [Zac Efron - Scream \(pishifat\) \[ahh\]](http://osu.ppy.sh/b/713932&m=2)
-  
 - Tiebreaker
   - [Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](http://osu.ppy.sh/b/1216211&m=2)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Results
 
-### Saturday, 9. June 2018
+### SemiFinals
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Austria            | ![][flag_AT] | ![][flag_JP] | Japan              | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Denmark            | ![][flag_DK] | ![][flag_TH] | Thailand           | **12:00 UTC** | 14:00 UTC+02 | 19:00 UTC+07 |
-| Philippines        | ![][flag_PH] | ![][flag_CN] | China              | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
-| France             | ![][flag_FR] | ![][flag_TW] | Taiwan             | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
-| Singapore          | ![][flag_SG] | ![][flag_HK] | Hong Kong          | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Malaysia           | ![][flag_MY] | ![][flag_IT] | Italy              | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Denmark            | ![][flag_DK] | ![][flag_ID] | Indonesia          | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
-| Hungary            | ![][flag_HU] | ![][flag_TW] | Taiwan             | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
-| Singapore          | ![][flag_SG] | ![][flag_VN] | Vietnam            | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 |
-| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile              | **14:00 UTC** | 19:00 UTC+05 | 10:00 UTC-04 |
-| Thailand           | ![][flag_TH] | ![][flag_FI] | Finland            | **14:00 UTC** | 21:00 UTC+07 | 17:00 UTC+03 |
-| Vietnam            | ![][flag_VN] | ![][flag_HK] | Hong Kong          | **15:00 UTC** | 22:00 UTC+07 | 23:00 UTC+08 |
-| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway             | **15:00 UTC** | 20:00 UTC+05 | 17:00 UTC+02 |
-| Hungary            | ![][flag_HU] | ![][flag_FR] | France             | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Colombia           | ![][flag_CO] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 12:00 UTC-05 | 22:00 UTC+05 |
-| Norway             | ![][flag_NO] | ![][flag_CL] | Chile              | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
-| Canada             | ![][flag_CA] | ![][flag_FR] | France             | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
-| Argentina          | ![][flag_AR] | ![][flag_US] | United States      | **18:00 UTC** | 15:00 UTC-03 | 11:00 UTC-07 |
-| Denmark            | ![][flag_DK] | ![][flag_FI] | Finland            | **18:00 UTC** | 20:00 UTC+02 | 21:00 UTC+03 |
-| Hungary            | ![][flag_HU] | ![][flag_CA] | Canada             | **19:00 UTC** | 21:00 UTC+02 | 15:00 UTC-04 |
-| Colombia           | ![][flag_CO] | ![][flag_CL] | Chile              | **19:00 UTC** | 14:00 UTC-05 | 15:00 UTC-04 |
+| Saturday, 2018-06-30 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 3 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43767078) |
+| Mexico ![][flag_ME] | 2 | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43768481) |
+| Netherlands ![][flag_NL] | 1 | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43779290) |
+| Poland ![][flag_PL] | 3 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43781683) |
 
-### Sunday, 10. June 2018
+| Saturday, 2018-07-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![][flag_FR] | 6 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43801047) |
+| China ![][flag_CN] | 6 | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43804340) |
+| France ![][flag_FR] | 6 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43806191) |
+| Indonesia ![][flag_ID] | 5 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43808202) |
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Brazil             | ![][flag_BR] | ![][flag_AU] | Australia          | **2:00 UTC**  | 23:00 (Sat) UTC-03 | 12:00 UTC+10       |
-| Mexico             | ![][flag_MX] | ![][flag_HK] | Hong Kong          | **2:00 UTC**  | 21:00 (Sat) UTC-05 | 10:00 UTC+08       |
-| Canada             | ![][flag_CA] | ![][flag_TW] | Taiwan             | **3:00 UTC**  | 23:00 (Sat) UTC-04 | 11:00 UTC+08       |
-| Singapore          | ![][flag_SG] | ![][flag_MX] | Mexico             | **3:00 UTC**  | 11:00 UTC+08       | 22:00 (Sat) UTC-05 |
-| Vietnam            | ![][flag_VN] | ![][flag_MX] | Mexico             | **4:00 UTC**  | 11:00 UTC+07       | 23:00 (Sat) UTC-05 |
-| Japan              | ![][flag_JP] | ![][flag_PH] | Philippines        | **10:00 UTC** | 19:00 UTC+09       | 18:00 UTC+08       |
-| Poland             | ![][flag_PL] | ![][flag_KR] | South Korea        | **10:00 UTC** | 12:00 UTC+02       | 19:00 UTC+09       |
-| Australia          | ![][flag_AU] | ![][flag_DE] | Germany            | **11:00 UTC** | 21:00 UTC+10       | 13:00 UTC+02       |
-| Japan              | ![][flag_JP] | ![][flag_CN] | China              | **11:00 UTC** | 20:00 UTC+09       | 19:00 UTC+08       |
-| Austria            | ![][flag_AT] | ![][flag_PH] | Philippines        | **11:00 UTC** | 13:00 UTC+02       | 19:00 UTC+08       |
-| Sweden             | ![][flag_SE] | ![][flag_AU] | Australia          | **12:00 UTC** | 14:00 UTC+02       | 22:00 UTC+10       |
-| Malaysia           | ![][flag_MY] | ![][flag_KR] | South Korea        | **12:00 UTC** | 20:00 UTC+08       | 21:00 UTC+09       |
-| Finland            | ![][flag_FI] | ![][flag_ID] | Indonesia          | **12:00 UTC** | 15:00 UTC+03       | 19:00 UTC+07       |
-| Austria            | ![][flag_AT] | ![][flag_CN] | China              | **13:00 UTC** | 15:00 UTC+02       | 21:00 UTC+08       |
-| Malaysia           | ![][flag_MY] | ![][flag_PL] | Poland             | **13:00 UTC** | 21:00 UTC+08       | 15:00 UTC+02       |
-| Italy              | ![][flag_IT] | ![][flag_KR] | South Korea        | **13:00 UTC** | 15:00 UTC+02       | 22:00 UTC+09       |
-| Portugal           | ![][flag_PT] | ![][flag_NL] | Netherlands        | **14:00 UTC** | 15:00 UTC+01       | 16:00 UTC+02       |
-| Thailand           | ![][flag_TH] | ![][flag_ID] | Indonesia          | **14:00 UTC** | 21:00 UTC+07       | 21:00 UTC+07       |
-| Brazil             | ![][flag_BR] | ![][flag_SE] | Sweden             | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
-| Portugal           | ![][flag_PT] | ![][flag_US] | United States      | **17:00 UTC** | 18:00 UTC+01       | 10:00 UTC-07       |
-| Argentina          | ![][flag_AR] | ![][flag_NL] | Netherlands        | **17:00 UTC** | 14:00 UTC-03       | 19:00 UTC+02       |
-| Brazil             | ![][flag_BR] | ![][flag_DE] | Germany            | **18:00 UTC** | 15:00 UTC-03       | 20:00 UTC+02       |
-| Italy              | ![][flag_IT] | ![][flag_PL] | Poland             | **18:00 UTC** | 20:00 UTC+02       | 20:00 UTC+02       |
-| Colombia           | ![][flag_CO] | ![][flag_NO] | Norway             | **18:00 UTC** | 13:00 UTC-05       | 20:00 UTC+02       |
-| Sweden             | ![][flag_SE] | ![][flag_DE] | Germany            | **19:00 UTC** | 21:00 UTC+02       | 21:00 UTC+02       |
-| Portugal           | ![][flag_PT] | ![][flag_AR] | Argentina          | **19:00 UTC** | 20:00 UTC+01       | 16:00 UTC-03       |
-| Netherlands        | ![][flag_NL] | ![][flag_US] | United States      | **19:00 UTC** | 21:00 UTC+02       | 12:00 UTC-07       |
+### QuarterFinals
+
+| Saturday, 2018-06-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Germany ![][flag_DE] | 3 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43586102) |
+| Indonesia ![][flag_ID] | 5 | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43587773) |
+| Poland ![][flag_PL] | 5 | 0 | ![][flag_SE] Sweden | -Win by default- |
+| Mexico ![][flag_MX] | 5 | 0 | ![][flag_FI] Finland | -Win by default- |
+
+| Sunday, 2018-06-24 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Netherlands ![][flag_NL] | 5 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43616653) |
+| China ![][flag_CN] | 4 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43617828) |
+| Chile ![][flag_CL] | 5 | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43619288) |
+| France ![][flag_FR] | 5 | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43620718) |
+
+### Round of 16
+
+| Sunday, 2018-06-17 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![][flag_CL] | 5 | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43409482) |
+| South Korea ![][flag_KR] | 5 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43410578) |
+| France ![][flag_FR] | 3 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43417766) |
+| Norway ![][flag_NO] | 2 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43419190) |
+| Taiwan ![][flag_TW] | 5 | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43420479) |
+| Poland ![][flag_PL] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43421992) |
+| Germany ![][flag_DE] | 5 | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43429726) |
+| Sweden ![][flag_SE] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43431438) |
+
+### Group Stage
+
+| Saturday, 2018-06-09 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Austria ![][flag_AT] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43191122) |
+| Denmark ![][flag_DK] | 4 | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/43191124) |
+| Philippines ![][flag_PH] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43191119) |
+| France ![][flag_FR] | 3 | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43192690) |
+| Singapore ![][flag_SG] | 0 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43192708) |
+| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/43192715) |
+| Denmark ![][flag_DK] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43192737) |
+| Hungary ![][flag_HU] | 0 | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43194294) |
+| Singapore ![][flag_SG] | 4 | 3 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/43194398) |
+| Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43194365) |
+| Thailand ![][flag_TH] | 0 | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43194376) |
+| Vietnam ![][flag_VN] | 1 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43196372) |
+| Russian Federation ![][flag_RU] | 3 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43196368) |
+| Hungary ![][flag_HU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/43199750) |
+| Colombia ![][flag_CO] | 1 | 4 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/43199790) |
+| Norway ![][flag_NO] | 2 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43199854) |
+| Canada ![][flag_CA] | 2 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/43201876) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43201717) |
+| Denmark ![][flag_DK] | 1 | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/43201686) |
+| Hungary ![][flag_HU] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/43203691) |
+| Colombia ![][flag_CO] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43203741) |
+
+| Sunday, 2018-06-10 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Brazil ![][flag_BR] | 0 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/43214536) |
+| Mexico ![][flag_MX] | 2 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43214539) |
+| Canada ![][flag_CA] | 3 | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43215581) |
+| Singapore ![][flag_SG] | 0 | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43215587) |
+| Vietnam ![][flag_VN] | 3 | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43216775) |
+| Japan ![][flag_JP] | 4 | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/43222511) |
+| Poland ![][flag_PL] | 2 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43222518) |
+| Australia ![][flag_AU] | 2 | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43224495) |
+| Japan ![][flag_JP] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43223776) |
+| Austria ![][flag_AT] | 0 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/43223822) |
+| Sweden ![][flag_SE] | 4 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/43225043) |
+| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43225064) |
+| Finland ![][flag_FI] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43225072) |
+| Austria ![][flag_AT] | 0 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43226599) |
+| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/43226609) |
+| Italy ![][flag_IT] | 1 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43226765) |
+| Portugal ![][flag_PT] | 0 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43228029) |
+| Thailand ![][flag_TH] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43228008) |
+| Brazil ![][flag_BR] | 3 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/43233285) |
+| Portugal ![][flag_PT] | 1 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43233278) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43233291) |
+| Brazil ![][flag_BR] | 0 | 4 | ![][flag_DE] Germany | -Win by default- |
+| Italy ![][flag_IT] | 1 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/43235107) |
+| Colombia ![][flag_CO] | 0 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/43235120) |
+| Sweden ![][flag_SE] | 3 | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43236583) |
+| Portugal ![][flag_PT] | 1 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/43236588) |
+| Netherlands ![][flag_NL] | 2 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/43236591) |
 
 ------------------------------------------------------------------------
 
