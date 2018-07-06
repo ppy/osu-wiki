@@ -99,7 +99,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
 ### Saturday, 07. July 2018
 
@@ -113,8 +113,8 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | China       | ![][flag_CN] | ![][flag_FR] | France        | **12:00 UTC**  | 20:00 UTC+08 | 14:00 UTC+02 | ³ |
-| China       | ![][flag_CN] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 20:00 UTC+08 | 19:00 UTC+02 | ³ | 
-| South Korea | ![][flag_KR] | ![][flag_FR] | France        | **12:00 UTC**  | 21:00 UTC+09 | 14:00 UTC+07 | ³ |
+| China       | ![][flag_CN] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 20:00 UTC+08 | 19:00 UTC+07 | ³ | 
+| South Korea | ![][flag_KR] | ![][flag_FR] | France        | **12:00 UTC**  | 21:00 UTC+09 | 14:00 UTC+02 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
 | Chile       | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC**  | 15:00 UTC-04 | 12:00 UTC-07 | ¹ |
 
