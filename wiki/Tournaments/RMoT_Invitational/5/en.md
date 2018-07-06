@@ -1,11 +1,10 @@
 # Rapid Monthly osu! Tournament Invitational 5
 
-The Rapid Monthly osu! Tournament Invitational \#5 is a tournament organized and run by the Rapid Tournaments team.
-It is an exclusive tournament where only players who have reached semi-finals in one of the last four RMoT's get invited.
+The Rapid Monthly osu! Tournament Invitational \#5 is a tournament organised and run by the Rapid Tournaments team. It is an exclusive tournament where only players who have reached semi-finals in one of the last four RMoT's get invited.
 
 The tournament brackets can be found on the [Challonge page](https://challonge.com/rmotinvitational5). Most of the information here complies with the [forum post](/community/forums/topics/741126).
 
-![][flag_FR] [Prosdokies](/users/3852436 "Prosdokies") won the fifth Invitational, beating ![][flag_RU] [Well Halen](/users/8660244 "Well Halen") in the Grand Finals
+![][flag_FR] [Prosdokies](/users/3852436 "Prosdokies") won the fifth Invitational, beating ![][flag_RU] [Well Halen](/users/8660244 "Well Halen") in the Grand Finals.
 
 ## Schedule
 
@@ -35,7 +34,7 @@ This RMoT Invitational was held over three weekends.
 
 ## Prizes
 
-The prizes are handed out in the form of **points**; every 48 points can be redeemed for a month of osu!supporter.
+The prizes are handed out in the form of **points**; every 48 points can be redeemed for a month of osu!supporter. The winner also recieved a profile badge.
 
 | Placing       | Prize                     |
 | ------------: | :------------------------ |
@@ -76,7 +75,7 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 - ![][flag_RU] [Well Halen](/users/8660244 "Well Halen")
 - ![][flag_UA] [Xelite](/users/7793117 "Xelite")
 
-**Notice:** Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament: filler players.
+*Notice: Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament: filler players.*
 
 The filler players are chosen according to a few criteria in the following priority:
 
@@ -111,7 +110,7 @@ The filler players are chosen according to a few criteria in the following prior
 
 There is only one mappool for all matches, made of beatmaps from the last four RMoT mappools. There are six tiebreaker beatmaps, one for each stage. Every tiebreaker from the last four RMoT's and two new beatmaps are picked for tiebreaker.
 
-[Download the mappack here!](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)
+**[Download the mappack here! (182.04 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)**
 
 - NoMod
   - [BTS - FIRE (Nathan) [apple's Insane]](/beatmaps/1068523)
