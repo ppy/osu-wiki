@@ -265,7 +265,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 | Saturday, 2018-06-30 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | South Korea ![][flag_KR] | 3 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/43767078) |
-| Mexico ![][flag_ME] | 2 | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43768481) |
+| Mexico ![][flag_MX] | 2 | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43768481) |
 | Netherlands ![][flag_NL] | 1 | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/43779290) |
 | Poland ![][flag_PL] | 3 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43781683) |
 
