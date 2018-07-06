@@ -85,13 +85,13 @@ Jangan khawatir, laporan palsu akan diabaikan kecuali disalahgunakan.
 Pelaporan sekali saja sudah cukup, tetapi anda dapat melaporkan beberapa kali di siang hari.
 Dua atau tiga kali seharusnya baik-baik saja.
 
-Anda dapat melaporkan kanal yang mengatakan bahwa beberapa pemain menyebabkan masalah, atau buat daftar untuk setiap orang.
+Anda dapat melaporkan channel yang mengatakan bahwa beberapa pemain menyebabkan masalah, atau buat daftar untuk setiap orang.
 
 ### Apakah ini termasuk pesan pribadi?
 
 Sebagian besar masalah pada pesan pribadi seperti penghinaan tidak akan ditangani.
 
-Pengguna dapat menggunakan sistem abaikan untuk menghindari pesan apa pun yang dikirim oleh pengguna termasuk pesan di kanal.
+Pengguna dapat menggunakan sistem abaikan untuk menghindari pesan apa pun yang dikirim oleh pengguna termasuk pesan di channel.
 
 **Catatan:** Daftar Abaikan akan disetel ulang saat anda menutup klien game.
 

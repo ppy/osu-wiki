@@ -3,9 +3,9 @@ Colaboradores de la comunidad
 
 ![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
 
-Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de [*osu!*](/Wiki/Glossary/#osu) aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
+Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de [osu!](/Wiki/Glossary/#osu) aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-No debe confundirse con [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar *osu!* Y el entorno de la comunidad.
+No debe confundirse con [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar osu! Y el entorno de la comunidad.
 
 Los usuarios actuales con esta insignia se indican en esta tabla:
 
@@ -18,7 +18,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | Usuario | Contribución |
 | ---- | ------------- |
 | [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](Http://osu.ppy.sh/forum/t/108092) (reproducir `.osr` a archivo de video). |
-| [nanashiRei](/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](Https://osu.yas-online.net/) de *osu!* . |
+| [nanashiRei](/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](Https://osu.yas-online.net/) de osu! . |
 | [RBRat3](/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](/users/165946) | Arte de los [Logros](/wiki/Achievements), |
 | [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/forum/t/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
@@ -103,10 +103,10 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [DrabWeb](/users/6946022) | Contribución excepcional al proyecto osu!lazer|
 | [EVAST](/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
 | [huoyaoyuan](/users/2428732) | Contribución excepcional al proyecto osu!lazer |
-| [kj415j45](/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu!wiki y osu!lazer |
+| [kj415j45](/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |
 | [jorolf](/users/7004641) | Contribución excepcional al proyecto osu!lazer y creación de numerosas herramientas de medios |
 | [Syrin](/users/5701575) | Creador de PerformancePlus y osu!chan |
 | [Raveille](/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
 | [ThePooN](/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
-| [MegaApple_Pi](/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu!wiki con innumerables revisiones, reprocesos y revisiones |
-| [TPGPL](/users/3944705) | Piedra angular del proyecto osu!wiki y contribución sobresaliente a lo largo de los años |
+| [MegaApple_Pi](/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu! wiki con innumerables revisiones, reprocesos y revisiones |
+| [TPGPL](/users/3944705) | Piedra angular del proyecto osu! wiki y contribución sobresaliente a lo largo de los años |

@@ -27,7 +27,7 @@ The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier tha
 - **BPM:** An acronym for “beats per minute” used to determine the tempo of a song.
 - **Slider / Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
 - **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
-- **Bar Line:** A line that appears on the playfield and determines the start of a measure if the BPM is higher than 75. If the BPM is smaller or equal to 75 bar lines will be drawn on every beat.
+- **Bar Line:** A line that appears on the playfield and determines the start of a measure.
 - **Overlap:** A note that partially or totally covers other note(s) in the playfield.
 - **Rest Moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
 - **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.

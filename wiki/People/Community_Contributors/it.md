@@ -37,8 +37,8 @@ le chart. |
 
 | Utente | Contributi |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/u/201392) | Straordinario Contributo alla osu!wiki. |
-| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Straordinario Contributo alla osu!wiki. |
+| [Repflez](https://osu.ppy.sh/u/201392) | Straordinario Contributo alla osu! wiki. |
+| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Straordinario Contributo alla osu! wiki. |
 | [givenameplz](https://osu.ppy.sh/u/947499) | Ha sviluppato osu!Rank e osu!Post |
 
 ### Gennaio 2016

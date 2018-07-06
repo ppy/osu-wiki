@@ -5,7 +5,7 @@
 
 **社区贡献者** 是对那些主动向 osu!社区 投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的名牌。这个名牌代表着他们曾为整个社区做出了显著的贡献。
 
-与社区贡献者相比， [osu!Alumni](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/People/Global_Moderation_Team) ，[QAT](/wiki/People/Quality_Assurance_Team) ，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 *osu!*  和社区环境的人。
+与社区贡献者相比， [osu!Alumni](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/People/Global_Moderation_Team) ，[QAT](/wiki/People/Quality_Assurance_Team) ，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 osu!  和社区环境的人。
 
 现在拥有社区贡献者名牌的用户如下：
 
@@ -39,8 +39,8 @@
 
 | 用户名                          | 授予原因                    |
 |:--------------------------------|:----------------------------|
-| [Repflez](/users/201392)        | 对 osu!wiki 的杰出贡献      |
-| [RaikireHiuduo](/users/1570014) | 对 osu!wiki 的杰出贡献      |
+| [Repflez](/users/201392)        | 对 osu! wiki 的杰出贡献      |
+| [RaikireHiuduo](/users/1570014) | 对 osu! wiki 的杰出贡献      |
 | [givenameplz](/users/947499)    | osu!Rank 和 osu!Post 的开发 |
 
 ## 2016
@@ -103,10 +103,10 @@
 | [DrabWeb](/users/6946022)      | 对 osu!lazer 计划的杰出贡献                                                                 |
 | [EVAST](/users/8195163)        | 对 osu!lazer 计划的杰出贡献（90多个PR以及上百次commits）                                    |
 | [huoyaoyuan](/users/2428732)   | 对 osu!lazer 计划的杰出贡献                                                                 |
-| [kj415j45](/users/9367540)     | 组织了 osu! ，osu!wiki ，和 osu!lazer 的中文化计划，并做出了突出贡献                        |
+| [kj415j45](/users/9367540)     | 组织了 osu! ，osu! wiki ，和 osu!lazer 的中文化计划，并做出了突出贡献                        |
 | [jorolf](/users/7004641)       | 对 osu!lazer 计划做出了杰出贡献，并创造了许多媒体工具                                       |
 | [Syrin](/users/5701575)        | PerformancePlus 和 osu!chan 的创造者                                                        |
 | [Raveille](/users/1388767)     | 对 Scorewatch 计划的杰出贡献                                                                |
 | [ThePooN](/users/718454)       | 对 Scorewatch 计划的杰出贡献                                                                |
-| [MegaApple_Pi](/users/2148208) | 通过大量的修订、重写和复核推动了 osu!wiki 发展                                              |
-| [TPGPL](/users/3944705)        | 作为 osu!wiki 项目的领头羊，多年来对其做出了巨大贡献                                        |
+| [MegaApple_Pi](/users/2148208) | 通过大量的修订、重写和复核推动了 osu! wiki 发展                                              |
+| [TPGPL](/users/3944705)        | 作为 osu! wiki 项目的领头羊，多年来对其做出了巨大贡献                                        |

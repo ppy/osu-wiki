@@ -1,58 +1,22 @@
----
-outdated: true
----
-# Rejestracja
+﻿# Rejestracja
 
-## Jak się zarejestrować?
+*Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
-**Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z [zasadami osu!](/wiki/Rules/). Aby stworzyć konto, wykonaj następujące kroki.**
+1.  Po [zainstalowaniu](/wiki/installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
 
-1. Na [stronie osu!](https://osu.ppy.sh), kliknij ``I'm new!``, aby rozpocząć rejestrację.
+![Formularz rejestracyjny](img/register.jpg "Formularz rejestracyjny")
 
-![Przycisk rejestracji](Register-1.png "Przycisk rejestracji")
-
-2. Wypełnij wszystkie pola i kliknij ``Continue``.
-
-![Formularz rejestracyjny](Register-2.png "Formularz rejestracyjny")
-
-    1. Nazwa użytkownika         
-        - Może składać się z maksymalnie 15 znaków
-        - Dozwolone są tylko znaki alfanumeryczne (``a-z``, ``A-Z``, ``0-9``), znaki podkreślenia (``_``), nawiasy kwadratowe, (``[`` i ``]``), myślniki (``-``) oraz spacje (`` ``).
-    2. Adres e-mail
-    3. Hasło
-    4. Adnotacja
-    5. Kontynuuj
-3. Zaloguj się w osu! i gotowe. Udało ci się utworzyć własne konto!
-
-## Logowanie się
-
-### Plik wykonywalny osu!
-
-![Plik wykonywalny osu!](Register-3.png)  
-
-Plik wykonywalny o nazwie `osu!.exe` służy do otwierania gry. Jeżeli pojawią się nowe aktualizacje, zostaną one zainstalowane automatycznie. _Ważne: Nie musisz uruchamiać osu! jako administrator. Jeżeli gra będzie tego wymagać, otrzymasz odpowiednie powiadomienie._
-
-### Panel opcji
-
-*Zobacz także: [Opcje](/wiki/Options)*
-
-![Panel opcji](Login.png)
-
-Jeżeli uruchamiasz osu! po raz pierwszy, panel opcji pojawi się po lewej stronie ekranu gry. Wpisz swoją nazwę użytkownika i hasło w odpowiednie pola i zaloguj się.
-
-### Panel użytkownika
-
-![Panel użytkownika](Userpanel.png)
-
-Jeżeli wprowadzone przez ciebie dane są poprawne, panel użytkownika pojawi się w lewej górnej części ekranu gry. Oznacza to, że logowanie przeszło poprawnie i możesz zacząć grać! Panel ten będzie także widoczny w dolnej części ekranu wyboru piosenki, na prawo od przycisku ``Beatmap Options``.
+2.  Wypełnij wszystkie pola w formularzu.
+    -   W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
+    -   W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że będziesz mieć do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
+    -   W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.
+3.  Po wykonaniu tych czynności naciśnij przycisk `Continue` i wróć do okna z osu!.
+4.  Zaloguj się, by zakończyć proces rejestracji.
 
 ## Co dalej?
 
-Możesz rozpocząć już swoją rytmiczną przygodę, dlatego udaj się do [strony powitalnej](/wiki/Welcome/) i zacznij grać! Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules/)!
+Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules)!
 
-Jeżeli masz pytania lub potrzebujesz pomocy, zapytaj na kanale `#help` bądź utwórz nowy post w odpowiednim forum.
+Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/installation#adding-beatmapsets), [stworzyć własną skórkę](/wiki/skinning) czy [stworzyć własną beatmapę](/wiki/beatmapping). Nie zapomnij o [przywitaniu się](/community/forums/8)!
 
-Aby dołączyć do kanału ``#help``, naciśnij `F8` i napisz ``/join #help``. Możesz także nacisnąć ![Przycisk wyboru kanałów](Channelopenbutton.png) żółty przycisk znajdujący się na prawo od otwartych kanałów i wybrać `#help`.
-
-W razie wątpliwości pamiętaj, że:
-> rytm jest tylko o klik stąd!
+Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie wpisz `/join help`. Możesz także utworzyć nowy wątek w [podforum przeznaczonym dla pomocy](/community/forums/5).

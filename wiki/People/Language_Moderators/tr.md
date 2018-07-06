@@ -1,7 +1,7 @@
 Dil Moderatörleri
 ===================
 
-*osu!*'daki pek çok kanalın, o kanaldaki atmosferi bozacak ya da atmosfere ters gidecek şeyler ile ilgienen moderatörü vardır. Güçleri sayesinde bu sorunları çözen QAT/GMT üyeleri olsa da,diğer moeratörlere yardımcı olan QAT dışı sohbet OPleri vardır.
+osu!'daki pek çok kanalın, o kanaldaki atmosferi bozacak ya da atmosfere ters gidecek şeyler ile ilgienen moderatörü vardır. Güçleri sayesinde bu sorunları çözen QAT/GMT üyeleri olsa da,diğer moeratörlere yardımcı olan QAT dışı sohbet OPleri vardır.
 
 Dile özel moderatörlerin (mevcut) listesi
 ----------------------------------------------

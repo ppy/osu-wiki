@@ -1,6 +1,6 @@
 # Guides
 
-Below is a sorted list of guides created by members of the osu!community; most of which had originated from the osu!forums and have been ported over to the osu!wiki.
+Below is a sorted list of guides created by members of the osu!community; most of which had originated from the osu!forums and have been ported over to the osu! wiki.
 
 ## Beatmapping
 

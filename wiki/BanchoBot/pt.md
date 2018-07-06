@@ -1,6 +1,9 @@
+---
+outdated: true
+---
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
 Seu hospedeiro do [servidor de chat do osu!](/wiki/Internet_Relay_Chat).
 

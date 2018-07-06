@@ -3,7 +3,7 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in _osu!_**
+**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in osu!**
 
 _For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
 
@@ -26,6 +26,24 @@ Glossary
 - **Mapset host:** A user who uploads and manages a mapset.
 - **Guest difficulty:** A difficulty added to a mapset which is not created by its mapset host.
 - **Collaborative difficulty:** A single difficulty mapped by more than one mapper. Also referred to as "collab".
+
+### Metadata
+- **vs.**: versus
+- **&**: and
+- **feat./ft.**: featuring
+- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
+- **Lenticular brackets**: Also known as Sumitsukikakko and written as `【】`.
+- **Corner brackets**: Also known as Kagikakko and written as `「」`.
+- **Square brackets**: `[]`
+- **asterisk**: `*`
+- **umlauts**: `ü`, `ö`, `ä` and `ß`
+- **TV Size**: A song where the particular version is used in a television program, web series, or direct to video series, such as an opening, ending, or insert song. Indie/doujin series are not included in this.
+
+Note: If a mapset's song contains matching sections to the TV size song, in the same order, and is roughly the same length as the official TV Size song, the mapset's edit will also count as TV Size
+
+- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
+- **Russian Romanisation**: Use `BGN/PCGN` system for Russian/Cyrillic. `Е` and `е` should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or wouldn't help in the game. If an artist uses a preferred romanisation, follow it regardless of this rule. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
+- **Character-by-character romanisation**: each Chinese character must be Romanised as a capitalised word and separated with a space.
 
 ### Timing
 
@@ -70,11 +88,13 @@ Glossary
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 - **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
+- **osu! difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
 ### Guidelines
 - **Letterboxing and countdown options should be consistent between difficulties of a mapset.** 
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they fit a song more appropriately than standard tick rates.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
+- **Maps should not surpass a score of 2.147 billion with any mod combination or game mode conversion.** Scores are not calculated properly past this value. If the score limit is not reasonably achievable however (e.g. a HDHRDTFL SS play on a six star map), it may be ranked.
 
 ## Mapset
 
@@ -88,7 +108,12 @@ Glossary
     -   **Any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
 -   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
 -   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
--   **Excluding a mapset’s hardest difficulty, a difficulty’s name must accurately indicate its level of difficulty.** Conventional difficulty names vary between game modes, but any set of clearly progressive difficulty names can be alternatively used. Additionally, a mapset’s hardest difficulty should not use a misrepresentative difficulty name.
+-   **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
+    - The highest difficulty.
+    - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
+
+Custom naming must follow a common theme or pattern related to the song and must not be misrepresentative.
+
 -   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its mappers’ username or nickname. (e.g. Guest Mapper’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 -   **Additionally, a mapset host cannot indicate possession in a difficulty’s name.** (e.g. Mapset Host’s Insane). Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
 -   **A mapset host must have mapped equal or more drain time than any guest difficulty mappers.** This is to provide credit where credit is due.
@@ -105,15 +130,52 @@ Glossary
 
 ### Rules
 
--   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
--   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
--   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the `Romanised Title` field.** As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. Refer to the [Wikipedia page on hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for more information. Loan words should be expressed using romanisation from the original language.
--   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/community/forums/topics/244684) for more information.
--   **Vocaloids can be featured within the artist section if the producer/composer includes it via official sources.** This ensures that we enforce metadata being accurate in all cases.
--   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as `Short Ver.`, `TV Size` and so forth unless those markers are part of the official song title as listed by a reputable source.
--   **Only use the Source field if the song comes from or was made famous by a video game, movie, or series.** Website names are not an acceptable Artist nor Source.
--   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
--   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
+- **The following technical limitations or conventions are put in place to ensure consistency:**
+  - **Metadata must be consistent across all difficulties of a beatmap set.** 
+  - **The artists of a song must be traceable to existing people.** As such, programs like Vocaloids or fictional characters cannot be used as the sole artist of any given song.
+  - **Use the metadata of a song as is without adding any additional markers, such as `Full Version` and the likes.** If your track is a mashup or something among those lines, use whatever the artist supplies while paying respect to proper English syntax rules.
+  - **Guest mappers, storyboarders, and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and helping others identify the main contributors of any given beatmap set.
+  - **You must use the Source field if the song comes from, is remixed from or specifically fan-made for a video game, movie, or series.** Website names are not an acceptable Artist nor Source. 
+  - **If the artist or title field exceeds the uploadable maximum length, or both together cause Windows filenames for the `.osu` files to exceed 255 characters, any additional markers from the fields causing this have to be dropped consistently and if this is still not sufficient, the corresponding fields need to be abbreviated reasonably and end in `...` to signal that this song title has been shortened.**
+  - **Special characters that have both a full-width and half-width equivalent must retain their original printing forms if they are used in the unicode artist fields,** so that searching while copying and pasting the original song title is always possible. This does not apply to additional information that is printed in half-width to begin with because searching for these will be ambiguous no matter what.
+  
+- **The following conventions are enforced in order to standardise the general handling of metadata:**
+  - **If the song is TV size, use a standard `(TV Size)` tag at the end of the current title string.** If a TV size marker exists in the title, the standard marker would replace it.
+  - **For songs belonging to doujin circles, the circle name must be used over the vocalist or composer, unless these contributors are not part of the circle.** In these cases the priority falls on vocalist followed by composer for instrumental songs.
+  - **If a song or artist are referred to in multiple ways on official sources provided by the artist, the mapper is free to choose any of the romanisations.** The only exception to this is if the song already has a mapset in the Ranked Section, in which case the corresponding guideline applies to it.
+  - **If a track has more than 5 artists they must be substituted with `Various Artists`, similarly if a track is composed of 3 or more individual tracks, the title must be substituded to `<Descriptor> Compilation` unless all songs are part of an organised set of songs (such as an album) and that set only contains those songs, then the name of the set grouping the songs can be used instead.**
+  - **Commas, `vs.`, `&`, any variations of `feat./ft.`, `CV:` must always use a trailing whitespace.** If the marker is preceded by a word, whitespace is also required unless it is a comma.
+  - **Any form of `vs`. such as `Vs.`, `VS` and the likes are to be written as `vs.` only.**
+  - **Any form of `CV:` such as `CV,`, `Cv`, `Cv.` and the likes are to be written as `CV:` only.** If only the character is credited in any sources, the `CV:` marker has to be added to satisfy traceability to existing people. If such a marker is added to an artist, they must be added following the fictional character the character voice actor represents.
+  - **If the creator of the mapset has done major edits to the `.mp3`, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs must still be clearly indicated in order for players to be able to search for the original songs.
+  - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the `Romanised Artist` and `Romanised Title` fields within a `.osu` file.** ★ ☆ ⚝ ✩ ✪ ✫ ✬ ✭ 🟉 🟊 ✮ ✯ ✰ and the likes are substituded to an asterisk. Corner Brackets have to be written as quotation marks instead. Other special characters are to be romanised or dropped on case-by-case basis.
+
+
+- **Romanisation of characters and languages other than English are to be handled the following ways:**
+  - **When a song uses repeat words in the title where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
+  - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
+  - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
+  - **Romanise artist names in whichever order they are printed in the unicode fields.** The sole exception to this are artists widely known and using a differing English alias.
+  - **If a Unicode Song title has an official translation provided by the artist, this may be used in the romanised title field.**
+  - **Songs with German metadata must romanise umlauts into two-letter equivalents (`ue`, `oe`, `ae` and `ss`).**
+  - **Songs with Russian metadata must be romanised using the Russian Romanisation method in romanised fields when there is no romanisation or translation information listed by a reputable source.** The same applies to the `Source` field if a romanised Source is preferred by the mapper.
+  - **Songs with Japanese metadata must use the Modified Hepburn Romanisation method in romanised fields.** The same applies to the `Source` field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. 
+  - **Songs with Chinese metadata are to be handled with respect to the tones and dialects of Chinese they belong to using character-by-character romanisation method with the exception of artist names.** In any case, all diacritical tone marks must be omitted:
+    - **Mandarin metadata must be romanised using the Hanyu Pinyin system.** 
+    - **Cantonese metadata must be romanised by using the Jyutping system.** 
+    - **If the song falls into neither category, this choice is left up to the mapper's discretion.**
+
+### Guidelines
+
+- **If multiple beatmap sets of the same song that you are mapping exist in the Ranked section already, their metadata should be followed unless they contain major errors and official sources state something completely different.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
+- **When a song is covered by a different artist and has metadata varying from the original song,** use common sense to determine whether the variation was a mistake or an intentional artist choice.
+- **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylized apply standard capitalisation unless you have reasons to do otherwise. 
+- **When the song has appeared in multiple medias, even after its initial release, it may use the source that the mapset is themed around (Backgrounds, Storyboards, Videos, etc.) as long as the song itself appeared in it.**
+- **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring such in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
+- **Brackets within artist or title fields should be separated from the other text surrounding it, unless there is obvious reason not to do so.** Reasoning like this would include syntactical use of brackets and the general typesetting of a song title or artist using them without whitespaces often and consistently across multiple platforms.
+- **Lenticular brackets should be romanised to either quotation marks or square brackets depending on the context they are used in.**
+- **If a series applicable to be used as a source is clustered into multiple sub-series, the most precise label should be prioritised.** 
+
 
 ## Timing
 
@@ -145,7 +207,7 @@ Glossary
 - **Maps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music. 
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania maps are exempt from this because of the mode's rhythm construction.
 - **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed. 
-- **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively.
+- **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound. 
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song’s samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a mapset.** This is used for both the song selection menu and the online thumbnail preview.
 - **Every `.wav` file must be at least 100ms long to prevent issues with soundcards.**
@@ -174,12 +236,11 @@ Glossary
 -   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
 -   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
 -   **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
--   **Do not make any gameplay elements larger than their recommended skin dimensions.** Elements like this may affect gameplay performance, and thus having them in a different size should be avoided. Elements that are not tagged as gameplay-relevant may use a different dimension and if no recommended size is given; this variable is left up to the skinner.
--   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found on the [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning.
+-   **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
+-   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found on the [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused, it is not necessary to include. 
 
 ### Guidelines
 
--   **Skinned elements should not exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
 -   **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
 
 ## Storyboarding

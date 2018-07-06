@@ -14,7 +14,7 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. _osu!_ will mark users as "Idle" if they have been inactive for some time.
+AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -34,7 +34,7 @@ Aspire is a beatmapping [contest](/wiki/contest) where the creators are encourag
 
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in _osu!_ Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu! Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 
@@ -183,7 +183,7 @@ For skins, the skin properties for the combo colours is located on in the `[Colo
 
 ![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_ This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+The combo fire was a background gameplay feature from the ouendan game integrated in osu! This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
 This feature was later disabled on 05. March 2013 due to performance concerns.
 
@@ -227,7 +227,7 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ![Screenshot of main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie is another word for the _osu!_ logo. This has appeared many times in the osu!client. The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
+The cookie is another word for the osu! logo. This has appeared many times in the osu!client. The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
 
 ![Window dialog of osu! crashing](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
 
@@ -241,7 +241,7 @@ A creator refers to the user who uses the [beatmap editor](/wiki/beatmap_editor)
 
 The difficulty stars is the visual representation of a beatmap's [difficulty](/wiki/difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
-_osu!_ currently uses two different algorithms to calculate difficulty stars:
+osu! currently uses two different algorithms to calculate difficulty stars:
 
 - peppy's algorithm
   - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
@@ -289,7 +289,7 @@ The osu!standard game mode was is mostly based off of those games.
 
 EBA has two meanings:
 
-- Elite Beat Agents, one of the DS games that _osu!_ is based on.
+- Elite Beat Agents, one of the DS games that osu! is based on.
   See [Elite Beat Agents - Wikipedia](https://en.wikipedia.org/wiki/Elite_Beat_Agents) for more details.
 - The collective term for the playable characters in that game (referring to meaning above) (e.g. "The EBA" or "The Agents").
 
@@ -365,7 +365,7 @@ More than one guest mapper is allowed to contribute to a beatmapset, including c
 
 ### Hit Sound
 
-Hit sounds are the sounds that _osu!_ plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
+Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
 
 Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
@@ -376,7 +376,7 @@ There are 4 types of hit sounds:
 - clap
 - finish
 
-These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. _osu!_ provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
 ## I
 
@@ -458,7 +458,7 @@ You can change your local song offset by pressing:
 - `Alt` + `+` to increase the offset by 1 milliseconds
 - `Alt` + `-` to decrease the offset by 1 milliseconds
 
-If you play a beatmap that has a local song offset, _osu!_ will tell you that there the previous offset will be used.
+If you play a beatmap that has a local song offset, osu! will tell you that there the previous offset will be used.
 
 ### Loved
 
@@ -548,7 +548,7 @@ Adjusting your [local song offset](/wiki/local-song-offset) will only add more t
 
 ### osu!
 
-_osu!_ has three meanings:
+osu! has three meanings:
 
 - The rhythm video game for the Microsoft Windows Operating Systems.
   Spelled with a lowercase "o" and an exclamation mark at the end.
@@ -578,7 +578,7 @@ The following day, peppy rolled back the implementation of osu!coins due to popu
 
 ### osupixel
 
-An osupixel is the representation of one screen pixel when _osu!_ is running in 640x480 resolution. osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
+An osupixel is the representation of one screen pixel when osu! is running in 640x480 resolution. osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
 
 In contrast, textures are scaled such that one texture pixel ([texel](https://en.wikipedia.org/wiki/Texel_%28graphics%29)) corresponds to one screen pixel at 1024x768 resolution.
 
@@ -587,7 +587,7 @@ In contrast, textures are scaled such that one texture pixel ([texel](https://en
 Ouendan has three meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team on using drums, horns, banners and yells of encouragement.
-- The pair of Japanese DS games that _osu!_ is based on.
+- The pair of Japanese DS games that osu! is based on.
   This term may sometimes be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, e.g. "The Ouendan".
 
@@ -621,7 +621,7 @@ Pass has two meanings:
 ### peppy
 
 peppy, written with a lowercase `p`, is the online alias of Dean Herbert.
-He is the creator of the _osu!_ project and its primary developer.
+He is the creator of the osu! project and its primary developer.
 
 ### Play Time
 
@@ -635,7 +635,7 @@ Short for [_performance points_](/wiki/Performance_Points). The main ranking met
 ### puush
 
 puush is a screen capturing and file uploading application developed by peppy.
-puush is a successor of sorts to upppy which is commonly used to upload and share images in _osu!_
+puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
 
 For more information about puush, see [puush / home](https://puush.me).
 
@@ -660,7 +660,7 @@ Rank has three meanings:
 
 Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria. This can also refer to one's position in such a list.
 
-_osu!_ currently has five rankings:
+osu! currently has five rankings:
 
 - [PP](/wiki/pp) rankings: the ranking most commonly referred to, based on the player's pp.
 - Chart rankings: based on ranked score for beatmaps in a chart.
@@ -688,7 +688,7 @@ For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Center#what-
 
 ### RSI
 
-RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body. This can be caused by doing repetitive tasks in an awkward position which may include playing _osu!_ for an extended amount of time.
+RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body. This can be caused by doing repetitive tasks in an awkward position which may include playing osu! for an extended amount of time.
 
 ## S
 
@@ -719,7 +719,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 ### Skin
 
-A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu! This will allow for a more customised user experience. Most of what you see and hear in _osu!_ can be skinned.
+A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu! This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
 
@@ -765,9 +765,9 @@ Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permi
 
 _See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
 
-Standard refers to the game mode in _osu!_ and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
+Standard refers to the game mode in osu! and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 
-This term is used greatly within the osu!wiki to prevent ambiguity between _osu!_ (the framework, game client, etc.) and the game mode itself.
+This term is used greatly within the osu! wiki to prevent ambiguity between osu! (the framework, game client, etc.) and the game mode itself.
 
 ### Star
 
@@ -828,7 +828,7 @@ Note that TAG difficulties are unrankable because they are intentionally not des
 
 ### Tap
 
-In [osu!standard](/wiki/osu!standard), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of _osu!_ gameplay. There are a few different buttons one can use to tap:
+In [osu!standard](/wiki/osu!standard), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay. There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
 - the `Z` and `X` keys on the keyboard,
@@ -841,7 +841,7 @@ Test mode is a feature of the [beatmap editor](/wiki/beatmap_editor). This allow
 
 ### Time Signature
 
-The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat. _osu!_ offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
+The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat. osu! offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
 
 ### Timing Section
 
@@ -851,7 +851,7 @@ When the tempo changes, you are required to add a new timing section to accompan
 
 The timing process creates the timeline on which objects will be placed.
 
-One of many reasons as to why your timing of a beatmap is important because _osu!_ takes the given [BPM](/wiki/bpm) and offset to determine where the hit objects should go. If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
+One of many reasons as to why your timing of a beatmap is important because osu! takes the given [BPM](/wiki/bpm) and offset to determine where the hit objects should go. If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
 
 ### Touchpad
 
@@ -859,7 +859,7 @@ A touchpad is a substitute for the computer mouse. Touchpads are most commonly f
 
 ### Touchscreen
 
-A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on. _osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player. A computer whose entire screen functions as a touchscreen is called a Tablet PC. This is different than a tablet because a touchscreen has some kind of display while tablets do not.
+A touchscreen is one of the input mediums used by the DS games that osu! is based on. osu! supports touchscreen functionality, but the hardware required is generally expensive for the average player. A computer whose entire screen functions as a touchscreen is called a Tablet PC. This is different than a tablet because a touchscreen has some kind of display while tablets do not.
 
 ### Touhosu!
 
@@ -867,7 +867,7 @@ _Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
 
 Touhosu! is a requested game mode that is the opposite of osu!catch. _Opposite_ because instead of catching objects, you avoid them.
 
-The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell games) and _osu!_.
+The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell games) and osu!.
 
 ## U
 
@@ -878,7 +878,7 @@ The universal offset is the time delay between:
 - the object graphics and sample set sounds associated with them
 - the point of the song where they should be heard
 
-The universal offset applies to all songs used in _osu!_ and its value differs according to each system's specifications. After being determined, it does not need to be modified again. An incorrectly universal offset will cause timing problems in every beatmap played or edited. If everything sounds off to you while playing a few ranked [beatmaps](/wiki/beatmaps), try checking your universal offset. The universal offset settings is located in the [Options](/wiki/Options).
+The universal offset applies to all songs used in osu! and its value differs according to each system's specifications. After being determined, it does not need to be modified again. An incorrectly universal offset will cause timing problems in every beatmap played or edited. If everything sounds off to you while playing a few ranked [beatmaps](/wiki/beatmaps), try checking your universal offset. The universal offset settings is located in the [Options](/wiki/Options).
 
 ### upppy
 
@@ -922,7 +922,7 @@ WIP can be submitted through the [BSS](/wiki/bss) to the Beatmap Help [forum](/w
 
 ### z/x
 
-z/x are the default keys on the keyboard to [tap](/wiki/tap) in _osu!_ A very popular alternative to the left and right mouse buttons.
+z/x are the default keys on the keyboard to [tap](/wiki/tap) in osu! A very popular alternative to the left and right mouse buttons.
 
 During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa. The same applies to the `X` key and the right mouse button and vice versa.
 

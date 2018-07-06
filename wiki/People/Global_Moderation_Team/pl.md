@@ -49,7 +49,7 @@ Członkowie zespołu
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chiński | Pomoc związana z tworzeniem map, pisanie osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderacja czatu, pomoc techniczna |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holenderski | Moderacja czatu |
-| [Repflez](https://osu.ppy.sh/u/201392) | Hiszpański | Moderacja czatu, zarządzanie osu!wiki |
+| [Repflez](https://osu.ppy.sh/u/201392) | Hiszpański | Moderacja czatu, zarządzanie osu! wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | Koreański | Moderacja czatu |
 | [S o h](https://osu.ppy.sh/u/2234772) | Japoński | Moderacja czatu |
 | [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, hiszpański | Moderacja czatu |

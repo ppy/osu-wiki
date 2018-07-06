@@ -247,7 +247,7 @@ External links
 -   peppy's download page [2](http://osu.ppy.sh/p/download)
 -   peppy's osu! (OS X) testing release [3](http://osu.ppy.sh/forum/p/909738)
 -   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](http://osu.ppy.sh/forum/t/14664/)
-    -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
+    -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu! wiki version)
 -   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
 -   doomed151's General Information and Download (osu!droid) [6](http://osu.ppy.sh/forum/t/62680)
     -   Pesets's osu!droid Changelog [7](http://osu.ppy.sh/forum/t/62315)

@@ -26,8 +26,8 @@ Perintah Dasar IRC
 ------------------
 | Perintah             | Deskripsi                                          |
 | -------------------- | -------------------------------------              |
-| `/join <#channel>`   | Bergabung ke kanal                                 |
-| `/part <#channel>`   | Meninggalkan kanal                                 |
+| `/join <#channel>`   | Bergabung ke channel                                 |
+| `/part <#channel>`   | Meninggalkan channel                                 |
 | `/me <action>`       | Mengirim pesan aksi                                |
 | `/ignore <username>` | Mengabaikan pengguna (menyembunyikan pesan mereka) |
 
@@ -57,7 +57,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 | [KVIrc](http://www.kvirc.net)             | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
 | [mIRC](http://www.mirc.com/)              | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
 | [Quassel IRC](http://www.quassel-irc.org) | Klik kanan di jendela obrolan, lalu pilih Hide Events » Join/Part/Quit. |
-| [XChat](http://www.xchat.org)             | Ketik `/set irc_conf_mode 1` (atau [2](http://xchat.org/faq/#q211) untuk menonaktifkan pemberitahuan dari seluruh kanal). |
+| [XChat](http://www.xchat.org)             | Ketik `/set irc_conf_mode 1` (atau [2](http://xchat.org/faq/#q211) untuk menonaktifkan pemberitahuan dari seluruh channel). |
 
 Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang tersedia, sebagian besar klien memiliki cara untuk menonaktifkannya.
 

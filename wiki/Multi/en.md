@@ -156,7 +156,7 @@ Press the `1. Start Game` button to **create the Match Setup** with the **player
 
 ## Match Setup
 
-<!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu!wiki for Song Selection? -->
+<!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
 ![Host Match Setup view][Multi_roomhost image]
 
@@ -335,7 +335,7 @@ Despite no online score leaderboard below the results screen, ranked score will 
 Result will not be shown at the Local leaderboard.
 The only way to see it is by Online Ranking leaderboard (assuming the Multi's score is higher).
 
-**No direct retry allowed** but the replay can be exported by pressing `F2` key in keyboard (will not contain any Multi-play elements and will not be saved in the _osu!_ backend).
+**No direct retry allowed** but the replay can be exported by pressing `F2` key in keyboard (will not contain any Multi-play elements and will not be saved in the osu! backend).
 Do note that this does not apply to Tag Coop and Tag Team Vs (both are unrankable), where score will not be recorded and replay cannot be saved.
 
 #### Multi's leaderboard
@@ -467,7 +467,7 @@ Players using [Sudden Death (SD)][Sudden Death wikilink]/[Perfect (PF)][Perfect 
 If the teammate does **not** use that game modifier and made a small mistake enough to trigger the mod effect, the beatmap will continue as normal, and players using the mod will have their health bar interface drained and stuck to empty with no ill effect (meaning, visual effect only).
 If the player _using_ the mod made a mistake and triggered it, the actual effect will occur and failed state will be triggered immediately.
 
-When playing in windowed mode, do note that the cursor will **not** be bounded to the _osu!_ window during the break/not the player's turn yet.
+When playing in windowed mode, do note that the cursor will **not** be bounded to the osu! window during the break/not the player's turn yet.
 
 #### Result
 
@@ -490,5 +490,5 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 ![osu!mania Multi patch release][osu!mania Multi patch]
 
 - Match Setup used to only allows up to a total of 8 players only.
-- osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their _osu!_ to the latest release patch (which enables osu!mania mode with no ranking support yet).
+- osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their osu! to the latest release patch (which enables osu!mania mode with no ranking support yet).
 - No Video was the _only_ game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.

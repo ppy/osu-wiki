@@ -15,7 +15,7 @@ Desde la mayoría de las pantallas en *osu* puedes presionar `F8` o hacer clic e
 | **Rojo**    | Miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") o [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team").       |
 | **Verde**  | La línea contiene su nombre o ciertas palabras clave que ha agregado para activar un "resaltado". También aparecerá una copia del mensaje en un canal dedicado, `#highlight`, que contiene todas estas líneas. |
 | **Azul**   | Mensaje privado.                                                                                                                                                                                          |
-| **Cian**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), el creador de *osu!*.                                                                                                                                            |
+| **Cian**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), el creador de osu!.                                                                                                                                            |
 | **Rosa**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot").                                                                                                                                                           |
 
 - Haz clic en el cuadro `Show Ticker` para mostrar el mensaje de chat más nuevo en la parte inferior de la pantalla cuando la consola de chat no esté visible.
@@ -26,7 +26,7 @@ Desde la mayoría de las pantallas en *osu* puedes presionar `F8` o hacer clic e
 
 *[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") cubrió esta página en el [Episodio 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) junto con [Multijugador](/wiki/Multi/ "Multiplayer").*
 
-Desde la mayoría de las pantallas en *osu!* puedes presionar `F9` o hacer clic en el botón `Online Users` en la parte inferior derecha de la pantalla de introducción para alternar la consola de chat extendida. Además de la Consola de chat, el Chat ampliado superpone una lista de paneles en los dos tercios restantes de la pantalla, mostrando información sobre los usuarios que están actualmente conectados.
+Desde la mayoría de las pantallas en osu! puedes presionar `F9` o hacer clic en el botón `Online Users` en la parte inferior derecha de la pantalla de introducción para alternar la consola de chat extendida. Además de la Consola de chat, el Chat ampliado superpone una lista de paneles en los dos tercios restantes de la pantalla, mostrando información sobre los usuarios que están actualmente conectados.
 
 ![Consola de chat ampliada](Chat_Console-Extended.png "Extended chat console")
 

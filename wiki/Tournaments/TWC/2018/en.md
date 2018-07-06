@@ -54,17 +54,6 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Finals
-
-### Saturday, 12. May 2018
-
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Canada     | ![][flag_CA] | ![][flag_ID] | Indonesia   | **15:00 UTC**  | 11:00 UTC -4  | 22:00 UTC +7 |
-
------------------------
-
 ## Participants
 
 | | Country | Members |
@@ -93,6 +82,10 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [Mekelemembe](https://osu.ppy.sh/users/3289191), [abrian](https://osu.ppy.sh/users/1159051), [Grimbow](https://osu.ppy.sh/users/1387762) |
 | ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)**, [JDrago14](https://osu.ppy.sh/users/7690078), [Dargin](https://osu.ppy.sh/users/7086439), [Tem](https://osu.ppy.sh/users/5393042), [Loopy542](https://osu.ppy.sh/users/5468461) |
 | ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [[\_LordEnder\_]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
+
+-----------------------
+
+![Winner Podium](podium.png)
 
 -----------------------
 
@@ -233,6 +226,12 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 
 ## Match Results
 
+### Grand Finals
+
+| Sunday, 2018-05-13 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 7 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42432190) |
+
 ### Finals
 
 | Sunday, 2018-05-06 | | | | |
@@ -240,6 +239,14 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Canada ![][flag_CA] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42242430) |
 | Indonesia ![][flag_ID] | 7 | 0 | ![][flag_US] United States | Nullified |
 | Japan ![][flag_JP] | 7 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42253405) |
+
+| Saturday, 2018-05-12 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![][flag_CA] | 7 | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/42408617) |
+
+| Sunday, 2018-05-13 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Taiwan ![][flag_TW] | 7 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/42427896) |
 
 ### Semifinals
 

@@ -13,7 +13,7 @@ The home of [osu!](https://osu.ppy.sh) wiki.
 
 Contributions to the osu! wiki are now done through GitHub.
 
-A basic guide to using GitHub, specifically tailored for the osu! wiki project, is available at the [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!wiki_contribution_guide).
+A basic guide to using GitHub, specifically tailored for the osu! wiki project, is available at the [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_contribution_guide).
 
 The article style guide, which _must_ be adhered to for all new and rewritten pages going forward, is available at the [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria).
 
