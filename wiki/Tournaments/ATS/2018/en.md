@@ -44,7 +44,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Organizers | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | Map Selectors | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | Commentators | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
-| Streamers | ![][flag_JP] [SakuraFrost-](/users/8147993), ![][flag_ID] [rap12](/users/2300279) |
+| Streamers | ![][flag_JP] [SakuraFrost-](/users/8147993) |
 | Designers | ![][flag_PH] [OsuMe65](/users/852867), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CL] [Valelup](/users/6497014) |
 | Referees | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_CL] [Valelup](/users/6497014), ![][flag_CL] [Asagaki](/users/2632902), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_ID] [Alwaysyukaz](/users/4999506), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_ID] [pmriva](/users/2180885), ![][flag_ID] [XK2238](/users/1139209) |
 | Translators | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
@@ -58,25 +58,6 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - [Mappool Suggestions Form](https://goo.gl/forms/3mUBHYnKsusX03jC2)
 - [Asian Taiko Showdown Discord](https://discord.gg/2xQDbkS)
 - [Asian Taiko Showdown Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)
-
------------------------
-
-## Match Schedule: Finals
-
-### Saturday, 30 June 2018
-
-| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| #28 | UB | nyanmi-1828 | ![][flag_JP] | ![][flag_JP] | butter0414 | **07:00 UTC** | 16:00 UTC +9 | 16:00 UTC +9 |
-| #25 | LB | Sanawieck | ![][flag_JP] | ![][flag_TW] | Smallwu | **08:30 UTC** | 17:30 UTC +9 | 16:30 UTC +8 |
-| #26 | LB | qoot8123 | ![][flag_TW] | ![][flag_JP] | Xin Leviathan | **14:00 UTC** | 22:00 UTC +8 | 23:00 UTC +9 |
-
-### Sunday, 1 July 2018
-
-| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| #27 | LB | (Winner of #25) |  |  | (Winner of #26) | **08:00 UTC** |  |  |
-| #29 | LB | (Loser of #28) |  |  | (Winner of #27) | **09:30 UTC** |  |  |
 
 -----------------------
 
@@ -117,6 +98,34 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 -----------------------
 
 ## Mappool
+
+### Grand Finals
+
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
+
+- NoMod
+  - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](/beatmapsets/625899/#taiko/1574085)
+  - [A.I.TOYS - compressed eyes (_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
+  - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323) 
+  - [LeaF - ATHAZA (vzk) \[Fatal Oni\]](/beatmapsets/517281/#taiko/1174736)
+  - [t+pazolite - !!!Chaos Time!!! (Kobaryo's FTN Remix) (sing216) \[iiiChaos On!iii\]](/beatmapsets/721195/#taiko/1522932)
+- Hidden
+  - [Reji - A Young Girl, So Vivid in the Night (S a n d) \[Sand's Taiko Oni\]](/beatmapsets/342499/#taiko/757048) 
+  - [DECO*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](/beatmapsets/345191/#taiko/762382) 
+- HardRock
+  - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](/beatmapsets/529539/#taiko/1122796) 
+  - [NEKI<T - GaRaKuTic Dream (7_7) \[Oni\]](/beatmapsets/577572/#taiko/1222367) 
+- DoubleTime
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](/beatmapsets/541523/#taiko/1148729)
+  - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) - (SKSalt) \[SK's Inner Oni\]](/beatmapsets/286025/#taiko/871725)
+- Special
+  - [Penoreri - Everlasting message (NewibornCLivee) \[xN.taiCLx\]](/beatmapsets/304775/#taiko/682755)
+  - [Ryu* - !Viva! (Nofool) \[Insane Oni\]](/beatmapsets/799895/#taiko/1679280)
+- FreeMod
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (Skull Kid) \[Shinobi Oni\]](/beatmapsets/742966/#taiko/1566951) 
+  - [NekoMata L.E.D.Master+ - GAIA (glalucard) \[Taiko\]](/beatmapsets/94086/#taiko/253469)
+- Tiebreaker
+  - [RoughSketch + DD""Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Guardistack-) \[STAnic\]](/beatmapsets/748030/#taiko/1695846)
 
 ### Finals
 
@@ -284,6 +293,19 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Group | Saturday, 2018-06-30 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| UB | nyanmi-1828 ![][flag_JP] | 7 | 1 | ![][flag_JP] butter0414 | [#1](https://osu.ppy.sh/community/matches/43771414) |
+| LB | qoot8123 ![][flag_TW] | 7 | 5 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/43779830) |
+
+| Group | Sunday, 2018-07-01 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| LB | Sanawieck ![][flag_JP] | 0 | 7 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43803040) |
+| LB | Smallwu ![][flag_TW] | 7 | 1 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43804465) |
+| LB | butter0414 ![][flag_JP] | 0 | 7 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43807559) |
 
 ### Semifinals
 
