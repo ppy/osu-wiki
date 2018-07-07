@@ -229,9 +229,11 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ### Stack Leniency
 
-![Example of hit object stacking](img/SS_SL_eg.jpg "Stack Leniency")
+![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
 
-In osu!standard, hit objects will automatically stack if they are both placed in the same spot and close in-time. This is to help players see hit objects that overlap each other.
+![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
+
+In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
 Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!/#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
 
