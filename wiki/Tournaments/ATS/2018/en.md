@@ -33,8 +33,6 @@ The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-o
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
- *The remaining prizes are to be decided.*
-
 ## Organization
 
 The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
@@ -44,11 +42,11 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Organizers | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | Map Selectors | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | Commentators | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
-| Streamers | ![][flag_JP] [SakuraFrost-](/users/8147993) |
+| Streamer | ![][flag_JP] [SakuraFrost-](/users/8147993) |
 | Designers | ![][flag_PH] [OsuMe65](/users/852867), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CL] [Valelup](/users/6497014) |
 | Referees | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_CL] [Valelup](/users/6497014), ![][flag_CL] [Asagaki](/users/2632902), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_ID] [Alwaysyukaz](/users/4999506), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_ID] [pmriva](/users/2180885), ![][flag_ID] [XK2238](/users/1139209) |
 | Translators | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
-| Statisticians | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_ID] [Aozora-](/users/6918206), ![][flag_US] [JDrago14](/users/7690078) |
+| Statisticians | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 
 ## Links
 
@@ -105,7 +103,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](/beatmapsets/625899/#taiko/1574085)
-  - [A.I.TOYS - compressed eyes (_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
+  - [A.I.TOYS - compressed eyes (\_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
   - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323) 
   - [LeaF - ATHAZA (vzk) \[Fatal Oni\]](/beatmapsets/517281/#taiko/1174736)
   - [t+pazolite - !!!Chaos Time!!! (Kobaryo's FTN Remix) (sing216) \[iiiChaos On!iii\]](/beatmapsets/721195/#taiko/1522932)

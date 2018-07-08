@@ -34,8 +34,6 @@ Asian Taiko Showdown 2018
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ユーザーページにバナー追加 |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ユーザーページにバナー追加 |
 
-*残りの賞は今後決められます。*
-
 ## 主催者
 
 ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営します。
@@ -49,7 +47,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | デザイナー | ![][flag_PH] [OsuMe65](/users/852867), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CL] [Valelup](/users/6497014) |
 | 審判 | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_CL] [Valelup](/users/6497014), ![][flag_CL] [Asagaki](/users/2632902), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_ID] [Alwaysyukaz](/users/4999506), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_ID] [pmriva](/users/2180885), ![][flag_ID] [XK2238](/users/1139209) |
 | 翻訳家  | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
-| 集計 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_ID] [Aozora-](/users/6918206), ![][flag_US] [JDrago14](/users/7690078) |
+| 集計 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 
 ## リンク
 
@@ -106,7 +104,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](/beatmapsets/625899/#taiko/1574085)
-  - [A.I.TOYS - compressed eyes (_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
+  - [A.I.TOYS - compressed eyes (\_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
   - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323) 
   - [LeaF - ATHAZA (vzk) \[Fatal Oni\]](/beatmapsets/517281/#taiko/1174736)
   - [t+pazolite - !!!Chaos Time!!! (Kobaryo's FTN Remix) (sing216) \[iiiChaos On!iii\]](/beatmapsets/721195/#taiko/1522932)
