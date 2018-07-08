@@ -8,7 +8,7 @@ Intermediate Global Taiko Showdown 2018
 
 ![Intermediate Global Taiko Showdown 2018](banner.jpg)
 
-**Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the first iteration of the tournament.
+The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the first iteration of the tournament.
 
 ## Tournament Schedule
 
@@ -37,7 +37,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 | Position | Members |
 | --- | --- |
-| Organizers | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Organisers | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Map Selectors | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_ID] [Poii](/users/7924938) |
 | Designer | ![][flag_US] [Swovine](/users/6666316) |
 | Statisticians | ![][flag_FR] [Kasumii-sama](/users/6177263),  ![][flag_FR] [TLQ_Yoshii](/users/7157133) |
@@ -71,12 +71,12 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ## Ruleset
 ### General Rules
 
-1. Intermediate Global Taiko Showdown 2018 is a two-on-two Team Vs tournament, with the aspect of double-elimination bracket.
+1. The Intermediate Global Taiko Showdown 2018 is a two-on-two Team Vs tournament, with the aspect of double-elimination bracket.
 
 2. In order for your registration to count, you must meet following conditions:
    - Participant must fill out the provided form.
    - Participant must be within rank **3,500 - 10,000 during registrations.**
-   - Participant are not allowed to rank up further than rank **2,500 during the tournament's occurrence**
+   - Participant are not allowed to rank up further than rank **2,500 during the tournament's occurrence.**
    - Participant must join tournament's Discord server.
 3. The mapset will be announced the week before a stage begins.
 4. Match schedule is decided by the organizers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
