@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 锦标赛
 ===============
 
@@ -88,6 +92,13 @@ Community
 | --- | --- | --- | --- | --- | --- |
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018/) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
+
+### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
+
+| 名称 | 开始时间 | 结束时间 | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
+| --- | --- | --- | --- | --- | --- |
+| Indonesian Taiko Showdown 2017 | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](/users/1139209) | ![][flag_ID] [pmriva](/users/2180885) | ![][flag_ID] [Nishizumi](/users/2496768) |
+| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018/) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_JP] [butter0414](/users/7935022) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
