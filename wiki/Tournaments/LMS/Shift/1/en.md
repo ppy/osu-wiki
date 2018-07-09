@@ -33,13 +33,13 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 
  *The remaining prizes are to be decided.*
 
-## Organisation
+## Organization
 
 The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 | Position | Members |
 | --- | --- |
-| Management and Organisation | ![][flag_US] [Backfire](/users/263110), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_GB] [Lno](/users/1900787) |
+| Managements | ![][flag_US] [Backfire](/users/263110), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_GB] [Lno](/users/1900787) |
 | Map Selectors | ![][flag_US] [Backfire](/users/263110), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_GB] [Lno](/users/1900787) |
 | Commentators | ![][flag_US] [Backfire](/users/263110), ![][flag_GB] [Grimbow](/users/1387762), ![][flag_US] [Binsu](/users/6236911), ![][flag_HK] [akali393394](/users/9686628), ![][flag_TR] [frukoyurdakul](/users/7612550), ![][flag_AU] [Jaye](/users/4841352) |
 | Streamers | ![][flag_DE] [Heamburger](/users/4705120), ![][flag_US] [Binsu](/users/6236911) |
@@ -48,7 +48,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 ## Links
 
-- [Official Forums Thread](/community/forums/topics/744163)
+- [Discussion Thread](/community/forums/topics/744163)
 - [Official LMS Discord](https://discord.gg/wEkYka)
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
