@@ -31,7 +31,7 @@ The **Intermediate Global Taiko Showdown 2018** is a country-based double elimin
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 months of osu!supporter tag for each team member |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter tag for each team member |
 
-## Organization
+## Organisation
 
 The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko community members.
 
@@ -69,64 +69,62 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### General Rules
 
 1. The Intermediate Global Taiko Showdown 2018 is a two-on-two Team Vs tournament, with the aspect of double-elimination bracket.
-
 2. In order for your registration to count, you must meet following conditions:
    - Participant must fill out the provided form.
    - Participant must be within rank **3,500 - 10,000 during registrations.**
-   - Participant are not allowed to rank up further than rank **2,500 during the tournament's occurrence.**
+   - Participant is not allowed to rank up further than rank **2,500 during the tournament's occurrence.**
    - Participant must join tournament's Discord server.
 3. The mapset will be announced the week before a stage begins.
-4. Match schedule is decided by the organizers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
-5. If both team gets a tie on the TieBreaker, the TieBreaker will be replayed with FreeMod applied.
+4. Match schedule is decided by the organisers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
+5. If both teams gets a tie on the TieBreaker, the TieBreaker will be replayed with FreeMod applied.
 6. If a player disconnects from the game, the opponent wins the round. 
    - If the player disconnects during the first five seconds of the song, the match will be restarted.
 7. Maps cannot be used twice in the same round.
 8. If a player doesn't show up within **15 minutes** of the start time, the enemy wins by default.
-9.  Any other rules changes or unexpected occurrences will be announced in the tournament's forum thread.
+9. Any other rules changes or unexpected occurrences will be announced in the tournament's forum thread.
 
 ### Stage Regulations
 
 1. There are four stages to this tournament: Group Stage, Quarterfinals, Semifinals, and Finals.
-
 2. Matches are seeded. Teams will be seeded by performance points.
 3. In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
 4. In Round of 16, Quarterfinals, and Semifinals, you need to win 5 beatmaps to win a match. (Best-of-9)
 5. In Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
 
 ### Match Regulations
-1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and ScoreV2.**
 
+1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and ScoreV2.**
 2. Each team is allowed to select one warm-up map.
-   - During Group Stage warm-ups must not exceed 4:00 minutes. In the following stages the warm-up can be up to 6 minutes long if both teams agree.
+   - During Group Stage, warm-ups must not exceed 4:00 minutes. 
+   - In the following stages, the warm-up can be up to 6 minutes long if both teams agree.
    - Offensive songs may be blocked by referees.
-3. Map selection will be done by the team who is currently losing. At the start however, it will be whoever `!roll` the highest. When the starting team is decided, both teams will select one map to ban that is not the tiebreaker.
-4. In case of a tie, the tiebreaker will be played.
+3. Map selection will be done by the team who is currently losing. At the start however, it will be whoever `!roll` the highest. When the starting team is decided, both teams will select one map to ban that is not the TieBreaker.
+4. In case of a tie, the TieBreaker will be played.
 5. Results will be displayed on Challonge, and announced by the referee.
 
 ### Mappool Regulations
 
 1. Each stage will receive its own mappool, and it will progressively become harder.
-
 2. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and TieBreaker.
 3. Each mappool consists of 13 maps in total.
-4. The mappool consists of following format:
+4. The mappool consists of the following format:
    - 4 NoMod
    - 2 Hidden
    - 2 HardRock
    - 2 DoubleTime
    - 2 FreeMod
    - 1 Tiebreaker
-5. The tiebreaker will be played under NoMod conditions.
-   - In case of a tie, the tiebreaker will be replayed again with FreeMod activated.
+5. The TieBreaker will be played under NoMod conditions.
+   - In case of a tie, the TieBreaker will be replayed again with FreeMod activated.
 6. The mappool will be released after the last match of the previous stage has been played.
 
 ### Scheduling Regulations
 
 1. Every stage is held **during the weekends.**
-
 2. Matches are allowed to overlap if referees are available.
 3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
 
