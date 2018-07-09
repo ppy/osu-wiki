@@ -1,13 +1,9 @@
----
-outdated: true
----
-
 Torneios
 ===============
 
-Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/community/forums/55)
+Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/forum/55)
 
-Oficiais
+Copas do Mundo Oficiais
 ----------------------
 
 Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/g/26).
@@ -16,53 +12,49 @@ Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/g/
 
 osu! World Cup é um torneio de times (países) 4v4 VS seguindo a regra do mata-mata. É um evento internacional, normalmente feito de ano em ano, com participação das comunidades do osu! ao redor do mundo trabalhando juntas para criar um torneio de natureza competitiva.
 
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] Taiwan | ![][flag_NL] Holanda | ![][flag_KR] Coréia do Sul |
-| [osu! World Cup #2](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] Coréia do Sul | ![][flag_JP] Japão | ![][flag_BR] Brasil |
-| [osu! World Cup #3 | 2012-10-25 | 2013-01-20 | ![][flag_KR] Coréia do Sul | ![][flag_JP] Japão | ![][flag_TW] Taiwan |
-| [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] Coréia do Sul | ![][flag_TW] Taiwan | ![][flag_PL] Polônia |
-| [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japão | ![][flag_PL] Polônia | ![][flag_DE] Alemanha |
-| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_PL] Polônia |
-| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_KR] Coréia do Sul |
-| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Polônia | ![][flag_US] USA | ![][flag_GB] UK |
+| Nome                                  | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|---------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [osu! World Cup #1](/wiki/Tournaments/OWC/1)     | 31/01/2011 | 08/04/2011 | ![][flag_TW] Taiwan                    | ![][flag_NL] Holanda                 | ![][flag_KR] Coréia do Sul                 |
+| [osu! World Cup #2](/wiki/Tournaments/OWC/2)     | 28/10/2011 | 24/03/2012 | ![][flag_KR] Coréia do Sul               | ![][flag_JP] Japão                       | ![][flag_BR] Brasil                      |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3)     | 25/10/2012 | 20/01/2013 | ![][flag_KR] Coréia do Sul               | ![][flag_JP] Japão                       | ![][flag_TW] Taiwan                      |
+| [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 15/10/2013 | 08/12/2013 | ![][flag_KR] Coréia do Sul               | ![][flag_TW] Taiwan                      | ![][flag_PL] Polônia                     |
+| [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 02/10/2014 | 14/12/2014 | ![][flag_JP] Japão                     | ![][flag_PL] Polônia                     | ![][flag_DE] Alemanha                     |
+| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 01/10/2015 | 13/12/2015 | ![][flag_US] USA                       | ![][flag_CN] China                       | ![][flag_PL] Polônia                     |
+| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 02/10/2016 | 18/12/2016 | ![][flag_US] USA                       | ![][flag_CN] China                       | ![][flag_KR] Coréia do Sul                     |
 
-### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
+### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| 2011 Taiko World Cup | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Japão | ![][flag_CN] China |
-| 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Japão A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japão B |
-| Taiko World Cup \#3 | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japão A |
-| [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japão | ![][flag_HK] Hong Kong | ![][flag_FR] França |
-| [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japão | ![][flag_TW] Taiwan | ![][flag_FR] França |
-| [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japão | ![][flag_TW] Taiwan | ![][flag_CA] Canadá |
-| [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japão | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong |
-| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] Japão | ![][flag_TW] Taiwan | ![][flag_CA] Canadá |
+| Nome                                   | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|----------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 12/03/2011 | 29/04/2011 | ![][flag_TW] Taiwan                    | ![][flag_JP] Japão                       | ![][flag_CN] China                       |
+| [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 03/02/2012 | 01/04/2012 | ![][flag_JP] Japão A                   | ![][flag_HK] Hong Kong A                 | ![][flag_JP] Japão B                     |
+| Taiko World Cup \#3                    | 22/09/2012 | 24/03/2013 | ![][flag_TW] Taiwan A                  | ![][flag_HK] Hong Kong A                 | ![][flag_JP] Japão A                     |
+| [Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 16/01/2014 | 09/03/2014 | ![][flag_JP] Japão                     | ![][flag_HK] Hong Kong                   | ![][flag_FR] França                      |
+| [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 12/01/2015 | 15/03/2015 | ![][flag_JP] Japão                     | ![][flag_TW] Taiwan                      | ![][flag_FR] França                      |
+| [Taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 09/02/2016 | 24/04/2016 | ![][flag_JP] Japão                     | ![][flag_TW] Taiwan                      | ![][flag_CA] Canadá                      |
+| [Taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 07/02/2017 | 16/04/2017 | ![][flag_JP] Japão                     | ![][flag_TW] Taiwan                      | ![][flag_HK] Hong Kong                      |
 
-### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
+### ![](/wiki/shared/mode/catch.png) Catch the Beat World Cup
 
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colômbia |
-| [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] Coréia do Sul | ![][flag_DE] Alemanha | ![][flag_SE] Suécia |
-| [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Coréia do Sul | ![][flag_CN] China | ![][flag_DE] Alemanha |
-| [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonésia | ![][flag_DE] Alemanha |
-| [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Coréia do Sul | ![][flag_CN] China | ![][flag_ID] Indonésia |
+| Nome                                            | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Catch the beat World Cup 2012 | 05/11/2011 | 02/05/2012 | ![][flag_CN] China                     | ![][flag_TW] Taiwan                      | ![][flag_CL] Chile                       |
+| Catch the beat World Cup 2013 | 15/01/2013 | 10/03/2013 | ![][flag_CL] Chile                     | ![][flag_TW] Taiwan                      | ![][flag_AR] Argentina/Colômbia         |
+| [Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 11/04/2014 | 15/06/2014 | ![][flag_KR] Coréia do Sul               | ![][flag_DE] Alemanha                     | ![][flag_SE] Suécia                      |
+| [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015 | 14/06/2015 | ![][flag_KR] Coréia do Sul               | ![][flag_CN] China                       | ![][flag_DE] Alemanha                     |
+| [Catch the Beat World Cup 2016](/wiki/Tournaments/CWC/2016) | 12/04/2016 | 26/06/2016 | ![][flag_CN] China               | ![][flag_ID] Indonésia                      | ![][flag_DE] Alemanha                     |
+| [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 03/05/2017 | 09/07/2017 | ![][flag_KR] Coréia do Sul                     | ![][flag_CN] China                 | ![][flag_ID] Indonésia                    |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
-| Nome | Início | Fim | Modalidade | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- | --- |
-| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 4K | ![][flag_KR] Coréia do Sul | ![][flag_PH] Filipinas | ![][flag_MY] Malásia |
-| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7K | ![][flag_KR] Coréia do Sul | ![][flag_TH] Tailândia | ![][flag_MY] Malásia |
-| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4K | ![][flag_US] USA | ![][flag_JP] Japão | ![][flag_GB] UK |
-| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 2015-12-01 | 2016-02-14 | 7K | ![][flag_CN] China | ![][flag_KR] Coréia do Sul | ![][flag_MY] Malásia |
-| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] Coréia do Sul | ![][flag_BR] Brasil | ![][flag_US] USA |
-| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] Coréia do Sul | ![][flag_CN] China | ![][flag_ID] Indonésia |
-| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] Coréia do Sul | ![][flag_US] USA | ![][flag_BR] Brasil |
-| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018/7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Coréia do Sul | ![][flag_MY] Malásia | ![][flag_CN] China |
+| Nome                                             | Início      | Fim        | Modalidade | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 4K   | ![][flag_KR] Coréia do Sul               | ![][flag_PH] Filipinas                 | ![][flag_MY] Malásia                    |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 7K   | ![][flag_KR] Coréia do Sul               | ![][flag_TH] Tailândia                    | ![][flag_MY] Malásia                    |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] USA                       | ![][flag_JP] Japão                       | ![][flag_GB] UK                          |
+| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] China                     | ![][flag_KR] Coréia do Sul                 | ![][flag_MY] Malásia                    |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 28/06/2016 | 11/09/2016 | 4K   | ![][flag_KR] Coréia do Sul                       | ![][flag_BR] Brasil                       | ![][flag_US] USA                         |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 12/12/2016 | 12/02/2017 | 7K   | ![][flag_KR] Coréia do Sul                     | ![][flag_CN] China                 | ![][flag_ID] Indonésia                    |
 
 Comunidade
 ----------
@@ -71,72 +63,23 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 ### ![](/wiki/shared/mode/osu.png) Rapid Monthly osu! Tournament Invitationals
 
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
-| [RMoT #5](/wiki/Tournaments/RMoT_Invitational/5) | 2018-05-12 | 2018-05-27 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
-
-### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| AUS/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ![][flag_AU] [Tokichii](https://osu.ppy.sh/users/557197) | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685) | ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
-| Aus/NZ osu!standard Tournament 2 | 2015-04-03 | 2015-05-18 | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685) | ![][flag_NZ] [buny](https://osu.ppy.sh/users/1488796) | ![][flag_AU] [Rivastyx](https://osu.ppy.sh/users/2719307) |
-| Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
-| Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
-| [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
-
-### ![](/wiki/shared/mode/osu.png) SS Tournament
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
-| [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018/) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
-
-### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| Indonesian Taiko Showdown 2017 | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](/users/1139209) | ![][flag_ID] [pmriva](/users/2180885) | ![][flag_ID] [Nishizumi](/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018/) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_JP] [butter0414](/users/7935022) |
-
-
-### ![](/wiki/shared/mode/catch.png) Catch French Cup
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/u/6178640)           | [bsurma](https://osu.ppy.sh/u/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
-
-### ![](/wiki/shared/mode/mania.png) Springtime osu!mania Free-for-all Tournament
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| Springtime osu!mania Free-for-all Tournament | 2016-02-19 | 2016-05-01 | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) | ![][flag_CL] [Urusai](https://osu.ppy.sh/users/469808) | ![][flag_FR] [bumpinho](https://osu.ppy.sh/users/1594604) | 
-| Springtime osu!mania Free-for-all Tournament 2 | 2017-02-18 | 2017-04-30 | ![][flag_KR] [cheetose](https://osu.ppy.sh/users/3817144) | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) | ![][flag_VN] [Asrielly](https://osu.ppy.sh/users/2656302) | 
-| [Springtime osu!mania Free-for-all Tournament 3](/wiki/Tournaments/SOFT/3/) | 2018-02-17 | 2018-04-29 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | ![][flag_JP] [inteliser](https://osu.ppy.sh/users/1824775) | ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
-
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
-
-| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
-| --- | --- | --- | --- | --- | --- |
-| osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) | 
-| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(7K)  | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(7K) | 
-| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018/) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(Standard), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(Catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(Standard), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)[Catch], ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(7K) |
+| Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+|--------------------------------------------------|------------|------------|----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/u/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/u/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/u/%5BCrz%5DScSolAr) |
 
 Veja também
 ---------
 
 -   [Lista de países que participaram em torneios do osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [Cronograma de Temporada da World Cup 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Cliente utilizado para streaming de torneios)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
@@ -150,12 +93,9 @@ Veja também
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
