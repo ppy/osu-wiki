@@ -8,7 +8,7 @@ Intermediate Global Taiko Showdown 2018
 
 ![Intermediate Global Taiko Showdown 2018](banner.jpg)
 
-The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the first iteration of the tournament.
+The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the first iteration of this tournament.
 
 ## Tournament Schedule
 
@@ -80,12 +80,12 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
    - Participant must join tournament's Discord server.
 3. The mapset will be announced the week before a stage begins.
 4. Match schedule is decided by the organisers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
-5. If both teams gets a tie on the TieBreaker, the TieBreaker will be replayed with FreeMod applied.
+5. If both teams get a tie on the TieBreaker, the TieBreaker will be replayed with FreeMod applied.
 6. If a player disconnects from the game, the opponent wins the round. 
    - If the player disconnects during the first five seconds of the song, the match will be restarted.
 7. Maps cannot be used twice in the same round.
 8. If a player doesn't show up within **15 minutes** of the start time, the enemy wins by default.
-9. Any other rules changes or unexpected occurrences will be announced in the tournament's forum thread.
+9. Any other rules, changes, or unexpected occurrences will be announced in the tournament's forum thread.
 
 ### Stage Regulations
 
@@ -117,7 +117,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
    - 2 HardRock
    - 2 DoubleTime
    - 2 FreeMod
-   - 1 Tiebreaker
+   - 1 TieBreaker
 5. The TieBreaker will be played under NoMod conditions.
    - In case of a tie, the TieBreaker will be replayed again with FreeMod activated.
 6. The mappool will be released after the last match of the previous stage has been played.
