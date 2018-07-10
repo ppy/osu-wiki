@@ -101,28 +101,23 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ## Match Schedule: Finals
 
-### Saturday, 07. July 2018
+### Saturday, 14. July 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| China       | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
-| France      | ![][flag_FR] | ![][flag_ID] | Indonesia   | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 | ² |
+| Chile       | ![][flag_CL] | ![][flag_CN] | China | **14:30 UTC** | 10:30 UTC-04 | 22:30 UTC+08 | ¹ |
 
 ### Sunday, 08. July 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| China       | ![][flag_CN] | ![][flag_FR] | France        | **12:00 UTC**  | 20:00 UTC+08 | 14:00 UTC+02 | ³ |
-| China       | ![][flag_CN] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 20:00 UTC+08 | 19:00 UTC+07 | ³ | 
-| South Korea | ![][flag_KR] | ![][flag_FR] | France        | **12:00 UTC**  | 21:00 UTC+09 | 14:00 UTC+02 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia     | **12:00 UTC**  | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
-| Chile       | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC**  | 15:00 UTC-04 | 12:00 UTC-07 | ¹ |
+| United States       | ![][flag_US] | ![][flag_CN] | China        | **13:00 UTC**  | 9:00 UTC-04  | 21:00 UTC+08 | ² |
+| United States       | ![][flag_US] | ![][flag_CL] | Chile        | **19:00 UTC**  | 15:00 UTC-04 | 15:00 UTC-04 | ² | 
 
-¹ Winner bracket encounter
- 
-² Loser bracket encounter
 
-³ Encounter dependent on results of ²Loser bracket encounter
+¹ Loser bracket encounter
+
+² Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
@@ -259,6 +254,18 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-07-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43963281) |
+| France ![][flag_FR] | 0 | 7 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43964720) |
+
+| Sunday, 2018-07-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 7 | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43991586) |
+| Chile ![][flag_CL] | 4 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/44001259) |
 
 ### SemiFinals
 
