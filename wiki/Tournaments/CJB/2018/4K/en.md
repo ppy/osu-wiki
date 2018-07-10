@@ -3,7 +3,7 @@ The 4th CJB osu!mania 4K Tournament
 
 ![CJB 4K 4th](banner.png)
 
-**The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, the fourth one-on-one osu!mania 4K specified Chinese regional tournament which is hosted by CJB team.
+**The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, is the fourth one-on-one osu!mania 4K specified Chinese regional tournament hosted by CJB team.
 
 ## Tournament Schedule
 
@@ -65,7 +65,7 @@ Coming Soon...
 
 ### Tournament Rules
 
-1. **The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_** is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CJB team.
+1. This tournament is a one-on-one osu!mania 4K specified tournament.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
      - The TieBreaker map will only be played in case of a tie.  
      - All maps are in a FreeMod bracket.
@@ -76,28 +76,28 @@ Coming Soon...
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  
-     - disconnets within 30s after the match starts, the match will be reset.   
-     - the player will be recorded as Failed.
+     - Disconnects within 30s after the match starts, the match will be reset.   
+     - The player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
 12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have (including but not limited to):
      - Internet issue.
      - System notification issue.
      - Hardware problems.
-13. Unexpected incidences are handled by the tournament management.
+13. Unexpected incidences are handled by the Tournament Management.
 14. Any modification of these rules will be announced.
 15. The CJB team reserves the right to use Chinese preferentially.
 
 ### Registration Rules
 
-1. Everyone who interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp) and read the announcement in the group to register.
-2. In order for your registration to count, you must meet following conditions:
+1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp) and read the announcement in the group to register.
+2. In order for your registration to count, you must meet the following conditions:
     - Participant's flag on their profile must be a country from **Asia**.
     - Participant uses Chinese as the primary language.
     - Participant **should not get more than 285pp on any 4K map** _and_ **the sum of your five best 4K maps' pp is not greater than 1350**.
     - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.
     - The quota of this tournament is **16**, first come first served.
-3. Successfully registered player will receive a confirm email and will be posted on the players list.
+3. Successfully registered players will receive a confirmation email and will be posted on the players list.
 4. Map Selectors and Managers are not allowed to register.
 
 ### Mappool Instructions
@@ -106,13 +106,13 @@ Coming Soon...
     - Pool of the Round of 16 and the Quarterfinals has **13** maps.
     - Pool of the Semifinals and the Finals has **15** maps.
 2. Each mappool has one TieBreaker.
-3. All of the maps will be played under _Free-Mod_ conditions.
+3. All of the maps will be played under _FreeMod_ conditions.
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-     - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
-     - PlayerBlue and playerRed must be in slot 1, 2, respectively.
+     - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name is "CJB4K: (PlayerRed) vs (PlayerBlue)".
+     - PlayerRed and PlayerBlue must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the _Banned Map_. These maps can not be played during this match.
 4. Each player must use `!roll` once in `#multiplayer`:
