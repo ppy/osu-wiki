@@ -99,7 +99,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
 ### Saturday, 14. July 2018
 
@@ -147,7 +147,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 - Tiebreaker
   - [BlackYooh vs. siromaru - BLACK or WHITE? \(Minato Yukina\) \[Final Showdown\]](http://osu.ppy.sh/beatmaps/1324298&m=2)
 
-### SemiFinals
+### Semifinals
 
 **[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
 
@@ -173,7 +173,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 - Tiebreaker
   - [Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](http://osu.ppy.sh/beatmaps/1570019&m=2)
 
-### QuarterFinals
+### Quarterfinals
 
 **[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
 
