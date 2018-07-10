@@ -117,7 +117,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ¹ Loser bracket encounter
 
-² Encounter dependent on results of ²Loser bracket encounter
+² Encounter dependent on results of ¹Loser bracket encounter
 
 ------------------------------------------------------------------------
 
