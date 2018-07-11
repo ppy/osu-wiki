@@ -241,7 +241,6 @@ The Heptakey osu!mania Cup #1
 | **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim      | [#1](https://osu.ppy.sh/community/matches/43977039) |
 | Lothus ![][flag_BR]      | 0 | **7** | ![][flag_US] **Gekido-** | -Win by Default- |
 
-
 | Sunday, 2018-07-08 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | **Yomiel** ![][flag_IT] | **7** | 0 | ![][flag_US] Gekido- | -Win by Default- |
