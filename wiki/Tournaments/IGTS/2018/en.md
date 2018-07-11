@@ -47,7 +47,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Links
 
-- [Official Forums Thread](/community/forums/topics/767841)
+- [Discussion Thread](/community/forums/topics/767841)
 - [IGTS Discord](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/beginnerstaikotourney)
 - [Player/Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScmGzj3NMAOimVUzSdMRDa8COV5MOxcANOljLuxQjrJ9wLIvg/viewform)
@@ -84,7 +84,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 6. If a player disconnects from the game, the opponent wins the round. 
    - If the player disconnects during the first five seconds of the song, the match will be restarted.
 7. Maps cannot be used twice in the same round.
-8. If a player doesn't show up within **15 minutes** of the start time, the enemy wins by default.
+8. If a player does not show up within **15 minutes** of the start time, the enemy wins by default.
 9. Any other rules, changes, or unexpected occurrences will be announced in the tournament's forum thread.
 
 ### Stage Regulations
