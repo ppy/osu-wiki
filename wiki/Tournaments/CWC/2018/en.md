@@ -105,7 +105,7 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Chile       | ![][flag_CL] | ![][flag_CN] | China | **14:30 UTC** | 10:30 UTC-04 | 22:30 UTC+08 | ¹ |
+| Chile       | ![][flag_CL] | ![][flag_CN] | China | **17:00 UTC** | 13:00 UTC-04 | 1:00 UTC+08 (Sun) | ¹ |
 
 ### Sunday, 15. July 2018
 
