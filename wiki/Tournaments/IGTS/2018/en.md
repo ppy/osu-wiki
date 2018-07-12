@@ -89,7 +89,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Stage Regulations
 
-1. There are four stages to this tournament: Group Stage, Quarterfinals, Semifinals, and Finals.
+1. There are five stages to this tournament: Group Stage, Round of 16, Quarterfinals, Semifinals, and Finals.
 2. Matches are seeded. Teams will be seeded by performance points.
 3. In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
 4. In Round of 16, Quarterfinals, and Semifinals, you need to win 5 beatmaps to win a match. (Best-of-9)
