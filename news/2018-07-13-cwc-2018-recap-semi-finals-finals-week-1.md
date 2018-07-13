@@ -16,7 +16,7 @@ However, over the past two weeks, our remaining twelve teams have been steadily 
 
 <iframe src="https://player.twitch.tv/?autoplay=false&video=v279355409" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
-## Semi Finals (Week 1)
+## Semi Finals
 
 by [Dohland](https://osu.ppy.sh/users/5220511)
 
