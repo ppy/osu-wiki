@@ -88,7 +88,7 @@ The Heptakey osu!mania Cup #1
   - [Hino Isuika - Dreamin' attraction!!(Extended) (MapleSyrup-) \[Orange Dream\]](https://osu.ppy.sh/beatmaps/1370533)
   - [Miyu Tomita & Mariya Ise - Deep in Abyss (LostCool) \[Have you ever seen a dawn?\]](https://osu.ppy.sh/beatmaps/1400630)
   - [Camellia - ANOMALY (qodtjr) \[The Last Madness\]](https://osu.ppy.sh/beatmaps/1285947)
-  - [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]]    (https://osu.ppy.sh/beatmaps/791775)
+  - [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]](https://osu.ppy.sh/beatmaps/791775)
   - [M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]](https://osu.ppy.sh/beatmaps/1700663)
   - [1788-L - P U L S A R / B E A M (MapleSyrup-) \[W Boson\]](https://osu.ppy.sh/beatmaps/1672321)
   - [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmaps/1699295)
