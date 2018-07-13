@@ -10,7 +10,7 @@ The 4th CJB osu!mania 4K Tournament
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-7-2/2018-7-13 |
-| Drawings | 2018-7-15 (20:00 UTC+8) |
+| Drawings | 2018-7-14 (20:30 UTC+8) |
 | Round of 16 | 2018-7-21/2018-7-22 |
 | Quarterfinals | 2018-7-28/2018-7-29 |
 | Semifinals | 2018-8-4/2018-8-5 |
