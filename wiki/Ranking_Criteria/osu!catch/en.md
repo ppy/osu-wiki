@@ -100,9 +100,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
+- **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
 -	**Dashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed at 160 BPM and below, whereas 1/4 dashes would be allowed at 120 BPM and below.
--   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
+- **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 -	**Basic dashes can't be used more than two times between consecutive fruits. If higher snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
 -	**Dashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
 -	**At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
@@ -127,7 +127,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -	**Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x the trigger distance and the movement after the hyperdash must be walkable.**
 -	**Dashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
 -	**Basic dashes can't be used more than four times between consecutive fruits. Higher snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
--   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
+- **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 -	**At least 125 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 -	**At least 250 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
