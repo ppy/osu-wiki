@@ -14,7 +14,7 @@ In general, by buying osu!supporter tag, you will be directly supporting the gam
 
 ![osu!store product banner](img/store-product.jpg "osu!supporter product banner from the osu!store")
 
-To get osu!supporter, sign in (or [sign up](/wiki/sign_up)). Then go to the [store page](/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
+To get osu!supporter, sign in (or [sign up](/wiki/sign_up)), then go to the [store page](/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
 
 ### Selecting the duration
 

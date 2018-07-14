@@ -18,12 +18,6 @@ Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido pelo peppy com quat
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Multi](/wiki/Multi/#getting-started)
 
-## Artigo do mês
-
-*Veja também: [Critérios de Classificação](/wiki/Ranking_Criteria).*
-
-Critérios de Classificação são um conjunto de regras e condutas definidas pela QAT para assegurar que todos os jogadores possam esperar por uma jogabilidade similar em todos os beatmaps.
-
 ## Beatmapping
 
 *Veja também: [Beatmapping](/wiki/Beatmapping/#getting-started).*

@@ -1357,7 +1357,7 @@ Notes:
 
 - By default, this is also used for the combo numbers.
 - This element is for the accuracy.
-- The usage is dependent of your selected language.
+- The usage is dependent on your selected language.
 
 ---
 
@@ -1373,7 +1373,7 @@ Notes:
 
 - By default, this is also used for the combo numbers.
 - This element is for the accuracy.
-- The usage is dependent of your selected language.
+- The usage is dependent on your selected language.
 
 ---
 
@@ -1387,7 +1387,6 @@ Notes:
 
 Notes:
 
-- By default, this is also used for the combo numbers.
 - This element is for the accuracy.
 
 ---
@@ -1402,7 +1401,6 @@ Notes:
 
 Notes:
 
-- By default, this is also used for the combo numbers.
 - This element is for the combo, only used in [osu!standard](/wiki/osu!standard).
 - Blend mode varies:
   - If used for combo counter:
@@ -2050,7 +2048,7 @@ Notes:
 
 - This element is used for the in-game leaderboards.
 - This element is used as the decimal separator.
-  - Useage depends on your selected language.
+  - Usage depends on your selected language.
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
@@ -2070,7 +2068,7 @@ Notes:
 
 - This element is used for the in-game leaderboards.
 - This element is used as the decimal separator.
-  - Useage depends on your selected language.
+  - Usage depends on your selected language.
 - Tinted white.
 
 ---

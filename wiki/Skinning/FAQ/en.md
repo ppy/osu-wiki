@@ -197,7 +197,7 @@ HD images have doubled dimension sizes. For example: the normal `hitcircle.png` 
 
 Every sprite has an HD counterpart, even all frames in an animation can have HD counterparts. As a result, the filesize of the folder or archive will increase due to having more images than normal.
 
-All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes _osu!_ is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
+All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes osu! is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
 
 - LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
 - HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)

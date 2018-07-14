@@ -62,7 +62,7 @@ outdated: true
 | [Nyquill](https://osu.ppy.sh/u/682935) | китайский | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | чат, техподдержка |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | голландский | чат |
-| [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu!wiki |
+| [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu! wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | корейский | чат |
 | [S o h](https://osu.ppy.sh/u/2234772) | японский | чат |
 | [Saten](https://osu.ppy.sh/u/444506) | шведский, испанский | чат |

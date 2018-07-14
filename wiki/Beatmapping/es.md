@@ -1,6 +1,6 @@
 # Beatmapping
 
-**Beatmapping** es el proceso de crear [beatmaps](/wiki/beatmaps) en _osu!_ para que los jugadores jueguen.
+**Beatmapping** es el proceso de crear [beatmaps](/wiki/beatmaps) en osu! para que los jugadores jueguen.
 Esto implica elegir una canción, [timing](/wiki/timing), colocación de [objetos](/wiki/objects), y (opcionalmente) [skinning](/wiki/skinning) y [storyboarding](/wiki/storyboarding).
 
 Los mappers generalmente quieren obtener su beatmaps [clasificado](/wiki/Beatmaps/#ranked) que consiste en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_Ranking_Procedure).
@@ -10,7 +10,7 @@ Intenta evitar canciones que tengan cambios de tempo (o de velocidad) o cancione
 
 ## Empezar
 
-Para crear un nuevo mapa de ritmo, ve al modo de edición y luego arrastra y suelta un archivo de audio en _osu!_.(Alternativamente, puedes moverun archivo de audio en la carpeta `Songs`.)
+Para crear un nuevo mapa de ritmo, ve al modo de edición y luego arrastra y suelta un archivo de audio en osu!.(Alternativamente, puedes moverun archivo de audio en la carpeta `Songs`.)
 Esto debería abrirse y dirigirte a la pantalla de edición con tu archivo de audio.
 Tu nueva canción estará disponible en la parte inferior de la lista de canciones, resaltada en púrpura.
 Si no aparece en la selección de la canción por algún motivo, presiona `F5` para restablecer la memoria caché de beatmap y debería aparecer.

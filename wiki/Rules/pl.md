@@ -44,7 +44,7 @@ Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyła
 
 Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria rankingowe](/wiki/Ranking_Criteria).
 
-1. **Upewnij się, że posiadasz prawa do całej zawartości swojej beatmapy**, włączając w to piosenki, wideo, dźwięki trafień, grafiki czy jakiekolwiek inne treści, która nie są twojego autorstwa. Jeżeli nie masz pewności, gdzie możesz znaleźć utwory do swobodnego użycia w ramach gry, radzimy zajrzeć do wciąż rozwijanej biblioteki w pełni licencjonowanych utworów dla _osu!_. Znajduje się ona pod [tym linkiem](https://osu.ppy.sh/beatmaps/artists/).
+1. **Upewnij się, że posiadasz prawa do całej zawartości swojej beatmapy**, włączając w to piosenki, wideo, dźwięki trafień, grafiki czy jakiekolwiek inne treści, która nie są twojego autorstwa. Jeżeli nie masz pewności, gdzie możesz znaleźć utwory do swobodnego użycia w ramach gry, radzimy zajrzeć do wciąż rozwijanej biblioteki w pełni licencjonowanych utworów dla osu!. Znajduje się ona pod [tym linkiem](https://osu.ppy.sh/beatmaps/artists/).
 2. **Trzymaj się tematu w wątkach beatmap.** Te dyskusje dotyczą wyłącznie beatmap. Jeżeli masz problem z czymś niezwiązanym bezpośrednio z beatmapą, to stwórz wątek na odpowiednim forum.
 3. **Nie kradnij ani nie przywłaszczaj sobie pracy innych.** Nie przesyłaj ani nie używaj pracy innych ludzi bez ich wyraźnej zgody, włączając w to m.in. skórki oraz gościnne poziomy trudności.
 

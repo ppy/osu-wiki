@@ -1,6 +1,9 @@
+---
+outdated: true
+---
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
 **БанчоБот** — это (сюрприз!) бот, написанный бывшим администратором . В обязанности бота, к примеру, входят:
 

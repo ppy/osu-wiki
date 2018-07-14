@@ -338,7 +338,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 在一个句子中枚举词语时，使用顿号分隔。
 
-- _osu!_ 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
+- osu! 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
 
 #### 英文标点
 

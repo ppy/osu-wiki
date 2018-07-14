@@ -2,7 +2,7 @@
 
 ![Logo d'osu!academy](img/osu!academy-logo.jpg "logo osu!academy")
 
-Le but de l'**osu!academy** est de donner les bases pour comprendre tous les aspects d'_osu!_, depuis le système de jeu jusqu'au mapping, et tout ce qu'il y a entre.
+Le but de l'**osu!academy** est de donner les bases pour comprendre tous les aspects d'osu!, depuis le système de jeu jusqu'au mapping, et tout ce qu'il y a entre.
 
 Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aideront à comprendre le jeu sans problèmes.
 Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.

@@ -58,37 +58,26 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
 -   **Each map must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
--   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
--   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
--   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any or their individual sections unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
+-   **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 
 #### Guidelines
 
+-   **You should not silence both slider ticks and slider slides together.** Silencing both can be fitting when ticks cover no sounds, but doing so otherwise is not acceptable.
+-   **Avoid visually obstructing reverse arrows on sliders with other hit objects in the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
+-   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
 -   **Avoid perfectly overlapping slider bodies in a way that causes reading issues.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 -   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses 1/3 snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
 -   **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
 -   **Avoid using combo colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 -   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
--   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
 -   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
--   **Avoid keysounding without hitnormal support.** If hit sounds blend perfectly with the song, feedback is minimal.
 -   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hit objects is playable.
--   **Difficulty should be appropriately expressed to represent the intensities of different sections in the music.** More complex/denser rhythms and more complex/quicker movements should be appropriately used to produce feedback through difficulty.
--   **Avoid major composition differences in similar sections of a song.** The basic spacing and rhythm should be similar, while patterning can vary. This ensures that rhythm and intensity in all similar sections reflect a song similarly.
--   **Sliders should begin on stronger beats and end on equal or weaker sounds.** Stressing important sounds through clicking is more natural to play than stressing unimportant sounds.
--   **Avoid extended sliders which pass through important sounds.** If an extended slider tail lands on silence and passes through a loud sound, players may have trouble interpreting rhythm. In these cases, it is better to place the slider tail on an audible beat.
--   **Jumps should be used to highlight certain sounds in the music.** Because playing a jump pattern puts more pressure on the player, they naturally fit better for highlighting certain sounds.
--   **Make sure that your spinners are not unreasonably long.** Aim for a maximum spinning time of about 5-7 seconds; any longer can cause the player's wrist to get sore. If your spinner must be longer, be sure that the music suggests this.
 -   **Spinners should be used when they fit the music.** This is to ensure score differences among perfect plays on the leaderboard. They usually fit during held notes, changes in intensity, or transitions between sections.
--   **When including a slider velocity change, there should be a discernible change in the song's pacing.** Otherwise the velocity change would feel unsupported by the music.
--   **Avoid following multiple layers of the song if it is unclear what rhythm is prioritizing.** Players should be able to discern what part of the song is being followed.
--   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4 or 1/8 are recommended. If the song is using a swing beat, 1/6 or 1/12 are recommended. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
--   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
--   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
 -   **Avoid using similar combo colours in successive combos.** Players should be able to differentiate between different combos in a map.
 -   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
+-   **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 
 ### Skinning
 
@@ -98,6 +87,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
 -   **A custom slider border colour must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific colour scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
 -   **Slider body colour cannot be too similar to slider border colour.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body colour can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **Slider body colour and slider border colour together must not blend in with a beatmap's background or video.** At that point, they make slider paths unclear or ambiguous to read. Having one blend in while the other does not may be acceptable.
 
 #### Guidelines
 

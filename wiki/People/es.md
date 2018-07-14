@@ -1,6 +1,6 @@
 # Gente
 
-Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener _osu!_
+Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener osu!
 La mayoría de estos grupos de usuarios reciben distintivos colores en el nombre dentro del foro, colores de chat en el juego y/o de perfil.
 
 - [Grupo de Nominaciones de Beatmaps (Beatmap Nomination Group)](/wiki/People/Beatmap_Nomination_Group)

@@ -8,7 +8,7 @@ Featuring some living legends of the Japanese music scene, we're proud to announ
 
 [![](https://assets.ppy.sh/artists/19/header.jpg)](https://osu.ppy.sh/beatmaps/artists/19)
 
-We're super excited to announce **MOtOLOiD**'s presence in the _osu!_ scene as a Featured Artist label, bringing the expertise of four of their highly acclaimed producers with them - namely **baker**, **Hige Driver**, **Yuyoyuppe** and more.
+We're super excited to announce **MOtOLOiD**'s presence in the osu! scene as a Featured Artist label, bringing the expertise of four of their highly acclaimed producers with them - namely **baker**, **Hige Driver**, **Yuyoyuppe** and more.
 
 You might recognise a few of these names already if you follow the scene, if you don't, you're bound to hear about them soon!
 
@@ -86,7 +86,7 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
 </audio>
 </center>
 
-Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an _osu!_ classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377) - check it out [here](https://osu.ppy.sh/s/682595).
+Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an osu! classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377) - check it out [here](https://osu.ppy.sh/s/682595).
 
 ------
 
