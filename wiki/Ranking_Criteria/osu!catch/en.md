@@ -49,7 +49,6 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 -   **Each map must use at least two different combo colours which must not blend in with the map's background/storyboard/video.** This is so hit objects are always visible to the player.
 -   **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 
-
 #### Guidelines
 
 -   **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
@@ -57,12 +56,11 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 -   **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty must be less than or equal to the Overall Difficulty of the next hardest difficulty.
 -   **Hyperdashes may only be used on drops and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play and a major penalty to accuracy for little benefit. Hyperdash on slider repetitions must not be used for more than two repeats, and such slider must not be used consecutively.
 -   **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
--	  **Dashes and hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.**
+-	  **Dashes and hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.
 -   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, and 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a sound in a different snap from what was recommended, snapping to an actual beat always takes priority.
 -   **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 -   **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
--   **Avoid using combo colours with ~220 luminosity or higher.** They create bright pulses during kiai time which can be unpleasant to the eyes.
-
+-   **Avoid using combo colours with ~220 luminosity or higher.** They create bright pulses during Kiai time which can be unpleasant to the eyes.
 
 ### Skinning
 
