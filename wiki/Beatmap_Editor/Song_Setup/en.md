@@ -1,6 +1,7 @@
 # Song Setup
 
-Song Setup contains metadata and general beatmap configuration settings.
+
+Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
 
 ## General
 
@@ -14,59 +15,61 @@ These fields should be completed before creating a second difficulty. This is pr
 
 #### Artist
 
-**The band, singer, composer, or group that performed or created the song.** This normally is pulled automatically from the MP3 file's metadata, but double-check for proper spelling and punctuation.
+**The band, singer, composer, or group that performed or created the song.** Normally, this is automatically taken from the MP3 file's metadata, but double-check for proper spelling and punctuation.
 
-*Notice: Anime or game titles belong in the [source](#source) field. Vocaloid names or company names belong in the [tags](#tags) field.*
+*Notice: Anime or game titles belong in the [Source](#source) field. Vocaloid or company names belong in the [Tags](#tags) field.*
 
 Foreign/Eastern names should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency).
 
-This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
+This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [Anime News Network](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
 
 ##### Romanised Artist
 
-**The romanised name of the artist.** This should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency). This field will only become available if unicode characters are used in the [artist](#artist) field.
+**The romanised name of the artist.** This should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency). This field will only become available if Unicode characters are used in the [Artist](#artist) field.
 
 #### Title
 
-**The song title.** This normally is pulled automatically from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation.
+**The song title.** Normally, this is automatically taken from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation.
 
 ##### Romanised Title
 
-**The romanised name of the song.** This field will only become available when unicode characters are used in the [title](#title) field.
+**The romanised name of the song.** This field will only become available if Unicode characters are used in the [Title](#title) field.
 
 #### Beatmap Creator
 
-**The creator's name that created the beatmap.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
+**The beatmap creator's username.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
 
-*Notice: The names of [guest creators](/wiki/GD) belong to the [difficulty](#difficulty) and/or [tags](#tags) fields.*
+*Notice: The usernames of [Guest Creators](/wiki/GD) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
 
 #### Difficulty
 
-**The name of the beatmap, in other words, the difficulty name.** The dropdown contains the preset names of `Easy`, `Normal`, `Hard`, and `Insane`. The creator can select one of the preset names from the dropdown menu or be creative use their own. While it is good to be creative, do try to make the difficulty names very clear as to which difficulty they represent. Ambiguous difficulty names will annoy players and is unrankable.
+**The name of the beatmap, in other words, the difficulty's name.** The dropdown contains the preset names of `Easy`, `Normal`, `Hard`, and `Insane`. The creator can select one of the preset names from the dropdown menu or type one in. While it is good to be creative, do try to make the difficulty names very clear as to which difficulty they represent. Ambiguous difficulty names will annoy players and are unrankable.
 
 This field can also be used to indicate that it is a guest difficulty (e.g. "Larto's Hard").
 
 #### Source
 
-**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs. If the song is from an anime, a video game, or is famous for its use in a TV or movie theme; then the title of that source should be added in this field. If otherwise, this field should be left empty.
+**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs. 
 
-*Notice: This is not to be used for album titles, those belong in the [tags](#tags) field.*
+If the song is from an anime, a video game, or is famous for its use in a movie or TV program; then the title of that source should be added in this field. If otherwise, this field should be left empty.
 
-Not every song needs something on the source field. The source is only for songs that are from something (e.g. a video game or an anime show). Regular rock and pop songs can have this field be left empty. Other relevant information should be entered on the [tags](#tags) field such as album title or subgenre information.
+*Notice: This is not to be used for album titles, those belong in the [Tags](#tags) field.*
+
+Not every song needs something on the source field. The source is only for songs that are from something (e.g. a video game or an anime). Regular rock and pop songs can have this field be left empty. Other relevant information should be entered on the [Tags](#tags) field such as album title or subgenre information.
 
 #### Tags
 
-**A list of keywords to help with search queries.** Commonly, tags should include album names, guest creator usernames, company names, and other terms that may be used by people when searching for beatmaps. If the beatmap has collaboration elements (such as storyboarding) done by other users, their usernames should be added to this field.
+**A list of keywords to help with search queries.** Commonly, tags should include album names, guest creator usernames, company names, and other terms that may be used by users when searching for beatmaps. If the beatmap has collaboration elements (such as storyboarding) done by other users, their usernames should be added to this field.
 
-Tags are separated with spaces (`Space`). It is not necessary to use this field as other metadata from the other fields are used to help query beatmaps; however, it is greatly appreciated for users trying to find your beatmaps when using the web search bar or the in-game search bar.
+Tags are separated with spaces. It is not necessary to use this field as other metadata from the other fields are used to help query beatmaps; however, it is greatly appreciated for users trying to find a specific beatmap.
 
 ## Difficulty
 
 ![Two screenshots of the difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmap.")
 
-*Notice: The game mode specific [Ranking Criterias](/wiki/Ranking_Criteria) has rankable values that should be used.*
+*Notice: The game mode specific [Ranking Criterias](/wiki/Ranking_Criteria) have rankable values that should be used.*
 
-The beatmap's difficulty settings. Each setting affects different aspects of the beatmap.
+The beatmap's difficulty settings; each setting affects different aspects of the beatmap.
 
 *Note: Holding down `Shift` allows for a precise 0.1 value adjustment over the standard 1 value adjustment.*
 
@@ -76,7 +79,7 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [passive HP](/wiki/passive_HP) (the constant rate at which HP decreases, except during the [breaks](/wiki/Breaks).
+In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Passive_HP) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
 
 *Note: More HP is recovered with [Geki and Katu](/wiki/Score/#osu) hit scores, which can be given from the last hit object in a combo.*
 
@@ -94,7 +97,7 @@ It is possible to set the CS value to something less than 2 or greater than 7 by
 
 #### Key Count
 
-Key Count, also known as Keys, replaces the [Circle Size](#circle-size) metric for [osu!mania-specific](#mode-specific) beatmaps. Key Count is self-explanatory; define the key count to be used. The values range from 1 to 9 keys.
+Key Count, also known as Keys, replaces the [Circle Size](#circle-size) metric for [osu!mania-specific](#mode-specific) beatmaps. Key Count is self-explanatory; it defines the key count that is used. The values range from 1 to 9 keys.
 
 Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
@@ -125,7 +128,7 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 ![Detailed OD chart](img/ODTable.png "Detailed OD chart")
 
-*Notice: On the beatmap listing page, Overall Difficulty is listed as Accuracy.*
+*Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
 
 Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and terms of getting the highest score value from the hit object.
 
@@ -170,8 +173,6 @@ Clicking on those buttons to test out how the sample set sounds. Four buttons ar
 
 ### Misc. Toggles
 
-Miscellaneous toggles.
-
 The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hit sounds to play at its own preset pitch.
 
 ## Colours
@@ -180,7 +181,7 @@ The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adju
 
 Configure the combo colours and playfield's background colour.
 
-### Hitcircle/Slider combos
+### Hitcircle/Slider Combos
 
 Configure the custom combo colour set. Combo colouring is an important aspect to a beatmap's aesthetic value.
 
@@ -196,7 +197,7 @@ Clicking the `Remove Combo Colour` will remove the last defined combo colour.
 
 Click on the `Background Colour` to change the blank playfield's background colour.
 
-A moot point to change except for storyboard that may expose the blank playfield's background.
+A debatable setting to change except for storyboards that may expose the blank playfield's background.
 
 ## Design
 
@@ -227,7 +228,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ![Advanced tab](img/SS_Advanced.jpg "Advanced tab")
 
-### Stack Leniency
+### Stacking
 
 ![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
 
@@ -243,7 +244,7 @@ Objects are considered to belong to same stack if they are at the same coordinat
 
 ### Mode Specific
 
-`Allowed Modes:` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`, which means the creator will create an osu!standard beatmap that can be converted into the other game modes. This can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific; but keep in mind that the change will remove every hit object in the beatmap.
+`Allowed Modes` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`, which means the creator will create an osu!standard beatmap that can be converted into the other game modes. This can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific; but keep in mind that the change will remove every hit object in the beatmap.
 
 *Note: Decide at the time of creation and confirm the beatmap's playable mode(s) first before adding in any hit objects to prevent wasted effort.*
 
