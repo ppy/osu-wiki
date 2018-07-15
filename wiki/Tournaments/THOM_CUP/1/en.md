@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
   - [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1498431)
   - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmaps/455082)
   - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmaps/766440)
-  - [litmus* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/beatmaps/960117)
+  - [litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/beatmaps/960117)
   - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/beatmaps/1647600)
   - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/beatmaps/1693865)
   - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/beatmaps/1649634)
