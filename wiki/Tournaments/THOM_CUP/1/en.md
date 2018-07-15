@@ -9,7 +9,7 @@ The Heptakey osu!mania Cup #1
 
 ![THOM CUP Logo](logo.png)
 
-**The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
+**The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) was a one-on-one euro-american osu!mania tournament. It was the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
@@ -28,7 +28,11 @@ The Heptakey osu!mania Cup #1
 
 ## Prizes
 
-*The prizes are to be decided.*
+| Placing | Prize |
+| :-: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $50 USD |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $30 USD |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $20 USD |
 
 ## Organization
 
@@ -75,6 +79,20 @@ The Heptakey osu!mania Cup #1
 | **F** | ![][flag_ES] aitor98      | ![][flag_CH] Gamer97  | ![][flag_PL] -Karen-chan- | ![][flag_FR] AntoAa     |
 | **G** | ![][flag_CL] Skalim       | ![][flag_RU] Mage     | ![][flag_GB] PikachuNick  | ![][flag_BR] andreymc   |
 | **H** | ![][flag_US] Gekido-      | ![][flag_US] Craig    | ![][flag_RU] Daleenie     | ![][flag_BR] CALCIO01   |
+
+---------------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+
+---------------------------
 
 ## Mappools
 
@@ -232,6 +250,16 @@ The Heptakey osu!mania Cup #1
   - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-07-14 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Skalim ![][flag_CL] | 2 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
+
+| Sunday, 2018-07-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **aitor98** ![][flag_ES] | **7** | 2 | ![][flag_IT] Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
 
 ### Finals
 
