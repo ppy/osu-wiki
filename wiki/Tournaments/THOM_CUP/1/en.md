@@ -9,7 +9,7 @@ The Heptakey osu!mania Cup #1
 
 ![THOM CUP Logo](logo.png)
 
-**The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) was a one-on-one euro-american osu!mania tournament. It was the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
+**The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
@@ -30,9 +30,9 @@ The Heptakey osu!mania Cup #1
 
 | Placing | Prize |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $50 USD |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $30 USD |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $20 USD |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
 
 ## Organization
 
