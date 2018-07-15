@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
   - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/beatmaps/1473413)
   - [w_tre - FIONA (stupud man) \[Hi (rework)\]](https://osu.ppy.sh/beatmaps/1694310)
   - [Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]](https://osu.ppy.sh/beatmaps/1677804)
-  - [PLight - TRIGGER*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1498431)
+  - [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1498431)
   - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmaps/455082)
   - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmaps/766440)
   - [litmus* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/beatmaps/960117)
