@@ -4,11 +4,11 @@ title: "osu!catch World Cup 2018: Grand Finals Recap"
 date: 2018-07-16 09:00:00 +0000
 ---
 
-Of our three fruit-obsessed finalists, only one team could be crowned this year's osu!catch World Cup Champions. Chile, China and The United States – through the fire and the falling, which would reign supreme? All the juicy details can be found within!
+Of our three fruit-obsessed finalists, only one team could be crowned this year's osu!catch World Cup Champions. Chile, China and the United States – through the fire and the falling, which would reign supreme? All the juicy details can be found within!
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Greetings once again everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here for your final osu!catch World Cup 2018 update. The sun has set on the osu!catch World Cup 2018 at last, and a team of worthy Champions have been crowned.
+Greetings once again everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here for your final osu!catch World Cup 2018 update. The sun has set on the year's premiere fruit-catching tournament at last, and a team of worthy Champions have been crowned.
 
 It was truly a tournament for the ages, as old Gods fell, and new warriors arose to forever etch their names in history. There were ties and tiebreakers aplenty. Some crept by on the narrowest of margins, whilst others, sadly, fell agonizingly short. Needless to say, my expectations have been exceeded on almost every conceivable level!
 
