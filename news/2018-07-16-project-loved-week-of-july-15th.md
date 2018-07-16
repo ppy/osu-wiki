@@ -115,7 +115,7 @@ dazzulay is not someone often seen in the limelight of osu!catch mapping, but th
 [Nekodex - Circles (Daikyi Vocal Cover)](https://osu.ppy.sh/beatmapsets/492143) by [Halogen-](https://osu.ppy.sh/users/169992)  
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
-Bring out your duuuuu's and get ready for the arrival of a familiar tune, because to start off the mania spotlights, we are nominating Halogen-'s chart for Nekodex - Circles, but with a bit of a twist. This version of the song is an a cappella performed by the one and only Daikyi, submitted for the 2016 osu!idol competition, showing off his wonderful beatboxing and singing talents that ultimately netted him 2nd place.
+Bring out your duuuuu's and get ready for the arrival of a familiar tune, because to start off the osu!mania spotlights, we are nominating Halogen-'s chart for Nekodex - Circles, but with a bit of a twist. This version of the song is an a cappella performed by the one and only Daikyi, submitted for the 2016 osu!idol competition, showing off his wonderful beatboxing and singing talents that ultimately netted him 2nd place.
 
 As amusing as it may be to chart (and make an a cappella for) a song that has dug its way into the minds of anyone who has opened osu!, Halogen-'s rendition is certainly not a joke of a chart. The chart begins with some 1/4 jumpstream patterns and eventually transitions into a break, where bursts and single streams begin to show their face. This is then capped off with the final kiai where extended 1/6 rolly streams are added to nicely compliment Daikyi's silky smooth voice.
 
@@ -126,7 +126,7 @@ All in all, this chart proves to be an amusing and enjoyable chart to play; fitt
 [Yamamoto Momiji - Doutei Korose (short Ver.)](https://osu.ppy.sh/beatmapsets/428029) by [ALEFY](https://osu.ppy.sh/users/1291769)  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Next up we have an inconspicuous, yet extremely fun map made by ALEFY. Doutei Korose was featured in the group stage of osu!mania 4K World Cup 2016 and it has given ALEFY's charts a lot of recognition.
+Next up we have an inconspicuous, yet extremely fun map made by ALEFY. Doutei Korose was featured in the group stage of the osu!mania 4K World Cup 2016 and it has given ALEFY's charts a lot of recognition.
 
 Doutei Korose is so pleasant because despite of the map's rather low difficulty, it is patterned very creatively, especially when it comes to LN usage, perfectly augmenting the lively nature of the song. It is a great example that an easier map does not have to be boring. Players attempting the SV difficulty must also face a tricky quad, that teleports closer and closer with each tick appearing in the song. With that in mind, Doutei Korose is a great addition to Loved category!
 
@@ -153,7 +153,7 @@ It's a pioneering chart that was one of the bigger influences on the gimmick cha
 [Primary - Negative Legacy](https://osu.ppy.sh/beatmapsets/171847) by [Sorarei](https://osu.ppy.sh/users/1814885) et al.  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-A map which almost made it to the Ranked section but was then abandoned, Negative Legacy is another well-known 7K mapset. It has been mapped by Sorarei (previously known as Reikosaka), with guest difficulties made by Arzenvald (ExUsagi), ArcherLove and Skalim, whose final difficulty appeared in osu!mania 7K World Cup 2016.
+A map which almost made it to the Ranked section but was then abandoned, Negative Legacy is another well-known 7K mapset. It has been mapped by Sorarei (previously known as Reikosaka), with guest difficulties made by Arzenvald (ExUsagi), ArcherLove and Skalim, whose final difficulty appeared in the osu!mania 7K World Cup 2016.
 
 The mapset itself is mostly LN-oriented, with emphasis on short, stream-like long notes which are rather hard to read. Choruses are especially tricky, as density noticeably ramps up. Another important aspect of the map is the SVs scattered throughout the chart, which make it really fluid and dynamic, although they may take some time to get hang of. With that in consideration, as well as the fact that Negative Legacy contains a whole spread of difficulties, we want to give this mapset a second life by nominating it for Loved section.
 
