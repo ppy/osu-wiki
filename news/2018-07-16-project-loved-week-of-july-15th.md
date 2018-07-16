@@ -28,7 +28,7 @@ There's not much to say for this week, just business as usual—so GET THESE BEA
 [Shoko Nakagawa remixed by Assertive - Sorairo Days (Assertive Remix)](https://osu.ppy.sh/beatmapsets/439285) by [KoTo](https://osu.ppy.sh/users/1382805)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-A nomod player's playground, this unranked KoTo map has certainly gained popularity over the last few years. This upbeat song is accompanied by a map of 7\* flowy jumps and spaced streams. If that sounds like your cup of tea, be sure to try this map out for yourself and earn yourself a spot on this map's loved leaderboard!
+A NoMod player's playground, this unranked KoTo map has certainly gained popularity over the last few years. This upbeat song is accompanied by a map of 7\* flowy jumps and spaced streams. If that sounds like your cup of tea, be sure to try this map out for yourself and earn yourself a spot on this map's loved leaderboard!
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/osu/dadadadadadadadadada-long-version.jpg)](https://osu.ppy.sh/community/forums/topics/%TOPIC_ID%)
 
@@ -90,7 +90,7 @@ There's really no way to expect what katacheh is going to bring to you in a map.
 
 [Cornandbeans - Blaze](https://osu.ppy.sh/beatmapsets/228460) by [OnosakiHito](https://osu.ppy.sh/users/290128)
 
-A classic from the early days, Blaze is one of OnosakiHito's most popular maps. A lot of older players will recognize this map from the osu!taiko World Cup 2015, where it appeared in the Finals nomod pool. Long streams are the main course for this map, and it's really a treat for players who are more accustomed to the older style of difficulty presented in maps. Ono's mapping style has remained a style that is polarizing, for its authentic style feel, but we believe this is a map fit to be Loved!
+A classic from the early days, Blaze is one of OnosakiHito's most popular maps. A lot of older players will recognize this map from the osu!taiko World Cup 2015, where it appeared in the finals NoMod pool. Long streams are the main course for this map, and it's really a treat for players who are more accustomed to the older style of difficulty presented in maps. Ono's mapping style has remained a style that is polarizing, for its authentic style feel, but we believe this is a map fit to be Loved!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
