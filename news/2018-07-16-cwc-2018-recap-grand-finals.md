@@ -48,7 +48,7 @@ The United States would record a second point courtesy of [Guillotine](https://o
 
 **Congratulations to China on their victory, the United States for their first ever podium placing, and Chile for their first return to the top-three since 2013.**
 
-I know I've said it a lot these past few weeks, but this really has been the most enthralling and entertaining tournaments in osu!catch history, and perhaps osu! World Cup history as a whole. The match quality was at an insanely high level, there were surprises, shocks and twists seemingly around every corner, and every match was played out in an incredible atmosphere and positive spirit.
+I know I've said it a lot these past few weeks, but this really has been one of the most enthralling and entertaining tournaments in osu!catch history, and perhaps osu! World Cup history as a whole. The match quality was at an insanely high level, there were surprises, shocks and twists seemingly around every corner, and every match was played out in an incredible atmosphere and positive spirit.
 
 It's taken a huge amount of effort to pull this off, so I'd like to give a quick shoutout to everyone who has helped to make this tournament such a success – to our streamers, schedulers and map selectors who lay the crucial foundations, the enriching efforts of the statisticians and my fellow commentary team, and of course, to the players for their skill, dedication, and passion for this great game.
 
