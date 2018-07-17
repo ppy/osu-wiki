@@ -28,10 +28,10 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 | Placing | Prize(s) |
 | --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | None |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | None |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
-## Organization
+## Organisation
 
 The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
