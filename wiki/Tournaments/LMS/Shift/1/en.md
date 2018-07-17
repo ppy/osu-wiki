@@ -28,12 +28,10 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 | Placing | Prize(s) |
 | --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
- *The remaining prizes are to be decided.*
-
-## Organization
+## Organisation
 
 The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
@@ -51,30 +49,8 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 - [Discussion Thread](/community/forums/topics/744163)
 - [Official LMS Discord](https://discord.gg/wEkYka)
 - [Livestream](https://www.twitch.tv/osutaikolive)
-- [Registration](https://puu.sh/An5Cq/8a2b1d51d6.png)
-- [Mappool Suggestions Form](https://docs.google.com/forms/d/e/1FAIpQLSdoInV0tQksRlZDgpk5tN06Mxa2illONxm0mEgX22shniuqwg/viewform)
-- [Match Schedules & Groups](https://docs.google.com/spreadsheets/d/1OmEe5J_os3fB95weFNtoXTdUD4wymnBH73m5x7CCb9I/edit?usp=sharing)
 - [LMS: Shift Cup Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml#)
 - [Challonge Brackets & Predictions](https://challonge.com/96vafjot)
-
------------------------
-
-## Match Schedules: Grand Finals
-
-### Saturday, 14 July 2018
-
-| Group | Team A | Team B | Match Time (UTC) | Bracket |
-| :-: | --: | :-- | :-: | :-: |
-| C2-E1 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | あ | **14:00 UTC** | Lower |
-
-### Sunday, 15 July 2018
-
-| Group | Team A | Team B | Match Time (UTC) | Bracket |
-| :-: | --: | :-- | :-: | :-: |
-| A1-E1 | V E R Y S T R O N G T E A M | あ | **10:00 UTC** | Upper |
-| A1-C2 | V E R Y S T R O N G T E A M | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | **14:00 UTC** | Upper |
-
-*A1's opponent is the winner of match C2-E1.*
 
 -----------------------
 
@@ -110,6 +86,18 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 | Bottom | **logic is half ＢＬＡＣＫ!** | ![][flag_GB] **[Lain Iwakura](/users/4761739)**, ![][flag_US] [\_knots](/users/4407678), ![][flag_GB] [Polfy](/users/4623263), ![][flag_GB] [Sona lessthan3](/users/6928305) | 
 | Bottom | **Tatacon PH** | ![][flag_PH] **[Jmeh07](/users/2852269)**, ![][flag_PH] [Kotaro](/users/796530), ![][flag_PH] [Weaotaku](/users/9702726), ![][flag_PH] [Micka](/users/2770422) | 
 | Bottom | **Mujuuryoku** | ![][flag_HK] **[Akali393394](/users/9686628)**, ![][flag_PH] [yuki\_momoiro722](/users/7186791), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_AU] [cactusthegreat](/users/5592409) | 
+
+-----------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team(s) |
+| --- | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | V E R Y S T R O N G T E A M |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | あ |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
 
 -----------------------
 
@@ -304,6 +292,16 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Group | Saturday, 2018-07-14 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| C2-E1 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | 0 | 6 | あ | [#1](/community/matches/44162477) |
+
+| Group | Sunday, 2018-07-15 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| A1-E1 | V E R Y S T R O N G T E A M | 6 | 3 | あ | [#1](/community/matches/44186275) |
 
 ### Finals
 
