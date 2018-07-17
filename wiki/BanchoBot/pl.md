@@ -6,13 +6,13 @@ BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), któr
 
 ## Komendy
 
-*Dla listy komend klienta gry, sprawdź artykuł: [Czat](/wiki/Chat_Console)*
+*Listę komend klienta gry możesz sprawdzić tutaj: [Czat](/wiki/Chat_Console)*
 
-Komendy BanchoBota składają się z komend poprzedzonych znakiem `!`. Działają one zarówno w grze jak i zewnętrznych klientach IRC. Komendy mogą zostać użyte na kanałach trybu wieloosobowego, jak i w zakładce z BanchoBotem. Jeżeli zwykły użytkownik użyje komendy BanchoBota na kanale publicznym, inni użytkownicy jej nie zobaczą, a odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
+Komendy BanchoBota składają się z komend poprzedzonych znakiem `!`. Działają one zarówno w grze jak i zewnętrznych klientach IRC. Komendy mogą zostać użyte na kanałach trybu wieloosobowego, jak i w rozmowie prywatnej z BanchoBotem. Jeżeli zwykły użytkownik użyje komendy BanchoBota na kanale publicznym, inni użytkownicy jej nie zobaczą, a odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
 
-Możesz także użyć komendy klienta gry `/bb`, aby otworzyć zakładkę z BanchoBotem i natychmiastowo wysłać komendę.
+Możesz także użyć komendy klienta gry `/bb`, aby otworzyć zakładkę rozmowy prywatnej z BanchoBotem i natychmiastowo wysłać w niej komendę.
 
-*Ważne: Komenda `SEARCH` nie została uwzględniona, gdyż przestała działać.*
+*Ważne: Komenda `SEARCH` nie została uwzględniona, gdyż nie jest już obsługiwana.*
 
 *Ważne: Na atrybut `użytkownik` nie ma wpływu wielkość liter.*
 
@@ -26,7 +26,7 @@ Wyświetla listę wszystkich dostępnych komend BanchoBota.
 
 #### Przykład użycia
 
-*Ważne: Atrybut `user` dla komendy `REPORT` jest brakujący.*
+*Ważne: Atrybut `user` dla komendy `REPORT` nie jest uwzględniony.*
 
 ```
 pippi: !help
@@ -61,7 +61,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <użytkownik>
 ```
 
-Wyświetla statystyki wybranego użytkownika z ostatnio granego trybu gry.
+Wyświetla statystyki wybranego użytkownika z ostatnio granego przez niego trybu gry.
 
 *Ważne: BanchoBot nie poda informacji z jakiego trybu pochodzą statystyki.*
 
@@ -109,7 +109,7 @@ BanchoBot: Ephemeral is in Australia
 !FAQ list
 ```
 
-Wyświetla wiadomość przypisaną do hasła. Użycie atrybutu `list` spowoduje wyświetlenie się listy wszystkich dostępnych haseł. Jeżeli moderator użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona na tym kanale. Jeżeli zwykły użytkownik użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
+Wyświetla wiadomość przypisaną do hasła. Użycie atrybutu `list` spowoduje wyświetlenie listy wszystkich dostępnych haseł. Jeżeli moderator użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona na tym kanale. Jeżeli zwykły użytkownik użyje tej komendy na kanale publicznym, odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
 
 #### Przykłady użycia
 
@@ -138,7 +138,7 @@ Tama: ok
 
 *Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (`_`).*
 
-Wysyła zgłoszenie nadużycia do [moderatorów globalnych](/wiki/Global_Moderation_Team) i [moderatorów](/wiki/Language_Moderators).
+Wysyła zgłoszenie do [moderatorów globalnych](/wiki/Global_Moderation_Team).
 
 #### Przykład użycia
 
