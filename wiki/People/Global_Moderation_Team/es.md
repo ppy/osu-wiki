@@ -43,6 +43,7 @@ Miembros del equipo
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat, Moderación de Disqus |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | Español | Moderación del chat, Moderación del foro |
+| ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italiano | Moderación del chat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, Moderación del foro, Moderación de Disqus |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderación del chat, Moderación del foro |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francés | Moderación del chat |

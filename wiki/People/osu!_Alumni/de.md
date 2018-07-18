@@ -133,7 +133,6 @@ Die **osu! Alumni** sind für ihre bewegenden Beiträge an osu! bekannt. Hätten
 | [MMzz](https://osu.ppy.sh/users/128993) | QAT |
 | [Mogsworth](https://osu.ppy.sh/users/4018) | BAT |
 | [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
-| [MrSergio](https://osu.ppy.sh/users/2581696) | GMT |
 | [mrtn](https://osu.ppy.sh/users/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/users/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/users/930165) | Chat Moderator |

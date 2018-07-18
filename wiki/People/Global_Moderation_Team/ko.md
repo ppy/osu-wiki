@@ -43,6 +43,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 러시아어 | 채팅 관리, Disqus 관리 |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | 핀란드어 | 채팅 관리 |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | 스페인어 | 채팅 관리, 포럼 관리 |
+| ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 이탈리아어 | 채팅 관리 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 네덜란드어 | 채팅 관리, 포럼 관리, Disqus 관리 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 프랑스어 | 채팅 관리 |
