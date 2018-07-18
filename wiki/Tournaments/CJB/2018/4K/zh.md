@@ -42,22 +42,22 @@
 
 - [直播间](https://live.bilibili.com/5333)
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
-- [challonge](https://challonge.com/zh_CN/cjb4)
+- [Challonge](https://challonge.com/zh_CN/cjb4)
 
 ## 比赛预告
 
 ### 十六强
 
-7月21日，星期六
+#### 7月21日，星期六
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
 | 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
 | 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
-| 16:00 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
 | 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
+| 22:30 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
 
-7月22日，星期日
+#### 7月22日，星期日
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
@@ -70,24 +70,23 @@
 
 ### 十六强
 
-[百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA)  
-[Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)
+**下载完整图池包！（77.5M） - [百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA) - [Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)**
 
-- [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
-- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
-- [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
-- [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
-- [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
-- [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
-- [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
-- [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
-- [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
-- [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
-- [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
-- [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
-
-TieBreaker:
-- [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
+- FreeMod
+  - [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
+  - [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
+  - [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
+  - [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
+  - [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
+  - [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
+  - [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
+  - [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
+  - [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
+  - [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
+  - [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
+  - [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
+- Tiebreaker
+  - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## 规则
 
@@ -109,7 +108,7 @@ TieBreaker:
 
 1. 第四届 osu!mania 4K 菜鸡杯（以下均简写为CJB 4K 4th）为华人区个人比赛，是由 CJB 团队举办的第四届华人区 osu!mania 4K 大赛。比赛所用谱面均为 osu!mania 4K 专用谱。
 2. 每场比赛的图池将于比赛前一周的周末由图池管理员放出：
-    - 其中的 Tie-breaker（决胜）谱面仅用于决胜局比赛。
+    - 其中的 Tiebreaker（决胜）谱面仅用于决胜局比赛。
     - 所有谱面均为 Free-mod。
 3. 比赛日程将由组委会讨论公布（组委会名单见公告）。
 4. 若工作人员与统计员均不能就位，比赛将会被推迟。
@@ -147,7 +146,7 @@ TieBreaker:
 1. 16强、1/4决赛、半决赛、决赛第一周、决赛第二周各有一个图池。图池地图数根据赛程变化：
     - 16强与1/4决赛各有13张图。
     - 半决赛、决赛第一周和决赛第二周各有15张图。
-2. 每一个图池包括一个决胜图（Tie-breaker）。
+2. 每一个图池包括一个决胜图（Tiebreaker）。
 3. 所有地图，包括决胜图，都使用 Free-mod 进行。
 
 ### 比赛流程
@@ -162,7 +161,7 @@ TieBreaker:
     - 点数较高者开始选择比赛图，然后交替选图。
     - 点数相等时，重新开始 `!roll`。
 5. 两名选手交替从图池中选择比赛图：
-    - 出现平局时（双方均差1分赢得比赛），选手必须使用决胜图（Tie-breaker）作为下一张比赛地图。
+    - 出现平局时（双方均差1分赢得比赛），选手必须使用决胜图（Tiebreaker）作为下一张比赛地图。
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_TW]: /wiki/shared/flag/TW.gif

@@ -42,22 +42,22 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 - [Livestream](https://live.bilibili.com/5333)
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
-- [challonge](https://challonge.com/zh_CN/cjb4)
+- [Challonge](https://challonge.com/zh_CN/cjb4)
 
-## Match schedule
+## Match Schedule
 
 ### Round of 16
 
-Saturday，21. July 2018
+#### Saturday, 21. July 2018
 
 | Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
 | 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
 | 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
-| 16:00 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
 | 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
+| 22:30 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
 
-Sunday，22. July 2018
+#### Sunday, 22. July 2018
 
 | Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
@@ -70,24 +70,23 @@ Sunday，22. July 2018
 
 ### Round of 16
 
-[Baidu Netdisk](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA)  
-[Google Drive](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)
+**Download the mappack here! (77.5 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA) - [Google Drive](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)**
 
-- [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
-- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
-- [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
-- [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
-- [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
-- [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
-- [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
-- [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
-- [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
-- [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
-- [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
-- [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
-
-TieBreaker:
-- [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
+- FreeMod
+  - [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
+  - [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
+  - [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
+  - [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
+  - [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
+  - [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
+  - [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
+  - [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
+  - [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
+  - [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
+  - [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
+  - [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
+- Tiebreaker
+  - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## Ruleset
 
@@ -109,7 +108,7 @@ TieBreaker:
 
 1. This tournament is a one-on-one osu!mania 4K specified tournament.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
-     - The TieBreaker map will only be played in case of a tie.  
+     - The Tiebreaker map will only be played in case of a tie.  
      - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
@@ -147,7 +146,7 @@ TieBreaker:
 1. Each stage has **1** pool:
     - Pool of the Round of 16 and the Quarterfinals has **13** maps.
     - Pool of the Semifinals and the Finals has **15** maps.
-2. Each mappool has one TieBreaker.
+2. Each mappool has one Tiebreaker.
 3. All of the maps will be played under _FreeMod_ conditions.
 
 ### Match Instructions
@@ -162,7 +161,7 @@ TieBreaker:
      - The winning roll picks the first map of the match.
      - Repeat `!roll` if two rolls are equal.
 5. Players pick maps by turns:
-     - In case of a tie, the TieBreaker map must be played.
+     - In case of a tie, the Tiebreaker map must be played.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
