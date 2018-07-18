@@ -44,7 +44,7 @@ Many congratulations on becoming Beatmap Nominators, everyone – we hope you en
 
 As always though, some of our hard working members have departed the team to pursue other goals outside of the focus of the Beatmap Nominators. Please give thanks to the following for their hard work and contribution to the wonderful mapping and modding community:
 
-[AyonokoRin](https://osu.ppy.sh/users/5376866), [dsco](https://osu.ppy.sh/users/4330511), [celerih](https://osu.ppy.sh/users/4696296), [frukoyurdakul](https://osu.ppy.sh/users/7612550) and [Kagetsu](https://osu.ppy.sh/users/6203841) 
+[AyonokoRin](https://osu.ppy.sh/users/5376866), [dsco](https://osu.ppy.sh/users/4330511), [celerih](https://osu.ppy.sh/users/4696296), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Hailie](https://osu.ppy.sh/users/5226970) and [Kagetsu](https://osu.ppy.sh/users/6203841) 
 
 Their unique perspectives and courage to explore the frontiers of mapping have beaten a path for others to follow and expand. Thank you for your contributions and good luck wherever you go next.
 
@@ -56,7 +56,7 @@ As a result, we said goodbye to some old and long serving friends, and welcomed 
 
 ### Public QAT Meeting
 
-On June 17th, we had our second public QAT meeting in the osu!dev server, after the success of the first back in April. This meeting was advertised much more in advance, and this was reflected by a considerably higher turn out with more community involved discussion.
+On June 17th, we had our second public QAT meeting in the osu!dev server, after the success of the first back in April. This meeting was advertised much more in advance, and this was reflected by a considerably higher turnout with more community involved discussion.
 
 Community members were able to share some of their opinions on a plethora of topics, including changes to the Beatmap Nominators subdivision system, beatmap veto mediation, tighter quality standards and review of our Beatmap Nominators, introduction of QAT interviews, and changes to Beatmap Nominator applications.
 
@@ -74,7 +74,7 @@ Stop by and give the [current draft](https://gist.github.com/Okorin/1a5f5d6f4894
 
 ### New Quality Assurance Team additions
 
-This month, we welcome a new piano masher to the Quality Assurance Team. Formerly a long standing member of the Beatmap Nominators, [Maxus](https://osu.ppy.sh/users/4335785) will be assisting the Quality Assurance Helpers with checking and disqualifying beatmaps, and giving [Feerum](https://osu.ppy.sh/users/4815717) a I a helping hand on the osu!mania community side of things. We're glad to have him on board!
+This month, we welcome a new piano masher to the Quality Assurance Team. Formerly a long standing member of the Beatmap Nominators, [Maxus](https://osu.ppy.sh/users/4335785) will be assisting the Quality Assurance Helpers with checking and disqualifying beatmaps, and giving [Feerum](https://osu.ppy.sh/users/4815717) a myself a helping hand on the osu!mania community side of things. We're glad to have him on board!
 
 On the osu! side of the coin, another new team member has arisen: [Hobbes2](https://osu.ppy.sh/users/8157492). Hobbes' recent output of checked beatmaps in the Quality Assurance Helpers has been frankly astonishing, and we hope that trend continues in the QAT to keep on top of the ever-growing pool of osu! beatmaps making their way to the Qualified section.
 
