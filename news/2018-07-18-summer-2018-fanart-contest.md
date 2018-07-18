@@ -12,7 +12,7 @@ Whip out your drawing implement of choice and pen **any of the osu! or osu! comm
 
 Those willing to brave the heated deadline will find themselves with **14 days from the date of this post** to put drawing thing to drawing medium in a sizzling display of artistic talent.
 
-Once submissions close, all the scorching submissions will placed up for **7 days of blazing voting**, with a top selection of the most highly voted entries netting their artists **2 months of osu!supporter, and also appearing in the game client as a seasonal background for several weeks.**
+Once submissions close, all the scorching submissions will be placed up for **7 days of blazing voting**, with a top selection of the most highly voted entries netting their artists **2 months of osu!supporter, and also appearing in the game client as a seasonal background for several weeks.**
 
 This also neatly lines up with the start of the osu!mania 4K World Cup, which means that the winning pieces will get a HIDDEN EXTRA PRIZE as the waiting-screen backgrounds of choice for all those who tune in to see some of osu!'s best duke it out. Spicy.
 
@@ -28,7 +28,7 @@ Make sure to give them a look even if you're a regular, some have changed again,
 * **WHEN USING THE TEMPLATE SUPPLIED ABOVE, DO NOT LEAVE IT VISIBLE IN YOUR SUBMISSION!** People who leave their templates in their pieces *might* get an angry private message from me shortly after submissions close. Please don't make me angry. You won't like me when I'm angry.
 * **Entries MUST meet the resolution requirements for a main-menu piece - namely 2732x1536.** Don't half-size, don't submit things in weird dimensions that aren't specified, submit them in 2732x1536 or not at all! 1366x768 is BAAAAAD since the game client uses 2732x1536 to display the winning background entries, and we have been forced to scale up entries in the past. Your work deserves better!
 * **SUBMIT ONLY YOUR OWN WORK! NO TRACING! NO REDRAWING!** It hurts that we have to keep saying this but please, we want to see *your* work, not a rehash of pixiv or DeviantArt's latest and greatest Zero Two fanart redrawn to look like an osu! mascot. We will invariably find out if you do this, and repeat offenders will be unwelcome to participate in the future.
-* **Don't use copyrighted characters from other intellectual properties.** You can freely use any of the osu! mascots (pippi, Yuzu, Mocha, Maria) and any of the community mascots (Tama, Aiko, Taikonator, so on), but stay away from using direct representations of characters from other worlds or franchises in your work. Remember that the community mascots are also someone else's creation, so make sure to treat them with the same respect that you'd like your work treated with.
+* **Don't use copyrighted characters from other intellectual properties.** You can freely use any of the osu! mascots (pippi, Yuzu, Mocha, Maria) and any of the community mascots (Tama, Aiko, Taikonator, so on), but stay away from using direct representations of characters from other worlds or franchises in your work. Remember that the community mascots are also someone else's creation, so make sure to treat their work with the same respect that you'd treat yours.
 
 [We cool? We cool. Now, start heating things up and submit your entry over at the Summer 2018 Fanart Contest listing!](https://osu.ppy.sh/community/contests/66)
 
