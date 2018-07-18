@@ -42,10 +42,52 @@
 
 - [直播间](https://live.bilibili.com/5333)
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
+- [challonge](https://challonge.com/zh_CN/cjb4)
+
+## 比赛预告
+
+### 十六强
+
+7月21日，星期六
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
+| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
+| 16:00 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
+| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
+
+7月22日，星期日
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 4 |
+| 15:00 | Snowkyou | ![][flag_CN] | ![][flag_CN] | IA daisuki | 3 |
+| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | Shindou Ayane | 7 |
+| 20:00 | crazybrother | ![][flag_CN] | ![][flag_CN] | williammak | 8 |
 
 ## 图池
 
-即将到来……
+### 十六强
+
+[百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA)  
+[Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)
+
+- [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
+- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
+- [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
+- [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
+- [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
+- [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
+- [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
+- [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
+- [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
+- [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
+- [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
+- [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
+
+TieBreaker:
+- [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## 规则
 
@@ -111,8 +153,8 @@
 ### 比赛流程
 
 1. 一位记录员会在赛事开始前15分钟创建一个在线多人游戏房间（Multiplayer），选手需要在此时集合：
-    - 房间设定为“osu!mania, Head To Head，胜出条件：**Score v2**”。房间名称为“CJB4K:(红色玩家昵称) vs (蓝色玩家昵称)”。
-    - 以上房间名提到的两个玩家，前者必须在红队，后者必须在蓝队。
+    - 房间设定为“osu!mania, Head To Head，胜出条件：**Score v2**”。房间名称为“CJB4K:(一号玩家) vs (二号玩家)”。
+    - 以上房间名提到的两个玩家，前者必须在1号位，后者必须在2号位。
 2. 两位选手任选两张热身图，但有异议的图不可使用。所有地图必须是4K专用地图。
 3. 每位选手从图池中选择1个禁手图（Banned Map），这些禁手图将在这场比赛中不能被任何选手选用。
 4. 比赛开始后，两位玩家必须在 `#multiplayer` 频道使用一次 `!roll` 指令：

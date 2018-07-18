@@ -42,10 +42,52 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 - [Livestream](https://live.bilibili.com/5333)
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
+- [challonge](https://challonge.com/zh_CN/cjb4)
+
+## Match schedule
+
+### Round of 16
+
+Saturday，21. July 2018
+
+| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
+| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
+| 16:00 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
+| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
+
+Sunday，22. July 2018
+
+| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 4 |
+| 15:00 | Snowkyou | ![][flag_CN] | ![][flag_CN] | IA daisuki | 3 |
+| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | Shindou Ayane | 7 |
+| 20:00 | crazybrother | ![][flag_CN] | ![][flag_CN] | williammak | 8 |
 
 ## Mappool
 
-Coming Soon...
+### Round of 16
+
+[Baidu Netdisk](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA)  
+[Google Drive](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)
+
+- [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641/#mania/1660726)
+- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560/#mania/1045578)
+- [Helblinde - Heaven's Fall \[Bye4Now's Advanced\]](https://osu.ppy.sh/beatmapsets/507745/#mania/1298653)
+- [Hinatabi Bitter Sweets - Otome Ryouran Mai Sakihokore \[HARD\]](https://osu.ppy.sh/beatmapsets/305110/#mania/892179)
+- [DJ TOTTO - Crystalia \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749/#mania/1643587)
+- [The Quick Brown Fox - The Big Black \[Challenge\]](https://osu.ppy.sh/beatmapsets/708264/#mania/1497402)
+- [cYsmix - Breeze \[Hard\]](https://osu.ppy.sh/beatmapsets/639924/#mania/1357114)
+- [FictionJunction YUUKA - Yakusoku \[Pinky Swear\]](https://osu.ppy.sh/beatmapsets/594912/#mania/1258189)
+- [goreshit - burn this moment into the retina of my eye \[Retina\]](https://osu.ppy.sh/beatmapsets/685427/#mania/1450885)
+- [xi - .357 Magnum \[Hyper\]](https://osu.ppy.sh/beatmapsets/155749/#mania/564542)
+- [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
+- [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
+
+TieBreaker:
+- [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## Ruleset
 
@@ -111,8 +153,8 @@ Coming Soon...
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-     - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name is "CJB4K: (PlayerRed) vs (PlayerBlue)".
-     - PlayerRed and PlayerBlue must be in slot 1, 2, respectively.
+     - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
+     - Player 1 and Player 2 must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the _Banned Map_. These maps can not be played during this match.
 4. Each player must use `!roll` once in `#multiplayer`:
