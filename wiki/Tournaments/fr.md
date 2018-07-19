@@ -27,7 +27,7 @@ La coupe du monde de osu! est un tournoi à double élimination  par équipe de 
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| 2011 Taiko World Cup | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taïwan | ![][flag_JP] Japon | ![][flag_CN] Chine |
+| [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taïwan | ![][flag_JP] Japon | ![][flag_CN] Chine |
 | 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Japon A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japon B |
 | Taiko World Cup \#3 | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taïwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japon A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japon | ![][flag_HK] Hong Kong | ![][flag_FR] France |

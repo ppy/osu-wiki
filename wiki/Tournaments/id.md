@@ -27,7 +27,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
-| 2011 Taiko World Cup | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Cina |
+| [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Cina |
 | 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Jepang A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang B |
 | Taiko World Cup \#3 | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Jepang | ![][flag_HK] Hong Kong | ![][flag_FR] Perancis |
