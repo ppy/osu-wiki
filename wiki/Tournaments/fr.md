@@ -46,6 +46,7 @@ La coupe du monde de osu! est un tournoi à double élimination  par équipe de 
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_DE] Allemagne |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Chine | ![][flag_ID] Indonésie | ![][flag_DE] Allemagne |
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_ID] Indonésie |
+| [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique | ![][flag_CL] Chili |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
