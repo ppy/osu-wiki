@@ -6,11 +6,11 @@ Section dédiée aux tournois et/ou aux compétitions. Les tournois ont un forum
 Officielles
 ----------------------
 
-Tournois officiels organisés par l'équipe de management de tournoi
+Tournois officiels organisés par l'équipe de management de tournoi.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-La coupe du monde de osu! est un tournoi à double élimination  par équipe de 4 formée par chaque pays participant. C'est un évènement international qui est tenu en général chaque année. Les communautés d'osu! autour du monde travaillent ensemble pour créer un tournoi compétitif.
+La coupe du monde de osu! est un tournoi à double élimination par équipe de 4 formée par chaque pays participant. C'est un évènement international qui est tenu en général chaque année. Les communautés d'osu! autour du monde travaillent ensemble pour créer un tournoi compétitif.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ La coupe du monde de osu! est un tournoi à double élimination  par équipe de 
 Tournois communautaires
 ----------
 
-Tournois/Compétitions non officiels organisés par la communauté
+Tournois/Compétitions non officiels organisés par la communauté.
 
 ### ![](/wiki/shared/mode/osu.png) Rapid Monthly osu! Tournament Invitationals
 
@@ -134,7 +134,7 @@ Tournois/Compétitions non officiels organisés par la communauté
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
 | osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) | 
-| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(7K)  | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(7K) | 
+| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(7K) | 
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018/) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(Standard), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(Catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(Standard), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)[Catch], ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(7K) |
 
 Voir aussi
