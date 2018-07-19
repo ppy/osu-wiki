@@ -14,7 +14,7 @@ Hello everyone, [Protastic101](https://osu.ppy.sh/users/6712747) here, and it's 
 
 As already mentioned in the headline, there's been a lot going on this past month which hopefully more than makes up for June's slow start. In addition to all that, we also have news on a new BN activity scoring system, a new draft of the osu!mania Ranking Criteria, and as usual, all the latest comings and goings within our teams.
 
-Before we get underway, a quick notice that the previously closed [osu! Modding Association](https://discord.gg/xChgWVd) Discord server is now open to the public. In addition to just being an all-around nice place to chat and chill about anything mapping or modding related, the server features a mapfeed tracker for all your nomination qualification needs, regularly hosted game nights, and of course, all the news updates you could ask for if you simply need to know what’s happening, as it's happening.
+Before we get underway, a quick notice that the previously closed [osu! Modding Association Discord server](https://discord.gg/xChgWVd) is now open to the public. In addition to just being an all-around nice place to chat and chill about anything mapping or modding related, the server features a mapfeed tracker for all your nomination qualification needs, regularly hosted game nights, and of course, all the news updates you could ask for if you simply need to know what’s happening, as it's happening.
 
 With that out of the way, let's get right into the news!
 
@@ -62,7 +62,7 @@ Community members were able to share some of their opinions on a plethora of top
 
 Don't worry if you weren't able to make it for the meeting – you can still catch up and get the lowdown using the Beatmap Management Forum [summary article](https://osu.ppy.sh/community/forums/topics/762133).
 
-Given the meeting's success, we naturally plan to host more public discussions in the future, so stay tuned as we’ll make sure to announce them in advance right here in the Gazette before anywhere else. These are hosted in the [public osu!dev Discord server](https://discord.gg/ppy), so be sure to join and verify yourself if you haven’t done so already.
+Given the meeting's success, we naturally plan to host more public discussions in the future, so stay tuned as we’ll make sure to announce them in advance right here in the Gazette before anywhere else. These are hosted in the [public osu!dev Discord server](https://discord.gg/ppy)'s `#modding` channel, so be sure to join and verify yourself if you haven’t done so already.
 
 ### osu!mania Ranking Criteria Draft
 
@@ -79,6 +79,7 @@ This month, we welcome a new piano masher to the Quality Assurance Team. Formerl
 On the osu! side of the coin, another new team member has arisen: [Hobbes2](https://osu.ppy.sh/users/8157492). Hobbes' recent output of checked beatmaps in the Quality Assurance Helpers has been frankly astonishing, and we hope that trend continues in the QAT to keep on top of the ever-growing pool of osu! beatmaps making their way to the Qualified section.
 
 ### Quality Assurance Team retirements
+
 While not a retirement exactly, the Quality Assurance Team underwent a bit of spring cleaning this month, where we evaluated the direction and focus we want to have as a team, specifically one that is geared mostly towards disqualifications and beatmap checking.
 
 As a result, [Doyak](https://osu.ppy.sh/users/2046893) and [Kurai](https://osu.ppy.sh/users/77089) have been moved over to the Global Moderation Team, which better aligns with their previously moderation-heavy duties within the QAT.
@@ -87,7 +88,7 @@ Following a more traditional retirement, [Kurokami](https://osu.ppy.sh/users/260
 
 His contributions to the Beatmap Spotlights and to the osu!catch community in particular have inspired many others to seize the initiative and further the projects they love. These efforts are greatly appreciated and will not be forgotten any time soon. Despite no longer being part of the team, he still continues to work and improve on Beatmap Spotlights, so continue to expect more from him in the future!
 
-As the team's focus shifts, [Asherz007](https://osu.ppy.sh/u/9014047) has also decided to take his leave from the team and return to the more traditional hands-on duties of a Beatmap Nominator. He can still be found modding and nominating the osu!mania maps we all love however, and is also helping to organize the osu!mania duties of the Mapping Mentorship Program, only with a purple name instead of a red one. There's sure to be more from him in the future as he shows no signs of slowing down.
+As the team's focus shifts, [Asherz007](https://osu.ppy.sh/users/9014047) has also decided to take his leave from the team and return to the more traditional hands-on duties of a Beatmap Nominator. He can still be found modding and nominating the osu!mania maps we all love however, and is also helping to organize the osu!mania duties of the Mapping Mentorship Program, only with a purple name instead of a red one. There's sure to be more from him in the future as he shows no signs of slowing down.
 
 ## Summary
 
