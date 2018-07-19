@@ -97,6 +97,18 @@ Tournois/Compétitions non officiels organisés par la communauté
 | Indonesian Taiko Showdown 2017 | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](/users/1139209) | ![][flag_ID] [pmriva](/users/2180885) | ![][flag_ID] [Nishizumi](/users/2496768) |
 | [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018/) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_JP] [butter0414](/users/7935022) |
 
+### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japon | ![][flag_CL] Chili | ![][flag_TW] Taïwan A |
+| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ![][flag_TW] Taïwan A | ![][flag_FR] France | ![][flag_JP] Japon A |
+| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ![][flag_JP] [abeno](/users/6565148) | ![][flag_TW] [S a n d](/users/676578) | ![][flag_CA] [Fudgyking](/users/3802922) |
+| Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japon A | ![][flag_TW] Taïwan A | ![][flag_JP] Japon D |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
+| Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
