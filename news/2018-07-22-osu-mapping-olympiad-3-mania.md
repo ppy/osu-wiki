@@ -44,9 +44,9 @@ Dictate's *Scavenger* is a song with a very unorthodox structure. This masterpie
  
 ## Prizes
 After the entries are judged and the results are finalized, the top three entries will receive the following prizes:
-- **1st place**: 3 months of osu!supporter, 6 Olympiad Points (awards 'Mapping Olympian' Badge), *Elite Mapper* title
-- **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
-- **3rd place**: 1 month of osu!supporter, 2 Olympiad Points
+- **1st place**: 4 months of osu!supporter, 6 Olympiad Points (awards 'Mapping Olympian' Badge), *Elite Mapper* title
+- **2nd place**: 3 months of osu!supporter, 4 Olympiad Points
+- **3rd place**: 2 months of osu!supporter, 2 Olympiad Points
 
 For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6, 4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants.
 
