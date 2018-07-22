@@ -95,29 +95,11 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](bracket.png)
+![Podium](podium.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Saturday, 14. July 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Chile       | ![][flag_CL] | ![][flag_CN] | China | **17:00 UTC** | 13:00 UTC-04 | 1:00 UTC+08 (Sun) | ¹ |
-
-### Sunday, 15. July 2018
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| United States       | ![][flag_US] | ![][flag_CN] | China        | **13:00 UTC**  | 9:00 UTC-04  | 21:00 UTC+08 | ² |
-| United States       | ![][flag_US] | ![][flag_CL] | Chile        | **19:00 UTC**  | 15:00 UTC-04 | 15:00 UTC-04 | ² | 
-
-
-¹ Loser bracket encounter
-
-² Encounter dependent on results of ¹Loser bracket encounter
+![Double Elimination bracket](bracket.png)
 
 ------------------------------------------------------------------------
 
@@ -254,6 +236,17 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-07-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 7 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/44166710) |
+
+| Sunday, 2018-07-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 7 | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/44189744) |
+| United States ![][flag_US] | 2 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/44192102) |
 
 ### Finals
 
