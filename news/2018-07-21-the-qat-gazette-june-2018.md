@@ -44,7 +44,7 @@ Many congratulations on becoming Beatmap Nominators, everyone – we hope you en
 
 As always though, some of our hard working members have departed the team to pursue other goals outside of the focus of the Beatmap Nominators. Please give thanks to the following for their hard work and contribution to the wonderful mapping and modding community:
 
-[AyonokoRin](https://osu.ppy.sh/users/5376866), [dsco](https://osu.ppy.sh/users/4330511), [celerih](https://osu.ppy.sh/users/4696296), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Hailie](https://osu.ppy.sh/users/5226970) and [Kagetsu](https://osu.ppy.sh/users/6203841) 
+[AyanokoRin](https://osu.ppy.sh/users/5376866), [dsco](https://osu.ppy.sh/users/4330511), [celerih](https://osu.ppy.sh/users/4696296), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Hailie](https://osu.ppy.sh/users/5226970) and [Kagetsu](https://osu.ppy.sh/users/6203841) 
 
 Their unique perspectives and courage to explore the frontiers of mapping have beaten a path for others to follow and expand. Thank you for your contributions and good luck wherever you go next.
 
