@@ -239,11 +239,11 @@ The osu!catch World Cup 2018 is run by various community members by distributing
 
 ### Grand Finals
 
-| Saturday, 2018-07-07 | | | | |
+| Saturday, 2018-07-14 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | China ![][flag_CN] | 7 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/44166710) |
 
-| Sunday, 2018-07-08 | | | | |
+| Sunday, 2018-07-15 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | China ![][flag_CN] | 7 | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/44189744) |
 | United States ![][flag_US] | 2 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/44192102) |
