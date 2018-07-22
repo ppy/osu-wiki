@@ -15,7 +15,7 @@ For those who are unaware, the osu! Mapping Olympiad is a revival of official be
 To kick off osu!mania's first round of the Mapping Olympiad, we'll be adhering to the more traditional and well known style of competition we're all familiar with, but there will be more opportunities for interesting and unique takes in further iterations.
  
 ## Song
-To kick off the contest, we've picked a song we believe will provide a concrete foundation for a variety of styles, made by one of our featured artists, **Dictate**!
+To kick off the contest, we've picked a song we believe will provide a concrete foundation for a variety of styles, made by one of our featured artists, [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)!
 <audio controls>
     <source src="https://assets.ppy.sh/artists/21/previews/420.mp3" type="audio/mpeg">
 </audio>
