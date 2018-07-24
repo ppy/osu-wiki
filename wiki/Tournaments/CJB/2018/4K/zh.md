@@ -68,6 +68,26 @@
 
 ## 图池
 
+### 八强
+
+**下载完整图池包！（64.1M） - [百度云盘](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google 云端硬盘](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
+
+- FreeMod
+  - [So Sus + Konka - Acorn \[Hard\]](https://osu.ppy.sh/beatmapsets/639057/#mania/1540124)
+  - [M2U feat. Guriri - Magnolia \[Stage 3: Enlightenmen\]](https://osu.ppy.sh/beatmapsets/706898/#mania/1494548)
+  - [Mind Vortex - Arc \[Coordination\]](https://osu.ppy.sh/beatmapsets/619512/#mania/1305835)
+  - [REOL - YoiYoi Kokon \[Challenge: EASY\]](https://osu.ppy.sh/beatmapsets/676191/#mania/1434529)
+  - [Toyama Nao - Ima Koko \[Koi\]](https://osu.ppy.sh/beatmapsets/631143/#mania/1350893)
+  - [M2U - Nightmare \[Desolation\]](https://osu.ppy.sh/beatmapsets/665005/#mania/1407494)
+  - [yak_won - Lucid \[MX\]](https://osu.ppy.sh/beatmapsets/200945/#mania/476043)
+  - [LUZE & Emew. - Unmeiron \[Hyper\]](https://osu.ppy.sh/beatmapsets/475927/#mania/1022067)
+  - [goreshit - o'er the flood \[deluge\]](https://osu.ppy.sh/beatmapsets/497750/#mania/1552320)
+  - [Camellia - K.Y.A.F.A. \[Insane\]](https://osu.ppy.sh/beatmapsets/468440/#mania/1005027)
+  - [Rokugen Alice - Statice ga Nemuru Oka \[StarLon's Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/362917/#mania/802995)
+  - [Izumi Akazawa - Responsibility Response \[Insane\]](https://osu.ppy.sh/beatmapsets/565606/#mania/1196279)
+- Tiebreaker
+  - [nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)
+
 ### 十六强
 
 **下载完整图池包！（77.5M） - [百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA) - [Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)**
