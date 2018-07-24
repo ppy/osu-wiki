@@ -108,6 +108,24 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 - Tiebreaker
   - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
+## Result
+
+### Round of 16
+
+| No. | Saturday, 2018-07-21 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
+| 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
+| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] TC582461 | |
+| 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
+
+| No. | Sunday, 2018-07-22 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 4 | tuziel ![][flag_CN] | 2 | 5 | ![][flag_CN] Toki 0w0 | |
+| 3 | Snowkyou ![][flag_CN] | 0 | 5 | ![][flag_CN] IA daisuki | |
+| 7 | Zhou_Kai ![][flag_TW] | 5 | 0 | ![][flag_CN] Shindou Ayane | |
+| 8 | crazybrother ![][flag_CN] | 5 | 0 | ![][flag_CN] williammak | |
+
 ## Ruleset
 
 ### Overview
