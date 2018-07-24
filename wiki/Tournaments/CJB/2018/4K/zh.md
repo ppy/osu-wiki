@@ -34,7 +34,7 @@
 | 比赛经理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | 比赛监督 | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/user/6475977) |
 | 图池管理 | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/user/6089608)、![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| 直播裁判 | ![][flag_CN] [aiyulu](https://osu.ppy.sh/user/189617)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 直播裁判 | ![][flag_CN] [aiyulu](https://osu.ppy.sh/user/189617)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256)、![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | 解说团队 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069)、![][flag_CN] [wuhuanmin](https://osu.ppy.sh/user/935322) 、![][flag_CN] [704661982](https://osu.ppy.sh/user/7080633) |
 | wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
