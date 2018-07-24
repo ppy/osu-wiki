@@ -16,6 +16,8 @@ To kick off osu!mania's first round of the Mapping Olympiad, we'll be adhering t
  
 ## Song
 To kick off the contest, we've picked a song we believe will provide a concrete foundation for a variety of styles, made by one of our featured artists, [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)!
+
+<br>
 <audio controls>
     <source src="https://assets.ppy.sh/artists/21/previews/420.mp3" type="audio/mpeg">
 </audio>
