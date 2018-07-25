@@ -4,7 +4,7 @@
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
 [lifebar wikilink]: /wiki/Glossary/#life-bar "Life bar definition in Glossary"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size-osu-osu-catch-osu-taiko-only "Circle Size (CS) in Song Setup"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size "Circle Size (CS) in Song Setup"
 [AR wikilink]: /wiki/Beatmap_Editor/Song_Setup/#approach-rate "Approach Rate (AR) in Song Setup"
 [OD wikilink]: /wiki/Beatmap_Editor/Song_Setup/#overall-difficulty "Overall Difficulty (OD) in Song Setup"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
