@@ -8,7 +8,7 @@ tags:
 osu!mania 4K World Cup 2018
 =============================
 
-![osu!mania 4K World Cup 2018](logo.jpg)
+![osu!mania 4K World Cup 2018](logo.png)
 
 The **osu!mania 4K World Cup 2018** (**_MWC 4K 2018_**) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu!mania 4K World Cup.
 
@@ -129,6 +129,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
     - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
+    - **In the event where more than 40 countries have enough players to compete, a playoff stage will be played before the group stage between the bottom 16 teams (based on seeding). The 8 winning countries of such stage qualifies as the unseeded team of a group.**
 
 5. Mapset selectors must not participate as a player in this tournament.
 
@@ -162,10 +163,9 @@ The mappools will be revealed one week in advance of each stage and will be disp
 | Grand Finals | AE, P, Q |
 
 **Winning conditions:**
-    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-    - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-    - In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
+    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+    - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 
@@ -188,7 +188,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
 
 2. Each mappool consists of a fixed amount of maps each stage (see bellow) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. The Group Stage mappool will consist of 10 maps, Round of 16 and Quarterfinals will consist of 12 maps, SemiFinals will consist of 14 maps and the Finals mappool will consist of 16 maps.
+3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FlashLight and Fade-In.
 6. The tiebreaker will be played under FreeMod conditions.
