@@ -91,7 +91,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
     - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
-11. **The size of each team is restricted to a maximum of 4 players and a minimum of 2.**
+11. **The size of each team is restricted to a maximum of 6 players and a minimum of 3.**
     - This might change depending on the amount of registrations.
 
 12. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
