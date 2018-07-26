@@ -34,7 +34,7 @@
 | 比赛经理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | 比赛监督 | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/user/6475977) |
 | 图池管理 | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/user/6089608)、![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| 直播裁判 | ![][flag_CN] [aiyulu](https://osu.ppy.sh/user/189617)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 直播裁判 | ![][flag_CN] [aiyulu](https://osu.ppy.sh/user/189617)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256)、![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | 解说团队 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256)、![][flag_CN] [Rasis](https://osu.ppy.sh/user/1209363)、![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069)、![][flag_CN] [wuhuanmin](https://osu.ppy.sh/user/935322) 、![][flag_CN] [704661982](https://osu.ppy.sh/user/7080633) |
 | wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
@@ -46,27 +46,47 @@
 
 ## 比赛预告
 
-### 十六强
+### 八强
 
-#### 7月21日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
-| 22:30 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
-
-#### 7月22日，星期日
+#### 7月28日，星期六
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 4 |
-| 15:00 | Snowkyou | ![][flag_CN] | ![][flag_CN] | IA daisuki | 3 |
-| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | Shindou Ayane | 7 |
-| 20:00 | crazybrother | ![][flag_CN] | ![][flag_CN] | williammak | 8 |
+| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
+| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
+| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
+| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
+
+#### 7月29日，星期日
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
+| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
+| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
 
 ## 图池
+
+### 八强
+
+**下载完整图池包！（64.1M） - [百度云盘](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google 云端硬盘](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
+
+- FreeMod
+  - [So Sus + Konka - Acorn \[Hard\]](https://osu.ppy.sh/beatmapsets/639057/#mania/1540124)
+  - [M2U feat. Guriri - Magnolia \[Stage 3: Enlightenmen\]](https://osu.ppy.sh/beatmapsets/706898/#mania/1494548)
+  - [Mind Vortex - Arc \[Coordination\]](https://osu.ppy.sh/beatmapsets/619512/#mania/1305835)
+  - [REOL - YoiYoi Kokon \[Challenge: EASY\]](https://osu.ppy.sh/beatmapsets/676191/#mania/1434529)
+  - [Toyama Nao - Ima Koko \[Koi\]](https://osu.ppy.sh/beatmapsets/631143/#mania/1350893)
+  - [M2U - Nightmare \[Desolation\]](https://osu.ppy.sh/beatmapsets/665005/#mania/1407494)
+  - [yak_won - Lucid \[MX\]](https://osu.ppy.sh/beatmapsets/200945/#mania/476043)
+  - [LUZE & Emew. - Unmeiron \[Hyper\]](https://osu.ppy.sh/beatmapsets/475927/#mania/1022067)
+  - [goreshit - o'er the flood \[deluge\]](https://osu.ppy.sh/beatmapsets/497750/#mania/1552320)
+  - [Camellia - K.Y.A.F.A. \[Insane\]](https://osu.ppy.sh/beatmapsets/468440/#mania/1005027)
+  - [Rokugen Alice - Statice ga Nemuru Oka \[StarLon's Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/362917/#mania/802995)
+  - [Izumi Akazawa - Responsibility Response \[Insane\]](https://osu.ppy.sh/beatmapsets/565606/#mania/1196279)
+- Tiebreaker
+  - [nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)
 
 ### 十六强
 
@@ -87,6 +107,24 @@
   - [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
 - Tiebreaker
   - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
+
+## 比赛结果
+
+### 十六强
+
+| 编号 | 2018-07-21，星期六 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
+| 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
+| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] tc582461 | |
+| 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
+
+| 编号 | 2018-07-22，星期日 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 4 | tuziel ![][flag_CN] | 2 | 5 | ![][flag_CN] | Toki 0w0 | |
+| 3 | Snowkyou ![][flag_CN] | 0 | 5 | ![][flag_CN] | IA daisuki | |
+| 7 | Zhou_Kai ![][flag_TW] | 5 | 0 | ![][flag_CN] | Shindou Ayane | |
+| 8 | crazybrother ![][flag_CN] | 5 | 0 | ![][flag_CN] | williammak | |
 
 ## 规则
 
