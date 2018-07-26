@@ -46,25 +46,25 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Match Schedule
 
-### Round of 16
+### Round of 8
 
-#### Saturday, 21. July 2018
-
-| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
-| 22:30 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
-
-#### Sunday, 22. July 2018
+#### Saturday, 28. July 2018
 
 | Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 4 |
-| 15:00 | Snowkyou | ![][flag_CN] | ![][flag_CN] | IA daisuki | 3 |
-| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | Shindou Ayane | 7 |
-| 20:00 | crazybrother | ![][flag_CN] | ![][flag_CN] | williammak | 8 |
+| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
+| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
+| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
+| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
+
+#### Sunday, 29. July 2018
+
+| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
+| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
+| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
 
 ## Mappool
 
@@ -116,7 +116,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
-| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] TC582461 | |
+| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
 
 | No. | Sunday, 2018-07-22 |  |  |  | Comment |

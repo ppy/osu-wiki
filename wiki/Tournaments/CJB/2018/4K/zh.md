@@ -46,25 +46,25 @@
 
 ## 比赛预告
 
-### 十六强
+### 八强
 
-#### 7月21日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | nickawm | 5 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | Jazzsoldiers | 1 |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | TC582461 | 2 |
-| 22:30 | macronj | ![][flag_CN] | ![][flag_CN] | Crystal | 6 |
-
-#### 7月22日，星期日
+#### 7月28日，星期六
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 4 |
-| 15:00 | Snowkyou | ![][flag_CN] | ![][flag_CN] | IA daisuki | 3 |
-| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | Shindou Ayane | 7 |
-| 20:00 | crazybrother | ![][flag_CN] | ![][flag_CN] | williammak | 8 |
+| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
+| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
+| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
+| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
+
+#### 7月29日，星期日
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
+| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
+| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
 
 ## 图池
 
@@ -116,7 +116,7 @@
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
-| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] TC582461 | |
+| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
 
 | 编号 | 2018-07-22，星期日 |  |  |  | 注释 |
