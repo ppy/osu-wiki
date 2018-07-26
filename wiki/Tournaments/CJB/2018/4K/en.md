@@ -46,7 +46,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Match Schedule
 
-### Round of 8
+### Quarterfinals
 
 #### Saturday, 28. July 2018
 
@@ -68,7 +68,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Mappool
 
-### Round of 8
+### Quarterfinals
 
 **Download the mappack here! (64.1M) - [Baidu Netdisk](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google Drive](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
 
