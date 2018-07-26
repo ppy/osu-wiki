@@ -76,7 +76,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hit objects is playable.
 -   **Spinners should be used when they fit the music.** This is to ensure score differences among perfect plays on the leaderboard. They usually fit during held notes, changes in intensity, or transitions between sections.
 -   **Avoid using similar combo colours in successive combos.** Players should be able to differentiate between different combos in a map.
--   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
+-   **Spinner ends, slider ends, and slider reverses should have hit sound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 -   **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 
 ### Skinning

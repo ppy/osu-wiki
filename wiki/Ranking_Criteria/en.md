@@ -18,11 +18,12 @@ Glossary
 ### Mapset
 
 - **Drain time:** The time during which the health-bar drains. Excludes break periods. Taiko mode’s drain time includes sliders and the intended length of spinners. 
-- **Reasonable Spread:** A mapset without drastically large differences between difficulties as dictated by difficulty-specific rules and guidelines. 
+- **Song Compilation:** An audio file that features multiple different songs or sections of songs.
+- **Play Time**: The time during which the health-bar drains combined with break periods.
+- **Reasonable Spread:** A mapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes mapsets that feature only a single difficulty.
 - **Game-mode:** osu!, osu!taiko, osu!catch, and each of osu!mania’s key counts are considered individual game-modes.
 - **Single-mode mapset:** A mapset which contains difficulties of only one game-mode.
 - **Hybrid mapset:** A mapset which contains difficulties of multiple game-modes.
-- **Marathon:** A mapset which does not require a full spread of difficulties.
 - **Mapset host:** A user who uploads and manages a mapset.
 - **Guest difficulty:** A difficulty added to a mapset which is not created by its mapset host.
 - **Collaborative difficulty:** A single difficulty mapped by more than one mapper. Also referred to as "collab".
@@ -86,7 +87,7 @@ Note: If a mapset's song contains matching sections to the TV size song, in the 
 ### Rules
 - **No two hit objects can be placed on the same tick** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. osu!mania maps are exempt from this.
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+. Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
-- **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. An automatically generated `.osb` file and storyboard `.thumb` files are the only exceptions.
+- **There must not be any unused files or 0-byte files in the map's folder.** 0-byte files prevent other files in a map's folder from properly uploading. Automatically generated `.thumb` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
 - **osu! difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
@@ -100,14 +101,21 @@ Note: If a mapset's song contains matching sections to the TV size song, in the 
 
 ### Rules
 
--   **Single-mode mapsets must include a reasonable spread of at least two difficulties.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
--   **Hybrid mapsets without osu!standard difficulties must include a reasonable spread of at least two difficulties per mode.** The lowest difficulty of each mode cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's lowest difficulty must be below 2.00 stars.
--   **If a hybrid mapset includes osu! difficulties...**
-    -   **A reasonable spread of at least two osu!standard difficulties must be included.** The lowest difficulty cannot be harder than a Normal and it must comply with its respective mode’s difficulty-specific Ranking Criteria. 
-    -   **Converted difficulties must form a reasonable spread.** For example, a mapset with Easy and Normal osu!standard difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
-    -   **Any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.** The lowest difficulty cannot be harder than a Hard.
--   **Mapsets must have a minimum drain time of 30 seconds.** This ensures each ranked map has a practical play-time.
--   **Marathons must have a minimum drain time of 5 minutes.** This excludes especially long mapsets from requiring a spread of difficulties.
+-	**Single-mode mapsets must form a reasonable spread.** This spread must comply with its respective mode's difficulty-specific Ranking Criteria.
+-	**Hybrid mapsets without osu! difficulties must form a reasonable spread for each included game mode.** This spread must comply with the osu! difficulty-specific Ranking Criteria. 
+-	**If a hybrid mapset includes osu! difficulties...**
+    -	**...the osu! difficulties must form a reasonable spread.** This spread must comply with the osu! difficulty-specific Ranking Criteria.
+    -	**...converted difficulties must form a reasonable spread.** For example, a mapset with Easy and Normal osu!standard difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap. 
+    -	**...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
+-   **Mapsets must have a minimum drain time of 30 seconds.**
+-	**If the drain time of a map is...**
+    -	**...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania mapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid mapsets that include osu! difficulties, the additional modes’ lowest difficulties cannot be harder than a Hard.
+    -	**...lower than 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
+    -	**...lower than 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
+    -	**...anything else, the mapset is exempt from reasonable spread rules.**
+  
+  Difficulties lower than the hardest difficulty of a mapset can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
+  
 -   **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
     - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
@@ -184,7 +192,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 -   **Uninherited timing points must be used to accurately map the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) for further information.
 -   **Maps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
 -   **Uninherited timing points must be the same in every difficulty of a mapset.** Each point must have the same BPM and offset in each difficulty.
--   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Resetting metronomes to be as musically accurate as possible through uninherited timing points is acceptable.
+-   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Adding uninherited timing points at the starts of musical phrases to match a song with the Nightcore mod's beat is acceptable.
 -   **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
 -   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hit sounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 -   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
@@ -217,6 +225,9 @@ Custom naming must follow a common theme or pattern related to the song and must
 ### Guidelines
 
 -   **Avoid using storyboarded hit sounds.** If a player misses the hit object that the storyboarded hit sound lands on, then the hit sound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hit sounds at places where there are no objects can confuse the player into thinking there was some unseen hit object, which doesn't make sense either.
+-	**The audio file of a song should not be artificially extended in order to meet a time limitation in the mapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the bpm of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable mapset length.
+-	**Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate mapsets. Exceptions can be made for songs that were exclusively released together.
+-	**Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
 ## Video and Background
 
