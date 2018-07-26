@@ -1,7 +1,7 @@
 osu!taiko 
 =============
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+_메인 페이지: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 이곳에 적힌 룰 및 가이드라인은 [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87)에서 논의된 내용입니다. 포럼에서 새로운 내용을 제안할 수 있으며, 합의가 된다면 이곳에 내용이 추가됩니다.
 
