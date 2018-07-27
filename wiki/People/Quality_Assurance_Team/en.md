@@ -24,7 +24,7 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
 | [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
-| [Hobbes2](https://osu.ppy.sh/users/8157492)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Hobbes2](https://osu.ppy.sh/users/8157492)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Telugu                  |
 | [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
 | [Lanturn](https://osu.ppy.sh/users/1446665)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
