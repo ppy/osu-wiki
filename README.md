@@ -15,9 +15,11 @@ Home of the [osu!](https://osu.ppy.sh) wiki.
 
 ## Getting Started
 
-The [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide) for help with using GitHub, specifically tailored for the osu! wiki project.
+### Helpful Links
 
-The [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria), which *must* be adhered to for all new and rewritten pages going forward.
+- The [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide) for help with using GitHub, specifically tailored for the osu! wiki project.
+
+- The [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria), which *must* be adhered to for all new and rewritten pages going forward.
 
 ## Licence
 
