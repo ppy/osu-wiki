@@ -8,7 +8,7 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 *See also: [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")*
 
-![A completed song setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
+![A completed Song Setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
 
 These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
 
@@ -72,7 +72,7 @@ The beatmap's difficulty settings; each setting affects different aspects of the
 
 *Note: Holding down `Shift` allows for a precise 0.1 value adjustment over the standard 1 value adjustment.*
 
-The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a circle size of 4 and HP Drain Rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an approach rate of -2.
+The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a Circle Size of 4 and HP Drain Rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an Approach Rate of -2.
 
 ### HP Drain Rate
 
@@ -108,13 +108,13 @@ Checking the `Co-op mode` checkbox will double the currently selected amount (fr
 
 Approach Rate, commonly abbreviated as AR, exists only in the osu!standard and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
 
-Higher approach rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower approach rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
+Higher Approach Rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower Approach Rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
 
 ---
 
 The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
 
-There are four mods that alters the approach rate timing when activated:
+There are four mods that alters the Approach Rate timing when activated:
 
 - [Easy](/wiki/EZ): Halves the AR value. (e.g. AR10→AR5)
 - [Hard Rock](/wiki/HR): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
@@ -129,7 +129,7 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
 
-Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and terms of getting the highest score value from the hit object.
+Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, Overall Difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and terms of getting the highest score value from the hit object.
 
 In osu!standard, this also affects spinners, in which they must be spun more to fill up the gauge in time. In osu!taiko, the denden (osu!taiko spinner) will also need more hits to clear it.
 
@@ -141,7 +141,7 @@ In osu!standard, the timing system will not allow a hit object to be tapped unti
 
 At OD0, a player can get a hit score of 300 at less than 79.5ms away from exactly hitting it on-time. On the other end of the scale, OD10 requires being less than 19.5ms away for the same hit score of 300.
 
-There are four mods which alter overall difficulty timing when activated:
+There are four mods which alter Overall Difficulty timing when activated:
 
 - [Easy](/wiki/EZ): Halves the OD value.
 - [Hard Rock](/wiki/HR): Multiplies the OD value by 1.4, up to a maximum of OD10.
