@@ -1061,7 +1061,7 @@ All users listed below were added on 2018-04-23.
 -   Removed [Chromoxx](/users/1881639) from the Beatmap Nominators by resignation (2018-05-01)
 -   Removed [Chewin](/users/617323) from the Beatmap Nominators for inactivity (2018-05-14)
 -   Removed [MBomb](/users/3071175) from the Beatmap Nominators by resignation (2018-05-20)
--   Removed [SnowNiNo_](/users/2506267) from the Beatmap Nominators by failing probation (2018-05-24)
+-   Removed [SnowNiNo\_](/users/2506267) from the Beatmap Nominators by failing probation (2018-05-24)
 -   Removed [Smokeman](/users/2140676) from the Beatmap Nominators by failing probation (2018-05-24)
 -   Removed [Kyuukai](/users/5337374) from the Beatmap Nominators by failing probation (2018-05-24)
 -   Removed [juankristal](/users/443656) from the Beatmap Nominators for inactivity (2018-05-30)
@@ -1069,3 +1069,80 @@ All users listed below were added on 2018-04-23.
 -   Removed [Arrival](/users/1694000) from the Beatmap Nominators for inactivity (2018-05-30)
 -   Removed [Julie](/users/2420987) from the Beatmap Nominators for inactivity (2018-05-30)
 -   Removed [Weber](/users/6410432) from the Beatmap Nominators for inactivity (2018-05-30)
+
+## June
+
+-   Moved [Zetera](/users/587737) to the Global Moderation Team (2018-06-04)
+-   Added [Okoratu](/users/1623405) to the Global Moderation Team (2018-06-17)
+-   Moved [Kurai](/users/77089) to the Global Moderation Team (2018-06-18)
+-   Moved [Doyak](/users/2046893) to the Global Moderation Team (2018-06-18)
+-   Moved [Kurokami](/users/260933) to the osu! Alumni (2018-06-18)
+-   Moved [Asherz007](/users/9014047) to the Beatmap Nominators (2018-06-18)
+-   Added [Maxus](/users/4335785) to the Quality Assurance Team (2018-06-25)
+
+## BN removals
+
+-   Removed [dsco](/users/4330511) from the Beatmap Nominators by resignation (2018-06-07)
+-   Removed [frukoyurdakul](/users/7612550) from the Beatmap Nominators by resignation (2018-06-11)
+-   Removed [kwk](/users/365586) from the Beatmap Nominators by failing probation (2018-06-23)
+-   Removed [Deramok](/users/1428455) from the Beatmap Nominators by failing probation (2018-06-23)
+-   Removed [hypercyte](/users/9155377) from the Beatmap Nominators by failing probation (2018-06-23)
+-   Removed [celerih](/users/4696296) from the Beatmap Nominators by resignation (2018-06-24)
+-   Removed [AyanokoRin](/users/5376866) from the Beatmap Nominators by resignation (2018-06-25)
+
+## New BN additions
+
+All users listed below were added on 2018-06-12.
+
+-   [Nifty](/users/4956097)
+-   [qoot8123](/users/766371)
+-   [Yumeno Himiko](/users/1806962)
+-   [Fii](/users/3922569)
+-   [Lenfried-](/users/5314573)
+-   [Unpredictable](/users/7560872)
+-   [DE-CADE](/users/3734394)
+-   [\_Stan](/users/1653229)
+-   [DoNotMess](/users/1596318)
+
+## July
+
+-   Added [Hobbes2](/users/8157492) to the Quality Assurance Team (2018-07-03)
+-   Moved [MrSergio](/users/2581696) to the Global Moderation Team (2018-07-18)
+
+## BN removals
+
+-   Removed [Sorcerer](/users/1913190) from the Beatmap Nominators by resignation (2018-07-01)
+-   Removed [Arzenvald](/users/3027421) from the Beatmap Nominators by resignation (2018-07-05)
+-   Removed [Kagetsu](/users/6203841) from the Beatmap Nominators by resignation (2018-07-11)
+-   Removed [Hailie](/users/5226970) from the Beatmap Nominators by resignation (2018-07-14)
+-   Removed [Bubblun](/users/6191653) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
+-   Removed [Battle](/users/4037545) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [Halfslashed](/users/4598899) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
+-   Removed [mancuso\_JM\_](/users/521568) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [pinataman](/users/1235485) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [squirrelpascals](/users/6151332) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
+-   Removed [AJamez](/users/7890134) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
+-   Removed [Fresh Chicken](/users/3984370) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [Kamikaze](/users/2124783) from the Beatmap Nominators for inappropriate behaviour (2018-07-21)
+-   Removed [JUDYDANNY](/users/1165475) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [Skylish](/users/2845958) from the Beatmap Nominators for inactivity (2018-07-21)
+-   Removed [incandescence](/users/6256027) from the Beatmap Nominators by resignation (2018-07-27)
+-   Removed [Delis](/users/1603923) from the Beatmap Nominators by resignation (2018-07-28)
+
+## New BN additions
+
+All users listed below were added on 2018-07-27.
+
+-   [UndeadCapulet](/users/2523533)
+-   [MrSergio](/users/2581696)
+-   [Gottagof4st](/users/6122935)
+-   [Cris-](/users/6175280)
+-   [BOUYAAA](/users/405449)
+-   [Seto Kousuke](/users/2857314)
+-   [pimpG](/users/328615)
+-   [Yauxo](/users/898306)
+-   [Yugu](/users/3161834)
+-   [riffy](/users/597957)
+-   [Rizen](/users/3056732)
+-   [IceKalt](/users/5410645)
+-   [frogyfro](/users/7010859)
