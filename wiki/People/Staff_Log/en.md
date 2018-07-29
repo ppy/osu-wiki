@@ -1070,7 +1070,7 @@ All users listed below were added on 2018-04-23.
 -   Removed [Julie](/users/2420987) from the Beatmap Nominators for inactivity (2018-05-30)
 -   Removed [Weber](/users/6410432) from the Beatmap Nominators for inactivity (2018-05-30)
 
-## June
+### June
 
 -   Moved [Zetera](/users/587737) to the Global Moderation Team (2018-06-04)
 -   Added [Okoratu](/users/1623405) to the Global Moderation Team (2018-06-17)
@@ -1080,7 +1080,7 @@ All users listed below were added on 2018-04-23.
 -   Moved [Asherz007](/users/9014047) to the Beatmap Nominators (2018-06-18)
 -   Added [Maxus](/users/4335785) to the Quality Assurance Team (2018-06-25)
 
-## BN removals
+#### BN removals
 
 -   Removed [dsco](/users/4330511) from the Beatmap Nominators by resignation (2018-06-07)
 -   Removed [frukoyurdakul](/users/7612550) from the Beatmap Nominators by resignation (2018-06-11)
@@ -1090,7 +1090,7 @@ All users listed below were added on 2018-04-23.
 -   Removed [celerih](/users/4696296) from the Beatmap Nominators by resignation (2018-06-24)
 -   Removed [AyanokoRin](/users/5376866) from the Beatmap Nominators by resignation (2018-06-25)
 
-## New BN additions
+#### New BN additions
 
 All users listed below were added on 2018-06-12.
 
@@ -1104,12 +1104,12 @@ All users listed below were added on 2018-06-12.
 -   [\_Stan](/users/1653229)
 -   [DoNotMess](/users/1596318)
 
-## July
+### July
 
 -   Added [Hobbes2](/users/8157492) to the Quality Assurance Team (2018-07-03)
 -   Moved [MrSergio](/users/2581696) to the Global Moderation Team (2018-07-18)
 
-## BN removals
+#### BN removals
 
 -   Removed [Sorcerer](/users/1913190) from the Beatmap Nominators by resignation (2018-07-01)
 -   Removed [Arzenvald](/users/3027421) from the Beatmap Nominators by resignation (2018-07-05)
@@ -1129,7 +1129,7 @@ All users listed below were added on 2018-06-12.
 -   Removed [incandescence](/users/6256027) from the Beatmap Nominators by resignation (2018-07-27)
 -   Removed [Delis](/users/1603923) from the Beatmap Nominators by resignation (2018-07-28)
 
-## New BN additions
+#### New BN additions
 
 All users listed below were added on 2018-07-27.
 
