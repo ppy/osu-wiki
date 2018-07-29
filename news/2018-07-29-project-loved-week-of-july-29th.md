@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of July 29th"
-date: 2018-07-29 21:00:00 +0000
+date: 2018-07-30 21:00:00 +0000
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s latest round of beatmaps is up for vote! This is your chance to get your favorite maps loved!
@@ -100,7 +100,7 @@ We may not have our usual Camellia feat Nanahira collab in the pollings this wee
 
 [Berzerk+Haste - Kurukurukiikii](https://osu.ppy.sh/beatmapsets/620925) by [Gezoda](https://osu.ppy.sh/users/481582)
 
-Oh look, a Miku map that isn't all cutesy for once! With streams to kill you, it was also used in Taiko World Cup: Last Man Standing 4 and features stuff I can't even FC because I'm bad at this game. It's got 1/6 tech patterns and handswitchy streams everywhere, and this beatmap is a complete joke in the good way because all of its setttings are repeated digits. You have no room for mistakes; HP6.6 for 3333 notes is guaranteed to kill you even with 98% if you miss one too many notes. I didn't even choose this map, but nobody else wanted to write its description—so put those pitchforks away.
+Oh look, a Miku map that isn't all cutesy for once! With streams to kill you, it was also used in Taiko World Cup: Last Man Standing 4 and features stuff I can't even FC because I'm bad at this game. It's got 1/6 tech patterns and handswitchy streams everywhere, and this beatmap is a complete joke in the good way because all of its settings are repeated digits. You have no room for mistakes; HP6.6 for 3333 notes is guaranteed to kill you even with 98% if you miss one too many notes. I didn't even choose this map, but nobody else wanted to write its description—so put those pitchforks away.
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
