@@ -72,7 +72,7 @@ The beatmap's difficulty settings; each setting affects different aspects of the
 
 *Note: Holding down `Shift` allows for a precise 0.1 value adjustment over the standard 1 value adjustment.*
 
-The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` would be a beatmap with a circle size of 4.
+The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a circle size of 4 and HP Drain Rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an approach rate of -2.
 
 ### HP Drain Rate
 
