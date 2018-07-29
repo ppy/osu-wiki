@@ -4,6 +4,8 @@ title: "osu! at AX2017 Documentary"
 date: 2018-07-29 05:12:40 +0000
 ---
 
+![](https://puu.sh/B53U4/4de536947f.jpg)
+
 One year late, but better than never. Here's our documentary-style coverage of the osu! experience at [Anime Expo 2017](http://www.anime-expo.org). A lot of it is still relevant and unreleased footage which should make for an enjoyable watch for both those that could and couldn't make it to the event.
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/8Whaj3PHq3g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
