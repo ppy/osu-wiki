@@ -1,7 +1,7 @@
 Ranking Criteria
 =================
 
-*For mode specific criteria, see: [osu!standard](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)*
+*For mode specific criteria, see: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)*
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
@@ -22,7 +22,7 @@ Glossary
 - **Song compilation:** An audio file that features multiple different songs or sections of songs.
 - **Play time**: The time during which the health-bar drains combined with break periods.
 - **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
-- **Game mode:** osu!standard, osu!taiko, osu!catch, and each of osu!mania’s key counts are considered individual game modes.
+- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania’s key counts are considered individual game modes.
 - **Single-mode beatmapset:** A beatmapset which contains difficulties of only one game mode.
 - **Hybrid beatmapset:** A beatmapset which contains difficulties of multiple game modes.
 - **Beatmapset host:** A user who uploads and manages a beatmapset.
@@ -92,7 +92,7 @@ Note: If a beatmapset's song contains matching sections to the TV size song, in 
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG (suitable for ages 12+). Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `.thumb` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, skinning settings, etc are acceptable. 
-- **osu!standard difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
+- **osu! difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
 ### Guidelines
 
@@ -106,14 +106,14 @@ Note: If a beatmapset's song contains matching sections to the TV size song, in 
 ### Rules
 
 -	**Single-mode beatmapsets must form a reasonable spread.** This spread must comply with its respective mode's difficulty-specific Ranking Criteria.
--	**Hybrid beatmapsets without osu!standard difficulties must form a reasonable spread for each included game mode.** Each game mode's spread must comply with its difficulty-specific Ranking Criteria. 
--	**If a hybrid beatmapset includes osu!standard difficulties...**
-    -	**...the osu!standard difficulties must form a reasonable spread.** This spread must comply with the osu!standard difficulty-specific Ranking Criteria.
+-	**Hybrid beatmapsets without osu! difficulties must form a reasonable spread for each included game mode.** Each game mode's spread must comply with its difficulty-specific Ranking Criteria. 
+-	**If a hybrid beatmapset includes osu! difficulties...**
+    -	**...the osu! difficulties must form a reasonable spread.** This spread must comply with the osu! difficulty-specific Ranking Criteria.
     -	**...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap. 
     -	**...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
 -   **Mapsets must have a minimum drain time of 30 seconds.**
 -	**If the drain time of a beatmap is...**
-    -	**...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania beatmapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid beatmapsets that include osu!standard difficulties, the additional modes’ lowest difficulties cannot be harder than a Hard.
+    -	**...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania beatmapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid beatmapsets that include osu! difficulties, the additional modes’ lowest difficulties cannot be harder than a Hard.
     -	**...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
     -	**...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
     -	**...anything higher, the beatmapset is exempt from reasonable spread rules.**
