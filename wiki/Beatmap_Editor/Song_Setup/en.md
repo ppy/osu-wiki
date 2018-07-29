@@ -1,6 +1,5 @@
 # Song Setup
 
-
 Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
 
 ## General
@@ -65,7 +64,7 @@ Tags are separated with spaces. It is not necessary to use this field as other m
 
 ## Difficulty
 
-![Two screenshots of the difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmap.")
+![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
 
 *Notice: The game mode specific [Ranking Criterias](/wiki/Ranking_Criteria) have rankable values that should be used.*
 
@@ -153,7 +152,7 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ## Audio
 
-![Two screenshots of the audio tab. They vary based on defined hit sound and volume settings.](img/SS_Audio.jpg "The audio section. The right is shown if the beatmap contains custom timing on volume settings.")
+![Two screenshots of the Audio tab. They vary based on defined hit sound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
 
 ### Default Sample Settings
 
@@ -177,7 +176,7 @@ The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adju
 
 ## Colours
 
-![Screenshot of the colours tab](img/SS_Colours.jpg "Colours tab")
+![Screenshot of the Colours tab](img/SS_Colours.jpg "Colours tab")
 
 Configure the combo colours and playfield's background colour.
 
@@ -201,7 +200,7 @@ A debatable setting to change except for storyboards that may expose the blank p
 
 ## Design
 
-![Screenshot of the design tab](img/SS_Design.jpg "Design tab")
+![Screenshot of the Design tab](img/SS_Design.jpg "Design tab")
 
 ### Countdown
 
@@ -218,7 +217,7 @@ When enabled, the countdown animation can be refined using the `Countdown Speed`
 
 ### Skinning
 
-![Screenshot of the skinning tab](img/SS_Skin_eg.jpg "Skinning tab")
+![Screenshot of the Skinning tab](img/SS_Skin_eg.jpg "Skinning tab")
 
 The `Preferred Skin` dropdown is used to set the preferred skin for the beatmap. Using this option assumes that the player has the skin you want them to use. However, if the player does not have the skin, a notification will appear for the player, stating that the requested skin is missing, but the player's current skin will be used instead. By default, `User's preference (No Change)` is used.
 
@@ -226,7 +225,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ## Advanced
 
-![Advanced tab](img/SS_Advanced.jpg "Advanced tab")
+![Screenshot of the Advanced tab](img/SS_Advanced.jpg "Advanced tab")
 
 ### Stacking
 
