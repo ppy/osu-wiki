@@ -26,9 +26,9 @@ You can discuss this event and follow the most important changes in the **[offic
  
 ## Prizes
 
-**1st:** $150 per team member, profile badge, "osu!mania Champion" user title for one year
-**2nd:** $80 per team member, profile badge
-**3rd:** $40 per team member, profile badge
+- **1st:** $150 per team member, profile badge, "osu!mania Champion" user title for one year
+- **2nd:** $80 per team member, profile badge
+- **3rd:** $40 per team member, profile badge
 
 ## How do I register?
  
