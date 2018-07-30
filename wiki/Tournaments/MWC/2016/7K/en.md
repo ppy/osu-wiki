@@ -249,7 +249,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Sunday, 2016-01-31 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP]     | **6** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/22265355) |
-| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_PH] Philippines   | - Win by default - |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_PH] Philippines   | -Win by default- |
 
 ### Quarterfinals
 
@@ -261,7 +261,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Singapore ![][flag_SG]          | 1 | **5** | ![][flag_MY] **Malaysia**    | [#1](https://osu.ppy.sh/community/matches/22044289) |
 | **Australia** ![][flag_AU]      | **5** | 0 | ![][flag_DE] Germany         | [#1](https://osu.ppy.sh/community/matches/22046733) |
 | **Japan** ![][flag_JP]          | **5** | 0 | ![][flag_FR] France          | [#1](https://osu.ppy.sh/community/matches/22048705) |
-| United Kingdom ![][flag_GB]     | 0 | **5** | ![][flag_PL] **Poland**      | - Win by default - |
+| United Kingdom ![][flag_GB]     | 0 | **5** | ![][flag_PL] **Poland**      | -Win by default- |
 | Russian Federation ![][flag_RU] | 0 | **5** | ![][flag_BR] **Brazil**      | [#1](https://osu.ppy.sh/community/matches/22054192) |
 
 ### Round of 16
@@ -269,7 +269,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Saturday, 2016-01-16 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Singapore** ![][flag_SG]   | **5** | 0 | ![][flag_AU] Australia          | [#1](https://osu.ppy.sh/community/matches/21844684) |
-| Japan ![][flag_JP]           | 0 | **5** | ![][flag_PH] **Philippines**    | - Win by default - |
+| Japan ![][flag_JP]           | 0 | **5** | ![][flag_PH] **Philippines**    | -Win by default- |
 | **China** ![][flag_CN]       | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/21846586) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] Poland             | [#1](https://osu.ppy.sh/community/matches/21848487) |
 | France ![][flag_FR]          | 1 | **5** | ![][flag_TW] **Taiwan**         | [#1](https://osu.ppy.sh/community/matches/21849713) |
@@ -286,18 +286,18 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Canada ![][flag_CA]             | 0 | **4** | ![][flag_KR] **South Korea**        | [#1](https://osu.ppy.sh/community/matches/21645045) |
 | Taiwan ![][flag_TW]             | 0 | **4** | ![][flag_US] **United States**      | [#1](https://osu.ppy.sh/community/matches/21645051) |
 | Australia ![][flag_AU]          | 0 | **4** | ![][flag_ID] **Indonesia**          | [#1](https://osu.ppy.sh/community/matches/21645052) |
-| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_AU] **Australia**          | - Win by default - |
+| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_AU] **Australia**          | -Win by default- |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_SG] **Singapore**          | [#1](https://osu.ppy.sh/community/matches/21652250) |
 | Taiwan ![][flag_TW]             | 1 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21652252) |
 | Australia ![][flag_AU]          | 0 | **4** | ![][flag_CN] **China**              | [#1](https://osu.ppy.sh/community/matches/21653171) |
-| Italy ![][flag_IT]              | 0 | **4** | ![][flag_PH] **Philippines**        | - Win by default - |
+| Italy ![][flag_IT]              | 0 | **4** | ![][flag_PH] **Philippines**        | -Win by default- |
 | Norway ![][flag_NO]             | 0 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21654308) |
 | Germany ![][flag_DE]            | 0 | **4** | ![][flag_KR] **South Korea**        | [#1](https://osu.ppy.sh/community/matches/21654310) |
 | Sweden ![][flag_SE]             | 0 | **4** | ![][flag_SG] **Singapore**          | [#1](https://osu.ppy.sh/community/matches/21654313) |
-| United Kingdom ![][flag_GB]     | 0 | **4** | ![][flag_JP] **Japan**              | - Win by default - |
+| United Kingdom ![][flag_GB]     | 0 | **4** | ![][flag_JP] **Japan**              | -Win by default- |
 | Philippines ![][flag_PH]        | 0 | **4** | ![][flag_ID] **Indonesia**          | [#1](https://osu.ppy.sh/community/matches/21655618) |
 | Italy ![][flag_IT]              | 0 | **4** | ![][flag_CN] **China**              | [#1](https://osu.ppy.sh/community/matches/21655616) |
-| **Singapore** ![][flag_SG]      | **4** | 0 | ![][flag_GB] United Kingdom         | - Win by default - |
+| **Singapore** ![][flag_SG]      | **4** | 0 | ![][flag_GB] United Kingdom         | -Win by default- |
 | Poland ![][flag_PL]             | 0 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21657212) |
 | Germany ![][flag_DE]            | 3 | **4** | ![][flag_FR] **France**             | [#1](https://osu.ppy.sh/community/matches/21657223) |
 | Sweden ![][flag_SE]             | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/21667376) |

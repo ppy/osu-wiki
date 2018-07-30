@@ -330,7 +330,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | **Malaysia** ![][flag_MY]       | **4** | 2 | ![][flag_CA] Canada             | [#1](https://osu.ppy.sh/community/matches/26863257) |
 | Singapore ![][flag_SG]          | 0 | **4** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/26864181) |
 | New Zealand ![][flag_NZ]        | 0 | **4** | ![][flag_CA] **Canada**         | [#1](https://osu.ppy.sh/community/matches/26864182) |
-| Macau ![][flag_MO]              | 0 | **4** | ![][flag_TH] **Thailand**       | -win by default- |
+| Macau ![][flag_MO]              | 0 | **4** | ![][flag_TH] **Thailand**       | -Win by default- |
 | Russian Federation ![][flag_RU] | 2 | **4** | ![][flag_NZ] **New Zealand**    | [#1](https://osu.ppy.sh/community/matches/26868897) |
 | Indonesia ![][flag_ID]          | 2 | **4** | ![][flag_FR] **France**         | [#1](https://osu.ppy.sh/community/matches/26868898) |
 | Netherlands ![][flag_NL]        | 1 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/26869611) |
