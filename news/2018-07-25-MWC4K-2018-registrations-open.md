@@ -12,25 +12,24 @@ For more details, refer to the **[osu!mania 4K World Cup 2018 wiki article](/wik
 You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/779486)**.
  
 ## Tournament Schedule
- 
- 
-| Phase              | Dates                   |
+
+| Event              | Timestamp               |
 | ------------------ | ----------------------- |
-| Registration       | July 25th - Aug 8th     |
-| Drawings           | Aug 18th                |
-| Group Stage        | Aug 25th & 26th         |
-| Round of 16        | Sept 1st & 2nd          |
-| Quarterfinals      | Sept 8th & 9th          |
-| Semifinals         | Sept 15th & 16th        |
-| Finals             | Sept 22nd & 23rd        |
-| Grand Finals       | Sept 29th or 30th       |
+| Registration Phase | 2018-07-25/2018-08-08   |
+| Live Drawings      | 2018-08-18 (14:00 UTC)  |
+| Group Stage        | 2018-08-25/2018-08-26   |
+| Round of 16        | 2018-09-01/2018-09-02   |
+| Quarterfinals      | 2018-09-08/2018-09-09   |
+| Semifinals         | 2018-09-15/2018-09-16   |
+| Finals             | 2018-09-22/2018-09-23   |
+| Grand Finals       | 2018-09-29/2018-09-30   |
  
 ## Prizes
-**1st:** $150 per team member, profile badge, "osu!mania Champion" user title for one year  
-**2nd:** $80 per team member, Profile badge  
-**3rd:** $40 per team member, Profile badge  
 
- 
+**1st:** $150 per team member, profile badge, "osu!mania Champion" user title for one year
+**2nd:** $80 per team member, profile badge
+**3rd:** $40 per team member, profile badge
+
 ## How do I register?
  
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/16)**
