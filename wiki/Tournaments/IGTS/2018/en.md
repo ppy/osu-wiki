@@ -62,7 +62,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Saturday, 04 August 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | #1 | Japan | ![][flag_JP] | ![][flag_AU] | Australia | **07:00** | Group A |
 | #2 | Portugal | ![][flag_PT] | ![][flag_SG] | Singapore | **09:00** | Group C |
 | #3 | Russia | ![][flag_RU] | ![][flag_ID] | Indonesia | **10:00** | Group C |
@@ -77,7 +77,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Sunday, 05 August 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | #11 | United States | ![][flag_US] | ![][flag_JP] | Japan | **00:00** | Group A |
 | #12 | Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **01:00** | Group A |
 | #13 | Ecuador | ![][flag_EC] | ![][flag_HK] | Hong Kong | **02:00** | Group B |
@@ -93,7 +93,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Saturday, 11 August 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | #22 | Indonesia | ![][flag_ID] | ![][flag_CO] | Colombia | **02:00** | Group C |
 | #23 | Malaysia | ![][flag_MY] | ![][flag_NL] | Netherlands | **09:00** | Group D |
 | #24 | Portugal | ![][flag_PT] | ![][flag_ID] | Indonesia | **10:00** | Group C |
@@ -106,7 +106,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Sunday, 12 August 2018
 | Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | #31 | United States | ![][flag_US] | ![][flag_AU] | Australia | **01:00** | Group A |
 | #32 | Hong Kong | ![][flag_HK] | ![][flag_VE] | Venezuela | **01:00** | Group B |
 | #33 | Singapore | ![][flag_SG] | ![][flag_CO] | Colombia | **02:00** | Group C |
@@ -124,28 +124,28 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Qualified Teams
 
-| | Country | Members |
+|  | Country | Members |
 | --: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[un-plugged](/users/8959673)**, [Kliu](/users/7409391)
-![][flag_AU] | **Australia** | **[mhyykl](/users/7012650)**, [Zuikaku](/users/4180857), [AmateurMonkeyYT](/users/8379046), [Spearmint](/users/5199710)
-![][flag_BR] | **Brazil** | **[AnonX32](/users/2730270)**, [Korkk](/users/11227442), [Idealism](/users/3869519), [Lolligerjoj](/users/9053338)
-![][flag_CA] | **Canada** | **[Road](/users/8984404)**, [jeantommy5](/users/3524805), [RoadRolla](/users/9119271), [Leadenginer](/users/3799991), [ZznightraiderzZ](/users/8986265)
-![][flag_CL] | **Chile** | **[ArmoredReaper](/users/6276709)**, [\[Burno-\]](/users/4397758), [Tomatitooo](/users/6446118)
-![][flag_CO] | **Colombia** | **[Juanisimo](/users/9050875)**, [FuryOfTheStorm](/users/1037898)
-![][flag_CR] | **Costa Rica** | **[Titovare](/users/7375505)**, [Alejo Q6](/users/2116841)
-![][flag_EC] | **Ecuador** | **[Gamelan4](/users/9856910)**, [Electro2001](/users/7826258), [Etsu](/users/3442319), [Gato2499](/users/7857559)
-![][flag_FR] | **France** | **[Yales](/users/2377881)**, [Adri](/users/4579132), [ZeddaStake](/users/8801844)
-![][flag_DE] | **Germany** | **[Heamburger](/users/4705120)**, [Capu](/users/2474015), [Siegmund99](/users/5168596), [Joogl](/users/8844167), [QEpicAce](/users/9489153)
-![][flag_HK] | **Hong Kong** | **[Nabita](/users/7468492)**, [kiki63520133](/users/4984496), [\[\_isolated\_\]](/users/6187838), [Best_lolicon](/users/2397818)
-![][flag_ID] | **Indonesia** | **[Reed\_405](/users/9965069)**, [Milliana](/users/2304771), [Viewland](/users/6250135), [Maneh](/users/5179995), [Andhra\_](/users/6176811)
-![][flag_JP] | **Japan** | **[kusoteitoku\_aki](/users/12399222)**, [croce\_latte](/users/10948259), [Neon\_alfa](/users/11612183)
-![][flag_MY] | **Malaysia** | **[Bedwyr Aorta](/users/10875855)**, [Minisora](/users/9627666), [Heliscout](/users/7538181)
-![][flag_NL] | **Netherlands** | **[-omicron](/users/11043157)**, [SpectreSan](/users/11310442), [ASRaphie80](/users/3773624), [Krekker](/users/8265940), [Jinkela](/users/5347374)
-![][flag_PT] | **Portugal** | **[MeovvCAT](/users/5905091)**, [Katsunaru](/users/7103006), [BlackPet](/users/3795067), [N1tro321](/users/7385703)
-![][flag_RU] | **Russia** | **[izede](/users/7559481)**, [JFred](/users/9700317), [-Rmdy](/users/1933816), [-dragon67](/users/4328734), [oserry](/users/11973082)
-![][flag_SG] | **Singapore** | **[Kekneko](/users/8414979)**, [uchuuj1n](/users/9140302), [GDN3k0Chan](/users/7394522)
-![][flag_US] | **United States** | **[Swovine](/users/6666316)**, [Rukairi](/users/6642597), [Trilt](/users/9292128), [CaptainEChan](/users/9536977), [rg_seo](/users/8150728)
-![][flag_VE] | **Venezuela** | **[Acetylcholine](/users/4159873)**, [Syber\_Fox](/users/6028905) |
+| ![][flag_AR] | **Argentina** | **[un-plugged](/users/8959673)**, [Kliu](/users/7409391) |
+| ![][flag_AU] | **Australia** | **[mhyykl](/users/7012650)**, [Zuikaku](/users/4180857), [AmateurMonkeyYT](/users/8379046), [Spearmint](/users/5199710) |
+| ![][flag_BR] | **Brazil** | **[AnonX32](/users/2730270)**, [Korkk](/users/11227442), [Idealism](/users/3869519), [Lolligerjoj](/users/9053338) |
+| ![][flag_CA] | **Canada** | **[Road](/users/8984404)**, [jeantommy5](/users/3524805), [RoadRolla](/users/9119271), [Leadenginer](/users/3799991), [ZznightraiderzZ](/users/8986265) |
+| ![][flag_CL] | **Chile** | **[ArmoredReaper](/users/6276709)**, [\[Burno-\]](/users/4397758), [Tomatitooo](/users/6446118) |
+| ![][flag_CO] | **Colombia** | **[Juanisimo](/users/9050875)**, [FuryOfTheStorm](/users/1037898) |
+| ![][flag_CR] | **Costa Rica** | **[Titovare](/users/7375505)**, [Alejo Q6](/users/2116841) |
+| ![][flag_EC] | **Ecuador** | **[Gamelan4](/users/9856910)**, [Electro2001](/users/7826258), [Etsu](/users/3442319), [Gato2499](/users/7857559) |
+| ![][flag_FR] | **France** | **[Yales](/users/2377881)**, [Adri](/users/4579132), [ZeddaStake](/users/8801844) |
+| ![][flag_DE] | **Germany** | **[Heamburger](/users/4705120)**, [Capu](/users/2474015), [Siegmund99](/users/5168596), [Joogl](/users/8844167), [QEpicAce](/users/9489153) |
+| ![][flag_HK] | **Hong Kong** | **[Nabita](/users/7468492)**, [kiki63520133](/users/4984496), [\[\_isolated\_\]](/users/6187838), [Best_lolicon](/users/2397818) |
+| ![][flag_ID] | **Indonesia** | **[Reed\_405](/users/9965069)**, [Milliana](/users/2304771), [Viewland](/users/6250135), [Maneh](/users/5179995), [Andhra\_](/users/6176811) |
+| ![][flag_JP] | **Japan** | **[kusoteitoku\_aki](/users/12399222)**, [croce\_latte](/users/10948259), [Neon\_alfa](/users/11612183) |
+| ![][flag_MY] | **Malaysia** | **[Bedwyr Aorta](/users/10875855)**, [Minisora](/users/9627666), [Heliscout](/users/7538181) |
+| ![][flag_NL] | **Netherlands** | **[-omicron](/users/11043157)**, [SpectreSan](/users/11310442), [ASRaphie80](/users/3773624), [Krekker](/users/8265940), [Jinkela](/users/5347374) |
+| ![][flag_PT] | **Portugal** | **[MeovvCAT](/users/5905091)**, [Katsunaru](/users/7103006), [BlackPet](/users/3795067), [N1tro321](/users/7385703) |
+| ![][flag_RU] | **Russia** | **[izede](/users/7559481)**, [JFred](/users/9700317), [-Rmdy](/users/1933816), [-dragon67](/users/4328734), [oserry](/users/11973082) |
+| ![][flag_SG] | **Singapore** | **[Kekneko](/users/8414979)**, [uchuuj1n](/users/9140302), [GDN3k0Chan](/users/7394522) |
+| ![][flag_US] | **United States** | **[Swovine](/users/6666316)**, [Rukairi](/users/6642597), [Trilt](/users/9292128), [CaptainEChan](/users/9536977), [rg_seo](/users/8150728) |
+| [][flag_VE] | **Venezuela** | **[Acetylcholine](/users/4159873)**, [Syber\_Fox](/users/6028905) |
 
 ### Groups
 
@@ -207,7 +207,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Stage Regulations
 
-1. There are five stages to this tournament: Group Stage, First Round,  Quarterfinals, Semifinals, and Finals.
+1. There are five stages to this tournament: Group Stage, First Round, Quarterfinals, Semifinals, and Finals.
 2. Matches are seeded. Teams will be seeded by performance points.
 3. In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
 4. In First Round, Quarterfinals, and Semifinals, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -217,8 +217,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and ScoreV2.**
 2. Each team is allowed to select one warm-up map.
-   - During Group Stage, warm-ups must not exceed 4:00 minutes. 
-   - In the following stages, the warm-up can be up to 6 minutes long if both teams agree.
+   - During Group Stage, warm-ups must not exceed 5:00 minutes. 
    - Offensive songs may be blocked by referees.
 3. Map selection will be done by the team who is currently losing. At the start however, it will be whoever `!roll` the highest. When the starting team is decided, both teams will select one map to ban that is not the Tiebreaker.
 4. In case of a tie, the Tiebreaker will be played.
