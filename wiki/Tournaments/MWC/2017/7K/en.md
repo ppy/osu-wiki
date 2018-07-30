@@ -10,12 +10,12 @@ osu!mania 7K World Cup 2017
 
 ![osu!mania 7K World Cup 2017](logo.jpg)
 
-The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is part of the 3rd installment of the osu!mania World Cup.
+The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 3rd installment of the osu!mania 7K World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | --- |
 | Registration Phase | 2016-12-12/2016-12-25   |
 | Drawings           | 2017-01-08 14:00:00 UTC |
 | Group Stage        | 2017-01-14/2017-01-15   |
@@ -29,17 +29,17 @@ The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!m
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | exclusive and unique merchandise, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge |
 
-## Organization
+## Organisation
 
-The osu!mania World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 7K World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-|---|---|
+| --- | --- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_PL] -Kamikaze-](https://osu.ppy.sh/users/2124783), [![][flag_SG] Evening](https://osu.ppy.sh/users/2193881) |
 | Commentators | [![][flag_US] Daikyi](https://osu.ppy.sh/users/811832), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_SG] Evening](https://osu.ppy.sh/users/2193881), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] -Konner-](https://osu.ppy.sh/users/6108644), [![][flag_US] Nivrad00](https://osu.ppy.sh/users/1984634), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
@@ -49,23 +49,12 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 - [Livestream](https://www.twitch.tv/osulive)
 - [Statistics](https://docs.google.com/spreadsheets/d/10Q8GPV9ngZJS2mGghiJUPrnZewLW9uVrs0kSvRUBN_A/pubhtml)
-- [Support your team with a user profile banner!](https://osu.ppy.sh/store/product/209)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
-
-------------------------------------------------------------------------
-
-![MWC 7K 2017 podium](podium.jpg)
-
-------------------------------------------------------------------------
-
-![Double Elimination bracket](bracket.jpg)
-
-------------------------------------------------------------------------
 
 ## Participants
 
 | | Country | Member |
-| ---: | :---: | :--- |
+| --: | :---: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Euroe](https://osu.ppy.sh/users/3633019), [Feravel](https://osu.ppy.sh/users/1276617), [aluuu](https://osu.ppy.sh/users/4585260), [pablodinakinsito](https://osu.ppy.sh/users/2052925), [wtfamidoing](https://osu.ppy.sh/users/2034976) |
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [Keweft](https://osu.ppy.sh/users/75777), [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lazarento](https://osu.ppy.sh/users/3224958), [Shinora-](https://osu.ppy.sh/users/5828575) |
@@ -82,6 +71,16 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_TH] | **Thailand** | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [moni](https://osu.ppy.sh/users/1750531), [Zenonia](https://osu.ppy.sh/users/437945), [Komeiji](https://osu.ppy.sh/users/1177753), [Leoros](https://osu.ppy.sh/users/6577073), [- A s u s a -](https://osu.ppy.sh/users/4607354) |
 | ![][flag_GB] | **United Kingdom** | **[PLiv](https://osu.ppy.sh/users/929134)**, [KOTFTW](https://osu.ppy.sh/users/2075727), [FOR THE QUEEN](https://osu.ppy.sh/users/3359035), [Hayabusa](https://osu.ppy.sh/users/3104108), [Pipper](https://osu.ppy.sh/users/4168230) |
 | ![][flag_US] | **United States** | **[Gekido-](https://osu.ppy.sh/users/4693052)**, [Jinjin](https://osu.ppy.sh/users/3360737), [Craig](https://osu.ppy.sh/users/3565377), [Squishykorean](https://osu.ppy.sh/users/4372604), [OroMaster](https://osu.ppy.sh/users/2375374), [dewero](https://osu.ppy.sh/users/2644993) |
+
+------------------------------------------------------------------------
+
+![MWC 7K 2017 podium](podium.jpg)
+
+------------------------------------------------------------------------
+
+![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
 
 ## Mappools
 
@@ -250,6 +249,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### Tournament Rules
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode with 7-key specific beatmaps.
@@ -329,17 +329,17 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| --: | --- |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals - Week 1 | O & AB, AC, AD, AE |
-| Finals - Week 2 | P, Q |
+| Finals | O & AB, AC, AD, AE |
+| Grand Finals | P, Q |
 
-**Winning conditions:**
+7. The **Winning conditions** for each stage will be:
    - In the Group Stage and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals and Finals: Week 1, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Finals: Week 2, you need to win 7 beatmaps to win the match. (Best-of-13)
+   - In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
+   - In Grand Finals, you need to win 7 beatmaps to win the match. (Best-of-13)
 
 ### Match Instructions
 
@@ -362,7 +362,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals Week 1 & Finals Week 2 use the same mappool.
+   - Finals & Grand Finals use the same mappool.
 
 2. Each mappool varies in size based on the current stage.
    - 13 FreeMod maps in Group Stage and Quarterfinals, respectively.

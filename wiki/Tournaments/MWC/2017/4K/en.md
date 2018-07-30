@@ -10,12 +10,12 @@ osu!mania 4K World Cup 2017
 
 ![osu!mania 4K World Cup 2017](logo.jpg)
 
-The **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is part of the 4th installment of the osu!mania World Cup.
+The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 4th installment of the osu!mania 4K World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2017-07-10/2017-07-23   |
 | Drawings           | 2017-08-07 14:00:00 UTC |
 | Group Stage        | 2017-08-12/2017-08-13   |
@@ -30,27 +30,26 @@ The **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) is a country-based osu!m
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, exclusive osu! pins and merchandise, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, exclusive osu! pins and merchandise, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, exclusive osu! pins and merchandise, profile badge |
 
-## Organization
+## Organisation
 
-The osu!mania World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 4K World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-|---|---|
-| Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentators | [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| --- | --- |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Support your team with a user profile banner!](https://osu.ppy.sh/store/product/226)
 - **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
@@ -58,25 +57,25 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ## Participants
 
 | | Country | Member |
-| :---: | :---: | :--- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [aluuu](https://osu.ppy.sh/users/4585260), [Ezze](https://osu.ppy.sh/users/2887427), [Fisk-](https://osu.ppy.sh/users/5748843), [Juanvidrio](https://osu.ppy.sh/users/2628463) |
 | ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [PotassiumF](https://osu.ppy.sh/users/4247722), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Rek](https://osu.ppy.sh/users/4018184), [Zeppy-lin](https://osu.ppy.sh/users/7675859) |
 | ![][flag_BE] | **Belgium** | **[Kizunuko-P](https://osu.ppy.sh/users/6741014)**, [NightNarumi](https://osu.ppy.sh/users/4381142), [Yetified](https://osu.ppy.sh/users/6914714), [Podzel](https://osu.ppy.sh/users/7368776), [Ojily](https://osu.ppy.sh/users/6539319), [Pryme](https://osu.ppy.sh/users/6393309) |
 | ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [Rikkaismywaifuu](https://osu.ppy.sh/users/9530019), [UrsoManso](https://osu.ppy.sh/users/4569601) |
 | ![][flag_CA] | **Canada** | **[CanadianTaco](https://osu.ppy.sh/users/5185455)**, [beary605](https://osu.ppy.sh/users/2198070), [CommandoBlack](https://osu.ppy.sh/users/7025841), [Panshow](https://osu.ppy.sh/users/5872899), [Genuine](https://osu.ppy.sh/users/5235597), [Freeflow](https://osu.ppy.sh/users/2777647) |
 | ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/users/5281416)**, [Rythze](https://osu.ppy.sh/users/469808), [Arkener](https://osu.ppy.sh/users/4116072), [Skalim](https://osu.ppy.sh/users/2225008), [aiory](https://osu.ppy.sh/users/2959518), [Raizenn](https://osu.ppy.sh/users/4531184) |
-| ![][flag_CN] | **China** | **[Sern888](https://osu.ppy.sh/users/2089244)**, [ZhangFan](https://osu.ppy.sh/users/89545), [[Crz]ScSolAr](https://osu.ppy.sh/users/1591215), [[Crz]Lucifer](https://osu.ppy.sh/users/5270332), [[Crz]Riri](https://osu.ppy.sh/users/6148622), [[Crz]MemoryI](https://osu.ppy.sh/users/8179131) |
+| ![][flag_CN] | **China** | **[Sern888](https://osu.ppy.sh/users/2089244)**, [ZhangFan](https://osu.ppy.sh/users/89545), [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215), [\[Crz\]Lucifer](https://osu.ppy.sh/users/5270332), [\[Crz\]Riri](https://osu.ppy.sh/users/6148622), [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) |
 | ![][flag_FI] | **Finland** | **[Jepetski](https://osu.ppy.sh/users/3794665)**, [snoverpk](https://osu.ppy.sh/users/3595196), [Pwae](https://osu.ppy.sh/users/4765794), [Camopoltergeist](https://osu.ppy.sh/users/8132964), [riktoi](https://osu.ppy.sh/users/4940393), [Herkkupala](https://osu.ppy.sh/users/3602620) |
 | ![][flag_FR] | **France** | **[bumpinho](https://osu.ppy.sh/users/1594604)**, [Elementaires](https://osu.ppy.sh/users/2284328), [Todestrieb](https://osu.ppy.sh/users/4056690), [Cunu](https://osu.ppy.sh/users/7190228), [Shadowzyx](https://osu.ppy.sh/users/3384640), [BurningPower](https://osu.ppy.sh/users/4989818) |
 | ![][flag_DE] | **Germany** | **[LastExceed](https://osu.ppy.sh/users/6232245)**, [Jeremayer](https://osu.ppy.sh/users/7475496), [Nediz](https://osu.ppy.sh/users/7009106), [-Dom-](https://osu.ppy.sh/users/5587671), [Nedeam](https://osu.ppy.sh/users/3996828), [StanleyS](https://osu.ppy.sh/users/7810871) |
 | ![][flag_HK] | **Hong Kong** | **[drunkenstein](https://osu.ppy.sh/users/4565389)**, [Opean](https://osu.ppy.sh/users/4544555), [Mooncha](https://osu.ppy.sh/users/5417362), [zero2snow](https://osu.ppy.sh/users/7751516) |
 | ![][flag_ID] | **Indonesia** | **[Fiea](https://osu.ppy.sh/users/3183277)**, [lpddemon](https://osu.ppy.sh/users/5101276), [LovelySerenade](https://osu.ppy.sh/users/5492871), [reyss](https://osu.ppy.sh/users/4557440), [RemFangirl](https://osu.ppy.sh/users/5767941), [Nixeria-sama](https://osu.ppy.sh/users/6045757) |
 | ![][flag_IT] | **Italy** | **[jutte](https://osu.ppy.sh/users/6946682)**, [Mura7797](https://osu.ppy.sh/users/3244389), [Cribob](https://osu.ppy.sh/users/8485394), [Saibel](https://osu.ppy.sh/users/2727928) |
-| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [_vA](https://osu.ppy.sh/users/5626441), [mach_jp](https://osu.ppy.sh/users/8679066), [iskr312](https://osu.ppy.sh/users/2885412) |
+| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [\_vA](https://osu.ppy.sh/users/5626441), [mach\_jp](https://osu.ppy.sh/users/8679066), [iskr312](https://osu.ppy.sh/users/2885412) |
 | ![][flag_MY] | **Malaysia** |  **[Neokje](https://osu.ppy.sh/users/7727987)**, [lisw1230](https://osu.ppy.sh/users/9249305), [watarakisah](https://osu.ppy.sh/users/6237337), [kaname-san92](https://osu.ppy.sh/users/764535), [Midori Carrot](https://osu.ppy.sh/users/6308090), [HunterproX](https://osu.ppy.sh/users/1343562) |
 | ![][flag_MX] | **Mexico** | **[\_Mytros\_](https://osu.ppy.sh/users/6507028)**, [Daybreak](https://osu.ppy.sh/users/3072763), [Sida](https://osu.ppy.sh/users/6031847), [Ray271](https://osu.ppy.sh/users/9008042), [Zetscythe](https://osu.ppy.sh/users/3360499) |
 | ![][flag_NL] | **Netherlands** | **[mrdawn2](https://osu.ppy.sh/users/1098581)**, [2fast4you98](https://osu.ppy.sh/users/5183940), [Obligerator](https://osu.ppy.sh/users/7452877), [Boots](https://osu.ppy.sh/users/2827823), [KloKat](https://osu.ppy.sh/users/6637728), [mijkolsmith](https://osu.ppy.sh/users/4307765) |
-| ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [Jesen](https://osu.ppy.sh/users/9000473), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585), [Glass Bottle](https://osu.ppy.sh/users/4988688), [KarlF](https://osu.ppy.sh/users/3494742), [Hjeg](https://osu.ppy.sh/users/2764122) |
+| ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [Jesen](https://osu.ppy.sh/users/9000473), [Bizarrely\_F4st](https://osu.ppy.sh/users/7676585), [Glass Bottle](https://osu.ppy.sh/users/4988688), [KarlF](https://osu.ppy.sh/users/3494742), [Hjeg](https://osu.ppy.sh/users/2764122) |
 | ![][flag_NZ] | **New Zealand** | **[Worms](https://osu.ppy.sh/users/1963937)**, [B E P I S](https://osu.ppy.sh/users/3580643), [Spicy Meme](https://osu.ppy.sh/users/6571078), [FantumEX](https://osu.ppy.sh/users/3394802), [Alamanar](https://osu.ppy.sh/users/7621152) |
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [Ainyan](https://osu.ppy.sh/users/3770641), [JztCallMeRon](https://osu.ppy.sh/users/2471512), [Niro-](https://osu.ppy.sh/users/6443899), [BLVGARI](https://osu.ppy.sh/users/877011), [Shuisora](https://osu.ppy.sh/users/4102511) |
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [SitekX](https://osu.ppy.sh/users/3840946), [Kroly-](https://osu.ppy.sh/users/6382502), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Transformau5](https://osu.ppy.sh/users/3109917), [Benzopirene](https://osu.ppy.sh/users/1887068) |
@@ -87,14 +86,14 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_Se] | **Sweden** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [\[ Vento \]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
 | ![][flag_TW] | **Taiwan** | **[y85782122](https://osu.ppy.sh/users/2287176)**, [jimmymeow159357](https://osu.ppy.sh/users/3733696), [luckygino](https://osu.ppy.sh/users/1967808), [ecafree2](https://osu.ppy.sh/users/1984442), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [MimF7_tw](https://osu.ppy.sh/users/4135993) |
-| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Fumi](https://osu.ppy.sh/users/8288049), [shuniki](https://osu.ppy.sh/users/4942174), [4ksrub](https://osu.ppy.sh/users/2838908), [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531), [floodlord](https://osu.ppy.sh/users/2772110) |
+| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Fumi](https://osu.ppy.sh/users/8288049), [shuniki](https://osu.ppy.sh/users/4942174), [4ksrub](https://osu.ppy.sh/users/2838908), [-\[DaNieL_TH\]-](https://osu.ppy.sh/users/6456531), [floodlord](https://osu.ppy.sh/users/2772110) |
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Xonica](https://osu.ppy.sh/users/3586776), [yipyapyop](https://osu.ppy.sh/users/5156656), [SleepyDarkrai](https://osu.ppy.sh/users/5063207), [itsjake](https://osu.ppy.sh/users/3617889), [Traps Are Cute](https://osu.ppy.sh/users/3359035) |
 | ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
 ------------------------------------------------------------------------
 
-![Winner Podium](podium.jpg)
+![MWC 4K 2017 podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +105,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ### Finals
 
-**This mappool is played in Week 1 and Week 2 of the Finals.**
+**This mappool is played in Finals and Grand Finals**
 
 **[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
 
@@ -135,9 +134,9 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 - FreeMod
   - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmaps/1128678&m=3)
-  - [Kaneko Chiharu - Lachryma\<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmaps/901050&m=3)
+  - [Kaneko Chiharu - Lachryma \<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmaps/901050&m=3)
   - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf) \[flnowers\]](https://osu.ppy.sh/beatmaps/993976&m=3)
-  - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmaps/1364765&m=3)
+  - [Ekcle - The Impulsive State (Parachor) \[Entropy\_\]](https://osu.ppy.sh/beatmaps/1364765&m=3)
   - [The Flashbulb - Passage D (Jinjin) \[Delve\]](https://osu.ppy.sh/beatmaps/1016508&m=3)
   - [IOSYS - Endless Tewi-ma Park (arcwinolivirus) \[Arcwin Lost Tewicated\]](https://osu.ppy.sh/beatmaps/855471&m=3)
   - [USAO - Boss Rush (PiraTom) \[LN Rush\]](https://osu.ppy.sh/beatmaps/1259719&m=3)
@@ -220,18 +219,18 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Grand Finals
 
 | 2017-09-16 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/36111799) |
 
 ### Finals
 
 | 2017-09-09 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP]      | **6** | 0 | ![][flag_CL] Chile      | [#1](https://osu.ppy.sh/community/matches/35952218) |
 | United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/35955973) |
 
 | 2017-09-10 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_US] United States     | [#1](https://osu.ppy.sh/community/matches/35972975) |
 | **Brazil** ![][flag_BR]      | **6** | 1 | ![][flag_JP] Japan             | [#1](https://osu.ppy.sh/community/matches/35974418) |
 | Brazil ![][flag_BR]          | 5 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/35998794) |
@@ -239,7 +238,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Semifinals
 
 | 2017-09-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Sweden ![][flag_SE]             | 1 | **6** | ![][flag_JP] **Japan**       | [#1](https://osu.ppy.sh/community/matches/35769761) |
 | **China** ![][flag_CN]          | **6** | 2 | ![][flag_FR] France          | [#1](https://osu.ppy.sh/community/matches/35771726) |
 | Brazil ![][flag_BR]             | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/35774130) |
@@ -248,20 +247,20 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | **United States** ![][flag_US]  | **6** | 0 | ![][flag_CL] Chile           | [#1](https://osu.ppy.sh/community/matches/35783065) |
 
 | 2017-09-03 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_ID] Indonesia          | [#1](https://osu.ppy.sh/community/matches/35804308) |
 | China ![][flag_CN]     | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/35807134) |
 
 ### Quarterfinals
 
 | 2017-08-26 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | France ![][flag_FR]    | 4 | **5** | ![][flag_CL] **Chile**          | [#1](https://osu.ppy.sh/community/matches/35585664) |
 | Argentina ![][flag_AR] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/35588367) |
 | Canada ![][flag_CA]    | 0 | **5** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/35590366) |
 
 | 2017-08-27 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_JP] Japan         | [#1](https://osu.ppy.sh/community/matches/35601021) |
 | New Zealand ![][flag_NZ]     | 0 | **5** | ![][flag_PL] **Poland**    | [#1](https://osu.ppy.sh/community/matches/35602514) |
 | Singapore ![][flag_SG]       | 1 | **5** | ![][flag_CN] **China**     | [#1](https://osu.ppy.sh/community/matches/35604433) |
@@ -271,7 +270,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Round of 16
 
 | 2017-08-20 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | New Zealand ![][flag_NZ]     | 1 | **5** | ![][flag_FR] **France**        | [#1](https://osu.ppy.sh/community/matches/35418105) |
 | **Indonesia** ![][flag_ID]   | **5** | 1 | ![][flag_CN] China             | [#1](https://osu.ppy.sh/community/matches/35419189) |
 | United Kingdom ![][flag_GB]  | 3 | **5** | ![][flag_JP] **Japan**         | [#1](https://osu.ppy.sh/community/matches/35420314) |
@@ -284,7 +283,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Group Stage
 
 | 2017-08-12 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Taiwan ![][flag_TW]             | 2 | **4** | ![][flag_AU] **Australia**      | [#1](https://osu.ppy.sh/community/matches/35209765) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/35209716) |
 | New Zealand ![][flag_NZ]        | 1 | **4** | ![][flag_ID] **Indonesia**      | [#1](https://osu.ppy.sh/community/matches/35209719) |
@@ -314,7 +313,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | Switzerland ![][flag_CH]        | 0 | **4** | ![][flag_CA] **Canada**         | [#1](https://osu.ppy.sh/community/matches/35219940) |
 
 | 2017-08-13 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | New Zealand ![][flag_NZ]     | **4** | 2 | ![][flag_ES] Spain              | [#1](https://osu.ppy.sh/community/matches/35236072) |
 | Italy ![][flag_IT]           | 0 | **4** | ![][flag_ID] **Indonesia**      | [#1](https://osu.ppy.sh/community/matches/35236074) |
 | Netherlands ![][flag_NL]     | 1 | **4** | ![][flag_JP] **Japan**          | [#1](https://osu.ppy.sh/community/matches/35236084) |
@@ -340,26 +339,27 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### Tournament Rules
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode with 4-key specific beatmaps.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
+    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 
 2. Map scoring is based on Score V2.
 
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - The Group Stage mappool will be announced after the drawings.
-   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+    - The Group Stage mappool will be announced after the drawings.
+    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a map gets considered as passing it.
+    - Reviving and surviving during a map gets considered as passing it.
 
 7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
+    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
@@ -385,87 +385,87 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Tournament Registration
 
 1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-   - The declared captain can form their team from the candidate list of their country.
+    - Tournament Management will create a list of potential candidates for a country's team.
+    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+    - The declared captain can form their team from the candidate list of their country.
 
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, you have to ensure that your global osu!mania performance ranking is above 5000.
-   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+    - Every registered user will be assigned to their respective country's candidate list.
+    - To be successfully accepted on the list, you have to ensure that your global osu!mania performance ranking is above 5000.
+    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
-   - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
+    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 
 5. Mapset selectors must not participate as a player in this tournament.
 
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-   - This may change depending on how many teams are accepted into the competition at the end.
+    - This may change depending on how many teams are accepted into the competition at the end.
 
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - Have higher `∑{(total score difference) / (maximum score)}`.
-   - Winner of the rematch.
+    - Most matches won.
+    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+    - Most beatmaps won.
+    - Have higher `∑{(total score difference) / (maximum score)}`.
+    - Winner of the rematch.
 
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+    -  This may change with the actual Group Stage setup.
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
+| --: | --- |
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals - Week 1 | O & AB, AC, AD, AE |
-| Finals - Week 2 | P, Q |
+| Finals | O & AB, AC, AD, AE |
+| Grand Finals | P, Q |
 
-**Winning conditions:**
-   - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals and Finals: Week 1, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Finals: Week 2, you need to win 7 beatmaps to win the match. (Best-of-13)
+7. The **Winning conditions** for each stage will be:
+    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
+    - In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
+    - In Grand Finals, you need to win 7 beatmaps to win the match. (Best-of-13)
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+    - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
+    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4-key specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a map as well.
+    - The winner of the !roll starts picking the first beatmap of the match.
+    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a map as well.
 
 6. Captains may pick freely from any bracket.
-   - In case of a tie, the tiebreaker map must be played.
+    - In case of a tie, the tiebreaker map must be played.
 
 7. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals Week 1 & Finals Week 2 use the same mappool.
+    - Finals and Grand Finals use the same mappool.
 
 2. Each mappool varies in size based on the current stage.
-   - The Group Stage mappool has 13 beatmaps in total.
-   - The Round of 16 and Quarterfinals mappool has 14 beatmaps in total.
-   - The Semifinals mappool has 15 maps in total.
-   - The Finals mappool has 16 maps in total.
+    - The Group Stage mappool has 13 beatmaps in total.
+    - The Round of 16 and Quarterfinals mappool has 14 beatmaps in total.
+    - The Semifinals mappool has 15 maps in total.
+    - The Finals mappool has 16 maps in total.
 
 3. Each mappool has one tiebreaker.
 4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
-   - The tiebreaker will be played under FreeMod conditions.
+    - Allowed mods are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
+    - The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling Instructions
 
@@ -473,7 +473,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 2. Matches in Group Stage may overlap.
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
