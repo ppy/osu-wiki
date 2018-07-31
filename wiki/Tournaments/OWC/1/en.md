@@ -5,10 +5,10 @@ tags:
 - OWC#1
 - OWC1
 ---
-osu! World Cup #1
-=====================
 
-![osu! World Cup #1](logo.png)
+# osu! World Cup #1
+
+![osu! World Cup #1 logo](logo.png)
 
 The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu! World Cup.
 
@@ -21,14 +21,14 @@ The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament host
 
 In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Place | Prize(s) |
-| ----- | -------- |
+| Placing | Prize(s) |
+| ----- | :------- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
 | *Special* | 1 month supporter tag (won by ![][flag_JP] Japan) |
 
-## Organization
+## Organisation
 
 The osu! World Cup #1 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
@@ -47,10 +47,6 @@ The osu! World Cup #1 was run by various community members by distributing the m
 - [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by [dvorak](https://osu.ppy.sh/users/271359)
 
 ------------------------------------------------------------
-
-![osu! World Cup #1 Brackets](brackets.png)
-
-----------------------------------------------------
 
 ## Participants
 
@@ -85,6 +81,8 @@ The osu! World Cup #1 was run by various community members by distributing the m
 | ![][flag_GB] | **United Kingdom** | **Doomsday**, Natteke, aevv, Jericho2442, DiamondCrash |
 | ![][flag_US] | **United States** | **Lybydose**, Mafiamaster, Cyclone, ebacho, naptime |
 
+## Groups
+
 | Asia/Oceania | Europe | America |
 | ------------ | ------ | ------- |
 | ![][flag_CN] China       | ![][flag_AT] Austria | ![][flag_AR] Argentina |  
@@ -101,9 +99,13 @@ The osu! World Cup #1 was run by various community members by distributing the m
 | | ![][flag_UA] Ukraine | |
 | | ![][flag_GB] United Kingdom | |
 
+------------------------------------------------------------
+
+![osu! World Cup #1 Brackets](brackets.png)
+
 ---------------------------------------------------
 
-## Mappool
+## Mappools
 
 ### Finals
 
