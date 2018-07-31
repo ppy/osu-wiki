@@ -11,10 +11,10 @@ The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament 
 
 ## Tournament Schedule
 
-| Event| Timestamp  |
-|-------------------:|--------------------------|
+| Event | Timestamp  |
+|------:|:-----------|
 | Registration Phase | 2014-10-02/2014-10-26    |
-| Drawings    | 2014-11-01  (14:00 UTC+0)|
+| Live Drawings  | 2014-11-01 (14:00 UTC+0)|
 | Group Stage | 2014-11-08/2014-11-09    |
 | Round of 16 | 2014-11-15/2014-11-16    |
 | Quarterfinals | 2014-11-22/2014-11-23    |
@@ -26,17 +26,17 @@ The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament 
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
-| Place | Prize(s) |
-| ----- | -------- |
+| Placing | Prize(s) |
+| ----- | :------- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, profile badge, "osu! Champion" user title, osu! merchandise |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months supporter tag  |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag  |
 
-## Organization
+## Organisation
 
 The osu! World Cup 2014 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
+| Position | Member(s) |
 | -------- | ------- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
 | Map Selectors | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)  |
@@ -46,13 +46,9 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Links
 
--   [Discussion Thread](https://osu.ppy.sh/forum/p/3410198)
+-   [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
 -   [Livestream](https://www.twitch.tv/osulive/)
--   **[Statistics Sheet](https://owc.nicarim.pw/results/view/3)**
-
-------------------------------------------------------------------------
-
-![OWC 2014 brackets](brackets.jpg)
+-   **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------
 
@@ -93,6 +89,8 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | ![][flag_GB] |United Kingdom | **[jesus1412](https://osu.ppy.sh/users/230116)**, [Doomsday](https://osu.ppy.sh/users/18983), [Raiku](https://osu.ppy.sh/users/1525538), [lovu](https://osu.ppy.sh/users/846235), [PortalLife](https://osu.ppy.sh/users/929134), [bahamete](https://osu.ppy.sh/users/960620), [Kardet](https://osu.ppy.sh/users/1438509), [Jameslike](https://osu.ppy.sh/users/2415743)|
 | ![][flag_US] |United States  | **[pooptartsonas](https://osu.ppy.sh/users/1334453)**, [Kaoru](https://osu.ppy.sh/users/492699), [kittehcommando](https://osu.ppy.sh/users/2162669), [pielak](https://osu.ppy.sh/users/310455), [Xilver15](https://osu.ppy.sh/users/3099689), [SapphireGhost](https://osu.ppy.sh/users/388602), [Horo](https://osu.ppy.sh/users/992439), [-Soba-](https://osu.ppy.sh/users/663657) |
 
+## Groups
+
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | 
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BR] Brazil  | ![][flag_LT] Lithuania | ![][flag_CA] Canada | ![][flag_FI] Finland | ![][flag_CN] China |
@@ -102,12 +100,15 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ------------------------------------------------------------------------
 
-Mappool
-----------
+![OWC 2014 brackets](brackets.jpg)
+
+------------------------------------------------------------------------
+
+## Mappools
 
 ### Finals
 
-**[Download the mappack here!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[Download the mappack here! (130.7MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmaps/214248)
@@ -137,7 +138,7 @@ Mappool
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[Download the mappack here! (187.8MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
@@ -167,7 +168,7 @@ Mappool
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Download the mappack here! (164.1MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmaps/378781)
@@ -197,7 +198,7 @@ Mappool
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Download the mappack here! (144.2MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmaps/315260)
@@ -227,7 +228,7 @@ Mappool
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Download the mappack here! (206.6MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmaps/318975)
@@ -417,7 +418,7 @@ Mappool
 -   Captains will get notified in case their roster has been accepted or rejected.
 12.  Mapset selectors must not participate as a player in this tournament.
 
-### Stage instructions
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
@@ -475,7 +476,7 @@ Mappool
 12.  The size of the NoMod bracket will be 6 in all stages.
 13. The size of the mod-specific brackets will be 3 in all stages.
 
-### Scheduling instructions
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
