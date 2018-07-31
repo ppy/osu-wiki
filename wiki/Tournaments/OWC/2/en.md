@@ -5,8 +5,8 @@ tags:
 - OWC#2
 - OWC2
 ---
-osu! World Cup #2
-========================
+
+# osu! World Cup #2
 
 ![osu! World Cup #2 logo](logo.png)
 
@@ -16,17 +16,17 @@ The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament host
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
-| Place | Prize(s) |
-| ----- | -------- |
+| Placing | Prize(s) |
+| ----- | :------- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
 
-## Organization
+## Organisation
 
 The osu! World Cup #2 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
+| Position | Member(s) |
 | -------- | ------- |
 | Management | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Map Selectors | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
@@ -36,10 +36,6 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 - [Tournament Schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
 - [Pre-tournament Interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
-
-------------------------------------------
-
-![osu! World Cup #2 Brackets](brackets.png)
 
 ------------------------------------------
 
@@ -80,6 +76,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, Z e o n, [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), Snepif, [AlrdyExists](https://osu.ppy.sh/users/407022) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [JerryC](https://osu.ppy.sh/users/279278), [Shin1801](https://osu.ppy.sh/users/604492), [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [xLightningx](https://osu.ppy.sh/users/1007806), [kira\_lacus1995](https://osu.ppy.sh/users/996435) |
 
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -90,7 +87,11 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ------------------------------------
 
-## Mappool
+![osu! World Cup #2 Brackets](brackets.png)
+
+------------------------------------------
+
+## Mappools
 
 ### Finals
 
