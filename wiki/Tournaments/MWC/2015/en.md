@@ -407,7 +407,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
     - Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
-    1.  This may change with the actual Group Stage setup.
+    - This may change with the actual Group Stage setup.
 
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
@@ -422,8 +422,8 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
     - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
@@ -448,13 +448,13 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 ### Mappool Instructions
 
-1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
+1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - Finals & Grand Finals use the same mappool.
 
 2.  Mappool size varies depending on the stage.
     - 12 FreeMod maps in Group Stage.
-    - 14 FreeMod maps in Round of 16 and Quarter-finals, respectively.
-    - 16 FreeMod maps in Semi-finals and Finals, respectively.
+    - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
+    - 16 FreeMod maps in Semifinals and Finals, respectively.
 
 3.  Each mappool has one tiebreaker.
 4.  All maps, including the tiebreaker, will be played on FreeMod condition.

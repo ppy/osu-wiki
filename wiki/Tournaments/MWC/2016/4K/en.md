@@ -443,8 +443,8 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
     - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
@@ -467,7 +467,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
+1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - Finals & Grand Finals use the same mappool.
 
 2. Each mappool consists of 2 brackets: NoMod and FreeMod
@@ -493,7 +493,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 2. Matches in Group Stage may overlap.
 3. All matches will be held on either Saturday or Sunday.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-    - In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.

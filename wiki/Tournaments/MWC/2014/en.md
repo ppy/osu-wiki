@@ -544,7 +544,7 @@ This competition has come to an end and resulted in the following podium:
 1. In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    -  Most matches won.
+    - Most matches won.
     - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     - Most maps won.
     - Have higher `∑{(total score difference) / (maximum score)}`.
@@ -552,10 +552,10 @@ This competition has come to an end and resulted in the following podium:
 
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
 5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
-6. **Winning conditions:**
+6. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 
@@ -573,7 +573,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals for each bracket.
+1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals for each bracket.
 2. The mappools for the 4-keys and 7-keys bracket are separated.
 3. Each mappool consists of 1 bracket: FreeMod
 4. Each mappool consists of 10-14 maps in total.
@@ -582,8 +582,8 @@ This competition has come to an end and resulted in the following podium:
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
     - 9 in Group Stage
-    - 11 in Round 16 & Quarter-finals
-    - 13 in Semi-finals & Finals
+    - 11 in Round of 16 & Quarterfinals
+    - 13 in Semifinals & Finals
 
 ### Scheduling instructions
 
