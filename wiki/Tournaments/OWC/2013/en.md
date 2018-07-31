@@ -13,9 +13,9 @@ The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament 
 ## Tournament Schedule
 
 | Event | Timestamp  |
-|-----------------------:|-------------------------|
+|------:|:-----------|
 | Registration Phase | 2013-10-15/2013-10-28 |
-| Drawings  | 2013-10-31 (16:00 UTC+0)|
+| Live Drawings  | 2013-10-31 (16:00 UTC+0)|
 | Group Stage | 2013-11-08/2013-11-10 |
 | Round of 16 | 2013-11-16/2013-11-17 |
 | Quarterfinals  | 2013-11-23/2013-11-24 |
@@ -26,17 +26,17 @@ The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament 
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
-| Place | Prize(s) |
-| ----- | -------- |
+| Placing | Prize(s) |
+| ----- | :------- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
 
-## Organization
+## Organisation
 
 The osu! World Cup 2013 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
+| Position | Member(s) |
 | -------- | ------- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
 | Map Selectors | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) |
@@ -48,13 +48,9 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 - [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
 - [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
-- **[Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
+- **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 
 -------------------------------------------
-
-![osu! World Cup 2013 Brackets](brackets.jpg)
-
--------------------------------
 
 ## Participants
 
@@ -93,6 +89,8 @@ The osu! World Cup 2013 was run by various community members by distributing the
 | ![][flag_US] | United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 | ![][flag_VE] | Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
+## Groups
+
 | Top-seeded | High-seeded | Low-seeded | Unseeded |
 | ---------- | ----------- | ---------- | -------- |
 | ![][flag_CN] China | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BE] Belgium |
@@ -106,12 +104,15 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 --------------------------------
 
-Mappool
--------------
+![osu! World Cup 2013 Brackets](brackets.jpg)
+
+-------------------------------
+
+## Mappools
 
 ### Finals
 
-**[Download the mappack here!](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Download the mappack here! (194.7MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmaps/142239)
@@ -145,7 +146,7 @@ Mappool
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Download the mappack here! (209.3MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmaps/216272)
@@ -179,7 +180,7 @@ Mappool
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Download the mappack here! (184MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmaps/153484)
@@ -213,7 +214,7 @@ Mappool
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Download the mappack here! (143MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmaps/135804)
@@ -247,7 +248,7 @@ Mappool
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Download the mappack here! (215.9MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmaps/153418)
@@ -279,6 +280,8 @@ Mappool
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmaps/127363)**
 
+--------------------------------
+
 ## Match Results
 
 ### Finals
@@ -292,14 +295,14 @@ Mappool
 | ---: | :---: | :---: | :--- | :---: |
 |  United Kingdom ![][flag_GB] | 1 | **6** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
-### Semi-finals
+### Semifinals
 
 | Saturday, 2013-11-30 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 |  **Korea** ![][flag_KR] | **6** | 1 | United Kingdom ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/3088440) |
 |  **Taiwan** ![][flag_TW]| **6** | 0 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
-### Quarter-finals
+### Quarterfinals
 
 | Sunday, 2013-11-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
@@ -308,7 +311,7 @@ Mappool
 |  China ![][flag_CN]| 4 | **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197) |
 | **United Kingdom** ![][flag_GB] | **5** | 3 | Germany ![][flag_DE]  | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
 
-### Round 16
+### Round of 16
 
 | Saturday, 2013-11-16 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
