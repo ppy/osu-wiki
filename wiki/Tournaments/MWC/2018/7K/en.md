@@ -47,6 +47,8 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
+------------------------------------------------------------------------
+
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
@@ -103,99 +105,99 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 **[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
 
 - FreeMod
-  - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/beatmaps/1421269&m=3)
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](http://osu.ppy.sh/beatmaps/1309991&m=3)
-  - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/beatmaps/1351223&m=3)
-  - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](http://osu.ppy.sh/beatmaps/943256&m=3)
-  - [Gekikara Mania - Deublithick (\_underjoy) \[Ultra\]](http://osu.ppy.sh/beatmaps/1536787&m=3)
-  - [Nauts - Second Run (Core Mix) (Reba) \[Lv.60\]](http://osu.ppy.sh/beatmaps/1173638&m=3)
-  - [DJ Sharpnel - Gate Openerz (qodtjr) \[qodwawa\]](http://osu.ppy.sh/beatmaps/1291115&m=3)
-  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (arcwinolivirus) \[Beating Fallen Angel\]](http://osu.ppy.sh/beatmaps/1299515&m=3)
-  - [YUC'e - Future Cider (Blasticide) \[Future Candy\]](http://osu.ppy.sh/beatmaps/1407558&m=3)
-  - [xi - Valhalla (AncuL) \[Collab Grimnismal\]](http://osu.ppy.sh/beatmaps/1539702&m=3)
-  - [Ras - TURNDOWN(gdbg edit) (spoonguy) \[sp7\]](http://osu.ppy.sh/beatmaps/1567241&m=3)
-  - [F-777 - Deadlocked (Ciel) \[Lockstep\]](http://osu.ppy.sh/beatmaps/1567673&m=3)
-  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[Coronation\]](http://osu.ppy.sh/beatmaps/1495919&m=3)
-  - [DragonForce - Through The Fire And Flames (Jinjin) \[Eternal Reign\]](http://osu.ppy.sh/beatmaps/1565212&m=3)
-  - [lapix - Carry me away (Couil) \[7K SV Challenge\]](http://osu.ppy.sh/beatmaps/1526642&m=3)
+  - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/beatmaps/1421269)
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](http://osu.ppy.sh/beatmaps/1309991)
+  - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/beatmaps/1351223)
+  - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](http://osu.ppy.sh/beatmaps/943256)
+  - [Gekikara Mania - Deublithick (\_underjoy) \[Ultra\]](http://osu.ppy.sh/beatmaps/1536787)
+  - [Nauts - Second Run (Core Mix) (Reba) \[Lv.60\]](http://osu.ppy.sh/beatmaps/1173638)
+  - [DJ Sharpnel - Gate Openerz (qodtjr) \[qodwawa\]](http://osu.ppy.sh/beatmaps/1291115)
+  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (arcwinolivirus) \[Beating Fallen Angel\]](http://osu.ppy.sh/beatmaps/1299515)
+  - [YUC'e - Future Cider (Blasticide) \[Future Candy\]](http://osu.ppy.sh/beatmaps/1407558)
+  - [xi - Valhalla (AncuL) \[Collab Grimnismal\]](http://osu.ppy.sh/beatmaps/1539702)
+  - [Ras - TURNDOWN(gdbg edit) (spoonguy) \[sp7\]](http://osu.ppy.sh/beatmaps/1567241)
+  - [F-777 - Deadlocked (Ciel) \[Lockstep\]](http://osu.ppy.sh/beatmaps/1567673)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[Coronation\]](http://osu.ppy.sh/beatmaps/1495919)
+  - [DragonForce - Through The Fire And Flames (Jinjin) \[Eternal Reign\]](http://osu.ppy.sh/beatmaps/1565212)
+  - [lapix - Carry me away (Couil) \[7K SV Challenge\]](http://osu.ppy.sh/beatmaps/1526642)
 - Tiebreaker
-  - [DJ Genki (as Gram) vs. Camellia - Ragnarok (Jinjin) \[Fate\]](http://osu.ppy.sh/beatmaps/1566335&m=3)
+  - **[DJ Genki (as Gram) vs. Camellia - Ragnarok (Jinjin) \[Fate\]](http://osu.ppy.sh/beatmaps/1566335)**
 
 ### Semifinals
 
 **[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip)**
 
 - FreeMod
-  - [FELT - Flower Flag (17VA) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1142360&m=3)
-  - [ZiGZaG - VVV (AncuL) \[Nightmare\]](http://osu.ppy.sh/beatmaps/1180112&m=3)
-  - [fripSide - white forces (Pikobaka) \[White\]](http://osu.ppy.sh/beatmaps/959256&m=3)
-  - [Hinoisuka - Delightness Brightness (qodtjr) \[Hoshi\]](http://osu.ppy.sh/beatmaps/1251693&m=3)
-  - [Camellia - Towards the Horizon (AncuL) \[Horizon\]](http://osu.ppy.sh/beatmaps/1455297&m=3)
-  - [Sai Oto / Komiya Mao - Yozakura (Reba) \[Lv.16\]](http://osu.ppy.sh/beatmaps/1306788&m=3)
-  - [Shoujo Fractal - Samayoi no mei (Wonki) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1522088&m=3)
-  - [goreshit - the nature of dying (Blocko) \[mourning\]](http://osu.ppy.sh/beatmaps/1411514&m=3)
-  - [Noah - Celestial stinger (Wonki) \[GRAVITY\]](http://osu.ppy.sh/beatmaps/1149869&m=3)
-  - [O2i3 - TSLove (jakads) \[Jump!\]](http://osu.ppy.sh/beatmaps/1245822&m=3)
-  - [Camellia - crystallized (Blocko) \[Coalescence\]](http://osu.ppy.sh/beatmaps/1008888&m=3)
-  - [A4paper - Hypernova (Spy) \[Lee's 7K Black Another\]](http://osu.ppy.sh/beatmaps/1147752&m=3)
-  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Ciel) \[Crispy\]](http://osu.ppy.sh/beatmaps/1562281&m=3)
+  - [FELT - Flower Flag (17VA) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1142360)
+  - [ZiGZaG - VVV (AncuL) \[Nightmare\]](http://osu.ppy.sh/beatmaps/1180112)
+  - [fripSide - white forces (Pikobaka) \[White\]](http://osu.ppy.sh/beatmaps/959256)
+  - [Hinoisuka - Delightness Brightness (qodtjr) \[Hoshi\]](http://osu.ppy.sh/beatmaps/1251693)
+  - [Camellia - Towards the Horizon (AncuL) \[Horizon\]](http://osu.ppy.sh/beatmaps/1455297)
+  - [Sai Oto / Komiya Mao - Yozakura (Reba) \[Lv.16\]](http://osu.ppy.sh/beatmaps/1306788)
+  - [Shoujo Fractal - Samayoi no mei (Wonki) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1522088)
+  - [goreshit - the nature of dying (Blocko) \[mourning\]](http://osu.ppy.sh/beatmaps/1411514)
+  - [Noah - Celestial stinger (Wonki) \[GRAVITY\]](http://osu.ppy.sh/beatmaps/1149869)
+  - [O2i3 - TSLove (jakads) \[Jump!\]](http://osu.ppy.sh/beatmaps/1245822)
+  - [Camellia - crystallized (Blocko) \[Coalescence\]](http://osu.ppy.sh/beatmaps/1008888)
+  - [A4paper - Hypernova (Spy) \[Lee's 7K Black Another\]](http://osu.ppy.sh/beatmaps/1147752)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Ciel) \[Crispy\]](http://osu.ppy.sh/beatmaps/1562281)
 - Tiebreaker
-  - [Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](http://osu.ppy.sh/beatmaps/684928&m=3)
+  - **[Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](http://osu.ppy.sh/beatmaps/684928)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)**
 
 - FreeMod
-  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](http://osu.ppy.sh/beatmaps/1497082&m=3)
-  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[Blocko's 7K Extra\]](http://osu.ppy.sh/beatmaps/1552763&m=3)
-  - [The Flashbulb - Passage D (Wonki) \[Forbidden Path\]](http://osu.ppy.sh/beatmaps/1348685&m=3)
-  - [Yooh - Shanghai Kouchakan (Orchid Remix 2017 Update ver.) (AncuL) \[Orchid\]](http://osu.ppy.sh/beatmaps/1421481&m=3)
-  - [EBIMAYO - GOODBOUNCE (R e m u r i n g) \[BOUNCE\]](http://osu.ppy.sh/beatmaps/1285588&m=3)
-  - [Suzuki Konomi - CHOIR JAIL (arcwinolivirus) \[7K 'Epic Tragedy' Arc\]](http://osu.ppy.sh/beatmaps/1086869&m=3)
-  - [bill wurtz - outside (Nivrad00) \[i wanna go outside\]](http://osu.ppy.sh/beatmaps/1552703&m=3)
-  - [holic - Deus ex machina (spoonguy) \[sp1\]](http://osu.ppy.sh/beatmaps/1015427&m=3)
-  - [UNDEAD CORPORATION - Seven Colors (Nwolf) \[LordRaika's 7K EX\]](http://osu.ppy.sh/beatmaps/1155703&m=3)
-  - [encX - One Day (Lenfried-) \[7K SV\]](http://osu.ppy.sh/beatmaps/1261333&m=3)
-  - [Aphex Twin (Cover by Webodan) - Avril 14th (8-bit GXSCC) (Nivrad00) \[Challenge\]](http://osu.ppy.sh/beatmaps/963008&m=3)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](http://osu.ppy.sh/beatmaps/1497082)
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[Blocko's 7K Extra\]](http://osu.ppy.sh/beatmaps/1552763)
+  - [The Flashbulb - Passage D (Wonki) \[Forbidden Path\]](http://osu.ppy.sh/beatmaps/1348685)
+  - [Yooh - Shanghai Kouchakan (Orchid Remix 2017 Update ver.) (AncuL) \[Orchid\]](http://osu.ppy.sh/beatmaps/1421481)
+  - [EBIMAYO - GOODBOUNCE (R e m u r i n g) \[BOUNCE\]](http://osu.ppy.sh/beatmaps/1285588)
+  - [Suzuki Konomi - CHOIR JAIL (arcwinolivirus) \[7K 'Epic Tragedy' Arc\]](http://osu.ppy.sh/beatmaps/1086869)
+  - [bill wurtz - outside (Nivrad00) \[i wanna go outside\]](http://osu.ppy.sh/beatmaps/1552703)
+  - [holic - Deus ex machina (spoonguy) \[sp1\]](http://osu.ppy.sh/beatmaps/1015427)
+  - [UNDEAD CORPORATION - Seven Colors (Nwolf) \[LordRaika's 7K EX\]](http://osu.ppy.sh/beatmaps/1155703)
+  - [encX - One Day (Lenfried-) \[7K SV\]](http://osu.ppy.sh/beatmaps/1261333)
+  - [Aphex Twin (Cover by Webodan) - Avril 14th (8-bit GXSCC) (Nivrad00) \[Challenge\]](http://osu.ppy.sh/beatmaps/963008)
 - Tiebreaker
-  - [Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Lude's 7K Interstellar\]](http://osu.ppy.sh/beatmaps/1177813&m=3)
+  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Lude's 7K Interstellar\]](http://osu.ppy.sh/beatmaps/1177813)**
 
 ### Round of 16
 
 **[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
 
 - FreeMod
-  - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/beatmaps/760452&m=3)
-  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/beatmaps/261515&m=3)
-  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/beatmaps/955188&m=3)
-  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](http://osu.ppy.sh/beatmaps/1170409&m=3)
-  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](http://osu.ppy.sh/beatmaps/615683&m=3)
-  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](http://osu.ppy.sh/beatmaps/1206690&m=3)
-  - [xi - .357 Magnum (Level 51) \[Insane\]](http://osu.ppy.sh/beatmaps/1099592&m=3)
-  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](http://osu.ppy.sh/beatmaps/1189760&m=3)
-  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](http://osu.ppy.sh/beatmaps/1186335&m=3)
-  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](http://osu.ppy.sh/beatmaps/293691&m=3)
-  - [she - gum (spoonguy) \[spoongum\]](http://osu.ppy.sh/beatmaps/1546340&m=3)
+  - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/beatmaps/760452)
+  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/beatmaps/261515)
+  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/beatmaps/955188)
+  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](http://osu.ppy.sh/beatmaps/1170409)
+  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](http://osu.ppy.sh/beatmaps/615683)
+  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](http://osu.ppy.sh/beatmaps/1206690)
+  - [xi - .357 Magnum (Level 51) \[Insane\]](http://osu.ppy.sh/beatmaps/1099592)
+  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](http://osu.ppy.sh/beatmaps/1189760)
+  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](http://osu.ppy.sh/beatmaps/1186335)
+  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](http://osu.ppy.sh/beatmaps/293691)
+  - [she - gum (spoonguy) \[spoongum\]](http://osu.ppy.sh/beatmaps/1546340)
 - Tiebreaker
-  - [kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](http://osu.ppy.sh/beatmaps/1074472&m=3)
+  - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](http://osu.ppy.sh/beatmaps/1074472)**
 
 ### Group Stage
 
 **[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
 
 - FreeMod
-  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](http://osu.ppy.sh/beatmaps/964012&m=3)
-  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](http://osu.ppy.sh/beatmaps/1515408&m=3)
-  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/beatmaps/384381&m=3)
-  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](http://osu.ppy.sh/beatmaps/1536295&m=3)
-  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[\_underjoy's Insane\]](http://osu.ppy.sh/beatmaps/1124577&m=3)
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](http://osu.ppy.sh/beatmaps/1209101&m=3)
-  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](http://osu.ppy.sh/beatmaps/799473&m=3)
-  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](http://osu.ppy.sh/beatmaps/1038325&m=3)
-  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/beatmaps/1533313&m=3)
+  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](http://osu.ppy.sh/beatmaps/964012)
+  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](http://osu.ppy.sh/beatmaps/1515408)
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/beatmaps/384381)
+  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](http://osu.ppy.sh/beatmaps/1536295)
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[\_underjoy's Insane\]](http://osu.ppy.sh/beatmaps/1124577)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](http://osu.ppy.sh/beatmaps/1209101)
+  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](http://osu.ppy.sh/beatmaps/799473)
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](http://osu.ppy.sh/beatmaps/1038325)
+  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/beatmaps/1533313)
 - Tiebreaker
-  - [KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/beatmaps/1355805&m=3)
+  - **[KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/beatmaps/1355805)**
 
 ------------------------------------------------------------------------
 

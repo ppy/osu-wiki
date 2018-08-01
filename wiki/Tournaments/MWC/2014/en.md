@@ -49,10 +49,10 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 
 ## Links
 
-- **[osu!mania World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)**
-- [Discussion Thread](https://osu.ppy.sh/forum/t/222100)
-- [Statistics: 4K Bracket](https://mwc.servegame.com/results/view/1)
-- [Statistics: 7K Bracket](https://mwc.servegame.com/results/view/2)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/222100)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Statistics: 4K Bracket](https://mwc.servegame.com/results/view/1)**
+- **[Statistics: 7K Bracket](https://mwc.servegame.com/results/view/2)**
 
 ------------------------------------------------------------------------
 
@@ -114,21 +114,21 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 
 | Group A | Group B | Group C | Group D |
 | --- | --- | --- | --- |
-| ![][flag_AR]  Argentina   | ![][flag_CZ]  Czech Republic | ![][flag_RU]  Russian Federation | ![][flag_PL]  Poland |
-| ![][flag_ES]  Spain       | ![][flag_AU]  Australia      | ![][flag_JP]  Japan              | ![][flag_CA]  Canada |
-| ![][flag_TW]  Taiwan      | ![][flag_ID]  Indonesia      | ![][flag_NZ]  New Zealand        | ![][flag_CL]  Chile  |
-| ![][flag_PH]  Philippines | ![][flag_US]  United States  | ![][flag_GB]  United Kingdom     | ![][flag_NO]  Norway |
-| ![][flag_DE]  Germany     | ![][flag_KR]  South Korea    | ![][flag_MY]  Malaysia           | ![][flag_FR]  France |
+| ![][flag_AR] Argentina | ![][flag_CZ] Czech Republic | ![][flag_RU] Russian Federation | ![][flag_PL] Poland |
+| ![][flag_ES] Spain | ![][flag_AU] Australia | ![][flag_JP] Japan | ![][flag_CA] Canada |
+| ![][flag_TW] Taiwan | ![][flag_ID] Indonesia | ![][flag_NZ] New Zealand | ![][flag_CL] Chile |
+| ![][flag_PH] Philippines | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_NO] Norway |
+| ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_FR] France |
 
 ### 7K Bracket
 
 | Group A | Group B | Group C | Group D |
 | --- | --- | --- | --- |
-| ![][flag_AU]  Australia     | ![][flag_ES]  Spain              | ![][flag_ID]  Indonesia | ![][flag_KR]  South Korea    |
-| ![][flag_PH]  Philippines   | ![][flag_PL]  Poland             | ![][flag_PT]  Portugal  | ![][flag_NO]  Norway         |
-| ![][flag_MY]  Malaysia      | ![][flag_HK]  Hong Kong          | ![][flag_CL]  Chile     | ![][flag_TH]  Thailand       |
-| ![][flag_DE]  Germany       | ![][flag_RU]  Russian Federation | ![][flag_JP]  Japan     | ![][flag_GB]  United Kingdom |
-| ![][flag_US]  United States | ![][flag_CN]  China              | ![][flag_FR]  France    | ![][flag_NL]  Netherlands    |
+| ![][flag_AU] Australia | ![][flag_ES] Spain | ![][flag_ID] Indonesia | ![][flag_KR] South Korea |
+| ![][flag_PH] Philippines | ![][flag_PL] Poland | ![][flag_PT] Portugal | ![][flag_NO] Norway |
+| ![][flag_MY] Malaysia | ![][flag_HK] Hong Kong | ![][flag_CL] Chile | ![][flag_TH] Thailand |
+| ![][flag_DE] Germany | ![][flag_RU] Russian Federation | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
+| ![][flag_US] United States | ![][flag_CN] China | ![][flag_FR] France | ![][flag_NL] Netherlands |
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ------------------------------------------------------------------------
 
-## 4K Mappool
+## 4K Mappools
 
 ### Finals
 
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
   - [DJ SHARPNEL - FUTURE DOMINATORS (DponXiaodong) \[4K HD\]](https://osu.ppy.sh/beatmaps/483059)
   - [Melyceria&Disease - 357 BPM (\_Gezo\_) \[Starstream Knot\]](https://osu.ppy.sh/beatmaps/413873)
 - Tiebreaker
-  - [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmaps/473228)
+  - **[xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmaps/473228)**
 
 ### Semifinals
 
@@ -188,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
   - [Reol - +Danshi (lZenxl) \[Fullerene's 4K MX\]](https://osu.ppy.sh/beatmaps/480591)
   - [Hi-G remixed by DM Ashura - Aztec Templing (PuppyButt) \[Original\]](https://osu.ppy.sh/beatmaps/316956)
 - Tiebreaker
-  - [DJ Sharpnel - Over the Fullereneshift (Fullerene-) \[Komm, susser Tod\]](https://osu.ppy.sh/beatmaps/450928)
+  - **[DJ Sharpnel - Over the Fullereneshift (Fullerene-) \[Komm, susser Tod\]](https://osu.ppy.sh/beatmaps/450928)**
 
 ### Quarterfinals
 
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
   - [BlackYooh vs. siromaru - BLACK or WHITE? (Tokiiwa) \[4K EXHAUST\]](https://osu.ppy.sh/beatmaps/393897)
   - [Kola Kid - Can't Hide Your Love () \[Challenge\]](https://osu.ppy.sh/beatmaps/464778)
 - Tiebreaker
-  - [senya - Melody Blooming in the Earth(Nurarihyon REMIX) (ecafree2) \[4K SC\]](https://osu.ppy.sh/beatmaps/331091)
+  - **[senya - Melody Blooming in the Earth(Nurarihyon REMIX) (ecafree2) \[4K SC\]](https://osu.ppy.sh/beatmaps/331091)**
 
 ### Round of 16
 
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
   - [dj TAKA - snow storm (Oracle) \[victorica's 4K Lv.14\]](https://osu.ppy.sh/beatmaps/378111)
   - [Suzaku - Contract (GaoYuTao) \[4K MX\]](https://osu.ppy.sh/beatmaps/436240)
 - Tiebreaker
-  - [Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmaps/400353)
+  - **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmaps/400353)**
 
 ### Group Stage
 
@@ -237,9 +237,9 @@ This competition has come to an end and resulted in the following podium:
   - [EasyPop - Happy Synthesizer (c36098651) \[4K Insane\]](https://osu.ppy.sh/beatmaps/290276)
   - [Ryu\* Vs. Sota - Go Beyond (DE-CADE) \[4K Hyper\]](https://osu.ppy.sh/beatmaps/467177)
 - Tiebreaker
-  - [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmaps/407642)
+  - **[BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmaps/407642)**
 
-## 7K Mappool
+## 7K Mappools
 
 ### Finals
 
@@ -258,7 +258,7 @@ This competition has come to an end and resulted in the following podium:
   - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Wiz's Impossible\]](https://osu.ppy.sh/beatmaps/477238)
   - [LeaF - Doppelganger (Remillion Cross) \[eXtremies\]](https://osu.ppy.sh/beatmaps/326241)
 - Tiebreaker
-  - [xi - Ascension to Heaven (CLSW) \[L'SHD\]](https://osu.ppy.sh/beatmaps/449528)
+  - **[xi - Ascension to Heaven (CLSW) \[L'SHD\]](https://osu.ppy.sh/beatmaps/449528)**
 
 ### Semifinals
 
@@ -277,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
   - [Halozy - Starry Presto (Entozer) \[Insane\]](https://osu.ppy.sh/beatmaps/428317)
   - [Seiryu - Ultramarine (\[IIDX\]) \[Another\]](https://osu.ppy.sh/beatmaps/206565)
 - Tiebreaker
-  - [Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94) \[Insane+\]](https://osu.ppy.sh/beatmaps/198272)
+  - **[Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94) \[Insane+\]](https://osu.ppy.sh/beatmaps/198272)**
 
 ### Quarterfinals
 
@@ -294,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
   - [fripSide - only my railgun (TV Size) (DJPop) \[7K MX\]](https://osu.ppy.sh/beatmaps/193131)
   - [bj.HaLo - Ende (Loctav) \[SHD\]](https://osu.ppy.sh/beatmaps/220960)
 - Tiebreaker
-  - [anubasu-anubasu - Nemesis (pi/3's Remix) (Sp3ct3r\_2k11) \[Insane\]](https://osu.ppy.sh/beatmaps/395545)
+  - **[anubasu-anubasu - Nemesis (pi/3's Remix) (Sp3ct3r\_2k11) \[Insane\]](https://osu.ppy.sh/beatmaps/395545)**
 
 ### Round of 16
 
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
   - [TAG underground - POSSESSION (bmin11) \[7K Expert\]](https://osu.ppy.sh/beatmaps/236643)
   - [sakuzyo - ChaiN De/structioN (siilento's solid remix) (Entozer) \[Another\]](https://osu.ppy.sh/beatmaps/204360)
 - Tiebreaker
-  - [ensou - COMA (Paulmrm) \[Insane\]](https://osu.ppy.sh/beatmaps/459425)
+  - **[ensou - COMA (Paulmrm) \[Insane\]](https://osu.ppy.sh/beatmaps/459425)**
 
 ### Group Stage
 
@@ -326,7 +326,7 @@ This competition has come to an end and resulted in the following podium:
   - [Sharlo - Sleeping Butterfly (Rumia-) \[Lv.32\]](https://osu.ppy.sh/beatmaps/392533)
   - [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/beatmaps/315723)
 - Tiebreaker
-  - [FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmaps/192564)
+  - **[FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmaps/192564)**
 
 ------------------------------------------------------------------------
 

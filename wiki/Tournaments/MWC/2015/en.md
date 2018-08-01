@@ -8,7 +8,7 @@ tags:
 osu!mania 4K World Cup 2015
 ============================
 
-![MWC 2015 logo](logo.png)
+![MWC 4K 2015 logo](logo.png)
 
 The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) is a country-based osu!mania 4-key tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu!mania 4K World Cup.
 
@@ -46,6 +46,15 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentators | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+
+------------------------------------------------------------------------
+
+## Links
+
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Group Stage statistics](https://owc.nicarim.pw/results/view/6)**
+
+------------------------------------------------------------------------
 
 ## Participants
 
@@ -135,7 +144,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
   - [Luxion - High-Priestess (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmaps/782753)
   - [Fleshgod Apocalypse - Conspiracy Of Silence (Shoegazer) \[Collab Onslaught\]](https://osu.ppy.sh/beatmaps/696289)
 - Tiebreaker
-  - [xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/beatmaps/777348)
+  - **[xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/beatmaps/777348)**
 
 ### Semifinals
 
@@ -159,7 +168,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
   - [Nightmare - Dream To Nightmare (Shoegazer) \[Catatonia (SV)\]](https://osu.ppy.sh/beatmaps/775984)
   - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Jinjin's 4K Extra\]](https://osu.ppy.sh/beatmaps/530698)
 - Tiebreaker
-  - [goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/beatmaps/692640)
+  - **[goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/beatmaps/692640)**
 
 ### Quarterfinals
 
@@ -181,7 +190,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
   - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/668992)
   - [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/beatmaps/760458)
 - Tiebreaker
-  - [Camellia - Lunatic Rough Party (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmaps/646319)
+  - **[Camellia - Lunatic Rough Party (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmaps/646319)**
 
 ### Round of 16
 
@@ -203,7 +212,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
   - [Seiryu - Water Horizon (Spy) \[victorica's 4K ExtrA\]](https://osu.ppy.sh/beatmaps/360805)
   - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Taiwan-NAK) \[Lv.15\]](https://osu.ppy.sh/beatmaps/602235)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmaps/577429)
+  - **[Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmaps/577429)**
 
 ### Group Stage
 
@@ -223,7 +232,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
   - [Qrispy Joybox feat.mao - Good-bye Tears (LNP-) \[MX\]](https://osu.ppy.sh/beatmaps/637229)
   - [3R2 - Beyond the Horizon (hokin1995) \[MX\]](https://osu.ppy.sh/beatmaps/505719)
 - Tiebreaker
-  - [Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/beatmaps/494045)
+  - **[Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/beatmaps/494045)**
 
 ------------------------------------------------------------------------
 
@@ -294,8 +303,6 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | **United States** ![][flag_US]  | **5** | 0 | ![][flag_CA] Canada          | [#1](https://osu.ppy.sh/community/matches/18616004) |
 
 ### Group Stage
-
-**[Find the Group Stage statistics here!](https://owc.nicarim.pw/results/view/6)**
 
 | Saturday, 2015-08-22 | | | | |
 | --: | :-: | :-: | :-- | :-: |

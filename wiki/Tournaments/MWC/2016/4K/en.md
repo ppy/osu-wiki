@@ -29,7 +29,7 @@ The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) is a country-based osu!m
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-There was a $1,900 cash prize pool for this world cup with extra money being added by buying support banners to show support for their teams!
+There is a $1,900 cash prize pool with extra money being added by buying support banners to show support for their teams!
 
 | Placing | Prize(s) |
 | :-: | --- |
@@ -47,6 +47,16 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | Map Selectors | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
 | Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+
+------------------------------------------------------------------------
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/472027)
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1GSFF2W81heDb8oTdrp_R-w4sTNBvf3tv0Rdmpxsw_U0/pubhtml)**
+
+------------------------------------------------------------------------
 
 ## Participants
 
@@ -133,7 +143,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
   - [ikaruga_nex - Mirage (inteliser) \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmaps/1038091)
   - [Camellia - dreamless wanderer (Fullerene-) \[Ethereal Shift\]](https://osu.ppy.sh/beatmaps/714878)
 - Tiebreaker
-  - [Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/beatmaps/1055345)
+  - **[Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/beatmaps/1055345)**
 
 ### Semifinals
 
@@ -156,7 +166,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
   - [Rings of Saturn - Eviscerate (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmaps/1020016)
   - [sHimaU - GOD of MADNESS (Valedict) \[Lovecraftian\]](https://osu.ppy.sh/beatmaps/954116)
 - Tiebreaker
-  - [D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/beatmaps/823799)
+  - **[D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/beatmaps/823799)**
 
 ### Quarterfinals
 
@@ -179,7 +189,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
   - [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmaps/1000029)
   - [kemu - Ikasama Life game (Thievley) \[Smith's MX\]](https://osu.ppy.sh/beatmaps/1005445)
 - Tiebreaker
-  - [b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/beatmaps/1040978)
+  - **[b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/beatmaps/1040978)**
 
 ### Round of 16
 
@@ -202,7 +212,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
   - [Hommarju - Sounds of Summer (\[Shana Lesus\]) \[Another\]](https://osu.ppy.sh/beatmaps/770372)
   - [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/beatmaps/1010821)
 - Tiebreaker
-  - [aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmaps/834266)
+  - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmaps/834266)**
 
 ### Group Stage
 
@@ -225,13 +235,11 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
   - [DJ OKAWARI - Canon (schwarzvgrune) \[Clamorous (Insane)\]](https://osu.ppy.sh/beatmaps/661929)
   - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Feru's HD\]](https://osu.ppy.sh/beatmaps/745024)
 - Tiebreaker
-  - [KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/beatmaps/726209)
+  - **[KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/beatmaps/726209)**
 
 ------------------------------------------------------------------------
 
 ## Match Results
-
-**[Detailed match statistics here!](https://docs.google.com/spreadsheets/d/1GSFF2W81heDb8oTdrp_R-w4sTNBvf3tv0Rdmpxsw_U0/pubhtml)**
 
 ### Grand Finals
 
@@ -474,7 +482,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 3. Each mappool consists of 15 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no forced mods activated.
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick Flashlight or HardRock.
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_Modifiers) or [HardRock](/wiki/Game_Modifiers).
     - Players can select both mods.
     - When playing a FreeMod map, at least 1 players of each team must have one mod activated.
 

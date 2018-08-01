@@ -29,7 +29,7 @@ The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) is a country-based osu!m
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-There was a $1,900 cash prize pool for this world cup with extra money being added by buying support banners to show support for their teams!
+There is a $1,900 cash prize pool with extra money being added by buying support banners to show support for their teams!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -48,6 +48,16 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentators | ![][flag_US] [Azlynn](https://osu.ppy.sh/users/7016667), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [DJNightmare](https://osu.ppy.sh/users/70909), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+
+------------------------------------------------------------------------
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Group Stage Statistics here!](https://docs.google.com/spreadsheets/d/1rUBWY0m7faZ9dFNkaVhXxJ9bpqAjHUZR8xRmHFxjoEs/pubhtml)**
+
+------------------------------------------------------------------------
 
 ## Participants
 
@@ -121,7 +131,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
   - [S.S.H. - Intersect Thunderbolt-Remix (ljqandylee) \[7K Exceed\]](https://osu.ppy.sh/beatmaps/323070)
   - [IOSYS feat. Takatsuki Sakura - Seiya no Special Shooting Star (yoshilove) \[7K Star\]](https://osu.ppy.sh/beatmaps/431300)
 - Tiebreaker
-  - [xi - Blue Zenith (iJinjin) \[Stratosphere\]](https://osu.ppy.sh/beatmaps/891715)
+  - **[xi - Blue Zenith (iJinjin) \[Stratosphere\]](https://osu.ppy.sh/beatmaps/891715)**
 
 ### Semifinals
 
@@ -145,7 +155,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
   - [Reizoko Cj - CirnoRHTL (Nivrad00) \[Extra\]](https://osu.ppy.sh/beatmaps/872039)
   - [xi - Garyou Tensei (LNP-) \[Million's 7K SC\]](https://osu.ppy.sh/beatmaps/530560)
 - Tiebreaker
-  - [DJ Sharpnel - Back to the Gate (pporse) \[El Psy Congroo\]](https://osu.ppy.sh/beatmaps/683424)
+  - **[DJ Sharpnel - Back to the Gate (pporse) \[El Psy Congroo\]](https://osu.ppy.sh/beatmaps/683424)**
 
 ### Quarterfinals
 
@@ -167,7 +177,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
   - [w\_tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Another\]](https://osu.ppy.sh/beatmaps/591311)
   - [MiddleIsland - Delrio (Remillion Cross) \[Jinjin's Insane\]](https://osu.ppy.sh/beatmaps/645632)
 - Tiebreaker
-  - [Neru - Ningen Shikkaku (puxtu) \[Blocko's 7K SC\]](https://osu.ppy.sh/beatmaps/553618)
+  - **[Neru - Ningen Shikkaku (puxtu) \[Blocko's 7K SC\]](https://osu.ppy.sh/beatmaps/553618)**
 
 ### Round of 16
 
@@ -189,7 +199,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
   - [nano - No pain, No game (Takane6) \[Million's 7K Insane\]](https://osu.ppy.sh/beatmaps/660048)
   - [Jeff Williams & Casey Lee Williams - This Will Be the Day (James Landino's Magical Girl Remix) (Fullerene-) \[Agka's 7K MX\]](https://osu.ppy.sh/beatmaps/433193)
 - Tiebreaker
-  - [takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmaps/473054)
+  - **[takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmaps/473054)**
 
 ### Group Stage
 
@@ -209,7 +219,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
   - [Rissyu - uni (HanzeR) \[Insane\]](https://osu.ppy.sh/beatmaps/232025)
   - [Otokaze - amamichi (Simple\_Star) \[PC's 7K Another\]](https://osu.ppy.sh/beatmaps/344760)
 - Tiebreaker
-  - [Ogura Yui - Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix) (KawaEE) \[Sweet Kawa-E Love\]](https://osu.ppy.sh/beatmaps/705561)
+  - **[Ogura Yui - Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix) (KawaEE) \[Sweet Kawa-E Love\]](https://osu.ppy.sh/beatmaps/705561)**
 
 ------------------------------------------------------------------------
 
@@ -278,8 +288,6 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Brazil ![][flag_BR]          | 1 | **5** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/21865722) |
 
 ### Group Stage
-
-**[Find the Group Stage Statistics here!](https://docs.google.com/spreadsheets/d/1rUBWY0m7faZ9dFNkaVhXxJ9bpqAjHUZR8xRmHFxjoEs/pubhtml)**
 
 | Saturday, 2016-01-09 | | | | |
 | --: | :-: | :-: | :-- | :-: |
