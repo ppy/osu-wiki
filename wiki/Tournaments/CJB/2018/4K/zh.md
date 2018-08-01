@@ -46,25 +46,24 @@
 
 ## 比赛预告
 
-### 八强
+### 半决赛
 
-#### 7月28日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
-| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
-| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
-| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
-
-#### 7月29日，星期日
+#### 8月4日，星期六
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
-| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
-| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
+| 14:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | crazybrother | 20 |
+| 15:30 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 23 |
+| 19:30 | Crystal | ![][flag_CN] | ![][flag_TW] | Zhou_Kai | 24 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | tuziel | 19 |
+
+#### 8月5日，星期日
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | FDchuxin | 18 |
+| 15:30 | 18 胜者 | ![][flag_CN] | ![][flag_CN] | williammak | 21 |
+| 20:00 | 20 胜者 | ![][flag_CN] | ![][flag_CN] | 19 胜者 | 22 |
 
 ## 图池
 
@@ -109,6 +108,24 @@
   - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## 比赛结果
+
+## 八强
+
+| 编号 | 2018-07-28，星期六 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 11 | FDchuxin ![][flag_CN] | 1 | 0 | ![][flag_CN] macronj | WBD |
+| 9 | xyxyxy091 ![][flag_CN] | 1 | 0 | ![][flag_CN] tc582461 | WBD |
+| 12 | williammak ![][flag_CN] | 5 | 1 | ![][flag_CN] Shindou Ayane | |
+| 16 | Zhou_Kai ![][flag_TW] | 5 | 1 | ![][flag_CN] crazybrother | |
+| 15 | nickawm ![][flag_CN] | 0 | 5 | ![][flag_CN] Crystal | |
+
+| 编号 | 2018-07-29，星期日 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | 1 | ![][flag_CN] Skyshifter | WBD |
+| 10 | tuziel ![][flag_CN] | 5 | 0 | ![][flag_CN] Snowkyou | |
+| 14 | IA daisuki ![][flag_CN] | 0 | 5 | ![][flag_CN] Toki 0w0 | |
+
+注：![][flag_CN] Jazzsoldiers 因故放弃比赛 。
 
 ### 十六强
 
@@ -190,7 +207,7 @@
 ### 比赛流程
 
 1. 一位记录员会在赛事开始前15分钟创建一个在线多人游戏房间（Multiplayer），选手需要在此时集合：
-    - 房间设定为“osu!mania, Head To Head，胜出条件：**Score v2**”。房间名称为“CJB4K:(一号玩家) vs (二号玩家)”。
+    - 房间设定为“osu!mania, Team VS，胜出条件：**Score v2**”。房间名称为“CJB4K:(一号玩家) vs (二号玩家)”。
     - 以上房间名提到的两个玩家，前者必须在1号位，后者必须在2号位。
 2. 两位选手任选两张热身图，但有异议的图不可使用。所有地图必须是4K专用地图。
 3. 每位选手从图池中选择1个禁手图（Banned Map），这些禁手图将在这场比赛中不能被任何选手选用。

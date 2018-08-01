@@ -46,25 +46,24 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Match Schedule
 
-### Quarterfinals
+### Semifinals
 
-#### Saturday, 28. July 2018
-
-| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
-| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
-| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
-| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
-
-#### Sunday, 29. July 2018
+#### Saturday, 4. August 2018
 
 | Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
-| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
-| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
+| 14:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | crazybrother | 20 |
+| 15:30 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 23 |
+| 19:30 | Crystal | ![][flag_CN] | ![][flag_TW] | Zhou_Kai | 24 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | tuziel | 19 |
+
+#### Sunday, 5. August 2018
+
+| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | FDchuxin | 18 |
+| 15:30 | Winner of 18 | ![][flag_CN] | ![][flag_CN] | williammak | 21 |
+| 20:00 | Winner of 20 | ![][flag_CN] | ![][flag_CN] | Winner of 19 | 22 |
 
 ## Mappool
 
@@ -109,6 +108,24 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
   - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
 
 ## Result
+
+### Quarterfinals
+
+| No. | Saturday, 2018-07-28 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 11 | FDchuxin ![][flag_CN] | 1 | 0 | ![][flag_CN] macronj | WBD |
+| 9 | xyxyxy091 ![][flag_CN] | 1 | 0 | ![][flag_CN] tc582461 | WBD |
+| 12 | williammak ![][flag_CN] | 5 | 1 | ![][flag_CN] Shindou Ayane | |
+| 16 | Zhou_Kai ![][flag_TW] | 5 | 1 | ![][flag_CN] crazybrother | |
+| 15 | nickawm ![][flag_CN] | 0 | 5 | ![][flag_CN] Crystal | |
+
+| No. | Sunday, 2018-07-29 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | 1 | ![][flag_CN] Skyshifter | WBD |
+| 10 | tuziel ![][flag_CN] | 5 | 0 | ![][flag_CN] Snowkyou | |
+| 14 | IA daisuki ![][flag_CN] | 0 | 5 | ![][flag_CN] Toki 0w0 | |
+
+Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
 
 ### Round of 16
 
@@ -190,7 +207,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-     - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
+     - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
      - Player 1 and Player 2 must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the _Banned Map_. These maps can not be played during this match.
