@@ -108,7 +108,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ### Finals
 
-**[Download the mappack here! (130.7MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[Download the mappack here! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmaps/214248)
@@ -134,11 +134,11 @@ The osu! World Cup 2014 was run by various community members by distributing the
   - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmaps/257793)
   - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/138008)
 - Tiebreaker
-  - [onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmaps/457061)
+  - **[onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmaps/457061)**
 
 ### Semifinals
 
-**[Download the mappack here! (187.8MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
@@ -164,11 +164,11 @@ The osu! World Cup 2014 was run by various community members by distributing the
   - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmaps/239037)
   - [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmaps/254370)
 - Tiebreaker
-  - [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmaps/444356)
+  - **[sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmaps/444356)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (164.1MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Download the mappack here! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmaps/378781)
@@ -194,11 +194,11 @@ The osu! World Cup 2014 was run by various community members by distributing the
   - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmaps/306669)
   - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/288660)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmaps/431957)
+  - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmaps/431957)**
 
 ### Round of 16
 
-**[Download the mappack here! (144.2MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Download the mappack here! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmaps/315260)
@@ -224,11 +224,11 @@ The osu! World Cup 2014 was run by various community members by distributing the
   - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmaps/238265)
   - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmaps/140805)
 - Tiebreaker
-  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/311573)
+  - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/311573)**
 
 ### Group Stage
 
-**[Download the mappack here! (206.6MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmaps/318975)
@@ -254,7 +254,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
   - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmaps/281918)
   - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/479354)
 - Tiebreaker
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmaps/93947)
+  - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmaps/93947)**
 
 ------------------------------------------------------------------------
 

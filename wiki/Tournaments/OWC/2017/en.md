@@ -124,7 +124,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](http://osu.ppy.sh/beatmaps/733432&m=0)
   - [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](http://osu.ppy.sh/beatmaps/1076701&m=0)
 - Tiebreaker
-  - [Wagakki Band - Tengaku (Shiro) \[Uncompressed Fury of a Raging Japanese God\]](http://osu.ppy.sh/beatmaps/816327&m=0)
+  - **[Wagakki Band - Tengaku (Shiro) \[Uncompressed Fury of a Raging Japanese God\]](http://osu.ppy.sh/beatmaps/816327&m=0)**
 
 ### Semifinals
 
@@ -151,7 +151,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [onoken - Viden (-kevincela-) \[Extreme\]](http://osu.ppy.sh/beatmaps/822166&m=0)
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](http://osu.ppy.sh/beatmaps/178645&m=0)
 - Tiebreaker
-  - [goreshit - fleshbound (Vell) \[martyr\]](http://osu.ppy.sh/beatmaps/1131747&m=0)
+  - **[goreshit - fleshbound (Vell) \[martyr\]](http://osu.ppy.sh/beatmaps/1131747&m=0)**
 
 ### Quarterfinals
 
@@ -178,7 +178,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](http://osu.ppy.sh/beatmaps/206567&m=0)
   - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/beatmaps/151229&m=0)
 - Tiebreaker
-  - [Nanahira - Petals (toybot) \[Blossom\]](http://osu.ppy.sh/beatmaps/1193128&m=0)
+  - **[Nanahira - Petals (toybot) \[Blossom\]](http://osu.ppy.sh/beatmaps/1193128&m=0)**
 
 ### Round of 16
 
@@ -205,7 +205,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [sakuzyo - Imprinting (Nozhomi) \[Orchestra\]](http://osu.ppy.sh/beatmaps/655300&m=0)
   - [Agnete Kjolsrud - Get Jinxed (Tarrasky) \[Irrelvis' Diamond\]](http://osu.ppy.sh/beatmaps/806376&m=0)
 - Tiebreaker
-  - [Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](http://osu.ppy.sh/beatmaps/1052795&m=0)
+  - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](http://osu.ppy.sh/beatmaps/1052795&m=0)**
 
 ### Group Stage
 
@@ -232,7 +232,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](http://osu.ppy.sh/beatmaps/208776&m=0)
   - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123) \[Lunatic\]](http://osu.ppy.sh/beatmaps/148000&m=0)
 - Tiebreaker
-  - [DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](http://osu.ppy.sh/beatmaps/854972&m=0)
+  - **[DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](http://osu.ppy.sh/beatmaps/854972&m=0)**
 
 ------------------------------------------------------------------------
 

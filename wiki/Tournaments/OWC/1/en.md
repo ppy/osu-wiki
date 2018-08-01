@@ -117,7 +117,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
   - [Betwixt & Between - I think we can go to the moon (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/13728#osu/50658)
 - Tiebreaker
-  - [Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)
+  - **[Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)**
 
 ### Semifinals
 
@@ -129,7 +129,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
   - [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#osu/27466)
 - Tiebreaker
-  - [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+  - **[Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)**
 
 ### Quarterfinals
 
@@ -150,7 +150,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#osu/54373)
   - [Susumu Hirasawa - Amor Buffer (Real1) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/11702#osu/44526)
 - Tiebreaker
-  - [DJ Mars - Lemon Tree (MetalMario201) \[Hard\]](https://osu.ppy.sh/beatmapsets/8229#osu/34045)
+  - **[DJ Mars - Lemon Tree (MetalMario201) \[Hard\]](https://osu.ppy.sh/beatmapsets/8229#osu/34045)**
 
 ### Round of 16
 
@@ -171,7 +171,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)
   - [The Mighty Mighty Bosstones - The Impression That I Get (lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/14912#osu/54329)
 - Tiebreaker
-  - [Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)
+  - **[Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)**
 
 ### Group Stage 
 
@@ -192,7 +192,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [The Gregory Brothers - Auto-Tune the News \#9 (MetalMario201) \[Angry Gorilla\]](https://osu.ppy.sh/beatmapsets/12155#osu/45825)
   - [Weird Al Yankovic - Hardware Store (kingcobra52) \[Impossible\]](https://osu.ppy.sh/beatmapsets/2042#osu/18682)
 - Tiebreaker
-  - [Hyadain - Battle with the Four Fiends (mtmcl) \[Sinistro\]](https://osu.ppy.sh/beatmapsets/2619#osu/20019)
+  - **[Hyadain - Battle with the Four Fiends (mtmcl) \[Sinistro\]](https://osu.ppy.sh/beatmapsets/2619#osu/20019)**
 
 --------------------------------------------------------------
 

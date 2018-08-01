@@ -115,7 +115,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
-**[Download the mappack here! (206.6MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
+**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
 - NoMod
   - [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmaps/698249)
@@ -145,7 +145,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Semifinals
 
-**[Download the mappack here! (183.9MB)](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
+**[Download the mappack here! (183 MB)](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
 
 - NoMod
   - [Reol - Streaming Heart (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmaps/760466)
@@ -175,7 +175,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Quarterfinals
 
-**[Download the mappack here! (160.8MB)](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
+**[Download the mappack here! (160 MB)](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
 - NoMod
   - [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/beatmaps/676172)
@@ -205,7 +205,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Round of 16
 
-**[Download the mappack here! (187MB)](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
+**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
 - NoMod
   - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/beatmaps/495899)
@@ -235,7 +235,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Group Stage
 
-**[Download the mappack here! (155.8MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
+**[Download the mappack here! (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
 - NoMod
   - [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/beatmaps/363063)

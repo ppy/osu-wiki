@@ -112,7 +112,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
     - [DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
 - Tiebreaker:
-    - [Loathing in Las Vegas - Just Awake \[Insane\]](https://osu.ppy.sh/beatmaps/139446)
+    - **[Loathing in Las Vegas - Just Awake \[Insane\]](https://osu.ppy.sh/beatmaps/139446)**
 
 ### Semifinals
     
@@ -132,7 +132,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Hatsune Miku - Kagerou Days \[mizuki\]](https://osu.ppy.sh/beatmaps/128668)
     - [Paramore - Looking Up \[Hard\]](https://osu.ppy.sh/beatmaps/66662)
 - Tiebreaker:
-    - [DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
+    - **[DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)**
 
 ### Quarterfinals
 
@@ -152,7 +152,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Lou Bega - Mambo No.5 \[Insane\]](https://osu.ppy.sh/beatmaps/108936)
     - [Pizuya's Cell x MyonMyon - Romantic Children \[Lunatic\]](https://osu.ppy.sh/beatmaps/68431)
 - Tiebreaker:
-    - [Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
+    - **[Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)**
 
 ### Round of 16
 
@@ -172,7 +172,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Megpoid GUMI - Chocolate \[Insane\]](https://osu.ppy.sh/beatmaps/89721)
     - [DCX - Flying High (DJ Splash Remix) \[InoSane\]](https://osu.ppy.sh/beatmaps/76663)
 - Tiebreaker:
-    - [Hatsune Miku - Rubik's Cube \[7x7x7\]](https://osu.ppy.sh/beatmaps/114635)
+    - **[Hatsune Miku - Rubik's Cube \[7x7x7\]](https://osu.ppy.sh/beatmaps/114635)**
 
 ### Group Stage (Round 3)
 
@@ -192,7 +192,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Pendulum - The Vulture \[Insane\]](https://osu.ppy.sh/beatmaps/82249)
     - [Hatsune Miku - Kusaregedou to Chocolate \[Insane\]](https://osu.ppy.sh/beatmaps/85494)
 - Tiebreaker:
-    - [Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
+    - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmaps/99342)**
 
 ### Group Stage (Round 2)
 
@@ -212,7 +212,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Aizawa - Flutter Girl \[Insane\]](https://osu.ppy.sh/beatmaps/61124)
     - [Mutsuhiko Izumi - Russian Snowy Dance \[Insane\]](https://osu.ppy.sh/beatmaps/124275)
 - Tiebreaker:
-    - [Okui Masami - God Speed \[Insane\]](https://osu.ppy.sh/beatmaps/93947)
+    - **[Okui Masami - God Speed \[Insane\]](https://osu.ppy.sh/beatmaps/93947)**
 
 ### Group Stage (Round 1)
 
@@ -232,7 +232,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Lia - Kokoro ni Todoku Uta \[Holo\]](https://osu.ppy.sh/beatmaps/89428)
     - [nomico - Bad Apple!! \[Hard\]](https://osu.ppy.sh/beatmaps/28755)
 - Tiebreaker:
-    - [supercell - Rock 'n' Roll Nan Desu no \[Insane\]](https://osu.ppy.sh/beatmaps/93021)
+    - **[supercell - Rock 'n' Roll Nan Desu no \[Insane\]](https://osu.ppy.sh/beatmaps/93021)**
 
 ------------------------------------------------
 

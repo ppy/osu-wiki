@@ -112,7 +112,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ### Finals
 
-**[Download the mappack here! (194.7MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Download the mappack here! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmaps/142239)
@@ -146,7 +146,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ### Semifinals
 
-**[Download the mappack here! (209.3MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Download the mappack here! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmaps/216272)
@@ -180,7 +180,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ### Quarterfinals
 
-**[Download the mappack here! (184MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Download the mappack here! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmaps/153484)
@@ -214,7 +214,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ### Round of 16
 
-**[Download the mappack here! (143MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Download the mappack here! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmaps/135804)
@@ -248,7 +248,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ### Group Stage
 
-**[Download the mappack here! (215.9MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmaps/153418)

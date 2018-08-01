@@ -116,7 +116,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
-[Download the mappack here! (148.8MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
+[Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
 
 - NoMod
   - [U1 overground - Dopamine (fanzhen0019) \[C6H3\(OH\)2-CH2-CH2-NH2\]](https://osu.ppy.sh/beatmaps/494818)
@@ -139,11 +139,11 @@ The osu! World Cup 2016 was run by various community members by distributing the
   - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmaps/107875)
   - [USAO - Miracle 5ympho X (Extended Mix) (RLC) \[5ympho XtrA\]](https://osu.ppy.sh/beatmaps/536476)
 - Tiebreaker
-  - [goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/beatmaps/791274)
+  - **[goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/beatmaps/791274)**
 
 ### Semifinals
 
-[Download the mappack here! (131MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
+[Download the mappack here! (131 MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
 
 - NoMod
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/beatmaps/658561)
@@ -166,11 +166,11 @@ The osu! World Cup 2016 was run by various community members by distributing the
   - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmaps/42244)
   - [T & Sugah x Lexurus - No More (Strategas) \[Extra\]](https://osu.ppy.sh/beatmaps/1007896)
 - Tiebreaker
-  - [Venetian Snares - She Runs (fergas) \[Escape?\]](https://osu.ppy.sh/beatmaps/711923)
+  - **[Venetian Snares - She Runs (fergas) \[Escape?\]](https://osu.ppy.sh/beatmaps/711923)**
 
 ### Quarterfinals
 
-[Download the mappack here! (125.1MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
+[Download the mappack here! (125 MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
 
 - NoMod
   - [Memme - Chinese Restaurant (M o k o r i) \[Spicy\]](https://osu.ppy.sh/beatmaps/587547)
@@ -193,11 +193,11 @@ The osu! World Cup 2016 was run by various community members by distributing the
   - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmaps/239104)
   - [beatMARIO - Night of Knights (DJPop) \[SOLO\]](https://osu.ppy.sh/beatmaps/58063)
 - Tiebreaker
-  - [DragonForce - Symphony Of The Night (Evil_Twilight) \[Legend\]](https://osu.ppy.sh/beatmaps/1007546)
+  - **[DragonForce - Symphony Of The Night (Evil_Twilight) \[Legend\]](https://osu.ppy.sh/beatmaps/1007546)**
 
 ### Round of 16
 
-[Download the mappack here! (171.7MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar)
+[Download the mappack here! (171 MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar)
 
 - NoMod
   - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmaps/821238)
@@ -220,11 +220,11 @@ The osu! World Cup 2016 was run by various community members by distributing the
   - [yuikonnu & ayaponzu* - Kunoichi demo Koi ga Shitai (alacat) \[Skystar's Extra\]](https://osu.ppy.sh/beatmaps/319694)
   - [nmk - sola (sjoy) \[Imouto's Extra\]](https://osu.ppy.sh/beatmaps/439824)
 - Tiebreaker
-  - [Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmaps/862338)
+  - **[Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmaps/862338)**
 
 ### Group Stage
 
-[Download the mappack here! (153.5MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
+[Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
 
 - NoMod
   - [sakuzyo - Altale (toybot) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmaps/1012279)
@@ -247,7 +247,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
   - [44teru-k - F.I (Jacob) \[Extra445\]](https://osu.ppy.sh/beatmaps/155235)
   - [Megpoid GUMI - For my soul (val0108) \[Insane\]](https://osu.ppy.sh/beatmaps/80102)
 - Tiebreaker
-  - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmaps/478605)
+  - **[kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmaps/478605)**
 
 ------------------
 
