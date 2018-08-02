@@ -87,7 +87,7 @@
   - [t+pazolite - QLWA \[EXTRA\]](https://osu.ppy.sh/beatmapsets/543543/#mania/1152058)
   - [DJ SEVEN P'n'B Remix - To Dimension \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/657155/#mania/1392067)
 - Tiebreaker
-  - [kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)
+  - **[kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
 
 ### 八强
 
@@ -107,7 +107,7 @@
   - [Rokugen Alice - Statice ga Nemuru Oka \[StarLon's Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/362917/#mania/802995)
   - [Izumi Akazawa - Responsibility Response \[Insane\]](https://osu.ppy.sh/beatmapsets/565606/#mania/1196279)
 - Tiebreaker
-  - [nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)
+  - **[nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)**
 
 ### 十六强
 
@@ -127,7 +127,7 @@
   - [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
   - [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
 - Tiebreaker
-  - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
+  - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)**
 
 ## 比赛结果
 
@@ -135,17 +135,17 @@
 
 | 编号 | 2018-07-28，星期六 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 11 | FDchuxin ![][flag_CN] | 1 | 0 | ![][flag_CN] macronj | WBD |
-| 9 | xyxyxy091 ![][flag_CN] | 1 | 0 | ![][flag_CN] tc582461 | WBD |
-| 12 | williammak ![][flag_CN] | 5 | 1 | ![][flag_CN] Shindou Ayane | |
-| 16 | Zhou_Kai ![][flag_TW] | 5 | 1 | ![][flag_CN] crazybrother | |
-| 15 | nickawm ![][flag_CN] | 0 | 5 | ![][flag_CN] Crystal | |
+| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | WBD |
+| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | WBD |
+| 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
+| 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
+| 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
 | 编号 | 2018-07-29，星期日 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 13 | Jazzsoldiers ![][flag_CN] | 0 | 1 | ![][flag_CN] Skyshifter | WBD |
-| 10 | tuziel ![][flag_CN] | 5 | 0 | ![][flag_CN] Snowkyou | |
-| 14 | IA daisuki ![][flag_CN] | 0 | 5 | ![][flag_CN] Toki 0w0 | |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | WBD |
+| 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
+| 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
 
 注：![][flag_CN] Jazzsoldiers 因故放弃比赛 。
 
@@ -153,17 +153,17 @@
 
 | 编号 | 2018-07-21，星期六 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
-| 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
-| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] tc582461 | |
-| 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
+| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | WBD |
+| 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
+| 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
+| 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
 | 编号 | 2018-07-22，星期日 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 4 | tuziel ![][flag_CN] | 2 | 5 | ![][flag_CN] | Toki 0w0 | |
-| 3 | Snowkyou ![][flag_CN] | 0 | 5 | ![][flag_CN] | IA daisuki | |
-| 7 | Zhou_Kai ![][flag_TW] | 5 | 0 | ![][flag_CN] | Shindou Ayane | |
-| 8 | crazybrother ![][flag_CN] | 5 | 0 | ![][flag_CN] | williammak | |
+| 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
+| 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
+| 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane | |
+| 8 | **crazybrother** ![][flag_CN] | **5** | 0 | ![][flag_CN] williammak | |
 
 ## 规则
 
