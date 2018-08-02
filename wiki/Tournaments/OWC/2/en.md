@@ -8,7 +8,7 @@ tags:
 
 # osu! World Cup #2
 
-![osu! World Cup #2 logo](logo.png)
+![OWC #2 Logo](logo.png)
 
 The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu! World Cup.
 
@@ -34,8 +34,8 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ## Links
 
-- [Tournament Schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
-- [Pre-tournament Interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
+- [Tournament schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
+- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
 
 ------------------------------------------
 
@@ -87,7 +87,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ------------------------------------
 
-![osu! World Cup #2 Brackets](brackets.png)
+![OWC #2 Brackets](brackets.png)
 
 ------------------------------------------
 
