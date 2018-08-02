@@ -46,27 +46,48 @@
 
 ## 比赛预告
 
-### 八强
+### 半决赛
 
-#### 7月28日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | FDchuxin | ![][flag_CN] | ![][flag_CN] | macronj | 11 |
-| 15:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | tc582461 | 9 |
-| 16:00 | williammak | ![][flag_CN] | ![][flag_CN] | Shindou Ayane | 12 |
-| 20:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | crazybrother | 16 |
-| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | Crystal | 15 |
-
-#### 7月29日，星期日
+#### 8月4日，星期六
 
 | 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | Jazzsoldiers | ![][flag_CN] | ![][flag_CN] | Skyshifter | 13 |
-| 16:00 | tuziel | ![][flag_CN] | ![][flag_CN] | Snowkyou | 10 |
-| 20:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 14 |
+| 14:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | crazybrother | 20 |
+| 15:30 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 23 |
+| 19:30 | Crystal | ![][flag_CN] | ![][flag_TW] | Zhou_Kai | 24 |
+| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | tuziel | 19 |
+
+#### 8月5日，星期日
+
+| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 14:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | FDchuxin | 18 |
+| 15:30 | 18 胜者 | ![][flag_CN] | ![][flag_CN] | williammak | 21 |
+| 20:00 | 20 胜者 | ![][flag_CN] | ![][flag_CN] | 19 胜者 | 22 |
 
 ## 图池
+
+### 半决赛
+
+**下载完整图池包！（90.2M） - [百度云盘](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ) - [Google 云端硬盘](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi)**
+
+- FreeMod
+  - [X&G - Whiplash ft. josh pan (sakuraburst Remix) \[break out\]](https://osu.ppy.sh/beatmapsets/723633/#mania/1527737)
+  - [Nekomata Master - Avalon no oka \[Adventure\]](https://osu.ppy.sh/beatmapsets/799580/#mania/1678769)
+  - [senya - Tsuzurenu Mori no Shoujo \[LN\]](https://osu.ppy.sh/beatmapsets/704155/#mania/1489611)
+  - [Yooh - Electronic Sound Lab \[Extra\]](https://osu.ppy.sh/beatmapsets/495629/#mania/1464037)
+  - [LeaF - Paraclete \[Hard Lv.12\]](https://osu.ppy.sh/beatmapsets/565112/#mania/1194465)
+  - [Memme - Goat Fantasia \[Insanity\]](https://osu.ppy.sh/beatmapsets/515178/#mania/1094101)
+  - [The Ghost of 3.13 - Path To Nowhere \[Hopeless\]](https://osu.ppy.sh/beatmapsets/422800/#mania/913882)
+  - [Shiraishi - Moon-gate \[k\]](https://osu.ppy.sh/beatmapsets/622851/#mania/1312959)
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange \[4K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139/#mania/1178997)
+  - [YUC'e - PUMP \[Future Candy\]](https://osu.ppy.sh/beatmapsets/645301/#mania/1367425)
+  - [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/beatmapsets/484214/#mania/1032948)
+  - [Various Artists - Ichigaki's 4K Collection Vol.2 \[Oriens[Another]\]](https://osu.ppy.sh/beatmapsets/417215/#mania/903482)
+  - [t+pazolite - QLWA \[EXTRA\]](https://osu.ppy.sh/beatmapsets/543543/#mania/1152058)
+  - [DJ SEVEN P'n'B Remix - To Dimension \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/657155/#mania/1392067)
+- Tiebreaker
+  - **[kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
 
 ### 八强
 
@@ -86,7 +107,7 @@
   - [Rokugen Alice - Statice ga Nemuru Oka \[StarLon's Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/362917/#mania/802995)
   - [Izumi Akazawa - Responsibility Response \[Insane\]](https://osu.ppy.sh/beatmapsets/565606/#mania/1196279)
 - Tiebreaker
-  - [nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)
+  - **[nayuta - Nijiiro Kekkai, Gekkyou no Goku \[Prison of Lunacy\]](https://osu.ppy.sh/beatmapsets/751553/#mania/1582170)**
 
 ### 十六强
 
@@ -106,25 +127,43 @@
   - [senya - Zetsubou no Fuchi \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521/#mania/1500034)
   - [ak+q - Excelsia \[Stage 5: Freestyle\]](https://osu.ppy.sh/beatmapsets/791699/#mania/1660811)
 - Tiebreaker
-  - [Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)
+  - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)**
 
 ## 比赛结果
+
+## 八强
+
+| 编号 | 2018-07-28，星期六 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | WBD |
+| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | WBD |
+| 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
+| 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
+| 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
+
+| 编号 | 2018-07-29，星期日 |  |  |  | 注释 |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | WBD |
+| 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
+| 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
+
+注：![][flag_CN] Jazzsoldiers 因故放弃比赛 。
 
 ### 十六强
 
 | 编号 | 2018-07-21，星期六 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 5 | FDchuxin ![][flag_CN] | 0 | 1 | ![][flag_CN] nickawm | WBD |
-| 1 | xyxyxy091 ![][flag_CN] | 0 | 5 | ![][flag_CN] Jazzsoldiers | |
-| 2 | Skyshifter ![][flag_CN] | 5 | 1 | ![][flag_CN] tc582461 | |
-| 6 | macronj ![][flag_CN] | 1 | 5 | ![][flag_CN] Crystal | |
+| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | WBD |
+| 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
+| 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
+| 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
 | 编号 | 2018-07-22，星期日 |  |  |  | 注释 |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 4 | tuziel ![][flag_CN] | 2 | 5 | ![][flag_CN] | Toki 0w0 | |
-| 3 | Snowkyou ![][flag_CN] | 0 | 5 | ![][flag_CN] | IA daisuki | |
-| 7 | Zhou_Kai ![][flag_TW] | 5 | 0 | ![][flag_CN] | Shindou Ayane | |
-| 8 | crazybrother ![][flag_CN] | 5 | 0 | ![][flag_CN] | williammak | |
+| 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
+| 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
+| 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane | |
+| 8 | **crazybrother** ![][flag_CN] | **5** | 0 | ![][flag_CN] williammak | |
 
 ## 规则
 
@@ -190,7 +229,7 @@
 ### 比赛流程
 
 1. 一位记录员会在赛事开始前15分钟创建一个在线多人游戏房间（Multiplayer），选手需要在此时集合：
-    - 房间设定为“osu!mania, Head To Head，胜出条件：**Score v2**”。房间名称为“CJB4K:(一号玩家) vs (二号玩家)”。
+    - 房间设定为“osu!mania, Team VS，胜出条件：**Score v2**”。房间名称为“CJB4K:(一号玩家) vs (二号玩家)”。
     - 以上房间名提到的两个玩家，前者必须在1号位，后者必须在2号位。
 2. 两位选手任选两张热身图，但有异议的图不可使用。所有地图必须是4K专用地图。
 3. 每位选手从图池中选择1个禁手图（Banned Map），这些禁手图将在这场比赛中不能被任何选手选用。
