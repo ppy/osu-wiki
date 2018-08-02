@@ -22,7 +22,7 @@ The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament host
 In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| ----- | :------- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
@@ -51,7 +51,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 ## Participants
 
 | | Country | Members |
-| --- | :-------: | ------------ |
+| :-: | :-: | :-- |
 | ![][flag_AT] | **Austria** | **TouhouNerd**, Snowball, Hanyuu, Nharox, unbelievable |
 | ![][flag_AR] | **Argentina** | **Wishy22**, RocknRolla, Grisuh, Vivere, lota78, violentt |
 | ![][flag_BR] | **Brazil** | **fabriciorby**, Coy, Blue Dragon, Poisonchan, Antsu, Guerra |

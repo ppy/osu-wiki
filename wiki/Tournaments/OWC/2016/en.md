@@ -27,7 +27,7 @@ The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament 
 In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing    | Prize(s)    |
-|------------|:------------|
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge                             |
@@ -55,7 +55,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ## Participants
 
 | | Country | Members |
-| - | :---: | -------- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | Argentina | **[Glazbom](https://osu.ppy.sh/users/608277 "Glazbom")**, [GaTu](https://osu.ppy.sh/users/3583351 "GaTu"), [Pein](https://osu.ppy.sh/users/2212941 "Pein"), [benjacala](https://osu.ppy.sh/users/1625740 "benjacala"), [Enhu](https://osu.ppy.sh/users/2840499 "Enhu"), [nicogame14](https://osu.ppy.sh/users/3812213 "nicogame14"), [Catalysis](https://osu.ppy.sh/users/5958063 "Catalysis"), [Toushi](https://osu.ppy.sh/users/2367825 "Toushi")  |
 | ![][flag_AU] | Australia | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [uyghti](https://osu.ppy.sh/users/3641404 "uyghti"), [ithgyu](https://osu.ppy.sh/users/5113781 "ithgyu"), [Dumii](https://osu.ppy.sh/users/3068044 "Dumii"), [Korilak](https://osu.ppy.sh/users/7260014 "Korilak"), [Weber](https://osu.ppy.sh/users/6410432 "Weber"), [Lunirs](https://osu.ppy.sh/users/2118945 "Lunirs"), [Peekamoo](https://osu.ppy.sh/users/2337263 "Peekamoo") |
 | ![][flag_AT] | Austria       | **[Akane-Yuki](https://osu.ppy.sh/users/3656589 "Akane-Yuki")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [LWMF](https://osu.ppy.sh/users/3632402 "LWMF"), [Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose"), [Myst1k](https://osu.ppy.sh/users/5302223 "Myst1k")  |

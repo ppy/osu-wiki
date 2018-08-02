@@ -17,7 +17,7 @@ The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament host
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
 | Placing | Prize(s) |
-| ----- | :------- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
@@ -42,7 +42,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 ## Participants
 
 | | Country | Members |
-| -- |:---------:|---------|
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **Wishy22**, [Metro](https://osu.ppy.sh/users/306737), Ever17, [Darksonic](https://osu.ppy.sh/users/570042), [Salvage](https://osu.ppy.sh/users/242119), [Glazbom](https://osu.ppy.sh/users/608277) |
 | ![][flag_AU] | **Australia** | **Mizorex**, damiaanzx, [Hark](https://osu.ppy.sh/users/43265), [Frankcons](https://osu.ppy.sh/users/594006), [Mikey](https://osu.ppy.sh/users/979780), [Neko_Lover](https://osu.ppy.sh/users/596535) |
 | ![][flag_AT] |**Austria** | **[-Lennox-](https://osu.ppy.sh/users/489103)**, [Snowball](https://osu.ppy.sh/users/152238), [Hanyuu](https://osu.ppy.sh/users/73480), HakkeroHakkero, [novaaa](https://osu.ppy.sh/users/953405), [M A R I O](https://osu.ppy.sh/users/594424) |

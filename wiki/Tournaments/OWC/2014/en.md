@@ -27,7 +27,7 @@ The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
 | Placing | Prize(s) |
-| ----- | :------- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, profile badge, "osu! Champion" user title, osu! merchandise |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months supporter tag  |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag  |
@@ -55,7 +55,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ## Participants
 
 | | Country | Members |
-| -- | :---: | ----- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | Argentina   | **[Glazbom](https://osu.ppy.sh/users/608277)**, [Enhu](https://osu.ppy.sh/users/2840499), [benjacala](https://osu.ppy.sh/users/1625740), [Fr0th](https://osu.ppy.sh/users/3458870), [Graphite Edge](https://osu.ppy.sh/users/825712), [Peingod](https://osu.ppy.sh/users/2212941), [GaTu](https://osu.ppy.sh/users/3583351)    |
 | ![][flag_AU] |Australia | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [gimly32](https://osu.ppy.sh/users/3448993), [FluxVanes](https://osu.ppy.sh/users/655267), [uyghti](https://osu.ppy.sh/users/3641404), [Happyjon](https://osu.ppy.sh/users/5543), [Rivastyx](https://osu.ppy.sh/users/2719307), [Jaybladezz](https://osu.ppy.sh/users/3725492)  |
 | ![][flag_AT] |Austria| **[Omgforz](https://osu.ppy.sh/users/578943)**, [WhitePhoenixLP](https://osu.ppy.sh/users/1426098), [Alumetorz](https://osu.ppy.sh/users/1145984), [Elscar](https://osu.ppy.sh/users/2253511), [Hakkero](https://osu.ppy.sh/users/177913), [BlueFlameZ](https://osu.ppy.sh/users/3506191), [Jin_Back7](https://osu.ppy.sh/users/1238524)|

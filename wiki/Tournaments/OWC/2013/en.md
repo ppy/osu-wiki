@@ -27,7 +27,7 @@ The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
 | Placing | Prize(s) |
-| ----- | :------- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
@@ -55,7 +55,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 ## Participants
 
 | | Country | Members |
-| - | :---: | -------- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | Argentina | **Metro**, Glazbom, Salvage, Hernan, Fabi, druidxd, CBA-ES-CAB, Mikumiku97 |
 | ![][flag_AU] | Australia | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
 | ![][flag_AT] | Austria  | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn |
