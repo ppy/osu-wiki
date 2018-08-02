@@ -8,7 +8,7 @@ tags:
 osu!mania 7K World Cup 2016
 =============================
 
-![MWC 7K 2016 logo](logo.png)
+![MWC 7K 2016 Logo](logo.png)
 
 The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu!mania 7K World Cup.
 
@@ -95,11 +95,11 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2016 podium](podium.jpg)
+![MWC 7K 2016 Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](brackets.jpg)
+![MWC 7K 2016 Bracket](brackets.jpg)
 
 ------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Sunday, 2016-01-31 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP]     | **6** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/22265355) |
-| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_PH] Philippines   | -Win by default- |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_PH] Philippines   | -win by default- |
 
 ### Quarterfinals
 
@@ -271,7 +271,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Singapore ![][flag_SG]          | 1 | **5** | ![][flag_MY] **Malaysia**    | [#1](https://osu.ppy.sh/community/matches/22044289) |
 | **Australia** ![][flag_AU]      | **5** | 0 | ![][flag_DE] Germany         | [#1](https://osu.ppy.sh/community/matches/22046733) |
 | **Japan** ![][flag_JP]          | **5** | 0 | ![][flag_FR] France          | [#1](https://osu.ppy.sh/community/matches/22048705) |
-| United Kingdom ![][flag_GB]     | 0 | **5** | ![][flag_PL] **Poland**      | -Win by default- |
+| United Kingdom ![][flag_GB]     | 0 | **5** | ![][flag_PL] **Poland**      | -win by default- |
 | Russian Federation ![][flag_RU] | 0 | **5** | ![][flag_BR] **Brazil**      | [#1](https://osu.ppy.sh/community/matches/22054192) |
 
 ### Round of 16
@@ -279,7 +279,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Saturday, 2016-01-16 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Singapore** ![][flag_SG]   | **5** | 0 | ![][flag_AU] Australia          | [#1](https://osu.ppy.sh/community/matches/21844684) |
-| Japan ![][flag_JP]           | 0 | **5** | ![][flag_PH] **Philippines**    | -Win by default- |
+| Japan ![][flag_JP]           | 0 | **5** | ![][flag_PH] **Philippines**    | -win by default- |
 | **China** ![][flag_CN]       | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/21846586) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] Poland             | [#1](https://osu.ppy.sh/community/matches/21848487) |
 | France ![][flag_FR]          | 1 | **5** | ![][flag_TW] **Taiwan**         | [#1](https://osu.ppy.sh/community/matches/21849713) |
@@ -294,18 +294,18 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Canada ![][flag_CA]             | 0 | **4** | ![][flag_KR] **South Korea**        | [#1](https://osu.ppy.sh/community/matches/21645045) |
 | Taiwan ![][flag_TW]             | 0 | **4** | ![][flag_US] **United States**      | [#1](https://osu.ppy.sh/community/matches/21645051) |
 | Australia ![][flag_AU]          | 0 | **4** | ![][flag_ID] **Indonesia**          | [#1](https://osu.ppy.sh/community/matches/21645052) |
-| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_AU] **Australia**          | -Win by default- |
+| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_AU] **Australia**          | -win by default- |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_SG] **Singapore**          | [#1](https://osu.ppy.sh/community/matches/21652250) |
 | Taiwan ![][flag_TW]             | 1 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21652252) |
 | Australia ![][flag_AU]          | 0 | **4** | ![][flag_CN] **China**              | [#1](https://osu.ppy.sh/community/matches/21653171) |
-| Italy ![][flag_IT]              | 0 | **4** | ![][flag_PH] **Philippines**        | -Win by default- |
+| Italy ![][flag_IT]              | 0 | **4** | ![][flag_PH] **Philippines**        | -win by default- |
 | Norway ![][flag_NO]             | 0 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21654308) |
 | Germany ![][flag_DE]            | 0 | **4** | ![][flag_KR] **South Korea**        | [#1](https://osu.ppy.sh/community/matches/21654310) |
 | Sweden ![][flag_SE]             | 0 | **4** | ![][flag_SG] **Singapore**          | [#1](https://osu.ppy.sh/community/matches/21654313) |
-| United Kingdom ![][flag_GB]     | 0 | **4** | ![][flag_JP] **Japan**              | -Win by default- |
+| United Kingdom ![][flag_GB]     | 0 | **4** | ![][flag_JP] **Japan**              | -win by default- |
 | Philippines ![][flag_PH]        | 0 | **4** | ![][flag_ID] **Indonesia**          | [#1](https://osu.ppy.sh/community/matches/21655618) |
 | Italy ![][flag_IT]              | 0 | **4** | ![][flag_CN] **China**              | [#1](https://osu.ppy.sh/community/matches/21655616) |
-| **Singapore** ![][flag_SG]      | **4** | 0 | ![][flag_GB] United Kingdom         | -Win by default- |
+| **Singapore** ![][flag_SG]      | **4** | 0 | ![][flag_GB] United Kingdom         | -win by default- |
 | Poland ![][flag_PL]             | 0 | **4** | ![][flag_MY] **Malaysia**           | [#1](https://osu.ppy.sh/community/matches/21657212) |
 | Germany ![][flag_DE]            | 3 | **4** | ![][flag_FR] **France**             | [#1](https://osu.ppy.sh/community/matches/21657223) |
 | Sweden ![][flag_SE]             | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/21667376) |
@@ -345,17 +345,14 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
     - All maps are in a FreeMod bracket.
-
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
     - Reviving and surviving during a map gets considered as passing it.
-
 6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the beatmap.
     - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
-
 9. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 10. If less than 3 players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed. There are no limitations when exchanging players.
@@ -366,7 +363,6 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 16. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-
 18. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 19. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules can be:
@@ -375,7 +371,6 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
     - Disqualification from the current and future official tournaments until appealed
-
 21. Any modification of these rules will be announced.
 
 ### Tournament Registration
@@ -384,16 +379,13 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
     - Tournament Management will create a list of potential candidates for a country's team.
     - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
     - The declared captain can form their team from the candidate list of their country.
-
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     - Every registered user will be assigned to their respective country's candidate list.
     - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
     - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
     - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-
 5. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage Instructions
@@ -406,10 +398,8 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
     - Most maps won.
     - Have higher `∑{(total score difference) / (maximum score)}`.
     - Winner of the rematch.
-
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
     - This may change with the actual Group Stage setup.
-
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -432,31 +422,25 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 7K 2016: (TeamBlue) vs (TeamRed)".
     - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be 7K-specific osu!mania maps.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
     - Both vetos must always be used.
-
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in \#multiplayer.
     - The winner of the !roll starts picking the first beatmap of the match.
     - The loser of the !roll starts banning two beatmaps.
-
 6. Captains may pick freely from any bracket.
     - In case of a tie, the tiebreaker map must be played.
-
 7. Results will be published via Statistics site.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - Finals & Grand Finals use the same mappool.
-
 2. Mappool size varies depending on the stage.
     - 12 FreeMod maps in Group Stage.
     - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
     - 16 FreeMod maps in Semifinals and Finals, respectively.
-
 3. Each mappool has one tiebreaker.
 4. All maps, including the tiebreaker, will be played on FreeMod condition.
     - Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
@@ -468,7 +452,6 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
     - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 

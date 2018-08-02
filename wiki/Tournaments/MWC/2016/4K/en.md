@@ -8,7 +8,7 @@ tags:
 osu!mania 4K World Cup 2016
 =============================
 
-![MWC 4K 2016 logo](logo.png)
+![MWC 4K 2016 Logo](logo.png)
 
 The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 3rd installment of the osu!mania 4K World Cup.
 
@@ -110,11 +110,11 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 4K 2016 podium](podium.jpg)
+![MWC 4K 2016 Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](brackets.jpg)
+![MWC 4K 2016 Bracket](brackets.jpg)
 
 ------------------------------------------------------------------------
 
@@ -338,7 +338,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | **Malaysia** ![][flag_MY]       | **4** | 2 | ![][flag_CA] Canada             | [#1](https://osu.ppy.sh/community/matches/26863257) |
 | Singapore ![][flag_SG]          | 0 | **4** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/26864181) |
 | New Zealand ![][flag_NZ]        | 0 | **4** | ![][flag_CA] **Canada**         | [#1](https://osu.ppy.sh/community/matches/26864182) |
-| Macau ![][flag_MO]              | 0 | **4** | ![][flag_TH] **Thailand**       | -Win by default- |
+| Macau ![][flag_MO]              | 0 | **4** | ![][flag_TH] **Thailand**       | -win by default- |
 | Russian Federation ![][flag_RU] | 2 | **4** | ![][flag_NZ] **New Zealand**    | [#1](https://osu.ppy.sh/community/matches/26868897) |
 | Indonesia ![][flag_ID]          | 2 | **4** | ![][flag_FR] **France**         | [#1](https://osu.ppy.sh/community/matches/26868898) |
 | Netherlands ![][flag_NL]        | 1 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/26869611) |
@@ -366,22 +366,18 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
     - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-
 2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/forum/t/466617) for more information.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - There will be a NoMod and a FreeMod bracket.
     - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
     - Reviving and surviving during a map gets considered as passing it.
-
 7. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
     - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
-
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 12. Exchanging players during a match is allowed.
@@ -392,7 +388,6 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
@@ -401,7 +396,6 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
     - Disqualification from the current and future official tournaments until appealed
-
 22. Any modification of these rules will be announced.
 
 ### Tournament Registration
@@ -410,23 +404,19 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
     - Tournament Management will create a list of potential candidates for a country's team.
     - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
     - The declared captain can form their team from the candidate list of their country.
-
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     - Every registered user will be assigned to their respective country's candidate list.
     - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
     - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
     - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-
 5. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     - This may change according to the final amount of formed teams.
-
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     - Most matches won.
@@ -434,10 +424,8 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
     - Most maps won.
     - Have higher `∑{(total score difference) / (maximum score)}`.
     - Winner of the rematch.
-
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
     - This may change with the actual Group Stage setup.
-
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -460,24 +448,20 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     - Room settings are osu!mania, Team-Vs., Win Condition: 'Score v2'. Room name must be "MWC4K 2016: TeamBlue vs TeamRed".
     - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in \#multiplayer.
     - The winner of the !roll starts picking the first beatmap of the match.
     - The loser of the !roll starts banning.
-
 6. Captains may pick freely from any bracket.
     - In case of a tie, the tiebreaker map must be played.
-
 7. Results of all stages will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - Finals & Grand Finals use the same mappool.
-
 2. Each mappool consists of 2 brackets: NoMod and FreeMod
 3. Each mappool consists of 15 maps in total.
 4. Each mappool has one tiebreaker.
@@ -485,13 +469,10 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_Modifiers) or [HardRock](/wiki/Game_Modifiers).
     - Players can select both mods.
     - When playing a FreeMod map, at least 1 players of each team must have one mod activated.
-
 7. Optionally, every player can activate either [Hidden](/wiki/Game_Modifiers) or [FadeIn](/wiki/Game_Modifiers) at any beatmap in all mappool brackets.
     - [Hidden](/wiki/Game_Modifiers) and [FadeIn](/wiki/Game_Modifiers) do not count into the "activated mod" requirement in the FreeMod bracket.
-
 8. The tiebreaker will be played under FreeMod conditions.
     - When playing the tiebreaker, no one needs to have a mod activated.
-
 9. The size of the NoMod bracket will be 10 in all stages.
 10. The size of the FreeMod bracket will be 4 in all stages.
 
@@ -502,7 +483,6 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 3. All matches will be held on either Saturday or Sunday.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
     - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 

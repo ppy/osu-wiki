@@ -6,7 +6,7 @@ tags:
 osu!mania World Cup 2014
 ========================
 
-![MWC 2014 logo](logo.png)
+![MWC 2014 Logo](logo.png)
 
 The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu!mania World Cup and is separated in a 4-keys and 7-keys bracket.
 
@@ -14,14 +14,14 @@ The **osu!mania World Cup 2014** (***MWC 2014***) is a country-based osu!mania t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase     | 2014-07-01/2014-07-20 |
-| Live Drawings          | 2014-08-02            |
-| Group Stage (4K)       | 2014-08-09/2014-08-10 |
-| Group Stage (7K)       | 2014-08-16/2014-08-17 |
-| Round of 16            | 2014-08-23/2014-08-24 |
-| Quarterfinals          | 2014-08-31            |
-| Semifinals             | 2014-09-07            |
-| Finals/3rd place match | 2014-09-14            |
+| Registration Phase | 2014-07-01/2014-07-20 |
+| Live Drawings      | 2014-08-02            |
+| Group Stage (4K)   | 2014-08-09/2014-08-10 |
+| Group Stage (7K)   | 2014-08-16/2014-08-17 |
+| Round of 16        | 2014-08-23/2014-08-24 |
+| Quarterfinals      | 2014-08-31            |
+| Semifinals         | 2014-09-07            |
+| Finals             | 2014-09-14            |
 
 ## Prizes
 
@@ -49,7 +49,7 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/222100)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/222100)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Statistics: 4K Bracket](https://mwc.servegame.com/results/view/1)**
 - **[Statistics: 7K Bracket](https://mwc.servegame.com/results/view/2)**
@@ -144,9 +144,9 @@ This competition has come to an end and resulted in the following podium:
 
 ------------------------------------------------------------------------
 
-![MWC 2014 4K brackets](brackets-4K.jpg)
+![MWC 2014 4K Bracket](brackets-4K.jpg)
 
-![MWC 2014 7K brackets](brackets-7K.jpg)
+![MWC 2014 7K Bracket](brackets-7K.jpg)
 
 ------------------------------------------------------------------------
 
@@ -363,8 +363,8 @@ This competition has come to an end and resulted in the following podium:
 | Australia ![][flag_AU]          | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/8744737) |
 | **Malaysia** ![][flag_MY]       | **5** | 0 | ![][flag_ID] Indonesia          | [#1](https://osu.ppy.sh/community/matches/8745757) |
 | **Taiwan** ![][flag_TW]         | **5** | 0 | ![][flag_NO] Norway             | [#1](https://osu.ppy.sh/community/matches/8746528) |
-| **Philippines** ![][flag_PH]    | **5** | 0 | ![][flag_CA] Canada             | -Win by default- |
-| **Japan** ![][flag_JP]          | **5** | 0 | ![][flag_US] United States      | -Win by default- |
+| **Philippines** ![][flag_PH]    | **5** | 0 | ![][flag_CA] Canada             | -win by default- |
+| **Japan** ![][flag_JP]          | **5** | 0 | ![][flag_US] United States      | -win by default- |
 | Germany ![][flag_DE]            | 1 | **5** | ![][flag_PL] **Poland**         | [#1](https://osu.ppy.sh/community/matches/8751265) |
 | **France** ![][flag_FR]         | **5** | 0 | ![][flag_AR] Argentina          | [#1](https://osu.ppy.sh/community/matches/8752601) |
 
@@ -376,21 +376,21 @@ This competition has come to an end and resulted in the following podium:
 | **Russian Federation** ![][flag_RU] | **4** | 3 | ![][flag_NZ] New Zealand        | [#1](https://osu.ppy.sh/community/matches/8429172) |
 | **Japan** ![][flag_JP]              | **4** | 0 | ![][flag_NZ] New Zealand        | [#1](https://osu.ppy.sh/community/matches/8429927) |
 | Russian Federation ![][flag_RU]     | 0 | **4** | ![][flag_MY] **Malaysia**       | [#1](https://osu.ppy.sh/community/matches/8429937) |
-| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_AU] **Australia**      | -Win by default- |
+| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_AU] **Australia**      | -win by default- |
 | **Taiwan** ![][flag_TW]             | **4** | 2 | ![][flag_DE] Germany            | [#1](https://osu.ppy.sh/community/matches/8430093) |
 | **Japan** ![][flag_JP]              | **4** | 0 | ![][flag_GB] United Kingdom     | [#1](https://osu.ppy.sh/community/matches/8430512) |
 | Indonesia ![][flag_ID]              | 0 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/8430718) |
 | Taiwan ![][flag_TW]                 | 3 | **4** | ![][flag_PH] **Philippines**    | [#1](https://osu.ppy.sh/community/matches/8430762) |
-| Canada ![][flag_CA]                 | 0 | **4** | ![][flag_FR] **France**         | -Win by default- |
+| Canada ![][flag_CA]                 | 0 | **4** | ![][flag_FR] **France**         | -win by default- |
 | United Kingdom ![][flag_GB]         | 0 | **4** | ![][flag_MY] **Malaysia**       | [#1](https://osu.ppy.sh/community/matches/8432035) |
 | Spain ![][flag_ES]                  | 1 | **4** | ![][flag_PH] **Philippines**    | [#1](https://osu.ppy.sh/community/matches/8432001) |
-| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_KR] **South Korea**    | -Win by default- |
+| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_KR] **South Korea**    | -win by default- |
 | **Poland** ![][flag_PL]             | **4** | 0 | ![][flag_NO] Norway             | [#1](https://osu.ppy.sh/community/matches/8431527) |
 | **Argentina** ![][flag_AR]          | **4** | 0 | ![][flag_ES] Spain              | [#1](https://osu.ppy.sh/community/matches/8432861) |
-| Chile ![][flag_CL]                  | 0 | **4** | ![][flag_FR] **France**         | -Win by default- |
-| Indonesia ![][flag_ID]              | 0 | **4** | ![][flag_US] **United States**  | -Win by default- |
+| Chile ![][flag_CL]                  | 0 | **4** | ![][flag_FR] **France**         | -win by default- |
+| Indonesia ![][flag_ID]              | 0 | **4** | ![][flag_US] **United States**  | -win by default- |
 | Argentina ![][flag_AR]              | 0 | **4** | ![][flag_TW] **Taiwan**         | [#1](https://osu.ppy.sh/community/matches/8434391) |
-| Chile ![][flag_CL]                  | 0 | **4** | ![][flag_NO] **Norway**         | -Win by default- |
+| Chile ![][flag_CL]                  | 0 | **4** | ![][flag_NO] **Norway**         | -win by default- |
 | **Poland** ![][flag_PL]             | **4** | 3 | ![][flag_CA] Canada             | [#1](https://osu.ppy.sh/community/matches/8434796) |
 | New Zealand ![][flag_NZ]            | 0 | **4** | ![][flag_MY] **Malaysia**       | [#1](https://osu.ppy.sh/community/matches/8454627) |
 | Russian Federation ![][flag_RU]     | 0 | **4** | ![][flag_JP] **Japan**          | [#1](https://osu.ppy.sh/community/matches/8454720) |
@@ -398,18 +398,18 @@ This competition has come to an end and resulted in the following podium:
 | Japan ![][flag_JP]                  | 3 | **4** | ![][flag_MY] **Malaysia**       | [#1](https://osu.ppy.sh/community/matches/8455514) |
 | **Philippines** ![][flag_PH]        | **4** | 0 | ![][flag_DE] Germany            | [#1](https://osu.ppy.sh/community/matches/8455568) |
 | Australia ![][flag_AU]              | 1 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/8455602) |
-| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_ID] **Indonesia**      | -Win by default- |
+| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_ID] **Indonesia**      | -win by default- |
 | Russian Federation ![][flag_RU]     | 0 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/8456621) |
 | Argentina ![][flag_AR]              | 0 | **4** | ![][flag_PH] **Philippines**    | [#1](https://osu.ppy.sh/community/matches/8457365) |
 | Norway ![][flag_NO]                 | 0 | **4** | ![][flag_FR] **France**         | [#1](https://osu.ppy.sh/community/matches/8457430) |
 | United States ![][flag_US]          | 1 | **4** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/8457534) |
 | Spain ![][flag_ES]                  | 1 | **4** | ![][flag_TW] **Taiwan**         | [#1](https://osu.ppy.sh/community/matches/8458504) |
-| Canada ![][flag_CA]                 | 0 | **4** | ![][flag_NO] **Norway**         | -Win by default- |
+| Canada ![][flag_CA]                 | 0 | **4** | ![][flag_NO] **Norway**         | -win by default- |
 | **Argentina** ![][flag_AR]          | **4** | 3 | ![][flag_DE] Germany            | [#1](https://osu.ppy.sh/community/matches/8458561) |
-| **Poland** ![][flag_PL]             | **4** | 0 | ![][flag_CL] Chile              | -Win by default- |
+| **Poland** ![][flag_PL]             | **4** | 0 | ![][flag_CL] Chile              | -win by default- |
 | **Australia** ![][flag_AU]          | **4** | 0 | ![][flag_US] United States      | [#1](https://osu.ppy.sh/community/matches/8458616) |
-| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_US] **United States**  | -Win by default- |
-| **Canada** ![][flag_CA]             | **4** | 0 | ![][flag_CL] Chile              | -Win by default- |
+| Czech Republic ![][flag_CZ]         | 0 | **4** | ![][flag_US] **United States**  | -win by default- |
+| **Canada** ![][flag_CA]             | **4** | 0 | ![][flag_CL] Chile              | -win by default- |
 | Spain ![][flag_ES]                  | 0 | **4** | ![][flag_DE] **Germany**        | [#1](https://osu.ppy.sh/community/matches/8459866) |
 | **Poland** ![][flag_PL]             | **4** | 2 | ![][flag_FR] France             | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
@@ -435,7 +435,7 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP]       | **5** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/8927248) |
 | **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_CN] China         | [#1](https://osu.ppy.sh/community/matches/8934471) |
-| Hong Kong ![][flag_HK]       | 0 | **5** | ![][flag_TH] **Thailand**  | -Win by default- |
+| Hong Kong ![][flag_HK]       | 0 | **5** | ![][flag_TH] **Thailand**  | -win by default- |
 | **Malaysia** ![][flag_MY]    | **5** | 0 | ![][flag_CL] Chile         | [#1](https://osu.ppy.sh/community/matches/8936545) |
 
 ### Round of 16
@@ -456,35 +456,35 @@ This competition has come to an end and resulted in the following podium:
 | Team A | | | Team B | History |
 | --: | :-: | :-: | :-- | :-: |
 | **Poland** ![][flag_PL]         | **4** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/8573871) |
-| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_FR] **France**         | -Win by default- |
+| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_FR] **France**         | -win by default- |
 | Norway ![][flag_NO]             | 0 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/8574628) |
 | **Chile** ![][flag_CL]          | **4** | 0 | ![][flag_FR] France             | [#1](https://osu.ppy.sh/community/matches/8574684) |
 | Germany ![][flag_DE]            | 1 | **4** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/8575629) |
-| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_CL] **Chile**          | -Win by default- |
+| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_CL] **Chile**          | -win by default- |
 | Indonesia ![][flag_ID]          | 1 | **4** | ![][flag_CL] **Chile**          | [#1](https://osu.ppy.sh/community/matches/8582155) |
-| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_MY] **Malaysia**       | -Win by default- |
+| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_MY] **Malaysia**       | -win by default- |
 | Australia ![][flag_AU]          | 1 | **4** | ![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/8582339) |
 | Chile ![][flag_CL]              | 0 | **4** | ![][flag_JP] **Japan**          | [#1](https://osu.ppy.sh/community/matches/8583201) |
 | Hong Kong ![][flag_HK]          | 1 | **4** | ![][flag_CN] **China**          | [#1](https://osu.ppy.sh/community/matches/8583237) |
-| South Korea ![][flag_KR]        | 0 | **4** | ![][flag_TH] **Thailand**       | -Win by default- |
+| South Korea ![][flag_KR]        | 0 | **4** | ![][flag_TH] **Thailand**       | -win by default- |
 | **Malaysia** ![][flag_MY]       | **4** | 0 | ![][flag_US] United States      | [#1](https://osu.ppy.sh/community/matches/8583358) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_CN] **China**          | [#1](https://osu.ppy.sh/community/matches/8584000) |
 | Indonesia ![][flag_ID]          | 1 | **4** | ![][flag_JP] **Japan**          | [#1](https://osu.ppy.sh/community/matches/8584060) |
-| **Australia** ![][flag_AU]      | **4** | 0 | ![][flag_PH] Philippines        | -Win by default- |
-| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_US] **United States**  | -Win by default- |
-| Norway ![][flag_NO]             | 0 | **4** | ![][flag_TH] **Thailand**       | -Win by default- |
+| **Australia** ![][flag_AU]      | **4** | 0 | ![][flag_PH] Philippines        | -win by default- |
+| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_US] **United States**  | -win by default- |
+| Norway ![][flag_NO]             | 0 | **4** | ![][flag_TH] **Thailand**       | -win by default- |
 | **Hong Kong** ![][flag_HK]      | **4** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/8585131) |
 | Australia ![][flag_AU]          | 0 | **4** | ![][flag_MY] **Malaysia**       | [#1](https://osu.ppy.sh/community/matches/8585801) |
 | **Indonesia** ![][flag_ID]      | **4** | 0 | ![][flag_FR] France             | [#1](https://osu.ppy.sh/community/matches/8585811) |
-| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_DE] **Germany**        | -Win by default- |
-| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_JP] **Japan**          | -Win by default- |
+| Philippines ![][flag_PH]        | 0 | **4** | ![][flag_DE] **Germany**        | -win by default- |
+| Portugal ![][flag_PT]           | 0 | **4** | ![][flag_JP] **Japan**          | -win by default- |
 | Poland ![][flag_PL]             | 0 | **4** | ![][flag_CN] **China**          | [#1](https://osu.ppy.sh/community/matches/8585840) |
 | **Malaysia** ![][flag_MY]       | **4** | 0 | ![][flag_DE] Germany            | [#1](https://osu.ppy.sh/community/matches/8586550) |
-| **South Korea** ![][flag_KR]    | **4** | 0 | ![][flag_NO] Norway             | -Win by default- |
+| **South Korea** ![][flag_KR]    | **4** | 0 | ![][flag_NO] Norway             | -win by default- |
 | **Thailand** ![][flag_TH]       | **4** | 0 | ![][flag_GB] United Kingdom     | [#1](https://osu.ppy.sh/community/matches/8586635) |
 | **Japan** ![][flag_JP]          | **4** | 0 | ![][flag_FR] France             | [#1](https://osu.ppy.sh/community/matches/8586688) |
 | Poland ![][flag_PL]             | 0 | **4** | ![][flag_HK] **Hong Kong**      | [#1](https://osu.ppy.sh/community/matches/8586727) |
-| **Indonesia** ![][flag_ID]      | **4** | 0 | ![][flag_PT] Portugal           | -Win by default- |
+| **Indonesia** ![][flag_ID]      | **4** | 0 | ![][flag_PT] Portugal           | -win by default- |
 | **South Korea** ![][flag_KR]    | **4** | 0 | ![][flag_GB] United Kingdom     | [#1](https://osu.ppy.sh/community/matches/8587506) |
 | **Australia** ![][flag_AU]      | **4** | 1 | ![][flag_DE] Germany            | [#1](https://osu.ppy.sh/community/matches/8587531) |
 
@@ -497,12 +497,10 @@ This competition has come to an end and resulted in the following podium:
 1. The osu!mania World Cup is a country-based 2v2 team tournament, separated in a 7-keys bracket and a 4-keys bracket
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - One map will be given as tiebreaker map. This map will only be played in case of a tie.
-
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
     - Reviving and surviving during a map gets considered as passing it.
-
 6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
@@ -510,9 +508,8 @@ This competition has come to an end and resulted in the following podium:
 10. If less than 2 players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed.
     - You may exchange only one player once per map.
-
 12. Lag is not a valid reason to nullify a map.
-13. In Group stage, '-Win by default-' will be considered as win by 4:0, +1.0 score difference ratio.
+13. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
@@ -524,22 +521,18 @@ This competition has come to an end and resulted in the following podium:
     - You can sign-up your team for both brackets, if you want. You need to run through the registration process twice then
       - When signing up for both brackets, both rosters do not need to be identical.
       - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
-
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
 3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “MWC Registration”
     - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
     - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
-
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 32 per bracket.
     - Depending on the amount of registrations, the total amount might change.
-
 6. All successfully registered teams will be published after Registration Phase.
     - Captains will get notified in case their roster has been accepted or rejected.
-
 7. Mapset selectors may not participate as a player in this tournament.
 
-### Stage instructions
+### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
 2. All the teams from each group will face each other.
@@ -549,7 +542,6 @@ This competition has come to an end and resulted in the following podium:
     - Most maps won.
     - Have higher `∑{(total score difference) / (maximum score)}`.
     - Winner of the rematch.
-
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
 5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
 6. The **Winning conditions** for each stage will be:
@@ -585,7 +577,7 @@ This competition has come to an end and resulted in the following podium:
     - 11 in Round of 16 & Quarterfinals
     - 13 in Semifinals & Finals
 
-### Scheduling instructions
+### Scheduling Instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
