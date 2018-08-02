@@ -67,6 +67,28 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Mappool
 
+### Semifinals
+
+**Download the mappack here! (90.2M) - [Baidu Netdisk](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ) - [Google Drive](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi)**
+
+- FreeMod
+  - [X&G - Whiplash ft. josh pan (sakuraburst Remix) \[break out\]](https://osu.ppy.sh/beatmapsets/723633/#mania/1527737)
+  - [Nekomata Master - Avalon no oka \[Adventure\]](https://osu.ppy.sh/beatmapsets/799580/#mania/1678769)
+  - [senya - Tsuzurenu Mori no Shoujo \[LN\]](https://osu.ppy.sh/beatmapsets/704155/#mania/1489611)
+  - [Yooh - Electronic Sound Lab \[Extra\]](https://osu.ppy.sh/beatmapsets/495629/#mania/1464037)
+  - [LeaF - Paraclete \[Hard Lv.12\]](https://osu.ppy.sh/beatmapsets/565112/#mania/1194465)
+  - [Memme - Goat Fantasia \[Insanity\]](https://osu.ppy.sh/beatmapsets/515178/#mania/1094101)
+  - [The Ghost of 3.13 - Path To Nowhere \[Hopeless\]](https://osu.ppy.sh/beatmapsets/422800/#mania/913882)
+  - [Shiraishi - Moon-gate \[k\]](https://osu.ppy.sh/beatmapsets/622851/#mania/1312959)
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange \[4K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139/#mania/1178997)
+  - [YUC'e - PUMP \[Future Candy\]](https://osu.ppy.sh/beatmapsets/645301/#mania/1367425)
+  - [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/beatmapsets/484214/#mania/1032948)
+  - [Various Artists - Ichigaki's 4K Collection Vol.2 \[Oriens[Another]\]](https://osu.ppy.sh/beatmapsets/417215/#mania/903482)
+  - [t+pazolite - QLWA \[EXTRA\]](https://osu.ppy.sh/beatmapsets/543543/#mania/1152058)
+  - [DJ SEVEN P'n'B Remix - To Dimension \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/657155/#mania/1392067)
+- Tiebreaker
+  - [kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)
+
 ### Quarterfinals
 
 **Download the mappack here! (64.1M) - [Baidu Netdisk](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google Drive](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
