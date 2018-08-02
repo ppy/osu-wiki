@@ -136,7 +136,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 |-------------------------------------------------------|--------------------------|
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [hikikochan](https://osu.ppy.sh/users/6512678)        |                          |
+| [hikiko-](https://osu.ppy.sh/users/6512678)           |                          |
 | [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
 | [Kin](https://osu.ppy.sh/users/480689)                | French                   |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
