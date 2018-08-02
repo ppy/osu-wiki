@@ -20,7 +20,7 @@ Unsure of who to vote for? Check out this handy little animated preview, showcas
 
 <div align="center">
     <video width="90%" controls>
-        <source src="https://assets.ppy.sh/contests/66/summerfanart-preview.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/66/summerfanart-preview.mp4?20180802" type="video/mp4" preload="none">
     </video>
 </div>
 
