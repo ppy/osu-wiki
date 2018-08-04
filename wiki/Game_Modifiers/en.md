@@ -176,8 +176,6 @@ In [osu!catch][osu!catch wikilink] mode, the BPM is lowered by the same factor a
 
 These mods introduce new elements to make the game harder and rewards the player in terms of an increase in Score Multiplier.
 
-For osu!mania, the use of Hard Rock will result in **unranked** play.
-
 ### Hard Rock
 
 ![Hard Rock (HR) mod icon.png][HR]
