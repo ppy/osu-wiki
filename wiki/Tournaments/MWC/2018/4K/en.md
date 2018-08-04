@@ -5,42 +5,41 @@ tags:
 - MWC2018
 - MWC4K 2018
 ---
-osu!mania 4K World Cup 2018
-=============================
+# osu!mania 4K World Cup 2018
 
-![osu!mania 4K World Cup 2018](logo.png)
+![MWC 4K 2018 Logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2018** (**_MWC 4K 2018_**) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu!mania 4K World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-07-25/2018-08-08   |
-| Drawings           | 2018-08-18 14:00:00 UTC |
-| Group Stage        | 2018-08-25/2018-08-26   |
-| Round of 16        | 2018-09-01/2018-09-02   |
-| Quarterfinals      | 2018-09-08/2018-09-09   |
-| Semifinals         | 2018-09-15/2018-09-16   |
-| Finals             | 2018-09-22/2018-09-23   |
-| Grand Finals       | 2018-09-29/2018-09-30   |
+| Registration Phase | 2018-07-25/2018-08-08 |
+| Live Drawings | 2018-08-18 14:00:00 UTC |
+| Group Stage | 2018-08-25/2018-08-26 |
+| Round of 16 | 2018-09-01/2018-09-02 |
+| Quarterfinals | 2018-09-08/2018-09-09 |
+| Semifinals | 2018-09-15/2018-09-16 |
+| Finals | 2018-09-22/2018-09-23 |
+| Grand Finals | 2018-09-29/2018-09-30 |
 
 ## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| --- | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
 
-## Organization
+## Organisation
 
 The osu!mania 4K World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| --- | --- |
+| :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
 | Commentators | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
@@ -68,6 +67,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### Tournament Rules
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
@@ -152,17 +152,17 @@ The mappools will be revealed one week in advance of each stage and will be disp
     - This may change with the actual Group Stage setup.
 
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| --: | --- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD |
-| Grand Finals | AE, P, Q |
+    | Stage | Match ID |
+    | --: | :-- |
+    | Round of 16 | A, B, C, D, E, F, G, H |
+    | Quarterfinals | I, J, K, L & R, S, T, U |
+    | Semifinals | M, N & V, W, X, Y, Z, AA |
+    | Finals | O & AB, AC, AD |
+    | Grand Finals | AE, P, Q |
 
-**Winning conditions:**
+7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
     - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
     - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
@@ -174,7 +174,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
     - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4K specific beatmaps.
-3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
     - The winner of the !roll starts picking the first beatmap of the match.
