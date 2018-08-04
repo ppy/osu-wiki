@@ -176,7 +176,7 @@ In [osu!catch][osu!catch wikilink] mode, the BPM is lowered by the same factor a
 
 These mods introduce new elements to make the game harder and rewards the player in terms of an increase in Score Multiplier.
 
-For osu!mania, the use of _any_ difficulty increasing mods except Sudden Death/Perfect mod will result in **unranked** play.
+For osu!mania, the use of Hard Rock will result in **unranked** play.
 
 ### Hard Rock
 
@@ -256,7 +256,7 @@ In [osu!mania][osu!mania wikilink] mode, Perfect mod accepts both Rainbow 300/MA
 
 ![Double Time (DT) mod icon][DT]
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
 
 > Shortcut key: `D` (from unselected)
 
@@ -282,7 +282,7 @@ In [osu!catch][osu!catch wikilink] mode, as there is no overall difficulty to in
 
 Click on Double Time again to activate Nightcore mod.
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania; unranked).
+> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania).
 
 > Shortcut key: `DD` (from unselected) or `Shift`+`D`
 
@@ -296,7 +296,7 @@ The multiplier stays the same, and the beatmap itself is unaffected beyond what 
 
 ![Hidden (HD) mod icon][HD]
 
-> Score Multiplier: 1.06x (osu!standard, osu!taiko, osu!catch) , 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.06x (osu!standard, osu!taiko, osu!catch) , 1.00x (osu!mania)
 
 > Shortcut key: `F`
 
@@ -342,8 +342,6 @@ Click on Fade In again to activate Hidden mod.
 
 In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again, and functions as the inverse of Fade In.
 
-The usage of Hidden mod will result in an unranked play.
-
 ![Hidden combo milestone comparison][HD2_M]
 
 #### Fade In
@@ -352,7 +350,7 @@ The usage of Hidden mod will result in an unranked play.
 
 > **osu!mania only**
 
-> Score Multiplier: 1.00x (osu!mania only; unranked)
+> Score Multiplier: 1.00x (osu!mania only)
 
 > Shortcut key: `F`
 
@@ -362,7 +360,7 @@ Fade In mod causes notes to fade in as they approach the judgement bar.
 
 The speed at which they fade is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. The fading size only stops when 500 combo milestone (covers about 70% of the playfield) has been reached. The fading will be reverted to 0 combo size (covers about 20% of the playfield) when the combo is broken.
 
-The usage of Fade In mod will result in an unranked play. If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
+If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
 
 ![Fade In combo milestone comparison][FI2]
 
@@ -370,7 +368,7 @@ The usage of Fade In mod will result in an unranked play. If the beatmap was pas
 
 ![Flashlight (FL) mod icon][FL]
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko, osu!catch), 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.12x (osu!standard, osu!taiko, osu!catch), 1.00x (osu!mania)
 
 > Shortcut key: `G`
 
@@ -409,8 +407,6 @@ When paired with Hidden, fruits are visible momentarily if the catcher is _direc
 ![Flashlight mod in osu!mania mode][FL_M]
 
 In [osu!mania][osu!mania wikilink] mode, visible area is restricted to a relatively thin horizontal bar at the center of the screen with everything else obstructed.
-
-The usage of Flashlight mod will result in an unranked play.
 
 ## Special
 
