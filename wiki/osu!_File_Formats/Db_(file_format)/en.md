@@ -68,7 +68,7 @@ Some data types specific to osu!.db are defined below.
 | String | Audio file name |
 | String | MD5 hash of the beatmap |
 | String | Name of the .osu file corresponding to this beatmap |
-| Byte | Ranked status (0 = unknown, 1 = unsubmitted, 2 = pending/graveyard, 4 = ranked, 5 = approved, 6 = qualified, 7 = loved) |
+| Byte | Ranked status (0 = unknown, 1 = unsubmitted, 2 = pending/wip/graveyard, 3 = unused, 4 = ranked, 5 = approved, 6 = qualified, 7 = loved) |
 | Short | Number of hitcircles |
 | Short | Number of sliders (note: this will be present in every mode) |
 | Short | Number of spinners (note: this will be present in every mode) |
