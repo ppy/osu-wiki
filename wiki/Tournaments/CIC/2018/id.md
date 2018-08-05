@@ -55,7 +55,25 @@ TBA
 
 ## Peraturan
 
+### Sistem Turnamen
 
+1. Setiap pertandingan akan menggunakan Score V2
+2. Map Selector akan memberikan map pool untuk match maksimal seminggu sebelum pertandingan dimulai.
+3. Jadwal akan ditentukan oleh panita, jika mengalami masalah dengan jadwal, silahkan contact panitia agar mendapat perubahan jadwal.
+4. Peserta akan di invite multiplayer 15 menit sebelum pertandingan dimulai.
+5. Jika peserta belum hadir maka waktu pertandingan akan diundur maksimal 10 menit.
+6. Jika wasit atau staff terkait tidak ada/offline, maka pertandingan akan diundur.
+7. Jika didalam match peserta fail maka akan dihitung kalah dan masuk diperingkat terakhir.
+  - Pengecualian jika pemain bisa revive, maka peringkat akan ditentukan berdasarkan skor terbesar.
+8. Jika peserta mengalami permasalahan jaringan (Disconnect) maka akan dihitung sebagai failed.
+  - Jika peserta disconnect maksimal 30 detik setelah map dimainkan maka pertandingan boleh diulang (rematch).
+9. Jika peserta mengalami permasalahan atau disconnect ditengah match maka pertandingan akan diberhentikan sementara maksimal 15 menit.
+10. Alasan lag tidak diperbolehkan untuk memberhentikan match yang sedang berlangsung.
+11. Jika ada permasalahan didalam match, maka host/co-host akan membuat keputusan berdasarkan laporan yang didapat dari referee.
+12. Diharapkan untuk respect dan bersikap sopan ketika bertanding. Segala penalti akan diberikan jika ada yang melanggar.
+  - Jika peserta memancing perkelahian dengan peserta lain akan direport ke staff CIC dan diblacklist untuk turnamen yang berikutnya. 
+  - Penggunan cheat akan dilaporkan ke staff osu! dan diblacklist untuk turnamen yang berikutnya.
+  - Membantu peserta (Joki) akan diblacklist pemilik akun dan pengjoki akun untuk turnamen yang berikutnya.
 
 
 [flag_ID]: /wiki/shared/flag/ID.gif
