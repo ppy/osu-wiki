@@ -87,7 +87,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
   - [t+pazolite - QLWA \[EXTRA\]](https://osu.ppy.sh/beatmapsets/543543/#mania/1152058)
   - [DJ SEVEN P'n'B Remix - To Dimension \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/657155/#mania/1392067)
 - Tiebreaker
-  - **[kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
+  - **[kamome sano - \</emotional\> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
 
 ### Quarterfinals
 
