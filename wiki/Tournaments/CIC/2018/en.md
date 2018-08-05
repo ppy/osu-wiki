@@ -29,3 +29,31 @@ The **osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is the 7th insta
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")    | Profile badge and 50% of total donations |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")  | 30% of total donations                   |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place")  | 20% of total donations                   |
+
+## Tournament Staff
+
+| Position | Member |
+| ------------ | -------------- |
+| Host | ![][flag_ID] [[490]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
+| Map Selectors | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Streamers | TBA |
+| Commentators | TBA |
+| Referees | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137),  ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832) |
+
+## Links
+
+- [Discussion thread](/community/forums/topics/780969)
+- [Discord](http://discord.gg/dKcVbWE)
+
+## Participants
+
+TBA
+
+## Mappool
+
+TBA
+
+## Ruleset
+
+
+[flag_ID]: /wiki/shared/flag/ID.gif
