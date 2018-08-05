@@ -4,6 +4,7 @@ tags:
 - CIC2018
 ---
 osu!catch the Beat Indonesia Cup 2018
+=====================================
 
 ![osu!catch the Beat Indonesia Cup 2018 Banner](banner.png)
 
