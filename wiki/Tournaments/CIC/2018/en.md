@@ -6,7 +6,7 @@ tags:
 osu!catch the Beat Indonesia Cup 2018
 =====================================
 
-![osu!catch the Beat Indonesia Cup 2018](banner.png)
+![osu!catch the Beat Indonesia Cup 2018 Banner](banner.png)
 
 The **osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is the 7th installment of osu!catch specified Indonesia regional tournament, hosted by [[490]Kazuyo](https://osu.ppy.sh/users/1830361).
 
@@ -32,7 +32,7 @@ The **osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is the 7th insta
 
 ## Tournament Staff
 
-| Position | Member |
+| Position | Member(s) |
 | ------------ | -------------- |
 | Host | ![][flag_ID] [[490]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
 | Map Selectors | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -47,13 +47,17 @@ The **osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is the 7th insta
 
 ## Participants
 
-TBA
+*The participants will be announced after the registration phase is finished*
 
-## Mappool
+## Mappools
 
-TBA
+*The mappools will be announced one week before the match*
 
 ## Ruleset
+
+WIP
+
+
 
 
 [flag_ID]: /wiki/shared/flag/ID.gif
