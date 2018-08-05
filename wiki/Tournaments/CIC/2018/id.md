@@ -4,9 +4,8 @@ tags:
 - CIC2018
 ---
 osu!catch the Beat Indonesia Cup 2018
-=====================================
 
-![osu!catch the Beat Indonesia Cup 2018](banner.png)
+![osu!catch the Beat Indonesia Cup 2018 Banner](banner.png)
 
 **osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah instalasi ke-7 dari turnamen osu!catch regional Indonesia, yang diselenggarakan oleh [[490]Kazuyo](https://osu.ppy.sh/users/1830361).
 
@@ -47,60 +46,60 @@ osu!catch the Beat Indonesia Cup 2018
 
 ## Peserta
 
-TBA
+*Peserta akan diumumkan setelah fase registrasi berakhir*
 
 ## Mappool
 
-TBA
+*Mappool akan diumumkan seminggu sebelum pertandingan berlangsung*
 
 ## Peraturan
 
 ### Sistem Turnamen
 
-1. Setiap pertandingan akan menggunakan Score V2
-2. Map Selector akan memberikan map pool untuk match maksimal seminggu sebelum pertandingan dimulai.
-3. Jadwal akan ditentukan oleh panita, jika mengalami masalah dengan jadwal, silahkan contact panitia agar mendapat perubahan jadwal.
-4. Peserta akan di invite multiplayer 15 menit sebelum pertandingan dimulai.
-5. Jika peserta belum hadir maka waktu pertandingan akan diundur maksimal 10 menit.
-6. Jika wasit atau staff terkait tidak ada/offline, maka pertandingan akan diundur.
-7. Jika didalam match peserta fail maka akan dihitung kalah dan masuk diperingkat terakhir.
+1. Setiap pertandingan akan menggunakan ScoreV2
+2. Map Selector akan memberikan mappool untuk match maksimal seminggu sebelum pertandingan dimulai.
+3. Jadwal akan ditentukan oleh panitia, jika mengalami masalah dengan jadwal, silahkan kontak panitia agar mendapat perubahan jadwal.
+4. Peserta akan di-invite ke multiplayer match 15 menit sebelum pertandingan dimulai.
+5. Jika peserta belum hadir maka pertandingan akan diundur maksimal 10 menit.
+6. Jika referee atau staff terkait tidak ada yang aktif, maka pertandingan akan diundur.
+7. Jika di dalam match peserta fail, maka akan dihitung kalah dan masuk diperingkat terakhir.
   - Pengecualian jika pemain bisa revive, maka peringkat akan ditentukan berdasarkan skor terbesar.
-8. Jika peserta mengalami permasalahan jaringan (Disconnect) maka akan dihitung sebagai failed.
-  - Jika peserta disconnect maksimal 30 detik setelah map dimainkan maka pertandingan boleh diulang (rematch).
-9. Jika peserta mengalami permasalahan atau disconnect ditengah match maka pertandingan akan diberhentikan sementara maksimal 15 menit.
+8. Jika peserta mengalami permasalahan atau disconnect maka akan dihitung sebagai failed.
+  - Jika peserta disconnect sebelum 30 detik setelah map dimainkan maka pertandingan boleh diulang (rematch).
+9. Jika peserta mengalami permasalahan atau disconnect di tengah match maka pertandingan akan diberhentikan sementara maksimal 15 menit.
 10. Alasan lag tidak diperbolehkan untuk memberhentikan match yang sedang berlangsung.
-11. Jika ada permasalahan didalam match, maka host/co-host akan membuat keputusan berdasarkan laporan yang didapat dari referee.
+11. Jika ada permasalahan di dalam match, maka host/co-host akan membuat keputusan berdasarkan laporan yang didapat dari referee.
 12. Diharapkan untuk respect dan bersikap sopan ketika bertanding. Segala penalti akan diberikan jika ada yang melanggar.
-  - Jika peserta memancing perkelahian dengan peserta lain akan direport ke staff CIC dan diblacklist untuk turnamen yang berikutnya.
-  - Penggunan cheat akan dilaporkan ke staff osu! dan diblacklist untuk turnamen yang berikutnya.
-  - Membantu peserta (Joki) akan diblacklist pemilik akun dan pengjoki akun untuk turnamen yang berikutnya.
+  - Jika peserta memancing perkelahian dengan peserta lain akan direport ke staff CIC dan diblacklist untuk turnamen yang akan datang.
+  - Penggunan cheat akan dilaporkan ke staff osu! dan diblacklist untuk turnamen yang akan datang.
+  - Membantu peserta (joki) akan diblacklist akun untuk turnamen yang akan datang baik peserta maupun penjoki.
 
 ### Sistem Babak Grup
 
-1. Setiap grup akan diisi oleh 4 player berdasarkan seed
-2. Pemain akan bertanding dengan sistem Battle Royal
-3. Group Stage akan menggunakan point untuk setiap peserta dengan ketentuan sebagai berikut:
+1. Setiap grup akan diisi oleh 4 player berdasarkan seed.
+2. Pemain akan bertanding dengan sistem Battle Royale.
+3. Babak grup akan menggunakan point untuk setiap peserta dengan ketentuan sebagai berikut:
   - Juara 1 : 2 Point
   - Juara 2 : 1 Point
   - Juara 3 : -1 Point
   - Juara 4 : -2 Point
-4. Tidak ada banned maps pada Group Stage
-5. Tidak ada Loser Bracket pada Group Stage
-6. Pemain yang dapat bertanding ke babak berikutnya ditentukan oleh :
+4. Tidak ada banned maps pada babak grup
+5. Tidak ada Loser Bracket pada babak grup
+6. Pemain yang dapat bertanding ke babak berikutnya ditentukan berdasarkan:
   - Peserta yang memiliki point terbanyak.
-  - Jika peserta dengan urutan 2 dan 3 memiliki poin yang sama, maka peserta yang menang akan di tentukan dengan Tiebreak.
+  - Jika peserta dengan urutan 2 dan 3 memiliki poin yang sama, maka peserta yang menang akan ditentukan dengan Tiebreak.
   - Peserta yang menang Win By Default (WBD).
   - Jika ada peserta yang mengalami diskualifikasi saat match berlangsung.
 
 ### Sistem Babak 16 Besar sampai Final
 
-1. 16 Pemain yang lolos pada Group Stage akan diacak pada bracket RO16
-2. Winner Bracket akan dimainkan pada hari Sabtu, dan Loser Bracket akan dimainkan pada hari Minggu, kecuali ada perubahan jadwal
-3. Pemain akan bertanding dengan sistem Double Elimination
+1. 16 Pemain yang lolos pada babak grup akan dirandom pada bracket RO16.
+2. Winner Bracket akan dimainkan pada hari Sabtu, dan Loser Bracket akan dimainkan pada hari Minggu, kecuali ada perubahan jadwal.
+3. Pemain akan bertanding dengan sistem Double Elimination.
 4. Sistem Double Elimination yaitu:
-  - Pemain yang kalah pada Winner Bracket, masih dapat bermain lagi pada Loser Bracket
-  - Pemain yang telah kalah pada Loser Bracket, dinyatakan tereliminasi
-  - Pada babak Grand Final, peserta yang menang pada Final memiliki kesempatan 2x bermain.
+  - Pemain yang kalah pada Winner Bracket, masih dapat bermain lagi pada Loser Bracket.
+  - Pemain yang kalah pada Loser Bracket, dinyatakan tereliminasi.
+  - Pada babak Grand Final, peserta yang menang pada final memiliki kesempatan 2x bermain.
 5. Pemain yang dapat bertanding ke babak berikutnya ditentukan oleh :
   - Pada RO16 dan Loser RO16 akan diberlakukan sistem BO5, pemain yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
   - Pada Quarter Final dan Loser Quarter Final akan diberlakukan sistem BO7, pemain yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
@@ -114,9 +113,9 @@ TBA
 ### Peraturan Pertandingan
 
 1. Setiap peserta akan melakukan "!roll' untuk menentukan siapa yang dapat memilih beatmap pertama.
-2. Setiap peserta berhak memilih satu beatmap yang dapat dibanned dalam match, Kecuali pada Group Stage, tidak ada Banned Maps.
-3. Setiap match hanya boleh maksimal 1 kali warm-up (Pada Group Stage) dan 2 kali (Pada Babak Selanjutnya) sebelum match dimulai.
-4. Hasil dari setiap match wajib dishared/dipost ke trit oleh panitia Refree beserta link mp dan screenshot.
+2. Setiap peserta berhak memilih satu beatmap yang dapat dibanned dalam match, Kecuali pada babak grup, tidak ada banned maps.
+3. Setiap match hanya boleh maksimal 1 kali warm-up (pada babak grup) dan 2 kali (pada babak selanjutnya) sebelum match dimulai.
+4. Hasil dari setiap match wajib dishare/dipost di thread oleh panitia (referee) beserta link mp dan screenshot.
 
 
 
