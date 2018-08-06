@@ -9,7 +9,7 @@ tags:
 
 ![MWC 4K 2015 Logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) is a country-based osu!mania 4-key tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu!mania 4K World Cup.
 
 ## Tournament Schedule
 
@@ -40,7 +40,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_TW] [Spy](https://osu.ppy.sh/users/1217122) |
 | Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentators | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
