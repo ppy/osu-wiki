@@ -30,9 +30,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months osu!supporter tag, profile badge, "osu!mania Champion" user title, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months osu!supporter tag, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, profile badge |
 
 ## Organisation
 

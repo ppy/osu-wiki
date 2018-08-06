@@ -29,9 +29,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | exclusive and unique merchandise, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Profile badge, exclusive osu! merchandise |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Profile badge, exclusive osu! merchandise |
 
 ## Organisation
 
