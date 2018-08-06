@@ -24,13 +24,13 @@ Bananas are separate from the fruits, despite being a fruit, because they are sp
 
 ### Shared elements
 
-Some interface elements are used in osu!catch:
+The following elements are used with other parts of osu!:
 
--  scorebar and all its files
--  score numbers
--  combo numbers
--  inputoverlay-background and -key
--  hit bursts from osu!standard for the ranking panel
+-   scorebar and all its files
+-   score numbers
+-   combo numbers
+-   inputoverlay-background and -key
+-   hit bursts from osu!standard for the ranking panel
 
 ## Playfield design
 
@@ -74,11 +74,11 @@ The catcher is basically the cursor of osu!catch. There are three states: idle, 
 
 These have a minimum width of 302px and the first 16 horizontal lines from the top of them should be empty (the hitbox is 16 horizontal lines from the top of these images). Catchers normally are pictured holding some kind of plate on top of their heads. The fruits, when caught, will go through the catcher until their hitboxes are hit and stay there until the comboset is completed. If the plate is too thin, it will appear as if it is clipping through the plate. Thus, many skinners design their catchers in a way to make sure this doesn't happen (usually by making the plate a little taller).
 
-## skin.ini commands
+## Skin configuration
 
 *See also: [skin.ini](/wiki/skin.ini).*
 
-osu!catch has three unique skin.ini commands:
+osu!catch has three unique skin configuration commands:
 
 - `HyperDash` - defines the hyperdash colour of the catcher itself. This is used on the very first after image right after obtaining the hyperdash fruit. `255,0,0` (red) is used by default.
 - `HyperDashFruit` - defines the hyperdash border on the fruit itself. `HyperDash` colour is used if not defined.
@@ -88,7 +88,7 @@ Make sure the `HyperDash` colour stands out!
 
 ### Shared commands
 
-osu!catch shares these skin.ini commands with other modes:
+osu!catch shares these skin configuration commands with other modes:
 
 - `Combo1`
 - `Combo2`
