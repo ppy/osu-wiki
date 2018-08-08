@@ -14,8 +14,8 @@ The 4th CJB osu!mania 4K Tournament
 | Round of 16 | 2018-7-21/2018-7-22 |
 | Quarterfinals | 2018-7-28/2018-7-29 |
 | Semifinals | 2018-8-4/2018-8-5 |
-| Finals - Week 1 | 2018-8-7/2018-8-8 |
-| Finals - Week 2 | 2018-8-18/2018-8-19 |
+| Finals - Week 1 | 2018-8-11 |
+| Finals - Week 2 | 2018-8-13/2018-8-14 |
 
 ## Prizes
 
@@ -40,32 +40,66 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Links
 
-- [Livestream](https://live.bilibili.com/5333)
+- [Livestream of Rasis](https://live.bilibili.com/5333)
+- [Livestream of Flow Light](https://live.bilibili.com/73668)
+- [Livestream of aiyulu](https://live.bilibili.com/10183)
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
 ## Match Schedule
 
-### Semifinals
+Mappool of _Finals - Week 2_ will be shown at 2018-08-10 15:00 (UTC+8).
 
-#### Saturday, 4. August 2018
+### Finals - Week 1
 
-| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | crazybrother | 20 |
-| 15:30 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 23 |
-| 19:30 | Crystal | ![][flag_CN] | ![][flag_TW] | Zhou_Kai | 24 |
-| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | tuziel | 19 |
-
-#### Sunday, 5. August 2018
+#### Saturday, 11. August 2018
 
 | Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | FDchuxin | 18 |
-| 15:30 | Winner of 18 | ![][flag_CN] | ![][flag_CN] | williammak | 21 |
-| 20:00 | Winner of 20 | ![][flag_CN] | ![][flag_CN] | Winner of 19 | 22 |
+| 14:30 | Toki 0w0 | ![][flag_CN] | ![][flag_CN] | xyxyxy091 | 25 |
+| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | IA daisuki | 26 |
+| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Crystal | 28 |
+| TBA | Winner of 25 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | Winner of 26 | 27 |
+
+### Finals - Week 2
+
+#### Monday, 13. August 2018
+
+| Match Time | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| TBA | Loser of 28 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | Winner of 27 | 29 |
+
+#### Tuesday, 14. August 2018
+
+| Match Time | Player 1 | | | Player 2 | Match ID |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| TBA | Winner of 28 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | Winner of 29 | 30 |
+
+If _Winner of 28_ **lose** Match 30, Match 31 will start right after that: _Winner of 28_ vs _Winner of 29_.
 
 ## Mappool
+
+### Finals - Week 1
+
+**Download the mappack here! (148M) - [Baidu Netdisk](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw) - [Google Drive](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6)**
+
+- FreeMod
+  - [Hitori Tori - perthed again (yambabom remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/569392/#mania/1277797)
+  - [Silent Siren - Hachigatsu no Yoru \[Ano Yoru wo\]](https://osu.ppy.sh/beatmapsets/658021/#mania/1393738)
+  - [Ruby My Dear - 7C0 \[Exposure\]](https://osu.ppy.sh/beatmapsets/783677/#mania/1645555)
+  - [LeaF - 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmapsets/589173/#mania/1247978)
+  - [AAAA Chazuke - Hop Step Adventure* \[Insane\]](https://osu.ppy.sh/beatmapsets/574576/#mania/1216879)
+  - [MYUKKE. - Shera \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675/#mania/1498129)
+  - [Morimori Atsushi - Paradigm Shift \[CS' Another\]](https://osu.ppy.sh/beatmapsets/765055/#mania/1608657)
+  - [Kaneko Chiharu - Kai Dan \[Lude's Oni\]](https://osu.ppy.sh/beatmapsets/623951/#mania/1317018)
+  - [Freezer feat. Kiichigo - Berry Go!! \[BERRY HARD\]](https://osu.ppy.sh/beatmapsets/677465/#mania/1432754)
+  - [Erehamonika remixed k - Der Wald (kors k Remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/582342/#mania/1232365)
+  - [kemu - Ikasama Life Game \[Smith's MX\]](https://osu.ppy.sh/beatmapsets/469204/#mania/1082620)
+  - [Drop - Dancer of Saramandora \[Crimson Dance\]](https://osu.ppy.sh/beatmapsets/526129/#mania/1116480)
+  - [EBIMAYO - GOODTEK \[4K Another\]](https://osu.ppy.sh/beatmapsets/369069/#mania/808998)
+  - [DJ Sharpnel - TAKECORE OF YOURSELF \[1.0x\]](https://osu.ppy.sh/beatmapsets/480479/#mania/1026063)
+- Tiebreaker
+  - **[KASAI HARCORES - Cycle Hit \[Out Of The Park\]](https://osu.ppy.sh/beatmapsets/682668/#mania/1443660)**
 
 ### Semifinals
 
@@ -130,6 +164,21 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
   - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)**
 
 ## Result
+
+### Semifinals
+
+| No. | Saturday, 2018-08-04 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | WBD |
+| 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
+| 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
+| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | WBD |
+
+| No. | Sunday, 2018-08-05 |  |  |  | Comment |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | WBD |
+| 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
+| 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
 
 ### Quarterfinals
 
