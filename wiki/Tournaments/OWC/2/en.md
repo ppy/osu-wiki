@@ -14,20 +14,20 @@ The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament host
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
+In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
 The osu! World Cup #2 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| -------- | ------- |
+| :-- | :-- |
 | Management | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Map Selectors | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
 | Streamers | ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |

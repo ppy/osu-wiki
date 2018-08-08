@@ -14,8 +14,8 @@ The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament host
 
 ## Tournament Schedule
 
-- The OWC starts at 2011-02-21
-- All matches will be played from 15:00 to 22:00 (GMT), from Thursday to Sunday
+- The OWC started at 2011-02-21
+- All matches were played from 15:00 to 22:00 (GMT), from Thursday to Sunday
 
 ## Prizes
 
@@ -23,10 +23,10 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
-| *Special* | 1 month supporter tag (won by ![][flag_JP] Japan) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| *Special* | 1 month of osu!supporter tag (won by ![][flag_JP] Japan) |
 
 ## Organisation
 
@@ -80,24 +80,6 @@ The osu! World Cup #1 was run by various community members by distributing the m
 | ![][flag_UA] | **Ukraine** | **gorlum**, rockleejkooo, Mosya, RainForce, gef |
 | ![][flag_GB] | **United Kingdom** | **Doomsday**, Natteke, aevv, Jericho2442, DiamondCrash |
 | ![][flag_US] | **United States** | **Lybydose**, Mafiamaster, Cyclone, ebacho, naptime |
-
-## Groups
-
-| Asia/Oceania | Europe | America |
-| ------------ | ------ | ------- |
-| ![][flag_CN] China       | ![][flag_AT] Austria | ![][flag_AR] Argentina |  
-| ![][flag_ID] Indonesia   | ![][flag_FI] Finland | ![][flag_BR] Brazil |
-| ![][flag_JP] Japan       | ![][flag_FR] France | ![][flag_CA] Canada |
-| ![][flag_KR] Korea       | ![][flag_DE] Germany | ![][flag_CL] Chile |
-| ![][flag_MO] Macau       | ![][flag_IT] Italy | ![][flag_DO] Dominican Republic |
-| ![][flag_MY] Malaysia    | ![][flag_NL] Netherlands | ![][flag_US] United States | 
-| ![][flag_NZ] New Zealand | ![][flag_PL] Poland | |
-| ![][flag_PH] Philippines | ![][flag_PT] Portugal | | 
-| ![][flag_TW] Taiwan      | ![][flag_RU] Russia | |
-| | ![][flag_ES] Spain | |
-| | ![][flag_SE] Sweden | |
-| | ![][flag_UA] Ukraine | |
-| | ![][flag_GB] United Kingdom | |
 
 ------------------------------------------------------------
 
@@ -207,7 +189,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 ### Instructions
 
 1. The first stage of the cup is divided depending on continent.
-    1. Example: Europe country vs Europe country (Poland vs Portugal).
+   - Example: Europe country vs Europe country (Poland vs Portugal).
 2. All matches follow knockout tournament rule.
 3. 32 countries. If not enough countries, cup's stages will be modeled based on the number reached.
 4. Each country's decision will be represented by a "captain" who will choose the members of the team and will inform players about the timetables.

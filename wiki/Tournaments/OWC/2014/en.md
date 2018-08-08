@@ -12,15 +12,15 @@ The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament 
 ## Tournament Schedule
 
 | Event | Timestamp  |
-|------:|:-----------|
+| --: | :-- |
 | Registration Phase | 2014-10-02/2014-10-26    |
-| Live Drawings  | 2014-11-01 (14:00 UTC+0)|
+| Live Drawings | 2014-11-01 (14:00 UTC+0) |
 | Group Stage | 2014-11-08/2014-11-09    |
 | Round of 16 | 2014-11-15/2014-11-16    |
 | Quarterfinals | 2014-11-22/2014-11-23    |
 | Semifinals  | 2014-11-29/2014-11-30    |
-| Finals - Week 1    | 2014-12-06/2014-12-07    |
-| Finals - Week 2    | 2014-12-13/2014-12-14    |
+| Finals - Week 1  | 2014-12-06/2014-12-07    |
+| Finals - Week 2  | 2014-12-13/2014-12-14    |
 
 ## Prizes
 
@@ -28,16 +28,16 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, profile badge, "osu! Champion" user title, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months supporter tag  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag  |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, profile badge, "osu! Champion" user title, osu! merchandise |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag  |
 
 ## Organisation
 
 The osu! World Cup 2014 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| -------- | ------- |
+| :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
 | Map Selectors | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)  |
 | Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
@@ -46,9 +46,9 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Links
 
--   [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
--   [Livestream](https://www.twitch.tv/osulive/)
--   **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
+- [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | 
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BR] Brazil  | ![][flag_LT] Lithuania | ![][flag_CA] Canada | ![][flag_FI] Finland | ![][flag_CN] China |
 | ![][flag_IT] Italy | ![][flag_AT] Austria | ![][flag_CL] Chile | ![][flag_JP] Japan   | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_SG] Singapore | ![][flag_DK] Denmark|
 | ![][flag_PT] Portugal | ![][flag_NZ] New Zealand | ![][flag_FR] France | ![][flag_MX] Mexico  | ![][flag_SE] Sweden | ![][flag_NL] Netherlands | ![][flag_GB] United Kingdom | ![][flag_MY] Malaysia |
@@ -264,116 +264,116 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 | Saturday, 2014-12-13 | | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  Poland ![][flag_PL]| 1 | **6** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/11117046) |
-|  Poland ![][flag_PL]| 2 | **6** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/11118895) |
+|  Poland ![][flag_PL]| 1 | **6** |![][flag_JP] **Japan**  | [#1](https://osu.ppy.sh/community/matches/11117046) |
+|  Poland ![][flag_PL]| 2 | **6** |![][flag_JP] **Japan**  | [#1](https://osu.ppy.sh/community/matches/11118895) |
 
 | Saturday, 2014-12-06 | | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  **Japan** ![][flag_JP]| **6** | 0| United States ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10950205) |
-|  **South Korea** ![][flag_KR]| **6** | 1| Austria ![][flag_AT]| [#1](https://osu.ppy.sh/community/matches/10954577) |
-|  South Korea ![][flag_KR]| 5 | **6** | **Japan** ![][flag_JP]| [#1](https://osu.ppy.sh/community/matches/10955976) |
-|  Germany  ![][flag_DE]| 3 | **6** | **Poland** ![][flag_PL]    | [#1](https://osu.ppy.sh/community/matches/10966299) |
+|  **Japan** ![][flag_JP]| **6** | 0|![][flag_US] United States  | [#1](https://osu.ppy.sh/community/matches/10950205) |
+|  **South Korea** ![][flag_KR]| **6** | 1 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10954577) |
+|  South Korea ![][flag_KR]| 5 | **6** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10955976) |
+|  Germany  ![][flag_DE]| 3 | **6** |![][flag_PL] **Poland**     | [#1](https://osu.ppy.sh/community/matches/10966299) |
 
 ### Semifinals
 
 | Saturday, 2014-11-29 | | | | |
 | ---: |:---:|:---:|:---|:----:|
-| Russian Federation ![][flag_RU] | 5 | **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/10799208) |
-|  **Japan**  ![][flag_JP] | **6** | 0| Ukraine ![][flag_UA]  | [#1](https://osu.ppy.sh/community/matches/10800808) |
-|  Sweden ![][flag_SE]| 3 | **6** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10801986) |
-|  **Netherlands** ![][flag_NL]   | **6** | 0| China ![][flag_CN]    | [#1](https://osu.ppy.sh/community/matches/10803221) |
+| Russian Federation ![][flag_RU] | 5 | **6** |![][flag_KR] **South Korea**  | [#1](https://osu.ppy.sh/community/matches/10799208) |
+|  **Japan**  ![][flag_JP] | **6** | 0|![][flag_UA] Ukraine   | [#1](https://osu.ppy.sh/community/matches/10800808) |
+|  Sweden ![][flag_SE]| 3 | **6** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/10801986) |
+|  **Netherlands** ![][flag_NL]   | **6** | 0|![][flag_CN] China     | [#1](https://osu.ppy.sh/community/matches/10803221) |
 
 | Sunday, 2014-11-30 | | | | |
 | ---: |:---:|:---:|:---|:----:|
-| **South Korea** ![][flag_KR] | **6** | 5| Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10828929) |
-|  **Japan** ![][flag_JP]| **6** | 4| Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/10829960) |
-|  **Germany** ![][flag_DE]| **6** | 5| Austria ![][flag_AT]| [#1](https://osu.ppy.sh/community/matches/10835928) |
-|  United States ![][flag_US]  | 0 | **6** | **Poland** ![][flag_PL]  | [#1](https://osu.ppy.sh/community/matches/10837599) |
+| **South Korea** ![][flag_KR] | **6** | 5|![][flag_TW] Taiwan  | [#1](https://osu.ppy.sh/community/matches/10828929) |
+|  **Japan** ![][flag_JP]| **6** | 4|![][flag_NL] Netherlands  | [#1](https://osu.ppy.sh/community/matches/10829960) |
+|  **Germany** ![][flag_DE]| **6** | 5|![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10835928) |
+|  United States ![][flag_US]  | 0 | **6** |![][flag_PL] **Poland**   | [#1](https://osu.ppy.sh/community/matches/10837599) |
 
 ### Quarterfinals
 
 | Saturday, 2014-11-22 | | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  **Russian Federation** ![][flag_RU] | **5** | 1| Australia ![][flag_AU] | [#1](https://osu.ppy.sh/community/matches/10635177) |
-|  **Taiwan** ![][flag_TW]| **5** | 2| United Kingdom ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/10636683) |
-|  France  ![][flag_FR]| 1 | **5** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/10637580) |
-|  Argentina ![][flag_AR]| 0 | **5** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/10638992) |
+|  **Russian Federation** ![][flag_RU] | **5** | 1|![][flag_AU] Australia  | [#1](https://osu.ppy.sh/community/matches/10635177) |
+|  **Taiwan** ![][flag_TW]| **5** | 2|![][flag_GB] United Kingdom  | [#1](https://osu.ppy.sh/community/matches/10636683) |
+|  France  ![][flag_FR]| 1 | **5** |![][flag_CN] **China**  | [#1](https://osu.ppy.sh/community/matches/10637580) |
+|  Argentina ![][flag_AR]| 0 | **5** |![][flag_JP] **Japan**  | [#1](https://osu.ppy.sh/community/matches/10638992) |
 
 | Sunday, 2014-11-23| | | | |
 | ---: |:---:|:---:|:---|:----:|
-| **Poland** ![][flag_PL] | **5** | 2| South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/10669681) |
-|  **Germany** ![][flag_DE]| **5** | 4| Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/10671115) |
-|  Ukraine  ![][flag_UA]  | 0| **5** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/10672689) |
-|  **United States** ![][flag_US] | **5** | 4| Sweden ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/10674065) |
+| **Poland** ![][flag_PL] | **5** | 2|![][flag_KR] South Korea  | [#1](https://osu.ppy.sh/community/matches/10669681) |
+|  **Germany** ![][flag_DE]| **5** | 4|![][flag_NL] Netherlands  | [#1](https://osu.ppy.sh/community/matches/10671115) |
+|  Ukraine  ![][flag_UA]  | 0| **5** |![][flag_AT] **Austria**  | [#1](https://osu.ppy.sh/community/matches/10672689) |
+|  **United States** ![][flag_US] | **5** | 4|![][flag_SE] Sweden  | [#1](https://osu.ppy.sh/community/matches/10674065) |
 
 ### Round of 16
 
 | Sunday, 2014-11-16| | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  China ![][flag_CN]  | 2 | **5** | **South Korea** ![][flag_KR]    | [#1](https://osu.ppy.sh/community/matches/10507941) |
-|  Australia ![][flag_AU]| 2 | **5** | **Netherlands** ![][flag_NL]    | [#1](https://osu.ppy.sh/community/matches/10508932) |
-|  **Ukraine** ![][flag_UA]   | **5** | 1| Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10509978) |
-|  **Sweden** ![][flag_SE]| **5** | 3| Japan ![][flag_JP]| [#1](https://osu.ppy.sh/community/matches/10510938) |
-|  **Poland** ![][flag_PL]| **5** | 1| France ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/10517306) |
-|  **Germany** ![][flag_DE]   | **5** | 3| Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/10518861) |
-|  United Kingdom ![][flag_GB]| 2 | **5** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/10520060) |
-| Argentina ![][flag_AR] | 2 | **5** | **United States** ![][flag_US]  | [#1](https://osu.ppy.sh/community/matches/10521646) |
+|  China ![][flag_CN]  | 2 | **5** |![][flag_KR] **South Korea**     | [#1](https://osu.ppy.sh/community/matches/10507941) |
+|  Australia ![][flag_AU]| 2 | **5** |![][flag_NL] **Netherlands**     | [#1](https://osu.ppy.sh/community/matches/10508932) |
+|  **Ukraine** ![][flag_UA]   | **5** | 1|![][flag_TW] Taiwan  | [#1](https://osu.ppy.sh/community/matches/10509978) |
+|  **Sweden** ![][flag_SE]| **5** | 3|![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/10510938) |
+|  **Poland** ![][flag_PL]| **5** | 1|![][flag_FR] France  | [#1](https://osu.ppy.sh/community/matches/10517306) |
+|  **Germany** ![][flag_DE]   | **5** | 3|![][flag_RU] Russian Federation  | [#1](https://osu.ppy.sh/community/matches/10518861) |
+|  United Kingdom ![][flag_GB]| 2 | **5** |![][flag_AT] **Austria**  | [#1](https://osu.ppy.sh/community/matches/10520060) |
+| Argentina ![][flag_AR] | 2 | **5** |![][flag_US] **United States**   | [#1](https://osu.ppy.sh/community/matches/10521646) |
 
 ### Group Stage
 
 | Saturday, 2014-11-08| | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  New Zealand ![][flag_NZ] | 1| **4** | **Philippines** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/10316251) |
-|  Lithuania ![][flag_LT]  | 2| **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10315808) |
-|  Indonesia ![][flag_ID]  | 1| **4** | **Australia** ![][flag_AU]   | [#1](https://osu.ppy.sh/community/matches/10315815) |
-|  Malaysia ![][flag_MY]   | 1| **4** | **China** ![][flag_CN]| [#1](https://osu.ppy.sh/community/matches/10317033) |
-|  Hong Kong ![][flag_HK]  | 0| **4** | **Netherlands** ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/10317030) |
-|  Singapore ![][flag_SG]  | 3| **4** | **Finland** ![][flag_FI]| [#1](https://osu.ppy.sh/community/matches/10318242) |
-|  Denmark ![][flag_DK]| 1| **4** | **Russian Federation** ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/10318251) |
-|  Portugal  ![][flag_PT]  | 0| **4** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/10318259) |
-|  **Argentina** ![][flag_AR] | **4** | 3| Philippines ![][flag_PH]| [#1](https://osu.ppy.sh/community/matches/10319701) |
-| Hong Kong ![][flag_HK]   | 0| **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/10319710) |
-|  **Denmark** ![][flag_DK] | **4** | 1| Malaysia ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/10321204) |
-| Russian Federation ![][flag_RU] | 1| **4** | **China** ![][flag_CN]| [#1](https://osu.ppy.sh/community/matches/10321220) |
-|  Portugal ![][flag_PT]   | 0| **4** | **Italy** ![][flag_IT]| [#1](https://osu.ppy.sh/community/matches/10321241) |
-|  Finland ![][flag_FI]| 1| **4** | **United Kingdom** ![][flag_GB]| [#1](https://osu.ppy.sh/community/matches/10328581) |
-| Lithuania ![][flag_LT]   | 1| **4** | **Norway** ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/10328584) |
-| Canada  ![][flag_CA] | 0| **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/10328588) |
-|  Chile ![][flag_CL]| 1| **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/10330980) |
-|  Canada ![][flag_CA]| 2| **4** | **Netherlands** ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/10330997) |
-|  **Ukraine** ![][flag_UA] | **4** | 2| Brazil ![][flag_BR]   | [#1](https://osu.ppy.sh/community/matches/10331007) |
-|  Finland ![][flag_FI]| 0| **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10331027) |
-| Argentina  ![][flag_AR]  | 3| **4** | **Austria** ![][flag_AT]| [#1](https://osu.ppy.sh/community/matches/10332923) |
-|  Mexico ![][flag_MX]| 0| **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/10332927) |
-|  Norway ![][flag_NO]| 1| **4** | **Sweden** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/10332930) |
-| Italy ![][flag_IT] | 3| **4** | **Germany** ![][flag_DE]| [#1](https://osu.ppy.sh/community/matches/10332931) |
-|  New Zealand ![][flag_NZ]| 0| **4** | **Argentina** ![][flag_AR]   | [#1](https://osu.ppy.sh/community/matches/10334740) |
-|  United Kingdom ![][flag_GB]| 3| **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10334747) |
-|  Chile ![][flag_CL]| 2| **4** | **Australia** ![][flag_AU]   | [#1](https://osu.ppy.sh/community/matches/10336251) |
-| Mexico ![][flag_MX] | 0| **4** | **Japan** ![][flag_JP]| [#1](https://osu.ppy.sh/community/matches/10336267) |
+|  New Zealand ![][flag_NZ] | 1| **4** |![][flag_PH] **Philippines**  | [#1](https://osu.ppy.sh/community/matches/10316251) |
+|  Lithuania ![][flag_LT]  | 2| **4** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/10315808) |
+|  Indonesia ![][flag_ID]  | 1| **4** |![][flag_AU] **Australia**    | [#1](https://osu.ppy.sh/community/matches/10315815) |
+|  Malaysia ![][flag_MY]   | 1| **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10317033) |
+|  Hong Kong ![][flag_HK]  | 0| **4** |![][flag_NL] **Netherlands**  | [#1](https://osu.ppy.sh/community/matches/10317030) |
+|  Singapore ![][flag_SG]  | 3| **4** |![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/10318242) |
+|  Denmark ![][flag_DK]| 1| **4** |![][flag_RU] **Russian Federation**  | [#1](https://osu.ppy.sh/community/matches/10318251) |
+|  Portugal  ![][flag_PT]  | 0| **4** |![][flag_KR] **South Korea**  | [#1](https://osu.ppy.sh/community/matches/10318259) |
+|  **Argentina** ![][flag_AR] | **4** | 3|![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/10319701) |
+| Hong Kong ![][flag_HK]   | 0| **4** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/10319710) |
+|  **Denmark** ![][flag_DK] | **4** | 1|![][flag_MY] Malaysia  | [#1](https://osu.ppy.sh/community/matches/10321204) |
+| Russian Federation ![][flag_RU] | 1| **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10321220) |
+|  Portugal ![][flag_PT]   | 0| **4** |![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/10321241) |
+|  Finland ![][flag_FI]| 1| **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/10328581) |
+| Lithuania ![][flag_LT]   | 1| **4** |![][flag_NO] **Norway**  | [#1](https://osu.ppy.sh/community/matches/10328584) |
+| Canada  ![][flag_CA] | 0| **4** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/10328588) |
+|  Chile ![][flag_CL]| 1| **4** |![][flag_FR] **France**  | [#1](https://osu.ppy.sh/community/matches/10330980) |
+|  Canada ![][flag_CA]| 2| **4** |![][flag_NL] **Netherlands**  | [#1](https://osu.ppy.sh/community/matches/10330997) |
+|  **Ukraine** ![][flag_UA] | **4** | 2|![][flag_BR] Brazil    | [#1](https://osu.ppy.sh/community/matches/10331007) |
+|  Finland ![][flag_FI]| 0| **4** |![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/10331027) |
+| Argentina  ![][flag_AR]  | 3| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10332923) |
+|  Mexico ![][flag_MX]| 0| **4** |![][flag_BR] **Brazil**  | [#1](https://osu.ppy.sh/community/matches/10332927) |
+|  Norway ![][flag_NO]| 1| **4** |![][flag_SE] **Sweden**  | [#1](https://osu.ppy.sh/community/matches/10332930) |
+| Italy ![][flag_IT] | 3| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10332931) |
+|  New Zealand ![][flag_NZ]| 0| **4** |![][flag_AR] **Argentina**    | [#1](https://osu.ppy.sh/community/matches/10334740) |
+|  United Kingdom ![][flag_GB]| 3| **4** |![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/10334747) |
+|  Chile ![][flag_CL]| 2| **4** |![][flag_AU] **Australia**    | [#1](https://osu.ppy.sh/community/matches/10336251) |
+| Mexico ![][flag_MX] | 0| **4** | ![][flag_JP]**Japan** | [#1](https://osu.ppy.sh/community/matches/10336267) |
 
 | Sunday, 2014-11-09| | | | |
 | ---: |:---:|:---:|:---|:----:|
-|  Norway ![][flag_NO]  | 1| **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10348348) |
-|  New Zealand ![][flag_NZ]| 0| **4** | **Austria** ![][flag_AT]| [#1](https://osu.ppy.sh/community/matches/10348353) |
-|  Indonesia ![][flag_ID]| 2| **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/10348356) |
-|  South Korea ![][flag_KR]| 3| **4** | **Germany** ![][flag_DE]| [#1](https://osu.ppy.sh/community/matches/10349347) |
-|  Brazil  ![][flag_BR] | 0| **4** | **Japan** ![][flag_JP]| [#1](https://osu.ppy.sh/community/matches/10349350) |
-|  **France** ![][flag_FR]| **4** | 0| Australia ![][flag_AU]| [#1](https://osu.ppy.sh/community/matches/10350503) |
-|  Singapore ![][flag_SG]| 0| **4** | **United Kingdom** ![][flag_GB]| [#1](https://osu.ppy.sh/community/matches/10350506) |
-| Lithuania ![][flag_LT] | 2| **4** | **Sweden** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/10350508) |
-|  Malaysia ![][flag_MY]| 2| **4** | **Russian Federation** ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/10350512) |
-|  Portugal ![][flag_PT]| 0| **4** | **Germany** ![][flag_DE]| [#1](https://osu.ppy.sh/community/matches/10352331) |
-|  Italy  ![][flag_IT]  | 2| **4** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/10352168) |
-| Ukraine ![][flag_UA]  | 1| **4** | **Japan** ![][flag_JP]| [#1](https://osu.ppy.sh/community/matches/10352111) |
-| Philippines ![][flag_PH] | 0| **4** | **Austria** ![][flag_AT]| [#1](https://osu.ppy.sh/community/matches/10352118) |
-|  Sweden ![][flag_SE]  | 1| **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/10353334) |
-|  **Indonesia** ![][flag_ID]  | **4** | 0| Chile ![][flag_CL]    | -win by default-   |
-|  Denmark ![][flag_DK] | 1| **4** | **China** ![][flag_CN]| [#1](https://osu.ppy.sh/community/matches/10353345) |
-|  **Netherlands** ![][flag_NL]| **4** | 2| Poland ![][flag_PL]   | [#1](https://osu.ppy.sh/community/matches/10353347) |
-|  Mexico  ![][flag_MX] | 2| **4** | **Ukraine** ![][flag_UA]| [#1](https://osu.ppy.sh/community/matches/10355079) |
-| Hong Kong ![][flag_HK] | 3| **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
-|  Singapore ![][flag_SG]| 1| **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
+|  Norway ![][flag_NO]  | 1| **4** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/10348348) |
+|  New Zealand ![][flag_NZ]| 0| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10348353) |
+|  Indonesia ![][flag_ID]| 2| **4** |![][flag_FR] **France**  | [#1](https://osu.ppy.sh/community/matches/10348356) |
+|  South Korea ![][flag_KR]| 3| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10349347) |
+|  Brazil  ![][flag_BR] | 0| **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10349350) |
+|  **France** ![][flag_FR]| **4** | 0|![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/10350503) |
+|  Singapore ![][flag_SG]| 0| **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/10350506) |
+| Lithuania ![][flag_LT] | 2| **4** |![][flag_SE] **Sweden**  | [#1](https://osu.ppy.sh/community/matches/10350508) |
+|  Malaysia ![][flag_MY]| 2| **4** |![][flag_RU] **Russian Federation**  | [#1](https://osu.ppy.sh/community/matches/10350512) |
+|  Portugal ![][flag_PT]| 0| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10352331) |
+|  Italy  ![][flag_IT]  | 2| **4** |![][flag_KR] **South Korea**  | [#1](https://osu.ppy.sh/community/matches/10352168) |
+| Ukraine ![][flag_UA]  | 1| **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10352111) |
+| Philippines ![][flag_PH] | 0| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10352118) |
+|  Sweden ![][flag_SE]  | 1| **4** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/10353334) |
+|  **Indonesia** ![][flag_ID]  | **4** | 0|![][flag_CL] Chile     | -win by default- |
+|  Denmark ![][flag_DK] | 1| **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10353345) |
+|  **Netherlands** ![][flag_NL]| **4** | 2|![][flag_PL] Poland    | [#1](https://osu.ppy.sh/community/matches/10353347) |
+|  Mexico  ![][flag_MX] | 2| **4** |![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/10355079) |
+| Hong Kong ![][flag_HK] | 3| **4** |![][flag_CA] **Canada**  | [#1](https://osu.ppy.sh/community/matches/10355083) |
+|  Singapore ![][flag_SG]| 1| **4** |![][flag_US] **United States**  | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
 ------------------------------------------------------------------------
 
@@ -381,20 +381,20 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ### Tournament Rules
 
-1.  The osu! World Cup is a country-based 4v4 team tournament
-2.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
-3.  Match schedule will be settled by Tournament Management (see below).
-4.  If no staff or referee is available, the match will be postponed.
-5.  Failed player's score do not get added to the team score.
-    -   Reviving and surviving during a map gets considered as passing it.
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
-7.  If the beatmap ends in a draw, the game will be nullified.
-8.  If a player disconnects, they get treated as if they failed the beatmap.
-9.  Beatmaps cannot be reused in the same match unless the beatmap was nullified.
+1. The osu! World Cup is a country-based 4v4 team tournament
+2. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+   - One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
+3. Match schedule will be settled by Tournament Management (see below).
+4. If no staff or referee is available, the match will be postponed.
+5. Failed player's score do not get added to the team score.
+   - Reviving and surviving during a map gets considered as passing it.
+6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. If the beatmap ends in a draw, the game will be nullified.
+8. If a player disconnects, they get treated as if they failed the beatmap.
+9. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 10. If less than 4 players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed.
-    -   You may exchange only one player once per beatmap.
+    - You may exchange only one player once per beatmap.
 12. Lag is not a valid reason to nullify a beatmap.
 13. In Group stage, '-win by default-' will be considered as win by 4:0, +2.5 score difference ratio.
 14. Unexpected incidences are handled by the tournament management.
@@ -402,87 +402,87 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ### Tournament Registration
 
-1.  Your team needs **at least 6 players** to participate.
-2.  The maximum team size is 8.
-3.  You must specify a captain who will represent the team.
-4.  We do not differ between core players and back-up players
-5.  Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-6.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
-    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
-    -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
-7.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
-8.  The Tournament Management may reject registrations due to insufficient gameplay abilities.
-9.  The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
-10.  The total amount of teams is 32.
-11.  All successfully registered teams will be published after Registration Phase.
--   Captains will get notified in case their roster has been accepted or rejected.
-12.  Mapset selectors must not participate as a player in this tournament.
+1. Your team needs **at least 6 players** to participate.
+2. The maximum team size is 8.
+3. You must specify a captain who will represent the team.
+4. We do not differ between core players and back-up players
+5. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
+6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+   - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
+7. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
+8. The Tournament Management may reject registrations due to insufficient gameplay abilities.
+9. The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
+10. The total amount of teams is 32.
+11. All successfully registered teams will be published after Registration Phase.
+    - Captains will get notified in case their roster has been accepted or rejected.
+12. Mapset selectors must not participate as a player in this tournament.
 
 ### Stage Instructions
 
-1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-2.  All the teams from each group will face each other.
-3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-4.  Most matches won.
-5.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-6.  Most maps won.
-7.  Have higher `∑{(total score difference) / (maximum score)}`.
-8.  Winner of the rematch.
-9.  The top 2 teams of each group will move on to the Double Elimination Stages.
-10.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-11.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+4. Most matches won.
+5. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+6. Most maps won.
+7. Have higher `∑{(total score difference) / (maximum score)}`.
+8. Winner of the rematch.
+9. The top 2 teams of each group will move on to the Double Elimination Stages.
+10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+11. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
 | Stage    | Match ID  |
-|-----------------|-------------------------|
+|:--|:--|
 | Round of 16| A, B, C, D, E, F, G, H  |
 | Quarter-finals  | I, J, K, L & R, S, T, U |
 | Semi-finals| M, N & V, W, X, Y, Z,AA |
 | Finals - Week 1 | O & AB, AC, AD, AE |
 | Finals - Week 2 | P, Q |
 
-12.  **Winning conditions:**
--   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
--   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
--   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+12. **Winning conditions:**
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 
-1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-2.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
-3.  Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC 2014: TeamBlue vs TeamRed"
-4.  The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-5.  Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited.
-6.  Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-7.  Both vetos must always be used.
-8.  Both captains must use "!roll" to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
-9.  Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
-10.  Captains can pick freely from any bracket.
-11.  In case of a tie, the tiebreaker map must be played.
-12.  Results will be published on the wiki and via the Statistics website.
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
+2. The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+3. Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC 2014: TeamBlue vs TeamRed"
+4. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+5. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited.
+6. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
+7. Both vetos must always be used.
+8. Both captains must use "!roll" to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
+9. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+10. Captains can pick freely from any bracket.
+11. In case of a tie, the tiebreaker map must be played.
+12. Results will be published on the wiki and via the Statistics website.
 
 ### Mappool Instructions
 
-1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
-3.  Each mappool consists of 19 maps in total.
-4.  Each mappool has one tiebreaker.
-5.  The NoMod bracket will be played with no modes activated
-6.  The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7.  The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, Flashlight or no mod at all.
-8.  Players may select more than one mode.
-9.  When playing a FreeMod map, at least 2 players of each team must have minimum one mode activated.
-10.  The tiebreaker will be played under FreeMod conditions.
-11.  When playing the tiebreaker, no one needs to have a mode activated.
-12.  The size of the NoMod bracket will be 6 in all stages.
+1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
+2. Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
+3. Each mappool consists of 19 maps in total.
+4. Each mappool has one tiebreaker.
+5. The NoMod bracket will be played with no modes activated
+6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, Flashlight or no mod at all.
+8. Players may select more than one mode.
+9. When playing a FreeMod map, at least 2 players of each team must have minimum one mode activated.
+10. The tiebreaker will be played under FreeMod conditions.
+11. When playing the tiebreaker, no one needs to have a mode activated.
+12. The size of the NoMod bracket will be 6 in all stages.
 13. The size of the mod-specific brackets will be 3 in all stages.
 
 ### Scheduling Instructions
 
-1.  Each stage will be held on **a single weekend**.
-2.  Matches in Group Stage may overlap.
-3.  All Double Elimination Stages will be held on either Saturday or Sunday.
-4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+1. Each stage will be held on **a single weekend**.
+2. Matches in Group Stage may overlap.
+3. All Double Elimination Stages will be held on either Saturday or Sunday.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
+5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

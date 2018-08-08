@@ -11,8 +11,8 @@ The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament 
 
 ## Tournament Schedule
 
-| Event    | Timestamp |
-|---------:|:----------|
+| Event | Timestamp |
+| --: | :-- |
 | Registration Phase | 2016-10-02/2016-10-16    |
 | Live Drawings      | 2016-11-04 (12:00 UTC+0) |
 | Group Stage        | 2016-11-12/2016-11-13    |
@@ -37,7 +37,7 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 The osu! World Cup 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| -------- | ------- |
+| :-- |:-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366 "Loctav"), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703 "p3n"), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565 "Deif"), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257 "shARPII") |
 | Map Selectors | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145 "Asahina Momoko"), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405 "Okorin"), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961 "Skystar") |
 | Commentators | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe"), ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832 "Daikyi"), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983 "Doomsday"), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660 "Evrien"), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656 "juankristal"), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232 "Rime"), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843 "Slainv"), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347 "ztrot") |
@@ -92,13 +92,16 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ## Groups
 
-
-| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| ![][flag_FI] Finland | ![][flag_IT] Italy | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_CA] Canada| ![][flag_AT] Austria | ![][flag_ID] Indonesia | ![][flag_BR] Brazil|
-| ![][flag_FR] France | ![][flag_PH] Philippines | ![][flag_MX] Mexico | ![][flag_DE] Germany | ![][flag_CL] Chile | ![][flag_DK] Denmark| ![][flag_NL] Netherlands | ![][flag_HK] Hong Kong |
-| ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_ES] Spain | ![][flag_GR] Greece| ![][flag_CN] China| ![][flag_NO] Norway | ![][flag_RU] Russian Federation| ![][flag_SE] Sweden|
-| ![][flag_SG] Singapore | ![][flag_UA] Ukraine | ![][flag_TW] Taiwan | ![][flag_LV] Latvia | ![][flag_IL] Israel | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
+| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_FR] France | ![][flag_FI] Finland | ![][flag_NZ] New Zealand | ![][flag_SG] Singapore |
+| **B** | ![][flag_PL] Poland | ![][flag_IT] Italy | ![][flag_PH] Philippines | ![][flag_UA] Ukraine |
+| **C** | ![][flag_TW] Taiwan | ![][flag_MX] Mexico | ![][flag_AR] Argentina | ![][flag_ES] Spain |
+| **D** | ![][flag_DE] Germany | ![][flag_AU] Australia | ![][flag_LV] Latvia | ![][flag_GR] Greece |
+| **E** | ![][flag_CN] China | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_IL] Israel |
+| **F** | ![][flag_US] United States | ![][flag_NO] Norway | ![][flag_AT] Austria | ![][flag_DK] Denmark |
+| **G** | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_NL] Netherlands | ![][flag_ID] Indonesia |
+| **H** | ![][flag_GB] United Kingdom | ![][flag_BR] Brazil | ![][flag_HK] Hong Kong | ![][flag_SE] Sweden |
 
 -----------
 
@@ -256,27 +259,27 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ### Grand Finals
 
 | Sunday, 2016-12-18 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  United States ![][flag_US]| 2 | **7** | ![][flag_CN] **China**         | [#1](https://osu.ppy.sh/community/matches/29702438) |
 |  China  ![][flag_CN]       | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
 
 ### Finals
 
 | Saturday, 2016-12-10 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea    | [#1](https://osu.ppy.sh/community/matches/29524076) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_TW] Taiwan         | [#1](https://osu.ppy.sh/community/matches/29530355) |
 |  Germany   ![][flag_DE]         | 2 | **6** | ![][flag_CN] China          | [#1](https://osu.ppy.sh/community/matches/29531576) |
 |  **China** ![][flag_CN]         | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
 
 | Sunday, 2016-12-11 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **China** ![][flag_CN]| **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
 
 ### Semifinals
 
 | Saturday, 2016-12-03 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **South Korea**  ![][flag_KR]  | **6** | 2 | ![][flag_TW] Taiwan      | [#1](https://osu.ppy.sh/community/matches/29379804) |
 |  Russian Federation ![][flag_RU]| 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
 |  Finland   ![][flag_FI]         | 0 | **6** | ![][flag_FR] **France**  | [#1](https://osu.ppy.sh/community/matches/29383842) |
@@ -285,14 +288,14 @@ The osu! World Cup 2016 was run by various community members by distributing the
 |  Canada  ![][flag_CA]           | 0 | **6** | ![][flag_BR] **Poland**  | [#1](https://osu.ppy.sh/community/matches/29391121) |
 
 | Sunday, 2016-12-04 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  France ![][flag_FR]| 2 | **6** | ![][flag_DE] **Germany**        | [#1](https://osu.ppy.sh/community/matches/29413616) |
 |  Poland ![][flag_PL]| 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
 
 ### Quarterfinals
 
 | Saturday, 2016-11-26 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  Australia  ![][flag_AU]     | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/29236130) |
 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany                | [#1](https://osu.ppy.sh/community/matches/29237189) |
 |  **China**   ![][flag_CN]    | **5** | 2 | ![][flag_PL] Poland                 | [#1](https://osu.ppy.sh/community/matches/29238760) |
@@ -305,7 +308,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ### Round of 16
 
 | Saturday, 2016-11-19 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **China**  ![][flag_CN]       | **5** | 2 | ![][flag_AU] Australia          | [#1](https://osu.ppy.sh/community/matches/29093549) |
 |  Italy  ![][flag_IT]           | 1 | **5** | ![][flag_KR] **South Korea**    | [#1](https://osu.ppy.sh/community/matches/29094300) |
 |  Norway  ![][flag_NO]          | 4 | **5** | ![][flag_TW] **Taiwan**         | [#1](https://osu.ppy.sh/community/matches/29095270) |
@@ -318,7 +321,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ### Group Stage
 
 | Saturday, 2016-11-12 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **New Zealand**  ![][flag_NZ]      | **4** | 1 | ![][flag_SG] Singapore       | [#1](https://osu.ppy.sh/community/matches/28949962) |
 |  **South Korea**  ![][flag_KR]      | **4** | 0 | ![][flag_ID] Indonesia       | [#1](https://osu.ppy.sh/community/matches/28949969) |
 | France    ![][flag_FR]              | 2 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/28950619) |
@@ -346,7 +349,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 |  **United Kingdom** ![][flag_GB]    | **4** | 1 | ![][flag_BR] Brazil          | [#1](https://osu.ppy.sh/community/matches/28964827) |
 
 | Sunday, 2016-11-13 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 |  **Taiwan**  ![][flag_TW]      | **4** | 3 | ![][flag_MX] Mexico              | [#1](https://osu.ppy.sh/community/matches/28973717) |
 |  **China**  ![][flag_CN]       | **4** | 3 | ![][flag_CA] Canada              | [#1](https://osu.ppy.sh/community/matches/28973718) |
 | **Finland** ![][flag_FI]       | **4** | 1 | ![][flag_NZ]  New Zealand        | [#1](https://osu.ppy.sh/community/matches/28979458) |
@@ -376,19 +379,19 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ### Tournament Rules
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
-   * This competition is planned as a 4 versus 4 setup.
+   - This competition is planned as a 4 versus 4 setup.
 2. Map scoring is based on Score V2.
 3. The maps for each round will be announced by the tournament management in advance on the weekend before the actual matches take place. Only these will be used during the respective matches.
-   * There will be a NoMod, Hidden, HardRock, DoubleTime and FreeMod bracket.
-   * One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - There will be a NoMod, Hidden, HardRock, DoubleTime and FreeMod bracket.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedules will be settled by the Tournament Management. Specific regulations can be found at the bottom.
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
-   * Reviving and surviving during a map gets considered as passing it.
+   - Reviving and surviving during a map gets considered as passing it.
 7. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
-   1. Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
+   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 12. Exchanging players during a match is allowed.
@@ -398,15 +401,15 @@ The osu! World Cup 2016 was run by various community members by distributing the
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules "Rules"). All chat rules apply to the multiplayer chatrooms, too.
-    1. Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
-    * Exclusion of specific players for one map
-    * Exclusion of specific players for an entire match
-    * Declaring the match as Lost by Default
-    * Disqualification from the entire tournament
-    * Disqualification from the current and future official tournaments until appealed
+    - Exclusion of specific players for one map
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
 22.  Any modification of these rules will be announced.
 
 ### Tournament Registration
@@ -427,16 +430,16 @@ The osu! World Cup 2016 was run by various community members by distributing the
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-   1. This may change according to the final amount of formed teams.
+   - This may change according to the final amount of formed teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   1. Most matches won.
-   2. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-   3. Most maps won.
-   4. Have higher `∑{(total score difference) / (maximum score)}`.
-   5. Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - Most maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   1. This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -450,40 +453,40 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 #### Winning Conditions
 
-- In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-- In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-- In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
-- In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
+1. In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+2. In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+3. In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
+4. In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   1. Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
-   2. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score v2'. Room name must be "OWC 2016: TeamBlue vs TeamRed".
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable or inappropriate content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
-   1. The winner of the !roll starts picking the first beatmap of the match.
-   2. The loser of the !roll starts banning.
+   - The winner of the !roll starts picking the first beatmap of the match.
+   - The loser of the !roll starts banning.
 6. Captains may pick freely from any bracket.
-   1. In case of a tie, the tiebreaker map must be played.
+   - In case of a tie, the tiebreaker map must be played.
 7. Results of all stages will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-   1. Finals Week 1 & Finals Week 2 use the same mappool.
+   - Finals Week 1 & Finals Week 2 use the same mappool.
 2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated by all current players.
 7. The FreeMod bracket will have FreeMod activated.
-   1. Possible mod choices are: Hidden, HardRock and Hidden+HardRock
-   2. When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
+   - Possible mod choices are: Hidden, HardRock and Hidden+HardRock
+   - When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
 8. The tiebreaker will be played under FreeMod conditions.
-   1. When playing the tiebreaker, no one needs to have a mod activated.
+   - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 6 in all stages.
 10. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages.
 11. The size of the FreeMod bracket will be 3 in all stages.
@@ -494,7 +497,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 2. Matches in Group Stage may overlap.
 3. All matches will be held on either Saturday or Sunday.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   1. In the stages Quarter-finals and higher: Please inform tournament management before Sunday if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+   - In the stages Quarter-finals and higher: Please inform tournament management before Sunday if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
