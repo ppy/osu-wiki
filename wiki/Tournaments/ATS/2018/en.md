@@ -29,7 +29,7 @@ The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-o
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 month of osu!supporter tag & userpage banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 month of osu!supporter tag, userpage banner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
@@ -39,7 +39,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizers | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
+| Organisers | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | Map Selectors | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | Commentators | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
 | Streamer | ![][flag_JP] [SakuraFrost-](/users/8147993) |
@@ -59,8 +59,6 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ## Participants
 
-### Qualified Participants
-
 | Seed | Members |
 | :-- | :-- |
 | Top | ![][flag_JP] [butter0414](/users/7935022), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_JP] [KILI3343](/users/11233651), ![][flag_MY] [Jerry](/users/605973), ![][flag_TW] [qoot8123](/users/766371), ![][flag_TW] [Smallwu](/users/2512120), ![][flag_TW] [TS\_LewisLuo](/users/4337536), ![][flag_JP] [toorun12](/users/10349712) |
@@ -68,9 +66,9 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | Low | ![][flag_JP] [Sanawieck](/users/4125666), ![][flag_KR] [404 AccNotFound](/users/980092), ![][flag_ID] [Shirai-](/users/4221845), ![][flag_MY] [Dakry](/users/1994145), ![][flag_AU] [SpiritsUnite](/users/1198002), ![][flag_JP] [GlinT fraulein](/users/7364981), ![][flag_ID] [Braixen](/users/4871378), ![][flag_MY] [CrabCow](/users/9755504) |
 | Bottom | ![][flag_JP] [Briesmas](/users/2865172), ![][flag_PH] [Micka](/users/2770422), ![][flag_JP] [puropera209](/users/2545134), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_VN] [Taiko\_VN12](/users/10072828), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_ID] [\_CaKy\_](/users/9828983), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_ID] [Jin Kun](/users/6896699), ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_MY] [Minisora](/users/9627666), ![][flag_PH] [-Zephy-](/users/6862483) |
 
-### Groups
+## Groups
 
-| Group | Top | High | Low | Bottom |
+| Group | Top Seed | High Seed | Low Seed | Bottom Seed |
 | :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_MY] [Jerry](/users/605973) | ![][flag_JP] [Xin Leviathan](/users/9575624) | ![][flag_KR] [404 AccNotFound](/users/980092) | ![][flag_VN] [Taiko\_VN12](/users/10072828) |
 | B | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](/users/468029) | ![][flag_MY] [Dakry](/users/1994145) | ![][flag_AU] [Beat43210](/users/5664171) |
@@ -431,14 +429,14 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Tournament Rules
 
-1. The Asian Taiko Showdown is a one-on-one tournament, played on the osu!taiko game mode.
+1. The Asian Taiko Showdown is a one-on-one osu!taiko tournament.
 2. In order for your registration to count, you must meet following conditions:
     - Participant must fill out the provided form.
     - Participant's Flag on their profile must be a country from **Asia.**
     - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
     - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
-4. Match schedule will be settled by the Tournament Management (see below).
+4. Match schedule will be settled by the Organisers (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed plays will result with the enemy's winning by default.
 7. If the match ends in a draw, the game will be nullified and proceed to the next pick, selected by the next player.
@@ -469,14 +467,14 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning.
 6. Players may pick freely from any bracket.
-   - In case of a tie, the tiebreaker map must be played.
+   - In case of a tie, the Tiebreaker map must be played.
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 32, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
+1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
 2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
-4. Each mappool has one tiebreaker.
+4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
 6. The Special bracket is harder version of NoMod bracket with more map variants, it will be played with no mods activated.
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
@@ -496,9 +494,9 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 1. Each stage will be held on **a single weekend**.
 2. All Double Elimination Stages will be held on either Saturday or Sunday, UTC +7.
-3. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday after current stage is finished. Reschedules are allowed, however must be agreed on by both players and proof must be provided.
+3. Scheduling will be handled by the Organisers. Schedules will be released on the Sunday after current stage is finished. Reschedules are allowed, however must be agreed on by both players and proof must be provided.
 
-### Winning conditions
+### Winning Conditions
 
 1. In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
 2. In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)

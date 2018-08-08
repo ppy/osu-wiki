@@ -71,7 +71,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 小組
 
-| Group | Top | High | Low | Bottom |
+| Group | Top Seed | High Seed | Low Seed | Bottom Seed |
 | :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_MY] [Jerry](/users/605973) | ![][flag_JP] [Xin Leviathan](/users/9575624) | ![][flag_KR] [404 AccNotFound](/users/980092) | ![][flag_VN] [Taiko\_VN12](/users/10072828) |
 | B | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](/users/468029) | ![][flag_MY] [Dakry](/users/1994145) | ![][flag_AU] [Beat43210](/users/5664171) |

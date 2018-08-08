@@ -60,8 +60,6 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ## 참가자
 
-### 예선 참가자 명단
-
 | Seed | 멤버 |
 | :-- | :-- |
 | Top | ![][flag_JP] [butter0414](/users/7935022), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_JP] [KILI3343](/users/11233651), ![][flag_MY] [Jerry](/users/605973), ![][flag_TW] [qoot8123](/users/766371), ![][flag_TW] [Smallwu](/users/2512120), ![][flag_TW] [TS\_LewisLuo](/users/4337536), ![][flag_JP] [toorun12](/users/10349712) |
@@ -69,9 +67,9 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 | Low | ![][flag_JP] [Sanawieck](/users/4125666), ![][flag_KR] [404 AccNotFound](/users/980092), ![][flag_ID] [Shirai-](/users/4221845), ![][flag_MY] [Dakry](/users/1994145), ![][flag_AU] [SpiritsUnite](/users/1198002), ![][flag_JP] [GlinT fraulein](/users/7364981), ![][flag_ID] [Braixen](/users/4871378), ![][flag_MY] [CrabCow](/users/9755504) |
 | Bottom | ![][flag_JP] [Briesmas](/users/2865172), ![][flag_PH] [Micka](/users/2770422), ![][flag_JP] [puropera209](/users/2545134), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_VN] [Taiko\_VN12](/users/10072828), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_ID] [\_CaKy\_](/users/9828983), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_ID] [Jin Kun](/users/6896699), ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_MY] [Minisora](/users/9627666), ![][flag_PH] [-Zephy-](/users/6862483) |
 
-### 그룹
+## 그룹
 
-| Group | Top | High | Low | Bottom |
+| Group | Top Seed | High Seed | Low Seed | Bottom Seed |
 | :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_MY] [Jerry](/users/605973) | ![][flag_JP] [Xin Leviathan](/users/9575624) | ![][flag_KR] [404 AccNotFound](/users/980092) | ![][flag_VN] [Taiko\_VN12](/users/10072828) |
 | B | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](/users/468029) | ![][flag_MY] [Dakry](/users/1994145) | ![][flag_AU] [Beat43210](/users/5664171) |
