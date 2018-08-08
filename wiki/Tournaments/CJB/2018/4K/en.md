@@ -9,13 +9,13 @@ The 4th CJB osu!mania 4K Tournament
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration | 2018-7-2/2018-7-13 |
-| Drawings | 2018-7-14 (20:30 UTC+8) |
-| Round of 16 | 2018-7-21/2018-7-22 |
-| Quarterfinals | 2018-7-28/2018-7-29 |
-| Semifinals | 2018-8-4/2018-8-5 |
-| Finals - Week 1 | 2018-8-11 |
-| Finals - Week 2 | 2018-8-13/2018-8-14 |
+| Registration | 2018-07-02/2018-07-013 |
+| Drawings | 2018-07-14 (20:30 UTC+8) |
+| Round of 16 | 2018-07-21/2018-07-22 |
+| Quarterfinals | 2018-07-28/2018-07-29 |
+| Semifinals | 2018-08-04/2018-8-05 |
+| Finals - Week 1 | 2018-08-11 |
+| Finals - Week 2 | 2018-08-13/2018-08-14 |
 
 ## Prizes
 
@@ -48,14 +48,14 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Match Schedule
 
-Mappool of _Finals - Week 2_ will be shown at 2018-08-10 15:00 (UTC+8).
+Mappool of *Finals - Week 2* will be shown at 2018-08-10 15:00 (UTC+8).
 
 ### Finals - Week 1
 
 #### Saturday, 11. August 2018
 
-| Match Time (UTC+8) | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
+| Match Time (UTC+8) | Player 1 |  |  | Player 2 | Match ID |
+| :-: | --: | --: | :-- | :-- | :-: |
 | 14:30 | Toki 0w0 | ![][flag_CN] | ![][flag_CN] | xyxyxy091 | 25 |
 | 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | IA daisuki | 26 |
 | 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Crystal | 28 |
@@ -65,19 +65,19 @@ Mappool of _Finals - Week 2_ will be shown at 2018-08-10 15:00 (UTC+8).
 
 #### Monday, 13. August 2018
 
-| Match Time | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
+| Match Time | Player 1 |  |  | Player 2 | Match ID |
+| :-: | --: | --: | :-- | :-- | :-: |
 | TBA | Loser of 28 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | Winner of 27 | 29 |
 
 #### Tuesday, 14. August 2018
 
-| Match Time | Player 1 | | | Player 2 | Match ID |
-| :--: | ---: | ---: | :--- | :--- | :--: |
+| Match Time | Player 1 |  |  | Player 2 | Match ID |
+| :-: | --: | --: | :-- | :-- | :-: |
 | TBA | Winner of 28 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | Winner of 29 | 30 |
 
-If _Winner of 28_ **lose** Match 30, Match 31 will start right after that: _Winner of 28_ vs _Winner of 29_.
+If *Winner of 28* **lose** Match 30, Match 31 will start right after that: *Winner of 28* vs *Winner of 29*.
 
-## Mappool
+## Mappools
 
 ### Finals - Week 1
 
@@ -163,20 +163,20 @@ If _Winner of 28_ **lose** Match 30, Match 31 will start right after that: _Winn
 - Tiebreaker
   - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)**
 
-## Result
+## Match Results
 
 ### Semifinals
 
 | No. | Saturday, 2018-08-04 |  |  |  | Comment |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | WBD |
+| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | -win by default- |
 | 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
 | 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
-| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | WBD |
+| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | -win by default- |
 
 | No. | Sunday, 2018-08-05 |  |  |  | Comment |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | WBD |
+| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | -win by default- |
 | 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
 | 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
 
@@ -184,15 +184,15 @@ If _Winner of 28_ **lose** Match 30, Match 31 will start right after that: _Winn
 
 | No. | Saturday, 2018-07-28 |  |  |  | Comment |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | WBD |
-| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | WBD |
+| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | -win by default- |
+| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | -win by default- |
 | 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
 | 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
 | No. | Sunday, 2018-07-29 |  |  |  | Comment |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | WBD |
+| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | -win by default- |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
 
@@ -202,7 +202,7 @@ Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
 
 | No. | Saturday, 2018-07-21 |  |  |  | Comment |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | WBD |
+| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | -win by default- |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
@@ -261,7 +261,7 @@ Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
 2. In order for your registration to count, you must meet the following conditions:
     - Participant's flag on their profile must be a country from **Asia**.
     - Participant uses Chinese as the primary language.
-    - Participant **should not get more than 285pp on any 4K map** _and_ **the sum of your five best 4K maps' pp is not greater than 1350**.
+    - Participant **should not get more than 285pp on any 4K map** *and* **the sum of your five best 4K maps' pp is not greater than 1350**.
     - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.
     - The quota of this tournament is **16**, first come first served.
 3. Successfully registered players will receive a confirmation email and will be posted on the players list.
@@ -273,7 +273,7 @@ Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
     - Pool of the Round of 16 and the Quarterfinals has **13** maps.
     - Pool of the Semifinals and the Finals has **15** maps.
 2. Each mappool has one Tiebreaker.
-3. All of the maps will be played under _FreeMod_ conditions.
+3. All of the maps will be played under *FreeMod* conditions.
 
 ### Match Instructions
 
@@ -281,7 +281,7 @@ Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
      - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
      - Player 1 and Player 2 must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
-3. Each player choose one map from the pool as the _Banned Map_. These maps can not be played during this match.
+3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.
 4. Each player must use `!roll` once in `#multiplayer`:
      - The losing roll picks the first banned map.
      - The winning roll picks the first map of the match.
