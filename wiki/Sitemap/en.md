@@ -239,7 +239,7 @@ tags:
 -   [Tournaments](/wiki/Tournaments)
     -   CMT 4K
         -   [2017](/wiki/Tournaments/CMT_4K/2017)
-    -   [Countries that participated in osu! tournaments](/wiki/Countries_that_participated_in_osu!_tournaments)
+    -   [Country Rankings](/wiki/Tournaments/Country_Rankings)
     -   CWC
         -   [2014](/wiki/Tournaments/CWC/2014)
         -   [2015](/wiki/Tournaments/CWC/2015)

@@ -82,7 +82,7 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 Zobacz także
 -------------
 
--   [Lista państw uczestniczących w turniejach osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [Lista państw uczestniczących w turniejach osu!](/wiki/Tournaments/Country_Rankings)
 -   [osu!tourney](/wiki/osu!tourney) (program używany do transmisji turniejów)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

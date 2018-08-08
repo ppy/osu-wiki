@@ -146,7 +146,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 Lihat juga
 ----------
 
--   [Daftar negara yang berpartisipasi dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [Daftar negara yang berpartisipasi dalam Turnamen osu!](/wiki/Tournaments/Country_Rankings)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk menyiarkan turnamen)
 
 [flag_AU]: /wiki/shared/flag/AU.gif

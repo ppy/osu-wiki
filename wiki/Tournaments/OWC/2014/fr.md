@@ -548,7 +548,7 @@ Règlement
 Liens divers
 -------------
 
--   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
+-   [Liste des pays ayant participé à des compétitions de osu!](/wiki/Tournaments/Country_Rankings)
 -   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/forum/t/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

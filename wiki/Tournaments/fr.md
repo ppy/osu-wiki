@@ -146,7 +146,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 Voir aussi
 --------
 
--   [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Country_Rankings)
 -   [osu!tourney](/wiki/osu!tourney) (Client utilisé pour le streaming de tournoi)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

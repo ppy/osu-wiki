@@ -73,7 +73,7 @@ Community
 参见
 ---------
 
--   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Country_Rankings)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

@@ -53,7 +53,7 @@ osu!mania World Cup
 Siehe auch
 ----------
 
--   [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Tournaments/Country_Rankings)
 -   [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
