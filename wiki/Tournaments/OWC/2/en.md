@@ -79,7 +79,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 ## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AU] Australia | ![][flag_HU] Hungary | ![][flag_ID] Indonesia | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_AR] Argentina |
 | ![][flag_DK] Denmark | ![][flag_NO] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] Republic of Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
