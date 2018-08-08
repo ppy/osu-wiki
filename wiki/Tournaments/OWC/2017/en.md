@@ -13,13 +13,13 @@ The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2017-10-13/2017-10-29           |
-| Live Drawings      | 2017-11-12 (14:00 UTC+0)        |
-| Group Stage        | 2017-11-18/2017-11-19           |
-| Round of 16        | 2017-11-25/2017-11-26           |
-| Quarterfinals      | 2017-12-02/2017-12-03           |
-| Semifinals         | 2017-12-09/2017-12-10           |
-| Finals             | 2017-12-15/2017-12-17           |
+| Registration Phase | 2017-10-13/2017-10-29 |
+| Live Drawings  | 2017-11-12 (14:00 UTC+0)  |
+| Group Stage  | 2017-11-18/2017-11-19 |
+| Round of 16  | 2017-11-25/2017-11-26 |
+| Quarterfinals  | 2017-12-02/2017-12-03 |
+| Semifinals | 2017-12-09/2017-12-10 |
+| Finals | 2017-12-15/2017-12-17 |
 
 ## Prizes
 
