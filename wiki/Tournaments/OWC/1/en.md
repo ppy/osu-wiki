@@ -8,7 +8,7 @@ tags:
 
 # osu! World Cup #1
 
-![OWC #1 Logo](logo.png)
+![OWC #1 Logo](img/logo.png)
 
 The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu! World Cup.
 
@@ -83,7 +83,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 
 ------------------------------------------------------------
 
-![OWC #1 Brackets](brackets.png)
+![OWC #1 Brackets](img/brackets.png)
 
 ---------------------------------------------------
 

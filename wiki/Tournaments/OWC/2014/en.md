@@ -5,7 +5,7 @@ tags:
 ---
 # osu! World Cup 2014
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 The **osu! World Cup 2014** (***OWC 2014***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu! World Cup.
 
@@ -100,7 +100,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ------------------------------------------------------------------------
 
-![OWC 2014 Brackets](brackets.jpg)
+![OWC 2014 Brackets](img/brackets.jpg)
 
 ------------------------------------------------------------------------
 

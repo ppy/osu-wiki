@@ -5,7 +5,7 @@ tags:
 ---
 # osu! World Cup 2017
 
-![OWC 2017 Logo](logo.png)
+![OWC 2017 Logo](img/logo.png)
 
 The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu! World Cup.
 
@@ -89,11 +89,11 @@ The osu! World Cup 2017 was run by various community members by distributing the
 
 ------------------------------------------------------------------------
 
-![OWC 2017 Podium](podium.jpg)
+![OWC 2017 Podium](img/podium.jpg)
 
 ------------------------------------------------------------------------
 
-![OWC 2017 Brackets](bracket.jpg)
+![OWC 2017 Brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 

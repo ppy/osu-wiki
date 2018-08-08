@@ -1,7 +1,7 @@
 osu! World Cup 2015
 ========================
 
-![OWC 2015 logo](logo.jpg)
+![OWC 2015 logo](img/logo.jpg)
 
 今年6度目を迎える **osu! World Cup 2015** (***OWC 2015*** ) は、[Tournament Management](https://osu.ppy.sh/g/26)が開催する国別対抗トーナメントです。
 
