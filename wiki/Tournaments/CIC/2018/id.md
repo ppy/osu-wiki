@@ -3,12 +3,12 @@ tags:
 - CIC 2018
 - CIC2018
 ---
-osu!catch the Beat Indonesia Cup 2018
+Catch the Beat Indonesia Cup 2018
 =====================================
 
-![osu!catch the Beat Indonesia Cup 2018 Banner](banner.png)
+![Catch the Beat Indonesia Cup 2018 Banner](banner.png)
 
-**osu! Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah instalasi ke-7 dari turnamen osu!catch regional Indonesia, yang diselenggarakan oleh [[490]Kazuyo](https://osu.ppy.sh/users/1830361).
+**Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah instalasi ke-7 dari turnamen osu!catch regional Indonesia, yang diselenggarakan oleh [[490]Kazuyo](https://osu.ppy.sh/users/1830361).
 
 ## Jadwal Turnamen
 
@@ -44,14 +44,46 @@ osu!catch the Beat Indonesia Cup 2018
 
 - [Thread diskusi](/community/forums/topics/780969)
 - [Discord](http://discord.gg/dKcVbWE)
+- [Challonge Bracket](https://challonge.com/CIC2018)
 
 ## Peserta
 
-*Peserta akan diumumkan setelah fase registrasi berakhir*
+| Grup |  |  |  |
+| ------- | ------- | ------- | --------- |
+| A | ![][flag_ID] Execration- | ![][flag_ID] Albedo-sama | ![][flag_ID] LeWind |
+| B | ![][flag_ID] Sayori-kun	| ![][flag_ID] ExRei | ![][flag_ID] Ilhamuharam |
+| C | ![][flag_ID] Emily Yukari | ![][flag_ID] DennySega24 | ![][flag_ID] Emilia-Satella |
+| D | ![][flag_ID] Toka- | ![][flag_ID] Shiviaren | ![][flag_ID] Furdek |
+| E | ![][flag_ID] moncar321 | ![][flag_ID] Intention | ![][flag_ID] Minalinsky- |
+| F | ![][flag_ID] Riria Rakira | ![][flag_ID] HerpKiller | ![][flag_ID] -Hex- |
+| G | ![][flag_ID] THS | ![][flag_ID] Yuki Tanaka | ![][flag_ID] Constantine |
+| H | ![][flag_ID] -Izayoi | ![][flag_ID] yogafm | ![][flag_ID] Buyut |
 
 ## Mappool
 
-*Mappool akan diumumkan seminggu sebelum pertandingan berlangsung*
+### Babak Grup
+
+**[Unduh mappack disini (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy)**
+
+- NoMod
+  - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378/#fruits/1578433)
+  - [Warak - Christmas Memories (Ascendance) \[Spec's Memory\]](https://osu.ppy.sh/beatmapsets/536029/#fruits/1135299)
+  - [fourfolium - SAKURA Skip (Doormat) \[HB & Sotarks' Insane\]](https://osu.ppy.sh/beatmapsets/488619/#fruits/1053188)
+  - [Memme - Geurida (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/688183/#fruits/1459309)
+- HardRock
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo) \[Platter\]](https://osu.ppy.sh/beatmapsets/477718/#fruits/1026087)
+  - [Chata - Winter Bells (lit120) \[Sinnoh's Platter\]](https://osu.ppy.sh/beatmapsets/696064/#fruits/1488839)
+  - [Ryu* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmapsets/28332/#fruits/120366)
+- DoubleTime
+  - [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/433029/#fruits/1163611)
+  - [Rabpit - Sacred (ursa) \[Platter\]](https://osu.ppy.sh/beatmapsets/92456/#fruits/341590)
+  - [Camellia feat. Nanahira - Seashore on the moon- (Mir) \[LMT's Hard\]](https://osu.ppy.sh/beatmapsets/712171/#fruits/1519257)
+- Hidden
+  - [MDK - Fingerbang (CookieBite) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/559525/#fruits/1242851)
+  - [Erosion - Shinkai Shoujo-piano ver.-(celerih) \[Deep Sea Rain\]](https://osu.ppy.sh/beatmapsets/634939/#fruits/1347079)
+  - [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622/#fruits/410798)
+- Tie Break
+  - [\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542/#fruits/1451063)
 
 ## Peraturan
 
