@@ -40,9 +40,9 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ## Links
 
-- [Livestream of Rasis](https://live.bilibili.com/5333)
-- [Livestream of Flow Light](https://live.bilibili.com/73668)
-- [Livestream of aiyulu](https://live.bilibili.com/10183)
+- [Livestream (Rasis)](https://live.bilibili.com/5333)
+- [Livestream (Flow Light)](https://live.bilibili.com/73668)
+- [Livestream (aiyulu)](https://live.bilibili.com/10183)
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
@@ -167,14 +167,14 @@ If *Winner of 28* **lose** Match 30, Match 31 will start right after that: *Winn
 
 ### Semifinals
 
-| No. | Saturday, 2018-08-04 |  |  |  | Comment |
+| No. | Saturday, 2018-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | -win by default- |
 | 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
 | 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
 | 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | -win by default- |
 
-| No. | Sunday, 2018-08-05 |  |  |  | Comment |
+| No. | Sunday, 2018-08-05 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | -win by default- |
 | 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
@@ -182,7 +182,7 @@ If *Winner of 28* **lose** Match 30, Match 31 will start right after that: *Winn
 
 ### Quarterfinals
 
-| No. | Saturday, 2018-07-28 |  |  |  | Comment |
+| No. | Saturday, 2018-07-28 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | -win by default- |
 | 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | -win by default- |
@@ -190,7 +190,7 @@ If *Winner of 28* **lose** Match 30, Match 31 will start right after that: *Winn
 | 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
-| No. | Sunday, 2018-07-29 |  |  |  | Comment |
+| No. | Sunday, 2018-07-29 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | -win by default- |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
@@ -200,14 +200,14 @@ Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
 
 ### Round of 16
 
-| No. | Saturday, 2018-07-21 |  |  |  | Comment |
+| No. | Saturday, 2018-07-21 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | -win by default- |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
-| No. | Sunday, 2018-07-22 |  |  |  | Comment |
+| No. | Sunday, 2018-07-22 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
 | 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
