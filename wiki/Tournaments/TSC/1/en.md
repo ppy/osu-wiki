@@ -4,18 +4,17 @@ tags:
 - TSC
 ---
 # Taiko Suiji Cup
-=============================
 
 ![TSC Logo](logo.jpg)
 
-The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the first iteration of this tournament.
+The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-08-01/2018-08-25 (12:00 UTC) |
-| Drawings | 2018-08-26 |
+| Live Drawings | 2018-08-26 (12:30 UTC) |
 | Round of 32 | 2018-09-01/2018-09-02 |
 | Round of 16 | 2018-09-08/2018-09-09 |
 | Quarterfinals | 2018-09-15/2018-09-16 |
@@ -26,7 +25,7 @@ The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tour
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | --- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
@@ -37,7 +36,7 @@ The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tour
 
 The Taiko Suiji Cup is run by various osu!taiko community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_US] [Backfire](/users/263110) |
 | Map Selector | ![][flag_US] [Backfire](/users/263110) |
@@ -62,7 +61,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Mappool
+## Mappools
 
 *The mappools will be revealed one week in advance for each stage.*
 
