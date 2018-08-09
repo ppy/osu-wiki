@@ -30,8 +30,6 @@ The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tour
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
-*The remaining prizes are to be decided.*
-
 ## Organisation
 
 The Taiko Suiji Cup is run by various osu!taiko community members.
@@ -51,7 +49,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 - [Discussion thread](/community/forums/topics/782877)
 - [Official TSC Discord](https://discord.gg/AE4qGwZ)
 - [Livestream](https://www.twitch.tv/osutaikolive)
-- [Registration](https://docs.google.com/forms/d/e/1FAIpQLScPDdTKs5g4_LMxb5dfXHxf9bB3Gi_jekp6OCzeEdliyGBC9A/viewform)
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScPDdTKs5g4_LMxb5dfXHxf9bB3Gi_jekp6OCzeEdliyGBC9A/viewform)
 
 -----------------------
 
