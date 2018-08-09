@@ -34,11 +34,13 @@ Catch the Beat Indonesia Cup 2018
 
 | Posisi | Member |
 | ------------ | -------------- |
-| Host | ![][flag_ID] [[490]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
+| Host | ![][flag_ID] [[490]Kazuyo](https://osu.ppy.sh/users/1830361) |
+| Co-Host | ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368) |
 | Map Selectors | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamers | TBA |
-| Commentators | TBA |
+| Streamers | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Commentators | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
 | Referees | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137),  ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832) |
+| Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174),  ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) |
 
 ## Links
 
