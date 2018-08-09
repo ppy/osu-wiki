@@ -26,7 +26,7 @@ The **Taiko Suiji Cup** is a three-on-three randomized team based osu!taiko tour
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | *to be decided* |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
@@ -38,11 +38,11 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [Backfire](/users/263110) |
-| Map Selector | ![][flag_US] [Backfire](/users/263110) |
-| Commentators | ![][flag_SE] [Raphalge](/users/3918650), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [Das](/users/3165416), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_CA] [DuckyDoom](/users/3153062) |
+| Organiser | ![][flag_US] [Backfire](/users/263110) |
+| Map Selectors | ![][flag_US] [Backfire](/users/263110), ![][flag_GB] [Lno](/users/1900787) |
+| Commentators | ![][flag_SE] [Raphalge](/users/3918650), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [Das](/users/3165416), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_CA] [DuckyDoom](/users/3153062), ![][flag_US] [incandescence](/users/6256027) |
 | Streamers | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_DE] [\[TaikoTori\]](/users/1074143) |
-| Designer | ![][flag_US] [Backfire](/users/263110) |
+| Designers | ![][flag_US] [Backfire](/users/263110), ![][flag_DE] [Reo](/users/2249297) |
 | Referees | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
