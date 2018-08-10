@@ -47,6 +47,7 @@ tags:
 - [Topik diskusi](/community/forums/topics/780969)
 - [Discord](http://discord.gg/dKcVbWE)
 - [Challonge Bracket](https://challonge.com/CIC2018)
+- [Livestream](https://www.twitch.tv/osuindonesia)
 
 ## Peserta
 
