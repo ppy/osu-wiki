@@ -4,13 +4,13 @@ title: "Summer 2018 Fanart Contest Results"
 date: 2018-08-09 02:00:00 +0000
 ---
 
-The voting was among the closest it's ever been this year, but you've had your say, and we've got **fifteen** winners soon to be on a main menu near you! Come check them out!
+The voting was among the closest it's ever been this year, but you've had your say, and we've got **fifteen** winners to share!
 
-[![](https://assets.ppy.sh/contests/66/header.jpg)](https://osu.ppy.sh/community/contests/66)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/banner.jpg)](https://osu.ppy.sh/community/contests/66)
 
-Continuing on the timeless tradition of making the voting **absurdly** difficult for everyone involved, 72 intrepid artists put their best summer-themed pieces for the community to judge and after a whole week of agonizing waiting, we finally have a result!
+Continuing on the timeless tradition of making the voting **absurdly** difficult for everyone involved, 72 intrepid artists put their best summer-themed pieces for the community to judge and after a whole week of agonizing waiting, we finally have our results!
 
-Fifteen of them, in fact:
+Without further ado:
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/66/winners/Evaine.png)
 
@@ -98,6 +98,6 @@ Like a particular piece? Clicking on the banner for it will take you to a full-s
 
 In addition to your undying adoration, each finalist takes home **2 months of osu!supporter** for either themselves or a friend, and these winning entries are available **NOW** in-game as the seasonal backgrounds for this year's summer.
 
-Thank you to everyone who entered this contest and really, made it the closest set of voting I think we've ever had overall. I know I say that every time, but seriously - check out how slim some of the margins are between the entries! We were spoiled for choice this time around, and it really, really shows.
+Thank you to everyone who entered this contest and made it the closest set of voting I think we've ever had overall. I know I say that every time, but seriously - check out how slim some of the margins are between the entries! We were spoiled for choice this time around, and it really, really shows.
 
 —Ephemeral
