@@ -12,7 +12,7 @@ Continuing on the timeless tradition of making the voting **absurdly** difficult
 
 Fifteen of them, in fact:
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/66/winners/Evaine.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/66/winners/Evaine.png)
 
 In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky. 
 
@@ -22,37 +22,39 @@ A truly fantastic piece, and a well deserved win from one of our long-time parti
 
 Yowza.
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Alba.jpg)](https://assets.ppy.sh/contests/66/winners/Alba.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Alba.jpg)](https://assets.ppy.sh/contests/66/winners/Alba.png)
 
 Second place went to [Alba](https://osu.ppy.sh/users/12164832)'s frilly and flowery masterpiece, with **6710** voters wishing they were among the sunflowers in Pippi's arms.
 
 The skies all but sang the praises of summer in a beautifully muted wave of colour that produced perhaps one of the most evocative entries we've ever seen, at least in this author's humble opinion.
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sylux6.jpg)](https://assets.ppy.sh/contests/66/winners/Sylux6.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sylux6.jpg)](https://assets.ppy.sh/contests/66/winners/Sylux6.png)
 
 Summer means swimsuits, and [Sylux6](https://osu.ppy.sh/users/2607507) absolutely delivered, hosing down third place with **6660** votes for this particularly *endowed* take on Mocha and Pippi enjoying some fun in the sun.
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sunako.jpg)](https://assets.ppy.sh/contests/66/winners/Sunako.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sunako.jpg)](https://assets.ppy.sh/contests/66/winners/Sunako.png)
 
 Scoring **6433** votes, [Sunako](https://osu.ppy.sh/users/2801166)'s sunlit piece featured Pippi, Aiko and Mocha enjoying some time at the beach. This one wins a bonus mention from us for absolutely superb renditions of all three mascot designs in perhaps their most pure form yet.
 
 And getting to see more Aiko is never a bad thing, especially when she's enjoying herself so much!
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Shuuzo.jpg)](https://assets.ppy.sh/contests/66/winners/Shuuzo.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Shuuzo.jpg)](https://assets.ppy.sh/contests/66/winners/Shuuzo.png)
 
 Flying high with **5913** votes, [Shuuzo](https://osu.ppy.sh/users/3661521) nearly knocked the ball out of the beach with his take of Pippi enjoying a game of catch with a giant inflatable ball. Simple, but superb.
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/TheTofuBoi.jpg)](https://assets.ppy.sh/contests/66/winners/TheTofuBoi.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/TheTofuBoi.jpg)](https://assets.ppy.sh/contests/66/winners/TheTofuBoi.png)
 
 Sticks at the ready, [TheTofuBoi](https://osu.ppy.sh/users/4817223) drummed up **5631** votes with his vibrant take on Mocha and a pair of dons making themselves known.
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/rennine.jpg)](https://assets.ppy.sh/contests/66/winners/rennine.jpg)
+He's also made a [speedpainting video](https://youtu.be/2TDP-GC3tkE) detailing the whole process, check it out if you're interested!
+
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/rennine.jpg)](https://assets.ppy.sh/contests/66/winners/rennine.png)
 
 **4899** votes heralded [rennine](https://osu.ppy.sh/users/6140529)'s fantastically unique rendition of Pippi and Mocha in summer dress, featuring a few nifty little accessory touches and some of the nicest costume design we've seen overall in a while.
 
 All of our finalists are truly something special, and this one is really something quite distinct and gorgeous. Well done!
 
-[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/aets.jpg)](https://assets.ppy.sh/contests/66/winners/aets.jpg)
+[![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/aets.jpg)](https://assets.ppy.sh/contests/66/winners/aets.png)
 
 A tidal wave of **4890** votes brought [aets](https://osu.ppy.sh/users/12379188)' piece ashore, sporting Pippi and Mocha riding the maelstrom, and a little pyun surfing off in the distance.
 
