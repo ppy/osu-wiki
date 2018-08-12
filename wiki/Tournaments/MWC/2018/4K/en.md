@@ -142,7 +142,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
-20. In the Group stage, a 'Win by default' will be considered as a win by 4:0, +1.0 score difference ratio.
+20. In the Group stage, a 'Win by default' will be considered as a win by 5:0, +1.0 score difference ratio.
 21. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 22. Penalties for violating the tournament rules can be:
     - Exclusion of specific players for one beatmap.
@@ -166,8 +166,6 @@ The mappools will be revealed one week in advance of each stage and will be disp
 
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
-    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-    - **In the event where more than 40 countries have enough players to compete, a playoff stage will be played before the group stage between the bottom 16 teams (based on seeding). The 8 winning countries of such stage qualifies as the unseeded team of a group.**
 
 5. Mapset selectors must not participate as a player in this tournament.
 
@@ -215,8 +213,8 @@ The mappools will be revealed one week in advance of each stage and will be disp
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
-    - The winner of the !roll starts picking the first beatmap of the match.
     - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+    - The winner of the !roll starts picking the first beatmap of the match.
 
 6. Results of the Group Stage will be published via a Statistics sheet.
 
