@@ -82,7 +82,7 @@ Perthed Again has grown into a fan favorite over the years as a song, and it's n
 
 [xi - Glorious Crown](https://osu.ppy.sh/beatmapsets/635497) by [iloveyou4ever](https://osu.ppy.sh/users/4964596)
 
--Kazu-, our new captain, deemed this the "xi version of [PEPPY FIX TAIKO STAR RATING PLEASE](https://osu.ppy.sh/beatmapsets/794048)" due to its mashup nature of a bunch of songs that osu! players will be familiar with, such as Freedom Dive and Glorious Crown. This map features comfortable patterns and small streams, and it's sure to be fun if you're up for the challenge! We urge everyone to check this map out.
+-Kazu-, our new captain, deemed this the "xi version of [PEPPY FIX TAIKO STAR RATING PLEASE](https://osu.ppy.sh/beatmapsets/794048)" due to its mashup nature of songs that osu! players will be familiar with, in this case Freedom Dive and Glorious Crown. This map features comfortable patterns and small streams, and it's sure to be fun if you're up for the challenge! We urge everyone to check this map out.
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/taiko/cafe-de-kemomimi-loli.jpg)](https://osu.ppy.sh/community/forums/topics/788673)
 
