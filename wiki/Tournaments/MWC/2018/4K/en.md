@@ -58,8 +58,10 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ## Participants
 
 
-_Confirmed Rosters_
+### Confirmed Rosters
 
+| | Country | Members |
+| ---: | :---: | :--- |
 | ![][flag_HK] | **Hong Kong** | **[Mooncha](https://osu.ppy.sh/u/5417362)**, [ng051106](https://osu.ppy.sh/u/2121137), [Opean](https://osu.ppy.sh/u/4544555), [Snow Note](https://osu.ppy.sh/u/643394) |
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/u/3461860)**, [BadIsTheNewGod](https://osu.ppy.sh/u/5245132), [Mura7797](https://osu.ppy.sh/u/3244389), [extramen](https://osu.ppy.sh/u/8889323) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/u/3946113)**, [hh27v5Fangirl](https://osu.ppy.sh/u/10543278), [capchon](https://osu.ppy.sh/u/8566617), [my2tic](https://osu.ppy.sh/u/5315736) |
@@ -69,8 +71,10 @@ _Confirmed Rosters_
 | ![][flag_VE] | **Venezuela** | **[Satoruu](https://osu.ppy.sh/u/2243452)**, [Aezlack](https://osu.ppy.sh/u/8065567), [Edvo](https://osu.ppy.sh/u/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/u/2140739), [\[-Gearfrik-\]](https://osu.ppy.sh/u/8198818), [\_Yisus\_](https://osu.ppy.sh/u/1489811) |
 
 
-_Pending Rosters_
+### Pending Rosters
 
+| | Country | Members |
+| ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/u/3632846)** |
 | ![][flag_AU] | **Australia** | **[Lusty Platypus](https://osu.ppy.sh/u/2956184)** |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/u/9530019)** |
