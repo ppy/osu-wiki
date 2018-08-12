@@ -48,36 +48,45 @@
 
 ## 比赛预告
 
-第二周图池展示将于 2018-08-10 15:00 (UTC+8) 进行。
-
-### 决赛第一周
-
-#### 8月11日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 14:30 | Toki 0w0 | ![][flag_CN] | ![][flag_CN] | xyxyxy091 | 25 |
-| 16:00 | Zhou_Kai | ![][flag_TW] | ![][flag_CN] | IA daisuki | 26 |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Crystal | 28 |
-| 待定 | 25 胜者 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | 26胜者 | 27 |
-
 ### 决赛第二周
 
 #### 8月13日，星期一
 
 | 比赛时间 | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :-: | --: | --: | :-- | :-- | :-: |
-| 待定 | 28 败者 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | 27 胜者 | 29 |
+| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 29 |
 
 #### 8月14日，星期二
 
 | 比赛时间 | 一号玩家 | | | 二号玩家 | 比赛编号 |
 | :-: | --: | --: | :-- | :-- | :-: |
-| 待定 | 28 胜者 | ![][flag_CN] | ![][flag_CN]/![][flag_TW] | 29 胜者 | 30 |
+| 15:00 | Crystal | ![][flag_CN] | ![][flag_CN] | 29 胜者 | 30 |
 
-如果 28胜者 输掉第30场，则立刻开始第31场：28胜者 vs 29胜者。
+如果 Crystal 输掉第30场，则立刻开始第31场：Crystal vs 29胜者。
 
 ## 图池
+
+### 决赛第二周
+
+**下载完整图池包！（97.9M） - [百度云盘](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw) - [Google 云端硬盘](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q)**
+
+- FreeMod
+  - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670/#mania/1530202)
+  - [Camellia - Proluvies \[\_ t h i n k i n g \_\]](https://osu.ppy.sh/beatmapsets/715014/#mania/1510819)
+  - [CELLON. - Virtual Mode \[V17tu4L\]](https://osu.ppy.sh/beatmapsets/661197/#mania/1399891)
+  - [Venetian Snares - She Runs \[Breakaway\]](https://osu.ppy.sh/beatmapsets/448086/#mania/961767)
+  - [EZFG - Cyber Thunder Cider \[Thunder\]](https://osu.ppy.sh/beatmapsets/621901/#mania/1311259)
+  - [Round Wave Crusher & KafkaType - Am I Scary? \[Yandere\]](https://osu.ppy.sh/beatmapsets/476582/#mania/1017965)
+  - [xi - PEACE BREAKER \[devastation (NSV)\]](https://osu.ppy.sh/beatmapsets/827204/#mania/1733416)
+  - [Hommarju - Rock It \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793/#mania/1532410)
+  - [Chroma - I \[Arpia's Exhaust\]](https://osu.ppy.sh/beatmapsets/738673/#mania/1620056)
+  - [ZUN arr.Myon - Plastic Mind \[snover's Phantasm\]](https://osu.ppy.sh/beatmapsets/361936/#mania/795044)
+  - [xi - Glorious Crown \[Chicken's 4K Extra\]](https://osu.ppy.sh/beatmapsets/474900/#mania/1014639)
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) \[Ekstremalny\]](https://osu.ppy.sh/beatmapsets/597699/#mania/1634508)
+  - [uma vs. Morimori Atsushi - Re:End of a Dream \[KK's Extra\]](https://osu.ppy.sh/beatmapsets/531425/#mania/1146184)
+  - [Assertive Fluttershy - Sorairo Days \[Hard\]](https://osu.ppy.sh/beatmapsets/740579/#mania/1562379)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - Bassdrop Freaks \[TofuStar's Bassdrop Maniac\]](https://osu.ppy.sh/beatmapsets/635897/#mania/1349433)**
 
 ### 决赛第一周
 
@@ -164,6 +173,15 @@
   - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316/#mania/1236183)**
 
 ## 比赛结果
+
+### 决赛第一周
+
+| 编号 | 2018-08-11，星期六 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 25 | **Toki 0w0 ![][flag_CN]** | **6** | 3 | ![][flag_CN] xyxyxy091 | |
+| 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
+| 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
+| 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |
 
 ### 半决赛
 
