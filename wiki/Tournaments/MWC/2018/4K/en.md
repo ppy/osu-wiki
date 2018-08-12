@@ -62,12 +62,14 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 | | Country | Members |
 | ---: | :---: | :--- |
+| ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/u/5281416)**, [Skalim](https://osu.ppy.sh/u/2225008), [Sophti](https://osu.ppy.sh/u/469808), [sebaex](https://osu.ppy.sh/u/4686036), [Arkener](https://osu.ppy.sh/u/4116072), [Raizenn](https://osu.ppy.sh/u/4531184) |
 | ![][flag_HK] | **Hong Kong** | **[Mooncha](https://osu.ppy.sh/u/5417362)**, [ng051106](https://osu.ppy.sh/u/2121137), [Opean](https://osu.ppy.sh/u/4544555), [Snow Note](https://osu.ppy.sh/u/643394) |
 | ![][flag_IT] | **Italy** | **[Yomiel](https://osu.ppy.sh/u/3461860)**, [BadIsTheNewGod](https://osu.ppy.sh/u/5245132), [Mura7797](https://osu.ppy.sh/u/3244389), [extramen](https://osu.ppy.sh/u/8889323) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/u/3946113)**, [hh27v5Fangirl](https://osu.ppy.sh/u/10543278), [capchon](https://osu.ppy.sh/u/8566617), [my2tic](https://osu.ppy.sh/u/5315736) |
 | ![][flag_PE] | **Perú** | **[akuma123](https://osu.ppy.sh/u/914472)**, [DaZeRo5](https://osu.ppy.sh/u/6114633), [DaKub](https://osu.ppy.sh/u/11885200), [Ovento17](https://osu.ppy.sh/u/10218427) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/u/3154852)**, [David5\_](https://osu.ppy.sh/u/8141215), [miguel-580](https://osu.ppy.sh/u/7935867), [itsdarious555](https://osu.ppy.sh/u/6809566), [GreenSoul](https://osu.ppy.sh/u/8497100) |
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/u/4952941)**, [Adyrem](https://osu.ppy.sh/u/8642966), [doere\_](https://osu.ppy.sh/u/8372292), [Monogai](https://osu.ppy.sh/u/9593126), [Haprapra](https://osu.ppy.sh/u/3974114), [Akayro](https://osu.ppy.sh/u/2573716) |
+| ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/u/7616811)**, [stupud man](https://osu.ppy.sh/u/2141612), [Neuro-](https://osu.ppy.sh/u/7687954), [-Electro-](https://osu.ppy.sh/u/3251373), [EtienneXC](https://osu.ppy.sh/u/5610085), [Chrubble](https://osu.ppy.sh/u/2594280) |
 | ![][flag_VE] | **Venezuela** | **[Satoruu](https://osu.ppy.sh/u/2243452)**, [Aezlack](https://osu.ppy.sh/u/8065567), [Edvo](https://osu.ppy.sh/u/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/u/2140739), [\[-Gearfrik-\]](https://osu.ppy.sh/u/8198818), [\_Yisus\_](https://osu.ppy.sh/u/1489811) |
 
 
@@ -79,7 +81,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_AU] | **Australia** | **[Lusty Platypus](https://osu.ppy.sh/u/2956184)** |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/u/9530019)** |
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/u/2747704)** |
-| ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/u/5281416)** |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/u/89545)** |
 | ![][flag_DE] | **Germany** | **[Malox](https://osu.ppy.sh/u/4516252)** |
 | ![][flag_DK] | **Denmark** | **[Jole](https://osu.ppy.sh/u/2883132)** |
@@ -99,7 +100,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_SG] | **Singapore** | **[Tamaneko](https://osu.ppy.sh/u/876528)** |
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/u/766374)** |
 | ![][flag_TW] | **Taiwan** | **[Sakaki](https://osu.ppy.sh/u/2656856)** |
-| ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/u/2141612)** |
 
 ------------------------------------------------------------------------
 
@@ -202,7 +202,7 @@ The mappools will be revealed one week in advance of each stage and will be disp
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
-**Winning conditions:**
+7. **Winning conditions:**
     - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
     - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
     - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
