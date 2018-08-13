@@ -3,12 +3,11 @@ tags:
 - IGTS 2018
 - IGTS2018
 ---
-Intermediate Global Taiko Showdown 2018
-=============================
+# Intermediate Global Taiko Showdown 2018
 
-![Intermediate Global Taiko Showdown 2018](banner.jpg)
+![IGTS 2018 Logo](logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the first iteration of this tournament.
+The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
 
 ## Tournament Schedule
 
@@ -26,21 +25,21 @@ The **Intermediate Global Taiko Showdown 2018** is a country-based double elimin
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :-- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag and userpage banner for each team member |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 months of osu!supporter tag for each team member |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter tag for each team member |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag for each team member |
 
 ## Organisation
 
 The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko community members.
 
 | Position | Members |
-| --- | --- |
+| :-- | :-- |
 | Organisers | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Map Selectors | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_ID] [Poii](/users/7924938) |
 | Designer | ![][flag_US] [Swovine](/users/6666316) |
-| Statisticians | ![][flag_FR] [Kasumii-sama](/users/6177263),  ![][flag_FR] [TLQ_Yoshii](/users/7157133) |
+| Statisticians | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TLQ_Yoshii](/users/7157133) |
 | Referees | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TLQ_Yoshii](/users/7157133), ![][flag_TR] [oralekin](/users/7631823), ![][flag_AU] [cactusthegreat](/users/5592409), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_RU] [-\_-Nico-\_-](/users/9689534) |
 | Streamers | ![][flag_DE] [Heamburger](/users/4705120), ![][flag_US] [Swovine](/users/6666316), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_MY] [Bedwyr Aorta](/users/10875855) |
 | Casters | ![][flag_DE] [Heamburger](/users/4705120), ![][flag_EC] [Gamelan4](/users/9856910), ![][flag_AR] [BossPlays_02](/users/7341471), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_US] [CaptainEChan](/users/9536977), ![][flag_US] [Edgar_Figaro](/users/6508754) |
@@ -48,84 +47,32 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Links
 
-- [Discussion Thread](/community/forums/topics/767841)
+- [Discussion thread](/community/forums/topics/767841)
 - [IGTS Discord](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Player/Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScmGzj3NMAOimVUzSdMRDa8COV5MOxcANOljLuxQjrJ9wLIvg/viewform)
 - [Staff Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe39Rk4JyUQ_GGBJHdYxfA7kZmJQqboK3p1LV_eTYZf-8Td_Q/viewform)
-- [Challonge Brackets](https://challonge.com/u85xl34m)
+- [Challonge brackets](https://challonge.com/u85xl34m)
 
 -----------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round 1 (Lower Bracket)
 
-### Saturday, 04 August 2018
+### Saturday, 18 August 2018
 
-| Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | Japan | ![][flag_JP] | ![][flag_AU] | Australia | **07:00** | Group A |
-| #2 | Portugal | ![][flag_PT] | ![][flag_SG] | Singapore | **09:00** | Group C |
-| #3 | Russia | ![][flag_RU] | ![][flag_ID] | Indonesia | **10:00** | Group C |
-| #4 | Japan | ![][flag_JP] | ![][flag_FR] | France | **12:00** | Group A |
-| #5 | Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **13:00** | Group D |
-| #6 | Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **14:00** | Group B |
-| #7 | Chile | ![][flag_CL] | ![][flag_CR] | Costa Rica | **17:00** | Group D |
-| #8 | United States | ![][flag_US] | ![][flag_AR] | Argentina | **17:00** | Group A |
-| #9 | Ecuador | ![][flag_EC] | ![][flag_DE] | Germany | **18:00** | Group B |
-| #10 | Germany | ![][flag_DE] | ![][flag_VE] | Venezuela | **19:00** | Group B |
-
-### Sunday, 05 August 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #11 | United States | ![][flag_US] | ![][flag_JP] | Japan | **00:00** | Group A |
-| #12 | Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **01:00** | Group A |
-| #13 | Ecuador | ![][flag_EC] | ![][flag_HK] | Hong Kong | **02:00** | Group B |
-| #14 | Singapore | ![][flag_SG] | ![][flag_ID] | Indonesia | **06:00** | Group C |
-| #15 | Australia | ![][flag_AU] | ![][flag_FR] | France | **10:00** | Group A |
-| #16 | Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **13:00** | Group D |
-| #17 | Russia | ![][flag_RU] | ![][flag_CO] | Colombia | **14:00** | Group C |
-| #18 | Netherlands | ![][flag_NL] | ![][flag_BR] | Brazil | **14:00** | Group D |
-| #19 | Netherlands | ![][flag_NL] | ![][flag_CR] | Costa Rica | **15:00** | Group D |
-| #20 | Portugal | ![][flag_PT] | ![][flag_CO] | Colombia | **16:00** | Group C |
-| #21 | Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00** | Group B |
-
-### Saturday, 11 August 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #22 | Indonesia | ![][flag_ID] | ![][flag_CO] | Colombia | **02:00** | Group C |
-| #23 | Malaysia | ![][flag_MY] | ![][flag_NL] | Netherlands | **09:00** | Group D |
-| #24 | Portugal | ![][flag_PT] | ![][flag_ID] | Indonesia | **10:00** | Group C |
-| #25 | Singapore | ![][flag_SG] | ![][flag_RU] | Russia | **12:00** | Group C |
-| #26 | Japan | ![][flag_JP] | ![][flag_AR] | Argentina | **13:00** | Group A |
-| #27 | Brazil | ![][flag_BR] | ![][flag_CR] | Costa Rica | **19:00** | Group D |
-| #28 | United States | ![][flag_US] | ![][flag_FR] | France | **19:00** | Group A |
-| #29 | Ecuador | ![][flag_EC] | ![][flag_VE] | Venezuela | **20:00** | Group B |
-| #30 | Canada | ![][flag_CA] | ![][flag_VE] | Venezuela | **21:00** | Group B |
-
-### Sunday, 12 August 2018
-| Match ID | Team A |  |  | Team B | Match Time (UTC) | Group |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #31 | United States | ![][flag_US] | ![][flag_AU] | Australia | **01:00** | Group A |
-| #32 | Hong Kong | ![][flag_HK] | ![][flag_VE] | Venezuela | **01:00** | Group B |
-| #33 | Singapore | ![][flag_SG] | ![][flag_CO] | Colombia | **02:00** | Group C |
-| #34 | Malaysia | ![][flag_MY] | ![][flag_CR] | Costa Rica | **03:00** | Group D |
-| #35 | Portugal | ![][flag_PT] | ![][flag_RU] | Russia | **10:00** | Group C |
-| #36 | Hong Kong | ![][flag_HK] | ![][flag_DE] | Germany | **12:00** | Group B |
-| #37 | Netherlands | ![][flag_NL] | ![][flag_CL] | Chile | **15:00** | Group D |
-| #38 | Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00** | Group A |
-| #39 | Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **19:00** | Group D |
-| #40 | Ecuador | ![][flag_EC] | ![][flag_CA] | Canada | **22:00** | Group B |
+| Match ID | Team A |  |  | Team B | Match Time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #1 | United States | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
+| #2 | Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **13:00** |
+| #3 | Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00** |
+| #4 | Chile | ![][flag_CL] | ![][flag_PT] | Portugal | **16:00** |
 
 -----------------------
 
 ## Participants
 
-### Qualified Teams
-
 |  | Country | Members |
-| --: | :-: | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[un-plugged](/users/8959673)**, [Kliu](/users/7409391) |
 | ![][flag_AU] | **Australia** | **[mhyykl](/users/7012650)**, [Zuikaku](/users/4180857), [AmateurMonkeyYT](/users/8379046), [Spearmint](/users/5199710) |
 | ![][flag_BR] | **Brazil** | **[AnonX32](/users/2730270)**, [Korkk](/users/11227442), [Idealism](/users/3869519), [Lolligerjoj](/users/9053338) |
@@ -145,11 +92,11 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | ![][flag_RU] | **Russia** | **[izede](/users/7559481)**, [JFred](/users/9700317), [-Rmdy](/users/1933816), [-dragon67](/users/4328734), [oserry](/users/11973082) |
 | ![][flag_SG] | **Singapore** | **[Kekneko](/users/8414979)**, [uchuuj1n](/users/9140302), [GDN3k0Chan](/users/7394522) |
 | ![][flag_US] | **United States** | **[Swovine](/users/6666316)**, [Rukairi](/users/6642597), [Trilt](/users/9292128), [CaptainEChan](/users/9536977), [rg_seo](/users/8150728) |
-| [][flag_VE] | **Venezuela** | **[Acetylcholine](/users/4159873)**, [Syber\_Fox](/users/6028905) |
+| ![][flag_VE] | **Venezuela** | **[Acetylcholine](/users/4159873)**, [Syber\_Fox](/users/6028905) |
 
 ### Groups
 
-| Group | Top | High | Mid | Low | Unseeded |
+| Group | Top Seed | High Seed | Mid Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_US] United States | ![][flag_JP] Japan | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_FR] France |
 | **B** | ![][flag_EC] Ecuador | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_DE] Germany | ![][flag_VE] Venezuela |
@@ -158,7 +105,31 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 -----------------------
 
-## Mappool
+## Mappools
+
+### Round 1 (Lower Bracket)
+
+**[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w)**
+
+- NoMod
+  - [Nekomata Master - Silence (Tasha) \[Oni\]](/beatmapsets/127126/#taiko/342676) 
+  - [M2U - Masquerade (- Kagami Yuki -) \[Oni\]](/beatmapsets/132040/#taiko/332273) 
+  - [Hommarju - Crazy Jackpot (aabc271) \[aabc's Oni\]](/beatmapsets/717853/#taiko/1517306) 
+  - [Comp - Gensou no Satellite (Nwolf) \[Oni\]](/beatmapsets/122757/#taiko/313793)
+- Hidden
+  - [Shoujo - Reminiscing (Jaye) \[Muzukashii\]](/beatmapsets/682206/#taiko/1442600) 
+  - [Qrispy Joybox - Snow Prism (TKSalt) \[Oni\]](/beatmapsets/72392/#taiko/224326) 
+- HardRock
+  - [Hakobe Naru(CV:M.A.O) - Nekomatsuri (komasy) \[Oni\]](/beatmapsets/659442/#taiko/1418602) 
+  - [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Oni\]](/beatmapsets/707590/#taiko/1502287) 
+- DoubleTime
+  - [Mili - world.execute(me); (Volta) \[volta.taiko(muzukashii);\]](/beatmapsets/507196/#taiko/1078865) 
+  - [7!! - Hey! Calorie Queen (Etsu) \[Muzukashii\]](/beatmapsets/459442/#taiko/984288) 
+- FreeMod
+  - [HoneyWorks feat. Gero - Jakusha no Sengen (Poii) \[Poii's Oni\]](/beatmapsets/643153/#taiko/1450439) 
+  - [M2U - Quo Vadis (TKSalt) \[Oni\]](/beatmapsets/135324/#taiko/339132) 
+- Tiebreaker
+  - **[Lovelicot - Indoa\*Ranburu (Kqrth) \[Rumble\]](/beatmapsets/627513/#taiko/1322323)**
 
 ### Group Stage
 
@@ -174,7 +145,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
   - [P*Light - Gekkou Ranbu (Steins) \[Stein's Muzukashii\]](/beatmapsets/406934/#taiko/886669) 
 - HardRock
   - [YUC'e - intro-duck-tion!! (\_yu68) \[\_yu68's muzu-kashi!!s\]](/beatmapsets/700150/#taiko/1528753) 
-  - [Ryu* feat. moimoi - OOO (\[R\]) \[Oni\]](/beatmapsets/764462/#taiko/1607509) 
+  - [Ryu\* feat. moimoi - OOO (\[R\]) \[Oni\]](/beatmapsets/764462/#taiko/1607509) 
 - DoubleTime
   - [toby fox - Heartache (Lost The Lights) \[LTL's Muzukashii\]](/beatmapsets/410256/#taiko/890367) 
   - [7!! - Bye Bye (TV Size) (mingmichael) \[Muzukashii\]](/beatmapsets/91594/#taiko/247965) 
@@ -182,7 +153,65 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
   - [Kola Kid - Spaceman (Kokatsu) \[Muzukashii\]](/beatmapsets/67703/#taiko/196486) 
   - [Pinocchio-P - Mushroom Mother (MMzz) \[Muzukashii\]](/beatmapsets/88802/#taiko/241860) 
 - Tiebreaker
-  - [Xandria - Call Of Destiny (Nardoxyribonucleic) \[Muzukashii\]](/beatmapsets/635559/#taiko/1408975)
+  - **[Xandria - Call Of Destiny (Nardoxyribonucleic) \[Muzukashii\]](/beatmapsets/635559/#taiko/1408975)**
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Group | Sunday, 2018-08-12 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
+| C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](/community/matches/44992938) |
+| D | **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
+| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/45001911) |
+| D | **Malaysia** ![][flag_MY] | **4** | 3 | ![][flag_NL] Netherlands | [#1](/community/matches/45002051) |
+| B | Hong Kong ![][flag_HK] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/45004334) |
+| D | Brazil ![][flag_BR] | 0 | 0 | ![][flag_CR] Costa Rica | -lose by default- |
+| D | **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_CL] Chile | [#1](/community/matches/45008830) |
+| A | Argentina ![][flag_AR] | 0 | **4** | ![][flag_FR] **France** | -win by default- |
+| B | **Canada** ![][flag_CA] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+| D | Brazil ![][flag_BR] | 0 | **4** | ![][flag_CL] **Chile** | -win by default- |
+| B | **Ecuador** ![][flag_EC] | **4** | 3 | ![][flag_CA] Canada | [#1](/community/matches/45021176) |
+
+| Group | Saturday, 2018-08-11 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/44956962) |
+| A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/44957651) |
+| C | **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_CO] Colombia | [#1](/community/matches/44959016) |
+| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/44967756) |
+| C | Singapore ![][flag_SG] | 2 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/44969679) |
+| A | **Japan** ![][flag_ID] | **4** | 0 | ![][flag_AR] Argentina | -win by default- |
+| A | United States ![][flag_US] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/44978315) |
+| B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+
+| Group | Sunday, 2018-08-05 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_HK] Hong Kong | -win by default- |
+| A | Argentina ![][flag_AR] | 1 | **4** | ![][flag_AU] **Australia** | [#1](/community/matches/44784450) |
+| C | **Singapore** ![][flag_SG] | **4** | 2 | ![][flag_ID] Indonesia | [#1](/community/matches/44787664) |
+| A | Australia ![][flag_AU] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/44791292) |
+| D | **Malaysia** ![][flag_MY] | **4** | 1 | ![][flag_CL] Chile | [#1](/community/matches/44793389) |
+| D | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_BR] **Brazil** | [#1](/community/matches/44794671) |
+| C | **Russia** ![][flag_RU] | **4** | 0 | ![][flag_CO] Colombia | -win by default- |
+| D | **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_BR] Brazil | [#1](/community/matches/44796185) |
+| D | **Netherlands** ![][flag_NL] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
+| D | **Portugal** ![][flag_PT] | **4** | 0 | ![][flag_CO] Colombia | -win by default- |
+| C | Canada ![][flag_CA] | 2 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/44801932) |
+| B | **Chile** ![][flag_CL] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
+| B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/44803677) |
+
+| Group | Saturday, 2018-08-04 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/44759949) |
+| C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/44760724) |
+| A | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_AU] Australia | [#1](/community/matches/44761958) |
+| A | **Japan** ![][flag_JP] | **4** | 1 | ![][flag_FR] France | [#1](/community/matches/44763071) |
+| B | **Hong Kong** ![][flag_HK] | **4** | 2 | ![][flag_CA] Canada | [#1](/community/matches/44766118) |
+| A | **United States** ![][flag_US] | **4** | 1 | ![][flag_AR] Argentina | [#1](/community/matches/44768946) |
+| B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 ------------------------------------------------------------------------
 
