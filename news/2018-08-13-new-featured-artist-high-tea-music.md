@@ -14,7 +14,7 @@ Drum and bass has always held a strong place in the osu! community's heart, from
 
 Courtesy of the talented folks over at the Mappers' Guild, we also have **6** brand new beatmaps picked from the pool of **49** new tracks available for play right now:
 
-[![](/wiki/shared/2018-08-13-new-featured-artist-high-tea-music/hightea.jpg)](https://assets.ppy.sh/beatmap-packs/MG3-BeatmapPack.zip)
+[![](/wiki/shared/news/2018-08-13-new-featured-artist-high-tea-music/hightea.jpg)](https://assets.ppy.sh/beatmap-packs/MG3-BeatmapPack.zip)
 
 *Click the picture above to download the pack of all six!*
 
