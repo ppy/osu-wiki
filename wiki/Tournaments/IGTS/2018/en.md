@@ -161,31 +161,15 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Group Stage
 
-| Group | Sunday, 2018-08-12 |  |  |  |  | 
+| Group | Saturday, 2018-08-04 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
-| C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](/community/matches/44992938) |
-| D | **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
-| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/45001911) |
-| D | **Malaysia** ![][flag_MY] | **4** | 3 | ![][flag_NL] Netherlands | [#1](/community/matches/45002051) |
-| B | Hong Kong ![][flag_HK] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/45004334) |
-| D | Brazil ![][flag_BR] | 0 | 0 | ![][flag_CR] Costa Rica | -lose by default- |
-| D | **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_CL] Chile | [#1](/community/matches/45008830) |
-| A | Argentina ![][flag_AR] | 0 | **4** | ![][flag_FR] **France** | -win by default- |
-| B | **Canada** ![][flag_CA] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
-| D | Brazil ![][flag_BR] | 0 | **4** | ![][flag_CL] **Chile** | -win by default- |
-| B | **Ecuador** ![][flag_EC] | **4** | 3 | ![][flag_CA] Canada | [#1](/community/matches/45021176) |
-
-| Group | Saturday, 2018-08-11 |  |  |  |  | 
-| :-: | --: | :-: | :-- | :-- | :-: |
-| A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/44956962) |
-| A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/44957651) |
-| C | **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_CO] Colombia | [#1](/community/matches/44959016) |
-| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/44967756) |
-| C | Singapore ![][flag_SG] | 2 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/44969679) |
-| A | **Japan** ![][flag_ID] | **4** | 0 | ![][flag_AR] Argentina | -win by default- |
-| A | United States ![][flag_US] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/44978315) |
-| B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+| C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/44759949) |
+| C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/44760724) |
+| A | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_AU] Australia | [#1](/community/matches/44761958) |
+| A | **Japan** ![][flag_JP] | **4** | 1 | ![][flag_FR] France | [#1](/community/matches/44763071) |
+| B | **Hong Kong** ![][flag_HK] | **4** | 2 | ![][flag_CA] Canada | [#1](/community/matches/44766118) |
+| A | **United States** ![][flag_US] | **4** | 1 | ![][flag_AR] Argentina | [#1](/community/matches/44768946) |
+| B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 | Group | Sunday, 2018-08-05 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
@@ -203,15 +187,31 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | B | **Chile** ![][flag_CL] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
 | B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/44803677) |
 
-| Group | Saturday, 2018-08-04 |  |  |  |  | 
+| Group | Saturday, 2018-08-11 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/44759949) |
-| C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/44760724) |
-| A | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_AU] Australia | [#1](/community/matches/44761958) |
-| A | **Japan** ![][flag_JP] | **4** | 1 | ![][flag_FR] France | [#1](/community/matches/44763071) |
-| B | **Hong Kong** ![][flag_HK] | **4** | 2 | ![][flag_CA] Canada | [#1](/community/matches/44766118) |
-| A | **United States** ![][flag_US] | **4** | 1 | ![][flag_AR] Argentina | [#1](/community/matches/44768946) |
-| B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+| A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/44956962) |
+| A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/44957651) |
+| C | **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_CO] Colombia | [#1](/community/matches/44959016) |
+| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/44967756) |
+| C | Singapore ![][flag_SG] | 2 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/44969679) |
+| A | **Japan** ![][flag_ID] | **4** | 0 | ![][flag_AR] Argentina | -win by default- |
+| A | United States ![][flag_US] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/44978315) |
+| B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+
+| Group | Sunday, 2018-08-12 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
+| C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](/community/matches/44992938) |
+| D | **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
+| C | Portugal ![][flag_PT] | 0 | **4** | ![][flag_RU] **Russia** | [#1](/community/matches/45001911) |
+| D | **Malaysia** ![][flag_MY] | **4** | 3 | ![][flag_NL] Netherlands | [#1](/community/matches/45002051) |
+| B | Hong Kong ![][flag_HK] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/45004334) |
+| D | Brazil ![][flag_BR] | 0 | 0 | ![][flag_CR] Costa Rica | -lose by default- |
+| D | **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_CL] Chile | [#1](/community/matches/45008830) |
+| A | Argentina ![][flag_AR] | 0 | **4** | ![][flag_FR] **France** | -win by default- |
+| B | **Canada** ![][flag_CA] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
+| D | Brazil ![][flag_BR] | 0 | **4** | ![][flag_CL] **Chile** | -win by default- |
+| B | **Ecuador** ![][flag_EC] | **4** | 3 | ![][flag_CA] Canada | [#1](/community/matches/45021176) |
 
 ------------------------------------------------------------------------
 
