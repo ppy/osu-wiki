@@ -102,7 +102,7 @@ A huge fan-favorite and the 3rd breakcore track of the week (lol), Soutou no Rei
 
 A returning choice from Round 3 of Project Loved, this map was featured in the old voting system where it barely didn't make the cut. As such, we'll use the description we used from back then as well!
 
-"Featured in osu!taiko World Cup 2017 as a FreeMod pick, a lot of pros are probably familiar with this map, and also, no doubt have a love-hate relationship with its blistering difficulty. The 1/6 is intense but also fitting, as NaCL's veteran use of these kinds of patterns no doubt flourish in this song."
+> Featured in osu!taiko World Cup 2017 as a FreeMod pick, a lot of pros are probably familiar with this map, and also, no doubt have a love-hate relationship with its blistering difficulty. The 1/6 is intense but also fitting, as NaCL's veteran use of these kinds of patterns no doubt flourish in this song.
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
@@ -149,7 +149,7 @@ A collab between juankristal and XeoStyle, this chart is a release heaven, which
 [Kyary Pamyu Pamyu - Ninja Re Bang Bang](https://osu.ppy.sh/beatmapsets/372942) by [ecafree2](https://osu.ppy.sh/users/1984442)  
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
-Continuing on, we introduce ecafree2 to the Loved section with his chart for Ninja Re Bang Bang, a chart that has seemingly simple intentions at first glance, but hides a secret midway through that will certainly surprise anyone not expecting anything out of the ordinary. Transitioning out of the first chorus, the player is thrown into a 0.25x slow jam that for many players will have the notes too close together to effectively read, but ecafree compensates the player with how simple the rhythm and patterning is, allowing for an understanding of the section without too much learning. This novelty and the execution of it, surprising the player, as well as the popularity it has amassed for this reason gives it a good shot for the Loved section.
+Continuing on, we introduce ecafree2 to the Loved section with his chart for Ninja Re Bang Bang, a chart that has seemingly simple intentions at first glance, but hides a secret midway through that will certainly surprise anyone not expecting anything out of the ordinary. Transitioning out of the first chorus, the player is thrown into a 0.25x slow jam that for many players will have the notes too close together to effectively read, but ecafree2 compensates the player with how simple the rhythm and patterning is, allowing for an understanding of the section without too much learning. This novelty and the execution of it, surprising the player, as well as the popularity it has amassed for this reason gives it a good shot for the Loved section.
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/mania/second-run-core-mix.jpg)](https://osu.ppy.sh/community/forums/topics/788690)
 
