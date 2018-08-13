@@ -26,9 +26,9 @@ The **Intermediate Global Taiko Showdown 2018** is a country-based double elimin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag and userpage banner for each team member |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag for each team member |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag, userpage banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
