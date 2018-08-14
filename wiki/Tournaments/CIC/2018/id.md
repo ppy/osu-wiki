@@ -16,8 +16,8 @@ tags:
 | Tahap Registrasi | 2018-07-28/2018-08-05 |
 | Babak Grup | 2018-08-06/2018-08-12 |
 | Babak 16 Besar | 2018-08-13/2018-08-19 |
-| Perempat final | 2018-08-20/2018-08-26 |
-| Semi final | 2018-08-27/2018-09-02 |
+| Perempat Final | 2018-08-20/2018-08-26 |
+| Semifinal | 2018-08-27/2018-09-02 |
 | Final | 2018-09-03/2018-09-09 |
 
 ## Hadiah
@@ -33,7 +33,7 @@ tags:
 ## Staf Turnamen
 
 | Posisi | Anggota |
-| ------- | ------- |
+| :-- | :-- |
 | Penyelenggara | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361) |
 | Wakil Penyelenggara | ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368) |
 | Pemilih Map | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -42,7 +42,7 @@ tags:
 | Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137),  ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832) |
 | Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174),  ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) |
 
-## Links
+## Tautan Terkait
 
 - [Topik diskusi](/community/forums/topics/780969)
 - [Discord](http://discord.gg/dKcVbWE)
@@ -52,9 +52,9 @@ tags:
 ## Peserta
 
 | Grup |  |  |  |
-| :-: | ------- | ------- | ------- |
+| :-: | :-- | :-- | :-- |
 | **A** | ![][flag_ID] Execration- | ![][flag_ID] Albedo-sama | ![][flag_ID] LeWind |
-| **B** | ![][flag_ID] Sayori-kun	| ![][flag_ID] ExRei | ![][flag_ID] Ilhamuharam |
+| **B** | ![][flag_ID] Sayori-kun | ![][flag_ID] ExRei | ![][flag_ID] Ilhamuharam |
 | **C** | ![][flag_ID] Emily Yukari | ![][flag_ID] DennySega24 | ![][flag_ID] Emilia-Satella |
 | **D** | ![][flag_ID] Toka- | ![][flag_ID] Shiviaren | ![][flag_ID] Furdek |
 | **E** | ![][flag_ID] moncar321 | ![][flag_ID] Intention | ![][flag_ID] Minalinsky- |
@@ -86,7 +86,7 @@ tags:
   - [Erosion - Shinkai Shoujo-piano ver.-(celerih) \[Deep Sea Rain\]](https://osu.ppy.sh/beatmapsets/634939/#fruits/1347079)
   - [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622/#fruits/410798)
 - Tiebreaker
-  - [**\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]**](https://osu.ppy.sh/beatmapsets/685542/#fruits/1451063)
+  - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542/#fruits/1451063)**
 
 ## Peraturan
 
@@ -115,10 +115,9 @@ tags:
 1. Setiap grup akan diisi oleh 3 peserta.
 2. Peserta akan bertanding dengan sistem Battle Royale.
 3. Babak grup akan menggunakan poin untuk setiap peserta dengan ketentuan sebagai berikut:
-  - Juara 1 : 2 Poin
-  - Juara 2 : 1 Poin
-  - Juara 3 : -1 Poin
-  - Juara 4 : -2 Poin
+  - Juara 1: 2 Poin
+  - Juara 2: 1 Poin
+  - Juara 3: -1 Poin
 4. Tidak ada banned maps pada babak grup.
 5. Tidak ada Loser Bracket pada babak grup.
 6. Peserta yang dapat bertanding ke babak berikutnya ditentukan berdasarkan:
@@ -145,13 +144,11 @@ tags:
   - Peserta yang menang WO.
   - Jika ada peserta yang mengalami diskualifikasi saat pertandingan berlangsung.
 
-
 ### Peraturan Pertandingan
 
 1. Setiap peserta akan melakukan `!roll` untuk menentukan siapa yang dapat memilih beatmap pertama.
 2. Setiap peserta berhak memilih satu beatmap yang dapat dibanned dalam pertandingan, kecuali pada babak grup, tidak ada banned maps.
 3. Setiap pertandingan hanya boleh maksimal 1 kali warm-up (pada babak grup) dan 2 kali (pada babak selanjutnya) sebelum pertandingan dimulai.
 4. Hasil dari setiap match wajib dibagikan/dipos di topik diskusi oleh staf (wasit) menyertakan link mp dan screenshot.
-
 
 [flag_ID]: /wiki/shared/flag/ID.gif
