@@ -7,11 +7,11 @@ tags:
 
 ![CIC 2018 Logo](logo.jpg)
 
-**Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah instalasi ke-7 dari turnamen osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361).
+**Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi ke-6 dari turnamen Catch the Beat Indonesia Cup.
 
 ## Jadwal Turnamen
 
-| Event | Waktu |
+| Event | Waktu Pelaksanaan |
 | --: | :-- |
 | Tahap Registrasi | 2018-07-28/2018-08-05 |
 | Babak Grup | 2018-08-06/2018-08-16 |
@@ -37,7 +37,7 @@ tags:
 | Penyelenggara | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361) |
 | Wakil Penyelenggara | ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
 | Pemilih Map | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Penyiar | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 | Komentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
 | Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137),  ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
 | Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174),  ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
@@ -46,8 +46,8 @@ tags:
 
 - [Topik diskusi](/community/forums/topics/780969)
 - [Discord](http://discord.gg/dKcVbWE)
-- [Challonge Bracket](https://challonge.com/CIC2018)
-- [Livestream](https://www.twitch.tv/osuindonesia)
+- [Bagan Challonge](https://challonge.com/CIC2018)
+- [Siaran Langsung](https://www.twitch.tv/osuindonesia)
 
 ## Peserta
 
@@ -76,7 +76,7 @@ tags:
 - HardRock
   - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo) \[Platter\]](https://osu.ppy.sh/beatmapsets/477718/#fruits/1026087)
   - [Chata - Winter Bells (lit120) \[Sinnoh's Platter\]](https://osu.ppy.sh/beatmapsets/696064/#fruits/1488839)
-  - [Ryu* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmapsets/28332/#fruits/120366)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/beatmapsets/28332/#fruits/120366)
 - DoubleTime
   - [Denkishiki Karen Ongaku Shuudan - Endless ripples (Hareimu) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/433029/#fruits/1163611)
   - [Rabpit - Sacred (ursa) \[Platter\]](https://osu.ppy.sh/beatmapsets/92456/#fruits/341590)
@@ -115,9 +115,9 @@ tags:
 1. Setiap grup akan diisi oleh 3 peserta.
 2. Peserta akan bertanding dengan sistem Battle Royale.
 3. Babak grup akan menggunakan poin untuk setiap peserta dengan ketentuan sebagai berikut:
-  - Juara 1: 2 Poin
-  - Juara 2: 1 Poin
-  - Juara 3: -1 Poin
+  - Juara 1: 2 poin.
+  - Juara 2: 1 poin.
+  - Juara 3: -1 poin.
 4. Tidak ada banned maps pada babak grup.
 5. Tidak ada Loser Bracket pada babak grup.
 6. Peserta yang dapat bertanding ke babak berikutnya ditentukan berdasarkan:
@@ -135,7 +135,7 @@ tags:
   - Peserta yang kalah pada Winner Bracket, masih dapat bermain lagi pada Loser Bracket.
   - Peserta yang kalah pada Loser Bracket, dinyatakan tereliminasi dari turnamen.
   - Pada babak Grand Final, peserta yang berada di Winner Bracket memiliki kesempatan 2x bermain.
-5. Peserta yang dapat bertanding ke babak berikutnya ditentukan oleh :
+5. Peserta yang dapat bertanding ke babak berikutnya ditentukan oleh:
   - Pada RO16 dan Loser RO16 akan diberlakukan sistem BO5, peserta yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
   - Pada Quarter Final dan Loser Quarter Final akan diberlakukan sistem BO7, peserta yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
   - Pada Semi Final dan Loser Semi Final akan diberlakukan sistem BO9, peserta yang memiliki 5 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
