@@ -12,7 +12,7 @@ Beatmap Nominator Evaluations, another upcoming public QAT meeting, and huge Ran
 
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
-We’re quite used to “busy months” here, as any regular readers will be aware, but as far as major, meta-redefining changes go, July might have been our biggest and busiest in quite some time!
+We're quite used to “busy months” here, as any regular readers will be aware, but as far as major, meta-redefining changes go, July might have been our biggest and busiest in quite some time!
 
 Inside we'll be bringing you updates on these major overhauls, from first steps in a new, more structured system for gauging Beatmap Nominator performance, through to massive Ranking Criteria changes governing what types of beatmap can and can't be pushed to the Ranked category. Keep reading if any of that sounds interesting to you (which naturally, we hope it does!)
 
