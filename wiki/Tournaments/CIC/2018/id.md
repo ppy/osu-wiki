@@ -128,7 +128,7 @@ tags:
 
 ### Sistem Babak 16 Besar sampai Final
 
-1. 16 Peserta yang lolos pada babak grup akan diacak kembali pada bracket RO16.
+1. 16 Peserta yang lolos pada babak grup akan diacak kembali pada bracket Babak 16 Besar.
 2. Winner Bracket akan dimainkan pada hari Sabtu, dan Loser Bracket akan dimainkan pada hari Minggu, kecuali ada perubahan jadwal.
 3. Peserta akan bertanding dengan sistem Eliminasi Ganda.
 4. Sistem Eliminasi Ganda yaitu:
@@ -136,9 +136,9 @@ tags:
   - Peserta yang kalah pada Loser Bracket, dinyatakan tereliminasi dari turnamen.
   - Pada babak Grand Final, peserta yang berada di Winner Bracket memiliki kesempatan 2x bermain.
 5. Peserta yang dapat bertanding ke babak berikutnya ditentukan oleh:
-  - Pada RO16 dan Loser RO16 akan diberlakukan sistem BO5, peserta yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
-  - Pada Quarter Final dan Loser Quarter Final akan diberlakukan sistem BO7, peserta yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
-  - Pada Semi Final dan Loser Semi Final akan diberlakukan sistem BO9, peserta yang memiliki 5 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+  - Pada Babak 16 Besar dan babak 16 Besar Loser akan diberlakukan sistem BO5, peserta yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+  - Pada Perempat Final dan Perempat Final Loser akan diberlakukan sistem BO7, peserta yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+  - Pada Semifinal dan Loser Semifinal akan diberlakukan sistem BO9, peserta yang memiliki 5 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
   - Pada Final dan Loser Final akan diberlakukan sistem BO11, peserta yang memiliki 6 kemenangan terlebih dahulu akan lanjut ke babak Grand Final.
   - Pada Grand Final akan diberlakukan sistem BO13, peserta yang memiliki 7 kemenangan terlebih dahulu akan menjadi pemenang pada CIC 2017.
   - Peserta yang menang WO.
