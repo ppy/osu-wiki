@@ -60,7 +60,7 @@ Most notable changes are applied to the *lowest possible difficulty of a set*, w
 + If it is between **3:30 and 4:15 minutes**, the lowest difficulty can be a Hard.
 + If it is between **4:15 and 5:00 minutes**, it can be an Insane.
 
-Beatmaps that exceed 5:00 minutes in drain time are unaffected as they can still be ranked with just one difficulty.
+Beatmaps that exceed 5:00 minutes in drain time remain unaffected by spread rules and requirements, just as they were before.
 
 The Quality Assurance Team will be monitoring the development of this major change over the next few months, to determine if a noticeable drift in beatmap spread quality occurs. Should we feel that the general quality of mapsets has reduced over this time period, we may re-evaluate this approach.
 
@@ -78,13 +78,13 @@ A little more minor, but by no means less important, have been the addition of t
 
 The process of veto mediation is frequently a painful one for all involved, highlighting a lack of agreement between a Beatmap Nominator and a mapper. For the Quality Assurance Team, the mediation process is also rather time-consuming and it's disheartening to know that one of the parties involved is never going to be satisfied with the result.
 
-Whilst the existence of the beatmap veto is currently a “necessary evil”, the current turnaround time of 72 hours has proven to be quite a headache for us as there was often not enough time for an appropriate deliberation. We have therefore decided to trial changing this to allow one week for mediation, with the rest of the process remaining unchanged for now.
+Whilst the existence of the beatmap veto is currently a “necessary evil”, the current turnaround time of 72 hours has proven to be quite a headache for us as there was often not enough time for an appropriate deliberation. We have therefore decided to trial changing this to allow **one week for mediation**, with the rest of the process remaining unchanged for now.
 
 ### Quality Assurance Team Public Meeting #3
 
 As in previous months, the Quality Assurance Team will be hosting its third public meeting in the [osu!dev Discord server](https://discord.gg/ppy) this **Sunday the 19th of August at 1400 UTC+0**. Anyone is able to join in order to follow and participate in discussion, so if you want your input on the future directions of the mapping and modding community heard, don’t miss out!
 
-During this meeting, we will discuss the current state of hybrid (multiple game mode) mapsets and possible changes to their implementation, as well as the current status of the Metadata Helpers group after the disbanding of the Quality Assurance Team's metadata branch.
+During this meeting, we will discuss the current state of hybrid (multiple game mode) mapsets and possible changes to their implementation, as well as the future of the Metadata Helpers group after disbanding the Quality Assurance Team's metadata branch.
 
 ## Summary
 
