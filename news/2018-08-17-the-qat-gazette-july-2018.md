@@ -18,7 +18,7 @@ Inside we'll be bringing you updates on these major overhauls, from first steps 
 
 ## Within the Beatmap Nominators
 
-Only one major development in the Beatmap Nominator Team for you all this month, though it's a significant one that will affect how we keep track of each Nominator's activity, behaviour and proficiency in the future. Naturally there's also news on new and departing members, so read on to find out more!
+Only one major development in the Beatmap Nominator Team for you all this month, though it's a significant one that will affect how we keep track of each Nominator's activity, behaviour and proficiency in the future. Naturally, there's also news on new and departing members, so read on to find out more!
 
 ### Beatmap Nominator Re-Evaluations
 
@@ -26,13 +26,13 @@ Throughout July, we conducted a thorough review of activity, proficiency and beh
 
 Probationary status currently operates under a “one warning” system — this means that Nominators who were currently on, or had been previously been placed on probation for any given reason were dismissed from the team if found to be performing below expectation for a second time. Regardless of the reason for dismissal, we thank each Nominator for their service to the mapping and modding community and invite them to return in a later application cycle should our concerns be satisfactorily addressed.
 
-Feedback was provided by Quality Assurance Team members in each Nominator's respective mode(s), explaining the reasons for the decision taken, as well as indicating any areas for potential improvement if applicable.
+Feedback was provided by Quality Assurance Team members in each Nominator's respective mode(s), explaining the reasons for the decision taken, as well as indicating any areas for potential improvement if applicable. The main factors considered were presence of unrankable issues, breaking Nominator Rules and the Code of Conduct for Mapping and Modding, modding and nomination activity, as well as major mistakes such as unhitsounded sections, poor mp3 quality, or extremely unbalanced beatmap spreads. Requested disqualifications for minor issues and subjective / controversial maps were given a fair amount of leniency.
 
 As a result of the Beatmap Nominator Re-Evaluations, 49/95 Nominators were retained as, or promoted to, full member status, 34/95 were retained or placed on probation, and 12/95 were removed from the group. Future evaluations will take place in conjunction with new Beatmap Nominator application phases on a six-weekly basis.
 
 ### New Beatmap Nominator Promotions
 
-Whilst our existing Beatmap Nominators were being reviewed, we were pleased to welcome a wave of some new and returning circle inspectors to the team. Please offer warm welcome and congratulations to the following on their admission into the Beatmap Nominators:
+Whilst our existing Beatmap Nominators were being reviewed, we were pleased to present a wave of some new and returning circle inspectors to the team. Please offer a warm welcome and congratulations to the following on their admission into the Beatmap Nominators:
 
 [BOUYAAA](https://osu.ppy.sh/users/405449), [Cris-](https://osu.ppy.sh/users/6175280), [frogyfro](https://osu.ppy.sh/users/7010859), [Gottagof4st](https://osu.ppy.sh/users/6122935), [IceKalt](https://osu.ppy.sh/users/5410645), [MrSergio](https://osu.ppy.sh/users/2581696), [pimpG](https://osu.ppy.sh/users/328615), [riffy](https://osu.ppy.sh/users/597957), [Rizen](https://osu.ppy.sh/users/3056732), [Seto Kousuke](https://osu.ppy.sh/users/2857314), [UndeadCapulet](https://osu.ppy.sh/users/2523533), [Yauxo](https://osu.ppy.sh/users/898306) and [Yugu](https://osu.ppy.sh/users/3161834)!
 
@@ -60,7 +60,7 @@ Most notable changes are applied to the *lowest possible difficulty of a set*, w
 + If it is between **3:30 and 4:15 minutes**, the lowest difficulty can be a Hard.
 + If it is between **4:15 and 5:00 minutes**, it can be an Insane.
 
-Beatmaps that exceed 5:00 minutes in drain time remain unaffected by spread rules and requirements, just as they were before.
+Beatmaps that exceed 5:00 minutes in drain time remain unaffected by spread rules and requirements, just as they were before, although now it is also possible for mapsets of any drain time to contain only a single difficulty, if desired, provided it follows the criteria above.
 
 The Quality Assurance Team will be monitoring the development of this major change over the next few months, to determine if a noticeable drift in beatmap spread quality occurs. Should we feel that the general quality of mapsets has reduced over this time period, we may re-evaluate this approach.
 
@@ -74,6 +74,8 @@ A little more minor, but by no means less important, have been the addition of t
 
 + **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
+You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418). 
+
 ### Changes to Beatmap Veto Mediation
 
 The process of veto mediation is frequently a painful one for all involved, highlighting a lack of agreement between a Beatmap Nominator and a mapper. For the Quality Assurance Team, the mediation process is also rather time-consuming and it's disheartening to know that one of the parties involved is never going to be satisfied with the result.
@@ -82,7 +84,7 @@ Whilst the existence of the beatmap veto is currently a “necessary evil”, th
 
 ### Quality Assurance Team Public Meeting #3
 
-As in previous months, the Quality Assurance Team will be hosting its third public meeting in the [osu!dev Discord server](https://discord.gg/ppy) this **Sunday the 19th of August at 1400 UTC+0**. Anyone is able to join in order to follow and participate in discussion, so if you want your input on the future directions of the mapping and modding community heard, don’t miss out!
+As in previous months, the Quality Assurance Team will be hosting its third public meeting in the [osu!dev Discord server](https://discord.gg/ppy) this **Sunday the 19th of August at 1400 UTC+0**. Anyone is able to join in order to follow and participate in the discussion, so if you want your input on the future directions of the mapping and modding community heard, don’t miss out!
 
 During this meeting, we will discuss the current state of hybrid (multiple game mode) mapsets and possible changes to their implementation, as well as the future of the Metadata Helpers group after disbanding the Quality Assurance Team's metadata branch.
 
