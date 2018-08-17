@@ -8,7 +8,7 @@
 
 ### Fruits
 
-There are four fruits and four fruit overlays. These fruits resemble the hitcircles and slider start and end in osu!catch. The fruits are tinted with the combo colour; however, unlike osu!standard (where each comboset uses the same combo colour) the individual fruits cycle through the combo colours (but slider trail, ticks, and end will use the same colour as its start fruit). Lastly, they appear in this order: pear, grapes, apple, orange, and repeat.
+There are four fruits and four fruit overlays. These fruits resemble the hit, sliderstart, and sliderend circles in osu!catch. The fruits are tinted with the combo colour; however, unlike osu!standard (where each comboset uses the same combo colour) the individual fruits cycle through the combo colours (but slider trail, ticks, and end will use the same colour as its start fruit). Lastly, they appear in this order: pear, grapes, apple, orange, and repeat.
 
 Fruits and their overlays are the same size as a hitcircle, 128x128 (SD size) with their origin point being the centre. Most skinners would make all of the fruits the same and it is common to use simple shapes.
 
@@ -20,11 +20,11 @@ Juice streams are the equivalent of the osu!standard sliders. A drop is bigger i
 
 #### Bananas
 
-Bananas are separate from the fruits, despite being a fruit, because they are specifically used for in place of osu!standard spinners. Bananas and its overlay has a size of 128x128 with its origin point being the centre. These will always be tinted in shades of yellow and orange.
+Bananas are separate from the fruits; despite being a fruit, they are used in place of osu!standard spinners. Bananas and its overlay has a size of 128x128 with its origin point being the centre. These will always be tinted in shades of yellow and orange.
 
 ### Shared elements
 
-The following elements are used with other parts of osu!:
+The following elements are shared with other parts of osu!:
 
 -   scorebar and all its files
 -   score numbers
@@ -34,7 +34,7 @@ The following elements are used with other parts of osu!:
 
 ## Playfield design
 
-There are two things to take into account for when you design the playfield elements: the margins and the area of focus.
+There are two things to take into account when you design the playfield elements: the margins and the area of focus.
 
 ### Margins
 
@@ -58,7 +58,7 @@ In 16:9 and 21:9, there should be enough room to place an image inside the margi
 
 ### Area of focus
 
-Don't make a big scorebar that covers most of the top of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big. Most players are looking from the combo number and above to position the catcher, if their view is blocked, it may deter them from using your skin.
+Avoid making a big scorebar that covers most of the top of the playfield. Remember that the fruits fall down from the top of the screen and it could shorten the field of view drastically if the scorebar is too big. Most players are looking from the combo number and above to position the catcher, if their view is blocked, it may deter them from using your skin.
 
 ![](img/focus-4-3.jpg "The area of focus in 4:3 ratio aspect")
 

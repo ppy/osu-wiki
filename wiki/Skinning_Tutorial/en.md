@@ -1,12 +1,12 @@
 # Skinning Tutorial
 
-*See also: [Skinning](/wiki/Skinning).*
+*See also: [Skinning](/wiki/Skinning)*
 
-*This article is the tutorial for skinning. For frequently answered skinning questions, see [Skinning/FAQ](/wiki/Skinning/FAQ).*
+*For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ).*
 
 ## Getting Started
 
-To get started, open the game client, select [Options](/wiki/Options), and click `Open osu! folder`. Once the file explorer opens, click on `Skins/` and create a new folder. You can name it whatever you want, but keep in mind that osu! will use this name when it is displayed in the options. Inside this folder, you can add any skinning elements listed in the skin element lists.
+To get started, open the game client, select [Options](/wiki/Options), and click `Open osu! folder`. Once the `osu!/` folder is opened, go into the `Skins/` folder and create a new folder. You can name it whatever you want, but keep in mind that osu! will display this name in the options. Inside this folder, you can add any skinning elements listed in the skin element lists.
 
 Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin files and paste them into your newly created skin folder). **It must be noted that you are not allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
 
@@ -26,7 +26,7 @@ Once you have your own skinning folder in the `Skins/` folder, you will first ne
 
 The next thing you will need is a theme or an idea. You should have one in mind to create an objective for what you want your skin to look like. This is also to help yourself when you need to gather and/or create assets.
 
-The last thing to have ready is patience and a lot of time. Yes, this is very important as new skins (unfortunately) do not complete in a snap. Making a new skin can take a week and up to months or more, so give it some time.
+The last thing to have ready is patience and a lot of time. New skins do not complete in a snap but can take a week or even several months, so give it some time.
 
 ## What's next?
 
