@@ -46,7 +46,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/combo_fire), the HP b
 
 ![](img/2007-09.jpg)
 
-2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on <http://www.bemanistyle.com> which drew quite a few interested people with previous rhythm game experience.
+2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://www.bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 
