@@ -42,6 +42,6 @@ Skinning permet à quiconque de changer la façon dont osu! regarde et ressent. 
 
 ## osu! wiki - Comment vous aider!
 
-Depuis le 26/08/2016, osu! wiki a été déplacé dans un dépôt GitHub. Après ce changement, le flux de travail a radicalement changé. Toutes les contributions passent désormais par le référentiel [osu-wiki GitHub](https://github.com/ppy/osu-wiki) et sont passées en revue avant d'être approuvées et fusionnées dans osu! wiki
+Depuis le 26/08/2016, osu! wiki a été déplacé dans un dépôt GitHub. Après ce changement, le flux de travail a radicalement changé. Toutes les contributions passent désormais par le référentiel [osu-wiki GitHub](https://github.com/ppy/osu-wiki) et sont passées en revue avant d'être approuvées et fusionnées dans osu! wiki.
 
 Pour commencer, voir [osu! Guide de contribution wiki](/wiki/owcg).
