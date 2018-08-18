@@ -42,7 +42,7 @@ May their efforts bring you many Ranked-beatmap-sized bundles of happiness over 
 
 Where some may be taking their first steps as a Nominator, others seek new pastures, new challenges, or perhaps simply a well-deserved rest. We thank the following departees for their tireless efforts and enduring vision:
 
-[Arzenvald](https://osu.ppy.sh/users/3027421), [Delis](https://osu.ppy.sh/users/1603923) and [Sorcerer](https://osu.ppy.sh/users/1913190).
+[Arzenvald](https://osu.ppy.sh/users/3027421), [incandescence](https://osu.ppy.sh/users/6256027), [Delis](https://osu.ppy.sh/users/1603923) and [Sorcerer](https://osu.ppy.sh/users/1913190).
 
 ## Within the Quality Assurance Team
 
@@ -86,7 +86,7 @@ Whilst the existence of the beatmap veto is currently a “necessary evil”, th
 
 As in previous months, the Quality Assurance Team will be hosting its third public meeting in the [osu!dev Discord server](https://discord.gg/ppy) this **Sunday the 19th of August at 1400 UTC+0**. Anyone is able to join in order to follow and participate in the discussion, so if you want your input on the future directions of the mapping and modding community heard, don’t miss out!
 
-During this meeting, we will discuss the current state of hybrid (multiple game mode) mapsets and possible changes to their implementation, as well as the future of the Metadata Helpers group after disbanding the Quality Assurance Team's metadata branch.
+During this meeting, we will discuss the current state of hybrid (multiple game mode) mapsets and possible changes to their implementation, as well as the future of how to handle metadata after disbanding the Quality Assurance Team's metadata branch.
 
 ## Summary
 
