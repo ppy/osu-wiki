@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # FAQ
 
 osu!:n gameplayn perusteet sekä pisteytyksen ja käyttöliittymän toiminta kerrotaan tässä osiossa.
