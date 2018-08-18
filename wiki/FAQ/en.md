@@ -1,82 +1,5 @@
 # FAQ
 
-## Scoring
-
-*For a detailed explanation of scoring, see: [Score](/wiki/Score)*
-
-*For a detailed explanation of accuracy calculation, see: [Accuracy](/wiki/Accuracy)*
-
-### Grades
-
-#### ![osu! icon](/wiki/shared/mode/osu.png) osu!standard
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy |
-| S | Over 90% 300s, less than 1% 50s, and no misses |
-| A | Over 80% 300s and no misses **OR** over 90% 300s |
-| B | Over 70% 300s and no misses **OR** over 80% 300s |
-| C | Over 60% 300s |
-| D | Anything else |
-
-#### ![osu!taiko icon](/wiki/shared/mode/taiko.png) osu!taiko
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy |
-| S | 95.01% to 99.99% Accuracy |
-| A | 90.01% to 95% Accuracy |
-| B | 80.01% to 90% Accuracy |
-| C | 70.01% to 80% Accuracy |
-| D | 70% Accuracy and under |
-
-#### ![osu!catch icon](/wiki/shared/mode/catch.png) osu!catch
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy |
-| S | 98.01% to 99.99% Accuracy |
-| A | 94.01% to 98% Accuracy |
-| B | 90.01% to 94% Accuracy |
-| C | 85.01% to 90% Accuracy |
-| D | 85% Accuracy and under |
-
-#### ![osu!mania icon](/wiki/shared/mode/mania.png) osu!mania
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy |
-| S | 95.01% to 99.99% Accuracy |
-| A | 90.01% to 95% Accuracy |
-| B | 80.01% to 90% Accuracy |
-| C | 70.01% to 80% Accuracy |
-| D | 70% Accuracy and under |
-
-#### All
-
-##### Special grades
-
-- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Hidden)* and/or *[Flashlight](/wiki/Flashlight)* mod.
-- Silver S  (SH)  = Normal grade S  with *[Hidden](/wiki/Hidden)* and/or *[Flashlight](/wiki/Flashlight)* mod.
-
-##### Saving ranked plays
-
-- Grades obtained will be set in the profile page under Ranks when passing a ranked beatmap while signed in to the game.
-  - Offline play will not be counted.
-- Grades given for profile depends on ranked top score grade for a beatmap's difficulty in that game mode, not as whole.
-  - If a beatmap has three ranked difficulties, and SS'ed all three of them in osu!catch; three SS will be given for osu!catch's Ranks section, not just one SS given.
-  - However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one and S counter increment by one instead.
-
-## Performance Points
-
-*Main page: [Performance Points](/wiki/Performance_Points)*
-
-*For any questions regarding pp, see: [FAQ/Performance_Points](/wiki/Performance_Points#FAQ)*
-
-Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps.
-
-The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!standard, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
-
 ## General
 
 **Where do I find and download beatmaps?**
@@ -215,3 +138,80 @@ Please follow these steps:-
     - Set your name as creator (and replace it in the file name as well)
     - Set the BeatmapID to 0
     - Set the BeatmapSetID to -1
+
+## Scoring
+
+*For a detailed explanation of scoring, see: [Score](/wiki/Score)*
+
+*For a detailed explanation of accuracy calculation, see: [Accuracy](/wiki/Accuracy)*
+
+### Grades
+
+#### ![osu! icon](/wiki/shared/mode/osu.png) osu!standard
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% Accuracy |
+| S | Over 90% 300s, less than 1% 50s, and no misses |
+| A | Over 80% 300s and no misses **OR** over 90% 300s |
+| B | Over 70% 300s and no misses **OR** over 80% 300s |
+| C | Over 60% 300s |
+| D | Anything else |
+
+#### ![osu!taiko icon](/wiki/shared/mode/taiko.png) osu!taiko
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% Accuracy |
+| S | 95.01% to 99.99% Accuracy |
+| A | 90.01% to 95% Accuracy |
+| B | 80.01% to 90% Accuracy |
+| C | 70.01% to 80% Accuracy |
+| D | 70% Accuracy and under |
+
+#### ![osu!catch icon](/wiki/shared/mode/catch.png) osu!catch
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% Accuracy |
+| S | 98.01% to 99.99% Accuracy |
+| A | 94.01% to 98% Accuracy |
+| B | 90.01% to 94% Accuracy |
+| C | 85.01% to 90% Accuracy |
+| D | 85% Accuracy and under |
+
+#### ![osu!mania icon](/wiki/shared/mode/mania.png) osu!mania
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% Accuracy |
+| S | 95.01% to 99.99% Accuracy |
+| A | 90.01% to 95% Accuracy |
+| B | 80.01% to 90% Accuracy |
+| C | 70.01% to 80% Accuracy |
+| D | 70% Accuracy and under |
+
+#### All
+
+##### Special grades
+
+- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Hidden)* and/or *[Flashlight](/wiki/Flashlight)* mod.
+- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Hidden)* and/or *[Flashlight](/wiki/Flashlight)* mod.
+
+##### Saving ranked plays
+
+- Grades obtained will be set in the profile page under Ranks when passing a ranked beatmap while signed in to the game.
+  - Offline play will not be counted.
+- Grades given for profile depends on ranked top score grade for a beatmap's difficulty in that game mode, not as whole.
+  - If a beatmap has three ranked difficulties, and SS'ed all three of them in osu!catch; three SS will be given for osu!catch's Ranks section, not just one SS given.
+  - However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one and S counter increment by one instead.
+
+## Performance Points
+
+*Main page: [Performance Points](/wiki/Performance_Points)*
+
+*For any questions regarding pp, see: [FAQ/Performance_Points](/wiki/Performance_Points#FAQ)*
+
+Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps.
+
+The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!standard, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
