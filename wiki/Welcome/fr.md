@@ -1,6 +1,6 @@
 # Bienvenue
 
-Bienvenue dans Osu!, un jeu de rythme gratuit développé par peppy avec quatre modes de jeu: osu! Standard, un simulateur de clic sur un cercle; osu! taiko, un émulateur de batterie; osu! catch, un récupérateur de salade de fruits; et osu! mania, un synthétiseur puissant.
+Bienvenue dans osu!, un jeu de rythme gratuit développé par peppy avec quatre modes de jeu: osu!standard, un simulateur de clic sur un cercle; osu!taiko, un émulateur de batterie; osu!catch, un récupérateur de salade de fruits; et osu!mania, un synthétiseur puissant.
 
 ## Points d'intérêt communs
 
