@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2014
 ========================
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
