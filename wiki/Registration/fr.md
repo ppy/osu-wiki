@@ -8,9 +8,9 @@ Comment s'inscrire?
 ![Le formulaire d'inscription sur le site](img/register.jpg "Le formulaire d'inscription")
 
 2. Remplissez tous les champs du formulaire.
-    - Pour le champ du nom d'utilisateur, il y a un maximum de 15 caractères; dont ne peuvent être que des caractères alphanumériques (`a-z`, `A-Z`, `0-9`), des caractères de soulignement (`_`), des crochets,(`[`et`]`) des tirets (`-`), et espaces (` `).
-    - Pour le champ d'adresse e-mail, utilisez votre adresse e-mail. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin, donc n'utilisez pas une email jetable.
-    - Pour le champ mot de passe, utilisez un mot de passe d'au moins 8 caractères.
+   - Pour le champ du nom d'utilisateur, il y a un maximum de 15 caractères; dont ne peuvent être que des caractères alphanumériques (`a-z`, `A-Z`, `0-9`), des caractères de soulignement (`_`), des crochets,(`[`et`]`) des tirets (`-`), et espaces (` `).
+   - Pour le champ d'adresse e-mail, utilisez votre adresse e-mail. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin, donc n'utilisez pas une email jetable.
+   - Pour le champ mot de passe, utilisez un mot de passe d'au moins 8 caractères.
 3. Une fois cela terminé, appuyez sur «Continuer», puis retournez à osu!
 4. Connectez-vous pour terminer votre inscription.
 
