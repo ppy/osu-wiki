@@ -371,15 +371,15 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-    | Stage | Match ID |
-    | --: | :-- |
-    | Round of 16 | A, B, C, D, E, F, G, H |
-    | Quarterfinals | I, J, K, L & R, S, T, U |
-    | Semifinals | M, N & V, W, X, Y, Z, AA |
-    | Finals | O & AB, AC, AD |
-    | Grand Finals | AE, P, Q |
+| Stage | Match ID |
+| --: | :-- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarterfinals | I, J, K, L & R, S, T, U |
+| Semifinals | M, N & V, W, X, Y, Z, AA |
+| Finals | O & AB, AC, AD |
+| Grand Finals | AE, P, Q |
 
-    *Note: The Grand Finals weekend will also include the 3rd place match of the tournament.*
+*Note: The Grand Finals weekend will also include the 3rd place match of the tournament.*
 
 7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
