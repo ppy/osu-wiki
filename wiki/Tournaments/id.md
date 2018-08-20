@@ -16,7 +16,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | --- | --- | --- | --- | --- | --- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] Taiwan | ![][flag_NL] Belanda | ![][flag_KR] Korea Selatan |
 | [osu! World Cup #2](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] Korea Selatan | ![][flag_JP] Jepang | ![][flag_BR] Brasil |
-| osu! World Cup #3 | 2012-10-25 | 2013-01-20 | ![][flag_KR] Korea Selatan | ![][flag_JP] Jepang | ![][flag_TW] Taiwan |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] Korea Selatan | ![][flag_JP] Jepang | ![][flag_TW] Taiwan |
 | [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] Korea Selatan | ![][flag_TW] Taiwan | ![][flag_PL] Polandia |
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Jepang | ![][flag_PL] Polandia | ![][flag_DE] Jerman |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] Amerika Serikat | ![][flag_CN] Cina | ![][flag_PL] Polandia |

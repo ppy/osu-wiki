@@ -16,7 +16,7 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | --- | --- | --- | --- | --- | --- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] Taïwan | ![][flag_NL] Pays-Bas | ![][flag_KR] Corée du Sud |
 | [osu! World Cup #2](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_BR] Brésil |
-| osu! World Cup #3 | 2012-10-25 | 2013-01-20 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_TW] Taïwan |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_TW] Taïwan |
 | [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] Corée du Sud | ![][flag_TW] Taïwan | ![][flag_PL] Pologne |
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japon | ![][flag_PL] Pologne | ![][flag_DE] Allemagne |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] États-Unis d'Amérique | ![][flag_CN] Chine | ![][flag_PL] Pologne |
