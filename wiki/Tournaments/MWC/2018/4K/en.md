@@ -56,7 +56,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Participants
 
-
 ### Confirmed Rosters
 
 | | Country | Members |
@@ -70,7 +69,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/u/4952941)**, [Adyrem](https://osu.ppy.sh/u/8642966), [doere\_](https://osu.ppy.sh/u/8372292), [Monogai](https://osu.ppy.sh/u/9593126), [Haprapra](https://osu.ppy.sh/u/3974114), [Akayro](https://osu.ppy.sh/u/2573716) |
 | ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/u/7616811)**, [stupud man](https://osu.ppy.sh/u/2141612), [Neuro-](https://osu.ppy.sh/u/7687954), [-Electro-](https://osu.ppy.sh/u/3251373), [EtienneXC](https://osu.ppy.sh/u/5610085), [Chrubble](https://osu.ppy.sh/u/2594280) |
 | ![][flag_VE] | **Venezuela** | **[Satoruu](https://osu.ppy.sh/u/2243452)**, [Aezlack](https://osu.ppy.sh/u/8065567), [Edvo](https://osu.ppy.sh/u/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/u/2140739), [\[-Gearfrik-\]](https://osu.ppy.sh/u/8198818), [\_Yisus\_](https://osu.ppy.sh/u/1489811) |
-
 
 ### Pending Rosters
 
@@ -181,13 +179,13 @@ The mappools will be revealed one week in advance of each stage and will be disp
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-    | Stage | Match ID |
-    | --: | :-- |
-    | Round of 16 | A, B, C, D, E, F, G, H |
-    | Quarterfinals | I, J, K, L & R, S, T, U |
-    | Semifinals | M, N & V, W, X, Y, Z, AA |
-    | Finals | O & AB, AC, AD |
-    | Grand Finals | AE, P, Q |
+| Stage | Match ID |
+| --: | :-- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarterfinals | I, J, K, L & R, S, T, U |
+| Semifinals | M, N & V, W, X, Y, Z, AA |
+| Finals | O & AB, AC, AD |
+| Grand Finals | AE, P, Q |
 
 7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
