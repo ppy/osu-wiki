@@ -56,16 +56,37 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 -----------------------
 
-## Match Schedule: Round 1 (Lower Bracket)
+## Match Schedule: Quarterfinals
 
-### Saturday, 18 August 2018
+### Saturday, 25 August 2018
 
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | United States | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
-| #2 | Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **13:00** |
-| #3 | Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00** |
-| #4 | Chile | ![][flag_CL] | ![][flag_PT] | Portugal | **16:00** |
+| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #1 | Japan | ![][flag_JP] | ![][flag_EC] | Ecuador | **01:00** |  |
+| #2 | Russia | ![][flag_RU] | ![][flag_MY] | Malaysia | **09:00** |  |
+| #3 | Germany | ![][flag_DE] | ![][flag_FR] | France | **13:00** |  |
+| #4 | Netherlands | ![][flag_NL] | ![][flag_SG] | Singapore | **11:00** |  |
+
+### Sunday, 26 August 2018
+
+| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #5a | Netherlands | ![][flag_NL] | ![][flag_US] | United States | **17:00** | ¹ |
+| #5b | Singapore | ![][flag_SG] | ![][flag_US] | United States | **12:00** | ¹ |
+| #6a | Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **16:00** | ² |
+| #6b | France | ![][flag_FR] | ![][flag_BR] | Brazil | **16:00** | ² |
+| #7a | Russia | ![][flag_RU] | ![][flag_CA] | Canada | **14:00** | ³ |
+| #7b | Malaysia | ![][flag_MY] | ![][flag_CA] | Canada | **12:00** | ³ |
+| #8a | Japan | ![][flag_JP] | ![][flag_PT] | Portugal | **10:00** | ⁴ |
+| #8b | Ecuador | ![][flag_EC] | ![][flag_PT] | Portugal | **16:00** | ⁴ |
+
+¹ Encounter dependent on losers of Match #1
+
+² Encounter dependent on losers of Match #2
+
+³ Encounter dependent on losers of Match #3
+
+⁴ Encounter dependent on losers of Match #4
 
 -----------------------
 
@@ -106,6 +127,30 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 -----------------------
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ)**
+
+- NoMod
+  - [Cranky - Into the Unknown (Nofool) \[Oni\]](/beatmapsets/738600/#taiko/1558765) 
+  - [OISHII - PIZZA PLAZA (Volta) \[Oni\]](/beatmapsets/663500/#taiko/1404697) 
+  - [KNOWER - Time Traveler (Nifty) \[Oni\]](/beatmapsets/622136/#taiko/1362733) 
+  - [LeaF - Kyouki Ranbu (DakeDekaane) \[Oni\]](/beatmapsets/394552/#taiko/858745)
+- Hidden
+  - [Electric Six - Gay Bar (Deif) \[Oni\]](/beatmapsets/129402/#taiko/362948) 
+  - [Junichi Masuda - Battle! (Legendary Pokemon) (Sala-fan) \[Sala-fan's Oni\]](/beatmapsets/219713/#taiko/525670) 
+- HardRock
+  - [t+pazolite - intrO - Don't be Foolish (incandescene) \[Oni\]](/beatmapsets/733624/#taiko/1548238) 
+  - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Oni\]](/beatmapsets/339001/#taiko/750226) 
+- DoubleTime
+  - [Mikako Komatsu - Owaranai Melody o Utai Dashimashita. (qoot8123) \[qoot8123's Oni\]](/beatmapsets/121689/#taiko/313568) 
+  - [Horie Yui - chocolate insomnia (TV Size) (NoHitter) \[Taiko Muzukashii\]](/beatmapsets/104541/#taiko/274833) 
+- FreeMod
+  - [Illion - AIWAGUMA (Ellyu) \[Oni\]](/beatmapsets/533037/#taiko/1247899) 
+  - [MYTH & ROID - VORACITY (TV Size) (Nofool) \[Oni\]](/beatmapsets/818008/#taiko/1715246) 
+- Tiebreaker
+  - **[Chitose Haru & Kumagai Eri - Perfect Free (Nwolf) \[Oni\]](/beatmapsets/549700/#taiko/1164010)**
 
 ### Round 1 (Lower Bracket)
 
@@ -158,6 +203,15 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round 1 (Lower Bracket)
+
+| Saturday, 2018-08-18 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_HK] Hong Kong | -win by default- |
+| Indonesia ![][flag_ID] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45187249) |
+| **Canada** ![][flag_CA] | **5** | 1 | ![][flag_AU] Australia | [#1](/community/matches/45173889) |
+| Chile ![][flag_CL] | 0 | **5** | ![][flag_PT] **Portugal** | -win by default- |
 
 ### Group Stage
 
