@@ -5,19 +5,18 @@ tags:
 - MWC2018
 - MWC7K 2018
 ---
-osu!mania 7K World Cup 2018
-=============================
+# osu!mania 7K World Cup 2018
 
-![MWC 7K 2018 Logo](logo.png)
+![MWC 7K 2018 Logo](img/logo.png)
 
 The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 4th installment of the osu!mania 7K World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2018-01-10/2018-01-24 |
-| Drawings | 2018-02-03 14:00:00 UTC |
+| Live Drawings | 2018-02-03 14:00:00 UTC |
 | Group Stage | 2018-02-10/2018-02-11 |
 | Round of 16 | 2018-02-17/2018-02-18 |
 | Quarterfinals | 2018-02-24/2018-02-25 |
@@ -40,10 +39,10 @@ In every world cup, people conquering a place on the podium are eligible to rece
 The osu!mania 7K World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| --- | --- |
+| :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
-| Commentators | ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992),  ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184),  ![][flag_AU] ]PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Commentators | ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
 | Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -59,7 +58,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Somnium-](https://osu.ppy.sh/users/2037798), [\_\_Yu](https://osu.ppy.sh/users/6253228) |
 | ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Evios](https://osu.ppy.sh/users/2058022), [sankansuki](https://osu.ppy.sh/users/2877926), [PotassiumF](https://osu.ppy.sh/users/4247722) |
@@ -88,11 +87,11 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2018 Podium](Podium.png)
+![MWC 7K 2018 Podium](img/podium.png)
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2018 Bracket](bracket.jpg)
+![MWC 7K 2018 Bracket](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +99,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Finals
 
-**This mappool is played in Finals and Grand Finals**
+**This mappool is played in Finals and Grand Finals.**
 
 **[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
 
@@ -205,14 +204,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Grand Finals
 
-| Saturday, 2018-03-18 | | | | |
+| Saturday, 2018-03-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | China ![][flag_CN] | 4 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40933215) |
 | **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
 
 ### Finals
 
-| Saturday, 2018-03-11 | | | | |
+| Saturday, 2018-03-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Brazil** ![][flag_BR] | **7** | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40743246) |
 | Philippines ![][flag_PH] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40745201) |
@@ -221,7 +220,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Semifinals
 
-| Saturday, 2018-03-03 | | | | |
+| Saturday, 2018-03-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Australia ![][flag_AU] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/40518173) |
 | **United States** ![][flag_US] | **6** | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40519477) |
@@ -231,13 +230,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | France ![][flag_FR] | 0 | **6** | ![][flag_BR] **Brazil** | -win by default- |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/40544245) |
 
-| Sunday, 2018-03-04 | | | | |
+| Sunday, 2018-03-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Chile ![][flag_CL] | 3 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
-| Saturday, 2018-02-24 | | | | |
+| Saturday, 2018-02-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40337357) |
 | **Australia** ![][flag_AU] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40338527) |
@@ -246,14 +245,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | **Singapore** ![][flag_SG] | **5** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/40365467) |
 | United States ![][flag_US] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40366912) |
 
-| Sunday, 2018-02-25 | | | | |
+| Sunday, 2018-02-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_AR] Argentina | -win by default- |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/40386907) |
 
 ### Round of 16
 
-| Sunday, 2018-02-18 | | | | |
+| Sunday, 2018-02-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/40172677) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
@@ -266,7 +265,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2018-02-10 | | | | |
+| Saturday, 2018-02-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Thailand ![][flag_TH] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/39954578) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/39954590) |
@@ -280,7 +279,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Canada ![][flag_CA] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/39967317) |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/39979395) |
 
-| Sunday, 2018-02-11 | | | | |
+| Sunday, 2018-02-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 2 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/39979434) |
 | Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/39988692) |
@@ -368,19 +367,19 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
       - Have higher `∑{(total score difference) / (maximum score)}`.
       - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-    -  This may change with the actual Group Stage setup.
+    - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| --: | --- |
+| --: | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
-*Note that the Grand Finals weekend will also include the 3rd place match of the tournament*
+*Note: The Grand Finals weekend will also include the 3rd place match of the tournament.*
 
 7. The **Winning conditions** for each stage will be:
     - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
@@ -394,7 +393,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
     - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC7K 2018: (TeamRed) vs (TeamBlue)".
     - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
-3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
     - The winner of the !roll starts picking the first beatmap of the match.
