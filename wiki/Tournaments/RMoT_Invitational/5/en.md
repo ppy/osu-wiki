@@ -114,12 +114,12 @@ There is only one mappool for all matches, made of beatmaps from the last four R
   - [syrela - Pulsation (Lasse) [Insane]](/beatmaps/1436970)
   - [xi - Akasha (Atsuro) [FCL's Hyper]](/beatmaps/909551)
 - Tiebreaker
-  1. [u's - Moment Ring (Chaoslitz) [wkyik's Insane]](/beatmaps/1030059)
-  2. [Noriko Mitose - EXEC_SPHILIA/. (Mir) [Infel]](/beatmaps/1146845)
-  3. [Birdy - Wings (Nu:Logic Remix) (Secretpipe) [Freedom]](/beatmaps/710881)
-  4. [Halozy - Kanshou no Matenrou (Lasse) [Lunatic]](/beatmaps/940751)
-  5. [KOAN Sound & Asa - Tetsuo's Redemption (Billain Remix) (Aiceo) [Redemption]](/beatmaps/779964)
-  6. [Shoji Meguro - Kimi no Kioku (Aethral Remix) (Akali) [Remembrance]](/beatmaps/1045757)
+  1. **[u's - Moment Ring (Chaoslitz) [wkyik's Insane]](/beatmaps/1030059)**
+  2. **[Noriko Mitose - EXEC_SPHILIA/. (Mir) [Infel]](/beatmaps/1146845)**
+  3. **[Birdy - Wings (Nu:Logic Remix) (Secretpipe) [Freedom]](/beatmaps/710881)**
+  4. **[Halozy - Kanshou no Matenrou (Lasse) [Lunatic]](/beatmaps/940751)**
+  5. **[KOAN Sound & Asa - Tetsuo's Redemption (Billain Remix) (Aiceo) [Redemption]](/beatmaps/779964)**
+  6. **[Shoji Meguro - Kimi no Kioku (Aethral Remix) (Akali) [Remembrance]](/beatmaps/1045757)**
 
 ---------------------------
 
@@ -127,11 +127,15 @@ There is only one mappool for all matches, made of beatmaps from the last four R
 
 ### General Rules
 
-- The tournament will be held in 1v1 double-elimination format with traditional seeding.
-- The matches will be played using Score V2 and TeamVS settings.
-- A referee will be present in every match and every match will be streamed, with additional commentators when possible.
-- The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF "Discord invite link") is mandatory at least for the duration of the tournament.
-- Round of 16 and Losers Round 1 are BO5, Quarterfinals, Semifinals, Losers Round 2, and Losers Round 3 are BO7. Finals, Losers Round 4, and Losers Semifinals are BO9. Grand Finals and Losers Finals are BO11.
+1. The tournament will be held in 1v1 double-elimination format with traditional seeding.
+2. The matches will be played using Score V2 and TeamVS settings.
+3. A referee will be present in every match and every match will be streamed, with additional commentators when possible.
+4. The tournament will be held over three weekends, joining the [Discord server](https://discord.gg/9sKe7nF "Discord invite link") is mandatory at least for the duration of the tournament.
+5. The **Winning conditions** for each stage will be:
+   - Round of 16 and Losers Round 1 are Best-of-5.
+   - Quarterfinals, Semifinals, Losers Round 2, and Losers Round 3 are Best-of-7.
+   - Finals, Losers Round 4, and Losers Semifinals are Best-of-9.
+   - **Grand Finals and Losers Finals** are Best-of-11
 
 ### Match Rules
 
