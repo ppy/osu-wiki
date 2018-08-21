@@ -10,7 +10,7 @@ osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama wa
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/t/98349>
+- [Five Years of osu! (Forum topik)](http://osu.ppy.sh/forum/t/98349)
 
 ## Oktober
 
@@ -33,7 +33,7 @@ Trivia: Untuk pemain yang memasuki lobi Multi sebelum memperbarui ke versi b2012
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/p/1825880>
+- [osu! versi (b20121008): osu!mania (Forum topik)](http://osu.ppy.sh/forum/p/1825880)
 
 ---
 
@@ -53,15 +53,15 @@ Overlay status tombol dianggap sebagai penambahan yang bagus. Sekarang, Anda ben
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/t/103427>
+- [osu! Versi (b20121029) (Forum topik)](http://osu.ppy.sh/forum/t/103427)
 
 ## November
 
-Pada 2012-11-13, **peringkat osu!mania telah diimplementasikan beserta dengan peringkat pp**. Untuk memastikan bahwa semua skor tidak dipalsukan atau menggunakan program ilegal, skor direset untuk terakhir kalinya.
+Pada 2012-11-13, **peringkat osu!mania telah diimplementasikan beserta dengan peringkat pp**. Untuk memastikan bahwa semua skor tidak dapat dipalsukan atau menggunakan program ilegal, skor direset untuk terakhir kalinya.
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/t/105564>
+- [Penyetelan Ulang Skor osu!mania (Forum topik)](http://osu.ppy.sh/forum/t/105564)
 
 ---
 
@@ -79,7 +79,7 @@ Tombol "Quick Button" ditambahkan ke lobi Multi di mana Anda secara acak akan be
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/t/106677>
+- [osu! Versi Rilis Publik (b20121122) (Forum topik)](http://osu.ppy.sh/forum/t/106677)
 
 ## Desember
 
@@ -97,12 +97,12 @@ Masalah teknis dan bug telah diprediksi dari awal. Dukungan widescreen, meskipun
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/t/110459>
+- [osu! Versi Rilis Publik (b20121221) (Forum topik)](http://osu.ppy.sh/forum/t/110459)
 
 ---
 
-Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. Versi baru [bancho](/wiki/bancho) dirilis dengan tujuan "mengurangi jumlah traffic yang terkirim saat terhubung. Dengan ini Anda seharusnya mengalami penyambungan lebih cepat sebanyak 95%". Terkait momen spesial ini, osu!direct diberikan kepada semua orang pada hari itu.
+Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. Versi baru [bancho](/wiki/bancho) dirilis dengan tujuan "mengurangi jumlah traffic yang terkirim saat terhubung. Dengan ini Anda seharusnya mengalami penyambungan lebih cepat sebanyak 95%". Terkait momen spesial ini, osu!direct diberikan secara gratis kepada semua orang pada hari itu.
 
 Tautan terkait:
 
-- <http://osu.ppy.sh/forum/p/2005499>
+- [Hari Natal (peningkatan bancho + osu!direct gratis) (Forum topik)](http://osu.ppy.sh/forum/p/2005499)
