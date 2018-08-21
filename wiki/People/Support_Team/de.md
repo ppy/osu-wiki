@@ -1,10 +1,8 @@
-Support Team
-================
+# Support Team
 
 Das **Support Team** (auch bekannt als **Support Team Redux**, leicht zu verwechseln mit dem "Account Support Team", welches ebenfalls als Support Team bekannt ist) besteht aus Mitgliedern der osu! Belegschaft, die für die Moderation von bestimmte Subforen im Forum zuständig sind: diese sind [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (ausgenommen [Tournaments](https://osu.ppy.sh/forum/55) und [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), und [Technical Support](https://osu.ppy.sh/forum/5).
 
-Verantwortung
----------------
+## Verantwortung
 
 Das Support Team ist verantwortlich für:
 
@@ -13,23 +11,22 @@ Das Support Team ist verantwortlich für:
 
 Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle für Unterstützung.
 
-Teammitglieder
---------------
+## Teammitglieder
 
 *Jedes Mitglied im Support Team kann Englisch und muss daher nicht vermerkt werden. [Seite der Support Team Gruppe](https://osu.ppy.sh/groups/22).*
 
 | Name | Zusätzlich gesprochene Sprachen |
-| ---- | --------- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | |
+| :-- | :-- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Philippinisch |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328)   | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | Deutsch |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | Spanisch |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720)     | Niederländisch |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Niederländisch |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif

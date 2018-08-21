@@ -1,10 +1,8 @@
-Equipe de Suporte
-====================
+# Equipe de Suporte
 
 **Equipe de Suporte** (normalmente chamados de **Support Team**, também conhecidos como "Support Team Redux" e não são relacionados com o account support team) são membros da equipe do osu! que tem foco em vários subforums: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (com exceção de [Tournaments](https://osu.ppy.sh/forum/55) e [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), e [Technical Support](https://osu.ppy.sh/forum/5).
 
-Responsabilidades
---------------------
+## Responsabilidades
 
 A Equipe de Suporte é responsável por:
 
@@ -13,23 +11,22 @@ A Equipe de Suporte é responsável por:
 
 Se alguém precisar de assistência nos subfórums mencionados, eles devem ser os primeiros a quem recorrer.
 
-Membros da Equipe
----------------------
+## Membros da Equipe
 
 *Todos os membros da Equipe de Suporte falam Inglês, a não ser que seja indicado abaixo. [Página da Equipe de Suporte](https://osu.ppy.sh/groups/22).*
 
 | Nomes | Idiomas adicionais |
-| ---- | --------- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | |
+| :-- | :-- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Filipino |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | Swedish, Spanish |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328)   | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | German |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | Spanish |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720)     | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | German |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif

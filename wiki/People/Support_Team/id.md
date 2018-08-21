@@ -1,10 +1,8 @@
-Tim Layanan
-===============
+# Tim Layanan
 
 **Support Team** (juga dikenal sebagai **Support Team Redux**, atau Tim Pendukung/Support) adalah anggota staff osu! dimana mereka berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (termasuk [Tournaments](https://osu.ppy.sh/forum/55) and [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), dan [Technical Support](https://osu.ppy.sh/forum/5).
 
-Tanggung Jawab
-------------------
+## Tanggung Jawab
 
 Tim Support bertanggung Jawab atas:
 
@@ -13,23 +11,22 @@ Tim Support bertanggung Jawab atas:
 
 Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, orang tersebut akan dilayani oleh Tim Support.
 
-Anggota Tim
--------------
+## Anggota Tim
 
 *Setiap anggota Tim Support berbicara bahasa Inggris, termasuk bahasa negara lain. [Halaman Daftar Kelompok Tim Support](https://osu.ppy.sh/groups/22).*
 
 | Nama | Bahasa Tambahan |
-| ---- | --------- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        | |
+| :-- | :-- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Filipino |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | Swedia, Spanyol |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328)   | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | Jerman |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | Spanyol |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720)     | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Jerman |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif
