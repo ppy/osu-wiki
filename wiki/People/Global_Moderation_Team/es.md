@@ -1,25 +1,21 @@
-Equipo de Moderación Global
-=============================
+# Equipo de Moderación Global
 
-El **Equipo de Moderación Global** (formalmente conocido como Administrador, Equipo de Mods Globales o “GreenBAT”), comúnmente referido como '"GMT"', son miembros del osu!Staff que se centran principalmente en la moderación y en los problemas pertinentes a lo largo del staff y la comunidad.
+El **Equipo de Moderación Global** (formalmente conocido como Administrador, Equipo de Mods Globales o “GreenBAT”), comúnmente referido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación y en los problemas pertinentes a lo largo del staff y la comunidad.
 
-Convirtiéndose en un GMT
-------------------------
+## Convirtiéndose en un GMT
 
-Convertirse en un miembro del **Equipo de Moderación Global** es un proceso intricado y complicado. Miembros potenciales son comunmente seleccionados por su habilidad de hablar un segundo idioma, después son discutidos por el equipo por su posible potencial como miembro.
+Convertirse en un miembro del **Equipo de Moderación Global** es un proceso intricado y complicado que requiere de una cantidad notable de contribuciones. Miembros potenciales son comunmente seleccionados por querer ayudar a otros usuarios, su actividad dentro de la comunidad y tener un excelente comportamiento. La habilidad de hablar un segundo idioma es sumamente recomendado. Finalmente, los cantidatos son discutidos por el equipo para determinar su posible potencial como miembro.
 
-Roles y Responsabilidades
--------------------------
+## Roles y Responsabilidades
 
 El Equipo de Moderación Global es responsable del bienestar del chat/foro y se encarga de las interacciones con la comunidad. Deben ser contactados si tienes alguna pregunta pertinente al aspecto de la moderación del juego, que incluye (pero no se limita a) problemas con el chat (silencios, acoso) y el foro (spam).
 
-Miembros del equipo
--------------------
+## Miembros del equipo
 
 *Ten en cuenta: Todos los miembros del GMT hablan inglés a menos que se diga lo contrario.* - [Página del equipo](http://osu.ppy.sh/groups/4)
 
 | Nombre | Idioma(s) | Enfoque |
-| ------ | ------ | ------- |
+| :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano | Moderación del chat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderación del chat, Moderación de Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
