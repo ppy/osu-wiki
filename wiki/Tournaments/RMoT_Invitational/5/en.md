@@ -15,7 +15,7 @@ The **Rapid Monthly osu! Tournament Invitational 5** (***RMoTI 5***) is an exclu
 
 ## Prizes
 
-The prizes are handed out in the form of **points**; every 48 points can be redeemed for a month of osu!supporter. The winner also recieves a profile badge.
+The prizes are handed out in the form of **points**; every 48 points can be redeemed for a month of osu!supporter tag. The winner also recieves a profile badge.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -69,11 +69,11 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 - ![][flag_RU] [Well Halen](/users/8660244 "Well Halen")
 - ![][flag_UA] [Xelite](/users/7793117 "Xelite")
 
-*Notice: Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semifinals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament: filler players.*
+*Notice: Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semifinals twice. Due to this, 4 people who have not reached semifinals were selected to participate in the tournament: filler players.*
 
 The filler players are chosen according to a few criteria in the following priority:
 
-1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
+1. Having participated in and reached QF (quarterfinals) once out of the last 4 RMoT's
 2. Number of times reached QF
 3. Number of times participated in RMoT
 4. Current pp
