@@ -1,10 +1,8 @@
-Zespół pomocy
-================
+# Zespół pomocy
 
 **Zespół pomocy** (również znani jako **Support Team Redux**, nie mylić z zespołem pomocy ds. kont, którzy również są znani jako Zespół pomocy) są członkami załogi osu!. Zajmują się moderowaniem forum oraz poszczególnych podforów: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (wyłączając [Tournaments](https://osu.ppy.sh/forum/55) i [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), a także [Technical Support](https://osu.ppy.sh/forum/5).
 
-Zadania
----------
+## Zadania
 
 Zespół pomocy jest odpowiedzialny za:
 
@@ -13,22 +11,29 @@ Zespół pomocy jest odpowiedzialny za:
 
 Jeżeli potrzebujesz pomocy na tych subforach, napisz do nich.
 
-Członkowie zespołu
----------------------
+## Członkowie zespołu
 
-*Każdy członek mówi po angielsku, chyba że jest inaczej napisane. [Strona grupowa](https://osu.ppy.sh/g/22).*
+*Każdy członek mówi po angielsku, chyba że jest inaczej napisane. [Strona grupowa](https://osu.ppy.sh/groups/22).*
 
 | Nick | Języki |
-| ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| [Ezoda](https://osu.ppy.sh/u/1231180) | Niemiecki |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polski |
-| [MillhioreF](https://osu.ppy.sh/u/941094) | |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipiński |
-| [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, Hiszpański |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Hiszpański |
-| [Tom94](https://osu.ppy.sh/u/1857058) | Niemiecki |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | Holenderski |
+| :-- | :-- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, Hiszpański |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Niemiecki |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif
