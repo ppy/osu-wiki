@@ -15,6 +15,6 @@ Full Specification
 
 It is primarily based on [the official specifications](http://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
 
-[Please read the rule before doing SBS.](/wiki/Storyboard_Scripting/General_Rules) It will save you the hassle later on. [For sprite/object spec.](/wiki/Storyboard_Scripting/Objects) and [their moveset](/wiki/Storyboard_Scripting/Commands). [Extra tidbits if you are interested](/wiki/Storyboard_Scripting/Miscellaneous).
+[Please read the rule before doing SBS.](/wiki/Storyboard_Scripting/General_Rules) It will save you the hassle later on. [For sprite/object spec.](/wiki/Storyboard_Scripting/Objects) and [their moveset](/wiki/Storyboard_Scripting/Commands).
 
 Note: **Save on beatmap first** before saving in Notepad. Also, the editor can be insensitive at times so **save often**.

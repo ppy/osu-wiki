@@ -17,6 +17,4 @@ Es basiert grundsätzlich auf [die offizielen Spezifikationen](http://osu.ppy.sh
 
 [Lies dir bitte erst die Regeln durch, bevor du mit dem SBS anfängst.](/wiki/Storyboard_Scripting/General_Rules) Klicke [hier](/wiki/Storyboard_Scripting/Objects) für Sprite/Objekt spezifische Elemente und [hier](/wiki/Storyboard_Scripting/Commands) für Befehle, um deren Bewegungabläufe festlegen zu können.
 
-[Noch mehr Leckerbissen, falls du interessiert sein solltest.](/wiki/Storyboard_Scripting/Miscellaneous)
-
 Hinweis: **Speichere es zuerst in der Beatmap als .osb-Datei ab**, bevor du es im Textdokument abspeicherst. Der Editor ist dazu auch noch sehr sensibel, daher solltest du **sehr oft** abspeichern, um mögliche Abstürze vorzubeugen.
