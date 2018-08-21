@@ -1,6 +1,6 @@
 # osu! Alumni
 
-**osu! Alumni** adalah mereka yang dikenal karena kontribusi-kontribusi mereka yang mengharukan. Yang mana ketika mereka kembali kami telah memberikan sebuah penghargaan untuk setiap anggota di tengah-tengah setiap orang. [Tautan](https://osu.ppy.sh/groups/16)
+**osu! Alumni** adalah mereka yang dikenal karena kontribusi-kontribusi yang telah berpindah. Ketika bahan sudah tersedia kami akan menegakkan sebuah patung untuk setiap member di alun-alun kota. Tautan ke [user group page](https://osu.ppy.sh/groups/16)
 
 | Nama | Posisi |
 | :-- | :-- |
