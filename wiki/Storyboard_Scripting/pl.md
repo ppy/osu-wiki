@@ -15,6 +15,6 @@ Pełna specyfikacja
 
 It is primarily based on [the official specifications](http://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
 
-[Przeczytaj główne zasady przed zaczęciem skryptowania tła](/wiki/Storyboard_Scripting/General_Rules). Zaoszczędzi ci to późniejszych problemów. Tutaj możesz sprawdzić [specyfikację obiektów w sprite'ów](/wiki/Storyboard_Scripting/Objects) oraz [ich ruch](/wiki/Storyboard_Scripting/Commands). Tutaj mamy [dodatkowe ciekawoski](/wiki/Storyboard_Scripting/Miscellaneous).
+[Przeczytaj główne zasady przed zaczęciem skryptowania tła](/wiki/Storyboard_Scripting/General_Rules). Zaoszczędzi ci to późniejszych problemów. Tutaj możesz sprawdzić [specyfikację obiektów w sprite'ów](/wiki/Storyboard_Scripting/Objects) oraz [ich ruch](/wiki/Storyboard_Scripting/Commands).
 
 Ważne: Przed zapisaniem pracy w Notatniku, **zapisz wpierw beatmapę**. Edytor może czasami nie odpowiadać, więc **często dokonuj zapisów**.
