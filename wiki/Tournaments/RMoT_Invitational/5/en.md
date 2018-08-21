@@ -50,6 +50,13 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 ![][flag_GB] [Olii](/users/7683305 "Olii") won the predictions, with ![][flag_SI] [Redavor](/users/3328606 "Redavor") in second place, and ![][flag_PL] [Malson](/users/6047395 "Malson") in third place.
 
+ ## Links
+ 
+- [Discussion thread](/community/forums/topics/741126)
+- **[Challonge](https://challonge.com/rmotinvitational5)**
+
+------------------------
+
 ## Participants
 
 16 players are admitted into each Invitational. Only players who have reached the Semifinals in one of the last four Invitationals get invited. Players eligible for Invitational 5 are:
@@ -80,12 +87,19 @@ The filler players are chosen according to a few criteria in the following prior
 
 ![][flag_MY] [Aasheda\_](/users/7614055 "Aasheda\_"), ![][flag_US] [Likean00b](/users/4860447 "Likean00b"), ![][flag_PL] [My Angel Erwin](/users/6814521 "My Angel Erwin") and ![][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") gained the right to participate in the Invitational, ![][flag_RU] [Skif4a8929](/users/6700953 "Skif4a8929") being seeded lower than the other three.
 
- ## Links
- 
-- [Discussion thread](/community/forums/topics/741126)
-- **[Challonge](https://challonge.com/rmotinvitational5)**
+------------------------
 
-------------------------------------
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Participant |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
+
+------------------------
 
 ## Mappools
 
