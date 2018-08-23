@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2014
 =====================
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecida por OWC 2014, é gerida pela [Administração de Torneios](https://osu.ppy.sh/g/26). É o 5º evento do osu! World Cup. O Atual campeão é a **![][flag_KR] Coreia do Sul**.
 
@@ -55,7 +55,7 @@ Links
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](brackets.jpg)
+![OWC 2014 brackets](img/brackets.jpg)
 
 ------------------------------------------------------------------------
 

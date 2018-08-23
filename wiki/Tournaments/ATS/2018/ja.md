@@ -1,17 +1,16 @@
 ---
 tags:
+- Asian Taiko Showdown 2018
 - ATS 2018
 - ATS2018
 ---
-Asian Taiko Showdown 2018
-=============================
+# Asian Taiko Showdown 2018
 
-![Asian Taiko Showdown 2018](banner.png)
+![ATS 2018 Logo](logo.jpg)
 
 > 皆で多様性を結び付けましょう！
 
-**Asian Taiko Showdown 2018 _(ATS 2018)_** は、![][flag_ID] [fajar13k](/users/7100002)氏主催の一対一のosu!taikoの大会で、double eliminationトーナメント方式(１回負けると敗者復活戦に参加して計２回負けるまで戦う形式のトーナメント)です。以前にATSは [Indonesian Taiko Showdown(IDTS)](/community/forums/topics/576070)として知られていました。
-今大会は第二回であり、対象国がインドネシアからアジアへと対象が広がりました。
+**Asian Taiko Showdown 2018 _(ATS 2018)_** は、![][flag_ID] [fajar13k](/users/7100002)氏主催の一対一のosu!taikoの大会で、double eliminationトーナメント方式(１回負けると敗者復活戦に参加して計２回負けるまで戦う形式のトーナメント)です。以前にATSは [Indonesian Taiko Showdown(IDTS)](/community/forums/topics/576070)として知られていました。今大会は第二回であり、対象国がインドネシアからアジアへと対象が広がりました。
 
 ## 大会スケジュール
 
@@ -29,95 +28,100 @@ Asian Taiko Showdown 2018
 ## 賞
 
 | 順位 | 賞 |
-| --- | :-- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 特別なプロフィールバッジ, ユーザーページにバナー追加 |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ユーザーページにバナー追加 |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ユーザーページにバナー追加 |
-
-*残りの賞は今後決められます。*
 
 ## 主催者
 
 ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営します。
 
 | 役割 | ﾒﾝﾊﾞｰ |
-| --- | --- |
+| :-- | :-- |
 | 主催 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 | 譜面セレクター | ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_ID] [Guardistack-](/users/1602428), ![][flag_MY] [cdhsausageboy](/users/2403621) |
 | コメンテーター | ![][flag_AU] [Jaye](/users/4841352), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_US] [Das](/users/3165416) |
 | 放送配信者 | ![][flag_JP] [SakuraFrost-](/users/8147993), ![][flag_ID] [rap12](/users/2300279) |
 | デザイナー | ![][flag_PH] [OsuMe65](/users/852867), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CL] [Valelup](/users/6497014) |
 | 審判 | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_CL] [Valelup](/users/6497014), ![][flag_CL] [Asagaki](/users/2632902), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_ID] [Alwaysyukaz](/users/4999506), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_ID] [pmriva](/users/2180885), ![][flag_ID] [XK2238](/users/1139209) |
-| 翻訳家  | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
-| 集計 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_ID] [Aozora-](/users/6918206), ![][flag_US] [JDrago14](/users/7690078) |
+| 翻訳家  | ![][flag_JP] [JUDYDANNY](/users/1165475), ![][flag_JP] [Noko\_BSF](/users/3811831), ![][flag_JP] [nyanmi-1828](/users/6866480) ![][flag_TW] [Smallwu](/users/2512120), ![][flag_HK] [tkdLolly](/users/9035344), ![][flag_KR] [Konpaku Sariel](/users/533502), ![][flag_KR] [MetalStream](/users/165027), ![][flag_KR] [404 AccNotFound](/users/980092) |
+| 集計 | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_US] [JDrago14](/users/7690078) |
 
 ## リンク
 
 - [討論スレッド](/community/forums/topics/726251)
 - [ライブ配信](https://www.twitch.tv/osutaikoshowdown)
-- [受付フォーム](https://goo.gl/forms/Z40RvcISgnMKNwGf2)
-- [課題曲 提案フォーム](https://goo.gl/forms/3mUBHYnKsusX03jC2)
 - [ATSディスコード](https://discord.gg/2xQDbkS)
-- [ATS 統計シート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)
-
------------------------
-
-## 対戦スケジュール: Finals
-
-### Saturday, 30 June 2018
-
-| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| #28 | UB | nyanmi-1828 | ![][flag_JP] | ![][flag_JP] | butter0414 | **07:00 UTC** | 16:00 UTC +9 | 16:00 UTC +9 |
-| #25 | LB | Sanawieck | ![][flag_JP] | ![][flag_TW] | Smallwu | **08:30 UTC** | 17:30 UTC +9 | 16:30 UTC +8 |
-| #26 | LB | qoot8123 | ![][flag_TW] | ![][flag_JP] | Xin Leviathan | **14:00 UTC** | 22:00 UTC +8 | 23:00 UTC +9 |
-
-### Sunday, 1 July 2018
-
-| Match Number | Group | Player A |  |  | Player B | Match Time (UTC) | Local Time A | Local Time B |
-| :-: | :-: | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| #27 | LB | (Winner of #25) |  |  | (Winner of #26) | **08:00 UTC** |  |  |
-| #29 | LB | (Loser of #28) |  |  | (Winner of #27) | **09:30 UTC** |  |  |
+- **[ATS 統計シート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
 -----------------------
 
 ## 参加者
 
-### 参加決定者
-
 | Seed | 選手 |
-| --- | --- |
-| Top | ![][flag_JP] [butter0414](/users/7935022), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_JP] [KILI3343](/users/11233651), ![][flag_MY] [Jerry](/users/605973), ![][flag_TW] [qoot8123](/users/766371), ![][flag_TW] [Smallwu](/users/2512120), ![][flag_TW] [TS_LewisLuo](/users/4337536), ![][flag_JP] [toorun12](/users/10349712) |
-| High | ![][flag_MY] [ZethZ161](/users/9912966), ![][flag_KR] [L y s](/users/211825), ![][flag_JP] [yyyyyyyyyyypetu](/users/468029), ![][flag_JP] [Noko_BSF](/users/3811831), ![][flag_JP] [Xin Leviathan](/users/9575624), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_ID] [ayomikasa](/users/4866957), ![][flag_PH] [Jmeh07](/users/2852269) |
+| :-- | :-- |
+| Top | ![][flag_JP] [butter0414](/users/7935022), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_JP] [KILI3343](/users/11233651), ![][flag_MY] [Jerry](/users/605973), ![][flag_TW] [qoot8123](/users/766371), ![][flag_TW] [Smallwu](/users/2512120), ![][flag_TW] [TS\_LewisLuo](/users/4337536), ![][flag_JP] [toorun12](/users/10349712) |
+| High | ![][flag_MY] [ZethZ161](/users/9912966), ![][flag_KR] [L y s](/users/211825), ![][flag_JP] [yyyyyyyyyyypetu](/users/468029), ![][flag_JP] [Noko\_BSF](/users/3811831), ![][flag_JP] [Xin Leviathan](/users/9575624), ![][flag_ID] [Niko-nyan](/users/906991), ![][flag_ID] [ayomikasa](/users/4866957), ![][flag_PH] [Jmeh07](/users/2852269) |
 | Low | ![][flag_JP] [Sanawieck](/users/4125666), ![][flag_KR] [404 AccNotFound](/users/980092), ![][flag_ID] [Shirai-](/users/4221845), ![][flag_MY] [Dakry](/users/1994145), ![][flag_AU] [SpiritsUnite](/users/1198002), ![][flag_JP] [GlinT fraulein](/users/7364981), ![][flag_ID] [Braixen](/users/4871378), ![][flag_MY] [CrabCow](/users/9755504) |
-| Bottom | ![][flag_JP] [Briesmas](/users/2865172), ![][flag_PH] [Micka](/users/2770422), ![][flag_JP] [puropera209](/users/2545134), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_VN] [Taiko_VN12](/users/10072828), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_ID] [_CaKy_](/users/9828983), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_ID] [Jin Kun](/users/6896699), ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_MY] [Minisora](/users/9627666), ![][flag_PH] [-Zephy-](/users/6862483) |
+| Bottom | ![][flag_JP] [Briesmas](/users/2865172), ![][flag_PH] [Micka](/users/2770422), ![][flag_JP] [puropera209](/users/2545134), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_VN] [Taiko\_VN12](/users/10072828), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_ID] [\_CaKy\_](/users/9828983), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_ID] [Jin Kun](/users/6896699), ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_MY] [Minisora](/users/9627666), ![][flag_PH] [-Zephy-](/users/6862483) |
 
-### グループ
+## グループ
 
-| Group | Top | High | Low | Bottom |
-| --- | --- | --- | --- | --- |
-| A | ![][flag_MY] [Jerry](/users/605973) | ![][flag_JP] [Xin Leviathan](/users/9575624) | ![][flag_KR] [404 AccNotFound](/users/980092) | ![][flag_VN] [Taiko_VN12](/users/10072828) |
-| B | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](/users/468029) | ![][flag_MY] [Dakry](/users/1994145) | ![][flag_AU] [Beat43210](/users/5664171) |
-| C | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_KR] [L y s](/users/211825) | ![][flag_ID] [Braixen](/users/4871378) | ![][flag_AU] [Tsubasa2](/users/6835183) |
-| D | ![][flag_TW] [qoot8123](/users/766371) | ![][flag_MY] [ZethZ161](/users/9912966) | ![][flag_MY] [CrabCow](/users/9755504) | ![][flag_PH] [Micka](/users/2770422) |
-| E | ![][flag_JP] [toorun12](/users/10349712) | ![][flag_JP] [Noko_BSF](/users/3811831) | ![][flag_JP] [Sanawieck](/users/4125666) | ![][flag_JP] [Briesmas](/users/2865172) |
-| F | ![][flag_JP] [butter0414](/users/7935022) | ![][flag_ID] [Niko-nyan](/users/906991) | ![][flag_AU] [SpiritsUnite](/users/1198002) | ![][flag_SG] [uchuuj1n](/users/9140302) |
-| G | ![][flag_TW] [TS_LewisLuo](/users/4337536) | ![][flag_ID] [ayomikasa](/users/4866957) | ![][flag_ID] [Shirai-](/users/4221845) | ![][flag_MY] [Bedwyr Aorta](/users/10875855) |
-| H | ![][flag_JP] [KILI3343](/users/11233651) | ![][flag_PH] [Jmeh07](/users/2852269) | ![][flag_JP] [GlinT fraulein](/users/7364981) | ![][flag_JP] [puropera209](/users/2545134) |
+| Group | Top Seed | High Seed | Low Seed | Bottom Seed |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_MY] [Jerry](/users/605973) | ![][flag_JP] [Xin Leviathan](/users/9575624) | ![][flag_KR] [404 AccNotFound](/users/980092) | ![][flag_VN] [Taiko\_VN12](/users/10072828) |
+| **B** | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [yyyyyyyyyyypetu](/users/468029) | ![][flag_MY] [Dakry](/users/1994145) | ![][flag_AU] [Beat43210](/users/5664171) |
+| **C** | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_KR] [L y s](/users/211825) | ![][flag_ID] [Braixen](/users/4871378) | ![][flag_AU] [Tsubasa2](/users/6835183) |
+| **D** | ![][flag_TW] [qoot8123](/users/766371) | ![][flag_MY] [ZethZ161](/users/9912966) | ![][flag_MY] [CrabCow](/users/9755504) | ![][flag_PH] [Micka](/users/2770422) |
+| **E** | ![][flag_JP] [toorun12](/users/10349712) | ![][flag_JP] [Noko\_BSF](/users/3811831) | ![][flag_JP] [Sanawieck](/users/4125666) | ![][flag_JP] [Briesmas](/users/2865172) |
+| **F** | ![][flag_JP] [butter0414](/users/7935022) | ![][flag_ID] [Niko-nyan](/users/906991) | ![][flag_AU] [SpiritsUnite](/users/1198002) | ![][flag_SG] [uchuuj1n](/users/9140302) |
+| **G** | ![][flag_TW] [TS\_LewisLuo](/users/4337536) | ![][flag_ID] [ayomikasa](/users/4866957) | ![][flag_ID] [Shirai-](/users/4221845) | ![][flag_MY] [Bedwyr Aorta](/users/10875855) |
+| **H** | ![][flag_JP] [KILI3343](/users/11233651) | ![][flag_PH] [Jmeh07](/users/2852269) | ![][flag_JP] [GlinT fraulein](/users/7364981) | ![][flag_JP] [puropera209](/users/2545134) |
  
 -----------------------
 
-![Group Stage Participants](gs_participants.gif)
+![ATS 2018 Podium](podium.jpg)
 
 -----------------------
 
-![ATS Upper Bracket](upper_bracket.png)
+![ATS 2018 Upper Bracket](upper_bracket.jpg)
 
-![ATS Lower Bracket](lower_bracket.png)
+![ATS 2018 Lower Bracket](lower_bracket.jpg)
+
+![ATS 2018 GS Participants](gs_participants.gif)
 
 -----------------------
 
 ## 譜面プール(課題曲)
+
+### Grand Finals
+
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
+
+- NoMod
+  - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](/beatmapsets/625899/#taiko/1574085)
+  - [A.I.TOYS - compressed eyes (\_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
+  - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323) 
+  - [LeaF - ATHAZA (vzk) \[Fatal Oni\]](/beatmapsets/517281/#taiko/1174736)
+  - [t+pazolite - !!!Chaos Time!!! (Kobaryo's FTN Remix) (sing216) \[iiiChaos On!iii\]](/beatmapsets/721195/#taiko/1522932)
+- Hidden
+  - [Reji - A Young Girl, So Vivid in the Night (S a n d) \[Sand's Taiko Oni\]](/beatmapsets/342499/#taiko/757048) 
+  - [DECO*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](/beatmapsets/345191/#taiko/762382) 
+- HardRock
+  - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](/beatmapsets/529539/#taiko/1122796) 
+  - [NEKI<T - GaRaKuTic Dream (7_7) \[Oni\]](/beatmapsets/577572/#taiko/1222367) 
+- DoubleTime
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](/beatmapsets/541523/#taiko/1148729)
+  - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) - (SKSalt) \[SK's Inner Oni\]](/beatmapsets/286025/#taiko/871725)
+- Special
+  - [Penoreri - Everlasting message (NewibornCLivee) \[xN.taiCLx\]](/beatmapsets/304775/#taiko/682755)
+  - [Ryu* - !Viva! (Nofool) \[Insane Oni\]](/beatmapsets/799895/#taiko/1679280)
+- FreeMod
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (Skull Kid) \[Shinobi Oni\]](/beatmapsets/742966/#taiko/1566951) 
+  - [NekoMata L.E.D.Master+ - GAIA (glalucard) \[Taiko\]](/beatmapsets/94086/#taiko/253469)
+- Tiebreaker
+  - **[RoughSketch + DD""Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Guardistack-) \[STAnic\]](/beatmapsets/748030/#taiko/1695846)**
 
 ### Finals
 
@@ -145,7 +149,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [PSYQUI - Hype feat. Such (KinomiCandy) \[Future Oni\]](/beatmapsets/777879/#taiko/1634000) 
   - [LeaF - Wizdomiot (JUDYDANNY) \[JuDa's Inner Oni\]](/beatmapsets/352682/#taiko/781859)
 - Tiebreaker
-  - [BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](/beatmapsets/523713/#taiko/1111804)
+  - **[BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](/beatmapsets/523713/#taiko/1111804)**
 
 ### Semifinals
 
@@ -173,7 +177,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [LeaF - Resurrection Spell (- Kagami Yuki -) \[Kagami's Taiko\]](/beatmapsets/178857/#taiko/430150) 
   - [EVO+ feat. GigaReol - [A]ddiction (KinomiCandy, MMzz, Y O U T A) \[Kinobles, MMzz & YOUTA's [C]ollaboration\]](/beatmapsets/491590/#taiko/1047519)
 - Tiebreaker
-  - [Morimori Atsushi vs. uma - Noel (long ver.) (Ayyri) \[Ayyri's Oni\]](/beatmapsets/705224/#taiko/1491659)
+  - **[Morimori Atsushi vs. uma - Noel (long ver.) (Ayyri) \[Ayyri's Oni\]](/beatmapsets/705224/#taiko/1491659)**
 
 ### Quarterfinals
 
@@ -201,7 +205,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [An - Abstreact (xfraczynho) \[First Impulse\]](/beatmapsets/620725/#taiko/1308564) 
   - [sak respect for Arata Iiyoshi - Reason of being (rew0825) \[Inner Oni\]](/beatmapsets/746440/#taiko/1573223)
 - Tiebreaker
-  - [Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](/beatmapsets/551087/#taiko/1624252)
+  - **[Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](/beatmapsets/551087/#taiko/1624252)**
 
 ### Round of 16
 
@@ -229,7 +233,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [happy30 - As the wind blows (Short Ver.) (Skylish) \[Skylish Windlish Oni\]](/beatmapsets/478670/#taiko/1229268) 
   - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](/beatmapsets/679686/#taiko/1437286)
 - Tiebreaker
-  - [IOSYS - Doutei Korose (Plua-) \[Taikorose-\]](/beatmapsets/653540/#taiko/1385416)
+  - **[IOSYS - Doutei Korose (Plua-) \[Taikorose-\]](/beatmapsets/653540/#taiko/1385416)**
 
 ### Group Stage
 
@@ -257,7 +261,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [96neko - Uso no Hibana (Charlotte) \[Charlotte's Oni\]](/beatmapsets/767870/#taiko/1627201) 
   - [Ranko - Ashita mo Haremasu You ni (Kurai) \[Oni\]](/beatmapsets/78870/#taiko/220354)
 - Tiebreaker
-  - [KikouHana - Nobore! Susume! Takai Tou (\[R\]) \[Continue!\]](/beatmapsets/548016/#taiko/1160620)
+  - **[KikouHana - Nobore! Susume! Takai Tou (\[R\]) \[Continue!\]](/beatmapsets/548016/#taiko/1160620)**
 
 ### Eliminations Stage
 
@@ -280,132 +284,152 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
   - [t+pazolite - Pumpin' Junkies (Nwolf) \[Nwolf's Lite Oni\]](/beatmapsets/364288/#taiko/991619) 
   - [Atoguru - Privilege (Alace) \[Pangko\]](/beatmapsets/43861/#taiko/138598)
 - Tiebreaker
-  - [Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/42234#taiko/135188)
+  - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/42234#taiko/135188)**
 
 ------------------------------------------------------------------------
 
 ## 試合結果
 
+### Grand Finals
+
+| Group | Sunday, 2018-07-08 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| UB | nyanmi-1828 ![][flag_JP] | 2 | **7** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43991727) |
+| LB | **Smallwu** ![][flag_TW] | **7** | 0 | ![][flag_JP] nyanmi-1828 | -win by default- |
+
+### Finals
+
+| Group | Saturday, 2018-06-30 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| UB | **nyanmi-1828** ![][flag_JP] | **7** | 1 | ![][flag_JP] butter0414 | [#1](/community/matches/43771414) |
+| LB | **qoot8123** ![][flag_TW] | **7** | 5 | ![][flag_JP] Xin Leviathan | [#1](/community/matches/43779830) |
+
+| Group | Sunday, 2018-07-01 |  |  |  |  | 
+| :-: | --: | :-: | :-- | :-- | :-: |
+| LB | Sanawieck ![][flag_JP] | 0 | **7** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43803040) |
+| LB | **Smallwu** ![][flag_TW] | **7** | 1 | ![][flag_TW] qoot8123 | [#1](/community/matches/43804465) |
+| LB | butter0414 ![][flag_JP] | 0 | **7** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43807559) |
+
 ### Semifinals
 
 | Group | Saturday, 2018-06-23 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| LB | ayomikasa ![][flag_ID] | 4 | 6 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/43586711) |
-| LB | Xin Leviathan ![][flag_JP] | 6 | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43583803) |
-| UB | qoot8123 ![][flag_TW] | 2 | 6 | ![][flag_JP] butter0414 | [#1](https://osu.ppy.sh/community/matches/43584932) |
-| LB | Smallwu ![][flag_TW] | 6 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
+| LB | ayomikasa ![][flag_ID] | 4 | **6** | ![][flag_MY] **ZethZ161** | [#1](/community/matches/43586711) |
+| LB | **Xin Leviathan** ![][flag_JP] | **6** | 1 | ![][flag_JP] KILI3343 | [#1](/community/matches/43583803) |
+| UB | qoot8123 ![][flag_TW] | 2 | **6** | ![][flag_JP] **butter0414** | [#1](/community/matches/43584932) |
+| LB | **Smallwu** ![][flag_TW] | **6** | 0 | ![][flag_ID] Niko-nyan | -win by default- |
 
 | Group | Sunday, 2018-06-24 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| LB | TS_LewisLuo ![][flag_TW] | 6 | 5 | ![][flag_MY] Jerry | [#1](https://osu.ppy.sh/community/matches/43609032) |
-| LB | ZethZ161 ![][flag_MY] | 3 | 6 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43646954) |
-| LB | TS_LewisLuo ![][flag_TW] | 5 | 6 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/43613894) |
-| UB | nyanmi-1828 ![][flag_JP] | 6 | 2 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/43617099) |
+| LB | **TS\_LewisLuo** ![][flag_TW] | **6** | 5 | ![][flag_MY] Jerry | [#1](/community/matches/43609032) |
+| LB | ZethZ161 ![][flag_MY] | 3 | **6** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43646954) |
+| LB | TS\_LewisLuo ![][flag_TW] | 5 | **6** | ![][flag_JP] **Xin Leviathan** | [#1](/community/matches/43613894) |
+| UB | **nyanmi-1828** ![][flag_JP] | **6** | 2 | ![][flag_JP] Sanawieck | [#1](/community/matches/43617099) |
 
 ### Quarterfinals
 
 | Group | Saturday, 2018-06-16 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| UB | Xin Leviathan ![][flag_JP] | 2 | 5 | ![][flag_JP] nyanmi-1828 | [#1](https://osu.ppy.sh/community/matches/43384244) |
-| LB | Jerry ![][flag_MY] | 5 | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43385309) |
-| LB | Niko-nyan ![][flag_ID] | 5 | 1 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43385319) |
-| UB | Smallwu ![][flag_TW] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43391517) |
+| UB | Xin Leviathan ![][flag_JP] | 2 | **5** | ![][flag_JP] **nyanmi-1828** | [#1](/community/matches/43384244) |
+| LB | **Jerry** ![][flag_MY] | **5** | 0 | ![][flag_AU] Tsubasa2 | [#1](/community/matches/43385309) |
+| LB | **Niko-nyan** ![][flag_ID] | **5** | 1 | ![][flag_JP] puropera209 | [#1](/community/matches/43385319) |
+| UB | Smallwu ![][flag_TW] | 0 | **5** | ![][flag_TW] **qoot8123** | [#1](/community/matches/43391517) |
 
 | Group | Sunday, 2018-06-17 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| UB | Sanawieck ![][flag_JP] | 5 | 3 | ![][flag_TW] TS_LewisLuo | [#1](https://osu.ppy.sh/community/matches/43413311) |
-| LB | Dakry ![][flag_MY] | 0 | 5 | ![][flag_MY] ZethZ161 | -Win by Default- |
-| UB | butter0414 ![][flag_JP] | 5 | 3 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/43414816) |
-| LB | Noko_BSF ![][flag_JP] | 2 | 5 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43415768) |
+| UB | **Sanawieck** ![][flag_JP] | **5** | 3 | ![][flag_TW] TS\_LewisLuo | [#1](/community/matches/43413311) |
+| LB | Dakry ![][flag_MY] | 0 | **5** | ![][flag_MY] **ZethZ161** | -win by default- |
+| UB | **butter0414** ![][flag_JP] | **5** | 3 | ![][flag_ID] ayomikasa | [#1](/community/matches/43414816) |
+| LB | Noko\_BSF ![][flag_JP] | 2 | **5** | ![][flag_JP] **KILI3343** | [#1](/community/matches/43415768) |
 
 ### Round of 16
 
 | Group | Saturday, 2018-06-09 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| UB | Xin Leviathan ![][flag_JP] | 5 | 3 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43186328) |
-| UB | Sanawieck ![][flag_JP] | 5 | 0 | ![][flag_ID] Niko-nyan | -Win by Default- |
-| UB | Jerry ![][flag_MY] | 4 | 5 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/43194107) |
+| UB | **Xin Leviathan** ![][flag_JP] | **5** | 3 | ![][flag_MY] Dakry | [#1](/community/matches/43186328) |
+| UB | **Sanawieck** ![][flag_JP] | **5** | 0 | ![][flag_ID] Niko-nyan | -win by default- |
+| UB | Jerry ![][flag_MY] | 4 | **5** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43194107) |
 
-| Group | Saturday, 2018-06-10 |  |  |  |  | 
+| Group | Sunday, 2018-06-10 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| UB | Tsubasa2 ![][flag_AU] | 0 | 5 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43218564) |
-| UB | TS_LewisLuo ![][flag_TW] | 5 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43219599) |
-| UB | nyanmi-1828 ![][flag_JP] | 5 | 0 | ![][flag_MY] ZethZ161 | -Win by Default- |
-| UB | Noko_BSF ![][flag_JP] | 0 | 5 | ![][flag_JP] butter0414 | -Win by Default- |
-| UB | ayomikasa ![][flag_ID] | 5 | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43221245) |
+| UB | Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_TW] **qoot8123** | [#1](/community/matches/43218564) |
+| UB | **TS\_LewisLuo** ![][flag_TW] | **5** | 0 | ![][flag_JP] puropera209 | [#1](/community/matches/43219599) |
+| UB | **nyanmi-1828** ![][flag_JP] | **5** | 0 | ![][flag_MY] ZethZ161 | -win by default- |
+| UB | Noko\_BSF ![][flag_JP] | 0 | **5** | ![][flag_JP] **butter0414** | -win by default- |
+| UB | **ayomikasa** ![][flag_ID] | **5** | 1 | ![][flag_JP] KILI3343 | [#1](/community/matches/43221245) |
 
 ### Group Stage
 
 | Group | Saturday, 2018-06-02 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| C | nyanmi-1828 ![][flag_JP] | 4 | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
-| D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
-| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | Nullified |
-| G | ayomikasa ![][flag_ID] | 4 | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42980581) |
-| F | butter0414 ![][flag_JP] | 4 | 1 | ![][flag_ID] Niko-nyan | [#1](https://osu.ppy.sh/community/matches/42981652) |
-| H | Jmeh07 ![][flag_PH] | 4 | 3 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/42981801) |
-| H | KILI3343 ![][flag_JP] | 4 | 0 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/42983025) |
-| C | L y s ![][flag_KR] | 0 | 4 | ![][flag_AU] Tsubasa2 | -Win by Default- |
-| F | butter0414 ![][flag_JP] | 4 | 0 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42982589) |
-| E | Noko_BSF ![][flag_JP] | 4 | 2 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/42984024) |
-| F | Niko-nyan ![][flag_ID] | 4 | 1 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42983966) |
-| D | qoot8123 ![][flag_TW] | 4 | 2 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/42984090) |
-| A | Jerry ![][flag_MY] | 4 | 0 | ![][flag_KR] 404 AccNotFound | -Win by Default- |
-| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | Nullified |
-| E | toorun12 ![][flag_JP] | 1 | 4 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/42985601) |
-| F | butter0414 ![][flag_JP] | 4 | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42985633) |
-| B | Smallwu ![][flag_TW] | 4 | 0 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/42987313) |
-| C | L y s ![][flag_KR] | 0 | 4 | ![][flag_ID] Braixen | -Win by Default- |
-| F | Niko-nyan ![][flag_ID] | 4 | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42987345) |
-| G | ayomikasa ![][flag_ID] | 2 | 4 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/42989100) |
-| E | Sanawieck ![][flag_JP] | 4 | 2 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/42989256) |
-| D | qoot8123 ![][flag_TW] | 4 | 0 | ![][flag_MY] CrabCow | -Win by Default- |
-| H | GlinT fraulein ![][flag_JP] | 0 | 4 | ![][flag_JP] puropera209 | -Win by Default- |
-| G | Shirai- ![][flag_ID] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42991227) |
+| C | **nyanmi-1828** ![][flag_JP] | **4** | 1 | ![][flag_KR] L y s | [#1](/community/matches/42979943) |
+| D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_PH] Micka | [#1](/community/matches/42979761) |
+| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | -nullified- |
+| G | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/42980581) |
+| F | **butter0414** ![][flag_JP] | **4** | 1 | ![][flag_ID] Niko-nyan | [#1](/community/matches/42981652) |
+| H | **Jmeh07** ![][flag_PH] | **4** | 3 | ![][flag_JP] GlinT fraulein | [#1](/community/matches/42981801) |
+| H | **KILI3343** ![][flag_JP] | **4** | 0 | ![][flag_JP] puropera209 | [#1](/community/matches/42983025) |
+| C | L y s ![][flag_KR] | 0 | **4** | ![][flag_AU] **Tsubasa2** | -win by default- |
+| F | **butter0414** ![][flag_JP] | **4** | 0 | ![][flag_AU] SpiritsUnite | [#1](/community/matches/42982589) |
+| E | **Noko\_BSF** ![][flag_JP] | **4** | 2 | ![][flag_JP] Briesmas | [#1](/community/matches/42984024) |
+| F | **Niko-nyan** ![][flag_ID] | **4** | 1 | ![][flag_AU] SpiritsUnite | [#1](/community/matches/42983966) |
+| D | **qoot8123** ![][flag_TW] | **4** | 2 | ![][flag_MY] ZethZ161 | [#1](/community/matches/42984090) |
+| A | **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_KR] 404 AccNotFound | -win by default- |
+| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | -nullified- |
+| E | toorun12 ![][flag_JP] | 1 | **4** | ![][flag_JP] **Sanawieck** | [#1](/community/matches/42985601) |
+| F | **butter0414** ![][flag_JP] | **4** | 0 | ![][flag_SG] uchuuj1n | [#1](/community/matches/42985633) |
+| B | **Smallwu** ![][flag_TW] | **4** | 0 | ![][flag_MY] Dakry | [#1](/community/matches/42987313) |
+| C | L y s ![][flag_KR] | 0 | **4** | ![][flag_ID] **Braixen** | -win by default- |
+| F | **Niko-nyan** ![][flag_ID] | **4** | 0 | ![][flag_SG] uchuuj1n | [#1](/community/matches/42987345) |
+| G | ayomikasa ![][flag_ID] | 2 | **4** | ![][flag_ID] **Shirai-** | [#1](/community/matches/42989100) |
+| E | **Sanawieck** ![][flag_JP] | **4** | 2 | ![][flag_JP] Briesmas | [#1](/community/matches/42989256) |
+| D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_MY] CrabCow | -win by default- |
+| H | GlinT fraulein ![][flag_JP] | 0 | **4** | ![][flag_JP] **puropera209** | -win by default- |
+| G | **Shirai-** ![][flag_ID] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/42991227) |
 
 | Group | Sunday, 2018-06-03 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| B | Dakry ![][flag_MY] | 4 | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43007113) |
-| H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_PH] Jmeh07 | [#1](https://osu.ppy.sh/community/matches/43013154) |
-| C | nyanmi-1828 ![][flag_JP] | 4 | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43013166) |
-| A | Jerry ![][flag_MY] | 3 | 4 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/43014229) |
-| G | TS_LewisLuo ![][flag_TW] | 4 | 3 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/43014204) |
-| E | toorun12 ![][flag_JP] | 2 | 4 | ![][flag_JP] Noko_BSF | [#1](https://osu.ppy.sh/community/matches/43015077) |
-| C | Braixen ![][flag_ID] | 0 | 4 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/43015077) |
-| A | Xin Leviathan ![][flag_JP] | 4 | 0 | ![][flag_KR] 404 AccNotFound | -Win by Default- |
-| E | Noko_BSF ![][flag_JP] | 0 | 4 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/43016212) |
-| A | 404 AccNotFound ![][flag_KR] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
-| D | ZethZ161 ![][flag_MY] | 4 | 0 | ![][flag_MY] CrabCow | -Win by Default- |
-| C | nyanmi-1828 ![][flag_JP] | 4 | 0 | ![][flag_ID] Braixen | [#1](https://osu.ppy.sh/community/matches/43017203) |
-| H | Jmeh07 ![][flag_PH] | 4 | 2 | ![][flag_JP] puropera209 | [#1](https://osu.ppy.sh/community/matches/43017361) |
-| B | yyyyyyyyyyypetu ![][flag_JP] | 4 | 1 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43017420) |
-| G | TS_LewisLuo ![][flag_TW] | 4 | 0 | ![][flag_ID] Shirai- | -Win by Default- |
-| E | toorun12 ![][flag_JP] | 3 | 4 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/43018109) |
-| A | Jerry ![][flag_MY] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
-| D | ZethZ161 ![][flag_MY] | 4 | 1 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/43018296) |
-| B | yyyyyyyyyyypetu ![][flag_JP] | 3 | 4 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/43019555) |
-| B | Smallwu ![][flag_TW] | 4 | 1 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/43020029) |
-| H | KILI3343 ![][flag_JP] | 4 | 1 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/43021191) |
-| F | SpiritsUnite ![][flag_AU] | 4 | 0 | ![][flag_SG] uchuuj1n | -Win by Default- |
-| A | Xin Leviathan ![][flag_JP] | 4 | 0 | ![][flag_VN] Taiko_VN12 | -Win by Default- |
-| G | TS_LewisLuo ![][flag_TW] | 4 | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/43024126) |
+| B | **Dakry** ![][flag_MY] | **4** | 2 | ![][flag_AU] Beat43210 | [#1](/community/matches/43007113) |
+| H | **KILI3343** ![][flag_JP] | **4** | 1 | ![][flag_PH] Jmeh07 | [#1](/community/matches/43013154) |
+| C | **nyanmi-1828** ![][flag_JP] | **4** | 0 | ![][flag_AU] Tsubasa2 | [#1](/community/matches/43013166) |
+| A | Jerry ![][flag_MY] | 3 | **4** | ![][flag_JP] **Xin Leviathan** | [#1](/community/matches/43014229) |
+| G | **TS\_LewisLuo** ![][flag_TW] | **4** | 3 | ![][flag_ID] ayomikasa | [#1](/community/matches/43014204) |
+| E | toorun12 ![][flag_JP] | 2 | **4** | ![][flag_JP] **Noko\_BSF** | [#1](/community/matches/43015077) |
+| C | Braixen ![][flag_ID] | 0 | **4** | ![][flag_AU] **Tsubasa2** | [#1](/community/matches/43015077) |
+| A | **Xin Leviathan** ![][flag_JP] | **4** | 0 | ![][flag_KR] 404 AccNotFound | -win by default- |
+| E | Noko\_BSF ![][flag_JP] | 0 | **4** | ![][flag_JP] **Sanawieck** | [#1](/community/matches/43016212) |
+| A | **404 AccNotFound** ![][flag_KR] | **4** | 0 | ![][flag_VN] Taiko\_VN12 | -win by default- |
+| D | **ZethZ161** ![][flag_MY] | **4** | 0 | ![][flag_MY] CrabCow | -win by default- |
+| C | **nyanmi-1828** ![][flag_JP] | **4** | 0 | ![][flag_ID] Braixen | [#1](/community/matches/43017203) |
+| H | **Jmeh07** ![][flag_PH] | **4** | 2 | ![][flag_JP] puropera209 | [#1](/community/matches/43017361) |
+| B | **yyyyyyyyyyypetu** ![][flag_JP] | **4** | 1 | ![][flag_AU] Beat43210 | [#1](/community/matches/43017420) |
+| G | **TS\_LewisLuo** ![][flag_TW] | **4** | 0 | ![][flag_ID] Shirai- | -win by default- |
+| E | toorun12 ![][flag_JP] | 3 | **4** | ![][flag_JP] **Briesmas** | [#1](/community/matches/43018109) |
+| A | **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_VN] Taiko\_VN12 | -win by default- |
+| D | **ZethZ161** ![][flag_MY] | **4** | 1 | ![][flag_PH] Micka | [#1](/community/matches/43018296) |
+| B | yyyyyyyyyyypetu ![][flag_JP] | 3 | **4** | ![][flag_MY] **Dakry** | [#1](/community/matches/43019555) |
+| B | **Smallwu** ![][flag_TW] | **4** | 1 | ![][flag_AU] Beat43210 | [#1](/community/matches/43020029) |
+| H | **KILI3343** ![][flag_JP] | **4** | 1 | ![][flag_JP] GlinT fraulein | [#1](/community/matches/43021191) |
+| F | **SpiritsUnite** ![][flag_AU] | **4** | 0 | ![][flag_SG] uchuuj1n | -win by default- |
+| A | **Xin Leviathan** ![][flag_JP] | **4** | 0 | ![][flag_VN] Taiko\_VN12 | -win by default- |
+| G | **TS\_LewisLuo** ![][flag_TW] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/43024126) |
 
 ### Eliminations
 
 | Group | Friday, 2018-06-01 |  |  |  |  | 
 | :-: | --: | :-: | :-- | :-- | :-: |
-| EM | Beat43210 ![][flag_AU] | 3 | 0 | ![][flag_MY] Minisora | -Win by Default- |
-| EM | Bedwyr Aorta ![][flag_MY] | 3 | 0 | ![][flag_ID] Jin Kun | -Win by Default- |
-| EM | Taiko_VN12 ![][flag_VN] | 3 | 0 | ![][flag_PH] -Zephy- | -Win by Default- |
-| EM | \_CaKy\_ ![][flag_ID] | 0 | 3 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42923346) |
+| EM | **Beat43210** ![][flag_AU] | **3** | 0 | ![][flag_MY] Minisora | -win by default- |
+| EM | **Bedwyr Aorta** ![][flag_MY] | **3** | 0 | ![][flag_ID] Jin Kun | -win by default- |
+| EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
+| EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](/community/matches/42923346) |
 
 ------------------------------------------------------------------------
 
 ## ルールセット
+
 ### 大会ルール
 
 1. Asian Taiko Showdownはosu!taikoゲームモードでプレイする一対一のトーナメントです。
-
 2. 参加するためには、以下の条件を満たす必要があります。
     - 参加者は予め用意されたフォームに記入しなくてはいけません。
     - 参加者のプロフィール旗はアジア国でなければなりません。
@@ -427,7 +451,6 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### ステージに関して
 
 1. 第一ステージ(Group Stage)では、プレイヤーは8つの6人グループに分かれます。
-
 2. 各グループにおける全プレイヤーはお互いに戦います。
 3. 各グループの上位4プレイヤーは Knock-Out Stage へと進みます。
 4. Following stageはDouble-Eliminationステージになります。これはつまり、勝者は次のステージに進み、敗者は敗者復活戦へと流れます。
@@ -440,12 +463,11 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 2. お互いのプレイヤーは自由に1回だけウォーミングアップの譜面が選べます。但し、試合に適さない譜面は禁止されます。全てのマップはosu！taiko専用の譜面でなければなりません。
 3. お互いのプレイヤーは、プール内の譜面を１つ追放する権利があります。これらの譜面は試合中において、全プレイヤーが選ぶことが禁止されます。
 4. 譜面選択は、mappoolから譜面を選んでいるプレーヤーの間で交互に代わります。
-
 5. お互いのプレイヤーは、 "!roll"を #multiplayerのチャンネル内のチャットで一度発言しなければなりません。
    - !rollの(数字が高い)勝者は試合開始の譜面を選びます。
    - !rollの(数字が低い)敗者は禁止譜面を選びます。
 6. プレイヤーは各ブラケット(Mappool Instructions参照)から自由に選びます。
-   - 最後まで同点の場合、tiebreakerの譜面を選ばなくてはなりません。
+   - 最後まで同点の場合、Tiebreakerの譜面を選ばなくてはなりません。
 
 ### 譜面プールに関して
 
@@ -457,9 +479,8 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 6. SpecialブラケットはNoModブラケットにある異なる譜面の高難度バージョンで、no modeでプレイされます。
 7. Hidden, HardRockそして DoubleTimeブラケットは　それぞれのmodsでプレイされます。
 8. FreeModブラケットは FreeModでプレイされます。全てのプレイヤーはHidden, HardRock,両方,もしくは NoModのいずれかでプレイできます。
-
-9. tiebreakerは NoModでプレイされます。
-   - tiebreakerで同点だった場合、もう一度tiebreakerを FreeModの条件で再戦します。
+9. Tiebreakerは NoModでプレイされます。
+   - Tiebreakerで同点だった場合、もう一度Tiebreakerを FreeModの条件で再戦します。
 10. 譜面プールの各ブランケットの譜面数は
    - 5 NoMod
    - 2 Hidden
@@ -472,13 +493,12 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### スケジュールに関して
 
 1. それぞれのステージは各週末で開催されます。
-
 2. 全てのDouble Elimination Stageは土曜日か日曜日(UTC+7)に開催されます。
 3. スケジュールはTournament Managementにより操作されます。スケジュールは現在のステージが終わった後で日曜日に発表されます。スケジュール変更は許可されていますが、双方のプレーヤーの同意と変更先の日程で試合ができることを確認しなければなりません。
 
 ### 勝利条件
-1. Group Stageにおいて、勝つためには試合で４つの譜面で勝利する必要があります。
 
+1. Group Stageにおいて、勝つためには試合で４つの譜面で勝利する必要があります。
 2. Round of 16と準々決勝において、勝つためには試合で５つの譜面で勝利する必要があります。
 3. 準決勝において、勝つためには試合で６つの譜面で勝利する必要があります。
 4. 決勝と最終戦において、勝つためには試合で７つの譜面で勝利する必要があります。

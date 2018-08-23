@@ -150,7 +150,7 @@ FAQ
 
 **Q:** How does the screenshot of the winner look like?
 
-**A:** <https://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
+**A:** Upload on [upppy](https://up.ppy.sh/files/screenshot005-12.jpg). All names have to be visible.
 
 **Q:** Huh, i thought this was a 4vs4 tournament as well, why did you ditch that?
 

@@ -5,48 +5,44 @@ tags:
 - OWC#2
 - OWC2
 ---
-osu! World Cup #2
-========================
 
-![osu! World Cup #2 logo](logo.png)
+# osu! World Cup #2
+
+![OWC #2 Logo](img/logo.png)
 
 The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu! World Cup.
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
+In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Place | Prize(s) |
-| ----- | -------- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-## Organization
+## Organisation
 
 The osu! World Cup #2 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
-| -------- | ------- |
+| Position | Member(s) |
+| :-- | :-- |
 | Management | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Map Selectors | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
 | Streamers | ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
 
 ## Links
 
-- [Tournament Schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
-- [Pre-tournament Interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
-
-------------------------------------------
-
-![osu! World Cup #2 Brackets](brackets.png)
+- [Tournament schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
+- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
 
 ------------------------------------------
 
 ## Participants
 
 | | Country | Members |
-| -- |:---------:|---------|
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **Wishy22**, [Metro](https://osu.ppy.sh/users/306737), Ever17, [Darksonic](https://osu.ppy.sh/users/570042), [Salvage](https://osu.ppy.sh/users/242119), [Glazbom](https://osu.ppy.sh/users/608277) |
 | ![][flag_AU] | **Australia** | **Mizorex**, damiaanzx, [Hark](https://osu.ppy.sh/users/43265), [Frankcons](https://osu.ppy.sh/users/594006), [Mikey](https://osu.ppy.sh/users/979780), [Neko_Lover](https://osu.ppy.sh/users/596535) |
 | ![][flag_AT] |**Austria** | **[-Lennox-](https://osu.ppy.sh/users/489103)**, [Snowball](https://osu.ppy.sh/users/152238), [Hanyuu](https://osu.ppy.sh/users/73480), HakkeroHakkero, [novaaa](https://osu.ppy.sh/users/953405), [M A R I O](https://osu.ppy.sh/users/594424) |
@@ -80,9 +76,10 @@ The osu! World Cup #2 was run by various community members by distributing the m
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, Z e o n, [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), Snepif, [AlrdyExists](https://osu.ppy.sh/users/407022) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [JerryC](https://osu.ppy.sh/users/279278), [Shin1801](https://osu.ppy.sh/users/604492), [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [xLightningx](https://osu.ppy.sh/users/1007806), [kira\_lacus1995](https://osu.ppy.sh/users/996435) |
 
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AU] Australia | ![][flag_HU] Hungary | ![][flag_ID] Indonesia | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_AR] Argentina |
 | ![][flag_DK] Denmark | ![][flag_NO] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] Republic of Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
@@ -90,7 +87,11 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ------------------------------------
 
-## Mappool
+![OWC #2 Brackets](img/brackets.png)
+
+------------------------------------------
+
+## Mappools
 
 ### Finals
 
@@ -111,7 +112,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
     - [DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
 - Tiebreaker:
-    - [Loathing in Las Vegas - Just Awake \[Insane\]](https://osu.ppy.sh/beatmaps/139446)
+    - **[Loathing in Las Vegas - Just Awake \[Insane\]](https://osu.ppy.sh/beatmaps/139446)**
 
 ### Semifinals
     
@@ -131,7 +132,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Hatsune Miku - Kagerou Days \[mizuki\]](https://osu.ppy.sh/beatmaps/128668)
     - [Paramore - Looking Up \[Hard\]](https://osu.ppy.sh/beatmaps/66662)
 - Tiebreaker:
-    - [DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)
+    - **[DJ Fresh - Gold Dust \[Insane\]](https://osu.ppy.sh/beatmaps/93842)**
 
 ### Quarterfinals
 
@@ -151,7 +152,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Lou Bega - Mambo No.5 \[Insane\]](https://osu.ppy.sh/beatmaps/108936)
     - [Pizuya's Cell x MyonMyon - Romantic Children \[Lunatic\]](https://osu.ppy.sh/beatmaps/68431)
 - Tiebreaker:
-    - [Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)
+    - **[Nanamori-chu * Goraku-bu - My Pace de Ikimashou \[Yuri\]](https://osu.ppy.sh/beatmaps/118226)**
 
 ### Round of 16
 
@@ -171,7 +172,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Megpoid GUMI - Chocolate \[Insane\]](https://osu.ppy.sh/beatmaps/89721)
     - [DCX - Flying High (DJ Splash Remix) \[InoSane\]](https://osu.ppy.sh/beatmaps/76663)
 - Tiebreaker:
-    - [Hatsune Miku - Rubik's Cube \[7x7x7\]](https://osu.ppy.sh/beatmaps/114635)
+    - **[Hatsune Miku - Rubik's Cube \[7x7x7\]](https://osu.ppy.sh/beatmaps/114635)**
 
 ### Group Stage (Round 3)
 
@@ -191,7 +192,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Pendulum - The Vulture \[Insane\]](https://osu.ppy.sh/beatmaps/82249)
     - [Hatsune Miku - Kusaregedou to Chocolate \[Insane\]](https://osu.ppy.sh/beatmaps/85494)
 - Tiebreaker:
-    - [Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmaps/99342)
+    - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen \[Insane\]](https://osu.ppy.sh/beatmaps/99342)**
 
 ### Group Stage (Round 2)
 
@@ -211,7 +212,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Aizawa - Flutter Girl \[Insane\]](https://osu.ppy.sh/beatmaps/61124)
     - [Mutsuhiko Izumi - Russian Snowy Dance \[Insane\]](https://osu.ppy.sh/beatmaps/124275)
 - Tiebreaker:
-    - [Okui Masami - God Speed \[Insane\]](https://osu.ppy.sh/beatmaps/93947)
+    - **[Okui Masami - God Speed \[Insane\]](https://osu.ppy.sh/beatmaps/93947)**
 
 ### Group Stage (Round 1)
 
@@ -231,7 +232,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
     - [Lia - Kokoro ni Todoku Uta \[Holo\]](https://osu.ppy.sh/beatmaps/89428)
     - [nomico - Bad Apple!! \[Hard\]](https://osu.ppy.sh/beatmaps/28755)
 - Tiebreaker:
-    - [supercell - Rock 'n' Roll Nan Desu no \[Insane\]](https://osu.ppy.sh/beatmaps/93021)
+    - **[supercell - Rock 'n' Roll Nan Desu no \[Insane\]](https://osu.ppy.sh/beatmaps/93021)**
 
 ------------------------------------------------
 

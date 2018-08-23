@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2014
 ====================
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 La ***osu! World Cup 2014*** (ou **OWC 2014**, littéralement « coupe du monde de osu! ») était la cinquième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
 Cette compétition est terminée et a abouti au podium suivant :
@@ -123,7 +123,7 @@ Résultats
 
 Le graphique suivant met en évidence les équipes qui se sont qualifiées pour les huitièmes de finale :
 
-![OWC 2014 brackets](brackets.jpg)
+![OWC 2014 brackets](img/brackets.jpg)
 
 Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3).
 
