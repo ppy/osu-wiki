@@ -89,7 +89,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_TW] | **Taiwan** | **[Sakaki](https://osu.ppy.sh/u/2656856)**, [SaKuRaLaN](https://osu.ppy.sh/u/6193819), [mspstommy](https://osu.ppy.sh/u/1990582), [Tamamo Desu](https://osu.ppy.sh/u/8819232), [Red MewFew](https://osu.ppy.sh/u/11531528), [luckygino](https://osu.ppy.sh/u/1967808) |
 | ![][flag_GB] | **United Kingdom** | **[Amascite](https://osu.ppy.sh/u/3359035)**, [PikachuNick](https://osu.ppy.sh/u/4168230), [itsjasak](https://osu.ppy.sh/u/3617889), [xSnaggles](https://osu.ppy.sh/u/3799946), [Civilization](https://osu.ppy.sh/u/6814203), [Domblade](https://osu.ppy.sh/u/6701945) |
 | ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/u/7616811)**, [stupud man](https://osu.ppy.sh/u/2141612), [Neuro-](https://osu.ppy.sh/u/7687954), [-Electro-](https://osu.ppy.sh/u/3251373), [EtienneXC](https://osu.ppy.sh/u/5610085), [Chrubble](https://osu.ppy.sh/u/2594280) |
-
 | ![][flag_VE] | **Venezuela** | **[Nakatoru](https://osu.ppy.sh/u/2243452)**, [Aezlack](https://osu.ppy.sh/u/8065567), [Edvo](https://osu.ppy.sh/u/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/u/2140739), [\[-Gearfrik-\]](https://osu.ppy.sh/u/8198818), [\_Yisus\_](https://osu.ppy.sh/u/1489811) |
 
 
