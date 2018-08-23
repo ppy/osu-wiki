@@ -1,8 +1,8 @@
 # Bienvenue
 
-Bienvenue dans osu!, un jeu de rythme gratuit développé par peppy avec quatre modes de jeu: osu!standard, un simulateur de clic sur un cercle; osu!taiko, un émulateur de batterie; osu!catch, un récupérateur de salade de fruits; et osu!mania, un synthétiseur puissant.
+Bienvenue dans osu!, un jeu de rythme gratuit développé par peppy avec quatre modes de jeu : osu!standard, un simulateur de clic sur un cercle; osu!taiko, un émulateur de batterie; osu!catch, un récupérateur de salade de fruits; et osu!mania, un synthétiseur puissant.
 
-## Points d'intérêt communs
+## Points d'intérêt
 
 - [Installation](/wiki/Installation)
 - [Inscription](/wiki/Registration)
@@ -22,13 +22,13 @@ Bienvenue dans osu!, un jeu de rythme gratuit développé par peppy avec quatre 
 
 ## Beatmapping
 
-*Page principal: [Beatmapping](/wiki/Beatmapping/#getting-started).*
+*Page principal : [Beatmapping](/wiki/Beatmapping/#getting-started).*
 
-Beatmapping est le processus par lequel un créateur crée une beatmap. Ce processus comprend : la sélection de la musique, la synchronisation et la cartographie de la beatmap et le test de la beatmap. Cela peut également inclure: l'ajout d'une vidéo, l'ajout d'un [storyboard](/wiki/storyboarding/#getting-started) et/ou l'ajout d'un [skin personnalisé](/wiki/skinning/#getting-started). Tout cela peut être fait par le créateur seul ou avec d'autres utilisateurs, parfois appelés *storyboarders*, *skinners* et/ou *createurs invités*, selon ce qu'ils font.
+Beatmapping est le processus par lequel un créateur crée une beatmap. Ce processus comprend : la sélection de la musique, la synchronisation et la cartographie de la beatmap et le test de la beatmap. Cela peut également inclure : l'ajout d'une vidéo, l'ajout d'un [storyboard](/wiki/storyboarding/#getting-started) et/ou l'ajout d'un [skin personnalisé](/wiki/skinning/#getting-started). Tout cela peut être fait par le créateur seul ou avec d'autres utilisateurs, parfois appelés *storyboarders*, *skinners* et/ou *guest creators*, selon ce qu'ils font.
 
 ## Modding
 
-*Page principal: [Modding](/wiki/Modding/#getting-started).*
+*Page principal : [Modding](/wiki/Modding/#getting-started).*
 
 Modding est le processus par lequel les utilisateurs passent en revue (ou communément appelé "modders") la beatmap d'un créateur dans l'étape en attente (ou en cours/aide). Le modding joue un grand rôle dans le contrôle de la qualité, car il permet aux créateurs de résoudre les problèmes liés à leur beatmap.
 
@@ -38,9 +38,9 @@ Modding est le processus par lequel les utilisateurs passent en revue (ou commun
 
 *Voir également: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Skinning permet à quiconque de changer la façon dont osu! regarde et ressent. Cela peut être aussi petit que changer le curseur ou aussi grand que refaire les apparences de tous les modes de jeu et de l’interface.
+Skinning permet à quiconque de changer la façon dont osu! est habiller. Cela peut être aussi petit que changer le curseur ou aussi grand que refaire les apparences de tous les modes de jeu et de l’interface.
 
-## osu! wiki - Comment vous aider!
+## osu! wiki - Comment vous aider !
 
 Depuis le 26/08/2016, osu! wiki a été déplacé dans un dépôt GitHub. Après ce changement, le flux de travail a radicalement changé. Toutes les contributions passent désormais par le référentiel [osu-wiki GitHub](https://github.com/ppy/osu-wiki) et sont passées en revue avant d'être approuvées et fusionnées dans osu! wiki.
 
