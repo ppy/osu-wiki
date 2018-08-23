@@ -15,11 +15,11 @@ find-replace teks yang memiliki kurung kurawal kemudian hapus blok komentar ini
 Anda masih akan menambahkan elemen lain seperti tabel
 -->
 
-# {TOURNAMENT_NAME} World Cup 20{XX}
+# {TOURNAMENT_NAME}
 
-![Logo {TOURNAMENT_NAME} World Cup 20{XX}](logo.jpg)
+![Logo {ABBR} 20{XX}](logo.jpg)
 
-**{TOURNAMENT_NAME} World Cup 20{XX}** (***{ABBR} 2018***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi {NTH} dari turnamen {TOURNAMENT_NAME}.
+**{TOURNAMENT_NAME}** (***{ABBR} 20{XX}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi {NTH} dari turnamen {TOURNAMENT_NAME}.
 
 ## Jadwal Turnamen
 
@@ -48,7 +48,7 @@ Dalam setiap world cup, orang yang memenangkan turnamen berhak naik ke podium da
 
 ## Staf Turnamen
 
-{TOURNAMENT_NAME} World Cup 20{XX} dapat berlangsung dikarenakan berbagai anggota komunitas yang bersedia melakukan banyak tugas ke berbagai bidang tanggung jawabnya masing-masing.
+{TOURNAMENT_NAME} dapat berlangsung dikarenakan berbagai anggota komunitas yang bersedia melakukan banyak tugas ke berbagai bidang tanggung jawabnya masing-masing.
 
 | Posisi | Anggota |
 | :-- | :-- |

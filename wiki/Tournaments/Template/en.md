@@ -15,11 +15,11 @@ find-replace these curly braces then delete this comment
 you will still to add other items such as tables
 -->
 
-# {TOURNAMENT_NAME} World Cup 20{XX}
+# {TOURNAMENT_NAME}
 
-![{TOURNAMENT_NAME} World Cup 20{XX} Logo](logo.jpg)
+![{ABBR} 20{XX} Logo](logo.jpg)
 
-The **{TOURNAMENT_NAME} World Cup 20{XX}** (***{ABBR} 20{XX}***) is a country-based {MODE} tournament hosted by the [osu! team](/wiki/People/The_Team). It is the {NTH} installment of the {TOURNAMENT_NAME} World Cup.
+The **{TOURNAMENT_NAME}** (***{ABBR} 20{XX}***) is a country-based {MODE} tournament hosted by the [osu! team](/wiki/People/The_Team). It is the {NTH} installment of the {TOURNAMENT_NAME}.
 
 ## Tournament Schedule
 
@@ -48,7 +48,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organisation
 
-The {TOURNAMENT_NAME} World Cup 20{XX} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The {TOURNAMENT_NAME} 20{XX} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
