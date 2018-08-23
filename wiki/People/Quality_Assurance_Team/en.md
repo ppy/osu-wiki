@@ -37,3 +37,4 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [pishifat](https://osu.ppy.sh/users/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Protastic101](https://osu.ppy.sh/users/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
 | [Raiden](https://osu.ppy.sh/users/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan        |
+| [Zirox](https://osu.ppy.sh/users/200768)              | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish                 |
