@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2014
 =====================
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](https://osu.ppy.sh/g/26). Esta es la 5ª temporada de osu! World Cup.
 
@@ -65,7 +65,7 @@ Links
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](bracketsES.jpg)
+![OWC 2014 brackets](img/bracketsES.jpg)
 
 ------------------------------------------------------------------------
 

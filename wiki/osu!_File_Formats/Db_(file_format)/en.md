@@ -68,7 +68,7 @@ Some data types specific to osu!.db are defined below.
 | String | Audio file name |
 | String | MD5 hash of the beatmap |
 | String | Name of the .osu file corresponding to this beatmap |
-| Byte | Ranked status (4 = ranked, 5 = approved, 2 = pending/graveyard) |
+| Byte | Ranked status (0 = unknown, 1 = unsubmitted, 2 = pending/wip/graveyard, 3 = unused, 4 = ranked, 5 = approved, 6 = qualified, 7 = loved) |
 | Short | Number of hitcircles |
 | Short | Number of sliders (note: this will be present in every mode) |
 | Short | Number of spinners (note: this will be present in every mode) |
@@ -179,6 +179,4 @@ This database contains the scores achieved locally.
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
 
-Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)][Osr Link]. This explains the empty string and -1 int.
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
+Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).

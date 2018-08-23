@@ -177,7 +177,7 @@ Here's the newfound masterpiece of the amazingly creative Nivrad00's notefactory
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/768672)
 
-[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by [Remillion Cross](https://osu.ppy.sh/users/1983784), [ExUsagi](https://osu.ppy.sh/users/10004749) and [LordRaika](https://osu.ppy.sh/users/3265023)  
+[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by [Remillion Cross](https://osu.ppy.sh/users/1983784), [ExUsagi](https://osu.ppy.sh/users/3027421) and [LordRaika](https://osu.ppy.sh/users/3265023)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 And for our last pick, we have a map that should be familiar to the older players, a map which stood out at the time, being qualified at one point but never reaching its desired place: we present to you, xi - Vallhala by Remillion Cross. With two guest difficultes made by LordRaika and Arzenvald, this map features one of the most unconventional pattern styles that you'll see in a while. He was one of the first mappers that introduced the meaning "underrated" in the Ranked section and it was definitely deserved. It has a good mix between Long Notes and bursts, nasty jacks, shields, extremely rough transitions and more.

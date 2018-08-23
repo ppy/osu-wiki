@@ -1,10 +1,8 @@
-Team di supporto
-=================
+# Team di supporto
 
 Il **Team di supporto** (conosciuto anche come **Support Team Redux**, da non essere confuso con l'account support team, colloquialmente conosciuto come "Support Team") sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (escludendo [Tornei](https://osu.ppy.sh/forum/55) and [Techniche di mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Richieste di Funzionalità](https://osu.ppy.sh/forum/4), and [Aiuto](https://osu.ppy.sh/forum/5).
 
-Responsabilità
-------------------
+## Responsabilità
 
 Il Team di supporto è responsabile di:
 
@@ -13,22 +11,29 @@ Il Team di supporto è responsabile di:
 
 Se qualcuno ha bisogno di qualche assistenza in questi subforum, loro dovrebbero essere i primi a cui bisogna rivolgersi.
 
-Membri del Team
-------------------
+## Membri del Team
 
-*Tutti i membri del Team di Supporto parlano Inglese a meno che non sia specificato diversamente. [Pagina del Gruppo del Team di supporto](https://osu.ppy.sh/g/22).*
+*Tutti i membri del Team di Supporto parlano Inglese a meno che non sia specificato diversamente. [Pagina del Gruppo del Team di supporto](https://osu.ppy.sh/groups/22).*
 
 | Name | Languages |
-| ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
-| [Ezoda](https://osu.ppy.sh/u/1231180) | German |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polish |
-| [MillhioreF](https://osu.ppy.sh/u/941094) | |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish |
-| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish |
-| [Tom94](https://osu.ppy.sh/u/1857058) | German |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | Dutch |
+| :-- | :-- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Svedese, Spagnolo |
+| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Tedesco |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spagnolo |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif
