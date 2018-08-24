@@ -1,14 +1,13 @@
 ---
 tags:
-- {ABBR} 20{XX}
-- {ABBR}20{XX}
+- {ABBR}
 ---
+
 <!--
 find-replace teks yang memiliki kurung kurawal kemudian hapus blok komentar ini
 {TOURNAMENT_NAME} = nama turnamen
 {MODE} = mode game
-{ABBR} = singkatan turnamen contoh MWC
-{XX} = tahun, dua digit terakhir
+{ABBR} = singkatan turnamen diikuti tahun/iterasi digelarnya contoh MWC 4K 2018
 {NTH} = nomor instalasi turnamen
 {TOPIC_NUM} = nomor forum thread
 {STATS_LINK} = tautan ke statistik keseluruhan (harus berupa tautan Google Drive)
@@ -17,9 +16,9 @@ Anda masih akan menambahkan elemen lain seperti tabel
 
 # {TOURNAMENT_NAME}
 
-![Logo {ABBR} 20{XX}](logo.jpg)
+![Logo {ABBR}](logo.jpg)
 
-**{TOURNAMENT_NAME}** (***{ABBR} 20{XX}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi {NTH} dari turnamen {TOURNAMENT_NAME}.
+**{TOURNAMENT_NAME}** (***{ABBR}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi {NTH} dari turnamen {TOURNAMENT_NAME}.
 
 ## Jadwal Turnamen
 
@@ -38,7 +37,7 @@ Anda masih akan menambahkan elemen lain seperti tabel
 
 ## Hadiah
 
-Dalam setiap world cup, orang yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang World Cup. Karena barang-barang ini dapat berubah tiap instalasi World Cup, penyelenggara hanya dapat memberikan daftar hadiah perkiraan untuk setiap World Cup.
+Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Karena barang-barang ini dapat berubah tiap instalasi turnamen, penyelenggara hanya dapat memberikan daftar hadiah perkiraan untuk setiap {TOURNAMENT_NAME}.
 
 | Posisi | Hadiah |
 | :-: | :-- |

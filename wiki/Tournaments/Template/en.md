@@ -1,14 +1,13 @@
 ---
 tags:
-- {ABBR} 20{XX}
-- {ABBR}20{XX}
+- {ABBR}
 ---
+
 <!--
 find-replace these curly braces then delete this comment
 {TOURNAMENT_NAME} = tournament name
 {MODE} = game mode
-{ABBR} = abbreviation of the title i.e. MWC
-{XX} = year, last two digits
+{ABBR} = abbreviation of the title followed by its iteration/year occurence i.e. MWC 4K 2018
 {NTH} = installment ordinal number
 {TOPIC_NUM} = forum thread number
 {STATS_LINK} = link to overall statistics (should be Google Drive link)
@@ -17,9 +16,9 @@ you will still to add other items such as tables
 
 # {TOURNAMENT_NAME}
 
-![{ABBR} 20{XX} Logo](logo.jpg)
+![{ABBR} Logo](logo.jpg)
 
-The **{TOURNAMENT_NAME}** (***{ABBR} 20{XX}***) is a country-based {MODE} tournament hosted by the [osu! team](/wiki/People/The_Team). It is the {NTH} installment of the {TOURNAMENT_NAME}.
+The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the [osu! team](/wiki/People/The_Team). It is the {NTH} installment of the {TOURNAMENT_NAME}.
 
 ## Tournament Schedule
 
@@ -38,7 +37,7 @@ The **{TOURNAMENT_NAME}** (***{ABBR} 20{XX}***) is a country-based {MODE} tourna
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. As these items may change with every installment of the tournament, it is only possible to give an estimate prize list for each {TOURNAMENT_NAME}.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -48,7 +47,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organisation
 
-The {TOURNAMENT_NAME} 20{XX} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The {TOURNAMENT_NAME} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
