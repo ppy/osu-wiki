@@ -29,7 +29,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, unique profile badge and a T-Shirt |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, T-Shirt |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
 
@@ -57,38 +57,38 @@ The osu! World Cup #3 was run by various community members by distributing the m
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | Argentina | **Metro**, Darksonic, Glazbom, Fabi, Hernan, Salvage, RocknRolla, druidxd |
-| ![][flag_AU] | Australia | **JappyBabes**, TimmyTimTims, kamiyo-sama, flow, Evanlet, ampzz, Copter-kun, LaVolpe024 |
-| ![][flag_BR] | Brazil | **fabriciorby**, Blue Dragon, Caco Roth, antsu, Les Discrets, NinjaX1, Velusk, Ghost Princess |
-| ![][flag_CA] | Canada | **YodaSnipe**, Mythol, mochi, allas, Glass, Layne, Satonaka, yoshh |
-| ![][flag_CN] | China | **SunnyMario**, wobeinimacao, N a n o, GGBY, XSH, Sprosive, Tachibana Isana, Sora |
-| ![][flag_FI] | Finland | **thelewa**, Regnall, Valentiino, Lunati, F m L, ethox, Mukku |
-| ![][flag_FR] | France | **Kanna**, Elysion, Musty, \_LRJ\_, -Kamui-, Kynan383, Shiro, XPJ38 |
-| ![][flag_DE] | Germany | **DoKoLP**, Dustice, Michi, ShadowSoul, CookEasy, Lelouch, Dukambe, Matina |
-| ![][flag_HK] | Hong Kong | **K47**, henry04213, AmamiyaYuko, GaryRock123, hoho93411, Hinex, lynnceI, Black Box |
-| ![][flag_ID] | Indonesia | **WVS**, Rasyad95, Frizz, Gatyaa, Hakeru Prismriver, Niva, eru, pacmanmania |
-| ![][flag_IT] | Italy | **lesslunatic**, Chewin, Jordan, Maddy, Revy, Leader, Nemis, Sanji |
-| ![][flag_JP] | Japan | **rrtyui**, Potofu, serea, KeigoClear, Apricot, Rorry, Karuta |
-| ![][flag_KR] | Korea | **KRZY**, Clementine, Reisen Udongein, K i R i K a R u, \[ Beatrice \], Cookiezi, Dungeon, CheEz |
-| ![][flag_LV] | Latvia | **LoGo**, Forseen, Vmx, nomen, NewNyuu, PyramidX |
-| ![][flag_MO] | Macau | **\_S\_T\_A\_R**, HildasXD, Alvin Chan, staplerXD, Balance, JasY007, starpun1, \_\_\_\_\_B |
-| ![][flag_MY] | Malaysia | **Gon**, xsrsbsns, Zisam, zenki0013, akupp, PROGUY, Yuu-Chii, ychao |
-| ![][flag_NL] | Netherlands | **laport**, zozozofun, H4ppySt1ck, Henkie, silmarilen |
-| ![][flag_NZ] | New Zealand | **deadbeat**, Soly, buny, Kiiwa, \_hypnosis\_, TCN, -N- |
-| ![][flag_NO] | Norway | **kriers**, CXu, -GN, Nilsso, Ivaz, AndreasHD, oscar |
-| ![][flag_PH] | Philippines | **-KYOK-**, rickyboi, Hinanai Tenko, Osu Tatakae Ouendan, Pizzicato, Rozen, jannnnnn, Mystgun |
-| ![][flag_PL] | Poland | **fartownik**, Niko, White Wolf, PAN_WIKTOR_PL, rEdo, Piotrekol, SteRRuM, listless |
-| ![][flag_PT] | Portugal | **creativ**, Osama, Jonnythatjonny, Maraiga, Macacito, Pereira006, R e d, makkura |
-| ![][flag_RU] | Russia | **Kert**, Rain, Rost94, cr1m, JuZu, NekoMimiMode, funshine, Shandro |
-| ![][flag_SG] | Singapore | **Bardiche\_Z**, Onozuka-Komachi, rainfall1997, WTPhox, jonchua, Renegate |
-| ![][flag_SE] | Sweden | **Failed**, Nana Tan, Gyuunyu, Cloudio-San, Kawaii, Slizzer95 |
-| ![][flag_TW] | Taiwan | **Uan**, Rucker, SnowWhite, ms0080345, Small K, Small AB, melin85116, Oxob |
-| ![][flag_TH] | Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, blackspell, bufo, nick4010, termerys, phuditj |
-| ![][flag_TR] | Turkey | **Pure Force**, Shadowa, S4LeagueSexsiman, -Lvs, HellDawn, XavierJones, BonkuraChan |
-| ![][flag_UA] | Ukraine | **Yoru-SAN**, rockleejkooo, blednak, Granje, Gorlum, mrgnstrn |
-| ![][flag_GB] | United Kingdom | **jesus1412**, heat, R a h a r u, Vapor, Eastern Aristotle, Raiku |
-| ![][flag_US] | United States | **Derekku**, Kyou-kun, SapphireGhost, Kaoru, JAKANYAN, Kyonko Hizara, Sync, pielak213- |
-| ![][flag_UG] | Uruguay | **maay**, AlrdyExists, GonixZ, HeCAtExZz, sevas-tra, Snepif, W a r g, Z e o n |
+| ![][flag_AR] | **Argentina** | **Metro**, Darksonic, Glazbom, Fabi, Hernan, Salvage, RocknRolla, druidxd |
+| ![][flag_AU] | **Australia** | **JappyBabes**, TimmyTimTims, kamiyo-sama, flow, Evanlet, ampzz, Copter-kun, LaVolpe024 |
+| ![][flag_BR] | **Brazil** | **fabriciorby**, Blue Dragon, Caco Roth, antsu, Les Discrets, NinjaX1, Velusk, Ghost Princess |
+| ![][flag_CA] | **Canada** | **YodaSnipe**, Mythol, mochi, allas, Glass, Layne, Satonaka, yoshh |
+| ![][flag_CN] | **China** | **SunnyMario**, wobeinimacao, N a n o, GGBY, XSH, Sprosive, Tachibana Isana, Sora |
+| ![][flag_FI] | **Finland** | **thelewa**, Regnall, Valentiino, Lunati, F m L, ethox, Mukku |
+| ![][flag_FR] | **France** | **Kanna**, Elysion, Musty, \_LRJ\_, -Kamui-, Kynan383, Shiro, XPJ38 |
+| ![][flag_DE] | **Germany** | **DoKoLP**, Dustice, Michi, ShadowSoul, CookEasy, Lelouch, Dukambe, Matina |
+| ![][flag_HK] | **Hong Kong** | **K47**, henry04213, AmamiyaYuko, GaryRock123, hoho93411, Hinex, lynnceI, Black Box |
+| ![][flag_ID] | **Indonesia** | **WVS**, Rasyad95, Frizz, Gatyaa, Hakeru Prismriver, Niva, eru, pacmanmania |
+| ![][flag_IT] | **Italy** | **lesslunatic**, Chewin, Jordan, Maddy, Revy, Leader, Nemis, Sanji |
+| ![][flag_JP] | **Japan** | **rrtyui**, Potofu, serea, KeigoClear, Apricot, Rorry, Karuta |
+| ![][flag_KR] | **Korea** | **KRZY**, Clementine, Reisen Udongein, K i R i K a R u, \[ Beatrice \], Cookiezi, Dungeon, CheEz |
+| ![][flag_LV] | **Latvia** | **LoGo**, Forseen, Vmx, nomen, NewNyuu, PyramidX |
+| ![][flag_MO] | **Macau** | **\_S\_T\_A\_R**, HildasXD, Alvin Chan, staplerXD, Balance, JasY007, starpun1, \_\_\_\_\_B |
+| ![][flag_MY] | **Malaysia** | **Gon**, xsrsbsns, Zisam, zenki0013, akupp, PROGUY, Yuu-Chii, ychao |
+| ![][flag_NL] | **Netherlands** | **laport**, zozozofun, H4ppySt1ck, Henkie, silmarilen |
+| ![][flag_NZ] | **New Zealand** | **deadbeat**, Soly, buny, Kiiwa, \_hypnosis\_, TCN, -N- |
+| ![][flag_NO] | **Norway** | **kriers**, CXu, -GN, Nilsso, Ivaz, AndreasHD, oscar |
+| ![][flag_PH] | **Philippines** | **-KYOK-**, rickyboi, Hinanai Tenko, Osu Tatakae Ouendan, Pizzicato, Rozen, jannnnnn, Mystgun |
+| ![][flag_PL] | **Poland** | **fartownik**, Niko, White Wolf, PAN_WIKTOR_PL, rEdo, Piotrekol, SteRRuM, listless |
+| ![][flag_PT] | **Portugal** | **creativ**, Osama, Jonnythatjonny, Maraiga, Macacito, Pereira006, R e d, makkura |
+| ![][flag_RU] | **Russia** | **Kert**, Rain, Rost94, cr1m, JuZu, NekoMimiMode, funshine, Shandro |
+| ![][flag_SG] | **Singapore** | **Bardiche\_Z**, Onozuka-Komachi, rainfall1997, WTPhox, jonchua, Renegate |
+| ![][flag_SE] | **Sweden** | **Failed**, Nana Tan, Gyuunyu, Cloudio-San, Kawaii, Slizzer95 |
+| ![][flag_TW] | **Taiwan** | **Uan**, Rucker, SnowWhite, ms0080345, Small K, Small AB, melin85116, Oxob |
+| ![][flag_TH] | **Thailand** | **NonxE**, Frostmourne, 0OoMickeyoO0, blackspell, bufo, nick4010, termerys, phuditj |
+| ![][flag_TR] | **Turkey** | **Pure Force**, Shadowa, S4LeagueSexsiman, -Lvs, HellDawn, XavierJones, BonkuraChan |
+| ![][flag_UA] | **Ukraine** | **Yoru-SAN**, rockleejkooo, blednak, Granje, Gorlum, mrgnstrn |
+| ![][flag_GB] | **United Kingdom** | **jesus1412**, heat, R a h a r u, Vapor, Eastern Aristotle, Raiku |
+| ![][flag_US] | **United States** | **Derekku**, Kyou-kun, SapphireGhost, Kaoru, JAKANYAN, Kyonko Hizara, Sync, pielak213- |
+| ![][flag_UG] | **Uruguay** | **maay**, AlrdyExists, GonixZ, HeCAtExZz, sevas-tra, Snepif, W a r g, Z e o n |
 
 -------------------------------
 
@@ -122,7 +122,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](http://osu.ppy.sh/beatmaps/104117)
   - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](http://osu.ppy.sh/beatmaps/80384)
 - Tiebreaker
-  - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](http://osu.ppy.sh/beatmaps/153857)
+  - **[HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](http://osu.ppy.sh/beatmaps/153857)**
 
 ### Semifinals
 
@@ -152,7 +152,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Katy Perry - E.T. (La Cataline) \[Futuristic\]](http://osu.ppy.sh/beatmaps/116708)
   - [SHK - Identity Part 4 (AngelHoney) \[Another\]](http://osu.ppy.sh/beatmaps/125838)
 - Tiebreaker
-  - [Demetori - Desire Drive ~ Desire Dream (happy30) \[Extra Stage\]](http://osu.ppy.sh/beatmaps/132946)
+  - **[Demetori - Desire Drive ~ Desire Dream (happy30) \[Extra Stage\]](http://osu.ppy.sh/beatmaps/132946)**
 
 ### Quarterfinals
 
@@ -175,7 +175,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Infected Mushroom - The Legend of Black Shawarma (La Cataline) \[Insane\]](http://osu.ppy.sh/s/20122)
   - [Marie & Shimotsuki Haruka - Hane no Naki Chou (KanbeKotori) \[Insane\]](http://osu.ppy.sh/beatmaps/115457)
 - Tiebreaker
-  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](http://osu.ppy.sh/beatmaps/182001)
+  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](http://osu.ppy.sh/beatmaps/182001)**
 
 ### Round of 16
 
@@ -200,7 +200,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Swagberg - Pony Swag (feat. Maros) (ztrot) \[Insane\]](http://osu.ppy.sh/beatmaps/133693)
   - [Two Door Cinema Club - What You Know (Krisom) \[Insane\]](http://osu.ppy.sh/beatmaps/103566)
 - Tiebreaker
-  - [Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](http://osu.ppy.sh/beatmaps/141525)
+  - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](http://osu.ppy.sh/beatmaps/141525)**
 
 ### Group Stage (Round 3)
 
@@ -221,7 +221,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Nishino Kana - Distance (Magicphoenix) \[Collab\]](http://osu.ppy.sh/beatmaps/137219)
   - [Duca - Clover (Cilvery) \[Collab\]](http://osu.ppy.sh/beatmaps/157856)
 - Tiebreaker
-  - [paraoka - Manima ni (Apricot) \[Insane\]](http://osu.ppy.sh/beatmaps/131354)
+  - **[paraoka - Manima ni (Apricot) \[Insane\]](http://osu.ppy.sh/beatmaps/131354)**
 
 ### Group Stage (Round 2)
 
@@ -244,7 +244,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Julian Smith - Racist Coffee (RobotoRaccoon) \[Insane\]](http://osu.ppy.sh/beatmaps/102891)
   - [Usa - The Last Queen (banvi) \[Insane\]](http://osu.ppy.sh/beatmaps/125784)
 - Tiebreaker
-  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](http://osu.ppy.sh/beatmaps/86324)
+  - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](http://osu.ppy.sh/beatmaps/86324)**
 
 ### Group Stage (Round 1)
 
@@ -267,13 +267,13 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Hatsune Miku - Kimi ni Uso (KanaRin) \[Kana\]](http://osu.ppy.sh/beatmaps/87645)
   - [yonji - Waruku nai ne (Reiji-RJ) \[Hard\]](http://osu.ppy.sh/beatmaps/109757)
 - Tiebreaker
-  - [Hatsune Miku - Cruel Clocks (Nyquill) \[Full Revolution\]](http://osu.ppy.sh/beatmaps/148307)
+  - **[Hatsune Miku - Cruel Clocks (Nyquill) \[Full Revolution\]](http://osu.ppy.sh/beatmaps/148307)**
 
 -----------------------
 
 ## Ruleset
 
-## Tournament Registration
+### Tournament Registration
 
 1. The country will be represented by the captain, which will choose its teammates. Basic English language knowledge is required from the person of captain.
    - Exceptions require tournament management's approval.
@@ -284,7 +284,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 6. No more team than one team from each country can sign-up to the tournament.
 7. All of the team players' flag in the profile must be the same as their country's. However, it can be got around in special cases but should stay as **exception**. It requires approval by tournament management.
 
-## Stage Instructions
+### Stage Instructions
 
 1. We are looking for 32 teams from 32 countries. If there are less participants than we want, the tournament will be modeled according to the reached number.
 2. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 team in each one.
@@ -298,7 +298,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 5. Following stages are Knock-Out Stages. This means that the winner ascends to the next stage and the losing team gets kicked out of the tournament.
 6. In Group Stage, you need to win 4 maps to win a match. In Round of 16 and Quarter-finals, you need to win 5 maps to win a match. In Semi-finals and Finals, you need to win 6 maps to with a match.
 
-## Match Instructions
+### Match Instructions
 
 1. 15 minutes before the match, the tournament management must contact each captain and confirm the ready to play. The management creates the match and invites the captains.
 2. During the match, there must be 8 players on the server hosted by one of the captains, 4 players from each team.
@@ -313,7 +313,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 8. The country with best total score on the map wins.
 9. The teams can exchange only one player per map during matches.
 
-## Other Rules
+### Other Rules
 
 1. If a map ends in a tie, the map will be nullified.
 2. If one of players gets disconnected, the player is considered as having left the match on his own.
