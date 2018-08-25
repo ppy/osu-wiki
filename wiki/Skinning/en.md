@@ -10,7 +10,7 @@ Skinning is one of the key features of osu! It enables players to derive from th
 
 ## How do I make a skin?
 
-*See also: [Skinning Tutorial](/wiki/Skinning/Tutorial).*
+*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
 ## Skin elements lists
 
