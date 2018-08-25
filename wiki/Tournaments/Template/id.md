@@ -4,16 +4,17 @@ tags:
 ---
 
 <!--
-find-replace teks yang memiliki kurung kurawal kemudian hapus blok komentar ini
+Find and replace tag yang berada di bawah dengan informasi yang sesuai, lalu hapus blok komentar ini
 {TOURNAMENT_NAME} = nama turnamen
 {MODE} = mode game
-{ABBR} = singkatan turnamen diikuti tahun/iterasi digelarnya contoh MWC 4K 2018
+{ABBR} = singkatan nama turnamen diikuti tahun/iterasi digelarnya misalnya MWC 4K 2018
 {ORGANISER} = penyelenggara turnamen
 {NTH} = nomor instalasi turnamen
 {TOPIC_NUM} = nomor forum thread
-{STATS_LINK} = tautan ke statistik keseluruhan (harus berupa tautan Google Drive)
-Anda masih akan menambahkan elemen lain seperti tabel, dan lainnya
-Gunakan .png sebagai format utama dalam gambar, karena .jpg tidak dapat membuka elemen transparan
+{STATS_LINK} = tautan ke lembar statistik keseluruhan (harus berupa tautan Google Drive)
+Anda masih harus menambahkan elemen lain seperti tabel, dan lainnya.
+Gunakan .png sebagai format utama dalam gambar, karena .jpg tidak dapat membuka elemen transparan.
+Selain kolom komentar ini, jangan lupa Anda harus menghapus semua kolom komentar yang berada di artikel ini.
 -->
 
 # {TOURNAMENT_NAME}
@@ -39,7 +40,7 @@ Gunakan .png sebagai format utama dalam gambar, karena .jpg tidak dapat membuka 
 
 ## Hadiah
 
-Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Karena barang-barang ini dapat berubah tiap instalasi turnamen, penyelenggara hanya dapat memberikan daftar hadiah perkiraan untuk setiap {TOURNAMENT_NAME}.
+Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Ada kemungkinan bahwa barang-barang yang dihadiahkan dapat berubah setiap instalasi {TOURNAMENT_NAME}.
 
 | Posisi | Hadiah |
 | :-: | :-- |
@@ -68,14 +69,6 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 - [Siaran langsung](https://www.twitch.tv/osulive)
 - **[Lembar statistik]({STATS_LINK})**
 
------------------------------------
-
-![Podium {ABBR}](img/podium.png) -->
-
-![Bagan {ABBR}](img/bracket.png) -->
-
----------------------------------------
-
 ## Peserta
 
 |  | Negara | Anggota |
@@ -91,6 +84,12 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 | ![][flag_FR] France | Contoh | Contoh | Contoh |
 | ![][flag_ID] Indonesia | Contoh | Contoh | Contoh |
 | ![][flag_VN] Vietnam | Contoh | Contoh | Contoh |
+
+---------------------------
+
+![Podium {ABBR}](img/podium.png) -->
+
+![Bagan {ABBR}](img/bracket.png) -->
 
 ---------------------------
 
@@ -141,4 +140,5 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 ### Instruksi Mappool
 ### Instruksi Penjadwalan 
 
-<!-- Tambahkan referensi bendera di bawah kolom komentar ini -->
+<!-- Tambahkan referensi bendera di bawah kolom komentar ini 
+Gunakan https://megaapplepi.github.io/flag-wiki-osu/ untuk penggunaan bendera -->

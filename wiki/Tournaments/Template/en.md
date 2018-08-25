@@ -4,16 +4,17 @@ tags:
 ---
 
 <!--
-find-replace these curly braces then delete this comment
+Find and replace those tags listed below with proper information, then delete this comment.
 {TOURNAMENT_NAME} = tournament name
 {MODE} = game mode
-{ABBR} = abbreviation of the title followed by its iteration/year occurence i.e. MWC 4K 2018
+{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence i.e. MWC 4K 2018
 {ORGANISER} = organiser of the tournament
 {NTH} = installment ordinal number
 {TOPIC_NUM} = forum thread number
-{STATS_LINK} = link to overall statistics (should be Google Drive link)
-You will still need to add other items such as tables, etc.
-Use .png as a default format for picture(s), since .jpg can't handle transparency
+{STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
+You will still need to fill other items such as tables, etc.
+Use .png as a default format for images, since .jpg can't handle transparency.
+Alongside this comment, remember you will need to delete all comments across the article.
 -->
 
 # {TOURNAMENT_NAME}
@@ -39,7 +40,7 @@ The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament ho
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. As these items may change with every installment of the tournament, it is only possible to give an estimate prize list for each {TOURNAMENT_NAME}.
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_NAME}.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -68,14 +69,6 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet]({STATS_LINK})**
 
------------------------------------
-
-![{ABBR} Podium](img/podium.png)
-
-![{ABBR} Bracket](img/bracket.png)
-
----------------------------------------
-
 ## Participants
 
 |  | Country | Members |
@@ -91,6 +84,12 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | ![][flag_FR] France | Example | Example | Example |
 | ![][flag_ID] Indonesia | Example | Example | Example |
 | ![][flag_VN] Vietnam | Example | Example | Example |
+
+---------------------------
+
+![{ABBR} Podium](img/podium.png)
+
+![{ABBR} Bracket](img/bracket.png)
 
 ---------------------------
 
@@ -141,4 +140,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Mappool Instructions
 ### Scheduling Instructions 
 
-<!-- Add flag references here -->
+<!-- 
+Add flag references here
+Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references
+ -->
