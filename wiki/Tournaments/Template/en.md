@@ -8,24 +8,26 @@ find-replace these curly braces then delete this comment
 {TOURNAMENT_NAME} = tournament name
 {MODE} = game mode
 {ABBR} = abbreviation of the title followed by its iteration/year occurence i.e. MWC 4K 2018
+{ORGANISER} = organiser of the tournament
 {NTH} = installment ordinal number
 {TOPIC_NUM} = forum thread number
 {STATS_LINK} = link to overall statistics (should be Google Drive link)
-you will still to add other items such as tables
+You will still need to add other items such as tables, etc.
+Use .png as a default format for picture(s), since .jpg can't handle transparency
 -->
 
 # {TOURNAMENT_NAME}
 
-![{ABBR} Logo](logo.jpg)
+![{ABBR} Logo](img/logo.png)
 
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the [osu! team](/wiki/People/The_Team). It is the {NTH} installment of the {TOURNAMENT_NAME}.
+The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_NAME}.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-01-01/2018-01-28 |
-| Live Drawings | 2018-01-29 (12 UTC) |
+| Live Drawings | 2018-01-29 12:00:00 UTC |
 | Group Stage |  |
 | Round of 16 |  |
 | Quarterfinals |  |
@@ -68,9 +70,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 -----------------------------------
 
-<!-- ![Podium](podium.jpg) -->
+![{ABBR} Podium](img/podium.png)
 
-<!-- ![Bracket](bracket.jpg) -->
+![{ABBR} Bracket](img/bracket.png)
 
 ---------------------------------------
 

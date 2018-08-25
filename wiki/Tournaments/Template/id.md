@@ -8,24 +8,26 @@ find-replace teks yang memiliki kurung kurawal kemudian hapus blok komentar ini
 {TOURNAMENT_NAME} = nama turnamen
 {MODE} = mode game
 {ABBR} = singkatan turnamen diikuti tahun/iterasi digelarnya contoh MWC 4K 2018
+{ORGANISER} = penyelenggara turnamen
 {NTH} = nomor instalasi turnamen
 {TOPIC_NUM} = nomor forum thread
 {STATS_LINK} = tautan ke statistik keseluruhan (harus berupa tautan Google Drive)
-Anda masih akan menambahkan elemen lain seperti tabel
+Anda masih akan menambahkan elemen lain seperti tabel, dan lainnya
+Gunakan .png sebagai format utama dalam gambar, karena .jpg tidak dapat membuka elemen transparan
 -->
 
 # {TOURNAMENT_NAME}
 
-![Logo {ABBR}](logo.jpg)
+![Logo {ABBR}](img/logo.png)
 
-**{TOURNAMENT_NAME}** (***{ABBR}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi {NTH} dari turnamen {TOURNAMENT_NAME}.
+**{TOURNAMENT_NAME}** (***{ABBR}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh {ORGANISER}. Kali ini merupakan instalasi ke-{NTH} dari turnamen {TOURNAMENT_NAME}.
 
 ## Jadwal Turnamen
 
 | Event | Waktu Pelaksanaan |
 | --: | :-- |
 | Tahap Registrasi | 2018-01-01/2018-01-28 |
-| Pengundian | 2018-01-29 (12 UTC +7) |
+| Pengundian | 2018-01-29 12:00:00 UTC |
 | Babak Grup |  |
 | Babak 16 Besar |  |
 | Perempat Final |  |
@@ -68,9 +70,9 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 
 -----------------------------------
 
-<!-- ![Podium](podium.jpg) -->
+![Podium {ABBR}](img/podium.png) -->
 
-<!-- ![Bagan](bracket.jpg) -->
+![Bagan {ABBR}](img/bracket.png) -->
 
 ---------------------------------------
 
