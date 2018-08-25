@@ -209,7 +209,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [An - TearVid (Shiirn) \[Another\]](http://osu.ppy.sh/beatmaps/121804)
   - [Cuvelia - Tenkuu no Yoake (AngelHoney) \[Another\]](http://osu.ppy.sh/beatmaps/148009)
   - [Megpoid GUMI - Jinsei Reset Button (manten) \[Ex.\]](http://osu.ppy.sh/beatmaps/127426)
-  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo[iceeicee\]]()) \[Insane\]](http://osu.ppy.sh/beatmaps/159316)
+  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](http://osu.ppy.sh/beatmaps/159316)
   - [Syuiro - Ama no Jaku (Natteke) \[Insane\]](http://osu.ppy.sh/beatmaps/126677)
 - Hidden
   - [RSP - The First Star (IchiGUN) \[S h i a's Insane\]](http://osu.ppy.sh/beatmaps/145601)
@@ -271,6 +271,68 @@ The osu! World Cup #3 was run by various community members by distributing the m
 
 -----------------------
 
+## Ruleset
+
+## Tournament Registration
+
+1. The country will be represented by the captain, which will choose its teammates. Basic English language knowledge is required from the person of captain.
+   - Exceptions require tournament management's approval.
+2. To sign up, you need **at least** 4 players in the team. You can though sign-up with additional 4 players. To sign-up, send a forum PM to tournament management or post into this thread with all team members you want to register and the time zone your team is living in.
+3. The sign-up time lasts from the day of 25th October to 15th November 2012, 23:59 UTC.
+4. The sign-ups automatically stop after reaching 32 participants.
+5. If there's more attention to the tournament than we expect, the number of participants might be raised.
+6. No more team than one team from each country can sign-up to the tournament.
+7. All of the team players' flag in the profile must be the same as their country's. However, it can be got around in special cases but should stay as **exception**. It requires approval by tournament management.
+
+## Stage Instructions
+
+1. We are looking for 32 teams from 32 countries. If there are less participants than we want, the tournament will be modeled according to the reached number.
+2. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 team in each one.
+3. All the teams from each group will face each other.
+4. Rankings of each group are determined by sorting the statistics of each team in followed priority:
+   - More matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - More maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
+5. Following stages are Knock-Out Stages. This means that the winner ascends to the next stage and the losing team gets kicked out of the tournament.
+6. In Group Stage, you need to win 4 maps to win a match. In Round of 16 and Quarter-finals, you need to win 5 maps to win a match. In Semi-finals and Finals, you need to win 6 maps to with a match.
+
+## Match Instructions
+
+1. 15 minutes before the match, the tournament management must contact each captain and confirm the ready to play. The management creates the match and invites the captains.
+2. During the match, there must be 8 players on the server hosted by one of the captains, 4 players from each team.
+3. Captain of the winning team must provide screenshots of all of the map results and the Multiplayer History link. These must be sent to to ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) or ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) via forum PM. If any of the captains won't do it, the match will be nullified and a rematch will be needed.
+4. Each round, the staff will announce the list of beatmaps (= mappool), from which the captains will be able to choose. These beatmaps are seperated into 5 brackets: NoMod, Hidden, HardRock, DoubleTime and Tiebreaker.
+5. Alternately each captain selects a map out of the mappool. Captains should agree to each other who will select the first map. If no agreement can't be reached, blue team starts selecting.
+   - The captains can select maps out of the NoMod bracket unlimited.
+   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
+   - In case of tie, the tiebreaker map must be played.
+6. The settings of the multiplayer room will be: osu! standard mode, `Team VS` mode and win condition: score.
+7. You are free to set 'No Video' mod. Also, you are free to use the Funspoiler options.
+8. The country with best total score on the map wins.
+9. The teams can exchange only one player per map during matches.
+
+## Other Rules
+
+1. If a map ends in a tie, the map will be nullified.
+2. If one of players gets disconnected, the player is considered as having left the match on his own.
+   - The game can be nullified, if the opponent team captain agrees to a re-play.
+   - If server is too unstable to continue the match, tournament management can postpone the match.
+3. If less than 4 players arrived until the time that the match should start, the match can be postponed maximum 20 minutes.
+   - Whole match can be postponed by tournament management, if both teams lack of players.
+4. Lags can't be a reason for nullification of game.
+5. When a match gets postponed too frequent, tournament manangement can declare the opponent team wins by default.
+   - In Group stage, 'Win by default' will be considered as win by 3:0, +3.5 score difference ratio.
+6. 3 vs 3 match is available only in the Group stage if no more than 3 players in one of two teams can be ready for the match.
+   - Captains of both teams should agree and permission of tournament manager is needed.
+   - The manager can disqualify a team if the team abuses 3 vs 3 match.
+7. Unexpected incidences that needs decision of staff and isn't specified in this ruleset during the tournament, the decision of tournament management is final.
+8. Any form of non-fair behaviour (such as cheating, insulting other players, racism) or disturbance in the tournament's progress will be punished with an immediate banishment of the player/the team from the tournament.
+   - Banned player won't be allowed to participate the next osu! World Cup.
+9. Prospective and retrospective complaints about map selection or progress of this tournament will have no use and will be ignored. Suggestions are appreciated.
+10. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
+11. Any modification of this rules will be notified.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
