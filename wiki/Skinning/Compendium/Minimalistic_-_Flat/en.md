@@ -3,7 +3,7 @@
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
-# Minimalsitic & Flat
+# Minimalistic & Flat
 Compendium of all completed minimalistic or flat osu! skins.
 
 - ![][o!s]  - means the skin contains osu!standard elements.
