@@ -41,7 +41,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
+| Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
 | Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -95,7 +95,86 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
-The mappools will be revealed one week in advance of each stage and will be displayed in here whenever that moment takes place.
+### Group Stage
+
+**[Download the mappack here! (80 MB)](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
+
+- Freemod (11)
+	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/b/1635364&m=3)
+	- [toby fox - ASGORE \(Wh1teh\) \[Edit\]](http://osu.ppy.sh/b/1726743&m=3)
+	- [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](http://osu.ppy.sh/b/1061726&m=3)
+	- [Tom Encore - Jig \(Kamikaze\) \[Manufactured\]](http://osu.ppy.sh/b/1563652&m=3)
+	- [Hakuryu - Genesis At Oasis \(MOONLiGHT Mix\) \(Alternater\) \[NanoMorpheus\]](http://osu.ppy.sh/b/1637624&m=3)
+	- [Tennouzu Nazuna \(CV.Yamamoto Ayano\) - Tic Tac DREAMIN \(ALEFY\) \[Master \[NSV\]\]](http://osu.ppy.sh/b/1270729&m=3)
+	- [Fudanshi Crisis - Scarlet Tempest \(Shoegazer\) \[Tempest\]](http://osu.ppy.sh/b/1444641&m=3)
+	- [Rengoku Teien - Suikyou Heaven \(Kamikaze\) \[Oriental // justhow x Kamikaze\]](http://osu.ppy.sh/b/1755454&m=3)
+	- [The Flashbulb - That Missing Week \(Alternate\) \(Shoegazer\) \[Departure\]](http://osu.ppy.sh/b/1746723&m=3)
+	- [An - Saigo \(juankristal\) \[Inspiration\]](http://osu.ppy.sh/b/1287086&m=3)
+	- [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](http://osu.ppy.sh/b/1745743&m=3)
+- Tiebreaker
+	- **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/b/539853&m=3)**
+
+------------------------------------------------------------------------
+
+## Match Schedule: Group Stage
+
+### Saturday, 1. September 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Switzerland | ![][flag_CH] | ![][flag_AU] | Australia | **10:00 UTC** | 12:00 UTC+02 | 20:00 UTC+10 |
+| Taiwan | ![][flag_TW] | ![][flag_JP] | Japan | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
+| Finland | ![][flag_FI] | ![][flag_PH] | Philippines | **11:00 UTC** | 14:00 UTC+03 | 19:00 UTC+08 |
+| Norway | ![][flag_NO] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 21:00 UTC+10 |
+| Thailand | ![][flag_TH] | ![][flag_MY] | Malaysia | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
+| Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Macau | ![][flag_MO] | ![][flag_ES] | Spain | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
+| Argentina | ![][flag_AR] | ![][flag_JP] | Japan | **13:00 UTC** | 10:00 UTC-03 | 22:00 UTC+09 |
+| Finland | ![][flag_FI] | ![][flag_KR] | South Korea | **13:00 UTC** | 16:00 UTC+03 | 22:00 UTC+09 |
+| Taiwan | ![][flag_TW] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Hong Kong | ![][flag_HK] | ![][flag_SG] | Singapore | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 |
+| Thailand | ![][flag_TH] | ![][flag_US] | United States | **14:00 UTC** | 21:00 UTC+07 | 10:00 UTC-04 |
+| Venezuela | ![][flag_VE] | ![][flag_DK] | Denmark | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_BR] | Brazil | **16:00 UTC** | 21:00 UTC+05 | 13:00 UTC-03 |
+| Netherlands | ![][flag_NL] | ![][flag_SE] | Sweden | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Germany | ![][flag_DE] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Peru | ![][flag_PE] | ![][flag_US] | United States | **18:00 UTC** | 13:00 UTC-05 | 14:00 UTC-04 |
+| Netherlands | ![][flag_NL] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
+| Venezuela | ![][flag_VE] | ![][flag_CL] | Chile | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
+
+### Sunday, 2. September 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Peru | ![][flag_PE] | ![][flag_MY] | Malaysia | **2:00 UTC** | 21:00 (Sat) UTC-05 | 10:00 UTC+08 |
+| Venezuela | ![][flag_VE] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
+| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **2:00 UTC** | 10:00 UTC+08 | 23:00 (Sat) UTC-03 |
+| Peru | ![][flag_PE] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 (Sat) UTC-05 | 10:00 UTC+07 |
+| Macau | ![][flag_MO] | ![][flag_CA] | Canada | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
+| Philippines | ![][flag_PH] | ![][flag_KR] | South Korea | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
+| Australia | ![][flag_AU] | ![][flag_ID] | Indonesia | **10:00 UTC** | 20:00 UTC+10 | 17:00 UTC+07 |
+| Italy | ![][flag_IT] | ![][flag_JP] | Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 |
+| Philippines | ![][flag_PH] | ![][flag_PL] | Poland | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_SG] | Singapore | **11:00 UTC** | 16:00 UTC+05 | 19:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 |
+| Macau | ![][flag_MO] | ![][flag_FR] | France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| China | ![][flag_CN] | ![][flag_CL] | Chile | **13:00 UTC** | 21:00 UTC+08 | 10:00 UTC-03 |
+| Switzerland | ![][flag_CH] | ![][flag_ID] | Indonesia | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
+| Sweden | ![][flag_SE] | ![][flag_GB] | United kingdom | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| Denmark | ![][flag_DK] | ![][flag_CN] | China | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Malaysia | ![][flag_MY] | ![][flag_US] | United States | **15:00 UTC** | 23:00 UTC+08 | 11:00 UTC-04 |
+| Argentina | ![][flag_AR] | ![][flag_IT] | Italy | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
+| Norway | ![][flag_NO] | ![][flag_CH] | Switzerland | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_PL] | Poland | **16:00 UTC** | 19:00 UTC+03 | 18:00 UTC+02 |
+| Spain | ![][flag_ES] | ![][flag_FR] | France | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Germany | ![][flag_DE] | ![][flag_SE] | Sweden | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Denmark | ![][flag_DK] | ![][flag_CL] | Chile | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
+| Spain | ![][flag_ES] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 
 ------------------------------------------------------------------------
 
