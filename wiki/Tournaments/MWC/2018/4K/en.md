@@ -113,7 +113,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 	- [An - Saigo \(juankristal\) \[Inspiration\]](http://osu.ppy.sh/b/1287086&m=3)
 	- [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](http://osu.ppy.sh/b/1745743&m=3)
 - Tiebreaker
-	- [ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/b/539853&m=3)
+	- **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/b/539853&m=3)**
 
 ------------------------------------------------------------------------
 
