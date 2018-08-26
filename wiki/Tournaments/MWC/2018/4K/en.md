@@ -50,7 +50,6 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/779486)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Sign up here!](https://osu.ppy.sh/community/tournaments/16)
 
 ------------------------------------------------------------------------
 
