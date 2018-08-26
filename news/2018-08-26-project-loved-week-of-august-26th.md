@@ -31,6 +31,8 @@ In case if you don't read the end of this post, be sure to submit suggestions fo
 
 Alright, too much talking; not enough osu!. Let's get into those maps!
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2Eyj2N_uR6s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Navigation
 
 - [osu!](#osu)
