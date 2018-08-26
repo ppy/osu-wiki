@@ -11,7 +11,7 @@ When editing the skin configuration file, keep the following in mind:
 -   The skin version should be set to `2.5`.
 -   Positioning height-wise is based on a max-height of 480 pixels; the value used will be scaled across all game clients so it should be consistent for all players.
 -   Columns are identified with index 0 from left to right. Meaning that the first column from the left is 0, the second is 1, the third is 2, etc.
--   Keys, notes, and hold notes use the same column numbers they a part of to identify themselves. Meaning that keys, notes, and hold notes inside column 2 will also use 2.
+    -   Keys, notes, and hold notes use the same column numbers they are part of to identify themselves. Meaning that keys, notes, and hold notes inside column 2 will also use 2.
 -   Each key count that is skinned must have its own section.
 -   When defining an image's location and/or name, copy the path from the your skin's folder (not from `Skins/`) and remove the file's extension.
 -   If the stage is upside-down, you are given the option to tell osu! to flip keys and/or notes vertically.
@@ -92,7 +92,7 @@ By default, there are only three images that are used:
 
 The positioning of 1 and 2 depends on the key count and if the special style (explained below) is being used. S is used when the key count is odd (placed in the middle) or when a special style is used.
 
-A special style can be used for even key counts beyond 5 keys. The positioning of S can be set with the `SpecialStyle` command, but the player can overwrite this using in the [Options](/wiki/Options).
+A special style can be used for even key counts beyond 5 keys. The positioning of S can be set with the `SpecialStyle` command, but the player can overwrite this using the [Options](/wiki/Options).
 
 ### Keys (advanced)
 
@@ -500,7 +500,9 @@ The following elements are used with other parts of osu!:
 
 ## Playfield design
 
+### Combo numbers
 
+By default, combo numbers are displayed in the middle (horizontally) of the stage.
 
 ### Centring the stage
 
