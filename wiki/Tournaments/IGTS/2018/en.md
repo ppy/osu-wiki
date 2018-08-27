@@ -5,16 +5,16 @@ tags:
 ---
 # Intermediate Global Taiko Showdown 2018
 
-![IGTS 2018 Logo](logo.jpg)
+![IGTS 2018 Logo](img/logo.png)
 
-The **Intermediate Global Taiko Showdown 2018** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
+The **Intermediate Global Taiko Showdown 2018 (***IGTS 2018***)** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-06-30/2018-07-29 (00:00 UTC) |
-| Group Drawings | 2018-07-29 (13:00 UTC) |
+| Registration Phase | 2018-06-30/2018-07-29 |
+| Live Drawings | 2018-07-29 13:00:00 UTC |
 | Group Stage | 2018-08-04/2018-08-12 |
 | Round 1 (Lower Bracket) | 2018-08-17/2018-08-18 |
 | Quarterfinals | 2018-08-24/2018-08-25 |
@@ -50,13 +50,12 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 - [Discussion thread](/community/forums/topics/767841)
 - [IGTS Discord](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/igtsosu)
-- [Player/Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScmGzj3NMAOimVUzSdMRDa8COV5MOxcANOljLuxQjrJ9wLIvg/viewform)
-- [Staff Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe39Rk4JyUQ_GGBJHdYxfA7kZmJQqboK3p1LV_eTYZf-8Td_Q/viewform)
 - [Challonge brackets](https://challonge.com/u85xl34m)
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
 
 -----------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
 ### Saturday, 25 August 2018
 
@@ -127,6 +126,30 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! ( MB)]()**
+
+- NoMod
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](/beatmapsets/589814/#taiko/1500895) 
+  - [Ryu\* - !Viva! (-Kazu-) \[Kazu's Oni\]](/beatmapsets/526265/#taiko/1130126) 
+  - [C-Show - On the FM (Nofool) \[Oni\]](/beatmapsets/568544/#taiko/1205385) 
+  - [Himeringo - Idola no Circus (hikikochan) \[Dance\]](/beatmapsets/728008/#taiko/1537074)
+- Hidden
+  - [Memme - Acid Burst (MMzz) \[Oni\]](/beatmapsets/215546/#taiko/506333) 
+  - [Akhuta - Ludus In Tenebris (Nyan) \[Muzukashii\]](/beatmapsets/443065/#taiko/964451) 
+- HardRock
+  - [Nekomata Master - Avalon Hill (LunaticP) \[Oni\]](/beatmapsets/261935/#taiko/597875) 
+  - [xi - ANiMA (tasuke912) \[Oni\]](/beatmapsets/326029/#taiko/725277) 
+- DoubleTime
+  - [David Bergeaud - Joraal Nebula - Leviathan (Gezoda) \[Oni\]](/beatmapsets/71072/#taiko/268461) 
+  - [siromaru + crankyHorie Yui - conflict (TKSalt) \[TK's Muzukashii\]](/beatmapsets/103123/#taiko/278005) 
+- FreeMod
+  - [ryo (supercell) - ODDS&ENDS (Short Ver.) (Ellyu) \[Cherry's Inner Taiko\]](/beatmapsets/59981/#taiko/179927) 
+  - [KNOWER - Things About You (Nifty) \[Oni\]](/beatmapsets/666935/#taiko/1411347) 
+- Tiebreaker
+  - **[Mohican Sandbag - U.N. Owen is dead (OnosakiHito) \[Oni\]](/beatmapsets/177908#taiko/428071)**
 
 ### Quarterfinals
 
@@ -203,6 +226,24 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+| Friday, 2018-08-24 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](/community/matches/45369844) |
+
+| Saturday, 2018-08-25 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| **Japan** ![][flag_JP] | **5** | 2 | ![][flag_EC] Ecuador | [#1](/community/matches/45385434) |
+| Russia ![][flag_RU] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45392371) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FR] France | [#1](/community/matches/45397375) |
+| Singapore ![][flag_SG] | 1 | **5** | ![][flag_US] **United States** | [#1](/community/matches/45402951) |
+
+| Sunday, 2018-08-26 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| France ![][flag_FR] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45434990) |
+| Russia ![][flag_RU] | 1 | **5** | ![][flag_CA] **Canada** | [#1](/community/matches/45431679) |
+| Ecuador ![][flag_EC] | **5** | 0 | ![][flag_PT] Portugal | -win by default- |
 
 ### Round 1 (Lower Bracket)
 
