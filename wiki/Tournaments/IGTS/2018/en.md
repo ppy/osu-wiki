@@ -57,35 +57,31 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Match Schedule: Semifinals
 
-### Saturday, 25 August 2018
+### Saturday, 1 September 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | Japan | ![][flag_JP] | ![][flag_EC] | Ecuador | **01:00** |  |
-| #2 | Russia | ![][flag_RU] | ![][flag_MY] | Malaysia | **09:00** |  |
-| #3 | Germany | ![][flag_DE] | ![][flag_FR] | France | **13:00** |  |
-| #4 | Netherlands | ![][flag_NL] | ![][flag_SG] | Singapore | **11:00** |  |
+| #1 | Japan | ![][flag_JP] | ![][flag_MY] | Malaysia | **08:00** |  |
+| #2 | Germany | ![][flag_DE] | ![][flag_NL] | Netherlands | **17:30** |  |
+| #3 | United States | ![][flag_US] | ![][flag_BR] | Brazil | **21:00** |  |
+| #4 | Canada | ![][flag_CA] | ![][flag_EC] | Ecuador | **23:00** |  |
 
-### Sunday, 26 August 2018
+### Sunday, 2 September 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | Netherlands | ![][flag_NL] | ![][flag_US] | United States | **17:00** | ¹ |
-| #5b | Singapore | ![][flag_SG] | ![][flag_US] | United States | **12:00** | ¹ |
-| #6a | Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **16:00** | ² |
-| #6b | France | ![][flag_FR] | ![][flag_BR] | Brazil | **16:00** | ² |
-| #7a | Russia | ![][flag_RU] | ![][flag_CA] | Canada | **14:00** | ³ |
-| #7b | Malaysia | ![][flag_MY] | ![][flag_CA] | Canada | **12:00** | ³ |
-| #8a | Japan | ![][flag_JP] | ![][flag_PT] | Portugal | **10:00** | ⁴ |
-| #8b | Ecuador | ![][flag_EC] | ![][flag_PT] | Portugal | **16:00** | ⁴ |
+| #5a | Japan | ![][flag_JP] | ![][flag_US] | United States | **02:00** | ¹ |
+| #5b | Malaysia | ![][flag_MY] | ![][flag_US] | United States | **02:00** | ¹ |
+| #5c | Japan | ![][flag_JP] | ![][flag_BR] | Brazil | **02:00** | ¹ |
+| #5d | Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **02:00** | ¹ |
+| #6a | Germany | ![][flag_DE] | ![][flag_CA] | Canada | **18:00** | ² |
+| #6b | Netherlands | ![][flag_NL] | ![][flag_CA] | Canada | **18:00** | ² |
+| #6c | Germany | ![][flag_DE] | ![][flag_EC] | Ecuador | **18:00** | ² |
+| #6d | Netherlands | ![][flag_NL] | ![][flag_EC] | Ecuador | **18:00** | ² |
 
-¹ Encounter dependent on losers of Match #1
+¹ Encounter dependent on loser of Match #1 and winner of Match #3
 
-² Encounter dependent on losers of Match #2
-
-³ Encounter dependent on losers of Match #3
-
-⁴ Encounter dependent on losers of Match #4
+² Encounter dependent on loser of Match #2 and winner of Match #4
 
 -----------------------
 
@@ -129,7 +125,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ### Semifinals
 
-**[Download the mappack here! ( MB)]()**
+**[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is)**
 
 - NoMod
   - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](/beatmapsets/589814/#taiko/1500895) 
