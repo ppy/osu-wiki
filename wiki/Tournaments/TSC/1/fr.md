@@ -49,15 +49,15 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 - [Fil de discussion](/community/forums/topics/782877)
 - [Discord officiel du TSC](https://discord.gg/AE4qGwZ)
-- [Challonge brackets and predictions](https://challonge.com/TaikoSuijiCup)
+- [Tableaux Challonge et prédictions](https://challonge.com/TaikoSuijiCup)
 - [Livestream](https://www.twitch.tv/osutaikolive)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
 
 -----------------------
 
 ## Participants
 
-| Team | Membres |
+| Équipe | Membres |
 | :-- | :-- |
 | **Team 1** | ![][flag_JP] [tasuke912](/users/2774767), ![][flag_JP] [AngelRemm](/users/5567221), ![][flag_PL] [Wolfgang](/users/7184324), ![][flag_CN] [kknegative](/users/2349769), ![][flag_BR] [AnonX32](/users/2730270), ![][flag_US] [CaptainEChan](/users/9536977) |
 | **Team 2** | ![][flag_JP] [Toorun12](/users/10349712), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_NL] [aEoNNzR-](/users/1594036), ![][flag_AR] [Jintsuu](/users/7165127), ![][flag_SK] [Ayumi-chan](/users/6269547), ![][flag_VN] [KonaeAkira](/users/7129011) |
@@ -98,7 +98,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 ### 32èmes de finale
 
-**[Download the mappack here! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8)**
+**[Télécharge le mappack ici! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8)**
 
 #### Mappool A
 
@@ -111,11 +111,11 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
   - [ENNNN - Nightfall (DarkVortex) \[Oni\]](/beatmapsets/655932/#taiko/1389903) 
   - [Dirty Androids - City Never Sleeps (Lyawi) \[Oni\]](/beatmapsets/588177/#taiko/1245287)
 - HardRock
-  - [Hige Driver - 	Pa Pi Pu Yeah! (Raphalge) \[Oni\]](/beatmapsets/701218/#taiko/1484196) 
+  - [Hige Driver - Pa Pi Pu Yeah! (Raphalge) \[Oni\]](/beatmapsets/701218/#taiko/1484196) 
   - [han@\*mori - Seimei no Wa wo Tsumuide (bank78952) \[Inner Oni\]](/beatmapsets/826249/#taiko/1731695)
 - FreeMod
   - [Jin - Outer Science (nold\_1702) \[mint's Taiko Oni\]](/beatmapsets/115963/#taiko/300389) 
-  - [Uesaka Sumire - 	POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (\_Rise) \[Riseko\]](/beatmapsets/751580/#taiko/1583046) 
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (\_Rise) \[Riseko\]](/beatmapsets/751580/#taiko/1583046) 
 
 #### Mappool B
 
@@ -138,10 +138,10 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 - La salle de match va être créée par l'arbitre et les capitaines des deux équipes vont être invités. Le capitaine est ensuite en charge d'inviter le reste de l'équipe. Si le capitaine d'une équipe n'est pas en ligne, l'arbitre va inviter n'importe quel autre joueur de cette équipe et ce joueur sera en charge d'inviter l'équipe.
 - Les équipes ont 15 minutes après l'heure prévue pour réunir au moins 4 joueurs disponibles pour jouer le match. Si les 15 minutes passent et que l'équipe n'a pas réuni assez de joueur pour jouer le match, l'autre équipe remporte une victoire par défaut.
 - Une fois que tous les joueurs ont rejoint la salle, les capitaines vont lancer la commande !roll; le gagnant du lancer va choisir le premier warmup, le premier ban et le premier pick.
-- The Mappool will contain 16 maps. The format is as follows: 
-  - Mappool A will contain the following: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod. 
-  - Mappool B will contain the following: 2 Challenge Maps, 1 DoubleTime, 1 Easy Mod, 1 Hidden+Hard Rock, and the Tiebreaker. These maps are **not bannable**.
-  - Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at ANY time.
+- La Map Pool va contenir 16 maps et son format est telle que suit:
+  - La Map Pool A va contenir: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod
+  - La Map Pool B va contenir: 2 Challenge, 1 DoubleTime, 1 Easy, 1 Hidden+HardRock, et le Tiebreaker. Ce maps sont **non bannissables**.
+  - Chaque équipe peut bannir une map de la Map Pool A. Les maps de la Map Pool B ne peuvent jamais être bannies.
 - Les maps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une map warmup.
   - Les warmups ne doivent pas excéder 4:30.
 - L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une map en donnant le nom de la map dans le chat multiplayer et l'arbitre va sélectionner la map.
