@@ -7,24 +7,24 @@ tags:
 
 ![TSC Logo](img/logo.png)
 
-The **Taiko Suiji Cup (***TSC***)** is a three-on-three randomized team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
+Le **Taiko Suiji Cup(***TSC***)** est un tournoi 3vs3 avec des équipes formées aléatoirement d'osu!taiko organisé par ![][flag_US] [Backfire](/users/263110). C'est la première édition du Taiko Suiji Cup.
 
-## Tournament Schedule
+## Planning du tournoi
 
-| Event | Timestamp |
+| Évènement | Dates |
 | --: | :-- |
-| Registration Phase | 2018-08-01/2018-08-25 |
-| Live Drawings | 2018-08-25/2018-08-26 12:30:00 UTC |
-| Round of 32 | 2018-09-01/2018-09-02 |
-| Round of 16 | 2018-09-08/2018-09-09 |
-| Quarterfinals | 2018-09-15/2018-09-16 |
-| Semifinals | 2018-09-22/2018-09-23 |
-| Finals | 2018-09-29/2018-09-30 |
-| Grand Finals | 2018-10-06/2018-10-07 |
+| Phase d'inscription | 2018-08-01/2018-08-25 |
+| Tirage au sort en direct | 2018-08-25 12:30:00 UTC |
+| 32èmes de finale | 2018-09-01/2018-09-02 |
+| 16èmes de finale | 2018-09-08/2018-09-09 |
+| Quarts-de-finale | 2018-09-15/2018-09-16 |
+| Demi-finales | 2018-09-22/2018-09-23 |
+| Finales | 2018-09-29/2018-09-30 |
+| Grandes finales | 2018-10-06/2018-10-07 |
 
-## Prizes
+## Récompenses
 
-| Placing | Prize(s) |
+| Classement | Récompenses |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
@@ -32,23 +32,23 @@ The **Taiko Suiji Cup (***TSC***)** is a three-on-three randomized team based os
 
 ## Organisation
 
-The Taiko Suiji Cup is run by various osu!taiko community members.
+Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
-| Position | Member(s) |
+| Poste | Membre(s) |
 | :-- | :-- |
-| Management | ![][flag_US] [Backfire](/users/263110) |
-| Map Selectors | ![][flag_US] [Backfire](/users/263110), ![][flag_GB] [Lno](/users/1900787), ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Commentators | ![][flag_SE] [Raphalge](/users/3918650), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [Das](/users/3165416), ![][flag_PT] [BabySnakes](/users/4669728), ![][flag_CA] [DuckyDoom](/users/3153062), ![][flag_US] [incandescence](/users/6256027) |
+| Organisateur | ![][flag_US] [Backfire](/users/263110) |
+| Sélectionneur de map | ![][flag_US] [Backfire](/users/263110), ![][flag_GB] [Lno](/users/1900787), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Commentateurs | ![][flag_SE] [Raphalge](/users/3918650), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [Das](/users/3165416), ![][flag_PT] [BabySnakes](/users/4669728), ![][flag_CA] [DuckyDoom](/users/3153062), ![][flag_US] [incandescence](/users/6256027) |
 | Streamers | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_DE] [\[TaikoTori\]](/users/1074143), ![][flag_US] [Garpo](/users/4097035) |
 | Designers | ![][flag_US] [Backfire](/users/263110), ![][flag_DE] [Reo](/users/2249297) |
-| Statistician | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Referees | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_GB] [\_Faithful\_](/users/8628814) ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409) |
+| Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Arbitres | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_GB] [\_Faithful\_](/users/8628814) ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
-## Links
+## Liens
 
-- [Discussion thread](/community/forums/topics/782877)
-- [Official TSC Discord](https://discord.gg/AE4qGwZ)
+- [Fil de discussion](/community/forums/topics/782877)
+- [Discord officiel du TSC](https://discord.gg/AE4qGwZ)
 - [Challonge brackets and predictions](https://challonge.com/TaikoSuijiCup)
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
@@ -57,7 +57,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 ## Participants
 
-| Team | Members |
+| Team | Membres |
 | :-- | :-- |
 | **Team 1** | ![][flag_JP] [tasuke912](/users/2774767), ![][flag_JP] [AngelRemm](/users/5567221), ![][flag_PL] [Wolfgang](/users/7184324), ![][flag_CN] [kknegative](/users/2349769), ![][flag_BR] [AnonX32](/users/2730270), ![][flag_US] [CaptainEChan](/users/9536977) |
 | **Team 2** | ![][flag_JP] [Toorun12](/users/10349712), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_NL] [aEoNNzR-](/users/1594036), ![][flag_AR] [Jintsuu](/users/7165127), ![][flag_SK] [Ayumi-chan](/users/6269547), ![][flag_VN] [KonaeAkira](/users/7129011) |
@@ -94,9 +94,9 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Mappools
+## Liste des maps
 
-### Round of 32
+### 32èmes de finale
 
 **[Download the mappack here! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8)**
 
@@ -123,37 +123,37 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
   - [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll, Ulqui) \[Myruki's Sweet\]](/beatmapsets/724269/#taiko/1529288)
   - [Hommarju - Wowie Zowie! (Poii) \[Inner Wowie!\]](/beatmapsets/810738/#taiko/1700898)
 - Hidden+HardRock
-  - [Nightwish - Bye Bye Beautiful (Jerry, cdhsausageboy) \[Jerry & Cdh's Oni\]](/beatmapsets/133884/#taiko/475965)
+  - [Yoroshiku! Amucharuzu - Sekai no hate ni yoroshiku (komasy) \[Oni\]](/beatmapsets/656563/#taiko/1390990)
 - Easy
   - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Nwolf) \[2017\]](/beatmapsets/188577/#taiko/1358667)
 - DoubleTime
-  - [Yoroshiku! Amucharuzu - Sekai no hate ni yoroshiku (komasy) \[Oni\]](/beatmapsets/656563/#taiko/1390990)
+  - [Nightwish - Bye Bye Beautiful (Jerry, cdhsausageboy) \[Jerry & Cdh's Oni\]](/beatmapsets/133884/#taiko/475965)
 - Tiebreaker
   - **[PSYQUI - Hype feat. Such (Nifty) \[Adrenaline\]](/beatmapsets/817980/#taiko/1715195)**
 
 ------------------------------------------------------------------------
 
-## Ruleset
+## Règlement
 
-- The match lobby will be created by the referee, and the team captains of both teams will be invited. The captain is then responsible for inviting the rest of their team. If the captain of a team is not online, the referee will invite any other player from that team, and that player will be responsible for inviting their team.
-- Teams have a 15 minute grace period to have at least 4 players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
-- Once all players have joined the lobby, captains will be asked to !roll; the winner of the roll will have the first warmup, first ban, and first pick.
+- La salle de match va être créée par l'arbitre et les capitaines des deux équipes vont être invités. Le capitaine est ensuite en charge d'inviter le reste de l'équipe. Si le capitaine d'une équipe n'est pas en ligne, l'arbitre va inviter n'importe quel autre joueur de cette équipe et ce joueur sera en charge d'inviter l'équipe.
+- Les équipes ont 15 minutes après l'heure prévue pour réunir au moins 4 joueurs disponibles pour jouer le match. Si les 15 minutes passent et que l'équipe n'a pas réuni assez de joueur pour jouer le match, l'autre équipe remporte une victoire par défaut.
+- Une fois que tous les joueurs ont rejoint la salle, les capitaines vont lancer la commande !roll; le gagnant du lancer va choisir le premier warmup, le premier ban et le premier pick.
 - The Mappool will contain 16 maps. The format is as follows: 
   - Mappool A will contain the following: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod. 
   - Mappool B will contain the following: 2 Challenge Maps, 1 DoubleTime, 1 Easy Mod, 1 Hidden+Hard Rock, and the Tiebreaker. These maps are **not bannable**.
-  - Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at **any** time.
-- Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick.
-  - Warmups may not exceed 4:30 total length.
-- The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat, and the referee will select it.
-- Each team has 2 bans per match. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
-- Teams have 3 minutes to select a map; if they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
-- There is no restriction on map selection order; teams may select any available map at any time regardless of mod.
-- On FreeMod picks, at least two players from each team must use Hidden, HardRock, or both.
-- Hidden and HardRock are allowed, but not required, on Tiebreakers.
-- Only one of each seed is allowed to play in the lobby at any given time, so the team can only have 1 A seed, 1 B seed, and 1 C seed.
-- Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
-- The winner of a map is determined by which team ends with a higher score.
-- In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
+  - Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at ANY time.
+- Les maps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une map warmup.
+  - Les warmups ne doivent pas excéder 4:30.
+- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une map en donnant le nom de la map dans le chat multiplayer et l'arbitre va sélectionner la map.
+- Chaque équipe à 2 bans par match. Les maps bannies sont enlevées de la liste des maps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 2 maps du même mod.
+- Chaque équipe a 3 minutes pour sélectionner une map; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de map passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
+- Il n'y a pas de restriction sur l'ordre de sélection des maps; les équipes peuvent choisir toutes les maps disponibles à tout moment peu importe le mod.
+- Sur les maps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
+- Hidden et HardRock sont autorisés mais ne sont pas obligatoires sur les TieBreakers.
+- Seulement une personne de chaque seed est autorisé à jouer dans la salle à tout moment. C'est-à-dire une équipe peut avoir seulement 1 seed A, 1 seed B et 1 seed C.
+- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande !mp start 15 et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
+- Le gagnant de la map est déterminé par l'équipe avec le plus grand score.
+- Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la map. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de map sont passées, leur score ne va pas être pris en compte.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
