@@ -53,7 +53,7 @@ To get a beatmap in the loved status, see the forum post: [Get your beatmap Love
 
 ### Pending
 
-_See also: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)_
+*Main page: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
 
 Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 

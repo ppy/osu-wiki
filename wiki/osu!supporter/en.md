@@ -1,12 +1,12 @@
 # osu!supporter
 
-*For the osu!supporter page from osu!web, see [support the game](/home/support).*
+*For the osu!supporter page from the website, see: [support the game](/home/support)*
 
 ![osu!supporter button](img/signed-out-home.png "osu!supporter button on the home page when signed out")
 
 ## Benefits
 
-*For a list of goodies from having osu!supporter, see [support the game](/home/support).*
+*For a list of goodies from having osu!supporter, see: [support the game](/home/support)*
 
 In general, by buying osu!supporter tag, you will be directly supporting the game's developement while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
 

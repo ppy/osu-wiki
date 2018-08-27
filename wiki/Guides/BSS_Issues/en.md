@@ -5,8 +5,6 @@ tags:
 ---
 # BSS Issues
 
-*Main page: [Guides](/wiki/Guides).*
-
 *Note: Do not use this guide to steal other creator's beatmaps!*
 
 If the [BSS](/wiki/BSS) (Beatmap Submission System) won't let you submit your own beatmap because it says that you do not own the map then do the following:

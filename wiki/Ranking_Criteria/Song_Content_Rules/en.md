@@ -1,8 +1,6 @@
 Song Content Rules
 ==================
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 With a wide variety of music available, most tracks will be fine for use in osu!, providing that they are not:
 
 - Intensely explicit, suggestive, or otherwise extremely confrontational in regards to shocking, obscene or highly sexual content
