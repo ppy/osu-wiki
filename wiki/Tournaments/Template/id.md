@@ -14,7 +14,7 @@ Find and replace tag yang berada di bawah dengan informasi yang sesuai, lalu hap
 {STATS_LINK} = tautan ke lembar statistik keseluruhan (harus berupa tautan Google Drive)
 Anda masih harus menambahkan elemen lain seperti tabel, dan lainnya.
 Gunakan .png sebagai format utama dalam gambar, karena .jpg tidak dapat membuka elemen transparan.
-Selain kolom komentar ini, jangan lupa Anda harus menghapus semua kolom komentar yang berada di artikel ini.
+Selain kolom komentar ini, jangan lupa untuk menghapus semua kolom komentar yang berada di artikel ini.
 -->
 
 # {TOURNAMENT_NAME}
@@ -40,7 +40,7 @@ Selain kolom komentar ini, jangan lupa Anda harus menghapus semua kolom komentar
 
 ## Hadiah
 
-Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Ada kemungkinan bahwa barang-barang yang dihadiahkan dapat berubah setiap instalasi {TOURNAMENT_NAME}.
+Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Ada kemungkinan bahwa barang-barang yang dihadiahkan dapat berubah setiap instalasi {TOURNAMENT_NAME}.
 
 | Posisi | Hadiah |
 | :-: | :-- |
@@ -100,9 +100,9 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 **[Unduh mappack di sini! (UKURAN FILE)](TAUTAN)**
 
 - Tipe Mod
- 	- Beatmap 
+  - Beatmap 
 - Tiebreaker
-	- **Beatmap**
+  - **Beatmap**
 
 ### Semifinal
 ### Perempat Final
@@ -140,5 +140,6 @@ Dalam setiap turnamen, partisipan yang memenangkan turnamen berhak naik ke podiu
 ### Instruksi Mappool
 ### Instruksi Penjadwalan 
 
-<!-- Tambahkan referensi bendera di bawah kolom komentar ini 
-Gunakan https://megaapplepi.github.io/flag-wiki-osu/ untuk penggunaan bendera -->
+<!-- Tambahkan referensi bendera di bawah kolom komentar ini.
+Gunakan https://megaapplepi.github.io/flag-wiki-osu/ untuk penggunaan bendera.
+ -->

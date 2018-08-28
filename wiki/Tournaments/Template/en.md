@@ -14,7 +14,7 @@ Find and replace those tags listed below with proper information, then delete th
 {STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
 You will still need to fill other items such as tables, etc.
 Use .png as a default format for images, since .jpg can't handle transparency.
-Alongside this comment, remember you will need to delete all comments across the article.
+Alongside this comment, remember to delete all comments across the article after you finish.
 -->
 
 # {TOURNAMENT_NAME}
@@ -100,9 +100,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
- 	- Beatmap 
+  - Beatmap 
 - Tiebreaker
-	- **Beatmap**
+  - **Beatmap**
 
 ### Semifinals
 ### Quarterfinals
@@ -141,6 +141,6 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Scheduling Instructions 
 
 <!-- 
-Add flag references here
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references
+Add flag references here.
+Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->
