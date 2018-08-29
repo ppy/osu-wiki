@@ -1,101 +1,70 @@
----
-outdated: true
----
 Installation
 ======================
 
-Cette page explique comment faire fonctionner osu! sur votre ordinateur et propose quelques solutions en cas de problèmes.
+Cette page explique comment faire fonctionner osu! sur votre ordinateur Windows. [osu!academy](/Wiki/osu!academy) a un [tutoriel vidéo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) qui vous explique comment installer osu! sur votre ordinateur Windows.
 
+Configuration minimale requise
+--------------------
+
+- .NET Framework 4+ (le programme d’installation doit vous inviter à le télécharger, sinon vous pouvez le trouver [ici](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- Une carte graphique récente.
+   
 Guide d'installation
 --------------------
 
-### Windows OS
+## Installer osu!
 
-#### Configuration système requise
-- Processeur: 1 GHz+
-- RAM: 512 Mo+
-- [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/fr-FR/download/details.aspx?id=22)
-
-#### Installation du jeu
-- Utilisez le lien de téléchargement du [programme d'installation](https://osu.ppy.sh/p/download).
-- Ouvrez-le depuis la liste de téléchargement de votre navigateur, ou depuis le dossier de téléchargement de votre ordinateur. Il se peut que vous ayez besoin des droits administrateur.
-- Prenez votre temps pour lire ce qui est affiché. Cliquez sur "Suivant" lorsque vous avez terminé.
-- Choisissez le répertoire d'installation et cliquez sur "Suivant". L'installation commence.
-	- Il n'est pas nécessaire de télécharger les "skins", mais vous pouvez le faire, le téléchargement aura lieu une fois que la mise à jour sera terminée.
-- Cliquez sur "Lancer osu!"
-- Lorsque vous aurez atteint le menu principal, une fenêtre vous proposera de vous connecter ou de jouer hors-ligne.
-	- Il est fortement conseillé de vous connecter à votre compte plutôt que de jouer hors-ligne, afin de sauvegarder vos scores sur le site.
-- Bon jeu sur osu!
+1. Accédez à la [page de téléchargement](/home/download) et téléchargez le programme d'installation.
+2. Recherchez et exécutez le programme d’installation.
+3. Pendant l'exécution du programme d'installation, vous disposez d'une période de dix secondes pour sélectionner l'emplacement d'installation.
+   - Si vous voulez le changer, cliquez sur le texte sous le mot "Hi!" et sélectionnez l'emplacement d'installation.
+   - osu! sera installé à cet endroit lorsque la minuterie est terminée.
+4. Lorsque l'installateur est terminé, osu! va démarrer. osu!direct sera utilisé pour télécharger des beatmaps de démarrage pour vous.
+5. osu! vous invitera à vous connecter ou à vous inscrire.
+   - Si vous avez déjà un compte, connectez-vous.
+   - Si vous devez vous inscrire, voir [Enregistrement](/wiki/Enregistrement), puis connectez-vous.
 
 #### Ajout de beatmaps
->Note : beatmap (littéralement: piste de rythme) est le terme anglais utilisé pour désigner une musique ainsi que la piste de jeu allant avec.
 
-- Connectez vous au [site web d'osu!](http://osu.ppy.sh/) à l'aide de vos identifiants (ou [créez un compte](https://osu.ppy.sh/p/register) si vous n'en avez pas encore un).
-- Rendez vous sur la [liste des beatmaps](http://osu.ppy.sh/p/beatmaplist?q=), ou la [liste des packs de beatmaps](http://osu.ppy.sh/p/packlist)
-- Cherchez les musiques/packs que vous aimez.
-- Cliquez sur le lien de téléchargement, il est possible que votre navigateur vous demande d'autoriser ce téléchargement.
-- Une fois le téléchargement terminé, cliquez sur le fichier téléchargé ou déplacez-le dans la fenêtre d'osu!.
-- Si ces deux méthodes ne fonctionnent pas,essayez de déplacer la beatmap téléchargée dans le dossier "Songs" de votre dossier osu! (se trouvant généralement dans ("C:\Program Files (x86)\osu!" ou "C:\Users\nom d'utilisateur\AppData\Local\osu!")
-- Il est parfois nécessaire d'appuyer sur F5 en jeu pour actualiser la liste des beatmaps après un téléchargement.
+*Voir aussi:[Beatmaps](/wiki/Beatmaps) et [Beatmapsets](/wiki/Beatmapsets)*
 
-Il y a aussi d'autres méthodes permettant de télécharger des beatmaps :
-- Les sites miroirs, généreusement offerts et entretenus par la communauté. Le plus populaire est [yas-online](http://osu.yas-online.net/), mais il en existe d'autres.
-- Il existe aussi [des torrents](https://osu.ppy.sh/forum/t/147478) contenant des packs de beatmaps, vous permettant de télécharger de nombreux packs à la fois.
+Il y a deux façons d'ajouter des beatmaps, via le site web ou osu!direct (nécessite d'avoir un tag [osu!supporter](/wiki/osu!support)).
 
-### OS X
+### Site Internet
 
-#### Installation du jeu
-- Rendez vous sur la page de [téléchargement du jeu](http://osu.ppy.sh/p/download) et cliquez sur "OS X installer" pour télécharger la dernière version.
-- [Suivez ces instructions](http://www.youtips.com/fr/mac/installer-une-application-sous-mac-os-x/) pour installer le fichier .dmg sur votre Mac.
-- Lancez le jeu.
-	- Lors du premier lancement, il se peut que le jeu mette 5 minutes à se lancer.
+1. Accédez à la page de référencement [beatmap](/beatmapsets) et connectez-vous au site Web.
+2. Trouvez une chanson que vous aimez jouer.
+3. Cliquez sur l'icône de téléchargement pour enregistrer le beatmapset sur votre ordinateur.
+4. Recherchez et ouvrez le fichier beatmapset, il a une extension `.osz`.
+   - Vous pouvez également placer le fichier beatmaps dans le répertoire `Songs` de osu!.
+5. osu! va automatiquement gérer le reste pour vous et charger la beatmaps.
+   - Si, pour une raison quelconque, vous ne voyez pas la beatmap que vous avez télécharger, appuyez sur `F5` dans [Mode Solo](/wiki/Solo_mode) pour retraiter vos beatmaps.
+   
+### osu!direct
 
-#### Ajout de beatmaps
-- Faites un clic droit sur l'application osu! ("osu!.app") et cliquez sur "Afficher le contenu du package".
-- Naviguez vers le dossier Songs ("Contents/Resources/winePrefix/drive_c/osu/Songs")
-- Déplacez vos beatmaps (.osz) à l'intérieur.
-- Lancez osu! ou appuyez sur F5 en jeu.
-**[Support et informations complémentaires](https://osu.ppy.sh/forum/t/56460)** (en anglais)
+*Remarque: vous devez avoir un tag osu!supporter et une connexion internet pour utiliser osu!direct.*
 
-### osu!stream
+1. Ouvrez osu!, si vous ne l'avez pas déjà fait.
+2. Trouvez une chanson que vous aimez jouer.
+3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Download` à droite pour le télécharger.
+   - Si vous ne voulez pas télécharger la vidéo, cliquez plutôt sur DL NoVideo.
+4. Quand osu! a terminer de télécharger la beatmaps, il le chargera automatiquement si vous êtes en mode Solo, à l'écran [Song Selection](/wiki/Song_Selection).
+   - Si, pour une raison quelconque, vous ne voyez pas la beatmap que vous avez télécharger, appuyez sur `F5` dans [Mode Solo](/wiki/Solo_mode) pour retraiter vos beatmaps.
+   
+## Ajouter des skins
 
-#### Installation du jeu
->Attention : osu!stream n'est PAS osu!.
-Il s'agit d'un autre jeu développé par peppy, très similaire mais qui dispose de ses propres fonctionnalités et classements.
+*Voir aussi: [Skins](/wiki/Skins) et [Skinning](/wiki/Skinning).*
 
-- Ouvrez l'App Store depuis votre appareil.
-- Cherchez "osu!stream" et installez-le.
-- Vous pouvez jouer une fois l'installation complète.
-
-#### Ajout de beatmaps
-- Ouvrez osu!stream.
-- Dans le menu principal, cliquez sur le bouton "Store".
-	- A partir d'ici, vous pouvez télécharger des packs de beatmaps.
-	- Note : La plupart des packs sont payants.
-
-### Autres plateformes (non officiel)
-
-#### Linux/Ubuntu
-- Pour installer osu! sur Linux/Ubuntu (en utilisant Wine), [cliquez ici](https://osu.ppy.sh/forum/t/14614) ou lisez la [version anglaise](/wiki/Installation) de cette page.
-
-#### Android (osu!droid)
-- Rendez vous sur [cette page](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) du Google Play Store.
-- Installez le package.
-Plus d'informations dans [cette section](https://osu.ppy.sh/forum/t/62680) (en anglais).
-
-#### iPhone (version non officielle) Plus d'informations sur [cette page](http://osu.ppy.sh/forum/t/176495) (en anglais)
-
-
-Questions et problèmes fréquents
---------------------------------
-
--   **J'essaye de lancer osu! et j'obtiens une "Initialization Error"**
-    -   Assurez-vous d'avoir installé la dernière version de [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/fr-FR/download/details.aspx?id=22)
--   **Pourquoi je ne peux pas télécharger des beatmaps ?**
-    -   Vous devez vous connecter ou [vous inscrire](/wiki/Registration) si ce n'est pas déjà fait.
--   **Je ne peux pas jouer la beatmap que j'ai téléchargée.**
-    -   Votre beatmap est peut-être corrompue. Essayez de la retélécharger ?
--   **Autres problèmes**
-    -   Veuillez vous adresser aux joueurs sur le canal #help afin de recevoir de l'aide.
-    -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](http://osu.ppy.sh/forum/5) (en anglais).
-    -   Si votre problème concerne des versions non-officielles du jeu, veuillez consulter leur section appropriée sur le forum (voir plus haut).
+1. Allez dans [le sous-forums](/skin/forums/15) et trouvez le skin que vous aimez.
+2. Une fois que vous avez trouvé un skin, téléchargez-le.
+3. En fonction de la façon dont le skin a été télécharger, vous devrez peut-être faire différentes choses.
+  - Si le skin utilise `.osk`:
+     - Ouvrez-le ou faites-le glisser et déposez-le dans osu!.
+     - osu! traitera le skin et le sélectionnera automatiquement pour vous.
+  - Si le skin est compressé (en utilisant `.7z`,` .rar`, `.zip`, etc.):
+     - Extraire
+     - Déplacez le skin dans le répertoire `Skins` de osu!.
+     - Si osu! est ouvert, vous devrez peut-être le redémarrer avant que le skin puisse être utilisée.
+     - Dans osu!, allez dans [Options](/wiki/Options) et recherchez "Skin".
+     - Faites défiler jusqu'à l'option `Current skin:` et sélectionnez le skin que vous avez téléchargé.
+      
