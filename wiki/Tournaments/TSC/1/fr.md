@@ -39,11 +39,11 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | Organisateur | ![][flag_US] [Backfire](/users/263110) |
 | Sélectionneur de map | ![][flag_US] [Backfire](/users/263110), ![][flag_GB] [Lno](/users/1900787), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Commentateurs | ![][flag_SE] [Raphalge](/users/3918650), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [Das](/users/3165416), ![][flag_PT] [BabySnakes](/users/4669728), ![][flag_CA] [DuckyDoom](/users/3153062), ![][flag_US] [incandescence](/users/6256027) |
-| Streamers | ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_DE] [\[TaikoTori\]](/users/1074143), ![][flag_US] [Garpo](/users/4097035) |
+| Streamers | ![][flag_US] [Garpo](/users/4097035), ![][flag_DE] [\[TaikoTori\]](/users/1074143) |
 | Designers | ![][flag_US] [Backfire](/users/263110), ![][flag_DE] [Reo](/users/2249297) |
-| Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Arbitres | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_GB] [\_Faithful\_](/users/8628814) ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409) |
-| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Statisticiens | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_GB] [Lno](/users/1900787) |
+| Arbitres | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_GB] [\_Faithful\_](/users/8628814) ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409), ![][flag_ID] [fajar13k](/users/7100002) |
+| Wiki | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_JP] [Briesmas](/users/2865172) |
 
 ## Liens
 
@@ -55,30 +55,30 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 -----------------------
 
-## Match Schedule: Round of 32
+## Planning des matches: 32èmes de finale
 
-### Friday, 31 August 2018
+### Vendredi, 31 August 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
+| Bracket | Équipe A | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
 | Upper | Press F for Ayachi | Ooyama Shota | **23:00** |
 
-### Saturday, 1 September 2018
+### Samedi, 1 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
+| Bracket | Équipe A | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
 | Upper | Magnolia | Team 5 | **08:00** |
-| Upper | Team 20 | TaikOwO | **11:45** |
+| Upper | Taiko Time | TaikOwO | **11:45** |
 | Upper | ERROR 404: Team Name Not Found | Samurai Pizza Cats | **12:30** |
 | Upper | Low Accuracy SS | hello we play taiko | **13:30** |
 | Upper | I like grosses baguettes | Team 9 | **14:00** |
 | Upper | :) | Hentaiko | **16:00** |
-| Upper | DON'T KAT | Team 13 | **22:00** |
+| Upper | DON'T KAT | ♂ Drum ♂ Spanking ♂ Festival ♂ | **22:00** |
 | Upper | Barely Legal | The Tasuke Train | **23:00** |
 
-### Sunday, 2 September 2018
+### Dimanche, 2 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
+| Bracket | Équipe | Équipe | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
 | Upper | Nihongo Wakaranai | Fun Assurance Team | **00:01** |
 | Upper | Taco Monsters | Foda-se | **01:00** |
@@ -106,14 +106,14 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | **i like grosses baguettes** | ![][flag_FR] **[Yona la loutre](/users/7930622)**, ![][flag_TW] [Smallwu](/users/2512120), ![][flag_PH] [jmeh07](/users/2852269), ![][flag_SK] [Deathwing1306](/users/7491210), ![][flag_US] [Bauregaurd](/users/2598555), ![][flag_CA] [Vmannnn](/users/10942577) |
 | **not a taiko team xd** | ![][flag_CH] **[Oui](/users/5538419)**, ![][flag_UA] [Don Omar](/users/689414), ![][flag_CL] [perro chocapic](/users/3701211), ![][flag_JP] [owatanimal](/users/5769293), ![][flag_RU] [night\_flower](/users/11574707), ![][flag_MX] [GodEater7x](/users/6911992) |
 | **Team 12** | ![][flag_JP] [xpokn](/users/5115345), ![][flag_US] [Loopy542](/users/5468461), ![][flag_DE] [lukili846](/users/6278008), ![][flag_US] [Brames](/users/6417190), ![][flag_NL] [Cristo](/users/4507667), ![][flag_PL] [Tetsurio](/users/2044810) |
-| **Team 13** | ![][flag_IT] [Ikkun](/users/1059945), ![][flag_FI] [duski](/users/6506484), ![][flag_PH] [Rimazii](/users/3831514), ![][flag_CL] [-F1-](/users/5810867), ![][flag_FR] [DwarfSpykerr](/users/8453742), ![][flag_AU] [raii](/users/7410165) |
+| **♂ Drum ♂ Spanking ♂ Festival ♂** | ![][flag_IT] **[Ikkun](/users/1059945)**, ![][flag_FI] [duski](/users/6506484), ![][flag_PH] [Rimazii](/users/3831514), ![][flag_CL] [-F1-](/users/5810867), ![][flag_FR] [DwarfSpykerr](/users/8453742), ![][flag_AU] [raii](/users/7410165) |
 | **TaikOwO** | ![][flag_NZ] **[sparxe](/users/5750235)**, ![][flag_SG] [Lalamomo4](/users/7609510), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_BR] [Coryn](/users/2828556), ![][flag_JP] [monnhann869](/users/4733750), ![][flag_RU] [-Rmdy](/users/1933816) |
 | **Foda-se** | ![][flag_BR] **[HiroK](/users/4050738)**, ![][flag_US] [Protonori](/users/6049990), ![][flag_BR] [Kyoumo](/users/8145223), ![][flag_CL] [Myckoll](/users/554976), ![][flag_IT] [il\_sandwich](/users/1752776), ![][flag_BR] [Omega Ranger](/users/3234628) |
 | **E=mc^2** | ![][flag_BR] **[Skull Kid](/users/3044264)**, ![][flag_JP] [iceOC](/users/5482401), ![][flag_CZ] [Salimen](/users/10126927), ![][flag_BR] [Kbludoh](/users/2543764), ![][flag_PL] [JustMax](/users/7540346), ![][flag_CR] [Titovare](/users/7375505) |
 | **Low Accuracy SS** | ![][flag_PL] **[Acrith](/users/389880)**, ![][flag_BR] [Bombrilho2](/users/4115718), ![][flag_DE] [dudetm](/users/7323979), ![][flag_GB] [\_Faithful\_](/users/8628814), ![][flag_AT] [Amane](/users/6821436), ![][flag_RU] [momgi](/users/8477303) |
 | **Barely Legal** | ![][flag_CA] **[janitoreihil](/users/3307897)**, ![][flag_JP] [Noko\_BSF](/users/3811831), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_JP] [Bola](/users/1119463), ![][flag_FI] [gevbiivi5](/users/7140680), ![][flag_PL] [Agresywny Arbuz](/users/7056658) |
 | **Fun Assurance Team** | ![][flag_GB] **[goheegy](/users/8057655)**, ![][flag_CL] [-Kazu-](/users/920861), ![][flag_KR] [DDM](/users/7910282), ![][flag_FR] [maximaxiU](/users/4069690), ![][flag_VE] [Acetylcholine](/users/4159873), ![][flag_AR] [ARGENTINE DREAM](/users/1981781) |
-| **Team 20** | ![][flag_JP] [Fahrenheit7](/users/3439745), ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_RU] [DayzeekFeed](/users/5009970), ![][flag_KR] [Tsuki\_yura](/users/9262355), ![][flag_VN] [phucdtd](/users/5467865), ![][flag_PH] [Kyoren](/users/1266303) |
+| **Taiko Time** | ![][flag_JP] **[Fahrenheit7](/users/3439745)**, ![][flag_ID] [Lightning Wyvern](/users/1533122), ![][flag_RU] [DayzeekFeed](/users/5009970), ![][flag_KR] [Tsuki\_yura](/users/9262355), ![][flag_VN] [phucdtd](/users/5467865), ![][flag_PH] [Kyoren](/users/1266303) |
 | **Nihongo Wakaranai** | ![][flag_ID] **[Alwaysyukaz](/users/4999506)**, ![][flag_JP] [haga1115](/users/6574823), ![][flag_JP] [drumchanon](/users/5006818), ![][flag_ID] [apaajaboleh10](/users/5151647), ![][flag_AU] [Tsubasa2](/users/6835183), ![][flag_CL] [ArmoredReaper](/users/6276709) |
 | **Taco Monsters** | ![][flag_BR] **[Foxerus](/users/7479684)**, ![][flag_JP] [asuasu\_yura](/users/2875968), ![][flag_JP] [ma\_r1n](/users/9950613), ![][flag_HU] [\_verto\_](/users/2015300), ![][flag_US] [Tsred](/users/2737667), ![][flag_VN] [Kiv x Monster](/users/7428114) |
 | **Tai-KO** | ![][flag_US] **[Garpo](/users/4097035)**, ![][flag_TW] [-\[ ix Ishida xi \]-](/users/242910), ![][flag_PL] [ZimnyGrzejnik](/users/884838), ![][flag_HK] [Faputa](/users/845733), ![][flag_AU] [Cactie](/users/5592409), ![][flag_MY] [Bedwyr Aorta](/users/10875855) |
