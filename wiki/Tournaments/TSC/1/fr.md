@@ -42,7 +42,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | Streamers | ![][flag_US] [Garpo](/users/4097035), ![][flag_DE] [\[TaikoTori\]](/users/1074143) |
 | Designers | ![][flag_US] [Backfire](/users/263110), ![][flag_DE] [Reo](/users/2249297) |
 | Statisticiens | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_GB] [Lno](/users/1900787) |
-| Arbitres | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_GB] [\_Faithful\_](/users/8628814) ![][flag_GB] [Braixen-](/users/8628814), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_HK] [Akali393394](/users/9686628), ![][flag_AU] [Cactie](/users/5592409), ![][flag_ID] [fajar13k](/users/7100002) |
+| Arbitres | ![][flag_US] [Backfire](/users/263110), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CA] [390](/users/7622460) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_JP] [Briesmas](/users/2865172) |
 
 ## Liens
