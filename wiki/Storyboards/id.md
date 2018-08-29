@@ -19,7 +19,7 @@ Storyboard Editor (SBE) terletak di tab Design (shorcut keyboard F2) dalam Beatm
 Full Storyboard
 ----------------
 
-Dengan adanya tab Design pada Beatmap Editor, pembuatan grafik visual dan animasi untuk beatmap menjadi lebih mudah dan sangat mudah dipelajari, berikut daftar lengkap beatmap berstatus ranked yang memiliki storyboard [panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Laman ini hanya untuk menampilkan daftar beatmap dengan storyboard terpanjang saja, Jika Anda ingin daftar lebih banyak, silahkan kunjungi [daftar lengkap beatmap](/wiki/Storyboards/Maps).
+Dengan adanya tab Design pada Beatmap Editor, pembuatan grafik visual dan animasi untuk beatmap menjadi lebih mudah dipelajari, berikut daftar lengkap beatmap berstatus ranked yang memiliki storyboard [panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Laman ini hanya untuk menampilkan daftar beatmap dengan storyboard terpanjang saja, Jika Anda ingin daftar lebih banyak, silahkan kunjungi [daftar lengkap beatmap](/wiki/Storyboards/Maps).
 
 ### Storyboards
 
