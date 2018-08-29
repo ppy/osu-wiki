@@ -41,7 +41,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 | :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) |
 | Referees | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078)
-| Map Selectors | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] ykcarrot, ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241)
+| Map Selectors | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241)
 | Match Schedulers | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460) |
 | Streamers | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Commentators | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) |
@@ -202,7 +202,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 - Tiebreaker
   - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](http://osu.ppy.sh/beatmaps/141525)**
 
-### Group Stage (Round 3)
+### Group Stage (Week 3)
 
 - FreeMod
   - [Itou Kanako - fake me (Science Adventure Dance Remix) (ykcarrot) \[Insane\]](http://osu.ppy.sh/beatmaps/154727)
@@ -223,7 +223,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 - Tiebreaker
   - **[paraoka - Manima ni (Apricot) \[Insane\]](http://osu.ppy.sh/beatmaps/131354)**
 
-### Group Stage (Round 2)
+### Group Stage (Week 2)
 
 **[Download the mappack here! (103 MB)](https://puu.sh/1ukRK)**
 
@@ -246,7 +246,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 - Tiebreaker
   - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](http://osu.ppy.sh/beatmaps/86324)**
 
-### Group Stage (Round 1)
+### Group Stage (Week 1)
 
 **[Download the mappack here! (66 MB)](https://puu.sh/1qFb1)**
 
