@@ -5,30 +5,30 @@ tags:
 - OWC#1
 - OWC1
 ---
-osu! World Cup #1
-=====================
 
-![osu! World Cup #1](logo.png)
+# osu! World Cup #1
+
+![OWC #1 Logo](img/logo.png)
 
 The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu! World Cup.
 
 ## Tournament Schedule
 
-- The OWC starts at 2011-02-21
-- All matches will be played from 15:00 to 22:00 (GMT), from Thursday to Sunday
+- The OWC started at 2011-02-21
+- All matches were played from 15:00 to 22:00 (GMT), from Thursday to Sunday
 
 ## Prizes
 
 In every World Cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Place | Prize(s) |
-| ----- | -------- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag |
-| *Special* | 1 month supporter tag (won by ![][flag_JP] Japan) |
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| *Special* | 1 month of osu!supporter tag (won by ![][flag_JP] Japan) |
 
-## Organization
+## Organisation
 
 The osu! World Cup #1 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
@@ -48,14 +48,10 @@ The osu! World Cup #1 was run by various community members by distributing the m
 
 ------------------------------------------------------------
 
-![osu! World Cup #1 Brackets](brackets.png)
-
-----------------------------------------------------
-
 ## Participants
 
 | | Country | Members |
-| --- | :-------: | ------------ |
+| :-: | :-: | :-- |
 | ![][flag_AT] | **Austria** | **TouhouNerd**, Snowball, Hanyuu, Nharox, unbelievable |
 | ![][flag_AR] | **Argentina** | **Wishy22**, RocknRolla, Grisuh, Vivere, lota78, violentt |
 | ![][flag_BR] | **Brazil** | **fabriciorby**, Coy, Blue Dragon, Poisonchan, Antsu, Guerra |
@@ -85,25 +81,13 @@ The osu! World Cup #1 was run by various community members by distributing the m
 | ![][flag_GB] | **United Kingdom** | **Doomsday**, Natteke, aevv, Jericho2442, DiamondCrash |
 | ![][flag_US] | **United States** | **Lybydose**, Mafiamaster, Cyclone, ebacho, naptime |
 
-| Asia/Oceania | Europe | America |
-| ------------ | ------ | ------- |
-| ![][flag_CN] China       | ![][flag_AT] Austria | ![][flag_AR] Argentina |  
-| ![][flag_ID] Indonesia   | ![][flag_FI] Finland | ![][flag_BR] Brazil |
-| ![][flag_JP] Japan       | ![][flag_FR] France | ![][flag_CA] Canada |
-| ![][flag_KR] Korea       | ![][flag_DE] Germany | ![][flag_CL] Chile |
-| ![][flag_MO] Macau       | ![][flag_IT] Italy | ![][flag_DO] Dominican Republic |
-| ![][flag_MY] Malaysia    | ![][flag_NL] Netherlands | ![][flag_US] United States | 
-| ![][flag_NZ] New Zealand | ![][flag_PL] Poland | |
-| ![][flag_PH] Philippines | ![][flag_PT] Portugal | | 
-| ![][flag_TW] Taiwan      | ![][flag_RU] Russia | |
-| | ![][flag_ES] Spain | |
-| | ![][flag_SE] Sweden | |
-| | ![][flag_UA] Ukraine | |
-| | ![][flag_GB] United Kingdom | |
+------------------------------------------------------------
+
+![OWC #1 Brackets](img/brackets.png)
 
 ---------------------------------------------------
 
-## Mappool
+## Mappools
 
 ### Finals
 
@@ -115,7 +99,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
   - [Betwixt & Between - I think we can go to the moon (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/13728#osu/50658)
 - Tiebreaker
-  - [Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)
+  - **[Renard - Banned Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/16349#osu/64267)**
 
 ### Semifinals
 
@@ -127,7 +111,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
   - [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#osu/27466)
 - Tiebreaker
-  - [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+  - **[Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)**
 
 ### Quarterfinals
 
@@ -148,7 +132,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14464#osu/54373)
   - [Susumu Hirasawa - Amor Buffer (Real1) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/11702#osu/44526)
 - Tiebreaker
-  - [DJ Mars - Lemon Tree (MetalMario201) \[Hard\]](https://osu.ppy.sh/beatmapsets/8229#osu/34045)
+  - **[DJ Mars - Lemon Tree (MetalMario201) \[Hard\]](https://osu.ppy.sh/beatmapsets/8229#osu/34045)**
 
 ### Round of 16
 
@@ -169,7 +153,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)
   - [The Mighty Mighty Bosstones - The Impression That I Get (lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/14912#osu/54329)
 - Tiebreaker
-  - [Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)
+  - **[Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)**
 
 ### Group Stage 
 
@@ -190,7 +174,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
   - [The Gregory Brothers - Auto-Tune the News \#9 (MetalMario201) \[Angry Gorilla\]](https://osu.ppy.sh/beatmapsets/12155#osu/45825)
   - [Weird Al Yankovic - Hardware Store (kingcobra52) \[Impossible\]](https://osu.ppy.sh/beatmapsets/2042#osu/18682)
 - Tiebreaker
-  - [Hyadain - Battle with the Four Fiends (mtmcl) \[Sinistro\]](https://osu.ppy.sh/beatmapsets/2619#osu/20019)
+  - **[Hyadain - Battle with the Four Fiends (mtmcl) \[Sinistro\]](https://osu.ppy.sh/beatmapsets/2619#osu/20019)**
 
 --------------------------------------------------------------
 
@@ -205,7 +189,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 ### Instructions
 
 1. The first stage of the cup is divided depending on continent.
-    1. Example: Europe country vs Europe country (Poland vs Portugal).
+   - Example: Europe country vs Europe country (Poland vs Portugal).
 2. All matches follow knockout tournament rule.
 3. 32 countries. If not enough countries, cup's stages will be modeled based on the number reached.
 4. Each country's decision will be represented by a "captain" who will choose the members of the team and will inform players about the timetables.

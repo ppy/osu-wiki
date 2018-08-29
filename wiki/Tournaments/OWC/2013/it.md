@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2013
 ======================
 
-![OWC 2013 logo](logo.png)
+![OWC 2013 logo](img/logo.png)
 
 L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![][flag_KR] Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =

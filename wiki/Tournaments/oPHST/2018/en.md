@@ -90,7 +90,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ------------------------
 
-## Qualfied Participants
+## Qualified Participants
 
 ### osu!standard
 

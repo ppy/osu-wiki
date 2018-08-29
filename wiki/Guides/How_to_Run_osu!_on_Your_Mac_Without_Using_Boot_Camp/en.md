@@ -3,7 +3,7 @@ How to run osu! on Mac without using Boot Camp
 
 Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/forum/t/14664/)
 
-Note: External Images cannot (or I assume so) be loaded through osu!wiki unless uploaded through osu!wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
+Note: External Images cannot (or I assume so) be loaded through osu! wiki unless uploaded through osu! wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
 
 Introduction/Description
 -------------------------
@@ -78,7 +78,7 @@ Configuring Virtualbox
 Installing Windows
 ------------------
 
-*Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu!wiki is strict; so I had to manually input them in.*
+*Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu! wiki is strict; so I had to manually input them in.*
 
 1. Press "Start". [36](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup36.png)
 
@@ -154,7 +154,7 @@ Installing osu!
 **From this point on, the instructions are the same for both Mac and Windows; You may refer to the \[FAQ\] for general questions. However, the instructions to run osu! will also be posted here.**
 
 1.  Click on the Start button (**1**) and click on "Internet Explorer" (**2**). [67](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup70.png)
-2.  Go to "<http://osu.ppy.sh/>". [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
+2.  Go to [the website](http://osu.ppy.sh). [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
 3.  Click on the "Download" link. [69](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup72.png)
 4.  Click on "Download osu! NOW!". [70](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup73.png)
 5.  Select "Run". [71](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup74.png)

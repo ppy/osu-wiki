@@ -28,7 +28,11 @@ The Heptakey osu!mania Cup #1
 
 ## Prizes
 
-*The prizes are to be decided.*
+| Placing | Prize |
+| :-: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
 
 ## Organization
 
@@ -76,51 +80,88 @@ The Heptakey osu!mania Cup #1
 | **G** | ![][flag_CL] Skalim       | ![][flag_RU] Mage     | ![][flag_GB] PikachuNick  | ![][flag_BR] andreymc   |
 | **H** | ![][flag_US] Gekido-      | ![][flag_US] Craig    | ![][flag_RU] Daleenie     | ![][flag_BR] CALCIO01   |
 
+---------------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+
+---------------------------
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (97.3 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0)**
+
+- FreeMod
+  - [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmaps/1491970)
+  - [Camellia - Illegal trap (Flexo123) \[EX\]](https://osu.ppy.sh/beatmaps/1592340)
+  - [Hino Isuika - Dreamin' attraction!!(Extended) (MapleSyrup-) \[Orange Dream\]](https://osu.ppy.sh/beatmaps/1370533)
+  - [Miyu Tomita & Mariya Ise - Deep in Abyss (LostCool) \[Have you ever seen a dawn?\]](https://osu.ppy.sh/beatmaps/1400630)
+  - [Camellia - ANOMALY (qodtjr) \[The Last Madness\]](https://osu.ppy.sh/beatmaps/1285947)
+  - [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]](https://osu.ppy.sh/beatmaps/791775)
+  - [M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]](https://osu.ppy.sh/beatmaps/1700663)
+  - [1788-L - P U L S A R / B E A M (MapleSyrup-) \[W Boson\]](https://osu.ppy.sh/beatmaps/1672321)
+  - [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmaps/1699295)
+  - [Hato - Alastor (stupud man) \[full density (rework)\]](https://osu.ppy.sh/beatmaps/1700659)
+  - [sakuzyo - AngelFalse (aya) \[Darueru's blessing\]](https://osu.ppy.sh/beatmaps/973436)
+  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Hartmann (rework)\]](https://osu.ppy.sh/beatmaps/1700662)
+  - [Swordy - I found this in my trash can. (LostCool) \[Please, don't delete\]](https://osu.ppy.sh/beatmaps/1477471)
+  - [sakuzyo - Altale (Kawawa) \[Delay Master LV.23\]](https://osu.ppy.sh/beatmaps/1256856)
+  - [Savant - Technodrome (Hydria) \[Edit\]](https://osu.ppy.sh/beatmaps/1700056)
+- Tiebreaker
+  - [Chroma - sink to the deep sea world (sankansuki) \[bedrock\]](https://osu.ppy.sh/beatmaps/1122762)
 
 ### Finals
 
 **[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0)**
 
 - FreeMod
-  - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/b/691829)
-  - [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/b/1436278)
-  - [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/b/1693911)
-  - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/b/1473413)
-  - [w_tre - FIONA (stupud man) \[Hi (rework)\]](https://osu.ppy.sh/b/1694310)
-  - [Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]](https://osu.ppy.sh/b/1677804)
-  - [PLight - TRIGGERHAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/b/1498431)
-  - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/b/455082)
-  - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/b/766440)
-  - [litmus* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/b/960117)
-  - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/b/1647600)
-  - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/b/1693865)
-  - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/b/1649634)
-  - [IU - You & I (moni) \[I\]](https://osu.ppy.sh/b/824900)
-  - [void - Sudden Romance (\_underjoy) \[Chordmancer (short)\]](https://osu.ppy.sh/b/1597751)
+  - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/beatmaps/691829)
+  - [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/beatmaps/1436278)
+  - [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/beatmaps/1693911)
+  - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/beatmaps/1473413)
+  - [w_tre - FIONA (stupud man) \[Hi (rework)\]](https://osu.ppy.sh/beatmaps/1694310)
+  - [Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]](https://osu.ppy.sh/beatmaps/1677804)
+  - [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1498431)
+  - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmaps/455082)
+  - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmaps/766440)
+  - [litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/beatmaps/960117)
+  - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/beatmaps/1647600)
+  - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/beatmaps/1693865)
+  - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/beatmaps/1649634)
+  - [IU - You & I (moni) \[I\]](https://osu.ppy.sh/beatmaps/824900)
+  - [void - Sudden Romance (\_underjoy) \[Chordmancer (short)\]](https://osu.ppy.sh/beatmaps/1597751)
 - Tiebreaker
-  - [xi - Blue Zenith (Jinjin) \[Bluanother III (Stratosphere)\]](https://osu.ppy.sh/b/891715)
+  - [xi - Blue Zenith (Jinjin) \[Bluanother III (Stratosphere)\]](https://osu.ppy.sh/beatmaps/891715)
 
 ### Semifinals
 
 **[Download the mappack here! (86.4 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0)**
 
 - FreeMod
-  - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/b/1331176)
-  - [Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]](https://osu.ppy.sh/b/1686250)
-  - [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/b/1563205)
-  - [Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]](https://osu.ppy.sh/b/1686202)
-  - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/b/1391441)
-  - [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/b/1070254)
-  - [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/b/1625602)
-  - [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/b/1216907)
-  - [Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]](https://osu.ppy.sh/b/1686252)
-  - [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/b/992384)
-  - [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/b/1292459)
-  - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/b/1620760)
-  - [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/b/1670208)
+  - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmaps/1331176)
+  - [Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]](https://osu.ppy.sh/beatmaps/1686250)
+  - [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/beatmaps/1563205)
+  - [Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]](https://osu.ppy.sh/beatmaps/1686202)
+  - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmaps/1391441)
+  - [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/beatmaps/1070254)
+  - [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/beatmaps/1625602)
+  - [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/beatmaps/1216907)
+  - [Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]](https://osu.ppy.sh/beatmaps/1686252)
+  - [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/beatmaps/992384)
+  - [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/beatmaps/1292459)
+  - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmaps/1620760)
+  - [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/1670208)
 - Tiebreaker
-  - [lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]](https://osu.ppy.sh/b/1637822)
+  - [lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]](https://osu.ppy.sh/beatmaps/1637822)
 
 ### Quarterfinals
 
@@ -209,6 +250,28 @@ The Heptakey osu!mania Cup #1
   - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-07-14 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Skalim ![][flag_CL] | 2 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
+
+| Sunday, 2018-07-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **aitor98** ![][flag_ES] | **7** | 2 | ![][flag_IT] Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
+
+### Finals
+
+| Saturday, 2018-07-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Keweft ![][flag_BR]      | 0 | **7** | ![][flag_IT] **Yomiel**  | [#1](https://osu.ppy.sh/community/matches/43968717) |
+| **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim      | [#1](https://osu.ppy.sh/community/matches/43977039) |
+| Lothus ![][flag_BR]      | 0 | **7** | ![][flag_US] **Gekido-** | -Win by Default- |
+
+| Sunday, 2018-07-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **Yomiel** ![][flag_IT] | **7** | 0 | ![][flag_US] Gekido- | -Win by Default- |
 
 ### Semifinals
 

@@ -36,8 +36,8 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
 | User | Kontributor |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/u/201392) | Memberikan kontribusi yang sangat bagus untuk osu!wiki |
-| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Memberikan kontribusi yang sangat bagus untuk osu!wiki |
+| [Repflez](https://osu.ppy.sh/u/201392) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
+| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
 | [givenameplz](https://osu.ppy.sh/u/947499) | Pengembang osu!rank dan osu!post. |
 
 ### January 2016

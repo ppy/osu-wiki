@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2014
 =====================
 
-![OWC 2014 logo](logo.png)
+![OWC 2014 logo](img/logo.png)
 
 Das **osu! World Cup 2014** (***OWC 2014*** ) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Es ist der 5. osu! World Cup.
 
@@ -66,7 +66,7 @@ Links
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](brackets.jpg)
+![OWC 2014 brackets](img/brackets.jpg)
 
 ------------------------------------------------------------------------
 

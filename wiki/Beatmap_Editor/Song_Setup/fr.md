@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 Paramètres de la beatmap
 ==========================
 

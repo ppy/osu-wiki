@@ -13,7 +13,7 @@ This means that you can now advertise and join osu! multiplayer games from insid
 -   Turn on the `Display currently running game as status message` option in the `Games` tab. This is not needed to join games that are advertised by others, but it is needed to advertise your own.
 -   Start any game of multiplayer, head on over to your local Discord haunt and click this icon ![the shiny green button in front of the plus sign](img/shiny-green-button.jpg)). It may take a few seconds to appear if you've only just started a game.
 
-Here's a video of it in action: <https://assets.ppy.sh/media/halloween-2017/themoon.mp4>
+Here's a [video of it](https://assets.ppy.sh/media/halloween-2017/themoon.mp4) in action.
 
 If you make a room with a password, people that use your invite don't need to enter anything. Private games at the click of a button with no fuss!
 

@@ -19,9 +19,9 @@ Check whether you are using Microsoft Basic Display Adapter as per the following
 
 Please find drivers for your card from your manufacturer's website. Here are some common links:
 
--   AMD / ATI: <http://support.amd.com/en-us/download>
--   NVIDIA: <http://www.nvidia.com/Download/index.aspx?lang=en-us>
--   Intel: <https://downloadcenter.intel.com/search?keyword=2nd+Generation+Intel%C2%AE+Core%E2%84%A2+Processors+with+Intel%C2%AE+HD+Graphics+3000%2F2000>
+-   [AMD / ATI](http://support.amd.com/en-us/download)
+-   [NVIDIA](http://www.nvidia.com/Download/index.aspx?lang=en-us)
+-   [Intel](https://downloadcenter.intel.com/search?keyword=2nd+Generation+Intel%C2%AE+Core%E2%84%A2+Processors+with+Intel%C2%AE+HD+Graphics+3000%2F2000)
 
 Wrong bit depth
 -----------------
