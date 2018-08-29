@@ -1,10 +1,10 @@
 Storyboards
 ===========
 
-![Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
-![Adegan ini tampil ketika anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "Adegan ini tampil ketika anda meleset atau dapat 50 poin dalam kombo.")
+![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
+![Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.")
 
-**Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 pixel, biasanya digunakan untuk dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari apa saja, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
+**Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 piksel, biasanya digunakan untuk dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari apa saja, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
 
 Dalam pembuatannya, storyboard seringkali sangat sulit dibuat dan memerlukan banyak waktu serta keahlian dibidang animasi dan pembuatan gambar.
 
@@ -19,7 +19,7 @@ Storyboard Editor (SBE) terletak di tab Design (shorcut keyboard F2) dalam Beatm
 Full Storyboards
 ----------------
 
-Dengan adanya Design pada Beatmap Editor, sangat mudah untuk membuat grafik visual animasi dalam beatmap, berikut daftar lengkap ranked beatmap yg memiliki storyboard [yang agak panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Page ini hanya untuk menampilkan daftar beatmaps dengan storyboard terpanjang saja, jika kamu ingin lebih, silahkan pergi ke [daftar lengkap beatmaps](/wiki/Storyboards/Maps).
+Dengan adanya Design pada Beatmap Editor, sangat mudah untuk membuat grafik visual animasi dalam beatmap, berikut daftar lengkap beatmap berstatus ranked yang memiliki storyboard [panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Laman ini hanya untuk menampilkan daftar beatmap dengan storyboard terpanjang saja, Jika Anda ingin daftar lebih banyak, silahkan kunjungi [daftar lengkap beatmap](/wiki/Storyboards/Maps).
 
 ### Storyboards
 
@@ -46,9 +46,9 @@ Dengan adanya Design pada Beatmap Editor, sangat mudah untuk membuat grafik visu
 -   [Lia - Life is like a Melody -short ver.-](http://osu.ppy.sh/s/16578)
 -   [IOSYS - Danzai Yamaxanadu](http://osu.ppy.sh/b/50461)
 
-### Beatmap Yang Bisa Mengubah Gameplay
+### Beatmap Yang Dapat Mengubah Gameplay
 
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-Beberapa SB bagus dapat dilihat [disini](/wiki/Storyboards/Maps).
+Beberapa contoh SB yang bagus dapat dilihat [di sini](/wiki/Storyboards/Maps).
