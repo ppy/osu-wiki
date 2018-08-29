@@ -366,5 +366,5 @@ The osu! World Cup #3 was run by various community members by distributing the m
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
-[flag_UG]: /wiki/shared/flag/UG.gif
+[flag_UY]: /wiki/shared/flag/UY.gif
 [flag_US]: /wiki/shared/flag/US.gif
