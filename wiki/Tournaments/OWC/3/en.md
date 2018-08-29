@@ -88,7 +88,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 | ![][flag_UA] | **Ukraine** | **Yoru-SAN**, rockleejkooo, blednak, Granje, Gorlum, mrgnstrn |
 | ![][flag_GB] | **United Kingdom** | **jesus1412**, heat, R a h a r u, Vapor, Eastern Aristotle, Raiku |
 | ![][flag_US] | **United States** | **Derekku**, Kyou-kun, SapphireGhost, Kaoru, JAKANYAN, Kyonko Hizara, Sync, pielak213- |
-| ![][flag_UG] | **Uruguay** | **maay**, AlrdyExists, GonixZ, HeCAtExZz, sevas-tra, Snepif, W a r g, Z e o n |
+| ![][flag_UY] | **Uruguay** | **maay**, AlrdyExists, GonixZ, HeCAtExZz, sevas-tra, Snepif, W a r g, Z e o n |
 
 -------------------------------
 
