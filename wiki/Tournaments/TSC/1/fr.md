@@ -55,6 +55,41 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 -----------------------
 
+## Match Schedule: Round of 32
+
+### Friday, 31 August 2018
+
+| Bracket | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| Upper | Press F for Ayachi | Ooyama Shota | **23:00** |
+
+### Saturday, 1 September 2018
+
+| Bracket | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| Upper | Magnolia | Team 5 | **08:00** |
+| Upper | Team 20 | TaikOwO | **11:45** |
+| Upper | ERROR 404: Team Name Not Found | Samurai Pizza Cats | **12:30** |
+| Upper | Low Accuracy SS | hello we play taiko | **13:30** |
+| Upper | I like grosses baguettes | Team 9 | **14:00** |
+| Upper | :) | Hentaiko | **16:00** |
+| Upper | DON'T KAT | Team 13 | **22:00** |
+| Upper | Barely Legal | The Tasuke Train | **23:00** |
+
+### Sunday, 2 September 2018
+
+| Bracket | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| Upper | Nihongo Wakaranai | Fun Assurance Team | **00:01** |
+| Upper | Taco Monsters | Foda-se | **01:00** |
+| Upper | Team 12 | pneumonoultramicroscopicsilicovolcanoconiosis | **04:00** |
+| Upper | not a taiko team xd | Tai-KO | **05:00** |
+| Upper | BabySnakes is Dumb | jakpat | **11:00** |
+| Upper | 69% acc | E=mc^2 | **12:00** |
+| Upper | Team 7 | Pißwasser | **15:00** |
+
+-----------------------
+
 ## Participants
 
 | Équipe | Membres |
@@ -114,7 +149,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
   - [Hige Driver - Pa Pi Pu Yeah! (Raphalge) \[Oni\]](/beatmapsets/701218/#taiko/1484196) 
   - [han@\*mori - Seimei no Wa wo Tsumuide (bank78952) \[Inner Oni\]](/beatmapsets/826249/#taiko/1731695)
 - FreeMod
-  - [Jin - Outer Science (nold\_1702) \[mint's Taiko Oni\]](/beatmapsets/115963/#taiko/300389) 
+  - [Jin - Outer Science (mintong89) \[mint's Taiko Oni\]](/beatmapsets/115963/#taiko/300389) 
   - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (\_Rise) \[Riseko\]](/beatmapsets/751580/#taiko/1583046) 
 
 #### Mappool B
@@ -122,12 +157,12 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 - Challenge
   - [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll, Ulqui) \[Myruki's Sweet\]](/beatmapsets/724269/#taiko/1529288)
   - [Hommarju - Wowie Zowie! (Poii) \[Inner Wowie!\]](/beatmapsets/810738/#taiko/1700898)
-- Hidden+HardRock
-  - [Yoroshiku! Amucharuzu - Sekai no hate ni yoroshiku (komasy) \[Oni\]](/beatmapsets/656563/#taiko/1390990)
-- Easy
-  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Nwolf) \[2017\]](/beatmapsets/188577/#taiko/1358667)
 - DoubleTime
   - [Nightwish - Bye Bye Beautiful (Jerry, cdhsausageboy) \[Jerry & Cdh's Oni\]](/beatmapsets/133884/#taiko/475965)
+- Easy
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Nwolf) \[2017\]](/beatmapsets/188577/#taiko/1358667)
+- Hidden+HardRock
+  - [Yoroshiku! Amucharuzu - Sekai no hate ni yoroshiku (komasy) \[Oni\]](/beatmapsets/656563/#taiko/1390990)
 - Tiebreaker
   - **[PSYQUI - Hype feat. Such (Nifty) \[Adrenaline\]](/beatmapsets/817980/#taiko/1715195)**
 
