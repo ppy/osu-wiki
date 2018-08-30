@@ -296,6 +296,87 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Demetori - Silent Voyage to Eternity (brikel) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/14309/#taiko/108010)**
 
+-----
+
+## Ruleset
+
+### Tournament Registration
+
+1. Your team needs at least 3 players to participate. You are free to add another fourth player.
+2. You need to specify a captain who will manage the team. (e.g. in match scheduling)
+3. Basically a team represents a nation. That means you should make a team with players from same country.
+4. If your country lacks Taiko players sufficient to participate this, you can make a binational team.
+    - Binational team includes 2 players from a certain country and 2 players from an another country.
+    - Making a binational team can be restricted due to time difference between members of binational team.
+    - Binational teams are only exceptional and shall not be common case. They need approval by tournament management.
+    - You can not create one binational team and another national team. (e.g. you can not create a Team IT/NL and another Team IT)
+5. Multiple teams per country are allowed. Special Qualification Encounter after Group Stage may happen. Refer to Tournament Instructions!
+6. To found a team, send a PM to tournament management or post into this thread.
+    - Captains are free to change their team setup until their first match starts
+7. Mapset selectors can't participate tournament as a player.
+
+### Stage Instructions
+
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 team in each one.
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the statistics of each team in followed priority:
+    - More matches won.
+    - Have higher {(the number of games won) - (the number of games defeated)}.
+    - More games won.
+    - Have higher ∑{(total score difference) / (maximum score)}.
+    - Winner of the rematch.
+4. Teams from the same country will not be in the same group in group stage.
+5. The best two of each group will ascend to the Knock-Out Stages.
+6. If two teams of the same country are supposed to ascend from Group Stage to Knock-Out Stages, they will encounter each other on a Qualification Stage. The winning team will ascend to the next round, the losing will be knocked out from the tournament. The free slot will receive the team with the best result among all groups.
+7. Following stages are Knock-Out Stages. This means that the winner ascends to the next stage and the losing team gets kicked out of the tournament.
+8. In Group Stage, you need to win 4 maps to win a match. In Qualification Stage (1-4), Round of 16 and Quarter-finals, you need to win 5 maps to win a match. In Semi-finals and Finals, you need to win 6 maps to with a match.
+
+### Match Instructions
+
+1. One of referees will create a multiplayer room about 30 minutes before the time. All players should arrive the room in right time.
+    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+    - Room settings are Taiko, Team-Vs., Win Condition 'Score'. Room name must be "Taiko World Cup #3: TeamBlue vs. TeamRed"
+    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+2. The team that mentioned first in the timetable will be the blue team.
+3. Referee will keep the host during the whole match.
+4. Referee will select one warmup map. This map is not part of the actual mappool.
+5. Alternately each captain selects a map out of the mappool. Winner of this warmup will start selecting maps.
+    - The captains can select maps out of the NoMod bracket unlimited.
+    - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
+    - In case of tie, the tiebreaker map must be played.
+    - Captains shall tell the selected map via PM to the referee. He will pick it.
+6. Referees must save the result of each game with a screenshot.
+7. When match ended, referee must post the screenshots and the multiplayer history link into the tournament thread.
+
+### Tournament Rules
+
+1. The maps for each round are announced by mapset selectors approx. 1 week ahead. Only these can be used during the respective matches.
+    - One map will be given as tiebreaker map. This map only gets played in case of a tie. Also there will be a Hidden, a HardRock and a DoubleTime bracket.
+2. Captains have the chance to hand in preferred times for matches 9 days ahead. All your matches will be scheduled by trying to fit these perferations. Match schedules will be released approx. 7 days ahead. Captains have 24 hours to object the scheduled time.
+    - After the 24 hours passed, match schedule is locked and can't be changed anymore.
+3. If no staff or referee is available, the match must be postponed.
+4. Score of failed player will be added to total score too.
+5. 'No Video' mod is available. Visual Settings are available.
+6. Maps cannot be used more than once in the same match unless the game was nullified.
+7. If the game ends in a draw, the game will be nullified.
+8. If one of players gets disconnected, the game will be nullified. This can happen up to twice. After exceeding two attempts, disconnected players get treated as left on their own.
+    - If server is too unstable to continue the match, tournament management can postpone the match.
+9. If less than 3 players arrived, the match can be postponed maximum 20 minutes.
+10. During the match, exchanging players is allowed.
+    - You can exchange players once in group-stage and twice in knock-out stages.
+11. Lags can't be a reason for nullification of game.
+12. When a match gets postponed too frequent, tournament manangement can declare the opponent team wins by default.
+    - In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+13. 2 vs 2 match is available only in the Group stage if no more than 3 players in one of two teams can be ready for the match.
+    - Captains of both teams should agree and permission of tournament manager is needed.
+    - The manager can disqualify a team if the team abuses 3 vs 3 match.
+14. Unexpected incidences that needs decision of staff and isn't specified in this ruleset during the tournament will need the referee to judge. Yet, the decision of tournament management is final.
+15. Any form of non-fair behaviour (such as cheating, insulting other players, racism, impersonating) or disturbance in the tournament's progress will be punished with an immediate banishment of the player/the team from the tournament.
+    - Banned player won't be allowed to participate the next Taiko World Cup.
+16. Prospective and retrospective complaints about map selection or progress of this tournament will have no use and will be ignored. Suggestions are appreciated.
+17. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
+18. Any modification of this rules will be notified.
+
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
