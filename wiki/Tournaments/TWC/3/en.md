@@ -13,11 +13,9 @@ The **Taiko World Cup #3** (***TWC #3***) is a country-based osu!taiko tournamen
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | \~ 2013-01-01 |
+| Registration Phase | 2012-09-22/2013-01-01 |
 | Live Drawings | 2013-01-20 |
-| Group Stage - Part 1 | 2013-02-02/2013-02-03 |
-| Group Stage - Part 2 | 2013-02-09/2013-02-10 |
-| Group Stage - Part 3 | 2013-02-16/2013-02-17 |
+| Group Stage | 2013-02-02/2013-02-17 |
 | Qualification Stage | 2013-02-23/2013-02-24 |
 | Round of 16 | 2013-03-02/2013-03-03 |
 | Quarterfinals | 2013-03-09/2013-03-10 |
@@ -134,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Renard - Because Maybe! pt. 3 (Blue Dragon) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/30013/#taiko/192573)**
 
-## Semifinals
+### Semifinals
 
 - NoMod
   - [Ryu - Plan 8 (wantuole) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/76825/#taiko/216131)
@@ -160,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **LEAF XCEED Music Division - Guitar Vs. Piano (ISHIDAMITSUNARI) \[- IshidaTaikonari - (TWC ver.)\]**
 
-## Quarterfinals
+### Quarterfinals
 
 - NoMod
   - [IOSYS - RE:USATEI (OzzyOzrock) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/31343/#taiko/103022)
@@ -183,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[t+pazolite - to Luv me, I \*\*\* for u. (reprise) (pekos) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/42741/#taiko/135070)**
 
-## Round of 16
+### Round of 16
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[jom's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/59049/#taiko/214251)
@@ -206,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[YAMAGEN'S DEVILELIET - EYES OF DEVILELIET(Kite) \[Dunskin's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/36988/#taiko/123834)**
 
-## Qualification Stage
+### Qualification Stage
 
 - NoMod
   - [ALiCEâ€™S EMOTION - Mami Mami Zone (Mixagji) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43728/#taiko/143931)
@@ -229,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ayane - Endless Tears...(lkp) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24960/#taiko/101301)**
 
-## Group Stage - Part 3
+### Group Stage (Week 3)
 
 - NoMod
   - [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857/#taiko/173361)
@@ -252,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[toku feat. Pagoda - Boku no Sainou -dub mix- (Garven) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/33914/#taiko/115063)**
 
-## Group Stage - Part 2
+### Group Stage (Week 2)
 
 - NoMod
   - [Silver Forest - Prayer (Elly-chan) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32214/#taiko/188456)
@@ -275,7 +273,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611/#taiko/97949)**
 
-## Group Stage - Part 1
+### Group Stage (Week 1)
 
 - NoMod
   - [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28609/#taiko/114207)
