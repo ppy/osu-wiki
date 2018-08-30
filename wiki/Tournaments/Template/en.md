@@ -10,6 +10,7 @@ Find and replace those tags listed below with proper information, then delete th
 {ABBR} = abbreviation of the tournament name followed by its iteration/year occurence i.e. MWC 4K 2018
 {ORGANISER} = organiser of the tournament
 {NTH} = installment ordinal number
+{DRAW_TIME} = Live Drawings (Livestream) time for the tournament
 {TOPIC_NUM} = forum thread number
 {STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
 You will still need to fill other items such as tables, etc.
@@ -28,7 +29,7 @@ The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament ho
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-01-01/2018-01-28 |
-| Live Drawings | 2018-01-29 12:00:00 UTC |
+| Live Drawings | 2018-01-29 {DRAW_TIME} |
 | Group Stage |  |
 | Round of 16 |  |
 | Quarterfinals |  |
@@ -36,7 +37,9 @@ The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament ho
 | Finals - Week 1 |  |
 | Finals - Week 2 |  |
 
-<!-- Use YYYY-MM-DD Format -->
+<!-- Use YYYY-MM-DD Format for dates i.e. 2018-01-01
+Use (HH:MM) format for {DRAW_TIME} i.e. (12:00 UTC)
+ -->
 
 ## Prizes
 

@@ -9,6 +9,7 @@ Find and replace tag yang berada di bawah dengan informasi yang sesuai, lalu hap
 {MODE} = mode game
 {ABBR} = singkatan nama turnamen diikuti tahun/iterasi digelarnya misalnya MWC 4K 2018
 {ORGANISER} = penyelenggara turnamen
+{DRAW_TIME} = waktu siar pengundian secara langsung pada turnamen
 {NTH} = nomor instalasi turnamen
 {TOPIC_NUM} = nomor forum thread
 {STATS_LINK} = tautan ke lembar statistik keseluruhan (harus berupa tautan Google Drive)
@@ -28,7 +29,7 @@ Selain kolom komentar ini, jangan lupa untuk menghapus semua kolom komentar yang
 | Event | Waktu Pelaksanaan |
 | --: | :-- |
 | Tahap Registrasi | 2018-01-01/2018-01-28 |
-| Pengundian | 2018-01-29 12:00:00 UTC |
+| Pengundian | 2018-01-29 {DRAW_TIME} |
 | Babak Grup |  |
 | Babak 16 Besar |  |
 | Perempat Final |  |
@@ -36,7 +37,9 @@ Selain kolom komentar ini, jangan lupa untuk menghapus semua kolom komentar yang
 | Final - Minggu 1 |  |
 | Final - Minggu 2 |  |
 
-<!-- Gunakan format tanggal YYYY-MM-DD -->
+<!-- Gunakan format tanggal YYYY-MM-DD misalnya 2018-01-01
+Gunakan format (HH:MM) untuk mengisi {DRAW_TIME} misalnya (19:00 UTC +7)
+ -->
 
 ## Hadiah
 
