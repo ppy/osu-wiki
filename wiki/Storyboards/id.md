@@ -4,11 +4,11 @@ Storyboards
 ![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
 ![Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.")
 
-**Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 piksel, biasanya digunakan untuk dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari apa saja, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
+**Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 piksel, biasanya digunakan sebagai dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari berbagai macam elemen, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
 
 Dalam pembuatannya, storyboard seringkali sangat sulit dibuat dan memerlukan banyak waktu serta keahlian dibidang animasi dan pembuatan gambar.
 
-Storyboard biasanya terletak di bagian folder beatmap dengan format [`.osb` files](/wiki/osu!_File_Formats/Osb_(file_format)) atau dapat dilihat pada bagian `[Events]` di [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)). Karena itu, sangat mungkin untuk membuat Storyboard berbeda dengan map yang berbeda antara [beatmapset](/wiki/Glossary#beatmapset).
+Storyboard biasanya terletak di bagian folder beatmap dengan format [`.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) atau dapat dilihat pada bagian `[Events]` di [`.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Karena itu, sangat mungkin untuk membuat Storyboard berbeda dengan map yang berbeda antara [beatmapset](/wiki/Glossary#beatmapset).
 
 Pembuatan storyboard
 --------------------
@@ -19,7 +19,7 @@ Storyboard Editor (SBE) terletak di tab Design (shorcut keyboard F2) dalam Beatm
 Full Storyboard
 ----------------
 
-Dengan adanya tab Design pada Beatmap Editor, pembuatan grafik visual dan animasi untuk beatmap menjadi lebih mudah dipelajari, berikut daftar lengkap beatmap berstatus ranked yang memiliki storyboard [panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Laman ini hanya untuk menampilkan daftar beatmap dengan storyboard terpanjang saja, Jika Anda ingin daftar lebih banyak, silahkan kunjungi [daftar lengkap beatmap](/wiki/Storyboards/Maps).
+Dengan adanya tab Design pada Beatmap Editor, pembuatan grafik visual dan animasi untuk beatmap menjadi lebih mudah dipelajari, berikut [daftar lengkap beatmap berstatus ranked yang memiliki storyboard panjang](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Laman ini hanya untuk menampilkan daftar beatmap dengan storyboard terpanjang saja, Jika Anda ingin daftar lebih banyak, silahkan kunjungi [daftar lengkap beatmap](/wiki/Storyboards/Maps).
 
 ### Storyboards
 
