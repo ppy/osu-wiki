@@ -46,23 +46,11 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
-## Match Schedule
+--------------------------------------------------
 
-### Finals - Week 2
+![CJB 4K 4th podium](podium.jpg)
 
-#### Monday, 13. August 2018
-
-| Match Time | Player 1 |  |  | Player 2 | Match ID |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 29 |
-
-#### Tuesday, 14. August 2018
-
-| Match Time | Player 1 |  |  | Player 2 | Match ID |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 15:00 | Crystal | ![][flag_CN] | ![][flag_CN] | Winner of 29 | 30 |
-
-If *Crystal* **lose** Match 30, Match 31 will start right after that: *Crystal* vs *Winner of 29*.
+--------------------------------------------------
 
 ## Mappools
 
@@ -174,11 +162,22 @@ If *Crystal* **lose** Match 30, Match 31 will start right after that: *Crystal* 
 
 ## Match Results
 
+### Finals - Week 2
+
+|  No. | Monday, 2018-08-13 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
+
+|  No. | Tuesday, 2018-08-14 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
+| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
+
 ### Finals - Week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 25 | **Toki 0w0 ![][flag_CN]** | **6** | 3 | ![][flag_CN] xyxyxy091 | |
+| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
 | 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
 | 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
 | 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |
