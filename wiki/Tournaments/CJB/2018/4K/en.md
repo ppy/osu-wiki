@@ -1,16 +1,22 @@
+---
+tags:
+- CJB
+- CJB 2018
+- CJB2018
+---
 The 4th CJB osu!mania 4K Tournament
 =========================
 
 ![CJB 4K 4th](img/banner.png)
 
-**The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, is the fourth one-on-one osu!mania 4K specified Chinese regional tournament hosted by CJB team.
+**The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-07-02/2018-07-013 |
-| Drawings | 2018-07-14 (20:30 UTC+8) |
+| Live Drawings | 2018-07-14 (20:30 UTC+8) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
 | Semifinals | 2018-08-04/2018-8-05 |
@@ -19,15 +25,15 @@ The 4th CJB osu!mania 4K Tournament
 
 ## Prizes
 
-Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329).
+Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329).
 
 | Placing | Prize(s) |
 | --- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter and Userpage Badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of the osu!supporter tag, unique userpage badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 15 CNY |
 
-## Organization
+## Organisation
 
 | Position | Members |
 | :-: | :-- |
@@ -213,7 +219,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
 
-Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
+_Note: ![][flag_CN] Jazzsoldiers gave up tournament for some reasons._
 
 ### Round of 16
 
