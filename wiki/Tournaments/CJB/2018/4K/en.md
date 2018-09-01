@@ -1,7 +1,7 @@
 The 4th CJB osu!mania 4K Tournament
 =========================
 
-![CJB 4K 4th](banner.png)
+![CJB 4K 4th](img/banner.png)
 
 **The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, is the fourth one-on-one osu!mania 4K specified Chinese regional tournament hosted by CJB team.
 
@@ -48,7 +48,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 --------------------------------------------------
 
-![CJB 4K 4th podium](podium.jpg)
+![CJB 4K 4th podium](img/podium.jpg)
 
 --------------------------------------------------
 
@@ -164,7 +164,7 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 
 ### Finals - Week 2
 
-|  No. | Monday, 2018-08-13 |  |  |  |  |
+| No. | Monday, 2018-08-13 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
 

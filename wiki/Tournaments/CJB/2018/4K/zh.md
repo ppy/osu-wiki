@@ -1,7 +1,7 @@
 第四届 osu!mania 4K 菜鸡杯
 =========================
 
-![CJB 4K 4th](banner.png)
+![CJB 4K 4th](img/banner.png)
 
 第四届 osu!mania 4K 菜鸡杯（以下均简写为 CJB 4K 4th）为华人区个人比赛，是由 CJB 举办的第四届华人区 osu!mania 4K 大赛。比赛所用谱面均为 osu!mania 4K 专用谱。
 
@@ -48,7 +48,7 @@
 
 --------------------------------------------------
 
-![CJB 4K 4th podium](podium.jpg)
+![CJB 4K 4th podium](img/podium.jpg)
 
 --------------------------------------------------
 
