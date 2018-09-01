@@ -57,7 +57,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 | Position | Member(s) |
 | :-- | :-- |
-| Example; delete this line | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [Bancho](/users/3) |
+| Example; delete this line | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [BanchoBot](/users/3) |
 | Management |  |
 | Map Selectors |  |
 | Streamers |
@@ -76,17 +76,17 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | example; delete this line |
+| ![][flag_AU] | **Australia** | [peppy](/users/2), [BanchoBot](/users/3) |
 |  |  |  |
 
 ## Groups
 
 | Group A | Group B | Group C | Group ... |
 | :-- | :-- | :-- | :-- |
-| ![][flag_AU] Australia | Example | Example | Example |
-| ![][flag_FR] France | Example | Example | Example |
-| ![][flag_ID] Indonesia | Example | Example | Example |
-| ![][flag_VN] Vietnam | Example | Example | Example |
+| Country1 | Example | Example | Example |
+| Country2 | Example | Example | Example |
+| Country3 | Example | Example | Example |
+| Country4 | Example | Example | Example |
 
 ---------------------------
 

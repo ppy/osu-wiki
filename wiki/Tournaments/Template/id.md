@@ -57,7 +57,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 | Posisi | Anggota |
 | :-- | :-- |
-| Contoh; hapus baris ini | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [Bancho](/users/3) |
+| Contoh; hapus baris ini | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [BanchoBot](/users/3) |
 | Penyelenggara |  |
 | Pemilih Map |  |
 | Penyiar |
@@ -76,17 +76,17 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 |  | Negara | Anggota |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | contoh; hapus baris ini |
+| ![][flag_AU] | **Australia** | [peppy](/users/2), [BanchoBot](/users/3) |
 |  |  |  |
 
 ## Grup
 
 | Grup A | Grup B | Grup C | Grup ... |
 | :-- | :-- | :-- | :-- |
-| ![][flag_AU] Australia | Contoh | Contoh | Contoh |
-| ![][flag_FR] France | Contoh | Contoh | Contoh |
-| ![][flag_ID] Indonesia | Contoh | Contoh | Contoh |
-| ![][flag_VN] Vietnam | Contoh | Contoh | Contoh |
+| Country1 | Contoh | Contoh | Contoh |
+| Country2 | Contoh | Contoh | Contoh |
+| Country3 | Contoh | Contoh | Contoh |
+| Country4 | Contoh | Contoh | Contoh |
 
 ---------------------------
 
