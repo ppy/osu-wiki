@@ -32,7 +32,7 @@ The **DeltaMax's Taiko Oni Overlord (***DMX 2***)** was a double elimination one
 
 ## Organisation
 
-The Taiko Suiji Cup was run by various osu!taiko community members.
+The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -71,7 +71,7 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 | **B** | ![][flag_BR] [Mikudayo](/users/5235718) | ![][flag_US] [Konan](/users/3252800) | ![][flag_IT] [VenomPlus](/users/7722827) | ![][flag_EC] [Gamelan4](/users/9856910) |
 | **C** | ![][flag_FR] [Yoshi-GH](/users/3317042) | ![][flag_FR] [\_Infected\_](/users/7432095) | ![][flag_AU] [Beat43210](/users/5664171) | ![][flag_BR] [Omega Ranger](/users/3234628) |
 | **D** | ![][flag_PT] [hi im costarino](/users/9209430) | ![][flag_PL] [Wolfgang](/users/7184324) | ![][flag_GB] [-Ryan](/users/7822081) | ![][flag_US] [CaptainEChan](/users/9536977) |
-| **E** | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_AU] [Tsubasa2](/users/6835183) | ![][flag_BR] [Lazarento](/users/3224958) | ![][flag_US] [Rukairi](/users/6642597) |
+| **E** | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_BR] [Lazarento](/users/3224958) | ![][flag_AU] [Tsubasa2](/users/6835183) | ![][flag_US] [Rukairi](/users/6642597) |
 | **F** | ![][flag_MX] [Ammy](/users/4183406) | ![][flag_JP] [Briesmas](/users/2865172) | ![][flag_AU] [LordAverage](/users/3101354) | ![][flag_AU] [Blobby3000](/users/6916774) |
 | **G** | ![][flag_MX] [xtrem3x](/users/136385) | ![][flag_GB] [Ali161102](/users/7582420) | ![][flag_BR] [Kyoumo](/users/8145223) | ![][flag_CL] [ArmoredReaper](/users/6276709) |
 | **H** | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_GB] [Braixen-](/users/8628814) | ![][flag_HK] [Akali393394](/users/9686628) | ![][flag_BR] [AnonX32](/users/2730270) |
