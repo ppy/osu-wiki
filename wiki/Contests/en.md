@@ -194,7 +194,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 |-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | 1         | 霜月はるか - 白夜幻想谭        | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Level9](https://osu.ppy.sh/users/7232130)       | [Kibbleru](https://osu.ppy.sh/users/3193504)    |
 | 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Garden](https://osu.ppy.sh/users/2849992)              | [Ellyu](https://osu.ppy.sh/users/4438154)         |
-| 3         | 猫叉劇団 - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
+| 3         | かめりあ - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
 
 - [Contest thread](https://osu.ppy.sh/forum/t/620182)
 - [Results post](https://osu.ppy.sh/forum/t/640906)

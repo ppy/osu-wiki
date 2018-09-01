@@ -75,31 +75,29 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 |-------------------------------------------------------|--------------------------|
 | [ailv](https://osu.ppy.sh/users/6933054)              |                          |
 | [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
-| [Battle](https://osu.ppy.sh/users/4037545)            |                          |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
-| [Bubblun](https://osu.ppy.sh/users/6191653)           |                          |
-| [Cerulean Veyron](https://osu.ppy.sh/users/1886524)   | Arabic                   |
-| [Delis](https://osu.ppy.sh/users/1603923)             | Japanese                 |
+| [BOUYAAA](https://osu.ppy.sh/users/405449)            | French, some German      |
+| [Cris-](https://osu.ppy.sh/users/6175280)             | Spanish                  |
 | [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
 | [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
+| [frogyfro](https://osu.ppy.sh/users/7010859)          |                          |
 | [Garden](https://osu.ppy.sh/users/2849992)            | Chinese                  |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
-| [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
-| [Halfslashed](https://osu.ppy.sh/users/4598899)       |                          |
+| [Gottagof4st](https://osu.ppy.sh/users/6122935)       | Dutch                    |
+| [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
 | [iYiyo](https://osu.ppy.sh/users/3919785)             | Spanish, some German     |
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
-| [Kagetsu](https://osu.ppy.sh/users/6203841)           | Spanish                  |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
 | [Karen](https://osu.ppy.sh/users/3143784)             | Chinese                  |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
 | [Kuron-kun](https://osu.ppy.sh/users/2697284)         | Portuguese               |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
-| [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
 | [Mirash](https://osu.ppy.sh/users/2841009)            | Russian                  |
 | [Mordred](https://osu.ppy.sh/users/7265097)           | German                   |
+| [MrSergio](https://osu.ppy.sh/users/2581696)          | Italian, Romanian        |
 | [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
 | [Nao Tomori](https://osu.ppy.sh/users/5364763)        | French                   |
 | [Natsu](https://osu.ppy.sh/users/1953876)             | Spanish                  |
@@ -109,22 +107,24 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Noffy](https://osu.ppy.sh/users/1541323)             |                          |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
-| [pinataman](https://osu.ppy.sh/users/1235485)         |                          |
+| [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
 | [Plaudible](https://osu.ppy.sh/users/7149815)         |                          |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
 | [Regraz](https://osu.ppy.sh/users/3076909)            | Chinese                  |
-| [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese, some French     |
-| [sahuang](https://osu.ppy.sh/users/5318910)           | Chinese                  |
+| [riffy](https://osu.ppy.sh/users/597957)              | Russian                  |
+| [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
+| [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
 | [Sieg](https://osu.ppy.sh/users/1404615)              | Russian                  |
 | [smallboat](https://osu.ppy.sh/users/243049)          | Chinese                  |
 | [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
-| [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |
-| [Strategas](https://osu.ppy.sh/users/2971837)         | Lithuanian               |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
 | [Trynna](https://osu.ppy.sh/users/2652951)            | Portuguese               |
 | [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
+| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
+| [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
+| [Yugu](https://osu.ppy.sh/users/3161834)              | Chinese, some Japanese   |
 
 ### osu!taiko
 
@@ -132,18 +132,14 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 |-------------------------------------------------------|--------------------------|
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [hikikochan](https://osu.ppy.sh/users/6512678)        |                          |
-| [incandescence](https://osu.ppy.sh/users/6256027)     | Some Spanish             |
+| [hikiko-](https://osu.ppy.sh/users/6512678)           |                          |
 | [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
-| [JUDYDANNY](https://osu.ppy.sh/users/1165475)         | Japanese                 |
 | [Kin](https://osu.ppy.sh/users/480689)                | French                   |
-| [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
 | [Nifty](https://osu.ppy.sh/users/4956097)             |                          |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
-| [Skylish](https://osu.ppy.sh/users/2845958)           | Cantonese, Chinese       |
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
@@ -153,16 +149,14 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
 | [Fii](https://osu.ppy.sh/users/3922569)               |                          |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
 | [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            | Some French              |
+| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
 | [Yumeno Himiko](https://osu.ppy.sh/users/1806962)     | Chinese                  |
 | [ZiRoX](https://osu.ppy.sh/users/200768)              | Spanish                  |
 
@@ -170,18 +164,12 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [_Stan](https://osu.ppy.sh/users/1653229)             | Chinese                  |
+| [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
 | [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
 | [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
-| [DE-CADE](https://osu.ppy.sh/users/3734394)           | Indonesian               |
 | [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
-| [error_exe777](https://osu.ppy.sh/users/7975796)      |                          |
-| [Fresh Chicken](https://osu.ppy.sh/users/3984370)     | Korean, Japanese         |
 | [Garalulu](https://osu.ppy.sh/users/757783)           | Korean                   |
-| [Kamikaze](https://osu.ppy.sh/users/2124783)          | Polish                   |
 | [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
-| [Lenfried-](https://osu.ppy.sh/users/5314573)         | Filipino                 |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
 | [Sandalphon](https://osu.ppy.sh/users/2633753)        | Chinese                  |
 | [Tofu1222](https://osu.ppy.sh/users/6089608)          | Chinese                  |
-| [Unpredictable](https://osu.ppy.sh/users/7560872)     |                          |
