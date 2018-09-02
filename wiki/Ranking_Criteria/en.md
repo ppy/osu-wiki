@@ -133,7 +133,6 @@ Custom naming must follow a common theme or pattern related to the song and must
 
 ### Guidelines
 
-
 -   **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as lone difficulties of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
 -   **Avoid incomprehensible username combinations to indicate possession of a collaborative guest difficulty.** If it’s unclear whose usernames are combined, simplification is recommended.
 -   **Avoid difficulty names with descriptive elements not clearly related to a guest difficulty creator or a level of difficulty.** (e.g. Beatmap Creator’s Tragic Love Extra)
