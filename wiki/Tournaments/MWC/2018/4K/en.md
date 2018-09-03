@@ -50,6 +50,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/779486)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://goo.gl/V3mCQF)
 
 ------------------------------------------------------------------------
 
@@ -95,6 +96,27 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (80 MB)](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
+
+- Freemod (14)
+	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/b/1514659&m=3)
+	- [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](http://osu.ppy.sh/b/1616973&m=3)
+	- [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](http://osu.ppy.sh/b/1190604&m=3)
+	- [xi underground - TU-MA-MI ALL-NIGHTER \(Halogen-\) \[Expert\]](http://osu.ppy.sh/b/992960&m=3)
+	- [Camellia - NEURO CLOUD-9 \(Couil\) \[Extinction \[cut vers.\] \(new SVs\)\]](http://osu.ppy.sh/b/1335694&m=3)
+	- [naotyu- - Her Majesty \(Elementaires\) \[Another\]](http://osu.ppy.sh/b/1282858&m=3)
+	- [fourfolium - SAKURA Skip \(Niima\) \[Aoba is the best\]](http://osu.ppy.sh/b/1107708&m=3)
+	- [DJKurara - Japanese Transformation \(XeoStyle\) \[Xeo VS \_UJ Insane\]](http://osu.ppy.sh/b/1201654&m=3)
+	- [Nekomata Master - Beyond The Earth \(Kamikaze\) \[Spiritual\]](http://osu.ppy.sh/b/1764098&m=3)
+	- [DET - Monk2 \(Elekton\) \[zen\]](http://osu.ppy.sh/b/1279446&m=3)
+	- [GTA feat. Sam Bruno - Red Lips \(Mendus Remix\) \(Hydria\) \[Hard \(SV\)\]](http://osu.ppy.sh/b/1537498&m=3)
+	- [Memme - Acid Burst \(juankristal\) \[Chaos\]](http://osu.ppy.sh/b/1530202&m=3)
+	- [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](http://osu.ppy.sh/b/1306252&m=3)
+- Tiebreaker
+	- [goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/b/1383190&m=3)
+
 ### Group Stage
 
 **[Download the mappack here! (80 MB)](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
@@ -116,65 +138,86 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 1. September 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Switzerland | ![][flag_CH] | ![][flag_AU] | Australia | **10:00 UTC** | 12:00 UTC+02 | 20:00 UTC+10 |
-| Taiwan | ![][flag_TW] | ![][flag_JP] | Japan | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
-| Finland | ![][flag_FI] | ![][flag_PH] | Philippines | **11:00 UTC** | 14:00 UTC+03 | 19:00 UTC+08 |
-| Norway | ![][flag_NO] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 21:00 UTC+10 |
-| Thailand | ![][flag_TH] | ![][flag_MY] | Malaysia | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
-| Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
-| Macau | ![][flag_MO] | ![][flag_ES] | Spain | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
-| Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
-| Argentina | ![][flag_AR] | ![][flag_JP] | Japan | **13:00 UTC** | 10:00 UTC-03 | 22:00 UTC+09 |
-| Finland | ![][flag_FI] | ![][flag_KR] | South Korea | **13:00 UTC** | 16:00 UTC+03 | 22:00 UTC+09 |
-| Taiwan | ![][flag_TW] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
-| Hong Kong | ![][flag_HK] | ![][flag_SG] | Singapore | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 |
-| Thailand | ![][flag_TH] | ![][flag_US] | United States | **14:00 UTC** | 21:00 UTC+07 | 10:00 UTC-04 |
-| Venezuela | ![][flag_VE] | ![][flag_DK] | Denmark | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
-| Russian Federation | ![][flag_RU] | ![][flag_BR] | Brazil | **16:00 UTC** | 21:00 UTC+05 | 13:00 UTC-03 |
-| Netherlands | ![][flag_NL] | ![][flag_SE] | Sweden | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Germany | ![][flag_DE] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
-| France | ![][flag_FR] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
-| Peru | ![][flag_PE] | ![][flag_US] | United States | **18:00 UTC** | 13:00 UTC-05 | 14:00 UTC-04 |
-| Netherlands | ![][flag_NL] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
-| Venezuela | ![][flag_VE] | ![][flag_CL] | Chile | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
-
-### Sunday, 2. September 2018
+### Saturday, 8. September 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Peru | ![][flag_PE] | ![][flag_MY] | Malaysia | **2:00 UTC** | 21:00 (Sat) UTC-05 | 10:00 UTC+08 |
-| Venezuela | ![][flag_VE] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
-| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **2:00 UTC** | 10:00 UTC+08 | 23:00 (Sat) UTC-03 |
-| Peru | ![][flag_PE] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 (Sat) UTC-05 | 10:00 UTC+07 |
-| Macau | ![][flag_MO] | ![][flag_CA] | Canada | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
-| Philippines | ![][flag_PH] | ![][flag_KR] | South Korea | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
-| Australia | ![][flag_AU] | ![][flag_ID] | Indonesia | **10:00 UTC** | 20:00 UTC+10 | 17:00 UTC+07 |
-| Italy | ![][flag_IT] | ![][flag_JP] | Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 |
-| Philippines | ![][flag_PH] | ![][flag_PL] | Poland | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
-| Russian Federation | ![][flag_RU] | ![][flag_SG] | Singapore | **11:00 UTC** | 16:00 UTC+05 | 19:00 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 |
-| Macau | ![][flag_MO] | ![][flag_FR] | France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
-| China | ![][flag_CN] | ![][flag_CL] | Chile | **13:00 UTC** | 21:00 UTC+08 | 10:00 UTC-03 |
-| Switzerland | ![][flag_CH] | ![][flag_ID] | Indonesia | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
-| Sweden | ![][flag_SE] | ![][flag_GB] | United kingdom | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
-| Denmark | ![][flag_DK] | ![][flag_CN] | China | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
-| Malaysia | ![][flag_MY] | ![][flag_US] | United States | **15:00 UTC** | 23:00 UTC+08 | 11:00 UTC-04 |
-| Argentina | ![][flag_AR] | ![][flag_IT] | Italy | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
-| Norway | ![][flag_NO] | ![][flag_CH] | Switzerland | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-| Finland | ![][flag_FI] | ![][flag_PL] | Poland | **16:00 UTC** | 19:00 UTC+03 | 18:00 UTC+02 |
-| Spain | ![][flag_ES] | ![][flag_FR] | France | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
-| Germany | ![][flag_DE] | ![][flag_SE] | Sweden | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Denmark | ![][flag_DK] | ![][flag_CL] | Chile | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
-| Spain | ![][flag_ES] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| China | ![][flag_CN] | ![][flag_PH] | Philippines | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| Malaysia | ![][flag_MY] | ![][flag_FR] | France | **12:30 UTC** | 20:30 UTC+08 | 14:30 UTC+2 |
+| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | **14:00 UTC** | 11:00 UTC-3 | 22:00 UTC+08 |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | **23:00 UTC** | 19:00 UTC-04 | 19:00 UTC-04 |
+
+
+### Sunday, 9. September 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_BR] | Brazil | **0:30 UTC** | 9:30 UTC+09 | 21:30 (Sat) UTC-03 |
+| Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **2:00 UTC** | 23:00 (Sat) UTC-03 | 11:00 UTC+09 |
+| Australia | ![][flag_AU] | ![][flag_GB] | United Kingdom | **11:00 UTC** | 21:00 UTC+10 | 11:00 UTC |
+| Indonesia | ![][flag_ID] | ![][flag_SE] | Sweden | **12:30 UTC** | 19:30 UTC+07 | 14:30 UTC+02 |
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 2018-09-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Switzerland ![][flag_CH] | 1 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45603340) |
+| Taiwan ![][flag_TW] | 0 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45603346) |
+| Finland ![][flag_FI] | 0 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45604490) |
+| Norway ![][flag_NO] | 0 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45604498) |
+| Thailand ![][flag_TH] | 1 | 5 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45605775) |
+| Taiwan ![][flag_TW] | 0 | 5 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/45605789) |
+| Macau ![][flag_MO] | 3 | 5 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/45605797) |
+| Norway ![][flag_NO] | 0 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/45607813) |
+| Argentina ![][flag_AR] | 0 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45607570) |
+| Finland ![][flag_FI] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/45607578) |
+| Taiwan ![][flag_TW] | 1 | 5 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/45609316) |
+| Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45609326) |
+| Thailand ![][flag_TH] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/45609332) |
+| Venezuela ![][flag_VE] | 0 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/45612729) |
+| Netherlands ![][flag_NL] | 1 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/45612715) |
+| Russian Federation ![][flag_RU] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/45612721) |
+| Netherlands ![][flag_NL] | 0 | 5 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/45615326) |
+| Germany ![][flag_DE] | 1 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/45615351) |
+| France ![][flag_FR] | 5 | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45615358) |
+| Peru ![][flag_PE] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/45617233) |
+| Netherlands ![][flag_NL] | 0 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/45617238) |
+| Venezuela ![][flag_VE] | 1 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/45617244) |
+
+| Sunday, 2018-09-02 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Peru ![][flag_PE] | 0 | 5 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45630013) |
+| Venezuela ![][flag_VE] | 0 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45629995) |
+| Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_BR] Brazil | -Win by Default- |
+| Peru ![][flag_PE] | 0 | 5 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/45631247) |
+| Macau ![][flag_MO] | 1 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45631272) |
+| Philippines ![][flag_PH] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/45638135) |
+| Australia ![][flag_AU] | 0 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/45638139) |
+| Italy ![][flag_IT] | 1 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45639346) |
+| Philippines ![][flag_PH] | 5 | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/45639360) |
+| Russian Federation ![][flag_RU] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45639369) |
+| Poland ![][flag_PL] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/45640845) |
+| Hong Kong ![][flag_HK] | 2 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/45640849) |
+| Macau ![][flag_MO] | 0 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45640853) |
+| China ![][flag_CN] | 5 | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/45642415) |
+| Switzerland ![][flag_CH] | 0 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/45642429) |
+| Sweden ![][flag_SE] | 4 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/45643960) |
+| Denmark ![][flag_DK] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45643965) |
+| Singapore ![][flag_SG] | 5 | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/45643972) |
+| Malaysia ![][flag_MY] | 2 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/45645741) |
+| Argentina ![][flag_AR] | 5 | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/45645749) |
+| Norway ![][flag_NO] | 1 | 5 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/45645756) |
+| Finland ![][flag_FI] | 1 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/45647131) |
+| Spain ![][flag_ES] | 0 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45647139) |
+| Germany ![][flag_DE] | 1 | 5 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/45649138) |
+| Denmark ![][flag_DK] | 0 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/45649140) |
+| Spain ![][flag_ES] | 0 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45649148) |
 
 ------------------------------------------------------------------------
 
