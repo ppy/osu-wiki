@@ -5,7 +5,7 @@ tags:
 ---
 # Intermediate Global Taiko Showdown 2018
 
-![IGTS 2018 Logo](img/logo.png)
+![IGTS 2018 Logo](img/logo.jpg)
 
 The **Intermediate Global Taiko Showdown 2018 (***IGTS 2018***)** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
 
