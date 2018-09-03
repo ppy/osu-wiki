@@ -100,7 +100,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
 
-- Freemod (14)
+- Freemod
 	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/b/1514659&m=3)
 	- [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](http://osu.ppy.sh/b/1616973&m=3)
 	- [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](http://osu.ppy.sh/b/1190604&m=3)
@@ -121,7 +121,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 **[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
 
-- Freemod (11)
+- Freemod
 	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/b/1635364&m=3)
 	- [toby fox - ASGORE \(Wh1teh\) \[Edit\]](http://osu.ppy.sh/b/1726743&m=3)
 	- [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](http://osu.ppy.sh/b/1061726&m=3)
