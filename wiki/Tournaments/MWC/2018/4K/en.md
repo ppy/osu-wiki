@@ -98,7 +98,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ### Round of 16
 
-**[Download the mappack here! (80 MB)](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
 
 - Freemod (14)
 	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/b/1514659&m=3)
@@ -115,11 +115,11 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 	- [Memme - Acid Burst \(juankristal\) \[Chaos\]](http://osu.ppy.sh/b/1530202&m=3)
 	- [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](http://osu.ppy.sh/b/1306252&m=3)
 - Tiebreaker
-	- [goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/b/1383190&m=3)
+	- **[goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/b/1383190&m=3)**
 
 ### Group Stage
 
-**[Download the mappack here! (80 MB)](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
 
 - Freemod (11)
 	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/b/1635364&m=3)
@@ -145,8 +145,8 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | China | ![][flag_CN] | ![][flag_PH] | Philippines | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| Malaysia | ![][flag_MY] | ![][flag_FR] | France | **12:30 UTC** | 20:30 UTC+08 | 14:30 UTC+2 |
-| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | **14:00 UTC** | 11:00 UTC-3 | 22:00 UTC+08 |
+| Malaysia | ![][flag_MY] | ![][flag_FR] | France | **12:30 UTC** | 20:30 UTC+08 | 14:30 UTC+02 |
+| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
 | United States | ![][flag_US] | ![][flag_CA] | Canada | **23:00 UTC** | 19:00 UTC-04 | 19:00 UTC-04 |
 
 
