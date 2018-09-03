@@ -91,6 +91,9 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/users/7616811)**, [stupud man](https://osu.ppy.sh/users/2141612), [Neuro-](https://osu.ppy.sh/users/7687954), [-Electro-](https://osu.ppy.sh/users/3251373), [EtienneXC](https://osu.ppy.sh/users/5610085), [Chrubble](https://osu.ppy.sh/users/2594280) |
 | ![][flag_VE] | **Venezuela** | **[Nakatoru](https://osu.ppy.sh/users/2243452)**, [Aezlack](https://osu.ppy.sh/users/8065567), [Edvo](https://osu.ppy.sh/users/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818), [\_Yisus\_](https://osu.ppy.sh/users/1489811) |
 
+------------------------------------------------------------------------
+
+![Double Elimination bracket](img/bracket.png)
 
 ------------------------------------------------------------------------
 
