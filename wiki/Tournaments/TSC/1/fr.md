@@ -42,7 +42,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | Streamers | ![][flag_US] [Garpo](/users/4097035), ![][flag_DE] [\[TaikoTori\]](/users/1074143) |
 | Designers | ![][flag_US] [Backfire](/users/263110), ![][flag_DE] [Reo](/users/2249297) |
 | Statisticiens | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_GB] [Lno](/users/1900787) |
-| Arbitres | ![][flag_US] [Backfire](/users/263110), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CA] [390](/users/7622460) |
+| Arbitres | ![][flag_US] [Backfire](/users/263110), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [JDrago14](/users/7690078), ![][flag_RU] [-dragon67](/users/4328734), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_CA] [390](/users/7622460), ![][flag_US] [Garpo](/users/4097035) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002), ![][flag_JP] [Briesmas](/users/2865172) |
 
 ## Liens
@@ -55,38 +55,33 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 -----------------------
 
-## Planning des matches: 32èmes de finale
+## Planning des matches: 16èmes de finale
 
-### Vendredi, 31 August 2018
+### Samedi, 8 Septembre 2018
 
-| Bracket | Équipe A | Équipe B | Horaire du match (UTC) |
+| Tableau | Équipe A | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
-| Upper | Press F for Ayachi | Ooyama Shota | **23:00** |
+| Perdant | Taco Monsters | Press F for Ayachi | **00:00** |
+| Gagnant | MIStaikon | not a taiko team xd | **10:00** |
+| Perdant | Magnolia | Tai-KO | **11:00** |
+| Gagnant | TaikOwO | I like grosses baguettes | **12:00** |
+| Perdant | BabySnakes is Dumb | E=mc^2 | **14:00** |
+| Gagnant | Barely Legal | Pißwasser | **15:00** |
+| Perdant | :) | DON'T KAT | **16:00** |
 
-### Samedi, 1 September 2018
+### Dimanche, 9 Septembre 2018
 
-| Bracket | Équipe A | Équipe B | Horaire du match (UTC) |
+| Tableau | Équipe | Équipe | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
-| Upper | Magnolia | Team 5 | **08:00** |
-| Upper | Taiko Time | TaikOwO | **11:45** |
-| Upper | ERROR 404: Team Name Not Found | Samurai Pizza Cats | **12:30** |
-| Upper | Low Accuracy SS | hello we play taiko | **13:30** |
-| Upper | I like grosses baguettes | Team 9 | **14:00** |
-| Upper | :) | Hentaiko | **16:00** |
-| Upper | DON'T KAT | ♂ Drum ♂ Spanking ♂ Festival ♂ | **22:00** |
-| Upper | Barely Legal | The Tasuke Train | **23:00** |
-
-### Dimanche, 2 September 2018
-
-| Bracket | Équipe | Équipe | Horaire du match (UTC) |
-| :-: | --: | :-- | :-: |
-| Upper | Nihongo Wakaranai | Fun Assurance Team | **00:01** |
-| Upper | Taco Monsters | Foda-se | **01:00** |
-| Upper | Team 12 | pneumonoultramicroscopicsilicovolcanoconiosis | **04:00** |
-| Upper | not a taiko team xd | Tai-KO | **05:00** |
-| Upper | BabySnakes is Dumb | jakpat | **11:00** |
-| Upper | 69% acc | E=mc^2 | **12:00** |
-| Upper | Team 7 | Pißwasser | **15:00** |
+| Gagnant | Foda-se | Ooyama Shota | **00:00** |
+| Gagnant | Nihongo Wakaranai | Samurai Pizza Cats | **03:30** |
+| Gagnant | Low Accuracy SS | pneumonoultramicroscopicsilicovolcanoconiosis | **06:30** |
+| Perdant | Taiko Time | aあاㄚɐაಅअ@ᵃ아 | **10:00** |
+| Perdant | hello we play taiko | Team Seven | **11:00** |
+| Gagnant | jakpat | 69% acc | **13:00** |
+| Perdant | Fun Assurance Team | ERROR 404: Team Name Not Found | **14:00** |
+| Gagnant | Hentaiko | ♂ Drum ♂ Spanking ♂ Festival ♂ | **16:00** |
+| Perdant | The Tasuke Train | Team 7 | **17:00** |
 
 -----------------------
 
@@ -98,14 +93,14 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | **jakpat** | ![][flag_NL] **[aEoNNzR-](/users/1594036)**, ![][flag_JP] [Toorun12](/users/10349712), ![][flag_PH] [Pochacco](/users/2927742), ![][flag_AR] [Jintsuu](/users/7165127), ![][flag_SK] [Ayumi-chan](/users/6269547), ![][flag_VN] [KonaeAkira](/users/7129011) |
 | **Hentaiko** | ![][flag_GB] **[\_DUSK\_](/users/6092181)**, ![][flag_MY] [\[Zeth\]](/users/9912966), ![][flag_RU] [lolphis](/users/4961687), ![][flag_DE] [Leafeon](/users/5217800), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_PL] [bernard351](/users/9511518) |
 | **hello we play taiko** | ![][flag_AR] **[TrolloCat](/users/9228032)**, ![][flag_JP] [nananass](/users/7231722), ![][flag_HK] [JarvisGaming](/users/8601048), ![][flag_KR] [kane K hiku](/users/341056), ![][flag_EC] [Gamelan4](/users/9856910), ![][flag_US] [Trilt](/users/9292128) |
-| **Team 5** | ![][flag_MY] [Xeltic Rival](/users/7500364), ![][flag_ID] [Katdon\_donKat](/users/8089664), ![][flag_SG] [Element118](/users/2283992), ![][flag_IT] [Gulmion](/users/2257645), ![][flag_US] [ThatTaikoGuy](/users/4640844), ![][flag_RU] [Voenkom](/users/10168328) |
+| **MIStaikon** | ![][flag_SG] **[Element118](/users/2283992)**, ![][flag_MY] [Xeltic Rival](/users/7500364), ![][flag_US] [Shyguy](/users/178038), ![][flag_IT] [Gulmion](/users/2257645), ![][flag_US] [ThatTaikoGuy](/users/4640844), ![][flag_RU] [Voenkom](/users/10168328) |
 | **Ooyama Shota** | ![][flag_JP] **[isobe](/users/8047347)**, ![][flag_JP] [IAvocaloid](/users/2543097), ![][flag_FR] [\_Infected\_](/users/7432095), ![][flag_KR] [Ryoko](/users/2660111), ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_AU] [Beat43210](/users/5664171) |
-| **Team 7** | ![][flag_JP] [I-ShiR4Nu1](/users/6403385), ![][flag_CA] [vladyushko](/users/4908773), ![][flag_BR] [Lazarento](/users/3224958), ![][flag_MX] [Ammy](/users/4183406), ![][flag_RU] [Sirikid](/users/7911519), ![][flag_CO] [AbstractStep](/users/6260841) |
+| **Team Semen** | ![][flag_JP] **[I-ShiR4Nu1](/users/6403385)**, ![][flag_CA] [vladyushko](/users/4908773), ![][flag_BR] [Lazarento](/users/3224958), ![][flag_MX] [Ammy](/users/4183406), ![][flag_RU] [Sirikid](/users/7911519), ![][flag_CO] [AbstractStep](/users/6260841) |
 | **Pißwasser** | ![][flag_DE] **[jleste](/users/8275687)**, ![][flag_AR] [Axer](/users/7299864), ![][flag_JP] [KILI3343](/users/11233651), ![][flag_ID] [Kaemz](/users/8494233), ![][flag_CA] [beary605](/users/2198070), ![][flag_US] [the_robot](/users/5066659) |
-| **Team 9** | ![][flag_ID] [pmriva](/users/2180885), ![][flag_US] [Alchyr](/users/4993032), ![][flag_FR] [Mayline](/users/3040937), ![][flag_JP] [sagu\_samidare](/users/9048806), ![][flag_AU] [Blobby3000](/users/6916774), ![][flag_ES] [Apopaino](/users/8428186) |
+| **aあاㄚɐაಅअ@ᵃ아አאₐ** | ![][flag_US] **[Alchyr](/users/4993032)**, ![][flag_ID] [pmriva](/users/2180885), ![][flag_FR] [Mayline](/users/3040937), ![][flag_JP] [sagu\_samidare](/users/9048806), ![][flag_AU] [Blobby3000](/users/6916774), ![][flag_ES] [Apopaino](/users/8428186) |
 | **i like grosses baguettes** | ![][flag_FR] **[Yona la loutre](/users/7930622)**, ![][flag_TW] [Smallwu](/users/2512120), ![][flag_PH] [jmeh07](/users/2852269), ![][flag_SK] [Deathwing1306](/users/7491210), ![][flag_US] [Bauregaurd](/users/2598555), ![][flag_CA] [Vmannnn](/users/10942577) |
-| **not a taiko team xd** | ![][flag_CH] **[Oui](/users/5538419)**, ![][flag_UA] [Don Omar](/users/689414), ![][flag_CL] [perro chocapic](/users/3701211), ![][flag_JP] [owatanimal](/users/5769293), ![][flag_RU] [night\_flower](/users/11574707), ![][flag_MX] [GodEater7x](/users/6911992) |
-| **Team 12** | ![][flag_JP] [xpokn](/users/5115345), ![][flag_US] [Loopy542](/users/5468461), ![][flag_DE] [lukili846](/users/6278008), ![][flag_US] [Brames](/users/6417190), ![][flag_NL] [Cristo](/users/4507667), ![][flag_PL] [Tetsurio](/users/2044810) |
+| **not a taiko team xd** | ![][flag_CH] **[Oui](/users/5538419)**, ![][flag_UA] [Don Omar](/users/689414), ![][flag_CL] [perro chocapic](/users/3701211), ![][flag_JP] [owatanimal](/users/5769293), ![][flag_RU] [night\_fPerdant](/users/11574707), ![][flag_MX] [GodEater7x](/users/6911992) |
+| **Team 7** | ![][flag_US] **[Loopy542](/users/5468461)**, ![][flag_JP] [xpokn](/users/5115345), ![][flag_DE] [lukili846](/users/6278008), ![][flag_US] [Brames](/users/6417190), ![][flag_NL] [Cristo](/users/4507667), ![][flag_PL] [Tetsurio](/users/2044810) |
 | **♂ Drum ♂ Spanking ♂ Festival ♂** | ![][flag_IT] **[Ikkun](/users/1059945)**, ![][flag_FI] [duski](/users/6506484), ![][flag_PH] [Rimazii](/users/3831514), ![][flag_CL] [-F1-](/users/5810867), ![][flag_FR] [DwarfSpykerr](/users/8453742), ![][flag_AU] [raii](/users/7410165) |
 | **TaikOwO** | ![][flag_NZ] **[sparxe](/users/5750235)**, ![][flag_SG] [Lalamomo4](/users/7609510), ![][flag_JP] [nyanmi-1828](/users/6866480), ![][flag_BR] [Coryn](/users/2828556), ![][flag_JP] [monnhann869](/users/4733750), ![][flag_RU] [-Rmdy](/users/1933816) |
 | **Foda-se** | ![][flag_BR] **[HiroK](/users/4050738)**, ![][flag_US] [Protonori](/users/6049990), ![][flag_BR] [Kyoumo](/users/8145223), ![][flag_CL] [Myckoll](/users/554976), ![][flag_IT] [il\_sandwich](/users/1752776), ![][flag_BR] [Omega Ranger](/users/3234628) |
@@ -130,6 +125,41 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 -----------------------
 
 ## Liste des maps
+
+### 16èmes de finale
+
+**[Télécharge le mappack ici! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss)**
+
+#### Mappool A
+
+- NoMod
+  - [IOSYS - Trauma Saimin Shoujo Satori! (7\_7) \[Oni\]](/beatmapsets/834962/#taiko/1748899) 
+  - [Chroma - Lost Found Melody (zkane2) \[Found It\]](/beatmapsets/832348/#taiko/1743812) 
+  - [jioyi - Platinum (ekumea1123) \[Inner Oni\]](/beatmapsets/733250/#taiko/1546898)
+  - [Camellia feat. Nanahira - Amor De Verao (Tofu1222) \[Inner Oni\]](/beatmapsets/746316/#taiko/1573005)
+- Hidden
+  - [Lunatic Sounds - Drop Down (uone) \[Oni\]](/beatmapsets/768429/#taiko/1616057)
+  - [BPM15Q - Hakuchuumu (komasy) \[Daydream\]](/beatmapsets/686351/#taiko/1452610)
+- HardRock
+  - [t+pazolite - Knotpunk (Nifty) \[Inner Oni\]](/beatmapsets/716533/#taiko/1514128)
+  - [Tomoya Tomita, Misaki Asada - Vs. Snifberg the Unfeeling (Nwolf) \[Inner Oni\]](/beatmapsets/765068/#taiko/1608690)
+- FreeMod
+  - [Vicheblanka - Black Rover(Cover Raon Lee) (asuasu\_yura) \[Oni\]](/beatmapsets/834196/#taiko/1747535) 
+  - [doriko - Romeo and Cinderella (DJ Ramakun Remix) (Nishizumi) \[Inner Oni\]](/beatmapsets/837034/#taiko/1752653) 
+
+#### Mappool B
+
+- Challenge
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](/beatmapsets/706552/#taiko/1493980)
+  - [Zutt - HMYN (uone) \[Inner Oni\]](/beatmapsets/730725/#taiko/1542200)
+- DoubleTime
+  - [USAO - The Commanders (Yales) \[Oni\]](/beatmapsets/761565/#taiko/1601344)
+- Easy
+  - [Noisestorm - Barracuda (Lno) \[Oni\]](/beatmapsets/842877/#taiko/1763551)
+- Hidden+HardRock
+  - [M2U - PandorA (Kin) \[Inner Oni\]](/beatmapsets/619715/#taiko/1306228)
+- Tiebreaker
+  - **[darkbluecat - Recordar (z411 remix) ft. Hatsune Miku (-Kazu-) \[Dysthymia\]](/beatmapsets/611904/#taiko/1733313)**
 
 ### 32èmes de finale
 
@@ -168,11 +198,42 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 ------------------------------------------------------------------------
 
+## Résultats des matches
+
+### 32èmes de finale
+
+| Vendredi, 2018-07-31 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](/community/matches/45591544) |
+
+| Samedi, 2018-08-01 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| Magnolia | 2 | **5** | **MIStaikon** | [#1](/community/matches/45603361) |
+| ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45606910) |
+| **Low Accuracy SS** | **5** | 4 | hello we play taiko | [#1](/community/matches/45608532) |
+| **i like grosses baguettes** | **5** | 0 | aあاㄚɐაಅअ@ᵃ아 | [#1](/community/matches/45609460) |
+| DON'T KAT | 2 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45611363) |
+| :) | 0 | **5** | **Hentaiko** | [#1](/community/matches/45613117) |
+
+| Dimanche, 2018-08-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](/community/matches/45627499) |
+| Taco Monsters | 0 | **5** | **Foda-se** | [#1](/community/matches/45627625) |
+| **Barely Legal** | **5** | 4 | The Tasuke Train | [#1](/community/matches/45628729) |
+| Team Seven | 0 | **5** | **pneumonoultramicrosopicsilicovolcanoconiosis** | [#1](/community/matches/45634616) |
+| BabySnakes is Dumb | 3 | **5** | **jakpat** | [#1](/community/matches/45639373) |
+| Taiko Time | 1 | **5** | TaikOwO | [#1](/community/matches/45640401) |
+| **not a taiko team xd** | **5** | 1 | Tai-KO | [#1](/community/matches/45641056) |
+| **69% acc** | **5** | 3 | E=mc^2 | [#1](/community/matches/45641816) |
+| Team 7 | 0 | **5** | **Pißwasser** | -win by default- |
+
+------------------------------------------------------------------------
+
 ## Règlement
 
 - La salle de match va être créée par l'arbitre et les capitaines des deux équipes vont être invités. Le capitaine est ensuite en charge d'inviter le reste de l'équipe. Si le capitaine d'une équipe n'est pas en ligne, l'arbitre va inviter n'importe quel autre joueur de cette équipe et ce joueur sera en charge d'inviter l'équipe.
 - Les équipes ont 15 minutes après l'heure prévue pour réunir au moins 4 joueurs disponibles pour jouer le match. Si les 15 minutes passent et que l'équipe n'a pas réuni assez de joueur pour jouer le match, l'autre équipe remporte une victoire par défaut.
-- Une fois que tous les joueurs ont rejoint la salle, les capitaines vont lancer la commande !roll; le gagnant du lancer va choisir le premier warmup, le premier ban et le premier pick.
+- Une fois que tous les joueurs ont rejoint la salle, les capitaines vont lancer la commande `!roll`; le gagnant du lancer va choisir le premier warmup, le premier ban et le premier pick.
 - La Map Pool va contenir 16 maps et son format est telle que suit:
   - La Map Pool A va contenir: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod
   - La Map Pool B va contenir: 2 Challenge, 1 DoubleTime, 1 Easy, 1 Hidden+HardRock, et le Tiebreaker. Ce maps sont **non bannissables**.
@@ -180,7 +241,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 - Les maps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une map warmup.
   - Les warmups ne doivent pas excéder 4:30.
 - L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une map en donnant le nom de la map dans le chat multiplayer et l'arbitre va sélectionner la map.
-- Chaque équipe à 2 bans par match. Les maps bannies sont enlevées de la liste des maps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 2 maps du même mod.
+- Chaque équipe à 1 bans par match. Les maps bannies sont enlevées de la liste des maps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 1 maps du même mod.
 - Chaque équipe a 3 minutes pour sélectionner une map; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de map passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
 - Il n'y a pas de restriction sur l'ordre de sélection des maps; les équipes peuvent choisir toutes les maps disponibles à tout moment peu importe le mod.
 - Sur les maps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
