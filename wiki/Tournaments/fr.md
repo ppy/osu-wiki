@@ -16,7 +16,7 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | --- | --- | --- | --- | --- | --- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] Taïwan | ![][flag_NL] Pays-Bas | ![][flag_KR] Corée du Sud |
 | [osu! World Cup #2](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_BR] Brésil |
-| osu! World Cup #3 | 2012-10-25 | 2013-01-20 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_TW] Taïwan |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] Corée du Sud | ![][flag_JP] Japon | ![][flag_TW] Taïwan |
 | [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] Corée du Sud | ![][flag_TW] Taïwan | ![][flag_PL] Pologne |
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japon | ![][flag_PL] Pologne | ![][flag_DE] Allemagne |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] États-Unis d'Amérique | ![][flag_CN] Chine | ![][flag_PL] Pologne |
@@ -143,6 +143,13 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(7K) | 
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018/) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(Standard), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(Catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(Standard), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)[Catch], ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(7K) |
 
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
+| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
+
 Voir aussi
 --------
 
@@ -165,6 +172,7 @@ Voir aussi
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif

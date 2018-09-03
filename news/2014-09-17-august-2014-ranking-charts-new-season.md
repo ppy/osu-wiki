@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "August 2014 Ranking Charts - New Season!"
-permalink: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
+permalink: http://osunews.tumblr.com/post/97724510253/august-2014-ranking-charts-new-season
 date: 2014-10-01 00:00:00 +0000
-tumblr_url: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
+tumblr_url: http://osunews.tumblr.com/post/97724510253/august-2014-ranking-charts-new-season
 ---
 The Ranking Charts for August 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1408)! Along with that, the Summer Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit#gid=146343834) concluded and we have our winners! Moreover, we published the [vote results here!](https://docs.google.com/spreadsheets/d/1bQQsvecPxgHJtFTMGWjSj25FcCmhGu82M8jvvNoKOic/edit#gid=812104550)
 
