@@ -16,11 +16,11 @@ The **Intermediate Global Taiko Showdown 2018 (***IGTS 2018***)** is a country-b
 | Registration Phase | 2018-06-30/2018-07-29 |
 | Live Drawings | 2018-07-29 13:00:00 UTC |
 | Group Stage | 2018-08-04/2018-08-12 |
-| Round 1 (Lower Bracket) | 2018-08-17/2018-08-18 |
-| Quarterfinals | 2018-08-24/2018-08-25 |
-| Semifinals | 2018-08-31/2018-09-01 |
-| Finals Week 1 | 2018-09-07/2018-09-08 |
-| Finals Week 2 | 2018-09-14/2018-09-15 |
+| Round 1 (Lower Bracket) | 2018-08-18/2018-08-19 |
+| Quarterfinals | 2018-08-25/2018-08-26 |
+| Semifinals | 2018-09-01/2018-09-02 |
+| Finals - Week 1 | 2018-09-08/2018-09-09 |
+| Finals - Week 2 | 2018-09-15/2018-09-16 |
 
 ## Prizes
 
@@ -55,33 +55,14 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 -----------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals - Week 1
 
-### Saturday, 1 September 2018
+### Saturday, 8 September 2018
 
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | Japan | ![][flag_JP] | ![][flag_MY] | Malaysia | **08:00** |  |
-| #2 | Germany | ![][flag_DE] | ![][flag_NL] | Netherlands | **17:30** |  |
-| #3 | United States | ![][flag_US] | ![][flag_BR] | Brazil | **21:00** |  |
-| #4 | Canada | ![][flag_CA] | ![][flag_EC] | Ecuador | **23:00** |  |
-
-### Sunday, 2 September 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | Japan | ![][flag_JP] | ![][flag_US] | United States | **02:00** | ¹ |
-| #5b | Malaysia | ![][flag_MY] | ![][flag_US] | United States | **02:00** | ¹ |
-| #5c | Japan | ![][flag_JP] | ![][flag_BR] | Brazil | **02:00** | ¹ |
-| #5d | Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **02:00** | ¹ |
-| #6a | Germany | ![][flag_DE] | ![][flag_CA] | Canada | **18:00** | ² |
-| #6b | Netherlands | ![][flag_NL] | ![][flag_CA] | Canada | **18:00** | ² |
-| #6c | Germany | ![][flag_DE] | ![][flag_EC] | Ecuador | **18:00** | ² |
-| #6d | Netherlands | ![][flag_NL] | ![][flag_EC] | Ecuador | **18:00** | ² |
-
-¹ Encounter dependent on loser of Match #1 and winner of Match #3
-
-² Encounter dependent on loser of Match #2 and winner of Match #4
+| Match ID | Team A |  |  | Team B | Match Time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #1 | Malaysia | ![][flag_MY] | ![][flag_NL] | Netherlands | **10:00** |
+| #2 | United States | ![][flag_US] | ![][flag_DE] | Germany | **20:00** |
 
 -----------------------
 
@@ -122,6 +103,32 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 -----------------------
 
 ## Mappools
+
+### Finals - Week 1
+
+**[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg)**
+
+- NoMod
+  - [Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too Much! (Volta) \[Oni\]](/beatmapsets/554873/#taiko/1187765)
+  - [t+pazolite - Knotfunk (eiri-, Nifty) \[Ayyfty's Oni\]](/beatmapsets/716533/#taiko/1514125)
+  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (aabc271) \[aabc's Taiko Oni\]](/beatmapsets/134151/#taiko/365129)
+  - [Cranky - R176 (Alace) \[Pangko\]](/beatmapsets/31367/#taiko/121335)
+  - [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](/beatmapsets/357767/#taiko/786903) 
+- Hidden
+  - [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Stefan) \[Oni\]](/beatmapsets/416567/#taiko/902308)
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Oni\]](/beatmapsets/744214/#taiko/1569199)
+- HardRock
+  - [AAAA Chazuke - Hop Step Adventure\* (TKS) \[Oni\]](/beatmapsets/466471/#taiko/1003336)
+  - [Jin feat. MARiA from GARNiDELiA - daze (short ver.) (Betsuto) \[Betsu's Taiko Oni\]](/beatmapsets/165391/#taiko/409134)
+- DoubleTime
+  - [Ryu\* feat.Mayumi Morinaga - Din Don Dan (\[R\]) \[Oni\]](/beatmapsets/397834/#taiko/870741)
+  - [Nekomata Master - Deadman Falling (Azer) \[Muzukashii\]](/beatmapsets/619878/#taiko/1523533)
+- FreeMod
+  - [Killerblood - Run Lads Run (Nwolf) \[Oni\]](/beatmapsets/571334/#taiko/1227621)
+  - [you - SUSHI Tabetai(Hardcore EDIT) (KitajimaYN) \[Yuni's TABETAI\]](/beatmapsets/386633/#taiko/844155)
+  - [nano.RIPE - Real World (mintong89) \[Oni\]](/beatmapsets/419788/#taiko/908415)
+- Tiebreaker
+  - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikiko-) \[Memories\]](/beatmapsets/544468/#taiko/1153788)**
 
 ### Semifinals
 
@@ -223,7 +230,22 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Match Results
 
+### Semifinals
+
+| Saturday, 2018-09-01 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| Japan ![][flag_JP] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45601494) |
+
+| Sunday, 2018-09-02 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| Germany ![][flag_DE] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45616018) |
+| Canada ![][flag_CA] | 3 | **5** | ![][flag_EC] **Ecuador** | [#1](/community/matches/45626417) |
+| Japan ![][flag_JP] | 3 | **5** | ![][flag_US] **United States** | [#1](/community/matches/45614036) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_EC] Ecuador | [#1](/community/matches/45651719) |
+| **United States** ![][flag_US] | **5** | 2 | ![][flag_BR] Brazil | [#1](/community/matches/45655615) |
+
 ### Quarterfinals
+
 | Friday, 2018-08-24 |  |  |  |  | 
 | --: | :-: | :-- | :-- | :-: |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](/community/matches/45369844) |
@@ -348,16 +370,17 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 1. Each stage will receive its own mappool, and it will progressively become harder.
 2. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
 3. Each mappool consists of 13 maps in total.
-4. The mappool consists of the following format:
-   - 4 NoMod
+4. Finals mappool will have 15 maps in total.
+5. The mappool consists of the following format:
+   - 4 NoMod (5 in the Finals)
    - 2 Hidden
    - 2 HardRock
    - 2 DoubleTime
-   - 2 FreeMod
+   - 2 FreeMod (3 in the Finals)
    - 1 Tiebreaker
-5. The Tiebreaker will be played under NoMod conditions.
+6. The Tiebreaker will be played under NoMod conditions.
    - In case of a tie, the Tiebreaker will be replayed again with FreeMod activated.
-6. The mappool will be released after the last match of the previous stage has been played.
+7. The mappool will be released after the last match of the previous stage has been played.
 
 ### Scheduling Regulations
 
