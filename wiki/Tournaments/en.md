@@ -101,6 +101,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](/users/1591215) |
 
+### ![][o!s] ![][o!t] DeltaMax's Tournaments
+
+| Name | Start | End | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- | --- |
+| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
+| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
+
 ### ![][o!t] Intermediate Global Taiko Showdown
 
 | Name | Start | End | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
@@ -167,13 +174,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [Taiko Suiji Cup](/wiki/Tournaments/TSC/1) | 2018-08-25 | 2018-10-07 | TBD | TBD | TBD |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
-
-| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-| --- | --- | --- | --- | --- | --- |
-| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
-| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
-
 See also
 --------
 
@@ -195,6 +195,7 @@ See also
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
