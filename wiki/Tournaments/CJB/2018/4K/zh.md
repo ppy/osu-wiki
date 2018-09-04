@@ -4,8 +4,7 @@ tags:
 - CJB 2018
 - CJB2018
 ---
-第四届 osu!mania 4K 菜鸡杯
-=========================
+# 第四届 osu!mania 4K 菜鸡杯
 
 ![CJB 4K 4th](img/banner.png)
 
@@ -28,7 +27,7 @@ tags:
 本次比赛奖品由 ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) 赞助。
 
 | 名次 | 奖品 |
-| --- | :-- |
+| :-: | :-- |
 | ![金冠](/wiki/shared/GCrown.png "第一名") | 2个月 osu!支持者，主页定制勋章 |
 | ![银冠](/wiki/shared/SCrown.png "第二名") | 1个月 osu!支持者 |
 | ![铜冠](/wiki/shared/BCrown.png "第三名") | 15 CNY |
@@ -54,7 +53,7 @@ tags:
 
 --------------------------------------------------
 
-![CJB 4K 4th podium](img/podium.jpg)
+![CJB 4K 4th Podium](img/podium.jpg)
 
 --------------------------------------------------
 
