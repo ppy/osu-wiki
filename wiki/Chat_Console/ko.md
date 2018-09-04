@@ -2,7 +2,7 @@
 
 osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` 버튼을 클릭하면 화면 아래쪽에 채팅 콘솔이 표시됩니다.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![채팅 콘솔](Chatconsole1.png "채팅 콘솔")
 
 -   탭에는 현재 사용 가능한 채널이 나열됩니다. 탭을 클릭하여 다른 채널로 이동할수 있고, `New`를 클릭하여 다른 채널에 들어갈 수 있습니다.
 -   사용자 이름의 색상에는 각각 다른 의미가 있습니다.
@@ -11,7 +11,7 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **흰색**  | 당신                                                                                                                                                                                                      |
 | **옅은 노랑**   | 서포터가 아닌 유저                                                                                                                                                                                           |
-| **노랑** | [osu! 서포터](/wiki/osu!supporter/ "osu!supporter")                                                                                                                                           |
+| **노랑** | [osu! 서포터](/wiki/osu!supporter/ "osu! 서포터")                                                                                                                                           |
 | **빨강**    | [GMT](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") 혹은 [QAT](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") 유저      |
 | **녹색**  | 당신이 "호출" 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
 | **파랑**   | 비공개 메시지                                                                                                                                                                                          |
@@ -24,11 +24,11 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 
 ## 확장 채팅 콘솔
 
-*[osu!academy](/wiki/osu!academy/ "osu!academy")의 [에피소드 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)에서 [멀티 플레이](/wiki/Multi/ "Multiplayer") 항목과 함께 이 페이지에 대해서 다루었습니다.*
+*[osu!academy](/wiki/osu!academy/ "osu!academy")의 [에피소드 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)에서 [멀티 플레이](/wiki/Multi/ "멀티 플레이") 항목과 함께 이 페이지에 대해서 다루었습니다.*
 
 osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users` 버튼을 클릭하면 확장 채팅 콘솔로 전환할 수 있습니다. 채팅 콘솔 위쪽 나머지 공간에 현재 로그인 한 유저에 대한 정보를 표시합니다.
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![확장 채팅 콘솔](Chat_Console-Extended.png "확장 채팅 콘솔")
 
 확장된 부분에는 로그인한 각 유저의 일반적인 정보 (유저명, 총 랭크 점수, 랭크, 정확도, 플레이 카운트 및 유저 아바타)가 적힌 사용자 패널을 표시합니다. 그 패널에 마우스를 올리면 다른 정보 (유저명, 랭크, 아바타, 시간대, 접속한 국가, 유저가 허용했을 경우 접속한 도시, 하고있는 것)가 표시됩니다.
 
@@ -41,21 +41,21 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 
 | 패널 색                                                                                          | 설명                                                                                                    |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | 진한 파랑 - 플레이어가 쉬고 있거나, 아무것도 하지 않거나 그냥 채팅을 하는 중.                                  |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | 회색 - 솔로 플레이를 하는 중.                                                                              |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | 밝은 파랑 - 리플레이를 보거나 관전하는 중.                                                          |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | 빨강 - 자신의 비트맵을 편집하는 중.                                                                               |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | 보라 - 비트맵을 테스트 플레이 하는 중.                                              |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | 청록 - 만든 맵을 업로드, 혹은 업데이트 하는 중.                         |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | 초록 - 다른 사람의 맵을 모딩 혹은 편집하는 중.                                                             |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | 갈색 - 유저가 멀티 플레이 로비 혹은 방에 있지만, 플레이를 하고 있지는 않음.                                                          |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 노랑 - 멀티 플레이 방에서 플레이하는 중.                                                                     |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | 검정 - 잠수중.                                                                  |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | 내용이 없는 진한 파랑 - 플레이어가 게임에 접속한 상태가 아니지만, IRC 클라이언트를 이용해 로그인하여 정보가 출력되지 않음. |
+| ![대기 중](Chat_Console-Idle.png "대기 중")                                             | 진한 파랑 - 플레이어가 쉬고 있거나, 아무것도 하지 않거나 그냥 채팅을 하는 중.                                  |
+| ![플레이 중](Chat_Console-Playing.png "플레이 중")                                    | 회색 - 솔로 플레이를 하는 중.                                                                              |
+| ![관전 중](Chat_Console-Watching.png "관전 중")                                 | 밝은 파랑 - 리플레이를 보거나 관전하는 중.                                                          |
+| ![비트맵을 수정 중](Chat_Console-Editing.png "비트맵을 수정 중")                | 빨강 - 자신의 비트맵을 편집하는 중.                                                                               |
+| ![비트맵을 테스트 하는 중](Chat_Console-Testing.png "비트맵을 테스트 하는 중")                | 보라 - 비트맵을 테스트 플레이 하는 중.                                              |
+| ![비트맵을 업로드 하는 중](Chat_Console-Submitting.png "비트맵을 업로드 하는 중")       | 청록 - 만든 맵을 업로드, 혹은 업데이트 하는 중.                         |
+| ![비트맵을 모딩 하는 중](Chat_Console-Modding.png "비트맵을 모딩 하는 중")                | 초록 - 다른 사람의 맵을 모딩 혹은 편집하는 중.                                                             |
+| ![멀티 플레이를 하는 중](Chat_Console-Multiplayer.png "멀티 플레이를 하는 중")                        | 갈색 - 유저가 멀티 플레이 로비 혹은 방에 있지만, 플레이를 하고 있지는 않음.                                                          |
+| ![멀티 플레이 방에서 플레이 하는 중](Chat_Console-Multiplaying.png "멀티 플레이 방에서 플레이 하는 중") | 노랑 - 멀티 플레이 방에서 플레이하고 있음.                                                                     |
+| ![자리를 비우고 있음](Chat_Console-Afk.png "자리를 비우고 있음")                                                | 검정 - 자리를 비움.                                                                  |
+| ![IRC를 이용해 접속 중](Chat_Console-IRC.png "IRC를 이용해 접속 중")                    | 내용이 없는 진한 파랑 - 플레이어가 게임에 접속한 상태가 아니지만, IRC 클라이언트를 이용해 로그인하여 정보가 출력되지 않음. |
 
 사용자 패널을 클릭하면 옵션 화면이 나타납니다.
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![사용자 패널 옵션](Chat_Console-Userpaneloptions.jpg "사용자 패널 옵션")
 
 키보드로 숫자를 누르거나, 버튼을 클릭하면 다음과 같이 작동됩니다:
 
@@ -96,7 +96,7 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 
 ### /keys
 
-| 키보드 키     | 효과                                                   |
+| 키보드 단축키     | 효과                                                   |
 |-------------------|----------------------------------------------------------|
 | `Page Up` / `Page Down` | 채팅창을 스크롤합니다. 물론 마우스 휠로도 가능합니다. |
 | `Tab`               | 입력중인 닉네임의 자동완성 기능.                 |
