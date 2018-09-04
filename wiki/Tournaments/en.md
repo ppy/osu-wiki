@@ -144,9 +144,16 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018/) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(Standard), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(Catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(Standard), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)[Catch], ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(7K) |
 
 ### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
- | Year | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+ | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [2018](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
+| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
 
 See also
 --------
@@ -170,6 +177,7 @@ See also
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
