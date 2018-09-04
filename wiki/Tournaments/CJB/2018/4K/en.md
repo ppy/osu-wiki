@@ -15,7 +15,7 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-07-02/2018-07-013 |
-| Live Drawings | 2018-07-14 (20:30 UTC+8) |
+| Live Drawings | 2018-07-14 (20:30 UTC+08) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
 | Semifinals | 2018-08-04/2018-8-05 |
