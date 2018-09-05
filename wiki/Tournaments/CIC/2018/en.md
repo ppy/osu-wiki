@@ -5,7 +5,7 @@ tags:
 ---
 # Catch the Beat Indonesia Cup 2018
 
-![CIC 2018 Logo](logo.jpg)
+![CIC 2018 Logo](img/logo.jpg)
 
 The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is Indonesian one-on-one osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](/users/1830361). It is the 6th installment of the Catch the Beat Indonesia Cup 2018.
 
@@ -312,7 +312,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 4. A referee will create a multiplayer room 15 minutes in advance and will start to invite participants.
 5. If a player does not show up within **10 minutes** of the start time, the enemy wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. If the match is in progress and the participant fails to complete the map, then the participant will be declared as defeated and will take the last position.
+7. If the match is in progress and the participant fails to complete the map, then the participant will be declared as defeated and will be placed in the last position.
    - Exceptions if the participant can revive, the position will be determined based on the highest score.
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched.
@@ -320,20 +320,20 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
    - In case the disconnected player exceed 15 minutes max. This will result with the enemy's winning by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected to respect each other and be polite. Penalties will be given if participants violates.
+12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
     - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next installment of CIC.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the installment of CIC for both participant and the helper.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
 
 ### Group Stage Rules
 
 1. Each group will be filled by 3 participants.
-2. Participants will compete with the Battle Royale system.
+2. Participants will compete against each other using Battle Royale system.
 3. The group stage will use points system for each participant with the following conditions:
    - 1st place: 2 points.
    - 2nd place: 1 points.
    - 3rd place: -1 points.
-4. Participants **are not allowed** to bann maps in group stage.
+4. Participants **are not allowed** to ban maps in the group stage.
 5. There is no Loser Bracket in the group stage.
 6. Participants who can compete in the next round are determined based on:
    - Participants who have the most points.
@@ -345,7 +345,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 1. 16 Participants who qualify for the group stage will be randomised back in the Round of 16 bracket.
 2. Winner Bracket will be played on Saturday, and the Loser Bracket will be played on Sunday, unless there is a reschedule happening.
-3. Participants will compete with the Double Elimination system.
+3. Participants will compete against each other using the Double Elimination system.
 4. The Double Elimination System are:
    - Participants who lose in the Winner Bracket can still play again on the Loser Bracket.
    - Participants who lose in the Loser Bracket will be eliminated from the tournament.
