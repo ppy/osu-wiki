@@ -7,7 +7,7 @@ tags:
 
 ![CIC 2018 Logo](img/logo.jpg)
 
-The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is Indonesian one-on-one osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](/users/1830361). It is the 6th installment of the Catch the Beat Indonesia Cup 2018.
+The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is an Indonesian one-on-one osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](/users/1830361). It is the 6th installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament Schedule
 
@@ -24,7 +24,7 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is Indonesian one-on-
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 50% of the prize pool |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the prize pool, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30% of the prize pool |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20% of the prize pool |
 
