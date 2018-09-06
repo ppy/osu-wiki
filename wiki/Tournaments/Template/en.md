@@ -10,6 +10,7 @@ Find and replace those tags listed below with proper information, then delete th
 {ABBR} = abbreviation of the tournament name followed by its iteration/year occurence i.e. MWC 4K 2018
 {ORGANISER} = organiser of the tournament
 {NTH} = installment ordinal number
+{TOURNAMENT_SERIES} = tournament name without its iteration suffix i.e. osu!mania 4K World Cup
 {DRAW_TIME} = Live Drawings (Livestream) time for the tournament
 {TOPIC_NUM} = forum thread number
 {STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
@@ -22,7 +23,7 @@ Alongside this comment, remember to delete all comments across the article after
 
 ![{ABBR} Logo](img/logo.png)
 
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_NAME}.
+The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
 
 ## Tournament Schedule
 

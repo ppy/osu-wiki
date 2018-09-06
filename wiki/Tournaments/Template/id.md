@@ -11,6 +11,7 @@ Find and replace tag yang berada di bawah dengan informasi yang sesuai, lalu hap
 {ORGANISER} = penyelenggara turnamen
 {DRAW_TIME} = waktu siar pengundian secara langsung pada turnamen
 {NTH} = nomor instalasi turnamen
+{TOURNAMENT_SERIES} = nama turnamen tanpa iterasi/tahun digelarnya turnamen misalnya osu!mania 4K World Cup
 {TOPIC_NUM} = nomor forum thread
 {STATS_LINK} = tautan ke lembar statistik keseluruhan (harus berupa tautan Google Drive)
 Anda masih harus menambahkan elemen lain seperti tabel, dan lainnya.
@@ -22,7 +23,7 @@ Selain kolom komentar ini, jangan lupa untuk menghapus semua kolom komentar yang
 
 ![Logo {ABBR}](img/logo.png)
 
-**{TOURNAMENT_NAME}** (***{ABBR}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh {ORGANISER}. Kali ini merupakan instalasi ke-{NTH} dari turnamen {TOURNAMENT_NAME}.
+**{TOURNAMENT_NAME}** (***{ABBR}***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh {ORGANISER}. Kali ini merupakan instalasi ke-{NTH} dari turnamen {TOURNAMENT_SERIES}.
 
 ## Jadwal Turnamen
 
