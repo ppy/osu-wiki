@@ -23,7 +23,6 @@ outdated: true
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 聊天室管理, Disqus管理 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 德语 | 聊天室管理 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理, 论坛管理, Disqus管理 |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | 比赛, Disqus管理 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 聊天室管理, 技术支持 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛, Disqus管理 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |

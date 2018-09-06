@@ -20,7 +20,6 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderacja czatu oraz Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Niemiecki | Moderacja czatu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderacja czatu, Forum oraz Disqus|
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Organizacja turniejów, Moderacja Disqus |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderacja czatu, Pomoc techniczna |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów, Moderacja Disqus |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Pomoc techniczna |

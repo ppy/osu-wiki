@@ -20,7 +20,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 채팅 관리, Disqus 관리 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 독일어 | 채팅 관리 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 스페인어 | 채팅 관리, 포럼 관리, Disqus 관리 |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | 대회, Disqus 관리 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 채팅 관리, 기술 지원 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 스페인어 | 대회, Disqus 관리 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 기술 지원 |

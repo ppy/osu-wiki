@@ -20,7 +20,6 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderasi Chat, Moderasi Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Jerman | Moderasi Chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi Chat, Moderasi Forum, Moderasi Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Turnamen, Moderasi Disqus |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderasi Chat, Dukungan Teknis |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen, Moderasi Disqus |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Dukungan Teknis |

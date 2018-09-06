@@ -23,7 +23,6 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Sohbet Moderasyonu, Disqus Moderasyonu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Sohbet Moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu, Disqus Moderasyonu |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Turnuvalar, Disqus Moderasyonu |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Sohbet Moderasyonu, Teknik Destek |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Turnuvalar, Disqus Moderasyonu |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Teknik Destek |
