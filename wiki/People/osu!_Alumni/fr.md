@@ -254,3 +254,4 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_ZA]: /wiki/shared/flag/ZA.gif
+[flag___]: /wiki/shared/flag/__.gif

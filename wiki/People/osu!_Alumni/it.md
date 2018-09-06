@@ -251,3 +251,4 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_ZA]: /wiki/shared/flag/ZA.gif
+[flag___]: /wiki/shared/flag/__.gif
