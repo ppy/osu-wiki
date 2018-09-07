@@ -23,7 +23,6 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Modération du Chat, Modération du Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Allemand | Modération du Chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Espanol | Modération du Chat, Modération du Forum, Modération du Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Organisation de tournois, Modération du Disqus |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Modération du Chat, Support technique |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanol | Organisation de tournois, Modération du Disqus |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Support technique |

@@ -23,7 +23,6 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Chat Moderation, Disqus Moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Deutsch | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanisch | Chat Moderation, Forum Moderation, Disqus Moderation |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Tournaments, Disqus Moderation |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technische Unterstützung |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanisch | Tournaments, Disqus Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technische Unterstützung |

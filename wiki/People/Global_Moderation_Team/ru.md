@@ -25,7 +25,6 @@ outdated: true
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | чат, Disqus |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | немецкий | чат |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | испанский | чат, форум, Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | организация турниров, Disqus |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | чат, техподдержка |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров, Disqus |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | техподдержка |
