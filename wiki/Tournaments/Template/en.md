@@ -7,10 +7,10 @@ tags:
 Find and replace those tags listed below with proper information, then delete this comment.
 {TOURNAMENT_NAME} = tournament name
 {MODE} = game mode
-{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence i.e. MWC 4K 2018
+{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence e.g. MWC 4K 2018
 {ORGANISER} = organiser of the tournament
 {NTH} = installment ordinal number
-{TOURNAMENT_SERIES} = tournament name without its iteration suffix i.e. osu!mania 4K World Cup
+{TOURNAMENT_SERIES} = tournament name without its iteration suffix e.g. osu!mania 4K World Cup
 {DRAW_TIME} = Live Drawings (Livestream) time for the tournament
 {TOPIC_NUM} = forum thread number
 {STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
@@ -38,8 +38,8 @@ The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament ho
 | Finals - Week 1 |  |
 | Finals - Week 2 |  |
 
-<!-- Use YYYY-MM-DD Format for dates i.e. 2018-01-01
-Use (HH:MM) format for {DRAW_TIME} i.e. (12:00 UTC)
+<!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
+Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
  -->
 
 ## Prizes
