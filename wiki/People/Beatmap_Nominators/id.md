@@ -6,33 +6,36 @@ Beatmap Nominator
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/Beatmap_Nominator_Rules) dan [Informasi Umum untuk Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
-Beatmap Nominator, biasanya disebut sebagai *BN*, adalah kelompok yang bertugas bertanggung jawab atas [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22, mereka tidak lagi menjadi bagian dari staff, mencabut moderasi obrolan chat, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
+Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22, Beatmap Nominator telah dipisahkan dari bagian staff, perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
 
 Peran dan Tanggung Jawab
 --------------------------
 
-Anggota Beatmap Nominator bertanggung jawab terutama untuk [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmaps) ke dalam lingkaran ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding.
+Anggota Beatmap Nominator bertanggung jawab terutama untuk [modding](/wiki/Modding) [beatmaps berstatus pending](/wiki/Beatmaps) ke dalam ranah status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding.
 
 Menjadi seorang Beatmap Nominator
 ----------------------------
 
-Dengan perubahan team pada Agustus 2014, bergabung dengan Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan memposting pengumuman untuk pendaftaran Beatmap Nominator ke [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam kurun waktu 1 atau 2 bulan.
+Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan mengumumkan pendaftaran Beatmap Nominator berupa post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam kurun waktu 1 atau 2 bulan.
 
 ### Kriteria Dasar
-Modder yang ingin menjadi Beatmap Nominator harus mengikuti kriteria berikut:
+
+Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 + Harus aktif dalam modding setidaknya kurang lebih 3 bulan jauh dari pengumuman.
-+ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) total yang sudah diakumulasi.
++ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) dari total yang sudah diakumulasi.
 + Memberikan hasil modding setidaknya 2 atau 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
 ### Apa yang Berkualitas sebagai Mod Post
-+ Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, posting mod untuk Januari, Februari, dan Maret akan relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
-+ Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions
-+ Sejak November 2017, modding beatmap berubah menjadi Modding V2 yang memiliki sistem reward yang berdasarkan upvotes/downvotes. Oleh karena itu nilai "Mod Post" sangat diperlukan dalam diskusi beatmap, yang dimana setidaknya satu masalah/saran mendapatkan reward upvote.
-+ Gamemode (osu!, osu!mania, osu!catch, osu!taiko) yang Anda Modding tidak masalah, karena aktivitas yang diukur adalah aktivitas keseluruhan di dalam komunitas Modding tersebut, dan bukan dari Gamemode tertentu.
+
++ Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan posting mod bulan Januari, Februari, dan Maret akan relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
++ Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions.
++ Sejak November 2017, modding beatmap telah dirubah menggunakan Modding V2 yang memiliki sistem reward berdasarkan upvote/downvote. Oleh karena itu nilai "Mod Post" sangat diperlukan dalam diskusi beatmap, yang dimana setidaknya satu masalah/saran mendapatkan reward upvote.
++ Gamemode (mode) apapun yang Anda Modding tidak menjadi masalah, karena aktivitas yang diukur adalah aktivitas keseluruhan di dalam komunitas Modding tersebut, dan bukan dari Gamemode tertentu.
 + Time dalam Mod Post yang telah diberikan Kudosu tidak masalah. Yang sangat penting dalam Mod Post ialah postingan date dan time dari UTC+0 yang membuktikan bahwa sudah diberikan Kudosu sesuai fakta.
 
 ### Bagaimana Skor Minimal di Kalkulasi
-+ Ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus Matematika diperlukan untuk menentukan nilai tersebut.
+
++ Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus Matematika diperlukan untuk menentukan nilai tersebut.
 + `Kudosu Score` ditentukan sesuai rumus sebagai berikut:
 
 ![Rumus Kudosu Score](/wiki/shared/KDSCORE.png "Rumus Kudosu Score")
@@ -42,32 +45,33 @@ Modder yang ingin menjadi Beatmap Nominator harus mengikuti kriteria berikut:
 ![Rumus Mod Score](/wiki/shared/MODSCORE.png "Rumus Mod Score")
 
 + [Online Tool](http://modscore.little.moe/) ini dapat digunakan untuk mengkalkulasi total Mod Score.
-+ Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan/meringkas total `Kudosu Score` dan `Mod Score` mereka dari bulan pertama, dua dan tiga.
++ Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan/meringkas total `Kudosu Score` dan `Mod Score` mereka dari bulan pertama, dua, dan tiga.
 + Total keseluruhan ditetapkan sebagai berikut:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
-+ Ini adalah ide bagus untuk menjaga Skor Anda tetap diatas angka-angka ini, karena jumlah total nilai dari pendaftar akan sangat berbeda nantinya.
++ Ini adalah ide bagus untuk menjaga Skor Anda tetap di atas angka-angka ini, karena jumlah total nilai dari pendaftar akan sangat berbeda nantinya.
 
 ### Bagaimana potensi calon Beatmap Nominator dipilih
+
 + `Mod Score` dan `Kudosu Score` dari semua pendaftar akan diperiksa untuk memverifikasi bila mereka dapat memenuhi `Required Minimum Score`.
 + Modders yang telah memenuhi syarat akan dievaluasi oleh anggota QAT dari gamemode yang mereka pilih, dengan mempertimbangkan kriteria sebagai berikut:
-  + General attitude: Perilaku dalam modding dan perilaku lainnya yang diharapkan dari [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), serta perilaku umum pada Obrolan/Forum.
-  + Modding abilities: Pengetahuan Umum [Ranking Criteria](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa juga dipertimbangkan.
-+ Setelah mengevaluasi setiap modder, sebuah diskusi akan dibuat apakah modder tersebut akan bergabung sebagai Beatmap Nominator atau tidak.
+  + General attitude: Perilaku dalam modding dan perilaku lainnya yang diharapkan dari [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), serta perilaku umum pada Chat/Forum.
+  + Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa juga dipertimbangkan.
++ Setelah mengevaluasi setiap modder, sebuah diskusi akan dibuat apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
 
 Quality Assurance Helper
 -------------------------
 
-Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang dimana membantu Quality Assurance Team memeriksa setiap beatmap yang kualifikasi untuk nememukan permasalahan. Mereka melaporkan beatmap ke [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428) thread. 
+Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang dimana tugasnya adalah membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah (jika ada). Jika ada, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428). 
 
-Quality Assurance Helper sangat bebas bisa memilih beatmap apa saja yang mau diperiksa setidaknya empat beatmap perbulan. Jika mereka tidak memenuhi standar aktivitas, Mereka akan dicabut dan hanya bisa kembali masuk setelah cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja. 
+Quality Assurance Helper sangat bebas bisa memilih beatmap apa saja yang mau diperiksa setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan hanya bisa kembali masuk setelah cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja. 
 
-Anggota Team
+Anggota Tim
 ------------
 
 Tabel yang tercantum dibawah menunjukan gamemode setiap Beatmap Nominator yang resmi memenuhi syarat sebagaimana mestinya.
 
-_Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambahan Bahasa._ Tautan menuju [user group page](https://osu.ppy.sh/groups/28).
+*Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambahan Bahasa.* Tautan menuju [user group page](https://osu.ppy.sh/groups/28).
 
 ### osu!standard
 
@@ -77,12 +81,10 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
 | [BOUYAAA](https://osu.ppy.sh/users/405449)            | French, some German      |
-| [Cris-](https://osu.ppy.sh/users/6175280)             | Spanish                  |
 | [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
 | [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
-| [frogyfro](https://osu.ppy.sh/users/7010859)          |                          |
 | [Garden](https://osu.ppy.sh/users/2849992)            | Chinese                  |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
 | [Gottagof4st](https://osu.ppy.sh/users/6122935)       | Dutch                    |
@@ -97,7 +99,6 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
 | [Mirash](https://osu.ppy.sh/users/2841009)            | Russian                  |
 | [Mordred](https://osu.ppy.sh/users/7265097)           | German                   |
-| [MrSergio](https://osu.ppy.sh/users/2581696)          | Italian, Romanian        |
 | [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
 | [Nao Tomori](https://osu.ppy.sh/users/5364763)        | French                   |
 | [Natsu](https://osu.ppy.sh/users/1953876)             | Spanish                  |
@@ -114,7 +115,6 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [riffy](https://osu.ppy.sh/users/597957)              | Russian                  |
 | [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
 | [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
-| [Sieg](https://osu.ppy.sh/users/1404615)              | Russian                  |
 | [smallboat](https://osu.ppy.sh/users/243049)          | Chinese                  |
 | [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
@@ -124,7 +124,6 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
-| [Yugu](https://osu.ppy.sh/users/3161834)              | Chinese, some Japanese   |
 
 ### osu!taiko
 
@@ -153,7 +152,6 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [Fii](https://osu.ppy.sh/users/3922569)               |                          |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
 | [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
 | [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
@@ -168,7 +166,6 @@ _Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambaha
 | [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
 | [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
 | [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
-| [Garalulu](https://osu.ppy.sh/users/757783)           | Korean                   |
 | [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
 | [Sandalphon](https://osu.ppy.sh/users/2633753)        | Chinese                  |
