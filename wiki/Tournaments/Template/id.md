@@ -44,7 +44,7 @@ Gunakan format (HH:MM) untuk mengisi {DRAW_TIME} misalnya (19:00 UTC +7)
 
 ## Hadiah
 
-Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Ada kemungkinan bahwa barang-barang yang dihadiahkan dapat berubah setiap instalasi {TOURNAMENT_NAME}.
+Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium dan menerima hadiah unik yang dibuat khusus untuk pemenang {TOURNAMENT_NAME}. Ada kemungkinan bahwa barang-barang yang dihadiahkan dapat berubah setiap instalasi {TOURNAMENT_SERIES}.
 
 | Posisi | Hadiah |
 | :-: | :-- |

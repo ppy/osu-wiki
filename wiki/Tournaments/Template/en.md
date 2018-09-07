@@ -44,7 +44,7 @@ Use (HH:MM) format for {DRAW_TIME} i.e. (12:00 UTC)
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_NAME}.
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_SERIES}.
 
 | Placing | Prize(s) |
 | :-: | :-- |
