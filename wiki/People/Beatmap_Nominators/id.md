@@ -25,7 +25,7 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 + Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) dari total yang sudah diakumulasi.
 + Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
-### Apa yang Dapat Dianggap sebagai Mod Post?
+### Apa yang Dapat Dianggap sebagai Mod Post
 
 + Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan postingan mod pada bulan Januari, Februari, dan Maret akan menjadi relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
 + Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions.
@@ -35,7 +35,7 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 
 ### Bagaimana Skor Minimal dihitung
 
-+ Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus Matematika diperlukan untuk menentukan nilai tersebut.
++ Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus matematika digunakan untuk menentukan nilai tersebut.
 + `Kudosu Score` ditentukan sesuai rumus sebagai berikut:
 
 ![Rumus Kudosu Score](/wiki/shared/KDSCORE.png "Rumus Kudosu Score")
@@ -45,31 +45,31 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 ![Rumus Mod Score](/wiki/shared/MODSCORE.png "Rumus Mod Score")
 
 + [Online Tool](http://modscore.little.moe/) ini dapat digunakan untuk mengkalkulasi total Mod Score.
-+ Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan/meringkas total `Kudosu Score` dan `Mod Score` mereka dari bulan pertama, dua, dan tiga.
-+ Total keseluruhan ditetapkan sebagai berikut:
-  + osu!taiko, osu!catch and osu!mania: 1050
++ Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan total `Kudosu Score` dan `Mod Score` mereka pada bulan pertama, kedua, dan ketiga.
++ Batas total keseluruhan terendah ditetapkan sebagai berikut:
+  + osu!taiko, osu!catch dan osu!mania: 1050
   + osu!: 1100
-+ Ini adalah ide bagus untuk menjaga Skor Anda tetap di atas angka-angka ini, karena jumlah total nilai dari pendaftar akan sangat berbeda nantinya.
++ Adalah ide yang bagus untuk menjaga skor Anda tetap di atas angka-angka ini, karena skor tersebut dapat sedikit berbeda mengikuti jumlah pendaftar.
 
-### Bagaimana potensi calon Beatmap Nominator dipilih
+### Bagaimana calon Beatmap Nominator potensial dipilih
 
-+ `Mod Score` dan `Kudosu Score` dari semua pendaftar akan diperiksa untuk memverifikasi bila mereka dapat memenuhi `Required Minimum Score`.
-+ Modders yang telah memenuhi syarat akan dievaluasi oleh anggota QAT dari gamemode yang mereka pilih, dengan mempertimbangkan kriteria sebagai berikut:
++ `Mod Score` dan `Kudosu Score` dari semua pendaftar akan diperiksa untuk memastikan apakah mereka dapat memenuhi `Required Minimum Score`.
++ Modder yang telah mencapai skor yang diperlukan akan dievaluasi oleh anggota QAT dari gamemode yang mereka pilih, dengan mempertimbangkan kriteria sebagai berikut:
   + General attitude: Perilaku dalam modding dan perilaku lainnya yang diharapkan dari [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), serta perilaku umum pada Chat/Forum.
-  + Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa juga dipertimbangkan.
-+ Setelah mengevaluasi setiap modder, sebuah diskusi akan dibuat apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
+  + Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa aspek lainnya.
++ Setelah mengevaluasi setiap modder, akan diadakan diskusi di mana akan dipertimbangkan apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
 
 Quality Assurance Helper
 -------------------------
 
-Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang dimana tugasnya adalah membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah (jika ada). Jika ada, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428). 
+Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428). 
 
-Quality Assurance Helper sangat bebas bisa memilih beatmap apa saja yang mau diperiksa setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan hanya bisa kembali masuk setelah cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja. 
+Quality Assurance Helper bebas memilih beatmap yang ingin diperiksa, setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan mereka hanya bisa kembali masuk setelah melewati masa cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja. 
 
 Anggota Tim
 ------------
 
-Tabel yang tercantum dibawah menunjukan gamemode setiap Beatmap Nominator yang resmi memenuhi syarat sebagaimana mestinya.
+Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nominator berhak secara resmi untuk melakukan nominasi.
 
 *Tolong diingat: Semua BN menggunakan bahasa Inggris terkecuali terdapat tambahan Bahasa.* Tautan menuju [user group page](https://osu.ppy.sh/groups/28).
 
