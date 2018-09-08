@@ -6,34 +6,34 @@ Beatmap Nominator
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/Beatmap_Nominator_Rules) dan [Informasi Umum untuk Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
-Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22, Beatmap Nominator telah dipisahkan dari bagian staff, perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
+Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
 
 Peran dan Tanggung Jawab
 --------------------------
 
-Anggota Beatmap Nominator bertanggung jawab terutama untuk [modding](/wiki/Modding) [beatmaps berstatus pending](/wiki/Beatmaps) ke dalam ranah status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding.
+Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps) ke dalam ranah status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding.
 
 Menjadi seorang Beatmap Nominator
 ----------------------------
 
-Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan mengumumkan pendaftaran Beatmap Nominator berupa post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam kurun waktu 1 atau 2 bulan.
+Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam rentang waktu 1 atau 2 bulan.
 
 ### Kriteria Dasar
 
 Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
-+ Harus aktif dalam modding setidaknya kurang lebih 3 bulan jauh dari pengumuman.
++ Harus aktif dalam modding setidaknya 3 bulan sebelum pendaftaran diumumkan.
 + Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) dari total yang sudah diakumulasi.
-+ Memberikan hasil modding setidaknya 2 atau 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
++ Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
-### Apa yang Berkualitas sebagai Mod Post
+### Apa yang Dapat Dianggap sebagai Mod Post?
 
-+ Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan posting mod bulan Januari, Februari, dan Maret akan relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
++ Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan postingan mod pada bulan Januari, Februari, dan Maret akan menjadi relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
 + Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions.
-+ Sejak November 2017, modding beatmap telah dirubah menggunakan Modding V2 yang memiliki sistem reward berdasarkan upvote/downvote. Oleh karena itu nilai "Mod Post" sangat diperlukan dalam diskusi beatmap, yang dimana setidaknya satu masalah/saran mendapatkan reward upvote.
-+ Gamemode (mode) apapun yang Anda Modding tidak menjadi masalah, karena aktivitas yang diukur adalah aktivitas keseluruhan di dalam komunitas Modding tersebut, dan bukan dari Gamemode tertentu.
-+ Time dalam Mod Post yang telah diberikan Kudosu tidak masalah. Yang sangat penting dalam Mod Post ialah postingan date dan time dari UTC+0 yang membuktikan bahwa sudah diberikan Kudosu sesuai fakta.
++ Sejak November 2017, modding beatmap telah dirubah menggunakan Modding V2 yang memiliki sistem reward berdasarkan upvote/downvote. Oleh karena itu nilai "Mod Post" di sini sama dengan diskusi beatmap, dimana setidaknya satu saran atau masalah di dalamnya mendapatkan sebuah upvote.
++ Gamemode (osu!, osu!mania, osu!catch, osu!taiko) manapun yang Anda Mod beatmap-nya tidak menjadi masalah, karena aktivitas Anda di dalam komunitas Modding secara keseluruhanlah yang diperhitungkan, dan bukan aktivitas dari mode tertentu saja.
++ Waktu di mana Kudosu diberikan kepada mod post-mu tidak memiliki efek apapun. Yang penting pada sebuah mod post adalah tanggal dan waktu penerbitannya dalam zona waktu UTC+0 dan apakah mod post telah diberikan Kudosu atau belum.
 
-### Bagaimana Skor Minimal di Kalkulasi
+### Bagaimana Skor Minimal dihitung
 
 + Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus Matematika diperlukan untuk menentukan nilai tersebut.
 + `Kudosu Score` ditentukan sesuai rumus sebagai berikut:
