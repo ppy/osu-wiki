@@ -103,7 +103,11 @@ All match results will be added in this section.
 #### osu!taiko
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
-	- 
+
+	- **NoMod** - No mod is to be used at all for the beatmap.
+	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+	- **DT (Double Time)** – The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 	
 #### osu!catch
 
