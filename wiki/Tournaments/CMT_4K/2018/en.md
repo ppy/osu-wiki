@@ -144,8 +144,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ## Mappool Instructions
 
-1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarter-finals, **1** mappool for the Semi-finals and **1** mappool for the Finals:
-     - Finals Week 1 & Finals Week 2 share the same mappool.
+1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarter-finals, **1** mappool for the Semi-finals and **1** mappool for the Finals.
 2. Mappool size varies depending on the stage:
      - **4** maps in the Qualification Stage.
      - **10** maps in the Group Stage.
