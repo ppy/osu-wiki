@@ -40,7 +40,7 @@ To be determined by the staff.
 | Map Selectors (osu!taiko) | List to be finalized. |
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
-| Match Referees | List to be finalized. |
+| Match Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [-MomoX](http://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
 | Commentators | List to be finalized. |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
@@ -274,3 +274,4 @@ All match results will be added in this section.
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
