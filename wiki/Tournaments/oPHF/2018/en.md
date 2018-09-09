@@ -35,7 +35,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 | :-- | :-- |
 | Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103)  (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
 | Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Map Selectors (osu!taiko) | List to be finalized. |
+| Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](http://osu.ppy.sh/users/7483452) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
 | Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [-MomoX](http://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
@@ -80,9 +80,9 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
 
-- The **osu!taiko** division will be subjected to a **single elimination** bracket. Seeding for this division will be based on Performance Points on 2018-11-03 (18:00 UTC+8:00).
+- The **osu!taiko** division will be subjected to a **single elimination** bracket. Seeding for this division will be based on Performance Points as of 2018-11-03 (18:00 UTC+8:00).
 
-- The **osu!catch** division will have a seeding round (explained below) and will be subjected to a **16-player double elimination** bracket.
+- The **osu!catch** division will adopt a Qualifier Round (explained below) and will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 - Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field to 16 players. Players who advance will be subjected to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
