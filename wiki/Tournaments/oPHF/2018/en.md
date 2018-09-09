@@ -37,7 +37,7 @@ To be determined by the staff.
 | ------------ | -------------- |
 | Executive Committee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915)  (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
 | Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Map Selectors (osu!taiko) |  |
+| Map Selectors (osu!taiko) | List to be finalized. |
 | Map Selectors (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
 | Match Referees | List to be finalized. |
