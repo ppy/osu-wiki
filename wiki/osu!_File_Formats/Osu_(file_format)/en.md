@@ -64,7 +64,7 @@ StoryFireInFront (Boolean) specifies whether or not display the storyboard in fr
 
 `StoryFireInFront: 0`
 
-SkinPreference (String) specified the preferred skin to use during gameplay.
+SkinPreference (String) specifies the preferred skin to use during gameplay.
 
 `SkinPreference:Default`
 
