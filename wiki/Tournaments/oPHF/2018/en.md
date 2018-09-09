@@ -82,7 +82,7 @@ All match results will be added in this section.
 
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
 
-- The **osu!taiko** division will
+- The **osu!taiko** division will be subjected to a **single elimination** bracket. Seeding for this division will be based on Performance Points on 2018-11-03 (18:00 UTC+8:00).
 
 - The **osu!catch** division will have a seeding round (explained below) and will be subjected to a **16-player double elimination** bracket.
 
