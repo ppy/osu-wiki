@@ -48,7 +48,7 @@ To be determined by the staff.
 
 ## Links
 
-- [Discussion thread]()
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/801475)
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
 
