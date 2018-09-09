@@ -138,7 +138,7 @@ All match results will be added in this section.
 
 #### Restrictions for osu!mania 4K
 
-- 4K Division Quarterfinalists of the [https://osu.ppy.sh/community/forums/topics/640068](osu!Philippines Holiday Friendlies 2017] and the [https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018](osu!Philippines Summer Tournament 2018) are not allowed to join the 4K tournament.
+- 4K Division Quarterfinalists of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the 4K tournament.
 
 - Members (former and current) of the Philippine Team on the osu!mania 4K World Cup are not allowed to join the 4K Tournament.
 
