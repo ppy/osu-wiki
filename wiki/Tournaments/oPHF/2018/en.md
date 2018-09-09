@@ -5,42 +5,40 @@ tags:
 ---
 # osu!Philippines Holiday Friendlies 2018
 
-![oPHF2018 Poster](hf2018poster.png)
+![oPHF2018 Poster](img/logo.png)
 
 > It's now time for some Holiday cheer!
 
-The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!taiko, osu!catch, and the osu!mania game modes. This tournament aims to provide up and coming players an competitive environment where they have a chance at glory themselves.
+The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!taiko, osu!catch, and the osu!mania game modes. This tournament aims to provide up and coming players an competitive environment where they have a chance at glory themselves. It is the 2nd iteration of the osu!Philippines Holiday Friendlies.
 
-This serves as the second edition of the tournament.
-
-## Proposed Tournament Schedule
+## Tournament Schedule
 
 | Event | Timestamp |
-|---:|---|
-| Registration Phase   | 2018-10-13/2018-10-28 |
-| Match Week 1         | 2018-11-10/2018-11-11 |
-| Match Week 2         | 2018-11-17/2018-11-18 |
-| Match Week 3         | 2018-11-24/2018-11-25 |
-| Match Week 4         | 2018-12-01/2018-12-02 |
-| Match Week 5         | 2018-12-08/2018-12-09 |
-| Match Week 6         | 2018-12-15/2018-12-16 |
+|---:|:---|
+| Registration Phase | 2018-10-13/2018-10-28 |
+| Match Week 1 | 2018-11-10/2018-11-11 |
+| Match Week 2 | 2018-11-17/2018-11-18 |
+| Match Week 3 | 2018-11-24/2018-11-25 |
+| Match Week 4 | 2018-12-01/2018-12-02 |
+| Match Week 5 | 2018-12-08/2018-12-09 |
+| Match Week 6 | 2018-12-15/2018-12-16 |
 
 **Note**: Registrations may prematurely end when there are a sufficient number of registrants. The full schedule will be revealed before registrations close.
 
 ## Prizes
 
-To be determined by the staff.
+*To be determined by the staff.*
 
-## Organization
+## Organisation
 
-| Position | Member |
-| ------------ | -------------- |
-| Executive Committee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103)  (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
+| Position | Member(s) |
+| :-- | :-- |
+| Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103)  (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
 | Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Map Selectors (osu!taiko) | List to be finalized. |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](http://osu.ppy.sh/users/7483452) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
-| Match Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [-MomoX](http://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [-MomoX](http://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) |
 | Commentators | List to be finalized. |
 | Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
@@ -56,19 +54,19 @@ To be determined by the staff.
 
 ## Participants
 
-Qualified participants will be added in this section.
+*Qualified participants will be added in this section.*
 
 ------------------------
 
 ## Mappools
 
-Mappools will be revealed one week in advance of each stage.
+*Mappools will be revealed one week in advance of each stage.*
 
 ------------------------
 
 ## Match Results
 
-All match results will be added in this section.
+*All match results will be added in this section.*
 
 ------------------------
 
@@ -267,8 +265,7 @@ All match results will be added in this section.
 
 ### Updates and Concerns
 
-- Most of the major updates regarding the tournament will be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
-
+- Most of the major updates regarding the tournament will be posted on the discussion thread. All concerns and questions regarding the tournament may be posted on the thread, or via the osu!Philippines Facebook Group.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
