@@ -27,9 +27,10 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 
 - **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
 - **Stream:** Consecutive circles grouped together. Usually snapped to 1/4 beats.
-- **Stack:** Two or more hit objects placed in the same spot on the grid.
-- **Stack leniency:** A setting used to determine if hit objects stack or directly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
+- **Stack:** Two or more hit objects in the same grid location whose placements are automatically offset.
+- **Stack leniency:** A setting used to determine if hit objects stack or perfectly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
+- **Perfect overlap:** Hit objects in the same grid location that do not stack.
 - **Snapping:** Timeline tick where an object is placed.
 - **Slider head/tail:** The start/end positions of a slider.
 - **Slider border:** Visible outline of a slider's path. When this is distorted through overlaps, sliders can become harder to read.
@@ -78,7 +79,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Avoid using similar combo colours in successive combos.** Players should be able to differentiate between different combos in a beatmap.
 -   **Spinner ends, slider ends, and slider reverses should have hit sound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 -   **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
--   **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
+-   **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 

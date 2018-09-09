@@ -133,7 +133,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 
 ### Guidelines
 
--   **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as lone difficulties of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
+-   **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
 -   **Avoid incomprehensible username combinations to indicate possession of a collaborative guest difficulty.** If it’s unclear whose usernames are combined, simplification is recommended.
 -   **Avoid difficulty names with descriptive elements not clearly related to a guest difficulty creator or a level of difficulty.** (e.g. Beatmap Creator’s Tragic Love Extra)
 -   **Usernames indicating possession of a guest difficulty should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
@@ -269,7 +269,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 
 ### Guidelines
 
--   **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, however more than that should not be necessary. 
+-   **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, but more than that should not be necessary. 
 -   **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
 -   **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the beatmap.** Test play the beatmap during the modding process to confirm this.
 -   **Refrain from usage of storyboard sound samples in ways that are easily confused with hit sounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
