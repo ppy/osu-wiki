@@ -1,51 +1,58 @@
+---
+tags:
+- CMT 4K 2018
+- CMT4K 2018
+---
 # Chinese osu!mania 4K Tournament 2018
 
-![CMT 4K 2018](img/banner.jpg)
+![CMT 4K 2018 Logo](img/logo.jpg)
 
 The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
-## Schedule
+## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-09-10/2018-09-29 |
 | Qualification Stage | 2018-10-06/2018-10-07 |
-| Drawings | 2018-10-07 (20:00 UTC+8) |
+| Drawings | 2018-10-07 (20:00 UTC+08) |
 | Group Stage | 2018-10-13/2018-10-14 |
 | Round of 16 | 2018-10-20/2018-10-21 |
-| Round of 8 | 2018-10-27/2018-10-28 |
+| Quarterfinals | 2018-10-27/2018-10-28 |
 | Semifinals | 2018-11-03/2018-11-04 |
 | Finals - Week 1 | 2018-11-10/2018-11-11 |
 | Finals - Week 2 | 2018-11-17/2018-11-18 |
 
 ## Prizes
 
-All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/GCrown.png) | 8 months of osu!supporter tag, unique userpage badge |
+| ![](/wiki/shared/GCrown.png) | 8 months of osu!supporter tag, unique profile badge |
 | ![](/wiki/shared/SCrown.png) | 4 months of osu!supporter tag |
 | ![](/wiki/shared/BCrown.png) | 2 months of osu!supporter tag |
 
-## Staff
+All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
 
-| Team | Staff |
+## Organisation
+
+The Chinese osu!mania 4K Tournament 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+
+| Team | Member(s) |
 | --: | :-- |
-| Tournament managers | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
+| Management and Organisation | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
 | Coordinator | ![][CN] [SSV Normandy](/users/6475977) |
-| Map selectors | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| Streamers and referees | ![][CN] [aiyulu](/users/189617), ![][CN] [Rasis](/users/1209363), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
+| Map Selectors | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
+| Streamers and Referees | ![][CN] [aiyulu](/users/189617), ![][CN] [Rasis](/users/1209363), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
 | Commentators | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][CN] [Rasis](/users/1209363), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083) |
-| Wiki maintenance | ![][CN] [kj415j45](/users/9367540) |
+| Wiki | ![][CN] [kj415j45](/users/9367540) |
 
 ## Links
 
-- [Forum topic](/community/forums/topics/800125)
+- [Discussion thread](/community/forums/topics/800125)
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Back up).   
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
 ## Ruleset
@@ -80,7 +87,7 @@ All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
 
 1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
 2. Only these players are eligible to sign up:
-     - The registered region belongs to the Asian-Pacific region.
+     - Player's nationality belongs to the Asian-Pacific region.
      - Use Chinese as the primary language.
      - No requirement on performance points.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
@@ -158,10 +165,9 @@ All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
      - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 5. Request of rematch from forfeited player(s) will not be accepted.
 
-
 [CN]: /wiki/shared/flag/CN.gif "China"
-[US]: /wiki/shared/flag/US.gif "America"
-[UK]: /wiki/shared/flag/GB.gif "Great Britain"
+[US]: /wiki/shared/flag/US.gif "United States"
+[UK]: /wiki/shared/flag/GB.gif "United Kingdom"
 [TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [AU]: /wiki/shared/flag/AU.gif "Australia"
