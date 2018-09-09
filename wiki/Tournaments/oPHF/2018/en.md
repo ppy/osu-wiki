@@ -98,7 +98,7 @@ All match results will be added in this section.
 	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
 	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
 	- **DT (Double Time)** - The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-	- **FreeMod** – Both contestants must use at least ONE mod if the map chosen falls into the FreeMod (bar DT) category of the mappool.
+	- **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 	
 #### osu!taiko
 
@@ -117,6 +117,9 @@ All match results will be added in this section.
 	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
 	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
 	- **DT (Double Time)** – The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+	- **EZ (Easy)** - The Easy mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+	- **FL (Flashlight)** - The Flashlight mod will be used by both participants if the map chosen falls into the Flashlight category of the mappool.
+	- **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 - The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
