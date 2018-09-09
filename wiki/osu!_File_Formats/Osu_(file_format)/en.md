@@ -40,7 +40,7 @@ PreviewTime (Integer, milliseconds) defines when the audio file should begin pla
 
 `PreviewTime: 10013`
 
-Countdown (Boolean) specifies whether or not a countdown occurs before the first hit object appears.
+Countdown (Integer) specifies the speed of the countdown which occurs before the first hit object appears. (0=No countdown, 1=Normal, 2=Half, 3=Double)
 
 `Countdown: 0`
 
@@ -60,21 +60,29 @@ LetterboxInBreaks (Boolean) specifies whether the letterbox appears during break
 
 `LetterboxInBreaks: 0`
 
-WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
-
-`WidescreenStoryboard: 0`
-
 StoryFireInFront (Boolean) specifies whether or not display the storyboard in front of combo fire.
 
 `StoryFireInFront: 0`
 
-SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
+SkinPreference (String) specifies the preferred skin to use during gameplay.
 
-`SpecialStyle: 0`
+`SkinPreference:Default`
 
 EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning of the beatmap.
 
 `EpilepsyWarning: 0`
+
+CountdownOffset (Boolean) specifies how many beats earlier the countdown starts.
+
+`CountdownOffset: 0`
+
+WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
+
+`WidescreenStoryboard: 0`
+
+SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
+
+`SpecialStyle: 0`
 
 UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's skin resources.
 
