@@ -7,7 +7,7 @@ tags:
 
 ![CFC 3 Logo](img/logo.png)
 
-The **Catch French Cup 3 (***CFC 3***)** is a one-on-one french osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
+The **Catch French Cup 3 (***CFC 3***)** is a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -177,10 +177,10 @@ The Catch French Cup 3 is run by various community members.
 ### General Rules
 
 1. The tournament will be held in 1v1 double elimination format with traditional seeding.
-2. The tournament will be held over 5 weekends. The matches will be played under **Score V1** and **Head to Head** settings.
+2. The tournament will be held over 7 weekends. The matches will be played under **Score V2** and **Head to Head** settings.
 3. A referee will be present in every match.
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
-5. First weekend matches will be best-of-7, second weekend matches best-of-9, third weekend matches are best-of-11, and finally fourth and fifth weekend matches will be best-of-13. 
+5. First and second weekend matches will be best-of-5, third weekend matches best-of-7, forth weekend matches are best-of-9, fifth weekend matches are best-of-11, and finally sixth and seventh weekend matches will be best-of-13. 
 
 ### Match Instructions
 

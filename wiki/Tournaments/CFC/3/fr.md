@@ -7,7 +7,7 @@ tags:
 
 ![CFC 3 Logo](img/logo.png)
 
-The **Catch French Cup 3 (***CFC 3***)** is a one-on-one french osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
+La **Catch French Cup 3 (***CFC 3***)** est un tournoi osu!catch français en 1v1 host par ![][flag_FR] [Kasumii-sama](/users/6177263). Ceci est la 3ème édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -15,7 +15,7 @@ The **Catch French Cup 3 (***CFC 3***)** is a one-on-one french osu!catch tourna
 | --: | :-- |
 | Phase d'inscription | 2018-08-15/2018-09-02 |
 | Tirage au sort en direct | 2018-09-01 (19:00 UTC) |
-| Group Stage | 2018-09-08/2018-09-16 |
+| Phase de poules | 2018-09-08/2018-09-16 |
 | 16èmes de finale | 2018-09-22/2018-09-23 |
 | Quarts-de-finale | 2018-09-29/2018-09-30 |
 | Demi-finales | 2018-10-08/2018-10-09 |
@@ -26,10 +26,10 @@ The **Catch French Cup 3 (***CFC 3***)** is a one-on-one french osu!catch tourna
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | 10 months of osu!supporter tag, unique profile badge |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 6 months of osu!supporter tag |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | 10 mois de supporter, badge sur le profil. |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 6 mois de supporter |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 4 mois de supporter |
+| *4ème place* | 2 mois de supporter |
 
 ## Organisation
 
@@ -56,7 +56,7 @@ Le Catch French Cup 3 est géré par divers membres de la communauté.
 
 -----------------------
 
-## Planning des matches: 16èmes de finale
+## Planning des matches: Phase de poules
 
 ### Samedi, 8 Septembre 2018
 
@@ -149,7 +149,7 @@ Le Catch French Cup 3 est géré par divers membres de la communauté.
 
 ## Liste des maps
 
-### Group Stage
+### Phase de poules
 
 **[Télécharge le mappack ici! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
 
@@ -174,23 +174,23 @@ Le Catch French Cup 3 est géré par divers membres de la communauté.
 
 ## Règlement
 
-### General Rules
+### Règles Générales
 
-1. The tournament will be held in 1v1 double elimination format with traditional seeding.
-2. The tournament will be held over 5 weekends. The matches will be played under **Score V1** and **Head to Head** settings.
-3. A referee will be present in every match.
-4. Joining the Discord server is mandatory at least for the duration of the tournament.
-5. First weekend matches will be best-of-7, second weekend matches best-of-9, third weekend matches are best-of-11, and finally fourth and fifth weekend matches will be best-of-13. 
+1. Le tournoi prendra place dans un format de 1v1 double élimination avec un seeding traditionnel.
+2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **Score V2** et **Head to Head**.
+3. Un arbitre sera présent pour chaque match.
+4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
+5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.
 
-### Match Instructions
+### Instructions durant les matchs: 
 
-1. The referee will create the room and invite the players in.
-2. The players will roll to determine the order of picking warmups and beatmaps.
-3. The higher roller will pick the first warmup beatmap.
-4. The lower roller will ban first, the higher roller will pick first.
-   - FreeMod is forced mod, meaning every player has to use at least one mod.
-   - Tiebreaker is not forced mod but you may choose a mod.
-   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
+1. L'arbitre créera la salle et invitera les joueurs.
+2. Les joueurs vont roll pour déterminer l'ordre pour choisir les warmups et les beatmaps.
+3. Le plus haut roll pickera la première beatmap pour le warmup.
+4. Le plus bas roll va ban en premier, le plus haut roll va pick en premier.
+   - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
+   - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
+   - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
 
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
