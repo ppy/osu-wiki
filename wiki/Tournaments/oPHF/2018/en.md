@@ -9,7 +9,7 @@ tags:
 
 > It's now time for some Holiday cheer!
 
-The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!taiko, osu!catch, and the osu!mania game modes. This tournament aims to provide up and coming players a competitive environment where they have a chance at glory themselves. It is the 2nd iteration of the osu!Philippines Holiday Friendlies.
+The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restricted, semi-open tournament series for the osu!standard, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aims to provide up and coming players a competitive environment where they have a chance to glory themselves. It is the 2nd installment of the osu!Philippines Holiday Friendlies.
 
 ## Tournament Schedule
 
@@ -73,9 +73,11 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 ## Rules
 
 ### Game Modes and Scoring Format
+
 - The tournament will host the following game modes: osu!standard, osu!taiko, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
 
 ### Tournament Formats
+
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
 - The **osu!taiko** division will be subjected to a **single elimination** bracket. Seeding for this division will be based on Performance Points as of 2018-11-03 (18:00 UTC+8).
 - The **osu!catch** division will adopt a Qualifier Round (explained below) and will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on qualifier results.
@@ -84,6 +86,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 ### Mods Used in the Tournament
 
 #### osu!standard
+
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
   - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
@@ -92,6 +95,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
   - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 	
 #### osu!taiko
+
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
   - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
@@ -99,6 +103,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
   - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 	
 #### osu!catch
+
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
   - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
@@ -115,18 +120,20 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 ### Eligibility and Registration
 
 #### General Qualifications
+
 - Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted.
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney.
 - Thirty-two (32) slots are initially opened for each tournament during the registration period. Players are required to sign a registration form to be accepted in the shortlist, and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the five tournaments.
 - **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**.
 
 #### Restrictions for osu!standard
+
 - Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
 
 - Players not allowed to join the osu!standard tournament are allowed to join the other four tournaments as they see fit.
 
-
 #### Restrictions for osu!mania 4K
+
 - 4K Division Quarterfinalists of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the 4K tournament.
 - Members (former and current) of the Philippine Team on the osu!mania 4K World Cup are not allowed to join the 4K Tournament.
 - Players not allowed to join the osu!mania 4K tournament are allowed to join the other four tournaments as they see fit.
@@ -134,6 +141,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 ### Qualifier Round
 
 #### osu!standard
+
 - All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
@@ -141,6 +149,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 #### osu!catch
+
 - All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to sixteen (16) players. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 5 maps twice in a multiplayer room. This mini-pool consists of two NoMod maps, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHST18: (Catch Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
@@ -148,6 +157,7 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 #### osu!mania 4K and 7K
+
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to sixteen (16) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHF18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
@@ -158,18 +168,22 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 ### Match Proper
 
 #### Preparation
+
 - The referees will prepare the match room ten (10) minutes prior to the match schedule. It is the referee's obligation to inform the players about this and be invited to the room. If the player does not respond within this time period, the player is forcibly moved at the actual match schedule.
 - The room name format for the three tournaments is: ``oPHF18: (Player 1) vs (Player 2)``
 - Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner.
 - It is asked of the players to allow non-friend PM's in order for the invites to arrive.
 
 #### Warm-up Phase
+
 - Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) will be disallowed.
 
 #### Bans and Picks
+
 - After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
 #### Match Format
+
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
   - Match Weeks 1 and 2 - Best-of-9 (First to 5)
   - Match Week 3 - Best-of-11 (First to 6)
@@ -181,15 +195,18 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.
 
 #### Mappools and their Construction
+
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu!standard and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 - For osu!mania 4K and 7K, the mappool is made to accomodate enough for a double match point, one ban per player, an ignored pick, and the tiebreaker.
 - The Loser's Bracket Finals will be played using the Finals Week 2 mappool of the respective game modes.
 
 ### Rescheduling
+
 - Players are allowed to reschedule their matches as long as their opponent have a mutual agreement on this arrangement, and is **made before the Thursday prior to the match**. This is for the staff to be able to adjust their general schedules for the round, including the streams. If the arrangement is made after the set deadline, the match will still be rescheduled, but there is no assurance that it will be streamed.
 - For reschedules made after the deadline, the staff will only consider this if given a valid reason (academics, sickness, family matters) with proof.
 
 ### Disconnections
+
 - In case disconnections happen during a match, the following guidelines are given:
   - If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and will be repeated once the player re-enters, or gets moved into the room.
   - If the player disconnects within 30 seconds of the drain time of the pick, the play will continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard.
@@ -200,17 +217,21 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
   - Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot.
 
 ### Player and Staff Conduct
+
 - Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament.
 
 #### Match Conduct
+
 - The Players and staff are expected to adhere to the Rules and Regulations of the osu! Community. If the player's behavior during the match is not tolerable anymore, the staff has the decision whether to terminate the match and freeze at current score, disqualify the player from the match, or disqualify the player in the tournament as a whole. The staff also have the discretion to change the referee of the match, or kick him/her out of the staff based on the same grounds.
 
 #### Overall Conduct
+
 - The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player will be deemed disqualified from the tournament as a whole, and the tournament rankings will be adjusted accordingly.
 - If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service.
 - In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default.
 
 ### Updates and Concerns
+
 - Most of the major updates regarding the tournament will be posted on the discussion thread. All concerns and questions regarding the tournament may be posted on the thread, or via the osu!Philippines Facebook Group.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
