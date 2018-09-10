@@ -1,6 +1,7 @@
 ---
 tags:
 - Catch French Cup 3
+- CFC 3
 - CFC3
 ---
 # Catch French Cup 3
