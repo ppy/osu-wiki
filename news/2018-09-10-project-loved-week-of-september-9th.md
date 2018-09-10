@@ -10,13 +10,13 @@ date: 2018-09-10 05:00:00 +0000
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to their voting threads.
 
-osu!taiko returns this week from its break, and the team will be selecting four maps per round from now on. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)!
+osu!taiko returns this week from its break, and the team will be selecting four maps per round. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)!
 
-As a sort of experiment this week, [Toy](https://osu.ppy.sh/users/2757689) decided to crank up the threshold for osu!standard to 90%. This will hopefully draw a finer line between maps that deserve to be moved to Loved and those that have just gained some momentary fame from a community influencer. If this proves to work out, we'll just stick with 90% for osu!standard going forward.
+As a sort of experiment this week, [Toy](https://osu.ppy.sh/users/2757689) decided to crank up the threshold for osu!standard from 80% to 90%. This will hopefully draw a finer line between maps that deserve to be moved to Loved and those that have just gained some momentary fame from a community influencer. If this proves to work out, we'll just stick with 90% for osu!standard going forward.
 
 Just some minor updates this week, folks!
 
-In case if you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
 ### Navigation
 
