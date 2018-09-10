@@ -55,33 +55,29 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 8 September 2018
-
-| Bracket | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| Lower | Taco Monsters | Press F for Ayachi | **00:00** |
-| Upper | MIStaikon | not a taiko team xd | **10:00** |
-| Lower | Magnolia | Tai-KO | **11:00** |
-| Upper | TaikOwO | I like grosses baguettes | **12:00** |
-| Lower | BabySnakes is Dumb | E=mc^2 | **14:00** |
-| Upper | Barely Legal | Pißwasser | **15:00** |
-| Lower | :) | DON'T KAT | **16:00** |
-
-### Sunday, 9 September 2018
+### Saturday, 15 September 2018
 
 | Bracket | Team A | Team B | Match Time (UTC) |
 | :-: | --: | :-- | :-: |
-| Upper | Foda-se | Ooyama Shota | **00:00** |
-| Upper | Nihongo Wakaranai | Samurai Pizza Cats | **03:30** |
-| Upper | Low Accuracy SS | pneumonoultramicroscopicsilicovolcanoconiosis | **06:30** |
-| Lower | Taiko Time | aあاㄚɐაಅअ@ᵃ아 | **10:00** |
-| Lower | hello we play taiko | Team Seven | **11:00** |
-| Upper | jakpat | 69% acc | **13:00** |
-| Lower | Fun Assurance Team | ERROR 404: Team Name Not Found | **14:00** |
-| Upper | Hentaiko | ♂ Drum ♂ Spanking ♂ Festival ♂ | **16:00** |
-| Lower | The Tasuke Train | Team 7 | **17:00** |
+| Lower | 69% acc | Press F for Ayachi | **01:00** |
+| Lower | TaikOwO | DON'T KAT | **02:00** |
+| Lower | Ooyama Shota | BabySnakes is Dumb | **06:00** |
+| Lower | Nihongo Wakaranai | Magnolia | **08:00** |
+| Lower | Low Accuracy SS | The Tasuke Train | **11:00** |
+| Lower | Hentaiko | aあاㄚɐაಅअ@ᵃ아 | **12:00** |
+| Lower | Barely Legal | hello we play taiko | **14:00** |
+| Lower | not a taiko team xd | Fun Assurance Team | **17:00** |
+
+### Sunday, 16 September 2018
+
+| Bracket | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| Upper | jakpat | ♂ Drum ♂ Spanking ♂ Festival ♂ | **13:00** |
+| Upper | pneumonoultramicroscopicsilicovolcanoconiosis | Samurai Pizza Cats | **13:30** |
+| Upper | i like grosses baguettes | Foda-se | **15:00** |
+| Upper | MIStaikon | Pißwasser | **16:00**
 
 -----------------------
 
@@ -200,13 +196,37 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 ## Match Results
 
+### Round of 16
+
+| Saturday, 2018-08-08 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](/community/matches/45781089) |
+| **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](/community/matches/45791945) |
+| TaikOwO | 3 | **5** | **i like grosses baguettes** | [#1](/community/matches/45794610) |
+| Barely Legal | 4 | **5** | **Pißwasser** | [#1](/community/matches/45800048) |
+| **Foda-se** | **5** | 2 | Ooyama Shota | [#1](/community/matches/45800293) |
+
+| Sunday, 2018-08-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| :) | 0 | **5** | **DON'T KAT** | -win by default- |
+| Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45827234) |
+| Taiko Time | 3 | **5** | **aあاㄚɐაಅअ@ᵃ아** | [#1](/community/matches/45828648) |
+| Hentaiko | 1 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45830995) |
+| **Magnolia** | **5** | 4 | Tai-KO | [#1](/community/matches/45832984) |
+| **hello we play taiko** | **5** | 4 | Team Seven | [#1](/community/matches/45833083) |
+| **jakpat** | **5** | 0 | 69% acc | [#1](/community/matches/45833075) |
+| **BabySnakes is Dumb** | **5** | 3 | [#1](/community/matches/45834255) |
+| **Fun Assurance Team** | **5** | 1 | ERROR 404: Team Name Not Found | [#1](/community/matches/45834432) |
+| TaikOwO | 0 | **5** | **pneumonoultramicroscopicsilicovolcanoconiosis** | -win by default- |
+| **The Tasuke Train** | **5** | 0 | Team 7 | -win by default- |
+
 ### Round of 32
 
-| Friday, 2018-07-31 |  |  |  |  | 
+| Friday, 2018-08-31 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](/community/matches/45591544) |
 
-| Saturday, 2018-08-01 |  |  |  |  | 
+| Saturday, 2018-09-01 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | Magnolia | 2 | **5** | **MIStaikon** | [#1](/community/matches/45603361) |
 | ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45606910) |
@@ -215,7 +235,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 | DON'T KAT | 2 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45611363) |
 | :) | 0 | **5** | **Hentaiko** | [#1](/community/matches/45613117) |
 
-| Sunday, 2018-08-02 |  |  |  |  | 
+| Sunday, 2018-09-02 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](/community/matches/45627499) |
 | Taco Monsters | 0 | **5** | **Foda-se** | [#1](/community/matches/45627625) |
