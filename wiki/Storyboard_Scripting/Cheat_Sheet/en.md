@@ -41,10 +41,10 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 **layer**:
 
--   Background
--   Fail
--   Pass
--   Foreground
+-   0 - Background
+-   1 - Fail
+-   2 - Pass
+-   3 - Foreground
 
 *Note: Background and Foreground are always visible.*
 
