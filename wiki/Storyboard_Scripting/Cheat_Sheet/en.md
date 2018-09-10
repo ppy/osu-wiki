@@ -50,15 +50,16 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 **origin**:
 
--   TopLeft
--   TopCentre
--   TopRight
--   CentreLeft
--   Centre
--   CentreRight
--   BottomLeft
--   BottomCentre
--   BottomRight
+-   0 - TopLeft
+-   1 - Centre
+-   2 - CentreLeft
+-   3 - TopRight
+-   4 - BottomCentre
+-   5 - TopCentre
+-   6 - Custom (Same as TopLeft)
+-   7 - CentreRight
+-   8 - BottomLeft
+-   9 - BottomRight
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
