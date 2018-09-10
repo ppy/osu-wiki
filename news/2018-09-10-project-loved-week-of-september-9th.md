@@ -123,7 +123,7 @@ Over 60 difficulties and a clear cry for help, PEPPY FIX TAIKO STAR RATING PLEAS
 
 [Qoiet - Shunyata](https://osu.ppy.sh/beatmapsets/667033) by [tasuke912](https://osu.ppy.sh/users/2774767)
 
-A piece of osu!taiko World Cup lore, this is "Shunyata" by tasuke912. However, some of you may know it as "Out Now on Crowsnest", which was actually a pretty cute metadata error by tasuke caused by the title of the post he got the song from specifying that it was being released on a music service called "Crowsnest". This all contributes to a pretty memorable map that was featured in this year's TWC as a Hidden pick for the finals, and if you've seen the map, you'll know it features very intense slow sections that are extremely complex. This map works well as a companion piece with tasuke's already Loved map, "Primula", as they are both very complex and interestingly structured maps!
+A piece of osu!taiko World Cup lore, this is "Shunyata" by tasuke912. However, some of you may know it as "Out Now on Crowsnest", which was actually a pretty cute metadata error by tasuke caused by the title of the post he got the song from specifying that it was being released on a music service called "Crowsnest". This all contributes to a pretty memorable map that was featured in this year's TWC as a NoMod pick for the finals, and if you've seen the map, you'll know it features very intense slow sections that are extremely complex. This map works well as a companion piece with tasuke's already Loved map, "Primula", as they are both very complex and interestingly structured maps!
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/taiko/hug-and-kill.jpg)](https://osu.ppy.sh/community/forums/topics/801933)
 
