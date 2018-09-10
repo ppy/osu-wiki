@@ -24,16 +24,16 @@ Where:
     -   Pass
     -   Foreground
 -   **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviors. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
-    -   TopLeft
-    -   Centre
-    -   CentreLeft
-    -   TopRight
-    -   BottomCentre
-    -   TopCentre
-    -   Custom (Same as TopLeft)
-    -   CentreRight
-    -   BottomLeft
-    -   BottomRight
+    -   0 - TopLeft
+    -   1 - Centre
+    -   2 - CentreLeft
+    -   3 - TopRight
+    -   4 - BottomCentre
+    -   5 - TopCentre
+    -   6 - Custom (Same as TopLeft)
+    -   7 - CentreRight
+    -   8 - BottomLeft
+    -   9 - BottomRight
 -   **(filepath)** is, in laymans terms, the **filename of the image you want.** But it's not always quite that simple:
     -   If you have a subfolder inside your Song Folder, you need to include that, as well.
         -   Example: "backgrounds/sky.jpg" if you have a subfolder called "backgrounds" with an image called "sky.jpg" in it. Start listing directories only from the Song Folder, where the .osu or .osb file is (i.e., a relative filepath). It should not have something like "C:" anywhere in it.
