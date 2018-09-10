@@ -7,7 +7,7 @@ tags:
 
 ![CFC 3 Logo](img/logo.png)
 
-The **Catch French Cup 3 (***CFC 3***)** is a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
+The **Catch French Cup 3** (***CFC 3***) is a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -33,7 +33,7 @@ The **Catch French Cup 3 (***CFC 3***)** is a one-on-one French osu!catch tourna
 
 ## Organisation
 
-The Catch French Cup 3 is run by various community members.
+The Catch French Cup 3 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -190,7 +190,7 @@ The Catch French Cup 3 is run by various community members.
 4. The lower roller will ban first, the higher roller will pick first.
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
-   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
+   - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

@@ -7,7 +7,7 @@ tags:
 
 ![CFC 3 Logo](img/logo.png)
 
-La **Catch French Cup 3 (***CFC 3***)** est un tournoi osu!catch français en 1v1 host par ![][flag_FR] [Kasumii-sama](/users/6177263). Ceci est la 3ème édition de la Catch French Cup.
+La **Catch French Cup 3** (***CFC 3***) est un tournoi osu!catch français en 1v1 host par ![][flag_FR] [Kasumii-sama](/users/6177263). Ceci est la 3ème édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -33,7 +33,7 @@ La **Catch French Cup 3 (***CFC 3***)** est un tournoi osu!catch français en 1v
 
 ## Organisation
 
-Le Catch French Cup 3 est géré par divers membres de la communauté.
+La Catch French Cup 3 est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
 
 | Poste | Membre(s) |
 | :-- | :-- |
