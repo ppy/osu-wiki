@@ -123,6 +123,9 @@ The **osu!Philippines Holiday Friendlies 2018** is a semi-restricted, semi-open 
 #### Restrictions for osu!standard
 - Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
 
+- Players not allowed to join the osu!standard tournament are allowed to join the other four tournaments as they see fit.
+
+
 #### Restrictions for osu!mania 4K
 - 4K Division Quarterfinalists of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the 4K tournament.
 - Members (former and current) of the Philippine Team on the osu!mania 4K World Cup are not allowed to join the 4K Tournament.
