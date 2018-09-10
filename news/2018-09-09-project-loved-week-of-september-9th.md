@@ -12,7 +12,7 @@ Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every 
 
 osu!taiko returns this week from its break, and the team will be selecting four maps per round from now on. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)!
 
-As a sort of experiment this week, [Toy](https://osu.ppy.sh/users/2757689) decided to crank up the threshold for osu!standard to 90%. This will hopefully draw a finer line between maps that deserve to be moved to Loved and those that have just gained some momentary fame from a community influencer. If this proves to work out, we'll just stick with 90% going forward.
+As a sort of experiment this week, [Toy](https://osu.ppy.sh/users/2757689) decided to crank up the threshold for osu!standard to 90%. This will hopefully draw a finer line between maps that deserve to be moved to Loved and those that have just gained some momentary fame from a community influencer. If this proves to work out, we'll just stick with 90% for osu!standard going forward.
 
 Just some minor updates this week, folks!
 
@@ -27,7 +27,7 @@ In case if you don't read the end of this post, be sure to submit suggestions fo
 
 ## <a name="osu" id="osu"></a>osu!
 
-osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689)!
+osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
 
 ---
 
@@ -50,7 +50,7 @@ This song, Forward, definitely has a jumpy feel to it. Evgerable captured this f
 [DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/425169) by [val0108](https://osu.ppy.sh/users/243917), [Kenterz](https://osu.ppy.sh/users/1587976), [z1085684963](https://osu.ppy.sh/users/1816779) and [caren\_sk](https://osu.ppy.sh/users/542498)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-A song popularized by a few other mapsets in the Ranked and Loved categories, val0108's mapset of Ghost Rule with 4 different difficulties from 4 different mappers—Kenterz, val0108, z1085684963 and caren\_sk—does a great job capturing the song in styles that aren't offered by the other sets. It certainly shows, too: the mapset has over 190 favorites, and that number is sure to increase. Whether you're a fan of unconventional flow or large, flowy, full screen jumps, this mapset has something for you.
+A song popularized by a few other mapsets in the Ranked and Loved categories, this mapset of Ghost Rule with four different difficulties from four different mappers—Kenterz, val0108, z1085684963 and caren\_sk—does a great job capturing the song in styles that aren't offered by the other sets. It certainly shows, too: the mapset has over 190 favorites, and that number is sure to increase. Whether you're a fan of unconventional flow or large, flowy, full screen jumps, this mapset has something for you.
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/calling-out-feat-kg-skyelle-205.jpg)](https://osu.ppy.sh/community/forums/topics/801920)
 
@@ -92,7 +92,7 @@ If you've been a fan of the harsher jump maps that have been included in the Lov
 [Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX)](https://osu.ppy.sh/beatmapsets/782508) by [Mismagius](https://osu.ppy.sh/users/19048)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-**Can you please play Big Black?**. These words have haunted popular players for six long years, and now Mismagius has finally brought us a glimpse of what could be Big Black 2. It's rougher, meaner, and overall a hell of a lot less forgiving. The slider jumps are quicker, the streams are more spaced, the buzz sliders are faster so for those of you who wished The Big Black could have offered a bit more of a challenge, you'll find exactly what you're looking for here.
+**Can you please play The Big Black?**. These words have haunted popular players for six long years, and now Mismagius has finally brought us a glimpse of what could be The Big Black 2. It's rougher, meaner, and overall a hell of a lot less forgiving. The slider jumps are quicker, the streams are more spaced, the buzz sliders are faster so for those of you who wished The Big Black could have offered a bit more of a challenge, you'll find exactly what you're looking for here.
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/rtcmon.jpg)](https://osu.ppy.sh/community/forums/topics/801926)
 
