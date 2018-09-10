@@ -222,7 +222,7 @@ _R,0,47210,47810,0,-25.133
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
+| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal (byte). The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:
 
