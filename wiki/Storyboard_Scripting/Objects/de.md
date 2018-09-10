@@ -14,7 +14,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 | ----------- | ------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
--   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboard_Scripting/General_Rules) auf denen Objekte erscheinen.** Erlaubte Werte sind:
+-   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboard_Scripting/General_Rules#ebenen) auf denen Objekte erscheinen.** Erlaubte Werte sind:
     -   Background
     -   Fail
     -   Pass

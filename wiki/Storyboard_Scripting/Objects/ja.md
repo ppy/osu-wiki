@@ -18,7 +18,7 @@ SB オブジェクト/スプライト
 
 Where:
 
--   **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboard_Scripting/General_Rules)。** 有効な値は以下のとおりです:
+-   **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboard_Scripting/General_Rules#%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC)。** 有効な値は以下のとおりです:
     -   Background
     -   Fail
     -   Pass
