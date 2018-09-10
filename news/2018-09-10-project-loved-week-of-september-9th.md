@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of September 9th"
-date: 2018-09-09 21:00:00 +0000
+date: 2018-09-10 05:00:00 +0000
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) returns again with picks in all four modes! Come check out the set, and vote for your favourites!
