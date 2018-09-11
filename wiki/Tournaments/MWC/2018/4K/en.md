@@ -116,7 +116,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 	- [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](http://osu.ppy.sh/b/1770185&m=3)
 	- [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](http://osu.ppy.sh/b/1770141&m=3)
 - Tiebreaker
-	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]]**
+	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]](https://osu.ppy.sh/b/1480322)**
 
 ### Round of 16
 
