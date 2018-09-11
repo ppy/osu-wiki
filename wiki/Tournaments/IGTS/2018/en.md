@@ -50,12 +50,11 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 - [Discussion thread](/community/forums/topics/767841)
 - [IGTS Discord server](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/igtsosu)
-- [Challonge brackets](https://challonge.com/u85xl34m)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
 
 -----------------------
 
-## Match Schedule: Finals - Week 1
+## Match Schedule: Grand Finals
 
 ### Saturday, 15 September 2018
 
@@ -67,8 +66,8 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #2a | Netherlands ![][flag_NL] | ![][flag_MY] Malaysia | **13:00** | ¹ |
-| #2b | Netherlands ![][flag_NL] | ![][flag_US] United States | **18:00** | ¹ |
+| #2a | Netherlands | ![][flag_NL] | ![][flag_MY] | Malaysia | **13:00** | ¹ |
+| #2b | Netherlands | ![][flag_NL] | ![][flag_US] | United States | **18:00** | ¹ |
 
 ¹ Encounter dependent on winners of Match #1
 
