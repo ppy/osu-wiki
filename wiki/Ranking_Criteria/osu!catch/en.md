@@ -61,6 +61,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 - **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
 - **Avoid using combo colours with ~220 luminosity or higher.** They create bright pulses during Kiai time which can be unpleasant to the eyes.
+- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 
