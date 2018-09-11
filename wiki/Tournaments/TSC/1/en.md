@@ -233,7 +233,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 ### Round of 16
 
-| Saturday, 2018-08-08 |  |  |  |  | 
+| Saturday, 2018-09-08 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](/community/matches/45781089) |
 | **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](/community/matches/45791945) |
@@ -241,7 +241,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 | Barely Legal | 4 | **5** | **Pißwasser** | [#1](/community/matches/45800048) |
 | **Foda-se** | **5** | 2 | Ooyama Shota | [#1](/community/matches/45800293) |
 
-| Sunday, 2018-08-09 |  |  |  |  | 
+| Sunday, 2018-09-09 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | :) | 0 | **5** | **DON'T KAT** | -win by default- |
 | Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45827234) |
