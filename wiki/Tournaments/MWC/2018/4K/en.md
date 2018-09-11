@@ -62,7 +62,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_AU] | **Australia** | **[Lusty Platypus](https://osu.ppy.sh/users/2956184)**, [Spartan-](https://osu.ppy.sh/users/2145124), [Rek](https://osu.ppy.sh/users/4018184), [PotassiumF](https://osu.ppy.sh/users/4247722), [AngeLItchysick](https://osu.ppy.sh/users/9527845), [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [andreymc](https://osu.ppy.sh/users/5691061), [Shedin](https://osu.ppy.sh/users/4794096), [Lazarento](https://osu.ppy.sh/users/3224958) |
 | ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/users/2747704)**, [CommandoBlack](https://osu.ppy.sh/users/7025841), [Piggy](https://osu.ppy.sh/users/5390121), [beary605](https://osu.ppy.sh/users/2198070), [Freeflow](https://osu.ppy.sh/users/2777647), [Kiyora](https://osu.ppy.sh/users/9675053) |
-| ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/users/5281416)**, [Skalim](https://osu.ppy.sh/users/2225008), [Sophti](https://osu.ppy.sh/users/469808), [sebaex](https://osu.ppy.sh/users/4686036), [Arkener](https://osu.ppy.sh/users/4116072), [Raizenn](https://osu.ppy.sh/users/4531184) |
+| ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/users/5281416)**, [Skalim](https://osu.ppy.sh/users/2225008), [Urusai](https://osu.ppy.sh/users/469808), [sebaex](https://osu.ppy.sh/users/4686036), [Arkener](https://osu.ppy.sh/users/4116072), [Raizenn](https://osu.ppy.sh/users/4531184) |
 | ![][flag_CN] | **China** | **[ZhangFan](https://osu.ppy.sh/users/89545)**, [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250), [\[Crz\]Hina](https://osu.ppy.sh/users/7961511), [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Wilben_Chan](https://osu.ppy.sh/users/6659363), [\[Crz\]Lucifer](https://osu.ppy.sh/users/5270332) |
 | ![][flag_DK] | **Denmark** | **[Jole](https://osu.ppy.sh/users/2883132)**, [FreakyHands](https://osu.ppy.sh/users/5001658), [mart732c](https://osu.ppy.sh/users/4402263), [tailsdk](https://osu.ppy.sh/users/6751666), [Kainura](https://osu.ppy.sh/users/5352616), [zyglrox](https://osu.ppy.sh/users/8969233) |
 | ![][flag_FI] | **Finland** | **[Camopoltergeist](https://osu.ppy.sh/users/8132964)**, [princesswell](https://osu.ppy.sh/users/4789005), [--Vanilla--](https://osu.ppy.sh/users/9663200), [matti644](https://osu.ppy.sh/users/1982941), [Your Daughter](https://osu.ppy.sh/users/8370443), [Twist-X](https://osu.ppy.sh/users/8105584) |
@@ -98,6 +98,25 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Quarterfinals
+
+- Freemod (14)
+	- [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](http://osu.ppy.sh/b/1765782&m=3)
+	- [Hommarju - Rock It \(Mage\) \[aLNother\]](http://osu.ppy.sh/b/1532410&m=3)
+	- [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](http://osu.ppy.sh/b/1697375&m=3)
+	- [The Flashbulb - Please Don't Remember \(Gekido-\) \[Amnesia\]](http://osu.ppy.sh/b/1698295&m=3)
+	- [Chroma - Made In Love \(Lude\) \[Made by Jakads' Exhaust\]](http://osu.ppy.sh/b/1742170&m=3)
+	- [Blazar - Impulse \(Guilhermeziat\) \[Beginner\]](http://osu.ppy.sh/b/1650834&m=3)
+	- [Fall Out Boy - Thnks Fr Th Mmrs \(Razzy\) \[Thnks Fr Th Ndls\]](http://osu.ppy.sh/b/1563668&m=3)
+	- [ATC - Around the World \(Wh1teh\) \[!!\]](http://osu.ppy.sh/b/1766006&m=3)
+	- [Roselia - ONENESS \(PiraTom\) \[LoneNess\]](http://osu.ppy.sh/b/1545982&m=3)
+	- [Sakuzyo - Toy's 3 minutes war \(Halogen-\) \[Speedy Trinket\]](http://osu.ppy.sh/b/1770280&m=3)
+	- [sun3 - AA \(Elekton\) \[beginner\]](http://osu.ppy.sh/b/1460619&m=3)
+	- [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](http://osu.ppy.sh/b/1770185&m=3)
+	- [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](http://osu.ppy.sh/b/1770141&m=3)
+- Tiebreaker
+	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]]**
 
 ### Round of 16
 
@@ -141,30 +160,46 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 8. September 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_PH] | Philippines | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| Malaysia | ![][flag_MY] | ![][flag_FR] | France | **12:30 UTC** | 20:30 UTC+08 | 14:30 UTC+02 |
-| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | **23:00 UTC** | 19:00 UTC-04 | 19:00 UTC-04 |
-
-
-### Sunday, 9. September 2018
+### Saturday, 15. September 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_BR] | Brazil | **0:30 UTC** | 9:30 UTC+09 | 21:30 (Sat) UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **2:00 UTC** | 23:00 (Sat) UTC-03 | 11:00 UTC+09 |
-| Australia | ![][flag_AU] | ![][flag_GB] | United Kingdom | **11:00 UTC** | 21:00 UTC+10 | 12:00 UTC+01 |
-| Indonesia | ![][flag_ID] | ![][flag_SE] | Sweden | **12:30 UTC** | 19:30 UTC+07 | 14:30 UTC+02 |
+| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 13:30 UTC+01 |
+| Canada | ![][flag_CA] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+
+### Sunday, 16. September 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **0:30 UTC** | 21:30 (Sat) UTC-03 | 10:30 UTC+10 |
+| United States | ![][flag_US] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
+| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **13:30 UTC** | 15:30 UTC+02 | 22:30 UTC+09 |
+| Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **15:00 UTC** | 22:00 UTC+07 | 12:00 UTC-03 |
+| Chile | ![][flag_CL] | ![][flag_FR] | France | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 |
 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+
+| Saturday, 2018-09-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 6 | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45793199) |
+| Malaysia ![][flag_MY] | 6 | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45795336) |
+| Argentina ![][flag_AR] | 0 | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45798208) |
+| United States ![][flag_US] | 6 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45815842) |
+
+| Sunday, 2018-09-09 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/45817326) |
+| Chile ![][flag_CL] | 1 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/45819186) |
+| Australia ![][flag_AU] | 1 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/45829590) |
+| Indonesia ![][flag_ID] | 6 | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/45831584) |
 
 ### Group Stage
 
