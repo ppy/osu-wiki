@@ -20,29 +20,28 @@ outdated: true
 | 名字 | 语言 | 专注范围 |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | 意大利语 | 聊天室管理 |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 聊天室管理, Disqus管理 |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 聊天室管理 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 德语 | 聊天室管理 |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理, 论坛管理, Disqus管理 |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理, 论坛管理 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 聊天室管理, 技术支持 |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛, Disqus管理 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | 韩语 | Metadata Team |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理, 聊天室管理, Disqus管理 |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理, 聊天室管理 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理, 论坛管理 |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理, Disqus管理 |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理 |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | 葡萄牙语 | 聊天室管理 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 土耳其语 | 聊天室管理 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 西班牙语 | 比赛 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理 |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理, Disqus管理, Metadata Team |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理, Disqus管理 |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理, Metadata Team |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理 |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理 |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | 西班牙语 | 聊天室管理, 论坛管理 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 意大利语 | 聊天室管理 |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理, Disqus管理 |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
@@ -55,8 +54,8 @@ outdated: true
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 法语, 西班牙语 | 聊天室管理 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 印尼语 | 聊天室管理 |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | 中文 | 聊天室管理 |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 | 聊天室管理, Disqus管理 |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理, Disqus管理 |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 | 聊天室管理 |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语, 日语 | 聊天室管理 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 法语 | 聊天室管理 |

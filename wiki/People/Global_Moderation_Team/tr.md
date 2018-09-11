@@ -20,29 +20,28 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | İsim | Diller | Odaklandığı Alan |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Italian | Sohbet Moderasyonu |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Sohbet Moderasyonu, Disqus Moderasyonu |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Sohbet Moderasyonu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Sohbet Moderasyonu |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu, Disqus Moderasyonu |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Sohbet Moderasyonu, Teknik Destek |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Turnuvalar, Disqus Moderasyonu |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Turnuvalar |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Teknik Destek |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | Korean | Metadata Team |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Sohbet Moderasyonu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, Forum Moderasyonu, Sohbet Moderasyonu, Disqus Moderasyonu |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, Forum Moderasyonu, Sohbet Moderasyonu |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Sohbet Moderasyonu, Forum Moderasyonu |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Sohbet Moderasyonu, Forum Moderasyonu, Disqus Moderasyonu |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Sohbet Moderasyonu |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portuguese | Sohbet Moderasyonu |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Sohbet Moderasyonu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Turnuvalar |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Sohbet Moderasyonu |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Sohbet Moderasyonu, Disqus Moderasyonu, Metadata Team |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Sohbet Moderasyonu, Disqus Moderasyonu |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Sohbet Moderasyonu, Metadata Team |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Sohbet Moderasyonu |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | Finnish | Sohbet Moderasyonu |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | Spanish | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Sohbet Moderasyonu |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Sohbet Moderasyonu, Forum Moderasyonu, Disqus Moderasyonu |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Sohbet Moderasyonu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
@@ -55,8 +54,8 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Sohbet Moderasyonu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Sohbet Moderasyonu |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinese | Sohbet Moderasyonu |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Sohbet Moderasyonu, Disqus Moderasyonu |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Sohbet Moderasyonu, Forum Moderasyonu, Disqus Moderasyonu |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Sohbet Moderasyonu |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Sohbet Moderasyonu |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korean, Japanese | Sohbet Moderasyonu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | French | Sohbet Moderasyonu |
