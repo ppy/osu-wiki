@@ -122,6 +122,41 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 ## Liste des maps
 
+### Quarts-de-finale
+
+**[Télécharge le mappack ici! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE)**
+
+#### Mappool A
+
+- NoMod
+  - [sasakure.UK feat. mirto - jet coaster\*girl sasakure.UK tRiCkStAr Remix (\_DUSK\_) \[dUsKaLgE's InNeR oNi (SV version)\]](/beatmapsets/774339/#taiko/1627483) 
+  - [Ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](/beatmapsets/742938/#taiko/1659898)
+  - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](/beatmapsets/768449/#taiko/1616129)
+  - [lapix - Nexta (Midnaait) \[Data Overwrite\]](/beatmapsets/734616/#taiko/1550962)
+- Hidden
+  - [Hommarji - Vulkan (Raiden) \[Raidcore\]](/beatmapsets/547128/#taiko/1158901)
+  - [Sakuzyo - Amenohoakari (EdamaMe411) \[Inner Oni\]](/beatmapsets/622563/#taiko/1312425)
+- HardRock
+  - [Aquors - MIRACLE WAVE (Y O U T A) \[Miracle Oni\]](/beatmapsets/710675/#taiko/1502357)
+  - [CHARAN-PO-RANTAN - Anoko no Jinta (TARO no Jigoku Megu Remix) (yea) \[yea's Inner Oni\]](/beatmapsets/825937/#taiko/1731107)
+- FreeMod
+  - [P\*Light - FUNKY SUMMER BEACH (Volta) \[Funky Oni\]](/beatmapsets/602633/#taiko/1272917)
+  - [Team Grimoire vs Laur - Grievous Lady (DOMINQ2E\_2) \[Inner Oni\]](/beatmapsets/729313/#taiko/1678671)
+
+#### Mappool B
+
+- Challenge
+  - [Skan & Krale - No Glory (feat. M.I.M.E & Drama B) (Myckoll, Ulqui) \[Myruki's Glory\]](/beatmapsets/725635/#taiko/1532116)
+  - [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Fallmorph) \[Fall's Inner Oni\]](/beatmapsets/808903/#taiko/1699384)
+- DoubleTime
+  - [3L, mariapolo - WARNING! (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/92435/#taiko/313413)
+- Easy
+  - [s-don - Gamegame (iceOC) \[iceOC\]](/beatmapsets/757620/#taiko/1593794)
+- Hidden+HardRock
+  - [Chroma - Goodbye-bye Planet (butter0414) \[Inner Oni\]](/beatmapsets/694474/#taiko/1469255)
+- Tiebreaker
+  - **[IOSYS - Halloween Bakuhatsu Shiro! (Plua-) \[Trick and Trick!\]](/beatmapsets/654157/#taiko/1386635)**
+
 ### 16èmes de finale
 
 **[Télécharge le mappack ici! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss)**
