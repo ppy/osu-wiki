@@ -167,7 +167,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 13:30 UTC+01 |
+| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 |
 | Canada | ![][flag_CA] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
 
 ### Sunday, 16. September 2018
@@ -176,7 +176,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **0:30 UTC** | 21:30 (Sat) UTC-03 | 10:30 UTC+10 |
 | United States | ![][flag_US] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
-| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **13:30 UTC** | 15:30 UTC+02 | 22:30 UTC+09 |
+| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **13:30 UTC** | 21:30 UTC+08 | 14:30 UTC+01 |
 | Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **15:00 UTC** | 22:00 UTC+07 | 12:00 UTC-03 |
 | Chile | ![][flag_CL] | ![][flag_FR] | France | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 |
 
