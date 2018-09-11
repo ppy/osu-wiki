@@ -51,6 +51,7 @@
 | ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) | BAT |
 | ![][flag___] [Doddler](https://osu.ppy.sh/users/54) | BAT |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
+| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | QAT |
 | ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) | BAT |
 | ![][flag_BR] [Dragvon](https://osu.ppy.sh/users/126927) | Chat Moderator |
 | ![][flag_US] [drum drum](https://osu.ppy.sh/users/4435526) | GMT |
