@@ -55,33 +55,29 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 -----------------------
 
-## Planning des matches: 16èmes de finale
+## Planning des matches: Quarts-de-finale
 
-### Samedi, 8 Septembre 2018
+### Samedi, 15 Septembre 2018
 
 | Tableau | Équipe A | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
-| Perdant | Taco Monsters | Press F for Ayachi | **00:00** |
-| Gagnant | MIStaikon | not a taiko team xd | **10:00** |
-| Perdant | Magnolia | Tai-KO | **11:00** |
-| Gagnant | TaikOwO | I like grosses baguettes | **12:00** |
-| Perdant | BabySnakes is Dumb | E=mc^2 | **14:00** |
-| Gagnant | Barely Legal | Pißwasser | **15:00** |
-| Perdant | :) | DON'T KAT | **16:00** |
+| Perdant | 69% acc | Press F for Ayachi | **01:00** |
+| Perdant | TaikOwO | DON'T KAT | **02:00** |
+| Perdant | Ooyama Shota | BabySnakes is Dumb | **06:00** |
+| Perdant | Nihongo Wakaranai | Magnolia | **08:00** |
+| Perdant | Low Accuracy SS | The Tasuke Train | **11:00** |
+| Perdant | Hentaiko | aあاㄚɐაಅअ@ᵃ아 | **12:00** |
+| Perdant | Barely Legal | hello we play taiko | **14:00** |
+| Perdant | not a taiko team xd | Fun Assurance Team | **17:00** |
 
-### Dimanche, 9 Septembre 2018
+### Dimanche, 16 Septembre 2018
 
 | Tableau | Équipe | Équipe | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
-| Gagnant | Foda-se | Ooyama Shota | **00:00** |
-| Gagnant | Nihongo Wakaranai | Samurai Pizza Cats | **03:30** |
-| Gagnant | Low Accuracy SS | pneumonoultramicroscopicsilicovolcanoconiosis | **06:30** |
-| Perdant | Taiko Time | aあاㄚɐაಅअ@ᵃ아 | **10:00** |
-| Perdant | hello we play taiko | Team Seven | **11:00** |
-| Gagnant | jakpat | 69% acc | **13:00** |
-| Perdant | Fun Assurance Team | ERROR 404: Team Name Not Found | **14:00** |
-| Gagnant | Hentaiko | ♂ Drum ♂ Spanking ♂ Festival ♂ | **16:00** |
-| Perdant | The Tasuke Train | Team 7 | **17:00** |
+| Gagnant | jakpat | ♂ Drum ♂ Spanking ♂ Festival ♂ | **13:00** |
+| Gagnant | pneumonoultramicroscopicsilicovolcanoconiosis | Samurai Pizza Cats | **13:30** |
+| Gagnant | i like grosses baguettes | Foda-se | **15:00** |
+| Gagnant | MIStaikon | Pißwasser | **16:00**
 
 -----------------------
 
@@ -125,6 +121,41 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 -----------------------
 
 ## Liste des maps
+
+### Quarts-de-finale
+
+**[Télécharge le mappack ici! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE)**
+
+#### Mappool A
+
+- NoMod
+  - [sasakure.UK feat. mirto - jet coaster\*girl sasakure.UK tRiCkStAr Remix (\_DUSK\_) \[dUsKaLgE's InNeR oNi (SV version)\]](/beatmapsets/774339/#taiko/1627483) 
+  - [Ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](/beatmapsets/742938/#taiko/1659898)
+  - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](/beatmapsets/768449/#taiko/1616129)
+  - [lapix - Nexta (Midnaait) \[Data Overwrite\]](/beatmapsets/734616/#taiko/1550962)
+- Hidden
+  - [Hommarji - Vulkan (Raiden) \[Raidcore\]](/beatmapsets/547128/#taiko/1158901)
+  - [Sakuzyo - Amenohoakari (EdamaMe411) \[Inner Oni\]](/beatmapsets/622563/#taiko/1312425)
+- HardRock
+  - [Aquors - MIRACLE WAVE (Y O U T A) \[Miracle Oni\]](/beatmapsets/710675/#taiko/1502357)
+  - [CHARAN-PO-RANTAN - Anoko no Jinta (TARO no Jigoku Megu Remix) (yea) \[yea's Inner Oni\]](/beatmapsets/825937/#taiko/1731107)
+- FreeMod
+  - [P\*Light - FUNKY SUMMER BEACH (Volta) \[Funky Oni\]](/beatmapsets/602633/#taiko/1272917)
+  - [Team Grimoire vs Laur - Grievous Lady (DOMINQ2E\_2) \[Inner Oni\]](/beatmapsets/729313/#taiko/1678671)
+
+#### Mappool B
+
+- Challenge
+  - [Skan & Krale - No Glory (feat. M.I.M.E & Drama B) (Myckoll, Ulqui) \[Myruki's Glory\]](/beatmapsets/725635/#taiko/1532116)
+  - [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Fallmorph) \[Fall's Inner Oni\]](/beatmapsets/808903/#taiko/1699384)
+- DoubleTime
+  - [3L, mariapolo - WARNING! (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/92435/#taiko/313413)
+- Easy
+  - [s-don - Gamegame (iceOC) \[iceOC\]](/beatmapsets/757620/#taiko/1593794)
+- Hidden+HardRock
+  - [Chroma - Goodbye-bye Planet (butter0414) \[Inner Oni\]](/beatmapsets/694474/#taiko/1469255)
+- Tiebreaker
+  - **[IOSYS - Halloween Bakuhatsu Shiro! (Plua-) \[Trick and Trick!\]](/beatmapsets/654157/#taiko/1386635)**
 
 ### 16èmes de finale
 
@@ -200,13 +231,37 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 ## Résultats des matches
 
+### 16èmes de finale
+
+| Samedi, 2018-09-08 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](/community/matches/45781089) |
+| **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](/community/matches/45791945) |
+| TaikOwO | 3 | **5** | **i like grosses baguettes** | [#1](/community/matches/45794610) |
+| Barely Legal | 4 | **5** | **Pißwasser** | [#1](/community/matches/45800048) |
+| **Foda-se** | **5** | 2 | Ooyama Shota | [#1](/community/matches/45800293) |
+
+| Dimanche, 2018-09-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| :) | 0 | **5** | **DON'T KAT** | -win by default- |
+| Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45827234) |
+| Taiko Time | 3 | **5** | **aあاㄚɐაಅअ@ᵃ아** | [#1](/community/matches/45828648) |
+| Hentaiko | 1 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45830995) |
+| **Magnolia** | **5** | 4 | Tai-KO | [#1](/community/matches/45832984) |
+| **hello we play taiko** | **5** | 4 | Team Seven | [#1](/community/matches/45833083) |
+| **jakpat** | **5** | 0 | 69% acc | [#1](/community/matches/45833075) |
+| **BabySnakes is Dumb** | **5** | 3 | [#1](/community/matches/45834255) |
+| **Fun Assurance Team** | **5** | 1 | ERROR 404: Team Name Not Found | [#1](/community/matches/45834432) |
+| TaikOwO | 0 | **5** | **pneumonoultramicroscopicsilicovolcanoconiosis** | -win by default- |
+| **The Tasuke Train** | **5** | 0 | Team 7 | -win by default- |
+
 ### 32èmes de finale
 
-| Vendredi, 2018-07-31 |  |  |  |  | 
+| Vendredi, 2018-08-31 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](/community/matches/45591544) |
 
-| Samedi, 2018-08-01 |  |  |  |  | 
+| Samedi, 2018-09-01 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | Magnolia | 2 | **5** | **MIStaikon** | [#1](/community/matches/45603361) |
 | ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45606910) |
@@ -215,7 +270,7 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 | DON'T KAT | 2 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45611363) |
 | :) | 0 | **5** | **Hentaiko** | [#1](/community/matches/45613117) |
 
-| Dimanche, 2018-08-02 |  |  |  |  | 
+| Dimanche, 2018-09-02 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](/community/matches/45627499) |
 | Taco Monsters | 0 | **5** | **Foda-se** | [#1](/community/matches/45627625) |
