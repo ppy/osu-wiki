@@ -19,6 +19,7 @@ tags:
 | Perempat Final | 2018-08-20/2018-08-26 |
 | Semifinal | 2018-08-27/2018-09-02 |
 | Final | 2018-09-03/2018-09-09 |
+| Grand Final | 2018-09-10 |
 
 ## Hadiah
 

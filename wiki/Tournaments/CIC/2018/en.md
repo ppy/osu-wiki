@@ -19,6 +19,7 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is an Indonesian one-
 | Quarterfinals | 2018-08-20/2018-08-26 |
 | Semifinals | 2018-08-27/2018-09-02 |
 | Finals | 2018-09-03/2018-09-09 |
+| Grand Finals | 2018-09-10 |
 
 ## Prizes
 
