@@ -66,6 +66,10 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 -----------------------
 
+![Podium](img/podium.png)
+
+-----------------------
+
 ## Mappools
 
 ### Finals
@@ -197,6 +201,22 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Monday, 2018-09-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| ![][flag_ID] **[-Hex-](/users/8630988)** | **7** | 2 | ![][flag_ID] [Toka-](/users/1595221) | [#1](/community/matches/45858947) |
+
+### Finals
+
+| Group | Saturday, 2018-09-08 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| Upper | ![][flag_ID] **[-Hex-](/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](/users/9718235) | [#1](/community/matches/45763354)  [#2](/community/matches/45798451)|
+
+| Group | Sunday, 2018-09-09 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| Lower | ![][flag_ID] **[Toka-](/users/1595221)** | **6** | 1 | ![][flag_ID] [LeWind](/users/9718235) | [#1](/community/matches/45830151) |
 
 ### Semifinals
 
