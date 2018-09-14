@@ -64,8 +64,8 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | ![][flag_CL] | **Chile B** | **kazukisinx**, Letz\_Shake, koneejo, N3koKiller |
 | ![][flag_CN] | **China A** | **HM495**, Mic, narcissu2012, baka\_baka\_Koishi |
 | ![][flag_CN] | **China B** | **bx1989**, yuan0312, Yowane \_ Haku, mcwyc |
-|  | **Denmark-Norway** | **TraxieChan**, Zheant, Dolphin, Agu |
-|  | **El Salvador-Venezuela** | **Christian**, KIKECTB, \[Chichioko\], Black Wolf159 |
+| ![][flag_DKNO] | **Denmark-Norway** | **TraxieChan**, Zheant, Dolphin, Agu |
+| ![][flag_SVVE] | **El Salvador-Venezuela** | **Christian**, KIKECTB, \[Chichioko\], Black Wolf159 |
 | ![][flag_FI] | **Finland** | **Samwais**, ReZero, Orkel |
 | ![][flag_FR] | **France** | **Nashmun**, \_Gezo\_, omegaflo, Fraolinch |
 | ![][flag_DE] | **Germany A** | **Slih**, Xay, BrokenArrow, DarkDunskin |
@@ -383,6 +383,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DKNO]: /wiki/shared/flag/DKNO.png
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
@@ -396,6 +397,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SVVE]: /wiki/shared/flag/SVVE.png
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
