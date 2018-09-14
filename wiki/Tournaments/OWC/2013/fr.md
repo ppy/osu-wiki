@@ -4,7 +4,7 @@ outdated: true
 osu! World Cup 2013
 ======================
 
-![OWC 2013 logo](logo.png)
+![OWC 2013 logo](img/logo.png)
 
 La ***osu! World Cup 2013*** (ou **OWC 2013**, littéralement « coupe du monde de osu! ») était la quatrième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
 Cette compétition est terminée et a abouti au podium suivant :
@@ -119,7 +119,7 @@ Résultats
 Consultez le [tableau des résultats et des statistiques](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web) pour tous les détails.
 Le graphique suivant montre les équipes qui se sont qualifiées pour les huitièmes de finale :
 
-![OWC 2013 brackets](brackets.jpg)
+![OWC 2013 brackets](img/brackets.jpg)
 
 ### Poules
 

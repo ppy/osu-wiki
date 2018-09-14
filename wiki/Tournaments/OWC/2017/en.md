@@ -5,38 +5,38 @@ tags:
 ---
 # osu! World Cup 2017
 
-![osu! World Cup 2017 logo](logo.png)
+![OWC 2017 Logo](img/logo.png)
 
 The **osu! World Cup 2017** (**_OWC 2017_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
-| Event              | Timestamp                       |
-|-------------------:|---------------------------------|
-| Registration Phase | 2017-10-13/2017-10-29           |
-| Drawings           | 2017-11-12 (14:00 UTC+0)        |
-| Group Stage        | 2017-11-18/2017-11-19           |
-| Round of 16        | 2017-11-25/2017-11-26           |
-| Quarterfinals      | 2017-12-02/2017-12-03           |
-| Semifinals         | 2017-12-09/2017-12-10           |
-| Finals             | 2017-12-15/2017-12-17           |
+| Event | Timestamp |
+| --: | :-- |
+| Registration Phase | 2017-10-13/2017-10-29 |
+| Live Drawings  | 2017-11-12 (14:00 UTC+0)  |
+| Group Stage  | 2017-11-18/2017-11-19 |
+| Round of 16  | 2017-11-25/2017-11-26 |
+| Quarterfinals  | 2017-12-02/2017-12-03 |
+| Semifinals | 2017-12-09/2017-12-10 |
+| Finals | 2017-12-15/2017-12-17 |
 
 ## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
-| Place | Prize(s) |
-| --- | --- |
+| Placing | Prize(s) |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
 
-## Organization
+## Organisation
 
 The osu! World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
-| -------- | ------- |
+| Position | Member(s) |
+| :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Map Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Commentators | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
@@ -44,18 +44,16 @@ The osu! World Cup 2017 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/653192)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/653192)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFMsLwUAUFYdDoAhmQLfuXHB7PIIOgUcaRdYI03hpuVDCI8BnmdkMHG5QsO5h889Gwnc-Ani-C_IuV/pubhtml)**
 
 ------------------------------------------------------------------------
 
 ## Participants
 
-### Confirmed Rosters
-
-| | Country | Team Members |
-| ---: | :---: | :--- |
+| | Country | Members |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [Serena](https://osu.ppy.sh/users/756068), [benjacala](https://osu.ppy.sh/users/1625740), [Toushi](https://osu.ppy.sh/users/2367825), [-Urushihara-](https://osu.ppy.sh/users/6169195), [Glazbom](https://osu.ppy.sh/users/608277), [zaqlev](https://osu.ppy.sh/users/3188703) |
 | ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Dumii](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404), [Lunirs](https://osu.ppy.sh/users/2118945), [Blobby3000](https://osu.ppy.sh/users/6916774), [ithgyu](https://osu.ppy.sh/users/5113781), [GranDSenpai](https://osu.ppy.sh/users/3997580), [Weber](https://osu.ppy.sh/users/6410432) |
 | ![][flag_AT] | **Austria** | **[Akane-Yuki](https://osu.ppy.sh/users/3656589)**, [Fedora Goose](https://osu.ppy.sh/users/2323131), [BlueFlame](https://osu.ppy.sh/users/3506191), [Spark-desu](https://osu.ppy.sh/users/4601608), [Kizan](https://osu.ppy.sh/users/3074197), [Teppichreini](https://osu.ppy.sh/users/1371974), [Myst1k](https://osu.ppy.sh/users/5302223), [Tomadoi](https://osu.ppy.sh/users/5712451) |
@@ -91,11 +89,11 @@ The osu! World Cup 2017 was run by various community members by distributing the
 
 ------------------------------------------------------------------------
 
-![Winner Podium](podium.jpg)
+![OWC 2017 Podium](img/podium.jpg)
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](bracket.jpg)
+![OWC 2017 Brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
@@ -106,135 +104,135 @@ The osu! World Cup 2017 was run by various community members by distributing the
 **[Download the mappack here! (138 MB)](http://www.mediafire.com/file/e6vze2hbc13eo8i/OWC_2017_Finals.rar)**
 
 - NoMod
-  - [The Ghost Of 3.13 - Forgotten (Blue Dragon)](http://osu.ppy.sh/beatmaps/169841&m=0) [grumd]
-  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a)](http://osu.ppy.sh/beatmaps/820336&m=0) [ignore's EXTREME]
-  - [TERRASPEX - AMAZING BREAK (Monstrata)](http://osu.ppy.sh/beatmaps/1211828&m=0) [DESPAIR]
-  - [sana - Packet Hero (Fuccho)](http://osu.ppy.sh/beatmaps/880321&m=0) [Ruthless]
-  - [Yousei Teikoku - Kokou no Sousei (Saten-san)](http://osu.ppy.sh/beatmaps/118068&m=0) [Chaos]
-  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower)](http://osu.ppy.sh/beatmaps/306683&m=0) [Extra]
+  - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](http://osu.ppy.sh/beatmaps/169841&m=0)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](http://osu.ppy.sh/beatmaps/820336&m=0)
+  - [TERRASPEX - AMAZING BREAK (Monstrata) \[DESPAIR\]](http://osu.ppy.sh/beatmaps/1211828&m=0)
+  - [sana - Packet Hero (Fuccho) \[Ruthless\]](http://osu.ppy.sh/beatmaps/880321&m=0)
+  - [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Chaos\]](http://osu.ppy.sh/beatmaps/118068&m=0)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower) \[Extra\]](http://osu.ppy.sh/beatmaps/306683&m=0)
 - Hidden
-  - [Niko - Made of Fire (lesjuh)](http://osu.ppy.sh/beatmaps/40017&m=0) [Oni]
-  - [Sota Fujimori - polygon (Sebu)](http://osu.ppy.sh/beatmaps/1354636&m=0) [heptagon]
+  - [Niko - Made of Fire (lesjuh) \[Oni\]](http://osu.ppy.sh/beatmaps/40017&m=0)
+  - [Sota Fujimori - polygon (Sebu) \[heptagon\]](http://osu.ppy.sh/beatmaps/1354636&m=0)
 - HardRock
-  - [beatMARIO - Night of Knights (alacat)](http://osu.ppy.sh/beatmaps/776951&m=0) [The World]
-  - [Rohi - Kakuzetsu Thanatos (NatsumeRin)](http://osu.ppy.sh/beatmaps/215238&m=0) [Rin]
+  - [beatMARIO - Night of Knights (alacat) \[The World\]](http://osu.ppy.sh/beatmaps/776951&m=0)
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](http://osu.ppy.sh/beatmaps/215238&m=0)
 - DoubleTime
-  - [Kalafina - Kyrie (Vell)](http://osu.ppy.sh/beatmaps/809513&m=0) [Genesis]
-  - [Zektbach - L'avide (eXseeD)](http://osu.ppy.sh/beatmaps/103403&m=0) [gowww]
+  - [Kalafina - Kyrie (Vell) \[Genesis\]](http://osu.ppy.sh/beatmaps/809513&m=0)
+  - [Zektbach - L'avide (eXseeD) \[gowww\]](http://osu.ppy.sh/beatmaps/103403&m=0)
 - FreeMod
-  - [Mediks - Outbreak (Strategas)](http://osu.ppy.sh/beatmaps/1118311&m=0) [Doomsday]
-  - [Camellia - Fastest Crash (sukiNathan)](http://osu.ppy.sh/beatmaps/733432&m=0) [RLC's Paroxysm]
-  - [Ayalis - Ai o Chikaishi Hime Kazari (handsome)](http://osu.ppy.sh/beatmaps/1076701&m=0) [Master]
+  - [Mediks - Outbreak (Strategas) \[Doomsday\]](http://osu.ppy.sh/beatmaps/1118311&m=0)
+  - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](http://osu.ppy.sh/beatmaps/733432&m=0)
+  - [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](http://osu.ppy.sh/beatmaps/1076701&m=0)
 - Tiebreaker
-  - [Wagakki Band - Tengaku (Shiro)](http://osu.ppy.sh/beatmaps/816327&m=0) [Uncompressed Fury of a Raging Japanese God]
+  - **[Wagakki Band - Tengaku (Shiro) \[Uncompressed Fury of a Raging Japanese God\]](http://osu.ppy.sh/beatmaps/816327&m=0)**
 
 ### Semifinals
 
 **[Download the mappack here! (137 MB)](http://www.mediafire.com/file/2rf32niz24xr9xz/OWC_2017_Semifinals.rar)**
 
 - NoMod
-  - [Rita - dorchadas (Delis)](http://osu.ppy.sh/beatmaps/1279490&m=0) [Sharnoth]
-  - [C-Show - PANIC HOLIC (VIP) (Frey)](http://osu.ppy.sh/beatmaps/1023481&m=0) [Regou's Extra]
-  - [xi - Blue Zenith (Asphyxia)](http://osu.ppy.sh/beatmaps/657917&m=0) [ktgster's Extreme]
-  - [Yousei Teikoku - Zetsubou plantation (Saten)](http://osu.ppy.sh/beatmaps/235880&m=0) [Zetsubou!]
-  - [LeaF - I (Maddy)](http://osu.ppy.sh/beatmaps/264090&m=0) [Terror]
-  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86)](http://osu.ppy.sh/beatmaps/58970&m=0) [KIRBY Mix Deluxe]
+  - [Rita - dorchadas (Delis) \[Sharnoth\]](http://osu.ppy.sh/beatmaps/1279490&m=0)
+  - [C-Show - PANIC HOLIC (VIP) (Frey) \[Regou's Extra\]](http://osu.ppy.sh/beatmaps/1023481&m=0)
+  - [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](http://osu.ppy.sh/beatmaps/657917&m=0)
+  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Zetsubou!\]](http://osu.ppy.sh/beatmaps/235880&m=0)
+  - [LeaF - I (Maddy) \[Terror\]](http://osu.ppy.sh/beatmaps/264090&m=0)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](http://osu.ppy.sh/beatmaps/58970&m=0)
 - Hidden
-  - [Eisyo-kobu - Oriental Blossom (Crystal)](http://osu.ppy.sh/beatmaps/1242790&m=0) [Karen's Extra]
-  - [HujuniseikouyuuP - Talent Shredder (val0108)](http://osu.ppy.sh/beatmaps/153857&m=0) [Lesjuh style]
+  - [Eisyo-kobu - Oriental Blossom (Crystal) \[Karen's Extra\]](http://osu.ppy.sh/beatmaps/1242790&m=0)
+  - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](http://osu.ppy.sh/beatmaps/153857&m=0)
 - HardRock
-  - [Memme - Acid Burst (Priti)](http://osu.ppy.sh/beatmaps/725026&m=0) [wa's Extra]
-  - [96neko - Buriki no Dance (Lasse)](http://osu.ppy.sh/beatmaps/1253986&m=0) [Expert]
+  - [Memme - Acid Burst (Priti) \[wa's Extra\]](http://osu.ppy.sh/beatmaps/725026&m=0)
+  - [96neko - Buriki no Dance (Lasse) \[Expert\]](http://osu.ppy.sh/beatmaps/1253986&m=0)
 - DoubleTime
-  - [3L - Endless night (sjoy)](http://osu.ppy.sh/beatmaps/430371&m=0) [Eternal]
-  - [Yuuki Aoi - Platinum (Mythol)](http://osu.ppy.sh/beatmaps/229676&m=0) [Collab]
+  - [3L - Endless night (sjoy) \[Eternal\]](http://osu.ppy.sh/beatmaps/430371&m=0)
+  - [Yuuki Aoi - Platinum (Mythol) \[Collab\]](http://osu.ppy.sh/beatmaps/229676&m=0)
 - FreeMod
-  - [Dollscythe - Flashes (Extended) (handsome)](http://osu.ppy.sh/beatmaps/787957&m=0) [Spark]
-  - [onoken - Viden (-kevincela-)](http://osu.ppy.sh/beatmaps/822166&m=0) [Extreme]
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/beatmaps/178645&m=0) [CRN's Extra]
+  - [Dollscythe - Flashes (Extended) (handsome) \[Spark\]](http://osu.ppy.sh/beatmaps/787957&m=0)
+  - [onoken - Viden (-kevincela-) \[Extreme\]](http://osu.ppy.sh/beatmaps/822166&m=0)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](http://osu.ppy.sh/beatmaps/178645&m=0)
 - Tiebreaker
-  - [goreshit - fleshbound (Vell)](http://osu.ppy.sh/beatmaps/1131747&m=0) [martyr]
+  - **[goreshit - fleshbound (Vell) \[martyr\]](http://osu.ppy.sh/beatmaps/1131747&m=0)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (107 MB)](http://www.mediafire.com/file/n4le2yxjs478ysf/OWC_2017_Quarterfinals.rar)**
 
 - NoMod
-  - [FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/beatmaps/293134&m=0) [iyasine]
-  - [LeaF - Calamity Fortune (Frostings)](http://osu.ppy.sh/beatmaps/789752&m=0) [Cataclysm]
-  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn)](http://osu.ppy.sh/beatmaps/1291369&m=0) [Dreaming of Embers]
-  - [YUC'e - Cinderella Syndrome (Kibbleru)](http://osu.ppy.sh/beatmaps/1187506&m=0) [Affection]
-  - [MY FIRST STORY - Itsuwari NEUROSE (Saut)](http://osu.ppy.sh/beatmaps/803199&m=0) [Madness]
-  - [yak_won - Sewing Machine (ktgster)](http://osu.ppy.sh/beatmaps/772293&m=0) [Extreme]
+  - [FujuniseikouyuuP - FREEDMAN (val0108) \[iyasine\]](http://osu.ppy.sh/beatmaps/293134&m=0)
+  - [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](http://osu.ppy.sh/beatmaps/789752&m=0)
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](http://osu.ppy.sh/beatmaps/1291369&m=0)
+  - [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](http://osu.ppy.sh/beatmaps/1187506&m=0)
+  - [MY FIRST STORY - Itsuwari NEUROSE (Saut) \[Madness\]](http://osu.ppy.sh/beatmaps/803199&m=0)
+  - [yak_won - Sewing Machine (ktgster) \[Extreme\]](http://osu.ppy.sh/beatmaps/772293&m=0)
 - Hidden
-  - [Jimmy Weckl - Get Happy (buhei)](http://osu.ppy.sh/beatmaps/953945&m=0) [MASTER]
-  - [senya - Zetsubou no Fuchi (-Mo-)](http://osu.ppy.sh/beatmaps/1278874&m=0) [Abyssal]
+  - [Jimmy Weckl - Get Happy (buhei) \[MASTER\]](http://osu.ppy.sh/beatmaps/953945&m=0)
+  - [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](http://osu.ppy.sh/beatmaps/1278874&m=0)
 - HardRock
-  - [USAO - Night sky (sukiNathan)](http://osu.ppy.sh/beatmaps/863532&m=0) [Extra]
-  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream)](http://osu.ppy.sh/beatmaps/191805&m=0) [Collab]
+  - [USAO - Night sky (sukiNathan) \[Extra\]](http://osu.ppy.sh/beatmaps/863532&m=0)
+  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](http://osu.ppy.sh/beatmaps/191805&m=0)
 - DoubleTime
-  - [ChomuP - Gate of Steiner (JauiPlaY)](http://osu.ppy.sh/beatmaps/157886&m=0) [Insane]
-  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne)](http://osu.ppy.sh/beatmaps/429797&m=0) [Insane]
+  - [ChomuP - Gate of Steiner (JauiPlaY) \[Insane\]](http://osu.ppy.sh/beatmaps/157886&m=0)
+  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne) \[Insane\]](http://osu.ppy.sh/beatmaps/429797&m=0)
 - FreeMod
-  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Nyquill)](http://osu.ppy.sh/beatmaps/725139&m=0) [Another†leggendaria]
-  - [Zips - Heisei Cataclysm (Dark Fang)](http://osu.ppy.sh/beatmaps/206567&m=0) [Fang]
-  - [Hatsune Miku - Mythologia's End (val0108)](http://osu.ppy.sh/beatmaps/151229&m=0) [Myth0108ia]
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Nyquill) \[Another†leggendaria\]](http://osu.ppy.sh/beatmaps/725139&m=0)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](http://osu.ppy.sh/beatmaps/206567&m=0)
+  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/beatmaps/151229&m=0)
 - Tiebreaker
-  - [Nanahira - Petals (toybot)](http://osu.ppy.sh/beatmaps/1193128&m=0) [Blossom]
+  - **[Nanahira - Petals (toybot) \[Blossom\]](http://osu.ppy.sh/beatmaps/1193128&m=0)**
 
 ### Round of 16
 
 **[Download the mappack here! (153 MB)](http://www.mediafire.com/file/klgdrjqmz3l3q36/OWC_2017_Round_of_16.rar)**
 
 - NoMod
-  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox)](http://osu.ppy.sh/beatmaps/1018247&m=0) [Daydream]
-  - [Days N' Daze - Misanthropic Drunken Loner (pishifat)](http://osu.ppy.sh/beatmaps/951778&m=0) [Extreme]
-  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi)](http://osu.ppy.sh/beatmaps/796606&m=0) [Extra]
-  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki)](http://osu.ppy.sh/beatmaps/644067&m=0) [Asphyxia's Extra]
-  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata)](http://osu.ppy.sh/beatmaps/815857&m=0) [God of Speed]
-  - [Comp - Gensou no Satellite (Shinxyn)](http://osu.ppy.sh/beatmaps/63875&m=0) [Extra]
+  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](http://osu.ppy.sh/beatmaps/1018247&m=0)
+  - [Days N' Daze - Misanthropic Drunken Loner (pishifat) \[Extreme\]](http://osu.ppy.sh/beatmaps/951778&m=0)
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](http://osu.ppy.sh/beatmaps/796606&m=0)
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Asphyxia's Extra\]](http://osu.ppy.sh/beatmaps/644067&m=0)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]  ](http://osu.ppy.sh/beatmaps/815857&m=0)
+  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](http://osu.ppy.sh/beatmaps/63875&m=0)
 - Hidden
-  - [Anamanaguchi - Pop It (Bonsai)](http://osu.ppy.sh/beatmaps/1084171&m=0) [Extra]
-  - [sun3 - Higan Retour (saymun)](http://osu.ppy.sh/beatmaps/54373&m=0) [Lunatic]
+  - [Anamanaguchi - Pop It (Bonsai) \[Extra\]](http://osu.ppy.sh/beatmaps/1084171&m=0)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](http://osu.ppy.sh/beatmaps/54373&m=0)
 - HardRock
-  - [bj.HaLo - Ende (galvenize)](http://osu.ppy.sh/beatmaps/148716&m=0) [Another]
-  - [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj)](http://osu.ppy.sh/beatmaps/1443510&m=0) [Extra]
+  - [bj.HaLo - Ende (galvenize) \[Another\]](http://osu.ppy.sh/beatmaps/148716&m=0)
+  - [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj) \[Extra\]](http://osu.ppy.sh/beatmaps/1443510&m=0)
 - DoubleTime
-  - [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey)](http://osu.ppy.sh/beatmaps/951393&m=0) [lUNATIC]
-  - [forestpireo - Emotional Blush (S i R i R u)](http://osu.ppy.sh/beatmaps/74959&m=0) [Lunatic]
+  - [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey) \[lUNATIC\]](http://osu.ppy.sh/beatmaps/951393&m=0)
+  - [forestpireo - Emotional Blush (S i R i R u) \[Lunatic\]](http://osu.ppy.sh/beatmaps/74959&m=0)
 - FreeMod
-  - [Kano - Sukisuki Zecchoushou (Loreley)](http://osu.ppy.sh/beatmaps/1250198&m=0) [Expert]
-  - [sakuzyo - Imprinting (Nozhomi)](http://osu.ppy.sh/beatmaps/655300&m=0) [Orchestra]
-  - [Agnete Kjolsrud - Get Jinxed (Tarrasky)](http://osu.ppy.sh/beatmaps/806376&m=0) [Irrelvis' Diamond]
+  - [Kano - Sukisuki Zecchoushou (Loreley) \[Expert\]](http://osu.ppy.sh/beatmaps/1250198&m=0)
+  - [sakuzyo - Imprinting (Nozhomi) \[Orchestra\]](http://osu.ppy.sh/beatmaps/655300&m=0)
+  - [Agnete Kjolsrud - Get Jinxed (Tarrasky) \[Irrelvis' Diamond\]](http://osu.ppy.sh/beatmaps/806376&m=0)
 - Tiebreaker
-  - [Nana Mizuki - VIRGIN CODE (ShiraKai)](http://osu.ppy.sh/beatmaps/1052795&m=0) [GENESIS]
+  - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](http://osu.ppy.sh/beatmaps/1052795&m=0)**
 
 ### Group Stage
 
 **[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar)**
 
 - NoMod
-  - [Amane - TWEEKER (TicClick)](http://osu.ppy.sh/beatmaps/771858&m=0) [Lunatic]
-  - [nano - Bull's Eye (Asphyxia)](http://osu.ppy.sh/beatmaps/904687&m=0) [toybot's Extra]
-  - [Smooth J - Haru yo, Koi (Streliteela)](http://osu.ppy.sh/beatmaps/664611&m=0) [Insane]
-  - [Apocalyptica - 2010 (feat. Dave Lombardo) (pishifat)](http://osu.ppy.sh/beatmaps/724512&m=0) [Extra]
-  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk)](http://osu.ppy.sh/beatmaps/821336&m=0) [deetz' Insane]
-  - [ak+q - Vexaria (Pentori)](http://osu.ppy.sh/beatmaps/1392666&m=0) [Miura's Another]
+  - [Amane - TWEEKER (TicClick) \[Lunatic\]](http://osu.ppy.sh/beatmaps/771858&m=0)
+  - [nano - Bull's Eye (Asphyxia) \[toybot's Extra\]](http://osu.ppy.sh/beatmaps/904687&m=0)
+  - [Smooth J - Haru yo, Koi (Streliteela) \[Insane\]](http://osu.ppy.sh/beatmaps/664611&m=0)
+  - [Apocalyptica - 2010 (feat. Dave Lombardo) (pishifat) \[Extra\]](http://osu.ppy.sh/beatmaps/724512&m=0)
+  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[deetz' Insane\]](http://osu.ppy.sh/beatmaps/821336&m=0)
+  - [ak+q - Vexaria (Pentori) \[Miura's Another\]](http://osu.ppy.sh/beatmaps/1392666&m=0)
 - Hidden
-  - [07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/beatmaps/88633&m=0) [Insane]
-  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz)](http://osu.ppy.sh/beatmaps/951600&m=0) [Collab]
+  - [07th Expansion - Final Answer (gowww) \[Insane\]](http://osu.ppy.sh/beatmaps/88633&m=0)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](http://osu.ppy.sh/beatmaps/951600&m=0)
 - HardRock
-  - [Cororo - Fairy ring (Kite)](http://osu.ppy.sh/beatmaps/705760&m=0) [Serenity]
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae)](http://osu.ppy.sh/beatmaps/91462&m=0) [Crazy Jay]
+  - [Cororo - Fairy ring (Kite) \[Serenity\]](http://osu.ppy.sh/beatmaps/705760&m=0)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](http://osu.ppy.sh/beatmaps/91462&m=0)
 - DoubleTime
-  - [Pendulum - The Vulture (La Cataline)](http://osu.ppy.sh/beatmaps/82249&m=0) [Insane]
-  - [Ronald Jenkees - Super-Fun (tieff)](http://osu.ppy.sh/beatmaps/257379&m=0) [Fun]
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](http://osu.ppy.sh/beatmaps/82249&m=0)
+  - [Ronald Jenkees - Super-Fun (tieff) \[Fun\]](http://osu.ppy.sh/beatmaps/257379&m=0)
 - FreeMod
-  - [FELT - a wonderful moon (Naitoshi)](http://osu.ppy.sh/beatmaps/454385&m=0) [Lunatic]
-  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445)](http://osu.ppy.sh/beatmaps/208776&m=0) [Insane]
-  - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123)](http://osu.ppy.sh/beatmaps/148000&m=0) [Lunatic]
+  - [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](http://osu.ppy.sh/beatmaps/454385&m=0)
+  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](http://osu.ppy.sh/beatmaps/208776&m=0)
+  - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123) \[Lunatic\]](http://osu.ppy.sh/beatmaps/148000&m=0)
 - Tiebreaker
-  - [DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori)](http://osu.ppy.sh/beatmaps/854972&m=0) [Illuminate]
+  - **[DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](http://osu.ppy.sh/beatmaps/854972&m=0)**
 
 ------------------------------------------------------------------------
 
@@ -243,150 +241,146 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Finals
 
 | Friday, 15. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| South Korea ![][flag_KR] | 7 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/38335947) |
-| Germany ![][flag_DE] | 1 | 7 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38346733) |
-| Poland ![][flag_PL] | 7 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38350684) |
+| --: | :-: | :-: | :-- | :-: |
+| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/38335947) |
+| Germany ![][flag_DE] | 1 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/38346733) |
+| **Poland** ![][flag_PL] | **7** | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38350684) |
 
 | Saturday, 16. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| United Kingdom ![][flag_GB] | 7 | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38367964) |
-| United States ![][flag_US] | 7 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38384430) |
+| --: | :-: | :-: | :-- | :-: |
+| **United Kingdom** ![][flag_GB] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38367964) |
+| **United States** ![][flag_US] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38384430) |
 
 | Sunday, 17. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| United States ![][flag_US] | 7 | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38418895) |
-| Poland ![][flag_PL] | 7 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38421285) |
+| --: | :-: | :-: | :-- | :-: |
+| **United States** ![][flag_US] | **7** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38418895) |
+| **Poland** ![][flag_PL] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38421285) |
 
 ### Semifinals
 
 | Saturday, 9. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Norway ![][flag_NO] | 7 | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/38181607) |
-| Netherlands ![][flag_NL] | 4 | 7 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/38186618) |
-| Canada ![][flag_CA] | 1 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/38190989) |
-| Russian Federation ![][flag_RU] | 5 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/38196035) |
+| --: | :-: | :-: | :-- | :-: |
+| **Norway** ![][flag_NO] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/38181607) |
+| Netherlands ![][flag_NL] | 4 | **7** | ![][flag_RU] **Russian Federatio**n | [#1](https://osu.ppy.sh/community/matches/38186618) |
+| Canada ![][flag_CA] | 1 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/38190989) |
+| Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/38196035) |
 
 | Sunday, 10. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| South Korea ![][flag_KR] | 7 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/38206986) |
-| Taiwan ![][flag_TW] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38209295) |
-| South Korea ![][flag_KR] | 7 | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38219678) |
-| United Kingdom ![][flag_GB] | 5 | 7 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38223284) |
+| --: | :-: | :-: | :-- | :-: |
+| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/38206986) |
+| Taiwan ![][flag_TW] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/38209295) |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38219678) |
+| United Kingdom ![][flag_GB] | 5 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/38223284) |
 
 
 ### Quarterfinals
 
 | Saturday, 2. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Netherlands ![][flag_NL] | 6 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37984347) |
-| Germany ![][flag_DE] | 3 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37988813) |
-| Hong Kong ![][flag_HK] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37992145) |
-| Canada ![][flag_CA] | 6 | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37996482) |
+| --: | :-: | :-: | :-- | :-: |
+| **Netherland**s ![][flag_NL] | **6** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37984347) |
+| Germany ![][flag_DE] | 3 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/37988813) |
+| Hong Kong ![][flag_HK] | 0 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/37992145) |
+| **Canada** ![][flag_CA] | **6** | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37996482) |
 
 | Sunday, 3. December 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Denmark ![][flag_DK] | 1 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38029594) |
-| Singapore ![][flag_SG] | 0 | 6 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38031685) |
-| Brazil ![][flag_BR] | 1 | 6 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38034430) |
-| Russian Federation ![][flag_RU] | 3 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38036937) |
+| --: | :-: | :-: | :-- | :-: |
+| Denmark ![][flag_DK] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/38029594) |
+| Singapore ![][flag_SG] | 0 | **6** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/38031685) |
+| Brazil ![][flag_BR] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/38034430) |
+| Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/38036937) |
 
 ### Round of 16
 
 | Saturday, 25. November 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Taiwan ![][flag_TW] | 6 | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37793064) |
-| United Kingdom ![][flag_GB] | 6 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37794394) |
-| Hong Kong ![][flag_HK] | 6 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37796296) |
-| Singapore ![][flag_SG] | 2 | 6 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/37799185) |
+| --: | :-: | :-: | :-- | :-: |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37793064) |
+| **United Kingdom** ![][flag_GB] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37794394) |
+| **Hong Kong** ![][flag_HK] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37796296) |
+| Singapore ![][flag_SG] | 2 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/37799185) |
 
 | Sunday, 26. November 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Poland ![][flag_PL] | 6 | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37837181) |
-| Denmark ![][flag_DK] | 3 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37840289) |
-| Canada ![][flag_CA] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/37842093) |
-| Norway ![][flag_NO] | 2 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37844547) |
+| --: | :-: | :-: | :-- | :-: |
+| **Poland** ![][flag_PL] | **6** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37837181) |
+| Denmark ![][flag_DK] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/37840289) |
+| Canada ![][flag_CA] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37842093) |
+| Norway ![][flag_NO] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37844547) |
 
 ### Group Stage
 
 | Saturday, 18. November 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Indonesia ![][flag_ID] | 2 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/37609499) |
-| Latvia ![][flag_LV] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37609495) |
-| Israel ![][flag_IL] | 0 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/37609502) |
-| Hungary ![][flag_HU] | 2 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37610675) |
-| Russian Federation ![][flag_RU] | 5 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37610821) |
-| Romania ![][flag_RO] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37610680) |
-| Netherlands ![][flag_NL] | 5 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37610687) |
-| Philippines ![][flag_PH] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/37612374) |
-| Indonesia ![][flag_ID] | 0 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37612236) |
-| Malaysia ![][flag_MY] | 1 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37612234) |
-| Argentina ![][flag_AR] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37613921) |
-| Israel ![][flag_IL] | 1 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37613946) |
-| Romania ![][flag_RO] | 3 | 5 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/37614075) |
-| Philippines ![][flag_PH] | 0 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/37615841) |
-| Hong Kong ![][flag_HK] | 5 | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/37615713) |
-| Hungary ![][flag_HU] | 0 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/37615928) |
-| Latvia ![][flag_LV] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/37623221) |
-| Finland ![][flag_FI] | 5 | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/37623233) |
-| Romania ![][flag_RO] | 2 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37623236) |
-| Chile ![][flag_CL] | 2 | 5 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/37625547) |
-| Mexico ![][flag_MX] | 1 | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37625411) |
-| Netherlands ![][flag_NL] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37625491) |
-| Denmark ![][flag_DK] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37627968) |
-| Argentina ![][flag_AR] | 1 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/37628093) |
-| Sweden ![][flag_SE] | 1 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37627984) |
-| Mexico ![][flag_MX] | 1 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37629909) |
-| Italy ![][flag_IT] | 3 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37629745) |
-| Hungary ![][flag_HU] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37629750) |
+| --: | :-: | :-: | :-- | :-: |
+| Indonesia ![][flag_ID] | 2 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/37609499) |
+| Latvia ![][flag_LV] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/37609495) |
+| Israel ![][flag_IL] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/37609502) |
+| Hungary ![][flag_HU] | 2 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/37610675) |
+| **Russian Federation** ![][flag_RU] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37610821) |
+| Romania ![][flag_RO] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/37610680) |
+| **Netherlands** ![][flag_NL] | **5** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37610687) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/37612374) |
+| Indonesia ![][flag_ID] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/37612236) |
+| Malaysia ![][flag_MY] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/37612234) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/37613921) |
+| Israel ![][flag_IL] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/37613946) |
+| Romania ![][flag_RO] | 3 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/37614075) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/37615841) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/37615713) |
+| Hungary ![][flag_HU] | 0 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/37615928) |
+| Latvia ![][flag_LV] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37623221) |
+| **Finland** ![][flag_FI] | **5** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/37623233) |
+| Romania ![][flag_RO] | 2 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/37623236) |
+| Chile ![][flag_CL] | 2 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/37625547) |
+| Mexico ![][flag_MX] | 1 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/37625411) |
+| Netherlands ![][flag_NL] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37625491) |
+| Denmark ![][flag_DK] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/37627968) |
+| Argentina ![][flag_AR] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37628093) |
+| Sweden ![][flag_SE] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/37627984) |
+| Mexico ![][flag_MX] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/37629909) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37629745) |
+| Hungary ![][flag_HU] | 1 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/37629750) |
 
 | Sunday, 19. November 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Taiwan ![][flag_TW] | 4 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/37640223) |
-| Malaysia ![][flag_MY] | 2 | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/37640683) |
-| China ![][flag_CN] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/37640232) |
-| Denmark ![][flag_DK] | 5 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/37646592) |
-| Finland ![][flag_FI] | 1 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/37646594) |
-| Malaysia ![][flag_MY] | 5 | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37646595) |
-| Japan ![][flag_JP] | 5 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37647825) |
-| Sweden ![][flag_SE] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/37647794) |
-| Italy ![][flag_IT] | 4 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/37647798) |
-| Philippines ![][flag_PH] | 0 | 5 | ![][flag_NO] Norway | -WIN BY DEFAULT- |
-| Indonesia ![][flag_ID] | 1 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/37649009) |
-| Australia ![][flag_AU] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/37649125) |
-| Singapore ![][flag_SG] | 2 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37649006) |
-| Japan ![][flag_JP] | 0 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/37650430) |
-| Brazil ![][flag_BR] | 2 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37650434) |
-| Italy ![][flag_IT] | 3 | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37650364) |
-| Hong Kong ![][flag_HK] | 5 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/37652168) |
-| Latvia ![][flag_LV] | 5 | 0 | ![][flag_AR] Argentina | -WIN BY DEFAULT- |
-| Finland ![][flag_FI] | 0 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/37651999) |
-| Austria ![][flag_AT] | 5 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37652008) |
+| --: | :-: | :-: | :-- | :-: |
+| Taiwan ![][flag_TW] | 4 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/37640223) |
+| Malaysia ![][flag_MY] | 2 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/37640683) |
+| China ![][flag_CN] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37640232) |
+| **Denmark** ![][flag_DK] | **5** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/37646592) |
+| Finland ![][flag_FI] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/37646594) |
+| **Malaysia** ![][flag_MY] | **5** | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37646595) |
+| **Japa**n ![][flag_JP] | **5** | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/37647825) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/37647794) |
+| Italy ![][flag_IT] | 4 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/37647798) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_NO] **Norway** | -win by default- |
+| Indonesia ![][flag_ID] | 1 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/37649009) |
+| Australia ![][flag_AU] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/37649125) |
+| Singapore ![][flag_SG] | 2 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/37649006) |
+| Japan ![][flag_JP] | 0 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/37650430) |
+| Brazil ![][flag_BR] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/37650434) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/37650364) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/37652168) |
+| **Latvia** ![][flag_LV] | **5** | 0 | ![][flag_AR] Argentina | -win by default- |
+| Finland ![][flag_FI] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/37651999) |
+| **Austria** ![][flag_AT] | **5** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/37652008) |
 
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### Tournament Rules
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
    - While this competition is planned as a 4 versus 4 setup, this might change depending on the amount of incoming registrations.
-
 2. Beatmap scoring is based on Score V2.
-
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
-
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap gets considered as passing it.
-
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the beatmap.
    - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
-
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 12. Exchanging players during a match is allowed without limitations.
@@ -397,7 +391,6 @@ The osu! World Cup 2017 was run by various community members by distributing the
 17. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-
 19. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
@@ -414,23 +407,19 @@ The osu! World Cup 2017 was run by various community members by distributing the
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
-
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global osu! performance ranking is above 5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-
 5. Mapset selectors must not participate as a player in this tournament.
 
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
-
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
@@ -438,10 +427,8 @@ The osu! World Cup 2017 was run by various community members by distributing the
    - Most beatmaps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
-
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    -  This may change with the actual Group Stage setup.
-
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -462,23 +449,19 @@ The osu! World Cup 2017 was run by various community members by distributing the
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2017: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
-
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker beatmap must be played.
-
 7. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
@@ -487,10 +470,8 @@ The osu! World Cup 2017 was run by various community members by distributing the
 7. The FreeMod bracket will have FreeMod activated.
    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
    - When playing a FreeMod map, at least 2 players of each team must have at least one mod activated. For the remaining players, activating mods is optional.
-
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
-
 9. The size of the NoMod bracket will be 6 in all stages.
 10. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages.
 11. The size of the FreeMod bracket will be 3 in all stages.
@@ -501,10 +482,8 @@ The osu! World Cup 2017 was run by various community members by distributing the
 2. Matches in Group Stage may overlap.
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
    - Finals stage may have matches on Friday, depending on the occuring encounters.
-
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 

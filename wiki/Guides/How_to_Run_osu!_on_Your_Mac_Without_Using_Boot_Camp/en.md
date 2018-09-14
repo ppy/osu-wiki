@@ -154,7 +154,7 @@ Installing osu!
 **From this point on, the instructions are the same for both Mac and Windows; You may refer to the \[FAQ\] for general questions. However, the instructions to run osu! will also be posted here.**
 
 1.  Click on the Start button (**1**) and click on "Internet Explorer" (**2**). [67](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup70.png)
-2.  Go to "<http://osu.ppy.sh/>". [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
+2.  Go to [the website](http://osu.ppy.sh). [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
 3.  Click on the "Download" link. [69](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup72.png)
 4.  Click on "Download osu! NOW!". [70](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup73.png)
 5.  Select "Run". [71](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup74.png)

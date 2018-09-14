@@ -1,7 +1,12 @@
-第四届 osu!mania 4K 菜鸡杯
-=========================
+---
+tags:
+- CJB
+- CJB 2018
+- CJB2018
+---
+# 第四届 osu!mania 4K 菜鸡杯
 
-![CJB 4K 4th](banner.png)
+![CJB 4K 4th](img/banner.png)
 
 第四届 osu!mania 4K 菜鸡杯（以下均简写为 CJB 4K 4th）为华人区个人比赛，是由 CJB 举办的第四届华人区 osu!mania 4K 大赛。比赛所用谱面均为 osu!mania 4K 专用谱。
 
@@ -14,15 +19,15 @@
 | 十六强 | 7月21日至7月22日 |
 | 八强 | 7月28日至7月29日 |
 | 半决赛 | 8月4日至8月5日 |
-| 决赛第一周 | 8月7日至8月8日 |
-| 决赛第二周 | 8月18日至8月19日 |
+| 决赛第一周 | 8月11日 |
+| 决赛第二周 | 8月13日至8月14日 |
 
 ## 奖品
 
 本次比赛奖品由 ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) 赞助。
 
 | 名次 | 奖品 |
-| --- | :-- |
+| :-: | :-- |
 | ![金冠](/wiki/shared/GCrown.png "第一名") | 2个月 osu!支持者，主页定制勋章 |
 | ![银冠](/wiki/shared/SCrown.png "第二名") | 1个月 osu!支持者 |
 | ![铜冠](/wiki/shared/BCrown.png "第三名") | 15 CNY |
@@ -40,32 +45,63 @@
 
 ## 相关链接
 
-- [直播间](https://live.bilibili.com/5333)
+- [Rasis 直播间](https://live.bilibili.com/5333)
+- [Flow Light 直播间](https://live.bilibili.com/73668)
+- [aiyulu 直播间](https://live.bilibili.com/10183)
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
-## 比赛预告
+--------------------------------------------------
 
-### 半决赛
+![CJB 4K 4th Podium](img/podium.jpg)
 
-#### 8月4日，星期六
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | xyxyxy091 | ![][flag_CN] | ![][flag_CN] | crazybrother | 20 |
-| 15:30 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 23 |
-| 19:30 | Crystal | ![][flag_CN] | ![][flag_TW] | Zhou_Kai | 24 |
-| 21:00 | nickawm | ![][flag_CN] | ![][flag_CN] | tuziel | 19 |
-
-#### 8月5日，星期日
-
-| 比赛时间（UTC+8） | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 14:00 | IA daisuki | ![][flag_CN] | ![][flag_CN] | FDchuxin | 18 |
-| 15:30 | 18 胜者 | ![][flag_CN] | ![][flag_CN] | williammak | 21 |
-| 20:00 | 20 胜者 | ![][flag_CN] | ![][flag_CN] | 19 胜者 | 22 |
+--------------------------------------------------
 
 ## 图池
+
+### 决赛第二周
+
+**下载完整图池包！（97.9M） - [百度云盘](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw) - [Google 云端硬盘](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q)**
+
+- FreeMod
+  - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670/#mania/1530202)
+  - [Camellia - Proluvies \[\_ t h i n k i n g \_\]](https://osu.ppy.sh/beatmapsets/715014/#mania/1510819)
+  - [CELLON. - Virtual Mode \[V17tu4L\]](https://osu.ppy.sh/beatmapsets/661197/#mania/1399891)
+  - [Venetian Snares - She Runs \[Breakaway\]](https://osu.ppy.sh/beatmapsets/448086/#mania/961767)
+  - [EZFG - Cyber Thunder Cider \[Thunder\]](https://osu.ppy.sh/beatmapsets/621901/#mania/1311259)
+  - [Round Wave Crusher & KafkaType - Am I Scary? \[Yandere\]](https://osu.ppy.sh/beatmapsets/476582/#mania/1017965)
+  - [xi - PEACE BREAKER \[devastation (NSV)\]](https://osu.ppy.sh/beatmapsets/827204/#mania/1733416)
+  - [Hommarju - Rock It \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793/#mania/1532410)
+  - [Chroma - I \[Arpia's Exhaust\]](https://osu.ppy.sh/beatmapsets/738673/#mania/1620056)
+  - [ZUN arr.Myon - Plastic Mind \[snover's Phantasm\]](https://osu.ppy.sh/beatmapsets/361936/#mania/795044)
+  - [xi - Glorious Crown \[Chicken's 4K Extra\]](https://osu.ppy.sh/beatmapsets/474900/#mania/1014639)
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) \[Ekstremalny\]](https://osu.ppy.sh/beatmapsets/597699/#mania/1634508)
+  - [uma vs. Morimori Atsushi - Re:End of a Dream \[KK's Extra\]](https://osu.ppy.sh/beatmapsets/531425/#mania/1146184)
+  - [Assertive Fluttershy - Sorairo Days \[Hard\]](https://osu.ppy.sh/beatmapsets/740579/#mania/1562379)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - Bassdrop Freaks \[TofuStar's Bassdrop Maniac\]](https://osu.ppy.sh/beatmapsets/635897/#mania/1349433)**
+
+### 决赛第一周
+
+**下载完整图池包！（148M） - [百度云盘](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw) - [Google 云端硬盘](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6)**
+
+- FreeMod
+  - [Hitori Tori - perthed again (yambabom remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/569392/#mania/1277797)
+  - [Silent Siren - Hachigatsu no Yoru \[Ano Yoru wo\]](https://osu.ppy.sh/beatmapsets/658021/#mania/1393738)
+  - [Ruby My Dear - 7C0 \[Exposure\]](https://osu.ppy.sh/beatmapsets/783677/#mania/1645555)
+  - [LeaF - 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmapsets/589173/#mania/1247978)
+  - [AAAA Chazuke - Hop Step Adventure* \[Insane\]](https://osu.ppy.sh/beatmapsets/574576/#mania/1216879)
+  - [MYUKKE. - Shera \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675/#mania/1498129)
+  - [Morimori Atsushi - Paradigm Shift \[CS' Another\]](https://osu.ppy.sh/beatmapsets/765055/#mania/1608657)
+  - [Kaneko Chiharu - Kai Dan \[Lude's Oni\]](https://osu.ppy.sh/beatmapsets/623951/#mania/1317018)
+  - [Freezer feat. Kiichigo - Berry Go!! \[BERRY HARD\]](https://osu.ppy.sh/beatmapsets/677465/#mania/1432754)
+  - [Erehamonika remixed k - Der Wald (kors k Remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/582342/#mania/1232365)
+  - [kemu - Ikasama Life Game \[Smith's MX\]](https://osu.ppy.sh/beatmapsets/469204/#mania/1082620)
+  - [Drop - Dancer of Saramandora \[Crimson Dance\]](https://osu.ppy.sh/beatmapsets/526129/#mania/1116480)
+  - [EBIMAYO - GOODTEK \[4K Another\]](https://osu.ppy.sh/beatmapsets/369069/#mania/808998)
+  - [DJ Sharpnel - TAKECORE OF YOURSELF \[1.0x\]](https://osu.ppy.sh/beatmapsets/480479/#mania/1026063)
+- Tiebreaker
+  - **[KASAI HARCORES - Cycle Hit \[Out Of The Park\]](https://osu.ppy.sh/beatmapsets/682668/#mania/1443660)**
 
 ### 半决赛
 
@@ -87,7 +123,7 @@
   - [t+pazolite - QLWA \[EXTRA\]](https://osu.ppy.sh/beatmapsets/543543/#mania/1152058)
   - [DJ SEVEN P'n'B Remix - To Dimension \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/657155/#mania/1392067)
 - Tiebreaker
-  - **[kamome sano - </emotional> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
+  - **[kamome sano - \</emotional\> \[Tranquility\]](https://osu.ppy.sh/beatmapsets/660397/#mania/1398383)**
 
 ### 八强
 
@@ -131,9 +167,44 @@
 
 ## 比赛结果
 
-## 八强
+### 决赛第二周
 
-| 编号 | 2018-07-28，星期六 |  |  |  | 注释 |
+| 编号 | 2018-08-13，星期一 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
+
+| 编号 | 2018-08-14，星期二 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
+| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
+
+### 决赛第一周
+
+| 编号 | 2018-08-11，星期六 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
+| 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
+| 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
+| 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |
+
+### 半决赛
+
+| 编号 | 2018-08-04，星期六 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | WBD |
+| 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
+| 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
+| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | WBD |
+
+| 编号 | 2018-08-05，星期日 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | WBD |
+| 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
+| 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
+
+### 八强
+
+| 编号 | 2018-07-28，星期六 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | WBD |
 | 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | WBD |
@@ -141,24 +212,24 @@
 | 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
-| 编号 | 2018-07-29，星期日 |  |  |  | 注释 |
+| 编号 | 2018-07-29，星期日 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | WBD |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
 
-注：![][flag_CN] Jazzsoldiers 因故放弃比赛 。
+注：![][flag_CN] Jazzsoldiers 因故放弃比赛。
 
 ### 十六强
 
-| 编号 | 2018-07-21，星期六 |  |  |  | 注释 |
+| 编号 | 2018-07-21，星期六 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | WBD |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
-| 编号 | 2018-07-22，星期日 |  |  |  | 注释 |
+| 编号 | 2018-07-22，星期日 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
 | 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |

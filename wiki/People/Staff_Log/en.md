@@ -1146,3 +1146,21 @@ All users listed below were added on 2018-07-27.
 -   [Rizen](/users/3056732)
 -   [IceKalt](/users/5410645)
 -   [frogyfro](/users/7010859)
+
+### August
+
+-   Added [ZiRoX](/users/200768) to the Quality Assurance Team (2018-08-19)
+
+#### BN removals
+
+-   Removed [error\_exe777](/users/7975796) from the Beatmap Nominators by failing probation (2018-08-17)
+-   Removed [Cerulean Veyron](/users/1886524) from the Beatmap Nominators by resignation (2018-08-20)
+-   Removed [F D Flourite](/users/2459589) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Ryuusei Aika](/users/7777875) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [sahuang](/users/5318910) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Strategas](/users/2971837) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [DE-CADE](/users/3734394) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Lenfried-](/users/5314573) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Unpredictable](/users/7560872) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Garalulu](/users/757783) from the Beatmap Nominators by resignation (2018-08-25)
+-   Removed [Sieg](/users/1404615) from the Beatmap Nominators by resignation (2018-08-28)
