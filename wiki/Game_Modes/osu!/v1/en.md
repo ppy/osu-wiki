@@ -39,7 +39,7 @@
 
 **This page is based on the old version of osu! game mode using ScoreV1 system.**
 
-**[Click to return to current osu! game mode][osu! main wikilink]**
+*For the current osu! game mode, see [osu!](/wiki/Game_Modes/osu!)*
 
 ![Gameplay of osu!][osu! Interface image]
 

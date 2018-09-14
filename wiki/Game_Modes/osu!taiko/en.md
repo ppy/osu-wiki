@@ -32,8 +32,6 @@
 <!-- Title -->
 # osu!taiko
 
-**[Click to return to Game Modes page][Game_Modes wikilink]**
-
 <!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
 <!-- **[Click here to visit the older version of osu!taiko using deprecated ScoreV1 system](./v1 "osu!taiko v1")** -->
 
