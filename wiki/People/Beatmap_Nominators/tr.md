@@ -7,7 +7,7 @@ outdated: true
 Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
 ========================
 
-**Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Submissions/Beatmap_Ranking_Procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
+**Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Submission/Beatmap_Ranking_Procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
 Bu grup yakın zamanda pek çok değişiklikten geçti.
 22 Ağustos 2014 tarihinden itibaren ekibin bir parçası değiller, yani oyun içi sohbet möderatörlüğü yetkileri, oyun içindeki ve forumlardaki kırmızı isimleri kaldırıldı.
 Yapılan en son değişiklik 1 Şubat 2015'te, grubun ismi Beatmap Appreciation Team (BAT) yerine Beatmap Nomination Group (BNG) olarak değiştirilmesi ile gerçekleşti.
