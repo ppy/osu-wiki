@@ -19,6 +19,7 @@ tags:
 | Perempat Final | 2018-08-20/2018-08-26 |
 | Semifinal | 2018-08-27/2018-09-02 |
 | Final | 2018-09-03/2018-09-09 |
+| Grand Final | 2018-09-10 |
 
 ## Hadiah
 
@@ -63,6 +64,10 @@ tags:
 | **F** | ![][flag_ID] [Riria Rakira](/users/6310025) | ![][flag_ID] [HerpKiller](/users/8784992) | ![][flag_ID] [-Hex-](/users/8630988) |
 | **G** | ![][flag_ID] [THS](/users/1218514) | ![][flag_ID] [Yuki Tanaka](/users/1898048) | ![][flag_ID] [Constantine](/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](/users/5710721) | ![][flag_ID] [yogafm](/users/3247173) | ![][flag_ID] [Buyut](/users/9608136) |
+
+-----------------------
+
+![Podium](img/podium.png)
 
 -----------------------
 
@@ -197,6 +202,22 @@ tags:
 ------------------------------------------------------------------------
 
 ## Hasil Pertandingan
+
+### Grand Final
+
+| Senin, 2018-09-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| ![][flag_ID] **[-Hex-](/users/8630988)** | **7** | 2 | ![][flag_ID] [Toka-](/users/1595221) | [#1](/community/matches/45858947) |
+
+### Final
+
+| Grup | Sabtu, 2018-09-08 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| Upper | ![][flag_ID] **[-Hex-](/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](/users/9718235) | [#1](/community/matches/45763354)  [#2](/community/matches/45798451)|
+
+| Grup | Minggu, 2018-09-09 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| Lower | ![][flag_ID] **[Toka-](/users/1595221)** | **6** | 1 | ![][flag_ID] [LeWind](/users/9718235) | [#1](/community/matches/45830151) |
 
 ### Semifinal
 
