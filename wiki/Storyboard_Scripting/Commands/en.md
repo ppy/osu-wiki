@@ -98,7 +98,7 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are accepted. | An (x,y) position, as specified above. Decimals are accepted. |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
 
