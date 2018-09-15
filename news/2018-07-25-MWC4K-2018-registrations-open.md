@@ -8,7 +8,7 @@ With fruits depleted and the osu!catch World Cup concluding it is now time to re
 
 ![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)
  
-For more details, refer to the **[osu!mania 4K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/4K/)**.
+For more details, refer to the **[osu!mania 4K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018_4K)**.
 You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/779486)**.
  
 ## Tournament Schedule

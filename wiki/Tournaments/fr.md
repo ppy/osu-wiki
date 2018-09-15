@@ -55,11 +55,11 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 4K | ![][flag_KR] Corée du Sud | ![][flag_PH] Philippines | ![][flag_MY] Malaisie |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7K | ![][flag_KR] Corée du Sud | ![][flag_TH] ThaÏlande | ![][flag_MY] Malaisie |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4K | ![][flag_US] États-Unis d'Amérique | ![][flag_JP] Japon | ![][flag_GB] Royaume-Uni |
-| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 2015-12-01 | 2016-02-14 | 7K | ![][flag_CN] Chine | ![][flag_KR] Corée du Sud | ![][flag_MY] Malaisie |
-| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] Corée du Sud | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique |
-| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_ID] Indonésie |
-| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_BR] Brésil |
-| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018/7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Corée du Sud | ![][flag_MY] Malaisie | ![][flag_CN] Chine |
+| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016_7K) | 2015-12-01 | 2016-02-14 | 7K | ![][flag_CN] Chine | ![][flag_KR] Corée du Sud | ![][flag_MY] Malaisie |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] Corée du Sud | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_ID] Indonésie |
+| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_BR] Brésil |
+| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Corée du Sud | ![][flag_MY] Malaisie | ![][flag_CN] Chine |
 
 Tournois communautaires
 ----------
