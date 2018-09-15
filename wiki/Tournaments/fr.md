@@ -115,6 +115,12 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | --- | --- | --- | --- | --- | --- |
 | [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 
+### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](/users/8630988) | ![][flag_ID] [Toka-](/users/1595221) | ![][flag_ID] [LeWind](/users/9718235) |
+
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
@@ -149,12 +155,6 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | --- | --- | --- | --- | --- | --- |
 | DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
 | [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
-
-### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
-
-| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
-| --- | --- | --- | --- | --- | --- |
-| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](/users/8630988) | ![][flag_ID] [Toka-](/users/1595221) | ![][flag_ID] [LeWind](/users/9718235) |
 
 Voir aussi
 --------
