@@ -1,9 +1,9 @@
 "asc":                           "Article_Styling_Criteria"
 "asg":                           "Article_Styling_Criteria"
-"asc/news":                      "Article_Styling_Criteria/News"
-"asg/news":                      "Article_Styling_Criteria/News"
-"asc/images":                    "Article_Styling_Criteria/Images"
-"asg/images":                    "Article_Styling_Criteria/Images"
+"asc/images":                    "Article_Styling_Criteria/#images"
+"asg/images":                    "Article_Styling_Criteria/#images"
+"wiki_styling_criteria":         "Article_Styling_Criteria"
+"wsc":                           "Article_Styling_Criteria"
 
 "beatmap_discussions":         "Beatmap_Discussion"
 "modding_discussion":          "Beatmap_Discussion"
@@ -777,6 +777,10 @@
 "taikonator_3000":             "Mascots/#taikonator"
 "pyun":                        "Mascots/#pyun"
 "mascot/gallery":              "Mascots/Gallery"
+
+"nsc":      "News_Styling_Criteria"
+"asc/news": "News_Styling_Criteria"
+"asg/news": "News_Styling_Criteria"
 
 "medal":                           "Medals"
 "achievements":                    "Medals"

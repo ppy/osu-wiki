@@ -1,16 +1,22 @@
-# News
+# News Styling Criteria
 
-News articles exist on a slightly different system to the main osu!wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
+*For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
+
+News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
 ## Repository directory
 
-The following standards apply only to articles written for the news, and saved in the `news/` directory.
+The following standards apply only to articles written for the news, and saved in the `news` directory.
+
+### News post caching
+
+News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to purge it.
 
 ## Locales
 
-The news system does not support locales at this time. All articles must be in British English, with a consistent register.
+The news system does not support locales at this time. All articles must be in English (preferably British English), with a consistent register.
 
 What this register entails depends on the focus and tone of your article, but it must be consistent. Articles that sound professional must always sound professional. Articles that are conversational must be always conversational.
 
@@ -68,7 +74,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-The wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
+The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
 
 #### Titles
 
@@ -76,7 +82,7 @@ News articles do not use traditional Markdown titles in any capacity whatsoever.
 
 #### Headers
 
-Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Preferably, start with level 2 and use level 3 if the section belongs underneath the leading level 2 header. Never use headers to style or format text.
+Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Never use headers to style or format text.
 
 #### Bold
 
@@ -84,7 +90,7 @@ Bolding is reserved for highlighting objects or phrases of importance, be them p
 
 #### Italics
 
-Italics is used uncommonly to accent phrases or statements of interest within the conversational register. It may also be used to designate names of other creative works, such as the _osu! Coffee Hour_ or the _Aspire Beatmapping Contests_.
+Italics is used uncommonly to accent phrases or statements of interest within the conversational register. It may also be used to designate names of other creative works, such as the *osu! Coffee Hour* or the *Aspire Beatmapping Contests*.
 
 #### Horizontal bar
 
@@ -92,13 +98,11 @@ Horizontal bars must be used sparingly and only in situations where content need
 
 #### Tables
 
-We do not recommend using Markdown tables for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
+Markdown tables can be used, but is not recommended for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
 
 ### Images
 
-#### Repository directory
-
-All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the wiki shared image repository.
+All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the `osu-wiki` shared image repository.
 
 News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, with the exception of the ``.md`` suffix.
 
@@ -112,7 +116,15 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 
 #### File size
 
-All images must be optimized as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
+Images must be under 2 megabytes or they will fail to load.
+
+All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
+
+```
+jpeg-recompress -am smallfry <input> <output>
+```
+
+Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
 
 #### Captions
 
