@@ -12,15 +12,7 @@ If you have any suggestions regarding the Article Styling Criteria, [open an iss
 
 The following repository directory standards apply only to files saved in the `wiki` directory.
 
-### Article caching
-
-Articles in the osu! wiki are cached for up to five hours before they are fetched again from GitHub. Purging an article from the cache is possible, but is limited to a few osu! team members and is normally not needed.
-
-#### Image caching
-
-Images in the osu! wiki are cached for up to two hours before they are fetched again from GitHub. There is no way to purge an image from the cache.
-
-### Locales
+## Locales
 
 Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then `.md`.
 
@@ -363,7 +355,7 @@ Due to styling issues with the website, never use `` ` ` ``.
 When copying the text from a menu or button, copy the letter casing as is. For example:
 
 ```md
-The `osu!direct` button is visible in the main menu on the right side if you have osu!supporter tag.
+The `osu!direct` button is visible in the main menu on the right side, if you have an active osu!supporter tag.
 ```
 
 #### Folder and directory names
@@ -408,15 +400,17 @@ When copying the name of a chat channel, start it with a hash (`#`), followed by
 
 ### Code blocks
 
-It is preferred to use the triple grave marks instead of the four prefixed spaces. As of now, the osu! wiki does not support syntax highlighting.
+It is preferred to use the triple grave marks instead of the four prefixed spaces. If needed, you should set the language identifier for the code blocks to enable syntax highlighting. However, keep in mind that syntax highlighting for code blocks is not implemented in the website yet.
 
 ### Links
 
-You can use either the reference or inline style links.
+You can use either the reference or inline style links. Keep in mind that there are good times to prefer one over the other. For example, one should use reference style links when linking to a flag or icon multiple times. On the other hand, one could use inline style links when linking to an article.
 
-Keep in mind that there are good times to prefer one over the other. For example, one should use reference style links when linking to a flag or icon multiple times. On the other hand, one could use inline style links when linking to an article.
+---
 
-If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access (but under the metadata). However, for flags, do the opposite, put them at the bottom of the article.
+If you are using the reference style linking, it is suggested to place the reference links at the top of the article (but under the metadata) for quicker access. For flags, however, do the opposite, put them at the bottom of the article.
+
+---
 
 Never use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
 
@@ -695,14 +689,21 @@ For example:
 
 Usage of blockquotes is limited to quoting text from someone. It must not be used to format text otherwise.
 
-### Horizontal bar
+### Thematic break
 
-Use horizontal bars sparingly. A few uses of the horizontal bar may include (but is not limited to):
+Use the thematic break (also known as the horizontal rule or line) sparingly. A few uses of the thematic break may include (but is not limited to):
 
 - separating images from text
-- marking the end of a part of text within the same section
+- separating muliple images that follow one another
+- shifting the topic within a section
 
-When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, it will be parsed as a level 2 heading.
+When using the thematic break, make sure there is an empty line above the markup. Otherwise, it will be parsed as a level 2 heading. Having an empty line below the markup is preferred but not required. Thematic breaks should only have three hyphens, as depicted below:
+
+```md
+---
+```
+
+Adding additional hyphens to this markup will only affect osu! wiki editors.
 
 ## Grammar
 
