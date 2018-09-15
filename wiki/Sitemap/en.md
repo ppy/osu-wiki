@@ -248,14 +248,11 @@ tags:
     -   MWC
         -   [2014](/wiki/Tournaments/MWC/2014)
         -   [2015](/wiki/Tournaments/MWC/2015)
-        -   2016
-            -   [4K](/wiki/Tournaments/MWC/2016/4K)
-            -   [7K](/wiki/Tournaments/MWC/2016/7K)
-        -   2017
-            -   [4K](/wiki/Tournaments/MWC/2017/4K)
-            -   [7K](/wiki/Tournaments/MWC/2017/7K)
-        -   2018
-            -   [7K](/wiki/Tournaments/MWC/2018/7K)
+        -   [2016 4K](/wiki/Tournaments/MWC/2016_4K)
+        -   [2016 7K](/wiki/Tournaments/MWC/2016_7K)
+        -   [2017 4K](/wiki/Tournaments/MWC/2017_4K)
+        -   [2017 7K](/wiki/Tournaments/MWC/2017_7K)
+        -   [2018 7K](/wiki/Tournaments/MWC/2018_7K)
     -   [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/osu!_Tag_Team_Multiplayer_Tournament)
     -   OWC
         -   [1](/wiki/Tournaments/OWC/1)
