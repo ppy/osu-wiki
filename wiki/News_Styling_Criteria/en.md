@@ -10,11 +10,7 @@ As always, all news articles should aim to have proper spelling and grammar at a
 
 The following standards apply only to articles written for the news, and saved in the `news` directory.
 
-### News post caching
-
-News posts on the website are cached for up to sixty days before they are fetched again from GitHub. Purging a news post from the cache is possible, but is limited to a few osu! team members. If you had done a quick-fix on a news post that was already posted/merged, tell [Ephemeral](/users/102335) immediately in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to purge it.
-
-## Locales
+### Locales
 
 The news system does not support locales at this time. All articles must be in English (preferably British English), with a consistent register.
 
