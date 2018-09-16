@@ -93,7 +93,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] Malaysia |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_NL] Netherlands |
