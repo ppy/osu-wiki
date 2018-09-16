@@ -19,9 +19,9 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup #3](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_TW] Taiwan |
 | [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] South Korea | ![][flag_TW] Taiwan | ![][flag_PL] Poland |
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japan | ![][flag_PL] Poland | ![][flag_DE] Germany |
-| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_PL] Poland |
-| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] USA | ![][flag_CN] China | ![][flag_KR] South Korea |
-| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] USA | ![][flag_GB] United Kingdom |
+| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_PL] Poland |
+| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_KR] South Korea |
+| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_GB] United Kingdom |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -41,7 +41,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentinia/Colombia |
+| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_SE] Sweden |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_DE] Germany |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
@@ -54,11 +54,11 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | --- | --- | --- | --- | --- | --- | --- |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 4K | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_MY] Malaysia |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7K | ![][flag_KR] South Korea | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
-| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4K | ![][flag_US] USA | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4K | ![][flag_US] United States | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
 | [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 2015-12-01 | 2016-02-14 | 7K | ![][flag_CN] China | ![][flag_KR] South Korea | ![][flag_MY] Malaysia |
-| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] USA |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
-| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] South Korea | ![][flag_US] USA | ![][flag_BR] Brazil |
+| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018/7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_CN] China |
 
 Community
