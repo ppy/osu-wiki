@@ -48,28 +48,8 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ## Links
 
 - [Discussion thread](/community/forums/topics/767841)
-- [IGTS Discord server](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
-
------------------------
-
-## Match Schedule: Grand Finals
-
-### Saturday, 15 September 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Malaysia | ![][flag_MY] | ![][flag_US] | United States | **03:00** |
-
-### Sunday, 16 September 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #2a | Netherlands | ![][flag_NL] | ![][flag_MY] | Malaysia | **13:00** | ¹ |
-| #2b | Netherlands | ![][flag_NL] | ![][flag_US] | United States | **18:00** | ¹ |
-
-¹ Encounter dependent on winners of Match #1
 
 -----------------------
 
@@ -106,6 +86,18 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | **B** | ![][flag_EC] Ecuador | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_DE] Germany | ![][flag_VE] Venezuela |
 | **C** | ![][flag_PT] Portugal | ![][flag_SG] Singapore | ![][flag_RU] Russia | ![][flag_ID] Indonesia | ![][flag_CO] Colombia |
 | **D** | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_CR] Costa Rica |
+
+-----------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team(s) |
+| --- | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] Malaysia |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_NL] Netherlands |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] United States |
 
 -----------------------
 
@@ -266,11 +258,23 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Match Results
 
+### Grand Finals
+
+| Saturday, 2018-09-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Malaysia** ![][flag_MY] | **7** | 2 | ![][flag_US] United States | [#1](/community/matches/45981007) |
+
+| Sunday, 2018-09-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Netherlands ![][flag_NL] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](/community/matches/46004124) |
+| **Malaysia** ![][flag_MY] | **7** | 0 | ![][flag_NL] Netherlands | [#1](/community/matches/46005358) |
+
 ### Finals
 
 | Saturday, 2018-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Malaysia ![][flag_MY] | 1 | **6** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45826179) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](/community/matches/45811926) | 
 
 ### Semifinals
 
