@@ -154,6 +154,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
 
 ### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
+
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |

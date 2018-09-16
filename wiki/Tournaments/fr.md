@@ -111,9 +111,9 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 ### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
 
-| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_US] United States |
+| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaisie | ![][flag_NL] Pays-Bas | ![][flag_US] États-Unis d'Amérique |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -152,6 +152,12 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
 | [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+
+### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
