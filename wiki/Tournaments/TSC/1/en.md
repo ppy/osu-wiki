@@ -55,29 +55,35 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 15 September 2018
+### Saturday, 22 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
+| Match ID | Team A | Team B | Match Time (UTC) |
 | :-: | --: | :-- | :-: |
-| Lower | 69% acc | Press F for Ayachi | **01:00** |
-| Lower | TaikOwO | DON'T KAT | **02:00** |
-| Lower | Ooyama Shota | BabySnakes is Dumb | **06:00** |
-| Lower | Nihongo Wakaranai | Magnolia | **08:00** |
-| Lower | Low Accuracy SS | The Tasuke Train | **11:00** |
-| Lower | Hentaiko | aあاㄚɐაಅअ@ᵃ아 | **12:00** |
-| Lower | Barely Legal | hello we play taiko | **14:00** |
-| Lower | not a taiko team xd | Fun Assurance Team | **17:00** |
+| #1 | pneumonoultramicroscopicsilicovolcanoconiosis | Hentaiko | **04:00** |
+| #2 | ♂ Drum ♂ Spanking ♂ Festival ♂ | The Tasuke Train | **12:00** |
+| #3 | Foda-se | hello we play taiko | **14:00** |
+| #4 | Pißwasser | BabySnakes is Dumb | **23:00** |
 
-### Sunday, 16 September 2018
+### Sunday, 23 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| Upper | jakpat | ♂ Drum ♂ Spanking ♂ Festival ♂ | **13:00** |
-| Upper | pneumonoultramicroscopicsilicovolcanoconiosis | Samurai Pizza Cats | **13:30** |
-| Upper | i like grosses baguettes | Foda-se | **15:00** |
-| Upper | MIStaikon | Pißwasser | **16:00**
+| Match ID | Team A | Team B | Match Time (UTC) |  |
+| :-: | --: | :-- | :-: | :-: |
+| #5 | i like grosses baguettes | Samurai Pizza Cats | **08:00** |  |
+| #6 | MIStaikon | jakpat | **13:00** |  |
+| #7a | pneumonoultramicroscopicsilicovolcanoconiosis | hello we play taiko | **14:00** | ¹ |
+| #7b | pneumonoultramicroscopicsilicovolcanoconiosis | Foda-se | **14:00** | ¹ |
+| #7c | Hentaiko | hello we play taiko | **14:00** | ¹ |
+| #7d | Hentaiko | Foda-se | **14:00** | ¹ |
+| #8a | ♂ Drum ♂ Spanking ♂ Festival ♂ | Pißwasser | **03:00** | ² |
+| #8b | ♂ Drum ♂ Spanking ♂ Festivsal ♂ | BabySnakes is Dumb | **03:00** | ² |
+| #8c | The Tasuke Train | Pißwasser | **03:00** | ² |
+| #8d | The Tasuke Train | BabySnakes is Dumb | **03:00** | ² |
+
+¹ Encounter dependent on winner of Match #1 and Match #2
+
+² Encounter dependent on winner of Match #3 and Match #4
 
 -----------------------
 
@@ -121,6 +127,41 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**Download the mappack here! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE) - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk)**
+
+#### Mappool A
+
+- NoMod
+  - [t+pazolite - Marry me, Nightmare (HiroK) \[Halloween\]](/beatmapsets/641921/#taiko/1361036)
+  - [Luze - Titanomaquia (mysterfish) \[Legendary\]](/beatmapsets/607821/#taiko/1283746)
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (Jerry) \[Datenshi\]](/beatmapsets/634094/#taiko/1345572)
+  - [Nor + YUC'e - Mint Commet (Shallty) \[Cool Mint\]](/beatmapsets/751039/#taiko/1581311)
+- Hidden
+  - [Sorry about my face - 161914 (vrnl) \[Inner Oni\]](/beatmapsets/832971/#taiko/1744890)
+  - [E0ri4 - Absolute Gate (ekumea1123) \[Inner Oni\]](/beatmapsets/687337/#taiko/1454434)
+- HardRock
+  - [Saiph - Schwarzschild (tasuke912) \[Oni\]](/beatmapsets/600370/#taiko/1268647)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](/beatmapsets/690344/#taiko/1461118)
+- FreeMod
+  - [Eagle - Caterpillar (Yales) \[Inner Oni\]](/beatmapsets/832074/#taiko/1743273)
+  - [Negaren - Ha neul's Ambition (Raphalge) \[Inner Oni\]](/beatmapsets/802117/#taiko/1683534)
+
+#### Mappool B
+
+- Challenge
+  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](http://puu.sh/BvQaX/4cbcdb17de.osz)
+  - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](/beatmapsets/584714/#taiko/1237040)
+- DoubleTime
+  - [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](/beatmapsets/846862/#taiko/1771063)
+- Easy
+  - [Cornandbeans - Blaze (Backfire) \[Taikocalypse\]](/beatmapsets/850018/#taiko/1777297)
+- Hidden+HardRock
+  - [lapix feat. Numbndub - BRAND NEW DAY (1rori) \[Future Oni\]](/beatmapsets/747420/#taiko/1574961)
+- Tiebreaker
+  - **[Camellia - The King of Lions (ll-oscar) \[ll-taiko\]](/beatmapsets/763599/#taiko/1605524)**
 
 ### Quarterfinals
 
@@ -230,6 +271,30 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2018-09-15 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **Nihongo Wakaranai** | **6** | 4 | Magnolia | [#1](/community/matches/45971075) |
+| Low Accuracy SS | 5 | **6** | **The Tasuke Train** | [#1](/community/matches/45972388) |
+| Ooyama Shota | 0 | **6** | **BabySnakes is Dumb** | -win by default- |
+| Barely Legal | 0 | **6** | **hello we play taiko** | [#1](/community/matches/45976028) |
+| **Hentaiko** | **6** | 0 | aあاㄚɐაಅअ@ᵃ아 | -win by default- |
+| 69% acc | 1 | **6** | **Press F for Ayachi** | [#1](/community/matches/45979112) |
+| **TaikOwO** | **6** | 0 | DON'T KAT | [#1](/community/matches/45981570) |
+| **i like grosses baguettes** | **6** | 0 | Foda-se | [#1](/community/matches/45983052) |
+| **not a taiko team xd** | **6** | 3 | Fun Assurance Team | [#1](/community/matches/45983714) |
+
+| Sunday, 2018-09-16 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](/community/matches/45996362) ||
+| pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](/community/matches/46001430) |
+| Nihongo Wakaranai | 5 | **6** | **The Tasuke Train** | [#1](/community/matches/46004109) |
+| **jakpat** | **6** | 5 | ♂ Drum ♂ Spanking ♂ Festival ♂ | [#1](/community/matches/46010398) |
+| **hello we play taiko** | **6** | 2 | not a taiko team xd | [#1](/community/matches/46011967) |
+| **Hentaiko** | **6** | 4 | Press F for Ayachi | [#1](/community/matches/46012877)
+| **MIStaikon** | **6** | 5 | Pißwasser | [#1](/community/matches/46016090) |
 
 ### Round of 16
 
