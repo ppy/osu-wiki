@@ -109,16 +109,28 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
+### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Belanda | ![][flag_US] Amerika Serikat |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
+| Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Alostis](/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
+| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](/users/883990) | ![][flag_ID] [nirvashzero](/users/1254373) | ![][flag_ID] [Intel21](/users/1272422) |
+| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](/users/1595221) | ![][flag_ID] [FakeShield21](/users/1739225) | ![][flag_ID] [El SolarBeam](/users/1074710) |
+| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](/users/1380645) | ![][flag_ID] [Ex-Rei](/users/1929336) |
+| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [Time-](/users/2917987) |
+| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [dika312](/users/741613) |
 | [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](/users/8630988) | ![][flag_ID] [Toka-](/users/1595221) | ![][flag_ID] [LeWind](/users/9718235) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
@@ -140,6 +152,12 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+
+### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
