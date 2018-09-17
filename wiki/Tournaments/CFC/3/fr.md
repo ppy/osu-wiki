@@ -57,72 +57,49 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 
 -----------------------
 
-## Planning des matches: Phase de poules
+## Planning des matches: 16èmes de finale
 
-### Samedi, 8 Septembre 2018
+### Samedi, 22 Septembre 2018
 
-| Tableau | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
+| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| A | SkaylleexSamaFR | ![][flag_FR] | ![][flag_FR] | floflim | **13:00** |
-| B | Noctalium | ![][flag_FR] | ![][flag_FR] | 07th Loli | **14:00** |
-| B | Nyton | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **14:15** |
-| A | -Ken | ![][flag_TN] | ![][flag_FR] | SkaylleexSamaFR | **14:30** |
-| B | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Noctalium | **14:45** |
-| D | Fanther | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** |
-| B | 07th Loli | ![][flag_FR] | ![][flag_FR] | Nyton | **15:15** |
-| A | floflim | ![][flag_FR] | ![][flag_TN] | -Ken | **15:30** |
-| B | Nyton | ![][flag_FR] | ![][flag_FR] | Noctalium | **15:45** |
-| C | Orazeit | ![][flag_FR] | ![][flag_FR] | ume-skills | **16:00** |
-| D | Fanther | ![][flag_FR] | ![][flag_FR] | Julo | **16:00** |
-| B | 07th Loli | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **16:15** |
-| C | Sinaeb | ![][flag_CA] | ![][flag_FR] | FulgurentKille | **16:30** |
-| C | FulgurentKille | ![][flag_FR] | ![][flag_FR] | Orazeit | **17:00** |
-| C | ume-skills | ![][flag_FR] | ![][flag_CA] | Sinaeb | **17:15** |
-| C | Sinaeb | ![][flag_CA] | ![][flag_FR] | Orazeit | **17:30** |
-| C | ume-skills | ![][flag_FR] | ![][flag_FR] | FulgurentKille | **17:45** |
-| H | Noulayfe | ![][flag_FR] | ![][flag_FR] | Mnemosyne | **18:00** |
-| E | Electr0o | ![][flag_FR] | ![][flag_FR] | CaptainAlexis | **21:00** |
+| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | 07th Loli | **13:00** |
+| #2 | Orazeit | ![][flag_FR] | ![][flag_FR] | Julo | **14:00** |
+| #8 | -\[Smoked\]- | ![][flag_BE] | ![][flag_FR] | Noulayfe | **14:00** |
+| #3 | Electr0o | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
+| #4 | Libegon | ![][flag_FR] | ![][flag_FR] | Astreachan | **16:00** |
+| #5 | floflim | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **17:00** |
+| #6 | Sinaeb | ![][flag_CA] | ![][flag_FR] | Holloh | **18:00** |
+| #7 | Boros | ![][flag_FR] | ![][flag_FR] | Sounny | **20:00** |
 
-### Dimanche, 9 Septembre 2018
+### Dimanche, 23 Septembre 2018
 
-| Tableau | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
+| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| D | Julo | ![][flag_FR] | ![][flag_FR] | \[Haku\] | **13:00** |
-| D | Holloh | ![][flag_FR] | ![][flag_FR] | Julo | **13:45** |
-| H | Astreachan | ![][flag_FR] | ![][flag_FR] | Noulayfe | **14:30** |
-| D | \[Haku\] | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** |
-| E | dessee du mal | ![][flag_FR] | ![][flag_FR] | Boros | **15:45** |
-| E | Boros | ![][flag_FR] | ![][flag_FR] | Electr0o | **16:15** |
-| E | CaptainAlexis | ![][flag_FR] | ![][flag_FR] | dessee du mal | **16:30** |
-| H | Aequo3 | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:30** |
-| E | dessee du mal | ![][flag_FR] | ![][flag_FR] | Electr0o | **16:45** |
+| #9a | -Ken | ![][flag_TN] | ![][flag_FR] | Orazeit | **13:00** | ¹ |
+| #9b | -Ken | ![][flag_TN] | ![][flag_FR] | Julo | **13:00** | ¹ |
+| #9c | 07th Loli | ![][flag_FR] | ![][flag_FR] | Orazeit | **13:00** | ¹ |
+| #9d | 07th Loli | ![][flag_FR] | ![][flag_FR] | Julo | **13:00** | ¹ |
+| #10a | Electr0o | ![][flag_FR] | ![][flag_FR] | Libegon | **14:00** | ² |
+| #10b | Electr0o | ![][flag_FR] | ![][flag_FR] | Astreachan | **14:00** | ² |
+| #10c | dracoV | ![][flag_FR] | ![][flag_FR] | Libegon | **14:00** | ² |
+| #10d | dracoV | ![][flag_fR] | ![][flag_FR] | Astreachan | **14:00** | ² |
+| #11a | floflim | ![][flag_FR] | ![][flag_CA] | Sinaeb | **15:00** | ³ |
+| #11b | floflim | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** | ³ |
+| #11c | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_CA] | Sinaeb | **15:00** | ³ |
+| #11d | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** | ³ |
+| #12a | Boros | ![][flag_FR] | ![][flag_BE] | -\[Smoked\]- | **16:00** | ⁴ |
+| #12b | Boros | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** | ⁴ |
+| #12c | Sounny | ![][flag_FR] | ![][flag_BE] | -\[Smoked\]- | **16:00** | ⁴ |
+| #12d | Sounny | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** | ⁴ |
 
-### Samedi, 15 Septembre 2018
+¹ Confrontation dépendant du perdant du Match #1 et du Match #2
 
-| Tableau | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| A | Yoshi-GH | ![][flag_FR] | ![][flag_TN] | -Ken | **13:30** |
-| F | tutiflo | ![][flag_FR] | ![][flag_FR] | dracoV | **14:00** |
-| F | Iyorin | ![][flag_FR] | ![][flag_FR] | Sounny | **14:15** |
-| F | Sounny | ![][flag_FR] | ![][flag_FR] | tutiflo | **14:45** |
-| F | dracoV | ![][flag_FR] | ![][flag_FR] | Iyorin | **15:00** |
-| F | Iyorin | ![][flag_FR] | ![][flag_FR] | tutiflo | **15:30** |
-| A | Yoshi-GH | ![][flag_FR] | ![][flag_FR] | SkaylleexSamaFR | **16:00** |
-| F | dracoV | ![][flag_FR] | ![][flag_FR] | Sounny | **16:00** |
-| G | GyraFanBoy | ![][flag_FR] | ![][flag_MA] | l3ssili | **16:30** |
-| G | -\[Smoked\]- | ![][flag_BE] | ![][flag_FR] | Libegon | **16:45** |
-| G | Libegon | ![][flag_FR] | ![][flag_FR] | GyraFanBoy | **17:15** |
-| G | l3ssili | ![][flag_MA] | ![][flag_BE] | -\[Smoked\]- | **17:30** |
-| G | -\[Smoked\]- | ![][flag_BE] | ![][flag_FR] | GyraFanBoy | **18:00** |
-| G | l3ssili | ![][flag_MA] | ![][flag_FR] | Libegon | **18:30** |
+² Confrontation dépendant du perdant du Match #3 et du Match #4
 
-### Dimanche, 16 Septembre 2018
+³ Confrontation dépendant du perdant du Match #5 et du Match #6
 
-| Tableau | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| H | Mnemosyne | ![][flag_FR] | ![][flag_FR] | Aequo3 | **14:00** |
-| H | Aequo3 | ![][flag_FR] | ![][flag_FR] | Astreachan | **15:30** |
-| H | Astreachan | ![][flag_FR] | ![][flag_FR] | Mnemosyne | **16:00** |
+⁴ Confrontation dépendant du perdant du Match #7 et du Match #8
 
 -----------------------
 
@@ -133,13 +110,13 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | Top | ![][flag_FR] [Boros](/users/5490623), ![][flag_TN] [-Ken](/users/4430811), ![][flag_FR] [Holloh](/users/7612994), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [Sounny](/users/7326109), ![][flag_FR] [Noulayfe](/users/4316542), ![][flag_FR] [FulgurentKille](/users/4096322) |
 | High | ![][flag_FR] [SkaylleexSamaFR](/users/7720945), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [Noctalium](/users/6488167), ![][flag_FR] [Julo](/users/4203239), ![][flag_FR] [Mnemosyne](/users/9255433), ![][flag_FR] [tutiflo](/users/2024185), ![][flag_FR] [GyraFanBoy](/users/8417565), ![][flag_FR] [Electr0o](/users/9484428) |
 | Low | ![][flag_MA] [l3ssili](/users/12123746), ![][flag_FR] [CaptainAlexis](/users/6872242), ![][flag_FR] [dracoV](/users/7925725), ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [07th Loli](/users/4122996), ![][flag_FR] [Aequo3](/users/4495141), ![][flag_FR] [ume-skills](/users/1383450), ![][flag_FR] [floflim](/users/5954015) |
-| Unseeded | ![][flag_FR] [Fanther](/users/7415863), ![][flag_BE] [-\[Smoked\]-](/users/8731044), ![][flag_FR] [Iyorin](/users/1859986), ![][flag_FR] [Yoshi-GH](/users/3317042), ![][flag_FR] [Astreachan](/users/2953898), ![][flag_FR] [deesse du mal](/users/9177774), ![][flag_FR] [Nyton](/users/9475990), ![][flag_CA] [Sinaeb](/users/1576095) |
+| Unseeded | ![][flag_FR] [Fanther](/users/7415863), ![][flag_BE] [-\[Smoked\]-](/users/8731044), ![][flag_FR] [Iyorin](/users/1859986), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Astreachan](/users/2953898), ![][flag_FR] [deesse du mal](/users/9177774), ![][flag_FR] [Nyton](/users/9475990), ![][flag_CA] [Sinaeb](/users/1576095) |
 
-## Groups
+## Groupes
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Groupe | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [Yoshi-GH](/users/3317042) |
+| **A** | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [Chernobog](/users/3317042) |
 | **B** | ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [Nyton](/users/9475990) |
 | **C** | ![][flag_FR] [FulgurentKille](/users/4096322) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_CA] [Sinaeb](/users/1576095) |
 | **D** | ![][flag_FR] [Holloh](/users/7612994) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [Fanther](/users/7415863) |
@@ -149,6 +126,30 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 ## Liste des maps
+
+### 16èmes de finale
+
+**Télécharge le mappack ici! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648) - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5.)**
+
+- NoMod
+  - [Qrispy Joybox - licca (Priti) \[Ultra\]](/beatmapsets/307837/#osu/688568)
+  - [Shiena Nishizawa - The Asterisk War (Meg) \[Meg's Extra\]](/beatmapsets/440397/#osu/947556)
+  - [Tonight Alive - Little Lion Man (Vincs) \[Tiny Lion\]](/beatmapsets/549804/#fruits/1164191)
+  - [Warak - Cosmic Invaders (Spectator) \[Extra\]](/beatmapsets/619183/#fruits/1305127)
+- Hidden
+  - [Yeah Yeah Yeahs - 'EVERMORE SIDE A (Emiru) \[Heads Will Roll (A-Trak remix)\]](/beatmapsets/845175/#fruits/1767920)
+  - [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](//beatmapsets/706978/#osu/1494735)
+  - [onoken - Unisonote (Kyuare) \[Rain AR8\]](/beatmapsets/448498/#fruits/962563)
+- HardRock
+  - [Johannes Brahms - Inpromptus No. 18 (AngelHoney) \[Challenging\]](/beatmapsets/13991/#fruits/51439)
+  - [David Bergeaud - Veldin (sesito71) \[Qwarkastic!\]](/beatmapsets/9943/#fruits/39157)
+  - [saradisk - 220 - Kumano (Ascendance) \[Ascendance's Kumanoverdose\]](/beatmapsets/471346/#fruits/1008236)
+- DoubleTime
+  - [wowaka - Unhappy Refrain (Serena-) \[Serena's Platter\]](/beatmapsets/155930/#fruits/435505)
+  - [Akiyama Uni - Odoru Mizushibuki (Hollow Wings) \[Insane\]](/beatmapsets/153887/#osu/525219)
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Platter\]](/beatmapsets/415827/#fruits/1304682)
+- Tiebreaker
+  - **[Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](/beatmapsets/527777/#fruits/1119645)**
 
 ### Phase de poules
 
@@ -170,6 +171,78 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
   - [Memme - Force of Ra (Deif) \[Salad\]](/beatmapsets/573479/#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](/beatmapsets/493754/#fruits/1051483)**
+
+------------------------------------------------------------------------
+
+## Résultats des matches
+
+### Phase de poules
+
+| Groupe | Samedi, 2018-09-08 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| A | SkaylleexSamaFR ![][flag_FR] | 0 | **3** | ![][flag_FR] **floflim** | -win by default- |
+| B | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **07th Loli** | -win by default- |
+| B | Nyton ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](/community/matches/45795008) |
+| A | **-Ken** ![][flag_TN] | **3** | 0 | ![][flag_FR] SkaylleexSamaFR | [#1](/community/matches/45795607) |
+| B | **AAAAAAAAAAAAHHH** ![][flag_FR] | **3** | 0 | ![][flag_FR] Noctalium | -win by default- |
+| D | Fanther ![][flag_FR] | 1 | **3** | ![][flag_FR] **Holloh** | [#1](/community/matches/45796707) |
+| B | **07th Loli** ![][flag_FR] | **3** | 0 | ![][flag_FR] Nyton | [#1](/community/matches/45796827) |
+| A | floflim ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](/community/matches/45797462) |
+| B | **Nyton** ![][flag_FR] | **3** | 0 | ![][flag_FR] Noctalium | -win by default- |
+| C | **Orazeit** ![][flag_FR] | **3** | 0 | ![][flag_FR] ume-skills | -win by default- |
+| D | Fanther ![][flag_FR] | 0 | **3** | ![][flag_FR] **Julo** | [#1](/community/matches/45798531) |
+| B | 07th Loli ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](/community/matches/45798951) |
+| C | **Sinaeb** ![][flag_CA] | **3** | 0 | ![][flag_FR] FulgurentKille | -win by default- |
+| C | FulgurentKille ![][flag_FR] | 0 | **3** | ![][flag_FR] **Orazeit** | -win by default- |
+| C | ume-skills ![][flag_FR] | 0 | **3** | ![][flag_CA] **Sinaeb** | -win by default- |
+| C | Sinaeb ![][flag_CA] | 0 | **3** | ![][flag_FR] **Orazeit** | [#1](/community/matches/45801482) |
+| C | **ume-skills** ![][flag_FR] | **3** | 0 | ![][flag_FR] FulgurentKille | -win by default- |
+| H | **Noulayfe** ![][flag_FR] | **3** | 0 | ![][flag_FR] Mnemosyne | [#1](/community/matches/45802376)
+| E | **Electr0o** ![][flag_FR] | **3** | 0 | ![][flag_FR] CaptainAlexis | [#1](/community/matches/45808697) |
+
+| Groupe | Dimanche, 2018-09-09 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| D | **Julo** ![][flag_FR] | **3** | 1 | ![][flag_FR] \[Haku\] | [#1](/community/matches/45829507) |
+| D | **Holloh** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](/community/matches/45830577) |
+| D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | [#1](/community/matches/45831742) |
+| H | Astreachan ![][flag_FR] | 1 | **3** | ![][flag_FR] **Noulayfe** | [#1](/community/matches//45831873) |
+| E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | -win by default- |
+| E | Boros ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | [#1](/community/matches/45834648) |
+| E | **CaptainAlexis** ![][flag_FR] | **3** | 0 | ![][flag_FR] deesse du mal | -win by default- |
+| H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/45835295) |
+| E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | -win by default- |
+
+| Groupe | Lundi, 2018-09-10 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Fanther** | [#1](/community/matches/45863085) |
+| E | CaptainAlexis ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](/community/matches/45864499) |
+
+| Groupe | Mercredi, 2018-09-12 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| F | dracoV ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](/community/matches/45903381) |
+| A | **floflim** ![][flag_FR] | **3** | 0 | ![][flag_FR] Chernobog | [#1](/community/matches/45905966) |
+
+| Groupe | Samedi, 2018-09-15 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| A | Chernobog ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](/community/matches/45973053) |
+| F | tutiflo ![][flag_FR] | 0 | **3** | ![][flag_FR] **dracoV** | -win by default- |
+| F | Iyorin ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](/community/matches/45975575) |
+| F | **Sounny** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | -win by default- |
+| F | **dracoV** ![][flag_FR] | **3** | 1 | ![][flag_FR] Iyorin | [#1](/community/matches/45974609) |
+| F | **Iyorin** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | -win by default- |
+| A | Chernobog ![][flag_FR] | 1 | **3** | ![][flag_FR] **SkaylleexSamaFR** | [#1](/community/matches/45977124) |
+| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | -nullified- |
+| G | -\[Smoked\]- ![][flag_FR] | 0 | **3** | ![][flag_FR] **Libegon** | [#1](/community/matches/45978410) |
+| G | **Libegon** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | -win by default- |
+| G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] -\[Smoked\]- | -win by default- |
+| G | **-\[Smoked\]-** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | -win by default- |
+| G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] **Libegon** | -win by default- |
+
+| Groupe | Dimanche, 2018-09-16 |  |  |  |  | 
+| :-: | --: | :-: | :-: | :-- | :-: |
+| H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | -win by default- |
+| H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](/community/matches/46011327) |
+| H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](/community/matches/46012156) |
 
 ------------------------------------------------------------------------
 
