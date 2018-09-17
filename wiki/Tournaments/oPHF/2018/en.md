@@ -34,7 +34,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Position | Member(s) |
 | :-- | :-- |
 | Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
+| Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](http://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](http://osu.ppy.sh/users/7483452) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
@@ -109,9 +109,6 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
   - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
   - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-  - **EZ (Easy)** - The Easy mod will be used by both participants if the map chosen falls into the Easy category of the mappool.
-  - **FL (Flashlight)** - The Flashlight mod will be used by both participants if the map chosen falls into the Flashlight category of the mappool.
-  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 - The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
 #### osu!mania
@@ -239,3 +236,4 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
