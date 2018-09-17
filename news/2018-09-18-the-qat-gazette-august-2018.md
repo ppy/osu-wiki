@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The QAT Gazette: August 2018"
-date: 2018-08-18 12:00:00 +0000
+date: 2018-09-18 10:00:00 +0000
 ---
 
-Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications — all your mapping and modding news from the past month is inside!
+Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications—all your mapping and modding news from the past month is inside!
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
@@ -13,11 +13,11 @@ by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 Hello again!
 
-The summer vacation is coming to an end; for most of us heralding the return to school, university or work. Whether this is inspires excitement, dread, or any emotion in-between, a healthy dose of mapping and modding news updates is surely just what you need! Whether you're here to keep up to date with Beatmap Nominator rule changes, new and upcoming Ranking Criteria updates, or recent meetings of the Quality Assurance Team, we've got you covered. Scroll down to find your own little slice of information heaven!
+The summer vacation is coming to an end, for most of us heralding the return to school, university or work. Whether this inspires excitement, dread, or any emotion in-between, a healthy dose of mapping and modding news updates is surely just what you need! If you're here to keep up to date with Beatmap Nominator rule changes, new and upcoming Ranking Criteria updates, or recent meetings of the Quality Assurance Team, we've got you covered. Scroll down to find your own little slice of information heaven!
 
-Before we begin though, please join me in showing the utmost appreciation for some of our longest serving contributors in the Beatmap Nominators — [alienflybot](https://osu.ppy.sh/users/636114), [Kagetsu](https://osu.ppy.sh/users/6203841), [sahuang](https://osu.ppy.sh/users/5318910) and [Strategas](https://osu.ppy.sh/users/2971837) (2 years of service each), [Kibbleru](https://osu.ppy.sh/users/3193504) (3 years) and [Gero](https://osu.ppy.sh/users/1467715), [jonathanlfj](https://osu.ppy.sh/users/270377), [Natsu](https://osu.ppy.sh/users/1953876) and [smallboat](https://osu.ppy.sh/users/243049), each with a staggering **four years** of cumulative service.
+Before we begin though, please join me in showing the utmost appreciation for some of our longest serving contributors in the Beatmap Nominators—[alienflybot](https://osu.ppy.sh/users/636114), [Kagetsu](https://osu.ppy.sh/users/6203841), [sahuang](https://osu.ppy.sh/users/5318910) and [Strategas](https://osu.ppy.sh/users/2971837) (two years of service each), [Kibbleru](https://osu.ppy.sh/users/3193504) (three years) and [Gero](https://osu.ppy.sh/users/1467715), [jonathanlfj](https://osu.ppy.sh/users/270377), [Natsu](https://osu.ppy.sh/users/1953876) and [smallboat](https://osu.ppy.sh/users/243049), each with a staggering **four years** of cumulative service.
 
-From the Quality Assurance Team, we would also like to recognize the incomparable efforts of [Deif](https://osu.ppy.sh/users/318565) and [p3n](https://osu.ppy.sh/users/123703), who have also served admirably in their respective field(s) for an incredible **four years**.
+From the Quality Assurance Team, we would also like to recognize the incomparable efforts of [Deif](https://osu.ppy.sh/users/318565) and [p3n](https://osu.ppy.sh/users/123703), who have served admirably in their respective fields for an incredible **four years**.
 
 It is no exaggeration to state that their tireless efforts have helped shape osu!'s mapping and modding communities into the successful force they are today, having assisted and mentored a countless number of mappers along the way. Each will receive a profile badge advertising their length of service which they are encouraged to display with pride!
 
@@ -34,12 +34,12 @@ This gives future applicants an opportunity to increase their modding score in t
 
 ### Beatmap Nominator Retirements
 
-This month saw the departure of six of our hard working Beatmap Nominators; some old, some relatively new — [Ascendance](https://osu.ppy.sh/users/2931883), [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Fii](https://osu.ppy.sh/users/3922569),  [Garalulu](https://osu.ppy.sh/users/757783), [riffy](https://osu.ppy.sh/users/597957) and [Sieg](https://osu.ppy.sh/users/1404615). Whether it’s for university study, military service, or simply a well needed rest, your contributions have been greatly appreciated and we wish you the best of luck in whichever path you now pursue.
+This month saw the departure of six of our hard-working Beatmap Nominators: some old, some relatively new—[Ascendance](https://osu.ppy.sh/users/2931883), [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Fii](https://osu.ppy.sh/users/3922569),  [Garalulu](https://osu.ppy.sh/users/757783), [riffy](https://osu.ppy.sh/users/597957) and [Sieg](https://osu.ppy.sh/users/1404615). Whether it’s for university study, military service, or simply a well-needed rest, your contributions have been greatly appreciated and we wish you the best of luck in whichever path you now pursue.
 
 ## Within the Quality Assurance Team
 by [Raiden](https://osu.ppy.sh/users/2239480)
 
-Most of this last month's news and developments centred the discussion and outcomes of a Quality Assurance Team Meeting. Usually we like to hold these publically, but sometimes time isn't on our side and we really need to discuss things at short notice, so apologies for that! A recap of the key aspects of this meeting can be found below.
+Most of this last month's news and developments centred the discussion and outcomes of a Quality Assurance Team meeting. Usually we like to hold these publicly, but sometimes time isn't on our side and we really need to discuss things at short notice, so apologies for that! A recap of the key aspects of this meeting can be found below.
 
 ### QAT September flash-meeting
 
