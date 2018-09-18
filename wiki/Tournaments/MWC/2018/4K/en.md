@@ -42,7 +42,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -99,9 +99,30 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
+### Semifinals
+
+- Freemod
+	- [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](http://osu.ppy.sh/b/1384837&m=3)
+	- [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](http://osu.ppy.sh/b/1723938&m=3)
+	- [Camellia - Chirality \(Abraxos\) \[Kheiral point\]](http://osu.ppy.sh/b/1440557&m=3)
+	- [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](http://osu.ppy.sh/b/1777377&m=3)
+	- [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](http://osu.ppy.sh/b/1777378&m=3)
+	- [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](http://osu.ppy.sh/b/1770257&m=3)
+	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM \(No SV\)\]](http://osu.ppy.sh/b/1744997&m=3)
+	- [Chroma - I \(Guilhermeziat\) \[You\]](http://osu.ppy.sh/b/1592359&m=3)
+	- [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](http://osu.ppy.sh/b/1576797&m=3)
+	- [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](http://osu.ppy.sh/b/1665871&m=3)
+	- [Coakira - KAMISORI \(Civilization\) \[ERADICATE\]](http://osu.ppy.sh/b/1659079&m=3)
+	- [Glamour Of The Kill - A Hope In Hell \(Halogen-\) \[Hopeless\]](http://osu.ppy.sh/b/1777343&m=3)
+	- [Neil Cicierega - Wallspin \(Pope Gadget\) \[Wonderround \[262.5\]\]](http://osu.ppy.sh/b/1777424&m=3)
+	- [Tak - SINister Evolution \(Daikyi\) \[SVil\]](http://osu.ppy.sh/b/1777438&m=3)
+	- [MDK - Press Start \(juankristal\) \[1up\]](http://osu.ppy.sh/b/1777456&m=3)
+- Tiebreaker
+	- **[Infected Mushroom - Sa'eed \(Pope Gadget\) \[Icy X - Tiebreaker Edition\]](http://osu.ppy.sh/b/1777431&m=3)**
+
 ### Quarterfinals
 
-- Freemod (14)
+- Freemod
 	- [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](http://osu.ppy.sh/b/1765782&m=3)
 	- [Hommarju - Rock It \(Mage\) \[aLNother\]](http://osu.ppy.sh/b/1532410&m=3)
 	- [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](http://osu.ppy.sh/b/1697375&m=3)
@@ -160,29 +181,57 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 15. September 2018
+### Saturday, 22. September 2018
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
-| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 |
-| Canada | ![][flag_CA] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_MY] | Malaysia | **3:00 UTC** | 23:00 (Fri) UTC-04 | 11:00 UTC+08 | ² |
+| Japan | ![][flag_JP] | ![][flag_SG] | Singapore | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ² |
+| France | ![][flag_FR] | ![][flag_CN] | China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 | ² |
+| Argentina | ![][flag_AR] | ![][flag_ID] | Indonesia | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ² |
+| Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 | ³ |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | **20:00 UTC** | 16:00 UTC-04 | 17:00 UTC-03 | ¹ |
 
-### Sunday, 16. September 2018
+### Sunday, 23. September 2018
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **0:30 UTC** | 21:30 (Sat) UTC-03 | 10:30 UTC+10 |
-| United States | ![][flag_US] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **13:30 UTC** | 21:30 UTC+08 | 14:30 UTC+01 |
-| Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **15:00 UTC** | 22:00 UTC+07 | 12:00 UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Argentina | ![][flag_AR] | ![][flag_CN] | China | **3:00 UTC** | 0:00 UTC-03 | 20:00 UTC+08 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **5:00 UTC** | 12:00 UTC+07 | 13:00 UTC+08 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_SG] | Singapore | **8:00 UTC** | 16:00 UTC+08 | 16:00 UTC+08 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | **8:00 UTC** | 16:00 UTC+08 | 17:00 UTC+09 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_FR] | France | **10:00 UTC** | 17:00 UTC+07 | 12:00 UTC+02 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **12:00 UTC** | 13:00 UTC+01 | 21:00 UTC+09 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_SG] | Singapore | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **14:00 UTC** | 10:00 UTC-04 | 23:00 UTC+09 | ³ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2018-09-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 6 | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45972328) |
+| Sweden ![][flag_SE] | 0 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45974312) |
+| Canada ![][flag_CA] | 6 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45976813) |
+
+| Sunday, 2018-09-16 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Argentina ![][flag_AR] | 6 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45996195) |
+| United States ![][flag_US] | 6 | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45997665) |
+| Singapore ![][flag_SG] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/46011254) |
+| Indonesia ![][flag_ID] | 1 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46013671) |
+| Chile ![][flag_CL] | 5 | 6 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/46016370) |
 
 ### Round of 16
 
