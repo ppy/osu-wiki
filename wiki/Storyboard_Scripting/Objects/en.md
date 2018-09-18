@@ -30,7 +30,6 @@ Where:
     -   3 - TopRight
     -   4 - BottomCentre
     -   5 - TopCentre
-    -   6 - Custom (Same as TopLeft)
     -   7 - CentreRight
     -   8 - BottomLeft
     -   9 - BottomRight
