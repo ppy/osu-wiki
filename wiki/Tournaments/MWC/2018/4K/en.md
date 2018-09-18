@@ -192,7 +192,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | France | ![][flag_FR] | ![][flag_CN] | China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 | ² |
 | Argentina | ![][flag_AR] | ![][flag_ID] | Indonesia | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ² |
 | Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 | ³ |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **20:00 UTC** | 16:00 UTC-04 | 17:00 UTC-03 | ¹ |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | **22:00 UTC** | 18:00 UTC-04 | 19:00 UTC-03 | ¹ |
 
 ### Sunday, 23. September 2018
 
