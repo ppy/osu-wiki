@@ -56,7 +56,7 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 -   3 - TopRight
 -   4 - BottomCentre
 -   5 - TopCentre
--   6 - Custom (same effect as TopLeft but shouldn't be used)
+-   6 - Custom (same effect as TopLeft, but should not be used)
 -   7 - CentreRight
 -   8 - BottomLeft
 -   9 - BottomRight
