@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: August 2018"
-date: 2018-09-18 10:00:00 +0000
+date: 2018-09-19 06:00:00 +0000
 ---
 
 Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications — all your mapping and modding news from the past month is inside!
@@ -19,7 +19,7 @@ Before we begin though, please join me in showing the utmost appreciation for so
 
 From the Quality Assurance Team, we would also like to recognize the incomparable efforts of [Deif](https://osu.ppy.sh/users/318565) and [p3n](https://osu.ppy.sh/users/123703), who have served admirably in their respective fields for an incredible **four years**.
 
-It is no exaggeration to state that their tireless efforts have helped shape osu!'s mapping and modding communities into the successful force they are today, having assisted and mentored a countless number of mappers along the way. Each will receive a profile badge advertising their length of service which they are encouraged to display with pride!
+It is no exaggeration to state that their tireless efforts have helped shape osu!'s mapping and modding communities into the successful force they are today, having assisted and mentored a countless number of mappers along the way. Each will receive a profile badge acknowledging their length of service which they are encouraged to display with pride!
 
 ## Within the Beatmap Nominators
 by [Protastic101](https://osu.ppy.sh/users/6712747)
