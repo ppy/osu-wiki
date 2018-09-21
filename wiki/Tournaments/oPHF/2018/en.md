@@ -34,11 +34,11 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Position | Member(s) |
 | :-- | :-- |
 | Management and Organisation | ![][flag_PH] [Zaphirox](/users/2478675) (osu!standard), ![][flag_PH] [Deneb](/users/2604212) (osu!taiko), ![][flag_PH] [Roido](/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](/users/4469895) (osu!mania) |
-| Map Selectors (osu!standard) | ![][flag_PH] [Nitrous](/users/7293512), ![][flag_ID] [nya10](/users/1372608) |
+| Map Selectors (osu!standard) | ![][flag_PH] [MioMilo](/users/2199427), ![][flag_PH] [Nitrous](/users/7293512), ![][flag_ID] [nya10](/users/1372608) |
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [SilentVoice](/users/9570552), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [SilentVoice](/users/9570552), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [Deadpulse](/users/8575527) |
 | Commentators | *to be announced.* |
 | Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
@@ -101,6 +101,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
   - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
   - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 	
 #### osu!catch
 
