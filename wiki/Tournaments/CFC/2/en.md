@@ -7,7 +7,7 @@ tags:
 
 ![CFC 2 Logo](img/logo.png)
 
-The **Catch French Cup 2** (***CFC 2***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It was the second installment of the Catch French Cup.
+The **Catch French Cup 2** (***CFC 2***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It was the 2nd installment of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -46,7 +46,7 @@ The Catch French Cup 2 was run by various community members by distributing the 
 
 - [Discussion thread](/community/forums/topics/714536)
 - [Livestream](https://www.twitch.tv/osufrlive)
-- **[Main Spreadsheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
 
 ## Participants
 
@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
   - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (ztrot, Blue Dragon) \[Holy Shit! It's Rainbow Dash!!\]](/beatmapsets/57255/#fruits/172662)
   - [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](/beatmapsets/49459/#fruits/152480)
 - Tiebreaker 
-  - [Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Spectator) \[Overdrive\]](/beatmapsets/713891/#fruits/1508761)
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Spectator) \[Overdrive\]](/beatmapsets/713891/#fruits/1508761)**
   
 ### Finals
 
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
    - [I SEE MONSTAS - Holdin On (Skrillex and Nero Remix) (Hobbes2) \[Hobbes2's Extreme\]](/beatmapsets/701330/#fruits/1498152)
    - [Lucas Fader - Main Theme - Dubstep Remix (Strategas) \[Expert: Neo Cortex\]](/beatmapsets/588976/#fruits/1246807)
 - Tiebreaker 
-  - [BlackY - Harpuia -evolutionary extended ver- (Minato Yukina) \[Final Showdown\]](/beatmapsets/565247/#fruits/1194708)
+  - **[BlackY - Harpuia -evolutionary extended ver- (Minato Yukina) \[Final Showdown\]](/beatmapsets/565247/#fruits/1194708)**
   
 ### Semifinals
 
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
    - [Sagara Kokoro - Hoshizora no Ima (Star Stream) \[S.S\]](/beatmapsets/79116/#fruits/221950)
    - [Kitsune^2 - Rainbow Tylenol (Mismagius) \[Hell\]](/beatmapsets/20789/#fruits/72585)
 - Tiebreaker 
-  - [DystopiaGround - AugoEidEs (Minato Yukina) \[Ressurection\]](/beatmapsets/537671/#fruits/1139268)
+  - **[DystopiaGround - AugoEidEs (Minato Yukina) \[Ressurection\]](/beatmapsets/537671/#fruits/1139268)**
   
 ### Quarterfinals
 
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
    - [Roselia - LOUDER (Minato Yukina) \[Crystal's Rain\]](/beatmapsets/595580/#fruits/1270273)
    - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten) \[Saten's SELAMAT PAGI!\]](/beatmapsets/32775/#fruits/112586)
 - Tiebreaker 
-  - [UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (-Plus-) \[\*Together as one, we stay determined!\]](/beatmapsets/636920/#fruits/1351241)
+  - **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (-Plus-) \[\*Together as one, we stay determined!\]](/beatmapsets/636920/#fruits/1351241)**
   
 ### Group Stage 
 
@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
   - [Mili - Utopiosphere -Platonism- (Tyrell) \[Tyrell's Utopia\]](/beatmapsets/522132/#fruits/1111110)
   - [DWB feat. Fade - One Reason (TV Size) (Sieg) \[Insane\]](/beatmapsets/100892/#fruits/323797)
 - Tiebreaker 
-  - [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Ascendance) \[Ascendance's Reunion\]](/beatmapsets/544468/#fruits/1161865)
+  - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Ascendance) \[Ascendance's Reunion\]](/beatmapsets/544468/#fruits/1161865)**
   
 ## Rules
 
