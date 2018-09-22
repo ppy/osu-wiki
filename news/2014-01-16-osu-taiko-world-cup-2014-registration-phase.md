@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-
 ---
 Greetings. We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014#ruleset) before registering for this tournament.
 
-![image](http://puu.sh/6o8gy)
+![image](/wiki/shared/news/banners/TWC_2014.png)
 
 For more details, refer to the [osu! Taiko World Cup wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014).  
   
@@ -24,9 +24,9 @@ For more details, refer to the [osu! Taiko World Cup wiki article](https://osu.p
 
 ## Prizes
 
-*   #1: 6 months supporter tag, profile badge, physical TWC trophy
-*   #2: 3 months supporter tag
-*   #3: 1 month supporter tag  
+*   \#1: 6 months supporter tag, profile badge, physical TWC trophy
+*   \#2: 3 months supporter tag
+*   \#3: 1 month supporter tag  
 
 ## Registration Instructions
 

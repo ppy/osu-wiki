@@ -9,7 +9,7 @@ Hello again! Welcome to the second Monthly Fanart Contest! Each month we'll be s
 
 **osu! Around the World!**
 
-[![](https://78.media.tumblr.com/79866f89f2ea428a6d9bd633076690c1/tumblr_inline_n54psdgsam1s6rj41.png)](https://osu.ppy.sh/forum/t/206852)
+[![](/wiki/shared/news/2014-05-06-osu-monthly-fanart-contest-2-vote-for-mfc1/tumblr_inline_n54psdgsam1s6rj41.png)](https://osu.ppy.sh/forum/t/206852)
 
 This is an intentionally open-ended theme, so go wild! Some possibilities include fanart of new or existing international osu! mascots, fanart of Pippi or other osu! characters in exotic or iconic worldwide locations, literal interpretations of the game of osu! being played or represented around the world, or anything else you can think of! Themes of travel and togetherness are what we have in mind. Once again a **[full one year supporter tag](https://osu.ppy.sh/p/support)** is up for grabs, and this time around we're offering the added incentive of the **[osu! tablet](https://osu.ppy.sh/forum/t/169139)**, which should come in handy for drawing as well as playing.
 

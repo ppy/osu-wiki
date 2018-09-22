@@ -23,15 +23,15 @@ This creates a path to follow, and usually plays well. Charles445 refers to this
 
 Sliders basically have two ends: the first one and the last one. They are completely different in terms of playability: the first end needs to be hit properly like a circle (except getting a 50 or a miss on it will cause a combobreak and a 100 on the slider, referred to as sliderbreak):
 
-![](https://78.media.tumblr.com/f9ee566cc32ec5a5fe702fc6c879c426/tumblr_inline_mr7sy1Gugk1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7sjxuBEp1qz4rgp.png)
 
 However, the last end of the slider does not need to be hit properly and has an entire area in which it can be left while still having a 300:
 
-![](https://78.media.tumblr.com/9696dec8a41ca6436ef29d3201a7c53d/tumblr_inline_mr7t2pRKIs1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7t2pRKIs1qz4rgp.png)
 
 This allows for much more lenient flow and movement. This is called slider leniency, and Charles445 refers to flow using that as **dropoff flow**. This is what makes sliderjumps work so well.
 
-![](https://78.media.tumblr.com/84fb8977dbf7a3efe7099bd052c9c465/tumblr_inline_mr7tcmET971qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7tcmET971qz4rgp.png)
 
 In this example, the movement in red is the movement that would be needed if both ends of the slider counted equally in terms of gameplay. This movement is crude and harsh, and wouldnâ€™t flow well. However, thanks to slider leniency, it is possible to simplify this into a very simple linear flow directly from one slider's head to the other.
 
@@ -41,11 +41,11 @@ Onto errors I usually notice now. There are three kinds:
 
 This happens when flow is broken because of an object that seems to follow it but is actually off:
 
-![](https://78.media.tumblr.com/f9d97bfa3e85d22bb3c1e73ca948889d/tumblr_inline_mr7tu7tf6i1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7tu7tf6i1qz4rgp.png)
 
 The green lines indicate the flow that the pattern follows. Flow is good between two consecutive objects: the lines complete each other well. However, between 3 and 4, the flows drops because of this small jump form one object to the next. Same problem here:
 
-![](https://78.media.tumblr.com/2e7a47bf16828a3e0445657a7cfe312e/tumblr_inline_mr7u78OpcK1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7u78OpcK1qz4rgp.png)
 
 This one is particular: it is possible to play the first slider as a straight line going simply from its start to the start of the second, and that works well. The problem here is that the first slider is curved, which implies the green movement, while the expected movement is different. This flow is visually misleading (but another article will detail this more).
 
@@ -55,7 +55,7 @@ The solution to this is simply to make the green lines (in my diagrams) connect.
 
 This one is a problem with flow attempting to use slider leniency. Sliders have a path which players usually follow, which means that they have their own flow. When a slider fails to connect with another slider because of its direction, it leads to faulty flow.
 
-![](https://78.media.tumblr.com/1965c6863d92775dbaa34761be4340b4/tumblr_inline_mr7umgcCUJ1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7umgcCUJ1qz4rgp.png)
 
 The red line indicates the slider's path, that is to say its own personal flow. The blue line indicates where it is possible to leave the first slider the latest possible without getting a 100, and the green lines indicates when to leave the slider the soonest possible without getting a 100 - making use of slider leniency. These two lines define an area on the playfield, highlighted in cyan, in which flow is good. The second slider's own path is outside of this area, which makes it play weird, as a broken angle. I call them mislead sliders because they are not going in the right direction (red line). The fix is simply to rotate the faulty slider (or change its shape depending on what's best) to make it enter the cyan area.
 
@@ -63,7 +63,7 @@ The red line indicates the slider's path, that is to say its own personal flow. 
 
 This happens usually with big jumps, when a jump leads into a slider, which goes back directly into the jump's direction. It is on most cases a particular case of mislead sliders, but they can also happen with circles:
 
-![](https://78.media.tumblr.com/5a3592cadb9c2f2d93ef86ae0981da01/tumblr_inline_mr7v23COZ11qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7v23COZ11qz4rgp.png)
 
 The problem with this kind of flow is the inconsistent feeling it gives. Back-and-forth patterns play well when they are repeated - especially with circles. In this case, there are two opposed speeds (the jump, which goes very fast, and the slider, that goes much slower) in two opposed directions, which completely breaks the movement and resets the flow.
 

@@ -15,7 +15,7 @@ Play the winning beatmap [here](https://osu.ppy.sh/s/163112), and view the judge
 
 ADHD, the album that My Love comes from, was released a few weeks ago on Bandcamp. If you liked the song, and wish to support the artist behind the track, consider purchasing the full album below!  
   
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3027743476/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless=""><a href="https://kubaoms.bandcamp.com/album/adhd?t=ZjhlMGM1OTlhZWZhYmQ3Yzk5ZjYwNmVhNTc5NjNjNjBhODQzNGNiMSxGdkN6RklQTQ==&amp;b=t:IzBfiACgMyVf9sEXdmjc5g&amp;" target="_blank">ADHD by Kuba Oms</a></iframe>
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3027743476/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless=""><a href="https://kubaoms.bandcamp.com/album/adhd?t=ZjhlMGM1OTlhZWZhYmQ3Yzk5ZjYwNmVhNTc5NjNjNjBhODQzNGNiMSxGdkN6RklQTQ==&b=t:IzBfiACgMyVf9sEXdmjc5g&" target="_blank">ADHD by Kuba Oms</a></iframe>
 
 The next Monthly Beatmapping Contest will be opening shortly - there have been a few issues in securing rights and organizing other things behind the scenes. Stay on your toes!
 

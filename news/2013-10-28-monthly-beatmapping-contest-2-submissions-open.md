@@ -9,7 +9,7 @@ Calling all mappers! After a brief delay, the monthly beatmapping contest is bac
 
 The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relatively long cut due to the structure of the song. Even so, I would recommend against using long break sections as a rule (short ~6s breaks are fine, if used correctly).
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/103959650&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/103959650&color=ff6600&auto_play=false&show_artwork=true"></iframe>
 
 ## Judges:
 
@@ -18,7 +18,7 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 ## Prizes:
 
 *   6 months of supporter for you or a friend
-*   An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
+*   An [osu!tablet](/wiki/shared/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open/_A080002.jpg) (when available).
 *   'Elite Mapper' title
 *   **Winning mapset is bundled with the osu! game client download!**
 

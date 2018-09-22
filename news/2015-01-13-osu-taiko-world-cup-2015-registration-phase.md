@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/107977834958/osu-taiko-world-cup-2015
 ---
 We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015#ruleset) before registering for this tournament.
 
-![](http://puu.sh/eo61n/0a8be5fbf5.png)
+![](/wiki/shared/news/banners/TWC_2015.png)
 
 For more details, refer to the [osu! Taiko World Cup 2015 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015).
 

@@ -7,6 +7,6 @@ tumblr_url: http://osunews.tumblr.com/post/71746517206/happy-new-year
 ---
 happy new year everyone!
 
-[![happy new year!](http://dl.dropboxusercontent.com/u/16332218/2014.jpg)](https://dl.dropboxusercontent.com/u/16332218/2014.jpg)
+[![happy new year!](/wiki/shared/news/2013-12-31-happy-new-year/2014.jpg)](/wiki/shared/news/2013-12-31-happy-new-year/2014.jpg)
 
 —peppy

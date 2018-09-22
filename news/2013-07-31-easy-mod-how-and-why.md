@@ -15,11 +15,11 @@ The first thing that goes through peoples' minds when seeing the Easy mod is "Oh
 
 What most people never realize is that, when trained and applied properly, the Easy mod is an incredible tool, allowing players to get much higher combos and better scores than their modless peers. HP drain too high? Easy takes care of that! Having trouble aiming? Bigger circles always help! OD9 getting you down? Why not make it OD4.5? Even if a map still isn't quite easy enough after that, the extra lives will let you push through an extra difficult part and go on to complete the map. As for the 50% score decrease, NoFail does that too, and for no significant advantage – if you can't pass the map normally, why not use Easy instead of NoFail, and rack up a few more points along the way? And let's not forget how amazing it feels to perform so well that you end up with a top 50 rank using the Easy mod! In fact, the main reason why people opt not to use Easy, and the huge defining factor in its special form of difficulty is:
 
-![](https://lh4.googleusercontent.com/N-GVBbAX7OYQeTalZfZGUzO3olvwS6eWo0OdfhgEq2sfb1lr536XNkEpguiD90Ms6wJ31FILJfHDpvB2kngMDgRoOFy1e3SF8ADq4OfOXqUtDDJAmhZcTyAl)
+![](/wiki/shared/news/2013-07-31-easy-mod-how-and-why/image02.jpg)
 
 Some maps have very small circles and strange patterns, requiring weird mouse movements and heavy precision...
 
-![](https://lh6.googleusercontent.com/IYHckM9M4diKS-sHulbs8Yv_IY4HL0SKVeEZNulN_cwtFFdpAO9rSznLSWoXYWg9C_XFOaEuA7OG2ZgZAtsuKlmUJrI6BTiBrLnqSluhEk3wxdj6_69p-qrW)
+![](/wiki/shared/news/2013-07-31-easy-mod-how-and-why/image03.jpg)
 
 But with the Easy mod, the circles become much bigger, allowing the player to simply move their cursor in a straight line to hit the notes.
 

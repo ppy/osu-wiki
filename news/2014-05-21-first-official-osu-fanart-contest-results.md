@@ -12,77 +12,77 @@ The results are broken into two sections, the hard numbers of the public poll re
 ## Public Poll Results
 
 **First Place:**  
-![](http://s.ppy.sh/images/storeart2/thumb-65.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-65.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart2/full-65.jpg)  
 by kunkun014
 
 **Second Place:**  
-![](http://s.ppy.sh/images/storeart2/thumb-70.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-70.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-70.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-70.jpg)  
 by DumplingYumYum
 
 **Third Place:**  
-![](http://s.ppy.sh/images/storeart2/thumb-78.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-78.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-78.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-78.jpg)  
 by pokie
 
 **Fourth Place:**  
-![](http://s.ppy.sh/images/storeart2/thumb-7.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-7.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-7.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-7.jpg)  
 by Elzapatoverde
 
 **Fifth Place:**  
-![](http://s.ppy.sh/images/storeart2/thumb-3.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-3.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-3.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-3.jpg)  
 by Hollow Wings
 
 ## Staff Favorites
 
 **Winner:**  
-![](http://s.ppy.sh/images/storeart2/thumb-89.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-89.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-89.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-89.jpg)  
 by Lichatte
 
-**Runner-up (No Particular Order):**
-![](http://s.ppy.sh/images/storeart2/thumb-22.jpg)  
+**Runner-up (No Particular Order):**  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-22.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart2/full-22.jpg)  
 by koelgamom
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart2/thumb-42.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-42.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-42.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-42.jpg)  
 by Ballance
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart2/thumb-35.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-35.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-35.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-35.jpg)  
 by BurntToaster
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart2/thumb-80.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-80.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-80.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-80.jpg)  
 by Criyo
 
 ## Honorable Mentions (In No Particular Order)
 
-![](http://s.ppy.sh/images/storeart2/thumb-84.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-84.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart2/full-84.jpg)  
 by Kururu-chan
 
-![](http://s.ppy.sh/images/storeart2/thumb-50.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-50.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-50.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-50.jpg)  
 by JMC
 
-![](http://s.ppy.sh/images/storeart2/thumb-77.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-77.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-77.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-77.jpg)  
 by ramikin
 
-![](http://s.ppy.sh/images/storeart2/thumb-76.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-76.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-76.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-76.jpg)  
 by windswirl
 
-![](http://s.ppy.sh/images/storeart2/thumb-10.jpg)  
-Full: [Download Here](http://s.ppy.sh/images/storeart2/full-10.jpg)  
+![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-10.jpg)  
+Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-10.jpg)  
 by iPhone
 
 Thanks, everyone, for participating, whether you entered or even if you just voted, I appreciate that everyone took this seriously. I've been happy to see some great entries coming in for [the second contest](https://osu.ppy.sh/forum/t/206852/), and I hope to see even more in the coming weeks.

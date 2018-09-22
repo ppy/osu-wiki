@@ -12,83 +12,83 @@ The results are broken into two sections, the hard numbers of the public poll re
 ## Public Poll Results
 
 **First Place:**  
-![](http://s.ppy.sh/images/storeart3/thumb-7.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-7.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-7.jpg)  
 by Beat Freak
 
 **Second Place:**  
-![](http://s.ppy.sh/images/storeart3/thumb-18.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-18.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-18.jpg)  
 by \[hews\]
 
 **Third Place:**  
-![](http://s.ppy.sh/images/storeart3/thumb-45.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-45.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-45.jpg)  
 by gendo0032
 
 **Fourth Place:**  
-![](http://s.ppy.sh/images/storeart3/thumb-84.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-84.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-84.jpg)  
 by biransei
 
 **Fifth Place:**  
-![](http://s.ppy.sh/images/storeart3/thumb-48.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-48.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-48.jpg)  
 by kunkun014
 
 ## Staff Favorites
 
 **Winner:**  
-![](http://s.ppy.sh/images/storeart3/thumb-60.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-60.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-60.jpg)  
 by Chilienka
 
 **Runner-up (No Particular Order):**
 
-![](http://s.ppy.sh/images/storeart3/thumb-15.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-15.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-15.jpg)  
 by puddii
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart3/thumb-82.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-82.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-82.jpg)  
 by Pokie
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart3/thumb-79.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-79.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-79.jpg) 
 by Mocochia
 
 **Runner-up (No Particular Order):**  
-![](http://s.ppy.sh/images/storeart3/thumb-4.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-4.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-4.jpg)  
 by Lempika
 
 ## Honorable Mentions (In No Particular Order)
 
-![](http://s.ppy.sh/images/storeart3/thumb-25.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-25.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-25.jpg)  
 by natsukoOwO
 
-![](http://s.ppy.sh/images/storeart3/thumb-87.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-87.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-87.jpg)  
 by Hollow Wings
 
-![](http://s.ppy.sh/images/storeart3/thumb-76.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-76.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-76.jpg)  
 by y1xiansen
 
-![](http://s.ppy.sh/images/storeart3/thumb-40.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-40.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-40.jpg)  
 by Junichiro
 
-![](http://s.ppy.sh/images/storeart3/thumb-3.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-3.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-3.jpg)  
 by kan-tree
 
 Finally, while Mocochia got some staff votes (and a significant number of public votes) for the entry above, I just want to call out Mocochia's other, more adorable entry, which I personally felt really fit what I had in mind for the theme of this contest:
 
-![](http://s.ppy.sh/images/storeart3/thumb-77.jpg)  
+![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-77.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-77.jpg)  
 by Mocochia
 

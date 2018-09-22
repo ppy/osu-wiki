@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-resul
 ---
 The osu! World Cup 2015 concluded last Sunday with an amazing Grand Final. In an unexpected turn of events, the United States were able to come back from the loser's bracket and secure their first osu! World Cup Title against their final opponent: China.
 
-![](http://puu.sh/lYTOx/c1d6f3a2c9.png)
+![](/wiki/shared/news/2015-12-17-osu-world-cup-2015-results/podium-owc2015.png)
 
 After losing against China in the previous week's semi-finals, the US team made up for their loss by winning the first match 7-2. However as they were returning from the loser's bracket, they needed to win not one but *two* matches! The second battle against China was long, exhausting, thrilling and rewarding. With an amazingly close match ending with the tie breaker "gmtn. (witch's slave) - furioso melodia", the United States secured their win at the very last moment! China put up a great fight and are definitely deserving of their second place.. The third place goes to Poland that already secured their slot a week earlier after facing Germany and South Korea!
 
@@ -21,7 +21,7 @@ If you didn't catch it live, we highly recommended you check out the recording o
 
 + Team Poland receives $80 for each player ($640 in total) and a profile badge.
 
-All participants from the top three teams will also receive and [a set of limited edition badges](http://puu.sh/lTvuF/155baea707.jpg) and an osu! world cup mug (still in production)!
+All participants from the top three teams will also receive and [a set of limited edition badges](/wiki/shared/news/2015-12-14-osuweekly-39/PC130098.jpg) and an osu! world cup mug (still in production)!
 
 Congratulations again to the winners, and thanks to all participants for making this tournament the greatest world cup to date. During the grand finals, over **13,000 viewers** were in attendance watching the live-stream! We hope that everyone enjoyed this competition - keep in mind we run these tournaments throughout the year, so make sure to [follow us on twitch](http://twitch.tv/osulive) to stay up-to-date!
 

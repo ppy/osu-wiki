@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/138895980163/happy-chinese-new-year
 ---
 2016 is the year of the Monkey! Everyone on the osu! team hopes that each of you are blessed with overflowing happiness, success and prosperity.
 
-![](https://puu.sh/mZPZf/2a166edcf1.png)
+![](/wiki/shared/news/2016-02-08-happy-chinese-new-year/cny.png)
 
 鸟语喧花果，猴声啼水帘。玉兔探月观新岁，金猴捧挑笑丰年。
 

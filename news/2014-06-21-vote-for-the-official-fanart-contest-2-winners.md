@@ -9,7 +9,7 @@ Hello everyone! Just a quick announcement this time. Voting has been enabled for
 
 **osu! Around the World!**
 
-[![](https://78.media.tumblr.com/79866f89f2ea428a6d9bd633076690c1/tumblr_inline_n54psdgsam1s6rj41.png)](https://osu.ppy.sh/p/art)
+[![](/wiki/shared/news/2014-06-21-vote-for-the-official-fanart-contest-2-winners/tumblr_inline_n54psdgsam1s6rj41.png)](https://osu.ppy.sh/p/art)
 
 I apologize for the delay. There's a really exciting variety of entries this month. Some of the artists took the theme literally, and some of them took it in different directions that I was expecting, and quite a few interpret the theme in ways I would never have thought of! So please, don't just vote for the art that you think is the prettiest, but also vote for the ones that you think embody the theme the best. That's why you can vote for more than one!
 

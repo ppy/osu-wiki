@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-r
 ---
 Greetings. We'd like to welcome all of you to this year's official osu!mania World Cup. This is the first osu!mania World Cup we ever hosted, consisting of a 7-keys and 4-keys bracket. For that, we adjusted the ruleset to fit them to the special needs for hosting an osu!mania World Cup, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2014#ruleset) before registering for this tournament.
 
-![image](http://puu.sh/9SbTD/cf83b13360.png)
+![image](/wiki/shared/news/banners/MWC_2014.png)
 
 For more details, refer to the [osu!mania World Cup 2014 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2014).  
   

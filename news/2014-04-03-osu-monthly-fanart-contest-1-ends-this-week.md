@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/81538849275/osu-monthly-fanart-contes
 ---
 Hello all! Announcing the first Monthly Fanart Contest!
 
-[![Monthly Fanart Contest](https://78.media.tumblr.com/ed4d40903f9c80c2653a35689b82e43a/tumblr_inline_n3fjpgTi5Z1s6rj41.png)](https://osu.ppy.sh/forum/t/198551/)
+[![Monthly Fanart Contest](/wiki/shared/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week/tumblr_inline_n3fjpgTi5Z1s6rj41.png)](https://osu.ppy.sh/forum/t/198551/)
 
 Each month we'll be suggesting a different theme for artwork, and two winners will each get a full **[one year supporter tag](https://osu.ppy.sh/p/support)**. This is intended to be kind of a fun, informal contest, but we still need some rules.
 

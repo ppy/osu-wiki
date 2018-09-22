@@ -8,6 +8,6 @@ tumblr_url: http://osunews.tumblr.com/post/87727265753/the-adventures-of-clickin
 Hey guys, here's the long awaited second installment of the osu!comic!
 
 I think this is something a lot of us can relate to.  
-![](https://78.media.tumblr.com/00e68b44b88e210301a4252420ef006f/tumblr_inline_n6m0zpetl21s6rj41.jpg)
+![](/wiki/shared/news/2014-06-03-the-adventures-of-clicking-circles-2-git-gud/tumblr_inline_n6m0zpetl21s6rj41.jpg)
 
 —Brian OA
