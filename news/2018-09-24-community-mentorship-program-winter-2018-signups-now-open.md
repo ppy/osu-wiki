@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Mentorship Program Winter 2018 Signups Now Open"
-date: 2018-07-24 12:00:00 +0000
+date: 2018-09-24 12:00:00 +0000
 ---
 
 Ever wanted to get into making beatmaps for this game, but have no clue where to start at? In that case, the community mentorship program might be the way to start your mapping career!
