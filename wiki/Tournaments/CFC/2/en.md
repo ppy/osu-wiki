@@ -69,7 +69,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Julo](/users/4203239) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Electr0o](/users/9484428) |
 
-
 ---------------------------
 
 ## Mappools
