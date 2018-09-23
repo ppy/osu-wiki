@@ -29,7 +29,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | --- | --- | --- | --- | --- | --- |
 | [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Cina |
 | 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Jepang A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang B |
-| Taiko World Cup \#3 | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang A |
+| [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Jepang | ![][flag_HK] Hong Kong | ![][flag_FR] Perancis |
 | [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Jepang | ![][flag_TW] Taiwan | ![][flag_FR] Perancis |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Jepang | ![][flag_TW] Taiwan | ![][flag_CA] Kanada |
@@ -109,6 +109,12 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
+### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Belanda | ![][flag_US] Amerika Serikat |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
@@ -120,6 +126,11 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
+| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](/users/883990) | ![][flag_ID] [nirvashzero](/users/1254373) | ![][flag_ID] [Intel21](/users/1272422) |
+| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](/users/1595221) | ![][flag_ID] [FakeShield21](/users/1739225) | ![][flag_ID] [El SolarBeam](/users/1074710) |
+| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](/users/1380645) | ![][flag_ID] [Ex-Rei](/users/1929336) |
+| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [Time-](/users/2917987) |
+| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [dika312](/users/741613) |
 | [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](/users/8630988) | ![][flag_ID] [Toka-](/users/1595221) | ![][flag_ID] [LeWind](/users/9718235) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
@@ -141,6 +152,12 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+
+### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
