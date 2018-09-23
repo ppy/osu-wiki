@@ -4,7 +4,7 @@ title: "BN Applications: Autumn Cycle 2018"
 date: 2018-09-25 12:00:00 +0000
 ---
 
-“You always wanted to be a Beatmap Nominator? Now is your time to shine!” You probably have not read that sentence for a while, though after a small hiatus we are proud to announce the reopening of the BN Applications! Keep reading for all the details and how to apply!
+"You always wanted to be a Beatmap Nominator? Now is your time to shine!" You probably have not read that sentence for a while, though after a small hiatus we are proud to announce the reopening of the BN Applications! Keep reading for all the details and how to apply!
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
@@ -24,7 +24,7 @@ However, with the new modding discussions system, the amount of Kudosu achieved 
 
 Based on data from previous BN Applications and trying to remove Kudosu from the equation, the *Mod Score* per month will be calculated with the following formula:
 
-![Mod Score Formula](/wiki/shared/Modscore_new.png "Mod Score Formula") 
+![Mod Score Formula](/wiki/shared/Modscore_new.png "Mod Score Formula")
 
 + *m* = Minimum expected number of individual beatmaps modded in a month
 + *M* = Total achieved number of individual beatmaps modded in a month
