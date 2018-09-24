@@ -4,7 +4,7 @@ title: "Beatmap Spotlights Summer 2018"
 date: 2018-10-10 06:00:00 +0000
 ---
 
-Welcome back to a long-awaited rendition of this season’s beatmap spotlights! We have lots of brilliant maps to showcase and some extra surprise for all of you!
+Welcome back to a long-awaited rendition of this season's beatmap spotlights! We have lots of brilliant maps to showcase and some extra surprise for all of you!
 
 ![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/spotlight-header.jpg)
 
@@ -21,9 +21,9 @@ You may have noticed that the release of spotlights have been somewhat inconsist
 + **Fall Spotlights**: Showcase maps ranked from September 1st to November 30th, and released on December 31st
 + **Winter Spotlights**: Showcase maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
-If you’ve ever been interested in joining the team itself, open applications will now be made public through Google forms! The size of the spotlights staff is continuously growing, with structured teams for all 4 game modes alike. If you think you’ve got the mapping experience and skills to showcase truly outstanding maps, you can find the application [here](https://goo.gl/XdNvXo)! If you just want to observe, we decided to make our discord server public and you are [free to join](http://discord.gg/Z28ZtUf)! With that said, discussion about the future and other important stuff will still happen on the dedicated channel of [osu!dev](Http://discord.gg/ppy).
+If you've ever been interested in joining the team itself, open applications will now be made public through Google forms! The size of the spotlights staff is continuously growing, with structured teams for all 4 game modes alike. If you think you've got the mapping experience and skills to showcase truly outstanding maps, you can find the application [here](https://goo.gl/XdNvXo)! If you just want to observe, we decided to make our discord server public and you are [free to join](http://discord.gg/Z28ZtUf)! With that said, discussion about the future and other important stuff will still happen on the dedicated channel of [osu!dev](Http://discord.gg/ppy).
 
-We’re also looking to integrate spotlight further into gameplay to create a more competitive experience. The top 3 players who manage to conquer the spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively. We're also looking to give temporary **grandmaster**, **expert**, and **pro** titles to anyone who can manage to prove their strength.
+We're also looking to integrate spotlight further into gameplay to create a more competitive experience. The top 3 players who manage to conquer the spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively. We're also looking to give temporary **grandmaster**, **expert**, and **pro** titles to anyone who can manage to prove their strength.
 
 Don't worry, we haven't forgotten about our mappers either. There's lots of other exciting things for the mappers and the leaderboards themselves that are coming soon!
 
@@ -130,7 +130,7 @@ Get ready to be presented with a key... a key... of timepieces!
 
 No newcomer to the spotlights, this map by [Nifty](https://osu.ppy.sh/users/4956097) features his signature SV usage that'll challenge even the best of players and well-executed rhythmic complexity, all backed by an amazing song!
 
-The experience of playing this map is never a dull one, as with each repetition of a previously heard rhythm also comes with it SV that'll keep each encounter fresh and enjoyable. On top of being visually impressive, this map attains remarkable flow throughout the vast majority of the map, keeping our hands happy along with our eyes.
+The experience of playing this map is never a dull one, as with each repetition of a previously heard rhythm also comes with it Slider Velocity that'll keep each encounter fresh and enjoyable. On top of being visually impressive, this map attains remarkable flow throughout the vast majority of the map, keeping our hands happy along with our eyes.
 
 The calmer parts of this map also have a notable contrast to the rest of the map in both density and visuality, setting these sections of the map apart from the rest. This idea keeps each section of the map accurately paced to the intensity of the song, while also keeping the player focused and interested.
 
@@ -170,7 +170,11 @@ This marathon mapset succeeds at expressing the varying intensity of musical sec
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/taiko/universal.jpg)](http://osu.ppy.sh/beatmapsets/733461)
 
-Nifty pls [sing216](https://osu.ppy.sh/users/6096445) [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+Inventing! Improving! Creating!
+
+[Nardoxyribonucleic](https://osu.ppy.sh/users/876419) and [sing216](https://osu.ppy.sh/users/6096445) bursts into the Summer Spotlights with their map of "Universal Death Squad" by EPICA. With an impressive catalogue of 48 ranked maps, Nardo is most known for making extremely solid anime maps, but every once in a while he puts his signature vocal mapping style on an operatic metal banger.
+
+Most metal marathons these days are too difficult for your casual taiko player, but with Universal Death Squad capping at 5.42 stars, it has something for everyone to enjoy. Whether it's the expertly crafted streams during the solos, the impeccable vocal mapping during the verses, or the back and forward between the song's high-pitched opera singers and the angry growling voice, this map will be sure to never disappoint!
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/taiko/viden.jpg)](http://osu.ppy.sh/beatmapsets/708312)
 
@@ -188,7 +192,7 @@ Super solid mapset overall and a worthy addition to the Spotlights!
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/taiko/sawg.jpg)](http://osu.ppy.sh/beatmapsets/739136)
 
-Nifty again
+Definitely my personal favourite map of the summer, honestly what a banger. odaxelagnia's "#sawg" remixed by Wan Bushi features relatively fast paced breakcore, which [Ulqui](https://osu.ppy.sh/users/1263669) did a great job representing through this map. With beautifully made tricky 1/6 patterns and carefully placed Slider Velocity progressions, they combine to make this map an amazing piece of artwork that is really fun to play!
 
 ## <a name="catch" id="catch"></a>osu!catch
 
@@ -238,7 +242,7 @@ Moreover, [jakads](https://osu.ppy.sh/users/259972), [booty](https://osu.ppy.sh/
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/mania/ongaku.jpg)](http://osu.ppy.sh/beatmapsets/540432)
 
-Our masters of 7K, [Kawawa](https://osu.ppy.sh/users/4647754) & [Critical_Star](https://osu.ppy.sh/users/3793196) once again return with a beautiful and challenging mapset, Yu_Asahina’s "Ongaku -resolve-". 
+Our masters of 7K, [Kawawa](https://osu.ppy.sh/users/4647754) & [Critical_Star](https://osu.ppy.sh/users/3793196) once again return with a beautiful and challenging mapset, Yu_Asahina's "Ongaku -resolve-". 
 
 As the difficulty progresses, Kawawa and Critical_Star express and interpret the mixture of piano rolls and flow of the rhythm using complex long notes with fast delay patterns. 7K players will once again fall in love with this challenging track and will make them seek for much more from them!
 
