@@ -120,7 +120,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
 | Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Alostis](/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| [Catch French Cup 2018](/wiki/Tournaments/CFC/2018/) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
