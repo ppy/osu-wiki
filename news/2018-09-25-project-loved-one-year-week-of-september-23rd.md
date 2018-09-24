@@ -25,9 +25,11 @@ All of these people contribute or have contributed in the past to Project Loved,
 
 This round, we've got some new people helping out. Along with our new osu!taiko captains mentioned last round ([nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)), we also have a new osu!mania captain: [stupud man](https://osu.ppy.sh/users/2141612) (nice)!
 
-The 90% threshold for osu!standard that we tried last round seemed to work out pretty well, so we'll be keeping it around. Also, [\_verto\_](https://osu.ppy.sh/users/2015300) made a video showcasing all of the osu!standard maps again this week, so check it out!
+The 90% threshold for osu!standard that we tried last round seemed to work out pretty well, so we'll be keeping it around.
 
 In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+
+And lastly before we get into the maps, [\_verto\_](https://osu.ppy.sh/users/2015300) made a nice video showcasing the osu!standard candidates this week, so check it out!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rmRGnXfWe20?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
