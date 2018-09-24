@@ -25,6 +25,8 @@ The **Catch French Cup 3** (***CFC 3***) is a one-on-one French osu!catch tourna
 
 ## Prizes
 
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Catch French Cup 3 winners. It is possible that these items change with every installment of the Catch French Cup.
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 10 months of osu!supporter tag, unique profile badge |
@@ -57,49 +59,37 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 -----------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 22 September 2018
+### Saturday, 29 September 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | 07th Loli | **13:00** |
-| #2 | Orazeit | ![][flag_FR] | ![][flag_FR] | Julo | **14:00** |
-| #8 | -\[Smoked\]- | ![][flag_BE] | ![][flag_FR] | Noulayfe | **14:00** |
-| #3 | Electr0o | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
-| #4 | Libegon | ![][flag_FR] | ![][flag_FR] | Astreachan | **16:00** |
-| #5 | floflim | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **17:00** |
-| #6 | Sinaeb | ![][flag_CA] | ![][flag_FR] | Holloh | **18:00** |
-| #7 | Boros | ![][flag_FR] | ![][flag_FR] | Sounny | **20:00** |
+| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Julo | **13:00** |
+| #2 | Electr0o | ![][flag_FR] | ![][flag_FR] | Astreachan | **14:00** |
+| #3 | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** |
+| #4 | Boros | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** |
 
-### Sunday, 23 September 2018
+### Sunday, 30 September 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #9a | -Ken | ![][flag_TN] | ![][flag_FR] | Orazeit | **13:00** | ¹ |
-| #9b | -Ken | ![][flag_TN] | ![][flag_FR] | Julo | **13:00** | ¹ |
-| #9c | 07th Loli | ![][flag_FR] | ![][flag_FR] | Orazeit | **13:00** | ¹ |
-| #9d | 07th Loli | ![][flag_FR] | ![][flag_FR] | Julo | **13:00** | ¹ |
-| #10a | Electr0o | ![][flag_FR] | ![][flag_FR] | Libegon | **14:00** | ² |
-| #10b | Electr0o | ![][flag_FR] | ![][flag_FR] | Astreachan | **14:00** | ² |
-| #10c | dracoV | ![][flag_FR] | ![][flag_FR] | Libegon | **14:00** | ² |
-| #10d | dracoV | ![][flag_fR] | ![][flag_FR] | Astreachan | **14:00** | ² |
-| #11a | floflim | ![][flag_FR] | ![][flag_CA] | Sinaeb | **15:00** | ³ |
-| #11b | floflim | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** | ³ |
-| #11c | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_CA] | Sinaeb | **15:00** | ³ |
-| #11d | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** | ³ |
-| #12a | Boros | ![][flag_FR] | ![][flag_BE] | -\[Smoked\]- | **16:00** | ⁴ |
-| #12b | Boros | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** | ⁴ |
-| #12c | Sounny | ![][flag_FR] | ![][flag_BE] | -\[Smoked\]- | **16:00** | ⁴ |
-| #12d | Sounny | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** | ⁴ |
+| #5a | Boros | ![][flag_FR] | ![][flag_FR] | Orazeit | **14:00** | ¹ |
+| #5b | Noulayfe | ![][flag_FR] | ![][flag_FR] | Orazeit | **14:00** | ¹ |
+| #6a | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** | ² |
+| #6b | Holloh | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** | ² |
+| #7a | Electr0o | ![][flag_FR] | ![][flag_FR] | floflim | **16:00** | ³ |
+| #7b | Astreachan | ![][flag_FR] | ![][flag_FR] | floflim | **16:00** | ³ |
+| #8a | -Ken | ![][flag_TN] | ![][flag_FR] | Sounny | **14:00** | ⁴ |
+| #8b | Julo | ![][flag_FR] | ![][flag_FR] | Sounny | **14:00** | ⁴ |
 
-¹ Encounter dependent on loser of Match #1 and Match #2
+¹ Encounter dependent on loser of Match #4
 
-² Encounter dependent on loser of Match #3 and Match #4
+² Encounter dependent on loser of Match #3
 
-³ Encounter dependent on loser of Match #5 and Match #6
+³ Encounter dependent on loser of Match #2
 
-⁴ Encounter dependent on loser of Match #7 and Match #8
+⁴ Encounter dependent on loser of Match #1
 
 -----------------------
 
@@ -126,6 +116,30 @@ The Catch French Cup 3 is run by various community members by distributing the m
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 ## Mappools
+
+### Quarterfinals
+
+**Download the mappack here! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0) - [Direct Link](https://htfarmingiscool.s-ul.eu/moaRrjjg)**
+
+- NoMod
+  - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](/beatmapsets/820738/#fruits/1720378)
+  - [Roselia - Six Trillion Years and Overnight Story (Spectator) \[Overnight Story\]](/beatmapsets/792710/#fruits/1662676)
+  - [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](/beatmapsets/354013/#fruits/779950)
+  - [sHimaU - SLOTcore Is Dead (Arphimigon) \[SIX\]](/beatmapsets/306012/#fruits/933686)
+- Hidden
+  - [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kagami\]](/beatmapsets/493273/#fruits/1062394)
+  - [MYTH & ROID - JINGO JUNGLE (Plaudible) \[Deus Lo Vult\]](/beatmapsets/653835/#fruits/1385941)
+  - [Shiggy Jr. - oyasumi (Len) \[CS4 Overdose\]](/beatmapsets/676737/#fruits/1768494)
+- HardRock
+  - [loos feat. Meramipop - Starlight Disco (Spectator) \[Spec's Deluge\]](/beatmapsets/183375/#fruits/530445)
+  - [Memme - Acid Burst (Spectator) \[Spec's Acidic Rain!\]](/beatmapsets/302535/#fruits/846620)
+  - [Iori - Kimi ga Ireba (deepsea) \[Kudo Shinichi\]](/beatmapsets/2355/#fruits/19381)
+- DoubleTime
+  - [IOSYS - Border of Extacy (happy30, Lesjuh) \[HappyLesjuh\]](/beatmapsets/7932/#fruits/35203)
+  - [LeaF - I (Mirage) \[Hyper\]](/beatmapsets/99244/#fruits/264894)
+  - [FELT - Goldrop (Spectator) \[Spec's Rain\]](/beatmapsets/204927/#fruits/506395)
+- Tiebreaker
+  - **[DJ Noriken - #The\_Relentless\_(Modified) (Minato Yukina) \[EX\]](/beatmapsets/603421/#fruits/1274502)**
 
 ### Round of 16
 
@@ -175,6 +189,29 @@ The Catch French Cup 3 is run by various community members by distributing the m
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2018-09-22 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **4** | 0 | ![][flag_FR] 07th Loli | [#1](/community/matches/46150000) |
+| **Boros** ![][flag_FR] | **4** | 2 | ![][flag_FR] Sounny | [#1](/community/matches/46150122) |
+| Orazeit ![][flag_FR] | 3 | **4** | ![][flag_FR] **Julo** | [#1](/community/matches/46151403) |
+| -\[Smoked\]- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Noulayfe** | -win by default- |
+| **Electr0o** ![][flag_FR] | **4** | 1 | ![][flag_FR] dracoV | [#1](/community/matches/46153072) |
+| Libegon ![][flag_FR] | 2 | **4** | ![][flag_FR] **Astreachan** | -win by default- |
+| floflim ![][flag_FR] | 0 | **4** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](/community/matches/46156600) |
+| Sinaeb ![][flag_CA] | 1 | **4** | ![][flag_FR] **Holloh** | [#1](/community/matches/46159045) |
+
+| Sunday, 2018-09-23 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| 07th Loli ![][flag_FR] | 0 | **4** | ![][flag_FR] **Orazeit** | [#1](/community/matches/46184845) |
+| **floflim** ![][flag_FR] | **4** | 1 | ![][flag_CA] Sinaeb | [#1](/community/matches/46187781) |
+| **Sounny** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | -win by default- |
+
+| Tuesday, 2018-09-25 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | -win by default- |
 
 ### Group Stage
 
