@@ -56,7 +56,7 @@ It's not common to find Vietnamese pop music on osu!, but here we have a beautif
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/turkish-march.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
-[OwataP - Turkish March - Owata \(^o^)/](https://osu.ppy.sh/beatmapsets/399096) by [Erza](https://osu.ppy.sh/users/5550977)
+[OwataP - Turkish March - Owata \\(^o^)/](https://osu.ppy.sh/beatmapsets/399096) by [Erza](https://osu.ppy.sh/users/5550977)
 
 So, you think you're good at spaced streams? Why not give Erza's mapset of Kischer Marsch-OWATA a try? With over 200 favorites, the set is definitely a customer favorite. We have 2 different versions of the map, each with 2 different BPM variants at 180 BPM and 200 BPM. If you're just looking for some long flowy streams to practice your stream-aim coordination, head on over to the Normal Mode difficulties. If you're one for follow points in your spaced streams, the Impossible Mode difficulties might be your favorite order on the menu.
 
