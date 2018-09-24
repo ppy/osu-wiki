@@ -21,7 +21,7 @@ date: 2018-09-25 20:00:00 +0000
 
 All of these people contribute or have contributed in the past to Project Loved, so make sure to thank them if you enjoy what we do!
 
-This round, we've got some new people helping out. Along with our new osu!taiko captains mentioned last round ([nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)), we also have a new osu!mania captain: [stupud man]() (nice)!
+This round, we've got some new people helping out. Along with our new osu!taiko captains mentioned last round ([nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)), we also have a new osu!mania captain: [stupud man](https://osu.ppy.sh/users/2141612) (nice)!
 
 The 90% threshold for osu!standard that we tried last round seemed to work out pretty well, so we'll be keeping it around. Also, [\_verto\_](https://osu.ppy.sh/users/2015300) made a video showcasing all of the osu!standard maps again this week, so check it out!
 
