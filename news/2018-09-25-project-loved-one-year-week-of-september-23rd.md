@@ -130,7 +130,9 @@ A new-comer to Loved, HEKUSODASU, has been really excited to hopefully get a Lov
 
 [dj TAKA - Colors -sasakure.UK Futurelogic Remix-](https://osu.ppy.sh/beatmapsets/494032) by [bananannian](https://osu.ppy.sh/users/4497137)
 
-Our redemption pick for this week, Colors only barely missed out getting Loved in our Seventh Round, by 1%. We have been requested a few more times to give this another chance, and so we decided now would be a good time! Here's our original description:\n\n> A beautiful song and a beautiful set, Colors has a lot of charm to it. The moody song, paired with the chaotic design of the top diff makes this set pop out as something truly unique to play and feast your eyes on. 1/6 so exotic, it'll make even the best players squirm. Don't fret however, bananannian has provided you with a full spread so even the lower ranked players get to have fun with this one.
+Our redemption pick for this week, Colors only barely missed out getting Loved in our Seventh Round, by 1%. We have been requested a few more times to give this another chance, and so we decided now would be a good time! Here's our original description:
+
+> A beautiful song and a beautiful set, Colors has a lot of charm to it. The moody song, paired with the chaotic design of the top diff makes this set pop out as something truly unique to play and feast your eyes on. 1/6 so exotic, it'll make even the best players squirm. Don't fret however, bananannian has provided you with a full spread so even the lower ranked players get to have fun with this one.
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
@@ -161,14 +163,18 @@ osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/21
 [DJ Sharpnel - Lolit Speed](https://osu.ppy.sh/beatmapsets/644943) by [IcyWorld](https://osu.ppy.sh/users/1383951)  
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
-Back yet again is our favorite stepmania stamina man, IcyWorld, this time with his rendition of Lolit Speed bringing more of the intense, stamina-draining, neverending jumpstream and handstream that would be expected from someone so well known for this type of charting. Nearly seven full minutes of dense 230 BPM jumpstreams coupled with a section in the latter half throwing seven jumptrills, each lasting upwards of five seconds, surely to throw the stamina of many for a whirl.\n\nKeeping it simple and dense is a common staple of Icyworld, and its a style of his that has given him an insane amount of attention and interest from the playerbase. Lolit Speed is one of his charts that fits nicely alongside his collection, especially when comparing it to some of his other Loved selections, like his Ultra Beatdown Supreme chart. As such, we feel Lolit Speed would make a nice addition to the loved section.
+Back yet again is our favorite stepmania stamina man, IcyWorld, this time with his rendition of Lolit Speed bringing more of the intense, stamina-draining, neverending jumpstream and handstream that would be expected from someone so well known for this type of charting. Nearly seven full minutes of dense 230 BPM jumpstreams coupled with a section in the latter half throwing seven jumptrills, each lasting upwards of five seconds, surely to throw the stamina of many for a whirl.
+
+Keeping it simple and dense is a common staple of Icyworld, and its a style of his that has given him an insane amount of attention and interest from the playerbase. Lolit Speed is one of his charts that fits nicely alongside his collection, especially when comparing it to some of his other Loved selections, like his Ultra Beatdown Supreme chart. As such, we feel Lolit Speed would make a nice addition to the loved section.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/rave-7.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Dev/Null - Rave 7](https://osu.ppy.sh/beatmapsets/203250) by [hi19hi19](https://osu.ppy.sh/users/1014473)  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Many Stepmania players will enjoy this pick! hi19hi19's Rave 7 by DEV/NULL is a rather evil mapset, catering mainly towards speed players.\n\nThere are three difficulties, and each one is on a completely different level than the others, making this mapset good for almost any decent player. The main difference is the first half of the song, which contains either 1/4, 1/6 or even 1/8 200 BPM streams, depending on difficulty chosen. Second half is rather technical, with interesting jumpstream patterning that becomes heavily distorted by the chaotic nature of the song. Rave 7 has been around for quite some time, and we would like to finally nominate it to Loved category!
+Many Stepmania players will enjoy this pick! hi19hi19's Rave 7 by DEV/NULL is a rather evil mapset, catering mainly towards speed players.
+
+There are three difficulties, and each one is on a completely different level than the others, making this mapset good for almost any decent player. The main difference is the first half of the song, which contains either 1/4, 1/6 or even 1/8 200 BPM streams, depending on difficulty chosen. Second half is rather technical, with interesting jumpstream patterning that becomes heavily distorted by the chaotic nature of the song. Rave 7 has been around for quite some time, and we would like to finally nominate it to Loved category!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/southern-waters-assault-8bit.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
@@ -189,7 +195,11 @@ One of the most popular SV charts of this year and a memorable qualifier for SOF
 [Daisy x Daisy - Towa no Kizuna feat Another Infinity x1.1](https://osu.ppy.sh/beatmapsets/158113) by [MoTeSolo](https://osu.ppy.sh/users/3155787)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-Another map that we're featuring in this round of voting is a classic amongst o2jam oriented players. We're featuring a collaboration between an o2jam charter LCH and MoTeSolo - a sped up version of Towa no Kizuna.\n\nThis is a two difficulty set with lower difficulty catered towards more casual players with extended chordstreaming and not too intrusive LN patterning overall, although certainly a challenge for many. The higher difficulty which is a collaboration between both of the charters is a wild mix of streams and noodles in a pretty typical hardcore o2jam style which many people came to love over the years.\n\nCombining that with a very iconic and fast paced song, it's truly a joyous chart to play if you're looking for some noodle slurping fun!
+Another map that we're featuring in this round of voting is a classic amongst o2jam oriented players. We're featuring a collaboration between an o2jam charter LCH and MoTeSolo - a sped up version of Towa no Kizuna.
+
+This is a two difficulty set with lower difficulty catered towards more casual players with extended chordstreaming and not too intrusive LN patterning overall, although certainly a challenge for many. The higher difficulty which is a collaboration between both of the charters is a wild mix of streams and noodles in a pretty typical hardcore o2jam style which many people came to love over the years.
+
+Combining that with a very iconic and fast paced song, it's truly a joyous chart to play if you're looking for some noodle slurping fun!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/parodia-sonatina-grande.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
@@ -203,14 +213,18 @@ This map actually made it into Qualifiers last year, but unfortunately, it did n
 [orangentle / Yu\_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmapsets/338199) by [AncuL](https://osu.ppy.sh/users/2449200), [Takane6](https://osu.ppy.sh/users/4568037) and [Takamori37](https://osu.ppy.sh/users/4946268)  
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Although it shares metadata with Fullerene's and Jinjin's ranked rendition of the song, HAELEQUINZ mapped by AncuL, with guest diffs from Takane6 and Takamori37, bears almost no resemblance to the map mentioned.\n\nThis is in fact a different version of the song than the one you're probably used to. While the main melody remains indifferent and is mapped in a calm way, the harder sections are littered with doublestairs and chordstreams accompanied with rather nasty minijacks and bursts. They become a real challenge to hit especially during the ending, which is a climax of the neverending technical streams. This map is a neat challenge and definitely deserves the spot in Loved!
+Although it shares metadata with Fullerene's and Jinjin's ranked rendition of the song, HAELEQUINZ mapped by AncuL, with guest diffs from Takane6 and Takamori37, bears almost no resemblance to the map mentioned.
+
+This is in fact a different version of the song than the one you're probably used to. While the main melody remains indifferent and is mapped in a calm way, the harder sections are littered with doublestairs and chordstreams accompanied with rather nasty minijacks and bursts. They become a real challenge to hit especially during the ending, which is a climax of the neverending technical streams. This map is a neat challenge and definitely deserves the spot in Loved!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/quaver.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Risk Junk - quaver](https://osu.ppy.sh/beatmapsets/361372) by [Reba](https://osu.ppy.sh/users/3087654) and [Kawawa](https://osu.ppy.sh/users/4647754)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Here we have Reba again coming up with Quaver, along with 2 guest difficulties made by Kawawa. This map has been around the 7K community for quite a few years, and it is distinguished by its way of patterning, which makes it quite comfortable to play. Featuring a few simple 2 and 3 note chords here and there coming up at 182 BPM, followed by light staircases mixed with Long Notes.\n\nThis is definitely one of the easiest sets of this 7K batch, and we have already seen Reba and Kawawa in the past few rounds as well, so we already know that we will not be disappointed.
+Here we have Reba again coming up with Quaver, along with 2 guest difficulties made by Kawawa. This map has been around the 7K community for quite a few years, and it is distinguished by its way of patterning, which makes it quite comfortable to play. Featuring a few simple 2 and 3 note chords here and there coming up at 182 BPM, followed by light staircases mixed with Long Notes.
+
+This is definitely one of the easiest sets of this 7K batch, and we have already seen Reba and Kawawa in the past few rounds as well, so we already know that we will not be disappointed.
 
 ---
 
