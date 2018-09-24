@@ -54,7 +54,7 @@ Have you been looking for your next favorite high-BPM Camellia map to play over 
 
 It's not common to find Vietnamese pop music on osu!, but here we have a beautiful candidate mapset by Asaiga et al. The swaying chorus sections of the song are captured nicely with appropriately flowy jump patterns, and the staccato style verses are complemented by more snappy jump patterns. Overall, the map does an amazing job of capturing the already amazing song, and it seems like I'm not the only one who thinks this way: with over 220 favorites, this mapset is surely a true candidate for the Loved section.
 
-[![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/turkish-march.jpg)](https://osu.ppy.sh/community/forums/topics/807793)
+[![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/turkish-march-owata-o.jpg)](https://osu.ppy.sh/community/forums/topics/807793)
 
 [OwataP - Turkish March - Owata \\(^o^)/](https://osu.ppy.sh/beatmapsets/399096) by [Erza](https://osu.ppy.sh/users/5550977)
 
