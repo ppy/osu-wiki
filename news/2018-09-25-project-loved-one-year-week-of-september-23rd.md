@@ -50,19 +50,19 @@ osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and
 
 [Camellia - GHOST](https://osu.ppy.sh/beatmapsets/534107) by [JeZag](https://osu.ppy.sh/users/3087506)
 
-Have you been looking for your next favorite high-BPM Camellia map to play over and over? Well, look no further! This crazy map of GHOST by JeZag will certainly meet your criteria. In its five minutes of drain time, the map fills itself with some of the craziest high BPM technical sections you may have ever seen. Demanding jumps, streams, bursts, and even a 1/3 section all sitting at 220 BPM for your enjoyment. Not only the BPM is high, though: the map itself has over 250 favorites, and that number is sure to increase with time.
+Have you been looking for your next favorite high-BPM Camellia map to play over and over? Well, look no further! This crazy map of GHOST by JeZag will certainly meet your criteria. In its five minutes of drain time, the map fills itself with some of the craziest high-BPM technical sections you may have ever seen. Demanding jumps, streams, bursts, and even a 1/3 section all sitting at 220 BPM for your enjoyment. Not only the BPM is high, though: the map itself has over 250 favorites, and that number is sure to increase with time.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/noi-nay-co-anh.jpg)](https://osu.ppy.sh/community/forums/topics/807792)
 
 [Son Tung M-TP - Noi Nay Co Anh](https://osu.ppy.sh/beatmapsets/575384) by [Asaiga](https://osu.ppy.sh/users/2959560) et al.
 
-It's not common to find Vietnamese pop music on osu!, but here we have a beautiful candidate mapset by Asaiga et al. The swaying chorus sections of the song are captured nicely with appropriately flowy jump patterns, and the staccato style verses are complemented by more snappy jump patterns. Overall, the map does an amazing job of capturing the already amazing song, and it seems like I'm not the only one who thinks this way: with over 220 favorites, this mapset is surely a true candidate for the Loved section.
+It's not common to find Vietnamese pop music on osu!, but here we have a beautiful candidate mapset by Asaiga et al. The swaying chorus sections of the song are captured nicely with appropriately flowy jump patterns, and the staccato-style verses are complemented by more snappy ones. Overall, the map does an amazing job of capturing the already amazing song, and it seems like I'm not the only one who thinks this way: with over 220 favorites, this mapset is surely a true candidate for the Loved section.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/turkish-march-owata-o.jpg)](https://osu.ppy.sh/community/forums/topics/807793)
 
 [OwataP - Turkish March - Owata \\(^o^)/](https://osu.ppy.sh/beatmapsets/399096) by [Erza](https://osu.ppy.sh/users/5550977)
 
-So, you think you're good at spaced streams? Why not give Erza's mapset of Kischer Marsch-OWATA a try? With over 200 favorites, the set is definitely a customer favorite. We have 2 different versions of the map, each with 2 different BPM variants at 180 BPM and 200 BPM. If you're just looking for some long flowy streams to practice your stream-aim coordination, head on over to the Normal Mode difficulties. If you're one for follow points in your spaced streams, the Impossible Mode difficulties might be your favorite order on the menu.
+So, you think you're good at spaced streams? Why not give Erza's mapset of Turkish March a try? With over 200 favorites, the set is definitely a player favorite. We have two different versions of the map, each with two different variants at 180 BPM and 200 BPM. If you're just looking for some long flowy streams to practice your stream-aim coordination, head on over to the Normal Mode difficulties. If you're one for follow points in your spaced streams, the Impossible Mode difficulties might be your favorite order on the menu.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/pizza-rolls.jpg)](https://osu.ppy.sh/community/forums/topics/807794)
 
@@ -80,25 +80,25 @@ Many of you may know Logic Agent's ranked mapset of this song, but if you've eve
 
 [YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by [Rumia-](https://osu.ppy.sh/users/1787171), [[ -Scarlet- ]](https://osu.ppy.sh/users/2427693) and [Matsubara Kanon](https://osu.ppy.sh/users/1475828)
 
-Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as [Matsubara Kanon](https://osu.ppy.sh/users/1475828)) and [[ -Scarlet- ]](https://osu.ppy.sh/users/2427693), has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
+Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as Matsubara Kanon) and [ -Scarlet- ], has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/anomaly.jpg)](https://osu.ppy.sh/community/forums/topics/807797)
 
 [Camellia - ANOMALY](https://osu.ppy.sh/beatmapsets/570314) by [Akali](https://osu.ppy.sh/users/2127359)
 
-If you're a fan of hardcore Camellia tracks, you're sure to love ANOMALY. If you're also a fan of hardcore maps of hardcore Camellia tracks, you're also sure to love Akali's map of ANOMALY. This nearly 7-star map contains everything crazy you'd expect from a song like this: dense stream sections, high speed sliders, and high BPM finger control sections, all topped off at a length of 4:20. With over 170 favorites, this banger of a map is sure to be seen as a gem by many.
+If you're a fan of hardcore Camellia tracks, you're sure to love ANOMALY. If you're also a fan of hardcore maps of hardcore Camellia tracks, you're also sure to love Akali's map of ANOMALY. This nearly 7-star map contains everything crazy you'd expect from a song like this: dense stream sections, high-speed sliders, and high-BPM finger control sections, all topped off at a length of 4:20. With over 170 favorites, this banger of a map is sure to be seen as a gem by many.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/technical-master.jpg)](https://osu.ppy.sh/community/forums/topics/807798)
 
 [Rolling Contact - Technical Master](https://osu.ppy.sh/beatmapsets/630818) by [Naidaaka](https://osu.ppy.sh/users/6988856)
 
-Anyone craving some cut streams? If you raised your hand, be sure to check out Naidaaka's map of a song fittingly named Technical Master. At over 7 stars, this sub-2 minute map certainly succeeded in fitting as many crazy spaced and cut streams as possible in a way that's fun to play. Whether you're looking to refine your skills or just looking for a challenge, be sure to give this map a try! It just might be your next favorite.
+Anyone craving some cut streams? If you raised your hand, be sure to check out Naidaaka's map of a song fittingly named Technical Master. At over 7 stars, this sub-two minute map certainly succeeded in fitting as many crazy spaced and cut streams as possible in a way that's fun to play. Whether you're looking to refine your skills or just looking for a challenge, be sure to give this map a try! It just might be your next favorite.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/shinbatsu-o-tadori-kyou-kotsu-ni-itaru.jpg)](https://osu.ppy.sh/community/forums/topics/807799)
 
 [Imperial Circus Dead Decadence - Shinbatsu o Tadori-Kyou-Kotsu ni Itaru](https://osu.ppy.sh/beatmapsets/482382) by [Kite](https://osu.ppy.sh/users/134572)
 
-I'm sure many of you recognize this artist from popular ranked mapsets of Uta and Yomi yori Kikoyu, but have you ever wished for something even **faster** than those two? If Yomi yori's 220 BPM isn't enough, how about 230? No? Not even 240!? Alright, if you insist! Here we have Kite's insane 8-star map of the song "Shinbatsu o Tadori-Kyou-Kotsu ni Itaru", clocking in at an insane 250 BPM, just for you. Long deathstream sections followed by a few suspenseful aim-centered sections followed by even more long deathstream sections. If my words can't convey the intensity of this map, I'm sure the map itself can do it easily -- take a look for yourself! Who knows, maybe you'll join the 150+ people who have already deemed this map as one of their favorites.
+I'm sure many of you recognize this artist from popular ranked mapsets of Uta and Yomi yori Kikoyu, but have you ever wished for something even **faster** than those two? If Yomi yori's 220 BPM isn't enough, how about 230? No? Not even 240!? Alright, if you insist! Here we have Kite's insane 8-star map of the song "Shinbatsu o Tadori-Kyou-Kotsu ni Itaru", clocking in at an insane 250 BPM, just for you. Long deathstream sections followed by a few suspenseful aim-centered sections followed by even more long deathstream sections. If my words can't convey the intensity of this map, I'm sure the map itself can do it easily—take a look for yourself! Who knows, maybe you'll join the 150+ people who have already deemed this map as one of their favorites.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/insane-techniques-extended.jpg)](https://osu.ppy.sh/community/forums/topics/807800)
 
