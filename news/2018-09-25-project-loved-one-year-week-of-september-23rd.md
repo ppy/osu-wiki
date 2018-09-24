@@ -190,9 +190,9 @@ We reintroduce Gekido- to the loved nomination list as a "sequel" to his previou
 
 One of the most popular SV charts of this year and a memorable qualifier for SOFT 3 mapped by none other than Ciel, cloudlight by Eskmo is a map that is still f l o a t i n g  a n d  f l o a t i n g  in minds of many players. It's mostly based on memorisation, however the catch is that some of the snaps (especially in the beginning) are irregular and thus deceptively tough to hit properly. Although OD5 compensates for that a bit, getting a high accuracy on this map is possible only with a lot of practice. The star section consists of f l o a t i n g teleports, which are nicely structured, are the true highlight of the map and the reason it has become so popular. Try this barely 2-starred map and vote for it in the upcoming Loved voting!
 
-[![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/towa-no-kizuna-feat-another-infinity-x1-1.jpg)](https://osu.ppy.sh/community/forums/topics/807820)
+[![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/towa-no-kizuna-feat-another-infinity.jpg)](https://osu.ppy.sh/community/forums/topics/807820)
 
-[Daisy x Daisy - Towa no Kizuna feat Another Infinity x1.1](https://osu.ppy.sh/beatmapsets/158113) by [MoTeSolo](https://osu.ppy.sh/users/3155787)  
+[Daisy x Daisy - Towa no Kizuna feat. Another Infinity](https://osu.ppy.sh/beatmapsets/158113) by [MoTeSolo](https://osu.ppy.sh/users/3155787)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 Another map that we're featuring in this round of voting is a classic amongst o2jam oriented players. We're featuring a collaboration between an o2jam charter LCH and MoTeSolo - a sped up version of Towa no Kizuna.
