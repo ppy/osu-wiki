@@ -8,7 +8,9 @@ date: 2018-09-25 20:00:00 +0000
 
 [![](/wiki/shared/news/banners/loved.png)](https://osu.ppy.sh/community/forums/120)
 
-"[Introducing the Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)"—remember this announcement? Can you believe that it was made an entire year ago? [Project Loved](https://osu.ppy.sh/community/forums/120) is celebrating its first birthday under the "Captain's Pick" system, and we're approaching two years since [the Loved category was brought to life](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love). Loved has had some huge success in bringing leaderboards and recognition to the beatmaps that stand out to the community, and it's all been possible thanks to the people who've helped out. So, before we get into the meat of this week's post, I want to thank everyone that's been a part of this project:
+"[Introducing the Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)"—remember this announcement? Can you believe that it was made an entire year ago? [Project Loved](https://osu.ppy.sh/community/forums/120) is celebrating its first birthday under the "Captain's Pick" system, and we're approaching two years since [the Loved category was brought to life](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love).
+
+Loved has had some huge success in bringing leaderboards and recognition to the beatmaps that stand out to the community, and it's all been possible thanks to the people who've helped out. So, before we get into the meat of this week's post, I want to thank everyone that's been a part of this project:
 
 - **[Toy](https://osu.ppy.sh/users/2757689)**, for taking action to revive the Loved category and manage Project Loved all this time
 - [Ephemeral](https://osu.ppy.sh/users/102335), [MillhioreF](https://osu.ppy.sh/users/941094), [peppy](https://osu.ppy.sh/users/2) and [WalterToro](https://osu.ppy.sh/users/5281416), for providing the resources that made it possible
