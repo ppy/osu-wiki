@@ -99,16 +99,38 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
+
+### Finals
+
+- Freemod
+	- [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](http://osu.ppy.sh/beatmaps/1778859&m=3)
+	- [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](http://osu.ppy.sh/beatmaps/1782630&m=3)
+	- [LeaF - I \(Tidek\) \[Ego\]](http://osu.ppy.sh/beatmaps/1783820&m=3)
+	- [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](http://osu.ppy.sh/beatmaps/1778183&m=3)
+	- [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](http://osu.ppy.sh/beatmaps/1783679&m=3)
+	- [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](http://osu.ppy.sh/beatmaps/1783790&m=3)
+	- [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](http://osu.ppy.sh/beatmaps/1780964&m=3)
+	- [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](http://osu.ppy.sh/beatmaps/1782639&m=3)
+	- [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](http://osu.ppy.sh/beatmaps/1783684&m=3)
+	- [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](http://osu.ppy.sh/beatmaps/1781994&m=3)
+	- [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](http://osu.ppy.sh/beatmaps/1783616&m=3)
+	- [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](http://osu.ppy.sh/beatmaps/1783661&m=3)
+	- [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](http://osu.ppy.sh/beatmaps/1783622&m=3)
+	- [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](http://osu.ppy.sh/beatmaps/1783836&m=3)
+	- [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](http://osu.ppy.sh/beatmaps/1783636&m=3)
+- Tiebreaker
+	- **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](http://osu.ppy.sh/beatmaps/1563688&m=3)**
+
 ### Semifinals
 
 - Freemod
 	- [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](http://osu.ppy.sh/beatmaps/1384837&m=3)
 	- [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](http://osu.ppy.sh/beatmaps/1723938&m=3)
-	- [Camellia - Chirality \(Abraxos\) \[Kheiral point\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
+	- [Camellia - Chirality \(Abraxos\) \[Kheir\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
 	- [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](http://osu.ppy.sh/beatmaps/1777377&m=3)
 	- [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](http://osu.ppy.sh/beatmaps/1777378&m=3)
 	- [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](http://osu.ppy.sh/beatmaps/1770257&m=3)
-	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM \]](https://osu.ppy.sh/beatmaps/1771900&m=3)
+	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1771900&m=3)
 	- [Chroma - I \(Guilhermeziat\) \[You\]](http://osu.ppy.sh/beatmaps/1592359&m=3)
 	- [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](http://osu.ppy.sh/beatmaps/1576797&m=3)
 	- [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](http://osu.ppy.sh/beatmaps/1665871&m=3)
@@ -181,31 +203,19 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 22. September 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_MY] | Malaysia | **3:00 UTC** | 23:00 (Fri) UTC-04 | 11:00 UTC+08 | ² |
-| Japan | ![][flag_JP] | ![][flag_SG] | Singapore | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ² |
-| France | ![][flag_FR] | ![][flag_CN] | China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 | ² |
-| Argentina | ![][flag_AR] | ![][flag_ID] | Indonesia | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ² |
-| Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 | ³ |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **22:00 UTC** | 18:00 UTC-04 | 19:00 UTC-03 | ¹ |
-
-### Sunday, 23. September 2018
+### Sunday, 30. September 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Argentina | ![][flag_AR] | ![][flag_CN] | China | **3:00 UTC** | 0:00 UTC-03 | 20:00 UTC+08 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **5:00 UTC** | 12:00 UTC+07 | 13:00 UTC+08 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_SG] | Singapore | **8:00 UTC** | 16:00 UTC+08 | 16:00 UTC+08 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | **8:00 UTC** | 16:00 UTC+08 | 17:00 UTC+09 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_FR] | France | **10:00 UTC** | 17:00 UTC+07 | 12:00 UTC+02 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **12:00 UTC** | 13:00 UTC+01 | 21:00 UTC+09 | ¹ |
-| Canada | ![][flag_CA] | ![][flag_SG] | Singapore | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **14:00 UTC** | 10:00 UTC-04 | 23:00 UTC+09 | ³ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **1:00 UTC** | 21:00 (Sat) UTC-04 | 10:00 UTC+09 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **3:00 UTC** | 11:00 UTC+08 | 0:00 UTC-03 | ² |
+| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **10:00 UTC** | 18:00 UTC+08 | 11:00 UTC+01 | ² |
+| Malaysia | ![][flag_MY] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CN] | China | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 11:00 UTC-03 | 15:00 UTC+01 | ³ |
 
 ¹ Winner bracket encounter
  
@@ -216,6 +226,23 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2018-09-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![][flag_CA] | 0 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/46141725) |
+| Japan ![][flag_JP] | 7 | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/46148838) |
+| France ![][flag_FR] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46151447) |
+| Argentina ![][flag_AR] | 0 | 7 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/46154890) |
+| United States ![][flag_US] | 7 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46171663) |
+
+| Sunday, 2018-09-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46178984) |
+| Malaysia ![][flag_MY] | 7 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/46181664) |
+| United Kingdom ![][flag_GB] | 1 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/46186189) |
+
 
 ### Quarterfinals
 
