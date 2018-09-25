@@ -6,7 +6,7 @@ date: 2018-09-25 01:00:00 +0000
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is celebrating its first birthday today! Like always, we have a wide selection of beatmaps up for vote this week; don't forget to show them some love!
 
-[![](/wiki/shared/news/banners/loved.png)](https://osu.ppy.sh/community/forums/120)
+<div align="center">[![](/wiki/shared/news/banners/loved.png)](https://osu.ppy.sh/community/forums/120)</div>
 
 "[Introducing the Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)"—remember this announcement? Can you believe that it was made an entire year ago? [Project Loved](https://osu.ppy.sh/community/forums/120) is celebrating its first birthday under the "Captain's Pick" system, and we're approaching two years since [the Loved category was brought to life](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love).
 
