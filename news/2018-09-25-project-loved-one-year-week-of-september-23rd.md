@@ -116,25 +116,25 @@ osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/26
 
 [Agnete Kjolsrud - Get Jinxed](https://osu.ppy.sh/beatmapsets/122279) by [Hanjamon](https://osu.ppy.sh/users/1703330) et al.
 
-Coming from an era in Taiko where the ranking procedure was pretty tight and strict, we have a rather infamous song and a very popular set, Get Jinxed! Ranked at one time for a very, very short amount of time, it was then vetoed and left to the Grave by now retired mapper Hanjamon, so we wanted to give it another chance! Considering the nature of the song and the popularity of the standard set, we think a lot of newcomers will enjoy this set and get to experience one of the most fun taiko mapsets we have to offer!
+Coming from an era in osu!taiko where the ranking procedure was pretty tight and strict, we have a rather infamous song and a very popular set, Get Jinxed! Ranked at one time for a very, very short amount of time, it was then vetoed and left to the grave by now retired mapper Hanjamon, so we wanted to give it another chance! Considering the nature of the song and the popularity of the standard set, we think a lot of newcomers will enjoy this set and get to experience one of the most fun osu!taiko mapsets we have to offer!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/taiko/miko.jpg)](https://osu.ppy.sh/community/forums/topics/807804)
 
 [tarolabo - Miko](https://osu.ppy.sh/beatmapsets/593618) by [Nyan](https://osu.ppy.sh/users/36102)
 
-We've Loved maps from tarolabo maps from Nyan before, but none quite like this. When this released way back in 2014 (and re-uploaded in 2017), it was a thrilling version of a song we in taiko were already pretty familiar with. There are two other "miko"'s, one by glalucard and one by Firce777, made even further back in 2011 and 2012, so this song was already really familiar to the game, however this one is special. With incredibly non-dated feeling usage of 1/6, very accurate timing and just an overall atmosphere of the "Final Boss", we think Nyan's Miko deserves a place in Loved's history.
+We've Loved tarolabo maps from Nyan before, but none quite like this. When this released way back in 2014 (and got re-uploaded in 2017), it was a thrilling version of a song we in osu!taiko were already pretty familiar with. There are two other maps of Miko, one by [glalucard](https://osu.ppy.sh/users/577406) and one by [Firce777](https://osu.ppy.sh/users/274072), made even further back in 2011 and 2012, so this song was already really familiar to the game. However, this map is special. With incredibly non-dated usage of 1/6, very accurate timing and just an overall atmosphere of the "Final Boss", we think Nyan's Miko deserves a place in Loved's history.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/taiko/uchiage-hanabi-doko-kara-mirunen-w.jpg)](https://osu.ppy.sh/community/forums/topics/807805)
 
 [hanacco - Uchiage Hanabi, Doko kara Mirunen w](https://osu.ppy.sh/beatmapsets/815747) by [HEKUSODASU](https://osu.ppy.sh/users/9044692), [Shallty](https://osu.ppy.sh/users/6205471) and [KitajimaYN](https://osu.ppy.sh/users/2250574)
 
-A new-comer to Loved, HEKUSODASU, has been really excited to hopefully get a Loved map eventually. Well, he's finally getting his wish with this brilliant mapset of a remix of the extremely popular j-pop song, Uchiage Hanabi. You may be familiar with this song, which has garnered maps by Monstrata, Ascendance, and tasuke912. He has brought a supporting cast of KitajimaYN and Shallty (previously known as "soloist"), who are very strong and prominent mappers in the japanese scene in their own right. Their maps are all extremely fun and densely packed madness, so we encourage you to check them all out!
+A new-comer to Loved, HEKUSODASU, has been really excited to hopefully get a Loved map eventually. Well, he's finally getting his wish with this brilliant mapset of a remix of the extremely popular J-pop song, Uchiage Hanabi. You may be familiar with this song, which has garnered maps by Monstrata, Ascendance and tasuke912. He has brought a supporting cast of KitajimaYN and Shallty (previously known as "soloist"), who are very strong and prominent mappers in the Japanese scene. Their maps are all extremely fun and densely-packed madness, so we encourage you to check them all out!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/taiko/colors-sasakure-uk-futurelogic-remix.jpg)](https://osu.ppy.sh/community/forums/topics/807806)
 
 [dj TAKA - Colors -sasakure.UK Futurelogic Remix-](https://osu.ppy.sh/beatmapsets/494032) by [bananannian](https://osu.ppy.sh/users/4497137)
 
-Our redemption pick for this week, Colors only barely missed out getting Loved in our Seventh Round, by 1%. We have been requested a few more times to give this another chance, and so we decided now would be a good time! Here's our original description:
+Our redemption pick for this week, Colors only barely missed out getting Loved in our seventh round, by just 1%. We have been requested a few more times to give this another chance, and so we decided now would be a good time! Here's our original description of the map:
 
 > A beautiful song and a beautiful set, Colors has a lot of charm to it. The moody song, paired with the chaotic design of the top diff makes this set pop out as something truly unique to play and feast your eyes on. 1/6 so exotic, it'll make even the best players squirm. Don't fret however, bananannian has provided you with a full spread so even the lower ranked players get to have fun with this one.
 
