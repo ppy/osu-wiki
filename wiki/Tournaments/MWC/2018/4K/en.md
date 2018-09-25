@@ -103,34 +103,34 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Finals
 
 - Freemod
-	- [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](http://osu.ppy.sh/b/1778859&m=3)
-	- [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](http://osu.ppy.sh/b/1782630&m=3)
-	- [LeaF - I \(Tidek\) \[Ego\]](http://osu.ppy.sh/b/1783820&m=3)
-	- [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](http://osu.ppy.sh/b/1778183&m=3)
-	- [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](http://osu.ppy.sh/b/1783679&m=3)
-	- [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](http://osu.ppy.sh/b/1783790&m=3)
-	- [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](http://osu.ppy.sh/b/1780964&m=3)
-	- [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](http://osu.ppy.sh/b/1782639&m=3)
-	- [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](http://osu.ppy.sh/b/1783684&m=3)
-	- [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](http://osu.ppy.sh/b/1781994&m=3)
-	- [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](http://osu.ppy.sh/b/1783616&m=3)
-	- [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](http://osu.ppy.sh/b/1783661&m=3)
-	- [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](http://osu.ppy.sh/b/1783622&m=3)
-	- [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](http://osu.ppy.sh/b/1783836&m=3)
-	- [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](http://osu.ppy.sh/b/1783636&m=3)
+	- [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](http://osu.ppy.sh/beatmaps/1778859&m=3)
+	- [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](http://osu.ppy.sh/beatmaps/1782630&m=3)
+	- [LeaF - I \(Tidek\) \[Ego\]](http://osu.ppy.sh/beatmaps/1783820&m=3)
+	- [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](http://osu.ppy.sh/beatmaps/1778183&m=3)
+	- [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](http://osu.ppy.sh/beatmaps/1783679&m=3)
+	- [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](http://osu.ppy.sh/beatmaps/1783790&m=3)
+	- [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](http://osu.ppy.sh/beatmaps/1780964&m=3)
+	- [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](http://osu.ppy.sh/beatmaps/1782639&m=3)
+	- [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](http://osu.ppy.sh/beatmaps/1783684&m=3)
+	- [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](http://osu.ppy.sh/beatmaps/1781994&m=3)
+	- [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](http://osu.ppy.sh/beatmaps/1783616&m=3)
+	- [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](http://osu.ppy.sh/beatmaps/1783661&m=3)
+	- [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](http://osu.ppy.sh/beatmaps/1783622&m=3)
+	- [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](http://osu.ppy.sh/beatmaps/1783836&m=3)
+	- [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](http://osu.ppy.sh/beatmaps/1783636&m=3)
 - Tiebreaker
-	- **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](http://osu.ppy.sh/b/1563688&m=3)**
+	- **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](http://osu.ppy.sh/beatmaps/1563688&m=3)**
 
 ### Semifinals
 
 - Freemod
 	- [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](http://osu.ppy.sh/beatmaps/1384837&m=3)
 	- [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](http://osu.ppy.sh/beatmaps/1723938&m=3)
-	- [Camellia - Chirality \(Abraxos\) \[Kheiral point\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
+	- [Camellia - Chirality \(Abraxos\) \[Kheir\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
 	- [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](http://osu.ppy.sh/beatmaps/1777377&m=3)
 	- [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](http://osu.ppy.sh/beatmaps/1777378&m=3)
 	- [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](http://osu.ppy.sh/beatmaps/1770257&m=3)
-	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM \]](https://osu.ppy.sh/beatmaps/1771900&m=3)
+	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1771900&m=3)
 	- [Chroma - I \(Guilhermeziat\) \[You\]](http://osu.ppy.sh/beatmaps/1592359&m=3)
 	- [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](http://osu.ppy.sh/beatmaps/1576797&m=3)
 	- [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](http://osu.ppy.sh/beatmaps/1665871&m=3)
