@@ -250,205 +250,205 @@ Anda juga dapat mencoba memaksa gamenya untuk diperbarui.
 3. Ketik ​`update`​ pada menu pencarian cepat untuk melompat langsung ke opsi. 
 4. Klik tombol `​Run osu! updater`.
 
-You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
+Anda juga dapat memaksa game untuk diperbarui dengan membuat file `help.txt` di direktori dimana Anda menginstal osu!. File ini tidak perlu mengandung apa-apa, dan permainan akan secara otomatis memaksa pembaruan pada waktu berikutnya osu! dijalankan.
 
-#### I get an error about "font styles" when I try to open the game!
+#### Saya mendapatkan kesalahan mengenai "font style" saat saya mencoba membuka game! 
 
-**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**Anda telah menghapus atau kehilangan system font penting yang telah dibundel dengan Windows.​ ​Ini mungkin bukan satu-satunya masalah yang Anda perhatikan!**
 
-If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
+Jika Anda melihat kesalahan ini ketika Anda mencoba membuka osu! atau pembaruannya, artinya Anda menghapus atau kehilangan font system penting yang datang dengan Windows. Font ini digunakan di seluruh OS Windows, sehingga Anda dapat mengalami berbagai macam masalah lainnya, seperti font yang salah, teks yang hilang, dan aplikasi lain tidak dapat berjalan dengan baik di Windows.
 
-Here is a collection of common fonts used in different versions of Windows and across the web which should help:
+Berikut ini adalah kumpulan font umum yang digunakan dalam berbagai versi Windows dan di seluruh web yang seharusnya dapat membantu Anda:
 
-- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (antara lain Arial, Times New Roman, Trebuchet MS, dan Verdana)
 - [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
 - [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Nothing in osu! or your system depends on these, but these fonts are awesome! Download now gogo!)
-- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (?????) (Traditional Chinese UI font)
+- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Font ini tidak digunakan di osu! Atau digunakan di dalam sistem Anda, tetapi font ini luar biasa! Unduh sekarang gogo!)
+- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (?????) (Font UI Tradisional Cina)
 
-See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+Lihat [topik ini](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) pada Microsoft Answers untuk beberapa saran yang lebih terperinci, dan opsi lain untuk mendapatkannya kembali.
 
-#### Some of my beatmaps are missing!
+#### Beberapa beatmap saya hilang!
 
-**Make sure you are not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
+**Pastikan Anda tidak mencari beatmap dalam kriteria tertentu (seperti berdasarkan star rating, approach rate, dll).**
 
-If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
+Jika Anda baru saja mengunduh map, Anda mungkin ingin mencoba menyegarkan ulang (refresh) daftar beatmap Anda dengan menekan ​`F5`​ pada menu pemilihan lagu.
 
 ### Gameplay
 
-#### My combo counter, score display or accuracy display is missing!
+#### Counter kombo, tampilan skor atau tampilan akurasi saya hilang! 
 
-**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
+**Secara default, menekan `​Shift`​ + `​Tab`​ akan mengaktifkan HUD dalam game dan memungkinkan Anda untuk melihat elemen-elemen ini lagi.**
 
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+Jika Anda telah mengubah keybinding yang mengubah papan skor, kombinasi tombol ini tidak akan berfungsi. Anda dapat memeriksa kunci mana yang diatur di `​Options`​ -> `​Change keyboard bindings`​ -> `​In-Game`​ -> `​Toggle Scoreboard`.
 
-#### My local scores are missing!
+#### Skor lokal saya hilang!
 
-There's a few reasons why this can happen. Read on below!
+Ada beberapa alasan mengapa hal ini bisa terjadi. Baca beberapa topik di bawah ini!
 
-##### Have you recently reinstalled the game client?
+##### Apakah Anda baru-baru ini menginstal ulang klien osu!?
 
-**Reinstalling the game client will automatically clear all of your local scores.**
+**Menginstal ulang klien game Anda akan secara otomatis menghapus semua skor lokal Anda.**
 
-These are unfortunately, gone.
+Sayangnya, skor lokal Anda akan hilang. 
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+Skor yang telah Anda kirimkan secara online masih ada, namun - cukup unduh lagu apa pun yang telah Anda mainkan sebelumnya, dan skor Anda akan muncul kembali. 
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+Tip - jika Anda seorang osu!supporter, Anda dapat menggunakan filter ​`Ranked (Telah Dimainkan)`​ di panel osu!direct in-game atau melalui ​[laman daftar beatmap](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=)​ untuk menemukan map apa pun yang telah Anda mainkan dan memiliki skor online di masa lalu.
 
-##### Are you set to the correct game mode?
+##### Apakah Anda mengatur game mode yang dimainkan dengan benar? 
 
-**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
+**Memainkan game mode lain (osu!taiko, osu!catch atau osu!mania) akan menukar tampilan skor in-game, dan hanya akan menampilkan skor untuk mode itu.​ Dengan ini osu! akan menyembunyikan skor Anda dari mode lain.**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
+Penyebab umum masalah ini muncul ketika Anda memainkan map game mode lain, yang kemudian secara otomatis mengatur pemilihan lagu untuk menggunakan skor mode itu sampai mode diatur kembali.
 
-You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
+Anda dapat mengubah game mode dengan mengklik tombol ​`Mode`​ di bagian kiri bawah layar di menu pemilihan lagu, lalu pilih mode yang sesuai yang Anda cari untuk skor Anda. 
 
-##### Are you playing offline?
+##### Apakah Anda bermain offline? 
 
-**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
+**Sayangnya, skor yang ditetapkan saat bermain offline tidak dapat ditambahkan ke peringkat online.**
 
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
+Jika Anda bermain online dan mengalami pemutusan singkat karena alasan apa pun, game Anda akan secara otomatis mencoba mengirim skor sendiri selama Anda menjaga klien tetap terbuka.
 
-##### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+##### Apakah Anda baru saja mengunduh map dalam jumlah besar? (misalnya: paket atau bundel beatmap)
 
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
-
-Playing the game or doing something else will let the client catch up in the background.
-
-#### What is this white trail or smoke-like line behind my cursor?
-
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
-
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
-
-#### How do I save my own replay of a score I just made?
-
-**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
-
-This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
-
-osu! also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
-
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
-
-#### osu! is telling me that my game client is too old!
-
-**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
-
-If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
-
-#### My scores aren't submitting!
-
-Oops! There's a few reasons why this can happen. Let's go through them:
-
-##### Were you connected to the Internet while playing?
-
-**If you were not able to access the Internet when finishing your score, it may not submit.**
-
-This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
-
-##### Is osu! allowed in your local firewall or anti-virus suite?
-
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
-
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
-
-##### Are you running lots of programs in the background?
-
-**Some can interfere with your ability to submit scores.**
-
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
-
-##### Are the score submission servers up?
-
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
-
-If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
-
-##### Can you upload a score I set for me?
-
-**Unfortunately, we cannot upload scores upon request.**
-
-If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
-
-#### The notes seem out of sync or out of time with the music!
-
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
-
-Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
-
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
-
-The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
-
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
-
-#### I'm experiencing lag spikes or stuttering during play!
-
-**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
-
-##### Do you have lots of programs open at the same time while playing osu!?
-
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
-
-Try closing some programs that you do not need open while playing the game.
-
-##### Is your computer secure?
-
-**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
-
-Keep your computer clean and safe and you might notice an improvement.
-
-##### How old is your computer?
-
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
-
-The only way to deal with this one is to upgrade your computer!
-
-##### Are your drivers up to date? 
-
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
-
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
-
-##### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
-
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
-
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
-
-##### Are you running osu! in windowed or borderless mode?
-
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
-
-##### Does your game freeze up for only a moment or so?
-
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
-
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
-
-##### Has the game recently updated?
-
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
-
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
-
-If it doesn't resolve, a reboot can sometimes help.
-
-#### My game looks glitchy, like the graphics are torn!
-
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
-
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
-
-You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+**Skor terkadang waktu lebih untuk mengunduh dari server game jika Anda memuat banyak map yang baru dimuat sekaligus.**
  
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Main game atau melakukan sesuatu yang lain akan membiarkan klien mengejar ketinggalan di latar belakang.
 
-Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+#### Apa jejak putih atau garis asap yang berada di belakang kursor saya ini? 
+
+**Ini adalah fitur khusus yang disebut ​*smoke* dan dapat digunakan untuk mencoret-coret di playfield Anda untuk bersenang-senang.​ ​Siapa pun yang menonton tayangan ulang Anda dapat melihat hal-hal yang Anda gambar juga.**
+
+Keybinding default untuk fitur ini adalah tombol `C`​, dan fitur ini akan terus berfungsi selama Anda menekannya. Anda dapat mengubah tombolnya kapan saja di bagian `​osu! Standard Mode`​ dari dialog opsi `​Change keyboard bindings​`. 
+
+#### Bagaimana cara menyimpan hasil replay saya sendiri dari skor yang baru saya buat?
+
+**Masuk ke layar hasil post-game dengan mengklik skor di papan skor lokal Anda, dan tekan tombol ​`F2​`.**
+
+Setelah ini, tayangan ulang dari skor baru Anda yang mengkilap akan tersimpan sebagai file ​`.osr`​ di folder /Replays/ dalam direktori di mana Anda menginstal osu! Anda. 
+
+osu! juga secara otomatis menyimpan semua tayangan ulang setelah Anda menyelesaikan sebuah map di dalam folder ​`/Data/r/`​, yang juga terdapat dalam direktori di mana Anda menginstal osu! Anda.
+
+Harap dicatat bahwa jika tidak ada replay yang disimpan untuk skor yang Anda buat sebelumnya, Anda tidak akan dapat mengambil replay dengan melakukan hal ini.
+
+#### osu! memberitahu bahwa klien game yang saya gunakan sudah terlalu tua!
+
+**Saatnya meningkatkan versinya!​ ​Versi game yang sangat lama tidak memiliki izin untuk mengirimkan skor baru, jadi Anda harus memaksa pembaruan dengan masuk ke `​Options`​ -> `​General`​ -> `​Run osu! updater​`.** 
+
+Jika cara ini tidak berhasil, Anda bisa menutup osu! dan buka kembali `osu!.exe` sambil menekan tombol ​`Shift`​. Fungsi ini akan memberi Anda beberapa opsi peningkatan dan perbaikan, salah satunya adalah memperbarui game Anda ke versi terbaru.
+
+#### Skor saya tidak terkirim! 
+
+Ups! Ada beberapa alasan mengapa hal ini bisa terjadi. Mari kita bahas potensial yang terjadi: 
+
+##### Apakah Anda terhubung ke Internet saat bermain?
+
+**Jika Anda tidak dapat mengakses internet ketika menyelesaikan skor Anda, kemungkinan besar skor tidak akan dikirim**
+
+Hal ini bisa membuat frustrasi jika Anda bermain pada koneksi yang tidak stabil, meskipun permainan akan mencoba yang terbaik untuk mengirimkan kembali skor Anda selama Anda meninggalkan klien terbuka. 
+
+##### Apakah osu! telah diizinkan di firewall lokal atau anti-virus Anda? 
+
+**Beberapa firewall atau perangkat lunak anti-virus dapat memblokir akses internet untuk osu!, yang akan mencegahnya mengirim skor.**
+
+Periksa perangkat lunak pilihan Anda untuk memastikan bahwa `​osu!.exe`​ di direktori tempat Anda menginstal game telah diizinkan untuk mengakses internet.
+
+##### Apakah Anda menjalankan banyak program di latar belakang (background)?
+
+**Beberapa hal dapat mengganggu kemampuan Anda untuk mengirimkan skor.**
+
+Coba tutup semua program ekstra yang tidak Anda butuhkan sebelum bermain osu! jika Anda menemukan bahwa skor Anda tidak terkirim dan Anda tidak mengalami masalah dengan konektivitas sebaliknya.
+
+##### Apakah server untuk pengiriman skor online?
+
+**Jawabannya hampir selalu online, tapi periksa [​stat.ppy.sh](https://stat.ppy.sh)​ atau ​[Twitter @osustatus]​(https://twitter.com/osustatus) untuk memastikan semuanya berjalan lancar sesuai prosedur.** 
+
+Jika server sedang offline, jangan tutup osu! sampai kami memperbaiki masalah dan server kembali online, dan game akan mencoba mengirimkan skor Anda lagi hingga satu jam sebelum akhirnya berhenti. 
+
+##### Dapatkah Anda mengunggah skor telah yang saya tetapkan untuk saya?
+
+**Sayangnya, kami tidak dapat mengunggah skor berdasarkan permintaan.**
+
+Jika Anda ditolak skor karena alasan teknis atau apa pun, harapan terbaik Anda adalah mengulangi keterampilan Anda dalam bermain dan meraihnya lagi. Maaf!
+
+#### Note dalam map sepertinya tidak sinkron atau telah tertelan musik!
+
+**Hal ini bisa disebabkan oleh perangkat lunak pengolah suara yang berjalan di perangkat Anda, seperti​ *Razer Surround Audio*.​ ​Bisa juga karena `​Universal Offset`​ tidak diatur dengan benar.**
+
+Coba tutup semua program tambahan yang mengubah atau mempengaruhi suara yang keluar dari perangkat Anda. Jika cara ini tidak membantu, Anda bisa mencoba untuk menyesuaikan ​`Universal Offset​`. 
+
+Setiap konfigurasi perangkat keras (hardware) memiliki `​Universal Offset`​ tertentu yang menentukan apakah Anda mendengar audio game sedikit lebih lama atau lebih cepat.
+
+Nilai default sudah cukup untuk kebanyakan orang, tetapi jika Anda memang nilai default bukan untuk Anda, Anda dapat mengubahnya dengan mengikuti langkah-langkah ini: 
+
+- Buka menu ​`Options​`, dan cari penggeser (slider) untuk `​Universal offset` yang terletak di​ bawah tajuk `​Offset Adjustment`. Nilai default adalah 0, dan Anda hanya perlu mengubahnya jika diperlukan.
+- Jika nilai default (0) tidak cocok untuk Anda, coba gunakan tombol `​Offset wizard`​ untuk memandu Anda mengatur offset yang baru.
+- Jika cara ini masih tidak membantu, Anda mungkin ingin mencoba memperbarui driver audio sound card atau motherboard Anda. 
+
+#### Saya mengalami banyak lag atau stuttering saat bermain!
+
+**Ada banyak alasan mengapa permainan dapat berjalan tidak konsisten, mulai dari program di komputer Anda, driver yang kedaluwarsa, atau hanya memiliki beberapa pengaturan yang terlalu tinggi untuk perangkat Anda.**
+ 
+##### Apakah Anda memiliki banyak program yang terbuka pada saat yang sama saat bermain osu!?
+
+**Beberapa proses latar belakang (background) dapat bertarung dengan osu!​ demi memori atau sumber lainnya yang dipakai dan membuat permainan sangat tidak menyenangkan untuk dimainkan.**
+
+Coba tutup beberapa program yang tidak perlu Anda buka saat bermain game.
+
+##### Apakah komputer Anda aman?
+
+**Virus, spyware, malware atau perangkat lunak yang tidak diinginkan lainnya dapat menyebabkan masalah kinerja yang serius bahkan untuk komputer kelas high-end.**
+
+Jaga komputer Anda bersih dan aman dan Anda mungkin melihat peningkatan. 
+
+##### Berapa umur komputer Anda?
+
+**Komputer yang sangat tua yang menggunakan chipset ​Intel Integrated graphics​ yang lebih tua mungkin tidak kuat untuk menangani osu!​ ​sama sekali, bahkan pada pengaturan terendah.**
+
+Satu-satunya cara untuk mengatasi yang satu ini adalah dengan meng-upgrade komputer Anda! 
+
+##### Apakah driver Anda sudah diperbarui?
+
+**Driver lama dapat menyebabkan masalah kinerja yang serius.​ ​Pastikan Anda selalu memperbarui semua driver Anda untuk segala sesuatunya.**
+
+Driver kartu grafis (VGA) sangat penting untuk osu!, serta driver sound card. 
+
+##### Apakah Anda menggunakan terminal USB untuk menghubungkan banyak perangkat USB ke komputer Anda melalui satu kabel USB?
+
+**Menghubungkan terlalu banyak perangkat ke satu port melalui splitter dapat menyebabkan kelambatan input yang sulit dideteksi tetapi dapat secara serius melambatkan game Anda.**
+
+Solusi mudah untuk ini adalah dengan mencoba mencabut hub USB Anda sebentar. Jika lag Anda telah hilang, Anda tahu mengapa alasannya! 
+
+##### Apakah Anda menjalankan osu! dalam mode windowed atau borderless?
+
+**Kedua mode windowed dan borderless memiliki sejumlah besar input delay. Layar penuh (Fullscreen) optimal untuk pengalaman bermain yang terbaik.**
+
+##### Apakah game Anda hanya akan berhenti sebentar?
+
+**Terkadang proses di latar belakang (background) atau aplikasi lain di komputer Anda dapat mengirim permintaan besar sumber daya sekaligus, yang akan membuat mesin Anda berjuang untuk memenuhinya.**
+
+Masalah ini biasanya akan hilang setelah menutup semua yang tidak penting sebelum Anda bermain osu!. Perangkat lunak Torrenting adalah penyebab besar untuk ini, terutama jika berbagi ruang dengan drive di mana osu! diinstal. 
+
+##### Apakah game baru-baru ini diperbarui?
+
+**Kadang-kadang setelah pembaruan game, klien mungkin bekerja terlalu keras tanpa alasan jelas.**
+
+Jika Anda memiliki banyak beatmap, harap tunggu setidaknya 10-15 menit sebelum menyalahkan lag pada pembaruan terbaru. Klien osu! dapat memproses kembali map Anda untuk menghitung tingkat kesulitan mereka. 
+
+Jika tidak selesai, mengulang perangkat (reboot) kadang membantu.
+
+#### Permainan saya terlihat tidak jelas, grafisnya seperti yang tercabik-cabik!
+
+**Hal ini disebabkan oleh efek yang disebut ​[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)​ dan dapat dihindari dengan mengatur opsi `​Frame limiter`​ in-game ke ​`VSync`.** 
+
+Kasus efek ini tidak berbahaya (meskipun jelek!) yang terjadi karena kecepatan refresh game tidak disinkronkan dengan kecepatan refresh (refresh rate) monitor Anda.
+
+Anda juga dapat mencoba bermain dalam mode Windowed atau Borderless, yang akan menggunakan VSync asli dari sistem operasi Anda. 
+
+Mengaktifkan VSync atau bermain dalam mode Windowed atau Borderless sayangnya akan menimbulkan *​sedikit* input lag. Bagi kebanyakan orang, hal ini tidak akan menyebabkan masalah yang signifikan. 
+
+Kartu grafis (VGA) NVidia yang lebih canggih memiliki opsi global di Panel Kontrol NVidia untuk mengatur kecepatan refresh (refresh rate) global ke pengaturan yang disebut 'Fast', yang juga akan memperbaiki masalah ini. 
 
 ### Online features
 
