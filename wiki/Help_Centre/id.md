@@ -69,21 +69,21 @@ Harap tidak menyertakan tayangan ulang (replay) atau data skor di tiket Anda - k
 
 #### Situs web memberi tahu saya bahwa saya terlalu sering mencoba masuk!
 
-**This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
+**Tindakan ini merupakan bentuk perlindungan sementara setelah Anda gagal berulang kali untuk mengakses akun Anda. Silahkan coba masuk kembali setelah 10-20 menit.**
 
-If this happens to you, simply wait for a while and try to log in a little later. 
+Jika hal ini terjadi pada Anda, silahkan tunggu dan coba masuk kembali beberapa saat kemudian.
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
+Dalam beberapa jam ke depan, sistem akan menghapus status untuk sebagian besar orang dan memungkinkan mereka yang bermasalah untuk masuk lagi. 
 
-#### I didn't receive any emails from osu!/I forgot my email address!
+#### Saya tidak menerima email dari osu!/Saya lupa alamat email saya! 
 
-**There might be an issue with your account's current email address.**
+**Mungkin ada masalah dengan alamat email akun Anda saat ini.**
 
-If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+Jika Anda ingat alamat email yang terlampir pada akun Anda, coba kunjungi [laman pemulihan email](https://osu.ppy.sh/p/forgot-email) untuk mengajukan permintaan perubahan email. Isi formulir sebaik mungkin dan Anda akan menerima balasan dalam tempo dua hari. 
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you logged in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+Jika Anda lupa kata sandi akun Anda dan tidak menerima email mengenai pemulihan kata sandi, atau Anda benar-benar tidak dapat mengingat alamat email mana yang Anda gunakan, silakan hubungi kami di [accounts@ppy.sh](mailto:accounts@ppy.sh). Informasi apa pun yang Anda miliki yang berhubungan dengan akun Anda (nama pengguna Anda, screenshot apa pun yang menunjukkan Anda mencoba masuk ke klien, transaksi sebelumnya melalui toko atau pembayaran osu!supporter, dll.) Akan sangat membantu!
 
-Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+Terakhir, kami menyadari bahwa beberapa layanan penyedia email tidak dapat menerima email otomatis dari kami. Jika Anda menggunakan salah satu layanan penyedia ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email untuk Anda:
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -92,163 +92,163 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `sbcglobal.net`
 - `t-online.de`
 
-### Name Changes
+### Perubahan Nama
 
-#### Can I change my account's username?
+#### Dapatkah saya mengubah nama pengguna akun saya?
 
-**Yes, absolutely!**
+**Ya, tentu saja!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+Jika Anda telah membeli (atau telah diberikan) supporter tag, Anda dapat mengubah nama Anda satu kali secara gratis. Perubahan nama ini dapat dilakukan di osu! Store.
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+Setelah itu, Anda dapat membeli perubah nama pengguna untuk mengubah nama Anda menjadi apa pun yang Anda inginkan. Tetapi, setiap perubahan yang Anda lakukan harganya akan menjadi semakin lebih mahal - yang kedua akan memakan biaya $8 USD, yang ketiga $16 USD, dan seterusnya, hingga batas $100 USD. Kami melakukan ini untuk mencegah orang menyalahgunakan sistem dengan mengubah nama mereka secara berurutan.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+Jika kesalahan perubahan nama Anda hanya di kapitalisasi (besar kecil huruf) atau perubahan tata bahasa/ejaan, Anda dapat mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta perubahan nama gratis untuk memperbaiki masalah ini. Kami tidak akan menagih Anda untuk jenis perubahan nama ini, tetapi Anda **harus** melakukannya melalui email layanan dukungan. Perlu diingat kami hanya akan melakukan ini dalam jumlah terbatas, jadi pastikan Anda benar-benar menginginkannya!
 
-#### Can I take another player's username?
+#### Dapatkah saya mengambil nama pengguna pemain lain? 
 
-**Yes, but only under certain circumstances.**
+**Ya, tetapi hanya dalam keadaan tertentu.**
 
-If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+Jika seorang pemain belum masuk ke dalam game setidaknya selama 6 bulan dan tidak memiliki riwayat permainan, nama penggunanya dapat direklamasi melalui [laman perubahan nama di osu!store](https://store.ppy.sh/product/32) dengan biaya standar yang terkait dengan perubahan nama pengguna. 
 
 For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
-#### Is it possible to change my name back or revert to my old username?
+#### Dapatkah saya menggunakan nama pengguna lama saya? 
 
-**Yes, but under certain circumstances.**
+**Ya, tetapi hanya dalam keadaan tertentu.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+Kami hanya memberikan pengembalian gratis untuk nama pengguna yang tercatat sebelumnya (yang ditunjukkan dengan mengarahkan nama mereka di profil mereka). Perubahan pada nama lain sebelumnya harus [dibeli melalui toko](https://store.ppy.sh/store/product/32). Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan minta ubah nama Anda dikembalikan. 
 
-We only grant this one time per account, so please consider carefully before requesting!
+Kami hanya memberikan kesempatan satu kali per akun, jadi mohon pertimbangkan dengan saksama sebelum meminta!
 
-#### My username has been changed back/reverted!
+#### Nama pengguna saya telah diubah kembali/dikembalikan! 
 
-**We only force username reverts for inappropriate usernames.**
+**Kami hanya memaksa penggantian nama pengguna untuk nama pengguna yang tidak pantas.**
 
-If you find your recent namechange has been undone, it may be because the username you changed to was abusive or inappropriate. We will not perform the change again, even if we requested, but if you purchased it on the store, we'll offer a free change for you.
+Jika Anda menemukan perubahan nama baru-baru ini telah dibatalkan, mungkin karena perubahan nama pengguna yang Anda lakukan mengandung unsur kasar atau tidak pantas. Kami tidak akan melakukan perubahan lagi, bahkan jika kami meminta, tetapi jika Anda membelinya di toko, kami akan menawarkan perubahan gratis untuk Anda. 
 
-If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
+Jika perubahan dilakukan menggunakan penawaran perubahan gratis yang datang dengan memiliki supporter tag, kami tidak dapat menawarkan Anda untuk mengubahnya lagi.
 
-#### Can I remove my previous usernames/delete username history?
+#### Dapatkah saya menghapus nama pengguna saya sebelumnya/menghapus riwayat nama pengguna? 
 
-**Not at the moment, sorry.**
+**Mohon maaf, untuk saat ini tidak bisa.**
 
-Your profile will show all your previous purchased namechanges, and we do not accept request to remove them for now. If one of your previous usernames breaches your privacy (for example, if it contains your legal name), contact accounts@ppy.sh to request it removed.
+Profil Anda akan menampilkan semua nama pengguna yang Anda gunakan sebelumnya, dan kami tidak menerima permintaan untuk menghapus riwayat nama pengguna saat ini. Jika salah satu nama pengguna Anda sebelumnya melanggar privasi Anda (misalnya, jika berisi nama asli Anda), hubungi accounts@ppy.sh untuk meminta penghapusan. 
 
-### Other issues
+### Masalah lainnya
 
-#### The flag on my account profile is wrong!
+#### Bendera yang ditampilkan di profil akun saya salah! 
 
-**We can change this for you, but only if you are actively living in the country that you wish to change to.**
+**Kami dapat mengubahnya untuk Anda, tetapi jika saat ini Anda tinggal di negara yang ingin Anda ubah.**
 
-We determine your country as shown on your profile page from the area in which you first registered your account from. 
+Kami menentukan negara yang diperlihatkan di laman profil Anda dari negara yang Anda tempati saat pertama kali mendaftarkan akun Anda.
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+Jika Anda membuat akun saat sedang berlibur di Amerika Serikat, akun Anda akan menampilkan bendera AS - akun Anda bahkan akan muncul di peringkat negara untuk pemain dari AS juga.
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.** 
+Tim layanan dukungan dengan senang hati dapat mengubah negara akun Anda jika Anda melakukan permintaan perubahan kepada mereka, **tetapi hanya jika Anda aktif dan saat ini tinggal di negara yang Anda ingin ubah.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
+Untuk mengkonfirmasi hal ini, tim layanan dukungan akan meminta bukti domisili - apakah paspor yang ditunjukkan sesuai, surat izin mengemudi untuk negara Anda, atau beberapa bentuk identitas diri lainnya. Dokumen-dokumen ini harus ditampilkan dalam gambar di sebelah monitor Anda saat klien osu! Anda sedang terbuka dan Anda telah masuk ke akun Anda.
 
-We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
+Kami tidak akan pernah menampilkan informasi ini kepada orang lain, dan kami mendorong Anda untuk mengosongkan informasi pribadi apa pun (yang tidak akan membuat kami tidak mungkin untuk menentukan negara tempat dokumen itu!) Jika Anda khawatir tentang privasi Anda.
 
-#### Can I make more than one account?
+#### Dapatkah saya membuat lebih dari satu akun? 
 
-**Unfortunately, no, you can not.**
+**Sayangnya, tidak, Anda tidak dapat membuat lebih dari satu akun**
 
-If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless! 
+Jika kami mengizinkan semua orang untuk membuat Akun baru dan bermain di banyak akun, peringkat papan skor akan menjadi tidak bernilai!
 
-Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
+Game lain menghadapi masalah ini dengan apa yang umumnya dikenal sebagai "smurf" - akun dengan waktu bermain rendah dan total yang menggelembungkan peringkat dan mencegah pengguna lain bermain secara kompetitif.
 
-In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever.
+Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami memberlakukan aturan ketat hanya satu akun per orang, selamanya.
 
-You get to play on the first account you ever registered with us, and that's it!
+Anda dapat bermain di akun pertama yang pernah Anda daftarkan kepada kami, dan hanya akun yang itu!
 
-#### Is it possible to start over or have my account's statistics wiped?
+#### Apakah mungkin untuk memulai kembali atau menghapus statistik akun saya?
 
-**Not at the moment.**
+**Untuk saat ini, tidak.**
 
-We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
+Kami sedang mempertimbangkan item 'pengulang skor' yang dapat dibeli di osu!store untuk para pemain yang benar-benar hardcore yang tidak menginginkan apapun selain kesempurnaan dalam statistik mereka, tetapi untuk saat ini, kami tidak dapat menghapus statistik akun untuk Anda.
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
+Hal ini bukan berarti Anda dapat membuat akun baru untuk melakukan hal yang sama! Memiliki banyak akun sangat dikecam dalam komunitas kami dan kami akan menonaktifkan akun seperti itu yang menarik perhatian kami apalagi dilaporkan.
 
-#### Can I play on a computer that another osu! user has used before?
+#### Dapatkah saya bermain di komputer lain yang pemain osu! lain mainkan?
 
-**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
+**Ya, tentu saja. Dalam kasus ini termasuk PC bersama seperti warnet atau PC bangs.**
 
-So long as you are playing on only your own account, you can play osu! anywhere.
+Selama Anda hanya bermain di akun Anda sendiri, Anda dapat bermain osu! di mana saja.
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+Jika Anda bermain di tempat umum, pastikan untuk tetap mengawasi keamanan akun Anda. Komputer yang digunakan bersama sering menjadi target utama untuk penanaman perangkat lunak berbahaya.
 
-#### Can I get a list of all maps I've played or downloaded?
+#### Dapatkah saya melihat daftar semua map yang telah saya mainkan atau unduh?
 
-**You can see all maps you've played on the website.**
+**Anda dapat melihat semua map yang telah Anda mainkan di situs web osu!.**
 
-If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
+Jika Anda memiliki supporter tag aktif, Anda dapat melihat semua map yang telah Anda mainkan dan miliki skornya dengan masuk ke bagian Beatmap, lalu mengklik filter "Peringkat (telah dimainkan)". Atau, Anda dapat menggunakan [​tautan ini](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) untuk mengakses laman secara langsung. 
 
-Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
+Sayangnya, kami tidak dapat melacak semua map yang telah diunduh pengguna, jadi tidak mungkin untuk melihat daftarnya. Yang paling dekat dengan permintaan Anda adalah menggunakan filter yang disebutkan di atas untuk memulihkan setidaknya map yang telah Anda mainkan sebelumnya. 
 
 ----------------------------------------------------------------------------
 
-## Client
+## Klien
 
 ### Bugs/Crashes
 
-#### osu! freezes when I click a link or multiplayer map!
+#### osu! freeze ketika saya mengklik tautan atau map di multiplayer!
 
-**Make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
+**Pastikan Anda tidak menjalankan osu! dalam mode Windows compatibility, dan Anda juga memiliki peramban web default yang ditentukan dalam pengaturan sistem Anda.**
 
-This issue is sometimes caused by an interaction with compatibility mode, and can also be caused by the game simply not finding a default browser to open the web page link with.
+Masalah ini kadang-kadang disebabkan oleh interaksi dengan mode compatibility, dan juga dapat disebabkan oleh game hanya karena tidak dapat menemukan peramban bawaan untuk membuka tautan laman web. 
 
-##### Is your game running under Windows compatibility mode?
+##### Apakah game Anda berjalan di bawah mode Windows Compatibility?
 
-To check or change if your game is running in compatibility mode under Windows, try the following steps:
+Untuk memeriksa atau mengubah apakah game Anda berjalan dalam mode Windows Compatibility, coba langkah-langkah berikut:
 
-1. Open your osu! installation folder and look for `osu!.exe`.
-2. Right click on `osu!.exe` and select `Properties` from the dropdown menu.
-3. Navigate to the `Compatibility` tab.
-4. Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
-5. If this checkbox is ticked, click it once more to disable the functionality.
-6. If your game is already open, close the client and reopen the game once more.
+1. Buka folder dimana Anda menginstall osu! dan cari `osu! .exe`.
+2. Setelah itu, Klik kanan pada `osu!.exe` dan pilih Properties dari menu dropdown yang ditampilkan.
+3. Lalu arahkan ke tab `Compatibility`. 
+4. Cari kotak centang berjudul `Run this program in compatibility mode` dalam bagian yang berjudul `Compatibility mode`.
+5. Jika kotak centang ini dicentang, klik sekali lagi untuk menonaktifkan fungsinya.
+6. Jika game Anda sudah terbuka sebelumnya; tutup klien; restart; buka kembali.
 
-##### Do you have a default web browser set?
+##### Apakah Anda memiliki satu browser yang telah diatur sebagai default?
 
-**Under the vast majority of all circumstances, most Windows installations will have a default web browser set.**
+**Dalam segala kemungkinan di kasus ini, sebagian besar instalasi Windows akan memiliki satu browser yang telah diatur sebagai default.**
 
-To check, try the following steps (under Windows 8 and above):
+Untuk memeriksa, coba langkah-langkah berikut (berlaku untuk Windows 8 dan setelahnya): 
 
-1. Open the Start menu.
-2. Type `default` into the search bar within the Start menu.
-3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
-4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
+1. Buka menu Start.
+2. Ketik `​default`​ ke dalam bilah pencarian dalam menu Start. 
+3. Jika Anda melihat menu berjudul ​`Default app settings`, klik menu yang itu. Jika tidak, perluas pencarian Anda untuk memasukkan juga ​`default app settings`​ (menggunakan huruf kecil).
+4. Scroll ke bawah ke bagian yang berjudul `​Web browser`​ dan periksa untuk memastikan bahwa browser yang telah Anda instal telah diatur dengan benar.
 
-##### My game will not update properly!
+##### Game saya tidak dapat diperbarui dengan benar! 
 
-**This is usually due to issues with your PC, but can very rarely be caused by new updates.**
+**Hal ini biasanya terjadi karena terdapat masalah dengan PC Anda, tetapi sangat jarang disebabkan oleh pembaruan konten baru.**
 
-osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong.
+osu! pada umumnya akan membuat kliennya tetap up-to-date tanpa bantuan apa pun, tetapi memang terkadang ada yang salah.
 
-We recommend restarting your PC as the first option. This will fix more issues than you expect it to as far as computers are concerned, and osu! is no different.
+Kami menyarankan Anda untuk merestart PC Anda sebagai opsi pertama. Hal ini akan memperbaiki lebih banyak masalah daripada yang Anda harapkan yang menyangkut komputer, dan tidak berbeda juga yang menyangkut osu!.
 
-Ensure your release stream is set to stable in the game options.
+Pastikan Anda menggunakan pengaturan rilis stable dalam game options.
 
-You can also try forcing the game to update.
+Anda juga dapat mencoba memaksa gamenya untuk diperbarui.
 
-##### How do I check or set my game's release stream?
+##### Bagaimana cara memeriksa atau mengatur pengaturan rilis game saya?
 
-**This can be changed via the in-game options menu.**
+**Opsi ini dapat diubah melalui menu in-game options.**
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `release` into the quick-search to jump straight to the option.
-4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
+1. Buka osu!.
+2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
+3. Ketik `​release`​ pada menu pencarian cepat untuk melompat langsung ke opsi.
+4. Pastikan dropdown menyorot `​Stable (Latest)`​ untuk menerima build game yang telah stabil dan terbaru.
 
-##### How do I force the game to update?
+##### Bagaimana cara memaksa gamenya untuk diperbarui? 
 
-**You can force the game to update via the options menu.**
+**Anda dapat memaksa game untuk diperbarui melalui menu options.**
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `update` into the quick-search to jump straight to the option.
-4. Click the `Run osu! updater` button.
+1. Buka osu!.
+2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
+3. Ketik ​`update`​ pada menu pencarian cepat untuk melompat langsung ke opsi. 
+4. Klik tombol `​Run osu! updater`.
 
 You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
 
