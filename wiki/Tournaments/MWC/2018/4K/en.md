@@ -211,7 +211,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | United States | ![][flag_US] | ![][flag_KR] | South Korea | **1:00 UTC** | 21:00 (Sat) UTC-04 | 10:00 UTC+09 | ¹ |
 | Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **3:00 UTC** | 11:00 UTC+08 | 0:00 UTC-03 | ² |
-| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **10:00 UTC** | 18:00 UTC+08 | 11:00 UTC+01 | ² |
+| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
 | Malaysia | ![][flag_MY] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 | ³ |
 | Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_CN] | China | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
