@@ -59,37 +59,33 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 -----------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 29 September 2018
+### Saturday, 6 October 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Julo | **13:00** |
-| #2 | Electr0o | ![][flag_FR] | ![][flag_FR] | Astreachan | **14:00** |
-| #3 | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Holloh | **15:00** |
-| #4 | Boros | ![][flag_FR] | ![][flag_FR] | Noulayfe | **16:00** |
+| #1 | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Noulayfe | **14:00** |
+| #2 | floflim | ![][flag_FR] | ![][flag_FR] | Julo | **16:00** |
+| #3 | -Ken | ![][flag_TN] | ![][flag_FR] | Electr0o | **20:00** |
+| #4 | Boros | ![][flag_FR] | ![][flag_FR] | Holloh | **21:00** |
 
-### Sunday, 30 September 2018
+### Sunday, 7 October 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | Boros | ![][flag_FR] | ![][flag_FR] | Orazeit | **14:00** | ¹ |
-| #5b | Noulayfe | ![][flag_FR] | ![][flag_FR] | Orazeit | **14:00** | ¹ |
-| #6a | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** | ² |
-| #6b | Holloh | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** | ² |
-| #7a | Electr0o | ![][flag_FR] | ![][flag_FR] | floflim | **16:00** | ³ |
-| #7b | Astreachan | ![][flag_FR] | ![][flag_FR] | floflim | **16:00** | ³ |
-| #8a | -Ken | ![][flag_TN] | ![][flag_FR] | Sounny | **14:00** | ⁴ |
-| #8b | Julo | ![][flag_FR] | ![][flag_FR] | Sounny | **14:00** | ⁴ |
+| #5a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **14:00** | ¹ |
+| #5b | -Ken | ![][flag_TN] | ![][flag_FR] | Holloh | **14:00** | ¹ |
+| #5c | Electr0o | ![][flag_FR] | ![][flag_FR] | Boros | **14:00** | ¹ |
+| #5d | Electr0o | ![][flag_FR] | ![][flag_FR] | Holloh | **14:00** | ¹ |
+| #6a | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
+| #6b | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
+| #6c | Noulayfe | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
+| #6d | Noulayfe | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
 
-¹ Encounter dependent on loser of Match #4
+¹ Encounter dependent on loser of Match #3 and Match 4
 
-² Encounter dependent on loser of Match #3
-
-³ Encounter dependent on loser of Match #2
-
-⁴ Encounter dependent on loser of Match #1
+² Encounter dependent on loser of Match #1 and Match 2
 
 -----------------------
 
@@ -116,6 +112,35 @@ The Catch French Cup 3 is run by various community members by distributing the m
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 ## Mappools
+
+### Semifinals
+
+**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
+
+- NoMod
+  - [Camellia - Routing (Kyuare) \[Transcend\]](/beatmapsets/553117/#fruits/1171237)
+  - [Imagine Dragons - Warriors (Minato Yukina) \[Master\]](/beatmapsets/832873/#fruits/1749485)
+  - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Fii) \[Lunatic\]](/beatmapsets/756813/#fruits/1592376)
+  - [MAXIMUM THE HORMONE - ChuChu Lovely MuniMuni MuraMura Purin Boron Nururu Rero Rero (Testo) \[Testo's Extra\]](/beatmapsets/770507/#fruits/1619949)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[MASTER\]](/beatmapsets/372850/#fruits/830607)
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[Technonationalism\]](/beatmapsets/83560/#fruits/655794)
+- Hidden
+  - [USAO - Night sky (StarrStyx) \[Atmospheric\]](/beatmapsets/422045/#fruits/912625)
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](/beatmapsets/578755/#fruits/1329304)
+  - [USAO - BroGamer (Spectator) \[Spec's Overdose\]](/beatmapsets/701726/#fruits/1518690)
+  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](/beatmapsets/495910/#fruits/1055601)
+- HardRock
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](/beatmapsets/4392/#fruits/24023)
+  - [fripSide - black bullet (TV Size) (Irreversible, HanzeR) \[HanzveRsible's Extra\]](/beatmapsets/157168/#fruits/402026)
+  - [Doma Umaru \[CV.Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Minato Yukina) \[CrystalSeed's UmaruDosE!!\]](/beatmapsets/332623/#fruits/773257)
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Spectator) \[Spec's Hi-Speed Overdose\]](/beatmapsets/139525/#fruits/481938)
+- DoubleTime
+  - [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (spboxer3) \[CTBoxer's Rain\]](/beatmapsets/56071/#fruits/177970)
+  - [Mili - Utopiosphere (Spectator) \[Ecstasia\]](/beatmapsets/187177/#fruits/446769)
+  - [DJ SHARPNEL - IVALTEK (happy30) \[HappyMiX\]](/beatmapsets/50429/#fruits/154988)
+  - [Dj Shothead - Gates Of Infinity (SteRRuM) \[Hard\]](/beatmapsets/5608/#fruits/27158)
+- Tiebreaker
+  - **[Sota Fujimori - WOBBLE IMPACT -Extended Mix- (Minato Yukina) \[Transcendence\]](/beatmapsets/539769/#fruits/1144674)**
 
 ### Quarterfinals
 
@@ -146,13 +171,13 @@ The Catch French Cup 3 is run by various community members by distributing the m
 **Download the mappack here! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648) - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5.)**
 
 - NoMod
-  - [Qrispy Joybox - licca (Priti) \[Ultra\]](/beatmapsets/307837/#osu/688568)
-  - [Shiena Nishizawa - The Asterisk War (Meg) \[Meg's Extra\]](/beatmapsets/440397/#osu/947556)
+  - [Qrispy Joybox - licca (Priti) \[Ultra\]](/beatmapsets/307837/#fruits/688568)
+  - [Shiena Nishizawa - The Asterisk War (Meg) \[Meg's Extra\]](/beatmapsets/440397/#fruits/947556)
   - [Tonight Alive - Little Lion Man (Vincs) \[Tiny Lion\]](/beatmapsets/549804/#fruits/1164191)
   - [Warak - Cosmic Invaders (Spectator) \[Extra\]](/beatmapsets/619183/#fruits/1305127)
 - Hidden
   - [Yeah Yeah Yeahs - 'EVERMORE SIDE A (Emiru) \[Heads Will Roll (A-Trak remix)\]](/beatmapsets/845175/#fruits/1767920)
-  - [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](//beatmapsets/706978/#osu/1494735)
+  - [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](//beatmapsets/706978/#fruits/1494735)
   - [onoken - Unisonote (Kyuare) \[Rain AR8\]](/beatmapsets/448498/#fruits/962563)
 - HardRock
   - [Johannes Brahms - Inpromptus No. 18 (AngelHoney) \[Challenging\]](/beatmapsets/13991/#fruits/51439)
@@ -160,7 +185,7 @@ The Catch French Cup 3 is run by various community members by distributing the m
   - [saradisk - 220 - Kumano (Ascendance) \[Ascendance's Kumanoverdose\]](/beatmapsets/471346/#fruits/1008236)
 - DoubleTime
   - [wowaka - Unhappy Refrain (Serena-) \[Serena's Platter\]](/beatmapsets/155930/#fruits/435505)
-  - [Akiyama Uni - Odoru Mizushibuki (Hollow Wings) \[Insane\]](/beatmapsets/153887/#osu/525219)
+  - [Akiyama Uni - Odoru Mizushibuki (Hollow Wings) \[Insane\]](/beatmapsets/153887/#fruits/525219)
   - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Platter\]](/beatmapsets/415827/#fruits/1304682)
 - Tiebreaker
   - **[Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](/beatmapsets/527777/#fruits/1119645)**
@@ -189,6 +214,22 @@ The Catch French Cup 3 is run by various community members by distributing the m
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2018-09-29 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] Julo | [#1](/community/matches/46322875) |
+| **Electr0o** ![][flag_FR] | **5** | 1 | ![][flag_FR] Astreachan | [#1](/community/matches/46323746) |
+| **AAAAAAAAAAAAHHH** ![][flag_FR] | **5** | 3 | ![][flag_FR] Holloh | [#1](/community/matches/46330937) |
+| Boros ![][flag_FR] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/46339295) |
+
+| Sunday, 2018-09-30 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Boros** ![][flag_FR] | **5** | 1 | ![][flag_FR] Orazeit | [#1](/community/matches/46357124) |
+| **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] dracoV | [#1](/community/matches/46358676) |
+| Astreachan ![][flag_FR] | 4 | **5** | ![][flag_FR] floflim | [#1](/community/matches/46360261) |
+| **Julo** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sounny | -win by default- |
 
 ### Round of 16
 
