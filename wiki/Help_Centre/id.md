@@ -450,185 +450,185 @@ Mengaktifkan VSync atau bermain dalam mode Windowed atau Borderless sayangnya ak
 
 Kartu grafis (VGA) NVidia yang lebih canggih memiliki opsi global di Panel Kontrol NVidia untuk mengatur kecepatan refresh (refresh rate) global ke pengaturan yang disebut 'Fast', yang juga akan memperbaiki masalah ini. 
 
-### Online features
+### Fitur online
 
-#### I can't login or connect to the game at all!
+#### Saya tidak dapat masuk atau terhubung dengan game sama sekali!
 
-**Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
+**Pastikan bahwa osu!​ ​dapat mengakses internet dengan benar melalui firewall atau perangkat lunak anti-virus yang telah Anda instal di komputer Anda.**
 
-Here are a few ways of allowing applications to have internet access through several common anti-virus suites:
+Berikut ini beberapa cara untuk memungkinkan supaya aplikasi memiliki akses internet melalui beberapa perangkat lunak antivirus yang umum:
 
-##### Allowing a program through Windows Firewall
+##### Membiarkan program melalui Windows Firewall
 
-**On most Windows installations, Windows Firewall will be the default firewall software.**
+**Pada sebagian besar perangkat yang menggunakan Windows, Windows Firewall akan menjadi perangkat lunak firewall default.**
 
-To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
+Untuk memastikan osu! dapat mengakses internet, kita perlu memperbolehkannya untuk berkomunikasi melalui Windows Firewall. Inilah cara memeriksa dan menambahkan osu! ke daftar program: 
 
-1. Open the Start menu.
-2. Type `allow an app` into the search bar within the Start menu.
-3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
-5. Look for `osu!` or `osu!.exe`.
-6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
-7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
+1. Buka menu Start. 
+2. Ketik `​allow an app`​ dan masuk ke bilah pencarian dalam menu Start.
+3. Anda seharusnya dapat melihat hasil yang sama yaitu Panel Kontrol berjudul `​Allow an app through Windows Firewall​`. Lalu klik itu. 
+4. Panel dengan daftar besar aplikasi dengan dua kotak centang di sampingnya akan terbuka. Klik pada aplikasi apa saja, lalu tekan tombol `​o`​ . Daftar ini akan menggulir ke bawah ke semua aplikasi yang dimulai dengan 'o'.
+5. Carilah ​`osu!`​ atau `​osu!.exe`. 
+6. Jika tidak ada, klik `​Allow another app`​ di bagian bawah panel dan telusuri tempat di mana Anda menginstal osu!, dan pilih `​osu!.exe`. 
+7. Pastikan kotak centang `​Private`​ dan `​Public`​ tercentang. Klik OK untuk menyimpan pengaturan Anda dan coba lagi.
 
-##### Allowing a program through AVG Firewall
+##### Mengizinkan program melalui AVG Firewall 
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
+Silakan baca ​[topik entri resmi​ AVG](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall)​ untuk petunjuk terperinci tentang cara melakukan ini.
 
-##### Allowing a program through Kaspersky Security Center
+##### Mengizinkan program melalui Kaspersky Security Center
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone.
+Silakan baca [​artikel bantuan resmi​](https://support.kaspersky.com/7834) Kaspersky tentang menambahkan aplikasi ke Trusted Zone. 
 
-##### Allowing a program through McAfee
+##### Mengizinkan program melalui McAfee 
 
-Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
+Silakan baca ​[topik entri resmi McAffee ​tentang topik ini​](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
 
-##### I've added osu! to my firewall but I still can't connect to the game!
+##### Saya telah menambahkan osu! ke firewall saya tetapi saya masih tidak dapat terhubung ke dalam game!
 
-**We will need extra information from you to help sort this out.**
+**Kami akan membutuhkan informasi tambahan dari Anda untuk membantu menyelesaikan masalah ini.**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
+Jika Anda masih mengalami masalah untuk terhubung ke server game kami, silakan kirim tiket layanan dukungan dengan mengirimkan e-mail ke ​[accounts@ppy.sh​](mailto:accounts@ppy.sh). Informasi berikut akan membantu kami menyelesaikan masalah Anda dengan cepat: 
 
-- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-- The `network.log` file from the `Logs` folder in your osu! installation directory
+- Log trace route dengan mengakses perintah `​tracert`​ untuk server `​cho.ppy.sh​`, `​osu.ppy.sh` dan​ `​m1.ppy.sh​` (lihat ke bawah untuk instruksi lebih lanjut) 
+- File `​network.log`​ dari folder `​Logs`​ di mana tempat Anda menginstal osu! 
 
-##### Running a trace route to troubleshoot connection issues
+##### Menjalankan pelacakan rute (trace route) untuk memecahkan masalah koneksi 
 
-**A trace route will help us detect exactly where the problem is between you and our servers.**
+**Sebuah pelacakan rute (trace route) akan membantu kami mendeteksi secara tepat di mana masalahnya, antara Anda dan server kami.**
 
-You can perform a trace route by opening Command Prompt and running the command `tracert`.
+Anda dapat melakukan pelacakan rute (trace route) dengan membuka Command Prompt dan menjalankan perintah​ `tracert`​.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
+Untuk membuka Command Prompt, tekan dan tahan tombol ​`Windows​` bersamaan dengan tombol ​`R​`, lalu ketikkan `​cmd`​ dan klik ​`OK`. [Untuk informasi lebih lanjut, lihat artikel Windows knowledgebase berikut ini.](https://support.microsoft.com/en-us/kb/314868)
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
+Kemudian Anda dapat mengetikkan perintah lacak rute (trace route) ke konsol. Misalnya, perintah ​`tracert cho.ppy.sh​` akan melacak bagaimana komputer Anda terhubung ke server game melalui internet. Menelusuri rute membutuhkan waktu, kadang-kadang hingga satu menit atau lebih tergantung pada koneksi Anda.
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
+Kami akan membutuhkan hasil dari perintah pelacakan rute (trace route) untuk server berikut: `​cho.ppy.sh`, `​osu.ppy,sh`​ dan `​m1.ppy.sh`. 
 
-To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
+Untuk menyalin hasil perintah, cukup klik dan seret dari bagian bawah output hingga ke atas sehingga informasi berubah menjadi berwarna putih, kemudian klik kanan untuk langsung menyalinnya ke clipboard Anda.
 
-#### I have changed my settings, and now I can't start osu! or it freezes.
+#### Saya telah mengubah pengaturan saya, dan sekarang saya tidak dapat memulai osu! atau osu! saya freeze.
 
-**Resetting osu! back to its default settings will fix this in most cases.**
+**Dalam kebanyakan kasus, dengan mengatur ulang osu!​ ​kembali ke pengaturan bawaan akan memperbaikinya.**
 
-Follow these steps to restore osu! to its default settings:
+Ikuti langkah-langkah ini untuk memulihkan osu! ke pengaturan bawaannya:
 
-1. Hold down the `Shift` key on your keyboard.
-2. While holding `Shift`, double click the osu! icon on your desktop.
-3. Continue holding `Shift` until you see the osu! recovery dialog prompt.
-4. When the `osu! configuration` dialog opens, click the `reset settings` button.
-5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
+1. Tahan tombol ​`Shift`​ di keyboard Anda.
+2. Sambil menahan ​`Shift`, klik dua kali ikon osu! yang berada di desktop Anda. 
+3. Tahan terus `​Shift​` sampai Anda melihat dialog pemulihan osu! tampil.
+4. Saat ​dialog `osu! configuration`​ terbuka, klik tombol `​reset settings`. 
+5. Jika Anda masih belum beruntung memecahkan masalahnya, buka kembali dialog dan klik `​repair osu!​`.
+   
+#### Saya menjadi supporter tetapi nama saya tidak kuning dalam game!
 
-#### I became supporter but my name isn't yellow in-game!
+**Anda akan selalu terlihat putih jika Anda melihat dari klien Anda sendiri.​ ​Jangan khawatir, pengguna lain akan melihat warna kuning yang luar biasa dari nama Anda dari klien mereka!**
 
-**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
+Hal ini akan membantu mengidentifikasi pesan Anda sendiri dari orang lain. Saat ini tidak ada opsi untuk menonaktifkannya.
 
-This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
+### Perihal Kinerja (Performance)
 
-### Performance
+##### Bagaimana saya bisa membuat osu! berjalan lebih ringan apalagi jika komputer saya terlalu panas?
 
-##### How can I make osu! run cooler if my computer is overheating?
+**Cara termudah adalah mengubah pengaturan frame limiter Anda.** 
 
-**The easiest way is to change your frame limiter settings.**
+Untuk memeriksa apa yang dimaksud dengan frame limiter, ikuti langkah-langkah berikut: 
 
-To check what your frame limiter is set to, follow these steps:
+1. Buka osu!.
+2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3. Ketik `​frame`​ di bilah pencarian cepat untuk memunculkan opsi frame limiter. 
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `frame` into the quick-search to bring up the frame limiter options.
+Jika frame limiter Anda diatur pada Unlimited, Anda mungkin dapat melihat peningkatan yang signifikan dengan mengubahnya ke salah satu dari tiga opsi lainnya.
 
-If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
+`VSync`​ akan menjalankan game dengan kecepatan refresh (refresh rate) yang sama dengan monitor utama Anda, sementara `​120fps`​ dan `​240fps`​ akan menjalankan game 2x dan 4x rata-rata kecepatan refresh (refresh rate). 
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
+Kami merekomendasikan menggunakan ​`VSync`​ dalam situasi di mana panas menjadi masalah. 
 
-We recommend using `VSync` in situations where heat is an issue.
+Anda juga mungkin ingin melihat ke menu utilities yang memungkinkan Anda untuk mengontrol kecepatan CPU dan GPU Anda secara manual. 
 
-You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
+#### PC saya me-reboot saat bermain osu! 
 
-#### My PC reboots while playing osu!
+**Dari kebanyakan kasus yang terjadi, hal ini disebabkan karena satu atau lebih komponen komputer Anda yang mencapai suhu yang tidak normal, biasanya terjadi pada kartu grafis (VGA) atau CPU Anda.** 
 
-**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
+Untuk mengetahui penyebabnya, kami menyarankan Anda untuk menggunakan aplikasi monitor suhu GPU/CPU dan awasi perkembangannya saat Anda bermain osu!. Pilihan program yang kami sarankan adalah [​Piriform Speccy](https://www.piriform.com/speecy)​. 
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
+Jika Anda melihat suhu GPU atau CPU Anda melebihi nilai 90C atau 194F, komputer Anda berjalan sangat panas dan nyaris mendekati ambang shutdown otomatis.
 
-If you notice either your GPU or CPU temperature exceeding values of 90C or 194F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
+##### Komputer saya tidak terlalu panas (overheat), tetapi game-nya masih membuat komputer saya reboot! 
 
-##### My computer isn't overheating, but the game still causes my computer to reboot!
+**Penyebab paling umum dari restart paksa setelah masalah overheating adalah masalah sound card, diikuti oleh rusaknya komponen yang digunakan pada komputer Anda.** 
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
+Driver sound card atau perangkat lunak lama dapat menyebabkan masalah untuk osu!, tetapi seharusnya ini bukan masalah bagi kebanyakan orang. Coba perbarui driver sound card atau motherboard Anda.
 
-Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
+Anda mungkin juga ingin mencoba mencabut beberapa komponen yang terpasang melalui USB ke komputer Anda, terutama jika mereka berinteraksi dengan suara dengan cara apa pun. Headphone atau sound card USB kadang-kadang dapat menyebabkan masalah jika perangkat atau port-nya rusak.
 
-You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
+##### Hal ini masih terjadi!
 
-##### It's still happening!
+Jika solusi berikut tidak ada yang membantu, silakan kirim tiket layanan dukungan ke [​accounts@ppy.sh](mailto:accounts@ppy.sh)​ dengan informasi lebih lanjut mengenai masalah - termasuk spesifikasi teknis komputer Anda, model (jika perlu) dan informasi lainnya yang Anda pikir dapat membantu kami melihat penyebab masalah yang dialami oleh Anda. 
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
+#### Saya tidak bisa menekan lebih dari beberapa tombol sekaligus saat bermain osu!mania.
 
-#### I can't hold more than a few keys at once while playing osu!mania.
+**Hal ini disebabkan oleh perangkat keras yang umum pada kebanyakan keyboard yang disebut *​ghosting*.**
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+Ghosting merupakan topik yang cukup kompleks, tetapi pada intinya bermuara pada masalah dengan cara keyboard Anda dibuat yang mencegahnya mengirim lebih dari beberapa tombol sekaligus dari tempat-tempat tertentu di keyboard Anda. 
 
-Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending more than a few keys down at once from certain places on the board.
+Kebanyakan keyboard produksi baru akan memungkinkan penekanan hingga **6**​ tombol saat bersamaan, meskipun dalam kombinasi acak.
 
-Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
+Anda dapat menguji batas ghosting keyboard Anda dengan menggunakan [​Utilitas Anti-Ghosting milik Microsoft](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
 
-You can test your keyboard's ghosting limits by using [Microsoft's Anti-Ghosting utility](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
+Meskipun salah satu Kriteria Ranking untuk osu!mania adalah mencoba mengurangi masalah ghosting dengan tidak memperbolehkan lebih dari 6 tombol aktif di saat bersamaan, Anda mungkin mengalami masalah ini jika keyboard Anda umurnya lebih lama.
 
-While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
+Satu-satunya solusi yang efektif adalah dengan membeli keyboard yang memiliki dukungan penekanan tombol secara bersamaan. Anda mungkin ingin mencari fitur yang dikenal sebagai ​*n-key rollover* (atau *​NKRO*). Sebagian besar Keyboard NKRO tidak memiliki masalah dengan ghosting, tetapi harganya biasanya mahal. 
 
-The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
+#### Kursor saya menjadi gila dan tidak menentu setiap kali saya mencoba bermain osu!
 
-#### My cursor goes crazy whenever I try to play osu!
+**Penyebab paling umum dari hal ini adalah pengaturan sensitivitas mouse di dalam game Anda terlalu tinggi.**
 
-**The most common cause of this is having your in-game mouse sensitivity set too high.**
+Gerakan yang tidak menentu adalah contoh utama dari hal ini, terutama jika Anda menggunakan tablet. 
 
-Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
+Tetapkan sensitivitas dalam game ke 1.0x (yang berarti opsi bawaan) dalam kebanyakan kasus akan memperbaiki masalah ini, tetapi Anda mungkin akan merasakan kursor Anda terasa lamban. Kami menyarankan untuk mengaktifkan ​*raw input* dalam opsi permainan dan menggunakan driver untuk perangkat pilihan Anda untuk mengubah sensitivitas.
 
-Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+Anda juga mungkin ingin menyesuaikan pengaturan *​DPI* mouse Anda, jika Anda menggunakannya. Pengaturan DPI yang lebih tinggi memberikan pemosisian yang lebih akurat ke klien game dan dapat memuluskan kinerja. 
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+Kami juga menyarankan memastikan komponen yang Anda bersih dan bebas dari kotoran atau puing-puing. Rambut atau sedikit debu di depan sensor optik mouse dapat menyebabkan hal-hal yang sangat aneh ketika kursor bergerak.
 
-We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
+##### Apa itu raw input, dan bagaimana cara saya mengaktifkannya? 
 
-##### What is raw input, and how do I turn it on?
+**Raw input memaksa permainan untuk menggunakan cara yang lebih bersih dan langsung untuk mengakses informasi dari periferal Anda.​ Pada umumnya, hal ini dapat meningkatkan keakuratan output dari perangkat.**
 
-**Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
+Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
-To enable raw input, follow these steps:
+1. Buka osu!.
+2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3. Ketik `raw` di bilah pencarian cepat untuk langsung melompat ke opsi raw input.
+4. Klik tombol radio `Raw input`.
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `raw` into the quick-search to jump straight to the option.
-4. Click the `Raw input` radio button.
+#### Saya bermain menggunakan tablet dan kursor saya terasa terlalu lambat!
 
-#### I'm playing from a tablet and my cursor feels too slow!
+**Anda dapat memecahkan masalah ini dengan menentukan area tablet yang lebih kecil untuk perangkat Anda.**
 
-**You can solve this problem by defining a smaller tablet area for your device.**
+Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](https://w.ppy.sh/d/dc/Tabarea.png)​.
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](https://w.ppy.sh/d/dc/Tabarea.png).
+Anda perlu berkonsultasi dengan produsen tablet Anda untuk mengetahui cara mengatur area tablet Anda.
 
-You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
+Semua tablet osu! secara default mendukung raw input, dan mungkin sensitivitas mereka dapat dengan mudah disesuaikan dengan cepat, dengan menggunakan opsi raw input in-game dan menggunakan penggeser (slider) sensitivitas mouse (mouse sensitivity).
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in game and using the mouse sensitivity slider.
+#### Daftar lagu saya terus bergulir (scrolling)!
 
-#### My song list keeps scrolling!
+**Hal ini biasanya dikarenakan perangkat input yang salah terhubung ke komputer Anda.​ ​Coba cabut semua controller atau joystick.**
 
-**This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
+Aplikasi yang meniru atau mengubah keybindings seperti ​*Xpadder* atau *​X-Mouse Button Control* juga dapat menyebabkan masalah ini. Anda dapat mencoba untuk menonaktifkan mereka jika Anda menggunakannya untuk permainan lain.
 
-Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
+Hal ini juga bisa terjadi karena terdapat masalah dengan tombol numpad, karena mereka dapat digunakan untuk menggulir (scroll) daftar pilihan lagu. Dengan menekan `​NumLock`​ untuk menonaktifkan numpad dan kemudian tekan `​9`​ atau `​3`​ pada numpad akan memperbaiki masalah Anda.
 
-This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue.
+Anda juga mungkin ingin memeriksa apakah ada tombol yang macet atau rusak pada perangkat yang Anda gunakan.
 
-You may also wish to check for any jammed or damaged buttons on your peripherals.
+#### Saya mengunduh Beatmap Pack tetapi osu! selalu berusaha "memperbaiki" file!
 
-#### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
+**Anda harus mengekstrak paket beatmap tersebut ke direktori Lagu (Songs) Anda.**
 
-**You will need to extract the pack into your Songs directory.**
+Kebanyakan paket beatmap yang tersedia menggunakan format file `​.rar`, yang berarti mereka adalah arsip file beatmap yang telah terkompres. Anda perlu mengekstraknya menggunakan utilitas pilihan Anda (kami merekomendasikan ​[7-Zip​](http://www.7-zip.org/)) ke direktori Lagu (Songs) Anda terlebih dahulu.
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](http://www.7-zip.org/)) to your Songs directory first.
-
-Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
+Setelah semua file ​`.osz​` di dalam paket berada di direktori Lagu (Songs), tekan ​`F5`​ di menu pemilihan lagu dan osu! akan me-refresh cache beatmap permainan dan memuat lagu baru Anda ke dalam game. 
 
 ----------------------------------------------------------------------------
 
