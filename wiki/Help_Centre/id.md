@@ -632,191 +632,190 @@ Setelah semua file ​`.osz​` di dalam paket berada di direktori Lagu (Songs),
 
 ----------------------------------------------------------------------------
 
-## Website
+## Situs web
 
-#### I have not received a reply to my support ticket and it's been over 2 weeks!
+#### Sudah lebih dari 2 minggu dan saya masih belum menerima balasan mengenai tiket dukungan saya!
 
-**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
+**Sebagian besar kasus, hal ini dikarenakan tingginya jumlah tiket masuk ke sistem kami sekaligus.**
 
-You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
+Anda dapat mengirim satu balasan pada tiket Anda yang masih berstatus terbuka dan menanyakan keadaan kasus Anda, tetapi pastikan untuk tidak melakukan ini lebih dari sekali atau dua kali seminggu. 
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
+Dalam kasus yang terjadi, tiket dukungan dari pengguna yang menyinggung dapat dengan sengaja diabaikan, meskipun tim akan ​selalu​ memberi tahu Anda kapan mereka tidak akan lagi merespon Anda terlebih dahulu. Jika Anda belum menerima pemberitahuan seperti ini, Anda tidak perlu khawatir tentang hal itu! 
 
-#### My user page has been locked and I can't edit it!
+#### Laman pengguna (user page) saya telah dikunci dan saya tidak dapat menyuntingnya!
 
-**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
+**Hal ini dapat terjadi jika laman pengguna Anda memiliki konten yang tidak pantas di dalamnya seperti yang didefinisikan oleh ​[aturan komunitas​](/wiki/Rules) kami.** 
 
-In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
+Dalam kasus seperti itu, Anda dapat membuka tiket dengan mengirim email kepada tim layanan dukungan ke [accounts@ppy.sh​](mailto:accounts@ppy.sh) dan mendiskusikan situasi Anda dengan mereka.
 
-Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
+Dalam kebanyakan kasus, Anda akan diizinkan untuk mengakses dan mengubah laman pengguna (user page) Anda lagi, tetapi pengguna yang menyalahgunakan amnesti ini mungkin tidak dapat menyunting laman pengguna (user page) mereka sama sekali, jadi berhati-hatilah! 
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+Jika pada titik tertentu Anda ragu apakah suatu hal sesuai untuk semua pengguna, Anda dapat mengirim pesan kepada salah satu anggota ​[Global Moderation Team](/wiki/People/Global_Moderation_Team)​ berdampingan dengan apa yang Anda rencanakan untuk disiapkan dan mereka akan memberi tahu Anda jika hal yang Anda taruh tidak bermasalah.
 
+#### Dapatkah saya memblokir pengguna lain untuk menghubungi saya? 
 
-#### Can I completely block another user from contacting me?
+**Ya, tentu saja.**
 
-**Yes, absolutely.**
+Jika ada pengguna lain yang melecehkan Anda melalui pesan pribadi baik di forum atau melalui klien game itu sendiri, ada beberapa langkah yang dapat Anda ambil sendiri untuk memfilter pesan mereka.
 
-In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
+##### Memblokir pengguna agar tidak menghubungi Anda dalam game 
 
-##### Blocking a user from contacting you in-game
+**Untuk memblokir pengguna mengirimi Anda pesan dalam game, cukup tambahkan ke daftar abaikan (ignore list) Anda.**
 
-**To block a user from sending you messages in-game, simply add them to your ignore list.**
+1. Klik tombol menu Options dalam game.
+2. Ketik `ignore` untuk memfilter daftar opsi dan arahkan ke bagian `Chat Ignore List`. 
+3. Tambahkan nama pengguna yang menyinggung Anda ke dalam daftar, pisahkan setiap pengguna baru dengan spasi, dan ganti spasi di nama mereka dengan garis bawah (Pengguna yang disebut ​*The Gatekeeper* menjadi *​The\_Gatekeeper* misalnya).
+4. Selesai!
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You are done! 
+Anda tidak akan lagi melihat pesan obrolan publik dari semua pengguna yang Anda masukkan ke dalam daftar itu, atau menerima pesan pribadi dari mereka.
 
-You'll no longer see public chat messages from any users on that list, or receive private messages from them.
+##### Memblokir semua pengguna yang bukan teman mengirim pesan pribadi dalam game 
 
-##### Blocking all non-friends from sending private messages in-game
+Jika Anda ingin mencegah siapa pun yang tidak ada di daftar teman Anda mengirimi Anda pesan pribadi, Anda dapat mengikuti langkah-langkah berikut. **​Harap dicatat: moderator tidak terpengaruh oleh fungsi ini dan dapat selalu mengirimi Anda pesan pribadi. Jika Anda merasa seorang moderator sedang melecehkan Anda, Anda harus menghubungi ​[tim layanan dukungan kami](mailto:support@ppy.sh).**
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+1. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+2. Ketik `block` di bilah pencarian cepat untuk memfilter daftar opsi ke bagian `In-game Chat`. 
+3. Pengaturan dapat diaktifkan dengan mengkliknya. 
+4. Selesai! Pengguna yang tidak ada di daftar teman Anda (/addfriend "user") tidak lagi dapat menghubungi Anda.
 
-1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
-2. Type "block" to filter the options listing to the "In-game Chat" section.
-3. Toggle the setting on by clicking it.
-4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
+##### Memblokir posting forum publik dari seorang pengguna
 
-##### Blocking public forum posts from a user
+**Untuk menyembunyikannya secara alami, sebagian besar posting forum publik dari pengguna tertentu, tambahkan mereka ke daftar Musuh (Foes list) Anda melalui UCP.**
 
-**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
+1. Kunjungi ​[pengaturan foes list di UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)​ dan cukup tambahkan nama pengguna mereka ke daftar seperti yang digambarkan. 
+2. Klik submit.
+3. Selesai! Sebagian besar posting forum dari pengguna itu tidak akan lagi terlihat oleh Anda - dengan ini mereka seolah-olah tidak pernah ada di sana. Perhatikan bahwa pengguna lain yang mengutip pos mereka akan tetap terlihat. 
 
-1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
-2. Click submit.
-3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
+##### Mencegah pesan pribadi forum baru mencapai Anda
 
-##### Prevent any new forum private messages from reaching you
+**Untuk menghapus semua pesan pribadi forum masuk sebelum mereka tiba, buat [peng​aturan filter otomatis dalam pengaturan UCP​](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
 
-**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
+1. Kunjungi bagian pemfilteran PM di ​[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)​.
+2. Di bagian paling atas laman, cari kolom berjudul ​`Add new Rule​`.
+3. Klik kotak dropdown pertama (nilai default adalah Subject) dan ubah menjadi ​`Sender`​, lalu klik Next.
+4. Klik kotak dropdown pertama dan ubah nilainya dari "is like" menjadi "is" (opsi ketiga dalam daftar), lalu klik Next.
+5. Masukkan nama pengguna pengguna yang menyinggung ke dalam kotak teks yang muncul, lalu klik Next.
+6. Klik kotak dropdown pertama sekali lagi dan ubah nilainya menjadi "Delete message", lalu klik "Add Rule". 
+7. Selesai! Setiap upaya yang dilakukan pengguna untuk menghubungi Anda melalui forum PM sekarang akan secara otomatis dihapus tanpa peringatan kepada Anda. 
 
-1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. At the very top of the page, look for a column titled `Add new Rule`.
-3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
-4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
-5. Enter the offending user's username into the textbox that appears, then click Next.
-6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
+##### Bagaimana jika saya masih mengalami masalah dengan pengguna setelah memblokirnya?
 
-##### What if I'm still having problems with a user after blocking them?
+**Jangan takut, tim moderasi kami akan membantu Anda.**
 
-**Never fear, our moderation team will help you out.**
+Jika seorang pengguna masih melecehkan Anda melalui cara lain, atau menggunakan teman-teman mereka atau orang lain untuk menghindari upaya Anda sebelumnya dengan memblokir mereka, silakan kirim email kepada kami di [​support@ppy.sh​](mailto:support@ppy.sh).
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
+Pastikan untuk menyertakan chatlog atau bukti lain di email, dan staf pendukung kami akan memeriksa kasus Anda dan melihatnya untuk Anda. 
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
+#### Apa ini "laman pengguna" yang saya lihat di profil pemain lain? 
 
-#### What are these "user pages" that I see on other players profiles?
+**Laman pengguna adalah elemen profil khusus yang dapat diakses oleh semua pemain dengan [supporter tag](https://osu.ppy.sh/home/support). Laman ini dapat diisi dengan apa pun yang Anda suka - foto pencapaian Anda, beatmap Anda, pada dasarnya apa pun yang Anda inginkan!**
 
-**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+Pemain yang memiliki [supporter tag](https://osu.ppy/sh/home/support)​ diberikan hak istimewa untuk menyunting laman pengguna mereka sendiri untuk ditampilkan di profil mereka supaya semua orang dapat melihatnya. Laman pengguna dapat diisi denagn apa pun yang Anda suka - selama mengikuti ​[aturan komunitas​](/wiki/Rules)!
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Bahkan jika ​[supporter tag](https://osu/ppy/sh/home/support)​ Anda sudah habis, laman pengguna Anda akan ​tetap terlihat​ dan Anda masih akan dapat menyunting isinya. 
 
-Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
+#### Apakah saya perlu menggunakan alamat email saya untuk mendaftar?
 
-#### Do I need to use my email address to register?
+**Tidak. Kami mengautentikasi akun Anda dengan meminta Anda masuk melalui klien game, jadi email tidak diperlukan selama proses pendaftaran.**
 
-**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
+Jika Anda mengalami kesulitan untuk terhubung melalui klien game, periksa pengaturan firewall dan antivirus Anda untuk memastikan osu! tidak diblokir. 
 
-If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
+Meskipun tidak memerlukan email, kami menyarankan Anda mengaitkan satu email dengan akun Anda, andaikan Anda kehilangan kata sandi atau tidak dapat mengakses akun Anda, email pendaftaran Anda adalah titik kontak pertama kami dengan Anda.
 
-While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
+#### Mengapa saya tidak dapat mencari artis beatmap yang namanya kurang dari 3 karakter? 
 
-#### Why can't I search for a beatmap artist who's name is less than 3 characters long?
+**Mesin pencari lokal kami tidak dapat menangani ini karena keterbatasan teknis, tetapi Anda masih dapat mencari menggunakan bilah Google Custom Search yang terletak di bagian kiri atas sebagian besar laman situs web.**
 
-**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
+Cukup ketikkan nama artis yang Anda cari ke Google Custom Search bar dan biarkan Google akan melakukan sisanya. 
 
-Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
+#### Mengapa statistik di laman profil pengguna saya salah? 
 
-#### Why are the statistics in my user profile page wrong?
+**Anda mungkin melihat statistik Anda untuk game mode lain! Situs web secara default menampilkan skor Anda untuk mode yang terakhir Anda mainkan.**
 
-**You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
-
-If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
+Jika Anda tidak aktif selama jangka waktu yang panjang dan statistik Anda ditampilkan salah, mainkan beberapa map untuk menampilkannya lagi. Pengguna yang tidak aktif dapat menyembunyikan skor mereka untuk menjaga peringkat tetap fresh.
 
 ----------------------------------------------------------------------------
 
-## Installation and Registration
+## Instalasi dan Registrasi 
 
-### Installation
+### Instalasi
 
-#### How do I download osu!?
+#### Bagaimana cara mengunduh osu!? 
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
+**Cukup klik ​`Unduh` di bar bagian atas laman apa pun di [situs web resmi osu!​](https://osu.ppy.sh).** 
 
-Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
+Atau, ​[klik di sini​](https://osu.ppy/sh/p/download) untuk langsung menautkan ke laman unduhan.
 
-#### The game installer throws an error or does not work when I use it!
+#### Penginstal game menunjukkan dialog kesalahan atau tidak berfungsi saat saya menggunakannya! 
 
-**If game installer throws errors when attempting to install, you can try few things:**
+**Jika penginstal game menunjukkan dialog kesalahan saat Anda mencoba menginstal, Anda dapat mencoba beberapa hal:**
 
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+- Bersihkan PC Anda - Pindai dengan perangkat lunak antivirus, bersihkan registry. Program yang bagus untuk membersihkan yang sudah dikenal adalah CCleaner. Pindai kedua file baik komputer dan registri Anda. Penginstal dapat gagal jika ada entri registry dari salinan osu sebelumnya! masih ada di sistem Anda.
+- Coba instal ulang .NET 3.5 Framework. ​[Anda dapat menemukannya di sini](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)​.
 
-#### I have 64-bit Windows and cannot install osu! correctly!
+#### Saya menggunakan Windows 64-bit dan tidak dapat menginstal osu! dengan benar! 
 
-**Try to install the 64-bit version of the Microsoft .NET Framework.**
+**Cobalah menginstal versi 64-bit dari Microsoft .NET Framework.**
 
-This should come with the osu! installer, but in case it doesn't, [download it here](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+Komponen ini seharusnya telah dibundel bersamaan dengan penginstal osu!, tetapi jika tidak, ​[unduh di sini​](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
-### Registration
+### Pendaftaran
 
-#### Where do I register for osu!?
+#### Di mana saya dapat mendaftar akun osu!?
 
-**Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).**
+**Cukup klik `​I'm new!` ​di sudut kanan atas di laman situs web osu!, atau kunjungi lamannya langsung melalui ​[tautan ini](https://osu.ppy.sh/p/register).**
 
-We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
+Kami tidak akan meminta email Anda saat membuat akun osu!, tetapi kami sangat menyarankan Anda mengaitkan email Anda dengan akun Anda untuk memastikannya tetap aman dari pembersihan harian dan untuk menjaga akun Anda seaman mungkin.
 
-If you create your account and do not authenticate it by logging into the game once, the wayward account will be purged from our databases within a day.
+Jika Anda membuat akun Anda dan tidak mengautentikasi dengan masuk ke dalam permainan satu kali, akun bandel akan dibersihkan dari basis data kami dalam jangka waktu satu hari.
 
-Ensure that you authenticate it soon after make it!
+Pastikan Anda mengautentikasi segera setelah membuatnya!
 
-#### I receive some sort of server-side error when trying to play online!
+#### Saya menerima semacam kesalahan dari sisi server ketika mencoba untuk bermain online! 
 
-**This can happen if you are using a shared internet connection, a proxy, or VPN.**
+**Hal ini dapat terjadi ketika Anda menggunakan koneksi internet bersama (shared), proxy, atau VPN.**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Coba gunakan proxy atau penyedia VPN lain - jika semuanya gagal, kirim tiket dukungan melalui email ke [​accounts@ppy.sh](mailto:accounts@ppy.sh).
+ 
+Jika Anda tidak menggunakan salah satu dari yang disebutkan di atas, maka Anda harus mengirimkan tiket dukungan, karena koneksi Anda kemungkinan telah masuk daftar hitam (blacklist) karena kesalahan tertentu.
 
-If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
-
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
+Tor atau jaringan yang terkait dengan relay Tor tidak akan terhubung ke server game dalam kebanyakan kasus. Usaha ini untuk menghindari penggunaan tidak baik.
 
 ----------------------------------------------------------------------------
 
 ## Beatmapping and Editor
 
-#### How do I upload/update my map?
+#### Bagaimana cara saya mengunggah/memperbarui map saya? 
 
-**You can do this through the in-game editor.**
+**Anda dapat melakukannya melalui editor dalam game.**
 
-To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
+Untuk mengunggah beatmap Anda, masuk ke editor dan tekan ​`File​` > `​Upload Beatmap`​. 
 
-This will make your beatmap available for others to download on the website and create a dedicated thread for discussion. Updating a map is the same process for a map that has already been uploaded.
+Aksi ini akan membuat beatmap Anda tersedia bagi orang lain untuk diunduh di situs web dan membuat topik khusus untuk mendiskusikan map Anda. Proses yang dilakukan untuk memperbarui map sama dengan cara mengunggah map.
 
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (by not updating it or not posting in its thread) will send it to the Beatmap Graveyard. To update a graveyarded beatmap, you need to revive it first.
+Setiap pengguna memiliki jumlah map terbatas yang dapat diunggah secara bersamaan. Membiarkan map tidak aktif selama satu bulan (dengan tidak memperbarui atau tidak memposting di topik diskusinya) akan mengirimkannya ke Beatmap berstatus Graveyard. Untuk memperbarui beatmap yang berstatus graveyarded, Anda perlu menghidupkannya (revive) terlebih dahulu.
 
-##### The editor is telling me that beatmap you are trying to submit isn't yours!
+##### Editor mengatakan bahwa beatmap yang Anda coba kirimkan bukan milik Anda! 
 
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
+**Hal ini dapat terjadi jika pembuat beatmap tidak diatur dengan benar dalam file beatmap.**
 
-In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included. 
+Di editor, klik `File` di menu, lalu klik `Open .osu file in Notepad​`. Periksa garis `​Creator:` ​dan pastikan bahwa isinya telah diatur dengan nama pengguna Anda, termasuk kapitalisasi. 
 
-If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
+Jika tidak, ubah secara manual untuk setiap tingkat kesulitan yang berada di set Anda, setelah itu muat ulang map, dan Anda seharusnya dapat mengirimnya sekarang.
 
-#### I am an osu!supporter, but I don't have 10 pending slots!
+#### Saya seorang osu!supporter, tetapi saya tidak memiliki 10 slot pending!
 
-**The number of slots available depends on the number of ranked maps you have.**
+**Jumlah slot yang tersedia tergantung pada jumlah map berstatus ranked yang Anda miliki.**
 
-By default, every user has 2 pending slots. One slot is added for every ranked map the user owns, up to a total of 8 slots. Being a supporter grants 2 additional slots, from 4 (without ranked maps) up to a total of 10.
+Secara default, setiap pengguna memiliki 2 slot pending. Satu slot ditambahkan untuk setiap map berstatus ranked yang dimiliki pengguna, hingga total 8 slot. Menjadi supporter memberikan 2 slot tambahan, dari 4 (tanpa map berstatus ranked) hingga total 10.
 
-#### How can I delete my map?
+#### Bagaimana saya bisa menghapus map saya? 
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**Tim tidak menerima permintaan penghapusan secara manual atas beatmap yang Anda unggah.**
 
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
+Anda dapat menghapus beatmap Anda sendiri dengan menunggu dan dimasukkan ke Beatmap Graveyard, yang berarti setelah satu bulan tanpa pembaruan.
 
-Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
+Setelah beatmap Anda berada di Graveyard, Anda dapat menghapusnya sendiri dengan mengklik tombol `Delete` yang muncul di sebelah tautan beatmap.
 
 ----------------------------------------------------------------------------
 
@@ -824,177 +823,175 @@ Once your beatmap is in the Graveyard, you can delete it yourself by clicking th
 
 ### osu!keyboard
 
-#### How do I configure the osu!keyboard?
+#### Bagaimana cara mengkonfigurasi osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**Anda dapat menggunakan utilitas konfigurasi osu!keyboard, tersedia menggunakan [​tautan ini​](http://puu.sh/l6urN/4b6bc800f2.zip).**
 
-Simply extract it to anywhere on your computer, and run the executable!
+Cukup ekstrak di mana saja selama berada di komputer Anda, dan jalankan executable-nya! 
 
-The rest should be self-explanatory.
+Sisanya seharusnya cukup jelas. 
 
-If you have any further issues, please feel free to submit a ticket to [support@ppy.sh](mailto:support@ppy.sh) detailing your problem.
+Jika Anda memiliki masalah lebih lanjut, silakan mengirimkan tiket ke [​support@ppy.sh](mailto:support@ppy.sh) yang​ jelaskan masalah Anda.
 
-#### The LEDs on my osu! nono keyboard aren't working!
+#### LED di osu! nono keyboard saya tidak berfungsi! 
 
-**This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
+**Hal ini dapat disebabkan oleh beberapa alasan - korosi antara LED dengan mainboard, atau dalam keadaan tertentu dengan model sebelumnya, LED yang sudah rusak.**
 
-To determine if your osu! nono keyboard LEDs are faulty, please undertake the following steps:
+Untuk menentukan apakah osu Anda! LED non-keyboard rusak, harap lakukan langkah-langkah berikut:
 
-##### Are my LEDs faulty?
+##### Apakah LED saya rusak?
 
-**Follow these steps to find out:**
+**Ikuti langkah-langkah berikut ini untuk mencari tahu:**
 
-1. Identify which LED is not functioning as it should be. Remember this side.
-2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
-3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
+1. Identifikasi LED mana yang tidak berfungsi sebagaimana seharusnya. Ingat sisi ini.
+2. Dengan lembut tekan LED dari bawah tombol switch dengan sepasang pinset atau perangkat pencengkeram lainnya, dan ingat LED mana yang berasal dari slot mana.
+3. Tukarkan LED dan kembalikan ke tempat asalnya. Misalnya, letakkan LED yang diambil dari tombol kiri ke tombol kanan, dan seterusnya. 
 
-If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
+Jika LED yang bekerja di satu sisi berfungsi juga di sisi lain, LED ​itu **tidak rusak**​ dan berfungsi baik. 
 
-If an LED that didn't work in one side also doesn't work in the other side, **it is probably faulty.** We can issue you some replacement LEDs to fix this, free of charge. Send an email to [store@ppy.sh](mailto:store@ppy.sh).
+Jika LED yang tidak berfungsi di satu sisi juga tidak berfungsi di sisi lain, **mungkin di sana terdapat masalah**. ​Kami dapat menggantinya dengan beberapa LED pengganti, gratis. Silahkan kirim email ke [​store@ppy.sh](mailto:store@ppy.sh).
 
-If an LED that worked in one side does not work in the other side, **this could suggest that your osu!keyboard's mainboard is faulty**. Let us know by sending an email to [store@ppy.sh](mailto:store@ppy.sh) and we'll do our best to hook you up with a replacement.
+Jika LED yang bekerja di satu sisi tidak berfungsi di sisi lain, ​**ini bisa menunjukkan bahwa mainboard osu!keyboard Anda rusak**. Beri tahu kami dengan mengirim email ke [​store@ppy.sh](mailto:store@ppy.sh)​ dan kami akan melakukan yang terbaik menggantikannya untuk Anda.
 
-If both of your LEDs aren't working, they may both be faulty, or your mainboard could be faulty. Check for corrosion first to see before contacting us.
+Jika kedua LED Anda tidak berfungsi, keduanya mungkin rusak, atau mainboard Anda bisa saja rusak. Mohon periksa korosi terlebih dahulu sebelum menghubungi kami.
 
-##### How do I tell if my LEDs have corrosion on them?
+##### Bagaimana cara saya mengetahui bahwa LED saya berkorosi?
 
-**Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
+**Menggosok bagian dasar konektor LED dengan kotak kecil berbahan aluminium foil akan menghilangkan sebagian besar residu yang disebabkan oleh korosi.**
 
-Corrosive residue usually appears to be blackish-grey, or may appear as strange stains on the metal.
+Residu korosif biasanya tampak berwarna abu-abu kehitaman, atau mungkin tampak seperti noda aneh pada logam.
 
-Removing this residue may restore your LED to working condition. If it does, you know how to fix it next time!
+Menghapus residu ini dapat mengembalikan LED Anda bekerja kembali. Jika ya, Anda sekarang tahu cara memperbaikinya jika terjadi lagi! 
 
 ### osu!tablet
 
-#### My osu!tablet has stopped working or doesn't work at all!
+#### osu!tablet saya berhenti berfungsi atau bahkan tidak berfungsi sama sekali! 
 
-**This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
+**Hal ini dapat menjadi rumit untuk dipecahkan masalahnya karena osu!tablet adalah perangkat berdampingan (tablet dan pena).**
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong. 
+Mengingat bahwa osu!tablet merupakan perangkat berdampingan (misal tablet dan pena), sulit untuk mengetahui unit mana yang mengalami masalah ketika salah satu unit bermasalah.
 
-To find out, perform the following steps:
+Untuk mencari tahu, lakukan langkah-langkah berikut:
 
-##### Checking for issues with your tablet device
+##### Memeriksa masalah dengan perangkat tablet Anda
 
-**Follow these steps to check to see if your tablet device is functioning normally:**
+**Ikuti langkah-langkah ini untuk memeriksa apakah perangkat tablet Anda berfungsi normal:**
 
-1. Safely remove the tablet device from your system, and unplug the cable.
-2. Gently plug the cable back into a USB slot on your system.
-3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
+1. Lepaskan perangkat tablet dengan aman dari sistem Anda, dan lepaskan kabelnya. 
+2. Secara perlahan pasang kembali kabel ke slot USB pada sistem Anda.
+3. Jika tablet berfungsi, celah cahaya di wajah tablet akan berkedip hijau sebentar kemudian kembali gelap. Jika terjadi seperti ini berarti tablet Anda normal. 
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. 
+Jika lampu tablet tidak berkedip, coba gunakan kabel USB yang berbeda - kabel yang disertakan dengan tablet kadang-kadang bisa rusak selama transit atau setelah penggunaan ekstensif.
 
-If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
+Jika masalah Anda masih berlanjut dan pembelian tablet Anda relatif baru (masih dalam jangka waktu satu bulan), silakan kirim email ke ​[store@ppy.sh](mailto:store@ppy.sh)​ untuk bantuan lebih lanjut.
 
-We can try to help you fix your issue with older tablet purchases, but the natural wear and tear of regular use is not something we cover replacements for.
+Kami dapat mencoba membantu memperbaiki masalah Anda dengan pembelian tablet yang lebih lama, tetapi keausan alami dan keausan penggunaan reguler bukanlah sesuatu yang dapat kami bantu untuk diganti.
 
-##### Checking for issues with your pen device
+##### Memeriksa masalah dengan perangkat pena Anda
 
-**Follow these steps to check to see if your pen device is functioning normally:**
+**Ikuti langkah-langkah ini untuk memeriksa apakah perangkat pena Anda berfungsi normal:**
 
-- Unscrew the grip from the body of the pen, exposing the battery on the inside.
-- Remove the AAA battery from the pen.
-- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
-- Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
-- Screw the grip back onto the pen.
-- Depress the button on the back end (eraser end) of the pen until it clicks.
+- Lepaskan cengkeraman dari badan pena, buka baterai yang terletak di bagian dalam.
+- Lepaskan baterai AAA dari pena.
+- Ganti dengan baterai AAA yang baru. ​**Pastikan baterai yang baru berfungsi di perangkat lain terlebih dahulu.**
+- Pastikan ujung positif dan negatif baterai tepat di pena. Ada penanda di perangkat yang menampilkan tanda yang memberi tahu Anda ujung mana menuju ke mana. 
+- Kencangkan pegangan kembali ke pena. 
+- Tekan tombol di bagian belakang pena sampai berbunyi klik. 
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. 
+Jika unit tablet Anda berfungsi dengan baik, menempatkan pena di dekat tablet akan membuat kursor di layar Anda bergerak.
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. 
+Jika hal ini tidak terjadi meskipun Anda telah mengikuti langkah verifikasi tablet yang tercantum di atas bagian ini, mungkin pena Anda cacat atau rusak.
 
-If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
+Jika Anda telah merusak pena Anda melalui penggunaan biasa atau kecelakaan (seperti jatuh dari ketinggian atau penyalahgunaan lainnya), kami tidak dapat menawarkan garansi penggantian untuk Anda.
 
-Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assistance, and we'll do everything we can to help you.
+Jika tidak, silakan hubungi ​[store@ppy.sh​](mailto:store@ppy.sh) untuk bantuan lebih lanjut, dan kami akan melakukan semua yang kami bisa untuk membantu Anda.
 
 ### osu!go
 
-#### My computer doesn't recognize the osu!go when I plug it in!
+#### Komputer saya tidak dapat mengenali osu!go ketika saya mencolokkannya!
 
-**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+**Ini adalah masalah yang diketahui dari salah satu unit pertama stik USB ​osu!go, dan turun ke perangkat yang tidak diformat dengan cara yang bekerja dengan semua PC.**
 
-Despite how complex this may sound, it's actually very easy to fix.
+Meskipun hal ini mungkin terdengar rumit, sebenarnya sangat mudah untuk memperbaikinya.
 
-First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
+Pertama, [​unduh paket yang berisi file default osu!go](https://assets.ppy.sh/store/utilities/osu!go.zip)​ dan simpan di suatu tempat di komputer Anda. 
 
-##### Formatting the osu!go under Windows
+##### Memformat osu!go menggunakan Windows 
 
-**Follow these steps to prepare your _osu!go_ device under Windows:**
+**Ikuti langkah-langkah berikut untuk menyiapkan perangkat ​osu!go Anda menggunakan Windows:** 
 
-1. Open the `Start` menu.
-2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-4. Check to see what state your computer recognizes the device as being in.
+1. Buka menu `Start`. 
+2. Ketik `​disk management` ​ke dalam bilah pencarian. Aksi ini akan memunculkan bagian `​Create and manage hard disk partitions` dari Control Panel.
+3. **Saat berada dalam tampilan Disk Management, pastikan untuk mengikuti petunjuk ini secara *​seksama* dan *hanya* menerapkannya ke perangkat osu!go**. ​Anda berpotensi kehilangan data jika Anda bermain-main dalam dialog ini.
+4. Periksa untuk mengetahui status komputer Anda mengenali perangkat ini.
 
-#### The osu!go device is present, but in a "RAW" state.
+#### Perangkat osu!go telah tiba, tetapi dalam keadaan "RAW".
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
+**Dalam kasus ini, osu!go akan muncul seperti [​ini](https://puu.sh/nktuJ/05791b6fc1.png)​ di dialog Disk Management.**
 
-To fix this, ensure you have the osu!go device selected, and right click on the RAW partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
+Untuk memperbaikinya, pastikan Anda perangkat osu!go telah terpilih, dan klik kanan pada partisi RAW dan pilih ​opsi `Format`. Pilih salah satu antara `​NTFS` ​atau `​exFAT` di ​bawah dropdown ​`File System`. 
 
-`exFAT` will work with more devices, but is slightly slower.
+`exFAT`​ akan berfungsi di lebih banyak perangkat, tetapi sedikit lebih lambat.
 
-#### The osu!go device doesn't show up in Disk Management at all.
+#### Perangkat osu!go tidak muncul sama sekali di Disk Management. 
 
-**You will need to partition the device from scratch.**
+**Anda perlu mempartisi perangkat dari awal.**
 
-Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
+Silakan ikuti ​[panduan ini](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) untuk rincian tentang cara melakukannya. 
 
+#### Saya telah memformat ulang perangkat osu!go dan akhirnya sekarang muncul di Disk Management.
 
-#### I've reformatted the osu!go device and it now shows up in Disk Management.
+**Kamu hampir selesai!**
 
-**You're almost done!**
+Ekstrak arsip yang kami minta Anda untuk unduh sebelumnya (osu!go.zip) ke drive ​*osu!go* dan selesai! 
 
-Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
+##### Semua usaha ini tidak ada yang berhasil!
 
-##### None of this worked!
-
-If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
-
+Jika Anda mengalami masalah dengan proses ini, silakan kirim email ke [​store@ppy.sh​](mailto:store@ppy.sh) dan dengan senang hati kami akan membantu Anda. 
 
 ----------------------------------------------------------------------------
 
-## Troubleshooting
+## Penyelesaian masalah
 
-#### What are 'log files' and how do I make them?
+#### Apa itu 'file log' dan bagaimana cara membuatnya?
 
-**Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
+**File log adalah rekaman mendetail tentang apa yang dilakukan klien game pada suatu titik waktu tertentu. Kami dapat menggunakannya untuk membantu menentukan apa yang menyebabkan masalah Anda.**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial. 
+File-file ini sangat berguna untuk dimiliki dan dapat membuat penyelesaian masalah yang sangat rumit menjadi sepele. 
 
-If a support team member has asked you for these logs, here's how to get them:
+Jika anggota tim layanan dukungan meminta Anda untuk menyertakan log ini, berikut cara mendapatkannya: 
 
-1. Open *osu*.
-2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
-3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
-5. Restart the game client if you made any changes to the release stream to apply them.
-6. Reopen the game, enter `Options`, and click `Open osu! folder`.
-7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
+1. Buka osu!.
+2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3. Ketik `​release`​ pada menu pencarian cepat. Aksi ini akan mengantarkan Anda pada jenis update klien yang Anda gunakan.
+4. Pastikan sudah diatur ke salah satu ​antara `Beta​` atau ​`Cutting Edge (Experimental)​`. Kami menyarankan `​Beta` untuk ​kesempatan terbaik untuk stabilitas dalam situasi ini. 
+5. Mulai ulang klien game jika Anda membuat perubahan apa pun ke aliran rilis untuk menerapkannya. 
+6. Buka kembali game, masuk ​`Options​`, dan klik ​`Open osu! folder​`. 
+7. Temukan ​direktori `Logs` di jendela yang terbuka. 
+8. Pilih file log yang diperlukan (perwakilan layanan dukungan akan memberi tahu Anda yang mana), dan lampirkan ke tiket Anda atau unggah ke layanan file sharing yang bersifat publik.
 
-#### What is this 'Bancho authentication error' I keep on receiving?
+#### Apa dialog ini 'Bancho authentication error' yang terus saya terima? 
 
-**This typically happens when there are networking issues between you and our servers.**
+**Hal ini biasanya terjadi ketika ada masalah jaringan antara Anda dan server kami.**
 
-There's a few things we can try to resolve this issue.
+Ada beberapa hal yang dapat kami coba untuk menyelesaikan masalah ini. 
 
-##### Have you entered your password correctly?
+##### Sudahkah Anda memasukkan kata sandi Anda dengan benar? 
 
-**This is the most obvious one.**
+**Ini yang paling jelas.**
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+Jika Anda lupa apa kata sandi Anda, Anda dapat menggunakan [laman pemulihan kata sandi](https://osu.ppy.sh/p/forgot)​ untuk memulihkan akses ke akun Anda.
 
-##### Are you using any proxy servers or VPNs?
+##### Apakah Anda menggunakan server proxy atau VPN? 
 
-**Disabling these before attempting to connect again will likely fix your issue.**
+**Menonaktifkan ini sebelum mencoba menyambung kembali memungkinkan Anda untuk memperbaiki masalah Anda.**
 
-Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
+Beberapa penyedia VPN dan server proxy tidak berfungsi dengan osu! dengan alasan apa pun. 
 
-##### I'm still getting the error!
+##### Saya masih mendapatkan dialog kesalahan (error)!
 
-**We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
+**Kami memerlukan ​file `network.log`​ dari Anda untuk mencari tahu apa yang terjadi jika solusi di atas tidak berfungsi.** 
 
-Check out the article a section above on how to get a log file to send to us.
+Lihat artikel di atas dan cari bagian tentang cara mendapatkan file log untuk dikirimkan kepada kami.
 
-Rarely, you might need to contact your ISP to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
+Meskipun jarang terjadi, Anda mungkin perlu menghubungi ISP Anda untuk menanyakan tentang masalah ini. ISP tertentu secara historis memiliki masalah koneksi ke osu!, biasanya dikarenakan routing yang buruk. 
