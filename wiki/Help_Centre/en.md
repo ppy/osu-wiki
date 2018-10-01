@@ -254,7 +254,7 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 #### I get an error about "font styles" when I try to open the game!
 
-**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**You have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
 If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
