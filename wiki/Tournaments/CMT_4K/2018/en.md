@@ -54,6 +54,34 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - Livestream
   - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
+- [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
+
+## Match Schedule
+
+The following time are based on UTC+08 timezone.
+
+### Qualification Stage
+
+| 10-06 |  |  |  |  | 10-07 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 10:00 | 15:00 | 16:00 | 20:00 | 21:00 | 16:00 |
+| ByeForNow | Postanken | xz1z1z-xiyue | Pureforever | Xiaofeng\_1999 | dubstepLAN |
+| zero2snow | \[Crz\]Hina | HDRoop\_7 | Remilia\_HY | JunFish | w a d u |
+| FDXiaoQian | PiaoD | \[Crz\]MY | Sakaki | idqoos123 | murorachi |
+| Stink God | IA daisuki | alisi | YoSa\_o | PHILIPPE YMT | Toki 0w0 |
+| lkjh123789m | \[Crz\]Murasame | Asuka-Minato | \[MY\]xRay | Orangejuice | MatsuzakaSatou- |
+| \[Crz\]sunnyxxy | C Eru | GODsBEATs | shynzlx | tangjinxi |  |
+| yin xiaosong | CaOH2 | AradORiOn\_MMM | cheewee10 | 704661982 |  |
+|  |  | hero\_jeff | \[my\]zyuan | kuiiiiteeee |  |
+
+## Mappools
+
+### Qualification Stage
+
+- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468/#mania/1789290)
+- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
+- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
+- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## Ruleset
 
