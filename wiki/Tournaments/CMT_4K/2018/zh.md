@@ -50,17 +50,9 @@ tags:
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - Bilibili：[aiyulu](http://live.bilibili.com/10183)（主直播），[Flow Light](https://live.bilibili.com/73668)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）。  
-  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)。
-
-## 图池
-
-### 资格赛
-
-- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468/#mania/1789290)
-- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
-- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
-- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
+  - Bilibili：[aiyulu](http://live.bilibili.com/10183)（主直播），[Flow Light](https://live.bilibili.com/73668)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）
+  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
+- [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 
 ## 排程
 
@@ -71,14 +63,23 @@ tags:
 | 10-06 |  |  |  |  | 10-07 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 10:00 | 15:00 | 16:00 | 20:00 | 21:00 | 16:00 |
-| ByeForNow | Postanken | xz1z1z-xiyue | Pureforever | Xiaofeng_1999 | dubstepLAN |
-| zero2snow | \[Crz\]Hina | HDRoop_7 | Remilia_HY | JunFish | w a d u |
+| ByeForNow | Postanken | xz1z1z-xiyue | Pureforever | Xiaofeng\_1999 | dubstepLAN |
+| zero2snow | \[Crz\]Hina | HDRoop\_7 | Remilia\_HY | JunFish | w a d u |
 | FDXiaoQian | PiaoD | \[Crz\]MY | Sakaki | idqoos123 | murorachi |
-| Stink God | IA daisuki | alisi | YoSa_o | PHILIPPE YMT | Toki 0w0 |
+| Stink God | IA daisuki | alisi | YoSa\_o | PHILIPPE YMT | Toki 0w0 |
 | lkjh123789m | \[Crz\]Murasame | Asuka-Minato | \[MY\]xRay | Orangejuice | MatsuzakaSatou- |
 | \[Crz\]sunnyxxy | C Eru | GODsBEATs | shynzlx | tangjinxi |  |
-| yin xiaosong | CaOH2 | AradORiOn_MMM | cheewee10 | 704661982 |  |
-|  |  | hero_jeff | \[my\]zyuan | kuiiiiteeee |  |
+| yin xiaosong | CaOH2 | AradORiOn\_MMM | cheewee10 | 704661982 |  |
+|  |  | hero\_jeff | \[my\]zyuan | kuiiiiteeee |  |
+
+## 图池
+
+### 资格赛
+
+- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468/#mania/1789290)
+- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
+- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
+- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## 规则
 
