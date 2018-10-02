@@ -14,7 +14,7 @@ La mayoría de los canales en osu! tienen sus propios moderadores, que se harán
 | `#czechoslovak` | | |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/forum/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
 | `#english` | | *All Moderators* |
-| `#filipino` | [Tagalog](https://osu.ppy.sh/forum/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/forum/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/forum/24) | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731)  |
 | `#french` | [Français](https://osu.ppy.sh/forum/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
 | `#german` | [Deutsch](https://osu.ppy.sh/forum/37) | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
@@ -23,8 +23,8 @@ La mayoría de los canales en osu! tienen sus propios moderadores, que se harán
 | `#hungarian` | [Magyar](https://osu.ppy.sh/forum/95) | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/forum/73) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#italian` | [Italiano](https://osu.ppy.sh/forum/36) | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
-| `#japanese` | [日本語](https://osu.ppy.sh/forum/32) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) |
-| `#korean` | [한국어](https://osu.ppy.sh/forum/58) | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| `#japanese` | [日本語](https://osu.ppy.sh/forum/32) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551), ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) |
+| `#korean` | [한국어](https://osu.ppy.sh/forum/58) | ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/forum/94) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#polish` | [Polski](https://osu.ppy.sh/forum/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/forum/74) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) |
