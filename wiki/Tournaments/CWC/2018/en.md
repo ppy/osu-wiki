@@ -5,7 +5,7 @@ tags:
 ---
 # osu!catch World Cup 2018
 
-![osu!catch World Cup 2018 Logo](img/logo.png)
+![CWC 2018 Logo](img/logo.png)
 
 The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 7th installment of the osu!catch World Cup.
 
@@ -14,7 +14,7 @@ The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-05-02/2018-05-16 |
-| Drawings | 2018-06-02 (14:00 UTC) |
+| Live Drawings | 2018-06-02 (14:00 UTC) |
 | Group Stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
@@ -53,8 +53,6 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ------------------------------------------------------------------------
 
 ## Participants
-
-### Confirmed Rosters
 
 |  | Country | Members |
 | --: | :-: | :-- |
@@ -95,7 +93,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 
 ![CWC 2018 Podium](img/podium.png)
 
-![CWC 2018 Double Elimination bracket](img/bracket.png)
+![CWC 2018 Bracket](img/bracket.png)
 
 ------------------------------------------------------------------------
 
@@ -237,125 +235,125 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 
 | Saturday, 2018-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| China ![][flag_CN] | 7 | 2 | ![][flag_CL] Chile | [#1](/community/matches/44166710) |
+| **China** ![][flag_CN] | **7** | 2 | ![][flag_CL] Chile | [#1](/community/matches/44166710) |
 
 | Sunday, 2018-07-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| China ![][flag_CN] | 7 | 3 | ![][flag_US] United States | [#1](/community/matches/44189744) |
-| United States ![][flag_US] | 2 | 7 | ![][flag_CN] China | [#1](/community/matches/44192102) |
+| **China** ![][flag_CN] | **7** | 3 | ![][flag_US] United States | [#1](/community/matches/44189744) |
+| United States ![][flag_US] | 2 | **7** | ![][flag_CN] **China** | [#1](/community/matches/44192102) |
 
 ### Finals
 
 | Saturday, 2018-07-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| China ![][flag_CN] | 7 | 3 | ![][flag_KR] South Korea | [#1](/community/matches/43963281) |
-| France ![][flag_FR] | 0 | 7 | ![][flag_ID] Indonesia | [#1](/community/matches/43964720) |
+| **China** ![][flag_CN] | **7** | 3 | ![][flag_KR] South Korea | [#1](/community/matches/43963281) |
+| France ![][flag_FR] | 0 | **7** | ![][flag_ID] **Indonesia** | [#1](/community/matches/43964720) |
 
 | Sunday, 2018-07-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| China ![][flag_CN] | 7 | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/43991586) |
-| Chile ![][flag_CL] | 4 | 7 | ![][flag_US] United States | [#1](/community/matches/44001259) |
+| **China** ![][flag_CN] | **7** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/43991586) |
+| Chile ![][flag_CL] | 4 | **7** | ![][flag_US] **United States** | [#1](/community/matches/44001259) |
 
 ### SemiFinals
 
 | Saturday, 2018-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| South Korea ![][flag_KR] | 3 | 6 | ![][flag_CL] Chile | [#1](/community/matches/43767078) |
-| Mexico ![][flag_MX] | 2 | 6 | ![][flag_HK] Hong Kong | [#1](/community/matches/43768481) |
-| Netherlands ![][flag_NL] | 1 | 6 | ![][flag_CN] China | [#1](/community/matches/43779290) |
-| Poland ![][flag_PL] | 3 | 6 | ![][flag_DE] Germany | [#1](/community/matches/43781683) |
+| South Korea ![][flag_KR] | 3 | **6** | ![][flag_CL] **Chile** | [#1](/community/matches/43767078) |
+| Mexico ![][flag_MX] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/43768481) |
+| Netherlands ![][flag_NL] | 1 | **6** | ![][flag_CN] **China** | [#1](/community/matches/43779290) |
+| Poland ![][flag_PL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](/community/matches/43781683) |
 
 | Saturday, 2018-07-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| France ![][flag_FR] | 6 | 3 | ![][flag_TW] Taiwan | [#1](/community/matches/43801047) |
-| China ![][flag_CN] | 6 | 1 | ![][flag_HK] Hong Kong | [#1](/community/matches/43804340) |
-| France ![][flag_FR] | 6 | 3 | ![][flag_DE] Germany | [#1](/community/matches/43806191) |
-| Indonesia ![][flag_ID] | 5 | 6 | ![][flag_US] United States | [#1](/community/matches/43808202) |
+| **France** ![][flag_FR] | **6** | 3 | ![][flag_TW] Taiwan | [#1](/community/matches/43801047) |
+| **China** ![][flag_CN] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](/community/matches/43804340) |
+| **France** ![][flag_FR] | **6** | 3 | ![][flag_DE] Germany | [#1](/community/matches/43806191) |
+| Indonesia ![][flag_ID] | 5 | **6** | ![][flag_US] **United States** | [#1](/community/matches/43808202) |
 
 ### QuarterFinals
 
 | Saturday, 2018-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Germany ![][flag_DE] | 3 | 5 | ![][flag_KR] South Korea | [#1](/community/matches/43586102) |
-| Indonesia ![][flag_ID] | 5 | 2 | ![][flag_HK] Hong Kong | [#1](/community/matches/43587773) |
-| Poland ![][flag_PL] | 5 | 0 | ![][flag_SE] Sweden | -win by default- |
-| Mexico ![][flag_MX] | 5 | 0 | ![][flag_FI] Finland | -win by default- |
+| Germany ![][flag_DE] | 3 | **5** | ![][flag_KR] **South Korea** | [#1](/community/matches/43586102) |
+| **Indonesia** ![][flag_ID] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](/community/matches/43587773) |
+| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_SE] Sweden | -win by default- |
+| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_FI] Finland | -win by default- |
 
 | Sunday, 2018-06-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Netherlands ![][flag_NL] | 5 | 1 | ![][flag_JP] Japan | [#1](/community/matches/43616653) |
-| China ![][flag_CN] | 4 | 5 | ![][flag_US] United States | [#1](/community/matches/43617828) |
-| Chile ![][flag_CL] | 5 | 1 | ![][flag_TW] Taiwan | [#1](/community/matches/43619288) |
-| France ![][flag_FR] | 5 | 1 | ![][flag_NO] Norway | [#1](/community/matches/43620718) |
+| **Netherlands** ![][flag_NL] | **5** | 1 | ![][flag_JP] Japan | [#1](/community/matches/43616653) |
+| China ![][flag_CN] | 4 | **5** | ![][flag_US] **United States** | [#1](/community/matches/43617828) |
+| **Chile** ![][flag_CL] | **5** | 1 | ![][flag_TW] Taiwan | [#1](/community/matches/43619288) |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_NO] Norway | [#1](/community/matches/43620718) |
 
 ### Round of 16
 
 | Sunday, 2018-06-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Chile ![][flag_CL] | 5 | 1 | ![][flag_MX] Mexico | [#1](/community/matches/43409482) |
-| South Korea ![][flag_KR] | 5 | 2 | ![][flag_JP] Japan | [#1](/community/matches/43410578) |
-| France ![][flag_FR] | 3 | 5 | ![][flag_ID] Indonesia | [#1](/community/matches/43417766) |
-| Norway ![][flag_NO] | 2 | 5 | ![][flag_HK] Hong Kong | [#1](/community/matches/43419190) |
-| Taiwan ![][flag_TW] | 5 | 3 | ![][flag_FI] Finland | [#1](/community/matches/43420479) |
-| Poland ![][flag_PL] | 1 | 5 | ![][flag_CN] China | [#1](/community/matches/43421992) |
-| Germany ![][flag_DE] | 5 | 0 | ![][flag_NL] Netherlands | [#1](/community/matches/43429726) |
-| Sweden ![][flag_SE] | 0 | 5 | ![][flag_US] United States | [#1](/community/matches/43431438) |
+| **Chile** ![][flag_CL] | **5** | 1 | ![][flag_MX] Mexico | [#1](/community/matches/43409482) |
+| **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_JP] Japan | [#1](/community/matches/43410578) |
+| France ![][flag_FR] | 3 | **5** | ![][flag_ID] **Indonesia** | [#1](/community/matches/43417766) |
+| Norway ![][flag_NO] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/43419190) |
+| **Taiwan** ![][flag_TW] | **5** | 3 | ![][flag_FI] Finland | [#1](/community/matches/43420479) |
+| Poland ![][flag_PL] | 1 | **5** | ![][flag_CN] **China** | [#1](/community/matches/43421992) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_NL] Netherlands | [#1](/community/matches/43429726) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_US] **United States** | [#1](/community/matches/43431438) |
 
 ### Group Stage
 
 | Saturday, 2018-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Austria ![][flag_AT] | 0 | 4 | ![][flag_JP] Japan | [#1](/community/matches/43191122) |
-| Denmark ![][flag_DK] | 4 | 3 | ![][flag_TH] Thailand | [#1](/community/matches/43191124) |
-| Philippines ![][flag_PH] | 0 | 4 | ![][flag_CN] China | [#1](/community/matches/43191119) |
-| France ![][flag_FR] | 3 | 4 | ![][flag_TW] Taiwan | [#1](/community/matches/43192690) |
-| Singapore ![][flag_SG] | 0 | 4 | ![][flag_HK] Hong Kong | [#1](/community/matches/43192708) |
-| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_IT] Italy | [#1](/community/matches/43192715) |
-| Denmark ![][flag_DK] | 0 | 4 | ![][flag_ID] Indonesia | [#1](/community/matches/43192737) |
-| Hungary ![][flag_HU] | 0 | 4 | ![][flag_TW] Taiwan | [#1](/community/matches/43194294) |
-| Singapore ![][flag_SG] | 4 | 3 | ![][flag_VN] Vietnam | [#1](/community/matches/43194398) |
-| Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_CL] Chile | [#1](/community/matches/43194365) |
-| Thailand ![][flag_TH] | 0 | 4 | ![][flag_FI] Finland | [#1](/community/matches/43194376) |
-| Vietnam ![][flag_VN] | 1 | 4 | ![][flag_HK] Hong Kong | [#1](/community/matches/43196372) |
-| Russian Federation ![][flag_RU] | 3 | 4 | ![][flag_NO] Norway | [#1](/community/matches/43196368) |
-| Hungary ![][flag_HU] | 1 | 4 | ![][flag_FR] France | [#1](/community/matches/43199750) |
-| Colombia ![][flag_CO] | 1 | 4 | ![][flag_RU] Russian Federation | [#1](/community/matches/43199790) |
-| Norway ![][flag_NO] | 2 | 4 | ![][flag_CL] Chile | [#1](/community/matches/43199854) |
-| Canada ![][flag_CA] | 2 | 4 | ![][flag_FR] France | [#1](/community/matches/43201876) |
-| Argentina ![][flag_AR] | 0 | 4 | ![][flag_US] United States | [#1](/community/matches/43201717) |
-| Denmark ![][flag_DK] | 1 | 4 | ![][flag_FI] Finland | [#1](/community/matches/43201686) |
-| Hungary ![][flag_HU] | 0 | 4 | ![][flag_CA] Canada | [#1](/community/matches/43203691) |
-| Colombia ![][flag_CO] | 0 | 4 | ![][flag_CL] Chile | [#1](/community/matches/43203741) |
+| Austria ![][flag_AT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/43191122) |
+| **Denmark** ![][flag_DK] | **4** | 3 | ![][flag_TH] Thailand | [#1](/community/matches/43191124) |
+| Philippines ![][flag_PH] | 0 | **4** | ![][flag_CN] **China** | [#1](/community/matches/43191119) |
+| France ![][flag_FR] | 3 | **4** | ![][flag_TW] **Taiwan** | [#1](/community/matches/43192690) |
+| Singapore ![][flag_SG] | 0 | **4** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/43192708) |
+| Malaysia ![][flag_MY] | 0 | **4** | ![][flag_IT] **Italy** | [#1](/community/matches/43192715) |
+| Denmark ![][flag_DK] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/43192737) |
+| Hungary ![][flag_HU] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](/community/matches/43194294) |
+| **Singapore** ![][flag_SG] | **4** | 3 | ![][flag_VN] Vietnam | [#1](/community/matches/43194398) |
+| Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_CL] **Chile** | [#1](/community/matches/43194365) |
+| Thailand ![][flag_TH] | 0 | **4** | ![][flag_FI] **Finland** | [#1](/community/matches/43194376) |
+| Vietnam ![][flag_VN] | 1 | **4** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/43196372) |
+| Russian Federation ![][flag_RU] | 3 | **4** | ![][flag_NO] **Norway** | [#1](/community/matches/43196368) |
+| Hungary ![][flag_HU] | 1 | **4** | ![][flag_FR] **France** | [#1](/community/matches/43199750) |
+| Colombia ![][flag_CO] | 1 | **4** | ![][flag_RU] **Russian Federation** | [#1](/community/matches/43199790) |
+| Norway ![][flag_NO] | 2 | **4** | ![][flag_CL] **Chile** | [#1](/community/matches/43199854) |
+| Canada ![][flag_CA] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/43201876) |
+| Argentina ![][flag_AR] | 0 | **4** | ![][flag_US] **United States** | [#1](/community/matches/43201717) |
+| Denmark ![][flag_DK] | 1 | **4** | ![][flag_FI] **Finland** | [#1](/community/matches/43201686) |
+| Hungary ![][flag_HU] | 0 | **4** | ![][flag_CA] **Canada** | [#1](/community/matches/43203691) |
+| Colombia ![][flag_CO] | 0 | **4** | ![][flag_CL] **Chile** | [#1](/community/matches/43203741) |
 
 | Sunday, 2018-06-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Brazil ![][flag_BR] | 0 | 4 | ![][flag_AU] Australia | [#1](/community/matches/43214536) |
-| Mexico ![][flag_MX] | 2 | 4 | ![][flag_HK] Hong Kong | [#1](/community/matches/43214539) |
-| Canada ![][flag_CA] | 3 | 4 | ![][flag_TW] Taiwan | [#1](/community/matches/43215581) |
-| Singapore ![][flag_SG] | 0 | 4 | ![][flag_MX] Mexico | [#1](/community/matches/43215587) |
-| Vietnam ![][flag_VN] | 3 | 4 | ![][flag_MX] Mexico | [#1](/community/matches/43216775) |
-| Japan ![][flag_JP] | 4 | 1 | ![][flag_PH] Philippines | [#1](/community/matches/43222511) |
-| Poland ![][flag_PL] | 2 | 4 | ![][flag_KR] South Korea | [#1](/community/matches/43222518) |
-| Australia ![][flag_AU] | 2 | 4 | ![][flag_DE] Germany | [#1](/community/matches/43224495) |
-| Japan ![][flag_JP] | 0 | 4 | ![][flag_CN] China | [#1](/community/matches/43223776) |
-| Austria ![][flag_AT] | 0 | 4 | ![][flag_PH] Philippines | [#1](/community/matches/43223822) |
-| Sweden ![][flag_SE] | 4 | 3 | ![][flag_AU] Australia | [#1](/community/matches/43225043) |
-| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_KR] South Korea | [#1](/community/matches/43225064) |
-| Finland ![][flag_FI] | 0 | 4 | ![][flag_ID] Indonesia | [#1](/community/matches/43225072) |
-| Austria ![][flag_AT] | 0 | 4 | ![][flag_CN] China | [#1](/community/matches/43226599) |
-| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_PL] Poland | [#1](/community/matches/43226609) |
-| Italy ![][flag_IT] | 1 | 4 | ![][flag_KR] South Korea | [#1](/community/matches/43226765) |
-| Portugal ![][flag_PT] | 0 | 4 | ![][flag_NL] Netherlands | [#1](/community/matches/43228029) |
-| Thailand ![][flag_TH] | 0 | 4 | ![][flag_ID] Indonesia | [#1](/community/matches/43228008) |
-| Brazil ![][flag_BR] | 3 | 4 | ![][flag_SE] Sweden | [#1](/community/matches/43233285) |
-| Portugal ![][flag_PT] | 1 | 4 | ![][flag_US] United States | [#1](/community/matches/43233278) |
-| Argentina ![][flag_AR] | 0 | 4 | ![][flag_NL] Netherlands | [#1](/community/matches/43233291) |
-| Brazil ![][flag_BR] | 0 | 4 | ![][flag_DE] Germany | -win by default- |
-| Italy ![][flag_IT] | 1 | 4 | ![][flag_PL] Poland | [#1](/community/matches/43235107) |
-| Colombia ![][flag_CO] | 0 | 4 | ![][flag_NO] Norway | [#1](/community/matches/43235120) |
-| Sweden ![][flag_SE] | 3 | 4 | ![][flag_DE] Germany | [#1](/community/matches/43236583) |
-| Portugal ![][flag_PT] | 1 | 4 | ![][flag_AR] Argentina | [#1](/community/matches/43236588) |
-| Netherlands ![][flag_NL] | 2 | 4 | ![][flag_US] United States | [#1](/community/matches/43236591) |
+| Brazil ![][flag_BR] | 0 | **4** | ![][flag_AU] **Australia** | [#1](/community/matches/43214536) |
+| Mexico ![][flag_MX] | 2 | **4** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/43214539) |
+| Canada ![][flag_CA] | 3 | **4** | ![][flag_TW] **Taiwan** | [#1](/community/matches/43215581) |
+| Singapore ![][flag_SG] | 0 | **4** | ![][flag_MX] **Mexico** | [#1](/community/matches/43215587) |
+| Vietnam ![][flag_VN] | 3 | **4** | ![][flag_MX] **Mexico** | [#1](/community/matches/43216775) |
+| **Japan** ![][flag_JP] | **4** | 1 | ![][flag_PH] Philippines | [#1](/community/matches/43222511) |
+| Poland ![][flag_PL] | 2 | **4** | ![][flag_KR] **South Korea** | [#1](/community/matches/43222518) |
+| Australia ![][flag_AU] | 2 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/43224495) |
+| Japan ![][flag_JP] | 0 | **4** | ![][flag_CN] **China** | [#1](/community/matches/43223776) |
+| Austria ![][flag_AT] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](/community/matches/43223822) |
+| **Sweden** ![][flag_SE] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/43225043) |
+| Malaysia ![][flag_MY] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](/community/matches/43225064) |
+| Finland ![][flag_FI] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/43225072) |
+| Austria ![][flag_AT] | 0 | **4** | ![][flag_CN] **China** | [#1](/community/matches/43226599) |
+| Malaysia ![][flag_MY] | 0 | **4** | ![][flag_PL] **Poland** | [#1](/community/matches/43226609) |
+| Italy ![][flag_IT] | 1 | **4** | ![][flag_KR] **South Korea** | [#1](/community/matches/43226765) |
+| Portugal ![][flag_PT] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](/community/matches/43228029) |
+| Thailand ![][flag_TH] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/43228008) |
+| Brazil ![][flag_BR] | 3 | **4** | ![][flag_SE] **Sweden** | [#1](/community/matches/43233285) |
+| Portugal ![][flag_PT] | 1 | **4** | ![][flag_US] **United States** | [#1](/community/matches/43233278) |
+| Argentina ![][flag_AR] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](/community/matches/43233291) |
+| Brazil ![][flag_BR] | 0 | **4** | ![][flag_DE] **Germany** | -win by default- |
+| Italy ![][flag_IT] | 1 | **4** | ![][flag_PL] **Poland** | [#1](/community/matches/43235107) |
+| Colombia ![][flag_CO] | 0 | **4** | ![][flag_NO] **Norway** | [#1](/community/matches/43235120) |
+| Sweden ![][flag_SE] | 3 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/43236583) |
+| Portugal ![][flag_PT] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](/community/matches/43236588) |
+| Netherlands ![][flag_NL] | 2 | **4** | ![][flag_US] **United States** | [#1](/community/matches/43236591) |
 
 ------------------------------------------------------------------------
 
@@ -435,14 +433,14 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals - Week 1 | O & AB, AC, AD |
-| Finals - Week 2 | AE, P, Q |
+| Finals  | O & AB, AC, AD |
+| Grand Finals | AE, P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-   - In Semifinals, you need to win 6 maps to win a match. (Best-of-11)
-   - In the **Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)
+  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+  - In Semifinals, you need to win 6 maps to win a match. (Best-of-11)
+  - In the **Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 
