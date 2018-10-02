@@ -90,9 +90,9 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ------------------------------------------------------------------------
 
-![CWC 2017 Bracket](img/bracket.jpg)
-
 ![CWC 2017 Podium](img/podium.jpg)
+
+![CWC 2017 Bracket](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ### Finals
 
-**This mappool is played in Finals and Grand Finals of the Finals.**
+**This mappool was played in Finals and Grand Finals.**
 
 **[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar)**
 
