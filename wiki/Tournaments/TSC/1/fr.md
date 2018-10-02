@@ -61,14 +61,14 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 
 | Match ID | Équipe A | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-- | :-: |
-| #1 | jakpat | BabySnakes is Dumb |  |
+| #1 | jakpat | BabySnakes is Dumb | **01:00** |
 
 ### Dimanche, 7 Octobre 2018
 
 | Match ID | Équipe A | Équipe B | Horaire du match (UTC) |  |
 | :-: | --: | :-- | :-: | :-: |
-| #2a | i like grosses baguettes | jakpat |  | ¹ |
-| #2b | i like grosses baguettes | BabySnakes is Dumb |  | ¹ |
+| #2a | i like grosses baguettes | jakpat | **14:00** | ¹ |
+| #2b | i like grosses baguettes | BabySnakes is Dumb | **14:00** | ¹ |
 
 ¹ Confrontation dépendant du gagnant du Match #1
 

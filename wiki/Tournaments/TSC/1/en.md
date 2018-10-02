@@ -61,14 +61,14 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 | Match ID | Team A | Team B | Match Time (UTC) |
 | :-: | --: | :-- | :-: |
-| #1 | jakpat | BabySnakes is Dumb |  |
+| #1 | jakpat | BabySnakes is Dumb | **01:00** |
 
 ### Sunday, 7 October 2018
 
 | Match ID | Team A | Team B | Match Time (UTC) |  |
 | :-: | --: | :-- | :-: | :-: |
-| #2a | i like grosses baguettes | jakpat |  | ¹ |
-| #2b | i like grosses baguettes | BabySnakes is Dumb |  | ¹ |
+| #2a | i like grosses baguettes | jakpat | **14:00** | ¹ |
+| #2b | i like grosses baguettes | BabySnakes is Dumb | **14:00** | ¹ |
 
 ¹ Encounter dependent on winner of Match #1
 
