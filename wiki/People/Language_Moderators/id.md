@@ -24,7 +24,7 @@ Kebanyakan channel-channel yang ditampilkan di osu! memiliki moderatornya masing
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/forum/73) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#italian` | [Italiano](https://osu.ppy.sh/forum/36) | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/forum/32) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551), ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) |
-| `#korean` | [한국어](https://osu.ppy.sh/forum/58) | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| `#korean` | [한국어](https://osu.ppy.sh/forum/58) | ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/forum/94) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#polish` | [Polski](https://osu.ppy.sh/forum/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/forum/74) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) |
