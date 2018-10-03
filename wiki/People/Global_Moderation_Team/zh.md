@@ -27,8 +27,9 @@ outdated: true
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | 韩语, 日语 | 聊天室管理, 论坛管理 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理, 聊天室管理 |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理, 论坛管理 |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理 |
@@ -59,6 +60,7 @@ outdated: true
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语, 日语 | 聊天室管理 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 法语 | 聊天室管理 |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理 |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | 技术支持 |

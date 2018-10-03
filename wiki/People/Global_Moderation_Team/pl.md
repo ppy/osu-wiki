@@ -24,8 +24,9 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Pomoc techniczna |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | Koreański, Japoński | Moderacja czatu oraz Forum |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Pomoc techniczna |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum oraz czatu |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum oraz czatu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderacja czatu |
@@ -56,6 +57,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rosyjski | Moderacja czatu |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreański, Japoński | Moderacja czatu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Francuski | Moderacja czatu |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipiński | Moderacja czatu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański | Pomoc techniczna |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polski | Moderacja czatu |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | Pomoc techniczna |

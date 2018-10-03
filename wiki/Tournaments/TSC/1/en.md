@@ -7,7 +7,7 @@ tags:
 
 ![TSC Logo](img/logo.png)
 
-The **Taiko Suiji Cup (***TSC***)** is a three-on-three randomized team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) is a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
 
 ## Tournament Schedule
 
@@ -24,11 +24,11 @@ The **Taiko Suiji Cup (***TSC***)** is a three-on-three randomized team based os
 
 ## Prizes
 
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Taiko Suiji Cup winners. It is possible that these items change with every installment of the Taiko Suiji Cup.
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
 ## Organisation
 
@@ -55,29 +55,26 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Finals
 
-### Saturday, 15 September 2018
+### Saturday, 29 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
+| Match ID | Team A | Team B | Match Time (UTC) |
 | :-: | --: | :-- | :-: |
-| Lower | 69% acc | Press F for Ayachi | **01:00** |
-| Lower | TaikOwO | DON'T KAT | **02:00** |
-| Lower | Ooyama Shota | BabySnakes is Dumb | **06:00** |
-| Lower | Nihongo Wakaranai | Magnolia | **08:00** |
-| Lower | Low Accuracy SS | The Tasuke Train | **11:00** |
-| Lower | Hentaiko | aあاㄚɐაಅअ@ᵃ아 | **12:00** |
-| Lower | Barely Legal | hello we play taiko | **14:00** |
-| Lower | not a taiko team xd | Fun Assurance Team | **17:00** |
+| #1 | MIStaikon | hello we play taiko | **14:00** |
 
-### Sunday, 16 September 2018
+### Sunday, 30 September 2018
 
-| Bracket | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| Upper | jakpat | ♂ Drum ♂ Spanking ♂ Festival ♂ | **13:00** |
-| Upper | pneumonoultramicroscopicsilicovolcanoconiosis | Samurai Pizza Cats | **13:30** |
-| Upper | i like grosses baguettes | Foda-se | **15:00** |
-| Upper | MIStaikon | Pißwasser | **16:00**
+| Match ID | Team A | Team B | Match Time (UTC) |  |
+| :-: | --: | :-- | :-: | :-: |
+| #2 | Samurai Pizza Cats | BabySnakes is Dumb | **00:00** |  |
+| #3a | MIStaikon | Samurai Pizza Cats | **11:30** | ¹ |
+| #3b | MIStaikon | BabySnakes is Dumb | **11:30** | ¹ |
+| #3c | hello we play taiko | Samurai Pizza Cats | **11:30** | ¹ |
+| #3d | hello we play taiko | BabySnakes is Dumb | **11:30** | ¹ |
+| #4 | I like grosses baguettes | jakpat | **13:00** |  |
+
+¹ Encounter dependent on winner of Match #1 and Match #2
 
 -----------------------
 
@@ -121,6 +118,76 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 -----------------------
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!0kkBGSJR!hekHIkKaHshq1h8voFX-uLacFuqGrF6pmEdIOSTbpJQ) - [Direct Link](https://htfarmingiscool.s-ul.eu/C8HIStSC)**
+
+#### Mappool A
+
+- NoMod
+  - [QURELESS - )-@1<vz@ (\_Chi\_) \[GENOCIDE!!\]](/beatmapsets/656201/#taiko/1390383)
+  - [Frum - Credits (\[Zeth\]) \[Thank You For Playing!\]](/beatmapsets/745708/#taiko/1572010)
+  - [P\*Light - psy\_tek (JessiChan) \[Inner Oni\]](/beatmapsets/579294/#taiko/1226633)
+  - [Stellabee - Halloween Terror Film Show (applerss) \[Taiko Terror\]](/beatmapsets/548793/#taiko/1162124)
+- Hidden
+  - [Akhuta - Mira (agu) \[Ura Oni\]](/beatmapsets/838471/#taiko/1755426)
+  - [Santana ft. Chad Kroeger - Into The Night (Grimbow) \[Salsa\]](/beatmapsets/840023/#taiko/1758438)
+- HardRock
+  - [Omoi - Teo (Fahrenheit7) \[Inner Oni\]](/beatmapsets/780787/#taiko/1640050)
+  - [Otani Kano - Hoshizora Travel (KitajimaYN) \[Inner Oni\]](/beatmapsets/719960/#taiko/1520149)
+- FreeMod
+  - [UtsuP feat. Hatsune Miku - Heart Sutra Hardcore (PTSD Version) (Thousand) \[Inner Oni\]](/beatmapsets/564358/#taiko/1193135)
+  - [Risuko, Mona from STAR\*ANIS - Otona Mode [YUC'e Remix] (Raphalge) \[Inner Oni\]](/beatmapsets/804530/#taiko/1688880)
+
+#### Mappool B
+
+- Challenge
+  - [Katagiri - Katagiri Catch Ball (rezi888) \[TAIKO.WAV\]](/beatmapsets/803965/#taiko/1766517)
+  - [zircon - Devil's Spirit (Nofool) \[Inner Oni\]](/beatmapsets/706550/#taiko/1493978)
+- DoubleTime
+  - [solfa feat.Ceui - Koiiro Recipe (Nerova Guiz GX) \[N/AT\]](/beatmapsets/657950/#taiko/1393582)
+- Easy
+  - [Satsuki ga Tenkomori - Udatsu Stabilizer (Feat. Yaming) (applerss) \[Inner Oni\]](/beatmapsets/800032/#taiko/1679586)
+- Hidden+HardRock
+  - [YUC'e - Future Cake (yyyyyyyyyyypetu) \[Yuni&Petu Cake\]](/beatmapsets/762556/#taiko/1603247)
+- Tiebreaker
+  - **[katagiri - kuu (Backfire) \[Taikocalypse\]](/beatmapsets/841514/#taiko/1761028)**
+
+### Semifinals
+
+**Download the mappack here! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE) - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk)**
+
+#### Mappool A
+
+- NoMod
+  - [t+pazolite - Marry me, Nightmare (HiroK) \[Halloween\]](/beatmapsets/641921/#taiko/1361036)
+  - [Luze - Titanomaquia (mysterfish) \[Legendary\]](/beatmapsets/607821/#taiko/1283746)
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (Jerry) \[Datenshi\]](/beatmapsets/634094/#taiko/1345572)
+  - [Nor + YUC'e - Mint Commet (Shallty) \[Cool Mint\]](/beatmapsets/751039/#taiko/1581311)
+- Hidden
+  - [Sorry about my face - 161914 (vrnl) \[Inner Oni\]](/beatmapsets/832971/#taiko/1744890)
+  - [E0ri4 - Absolute Gate (ekumea1123) \[Inner Oni\]](/beatmapsets/687337/#taiko/1454434)
+- HardRock
+  - [Saiph - Schwarzschild (tasuke912) \[Oni\]](/beatmapsets/600370/#taiko/1268647)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](/beatmapsets/690344/#taiko/1461118)
+- FreeMod
+  - [Eagle - Caterpillar (Yales) \[Inner Oni\]](/beatmapsets/832074/#taiko/1743273)
+  - [Negaren - Ha neul's Ambition (Raphalge) \[Inner Oni\]](/beatmapsets/802117/#taiko/1683534)
+
+#### Mappool B
+
+- Challenge
+  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](http://puu.sh/BvQaX/4cbcdb17de.osz)
+  - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](/beatmapsets/584714/#taiko/1237040)
+- DoubleTime
+  - [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](/beatmapsets/846862/#taiko/1771063)
+- Easy
+  - [Cornandbeans - Blaze (Backfire) \[Taikocalypse\]](/beatmapsets/850018/#taiko/1777297)
+- Hidden+HardRock
+  - [lapix feat. Numbndub - BRAND NEW DAY (1rori) \[Future Oni\]](/beatmapsets/747420/#taiko/1574961)
+- Tiebreaker
+  - **[Camellia - The King of Lions (ll-oscar) \[ll-taiko\]](/beatmapsets/763599/#taiko/1605524)**
 
 ### Quarterfinals
 
@@ -230,6 +297,46 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2018-09-22 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Hentaiko** | [#1](/community/matches/46143098) |
+| **♂ Drum ♂ Spanking ♂ Festival ♂** | **6** | 2 | The Tasuke Train | [#1](/community/matches/46151551) |
+| **i like grosses baguettes** | **6** | 2 | Samurai Pizza Cats | [#1](/community/matches/46152831) |
+
+| Sunday, 2018-09-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Pißwasser | 1 | **6** | **BabySnakes is Dumb** | [#1](/community/matches/46174499) |
+| Foda-se | 0 | **6** | **hello we play taiko** | [#1](/community/matches/46176869) |
+| ♂ Drum ♂ Spanking ♂ Festival ♂ | 4 | **6** | **BabySnakes is Dumb** | [#1](/community/matches/46186321) |
+| MIStaikon | 4 | **6** | **jakpat** | [#1](/community/matches/46187756) |
+| Hentaiko | 3 | **6** | **hello we play taiko** | [#1](/community/matches/46187691) |
+
+### Quarterfinals
+
+| Saturday, 2018-09-15 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **Nihongo Wakaranai** | **6** | 4 | Magnolia | [#1](/community/matches/45971075) |
+| Low Accuracy SS | 5 | **6** | **The Tasuke Train** | [#1](/community/matches/45972388) |
+| Ooyama Shota | 0 | **6** | **BabySnakes is Dumb** | -win by default- |
+| Barely Legal | 0 | **6** | **hello we play taiko** | [#1](/community/matches/45976028) |
+| **Hentaiko** | **6** | 0 | aあاㄚɐაಅअ@ᵃ아 | -win by default- |
+| 69% acc | 1 | **6** | **Press F for Ayachi** | [#1](/community/matches/45979112) |
+| **TaikOwO** | **6** | 0 | DON'T KAT | [#1](/community/matches/45981570) |
+| **i like grosses baguettes** | **6** | 0 | Foda-se | [#1](/community/matches/45983052) |
+| **not a taiko team xd** | **6** | 3 | Fun Assurance Team | [#1](/community/matches/45983714) |
+
+| Sunday, 2018-09-16 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](/community/matches/45996362) ||
+| pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](/community/matches/46001430) |
+| Nihongo Wakaranai | 5 | **6** | **The Tasuke Train** | [#1](/community/matches/46004109) |
+| **jakpat** | **6** | 5 | ♂ Drum ♂ Spanking ♂ Festival ♂ | [#1](/community/matches/46010398) |
+| **hello we play taiko** | **6** | 2 | not a taiko team xd | [#1](/community/matches/46011967) |
+| **Hentaiko** | **6** | 4 | Press F for Ayachi | [#1](/community/matches/46012877)
+| **MIStaikon** | **6** | 5 | Pißwasser | [#1](/community/matches/46016090) |
 
 ### Round of 16
 

@@ -42,7 +42,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -99,90 +99,166 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ## Mappools
 
+
+### Finals
+
+- Freemod
+	- [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](http://osu.ppy.sh/beatmaps/1778859&m=3)
+	- [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](http://osu.ppy.sh/beatmaps/1782630&m=3)
+	- [LeaF - I \(Tidek\) \[Ego\]](http://osu.ppy.sh/beatmaps/1783820&m=3)
+	- [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](http://osu.ppy.sh/beatmaps/1778183&m=3)
+	- [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](http://osu.ppy.sh/beatmaps/1783679&m=3)
+	- [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](http://osu.ppy.sh/beatmaps/1783790&m=3)
+	- [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](http://osu.ppy.sh/beatmaps/1780964&m=3)
+	- [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](http://osu.ppy.sh/beatmaps/1782639&m=3)
+	- [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](http://osu.ppy.sh/beatmaps/1783684&m=3)
+	- [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](http://osu.ppy.sh/beatmaps/1781994&m=3)
+	- [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](http://osu.ppy.sh/beatmaps/1783616&m=3)
+	- [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](http://osu.ppy.sh/beatmaps/1783661&m=3)
+	- [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](http://osu.ppy.sh/beatmaps/1783622&m=3)
+	- [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](http://osu.ppy.sh/beatmaps/1783836&m=3)
+	- [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](http://osu.ppy.sh/beatmaps/1783636&m=3)
+- Tiebreaker
+	- **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](http://osu.ppy.sh/beatmaps/1563688&m=3)**
+
+### Semifinals
+
+- Freemod
+	- [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](http://osu.ppy.sh/beatmaps/1384837&m=3)
+	- [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](http://osu.ppy.sh/beatmaps/1723938&m=3)
+	- [Camellia - Chirality \(Abraxos\) \[Kheir\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
+	- [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](http://osu.ppy.sh/beatmaps/1777377&m=3)
+	- [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](http://osu.ppy.sh/beatmaps/1777378&m=3)
+	- [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](http://osu.ppy.sh/beatmaps/1770257&m=3)
+	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1771900&m=3)
+	- [Chroma - I \(Guilhermeziat\) \[You\]](http://osu.ppy.sh/beatmaps/1592359&m=3)
+	- [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](http://osu.ppy.sh/beatmaps/1576797&m=3)
+	- [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](http://osu.ppy.sh/beatmaps/1665871&m=3)
+	- [Coakira - KAMISORI \(Civilization\) \[ERADICATE\]](http://osu.ppy.sh/beatmaps/1659079&m=3)
+	- [Glamour Of The Kill - A Hope In Hell \(Halogen-\) \[Hopeless\]](http://osu.ppy.sh/beatmaps/1777343&m=3)
+	- [Neil Cicierega - Wallspin \(Pope Gadget\) \[Wonderround \[262.5\]\]](http://osu.ppy.sh/beatmaps/1777424&m=3)
+	- [Tak - SINister Evolution \(Daikyi\) \[SVil\]](http://osu.ppy.sh/beatmaps/1777438&m=3)
+	- [MDK - Press Start \(juankristal\) \[1up\]](http://osu.ppy.sh/beatmaps/1777456&m=3)
+- Tiebreaker
+	- **[Infected Mushroom - Sa'eed \(Pope Gadget\) \[Icy X - Tiebreaker Edition\]](http://osu.ppy.sh/beatmaps/1777431&m=3)**
+
 ### Quarterfinals
 
-- Freemod (14)
-	- [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](http://osu.ppy.sh/b/1765782&m=3)
-	- [Hommarju - Rock It \(Mage\) \[aLNother\]](http://osu.ppy.sh/b/1532410&m=3)
-	- [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](http://osu.ppy.sh/b/1697375&m=3)
-	- [The Flashbulb - Please Don't Remember \(Gekido-\) \[Amnesia\]](http://osu.ppy.sh/b/1698295&m=3)
-	- [Chroma - Made In Love \(Lude\) \[Made by Jakads' Exhaust\]](http://osu.ppy.sh/b/1742170&m=3)
-	- [Blazar - Impulse \(Guilhermeziat\) \[Beginner\]](http://osu.ppy.sh/b/1650834&m=3)
-	- [Fall Out Boy - Thnks Fr Th Mmrs \(Razzy\) \[Thnks Fr Th Ndls\]](http://osu.ppy.sh/b/1563668&m=3)
-	- [ATC - Around the World \(Wh1teh\) \[!!\]](http://osu.ppy.sh/b/1766006&m=3)
-	- [Roselia - ONENESS \(PiraTom\) \[LoneNess\]](http://osu.ppy.sh/b/1545982&m=3)
-	- [Sakuzyo - Toy's 3 minutes war \(Halogen-\) \[Speedy Trinket\]](http://osu.ppy.sh/b/1770280&m=3)
-	- [sun3 - AA \(Elekton\) \[beginner\]](http://osu.ppy.sh/b/1460619&m=3)
-	- [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](http://osu.ppy.sh/b/1770185&m=3)
-	- [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](http://osu.ppy.sh/b/1770141&m=3)
+- Freemod
+	- [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](http://osu.ppy.sh/beatmaps/1765782&m=3)
+	- [Hommarju - Rock It \(Mage\) \[aLNother\]](http://osu.ppy.sh/beatmaps/1532410&m=3)
+	- [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](http://osu.ppy.sh/beatmaps/1697375&m=3)
+	- [The Flashbulb - Please Don't Remember \(Gekido-\) \[Amnesia\]](http://osu.ppy.sh/beatmaps/1698295&m=3)
+	- [Chroma - Made In Love \(Lude\) \[Made by Jakads' Exhaust\]](http://osu.ppy.sh/beatmaps/1742170&m=3)
+	- [Blazar - Impulse \(Guilhermeziat\) \[Beginner\]](http://osu.ppy.sh/beatmaps/1650834&m=3)
+	- [Fall Out Boy - Thnks Fr Th Mmrs \(Razzy\) \[Thnks Fr Th Ndls\]](http://osu.ppy.sh/beatmaps/1563668&m=3)
+	- [ATC - Around the World \(Wh1teh\) \[!!\]](http://osu.ppy.sh/beatmaps/1766006&m=3)
+	- [Roselia - ONENESS \(PiraTom\) \[LoneNess\]](http://osu.ppy.sh/beatmaps/1545982&m=3)
+	- [Sakuzyo - Toy's 3 minutes war \(Halogen-\) \[Speedy Trinket\]](http://osu.ppy.sh/beatmaps/1770280&m=3)
+	- [sun3 - AA \(Elekton\) \[beginner\]](http://osu.ppy.sh/beatmaps/1460619&m=3)
+	- [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](http://osu.ppy.sh/beatmaps/1770185&m=3)
+	- [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](http://osu.ppy.sh/beatmaps/1770141&m=3)
 - Tiebreaker
-	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]](https://osu.ppy.sh/b/1480322)**
+	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]](https://osu.ppy.sh/beatmaps/1480322)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
 
 - Freemod
-	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/b/1514659&m=3)
-	- [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](http://osu.ppy.sh/b/1616973&m=3)
-	- [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](http://osu.ppy.sh/b/1190604&m=3)
-	- [xi underground - TU-MA-MI ALL-NIGHTER \(Halogen-\) \[Expert\]](http://osu.ppy.sh/b/992960&m=3)
-	- [Camellia - NEURO CLOUD-9 \(Couil\) \[Extinction \[cut vers.\] \(new SVs\)\]](http://osu.ppy.sh/b/1335694&m=3)
-	- [naotyu- - Her Majesty \(Elementaires\) \[Another\]](http://osu.ppy.sh/b/1282858&m=3)
-	- [fourfolium - SAKURA Skip \(Niima\) \[Aoba is the best\]](http://osu.ppy.sh/b/1107708&m=3)
-	- [DJKurara - Japanese Transformation \(XeoStyle\) \[Xeo VS \_UJ Insane\]](http://osu.ppy.sh/b/1201654&m=3)
-	- [Nekomata Master - Beyond The Earth \(Kamikaze\) \[Spiritual\]](http://osu.ppy.sh/b/1764098&m=3)
-	- [DET - Monk2 \(Elekton\) \[zen\]](http://osu.ppy.sh/b/1279446&m=3)
-	- [GTA feat. Sam Bruno - Red Lips \(Mendus Remix\) \(Hydria\) \[Hard \(SV\)\]](http://osu.ppy.sh/b/1537498&m=3)
-	- [Memme - Acid Burst \(juankristal\) \[Chaos\]](http://osu.ppy.sh/b/1530202&m=3)
-	- [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](http://osu.ppy.sh/b/1306252&m=3)
+	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/beatmaps/1514659&m=3)
+	- [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](http://osu.ppy.sh/beatmaps/1616973&m=3)
+	- [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](http://osu.ppy.sh/beatmaps/1190604&m=3)
+	- [xi underground - TU-MA-MI ALL-NIGHTER \(Halogen-\) \[Expert\]](http://osu.ppy.sh/beatmaps/992960&m=3)
+	- [Camellia - NEURO CLOUD-9 \(Couil\) \[Extinction \[cut vers.\] \(new SVs\)\]](http://osu.ppy.sh/beatmaps/1335694&m=3)
+	- [naotyu- - Her Majesty \(Elementaires\) \[Another\]](http://osu.ppy.sh/beatmaps/1282858&m=3)
+	- [fourfolium - SAKURA Skip \(Niima\) \[Aoba is the best\]](http://osu.ppy.sh/beatmaps/1107708&m=3)
+	- [DJKurara - Japanese Transformation \(XeoStyle\) \[Xeo VS \_UJ Insane\]](http://osu.ppy.sh/beatmaps/1201654&m=3)
+	- [Nekomata Master - Beyond The Earth \(Kamikaze\) \[Spiritual\]](http://osu.ppy.sh/beatmaps/1764098&m=3)
+	- [DET - Monk2 \(Elekton\) \[zen\]](http://osu.ppy.sh/beatmaps/1279446&m=3)
+	- [GTA feat. Sam Bruno - Red Lips \(Mendus Remix\) \(Hydria\) \[Hard \(SV\)\]](http://osu.ppy.sh/beatmaps/1537498&m=3)
+	- [Memme - Acid Burst \(juankristal\) \[Chaos\]](http://osu.ppy.sh/beatmaps/1530202&m=3)
+	- [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](http://osu.ppy.sh/beatmaps/1306252&m=3)
 - Tiebreaker
-	- **[goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/b/1383190&m=3)**
+	- **[goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/beatmaps/1383190&m=3)**
 
 ### Group Stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
 
 - Freemod
-	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/b/1635364&m=3)
-	- [toby fox - ASGORE \(Wh1teh\) \[Edit\]](http://osu.ppy.sh/b/1726743&m=3)
-	- [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](http://osu.ppy.sh/b/1061726&m=3)
-	- [Tom Encore - Jig \(Kamikaze\) \[Manufactured\]](http://osu.ppy.sh/b/1563652&m=3)
-	- [Hakuryu - Genesis At Oasis \(MOONLiGHT Mix\) \(Alternater\) \[NanoMorpheus\]](http://osu.ppy.sh/b/1637624&m=3)
-	- [Tennouzu Nazuna \(CV.Yamamoto Ayano\) - Tic Tac DREAMIN \(ALEFY\) \[Master \[NSV\]\]](http://osu.ppy.sh/b/1270729&m=3)
-	- [Fudanshi Crisis - Scarlet Tempest \(Shoegazer\) \[Tempest\]](http://osu.ppy.sh/b/1444641&m=3)
-	- [Rengoku Teien - Suikyou Heaven \(Kamikaze\) \[Oriental // justhow x Kamikaze\]](http://osu.ppy.sh/b/1755454&m=3)
-	- [The Flashbulb - That Missing Week \(Alternate\) \(Shoegazer\) \[Departure\]](http://osu.ppy.sh/b/1746723&m=3)
-	- [An - Saigo \(juankristal\) \[Inspiration\]](http://osu.ppy.sh/b/1287086&m=3)
-	- [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](http://osu.ppy.sh/b/1745743&m=3)
+	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/beatmaps/1635364&m=3)
+	- [toby fox - ASGORE \(Wh1teh\) \[Edit\]](http://osu.ppy.sh/beatmaps/1726743&m=3)
+	- [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](http://osu.ppy.sh/beatmaps/1061726&m=3)
+	- [Tom Encore - Jig \(Kamikaze\) \[Manufactured\]](http://osu.ppy.sh/beatmaps/1563652&m=3)
+	- [Hakuryu - Genesis At Oasis \(MOONLiGHT Mix\) \(Alternater\) \[NanoMorpheus\]](http://osu.ppy.sh/beatmaps/1637624&m=3)
+	- [Tennouzu Nazuna \(CV.Yamamoto Ayano\) - Tic Tac DREAMIN \(ALEFY\) \[Master \[NSV\]\]](http://osu.ppy.sh/beatmaps/1270729&m=3)
+	- [Fudanshi Crisis - Scarlet Tempest \(Shoegazer\) \[Tempest\]](http://osu.ppy.sh/beatmaps/1444641&m=3)
+	- [Rengoku Teien - Suikyou Heaven \(Kamikaze\) \[Oriental // justhow x Kamikaze\]](http://osu.ppy.sh/beatmaps/1755454&m=3)
+	- [The Flashbulb - That Missing Week \(Alternate\) \(Shoegazer\) \[Departure\]](http://osu.ppy.sh/beatmaps/1746723&m=3)
+	- [An - Saigo \(juankristal\) \[Inspiration\]](http://osu.ppy.sh/beatmaps/1287086&m=3)
+	- [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](http://osu.ppy.sh/beatmaps/1745743&m=3)
 - Tiebreaker
-	- **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/b/539853&m=3)**
+	- **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/beatmaps/539853&m=3)**
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Finals
 
-### Saturday, 15. September 2018
+### Sunday, 30. September 2018
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MY] | Malaysia | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
-| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 |
-| Canada | ![][flag_CA] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **1:00 UTC** | 21:00 (Sat) UTC-04 | 10:00 UTC+09 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **3:00 UTC** | 11:00 UTC+08 | 0:00 UTC-03 | ² |
+| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
+| Malaysia | ![][flag_MY] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CN] | China | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 11:00 UTC-03 | 15:00 UTC+01 | ³ |
 
-### Sunday, 16. September 2018
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **0:30 UTC** | 21:30 (Sat) UTC-03 | 10:30 UTC+10 |
-| United States | ![][flag_US] | ![][flag_CN] | China | **2:00 UTC** | 22:00 (Sat) UTC-04 | 10:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_GB] | United Kingdom | **13:30 UTC** | 21:30 UTC+08 | 14:30 UTC+01 |
-| Indonesia | ![][flag_ID] | ![][flag_BR] | Brazil | **15:00 UTC** | 22:00 UTC+07 | 12:00 UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 |
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2018-09-22 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![][flag_CA] | 0 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/46141725) |
+| Japan ![][flag_JP] | 7 | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/46148838) |
+| France ![][flag_FR] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46151447) |
+| Argentina ![][flag_AR] | 0 | 7 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/46154890) |
+| United States ![][flag_US] | 7 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46171663) |
+
+| Sunday, 2018-09-23 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46178984) |
+| Malaysia ![][flag_MY] | 7 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/46181664) |
+| United Kingdom ![][flag_GB] | 1 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/46186189) |
+
+
+### Quarterfinals
+
+| Saturday, 2018-09-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 6 | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45972328) |
+| Sweden ![][flag_SE] | 0 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45974312) |
+| Canada ![][flag_CA] | 6 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45976813) |
+
+| Sunday, 2018-09-16 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Argentina ![][flag_AR] | 6 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45996195) |
+| United States ![][flag_US] | 6 | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45997665) |
+| Singapore ![][flag_SG] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/46011254) |
+| Indonesia ![][flag_ID] | 1 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46013671) |
+| Chile ![][flag_CL] | 5 | 6 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/46016370) |
 
 ### Round of 16
 
