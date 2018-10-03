@@ -22,7 +22,7 @@ A community driven singing contest where contestants as a solo or a duet sing th
 * **2nd:** 3 months supporter tag.
 * **3rd:** 2 months supporter tag. 
 
-Best of luck to our 2017 finalists!
+Best of luck to our 2018 finalists!
 
 —Flanster
 
