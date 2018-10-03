@@ -14,7 +14,7 @@ Those brave enough to enter the fray will have **14 days** to muster their best 
 
 The top selection of entries (anywhere from 8 to 15 depending on turnout) will award their artists **2 months of osu!supporter, and the winning pieces will all feature as the Halloween seasonal main-menu background!**
 
-Think you can stand up to the spook? **Read the RULES below carefully**, then head over to the head on over to the [contest listing](https://osu.ppy.sh/community/contests/70) and submit your work!
+Think you can stand up to the spook? **Read the RULES below carefully**, then head over to the [contest listing](https://osu.ppy.sh/community/contests/70) and submit your work!
 
 ## Rules
 
