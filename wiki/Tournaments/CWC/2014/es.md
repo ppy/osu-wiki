@@ -1,3 +1,9 @@
+---
+tags:
+- CWC 2014
+- CWC2014
+- outdated
+---
 osu! Catch the Beat World Cup 2014
 =====================================
 
