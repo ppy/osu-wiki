@@ -6,7 +6,7 @@ date: 2018-02-23 11:00:00 +0000
 
 Mapping is off to a strong start in 2018, and here we come again with our selection of maps the previous month! Swing by and check out the Beatmap Spotlights for January!
 
-![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/spotlight-header.jpg)
+![](/wiki/shared/news/banners/spotlights-header.jpg)
 
 The beatmap charts for the January Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1802) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The January 2018 Spotlights rankings will end on 15th March 2018.**
 
