@@ -203,29 +203,36 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
-
-### Sunday, 30. September 2018
+## Match Schedule: Grand Finals
+### Saturday, 06. October 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **1:00 UTC** | 21:00 (Sat) UTC-04 | 10:00 UTC+09 | ¹ |
-| Malaysia | ![][flag_MY] | ![][flag_BR] | Brazil | **3:00 UTC** | 11:00 UTC+08 | 0:00 UTC-03 | ² |
-| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
-| Malaysia | ![][flag_MY] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CN] | China | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 11:00 UTC-03 | 15:00 UTC+01 | ³ |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | **1:00 UTC** | 21:00 (Fri) UTC-04 | 22:00 (Fri) UTC-03 | ¹ |
 
-¹ Winner bracket encounter
+### Sunday, 07. October 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1:00 UTC** | 10:00 UTC+09 | 22:00 (Sat) UTC-03 | ² |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **1:00 UTC** | 10:00 UTC+09 | 21:00 (Sat) UTC-04 | ² |
+
+¹ Losers bracket grand final
  
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
+² Winners bracket grand final
 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Sunday, 2018-09-30 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 5 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/46346213) |
+| Malaysia ![][flag_MY] | 0 | 7 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46348238) |
+| China ![][flag_CN] | 7 | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/46357233) |
+| Brazil ![][flag_BR] | 7 | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46360220) |
 
 ### Semifinals
 
