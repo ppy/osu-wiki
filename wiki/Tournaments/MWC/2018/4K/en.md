@@ -204,6 +204,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Schedule: Grand Finals
+### Saturday, 06. October 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
