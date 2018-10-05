@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Summer: 2018"
+title: "Beatmap Spotlights: Summer 2018"
 date: 2018-10-10 06:00:00 +0000
 ---
 
@@ -8,7 +8,7 @@ Welcome back to a long-awaited rendition of this season's beatmap spotlights! We
 
 ![](/wiki/shared/news/banners/spotlights-header.jpg)
 
-The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=SUMMER2018). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The Summer 2018 Spotlights rankings will end on the 31th of December, 2018.**
+The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=SUMMER2018). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The Summer 2018 Spotlights rankings will end on the 31st of December, 2018.**
 
 ## Changes within the Spotlights!
 
@@ -17,13 +17,13 @@ Without further ado, let us get into some recent changes brought about to the sp
 You may have noticed that the release of spotlights have been somewhat inconsistent, but worry no longer! Spotlights will now be released four times per year, once per season, and organized as follows:
 
 + **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
-+ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
++ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30st
 + **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
 + **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
-If you've ever been interested in joining the team itself, open applications will now be made public through Google forms! The size of the spotlights staff is continuously growing, with structured teams for all 4 game modes alike. If you think you've got the mapping experience and skills to showcase truly outstanding maps, you can find the application [here](https://goo.gl/XdNvXo)! If you just want to observe, we decided to make our discord server public and you are [free to join](http://discord.gg/Z28ZtUf)! With that said, discussion about the future and other important stuff will still happen on the dedicated channel of [osu!dev](Http://discord.gg/ppy).
+If you've ever been interested in joining the team itself, open applications will now be made public through Google forms! The size of the spotlights staff is continuously growing, with structured teams for all four game modes alike. If you think you've got the mapping experience and skills to showcase truly outstanding maps, you can find the application [here](https://goo.gl/XdNvXo)! If you just want to observe, we decided to make our discord server public and you are [free to join](http://discord.gg/Z28ZtUf)! With that said, discussion about the future and other important stuff will still happen on the dedicated channel of [osu!dev](Http://discord.gg/ppy).
 
-We're also looking to integrate the spotlights further into gameplay to create a more competitive experience. The top 3 players who manage to conquer the spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively.
+We're also looking to integrate the spotlights further into gameplay to create a more competitive experience. The top three players who manage to conquer the spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively.
 
 Don't worry, we haven't forgotten about our mappers either. There's lots of other exciting things for the mappers and the leaderboards themselves that are coming soon!
 
@@ -68,7 +68,7 @@ Together with [Pata-Mon](https://osu.ppy.sh/users/6149313) and [Suzuki_1112](htt
 
 [eiri-](https://osu.ppy.sh/users/3388410)'s strikingly original set of Liz Triangle's "Messiah" has 3 unique difficulties that all express the song quite beautifully. [Jounzan](https://osu.ppy.sh/users/1848318)'s top diff has great intensity and spacing contrast, along with a unique use of flow. [Mirash](https://osu.ppy.sh/users/2841009) and [Delis](https://osu.ppy.sh/users/1603923)' collab gives us a nicely improvised approach to emphasis, providing a fun gameplay experience. 
 
-Last but not least, Vass' Desire by [Vass_Bass](https://osu.ppy.sh/users/188248) displays a very natural movement around the playfeild, which is more easily playable, yet displays a high attention to detail. With a nice range of mapping styles, it's easy to say something in this set for everybody!
+Last but not least, Vass' Desire by [Vass_Bass](https://osu.ppy.sh/users/188248) displays a very natural movement around the playfield, which is more easily playable, yet displays a high attention to detail. With a nice range of mapping styles, it's easy to say something in this set for everybody!
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/osu/unknown-x-known.jpg)](http://osu.ppy.sh/beatmapsets/800070)
 
@@ -142,7 +142,7 @@ I don't know about you, but I'm ready to use this key to unlock some timepieces.
 
 Having mapped a whole bunch of songs by Rainbowdragoneyes, [Mew104](https://osu.ppy.sh/users/2345156) finally pushed one of their renditions to rank!
 
-Each difficulty of the set features accurate and appropiate patterns throughout, being quite demanding, but still fair and fun to play, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) surely doesn't disappoint either, with a different approach that also suits the song well.
+Each difficulty of the set features accurate and appropriate patterns throughout, being quite demanding, but still fair and fun to play, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) surely doesn't disappoint either, with a different approach that also suits the song well.
 
 What's most impressive about the set though is the Ura Oni. This difficulty takes everything the song has to offer, tastefully uses patterns to highlight it accurately all the way through and keeps your attention with a bunch of varied patterns combined with variable snappings flowing into each other neatly, making the difficulty as a whole incredibly enjoyable!
 
@@ -236,7 +236,7 @@ And of course, for everyone else, the Cup through Rain difficulties definitely p
 
 [Dreamwalker](https://osu.ppy.sh/users/8946550), well known as master of Slider Velocity oriented mapping, greatly debuts with his extremely dynamic 4k mapset: Kontinuum's "Lost (feat. Savoi) \[Sunroof Remix]". The extra difficulty demonstrates very creative yet balanced Slider Velocity usage, fitting well with pretty uneasy patterning; Combining long notes with 1/8 rolls, the chart takes the player out of their comfort zone, but still keeps it very fun to play. Eventually extreme 1/8 rolls intersect with heavy stutter effects, giving the gameplay a splash of drive.
 
-This paired with the Insane with great usage of heavy chording, including pushing scroll speed effects by [Fontes](https://osu.ppy.sh/users/8875919) and the excellently balanced Advanced difficulty with well-arranged and smart choices of patterns by [Lastopia](https://osu.ppy.sh/users/6786004), the mapset came out very well structured and gives joy for players of any level. The map was highly appreciated by community and definetely deserves to be on the top of the Beatmap Spotlights!
+This paired with the Insane with great usage of heavy chording, including pushing scroll speed effects by [Fontes](https://osu.ppy.sh/users/8875919) and the excellently balanced Advanced difficulty with well-arranged and smart choices of patterns by [Lastopia](https://osu.ppy.sh/users/6786004), the mapset came out very well structured and gives joy for players of any level. The map was highly appreciated by community and definitely deserves to be on the top of the Beatmap Spotlights!
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/mania/mazare-party.jpg)](http://osu.ppy.sh/beatmapsets/650415)
 
@@ -254,13 +254,13 @@ As the difficulty progresses, Kawawa and Critical_Star express and interpret the
 
 [Fresh Chicken](https://osu.ppy.sh/users/3984370), as known as the SDVX holic comes out with another sound voltex mapset, Getty vs. DJ DiA's "DropZ-Line-"! His talent in the mapping scene shines when he's set with pumpcore.
 
-Although the pattern is difficult on its own, with the addition of strong Slider Velicity changes it creates a harmony with the music -- something to be considered as a fun challenge to the players. The Slider Velocity values in some of the parts are not calculated to the average scroll speed intentionally, which shows how his interpretation of the music and expressed it through his mapping style.
+Although the pattern is difficult on its own, with the addition of strong Slider Velocity changes it creates a harmony with the music -- something to be considered as a fun challenge to the players. The Slider Velocity values in some of the parts are not calculated to the average scroll speed intentionally, which shows how his interpretation of the music and expressed it through his mapping style.
 
 Enjoy the heavy bass, let's bring it on the pumpcore!
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/mania/bella.jpg)](http://osu.ppy.sh/beatmapsets/791316)
 
-[Hydria](https://osu.ppy.sh/users/808176) brings the ranked section with this easy but delicate mapset, M2U's "A Bella! (feat. Lucy)". As a technical mapper, this time he features delicate LN structures in vocal mapping and makes a great use of this song.
+[Hydria](https://osu.ppy.sh/users/808176) brings the ranked section with this easy but delicate mapset, M2U's "A Bella! (feat. Lucy)". As a technical mapper, this time he features delicate Long Note structures in vocal mapping and makes a great use of this song.
 
 The ideal spread on one hand makes the set reachable for beginners, while the complexity of Long Note design in the top diff gives some accuracy challenges to even the top players. If you are good at dealing with the Long Notes, take the challenge and enjoy this mapset!
 
@@ -292,7 +292,7 @@ All in all, this mapset would be among good choices of practicing stamina and ch
 
 [![](/wiki/shared/news/2018-10-10-beatmap-spotlights-summer-2018/mania/redemption.jpg)](http://osu.ppy.sh/beatmapsets/788366)
 
-Another one of [error_exe777](https://osu.ppy.sh/users/7975796)'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-enducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music. 
+Another one of [error_exe777](https://osu.ppy.sh/users/7975796)'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-inducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music. 
 
 Its use of varying concepts, particularly the repetition of specific patterns, is something that many mappers should keep in mind when making maps with Slider Velocity changes.
 
