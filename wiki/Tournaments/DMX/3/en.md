@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 Logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263) and ![][flag_NL] [SpectreSan](/users/11310442). It is the 3rd installment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263) and ![][flag_NL] [SpectreSan](/users/11310442). It is the 3rd installment of the DeltaMax's Tournaments.
 
 ## Tournament Schedule
 
@@ -36,7 +36,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The DeltaMax's Mania Key Smasher is run by various osu!taiko community members.
+The DeltaMax's Mania Key Smasher is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
