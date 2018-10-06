@@ -12,7 +12,7 @@ Memiliki masalah dengan sesuatu? kami disini untuk membantu! lihat beberapa solu
 
 Biasanya, masalah ini terselesaikan dalam beberapa jam, dan sistem kami akan menerapkan tag Anda secara otomatis ke akun Anda.
 
-Jika sudah lebih dari 24 jam dan Anda masih belum menerima osu!supporter tag anda, dipersilahkan untuk mengirim email ke [support@ppy.sh](mailto:support@ppy.sh) dan beritahu kami keluhan Anda.
+Jika sudah lebih dari 24 jam dan Anda masih belum menerima osu!supporter tag anda, silakan mengirim email ke [support@ppy.sh](mailto:support@ppy.sh) dan beritahu kami keluhan Anda.
 
 Pastikan untuk menyertakan struk yang Anda terima selama proses (ID transaksi PayPal, struk Xsolla, dll) – struk ini akan sangat membantu kami untuk melacak kendala yang terjadi pada transaksi Anda!
 
@@ -24,7 +24,7 @@ Pastikan untuk menyertakan struk yang Anda terima selama proses (ID transaksi Pa
 
 Mereka dapat terus menetapkan skor secara lokal dan online (meskipun skor tidak akan ditampilkan sampai status pembatasan dicabut) dan memainkan game seperti biasa, dengan pengecualian multiplayer.
 
-Pembatasan relatif jarang terjadi, dan hanya diberikan dalam keadaan dimana kami percaya bahwa Peraturan Komunitas atau Persyaratan Layanan kami telah dilanggar, atau akun telah diamati dan bertindak tidak normal.
+Pembatasan relatif jarang terjadi, dan hanya diberikan dalam keadaan di mana kami percaya bahwa Peraturan Komunitas atau Persyaratan Layanan kami telah dilanggar, atau akun telah diamati dan bertindak tidak normal.
 
 Kebanyakan, kasus pembatasan statusnya akan dihapus secara otomatis setelah 24 jam. Jika waktu telah berlalu dan Anda masih dibatasi, Anda dapat menanyakan tentang status akun Anda kepada tim layanan dukungan dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
@@ -38,7 +38,7 @@ Jika ini adalah kasus Anda, seperti, akun Anda yang telah dicekal bukan yang per
 
 Jika akun Anda telah dibatasi, Anda mungkin akan tahu alasannya setelah bercakap singkat dengan tim layanan dukungan.
 
-Dalam situasi dimana kami benar-benar yakin bahwa Anda melakukan kecurangan atau kesalahan telah terjadi, kami akan meminta Anda untuk menunggu jangka waktu **tiga (3) bulan** terhitung sejak tanggal pelanggaran terakhir Anda sebelum kami mempertimbangkan banding dari Anda untuk membiarkan Anda kembali ke dalam game.
+Dalam situasi di mana kami benar-benar yakin bahwa Anda melakukan kecurangan atau kesalahan telah terjadi, kami akan meminta Anda untuk menunggu jangka waktu **tiga (3) bulan** terhitung sejak tanggal pelanggaran terakhir Anda sebelum kami mempertimbangkan banding dari Anda untuk membiarkan Anda kembali ke dalam game.
 
 ### Masuk
 
@@ -98,7 +98,7 @@ Terakhir, kami menyadari bahwa beberapa layanan penyedia email tidak dapat mener
 
 **Ya, tentu saja!**
 
-Jika Anda telah membeli (atau telah diberikan) supporter tag, Anda dapat mengubah nama Anda satu kali secara gratis. Perubahan nama ini dapat dilakukan di osu! Store.
+Jika Anda telah membeli (atau telah diberikan) supporter tag, Anda dapat mengubah nama Anda satu kali secara gratis. Perubahan nama ini dapat dilakukan di osu!store.
 
 Setelah itu, Anda dapat membeli perubah nama pengguna untuk mengubah nama Anda menjadi apa pun yang Anda inginkan. Tetapi, setiap perubahan yang Anda lakukan harganya akan menjadi semakin lebih mahal - yang kedua akan memakan biaya $8 USD, yang ketiga $16 USD, dan seterusnya, hingga batas $100 USD. Kami melakukan ini untuk mencegah orang menyalahgunakan sistem dengan mengubah nama mereka secara berurutan.
 
@@ -108,9 +108,9 @@ Jika kesalahan perubahan nama Anda hanya di kapitalisasi (besar kecil huruf) ata
 
 **Ya, tetapi hanya dalam keadaan tertentu.**
 
-Jika seorang pemain belum masuk ke dalam game setidaknya selama 6 bulan dan tidak memiliki riwayat permainan, nama penggunanya dapat direklamasi melalui [laman perubahan nama di osu!store](https://store.ppy.sh/product/32) dengan biaya standar yang terkait dengan perubahan nama pengguna. 
+Jika seorang pemain belum masuk ke dalam game setidaknya selama 6 bulan dan tidak memiliki riwayat permainan, nama penggunanya dapat diklaim melalui [laman perubahan nama di osu!store](https://store.ppy.sh/product/32) dengan biaya standar yang terkait dengan perubahan nama pengguna. 
 
-For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
+Untuk setiap 500 permainan di semua mode permainan dalam sebuah akun, tambahan satu tahun (365 hari) akan ditambahkan ke waktu sebelum nama pengguna itu tersedia. Hal ini dilakukan untuk mencegah orang mencuri nama pengguna pemain aktif atau yang baru pensiun.
 
 #### Dapatkah saya menggunakan nama pengguna lama saya? 
 
@@ -202,7 +202,7 @@ Masalah ini kadang-kadang disebabkan oleh interaksi dengan mode compatibility, d
 
 Untuk memeriksa atau mengubah apakah game Anda berjalan dalam mode Windows Compatibility, coba langkah-langkah berikut:
 
-1. Buka folder dimana Anda menginstall osu! dan cari `osu! .exe`.
+1. Buka folder di mana Anda menginstall osu! dan cari `osu!.exe`.
 2. Setelah itu, Klik kanan pada `osu!.exe` dan pilih Properties dari menu dropdown yang ditampilkan.
 3. Lalu arahkan ke tab `Compatibility`. 
 4. Cari kotak centang berjudul `Run this program in compatibility mode` dalam bagian yang berjudul `Compatibility mode`.
@@ -232,13 +232,13 @@ Pastikan Anda menggunakan pengaturan rilis stable dalam game options.
 
 Anda juga dapat mencoba memaksa gamenya untuk diperbarui.
 
-##### Bagaimana cara memeriksa atau mengatur pengaturan rilis game saya?
+##### Bagaimana cara memeriksa atau mengatur pengaturan rilis pembaruan game saya?
 
 **Opsi ini dapat diubah melalui menu in-game options.**
 
 1. Buka osu!.
 2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
-3. Ketik `​release`​ pada menu pencarian cepat untuk melompat langsung ke opsi.
+3. Ketik `​release`​ pada menu pencarian cepat untuk mengarah langsung ke opsi.
 4. Pastikan dropdown menyorot `​Stable (Latest)`​ untuk menerima build game yang telah stabil dan terbaru.
 
 ##### Bagaimana cara memaksa gamenya untuk diperbarui? 
@@ -247,10 +247,10 @@ Anda juga dapat mencoba memaksa gamenya untuk diperbarui.
 
 1. Buka osu!.
 2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
-3. Ketik ​`update`​ pada menu pencarian cepat untuk melompat langsung ke opsi. 
+3. Ketik ​`update`​ pada menu pencarian cepat untuk mengarah langsung ke opsi. 
 4. Klik tombol `​Run osu! updater`.
 
-Anda juga dapat memaksa game untuk diperbarui dengan membuat file `help.txt` di direktori dimana Anda menginstal osu!. File ini tidak perlu mengandung apa-apa, dan permainan akan secara otomatis memaksa pembaruan pada waktu berikutnya osu! dijalankan.
+Anda juga dapat memaksa game untuk diperbarui dengan membuat file `help.txt` di direktori di mana Anda menginstal osu!. File ini lebih baik dikosongkan saja, dan permainan akan secara otomatis memaksa pembaruan pada waktu berikutnya osu! dijalankan.
 
 #### Saya mendapatkan kesalahan mengenai "font style" saat saya mencoba membuka game! 
 
@@ -280,7 +280,7 @@ Jika Anda baru saja mengunduh map, Anda mungkin ingin mencoba menyegarkan ulang 
 
 **Secara default, menekan `​Shift`​ + `​Tab`​ akan mengaktifkan HUD dalam game dan memungkinkan Anda untuk melihat elemen-elemen ini lagi.**
 
-Jika Anda telah mengubah keybinding yang mengubah papan skor, kombinasi tombol ini tidak akan berfungsi. Anda dapat memeriksa kunci mana yang diatur di `​Options`​ -> `​Change keyboard bindings`​ -> `​In-Game`​ -> `​Toggle Scoreboard`.
+Jika Anda telah mengubah keybinding yang mengubah papan skor, kombinasi tombol ini tidak akan berfungsi. Anda dapat memeriksa tombol mana yang diatur di `​Options`​ -> `​Change keyboard bindings`​ -> `​In-Game`​ -> `​Toggle Scoreboard`.
 
 #### Skor lokal saya hilang!
 
@@ -312,7 +312,7 @@ Jika Anda bermain online dan mengalami pemutusan singkat karena alasan apa pun, 
 
 ##### Apakah Anda baru saja mengunduh map dalam jumlah besar? (misalnya: paket atau bundel beatmap)
 
-**Skor terkadang waktu lebih untuk mengunduh dari server game jika Anda memuat banyak map yang baru dimuat sekaligus.**
+**Skor terkadang membutuhkan waktu lebih untuk mengunduh dari server jika Anda memuat banyak map baru yang dimuat sekaligus.**
  
 Main game atau melakukan sesuatu yang lain akan membiarkan klien mengejar ketinggalan di latar belakang.
 
@@ -326,7 +326,7 @@ Keybinding default untuk fitur ini adalah tombol `C`​, dan fitur ini akan teru
 
 **Masuk ke layar hasil post-game dengan mengklik skor di papan skor lokal Anda, dan tekan tombol ​`F2​`.**
 
-Setelah ini, tayangan ulang dari skor baru Anda yang mengkilap akan tersimpan sebagai file ​`.osr`​ di folder /Replays/ dalam direktori di mana Anda menginstal osu! Anda. 
+Setelah ini, tayangan ulang dari skor baru Anda akan tersimpan sebagai file ​`.osr`​ di folder /Replays/ dalam direktori di mana Anda menginstal osu! Anda. 
 
 osu! juga secara otomatis menyimpan semua tayangan ulang setelah Anda menyelesaikan sebuah map di dalam folder ​`/Data/r/`​, yang juga terdapat dalam direktori di mana Anda menginstal osu! Anda.
 
@@ -438,7 +438,7 @@ Jika Anda memiliki banyak beatmap, harap tunggu setidaknya 10-15 menit sebelum m
 
 Jika tidak selesai, mengulang perangkat (reboot) kadang membantu.
 
-#### Permainan saya terlihat tidak jelas, grafisnya seperti yang tercabik-cabik!
+#### Permainan saya terlihat tidak jelas, grafisnya seperti tercabik-cabik!
 
 **Hal ini disebabkan oleh efek yang disebut ​[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)​ dan dapat dihindari dengan mengatur opsi `​Frame limiter`​ in-game ke ​`VSync`.** 
 
@@ -563,7 +563,7 @@ Anda mungkin juga ingin mencoba mencabut beberapa komponen yang terpasang melalu
 
 ##### Hal ini masih terjadi!
 
-Jika solusi berikut tidak ada yang membantu, silakan kirim tiket layanan dukungan ke [​accounts@ppy.sh](mailto:accounts@ppy.sh)​ dengan informasi lebih lanjut mengenai masalah - termasuk spesifikasi teknis komputer Anda, model (jika perlu) dan informasi lainnya yang Anda pikir dapat membantu kami melihat penyebab masalah yang dialami oleh Anda. 
+Jika solusi berikut tidak ada yang membantu, silakan kirim tiket layanan dukungan ke [​accounts@ppy.sh](mailto:accounts@ppy.sh)​ dengan informasi lebih lanjut mengenai masalah - termasuk spesifikasi teknis komputer Anda, model komputer (jika perlu) dan informasi lainnya yang Anda pikir dapat membantu kami melihat penyebab masalah yang dialami oleh Anda. 
 
 #### Saya tidak bisa menekan lebih dari beberapa tombol sekaligus saat bermain osu!mania.
 
@@ -599,7 +599,7 @@ Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
 2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
-3. Ketik `raw` di bilah pencarian cepat untuk langsung melompat ke opsi raw input.
+3. Ketik `raw` di bilah pencarian cepat untuk langsung mengarah ke opsi raw input.
 4. Klik tombol radio `Raw input`.
 
 #### Saya bermain menggunakan tablet dan kursor saya terasa terlalu lambat!
