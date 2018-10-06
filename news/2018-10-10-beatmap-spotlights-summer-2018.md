@@ -17,7 +17,7 @@ Without further ado, let us get into some recent changes brought about to the sp
 You may have noticed that the release of spotlights have been somewhat inconsistent, but worry no longer! Spotlights will now be released four times per year, once per season, and organized as follows:
 
 + **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
-+ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30st
++ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
 + **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
 + **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
