@@ -5,8 +5,6 @@ tags:
 ---
 # osu! Catch the Beat World Cup 2013
 
-![CWC 2013 logo](img/logo.png)
-
 The **osu! Catch the Beat World Cup 2013** (***CWC 2013*** ) was a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 2nd installment of the osu! Catch the Beat World Cup.
 
 ## Tournament schedule
@@ -15,8 +13,11 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013*** ) was a country-based
 | --: | :-- |
 | Registration Phase | 2013-04-02/2013-04-19 |
 | Live Drawings | 2013-05-02 (14:00 UTC) |
-| Group Stage | 2013-05-09/2013-05-10 |
-| Round of 16 | 2013-03-15/2013-03-17 |
+| Round 1 | 2013-01-18/2013-01-20 |
+| Round 2 | 2013-01-25/2013-01-27 |
+| Round 3 | 2013-02-01/2013-02-03 |
+| Break | 2013-02-08/2013-02-10 |
+| Round of 16 | 2013-02-15/2013-02-17 |
 | Quarterfinals | 2013-02-22/2013-02-24 |
 | Semifinals | 2013-03-01/2013-03-03 |
 | Finals | 2013-03-08/2013-03-10 |
@@ -37,7 +38,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_CA] [Weez](/users/67211), ![][flag_ES] [Deif](/users/318565), ![][flag_PH] [Seph](1591614), ![][flag_DE] [Nyan-Zapo](/users/480676) |
+| Management | ![][flag_CA] [Weez](/users/67211), ![][flag_ES] [Deif](/users/318565), ![][flag_PH] [Seph](/users/1591614), ![][flag_DE] [Nyan-Zapo](/users/480676) |
 | Map Selectors | ![][flag_CA] [Weez](/users/67211), ![][flag_DE] DeathXHunter, ![][flag_ID] [urs4chan](/users/321063) |
 | Match Schedulers | ![][flag_DE] [Nyan-Zapo](/users/480676), ![][flag_DE] [Nitojgrem](/users/755705) |
 | Referees | ![][flag_ES] [Deif](/users/318565), ![][flag_ES] [Nokeru-Chan](/users/602315) ![][flag_CA] [Xakyrie](/users/684730), ![][flag_ID] [Frans Niko](/users/906991), ![][flag_AT] [Stefan](/users/626907), ![][flag_ID] [urs4chan](/users/321063), ![][flag_US] [dkun](/users/154400) |
@@ -106,274 +107,225 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
-
-**[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar)**
-
 - NoMod
-  - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](/beatmaps/269773&m=2)
-  - [Mabinogi - Uroboros 9236 (ZHSteven) \[Inferno CTB\]](/beatmaps/353390&m=2)
-  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[ExtrA\]](/beatmaps/296432&m=2)
-  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (INO) \[Catch The GRAVITY\]](/beatmaps/682868&m=2)
-  - [u's - Korekara no Someday (Spectator) \[Someday\]](/beatmaps/650162&m=2)
-  - [STREME REVERIE - A Site De La Rue (CLSW) \[Absurd Tantivy\]](/beatmaps/709593&m=2)
+  - [Hatsune Miku - Marionette no Kairaku (rui) \[Uncontrollable\]](/beatmaps/139652&m=2)
+  - [Maximum the Hormone - What's Up, People? (Louis Cyphre) \[Lucifer\]](/beatmaps/79862&m=2)
+  - [nano - No pain, No game (AngelHoney) \[AngelHoney\]](/beatmaps/180423&m=2)
+  - [Nekomata Master - Smile of Split (Charles445) \[Insane\]](/beatmaps/171678&m=2)
+  - [Rohi - Kakuzetsu Thanatos (Skystar) \[Skystar\]](/beatmaps/215906&m=2)
+  - [Rohi - Kodoku Egoism (Skystar) \[Skystar\]](/beatmaps/187507&m=2)
+  - [Team Nekokan - Can't Defeat Airman (Blue Dragon) \[Holy Shit! It's Airman!!\]](/beatmaps/104229&m=2)
+  - [utsuP - Adult's Toy (SapphireGhost) \[Desecration\]](/beatmaps/199304&m=2)
+  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](/beatmaps/182001&m=2)
+  - [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Chaos\]](/beatmaps/118068&m=2)
 - Hidden
-  - [Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](/beatmaps/66246&m=2)
-  - [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](/beatmaps/514597&m=2)
-  - [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](/beatmaps/48874&m=2)
-  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](/beatmaps/312959&m=2)
+  - [07th Expansion - rog-unlimitation (AngelHoney) \[AngelHoney\]](/beatmaps/116128&m=2)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](/beatmaps/168031&m=2)
+  - [HujuniseikouyuuP - Talent Shredder (Lesjuh) \[Lesjuh style\]](/beatmaps/153857&m=2)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](/beatmaps/24023&m=2)
 - HardRock
-  - [IOSYS - Border of Death (dksslqj) \[Lunatic\]](/beatmaps/53380&m=2)
+  - [Demetori - Emotional Skyscraper \~ World's End (happy30) \[Extra Stage\]](/beatmaps/53554&m=2)
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](/beatmaps/84801&m=2)
+  - [Memme - BSPower Explosion (yeahyeahyeahhh) \[Baka yyy\]](/beatmaps/142772&m=2)
   - [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](/beatmaps/95382&m=2)
-  - [Awake - Supernova (DoKoLP) \[DoKo\]](/beatmaps/138008&m=2)
-  - [Hanazawa Kana - Mousou Express (Remix) (Spectator) \[EX\]](/beatmaps/532153&m=2)
 - DoubleTime
-  - [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](/beatmaps/308350&m=2)
-  - [Megpoid GUMI - For my soul (val0108) \[Insane\]](/beatmaps/80102&m=2)
-  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmaps/111902&m=2)
-  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](/beatmaps/263368&m=2)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](/beatmaps/47152&m=2)
+  - [Kagamine Rin & Len - Streamline Prism (banvi) \[Jumping\]](/beatmaps/96142&m=2)
+  - [KOTOKO - Light My Fire (osuplayer111) \[Insane\]](/beatmaps/121429&m=2)
+  - [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](/beatmaps/49101&m=2)
 - Tiebreaker
-  - **[onoken - P8107 (CLSW) \[Nervous Breakdown\]](/beatmaps/686192&m=2)**
+  - **[Yousei Teikoku - The Creator (Saten) \[Nyaten\]](/beatmaps/202756&m=2)**
 
 ### Semifinals
 
-**[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar)**
+**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9)**
 
 - NoMod
-  - [Fear, and Loathing in Las Vegas - Swing It](/beatmaps/482147&m=2)
-  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (GAMI) \[Crystal's Angel\]](/beatmaps/658548&m=2)
-  - [bj.HaLo - Ende (ZiRoX) \[Deif's Overdose\]](/beatmaps/491215)
-  - [void feat. Komatsuna - Akatsuki No Tsuki (Spectator) \[Oriental\]](/beatmaps/668162&m=2)
-  - [Tristam & Braken - Frame of Mind (Fort) \[Chill\]](/beatmaps/581141&m=2)
-  - [Savant - Pirate bay (Drafura) \[Etoile\]](/beatmaps/247418&m=2)
+  - [44teru-k remixed wa. - Higanbana Daini -Shuusei no Lycoris- (soulfear) \[Fear\]](/beatmaps/124512&m=2)
+  - [Akiakane - FlashBack (Kiiwa, Beren) \[Insane\]](/beatmaps/166126&m=2)
+  - [Ara Potato - Skype x Can Can (Serval, Deif) \[CTB Collab\]](/beatmaps/150358&m=2)
+  - [DECO\*27 feat. marina - Aimai Elegy (DaxMasterix) \[Red Light \~CtB\~\]](/beatmaps/155227&m=2)
+  - [MomoKuro-tei Ichimon - Nippon Egao Hyakkei (TV Size) (bakabaka) \[Extra\]](/beatmaps/175783&m=2)
+  - [nano - No pain, No game (xsrsbsns) \[Insane\]](/beatmaps/185761&m=2)
+  - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](/beatmaps/135142&m=2)
 - Hidden
-  - [BoA - Kiseki (Hinsvar) \[Crystal's Rain\]](/beatmaps/388536&m=2)
-  - [44teru-k - F.I (Jacob) \[Extra445\]](/beatmaps/155235&m=2)
-  - [Beautiful Day - V3 (ignorethis) \[Impossible\]](/beatmaps/41313&m=2)
-  - [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](/beatmaps/179758&m=2)
+  - [Eoin O' Broin - Deep Space (galvenize) \[Another\]](/beatmaps/85550&m=2)
+  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/42244&m=2)
 - HardRock
-  - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[Spec's Overdose\]](/beatmaps/470966&m=2)
-  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmaps/78913&m=2)
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](/beatmaps/99342&m=2)
-  - [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](/beatmaps/78049&m=2)
+  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](/beatmaps/114635&m=2)
+  - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (La Cataline) \[LC\]](/beatmaps/133476&m=2)
 - DoubleTime
-  - [Denji Sano - Taiko Time (lepidopodus) \[Insane\]](/beatmaps/84911&m=2)
-  - [Katy Perry - E.T. (La Cataline) \[Futuristic\]](/beatmaps/116708&m=2)
-  - [U - Ha-tenya? (biwako) \[Insane\]](/beatmaps/120080&m=2)
-  - [Asumi Kana - SOMEONE ELSE (miccoliasms) \[Insane\]](/beatmaps/50907&m=2)
+  - [Nien - MiNd CoNTRoL (Lesjuh) \[HardStyle\]](/beatmaps/32438&m=2)
+  - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](/beatmaps/60089&m=2)
 - Tiebreaker
-  - **[ICE - L (Deif) \[Ascension\]](/beatmaps/465454&m=2)**
+  - **[xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](/beatmaps/129891&m=2)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2013+QuarterFinals.rar)**
+**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl)**
 
 - NoMod
-  - [Linked Horizon - Guren no Yumiya (TV Size) (eldnl) \[Overdose\]](/beatmaps/326464&m=2)
-  - [Soleily - Renatus (Multiple Creators) \[Rain\]](/beatmaps/557811&m=2)
-  - [Mutsuhiko Izumi - Snow Goose (ZiRoX) \[Overdose\]](/beatmaps/371595&m=2)
-  - [BiBi - Cutie Panther (CLSW) \[Captivation\]](/beatmaps/572707&m=2)
-  - [Megpoid GUMI - Romantic Hero (tutuhaha) \[Hero\]](/beatmaps/136509&m=2)
-  - [An - Artcore Jinja (ursa) \[OverdoZe\]](/beatmaps/505566&m=2)
+  - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](/beatmaps/145118&m=2)
+  - [Hatsune Miku - Hiatus (GAMI) \[Insane\]](/beatmaps/105003&m=2)
+  - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](/beatmaps/127047&m=2)
+  - [Renard - Blue Night (DoKito) \[DoKo\]](/beatmaps/116006&m=2)
+  - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](/beatmaps/146583&m=2)
+  - [Skrillex - Kyoto (feat. Sirah) (Frozen Child, La Cataline) \[Frozen-LC\]](/beatmaps/172193&m=2)
 - Hidden
-  - [Yucha-P - Thieves Night Trick (tutuhaha) \[Extra\]](/beatmaps/219090&m=2)
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmaps/93021&m=2)
-  - [Marika - Knowing short ver. (Konei) \[Rain\]](/beatmaps/572867&m=2)
-  - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](/beatmaps/468824&m=2)
+  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](/beatmaps/98496&m=2)
+  - [Ryu\* Vs. Sota - Go Beyond!! (Sprosive) \[Extra445\]](/beatmaps/84398&m=2)
 - HardRock
-  - [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](/beatmaps/86245&m=2)
-  - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](/beatmaps/80384&m=2)
-  - [sun3 - Higan Retour (saymun) \[Lunatic\]](/beatmaps/54373&m=2)
-  - [Mili - Utopiosphere (Spectator) \[Ecstasia\]](/beatmaps/446769&m=2)
+  - [Hatsune Miku - Yellow (Krisom) \[Insane\]](/beatmaps/65312&m=2)
+  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-san) \[Saten's SELAMAT PAGI\]](/beatmaps/112586&m=2)
 - DoubleTime
-  - [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](/beatmaps/274365&m=2)
-  - [Giga-P - Electric Angel (pkmnyab) \[Insane\]](/beatmaps/363639&m=2)
-  - [GUMI - PANDA HERO (gowww) \[Insane\]](/beatmaps/86266&m=2)
-  - [Kyary Pamyu Pamyu - PONPONPON (D33d) \[Boxxy's Velocity of Collabiflower\]](/beatmaps/136655&m=2)
+  - [Korpiklaani - Vodka (Charles445) \[Insane\]](/beatmaps/90466&m=2)
+  - [Nico Nico Douga - Evansama (Cirno) \[Deep Dark Fantasy\]](/beatmaps/93426&m=2)
 - Tiebreaker
-  - **[Hatsuki Yura - Yoiyami Hanabi (Spectator) \[Twilight\]](/beatmaps/456933&m=2)**
+  - **[Hatsune Miku - No,39 (val0108) \[0108 style\]](/beatmaps/110914&m=2)**
 
 ### Round of 16
 
-**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
+- NoMod
+  - [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[Ex\]](/beatmaps/129285&m=2)
+  - [chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/60858&m=2)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](/beatmaps/62589&m=2)
+  - [IOSYS - Border of Extacy (Shinxyn) \[Hopeless Perverts\]](/beatmaps/53736&m=2)
+  - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](/beatmaps/81560&m=2)
+  - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](/beatmaps/92780&m=2)
+- Hidden
+  - [Renard - WI-FI BRIDGE (ztrot) \[Insane?\]](/beatmaps/136749&m=2)
+  - [Susumu Hirasawa - Parade (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/34819&m=2)
+- HardRock
+  - [ClariS - Connect (TV Size) (Crazy Jay) \[Crazy Jay\]](/beatmaps/84922&m=2)
+  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](/beatmaps/69405&m=2)
+- DoubleTime
+  - [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (Andrea) \[Insane\]](/beatmaps/75987&m=2)
+  - [Kucchy vs Akky - Yakumo \~ JOINT STRUGGLE (DJPop) \[Lunatic\]](/beatmaps/48096&m=2)
+- Tiebreaker
+  - **[Asriel - Kegare Naki Yume (KanaRin, lkp, Clare) \[Yume\]](/beatmaps/78239&m=2)**
+
+### Round 3
 
 - NoMod
-  - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](/beatmaps/388088&m=2)
-  - [Mind Vortex - Alive (Katty Pie) \[Insane\]](/beatmaps/484661&m=2)
-  - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](/beatmaps/145118&m=2)
-  - [Hatsune Miku - Nehanshika (Shiirn) \[Abomination\]](/beatmaps/101178&m=2)
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](/beatmaps/100392&m=2)
-  - [MiddleIsland - Achromat (Tidek) \[Insane\]](/beatmaps/333675&m=2)
+  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](/beatmaps/85494&m=2)
+  - [Skrillex - First Of The Year (Equinox) (nold\_1702) \[ND1\]](/beatmaps/187639&m=2)
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/105143&m=2)
+  - [syatten remixed celas - Bird Sprite -Awakening of Light- (DaxMasterix) \[Another\]](/beatmaps/135177&m=2)
+  - [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](/beatmaps/142356&m=2)
+  - [YuNa - Torawarebito (Short Ver.) (Snow Note) \[Killer Queen\]](/beatmaps/130023&m=2)
 - Hidden
-  - [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](/beatmaps/441680&m=2)
-  - [Caravan Palace - Rock It For Me (tiper) \[Insane\]](/beatmaps/212118&m=2)
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](/beatmaps/290733&m=2)
-  - [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) \[Insane\]](/beatmaps/70764&m=2)
+  - [07th Expansion - rog-unlimitation (AngelHoney) \[Insane\]](/beatmaps/95733&m=2)
+  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](/beatmaps/104635&m=2)
 - HardRock
-  - [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Power of Stream\]](/beatmaps/91215&m=2)
-  - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](/beatmaps/171126&m=2)
-  - [fripSide - only my railgun (Full Ver.) (S i R i R u) \[Level 5\]](/beatmaps/47670&m=2)
-  - [Rameses B - Flaklypa (-kevincela-) \[Insane\]](/beatmaps/453358&m=2)
+  - [Baracuda - La Di Da (Nightcore Mix) (Kecco) \[Kecco's La Di Da\]](/beatmaps/63559&m=2)
+  - [XL Project - Starmine (Glass) \[Hard\]](/beatmaps/57475&m=2)
 - DoubleTime
-  - [Tatsh - Fuushi Kaden (happy30) \[Hard\]](/beatmaps/56044&m=2)
-  - [Hatsuki Yura - HAMELN (karenying) \[Insane\]](/beatmaps/136322&m=2)
-  - [07th Expansion - miragecoordinator (La Cataline) \[Hard\]](/beatmaps/102426&m=2)
-  - [Tune Up! - Bounce (Nightcore Mix) (osuplayer111) \[jericho2442's Rave\]](/beatmaps/82785&m=2)
+  - [Chata - Yuujou Pop (Rorry) \[Ai\]](/beatmaps/77781&m=2)
+  - [Nekomata Master - Suijou no Teitoku (Short mix from "Gensou Suikoden V") (Muya) \[Another\]](/beatmaps/119071&m=2)
 - Tiebreaker
-  - **[Saiya - Remote Control (CLSW) \[Crystal Spec\]](/beatmaps/423373&m=2)**
+  - **[nano.RIPE - Real World (bakabaka) \[Insane\]](/beatmaps/177735&m=2)**
 
-### Group Stage
+### Round 2
 
-**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
+**[Download the mappack here!](http://www.mediafire.com/?o5szwa4mxt4juh1)**
 
 - NoMod
-  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](/beatmaps/81560&m=2)
-  - [Rita - Princess Blood (CLSW) \[Rain\]](/beatmaps/436663&m=2)
-  - [Hanatan - Hyakunen Yakou (eveless) \[Insane\]](/beatmaps/220908&m=2)
-  - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (Vhy) \[Rain\]](/beatmaps/390102&m=2)
-  - [Traktion - Mission ASCII (galvenize) \[Another\]](/beatmaps/162405&m=2)
-  - [Xelia - Illumiscape (Kanna) \[Drafura's CtB Platter\]](/beatmaps/159792&m=2)
+  - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[Rin\]](/beatmaps/158662&m=2)
+  - [Last Note. - Dead Line Circus (tutuhaha) \[Circus\]](/beatmaps/172455&m=2)
+  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](/beatmaps/173567&m=2)
+  - [Takanashi Yasuharu - Doku Ryuu no Kobura (\_Kiva) \[Insane\]](/beatmaps/1288758&m=2)
+  - [yak\_won - Lucid (soulfear) \[Extra\]](/beatmaps/85852&m=2)
+  - [ZUN - Hartmann's Youkai Girl (Gomo Psivarh) \[Ipvarsh\]](/beatmaps/84964&m=2)
 - Hidden
-  - [bibuko - Crayon (val0108) \[Insane\]](/beatmaps/152463&m=2)
-  - [sta - Iris (ampzz) \[Insane\]](/beatmaps/255163&m=2)
-  - [Rchetype - V Is For (Blue Dragon) \[Insane\]](/beatmaps/290919&m=2)
-  - [Goose house - 18sai (mingmichael) \[Rain\]](/beatmaps/560408&m=2)
+  - [Nekomata Master feat. Sana - Indigo Bird (fartownik) \[Master\]](/beatmaps/128499&m=2)
+  - [Susumu Hirasawa - CHEVRON (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/97923&m=2)
 - HardRock
-  - [Chata - Dango Daikazoku -TV animation Ver.- (Pappy) \[Platter\]](/beatmaps/533077&m=2)
-  - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Hard\]](/beatmaps/230175&m=2)
-  - [Kino Nei - Ougon Musou Kyoku \~Konjiki no Chi ni Somaru Mae ni\~ (Suzully) \[Golden Truth\]](/beatmaps/84566&m=2)
-  - [TERRA - ever snow (ouranhshc) \[Hard\]](/beatmaps/81789&m=2)
+  - [DECO\*27 feat. marina - Aimai Elegy (Mafiamaster) \[Hard\]](/beatmaps/93732&m=2)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](/beatmaps/82249&m=2)
 - DoubleTime
-  - [October - Time to Love (CLSW) \[Posthumous\]](/beatmaps/569690&m=2)
-  - [BURTON - Shinonomegiku (\[\_Crystal\]) \[Kurokami's Platter\]](/beatmaps/382311&m=2)
-  - [Drop - Yunagi Rinne (Shinxyn) \[Insane\]](/beatmaps/52900&m=2)
-  - [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[Insane\]](/beatmaps/50291&m=2)
+  - [Nekomata Master - Far east nightbird (Muya) \[Another\]](/beatmaps/97942&m=2)
+  - [Tatsh feat. ENA - Flash -2nd Desire- (Miya) \[Lunatic\]](/beatmaps/139597&m=2)
 - Tiebreaker
-  - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](/beatmaps/587577&m=2)**
+  - **[Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](/beatmaps/139446&m=2)**
+
+### Round 1
+
+**[Download the mappack here!](http://dkun.us/cwcpool1.zip)**
+
+- NoMod
+  - [Chata - Koisuru Otome (hoLysoup) \[Insane\]](/beatmaps/117236&m=2)
+  - [Hanazawa Kana ft. Snoop Dogg - Weed Circulation (those) \[and those roll the best\]](/beatmaps/180337&m=2)
+  - [jun - TWINKLE HEART (Star Stream) \[S.S\]](/beatmaps/162654&m=2)
+  - [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](/beatmaps/143989&m=2)
+  - [Supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmaps/93021&m=2)
+  - [Yasuharu Takanashi - Fairy Tail Main Theme (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/52275&m=2)
+- Hidden
+  - [dB soundworks - It Ends (Cut Ver.) (Deif) \[Deif's Meat Platter\]](/beatmaps/142489&m=2)
+  - [IOSYS - Usatei 2011 (Saten) \[Tewi\]](/beatmaps/120716&m=2)
+- HardRock
+  - [DJ Okawari - Flower Dance (JauiPlaY) \[Flower\]](/beatmaps/123417&m=2)
+  - [fripSide - memory of snow (KanaRin) \[Kana\]](/beatmaps/88247&m=2)
+- DoubleTime
+  - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](/beatmaps/142099&m=2)
+  - [Yousei Teikoku - Weiss Fluegel (lolcubes) \[Insane\]](/beatmaps/125434&m=2)
+- Tiebreaker
+  - **[Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](/beatmaps/118226&m=2)**
 
 ------------------------------------------------------------------------
 
 ## Match Results
 
-### Grand Finals
-
-| Sunday, 2013-06-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CN] China | [#1](/community/matches/16799312) |
-
 ### Finals
 
-| Saturday, 2013-06-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](/community/matches/16615953) |
-| Indonesia ![][flag_ID] | 5 | **6** | ![][flag_CL] **Chile** | [#1](/community/matches/16618288) |
-| Poland ![][flag_PL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](/community/matches/16621174) |
-| Chile ![][flag_CL] | 2 | **6** | ![][flag_DE] **Germany** | [#1](/community/matches/16624075) |
+| Friday, 2013-03-08 |  |  |  |
+| --: | :-: | :-: | :-- | 
+| Chile A ![][flag_CL] | **6** | 2 | ![][flag_TW] Taiwan A |
 
-| Sunday, 2013-06-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **China** ![][flag_CN] | **6** | 1 | ![][flag_DE] Germany | [#1](/community/matches/16644793) |
+| Saturday, 2013-03-09 |  |  |  |
+| --: | :-: | :-: | :-- |
+| **Argentina/Colombia** ![][flag_AR]![][flag_CO] | **6** | 1 | ![][flag_FI] Finland |
 
 ### Semifinals
 
-| Saturday, 2013-05-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| France ![][flag_FR] | 4 | **6** | ![][flag_TW] **Taiwan** | [#1](/community/matches/16464581) |
-| Netherlands ![][flag_NL] | 4 | **6** | ![][flag_MY] **Malaysia** | [#1](/community/matches/16465888) |
-| Argentina ![][flag_AR] | 1 | **6** | ![][flag_DE] **Germany** | [#1](/community/matches/16467528) |
-| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_US] United States | [#1](/community/matches/16469168) |
+| Saturday, 2013-03-02 |  |  |  |
+| --: | :-: | :-: | :-- |
+| Argentina/Colombia ![][flag_AR]![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A**
 
-| Sunday, 2013-05-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| Poland ![][flag_PL] | 0 | **6** | ![][flag_KR] South Korea | [#1](/community/matches/16489320) |
-| Indonesia ![][flag_ID] | 1 | **6** | ![][flag_CN] China | [#1](/community/matches/16490631) |
-| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_TW] Taiwan | -win by default- |
-| Malaysia ![][flag_MY] | 1 | **6** | ![][flag_CL] Chile | [#1](/community/matches/16493275) |
+| Sunday, 2013-03-03 |  |  |  |
+| --: | :-: | :-: | :-- |
+| Finland ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan A** |
 
 ### Quarterfinals
 
-| Saturday, 2013-05-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **Argentina** ![][flag_AR] | **5** | 3 | ![][flag_AU] Australia | [#1](/community/matches/16309081) |
-| Hong Kong ![][flag_HK] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](/community/matches/16310471) |
-| Italy ![][flag_IT] | 1 | **5** | ![][flag_NL] **Netherlands** | [#1](/community/matches/16313352) |
-| Russian Federation ![][flag_RU] | 3 | **5** | ![][flag_US] **United States** | [#1](/community/matches/16315464) |
+| Saturday, 2013-03-23 |  |  |  |
+| --: | :-: | :-: | :-- |
+| South Korea ![][flag_KR] | 2 | **4** | ![][flag_TW] Taiwan A |
+| Russian Federation/Ukraine ![][flag_RU]![][flag_UA] | 0 | **4** | ![][flag_CL] **Chile A** |
 
-| Sunday, 2013-05-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MY] Malaysia | [#1](/community/matches/16335352) |
-| **China** ![][flag_CN] | **5** | 2 | ![][flag_DE] Germany | [#1](/community/matches/16336420) |
-| France ![][flag_FR] | 3 | **5** | ![][flag_ID] **Indonesia** | [#1](/community/matches/16337429) |
-| Chile ![][flag_CL] | 2 | **5** | ![][flag_PL] **Poland** | [#1](/community/matches/16338988) |
+| Sunday, 2013-03-24 |  |  |  |
+| --: | :-: | :-: | :-- |
+| China ![][flag_CN] | 2 | **4** | ![][flag_AR]![][flag_CO] Argentina/Colombia |
+| Germany A ![][flag_DE] | 2 | **4** | ![][flag_FI] **Finland** |
 
 ### Round of 16
 
-| Saturday, 2013-05-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| Australia ![][flag_AU] | 4 | **5** | ![][flag_PL] **Poland** | [#1](/community/matches/16155689) |
-| Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](/community/matches/16156834) |
-| Taiwan ![][flag_TW] | 0 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/16157935) |
-| Russian Federation ![][flag_RU] | 2 | **5** | ![][flag_CN] **China** | [#1](/community/matches/16159321) |
-| Netherlands ![][flag_NL] | 1 | **5** | ![][flag_ID] **Indonesia** | [#1](/community/matches/16161232) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy | -win by default- |
-| **Germany** ![][flag_DE] | **5** | 1 | ![][flag_US] United States | [#1](/community/matches/16164371) |
-| Argentina ![][flag_AR] | 0 | **5** | ![][flag_CL] **Chile** | [#1](/community/matches/16166132) |
+| Friday, 2013-03-15 |  |  |  |
+| --: | :-: | :-: | :-- |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_HK] Hong Kong |
 
-### Group Stage
+| Saturday, 2013-03-16 |  |  |  |
+| --: | :-: | :-: | :-- |
+| **Germany A** ![][flag_DE] | **4** | 3 | ![][flag_CA] Canada A |
 
-| Saturday, 2013-05-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **Malaysia** ![][flag_MY] | **4** | 1 | ![][flag_PH] Philippines | [#1](/community/matches/15999657) |
-| Hong Kong ![][flag_HK] | 1 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/15999675) |
-| **Italy** ![][flag_IT] | **4** | 2 | ![][flag_TH] Thailand | [#1](/community/matches/15999681) |
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_AU] **Australia** | [#1](/community/matches/15999696) |
-| Spain ![][flag_ES] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](/community/matches/16000786) |
-| **Taiwan** ![][flag_TW] | **4** | 3 | ![][flag_NO] Norway | [#1](/community/matches/16000795) |
-| Japan ![][flag_JP] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/16000803) |
-| Sweden ![][flag_SE] | 0 | **4** | ![][flag_HK] **Hong Kong** | -win by default- |
-| Malaysia ![][flag_MY] | 3 | **4** | ![][flag_FR] **France** | [#1](/community/matches/16001920) |
-| United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](/community/matches/16001924) |
-| Hungary ![][flag_HU] | 1 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/16003183) |
-| **Norway** ![][flag_NO] | **4** | 0 | ![][flag_TH] Thailand | -win by default- |
-| Denmark ![][flag_DK] | 0 | **4** | ![][flag_PL] **Poland** | [#1](/community/matches/16003194) |
-| **Russian Federation** ![][flag_RU] | **4** | 1 | ![][flag_SG] Singapore | [#1](/community/matches/16003205) |
-| **Brazil** ![][flag_BR] | **4** | 0 | ![][flag_BE] Belgium | -win by default- |
-| Austria ![][flag_AT] | 0 | **4** | ![][flag_ES] **Spain** | [#1](/community/matches/16011198) |
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_MX] **Mexico** | -win by default- |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_AR] **Argentina** | -win by default- |
-| Russian Federation ![][flag_RU] | 3 | **4** | ![][flag_PL] **Poland** | [#1](/community/matches/16012820) |
-| Sweden ![][flag_SE] | 0 | **4** | ![][flag_GB] **United Kingdom** | -win by default- |
-| Hungary ![][flag_HU] | 1 | **4** | ![][flag_CL] **Chile** | [#1](/community/matches/16012829) |
-| Canada ![][flag_CA] | 0 | **4** | ![][flag_FR] **France** | [#1](/community/matches/16014522) |
-| Argentina ![][flag_AR] | 3 | **4** | ![][flag_US] **United States** | [#1](/community/matches/16014529) |
-| Austria ![][flag_AT] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](/community/matches/16014692) |
+| Sunday, 2013-03-17 |  |  |  |
+| --: | :-: | :-: | :-- |
+| United States ![][flag_US] | 0 | 4 | ![][flag_CL] Chile A |
+| **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_TW] Taiwan B |
+| **Russian Federation/Ukraine** ![][flag_RU]![][flag_UA] | **4** | 1 | ![][flag_TH] Thailand |
 
-| Sunday, 2013-05-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| **Australia** ![][flag_AU] | **4** | 3 | ![][flag_MX] Mexico | [#1](/community/matches/16021554) |
-| Canada ![][flag_CA] | 2 | **4** | ![][flag_MY] **Malaysia** | [#1](/community/matches/16021560) |
-| Mexico ![][flag_MX] | 0 | **4** | ![][flag_CN] **China** | -win by default- |
-| **Canada** ![][flag_CA] | **4** | 0 | ![][flag_PH] Philippines | -win by default- |
-| Singapore ![][flag_SG] | 1 | **4** | ![][flag_PL] **Poland** | [#1](/community/matches/16028855) |
-| Sweden ![][flag_SE] | 0 | **4** | ![][flag_ID] **Indonesia** | -win by default- |
-| Australia ![][flag_AU] | 2 | **4** | ![][flag_CN] **China** | [#1](/community/matches/16028862) |
-| Hungary ![][flag_HU] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/16028865) |
-| Austria ![][flag_AT] | 0 | **4** | ![][flag_KR] **South Korea** | -win by default- |
-| United Kingdom ![][flag_GB] | 2 | **4** | ![][flag_HK] **Hong Kong** | [#1](/community/matches/16029933) |
-| Philippines ![][flag_PH] | 0 | **4** | ![][flag_FR] **France** | [#1](/community/matches/16029939) |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_TH] Thailand | -win by default- |
-| Netherlands ![][flag_NL] | 2 | **4** | ![][flag_KR] **South Korea** | [#1](/community/matches/16031195) |
-| Denmark ![][flag_DK] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/16031201) |
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_CN] **China** | [#1](/community/matches/16031205) |
-| **Chile** ![][flag_CL] | **4** | 1 | ![][flag_JP] Japan | [#1](/community/matches/16031209) |
-| Italy ![][flag_IT] | 2 | **4** | ![][flag_TW] **Taiwan** | [#1](/community/matches/16031212) |
-| Brazil ![][flag_BR] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](/community/matches/16037776) |
-| **Italy** ![][flag_IT] | **4** | 2 | ![][flag_NO] Norway | [#1](/community/matches/16037779) |
-| Denmark ![][flag_DK] | 1 | **4** | ![][flag_RU] **Russian Federation** | [#1](/community/matches/16037785) |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
-| Spain ![][flag_ES] | 3 | **4** | ![][flag_NL] **Netherlands** | [#1](/community/matches/16039168) |
-| **Chile** ![][flag_CL] | **4** | 2 | ![][flag_DE] Germany | [#1](/community/matches/16039172) |
-| Brazil ![][flag_BR] | 0 | **4** | ![][flag_US] **United States** | [#1](/community/matches/16039176) |
+| Monday, 2013-03-18 |  |  |  |
+| --: | :-: | :-: | :-- |
+| **Argentina/Colombia** ![][flag_AR]![][flag_CO] | **4** | 3 | ![][flag_IT] Italy A |
 
 ------------------------------------------------------------------------
 
