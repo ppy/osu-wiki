@@ -7,7 +7,7 @@ tags:
 
 ![TSC Logo](img/logo.png)
 
-The **Taiko Suiji Cup** (***TSC***) is a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It was the 1st installment of the Taiko Suiji Cup.
 
 ## Tournament Schedule
 
@@ -32,7 +32,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The Taiko Suiji Cup is run by various osu!taiko community members.
+The Taiko Suiji Cup was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,29 +48,8 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](/community/forums/topics/782877)
-- [Official TSC Discord](https://discord.gg/AE4qGwZ)
-- [Challonge brackets and predictions](https://challonge.com/TaikoSuijiCup)
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
-
------------------------
-
-## Match Schedule: Grand Finals
-
-### Saturday, 6 October 2018
-
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| #1 | jakpat | BabySnakes is Dumb | **01:00** |
-
-### Sunday, 7 October 2018
-
-| Match ID | Team A | Team B | Match Time (UTC) |  |
-| :-: | --: | :-- | :-: | :-: |
-| #2a | i like grosses baguettes | jakpat | **14:00** | ¹ |
-| #2b | i like grosses baguettes | BabySnakes is Dumb | **14:00** | ¹ |
-
-¹ Encounter dependent on winner of Match #1
 
 -----------------------
 
@@ -110,6 +89,18 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 | **Samurai Pizza Cats** | ![][flag_US] **[Catgirl](/users/2771995)**, ![][flag_FR] [Romainnoda](/users/8814218), ![][flag_HK] [iamdicky000](/users/4409670), ![][flag_BR] [Mikudayo](/users/5235718), ![][flag_EE] [Troll Face](/users/8325847), ![][flag_CO] [samel12](/users/9744218) |
 | **Press F for Ayachi** | ![][flag_CL] **[Ulqui](/users/1263669)**, ![][flag_US] [cheese salad](/users/6349821), ![][flag_SG] [FarawayOtaku](/users/10767070), ![][flag_NZ] [Ayachi Meme](/users/4636461), ![][flag_US] [Voltaeyx](/users/2715118), ![][flag_MY] [Minisora](/users/9627666) |
 | **Magnolia** | ![][flag_GB] **[Horiiizon](/users/8071438)**, ![][flag_TH] [Rhytoly](/users/8121109), ![][flag_DE] [Nepuri](/users/6637817), ![][flag_FR] [Yoshi-GH](/users/3317042), ![][flag_RU] [Nozdormu](/users/7169208), ![][flag_JP] [miyavi\_0611](/users/4670948) |
+
+-----------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | jakpat |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
 
 -----------------------
 
@@ -328,6 +319,16 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-10-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](/community/matches/46519821) |
+
+| Sunday, 2018-10-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| i like grosses baguettes | 3 | **7** | **jakpat** | [#1](/community/matches/46533762) |
 
 ### Finals
 
