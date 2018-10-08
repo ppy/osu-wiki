@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of October 7th"
-date: 2018-10-08 20:00:00 +0000
+date: 2018-10-08 04:10:00 +0000
 ---
 
 It's the first Sunday of the month—you know what that means? [Project Loved](https://osu.ppy.sh/community/forums/120) is back again with 24 maps ready to hit the Loved section! Make your voice heard and vote for the maps that you'd like to see Loved.
