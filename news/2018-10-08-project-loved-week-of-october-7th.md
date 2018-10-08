@@ -121,7 +121,7 @@ KitajimaYN is a mapper who maps something almost every day, but at this point in
 [YUC'e - YUC'e Songs Mapset](https://osu.ppy.sh/beatmapsets/776725#taiko) by [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) et al.  
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
-This is a wonderful map pack featuring the ever-popular YUC'e! Six great songs from her mapped by six of the osu!taiko mappers who have made her so popular in our community, including the ever so synonymous KinomiCandy! Each mapper has their own styles they bring to this genre of music, with Kinomi's focus on streams and simple 1/6 with Ninjas, and komasy with his focus on even numbered pattern and authentic style mapping. This is the ultimate package for YUC'e Lovers!
+This is a wonderful map pack featuring the ever-popular YUC'e! Six great songs from her mapped by six of the osu!taiko mappers who have made her so popular in our community, including the ever so synonymous KinomiCandy! Each mapper has their own styles they bring to this genre of music, with Kinomi's focus on streams and simple 1/6 with Ninjas, and komasy with his focus on even numbered pattern and authentic style mapping. This is the ultimate package for YUC'e lovers!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
