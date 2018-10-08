@@ -131,14 +131,14 @@ osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/catch/my-time.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
-[bo en - my time](https://osu.ppy.sh/beatmapsets/563953#catch) by [-Plus-](https://osu.ppy.sh/users/829284)  
+[bo en - my time](https://osu.ppy.sh/beatmapsets/563953#fruits) by [-Plus-](https://osu.ppy.sh/users/829284)  
 *written by [Ascendance](https://osu.ppy.sh/users/2931883)*
 
 Coming straight from the "god damn it -Plus- please rank this" category, bo en's "my time" makes its way to Loved voting! An upbeat song combined with some... not-so-upbeat lyrics, the map provides the player with a best of both worlds experience. The slow parts keep the player engaged and remain interactive, and the kiais bring up the pace of the map to a point where it's not even comparative to the rest, so don't fall asleep! Don't let the preview point fool you, either. Some coordinated fingers for wiggles and precise catcher control will be needed to make your way through the last kiai! The entire experience is truly an amazing one, so stay attentive and enjoy the ride!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/catch/cloudsmasher.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
-[The Quick Brown Fox - Cloudsmasher](https://osu.ppy.sh/beatmapsets/57850#catch) by [ExGon](https://osu.ppy.sh/users/214187)  
+[The Quick Brown Fox - Cloudsmasher](https://osu.ppy.sh/beatmapsets/57850#fruits) by [ExGon](https://osu.ppy.sh/users/214187)  
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 Cloudsmasher is a time machine that will bring you back to the year 2012. It has everything you would expect of an oldstyle map—edgedashes, only a little amount of hypers, platewalks, difficult stream patterns, and the list goes on. Most of the old members in the community should know this map, and the osu!catch difficulty of the set is mapped by none other than ExGon. A timeless tour de force of osu!catch history which still has enough potential nowadays to be regarded as a fun and creative map. Of course, the name "ExGon's CTB Hell" is not for show—so be ready to struggle for a good combo and accuracy!
