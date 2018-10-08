@@ -18,7 +18,7 @@ To call an instance of a sprite (a still image) or an animation, use a single li
 
 Where:
 
--   **(layer)** is the **[layer](/wiki/Storyboard_Scripting/General_Rules) the object appears on.** Valid values are:
+-   **(layer)** is the **[layer](/wiki/Storyboard_Scripting/General_Rules#layers) the object appears on.** Valid values are:
     -   Background
     -   Fail
     -   Pass
