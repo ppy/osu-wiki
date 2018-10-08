@@ -175,7 +175,11 @@ Potentially not the most well-known, but definitely appreciated, Spaceman by wiz
 [osu!mania 7K Dan Course - Regular Dan Phase II](https://osu.ppy.sh/beatmapsets/451788) by [Jinjin](https://osu.ppy.sh/users/3360737)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-I know that a lot of you have been waiting for this moment, and here it is! It's time for the third batch of Jinjin's 7K Dans to hit the Loved voting!\\n\\nThis time around, we're featuring regular (rice) dans from 4th all the way up to 8th, that is five courses of carefully handpicked and balanced (with recharting done by Jinjin as well) for players to test their skills and possibly make another goal post in their efforts to improve further and further. This batch compared to the previous two which are already Loved is significantly harder, it's intended for already seasoned players, those who are aspiring to be close to the top in future. The balance and variety of the charts make it a really interesting challenge even if don't want to gauge your skill based on the Dans alone, for the best players it might even be a good Double Time challenge!\\n\\nYou've wanted this for a while, so there you go!
+I know that a lot of you have been waiting for this moment, and here it is! It's time for the third batch of Jinjin's 7K Dans to hit the Loved voting!
+
+This time around, we're featuring regular (rice) dans from 4th all the way up to 8th, that is five courses of carefully handpicked and balanced (with recharting done by Jinjin as well) for players to test their skills and possibly make another goal post in their efforts to improve further and further. This batch compared to the previous two which are already Loved is significantly harder, it's intended for already seasoned players, those who are aspiring to be close to the top in future. The balance and variety of the charts make it a really interesting challenge even if don't want to gauge your skill based on the Dans alone, for the best players it might even be a good Double Time challenge!
+
+You've wanted this for a while, so there you go!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/harajuku-iyahoi.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
