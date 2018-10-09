@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! “circles!” Remix Contest"
+title: "osu! "circles!" Remix Contest"
 permalink: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
 date: 2016-05-06 07:40:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
@@ -9,8 +9,7 @@ Do you like to make music? Do you want to get your creative work out there for o
 
 For the first contest, participants are challenged to make a remix of nekodex's "circles!". There are stems provided for circles! for use in this contest, which can be found [right here!](https://nekodex.net/dl/nekodex_-_circles!_(stems).zip). The original song is 184bpm for those who may need it.
 
-Rules
-=======
+## Rules
 
 - One submission per person.
 - The remix must be between 2 to 4 minutes in length.
@@ -21,8 +20,7 @@ Rules
 - Submitted mp3 must be 320kbps.
 - We may require proof that you were the creator of the entry, so don't throw away the project files.
 
-How do I submit my remix?
-========
+## How do I submit my remix?
 
 Easy! Just upload your remix somewhere such as SoundCloud or puush before heading on over to [the submission form](https://docs.google.com/forms/d/1qTbqGaswGQ_nd7ordi2qgDWtnezb0L-exVnDom5_mUc/viewform) and filling in the required fields. Be sure to double check all the rules before submitting to keep any issues you may have to a minimum!
 
@@ -30,13 +28,12 @@ The submission deadline for this contest is the [Saturday, 9 July 2016, 00:00:00
 
 We will not accept late entries, so make sure to get your entry submitted well before the deadline.
 
-What are the prizes?
-========
+## What are the prizes?
 
 There are two winner categories for this contest.
 
-Staff Vote 
-----------
+### Staff Vote
+
 The osu! staff (including cYsmix, nekodex, peppy) will decide on the grand prize winner.
 
 - Remix featured in osu!
@@ -44,8 +41,8 @@ The osu! staff (including cYsmix, nekodex, peppy) will decide on the grand prize
 - $250 osu!store credit (negotiable to gift card elsewhere).
 - Profile badge
 
-Community Vote
-----------
+### Community Vote
+
 All cleared entries will be up for public voting after the submission deadline for 2 weeks at which point the entry with the most votes will be selected.
 
 - $50 osu!store credit.

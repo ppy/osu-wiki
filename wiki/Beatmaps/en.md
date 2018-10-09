@@ -1,5 +1,7 @@
 # Beatmaps
 
+*Not to be confused with: [Difficulties](/wiki/Difficulties).*
+
 Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
 
 Beatmaps can be uploaded by the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
@@ -26,7 +28,7 @@ The approved status is typically for songs that are over five minutes in length 
 
 Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
-These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
 - No [pp](/wiki/pp) will be awarded.
 - All scores will be deleted when the status is changed.
@@ -69,4 +71,4 @@ These beatmaps were initally [pending](#pending), but are moved to this status b
 
 All graveyarded beatmaps do not affect user statistics.
 
-For the sake of saving digital space for newer beatmaps, *osu!* will purge graveyarded beatmaps if they have been in this status for a long period of time.
+For the sake of saving digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.

@@ -1,4 +1,7 @@
-Shortcut Key Reference (中文)
+---
+outdated: true
+---
+Shortcut Key Reference
 =================================
 
 以下是各种模式下可以使用的快捷键：

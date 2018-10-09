@@ -1,572 +1,767 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
-# Skinning osu!
+# osu!
 
-## Default numbers
+*Main page: [Skinning](/wiki/Skinning).*
 
-This may sound ambiguous/confusing, but this really is just the numbers used for the hitobjects.
+*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial).*
 
-On this note, you can use the skin.ini file to define the path for these images using the `HitCirclePrefix` command.
+## Comboburst
 
-### default-0.png
+`comboburst.png`
 
-![](fs/default-0.png)
+![](img/comboburst.png)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | - |
 
-- scaled down by 0.8x
+Notes:
 
-### default-1.png
+- To have multiple combobursts, use: `comboburst-{n}.png`.
+  - One of the images in the set will be appear when a combo milestone is met.
+- For v2.2-, this is osu!standard and osu!catch's combobursts.
+- For v2.3+, this is osu!standard's combobursts.
+- This can be disabled in the [options](/wiki/options).
+- This should face towards the right.
 
-![](fs/default-1.png)
+## Default Numbers
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+`default-0.png`
 
-- scaled down by 0.8x
+![](img/default-0.png)
 
-### default-2.png
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-![](fs/default-2.png)
+Notes:
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-- scaled down by 0.8x
+---
 
-### default-3.png
+`default-1.png`
 
-![](fs/default-3.png)
+![](img/default-1.png)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- scaled down by 0.8x
+Notes:
 
-### default-4.png
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-![](fs/default-4.png)
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+`default-2.png`
 
-- scaled down by 0.8x
+![](img/default-2.png)
 
-### default-5.png
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-![](fs/default-5.png)
+Notes:
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-- scaled down by 0.8x
+---
 
-### default-6.png
+`default-3.png`
 
-![](fs/default-6.png)
+![](img/default-3.png)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- scaled down by 0.8x
+Notes:
 
-### default-7.png
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-![](fs/default-7.png)
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+`default-4.png`
 
-- scaled down by 0.8x
+![](img/default-4.png)
 
-### default-8.png
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-![](fs/default-8.png)
+Notes:
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-- scaled down by 0.8x
+---
 
-### default-9.png
+`default-5.png`
 
-![](fs/default-9.png)
+![](img/default-5.png)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- scaled down by 0.8x
+Notes:
 
-## Hitcircle
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-### approachcircle.png
+---
 
-![](fs/approachcircle.png)
+`default-6.png`
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 126x126      | Multiplicative&sup1; |
+![](img/default-6.png)
 
-1. this element is tinted with the combo colours
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
+Notes:
 
-- this element shrinks over time
-- this is the visual cue that can help a player know when to tap the hitobject
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-### hitcircle.png
+---
 
-![](fs/hitcircle.png)
+`default-7.png`
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Multiplicative&sup1; |
+![](img/default-7.png)
 
-1. this element is tinted with the combo colours
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-### hitcircleoverlay.png
+Notes:
 
-![](fs/hitcircleoverlay.png)
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | 118x118      | Normal      |
+---
 
-1. animation rate: 2FPS (4FPS max)
-   - this rate is affected by the game modifiers (half time and double time/nightcore)
+`default-8.png`
 
+![](img/default-8.png)
 
-- animation name: `hitcircleoverlay-#.png`, replace # with indexed count (start count at zero)
-- this can either overlay or underlay the combo number, by default this will always overlay
-  - to make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-### hitcircleselect.png
+Notes:
 
-![](fs/hitcircleselect.png)
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 126x126      | Normal     |
+---
 
-- used only in the editor
-- this is the highlight for hitcircles and sliders
+`default-9.png`
 
-### followpoint.png
+![](img/default-9.png)
 
-![](fs/followpoint.png)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal      |
+Notes:
 
-- the arrow should point towards the RIGHT
-- this stays on the screen for 1.2 seconds (1200ms)
+- In v1.0, these expanded then fades out with the hit circle.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+- In v2.0+, these fade out.
+- This element is downscaled by 0.8x
 
-### lighting.png
+## Hit circles
 
-![](fs/lighting.png)
+`approachcircle.png`
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode     |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------:|
-| ![No][false] | ![Yes][true]      | all&sup1;       | Centre       | 100x100      | Additive&sup2; |
+![](img/approachcircle.png)
 
-1. v2.0+ has smaller expansion ratios
-2. this element is tinted with the combo colours
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 126x126 |
 
+Notes:
 
-- this can be disabled in the options
-- used during kiai time
-  - coloured afterimage as part of hitburst explosion
-  - glowing behind hitcircles during kiai time
-- this element is also used in osu!taiko and osu!catch
+- Tinting depends on the hit circle's combo colour.
+- This element shrinks over time.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this element will not be used.
+    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/options).
+- Should be a circle.
+
+---
+
+`hitcircle.png`
+
+![](img/hitcircle.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+
+Notes:
+
+- This element fades in before getting tapped and expands when tapped or missed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+- Tinting depends on the hit circle's combo colour.
+- Also used for `sliderstartcircle` and/or `sliderendcircle` if not skinned.
+- Should be a circle.
+
+---
+
+`hitcircleoverlay.png`
+
+![](img/hitcircleoverlay.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
+
+Notes:
+
+- Animation name: `hitcircleoverlay-{n}.png`
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- This element fades in before getting tapped and expands when tapped or missed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+- This can either overlay or underlay the combo number, by default this will always overlay.
+  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
+- Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
+- Should be a circle.
+
+---
+
+`hitcircleselect.png`
+
+![](img/hitcircleselect.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 |
+
+Notes:
+
+- This element is only used in the [beatmap editor](/wiki/beatmap_editor).
+- Should be a circle.
+
+---
+
+`followpoint.png`
+
+![](img/followpoint.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+
+Notes:
+
+- Animation name: `followpoint-{n}.png`
+- If an arrow-like figure is used, it should point towards the right.
+- This stays on the screen for 1.2 seconds (1200ms).
+
+---
+
+`lighting.png`
+
+![](img/lighting.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 |
+
+Notes:
+
+- This can be disabled in the [options](/wiki/options).
+- Tinting depends on the hit circle's combo colour.
+- Used during kiai time:
+  - Coloured afterimage as part of hitburst explosion.
+  - Glowing behind hit circles during kiai time.
+- This element is also used in [osu!taiko](/wiki/osu!taiko) and [osu!catch](/wiki/osu!catch).
+- In v2.0+, the expanding animation is smaller.
 
 ## Slider
 
-### sliderstartcircle.png
+`sliderstartcircle.png`
 
-_(transparent; not included)_
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Multiplicative&sup1; |
+Notes:
 
-1. this element is tinted with the combo colours
+- Overrides `hitcircle.png` for the start of the slider, if skinned.
+- This element is the hit circle for the start of the slider.
+- This element fades in before getting tapped and expands when tapped or missed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+- Should be a circle.
 
+---
 
-- not for Stable (Fallback) stream
-- overrides the `hitcircle.png` image for the start of the slider
-- this is the hitcircle for the start of the slider
+`sliderstartcircleoverlay.png`
 
-### sliderstartcircleoverlay.png
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
 
-_(transparent; not included)_
+Notes:
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | 118x118      | Normal      |
+- Animation name: `sliderstartcircleoverlay-{n}.png`
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- This element fades in before getting tapped and expands when tapped or missed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+- This can either overlay or underlay the combo number, by default this will always overlay.
+  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
+- Overrides the `hitcircle.png` image for the start of the slider.
+- `sliderstartcircle.png` is required for this to work.
+- Should be a circle.
 
-1. animation rate: 2FPS (4FPS max)
-   - this rate is affected by the game modifiers (half time and double time/nightcore)
+---
 
+`sliderendcircle.png`
 
-- animation name: `sliderstartcircleoverlay-#.png`, replace # with indexed count (start count at zero)
-- not for Stable (Fallback) stream
-- overrides the `hitcircle.png` image for the start of the slider
-- needs `sliderstartcircle.png` for this to work
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
 
+Notes:
 
-### sliderendcircle.png
+- Overrides `hitcircle.png` for the start of the slider, if skinned.
+- This element is the hitcircle for the end of the slider.
+- This element fades in before completing and expands when completed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before completing and only fade out.
+- Should be a circle.
 
-_(transparent; not included)_
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Multiplicative&sup1; |
+`sliderendcircleoverlay.png`
 
-1. this element is tinted with the combo colours
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
 
+Notes:
 
-- not for Stable (Fallback) stream
-- overrides the `hitcircle.png` image for the end of the slider
-- this is the hitcircle for the end of the slider
+- Animation name: `sliderendcircleoverlay-#.png`, replace # with indexed count (start frame count at zero)
+- Animation rate: 2 FPS (4 FPS max).
+  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- This element fades in before completing and expands when completed.
+  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before completing and only fade out.
+- This can either overlay or underlay the combo number, by default this will always overlay.
+  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
+- Overrides the `hitcircle.png` image for the start of the slider.
+- `sliderendcircle.png` is required for this to work.
+- Should be a circle.
 
-### sliderendcircleoverlay.png
+---
 
-_(transparent; not included)_
+`reversearrow.png`
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | 118x118      | Normal      |
+![](img/reversearrow.png)
 
-1. animation rate: 2FPS (4FPS max)
-   - this rate is affected by the game modifiers (half time and double time/nightcore)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 |
 
+Notes:
 
-- animation name: `sliderendcircleoverlay-#.png`, replace # with indexed count (start count at zero)
-- not for Stable (Fallback) stream
-- overrides the `hitcircle.png` image for the end of the slider
-- needs `sliderendcircle.png` for this to work
+- osu! will rotate this element to line up with the slider's path.
+- This element will pulse at the bpm.
+- If an arrow-like figure is used, it should point towards the right.
 
-### reversearrow.png
+---
 
-![](fs/reversearrow.png)
+`sliderfollowcircle.png`
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Normal      |
+![](img/sliderfollowcircle.png)
 
-- osu! will rotate this element to follow sliderpath
-- this element will pulse at the bpm
-- the arrow should point towards the RIGHT
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 256x256 (see notes) |
 
-### sliderfollowcircle.png
+Notes:
 
-[![](pr/sliderfollowcircle.png)](fs/sliderfollowcircle.png "Click to view full size")
+- Animation name: `sliderfollowcircle-{n}.png`
+- Max size: 308x308 (hitbox)
+- This element expands briefly when collecting a slider tick.
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode  |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:-----------:|
-| ![Yes][true] | ![Yes][true]      | all             | Centre       | 256x256      | Normal      |
+---
 
-- animation name: `sliderfollowcircle-#.png`, replace # with indexed count (start count at zero)
-- this element expands when collecting a slidertick
+`sliderb.png`
 
-### sliderb.png
+![](img/sliderb.gif)
 
-![](fs/sliderb0.png "sliderb0.png")
-![](fs/sliderb1.png "sliderb1.png")
-![](fs/sliderb2.png "sliderb2.png")
-![](fs/sliderb3.png "sliderb3.png")
-![](fs/sliderb4.png "sliderb4.png")
-![](fs/sliderb5.png "sliderb5.png")
-![](fs/sliderb6.png "sliderb6.png")
-![](fs/sliderb7.png "sliderb7.png")
-![](fs/sliderb8.png "sliderb8.png")
-![](fs/sliderb9.png "sliderb9.png")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Multiplicative | Centre | 118x118 |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![Yes][true] | ![Yes][true]      | all             | Centre       | 118x118      | Multiplicative&sup1; |
+Notes:
 
-1. tinted with combo colours
-   - this can be disabled in the options
-     - if disabled in the skin, this setting will do nothing
-   - this can be disabled by setting `AllowSliderBallTint` to `0`
-     - if disabled in the options, this command will do nothing
+- Animation name: `sliderb{n}.png` (no hyphen (`-`))
+- Tinting depends on the hit circle's combo colour.
+- By default, the sliderball flips upon hitting the reverse arrow.
+  - To disable this, set `sliderballflip` to `0`.
 
+---
 
-- animation name: `sliderb#.png`, replace # with indexed count (start count at zero)
-- by default, the sliderball flips upon hitting the reverse arrow
-  - to disable this, set `sliderballflip` to `0`
+`sliderb-nd.png`
 
-### sliderb-nd.png
+![](img/sliderb-nd.png)
 
-![](fs/sliderb-nd.png)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] (see notes) | Multiplicative | Centre | 118x118 |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Multiplicative&sup1; |
+Notes:
 
-1. tinted black
+- Ignored if `sliderb.png` is skinned.
+  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
+- Tinted black.
+- This element is the background layer of the default slider ball.
 
+---
 
-- not skinnable if `sliderb.png` is skinned
+`sliderb-spec.png`
 
-### sliderb-spec.png
+![](img/sliderb-spec.png)
 
-![](fs/sliderb-spec.png)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] (see notes) | Additive | Centre | 118x118 |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode     |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | 118x118      | Additive&sup1; |
+Notes:
 
-- not skinnable if `sliderb.png` is skinned
-- used during kiai time
-  - this is the lighting layer of the default sliderball
+- Ignored if `sliderb.png` is skinned.
+  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
+- This element is the top layer of the ball that stays in a static position (does not flip nor rotate).
 
-### sliderpoint10.png
+---
 
-_(transparent; not included)_
+`sliderpoint10.png`
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]&sup1; | 1.0             | Centre       | 50x30        | Normal     |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 |
 
-1. if included in a beatmap skin, the end user must be using a skin that uses version 1.0
+Notes:
 
+- Beatmap Skinnable if the player skin is using v1.0.
+- Used when the player collects a slider tick.
+- Should say "10".
 
-- used when the player collects a slidertick
+---
 
-### sliderpoint30.png
+`sliderpoint30.png`
 
-_(transparent; not included)_
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 |
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]&sup1; | 1.0             | Centre       | 50x30        | Normal     |
+Notes:
 
-1. if included in a beatmap skin, the end user must be using a skin that uses version 1.0
+- Beatmap Skinnable if the player skin is using v1.0.
+- Used when the player starts a slider and/or when they hit the reverse arrow.
+- Should say "30".
 
+---
 
-- used when the player starts a slider or when they hit the reverse arrow
+`sliderscorepoint.png`
 
-### sliderscorepoint.png
+![](img/sliderscorepoint.png)
 
-![](fs/sliderscorepoint.png)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 16x16 |
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]&sup1; | all             | Centre       | 16x16        | Normal     |
+Notes:
 
-- these are the sliderticks
-- if these overlap the slider start or end, they will he _hidden_
-- this element is also used in osu!taiko
+- This element is the slider tick.
+- If this element is overlapping the slider start or end, it will not be rendered.
+- This element is also used in [osu!taiko](/wiki/osu!taiko).
 
 ## Spinner
 
-**It is important to know that you cannot mix the old and the new spinner styles!**
+*Notice: You cannot mix the old and new spinner styles!*
 
-### spinner-background.png
+---
 
-[![](pr/spinner-background.png)](fs/spinner-background.png "Click to view full size")
+`spinner-approachcircle.png`
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]       | all&sup1;       | Centre&sup2; | 1024x702     | Multiplicative&sup3; |
+![](img/spinner-approachcircle.png)
 
-1. if skinned, this will force "old" styled spinners on v2.0+ (this element is used)
-2. positioned around 397px vertically
-3. tinted grey, by default
-   - to change this, use the `SpinnerBackground` command in the skin.ini file
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 384x384 |
 
+Notes:
 
-- **old** spinner set
+- This element is positioned around 397px vertically.
+- Applied to both styles.
+- Shrinks over time, like `approachcircle.png`
+- Usage is forced when `spinner-circle.png` or `spinner-top.png` is skinned.
+- This element is also used for [osu!taiko](/wiki/osu!taiko).
 
-### spinner-circle.png
+---
 
-[![](pr/spinner-circle.png)](fs/spinner-circle.png "Click to view full size")
+`spinner-rpm.png`
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]       | all&sup1;       | Centre&sup2; | -            | Normal     |
+![](img/spinner-rpm.png)
 
-1. if `spinner-background.png` is skinned, this element is used
-2. positioned around 397px vertically
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 280x56 |
 
+Notes:
 
-- this is the rotating part of the spinner
-- **old** spinner set
+- RPM is short for "Revolutions Per Minute"
+- This element is positioned at 139px to the left from the middle of the screen and at 712px height
+  - (373,712) at 1024x768
+  - (544,712) at 1366x768
 
-### spinner-metre.png
+---
 
-[![](pr/spinner-metre.png)](fs/spinner-metre.png "Click to view full size")
+`spinner-clear.png`
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]       | all&sup1;       | Centre&sup1; | 1024x692     | Normal     |
+![](img/spinner-clear.png)
 
-1. positioning:
-   - 46px away from top
-   - 512px to the left from the middle axis
-   - (0,46) at 1024x768
-   - (171,46) at 1366x768
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
+Notes:
 
-- **old** spinner set
+- This element is positioned around 230px vertically.
+- This appears when the player has fulfilled the spinner.
 
-### spinner-osu.png
+---
 
-[![](pr/spinner-osu.png)](fs/spinner-osu.png "Click to view full size")
+`spinner-spin.png`
 
-| Animatable   | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]&sup1; | 1.0             | Centre&sup2; | -            | Normal     |
+![](img/spinner-spin.png)
 
-1. if included in a beatmap skin, the end user must be using a skin that uses version 1.0
-2. positioned around 288px vertically
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- appears after the spinner fades out
-- **old** spinner set
+Notes:
 
-### spinner-bottom.png
+- This element is positioned around 582px vertically.
+- This appears at the start of a spinner.
 
-[![](pr/spinner-bottom.png)](fs/spinner-bottom.png "Click to view full size")
+### Spinner (old)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Normal     |
+`spinner-background.png`
 
-1. positioned around 397px height
+![](img/spinner-background.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 1024x702 (see notes) |
 
-- rotates the slowest
-- second lowest layer
-- **new** spinner set
+Notes:
 
-### spinner-glow.png
+- **osu! is watching for this element.** If found, it will force the old styled spinners on v2.0+ (all elements in this section).
+- Using the suggested SD size will help alignment with `spinner-metre.png`.
+- By default, tinted grey.
+  - To change this, use the `SpinnerBackground` command.
 
-[![](pr/spinner-glow.png)](fs/spinner-glow.png "Click to view full size")
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Multiplicative&sup2; |
+`spinner-circle.png`
 
-1. positioned around 397px height
-2. this element is tinted cyan and blinks white when bonus points are awarded
+![](img/spinner-circle.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-- blinks when giving bonus points
-- lowest layer
-- **new** spinner set
+Notes:
 
-### spinner-middle.png
+- This element is positioned around 397px vertically.
+- This element is the rotating part of the spinner.
+- This element is also used for [osu!taiko](/wiki/osu!taiko).
+  - If using the new spinner style, you can still skin this for osu!taiko.
 
-[![](pr/spinner-middle.png)](fs/spinner-middle.png "Click to view full size")
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode           |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:--------------------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Multiplicative&sup2; |
+`spinner-metre.png`
 
-1. positioned around 397px height
-2. tinted white, fades into red over time
+![](img/spinner-metre.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 1024x692 |
 
-- tintes read over time (this is the time indicator)
-- highest layer
-- **new** spinner set
+Notes:
 
-### spinner-middle2.png
+- Positioned 46px away from top and 512px to the left from the middle axis.
+  - (0,46) at 1024x768 and (171,46) at 1366x768.
+- This element is the progression bars
+- The highest part of the bar will blink when bonus points are awarded.
+  - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/skin.ini)
 
-[![](pr/spinner-middle2.png)](fs/spinner-middle2.png "Click to view full size")
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Normal     |
+`spinner-osu.png`
 
-1. positioned around 397px height
-2. tinted white, fades into red over time
+![](img/spinner-osu.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | - |
 
-- rotates the fastest
-- second highest layer
-- **new** spinner set
+Notes:
 
-### spinner-top.png
+- Beatmap Skinnable if the player skin is using v1.0.
+- This appears after the spinner fades out.
 
-[![](pr/spinner-top.png)](fs/spinner-top.png "Click to view full size")
+### Spinner (new)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Normal     |
+`spinner-glow.png`
 
-1. positioned around 397px height
-2. tinted white, fades into red over time
+![](img/spinner-glow.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Additive | Centre | - |
 
-- rotates the second fastest (slower than `spinner-middle2.png`)
-- middle layer
-- **new** spinner set
+Notes:
 
-### spinner-approachcircle.png
+- This element is positioned around 397px vertically.
+- Tinted cyan, blinks white when bonus points are awarded
+- This blinks when awarding bonus points.
+- This element is the lowest layer.
 
-[![](pr/spinner-approachcircle.png)](fs/spinner-approachcircle.png "Click to view full size")
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | 384x384      | Normal     |
+`spinner-bottom.png`
 
+![](img/spinner-bottom.png)
 
-### spinner-rpm.png
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-[![](pr/spinner-rpm.png)](fs/spinner-rpm.png "Click to view full size")
+Notes:
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point  | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:-------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | TopLeft&sup1; | 280x56       | Normal     |
+- This element is positioned around 397px vertically.
+- This rotates the slowest.
+- This element is the second lowest layer.
 
-1. positioning:
-   - positioned 139px from the left from screen middle at 712px vertically
-   - (373,712) at 1024x768
-   - (544,712) at 1366x768
+---
 
-- this is the window that displays the current spinning speed
-- RPM = Revolutions Per Minute
-  - Revolutions = full (circular) spin
+`spinner-top.png`
 
-### spinner-clear.png
+![](img/spinner-top.png)
 
-[![](pr/spinner-clear.png)](fs/spinner-clear.png "Click to view full size")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Normal     |
+Notes:
 
-1. positioned around 230px height
+- This element is positioned around 397px vertically.
+- This rotates the second fastest (slower than `spinner-middle2.png`).
+- This element is the middle layer.
 
+---
 
-- this notifies the player that the spinner was cleared
-- this implies that the player should keep spinning for bonus points
+`spinner-middle2.png`
 
-### spinner-spin.png
+![](img/spinner-middle2.png)
 
-[![](pr/spinner-spin.png)](fs/spinner-spin.png "Click to view full size")
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | 2.0+            | Centre&sup1; | -            | Normal     |
+Notes:
 
-1. positioned around 582px height
+- This element is positioned around 397px vertically.
+- This rotates the fastest.
+- This element is the second highest layer.
 
+---
 
-- this appears at the start of a spinner
-- this notifies the player that any spins from this point will be counted
+`spinner-middle.png`
+
+![](img/spinner-middle.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Multiplicative | Centre | - |
+
+Notes:
+
+- This element is positioned around 397px vertically.
+- Tinted red over time (this is the time indicator).
+- This element is the highest layer.
+
+## Particles
+
+`particle50.png`
+
+![](img/particle50.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+
+Notes:
+
+- `hit50.png` must be skinned.
+
+---
+
+`particle100.png`
+
+![](img/particle100.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+
+Notes:
+
+- `hit100.png` must be skinned.
+- This element is used for `hit100.png` and `hit100k.png`.
+
+---
+
+`particle300.png`
+
+![](img/particle300.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+
+Notes:
+
+- `hit300.png` must be skinned.
+- This element is used for `hit300`, `hit300g`, and `hit300k`.

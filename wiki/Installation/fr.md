@@ -1,4 +1,7 @@
-Installation (Français)
+---
+outdated: true
+---
+Installation
 ======================
 
 Cette page explique comment faire fonctionner osu! sur votre ordinateur et propose quelques solutions en cas de problèmes.

@@ -291,8 +291,8 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 **×2** bedeutet, dass das Land 2 volle Teams hatte.
 
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

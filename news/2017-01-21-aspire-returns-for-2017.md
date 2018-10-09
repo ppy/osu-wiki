@@ -18,17 +18,19 @@ It is now time for a third person to join their ranks, or perhaps for one of the
 
 Think you have what it takes?
 
-We'll see.<br><br><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=947483760/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1733120727/transparent=true/" seamless><a href="http://helblinde.bandcamp.com/album/ephemerality">Ephemerality by Helblinde</a></iframe>
+We'll see.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=947483760/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1733120727/transparent=true/" seamless><a href="http://helblinde.bandcamp.com/album/ephemerality">Ephemerality by Helblinde</a></iframe>
 
 The song choice for this contest is from [Helblinde](https://new.ppy.sh/beatmaps/artists/5), one of our earlier featured artists. A new release from his latest album, [Ephemerality](https://helblinde.bandcamp.com/album/ephemerality), **The Solace of Oblivion** takes the reins as the grand encounter for anyone brave enough to try.
 
-You will be tested. This Aspire is not like any other. 
+You will be tested. This Aspire is not like any other.
 
 Nearly **six minutes** of twisted, weaving rhythm paints an open and sprawling vista for skilled mappers to truly make their talent be known. Everything from composition, to theme, to patterning will need to be considered in order to make this herculean duration work for you, rather than against you.
 
 This map is long - some may say *too* long, but they are simply the minds closed to the potential that lengthier maps bring to the table. From fabled mapsets such as [*Near Distant Future*](http://osu.ppy.sh/s/97433), [*United*](http://osu.ppy.sh/s/237768) and [*The Pretender*](http://osu.ppy.sh/s/79498), mappers and players alike have cut their teeth on the extreme challenge that both mapping and playing these masterpieces require.
 
-A true test of beatmapping skill. 
+A true test of beatmapping skill.
 
 The rules are thus:
 
@@ -50,7 +52,7 @@ The top 2 maps voted for shall receive the following prizes:
 
 Entries will remain open for only **32 days** from the date of this post. Time is of the essence. Check the contest listing for a handy countdown timer.
 
-Remember, use **everything** at your disposal. Storyboards, hitsounding, timing points - everything that the game gives you is at your fingertips to be used. 
+Remember, use **everything** at your disposal. Storyboards, hitsounding, timing points - everything that the game gives you is at your fingertips to be used.
 
 This is no ordinary beatmapping contest - even among Aspire contests, this is something completely new. Don't submit ordinary beatmaps if you want to win!
 

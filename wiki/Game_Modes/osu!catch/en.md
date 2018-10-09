@@ -15,10 +15,10 @@
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 
 <!-- image -->
-[osu!catch logo]: /wiki/shared/CtB_logo.jpg "Catch the Beat logo in Special Mode"
+[osu!catch logo]: /wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode"
 
 <!-- shared image -->
-[osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
 [osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS"
 [Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"

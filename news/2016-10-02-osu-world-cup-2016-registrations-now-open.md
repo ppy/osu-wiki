@@ -8,12 +8,12 @@ tumblr_url: http://osunews.tumblr.com/post/151233326878/osu-world-cup-2016-regis
 We'd like to welcome all of you to this year's official osu! World Cup. As in every year, the rules have been adjusted from the previous OWC, so please **[read them carefully](http://osu.ppy.sh/wiki/OWC_2016#Ruleset)** before registering for this tournament.
 <!-- more -->
 
-<center><img src="https://puu.sh/ru4PG/905269a358.png"></center>
+![](https://puu.sh/ru4PG/905269a358.png)
 
 For more details, refer to the **[osu! World Cup 2016 wiki article](http://osu.ppy.sh/wiki/OWC_2016)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/p/5513998)**.
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 02 Oct - 16 Oct 2016
 + Live Drawings: 04 Nov 2016 12:00 UTC+0
@@ -24,7 +24,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + Finals - Week 1: 10-11 Dec 2016
 + Finals - Week 2: 17-18 Dec 2016
 
-##What has been changed?
+## What has been changed?
 
 + We added clearer regulations regarding disconnects and inappropriate behavior during the matches.
 + We changed our prize pool to offer unique and exclusive merchandise to all of our podium winners, giving the winners something more special, rewarding and outstanding when competing against the best of the best.
@@ -32,7 +32,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + We adjusted the ban amounts for balancing purposes. Teams may only ban 1 beatmap each per match now.
 + Along with opening up the new World Cup season, the graphic design has been renewed to give everything a fresh touch.
 
-##Prizes
+## Prizes
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
@@ -40,10 +40,10 @@ We plan to distribute exclusive and unique merchandise to all our podium winners
 + 2nd: exclusive and unique merchandise, profile badge
 + 3rd: exclusive and unique merchandise, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://new.ppy.sh/tournaments/7)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
++ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **16. October 2016.**
 
 Note that you can only participate if you are of a **osu! global ranking of #5000 or higher and did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.

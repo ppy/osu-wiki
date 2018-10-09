@@ -1,7 +1,7 @@
 Commands
 ==========
 
-Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
+Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
 A command under an object declaration looks like:
 
@@ -50,13 +50,15 @@ where:
 -   (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
 -   (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
+In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
+
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
 ![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
-Basic command
+Basic commands
 -------------------
 
-These are the fundamental command for any object. The command are easy to use and only requires minor calculation.
+These are the fundamental commands for any object. The commands are easy to use and only requires minor calculation.
 
 ### Fade (F) Command
 
@@ -86,7 +88,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _F,0,1000,3000,1,1
 ```
 
-See the shorthand section for an explanation of how to shorten this last line to just:
+See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explanation of how to shorten this last line to just:
 
 `_F,0,1000,3000,1`
 
@@ -96,7 +98,7 @@ See the shorthand section for an explanation of how to shorten this last line to
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are not allowed. | An (x,y) position, as specified above. Decimals are not allowed. |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
 
@@ -141,10 +143,10 @@ So,
 -   x-coordinate: 320
 -   y-coordinate: (240 overwritten with) -100 -> 580
 
-Advanced command
+Advanced commands
 -----------------
 
-These are extra command for an object to use. These command are quite advanced, so consult with others or experiment yourself before use.
+These are extra commands for an object to use. These commands are quite advanced, so consult with others or experiment yourself before use.
 
 ### Scale (S) Command
 
@@ -197,8 +199,8 @@ So,
 
 where:
 
--   (start_rotate) is the scale factor at starttime
--   (end_rotate) is the scale factor at endtime
+-   (start_rotate) is the rotation at starttime
+-   (end_rotate) is the rotation at endtime
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
@@ -220,28 +222,28 @@ _R,0,47210,47810,0,-25.133
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The virtual light source color on the object. The colors of the pixels on the object are determined subtractively. | A color triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
+| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:
 
--   (start_r),(start_g),(start_b) is the color at starttime
--   (end_r),(end_g),(end_b) is the scale factor at endtime
+-   (start_r),(start_g),(start_b) is the colour at starttime
+-   (end_r),(end_g),(end_b) is the colour at endtime
 
-For example, to make an object appear as a shadow (entirely black) and fade into its actual color:
+For example, to make an object appear as a shadow (entirely black) and fade into its actual colour:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-To make something appear in (span style="background:#CCCC00")this yellow color(/span):
+To make something appear in (span style="background:#CCCC00")this yellow colour(/span):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,CC,CC,0
 ```
 
-Extra command
+Extra commands
 -----------------
 
 ### Parameter (P) Command
@@ -254,7 +256,7 @@ where (parameter) is one of the following:
 
 -   "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
 -   "V" - flip the image vertically. [Vertical Flip]
--   "A" - use additive-color blending instead of alpha-blending
+-   "A" - use additive-colour blending instead of alpha-blending
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
 

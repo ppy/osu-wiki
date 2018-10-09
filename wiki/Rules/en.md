@@ -6,11 +6,12 @@ These rules are the basis from which we help keep the osu! community a fun and w
 Community Rules
 ---------------
 
-1.  **Each player may only have *ONE* account at any point of time.** This account is you. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else.
-2.  **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
-3.  **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-4.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
-5.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
+1.  **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
+3.  **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
+4.  **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
+5.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+6.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
 In-Game Chat Rules
 ------------------
@@ -22,7 +23,7 @@ In-Game Chat Rules
 5.  **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
 6.  **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
 7.  **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
-8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about _osu!_ foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
+8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9.  **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
 Forum-wide rules
@@ -43,7 +44,7 @@ These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submis
 
 A set of more detailed rules for beatmap construction exists, known as the [Ranking Criteria](/wiki/Ranking_Criteria).
 
-1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hit sounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) listing, all 100% licensed for use in _osu!_.
+1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hit sounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) listing, all 100% licensed for use in osu!.
 2.  **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3.  **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 

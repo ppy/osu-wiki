@@ -23,7 +23,7 @@
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
-[osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
+[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
 [osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "osu! hit circles"
 [osu_slider image]: /wiki/shared/osu_slider.jpg "osu! Slider"
 [osu_spinner image]: /wiki/shared/osu_spinner.jpg "osu! Spinner"
@@ -304,7 +304,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 
 **The following will result in health recovery:-**
 
-- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a color combo awards more health).
+- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health).
 - A successful tap on a slider start.
 - The slider ball collected a slider tick successfully.
 - The slider ball touched the end or a reverse arrow of a slider successfully (better judgement at the end tick leads to more health gain).
@@ -352,7 +352,7 @@ _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 - Smoke last longer than default in-game cursor trail.
   Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi][Mascots#pippi wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!_.
+- When played by [Auto][Auto wikilink], the player name will be osu!.
 
 ### History
 

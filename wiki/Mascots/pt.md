@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 Mascotes do osu!

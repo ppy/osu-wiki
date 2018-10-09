@@ -1,44 +1,18 @@
-Osiągnięcia
-============
+Medale
+======
 
-**Osiągnięcia** to odznaki pojawiające na profilach tych, którzy ukończyli określone zadanie. Obecnie, osiągnięcia są podzielone na 5 grupy.
+Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
+Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
 
 Beatmap Packs
----------------
+-------------
 
-Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](https://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/osu!).
+Medale **The Beatmap Packs** są przyznawane za **zagranie dowolnego poziomu trudności w każdej beatmapie** znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
+Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!standard](/wiki/osu!standard).
 
-Obecnie mamy 16 osiągnięć w tej grupie, które są podzielone na 4 sekcje:
+Na obecną chwilę w tej grupie istnieje 16 medali, które są podzielone na 4 sekcje: Video Game, Anime, Internet! oraz Rhythm Game.
 
--   Video Game Pack
--   Anime Pack
--   Internet! Pack
--   Rhythm Game Pack
-
-Każda z tych sekcji ma obecnie po 4 zestawy.
-
-### Wymagania i uwagi dotyczące zdobywania tych osiągnięć
-
-#### Wymagania:
- -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](https://osu.ppy.sh/p/packlist?t=t).                                                       
- -   Trybem musi być [osu!standard](/wiki/Game_Modes/osu!).  
- -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!
-     -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.
-     -   Możesz także pobierać każdą beatmapę oddzielnie i nadal będzie się to liczyło.
- -   Inne wersje tej samej piosenki nie będą liczone. MUSI być to specyficzna piosenka zmapowana przez specyficzną osobę.
- -   Musisz być zalogowany w grze. Zalogowanie na stronie, ale nie w grze nie będzie liczone.   
- -   Nie można używać modyfikatorów rozgrywki które powodują że rozgrywka jest nierankingowa (na przykład Relax). Używaj innych modyfikatorów jak chcesz.
-
-#### Uwagi:
- -   Po ukończeniu osiągnięcia, możesz skasować osiągnięcia danej paczki. Twoje osiągnięcie oraz wynik zostaną. Jeżeli chcesz poprawić swój wynik, będzie trzeba pobrać beatmapę od początku.
- -   Jeżeli dziwisz się dlaczego osiągnięcie nie zostało otrzymane i czujesz że jakaś beatmapa została przez ciebie pominięta, możesz to sprawdzić [tutaj](https://osu.ppy.sh/p/packlist?t=t). Ukończona beatmapa będzie oznaczona napisem **CLEARED**.  
- -   Osiągnięcie otrzymasz dopiero po ukończenie wszystkich beatmap z paczki.
-     -   Wpierw zaczekaj aż twój wynik zostanie zatwierdzony. Chyba nie chcesz powtarzać tej samej beatmapy, prawda?
- -   Zaleca się używanie Kalibratora Opóźnienia. Beatmapy są stare i część obiektów może pojawiać się za wcześnie lub za późno.
-
-#### Specjalne:
-
- -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
+Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -47,18 +21,35 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 | ![Video Game Pack vol.3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
+### Wymagania
+
+- Gracz musi ukończyć dowolny poziom trudności każdej beatmapy znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
+- Liczy się tylko tryb osu!standard.
+- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`. 
+  Następnie włącz klienta gry i pozwól, aby przetworzył on wszystkie beatmapy.
+  - Gracz może pobrać ręcznie wszystkie beatmapy z paczki i będzie się to liczyć.
+- Inne wersje tej samej piosenki nie będą liczone.
+- Gracz musi być zalogowany w kliencie gry (nie na stronie osu!).
+
+### Ważne
+
+- Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych.
+- Beatmapa może zostać bez żadnych skutków usunięta po tym, jak pojawi się status **`ukończona`** na [liście paczek beatmap](https://osu.ppy.sh/p/packlist?t=t).
 
 Skill
-------
+-----
 
-Osiągnięcia **Skill** są obecnie podzielone na dwie grupy: **Combo** oraz **High Ranked**.
+Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
 
-Osiągnięcia **The Combo** mogą zostać otrzymane poprzez ukończenie beatmapy ze specyficznym [Combo](/wiki/Glossary) w trybie osu!standard.
-Zdobycie takiego combo w trybie Taiko, CTB czy osu!mania **nie** odblokuje nam osiągnięcia.
+Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/combo) w trybie osu!standard na dowolnej beatmapie.
+Uzyskanie takiego samego combo w trybach [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) czy [osu!mania](/wiki/osu!mania) nie będzie zaliczać się na medal.
 
-Aby odblokować osiągnięcia 1000 czy 2000 combo, zalecamy zagranie beatmap zatwierdzonych zamiast rankingowych. Nie szukaj beatmap niezatwierdzonych.
+Dla medali 1000 i 2000 combo zaleca się wyszukiwanie beatmap zatwierdzonych zamiast rankingowych.
+Jednakże, **nie próbuj szukać bądź grać beatmap nierankingowych!**
 
-Osiągnięcia **The High Ranker** mogą zostać otrzymane poprzez zdobycie określonej pozycji w globalnym rankingu. Tryb gry może być **dowolny**.
+---
+
+Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w rankingu globalnym w **dowolnym** trybie gry.
 
 | Combo | The High Ranker |
 | :---: | :-------------: |
@@ -67,22 +58,56 @@ Osiągnięcia **The High Ranker** mogą zostać otrzymane poprzez zdobycie okre�
 | ![1000 Combo (any song)](img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](img/all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
+---
+
+Medale Star-based są podzielone na dwie grupy: _Pass_ oraz _S_.
+Medale _Pass_ są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
+Medale _S_ są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
+Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
+Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
+Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
+Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale także dla liczby gwiazdek od jednej do siedmiu.
+
+| osu!standard | osu!taiko | osu!catch | osu!mania |
+| :----------: | :-------: | :-------: | :-------: |
+| ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
+| ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
+
 Dedication
------------
+----------
 
-Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/osu!catch) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/osu!taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/osu!mania).
+Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!standard, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
 
-| Standard | Taiko | Catch the Beat | Mania |
-| :------: | :---: | :------------: | :---: |
-| ![5,000 Plays (osu! mode)](img/osu-plays-5000.png "5,000 Plays (osu! mode)") | ![30,000 Drum Hits](img/taiko-hits-30000.png "30,000 Drum Hits") | ![Catch 20,000 fruits](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![40,000 Keys](img/mania-hits-40000.png "40,000 Keys") |
-| ![15,000 Plays (osu! mode)](img/osu-plays-15000.png "15,000 Plays (osu! mode)") | ![300,000 Drum Hits](img/taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](img/mania-hits-400000.png "400,000 Keys") |
-| ![25,000 Plays (osu! mode)](img/osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
-| ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
+| osu!standard | osu!taiko | osu!catch | osu!mania |
+| :----------: | :-------: | :-------: | :-------: |
+| ![5,000 Plays (osu!standard mode)](img/osu-plays-5000.png "5,000 Plays (osu!standard mode)") | ![30,000 Drum Hits](img/taiko-hits-30000.png "30,000 Drum Hits") | ![Catch 20,000 fruits](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![40,000 Keys](img/mania-hits-40000.png "40,000 Keys") |
+| ![15,000 Plays (osu!standard mode)](img/osu-plays-15000.png "15,000 Plays (osu!standard mode)") | ![300,000 Drum Hits](img/taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](img/mania-hits-400000.png "400,000 Keys") |
+| ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
+| ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
+
+Mod Introduction
+----------------
+
+_Zobacz także: [Modyfikacje](/wiki/Game_Modifiers)._
+
+Medale Mod Introduction są przyznawane za ukończenie dowolnej beatmapy z konkretną modyfikacją.
+Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej modyfikacji oraz odkrycia, co osu! ma do zaoferowania.
+**Ważne:** Jeżeli gracz korzysta z wielu modyfikacji naraz, to zdobycie medali za żadną z tych modyfikacji nie będzie możliwe.
+
+| Difficulty Increasing | Difficulty Reducing | Special |
+| :---- | :---: | :---: |
+| ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Easy](img/all-intro-easy.png "Easy") | ![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
+| ![Double Time](img/all-intro-doubletime.png "Double Time") ![Nightcore](img/all-intro-nightcore.png "Nightcore") | ![Half Time](img/all-intro-halftime.png "Half Time") | ![Relax](img/all-intro-relax.png "Relax") |
+| ![Flashlight](img/all-intro-flashlight.png "Flashlight") | ![No Fail](img/all-intro-nofail.png "No Fail") | ![Spun Out](img/all-intro-spunout.png "Spun Out") |
+| ![Hidden](img/all-intro-hidden.png "Hidden") | | |
+| ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
 Hush-Hush
-------------
+---------
 
-Jest to ten typ osiągnięć w którym nie wiadomo do końca jak je otrzymać. Gracz sam musi znaleźć sposób na ich odblokowanie. Tytuł jest sam w sobie wskazówką.
+Te medale nie mają dosłownie określonego celu.
+Gracz musi samodzielnie znaleźć sposób na zdobycie danego medalu z tej grupy.
+Podpowiedź znajduje się w tytule medalu. 
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -92,9 +117,10 @@ Jest to ten typ osiągnięć w którym nie wiadomo do końca jak je otrzymać. G
 | ![Just One Second](img/all-secret-onesecond.png "Just One Second") | ![Afterimage](img/osu-secret-afterimage.png "Afterimage") |![To The Core](img/all-secret-tothecore.png "To The Core") |![Prepared](img/all-secret-prepared.png "Prepared") |
 | ![Eclipse](img/osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](img/all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](img/osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](img/osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
-| ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn")  |
+| ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
 Źródła
-----------
+------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
+- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/forum/t/80448).

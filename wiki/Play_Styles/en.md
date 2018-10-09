@@ -2,10 +2,10 @@
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
 
 <!-- shared image -->
-[osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
-[osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
-[osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
-[osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
+[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
+[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
 [Mouse icon]: /wiki/shared/Playstyles_M.png "Mouse"
 [Keyboard icon]: /wiki/shared/Playstyles_K.png "Keyboard"

@@ -21,7 +21,7 @@
 [osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
 
 <!-- shared -->
-[osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
+[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
 [Taiko playfield image]: /wiki/shared/Taiko_playfield.jpg "osu!taiko playfield"
 [Taiko hit circles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles"
 [Taiko drumroll image]: /wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll"
@@ -330,6 +330,6 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 
 _osu!taiko logo in deprecated Special Mode_
 
-- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an _osu!_ updater when _osu!_ need to update) under `Skin` tab.
+- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under `Skin` tab.
 - The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
 - The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")

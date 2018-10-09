@@ -10,16 +10,15 @@ Last year the osu!community voted to determine the winner for 2015's contest and
 
 We launched the event mid-summer, with more than 150 submissions, went through multiple stages to narrow it down to only a few. We have 3 talented, excited and of course, nervous finalists for you to vote for! Hop onboard and give them a listen!
 
-<center><img src="http://flan.s-ul.eu/Mw0a4Uqy"></center>
+![](http://flan.s-ul.eu/Mw0a4Uqy)
 
-Where can I vote?
-=======
+## Where can I vote?
+
 [Voting page can be found here!](https://new.ppy.sh/community/contests/4)
 
 
 
-Prize recap
-=======
+## Prize recap
 
 - **1st:** osu!idol 2016 Winner profile badge + 6 months supporter tag.
 - **2nd:** 3 months supporter tag.

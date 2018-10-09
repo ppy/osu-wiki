@@ -7,7 +7,7 @@
 [media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
 [media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
 
-Beatmap Packs 0916 (Русский)
+Beatmap Packs 0916
 ============================
 
 ***[Вернуться к описанию достижений](../)***
@@ -413,7 +413,7 @@ Maps:
 
 -   16 архивов (4 тематики по 4 части)
     -   Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
--   211 карт (206 + [три](https://osu.ppy.sh/s/2490) ![](/wiki/shared/Heart.gif) ранкнутые, одна ![](/wiki/shared/Fire.gif) [аппрувнутая](https://osu.ppy.sh/b/21010) и одна [неранкнутая](https://osu.ppy.sh/b/19630))
--   662 сложности (660 ![](/wiki/shared/Heart.gif) ранкнутых, одна ![](/wiki/shared/Fire.gif) [аппрувнутая](https://osu.ppy.sh/b/21010) и одна [неранкнутая](https://osu.ppy.sh/b/19630))
+-   211 карт (206 + [три](https://osu.ppy.sh/s/2490) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/b/21010) и одна [неранкнутая](https://osu.ppy.sh/b/19630))
+-   662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/b/21010) и одна [неранкнутая](https://osu.ppy.sh/b/19630))
 -   1.39 GB в запакованном виде и 1.47 GB — после импорта
 -   Примерное время импорта — 3 minutes 33 seconds.

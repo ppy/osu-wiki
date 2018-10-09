@@ -9,9 +9,9 @@ The osu! community never ceases to break new ground in polling turnouts! Per tra
 
 **After hearing your feedback from the best of 2014 voting, we have seperated voting by game modes!** This allowed more accurate and representitive results for all the modes in the game. As usual, players were limited to voting for songs they have actually played, so everyone has to know what they are voting for before throwing in the ballot.
 
-**That's not the end of the things we changed this year, though.** Rather than simply tallying the votes, we’re trying a new method of scoring the maps that should better represent the voters’ consensus. This is the first time we're trying something like this, so let us know what you think!
+**That's not the end of the things we changed this year, though.** Rather than simply tallying the votes, we're trying a new method of scoring the maps that should better represent the voters' consensus. This is the first time we're trying something like this, so let us know what you think!
 
-**The votes are modelled as maps playing a series of head-to-head matches against each other.** Maps you voted for count as a "win" against maps that you could have voted for but didn’t. From there, all maps that the user voted for "tie" with each other in weighting, and all of the "losing" maps tie with each other. This model is then resolved using **[maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood)** to find the final rankings that have the highest probability of being correct.
+**The votes are modelled as maps playing a series of head-to-head matches against each other.** Maps you voted for count as a "win" against maps that you could have voted for but didn't. From there, all maps that the user voted for "tie" with each other in weighting, and all of the "losing" maps tie with each other. This model is then resolved using **[maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood)** to find the final rankings that have the highest probability of being correct.
 
 The result of this system is that (a) maps with higher play counts do not have an unfair advantage and (b) votes are considered in the context of the other maps that user has played.
 

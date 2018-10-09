@@ -291,8 +291,8 @@ Este artículo enlista a los países que han participado en los variados torneos
 
 **×2** Tenía dos equipos.
 
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

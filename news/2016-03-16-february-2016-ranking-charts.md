@@ -9,14 +9,14 @@ The Ranking Charts for February 2016 have just been released and [can be found h
 This month [Blue Dragon](https://osu.ppy.sh/u/19048), [Lost The Lights](hhttps://osu.ppy.sh/u/1255920), [Kurokami](https://osu.ppy.sh/u/260933) and [iJinjin](https://osu.ppy.sh/u/3360737) picked the maps for the Monthly Ranking Charts.
 
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[Blue Dragon](https://osu.ppy.sh/u/19048)** pick their favourite maps.
 
@@ -30,7 +30,7 @@ Cherry Blossom's beatmaps are usually considered as a standard of mapping that i
 
 + [Muzzy - Endgame](https://osu.ppy.sh/s/397905) by [Secretpipe](https://osu.ppy.sh/u/2208964)
 
-Secretpipe is more often found mapping upbeat DnB songs, and while this is an exception, it doesn't take anything away from his consistent mapping skills in making longer, repetitive songs enjoyable to play all the way through. This song sets a much darker tone than we're used to listen in DnB songs, but Secretpipe takes the player to a restless, heavy-beat styled journey in this 6-minute marathon map. This beatmap has its structure focused in re-using previous beat placements, which is a common technique in DnB beatmaps and proves itself to flow intensely and making it enjoyable to play. Not to mention the awesome hitsound work done here, with the dubs of wubs that complement the beat of the song. 
+Secretpipe is more often found mapping upbeat DnB songs, and while this is an exception, it doesn't take anything away from his consistent mapping skills in making longer, repetitive songs enjoyable to play all the way through. This song sets a much darker tone than we're used to listen in DnB songs, but Secretpipe takes the player to a restless, heavy-beat styled journey in this 6-minute marathon map. This beatmap has its structure focused in re-using previous beat placements, which is a common technique in DnB beatmaps and proves itself to flow intensely and making it enjoyable to play. Not to mention the awesome hitsound work done here, with the dubs of wubs that complement the beat of the song.
 
 + [Tom Day - New Beginnings](https://osu.ppy.sh/s/383341) by [Auxent](https://osu.ppy.sh/u/3251860)
 
@@ -47,7 +47,7 @@ Speaking of intensity... With a lot of wubs and onii-chans in this beatmap, it c
 
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[Lost The Lights](https://osu.ppy.sh/u/1255920)** about their favourite maps in February 2016.
 
@@ -78,7 +78,7 @@ I know people will murder me for this, but I'll pick furioso melodia as the last
 
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[Kurokami](https://osu.ppy.sh/u/260933)** was the chosen one to declare the winners of the February 2016 beatmaps.
 
@@ -109,7 +109,7 @@ None of the difficulties of this mapset could be called challenging in CtB, but 
 
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[iJinjin](https://osu.ppy.sh/u/3360737)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -146,7 +146,7 @@ NAN NAN NANJA! Our anti meta mapper Kamikaze again brings us with a very rare 7K
 **The February 2016 ranking charts will end on the 15th April 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the January 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -155,6 +155,6 @@ Congratulations to the winners of the January 2016 Ranking Charts. They receive 
 + **Catch the Beat:** [_Asriel](https://osu.ppy.sh/u/566276)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —OnosakiHito

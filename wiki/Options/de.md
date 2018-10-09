@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <img src="DEoptionen.png" title="Optionsmenü (die Leiste zur Linken)" alt="Optionsmenü (die Leiste zur Linken)" width="600" />
 
 # Optionen

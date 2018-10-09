@@ -1,12 +1,12 @@
-# skin.ini (blank)
+# Blank
 
-Here are the blanks for the skin.ini file.
+Here are the blanks for the `skin.ini` file.
 
 To use this, create a new file inside your skin folder, and name it `skin.ini`.
 From here, you can copy and paste the sections you want to change.
 
-*Remember, you aren't forced to add a value to every command!
-However, if you do leave one blank, remove it or comment it with `//`.*
+*Remember, you aren't forced to add a value to every command!*
+If you do leave one blank, remove it or comment it by prefixing with `//`.
 
 ## \[General\]
 

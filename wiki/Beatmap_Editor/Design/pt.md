@@ -1,4 +1,4 @@
-Design (Português)
+Design
 ==================
 
 O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Beatmap_Editor), localizado na aba Design, que permite a criação simplificada de [Storyboards](/wiki/Storyboards), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](/wiki/Storyboard_Scripting).

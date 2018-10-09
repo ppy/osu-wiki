@@ -1,7 +1,10 @@
+---
+outdated: true
+---
 Zasłużeni dla społeczności
 ================================
 
-![Znak Zasłużonego](Contributor_Badge.png "Znak Zasłużonego")
+![Znak Zasłużonego](/wiki/shared/contributor.jpg "Znak Zasłużonego")
 
 **Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](/wiki/Glossary) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
 

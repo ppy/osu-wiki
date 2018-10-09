@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Mascotte di osu!
 ================
 

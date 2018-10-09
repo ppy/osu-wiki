@@ -25,11 +25,11 @@ The top 10 voted entries and any other honorable mentions (as determined by the 
 
 
 **The contest will accept entries for 20 days from the date of this post, ending on 20th December 00:00 UTC.**
-<br>
+
 
 Rules
 --------
-* Artists should use the custom templates provided: [PSD template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.psd) / [PNG template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.png). 
+* Artists should use the custom templates provided: [PSD template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.psd) / [PNG template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.png).
 * **The templates above denote WHERE THE osu! COOKIE IS LOCATED IN THE MAIN MENU.** Anything inside the circle probably isn't going to be seen by anyone on the main-menu, so make sure to remember that when composing your piece!
 * All entries must be at least vaguely Christmas themed in some way or another, be it through costume, setting or otherwise.
 * Submit only your own work! Don't plagiarise. While Christmas is about sharing, sharing is not caring when it comes to using other people's work as your own.
