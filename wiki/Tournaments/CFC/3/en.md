@@ -61,31 +61,18 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 ## Match Schedule: Semifinals
 
-### Saturday, 6 October 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Noulayfe | **14:00** |
-| #2 | floflim | ![][flag_FR] | ![][flag_FR] | Julo | **16:00** |
-| #3 | -Ken | ![][flag_TN] | ![][flag_FR] | Electr0o | **20:00** |
-| #4 | Boros | ![][flag_FR] | ![][flag_FR] | Holloh | **21:00** |
-
-### Sunday, 7 October 2018
+### Saturday, 13 October 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **14:00** | ¹ |
-| #5b | -Ken | ![][flag_TN] | ![][flag_FR] | Holloh | **14:00** | ¹ |
-| #5c | Electr0o | ![][flag_FR] | ![][flag_FR] | Boros | **14:00** | ¹ |
-| #5d | Electr0o | ![][flag_FR] | ![][flag_FR] | Holloh | **14:00** | ¹ |
-| #6a | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
-| #6b | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
-| #6c | Noulayfe | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
-| #6d | Noulayfe | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
+| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **14:00** |
+| #2 | Boros | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **16:00** |
+| #3a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **18:00** | ¹ |
+| #3b | -Ken | ![][flag_TN] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
+| #3c | Noulayfe | ![][flag_FR] | ![][flag_FR] | Boros | **18:00** | ¹ |
+| #3d | Noulayfe | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
 
-¹ Encounter dependent on loser of Match #3 and Match 4
-
-² Encounter dependent on loser of Match #1 and Match 2
+¹ Encounter dependent on loser of Match #1 and winner of Match #2
 
 -----------------------
 
@@ -112,6 +99,35 @@ The Catch French Cup 3 is run by various community members by distributing the m
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0) - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ)**
+
+- NoMod
+  - [Memme - Barrier (Spectator) \[Overdose\]](/beatmapsets/768255/#fruits/1615696)
+  - [USAO - Boss Rush (Minato Yukina) \[MAXIMUM\]](/beatmapsets/602460/#fruits/1272534)
+  - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](/beatmapsets/817364/#fruits/1714006)
+  - [ALiCE'S EMOTiON - STAR KNiGHT (KagamineRin02) \[Still Love\]](/beatmapsets/310189/#fruits/693231)
+  - [Mediks - Come Back Down (Emilia) \[emilia's Extra\]](/beatmapsets/639013/#fruits/1388929)
+  - [Nitta Emi - White Eternity (Settia) \[Astral\]](/beatmapsets/360153/#fruits/791713)
+- Hidden
+  - [Ocelot - YUKARI (Emiru) \[MASTER\]](/beatmapsets/841401/#fruits/1760845)
+  - [lapix - Carry Me Away (Spectator) \[Ultra\]](/beatmapsets/776472/#fruits/1631436)
+  - [Eclipse - nO limiT (TV Size) (Louis Cyphre) \[Basquash!\]](/beatmapsets/15466/#fruits/59327)
+  - [Roselia - Guren no Yumiya (UndeadCapulet) \[Expert\]](/beatmapsets/820695/#fruits/1720274)
+- HardRock
+  - [EYE XY feat. Yoneko  - Knight of Firmament (Spectator) \[Overdose\]](/beatmapsets/709012/#fruits/1498888)
+  - [RYO - Shuffle Heaven (Maddy) \[eXtra\]](/beatmapsets/85802/#fruits/235470)
+  - [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](/beatmapsets/2626/#fruits/19990)
+  - [League of Legends - PROJECT: Hunters - Login Music (Vincs) \[Nihj\]](/beatmapsets/801026/#fruits/1681554)
+- DoubleTime
+  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](/beatmapsets/17819/#fruits/67504)
+  - [Aya Ishihara - Reset (Full ver) (Bikko) \[Madness\]](/beatmapsets/16641/#fruits/65756)
+  - [Machico - fantastic dreamer(TV-size) (Spectator) \[Spec's Rain\]](/beatmapsets/483175/#fruits/1030971)
+  - [Perfume - MY COLOR (BluOxy) \[Extra\]](/beatmapsets/123654/#fruits/315660)
+- Tiebreaker
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Spectator) \[Overdrive\]](/beatmapsets/713891/#fruits/1508761)**
 
 ### Semifinals
 
@@ -214,6 +230,20 @@ The Catch French Cup 3 is run by various community members by distributing the m
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2018-10-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/46497617) |
+| floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | -win by default- |
+| **-Ken** ![][flag_TN] | **6** | 0 | ![][flag_FR] Electr0o | [#1](/community/matches/46508723) |
+| **Boros** ![][flag_FR] | **6** | 3 | ![][flag_FR] Holloh | [#1](/community/matches/46510801) |
+
+| Sunday, 2018-10-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](/community/matches/46530564) |
+| **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](/community/matches/46536947) |
 
 ### Quarterfinals
 

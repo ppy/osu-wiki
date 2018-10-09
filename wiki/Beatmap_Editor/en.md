@@ -1,7 +1,7 @@
 Beatmap Editor
 ==============
 
-The **beatmap editor** is _osu!'s_ in-game graphical interface for creating [beatmaps](/wiki/Beatmaps).
+The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps).
 It is separated into four parts:
 
 - [Compose](Compose): The place where a majority of beatmapping happens.
