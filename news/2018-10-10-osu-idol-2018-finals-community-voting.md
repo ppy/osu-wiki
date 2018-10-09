@@ -14,7 +14,7 @@ A community driven singing contest where contestants as a solo or a duet sing th
 
 ### Where can I vote?
 
-[Voting page can be found here!](https://osu.ppy.sh/community/contests/<TBA>)
+[Voting page can be found here!](https://osu.ppy.sh/community/contests/71)
 
 ### What will the prizes be?
 
