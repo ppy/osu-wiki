@@ -5,8 +5,6 @@ tags:
 ---
 # Staff Log
 
-*Main page: [People](/wiki/People).*
-
 As of 2014-01-17, management is going to file all staff promotions and retirements to easily make it trackable for the community. Starting with all changes and additions from 2014.
 
 Using the articles listed below, you can find all Beatmap Nominators and their spoken languages. You can also find a list of QAT members with their specializations. Moreover, you can look up the tasks of the GMT members and the representative language moderators for your respective language's community. Furthermore, you can take a look on the retired staff members and find out about their previous position in this game:
@@ -1146,3 +1144,41 @@ All users listed below were added on 2018-07-27.
 -   [Rizen](/users/3056732)
 -   [IceKalt](/users/5410645)
 -   [frogyfro](/users/7010859)
+
+### August
+
+-   Added [ZiRoX](/users/200768) to the Quality Assurance Team (2018-08-19)
+
+#### BN removals
+
+-   Removed [error\_exe777](/users/7975796) from the Beatmap Nominators by failing probation (2018-08-17)
+-   Removed [Cerulean Veyron](/users/1886524) from the Beatmap Nominators by resignation (2018-08-20)
+-   Removed [F D Flourite](/users/2459589) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Ryuusei Aika](/users/7777875) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [sahuang](/users/5318910) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Strategas](/users/2971837) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [DE-CADE](/users/3734394) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Lenfried\-](/users/5314573) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Unpredictable](/users/7560872) from the Beatmap Nominators by failing probation (2018-08-22)
+-   Removed [Garalulu](/users/757783) from the Beatmap Nominators by resignation (2018-08-25)
+-   Removed [Sieg](/users/1404615) from the Beatmap Nominators by resignation (2018-08-28)
+
+### September
+
+-   Moved [deadbeat](/users/128370) to the osu! Alumni (2018-09-04)
+-   Moved [Doyak](/users/2046893) to the osu! Alumni (2018-09-09)
+-   Moved [Mir](/users/8688812) to the osu! Alumni (2018-09-19)
+-   Moved [Hobbes2](/users/8157492) to the Beatmap Nominators (2018-09-19)
+-   Added [Kibbleru](/users/3193504) to the Quality Assurance Team (2018-09-21)
+-   Moved [Elfin](/users/1399551) to the Global Moderation Team (2018-09-26)
+
+#### BN removals
+
+-   Removed [MrSergio](/users/2581696) from the Beatmap Nominators by failing probation (2018-09-02)
+-   Removed [Cris\-](/users/6175280) from the Beatmap Nominators by failing probation (2018-09-02)
+-   Removed [Yugu](/users/3161834) from the Beatmap Nominators by failing probation (2018-09-02)
+-   Removed [frogyfro](/users/7010859) from the Beatmap Nominators by failing probation (2018-09-02)
+-   Removed [Fii](/users/3922569) from the Beatmap Nominators by resignation (2018-09-02)
+-   Removed [Karen](/users/3143784) from the Beatmap Nominators for inactivity (2018-09-08)
+-   Removed [riffy](/users/597957) from the Beatmap Nominators by resignation (2018-09-09)
+-   Removed [Ascendance](/users/2931883) from the Beatmap Nominators by resignation (2018-09-15)

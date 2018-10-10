@@ -61,6 +61,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 - **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
 - **Avoid using combo colours with ~220 luminosity or higher.** They create bright pulses during Kiai time which can be unpleasant to the eyes.
+- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 
@@ -134,7 +135,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
-- **Higher snapped dashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1x the trigger distance and the movement after the dash must be walkable.
+- **Higher snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1x the trigger distance and the movement after the hyperdash must be walkable.
 - **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher snapped hyperdashes, a limit of 1.3x is recommended instead.
 - Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.

@@ -22,30 +22,29 @@ outdated: true
 | Имя | Дополнительные языки | Специализация |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | итальянский | чат |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | чат, Disqus |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | чат |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | немецкий | чат |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | испанский | чат, форум, Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | организация турниров, Disqus |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | испанский | чат, форум |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | чат, техподдержка |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров, Disqus |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | техподдержка |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | корейский | Metadata Team |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | корейский, японский | чат, форум |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | игрок поддержки |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | болгарский | организация конкурсов osu!idol, форум, чат, Disqus |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | болгарский | организация конкурсов osu!idol, форум |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | китайский | чат, форум |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | французский | чат, форум, Disqus |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | французский | чат, форум |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | польский | чат |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | португальский | чат |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | турецкий | чат |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | испанский | организация турниров |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | русский | чат |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | французский, русский | чат, Disqus, Metadata Team |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | русский | чат, Disqus |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | французский, русский | чат, Metadata Team |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | русский | чат |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | финский | чат |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | испанский | чат, форум |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | итальянский | чат |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | голландский | чат, форум, Disqus |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | голландский | чат, форум |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») | чат, форум |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | французский | чат |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! развитие, Mappers' Guild организация |
@@ -58,11 +57,12 @@ outdated: true
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | французский, испанский | чат |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | индонезийский | чат |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | китайский | чат |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | венгерский | чат, Disqus |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум, Disqus |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | венгерский | чат |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | русский | чат |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | корейский, японский | чат |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | французский | чат |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | тагалог («филиппинский») | чат |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | испанский | техподдержка |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | польский | чат |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | техподдержка |

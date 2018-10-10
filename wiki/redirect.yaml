@@ -1,9 +1,9 @@
 "asc":                           "Article_Styling_Criteria"
 "asg":                           "Article_Styling_Criteria"
-"asc/news":                      "Article_Styling_Criteria/News"
-"asg/news":                      "Article_Styling_Criteria/News"
-"asc/images":                    "Article_Styling_Criteria/Images"
-"asg/images":                    "Article_Styling_Criteria/Images"
+"asc/images":                    "Article_Styling_Criteria/#images"
+"asg/images":                    "Article_Styling_Criteria/#images"
+"wiki_styling_criteria":         "Article_Styling_Criteria"
+"wsc":                           "Article_Styling_Criteria"
 
 "beatmap_discussions":         "Beatmap_Discussion"
 "modding_discussion":          "Beatmap_Discussion"
@@ -778,6 +778,10 @@
 "pyun":                        "Mascots/#pyun"
 "mascot/gallery":              "Mascots/Gallery"
 
+"nsc":      "News_Styling_Criteria"
+"asc/news": "News_Styling_Criteria"
+"asg/news": "News_Styling_Criteria"
+
 "medal":                           "Medals"
 "achievements":                    "Medals"
 "achievement":                     "Medals"
@@ -1368,6 +1372,9 @@
 "owc2":                        "Tournaments/OWC/2"
 "owc_2":                       "Tournaments/OWC/2"
 "owc/2":                       "Tournaments/OWC/2"
+"owc3":                        "Tournaments/OWC/3"
+"owc_3":                       "Tournaments/OWC/3"
+"owc/3":                       "Tournaments/OWC/3"
 "owc2013":                     "Tournaments/OWC/2013"
 "owc_2013":                    "Tournaments/OWC/2013"
 "owc/2013":                    "Tournaments/OWC/2013"
@@ -1389,6 +1396,9 @@
 "twc2011":                     "Tournaments/TWC/2011"
 "twc_2011":                    "Tournaments/TWC/2011"
 "twc/2011":                    "Tournaments/TWC/2011"
+"twc3":                        "Tournaments/TWC/3"
+"twc_3":                       "Tournaments/TWC/3"
+"twc/3":                       "Tournaments/TWC/3"
 "twc2014":                     "Tournaments/TWC/2014"
 "twc_2014":                    "Tournaments/TWC/2014"
 "twc/2014":                    "Tournaments/TWC/2014"
@@ -1485,6 +1495,10 @@
 "cmt/4k_2017": "Tournaments/CMT_4K/2017"
 "cmt/4k/2017": "Tournaments/CMT_4K/2017"
 
+"cmt_4k_2018": "Tournaments/CMT_4K/2018"
+"cmt/4k_2018": "Tournaments/CMT_4K/2018"
+"cmt/4k/2018": "Tournaments/CMT_4K/2018"
+
 # "ophst":    "Tournaments/#-osu!philippines-summer-tournament"
 "ophst2018":  "Tournaments/oPHST/2018"
 "ophst_2018": "Tournaments/oPHST/2018"
@@ -1513,6 +1527,12 @@
 "thom_cup1":  "Tournaments/THOM_CUP/1"
 "thom_cup_1": "Tournaments/THOM_CUP/1"
 "thom_cup/1": "Tournaments/THOM_CUP/1"
+
+"cjb":         "Tournaments/#-CJB-osu!mania-4K-Tournament"
+"cjb_4k_2018": "Tournaments/CJB/2018/4K"
+"cjb_2018_4k": "Tournaments/CJB/2018/4K"
+"cjb/4k/2018": "Tournaments/CJB/2018/4K"
+"cjb/2018/4k": "Tournaments/CJB/2018/4K"
 
 "visual_setting":              "Visual_Settings"
 "vs":                          "Visual_Settings"

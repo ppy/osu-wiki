@@ -50,6 +50,8 @@ where:
 -   (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
 -   (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
+In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
+
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
 ![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
@@ -86,7 +88,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _F,0,1000,3000,1,1
 ```
 
-See the shorthand section for an explanation of how to shorten this last line to just:
+See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explanation of how to shorten this last line to just:
 
 `_F,0,1000,3000,1`
 
@@ -96,7 +98,7 @@ See the shorthand section for an explanation of how to shorten this last line to
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are not allowed. | An (x,y) position, as specified above. Decimals are not allowed. |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
 
