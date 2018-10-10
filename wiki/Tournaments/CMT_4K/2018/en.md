@@ -55,26 +55,71 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
+- [Tournament Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
 ## Match Schedule
 
 The following time are based on UTC+08 timezone.
 
-### Qualification Stage
+### Group Stage
 
-| 10-06 |  |  |  |  | 10-07 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | 15:00 | 16:00 | 20:00 | 21:00 | 16:00 |
-| ByeForNow | Postanken | xz1z1z-xiyue | Pureforever | Xiaofeng\_1999 | dubstepLAN |
-| zero2snow | \[Crz\]Hina | HDRoop\_7 | Remilia\_HY | JunFish | w a d u |
-| FDXiaoQian | PiaoD | \[Crz\]MY | Sakaki | idqoos123 | murorachi |
-| Stink God | IA daisuki | alisi | YoSa\_o | PHILIPPE YMT | Toki 0w0 |
-| lkjh123789m | \[Crz\]Murasame | Asuka-Minato | \[MY\]xRay | Orangejuice | MatsuzakaSatou- |
-| \[Crz\]sunnyxxy | C Eru | GODsBEATs | shynzlx | tangjinxi |  |
-| yin xiaosong | CaOH2 | AradORiOn\_MMM | cheewee10 | 704661982 |  |
-|  |  | hero\_jeff | \[my\]zyuan | kuiiiiteeee |  |
+#### 2018-10-13, Saturday
+
+| Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 10:00 | zero2snow | vs | FDXiaoQian |  | cheewee10 | vs | IA daisuki |
+| 11:00 | zero2snow | vs | tangjingxi |  | Toki 0w0 | vs | yin xiaosong |
+| 15:00 | PiaoD | vs | AradORiOn\_MMM |  | w a d u | vs | IA daisuki |
+|  | PHILIPPE YMT | vs | yin xiaosong |  |  |  |  |
+| 16:00 | hero\_jeff | vs | CaOH2 |  | murorachi | vs | HDRoop\_7 |
+|  | PHILIPPE YMT | vs | \[Crz\]Minato |  |  |  |  |
+| 17:00 | \[MY\]xRay | vs | murorachi |  | GODsBEATs | vs | IA daisuki |
+|  | Toki 0w0 | vs | PHILIPPE YMT |  | CaOH2 | vs | \[Crz\]MY |
+| 20:00 | idqoos123 | vs | ByeForNow |  | C Eru | vs | Remilia\_HY |
+|  | 704661982 | vs | YoSa_o |  |  |  |  |
+| 21:00 | JunFish | vs | Orangejuice |  | tangjingxi | vs | Stink God |
+|  | \[Crz\]Murasame | vs | YoSa_o |  |  |  |  |
+| 22:00 | \[MY\]xRay | vs | HDRoop\_7 |  | idqoos123 | vs | PiaoD |
+|  | JunFish | vs | Remilia\_HY |  | CaOH2 | vs | Sakaki |
+
+#### 2018-10-14, Sunday
+
+| Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 10:00 | zero2snow | vs | Stink God |  | ByeForNow | vs | AradORiOn\_MMM |
+| 11:00 | FDXiaoQian | vs | Stink God |  | PiaoD | vs | ByeForNow |
+| 14:00 | C Eru | vs | Orangejuice |  | FDXiaoQian | vs | tangjingxi |
+|  | \[Crz\]Minato | vs | yin xiaosong |  |  |  |  |
+| 15:00 | hero\_jeff | vs | Sakaki |  | cheewee10 | vs | w a d u |
+|  | Toki 0w0 | vs | \[Crz\]Minato |  |  |  |  |
+| 16:00 | alisi | vs | HDRoop\_7 |  | GODsBEATs | vs | cheewee10 |
+|  | Pureforever | vs | \[Crz\]Murasame |  |  |  |  |
+| 17:00 | hero\_jeff | vs | \[Crz\]MY |  | murorachi | vs | alisi |
+|  | GODsBEATs | vs | w a d u |  |  |  |  |
+| 20:00 | Sakaki | vs | \[Crz\]MY |  | idqoos123 | vs | AradORiOn\_MMM |
+|  | \[Crz\]Murasame | vs | 704661982 |  | YoSa_o | vs | Pureforever |
+| 21:00 | JunFish | vs | C Eru |  | Remilia\_HY | vs | Orangejuice |
+|  | alisi | vs | \[MY\]xRay |  | 704661982 | vs | Pureforever |
 
 ## Mappools
+
+### Group Stage
+
+**Download the mappack here! (55.4M) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+
+- [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
+- [paraoka feat. yusuke - center piercing (sakuzyo bootleg) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
+- [Traktion - Mission ASCII \[Start Mission\]](https://osu.ppy.sh/beatmapsets/634008#mania/1345387)
+- [Waterflame - Glorious morning \[Myka's Insane\]](https://osu.ppy.sh/beatmapsets/742228#mania/1576062)
+- [WinDEU - Magus Night Fever \[11\]](https://osu.ppy.sh/beatmapsets/416481#mania/902166)
+- [r300k - Energy Flower 3007 \[6236\]](https://osu.ppy.sh/beatmapsets/454071#mania/992415)
+- [The Ghost of 3.13 - Daydream \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
+- [ZUN - Tsukidokei ~ Luna Dial \[Lunatic\]](https://osu.ppy.sh/beatmapsets/678723#mania/1568546)
+- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+- [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
+- Tiebreaker
+  - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
+
 
 ### Qualification Stage
 
@@ -82,6 +127,10 @@ The following time are based on UTC+08 timezone.
 - [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
 - [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
+
+## Match Results
+
+Check [Tournament Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj) for more details.
 
 ## Ruleset
 
