@@ -55,7 +55,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
-- [Tournament Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
+- **[Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
 ## Match Schedule
 
@@ -63,7 +63,7 @@ The following time are based on UTC+08 timezone.
 
 ### Group Stage
 
-#### 2018-10-13, Saturday
+#### Saturday, 13 October 2018
 
 | Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -82,7 +82,7 @@ The following time are based on UTC+08 timezone.
 | 22:00 | \[MY\]xRay | vs | HDRoop\_7 |  | idqoos123 | vs | PiaoD |
 |  | JunFish | vs | Remilia\_HY |  | CaOH2 | vs | Sakaki |
 
-#### 2018-10-14, Sunday
+#### Sunday, 14 October 2018
 
 | Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -107,16 +107,17 @@ The following time are based on UTC+08 timezone.
 
 **Download the mappack here! (55.4M) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
-- [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
-- [paraoka feat. yusuke - center piercing (sakuzyo bootleg) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
-- [Traktion - Mission ASCII \[Start Mission\]](https://osu.ppy.sh/beatmapsets/634008#mania/1345387)
-- [Waterflame - Glorious morning \[Myka's Insane\]](https://osu.ppy.sh/beatmapsets/742228#mania/1576062)
-- [WinDEU - Magus Night Fever \[11\]](https://osu.ppy.sh/beatmapsets/416481#mania/902166)
-- [r300k - Energy Flower 3007 \[6236\]](https://osu.ppy.sh/beatmapsets/454071#mania/992415)
-- [The Ghost of 3.13 - Daydream \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
-- [ZUN - Tsukidokei ~ Luna Dial \[Lunatic\]](https://osu.ppy.sh/beatmapsets/678723#mania/1568546)
-- [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
-- [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
+- FreeMod
+  - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
+  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
+  - [Traktion - Mission ASCII \[Start Mission\]](https://osu.ppy.sh/beatmapsets/634008#mania/1345387)
+  - [Waterflame - Glorious morning \[Myka's Insane\]](https://osu.ppy.sh/beatmapsets/742228#mania/1576062)
+  - [WinDEU - Magus Night Fever \[11\]](https://osu.ppy.sh/beatmapsets/416481#mania/902166)
+  - [r300k - Energy Flower 3007 \[6236\]](https://osu.ppy.sh/beatmapsets/454071#mania/992415)
+  - [The Ghost of 3.13 - Daydream \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
+  - [ZUN - Tsukidokei \~ Luna Dial \[Lunatic\]](https://osu.ppy.sh/beatmapsets/678723#mania/1568546)
+  - [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
 - Tiebreaker
   - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
 
@@ -130,7 +131,7 @@ The following time are based on UTC+08 timezone.
 
 ## Match Results
 
-Check [Tournament Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj) for more details.
+Check **[Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 
 ## Ruleset
 
