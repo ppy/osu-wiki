@@ -115,12 +115,6 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | --- | --- | --- | --- | --- | --- |
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaisie | ![][flag_NL] Pays-Bas | ![][flag_US] États-Unis d'Amérique |
 
-### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
-
-| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
-| --- | --- | --- | --- | --- | --- |
-| [Taiko Suiji Cup](/wiki/Tournaments/TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
-
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
