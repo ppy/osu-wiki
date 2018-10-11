@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania World Cup 2018: Grand Finals Recap"
-date: 2018-10-09 12:00:00 +0000
+date: 2018-10-11 17:00:00 +0000
 ---
 
 After 6 weeks of intense note holding action, the osu!mania World Cup 4k has reached its conclusion. Our finalists for this year is Brazil, United States and South Korea!
@@ -42,7 +42,7 @@ Sadly, this would be all that the United States could piece together. With the s
 
 South Korea’s response of I appeared to be an almost guaranteed 6th point, as they had beaten the United States by over 70,000 points in their previous 7-5 bout. Instead, it featured numerous score trades and an intense showdown that once again came down to the latter portion of the map, as South Korea’s underperformance brought them a team score of approximately 40,000 points lower than their previous attempt. United States improved compared to their previous attempt, but inevitably fell short once more by around 15,000 points, pushing South Korea to 6-2, and the Grand Finals match point. 
 
-For their 7th and final point, South Korea actually took it upon themselves to successfully select something that the United States had picked on them in the previous match before, [Shrill False](http://osu.ppy.sh/beatmaps/1778859&m=3). One thing that went generally unnoticed due to the quick leave of a certain someone, was a certain someone’s impressive run…
+For their 7th and final point, despite the efforts of the United States on a desperate attempt in [Shrill False](http://osu.ppy.sh/beatmaps/1778859&m=3) the South Korean team managed once more to take a point selected by their opponents. One thing that went generally unnoticed due to the quick leave of a certain someone, was a certain someone’s impressive run…
 
 ![](/wiki/shared/news/2018-10-11-osu!mania-World-Cup-2018-Grand-Finals-Recap/etienne.png)
 
