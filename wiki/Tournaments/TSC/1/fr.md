@@ -402,7 +402,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **Magnolia** | **5** | 4 | Tai-KO | [#1](/community/matches/45832984) |
 | **hello we play taiko** | **5** | 4 | Team Seven | [#1](/community/matches/45833083) |
 | **jakpat** | **5** | 0 | 69% acc | [#1](/community/matches/45833075) |
-| **BabySnakes is Dumb** | **5** | 3 | [#1](/community/matches/45834255) |
+| **BabySnakes is Dumb** | **5** | 3 | E=mc^2 | [#1](/community/matches/45834255) |
 | **Fun Assurance Team** | **5** | 1 | ERROR 404: Team Name Not Found | [#1](/community/matches/45834432) |
 | TaikOwO | 0 | **5** | **pneumonoultramicroscopicsilicovolcanoconiosis** | -win by default- |
 | **The Tasuke Train** | **5** | 0 | Team 7 | -win by default- |
