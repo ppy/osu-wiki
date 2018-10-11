@@ -93,7 +93,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![Winner Podium](podium.png)
+![Winner Podium](img/podium.png)
 
 ------------------------------------------------------------------------
 
