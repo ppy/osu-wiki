@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "osu!mania World Cup 2018: Grand Finals Recap"
 date: 2018-10-09 12:00:00 +0000
@@ -6,11 +6,10 @@ date: 2018-10-09 12:00:00 +0000
 
 After 6 weeks of intense note holding action, the osu!mania World Cup 4k has reached its conclusion. Our finalists for this year is Brazil, United States and South Korea!
 
-
  ![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)
 
 
-### United States vs Brazil (https://osu.ppy.sh/community/matches/46485848)
+### [United States vs Brazil](https://osu.ppy.sh/community/matches/46485848)
 
 The first match of the grand finals weekend was a rehash between United States and Brazil, whose previous semi-final encounter resulted in Brazil getting brought to the loser's bracket in a 7-6 tiebreaking thriller. The two teams duked it out and showcased yet another match of exceptional intensity that would rival their previous matchup, both performing in win-or-out pressure to determine the third place finisher and the grand finals matchup.
 
@@ -27,7 +26,6 @@ Requiring two more wins simply to secure a tiebreaker after a break point, Brazi
 
 ### [South Korea vs United States](https://osu.ppy.sh/community/matches/46519536) 
 
-https://www.twitch.tv/videos/319366674
  <iframe src="https://player.twitch.tv/?autoplay=false&video=v319366674" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The United States team once again successfully opened with [Tachyon Beam Cannon](http://osu.ppy.sh/beatmaps/1782639&m=3), while South Korea took their expected point on the tough LN pick, [VERTeX](http://osu.ppy.sh/beatmaps/1783679&m=3) by more than 75,000, a 30k+ larger victory than last time, setting up both a 1-1 score and the stage for what would seem to be yet another grueling punch-for-punch duel.
