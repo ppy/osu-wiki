@@ -55,7 +55,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
-- **[Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
+- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
 ## Match Schedule
 
@@ -105,7 +105,7 @@ The following time are based on UTC+08 timezone.
 
 ### Group Stage
 
-**Download the mappack here! (55.4M) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -131,7 +131,7 @@ The following time are based on UTC+08 timezone.
 
 ## Match Results
 
-Check **[Statistics Sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
+Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 
 ## Ruleset
 
