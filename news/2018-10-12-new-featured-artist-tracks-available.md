@@ -4,7 +4,7 @@ title: "New Featured Artist Tracks Available"
 date: 2018-10-12 15:00:00 +0000
 ---
 
-We're proud to announce the latest addition to the Featured Artist catalogue — namely **three** new collections of awesome tracks, one from [\*namirin](https://osu.ppy.sh/beatmaps/artists/18), one from [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and one from [LukHash](https://osu.ppy.sh/beatmaps/artists/12)!
+We're proud to announce a new slew of additions to the Featured Artist catalogue — namely **three** new albums of awesome tracks, one from [\*namirin](https://osu.ppy.sh/beatmaps/artists/18), one from [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and one from [LukHash](https://osu.ppy.sh/beatmaps/artists/12)!
 
 [![](/wiki/shared/news/2018-03-20-featured-artist-track-updates/banner.jpg)](https://osu.ppy.sh/beatmaps/artists)
 
@@ -18,9 +18,9 @@ But for now, we have a pretty big drop of new tracks for people to sink their te
 
 All of **Koishiteiku Planet (コイシテイク・プラネット)** is now available from \*namirin's Featured Artist listing! Courtesy of her [official YouTube channel](https://www.youtube.com/channel/UCb-crO2ATrJsm253151B4Vg), feast your ears on a short crossfade of what's new:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/FNjoQE3inZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/FNjoQE3inZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-All five of the tracks from Koishiteiku Planet can be found pre-timed at [her Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18#album-52), go check them out!
+All five of the tracks from Koishiteiku Planet can be found pre-timed at her [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18#album-52), go check them out!
 
 ## Dictate
 
