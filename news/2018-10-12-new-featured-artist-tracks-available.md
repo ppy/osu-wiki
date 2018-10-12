@@ -20,7 +20,7 @@ All of **Koishiteiku Planet (コイシテイク・プラネット)** is now avai
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FNjoQE3inZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-All five of the tracks from Koishiteiku Planet can be found pre-timed at [*namirin's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18#album-52), go check them out!
+All five of the tracks from Koishiteiku Planet can be found pre-timed at [*namirin's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18), go check them out!
 
 ## Dictate
 
@@ -60,7 +60,7 @@ All three of these tracks are available at [Dictate's Featured Artist listing](h
 
 We've managed to score *all* of LukHash's latest album, [**Ghosts**](https://lukhash.bandcamp.com/album/ghosts), plus three instrumentals to boot! More of his classic electro-chiptune inspired sound, with the appearance of some new vocal talent across a variety of styles!
 
-There are 13 new unique tracks to feast your ears on, so make sure to check out [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12#album-54) for the full suite.
+There are 13 new unique tracks to feast your ears on, so make sure to check out [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12) for the full suite.
 
 ### Ghosts
 
@@ -82,7 +82,7 @@ There are 13 new unique tracks to feast your ears on, so make sure to check out 
 
 ---------
 
-Check out the full collection over at [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12#album-54)!
+Check out the full collection over at [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12)!
 
 ---------
 
