@@ -56,13 +56,14 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 
 |  | Country | Members |
 | --: | :-: | :-- |
-| ![][flag_AR]![][flag_CO] | **Argentina/Colombia** | **VelperK**, NightWar, k4mm3r, LZJKE |
+| ![][flag_ARCO] | **Argentina/Colombia** | **VelperK**, NightWar, k4mm3r, LZJKE |
 | ![][flag_AT] | **Austria** | **Stefan**, Winkekatze, coldsoup, Stafy |
 | ![][flag_CA] | **Canada** | **Kitsunemimi**, Sumaki, pmonibuv1, Pwnz- |
 | ![][flag_CL] | **Chile A** | **eldnl**, Dark Diego, lineqtxz, DaxMasterix |
 | ![][flag_CL] | **Chile B** | **RageQuit**, NicoAsd-, The hunterx, Kasu404 |
 | ![][flag_CN] | **China** | **Beatrice**, S a o r i, bIackcurrent, Gluv |
-| ![][flag_CO] | **Costa Rica** | **Sandroxx-**, JosephTec64756, Noctowi, Mily |
+| ![][flag_CR] | **Costa Rica** | **Sandroxx-**, JosephTec64756, Noctowi, Mily |
+| ![][flag_CZPL] | **Czech Republic/Poland** | **Krzysiek**, wampir, Sawako88, katsek |
 | ![][flag_FI] | **Finland** | **Mianki**, Yerti, MrSake, Static Noise Bird |
 | ![][flag_FR] | **France** | **Jinchuu ya vizard**, Capitaine fares, Keijou, Syfose |
 | ![][flag_DE] | **Germany A** | **Nitojgrem**, DoKoLP, ayiku, Keyone94 |
@@ -79,8 +80,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 | ![][flag_MX] | **Mexico** | **Salwinjack**, Mennock, Fercho, Xtreme\_gear |
 | ![][flag_PE] | **Peru** | **\[Yue\]**, -Yakemi-, AleZer0, Solaris730 |
 | ![][flag_PH] | **Philippines** | **Seph**, blacksymbian, Jdle07, Mystgun |
-| ![][flag_PL]![][flag_CZ] | **Poland/Czech Republic** | **Krzysiek**, wampir, Sawako88, katsek |
-| ![][flag_RU]![][flag_UA] | **Russian Federation/Ukraine** | **Don Omar**, Merzo, MeGl, Blaster812 |
+| ![][flag_RUUA] | **Russian Federation/Ukraine** | **Don Omar**, Merzo, MeGl, Blaster812 |
 | ![][flag_SG] | **Singapore** | **botakist**, MoGu, Akatsuki, zLaceration |
 | ![][flag_KR] | **South Korea** | **Rubytic**, Why, Spectator, Berncastell |
 | ![][flag_ES] | **Spain** | **Raimon**, Eternal, jekasa |
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] Chile A |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan A |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AR]![][flag_CO] Argentina/Colombia |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ARCO] Argentina/Colombia |
 
 ---------------------------
 
@@ -425,14 +425,13 @@ This competition has come to an end and resulted in the following podium:
    - DoubleTime: 2 maps
    - Tiebreaker: 1 (NoMod), in case of a tie
 
-[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_ARCO]: /wiki/shared/flag/ARCO.png
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
 [flag_CR]: /wiki/shared/flag/CR.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
+[flag_CZPL]: /wiki/shared/flag/CZPL.png
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
@@ -448,9 +447,8 @@ This competition has come to an end and resulted in the following podium:
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_RUUA]: /wiki/shared/flag/RUUA.png
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
