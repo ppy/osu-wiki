@@ -34,7 +34,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organisation
 
-The osu! World Cup 2018 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -69,7 +69,6 @@ _The mappools will be revealed one week before each particular stage_
    - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
-   - **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap gets considered as passing it.
@@ -135,17 +134,18 @@ _The mappools will be revealed one week before each particular stage_
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD, AE, P, Q |
+| Finals | O & AB, AC, AD |
+| Grand Finals | AE, P, Q |
 
 **Winning conditions:**
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Semifinals and Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2017: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2018: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
@@ -182,8 +182,10 @@ _The mappools will be revealed one week before each particular stage_
    - Finals stage may have matches on Friday, depending on the occuring encounters.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
-6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
+5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
+6. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
+7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
