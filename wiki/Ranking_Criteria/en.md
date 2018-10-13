@@ -112,13 +112,13 @@ Note: If a beatmapset's song contains matching sections to the TV size song, in 
     -	**...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap. 
     -	**...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
 -   **Mapsets must have a minimum drain time of 30 seconds.**
--	**If the drain time of a beatmap is...**
+-	**If the drain time of the highest difficulty is...**
     -	**...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania beatmapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid beatmapsets that include osu! difficulties, the additional modes’ lowest difficulties cannot be harder than a Hard.
     -	**...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
     -	**...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
     -	**...anything higher, the beatmapset is exempt from reasonable spread rules.**
   
-  Difficulties lower than the hardest difficulty of a beatmapset can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
+  Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
   
 -   **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
@@ -128,7 +128,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 
 -   **A difficulty’s name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its creators’ username or nickname. (e.g. Guest Creator’s Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 -   **Additionally, a beatmapset host cannot indicate possession in a difficulty’s name.** (e.g. Beatmapset Host’s Insane). Conflicts caused by beatmapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
--   **A beatmapset host must have beatmapped equal or more drain time than any guest difficulty beatmap creators.** This is to provide credit where credit is due.
+-   **A beatmapset host must have beatmapped equal or more drain time than any guest difficulty beatmap creator.** This is to provide credit where credit is due.
 -   **A beatmapset host and guest beatmap creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest beatmap creator cannot be contacted for a month, they will be assumed to agree with any changes. 
 
 ### Guidelines
