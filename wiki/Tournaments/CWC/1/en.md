@@ -4,9 +4,9 @@ tags:
 ---
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC*** ) was a team-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 1st installment of the osu! Catch the Beat World Cup.
+The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 1st installment of the osu!catch World Cup.
 
-## Tournament schedule
+## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -254,9 +254,12 @@ This competition has come to an end and resulted in the following podium:
 2. Participants will play at 5 maps (maximum) in Quarterfinals, 7 in Semifinals, and 9 in Finals.
 
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TW]: /wiki/shared/flag/TW.gif

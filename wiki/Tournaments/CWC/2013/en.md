@@ -5,9 +5,9 @@ tags:
 ---
 # osu! Catch the Beat World Cup 2013
 
-The **osu! Catch the Beat World Cup 2013** (***CWC 2013*** ) was a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 2nd installment of the osu! Catch the Beat World Cup.
+The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 2nd installment of the osu!catch World Cup.
 
-## Tournament schedule
+## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
