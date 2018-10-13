@@ -40,7 +40,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
-| Commentators | *To be decided* |
+| Commentators | *to be decided* |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
