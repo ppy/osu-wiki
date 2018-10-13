@@ -7,17 +7,17 @@ tags:
 
 ![OWC 2018 Logo](img/logo.png)
 
-The **osu! World Cup 2018** (**_OWC 2018_**) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 9th installment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 9th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-10-13/2018-10-26 |
-| Live Drawings  | 2018-11-03 (14:00 UTC+0)  |
-| Group Stage  | 2018-11-10/2018-11-11 |
-| Round of 16  | 2018-11-17/2018-11-18 |
-| Quarterfinals  | 2018-11-24/2018-11-25 |
+| Live Drawings | 2018-11-03 (14:00 UTC+0) |
+| Group Stage | 2018-11-10/2018-11-11 |
+| Round of 16 | 2018-11-17/2018-11-18 |
+| Quarterfinals | 2018-11-24/2018-11-25 |
 | Semifinals | 2018-12-01/2018-12-02 |
 | Finals | 2018-12-08/2018-12-09 |
 | Grand Finals | 2018-12-15/2018-12-16 |
@@ -40,7 +40,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
-| Commentators | _To be decided_ |
+| Commentators | *To be decided* |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -137,7 +137,7 @@ _The mappools will be revealed one week before each particular stage_
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
-**Winning conditions:**
+7. **Winning conditions:**
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
    - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
