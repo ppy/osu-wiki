@@ -13,14 +13,14 @@ The **osu! World Cup 2018** (**_OWC 2018_**) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-10-13/2017-10-26 |
-| Live Drawings  | 2017-11-03 (14:00 UTC+0)  |
-| Group Stage  | 2017-11-10/2017-11-11 |
-| Round of 16  | 2017-11-17/2017-11-18 |
-| Quarterfinals  | 2017-11-24/2017-11-25 |
-| Semifinals | 2017-12-01/2017-12-02 |
-| Finals | 2017-12-08/2017-12-09 |
-| Grand Finals | 2017-12-15/2017-12-16 |
+| Registration Phase | 2018-10-13/2018-10-26 |
+| Live Drawings  | 2018-11-03 (14:00 UTC+0)  |
+| Group Stage  | 2018-11-10/2018-11-11 |
+| Round of 16  | 2018-11-17/2018-11-18 |
+| Quarterfinals  | 2018-11-24/2018-11-25 |
+| Semifinals | 2018-12-01/2018-12-02 |
+| Finals | 2018-12-08/2018-12-09 |
+| Grand Finals | 2018-12-15/2018-12-16 |
 
 ## Prizes
 
@@ -28,9 +28,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
 ## Organisation
 
