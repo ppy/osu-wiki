@@ -7,7 +7,7 @@ tags:
 
 ![IDTS Logo](img/logo.png)
 
-The **Indonesian Taiko Showdown** ***(IDTS)*** was an Indonesian double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](/users/7100002). It was the 1st installment of the tournament.
+The **Indonesian Taiko Showdown** (***IDTS***) was an Indonesian double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](/users/7100002). It was the 1st installment of the tournament.
 
 ## Tournament Schedule
 
@@ -47,7 +47,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 - [Discussion thread](/community/forums/topics/576070)
 - [Livestream](https://www.twitch.tv/osutaikoshowdown)
-- [Indonesian Taiko Showdown Skins](https://puu.sh/whPiI/0fd221d5fa.zip)
+- [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml)**
 
 -----------------------
@@ -86,7 +86,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was used during Finals and Grand Finals**
+**This mappool was used during Finals and Grand Finals.**
 
 **[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing)**
 

@@ -7,7 +7,7 @@ tags:
 
 ![Logo IDTS](img/logo.png)
 
-**Indonesian Taiko Showdown** ***(IDTS)*** adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ![][flag_ID] [fajar13k](/users/7100002). Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
+**Indonesian Taiko Showdown** (***IDTS***) adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ![][flag_ID] [fajar13k](/users/7100002). Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
 
 ## Jadwal Turnamen
 
@@ -88,7 +88,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Final
 
-**Mappool ini digunakan saat Babak Final dan Grand Final**
+**Mappool ini digunakan saat Babak Final dan Grand Final.**
 
 **[Unduh mappack di sini! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing)**
 
