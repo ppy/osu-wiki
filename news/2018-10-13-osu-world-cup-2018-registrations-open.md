@@ -13,7 +13,7 @@ For more details, refer to the **[osu! World Cup 2018 wiki article](/wiki/Tourna
 ## Tournament Schedule
 
 | Event               | Timestamp                |
-| ------------------: | :----------------------- |
+| --: | :-- |
 | Registration Phase  |  Oct 13th - Oct 26th     |
 | Live Drawings       |  Nov 3rd                 |
 | Group Stage         |  Nov 10th & 11th         |
@@ -25,9 +25,9 @@ For more details, refer to the **[osu! World Cup 2018 wiki article](/wiki/Tourna
  
 ## Prizes
 
-**1st:** US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year  
-**2nd:** US$160 per team member, exclusive single-run merch, Profile badge  
-**3rd:** US$80 per team member, exclusive single-run merch, Profile badge  
+- **1st:** US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year  
+- **2nd:** US$160 per team member, exclusive single-run merch, Profile badge  
+- **3rd:** US$80 per team member, exclusive single-run merch, Profile badge  
  
 ## How do I register?
  
