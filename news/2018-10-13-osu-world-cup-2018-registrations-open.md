@@ -12,16 +12,16 @@ For more details, refer to the **[osu! World Cup 2018 wiki article](/wiki/Tourna
  
 ## Tournament Schedule
 
-| Event               | Timestamp                |
+| Event | Timestamp |
 | --: | :-- |
-| Registration Phase  |  Oct 13th - Oct 26th     |
-| Live Drawings       |  Nov 3rd  (14:00 UTC)    |
-| Group Stage         |  Nov 10th & 11th         |
-| Round of 16         |  Nov 17th & 18th         |
-| Quarterfinals       |  Nov 24th & 25th         |
-| Semifinals          |  Dec 1st & 2nd           |
-| Finals              |  Dec 8th & 9th           |
-| Grand Finals        |  Dec 15th & 16th         |
+| Registration Phase | Oct 13th - Oct 26th |
+| Live Drawings | Nov 3rd  (14:00 UTC) |
+| Group Stage | Nov 10th & 11th |
+| Round of 16 | Nov 17th & 18th |
+| Quarterfinals | Nov 24th & 25th |
+| Semifinals | Dec 1st & 2nd |
+| Finals | Dec 8th & 9th |
+| Grand Finals | Dec 15th & 16th |
  
 ## Prizes
 
