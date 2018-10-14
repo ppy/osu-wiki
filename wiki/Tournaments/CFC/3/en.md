@@ -42,7 +42,7 @@ The Catch French Cup 3 is run by various community members by distributing the m
 | :-- | :-- |
 | Management | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Map Selectors | ![][flag_FR] [Emiru](/users/3306180) |
-| Commentators | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [redjiii](/users/138728) |
+| Commentators | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [redjiii](/users/138728) |
 | Streamers | ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Astreachan](/users/2953898), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Designer | ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](/users/6177263) |
@@ -59,20 +59,16 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 -----------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Grand Finals
 
-### Saturday, 13 October 2018
+### Saturday, 20 October 2018
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **14:00** |
-| #2 | Boros | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **16:00** |
-| #3a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **18:00** | ¹ |
-| #3b | -Ken | ![][flag_TN] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
-| #3c | Noulayfe | ![][flag_FR] | ![][flag_FR] | Boros | **18:00** | ¹ |
-| #3d | Noulayfe | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
+| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **19:00** |  |
+| #2 | Noulayfe | ![][flag_FR] | ![][flag_TN] | -Ken | **Takes place after #1 ends** | ¹ |
 
-¹ Encounter dependent on loser of Match #1 and winner of Match #2
+¹ Encounter dependent on if winner of Match #1 is Noulayfe
 
 -----------------------
 
@@ -87,18 +83,43 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [Chernobog](/users/3317042) |
-| **B** | ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [Nyton](/users/9475990) |
-| **C** | ![][flag_FR] [FulgurentKille](/users/4096322) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_CA] [Sinaeb](/users/1576095) |
-| **D** | ![][flag_FR] [Holloh](/users/7612994) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [Fanther](/users/7415863) |
-| **E** | ![][flag_FR] [Boros](/users/5490623) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [deesse du mal](/users/9177774) |
-| **F** | ![][flag_FR] [Sounny](/users/7326109) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_FR] [Iyorin](/users/1859986) |
-| **G** | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) |
-| **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877) | ![][flag_FR] [FulgurentKille](/users/4096322) | ![][flag_FR] [Holloh](/users/7612994) | ![][flag_FR] [Boros](/users/5490623) | ![][flag_FR] [Sounny](/users/7326109) | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [Noulayfe](/users/4316542) |
+| ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_FR] [Mnemosyne](/users/9255433) |
+| ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_FR] [Aequo3](/users/4495141) |
+| ![][flag_FR] [Chernobog](/users/3317042) | ![][flag_FR] [Nyton](/users/9475990) | ![][flag_CA] [Sinaeb](/users/1576095) | ![][flag_FR] [Fanther](/users/7415863) | ![][flag_FR] [deesse du mal](/users/9177774) | ![][flag_FR] [Iyorin](/users/1859986) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
+
+- NoMod
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](/beatmapsets/696969/#fruits/1476212)
+  - [t+pazolite - Garakuta Doll Play (Minato Yukina) \[DECEPTION\]](/beatmapsets/848546/#fruits/1774427)
+  - [Morimori Atsushi - Paradigm Shift (Emiru) \[Quantum Fluctuation\]](/beatmapsets/727816/#fruits/1536733)
+  - [May'n - ViViD (Silynn) \[Lucid\]](/beatmapsets/160957/#fruits/393059)
+  - [Chroma - I (BarkingMadDog) \[TAMA-chan owo\]](/beatmapsets/752736/#fruits/1584722)
+  - [Memme - Avalanche (byfar) \[Glacial Cascade\]](/beatmapsets/340048/#fruits/782333)
+- Hidden
+  - [TAG underground overlay - 'EVERMORE SIDE A (Emiru) \[Over The "Period"\]](/beatmapsets/845175/#fruits/1767919)
+  - [Sebastien Pintinaux & Caroline Szatapski - 'EVERMORE SIDE A (Emiru) \[Sur tes pas\]](/beatmapsets/845175/#fruits/1767916)
+  - [Nekomata Master+ - squall (RLC) \[WIND\]](/beatmapsets/92052/#fruits/248991)
+  - [MYTH & ROID - L.L.L. (Feb) \[Love & Passion\]](/beatmapsets/341870/#fruits/891272)
+- HardRock
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Minato Yukina) \[CrystalSeed vs. CLSW's EX\]](/beatmapsets/427801/#fruits/934113)
+  - [THE IDOLM@STER CINDERELLA GIRLS!! - Dan \~ CTB \~ JumpMap Pack (Minato Yukina) \[Absolute NIne \~ 7th \~ Marathon\]](/beatmapsets/692137/#fruits/1467357)
+  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlocck) \[Northrend\]](/beatmapsets/12030/#fruits/45433)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](/beatmapsets/40344/#fruits/131286)
+- DoubleTime
+  - [ClariS - Connect -TV MIX- (Spectator) \[Spec's Overdose\]](/beatmapsets/203567/#fruits/500293)
+  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB newer competition\]](/beatmapsets/31297/#fruits/102921)
+  - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298/#fruits/55474)
+  - [u's - Natsuiro Egao de 1, 2, Jump! (blissfulyoshi) \[Jump!\]](/beatmapsets/57762/#fruits/240107)
+- Tiebreaker
+  - **TBA**
 
 ### Finals
 
@@ -230,6 +251,14 @@ The Catch French Cup 3 is run by various community members by distributing the m
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-10-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](/community/matches/46670175) |
+| **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](/community/matches/46673460) |
+| **Noulayfe** ![][flag_FR] | **7** | 4 | ![][flag_FR] Boros | [#1](/community/matches/46677078) |
 
 ### Semifinals
 
