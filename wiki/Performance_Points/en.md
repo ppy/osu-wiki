@@ -1,7 +1,7 @@
 Performance Points
 ==================
 
-The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like *osu!*.
+The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
 
 It aims to shift the focus of skill progression from the amount of time played to an **actual representation of the player's skill.** This is attained by the calculation of a unique _pp_ score, based on the difficulty of a beatmap and a player's performance on that map.
 
@@ -95,11 +95,11 @@ Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the _i_th
 
 **Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately _25397_ scores.**
 
-You can calculate the exact amount of this bonus by following this formula, where _N_ is the number of ranked maps with a score set:
+You can calculate the exact amount of this bonus by following this formula, where `N` is the number of ranked maps with a score set:
 
-416.6667 \/ (1- 0.9994^_N_).
+`416.6667 * (1 - 0.9994 ^ N)`.
 
-The median number of scores required to reach half of this bonus is roughly _1168_. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
+The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
 
 FAQ

@@ -28,23 +28,25 @@ Term | Meaning
 **Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
 **Mod multiplier**        | The multiplier of the selected mods
 
-Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
+Each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
 Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
 ### How to calculate the Difficulty multiplier
+
+The **Difficulty multiplier** was calculated based on each map's star rating (the old one, before the introduction of performance points), which factored in object density, and was affected by the difficulty settings of the map as follows.
 
 [Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
 Difficulty points range | Difficulty multiplier
-:---:|---
-0 - 5   | 2x multiplier
-6 - 12  | 3x multiplier
-13 - 17 | 4x multiplier
-18 - 24 | 5x multiplier
-25 - 30 | 6x multiplier
+:---:|:---
+**0 - 5**   | 2x multiplier
+**6 - 12**  | 3x multiplier
+**13 - 17** | 4x multiplier
+**18 - 24** | 5x multiplier
+**25 - 30** | 6x multiplier
 
 The limited highest is 27 difficulty points with CS7, OD10 and HP10.
 The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
@@ -58,7 +60,9 @@ It will only account for original values only.
 
 Each GREAT (excluding Kiai Time's 1.2x bonus) is worth _300 + RoundDown(Combo / 10)_ times _n_ up to a maximum of _300+10n_ points, in which _n_ depends on the difficulty rating of the song.
 
-Each _GOOD_ gives half of the score as _GREAT_ does, while zero score is given for _MISS/BAD_.
+Each _GOOD_ gives half of the score as _GREAT_ does.
+
+Each _MISS/BAD_ gives zero score.
 
 Double score is given for _successful hit_ on large notes (different from _Taiko no Tatsujin_, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes).
 

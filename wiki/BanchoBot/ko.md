@@ -1,6 +1,9 @@
-# BanchoBot (한국어)
+---
+outdated: true
+---
+# BanchoBot
 
-초봇이란반
+반초봇이란
 ----------
 
 정의

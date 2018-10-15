@@ -1,7 +1,10 @@
+---
+outdated: true
+---
 Kontributor Komunitas
 ======================
 
-![Contributor Badge](Contributor_Badge.png "Contributor Badge")
+![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
 
 Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](/wiki/Glossary) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
 
@@ -33,8 +36,8 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
 | User | Kontributor |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/u/201392) | Memberikan kontribusi yang sangat bagus untuk osu!wiki |
-| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Memberikan kontribusi yang sangat bagus untuk osu!wiki |
+| [Repflez](https://osu.ppy.sh/u/201392) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
+| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
 | [givenameplz](https://osu.ppy.sh/u/947499) | Pengembang osu!rank dan osu!post. |
 
 ### January 2016

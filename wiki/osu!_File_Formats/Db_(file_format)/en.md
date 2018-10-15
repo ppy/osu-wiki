@@ -40,6 +40,7 @@ Some data types specific to osu!.db are defined below.
 | ---- | --------------- | ----------- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
 | Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)][Osu Link] for more information regarding timing points. |
+| DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
 
 ### osu!.db format
 
@@ -68,7 +69,7 @@ Some data types specific to osu!.db are defined below.
 | String | Audio file name |
 | String | MD5 hash of the beatmap |
 | String | Name of the .osu file corresponding to this beatmap |
-| Byte | Ranked status (4 = ranked, 5 = approved, 2 = pending/graveyard) |
+| Byte | Ranked status (0 = unknown, 1 = unsubmitted, 2 = pending/wip/graveyard, 3 = unused, 4 = ranked, 5 = approved, 6 = qualified, 7 = loved) |
 | Short | Number of hitcircles |
 | Short | Number of sliders (note: this will be present in every mode) |
 | Short | Number of spinners (note: this will be present in every mode) |
@@ -179,6 +180,4 @@ This database contains the scores achieved locally.
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
 
-Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)][Osr Link]. This explains the empty string and -1 int.
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
+Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).

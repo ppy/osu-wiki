@@ -9,13 +9,13 @@ The Ranking Charts for November 2016 have been just released and can be found [h
 
 <!-- more -->
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
 
-###osu!
+### osu!
 
 + **[Tonon - Shirayuki ~sirayuki~](https://osu.ppy.sh/s/429316) by [yf_bmp](https://osu.ppy.sh/u/1243669)**  (Nominator: [-kevincela-](https://osu.ppy.sh/u/266596))
 
@@ -44,7 +44,7 @@ The 'Extra' captures the complexity of the song perfectly by using various conce
 With all 6 difficulties done solo, Kalindraz' first ranked mapset is really a cut above a regular 'first ranked'. Throughout the whole set, a clear geometric and symmetric design can be distinguished, making the set feel clean and cohesive. Although the rhythms expressed in the song might be somewhat difficult to represent, Kalindraz has done it well, with intuitive implementation from Easy all the way to Oberum Primus. A fitting entry in this month's charts.
 
 
-###osu!taiko
+### osu!taiko
 
 + **[LeaF - Alice in Misanthrope -Ensei Alice-](https://osu.ppy.sh/s/523315) by [S a n d](https://osu.ppy.sh/u/676578)** (Nominator: [Ntiger](https://osu.ppy.sh/u/1910766))
 
@@ -71,7 +71,7 @@ I find this beatmap to be very appealing due to its overall consistent structure
 It seems like I found my inner lolicon in me as I'm somehow found of this song. But beside that, I think this beatmap offers a good disparity between harder and easier, but also denser and less denser patterns which makes the beatmap feel more lively. One may argue about certain 1/6, but for me it was enough to enter current charts as they seem to be easy to comprehent on such low BPM.
 
 
-###osu!catch
+### osu!catch
 
 + **[F-777 - Airborne Robots](https://osu.ppy.sh/s/419373) by [JBHyperion](https://osu.ppy.sh/u/4879508)** (Nominator: [Chara](https://osu.ppy.sh/u/829284))
 
@@ -99,7 +99,7 @@ For those of you who loved CLSW's Endless Tears mapset and wanted some sort of a
 
 
 
-###osu!mania
+### osu!mania
 
 + **[DragonForce - The Warrior Inside](https://osu.ppy.sh/s/330405) by [_underjoy](https://osu.ppy.sh/u/2235750)** (Nominator: [Jinjin](https://osu.ppy.sh/u/3360737))
 
@@ -130,10 +130,10 @@ da whooshiaq strikes again! This time with a very fast (259 BPM!) song from Noah
 **The November 2016 ranking charts will end on the 15th January 2017.**
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Due to a maintenance of the current score system for the charts, we have to halt the release of the winners of the past charts. We apologize for the inconvenience and hope to reactivate the score system soon!
 
-For now we wish you good luck with the new charts! We’d love to hear any and all feedback you have about the them - feel free to leave a comment below!
+For now we wish you good luck with the new charts! We'd love to hear any and all feedback you have about the them - feel free to leave a comment below!
 
 —OnosakiHito

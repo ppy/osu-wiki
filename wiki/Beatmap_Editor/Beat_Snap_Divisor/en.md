@@ -3,7 +3,7 @@ Beat Snap Divisor
 
 The Beat Snap Divisor is used to limit where notes can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the notes, that is, more notes can be placed in the same measure.
 
-Each of the settings put different colors of ticks on the [Timelines](/wiki/Beatmap_Editor/Timelines). The ticks are as follows (for [Standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), and [osu!catch](/wiki/Game_Modes/osu!catch)):
+Each of the settings put different colours of ticks on the [Timelines](/wiki/Beatmap_Editor/Timelines). The ticks are as follows (for [Standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), and [osu!catch](/wiki/Game_Modes/osu!catch)):
 
 ### Divisor 1/1
 

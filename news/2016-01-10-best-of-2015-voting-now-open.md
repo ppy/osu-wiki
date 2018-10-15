@@ -9,7 +9,7 @@ With 2015 finally over and the new year well under way, it's time to take a mome
 
 For the first time ever in osu! history, the yearly "Best of" voting is now **fully mode-based**, meaning that you can vote for your favorite maps in all of the modes you play, instead of just standard!
 
-Head on over to [the voting page](https://osu.ppy.sh/p/bestof2015) and vote for **ten** of your favorite maps from 2015. 
+Head on over to [the voting page](https://osu.ppy.sh/p/bestof2015) and vote for **ten** of your favorite maps from 2015.
 
 You can only vote for maps that you have played before.
 

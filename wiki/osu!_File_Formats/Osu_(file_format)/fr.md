@@ -226,7 +226,7 @@ Un slider crée des droplets dans osu!catch, des roulements jaune dans osu!taiko
 
 *sliderType* sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). Un slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
 
-*curvePoints (x:y|...)* est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Le spoints rouges apparaîssent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
+*curvePoints (x:y|...)* est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Les points rouges apparaissent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
 
 *repeat (Integer)* est le nombre de temps qu'un joueur passera sur le slider. Une valeur de 1 ne se répétera pas, 2 se répétera une fois, 3 deux fois, et ainsi de suite.
 

@@ -1,4 +1,4 @@
-osu! Program Files (中文)
+osu! Program Files
 ===============================
 
 ![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")

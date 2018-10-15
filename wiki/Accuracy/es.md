@@ -1,94 +1,76 @@
-Precisión
-==========
-Hay tres tipos de precisión: precisión por [beatmap](/wiki/Beatmaps), la precisión general y la precisión por [pp](/wiki/Performance_Points).
+# Precisión
 
-En resumen, la precisión por beatmap depende del [puntaje de las notas](/wiki/Score) conseguidos durante la partida, la precisión general depende de cada porcentaje de precisión en los mejores puntajes (ten en cuenta que el porcentaje general será calculado de manera de que los mejores puntajes tengan la mayor influencia), y la precisión por pp depende de la precisión de los puntajes publicados elegibles para la ganancia de pp.
+La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/pp) del jugador, que depende de la precisión del puntaje obtenido.
 
-osu!
-----------
+## Modos de juego
 
-En el modo [osu!](/wiki/Game_Modes/osu!), el porcentaje de precisión es calculado midiendo el puntaje obtenido en cada nota y dividiéndolo por la máxima cantidad posible. En otras palabras:
+### ![](/wiki/shared/mode/osu.png) osu!standard
 
-**Precisión = Puntaje total de notas / (Número total de notas * 300)**
+![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
 
-| Puntaje total de notas | Número total de notas |
-| ---------------------| ---------------------|
-| (Cantidad de 50s \* 50 + Cantidad de 100s \* 100 + Cantidad de 300s \* 300) | (Cantidad de fallos + Cantidad de 50's + Cantidad de 100's + Cantidad de 300's) |
+En osu!standard, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
-Para referencia: 300 = 6/6, 100 = 2/6, 50 = 1/6, Fallo = 0/6.
+Referencias para un círculo de golpe
 
-osu!taiko
-------
+```
+300 -> 300 / 300 = 1   = 100.00%
+100 -> 100 / 300 = 1/3 =  33.00%
+50  ->  50 / 300 = 1/6 =  16.67%
+0   ->   0 / 300 = 0   =   0.00%
+```
 
-En el modo [osu!taiko](/wiki/Game_Modes/osu!taiko), la precisión es calculada con la suma de la precisión de todas las notas dividida entre el número de notas. Un EXCELENTE (良) cuenta como un 100%, BIEN (可) como un 50% y un FALLO/MAL(不可) como un 0%. Los drumrolls y spinners no afectan la precisión.
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-**Precisión = Puntaje total de notas / (Número total de notas * 300)**
+![Precisión = 0.5(numero de GOOD + numero de GREAT) / (numero de BAD + numero de GOOD + numero de GREAT)](img/accuracy_taiko.png "Formula de precisión para osu!taiko")
 
-| Puntaje total de notas | Número total de notas |
-| ---------------------| ---------------------|
-| (Cantidad de fallos \* 0 + Cantidad de 100s(BIEN) \* 0.5 + Cantidad de Número de 300s(EXCELENTE) \* 1) \* 300 | (Cantidad de fallos + Cantidad de 100s + Cantidad de 300s) |
+En osu!taiko, la precisión se calcula sumando la precisión de la nota dividida por el número de notas. La precisión de la nota son las siguientes: Un GREAT (良) cuenta como 100%, GOOD (可) como 50% (mitad), y MISS / BAD (不可) como 0% (El cual también rompe el combo). Los Drum rolls y las ruletas no influyen en la precisión.
 
-osu!catch
-------------------
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
-En el modo [osu!catch](/wiki/Game_Modes/osu!catch), la precisión es calculada con el numero de objetos atrapados dividido entre el numero total de objetos. Los objetos del spinner no cuentan.
+![Precisión = (número de gotitas + número de gotas + número de frutas) / (número de gotitas falladas + número de gotas falladas + número de frutas falladas + número de gotitas + número de gotas + número de frutas)](img/accuracy_catch.png "Formula de precision para osu!catch")
 
-**Precisión = Número de frutas atrapadas / Número total de frutas**
+En osu!catch, la precisión se calcula tomando el total de objetos de golpe recogidos que no sean ruletas dividido por el número total de objetos que no sean ruletas. Todos los objetos golpeados tienen el mismo valor, a excepción de los plátanos ya que son parte de las ruletas
 
-| Número de frutas atrapadas | Número total de frutas | Condición |
-| ------------------------------| ---------------------- | --------- |
-| (Número de droplets + Número de 100s + Número de 300s) | (Número de fallos + Número de droplets + Número de 100s + Número de 300s + Número de droplets perdidos) | Las "Bananas" (frutas del spinner) no cuentan. |
+*Nota para los usuarios de API: Para calcular la precisión en osu!catch, el número de gotas está bajo `count50` y el número de gotas perdidas está bajo `countkatu`.*
 
-Ten en cuenta que si usas la API para calcular la precisión, el número de droplets se encuentra bajo ``count50`` y el número de droplets perdidos bajo ``countkatu``.
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
-osu!mania
----------
+![Precisión = (50 \* número de 50s + 100 \* número de 100s + 200 \* número de 200s + 300 \* número de 300s + 300 \* número de MAXs) / 300(número de 0s + número de 50s + número de 100s + número de 200s + número de 300s + número de MAXs)](img/accuracy_mania.png "Formula de precisión para osu!mania")
 
-En este modo, la precisión es calculada de manera similar al modo [osu!](/wiki/Game_Modes/osu!).
+En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard).
 
-**Precisión = Puntaje total de notas / (Número total de notas * 300)**
+## Gráfico de rendimiento
 
-| Puntaje total de notas | Número total de notas |
-| -------------------- | -------------------- |
-| (Número de notas + Número de 100s + Número de 300s) | (Número de fallos + Número de 50s + Número de 100s + Número de 200s + Número de 300s + Número de MAXes) |
+![Gráfico de rendimiento](img/performance_graph.jpg "Gráfico de rendimiento")
 
-Ten en cuenta que tanto MAX como 300 tienen el máximo valor al calcular la precisión, a pesar de que MAX vale más que 300 en cuanto a puntaje.
+El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
-Pantalla de resultados
------------------
+*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/results_screen), esta información no se guardará.*
 
-### Clasificación
+### Precisión
 
-  Esto muestra tu calificación, la cantidad de aciertos y fallos, así como tu porcentaje de precisión. Para más detalles, ve a [Puntaje](/wiki/Score).
+Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con *Error* y *Unstable rate*.
 
-![Panel de ranking del modo osu!](img/standard.jpg "Panel de ranking del modo osu!")
-![Panel de ranking del modo osu!taiko](img/taiko.jpg "Panel de ranking del modo osu!taiko")
-![Panel de ranking del modo osu!catch](img/catch.jpg "Panel de ranking del modo osu!catch")
-![Panel de ranking del modo osu!mania](img/mania.jpg "Panel de ranking del modo osu!mania")
+Debido a la forma en que se implementan los mods [DT](/wiki/DT) y [HT](/wiki/HT), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
 
-### Gráfico de rendimiento
+#### Error
 
-  Esto muestra un gráfico de tu rendimiento en la partida. Más información es mostrada cuando mueves el cursor sobre el gráfico:
+Error siempre mostrará dos valores que representan cuán lejos estaban los primeros golpeos en promedio y cuán lejos estaban los golpeos finales en promedio. Cuanto mayor sea el valor de la [Dificultad general](/wiki/Overall_Difficulty) en el beatmap, menores tendrán que ser los valores de error para tener un buen rendimiento al jugar tal beatmap.
 
-![Gráfico de rendimiento](img/tr.jpg "Gráfico de rendimiento")
+#### Unstable rate
 
-#### Precisión
+Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de los golpes, donde los números más bajos son mejores (los mejores jugadores a menudo puntúan por debajo de 100). Tenga en cuenta que el valor mide la consistencia, no la precisión, por lo que consistentemente golpear 15ms temprano es lo mismo que golpear constantemente "a tiempo". La fórmula es esencialmente la desviación estándar de los errores de acierto (en milisegundos) multiplicados por 10.
 
-| Término | Significado |
-| ---- | ------- |
-| Error | **Estos dos valores representan, en promedio, qué tan imprecisos son tus golpes adelantados y atrasados.** Cuanto más [OD](/wiki/Beatmap_Editor/Song_Setup) posea el beatmap que estás jugando, estos valores deberán ser menores para ir bien. |
-| Tasa de inestabilidad | **Este valor representa qué tan consistentemente sincronizas tus golpes**, cuanto menor sea el valor, mejor (los mejores jugadores usualmente consiguen menos de 100). Ten en cuenta que esto mide consistencia, no precisión, así que si consistentemente golpeas 15 milisegundos antes, conseguirás los mismos resultados que obtendrías si consistentemente golpeas a tiempo. La fórmula es esencialmente la desviación estándar de tus fallos (en milisegundos) multiplicado por 100. |
+### Spin
 
-#### Giro
+*Nota: Spin solo se usa para [osu!standard](/wiki/osu!standard).*
 
-Sólo en el modo osu!.
+Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 
-| Término | Significado |
-| ---- | ------- |
-| Velocidad | **Velocidad promedio en todos los spinners en el beatmap.** Max es la máxima cantidad de rpm(rotaciones por minuto) conseguidos en uno de los spinners.
-| Tasa de inestabilidad | **Valores basados en el promedio contra la máxima deviación**, cuanto menor sea, mejor. La fórmula es desconocida. |
+#### Velocidad
 
-**Notas**
+La velocidad representa los RPM (revoluciones por minuto) promedio en todas las ruletas en el beatmap. MAX es el RPM más alto logrado en cualquiera de las ruletas del beatmap.
 
--   Los cuatro valores mostrados hace un momento desaparecerán al cerrar osu!. Sólo puedes verlos otra vez viendo una repetición.
--   Debido a la forma en la que los mods Doble tiempo y Medio Tiempo funcionan, el valor de error y la tasa de inestabilidad  serán multiplicados por el mismo factor que la canción. Para conseguir los verdaderos resultados al jugar Doble Tiempo, divide los mismos entre 1.5. Asimismo, multiplica los resultados por 1.33 al jugar con Medio Tiempo.
+#### Unstable rate
+
+Unstable rate representa el promedio contra la desviación máxima, donde los números más bajos son mejores. La fórmula es desconocida.

@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking
 With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](http://osu.ppy.sh/p/chart?ch=MONTH1505)!
 Along with that, we concluded the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month [DoKito](https://osu.ppy.sh/u/537084), [qoot8123](https://osu.ppy.sh/u/766371), [Pew](https://osu.ppy.sh/u/597692) and [Blocko](https://osu.ppy.sh/u/4075092) picked the maps for the Monthly Ranking Charts.
 
-##Spring 2015 Season is over!
+## Spring 2015 Season is over!
 
 Congratulations to the winners of the Ranking Charts Spring Season! [jantan](https://osu.ppy.sh/u/887924) will be rewarded with **3 months of supporter status** and the user title **Charts Champion** for 3 months. For the first time, [Dusk](https://osu.ppy.sh/u/533210) was able to defend their titles twice! This tremendous achievement grants them the unique user title **Charts Legend** and a boosted prize of **6 months of supporter status** instead! This is the biggest prize we have available in this competition! Congratulations!
 [Ikkun](https://osu.ppy.sh/u/1059945) and [Cryolien](https://osu.ppy.sh/u/1626983) also achieved the noteworthy milestone of winning two seasons in a row. They will receive the user title **Charts Grandmaster** and a boosted prize of **6 months of supporter status**.
@@ -22,26 +22,26 @@ Here are the winners of our Spring 2015 Season:
 
 We would like to thank everyone for participating on the seasonal competition we had so far. Unfortunately, we will have to halt this competition and will not open a new long-term seasonal competition with this Ranking Charts. As the current system requires further improvement, we considered it as the best to conclude the Ranking Charts long-term ladderboards with the end of the Spring 2015 season and may open them up whenever we were able to revamp the system we had so far here.
 
-##Ranking Charts Creation
+## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 
-###osu!
+### osu!
 
 For osu!, we decided to let **[DoKito](https://osu.ppy.sh/u/537084)** pick their favourite maps.
 
 + **[JO*STARS ~TOMMY, Coda, JIN~ - JoJo Sono Chi no Kioku~end of THE WORLD~](https://osu.ppy.sh/s/269969) by [Atsuro](https://osu.ppy.sh/u/2279351)**
 
-You have to ORA at least once in your life. This one is a rather short one, but that makes you get to the ORA part faster. The patterns in this map look and play amazingly well, but the end adds the final touch to it. The end is what makes this map unique and rememberable. It fits so well to the song, is challenging and very much fun. I'm telling you! 
+You have to ORA at least once in your life. This one is a rather short one, but that makes you get to the ORA part faster. The patterns in this map look and play amazingly well, but the end adds the final touch to it. The end is what makes this map unique and rememberable. It fits so well to the song, is challenging and very much fun. I'm telling you!
 
-+ [Katarzyna Laska - No Ordinary Girl](https://osu.ppy.sh/s/198978) by [Tidek](https://osu.ppy.sh/u/743282) 
++ [Katarzyna Laska - No Ordinary Girl](https://osu.ppy.sh/s/198978) by [Tidek](https://osu.ppy.sh/u/743282)
 
 You have to be good to full-combo this with DoubleTime. After a few retrys the song will give you nightmares. But besides that it is a great map and got some really challenging jumps. There isn't much to say about this map, since it is a short one, but it is good for improving your aim.
 
 + [Yooh - Ice Angel](https://osu.ppy.sh/s/297933) by [ktgster](https://osu.ppy.sh/u/53378)
 
-If you like long streams and small circles, this map is perfect for you. This map is especially fun because of its changing stream spacing and decent flow. You really have to have a good aiming/movement to play this and of course the ability to stream 168 consistently. If you are one of the not-so-good streamers, this might also be a good practice map for your stamina and your movement. Just try the map out yourself. I - for my share - really liked this map. 
+If you like long streams and small circles, this map is perfect for you. This map is especially fun because of its changing stream spacing and decent flow. You really have to have a good aiming/movement to play this and of course the ability to stream 168 consistently. If you are one of the not-so-good streamers, this might also be a good practice map for your stamina and your movement. Just try the map out yourself. I - for my share - really liked this map.
 
 + [Hitori Tori - perthed again (yambabom remix)](https://osu.ppy.sh/s/268693) by [Asphyxia](https://osu.ppy.sh/u/1715720)
 
@@ -56,7 +56,7 @@ Cherry Blossom... the master of streams and 1/4 sliderjumps. This is not even hi
 Never heard of the mapper "Smoothie World". It looks like this is his first ranked map, but it looks like we will see more of him in the future. This map is a nice mix of 200BPM streams and jumps, which follow the music very well. Anyways. I am running out of ideas what to write, so just play the map yourself and enjoy!
 
 
-###Taiko
+### Taiko
 
 For Taiko, we asked **[qoot8123](https://osu.ppy.sh/u/766371)** about their favourite maps in May 2015.
 
@@ -87,7 +87,7 @@ Pretty solid mapset made by tasuke912, and it is good to see there is a differen
 A classic taiko map for TV size song which is mapped by JUDYDANNY. He follows the snare pretty solid by using kat. And he is also using big don / kat to emphsize the vocal's accent. That's very common way to map this kind of song, but it is still very good, so I choose this mapset for this chart.
 
 
-###Catch the Beat
+### Catch the Beat
 
 For Catch the Beat, **[Pew](https://osu.ppy.sh/u/597692)** was the chosen one to declare the winners of the May 2015 beatmaps.
 
@@ -116,7 +116,7 @@ Another well done Catch the Beat difficulty, this one, the hypderdash flows very
 This is a very interesting map ranked this month, in the convert form it has a very new and fresh style of complex jumps and patterning. what more is that difficulty such as another focuses on timed jumps and expert with hyperdashes makes it a good map for harder players. but the easier difficulty is still very enjoyable for new players and mod players, this is due to the high quality hitsounds and simpler patterns that newer players would enjoy
 
 
-###osu!mania
+### osu!mania
 
 For osu!mania, **[Blocko](https://osu.ppy.sh/u/4075092)** was able to select their personal most noteworthy beatmap from last month.
 
@@ -135,7 +135,7 @@ Another great mapset from the same person that mapped one of the hardest 4K maps
 
 + [Halozy - Koi no Serenade](https://osu.ppy.sh/s/308944) by [[17VA]](https://osu.ppy.sh/u/1895984)
 
-A catchy song wonderfully mapped by 17VA. His style emphasizes on heavy long note usage, but the way the patterns are arranged look aesthetically pleasing. They are also quite fun to play for many players as it has streams and manageable 1/4 jacks added in the mix of long notes. Along with being a good long note practice map, this map is unique with its use of long notes while covering the relaxing feeling of the song. 
+A catchy song wonderfully mapped by 17VA. His style emphasizes on heavy long note usage, but the way the patterns are arranged look aesthetically pleasing. They are also quite fun to play for many players as it has streams and manageable 1/4 jacks added in the mix of long notes. Along with being a good long note practice map, this map is unique with its use of long notes while covering the relaxing feeling of the song.
 
 + [senya - Utakata, Ai no Mahoroba](https://osu.ppy.sh/s/186159) by [Kyousuke-](https://osu.ppy.sh/u/2616570)
 
@@ -149,7 +149,7 @@ Kyousuke- brings out 8 difficulties in a mapset featuring the ever-popular 4K ke
 **The May 2015 ranking charts will end on the 15th July 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 
 
-##Past Ranking Charts results
+## Past Ranking Charts results
 
 Congratulations to the winners of the April 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
@@ -158,6 +158,6 @@ Congratulations to the winners of the April 2015 Ranking Charts. They receive a 
 + **Catch the Beat:** [Dusk](https://osu.ppy.sh/u/533210)
 + **osu!mania:** [FusHy](https://osu.ppy.sh/u/1636180)
 
-Good luck with the new charts! We’d love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
+Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 
 —Loctav

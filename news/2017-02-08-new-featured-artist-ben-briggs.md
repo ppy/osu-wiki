@@ -10,9 +10,9 @@ Like video games? Like remixes? Like chiptunes? [**Ben Briggs**](https://new.ppy
 
 <a href="https://new.ppy.sh/beatmaps/artists/11"><img src="https://assets.ppy.sh/artists/11/header.jpg"></a>
 
-We're super excited to announce another addition to the Featured Artist roster, namely the amazingly talented **Ben Briggs** of OC ReMix fame! Churning out supercharged remixes of video game classics since 2005, and later moving into EDM and live performances, you're sure to be snared in **Ben Briggs**' iconic sound.<br><br><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1310213430/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://benbriggs.net/album/no-restraint-2">NO RESTRAINT by Ben Briggs</a></iframe>
+We're super excited to announce another addition to the Featured Artist roster, namely the amazingly talented **Ben Briggs** of OC ReMix fame! Churning out supercharged remixes of video game classics since 2005, and later moving into EDM and live performances, you're sure to be snared in **Ben Briggs**' iconic sound.
 
-<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1310213430/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://benbriggs.net/album/no-restraint-2">NO RESTRAINT by Ben Briggs</a></iframe>
 
 If you're fond of chiptune hits, nerd and videogame subculture, give **Ben Briggs** a shot.
 

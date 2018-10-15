@@ -1,7 +1,10 @@
+---
+outdated: true
+---
 Collaboratori della Comunità
 ==================================
 
-![Badge dei Collaboratori](Contributor_Badge.png "Badge dei Collaboratori")
+![Badge dei Collaboratori](/wiki/shared/contributor.jpg "Badge dei Collaboratori")
 
 I **Collaboratori della Comunità** sono le persone che hanno preso l'iniziativa di provvedere servizi alla comunità di [osu!](/wiki/Glossary) a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera comunità.
 
@@ -34,8 +37,8 @@ le chart. |
 
 | Utente | Contributi |
 | ---- | ------------- |
-| [Repflez](https://osu.ppy.sh/u/201392) | Straordinario Contributo alla osu!wiki. |
-| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Straordinario Contributo alla osu!wiki. |
+| [Repflez](https://osu.ppy.sh/u/201392) | Straordinario Contributo alla osu! wiki. |
+| [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Straordinario Contributo alla osu! wiki. |
 | [givenameplz](https://osu.ppy.sh/u/947499) | Ha sviluppato osu!Rank e osu!Post |
 
 ### Gennaio 2016

@@ -27,7 +27,7 @@
 # Replay
 
 A replay is a direct emulation of a play, either by a player or a perfect play done by [Auto][Auto wikilink] mod.
-As long as the local replay emulation file with a `.osr` file extension was available with the difficulty/beatmap it reference or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by _osu!_ to be watched.
+As long as the local replay emulation file with a `.osr` file extension was available with the difficulty/beatmap it reference or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by osu! to be watched.
 
 ## Replay options
 
@@ -182,7 +182,7 @@ Viewing a failed play does not work with the [No Fail(NF)][No Fail wikilink]/[Re
 Using the [Perfect(PF)][Perfect wikilink] game modifier would forcefully quick-retry instead of failing the player.
 
 **This type of replay will not be saved internally nor is allowed to be exported**.
-To record the failed replay, please use external third-party software for now since _osu!_ has yet to have native export support for failed replay.
+To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
 If there was a retry streak, it will be lost once entering the _Failed_ replay state.
 
@@ -266,7 +266,7 @@ If a new top 50 global record was added, the previous holder for \#50 position's
 
 To watch a server replay, an osu!account must be logged in-game and be connected to Bancho.
 At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
-Press on the `Watch replay` button and _osu!_ will download the replay file from the Bancho as shown in the left of the image.
+Press on the `Watch replay` button and osu! will download the replay file from the Bancho as shown in the left of the image.
 The replay only plays once and will be deleted after the replay ends/quit early.
 
 ## Trivia

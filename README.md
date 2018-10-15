@@ -1,14 +1,39 @@
-# osu-wiki
-[osu! on the web](https://osu.ppy.sh) | [dev chat](https://discord.gg/ppy)
+# osu! wiki [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-The future home of osu!wiki
+<!--
+Uncomment and replace after the main wiki page gets implemented, link isn't official:
+Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
+-->
+
+Home of the [osu!](https://osu.ppy.sh) wiki.
 
 ## Requirements
 
-1. A [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/ "GitHub Help in Signing up an account").
-2. A general understanding of the feature-branch workflow.
-3. Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown(GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub").
-4. Ability to write in English, preferably British English.
+1. General understanding of the feature-branch workflow (e.g. make a pull request from a branch that is not `master`).
+2. Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown (GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help: Writing on GitHub").
+3. Ability to write in English, preferably British English.
+
+## Getting Started
+
+### Helpful Links
+
+- The [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide) for help with using GitHub, specifically tailored for the osu! wiki project.
+
+- The [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria), which **must** be adhered to for all new and rewritten articles going forward.
+
+## File caching
+
+### Wiki articles
+
+Articles are cached for up to five hours.
+
+### Images
+
+Images are cached for up to two hours.
+
+### News posts
+
+News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a pull request to fix it then tell Ephemeral (`ephemeralis#0001`) or Shiro (`Shiro#1584`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
 
 ## Licence
 
@@ -17,11 +42,3 @@ The majority of content in this repository is licensed under [CC-BY-NC 4.0](http
 As this is a wiki, there may be content with third party licences. These licences will be cited local to the content, and override the global licence file.
 
 Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
-
-## Getting Started
-
-Contributions to the osu!wiki are now done through GitHub.
-
-A basic guide to using GitHub, specifically tailored for the osu!wiki project, is available at the [osu!wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!wiki_contribution_guide).
-
-The article style guide, which _must_ be adhered to for all new and rewritten pages going forward, is available at the [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria).

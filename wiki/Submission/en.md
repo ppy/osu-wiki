@@ -3,9 +3,9 @@ Submission
 
 [Beatmappers](/wiki/Glossary/#beatmapper) can submit either [Work-In-Progress (WIP)](/wiki/Glossary/#wip) beatmaps or beatmaps they deem complete (2 difficulties needed) to the [Beatmap's](https://osu.ppy.sh/forum/12) [Work In Progress/Help](https://osu.ppy.sh/forum/10) and [Pending Beatmaps](https://osu.ppy.sh/forum/6) subforums respectively, using the in-game **Beatmap Submission System (BSS)** `Ctrl` + `Shift` + `U`.
 
-Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads the beatmap with all its elements (mp3, video, storyboarding, etc.) to osu!'s server and creates a thread with a download link in the relevant forum. Moderators and other forum members can then comment and offer feedback on the beatmap. Once a beatmap has the approval of at least two Beatmap Nominaters and the QAT, it is ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Ranked.
+Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads the beatmap with all its elements (mp3, video, storyboarding, etc.) to osu!'s server and creates a thread with a download link in the relevant forum. Moderators and other forum members can then comment and offer feedback on the beatmap. Once a beatmap has the approval of at least two Beatmap Nominaters and the QAT, it is ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked.
 
-![Heart icon](/wiki/shared/Heart.gif "Heart icon") Ranked beatmaps are moved to the [Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14) subforum, added to the [Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist), included in the Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist), and appear in their profile. The scores achieved when playing them count towards a player's Total Ranked Score in the [Player Rankings](https://osu.ppy.sh/p/playerranking) and the ratings players can give them count towards their Beatmapper Rank.
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked beatmaps are moved to the [Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14) subforum, added to the [Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist), included in the Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist), and appear in their profile. The scores achieved when playing them count towards a player's Total Ranked Score in the [Player Rankings](https://osu.ppy.sh/p/playerranking) and the ratings players can give them count towards their Beatmapper Rank.
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
@@ -47,41 +47,41 @@ After you submit your beatmap, it will be available for downloading by the osu! 
 
 Moderators can give a symbol to the beatmap's thread based on their evaluation of the beatmap. This symbol is displayed next to its subject in the subforum and next to the title of its first post. The possible symbols a beatmap can have are (from best to worst):
 
--   ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Heart / ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Flame
--   ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought bubble (Bubble for short)
--   ![Star icon](/wiki/shared/Star.gif "Star icon") Star
+-   ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Heart / ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Flame
+-   ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought bubble (Bubble for short)
+-   ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star
 -   No symbol
--   ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Heart-broken
--   ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuke
+-   ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Heart-broken
+-   ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuke
     -   *Graveyard* if inactive for a month.
 
-#### ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Heart
+#### ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Heart
 
-Once a second Beatmap Nominator nominates a beatmap with a ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble symbol, he/she qualifies it and it is automatically given this symbol when moved to the Ranked/Approved Beatmaps forum.
+Once a second Beatmap Nominator nominates a beatmap with a ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought Bubble symbol, he/she qualifies it and it is automatically given this symbol when moved to the Ranked/Approved Beatmaps forum.
 
-#### ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Flame
+#### ![Fire icon](/wiki/shared/icon/flame.gif "Fire icon") Flame
 
-A Flame is given to beatmaps that do not have the technical problems that ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuked beatmaps have, and it is considered as Approved beatmaps because they are long and fit within the Ranking Criteria. Older Approval criteria included total score or difficulty, but only length is taken into account now. Those maps are typically difficult and made as a challenge to top players.
+A Flame is given to beatmaps that do not have the technical problems that ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuked beatmaps have, and it is considered as Approved beatmaps because they are long and fit within the Ranking Criteria. Older Approval criteria included total score or difficulty, but only length is taken into account now. Those maps are typically difficult and made as a challenge to top players.
 
-#### ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble
+#### ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought Bubble
 
-Usually called "Bubble" for short, this symbol is given when **a Beatmap Nominator is completely satisfied with every aspect of the beatmap and nominates it for ranking.** Once a second Beatmap Nominator approves of the beatmap in the same way, it is ![Heart icon](/wiki/shared/Heart.gif "Heart icon") Qualified. A Thought Bubble might be downgraded to a ![Star icon](/wiki/shared/Star.gif "Star icon") Star in case a second moderator detects an oversight on the first moderator's part, but no further downgrading can ever occur.
+Usually called "Bubble" for short, this symbol is given when **a Beatmap Nominator is completely satisfied with every aspect of the beatmap and nominates it for ranking.** Once a second Beatmap Nominator approves of the beatmap in the same way, it is ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Qualified. A Thought Bubble might be downgraded to a ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star in case a second moderator detects an oversight on the first moderator's part, but no further downgrading can ever occur.
 
-#### ![Star icon](/wiki/shared/Star.gif "Star icon") Star
+#### ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star
 
-A Star is given to a beatmap **a Beatmap Nominator judges to be on the right track but still needing a few more improvements before he or she approves of it with a ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble.** Examples include fairly minor adjustments in timing, incorrect Beat Spacing in some areas, or needing to create additional difficulty versions.
+A Star is given to a beatmap **a Beatmap Nominator judges to be on the right track but still needing a few more improvements before he or she approves of it with a ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon") Thought Bubble.** Examples include fairly minor adjustments in timing, incorrect Beat Spacing in some areas, or needing to create additional difficulty versions.
 
 This is NOT to be confused with a "Kudosu Star". A Kudosu Star is given out by modders to maps that they think are good. Kudosu Stars give out varying priority points depending on who gives them, but they can place a map higher in the priority list. Please see [Kudosu](/wiki/Glossary/#kudosu) for information more information on Kudosu.
 
 #### No symbol
 
-All beatmaps have no symbol assigned to them when they are first submitted. A beatmap nominator thinks that the beatmap has some issues that prevent him/her from giving it a ![Star icon](/wiki/shared/Star.gif "Star icon") Star. This state shouldn't worry you *too much*, as the beatmap can usually be marked with a Star or even a Thought Bubble after the BN's suggestions are followed.
+All beatmaps have no symbol assigned to them when they are first submitted. A beatmap nominator thinks that the beatmap has some issues that prevent him/her from giving it a ![Star icon](/wiki/shared/icon/star.gif "Star icon") Star. This state shouldn't worry you *too much*, as the beatmap can usually be marked with a Star or even a Thought Bubble after the BN's suggestions are followed.
 
-#### ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon") Disqualifying
+#### ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon") Disqualifying
 
 Beatmap Nominators are only human. If a beatmap happens to be qualified and the QAT finds something that in their opinion prevents the beatmap from being officially approved, the beatmap can be temporarily disqualified and any scores achieved on it *wiped*. The beatmap is returned to WIP status. Once the issues are fixed, the beatmap can be qualified again.
 
-#### ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuke
+#### ![Nuke icon](/wiki/shared/icon/nuke.gif "Nuke icon") Nuke
 
 This symbol is given to beatmaps which **fail to follow even the most basic of guidelines**, such as having wildly incorrect timing or objects placed at random on the grid and/or timeline, and thus need a lot of improvement to even begin considering to Rank them.
 

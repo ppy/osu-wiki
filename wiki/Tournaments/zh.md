@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 锦标赛
 ===============
 
@@ -6,7 +10,7 @@
 官方世界杯
 ----------------------
 
-官方锦标赛由[锦标赛管理组](https://osu.ppy.sh/g/26)负责
+官方锦标赛由锦标赛管理组负责
 
 ### ![](/wiki/shared/mode/osu.png) osu! 世界杯
 
@@ -59,7 +63,7 @@ Community
 
 | 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/u/7292597)               | [-Rawn](https://osu.ppy.sh/u/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/u/7093651)      |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/users/7292597)               | [-Rawn](https://osu.ppy.sh/users/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/users/7093651)      |
 
 ### ![](/wiki/shared/mode/mania.png) 华人 osu!mania 4K 大赛
 | 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
@@ -70,7 +74,6 @@ Community
 ---------
 
 -   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024) (链接不可用)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

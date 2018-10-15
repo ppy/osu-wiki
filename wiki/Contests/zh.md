@@ -1,3 +1,7 @@
+------
+outdated: true
+----------
+
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
@@ -63,8 +67,6 @@
 - 亚军将获得一个月的 osu!supporter
 
 你可以在 [Facebook](https://www.facebook.com/osugame) 上看到每次竞赛的画廊
-
-点击 [月度同人竞赛](./Monthly_Fanart_Contest) 查看更多信息
 
 ## osu! 商店竞赛
 

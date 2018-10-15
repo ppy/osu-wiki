@@ -1,4 +1,9 @@
+---
+legal: true
+---
 # osu! Copyright Policy
+
+Last Updated 17th May 2017. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
 
 osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 

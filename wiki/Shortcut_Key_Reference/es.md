@@ -1,4 +1,7 @@
-Shortcut Key Reference (Español)
+---
+outdated: true
+---
+Shortcut Key Reference
 =================================
 
 En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectivos menús. Están mencionados a continuación con sus respectivas funciones.

@@ -1,12 +1,12 @@
 Regeln
 ============
 
-Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb der *osu!* Community, in der sich jeder wohlfühlen soll.
+Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb der osu! Community, in der sich jeder wohlfühlen soll.
 
 ## Communityregeln
 
 1. **Jeder Spieler darf zu jedem Zeitpunkt nur *EINEN* Account besitzen.** Dieser Account bist du und niemand sonst - nicht dein Bruder, deine Mutter, deine Schwester, dein Freund - sondern nur DU. Teile deinen Account mit niemanden.
-2. **Seid freundlich zueinander.** Die *osu!* Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
+2. **Seid freundlich zueinander.** Die osu! Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
 3. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, tust du es wahrscheinlich gerade.
 4. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie Inhalte nicht willkommen sind. Darunter fallen unter anderem Themen zu Drogen oder sexueller Natur. Manchmal gibt es Ausnahmen, aber im Allgemeinen muss alles jugendfrei bleiben.
 5. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
@@ -20,7 +20,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 5. **Nimm Rücksicht auf jüngere Mitspieler, die Teil dieser Community sind. Vermeide nicht jugendfreie Inhalte so weit wie möglich.** Nicht jugendfreie Dinge gehören einfach nicht in eine Community, die alle Altersgruppen umfasst. In privaten Chats kannst du dich unterhalten, wie du möchtet (übertreibe es nicht), halte dich aber in den öffentlichen Kanälen zurück.
 6. **Achte darauf welche Inhalte du mit anderen Leuten teilst, besonders bei möglicherweise verstörenden und expliziteren Darstellungen.** Wenn du zweimal darüber nachdenken musst, ob es okay ist, diesen Link zu teilen, ist er es wahrscheinlich nicht. Vermeide Inhalte mit schnell pulsierenden Effekten, Gewaltdarstellungen, Missbrauch oder anderen expliziten Inhalten.
 7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Anime Streaming-Webseiten oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spiele teilen, solange das in `#videogames` passiert.
-8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im *osu!* Chat geht es um *osu!* und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
+8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im osu! Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
 9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden.
 *[Moderatoren](/wiki/People/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
 
@@ -36,7 +36,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 
 ## Regeln der Beatmap Submission
 
-Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmap_Submission_System) geteilt werden. Die Threads werden mithilfe des *osu!* Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
+Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmap_Submission_System) geteilt werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
 
 Darüber hinaus existieren noch detaillierte Regeln zur Erstellung von Beatmaps, wenn sie geranked werden sollen - die [Ranking Kriterien](/wiki/Ranking_Criteria).
 

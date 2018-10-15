@@ -1,7 +1,10 @@
+---
+outdated: true
+---
 osu! World Cup 2013
 ======================
 
-![OWC 2013 logo](logo.png)
+![OWC 2013 logo](img/logo.png)
 
 По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](https://osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![][flag_KR] Корея**.
 = Расписание турнира =
@@ -33,15 +36,15 @@ osu! World Cup 2013
 Организация турнира
 --------------------
 
-**Мереджеры турнира:** ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703), ![][flag_US] [dkun](https://osu.ppy.sh/u/154400)
+**Мереджеры турнира:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400)
 
 **Судьи:** [Tournament Management usergroup](https://osu.ppy.sh/g/26)
 
-**Ответственные за выбор битмап:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/u/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/u/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/u/617323)
+**Ответственные за выбор битмап:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323)
 
-**Стримеры:** ![][flag_AU] [peppy](https://osu.ppy.sh/u/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/u/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/u/682935), ![][flag_US] [Makar](https://osu.ppy.sh/u/686389)
+**Стримеры:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)
 
-**Комментаторы:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/u/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/u/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/u/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/u/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/u/128370)
+**Комментаторы:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
 
 ------------------------------------------------------------------------
 
@@ -52,10 +55,10 @@ osu! World Cup 2013
 
 | Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_CN] China         | **[Furudo\_Erika](https://osu.ppy.sh/u/169878)**, [wobeinimacao](https://osu.ppy.sh/u/350723), [N a n o](https://osu.ppy.sh/u/694114), [5231\_Kinoko](https://osu.ppy.sh/u/181057), [GGBY](https://osu.ppy.sh/u/629717), [Dsan](https://osu.ppy.sh/u/1266166), [InabaTewi](https://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/u/1349849) |
-| ![][flag_DE] Germany       | **[ShadowSoul](https://osu.ppy.sh/u/494970)**, [CookEasy](https://osu.ppy.sh/u/453226), [Michi](https://osu.ppy.sh/u/932342), [Dustice](https://osu.ppy.sh/u/754565), [BDDav](https://osu.ppy.sh/u/1164526), [cptnXn](https://osu.ppy.sh/u/495272), [Imamoto](https://osu.ppy.sh/u/1201224), [dukambe](https://osu.ppy.sh/u/880002)                     |
-| ![][flag_JP] Japan         | **[Karuta](https://osu.ppy.sh/u/360552)**, [rrtyui](https://osu.ppy.sh/u/352328), [Potofu](https://osu.ppy.sh/u/657404), [serea](https://osu.ppy.sh/u/371961), [mugio3](https://osu.ppy.sh/u/491522), [Homura-](https://osu.ppy.sh/u/482120), [Gokuri](https://osu.ppy.sh/u/343865), [doctorindark](https://osu.ppy.sh/u/609227)                        |
-| ![][flag_KR] Korea         | **[Dungeon](https://osu.ppy.sh/u/461720)**, [K i R i K a R u](https://osu.ppy.sh/u/139670), [dragonhuman](https://osu.ppy.sh/u/713266), [ffury](https://osu.ppy.sh/u/2056071), [CheEZ](https://osu.ppy.sh/u/272117), [- Hakurei Reimu-](https://osu.ppy.sh/u/948713), [Tengu](https://osu.ppy.sh/u/380836), [Shizuru-](https://osu.ppy.sh/u/1341421)    |
+| ![][flag_CN] China         | **[Furudo\_Erika](https://osu.ppy.sh/users/169878)**, [wobeinimacao](https://osu.ppy.sh/users/350723), [N a n o](https://osu.ppy.sh/users/694114), [5231\_Kinoko](https://osu.ppy.sh/users/181057), [GGBY](https://osu.ppy.sh/users/629717), [Dsan](https://osu.ppy.sh/users/1266166), [InabaTewi](https://osu.ppy.sh/users/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
+| ![][flag_DE] Germany       | **[ShadowSoul](https://osu.ppy.sh/users/494970)**, [CookEasy](https://osu.ppy.sh/users/453226), [Michi](https://osu.ppy.sh/users/932342), [Dustice](https://osu.ppy.sh/users/754565), [BDDav](https://osu.ppy.sh/users/1164526), [cptnXn](https://osu.ppy.sh/users/495272), [Imamoto](https://osu.ppy.sh/users/1201224), [dukambe](https://osu.ppy.sh/users/880002)                     |
+| ![][flag_JP] Japan         | **[Karuta](https://osu.ppy.sh/users/360552)**, [rrtyui](https://osu.ppy.sh/users/352328), [Potofu](https://osu.ppy.sh/users/657404), [serea](https://osu.ppy.sh/users/371961), [mugio3](https://osu.ppy.sh/users/491522), [Homura-](https://osu.ppy.sh/users/482120), [Gokuri](https://osu.ppy.sh/users/343865), [doctorindark](https://osu.ppy.sh/users/609227)                        |
+| ![][flag_KR] Korea         | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421)    |
 | ![][flag_PL] Poland        | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek                                                                                                                                                                                                                                                      |
 | ![][flag_TW] Taiwan        | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou                                                                                                                                                                                                                                                         |
 | ![][flag_TH] Thailand      | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution                                                                                                                                                                                                                                                                             |
@@ -65,7 +68,7 @@ osu! World Cup 2013
 
 | Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_AR] Argentina          | **[Metro](https://osu.ppy.sh/u/306737)**, [Glazbom](https://osu.ppy.sh/u/608277), [Salvage](https://osu.ppy.sh/u/242119), [Hernan](https://osu.ppy.sh/u/516680), [Fabi](https://osu.ppy.sh/u/173114), [druidxd](https://osu.ppy.sh/u/841441), [CBA-ES-CAB](https://osu.ppy.sh/u/1875237), [Mikumiku97](https://osu.ppy.sh/u/503749) |
+| ![][flag_AR] Argentina          | **[Metro](https://osu.ppy.sh/users/306737)**, [Glazbom](https://osu.ppy.sh/users/608277), [Salvage](https://osu.ppy.sh/users/242119), [Hernan](https://osu.ppy.sh/users/516680), [Fabi](https://osu.ppy.sh/users/173114), [druidxd](https://osu.ppy.sh/users/841441), [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [Mikumiku97](https://osu.ppy.sh/users/503749) |
 | ![][flag_BR] Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
 | ![][flag_HK] Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
 | ![][flag_LV] Latvia             | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX                                                                                                                                                                                                                                                     |

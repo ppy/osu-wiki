@@ -1,4 +1,7 @@
-# osu!supporter (Español) 
+---
+outdated: true
+---
+# osu!supporter
 
 ![Etiqueta de osu!supporter](/wiki/shared/osu!supporter.png "Etiqueta de osu!supporter")
 

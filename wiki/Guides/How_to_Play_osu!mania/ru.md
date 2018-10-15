@@ -1,4 +1,4 @@
-How To Play Mania (Русский)
+How To Play Mania
 =============================
 
 Почему Мания?
