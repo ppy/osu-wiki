@@ -4,7 +4,7 @@ title: "The QAT Gazette: September 2018"
 date: 2018-10-18 12:00:00 +0500
 ---
 
-Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new contributor? What will they come up with next? This month’s issue of the QAT Gazette has all the answers!
+Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new blog contributor? What will they come up with next? This month’s issue of the QAT Gazette has all the answers!
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
@@ -18,11 +18,11 @@ A lot has happened in the past month and as you might expect, you can find it al
 ## Within the Beatmap Nominators
 by [Kibbleru](https://osu.ppy.sh/users/3193504)
 
-We had yet another exciting month within the Beatmap Nomination Group. The long-awaited new round of Beatmap Nominator applications were finally released in late September, but this time, we have made some significant changes to both the application and evaluation processes. Continue reading to find out more!
+We had yet another exciting month within the Beatmap Nomination Group. The long-awaited new round of Beatmap Nominator applications was finally released in late September, but this time, we have made some significant changes to both the application and evaluation processes. Continue reading to find out more!
 
 ### New Beatmap Nominator Applications
 
-As many of you may have followed, this round of Beatmap Nominator applications was finally opened to the public around late september. Any modder with sufficient modding activity within the past three months was free to apply to have their proficiency judged, in hopes of becoming a new and upcoming member of the Beatmap Nomination Group!
+As many of you may have followed, this round of Beatmap Nominator applications was finally opened to the public around late September. Any modder with sufficient modding activity within the past three months was free to apply to have their proficiency judged, in hopes of becoming a new and upcoming member of the Beatmap Nomination Group!
 
 This time around we changed things up a bit. First and foremost, we decided to bring back proficiency tests in order to judge each applicant’s knowledge and understanding of the Ranking Criteria. Another change we decided on was to the application cycle. Instead of releasing tests every 1.5 months, alternating between the osu! gamemode, and taiko / catch / mania, we have decided that from now on, Beatmap Nominator applications for *all* game modes will be released at the same time every 3 months. Best of luck!
 
