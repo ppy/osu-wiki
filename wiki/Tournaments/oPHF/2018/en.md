@@ -2,6 +2,7 @@
 tags:
 - oPHF 2018
 - oPHF2018
+- oPHF18
 ---
 # osu!Philippines Holiday Friendlies 2018
 
@@ -15,19 +16,24 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-10-13/2018-10-28 |
-| Match Week 1 | 2018-11-10/2018-11-11 |
-| Match Week 2 | 2018-11-17/2018-11-18 |
-| Match Week 3 | 2018-11-24/2018-11-25 |
-| Match Week 4 | 2018-12-01/2018-12-02 |
-| Match Week 5 | 2018-12-08/2018-12-09 |
-| Match Week 6 | 2018-12-15/2018-12-16 |
+| Registration Phase | 2018-10-04/2018-10-21 |
+| Qualifiers Week 1 | 2018-11-03/2018-11-04 |
+| Qualifiers Week 2 | 2018-11-10/2018-11-11 |
+| Match Week 1 | 2018-11-17/2018-11-18 |
+| Match Week 2 | 2018-11-24/2018-11-25 |
+| Match Week 3 | 2018-12-01/2018-12-02 |
+| Match Week 4 | 2018-12-08/2018-12-09 |
+| Match Week 5 | 2018-12-15/2018-12-16 |
 
 **Note**: Registrations may prematurely end when there are a sufficient number of registrants. The full schedule will be revealed before registrations close.
 
 ## Prizes
 
-*To be determined by the staff.*
+Winners of their respective game mode will get a Profile badge.
+
+![Standard Badge](img/badge_standard.png) ![Taiko Badge](img/badge_taiko.png) ![Catch Badge](img/badge_catch.png) ![4K Badge](img/badge_4K.png) ![7K Badge](img/badge_7K.png)
+
+*The rest of the prizes are to be determined by the staff.*
 
 ## Organisation
 
@@ -36,11 +42,11 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Management and Organisation | ![][flag_PH] [Zaphirox](/users/2478675) (osu!standard), ![][flag_PH] [Deneb](/users/2604212) (osu!taiko), ![][flag_PH] [Roido](/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](/users/4469895) (osu!mania) |
 | Map Selectors (osu!standard) | ![][flag_PH] [MioMilo](/users/2199427), ![][flag_PH] [Nitrous](/users/7293512), ![][flag_ID] [nya10](/users/1372608) |
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
-| Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452) |
+| Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452), ![][flag_PH] [-Nicotine](/users/4818935) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [SilentVoice](/users/9570552), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [Deadpulse](/users/8575527) |
-| Commentators | *to be announced.* |
+| Commentators | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [Deneb](/users/2604212), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Awishi](/users/4290020), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_AU] [PotassiumF](/users/4247722) |
 | Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
 | Statisticians | ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936) |
 
@@ -48,7 +54,14 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 - [Discussion thread](/community/forums/topics/801475)
 - [Livestream](https://www.twitch.tv/osuliveph)
+- [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
+- [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+- Registration Forms
+  - [osu!standard](https://goo.gl/forms/DniRC0XLpSvr6IkY2)
+  - [osu!taiko](https://goo.gl/forms/pMAFhatTwE5SCryf2)
+  - [osu!catch](https://goo.gl/forms/bhm9GdRZ6fT5hB2i2)
+  - [osu!mania 4K and 7K](https://goo.gl/forms/LGAZSwXbudHJlc583)
 
 ------------------------
 
@@ -79,7 +92,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### Tournament Formats
 
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
-- The **osu!taiko** division will be subjected to a **single elimination** bracket. Seeding for this division will be based on Performance Points as of 2018-11-03 (18:00 UTC+8).
+- The **osu!taiko** division will be subjected to a **double elimination** bracket. Seeding for this division will be based on Performance Points as of 2018-11-03 (18:00 UTC+8).
 - The **osu!catch** division will adopt a Qualifier Round (explained below) and will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on qualifier results.
 - Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field to 16 players. Players who advance will be subjected to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
@@ -141,17 +154,19 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 #### osu!standard
 
 - All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players. This round will also serve as the division's seeding phase.
-- Players are scheduled alongside each other to play a mini-pool of 4 maps twice in a multiplayer room. This mini-pool consists of one NoMod map, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
-- The room name format is as follows: ``oPHST18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- Players are scheduled alongside each other to play a mini-pool of 5 maps twice in a multiplayer room. This mini-pool consists of two NoMod maps, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
+- The room name format is as follows: ``oPHF18: (Standard Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 - Players are to be ranked according to the total of their best attempts during their qualifying run. Top 32 players advance to the bracket stage, and the rest are eliminated.
+- Use of FreeMod in the qualifying round is **not** permitted.
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 #### osu!catch
 
 - All players that enter the tournament are obliged to play in the qualification round in order to cut down to participants to sixteen (16) players. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 5 maps twice in a multiplayer room. This mini-pool consists of two NoMod maps, one Hidden map, one Hard Rock map, and one Double Time map. All players are obliged to play ALL of the maps during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the beatmaps have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
-- The room name format is as follows: ``oPHST18: (Catch Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
+- The room name format is as follows: ``oPHF18: (Catch Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 - Players are to be ranked according to the total of their best attempts during their qualifying run. Top 16 players advance to the bracket stage, and the rest are eliminated.
+- Use of FreeMod in the qualifying round is **not** permitted.
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 #### osu!mania 4K and 7K
@@ -159,8 +174,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to sixteen (16) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHF18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
-- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance.
-- Players who successfully qualify will be seeded directly to a bracket.
+- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance. Top 16 players advance to the bracket stage, and the rest are eliminated.
+- Players are allowed to use only Hidden (HD), Fade In (FI), and Flashlight (FL) if they wish to use mods.
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
 ### Match Proper
