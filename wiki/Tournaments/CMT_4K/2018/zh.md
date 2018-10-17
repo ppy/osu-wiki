@@ -50,60 +50,54 @@ tags:
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - Bilibili：[aiyulu](http://live.bilibili.com/10183)（主直播），[Flow Light](https://live.bilibili.com/73668)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）
+  - 哔哩哔哩：[aiyulu](http://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[Rasis](http://live.bilibili.com/5333)（备用）、[kj415j45](https://live.bilibili.com/237250)（备用）
   - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
-- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3F)
+- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
 ## 排程
 
 以下时间均为 UTC+08 时区。
 
-### 小组赛
+### 十六强赛
 
-#### 2018-10-13 星期六
-
-| 时间 | 蓝方 |  | 红方 |  | 蓝方 |  | 红方 |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | zero2snow | vs | FDXiaoQian |  | cheewee10 | vs | IA daisuki |
-| 11:00 | zero2snow | vs | tangjingxi |  | Toki 0w0 | vs | yin xiaosong |
-| 15:00 | PiaoD | vs | AradORiOn\_MMM |  | w a d u | vs | IA daisuki |
-|  | PHILIPPE YMT | vs | yin xiaosong |  |  |  |  |
-| 16:00 | hero\_jeff | vs | CaOH2 |  | murorachi | vs | HDRoop\_7 |
-|  | PHILIPPE YMT | vs | \[Crz\]Minato |  |  |  |  |
-| 17:00 | \[MY\]xRay | vs | murorachi |  | GODsBEATs | vs | IA daisuki |
-|  | Toki 0w0 | vs | PHILIPPE YMT |  | CaOH2 | vs | \[Crz\]MY |
-| 20:00 | idqoos123 | vs | ByeForNow |  | C Eru | vs | Remilia\_HY |
-|  | 704661982 | vs | YoSa_o |  |  |  |  |
-| 21:00 | JunFish | vs | Orangejuice |  | tangjingxi | vs | Stink God |
-|  | \[Crz\]Murasame | vs | YoSa_o |  |  |  |  |
-| 22:00 | \[MY\]xRay | vs | HDRoop\_7 |  | idqoos123 | vs | PiaoD |
-|  | JunFish | vs | Remilia\_HY |  | CaOH2 | vs | Sakaki |
-
-#### 2018-10-14 星期日
-
-| 时间 | 蓝方 |  | 红方 |  | 蓝方 |  | 红方 |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | zero2snow | vs | Stink God |  | ByeForNow | vs | AradORiOn\_MMM |
-| 11:00 | FDXiaoQian | vs | Stink God |  | PiaoD | vs | ByeForNow |
-| 14:00 | C Eru | vs | Orangejuice |  | FDXiaoQian | vs | tangjingxi |
-|  | \[Crz\]Minato | vs | yin xiaosong |  |  |  |  |
-| 15:00 | hero\_jeff | vs | Sakaki |  | cheewee10 | vs | w a d u |
-|  | Toki 0w0 | vs | \[Crz\]Minato |  |  |  |  |
-| 16:00 | alisi | vs | HDRoop\_7 |  | GODsBEATs | vs | cheewee10 |
-|  | Pureforever | vs | \[Crz\]Murasame |  |  |  |  |
-| 17:00 | hero\_jeff | vs | \[Crz\]MY |  | murorachi | vs | alisi |
-|  | GODsBEATs | vs | w a d u |  |  |  |  |
-| 20:00 | Sakaki | vs | \[Crz\]MY |  | idqoos123 | vs | AradORiOn\_MMM |
-|  | \[Crz\]Murasame | vs | 704661982 |  | YoSa_o | vs | Pureforever |
-| 21:00 | JunFish | vs | C Eru |  | Remilia\_HY | vs | Orangejuice |
-|  | alisi | vs | \[MY\]xRay |  | 704661982 | vs | Pureforever |
+| 2018-10-20 | 星期六 |  |  |
+| :-: | :-: | :-: | :-: |
+| 11:00 | zero2snow | vs | alisi |
+| 15:00 | ByeForNow | vs | CaOH2 |
+| 20:00 | Sakaki | vs | AradORiOn\_MMM |
+| 21:00 | HDRoop\_7 | vs | Stink God |
+| 2018-10-21 | 星期日 |  |  |
+| 16:00 | \[Crz\]Minato | vs | w a d u |
+| 17:00 | cheewee10 | vs | yin xiaosong |
+| 20:00 | \[Crz\]Murasame | vs | Orangejuice |
+| 21:00 | C Eru | vs | 704661982 |
 
 ## 图池
 
+### 十六强赛
+
+**下载完整图池包！（81 MB） - [百度云盘](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google 云端硬盘](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
+
+- FreeMod
+  - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
+  - [ZUN Arranged by er - Gogo No Koishi-chan \[Tea Time\]](https://osu.ppy.sh/beatmapsets/632689#mania/1343000)
+  - [Darren Styles - Heartbeatz \[Leo137\]](https://osu.ppy.sh/beatmapsets/205220#mania/484499)
+  - [goreshit - o'er the flood \[torrent\]](https://osu.ppy.sh/beatmapsets/497750#mania/1777157)
+  - [hyi - you can recover \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
+  - [succducc - i really like u \[you and i\]](https://osu.ppy.sh/beatmapsets/844228#mania/1766063)
+  - [Croove - Minus 3 \[4B SHD\]](https://osu.ppy.sh/beatmapsets/811723#mania/1702660)
+  - [Stellabee - Ubiquity \[Existence\]](https://osu.ppy.sh/beatmapsets/758231#mania/1595001)
+  - [Jan Amit - In Torture (feat. Eclise) \[Sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)
+  - [Paul Bazooka - Kitty From Hell \[Kitties\]](https://osu.ppy.sh/beatmapsets/714779#mania/1510422)
+  - [Delta Sleep - Interlude \[Delirus\]](https://osu.ppy.sh/beatmapsets/687369#mania/1454484)
+  - [Utata-P feat. Yuzuki Yukari - Shiawase ni Nareru Kakushi Command ga Arurashii \[Cheat Code\]](https://osu.ppy.sh/beatmapsets/656766#mania/1391341)
+- Tiebreaker
+  - **[Dschinghis Khan - Moskau(Camellia's Handzup Bootleg)\[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmapsets/747926#mania/1575832)**
+
 ### 小组赛
 
-**下载完整图池包！（55.4M） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+**下载完整图池包！（55 MB） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -128,7 +122,30 @@ tags:
 
 ## 比赛结果
 
-请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3F) 以了解详细得分情况。
+### 小组赛
+
+| 组别 | 选手 |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| A | CaOH2 | Sakaki | hero\_jeff | \[Crz\]MY |
+|  | 7 | 9 | -10 | -6 |
+| B | \[MY\]xRay | HDRoop\_7 | alisi | murorachi |
+|  | -12 | 12 | 4 | -4 |
+| C | \[Crz\]Murasame | 704661982 | Pureforever | YoSa\_o |
+|  | 12 | 2 | -2 | -12 |
+| D | cheewee10 | w a d u | GODsBEATs | IA daisuki |
+|  | 12 | 2 | -4 | -10 |
+| E | \[Crz\]Minato | PHILIPPE YMT | yin xiaosong | Toki 0w0 |
+|  | 12 | -3 | 2 | -11 |
+| F | Orangejuice | C Eru | Remilia\_HY | JunFish |
+|  | 4 | 11 | -3 | -12 |
+| G | zero2snow | Stink God | tangjinxi | FDXiaoQian |
+|  | 9 | 4 | -1 | -12 |
+| H | ByeForNow | AradORiOn\_MMM | PiaoD | idqoos123 |
+|  | 12 | 4 | -4 | -12 |
+
+### 资格赛
+
+请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj) 以了解详细得分情况。
 
 ## 规则
 
