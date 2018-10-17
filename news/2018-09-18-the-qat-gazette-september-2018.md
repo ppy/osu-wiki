@@ -33,7 +33,7 @@ Fun times always have to come to an end eventually. This month, we give our fare
 On behalf of the community, we thank you for your hard work in bringing new content into the game, and we wish you good luck in your next steps in life!
 
 ## Within the Quality Assurance Team
-By [Raiden](https://osu.ppy.sh/users/2239480)
+by [Raiden](https://osu.ppy.sh/users/2239480)
 
 ### Ongoing discussions
 
