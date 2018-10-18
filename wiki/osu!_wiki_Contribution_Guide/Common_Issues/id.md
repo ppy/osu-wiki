@@ -4,11 +4,11 @@
 
 ## Seseorang mengatakan kepada saya untuk meninggalkan pesan commit yang lebih berarti!
 
-Hal ini juga dapat diutarakan sebagai, "Semua commit yang saya lakukan memiliki deskripsi 'en.md Diperbarui'," atau serupa.
+Hal ini juga dapat diutarakan sebagai, "Semua commit yang saya lakukan memiliki deskripsi `Update en.md`," atau serupa.
 
 Jika seseorang mengatakan hal ini kepada anda atau anda melihat semua pesan commit anda sama, ini bermakna anda tidak meninggalkan pesan commit yang bermakna ketika anda mampu atau mencoba untuk memindahkan, menyunting, dan/atau menghapus beberapa file menggunakan GitHub Web Interface.
 
-Pesan commit yang bermakna adalah pesan yang dapat memungkinkan siapa pun untuk memahami semua perubahan yang anda lakukan dalam commit tersebut tanpa perlu melihat membandingkan langsung ke GitHub. Ada batas 72 karakter untuk pesan commit, jadi anda juga harus membuatnya singkat. Jika anda memiliki masalah untuk membuatnya tetap pendek. Anda mungkin perlu membagi commit anda. **Perlu diingat bahwa `en.md Diperbarui` atau serupa tidak berarti apa-apa karena tidak seorang pun akan tahu perubahan spesifik apa yang anda lakukan atau artikel mana yang telah anda ubah.**
+Pesan commit yang bermakna adalah pesan yang dapat memungkinkan siapa pun untuk memahami semua perubahan yang anda lakukan dalam commit tersebut tanpa perlu melihat membandingkan langsung ke GitHub. Ada batas 72 karakter untuk pesan commit, jadi anda juga harus membuatnya singkat. Jika anda memiliki masalah untuk membuatnya tetap pendek. Anda mungkin perlu membagi commit anda. **Perlu diingat bahwa `Update en.md` atau serupa tidak berarti apa-apa karena tidak seorang pun akan tahu perubahan spesifik apa yang anda lakukan atau artikel mana yang telah anda ubah.**
 
 ---
 
