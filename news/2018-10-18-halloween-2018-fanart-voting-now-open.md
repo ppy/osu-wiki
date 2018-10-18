@@ -4,7 +4,7 @@ title: "Halloween 2018 Fanart Voting Now Open"
 date: 2018-10-18 08:00:00 +0000
 ---
 
-The artists of the osu! community have spoken, and they have decreed that we shall suffer. With over one-hundred and sixty entries to choose from and only fifteen votes and five days to go around, join in our torment as we scream through the entries of the Hallowwn 2018 Fanart Contest!
+The artists of the osu! community have spoken, and they have decreed that we shall suffer. With over one-hundred and sixty entries to choose from and only fifteen votes and five days to go around, join in our torment as we scream through the entries of the Halloween 2018 Fanart Contest!
 
 [![](https://assets.ppy.sh/contests/70/header.jpg)](https://osu.ppy.sh/community/contests/70)
 
@@ -26,6 +26,6 @@ Check out a short preview of all the available entries in the spooktacular video
 
 What're you waiting for? [**Go vote now!**](https://osu.ppy.sh/community/contests/70) Voting is only open for 5 days, so hop to it!
 
-And ware the coming of the blood moon, for rumor is that something dark looms on the horizon just out of sight...
+And ware the coming of the blood moon, for rumour is that something dark looms on the horizon just out of sight...
 
 —Ephemeral
