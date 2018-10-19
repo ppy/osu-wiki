@@ -269,7 +269,6 @@ This competition has come to an end and resulted in the following podium:
 | **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
 | **Nishizumi** ![][flag_ID] | **5** | 0 | ![][flag_ID] Lightning Wyvern | [#1](/community/matches/33289527) |
 
-
 | Sunday, 2017-05-21 |  |  |  |  | 
 | --: | :-: | :-- | :-- | :-: |
 | **Plua-** ![][flag_ID] | **5** | 3 | ![][flag_ID] Koucha- | [#1](/community/matches/33315503) |
