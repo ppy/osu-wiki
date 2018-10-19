@@ -4,7 +4,7 @@ title: "The QAT Gazette: September 2018"
 date: 2018-10-19 16:00:00 +0000
 ---
 
-Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new blog contributor? What will they come up with next? This month’s issue of the QAT Gazette has all the answers!
+Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new QAT Gazette contributor? Another month's worth of exciting news beckons, so read on to catch up on all the excitement!
 
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
