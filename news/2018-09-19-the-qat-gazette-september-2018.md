@@ -40,11 +40,12 @@ by [Raiden](https://osu.ppy.sh/users/2239480)
 Normally, every monthly issue of the QAT Gazette brings you exciting news and updates on a great diversity of fields within the osu! Mapping and modding community.
 
 Unfortunately, this month is somewhat sparse on the news front, since some important topics require further discussion and have not yet been resolved. However, we are writing this in order to inform you that we indeed have not simply forgotten about such matters!
+
 The topics still being debated include the following:
 
-+ Discussion about the [management of hybrid mapsets](https://osu.ppy.sh/community/forums/topics/792131) 
-+ Discussion about [two sets of the same song being allowed in the Qualified beatmap section](https://osu.ppy.sh/community/forums/topics/787252)
-+ Status of the feature request list we informed about in the [last month’s Gazette](https://osu.ppy.sh/home/news/2018-09-19-the-qat-gazette-august-2018)
+- Discussion about the [management of hybrid mapsets](https://osu.ppy.sh/community/forums/topics/792131) 
+- Discussion about [two sets of the same song being allowed in the Qualified beatmap section](https://osu.ppy.sh/community/forums/topics/787252)
+- Status of the feature request list we informed about in the [last month’s Gazette](https://osu.ppy.sh/home/news/2018-09-19-the-qat-gazette-august-2018)
 
 ### New Quality Assurance Team additions
 
