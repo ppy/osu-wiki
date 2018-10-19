@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: September 2018"
-date: 2018-10-18 12:00:00 +0500
+date: 2018-10-19 16:00:00 +0000
 ---
 
 Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new blog contributor? What will they come up with next? This month’s issue of the QAT Gazette has all the answers!
@@ -54,7 +54,7 @@ Lest we forget about [-Kazu-](https://osu.ppy.sh/users/920861) also! With seven 
 
 ### Quality Assurance Team retirements
 
-Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. [Hobbes2](https://osu.ppy.sh/users/8157492) has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whilst his fellow osu! compatriot [Mir](https://osu.ppy.sh/users/8688812) has elected to enjoy a period of rest as an osu! Alumni. 
+Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. [Hobbes2](https://osu.ppy.sh/users/8157492) has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whereas his fellow osu! compatriot [Mir](https://osu.ppy.sh/users/8688812) has elected to enjoy a period of rest as an osu! Alumni. 
 
 Their respective two and six months of service will not be forgotten easily. We wish you the best on your future endeavors! 
 
