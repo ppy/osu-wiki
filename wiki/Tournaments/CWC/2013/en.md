@@ -283,13 +283,13 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2013-03-09 |  |  |  |
 | --: | :-: | :-: | :-- |
-| **Argentina/Colombia** ![][flag_AR]![][flag_CO] | **6** | 1 | ![][flag_FI] Finland |
+| **Argentina/Colombia** ![][flag_ARCO] | **6** | 1 | ![][flag_FI] Finland |
 
 ### Semifinals
 
 | Saturday, 2013-03-02 |  |  |  |
 | --: | :-: | :-: | :-- |
-| Argentina/Colombia ![][flag_AR]![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A**
+| Argentina/Colombia ![][flag_ARCO] | 3 | **5** | ![][flag_CL] **Chile A**
 
 | Sunday, 2013-03-03 |  |  |  |
 | --: | :-: | :-: | :-- |
@@ -300,11 +300,11 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2013-03-23 |  |  |  |
 | --: | :-: | :-: | :-- |
 | South Korea ![][flag_KR] | 2 | **4** | ![][flag_TW] Taiwan A |
-| Russian Federation/Ukraine ![][flag_RU]![][flag_UA] | 0 | **4** | ![][flag_CL] **Chile A** |
+| Russian Federation/Ukraine ![][flag_RUUA] | 0 | **4** | ![][flag_CL] **Chile A** |
 
 | Sunday, 2013-03-24 |  |  |  |
 | --: | :-: | :-: | :-- |
-| China ![][flag_CN] | 2 | **4** | ![][flag_AR]![][flag_CO] Argentina/Colombia |
+| China ![][flag_CN] | 2 | **4** | ![][flag_ARCO] Argentina/Colombia |
 | Germany A ![][flag_DE] | 2 | **4** | ![][flag_FI] **Finland** |
 
 ### Round of 16
@@ -321,11 +321,11 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- |
 | United States ![][flag_US] | 0 | 4 | ![][flag_CL] Chile A |
 | **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_TW] Taiwan B |
-| **Russian Federation/Ukraine** ![][flag_RU]![][flag_UA] | **4** | 1 | ![][flag_TH] Thailand |
+| **Russian Federation/Ukraine** ![][flag_RUUA] | **4** | 1 | ![][flag_TH] Thailand |
 
 | Monday, 2013-03-18 |  |  |  |
 | --: | :-: | :-: | :-- |
-| **Argentina/Colombia** ![][flag_AR]![][flag_CO] | **4** | 3 | ![][flag_IT] Italy A |
+| **Argentina/Colombia** ![][flag_ARCO] | **4** | 3 | ![][flag_IT] Italy A |
 
 ------------------------------------------------------------------------
 
