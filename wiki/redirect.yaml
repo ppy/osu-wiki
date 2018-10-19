@@ -1482,11 +1482,11 @@
 "anzt_5s": "Tournaments/ANZT/2018_Summer"
 "anzt/5s": "Tournaments/ANZT/2018_Summer"
 
-# "ats":    "Tournaments/#-asian-taiko-showdown"
+"ats":      "Tournaments/#-asian-taiko-showdown"
 "ats_2018": "Tournaments/ATS/2018_Summer"
 "ats/2018": "Tournaments/ATS/2018_Summer"
 
-# "cfc": "Tournaments/CFC/#-catch-french-cup"
+"cfc":      "Tournaments/CFC/#-catch-french-cup"
 "cfc_2018": "Tournaments/CFC/2018"
 "cfc/2018": "Tournaments/CFC/2018"
 
@@ -1499,7 +1499,7 @@
 "cmt/4k_2018": "Tournaments/CMT_4K/2018"
 "cmt/4k/2018": "Tournaments/CMT_4K/2018"
 
-# "ophst":    "Tournaments/#-osu!philippines-summer-tournament"
+"ophst":      "Tournaments/#-osu!philippines-summer-tournament"
 "ophst2018":  "Tournaments/oPHST/2018"
 "ophst_2018": "Tournaments/oPHST/2018"
 "ophst/2018": "Tournaments/oPHST/2018"
@@ -1513,8 +1513,8 @@
 "rmoti_2": "Tournaments/RMoT_Invitational/2"
 "rmoti/2": "Tournaments/RMoT_Invitational/2"
 
-# "soft": "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
-"soft3": "Tournaments/SOFT/3"
+"soft":   "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
+"soft3":  "Tournaments/SOFT/3"
 "soft_3": "Tournaments/SOFT/3"
 "soft/3": "Tournaments/SOFT/3"
 
