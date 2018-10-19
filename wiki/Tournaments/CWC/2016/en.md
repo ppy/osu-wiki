@@ -101,7 +101,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ![CWC 2016 Podium](img/podium.jpg)
 
-![CWC 2016 Brackets](img/brackets.jpg)
+![CWC 2016 Bracket](img/bracket.jpg)
 
 ---------------------------
 

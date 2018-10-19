@@ -103,7 +103,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 
 ![CWC 2015 Podium](img/podium.png)
 
-![CWC 2015 Brackets](img/brackets.jpg)
+![CWC 2015 Bracket](img/bracket.jpg)
 
 ---------------------------
 

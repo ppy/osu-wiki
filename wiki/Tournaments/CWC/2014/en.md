@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] Germany |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] Sweden |
 
-![CWC 2014 brackets](img/brackets.jpg)
+![CWC 2014 Bracket](img/bracket.jpg)
 
 ---------------------------
 
