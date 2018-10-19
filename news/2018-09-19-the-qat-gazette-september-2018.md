@@ -9,6 +9,7 @@ Huge changes to Beatmap Nominator applications, updates on improvements to Moddi
 ![](/wiki/shared/news/banners/qat-blog-logo.png)
 
 ## Opening
+
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 A new month brings new adventure, new challenges, and a new face to our humble blog!
@@ -16,6 +17,7 @@ A new month brings new adventure, new challenges, and a new face to our humble b
 A lot has happened in the past month and as you might expect, you can find it all right here! From substantial changes to the way Beatmap Nominator applications are conducted, to ongoing developments within the Modding Discussions system and of course, some aforementioned new faces, keep reading to find out everything you need to know in and around the mapping and modding community.
 
 ## Within the Beatmap Nominators
+
 by [Kibbleru](https://osu.ppy.sh/users/3193504)
 
 We had yet another exciting month within the Beatmap Nomination Group. The long-awaited new round of Beatmap Nominator applications was finally released in late September, but this time, we have made some significant changes to both the application and evaluation processes. Continue reading to find out more!
@@ -33,6 +35,7 @@ Fun times always have to come to an end eventually. This month, we give our fare
 On behalf of the community, we thank you for your hard work in bringing new content into the game, and we wish you good luck in your next steps in life!
 
 ## Within the Quality Assurance Team
+
 by [Raiden](https://osu.ppy.sh/users/2239480)
 
 ### Ongoing discussions
@@ -60,6 +63,7 @@ Whilst we may have welcomed two new members, we must also sadly bid farewell to 
 Their respective two and six months of service will not be forgotten easily. We wish you the best on your future endeavors! 
 
 ## Summary
+
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 With that all said, another month passes by and we edge into the final quarter of the year. With a potentially massive wave of new Beatmap Nominators in all four game modes, the continued development of Modding Discussions, and naturally so, so much more, we will aim to keep the intensity high and the good news flowing for the remainder of 2018.
