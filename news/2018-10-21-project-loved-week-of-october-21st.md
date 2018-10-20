@@ -4,13 +4,13 @@ title: "Project Loved: Week of October 21st"
 date: 2018-10-21 20:00:00 +0000
 ---
 
-With another two Sundays comes another 24 beatmaps nominated in [Project Loved](https://osu.ppy.sh/community/forums/120)! Check 'em out, and vote for your favourites!
+With another two Sundays come another 24 beatmaps nominated in [Project Loved](https://osu.ppy.sh/community/forums/120)! Check 'em out, and vote for your favourites!
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to their voting threads.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
 
-We've been listening to your feedback, and after some internal debate, we decided to lower osu!standard's Loved voting threshold to 85%—halfway between the previous 80 and 90. While with 80% it felt as if some maps being moved to Loved didn't quite fit the title, 90% proved to be suboptimal as well, due to the increased power given to "No" votes. Since this threshold is admittedly pretty arbitrarily decided, we'll continue to set it based on trial-and-error, and for now are going with the middleground of 85%. After confirming this with you guys via [the poll](https://osu.ppy.sh/community/forums/topics/816187) on our forum, this will now be the first round to use it.
+We've been listening to your feedback, and after some internal debate, we decided to lower osu!standard's Loved voting threshold to 85%—halfway between the previous 80 and 90. While with 80% it felt as if some maps being moved to Loved didn't quite fit the title, 90% proved to be suboptimal as well, due to the increased power given to "No" votes. Since this threshold is admittedly pretty arbitrarily decided, we'll continue to set it based on trial-and-error, and for now are going with the middleground of 85%. After confirming this with you guys via [the poll on our forum](https://osu.ppy.sh/community/forums/topics/816187), this will now be the first round to use it.
 
 In other news, [pishifat](https://osu.ppy.sh/users/3178418) recently interviewed [Toy](https://osu.ppy.sh/users/2757689) about the state of Project Loved over on his [YouTube channel](https://www.youtube.com/user/pishifat) for the osu!mapping series. It's a continuation of the yearly Loved category check-up videos he puts out, and in it, both Toy and pishi discuss the challenges, benefits and drawbacks of the category as a whole. Check it out!
 
