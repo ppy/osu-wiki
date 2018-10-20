@@ -39,8 +39,8 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 | :-- | :-- |
 | Management | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_TH] [Seaweed](/users/5151214) |
 | Map Selectors | ![][flag_DE] [Chriz](/users/2355080), ![][flag_UY] [Nightshiftt](/users/4662596), ![][flag_TH] [Seaweed](/users/5151214), ![][flag_MY] [Sikey](/users/343057), ![][flag_GB] [Nega](/users/3181083), ![][flag_DE] [Ikikaera](/users/3922920) |
-| Streamers | ![][flag_PL] [Borsuk664](/users/3075673), ![][flag_NL] [cavoeboy](/users/7361815), ![][flag_ID] [Skydriver](/users/4750008), ![][flag_US] [Spry](/users/7069714), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_MY] [Vexine](/users/4042706) |
-| Commentators | ![][flag_GB] [AlexDark69](/users/5146647), ![][flag_US] [DigitalHypno](/users/4384207), ![][flag_US] [Fuma](/users/1501956), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_US] [Monko2k](/users/4852013), ![][flag_UY] [Nightshiftt](/users/4662596), ![][flag_US] [this1neguy](/users/1797189), ![][flag_GB] [Bubbleman](/users/5182050), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_PS] [Omar](/users/6574143) |
+| Streamers | ![][flag_PL] [Borsuk664](/users/3075673), ![][flag_NL] [cavoeboy](/users/7361815), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_US] [Spry](/users/7069714), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_MY] [Vexine](/users/4042706) |
+| Commentators | ![][flag_GB] [AlexDark69](/users/5146647), ![][flag_US] [DigitalHypno](/users/4384207), ![][flag_US] [Fuma](/users/1501956), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_US] [Monko2k](/users/4852013), ![][flag_UY] [Nightshiftt](/users/4662596), ![][flag_US] [this1neguy](/users/1797189), ![][flag_GB] [Bubbleman](/users/5182050), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_PS] [Omaru](/users/6574143) |
 | Statisticians | ![][flag_SG] [uchuuj1n](/users/9140302), ![][flag_TR] [oralekin](/users/7631823), ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_NO] [YokesPai](/users/6399568), ![][flag_HK] [-GN Junior](/users/3901754) |
 | Designer | ![][flag_DE] [Donger Deluxe](/users/4838846) |
 | Referees | ![][flag_SG] [-Engel-](/users/9424243), ![][flag_GB] [AlexDark69](/users/5146647), ![][flag_NL] [cavoeboy](/users/7361815), ![][flag_UY] [Daanit](/users/6159669), ![][flag_VN] [Despirate](/users/6969988), ![][flag_MY] [Espalza](/users/8355574), ![][flag_SG] [ExImperia](/users/5200499), ![][flag_DE] [Goose Hall](/users/6586999), ![][flag_CA] [Hiicantpk](/users/2065771), ![][flag_PL] [Houtarou Oreki](/users/4185566), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_SG] [Loslite](/users/6398160), ![][flag_CA] [Meow-Mix](/users/3021634), ![][flag_SG] [phox](/users/772295), ![][flag_TH] [Seaweed](/users/5151214), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_US] [this1neguy](/users/1797189), ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_NO] [YokesPai](/users/6399568) |
@@ -49,7 +49,7 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](/community/forums/topics/684745)
-- [OTST Discord server](https://discord.gg/hdXQNG6)
+- [otst! Discord server](https://discord.gg/hdXQNG6)
 - [Livestream](https://twitch.tv/osu_otst)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml)**
 
@@ -59,40 +59,79 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 
 | Team | Members |
 | :-- | :-- |
+| **:b:eezah** | **![][flag_US] [Yeezah](/users/5829809/)**, ![][flag_CA] [KingOKarma](/users/4047696), ![][flag_SG] [Petite Loli](/users/4262229), ![][flag_BR] [Dada](9119507), ![][flag_CA] [XgenSlayer](/users/4510179), ![][flag_CA] [Darkform](/users/3001648), ![][flag_US] [Pedofu](/users/3934295), ![][flag_CA] [Inaban](/users/2860339) |
+| **:thowonking:** | **![][flag_CA] [Penguin UwU](/users/3992043)**, ![][flag_CA] [\_DerF](/users/8385190), ![][flag_CN] [MyAngelMiku](/users/7025429), ![][flag_CA] [D3monOwn3r](/users/7278983), ![][flag_CA] [pseudoBear](/users/8719351), ![][flag_CA] [Itou](/users/8070357), ![][flag_US] [SkyFlame](/users/3552948), ![][flag_CA] [AlphaK1](/users/10678529) |
+| **\[\[heck\]\]** | ![][flag_US] [Elcheer](/users/4420014), ![][flag_US] [FailureAtOsu](/users/6293158), ![][flag_US] [\[\[Pika\]\]](/users/3937810), ![][flag_US] [squishi](/users/8171954), ![][flag_US] [Lunicia](/users/4369309), ![][flag_PL] [Daduch](/users/8736217), ![][flag_CA] [Mashed](/users/10021220), ![][flag_GB] [Teejay-san](/users/9499753) |
 | **0.3 gamma** | **![][flag_US] [Jace](/users/4394718)**, ![][flag_US] [idke](/users/4650315), ![][flag_BR] [favela](/users/5295743), ![][flag_LT] [osu player84](/users/2562987), ![][flag_US] [tiuq](/users/3692940), ![][flag_US] [Aireu](/users/1650010), ![][flag_ID] [smh](/users/1629553) |
 | **0hm8frswhxkysexo** | **![][flag_IT] [Manu028](/users/6192633)**, ![][flag_GB] [feliciaforever](/users/6177798), ![][flag_GB] [001thefish](/users/4121535), ![][flag_GB] [helix](/users/3322597), ![][flag_GB] [Karthy](/users/4196808), ![][flag_DE] [Suome](/users/3958814), ![][flag_GB] [Shaww](/users/2704809), ![][flag_GB] [xFluffyo](/users/8397226) |
+| **4head** | ![][flag_CA] [Flamation](/users/3624920), ![][flag_CA] [Khozen](/users/6394377), ![][flag_CA] [Redphoenix406](/users/6358249), ![][flag_CA] [Fuutori](/users/9193268), ![][flag_CA] [Adma](/users/3057542), ![][flag_CA] [Artsza](/users/6303711) |
+| **Accuracy^** | ![][flag_US] [huehuehuehhue](/users/10290283), ![][flag_AU] [Combro](/users/10516253), ![][flag_AU] [Xiu](/users/9281541), ![][flag_US] [Rolchax](/users/2929981), ![][flag_NL] [EveAngels](/users/6316406), ![][flag_SG] [Heresy](/users/8876938), ![][flag_MY] [FaithInOsu](/users/10178187) |
 | **ANGERY JEFFREY** | **![][flag_MY] [Jeffrey](/users/4777134)**, ![][flag_MY] [haruchi](/users/4845266), ![][flag_SG] [Jolene](/users/2672025), ![][flag_MY] [Desumond](/users/7399262), ![][flag_SG] [moosepi](/users/1868745), ![][flag_SG] [LanJay](/users/5210595), ![][flag_MY] [Rampax](/users/3995630) |
+| **Anime Tiddles** | **![][flag_NL] [Swerro](/users/4507667)**, ![][flag_NL] [FogsFles](/users/3197633), ![][flag_CA] [Saltstick](/users/2165408), ![][flag_DE] [Rashomon](/users/5120169), ![][flag_DE] [Lulu-](/users/4201715), ![][flag_ES] [Franleon86](/users/4839479), ![][flag_DE] [Psychadelic](/users/7373700), ![][flag_CA] [Akkuto](/users/4649165) |
 | **Azer** | **![][flag_SG] [handsome](/users/2123087)**, ![][flag_US] [he rack](/users/2644828), ![][flag_GR] [Riven](/users/3638005), ![][flag_MA] [FGSky](/users/2094566), ![][flag_US] [kablaze](/users/3043603), ![][flag_ES] [waaiiru](/users/903978), ![][flag_NL] [jackylam5](/users/1540807) |
+| **azur lane** | ![][flag_TW] [muyachan](/users/4410916), ![][flag_TW] [qwezxc3975](/users/4914395), ![][flag_TW] [shawn0123](/users/1775182), ![][flag_TW] [qaws55](/users/3015526), ![][flag_TW] [abinsan](/users/3363171), ![][flag_TW] [yumi910218](/users/3206030), ![][flag_TW] [Spinesnight](/users/4519494), ![][flag_TW] [a123233555](/users/3292934) |
+| **b** | **![][flag_US] [WillCookie](/users/6404488)**, ![][flag_GB] [TopSp1n](/users/7657761), ![][flag_US] [ryyushi](/users/6014327), ![][flag_PS] [Omaru](/users/6574143), ![][flag_GR] [\[Leo\]](/users/2723790), ![][flag_US] [Tilt on English](/users/6673228), ![][flag_SE] [Denk Mimer](/users/7177201), ![][flag_AU] [Ampharos](/users/7236080) |
+| **Beginner's Luck** | **![][flag_JP] [A5uka](/users/5137553)**, ![][flag_JP] [H10M](/users/6386131), ![][flag_JP] [Vento](/users/4796794), ![][flag_JP] [N2U](/users/5066908), ![][flag_JP] [Aigis\_XeX](/users/2575799) |
+| **Big Black PP** | **![][flag_US] [Incorrect](/users/4469090)**, ![][flag_GB] [Mazz](/users/7404874), ![][flag_US] [Mino-](/users/7796093), ![][flag_FR] [roludellau](/users/7794371), ![][flag_FR] [Miister\_Blue](/users/2269005), ![][flag_US] [Xilent](/users/5340127), ![][flag_US] [Ariisha](/users/6246943) |
+| **BüroklammerCarry** | **![][flag_DE] [Xenou](/users/2539403)**, ![][flag_DE] [M3ddly](/users/9154962), ![][flag_DE] [CookEasy](/users/453226), ![][flag_DE] [Katziezi](/users/3087892), ![][flag_DE] [Niphora](/users/6566312), ![][flag_DE] [Kentaro](/users/8657524), ![][flag_DE] [Goruku](/users/787576), ![][flag_DE] [limlim](/users/3660150) |
 | **black dogleg** | **![][flag_US] [fruit punch](/users/6303313)**, ![][flag_US] [Ritzeh](/users/1028387), ![][flag_US] [Aknama](/users/4322869), ![][flag_US] [Tem](/users/5393042), ![][flag_GB] [Spare](/users/2204373), ![][flag_US] [Vaxei](/users/4787150), ![][flag_US][Wombraider](/users/7342622), ![][flag_US] [Ceptin](/users/3221564) |
+| **Cauldron Bois V2** | **![][flag_US] [Viggma](/users/8299854)**, ![][flag_US] [ItsWinter](/users/6381153), ![][flag_US] [Ghouru](/users/6273855), ![][flag_US] [Bredzeus](/users/6314059), ![][flag_US] [Hau](/users/7018565), ![][flag_DE] [1miss\_vRexXy](/users/4273530) |
+| **Club Penguin** | **![][flag_BE] [5joshi](/users/4279650)**, ![][flag_NO] [- Markus -](/users/8414284), ![][flag_BE] [Jodehh-](/users/6471366), ![][flag_BE] [Bastia](/users/3355362), ![][flag_BE] [\[Sven\]](/users/3695504), ![][flag_BE] [Nogar](/users/4239446), ![][flag_BE] [Mking](/users/8114163), ![][flag_SA] [CheeseNToast](/users/9154495) |
+| **Cocalombia** | **![][flag_CO] [ChukiTheWolf](/users/6045290)**, ![][flag_CO] [Schweinorg](/users/6575153), ![][flag_CO] [ElMick33](/users/5458323), ![][flag_CO] [Supermaty](/users/4116917), ![][flag_CO] [xByakko](/users/2875913), ![][flag_CO] [crisco13](/users/3562488), ![][flag_CO] [Clippy](/users/6385568) |
+| **COCI** | **![][flag_RU] [crlDax](/users/4571241)**, ![][flag_RU] [l1ch](/users/7172734), ![][flag_RU] [Wh0Am1](/users/7385402), ![][flag_RU] [539daidaigenome](/users/8899856), ![][flag_RU] [VIK363](/users/4284266), ![][flag_RU] [Kerantor](/users/4554504), ![][flag_RU] [Chinatsu Hiyama](/users/6606172), ![][flag_KZ] [Un5tab1e](/users/8593630) |
+| **cringepeek** | **![][flag_HU] [Lexion](/users/5271371)**, ![][flag_HU] [RatinA0](/users/3436625), ![][flag_HU] [Riknoob](/users/4624788), ![][flag_HU] [Jugment](/users/3727686), ![][flag_HU] [Darnol](/users/3922364), ![][flag_HU] [\[Black-kun\]](/users/5607759), ![][flag_HU] [superuser1337](/users/2122259), ![][flag_HU] [dsvd](/users/6369513) |
+| **cucumber control** | **![][flag_DE] [SyNeX](/users/3618513)**, ![][flag_US] [BobbyZlich](/users/6779549), ![][flag_DE] [Letronik](/users/7571575), ![][flag_US] [CBullet](/users/8541283), ![][flag_DE] [66Luki](/users/6294045), ![][flag_ES] [Jahjeh](/users/8054385), ![][flag_DE] [-Vid](/users/8105655) |
+| **dab on haters** | **![][flag_DE] [- Nico](/users/4990127)**, ![][flag_DE] [Kyoma](/users/4961808), ![][flag_DE] [BlueSky-](/users/6410154), ![][flag_DE] [- Neo](/users/4671199), ![][flag_DE] [Gronkh](/users/6461373), ![][flag_DE] [Mdes](/users/6574255) |
+| **Doki-Doki Osu Club** | ![][flag_EE] [eyph0ria](/users/7904220), ![][flag_EE] [Slay](/users/7093124), ![][flag_EE] [LaV](/users/6467478), ![][flag_ES] [RivenXLukario](/users/9582556), ![][flag_EE] [HazzardFreak](/users/2503803), ![][flag_EE] [Netrian](/users/6168748), ![][flag_BE] [Fblade](/users/3168085) |
 | **Floating Up** | **![][flag_KR] [Gomo Pslvarh](/users/1206417)**, ![][flag_KR] [Pring](/users/3478883), ![][flag_KR] [Pray](/users/2190336), ![][flag_KR] [Neta](/users/832084), ![][flag_KR] [Yaong](/users/1883865), ![][flag_CN] [Crystal](/users/1646397), ![][flag_CN] [EmertxE](/users/954557), ![][flag_TW] [Shiina Noriko](/users/1285637) |
 | **Gekidan PIKORI** | **![][flag_JP] [ginrou0803](/users/2379533)**, ![][flag_JP] [\_YuriNee](/users/1794082), ![][flag_JP] [Angel Arrow](/users/1970239), ![][flag_JP] [Anpan dayo](/users/2468971), ![][flag_JP] [BNY963](/users/1477258), ![][flag_JP] [hshs](/users/1644514), ![][flag_JP] [Meg](/users/1872496), ![][flag_JP] [Shirasaka Koume](/users/3062998) |
 | **GOMEN JEFFREY** | **![][flag_ID] [Landegre-](/users/3654630)**, ![][flag_ID] [Skydiver](/users/4750008), ![][flag_ID] [Fuma](/users/1501956), ![][flag_MY] [ShaneLiang](/users/6716499), ![][flag_VN] [\_Kumiko-chan\_](/users/6673790), ![][flag_VN] [Ok xd](/users/4919398), ![][flag_VN] [\[ Sakura\_Ame \]](/users/6577176), ![][flag_VN] [SkyArrow](/users/4039647) |
 | **Gucci Gang** | **![][flag_US] [Tohru](/users/3596296)**, ![][flag_BE] [Hanori](/users/7078544), ![][flag_US] [Riley](/users/3007925), ![][flag_AT] [NuHaru](/users/939213), ![][flag_KR] [Eurus](/users/3426414), ![][flag_US] [KoaLeahq](/users/4321876), ![][flag_US] [Dinkles](/users/4706588), ![][flag_DE] [Asunamaru](/users/4507179) |
 | **hotel for dogs** | **![][flag_US] [arth](/users/3600549)**, ![][flag_GB] [Bubbleman](/users/5182050), ![][flag_US] [Jensen](/users/4719055), ![][flag_US] [Squeeble](/users/3291472), ![][flag_US] [clayton](/users/3666350), ![][flag_US] [Corim](/users/4242767), ![][flag_US] [saoie](/users/6015875), ![][flag_US] [Yuza](/users/3077037) |
+| **hotel for lolis** | **![][flag_US] [explosionboom](/users/4681410)**, ![][flag_CA] [Pikapwn](/users/2012453), ![][flag_CA] [Legless](/users/3224243), ![][flag_US] [chezbananas](/users/7941423), ![][flag_US] [Tilted af](/users/7488088), ![][flag_US] [StingrayOW](/users/4362050), ![][flag_US] [\[Xenon\]](/users/3638099), ![][flag_US] [Lolitaro](/users/6849804) |
+| **I can't Tyep!** | **![][flag_DE] [Miroku](/users/1492771)**, ![][flag_ID] [Chie chan](/users/3077522), ![][flag_DE] [Maid Rem-rin](/users/1351784), ![][flag_ID] [Avexious](/users/3015645), ![][flag_DE] [Bizeps](/users/822600), ![][flag_TH] [Seen\_LOSO](/users/5082392) |
+| **i got nothing** | **![][flag_US] [Wnd](/users/6441979)**, ![][flag_SE] [Akkelobster](/users/5100064), ![][flag_LT] [Mancis](/users/4839300), ![][flag_PL] [Arte](/users/6787910), ![][flag_US] [Fawx](/users/7093736), ![][flag_BR] [-Lunatic](/users/6669931), ![][flag_RS] [teeb](/users/2339235) |
+| **Just Monika** | **![][flag_PH] [Nezol](/users/7509103)**, ![][flag_TH] [san-lotso](/users/5296112), ![][flag_PH] [Oooodriiin](/users/7223737), ![][flag_PH] [Natsume-](/users/5682791), ![][flag_PH] [Shii](/users/2911062), ![][flag_PH] [konawiki](/users/4003979), ![][flag_PH] [Hecs](/users/7138565) |
+| **Last Remote** | **![][flag_FR] [Planatek](/users/4869601)**, ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [Tigzick](/users/6745742), ![][flag_FR] [Vince84](/users/4634012) |
+| **LemmeTeachDaWey** | **![][flag_ID] [Gerazzza](/users/10305569)**, ![][flag_DE] [BadWolfi](/users/6217178), ![][flag_PL] [TunaBoi](/users/10221998), ![][flag_DE] [Tumbleweed](/users/7645177), ![][flag_ES] [Your Sensei](/users/8101470), ![][flag_US] [flipcakes](/users/3596290), ![][flag_NL] [joorieoorie](/users/5265616) |
+| **LesProDeCoc** | ![][flag_FR] [Agostino](/users/3897665), ![][flag_FR] [Carbone](/users/5783315), ![][flag_FR] [nasobol90](/users/7630971), ![][flag_FR] [\[ Suly \]](/users/7806847), ![][flag_FR] [Lexonox](/users/7640581), ![][flag_FR] [Seguri](/users/6621540), ![][flag_FR] [\[ Ackxess \]](/users/7463173), ![][flag_FR] [JustMan](/users/7657831) |
+| **Lolicops** | **![][flag_NL] [DarkerMS](/users/7864566)**, ![][flag_NO] [Loheb](/users/8574295), ![][flag_SE] [Hansan](/users/9456334), ![][flag_IS] [Kraiko](/users/6517715), ![][flag_ES] [Polako](/users/9199054), ![][flag_PL] [Herowoj](/users/1785533), ![][flag_GB] [-Kukai-](/users/8436982), ![][flag_IL] [Collector](/users/3631745) |
 | **lotus top 1 br** | **![][flag_BR] [Jefray](/users/7587015)**, ![][flag_BR] [Zekker](/users/4663554), ![][flag_BR] [My Angelsim](/users/3149577), ![][flag_BR] [Quide](/users/8499774), ![][flag_BR] [Sickoh](/users/5411474), ![][flag_BR] [- Dark -](/users/5240155), ![][flag_BR] [Astris](/users/6173856), ![][flag_BR] [LotusPlay](/users/9072552) |
+| **Mac 10 A Rush** | **![][flag_JP] [mintyan](/users/6566515)**, ![][flag_JP] [haga1115](/users/6574823), ![][flag_JP] [\_kotachi\_](/users/4698485), ![][flag_JP] [\_tottoko\_](/users/8354698), ![][flag_BR] [Akane Hime](/users/6772887), ![][flag_JP] [Miuna](/users/8375874), ![][flag_JP] [katatakatata](/users/3540294) |
+| **my pp just grew** | **![][flag_GB] [OskaRRRitoS](/users/7051163)**, ![][flag_NL] [Pridestalker](/users/6941124), ![][flag_US] [Blanklife](/users/8851658), ![][flag_US] [Kawaii AF](/users/9720608), ![][flag_GB] [Titus](/users/2014867), ![][flag_UA] [CaptainDiabetes](/users/9470208), ![][flag_SE] [fcuk](/users/4844909), ![][flag_AT] [Akrosmex](/users/5949245) |
+| **no gugu** | **![][flag_CN] [VRainbow](/users/3635214)**, ![][flag_CN] [Gyro Zeppeli](/users/3824882), ![][flag_CN] [SweetCukes\_](/users/7209223), ![][flag_CN] [Garden](/users/2849992), ![][flag_CN] [Bellicose](/users/4298072), ![][flag_CN] [Neet Sama](/users/4137401), ![][flag_CN] [phtry](/users/3394580), ![][flag_CN] [Illustrious](/users/8338750) |
 | **NoName** | **![][flag_FR][Kazenohiro](/users/1574678)**, ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [NerO](/users/1545031), ![][flag_FR] [Haynoru](/users/3281136), ![][flag_FR] [Shapy](/users/2705769), ![][flag_FR] [Sylux6](/users/2607507), ![][flag_FR] [Xybi](/users/2295621), ![][flag_FR] [Tenori-Taiga](/users/2445162) |
+| **nuplauti** | **![][flag_LT] [xChorse](/users/2217628)**, ![][flag_LT] [Haganenno](/users/4692344), ![][flag_LT] [Kosmonautas](/users/3683323), ![][flag_LT] [wizer](/users/4506754), ![][flag_LT] [Fuuka](/users/5120516), ![][flag_LT] [niyuji](/users/5182374) |
 | **nvnvnvnvn** | **![][flag_CL] [Yumbtah](/users/2784663)**, ![][flag_CL] [\[-Neon-\]](/users/6064382), ![][flag_CL] [kafaN](/users/1489743), ![][flag_CL] [-Dylson-](/users/6315784), ![][flag_CL] [\[- Momo -\]](/users/6024502), ![][flag_CL] [Hellbeak](/users/2367495), ![][flag_SK] [Hranolka](/users/6149947), ![][flag_BR] [Tell](/users/2125109) |
 | **OwO** | **![][flag_US] [Aoiyuuki-](/users/1820694)**, ![][flag_PL] [Bartek22830](/users/6404027), ![][flag_AR] [Enhu](/users/2840499), ![][flag_LV] [Forseen](/users/556012), ![][flag_NL] [grasmaaier](/users/6888206), ![][flag_FR] [Miyurissan](/users/6188468), ![][flag_JP] [mukaitou](/users/2489944), ![][flag_KR] [Penoreri-](/users/2425779) |
+| **Potato farmers** | ![][flag_IE] [TeaMaestro](/users/9164636), ![][flag_IE] [Kujinn](/users/3723568), ![][flag_PL] [\[ Blade \]](/users/4033022), ![][flag_IE] [SureLife](/users/4415393), ![][flag_IE] [\[ Robert \]](/users/3880690), ![][flag_IE] [Mezy](/users/3500068), ![][flag_IE] [Aseridan](/users/9217468), ![][flag_IE] [Istraa](/users/7449949) |
+| **Prob a drug ring** | **![][flag_US] [Hyotic](/users/6386041)**, ![][flag_US] [Olivia](/users/6485813), ![][flag_US] [LeVixon](/users/5729233), ![][flag_GB] [Insp1r3](/users/7131254), ![][flag_US] [bnbn](/users/6594406), ![][flag_US] [CheeseManFuu](/users/5706305), ![][flag_US] [StrawberryPocky](/users/4142572) |
+| **pwntaterz** | **![][flag_US] [PotatoBoy123](/users/8813784)**, ![][flag_US] [im a fancy lad](/users/4908650), ![][flag_SE] [Clover2k](/users/9063718), ![][flag_PL] [Redias](/users/6963153), ![][flag_SE] [xTroMenia](/users/6314391), ![][flag_CA] [trevrasher](/users/3893420/) , ![][flag_RO] [SlatoSucks](/users/6275784) |
+| **Re:Member** | ![][flag_CA] [Nahtaxara](/users/3788038), ![][flag_ID] [wiam103](/users/4109839), ![][flag_PH] [fixedbyglue](/users/8296269), ![][flag_CA] [cutbackdropturn](/users/2616869), ![][flag_GR] [nikolomara](/users/10077264), ![][flag_BG] [asdsdasfa](/users/9518027), ![][flag_NL] [KiritosSenpai](/users/8111633), ![][flag_GB] [Sobriquet](/users/3891023) |
 | **RemkyBestTrap** | **![][flag_PE] [Arnold24x24](/users/2291265)**, ![][flag_CL] [Kumagai Eri](/users/5339515), ![][flag_CL] [xaxreid](/users/4227431), ![][flag_CL] [Shiny Froakie](/users/6194830), ![][flag_UY] [Ako chan](/users/6404583), ![][flag_CL] [- Hakurei Kou -](/users/4373354), ![][flag_PE] [TKyoko](/users/5511491) |
 | **Rubber Conquest** | **![][flag_US] [Apraxia](/users/4194445)**, ![][flag_US] [Monko2k](/users/4852013), ![][flag_US] [DigitalHypno](/users/4384207), ![][flag_US] [Toy](/users/2757689), ![][flag_CA] [Azer](/users/2155578), ![][flag_KR] [Cookiezi](/users/124493), ![][flag_BR] [MouseEasy](/users/124493), ![][flag_CA] [\_RyuK](/users/6304246) |
+| **sample text** | **![][flag_US] [Haxagon](/users/9526124)**, ![][flag_CA] [Alolan Raichu](/users/7060823), ![][flag_CA] [drachnid](/users/2759446), ![][flag_CA] [Frost\_Bolt](/users/11019404), ![][flag_DK] [ShadyShadow](/users/4996963), ![][flag_US] [M\_Lama](/users/9280632), ![][flag_US] [flygon](/users/3005035) |
 | **Sayuri best girl** | **![][flag_ES] [Snowwy](/users/4393092)**, ![][flag_US] [M I L E S](/users/6036351), ![][flag_ES] [Moewagon](/users/5764169), ![][flag_ES] [ByYoshi14](/users/4470553), ![][flag_ES] [Insane-Senpai](/users/5114537), ![][flag_LT] [cvc](/users/3065625), ![][flag_GB] [\[Bloo\]](/users/6778877), ![][flag_DE] [Pobu](/users/7738212) |
 | **Sexy Snowmen** | **![][flag_CA] [eddje](/users/3898396)**, ![][flag_EE] [Abyssal](/users/5527745), ![][flag_EE] [Save Me](/users/6498951), ![][flag_EE] [Lotragon](/users/6063342), ![][flag_DE] [okinamo](/users/3765989), ![][flag_DE] [Malvin](/users/8260206), ![][flag_LT] [Zebarkez](/users/4095562), ![][flag_US] [bjlly](/users/6357144) |
 | **shen mapo** | **![][flag_HK] [StarrStyx](/users/4600383)**, ![][flag_TW] [Flask](/users/959763), ![][flag_HK] [Chaoslitz](/users/3621552), ![][flag_AU] [sahuang](/users/5318910), ![][flag_HK] [Skystar](/users/873961), ![][flag_CN] [yf\_bmp](/users/1243669), ![][flag_HK] [-N a n a k o-](/users/1407516), ![][flag_HK] [- G I D Z -](/users/2286528) |
 | **Shigure Lovers** | **![][flag_DK] [Spork Lover](/users/3417469)**, ![][flag_JP] [Shigure chan](/users/1048423), ![][flag_IT] [Koba](/users/4448118), ![][flag_IL] [Xilver](/users/3099689), ![][flag_TW] [Rizer](/users/5155973), ![][flag_AU] [GranDSenpai](/users/3997580), ![][flag_DE] [Epiphany](/users/3256299), ![][flag_SG] [Elegant Loli](/users/3010281) |
 | **Stoof & Friends** | **![][flag_US] [Squilly](/users/4681578)**, ![][flag_US] [Willy](/users/3521482), ![][flag_AU] [Dumii](/users/3068044), ![][flag_US] [Skill](/users/7802027), ![][flag_US] [Noname0](/users/280147), ![][flag_US] [Cocoa Hoto](/users/6672998), ![][flag_MX] [-Wolfy-](/users/4497582) |
+| **TapBom** | **![][flag_BR] [Albertin069](/users/8931034)**, ![][flag_BR] [TigaJun](/users/8950284), ![][flag_BR] [tragtenberg](/users/6196100), ![][flag_BR] [Juh](/users/10145045), ![][flag_BR] [GTK\_fLow](/users/10506211), ![][flag_BR] [xKirito](/users/4018079), ![][flag_BR] [Jik](/users/5915257) |
+| **Teamcito II** | **![][flag_AR] [Maariianoo](/users/6371395)**, ![][flag_AR] [Arua](/users/5038837), ![][flag_UY] [Daanit](/users/6159669), ![][flag_AR] [MarianCap \[AR\]](/users/7400150), ![][flag_AR] [Amuro](/users/7119659), ![][flag_CL] [Cris-](/users/6175280), ![][flag_AR] [Nykke](/users/8181950) |
+| **The Fine Ladies** | **![][flag_CA] [Bowlcut](/users/4118327)**, ![][flag_CA] [Wooby](/users/4083360), ![][flag_US] [MacaroniMan](/users/6720313), ![][flag_SE] [- Exirian -](/users/5287025), ![][flag_US] [ImNotRafa](/users/8828081), ![][flag_US] [Zirmike](/users/5931321), ![][flag_SE] [Gandalf](/users/3371901) |
+| **The Leftovers** | **![][flag_US] [Cychloryn](/users/6921736)**, ![][flag_US] [Arsene](/users/4427983), ![][flag_US] [EwGoo](/users/7971901), ![][flag_GB] [Apathyy](/users/11251641), ![][flag_US] [daw9801](/users/4773094), ![][flag_US] [Setizia](/users/10480819), ![][flag_AT] [michi2806](/users/3954058) |
+| **Tilted Venrue** | **![][flag_TR] [112servis](/users/3953470)**, ![][flag_TR] [Venrue](/users/3004893), ![][flag_TR] [freeze113](/users/4237503), ![][flag_TR] [heyronii](/users/5642779), ![][flag_TR] [Hazar](/users/6364554), ![][flag_TR] [egemenbsrms](/users/4520477) |
+| **Tsutaerarenakata** | **![][flag_PL] [Reifa](/users/5725033)**, ![][flag_PL] [-Sylvari](/users/3493804), ![][flag_PL] [ChainedTomb](/users/4966523), ![][flag_PL] [Alyse](/users/2230438), ![][flag_PL] [Kootek](/users/6703291), ![][flag_PL] [OneMissMan](/users/7606060), ![][flag_PL] [SpellZZZ](/users/8246365), ![][flag_PL] [Szyszek](/users/4622456) |
+| **Yomi yori Kikoyu** | **![][flag_GR] [Akashii](/users/6909105)**, ![][flag_GR] [-Raijin](/users/5380583), ![][flag_GB] [Pelzio](/users/4775226), ![][flag_GR] [awesomemacD](/users/5589933), ![][flag_US] [Pupper](/users/3055278), ![][flag_CA] [Purps](/users/5334695), ![][flag_GR] [Grapheon](/users/2415008) |
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_AT] [animexamera](/users/7511357) | ![][flag_IT] [Kith190](/users/7365988) | ![][flag_AU] [cactusthegreat](/users/5592409) | ![][flag_MY] [Bedwyr Aorta](/users/10875855) |
-| **B** | ![][flag_BR] [Mikudayo](/users/5235718) | ![][flag_US] [Konan](/users/3252800) | ![][flag_IT] [VenomPlus](/users/7722827) | ![][flag_EC] [Gamelan4](/users/9856910) |
-| **C** | ![][flag_FR] [Yoshi-GH](/users/3317042) | ![][flag_FR] [\_Infected\_](/users/7432095) | ![][flag_AU] [Beat43210](/users/5664171) | ![][flag_BR] [Omega Ranger](/users/3234628) |
-| **D** | ![][flag_PT] [hi im costarino](/users/9209430) | ![][flag_PL] [Wolfgang](/users/7184324) | ![][flag_GB] [-Ryan](/users/7822081) | ![][flag_US] [CaptainEChan](/users/9536977) |
-| **E** | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_BR] [Lazarento](/users/3224958) | ![][flag_AU] [Tsubasa2](/users/6835183) | ![][flag_US] [Rukairi](/users/6642597) |
-| **F** | ![][flag_MX] [Ammy](/users/4183406) | ![][flag_JP] [Briesmas](/users/2865172) | ![][flag_AU] [LordAverage](/users/3101354) | ![][flag_AU] [Blobby3000](/users/6916774) |
-| **G** | ![][flag_MX] [xtrem3x](/users/136385) | ![][flag_GB] [Ali161102](/users/7582420) | ![][flag_BR] [Kyoumo](/users/8145223) | ![][flag_CL] [ArmoredReaper](/users/6276709) |
-| **H** | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_GB] [Braixen-](/users/8628814) | ![][flag_HK] [Akali393394](/users/9686628) | ![][flag_BR] [AnonX32](/users/2730270) |
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | Group I | Group J | Group K | Group L | Group M | Group N | Group O | Group P |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Floating up | nvnvnvnvn | 0.3 gamma | Azer | Shigure Lovers | 0hm8frswhxkysexo | black dogleg | Sexy Snowmen | Rubber Conquest | Gucci Gang | ANGERY JEFFREY | Gekidan PIKORI | hotel for dogs | GOMEN JEFFREY | RemkyBestTrap | Stoof & Friends |
+| :b:eezah | Just Monika | lotus top 1 br | no gugu | nuplauti | Sayuri best girl | OwO | b | shen mapo | hotel for lolis | Tilted Venrue | Yomi yori kikoyu | Teamcito II | Mac 10 A Rush | LesProDeCoc | NoName |
+| BüroklammerCarry | pwntaterz | Anime Tiddles | Cauldron Bois V2 | cringepeek | Club Penguin | Doki-Doki Osu Club | I can't Tyep! | Tsutaerarenakata | azur lane | cucumber control | Cocalombia | Potato farmers | Beginner's Luck | i got nothing | :thowonking: |
+| COCI | Big Black PP | sample text | The Fine Ladies | TapBom | Last Remote | LemmeTeachDaWey | The Leftovers | \[\[heck\]\] | dab on haters | Prob a drug ring | Accuracy^ | Lolicops | Re:Member | my pp just grew | 4head |
 
 -----------------------
 
@@ -110,121 +149,93 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
-
-**[Download the mappack here! (90 MB)](https://mega.nz/#!UpFjmQ7R!Gb2BuiMchBz8svczdT3ThaUVAinJtvNKljvtjFOX5Es)**
-
-- NoMod
-  - [ribb0n - OLAY (RIBB0N ILLEGAL BOOTLEG) (vrnl) \[hey ben\]](/beatmapsets/783226/#taiko/1644603)
-  - [E.G.G. - Got noir forever. (Mrriichi) \[Taiko frontier.\]](/beatmapsets/326018/#taiko/788682)
-  - [TOMOSUKE feat. Asaki - Meikyoushisui (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](/beatmapsets/573847/#taiko/1215569)
-  - [The Flashbulb - Lawn Wake IV (Black) (Gezoda) \[Hell Oni\]](/beatmapsets/341717/#taiko/756202)
-  - [Katagiri - Heisei Memehunters (Legless) \[we live in a society\]](/beatmapsets/796694/#taiko/1673235)
-- Hidden
-  - [Nasty Maid Grinder - Necromancer (Stefan) \[Taikovic Oni\]](/beatmapsets/740097/#taiko/1561432)
-  - [Nemuresu - Goliath (7\_7) \[Oni\]](/beatmapsets/823244/#taiko/1725321)
-  - [MMQX - Spell No. 213 (incandescence) \[Blackmagic\]](/beatmapsets/803652/#taiko/1686776)
-- HardRock
-  - [P\*Light - FUNKY SUMMER BEACH (SKSalt) \[CRAZY SUMMER\]](/beatmapsets/349507/#taiko/770730)
-  - [cosMo VS dj TAKA - kyouken (ekumea1123) \[Inner Oni\]](/beatmapsets/680794/#taiko/1439407)
-  - [star anis - Adult Mode \[YUC'e Remix\] (hoku-4625) \[hoku's twinkle night ^z^\]](/beatmapsets/804530/#taiko/1688880)
-- DoubleTime
-  - [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg)
-  - [SHK - Follow Me (Nishizumi) \[Inner Oni\]](/beatmapsets/802367/#taiko/1683996)
-  - [Omoi - Nee William (sobatsuyu) \[Oni\]](/beatmapsets/333503/#taiko/776180)
-- FreeMod
-  - [Kaneko Chiharu - ai want u (1rori) \[Inner Oni\]](/beatmapsets/822493/#taiko/1723787)
-  - [Croove - BRAIN STORM (agu) \[Ura Oni\]](/beatmapsets/807990/#taiko/1695649)
-  - [Uinyasu,OttyokoBunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (JUDYDANNY) \[Kenran\]](/beatmapsets/598286/#taiko/1264674)
-- Tiebreaker
-  - **[Xenon - 69(Brokenmix) (applerss) \[96\]](/beatmapsets/721790/#taiko/1524074)**
-
 ### Finals
 
-**[Download the mappack here! (96 MB)](https://mega.nz/#!E5NAjSgD!Oat2E6s8raTuQLNgcWZWZsATAakgYonwLfmQrxQuBs4)**
+**[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 
 - NoMod
-  - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](/beatmapsets/690025/#taiko/1460477)
-  - [2go Aniki - Cutting the music (nyanmi-1828) \[I/nner Oni\]](/beatmapsets/756214/#taiko/1591394)
-  - [kors k - Monkey Business (uone) \[Inner Oni\]](/beatmapsets/712368/#taiko/1505896)
-  - [Hatsune Miku - boku-boku (-\[ ix Ishida xi \]-) \[ishida's Hell Taiko\]](/beatmapsets/51611/#taiko/176945)
-  - [Streetlight Manifesto - Everything Went Numb (Ulqui) \[Ura Oni\]](/beatmapsets/737715/#taiko/1556945)
+  - [Twin-Tails - Twintail Dreamer! (Hollow Wings) \[HW's EX\]](/beatmaps/660264)
+  - [Mutsuhiko Izumi - Red Goose (Kroytz) \[Apex\]](/beatmaps/708466)
+  - [paraoka feat. haru\*nya - Rampage (Kyshiro) \[Kyshiro's Ultra\]](/beatmaps/1074894)
+  - [Nizikawa - F.K.S. (Pho) \[OVERDRIVE\]](/beatmaps/841899)
 - Hidden
-  - [onoken - ZADAMGA (agu) \[Inner Oni\]](/beatmapsets/458476/#taiko/982430)
-  - [P\*Light - NINJA IS DEAD IIDX ver. (Skylish) \[Skylish's Corpse Inner Oni\]](/beatmapsets/590032/#taiko/1628026)
-  - [lapix - Amazing Mirage (Raphalge) \[???\]](/beatmapsets/679147/#taiko/1435910)
+  - [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) \[Extra\]](/beatmaps/1447689)
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (byfar) \[byfar\]](/beatmaps/1532051)
+  - [Nekomata Master+ - encounter (Priti) \[Priti's Ultra\]](/beatmaps/1007185)
 - HardRock
-  - [xi - Go Beyond!! -Jazzy mix- (frukoyurdakul) \[Don't Hold Back\]](/beatmapsets/742399/#taiko/1565915)
-  - [Function Phantom - Euclid (tasuke912) \[Indifferentiable\]](/beatmapsets/761560/#taiko/1601331)
-  - [USAO - Miracle 5ympho X (Gezoda) \[Gezo's Giga Oni\]](/beatmapsets/137394/#taiko/486191)
+  - [Hatsuki Yura - Yuki no Hana (GoldenWolf -METAL MIX-) (Xenok) \[Snow\]](/beatmaps/1521024)
+  - [MY FIRST STORY - Itazura Fiction (pishifat) \[pishi's Insane\]](/beatmaps/1025587)
+  - [Camellia - Chirality (Miura) \[Miura's Expert\]](/beatmaps/1573039)
 - DoubleTime
-  - [Colors Slash - Colors Power ni Omakasero! (Sober Bear Remix) (HEKUSODASU) \[Oni\]](/beatmapsets/807284/#taiko/1725411)
-  - [Rainbowdragoneyes - The Rift (Mew104) \[Oni\]](/beatmapsets/445365/#taiko/1475222)
-  - [TheFatRat - Mayday (feat. Laura Brehm) (Skull Kid) \[Mayday\]](/beatmapsets/793457/#taiko/1666285)
+  - [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) \[Lunatic\]](/beatmaps/169450)
+  - [cYsmix - Dovregubben's Hall (Spaghetti) \[Insane\]](/beatmaps/822869)
+  - [U - Ha-tenya? (biwako) \[Insane\]](/beatmaps/120080)
 - FreeMod
-  - [The Flashbulb - Passage D (Raiden) \[Inner Oni\]](/beatmapsets/587426/#taiko/1730344)
-  - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](/beatmapsets/747516/#taiko/1575117)
-  - [cosMo@BousouP - Second Heaven GravityPfArrange (HiroK) \[Inner Oni\]](/beatmapsets/759511/#taiko/1597508)
+  - [A Himitsu - Icy Vindur (BrosephStalin) \[Extra\]](/beatmaps/746856)
+  - [Hatsune Miku - Atama no Taisou (Louis Cyphre, val0108) \[Lucifer x 0108\]](/beatmaps/129407)
+  - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Extreme\]](/beatmaps/1029677)
 - Tiebreaker
-  - **[Laur - Sound Chimera (yea) \[Cosmic Minds\]](/beatmapsets/779916/#taiko/1637636)**
+  - **[NU-KO - Pochiko no Shiawase na Nichijou (Startrick) \[Startrick no Shiawase na Nichijou\]](/beatmaps/612871)**
+  - **[\[DJ Max\] - Here in the Moment (Deramok) \[otst! Finals Tiebreaker 2\]](/beatmaps/1586725)**
+  - **[Camellia - Towards The Horizon (Pho) \[White Extra\]](/beatmaps/1350353)**
 
 ### Semifinals
 
-**[Download the mappack here! (108 MB)](https://mega.nz/#!F1NA1aIa!DK3IMj0sIBYxGcW9ctyaIX9S1CfZVqZdiw3N9Z5FC58)**
-
 - NoMod
-  - [Kobaryo feat. Nanahira - Cross The Finish Line (Backfire) \[Backfire's Oni\]](/beatmapsets/410594/#taiko/1013340)
-  - [Camellia - Towards the Horizon (Nishizumi) \[Skyline\]](/beatmapsets/608796/#taiko/1285688)
-  - [BABYMETAL - AMORE (shinchikuhome) \[Lovely Taiko\]](/beatmapsets/684178/#taiko/1447931)
-  - [Yu\_Asahina - Ongaku -resolve- (Zetera) \[Zetera's Majin Oni\]](/beatmapsets/368219/#taiko/870628)
-  - [sasakure.UK - The UniversaL ElekiteL (Arrival) \[Inner Oni\]](/beatmapsets/567572/#taiko/1202588)
+  - [Panda Eyes - KIKO (Fanteer) \[Extra\]](/beatmaps/991059)
+  - [xi - Aragami (Cherry Blossom) \[Death\]](/beatmaps/526757)
+  - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Matsubara Kanon) \[CS5\]](/beatmaps/1447982)
+  - [xi vs sakuzyo - STORIA (Various Mappers) \[Collab STORIA\]](/beatmaps/1461844)
 - Hidden
-  - [IOSYS TRAX (uno with.chiyoko) - DX Choseinou Full Metal Shoujo (Skull Kid) \[Skid's HUMAN MAP\]](/beatmapsets/823625/#taiko/1725945)
-  - [DJ SHARPNEL - IVALTEK (Pheon) \[Phedondon\]](/beatmapsets/50429/#taiko/155101)
-  - [YUC'e - Night Club Junkie (KinomiCandy) \[HELLO BOYS AND GIRLS\]](/beatmapsets/618171/#taiko/1303164)
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (P A N) \[P A N's HD Challenge\]](/beatmaps/347808)
+  - [Mikagura Seisa (CV: Onishi Saori) - Esoragoto Spiral (Kyuukai) \[Sweetness\]](/beatmaps/1586963)
+  - [Reol - Netoge Haijin Sprechchor (Rethor) \[Rethor's Ultra\]](/beatmaps/921840)
 - HardRock
-  - [Minamotoya feat. Kuroa\* - Hana Kagerou (K-2) \[Flower\]](/beatmapsets/491879/#taiko/1048016)
-  - [Various Artists - Re:zero Opening Theme Set (Y O U T A) \[Paradisus-Paradoxum\]](/beatmapsets/518854/#taiko/1102393)
-  - [Jerico - Beyond Space Forcibly (tasuke912) \[Oni\]](/beatmapsets/340890/#taiko/753944)
+  - [Yomi - Remixed D's Adventure Note (toybot) \[Expert\]](/beatmaps/1037313)
+  - [Lucky Vacuum - Daily Lunch Special (CSY the corrupt) \[Extra\]](/beatmaps/231790)
+  - [YUC'e - Future Candy (Sing) \[Cocaine\]](/beatmaps/1238016)
 - DoubleTime
-  - [Mili - Mushrooms (Bowashe) \[Oni\]](/beatmapsets/710235/#taiko/1501403)
-  - [TERRA - Tenjou no Hoshi \~Reimeiki\~ (lepidopodus) \[lepidon! - Taiko Oni\]](/beatmapsets/14977/#taiko/66719)
-  - [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (Okoratu) \[oko's Oni\]](/beatmapsets/527735/#taiko/1189462)
+  - [Traktion - Metropolis (Original Mix) (Damnae) \[Damnae's Insane\]](/beatmaps/812689)
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz)
+  - [Susumu Hirasawa - Switched-On Lotus (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/43827)
 - FreeMod
-  - [Nekomata Master - fallen leaves -IIDX edition- (Arrival) \[Inner Oni\]](/beatmapsets/680353/#taiko/1438576)
-  - [YURICA - Amatsu Kitsune (Charlotte) \[Charlotte's Inner Oni\]](/beatmapsets/716642/#taiko/1521524)
-  - [Hiroyuki Sawano feat. Mika Kobayashi - Before My Body Is Dry (tomatomerde remix) (Chromoxx) \[Inner Oni\]](/beatmapsets/478494/#taiko/1021966)
+  - [IOSYS - Marisa wa Taihen na Kanbu de Tomatte Ikimashita (DJPop) \[Love\]](/beatmaps/39825)
+  - [Eisyo-kobu - Oriental Blossom (Vert) \[Vert's Extreme\]](/beatmaps/1247752)
+  - [Morimori Atsushi - Tits or get the fuck out!! (FreeSongs) \[FreeSongs' Extra!!\]](/beatmaps/995932)
 - Tiebreaker
-  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (nyanmi-1828) \[Falling to the Ground\]](/beatmapsets/750457/#taiko/1580327)**
+  - **[MYTH & ROID - Paradisus-Paradoxum (Taeyang) \[TAEYANG'S RETURN BY DEATH\]](/beatmaps/1092364)**
+  - **[Rossini & MC F 40 - Guillaume Tell (Sushi) \[Heavy\]](/beatmaps/44714)**
+  - **[Sota Fujimori - DANCE ALL NIGHT (Yoshimaro) \[Delight\]](/beatmaps/1268530)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!oh8SVIQa!m4BPovpRvJBW_Crh_zrJ2D4TU8Xpgu7doyNxb0oidZE)**
+**[Download the mappack here!](https://www.sendspace.com/file/7byndv)**
 
 - NoMod
-  - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](/beatmapsets/679686/#taiko/1437286)
-  - [MASAYOSHI IIMORI - Hella Deep (Trapmaniac) \[Oni\]](/beatmapsets/795073/#taiko/1669852)
-  - [LekSak - Ensemble Forecast 3/28 (OzzyOzrock) \[Oni\]](/beatmapsets/817619/#taiko/1714536)
-  - [weyheyhey !! - When I Think About You I Cut Myself (-Kazu-) \[Oni\]](/beatmapsets/729249/#taiko/1543148)
-  - [nao - Towa naru Kizuna to Omoi no Kiseki (404 AccNotFound) \[404's Oni\]](/beatmapsets/283049/#taiko/1258962)
+  - [Akiyama Uni - Ten'imuhou (Hollow Wings) \[Extra\]](/beatmaps/1007699)
+  - [yu\_tokiwa.djw - murmur twins (Muya) \[Another\]](/beatmaps/248501)
+  - [ROTTENGRAFFTY - 70cm Shihou no Madobe (Monstrata) \[Ultra Instict\]](/beatmaps/1468467)
+  - [Camellia - /\*encryption\*/ (DeviousPanda) \[Conversion\]](/beatmaps/1418661)
 - Hidden
-  - [Megpoid GUMI & Kagamine Rin - Invisible (climb65588) \[Climbb's Taiko Oni\]](/beatmapsets/45160/#taiko/155355)
-  - [Warak - REANIMATE (Raiden) \[Raiden's Inner Oni\]](/beatmapsets/411866/#taiko/1043373)
-  - [t+pazolite & C-Show - TRICKL4SH (Nofool) \[Inner Oni\]](/beatmapsets/408774/#taiko/887549)
+  - [Nekomata Master - Byakuya Gentou (v2b) \[EX\]](/beatmaps/119375)
+  - [Shimotsuki Haruka - Byakuya Gensoutan (yf\_bmp) \[yf's Expert\]](/beatmaps/1415403)
+  - [adaptor - LAISSEZ FAIRE (Atsuro) \[Luna's Extra\]](/beatmaps/1426549)
 - HardRock
-  - [61 Degrees - Kagami (eeezzzeee) \[Inner Oni\]](/beatmapsets/304783/#taiko/682773)
-  - [ginkiha - Oriens (\[I\]MMoRTal\[S\]) \[Inner Oni\]](/beatmapsets/202040/#taiko/491412)
-  - [LindaAI-CUE - Norudon2000 (OnosakiHito) \[Inner Oni\]](/beatmapsets/335229/#taiko/742085)
+  - [Camellia - Proluvies (Bonzi) \[Bonzi's Extra\]](/beatmaps/662294)
+  - [S-C-U feat. Qrispy Joybox - anemone (ktgster) \[ktgster's Extreme\]](/beatmaps/665543)
+  - [Camellia - Routing (Lasse) \[Lasse's Extra\]](/beatmaps/1405185)
 - DoubleTime
-  - [M2U - Quo Vadis (TKSalt) \[Oni\]](/beatmapsets/135324/#taiko/339132)
-  - [Shoji Meguro - Never More (lepidopodus) \[lepidon! - Taiko Oni\]](/beatmapsets/19432/#taiko/77978)
-  - [Caravan Palace - Lone Digger (incandescence) \[Oni\]](/beatmapsets/649083/#taiko/1375193)
+  - [Gavin G - Desire (Asphyxia, Irreversible) \[Irrphyxia's Insane\]](/beatmaps/630919)
+  - [Makou - Fermion (MoonFragrance) \[Maximum\]](/beatmaps/72284)
+  - [Dj Verstarker - Jump Jump (2008) (SeymourLyon) \[Jump like CRAZY!!!\]](/beatmaps/28152)
 - FreeMod
-  - [Equilibrium - Wirtshaus Gaudi (Zetera) \[Inner Kneipe\]](/beatmapsets/549450/#taiko/1163499)
-  - [Nanahira - Electric Angel (tasuke912) \[Oni\]](/beatmapsets/359527/#taiko/790460)
-  - [Hatsune Miku - Francium (ll-oscar) \[ll-taiko\]](/beatmapsets/299739/#taiko/672370)
+  - [M2U - Nightmare (Lesjuh) \[Lesjuh's Insane\]](/beatmaps/26502)
+  - [Getty vs. DJ DiA - Fox4-Raize- (VINXIS) \[Kamal's Special Extra\]](/beatmaps/1081292)
+  - [DJ TOTTO feat. Sunao Yoshikawa - Arousing (Hollow Wings) \[HW's Extra\]](/beatmaps/368845)
 - Tiebreaker
-  - **[ZYTOKINE - Missing Opus feat. cold kiss - t+pazolite Remix (eiri-) \[Magnum Opus\]](/beatmapsets/780588/#taiko/1639628)**
+  - **[Minazuki Airi with Atsushi - Daisuki, Evolution (Syph) \[Extreme\]](/beatmaps/1289926)**
+  - **[IOSYS - Cirno's Perfect Math Class (DNR) \[BAKA\~\]](/beatmaps/51752)**
+  - **[LeaF - Evanescent (Charles445) \[Aspire\]](/beatmaps/529285)**
 
 ### Round of 16
 
@@ -257,32 +268,27 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
-
 - NoMod
-  - [Himeringo - Idola no Circus (hikikochan-) \[Dance\]](/beatmapsets/728008/#taiko/1537074) 
-  - [sasakure.UK - Epitorica no Matsuri (yassu-) \[yassu-'s Oni\]](/beatmapsets/511420/#taiko/1110609) 
-  - [Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too Much! (Nishizumi) \[Nishizumi's Oni\]](/beatmapsets/554873/#taiko/1179365)
-  - [Nyanners - Gucci Gang (Nifty) \[Ugucchi Gang\]](/beatmapsets/710007/#taiko/1500870)
-  - [Suzuki Konomi n' Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui (Ayyri) \[Ayyri's Oni\]](/beatmapsets/695733/#taiko/1486700)
+  - [Qrispy Joybox - licca (Frey) \[Special\]](/beatmaps/560453)
+  - [Yooh - snow storm -euphoria- (-Chata-) \[INFINITE\]](/beatmaps/574187) 
+  - [Shiena Nishizawa - The Asterisk War (Meg) \[Meg's Extra\]](/beatmaps/947556)
+  - [Nekomata Master+ - Funny shuffle (fanzhen0019) \[RiP iidx\]](/beatmaps/573861)
 - Hidden
-  - [MELL - Red Fraction (JUDYDANNY) \[Feeling Oni (2013)\]](/beatmapsets/536550/#taiko/1137021) 
-  - [uno feat.Chiyoko(IOSYS) - Twin Rocket (Feerum) \[Oni\]](/beatmapsets/401961/#taiko/874272)
-  - [M2U & NICODE feat. Guriri & Lucy - Myosotis (Midnaait) \[Oni\]](/beatmapsets/322404/#taiko/716826)
+  - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](/beatmaps/1382059) 
+  - [Culprate - Diablo (VIP) (Yoges) \[Expert\]](/beatmaps/1280280)
 - HardRock
-  - [Vau Boy - Video Game Girl (ft. viewtifulday) (Gero) \[Oni\]](/beatmapsets/331778/#taiko/734845) 
-  - [Yuuzuki Tsubaki - midnight cookie (tasuke912) \[tasuke's Oni\]](/beatmapsets/326177/#taiko/751211)
-  - [Juice WRLD - Paranoid (Backfire) \[Oni\]](/beatmapsets/786057/#taiko/1650158)
+  - [Rise Against - Bricks (pkhg) \[pkhg's Insane\]](/beatmaps/904914)
+  - [Qrispy Joybox feat.Chata - Yuuki no Pendant (MrSergio) \[Insane\]](/beatmaps/1386196)
 - DoubleTime
-  - [RAN - Dekat di Hati (REDSHiFT Remix) (Surono) \[Sur's Oni\]](/beatmapsets/350207/#taiko/794747)
-  - [Rin - Kurikaeshi Hitotsubu (qoot8123) \[qoot8123's Oni\]](/beatmapsets/422377/#taiko/961290)
-  - [Nekomata Master feat. Mimi Nyami - TWINKLING (bank78952) \[Oni\]](/beatmapsets/483914/#taiko/1032387)
+  - [DJ Genericname - Dear You (Amamiya Yuko) \[Dear Yuko\]](/beatmaps/214264)
+  - [TOMOSUKE - Macuilxochitl (Charles445) \[Another\]](/beatmaps/136664)
 - FreeMod
-  - [Ushirokara Haiyoritai G - Taiyou Iwaku Moeyo Chaos (An-bootleg) (Nifty) \[Oni\]](/beatmapsets/779307/#taiko/1637563)
-  - [MaxNRG - Hide Away My Heart (Midnaait) \[Mid's Oni\]](/beatmapsets/693120/#taiko/1470229)
-  - [YUC'e - intro-duck-tion!! (komasy) \[o-ni!!\]](/beatmapsets/700150/#taiko/1482424)
+  - [Akiyama Uni - Touhou Hisouten (LunaSaika) \[Saika's Lunatic\]](/beatmaps/978858)
+  - [Hanataba - Night of Knights (DJPop) \[DJPop's Extra Stage\]](/beatmaps/26726)
 - Tiebreaker
-  - **[sakuraburst - skyshifter vip (yea) \[Oni\]](/beatmapsets/747322/#taiko/1574742)**
+  - **[Ryu\* - We're so Happy (Kyshiro's Extra) \[Kyshiro\]](/beatmaps/1098488)**
+  - **[TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](/beatmaps/56830)**
+  - **[Camellia - overcomplexification (byfar) \[byfar's Extra\]](/beatmaps/934812)**
 
 ------------------------------------------------------------------------
 
@@ -491,10 +497,12 @@ This competition has come to an end and resulted in the following podium:
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_EE]: /wiki/shared/flag/EE.gif
@@ -503,11 +511,15 @@ This competition has come to an end and resulted in the following podium:
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_GR]: /wiki/shared/flag/GR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IE]: /wiki/shared/flag/IE.gif
 [flag_IL]: /wiki/shared/flag/IL.gif
+[flag_IS]: /wiki/shared/flag/IS.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
+[flag_KZ]: /wiki/shared/flag/KZ.gif
 [flag_LT]: /wiki/shared/flag/LT.gif
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_MA]: /wiki/shared/flag/MA.gif
@@ -516,13 +528,20 @@ This competition has come to an end and resulted in the following podium:
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PS]: /wiki/shared/flag/PS.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_RS]: /wiki/shared/flag/RS.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SA]: /wiki/shared/flag/SA.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_SK]: /wiki/shared/flag/SK.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
