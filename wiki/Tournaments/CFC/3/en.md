@@ -8,7 +8,7 @@ tags:
 
 ![CFC 3 Logo](img/logo.png)
 
-The **Catch French Cup 3** (***CFC 3***) is a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the Catch French Cup.
+The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It was the 3rd installment of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -19,9 +19,9 @@ The **Catch French Cup 3** (***CFC 3***) is a one-on-one French osu!catch tourna
 | Group Stage | 2018-09-08/2018-09-16 |
 | Round of 16 | 2018-09-22/2018-09-23 |
 | Quarterfinals | 2018-09-29/2018-09-30 |
-| Semifinals | 2018-10-08/2018-10-09 |
-| Finals | 2018-10-15/2018-10-16 |
-| Grand Finals | 2018-10-22 |
+| Semifinals | 2018-10-06/2018-10-07 |
+| Finals | 2018-10-13 |
+| Grand Finals | 2018-10-20 |
 
 ## Prizes
 
@@ -36,7 +36,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The Catch French Cup 3 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch French Cup 3 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -59,19 +59,6 @@ The Catch French Cup 3 is run by various community members by distributing the m
 
 -----------------------
 
-## Match Schedule: Grand Finals
-
-### Saturday, 20 October 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **19:00** |  |
-| #2 | Noulayfe | ![][flag_FR] | ![][flag_TN] | -Ken | **Takes place after #1 ends** | ¹ |
-
-¹ Encounter dependent on if winner of Match #1 is Noulayfe
-
------------------------
-
 ## Participants
 
 | Seed | Members |
@@ -89,6 +76,20 @@ The Catch French Cup 3 is run by various community members by distributing the m
 | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_FR] [Mnemosyne](/users/9255433) |
 | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_FR] [Aequo3](/users/4495141) |
 | ![][flag_FR] [Chernobog](/users/3317042) | ![][flag_FR] [Nyton](/users/9475990) | ![][flag_CA] [Sinaeb](/users/1576095) | ![][flag_FR] [Fanther](/users/7415863) | ![][flag_FR] [deesse du mal](/users/9177774) | ![][flag_FR] [Iyorin](/users/1859986) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) | ![][flag_FR] [Astreachan](/users/2953898) |
+
+-----------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Boros](/users/5490623) |
+
+-----------------------
 
 ## Mappools
 
@@ -119,7 +120,7 @@ The Catch French Cup 3 is run by various community members by distributing the m
   - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298/#fruits/55474)
   - [u's - Natsuiro Egao de 1, 2, Jump! (blissfulyoshi) \[Jump!\]](/beatmapsets/57762/#fruits/240107)
 - Tiebreaker
-  - **TBA**
+  - **[Camellia feat. DJ SHARPNEL - werewolf howls and Over The Fullereneshift 1.3x (Emiru) \[Metamorphing into a EVA Bloodthirsty Lycanthrope\]](/beatmapsets/865829/#fruits/1810292)**
 
 ### Finals
 
@@ -251,6 +252,12 @@ The Catch French Cup 3 is run by various community members by distributing the m
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-10-20 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](/community/matches/46842396) |
 
 ### Finals
 

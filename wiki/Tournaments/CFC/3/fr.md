@@ -19,9 +19,9 @@ La **Catch French Cup 3** (***CFC 3***) est un tournoi osu!catch français en 1v
 | Phase de poules | 2018-09-08/2018-09-16 |
 | 16èmes de finale | 2018-09-22/2018-09-23 |
 | Quarts-de-finale | 2018-09-29/2018-09-30 |
-| Demi-finales | 2018-10-08/2018-10-09 |
-| Finales | 2018-10-15/2018-10-16 |
-| Grandes finales | 2018-10-22 |
+| Demi-finales | 2018-10-06/2018-10-07 |
+| Finales | 2018-10-13 |
+| Grandes finales | 2018-10-20 |
 
 ## Récompenses
 
@@ -59,19 +59,6 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 
 -----------------------
 
-## Planning des matches: Grandes finales
-
-### Samedi, 20 Octobre 2018
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **19:00** |  |
-| #2 | Noulayfe | ![][flag_FR] | ![][flag_TN] | -Ken | **Directement après le premier mat** |  |
-
-¹ Rencontre dépendante de si le gagnant du match #1 est Noulayfe
-
------------------------
-
 ## Participants
 
 | Équipe | Membres |
@@ -89,6 +76,20 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_FR] [Mnemosyne](/users/9255433) |
 | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_FR] [Aequo3](/users/4495141) |
 | ![][flag_FR] [Chernobog](/users/3317042) | ![][flag_FR] [Nyton](/users/9475990) | ![][flag_CA] [Sinaeb](/users/1576095) | ![][flag_FR] [Fanther](/users/7415863) | ![][flag_FR] [deesse du mal](/users/9177774) | ![][flag_FR] [Iyorin](/users/1859986) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) | ![][flag_FR] [Astreachan](/users/2953898) |
+
+-----------------------
+
+## Podium
+
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Boros](/users/5490623) |
+
+-----------------------
 
 ## Liste des maps
 
@@ -119,7 +120,7 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
   - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298/#fruits/55474)
   - [u's - Natsuiro Egao de 1, 2, Jump! (blissfulyoshi) \[Jump!\]](/beatmapsets/57762/#fruits/240107)
 - Tiebreaker
-  - **TBA**
+  - **[Camellia feat. DJ SHARPNEL - werewolf howls and Over The Fullereneshift 1.3x (Emiru) \[Metamorphing into a EVA Bloodthirsty Lycanthrope\]](/beatmapsets/865829/#fruits/1810292)**
 
 ### Finales
 
@@ -251,6 +252,12 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 ------------------------------------------------------------------------
 
 ## Résultats des matches
+
+### Grandes finales
+
+| Samedi, 2018-10-20 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](/community/matches/46842396) |
 
 ### Finales
 
