@@ -42,7 +42,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -90,6 +90,10 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | ![][flag_GB] | **United Kingdom** | **[Amascite](https://osu.ppy.sh/users/3359035)**, [PikachuNick](https://osu.ppy.sh/users/4168230), [itsjakey](https://osu.ppy.sh/users/3617889), [xSnaggles](https://osu.ppy.sh/users/3799946), [Civilization](https://osu.ppy.sh/users/6814203), [Domblade](https://osu.ppy.sh/users/6701945) |
 | ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/users/7616811)**, [stupud man](https://osu.ppy.sh/users/2141612), [Neuro-](https://osu.ppy.sh/users/7687954), [-Electro-](https://osu.ppy.sh/users/3251373), [EtienneXC](https://osu.ppy.sh/users/5610085), [Chrubble](https://osu.ppy.sh/users/2594280) |
 | ![][flag_VE] | **Venezuela** | **[Nakatoru](https://osu.ppy.sh/users/2243452)**, [Aezlack](https://osu.ppy.sh/users/8065567), [Edvo](https://osu.ppy.sh/users/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_Gearfrik\_\]](https://osu.ppy.sh/users/8198818), [\_Yisus\_](https://osu.ppy.sh/users/1489811) |
+
+------------------------------------------------------------------------
+
+![Winner Podium](img/podium.png)
 
 ------------------------------------------------------------------------
 
@@ -203,27 +207,17 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-### Saturday, 06. October 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **1:00 UTC** | 21:00 (Fri) UTC-04 | 22:00 (Fri) UTC-03 | ¹ |
-
-### Sunday, 07. October 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **1:00 UTC** | 10:00 UTC+09 | 22:00 (Sat) UTC-03 | ² |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **1:00 UTC** | 10:00 UTC+09 | 21:00 (Sat) UTC-04 | ² |
-
-¹ Losers bracket grand final
- 
-² Winners bracket grand final
-
-------------------------------------------------------------------------
-
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2018-10-06 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 7 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46485848) |
+
+| Sunday, 2018-10-07 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/46519536) |
 
 ### Finals
 

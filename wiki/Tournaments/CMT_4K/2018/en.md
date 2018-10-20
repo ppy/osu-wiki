@@ -52,29 +52,69 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup), [kj415j45](https://live.bilibili.com/237250) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
+- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
 ## Match Schedule
 
 The following time are based on UTC+08 timezone.
 
-### Qualification Stage
+### Group Stage
 
-| 10-06 |  |  |  |  | 10-07 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | 15:00 | 16:00 | 20:00 | 21:00 | 16:00 |
-| ByeForNow | Postanken | xz1z1z-xiyue | Pureforever | Xiaofeng\_1999 | dubstepLAN |
-| zero2snow | \[Crz\]Hina | HDRoop\_7 | Remilia\_HY | JunFish | w a d u |
-| FDXiaoQian | PiaoD | \[Crz\]MY | Sakaki | idqoos123 | murorachi |
-| Stink God | IA daisuki | alisi | YoSa\_o | PHILIPPE YMT | Toki 0w0 |
-| lkjh123789m | \[Crz\]Murasame | Asuka-Minato | \[MY\]xRay | Orangejuice | MatsuzakaSatou- |
-| \[Crz\]sunnyxxy | C Eru | GODsBEATs | shynzlx | tangjinxi |  |
-| yin xiaosong | CaOH2 | AradORiOn\_MMM | cheewee10 | 704661982 |  |
-|  |  | hero\_jeff | \[my\]zyuan | kuiiiiteeee |  |
+| Saturday | 20 October 2018 |  |  |
+| :-: | :-: | :-: | :-: |
+| 11:00 | zero2snow | vs | alisi |
+| 15:00 | ByeForNow | vs | CaOH2 |
+| 20:00 | Sakaki | vs | AradORiOn\_MMM |
+| 21:00 | HDRoop\_7 | vs | Stink God |
+| Sunday | 21 October 2018 |  |  |
+| 16:00 | \[Crz\]Minato | vs | w a d u |
+| 17:00 | cheewee10 | vs | yin xiaosong |
+| 20:00 | \[Crz\]Murasame | vs | Orangejuice |
+| 21:00 | C Eru | vs | 704661982 |
 
 ## Mappools
+
+### Round of 16
+
+**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
+
+- FreeMod
+  - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
+  - [ZUN Arranged by er - Gogo No Koishi-chan \[Tea Time\]](https://osu.ppy.sh/beatmapsets/632689#mania/1343000)
+  - [Darren Styles - Heartbeatz \[Leo137\]](https://osu.ppy.sh/beatmapsets/205220#mania/484499)
+  - [goreshit - o'er the flood \[torrent\]](https://osu.ppy.sh/beatmapsets/497750#mania/1777157)
+  - [hyi - you can recover \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
+  - [succducc - i really like u \[you and i\]](https://osu.ppy.sh/beatmapsets/844228#mania/1766063)
+  - [Croove - Minus 3 \[4B SHD\]](https://osu.ppy.sh/beatmapsets/811723#mania/1702660)
+  - [Stellabee - Ubiquity \[Existence\]](https://osu.ppy.sh/beatmapsets/758231#mania/1595001)
+  - [Jan Amit - In Torture (feat. Eclise) \[Sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)
+  - [Paul Bazooka - Kitty From Hell \[Kitties\]](https://osu.ppy.sh/beatmapsets/714779#mania/1510422)
+  - [Delta Sleep - Interlude \[Delirus\]](https://osu.ppy.sh/beatmapsets/687369#mania/1454484)
+  - [Utata-P feat. Yuzuki Yukari - Shiawase ni Nareru Kakushi Command ga Arurashii \[Cheat Code\]](https://osu.ppy.sh/beatmapsets/656766#mania/1391341)
+- Tiebreaker
+  - **[Dschinghis Khan - Moskau(Camellia's Handzup Bootleg)\[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmapsets/747926#mania/1575832)**
+
+### Group Stage
+
+**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+
+- FreeMod
+  - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
+  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
+  - [Traktion - Mission ASCII \[Start Mission\]](https://osu.ppy.sh/beatmapsets/634008#mania/1345387)
+  - [Waterflame - Glorious morning \[Myka's Insane\]](https://osu.ppy.sh/beatmapsets/742228#mania/1576062)
+  - [WinDEU - Magus Night Fever \[11\]](https://osu.ppy.sh/beatmapsets/416481#mania/902166)
+  - [r300k - Energy Flower 3007 \[6236\]](https://osu.ppy.sh/beatmapsets/454071#mania/992415)
+  - [The Ghost of 3.13 - Daydream \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
+  - [ZUN - Tsukidokei \~ Luna Dial \[Lunatic\]](https://osu.ppy.sh/beatmapsets/678723#mania/1568546)
+  - [Porter Robinson - Flicker \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
+- Tiebreaker
+  - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
+
 
 ### Qualification Stage
 
@@ -82,6 +122,33 @@ The following time are based on UTC+08 timezone.
 - [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
 - [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
+
+## Match Results
+
+### Group Stage
+
+| Group | Players |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| A | CaOH2 | Sakaki | hero\_jeff | \[Crz\]MY |
+|  | 7 | 9 | -10 | -6 |
+| B | \[MY\]xRay | HDRoop\_7 | alisi | murorachi |
+|  | -12 | 12 | 4 | -4 |
+| C | \[Crz\]Murasame | 704661982 | Pureforever | YoSa\_o |
+|  | 12 | 2 | -2 | -12 |
+| D | cheewee10 | w a d u | GODsBEATs | IA daisuki |
+|  | 12 | 2 | -4 | -10 |
+| E | \[Crz\]Minato | PHILIPPE YMT | yin xiaosong | Toki 0w0 |
+|  | 12 | -3 | 2 | -11 |
+| F | Orangejuice | C Eru | Remilia\_HY | JunFish |
+|  | 4 | 11 | -3 | -12 |
+| G | zero2snow | Stink God | tangjinxi | FDXiaoQian |
+|  | 9 | 4 | -1 | -12 |
+| H | ByeForNow | AradORiOn\_MMM | PiaoD | idqoos123 |
+|  | 12 | 4 | -4 | -12 |
+
+### Qualification Stage
+
+Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 
 ## Ruleset
 
