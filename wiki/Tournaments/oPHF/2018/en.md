@@ -60,7 +60,7 @@ Winners of their respective game mode will get a Profile badge.
 
 ## Participants
 
-An initial list of cleared registrants are listed on [https://docs.google.com/spreadsheets/d/1W-XLpa_DzLZW0DMb1jy3uEo9VYHHB-jHieU-61owWQs/edit?usp=sharing](this spreadsheet).
+An initial list of cleared registrants are listed on [this spreadsheet](https://docs.google.com/spreadsheets/d/1W-XLpa_DzLZW0DMb1jy3uEo9VYHHB-jHieU-61owWQs/edit?usp=sharing).
 
 *Qualified participants will be added in this section.*
 
