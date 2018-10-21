@@ -251,7 +251,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 A notice can be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but must be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices are written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must also be italicised along with the notice. For example:
 
 ```md
-*Note: pippi is spelt with a lower case "p", like peppy.*
+*Note: pippi is spelt with a lowercase "p", like peppy.*
 
 *Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
 
@@ -660,7 +660,7 @@ Adding the full country names in the alt text is optional.
 
 Tables in the osu! wiki support headings along the first row. If you cannot create a table because something would not work without HTML (e.g. lists inside tables), you need to reconsider the layout you are trying to use.
 
-Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the tect of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
+Tables must never be beautified. They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
 The delimiter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
@@ -694,7 +694,7 @@ Usage of blockquotes is limited to quoting text from someone. It must not be use
 Use the thematic break (also known as the horizontal rule or line) sparingly. A few uses of the thematic break may include (but is not limited to):
 
 - separating images from text
-- separating muliple images that follow one another
+- separating multiple images that follow one another
 - shifting the topic within a section
 
 When using the thematic break, make sure there is an empty line above the markup. Otherwise, it will be parsed as a level 2 heading. Having an empty line below the markup is preferred but not required. Thematic breaks should only have three hyphens, as depicted below:
@@ -761,7 +761,7 @@ Avoid: peppy created osu!.
 Do:    osu! was created by peppy.
 ```
 
-Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (i.e. `osu!!`). You will need to restructure the sentence or the pargraph to ensure that this will never occur.
+Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (i.e. `osu!!`). You will need to restructure the sentence or the paragraph to ensure that this will never occur.
 
 ### Capitalisation
 
