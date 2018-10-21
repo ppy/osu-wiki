@@ -20,8 +20,8 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | Round of 16 | 2018-03-10/2018-03-11 |
 | Quarterfinals | 2018-03-17/2018-03-18 |
 | Semifinals | 2018-03-24/2018-03-25 |
-| Finals | 2018-03-31/2018-04-01 |
-| Grand Finals | 2018-04-07/2018-04-08 |
+| Finals | 2018-03-31/2018-04-08 |
+| Grand Finals | 2018-04-15 |
 
 ## Prizes
 
@@ -239,32 +239,51 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
+- NoMod
+  - [GRANRODEO - Can Do (Kise) \[Extra: Kise\]](/beatmaps/1053415) 
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) \[MASTER\]](/beatmaps/635679) 
+  - [Streetlight Manifesto - Punk Rock Girl (Milan-) \[Extra\]](/beatmaps/1274016)
+  - [Hommarju - Rock it (09kami) \[09's Extra\]](/beatmaps/1548347)
+- Hidden
+  - [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) \[Kyouko-sama\]](/beatmaps/67824) 
+  - [Expander - Move That Body (Various Mappers) \[HantakufanzeR\]](/beatmaps/700679)
+- HardRock
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (GoldenWolf) \[woof's Extra\]](/beatmaps/376703) 
+  - [Akiyama Uni - Kokorokirou Hayashi(Short Version) (dream117er) \[117's Lunatic\]](/beatmaps/1059901)
+- DoubleTime
+  - [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Kyshiro, Asphyxia) \[Kysphyxia's Insane\]](/beatmaps/539090)
+  - [fhana - RHAPSODY OF BLUE SKY (Dynamix) \[Dynamix's Insane\]](/beatmaps/1242820)
+- FreeMod
+  - [Mutsuhiko Izumi - Tengoku to Jigoku (ignorethis) \[Extreme\]](/beatmaps/76063)
+  - [Warak - Cosmic Invaders (Starfy) \[Extreme\]](/beatmaps/1195103)
+- Tiebreaker
+  - **[Camellia as "Reverse of Riot" - Completeness Under Incompleteness (wkyik) \[wkyik's INFINITE\]](/beatmaps/1095566)**
+  - **[Hotaru Murasaki - Re:TrymenT (yf\_bmp) \[CS5 AR8\]](/beatmaps/1201488)**
+  - **[xi - Zauberkugel (pishifat) \[Extra\]](/beatmaps/1174596)**
+
+### Round of 32
 
 - NoMod
-  - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Oni\]](/beatmapsets/684455#taiko/1448552) 
-  - [Caravan Palace - Rock It For Me (Raphalge) \[???\]](/beatmapsets/677269#taiko/1432430) 
-  - [Zekk - Sugary Daydream (\[\_Chichinya\_\]) \[Chi's Oni\]](/beatmapsets/578489#taiko/1274016)
-  - [Morimori Atsushi - PUPA (Sayaka-) \[Ex's Taiko Oni\]](/beatmapsets/224164#taiko/524408)
-  - [Hiyano Aya, Katou Emiri, Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (D-D-Duke) \[Duke's Oni\]](/beatmapsets/739573#taiko/1560464)
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](/beatmaps/796606) 
+  - [Toromaru - Enigma (toybot) \[toybot's Gravity\]](/beatmaps/1176958) 
+  - [Nekomata Master - Nekozamurai no Gyakushu (kwk) \[kwk's Extra\]](/beatmaps/1434351)
+  - [Eagle - Hypersonik (EvilElvis) \[NeilPerry\]](/beatmaps/1104818)
 - Hidden
-  - [BlackY - AlphaOmega (L y s) \[Oni\]](/beatmapsets/354237#taiko/781043) 
-  - [MAK & SAK feat. XANA - Indecent (Nightcore Mix) (Gero) \[Gero's Inner Oni\]](/beatmapsets/620305#taiko/1310411)
-  - [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](/beatmapsets/357767#taiko/786903)
+  - [ARForest - altros (Mir) \[Mir's Extra\]](/beatmaps/1323428) 
+  - [sakuzyo - Imprinting (EvilElvis) \[Extreme\]](/beatmaps/812665)
 - HardRock
-  - [yak\_won - Sewing Machine (Chromoxx) \[Chromoxx' Inner Oni\]](/beatmapsets/489381#taiko/1043084) 
-  - [Zekk - Fluctuation (kon tja) \[Oni\]](/beatmapsets/705801#taiko/1492769)
-  - [sampling masters MEGA - Bamboo on Bamboo (Cyclohexane) \[TK\]](/beatmapsets/43644#taiko/138927)
+  - [Nooki & Tatsh - Red Zone (HenkieBP) \[Extra\]](/beatmaps/28422) 
+  - [Qrispy Joybox feat.mao - umeyukiyo (LKs) \[Insane\]](/beatmaps/265643)
 - DoubleTime
-  - [Duca - Shiawase Teigi (Short Ver.) (ReySHeL) \[ReySHeL's Oni\]](/beatmapsets/80125#taiko/224814)
-  - [Kitsune^2 - Rainbow Tylenol (DakeDekaane) \[Dekaane's Oni\]](/beatmapsets/396643#taiko/903561)
-  - [Hatsune Miku - Ai Kotoba (Kanpakyin) \[Kanpakyin's Taiko\]](/beatmapsets/20993#taiko/74595)
+  - [Feint - 161914 (fergas) \[fergas' Insane\]](/beatmaps/689420)
+  - [Kakumi Nishigomi - Kurofune Raikou (NatsumeRin) \[Oni\]](/beatmaps/93468)
 - FreeMod
-  - [ribbon room - mint tears (OnosakiHito) \[Inner Oni\]](/beatmapsets/53430#taiko/266670)
-  - [Hidra-Xjeil - MilK(Holy Grail Remix) (Ayyri) \[Oni\]](/beatmapsets/757408#taiko/1593358)
-  - [Owata-P - Kataomoi Samba (uone) \[Oni\]](/beatmapsets/542542#taiko/1150080)
+  - [Nakano Azusa(CV:Taketatsu Ayana) - Joyful Todays (Koiyuki) \[Koiyuki's Extra\]](/beatmaps/1217704)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](/beatmaps/100627)
 - Tiebreaker
-  - **[MitiS - Living Color (Dezpot Remix) (Nifty) \[Deuteranopia\]](/beatmapsets/731697#taiko/1544021)**
+  - **[P\*Light - Yellow Splash!!! (Chaoslitz) \[DSE Summertime 2016\]](/beatmaps/803739)**
+  - **[beatMARIO(COOL&CREATE) - Aki nation (Crimmi) \[NIGHTMARE\]](/beatmaps/1051179)**
+  - **[Expander - aura (Midge) \[Beyond Extreme\]](/beatmaps/637391)**
 
 ### Group Stage
 
@@ -296,202 +315,286 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2018-08-26 |  |  |  |  | 
+| Sunday, 2018-04-15 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Foxerus** ![][flag_BR] | **7** | 2 | ![][flag_MY] cdhsausageboy | [#1](/community/matches/45434676) |
+| **Rubber Conquest** | **7** | 0 | Floating up | [#1](/community/matches/41674456) |
 
 ### Finals
 
-| Saturday, 2018-08-18 |  |  |  |  | 
+| Saturday, 2018-03-31 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_BR] Kyoumo | [#1](/community/matches/45176380) |
+| OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](/community/matches/41279760) |
+| **shen mapo** | **6** | 4 | Azer | [#1](/community/matches/41281118) |
 
-| Sunday, 2018-08-19 |  |  |  |  | 
+| Sunday, 2018-04-01 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Foxerus** ![][flag_BR] | **7** | 0 | ![][flag_MX] Ammy | [#1](/community/matches/45232731) |
+| **Rubber Conquest** | **7** | 0 | Floating up | [#1](/community/matches/41302761) |
+| **Shigure Lovers** | **6** | 0 | GOMEN JEFFREY | [#1](/community/matches/41312707) |
+| **black dogleg** | **6** | 1 | shen mapo | [#1](/community/matches/41317121) |
 
-| Monday, 2018-08-20 |  |  |  |  | 
+| Saturday, 2018-04-07 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Ammy ![][flag_MX] | 1 | **7** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/45244189) |
+| **black dogleg** | **7** | 5 | Shigure Lovers | [#1](/community/matches/41475308) |
+| **Floating up** | **7** | 5 | black dogleg | [#1](/community/matches/41492413) |
 
 ### Semifinals
 
-| Saturday, 2018-08-11 |  |  |  |  | 
+| Saturday, 2018-03-24 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Beat43210 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](/community/matches/44956206) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | -win by default- |
-| Yoshi-GH ![][flag_FR] | 1 | **6** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44985615) |
+| **Gekidan PIKORI** | **6** | 3 | Sexy Snowmen | [#1](/community/matches/41082092) |
+| no gugu | 2 | **6** | **Sayuri best girl** | [#1](/community/matches/41085298) |
+| **Rubber Conquest** | **6** | 0 | Shigure Lovers | [#1](/community/matches/41086653) |
+| **GOMEN JEFFREY** | **6** | 0 | LesProDeCoc | [#1](/community/matches/41086366) |
+| **shen mapo** | **6** | 2 | Gekidan PIKORI | [#1](/community/matches/41087160) |
+| hotel for lolis | 2 | **6** | **Gucci Gang** | [#1](/community/matches/41102586), [#2](/community/matches/41103320) |
 
-| Sunday, 2018-08-12 |  |  |  |  | 
+| Sunday, 2018-03-25 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
-| Yoshi-GH ![][flag_FR] | 4 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/45008950) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
+| black dogleg | 2 | **6** | **Floating up** | [#1](/community/matches/41108342) |
+| **Azer** | **6** | 0 | Sayuri best girl | [#1](/community/matches/41117934) |
+| Stoof & Friends | 1 | **6** | **GOMEN JEFFREY** | [#1](/community/matches/41119369) |
+| **OwO** | **6** | 5 | Gucci Gang | [#1](/community/matches/41125958) |
+| OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](/community/matches/41279760) |
+| **shen mapo** | **6** | 4 | Azer | [#1](/community/matches/41281118) |
 
 ### Quarterfinals
 
-| Saturday, 2018-08-04 |  |  |  |  | 
+| Saturday, 2018-03-17 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44750865) |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | -win by default- |
-| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44767415) |
-| **Ammy** ![][flag_MX] | **5** | 4 | ![][flag_GB] Braixen- | [#1](/community/matches/44778173) |
+| **no gugu** | **6** | 0 | Yomi yori kikoyu | -win by default- |
+| **Shigure Lovers** | **6** | 3 | Azer | [#1](/community/matches/40908357) |
+| **black dogleg** | **6** | 1 | OwO | [#1](/community/matches/40914420) |
+| lotus top 1 br | 1 | **6** | **Sexy Snowmen** | [#1](/community/matches/40914974) |
+| **LesProDeCoc** | **6** | 2 | BüroklammerCarry | [#1](/community/matches/40916651) |
 
-| Sunday, 2018-08-05 |  |  |  |  | 
+| Sunday, 2018-03-18 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | -win by default- |
-| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
-| **Braixen-** ![][flag_GB] | **5** | 2 | ![][flag_PL] Wolfgang | [#1](/community/matches/44807249) |
+| **Rubber Conquest** | **6** | 0 | shen mapo | [#1](/community/matches/40926538) |
+| ANGERY JEFFREY | 1 | **6** | **hotel for lolis** | [#1](/community/matches/40927694) |
+| **Floating up** | **6** | 1 | Stoof & Friends | [#1](/community/matches/40928722) |
+| **Gekidan PIKORI** | **6** | 0 | Just Monika | -win by default- |
+| **GOMEN JEFFREY** | **6** | 0 | Beginner's Luck | [#1](/community/matches/40932261) |
+| **Sayuri best girl** | **6** | 1 | 0hm8frswhxkysexo | [#1](/community/matches/40949126), [#2](/community/matches/40950095) |
+| nvnvnvnvn | 2 | **6** | **Gucci Gang** | [#1](/community/matches/40951339) |
 
 ### Round of 16
 
-| Friday, 2018-07-27 |  |  |  |  | 
+| Saturday, 2018-03-10 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Kith190** ![][flag_IT] | **5** | 1 | ![][flag_EC] Gamelan4 | [#1](/community/matches/44547136) |
+| **Floating up** | **5** | 0 | lotus top 1 br | [#1](/community/matches/40718635) |
+| GOMEN JEFFREY | 4 | **5** | **shen mapo** | [#1](/community/matches/40718778) |
+| ANGERY JEFFREY | 0 | **5** | **Azer** | [#1](/community/matches//40720572) |
+| **OwO** | **5** | 2 | no gugu | [#1](/community/matches/40720267) |
+| cringepeek | 0 | **5** | **BüroklammerCarry** | [#1](/community/matches/40722568) |
+| Gekidan PIKORI | 3 | **5** | **Stoof & Friends** | [#1](/community/matches/40724876) |
 
-| Saturday, 2018-07-28 |  |  |  |  | 
+| Sunday, 2018-03-11 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_MX] **Ammy** | [#1](/community/matches/44561379) |
-| Beat43210 ![][flag_AU] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44561379) |
-| **Yoshi-GH** ![][flag_FR] | **5** | 3 | ![][flag_PL] Wolfgang | [#1](/community/matches/44565192) |
-| Kyoumo ![][flag_BR] | 2 | **5** | ![][flag_GB] **Braixen-** | [#1](/community/matches/44567121) |
-| Ali161102 ![][flag_GB] | 2 | **5** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44574494) |
+| **Shigure Lovers** | **5** | 0 | nvnvnvnvn | [#1](/community/matches/40726425) |
+| **black dogleg** | **5** | 0 | Sayuri best girl | [#1](/community/matches/40732922) |
+| **Yomi yori kikoyu** | **5** | 0 | i got nothing | [#1](/community/matches/40735562) |
+| NoName | 2 | **5** | **Beginner's Luck** | [#1](/community/matches/40753139) |
+| b | 0 | **5** | **Just Monika** | -win by default- |
 
-| Sunday, 2018-07-29 |  |  |  |  |
+### Round of 32
+
+| Saturday, 2018-03-03 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| cdhsausageboy ![][flag_MY] | 0 | **5** | ![][flag_JP] **Briesmas** | -win by default- |
-| cactusthegreat ![][flag_AU] | 1 | **5** | ![][flag_BR] **Mikudayo** | [#1](/community/matches/44583107) |
-| Tsubasa2 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](/community/matches/44584255) |
-| cactusthegreat ![][flag_AU] | 2 | **5** | ![][flag_AU] **Beat43210** | [#1](/community/matches/44585075) |
-| **cdhsausageboy** ![][flag_MY] | **5** | 0 | ![][flag_GB] Ali161102 | -win by default- |
-| Gamelan4 ![][flag_EC] | 0 | **5** | ![][flag_PL] **Wolfgang** | [#1](/community/matches/44606388) |
+| **Shigure Lovers** | **5** | 0 | Yomi yori kikoyu | [#1](/community/matches/40532109) |
+| **Gekidan PIKORI** | **5** | 1 | cringepeek | [#1](/community/matches/40534186) |
+| **lotus top 1 br** | **5** | 4 | Beginner's Luck | [#1](/community/matches/40536364) |
+| Gucci Gang | 1 | **5** | **OwO** | [#1](/community/matches/40540374) |
+| **Rubber Conquest** | **5** | 0 | b | [#1](/community/matches/40547380) |
+| **nvnvnvnvn** | **5** | 0 | i got nothing | [#1](/community/matches/40548278) |
+
+| Sunday, 2018-03-04 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **black dogleg** | **5** | 0 | hotel for lolis | [#1](/community/matches/40556183) |
+| hotel for dogs | 2 | **5** | **no gugu** | [#1](/community/matches/40557149) |
+| **GOMEN JEFFREY** | **5** | 1 | Anime Tiddles | [#1](/community/matches/40563487) |
+| **Floating up** | **5** | 0 | NoName | [#1](/community/matches/40563720) |
+| **LesProDeCoc** | **5** | 0 | Just Monika | [#1](/community/matches/40564721) |
+| **ANGERY JEFFREY** | **5** | 4 | 0hm8frswhxkysexo | [#1](/community/matches/40567860) |
+| Sexy Snowmen | 1 | **5** | **shen mapo** | [#1](/community/matches/40569329) |
+| **Stoof & Friends** | **5** | 0 | BüroklammerCarry | [#1](/community/matches/40572502) |
+| **Sayuri best girl** | **5** | 2 | Tilted Venrue | [#1](/community/matches/40575783) |
+| **Azer** | **5** | 0 | Potato farmers | [#1](/community/matches/40575774) |
 
 ### Group Stage
 
-| Group | Friday, 2018-07-13 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| H | **Braixen-** ![][flag_JP] | **4** | 1 | ![][flag_HK] Akali393394 | [#1](/community/matches/44127791) |
-| A | **cactusthegreat** ![][flag_AU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/44128713) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | -win by default- |
+| Saturday, 2018-02-17 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Doki-Doki Osu Club** | **4** | 0 | [#1](/community/matches/40145386) |
+| **azur lane** | **4** | 0 | dab on haters | -win by default- |
+| **Floating up** | **4** | 0 | COCI | -win by default- |
+| **Floating up** | **4** | 0 | BüroklammerCarry | [#1](/community/matches/40147609) |
+| **BüroklammerCarry** | **4** | 0 | COCI | -win by default- |
+| **nvnvnvnvn** | **4** | 1 | Just Monika | [#1](/community/matches/40150604) |
+| **Azer** | **4** | 0 | The Fine Ladies | [#1](/community/matches/40154126) |
+| **RemkyBestTrap** | **4** | 2 | LesProDeCoc | [#1](/community/matches/40155007) |
+| **NoName** | **4** | 1 | 4head | [#1](/community/matches/40154197) |
+| **pwntaterz** | **4** | 1 | Big Black PP | [#1](/community/matches/40155852) |
+| **LesProDeCoc** | **4** | 1 | i got nothing | [#1](/community/matches/40155929) |
+| **nuplauti** | **4** | 0 | TapBom | [#1](/community/matches/40157952) |
+| **nvnvnvnvnvn** | **4** | 0 | Big Black PP | [#1](/community/matches/40160155) |
+| **hotel for lolis** | **4** | 0 | dab on haters | [#1](/community/matches/40160411) |
+| **hotel for dogs** | **4** | 0 | Potato farmers | [#1](/community/matches/40161860) |
+| **cringepeek** | **4** | 1 | TapBom | [#1](/community/matches/40162117) |
+| **RemkyBestTrap** | **4** | 1 | my pp just grew | [#1](/community/matches/40163059) |
+| **Gucci Gang** | **4** | 1 | hotel for lolis | [#1](/community/matches/40164153) |
 
-| Group | Saturday, 2018-07-14 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | -win by default- |
-| B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | -win by default- |
-| B | Gamelan4 ![][flag_EC] | 1 | **4** | ![][flag_BR] **Mikudayo** | [#1](/community/matches/44151173) |
-| C | **Beat43210** ![][flag_AU] | **4** | 0 | ![][flag_BR] Omega Ranger | [#1](/community/matches/44158417) |
-| C | Beat43210 ![][flag_AU] | 2 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](/community/matches/44159604) |
-| C | **Yoshi-GH** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Infected\_ | [#1](/community/matches/44162665) |
-| G | xtrem3x ![][flag_MX] | 2 | **4** | ![][flag_GB] **Ali161102** | [#1](/community/matches/44164295) |
-| D | CaptainEChan ![flag_US] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44167032) |
-| C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](/community/matches/44171557) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | -win by default- |
+| Sunday, 2018-02-18 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Cauldron Bois V2** | **4** | 1 | The Fine Ladies | [#1](/community/matches/40164247) |
+| **hotel for dogs** | **4** | 1 | Teamcito II | [#1](/community/matches/40166029) |
+| **lotus top 1 br** | **4** | 0 | sample text | [#1](/community/matches/40167813) |
+| **Mac 10 Rush A** | **4** | 0 | Re:Member | [#1](/community/matches/40170423) |
+| **black dogleg** | **4** | 0 | LemmeTeachDaWey | [#1](/community/matches/40173834) |
+| **Floating up** | **4** | 0 | :b:eezah | [#1](/community/matches/40173829) |
+| **:b:eezah** | **4** | 0 | COCI | -win by default- |
+| **Gekidan PIKORI** | **4** | 0 | Cocalombia | [#1](/community/matches/40178095) |
+| Mac 10 Rush A | 3 | **4** | **Beginner's Luck** | [#1](/community/matches/40177791) |
+| **Sexy Snowmen** | **4** | 3 | b | [#1](/community/matches/40180724) |
+| **Gekidan PIKORI** | **4** | 0 | Yomi yori kikoyu | [#1](/community/matches/40181722) |
+| **LesProDeCoc** | **4** | 1 | my pp just grew | [#1](/community/matches/40183403) |
+| **Just Monika** | **4** | 0 | Big Black PP | [#1](/community/matches/40184639) |
+| Teamcito II | 1 | **4** | **Potato farmers** | [#1](/community/matches/40184648) |
+| **lotus top 1 br** | **4** | 0 | Anime Tiddles | [#1](/community/matches/40186202) |
+| **b** | **4** | 0 | The Leftovers | [#1](/community/matches/40186162) |
+| **Just Monika** | **4** | 3 | pwntaterz | [#1](/community/matches/40185343) |
+| **Gucci Gang** | **4** | 0 | dab on haters | [#1](/community/matches/40187859) |
+| nuplauti | 1 | **4** | **cringepeek** | [#1](/community/matches/40187734) |
+| **0hm8frswhxkysexo** | **4** | 0 | Last Remote | [#1](/community/matches/40187828) |
+| **Tsutaerarenakata** | **4** | 1 | \[\[heck\]\] | [#1](/community/matches/40187918) |
+| **Tilted Venrue** | **4** | 1 | cucumber control | [#1](/community/matches/40189392) |
+| **i got nothing** | **4** | 1 | my pp just grew | [#1](/community/matches/40189807) |
+| **Sayuri best girl** | **4** | 0 | Last Remote | [#1](/community/matches/40190002) |
+| **Azer** | **4** | 0 | Cauldron Bois V2 | [#1](/community/matches/40191889) |
+| **Yomi yori kikoyu** | **4** | 0 | Cocalombia | [#1](/community/matches/40191242) |
+| **nvnvnvnvn** | **4** | 2 | pwntaterz | [#1](/community/matches/40196662) |
+| **Anime Tiddles** | **4** | 0 | sample text | [#1](/community/matches/40196896) |
+| **:thowonking:** | **4** | 0 | 4head | -win by default- |
 
-| Group | Sunday, 2018-07-15 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](/community/matches/44178123) |
-| E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/44181157) |
-| A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | -win by default- |
-| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flat_AU] **Beat43210** | [#1](/community/matches/44188603) |
-| G | **Ali161102** ![][flag_GB] | **4** | 1 | ![][flag_BR] Kyoumo | [#1](/community/matches/44187420) |
-| G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | -win by default- |
-| A | Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_AT] **animexamera** | [#1](/community/matches/44192666) |
-| C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **\_Infected\_** | [#1](/community/matches/44194111) |
-| G | ArmoredReaper ![][flag_CL] | 0 | **4** | ![][flag_GB] **Ali161102** | [#1](/community/matches/44194103) |
-| B | Konan ![][flag_US] | 0 | **4** | ![][flag_IT] **VenomPlus** | -win by default- |
-| D | **-Ryan** ![][flag_GB] | **4** | 2 | ![][flag_US] CaptainEChan | [#1](/community/matches/44198404) |
+| Saturday, 2018-02-24 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **ANGRY JEFFREY** | **4** | 0 | Prob a drug ring | [#1](/community/matches/40329694) |
+| **Gekidan PIKORI** | **4** | 0 | Accuracy^ | [#1](/community/matches/40336529) |
+| **shen mapo** | **4** | 0 | Tsutaerarenakata | [#1](/community/matches/40337484) |
+| **Azer** | **4** | 1 | no gugu | [#1](/community/matches/40338652) |
+| **Gucci Gang** | **5** | 4 | azur lane | [#1](/community/matches/40343210), [#2](/community/matches/40344338) |
+| **OwO** | **4** | 0 | LemmeTeachDaWey | [#1](/community/matches/40343914) |
+| **Yomi yori kikoyu** | **4** | 0 | Accuracy^ | [#1](/community/matches/40344022) |
+| **Potato farmers** | **4** | 0 | Lolicops | [#1](/community/matches/40343997) |
+| **GOMEN JEFFREY** | **4** | 1 | Beginner's Luck | [#1](/community/matches/40343801) |
+| **Shigure Lovers** | **4** | 0 | cringepeek | [#1](/community/matches/40345468) |
+| **Tilted Venrue** | **4** | 0 | Prob a drug ring | -win by default- |
+| **Club Penguin** | **4** | 0 | Last Remote | [#1](/community/matches/40347146) |
+| **shen mapo** | **4** | 0 | \[\[heck\]\] | [#1](/community/matches/40347226) |
+| **black dogleg** | **4** | 0 | OwO | [#1](/community/matches/40353101) |
+| **0hm8frswhxkysexo** | **4** | 2 | Club Penguin | [#1](/community/matches/40353031) |
+| **Cocalombia** | **4** | 0 | Accuracy^ | -win by default- |
+| **Rubber Conquest** | **4** | 0 | \[\[heck\]\] | [#1](/community/matches/40355130) |
 
-| Group | Monday, 2018-07-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| F | **Ammy** ![][flag_MX] | **4** | 3 | ![][flag_JP] Briesmas | [#1](/community/matches/44205539) |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_JP] Briesmas | -win by default- |
-| A | **Kith190** ![][flag_IT] | **4** | 3 | ![][flag_AU] cactusthegreat | [#1](/community/matches/44215001) |
-| A | Bedwyr Aorta ![][flag_MY] | 0 | **4** | ![][flag_IT] Kith190 | [#1](/community/matches/44217736) |
-| A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | -win by default- |
-
-| Group | Friday, 2018-07-20 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| G | **Kyoumo** ![][flag_BR] | **4** | 1 | ![][flag_CL] ArmoredReaper | [#1](/community/matches/44342730) |
-
-| Group | Saturday, 2018-07-21 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | -win by default- |
-| F | LordAverage ![][flag_AU] | 1 | **4** | ![][flag_MX] **Ammy** | [#1](/community/matches/44352950) |
-| E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/44355239) |
-| E | **Tsubasa2** ![][flag_AU] | **4** | 0 | ![][flag_US] Rukairi | [#1](/community/matches/44354055) |
-| H | **Akali393394** ![][flag_HK] | **4** | 2 | ![][flag_BR] AnonX32 | [#1](/community/matches/44362016), [#2](/community/matches/44362964) |
-| H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](/community/matches/44363387) |
-| E | Lazarento ![][flag_BR] | 0 | **4** | ![][flag_AU] **Tsubasa2** | -win by default- |
-| G | **ArmoredReaper** ![][flag_CL] | **4** | 0 | ![][flag_MX] **xtrem3x | -win by default- |
-| D | **-Ryan** ![][flag_GB] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44364942) |
-| D | **Wolfgang** ![][flag_PL] | **4** | 1 | ![][flag_GB] **-Ryan** | [#1](/community/matches/44366581) |
-| H | Foxerus ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](/community/matches/44368082) | 
-| D | **hi im costarino** ![][flag_PT] | **4** | 1 | ![][flag_PL] Wolfgang | [#1](/community/matches/44368086) |
-| E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_BR] **Lazarento** | [#1](/community/matches/44374741) |
-| H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44375561) |
-
-| Group | Sunday, 2018-07-22 |  |  |  |  | 
-| :-: | --: | :-: | :-: | :-- | :-: |
-| E | **cdhsausageboy** ![][flag_MY] | **4** | 2 | ![][flag_BR] Lazarento | [#1](/community/matches/44391216), [#2](/community/matches/44391842) |
-| F | LordAverage ![][flag_AU] | 0 | **4** | ![][flag_AU] **Blobby3000** | [#1](/community/matches/44385177) |
-| H | Akali393394 ![][flag_HK] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44393956) |
-| D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PL] **Wolfgang** | [#1](/community/matches/44369563) |
+| Sunday, 2018-02-25 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Teamcito II** | **4** | 0 | Lolicops | [#1](/community/matches/40356045) |
+| **Sexy Snowmen** | **4** | 0 | The Leftovers | [#1](/community/matches/40357523) |
+| **Stoof & Friends** | **4** | 2 | :thowonking: | [#1](/community/matches/40359112) |
+| **Beginner's Luck** | **4** | 0 | Re:Member | [#1](/community/matches/40363381) |
+| **no gugu** | **4** | 0 | The Fine Ladies | [#1](/community/matches/40365734) |
+| **Rubber Conquest** | **4** | 1 | shen mapo | [#1](/community/matches/40366788) |
+| **no gugu** | **4** | 3 | Cauldron Bois V2 | [#1](/community/matches/40366780) |
+| **hotel for lolis** | **4** | 1 | azur lane | [#1](/community/matches/40367872) |
+| **GOMEN JEFFREY** | **4** | 0 | Mac 10 A Rush | [#1](/community/matches/40372554) |
+| **Shigure Lovers** | **4** | 0 | nuplauti | [#1](/community/matches/40374901) |
+| **OwO** | **4** | 0 | Doki-Doki Osu Club | [#1](/community/matches/40375032) |
+| **b** | **4** | 0 | I can't Tyep! | [#1](/community/matches/40376610) |
+| **ANGERY JEFFREY** | **4** | 1 | Tilted Venrue | [#1](/community/matches/40375745) |
+| **Shigure Lovers** | **4** | 0 | TapBom | [#1](/community/matches/40378164) |
+| **GOMEN JEFFREY** | **4** | 0 | Re:Member | [#1](/community/matches/40378164) |
+| **Sexy Snowmen** | **4** | 0 | I can't Tyep! | [#1](/community/matches/40377833) |
+| **I can't Tyep!** | **4** | 1 | The Leftovers | [#1](/community/matches/40379506) |
+| **ANGERY JEFFREY** | **4** | 1 | cucumber control | [#1](/community/matches/40379330) |
+| **Rubber Conquest** | **4** | 0 | Tsutaerarenakata | [#1](/community/matches/40384545) |
+| **hotel for dogs** | **4** | 0 | Lolicops | [#1](/community/matches/40384533) |
+| cucumber control | 2 | **4** | **Prob a drug ring** | [#1](/community/matches/40384519) |
+| RemkyBestTrap | 0 | **4** | **i got nothing** | -win by default- |
+| **Sayuri best girl** | **4** | 0 | Club Penguin | [#1](/community/matches/40386227) |
+| **black dogleg** | **4** | 0 | Doki-Doki Osu Club | [#1](/community/matches/40386322) |
+| :b:eezah | 2 | **4** | **BüroklammerCarry** | [#1](/community/matches/40386191) |
+| **Stoof & Friends** | **4** | 0 | NoName | [#1](/community/matches/40388057) |
+| **NoName** | **4** | 2 | :thowonking: | [#1](/community/matches/40389846) |
+| **Stoof & Friends** | **4** | 0 | 4head | -win by default- |
 
 ------------------------------------------------------------------------
 
 ## Ruleset
 
-### Tournament Scheduling
+### Tournament Rules
 
-1. The tournament begins on the 14th of July, and its runtime will be until 26th of August.
-2. Rescheduling may be done as long as the player asking for it can provide proof that both players agreed to it to the tournaments management.
-3. If a player refuses to communicate with a reschedule, the staff may issue the reschedule without the consent of said player.
-4. Matches will be played on weekends, unless rescheduled otherwise.
-5. Reschedules can be made to weekdays, subject to referee availability.
+1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals. 
+2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format.
+3. Group stage will be round-robin, followed by a double elimination bracket.
+4. Maps will be no longer than 2 minutes drain time.
+5. The winner of `!roll` will ban and pick first.
+6. Teams get **one** ban in group stage, Round of 32, and Round of 16. The rest of final stage is to be determined.
+7. Tiebreakers will be a BO3 instead of a single match.
+   - `!roll`, higher roll picks first during a tiebreaker.
 
-### Tournament Bracket
+### Winning Conditions
 
-1. The tournament begins with a group stage, which will decide the matches for the double-elimination bracket.
-2. Group Stage will be played as BO7.
-3. Round of 16 will be played as BO9.
-4. Lower Bracket Round 1 will be played as BO9.
-5. Quarterfinals will be played as BO9.
-6. Lower Bracket Round 2-3 will be played as BO9.
-7. Semifinals will be played as BO11.
-8. Lower Bracket Round 4 will be played as BO11.
-9. Winner Bracket Finals will be played as BO13.
-10. Loser Bracket Finals will be played as BO13.
-11. Grand Finals will be played as BO13.
+1. Group stage will be BO7, the first team to reach 4 points will win the match.
+2. Round of 32 and Round of 16 will be BO9, the first team to reach 5 points will win the match.
+3. Quarterfinals and Semifinals will be BO11, the first team to reach 6 points will win the match.
+4. Finals and Grand Finals will be BO13, the first team to reach 7 points will win the match.
+   - There will be a bracket reset match.
 
-### Mappool And Map Rules
+### Tournament Registration
 
-1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_Modifiers), 3 [HardRock](/wiki/Game_Modifiers), 3 [DoubleTime](/wiki/Game_Modifiers), 3 FreeMod, and 1 Tiebreaker.
-2. Players will have 2 bans for each match.
-3. The Hidden, HardRock and DoubleTime brackets will all be played using the mods specified by the bracket title.
-4. In the FreeMod bracket players must choose a mod.
-5. In the FreeMod bracket players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
-6. In the Tiebreaker beatmap, players may choose between all mods available in the multiplayer lobby besides DoubleTime/Nightcore, HalfTime, NoFail and Easy.
+1. If a team member needs to be replaced after signing up, please contact a host **before** registration ends. No rosters can be modified after registration ends.
+2. Each member of a formed team needs to be in the Discord server to verify team's participation.
+3. If a player changes their name, they need to inform a tournament host or admin as soon as possible to avoid misunderstanding in a match.
+4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion. 
 
-### Match Rules And Instructions
+### Scheduling Instructions
 
-1. The referee of the match will create a lobby and invite the players of the matchup into a multiplayer lobby 10 minutes before the scheduled match time.
-2. Win condition will be set to **ScoreV2**, and the lobby type will be **Head to Head**.
-3. Once both players are in the lobby, the match begins. A player will be automatically given a loss if 10 minutes without said player showing up for the match. The player may apply for more time beforehand with the referee’s approval.
-4. If neither player shows up to the match in time, both players will be given a loss.
-5. The winner of a map is decided by score as per the mp-link of the match. Failed scores will be treated as lower than not-failed scores.
-6. For the beginning of the match, both players may at will select a warmup map before the actual match begins. Order of warmups will be decided by the highest roller. Warmups are not allowed during Group Stage.
-7. Warmup maps must be less than 5 minutes of length.
-8. The highest roller will have the first pick, and the lowest roller will have the first ban.
-9. Ban alternation will be used. Here is how it works: 
-   - Lowest roller -> Highest roller -> Lowest roller -> Highest roller. 
-10. Bans and picks will always be after the warmup, and we’ll always start with the bans.
-11. In the case of a tie, the Tiebreaker will be played.
+1. Scheduling will be based on team timezones to avoid as many no-shows as possible.
+2. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have the team captain submit proof of agreement to a host at least **24 hours** before the match starts.
+3. During the group stage, a 3v3 match could be arranged if the teammates can’t make it. The other team must be notified and agree to it too
+   - Reminder 4v4s **must be played** in final stages.
+4. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match (this wastes less time for us and your opponent).
 
-### Situational Match Rules
+### Match Instructions
 
-1. If a player were to disconnect in a non-warmup beatmap within the first 30 seconds, the beatmap will be replayed. However, this may only happen once in a match per player. Any repeated disconnects will count as a map forfeit.
-2. In the case of a tie, the beatmap will not be scored and may be picked again in the future, the picking order will remain the same. In the case of a Tiebreaker tie, the Tiebreaker will be replayed.
+1. Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect will result in penalties.
+2. At the time of the match, referees will invite the captain into the lobby. If for any reason the team captain cannot make it to a match, please have a team member inform a referee before the match starts.
+3. If a team is not present for the match 10 minutes after the scheduled time, that team will forfeit the match. If neither team makes it, `!roll` will determine who wins or loses
+   - Though we allow you to be late for 10 minutes, if there are no valid excuses or explanation to referees then penalties will take place for these following times:
+     - 3 minutes late - opponent’s warmup is skipped.
+     - 5 minutes late - first picks and bans go to team that is already present.
+     - 7 minutes late - one point goes to the team which is present.
+     - 10 minutes late - late team forfeits (subject to referee's leniency).
+4. At the start of the match, both captains will roll using the !roll command. The higher roll gets to both ban and pick first. Warmups can either be chosen by roll or another method decided in the lobby
+   - There will be no warmups in group stage. Warmups in later stages are strictly limited to 2 minutes maximum drain time.
+5. 1 ban per team up to RO16, 2 bans from Quarterfinals onwards.
+6. Teams may substitute players in and out of the lobby without limit.
+7. Mods allowed in FM: Hidden, Hardrock, Flashlight and Easy
+   - At least 2 players in a team must activate at least one mod.
+   - Players may combine mods (eg. HDHR).
+8. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.
+9. Participants are allowed, however not required, to use mods in the tiebreaker maps.
+
+### Pick/Ban Timers
+
+1. Picks and bans are limited to **1 minute** per pick/ban.
+2. Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
+
+### New Rules
+
+1. Excessive match stalling or time-wasting by players are subject to punishments, decided upon by the referee.
+2. In the event of a disconnect, the team that lost the player may opt to replay the map if they desire. However, this will only be tolerated once.
+3. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays.
+4. If the team that didn’t DC have a point advantage that the other team could not have made up even with their player present (i.e 5 mil+, depends on the mod type) then the map is not replayed.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
