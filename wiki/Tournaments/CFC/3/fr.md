@@ -70,12 +70,16 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 
 ## Groupes
 
-| Groupe A | Groupe B | Groupe C | Groupe D | Groupe E | Groupe F | Groupe G | Groupe H |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877) | ![][flag_FR] [FulgurentKille](/users/4096322) | ![][flag_FR] [Holloh](/users/7612994) | ![][flag_FR] [Boros](/users/5490623) | ![][flag_FR] [Sounny](/users/7326109) | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [Noulayfe](/users/4316542) |
-| ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_FR] [Mnemosyne](/users/9255433) |
-| ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_FR] [Aequo3](/users/4495141) |
-| ![][flag_FR] [Chernobog](/users/3317042) | ![][flag_FR] [Nyton](/users/9475990) | ![][flag_CA] [Sinaeb](/users/1576095) | ![][flag_FR] [Fanther](/users/7415863) | ![][flag_FR] [deesse du mal](/users/9177774) | ![][flag_FR] [Iyorin](/users/1859986) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) | ![][flag_FR] [Astreachan](/users/2953898) |
+| Groupe | Top Seed | High Seed | Low Seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [SkaylleexSamaFR](/users/7720945) | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [Chernobog](/users/3317042) |
+| **B** | ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877) | ![][flag_FR] [Noctalium](/users/6488167) | ![][flag_FR] [07th Loli](/users/4122996) | ![][flag_FR] [Nyton](/users/9475990) |
+| **C** | ![][flag_FR] [FulgurentKille](/users/4096322) | ![][flag_FR] [Orazeit](/users/8335913) | ![][flag_FR] [ume-skills](/users/1383450) | ![][flag_CA] [Sinaeb](/users/1576095) |
+| **D** | ![][flag_FR] [Holloh](/users/7612994) | ![][flag_FR] [Julo](/users/4203239) | ![][flag_FR] [\[Haku\]](/users/2329184) | ![][flag_FR] [Fanther](/users/7415863) |
+| **E** | ![][flag_FR] [Boros](/users/5490623) | ![][flag_FR] [Electr0o](/users/9484428) | ![][flag_FR] [CaptainAlexis](/users/6872242) | ![][flag_FR] [deesse du mal](/users/9177774) |
+| **F** | ![][flag_FR] [Sounny](/users/7326109) | ![][flag_FR] [tutiflo](/users/2024185) | ![][flag_FR] [dracoV](/users/7925725) | ![][flag_FR] [Iyorin](/users/1859986) |
+| **G** | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) |
+| **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
 -----------------------
 
