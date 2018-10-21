@@ -25,8 +25,6 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Match Week 4 | 2018-12-08/2018-12-09 |
 | Match Week 5 | 2018-12-15/2018-12-16 |
 
-**Note**: Registrations may prematurely end when there are a sufficient number of registrants. The full schedule will be revealed before registrations close.
-
 ## Prizes
 
 Winners of their respective game mode will get a Profile badge.
@@ -44,7 +42,7 @@ Winners of their respective game mode will get a Profile badge.
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452), ![][flag_PH] [-Nicotine](/users/4818935) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Nezol](/users/7509103), ![][flag_PH] [Afireee](/users/7919913), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [Deadpulse](/users/8575527) |
 | Commentators | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [Deneb](/users/2604212), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Awishi](/users/4290020), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_AU] [PotassiumF](/users/4247722) |
 | Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
@@ -57,15 +55,12 @@ Winners of their respective game mode will get a Profile badge.
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- Registration Forms
-  - [osu!standard](https://goo.gl/forms/DniRC0XLpSvr6IkY2)
-  - [osu!taiko](https://goo.gl/forms/pMAFhatTwE5SCryf2)
-  - [osu!catch](https://goo.gl/forms/bhm9GdRZ6fT5hB2i2)
-  - [osu!mania 4K and 7K](https://goo.gl/forms/LGAZSwXbudHJlc583)
 
 ------------------------
 
 ## Participants
+
+An initial list of cleared registrants are listed on [https://docs.google.com/spreadsheets/d/1W-XLpa_DzLZW0DMb1jy3uEo9VYHHB-jHieU-61owWQs/edit?usp=sharing](this spreadsheet).
 
 *Qualified participants will be added in this section.*
 
