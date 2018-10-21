@@ -19,9 +19,9 @@ La **Catch French Cup 3** (***CFC 3***) est un tournoi osu!catch français en 1v
 | Phase de poules | 2018-09-08/2018-09-16 |
 | 16èmes de finale | 2018-09-22/2018-09-23 |
 | Quarts-de-finale | 2018-09-29/2018-09-30 |
-| Demi-finales | 2018-10-08/2018-10-09 |
-| Finales | 2018-10-15/2018-10-16 |
-| Grandes finales | 2018-10-22 |
+| Demi-finales | 2018-10-06/2018-10-07 |
+| Finales | 2018-10-13 |
+| Grandes finales | 2018-10-20 |
 
 ## Récompenses
 
@@ -42,7 +42,7 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Sélectionneur de map | ![][flag_FR] [Emiru](/users/3306180) |
-| Commentateurs | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [redjiii](/users/138728) |
+| Commentateurs | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [redjiii](/users/138728) |
 | Streamers | ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Astreachan](/users/2953898), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Designer | ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
@@ -56,23 +56,6 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 - [Tableaux Challonge](https://osucfc.challonge.com/CFC3)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
-
------------------------
-
-## Planning des matches: Finales
-
-### Samedi, 13 Octobre 2018
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **14:00** |
-| #2 | Boros | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **16:00** |
-| #3a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **18:00** | ¹ |
-| #3b | -Ken | ![][flag_TN] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
-| #3c | Noulayfe | ![][flag_FR] | ![][flag_FR] | Boros | **18:00** | ¹ |
-| #3d | Noulayfe | ![][flag_FR] | ![][flag_FR] | AAAAAAAAAAAAHHH | **18:00** | ¹ |
-
-¹ Confrontation dépendant du perdant du Match #1 et du gagnant du Match #2
 
 -----------------------
 
@@ -98,7 +81,50 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | **G** | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
+-----------------------
+
+## Podium
+
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Boros](/users/5490623) |
+
+-----------------------
+
 ## Liste des maps
+
+### Grandes finales
+
+**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
+
+- NoMod
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](/beatmapsets/696969/#fruits/1476212)
+  - [t+pazolite - Garakuta Doll Play (Minato Yukina) \[DECEPTION\]](/beatmapsets/848546/#fruits/1774427)
+  - [Morimori Atsushi - Paradigm Shift (Emiru) \[Quantum Fluctuation\]](/beatmapsets/727816/#fruits/1536733)
+  - [May'n - ViViD (Silynn) \[Lucid\]](/beatmapsets/160957/#fruits/393059)
+  - [Chroma - I (BarkingMadDog) \[TAMA-chan owo\]](/beatmapsets/752736/#fruits/1584722)
+  - [Memme - Avalanche (byfar) \[Glacial Cascade\]](/beatmapsets/340048/#fruits/782333)
+- Hidden
+  - [TAG underground overlay - 'EVERMORE SIDE A (Emiru) \[Over The "Period"\]](/beatmapsets/845175/#fruits/1767919)
+  - [Sebastien Pintinaux & Caroline Szatapski - 'EVERMORE SIDE A (Emiru) \[Sur tes pas\]](/beatmapsets/845175/#fruits/1767916)
+  - [Nekomata Master+ - squall (RLC) \[WIND\]](/beatmapsets/92052/#fruits/248991)
+  - [MYTH & ROID - L.L.L. (Feb) \[Love & Passion\]](/beatmapsets/341870/#fruits/891272)
+- HardRock
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Minato Yukina) \[CrystalSeed vs. CLSW's EX\]](/beatmapsets/427801/#fruits/934113)
+  - [THE IDOLM@STER CINDERELLA GIRLS!! - Dan \~ CTB \~ JumpMap Pack (Minato Yukina) \[Absolute NIne \~ 7th \~ Marathon\]](/beatmapsets/692137/#fruits/1467357)
+  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlocck) \[Northrend\]](/beatmapsets/12030/#fruits/45433)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](/beatmapsets/40344/#fruits/131286)
+- DoubleTime
+  - [ClariS - Connect -TV MIX- (Spectator) \[Spec's Overdose\]](/beatmapsets/203567/#fruits/500293)
+  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB newer competition\]](/beatmapsets/31297/#fruits/102921)
+  - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298/#fruits/55474)
+  - [u's - Natsuiro Egao de 1, 2, Jump! (blissfulyoshi) \[Jump!\]](/beatmapsets/57762/#fruits/240107)
+- Tiebreaker
+  - **[Camellia feat. DJ SHARPNEL - werewolf howls and Over The Fullereneshift 1.3x (Emiru) \[Metamorphing into a EVA Bloodthirsty Lycanthrope\]](/beatmapsets/865829/#fruits/1810292)**
 
 ### Finales
 
@@ -230,6 +256,20 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 ------------------------------------------------------------------------
 
 ## Résultats des matches
+
+### Grandes finales
+
+| Samedi, 2018-10-20 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](/community/matches/46842396) |
+
+### Finales
+
+| Samedi, 2018-10-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](/community/matches/46670175) |
+| **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](/community/matches/46673460) |
+| **Noulayfe** ![][flag_FR] | **7** | 4 | ![][flag_FR] Boros | [#1](/community/matches/46677078) |
 
 ### Demi-finales
 

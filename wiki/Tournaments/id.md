@@ -127,6 +127,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Alostis](/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Boros](/users/5490623) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
@@ -211,6 +212,7 @@ Lihat juga
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TN]: /wiki/shared/flag/TN.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
