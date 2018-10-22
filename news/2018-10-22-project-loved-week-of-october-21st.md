@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of October 21st"
-date: 2018-10-21 20:00:00 +0000
+date: 2018-10-22 20:00:00 +0000
 ---
 
 With another two Sundays come another 24 beatmaps nominated in [Project Loved](https://osu.ppy.sh/community/forums/120)! Check 'em out, and vote for your favourites!
