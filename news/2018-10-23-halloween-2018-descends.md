@@ -10,7 +10,7 @@ All Hallow's Eve approaches fast, and the darkest night threatens to take over o
 
 There's a lot to cover, so let's get stuck right into it!
 
-**The osu! game client has been possessed by spooky ghosts! Oh no!** Taking the form of a small selection from this year's [Halloween Fanart Contest](https://osu.ppy.sh/community/contests/70) as voted by you, these adorably delightful pieces are sure to terrify and brighten up your day in equal measure.
+**The osu! game client has been possessed by spooky ghosts! Oh no!** Taking the form of the winners from this year's [Halloween Fanart Contest](https://osu.ppy.sh/community/contests/70) as voted by you (and a few extras), these adorably delightful pieces are sure to terrify and brighten up your day in equal measure.
 
 We had over *160* entries to vote for this year, setting a brand new record by an absolute landslide - the only contest to even come close is Spring 2018 with 77.
 
@@ -20,9 +20,9 @@ Without any further shambling around, let's dig right in - and if you like what 
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/2Su.jpg)](https://assets.ppy.sh/contests/70/winners/2Su.png)
 
-Exploding into first place with a sea of spooky colours and **6744** votes to boot was [2Su](https://osu.ppy.sh/users/6598966)'s outstanding entry featuring a Halloween attired pippi and Yuzu eagerly welcoming you into the outright hell that is Halloween.
+Exploding into first place with a sea of spooky colours and **6744** votes to boot was [2Su](https://osu.ppy.sh/users/6598966)'s outstanding entry featuring a Halloween attired pippi and Yuzu eagerly welcoming you into the outright hell that is All Hallow's Eve.
 
-And by hell, I meant candy, because this piece is so sweet that it almost hurts. Death-defyingly sweet.
+And by hell, I actually meant candy, because this piece is so sweet that it almost hurts. Death-defyingly sweet.
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Sunako.jpg)](https://assets.ppy.sh/contests/70/winners/Sunako.png)
 
@@ -36,7 +36,7 @@ With **5316** votes, [h-alice0430](https://osu.ppy.sh/users/12764300)'s renditio
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Que3tion.jpg)](https://assets.ppy.sh/contests/70/winners/Que3tion.png)
 
-Before the blood moon, an oni-Mocha and a witch-pippi cackle and gleamed their way into the hearts of **5073** voters in [Que3tion](https://osu.ppy.sh/users/12608710)'s piece. 
+Before the blood moon, an oni-Mocha and a witch-pippi cackled and gleamed their way into the hearts of **5073** voters in [Que3tion](https://osu.ppy.sh/users/12608710)'s piece. 
 
 We recommend against stuffing your undead servants with candycorn. It just makes a mess.
 
@@ -142,7 +142,3 @@ Think you're up for it? Take heed of the hints below, you're going to need them,
 A big Happy Halloween from all of us on the osu!team! Remember to show your artists some love if you really liked their work!
 
 —Ephemeral
-
-
-
-
