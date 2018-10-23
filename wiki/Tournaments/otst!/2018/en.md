@@ -31,6 +31,8 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
 
+![otst! 2018 Winner Badge](img/badge.png)
+
 ## Organisation
 
 The osu! TV Size Tournament 2018 was run by various osu! community members.
@@ -126,12 +128,24 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 
 ## Groups
 
-| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | Group I | Group J | Group K | Group L | Group M | Group N | Group O | Group P |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Floating up | nvnvnvnvn | 0.3 gamma | Azer | Shigure Lovers | 0hm8frswhxkysexo | black dogleg | Sexy Snowmen | Rubber Conquest | Gucci Gang | ANGERY JEFFREY | Gekidan PIKORI | hotel for dogs | GOMEN JEFFREY | RemkyBestTrap | Stoof & Friends |
-| :b:eezah | Just Monika | lotus top 1 br | no gugu | nuplauti | Sayuri best girl | OwO | b | shen mapo | hotel for lolis | Tilted Venrue | Yomi yori kikoyu | Teamcito II | Mac 10 A Rush | LesProDeCoc | NoName |
-| BüroklammerCarry | pwntaterz | Anime Tiddles | Cauldron Bois V2 | cringepeek | Club Penguin | Doki-Doki Osu Club | I can't Tyep! | Tsutaerarenakata | azur lane | cucumber control | Cocalombia | Potato farmers | Beginner's Luck | i got nothing | :thowonking: |
-| COCI | Big Black PP | sample text | The Fine Ladies | TapBom | Last Remote | LemmeTeachDaWey | The Leftovers | \[\[heck\]\] | dab on haters | Prob a drug ring | Accuracy^ | Lolicops | Re:Member | my pp just grew | 4head |
+| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | Floating up | :b:eezah | BüroklammerCarry | COCI |
+| **B** | nvnvnvnvn | Just Monika | pwntaterz | Big Black PP |
+| **C** | 0.3 gamma | lotus top 1 br | Anime Tiddles | sample text |
+| **D** | Azer | no gugu | Cauldron Bois V2 | The Fine Ladies |
+| **E** | Shigure Lovers | nuplauti | cringepeek | TapBom |
+| **F** | 0hm8frswhxkysexo | Sayuri best girl | Club Penguin | Last Remote |
+| **G** | black dogleg | OwO | Doki-Doki Osu Club | LemmeTeachDaWey |
+| **H** | Sexy Snowmen | b | I can't Tyep! | The Leftovers |
+| **I** | Rubber Conquest | shen mapo | Tsutaerarenakata | \[\[heck\]\] |
+| **J** | Gucci Gang | hotel for lolis | azur lane | dab on haters |
+| **K** | ANGERY JEFFREY | Tilted Venrue | cucumber control | Prob a drug ring |
+| **L** | Gekidan PIKORI | Yomi yori kikoyu | Cocalombia | Accuracy^ |
+| **M** | hotel for dogs | Teamcito II | Potato farmers | Lolicops |
+| **N** | GOMEN JEFFREY | Mac 10 A Rush | Beginner's Luck | Re:Member |
+| **O** | RemkyBestTrap | LesProDeCoc | i got nothing | my pp just grew |
+| **P** | Stoof & Friends | NoName | :thowonking: | 4head |
 
 -----------------------
 
