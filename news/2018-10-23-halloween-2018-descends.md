@@ -18,79 +18,79 @@ The most horrifying thing of all is this meant that people only had **15** votes
 
 Without any further shambling around, let's dig right in - and if you like what you see, **click the banner to be taken to a full-sized download!**:
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/2Su.jpg)](https://assets.ppy.sh/contests/70/winners/2Su.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/2Su.jpg)](https://assets.ppy.sh/contests/70/winners/2Su.png)
 
 Exploding into first place with a sea of spooky colours and **6744** votes to boot was [2Su](https://osu.ppy.sh/users/6598966)'s outstanding entry featuring a Halloween attired pippi and Yuzu eagerly welcoming you into the outright hell that is Halloween.
 
 And by hell, I meant candy, because this piece is so sweet that it almost hurts. Death-defyingly sweet.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Sunako.jpg)](https://assets.ppy.sh/contests/70/winners/Sunako.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Sunako.jpg)](https://assets.ppy.sh/contests/70/winners/Sunako.png)
 
 In second place with **6305** votes was [Sunako](https://osu.ppy.sh/users/2801166)'s enthralling (literally) entry featuring a vampire pippi lording over her Mocha and Aiko maidservants within a courtly manor.
 
 Sunako is at this point, a regular in these contests and has been putting out showstopper after showstopper, with this entry certainly no exception. The horror of true talent - how Halloween!
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/h-alice0430.jpg)](https://assets.ppy.sh/contests/70/winners/h-alice0430.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/h-alice0430.jpg)](https://assets.ppy.sh/contests/70/winners/h-alice0430.png)
 
 With **5316** votes, [h-alice0430](https://osu.ppy.sh/users/12764300)'s rendition of Aiko in Halloween garb holding a rose before a distant horizon of eerily smiling towers is as charming as it is cute. A fine testament to the old adage of 'less is sometimes more'.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Que3tion.jpg)](https://assets.ppy.sh/contests/70/winners/Que3tion.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Que3tion.jpg)](https://assets.ppy.sh/contests/70/winners/Que3tion.png)
 
 Before the blood moon, an oni-Mocha and a witch-pippi cackle and gleamed their way into the hearts of **5073** voters in [Que3tion](https://osu.ppy.sh/users/12608710)'s piece. 
 
 We recommend against stuffing your undead servants with candycorn. It just makes a mess.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/PaperDawge.jpg)](https://assets.ppy.sh/contests/70/winners/PaperDawge.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/PaperDawge.jpg)](https://assets.ppy.sh/contests/70/winners/PaperDawge.png)
 
 Summoning forth **4866** votes, [PaperDawge](https://osu.ppy.sh/users/7721841)'s portrayal of a gorgeously attired witch-pippi and Count Yuzu complete with a werewolf Mocha and demon Maria is well deserving of its spot among the finalists, featuring the official mascots in their entirety to some of the best costume design we've seen all season.
 
 Never thought I'd see Yuzu in a ruffled cravat, but hey, it works!
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Vio.jpg)](https://assets.ppy.sh/contests/70/winners/Vio.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Vio.jpg)](https://assets.ppy.sh/contests/70/winners/Vio.png)
 
 Whimsically commanding **4111** votes, [Vio](https://osu.ppy.sh/users/5661237)'s surprisingly bright but no less Halloween-y piece is full of charisma and quirky charm, with tiny hats to boot!
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Misakko.jpg)](https://assets.ppy.sh/contests/70/winners/Misakko.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Misakko.jpg)](https://assets.ppy.sh/contests/70/winners/Misakko.png)
 
 High above the clouds, **3927** voters approved of [Misakko](https://osu.ppy.sh/users/3173752)'s take on a flying Aiko set before an ominous blood mood. Simple, striking, and absolutely wonderful.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee%20Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee%20Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.png)
 
 Running straight into the grasp of **3851** voters, [Lee Narie](https://osu.ppy.sh/users/2667849)'s spooktacular entry features the main mascot gang in full, except Yuzu's insatiable attraction to plant and fruit-based lifeforms have resulted in him seating a pumpkin on his head.
 
 We don't know if the witch-garbed pippi is annoyed, scared or just simply laughing at him, so we'll assume all three are the case here. Oh, Yuzu. When will you learn?
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/HawkkunXDDDDDD.jpg)](https://assets.ppy.sh/contests/70/winners/HawkkunXDDDDDD.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/HawkkunXDDDDDD.jpg)](https://assets.ppy.sh/contests/70/winners/HawkkunXDDDDDD.png)
 
 **3650** gigajoules worth of votes blasted through the mad scientist Mocha's terrible machine in [HawkkunXDDDDDD](https://osu.ppy.sh/users/4424379)'s maniacal masterpiece, shocking a Frankenstein's Monster themed Taikonator into life.
 
 IT LIVES!
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/iPhone.jpg)](https://assets.ppy.sh/contests/70/winners/iPhone.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/iPhone.jpg)](https://assets.ppy.sh/contests/70/winners/iPhone.png)
 
 Showcasing their natural cuteness in Halloween-themed style, **3407** declared their support for [iPhone](https://osu.ppy.sh/users/2279990)'s take on some scarily adorable costumes for both pippi and Mocha, complete with Yuzu hurling assorted fruits (and pumpkins!) into the night sky, plus a murderous little don caught in the act. Always knew those things were up to no good.
 
 *Due to an error in submission, this entry will not be available on the main menu for the time being. Sorry!*
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Akshilsnow.jpg)](https://assets.ppy.sh/contests/70/winners/Akshilsnow.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Akshilsnow.jpg)](https://assets.ppy.sh/contests/70/winners/Akshilsnow.png)
 
 Lost in a sea of blood, **3376** voters cast their lot for [Akshilsnow](https://osu.ppy.sh/users/4464409)'s take on a disturbed pippi gazing eerily up towards the heavens. Something ominous lurks in that coffin to her left, I wonder what it could be?
 
 *Unfortunately, due to concerns about suggestive content, this entry will not be making it to the main menu.*
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Bunnshii.jpg)](https://assets.ppy.sh/contests/70/winners/Bunnshii.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Bunnshii.jpg)](https://assets.ppy.sh/contests/70/winners/Bunnshii.png)
 
 It just isn't Halloween without grandiose, frilly dresses, and **3354** voters seemed to completely agree with [Bunnshii](https://osu.ppy.sh/users/9275875)'s take on brand new costumes for both pippi and Mocha.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/kuli88312.jpg)](https://assets.ppy.sh/contests/70/winners/kuli88312.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/kuli88312.jpg)](https://assets.ppy.sh/contests/70/winners/kuli88312.png)
 
 Taking to the skies atop a magical broom, **3119** voters were swept up in [kuli88312](https://osu.ppy.sh/users/1819298)'s devilishly simple take on a witch-attired Alisa sailing through the purple-hued skies of a full moon.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/HeBedesu.jpg)](https://assets.ppy.sh/contests/70/winners/HeBedesu.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/HeBedesu.jpg)](https://assets.ppy.sh/contests/70/winners/HeBedesu.png)
 
 Stolen by the innocent gaze of the costume-clad duo that is pippi and Mocha, **2908** simply couldn't resist [HeBedesu](https://osu.ppy.sh/users/11288995)'s artful charms.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/maaayonnaise.jpg)](https://assets.ppy.sh/contests/70/winners/maaayonnaise.jpg)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/maaayonnaise.jpg)](https://assets.ppy.sh/contests/70/winners/maaayonnaise.png)
 
 And last but certainly not least, **2897** voters were absolutely torn between trick or treat with [maaayonnaise](https://osu.ppy.sh/users/9756665)'s rendition of a devilish pippi as the trick, and an angelic Mocha as the treat.
 
@@ -98,8 +98,8 @@ Which would you choose?
 
 Most of the top-voted entries listed above qualified to become a part of the Halloween main menu pack, but a few did not - we have since replaced those with a set of two staff picks to keep things fair as follows:
 
-* [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.jpg)
-* [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.jpg)
+* [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.png)
+* [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.png)
 
 Both the voted entries and the staff picks will receive **2 months of osu!supporter** as part of the main prize.
 
