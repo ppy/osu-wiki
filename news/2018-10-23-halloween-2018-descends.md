@@ -4,7 +4,7 @@ title: "Halloween 2018 Descends!"
 date: 2018-10-23 10:30:00 +0000
 ---
 
-All Hallow's Eve approaches fast, and the darkest night threatens to take over osu! once and for all, starting with the main menu! Spooks, chills and thrills abound, come check out what's new this year!
+All Hallow's Eve approaches fast, and the darkest night threatens to take over osu! once and for all, starting with the main menu! Spooks, chills and thrills abound with new Hush-Hush medals and more, come check out what's new!
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/banner.jpg)](https://osu.ppy.sh/community/contests/70)
 
