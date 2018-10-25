@@ -50,30 +50,54 @@ tags:
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - 哔哩哔哩：[aiyulu](http://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[Rasis](http://live.bilibili.com/5333)（备用）、[kj415j45](https://live.bilibili.com/237250)（备用）
+  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[Rasis](https://live.bilibili.com/5333)（备用）、[kj415j45](https://live.bilibili.com/237250)（备用）
   - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
-## 排程
+## 排程：八强赛
 
 以下时间均为 UTC+08 时区。
 
-### 十六强赛
+### 2018-10-27 星期六
 
-| 2018-10-20 | 星期六 |  |  |
+| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
 | :-: | :-: | :-: | :-: |
-| 11:00 | zero2snow | vs | alisi |
-| 15:00 | ByeForNow | vs | CaOH2 |
-| 20:00 | Sakaki | vs | AradORiOn\_MMM |
-| 21:00 | HDRoop\_7 | vs | Stink God |
-| 2018-10-21 | 星期日 |  |  |
-| 16:00 | \[Crz\]Minato | vs | w a d u |
-| 17:00 | cheewee10 | vs | yin xiaosong |
-| 20:00 | \[Crz\]Murasame | vs | Orangejuice |
-| 21:00 | C Eru | vs | 704661982 |
+| 11:00 | zero2snow | vs | ByeForNow |
+| 20:00 | Sakaki | vs | HDRoop\_7 |
+| 21:00 | 704661982 | vs | \[Crz\]Minato |
+| 22:00 | alisi | vs | CaOH2 |
+
+### 2018-10-28 星期日
+
+| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
+| :-: | :-: | :-: | :-: |
+| 16:00 | w a d u | vs | C Eru |
+| 20:00 | cheewee10 | vs | \[Crz\]Murasame |
+| 21:00 | yin xiaosong | vs | Orangejuice |
+| 22:00 | Stink God | vs | AradORiOn\_MMM |
 
 ## 图池
+
+### 八强赛
+
+**下载完整图池包！（72 MB） - [百度云盘](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google 云端硬盘](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
+
+- FreeMod
+  - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
+  - [Freezer feat. Kiichigo - Chocolate Planet \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
+  - [Goreshit - beautiful loli thing \[Jumpstreams\]](https://osu.ppy.sh/beatmapsets/728795#mania/1538564)
+  - [USAO - Dynamite (Extended Mix) \[Black Another Lv.12\]](https://osu.ppy.sh/beatmapsets/567907#mania/1559100)
+  - [Frums - theyaremanycolors \[emotions\]](https://osu.ppy.sh/beatmapsets/829383#mania/1737654)
+  - [fartwad - Stereo Sayan 3D \[hi19hi19's Hard\]](https://osu.ppy.sh/beatmapsets/752821#mania/1584871)
+  - [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
+  - [JOYRYDE - MERCY \[PRAISE\]](https://osu.ppy.sh/beatmapsets/760741#mania/1599848)
+  - [Akira Complex - Odyssey (Au5 Remix) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/519513#mania/1103630)
+  - [P*Light - NINJA IS DEAD IIDX ver. \[qqq's Black Another\]](https://osu.ppy.sh/beatmapsets/856629#mania/1789600)
+  - [C418 - Sweden \[sphere\]](https://osu.ppy.sh/beatmapsets/815908#mania/1711121)
+  - [Subplaid - Jeg onsker ikke a skade deg \[i don't want to hurt you\]](https://osu.ppy.sh/beatmapsets/827197#mania/1733403)
+- Tiebreaker
+  - **[UVERworld - Fight For Liberty \[Carte Blanche\]](https://osu.ppy.sh/beatmapsets/865362#mania/1809430)**
 
 ### 十六强赛
 
@@ -122,26 +146,39 @@ tags:
 
 ## 比赛结果
 
+### 十六强赛
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| **zero2snow** | **5** | 0 | alisi |
+| **ByeForNow** | **5** | 4 | CaOH2 |
+| **Sakaki** | **5** | 1 | AradORiOn\_MMM |
+| **HDRoop\_7** | **5** | 4 | Stink God |
+| **\[Crz\]Minato** | **5** | 4 | w a d u |
+| **cheewee10** | **5** | 0 | yin xiaosong |
+| C Eru | 0 | **5** | **704661982** |
+| **\[Crz\]Murasame** | **5** | 0 | Orangejuice |
+
 ### 小组赛
 
 | 组别 | 选手 |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| A | CaOH2 | Sakaki | hero\_jeff | \[Crz\]MY |
-|  | 7 | 9 | -10 | -6 |
-| B | \[MY\]xRay | HDRoop\_7 | alisi | murorachi |
-|  | -12 | 12 | 4 | -4 |
-| C | \[Crz\]Murasame | 704661982 | Pureforever | YoSa\_o |
-|  | 12 | 2 | -2 | -12 |
-| D | cheewee10 | w a d u | GODsBEATs | IA daisuki |
-|  | 12 | 2 | -4 | -10 |
-| E | \[Crz\]Minato | PHILIPPE YMT | yin xiaosong | Toki 0w0 |
-|  | 12 | -3 | 2 | -11 |
-| F | Orangejuice | C Eru | Remilia\_HY | JunFish |
-|  | 4 | 11 | -3 | -12 |
-| G | zero2snow | Stink God | tangjinxi | FDXiaoQian |
-|  | 9 | 4 | -1 | -12 |
-| H | ByeForNow | AradORiOn\_MMM | PiaoD | idqoos123 |
-|  | 12 | 4 | -4 | -12 |
+| A | **CaOH2** | **Sakaki** | hero\_jeff | \[Crz\]MY |
+|  | **7** | **9** | -10 | -6 |
+| B | \[MY\]xRay | **HDRoop\_7** | **alisi** | murorachi |
+|  | -12 | **12** | **4** | -4 |
+| C | **\[Crz\]Murasame** | 704661982 | Pureforever | YoSa\_o |
+|  | **12** | **2** | -2 | -12 |
+| D | **cheewee10** | **w a d u** | GODsBEATs | IA daisuki |
+|  | **12** | **2** | -4 | -10 |
+| E | **\[Crz\]Minato** | PHILIPPE YMT | **yin xiaosong** | Toki 0w0 |
+|  | **12** | -3 | **2** | -11 |
+| F | **Orangejuice** | **C Eru** | Remilia\_HY | JunFish |
+|  | **4** | **11** | -3 | -12 |
+| G | **zero2snow** | **Stink God** | tangjinxi | FDXiaoQian |
+|  | **9** | **4** | -1 | -12 |
+| H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
+|  | **12** | **4** | -4 | -12 |
 
 ### 资格赛
 
