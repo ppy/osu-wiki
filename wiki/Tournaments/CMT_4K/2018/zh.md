@@ -55,19 +55,23 @@ tags:
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
-## 排程
+## 排程：八强赛
 
 以下时间均为 UTC+08 时区。
 
-### 八强赛
+### 2018-10-27 星期六
 
-| 2018-10-27 | 星期六 |  |  |
+| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
 | :-: | :-: | :-: | :-: |
 | 11:00 | zero2snow | vs | ByeForNow |
 | 20:00 | Sakaki | vs | HDRoop\_7 |
 | 21:00 | 704661982 | vs | \[Crz\]Minato |
 | 22:00 | alisi | vs | CaOH2 |
-| 2018-10-28 | 星期日 |  |  |
+
+### 2018-10-28 星期日
+
+| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
+| :-: | :-: | :-: | :-: |
 | 16:00 | w a d u | vs | C Eru |
 | 20:00 | cheewee10 | vs | \[Crz\]Murasame |
 | 21:00 | yin xiaosong | vs | Orangejuice |
@@ -146,35 +150,35 @@ tags:
 
 | 蓝方选手 |  |  | 红方选手 |
 | --: | :-: | :-: | :-- |
-| zero2snow | 5 | 0 | alisi |
-| ByeForNow | 5 | 4 | CaOH2 |
-| Sakaki | 5 | 1 | AradORiOn\_MMM |
-| HDRoop\_7 | 5 | 4 | Stink God |
-| \[Crz\]Minato | 5 | 4 | w a d u |
-| cheewee10 | 5 | 0 | yin xiaosong |
-| C Eru | 0 | 5 | 704661982 |
-| \[Crz\]Murasame | 5 | 0 | Orangejuice |
+| **zero2snow** | **5** | 0 | alisi |
+| **ByeForNow** | **5** | 4 | CaOH2 |
+| **Sakaki** | **5** | 1 | AradORiOn\_MMM |
+| **HDRoop\_7** | **5** | 4 | Stink God |
+| **\[Crz\]Minato** | **5** | 4 | w a d u |
+| **cheewee10** | **5** | 0 | yin xiaosong |
+| C Eru | 0 | **5** | **704661982** |
+| **\[Crz\]Murasame** | **5** | 0 | Orangejuice |
 
 ### 小组赛
 
 | 组别 | 选手 |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| A | CaOH2 | Sakaki | hero\_jeff | \[Crz\]MY |
-|  | 7 | 9 | -10 | -6 |
-| B | \[MY\]xRay | HDRoop\_7 | alisi | murorachi |
-|  | -12 | 12 | 4 | -4 |
-| C | \[Crz\]Murasame | 704661982 | Pureforever | YoSa\_o |
-|  | 12 | 2 | -2 | -12 |
-| D | cheewee10 | w a d u | GODsBEATs | IA daisuki |
-|  | 12 | 2 | -4 | -10 |
-| E | \[Crz\]Minato | PHILIPPE YMT | yin xiaosong | Toki 0w0 |
-|  | 12 | -3 | 2 | -11 |
-| F | Orangejuice | C Eru | Remilia\_HY | JunFish |
-|  | 4 | 11 | -3 | -12 |
-| G | zero2snow | Stink God | tangjinxi | FDXiaoQian |
-|  | 9 | 4 | -1 | -12 |
-| H | ByeForNow | AradORiOn\_MMM | PiaoD | idqoos123 |
-|  | 12 | 4 | -4 | -12 |
+| A | **CaOH2** | **Sakaki** | hero\_jeff | \[Crz\]MY |
+|  | **7** | **9** | -10 | -6 |
+| B | \[MY\]xRay | **HDRoop\_7** | **alisi** | murorachi |
+|  | -12 | **12** | **4** | -4 |
+| C | **\[Crz\]Murasame** | 704661982 | Pureforever | YoSa\_o |
+|  | **12** | **2** | -2 | -12 |
+| D | **cheewee10** | **w a d u** | GODsBEATs | IA daisuki |
+|  | **12** | **2** | -4 | -10 |
+| E | **\[Crz\]Minato** | PHILIPPE YMT | **yin xiaosong** | Toki 0w0 |
+|  | **12** | -3 | **2** | -11 |
+| F | **Orangejuice** | **C Eru** | Remilia\_HY | JunFish |
+|  | **4** | **11** | -3 | -12 |
+| G | **zero2snow** | **Stink God** | tangjinxi | FDXiaoQian |
+|  | **9** | **4** | -1 | -12 |
+| H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
+|  | **12** | **4** | -4 | -12 |
 
 ### 资格赛
 
