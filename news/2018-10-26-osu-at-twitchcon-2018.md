@@ -18,13 +18,7 @@ Here's what's planned (and take note, all times below are in UTC -07:00):
 
 ## Day 1 (October 26)
 
-### Swag Happy Hour (4pm - 5pm)
-
-Swing on by to the osu! space (#1240) and play on one of the setups to score some sick swag to show off to your friends. 
-
-Like the Discord HypeSquad gear, except that not everybody and their mother has this stuff. It's also way cooler, for what it's worth.
-
-*We are a little limited on small-item swag to give out though, so if you want some, make sure to get in early!*
+A bit of an ad-hoc day. Everyone will be meeting each other and we will be [streaming some IRL](https://twitch.tv/osulive) and freeplay on the local osu! setup.
 
 ## Day 2 (October 27)
 
