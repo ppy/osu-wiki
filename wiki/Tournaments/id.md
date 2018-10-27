@@ -90,6 +90,13 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |

@@ -90,6 +90,13 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |

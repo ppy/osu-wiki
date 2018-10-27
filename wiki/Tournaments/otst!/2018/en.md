@@ -30,6 +30,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 
 ![otst! 2018 Winner Badge](img/badge.png)
 
@@ -155,9 +156,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_BR] [Foxerus](/users/7479684) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_MY] [cdhsausageboy](/users/2403621) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MX] [Ammy](/users/4183406) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Rubber Conquest |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Floating up |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | black dogleg |
 
 -----------------------
 
