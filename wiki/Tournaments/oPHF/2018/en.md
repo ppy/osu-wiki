@@ -17,8 +17,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-10-04/2018-10-21 |
-| Qualifiers Week 1 (osu!standard, osu!mania 4K) | 2018-11-03/2018-11-04 |
-| Qualifiers Week 2 (osu!catch, osu!mania 7K) | 2018-11-10/2018-11-11 |
+| Qualifiers Week 1 | 2018-11-03/2018-11-04 |
+| Qualifiers Week 2 | 2018-11-10/2018-11-11 |
 | Match Week 1 | 2018-11-17/2018-11-18 |
 | Match Week 2 | 2018-11-24/2018-11-25 |
 | Match Week 3 | 2018-12-01/2018-12-02 |
