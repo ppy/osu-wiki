@@ -1,7 +1,12 @@
-第四届 osu!mania 4K 菜鸡杯
-=========================
+---
+tags:
+- CJB
+- CJB 2018
+- CJB2018
+---
+# 第四届 osu!mania 4K 菜鸡杯
 
-![CJB 4K 4th](banner.png)
+![CJB 4K 4th](img/banner.png)
 
 第四届 osu!mania 4K 菜鸡杯（以下均简写为 CJB 4K 4th）为华人区个人比赛，是由 CJB 举办的第四届华人区 osu!mania 4K 大赛。比赛所用谱面均为 osu!mania 4K 专用谱。
 
@@ -22,7 +27,7 @@
 本次比赛奖品由 ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) 赞助。
 
 | 名次 | 奖品 |
-| --- | :-- |
+| :-: | :-- |
 | ![金冠](/wiki/shared/GCrown.png "第一名") | 2个月 osu!支持者，主页定制勋章 |
 | ![银冠](/wiki/shared/SCrown.png "第二名") | 1个月 osu!支持者 |
 | ![铜冠](/wiki/shared/BCrown.png "第三名") | 15 CNY |
@@ -46,23 +51,11 @@
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
-## 比赛预告
+--------------------------------------------------
 
-### 决赛第二周
+![CJB 4K 4th Podium](img/podium.jpg)
 
-#### 8月13日，星期一
-
-| 比赛时间 | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 29 |
-
-#### 8月14日，星期二
-
-| 比赛时间 | 一号玩家 | | | 二号玩家 | 比赛编号 |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 15:00 | Crystal | ![][flag_CN] | ![][flag_CN] | 29 胜者 | 30 |
-
-如果 Crystal 输掉第30场，则立刻开始第31场：Crystal vs 29胜者。
+--------------------------------------------------
 
 ## 图池
 
@@ -174,11 +167,22 @@
 
 ## 比赛结果
 
+### 决赛第二周
+
+| 编号 | 2018-08-13，星期一 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
+
+| 编号 | 2018-08-14，星期二 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
+| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
+
 ### 决赛第一周
 
 | 编号 | 2018-08-11，星期六 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 25 | **Toki 0w0 ![][flag_CN]** | **6** | 3 | ![][flag_CN] xyxyxy091 | |
+| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
 | 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
 | 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
 | 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |

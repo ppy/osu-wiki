@@ -17,30 +17,29 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | Pseudonim | Języki | Główny obszar działania |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Włoski | Moderacja czatu |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderacja czatu oraz Disqus |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderacja czatu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Niemiecki | Moderacja czatu |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderacja czatu, Forum oraz Disqus|
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Organizacja turniejów, Moderacja Disqus |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderacja czatu oraz Forum |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderacja czatu, Pomoc techniczna |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów, Moderacja Disqus |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Pomoc techniczna |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | Koreański | Metadata Team |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | Koreański, Japoński | Moderacja czatu oraz Forum |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Pomoc techniczna |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum, czatu oraz Disqus |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum, czatu oraz Disqus |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum oraz czatu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderacja czatu |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugalski | Moderacja czatu |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turecki | Moderacja czatu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Hiszpański | Organizacja turniejów |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderacja czatu |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu oraz Disqus, Metadata Team |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderacja czatu oraz Disqus |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu, Metadata Team |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderacja czatu |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | Fiński | Moderacja czatu |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | Hiszpański | Moderacja czatu oraz forum |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Włoski | Moderacja czatu |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderacja Forum, czatu oraz Disqus |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderacja Forum oraz czatu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderacja czatu oraz forum |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderacja czatu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
@@ -53,11 +52,12 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francuski, Hiszpański | Moderacja czatu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonezyjski | Moderacja czatu |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chiński | Moderacja czatu |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Węgierski | Moderacja czatu oraz Disqus |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Niemiecki | Moderacja Forum, czatu oraz Disqus |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Węgierski | Moderacja czatu |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Niemiecki | Moderacja Forum oraz czatu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rosyjski | Moderacja czatu |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreański, Japoński | Moderacja czatu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Francuski | Moderacja czatu |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipiński | Moderacja czatu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański | Pomoc techniczna |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polski | Moderacja czatu |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | Pomoc techniczna |

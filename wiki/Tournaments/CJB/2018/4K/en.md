@@ -1,16 +1,21 @@
-The 4th CJB osu!mania 4K Tournament
-=========================
+---
+tags:
+- CJB
+- CJB 2018
+- CJB2018
+---
+# The 4th CJB osu!mania 4K Tournament
 
-![CJB 4K 4th](banner.png)
+![CJB 4K 4th](img/banner.png)
 
-**The 4th CJB osu!mania 4K Tournament _(CJB 4K 4th)_**, is the fourth one-on-one osu!mania 4K specified Chinese regional tournament hosted by CJB team.
+**The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-07-02/2018-07-013 |
-| Drawings | 2018-07-14 (20:30 UTC+8) |
+| Live Drawings | 2018-07-14 (20:30 UTC+08) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
 | Semifinals | 2018-08-04/2018-8-05 |
@@ -19,15 +24,15 @@ The 4th CJB osu!mania 4K Tournament
 
 ## Prizes
 
-Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329).
+Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329).
 
 | Placing | Prize(s) |
-| --- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter and Userpage Badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter tag, unique userpage badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 15 CNY |
 
-## Organization
+## Organisation
 
 | Position | Members |
 | :-: | :-- |
@@ -46,23 +51,11 @@ Prizes for this tournament are donated by ![][flag_CN] [hans1999](https://osu.pp
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
-## Match Schedule
+--------------------------------------------------
 
-### Finals - Week 2
+![CJB 4K 4th Podium](img/podium.jpg)
 
-#### Monday, 13. August 2018
-
-| Match Time | Player 1 |  |  | Player 2 | Match ID |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 20:00 | Skyshifter | ![][flag_CN] | ![][flag_CN] | Toki 0w0 | 29 |
-
-#### Tuesday, 14. August 2018
-
-| Match Time | Player 1 |  |  | Player 2 | Match ID |
-| :-: | --: | --: | :-- | :-- | :-: |
-| 15:00 | Crystal | ![][flag_CN] | ![][flag_CN] | Winner of 29 | 30 |
-
-If *Crystal* **lose** Match 30, Match 31 will start right after that: *Crystal* vs *Winner of 29*.
+--------------------------------------------------
 
 ## Mappools
 
@@ -174,11 +167,22 @@ If *Crystal* **lose** Match 30, Match 31 will start right after that: *Crystal* 
 
 ## Match Results
 
+### Finals - Week 2
+
+| No. | Monday, 2018-08-13 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
+
+|  No. | Tuesday, 2018-08-14 |  |  |  |  |
+| :-: | --: | :-: | :-- | :-- | :-: |
+| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
+| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
+
 ### Finals - Week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
-| 25 | **Toki 0w0 ![][flag_CN]** | **6** | 3 | ![][flag_CN] xyxyxy091 | |
+| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
 | 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
 | 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
 | 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |
@@ -214,7 +218,7 @@ If *Crystal* **lose** Match 30, Match 31 will start right after that: *Crystal* 
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
 
-Note: ![][flag_CN] Jazzsoldiers give up tournament for some reasons.
+*Note: ![][flag_CN] Jazzsoldiers gave up tournament for some reasons.*
 
 ### Round of 16
 

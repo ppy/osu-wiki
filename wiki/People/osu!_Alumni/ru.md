@@ -45,20 +45,21 @@
 | ![][flag_CA] [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
 | ![][flag_US] [DawnII](https://osu.ppy.sh/users/8399) | BAT |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ![][flag_TW] [deepsea](https://osu.ppy.sh/users/7824) | BAT |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | администратор |
 | ![][flag_GB] [DiamondCrash](https://osu.ppy.sh/users/123790) | BAT |
 | ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) | BAT |
-| [Doddler](https://osu.ppy.sh/users/54) | BAT |
+| ![][flag___] [Doddler](https://osu.ppy.sh/users/54) | BAT |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
+| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | QAT |
 | ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) | BAT |
 | ![][flag_BR] [Dragvon](https://osu.ppy.sh/users/126927) | модератор |
 | ![][flag_US] [drum drum](https://osu.ppy.sh/users/4435526) | GMT |
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
-| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | GMT |
 | ![][flag_FI] [ethox](https://osu.ppy.sh/users/441380) | модератор |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -72,7 +73,7 @@
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
-| [General Pepper](https://osu.ppy.sh/users/3669) | BAT |
+| ![][flag___] [General Pepper](https://osu.ppy.sh/users/3669) | BAT |
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | QAT |
@@ -251,3 +252,4 @@
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_ZA]: /wiki/shared/flag/ZA.gif
+[flag___]: /wiki/shared/flag/__.gif
