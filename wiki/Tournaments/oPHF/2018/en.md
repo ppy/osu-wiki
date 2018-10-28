@@ -55,6 +55,7 @@ Winners of their respective game mode will get a Profile badge.
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
+- [Match Schedules](https://docs.google.com/spreadsheets/d/1dykRLOH3gmFfoUHViTrFgBYgq6yMc_6WVyKUunuGmQ8/edit?usp=sharing)
 
 ------------------------
 
@@ -69,6 +70,34 @@ An initial list of cleared registrants are listed on [this spreadsheet](https://
 ## Mappools
 
 *Mappools will be revealed one week in advance of each stage.*
+
+## osu!standard
+
+### Qualifiers
+
+[**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
+
+- NoMod
+	- [Culprate & Skorpion - Jester (NeilPerry) [LCFC's Insane]](https://osu.ppy.sh/beatmaps/1773874)
+	- [96neko - Aimai Elegy (Lasse) [Absence]](https://osu.ppy.sh/beatmaps/1261914)
+- Hidden
+	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) [Spork Lover's Insane]](https://osu.ppy.sh/beatmaps/1502635)
+- Hard Rock
+	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [Jace's Insane]](https://osu.ppy.sh/beatmaps/1477261)
+- DoubleTime
+	- [Kana Nishino - Still love you (Modem) [Goodbye]](https://osu.ppy.sh/beatmaps/1482857)
+
+## osu!mania 4K
+
+### Qualifiers
+
+[**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
+
+- FreeMod
+	- [DKVPZ - Focus (Lenfried-) [Blur]](https://osu.ppy.sh/beatmaps/1817703)
+	- [Proc Fiskal - MONK Clip (Lenfried-) [Jank]](https://osu.ppy.sh/beatmaps/1817705)
+	- [DJ YOSHITAKA - FLOWER (Raveille) [Air Blossom]](https://osu.ppy.sh/beatmaps/1817772)
+	- [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
 
 ------------------------
 
@@ -193,11 +222,11 @@ An initial list of cleared registrants are listed on [this spreadsheet](https://
 #### Match Format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - Match Weeks 1 and 2 - Best-of-9 (First to 5)
+  - Match Week 1 - Best-of-9 (First to 5)
+  - Match Week 2 - Best-of-11 (First to 6)
   - Match Week 3 - Best-of-11 (First to 6)
-  - Match Week 4 - Best-of-11 (First to 6)
+  - Match Week 4 - Best-of-13 (First to 7)
   - Match Week 5 - Best-of-13 (First to 7)
-  - Match Week 6 - Best-of-13 (First to 7)
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.
