@@ -30,7 +30,7 @@ Tworzenie beatmap to proces, który uwzględnia wybór piosenki, ustalanie rytm�
 
 *Zobacz także: [Modowanie](/wiki/Modding).*
 
-Modowanie jest to proces sprawdzania i oceniania nierankingowych beatmap przez użytkowników, nazywanych potocznie „modderami”. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich beatmapy.
+Modowanie jest to proces sprawdzania i oceniania nierankingowych beatmap przez użytkowników nazywanych potocznie „modderami”. Modowanie odgrywa dużą rolę w kontroli jakości, ponieważ pozwala twórcom na naniesienie niezbędnych poprawek na ich beatmapy.
 
 ## Tworzenie skórek
 
