@@ -14,7 +14,7 @@ The **osu! World Cup 2018** (***OWC 2018***) is a country-based osu! tournament 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-10-13/2018-10-26 |
-| Live Drawings | 2018-11-03 (14:00 UTC+0) |
+| Live Drawings | 2018-11-04 (14:00 UTC+0) |
 | Group Stage | 2018-11-10/2018-11-11 |
 | Round of 16 | 2018-11-17/2018-11-18 |
 | Quarterfinals | 2018-11-24/2018-11-25 |
@@ -39,8 +39,8 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
-| Commentators | *to be decided* |
+| Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
+| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_US] [Happystick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -48,7 +48,6 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/815745)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Sign up here!](https://osu.ppy.sh/community/tournaments/17)**
 
 ------------------------------------------------------------------------
 
