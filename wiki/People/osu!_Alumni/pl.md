@@ -188,7 +188,6 @@
 | ![][flag_ZA] [Teara](https://osu.ppy.sh/users/123491) | BAT |
 | ![][flag_AU] [tensheapz](https://osu.ppy.sh/users/60) | BAT |
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
-| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | QAT |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
