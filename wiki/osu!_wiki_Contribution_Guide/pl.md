@@ -24,7 +24,7 @@ Jeśli czytając którąkolwiek z części przewodnika, będziesz czuł się zag
 
 3. Kliknij `Fork` ponownie, by przejść do twojego rozgałęzenia.
 
-4. Gdy ujrzysz coś podobnego do obrazka pod spodem, oznacza to, że utworzyłeś rozgałęznienie repozytorium `ppy/osu-wiki` oraz że znajdujesz się na nim.
+4. Gdy ujrzysz coś podobnego do obrazka pod spodem, oznacza to, że utworzyłeś rozgałęzienie repozytorium `ppy/osu-wiki` oraz że znajdujesz się na nim.
 
 ![](img/forked.jpg)
 
@@ -65,7 +65,7 @@ W tym momencie, masz dwie opcje:
 
 ### Tworzenie żądania ściągnięcia
 
-1. Przejdź do [repozytorium `ppy/osu-wiki`]((https://github.com/ppy/osu-wiki).
+1. Przejdź do [repozytorium `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
 2. Jeżeli byłeś dostatecznie szybki, możliwe że zobaczysz ten baner.
 
@@ -91,7 +91,7 @@ W tym momencie, masz dwie opcje:
 
 W przypadku tłumaczeń artykułów, uwzględnij dwuliterowy symbol języka, na który tłumaczysz dany artykuł, w nawiasie kwadratowym, przed tytułem. Tytułem może być po prostu nazwa(y) artykułu(ów), który tłumaczysz. Na przykład, `[FR] BBCode` oznaczałoby, że aktualizujesz Francuską translację [artykułu o kodzie BB](/wiki/BBCode).
 
-9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego żądania ściągnięcia, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twoje żądanie sciągnięcia automatycznie zamykało zagadnienia przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie zagadnień przy użyciu słów kluczowych]((https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
+9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego żądania ściągnięcia, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twoje żądanie sciągnięcia automatycznie zamykało zagadnienia przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie zagadnień przy użyciu słów kluczowych](https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
 
 10. Kiedy jesteś gotów, kliknij `Create pull request`.
 
@@ -105,4 +105,4 @@ Kiedy utworzysz swoje żądanie ściągnięcia, inni edytorzy wiki osu! będą m
 
 ### Scalanie
 
-Aby twoje zmiany pojawiły się na wiki osu!, twoje żądanie ściągnięcia musi zostać scalone. Kiedy twoje żądanie zostanie ocenione i zatwierdzone, możesz poprosić o scalenie go w komentarzach na GitHubie lub na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`). Twoje zmiany pojawią się po pięciu godzinach od scalenia na wiki osu!.
+Aby twoje zmiany pojawiły się na wiki osu!, twoje żądanie ściągnięcia musi zostać scalone. Kiedy twoje żądanie zostanie ocenione i zatwierdzone, możesz poprosić o scalenie go w komentarzach na GitHubie lub na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`). Twoje zmiany pojawią się na wiki osu! po pięciu godzinach od scalenia.
