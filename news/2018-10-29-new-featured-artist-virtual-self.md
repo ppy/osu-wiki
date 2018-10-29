@@ -40,7 +40,7 @@ Check them out:
 
 All of the tracks from the self-titled **Virtual Self** EP are now available as Featured Artist tracks, as well as a bonus track *Angel Voices*, a *'technic_Angel'* remix of *Ghost Voices*. As always, these maps (and their included videos) are 100% free for use in osu! mapping projects. Worry less, and map more!
 
-Check them out over at their [**Featured Artist listing**](https://osu.ppy.sh/artists/28)!
+Check them out over at their [**Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/28)!
 
 ---------
 
