@@ -189,4 +189,111 @@ To są dostępne ustawienia wyświetlania:
 
 Kliknij ikonę dymka, aby przywołać ekran **Szybkiego Dostępu do Mapy w Internecie** dla wybranej beatmapy:
 
-- Naciśnij `1` lub kliknij 
+- Naciśnij `1` lub kliknij przycisk z napisem `Lista Map/Wyniki` aby twoja domyślna przeglądarka wyświetliła stronę z listą beatmap w danym beatmapsecie oraz z wynikami osiągniętymi na danej beatmapie przez graczy.
+- Naciśnij `2` lub kliknij przycisk z napisem `Temat Beatmapy na Forum` aby twoja domyślna przeglądarka wyświetliła temat na forum danego beatmapsetu.
+- Naciśnij `3` lub kliknij przycisk z napisem `Szybka Odpowiedź` aby twoja domyślna przeglądarka wyświetliła stronę, na której możesz odpowiedzieć do tematu na forum danego beatmapsetu.
+- Naciśnij `4` lub `Esc` albo kliknij na przycisk z napisem `Anuluj` aby przejść do Ekranu Wyboru Piosenki.
+
+Kiedy wyświetlany jest ekran Szybkiego Dostępu do Mapy w Internecie, nie możesz korzystać z Konsoli Czatu oraz Konsoli Rozwijanego Czatu.
+
+### Piosenka
+
+![](img/Soloplay6.jpeg)
+
+Lista piosenek wyświetla wszystkie dostępne beatmapy. Różne beatmapy mogą być oznaczone różnymi kolorami:
+
+- **Różowy**: Ta beatmapa nie była jeszce grana.
+- **Pomarańczowy**: Ta beatmapa była grana lub wszystkie beatmapy z danego beatmapsetu zostały zagrane.
+- **Jasny Niebieski**: Inne beatmapy w tym samym beatmapsecie, widoczne gdy beatmapset jest rozwinięty.
+- **Biały**: Aktualnie wybrana beatmapa.
+
+Możesz nawigować listą beatmap przy użyciu kółka myszy, strzałek w górę oraz w dół, poprzez przeciąganie listy za pomocą lewego przycisku myszy lub poprzez klikanie prawym przyciskiem myszy (metoda zwana wcześniej Absolutnym Przewijaniem), co przewinie listę do pozycji Y twojego kursora. Aby wybrać beatmapę kliknij na nią lewym przyciskiem myszy, gdy to zrobisz, w lewym górnym rogu pojawią się informacje o beatmapie, po lewej twoje najlepsze wyniki (jeżeli takie istnieją) i jeżeli przeszedłeś daną mapę - ocena twojego najlepszego wyniku przedstawiona za pomocą litery. Naciśnij na beatmapę jeszcze raz, naciśnij `Enter` lub naciśnij osu!cookie w prawej dolnej części ekranu aby włączyć beatmapę.
+
+### Przybornik Gry
+
+![List of available game modes](img/Mode_screen.png)
+![](img/Soloplay7.jpeg)
+
+Ta sekcja może być nazwana przybornikiem gry. Omówimy użycie każdego przycisku od lewej do prawej.
+
+Naciśnij `Esc` lub kliknij przycisk z napisem `Back` aby powrócić do menu głównego.
+
+Naciśnij na przycisk z napisem `Mode` aby otworzyć listę dostępnych trybów gry dostępnych w osu! Kliknij na ikonkę trybu gry, który najbardziej Ci odpowiada a osu! zmieni go dla ciebie - tablice wyników odpowiednio się zmienią. Możesz także nacisnąć `Ctrl` a następnie `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch) lub `4` (osu!mania) by zmienić tryb gry.
+
+Transparentna ikona w tle oraz przycisk "Mode" zmienią się tak by przedstawić aktualnie wybrany tryb gry.
+
+![Game modifiers](img/Soloplay8.png)
+
+Kliknij przycisk z napisem `Mods` lub naciśnij `F1` aby wyświetlić **[Ekran Wyboru Modów](/wiki/Game_Modifiers/)**.
+
+Na tym ekranie możesz zastosować modyfikacje (w skrócie "mody") do rozgrywki. Niektóre mody zmniejszają poziom trudności i nakładają mnożnik, który obniża wynik, jaki osiągasz, za to inne zwiekszają poziom trudności i nakładają mnożnik, który zwiększa wynik, jaki osiągasz. Ostatecznie, niektóre mody zmieniają rozgrywkę w zupełnie inny sposób. [Relax](/wiki/Game_Modifiers/#Relax) i [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) należą do tej kategorii.
+Najedź kursorem na ikonkę moda aby zobaczyć krótki opis tego, jak zmienia rozgrywkę. Kliknij na ikonkę by zaznaczyć lub odznaczyć tego moda. Niektóre mody, takie jak Double Time, mają różne wariacje; kliknij na nie ponownie, by przejść dalej. Wartość mnożnika wyświetla łączny efekt, jaki mody które wybrałeś, bedą miały na twój wynik. Kliknij "Resetuj mody" lub naciśnij 1 aby odznaczyć wszystkie aktualnie wybrane mody. Kliknij `Zamknij` lub naciśnij `2` albo `Esc` aby powrócić do Ekranu Wyboru Piosenki.
+
+Gdy znajdujesz się na Ekranie Wyboru Modów nie możesz korzystać z Konsoli Czatu oraz Konsoli Rozwijanego Czatu. Skiny mogą zmienić tekst lub ikonę modu, ale nigdy nie zmienią jego efektu.
+
+Kliknij przycisk `Random` lub naciśnij `F2` aby **wylosować beatmapę**. Nie możesz wybrać mapy samemu, dopóki gra nie ukończy losowania.
+
+*Notka: Możesz nacisnąć `Shift` + przycisk `Random` lub `F2` aby powrócić do mapy zaznaczonej przed losowaniem.*
+
+![Possible commands for a beatmap](img/Soloplay9.jpeg)
+
+Kliknij na przycisk z napisem `Beatmap Options` lub naciśnij `F3` albo naciśnij na beatmapę prawym przyciskiem myszy aby przywołać **Menu Opcji Beatmapy, dla aktualnie wybranej beatmapy**.
+
+-   Naciśnij `1` lub kliknij przycisk z napisem `Zarządzaj kolekcjami` aby przywołać ekran Kolekcji - tutaj możesz zarządzać wcześniej stworzonymi kolekcjami oraz dodawać lub usuwać aktualnie wybraną beatmapę z lub do kolekcji.
+-   Naciśnij `2` lub kliknij przycisk z napisem `Usuń...` aby usunąć \[1\] aktualnie wybrany mapset, \[2\] aktualnie wybraną beatmapę lub \[3\] usunąć wszystkie beatmapy.
+    - Zauważ, że usunięte beatmapy są przenoszone do kosza.
+-   Naciśnij `3` lub kliknij przycisk z napisem `Zaznacz jako zagrane` aby oznaczyć mapę, której nigdy nie grałeś jako zagraną (zmienić kolor jej oznaczenia z różowego na pomarańczowy).
+-   Naciśnij `4` lub kliknij przycisk z napisem `Wyczyść wyniki lokalne` aby usunąć wszystkie powtórki z wyników, które osiągnąłeś na danej beatmapie.
+-   Naciśnij `5` lub kliknij przycisk z napisem `Edytuj` aby otworzyć wybraną mapę w edytorze osu!
+-   Naciśnij `6` lub `Esc` albo kliknij przycisk z napisem `Zamknij` aby powrócić do Ekranu Wyboru Piosenki.
+
+Kliknij na **twój panel użytkownika** aby uzyskać dostęp do **Menu Opcji Użytkownika**.
+
+Kliknij **[osu!cookie](/wiki/cookie)** aby **włączyć wybraną beatmapę**.
+
+## Ekran Rankingowy
+
+### Ekran Oceny
+
+![Accuracy in osu!standard](img/Accuracy_osu!.jpg)
+
+Tak wygląda ekran oceny zaraz po tym, gdy przejdziesz mapę. Możesz uzyskać dostęp do wyników online, przewijając w dół lub naciskając oczywisty przycisk.
+
+**Notka:** Wygląd oceny będzie się zmieniał w zależności od użytego skina.
+
+Pod spodem znajdują się ekrany ocen innych trybów gry.
+
+![Accuracy in Taiko](img/Accuracy_Taiko.jpg "osu!taiko")
+
+![Accuracy in osu!mania](img/Accuracy_Mania.jpg "osu!mania")
+
+![Accuracy in Catch the Beat](img/Accuracy_CtB.jpg "osu!catch")
+
+### Ranking Online
+
+![Right: Example of an osu!online score. (6) was edited in.](img/Osu!_Online_score.jpg)
+
+To jest twój ranking online. Możesz do niego przejść poprzez przewinięcie w dół na ekranie oceny. Twój Ranking Lokalny będzie pokazywać twoją nazwę użytkownika oraz wynik, tak jak zwykle.
+
+1. Tutaj możesz zmienić nazwę użytkownika wyświetlaną przy tym wyniku.
+2. Twój pasek gracza. Pokazuje twoje [PP](/wiki/pp), twój Ranking Globalny, Całkowity Wynik i Ogólną [Celność](/wiki/Accuracy) wraz z paskiem doświadczenia.
+3. Twoje opcje dotyczące beatmapy.
+    1.  Zapisz powtórkę jako plik `.osr`.
+    2.  Dodaj beatmapę do ulubionych. Twoje ulubione mapy są wyświetlane w sekcji "Ulubione beatmapy".
+4. Tutaj widzimy jak bardzo spadłeś lub wskoczyłeś w Rankingu Globalnym, jak dużo punktów zostało dodanych do twojego Całkowitego Wyniku oraz jak bardzo zmieniła się twoja Całkowita Celność, dzięki zagraniu tej beatmapy.
+5. Tu chyba nic nie trzeba wyjaśniać. Nie pojawi się jeżeli jesteś offline lub beatmapa została zaktualizowana.
+    1.  Ranking: Twoje miejsce w Rankingu Ogólnym mapy. Obejmuje także powtórki zawierające mody, nawet jeżeli sam żadnych nie używałeś.
+    2.  Ogólne: Twoje miejsce w Rankingu Ogólnym trybu gry, w którym obecnie się znajdujesz, nie tylko w rankingu beatmapy.
+    3.  Celność: Będzie naliczany tylko wtedy, kiedy pobijesz swój poprzedni rekord. Jest średnią wszystkich beatmap, które przeszedłeś.
+    4.  Rankingowy wynik: Twój wynik rankingowy. Jeżeli jest to zatwierdzona piosenka, nie podniesie się wcale.
+    5.  Łączny wynik: Twój wynik całkowity. Wzrośnie nawet jeżeli nie przejdziesz mapy lub nie pobijesz swojego poprzedniego wyniku.
+    6.  Do następnego miejsca: Jak dużo punktów potrzebujesz aby wznieść się w rankingu mapy.
+6. To samo co w punkcie 4, jednak pojawiają sie tutaj tylko comiesięczne [Rankingi](https://osu.ppy.sh/p/chart)
+7. Beatmapa wraz z historią zagrań i wkaźnikiem przejścia.
+8. Ocena mapy. Oceń mapę odpowiednio jeżeli ci się podobała jak i nie podobała. Jeżeli nie możesz się zdecydować - pomiń ocenianie.
+9. Wróć do Wyboru Piosenki.
+
+![Unlocking a medal](img/MedalUnlock.jpg)
+
+Na górze widzimy, jak wygląda zdobycie medalu.
+ 
