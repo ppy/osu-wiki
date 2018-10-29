@@ -52,9 +52,9 @@ Notki:
 | Edycja Konkursu           | Beatmapa                                                                                     | Tryb Gry                 | Twórca                                          | Wyniki                                         | Przyznane Punkty                                                 |
 |:---------------------:|---------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
 | Aspire 2016           | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689)                              | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438)       | [Wyniki](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Przyznane Punkty #1](https://osu.ppy.sh/p/contestresults?c=22)   |
-| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Wyniki](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Przyznane Punkty #2](https://osu.ppy.sh/community/contests/43)   |
-| Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033)                                   | ![osu!taiko][o!t]    | [Supairo](https://osu.ppy.sh/users/2837231)         |  [Wyniki](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Przyznane Punkty #3](https://osu.ppy.sh/community/contests/47) |
-| Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY                                                                  | ![osu!catch][o!c]    | TBA | TBA | TBA |
+| Aspire 2017 Runda Pierwsza | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Wyniki](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Przyznane Punkty #2](https://osu.ppy.sh/community/contests/43)   |
+| Aspire 2017 Runda Druga | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033)                                   | ![osu!taiko][o!t]    | [Supairo](https://osu.ppy.sh/users/2837231)         |  [Wyniki](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Przyznane Punkty #3](https://osu.ppy.sh/community/contests/47) |
+| Aspire 2017 Runda Trzecia | OISHII - ONIGIRI FREEWAY                                                                  | ![osu!catch][o!c]    | TBA | TBA | TBA |
 
 ## Comiesięczny Konkurs Fanartów
 
@@ -86,7 +86,7 @@ osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają pio
 |---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Pierwsze   | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction                                                |
 | Drugie  | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix-                           | EastNewSound                                                   |
-| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown*                                                   | *unknown*                                                      |
+| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/4490361) - *nieznany*                                                   | *nieznany*                                                      |
 
 
 - [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
@@ -114,7 +114,7 @@ osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają pio
 |---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Pierwsze   | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w)  |
 | Drugie  | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs) |
-| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                 |
+| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *nieznany*                                                 |
 
 
 - [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
