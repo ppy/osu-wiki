@@ -606,7 +606,7 @@ To enable raw input, follow these steps:
 
 **You can solve this problem by defining a smaller tablet area for your device.**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](https://w.ppy.sh/d/dc/Tabarea.png).
+On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](wiki/Help_Centre/Tabarea.png).
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
