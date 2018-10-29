@@ -60,4 +60,185 @@ Notki:
 
 Notki:
 
-- Zwycięzca wygrywa jeden 
+- Dwóch zwycięzców (wybranych przez zespół osu! oraz publiczne głosowanie) otrzyma status donatora osu! na cały rok oraz table osu!/maskotkę Pippi.
+- Osoby na drugim miejscu uzyskują statuś donatora na miesiąc.
+
+Możesz zobaczyć galerię każdego konkursu [na Facebooku](https://www.facebook.com/osugame).
+
+## Konkursy Sklepu osu!
+
+Notki:
+
+- Zwycięzca wygrywa **osu! store pack** (1x tablet osu!, 1x zestaw naklejek osu! \#2, status donatora na 6 miesięcy).
+- Osoby na drugim miejscu otrzymują status donatora na 4 miesiące.
+
+| Edycja Konkursu | Tytuł                           | Wymagania                                  | Wybory Zwycięzcy | Artykuł na forum                                         | Wyniki |
+|:-----------:|---------------------------------|----------------------------------------------|--------------------|----------------------------------------------|---------|
+| 1           | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WYGRANA)              | [Artykuł na forum](https://osu.ppy.sh/news/114095906408) | N/A     |
+
+## osu!idol
+
+osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają piosenki o zróżnicowanych gatunkach muzycznych. Oficjalni sędziowie oraz społeczność osu! zadecyduje o tym, kto wygra.
+
+### 2014
+
+| Miejsce | Wyniki                                                                                                 | Oryginalny Wykonawca                                                       |
+|---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Pierwsze   | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction                                                |
+| Drugie  | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix-                           | EastNewSound                                                   |
+| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown*                                                   | *unknown*                                                      |
+
+
+- [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
+- [Post w Aktualnościach](https://osu.ppy.sh/news/95662228778)
+- [Post z Wynikami](https://osu.ppy.sh/news/106902823593)
+- [Oficjalny Post](https://osu.ppy.sh/forum/t/234545)
+
+### 2015
+
+| Miejsce | Wyniki                                                                                                 | Oryginalny Wykonawca                                                       |
+|---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Pierwsze   | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA)                  | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8)  |
+| Drugie  | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl)             | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| Trzecie   | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4)                 |
+
+
+- [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
+- [Post w Aktualnościach](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
+- [Post z Wynikami](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
+- [Oficjalny Post](https://osu.ppy.sh/forum/t/352608)
+
+### 2016
+
+| Miejsce | Wyniki                                                                                                 | Oryginalny Wykonawca                                                       |
+|---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Pierwsze   | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w)  |
+| Drugie  | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs) |
+| Trzecie   | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                 |
+
+
+- [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
+- [Post w Aktualnościach](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
+- [Post z Wynikami](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
+- [Oficjalny Post](https://osu.ppy.sh/forum/t/448842)
+
+### 2017
+
+| Miejsce | Wyniki                                                                                                 | Oryginalny Wykonawca                                                       |
+|---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Pierwsze   | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)          | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw)                        |
+| Drugie  | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)              | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc)        |
+| Trzecie   | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)         | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE)                           |
+
+
+- [Archiwalny arkusz dla wszystkich etapów (sprawdź korzystając z kart poniżej arkusza)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
+- [Post w Aktualnościach](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
+- [Post z Wynikami](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
+- [Oficjalny Post](https://osu.ppy.sh/forum/t/617845)
+
+
+## Konkursy Społecznościowe
+
+Nieoficjalne konkursy prowadzone przez społeczność osu!
+
+### Puchar Beatmap Oczekujących na Zatwierdzenie
+
+Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beatmap, w którym uczestniczą głownie zawodnicy z Chin. Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie zachęcają do kreatywności i stosowania się do głównych zasad mapowania, pośród wszystkich poziomów zaawansowania - w szczególności wśród początkujących twórców.
+
+#### Puchar Beatmap Oczekujących na Zatwierdzenie \#1 (2013)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | TERRA - 華爛漫 -Flowers-               | [buhei](https://osu.ppy.sh/users/1371514)          | [Flask](https://osu.ppy.sh/users/959763)           | [Nyquill](https://osu.ppy.sh/users/682935)         |
+| 2         | 葉月ゆら - 宵闇花火                     | [Lan Wings](https://osu.ppy.sh/users/467860)       | [Kotone](https://osu.ppy.sh/users/26507)           | [Regou](https://osu.ppy.sh/users/419954)           |
+| 3         | An - アートコア神社                     | [Flower](https://osu.ppy.sh/users/1033017)         | [Amamiya Yuko](https://osu.ppy.sh/users/873961)    | [Regou](https://osu.ppy.sh/users/419954)           |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/135492)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/152966)
+
+#### Puchar Beatmap Oczekujących na Zatwierdzenie \#2 (2014)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | Sharlo & Sabbo - 桜の花が舞い落ちるとき  | [Loneight](https://osu.ppy.sh/users/663131)        | [Macuilxochitl](https://osu.ppy.sh/users/418699)   | [eveless](https://osu.ppy.sh/userssers/102976)         |
+| 2         | 木製みゅーと - 七つ一旋桜                | [OSUtoto](https://osu.ppy.sh/users/847182)         | [bo0O0od](https://osu.ppy.sh/users/530547)         | [Kawaiwkyik](https://osu.ppy.sh/users/1367570)     |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/229019)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/243930)
+
+#### Puchar Beatmap Oczekujących na Zatwierdzenie \#3 (2015)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 挨批熊 - 权御天下                       | [Regraz](https://osu.ppy.sh/users/3076909)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [jonathanlfj](https://osu.ppy.sh/users/270377)     |
+| 2         | 削除 - Imprinting                      | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017)        |
+| 3         | P*Light - YELLOW SPLASH!!              | [fanzhen0019](https://osu.ppy.sh/users/418699)     | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Minakami Yuki](https://osu.ppy.sh/users/2433507)  |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/345263)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/373843)
+
+### Puchar Beatmap Oczekujących na Zatwierdzenie \#4 (2016)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | ClariS - SECRET                               | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [handsome](https://osu.ppy.sh/users/2123087)       | [Snowy Wings](https://osu.ppy.sh/users/2234810)    |
+| 2         | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [rui](https://osu.ppy.sh/users/74313)              | [yf_bmp](https://osu.ppy.sh/users/1243669)         |
+| 3         | Dollscythe - Flashes (Extended)               | [Skystar](https://osu.ppy.sh/users/873961)         | [Level9](https://osu.ppy.sh/users/7232130)         | [Frostings](https://osu.ppy.sh/users/2652543)      |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/482629)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/504645)
+
+#### Puchar Beatmap Oczekujących na Zatwierdzenie \#5 (2017)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 霜月はるか - 白夜幻想谭        | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Level9](https://osu.ppy.sh/users/7232130)       | [Kibbleru](https://osu.ppy.sh/users/3193504)    |
+| 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Garden](https://osu.ppy.sh/users/2849992)              | [Ellyu](https://osu.ppy.sh/users/4438154)         |
+| 3         | かめりあ - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/620182)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/640906)
+
+### Puchar ???
+
+Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do spróbowania swoich sił w tworzeniu beatmap oraz rozwijanie umiejętności tworzenia map użytkowników z Chin.
+
+#### Puchar ??? \#1 (2015)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/users/2775906)         | [Philosophy2](https://osu.ppy.sh/users/372256)     | [bread129988](https://osu.ppy.sh/users/2010665)    |
+| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/u/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/272739)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/312154)
+
+#### Puchar ??? \#2 (2016)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/u/3420746)           |
+| 2         | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/users/3280555)   | [liaoxingyao](https://osu.ppy.sh/users/3620963)    | [Kencho](https://osu.ppy.sh/users/3178411)     |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/415669)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/432070)
+
+#### Puchar ??? \#3 (2017)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/u/4121612)                 |
+| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/u/1393255)  |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/546038)
+- [Post z Wynikami](https://osu.ppy.sh/forum/t/570350)
+
+#### Puchar ??? \#4 (2017)
+
+| Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 葉月ゆら - サラマンドラの踊り子             |  TBA           | TBA                 |
+| 2         | P＊Light - SAY BAY           | TBA              | TBA  |
+
+- [Temat na Forum](https://osu.ppy.sh/forum/t/690824)
+- Post z Wynikami - TBA
