@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 Turnieje
 ===============
 
@@ -33,11 +29,12 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Tajwan | ![][flag_JP] Japonia | ![][flag_CN] Chiny |
 | [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-03 | 2012-04-01 | ![][flag_JP] Japonia A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japonia B |
-| Taiko World Cup \#3                                | 2012-09-22 | 2013-03-24 | ![][flag_TW] Tajwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japonia A |
+| [Taiko World Cup \#3](/wiki/Tournaments/TWC/3)     | 2012-09-22 | 2013-03-24 | ![][flag_TW] Tajwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japonia A |
 | [Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japonia | ![][flag_HK] Hong Kong | ![][flag_FR] Francja |
 | [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_FR] Francja |
 | [Taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
 | [Taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_HK] Hong Kong |
+| [Taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat World Cup
 
@@ -49,6 +46,7 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Korea Południowa | ![][flag_CN] Chiny | ![][flag_DE] Niemcy |
 | [Catch the Beat World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Chiny | ![][flag_ID] Indonezja | ![][flag_DE] Niemcy |
 | [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Korea Południowa | ![][flag_CN] Chiny | ![][flag_ID] Indonezja |
+| [Catch the Beat World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] Chiny | ![][flag_US] Stany Zjednoczone | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -61,6 +59,8 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4K | ![][flag_KR] Korea Południowa | ![][flag_BR] Brazylia | ![][flag_US] Stany Zjednoczone |
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] Korea Południowa | ![][flag_CN] Chiny | ![][flag_ID] Indonezja |
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] Korea Południowa | ![][flag_US] Stany Zjednoczone | ![][flag_BR] Brazylia |
+| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Korea Południowa | 
+![][flag_US] Stany Zjednoczone | ![][flag_CN] Chiny |
 
 Społeczność
 ----------
@@ -71,7 +71,8 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #5](/wiki/Tournaments/RMoT_Invitational/5) | 2018-05-12 | 2018-05-27 | ![][flag_FR] [Prosdokies](/users/3852436) | ![][flag_RU] [Well Halen](/users/8660244) | ![][flag_RU] [KoloMl](/users/6544403) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
