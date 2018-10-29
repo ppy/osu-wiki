@@ -66,7 +66,7 @@ Uzyskaj dostęp do tego ekranu poprzez kliknięcie na swój profil, znajdujący 
 4. Lista graczy - wyświetla nazwy użytkownika, rangę (host lub gracz), aktywowane mody (jeżeli są aktywowane, zobacz #7), ich ranking w osu! oraz ich drużynę (jeżeli istnieje na nie podział).
 5. Nazwa meczu i ustawienia hasła.
 6. Wybrana beatmapa. Wyświetlana dokładnie tak samo jak w ekranie gry jednoosobowej.
-7. Mody, które aktywowałeś (zobacz #12), jak również opcja wybrania ich. Opcja "Free Mods" określa, czy gracze mogą samodzielnie wybierać swoje własne mody. Jeżeli jest zaznaczona, gracze mogą wybrać jakąkolwiek kombinację modów, *z wyjątkiem modów zmieniających szybkość mapy jak Double Time*. Jeżeli opcja jest odznaczona, host decyduje o tym, jakie mody zostaną użyte. Host może wybrać mody zmieniające szybkość mapy, bez względu na to, czy opcja jest zaznaczona.
+7. Mody, które aktywowałeś (zobacz #12), jak również opcja wybrania ich. Opcja "Free Mods" określa, czy gracze mogą samodzielnie wybierać swoje własne mody. Jeżeli jest zaznaczona, gracze mogą wybrać jakąkolwiek kombinację modów, *z wyjątkiem modów zmieniających szybkość beatmapy jak Double Time*. Jeżeli opcja jest odznaczona, host decyduje o tym, jakie mody zostaną użyte. Host może wybrać mody zmieniające szybkość beatmapy, bez względu na to, czy opcja jest zaznaczona.
 8. Tryb drużynowy i warunki wygranej.
 9. Przycisk gotowości do gry.
 10. [Konsola czatu](/wiki/Chat_Console).
@@ -91,17 +91,17 @@ Zanim przejdziemy dalej, trzeba wspomnieć o tym, że ten ekran ma zbyt wiele el
 ![soloplay2.png](img/Soloplay2.jpeg)
 ![soloplay2.5.png](img/Soloplay2.5.jpeg)
 
-Ta część wyświetla *informacje na temat poziomu trudności aktualnie wybranej beatmapy*. Domyślnie, beatmapa, której piosenkę słyszymy poprzez szafę grającą osu!, jest automatycznie wyubierana, gdy przechodzimy do ekranu wyboru piosenki. W lewym górnym rogu wyświetlona jest informacja o statusie rankingowym beatmapy. Obok znajduje się tytuł. Domyślnie, wyświetlany jest zromanizowany tytuł, lecz jeżeli wybierzesz opcję `Stosuj oryginalne nazewnictwo` w [Opcjach](/wiki/Options/), będzie wyświetlany oryginalny tytuł; jak pokazano na obrazku powyżej. Wyświetlany jest także twórca beatmapy, a informacje o beatmapie wyświetlane są pod spodem. Od lewej do prawej wyświetla wartości:
+Ta część wyświetla *informacje na temat poziomu trudności aktualnie wybranej beatmapy*. Domyślnie, beatmapa, której piosenkę słyszymy poprzez szafę grającą osu!, jest automatycznie wybierana, gdy przechodzimy do ekranu wyboru piosenki. W lewym górnym rogu wyświetlona jest informacja o statusie rankingowym beatmapy. Obok znajduje się tytuł. Domyślnie, wyświetlany jest zromanizowany tytuł, lecz jeżeli wybierzesz opcję `Stosuj oryginalne nazewnictwo` w [Opcjach](/wiki/Options/), będzie wyświetlany oryginalny tytuł; jak pokazano na obrazku powyżej. Wyświetlany jest także twórca beatmapy, a informacje o beatmapie wyświetlane są pod spodem. Od lewej do prawej wyświetlane są wartości:
 
 - **Długość**: Całkowita długość beatmapy, od początku do końca, z uwzględnieniem przerw. Nie można jej jednak mylić z [Czasem Poboru Życia](/wiki/Glossary/#drain-time).
-- **BPM**: Uderzenia na minutę mapy. Jeżeli (tak jak przedstawiono to na dolnym obrazku) wyświetlone są dwie liczby oddzielone myślnikiem oraz jedna w nawiasie, oznacza to, że BPM zmienia się w trakcie trwania piosenki. Pokazuje najwolniejsze i najszybsze BPM, a wartość w nawiasie to BPM na początku mapy.
-- **Obiekty**: Ilość [obiektów](/wiki/Hit_Objects/) na mapie.
-- **Kółka**: Ilość kółek na mapie.
-- **Slidery**: Ilość sliderów na mapie.
-- **Spinnery**: Ilość spinnerów na mapie.
-- **OD**: Ogólny poziom trudności mapy.
+- **BPM**: Uderzenia na minutę beatmapy. Jeżeli (tak jak przedstawiono to na dolnym obrazku) wyświetlone są dwie liczby oddzielone myślnikiem oraz jedna w nawiasie, oznacza to, że BPM zmienia się w trakcie trwania piosenki. Pierwsza liczba to najwolniejsze BPM, natomiast druga - najszybsze, a wartość w nawiasie to BPM na początku beatmapy.
+- **Obiekty**: Ilość [obiektów](/wiki/Hit_Objects/) na beatmapie.
+- **Kółka**: Ilość kółek na beatmapie.
+- **Slidery**: Ilość sliderów na beatmapie.
+- **Spinnery**: Ilość spinnerów na beatmapie.
+- **OD**: Ogólny poziom trudności beatmapy.
 - **HP**: Tempo poboru życia. W osu!standard określa on ilość życia jaką tracisz, gdy przegapisz notę, jak szybko samoistnie pobierane jest życie z twojego paska życia i jak dużo życia dostajesz, kiedy uderzysz w notę. W osu!mania działa to tak samo, z wyjątkiem tego, że w tym trybie gry życie nie jest samoistnie pobierane z twojego paska życia. W osu!taiko, HP determinuje jak szybko pasek życia się wypełnia oraz jak dużo życia tracisz, gdy przegapisz notę. W osu!catch działa to tak samo jak w osu!standard.
-- **Stars**: Trudność mapy wyrażona w gwiazdkach. Jest ona także graficznie przedstawiona w prostokącie beatmapy.
+- **Stars**: Trudność beatmapy wyrażona w gwiazdkach. Jest ona także graficznie przedstawiona w prostokącie beatmapy.
 
 ### Grupowanie i Sortowanie
 
@@ -131,7 +131,7 @@ Pierwsze pięć grupowań dostępnych jest jako karty nad listami Grupuj i Sortu
 **Sortowanie** - Sortuje beatmapy w określonej kolejności.
 
 - `Po Wykonawcy` - Beatmapy będą posortowane alfabetycznie względem pierwszej litery nazwy/imienia wykonawcy.
-- `Po BPM` - Beatmapy będą posortowane względem ich BPM, od najmniejszego do największego. Dla map ze zmieniającym się BPM zostanie użyta najwyższa wartość.
+- `Po BPM` - Beatmapy będą posortowane względem ich BPM, od najmniejszego do największego. Dla beatmap ze zmiennym BPM zostanie użyta najwyższa wartość.
 - `Po Twórcy` - Beatmapy będą posortowane alfabetycznie względem pierwszej litery nazwy/imienia twórcy.
 - `Po Dacie Dodania` - Beatmapy będą posortowane względem daty dodania, od najnowszej do najstarszej.
 - `Po Trudności` - Beatmapy będą posortowane względem ich trudności w gwiazdkach, od najłatwiejszej do najtrudniejszej.
