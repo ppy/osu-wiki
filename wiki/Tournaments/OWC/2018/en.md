@@ -51,6 +51,49 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+
+## Participants
+
+_Pending Rosters_
+
+| | Country | Members |
+| ---: | :---: | :--- |
+| ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/u/2212941)** |
+| ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/u/4919398)** |
+| ![][flag_AT] | **Austria** | **[goosefedora](https://osu.ppy.sh/u/2323131)** |
+| ![][flag_BE] | **Belgium** | **[Yentis](https://osu.ppy.sh/u/345516)** |
+| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/u/1558603)** |
+| ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/u/2155578)** |
+| ![][flag_CL] | **Chile** | **[Mathi](https://osu.ppy.sh/u/5339515)** |
+| ![][flag_CN] | **China** | **[MatsumotoRise](https://osu.ppy.sh/u/672726)** |
+| ![][flag_CZ] | **Czech Republic** | **[Electrovoid](https://osu.ppy.sh/u/3853840)** |
+| ![][flag_DK] | **Denmark** | **[Spork Lover](https://osu.ppy.sh/u/3417469)** |
+| ![][flag_FI] | **Finland** | **[Nyanaro](https://osu.ppy.sh/u/4157611)** |
+| ![][flag_FR] | **France** | **[ThePooN](https://osu.ppy.sh/u/718454)** |
+| ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/u/754565)** |
+| ![][flag_HK] | **Hong Kong** | **[- G I D Z -](https://osu.ppy.sh/u/2286528)** |
+| ![][flag_ID] | **Indonesia** | **[Fuma](https://osu.ppy.sh/u/1501956)** |
+| ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/u/4448118)** |
+| ![][flag_JP] | **Japan** | **[Delis](https://osu.ppy.sh/u/1603923)** |
+| ![][flag_MX] | **Mexico** | **[Atsuro](https://osu.ppy.sh/u/2279351)** |
+| ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/u/3086393)** |
+| ![][flag_NO] | **Norway** | **[-GN](https://osu.ppy.sh/u/895581)** |
+| ![][flag_PL] | **Poland** | **[Rafis](https://osu.ppy.sh/u/2558286)** |
+| ![][flag_RO] | **Romania** | **[badeu](https://osu.ppy.sh/u/1473890)** |
+| ![][flag_RU] | **Russian Federation** | **[follon](https://osu.ppy.sh/u/3973474)** |
+| ![][flag_SK] | **Slovakia** | **[AtHeoN](https://osu.ppy.sh/u/1770367)** |
+| ![][flag_SG] | **Singapore** | **[GSBlank](https://osu.ppy.sh/u/2312106)** |
+| ![][flag_KR] | **South Korea** | **[Gomo Pslvarh](https://osu.ppy.sh/u/1206417)** |
+| ![][flag_ES] | **Spain** | **[kazamabc](https://osu.ppy.sh/u/6937470)** |
+| ![][flag_SE] | **Sweden** | **[-Kupo-](https://osu.ppy.sh/u/4343103)** |
+| ![][flag_TW] | **Taiwan** | **[Flask](https://osu.ppy.sh/u/959763)** |
+| ![][flag_TH] | **Thailand** | **[Trigonoculus](https://osu.ppy.sh/u/7627013)** |
+| ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/u/5182050)** |
+| ![][flag_US] | **United States** | **[Toy](https://osu.ppy.sh/u/4919398)** |
+
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 _The mappools will be revealed one week before each particular stage_
@@ -188,39 +231,34 @@ _The mappools will be revealed one week before each particular stage_
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_CZ]: /wiki/shared/flag/CZ.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_SK]: /wiki/shared/flag/SK.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
