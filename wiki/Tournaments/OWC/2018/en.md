@@ -58,38 +58,38 @@ _Pending Rosters_
 
 | | Country | Members |
 | ---: | :---: | :--- |
-| ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/u/2212941)** |
-| ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/u/4919398)** |
-| ![][flag_AT] | **Austria** | **[goosefedora](https://osu.ppy.sh/u/2323131)** |
-| ![][flag_BE] | **Belgium** | **[Yentis](https://osu.ppy.sh/u/345516)** |
-| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/u/1558603)** |
-| ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/u/2155578)** |
-| ![][flag_CL] | **Chile** | **[Mathi](https://osu.ppy.sh/u/5339515)** |
-| ![][flag_CN] | **China** | **[MatsumotoRise](https://osu.ppy.sh/u/672726)** |
-| ![][flag_CZ] | **Czech Republic** | **[Electrovoid](https://osu.ppy.sh/u/3853840)** |
-| ![][flag_DK] | **Denmark** | **[Spork Lover](https://osu.ppy.sh/u/3417469)** |
-| ![][flag_FI] | **Finland** | **[Nyanaro](https://osu.ppy.sh/u/4157611)** |
-| ![][flag_FR] | **France** | **[ThePooN](https://osu.ppy.sh/u/718454)** |
-| ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/u/754565)** |
-| ![][flag_HK] | **Hong Kong** | **[- G I D Z -](https://osu.ppy.sh/u/2286528)** |
-| ![][flag_ID] | **Indonesia** | **[Fuma](https://osu.ppy.sh/u/1501956)** |
-| ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/u/4448118)** |
-| ![][flag_JP] | **Japan** | **[Delis](https://osu.ppy.sh/u/1603923)** |
-| ![][flag_MX] | **Mexico** | **[Atsuro](https://osu.ppy.sh/u/2279351)** |
-| ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/u/3086393)** |
-| ![][flag_NO] | **Norway** | **[-GN](https://osu.ppy.sh/u/895581)** |
-| ![][flag_PL] | **Poland** | **[Rafis](https://osu.ppy.sh/u/2558286)** |
-| ![][flag_RO] | **Romania** | **[badeu](https://osu.ppy.sh/u/1473890)** |
-| ![][flag_RU] | **Russian Federation** | **[follon](https://osu.ppy.sh/u/3973474)** |
-| ![][flag_SK] | **Slovakia** | **[AtHeoN](https://osu.ppy.sh/u/1770367)** |
-| ![][flag_SG] | **Singapore** | **[GSBlank](https://osu.ppy.sh/u/2312106)** |
-| ![][flag_KR] | **South Korea** | **[Gomo Pslvarh](https://osu.ppy.sh/u/1206417)** |
-| ![][flag_ES] | **Spain** | **[kazamabc](https://osu.ppy.sh/u/6937470)** |
-| ![][flag_SE] | **Sweden** | **[-Kupo-](https://osu.ppy.sh/u/4343103)** |
-| ![][flag_TW] | **Taiwan** | **[Flask](https://osu.ppy.sh/u/959763)** |
-| ![][flag_TH] | **Thailand** | **[Trigonoculus](https://osu.ppy.sh/u/7627013)** |
-| ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/u/5182050)** |
-| ![][flag_US] | **United States** | **[Toy](https://osu.ppy.sh/u/4919398)** |
+| ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/users/2212941)** |
+| ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/users/3997580)** |
+| ![][flag_AT] | **Austria** | **[goosefedora](https://osu.ppy.sh/users/2323131)** |
+| ![][flag_BE] | **Belgium** | **[Yentis](https://osu.ppy.sh/users/345516)** |
+| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/users/1558603)** |
+| ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/users/2155578)** |
+| ![][flag_CL] | **Chile** | **[Mathi](https://osu.ppy.sh/users/5339515)** |
+| ![][flag_CN] | **China** | **[MatsumotoRise](https://osu.ppy.sh/users/672726)** |
+| ![][flag_CZ] | **Czech Republic** | **[Electrovoid](https://osu.ppy.sh/users/3853840)** |
+| ![][flag_DK] | **Denmark** | **[Spork Lover](https://osu.ppy.sh/users/3417469)** |
+| ![][flag_FI] | **Finland** | **[Nyanaro](https://osu.ppy.sh/users/4157611)** |
+| ![][flag_FR] | **France** | **[ThePooN](https://osu.ppy.sh/users/718454)** |
+| ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/users/754565)** |
+| ![][flag_HK] | **Hong Kong** | **[- G I D Z -](https://osu.ppy.sh/users/2286528)** |
+| ![][flag_ID] | **Indonesia** | **[Fuma](https://osu.ppy.sh/users/1501956)** |
+| ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/users/4448118)** |
+| ![][flag_JP] | **Japan** | **[Delis](https://osu.ppy.sh/users/1603923)** |
+| ![][flag_MX] | **Mexico** | **[Atsuro](https://osu.ppy.sh/users/2279351)** |
+| ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/users/3086393)** |
+| ![][flag_NO] | **Norway** | **[-GN](https://osu.ppy.sh/users/895581)** |
+| ![][flag_PL] | **Poland** | **[Rafis](https://osu.ppy.sh/users/2558286)** |
+| ![][flag_RO] | **Romania** | **[badeu](https://osu.ppy.sh/users/1473890)** |
+| ![][flag_RU] | **Russian Federation** | **[follon](https://osu.ppy.sh/users/3973474)** |
+| ![][flag_SK] | **Slovakia** | **[AtHeoN](https://osu.ppy.sh/users/1770367)** |
+| ![][flag_SG] | **Singapore** | **[GSBlank](https://osu.ppy.sh/users/2312106)** |
+| ![][flag_KR] | **South Korea** | **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)** |
+| ![][flag_ES] | **Spain** | **[kazamabc](https://osu.ppy.sh/users/6937470)** |
+| ![][flag_SE] | **Sweden** | **[-Kupo-](https://osu.ppy.sh/users/4343103)** |
+| ![][flag_TW] | **Taiwan** | **[Flask](https://osu.ppy.sh/users/959763)** |
+| ![][flag_TH] | **Thailand** | **[Trigonoculus](https://osu.ppy.sh/users/7627013)** |
+| ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
+| ![][flag_US] | **United States** | **[Toy](https://osu.ppy.sh/users/4919398)** |
 
 
 ------------------------------------------------------------------------
