@@ -2,16 +2,16 @@
 
 <!-- *Zobacz także: [Instalacja/OS X](/wiki/Installation/OS_X) oraz [Instalacja/Linux](/wiki/Installation/Linux).* -->
 
-Ta strona przybliży ci proces instalacji osu! na urządzeniach z systemem Windows. [Akademia osu!](/wiki/osu!academy) ma [poradnik wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ), który wyjaśnia jak zainstalować osu! na urządzeniach z systemem Windows.
+Ta strona przybliży ci proces instalacji osu! na urządzeniach z systemem Windows. [Akademia osu!](/wiki/osu!academy) nagrała [poradnik wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ), który wyjaśnia jak zainstalować osu! na urządzeniach z systemem Windows.
 
 ## Minimalne wymagania systemowe
 
--   Microsoft .NET Framework 4+ (instalator powinien automatycznie zasugerować ci zainstalowanie go, w przeciwnym przypadku, link do pobrania możesz pobrać go [tutaj](https://www.microsoft.com/pl-pl/download/details.aspx?id=48130))
+-   Microsoft .NET Framework 4+ (instalator powinien automatycznie zasugerować ci zainstalowanie go, w przeciwnym przypadku, możesz pobrać go [tutaj](https://www.microsoft.com/pl-pl/download/details.aspx?id=48130))
 -   Przyzwoita karta graficzna
 
 ## Instalacja osu!
 
-1.  Pobierz [instalator osu!](/home/download).
+1.  Pobierz [instalator osu!](/home/download)
 2.  Znajdź pobrany przez ciebie plik i otwórz go.
 3.  Kiedy instalator się uruchamia, masz dziesięć sekund, aby wybrać miejsce instalacji.
     -   Jeżeli chcesz je zmienić, naciśnij na tekst pod napisem "Witaj!" i wybierz miejsce instalacji.
