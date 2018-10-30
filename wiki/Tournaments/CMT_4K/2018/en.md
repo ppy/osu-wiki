@@ -57,29 +57,50 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-The following time are based on UTC+08 timezone.
+The following time are based on UTC+08 timezone.  
+Knock-Out Stages' match time will be announced in [statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx).
 
-### Saturday, 27. October 2018
-
-| Match Time | PlayerBlue |  | PlayerRed |
-| :-: | :-: | :-: | :-: |
-| 11:00 | zero2snow | vs | ByeForNow |
-| 20:00 | Sakaki | vs | HDRoop\_7 |
-| 21:00 | 704661982 | vs | \[Crz\]Minato |
-| 22:00 | alisi | vs | CaOH2 |
-
-### Sunday, 28. October 2018
+### Saturday, 3. November 2018
 
 | Match Time | PlayerBlue |  | PlayerRed |
 | :-: | :-: | :-: | :-: |
-| 16:00 | w a d u | vs | C Eru |
-| 20:00 | cheewee10 | vs | \[Crz\]Murasame |
-| 21:00 | yin xiaosong | vs | Orangejuice |
-| 22:00 | Stink God | vs | AradORiOn\_MMM |
+| 11:00 | Stink God | vs | zero2snow |
+| 14:00 | C Eru | vs | \[Crz\]Murasame |
+| 17:00 | CaOH2 | vs | Sakaki |
+
+### Sunday, 4. November 2018
+
+| Match Time | PlayerBlue |  | PlayerRed |
+| :-: | :-: | :-: | :-: |
+| 11:00 | \[Crz\]Minato | vs | ByeForNow |
+| 15:00 | HDRoop\_7 | vs | cheewee10 |
+| 18:00 | Orangejuice | vs | 704661982 |
 
 ## Mappools
+
+### Semifinals
+
+**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
+
+- FreeMod
+  - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
+  - [Getty vs. DJ DiA - Fox4-Raize- \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmapsets/595830#mania/1260071)
+  - [Hatsuki Yura - Dancer of Saramandora \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  - [Round Wave Crusher - Slash Dot Slash (Slim Boy Fat) \[-.-\]](https://osu.ppy.sh/beatmapsets/823631#mania/1725933)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring \[Nine Time\]](https://osu.ppy.sh/beatmapsets/859935#mania/1799312)
+  - [96-glass - Blessed \[Heaven\]](https://osu.ppy.sh/beatmapsets/855239#mania/1787084)
+  - [YMCK - Curry da yo! \[Curry!!!\]](https://osu.ppy.sh/beatmapsets/556640#mania/1177974)
+  - [MasamiT - Toraburu Kuroneko Manbiki \[Ayumu's Distress\]](https://osu.ppy.sh/beatmapsets/591252#mania/1251232)
+  - [Camellia - Nightmare of Hornets Squad \[Breakdown\]](https://osu.ppy.sh/beatmapsets/543489#mania/1151944)
+  - [Terminal 11 - Miserable Bastard \[Despair\]](https://osu.ppy.sh/beatmapsets/789976#mania/1657803)
+  - [MuryokuP - Frozen World \[Yuki\]](https://osu.ppy.sh/beatmapsets/373379#mania/817998)
+  - [BlackY - B(Camellia's"BlAst-Off"Remix) \[Radiation\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744190)
+  - [Camellia - epimerization \[doxorubicin\]](https://osu.ppy.sh/beatmapsets/803740#mania/1686934)
+  - [sakuraburst - deconstructing nature \[destruction\]](https://osu.ppy.sh/beatmapsets/619106#mania/1305926)
+- Tiebreaker
+  - [Camellia - LET'S JUMP (Camellia's 'diffractive' Hardcore Remix) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/851107#mania/1779259)
 
 ### Quarterfinals
 
@@ -148,6 +169,19 @@ The following time are based on UTC+08 timezone.
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## Match Results
+
+### Quarterfinals
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| zero2snow | 3 | **5** | **ByeForNow** |
+| Sakaki | 0 | **5** | **HDRoop\_7** |
+| 704661982 | 1 | **5** | **\[Crz\]Minato** |
+| alisi | 0 | **5** | **CaOH2** |
+| w a d u | 4 | **5** | **C Eru** |
+| **cheewee10** | **5** | 2 | \[Crz\]Murasame |
+| yin xiaosong | 0 | **5** | **Orangejuice** |
+| **Stink God** | **5** | 1 | AradORiOn\_MMM |
 
 ### Round of 16
 
