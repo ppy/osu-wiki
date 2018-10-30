@@ -1,7 +1,7 @@
 Turnieje
 ===============
 
-Sekcja poświęcona turniejom i zawodom w osu!. [Link do forum.](https://osu.ppy.sh/forum/55)
+Sekcja poświęcona turniejom i zawodom w osu! [Link do forum.](https://osu.ppy.sh/forum/55)
 
 Oficjalne mistrzostwa świata
 ---------------------------------
