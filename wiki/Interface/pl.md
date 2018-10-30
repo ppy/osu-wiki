@@ -229,7 +229,7 @@ Kliknij przycisk z napisem `Mods` lub naciśnij `F1` aby wyświetlić **[Ekran W
 Na tym ekranie możesz zastosować modyfikacje (w skrócie "mody") do rozgrywki. Niektóre mody zmniejszają poziom trudności i nakładają mnożnik, który obniża wynik, jaki osiągasz, za to inne zwiekszają poziom trudności i nakładają mnożnik, który zwiększa wynik, jaki osiągasz. Ostatecznie, niektóre mody zmieniają rozgrywkę w zupełnie inny sposób. [Relax](/wiki/Game_Modifiers/#Relax) i [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) należą do tej kategorii.
 Najedź kursorem na ikonkę moda aby zobaczyć krótki opis tego, jak zmienia rozgrywkę. Kliknij na ikonkę by zaznaczyć lub odznaczyć tego moda. Niektóre mody, takie jak Double Time, mają różne wariacje; kliknij na nie ponownie, by przejść dalej. Wartość mnożnika wyświetla łączny efekt, jaki mody które wybrałeś, bedą miały na twój wynik. Kliknij "Resetuj mody" lub naciśnij 1 aby odznaczyć wszystkie aktualnie wybrane mody. Kliknij `Zamknij` lub naciśnij `2` albo `Esc` aby powrócić do Ekranu Wyboru Piosenki.
 
-Gdy znajdujesz się na Ekranie Wyboru Modów nie możesz korzystać z Konsoli Czatu oraz Konsoli Rozwijanego Czatu. Skiny mogą zmienić tekst lub ikonę modu, ale nigdy nie zmienią jego efektu.
+Gdy znajdujesz się na Ekranie Wyboru Modów nie możesz korzystać z Konsoli Czatu oraz Konsoli Rozwijanego Czatu. Skórki mogą zmienić tekst lub ikonę modu, ale nigdy nie zmienią jego efektu.
 
 Kliknij przycisk `Random` lub naciśnij `F2` aby **wylosować beatmapę**. Nie możesz wybrać mapy samemu, dopóki gra nie ukończy losowania.
 
@@ -259,7 +259,7 @@ Kliknij **[osu!cookie](/wiki/cookie)** aby **włączyć wybraną beatmapę**.
 
 Tak wygląda ekran oceny zaraz po tym, gdy przejdziesz mapę. Możesz uzyskać dostęp do wyników online, przewijając w dół lub naciskając oczywisty przycisk.
 
-**Notka:** Wygląd oceny będzie się zmieniał w zależności od użytego skina.
+**Notka:** Wygląd oceny będzie się zmieniał w zależności od użytej skórki.
 
 Pod spodem znajdują się ekrany ocen innych trybów gry.
 
