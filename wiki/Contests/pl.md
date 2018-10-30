@@ -141,11 +141,11 @@ osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają pio
 
 Nieoficjalne konkursy prowadzone przez społeczność osu!
 
-### Puchar Beatmap Oczekujących na Zatwierdzenie
+### Pending Cup
 
-Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beatmap, w którym uczestniczą głownie zawodnicy z Chin. Zawody te zachęcają do kreatywności i stosowania się do głównych zasad mapowania, pośród wszystkich poziomów zaawansowania - w szczególności wśród początkujących twórców.
+Pending Cup to konkurs tworzenia beatmap, w którym uczestniczą głownie zawodnicy z Chin. Zawody te zachęcają do kreatywności i stosowania się do głównych zasad mapowania, pośród wszystkich poziomów zaawansowania - w szczególności wśród początkujących twórców.
 
-#### Puchar Beatmap Oczekujących na Zatwierdzenie \#1 (2013)
+#### Pending Cup \#1 (2013)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -156,7 +156,7 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 - [Temat na Forum](https://osu.ppy.sh/forum/t/135492)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/152966)
 
-#### Puchar Beatmap Oczekujących na Zatwierdzenie \#2 (2014)
+#### Pending Cup \#2 (2014)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -166,7 +166,7 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 - [Temat na Forum](https://osu.ppy.sh/forum/t/229019)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/243930)
 
-#### Puchar Beatmap Oczekujących na Zatwierdzenie \#3 (2015)
+#### Pending Cup \#3 (2015)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -177,7 +177,7 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 - [Temat na Forum](https://osu.ppy.sh/forum/t/345263)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/373843)
 
-### Puchar Beatmap Oczekujących na Zatwierdzenie \#4 (2016)
+### Pending Cup \#4 (2016)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -188,7 +188,7 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 - [Temat na Forum](https://osu.ppy.sh/forum/t/482629)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/504645)
 
-#### Puchar Beatmap Oczekujących na Zatwierdzenie \#5 (2017)
+#### Pending Cup \#5 (2017)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -199,11 +199,11 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 - [Temat na Forum](https://osu.ppy.sh/forum/t/620182)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/640906)
 
-### Puchar ???
+### Newspaper Cup
 
-Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do spróbowania swoich sił w tworzeniu beatmap oraz rozwijanie umiejętności twórców z Chin.
+Newspaper Cup to coroczny konkurs, który ma na celu zachęcenie graczy do spróbowania swoich sił w tworzeniu beatmap oraz rozwijanie umiejętności twórców z Chin.
 
-#### Puchar ??? \#1 (2015)
+#### Newspaper Cup \#1 (2015)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -213,7 +213,7 @@ Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do
 - [Temat na Forum](https://osu.ppy.sh/forum/t/272739)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/312154)
 
-#### Puchar ??? \#2 (2016)
+#### Newspaper Cup \#2 (2016)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -223,7 +223,7 @@ Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do
 - [Temat na Forum](https://osu.ppy.sh/forum/t/415669)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/432070)
 
-#### Puchar ??? \#3 (2017)
+#### Newspaper Cup \#3 (2017)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -233,7 +233,7 @@ Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do
 - [Temat na Forum](https://osu.ppy.sh/forum/t/546038)
 - [Post z Wynikami](https://osu.ppy.sh/forum/t/570350)
 
-#### Puchar ??? \#4 (2017)
+#### Newspaper Cup \#4 (2017)
 
 | Miejsce | Piosenki                                 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
