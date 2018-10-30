@@ -46,7 +46,7 @@ Konkursy Aspire są konkursami tworzenia map, których nie obowiązują [Kryteri
 
 Notki:
 
-- Wygrani otrzymują tytuł "Elitarny Twórca Beatmap: Aspirant" na forum oraz unikatową odznakę Aspire.
+- Wygrani otrzymują na forum tytuł "Elitarny Twórca Beatmap: Aspirant" oraz unikatową odznakę Aspire.
 - "Comiesięczny Konkurs Tworzenia Beatmap \#6" jest unikatowym wydarzeniem Aspire. Konkurs startuje niezależnie od momentu ogłoszenia "Aspire 2016".
 
 | Edycja Konkursu           | Beatmapa                                                                                     | Tryb Gry                 | Twórca                                          | Wyniki                                         | Przyznane Punkty                                                 |
@@ -60,10 +60,10 @@ Notki:
 
 Notki:
 
-- Dwóch zwycięzców (wybranych przez zespół osu! oraz publiczne głosowanie) otrzyma status donatora osu! na cały rok oraz table osu!/maskotkę Pippi.
-- Osoby na drugim miejscu uzyskują statuś donatora na miesiąc.
+- Dwóch zwycięzców (wybranych przez zespół osu! oraz poprzez publiczne głosowanie) otrzyma status donatora osu! na cały rok oraz tablet osu!/maskotkę Pippi.
+- Osoby na drugim miejscu uzyskują status donatora na miesiąc.
 
-Możesz zobaczyć galerię każdego konkursu [na Facebooku](https://www.facebook.com/osugame).
+Możesz zobaczyć galerię wszystkich edycji konkursu [na Facebooku](https://www.facebook.com/osugame).
 
 ## Konkursy Sklepu osu!
 
@@ -74,11 +74,11 @@ Notki:
 
 | Edycja Konkursu | Tytuł                           | Wymagania                                  | Wybory Zwycięzcy | Artykuł na forum                                         | Wyniki |
 |:-----------:|---------------------------------|----------------------------------------------|--------------------|----------------------------------------------|---------|
-| 1           | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WYGRANA)              | [Artykuł na forum](https://osu.ppy.sh/news/114095906408) | N/A     |
+| 1           | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WYGRANA)              | [Link](https://osu.ppy.sh/news/114095906408) | N/A     |
 
 ## osu!idol
 
-osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają piosenki o zróżnicowanych gatunkach muzycznych. Oficjalni sędziowie oraz społeczność osu! zadecyduje o tym, kto wygra.
+osu!idol jest konkursem, w którym zawodnicy - sami lub w duecie, śpiewają piosenki o zróżnicowanych gatunkach muzycznych. Oficjalni sędziowie oraz społeczność osu! decydują o tym, kto wygra.
 
 ### 2014
 
@@ -143,7 +143,7 @@ Nieoficjalne konkursy prowadzone przez społeczność osu!
 
 ### Puchar Beatmap Oczekujących na Zatwierdzenie
 
-Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beatmap, w którym uczestniczą głownie zawodnicy z Chin. Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie zachęcają do kreatywności i stosowania się do głównych zasad mapowania, pośród wszystkich poziomów zaawansowania - w szczególności wśród początkujących twórców.
+Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beatmap, w którym uczestniczą głownie zawodnicy z Chin. Zawody te zachęcają do kreatywności i stosowania się do głównych zasad mapowania, pośród wszystkich poziomów zaawansowania - w szczególności wśród początkujących twórców.
 
 #### Puchar Beatmap Oczekujących na Zatwierdzenie \#1 (2013)
 
@@ -201,7 +201,7 @@ Zawody o Puchar Beatmap Oczekujących na Zatwierdzenie to konkurs tworzenia beat
 
 ### Puchar ???
 
-Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do spróbowania swoich sił w tworzeniu beatmap oraz rozwijanie umiejętności tworzenia map użytkowników z Chin.
+Zawody o Puchar ??? to coroczny konkurs, który ma na celu zachęcenie graczy do spróbowania swoich sił w tworzeniu beatmap oraz rozwijanie umiejętności twórców z Chin.
 
 #### Puchar ??? \#1 (2015)
 
