@@ -276,15 +276,15 @@ Pod spodem znajdują się ekrany ocen innych trybów gry.
 To jest twój ranking online. Możesz do niego przejść poprzez przewinięcie w dół na ekranie oceny. Twój Ranking Lokalny będzie pokazywać twoją nazwę użytkownika oraz wynik, tak jak zwykle.
 
 1. Tutaj możesz zmienić nazwę użytkownika wyświetlaną przy tym wyniku.
-2. Twój pasek gracza. Pokazuje twoje [PP](/wiki/pp), twój Ranking Globalny, Całkowity Wynik i Ogólną [Celność](/wiki/Accuracy) wraz z paskiem doświadczenia.
+2. Twój pasek gracza. Pokazuje twoje [PP](/wiki/pp), twój Ranking Globalny, Całkowity Wynik i Ogólną [Precyzję](/wiki/Accuracy) wraz z paskiem doświadczenia.
 3. Twoje opcje dotyczące beatmapy.
     1.  Zapisz powtórkę jako plik `.osr`.
     2.  Dodaj beatmapę do ulubionych. Twoje ulubione beatmapy są wyświetlane w sekcji "Ulubione beatmapy".
-4. Tutaj widzimy jak bardzo spadłeś lub wskoczyłeś w Rankingu Globalnym, jak dużo punktów zostało dodanych do twojego Całkowitego Wyniku oraz jak bardzo zmieniła się twoja Całkowita Celność, dzięki zagraniu tej beatmapy.
+4. Tutaj widzimy jak bardzo spadłeś lub wskoczyłeś w Rankingu Globalnym, jak dużo punktów zostało dodanych do twojego Całkowitego Wyniku oraz jak bardzo zmieniła się twoja Całkowita Prezycja, dzięki zagraniu tej beatmapy.
 5. Tu chyba nic nie trzeba wyjaśniać. Nie pojawi się, jeżeli jesteś offline lub beatmapa została zaktualizowana.
     1.  Ranking: Twoje miejsce w Rankingu Ogólnym mapy. Obejmuje także powtórki zawierające mody, nawet jeżeli sam żadnych nie używałeś.
     2.  Ogólne: Twoje miejsce w Rankingu Ogólnym trybu gry, w którym obecnie się znajdujesz, nie tylko w rankingu beatmapy.
-    3.  Celność: Będzie naliczana tylko wtedy, kiedy pobijesz swój poprzedni rekord. Jest średnią wszystkich beatmap, które przeszedłeś.
+    3.  Precyzja: Będzie naliczana tylko wtedy, kiedy pobijesz swój poprzedni rekord. Jest średnią wszystkich beatmap, które przeszedłeś.
     4.  Rankingowy wynik: Twój wynik rankingowy. Jeżeli jest to zatwierdzona beatmapa, nie podniesie się wcale.
     5.  Łączny wynik: Twój wynik całkowity. Wzrośnie nawet jeżeli nie przejdziesz beatmapy lub nie pobijesz swojego poprzedniego wyniku.
     6.  Do następnego miejsca: Jak dużo punktów potrzebujesz aby wznieść się w rankingu beatmapy.
