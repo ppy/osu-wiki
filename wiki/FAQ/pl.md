@@ -1,13 +1,89 @@
-# FAQ
+<!-- wiki -->
+[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
+[Play_Styles wikilink]: /wiki/Play_Styles/ "Style Gry"
+[Auto wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Auto"
+[Spun Out wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Spun Out"
+[Relax wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Relax"
+[Co-Op wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Co-Op"
+[Hidden wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Hidden"
+[Flashlight wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Flashlight"
+[Auto Pilot wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Auto Pilot"
+[xK wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja xK"
+[Sudden Death wikilink]: /wiki/Game_Modifiers "więcej informacji w artykule Modyfikatory Gry, sekcja Sudden Death"
+[Score wikilink]: /wiki/Score/ "Score"
+[Accuracy wikilink]: /wiki/Accuracy "Accuracy"
+[Score#Level wikilink]: /wiki/Score/#level "więcej informacji w artykule Punkty, sekcja Level"
+[Performance Points wikilink]: /wiki/Performance_Points/ "Punkty Wydajności"
+[Performance Points#FAQ wikilink]: /wiki/Performance_Points "więcej informacji w artykule Punkty Wydajności, sekcja Najczęściej Zadawane Pytania"
+[Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmapy"
+[Replay wikilink]: /wiki/Replay/ "Powtórki"
+[Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Skróty Klawiszowe"
+[Options wikilink]: /wiki/Options "Options"
+[Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "Porty Zewnętrze"
+[opsu! wikilink]: ./External_Ports/opsu! "opsu! autorstwa itdelatrisu with fluddokt"
+[osu!stream wikilink]: ./External_Ports/osu!stream "osu!stream autorstwa zespołu osu!"
+[T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 autorstwa zespołu low.moe"
 
-Wprowadzenie
-============
+<!-- external -->
+[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Artykuł na Wikipedii dla Osu! Tatakae! Ouendan"
+[Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Artykuł na Wikipedii dla Taiko no Tatsujin"
+[Skin Compendium link]: https://osu.ppy.sh/forum/t/686664/ "Kompedium Skórek by RockRoller"
+[Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Oficjalna lista beatmap"
+[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
+[sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
+[Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
+
+<!-- image -->
+[Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Profile mode buttons"
+
+<!-- shared image -->
+[ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
+[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
+[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
+[osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "osu! hit circles"
+[osu_slider image]: /wiki/shared/osu_slider.jpg "osu! Slider"
+[osu_spinner image]: /wiki/shared/osu_spinner.jpg "osu! Spinner"
+[Taiko playfield image]: /wiki/shared/Taiko_playfield.jpg "osu!taiko playfield"
+[Taiko hit circles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles"
+[Taiko drumroll image]: /wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll"
+[Taiko spinner image]: /wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)"
+[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS"
+[Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
+[Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
+[Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch bananas"
+[Hyperfruit image]: /wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits"
+[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
+[osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
+[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
+[osu! Interface image]: /wiki/shared/Interface_osu.jpg "osu! Interface"
+[osu!taiko Interface image]: /wiki/shared/Interface_taiko.jpg "osu!taiko Interface"
+[osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch Interface"
+[osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
+[osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "osu!mania key layout"
+[Options quickicons image]: /wiki/shared/Options_quickicons.jpg "Options quickicons"
+[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
+[Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "Example of an .osu file content"
+[Mode Interface image]: /wiki/shared/Interface_mode.png "Mode change interface"
+[Slider ticks image]: /wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play"
+[osu_smoke image]: /wiki/shared/osu_smoke.jpg "Smoke Usage"
+[osu_smoke_set image]: /wiki/shared/osu_smoke_set.jpg "Smoke in key bindings"
+
+<!-- Title -->
+# Najczęściej Zadawane Pytania
+
+## Wprowadzenie
 
 ### Nigdy nie grałem w tego całego „Ouendana” - co to jest?
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera. Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek. Na Nintendo DS sama gra wygląda następująco:
 
-![](Ouendan.jpg "Ouendan.jpg")
+![](/wiki/shared/Ouendan.jpg "Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS")
 
 Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia. Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem. Właśnie to jest moment, gdzie Ouendan (drużyna pocieszająca) wkracza do gry. Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
 
