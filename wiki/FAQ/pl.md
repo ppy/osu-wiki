@@ -28,12 +28,12 @@
 [T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 autorstwa zespołu low.moe"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Artykuł na Wikipedii dla Osu! Tatakae! Ouendan"
+[ouendan wikipedia]: https://pl.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Artykuł na Wikipedii dla Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Artykuł na Wikipedii dla Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/forum/t/686664/ "Kompedium Skórek by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Oficjalna lista beatmap"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial autorstwa peppy'ego"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial autorstwa Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Samouczek do osu! pobrany wraz z instalatorem autorstwa peppy'ego"
+[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Rankingowy samouczek osu! autorstwa Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Lista beatmap od najłatwiejszej do najtrudniejszej"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Skórka Taiko wersja 6.0 autorstwa LuigiHanna"
 
@@ -66,13 +66,13 @@
 [osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "interfejs osu!catch"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "interfejs osu!mania"
 [osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "układ klawiszy osu!mania"
-[Options quickicons image]: /wiki/shared/Options_quickicons.jpg "Ikony opcji"
-[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
-[Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "Example of an .osu file content"
-[Mode Interface image]: /wiki/shared/Interface_mode.png "Mode change interface"
-[Slider ticks image]: /wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play"
-[osu_smoke image]: /wiki/shared/osu_smoke.jpg "Smoke Usage"
-[osu_smoke_set image]: /wiki/shared/osu_smoke_set.jpg "Smoke in key bindings"
+[Options quickicons image]: /wiki/shared/Options_quickicons.jpg "Sekcje opcji"
+[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "ustawienia Klawiatury w opcjach sterowania"
+[Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "przykład zawartości pliku .osu"
+[Mode Interface image]: /wiki/shared/Interface_mode.png "interfejs zmiany trybu gry"
+[Slider ticks image]: /wiki/shared/Sliderticks.png "zdjęcie ukazujące slider z tyknięciami, górna część w edycji beatmap, dolna podczas gry"
+[osu_smoke image]: /wiki/shared/osu_smoke.jpg "użycie dymu w osu!"
+[osu_smoke_set image]: /wiki/shared/osu_smoke_set.jpg "skrót klawiszowy dymu"
 
 <!-- Title -->
 # Najczęściej Zadawane Pytania
@@ -81,21 +81,29 @@
 
 ### Nigdy nie grałem w tego całego „Ouendana” - co to jest?
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera. Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek. Na Nintendo DS sama gra wygląda następująco:
+_[Osu! Tatakae! Ouendan][ouendan wikipedia]_ to gra rytmiczna stworzona na konsolę _Nintendo DS_.
+Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera.
+Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek.
+Na _Nintendo DS_ sama gra wygląda następująco:
 
-![](/wiki/shared/Ouendan.jpg "Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS")
+![Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS][ouendan image]
 
-Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia. Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem. Właśnie to jest moment, gdzie Ouendan (drużyna pocieszająca) wkracza do gry. Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
+Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia.
+Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem.
+Właśnie to jest moment, gdzie _Ouendan_ (drużyna pocieszająca) wkracza do gry.
+Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
 
-Jak w to się gra?
------------------
+### Jak w to się gra?
 
-*Pełny artykuł: [osu!standard](PL:Standard "wikilink")*
+_Pełny artykuł: [osu!standard][osu! wikilink]_
 
-Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](PL:Play_Styles "wikilink"). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
+Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć.
+Różne style gry są opisane [w tym artykule][Play_Styles wikilink].
+Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
-Mechanika gry
--------------
+#### Mechanika gry
+
+_Samouczek: [(Pobrany wraz z wersją gry na PC) Oryginalny samouczek][osu!tutorial basic], [Wersja Rankingowa][osu!tutorial rank]_
 
 Rozgrywka naciska na:
 
@@ -108,74 +116,128 @@ Rozgrywka naciska na:
 -   odpowiednie ustawienie ręki i reakcję oko-ręka;
 -   możliwości sprzętu (zwłaszcza myszki i tabletu);
 
-Istnieje kilka istotnych umiejętności, których będziesz stopniowo się uczyć podczas swojej przygody z osu!. Zanim jednak będziesz mógł stać się mistrzem rytmu, musisz nauczyć się podstaw (oraz teorii) rzeczy, które można kliknąć.
+Istnieje kilka istotnych umiejętności, których będziesz stopniowo się uczyć podczas swojej przygody z osu!. Zanim jednak będziesz mógł stać się _mistrzem rytmu_, musisz nauczyć się podstaw (oraz teorii) rzeczy, które można kliknąć.
 
 Jakie są więc rodzaje obiektów?
 
-#### Kółka
+##### Kółka
 
-![](Hitcircles.jpg "Hitcircles.jpg")
+![Kółka][osu_hit circles image]
 
--   Tutaj można zobaczyć kółka (circles), które należy kliknąć.
-    -   Mniejszy, kolorowy okrąg na zewnątrz kurczy się i należy wcisnąć koło dokładnie wtedy, kiedy zewnętrzny okrąg nałoży się na białą obwódkę.
--   Żeby zrozumieć ukryty urok kółek, powinieneś skupiać się nie tylko na wzroku, ale w dużej mierze również na rozumieniu beatu i rytmu beatmapy poprzez słuch.
+_Tak wyglądają kółka osu!_
 
-#### Slidery
+Mniejszy, kolorowy okrąg na zewnątrz kurczy się i należy wcisnąć koło dokładnie wtedy, kiedy zewnętrzny okrąg nałoży się na białą obwódkę. 
+Pojawi się informacja o tym, ile punktów udało ci się zdobyć oraz w jaki sposob kliknięcie kółka zmieniło twój stan zdrowia, w zależności od tego, jak dobrze trafiłeś w rytm.
+Kółko znika po kliknięciu.
 
-![](Slider.jpg "Slider.jpg")
+Żeby zrozumieć ukryty urok kółek, powinieneś skupiać się nie tylko na wzroku, ale w dużej mierze również na rozumieniu beatu i rytmu beatmapy poprzez słuch.
 
--   To jest slider.
-    -   Po pierwsze, należy kliknąć na kółko w odpowiednim momencie. Ale to nie koniec.
-    -   Piłka zacznie się poruszać po wyznaczonej i widocznej trasie.
-    -   Musisz trzymać przycisk myszy/klawisz na klawiaturze (lub swój palec/pen na tablecie) i utrzymywać swój kursor w obrębie dużego, pomarańczowego okręgu otaczającego piłkę podczas kiedy ta się porusza.
-        -   Nie możesz kontrolować ruchu piłki, musisz tylko za nią podążać.
-        -   Pomarańczowe kółko pojawi się, jeśli będziesz podążać za piłką, i zniknie, gdy ją zgubisz.
-    -   Czasami, jak widzisz na screenshocie wyżej, musisz wrócić z powrotem, gdy dotrzesz to końca ścieżki.
-    -   Dzieje się, tak jeśli na końcu ścieżki widzisz strzałkę.
+##### Slidery
 
-#### Spinnery
+![Slidery][osu_slider image]
 
-![](Spinner.jpg "Spinner.jpg")
+_Slider z kolorowym okręgiem otaczającym piłkę oraz tyknięciem w środku slidera (małe, białe kółko)_
 
--   To jest spinner.
-    -   Musisz kliknąć i przytrzymać przycisk na myszce lub klawiaturze, a następnie kręcić kółka (zgodnie z ruchem wskazówek zegara lub odwrotnie).
-        -   Paski na zewnątrz pokazują, jak blisko jesteś zaliczenia spinnera.
-        -   Mały pasek poniżej spinnera pokazuje kręcenia na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
-        -   Jeżeli nie przytrzymasz żadnego przycisku kręcąc, spinner nie zostanie zaliczony.
--   Na konsoli Nintendo DS, spinnery pozwalają na szybkie porysowanie ekranu dotykowego, szczególnie na wyższych poziomach trudności.
--   W osu! spinnery zostały zrobione tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
-    -   Maksymalna liczba kręceń na minutę wynosi 477, i z taką prędkością kręci mod Auto. W przypadku moda Spun Out ta prędkość zmniejsza się do 287 kręceń na minutę.
-    -   Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
--   \[Myszka\] Jeżeli twój kursor nie kręci się prawidłowo, mimo że kręcisz myszką bardzo szybko, to albo się pogódź z limitami sprzętu, albo kup nową myszkę/ podkładkę pod nią.
+Po pierwsze, należy kliknąć na kółko w odpowiednim momencie. Ale to nie koniec.
+Piłka zacznie się poruszać po wyznaczonej i widocznej trasie.
+Musisz trzymać przycisk myszy/klawisz na klawiaturze (lub swój palec/pen na tablecie) i utrzymywać swój kursor w obrębie dużego, pomarańczowego okręgu otaczającego piłkę podczas kiedy ta się porusza.
+Nie możesz kontrolować ruchu piłki, musisz tylko za nią podążać.
+Pomarańczowe kółko pojawi się, jeśli będziesz podążać za piłką, i zniknie, gdy ją zgubisz.
 
-### Interfejs (rozgrywka)
+Czasami, jak widzisz na screenshocie wyżej, musisz wrócić z powrotem, gdy dotrzesz to końca ścieżki.
+Dzieje się, tak jeśli na końcu ścieżki widzisz strzałkę.
 
-![](Hierophobicintro.jpg "Hierophobicintro.jpg")
+##### Spinnery
 
-To jest interfejs osu!.
+![Spinner][osu_spinner image]
 
--   Pasek w górnym prawym rogu to twoje „życie” (HP).
-    -   Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę (twórców) mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
-    -   Perfekcyjnie wciśnięty obiekt (z wynikiem 300 lub Geki) zwiększy twoje HP bardziej niż źle wciśnięty (z wynikiem 50).
-    -   Miss zabierze ci całkiem spory kawałek HP.
--   Obok paska życia (po prawej) znajduje się twoja liczba punktów.
--   Poniżej punktów jest twój wynik w procentach.
--   Kółko obok procentów i poniżej punktów to timer, który pokazuje długość piosenki.
--   Liczba w lewym dolnym rogu to twoje combo.
+_Tak wygląda zaliczony spinner wraz z punktami bonusowymi_
 
-Inne tryby gry
-==============
+Musisz kliknąć i przytrzymać przycisk na myszce lub klawiaturze, a następnie kręcić kółka (zgodnie z ruchem wskazówek zegara lub odwrotnie).
+Paski na zewnątrz pokazują, jak blisko jesteś zaliczenia spinnera.
+Jeżeli zaliczyłeś spinnera wcześnie, kręć dalej by zdobyć punkty bonusowe.
 
-Czym jest „Taiko”?
-------------------
+Biały okrąg na zewnątrz pokazuje, jak dużo czasu zostało ci do zaliczenia spinnera.
+Okrąg zmieni kolor na czerwony, gdy zostanie ci mało czasu.
+Stare mapy, używające _skórki w wersji 1.0_, będą wyświetlały wskaźnik, by poinformować jak blisko zaliczenia spinnera jesteś.
 
-*Pełny artykuł: [Taiko](PL:Taiko "wikilink")*
+Mały pasek poniżej spinnera pokazuje kręcenia na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
+Jeżeli nie przytrzymasz żadnego przycisku kręcąc, spinner nie zostanie zaliczony.
 
-[200px|thumb|right|Rozgrywka w trybie Taiko.](image:taiko.jpg "wikilink") Dla niezaznajomionych, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
+Na konsoli _Nintendo DS_, spinnery pozwalają na szybkie porysowanie ekranu dotykowego, szczególnie na wyższych poziomach trudności.
+W osu! spinnery zostały zrobione tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
+Maksymalna liczba kręceń na minutę wynosi 477, i z taką prędkością kręci mod [Auto]. W przypadku moda [Spun Out] ta prędkość zmniejsza się do 287 kręceń na minutę.
+Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
+\[Myszka\] Jeżeli twój kursor nie kręci się prawidłowo, mimo że kręcisz myszką bardzo szybko, to albo pogódź się z limitami sprzętu, albo kup nową myszkę/ podkładkę pod nią.
 
-Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
+#### Interfejs (rozgrywka)
 
-### Wprowadzenie
+![interfejs osu!][osu! Interface image]
+
+_Tak wygląda interfejs osu! podczas rozgrywki_
+
+Pasek w górnym prawym rogu to twoje „życie” (HP).Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę (twórców) mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
+Perfekcyjnie wciśnięty obiekt (z wynikiem 300 lub Geki) zwiększy twoje HP bardziej niż źle wciśnięty (z wynikiem 50).
+Miss zabierze ci całkiem spory kawałek HP.
+
+Obok paska życia (po prawej) znajduje się twoja liczba punktów.
+Poniżej punktów jest twój wynik w procentach.
+Kółko obok procentów i poniżej punktów to timer, który pokazuje długość piosenki.
+Liczba w lewym dolnym rogu to twoje combo.
+
+#### Sterowanie
+
+Domyślnymi klawiszami dla osu! są:
+
+Myszka|Klawiatura|Tablet/Ekran dotykowy
+---|---|---|
+Lewy przycisk myszki (M1) / Prawy przycisk myszki (M2)|`Z` (K1) / `X` (K2)|Dotykanie ekranu (M1)
+
+Kółka w osu! wykryją każdy typ urządzenia, tak długo jak zostały kliknięte w prawidłowym czasie.
+
+Jeżeli użyto modyfikatora gry [Relax][Relax wikilink], będzie działał tylko kursor.
+Używaj kursora, by podąrzać za obiektami na mapie, a osu! wystuka rytm za ciebie.
+Spinnery muszą zostać zaliczone.
+
+Jeżeli użyto modyfikatora gry [Auto Pilot][Auto Pilot wikilink], osu! będzie wykrywać tylko klikanie.
+Klikaj w rytm, a osu! będzie poruszało kursorem za ciebie.
+Spinnery będą kręcone w szybkości moda [Spun Out][Spun Out wikilink].
+
+---
+
+## Inne tryby gry
+### Zmiana trybu gry
+![Interfejs zmiany trybu gry][Mode Interface image]
+
+_Zdjęcie przedstawia przybornik zmiany trybu gry w Ekranie Wyboru Piosenki (tryb jednoosobowy)_
+
+Kliknij na przycisk `Mode` aby **otworzyć listę trybów gry dostępnych w osu!**.
+Kliknij na pożądany tryb gry, a osu! zmieni dla ciebie styl rozgrywki oraz rankingi.
+Alternatywnie, naciśnij `Ctrl` i `1` (![ikona osu!][osu! icon link] _[osu!standard][osu! wikilink])_ / `2` ( ![ikona osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_) / `3` (![ikona osu!catch][osu!catch icon link] _[osu!catch][osu!catch wikilink]_) / `4` (![ikona osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_) aby szybko zmienić tryb gry.
+
+### Czym jest „Taiko”?
+
+_Pełny artykuł: [osu!taiko][osu!taiko wikilink]_
+
+![interfejs osu!taiko][osu!taiko Interface image]
+
+_Interfejs gry w trybie osu!taiko_
+
+Dla niezaznajomionych, _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez _Namco_ (teraz Namco Bandai), która polega na symulacji grania na bębnie w rytm muzyki.
+W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
+
+#### Wprowadzenie
+##### Obszar gry
+![obszar gry Taiko][Taiko playfield image]
+
+_Obszar gry w trybie osu!taiko_
+
+Do osób, które grały w _Taiko no Tatsujin_:
+
+- Brak chibi tancerzy na dole ekranu (muszą występować w scenorysie)
+- Pasek życia musi być na poziomie co najmniej 50% by ukończyc beatmapę (co nie jest aż tak oczywsite, gdy używasz podstawowej skórki - zanjrzyj do [Kompemdium Skórek][Skin Compendium link] by pobrać przyzwoitą skórkę).
+- _Czas Kiai_ aktywuje _Czas Go-Go_.
+  - 
 
 <u>*'Kółka (*Hit-circles)'''</u>
 
