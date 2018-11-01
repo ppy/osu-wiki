@@ -98,7 +98,7 @@ tags:
   - [Camellia - epimerization \[doxorubicin\]](https://osu.ppy.sh/beatmapsets/803740#mania/1686934)
   - [sakuraburst - deconstructing nature \[destruction\]](https://osu.ppy.sh/beatmapsets/619106#mania/1305926)
 - Tiebreaker
-  - [Camellia - LET'S JUMP (Camellia's 'diffractive' Hardcore Remix) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/851107#mania/1779259)
+  - **[Camellia - LET'S JUMP (Camellia's 'diffractive' Hardcore Remix) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/851107#mania/1779259)**
 
 ### 八强赛
 
