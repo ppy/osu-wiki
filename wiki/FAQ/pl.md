@@ -88,6 +88,8 @@ Na _Nintendo DS_ sama gra wygląda następująco:
 
 ![Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS][ouendan image]
 
+_Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS_
+
 Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia.
 Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem.
 Właśnie to jest moment, gdzie _Ouendan_ (drużyna pocieszająca) wkracza do gry.
