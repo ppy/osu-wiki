@@ -8,7 +8,7 @@ Welcome back to a long-awaited rendition of this season's beatmap spotlights! We
 
 ![](/wiki/shared/news/banners/spotlights-header.jpg)
 
-The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=SUMMER2018). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The Summer 2018 Spotlights rankings will end on the 31st of December, 2018.**
+The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/taiko/charts?spotlight=254). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
 
 ## Changes within the Spotlights!
 
@@ -122,9 +122,11 @@ If the amount of low difficulties doesn't catch your eye, the top diffs will for
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/into-the-unknown.jpg)](http://osu.ppy.sh/beatmapsets/738600)
 
-Definitely not a stranger to the community and being known for great Slider Velocity usage in maps, [Nofool](https://osu.ppy.sh/users/672430) proves their proficiency yet again. This rendition of "Into the Unknown" by Cranky features a lot of Slider Velocity changes across the whole set done in an excellent manner to highlight each part of the song perfectly.
+Definitely not a stranger to the community and being known for great Slider Velocity usage in maps, [Nofool](https://osu.ppy.sh/users/672430) proves their proficiency yet again. This rendition of Cranky's "Into the Unknown" features a lot of SV changes across the whole set done in an excellent manner to highlight each part of the song perfectly.
 
-Looking visually pleasing as well, it's one of the few sets out there to introduce beginners to scroll speed changes in maps, and not only that, it also utilizes a bunch of hard patterns, making it a challenge on each difficulty while being a great match to the song!
+Looking visually pleasing as well, it's one of the few sets out there to introduce beginners to the scroll speed changes in maps, and not only that, it also utilizes hard patterns all throughout, making it a challenge on each difficulty while being a great match to the song.
+
+With all of this, the set finds a very well deserved place in the Spotlights!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/key-of-timepieces.jpg)](http://osu.ppy.sh/beatmapsets/712825)
 
@@ -140,11 +142,11 @@ I don't know about you, but I'm ready to use this key to unlock some timepieces.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/the-rift.jpg)](http://osu.ppy.sh/beatmapsets/445365)
 
-Having mapped a whole bunch of songs by Rainbowdragoneyes, [Mew104](https://osu.ppy.sh/users/2345156) finally pushed one of their renditions to rank!
+Having mapped a whole bunch of songs by Rainbowdragoneyes, [Mew104](https://osu.ppy.sh/users/2345156) finally pushed one of their renditions to rank. Each difficulty of the set features accurate and appropiate patterns throughout, being quite demanding, but still fair, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) brings more even more variety to an already well-made varying set
 
-Each difficulty of the set features accurate and appropriate patterns throughout, being quite demanding, but still fair and fun to play, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) surely doesn't disappoint either, with a different approach that also suits the song well.
+What's most impressive about the set though is the Ura Oni. This difficulty takes everything the song has to offer and tastefully uses patterns in a way that makes the whole map fairly complex, but fitting to the song's nature with a nice mix of rather common, but also uncommon 1/4 + 1/6 snaps, as well as 1/6 leading into 1/3 snaps.
 
-What's most impressive about the set though is the Ura Oni. This difficulty takes everything the song has to offer, tastefully uses patterns to highlight it accurately all the way through and keeps your attention with a bunch of varied patterns combined with variable snappings flowing into each other neatly, making the difficulty as a whole incredibly enjoyable!
+Incredibly fun set and if you are looking for a challenge of the different kind, this map is definitely worth a shot!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/showdown.jpg)](http://osu.ppy.sh/beatmapsets/438839)
 
@@ -180,13 +182,14 @@ Most metal marathons these days are too difficult for your casual taiko player, 
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/viden.jpg)](http://osu.ppy.sh/beatmapsets/708312)
 
-After well over a year, [Nwolf](https://osu.ppy.sh/users/1910766) makes his way back to the spotlights with another onoken map, this time a mapset of Viden, which was also featured in this year's TWC as a HD pick in Round of 16. Each difficulty of the set leans towards the challenging side, being quite dense in the lower difficulties with a few unusual pattern choices while following the song nicely, making for a very intuitive and natural experience.
+After well over a year, [Nwolf](https://osu.ppy.sh/users/1910766) makes his way back to the spotlights with another onoken map, this time a mapset of Viden, which was also featured in this year's TWC as a Hidden pick in Round of 16. Each difficulty of the set leans towards the challenging side, being quite dense in the lower difficulties with a few unusual pattern choices while following the song nicely, making for a very intuitive and natural experience.
 
-The Inner Oni however puts the icing on the cake: interesting use of scroll speed changes and uncommon patterns introduced early on in the map, leading to Kiais going ham. Packed with a lot of odd patterns and a few variable snaps, this difficulty tests your off-hand streaming skill; and be warned, each difficulty gets even harder at the end of the song!
+The Inner Oni however puts the icing on the cake: interesting use of SV changes and uncommon patterns introduced early on in the map, leading to Kiais going ham.
+Packed with a lot of odd patterns and a few variable snaps, this difficulty tests your off-hand streaming skill; and be warned, each difficulty gets even harder at the end of the song!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/basstest.jpg)](http://osu.ppy.sh/beatmapsets/666764)
 
-Coming through with their first ranked map right into the Spotlights, [Ak1o](https://osu.ppy.sh/users/1600041) brings us a fun mapset with BassTest! This short low BPM map features rather technical patterns on the TEST difficulty, including 1/6 and even 1/8 mixed into 1/4 streams, flowing extremely well across the map and making for a great experience!
+Coming through with their first ranked map right into the Spotlights, [Ak1o](https://osu.ppy.sh/users/1600041) brings us a fun mapset with BassTest! This short low BPM map features rather technical patterns on the TEST difficulty, including 1/6 and even 1/8 mixed into 1/4 streams, flowing quite well and being really satisfying to play.
 
 If you aren't ready for the patterns in TEST yet, the lower difficulties will certainly keep you entertained too, with an Oni difficulty that features 1/6 snaps, and a generally well-formed spread challenging players with complicated snaps for each respective difficulty.
 
