@@ -18,7 +18,7 @@ Osu!editor adalah tempat di mana pembuatan peta secara ajaibterjadi! Setelah sem
 
 #### osu!mania editor
 
-**1. Area mapping**: Ini adalah tempat kamu meletakkan objek. dalam hal ini kolomnya di bagi menjadi | 0 | 1 | 2 | 3 | . Itu adalah nomor yang terdapat pada editor, meskipun banyak orang yang lebih memilih menggunakan | 1 | 2| 3 | 4 | karena ini adalah cara yang lebih mudah untuk menghitung ketika melakukan modding. Tetapi hal ini sudah tidak relevan lagi.
+**1. Area mapping**: Ini adalah tempat kamu meletakkan objek. dalam hal ini kolomnya di bagi menjadi | 0 | 1 | 2 | 3 | . Itu adalah nomor yang terdapat pada editor, meskipun banyak orang yang lebih memilih menggunakan | 1 | 2| 3 | 4 | karena ini adalah cara yang lebih mudah untuk menghitung ketika melakukan modding. Tetapi hal ini sudah tidak digunakan lagi.
 
 **2. Grafik density**: Apa yang dapat kamu perhatikan disini adalah density "kepadatan" sebuah bagian dalam map. Semakin banyak note yang terdapat dalam jangka waktu tertentu dalam sebuah lagu, semakin panjang pula bar yang ada di dalam. Jika suatu bagian telah mencapai batas density "kepadatan", barnya akan berubah menjadi pink dan itu kan memenuhi jarak dari kiri ke kanan garis. Pastikan hal ini tidak terjadi terlalu serin, kurang dari 30-40% dari map harus ada bar pink! untuk menyesuaikan bersarnya bar pink dalam star rating ( SR ); SR map ini adalah 4.1.
 
@@ -26,10 +26,10 @@ Osu!editor adalah tempat di mana pembuatan peta secara ajaibterjadi! Setelah sem
 
 **5. Hitsounds**: Setiap objek memiliki penempatan suara, disinilah kita menempatkannya! Hitsound memiliki tempat mereka masing masing dalam pengenalan kali ini, jadi nanti akan ada lagi selanjutnya!
 
-**6. Lock Note**: Kunci note "Lock note" adal fitur yang sangat berguna tetapi banyak mapper yang tidak menggunakannya. jika Kunci note "Lock Notes" di aktifkan kamu tidak akan dapat memindahkan note mu lagi, yang berarti sangat berguna ketika akan meletakkanhitsound. Tanpa aktifnya hal ini, kamu akan secara secara tidak sengaja memindahkan notemu ketika meletakkan hitsound.
+**6. Lock Note**: Kunci note "Lock note" adal fitur yang sangat berguna tetapi banyak mapper yang tidak menggunakannya. jika Kunci note "Lock Notes" di aktifkan kamu tidak akan dapat memindahkan note mu lagi, yang berarti sangat berguna ketika akan meletakkan hitsound. jika ini tidak aktif hal ini, kamu akan secara secara tidak sengaja memindahkan notemu ketika meletakkan hitsound.
 
 **7. Beat Snap Divisor**: Alat yang sangat penting, terutama dalam osu!mania. Disini kamu memilih pembagi ketukan "beat snap" mana yang akan kamu gunakan. setingan awalnya selalu ¼ dan ini normalnya yang selalu kamu gunakan. bagaimanapun, dalam osu mania kamu dapat menggunakan 1/6 atau bahkan 1/8 pembagi ketukan "beat snap" lebih sering dibandingan dengan mode lain. Terutama Piano yang lebih susah untuk di tentukan snapnya dan kita bisa menggunakan 1/16! sangat penting untuk menaruh note di snap yang tepat. Bagaimanapun, jika kamu ingin map mu ranked, hanya map apa yang kamu dengar! tambahkan ritme 1/3, 1/4, 1/6 hanya ketika di perlukan! menambahkan bursts 1/6 ketika lagu tidak memiliki hal tersebut berarti map tersebut tidak dapat di rank.
 
-**8 Sample Set**: Sample Set "set sampel" mengizinkanmu untuk menambahkan hitsound yang di tunjukan pada point ke 5. Sebagai contoh, suara drum-finish berbeda dengan normal-finish. Dengan ini kamu dapat memberikan lebih banyak variasi hitsound pada lagu mu!
+**8 Sample Set**: Sample Set "set sampel" mengizinkanmu untuk menambahkan hitsound yang di tunjukan pada poin ke 5. Sebagai contoh, suara drum-finish berbeda dengan normal-finish. Dengan ini kamu dapat memberikan lebih banyak variasi hitsound pada lagu mu!
 
 ![Mania Editor](Mania_Editor.jpg "Mania Editor")
