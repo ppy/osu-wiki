@@ -8,7 +8,7 @@ Welcome back to a long-awaited rendition of this season's beatmap spotlights! We
 
 ![](/wiki/shared/news/banners/spotlights-header.jpg)
 
-The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/taiko/charts?spotlight=254). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
+The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=254). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
 
 ## Changes within the Spotlights!
 
