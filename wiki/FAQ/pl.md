@@ -234,12 +234,20 @@ W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego t
 
 _Obszar gry w trybie osu!taiko_
 
-Do osób, które grały w _Taiko no Tatsujin_:
+Dla osób, które grały w _Taiko no Tatsujin_:
 
 - Brak chibi tancerzy na dole ekranu (muszą występować w scenorysie)
-- Pasek życia musi być na poziomie co najmniej 50% by ukończyc beatmapę (co nie jest aż tak oczywsite, gdy używasz podstawowej skórki - zanjrzyj do [Kompemdium Skórek][Skin Compendium link] by pobrać przyzwoitą skórkę).
-- _Czas Kiai_ aktywuje _Czas Go-Go_.
-  - 
+- Pasek życia musi być na poziomie co najmniej 50% by ukończyc beatmapę (co nie jest aż tak oczywsite, gdy używasz podstawowej skórki - zanjrzyj do [Kompemdium Skórek][Skin Compendium link] by pobrać przyzwoitą skórkę)
+- _Czas Kiai_ aktywuje _Czas Go-Go_
+  - Elementy gry takie jak balony czy rozwidlone ścieżki nie są zaimplementowane (tylko podstawowy)
+- Różnice w wyświetlaniu tła
+  - Beatmapy strworzone specjalnie do osu!taiko mają zazwyczaj niestandardowe tło, pozostawiając górną sekcję pustą
+  - Widea w tle lub tła statyczne zajmą tylko dolną częśc beatmapy
+  - Scenorys może zajmować całe dostępne miejsce, z wyjątkiem elementów ważnych dla rozgrywki
+  
+Dla osób, które nigdy nie miały kontaktu z trbyem gry osu!taiko - ekran podzielony jest na dwie części; górną, zawierającą elemnty ważne dla rozgrywki oraz dolną, zawierającą wideo lub tło beatmapy.
+W górnej części znajduje się parek życia, który w odróżnieniu od innych trybów gry musimy wypełnić do conajmniej połowy by przejść beatmapę.
+Pod paskiem zdrowia, po lewej znajduje się bębenek taiko, 
 
 <u>*'Kółka (*Hit-circles)'''</u>
 
