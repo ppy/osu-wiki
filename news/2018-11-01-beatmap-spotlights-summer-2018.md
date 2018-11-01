@@ -72,7 +72,7 @@ Last but not least, Vass' Desire by [Vass_Bass](https://osu.ppy.sh/users/188248)
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/unknown-x-known.jpg)](http://osu.ppy.sh/beatmapsets/800070)
 
-When considering versatility in mapping skills, [Lasse](https://osu.ppy.sh/users/896613) is pretty much out of the question. Their rendition of Meramipop's "Unknown x known" remixed by DYES IWASAKI definitely shows it too, with its great cursor control and aesthetics. Using heavy slider velocity manipulation to control cursor momentum, it matches the ups and downs of the song perfectly. This map is sure to not disappoint you, and is definitely a welcome one to this season's Spotlights!
+When considering versatility in mapping skills, it is hard to not mention [Lasse](https://osu.ppy.sh/users/896613). Their rendition of Meramipop's "Unknown x known" remixed by DYES IWASAKI definitely shows it too, with its great cursor control and aesthetics. Using heavy slider velocity manipulation to control cursor momentum, it matches the ups and downs of the song perfectly. This map is sure to not disappoint you, and is definitely a welcome one to this season's Spotlights!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/day-and-night.jpg)](http://osu.ppy.sh/beatmapsets/585154)
 
@@ -84,7 +84,7 @@ When considering versatility in mapping skills, [Lasse](https://osu.ppy.sh/users
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/moment-of-betrayal.jpg)](http://osu.ppy.sh/beatmapsets/776247)
 
-[Zetera](https://osu.ppy.sh/users/587737)'s map of Dream Theater's "Moment of Betrayal" strikes the perfect balance between rhythmical complexity and intuitive gameplay. The progressive metal song provides plenty of rhythmic variety while keeping a high intensity level during most of its six minutes, making this map very engaging to play throughout. The impactful hitsounding only helps with that. Make sure to check this map out!
+[Zetera](https://osu.ppy.sh/users/587737)'s map of Dream Theater's "Moment of Betrayal" strikes the perfect balance between rhythmic complexity and intuitive gameplay. The progressive metal song provides plenty of rhythmic variety while keeping a high intensity level during most of its six minutes, making this map very engaging to play throughout. The impactful hitsounding only helps with that. Make sure to check this map out!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/tomodachi-no-uta.jpg)](http://osu.ppy.sh/beatmapsets/790979)
 
@@ -102,19 +102,19 @@ We hope you like chiptune tracks, because one of these is taking the gold medal 
 
 With a total of seven difficulties, this fast-paced mapset by [Midnaait](https://osu.ppy.sh/users/1506011) forms an exemplary spread from the easiest to the hardest difficulty, featuring well constructed structure, rhythm choice and rest moment density. It also features two guest difficulties from [yassu-](https://osu.ppy.sh/users/7095592) and [hikiko-](https://osu.ppy.sh/users/6512678) for those who want extra variety in their playthrough!
 
-Not to mention the highest difficulty, Bit Crusher, holds impressively well built streams, which may seem simple at first sight, but the high BPM and the stamina required for you to hit them will certainly make you think twice before underestimating them. This difficulty also manages to achieve a fairly high strain level without needing to use other snaps, such as 1/6!
+Not to mention the highest difficulty, Bit Crusher, holds impressively well built streams, which may seem simple at first glance, but the high BPM and the stamina required for you to hit them will certainly make you think twice before underestimating them. This difficulty also manages to achieve a fairly high strain level without needing to use other snaps, such as 1/6!
 
 All in all, this spread has a deserved first place in the Summer's Spotlights!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/ohayou.jpg)](http://osu.ppy.sh/beatmapsets/792231)
 
-Ohayou! Want to play some oriental music on a drum originated from the same region? [incandescence](https://osu.ppy.sh/users/6256027)s map titled a morning greeting in Japanese will probably fulfil your need. Featuring a load of five difficulties ranging from Kantan to Inner Oni, the set is carefully arranged to represent the catchy rhythm with relatively balanced spread progression, which could cater to different players' capability. 
+Ohayou! Want to play some oriental music on a drum that originated from the same region? [incandescence](https://osu.ppy.sh/users/6256027)s map titled a morning greeting in Japanese will probably fulfill your need. Featuring a load of five difficulties ranging from Kantan to Inner Oni, the set is carefully arranged to represent the catchy rhythm with relatively balanced spread progression, which could cater to different players' capability. 
 
 Apart from the good consistency of patterns every difficulty keeps, the Inner Oni utilizes a variety of 1/4 combinations that accompany the music accurately alongside a set of simple yet intuitive Slider Velocity transitions, making the map impressive to play.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/ultrasonic.jpg)](http://osu.ppy.sh/beatmapsets/646093)
 
-Behold, the current top Star Rating map in our Ranked Section! t+pazolite's "Ultrasonic Anthem" remixed by Kobaryo will surely tires your hand and drives you crazy!
+Behold, the current top Star Rating map in our Ranked Section! t+pazolite's "Ultrasonic Anthem" remixed by Kobaryo will surely tire out your hand and drive you crazy!
 
 This time around, [tasuke912](https://osu.ppy.sh/users/2774767) along with his collaborators [eiri-](https://osu.ppy.sh/users/2774767), [komasy](https://osu.ppy.sh/users/1980256), [maziari1105](https://osu.ppy.sh/users/4469725), [Midnaait](https://osu.ppy.sh/users/1506011) and [thzz](https://osu.ppy.sh/users/1614839) brought us this mapset consisting of meticulously crafted difficulties to ensure nobody gets lost along the way, so everybody can have something to play! 
 
@@ -142,7 +142,7 @@ I don't know about you, but I'm ready to use this key to unlock some timepieces.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/the-rift.jpg)](http://osu.ppy.sh/beatmapsets/445365)
 
-Having mapped a whole bunch of songs by Rainbowdragoneyes, [Mew104](https://osu.ppy.sh/users/2345156) finally pushed one of their renditions to rank. Each difficulty of the set features accurate and appropiate patterns throughout, being quite demanding, but still fair, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) brings more even more variety to an already well-made varying set
+Having mapped a whole bunch of songs by Rainbowdragoneyes, [Mew104](https://osu.ppy.sh/users/2345156) finally pushed one of their renditions to rank. Each difficulty of the set features accurate and appropiate patterns throughout, being quite demanding, but still fair, and the Guest Difficulty by [Ak1o](https://osu.ppy.sh/users/1600041) brings more even more variety to an already well-made varying set.
 
 What's most impressive about the set though is the Ura Oni. This difficulty takes everything the song has to offer and tastefully uses patterns in a way that makes the whole map fairly complex, but fitting to the song's nature with a nice mix of rather common, but also uncommon 1/4 + 1/6 snaps, as well as 1/6 leading into 1/3 snaps.
 
@@ -164,7 +164,7 @@ The three lower difficulties follow a simpler design so that beginners would not
 
 Being famous for his several Yunomi maps, this time [komasy](https://osu.ppy.sh/users/1980256) is here to bring us "Hachimitsu Adventure"!
 
-The top difficulty has shown how different aspects of mapping are well-integrated with the music itself. The hitsounding not only complements well with the background drums, but also synergizes with varied, yet consistent note arrangements that effectively represent different song sections. All of these are further enhanced by the appropriate use of Slider Velocity changes which makes this mapset stand out from other 2-minute mapsets in the ranked section.
+The top difficulty has shown how different aspects of mapping are well-integrated with the music itself. The hitsounding not only compliments well with the background drums, but also synergizes with varied, yet consistent note arrangements that effectively represent different song sections. All of these are further enhanced by the appropriate use of Slider Velocity changes which makes this mapset stand out from other 2-minute mapsets in the ranked section.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/sulfide.jpg)](http://osu.ppy.sh/beatmapsets/736594)
 
