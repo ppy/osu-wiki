@@ -5,12 +5,12 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 
-**Aus/NZ osu!standard Tournament 5 - Summer** (**ANZT 5S**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154). It is the 5th installment of Aus/NZ tourneys.
+**Aus/NZ osu!standard Tournament 5 - Summer** (**ANZT 5S**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It is the 5th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 22 Dec 2017 - 21 Jan 2018 |
 | Qualifiers | 26-28 Jan 2018 |
 | Round of 64 | 2-4 Feb 2018 |
@@ -24,7 +24,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ## Prizes
 
 | Placing | Prize(s) |
-| :--: | :-- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
@@ -33,20 +33,20 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 | Position | Staff Members |
 | --- | --- |
-| Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
-| Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135) |
-| Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/u/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/u/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/u/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/u/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
-| Streamers | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/u/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
-| Referees | ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/u/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/u/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/u/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/u/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/u/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/u/8784747) |
-| Map Selectors | ![][flag_AU] [Dumii](https://osu.ppy.sh/u/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/u/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
-| Graphics Design | ![][flag_NZ] [-Akito](https://osu.ppy.sh/u/5716327) |
+| Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/users/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| Streamers | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| Referees | ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/users/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/users/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/users/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747) |
+| Map Selectors | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Graphics Design | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
 
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/forum/t/679243)
 - [Livestream](https://www.twitch.tv/osuanzt)
 
------------------------
+---
 
 ## Mappool
 
@@ -246,14 +246,15 @@ Aus/NZ osu!standard Tournament 5 - Summer
 - Tiebreaker
   - [Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/b/1460627)
 
-------------------------------------------------------------------------
+---
+
 ## Results
 
 | Placing | Player |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/u/2118945) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/u/4241054) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 
 ### Main Bracket
 
