@@ -116,145 +116,145 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 **[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar)**
 
 - NoMod
-  - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](/beatmaps/269773&m=2)
-  - [Mabinogi - Uroboros 9236 (ZHSteven) \[Inferno CTB\]](/beatmaps/353390&m=2)
-  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[ExtrA\]](/beatmaps/296432&m=2)
-  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (INO) \[Catch The GRAVITY\]](/beatmaps/682868&m=2)
-  - [u's - Korekara no Someday (Spectator) \[Someday\]](/beatmaps/650162&m=2)
-  - [STREME REVERIE - A Site De La Rue (CLSW) \[Absurd Tantivy\]](/beatmaps/709593&m=2)
+  - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](/beatmapsets/101953#fruits/269773)
+  - Mabinogi - Uroboros 9236 (ZHSteven) \[Inferno CTB\]
+  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[ExtrA\]](/beatmapsets/114488#fruits/296432)
+  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (INO) \[Catch The GRAVITY\]](/beatmapsets/304828#fruits/682868)
+  - [u's - Korekara no Someday (Spectator) \[Someday\]](/beatmapsets/288268#fruits/650162)
+  - STREME REVERIE - A Site De La Rue (CLSW) \[Absurd Tantivy\]
 - Hidden
-  - [Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](/beatmaps/66246&m=2)
-  - [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](/beatmaps/514597&m=2)
-  - [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](/beatmaps/48874&m=2)
-  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](/beatmaps/312959&m=2)
+  - [Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](/beatmapsets/10406#fruits/66246)
+  - [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](/beatmapsets/219813#fruits/514597)
+  - [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](/beatmapsets/12563#fruits/48874)
+  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](/beatmapsets/122342#fruits/312959)
 - HardRock
-  - [IOSYS - Border of Death (dksslqj) \[Lunatic\]](/beatmaps/53380&m=2)
-  - [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](/beatmaps/95382&m=2)
-  - [Awake - Supernova (DoKoLP) \[DoKo\]](/beatmaps/138008&m=2)
-  - [Hanazawa Kana - Mousou Express (Remix) (Spectator) \[EX\]](/beatmaps/532153&m=2)
+  - [IOSYS - Border of Death (dksslqj) \[Lunatic\]](/beatmapsets/14107#fruits/53380)
+  - [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](/beatmapsets/27752#fruits/95382)
+  - [Awake - Supernova (DoKoLP) \[DoKo\]](/beatmapsets/42909#fruits/138008)
+  - [Hanazawa Kana - Mousou Express (Remix) (Spectator) \[EX\]](/beatmapsets/228539#fruits/532153)
 - DoubleTime
-  - [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](/beatmaps/308350&m=2)
-  - [Megpoid GUMI - For my soul (val0108) \[Insane\]](/beatmaps/80102&m=2)
-  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmaps/111902&m=2)
-  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](/beatmaps/263368&m=2)
+  - [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](/beatmapsets/120255#fruits/308350)
+  - [Megpoid GUMI - For my soul (val0108) \[Insane\]](/beatmapsets/22509#fruits/80102)
+  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmapsets/34427#fruits/111902)
+  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](/beatmapsets/98842#fruits/263368)
 - Tiebreaker
-  - **[onoken - P8107 (CLSW) \[Nervous Breakdown\]](/beatmaps/686192&m=2)**
+  - **[onoken - P8107 (CLSW) \[Nervous Breakdown\]](/beatmapsets/306583#fruits/686192)**
 
 ### Semifinals
 
 **[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar)**
 
 - NoMod
-  - [Fear, and Loathing in Las Vegas - Swing It](/beatmaps/482147&m=2)
-  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (GAMI) \[Crystal's Angel\]](/beatmaps/658548&m=2)
-  - [bj.HaLo - Ende (ZiRoX) \[Deif's Overdose\]](/beatmaps/491215)
-  - [void feat. Komatsuna - Akatsuki No Tsuki (Spectator) \[Oriental\]](/beatmaps/668162&m=2)
-  - [Tristam & Braken - Frame of Mind (Fort) \[Chill\]](/beatmaps/581141&m=2)
-  - [Savant - Pirate bay (Drafura) \[Etoile\]](/beatmaps/247418&m=2)
+  - [Fear, and Loathing in Las Vegas - Swing It](/beatmapsets/204159#fruits/482147)
+  - Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (GAMI) \[Crystal's Angel\]
+  - [bj.HaLo - Ende (ZiRoX) \[Deif's Overdose\]](/beatmapsets/188401#fruits/491215)
+  - [void feat. Komatsuna - Akatsuki No Tsuki (Spectator) \[Oriental\]](/beatmapsets/297668#fruits/668162)
+  - [Tristam & Braken - Frame of Mind (Fort) \[Chill\]](/beatmapsets/177523#fruits/581141)
+  - [Savant - Pirate bay (Drafura) \[Etoile\]](/beatmapsets/91386#fruits/247418)
 - Hidden
-  - [BoA - Kiseki (Hinsvar) \[Crystal's Rain\]](/beatmaps/388536&m=2)
-  - [44teru-k - F.I (Jacob) \[Extra445\]](/beatmaps/155235&m=2)
-  - [Beautiful Day - V3 (ignorethis) \[Impossible\]](/beatmaps/41313&m=2)
-  - [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](/beatmaps/179758&m=2)
+  - [BoA - Kiseki (Hinsvar) \[Crystal's Rain\]](/beatmapsets/150145#fruits/388536)
+  - [44teru-k - F.I (Jacob) \[Extra445\]](/beatmapsets/47664#fruits/155235)
+  - [Beautiful Day - V3 (ignorethis) \[Impossible\]](/beatmapsets/4622#fruits/41313)
+  - [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](/beatmapsets/60081#fruits/179758)
 - HardRock
-  - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[Spec's Overdose\]](/beatmaps/470966&m=2)
-  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmaps/78913&m=2)
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](/beatmaps/99342&m=2)
-  - [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](/beatmaps/78049&m=2)
+  - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[Spec's Overdose\]](/beatmapsets/194910#fruits/470966)
+  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmapsets/22773#fruits/78913)
+  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](/beatmapsets/30012#fruits/99342)
+  - [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](/beatmapsets/22659#fruits/78049)
 - DoubleTime
-  - [Denji Sano - Taiko Time (lepidopodus) \[Insane\]](/beatmaps/84911&m=2)
-  - [Katy Perry - E.T. (La Cataline) \[Futuristic\]](/beatmaps/116708&m=2)
-  - [U - Ha-tenya? (biwako) \[Insane\]](/beatmaps/120080&m=2)
-  - [Asumi Kana - SOMEONE ELSE (miccoliasms) \[Insane\]](/beatmaps/50907&m=2)
+  - [Denji Sano - Taiko Time (lepidopodus) \[Insane\]](/beatmapsets/24320#fruits/84911)
+  - [Katy Perry - E.T. (La Cataline) \[Futuristic\]](/beatmapsets/36077#fruits/116708)
+  - [U - Ha-tenya? (biwako) \[Insane\]](/beatmapsets/37313#fruits/120080)
+  - [Asumi Kana - SOMEONE ELSE (miccoliasms) \[Insane\]](/beatmapsets/13833#fruits/50907)
 - Tiebreaker
-  - **[ICE - L (Deif) \[Ascension\]](/beatmaps/465454&m=2)**
+  - **[ICE - L (Deif) \[Ascension\]](/beatmapsets/196230#fruits/465454)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar)**
 
 - NoMod
-  - [Linked Horizon - Guren no Yumiya (TV Size) (eldnl) \[Overdose\]](/beatmaps/326464&m=2)
-  - [Soleily - Renatus (Multiple Creators) \[Rain\]](/beatmaps/557811&m=2)
-  - [Mutsuhiko Izumi - Snow Goose (ZiRoX) \[Overdose\]](/beatmaps/371595&m=2)
-  - [BiBi - Cutie Panther (CLSW) \[Captivation\]](/beatmaps/572707&m=2)
-  - [Megpoid GUMI - Romantic Hero (tutuhaha) \[Hero\]](/beatmaps/136509&m=2)
-  - [An - Artcore Jinja (ursa) \[OverdoZe\]](/beatmaps/505566&m=2)
+  - [Linked Horizon - Guren no Yumiya (TV Size) (eldnl) \[Overdose\]](/beatmapsets/103150#fruits/326464)
+  - [Soleily - Renatus (Multiple Creators) \[Rain\]](/beatmapsets/241526#fruits/557811)
+  - [Mutsuhiko Izumi - Snow Goose (ZiRoX) \[Overdose\]](/beatmapsets/150615#fruits/371595)
+  - [BiBi - Cutie Panther (CLSW) \[Captivation\]](/beatmapsets/249055#fruits/572707)
+  - [Megpoid GUMI - Romantic Hero (tutuhaha) \[Hero\]](/beatmapsets/43508#fruits/136509)
+  - [An - Artcore Jinja (ursa) \[OverdoZe\]](/beatmapsets/215155#fruits/505566)
 - Hidden
-  - [Yucha-P - Thieves Night Trick (tutuhaha) \[Extra\]](/beatmaps/219090&m=2)
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmaps/93021&m=2)
-  - [Marika - Knowing short ver. (Konei) \[Rain\]](/beatmaps/572867&m=2)
-  - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](/beatmaps/468824&m=2)
+  - [Yucha-P - Thieves Night Trick (tutuhaha) \[Extra\]](/beatmapsets/78268#fruits/219090)
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmapsets/27807#fruits/93021)
+  - [Marika - Knowing short ver. (Konei) \[Rain\]](/beatmapsets/146780#fruits/572867)
+  - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](/beatmapsets/197689#fruits/468824)
 - HardRock
-  - [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](/beatmaps/86245&m=2)
-  - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](/beatmaps/80384&m=2)
-  - [sun3 - Higan Retour (saymun) \[Lunatic\]](/beatmaps/54373&m=2)
-  - [Mili - Utopiosphere (Spectator) \[Ecstasia\]](/beatmaps/446769&m=2)
+  - [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](/beatmapsets/23616#fruits/86245)
+  - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](/beatmapsets/23483#fruits/80384)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](/beatmapsets/14464#fruits/54373)
+  - [Mili - Utopiosphere (Spectator) \[Ecstasia\]](/beatmapsets/187177#fruits/446769)
 - DoubleTime
-  - [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](/beatmaps/274365&m=2)
-  - [Giga-P - Electric Angel (pkmnyab) \[Insane\]](/beatmaps/363639&m=2)
-  - [GUMI - PANDA HERO (gowww) \[Insane\]](/beatmaps/86266&m=2)
-  - [Kyary Pamyu Pamyu - PONPONPON (D33d) \[Boxxy's Velocity of Collabiflower\]](/beatmaps/136655&m=2)
+  - [Yousei Teikoku - Deep Sea (EvilElvisV2) \[LC\]](/beatmapsets/104260#fruits/274365)
+  - [Giga-P - Electric Angel (pkmnyab) \[Insane\]](/beatmapsets/146794#fruits/363639)
+  - [GUMI - PANDA HERO (gowww) \[Insane\]](/beatmapsets/25461#fruits/86266)
+  - [Kyary Pamyu Pamyu - PONPONPON (D33d) \[Boxxy's Velocity of Collabiflower\]](/beatmapsets/36225#fruits/136655)
 - Tiebreaker
-  - **[Hatsuki Yura - Yoiyami Hanabi (Spectator) \[Twilight\]](/beatmaps/456933&m=2)**
+  - **[Hatsuki Yura - Yoiyami Hanabi (Spectator) \[Twilight\]](/beatmapsets/192079#fruits/456933)**
 
 ### Round of 16
 
 **[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
 
 - NoMod
-  - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](/beatmaps/388088&m=2)
-  - [Mind Vortex - Alive (Katty Pie) \[Insane\]](/beatmaps/484661&m=2)
-  - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](/beatmaps/145118&m=2)
-  - [Hatsune Miku - Nehanshika (Shiirn) \[Abomination\]](/beatmaps/101178&m=2)
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](/beatmaps/100392&m=2)
-  - [MiddleIsland - Achromat (Tidek) \[Insane\]](/beatmaps/333675&m=2)
+  - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](/beatmapsets/158706#fruits/388088)
+  - [Mind Vortex - Alive (Katty Pie) \[Insane\]](/beatmapsets/205309#fruits/484661)
+  - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](/beatmapsets/35992#fruits/145118)
+  - [Hatsune Miku - Nehanshika (Shiirn) \[Abomination\]](/beatmapsets/30680#fruits/101178)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](/beatmapsets/29307#fruits/100392)
+  - [MiddleIsland - Achromat (Tidek) \[Insane\]](/beatmapsets/132728#fruits/333675)
 - Hidden
-  - [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](/beatmaps/441680&m=2)
-  - [Caravan Palace - Rock It For Me (tiper) \[Insane\]](/beatmaps/212118&m=2)
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](/beatmaps/290733&m=2)
-  - [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) \[Insane\]](/beatmaps/70764&m=2)
+  - [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](/beatmapsets/184512#fruits/441680)
+  - [Caravan Palace - Rock It For Me (tiper) \[Insane\]](/beatmapsets/69041#fruits/212118)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](/beatmapsets/111825#fruits/290733)
+  - [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) \[Insane\]](/beatmapsets/20239#fruits/70764)
 - HardRock
-  - [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Power of Stream\]](/beatmaps/91215&m=2)
-  - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](/beatmaps/171126&m=2)
-  - [fripSide - only my railgun (Full Ver.) (S i R i R u) \[Level 5\]](/beatmaps/47670&m=2)
-  - [Rameses B - Flaklypa (-kevincela-) \[Insane\]](/beatmaps/453358&m=2)
+  - [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Power of Stream\]](/beatmapsets/27152#fruits/91215)
+  - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](/beatmapsets/56633#fruits/171126)
+  - [fripSide - only my railgun (Full Ver.) (S i R i R u) \[Level 5\]](/beatmapsets/12768#fruits/47670)
+  - [Rameses B - Flaklypa (-kevincela-) \[Insane\]](/beatmapsets/190390#fruits/453358)
 - DoubleTime
-  - [Tatsh - Fuushi Kaden (happy30) \[Hard\]](/beatmaps/56044&m=2)
-  - [Hatsuki Yura - HAMELN (karenying) \[Insane\]](/beatmaps/136322&m=2)
-  - [07th Expansion - miragecoordinator (La Cataline) \[Hard\]](/beatmaps/102426&m=2)
-  - [Tune Up! - Bounce (Nightcore Mix) (osuplayer111) \[jericho2442's Rave\]](/beatmaps/82785&m=2)
+  - [Tatsh - Fuushi Kaden (happy30) \[Hard\]](/beatmapsets/15486#fruits/56044)
+  - [Hatsuki Yura - HAMELN (karenying) \[Insane\]](/beatmapsets/43446#fruits/136322)
+  - [07th Expansion - miragecoordinator (La Cataline) \[Hard\]](/beatmapsets/31116#fruits/102426)
+  - [Tune Up! - Bounce (Nightcore Mix) (osuplayer111) \[jericho2442's Rave\]](/beatmapsets/24315#fruits/82785)
 - Tiebreaker
-  - **[Saiya - Remote Control (CLSW) \[Crystal Spec\]](/beatmaps/423373&m=2)**
+  - **Saiya - Remote Control (CLSW) \[Crystal Spec\]**
 
 ### Group Stage
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
 
 - NoMod
-  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](/beatmaps/81560&m=2)
-  - [Rita - Princess Blood (CLSW) \[Rain\]](/beatmaps/436663&m=2)
-  - [Hanatan - Hyakunen Yakou (eveless) \[Insane\]](/beatmaps/220908&m=2)
-  - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (Vhy) \[Rain\]](/beatmaps/390102&m=2)
-  - [Traktion - Mission ASCII (galvenize) \[Another\]](/beatmaps/162405&m=2)
-  - [Xelia - Illumiscape (Kanna) \[Drafura's CtB Platter\]](/beatmaps/159792&m=2)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](/beatmapsets/23907#fruits/81560)
+  - [Rita - Princess Blood (CLSW) \[Rain\]](/beatmapsets/182009#fruits/436663)
+  - [Hanatan - Hyakunen Yakou (eveless) \[Insane\]](/beatmapsets/79100#fruits/220908)
+  - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (Vhy) \[Rain\]](/beatmapsets/158128#fruits/390102)
+  - [Traktion - Mission ASCII (galvenize) \[Another\]](/beatmapsets/53249#fruits/162405)
+  - [Xelia - Illumiscape (Kanna) \[Drafura's CtB Platter\]](/beatmapsets/43960#fruits/159792)
 - Hidden
-  - [bibuko - Crayon (val0108) \[Insane\]](/beatmaps/152463&m=2)
-  - [sta - Iris (ampzz) \[Insane\]](/beatmaps/255163&m=2)
-  - [Rchetype - V Is For (Blue Dragon) \[Insane\]](/beatmaps/290919&m=2)
-  - [Goose house - 18sai (mingmichael) \[Rain\]](/beatmaps/560408&m=2)
+  - [bibuko - Crayon (val0108) \[Insane\]](/beatmapsets/49455#fruits/152463)
+  - [sta - Iris (ampzz) \[Insane\]](/beatmapsets/94917#fruits/255163)
+  - [Rchetype - V Is For (Blue Dragon) \[Insane\]](/beatmapsets/111914#fruits/290919)
+  - [Goose house - 18sai (mingmichael) \[Rain\]](/beatmapsets/242856#fruits/560408)
 - HardRock
-  - [Chata - Dango Daikazoku -TV animation Ver.- (Pappy) \[Platter\]](/beatmaps/533077&m=2)
-  - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Hard\]](/beatmaps/230175&m=2)
-  - [Kino Nei - Ougon Musou Kyoku \~Konjiki no Chi ni Somaru Mae ni\~ (Suzully) \[Golden Truth\]](/beatmaps/84566&m=2)
-  - [TERRA - ever snow (ouranhshc) \[Hard\]](/beatmaps/81789&m=2)
+  - [Chata - Dango Daikazoku -TV animation Ver.- (Pappy) \[Platter\]](/beatmapsets/214978#fruits/533077)
+  - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Hard\]](/beatmapsets/83333#fruits/230175)
+  - [Kino Nei - Ougon Musou Kyoku \~Konjiki no Chi ni Somaru Mae ni\~ (Suzully) \[Golden Truth\]](/beatmapsets/24903#fruits/84566)
+  - [TERRA - ever snow (ouranhshc) \[Hard\]](/beatmapsets/23477#fruits/81789)
 - DoubleTime
-  - [October - Time to Love (CLSW) \[Posthumous\]](/beatmaps/569690&m=2)
-  - [BURTON - Shinonomegiku (\[\_Crystal\]) \[Kurokami's Platter\]](/beatmaps/382311&m=2)
-  - [Drop - Yunagi Rinne (Shinxyn) \[Insane\]](/beatmaps/52900&m=2)
-  - [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[Insane\]](/beatmaps/50291&m=2)
+  - October - Time to Love (CLSW) \[Posthumous\]
+  - [BURTON - Shinonomegiku (\[\_Crystal\]) \[Kurokami's Platter\]](/beatmapsets/152709#fruits/382311)
+  - [Drop - Yunagi Rinne (Shinxyn) \[Insane\]](/beatmapsets/14460#fruits/52900)
+  - [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[Insane\]](/beatmapsets/13628#fruits/50291)
 - Tiebreaker
-  - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](/beatmaps/587577&m=2)**
+  - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](/beatmapsets/230050#fruits/587577)**
 
 ------------------------------------------------------------------------
 

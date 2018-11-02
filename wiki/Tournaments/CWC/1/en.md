@@ -105,110 +105,110 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod
-  - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING \[CWC competition\]](/beatmaps/137035&m=2)
-  - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](/beatmaps/135142&m=2)
+  - SUPER STAR -MITSURU- - THANK YOU FOR PLAYING \[CWC competition\]
+  - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](/beatmapsets/43027#fruits/135142)
   - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- \[2Q\]](http://puu.sh/ccsl)
-  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](/beatmaps/102923&m=2)
+  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](/beatmapsets/31297#fruits/102923)
   - [NicoNico Chorus - World's End Dancehall \[CLSPEC Adieu Special\]](http://puu.sh/eykZ)
   - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](http://puu.sh/1g0e)
   - [LEAF XCEED Music Division - Fur Elise \[Extra CtB Stage\]](http://puu.sh/HiC)
   - [Yousei Teikoku - Kokou no Sousei \[Verdi's TAG2\]](http://puu.sh/f6oX)
-  - [Ryu\* - I'm so Happy \[Shana's Madness CTB\]](http://osu.ppy.sh/s/30006)
+  - Ryu\* - I'm so Happy \[Shana's Madness CTB\]
 
 ### Semifinals
 
 - NoMod
-  - [BACK-ON - flyaway \[Tales of\] Remix (ztrot) \[FLYAWAY!!!\]](/beatmaps/44782&m=2)
-  - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Atomic\]](/beatmaps/91037&m=2)
-  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](/beatmaps/66246&m=2)
-  - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](/beatmaps/76663&m=2)
-  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](/beatmaps/126671&m=2)
-  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](/beatmaps/58970&m=2)
-  - [DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](/beatmaps/97416&m=2)
+  - [BACK-ON - flyaway \[Tales of\] Remix (ztrot) \[FLYAWAY!!!\]](/beatmapsets/11620#fruits/44782)
+  - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Atomic\]](/beatmapsets/20125#fruits/91037)
+  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](/beatmapsets/10406#fruits/66246)
+  - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](/beatmapsets/22194#fruits/76663)
+  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](/beatmapsets/39816#fruits/126671)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](/beatmapsets/16457#fruits/58970)
+  - [DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](/beatmapsets/24611#fruits/97416)
 
 ### Quarterfinals
 
 - NoMod
-  - [IOSYS - Accept Bloody Fate (Louis Cyphre) \[Lunatic\]](/beatmaps/120066&m=2)
-  - [goreshit - MATZcore (Ekoro) \[Lolicore\]](/beatmaps/83975&m=2)
-  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](/beatmaps/112586&m=2)
-  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](/beatmaps/62589&m=2)
-  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](/beatmaps/45433&m=2)
+  - [IOSYS - Accept Bloody Fate (Louis Cyphre) \[Lunatic\]](/beatmapsets/37305#fruits/120066)
+  - [goreshit - MATZcore (Ekoro) \[Lolicore\]](/beatmapsets/24388#fruits/83975)
+  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](/beatmapsets/32775#fruits/112586)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](/beatmapsets/16619#fruits/62589)
+  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](/beatmapsets/12030#fruits/45433)
   
 ### Round 5
 
 - NoMod
-  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmaps/78913&m=2)
-  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](/beatmaps/84801&m=2)
-  - [Sound Horizon - Shiseru Eiyuutachi no Tatakai (zerosyn) \[Thanatos\]](/beatmaps/39298&m=2)
-  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](/beatmaps/87223&m=2)
-  - [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (gowww) \[gow's Lunatic\]](/beatmaps/112158&m=2)
-  - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](/beatmaps/92780&m=2)
-  - [xi - Halcyon (gowww) \[Another\]](/beatmaps/73699&m=2)
-  - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](/beatmaps/48985&m=2)
-  - [FamilyMart Jingle (deepsea, ignorethis, Alace, SOGASOGAMO) \[Family Mart is your home\]](/beatmaps/37658&m=2])
+  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmapsets/22773#fruits/78913)
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](/beatmapsets/24782#fruits/84801)
+  - [Sound Horizon - Shiseru Eiyuutachi no Tatakai (zerosyn) \[Thanatos\]](/beatmapsets/8809#fruits/39298)
+  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](/beatmapsets/24177#fruits/87223)
+  - [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (gowww) \[gow's Lunatic\]](/beatmapsets/28342#fruits/112158)
+  - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](/beatmapsets/27712#fruits/92780)
+  - [xi - Halcyon (gowww) \[Another\]](/beatmapsets/20871#fruits/73699)
+  - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](/beatmapsets/13204#fruits/48985)
+  - [FamilyMart Jingle (deepsea, ignorethis, Alace, SOGASOGAMO) \[Family Mart is your home\]](/beatmapsets/9400#fruits/37658)
 - Tiebreaker
-  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (uranuss8600) \[Uran's CTB\]](/beatmaps/51945&m=2)**
+  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (uranuss8600) \[Uran's CTB\]](/beatmapsets/13676#fruits/51945)**
 
 ### Round 4
 
 - NoMod
-  - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](/beatmaps/81560&m=2)
-  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](/beatmaps/100627&m=2)
-  - [IOSYS - Okuu's Nuclear Fusion Dojo (v2b) \[v2b's Insane\]](/beatmaps/37166&m=2)
-  - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](/beatmaps/83674&m=2)
-  - [Flobots - Handlebars (-Xero-) \[Holocaust\]](/beatmaps/58143&m=2)
-  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](/beatmaps/63875&m=2)
-  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](/beatmaps/87728&m=2)
-  - [Faylan - Last vision for last (Clare) \[Impossible\]](/beatmaps/77769&m=2)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](/beatmaps/93842&m=2])
+  - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](/beatmapsets/23907#fruits/81560)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](/beatmapsets/30485#fruits/100627)
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (v2b) \[v2b's Insane\]](/beatmapsets/8442#fruits/37166)
+  - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](/beatmapsets/24634#fruits/83674)
+  - [Flobots - Handlebars (-Xero-) \[Holocaust\]](/beatmapsets/16091#fruits/58143)
+  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](/beatmapsets/4404#fruits/63875)
+  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](/beatmapsets/25922#fruits/87728)
+  - [Faylan - Last vision for last (Clare) \[Impossible\]](/beatmapsets/22571#fruits/77769)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](/beatmapsets/28107#fruits/93842)
 - Tiebreaker
-  - **[07th Expansion - Final Answer (Shiirn) \[Question\]](/beatmaps/117232&m=2)**
+  - **[07th Expansion - Final Answer (Shiirn) \[Question\]](/beatmapsets/36272#fruits/117232)**
 
 ### Round 3
 
 - NoMod
-  - [Yousei Teikoku - Torikago (furawa) \[yami\]](/beatmaps/44746&m=2)
-  - [Nekomata Master - Goodbye Heaven (gdeath) \[Another\]](/beatmaps/48926&m=2)
-  - [Ryu* Vs. Sota - Go Beyond! (Sprosive) \[Sp's Darkness\]](/beatmaps/84398&m=2)
-  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/42244&m=2)
-  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](/beatmaps/85494&m=2)
-  - [Megurine Luka - Leia (gowww) \[gowww\]](/beatmaps/96587&m=2)
-  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](/beatmaps/47152&m=2)
-  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](/beatmaps/67504&m=2)
-  - [Hyadain - Chocobo (mtmcl) \[Gold\]](/beatmaps/24023&m=2)
+  - [Yousei Teikoku - Torikago (furawa) \[yami\]](/beatmapsets/11781#fruits/44746)
+  - [Nekomata Master - Goodbye Heaven (gdeath) \[Another\]](/beatmapsets/12688#fruits/48926)
+  - [Ryu* Vs. Sota - Go Beyond! (Sprosive) \[Sp's Darkness\]](/beatmapsets/19705#fruits/84398)
+  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/10714#fruits/42244)
+  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](/beatmapsets/25248#fruits/85494)
+  - [Megurine Luka - Leia (gowww) \[gowww\]](/beatmapsets/29064#fruits/96587)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](/beatmapsets/12483#fruits/47152)
+  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](/beatmapsets/17819#fruits/67504)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](/beatmapsets/4392#fruits/24023)
 - Tiebreaker
-  - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](/beatmaps/85550&m=2)**
+  - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](/beatmapsets/25098#fruits/85550)**
 
 ### Round 2
 
 - NoMod
-  - [Sakakibara Yui - Koi no Honoo (ignorethis) \[ignore's Slider Madness\]](/beatmaps/35010&m=2)
-  - [DJ YOSHITAKA - ALBIDA (Nakagawa-Kanon) \[Extreme\]](/beatmaps/77810&m=2)
-  - [TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](/beatmaps/56830&m=2)
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Champion\]](/beatmaps/81594&m=2)
-  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](/beatmaps/105534&m=2)
-  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](/beatmaps/98496&m=2)
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmaps/93021&m=2)
-  - [Rhapsody - Emerald Sword (Duoprism) \[Extreme\]](/beatmaps/25580&m=2)
-  - [IOSYS - Border of Death (Nakagawa-Kanon) \[Lunatic\]](/beatmaps/53380&m=2)
+  - [Sakakibara Yui - Koi no Honoo (ignorethis) \[ignore's Slider Madness\]](/beatmapsets/8511#fruits/35010)
+  - [DJ YOSHITAKA - ALBIDA (Nakagawa-Kanon) \[Extreme\]](/beatmapsets/19561#fruits/77810)
+  - [TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](/beatmapsets/15740#fruits/56830)
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Champion\]](/beatmapsets/23916#fruits/81594)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](/beatmapsets/30128#fruits/105534)
+  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](/beatmapsets/29727#fruits/98496)
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmapsets/27807#fruits/93021)
+  - [Rhapsody - Emerald Sword (Duoprism) \[Extreme\]](/beatmapsets/3198#fruits/25580)
+  - [IOSYS - Border of Death (Nakagawa-Kanon) \[Lunatic\]](/beatmapsets/14107#fruits/53380)
 - Tiebreaker
-  - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](/beatmaps/96358&m=2)**
+  - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](/beatmapsets/28984#fruits/96358)**
 
 ### Round 1
 
 - NoMod
-  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](/beatmaps/104635&m=2)
-  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster) \[Hot Spring\]](/beatmaps/95431&m=2)
-  - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](/beatmaps/107875&m=2)
-  - [yak\_won - Lucid (soulfear) \[Extra\]](/beatmaps/85852&m=2)
-  - [TuTuWan - Wo Ge Zai Guang Dian (v2b) \[Qi Shi Ma\]](/beatmaps/52940&m=2)
-  - [SHK - Weep Irish (fartownik) \[Another\]](/beatmaps/95360&m=2)
-  - [NH22 - Corrosion (Cecilia) \[Lunatic\]](/beatmaps/60941&m=2)
-  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmaps/111902&m=2)
-  - [Len - U.N. Owen was her? (Louis Cyphre) \[Insane\]](/beatmaps/78171&m=2)
+  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](/beatmapsets/29996#fruits/104635)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster) \[Hot Spring\]](/beatmapsets/27107#fruits/95431)
+  - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](/beatmapsets/33052#fruits/107875)
+  - [yak\_won - Lucid (soulfear) \[Extra\]](/beatmapsets/15898#fruits/85852)
+  - [TuTuWan - Wo Ge Zai Guang Dian (v2b) \[Qi Shi Ma\]](/beatmapsets/12034#fruits/52940)
+  - [SHK - Weep Irish (fartownik) \[Another\]](/beatmapsets/28545#fruits/95360)
+  - [NH22 - Corrosion (Cecilia) \[Lunatic\]](/beatmapsets/17044#fruits/60941)
+  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmapsets/34427#fruits/111902)
+  - [Len - U.N. Owen was her? (Louis Cyphre) \[Insane\]](/beatmapsets/22699#fruits/78171)
 - Tiebreaker
-  - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](/beatmaps/60858&m=2)**
+  - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/16782#fruits/60858)**
 
 ------------------------------------------------------------------------
 

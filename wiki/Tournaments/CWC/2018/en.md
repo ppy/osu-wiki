@@ -73,10 +73,10 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 | ![][flag_ID] | **Indonesia** | **[Deceitful](/users/1396447)**, [dika312](/users/741613), [Shurelia](/users/3807986), [LeWind](/users/9718235), [Minalinsky-](/users/2823883), [Galaxi](/users/2552435) |
 | ![][flag_IT] | **Italy** | **[ArMa79](/users/4982799)**, [119410501](/users/803484), [Trollingor](/users/4144266), [NyaRym x33 OwO](/users/5220794) |
 | ![][flag_JP] | **Japan** | **[noraRcat](/users/883939)**, [tasuke912](/users/2774767), [Molqus](/users/1927193), [ekr](/users/4497706), [gfbgd1](/users/6061811), [kusakabe001](/users/129806) |
-| ![][flag_NL] | **Netherlands** | **[SartNYAN OwO xD](/users/4100941)**, [UwUsley x33 OwO](/users/2407265), [AnimUwU cOwOre](/users/3212806), [b-a-d-s123](/users/3656717), [KevKjef](/users/9114235), [BlueSparklez](/users/6051155) |
-| ![][flag_NO] | **Norway** | **[Cameragod](/users/4974088)**, [Groex](/users/3970664), [Razor Sharp](/users/3414261), [Divine Cake](/users/3636998), [Vanilla-](/users/3400701), [Mile](/users/2760954) |
 | ![][flag_MY] | **Malaysia** | **[Future\_miku95](/users/2351567)**, [Gilochan](/users/598204), [Kagari](/users/3366264), [murutattack](/users/4480237), [Lute](/users/4011799) |
 | ![][flag_MX] | **Mexico** | **[Ponchiwi](/users/1089040)**, [JuanCiudades](/users/8061081), [Astrea](/users/3845678), [Cxlucha](/users/5063961), [Fensalir](/users/9953661), [Kashou](/users/4046640) |
+| ![][flag_NL] | **Netherlands** | **[SartNYAN OwO xD](/users/4100941)**, [UwUsley x33 OwO](/users/2407265), [AnimUwU cOwOre](/users/3212806), [b-a-d-s123](/users/3656717), [KevKjef](/users/9114235), [BlueSparklez](/users/6051155) |
+| ![][flag_NO] | **Norway** | **[Cameragod](/users/4974088)**, [Groex](/users/3970664), [Razor Sharp](/users/3414261), [Divine Cake](/users/3636998), [Vanilla-](/users/3400701), [Mile](/users/2760954) |
 | ![][flag_PH] | **Philippines** | **[-Plus-](/users/829284)**, [-Nicotine](/users/4818935), [-MomoX](/users/2150415), [Crowley](/users/6341006), [Roido](/users/6829103), [- Kielzu -](/users/6221114) |
 | ![][flag_PL] | **Poland** | **[Kosmit](/users/1749173)**, [BoberOfDarkness](/users/3427748), [-Filow-](/users/3157472), [wampir](/users/261497), [Uygrzybrzywszy](/users/4446007), [Skyleia](/users/2958293) |
 | ![][flag_PT] | **Portugal** | **[Buffow](/users/4427038)**, [uwu](/users/2788013), [PTrollYO](/users/6502093), [DemiGod Yoxide](/users/6205809), [123tris](/users/3821475) |
@@ -102,130 +102,130 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ### Finals
 
 - NoMod
-  - [USAO - Boss Rush \(Minato Yukina\) \[MAXIMUM\]](/beatmaps/1272534&m=2)
-  - [Morimori Atsushi - Paradigm Shift \(Emiru\) \[Quantum Fluctuation\]](/beatmaps/1536733&m=2)
-  - [xi - Akasha \(Yumeno Himiko\) \[Deluge\]](/beatmaps/1627017&m=2)
-  - [YuFu - Holy Moon \(Kuzino\) \[4Q\]](/beatmaps/112852&m=2)
-  - [DJ TOTTO feat. Sunao Yoshikawa - Arousing \(fanzhen0019\) \[HW's Extra\]](/beatmaps/368845&m=2)
-  - [Panda Eyes & Teminite - Highscore \(Fort\) \[Game Over\]](/beatmaps/736215&m=2)
+  - [USAO - Boss Rush \(Minato Yukina\) \[MAXIMUM\]](/beatmapsets/602460#fruits/1272534)
+  - [Morimori Atsushi - Paradigm Shift \(Emiru\) \[Quantum Fluctuation\]](/beatmapsets/727816#fruits/1536733)
+  - [xi - Akasha \(Yumeno Himiko\) \[Deluge\]](/beatmapsets/774083#fruits/1627017)
+  - [YuFu - Holy Moon \(Kuzino\) \[4Q\]](/beatmapsets/34729#fruits/112852)
+  - [DJ TOTTO feat. Sunao Yoshikawa - Arousing \(fanzhen0019\) \[HW's Extra\]](/beatmapsets/148092#fruits/368845)
+  - [Panda Eyes & Teminite - Highscore \(Fort\) \[Game Over\]](/beatmapsets/332532#fruits/736215)
 - Hidden
-  - [Memme - Goat Fantasia \(Spectator\) \[Overdose\]](/beatmaps/1346273&m=2)
-  - [kanonxkanon - Calendula Requiem \(F D Flourite\) \[Lycoris Radiata\]](/beatmaps/1371644&m=2)
-  - [Mitsuki - climactic cry \(Mythol\) \[RLQuillab2013\]](/beatmaps/362297&m=2)
+  - [Memme - Goat Fantasia \(Spectator\) \[Overdose\]](/beatmapsets/634496#fruits/1346273)
+  - [kanonxkanon - Calendula Requiem \(F D Flourite\) \[Lycoris Radiata\]](/beatmapsets/647485#fruits/1371644)
+  - [Mitsuki - climactic cry \(Mythol\) \[RLQuillab2013\]](/beatmapsets/146166#fruits/362297)
 - HardRock
-  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[Deif's Papaya\]](/beatmaps/1335618&m=2)
-  - [KASAI HARCORES - Cycle Hit \(Spectator\) \[Grand Slam\]](/beatmaps/1465042&m=2)
-  - [Megpoid GUMI - Cosmos \(val0108\) \[Cosmos\]](/beatmaps/123374&m=2)
+  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[Deif's Papaya\]](/beatmapsets/584714#fruits/1335618)
+  - [KASAI HARCORES - Cycle Hit \(Spectator\) \[Grand Slam\]](/beatmapsets/692367#fruits/1465042)
+  - [Megpoid GUMI - Cosmos \(val0108\) \[Cosmos\]](/beatmapsets/37054#fruits/123374)
 - DoubleTime
-  - [Sayaka Sasaki - Zzz \(Spectator\) \[Lullaby\]](/beatmaps/446794&m=2)
-  - [nanobii - HYPERDRIVE \(Ascendance\) \[Overdose\]](/beatmaps/1357221&m=2)
-  - [WALKUERE - Ikenai Borderline \(Rizia\) \[Insane\]](/beatmaps/975036&m=2)
+  - [Sayaka Sasaki - Zzz \(Spectator\) \[Lullaby\]](/beatmapsets/184710#fruits/446794)
+  - [nanobii - HYPERDRIVE \(Ascendance\) \[Overdose\]](/beatmapsets/639991#fruits/1357221)
+  - [WALKUERE - Ikenai Borderline \(Rizia\) \[Insane\]](/beatmapsets/454835#fruits/975036)
 - Tiebreaker
-  - **[BlackYooh vs. siromaru - BLACK or WHITE? \(Minato Yukina\) \[Final Showdown\]](/beatmaps/1324298&m=2)**
+  - **[BlackYooh vs. siromaru - BLACK or WHITE? \(Minato Yukina\) \[Final Showdown\]](/beatmapsets/628101#fruits/1324298)**
 
 ### Semifinals
 
 **[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
 
 - NoMod
-  - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](/beatmaps/1556545&m=2)
-  - [LeaF - Alice in Misanthrope -Ensei Alice- \(Deif\) \[Wonderland\]](/beatmaps/1674302&m=2)
-  - [Cres - End Time \(Intensity\) \[Steven\]](/beatmaps/883356&m=2)
-  - [AKI AKANE - Hankyou no Barrier Seed \(Spectator\) \[Alone\]](/beatmaps/1594657&m=2)
-  - [Getty vs. DJ DiA - Grayed Out -Antifront- \(Realazy\) \[Achromatic\]](/beatmaps/1477241&m=2)
-  - [GARNiDELiA - Gokuraku Jodo \(Vert\) \[Zweib's Expert\]](/beatmaps/1043223&m=2)
+  - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](/beatmapsets/649285#fruits/1556545)
+  - [LeaF - Alice in Misanthrope -Ensei Alice- \(Deif\) \[Wonderland\]](/beatmapsets/797236#fruits/1674302)
+  - [Cres - End Time \(Intensity\) \[Steven\]](/beatmapsets/406487#fruits/883356)
+  - [AKI AKANE - Hankyou no Barrier Seed \(Spectator\) \[Alone\]](/beatmapsets/758066#fruits/1594657)
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- \(Realazy\) \[Achromatic\]](/beatmapsets/578755#fruits/1477241)
+  - [GARNiDELiA - Gokuraku Jodo \(Vert\) \[Zweib's Expert\]](/beatmapsets/489039#fruits/1043223)
 - Hidden
-  - [Nekomata Gekidan - AsiaN distractive \(Yumeno Himiko\) \[Overdose\]](/beatmaps/1390877&m=2)
-  - [YUI - again \(Crowley\) \[brotherhood\]](/beatmaps/1552359&m=2)
-  - [monet - Noborenai Sakamichi \(Mirash\) \[Delis' Insane\]](/beatmaps/1419974&m=2)
+  - [Nekomata Gekidan - AsiaN distractive \(Yumeno Himiko\) \[Overdose\]](/beatmapsets/656489#fruits/1390877)
+  - [YUI - again \(Crowley\) \[brotherhood\]](/beatmapsets/735357#fruits/1552359)
+  - [monet - Noborenai Sakamichi \(Mirash\) \[Delis' Insane\]](/beatmapsets/671607#fruits/1419974)
 - HardRock
-  - [sak respect for Arata Iiyoshi - Reason of being \(rew0825\) \[Reason\]](/beatmaps/1573224&m=2)
-  - [Roselia - LOUDER \(scanter\) \[Crystal's Captivation\]](/beatmaps/1270272&m=2)
-  - [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[wkyik's Extra\]](/beatmaps/799724&m=2)
+  - [sak respect for Arata Iiyoshi - Reason of being \(rew0825\) \[Reason\]](/beatmapsets/746440#fruits/1573224)
+  - [Roselia - LOUDER \(scanter\) \[Crystal's Captivation\]](/beatmapsets/595580#fruits/1270272)
+  - [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[wkyik's Extra\]](/beatmapsets/363882#fruits/799724)
 - DoubleTime
-  - [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](/beatmaps/1036560&m=2)
-  - [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](/beatmaps/160002&m=2)
-  - [Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]](/beatmaps/1049378&m=2)
+  - [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](/beatmapsets/474216#fruits/1036560)
+  - [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](/beatmapsets/51977#fruits/160002)
+  - Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]
 - Tiebreaker
-  - **[Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](/beatmaps/1570019&m=2)**
+  - **[Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](/beatmapsets/744654#fruits/1570019)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
 
 - NoMod
-  - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](/beatmaps/1539487&m=2)
-  - [REOL - Yoiyoi Kokon \(Yumeno Himiko\) \[Overdose\]](/beatmaps/1432753&m=2)
-  - [xi - .357 Magnum \(Crowley\) \[Filibusterismo.\]](/beatmaps/1545661&m=2)
-  - [Aimer with chelly \(EGOIST\) - ninelie \(REDSHiFT x Vesuvia Remix\) \(-Luminate\) \[Daybreak\]](/beatmaps/1391955&m=2)
-  - [DECO\*27 - Reversible Campaign \(tutuhaha\) \[Extra\]](/beatmaps/1300151&m=2)
-  - [himmeltengoku - Whisper of Rose \(Tsukuyomi\) \[Maximum\]](/beatmaps/419487&m=2)
+  - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](/beatmapsets/729321#fruits/1539487)
+  - [REOL - Yoiyoi Kokon \(Yumeno Himiko\) \[Overdose\]](/beatmapsets/677464#fruits/1432753)
+  - [xi - .357 Magnum \(Crowley\) \[Filibusterismo.\]](/beatmapsets/732584#fruits/1545661)
+  - [Aimer with chelly \(EGOIST\) - ninelie \(REDSHiFT x Vesuvia Remix\) \(-Luminate\) \[Daybreak\]](/beatmapsets/657095#fruits/1391955)
+  - [DECO\*27 - Reversible Campaign \(tutuhaha\) \[Extra\]](/beatmapsets/616482#fruits/1300151)
+  - [himmeltengoku - Whisper of Rose \(Tsukuyomi\) \[Maximum\]](/beatmapsets/173614#fruits/419487)
 - Hidden
-  - [Hatsuki Yura - Saramandora no Odoriko \(F D Flourite\) \[Flamenco Dance\]](/beatmaps/1524083&m=2)
-  - [M2U - Stellar \(Spectator\) \[Alice\]](/beatmaps/1481269&m=2)
-  - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](/beatmaps/1353404&m=2)
+  - [Hatsuki Yura - Saramandora no Odoriko \(F D Flourite\) \[Flamenco Dance\]](/beatmapsets/721795#fruits/1524083)
+  - [M2U - Stellar \(Spectator\) \[Alice\]](/beatmapsets/699509#fruits/1481269)
+  - [\*namirin - Koi no Hime Hime Pettanko \(sahuang\) \[Curi's Extra\]](/beatmapsets/613083#fruits/1353404)
 - HardRock
-  - [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](/beatmaps/1450886&m=2)
-  - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](/beatmaps/1624766&m=2)
-  - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](/beatmaps/205282&m=2)
+  - [Zektbach - Turii \~Panta rhei\~ \(Kyuare\) \[Turii\]](/beatmapsets/685428#fruits/1450886)
+  - [MAZARE - Mazare Party \(incandescence\) \[Tenshichan's Rain\]](/beatmapsets/754402#fruits/1624766)
+  - [Renard - Da Nu Nuttah \(GamerX4life\) \[Nogard\]](/beatmapsets/62665#fruits/205282)
 - DoubleTime
-  - [u's - Snow halation \(Hinsvar\) \[Vhy's Platter\]](/beatmaps/515242&m=2)
-  - [Toraboruta - Soleil \(Noffy\) \[Wild's Rain\]](/beatmaps/992848&m=2)
-  - [SHISHAMO - Egao no Tonari \(Zero\_\_wind\) \[Smile\]](/beatmaps/938481&m=2)
+  - [u's - Snow halation \(Hinsvar\) \[Vhy's Platter\]](/beatmapsets/209390#fruits/515242)
+  - [Toraboruta - Soleil \(Noffy\) \[Wild's Rain\]](/beatmapsets/308633#fruits/992848)
+  - [SHISHAMO - Egao no Tonari \(Zero\_\_wind\) \[Smile\]](/beatmapsets/435617#fruits/938481)
 - Tiebreaker
-  - **[Camellia - d:for the DELTA \(Minato Yukina\) \[Dereliction\]](/beatmaps/1221505&m=2)**
+  - **[Camellia - d:for the DELTA \(Minato Yukina\) \[Dereliction\]](/beatmapsets/577060#fruits/1221505)**
 
 ### Round of 16
 
 **[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
 
 - NoMod
-  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](/beatmaps/1599347&m=2)
-  - [Mili - Vulnerability \(Benny-\) \[Frail\]](/beatmaps/1494074&m=2)
-  - [sana - Packet Hero \(celerih\) \[Rain\]](/beatmaps/1469957&m=2)
-  - [EYE XY feat. Yoneko - Knight of Firmament \(The Chevalier\) \(Spectator\) \[Overdose\]](/beatmaps/1498888&m=2)
-  - [Fractal Dreamers - Paradigm Shift \(appleeaterx\) \[Expert\]](/beatmaps/1513623&m=2)
-  - [Nakashinoda Mugi - Senjou no Aria \(Okorin\) \[Extra Stage\]](/beatmaps/859696&m=2)
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](/beatmapsets/728912#fruits/1599347)
+  - [Mili - Vulnerability \(Benny-\) \[Frail\]](/beatmapsets/706599#fruits/1494074)
+  - [sana - Packet Hero \(celerih\) \[Rain\]](/beatmapsets/694901#fruits/1469957)
+  - [EYE XY feat. Yoneko - Knight of Firmament \(The Chevalier\) \(Spectator\) \[Overdose\]](/beatmapsets/709012#fruits/1498888)
+  - [Fractal Dreamers - Paradigm Shift \(appleeaterx\) \[Expert\]](/beatmapsets/716441#fruits/1513623)
+  - [Nakashinoda Mugi - Senjou no Aria \(Okorin\) \[Extra Stage\]](/beatmapsets/395046#fruits/859696)
 - Hidden
-  - [Akiyama Uni - Kaoru Juyouka \(murutattack\) \[Evanent's Rain\]](/beatmaps/1119599&m=2)
-  - [Warak - REANIMATE \(- Magic Bomb -\) \[Hyperion's Rain\]](/beatmaps/1042701&m=2)
-  - [96Neko x KurousaP - Kagen no Tsuki \(jonathanlfj\) \[Insane\]](/beatmaps/940295&m=2)
+  - [Akiyama Uni - Kaoru Juyouka \(murutattack\) \[Evanent's Rain\]](/beatmapsets/508690#fruits/1119599)
+  - [Warak - REANIMATE \(- Magic Bomb -\) \[Hyperion's Rain\]](/beatmapsets/489190#fruits/1042701)
+  - [96Neko x KurousaP - Kagen no Tsuki \(jonathanlfj\) \[Insane\]](/beatmapsets/393343#fruits/940295)
 - HardRock
-  - [Eisyo-kobu - Oriental Blossom \(Spectator\) \[Himiko's Rain\]](/beatmaps/1588595&m=2)
-  - [Suzuki Konomi - Redo \(Neoskylove\) \[tasuke's Rain\]](/beatmaps/1185455&m=2)
-  - [Hanatan - Shiwa \(Ami\) \[Insane\]](/beatmaps/329967&m=2)
+  - [Eisyo-kobu - Oriental Blossom \(Spectator\) \[Himiko's Rain\]](/beatmapsets/747823#fruits/1588595)
+  - [Suzuki Konomi - Redo \(Neoskylove\) \[tasuke's Rain\]](/beatmapsets/545351#fruits/1185455)
+  - [Hanatan - Shiwa \(Ami\) \[Insane\]](/beatmapsets/130704#fruits/329967)
 - DoubleTime
-  - [Kikuo - And Then You Became The Moon \(ZiRoX\) \[Platter\]](/beatmaps/777823&m=2)
-  - [Memme - Force of Ra \(Deif\) \[Platter\]](/beatmaps/1214850&m=2)
-  - [EastNewSound - Yuune Zekka, Ryouran no Sai \(goodbye\) \[Insane\]](/beatmaps/128163&m=2)
+  - [Kikuo - And Then You Became The Moon \(ZiRoX\) \[Platter\]](/beatmapsets/353010#fruits/777823)
+  - [Memme - Force of Ra \(Deif\) \[Platter\]](/beatmapsets/573479#fruits/1214850)
+  - [EastNewSound - Yuune Zekka, Ryouran no Sai \(goodbye\) \[Insane\]](/beatmapsets/40386#fruits/128163)
 - Tiebreaker
-  - **[Rita - Bookmark Memories \(F D Flourite\) \[Love\]](/beatmaps/1645428&m=2)**
+  - **[Rita - Bookmark Memories \(F D Flourite\) \[Love\]](/beatmapsets/783602#fruits/1645428)**
 
 ### Group Stage
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
 
 - NoMod
-  - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](/beatmaps/1439325&m=2)
-  - [Ito Kanako - Uncontrollable \(Yumeno Himiko\) \[Rain\]](/beatmaps/1183490&m=2)
-  - [Tama - Saigetsu \(Midnight Moon Walker Remix\) \(Spectator\) \[Overdose\]](/beatmaps/1530447&m=2)
-  - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](/beatmaps/771881&m=2)
-  - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](/beatmaps/111302&m=2)
-  - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](/beatmaps/846259&m=2)
+  - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](/beatmapsets/680437#fruits/1439325)
+  - [Ito Kanako - Uncontrollable \(Yumeno Himiko\) \[Rain\]](/beatmapsets/559539#fruits/1183490)
+  - [Tama - Saigetsu \(Midnight Moon Walker Remix\) \(Spectator\) \[Overdose\]](/beatmapsets/724793#fruits/1530447)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada \(CLSW\) \[SHD\]](/beatmapsets/350076#fruits/771881)
+  - [Nekomata Master - Far east nightbird \(tsuka\) \[Extreme\]](/beatmapsets/34203#fruits/111302)
+  - [Shawn Wasabi - Marble Soda \(Len\) \[Crier's Extra\]](/beatmapsets/387784#fruits/846259)
 - Hidden
-  - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](/beatmaps/1448086&m=2)
-  - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](/beatmaps/937653&m=2)
-  - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](/beatmaps/495543&m=2)
+  - [Mili - Bathtub Mermaid \(JeirYagtama\) \[Anatomy\]](/beatmapsets/684250#fruits/1448086)
+  - [Bitter Sweet Entertainment - Kanashimi no Mukougawa \(Piano Version\) \(JBHyperion\) \[Eternal\]](/beatmapsets/435287#fruits/937653)
+  - [Porter Robinson - Flicker \(Static Noise Bird\) \[Worlds\]](/beatmapsets/210682#fruits/495543)
 - HardRock
-  - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](/beatmaps/1154583&m=2)
-  - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](/beatmaps/899608&m=2)
-  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](/beatmaps/264701&m=2)  
+  - [OLDCODEX - Dried Up Youthful Fame \(TV Size\) \(RoseusJaeger\) \[Collab Platter\]](/beatmapsets/544889#fruits/1154583)
+  - [Horie Yui - Asymmetry \(Ascendance\) \[Collab Platter\]](/beatmapsets/414949#fruits/899608)
+  - [MinusP - Shura no Niwa \(wantuole\) \[Hard\]](/beatmapsets/98233#fruits/264701)  
 - DoubleTime
-  - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](/beatmaps/1533955&m=2)
-  - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](/beatmaps/717056&m=2)
-  - [Zac Efron - Scream \(pishifat\) \[ahh\]](/beatmaps/713932&m=2)
+  - [senya - Kachou Fuugetsu \(- Magic Girl -\) \[Benny's Platter\]](/beatmapsets/726596#fruits/1533955)
+  - [Nightwish - Last Of The Wilds \(BoberOfDarkness\) \[Platter\]](/beatmapsets/321999#fruits/717056)
+  - [Zac Efron - Scream \(pishifat\) \[ahh\]](/beatmapsets/320894#fruits/713932)
 - Tiebreaker
-  - **[Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](/beatmaps/1216211&m=2)**
+  - **[Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](/beatmapsets/574216#fruits/1216211)**
 
 ------------------------------------------------------------------------
 

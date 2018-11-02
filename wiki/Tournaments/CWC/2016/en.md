@@ -114,145 +114,145 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 **[Download the mappack here!](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
 
 - NoMod
-  - [Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]](/beatmaps/766249&m=2)
-  - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](/beatmaps/926084&m=2)
-  - [ZUN remixed by LeaF - Resurrection Spell (osu\_gangster) \[Hourai Doll\]](/beatmaps/696566&m=2)
-  - [O2i3 - Ooi \[Game Edit\] (xi-False) \[MQ (Deluge EX)\]](/beatmaps/968033&m=2)
-  - [Konuko - Toumei Elegy (Kyptoric) \[Forever Since\]](/beatmaps/805840&m=2)
-  - [KOTOKO - Wing my way (ZHSteven) \[Hell-Jumping\]](/beatmaps/328412&m=2)
+  - Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]
+  - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](/beatmapsets/429184#fruits/926084)
+  - [ZUN remixed by LeaF - Resurrection Spell (osu\_gangster) \[Hourai Doll\]](/beatmapsets/311925#fruits/696566)
+  - [O2i3 - Ooi \[Game Edit\] (xi-False) \[MQ (Deluge EX)\]](/beatmapsets/451239#fruits/968033)
+  - [Konuko - Toumei Elegy (Kyptoric) \[Forever Since\]](/beatmapsets/367425#fruits/805840)
+  - [KOTOKO - Wing my way (ZHSteven) \[Hell-Jumping\]](/beatmapsets/17744#fruits/328412)
 - Hidden
-  - [Susumu Hirasawa - Yume no Shima Shinen Kouen (Real1) \[KIRBY Mix\]](/beatmaps/31651&m=2)
-  - [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](/beatmaps/77930&m=2)
-  - [Rabpit - Sacred (ursa) \[Overdose\]](/beatmaps/344415&m=2)
-  - [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](/beatmaps/154988&m=2)
+  - [Susumu Hirasawa - Yume no Shima Shinen Kouen (Real1) \[KIRBY Mix\]](/beatmapsets/7226#fruits/31651)
+  - [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](/beatmapsets/22037#fruits/77930)
+  - [Rabpit - Sacred (ursa) \[Overdose\]](/beatmapsets/92456#fruits/344415)
+  - [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](/beatmapsets/50429#fruits/154988)
 - HardRock
-  - [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](/beatmaps/523376&m=2)
-  - [xi - Garyou Tensei (BoberOfDarkness) \[Overdose\]](/beatmaps/769051&m=2)
-  - [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](/beatmaps/58701&m=2)
-  - [LiSA - EGOiSTiC SHOOTER (Spectator) \[Overdose\]](/beatmaps/705339&m=2)
+  - [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](/beatmapsets/224164#fruits/523376)
+  - [xi - Garyou Tensei (BoberOfDarkness) \[Overdose\]](/beatmapsets/348640#fruits/769051)
+  - [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](/beatmapsets/16371#fruits/58701)
+  - [LiSA - EGOiSTiC SHOOTER (Spectator) \[Overdose\]](/beatmapsets/316580#fruits/705339)
 - DoubleTime
-  - [senya - Yukitoke Realism (wring) \[Lunatic\]](/beatmaps/579751&m=2)
-  - [ikumi - Watashi no 71% \<OVA ver.\> (Equim) \[Unfettered\]](/beatmaps/878649&m=2)
-  - [T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) \[Collab Insane\]](/beatmaps/528310&m=2)
-  - [Nelly ft. Fergie - Party People (YGOkid8) \[KIRBY'S BIRTHDAY PARTY!\]](/beatmaps/53493&m=2)
+  - [senya - Yukitoke Realism (wring) \[Lunatic\]](/beatmapsets/252385#fruits/579751&m=2)
+  - [ikumi - Watashi no 71% \<OVA ver.\> (Equim) \[Unfettered\]](/beatmapsets/329280#fruits/878649)
+  - [T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) \[Collab Insane\]](/beatmapsets/223530#fruits/528310)
+  - [Nelly ft. Fergie - Party People (YGOkid8) \[KIRBY'S BIRTHDAY PARTY!\]](/beatmapsets/12721#fruits/53493)
 - Tiebreaker
-  - **[Tatsh - IMAGE -MATERIAL- (CLSW) \[Envision\]](/beatmaps/933017&m=2)**
+  - **[Tatsh - IMAGE -MATERIAL- (CLSW) \[Envision\]](/beatmapsets/432720#fruits/933017)**
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
 
 - NoMod
-  - [Yooh - LegenD. (Flask) \[Len's OverdosE.\]](/beatmaps/867745&m=2)
-  - [Nekomata Master - Avalon no oka (Intensity) \[oveRdose\]](/beatmaps/512401&m=2)
-  - [ginkiha - eastward (Deif) \[Oriental\]](/beatmaps/801911&m=2)
-  - [Suzumu - Kakumeisei : Ousama densenbyo (Spectator) \[Kingdom\]](/beatmaps/734255&m=2)
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Kyuare) \[Excalibur\]](/beatmaps/808225&m=2)
-  - [Hige Driver join. SELEN - Dadadadadadadadadada (CLSW) \[EX\]](/beatmaps/771879&m=2)
+  - Yooh - LegenD. (Flask) \[Len's OverdosE.\]
+  - [Nekomata Master - Avalon no oka (Intensity) \[oveRdose\]](/beatmapsets/218623#fruits/512401)
+  - [ginkiha - eastward (Deif) \[Oriental\]](/beatmapsets/365365#fruits/801911)
+  - [Suzumu - Kakumeisei : Ousama densenbyo (Spectator) \[Kingdom\]](/beatmapsets/331453#fruits/734255)
+  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Kyuare) \[Excalibur\]](/beatmapsets/368469#fruits/808225)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada (CLSW) \[EX\]](/beatmapsets/350076#fruits/771879)
 - Hidden
-  - [S-C-U - milky ice bear (MMzz) \[Deif's CTB\]](/beatmaps/172985&m=2)
-  - [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](/beatmaps/753968&m=2)
-  - [W.T. Orchestra - William Tell Overture (Louis Cyphre) \[Champion\]](/beatmaps/97397&m=2)
-  - [Shounen Radio - neu (v2b) \[EX\]](/beatmaps/93893&m=2)
+  - [S-C-U - milky ice bear (MMzz) \[Deif's CTB\]](/beatmapsets/57272#fruits/172985)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](/beatmapsets/340903#fruits/753968)
+  - [W.T. Orchestra - William Tell Overture (Louis Cyphre) \[Champion\]](/beatmapsets/29107#fruits/97397)
+  - [Shounen Radio - neu (v2b) \[EX\]](/beatmapsets/28121#fruits/93893)
 - HardRock
-  - [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky) \[Spec's Gangsta Overdose\]](/beatmaps/710996&m=2)
-  - [BOSSFIGHT - Dr. Wily's Castle: Stage 1 (WildOne94) \[Wilderness\]](/beatmaps/783874&m=2)
-  - [8284 vs wa. - Adularescence (alienflybot) \[toybot's Overdose\]](/beatmaps/653661&m=2)
-  - [Pegboard Nerds x MisterWives - Coffins (Timorisu) \[Insane\]](/beatmaps/359411&m=2)
+  - [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky) \[Spec's Gangsta Overdose\]](/beatmapsets/287873#fruits/710996)
+  - [BOSSFIGHT - Dr. Wily's Castle: Stage 1 (WildOne94) \[Wilderness\]](/beatmapsets/356147#fruits/783874)
+  - [8284 vs wa. - Adularescence (alienflybot) \[toybot's Overdose\]](/beatmapsets/245851#fruits/653661)
+  - [Pegboard Nerds x MisterWives - Coffins (Timorisu) \[Insane\]](/beatmapsets/144771#fruits/359411)
 - DoubleTime
-  - [Kalafina - believe (CLSW) \[Bless\]](/beatmaps/705527&m=2)
-  - [Martynas - Hungarian Dance No. 5 in G minor (Sieg) \[Insane\]](/beatmaps/485631&m=2)
-  - [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) \[Collab\]](/beatmaps/122566&m=2)
-  - [seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i) \[EXTREME\]](/beatmaps/106361&m=2)
+  - [Kalafina - believe (CLSW) \[Bless\]](/beatmapsets/316647#fruits/705527)
+  - [Martynas - Hungarian Dance No. 5 in G minor (Sieg) \[Insane\]](/beatmapsets/199998#fruits/485631)
+  - [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) \[Collab\]](/beatmapsets/34896#fruits/122566)
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i) \[EXTREME\]](/beatmapsets/32523#fruits/106361)
 - Tiebreaker
-  - **[Igorrr - Pavor Nocturnus \[2015\] (Kyptoric) \[Despair\]](/beatmaps/952291&m=2)**
+  - **[Igorrr - Pavor Nocturnus \[2015\] (Kyptoric) \[Despair\]](/beatmapsets/442876#fruits/952291)**
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar)**
 
 - NoMod
-  - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](/beatmaps/635701&m=2)
-  - [Ryu\* - Sakura Mirage (Priti) \[ULTRA\]](/beatmaps/484036&m=2)
-  - [ONE OK ROCK - Kanzen Kankaku Dreamer (CLSW) \[Nemesis\]](/beatmaps/462771&m=2)
-  - [Yasuda Mizuho - Yoake no Bell ga Naru (wairin) \[Furely's Overdose\]](/beatmaps/830620&m=2)
-  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](/beatmaps/403039&m=2)
-  - [Memme - Avalanche (Spectator) \[Overdose\]](/beatmaps/785892&m=2)
+  - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](/beatmapsets/275991#fruits/635701)
+  - [Ryu\* - Sakura Mirage (Priti) \[ULTRA\]](/beatmapsets/205022#fruits/484036)
+  - ONE OK ROCK - Kanzen Kankaku Dreamer (CLSW) \[Nemesis\]
+  - [Yasuda Mizuho - Yoake no Bell ga Naru (wairin) \[Furely's Overdose\]](/beatmapsets/379459#fruits/830620)
+  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](/beatmapsets/165664#fruits/403039)
+  - [Memme - Avalanche (Spectator) \[Overdose\]](/beatmapsets/357244#fruits/785892)
 - Hidden
-  - [senya - Utakata, Ai no Mahoroba (Razor Sharp) \[Grief\]](/beatmaps/707042&m=2)
-  - [M2U & NICODE feat. Guriri & Lucy - Myosotis (Deif) \[Overdose\]](/beatmaps/986067&m=2)
-  - [yuikonnu - Souzou Forest (FlandreScarlet-) \[Rain\]](/beatmaps/444654&m=2)
-  - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmaps/55474&m=2)
+  - [senya - Utakata, Ai no Mahoroba (Razor Sharp) \[Grief\]](/beatmapsets/317372#fruits/707042)
+  - [M2U & NICODE feat. Guriri & Lucy - Myosotis (Deif) \[Overdose\]](/beatmapsets/460422#fruits/986067)
+  - [yuikonnu - Souzou Forest (FlandreScarlet-) \[Rain\]](/beatmapsets/186074#fruits/444654)
+  - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298#fruits/55474)
 - HardRock
-  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[sauci's Overdose\]](/beatmaps/635125&m=2)
-  - [Kawada Mami - Wings of Courage -Sora o Koete- (examination) \[Rain\]](/beatmaps/654678&m=2)
-  - [cranky - Libera me (wmfchris) \[Alarmable\]](/beatmaps/86531&m=2)
-  - [REDALiCE - Acceleration (JBHyperion) \[Rain\]](/beatmaps/854263&m=2)
+  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[sauci's Overdose\]](/beatmapsets/274111#fruits/635125)
+  - [Kawada Mami - Wings of Courage -Sora o Koete- (examination) \[Rain\]](/beatmapsets/245160#fruits/654678)
+  - [cranky - Libera me (wmfchris) \[Alarmable\]](/beatmapsets/21178#fruits/86531)
+  - [REDALiCE - Acceleration (JBHyperion) \[Rain\]](/beatmapsets/392304#fruits/854263)
 - DoubleTime
-  - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](/beatmaps/757539&m=2)
-  - [Patrick Burns - Rare Respite (eldnl) \[Jib Jig\]](/beatmaps/294823&m=2)
-  - [fripSide - Assemble\*LOVEsemble (Natteke) \[Natteke\]](/beatmaps/95653&m=2)
-  - [ichigo - YU-MU (Louis Cyphre) \[Extra\]](/beatmaps/128074&m=2)
+  - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](/beatmapsets/342751#fruits/757539)
+  - [Patrick Burns - Rare Respite (eldnl) \[Jib Jig\]](/beatmapsets/113705#fruits/294823)
+  - [fripSide - Assemble\*LOVEsemble (Natteke) \[Natteke\]](/beatmapsets/24627#fruits/95653)
+  - [ichigo - YU-MU (Louis Cyphre) \[Extra\]](/beatmapsets/40348#fruits/128074)
 - Tiebreaker
-  - **[marina - Towa yori Towa ni (CLSW) \[Eternity\]](/beatmaps/541677&m=2)**
+  - **[marina - Towa yori Towa ni (CLSW) \[Eternity\]](/beatmapsets/233376#fruits/541677)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar)**
 
 - NoMod
-  - [M2U - Gravity (WildOne94) \[Rain collab\]](/beatmaps/721170&m=2)
-  - [U2 Akiyama - Did You See That Shadow? (ZHSteven) \[Lunatic\]](/beatmaps/256312&m=2)
-  - [Sawai Miku - Colorful. (Anime Ver.) (Zoe) \[Mawaru~\]](/beatmaps/877065&m=2)
-  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](/beatmaps/181233&m=2)
-  - [Yousei Teikoku - Astral Dogma (Ashasaki) \[Hyperion's Rain\]](/beatmaps/848022&m=2)
-  - [xi vs sakuzyo - STORIA (Cut Ver.) (CLSW) \[SHD\]](/beatmaps/793328&m=2)
+  - [M2U - Gravity (WildOne94) \[Rain collab\]](/beatmapsets/310966#fruits/721170)
+  - [U2 Akiyama - Did You See That Shadow? (ZHSteven) \[Lunatic\]](/beatmapsets/87411#fruits/256312)
+  - [Sawai Miku - Colorful. (Anime Ver.) (Zoe) \[Mawaru~\]](/beatmapsets/403287#fruits/877065)
+  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](/beatmapsets/48874#fruits/181233)
+  - [Yousei Teikoku - Astral Dogma (Ashasaki) \[Hyperion's Rain\]](/beatmapsets/379698#fruits/848022)
+  - xi vs sakuzyo - STORIA (Cut Ver.) (CLSW) \[SHD\]
 - Hidden
-  - [sakuzyo - Altale (toybot) \[AFB's Rain\]](/beatmaps/724582&m=2)
-  - [Akiko Shikata - Katayoku no Tori (Deif) \[Rain\]](/beatmaps/708226&m=2)
-  - [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Pluvium Hyperionis\]](/beatmaps/900134&m=2)
-  - [Mili - A Turtle's Heart (Krah) \[Coeur\]](/beatmaps/674854&m=2)
+  - [sakuzyo - Altale (toybot) \[AFB's Rain\]](/beatmapsets/228815#fruits/724582)
+  - [Akiko Shikata - Katayoku no Tori (Deif) \[Rain\]](/beatmapsets/317968#fruits/708226)
+  - [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Pluvium Hyperionis\]](/beatmapsets/316390#fruits/900134)
+  - [Mili - A Turtle's Heart (Krah) \[Coeur\]](/beatmapsets/300937#fruits/674854)
 - HardRock
-  - [Nishino Kana - motto... (S h i a) \[Insane\]](/beatmaps/115509&m=2)
-  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Insane\]](/beatmaps/110626&m=2)
-  - [xi - Parousia (HelloSCV) \[-kevincela-'s Another\]](/beatmaps/283992&m=2)
-  - [Oratorio The World God Only Knows - God only knows Dai San Maku (O.A. version) (DJPop) \[Insane\]](/beatmaps/77308&m=2)
+  - [Nishino Kana - motto... (S h i a) \[Insane\]](/beatmapsets/30654#fruits/115509)
+  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Insane\]](/beatmapsets/33323#fruits/110626)
+  - [xi - Parousia (HelloSCV) \[-kevincela-'s Another\]](/beatmapsets/108470#fruits/283992)
+  - [Oratorio The World God Only Knows - God only knows Dai San Maku (O.A. version) (DJPop) \[Insane\]](/beatmapsets/22196#fruits/77308)
 - DoubleTime
-  - [Bangbros - Yeah Yeah Yeah! (Nightcore Mix) (ztrot) \[Yeah Yeah Yeah!\]](/beatmaps/93964&m=2)
-  - [Tamaz-P - Hirari, Hirari (DragonSlayer96) \[Platter\]](/beatmaps/491827&m=2)
-  - [Sakaue Nachi - Light travel distance RAYTO MIX (Frostmourne) \[Lunatic\]](/beatmaps/133852&m=2)
-  - [RADWIMPS - Jugemu (Amir) \[Ursa's Platter\]](/beatmaps/502367&m=2)
+  - [Bangbros - Yeah Yeah Yeah! (Nightcore Mix) (ztrot) \[Yeah Yeah Yeah!\]](/beatmapsets/28147#fruits/93964)
+  - Tamaz-P - Hirari, Hirari (DragonSlayer96) \[Platter\]
+  - [Sakaue Nachi - Light travel distance RAYTO MIX (Frostmourne) \[Lunatic\]](/beatmapsets/42575#fruits/133852)
+  - [RADWIMPS - Jugemu (Amir) \[Ursa's Platter\]](/beatmapsets/213732#fruits/502367)
 - Tiebreaker
-  - **[Halozy - Paranoid Lost (Kyuare) \[Lost Grapes\]](/beatmaps/688531&m=2)**
+  - **[Halozy - Paranoid Lost (Kyuare) \[Lost Grapes\]](/beatmapsets/307818#fruits/688531)**
 
 ### Group Stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
 
 - NoMod
-  - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](/beatmaps/668102&m=2)
-  - [Nakagawa Shoko - Sorairo Days (Zak) \[kjw's Rain\]](/beatmaps/366195&m=2)
-  - [Silent Spica - Anhedonia (alienflybot) \[Equim's Rain\]](/beatmaps/935536&m=2)
-  - [GARNiDELiA - grilletto (TV Size Ver.) (Karia) \[Rain\]](/beatmaps/505574&m=2)
-  - [TwoThirds & Feint feat. Veela - Epiphany (Spectator) \[Collab Rain\]](/beatmaps/753021&m=2)
-  - [Plasmagica - Have a nice MUSIC](/beatmaps/700067&m=2)
+  - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](/beatmapsets/294042#fruits/668102)
+  - [Nakagawa Shoko - Sorairo Days (Zak) \[kjw's Rain\]](/beatmapsets/147991#fruits/366195)
+  - [Silent Spica - Anhedonia (alienflybot) \[Equim's Rain\]](/beatmapsets/379524#fruits/935536)
+  - [GARNiDELiA - grilletto (TV Size Ver.) (Karia) \[Rain\]](/beatmapsets/208165#fruits/505574)
+  - [TwoThirds & Feint feat. Veela - Epiphany (Spectator) \[Collab Rain\]](/beatmapsets/340418#fruits/753021)
+  - [Plasmagica - Have a nice MUSIC](/beatmapsets/308064#fruits/700067)
 - Hidden
-  - [Team "Hanayamata" - Yorokobi Synchronicity (Xinely) \[Cherry Blossom\]](/beatmaps/872349&m=2)
-  - [MiddleIsland - Piano Concerto No.1 "Scream" (ZiRoX) \[Rain\]](/beatmaps/560536&m=2)
-  - [Masahiro Aoki - The Winter Campaign on Osaka (ursa) \[Rain\]](/beatmaps/548689&m=2)
-  - [Goose house - Sedan Girl (mingmichael) \[Rain\]](/beatmaps/662784&m=2)
+  - [Team "Hanayamata" - Yorokobi Synchronicity (Xinely) \[Cherry Blossom\]](/beatmapsets/368312#fruits/872349)
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (ZiRoX) \[Rain\]](/beatmapsets/242913#fruits/560536)
+  - [Masahiro Aoki - The Winter Campaign on Osaka (ursa) \[Rain\]](/beatmapsets/235871#fruits/548689)
+  - [Goose house - Sedan Girl (mingmichael) \[Rain\]](/beatmapsets/294874#fruits/662784)
 - HardRock
-  - [remixed celas vs 44teru-k - CONNECT r (Muya) \[Hyper\]](/beatmaps/163254&m=2)
-  - [Kemmei Adachi - Patapon theme (Aleks719) \[Hard\]](/beatmaps/190393&m=2)
-  - [Zircon - Dirt Devil (OC ReMix) (Mukku) \[Insane\]](/beatmaps/55760&m=2)
-  - [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Hard\]](/beatmaps/95782&m=2)
+  - [remixed celas vs 44teru-k - CONNECT r (Muya) \[Hyper\]](/beatmapsets/53574#fruits/163254)
+  - [Kemmei Adachi - Patapon theme (Aleks719) \[Hard\]](/beatmapsets/64808#fruits/190393)
+  - [Zircon - Dirt Devil (OC ReMix) (Mukku) \[Insane\]](/beatmapsets/14205#fruits/55760)
+  - [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Hard\]](/beatmapsets/28766#fruits/95782)
 - DoubleTime
-  - [Lon - Sweet Magic (Suzully) \[Insane\]](/beatmaps/120374&m=2)
-  - [Hai Nan - Ai La La (moonlightleaf) \[Insane\]](/beatmaps/374835&m=2)
-  - [SMiLE.dk - Golden Sky (meiikyuu) \[Insane\]](/beatmaps/155404&m=2)
-  - [T-ara - Sexy Love (Pink Agate) \[Hard\]](/beatmaps/206157&m=2)
+  - [Lon - Sweet Magic (Suzully) \[Insane\]](/beatmapsets/36702#fruits/120374)
+  - [Hai Nan - Ai La La (moonlightleaf) \[Insane\]](/beatmapsets/118459#fruits/374835)
+  - [SMiLE.dk - Golden Sky (meiikyuu) \[Insane\]](/beatmapsets/50587#fruits/155404)
+  - [T-ara - Sexy Love (Pink Agate) \[Hard\]](/beatmapsets/63233#fruits/206157)
 - Tiebreaker
-  - **[ginkiha - EOS (kamome sano rmx) (Broccoly) \[Spec's Overdose\]](/beatmaps/893683&m=2)**
+  - **[ginkiha - EOS (kamome sano rmx) (Broccoly) \[Spec's Overdose\]](/beatmapsets/404360#fruits/893683)**
 
 ------------------------------------------------------------------------
 
