@@ -1,31 +1,35 @@
 ---
 layout: post
-title: "Beatmap Spotlights: Summer 2018"
+title: "Seasonal Spotlights: Summer 2018"
 date: 2018-11-01 06:00:00 +0000
 ---
 
-Welcome back to a long-awaited rendition of this season's beatmap spotlights! We have lots of brilliant maps to showcase and some extra surprises for all of you!
+The heat might've come and gone, but the brand new Seasonal Spotlights are bringing the best of Summer 2018 back in beatmap form! Check it out!
 
-![](/wiki/shared/news/banners/spotlights-header.jpg)
+![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/header.jpg)
 
 The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=254). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
 
-## Changes within the Spotlights!
+## Changes to the Spotlights Project
 
-Without further ado, let us get into some recent changes brought about to the spotlights program.
-
-You may have noticed that the release of spotlights have been somewhat inconsistent, but worry no longer! Spotlights will now be released four times per year, once per season, and organized as follows:
+You may have noticed that the regular Monthly Beatmap Spotlights slowed down a bit and then outright stop a few months ago. After some internal discussion, we've decided to revamp the project to follow a seasonal release schedule going forward - and thus the Seasonal Spotlights are born!
 
 + **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
 + **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
 + **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
 + **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
-If you've ever been interested in joining the team itself, open applications will now be made public through Google forms! The size of the spotlights staff is continuously growing, with structured teams for all four game modes alike. If you think you've got the mapping experience and skills to showcase truly outstanding maps, you can find the application [here](https://goo.gl/XdNvXo)! If you just want to observe, we decided to make our discord server public and you are [free to join](http://discord.gg/Z28ZtUf)! With that said, discussion about the future and other important stuff will still happen on the dedicated channel of [osu!dev](Http://discord.gg/ppy).
+The astute among us will note that it is indeed, November, and not September - the delay in releasing the Summer Spotlights is a one-time affair and the others will all be proceeding following the schedule listed above.
 
-We're also looking to integrate the spotlights further into gameplay to create a more competitive experience. The top three players who manage to conquer the spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively.
+**The Spotlights team is also looking for new members!** If you've ever been interested in helping pick out the best of the best beatmaps from a given seasonal cycle and think you've got what it takes to contribute, we want to hear from you! Check out the application [here](https://goo.gl/XdNvXo)! 
 
-Don't worry, we haven't forgotten about our mappers either. There's lots of other exciting things for the mappers and the leaderboards themselves that are coming soon!
+If you just want to observe the process and get a feel for things, we've decided to make our Discord server public and you are [free to join](http://discord.gg/Z28ZtUf) if you like. With that said, discussion about the future and other important stuff will still happen on the dedicated *#osu-spotlights* channel over at the [osu! development Discord](Http://discord.gg/ppy).
+
+We're also looking to freshen up the Spotlights gameplay experience to make it a little more competitive. The top three players who manage to conquer the Seasonal Spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively.
+
+We are also pushing to increase the visibility of the Spotlights on the website and in-game, though more on that front will happen later on in 2019.
+
+For now, let's get stuck right into this year's blazing summer beatmap hits!
 
 # Navigation
 
@@ -44,11 +48,11 @@ This time, [ScubDomino](https://osu.ppy.sh/users/8972308) brings us sakuraburst'
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/i-got-that-tune.jpg)](http://osu.ppy.sh/beatmapsets/793027)
 
-Here's the map of Chinese Man's "I Got That Tune (Tha Trickaz Remix)", brought to you by [toybot](https://osu.ppy.sh/users/2848604). Switching between different music styles and speeds, toybot works perfectly with their clean, organized mapping style. Those beautiful tricks on slider shapes and slider velocities also make this map quite outstanding. Don't forget to show your support to this!
+Here's a map of Chinese Man's "I Got That Tune (Tha Trickaz Remix)", brought to you by [toybot](https://osu.ppy.sh/users/2848604). Switching between different music styles and speeds, toybot works perfectly with their clean, organized mapping style, sporting a variety of beautiful tricks incorporating both slider shapes and slider velocities to make this map something quite outstanding.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/the-raven-that-refused-to-sing.jpg)](http://osu.ppy.sh/beatmapsets/767446)
 
-[Mismagius](https://osu.ppy.sh/users/19048) did a great job with their map of Steven Wilson's "The Raven That Refused to Sing". With a song that's full of emotions, its details are perfectly represented through different spacings and slidershapes. The smooth hitsounding matches the song perfectly, providing good contrast between calm and intense sections. You should definitely try this map out!
+[Mismagius](https://osu.ppy.sh/users/19048) did a great job with their map of Steven Wilson's "The Raven That Refused to Sing". With a track that's full of emotions, its details are perfectly represented through different spacings and slider shapes. The smooth hitsounding compliments the song superbly, providing contrast between the calm and intense sections. You should definitely try this map out!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/you-and-beautiful-world.jpg)](http://osu.ppy.sh/beatmapsets/782784)
 
@@ -56,13 +60,13 @@ Despite being a relatively new mapper, [den0saur](https://osu.ppy.sh/users/53851
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/glitch.jpg)](http://osu.ppy.sh/beatmapsets/785774)
 
-Coming straight from the Mapping Guild with a Featured Artist song, [Mao](https://osu.ppy.sh/users/2204515), [Gero](https://osu.ppy.sh/users/1467715), [Mirash](https://osu.ppy.sh/users/2841009) and [Noffy](https://osu.ppy.sh/users/1541323) proved us that beatmapping is truly a piece of art. With a mixture of streams and slider velocity changes, accompanied by one of the most stunning storyboard, this beatmap is definitely worth being up in this summer chart.
+Coming straight from the Mapper's Guild with a Featured Artist song, [Mao](https://osu.ppy.sh/users/2204515), [Gero](https://osu.ppy.sh/users/1467715), [Mirash](https://osu.ppy.sh/users/2841009) and [Noffy](https://osu.ppy.sh/users/1541323) proved us that beatmapping is truly a piece of art. With a mixture of streams and slider velocity changes, accompanied by one of the most stunning storyboards seen this season, this set is definitely worth checking out.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/negai.jpg)](https://osu.ppy.sh/beatmapsets/671268)
 
-Lightly edited from the original version made five years ago, [Hollow Wings](https://osu.ppy.sh/users/416662) brings us a pleasant mapset that has aged very well with Ishida Yoko's "Negai". Built on a low-bpm swing beat, this map mixes slow and simple sections with faster, energetic choruses that will have your cursor dancing across the screen to their lovely melody. 
+Lightly edited from the original version made five years ago, [Hollow Wings](https://osu.ppy.sh/users/416662) brings us a pleasant set that has aged very well with Ishida Yoko's "Negai". Built on a low-bpm swing beat, this map mixes slow and simple sections with faster, energetic choruses that will have your cursor dancing across the screen to their lovely melody. 
 
-Together with [Pata-Mon](https://osu.ppy.sh/users/6149313) and [Suzuki_1112](https://osu.ppy.sh/users/3170678) they created a very enjoyable set to play.
+Together with [Pata-Mon](https://osu.ppy.sh/users/6149313) and [Suzuki_1112](https://osu.ppy.sh/users/3170678) they bave created a very enjoyable set to play, and something sure to stoke your summer spirit.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/messiah.jpg)](http://osu.ppy.sh/beatmapsets/793438)
 
@@ -72,11 +76,13 @@ Last but not least, Vass' Desire by [Vass_Bass](https://osu.ppy.sh/users/188248)
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/unknown-x-known.jpg)](http://osu.ppy.sh/beatmapsets/800070)
 
-When considering versatility in mapping skills, it is hard to not mention [Lasse](https://osu.ppy.sh/users/896613). Their rendition of Meramipop's "Unknown x known" remixed by DYES IWASAKI definitely shows it too, with its great cursor control and aesthetics. Using heavy slider velocity manipulation to control cursor momentum, it matches the ups and downs of the song perfectly. This map is sure to not disappoint you, and is definitely a welcome one to this season's Spotlights!
+When considering versatility in mapping skills, [Lasse](https://osu.ppy.sh/users/896613) is pretty much a shining example of it. Their rendition of Meramipop's "Unknown x known" remixed by DYES IWASAKI definitely showcases it too, with its great cursor control and aesthetics. Using heavy slider velocity manipulation to control cursor momentum, it matches the ups and downs of the song perfectly. This map is sure to not disappoint you, and is definitely a welcome one to this season's Spotlights!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/day-and-night.jpg)](http://osu.ppy.sh/beatmapsets/585154)
 
-[UndeadCapulet](https://osu.ppy.sh/users/2523533) has always been known in the mapping community for having an opposing mapping style from the current aesthetic norm by exclusively focusing on movement concepts. Their rendition of FELT's "Day and Night" seems to match that perspective just as well, being one of the more well expressed maps this season. Despite the map starting out slow and rather unsatisfying to play, it all takes a sharp turn later when reaching the choruses. All in all, it's definitely worth giving this map a try to the end!
+[UndeadCapulet](https://osu.ppy.sh/users/2523533) has always been known in the mapping community for having a rather divergent mapping style from the current aesthetic norm by exclusively focusing on movement concepts. Their rendition of FELT's "Day and Night" seems to match that perspective just as well, being one of the more well expressed maps this season. 
+
+Despite the map starting out slow and rather unsatisfying to play, it all takes a sharp turn later when reaching the choruses. All in all, it's definitely worth giving this map a try to the end!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/min.jpg)](https://osu.ppy.sh/beatmapsets/777322)
 
@@ -203,7 +209,7 @@ Definitely my personal favourite map of the summer, honestly what a banger. odax
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/catch/tokei-no-heya.jpg)](http://osu.ppy.sh/beatmapsets/639409)
 
-No strangers to the spotlights, [Spectator](https://osu.ppy.sh/users/702598) and [Kyuare](https://osu.ppy.sh/users/2705312) brought us their rendition of a_hisa's "Tokei no Heya to Seishin Sekai". This long mapset at 4:13 goes by in a flash. While there are no over-the-top flashy patterns in the set, it may be one of its strongest points. The strong fundamentals of these experienced mappers is prevalent throughout the map, creating what is essentially a page turner until you've reached either the break or the final spinner.
+No strangers to the Spotlights, [Spectator](https://osu.ppy.sh/users/702598) and [Kyuare](https://osu.ppy.sh/users/2705312) have brought us their rendition of a_hisa's "Tokei no Heya to Seishin Sekai". This long mapset at 4:13 goes by in a flash. While there are no over-the-top flashy patterns in the set, it may be one of its strongest points. The strong fundamentals of these experienced mappers is prevalent throughout the map, creating what is essentially a page turner until you've reached either the break or the final spinner.
 
 In addition to the overdose, the Collab Rain featuring [Fii](https://osu.ppy.sh/users/3922569) may be less difficult, but is just as engaging to play. Featuring more controlled flow and aesthetic patterns, this set is not something to miss out on.
 
@@ -307,8 +313,10 @@ The map includes not only challenge element, but also consistency and good patte
 
 ---
 
-We have decided to make the spreadsheet available for everyone who is interested to take a look at how we selected these mapsets. Do not be afraid to take a look at it [here](https://goo.gl/fEpzFn)!
+We have decided to make the spreadsheet available for everyone who is interested to take a look at how we selected these mapsets. Check it out [here](https://goo.gl/fEpzFn)!
 
-We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
+We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. 
+
+Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 
 —the Spotlights Team
