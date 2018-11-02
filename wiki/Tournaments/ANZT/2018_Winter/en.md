@@ -5,7 +5,7 @@ Aus/NZ osu!standard Tournament 5 - Winter
 
 ![Osu! AU/NZ Tournament 5 Winter](logo.jpg)
 
-**Aus/NZ osu!standard Tournament 5 - Winter** (**ANZT 5W**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135). It is the 6th installment of Aus/NZ tourneys.
+**Aus/NZ osu!standard Tournament 5 - Winter** (**ANZT 5W**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It is the 6th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
@@ -57,9 +57,9 @@ Find all mappools [Here](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_
 
 | Placing | Player |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/u/3068044) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/u/5459981) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 
 All individual match results can be found [Here](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs)
 
@@ -73,7 +73,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * Matches will be **Head to Head** with **Score V2** as the scoring system.
 * Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
 * If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
-* In order for your registration to count, you must **FILL OUT THE FORM, JOIN THE DISCORD, AND CHANGE YOUR NAME TO YOUR OSU USERNAME**.
+* In order for your registration to count, you must **fill out the form, joint he discord, and change your name to your osu! username**.
 * Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
 * Reschedules must be agreed on by **both players and proof must be provided**.
 * All matches will be scheduled for Friday, Saturday & Sunday.
@@ -89,7 +89,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT5W mappool and must be submitted.
 * One player may not pick from the same mod pool twice in a row (HD/HR/DT/FreeMod). This does not apply to NoMod.
 * In a FreeMod pick, each player **must select a mod(s)** (HD/HR/HDHR). **NoMod is not allowed**.
-* Failed scores will only count if the player revives before the end. If a player fails and their opponent doesn’t, the point goes to the latter. If both players fail, the point goes to the higher failed score.
+* Failed scores will only count if the player revives before the end. If a player fails and their opponent does not, the point goes to the latter. If both players fail, the point goes to the higher failed score.
 * If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played under FreeMod conditions, allowing NoMod.
 
 ### Winning Conditions:
