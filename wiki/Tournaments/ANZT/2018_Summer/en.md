@@ -1,6 +1,8 @@
 Aus/NZ osu!standard Tournament 5 - Summer
 ===
 
+*See also: [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter/en.md)*
+
 ![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 
 **Aus/NZ osu!standard Tournament 5 - Summer** (**ANZT 5S**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154). It is the 5th installment of Aus/NZ tourneys.
