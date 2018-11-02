@@ -262,7 +262,7 @@ Punkty zdobyte przy uderzeniu można zobaczyć pod precyzją, w prawym górnym r
 ##### Kółka Taiko
 ![Kółka Taiko][Taiko hit circles image]
 
-_kółka taiko o różnych kolorach i rozmiarach_
+_Kółka taiko o różnych kolorach i rozmiarach_
 
 Pojawiają się jako czerwone (Don) i niebieskie (Katu) kółka.
 
@@ -330,17 +330,90 @@ Zamiast klikania kółek, musisz teraz poruszać łapaczem na dole ekranu i zbie
 
 _Po lewej znajduje się obszar C2, po prawej C7_
 
-Przybliżenie obszaru gry oparte jest na CS (Circle Size) - im większa wartość tym obszar gry jest bardziej oddalony
+Przybliżenie obszaru gry oparte jest na CS (Circle Size) - im większa wartość tym obszar gry jest bardziej oddalony.
 
-Czym jest "osu!mania"?
-----------------------
+Catcher może poruszać się w prawo i w lewo, natomiast owoce spadają z góry. Catcher może poruszać się tylko po widocznej części ekranu.
 
-![ thumb | 200px |Rozgrywka w trybie osu!mania]( Mania screenshot.jpg  " thumb | 200px |Rozgrywka w trybie osu!mania")
+Wszystkie owoce zostają na talerzu tak długo nim ich combo się zakończy. Po tym czasie owoce wyskakują z talerza. Wyczucie czasu i miejsce, w którym spadają warzywa nie ma znaczenia.
 
-'Pełny artykuł: [osu!mania](PL:Osu!mania "wikilink")''
+##### Owoce
 
--   osu!mania to trzeci specjalny tryb gry, który został dodany po CTB i Taiko.
--   Ten tryb został powszechnie użyty w niemal wszystkich ważnych grach rytmicznych, które wymagają dobrej koordynacji rąk/nóg, gdzie nutki ze swoją liczbą zależną od BPM i trudności, a gracz musi naciskać odpowiednie klawisze dla specyficznych nut na czas. Mimo że ten tryb gry jest oryginalnie imitacją Beatmanii, jednak dzięki możliwości zmiany ilości klawiszy, może bardziej wyglądać jak Guitar Hero (5) czy Dance Dance Revolution (4). Obecnie, możesz ustawić liczbę klawiszy od 1 do 9.
+![owoce osu!catch][Fruits image]
+
+_Owoce są kółkami osu!catch, spadają z góry ekranu_
+
+Aby złapać owoce, dopilnuj by spadły na talerz a nie poza niego.
+Złapane owoce dają po 300 punktów każdy, podwyższają combo o 1 i są traktowane jako 300 na ekranie z wynikiem.
+
+##### Owocowe Szlaki
+![owocowe szlaki][Fruit trails image]
+
+_Owocowe szlaki są sliderami osu!catch_
+
+Typowy szlak owoców zawiera dwa owoce (na początku i końcu), kropelki (tor slidera), krople soku (tyknięcia slidera) oraz więcej owoców za każdą strzałkę cofającą wraz z odwróconym sliderem.
+Kropelki dają 10 punktów każda i są traktowane jako 50 na ekranie z wynikiem.
+Krople soku dają 30 punktów każda i są traktowane jako 100 na ekranie z wynikiem.
+
+Pominięcie kropli soku przerwie combo (tak jak w przypadku tyknięcia slidera), natomiast pominięcie kropelki nie.
+Pominięte kropelki nie zostaną wyświetlone na tablicy wyników, jednak pojawią się w rankingu na stronie jako _Miss Droplet_ i w jakimś stopniu zmienia precyję i wynik.
+
+##### Banany
+![banany][Bananas image]
+
+_Banany są spinnerami osu!catch_
+
+Duże banany będą spadały z góry ekranu i zmniejszały się do odpowiedzniego rozmiaru przy spadaniu.
+Każdy zebrany banan daje statyczną liczbę punktów równą 1,000, niezależnie od modów i combo.
+
+Możesz zignorować banany, nie tracąc przy tym życia.
+Jednakże, tracisz dodatkowe punkty i regeneracje życia, którą dają banany.
+Mod [Auto][Auto wikilink] złapie _wszystkie_ spadające banany.
+
+##### Hiperowoce
+![hiperowoce i szarżujący catcher][Hyperfruit image]
+
+_Lewa strona: Przed zebranie hiperowocu. Prawa strona: Ślad pozostawiony przez catchera po szarży po zebraniu hiperowocu._
+
+Hiperowoce są specjalnym rodzajem owocu, pojawiają się aby pomóc catcherowi w złapaniu następnego owocu, kiedy normalna szarża nie wystarcza.
+Wszystkie hiperowoce posiadają czerwoną otoczkę.
+
+Zebranie hiperowocu ulepsza szarżę catchera do _hiperszarży_, sprawia że świeci się na czerwono i pozostawia po sobie _poświatę_ - aż do momentu złapania następnego owocu.
+
+#### Kontrolowanie catchera
+- Domyślnie - prawa `->` (R) i lewa `<-` (L) strzałka by poruszać catcherem.
+- Przytrzymaj `lewy Shift` (D) aby włączyć _szarżę_. Catcher porusza się wtedy 2x szybciej i **świeci**.
+- Alternatywnie, przytrzymaj lewy przycisk myszki (D) aby aktywować szarżę.
+
+Umiejscowienie kursora w normalnej grze nie ma znaczenia.
+Jeżeli włączony jest mod [Relax][Relax wikilink], poruszamy catcherem za pomocą kursora.
+Jednakże wyniki na tym modzie nie są zaliczane do rankingu.
+
+### Czym jest "osu!mania"?
+_Pełny artykuł: [osu!mania][osu!mania wikilink]_
+
+![Interfejs osu!mania][osu!mania Interface image]
+
+_Interfejs w osu!mania_
+
+osu!mania to trzeci specjalny tryb gry, który został dodany po CTB i Taiko.
+
+Ten tryb został powszechnie użyty w niemal wszystkich ważnych grach rytmicznych, które wymagają dobrej koordynacji rąk/nóg, gdzie nutki ze swoją liczbą zależną od BPM i trudności, a gracz musi naciskać odpowiednie klawisze dla specyficznych nut na czas. Mimo że ten tryb gry jest oryginalnie imitacją _Beatmanii_, jednak dzięki możliwości zmiany ilości klawiszy, może bardziej wyglądać jak _Guitar Hero_ (5) czy _Dance Dance Revolution_ (4). Obecnie, możesz ustawić liczbę klawiszy od 1 do 9.
+
+Przy konwersji beatmapy stworzonej do innego trybu gry liczba klawiszy wyniesie od 4 do 7.
+
+Dzięki modyfikatorowi [xK][xK wikilink] gracz może manualnie wybrać ilośc klawiszy, jaką chce grać, przy okazji redukując mnożnik.
+Modyfikator nie działa z mapami stworzonymi specjalnie dla osu!mania.
+
+W trybie gry [Co-Op][Co-Op wikilink] beatmapa będzie: podzielona na dwie części, używać systemu kontroli Co-Op i zezwalać graczowi na zagarnie od 2 do 18 klawiszami, przy okazji redukując mnożnik.
+Zauważ, że wstępnie ustawiona ilość klawiszy nie zostanie podwojona na beatmapach stworzonych specjalnie dla osu!mania - beatmapa zostanie podzielona na dwie części (w przypadku nieparzystej liczby większą ilość otrzymuje lewa strona), będzię używać systemu kontroli Co-Op i nie będzie zmieniać mnożnika.
+
+#### Podstawowe objaśnienie
+##### Obszar gry
+![obszar gry osu!mania][osu!mania playfield image]
+
+_Obszar gry osu!mania_
+
+
 
 ### Sterowanie
 
