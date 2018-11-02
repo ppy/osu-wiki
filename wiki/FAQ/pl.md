@@ -413,11 +413,40 @@ Zauważ, że wstępnie ustawiona ilość klawiszy nie zostanie podwojona na beat
 
 _Obszar gry osu!mania_
 
+Domyślnie, noty przemieszczają się z góry do dołu taśmy (strzałka pokaże dokąd wpadną noty), na dole której znajdują się klawisze oraz ocena uderzenia.
+Aby zmienić sposób przemieszczania się not z dołu na górę wejdź w pasek `Opcji`; kliknij na `Styl osu!mania` w sekcji `Klawiatura` i zaznacz opcję `Odwróć obszar gry w pionie (w stylu DDR)`.
 
+Pasek życia znajduje się po prawej stronie taśmy.
+Zauważ że pobór życia jest wyłączony w osu!mania, więc tylko obiekty będą mały wpływ na jego stan.
+W przypadku gdy będziesz naciskał klawisze podczas gdy na linii oceny nie ma żadnych noty, nie stracisz combo.
+
+**Prędkość przewijania not** może zostać zmieniona poprzez naciśnięcie przycisku `Ctrl` (lub `Shift`) wraz z `+` (szybciej) / `-` (wolniej) lub za pomocą klawiszy `F3` (szybciej) / `F4` (wolniej).
+
+##### Noty
+![noty w osu!mania][osu!mania notes image]
+
+_Typowy ekran rozgrywki_
+
+Noty są kółkami osu!mania.
+Spadające noty muszą zostać uderzone na linii oceny, wraz z właściwym klawiszem odpowiadającym każdej nocie, która na nią wpada.
+Im więcej not spada z góry, tym więcej klawiszy odpowiadającym danym notom trzeba wcisnąć.
+Punkty uzyskuje się poprzez naciśnięcie klawisza odpowiadającego danej nocie na linii oceny.
+
+##### Długie Noty
+![długie noty osu!mania][osu!mania holdnotes image]
+
+_Typowa rozgrywka z paroma długimi notami_
+
+Długie noty są sliderami i spinnerami osu!mania.
+Kiedy długa nota dotrze do linii oceny, naciśnij i przytzymaj klawisz odpowiadający danej nocie, puść go wraz z zakończeniem noty.
+
+Podczas grania długiej noty pasek życia powoli się zapełnia.
+W zależności od granej beatmapy, możliwe jest pojawienie się innych not lub długich not, podczas gdy cały czas grana jest pierwsza długa nota.
 
 ### Sterowanie
+![domyślne ustawienie klawiszy osu!mania][osu!mania key layout image]
 
-<img src="Mania Key Bind.png" title="fig:[Symmetrical]Kolory przypisanych klawiszy i ułożenie względem liczby klawiszy (nieaktualne)" alt="[Symmetrical]Kolory przypisanych klawiszy i ułożenie względem liczby klawiszy (nieaktualne)" width="200" /> <img src="Mania KEY Layouts.jpg" title="fig:Domyślny układ klawiszy w osu!manii (Opcje-&gt;Sterowanie)" alt="Domyślny układ klawiszy w osu!manii (Opcje-&gt;Sterowanie)" width="500" /> There two different binding-styles, *Symmetrical* and *Left to Right*.
+
 
 -   *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
 -   *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
