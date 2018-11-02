@@ -541,33 +541,50 @@ D    | Inny wynik
 ## Punkty Wydajności
 _Pełne wyjaśnienie: [Punkty Wydajności][Performance Points wikilink]_
 
+Punkty wydajności (org. Performance Points, w skrócie PP) to rankingowy miernik, który ma na celu lepsze uchwycenie ciągłej gry, jaką jest osu!
+Zmienia on fokus gry z czasu spędzonego w grze do realnych umiejętności gracza.
+Punkty wydajności są w dużej części bazowane na poziomie trudności gry, determinowanym przez unikatowy algorytm w każdym trybie gry.
+W zależności od poziomu trudności mapy, każdy wynik zostanie przeliczony i zostanie mu przyznana wartość w pp.
+Rankingowe PP jest bazowane na PP zdobytym na indywidualnych mapach.
+Najłatwiejszym sposobem na zdobycie go jest granie map o większym poziomie trudności oraz granie większej ilości beatmap.
+Zauważ, że każdy tryb gry ma swój osobny miernik: osu!standard, osu!taiko, osu!catch i osu!mania podniosą PP dla swojego licznika.
+
+Jeżeli masz jakiekolwiek pytania dotyczące PP, udaj się na [stronę o PP na wiki][Performance Points#FAQ wikilink]
+
+---
+
+## Popularne problemy i pytania
+
+### Ogólne
+#### Gdzie mogę znaleźć i ściągnąć beatmapy?
+_Pełny artykuł: [Beatmapy][Beatmaps wikilink]_
+
+Możesz znaleźć je pod nazwą _[Beatmaps][Beatmaps link]_.
+Pamiętaj o zalogowaniu się! W przeciwnym wypadku strona potraktuje cię jako gościa i zablokuje możliwość ściągania beatmap.
+
+#### Czy mogę wyłączyć Czas Kiai?
+
+**Nie**, ponieważ w przeciwieństwie do wideo, jest on zintegrowany z grą, przez co nie może zostać wyłączony.
+
+#### Te mapy są za trudne! Gdzie mogę znaleźć łatwiejsze?
+
+Dla osu!standard, **Pokebis** stworzył kompilację map przeznaczonych dla nowych graczy. 
+Możesz znaleźć je tutaj: <http://osu.ppy.sh/forum/t/5456>
+
+Dla osu!taiko, **OnosakiHito** stworzył kompilację map przeznaczonych do nauki gry w taiko. 
+Możesz znaleźć je tutaj: <https://osu.ppy.sh/forum/t/175867>
+
+Dla osu!catch, **Kingkevin30** stworzył niezłą listę beatmap osu!catch i proste wyjaśnienie gry.
+Możesz znaleźć je tutaj: <https://osu.ppy.sh/forum/t/131067>
+
+Dla osu!mania, **Entozer** stworzył niezłą listę, posortowaną po trudności, natomiast **Drace** - wgląd w rozgrywkę dla garczy zaczynających z osu!mania.
+Możesz znaleźć je tutaj: <https://osu.ppy.sh/forum/t/147552> (poradnik **Entozera**) i <https://osu.ppy.sh/forum/t/146615> (poradnik **Dracea**)
+
+Także [rankingowa wersja osu! tutorial][osu!tutorial rank] jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
+
+Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności][sort beatmaplist difficulty]. Najłatwiejsze mapy są na górze listy.
 
 
-Popularne problemy i pytania
-============================
-
-Gdzie mogę znaleźć i ściągnąć beatmapy?
----------------------------------------
-
-*Pełny artykuł: [Beatmapy](PL:Beatmaps "wikilink")*
-
-Możesz znaleźć je pod nazwą "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
-
--   Pamiętaj o zalogowaniu się! W przeciwnym wypadku strona potraktuje cię jako gościa i zablokuje możliwość ściągania beatmap.
-
-Czy mogę wyłączyć Czas Kiai?
-----------------------------
-
-Nie, ponieważ w przeciwieństwie do video, jest on zintegrowany z grą, przez co nie może zostać wyłączony.
-
-Te mapy są za trudne! Gdzie mogę znaleźć łatwiejsze?
-----------------------------------------------------
-
-Pokebis stworzył kompilację map przeznaczonych dla nowych graczy. Możesz znaleźć je tutaj: <http://osu.ppy.sh/forum/t/5456>
-
-Także [rankingowa wersja osu! tutorial](http://osu.ppy.sh/s/19928) jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
-
-Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności](http://osu.ppy.sh/?p=beatmaplist&s=3). Najłatwiejsze mapy są na górze listy.
 
 Źródła
 ======
