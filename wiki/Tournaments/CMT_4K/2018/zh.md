@@ -55,29 +55,50 @@ tags:
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
-## 排程：八强赛
+## 排程：半决赛
 
-以下时间均为 UTC+08 时区。
+以下时间均为 UTC+08 时区。  
+败者组比赛时间以[安排表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx)为准。
 
-### 2018-10-27 星期六
-
-| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
-| :-: | :-: | :-: | :-: |
-| 11:00 | zero2snow | vs | ByeForNow |
-| 20:00 | Sakaki | vs | HDRoop\_7 |
-| 21:00 | 704661982 | vs | \[Crz\]Minato |
-| 22:00 | alisi | vs | CaOH2 |
-
-### 2018-10-28 星期日
+### 2018-11-03 星期六
 
 | 比赛时间 | 蓝方玩家 |  | 红方玩家 |
 | :-: | :-: | :-: | :-: |
-| 16:00 | w a d u | vs | C Eru |
-| 20:00 | cheewee10 | vs | \[Crz\]Murasame |
-| 21:00 | yin xiaosong | vs | Orangejuice |
-| 22:00 | Stink God | vs | AradORiOn\_MMM |
+| 11:00 | Stink God | vs | zero2snow |
+| 14:00 | C Eru | vs | \[Crz\]Murasame |
+| 17:00 | CaOH2 | vs | Sakaki |
+
+### 2018-11-04 星期日
+
+| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
+| :-: | :-: | :-: | :-: |
+| 11:00 | \[Crz\]Minato | vs | ByeForNow |
+| 15:00 | HDRoop\_7 | vs | cheewee10 |
+| 18:00 | Orangejuice | vs | 704661982 |
 
 ## 图池
+
+### 半决赛
+
+**下载完整图池包！（104 MB） - [百度云盘](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google 云端硬盘](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
+
+- FreeMod
+  - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
+  - [Getty vs. DJ DiA - Fox4-Raize- \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmapsets/595830#mania/1260071)
+  - [Hatsuki Yura - Dancer of Saramandora \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  - [Round Wave Crusher - Slash Dot Slash (Slim Boy Fat) \[-.-\]](https://osu.ppy.sh/beatmapsets/823631#mania/1725933)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring \[Nine Time\]](https://osu.ppy.sh/beatmapsets/859935#mania/1799312)
+  - [96-glass - Blessed \[Heaven\]](https://osu.ppy.sh/beatmapsets/855239#mania/1787084)
+  - [YMCK - Curry da yo! \[Curry!!!\]](https://osu.ppy.sh/beatmapsets/556640#mania/1177974)
+  - [MasamiT - Toraburu Kuroneko Manbiki \[Ayumu's Distress\]](https://osu.ppy.sh/beatmapsets/591252#mania/1251232)
+  - [Camellia - Nightmare of Hornets Squad \[Breakdown\]](https://osu.ppy.sh/beatmapsets/543489#mania/1151944)
+  - [Terminal 11 - Miserable Bastard \[Despair\]](https://osu.ppy.sh/beatmapsets/789976#mania/1657803)
+  - [MuryokuP - Frozen World \[Yuki\]](https://osu.ppy.sh/beatmapsets/373379#mania/817998)
+  - [BlackY - B(Camellia's"BlAst-Off"Remix) \[Radiation\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744190)
+  - [Camellia - epimerization \[doxorubicin\]](https://osu.ppy.sh/beatmapsets/803740#mania/1686934)
+  - [sakuraburst - deconstructing nature \[destruction\]](https://osu.ppy.sh/beatmapsets/619106#mania/1305926)
+- Tiebreaker
+  - **[Camellia - LET'S JUMP (Camellia's 'diffractive' Hardcore Remix) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/851107#mania/1779259)**
 
 ### 八强赛
 
@@ -145,6 +166,19 @@ tags:
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## 比赛结果
+
+### 八强赛
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| zero2snow | 3 | **5** | **ByeForNow** |
+| Sakaki | 0 | **5** | **HDRoop\_7** |
+| 704661982 | 1 | **5** | **\[Crz\]Minato** |
+| alisi | 0 | **5** | **CaOH2** |
+| w a d u | 4 | **5** | **C Eru** |
+| **cheewee10** | **5** | 2 | \[Crz\]Murasame |
+| yin xiaosong | 0 | **5** | **Orangejuice** |
+| **Stink God** | **5** | 1 | AradORiOn\_MMM |
 
 ### 十六强赛
 
