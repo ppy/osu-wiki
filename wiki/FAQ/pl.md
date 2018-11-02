@@ -446,121 +446,102 @@ W zależności od granej beatmapy, możliwe jest pojawienie się innych not lub 
 ### Sterowanie
 ![domyślne ustawienie klawiszy osu!mania][osu!mania key layout image]
 
+Istnieją dwa style sterowania, _Symetryczyny_ oraz _od Lewej do Prawej_.
+- _Symmetryczny_  imituje umiejscowienie przycisków w  grze _DJMAX_, w której przyciskiem na środku jest `Spacja` aby zasymulować naciskanie na pedał, tak jak w wersji arkadowej. Środkowy klawisz odpowiada za środkową kolumnę (tylko beatmapy 5k i 7k) a inne przyciski za kolumny im odpowiadające.
+- _Od Lewej do Prawej_ imituje umiejscowienie przycisków w grze _Beatmania IIDX_, gdzie pierwsza kolumna odpowiada _key1_, druga _key2_ i tak dalej.
 
+Klawisze stylu _Symetrycznego_ (styl _DJMAX_)
+- Dla klawiszy _lewej_ ręki — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- Dla klawiszy _prawej_ ręki — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`
+- _Środkowe_ klawisze — (K5)`Spacja`. \[Tylko nieparzysta liczba klawiszy\]
+- _Specjalny_ klawisz — `lewyShift` oraz `lewyCtrl`.
 
--   *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
--   *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
-
-*Symmetrical* key binding (styl DJMAX)
-
--   For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
--   For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
--   *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
--   The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+Klawisze | L | Ś | P
+:---:|:---|:---:|---:
+4K|K3, K4|-|K6, K7
+5K|K3, K4|K5|K6, K7
+6K|K2, K3, K4|-|K6, K7, K8
+7K|K2, K3, K4|K5|K6, K7, K8
+8K|K1, K2, K3, K4|-|K6, K7, K8, K9
 
 Przypisanie klawiszy "Od lewej do prawej" (styl Beatmanii IIDX)
+- Od dołu do góry i ponownie, od dołu do góry - (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 nie jest używany\]
+- _Specjalny_ klawisz — `lewyShift` oraz `lewyCtrl`.
 
--   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
--   *Specjalny* przycisk — **lewy Shift** oraz **lewy Ctrl"**.
+Klawisze | Sterowanie
+:---:|:---
+4K|K1, K2, -, K4, K5
+5K|K1, K2, K3, K4, K5
+6K|K1, K2, K3, K4, K5, K6
+7K|K1, K2, K3, K4, K5, K6, K7
+8K|K1, K2, K3, K4, K5, K6, K7, K8
 
-<table style="width:19%;">
-<colgroup>
-<col width="3%" />
-<col width="15%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><p>Klawisz</p></th>
-<th align="center"><p>Symetryczne przypisanie</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><p>4K</p></td>
-<td align="center"><p>K3, K4</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>5K</p></td>
-<td align="center"><p>K3, K4</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>6K</p></td>
-<td align="center"><p>K2, K3, K4</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>7K</p></td>
-<td align="center"><p>K2, K3, K4</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>8K</p></td>
-<td align="center"><p>K1, K2, K3, K4</p></td>
-</tr>
-</tbody>
-</table>
+---
 
-<table style="width:19%;">
-<colgroup>
-<col width="3%" />
-<col width="15%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><p>Key</p></th>
-<th align="center"><p>Przypisanie &quot;Od lewej do prawej&quot;</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><p>4K</p></td>
-<td align="center"><p>K1, K2</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>5K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>6K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>7K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6, K7</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>8K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6, K7, K8</p></td>
-</tr>
-</tbody>
-</table>
+## Zdobywanie punktów
 
-Zdobywanie punktów
-==================
+_Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry lub w [artykule Punktacji][Score wikilink]._
 
-*Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry.*
+_Dokładnie wytłumaczenie kalkulacji precyzji może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry lub w [artykule Precyzja][Accuracy wikilink]._
 
-Oceny
------
+### Oceny
+#### ![ikona osu!standard][osu! icon link] osu!standard
 
-**<u>Normalne oceny</u>**
+Ocena| Warunek
+:---:|:---
+SS | 100% Precyzji
+S  | Ponad 90% trzysetek, mniej niż 1% pięćdziesiątek i żadnych chybień
+A  | Ponad 80% trzysetek i żadnych chybień **LUB** ponad 90% trzysetek
+B  | Ponad 70% trzysetek i żadnych chybień **LUB** ponad 80% trzysetek
+C  | Ponad 60% trzysetek
+D  | Inne niż powyższe
 
--   SS = 100% celności
--   S = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo.
--   A = Ponad 80% 300s oraz żadnych utrat kombo **LUB** ponad 90% 300s.
--   B = Ponad 70% 300s oraz żadnych utrat kombo **LUB** ponad 80% 300s.
--   C = Ponad 60% 300s.
--   D = Wszystko nie tak.
+#### ![ikona osu!taiko][osu!taiko icon link] osu!taiko
 
-<u>**Specjalne oceny**</u>
+Ocena| Wymagania
+:---:|:---
+SS | 100% Precyzji
+S  | Ponad 95% Precyzji (90+% GREAT, lub mniej niż 1 GOOD na każde 10 not).
+A  | Ponad 90% Precyzji (80+% GREAT, lub mniej niż 1 GOOD na każde 5 not).
+B  | Ponad 80% Precyzji (70+% GREAT, lub mniej niż 1 GOOD na każde 3.33 not).
 
--   Srebrne SS (SSH) = 100% celności z modem '[Hidden](PL:Hidden "wikilink")' i/lub '[Flashlight](PL:Flashlight "wikilink")'.
--   Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem '[Hidden](PL:Hidden "wikilink")' i/lub '[Flashlight](PL:Flashlight "wikilink")'.
+#### ![ikona osu!catch][osu!catch icon link] osu!catch
 
-<u>**Odnośnie „ocen” na profilu**</u>
+Ocena| Wymagania
+:---:|:---
+SS | 100% Precyzji
+S  | 98.01% do 99.99% Precyzji (możliwe jest uzyskanie oceny 'S' nawet z paroma chybieniami, tak jak w osu!mania)
+A  | 94.01% do 98.00% Precyzji
+B  | 90.01% do 94.00% Precyzji
+C  | 85.01% do 90.00% Precyzji
+D  | Precyzja poniżej 85.00%
 
--   Oceny, które zdobyłeś będą wpisane w twoim profilu pod zakładką Ogólne(org. General)-&gt;Oceny pod warunkiem, że byłeś połączony z siecią podczas ich zdobywania.
-    -   **Granie bez połączenia z siecią** nawet jeśli jesteś zalogowany **nie zostanie liczone**.
--   **Oceny pokazane na twoim profilu zależą od zdobytego wyniku na specyficznych beatmapach**.
-    -   Jeżeli zdobyłeś SS na łatwym poziomie trudności lecz B na szalonym poziomie trudności(org. Insane), a twój wynik na poziomie szalonym jest wyższy niż ten na łatwym, pokazana będzie ocena z szalonego poziomu zamiast łatwego.
+#### ![ikona osu!mania][osu!mania icon link] osu!mania
+
+Ocena| Warunek
+:---:|:---
+SS   | 100% Precyzji (tylko MAX i/lub 300).
+S    | Ponad 95% Precyzji (możliwe jest uzyskanie oceny 'S' nawet z paroma chybieniami, tak jak w osu!catch)
+A    | Ponad 90% Precyzji
+B    | Ponad 80% Precyzji
+C    | Ponad 70% Precyzji
+D    | Inny wynik
+
+#### Wszystkie tryby
+<**Specjalne oceny**
+- Srebrne SS (SSH) = 100% celności z modem _[Hidden][Hidden wikilink]_ i/lub _[Flashlight][Flashlight wikilink]_.
+- Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem _[Hidden][Hidden wikilink]_ i/lub _[Flashlight][Flashlight wikilink]_.
+
+**Odnośnie _ocen_ na profilu**
+- Oceny, które zdobyłeś będą wpisane w twoim profilu pod zakładką Ogólne (org. General)-&gt; Oceny pod warunkiem, że byłeś połączony z Bancho podczas ich zdobywania.
+    - **Granie bez połączenia z siecią** nawet jeśli jesteś zalogowany **nie zostanie liczone**.
+- **Oceny pokazane na twoim profilu zależą od zdobytego wyniku na specyficznych beatmapach**.
+    - Jeżeli zdobyłeś SS na łatwym poziomie trudności lecz B na szalonym poziomie trudności(org. Insane), a twój wynik na poziomie szalonym jest wyższy niż ten na łatwym, pokazana będzie ocena z szalonego poziomu zamiast łatwego.
+    
+## Punkty Wydajności
+_Pełne wyjaśnienie: [Punkty Wydajności][Performance Points wikilink]_
+
+
 
 Popularne problemy i pytania
 ============================
