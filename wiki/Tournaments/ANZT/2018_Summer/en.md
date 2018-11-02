@@ -1,5 +1,5 @@
 Aus/NZ osu!standard Tournament 5 - Summer
-=============================
+===
 
 ![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 
@@ -22,7 +22,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ## Prizes
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :--: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
@@ -30,7 +30,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ## Organization
 
 | Position | Staff Members |
-| ------------ | -------------- |
+| --- | --- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/u/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/u/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/u/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/u/3361154) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/u/3772135) |
 | Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/u/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/u/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/u/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/u/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/u/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
@@ -248,7 +248,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 ## Results
 
 | Placing | Player |
-|:----------------------------------------------------:|---------------------------------------------------------|
+| :-: | --- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/u/2118945) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/u/6916774) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/u/4241054) |
@@ -260,7 +260,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 ### Qualifiers
 
 | Player | Total |  | Player | Total |  | Player | Total |
-| ------ | :------: | ------ | ------ | :------: | ------ | ------ | :------: |
+| --- | :-: | --- | --- | :-: | --- | --- | :-: |
 | ![][flag_AU] Noobsicle | 3,739,471 |  | ![][flag_AU] Kooleyy | 2,594,783 |  | ![][flag_AU] hieepN | 1,968,412 |
 | ![][flag_AU] Lunirs | 3,457,504 |  | ![][flag_AU] Ezipie | 2,560,847 |  | ![][flag_AU] FknRhythmGames | 1,931,796 |
 | ![][flag_AU] Blobby3000 | 3,401,484 |  | ![][flag_NZ] smead | 2,503,472 |  | ![][flag_AU] kobeblue | 1,898,007 |
@@ -281,7 +281,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 | ![][flag_AU] Peekamoo | 2,621,808 |  | ![][flag_AU] turretxbuddy | 2,038,525 |  | ![][flag_AU] Beat43210 | 237,618 |
 | ![][flag_NZ] Morrowind | 2,616,206 |  | ![][flag_AU] kuur0 | 2,010,812 |  | ![][flag_NZ] Particlex | 0 |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 ### General Rules
