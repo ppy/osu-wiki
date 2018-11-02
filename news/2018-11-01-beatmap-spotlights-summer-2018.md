@@ -8,7 +8,7 @@ The heat might've come and gone, but the brand new Seasonal Spotlights are bring
 
 ![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/header.jpg)
 
-The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=254). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
+The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=251). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Summer 2018 Spotlights rankings will end on the 15th of December, 2018.**
 
 ## Changes to the Spotlights Project
 
