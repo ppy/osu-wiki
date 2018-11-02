@@ -44,6 +44,6 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
 
 ## osu! wiki - 어떻게 도와드릴까요!
 
-2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이  바뀌었습니다. 모든 참여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki) 를 통과하여 osu!wiki에 승인받고 등재되기 전에 검토를 받습니다.
+2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이  바뀌었습니다. 모든 참여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 통과하여 osu!wiki에 승인받고 등재되기 전에 검토를 받습니다.
 
-시작하려면, [osu! wiki 참여 지침](/wiki/owcg).을 읽어주세요.
+시작하려면, [osu! wiki 참여 지침](/wiki/owcg)을 읽어주세요.
