@@ -247,62 +247,90 @@ Dla osób, które grały w _Taiko no Tatsujin_:
   
 Dla osób, które nigdy nie miały kontaktu z trbyem gry osu!taiko - ekran podzielony jest na dwie części; górną, zawierającą elemnty ważne dla rozgrywki oraz dolną, zawierającą wideo lub tło beatmapy.
 W górnej części znajduje się parek życia, który w odróżnieniu od innych trybów gry musimy wypełnić do conajmniej połowy by przejść beatmapę.
-Pod paskiem zdrowia, po lewej znajduje się bębenek taiko, 
+Pod paskiem zdrowia, znajduje się bębenek taiko wraz z przenośnikiem taśmowym, który przenosi obiekty z prawej do lewej, przechodząc przez dwa białe okręgi, które służą za punkt odniesienia w ocenie.
+Nad bębenkiem taiko znajduje się animowana maskotka, która będzie reagowała na twoje poczynania - na ich podstawie będzię się zmieniał kolor tła w górnej części ekranu.
+W prawym górnym rogu znajduje się licznik punktów, precyzja, oraz czas timer beatmapy.
 
-<u>*'Kółka (*Hit-circles)'''</u>
+Zauważ, że pobór życia jest wyłączony w osu!taiko - za jego stan odpowiadają tylko obiekty.
+Combo nie nie zostanie przerwane, jeżeli grasz na pustym obszarze.
+W odróżnieniu od osu!, grafiki combo pojawiają się co 50 uderzeń.
+Podstawowy wynik zostanie zwiękoszony po zdobyciu combo, które jest wielokrotnością liczby 10, zatrzymuje się na liczbie 100 (limit combo dla zwiększenia wyniku).
+Jeżeli combo zostanie przerwane,  mnożnik resetuje się spowrotem do wartości początkowej.
+Podczas trwania _Czasu Kiai_, każde udane uderzenie da graczowi 20% punktów więcej.
+Punkty zdobyte przy uderzeniu można zobaczyć pod precyzją, w prawym górnym rogu.
 
--   Pojawiają się jako czerwone (Don) i niebieskie (Katu) kółka.
-    -   Jeżeli jest to małe czerwone kółko, musisz wcisnąć przycisk odpowiadający wewnętrznej stronie bębna Taiko lub uderzyć w płaską powierzchnię (w centrum) w TaTaCon.
-    -   Jeżeli jest to małe niebieskie kółko, musisz nacisnąć przycisk przypisany do zewnętrznej strony bębna lub uderzyć w jeden z boków TaTaCon.
-    -   Jeśli obiekt to DUŻE kółko, wciśnij oba przyciski wewnętrznej lub zewnętrznej strony, w zależności od koloru, aby uzyskać dodatkowe punkty.
-        -   Klawisz musi być wciśnięty, gdy obiekt dotknie białego, małego kółka umiejscowionego obok bębenka i pod paskiem życia.
+##### Kółka Taiko
+![Kółka Taiko][Taiko hit circles image]
 
-<u>**Hit balloons**</u>
+_kółka taiko o różnych kolorach i rozmiarach_
 
--   Jest jak małe czerwone kółko, ale z nadmuchanym „balonem” za nim.
-    -   Jeśli go napotkasz, powinieneś klikać w wewnętrzną część bębna do momentu, aż licznik kliknięć osiągnie zero.
-    -   Punkty otrzymujesz za każde kliknięcie, a także, jako bonus, za "rozwalenie" balona.
+Pojawiają się jako czerwone (Don) i niebieskie (Katu) kółka.
 
-<u>**Drum rolls**</u>
+Jeżeli jest to małe czerwone kółko, musisz wcisnąć przycisk odpowiadający wewnętrznej stronie bębna Taiko lub uderzyć w płaską powierzchnię (w centrum) w _TaTaCon_.
+Jeżeli jest to małe niebieskie kółko, musisz nacisnąć przycisk przypisany do zewnętrznej strony bębna lub uderzyć w jeden z boków TaTaCon.
+Jeśli obiekt to **DUŻE** kółko, wciśnij oba przyciski wewnętrznej lub zewnętrznej strony, w zależności od koloru, aby uzyskać dodatkowe punkty.
 
--   Drum rolls to w czasie gry żółte „sznurki”.
-    -   Powinieneś klikać wewnętrzną lub zewnętrzną część bębna, dopóki go nie ukończysz.
-        -   W przypadku DUŻEGO kółka klikaj części bębna o tym samym kolorze w tym samym czasie, dopóki go nie ukończysz.
-    -   Punkty otrzymujesz za każde prawidłowe uderzenie.
-    -   Możesz je zignorować, tracąc przy tym punkty, które można maksymalnie zdobyć z drum rolli.
+Klawisz musi być wciśnięty, gdy obiekt dotknie białego, małego kółka umiejscowionego obok bębenka i pod paskiem życia.
+Użycie złego koloru lub dwóch kolorów na raz, będzie uznawane za chybienie.
 
-<u>**Dendens**</u>
+##### Drumrolls
+![Taiko drumroll][Taiko drumroll image]
 
--   Są to spinnery z odliczaniem pokazującym, ile czasu brakuje, by je ukończyć.
-    -   Aby je ukończyć, klikaj części bębna po kolei (czerwona, czerwona, niebieska, niebieska itd.) do momentu, aż licznik Denden będzie pełny.
-    -   Możesz zdobyć dodatkowe punkty, jeśli zrobisz dodatkowe uderzenia po ukończeniu Dendena.
+_Drumrolls to w żółte „sznurki” pojawiające się w czasie gry, w ich wnętrzu znajdują się małe, białe kropki w równych odstępach_
 
-### Sterowanie
+Powinieneś klikać wewnętrzną lub zewnętrzną część bębna, dopóki go nie ukończysz.
+W przypadku **DUŻEGO** kółka klikaj części bębna o tym samym kolorze w tym samym czasie, dopóki go nie ukończysz.
+Punkty otrzymujesz za każde prawidłowe uderzenie w biały punkt, w odróżnieniu od _Taiko no Tatsujin_, gdzie punkty otrzymujesz poprzez jak najszybsze klikanie.
+
+Możesz je zignorować, tracąc przy tym punkty, które można maksymalnie zdobyć z drum rolli nie tracąc przy tym życia.
+Każde prawidłowe uderzenie w białe kółko daje ci 300 punktów.
+
+##### Dendens
+![spinner Taiko][Taiko spinner image]
+
+_Są to spinnery z odliczaniem pokazującym, ile czasu brakuje, by je ukończyć_
+
+Aby je ukończyć, klikaj części bębna **po kolei** (czerwona, czerwona, niebieska, niebieska itd.) do momentu, aż licznik Denden będzie pusty.
+Kolor początkowy nie ma znaczenia (można zaczynać od niebieskiego), jeżeli nie ukończysz spinnera twoje życie spadnie - combo nie zostanie przerwane.
+Klikanie tego samego koloru parę razy nie poruszy spinnerem.
+
+Dendens nie zmieniają licznika combo i nie przywracają życia.
+Każde udane uderzenie daje statyczne 300 punktów, a ukończenie dendena daje większą ilość punktów.
+
+#### Sterowanie
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
-`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
-`W trakcie gry umiejscowienie kursora nie jest ważne.`
+Typ | Myszka | Klawiatura | TaTaCon
+---|---|---|---
+Czerwone|Lewy przycisk myszki (L)|`X` (L) / `C` (R)|Płaska część bębenka
+Niebieskie|Prawy przyciski myszki (L)|`Z` (L) / `V` (R)|Zewnętrzna częśc bębenka
 
-Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
+Umiejscowienie kursora nie ma w grze żadnego znaczenia.
 
-Czym jest „Catch the Beat”?
----------------------------
+Jeżeli został użyty mod [Relax][Relax wikilink], osu! będzie ignorować kolor uderzanego bębenka (będą liczyć się obydwa kolory).
 
-[200px|thumb|right|Rozgrywka w trybie Catch the Beat.](image:ctbaqua.jpg "wikilink")
+Kontrolery _TaTaCon_ były tworzone głównie dla portów _Taiko no Tatsujin_ oraz _Taiko: Drum Master_.
 
-''Pełny artykuł: [Catch the Beat](PL:Catch_the_Beat "wikilink")
+### Czym jest „Catch the Beat”?
 
--   Catch the Beat to drugi specjalny tryb gry, dodany po trybie Taiko.
--   Zamiast klikania kółek, musisz teraz poruszać łapaczem na dole ekranu i zbierać spadające owoce.
+_Pełny artykuł: [Catch the Beat][osu!catch wikilink]_
 
-### Kontrolowanie catchera
+![Interfejs osu!catch][osu!catch Interface image]
 
-`W trakcie używania moda Relax catcherem można sterować za pomocą myszy.`
+Catch the Beat to drugi specjalny tryb gry, dodany po trybie Taiko.
 
--   Domyślnie poruszać można się za pomocą lewej \[&lt;-\] i prawej \[-&gt;\] strzałki na klawiaturze.
--   Przytrzymywanie lewego klawisza \[SHIFT\] pozwala na przyśpieszenie łapacza (tzw. dash) do x1.5 szybkości (pokazywane jasną poświatą wokół postaci).
+Zamiast klikania kółek, musisz teraz poruszać łapaczem na dole ekranu i zbierać spadające owoce.
+
+#### Podastawowe objaśnienie
+
+##### Obszar gry
+
+![różnica pomiędzy obszarami gry osu!catch CS2 i CS7][osu!catch Playfield]
+
+_Po lewej znajduje się obszar C2, po prawej C7_
+
+Przybliżenie obszaru gry oparte jest na CS (Circle Size) - im większa wartość tym obszar gry jest bardziej oddalony
 
 Czym jest "osu!mania"?
 ----------------------
