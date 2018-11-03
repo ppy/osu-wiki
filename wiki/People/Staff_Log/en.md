@@ -19,7 +19,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 
 ### January
 
--   Added [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-01-01)
+-   Added [[Shi-Ra]](/users/2008489) as osu!mania BAT (2014-01-01)
 -   Added [TKS](/users/940878) as osu!taiko BAT (2014-01-04)
 -   Readded [Teara](/users/123491) as BAT (2014-01-05)
 -   Added [shARPII](/users/776257) as Chat Moderator (2014-01-16)
@@ -122,13 +122,13 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 ### June
 
 -   Readded [Nymph](/users/601990) to the BAT (2014-06-03)
--   Moved [\[Shi-Ra\]](/users/2008489) to Alumni (2014-06-07)
+-   Moved [[Shi-Ra]](/users/2008489) to Alumni (2014-06-07)
 -   Readded [LoliFlan](/users/447818) to Chat Moderators (2014-06-11)
 -   Moved [Kytoxid](/users/98460) to Alumni (2014-06-12)
 -   Moved [ZHSteven](/users/142413) to Alumni (2014-06-12)
 -   Moved [FrostxE](/users/199669) to Alumni (2014-06-15)
 -   Readded [Krah](/users/1436748) as CtB BAT (2014-06-16)
--   Readded [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-06-17)
+-   Readded [[Shi-Ra]](/users/2008489) as osu!mania BAT (2014-06-17)
 -   Moved [YGOkid8](/users/69114) to Alumni (2014-06-18)
 -   Added [ExPew](/users/665612) as osu!mania BAT (2014-06-23)
 -   Added [Oinari-Sama](/users/405508) to Support Team and Chat Moderators (2014-06-29)
@@ -176,7 +176,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [MMzz](/users/128993) to the QAT (2014-08-21)
 -   Moved [OnosakiHito](/users/290128) to the QAT (2014-08-21)
 -   Moved [Shiro](/users/113005) to the QAT (2014-08-21)
--   Moved [\[Shi-Ra\]](/users/2008489) to the QAT (2014-08-21)
+-   Moved [[Shi-Ra]](/users/2008489) to the QAT (2014-08-21)
 -   Moved [NoHitter](/users/124455) to the BAT (2014-08-22)
 -   Moved [narakucrimson](/users/287468) to the BAT (2014-08-22)
 -   Moved [happy30](/users/27767) to the BAT (2014-08-22)
@@ -191,50 +191,50 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 
 All users listed below were added on 2014-08-24.
 
--   Added [arcwinolivirus](/users/2039089) to the BAT
--   Added [-Bakari-](/users/597957) to the BAT
--   Added [CDFA](/users/135630) to the BAT
--   Added [Cherry Blossom](/users/1156742) to the BAT
--   Added [Delis](/users/1603923) to the BAT
--   Added [Desperate-kun](/users/2202645) to the BAT
--   Added [EvilElvis](/users/1848318) to the BAT
--   Added [Flask](/users/959763) to the BAT
--   Added [Flower](/users/1033017) to the BAT
--   Added [Fycho](/users/1876867) to the BAT
--   Added [\_Gezo\_](/users/481582) to the BAT
--   Added [Hinsvar](/users/1249323) to the BAT
--   Added [Kyshiro](/users/640611) to the BAT
--   Added [Lanturn](/users/1446665) to the BAT
--   Added [Loneight](/users/663131) to the BAT
--   Added [Mao](/users/2204515) to the BAT
--   Added [mingmichael](/users/1570876) to the BAT
--   Added [mintong89](/users/966210) to the BAT
--   Added [Mystyk](/users/930165) to the BAT
--   Added [Nemis](/users/1635091) to the BAT
--   Added [No_Gu](/users/654883) to the BAT
--   Added [qoot8123](/users/766371) to the BAT
--   Added [Rumia-](/users/1787171) to the BAT
--   Added [Sey](/users/553656) to the BAT
--   Added [Spectator](/users/702598) to the BAT
--   Added [TicClick](/users/672931) to the BAT
--   Added [UnitedWeSin](/users/1778050) to the BAT
+-   [arcwinolivirus](/users/2039089)
+-   [-Bakari-](/users/597957)
+-   [CDFA](/users/135630)
+-   [Cherry Blossom](/users/1156742)
+-   [Delis](/users/1603923)
+-   [Desperate-kun](/users/2202645)
+-   [EvilElvis](/users/1848318)
+-   [Flask](/users/959763)
+-   [Flower](/users/1033017)
+-   [Fycho](/users/1876867)
+-   [\_Gezo\_](/users/481582)
+-   [Hinsvar](/users/1249323)
+-   [Kyshiro](/users/640611)
+-   [Lanturn](/users/1446665)
+-   [Loneight](/users/663131)
+-   [Mao](/users/2204515)
+-   [mingmichael](/users/1570876)
+-   [mintong89](/users/966210)
+-   [Mystyk](/users/930165)
+-   [Nemis](/users/1635091)
+-   [No\_Gu](/users/654883)
+-   [qoot8123](/users/766371)
+-   [Rumia-](/users/1787171)
+-   [Sey](/users/553656)
+-   [Spectator](/users/702598)
+-   [TicClick](/users/672931)
+-   [UnitedWeSin](/users/1778050)
 
 ---
 
 All users listed below were added on 2014-08-30.
 
--   Added [Aka](/users/1307553) to the BAT
--   Added [Gero](/users/1467715) to the BAT
--   Added [IamKwaN](/users/1856463) to the BAT
--   Added [Kurokami](/users/260933) to the BAT
--   Added [Low](/users/976963) to the BAT
--   Added [Satellite](/users/1661227) to the BAT
--   Added [Secretpipe](/users/2208964) to the BAT
--   Added [Simple_Star](/users/2300597) to the BAT
--   Added [Spy](/users/1217122) to the BAT
--   Added [Tari](/users/1779172) to the BAT
--   Added [those](/users/557166) to the BAT
--   Added [Xinely](/users/1521445) to the BAT
+-   [Aka](/users/1307553)
+-   [Gero](/users/1467715)
+-   [IamKwaN](/users/1856463)
+-   [Kurokami](/users/260933)
+-   [Low](/users/976963)
+-   [Satellite](/users/1661227)
+-   [Secretpipe](/users/2208964)
+-   [Simple\_Star](/users/2300597)
+-   [Spy](/users/1217122)
+-   [Tari](/users/1779172)
+-   [those](/users/557166)
+-   [Xinely](/users/1521445)
 
 ### September
 
@@ -252,16 +252,16 @@ All users listed below were added on 2014-08-30.
 
 All users listed below were added on 2014-09-17.
 
--   Added [Konei](/users/1446085) to the BAT
--   Added [Natsu](/users/1953876) to the BAT
--   Added [nold_1702](/users/515967) to the BAT
--   Added [Raiku](/users/1525538) to the BAT
--   Added [Stefan](/users/626907) to the BAT
--   Added [smallboat](/users/243049) to the BAT
--   Added [Umi](/users/2075222) to the BAT
--   Added [xChippy](/users/1026491) to the BAT
--   Added [Oracle](/users/1504456) to the BAT
--   Added [Lust](/users/2316951) to the BAT
+-   [Konei](/users/1446085)
+-   [Natsu](/users/1953876)
+-   [nold\_1702](/users/515967)
+-   [Raiku](/users/1525538)
+-   [Stefan](/users/626907)
+-   [smallboat](/users/243049)
+-   [Umi](/users/2075222)
+-   [xChippy](/users/1026491)
+-   [Oracle](/users/1504456)
+-   [Lust](/users/2316951)
 
 ### October
 
@@ -294,13 +294,13 @@ All users listed below were added on 2014-09-17.
 
 All users listed below were added on 2014-11-22.
 
--   Added [Gamu](/users/611174) to the Beatmap Appreciation Team
--   Added [Hollow Wings](/users/416662) to the Beatmap Appreciation Team
--   Added [Kenterz](/users/1587976) to the Beatmap Appreciation Team
--   Added [Minakami Yuki](/users/2433507) to the Beatmap Appreciation Team
--   Added [Nwolf](/users/1910766) to the Beatmap Appreciation Team
--   Added [pishifat](/users/3178418) to the Beatmap Appreciation Team
--   Added [Rakuen](/users/2426126) to the Beatmap Appreciation Team
+-   [Gamu](/users/611174)
+-   [Hollow Wings](/users/416662)
+-   [Kenterz](/users/1587976)
+-   [Minakami Yuki](/users/2433507)
+-   [Nwolf](/users/1910766)
+-   [pishifat](/users/3178418)
+-   [Rakuen](/users/2426126)
 
 ### December
 
@@ -328,14 +328,14 @@ All users listed below were added on 2014-11-22.
 
 All users listed below were added on 2014-12-02.
 
--   Added [Kibbleru](/users/3193504) to the Beatmap Appreciation Team
--   Added [Kloyd](/users/1574070) to the Beatmap Appreciation Team
--   Added [Kyubey](/users/2195646) to the Beatmap Appreciation Team
--   Added [Leorda](/users/119134) to the Beatmap Appreciation Team
--   Added [lkx_shore](/users/247937) to the Beatmap Appreciation Team
--   Added [Sieg](/users/1404615) to the Beatmap Appreciation Team
--   Added [wcx19911123](/users/376831) to the Beatmap Appreciation Team
--   Added [xxdeathx](/users/3034880) to the Beatmap Appreciation Team
+-   [Kibbleru](/users/3193504)
+-   [Kloyd](/users/1574070)
+-   [Kyubey](/users/2195646)
+-   [Leorda](/users/119134)
+-   [lkx_shore](/users/247937)
+-   [Sieg](/users/1404615)
+-   [wcx19911123](/users/376831)
+-   [xxdeathx](/users/3034880)
 
 ## 2015
 
@@ -353,21 +353,21 @@ All users listed below were added on 2014-12-02.
 
 All users listed below were added on 2015-01-03.
 
--   Added [\[ S a k u r a \]](/users/3653042) to the Beatmap Appreciation Team
--   Added [Andrea](/users/33599) to the Beatmap Appreciation Team
--   Added [BeatofIke](/users/1103522) to the Beatmap Appreciation Team
--   Added [CloudSplash16](/users/2099102) to the Beatmap Appreciation Team
--   Added [\[CSGA\]Ar3sgice](/users/989563) to the Beatmap Appreciation Team
--   Added [DE-CADE](/users/3734394) to the Beatmap Appreciation Team
--   Added [Inyuschan](/users/1721995) to the Beatmap Appreciation Team
--   Added [Momochikun](/users/2032824) to the Beatmap Appreciation Team
--   Added [Okoratu](/users/1623405) to the Beatmap Appreciation Team
--   Added [OniJAM](/users/961752) to the Beatmap Appreciation Team
--   Added [Pereira006](/users/537344) to the Beatmap Appreciation Team
--   Added [Pho](/users/3624692) to the Beatmap Appreciation Team
--   Added [pieguy1372](/users/107485) to the Beatmap Appreciation Team
--   Added [Sonnyc](/users/11771) to the Beatmap Appreciation Team
--   Added [Xgor](/users/98661) to the Beatmap Appreciation Team
+-   [[ S a k u r a ]](/users/3653042)
+-   [Andrea](/users/33599)
+-   [BeatofIke](/users/1103522)
+-   [CloudSplash16](/users/2099102)
+-   [[CSGA]Ar3sgice](/users/989563)
+-   [DE-CADE](/users/3734394)
+-   [Inyuschan](/users/1721995)
+-   [Momochikun](/users/2032824)
+-   [Okoratu](/users/1623405)
+-   [OniJAM](/users/961752)
+-   [Pereira006](/users/537344)
+-   [Pho](/users/3624692)
+-   [pieguy1372](/users/107485)
+-   [Sonnyc](/users/11771)
+-   [Xgor](/users/98661)
 
 ### February
 
@@ -387,7 +387,7 @@ All users listed below were added on 2015-01-03.
 -   Moved [IamKwaN](/users/1856463) to the Quality Assurance Team (2015-02-19)
 -   Removed [AnataNoBaka](/users/1769646) from the Chat Moderators (2015-02-22)
 -   Moved [ethox](/users/441380) to the osu! Alumni (2015-02-22)
--   Removed [Evil_Twilight](/users/409347) from the Chat Moderators (2015-02-22)
+-   Removed [Evil\_Twilight](/users/409347) from the Chat Moderators (2015-02-22)
 -   Moved [Galkan](/users/169570) to the osu! Alumni (2015-02-22)
 -   Removed [Guy](/users/91738) from the Chat Moderators (2015-02-22)
 -   Moved [HeatKai](/users/332555) to the osu! Alumni (2015-02-22)
@@ -453,7 +453,7 @@ All users listed below were added on 2015-03-03.
 -   [Harbyter](/users/1147679)
 -   [Alarido](/users/1948827)
 -   [Yauxo](/users/898306)
--   [\[AyanoTatemaya\]](/users/2760619)
+-   [[AyanoTatemaya]](/users/2760619)
 -   [shionelove](/users/501551)
 -   [Genocide](/users/6477309)
 -   [CelsiusLK](/users/1409012)
@@ -461,8 +461,8 @@ All users listed below were added on 2015-03-03.
 -   [Gray Veyron](/users/1886524)
 -   [\_S u w a k o\_](/users/2786984)
 -   [sheela901](/users/1138027)
--   [\[GraveChaos\]](/users/3009472)
--   [\[Shana Lesus\]](/users/2881789)
+-   [[GraveChaos]](/users/3009472)
+-   [[Shana Lesus]](/users/2881789)
 -   [handsome](/users/2123087)
 -   [Zan -](/users/1411817)
 -   [Z3nx](/users/2193881)
@@ -484,7 +484,7 @@ All users listed below were added on 2015-03-03.
 
 All users listed below were added on 2015-04-06.
 
--   [ByBy_ChAn](/users/3436326)
+-   [ByBy\_ChAn](/users/3436326)
 -   [Blocko](/users/4075092)
 -   [Krfawy](/users/1478292)
 -   [sukiNathan](/users/4785223)
@@ -525,7 +525,7 @@ All users listed below were added on 2015-05-11.
 
 All users listed below were added on 2015-06-15.
 
--   [\- Magic Bomb -](/users/3071175)
+-   [- Magic Bomb -](/users/3071175)
 -   Alex Li
 -   [Chaoslitz](/users/3621552)
 -   [Yuii-](/users/3468063)
@@ -533,9 +533,9 @@ All users listed below were added on 2015-06-15.
 
 ### July
 
--   Added [\[ Another \]](/users/3416573) to the Chat Moderators (2015-07-01)
+-   Added [[ Another ]](/users/3416573) to the Chat Moderators (2015-07-01)
 -   Added [Kurokami](/users/260933) to the Quality Assurance Team (2015-07-01)
--   Moved [\[Shi-Ra\]](/users/2008489) to the Quality Assurance Team (2015-07-09)
+-   Moved [[Shi-Ra]](/users/2008489) to the Quality Assurance Team (2015-07-09)
 -   Moved [Oinari-sama](/users/405508) to the osu! Alumni (2015-07-27)
 
 #### New BN additions
@@ -568,7 +568,7 @@ All users listed below were added on 2015-07-19.
 ### September
 
 -   Moved [Spy](/users/1217122) to the osu! Alumni (2015-09-05)
--   Moved [\[Shi-Ra\]](/users/2008489) to the osu! Alumni (2015-09-05)
+-   Moved [[Shi-Ra]](/users/2008489) to the osu! Alumni (2015-09-05)
 -   Added [Lust](/users/2316951) to the Quality Assurance Team (2015-09-06)
 
 ### October
@@ -618,12 +618,12 @@ All users listed below were added on 2015-10-02.
 
 #### New BN additions
 
--   Added [Sey](/users/553656) to the Beatmap Nomination Group (2016-01-20)
--   Added [\- Magic Bomb -](/users/3071175) to the Beatmap Nomination Group (2016-01-20)
--   Added [koliron](/users/4632730) to the Beatmap Nomination Group (2016-01-20)
--   Added [-Kamikaze-](/users/2124783) to the Beatmap Nomination Group (2016-01-21)
--   Added [Feerum](/users/4815717) to the Beatmap Nomination Group (2016-01-21)
--   Added [newyams99](/users/3701008) to the Beatmap Nomination Group (2016-01-23)
+-   [Sey](/users/553656) (2016-01-20)
+-   [- Magic Bomb -](/users/3071175) (2016-01-20)
+-   [koliron](/users/4632730) (2016-01-20)
+-   [-Kamikaze-](/users/2124783) (2016-01-21)
+-   [Feerum](/users/4815717) (2016-01-21)
+-   [newyams99](/users/3701008) (2016-01-23)
 
 ### February
 
@@ -678,10 +678,10 @@ All users listed below were added on 2016-06-01.
 -   [Doyak](/users/2046893)
 -   [Volta](/users/4154071)
 -   [Nwolf](/users/1910766)
--   [\[Sc4v4ng3r\]](/users/4838429)
+-   [[Sc4v4ng3r]](/users/4838429)
 -   [Ascendance](/users/2931883)
 -   [Fresh Chicken](/users/3984370)
--   [\[ A v a l o n \]](/users/4632359)
+-   [[ A v a l o n ]](/users/4632359)
 -   [Nivrad00](/users/1984634)
 -   [Rizqy](/users/1411817)
 
@@ -749,8 +749,8 @@ All users listed below were added on 2016-11-04.
 -   [SanadaYukimura](/users/2633753)
 -   [Protastic101](/users/6712747)
 -   [Dellvangel](/users/5186244)
--   [Rivals_7](/users/4610379)
--   [Critical_Star](/users/3793196)
+-   [Rivals\_7](/users/4610379)
+-   [Critical\_Star](/users/3793196)
 -   [Chromoxx](/users/1881639)
 -   [snowball112](/users/2350722)
 
@@ -908,7 +908,7 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [Monstrata](/users/2706438) due to less than stellar behaviour over extended periods of time (2017-12-19)
+-   [Monstrata](/users/2706438) - less than stellar behaviour over extended periods of time (2017-12-19)
 
 ## 2018
 
@@ -927,7 +927,7 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [sheela](/users/1138027) due to resignation (2018-01-13)
+-   [sheela](/users/1138027) - resignation (2018-01-13)
 
 #### New BN additions
 
@@ -940,7 +940,7 @@ All users listed below were added on 2017-12-11.
 -   [Realazy](/users/918297)
 -   [timemon](/users/2072005)
 -   [AyanokoRin](/users/5376866)
--   [\- Frontier -](/users/4314710)
+-   [- Frontier -](/users/4314710)
 -   [Sotarks](/users/4452992)
 -   [dsco](/users/4330511)
 -   [Namki](/users/5248582)
@@ -960,21 +960,21 @@ All users listed below were added on 2017-12-11.
 -   Added [Asherz007](/users/9014047) to the Quality Assurance Team (2018-02-04)
 -   Moved [Darksonic](/users/570042) to the Global Moderation Team (2018-02-13)
 -   Moved [Uni](/users/617106) to the osu! Alumni (2018-02-20)
--   Moved [\[ Another \]](/users/3416573) to the osu! Alumni (2018-02-20)
+-   Moved [[ Another ]](/users/3416573) to the osu! Alumni (2018-02-20)
 -   Removed [Irreversible](/users/1287964) from the Quality Assurance Team (2018-02-27)
 
 #### BN removals
 
--   Removed [Litharrale](/users/3189995) due to resignation (2018-02-02)
--   Removed [ailv](/users/6933054) for irresponsible nomination (2018-02-19)
--   Removed [Halfsmashed](/users/4847256) due to resignation (2018-02-21)
--   Removed [Wafu](/users/888955) due to resignation (2018-02-25)
--   Removed [Voli](/users/2522275) due to resignation (2018-02-28)
+-   [Litharrale](/users/3189995) - resignation (2018-02-02)
+-   [ailv](/users/6933054) - irresponsible nomination (2018-02-19)
+-   [Halfsmashed](/users/4847256) - resignation (2018-02-21)
+-   [Wafu](/users/888955) - resignation (2018-02-25)
+-   [Voli](/users/2522275) - resignation (2018-02-28)
 
 #### New BN additions
 
--   Added [Kuron-Kun](/users/2697284) to the Beatmap Nominators (2018-02-06)
--   Added [ailv](/users/6933054) to the Beatmap Nominators (2018-02-26)
+-   [Kuron-Kun](/users/2697284) (2018-02-06)
+-   [ailv](/users/6933054) (2018-02-26)
 
 ### March
 
@@ -989,8 +989,8 @@ All users listed below were added on 2017-12-11.
 
 #### BN removals
 
--   Removed [Naotoshi](/users/5364763) due to resignation (2018-03-11)
--   Removed [xfraczynho](/users/2192669) due to resignation (2018-03-19)
+-   [Naotoshi](/users/5364763) - resignation (2018-03-11)
+-   [xfraczynho](/users/2192669) - resignation (2018-03-19)
 
 #### New BN additions
 
@@ -1019,11 +1019,11 @@ All users listed below were added on 2018-03-19.
 
 #### BN removals
 
--   Removed [Sanyi](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
--   Removed [ezek](/users/7496029) from the Beatmap Nominators by resignation (2018-04-17)
--   Removed Kisses from the Beatmap Nominators due to account restriction (2018-04-22)
--   Removed [Hareimu](/users/4138746) from the Beatmap Nominators by resignation (2018-04-24)
--   Removed Sotarks from the Beatmap Nominators due to account restriction (2018-04-30) 
+-   [Sanyi](/users/7496029) - resignation (2018-04-17)
+-   [ezek](/users/7496029) - resignation (2018-04-17)
+-   Kisses - account restriction (2018-04-22)
+-   [Hareimu](/users/4138746) - resignation (2018-04-24)
+-   Sotarks - account restriction (2018-04-30) 
 
 #### New BN additions
 
@@ -1056,17 +1056,17 @@ All users listed below were added on 2018-04-23.
 
 #### BN removals
 
--   Removed [Chromoxx](/users/1881639) from the Beatmap Nominators by resignation (2018-05-01)
--   Removed [Chewin](/users/617323) from the Beatmap Nominators for inactivity (2018-05-14)
--   Removed [MBomb](/users/3071175) from the Beatmap Nominators by resignation (2018-05-20)
--   Removed [SnowNiNo\_](/users/2506267) from the Beatmap Nominators by failing probation (2018-05-24)
--   Removed [Smokeman](/users/2140676) from the Beatmap Nominators by failing probation (2018-05-24)
--   Removed [Kyuukai](/users/5337374) from the Beatmap Nominators by failing probation (2018-05-24)
--   Removed [juankristal](/users/443656) from the Beatmap Nominators for inactivity (2018-05-30)
--   Removed [Nwolf](/users/1910766) from the Beatmap Nominators for inactivity (2018-05-30)
--   Removed [Arrival](/users/1694000) from the Beatmap Nominators for inactivity (2018-05-30)
--   Removed [Julie](/users/2420987) from the Beatmap Nominators for inactivity (2018-05-30)
--   Removed [Weber](/users/6410432) from the Beatmap Nominators for inactivity (2018-05-30)
+-   [Chromoxx](/users/1881639) - resignation (2018-05-01)
+-   [Chewin](/users/617323) - inactivity (2018-05-14)
+-   [MBomb](/users/3071175) - resignation (2018-05-20)
+-   [SnowNiNo\_](/users/2506267) - failing probation (2018-05-24)
+-   [Smokeman](/users/2140676) - failing probation (2018-05-24)
+-   [Kyuukai](/users/5337374) - failing probation (2018-05-24)
+-   [juankristal](/users/443656) - inactivity (2018-05-30)
+-   [Nwolf](/users/1910766) - inactivity (2018-05-30)
+-   [Arrival](/users/1694000) - inactivity (2018-05-30)
+-   [Julie](/users/2420987) - inactivity (2018-05-30)
+-   [Weber](/users/6410432) - inactivity (2018-05-30)
 
 ### June
 
@@ -1080,13 +1080,13 @@ All users listed below were added on 2018-04-23.
 
 #### BN removals
 
--   Removed [dsco](/users/4330511) from the Beatmap Nominators by resignation (2018-06-07)
--   Removed [frukoyurdakul](/users/7612550) from the Beatmap Nominators by resignation (2018-06-11)
--   Removed [kwk](/users/365586) from the Beatmap Nominators by failing probation (2018-06-23)
--   Removed [Deramok](/users/1428455) from the Beatmap Nominators by failing probation (2018-06-23)
--   Removed [hypercyte](/users/9155377) from the Beatmap Nominators by failing probation (2018-06-23)
--   Removed [celerih](/users/4696296) from the Beatmap Nominators by resignation (2018-06-24)
--   Removed [AyanokoRin](/users/5376866) from the Beatmap Nominators by resignation (2018-06-25)
+-   [dsco](/users/4330511) - resignation (2018-06-07)
+-   [frukoyurdakul](/users/7612550) - resignation (2018-06-11)
+-   [kwk](/users/365586) - failing probation (2018-06-23)
+-   [Deramok](/users/1428455) - failing probation (2018-06-23)
+-   [hypercyte](/users/9155377) - failing probation (2018-06-23)
+-   [celerih](/users/4696296) - resignation (2018-06-24)
+-   [AyanokoRin](/users/5376866) - resignation (2018-06-25)
 
 #### New BN additions
 
@@ -1109,23 +1109,23 @@ All users listed below were added on 2018-06-12.
 
 #### BN removals
 
--   Removed [Sorcerer](/users/1913190) from the Beatmap Nominators by resignation (2018-07-01)
--   Removed [Arzenvald](/users/3027421) from the Beatmap Nominators by resignation (2018-07-05)
--   Removed [Kagetsu](/users/6203841) from the Beatmap Nominators by resignation (2018-07-11)
--   Removed [Hailie](/users/5226970) from the Beatmap Nominators by resignation (2018-07-14)
--   Removed [Bubblun](/users/6191653) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
--   Removed [Battle](/users/4037545) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [Halfslashed](/users/4598899) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
--   Removed [mancuso\_JM\_](/users/521568) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [pinataman](/users/1235485) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [squirrelpascals](/users/6151332) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
--   Removed [AJamez](/users/7890134) from the Beatmap Nominators for insufficient proficiency (2018-07-21)
--   Removed [Fresh Chicken](/users/3984370) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [Kamikaze](/users/2124783) from the Beatmap Nominators for inappropriate behaviour (2018-07-21)
--   Removed [JUDYDANNY](/users/1165475) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [Skylish](/users/2845958) from the Beatmap Nominators for inactivity (2018-07-21)
--   Removed [incandescence](/users/6256027) from the Beatmap Nominators by resignation (2018-07-27)
--   Removed [Delis](/users/1603923) from the Beatmap Nominators by resignation (2018-07-28)
+-   [Sorcerer](/users/1913190) - resignation (2018-07-01)
+-   [Arzenvald](/users/3027421) - resignation (2018-07-05)
+-   [Kagetsu](/users/6203841) - resignation (2018-07-11)
+-   [Hailie](/users/5226970) - resignation (2018-07-14)
+-   [Bubblun](/users/6191653) - insufficient proficiency (2018-07-21)
+-   [Battle](/users/4037545) - inactivity (2018-07-21)
+-   [Halfslashed](/users/4598899) - insufficient proficiency (2018-07-21)
+-   [mancuso\_JM\_](/users/521568) - inactivity (2018-07-21)
+-   [pinataman](/users/1235485) - inactivity (2018-07-21)
+-   [squirrelpascals](/users/6151332) - insufficient proficiency (2018-07-21)
+-   [AJamez](/users/7890134) - insufficient proficiency (2018-07-21)
+-   [Fresh Chicken](/users/3984370) - inactivity (2018-07-21)
+-   [Kamikaze](/users/2124783) - inappropriate behaviour (2018-07-21)
+-   [JUDYDANNY](/users/1165475) - inactivity (2018-07-21)
+-   [Skylish](/users/2845958) - inactivity (2018-07-21)
+-   [incandescence](/users/6256027) - resignation (2018-07-27)
+-   [Delis](/users/1603923) - resignation (2018-07-28)
 
 #### New BN additions
 
@@ -1151,17 +1151,17 @@ All users listed below were added on 2018-07-27.
 
 #### BN removals
 
--   Removed [error\_exe777](/users/7975796) from the Beatmap Nominators by failing probation (2018-08-17)
--   Removed [Cerulean Veyron](/users/1886524) from the Beatmap Nominators by resignation (2018-08-20)
--   Removed [F D Flourite](/users/2459589) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [Ryuusei Aika](/users/7777875) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [sahuang](/users/5318910) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [Strategas](/users/2971837) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [DE-CADE](/users/3734394) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [Lenfried\-](/users/5314573) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [Unpredictable](/users/7560872) from the Beatmap Nominators by failing probation (2018-08-22)
--   Removed [Garalulu](/users/757783) from the Beatmap Nominators by resignation (2018-08-25)
--   Removed [Sieg](/users/1404615) from the Beatmap Nominators by resignation (2018-08-28)
+-   [error\_exe777](/users/7975796) - failing probation (2018-08-17)
+-   [Cerulean Veyron](/users/1886524) - resignation (2018-08-20)
+-   [F D Flourite](/users/2459589) - failing probation (2018-08-22)
+-   [Ryuusei Aika](/users/7777875) - failing probation (2018-08-22)
+-   [sahuang](/users/5318910) - failing probation (2018-08-22)
+-   [Strategas](/users/2971837) - failing probation (2018-08-22)
+-   [DE-CADE](/users/3734394) - failing probation (2018-08-22)
+-   [Lenfried-](/users/5314573) - failing probation (2018-08-22)
+-   [Unpredictable](/users/7560872) - failing probation (2018-08-22)
+-   [Garalulu](/users/757783) - resignation (2018-08-25)
+-   [Sieg](/users/1404615) - resignation (2018-08-28)
 
 ### September
 
@@ -1174,11 +1174,58 @@ All users listed below were added on 2018-07-27.
 
 #### BN removals
 
--   Removed [MrSergio](/users/2581696) from the Beatmap Nominators by failing probation (2018-09-02)
--   Removed [Cris\-](/users/6175280) from the Beatmap Nominators by failing probation (2018-09-02)
--   Removed [Yugu](/users/3161834) from the Beatmap Nominators by failing probation (2018-09-02)
--   Removed [frogyfro](/users/7010859) from the Beatmap Nominators by failing probation (2018-09-02)
--   Removed [Fii](/users/3922569) from the Beatmap Nominators by resignation (2018-09-02)
--   Removed [Karen](/users/3143784) from the Beatmap Nominators for inactivity (2018-09-08)
--   Removed [riffy](/users/597957) from the Beatmap Nominators by resignation (2018-09-09)
--   Removed [Ascendance](/users/2931883) from the Beatmap Nominators by resignation (2018-09-15)
+-   [MrSergio](/users/2581696) - failing probation (2018-09-02)
+-   [Cris-](/users/6175280) - failing probation (2018-09-02)
+-   [Yugu](/users/3161834) - failing probation (2018-09-02)
+-   [frogyfro](/users/7010859) - failing probation (2018-09-02)
+-   [Fii](/users/3922569) - resignation (2018-09-02)
+-   [Karen](/users/3143784) - inactivity (2018-09-08)
+-   [riffy](/users/597957) - resignation (2018-09-09)
+-   [Ascendance](/users/2931883) - resignation (2018-09-15)
+
+### October
+
+-   Added [topecnz](/users/2103927) to the Global Moderation Team (2018-10-01)
+-   Added [-Kazu-](/users/920861) to the Quality Assurance Team (2018-10-04)
+-   Moved [VeilStar](/users/4255720) to the osu! Alumni (2018-10-05)
+-   Moved [TicClick](/users/672931) to the Global Moderation Team (2018-10-23)
+
+#### BN removals
+
+-   [Plaudible](/users/7149815) - resignation (2018-10-07)
+-   [BOUYAAA](/users/405449) - failing probation (2018-10-12)
+-   [Jonawaga](/users/3653035) - resignation (2018-10-14)
+-   [Nifty](/users/4956097) - failing probation (2018-10-15)
+-   [Kin](/users/480689) - inactivity (2018-10-17)
+
+#### New BN additions
+
+-   [Sotarks](/users/4452992) (2018-10-22)
+-   [Hailie](/users/5226970) (2018-10-22)
+-   [LMT](/users/7262798) (2018-10-22)
+-   [Beomsan](/users/3626063) (2018-10-22)
+-   [Smokeman](/users/2140676) (2018-10-22)
+-   [Myxomatosis](/users/2202645) (2018-10-22)
+-   [Kaitjuh](/users/2225327) (2018-10-22)
+-   [Ryuusei Aika](/users/7777875) (2018-10-22)
+-   [NeilPerry](/users/841391) (2018-10-22)
+-   [fieryrage](/users/3533958) (2018-10-22)
+-   [hypercyte](/users/9155377) (2018-10-22)
+-   [Uta](/users/9439796) (2018-10-22)
+-   [Yahuri](/users/4682629) (2018-10-22)
+-   [squirrelpascals](/users/6151332) (2018-10-22)
+-   [yaspo](/users/4945926) (2018-10-22)
+-   [DTM9 Nowa](/users/5428909) (2018-10-22)
+-   [Yales](/users/2377881) (2018-10-22)
+-   [ARGENTINE DREAM](/users/1981781) (2018-10-22)
+-   [Ascendance](/users/2931883) (2018-10-22)
+-   [-Luminate](/users/4778689) (2018-10-22)
+-   [AJamez](/users/7890134) (2018-10-22)
+-   [wonjae](/users/5032045) (2018-10-22)
+-   [Sinnoh](/users/4236057) (2018-10-22)
+-   [Dellvangel](/users/5186244) (2018-10-22)
+-   [-MysticEyes](/users/6253266) (2018-10-22)
+-   [MEGAtive](/users/3094101) (2018-10-22)
+-   [Arzenvald](/users/3027421) (2018-10-22)
+-   [Yuii-](/users/2935923) (2018-10-23)
+-   [Yukiyo](/users/4541873) (2018-10-28)
