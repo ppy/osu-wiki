@@ -54,8 +54,6 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ## Participants
 
-**Confirmed Rosters**
-
 | | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [FastoFreezu](https://osu.ppy.sh/users/3608846), [Serena](https://osu.ppy.sh/users/756068), [Ceja](https://osu.ppy.sh/users/4185921), [Rimi](https://osu.ppy.sh/users/5194834), [LuBren](https://osu.ppy.sh/users/6573651), [Cata](https://osu.ppy.sh/users/5958063) |
