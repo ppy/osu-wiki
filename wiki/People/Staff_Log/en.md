@@ -19,7 +19,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 
 ### January
 
--   Added [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-01-01)
+-   Added [[Shi-Ra]](/users/2008489) as osu!mania BAT (2014-01-01)
 -   Added [TKS](/users/940878) as osu!taiko BAT (2014-01-04)
 -   Readded [Teara](/users/123491) as BAT (2014-01-05)
 -   Added [shARPII](/users/776257) as Chat Moderator (2014-01-16)
@@ -122,13 +122,13 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 ### June
 
 -   Readded [Nymph](/users/601990) to the BAT (2014-06-03)
--   Moved [\[Shi-Ra\]](/users/2008489) to Alumni (2014-06-07)
+-   Moved [[Shi-Ra]](/users/2008489) to Alumni (2014-06-07)
 -   Readded [LoliFlan](/users/447818) to Chat Moderators (2014-06-11)
 -   Moved [Kytoxid](/users/98460) to Alumni (2014-06-12)
 -   Moved [ZHSteven](/users/142413) to Alumni (2014-06-12)
 -   Moved [FrostxE](/users/199669) to Alumni (2014-06-15)
 -   Readded [Krah](/users/1436748) as CtB BAT (2014-06-16)
--   Readded [\[Shi-Ra\]](/users/2008489) as osu!mania BAT (2014-06-17)
+-   Readded [[Shi-Ra]](/users/2008489) as osu!mania BAT (2014-06-17)
 -   Moved [YGOkid8](/users/69114) to Alumni (2014-06-18)
 -   Added [ExPew](/users/665612) as osu!mania BAT (2014-06-23)
 -   Added [Oinari-Sama](/users/405508) to Support Team and Chat Moderators (2014-06-29)
@@ -176,7 +176,7 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 -   Moved [MMzz](/users/128993) to the QAT (2014-08-21)
 -   Moved [OnosakiHito](/users/290128) to the QAT (2014-08-21)
 -   Moved [Shiro](/users/113005) to the QAT (2014-08-21)
--   Moved [\[Shi-Ra\]](/users/2008489) to the QAT (2014-08-21)
+-   Moved [[Shi-Ra]](/users/2008489) to the QAT (2014-08-21)
 -   Moved [NoHitter](/users/124455) to the BAT (2014-08-22)
 -   Moved [narakucrimson](/users/287468) to the BAT (2014-08-22)
 -   Moved [happy30](/users/27767) to the BAT (2014-08-22)
@@ -211,7 +211,7 @@ All users listed below were added on 2014-08-24.
 -   [mintong89](/users/966210)
 -   [Mystyk](/users/930165)
 -   [Nemis](/users/1635091)
--   [No_Gu](/users/654883)
+-   [No\_Gu](/users/654883)
 -   [qoot8123](/users/766371)
 -   [Rumia-](/users/1787171)
 -   [Sey](/users/553656)
@@ -230,7 +230,7 @@ All users listed below were added on 2014-08-30.
 -   [Low](/users/976963)
 -   [Satellite](/users/1661227)
 -   [Secretpipe](/users/2208964)
--   [Simple_Star](/users/2300597)
+-   [Simple\_Star](/users/2300597)
 -   [Spy](/users/1217122)
 -   [Tari](/users/1779172)
 -   [those](/users/557166)
@@ -254,7 +254,7 @@ All users listed below were added on 2014-09-17.
 
 -   [Konei](/users/1446085)
 -   [Natsu](/users/1953876)
--   [nold_1702](/users/515967)
+-   [nold\_1702](/users/515967)
 -   [Raiku](/users/1525538)
 -   [Stefan](/users/626907)
 -   [smallboat](/users/243049)
@@ -353,11 +353,11 @@ All users listed below were added on 2014-12-02.
 
 All users listed below were added on 2015-01-03.
 
--   [\[ S a k u r a \]](/users/3653042)
+-   [[ S a k u r a ]](/users/3653042)
 -   [Andrea](/users/33599)
 -   [BeatofIke](/users/1103522)
 -   [CloudSplash16](/users/2099102)
--   [\[CSGA\]Ar3sgice](/users/989563)
+-   [[CSGA]Ar3sgice](/users/989563)
 -   [DE-CADE](/users/3734394)
 -   [Inyuschan](/users/1721995)
 -   [Momochikun](/users/2032824)
@@ -387,7 +387,7 @@ All users listed below were added on 2015-01-03.
 -   Moved [IamKwaN](/users/1856463) to the Quality Assurance Team (2015-02-19)
 -   Removed [AnataNoBaka](/users/1769646) from the Chat Moderators (2015-02-22)
 -   Moved [ethox](/users/441380) to the osu! Alumni (2015-02-22)
--   Removed [Evil_Twilight](/users/409347) from the Chat Moderators (2015-02-22)
+-   Removed [Evil\_Twilight](/users/409347) from the Chat Moderators (2015-02-22)
 -   Moved [Galkan](/users/169570) to the osu! Alumni (2015-02-22)
 -   Removed [Guy](/users/91738) from the Chat Moderators (2015-02-22)
 -   Moved [HeatKai](/users/332555) to the osu! Alumni (2015-02-22)
@@ -453,7 +453,7 @@ All users listed below were added on 2015-03-03.
 -   [Harbyter](/users/1147679)
 -   [Alarido](/users/1948827)
 -   [Yauxo](/users/898306)
--   [\[AyanoTatemaya\]](/users/2760619)
+-   [[AyanoTatemaya]](/users/2760619)
 -   [shionelove](/users/501551)
 -   [Genocide](/users/6477309)
 -   [CelsiusLK](/users/1409012)
@@ -461,8 +461,8 @@ All users listed below were added on 2015-03-03.
 -   [Gray Veyron](/users/1886524)
 -   [\_S u w a k o\_](/users/2786984)
 -   [sheela901](/users/1138027)
--   [\[GraveChaos\]](/users/3009472)
--   [\[Shana Lesus\]](/users/2881789)
+-   [[GraveChaos]](/users/3009472)
+-   [[Shana Lesus]](/users/2881789)
 -   [handsome](/users/2123087)
 -   [Zan -](/users/1411817)
 -   [Z3nx](/users/2193881)
@@ -484,7 +484,7 @@ All users listed below were added on 2015-03-03.
 
 All users listed below were added on 2015-04-06.
 
--   [ByBy_ChAn](/users/3436326)
+-   [ByBy\_ChAn](/users/3436326)
 -   [Blocko](/users/4075092)
 -   [Krfawy](/users/1478292)
 -   [sukiNathan](/users/4785223)
@@ -525,7 +525,7 @@ All users listed below were added on 2015-05-11.
 
 All users listed below were added on 2015-06-15.
 
--   [\- Magic Bomb -](/users/3071175)
+-   [- Magic Bomb -](/users/3071175)
 -   Alex Li
 -   [Chaoslitz](/users/3621552)
 -   [Yuii-](/users/3468063)
@@ -533,9 +533,9 @@ All users listed below were added on 2015-06-15.
 
 ### July
 
--   Added [\[ Another \]](/users/3416573) to the Chat Moderators (2015-07-01)
+-   Added [[ Another ]](/users/3416573) to the Chat Moderators (2015-07-01)
 -   Added [Kurokami](/users/260933) to the Quality Assurance Team (2015-07-01)
--   Moved [\[Shi-Ra\]](/users/2008489) to the Quality Assurance Team (2015-07-09)
+-   Moved [[Shi-Ra]](/users/2008489) to the Quality Assurance Team (2015-07-09)
 -   Moved [Oinari-sama](/users/405508) to the osu! Alumni (2015-07-27)
 
 #### New BN additions
@@ -568,7 +568,7 @@ All users listed below were added on 2015-07-19.
 ### September
 
 -   Moved [Spy](/users/1217122) to the osu! Alumni (2015-09-05)
--   Moved [\[Shi-Ra\]](/users/2008489) to the osu! Alumni (2015-09-05)
+-   Moved [[Shi-Ra]](/users/2008489) to the osu! Alumni (2015-09-05)
 -   Added [Lust](/users/2316951) to the Quality Assurance Team (2015-09-06)
 
 ### October
@@ -619,7 +619,7 @@ All users listed below were added on 2015-10-02.
 #### New BN additions
 
 -   [Sey](/users/553656) (2016-01-20)
--   [\- Magic Bomb -](/users/3071175) (2016-01-20)
+-   [- Magic Bomb -](/users/3071175) (2016-01-20)
 -   [koliron](/users/4632730) (2016-01-20)
 -   [-Kamikaze-](/users/2124783) (2016-01-21)
 -   [Feerum](/users/4815717) (2016-01-21)
@@ -678,10 +678,10 @@ All users listed below were added on 2016-06-01.
 -   [Doyak](/users/2046893)
 -   [Volta](/users/4154071)
 -   [Nwolf](/users/1910766)
--   [\[Sc4v4ng3r\]](/users/4838429)
+-   [[Sc4v4ng3r]](/users/4838429)
 -   [Ascendance](/users/2931883)
 -   [Fresh Chicken](/users/3984370)
--   [\[ A v a l o n \]](/users/4632359)
+-   [[ A v a l o n ]](/users/4632359)
 -   [Nivrad00](/users/1984634)
 -   [Rizqy](/users/1411817)
 
@@ -940,7 +940,7 @@ All users listed below were added on 2017-12-11.
 -   [Realazy](/users/918297)
 -   [timemon](/users/2072005)
 -   [AyanokoRin](/users/5376866)
--   [\- Frontier -](/users/4314710)
+-   [- Frontier -](/users/4314710)
 -   [Sotarks](/users/4452992)
 -   [dsco](/users/4330511)
 -   [Namki](/users/5248582)
@@ -960,7 +960,7 @@ All users listed below were added on 2017-12-11.
 -   Added [Asherz007](/users/9014047) to the Quality Assurance Team (2018-02-04)
 -   Moved [Darksonic](/users/570042) to the Global Moderation Team (2018-02-13)
 -   Moved [Uni](/users/617106) to the osu! Alumni (2018-02-20)
--   Moved [\[ Another \]](/users/3416573) to the osu! Alumni (2018-02-20)
+-   Moved [[ Another ]](/users/3416573) to the osu! Alumni (2018-02-20)
 -   Removed [Irreversible](/users/1287964) from the Quality Assurance Team (2018-02-27)
 
 #### BN removals
@@ -1158,7 +1158,7 @@ All users listed below were added on 2018-07-27.
 -   [sahuang](/users/5318910) - failing probation (2018-08-22)
 -   [Strategas](/users/2971837) - failing probation (2018-08-22)
 -   [DE-CADE](/users/3734394) - failing probation (2018-08-22)
--   [Lenfried\-](/users/5314573) - failing probation (2018-08-22)
+-   [Lenfried-](/users/5314573) - failing probation (2018-08-22)
 -   [Unpredictable](/users/7560872) - failing probation (2018-08-22)
 -   [Garalulu](/users/757783) - resignation (2018-08-25)
 -   [Sieg](/users/1404615) - resignation (2018-08-28)
@@ -1175,7 +1175,7 @@ All users listed below were added on 2018-07-27.
 #### BN removals
 
 -   [MrSergio](/users/2581696) - failing probation (2018-09-02)
--   [Cris\-](/users/6175280) - failing probation (2018-09-02)
+-   [Cris-](/users/6175280) - failing probation (2018-09-02)
 -   [Yugu](/users/3161834) - failing probation (2018-09-02)
 -   [frogyfro](/users/7010859) - failing probation (2018-09-02)
 -   [Fii](/users/3922569) - resignation (2018-09-02)
@@ -1186,7 +1186,7 @@ All users listed below were added on 2018-07-27.
 ### October
 
 -   Added [topecnz](/users/2103927) to the Global Moderation Team (2018-10-01)
--   Added [\-Kazu-](/users/920861) to the Quality Assurance Team (2018-10-04)
+-   Added [-Kazu-](/users/920861) to the Quality Assurance Team (2018-10-04)
 -   Moved [VeilStar](/users/4255720) to the osu! Alumni (2018-10-05)
 -   Moved [TicClick](/users/672931) to the Global Moderation Team (2018-10-23)
 
@@ -1219,12 +1219,12 @@ All users listed below were added on 2018-07-27.
 -   [Yales](/users/2377881) (2018-10-22)
 -   [ARGENTINE DREAM](/users/1981781) (2018-10-22)
 -   [Ascendance](/users/2931883) (2018-10-22)
--   [\-Luminate](/users/4778689) (2018-10-22)
+-   [-Luminate](/users/4778689) (2018-10-22)
 -   [AJamez](/users/7890134) (2018-10-22)
 -   [wonjae](/users/5032045) (2018-10-22)
 -   [Sinnoh](/users/4236057) (2018-10-22)
 -   [Dellvangel](/users/5186244) (2018-10-22)
--   [\-MysticEyes](/users/6253266) (2018-10-22)
+-   [-MysticEyes](/users/6253266) (2018-10-22)
 -   [MEGAtive](/users/3094101) (2018-10-22)
 -   [Arzenvald](/users/3027421) (2018-10-22)
 -   [Yuii-](/users/2935923) (2018-10-23)
