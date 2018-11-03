@@ -7,24 +7,24 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
 - [게임 설치](/wiki/Installation)
 - [회원가입](/wiki/Registration)
 - [규칙](/wiki/Rules)
-- [자주 묻는 질문들 (FAQ)](/wiki/FAQ)
+- [자주 묻는 질문 (FAQ)](/wiki/FAQ)
 - 게임 모드
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!스탠다드](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!태고](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!캐치](/wiki/osu!catch/#getting-started)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!매니아](/wiki/osu!mania/#getting-started)
+  - ![osu!standard 아이콘](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
+  - ![osu!taiko 아이콘](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - ![osu!catch 아이콘](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
+  - ![osu!mania 아이콘](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [멀티](/wiki/Multi/#getting-started)
-- [랭킹 규칙](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!스탠다드](/wiki/Ranking_Criteria/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!태고](/wiki/Ranking_Criteria/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!캐치](/wiki/Ranking_Criteria/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!매니아](/wiki/Ranking_Criteria/osu!mania)
+- [랭킹 기준](/wiki/Ranking_Criteria)
+  - ![osu!standard 아이콘](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu!taiko 아이콘](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![osu!catch 아이콘](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![osu!mania 아이콘](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## 비트맵핑
 
 *메인 페이지: [비트맵핑](/wiki/Beatmapping/#getting-started).*
 
-비트맵핑은 제작자가 비트맵을 제작하는 과정입니다. 이 과정은 곡 선택, 박자 맞추기와 비트맵 제작, 그리고 비트맵 테스트를 포함합니다. 또한, 배경 동영상 추가, [스토리보드](/wiki/storyboarding/#getting-started) 혹은 [커스텀 스킨](/wiki/skinning/#getting-started)을 추가하는 것도 포함될 수 있습니다. 이 모든 것은 비트맵 제작자 혼자 혹은 가끔 *스토리보더*, *스킨 제작자*, 혹은 *게스트 제작자* 라고 불리는 다른 유저들과 함께 할 수 있으며, 그들이 무언가를 하느냐에 따라 다양해질 수 있습니다.
+비트맵핑은 제작자가 비트맵을 제작하는 과정입니다. 이 과정은 곡 선택, 박자 맞추기와 비트맵 제작, 그리고 비트맵 테스트를 포함합니다. 또한 배경 동영상 추가, [스토리보드](/wiki/storyboarding/#getting-started) 혹은 [커스텀 스킨](/wiki/skinning/#getting-started)을 추가하는 것도 포함될 수 있습니다. 이 모든 것은 비트맵 제작자 혼자 혹은 가끔 *스토리보더*, *스킨 제작자*, 혹은 *게스트 제작자* 라고 불리는 다른 유저들과 함께 할 수 있으며, 그들이 무언가를 하느냐에 따라 다양해질 수 있습니다.
 
 
 
@@ -44,6 +44,6 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
 
 ## osu! wiki - 어떻게 도와드릴까요!
 
-2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이  바뀌었습니다. 모든 참여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 통과하여 osu!wiki에 승인받고 등재되기 전에 검토를 받습니다.
+2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이 크게 바뀌었습니다. 모든 기여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 통과하여 osu!wiki에 승인받고 등재되기 전에 검토를 받습니다.
 
-시작하려면, [osu! wiki 참여 지침](/wiki/owcg)을 읽어주세요.
+시작하려면, [osu! wiki 기여 지침](/wiki/owcg)을 읽어주세요.
