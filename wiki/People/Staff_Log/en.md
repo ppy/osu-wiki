@@ -1182,3 +1182,50 @@ All users listed below were added on 2018-07-27.
 -   Removed [Karen](/users/3143784) from the Beatmap Nominators for inactivity (2018-09-08)
 -   Removed [riffy](/users/597957) from the Beatmap Nominators by resignation (2018-09-09)
 -   Removed [Ascendance](/users/2931883) from the Beatmap Nominators by resignation (2018-09-15)
+
+### October
+
+-   Added [topecnz](/users/2103927) to the Global Moderation Team (2018-10-01)
+-   Added [\-Kazu-](/users/920861) to the Quality Assurance Team (2018-10-04)
+-   Moved [VeilStar](/users/4255720) to the osu! Alumni (2018-10-05)
+-   Moved [TicClick](/users/672931) to the Global Moderation Team (2018-10-23)
+
+#### BN removals
+
+-   Removed [Plaudible](/users/7149815) from the Beatmap Nominators due to resignation (2018-10-07)
+-   Removed [BOUYAAA](/users/405449) from the Beatmap Nominators due to failing probation (2018-10-12)
+-   Removed [Jonawaga](/users/3653035) from the Beatmap Nominators due to resignation (2018-10-14)
+-   Removed [Nifty](/users/4956097) from the Beatmap Nominators due to failing probation (2018-10-15)
+-   Removed [Kin](/users/480689) from the Beatmap Nominators due to inactivity (2018-10-17)
+
+#### New BN additions
+
+-   Added [Sotarks](/users/4452992) to the Beatmap Nominators (2018-10-22)
+-   Added [Hailie](/users/5226970) to the Beatmap Nominators (2018-10-22)
+-   Added [LMT](/users/7262798) to the Beatmap Nominators (2018-10-22)
+-   Added [Beomsan](/users/3626063) to the Beatmap Nominators (2018-10-22)
+-   Added [Smokeman](/users/2140676) to the Beatmap Nominators (2018-10-22)
+-   Added [Myxomatosis](/users/2202645) to the Beatmap Nominators (2018-10-22)
+-   Added [Kaitjuh](/users/2225327) to the Beatmap Nominators (2018-10-22)
+-   Added [Ryuusei Aika](/users/7777875) to the Beatmap Nominators (2018-10-22)
+-   Added [NeilPerry](/users/841391) to the Beatmap Nominators (2018-10-22)
+-   Added [fieryrage](/users/3533958) to the Beatmap Nominators (2018-10-22)
+-   Added [hypercyte](/users/9155377) to the Beatmap Nominators (2018-10-22)
+-   Added [Uta](/users/9439796) to the Beatmap Nominators (2018-10-22)
+-   Added [Yahuri](/users/4682629) to the Beatmap Nominators (2018-10-22)
+-   Added [squirrelpascals](/users/6151332) to the Beatmap Nominators (2018-10-22)
+-   Added [yaspo](/users/4945926) to the Beatmap Nominators (2018-10-22)
+-   Added [DTM9 Nowa](/users/5428909) to the Beatmap Nominators (2018-10-22)
+-   Added [Yales](/users/2377881) to the Beatmap Nominators (2018-10-22)
+-   Added [ARGENTINE DREAM](/users/1981781) to the Beatmap Nominators (2018-10-22)
+-   Added [Ascendance](/users/2931883) to the Beatmap Nominators (2018-10-22)
+-   Added [\-Luminate](/users/4778689) to the Beatmap Nominators (2018-10-22)
+-   Added [AJamez](/users/7890134) to the Beatmap Nominators (2018-10-22)
+-   Added [wonjae](/users/5032045) to the Beatmap Nominators (2018-10-22)
+-   Added [Sinnoh](/users/4236057) to the Beatmap Nominators (2018-10-22)
+-   Added [Dellvangel](/users/5186244) to the Beatmap Nominators (2018-10-22)
+-   Added [\-MysticEyes](/users/6253266) to the Beatmap Nominators (2018-10-22)
+-   Added [MEGAtive](/users/3094101) to the Beatmap Nominators (2018-10-22)
+-   Added [Arzenvald](/users/3027421) to the Beatmap Nominators (2018-10-22)
+-   Added [Yuii-](/users/2935923) to the Beatmap Nominators (2018-10-23)
+-   Added [Yukiyo](/users/4541873) to the Beatmap Nominators (2018-10-28)
