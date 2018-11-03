@@ -1,19 +1,24 @@
 # osu!mania
 
-*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
 This article assumes you are using [skin version](/wiki/skin.ini#versions) `2.5` or higher. Since the skin configuration heavily affects osu!mania skinning, this article will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").
 
 ## Skin configuration
 
+*See also: [skin.ini](/wiki/skin.ini)*
+
 When editing the skin configuration file, keep the following in mind:
 
 -   The skin version should be set to `2.5`.
 -   Positioning height-wise is based on a max-height of 480 pixels; the value used will be scaled across all game clients so it should be consistent for all players.
--   Columns are identified with index 0 from left to right. Meaning that the first column from the left is 0, the second is 1, the third is 2, etc.
+-   Columns are identified with index 0 from left to right. Meaning that the first column from the left is 0, the second is 1, the third is 2, etc. (See image below.)
     -   Keys, notes, and hold notes use the same column numbers they are part of to identify themselves. Meaning that keys, notes, and hold notes inside column 2 will also use 2.
--   Each key count that is skinned must have its own section.
--   When defining an image's location and/or name, copy the path from the your skin's folder (not from `Skins/`) and remove the file's extension.
+
+![4K stage with column numbers](img/column_numbers.jpg "The first far-left column is 0, not 1")
+
+-   Each key count that is skinned must have its own section in the skin configuration.
+-   When defining an image's location and/or name, copy the path from the your skin's folder (not from `Skins/`, but the folder name after that) and remove the file's extension.
 -   If the stage is upside-down, you are given the option to tell osu! to flip keys and/or notes vertically.
 
 ---
@@ -27,19 +32,37 @@ These are animatable when playing in-game, but their animations plays very quick
 ### Columns (basic)
 >>>>>>> Skinning_Tutorial/osu!mania: rewrite
 
-*Not to be confused with: [Stage (basic)](#stage-(basic)).*
+*Not to be confused with: [Stage (basic)](#stage-(basic))*
 
 The number of columns the player will see is dependent on how osu! converts a beatmap, if the player has an xK mod enabled, or if the beatmap creator specified the number of keys (for osu!mania-specific beatmaps).
 
+By default, the columns start from 136 units from the left, but ends if it reaches 19 units from the right. The line that is drawn in between each column will be white and have a width of 2 units. Each column is 30 units wide and does not have any spacing in between.
+
 ### Columns (advanced)
 
-*Not to be confused with: [Stage (advanced)](#stage-(advanced)).*
+*Not to be confused with: [Stage (advanced)](#stage-(advanced))*
 
-To adjust where the columns begin (from the left side), use `ColumnStart`. There is no minimum or maximum limit for this, so you technically can set it to whatever number you want.
+To adjust where the stage begins (from the left side), use `ColumnStart`. There is no minimum or maximum limit for this, so you technically can set it to whatever number you want; that is, if it doesn't go beyond the `ColumnRight` value.
 
-To adjust how far apart each column is, use `ColumnSpacing`. You will need to enter a number for the space between each column; otherwise, it will use `0`. Since this only changes the spacing in between each column, you only need to define one less than the key count.
+`ColumnRight` limits `ColumnStart` to ensure that the stage is still visible (from the right side). This is useful if you want the stage to be as far right as possible for any screen resolution. However, the math done for this value is based from the left side of the stage; this means that you will need to add the widths of and spacings in between each column to ensure that the entire stage is drawn on the playfield. Similar to `ColumnStart`, there is no minimum or maximum limit; however, `ColumnRight` takes precedence over `ColumnStart`. This means that if `ColumnRight` is big enough, it can draw the stage too far into the left side of the screen.
 
-To adjust the column line width, use `ColumnLineWidth`. Lines between each column share the same values they are next to, while the outside lines use the first (left side) and last (right side) values. You will need to enter a number for the left and right lines and a number for each line between each column; otherwise, it will use `1` for each missing value. Since this only changes the spacing in between each column, you only need to define one less than the key count.
+---
+
+To adjust how far apart each column is from one another, use `ColumnSpacing`. You will need to enter a number for the space between each column; otherwise, it will default to `0`. Since this is for the spacing in between each column, you only need to define one less than the key count (i.e. 4K has 3 gaps between each column, so 3 values are needed).
+
+---
+
+*Notice: Column lines are drawn on the left side of the inside of each column (except for the last column, which has both drawn on both sides of the inside of the last column).*
+
+To adjust the column line width, use `ColumnLineWidth`. This will change the column's left line width (except for the last value, which will change the last column's right line width). A value for each line is needed; otherwise, it will default to `2`. Since this changes the line widths in between each column and on the outsides, you only need to define one more than the key count (i.e. 4K has 2 outline lines and 3 inside lines, so 5 values are needed).
+
+*Note: Notes are drawn on top of column lines, if they happen to overlap.*
+
+Using column lines and column spacing together may make your columns look weird (see image below). If using `ColumnSpacing`, it is suggested to set `ColumnLineWidth` to `0` to hide them.
+
+![Column lines drawn on the left side of each column while spaced apart](img/spacing-with-lines.jpg "Using ColumnSpacing and ColumnLineWidth may give unintended results")
+
+---
 
 To change the colours of the column lines, set `ColourColumnLine` to an RGB(a) value. This will change all of the column lines to that colour.
 
@@ -53,15 +76,17 @@ Your skin configuration:
 [Mania]
 Keys: 5
 
-ColumnStart: 110
-ColumnSpacing: 10,12,16,18
-ColumnLineWidth: 23,25,27,29,31,33
+ColumnStart: 99999
+ColumnRight: 350 // 150 units of padding
+ColumnSpacing: 4,8,8,4
+ColumnLineWidth: 4,3,6,6,3,4
 ColumnWidth: 32,32,48,32,32
 ```
 
--   `ColumnStart` says to start drawing the stage at 110 units from the left.
--   `ColumnSpacing` says that the space between columns 0 and 1 will be 10 units apart, columns 1 and 2 will be 12 units apart, columns 1 and 2 will be 16 units apart, etc.
--   `ColumnLineWidth` says that column 0's left line width is 23 units while it's right line width is 25 units. Column 1's left line width shares column 0's right line width and will use 25 units while it's right line width is 27 units. This continues for columns 2, 3, and 4. However, column 4's right line with will be 33 units.
+-   `ColumnStart` says to push the stage 99999 units from the left side.
+-   `ColumnRight` says to stop pushing the stage at 350 units from the right side, if it ever reaches it, then start drawing the stage. `ColumnRight = sum of ColumnWidth + sum of ColumnSpacing + extra right padding` (You should give some extra padding to show the health bar and to not have other elements drawn on top of the stage.)
+-   `ColumnSpacing` says that the space between columns 0 and 1 will be 4 units apart, columns 1 and 2 will be 8 units apart, columns 1 and 2 will be 8 units apart, etc.
+-   `ColumnLineWidth` says that column 0's left line width is 4 units while it's right line width is 3 units. Column 1's left line width shares column 0's right line width and will use 3 units while it's right line width is 6 units. This continues for columns 2, 3, and 4. However, column 4's right line with will be 4 units.
 -   `ColumnWidth` says that columns 0, 1, 3, and 4 will have a width of 32 units while column 2 will have a column with of 48 units.
 
 ### Barline (basic)
@@ -70,17 +95,17 @@ By default the barline has a height of `1.2` and is white. This line is always d
 
 ### Barline (advanced)
 
-To remove the barline, set `BarlineHeight` to `0`. There is not a max-height for this value, so you can set it to whatever number you want it to be.
+To remove the barline, set `BarlineHeight` to `0`. There is not a max-height for this value, so you can set it to whatever number you want it to be. The notes are drawn on top of this line, if they overlap.
 
 To change the barline colour, set `ColourBarline` to an RGB(a) value.
 
 ## Skinning elements
 
-*See also: [Skinning/osu!mania](/wiki/Skinning/osu!mania).*
+*See also: [Skinning/osu!mania](/wiki/Skinning/osu!mania)*
 
 ### Keys (basic)
 
-*Not to be confused with: [Notes](#notes-(basic)).*
+*Not to be confused with: [Notes](#notes-(basic))*
 
 The keys have two states: idle and pressed. There are three variants of keys that are used in osu!mania. These main purpose of these elements is to show the player when a key is pressed. The idle and pressed states are two separate images per variant; however, they replace one another when switching states meaning you can have a transparent background in the pressed state and not have the idle state image be visible behind it.
 
@@ -152,7 +177,7 @@ KeyImage0D: mania/keyLD
 
 ### Notes (basic)
 
-*Not to be confused with: [Keys](#keys-(basic)).*
+*Not to be confused with: [Keys](#keys-(basic))*
 
 Notes queue the player on when to press the correct key. By default, there are only three images that are used:
 
@@ -347,7 +372,7 @@ NoteImage1T: mania/hold/down/tail
 
 ### Stage (basic)
 
-*Not to be confused with: [Columns (basic)](#columns-(basic)).*
+*Not to be confused with: [Columns (basic)](#columns-(basic))*
 
 The stage is drawn 136 units from the left side of the screen. By default, there are only three images that are used:
 
@@ -372,7 +397,7 @@ The stage is drawn 136 units from the left side of the screen. By default, there
 
 ### Stage (advanced)
 
-*Not to be confused with: [Columns (advanced)](#columns-(advanced)).*
+*Not to be confused with: [Columns (advanced)](#columns-(advanced))*
 
 With the skin configuration, you can specify where each stage element is located per key count. See example below.
 
@@ -421,13 +446,13 @@ StageBottom: mania/4K/bottom
 
 ### Hit scores (basic)
 
-Hit scores are drawn 325 units from the bottom, but are always centered horizontally against the stage.
+Hit scores are drawn 325 units from the bottom, but are always centered horizontally against the stage. osu!mania uses different hit scores elements than the other game modes: `mania-hit0`, `mania-hit50`, `mania-hit100`, `mania-hit200`, `mania-hit300`, and `mania-hit300g`. These elements will also be used on the ranking screen.
 
 ### Hit scores (advanced)
 
 With the skin configuration, you can specify where each stage element is located per key count. See example below.
 
-*Notice: The ranking screen will use hit scores from the root skin folder.*
+*Notice: The ranking screen will use hit scores from the root skin folder, not the ones defined in the skin configuration.*
 
 #### Example
 
@@ -473,13 +498,13 @@ Hit300: mania/4K/hit300
 Hit300g: mania/4K/hit300g
 ```
 
-To break that down, let's look at the stage bottom element, `StageBottom`:
+To break that down, let's look at the miss hit score element, `Hit0`:
 
 ```
-StageBottom: mania/4K/bottom
+Hit0: mania/4K/hit0
 ```
 
--   `StageBottom` says that the first stage bottom image is located in a folder called `mania/4K/` and the image prefix name is `bottom`.
+-   `Hit0` says to use the image located in `mania/4K/` and the image prefix name is `hit0`. Since the provided skinning elements has animation frames, osu! will display it as such.
 -   This similarly applies to the other elements.
 
 ### Comboburst (basic)
@@ -488,7 +513,18 @@ osu!mania combobursts should be facing towards the right, similarily to osu!stan
 
 ### Comboburst (advanced)
 
-Using `ComboBurstStyle`, you can set which side the osu!mania combobursts should be displayed on.
+Using `ComboBurstStyle`, you can set which side the osu!mania combobursts should be displayed on. These should still be facing towards the right, similarly to osu!standard and osu!catch combobursts, osu! will flip these horizontally when appearing on the other side of the stage.
+
+### Mod icons
+
+osu!mania has a few specific mod icons that you can skin:
+
+-   Fade In
+-   xK
+-   Co-Op
+-   Random
+
+On a side note, there was a mod called Fade Out which replaced the Hidden mod when osu!mania was the set game mode, but this was removed from the game. You could skin the hidden mod icon to make it appear as Fade Out, but this may look weird in other game modes.
 
 ### Shared elements
 
@@ -497,14 +533,47 @@ The following elements are used with other parts of osu!:
 -   scorebar and all its files
 -   combo numbers
 -   score numbers
+-   mod icons; except the mode-specific mods
 
 ## Playfield design
 
 ### Combo numbers
 
-By default, combo numbers are displayed in the middle (horizontally) of the stage.
+By default, combo numbers are displayed in the middle (horizontally) of the stage. The vertical positioning can be changed by setting `ComboPosition`.
+
+If there are two stages, the combo number will be displayed on both stages.
+
+### Hit scores
+
+Like combo numbers, hit scores are displayed in the middle (horizontally) of the stage. The vertical positioning can be changed by setting `ScorePosition`.
+
+By default, if there are two stages, the hit scores from each stage will be displayed on the both stages. To change this behaviour (have hit scores display on the stage the note was hit on), set `SeparateScore` to `1`.
 
 ### Centring the stage
 
-To middle the osu!mania stage, you will need to do some basic math.
+*Notice: Centring of the stage will be inconsistent between differing ratio aspects. You may want to provide extra download links for other common ratio aspects.*
 
+To centre the osu!mania stage, use the following equation to set `ColumnStart`.
+
+`ColumnStart = ((480 * screenWidth / screenHeight) - (columnWidths + ColumnSpacings)) / 2`.
+
+-   `screenWidth` = the game client's width (or the ratio aspect width)
+-   `screenHeight` = the game client's height (or the ratio aspect height)
+-   `columnWidths` = sum of `ColumnWidth`
+-   `ColumnSpacings` = sum of `ColumnSpacing`
+
+*Notice: You will need to round the number to make it an integer. Because of this, the stage may be off by a unit to the left or right. In most cases, this is not very noticiable.*
+
+### Adding a lane cover
+
+A lane cover is an element that covers part of the stage, primarily to limit viewing area. This can be used in place of the hidden mod, which is commonly used as a lane cover but has the drawback of moving up or down while playing.
+
+If you want to add a lane cover to only one key count, use the `mania-stage-bottom` element. If you want to do this for multiple key counts, you will need to make multiple lane covers and set `StageBottom` in the skin configuration for each key count.
+
+---
+
+In your prefered image editor, create a new transparent image with the height set to 480 pixels and the width set to the sum of the `ColumnWidth` and `ColumnSpacing`. If your skin has the stage scroll down, fill the upper half with an image and/or a color. If your skin has the stage scroll up, fill the lower half with an image and/or a color.
+
+| ![](img/lane_cover-down.jpg) | ![](img/lane_cover-up.jpg) |
+| --- | --- |
+| For scroll down | For scroll up |
