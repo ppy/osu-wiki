@@ -51,7 +51,7 @@ Each user signed in to osu has a user panel displayed in Extended Chat. By defau
 | ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Brown - User is in multiplayer, but not playing.                                                               |
 | ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Yellow - Currently playing in multiplayer.                                                                     |
 | ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Black - Inactive or away from keyboard (afk).                                                                  |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but signed in to an IRC client or stats are not available. |
+| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not in-game, but signed in to an IRC client or stats are not available. |
 
 Clicking on any user panel brings up an options screen.
 

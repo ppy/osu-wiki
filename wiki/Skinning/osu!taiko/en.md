@@ -304,7 +304,7 @@ Notes:
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
 - This element is disbaled if the beatmap has a storyboard.
-- Gets upscaled by 1.4x ingame.
+- Gets upscaled by 1.4x in-game.
 
 ---
 
@@ -322,7 +322,7 @@ Notes:
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
 - This element is disbaled if the beatmap has a storyboard.
-- Gets upscaled by 1.4x ingame.
+- Gets upscaled by 1.4x in-game.
 
 ---
 
