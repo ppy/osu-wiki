@@ -92,9 +92,93 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
+## Match Schedule: Group Stage
+
+### Saturday, 10. November 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Indonesia | ![][flag_ID] | ![][flag_DE] | Germany | **11:00 UTC** | 18:00 UTC+07 | 12:00 UTC+01 |
+| Norway | ![][flag_NO] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 |
+| Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **11:00 UTC** | 18:00 UTC+07 | 12:00 UTC+01 |
+| Slovakia | ![][flag_SK] | ![][flag_CN] | China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
+| Belgium | ![][flag_BE] | ![][flag_KR] | South Korea | **12:00 UTC** | 13:00 UTC+01 | 21:00 UTC+09 |
+| Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 |
+| Hong Kong | ![][flag_HK] | ![][flag_FR] | France | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Chile | ![][flag_CL] | ![][flag_JP] | Japan | **13:00 UTC** | 10:00 UTC-03 | 22:00 UTC+09 |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 |
+| Czech Republic | ![][flag_CZ] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 15:00 UTC+01 | 14:00 UTC |
+| Singapore | ![][flag_SG] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Spain | ![][flag_ES] | ![][flag_RU] | Russian Federation | **14:00 UTC** | 15:00 UTC+01 | 19:00 UTC+05 |
+| Argentina | ![][flag_AR] | ![][flag_NO] | Norway | **15:00 UTC** | 12:00 UTC-03 | 16:00 UTC+01 |
+| Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **15:00 UTC** | 10:00 UTC-05 | 23:00 UTC+08 |
+| Slovakia | ![][flag_SK] | ![][flag_CZ] | Czech Republic | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 15:00 UTC-03 | 23:00 UTC+05 |
+| Italy | ![][flag_IT] | ![][flag_PL] | Poland | **18:00 UTC** | 19:00 UTC+01 | 19:00 UTC+01 |
+| Romania | ![][flag_RO] | ![][flag_DK] | Denmark | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
+| Belgium | ![][flag_BE] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **19:00 UTC** | 15:00 UTC-04 | 20:00 UTC+01 |
+| Austria | ![][flag_AT] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
+
+### Sunday, 10. November 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Argentina | ![][flag_AR] | ![][flag_AU] | Australia | **2:00 UTC** | 23:00 (Sat) UTC-03 | 13:00 UTC+11 |
+| Hong Kong | ![][flag_HK] | ![][flag_MX] | Mexico | **3:00 UTC** | 11:00 UTC+08 | 22:00 (Sat) UTC-05 |
+| Thailand | ![][flag_TH] | ![][flag_US] | United States | **3:00 UTC** | 10:00 UTC+07 | 23:00 (Sat) UTC-04 |
+| Singapore | ![][flag_SG] | ![][flag_KR] | South Korea | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_TW] | Taiwan | **10:00 UTC** | 18:00 UTC+08 | 18:00 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **10:00 UTC** | 19:00 UTC+09 | 15:00 UTC+05 |
+| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **11:00 UTC** | 19:00 UTC+08 | 11:00 UTC |
+| Belgium | ![][flag_BE] | ![][flag_SG] | Singapore | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| Finland | ![][flag_FI] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
+| France | ![][flag_FR] | ![][flag_TW] | Taiwan | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Thailand | ![][flag_TH] | ![][flag_AT] | Austria | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 |
+| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 |
+| Czech Republic | ![][flag_CZ] | ![][flag_CN] | China | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_CA] | Canada | **14:00 UTC** | 21:00 UTC+07 | 10:00 UTC-04 |
+| Italy | ![][flag_IT] | ![][flag_RO] | Romania | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_NO] | Norway | **15:00 UTC** | 17:00 UTC+02 | 16:00 UTC+01 |
+| Denmark | ![][flag_DK] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| Slovakia | ![][flag_SK] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 18:00 UTC+01 | 17:00 UTC |
+| Sweden | ![][flag_SE] | ![][flag_DE] | Germany | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Finland | ![][flag_FI] | ![][flag_AR] | Argentina | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
+| Mexico | ![][flag_MX] | ![][flag_FR] | France | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
+| Romania | ![][flag_RO] | ![][flag_PL] | Poland | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
+| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
+| Spain | ![][flag_ES] | ![][flag_CL] | Chile | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| Netherlands | ![][flag_NL] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
+
+------------------------------------------------------------------------
+
 ## Mappools
 
-_The mappools will be revealed one week before each particular stage_
+### Group Stage
+
+**[Download the map pack here! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA)**
+
+- NoMod
+	- [nano - DREAMCATCHER \(Vert\) \[Depths' Starlight Future Extra\]](https://osu.ppy.sh/beatmapsets/695957#osu/1532896)
+	- [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/363882#osu/800947)
+	- [Duoscience - Indifferences \(Mir\) \[Senseless\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538480)
+	- [Zips - Reiwai Terrorism \(Broccoly\) \[Distortion\]](https://osu.ppy.sh/beatmapsets/101953#osu/269773)
+- Hidden
+	- [nmk - sola \(Morinaga\) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/723024#osu/1528254)
+	- [Pendulum - Crush \(Radio Edit\) \(JauiPlaY\) \[Insane\]](https://osu.ppy.sh/beatmapsets/58329#osu/175397)
+- HardRock
+	- [ONE OK ROCK - Clock Strikes \(Saut\) \[Insane\]](https://osu.ppy.sh/beatmapsets/249624#osu/633373)
+	- [orangentle - HAELEQUIN \(Gamu\) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/757386)
+- DoubleTime
+	- [Younha - Houkiboshi \(Seto Kousuke\) \[Insane\]](https://osu.ppy.sh/beatmapsets/779541#osu/1636976)
+	- [Marie & Shimotsuki Haruka - Hane no Naki Chou \(KanbeKotori\) \[Insane\]](https://osu.ppy.sh/beatmapsets/35666#osu/115457)
+- FreeMod
+	- [Morimori Atsushi - Tits or get the fuck out!! \(Regou\) \[Frey's Insane!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/992223)
+	- [DevilishP feat.GUMI - Yume Maboroshi \(Natsu\) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/325340#osu/722674)
+- TieBreaker
+	- [SawanoHiroyuki\[nZk\]:Gemie - x.U. \(ETIA. Hardcore Bootleg Remix\) \(captin1\) \[Shinoa\]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)
 
 ------------------------------------------------------------------------
 
