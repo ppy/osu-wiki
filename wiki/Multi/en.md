@@ -17,7 +17,7 @@
 [Easy wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Easy"
 
 <!-- External links used -->
-[osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
+[osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 YouTube link."
 [Match History link]: http://osu.ppy.sh/mp/x
 [modified version link]: https://osu.ppy.sh/forum/t/135726 "ppy's reply on a bug report."
 

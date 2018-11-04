@@ -291,7 +291,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 * **Matches will be Head to Head with Score V2 as the scoring system**.
 * Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
 * If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
-* In order for your registration to count, **you must fill out the form, join the discord, and change your name to your osu! username**.
+* In order for your registration to count, **you must fill out the form, join the Discord, and change your name to your osu! username**.
 * There is no rank limit for signup and all participants who sign up will play qualifiers. The top 64 players from qualifiers will move on to groups.
 * Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
 * **Reschedules must be agreed on by both players and proof must be provided**.
