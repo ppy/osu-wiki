@@ -78,14 +78,30 @@ An initial list of cleared registrants are listed on [this spreadsheet](https://
 [**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
 
 - NoMod
-	- [Culprate & Skorpion - Jester (NeilPerry) [LCFC's Insane]](https://osu.ppy.sh/beatmaps/1773874)
-	- [96neko - Aimai Elegy (Lasse) [Absence]](https://osu.ppy.sh/beatmaps/1261914)
+	- [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmaps/1773874)
+	- [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmaps/1261914)
 - Hidden
-	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) [Spork Lover's Insane]](https://osu.ppy.sh/beatmaps/1502635)
-- Hard Rock
-	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [Jace's Insane]](https://osu.ppy.sh/beatmaps/1477261)
+	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmaps/1502635)
+- HardRock
+	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmaps/1477261)
 - DoubleTime
-	- [Kana Nishino - Still love you (Modem) [Goodbye]](https://osu.ppy.sh/beatmaps/1482857)
+	- [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmaps/1482857)
+	
+## osu!catch
+
+### Qualifiers
+
+[**Download the mappack here! (23.2 MB)**](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)
+
+- NoMod
+  - [Y&Co. - Sweet Rain feat. Karin (alienflybot) \[Craving\]](https://osu.ppy.sh/beatmaps/1273038)
+  - [a\*ru - Kizuato (Benita) \[Scar\]](https://osu.ppy.sh/beatmaps/1414782)
+- Hidden
+  - [Hitomi Sato - Hakutai Forest (Spectator) \[Cheryl\]](https://osu.ppy.sh/beatmaps/746560)
+- HardRock
+  - [Akiko Shikata - Katayoku no Tori (Deif) \[Platter\]](https://osu.ppy.sh/beatmaps/708225)
+- DoubleTime
+  - [Camellia - Towards The Horizon (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmaps/1383647)
 
 ## osu!mania 4K
 
@@ -94,10 +110,22 @@ An initial list of cleared registrants are listed on [this spreadsheet](https://
 [**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
 
 - FreeMod
-	- [DKVPZ - Focus (Lenfried-) [Blur]](https://osu.ppy.sh/beatmaps/1817703)
-	- [Proc Fiskal - MONK Clip (Lenfried-) [Jank]](https://osu.ppy.sh/beatmaps/1817705)
-	- [DJ YOSHITAKA - FLOWER (Raveille) [Air Blossom]](https://osu.ppy.sh/beatmaps/1817772)
+	- [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmaps/1817703)
+	- [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
+	- [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
 	- [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
+  
+## osu!mania 7K
+
+### Qualifiers
+
+[**Download the mappack here! (11.1 MB)**](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)
+
+- FreeMod
+  - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmaps/1825670)
+  - [chromonicci - Power. (Lenfried-) \[money.\]](https://osu.ppy.sh/beatmaps/1825644)
+  - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
+  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!&lt;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
 ------------------------
 
