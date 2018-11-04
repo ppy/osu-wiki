@@ -157,7 +157,7 @@ Deleting the `.osg` file has no effect (it is a leftover file for spectator's re
 Deleting the `.osr` file will make the replay _lost forever_ (since the replay data is missing and nothing to export).
 Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make all (not exported) replays and local leaderboard scores lost forever_.
 
-To **set a local leaderboard name** when not logged-in (_Guest_ account), **scroll down** the result screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
+To **set a local leaderboard name** when not signed in (_Guest_ account), **scroll down** the result screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
 In this screen, an alternative to using the export `F2` key is to enable the `Save replay to Replays folder` button located at the upper-right.
 
 Return to the _Song Selection_ and changes will be updated for this replay (if no name was given, it will simply be blank).
@@ -264,7 +264,7 @@ It can be exported, or downloaded and watched immediately by request.
 When watching a server-side replay (excluding exported replays), the player of the replay's profile will receive an increment of one(1) in the "Replays Watched by Others" counter.
 If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
 
-To watch a server replay, an osu!account must be logged in-game and be connected to Bancho.
+To watch a server replay, an osu!account must be signed in and be connected to Bancho.
 At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
 Press on the `Watch replay` button and osu! will download the replay file from the Bancho as shown in the left of the image.
 The replay only plays once and will be deleted after the replay ends/quit early.

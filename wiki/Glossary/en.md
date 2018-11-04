@@ -14,7 +14,7 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. osu! will mark users as "Idle" if they have been inactive for some time.
+AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -34,7 +34,7 @@ Aspire is a beatmapping [contest](/wiki/contest) where the creators are encourag
 
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu! Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu! Signing in with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 

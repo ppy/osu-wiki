@@ -62,7 +62,7 @@ The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)]
 ![One of the ways to transfer the beatmap without leaving the Match Setup][Beatmaps_peppy image]
 
 - Decent online connection.
-- An osu!account logged into Bancho (should be done automatically during in-game osu!account sign-in)
+- An osu!account signed in to Bancho (should be done automatically during in-game osu!account sign-in)
 - Knowing [how to transfer beatmaps without leaving the Match Setup.][Beatmaps2 wikilink].
 
 ### Ways to enter

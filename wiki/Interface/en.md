@@ -41,7 +41,7 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
 Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
 1.  `View Profile`: Opens up your profile page in your preferred web browser
-2.  `Sign Out`: Log out your account (after logging out, the [Options](/wiki/Options) sidebar will prompt you to log in)
+2.  `Sign Out`: Sign out your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in)
 3.  `Change Avatar`: Open up the edit avatar page in your preferred web browser
 4.  `Close`: Close this dialog
 

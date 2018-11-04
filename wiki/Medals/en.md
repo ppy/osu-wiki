@@ -30,7 +30,7 @@ Each of these sections currently have 4 volumes to them.
   - Alternatively, the player can download the songs inside manually one by one and it would still count.
 - Any variations (like different creator) of the song is not counted.
   It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be logged in to the osu!client (not osu!web).
+- The player's account in question must be signed in to the osu!client (not osu!web).
 
 ### Notes
 

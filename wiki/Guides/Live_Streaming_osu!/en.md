@@ -16,7 +16,7 @@ If you are visiting this page, it is likely you have an interest and want to lea
 Twitch.tv is a gaming community, and as such, there will be *a lot* of gaming libraries to select from. However, you only need to worry about finding osu! since that is what this guide is about.
 ![Channel Setup](img/TTV_ChannelSetup.jpg "Channel Setup")
 
-1.  Once you have logged in, click on your username at the top right corner.
+1.  Once you have signed in, click on your username at the top right corner.
 2.  Click on `Dashboard` from the drop-down list.
 3.  Input the title and click on the icon where it says `Not Playing` to change into `Playing` then type "osu!". A list of games with similar names should appear, the one you want is osu!
 
@@ -48,7 +48,7 @@ Once you are done with that, you are ready to start streaming if you want. There
 #### Installation
 
 To get started with XSplit, head to their website: https://www.xsplit.com/
-Register and download the program. Once you have logged in you will be in a window that looks like this:
+Register and download the program. Once you have signed in you will be in a window that looks like this:
 
 ![XSplit main menu](img/Xsplit_main.png "Xsplit main menu")
 
@@ -122,7 +122,7 @@ To get started with OBS, head to their website [OBS](https://obsproject.com/) an
 
 #### Setting up twitch.tv in OBS
 
-Go to twitch.tv and log in. Navigate to your dashboard and locate the `Stream Key`. Click on the `Show Key` button and copy the key.
+Go to twitch.tv and sign in. Navigate to your dashboard and locate the `Stream Key`. Click on the `Show Key` button and copy the key.
 
 ![Getting your Stream Key on Twitch](img/OBS_GetTwitchKey.jpg "Getting your Stream Key on Twitch")
 

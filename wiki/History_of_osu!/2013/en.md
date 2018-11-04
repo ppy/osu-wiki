@@ -77,7 +77,7 @@ During replays, half-speed replay has been added (after pressing `2x` Speed, it 
 
 For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 
-Three brand new Dedication [achievements](/wiki/achievements) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game login) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
+Three brand new Dedication [achievements](/wiki/achievements) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game sign in) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 
 - [osu! Public Release (b20130509)](/community/forums/topics/131611)
 - [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2334705)
