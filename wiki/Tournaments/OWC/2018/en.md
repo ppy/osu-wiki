@@ -120,7 +120,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | Canada | ![][flag_CA] | ![][flag_DE] | Germany | **19:00 UTC** | 15:00 UTC-04 | 20:00 UTC+01 |
 | Austria | ![][flag_AT] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
 
-### Sunday, 10. November 2018
+### Sunday, 11. November 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
@@ -178,7 +178,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 	- [Morimori Atsushi - Tits or get the fuck out!! \(Regou\) \[Frey's Insane!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/992223)
 	- [DevilishP feat.GUMI - Yume Maboroshi \(Natsu\) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/325340#osu/722674)
 - TieBreaker
-	- [SawanoHiroyuki\[nZk\]:Gemie - x.U. \(ETIA. Hardcore Bootleg Remix\) \(captin1\) \[Shinoa\]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)
+	- **[SawanoHiroyuki\[nZk\]:Gemie - x.U. \(ETIA. Hardcore Bootleg Remix\) \(captin1\) \[Shinoa\]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**
 
 ------------------------------------------------------------------------
 
