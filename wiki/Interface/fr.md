@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <img src="Intro_static.jpg" title="fig:Right|Ecran d&#39;introduction d&#39;osu!" alt="Right|Ecran d&#39;introduction d&#39;osu!" width="400" /> \_\_TOC\_\_
 =Menu principal= <img src="introscreen.png" title="fig:Menu principal d&#39;osu!" alt="Menu principal d&#39;osu!" width="280" />
 
