@@ -1,7 +1,5 @@
 # osu!mania
 
-*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
-
 This article assumes you are using [skin version](/wiki/skin.ini#versions) `2.5` or higher. Since the skin configuration heavily affects osu!mania skinning, this article will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").
 
 ## Skin configuration
