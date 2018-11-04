@@ -41,7 +41,7 @@ CrazyrabbitKGE is a name unfamiliar to most, but I promise you it's a name you'l
 [Tech N9ne - Speedom (WWC2) (feat. Krizz Kaliko and Eminem)](https://osu.ppy.sh/beatmapsets/397474#osu) by [LukerMaster](https://osu.ppy.sh/users/2093623)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-Some people may recognize this mapper from another Loved map, "Imaginary Places", which is iconic for its Boss level difficulty. This map is no different. Clocking in over 8 stars, this alt-styled fast aim map by LukerMaster will push you to your limits. Good luck!
+Some people may recognize this mapper from another Loved map, "Imaginary Places", which is iconic for its boss level difficulty. This map is no different. Clocking in over 8 stars, this alt-styled fast aim map by LukerMaster will push you to your limits. Good luck!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/black-or-white.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
