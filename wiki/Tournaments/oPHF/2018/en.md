@@ -125,7 +125,7 @@ An initial list of cleared registrants are listed on [this spreadsheet](https://
   - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmaps/1825670)
   - [chromonicci - Power. (Lenfried-) \[money.\]](https://osu.ppy.sh/beatmaps/1825644)
   - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
-  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!&lt;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
+  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
 ------------------------
 
