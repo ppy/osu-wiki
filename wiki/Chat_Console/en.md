@@ -30,7 +30,7 @@ From most screens in osu! you can press `F9` or click the `Online Users` button 
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-Each user signed in to osu has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
+Each user signed in to osu! has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
 
 -   Friends only limits the display to your friends.
 -   Lock Panels stops the panels from jumping round this also includes new users.

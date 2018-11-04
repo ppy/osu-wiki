@@ -227,7 +227,7 @@ First, there is the normal way that uses the samples and effects provided by the
 
 For now, we want to focus on the normal way of hitsounding.
 
-First you have to decide; do you want to use the default hitsounds that osu gives you or do you want to add custom hitsounds?
+First you have to decide; do you want to use the default hitsounds that osu! gives you or do you want to add custom hitsounds?
 
 If you want to use the default one you don't really need to change a lot. Everything you need is to decide which sample set you want to use as a default. Go into the Timing Setup Panel and change your timing point to the sample set you want to use. Osu!mania usually uses "soft" as default because the hit-normal isn't that loud.
 
