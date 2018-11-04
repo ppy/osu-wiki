@@ -446,6 +446,8 @@ StageBottom: mania/4K/bottom
 
 Hit scores are drawn 325 units from the bottom, but are always centered horizontally against the stage. osu!mania uses different hit scores elements than the other game modes: `mania-hit0`, `mania-hit50`, `mania-hit100`, `mania-hit200`, `mania-hit300`, and `mania-hit300g`. These elements will also be used on the ranking screen.
 
+![Various hit bursts](img/hitburst.gif)
+
 ### Hit scores (advanced)
 
 With the skin configuration, you can specify where each stage element is located per key count. See example below.
