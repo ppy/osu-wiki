@@ -102,25 +102,25 @@ osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.s
 
 [Masafumi Takada - Danganronpa V3 (Full Version)](https://osu.ppy.sh/beatmapsets/789055#taiko) by [Jerry](https://osu.ppy.sh/users/605973)
 
--
+We are starting this cycle with Danganronpa V3, mapped by Jerry in a very particular way: as we've seen before in maps like [Gezo's MariannE](https://osu.ppy.sh/beatmapsets/521862), this features multiple gimmicks explained through its storyboard. Ranging from speed gimmicks, memorization of patterns and the very infamous donkama gimmick, this map will surprise you for sure. Don't forget to enable it and reduce the background dim!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/taiko/toy-boxxxx.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [doth - Toy Boxxxx](https://osu.ppy.sh/beatmapsets/380854#taiko) by [Sayaka-](https://osu.ppy.sh/users/398275)
 
--
+Next we have Toy Boxxxx, a legendary mapset by Sayaka-. Why? To current standards, this isn't as much impressive, as the spread looks more like a Muzukashii onwards. The top diffs are around the same levels of difficulty of a lot of maps we see getting ranked now, but this map was made in 2015—Sayaka- truly was a visionary and gave us this map way ahead of time, as this was by far the hardest map around. It was really close to getting ranked, too. With truly complex and stamina draining patterns, this is probably one of the hardest maps getting Loved in quite a while. Maybe we will finally get a glance of what would these leaderboards would've looked like back then!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/taiko/reality-distortion-mitomoro-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Camellia vs Akira Complex - Reality Distortion (Mitomoro Remix)](https://osu.ppy.sh/beatmapsets/721482#taiko) by [un-plugged](https://osu.ppy.sh/users/8959673)
 
--
+Continuing with the theme of maps that inspired a new generation of mappers comes Reality Distortion by un-plugged, a very well-executed map resembling what katacheh maps have introduced to us in the past. Waving patterns, "Yellow notes", glitchy sliders: this map has it all, and un-plugged sure made it look amazingly along with the music. If you really love going for the impressive scores worthy of a YouTube highlight, this is definitely your map.
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/taiko/candyyyland-feat-liz-pa-s-lam-system-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix)](https://osu.ppy.sh/beatmapsets/724269#taiko) by [Myckoll](https://osu.ppy.sh/users/554976) and [Ulqui](https://osu.ppy.sh/users/1263669)
 
--
+Finally, we have CANDYYYLAND by Myckoll and Ulqui, a map featured recently in the Taiko Suiji Cup as the challenge pick of Group Stage. This one is a delicious mixture of simple patterns that emphasizes the song further and SV changes that makes the experience a whole lot more rich, as future bass is one of these genres that rely heavily on the creativity of the mappers to stand out, and this map really achieved it. This really serves as a nice introduction to high level sightreading, as the readability of this map is quite into the comfortable side, so no doubts you should give this a shot!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
