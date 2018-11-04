@@ -1,6 +1,6 @@
 # Official Songs
 
-**Official Songs** are songs officially approved by the artist to be used within osu! Every member of the community is allowed to pick up the songs and create their own beatmaps of them. Most of these songs are created exclusively for osu!, and they have bounties placed to encourage the mapping community to create the beatmaps for these songs.
+**Official Songs** are songs officially approved by the artist to be used within osu!. Every member of the community is allowed to pick up the songs and create their own beatmaps of them. Most of these songs are created exclusively for osu!, and they have bounties placed to encourage the mapping community to create the beatmaps for these songs.
 
 ## Available Songs
 

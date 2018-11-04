@@ -218,7 +218,7 @@ This section can be called the gameplay toolbox. We will cover each button's use
 
 Press `Esc` or click the `Back` button to return to main menu.
 
-Click on the `Mode` button to open up a list of gameplay modes available on osu! Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
+Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
 
 The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
