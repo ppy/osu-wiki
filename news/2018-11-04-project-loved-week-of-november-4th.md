@@ -76,7 +76,7 @@ This is a great map for people that really want to test their skill with technic
 [lapix feat. Renko - Concept Of Reality](https://osu.ppy.sh/beatmapsets/559140#osu) by [ProfessionalBox](https://osu.ppy.sh/users/3250792) et al.  
 *written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
 
-One look into this map and you'll know straight away that this is by the unique mapper ProfessionalBox. Not to mention that the song is an absolute banger! But for real though, I'm sure you didn't expect anything less from lapix! Along with ProfessionalBox, there are guest difficulties mapped by other well known mappers like NeilPerry, Sing, Low Combo FC, Haruto and Ameth Rianno. With the eccentric slider shapes and changes in slider velocity during the chorus to go with interesting fillers leading to the build up, this is a map that keeps you toes and is something to have a go at if you're into the more technical and nifty maps!
+One look into this map and you'll know straight away that this is by the unique mapper ProfessionalBox. Not to mention that the song is an absolute banger! But for real though, I'm sure you didn't expect anything less from lapix! Along with ProfessionalBox, there are guest difficulties mapped by other well known mappers like [NeilPerry](https://osu.ppy.sh/users/841391), [Sing](https://osu.ppy.sh/users/3795679), [Low Combo FC](https://osu.ppy.sh/users/3338724), [Haruto](https://osu.ppy.sh/users/3772301) and [Ameth Rianno](https://osu.ppy.sh/users/5219516). With the eccentric slider shapes and changes in slider velocity during the chorus to go with interesting fillers leading to the build up, this is a map that keeps you toes and is something to have a go at if you're into the more technical and nifty maps!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/dropz-line.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
@@ -140,7 +140,7 @@ This is a clean map without any gimmicky patterns in it, but nevertheless still 
 [Various Artists - JuJutsushi Gachi ver.](https://osu.ppy.sh/beatmapsets/409227#fruits) by [Furely](https://osu.ppy.sh/users/853694) and [wairo](https://osu.ppy.sh/users/6369405)  
 *written by [Ascendance](https://osu.ppy.sh/users/2931883)*
 
-Hoi hoi hoi hoi hoi hoi hoi hoi! Although fairly new, only being uploaded in 2016, renowned meme mapper Furely brings us yet another fantastic map. Similar to to his other famous map, AVALON, this map brings hyperwalks, fast snapping, and several spots where ridiculously precise catcher movements are required. Boasting favorites from several top players and only having a few known plays that have come close to an FC (apart from ExGon's FC), Oracle awaits those who are pressed to challenge it, but only a select few who have truly mastered the art of the catcher will come out triumphant.
+Hoi hoi hoi hoi hoi hoi hoi hoi! Although fairly new, only being uploaded in 2016, renowned meme mapper Furely brings us yet another fantastic map. Similar to to his other famous map, AVALON, this map brings hyperwalks, fast snapping, and several spots where ridiculously precise catcher movements are required. Boasting favorites from several top players and only having a few known plays that have come close to an FC (apart from [ExGon](https://osu.ppy.sh/users/214187)'s FC), Oracle awaits those who are pressed to challenge it, but only a select few who have truly mastered the art of the catcher will come out triumphant.
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
