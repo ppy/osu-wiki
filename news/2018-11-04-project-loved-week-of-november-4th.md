@@ -10,7 +10,7 @@ date: 2018-11-04 19:00:00 +0000
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
 
-Continuing the slow, steady decline of the quantity of maps we put up for vote, this week the osu!mania captains have decided to only put up seven maps, instead of the usual eight. There's also one less map for osu!standard, but that was actually the result of a misunderstanding between us and a mapper that didn't want their map to be put up for voting. There will be ten maps again next time.
+Continuing the slow, steady decline of the quantity of maps we put up for vote, this week the osu!mania captains have decided to only put up seven maps, instead of the usual eight.
 
 In the osu!standard scene, we're seeing a pretty dramatic change in our lineup of captains. After selecting maps for over a year, [Toy](https://osu.ppy.sh/users/2757689) has stepped down from this position, and opted to invite **four** new captains to the team: [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453). Give Toy a huge thanks for all of his work as a captain so far, and a warm welcome to these new guys! Just to be clear, Toy isn't retiring from Project Loved entirely; in fact, he is still leading the project and doing most of the work behind-the-scenes.
 
@@ -56,6 +56,13 @@ If you've been in the tournament scene long enough, you'll have seen this played
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 An iconic song meeting an iconic mapping style, Saten's map of S.S.H.'s Big Blue combines older style patterning with an artist we don't see much of on osu! these days. As such it has a nostalgic feel, but don't let that distract you from the 228 BPM streams and frequent switches between 1/4 and 1/3 rhythms. A lower difficulty has been recently added too, so if you're after a more modern feel with the same Saten style, this is a mapset you don't want to miss—a sentiment shared by at least 60 others.
+
+[![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/stay-for-a-while.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Virtual Riot - Stay For A While](https://osu.ppy.sh/beatmapsets/690556#osu) by [ProfessionalBox](https://osu.ppy.sh/users/3250792) and [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+Yet another ProfessionalBox map has made its way to the Loved voting stage! This time, it's a control-crazy map of Virtual Riot's "Stay For A While" designed to throw you off with its confusing slider shapes and insanely high slider tick rate of 4. Tied along with quite a catchy and energetic future bass song, this map does an amazing job creating a unique playing experience—I'm sure the 120+ favorites can agree with me on that! So, what say you? Think you've got the cursor control it takes to pass a map like this? If you said yes, I'm going to need you to stop reading this and give the map your best go. Trust me, it'll be worth it! Afterwards, come back to this page and drop a vote on the map's poll!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/self-producer.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
