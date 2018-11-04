@@ -157,7 +157,7 @@ Pierwsze pięć grupowań dostępnych jest jako karty nad rozwijanymi listami Gr
 - `lenght` - Długość mapy w sekundach
 - `drain` - Czas Poboru Życia w sekundach
 - `mode` - Tryb Gry - możliwe wartości to ``osu``, ``taiko``, ``catchthebeat``, ``mania`` lub w skrócie ``o/t/c/m``.
-- `status` - Stan Rankingu - możliwe wartości to ``ranked``, ``approved``, ``pending``, ``notsubmitted``, ``loved`` lub w skrócie ``r/a/p/n/l``.
+- `status` - Stan Rankingu - możliwe wartości to ``ranked``, ``approved``, ``pending``, ``notsubmitted``, ``unknown``, ``loved`` lub w skrócie ``r/a/p/n/u/l``.
 - `played` - Odstęp czasu, w kórym grałeś daną mapę w dniach.
 - `unplayed` - Mapy, których nigdy nie grałeś - bez wartości (użyj ``unplayed=`` dla map, których nigdy nie grałeś i ``unplayed!=`` dla map, które zostały przez ciebie zagrane).
 - `speed` - Zapisana prędkość przewijania osu!manii - używaj 0 dla map, których nigdy nie grałeś lub jeżeli opcja [Zapamiętaj szybkość przewijania każdej mapy w osu!manii](/wiki/Options/#Gameplay) jest wyłączona.
