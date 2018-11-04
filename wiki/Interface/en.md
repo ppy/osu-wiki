@@ -157,7 +157,7 @@ Note: You cannot have the chat console or the options sidebar open if you want t
   - `length` - Length in seconds
   - `drain` - Drain Time in seconds
   - `mode` - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
-  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, or ``unknown``, or ``r/a/p/n/u`` for short.
+  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, ``unknown``, or ``loved``, or ``r/a/p/n/u/l`` for short.
   - `played` - Time since last played in days
   - `unplayed` - Unplayed maps - no value (use ``unplayed=`` for unplayed maps or ``unplayed!=`` for played maps)
   - `speed` - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options/#Gameplay) option is off
