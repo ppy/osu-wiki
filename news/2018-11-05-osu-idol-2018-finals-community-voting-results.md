@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!idol 2018 Finals - Community Voting Results!"
-date: 2017-11-05 17:45:00 +0000
+date: 2018-11-05 17:45:00 +0000
 ---
 
 We have reached the end in this year's osu!idol contest. Thanks everyone for taking part in the [community voting](https://osu.ppy.sh/community/contests/71)! Results time.
@@ -10,7 +10,11 @@ We have reached the end in this year's osu!idol contest. Thanks everyone for tak
 
 ### Results
 
-**Congratulations to this year's osu!idol - [Will Stetson](https://osu.ppy.sh/users/4909088)!** Their performance of **Omoi - Snow Drive** has earned them the first place! **Next we have [Zeva[FL]](https://osu.ppy.sh/users/2805170)**'s performance of **Chris Kirkpatrick - My Shiny Teeth And Me** in second! **Third place goes to [MjIsMaster](https://osu.ppy.sh/users/9922896)** with their performance of **The Romantics - Talking In Your Sleep**! Applause, everyone!
+**Congratulations to this year's osu!idol - [Will Stetson](https://osu.ppy.sh/users/4909088)!** Their performance of **Omoi - Snow Drive** has earned them the first place! 
+
+**Next we have [Zeva[FL]](https://osu.ppy.sh/users/2805170)**'s performance of **Chris Kirkpatrick - My Shiny Teeth And Me** in second! 
+
+**Third place goes to [MjIsMaster](https://osu.ppy.sh/users/9922896)** with their performance of **The Romantics - Talking In Your Sleep**! Applause, everyone!
 
 Here are links to the performances.
 * [Will Stetson - Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3)
