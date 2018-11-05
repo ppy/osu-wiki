@@ -41,24 +41,25 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 **layer**:
 
--   Background
--   Fail
--   Pass
--   Foreground
+-   0 - Background
+-   1 - Fail
+-   2 - Pass
+-   3 - Foreground
 
 *Note: Background and Foreground are always visible.*
 
 **origin**:
 
--   TopLeft
--   TopCentre
--   TopRight
--   CentreLeft
--   Centre
--   CentreRight
--   BottomLeft
--   BottomCentre
--   BottomRight
+-   0 - TopLeft
+-   1 - Centre
+-   2 - CentreLeft
+-   3 - TopRight
+-   4 - BottomCentre
+-   5 - TopCentre
+-   6 - Custom (same effect as TopLeft, but should not be used)
+-   7 - CentreRight
+-   8 - BottomLeft
+-   9 - BottomRight
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 

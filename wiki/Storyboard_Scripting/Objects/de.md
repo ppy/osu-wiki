@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 Storyboard Scripting - Objekte
 =================================
 
@@ -15,21 +18,21 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 -   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboard_Scripting/General_Rules) auf denen Objekte erscheinen.** Erlaubte Werte sind:
-    -   Background
-    -   Fail
-    -   Pass
-    -   Foreground
+    -   0 - Background
+    -   1 - Fail
+    -   2 - Pass
+    -   3 - Foreground
 
 -   **(origin)** (eng. für Entstehungspunkt) ist der Ort an dem das Objekt in osu! mit Hilf von Koordinaten zu erscheinen hat. Dies geschieht mit (x) und (y) Werten, genauso wie bei anderen befehls-spezifischen Verhalten. Gültige Werte sind:
-    -   TopLeft (oben links)
-    -   TopCentre (oben mittig)
-    -   TopRight (oben rechts)
-    -   CentreLeft (links mittig)
-    -   Centre (in der Mitte)
-    -   CentreRight (rechts mittig)
-    -   BottomLeft (unten links)
-    -   BottomCentre (unten mittig)
-    -   BottomRight (unten rechts)
+    -   0 - TopLeft (oben links)
+    -   1 - Centre (in der Mitte)
+    -   2 - CentreLeft (links mittig)
+    -   3 - TopRight (oben rechts)
+    -   4 - BottomCentre (unten mittig)
+    -   5 - TopCentre (oben mittig)
+    -   7 - CentreRight (rechts mittig)
+    -   8 - BottomLeft (unten links)
+    -   9 - BottomRight (unten rechts)
 
 -   **(filepath)** (eng. für Dateipfad) ist **der Name der Datei, den Sie aufrufen wollen.** Es ist aber nicht ganz so einfach:
     -   Wenn Sie Unterordner im Songordner verwenden, müssen Sie den Pfad miteinbeziehen.

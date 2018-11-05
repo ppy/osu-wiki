@@ -25,8 +25,6 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Match Week 4 | 2018-12-08/2018-12-09 |
 | Match Week 5 | 2018-12-15/2018-12-16 |
 
-**Note**: Registrations may prematurely end when there are a sufficient number of registrants. The full schedule will be revealed before registrations close.
-
 ## Prizes
 
 Winners of their respective game mode will get a Profile badge.
@@ -44,7 +42,7 @@ Winners of their respective game mode will get a Profile badge.
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452), ![][flag_PH] [-Nicotine](/users/4818935) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Nezol](/users/7509103), ![][flag_PH] [Afireee](/users/7919913), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [Deadpulse](/users/8575527) |
 | Commentators | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [Deneb](/users/2604212), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Awishi](/users/4290020), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_AU] [PotassiumF](/users/4247722) |
 | Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
@@ -57,15 +55,13 @@ Winners of their respective game mode will get a Profile badge.
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- Registration Forms
-  - [osu!standard](https://goo.gl/forms/DniRC0XLpSvr6IkY2)
-  - [osu!taiko](https://goo.gl/forms/pMAFhatTwE5SCryf2)
-  - [osu!catch](https://goo.gl/forms/bhm9GdRZ6fT5hB2i2)
-  - [osu!mania 4K and 7K](https://goo.gl/forms/LGAZSwXbudHJlc583)
+- [Match Schedules](https://docs.google.com/spreadsheets/d/1dykRLOH3gmFfoUHViTrFgBYgq6yMc_6WVyKUunuGmQ8/edit?usp=sharing)
 
 ------------------------
 
 ## Participants
+
+An initial list of cleared registrants are listed on [this spreadsheet](https://docs.google.com/spreadsheets/d/1W-XLpa_DzLZW0DMb1jy3uEo9VYHHB-jHieU-61owWQs/edit?usp=sharing).
 
 *Qualified participants will be added in this section.*
 
@@ -74,6 +70,62 @@ Winners of their respective game mode will get a Profile badge.
 ## Mappools
 
 *Mappools will be revealed one week in advance of each stage.*
+
+## osu!standard
+
+### Qualifiers
+
+[**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
+
+- NoMod
+	- [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmaps/1773874)
+	- [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmaps/1261914)
+- Hidden
+	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmaps/1502635)
+- HardRock
+	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmaps/1477261)
+- DoubleTime
+	- [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmaps/1482857)
+	
+## osu!catch
+
+### Qualifiers
+
+[**Download the mappack here! (23.2 MB)**](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)
+
+- NoMod
+  - [Y&Co. - Sweet Rain feat. Karin (alienflybot) \[Craving\]](https://osu.ppy.sh/beatmaps/1273038)
+  - [a\*ru - Kizuato (Benita) \[Scar\]](https://osu.ppy.sh/beatmaps/1414782)
+- Hidden
+  - [Hitomi Sato - Hakutai Forest (Spectator) \[Cheryl\]](https://osu.ppy.sh/beatmaps/746560)
+- HardRock
+  - [Akiko Shikata - Katayoku no Tori (Deif) \[Platter\]](https://osu.ppy.sh/beatmaps/708225)
+- DoubleTime
+  - [Camellia - Towards The Horizon (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmaps/1383647)
+
+## osu!mania 4K
+
+### Qualifiers
+
+[**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
+
+- FreeMod
+	- [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmaps/1817703)
+	- [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
+	- [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
+	- [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
+  
+## osu!mania 7K
+
+### Qualifiers
+
+[**Download the mappack here! (11.1 MB)**](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)
+
+- FreeMod
+  - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmaps/1825670)
+  - [chromonicci - Power. (Lenfried-) \[money.\]](https://osu.ppy.sh/beatmaps/1825644)
+  - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
+  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
 ------------------------
 
@@ -198,11 +250,11 @@ Winners of their respective game mode will get a Profile badge.
 #### Match Format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - Match Weeks 1 and 2 - Best-of-9 (First to 5)
+  - Match Week 1 - Best-of-9 (First to 5)
+  - Match Week 2 - Best-of-11 (First to 6)
   - Match Week 3 - Best-of-11 (First to 6)
-  - Match Week 4 - Best-of-11 (First to 6)
+  - Match Week 4 - Best-of-13 (First to 7)
   - Match Week 5 - Best-of-13 (First to 7)
-  - Match Week 6 - Best-of-13 (First to 7)
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.

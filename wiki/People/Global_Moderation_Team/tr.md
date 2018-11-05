@@ -58,12 +58,12 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Sohbet Moderasyonu |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Sohbet Moderasyonu |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russian | Sohbet Moderasyonu |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korean, Japanese | Sohbet Moderasyonu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | French | Sohbet Moderasyonu |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Sohbet Moderasyonu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish | Teknik Destek |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polish | Sohbet Moderasyonu |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | Teknik Destek |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Sohbet Moderasyonu, Turnuvalar, Forum Moderasyonu |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Sohbet Moderasyonu |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chinese | Sohbet Moderasyonu |
@@ -72,7 +72,6 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

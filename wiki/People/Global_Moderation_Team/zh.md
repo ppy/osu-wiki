@@ -58,12 +58,12 @@ outdated: true
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 | 聊天室管理 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天室管理 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语, 日语 | 聊天室管理 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 法语 | 聊天室管理 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理 |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | 技术支持 |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, 论坛管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理 |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | 中文 | 聊天室管理 |
@@ -72,7 +72,6 @@ outdated: true
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

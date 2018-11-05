@@ -74,7 +74,7 @@ Most spacing rules can be easily broken but still allow for an easily readable b
 However, this will require a higher level of mapping to work properly.
 
 If you are a beginner modder/mapper, don't hesitate to comment on spacing.
-However, be weary that the _weird spacing_ can be characteristic of a [jump](/wiki/jump).
+However, be wary that the _weird spacing_ can be characteristic of a [jump](/wiki/jump).
 
 ### Rhythm of Hit Objects
 
