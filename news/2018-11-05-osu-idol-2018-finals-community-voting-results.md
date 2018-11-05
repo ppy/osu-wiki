@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!idol 2018 Finals - Community Voting Results!"
-date: 2017-11-03 00:00:00 +0000
+date: 2017-11-05 17:45:00 +0000
 ---
 
 We have reached the end in this year's osu!idol contest. Thanks everyone for taking part in the [community voting](https://osu.ppy.sh/community/contests/71)! Results time.
