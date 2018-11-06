@@ -33,7 +33,7 @@
 
 **This page is based on the old version of osu!catch game mode using ScoreV1 system.**
 
-*For the current osu!catch game mode, see [osu!catch](/wiki/Game_Modes/osu!catch)*
+*For the current osu!catch game mode, see: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
 ![Gameplay of osu!catch][osu!catch Interface image]
 

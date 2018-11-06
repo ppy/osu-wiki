@@ -1,6 +1,6 @@
 # Sliders
 
-*See also: [Making Good Sliders](../Making-Good-Sliders)*
+*See also: [Making Good Sliders](../Making_Good_Sliders)*
 
 <!-- please place all mapping techniques in alphabetical order -->
 
