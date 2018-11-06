@@ -125,7 +125,7 @@ Click on one of the tabs to **sort your song list according to the selected crit
 - `By Title` - Beatmaps will be grouped by the first letter of their title.
 - `Favourites` - Only beatmaps you have favorited online will be shown.
 - `My Maps` - Only beatmaps you have mapped (that is, whose creator matches your profile name) will be shown.
-- `Ranked Status` - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, or unknown.
+- `Ranked Status` - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, unknown, or loved.
 The first five groupings are available in tabs below Group and Sort.
 
 **Sort** - Sorts beatmaps in a certain order
