@@ -123,20 +123,17 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish                  |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [hikiko-](https://osu.ppy.sh/users/6512678)           |                          |
-| [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
-| [Kin](https://osu.ppy.sh/users/480689)                | French                   |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
-| [Nifty](https://osu.ppy.sh/users/4956097)             |                          |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French                   |
 
 ### osu!catch
 
