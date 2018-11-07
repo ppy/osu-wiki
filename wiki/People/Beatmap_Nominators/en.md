@@ -77,7 +77,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
 | [Beomsan](https://osu.ppy.sh/users/3626063)           |                          |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
-| [BOUYAAA](https://osu.ppy.sh/users/405449)            | French, some German      |
 | [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         |                          |
@@ -112,7 +111,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
-| [Plaudible](https://osu.ppy.sh/users/7149815)         |                          |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
 | [Regraz](https://osu.ppy.sh/users/3076909)            | Chinese                  |
 | [riffy](https://osu.ppy.sh/users/597957)              | Russian                  |
