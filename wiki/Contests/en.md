@@ -210,7 +210,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | [J1_](https://osu.ppy.sh/users/5918561)      | [yf_bmp](https://osu.ppy.sh/users/1243669)              | [Level9](https://osu.ppy.sh/users/7232130)         |
 | 3         | Sota Fujimori - ACCELERATE               | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | [Koiyuki](https://osu.ppy.sh/users/2433507)         | [yf_bmp](https://osu.ppy.sh/users/1243669)      |
 
-- Contest thread
+- [Contest thread](https://osu.ppy.sh/forum/t/775847)
 - [Results post](https://osu.ppy.sh/forum/t/806794)
 
 ### Newspaper Cup
