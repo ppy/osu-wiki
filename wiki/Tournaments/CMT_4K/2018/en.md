@@ -57,28 +57,47 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals - Week 1
 
 The following time are based on UTC+08 timezone.  
 Knock-Out Stages' match time will be announced in [statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx).
 
-### Saturday, 3. November 2018
+### Saturday, 10. November 2018
 
 | Match Time | PlayerBlue |  | PlayerRed |
 | :-: | :-: | :-: | :-: |
-| 11:00 | Stink God | vs | zero2snow |
-| 14:00 | C Eru | vs | \[Crz\]Murasame |
-| 17:00 | CaOH2 | vs | Sakaki |
+| 15:00 | cheewee10 | vs | ByeForNow |
+| 16:30 | Orangejuice | vs | HDRoop\_7 |
+| 18:00 | \[Crz\]Murasame | vs | \[Crz\]Minato |
 
-### Sunday, 4. November 2018
+### Sunday, 11. November 2018
 
-| Match Time | PlayerBlue |  | PlayerRed |
-| :-: | :-: | :-: | :-: |
-| 11:00 | \[Crz\]Minato | vs | ByeForNow |
-| 15:00 | HDRoop\_7 | vs | cheewee10 |
-| 18:00 | Orangejuice | vs | 704661982 |
+To be determined.
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+
+- FreeMod
+  - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+  - [ck - Carnation (ck remix) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [LeaF - Calamity Fortune \[Freedom (240bpm)\]](https://osu.ppy.sh/beatmapsets/866025#mania/1810669)
+  - [Gram VS Camellia - Ragnarok \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [YZYX - Dysnomia \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Casey Lee Williams ft. Jeff Williams - Boop \[RWBYnfinity\]](https://osu.ppy.sh/beatmapsets/696309#mania/1475015)
+  - [Daiki Kasho - 5oul on D!splay (Short Ver.) \[Display\]](https://osu.ppy.sh/beatmapsets/384818#mania/840775)
+  - [Panda Eyes & Teminite - Highscore \[Extra (NSV) (143bpm)\]](https://osu.ppy.sh/beatmapsets/873114#mania/1825054)
+  - [Cyber-Rainforce - Pluto \[Ayumu's firmament\]](https://osu.ppy.sh/beatmapsets/657922#mania/1393518)
+  - [Venetian Snares - Sinthasomphone \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/1823177)
+  - [LeaF - Lyrith \[Amnesia\]](https://osu.ppy.sh/beatmapsets/687280#mania/1463532)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) \[Extreme (Revised)\]](https://osu.ppy.sh/beatmapsets/859797#mania/1821298)
+  - [xi - PEACE BREAKER \[devastation\]](https://osu.ppy.sh/beatmapsets/827204#mania/1733417)
+  - [Camellia - Proluvies \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+- Tiebreaker
+  - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
+
 
 ### Semifinals
 
@@ -169,6 +188,19 @@ Knock-Out Stages' match time will be announced in [statistics sheet](https://doc
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## Match Results
+
+### Semifinals
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| **CaOH2** | **6** | 1 | Sakaki |
+| Stink God | 5 | **6** | **zero2snow** |
+| C Eru | 0 | **6** | **\[Crz\]Murasame** |
+| HDRoop\_7 | 0 | **6** | **cheewee10** |
+| **\[Crz\]Murasame** | **6** | 1 | CaOH2 |
+| \[Crz\]Minato | 0 | **6** | **ByeForNow** |
+| **Orangejuice** | **6** | 2 | 704661982 |
+| zero2snow | 0 | **6** | **Orangejuice** |
 
 ### Quarterfinals
 
