@@ -111,7 +111,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | Argentina | ![][flag_AR] | ![][flag_NO] | Norway | **15:00 UTC** | 12:00 UTC-03 | 16:00 UTC+01 |
 | Slovakia | ![][flag_SK] | ![][flag_CZ] | Czech Republic | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
 | Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **15:00 UTC** | 22:00 UTC+07 | 16:00 UTC+01 |
-| Chile | ![][flag_CL] | ![][flag_JP] | Japan | **16:00 UTC** | 13:00 UTC-03 | 01:00 (Sun) UTC+09 |
+| Chile | ![][flag_CL] | ![][flag_JP] | Japan | **16:00 UTC** | 13:00 UTC-03 | 1:00 (Sun) UTC+09 |
 | Indonesia | ![][flag_ID] | ![][flag_CA] | Canada | **16:00 UTC** | 23:00 UTC+07 | 12:00 UTC-04 |
 | Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **16:00 UTC** | 11:00 UTC-05 | 0:00 (Sun) UTC+08 |
 | Italy | ![][flag_IT] | ![][flag_PL] | Poland | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
