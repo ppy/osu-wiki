@@ -16,12 +16,12 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one to two months.
+With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will create a newspost for Beatmap Nominator Sign-ups in irregular intervals of approximately two months.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
-+ They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
++ They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
 + They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What Qualifies as a Mod Post
@@ -32,24 +32,23 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 + The point in time at which the Kudosu has been awarded to you mod post does not matter. The only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
 
 ### How the Required Minimum Score is Calculated
-+ This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
++ This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
+
 + `Kudosu Score` is determined according to the following formula:
++ m = Minimum expected number of individual beatmaps modded in a month
++ M = Total achieved number of individual beatmaps modded in a month
 
-![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Score Formula")
-
-+ `Mod Score` per month is determined according to the following formula:
-
-![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
+![Kudosu Score Formula](/wiki/shared/Modscore_new.png "Kudosu Score Formula")
 
 + [This online tool](http://modscore.little.moe/) can be used to calculate mod score.
-+ In order to determine their `Required Minimum Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
++ In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
 + The overall minimum threshold is set to the following values:
-  + osu!taiko, osu!catch and osu!mania: 1050
-  + osu!: 1100
+  + osu!taiko, osu!catch and osu!mania: m = 3 and a total of 150 kudosu or more
+  + osu!: m = 4 and a total of 200 kudosu or more
 + It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
-+ The `Mod Score` and `Kudosu Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
++ The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
 + Modders that acquired enough score will be evaluated by the corresponding QAT members of the game mode they applied for, taking into account the following criteria:
   + General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   + Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
