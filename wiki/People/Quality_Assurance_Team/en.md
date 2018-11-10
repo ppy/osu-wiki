@@ -19,7 +19,6 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish                 |
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
-| [Aloda](https://osu.ppy.sh/users/1190127)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                         |
 | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese      |
 | [Deif](https://osu.ppy.sh/users/318565)               | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish, German         |
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
