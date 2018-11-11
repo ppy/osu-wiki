@@ -15,8 +15,8 @@ Team Members
 
 Link to [user group page](https://osu.ppy.sh/groups/7)
 
-| Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages        |
-|---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
+| Name                                                  | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages    |
+|-------------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:------------------------|
 | [-Kazu-](https://osu.ppy.sh/users/920861)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish                 |
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese      |
@@ -39,5 +39,6 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [pishifat](https://osu.ppy.sh/users/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Protastic101](https://osu.ppy.sh/users/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
 | [Raiden](https://osu.ppy.sh/users/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan        |
+| [Regraz](https://osu.ppy.sh/users/3076909)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Yuii-](https://osu.ppy.sh/users/2935923)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish, Portugese      |
 | [Zirox](https://osu.ppy.sh/users/200768)              | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish                 |
