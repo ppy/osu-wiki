@@ -101,7 +101,6 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
-| [Regraz](https://osu.ppy.sh/users/3076909)            | Chinese                  |
 | [riffy](https://osu.ppy.sh/users/597957)              | Russian                  |
 | [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese                  |
