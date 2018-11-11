@@ -98,7 +98,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | Alemán                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portugués                |
 | [Realazy](https://osu.ppy.sh/users/918297)            | Francés                  |
-| [Regraz](https://osu.ppy.sh/users/3076909)            | Chino                    |
 | [riffy](https://osu.ppy.sh/users/597957)              | Ruso                     |
 | [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chino                    |
