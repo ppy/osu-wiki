@@ -34,11 +34,11 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 ### How the Required Minimum Score is Calculated
 + This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
 
-+ `Kudosu Score` is determined according to the following formula:
+![Mod Score Formula](/wiki/shared/Modscore_new.png "Kudosu Score Formula")
+
 + m = Minimum expected number of individual beatmaps modded in a month
 + M = Total achieved number of individual beatmaps modded in a month
 
-![Kudosu Score Formula](/wiki/shared/Modscore_new.png "Kudosu Score Formula")
 
 + [This online tool](http://modscore.little.moe/) can be used to calculate mod score.
 + In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
