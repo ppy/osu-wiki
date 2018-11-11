@@ -66,7 +66,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Andrea](https://osu.ppy.sh/users/33599)              | Italiano                 |
 | [Beomsan](https://osu.ppy.sh/users/3626063)           | Coreano                  |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chino                    |
-| [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
+| [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdú                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         | Finlandés                |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Tailandés                |
