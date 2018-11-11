@@ -83,7 +83,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
 | [Garden](https://osu.ppy.sh/users/2849992)            | Chinese                  |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
-| [Gottagof4st](https://osu.ppy.sh/users/6122935)       | Dutch                    |
 | [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
 | [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
 | [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
@@ -92,7 +91,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
-| [Kuron-kun](https://osu.ppy.sh/users/2697284)         | Portuguese               |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
@@ -106,7 +104,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Net0](https://osu.ppy.sh/users/5099768)              | Portuguese               |
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
-| [Noffy](https://osu.ppy.sh/users/1541323)             |                          |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
@@ -131,7 +128,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
-| [Yuii-](https://osu.ppy.sh/users/2935923)             | Spanish, Portugese       |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 
 ### osu!taiko
