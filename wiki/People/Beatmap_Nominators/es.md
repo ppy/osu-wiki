@@ -73,7 +73,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
 | [Garden](https://osu.ppy.sh/users/2849992)            | Chino                    |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Español                  |
-| [Gottagof4st](https://osu.ppy.sh/users/6122935)       | Holandés                 |
 | [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
 | [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
 | [IceKalt](https://osu.ppy.sh/users/5410645)           | Alemán                   |
@@ -82,7 +81,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Holandés                 |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polaco                   |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
-| [Kuron-kun](https://osu.ppy.sh/users/2697284)         | Portugués                |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamita               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbio                   |
@@ -96,7 +94,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chino                    |
 | [Net0](https://osu.ppy.sh/users/5099768)              | Portugués                |
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
-| [Noffy](https://osu.ppy.sh/users/1541323)             |                          |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | Francés                  |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | Alemán                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portugués                |
@@ -121,7 +118,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | Alemán                   |
-| [Yuii-](https://osu.ppy.sh/users/2935923)             | Español, Portugués       |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | Alemán                   |
 
 ### osu!taiko
