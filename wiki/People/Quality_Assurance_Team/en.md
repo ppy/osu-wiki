@@ -24,16 +24,20 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
 | [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
+| [Gottagof4st](https://osu.ppy.sh/users/6122935)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Dutch                   |
 | [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Kuron-kun](https://osu.ppy.sh/users/2697284)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Portuguese              |
 | [Lanturn](https://osu.ppy.sh/users/1446665)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Mao](https://osu.ppy.sh/users/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Maxus](https://osu.ppy.sh/users/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian              |
 | [Naxess](https://osu.ppy.sh/users/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                 |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese, Cantonese      |
+| [Noffy](https://osu.ppy.sh/users/1541323)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [p3n](https://osu.ppy.sh/users/123703)                | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [pishifat](https://osu.ppy.sh/users/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Protastic101](https://osu.ppy.sh/users/6712747)      | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] |                         |
 | [Raiden](https://osu.ppy.sh/users/2239480)            | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish, Catalan        |
+| [Yuii-](https://osu.ppy.sh/users/2935923)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Spanish, Portugese      |
 | [Zirox](https://osu.ppy.sh/users/200768)              | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] | Spanish                 |
