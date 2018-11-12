@@ -17,30 +17,29 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | Nombre | Idioma(s) | Enfoque |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano | Moderación del chat |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderación del chat, Moderación de Disqus |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderación del chat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, Moderación del foro, Moderación de Disqus |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | Torneos oficiales, Moderación de Disqus |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, Moderación del foro |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderación del chat, Soporte técnico |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos oficiales, Moderación de Disqus |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos oficiales |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Soporte técnico |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | Coreano | Equipo de metadata |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugués, Japonés | Moderación del chat |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | Coreano, Japonés | Moderación del chat, Moderación del foro |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Asistencia al jugador |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Búlgaro | Presentador de osu! idol, Moderación del foro, Moderación del chat, Moderación de Disqus |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Búlgaro | Presentador de osu! idol, Moderación del foro |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chino | Moderación del chat, Moderación del foro |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro, Moderación de Disqus |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugués | Moderación del chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turco | Moderación del chat |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Español | Torneos oficiales |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat, Moderación de Disqus, Equipo de metadata |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat, Moderación de Disqus |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat, Equipo de metadata |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | Español | Moderación del chat, Moderación del foro |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italiano | Moderación del chat |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, Moderación del foro, Moderación de Disqus |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, Moderación del foro |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderación del chat, Moderación del foro |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francés | Moderación del chat |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | | Desarrollador de osu!, Organizador de la Mappers' Guild |
@@ -53,14 +52,15 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francés, Español | Moderación del chat |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesio | Moderación del chat |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chino, Taiwanés | Moderación del chat |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Húngaro | Moderación del chat, Moderación de Disqus |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán | Moderación del chat, Moderación del foro, Moderación de Disqus |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Húngaro | Moderación del chat |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán | Moderación del chat, Moderación del foro |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Ruso | Moderación del chat |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Ruso | Moderación del chat |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coreano, Japonés | Moderación del chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Francés | Moderación del chat |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderación del chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polaco | Moderación del chat |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | Soporte técnico |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Español | Moderación del chat, Torneos oficiales, Moderación del foro |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chino | Moderación del chat |
@@ -69,7 +69,6 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

@@ -17,30 +17,29 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | 이름 | 언어 | 주요 활동 |
 | :-- | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | 이탈리아어 | 채팅 관리 |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 채팅 관리, Disqus 관리 |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 채팅 관리 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 독일어 | 채팅 관리 |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 스페인어 | 채팅 관리, 포럼 관리, Disqus 관리 |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | | 대회, Disqus 관리 |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 스페인어 | 채팅 관리, 포럼 관리 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 채팅 관리, 기술 지원 |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 스페인어 | 대회, Disqus 관리 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 스페인어 | 대회 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 기술 지원 |
-| ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | 한국어 | 메타데이터 팀 |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | 한국어, 일본어  | 채팅 관리, 포럼 관리 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | 플레이어 지원 |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 불가리아어 | osu! 아이돌 호스팅, 포럼 관리, 채팅 관리, Disqus 관리 |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 불가리아어 | osu! 아이돌 호스팅, 포럼 관리 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 중국어 | 채팅 관리, 포럼 관리 |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 프랑스어 | 채팅 관리, 포럼 관리, Disqus 관리 |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 프랑스어 | 채팅 관리, 포럼 관리 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | 포르투갈어 | 채팅 관리 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 터키어 | 채팅 관리 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 스페인어 | 대회 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 러시아어 | 채팅 관리 |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 프랑스어, 러시아어 | 채팅 관리, Disqus 관리, 메타데이터 팀 |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 러시아어 | 채팅 관리, Disqus 관리 |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 프랑스어, 러시아어 | 채팅 관리, 메타데이터 팀 |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 러시아어 | 채팅 관리 |
 | ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | 핀란드어 | 채팅 관리 |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | 스페인어 | 채팅 관리, 포럼 관리 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 이탈리아어 | 채팅 관리 |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 네덜란드어 | 채팅 관리, 포럼 관리, Disqus 관리 |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 네덜란드어 | 채팅 관리, 포럼 관리 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 프랑스어 | 채팅 관리 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 개발, 매퍼 길드 조직 |
@@ -53,14 +52,15 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 프랑스어, 스페인어 | 채팅 관리 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 인도네시아어 | 채팅 관리 |
 | ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
-| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 헝가리어 | 채팅 관리, Disqus 관리 |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 독일어 | 채팅 관리, 포럼 관리, Disqus 관리 |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 헝가리어 | 채팅 관리 |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 독일어 | 채팅 관리, 포럼 관리 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 러시아어 | 채팅 관리 |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | 러시아어 | 채팅 관리 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 한국어, 일본어 | 채팅 관리 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 프랑스어 | 채팅 관리 |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 필리핀어 | 채팅 관리 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 폴란드어 | 채팅 관리 |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | 기술 지원 |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 스페인어 | 채팅 관리, 대회, 포럼 관리 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 폴란드어 | 채팅 관리 |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | 중국어 | 채팅 관리 |
@@ -69,7 +69,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

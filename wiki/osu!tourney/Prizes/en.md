@@ -16,8 +16,28 @@ We may award profile badges to any **first-place winners** of community-run tour
 - The badge request is made **well before** the tournament commences play. (*We suggest at least two to three weeks.*)
 - Any of the staff members involved in managing the tournament are **not** participating in the tournament themselves.
 - The tournament is run four or fewer times per year (seasonal).
+- The list of players within a given tournament has been screened by the Support Team and verified to be free of any suspicious players.
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team.
+
+### Tournament Screening
+
+As part of awarding official support, promotion or other prizes, the Support Team offers a limited form of player vetting similar to the 'security checks' undergone by all World Cup players.
+
+**Only tournaments that qualify for all other badge criteria may apply for screening.** We highly suggest involving some experienced staff in your contest if you are planning to run a new tournament in order to qualify for this.
+
+Tournament organizers will be expected to provide the following:
+
+- A comma separated list of player usernames, user ids and the 2 digit ISO code of their profile country
+- If the tournament is team based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
+
+Once the screening is complete, the Support Team will provide a list of all players from your lineup who are considered **ineligible** for supported tournament play, be it via severe account infringement, suspicion of account sharing, or having been the product of a recent ban appeal within the past 12 months.
+
+The nature of their particular transgression will not be specified, and no further information will be given on the state of those user's accounts. Please do not request specifics or "proof", they will not be given. Individual players unhappy with their screening outcomes should be directed to consult accounts@ppy.sh via email.
+
+Tournament organizers who uncover potentially suspicious play during their tournaments are both obligated and singlehandedly responsible for reporting any such incidents to the Support Team via tournaments@ppy.sh at the earliest possible opportunity as part of this service. 
+
+**Allowing users that have been highlighted by the screening process to play in your tournament will result in an immediate withdrawal of any prize offerings or promotional support from us, and you are unlikely to have any of your further requests for prize/promotion support acknowledged in the future.**
 
 ### Badge Design Criteria
 

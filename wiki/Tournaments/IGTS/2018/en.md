@@ -7,20 +7,20 @@ tags:
 
 ![IGTS 2018 Logo](img/logo.png)
 
-The **Intermediate Global Taiko Showdown 2018 (***IGTS 2018***)** is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
+The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) is a country-based double elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](/users/263110) and ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 1st installment of the Intermediate Global Taiko Showdown.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-06-30/2018-07-29 |
-| Live Drawings | 2018-07-29 13:00:00 UTC |
+| Live Drawings | 2018-07-29 (13:00 UTC) |
 | Group Stage | 2018-08-04/2018-08-12 |
 | Round 1 (Lower Bracket) | 2018-08-18/2018-08-19 |
 | Quarterfinals | 2018-08-25/2018-08-26 |
 | Semifinals | 2018-09-01/2018-09-02 |
-| Finals - Week 1 | 2018-09-08/2018-09-09 |
-| Finals - Week 2 | 2018-09-15/2018-09-16 |
+| Finals | 2018-09-08/2018-09-09 |
+| Grand Finals | 2018-09-15/2018-09-16 |
 
 ## Prizes
 
@@ -36,7 +36,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 | Position | Members |
 | :-- | :-- |
-| Organisers | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Management and Organisation | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Map Selectors | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_PT] [babysnakes](/users/4669728), ![][flag_ID] [Poii](/users/7924938) |
 | Designer | ![][flag_US] [Swovine](/users/6666316) |
 | Statisticians | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TLQ_Yoshii](/users/7157133) |
@@ -48,21 +48,8 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ## Links
 
 - [Discussion thread](/community/forums/topics/767841)
-- [IGTS Discord](https://discord.gg/qavX3Ga)
 - [Livestream](https://www.twitch.tv/igtsosu)
-- [Challonge brackets](https://challonge.com/u85xl34m)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
-
------------------------
-
-## Match Schedule: Finals - Week 1
-
-### Saturday, 8 September 2018
-
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Malaysia | ![][flag_MY] | ![][flag_NL] | Netherlands | **10:00** |
-| #2 | United States | ![][flag_US] | ![][flag_DE] | Germany | **20:00** |
 
 -----------------------
 
@@ -102,9 +89,50 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 -----------------------
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| --- | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] Malaysia |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_NL] Netherlands |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] United States |
+
+-----------------------
+
 ## Mappools
 
-### Finals - Week 1
+### Grand Finals
+
+**[Download the mappack here! (107 MB)](https://mega.nz/#!Y8M2la6K!CHWMUKhMNOD4Cr3OKioBD6n1MiGRJIORYhqRJg9Hu-o)**
+
+- NoMod
+  - [LOLI RIPE - All I wanna do is touch your power points (BabySnakes) \[PoisOni\]](/beatmapsets/846727/#taiko/1770837)
+  - [cillia - Fairytale, (mintong89) \[Taiko\]](/beatmapsets/275331/#taiko/624447)
+  - [Mediks - Mediks (Arrival) \[Arrival's Oni\]](/beatmapsets/527082/#taiko/1222234)
+  - [Kano - Houkago Stride (Short Ver.) (Lundlerol) \[Oni\]](/beatmapsets/80983/#taiko/225075)
+  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](/beatmapsets/274111/#taiko/667471)
+- Hidden
+  - [t+pazolite - OMAKENO Stroke (JUDYDANNY) \[Oni\]](/beatmapsets/371857/#taiko/814566)
+  - [Rohi - Kodoku Egoism (hs714) \[714's Taiko Oni\]](/beatmapsets/58737/#taiko/196672)
+  - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](/beatmapsets/339558/#taiko/751680)
+- HardRock
+  - [3R2 - Brawl Breaks (Doyak) \[Inner Oni\]](/beatmapsets/466564/#taiko/998462)
+  - [toby fox - Amalgam (MMzz) \[Oni\]](/beatmapsets/373264/#taiko/817717)
+  - [USAO - BroGamer (Arrival) \[Oni\]](/beatmapsets/635636/#taiko/1355301)
+- DoubleTime
+  - [Haruna Luna - Sora wa Takaku Kaze wa Utau (TV Size) (kazenotama) \[Tama's Taiko Oni\]](/beatmapsets/48468/#taiko/150757)
+  - [Nakamura Meiko - DIVINE FORTUNE (lolcubes) \[Muzukashii\]](/beatmapsets/97132/#taiko/260912)
+  - [Dan Winter - Don't Stop Push It Now (Nightcore Mix) (Gero, Hanjamon) \[Geromon's Muzukashii\]](/beatmapsets/200374/#taiko/478404)
+- FreeMod
+  - [IA - Kisaragi Attention (spboxer3, kayesara) \[Sp3 & KS's Taiko Oni\]](/beatmapsets/52830/#taiko/167007)
+  - [onoken - ZADAMGA (agu) \[Oni\]](/beatmapsets/458476/#taiko/991780)
+  - [Mary - Artificial Rose (TKS) \[TK's Oni\]](/beatmapsets/99434/#taiko/281675)
+- Tiebreaker
+  - **[DM DOKURO - g a r d e n (Vulkin) \[Vulkin's Kill Or Be Killed\]](/beatmapsets/419120/#taiko/944468)**
+
+### Finals
 
 **[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg)**
 
@@ -230,14 +258,32 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Match Results
 
+### Grand Finals
+
+| Saturday, 2018-09-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Malaysia** ![][flag_MY] | **7** | 2 | ![][flag_US] United States | [#1](/community/matches/45981007) |
+
+| Sunday, 2018-09-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Netherlands ![][flag_NL] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](/community/matches/46004124) |
+| **Malaysia** ![][flag_MY] | **7** | 0 | ![][flag_NL] Netherlands | [#1](/community/matches/46005358) |
+
+### Finals
+
+| Saturday, 2018-09-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Malaysia ![][flag_MY] | 1 | **6** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45826179) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](/community/matches/45811926) | 
+
 ### Semifinals
 
 | Saturday, 2018-09-01 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45601494) |
 
 | Sunday, 2018-09-02 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | Germany ![][flag_DE] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45616018) |
 | Canada ![][flag_CA] | 3 | **5** | ![][flag_EC] **Ecuador** | [#1](/community/matches/45626417) |
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_US] **United States** | [#1](/community/matches/45614036) |
@@ -247,18 +293,18 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Quarterfinals
 
 | Friday, 2018-08-24 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](/community/matches/45369844) |
 
 | Saturday, 2018-08-25 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP] | **5** | 2 | ![][flag_EC] Ecuador | [#1](/community/matches/45385434) |
 | Russia ![][flag_RU] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45392371) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FR] France | [#1](/community/matches/45397375) |
 | Singapore ![][flag_SG] | 1 | **5** | ![][flag_US] **United States** | [#1](/community/matches/45402951) |
 
 | Sunday, 2018-08-26 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | France ![][flag_FR] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45434990) |
 | Russia ![][flag_RU] | 1 | **5** | ![][flag_CA] **Canada** | [#1](/community/matches/45431679) |
 | Ecuador ![][flag_EC] | **5** | 0 | ![][flag_PT] Portugal | -win by default- |
@@ -266,7 +312,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Round 1 (Lower Bracket)
 
 | Saturday, 2018-08-18 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45187249) |
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_AU] Australia | [#1](/community/matches/45173889) |
@@ -275,7 +321,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 ### Group Stage
 
 | Group | Saturday, 2018-08-04 |  |  |  |  | 
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/44759949) |
 | C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/44760724) |
 | A | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_AU] Australia | [#1](/community/matches/44761958) |
@@ -285,7 +331,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 | Group | Sunday, 2018-08-05 |  |  |  |  | 
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | A | Argentina ![][flag_AR] | 1 | **4** | ![][flag_AU] **Australia** | [#1](/community/matches/44784450) |
 | C | **Singapore** ![][flag_SG] | **4** | 2 | ![][flag_ID] Indonesia | [#1](/community/matches/44787664) |
@@ -301,7 +347,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/44803677) |
 
 | Group | Saturday, 2018-08-11 |  |  |  |  | 
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/44956962) |
 | A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/44957651) |
 | C | **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_CO] Colombia | [#1](/community/matches/44959016) |
@@ -312,7 +358,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 | Group | Sunday, 2018-08-12 |  |  |  |  | 
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
 | C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](/community/matches/44992938) |
 | D | **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
