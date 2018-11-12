@@ -142,7 +142,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 	- [Inspector K - Disconnected Hardkore \(CanBlaster Remix\) \(7odoa\) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
 	- [Umeboshi Chazuke - Owari to Hajimari no Oto \(Azzedd\) \[Batt's Extra\]](https://osu.ppy.sh/beatmapsets/739551#osu/1570760)
 - TieBreaker
-	- [Dark PHOENiX - Ryokugan no Jealousy \(EvilElvis\) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)
+	- **[Dark PHOENiX - Ryokugan no Jealousy \(EvilElvis\) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
 
 ### Group Stage
 
