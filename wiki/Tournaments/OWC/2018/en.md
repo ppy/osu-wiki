@@ -128,7 +128,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 - Hidden
 	- [Manasora Akiha, Tokika - Toukasa Funtouki!~ Rakutoferin no Hate e ~ \(fanzhen0019\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/43170#osu/137303)
 	- [Demetori - U.N. Owen wa Kanojo nanoka? \(Louis Cyphre\) \[Unknown\]](https://osu.ppy.sh/beatmapsets/42247#osu/844718)
-	- [Sharlo - Eisou Youga ~Meikyou Shisui~ \(Sharlo\) \[Skystar's Extreme\]](https://osu.ppy.sh/beatmapsets/380740#osu/931853)
+	- [Sharlo - Eisou Youga \~Meikyou Shisui\~ \(Sharlo\) \[Skystar's Extreme\]](https://osu.ppy.sh/beatmapsets/380740#osu/931853)
 - HardRock
 	- [Rise Against - Whereabouts Unknown \(Milan-\) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/327188#osu/729829)
 	- [Foreground Eclipse - To The Terminus \(Giralda\) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/277481#osu/628753)
