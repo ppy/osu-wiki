@@ -172,8 +172,6 @@ Winners of their respective game mode will get a Profile badge.
 
 ## Mappools
 
-*Mappools will be revealed one week in advance of each stage.*
-
 ## osu!standard
 
 ### Round of 32
@@ -272,7 +270,7 @@ Winners of their respective game mode will get a Profile badge.
   - [IOSYS - Marisa Tanked My Score With an Incredible Hand (ouranhshc) \[Insane\]](https://osu.ppy.sh/beatmaps/81781)
   - [Linkin Park, Steve Aoki - A Light That Never Comes (pw384) \[HOS' Hard\]](https://osu.ppy.sh/beatmaps/1379541)
 - Tiebreaker
-  - [Minase Mashiro - runaway (Halozy Mix) (JBHyperion) \[Hyperion's Lunatic\]](https://osu.ppy.sh/beatmaps/1649785)
+  - [**Minase Mashiro - runaway (Halozy Mix) (JBHyperion) \[Hyperion's Lunatic\]**](https://osu.ppy.sh/beatmaps/1649785)
 
 ### Qualifiers
 
@@ -307,17 +305,17 @@ Winners of their respective game mode will get a Profile badge.
   - [Hommarju - Warriors (short Ver.) (ALEFY) \[4K MX (Hard SV EDM Edition.)\]](https://osu.ppy.sh/beatmaps/824916)
   - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmaps/400180)
 - Tiebreaker
-  - [Camellia - crystallized (Oh pie) \[Citrine\]](https://osu.ppy.sh/beatmaps/933381)
+  - [**Camellia - crystallized (Oh pie) \[Citrine\]**](https://osu.ppy.sh/beatmaps/933381)
 
 ### Qualifiers
 
 [**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
 
 - FreeMod
-	- [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmaps/1817703)
-	- [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
-	- [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
-	- [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
+  - [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmaps/1817703)
+  - [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
+  - [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
+  - [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
   
 ## osu!mania 7K
 
@@ -338,7 +336,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Avicii vs. Nicky Romero - I Could Be The One (Radio Edit) (LostGender) \[7K HD\]](https://osu.ppy.sh/beatmaps/472154)
   - [Dan Salvato - Your Reality (SurfChu85) \[serendipity\]](https://osu.ppy.sh/beatmaps/1522921)
 - Tiebreaker
-  - [Dimrain47 - Infernoplex (ExPew) \[HD\]](https://osu.ppy.sh/beatmaps/443844)
+  - [**Dimrain47 - Infernoplex (ExPew) \[HD\]**](https://osu.ppy.sh/beatmaps/443844)
 
 ### Qualifiers
 
