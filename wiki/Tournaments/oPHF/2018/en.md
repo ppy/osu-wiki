@@ -199,7 +199,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Kaifin's Insane\]](https://osu.ppy.sh/beatmaps/1055343)
   - [sakuzyo - Imprinting (Squigly) \[lfj's Insane\]](https://osu.ppy.sh/beatmaps/623835)
 - Tiebreaker
-  - [Rita - Dream Walker (Vert) \[Zweib's Insane\]](https://osu.ppy.sh/beatmaps/778244)
+  - [**Rita - Dream Walker (Vert) \[Zweib's Insane\]**](https://osu.ppy.sh/beatmaps/778244)
 
 ### Qualifiers
 
@@ -242,7 +242,7 @@ Winners of their respective game mode will get a Profile badge.
   - [KurousaP - Senbonzakura (Firce777) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/222209)
   - [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1319575)
 - Tiebreaker
-  - [Felt - Day after (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmaps/718430)
+  - [**Felt - Day after (Senritsu) \[Oni\]**](https://osu.ppy.sh/beatmaps/718430)
 	
 ## osu!catch
 
