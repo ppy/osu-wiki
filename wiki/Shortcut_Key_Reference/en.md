@@ -188,7 +188,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Z`: Undo
 - `Ctrl` + `Y`: Redo
 - `Ctrl` + `A`: Select all notes
-- `Ctrl` + `X`: Cut slection
+- `Ctrl` + `X`: Cut selection
 - `Ctrl` + `C`: Copy selection
 - `Ctrl` + `V`: Paste selection
 - `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
@@ -242,7 +242,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively (1, 2, and 3 do not work in osu!mania edit mode)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively (1, 2, and 3 do not work in osu!mania edit mode)
 - `Shift` while placing (timeline): Ignore grid and beat (time) snapping
 - `J`: Nudge circle backwards in time
 - `K`: Nudge circle forwards in time

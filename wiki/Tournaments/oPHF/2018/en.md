@@ -25,8 +25,6 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Match Week 4 | 2018-12-08/2018-12-09 |
 | Match Week 5 | 2018-12-15/2018-12-16 |
 
-**Note**: Registrations may prematurely end when there are a sufficient number of registrants. The full schedule will be revealed before registrations close.
-
 ## Prizes
 
 Winners of their respective game mode will get a Profile badge.
@@ -44,7 +42,7 @@ Winners of their respective game mode will get a Profile badge.
 | Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
 | Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452), ![][flag_PH] [-Nicotine](/users/4818935) |
 | Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_Ph] [Nezol](/users/7509103), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Nezol](/users/7509103), ![][flag_PH] [Afireee](/users/7919913), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [Deadpulse](/users/8575527) |
 | Commentators | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [Deneb](/users/2604212), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Awishi](/users/4290020), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_AU] [PotassiumF](/users/4247722) |
 | Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
@@ -57,29 +55,326 @@ Winners of their respective game mode will get a Profile badge.
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- Registration Forms
-  - [osu!standard](https://goo.gl/forms/DniRC0XLpSvr6IkY2)
-  - [osu!taiko](https://goo.gl/forms/pMAFhatTwE5SCryf2)
-  - [osu!catch](https://goo.gl/forms/bhm9GdRZ6fT5hB2i2)
-  - [osu!mania 4K and 7K](https://goo.gl/forms/LGAZSwXbudHJlc583)
+- [Match Schedules](https://docs.google.com/spreadsheets/d/1dykRLOH3gmFfoUHViTrFgBYgq6yMc_6WVyKUunuGmQ8/edit?usp=sharing)
+- Challonge
+  - [osu!standard](https://challonge.com/oPHF2018_std)
+  - [osu!taiko](https://challonge.com/oPHF2018_taiko)
+  - [osu!catch](https://challonge.com/oPHF2018_ctb)
+  - [osu!mania 4K](https://challonge.com/oPHF2018_4K)
+  - [osu!mania 7K](https://challonge.com/oPHF2018_7K)
 
 ------------------------
 
-## Participants
+## Qualified Participants
 
-*Qualified participants will be added in this section.*
+### osu!standard
+
+| Seed | Player | 
+|---|---| 
+| 1 | [ededed028](https://osu.ppy.sh/users/3932796) | 
+| 2 | [zonelouise](https://osu.ppy.sh/users/1492995) | 
+| 3 | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) | 
+| 4 | [Stereo](https://osu.ppy.sh/users/1499137) | 
+| 5 | [Rammu](https://osu.ppy.sh/users/10652837) | 
+| 6 | [Pikhael](https://osu.ppy.sh/users/9597208) | 
+| 7 | [Fzechen](https://osu.ppy.sh/users/8248762) | 
+| 8 | [Caernarvon725](https://osu.ppy.sh/users/8208317) | 
+| 9 | [-Onoya An](https://osu.ppy.sh/users/2725984) | 
+| 10 | [Nyahrumanyah](https://osu.ppy.sh/users/4645185) | 
+| 11 | [Gilthunder](https://osu.ppy.sh/users/4514716) | 
+| 12 | [Umuuu](https://osu.ppy.sh/users/10688529) | 
+| 13 | [-PJ-](https://osu.ppy.sh/users/9347900) | 
+| 14 | [IcedCha](https://osu.ppy.sh/users/11054021) | 
+| 15 | [Akiraie](https://osu.ppy.sh/users/11766556) | 
+| 16 | [Xidorn](https://osu.ppy.sh/users/7904667) | 
+| 17 | [Aharu](https://osu.ppy.sh/users/5039816) | 
+| 18 | [\[Vik\]](https://osu.ppy.sh/users/5428448) | 
+| 19 | [Dunn](https://osu.ppy.sh/users/7241691) | 
+| 20 | [- CrossX -](https://osu.ppy.sh/users/5375302) | 
+| 21 | [ArtillerySenpai](https://osu.ppy.sh/users/8329656) | 
+| 22 | [Zythics](https://osu.ppy.sh/users/6604492) | 
+| 23 | [JasonEspiritu](https://osu.ppy.sh/users/8387179) | 
+| 24 | [Liquicidize](https://osu.ppy.sh/users/7066405) | 
+| 25 | [Aestheticbrick](https://osu.ppy.sh/users/8249051) | 
+| 26 | [KasperBK](https://osu.ppy.sh/users/8223881) | 
+| 27 | [Nomis126](https://osu.ppy.sh/users/10852654) | 
+| 28 | [Nyanntai](https://osu.ppy.sh/users/6449091) | 
+| 29 | [IsseiKun](https://osu.ppy.sh/users/10597843) | 
+| 30 | [Tornikel](https://osu.ppy.sh/users/10940000) | 
+| 31 | [Aoi_Shimoto](https://osu.ppy.sh/users/9809833) | 
+| 32 | [Karma Jun](https://osu.ppy.sh/users/6796612) | 
+
+### osu!taiko
+
+| Seed | Player | 
+|---|---| 
+| 1 | [Pochacco](https://osu.ppy.sh/users/2927742) | 
+| 2 | [Rimazii](https://osu.ppy.sh/users/3831514) | 
+| 3 | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) | 
+| 4 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | 
+| 5 | [\[\_\_\_\_\_\_\]](https://osu.ppy.sh/users/4764062) | 
+| 6 | [Keishii](https://osu.ppy.sh/users/8381177) | 
+
+### osu!catch
+
+| Seed | Player | 
+|---|---| 
+| 1 | [Crowley](https://osu.ppy.sh/users/6341006) | 
+| 2 | [KaganimeRin](https://osu.ppy.sh/users/1626093) | 
+| 3 | [Aishiii](https://osu.ppy.sh/users/4382259) | 
+| 4 | [AJamez](https://osu.ppy.sh/users/7890134) | 
+| 5 | [Kuya Frex](https://osu.ppy.sh/users/8868701) | 
+| 6 | [Laqure](https://osu.ppy.sh/users/1642435) | 
+| 7 | [Lobsterr](https://osu.ppy.sh/users/6575915) | 
+| 8 | [Loreal](https://osu.ppy.sh/users/9362231) | 
+| 9 | [- Kielzu -](https://osu.ppy.sh/users/6221114) | 
+| 10 | [AJ1703](https://osu.ppy.sh/users/10509387) | 
+| 11 | [johnneijzen1](https://osu.ppy.sh/users/2627194) | 
+| 12 | [Keishii](https://osu.ppy.sh/users/8381177) | 
+
+### osu!mania 4K
+
+| Seed | Player | 
+|---|---|  
+| 1 | [arge-](https://osu.ppy.sh/users/9919550) | 
+| 2 | [Baltz](https://osu.ppy.sh/users/6083463) | 
+| 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | 
+| 4 | [Ikisouu](https://osu.ppy.sh/users/12020287) | 
+| 5 | [Shiyui-](https://osu.ppy.sh/users/9374607) | 
+| 6 | [kei101895](https://osu.ppy.sh/users/3032245) | 
+| 7 | [Batujitsu](https://osu.ppy.sh/users/6402552) | 
+| 8 | [Edison](https://osu.ppy.sh/users/1325159) | 
+| 9 | [Andrei--](https://osu.ppy.sh/users/7222840) | 
+| 10 | [Inoariusu](https://osu.ppy.sh/users/8586656) | 
+| 11 | [vincent4399](https://osu.ppy.sh/users/9764388) | 
+| 12 | [Suravur](https://osu.ppy.sh/users/10160304) | 
+| 13 | [Izayoi-san-](https://osu.ppy.sh/users/11871956) | 
+| 14 | [LohaWarpe](https://osu.ppy.sh/users/8560810) | 
+| 15 | [hikaruXD19](https://osu.ppy.sh/users/5417259) | 
+| 16 | [Partycarft30](https://osu.ppy.sh/users/8046460) | 
+
+### osu!mania 7K
+
+| Seed | Player | 
+|---|---|   
+| 1 | [Nikana](https://osu.ppy.sh/users/4345491) | 
+| 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) | 
+| 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
+| 4 | [fer789](https://osu.ppy.sh/users/8901267) | 
+| 5 | [Andrei--](https://osu.ppy.sh/users/7222840) | 
+| 6 | [LohaWarpe](https://osu.ppy.sh/users/8560810) | 
+| 7 | [LackPoints](https://osu.ppy.sh/users/8748664) | 
+| 8 | [kei101895](https://osu.ppy.sh/users/3032245) | 
+| 9 | [Keishii](https://osu.ppy.sh/users/8381177) | 
+| 10 | [Shawntell](https://osu.ppy.sh/users/7384938) | 
 
 ------------------------
 
 ## Mappools
 
-*Mappools will be revealed one week in advance of each stage.*
+## osu!standard
+
+### Round of 32
+
+[**Download the mappack here! (92.9 MB)**](https://drive.google.com/open?id=1NM21bzcwRJkT1GYg7H9oHEDnwqxGpCSl)
+
+- NoMod
+  - [Function Phantom - Euclid (byfar) \[toybot's Insane\]](https://osu.ppy.sh/beatmaps/971086)
+  - [Marika - Soul Release (El SolarBeam) \[Liberation\]](https://osu.ppy.sh/beatmaps/570140)
+  - [Qrispy Joybox feat.Chata - Yuuki no Pendant (MrSergio) \[Insane\]](https://osu.ppy.sh/beatmaps/1386196)
+  - [sky_delta - Cryonix (captin1) \[Meg's Insane\]](https://osu.ppy.sh/beatmaps/1078442)
+  - [unatra - Fabula Nova (rui) \[Usamin's EXHAUST\]](https://osu.ppy.sh/beatmaps/1178822)
+  - [40mp feat.yuikonnu - Ame to Asphalt (Nevo) \[Mir's Insane\]](https://osu.ppy.sh/beatmaps/1765853)
+- Hidden
+  - [senya - Zetsubou no Fuchi (-Mo-) \[Insane\]](https://osu.ppy.sh/beatmaps/1352167)
+  - [Kajiura Yuki - Newday's News (Ikaros_F) \[Banana's Insane\]](https://osu.ppy.sh/beatmaps/343897)
+- HardRock
+  - [yuikonnu - Ai no Scenario (Guy) \[Insane\]](https://osu.ppy.sh/beatmaps/648072)
+  - [Cres - End Time (Kyshiro) \[Insane\]](https://osu.ppy.sh/beatmaps/432841)
+- DoubleTime
+  - [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmaps/625221)
+  - [Leona Lewis - My Hands (Suissie) \[Normie music\]](https://osu.ppy.sh/beatmaps/1614403)
+- FreeMod
+  - [Ryu* - Sakura Reflection (MYTK Remix) (Leader) \[Gamu's Another\]](https://osu.ppy.sh/beatmaps/651937)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Kaifin's Insane\]](https://osu.ppy.sh/beatmaps/1055343)
+  - [sakuzyo - Imprinting (Squigly) \[lfj's Insane\]](https://osu.ppy.sh/beatmaps/623835)
+- Tiebreaker
+  - [**Rita - Dream Walker (Vert) \[Zweib's Insane\]**](https://osu.ppy.sh/beatmaps/778244)
+
+### Qualifiers
+
+[**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
+
+- NoMod
+	- [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmaps/1773874)
+	- [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmaps/1261914)
+- Hidden
+	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmaps/1502635)
+- HardRock
+	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmaps/1477261)
+- DoubleTime
+	- [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmaps/1482857)
+  
+## osu!taiko
+
+### Round 1
+
+[**Download the mappack here! (70.6 MB)**](https://drive.google.com/open?id=1-fuc_xa9UchSMksyppyMGrv6SmaxBlxR)
+
+- NoMod
+  - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/750225)
+  - [Nekomata Gekidan - AsiaN distractive (TKS) \[Oni\]](https://osu.ppy.sh/beatmaps/1422144)
+  - [t+pazolite - Tomorrow Perfume (tpz Despair Remix) (Ayyri) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/961332)
+  - [Mitsuki Kotono - Fuyu ni Saku Hana (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/873934)
+  - [Cardboard Box - The Limit Does Not Exist (Grimbow) \[Nwolf's Muzukashii\]](https://osu.ppy.sh/beatmaps/1028148)
+  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Taiko Oni\]](https://osu.ppy.sh/beatmaps/160615)
+- Hidden
+  - [Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmaps/77233)
+  - [Maffalda - pensamento tipico de esquerda caviar (Blue Dragon) \[Oni\]](https://osu.ppy.sh/beatmaps/468992)
+- HardRock
+  - [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/821900)
+  - [KOTOKO - Koi Kou Enishi (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1034839)
+- DoubleTime
+  - [Marika - knowing  (Naotoshi) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1433486)
+  - [3L - Three Magic (cRyo[iceeicee]) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmaps/194913)
+- FreeMod
+  - [yuki. - Nadeshiko Sensation (hikikochan) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1181526)
+  - [KurousaP - Senbonzakura (Firce777) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/222209)
+  - [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1319575)
+- Tiebreaker
+  - [**Felt - Day after (Senritsu) \[Oni\]**](https://osu.ppy.sh/beatmaps/718430)
+	
+## osu!catch
+
+### Round 1
+
+[**Download the mappack here! (71.3 MB)**](https://drive.google.com/open?id=1cAF4v5ol0xxoRzEWMZPOi07HpBgGoreD)
+
+- NoMod
+  - [ChouCho - Yasashisa no Riyuu (Celerih) \[Rain\]](https://osu.ppy.sh/beatmaps/1450474)
+  - [Murasaki Hotaru - Re:TrymenT (AJamez) \[Rain\]](https://osu.ppy.sh/beatmaps/1667975)
+  - [JUN. K - love letter remix (Ollapeu) \[Rain\]](https://osu.ppy.sh/beatmaps/1300822)
+  - [Camellia - Fatest Crash (sukiNathan) \[Collab Insane\]](https://osu.ppy.sh/beatmaps/742728)
+  - [nameless - Milk Crown on Sonnetica (Milan-) \[Insane\]](https://osu.ppy.sh/beatmaps/1306748)
+  - [MomoKuro-tei Ichimon - Nippon Egao Hyakkei (TV Size) (Cxu) \[Egao\]](https://osu.ppy.sh/beatmaps/211154)
+- Hidden
+  - [Warak - Christmas Memories (Spectator) \[Memory\]](https://osu.ppy.sh/beatmaps/558986)
+  - [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmaps/1486886)
+  - [Ray - Hajimete Girls! (Pho) \[Pho's Very Hard\]](https://osu.ppy.sh/beatmaps/756285)
+- HardRock
+  - [Annabel - syncretism animesize ver (RoseusJaeger) \[Platter\]](https://osu.ppy.sh/beatmaps/1092279)
+  - [Komine Lisa - Resuscitated Hope -TVsize- (Ascendance) \[Fiance's Golden Sun\]](https://osu.ppy.sh/beatmaps/1252238)
+  - [07th Expansion - rog-unlimitation (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmaps/109644)
+- Hidden
+  - [Naruke Michiko - Bramble Blast (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmaps/1642777)
+  - [IOSYS - Marisa Tanked My Score With an Incredible Hand (ouranhshc) \[Insane\]](https://osu.ppy.sh/beatmaps/81781)
+  - [Linkin Park, Steve Aoki - A Light That Never Comes (pw384) \[HOS' Hard\]](https://osu.ppy.sh/beatmaps/1379541)
+- Tiebreaker
+  - [**Minase Mashiro - runaway (Halozy Mix) (JBHyperion) \[Hyperion's Lunatic\]**](https://osu.ppy.sh/beatmaps/1649785)
+
+### Qualifiers
+
+[**Download the mappack here! (23.2 MB)**](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)
+
+- NoMod
+  - [Y&Co. - Sweet Rain feat. Karin (alienflybot) \[Craving\]](https://osu.ppy.sh/beatmaps/1273038)
+  - [a\*ru - Kizuato (Benita) \[Scar\]](https://osu.ppy.sh/beatmaps/1414782)
+- Hidden
+  - [Hitomi Sato - Hakutai Forest (Spectator) \[Cheryl\]](https://osu.ppy.sh/beatmaps/746560)
+- HardRock
+  - [Akiko Shikata - Katayoku no Tori (Deif) \[Platter\]](https://osu.ppy.sh/beatmaps/708225)
+- DoubleTime
+  - [Camellia - Towards The Horizon (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmaps/1383647)
+
+## osu!mania 4K
+
+### Round of 16
+
+[**Download the mappack here! (57.4 MB)**](https://drive.google.com/open?id=1VqjJbqUJmnq4eS7vlHVQ0y36kMC77v5v)
+
+- FreeMod
+  - [NISH - Space Time (\_underjoy) \[4K Hyper\]](https://osu.ppy.sh/beatmaps/916523)
+  - [Krewella - Come & Get It (Nightcore Mix) (juankristal) \[Get it?\]](https://osu.ppy.sh/beatmaps/1460977)
+  - [mimimemeMIMI - Mr. Darling (ArcherLove) \[4K HD\]](https://osu.ppy.sh/beatmaps/1185979)
+  - [DJKurara - Japanese Transformation (XeoStyle) \[Medium\]](https://osu.ppy.sh/beatmaps/1115522)
+  - [Mafumafu feat. IA - Yuugure Semi Nikki (Adtw_) \[HD\]](https://osu.ppy.sh/beatmaps/732775)
+  - [Capcom Sound Team - Opening Stage (HaloSSB) \[4K LN\]](https://osu.ppy.sh/beatmaps/1821180)
+  - [TwoSetViolin - Pachelbel's Chicken (SurfChu85) \[bokbok\]](https://osu.ppy.sh/beatmaps/1711815)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[HARD\]](https://osu.ppy.sh/beatmaps/1224998)
+  - [Atik - Itz Mr. Grim (Schrodinger) \[Commando's Hard\]](https://osu.ppy.sh/beatmaps/1007135)
+  - [Hommarju - Warriors (short Ver.) (ALEFY) \[4K MX (Hard SV EDM Edition.)\]](https://osu.ppy.sh/beatmaps/824916)
+  - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmaps/400180)
+- Tiebreaker
+  - [**Camellia - crystallized (Oh pie) \[Citrine\]**](https://osu.ppy.sh/beatmaps/933381)
+
+### Qualifiers
+
+[**Download the mappack here! (12.7 MB)**](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)
+
+- FreeMod
+  - [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmaps/1817703)
+  - [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
+  - [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
+  - [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
+  
+## osu!mania 7K
+
+### Round 1
+
+[**Download the mappack here! (55.0 MB)**](https://drive.google.com/open?id=1ssqlFGFTVeh3pZ3ww7_E4qM1EGMZwXyX)
+
+- FreeMod
+  - [cosMo@BousouP - For UltraPlayers (AncuL) \[NOVICE\]](https://osu.ppy.sh/beatmaps/1547802)
+  - [Gloc 9 ft. JP Cuison Of Kiko Machine - Torpedo (arcwinolivirus) \[7K MX\]](https://osu.ppy.sh/beatmaps/345309)
+  - [Tatsumi Megumi featured by Sano Hiroaki - Itazura na tenshi to Christmas Eve (eyes) \[7K Hard\]](https://osu.ppy.sh/beatmaps/1451568)
+  - [PinocchioP - Mushroom Mother (redfire099) \[HD\]](https://osu.ppy.sh/beatmaps/682646)
+  - [Nanamori-chu\*Gorakubu - Acchu~ma Seishun! (Mage) \[silentch's Hard\]](https://osu.ppy.sh/beatmaps/1482558)
+  - [D.J.Nero - Joker (qodtjr) \[Hyper\]](https://osu.ppy.sh/beatmaps/965568)
+  - [Laurie Johnson - Happy Go Lively (kloi34) \[Normal\]](https://osu.ppy.sh/beatmaps/1795470)
+  - [Moe Shop - <3 (TheToaphster) \[Soul\]](https://osu.ppy.sh/beatmaps/1640374)
+  - [Tommy heavenly6 - PAPERMOON (Noxus) \[Kivi's 7K HD\]](https://osu.ppy.sh/beatmaps/1514239)
+  - [Avicii vs. Nicky Romero - I Could Be The One (Radio Edit) (LostGender) \[7K HD\]](https://osu.ppy.sh/beatmaps/472154)
+  - [Dan Salvato - Your Reality (SurfChu85) \[serendipity\]](https://osu.ppy.sh/beatmaps/1522921)
+- Tiebreaker
+  - [**Dimrain47 - Infernoplex (ExPew) \[HD\]**](https://osu.ppy.sh/beatmaps/443844)
+
+### Qualifiers
+
+[**Download the mappack here! (11.1 MB)**](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)
+
+- FreeMod
+  - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmaps/1825670)
+  - [chromonicci - Power. (Lenfried-) \[money.\]](https://osu.ppy.sh/beatmaps/1825644)
+  - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
+  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
 ------------------------
 
 ## Match Results
 
-*All match results will be added in this section.*
+### osu!standard
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1BzjHX5LnGZmYiwUdYCm21ifzKdaQrxqHkXTTHQUbWXo/edit?usp=sharing)
+
+### osu!catch
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1h1V8x2U586Tm0WHoAgbVC5bPF1DJpmLBtA91agj9jHk/edit?usp=sharing)
+
+### osu!mania 4K
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk/edit?usp=sharing)
+
+### osu!mania 7K
+
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing)
 
 ------------------------
 
@@ -198,11 +493,11 @@ Winners of their respective game mode will get a Profile badge.
 #### Match Format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - Match Weeks 1 and 2 - Best-of-9 (First to 5)
+  - Match Week 1 - Best-of-9 (First to 5)
+  - Match Week 2 - Best-of-11 (First to 6)
   - Match Week 3 - Best-of-11 (First to 6)
-  - Match Week 4 - Best-of-11 (First to 6)
+  - Match Week 4 - Best-of-13 (First to 7)
   - Match Week 5 - Best-of-13 (First to 7)
-  - Match Week 6 - Best-of-13 (First to 7)
 - For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.

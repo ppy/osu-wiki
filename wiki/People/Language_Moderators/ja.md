@@ -29,7 +29,7 @@ osu!に存在しているほとんどのチャットチャンネルに侵略し�
 | `#polish` | [Polski](https://osu.ppy.sh/forum/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/forum/74) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) |
 | `#romanian` | | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/forum/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) |
+| `#russian` | [Русский](https://osu.ppy.sh/forum/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436), ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/forum/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/forum/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/forum/54) | |
