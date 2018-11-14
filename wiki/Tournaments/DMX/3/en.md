@@ -61,6 +61,30 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 -----------------------
 
+## Participants
+
+| Seed | Members |
+| :-- | :-- |
+| Top | ![][flag_MY] [cheewee10](/users/4477497), ![][flag_PL] [SitekX](/users/3840946), ![][flag_TH] [MyZterioN-](/users/8521723), ![][flag_MY] [\[MY\]xRay](/users/8287005), ![][flag_GB] [xSnaggles](/users/3799946), ![][flag_AU] [Spartan-](/users/2145124), ![][flag_TH] [-\[DaNieL\_TH\]-](/users/6456531), ![][flag_US] [HeZeuS](/users/7387788) |
+| High | ![][flag_FI] [Camopoltergeist](/users/8132964), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_TH] [BossMadWolf](/users/2772110), ![][flag_CL] [WalterToro](/users/5281416), ![][flag_PL] [Kamikaze](/users/2124783), ![][flag_TH] [HowToPlayLN](/users/10879600), ![][flag_BE] [NightNarumi](/users/4381142), ![][flag_MY] [Kibitz](/users/7418493) |
+| Low | ![][flag_VE] [Edvo](/users/8301758), ![][flag_TH] [SharpKunG1412](/users/6535376), ![][flag_PL] [Arkitev](/users/6905790), ![][flag_CA] [Freeflow](/users/2777647), ![][flag_PL] [Hlimak](/users/1340272), ![][flag_US] [Laure](/users/4565218), ![][flag_IT] [CribobFangirl](/users/2727928), ![][flag_NL] [2fast4you98](/users/5183940) |
+| Unseeded | ![][flag_SE] [Craty](/users/3918056), ![][flag_IT] [-extradoge-](/users/9135468), ![][flag_FI] [princesswell](/users/4789005), ![][flag_IT] [Kiraz](/users/3807675), ![][flag_PH] [Shiyui-](/users/9374607), ![][flag_HK] [SamsonNote7](/users/10353103), ![][flag_DE] [Orange127](/users/10244236), ![][flag_FR] [ZayyKen](/users/8624433) |
+
+## Groups
+
+| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_TH] [-\[DaNieL\_TH\]-](/users/6456531) | ![][flag_FI] [Camopoltergeist](/users/8132964) | ![][flag_TH] [SharpKunG1412](/users/6535376) | ![][flag_SE] [Craty](/users/3918056) |
+| **B** | ![][flag_TH] [MyZterioN-](/users/8521723) | ![][flag_MY] [Kibitz](/users/7418493) | ![][flag_US] [Laure](/users/4565218) | ![][flag_IT] [-extradoge-](/users/9135468) |
+| **C** | ![][flag_US] [HeZeuS](/users/7387788) | ![][flag_TH] [BossMadWolf](/users/2772110) | ![][flag_CA] [Freeflow](/users/2777647) | ![][flag_FI] [princesswell](/users/4789005) |
+| **D** | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [Kamikaze](/users/2124783) | ![][flag_PL] [Hlimak](/users/1340272) | ![][flag_DE] [Orange127](/users/10244236) |
+| **E** | ![][flag_AU] [Spartan-](/users/2145124) | ![][flag_FR] [DemonWaves](/users/3909293) | ![][flag_NL] [2fast4you98](/users/5183940) | ![][flag_FR] [ZayyKen](/users/8624433) |
+| **F** | ![][flag_PL] [SitekX](/users/3840946) | ![][flag_CL] [WalterToro](/users/5281416) | ![][flag_PL] [Arkitev](/users/6905790) | ![][flag_PH] [Shiyui-](/users/9374607) |
+| **G** | ![][flag_MY] [cheewee10](/users/4477497) | ![][flag_TH] [HowToPlayLN](/users/10879600) | ![][flag_IT] [CribobFangirl](/users/2727928) | ![][flag_IT] [Kiraz](/users/3807675) |
+| **H** | ![][flag_MY] [\[MY\]xRay](/users/8287005) | ![][flag_BE] [NightNarumi](/users/4381142) | ![][flag_VE] [Edvo](/users/8301758) | ![][flag_HK] [SamsonNote7](/users/10353103) |
+
+-----------------------
+
 ## Match Schedules: Group Stage
 
 ### Friday, 16 November 2018
@@ -108,9 +132,9 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 | E2 | ZayyKen | ![][flag_FR] | ![][flag_AU] | Spartan- | **10:00 UTC** |
 | E3 | Spartan- | ![][flag_AU] | ![][flag_FR] | DemonWaves | **11:00 UTC** |
 | F2 | Shiyui- | ![][flag_PH] | ![][flag_PL] | SitekX | **11:00 UTC** |
-| G3 | cheewe10 | ![][flag_MY] | ![][flag_TH] | HowToPlayLN | **11:00 UTC** |
+| G3 | cheewee10 | ![][flag_MY] | ![][flag_TH] | HowToPlayLN | **11:00 UTC** |
 | H3 | \[MY\]xRay | ![][flag_MY] | ![][flag_BE] | NightNarumi | **11:00 UTC** |
-| G2 | Kiraz | ![][flag_IT] | ![][flag_MY] | cheewe10 | **12:00 UTC** |
+| G2 | Kiraz | ![][flag_IT] | ![][flag_MY] | cheewee10 | **12:00 UTC** |
 | D2 | Orange127 | ![][flag_DE] | ![][flag_GB] | xSnaggles | **13:00 UTC** |
 | E1 | DemonWaves | ![][flag_FR] | ![][flag_NL] | 2fast4you98 | **13:00 UTC** |
 | G1 | HowToPlayLN | ![][flag_TH] | ![][flag_IT] | CribobFangirl | **14:00 UTC** |
@@ -124,7 +148,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 | Match ID | Player A |  |  | Player B | Match Time |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | G5 | Kiraz | ![][flag_IT] | ![][flag_TH] | HowToPlayLN | **10:00 UTC** |
-| G6 | CribobFangirl | ![][flag_IT] | ![][flag_MY] | cheewe10 | **10:00 UTC** |
+| G6 | CribobFangirl | ![][flag_IT] | ![][flag_MY] | cheewee10 | **10:00 UTC** |
 | H5 | SamsonNote7 | ![][flag_HK] | ![][flag_BE] | NightNarumi | **10:00 UTC** |
 | F4 | Arkitev | ![][flag_PL] | ![][flag_PH] | Shiyui- | **11:00 UTC** |
 | E6 | 2fast4you98 | ![][flag_NL] | ![][flag_AU] | Spartan- | **12:00 UTC** |
@@ -136,28 +160,6 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 | G4 | CribobFangirl | ![][flag_IT] | ![][flag_IT] | Kiraz | **15:00 UTC** |
 
 -----------------------
-
-## Participants
-
-| Seed | Members |
-| :-- | :-- |
-| Top | ![][flag_MY] [cheewe10](/users/4477497), ![][flag_PL] [SitekX](/users/3840946), ![][flag_TH] [MyZterioN-](/users/8521723), ![][flag_MY] [\[MY\]xRay](/users/8287005), ![][flag_GB] [xSnaggles](/users/3799946), ![][flag_AU] [Spartan-](/users/2145124), ![][flag_TH] [-\[DaNieL\_TH\]-](/users/6456531), ![][flag_US] [HeZeuS](/users/7387788) |
-| High | ![][flag_FI] [Camopoltergeist](/users/8132964), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_TH] [BossMadWolf](/users/2772110), ![][flag_CL] [WalterToro](/users/5281416), ![][flag_PL] [Kamikaze](/users/2124783), ![][flag_TH] [HowToPlayLN](/users/10879600), ![][flag_BE] [NightNarumi](/users/4381142), ![][flag_MY] [Kibitz](/users/7418493) |
-| Low | ![][flag_VE] [Edvo](/users/8301758), ![][flag_TH] [SharpKunG1412](/users/6535376), ![][flag_PL] [Arkitev](/users/6905790), ![][flag_CA] [Freeflow](/users/2777647), ![][flag_PL] [Hlimak](/users/1340272), ![][flag_US] [Laure](/users/4565218), ![][flag_IT] [CribobFangirl](/users/2727928), ![][flag_NL] [2fast4you98](/users/5183940) |
-| Unseeded | ![][flag_SE] [Craty](/users/3918056), ![][flag_IT] [-extradoge-](/users/9135468), ![][flag_FI] [princesswell](/users/4789005), ![][flag_IT] [Kiraz](/users/3807675), ![][flag_PH] [Shiyui-](/users/9374607), ![][flag_HK] [SamsonNote7](/users/10353103), ![][flag_DE] [Orange127](/users/10244236), ![][flag_FR] [ZayyKen](/users/8624433) |
-
-## Groups
-
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TH] [-\[DaNieL\_TH\]-](/users/6456531) | ![][flag_FI] [Camopoltergeist](/users/8132964) | ![][flag_TH] [SharpKunG1412](/users/6535376) | ![][flag_SE] [Craty](/users/3918056) |
-| **B** | ![][flag_TH] [MyZterioN-](/users/8521723) | ![][flag_MY] [Kibitz](/users/7418493) | ![][flag_US] [Laure](/users/4565218) | ![][flag_IT] [-extradoge-](/users/9135468) |
-| **C** | ![][flag_US] [HeZeuS](/users/7387788) | ![][flag_TH] [BossMadWolf](/users/2772110) | ![][flag_CA] [Freeflow](/users/2777647) | ![][flag_FI] [princesswell](/users/4789005) |
-| **D** | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [Kamikaze](/users/2124783) | ![][flag_PL] [Hlimak](/users/1340272) | ![][flag_DE] [Orange127](/users/10244236) |
-| **E** | ![][flag_AU] [Spartan-](/users/2145124) | ![][flag_FR] [DemonWaves](/users/3909293) | ![][flag_NL] [2fast4you98](/users/5183940) | ![][flag_FR] [ZayyKen](/users/8624433) |
-| **F** | ![][flag_PL] [SitekX](/users/3840946) | ![][flag_CL] [WalterToro](/users/5281416) | ![][flag_PL] [Arkitev](/users/6905790) | ![][flag_PH] [Shiyui-](/users/9374607) |
-| **G** | ![][flag_MY] [cheewe10](/users/4477497) | ![][flag_TH] [HowToPlayLN](/users/10879600) | ![][flag_IT] [CribobFangirl](/users/2727928) | ![][flag_IT] [Kiraz](/users/3807675) |
-| **H** | ![][flag_MY] [\[MY\]xRay](/users/8287005) | ![][flag_BE] [NightNarumi](/users/4381142) | ![][flag_VE] [Edvo](/users/8301758) | ![][flag_HK] [SamsonNote7](/users/10353103) |
 
 ## Mappools
 
