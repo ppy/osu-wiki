@@ -7,7 +7,7 @@ AiMod aims to help beginner mappers "mod" their beatmaps. The limitation of AiMo
 
 ![AiMod](AiMod.jpg "AiMod is usually your first modder")
 
-AiMod typically completes its beatmap analysis in under a minute and subsequently displays warnings and errors. If "No problems were found in this map!"… Then congratulations! The beatmap passed the AiMod "modding" but still require modding from a proper modder. The modders can find hidden issues than AiMod failed to detect.
+AiMod typically completes its beatmap analysis in under a minute and subsequently displays warnings and errors. If "No problems were found in this map!"… Then congratulations! The beatmap passed the AiMod "modding" but still require modding from a proper modder. The modders can find hidden issues that AiMod failed to detect.
 
 Tabs
 ----
