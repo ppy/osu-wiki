@@ -89,6 +89,9 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**,  [Doomsday](https://osu.ppy.sh/users/18983), [OPJames](https://osu.ppy.sh/users/4117142), [Spare](https://osu.ppy.sh/users/2204373), [MoeYandere](https://osu.ppy.sh/users/2565902), [SoraRoxas01](https://osu.ppy.sh/users/1986262), [Karthy](https://osu.ppy.sh/users/4196808), [Jameslike](https://osu.ppy.sh/users/2415743)|
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [Toy](https://osu.ppy.sh/users/2757689), [Monko2k](https://osu.ppy.sh/users/4852013), [fieryrage](https://osu.ppy.sh/users/3533958), [DigitalHypno](https://osu.ppy.sh/users/4384207), [Vaxei](https://osu.ppy.sh/users/4787150), [he rack](https://osu.ppy.sh/users/2644828), [idke](https://osu.ppy.sh/users/4650315) |
 
+------------------------------------------------------------------------
+
+![Double Elimination bracket](img/bracket.png)
 
 ------------------------------------------------------------------------
 
@@ -98,16 +101,16 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_RO] | Romania | **10:00 UTC** | 21:00 UTC+11 | 12:00 UTC+02 |
 | Japan | ![][flag_JP] | ![][flag_DE] | Germany | **11:30 UTC** | 20:30 UTC+09 | 12:30 UTC+01 |
 | Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **13:00 UTC** | 21:00 UTC+08 | 22:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **15:00 UTC** | 23:00 UTC+08 | 12:00 UTC-03 |
 
 ### Sunday, 18. November 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **2:00 UTC** | 10:00 UTC+08 | 23:00 (Sat) UTC-03 |
 | China | ![][flag_CN] | ![][flag_US] | United States | **3:30 UTC** | 11:30 UTC+08 | 23:30 (Sat) UTC-04 |
+| Australia | ![][flag_AU] | ![][flag_RO] | Romania | **11:30 UTC** | 22:30 UTC+11 | 13:30 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_DK] | Denmark | **13:00 UTC** | 14:00 UTC+01 | 14:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_NL] | Netherlands | **14:30 UTC** | 14:30 UTC | 15:30 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **16:00 UTC** | 21:00 UTC+05 | 12:00 UTC-04 |
