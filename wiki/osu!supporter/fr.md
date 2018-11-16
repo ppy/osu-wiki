@@ -1,66 +1,56 @@
----
-outdated: true
----
-![Badge du osu!supporter](Supporter tag.png "fig:Badge du osu!supporter") osu! est un jeu ne se basant que sur les dons de ses joueurs. Le badge de "**osu!supporter**" est ainsi distribué aux joueurs ayant participé à son financement et ce pour une période déterminée par le montant donné.
+# osu!supporter
 
-Avantages
-=========
+*Pour la page osu!supporter depuis osu!web, veuillez voir [supporter le jeu](/home/support).*
 
-Les osu!supporters bénéficient de nombreux avantages :
+![Boutton d'osu!supporter](img/signed-out-home.png "Bouton d'osu!supporter sur la page d'accueil lorsque vous vous déconnectez")
 
--   osu!direct (téléchargeur de beatmaps intégré au jeu)
--   osu!cuttingedge (version expérimentale d'osu!)
--   Pseudo doré dans le chat
--   Les éléments graphiques suivants des [skins](FR:Skinning "wikilink") deviennent modifiables :
-    -   `menu-background.jpg` (fond d'écran du menu principal)
-    -   `matchsetup-background.png` (fond d'écran du menu Multijoueur)
-    -   `search-background.png` (fond d'écran du menu osu!direct)
--   Possibilité d'afficher uniquement les beatmaps déjà jouées dans la [liste des beatmaps](https://osu.ppy.sh/p/beatmaplist)
--   2 votes bonus par mois au lieu de 1 dans la section [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4) du forum
--   Page personnelle rajoutée au-dessus de votre profil. Notez qu'elle **ne sera pas supprimée** une fois votre badge osu!supporter expiré
--   Possibilité de changer votre pseudo (une fois seulement)
--   Possibilité d'envoyer plus de beatmaps (augmentation à un maximum de 10)
--   Accès à des [classements](https://osu.ppy.sh/p/pp) avancés :
-    -   Des amis
-    -   National
-    -   Général filtré par mods
--   *D'autres bonus sont à venir.*
+## Avantages
 
-Souscription
-============
+*Pour une liste des goodies d'osu!supporter, veuillez voir [supportez le jeu](/home/support).*
 
-La souscription au statut de supporter se fait [sur cette page](https://osu.ppy.sh/p/support).
+En général, en achetant le tag d'osu!supporter, vous soutenez directement le développement du jeu tout en obtenant quelques goodies supplémentaires. Il faut noter que les fonctionnalités supplémentaires d'osu!supporter n'affecteront jamais le gameplay, la performance ou le score à votre avantage d'une quelconque façon.
 
-Coût
-----
+## Obtenir osu!supporter
 
-[Utilisez ce convertisseur d'unités](http://www.oanda.com/currency/converter/) ou [demandez à Google](https://www.google.com.my/#q=10$+en+euros) pour connaître le prix dans votre monnaie. Ce dernier est exprimé en dollars US ($USD) par défaut. <img src="O!s Decide.jpg" title="fig:Un exemple" alt="Un exemple" width="300" />
+![osu!store product banner](img/store-product.jpg "osu!supporter product banner from the osu!store")
 
-| Mois | Coût ($)      | Coût approximatif (€, au 10/06/2014) |
-|------|---------------|--------------------------------------|
-| 1    | 4             | | 2.95                               |
-| 2    | 8             | | 5.90                               |
-| 4    | 12 (-25%)     | | 8.85                               |
-| 6    | 16 (-33%)     | | 11.81                              |
-| 8    | 20 (-38%)     | | 14.76                              |
-| 9    | 22 (-39%)     | | 16.23                              |
-| 10   | 24 (-40%)     | 17.71                                |
-| 12   | 26 (-46% max) | | 19.19                              |
-| 24   | 52 (-46% max) | | 38.38                              |
+To get osu!supporter, sign in (or [sign up](/wiki/sign_up)), then go to the [store page](/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
 
-Les prix sont les mêmes pour tous les groupes d'utilisateurs. Il n'y a pas de promotion supplémentaire.
+### Selecting the duration
 
-Choix des bénéficiaires
------------------------
+![Buying osu!supporter](img/selecting-duration.jpg "Selecting the user and duration for osu!supporter")
 
-Par défaut, le statut vous est attribué. Si vous ne souhaitez pas devenir osu!supporter et que vous préférez l'offrir à quelqu'un d'autre, cliquez sur "Gift another player" et saisissez le nom de son compte. Si vous souhaitez en offrir à d'autres joueurs, cliquez sur "Add another tag" près du bouton "Checkout". Après avoir validé les comptes, faites défiler le curseur sur chaque compte pour déterminer le temps durant lequel le joueur sera osu!supporter et combien vous allez payer au total. Vous pouvez choisir différents montants pour les différents comptes. Après avoir vérifié le montant et les comptes, cliquez sur "Checkout".
+The usercard displayed above the slider is the user you are buying osu!supporter for. By default, it should be your usercard. To gift to a friend, enter your friend's username (not user ID) into the grey box below the usercard. Once this is done, the usercard will change to match the username you had entered. From here, you can then select the duration of osu!supporter you want to gift, but keep in mind that there is no promotion for group gifting.
 
-Paiement
---------
+You can only buy or gift osu!supporter to one user at a time within this screen. To gift another user, you will need to go back to the [osu!supporter store page](/store/products/supporter-tag) and repeat the steps for adding another user.
 
-Vous disposez de plusieurs moyens de paiement. Il est recommandé d'utiliser [PayPal](https://www.paypal.com) ou les services de carte de crédit. Il existe d'autres moyens de paiement tels que les SMS (micropaiement) ou d'autres services tels que [paysafecard](https://www.paysafecard.com/fr-fr/), mais des charges additionnelles pourraient s'ajouter au prix. Notez que si vous payez moins que le coût total, vous ne recevrez pas vos badges.
+### Checking out
 
-Confirmation
-------------
+Once you are done, click `Add to Cart` to put it into the osu!store shopping cart.
 
-<img src="O!s Duration.jpg" title="fig:Comparaison entre un osu!supporter et un joueur standard." alt="Comparaison entre un osu!supporter et un joueur standard." width="200" /> Une fois votre transaction effectuée, votre profil indiquera dans vos activités récentes "(Votre pseudo) est devenu un osu!supporter - merci de votre générosité !" s'il s'agit de la première fois que vous devenez osu!supporter, sinon il affichera "(Votre pseudo) a une fois de plus choisi de faire un don au projet osu! - merci de votre générosité !". Si vous vous êtes acheté le badge osu!supporter, celui-ci apparaîtra sous votre image de profil. Pour savoir lorsque votre badge expirera, consultez [la même page](https://osu.ppy.sh/p/support) que celle où vous l'avez acheté.
+![osu!store shopping cart](img/shopping-cart.jpg "osu!store shopping cart with osu!supporter for flyte")
+
+When you are ready to make the purchase, go to your [shopping cart](/store/cart) and click `Checkout`. Then follow the prompts to make your payment.
+
+## Conclusion
+
+After the transaction is completed, the Recent Activity section in your account (if you had brought it your self) or the accounts you have gifted will say:
+
+- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
+- `{username} has once again chosen to donate to the osu! cause - thanks for your generosity!` if the account has been an osu!supporter before.
+
+### Userpage and usercard
+
+![Userpage with osu!supporter](img/userpage.jpg "Userpage with osu!supporter")
+
+![Usercard with osu!supporter](img/usercard.png "Usercard with osu!supporter")
+
+On the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
+
+### Checking your support status
+
+![osu!supporter tag with three months remaining](img/status.jpg "Three months left of osu!supporter tag")
+
+*Note: This section is only shown after you obtain osu!supporter.*
+
+To check your remaining osu!supporter tag status and total contributions and tag purchases, go to the [support the game](/home/support) page and scroll down to see a section similar as pictured above. 
