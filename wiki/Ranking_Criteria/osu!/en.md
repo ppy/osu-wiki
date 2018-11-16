@@ -162,7 +162,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 
 #### Rules
 
--  **Objects 1/2 of a beat apart or less must not overlap perfectly.**
+-  **Objects 1/2 of a beat apart or less must not overlap perfectly.** Slider heads or tails perfectly overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 
 #### Guidelines
 
