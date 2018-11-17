@@ -51,6 +51,6 @@ Don't forget to adjust the cropping to remove the black control panel from the s
 
 ## My issue/question is not listed here! What to do?
 
-Make sure that osu! is not run as administrator, unless it asked for it on its own, and that it is updated to the newest CuttingEdge build.
+Make sure that osu! is not run as administrator, unless it asked for it on its own, and that it is up-to-date.
 
 Email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
