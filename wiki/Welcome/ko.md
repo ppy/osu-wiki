@@ -2,7 +2,7 @@
 
 osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미를 클릭하는 시뮬레이터인 osu!standard, 드럼 에뮬레이터 osu!taiko, 과일 샐러드를 받아내는 osu!catch, 키보드 부수기의 달인 osu!mania의 네 가지 게임 모드를 가지고 있는 무료 리듬게임입니다.
 
-## 다들 관심있어 하는 부분들
+## 관심있는 콘텐츠
 
 - [게임 설치](/wiki/Installation)
 - [회원가입](/wiki/Registration)
@@ -42,8 +42,8 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
 
 스킨 제작은 누구나 osu!의 겉모습 또는 느낌을 바꿀 수 있게 해 줍니다. 이 작업은 커서를 바꾸는 것만큼 작을 수도 있고, 모든 게임 모드와 인터페이스 전체의 겉모습을 갈아치울 만큼 커다랄 수도 있습니다.
 
-## osu! wiki - 어떻게 도와드릴까요!
+## osu! wiki - 어떻게 도와드릴 수 있나요!
 
 2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이 크게 바뀌었습니다. 모든 기여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 통과하여 osu!wiki에 승인받고 등재되기 전에 검토를 받습니다.
 
-시작하려면, [osu! wiki 기여 지침](/wiki/owcg)을 읽어주세요.
+시작하려면, [osu! wiki 기여 가이드](/wiki/owcg)을 읽어주세요.
