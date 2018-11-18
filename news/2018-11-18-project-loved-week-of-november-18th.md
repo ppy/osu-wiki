@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of November 18th"
-date: 2018-11-18 21:00:00 +0000
+date: 2018-11-18 20:00:00 +0000
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) opens its bi-weekly polls once again, letting *you* decide which maps are put into the Loved category! Vote for your favourite maps here!
