@@ -141,7 +141,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 
 | Nama                                                  | Tambahan Bahasa          |
 |-------------------------------------------------------|--------------------------|
-| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish                  |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish, Portuguese, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
@@ -151,7 +151,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
-| [Yales](https://osu.ppy.sh/users/2377881)             | French                   |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
 
 ### osu!catch
 
