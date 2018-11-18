@@ -126,7 +126,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 
 | İsim                                                  | Ek diller                |
 |-------------------------------------------------------|--------------------------|
-| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish                  |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
@@ -136,7 +136,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
-| [Yales](https://osu.ppy.sh/users/2377881)             | French                   |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
 
 ### osu!catch
 
