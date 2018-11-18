@@ -123,7 +123,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 
 | Nombre                                                | Lenguajes adicionales    |
 |-------------------------------------------------------|--------------------------|
-| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Español                  |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Japonés|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chino                    |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | Alemán                   |
@@ -133,7 +133,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesio                |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japonés                  |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesio                |
-| [Yales](https://osu.ppy.sh/users/2377881)             | Francés                  |
+| [Yales](https://osu.ppy.sh/users/2377881)             | Francés, Japonés         |
 
 ### osu!catch
 
