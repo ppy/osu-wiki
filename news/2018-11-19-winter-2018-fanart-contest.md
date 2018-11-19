@@ -4,7 +4,7 @@ title: "Winter 2018 Fanart Contest"
 date: 2018-11-19 05:00:00 +0000
 ---
 
-The year might be drawing to a close, but that doesn't mean it's time to close your drawings! Draw any of the osu! official or community mascots for fun and glory, and maybe even see your piece in the game client over the holidays!
+The year might be drawing to a close, but that doesn't mean it's time to close your drawings! Draw any of the osu! official or community mascots enjoying winter for fun and glory, and maybe even see your piece in the game client over the holidays!
 
 [![](https://assets.ppy.sh/contests/73/header.jpg)](https://osu.ppy.sh/community/contests/73)
 
