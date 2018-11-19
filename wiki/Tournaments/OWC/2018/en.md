@@ -95,29 +95,55 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 17. November 2018
+### Saturday, 24. November 2018
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_DE] | Germany | **11:30 UTC** | 20:30 UTC+09 | 12:30 UTC+01 |
-| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **13:00 UTC** | 21:00 UTC+08 | 22:00 UTC+09 |
-| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **15:00 UTC** | 23:00 UTC+08 | 12:00 UTC-03 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | **11:30 UTC** | 20:30 UTC+09 | 19:30 UTC+08 |
+| Norway | ![][flag_NO] | ![][flag_JP] | Japan | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 |
 
-### Sunday, 18. November 2018
+### Sunday, 25. November 2018
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_US] | United States | **3:30 UTC** | 11:30 UTC+08 | 23:30 (Sat) UTC-04 |
-| Australia | ![][flag_AU] | ![][flag_RO] | Romania | **11:30 UTC** | 22:30 UTC+11 | 13:30 UTC+02 |
-| Norway | ![][flag_NO] | ![][flag_DK] | Denmark | **13:00 UTC** | 14:00 UTC+01 | 14:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_NL] | Netherlands | **14:30 UTC** | 14:30 UTC | 15:30 UTC+01 |
-| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **16:00 UTC** | 21:00 UTC+05 | 12:00 UTC-04 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **2:00 UTC** | 21:00 (Sat) UTC-05 | 13:00 UTC+11 |
+| Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3:30 UTC** | 11:30 UTC+08 | 22:30 (Sat) UTC-05 |
+| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Russian Federation | ![][flag_RU] | ![][flag_RO] | Romania | **14:30 UTC** | 19:30 UTC+05 | 16:30 UTC+02 |
+| Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **17:30 UTC** | 17:30 UTC | 14:30 UTC-03 |
 
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+	- [xi - Aragami \(Sayaka-\) \[Death\]](https://osu.ppy.sh/beatmapsets/225377#osu/526757)
+	- [TrySail - High Free Spirits \(Vert\) \[Haifuri\]](https://osu.ppy.sh/beatmapsets/455011#osu/975385)
+	- [YURRY CANON - Nadeshiko color Heart \(kwk\) \[Saturnalize's Extra\]](https://osu.ppy.sh/beatmapsets/682996#osu/1463294)
+	- [Memme - Pandemonium \(sdafsf\) \[Neil's Extra: #6\]](https://osu.ppy.sh/beatmapsets/734190#osu/1575929)
+- Hidden
+	- [MYTH & ROID - Paradisus-Paradoxum \(Cellina\) \[Curi's Extreme\]](https://osu.ppy.sh/beatmapsets/510183#osu/1113057)
+	- [Camellia - Introduction - ENTRANS OF DA JUNGLE \(-PC\) \[Welcome to the Jungle\]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
+	- [SHK - Identity Part III \(ktgster\) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
+- HardRock
+	- [Eiko Shimamiya - Higurashi no Naku Koro ni \(Okorin\) \[Onikakushi\]](https://osu.ppy.sh/beatmapsets/333543#osu/764014)
+	- [TOTTO - Wadatsumi \(Desperate-kun\) \[Snaggle's Insane\]](https://osu.ppy.sh/beatmapsets/351828#osu/775365)
+	- [dj TAKA - Hollywood Galaxy \(Megurine Luka\) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
+- DoubleTime
+	- [Nightwish - Bye Bye Beautiful \(neonat\) \[Shiro's Insane\]](https://osu.ppy.sh/beatmapsets/133884#osu/372326)
+	- [senya - Saihate no Kotoba \(Satellite\) \[Ghostly\]](https://osu.ppy.sh/beatmapsets/174417#osu/905424)
+	- [REDALiCE - Selfish \(happy30\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#osu/105531)
+- FreeMod
+	- [JUNNA - Here \(Mirash\) \[Extra\]](https://osu.ppy.sh/beatmapsets/737103#osu/1555562)
+	- [Renard - TU4AR \(Mercurius\) \[Nogard\]](https://osu.ppy.sh/beatmapsets/28997#osu/97934)
+	- [Ito Kashitaro x Lon - Soushi Sou Ai \(Anishina Kodoku\) \[Tatemae\]](https://osu.ppy.sh/beatmapsets/669776#osu/1647044)
+- TieBreaker
+	- **[TRakker - Countdown to the Blue \(Lasse\) \[Dusk\]](https://osu.ppy.sh/beatmapsets/614248#osu/1295837)**
 
 ### Round of 16
 
@@ -174,6 +200,22 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2018-11-11 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 6 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47484224) |
+| Taiwan ![][flag_TW] | 6 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47486476) |
+| Hong Kong ![][flag_HK] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47489590) |
+
+| Sunday, 2018-11-18 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 0 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47507818) |
+| Australia ![][flag_AU] | 6 | 3 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47514469) |
+| Norway ![][flag_NO] | 6 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47516309) |
+| United Kingdom ![][flag_GB] | 6 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
+| Russian Federation ![][flag_RU] | 3 | 6 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47521221) |
 
 ### Group Stage
 
