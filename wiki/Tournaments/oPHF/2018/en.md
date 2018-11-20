@@ -487,8 +487,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 | | 
 | 9 | **-Onoya An** | **5** | 3 | Liquicidize | 24 | | 
 | 4 | **Stereo** | **5** | 0 | IsseiKun | 29 | | 
-| 13 | -PJ- | 0 | **5** | **- CrossX -** | 20 | WBD | 
-| 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | WBD | 
+| 13 | -PJ- | 0 | **5** | **- CrossX -** | 20 | -win by default- | 
+| 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | -win by default- | 
 | 12 | Umuuu | 0 | **5** | **ArtillerySenpai** | 21 |  | 
 | 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 | | 
 | 15 | Kaneko Akiraie | 2 | **5** | **[Vik]** | 18 | | 
