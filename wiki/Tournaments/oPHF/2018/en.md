@@ -195,8 +195,8 @@ Winners of their respective game mode will get a Profile badge.
   - [Monkey Majik + Yoshida Brothers - Change (Breeze) \[Insane\]](https://osu.ppy.sh/beatmaps/201846)
   - [AYA - OVER NIGHT (IceBeam) \[Hard\]](https://osu.ppy.sh/beatmaps/131252)
 - FreeMod
-  - [capitaro - Koihagara no Kassen (Zero__wind) \[Insane\]](https://osu.ppy.sh/beatmaps/1148492)
-  - [Kanou Mari - Hakuchou no Mizuumi ~still a duckling~ (banvi) \[Insane\]](https://osu.ppy.sh/beatmaps/96138)
+  - [capitaro - Koihagara no Kassen (Zero\_\_wind) \[Insane\]](https://osu.ppy.sh/beatmaps/1148492)
+  - [Kanou Mari - Hakuchou no Mizuumi \~still a duckling\~ (banvi) \[Insane\]](https://osu.ppy.sh/beatmaps/96138)
   - [Tatsh - HEAVENLY MOON (Jenny) \[Hyper v2\]](https://osu.ppy.sh/beatmaps/778231)
 - Tiebreaker
   - [**Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Kamio Misuzu) \[Moon\]**](https://osu.ppy.sh/beatmaps/532958)
@@ -222,7 +222,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmaps/625221)
   - [Leona Lewis - My Hands (Suissie) \[Normie music\]](https://osu.ppy.sh/beatmaps/1614403)
 - FreeMod
-  - [Ryu* - Sakura Reflection (MYTK Remix) (Leader) \[Gamu's Another\]](https://osu.ppy.sh/beatmaps/651937)
+  - [Ryu\* - Sakura Reflection (MYTK Remix) (Leader) \[Gamu's Another\]](https://osu.ppy.sh/beatmaps/651937)
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Kaifin's Insane\]](https://osu.ppy.sh/beatmaps/1055343)
   - [sakuzyo - Imprinting (Squigly) \[lfj's Insane\]](https://osu.ppy.sh/beatmaps/623835)
 - Tiebreaker
@@ -307,7 +307,7 @@ Winners of their respective game mode will get a Profile badge.
 - NoMod
   - [\*namirin - closing eyes (pishifat) \[Expert\]](https://osu.ppy.sh/beatmaps/1415946)
   - [BlackYooh vs. siromaru - BLACK or WHITE? (Kuzino) \[Kuzino's EXHAUST\]](https://osu.ppy.sh/beatmaps/1082172)
-  - [CINDERELLA PROJECT - M@GIC* (Spectator) \[MASTER\]](https://osu.ppy.sh/beatmaps/856816)
+  - [CINDERELLA PROJECT - M@GIC\* (Spectator) \[MASTER\]](https://osu.ppy.sh/beatmaps/856816)
   - [cYsmix - Moonlight Sonata (Okorin) \[Extra\]](https://osu.ppy.sh/beatmaps/1037478)
   - [Lindsey Stirling - Senbonzakura (Benita) \[Nana's Rain\]](https://osu.ppy.sh/beatmapsets/773136)
   - [CLIFF EDGE feat. Nakamura Maiko - The Distance (Ascendance) \[Smile\]](https://osu.ppy.sh/beatmaps/1053163)
