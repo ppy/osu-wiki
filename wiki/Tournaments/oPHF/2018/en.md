@@ -181,7 +181,7 @@ Winners of their respective game mode will get a Profile badge.
 - NoMod
   - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Yohanes) \[Indo-Russia Bilateral\]](https://osu.ppy.sh/beatmaps/1777144)
   - [RADWIMPS - Bouningen (Monstrata) \[Hollow\]](https://osu.ppy.sh/beatmaps/1749734)
-  - [Ayatsugu_Otowa - Goldelius (Rokkea) \[Insane\]](https://osu.ppy.sh/beatmaps/1413981)
+  - [Ayatsugu\_Otowa - Goldelius (Rokkea) \[Insane\]](https://osu.ppy.sh/beatmaps/1413981)
   - [OSTER project - Devilz Sacrifice -Shokuzai no Hitsuji- (apaffy) \[Another\]](https://osu.ppy.sh/beatmaps/387158)
   - [syrela - Pulsation (Lasse) \[Expert\]](https://osu.ppy.sh/beatmaps/1433497)
   - [DJ TOTTO - Crystalia (6th) \[Left's Insane\]](https://osu.ppy.sh/beatmaps/1047137)
@@ -481,7 +481,7 @@ Winners of their respective game mode will get a Profile badge.
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxQBHVfiVOXY9-vZgGyK0zEvtI20r0Ur1E_rPZBFvi9kcmiWG178l0-bosMDtxAZuusMBzfNgCYDUq/pubhtml)
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
-|:---:|:---|:---:|:---:|---:|:---:|---| 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
 | 1 | **ededed028** | **5** | 0 | Karma Jun | 32   | | 
 | 16 | **Xidorn** | **5** | 1 | Aharu | 17   | | 
 | 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 | | 
@@ -510,9 +510,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6ne_1IxAq-Va7oDzjiheKRA4yR_VrqZwoELsxDwjfmX-rbWmicuQ5d4QbcEe815vfiiqLarUixW4y/pubhtml)
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
-|:---:|:---|:---:|:---:|---:|:---:|---|  
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
 | 4 | **Silhoueska Elze** | **6** | 1 | \[\_\_\_\_\_\_\] | 5 | | 
-| 3 | **yuki_momoiro722** | **6** | 0 | Keishii | 6 | WBD | 
+| 3 | **yuki_momoiro722** | **6** | 0 | Keishii | 6 | -win by default- | 
 
 ### osu!catch
 
@@ -521,11 +521,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz61aUu8gQI6SkbeygetWFWAkrSZABgbD70Da6tLPbW_Sx0rmBAOcNNt6afjyLEJ9QgCp0nfvVneu3/pubhtml)
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
-|:---:|:---|:---:|:---:|---:|:---:|---|  
+| :-: | :-- | :-: | :-: | --: | :-: | :-: |   
 | 8 | **Loreal** | 4 | **5** | **- Kielzu -** | 9 | | 
-| 5 | **Kuya Frex** | **5** | 0 | Keishii | 12 | WBD | 
+| 5 | **Kuya Frex** | **5** | 0 | Keishii | 12 | -win by default- | 
 | 7 | **Lobsterr** | **5** | 1 | AJ1703 | 10 | | 
-| 6 | Laqure | 0 | **5** | **johnneijzen1** | 11 | WBD | 
+| 6 | Laqure | 0 | **5** | **johnneijzen1** | 11 | -win by default- | 
 
 #### Qualifiers
 
@@ -538,10 +538,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaId6g7d0Rr6UaAkteob2zggYO8tTgjuRJq0xHRCOPpQo_gOTTSs3m2YPscsbawlNhxv3fUVFQxomU/pubhtml)
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
-|:---:|:---|:---:|:---:|---:|:---:|---|  
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
 | 1 | **arge-** | **5** | 0 | partycarft30 | 16 | | 
-| 8 | Edison | 0 | **5** | **Andrei--** | 9    | WBD | 
-| 4 | **Ikisouu** | **5** | 0 | Izayoi-san- | 13 | WBD | 
+| 8 | Edison | 0 | **5** | **Andrei--** | 9    | -win by default- | 
+| 4 | **Ikisouu** | **5** | 0 | Izayoi-san- | 13 | -win by default- | 
 | 5 | **Shiyui-** | **5** | 0 | Suravur | 12 | | 
 | 2 | **Baltz** | **5** | 0 | hikaruXD19 | 15 | | 
 | 7 | Batujitsu | **5** | 1 | Inoariusu | 10 | | 
@@ -559,9 +559,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhVuw3v01xpEBje5ThPQ96jlvGU-1XY7eO2g57GRd9lr_LNwNsGahh6T46u4uvnD5Tm6WmUymKkzK/pubhtml)
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
-|:---:|:---|:---:|:---:|---:|:---:|---|  
-| 8 | **kei101895** | **5** | 0 | Keishii | 9 | WBD | 
-| 7 | LackPoints | 0 | **5** | **Shawntell** | 10 | WBD | 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
+| 8 | **kei101895** | **5** | 0 | Keishii | 9 | -win by default- | 
+| 7 | LackPoints | 0 | **5** | **Shawntell** | 10 | -win by default- | 
 
 #### Qualifiers
 
