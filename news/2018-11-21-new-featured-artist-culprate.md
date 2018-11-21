@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Culprate"
-date: 2018-11-20 16:00:00 +0000
+date: 2018-11-21 10:00:00 +0000
 ---
 
 We proudly welcome one of the United Kingdom's most talented electronic producers to the osu! Featured Artist lineup — Culprate!
@@ -18,7 +18,7 @@ The Mappers' Guild has been hard at work over the past few months drawing up som
 
 *Clicking on the image below will start a download for the pack of all six maps mentioned!*
 
-[![](/wiki/shared/news/2018-11-20-new-featured-artist-culprate/listing.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildCulprate.zip)
+[![](/wiki/shared/news/2018-11-21-new-featured-artist-culprate/listing.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildCulprate.zip)
 
 Here's a sample of what's we've got in store for you to map to:
 
