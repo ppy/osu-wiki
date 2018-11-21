@@ -4,15 +4,13 @@ title: "New Featured Artist: Culprate"
 date: 2018-11-21 10:00:00 +0000
 ---
 
-We proudly welcome one of the United Kingdom's most talented electronic producers to the osu! Featured Artist lineup — Culprate!
+We proudly welcome an extremely talented producer hailing from the United Kingdom the osu! Featured Artist lineup — Culprate!
 
 [![](https://assets.ppy.sh/artists/29/header.jpg)](https://osu.ppy.sh/beatmaps/artists/29)
 
-Something of a standout among the UK's underground dubstep scene, **Culprate** is a tremendously talented music producer with some incredible musical clout. Renowned for his incredible production quality and captivatingly complex tracks, we pretty much fell in love in his sound when we first heard it.
+Something of a standout among the UK's underground dubstep scene, **Culprate** is a tremendously capable music producer with some incredible musical clout. Renowned for his incredible production quality and captivatingly complex tracks, we pretty much fell in love in his sound when we first heard it.
 
-Having participated in one of **Culprate**'s grand collaborations with his Twitch community, [Dictate](https://osu.ppy.sh/beatmaps/artists/21) loaned us his voice and recommendation to strike up a deal, and after a while of back and forth, we're finally here today.
-
-We're proud to present to you all a grand selection of **Culprate**'s work — namely a few key tracks from his cult classic album, *Deliverance*, and a much broader list of tracks from the collaborative masterpiece that are the *Unity Project* albums.
+One of **Culprate**'s most recent projects features a massive multi-work collaboration drawn from his Twitch community, of which one of our Featured Artists (namely [Dictate](https://osu.ppy.sh/beatmaps/artists/21)) was a part of. Aptly titled as the *Unity Project*, we are proud to announce that a selection from this body of work and from **Culprate**'s cult classic album *Deliverance* are now available.
 
 The Mappers' Guild has been hard at work over the past few months drawing up some incredible maps to help inspire both players and mappers alike with **Culprate**'s sound, check them out — completing all six will nab you the 4th special Mapper's Guild medal! Collecting them all will make you the envy of your friends. Probably.
 
