@@ -4,7 +4,7 @@ title: "New Featured Artist: Culprate"
 date: 2018-11-21 10:00:00 +0000
 ---
 
-We proudly welcome an extremely talented producer hailing from the United Kingdom the osu! Featured Artist lineup — Culprate!
+We proudly welcome an extremely talented producer hailing from the United Kingdom to the osu! Featured Artist lineup — Culprate!
 
 [![](https://assets.ppy.sh/artists/29/header.jpg)](https://osu.ppy.sh/beatmaps/artists/29)
 
