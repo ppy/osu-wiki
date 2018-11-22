@@ -250,13 +250,13 @@ Winners of their respective game mode will get a Profile badge.
 
 - NoMod
   - [TAG underground - POSSESSION (Apricot) \[Taiko\]](https://osu.ppy.sh/beatmaps/150649)
-  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmap/1363511)
+  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1363511)
   - [KOTOKO - Oboetete Ii yo (cRyo\[iceeicee\]) \[aabc's Taiko\]](https://osu.ppy.sh/beatmaps/177822)
   - [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Memories\]](https://osu.ppy.sh/beatmaps/1153788)
   - [Utagumi Setsugetsuka - Maware! Setsugetsuka (you Remix) (komasy) \[EM's Oni\]](https://osu.ppy.sh/beatmaps/1477486)
   - [9mm Parabellum Bullet - Inferno (Nofool) \[Oni\]](https://osu.ppy.sh/beatmaps/1028485)
 - Hidden
-  - [Mili - world.execute(me); (Volta) \[Oni\]](https://osu.ppy.sh/beatmaps/1028485)
+  - [Mili - world.execute(me); (Volta) \[volta.taiko(oni);\]](https://osu.ppy.sh/beatmaps/1078866)
   - [DJ TOTTO - chaplet (Nwolf) \[MUZUKASHII\]](https://osu.ppy.sh/beatmaps/593837)
 - HardRock
   - [Wotamin - Gigantic O.T.N (Star Stream) \[Lundle's Muzu\]](https://osu.ppy.sh/beatmaps/250578)
@@ -309,15 +309,15 @@ Winners of their respective game mode will get a Profile badge.
   - [BlackYooh vs. siromaru - BLACK or WHITE? (Kuzino) \[Kuzino's EXHAUST\]](https://osu.ppy.sh/beatmaps/1082172)
   - [CINDERELLA PROJECT - M@GIC\* (Spectator) \[MASTER\]](https://osu.ppy.sh/beatmaps/856816)
   - [cYsmix - Moonlight Sonata (Okorin) \[Extra\]](https://osu.ppy.sh/beatmaps/1037478)
-  - [Lindsey Stirling - Senbonzakura (Benita) \[Nana's Rain\]](https://osu.ppy.sh/beatmapsets/773136)
-  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (Ascendance) \[Smile\]](https://osu.ppy.sh/beatmaps/1053163)
+  - [Lindsey Stirling - Senbonzakura (Benita) \[Nana's Rain\]](https://osu.ppy.sh/beatmaps/1699426)
+  - [CLIFF EDGE - The Distance feat. Nakamura Maiko (Ascendance) \[Smile\]](https://osu.ppy.sh/beatmaps/1053163)
 - Hidden
   - [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmaps/1135246)
   - [\*namirin - Daidai Genome (Ascendance) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmaps/1486940)
   - [Memme - Acid Burst (Tess) \[Tess' Insane\]](https://osu.ppy.sh/beatmaps/689804)
 - HardRock
   - [M2U - Myosotis (Ascendance) \[Ascendance's Platter\]](https://osu.ppy.sh/beatmaps/1000293)
-  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/46848)
+  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmaps/204672)
   - [Memme - Chinese Restaurant (Kloyd) \[Kloyd's Another\]](https://osu.ppy.sh/beatmaps/593441)
 - DoubleTime
   - [bj.HaLo - Ende (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmaps/744230)
