@@ -101,16 +101,16 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | **11:30 UTC** | 20:30 UTC+09 | 19:30 UTC+08 |
 | Norway | ![][flag_NO] | ![][flag_JP] | Japan | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 |
+| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **14:30 UTC** | 15:30 UTC+01 | 22:30 UTC+08 |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **16:00 UTC** | 11:00 UTC-05 | 3:00 (Sun) UTC+11 |
 
 ### Sunday, 25. November 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **2:00 UTC** | 21:00 (Sat) UTC-05 | 13:00 UTC+11 |
 | Taiwan | ![][flag_TW] | ![][flag_US] | United States | **3:30 UTC** | 11:30 UTC+08 | 22:30 (Sat) UTC-05 |
-| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | **5:00 UTC** | 14:00 UTC+09 | 13:00 UTC+08 |
 | Russian Federation | ![][flag_RU] | ![][flag_RO] | Romania | **14:30 UTC** | 19:30 UTC+05 | 16:30 UTC+02 |
 | Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **17:30 UTC** | 17:30 UTC | 14:30 UTC-03 |
