@@ -1,21 +1,22 @@
-# Restricted Mode
+# Account Restrictions
 
 A restriction is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
 
-When an account is restricted, it is unable to interact with the community until the restriction is lifted. Restricted players can still continue playing and submitting scores, but their profile will be invisible to others.
+When an account is restricted, it is unable to interact with the community until the restriction is lifted. Restricted players can still continue playing the game, downloading beatmaps and submitting scores, but their profile will be invisible to others.
 
 The following features are disabled for restricted accounts:
 - in-game chat
-- private messaging on the forums
-- posting on the forums
-- updating maps or profile details
+- private messaging
+- posting in forum threads or comment sections
+- uploading or updating beatmaps
+- updating profile details
 - store purchases
 
 ## My account has been restricted! What do I do?
 
 If your account has been restricted, do not panic. Please follow these steps:
-- **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will be lifted within that time.
-- **Contact our support team.** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, too!
+- **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will hopefully be lifted within that time.
+- **Contact our support team.** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
 
 If your account has become restricted for breaking the [rules](/wiki/rules), a strict cooldown of three months will be enforced before you are allowed to send an appeal.
 
@@ -34,13 +35,13 @@ There are several reasons why an account might be restricted.
 ## What do I do while on cooldown before appealing?
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the game and community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted. Raging at others, spamming the support team, or insulting the staff is not going to lift your restriction any faster.
-- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months. This includes continuing to cheat, accessing others' accounts, or creating new accounts to evade your restriction.
-- **Follow the support team's instructions.** The three-month cooldown imposed on accounts is a chance to take time off and reflect on your actions. If you attempt appealing before that time, or continue trying to contact the support team to shorten the cooldown, you will be ignored.  If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on and appealing for, you are welcome to send us an email to ask.
-- **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment or shorten the cooldown, we will happily answer any questions you have about your account's restriction!
+- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months from your last offence. This includes, for example, continuing to cheat, accessing others' accounts, or creating new accounts to evade a restriction.
+- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored.  If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
+- **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
 
 ## Three months have passed. How do I appeal?
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). Again, we will need your username, and make sure to appeal from the email address attached to your account! After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email - there is a chance we have not received it or closed it by accident!
+You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email - there is a chance we may not have received it.
 
 When appealing, you are free to write whatever you want in your message; however, we do have expectations for what the appeal should include. Appeals do not have to be full-length essays - as long as you are honest, genuine, and include as many details as you can remember, your appeal will be sufficient. We are looking to make sure you know what you were restricted for, that you are aware of what rules you have broken, and that you will make sure not to break the rules again in the future.
 
