@@ -3,7 +3,7 @@ Aus/NZ osu!standard Tournament 5 - Winter
 
 *See also: [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer/en.md)*
 
-![Osu! AU/NZ Tournament 5 Winter](logo.jpg)
+![Osu! AU/NZ Tournament 5 Winter](img/logo.jpg)
 
 The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 6th installment of Aus/NZ tourneys.
 
