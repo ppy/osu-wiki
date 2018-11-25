@@ -5,34 +5,34 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 
-**Aus/NZ osu!standard Tournament 5 - Summer** (**ANZT 5S**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It is the 5th installment of Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the 5th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 22 Dec 2017 - 21 Jan 2018 |
-| Qualifiers | 26-28 Jan 2018 |
-| Round of 64 | 2-4 Feb 2018 |
-| Round of 32 & Losers Bracket Rounds 1 & 2| 9-11 Feb 2018 |
-| Round of 16 & Losers Bracket Rounds 3 & 4| 16-18 Feb 2018 |
-| Quarterfinals & Losers Bracket Rounds 5 & 6| 23-25 Feb 2018 |
-| Semifinals & Losers Bracket Rounds 7 & 8| 2-4 Mar 2018 |
-| Finals - Week 1 | 9-11 Mar 2018 |
-| Finals - Week 2 | 17 Mar 2018 |
+| Registration Phase | 2017-12-22/2018-01-21 |
+| Qualifiers | 2018-01-26/2018-01-28 |
+| Round of 64 | 2018-02-02/2018-02-04 |
+| Round of 32 & Losers Bracket Rounds 1 & 2| 2018-02-09/2018-02-11 |
+| Round of 16 & Losers Bracket Rounds 3 & 4| 2018-02-16/2018-02-18 |
+| Quarterfinals & Losers Bracket Rounds 5 & 6| 2018-02-23/2018-02-25 |
+| Semifinals & Losers Bracket Rounds 7 & 8| 2018-03-02/2018-03-04 |
+| Finals - Week 1 | 2018-03-09/2018-03-11 |
+| Finals - Week 2 | 2018-03-17 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organization
 
 | Position | Staff Members |
-| --- | --- |
+| :-- | :-- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Commentators | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/users/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
@@ -43,7 +43,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ## Links
 
-- [Forum thread](https://osu.ppy.sh/forum/t/679243)
+- [Discussion thread](/community/forums/topics/679243)
 - [Livestream](https://www.twitch.tv/osuanzt)
 
 ---
@@ -86,7 +86,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [ALiCE's EMOTiON - Mami Mami Zone (Mixagji) \[0108\]](https://osu.ppy.sh/b/147377)
   - [Nekomata Master+ - squall (wa\_) \[Extreme\]](https://osu.ppy.sh/b/234923)
 - Tiebreaker
-  - [Camellia - dreamless wanderer (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/646609)
+  - **[Camellia - dreamless wanderer (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/646609)**
 
 ### Round of 32 & Losers Bracket Rounds 1 & 2
 
@@ -111,7 +111,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [S3RL feat Harri Rush - Nostalgic (Nightcore Remix) (nold_1702) \[yf's Insane\]](https://osu.ppy.sh/b/1307142)
   - [Nekokanimaru - Ojamajo de BAN BAN! (Pop-mix) (Muya) \[Another\]](https://osu.ppy.sh/b/98566)
 - Tiebreaker
-  - [onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/b/457061)
+  - **[onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/b/457061)**
 
 ### Round of 16 & Losers Bracket Rounds 3 & 4
 
@@ -136,7 +136,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [yuikonnu & ayaponzu\* - Happy Halloween (Loneight) \[Happy Halloween\]](https://osu.ppy.sh/b/1465149)
   - [Pendulum - Crush (Radio Edit) (Mao) \[Collab Extra\]](https://osu.ppy.sh/b/1531707)
 - Tiebreaker
-  - [nomico - Lost Emotion (Amane UK Hardcore Remix) (Rizia) \[Fluctuate\]](https://osu.ppy.sh/b/996349)
+  - **[nomico - Lost Emotion (Amane UK Hardcore Remix) (Rizia) \[Fluctuate\]](https://osu.ppy.sh/b/996349)**
 
 ### Quarterfinals & Losers Bracket Rounds 5 & 6
 
@@ -163,7 +163,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/b/418139)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/b/152199)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (Lasse) \[Timeless\]](https://osu.ppy.sh/b/985004)
+  - **[Halozy - Kanshou no Matenrou (Lasse) \[Timeless\]](https://osu.ppy.sh/b/985004)**
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
@@ -190,7 +190,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [sasakure.UK - Atropos (captin1) \[Another\]](https://osu.ppy.sh/b/1222416)
   - [TOTTO - Wadatsumi (Desperate-kun) \[Snaggle's Insane\]](https://osu.ppy.sh/b/775365)
 - Tiebreaker
-  - [gmtn. vs. kozato (fw. LUZE) - squartatrice (Reol) \[Skystar's Descent\]](https://osu.ppy.sh/b/1045244)
+  - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Reol) \[Skystar's Descent\]](https://osu.ppy.sh/b/1045244)**
 
 ### Finals - Week 1
 
@@ -217,7 +217,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [la la larks - Sayonara Waltz (captin1) \[Waltz\]](https://osu.ppy.sh/b/416882)
   - [Aimer - twoface (HalfDeckOfCards) \[Sorrowful\]](https://osu.ppy.sh/b/1278365)
 - Tiebreaker
-  - [Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/b/779179)
+  - **[Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/b/779179)**
 
 ### Finals - Week 2
 
@@ -244,14 +244,16 @@ Aus/NZ osu!standard Tournament 5 - Summer
   - [Himeringo - Idola no Circus (cRyo[iceeicee]) \[Avxo\]](https://osu.ppy.sh/b/796307)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[BakaNA\]](https://osu.ppy.sh/b/214248)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/b/1460627)
+  - **[Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/b/1460627)**
 
 ---
 
-## Results
+## Podium
+
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
-| :-: | --- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
@@ -287,6 +289,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 ---
 
 ## Ruleset
+
 ### General Rules
 
 * This is an 1v1 double elimination osu!standard tourney for Australian/New Zealand players only.
@@ -298,7 +301,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 * There is no rank limit for signup and all participants who sign up will play qualifiers. The top 64 players from qualifiers will move on to groups.
 * Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
 * **Reschedules must be agreed on by both players and proof must be provided**.
-* All matches will be scheduled for Friday, Saturday & Sunday.
+* All matches will be scheduled for Fridays, Saturdays & Sundays.
 
 ### Match Rules
 
@@ -326,6 +329,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 * **There will be no warmups and one ban per player**.
 
 ### Winning conditions
+
   - In Round of 32 & Losers Bracket Rounds 1 & 2, you need to win 4 maps to win a match. (Best-of-7)
   - In Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 you need to win 5 maps to win a match. (Best-of-9)
   - In Semi-finals & Losers Bracket Rounds 7 & 8, you need to win 6 maps to win a match. (Best-of-11)
