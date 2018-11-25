@@ -5,33 +5,33 @@ Aus/NZ osu!standard Tournament 5 - Winter
 
 ![Osu! AU/NZ Tournament 5 Winter](logo.jpg)
 
-**Aus/NZ osu!standard Tournament 5 - Winter** (**ANZT 5W**) is a double elimination 1v1 osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It is the 6th installment of Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 6th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 28 Jul 2018 - 12 Aug 2018 |
-| Round of 64 | 17-19 Aug 2018 |
-| Round of 32 & Losers Bracket Rounds 1 & 2| 24-26 Aug 2018 |
-| Round of 16 & Losers Bracket Rounds 3 & 4| 31 Aug 2018 - 2 Sept 2018 |
-| Quarterfinals & Losers Bracket Rounds 5 & 6| 7-9 Sept 2018 |
-| Semifinals & Losers Bracket Rounds 7 & 8| 14-16 Sept 2018 |
-| Finals - Week 1 | 21-23 Sept 2018 |
-| Finals - Week 2 | 28-30 Sept 2018 |
+| Registration Phase | 2018-07-28/2018-08-12 |
+| Round of 64 | 2018-08-17/2018-08-19 |
+| Round of 32 & Losers Bracket Rounds 1 & 2| 2018-08-24/2018-08-26 |
+| Round of 16 & Losers Bracket Rounds 3 & 4| 2018-08-31/2018-09-02 |
+| Quarterfinals & Losers Bracket Rounds 5 & 6| 2018-09-07/2018-09-09 |
+| Semifinals & Losers Bracket Rounds 7 & 8| 2018-09-14/2018-09-16 |
+| Finals - Week 1 | 2018-09-21/2018-09-23 |
+| Finals - Week 2 | 2018-09-28/2018-09-30 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month osu!supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organization
 
 | Position | Staff Members |
-| --- | --- |
+| :-- | :-- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Commentators | ![][flag_AU] [Kor3ry3-Kun](https://osu.ppy.sh/users/6279567), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
@@ -42,7 +42,7 @@ Aus/NZ osu!standard Tournament 5 - Winter
 
 ## Links
 
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/784018)
+- [Discussion thread](/community/forums/topics/784018)
 - [Livestream](https://www.twitch.tv/osuanzt)
 
 ---
@@ -53,10 +53,12 @@ Find all mappools [Here](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_
 
 ---
 
-## Results
+## Podium
+
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
-| :-: | --- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
@@ -66,6 +68,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 ---
 
 ## Ruleset
+
 ### General Rules
 
 * This is an 1v1 double elimination osu!standard tourney for Australian/New Zealand players only.
@@ -76,7 +79,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * In order for your registration to count, you must **fill out the form, join the discord, and change your name to your osu! username**.
 * Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
 * Reschedules must be agreed on by **both players and proof must be provided**.
-* All matches will be scheduled for Friday, Saturday & Sunday.
+* All matches will be scheduled for Fridays, Saturdays & Sundays.
 
 ### Match Rules:
 
@@ -93,6 +96,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played under FreeMod conditions, allowing NoMod.
 
 ### Winning Conditions:
+
 | Rounds | Condition |
 | --- | --- |
 | Round of 64 & 32, Losers Bracket Rounds 1 & 2 | Win four maps (Best-of-7) |
