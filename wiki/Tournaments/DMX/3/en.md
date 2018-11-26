@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 Logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263) and ![][flag_NL] [SpectreSan](/users/11310442). It is the 3rd installment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the DeltaMax's Tournaments.
 
 ## Tournament Schedule
 
@@ -34,7 +34,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
-![DMX3 Winner Badge](img/badge.png)
+![DMX 3 Winner Badge](img/badge.png)
 
 ## Organisation
 
@@ -42,7 +42,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_NL] [SpectreSan](/users/11310442) |
+| Management | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Map Selectors | ![][flag_FR] [Adri](/users/4579132), ![][flag_SG] [Raveille](/users/1388767), ![][flag_US] [\_untitld](/users/10465260) |
 | Designer | ![][flag_DE] [Celektus](/users/4294993) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_BE] [NightNarumi](/users/4381142) |
