@@ -1,7 +1,6 @@
-Aus/NZ osu!standard Tournament 5 - Summer
-===
+# Aus/NZ osu!standard Tournament 5 - Summer
 
-*See also: [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter/en.md)*
+*See also: [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter)*
 
 ![Osu! AU/NZ Tournament 5 Summer](img/logo.jpg)
 
@@ -29,9 +28,9 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-## Organization
+## Organisation
 
-| Position | Staff Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
@@ -48,7 +47,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ---
 
-## Mappool
+## Mappools
 
 ### Qualifiers
 
@@ -328,7 +327,7 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 
 * **There will be no warmups and one ban per player**.
 
-### Winning conditions
+### Winning Conditions
 
   - In Round of 32 & Losers Bracket Rounds 1 & 2, you need to win 4 maps to win a match. (Best-of-7)
   - In Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 you need to win 5 maps to win a match. (Best-of-9)
