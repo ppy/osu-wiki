@@ -1,7 +1,6 @@
-Aus/NZ osu!standard Tournament 5 - Winter
-===
+# Aus/NZ osu!standard Tournament 5 - Winter
 
-*See also: [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer/en.md)*
+*See also: [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer)*
 
 ![Osu! AU/NZ Tournament 5 Winter](img/logo.jpg)
 
@@ -28,9 +27,9 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double e
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-## Organization
+## Organisation
 
-| Position | Staff Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
@@ -81,7 +80,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * Reschedules must be agreed on by **both players and proof must be provided**.
 * All matches will be scheduled for Fridays, Saturdays & Sundays.
 
-### Match Rules:
+### Match Rules
 
 * Referees will create the lobby and invite players 10 minutes before the designated match time.
 * Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
@@ -95,7 +94,7 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 * Failed scores will only count if the player revives before the end. If a player fails and their opponent does not, the point goes to the latter. If both players fail, the point goes to the higher failed score.
 * If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played under FreeMod conditions, allowing NoMod.
 
-### Winning Conditions:
+### Winning Conditions
 
 | Rounds | Condition |
 | --- | --- |
