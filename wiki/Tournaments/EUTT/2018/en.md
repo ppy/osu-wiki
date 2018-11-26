@@ -261,7 +261,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 | **Lno** ![][flag_GB] | **5** | 1 | ![][flag_GB] Grimbow | [#1](/community/matches/47493556) |
 | **-Leafeon** ![][flag_DE] | **5** | 3 | ![][flag_RU] night\_flower | [#1](/community/matches/47493638) |
 
-| Sunday, 2018-11-24 |  |  |  |  | 
+| Sunday, 2018-11-18 |  |  |  |  | 
 | --: | :-: | :-- | :-- | :-: |
 | D3kuu ![][flag_IT] | 2 | **5** | ![][flag_TR] **frukoyurdakul** | [#1](/community/matches/47520607) |
 | BabySnakes ![][flag_PT] | 4 | **5** | ![][flag_ES] **AlvaroYL** | [#1](/community/matches/47521716) |
