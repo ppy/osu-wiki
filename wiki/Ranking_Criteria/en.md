@@ -139,7 +139,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 ### Rules
 #### Technical
 - **Metadata must be consistent across all difficulties of a beatmap set.**
-- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and helping others identify the main contributors of any given beatmap set. Usernames containing whitepsaces should replace them with underscores.
+- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap set. Usernames containing whitespaces should be written with underscores instead.
 - **Official Sources must be used as references for metadata unless none are available,** in which case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or Programs like Vocaloids cannot be used as the sole artist of any given song.
