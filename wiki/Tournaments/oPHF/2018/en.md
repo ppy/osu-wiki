@@ -561,7 +561,7 @@ Winners of their respective game mode will get a Profile badge.
   - [SHK - Halloween Party (-BlueFire-) \[7K Hard\]](https://osu.ppy.sh/beatmaps/822640)
   - [Haruna Luna - Startear -TV size ver.- (NaxelCL) \[7K MX\]](https://osu.ppy.sh/beatmaps/459416)
 - Tiebreaker
-  - - [**Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (ChuChuez) \[Insane\]**](https://osu.ppy.sh/beatmaps/795203)
+  - [**Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (ChuChuez) \[Insane\]**](https://osu.ppy.sh/beatmaps/795203)
 
 #### Round 1
 
