@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF Logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***), is a French double elimination one-on-one tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It is the 1st installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) is a French double elimination one-on-one tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It is the 1st installment of the osu! Multi Mode French Fiesta.
 
 ## Tournament Schedule
 
@@ -103,7 +103,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 | Statistician | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Head Referee | ![][flag_FR] [Purettsu Eru](/users/1542565) |
 | Referees | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028) |
-| Wiki Editor | ![][flag_ID] [fajar13k](/users/7100002) |
+| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
 ## Links
 
