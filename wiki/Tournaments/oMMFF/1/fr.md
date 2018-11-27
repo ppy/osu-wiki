@@ -44,8 +44,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)***, est un tournoi 1v1 français 
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2018-11-14/2018-12-23 |
-| Tirage au sort en direct | 2018-12-23 (17:00 UTC) |
+| Phase d'inscription | 2018-11-14/2018-12-16 |
+| Tirage au sort en direct | 2018-12-16 (17:00 UTC) |
 | Qualifications | 2019-01-05/2019-01-06 |
 | 32èmes de finale | 2019-01-12/2019-01-13 |
 | 16èmes de finale | 2019-01-19/2019-01-20 |
@@ -58,8 +58,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)***, est un tournoi 1v1 français 
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2018-11-04/2018-12-02 |
-| Tirage au sort en direct | 2018-12-02 (17:00 UTC) |
+| Phase d'inscription | 2018-11-04/2018-12-23 |
+| Tirage au sort en direct | 2018-12-23 (17:00 UTC) |
 | Qualifications | 2019-01-12/2019-01-13 |
 | 32èmes de finale | 2019-01-19/2019-01-20 |
 | 16èmes de finale | 2019-01-26/2019-01-27 |

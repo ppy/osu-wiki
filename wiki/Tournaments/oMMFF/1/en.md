@@ -44,8 +44,8 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***), is a French double eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-14/2018-12-23 |
-| Live Drawings | 2018-12-23 (17:00 UTC) |
+| Registration Phase | 2018-11-14/2018-12-16 |
+| Live Drawings | 2018-12-16 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
 | Round of 32 | 2019-01-12/2019-01-13 |
 | Round of 16 | 2019-01-19/2019-01-20 |
@@ -58,8 +58,8 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***), is a French double eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-11-04/2018-12-02 |
-| Live Drawings | 2018-12-02 (17:00 UTC) |
+| Registration Phase | 2018-11-04/2018-12-23 |
+| Live Drawings | 2018-12-23 (17:00 UTC) |
 | Qualifiers | 2019-01-12/2019-01-13 |
 | Round of 32 | 2019-01-19/2019-01-20 |
 | Round of 16 | 2019-01-26/2019-01-27 |
