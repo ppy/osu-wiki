@@ -91,7 +91,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket.png)
+![Double Elimination bracket](img/bracket_fix.png)
 
 ------------------------------------------------------------------------
 
