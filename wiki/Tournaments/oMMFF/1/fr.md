@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF Logo](img/logo.png)
 
-L'**osu! Multi Mode French Fiesta** ***(oMMFF)***, est un tournoi 1v1 français en double élimination organisé par ![][flag_FR] [Kasumii-sama](/users/6177263), pour les modes de jeu osu!, osu!taiko, osu!catch et osu!mania. Ceci est la première édition de l'osu! Multi Mode French Fiesta.
+L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français en double élimination organisé par ![][flag_FR] [Kasumii-sama](/users/6177263), pour les modes de jeu osu!, osu!taiko, osu!catch et osu!mania. Ceci est la première édition de l'osu! Multi Mode French Fiesta.
 
 ## Dates du tournoi
 
@@ -103,7 +103,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Arbitre en chef | ![][flag_FR] [Purettsu Eru](/users/1542565) |
 | Arbitres | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028) |
-| Éditeur du wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
 ## Liens
 
