@@ -74,11 +74,11 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.amazon.fr/gp/product/B071KX6DW6/ref=s9_dcacsd_dcoop_bw_c_x_3_w) keyboard, 10€ PayPal/Amazon balance, physical trophy |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
 
-![oMMFF Winner Badge - Standard](img/badge-std.png) ![oMMFF Winner Badge - Taiko](img/badge-tko.png) ![oMMFF Winner Badge - Catch](img/badge-ctb.png) ![oMMFF Winner Badge - Mania](img/badge-mna.png)
+![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
 - For osu! division, all winners will get tablet cover sponsored by [Foxbox](https://foxbox.io/)
 - Physical trophy is custom made special for the tournament courtesy of ![][flag_FR] [Enygmatique](/users/5146531)

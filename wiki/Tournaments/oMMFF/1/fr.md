@@ -74,7 +74,7 @@ Dans chaque tournoi, les joueurs qui remportent une place sur le podium sont él
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.amazon.fr/gp/product/B071KX6DW6/ref=s9_dcacsd_dcoop_bw_c_x_3_w), 10€ sur Amazon/PayPal, trophée physique |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/), 10€ sur Amazon/PayPal, trophée physique |
 | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 2 mois de supporter, 10€ PayPal/Amazon balance |
 | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 1 mois de supporter, 10€ PayPal/Amazon balance |
 
