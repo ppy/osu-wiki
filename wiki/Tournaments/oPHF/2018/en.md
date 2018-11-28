@@ -532,7 +532,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Suan - Cherry Blossom Wind (Steins) \[Elementaires\]](https://osu.ppy.sh/beatmaps/1305521)
   - [Kaneko Chiharu - iLLness LiLin (Blasticide) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/1377812)
   - [Darude - Sandstorm (DraciuZ) \[DarudeRE Sandstorm\]](https://osu.ppy.sh/beatmaps/804251)
-  - [xi - Grand Chariot (Arzenvald)\ [7K // Another\]](https://osu.ppy.sh/beatmaps/1253005)
+  - [xi - Grand Chariot (Arzenvald) \[7K // Another\]](https://osu.ppy.sh/beatmaps/1253005)
   - [xi - Teni Muhou (XxRAIKAxX) \[zukimura's 7K Insane\]](https://osu.ppy.sh/beatmaps/578035)
   - [nano.RIPE - Azalea (keziah) \[7k kezzy x Ibrahim's Sisterly Love\]](https://osu.ppy.sh/beatmaps/1686548)
   - [Kyary Pamyu Pamyu - Harajuku Iyahoi (short Ver.) (anti\_) \[PARTY!\[SV\]\]](https://osu.ppy.sh/beatmaps/1331413)
