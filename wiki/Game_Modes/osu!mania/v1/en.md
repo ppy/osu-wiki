@@ -38,7 +38,7 @@
 
 **This page is based on the old version of osu!mania game mode using ScoreV1 system.**
 
-*For the current osu!mania game mode, see: [osu!](/wiki/Game_Modes/osu!mania)*
+*For the current osu!mania game mode, see: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 ![Gameplay of osu!mania][osu!mania Interface image]
 
