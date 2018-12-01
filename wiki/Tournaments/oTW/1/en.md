@@ -9,7 +9,7 @@ tags:
 
 ![oTW Logo](img/logo.png)
 
-The **Taiko Wars** (***oTW***), is an interactive strategy double elimination one-on-one osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Wars.
+The **Taiko Wars** (***oTW***) is an interactive strategy double-elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [rubies87](/users/4949934), ![][flag_CA] [FlamingRok](/users/2015353), and ![][flag_US] [incandescence](/users/6256027). It is the 1st installment of the Taiko Wars.
 
 ## Tournament Schedule
 
@@ -72,7 +72,7 @@ The Taiko Wars is run by various osu!taiko community members.
 | **Republic of Froot Loop Salad** | **![][flag_US] [Loopy542](/users/5468461)**, ![][flag_US] [cheese salad](/users/6349821), ![][flag_CA] [Spooky Mango](/users/3582786) |
 | **Team II Empire** | **![][flag_CA] [vladyushko](/users/4908773)**, ![][flag_US] [Garpo](/users/4097035), ![][flag_CA] [Player-](/users/3724819) |
 | **Ununited States of Namepiking Gamers** | **![][flag_US] [\_knots](/users/4407678)**, ![][flag_US] [jyake\_ou](/users/9099822), ![][flag_EC] [Gamelan4](/users/9856910) |
-| **Urugay** | **![][flag_US] [Das](/users/3165416)**, ![][flag_CL] [\[\_Chichinya\_\]](/users/2140739), ![][flag_US] [Backfire](/users/263110) |
+| **Urugay** | **![][flag_US] [Das](/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](/users/2140739), ![][flag_US] [Backfire](/users/263110) |
 
 ## Mappools
 
@@ -273,10 +273,10 @@ The Taiko Wars is run by various osu!taiko community members.
 7. The first team to control **7 provinces** wins the tournament. After the end of the 10th Resolve phase, if there is no team who controls 7 provinces, the team with the most provinces wins. 
 8. If there is a tie for most provinces controlled, a grand finals match will be played between tied teams as a Bo13 with the respectively sized mappool.
 9. The mappool will contain 3 NM, 2 HR, 2 HD, 1 FM, 1 DT, and 1 TB at the start of the tournament. As the number of teams remaining shrinks, the size of the pool will increase. 
-10. Free Mod will use Hard Rock, Hidden, or Hidden + Hard Rock. Each team must have both players with a mod selected.
+10. Free Mod will use HardRock, Hidden, or Hidden + HardRock. Each team must have both players with a mod selected.
 11. Tiebreaker is No Mod. 
 12. All match times are in **UTC**.
-13. **No staff members are allowed to play** other than streamers, commentators, and graphics designers.
+13. **No staff members are allowed to play** other than streamers, commentators, and graphic designers.
 
 ### Match Rules
 
