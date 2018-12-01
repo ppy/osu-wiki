@@ -17,6 +17,7 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Additional Languages        |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|:----------------------------|
+| [-Kazu-](https://osu.ppy.sh/users/920861)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Spanish                 |
 | [-Mo-](https://osu.ppy.sh/users/2202163)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Aloda](https://osu.ppy.sh/users/1190127)             | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] |                         |
 | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Cantonese, Chinese      |
@@ -24,13 +25,12 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Feerum](https://osu.ppy.sh/users/4815717)            | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | German, Polish          |
 | [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
-| [Hobbes2](https://osu.ppy.sh/users/8157492)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Telugu                  |
 | [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
+| [Kibbleru](https://osu.ppy.sh/users/3193504)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Lanturn](https://osu.ppy.sh/users/1446665)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Lasse](https://osu.ppy.sh/users/896613)              | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Mao](https://osu.ppy.sh/users/2204515)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |
 | [Maxus](https://osu.ppy.sh/users/4335785)             | ![No][false] | ![No][false] | ![No][false] | ![Yes][true] | Indonesian              |
-| [Mir](https://osu.ppy.sh/users/8688812)               | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Naxess](https://osu.ppy.sh/users/8129817)            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Swedish                 |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | Chinese, Cantonese      |
 | [p3n](https://osu.ppy.sh/users/123703)                | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | German                  |

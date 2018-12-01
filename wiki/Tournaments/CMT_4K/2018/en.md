@@ -52,56 +52,114 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup).   
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup), [kj415j45](https://live.bilibili.com/237250) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
-## Match Schedule
+## Match Schedule: Finals - Week 1
 
-The following time are based on UTC+08 timezone.
+The following time are based on UTC+08 timezone.  
+Knock-Out Stages' match time will be announced in [statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx).
 
-### Group Stage
+### Saturday, 10. November 2018
 
-#### Saturday, 13 October 2018
+| Match Time | PlayerBlue |  | PlayerRed |
+| :-: | :-: | :-: | :-: |
+| 15:00 | cheewee10 | vs | ByeForNow |
+| 16:30 | Orangejuice | vs | HDRoop\_7 |
+| 18:00 | \[Crz\]Murasame | vs | \[Crz\]Minato |
 
-| Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | zero2snow | vs | FDXiaoQian |  | cheewee10 | vs | IA daisuki |
-| 11:00 | zero2snow | vs | tangjingxi |  | Toki 0w0 | vs | yin xiaosong |
-| 15:00 | PiaoD | vs | AradORiOn\_MMM |  | w a d u | vs | IA daisuki |
-|  | PHILIPPE YMT | vs | yin xiaosong |  |  |  |  |
-| 16:00 | hero\_jeff | vs | CaOH2 |  | murorachi | vs | HDRoop\_7 |
-|  | PHILIPPE YMT | vs | \[Crz\]Minato |  |  |  |  |
-| 17:00 | \[MY\]xRay | vs | murorachi |  | GODsBEATs | vs | IA daisuki |
-|  | Toki 0w0 | vs | PHILIPPE YMT |  | CaOH2 | vs | \[Crz\]MY |
-| 20:00 | idqoos123 | vs | ByeForNow |  | C Eru | vs | Remilia\_HY |
-|  | 704661982 | vs | YoSa_o |  |  |  |  |
-| 21:00 | JunFish | vs | Orangejuice |  | tangjingxi | vs | Stink God |
-|  | \[Crz\]Murasame | vs | YoSa_o |  |  |  |  |
-| 22:00 | \[MY\]xRay | vs | HDRoop\_7 |  | idqoos123 | vs | PiaoD |
-|  | JunFish | vs | Remilia\_HY |  | CaOH2 | vs | Sakaki |
+### Sunday, 11. November 2018
 
-#### Sunday, 14 October 2018
-
-| Time | Blue Player |  | Red Player |  | Blue Player |  | Red Player |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10:00 | zero2snow | vs | Stink God |  | ByeForNow | vs | AradORiOn\_MMM |
-| 11:00 | FDXiaoQian | vs | Stink God |  | PiaoD | vs | ByeForNow |
-| 14:00 | C Eru | vs | Orangejuice |  | FDXiaoQian | vs | tangjingxi |
-|  | \[Crz\]Minato | vs | yin xiaosong |  |  |  |  |
-| 15:00 | hero\_jeff | vs | Sakaki |  | cheewee10 | vs | w a d u |
-|  | Toki 0w0 | vs | \[Crz\]Minato |  |  |  |  |
-| 16:00 | alisi | vs | HDRoop\_7 |  | GODsBEATs | vs | cheewee10 |
-|  | Pureforever | vs | \[Crz\]Murasame |  |  |  |  |
-| 17:00 | hero\_jeff | vs | \[Crz\]MY |  | murorachi | vs | alisi |
-|  | GODsBEATs | vs | w a d u |  |  |  |  |
-| 20:00 | Sakaki | vs | \[Crz\]MY |  | idqoos123 | vs | AradORiOn\_MMM |
-|  | \[Crz\]Murasame | vs | 704661982 |  | YoSa_o | vs | Pureforever |
-| 21:00 | JunFish | vs | C Eru |  | Remilia\_HY | vs | Orangejuice |
-|  | alisi | vs | \[MY\]xRay |  | 704661982 | vs | Pureforever |
+To be determined.
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+
+- FreeMod
+  - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+  - [ck - Carnation (ck remix) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [LeaF - Calamity Fortune \[Freedom (240bpm)\]](https://osu.ppy.sh/beatmapsets/866025#mania/1810669)
+  - [Gram VS Camellia - Ragnarok \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [YZYX - Dysnomia \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Casey Lee Williams ft. Jeff Williams - Boop \[RWBYnfinity\]](https://osu.ppy.sh/beatmapsets/696309#mania/1475015)
+  - [Daiki Kasho - 5oul on D!splay (Short Ver.) \[Display\]](https://osu.ppy.sh/beatmapsets/384818#mania/840775)
+  - [Panda Eyes & Teminite - Highscore \[Extra (NSV) (143bpm)\]](https://osu.ppy.sh/beatmapsets/873114#mania/1825054)
+  - [Cyber-Rainforce - Pluto \[Ayumu's firmament\]](https://osu.ppy.sh/beatmapsets/657922#mania/1393518)
+  - [Venetian Snares - Sinthasomphone \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/1823177)
+  - [LeaF - Lyrith \[Amnesia\]](https://osu.ppy.sh/beatmapsets/687280#mania/1463532)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) \[Extreme (Revised)\]](https://osu.ppy.sh/beatmapsets/859797#mania/1821298)
+  - [xi - PEACE BREAKER \[devastation\]](https://osu.ppy.sh/beatmapsets/827204#mania/1733417)
+  - [Camellia - Proluvies \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+- Tiebreaker
+  - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
+
+
+### Semifinals
+
+**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
+
+- FreeMod
+  - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
+  - [Getty vs. DJ DiA - Fox4-Raize- \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/beatmapsets/595830#mania/1260071)
+  - [Hatsuki Yura - Dancer of Saramandora \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  - [Round Wave Crusher - Slash Dot Slash (Slim Boy Fat) \[-.-\]](https://osu.ppy.sh/beatmapsets/823631#mania/1725933)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring \[Nine Time\]](https://osu.ppy.sh/beatmapsets/859935#mania/1799312)
+  - [96-glass - Blessed \[Heaven\]](https://osu.ppy.sh/beatmapsets/855239#mania/1787084)
+  - [YMCK - Curry da yo! \[Curry!!!\]](https://osu.ppy.sh/beatmapsets/556640#mania/1177974)
+  - [MasamiT - Toraburu Kuroneko Manbiki \[Ayumu's Distress\]](https://osu.ppy.sh/beatmapsets/591252#mania/1251232)
+  - [Camellia - Nightmare of Hornets Squad \[Breakdown\]](https://osu.ppy.sh/beatmapsets/543489#mania/1151944)
+  - [Terminal 11 - Miserable Bastard \[Despair\]](https://osu.ppy.sh/beatmapsets/789976#mania/1657803)
+  - [MuryokuP - Frozen World \[Yuki\]](https://osu.ppy.sh/beatmapsets/373379#mania/817998)
+  - [BlackY - B(Camellia's"BlAst-Off"Remix) \[Radiation\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744190)
+  - [Camellia - epimerization \[doxorubicin\]](https://osu.ppy.sh/beatmapsets/803740#mania/1686934)
+  - [sakuraburst - deconstructing nature \[destruction\]](https://osu.ppy.sh/beatmapsets/619106#mania/1305926)
+- Tiebreaker
+  - **[Camellia - LET'S JUMP (Camellia's 'diffractive' Hardcore Remix) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/851107#mania/1779259)**
+
+### Quarterfinals
+
+**Download the mappack here! (72 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google Drive](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
+
+- FreeMod
+  - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
+  - [Freezer feat. Kiichigo - Chocolate Planet \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
+  - [Goreshit - beautiful loli thing \[Jumpstreams\]](https://osu.ppy.sh/beatmapsets/728795#mania/1538564)
+  - [USAO - Dynamite (Extended Mix) \[Black Another Lv.12\]](https://osu.ppy.sh/beatmapsets/567907#mania/1559100)
+  - [Frums - theyaremanycolors \[emotions\]](https://osu.ppy.sh/beatmapsets/829383#mania/1737654)
+  - [fartwad - Stereo Sayan 3D \[hi19hi19's Hard\]](https://osu.ppy.sh/beatmapsets/752821#mania/1584871)
+  - [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
+  - [JOYRYDE - MERCY \[PRAISE\]](https://osu.ppy.sh/beatmapsets/760741#mania/1599848)
+  - [Akira Complex - Odyssey (Au5 Remix) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/519513#mania/1103630)
+  - [P*Light - NINJA IS DEAD IIDX ver. \[qqq's Black Another\]](https://osu.ppy.sh/beatmapsets/856629#mania/1789600)
+  - [C418 - Sweden \[sphere\]](https://osu.ppy.sh/beatmapsets/815908#mania/1711121)
+  - [Subplaid - Jeg onsker ikke a skade deg \[i don't want to hurt you\]](https://osu.ppy.sh/beatmapsets/827197#mania/1733403)
+- Tiebreaker
+  - **[UVERworld - Fight For Liberty \[Carte Blanche\]](https://osu.ppy.sh/beatmapsets/865362#mania/1809430)**
+
+### Round of 16
+
+**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
+
+- FreeMod
+  - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
+  - [ZUN Arranged by er - Gogo No Koishi-chan \[Tea Time\]](https://osu.ppy.sh/beatmapsets/632689#mania/1343000)
+  - [Darren Styles - Heartbeatz \[Leo137\]](https://osu.ppy.sh/beatmapsets/205220#mania/484499)
+  - [goreshit - o'er the flood \[torrent\]](https://osu.ppy.sh/beatmapsets/497750#mania/1777157)
+  - [hyi - you can recover \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
+  - [succducc - i really like u \[you and i\]](https://osu.ppy.sh/beatmapsets/844228#mania/1766063)
+  - [Croove - Minus 3 \[4B SHD\]](https://osu.ppy.sh/beatmapsets/811723#mania/1702660)
+  - [Stellabee - Ubiquity \[Existence\]](https://osu.ppy.sh/beatmapsets/758231#mania/1595001)
+  - [Jan Amit - In Torture (feat. Eclise) \[Sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)
+  - [Paul Bazooka - Kitty From Hell \[Kitties\]](https://osu.ppy.sh/beatmapsets/714779#mania/1510422)
+  - [Delta Sleep - Interlude \[Delirus\]](https://osu.ppy.sh/beatmapsets/687369#mania/1454484)
+  - [Utata-P feat. Yuzuki Yukari - Shiawase ni Nareru Kakushi Command ga Arurashii \[Cheat Code\]](https://osu.ppy.sh/beatmapsets/656766#mania/1391341)
+- Tiebreaker
+  - **[Dschinghis Khan - Moskau(Camellia's Handzup Bootleg)\[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmapsets/747926#mania/1575832)**
 
 ### Group Stage
 
@@ -130,6 +188,68 @@ The following time are based on UTC+08 timezone.
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## Match Results
+
+### Semifinals
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| **CaOH2** | **6** | 1 | Sakaki |
+| Stink God | 5 | **6** | **zero2snow** |
+| C Eru | 0 | **6** | **\[Crz\]Murasame** |
+| HDRoop\_7 | 0 | **6** | **cheewee10** |
+| **\[Crz\]Murasame** | **6** | 1 | CaOH2 |
+| \[Crz\]Minato | 0 | **6** | **ByeForNow** |
+| **Orangejuice** | **6** | 2 | 704661982 |
+| zero2snow | 0 | **6** | **Orangejuice** |
+
+### Quarterfinals
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| zero2snow | 3 | **5** | **ByeForNow** |
+| Sakaki | 0 | **5** | **HDRoop\_7** |
+| 704661982 | 1 | **5** | **\[Crz\]Minato** |
+| alisi | 0 | **5** | **CaOH2** |
+| w a d u | 4 | **5** | **C Eru** |
+| **cheewee10** | **5** | 2 | \[Crz\]Murasame |
+| yin xiaosong | 0 | **5** | **Orangejuice** |
+| **Stink God** | **5** | 1 | AradORiOn\_MMM |
+
+### Round of 16
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| **zero2snow** | **5** | 0 | alisi |
+| **ByeForNow** | **5** | 4 | CaOH2 |
+| **Sakaki** | **5** | 1 | AradORiOn\_MMM |
+| **HDRoop\_7** | **5** | 4 | Stink God |
+| **\[Crz\]Minato** | **5** | 4 | w a d u |
+| **cheewee10** | **5** | 0 | yin xiaosong |
+| C Eru | 0 | **5** | **704661982** |
+| **\[Crz\]Murasame** | **5** | 0 | Orangejuice |
+
+### Group Stage
+
+| Group | Players |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| A | **CaOH2** | **Sakaki** | hero\_jeff | \[Crz\]MY |
+|  | **7** | **9** | -10 | -6 |
+| B | \[MY\]xRay | **HDRoop\_7** | **alisi** | murorachi |
+|  | -12 | **12** | **4** | -4 |
+| C | **\[Crz\]Murasame** | 704661982 | Pureforever | YoSa\_o |
+|  | **12** | **2** | -2 | -12 |
+| D | **cheewee10** | **w a d u** | GODsBEATs | IA daisuki |
+|  | **12** | **2** | -4 | -10 |
+| E | **\[Crz\]Minato** | PHILIPPE YMT | **yin xiaosong** | Toki 0w0 |
+|  | **12** | -3 | **2** | -11 |
+| F | **Orangejuice** | **C Eru** | Remilia\_HY | JunFish |
+|  | **4** | **11** | -3 | -12 |
+| G | **zero2snow** | **Stink God** | tangjinxi | FDXiaoQian |
+|  | **9** | **4** | -1 | -12 |
+| H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
+|  | **12** | **4** | -4 | -12 |
+
+### Qualification Stage
 
 Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 

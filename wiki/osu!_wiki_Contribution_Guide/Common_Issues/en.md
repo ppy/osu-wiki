@@ -4,11 +4,11 @@
 
 ## Someone told me to use meaningful commit messages!
 
-This can also be phrased as, "All of my commits say 'Updated en.md'," or similar.
+This can also be phrased as, "All of my commits say `Update en.md`," or similar.
 
 If someone has told you this or you see that all of your commit messages are the same, this means you didn't use meaningful commit messages when you were able to or you tried to move, edit, and/or delete multiple files using the GitHub web interface.
 
-A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits. **Keep in mind that `Updated en.md` or similar does not mean anything because no one will know what specific changes you have made nor will they know which article you had changed.**
+A meaningful commit message is one that can allow anyone to understand all of your changes within that commit without needing to see the GitHub diff. There is a 72 character limit for the commit message, so you will need to also make it short. If you have troubles trying to keep it short, you may need to split your commits. **Keep in mind that `Update en.md` or similar does not mean anything because no one will know what specific changes you have made nor will they know which article you had changed.**
 
 ---
 
