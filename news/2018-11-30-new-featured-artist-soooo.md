@@ -10,7 +10,7 @@ The Featured Artist project storms into the sounds of a turbulent youth with the
 
 First popularized on osu! following the tremendous success of their track *Happppy song*, **SOOOO** is an enigmatic Japanese Vocaloid producer that thrives on an unusual subversion of the classical poppy, sweet-tinged sound in favor of a more intense, experimental, and ultimately sinister twist.
 
-Dense, intimidating and full of musical influences from 'heavier' genres, **SOOOO**'s sound is not for the faint of heart in many regards - mapping included.
+Dense, intimidating and full of musical influences from heavier genres, **SOOOO**'s sound is not for the faint of heart in many regards - mapping included.
 
 Are you brave enough?
 
