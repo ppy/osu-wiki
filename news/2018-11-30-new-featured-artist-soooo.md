@@ -60,6 +60,6 @@ All the tracks listed above are available now from [**SOOOO**'s Featured Artist 
 
 As always with Featured Artist works, these works are 100% free for use in osu! for modding and mapping, so worry less and map more!
 
-December will be something *very* special in regards to the Featured Artist project. We promise. Look forward to it!
+We look forward to seeing what you guys make of (and with) **SOOOO**'s sound. If Vocaloid isn't your thing, keep an eye out for more upcoming artist releases over December!
 
 —Ephemeral
