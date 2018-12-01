@@ -1,6 +1,6 @@
 # Support technique
 
-L**'équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (sauf [Tournois](https://osu.ppy.sh/forum/55) et [Techniques de mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4), et [Support technique](https://osu.ppy.sh/forum/5).
+L'**équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (sauf [Tournois](https://osu.ppy.sh/forum/55) et [Techniques de mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4), et [Support technique](https://osu.ppy.sh/forum/5).
 
 ## Responsabilités
 

@@ -19,9 +19,9 @@ La **Catch French Cup 3** (***CFC 3***) est un tournoi osu!catch français en 1v
 | Phase de poules | 2018-09-08/2018-09-16 |
 | 16èmes de finale | 2018-09-22/2018-09-23 |
 | Quarts-de-finale | 2018-09-29/2018-09-30 |
-| Demi-finales | 2018-10-08/2018-10-09 |
-| Finales | 2018-10-15/2018-10-16 |
-| Grandes finales | 2018-10-22 |
+| Demi-finales | 2018-10-06/2018-10-07 |
+| Finales | 2018-10-13 |
+| Grandes finales | 2018-10-20 |
 
 ## Récompenses
 
@@ -42,7 +42,7 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 | Sélectionneur de map | ![][flag_FR] [Emiru](/users/3306180) |
-| Commentateurs | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [redjiii](/users/138728) |
+| Commentateurs | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](/users/4864877), ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [redjiii](/users/138728) |
 | Streamers | ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Astreachan](/users/2953898), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Designer | ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
@@ -56,36 +56,6 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 - [Tableaux Challonge](https://osucfc.challonge.com/CFC3)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
-
------------------------
-
-## Planning des matches: Demi-finales
-
-### Samedi, 6 Octobre 2018
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Noulayfe | **14:00** |
-| #2 | floflim | ![][flag_FR] | ![][flag_FR] | Julo | **16:00** |
-| #3 | -Ken | ![][flag_TN] | ![][flag_FR] | Electr0o | **20:00** |
-| #4 | Boros | ![][flag_FR] | ![][flag_FR] | Holloh | **21:00** |
-
-### Dimanche, 30 Octobre 2018
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #5a | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **14:00** | ¹ |
-| #5b | -Ken | ![][flag_TN] | ![][flag_FR] | Holloh | **14:00** | ¹ |
-| #5c | Electr0o | ![][flag_FR] | ![][flag_FR] | Boros | **14:00** | ¹ |
-| #5d | Electr0o | ![][flag_FR] | ![][flag_FR] | Holloh | **14:00** | ¹ |
-| #6a | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
-| #6b | AAAAAAAAAAAAHHH | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
-| #6c | Noulayfe | ![][flag_FR] | ![][flag_FR] | floflim | **15:00** | ² |
-| #6d | Noulayfe | ![][flag_FR] | ![][flag_FR] | Julo | **15:00** | ² |
-
-¹ Confrontation dépendant du perdant du Match #3 et du Match #4
-
-² Confrontation dépendant du perdant du Match #1 et du Match #2
 
 -----------------------
 
@@ -111,7 +81,79 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 | **G** | ![][flag_FR] [Libegon](/users/9922381) | ![][flag_FR] [GyraFanBoy](/users/8417565) | ![][flag_MA] [l3ssili](/users/12123746) | ![][flag_BE] [-\[Smoked\]-](/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Mnemosyne](/users/9255433) | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [Astreachan](/users/2953898) |
 
+-----------------------
+
+## Podium
+
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Boros](/users/5490623) |
+
+-----------------------
+
 ## Liste des maps
+
+### Grandes finales
+
+**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
+
+- NoMod
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](/beatmapsets/696969/#fruits/1476212)
+  - [t+pazolite - Garakuta Doll Play (Minato Yukina) \[DECEPTION\]](/beatmapsets/848546/#fruits/1774427)
+  - [Morimori Atsushi - Paradigm Shift (Emiru) \[Quantum Fluctuation\]](/beatmapsets/727816/#fruits/1536733)
+  - [May'n - ViViD (Silynn) \[Lucid\]](/beatmapsets/160957/#fruits/393059)
+  - [Chroma - I (BarkingMadDog) \[TAMA-chan owo\]](/beatmapsets/752736/#fruits/1584722)
+  - [Memme - Avalanche (byfar) \[Glacial Cascade\]](/beatmapsets/340048/#fruits/782333)
+- Hidden
+  - [TAG underground overlay - 'EVERMORE SIDE A (Emiru) \[Over The "Period"\]](/beatmapsets/845175/#fruits/1767919)
+  - [Sebastien Pintinaux & Caroline Szatapski - 'EVERMORE SIDE A (Emiru) \[Sur tes pas\]](/beatmapsets/845175/#fruits/1767916)
+  - [Nekomata Master+ - squall (RLC) \[WIND\]](/beatmapsets/92052/#fruits/248991)
+  - [MYTH & ROID - L.L.L. (Feb) \[Love & Passion\]](/beatmapsets/341870/#fruits/891272)
+- HardRock
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Minato Yukina) \[CrystalSeed vs. CLSW's EX\]](/beatmapsets/427801/#fruits/934113)
+  - [THE IDOLM@STER CINDERELLA GIRLS!! - Dan \~ CTB \~ JumpMap Pack (Minato Yukina) \[Absolute NIne \~ 7th \~ Marathon\]](/beatmapsets/692137/#fruits/1467357)
+  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlocck) \[Northrend\]](/beatmapsets/12030/#fruits/45433)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](/beatmapsets/40344/#fruits/131286)
+- DoubleTime
+  - [ClariS - Connect -TV MIX- (Spectator) \[Spec's Overdose\]](/beatmapsets/203567/#fruits/500293)
+  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB newer competition\]](/beatmapsets/31297/#fruits/102921)
+  - [Scott Brown - Go Berzerk (yeahyeahyeahhh) \[Another\]](/beatmapsets/15298/#fruits/55474)
+  - [u's - Natsuiro Egao de 1, 2, Jump! (blissfulyoshi) \[Jump!\]](/beatmapsets/57762/#fruits/240107)
+- Tiebreaker
+  - **[Camellia feat. DJ SHARPNEL - werewolf howls and Over The Fullereneshift 1.3x (Emiru) \[Metamorphing into a EVA Bloodthirsty Lycanthrope\]](/beatmapsets/865829/#fruits/1810292)**
+
+### Finales
+
+**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0) - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ)**
+
+- NoMod
+  - [Memme - Barrier (Spectator) \[Overdose\]](/beatmapsets/768255/#fruits/1615696)
+  - [USAO - Boss Rush (Minato Yukina) \[MAXIMUM\]](/beatmapsets/602460/#fruits/1272534)
+  - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](/beatmapsets/817364/#fruits/1714006)
+  - [ALiCE'S EMOTiON - STAR KNiGHT (KagamineRin02) \[Still Love\]](/beatmapsets/310189/#fruits/693231)
+  - [Mediks - Come Back Down (Emilia) \[emilia's Extra\]](/beatmapsets/639013/#fruits/1388929)
+  - [Nitta Emi - White Eternity (Settia) \[Astral\]](/beatmapsets/360153/#fruits/791713)
+- Hidden
+  - [Ocelot - YUKARI (Emiru) \[MASTER\]](/beatmapsets/841401/#fruits/1760845)
+  - [lapix - Carry Me Away (Spectator) \[Ultra\]](/beatmapsets/776472/#fruits/1631436)
+  - [Eclipse - nO limiT (TV Size) (Louis Cyphre) \[Basquash!\]](/beatmapsets/15466/#fruits/59327)
+  - [Roselia - Guren no Yumiya (UndeadCapulet) \[Expert\]](/beatmapsets/820695/#fruits/1720274)
+- HardRock
+  - [EYE XY feat. Yoneko  - Knight of Firmament (Spectator) \[Overdose\]](/beatmapsets/709012/#fruits/1498888)
+  - [RYO - Shuffle Heaven (Maddy) \[eXtra\]](/beatmapsets/85802/#fruits/235470)
+  - [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](/beatmapsets/2626/#fruits/19990)
+  - [League of Legends - PROJECT: Hunters - Login Music (Vincs) \[Nihj\]](/beatmapsets/801026/#fruits/1681554)
+- DoubleTime
+  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](/beatmapsets/17819/#fruits/67504)
+  - [Aya Ishihara - Reset (Full ver) (Bikko) \[Madness\]](/beatmapsets/16641/#fruits/65756)
+  - [Machico - fantastic dreamer(TV-size) (Spectator) \[Spec's Rain\]](/beatmapsets/483175/#fruits/1030971)
+  - [Perfume - MY COLOR (BluOxy) \[Extra\]](/beatmapsets/123654/#fruits/315660)
+- Tiebreaker
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Spectator) \[Overdrive\]](/beatmapsets/713891/#fruits/1508761)**
 
 ### Demi-finales
 
@@ -214,6 +256,34 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 ------------------------------------------------------------------------
 
 ## Résultats des matches
+
+### Grandes finales
+
+| Samedi, 2018-10-20 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](/community/matches/46842396) |
+
+### Finales
+
+| Samedi, 2018-10-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](/community/matches/46670175) |
+| **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](/community/matches/46673460) |
+| **Noulayfe** ![][flag_FR] | **7** | 4 | ![][flag_FR] Boros | [#1](/community/matches/46677078) |
+
+### Demi-finales
+
+| Samedi, 2018-10-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/46497617) |
+| floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | -win by default- |
+| **-Ken** ![][flag_TN] | **6** | 0 | ![][flag_FR] Electr0o | [#1](/community/matches/46508723) |
+| **Boros** ![][flag_FR] | **6** | 3 | ![][flag_FR] Holloh | [#1](/community/matches/46510801) |
+
+| Dimanche, 2018-10-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](/community/matches/46530564) |
+| **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](/community/matches/46536947) |
 
 ### Quarts-de-finale
 

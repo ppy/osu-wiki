@@ -7,7 +7,7 @@ tags:
 
 ![TSC Logo](img/logo.png)
 
-The **Taiko Suiji Cup** (***TSC***) is a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It was the 1st installment of the Taiko Suiji Cup.
 
 ## Tournament Schedule
 
@@ -32,7 +32,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The Taiko Suiji Cup is run by various osu!taiko community members.
+The Taiko Suiji Cup was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,33 +48,8 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](/community/forums/topics/782877)
-- [Official TSC Discord](https://discord.gg/AE4qGwZ)
-- [Challonge brackets and predictions](https://challonge.com/TaikoSuijiCup)
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
-
------------------------
-
-## Match Schedule: Finals
-
-### Saturday, 29 September 2018
-
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| #1 | MIStaikon | hello we play taiko | **14:00** |
-
-### Sunday, 30 September 2018
-
-| Match ID | Team A | Team B | Match Time (UTC) |  |
-| :-: | --: | :-- | :-: | :-: |
-| #2 | Samurai Pizza Cats | BabySnakes is Dumb | **00:00** |  |
-| #3a | MIStaikon | Samurai Pizza Cats | **11:30** | ¹ |
-| #3b | MIStaikon | BabySnakes is Dumb | **11:30** | ¹ |
-| #3c | hello we play taiko | Samurai Pizza Cats | **11:30** | ¹ |
-| #3d | hello we play taiko | BabySnakes is Dumb | **11:30** | ¹ |
-| #4 | I like grosses baguettes | jakpat | **13:00** |  |
-
-¹ Encounter dependent on winner of Match #1 and Match #2
 
 -----------------------
 
@@ -117,7 +92,54 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 -----------------------
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | jakpat |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
+
+-----------------------
+
 ## Mappools
+
+### Grand Finals
+
+**Download the mappack here! (86 MB) - [MEGA](https://mega.nz/#!MoNQDAbA!0ca6h-0hffFuWbtCLC-h63PM9qfb48KbvSsD5lpMteY) - [Direct Link](https://htfarmingiscool.s-ul.eu/9odc3wed)**
+
+#### Mappool A
+
+- NoMod
+  - [Yu\_Asahina feat Ritsuka - HAELE III \~Angel Worlds\~ (Extended ver.) (ll-oscar) \[ll-taiko St.\]](/beatmapsets/699762/#taiko/1481648)
+  - [Camellia - gigadelic (Camellia's 'THE TERA' Remix) (-Kazu-) \[Inner Oni\]](/beatmapsets/836037/#taiko/1750877)
+  - [Kola Kid - a whole lotta Kola Kid songs (Raphalge) \[square spooner fisher pusher\]](/beatmapsets/607839/#taiko/1286167)
+  - [BLACKY - IKAROS DYNAMITE!!!! (Vulkin, \[\_Chicinya\_\]) \[Chilkinya's DYNAMITE\]](/beatmapsets/537224/#taiko/1138487)
+- Hidden
+  - [Project B- - Sarutobi Champion is sessha (agu) \[Ura Oni\]](/beatmapsets/584362/#taiko/1236248)
+  - [Hinolsuka - Moonheart (hoku) \[hokuoni^-^\]](/beatmapsets/742266/#taiko/1565655)
+- HardRock
+  - [Feryquitous remixed by xi - Dst\[ick\]orv (komasy) \[DecO\[ni\]y\]](/beatmapsets/607690/#taiko/1283510)
+  - [Taishi - chapter4 Dream to the East (Rafael Nadal) \[chapter7 Journey to the West\]](/beatmapsets/820100/#taiko/1719302)
+- FreeMod
+  - [REDALiCE - Masakari Blade (yea) \[Lunatic Oni\]](/beatmapsets/769289/#taiko/1617603)
+  - [Umeboshi Chazuke - Owari to Hajimari no Oto (\_DUSK\_) \[Special\*\]](/beatmapsets/800315/#taiko/1680195)
+
+#### Mappool B
+
+- Challenge
+  - [Ryu\* - !Viva! (Nofool) \[Insane Oni\]](/beatmapsets/799895/#taiko/1679280)
+  - [katagiri - L4.8TS (KitajimaYN) \[Never Forgot\]](/beatmapsets/729494/#taiko/1539826)
+- DoubleTime
+  - [Draw the Emotional & Foreground Eclipse - Accept your fate now (eiri-) \[Inner Oni\]](/beatmapsets/773793/#taiko/1626518)
+- Easy
+  - [Camellia - Venomous Firefly (rezi888) \[Little Bug Storm\]](/beatmapsets/853179/#taiko/1783147)
+- Hidden+HardRock
+  - [4nzu - Super Jackie (7\_7) \[Oni\]](/beatmapsets/757347/#taiko/1593257)
+- Tiebreaker
+  - **[Loctek - Mad Breaks (Nishizumi) \[Oni\]](/beatmapsets/814517/#taiko/1708054)**
 
 ### Finals
 
@@ -298,6 +320,28 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 
 ## Match Results
 
+### Grand Finals
+
+| Saturday, 2018-10-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](/community/matches/46519821) |
+
+| Sunday, 2018-10-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| i like grosses baguettes | 3 | **7** | **jakpat** | [#1](/community/matches/46533762) |
+
+### Finals
+
+| Saturday, 2018-09-29 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-- |
+| MIStaikon | 3 | **7** | **hello we play taiko** | [#1](/community/matches/46326384) |
+
+| Sunday, 2018-09-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Samurai Pizza Cats | 0 | **7** | **BabySnakes is Dumb** | -win by default- |
+| **i like grosses baguettes** | **7** | 6 | jakpat | [#1](/community/matches/46359023) |
+| hello we play taiko | 4 | **7** | **BabySnakes is Dumb** | [#1](/community/matches/46359727) |
+
 ### Semifinals
 
 | Saturday, 2018-09-22 |  |  |  |  | 
@@ -357,7 +401,7 @@ The Taiko Suiji Cup is run by various osu!taiko community members.
 | **Magnolia** | **5** | 4 | Tai-KO | [#1](/community/matches/45832984) |
 | **hello we play taiko** | **5** | 4 | Team Seven | [#1](/community/matches/45833083) |
 | **jakpat** | **5** | 0 | 69% acc | [#1](/community/matches/45833075) |
-| **BabySnakes is Dumb** | **5** | 3 | [#1](/community/matches/45834255) |
+| **BabySnakes is Dumb** | **5** | 3 | E=mc^2 | [#1](/community/matches/45834255) |
 | **Fun Assurance Team** | **5** | 1 | ERROR 404: Team Name Not Found | [#1](/community/matches/45834432) |
 | TaikOwO | 0 | **5** | **pneumonoultramicroscopicsilicovolcanoconiosis** | -win by default- |
 | **The Tasuke Train** | **5** | 0 | Team 7 | -win by default- |

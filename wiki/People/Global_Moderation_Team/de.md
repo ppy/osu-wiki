@@ -27,8 +27,9 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanisch | Tournaments |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technische Unterstützung |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | Koreanisch, Japanisch | Chat Moderation, Forum Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Spieler Hilfe |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarisch | osu!idol hosting, Forum Moderation, Chat Moderation |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarisch | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinesisch | Chat Moderation, Forum Moderation |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Französisch | Chat Moderation, Forum Moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polnisch | Chat Moderation |
@@ -57,11 +58,12 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Chat Moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Deutsch | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russisch | Chat Moderation |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russisch | Chat Moderation |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreanisch, Japanisch | Chat Moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Französisch | Chat Moderation |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippinisch | Chat Moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch | Technische Unterstützung |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polnisch | Chat Moderation |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | | Technische Unterstützung |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanisch | Chat Moderation, Tournaments, Forum Moderation |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polnisch | Chat Moderation |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chinesisch | Chat Moderation |
@@ -70,7 +72,6 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

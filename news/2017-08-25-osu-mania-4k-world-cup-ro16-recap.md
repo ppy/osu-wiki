@@ -42,7 +42,7 @@ The final two matches saw Poland vs. Chile and Sweden vs. United States. While b
 ![](/wiki/shared/news/2017-08-25-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
 
 --------
-And that's a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser's bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017/4K). 
+And that's a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser's bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017_4K). 
 
 Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don't want to miss! 
 
