@@ -114,7 +114,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Jepang A | ![][flag_TW] Taiwan A | ![][flag_JP] Jepang D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
 ### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
 
@@ -171,7 +171,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
-| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
