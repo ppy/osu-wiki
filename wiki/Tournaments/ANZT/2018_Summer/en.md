@@ -2,7 +2,7 @@
 
 *See also: [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter)*
 
-![Osu! AU/NZ Tournament 5 Summer](img/logo.jpg)
+![ANZT 5S Logo](img/logo.jpg)
 
 The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the 5th installment of Aus/NZ tourneys.
 
@@ -13,10 +13,10 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 | Registration Phase | 2017-12-22/2018-01-21 |
 | Qualifiers | 2018-01-26/2018-01-28 |
 | Round of 64 | 2018-02-02/2018-02-04 |
-| Round of 32 & Losers Bracket Rounds 1 & 2| 2018-02-09/2018-02-11 |
-| Round of 16 & Losers Bracket Rounds 3 & 4| 2018-02-16/2018-02-18 |
-| Quarterfinals & Losers Bracket Rounds 5 & 6| 2018-02-23/2018-02-25 |
-| Semifinals & Losers Bracket Rounds 7 & 8| 2018-03-02/2018-03-04 |
+| Round of 32 & Losers Bracket Rounds 1 & 2 | 2018-02-09/2018-02-11 |
+| Round of 16 & Losers Bracket Rounds 3 & 4 | 2018-02-16/2018-02-18 |
+| Quarterfinals & Losers Bracket Rounds 5 & 6 | 2018-02-23/2018-02-25 |
+| Semifinals & Losers Bracket Rounds 7 & 8 | 2018-03-02/2018-03-04 |
 | Finals - Week 1 | 2018-03-09/2018-03-11 |
 | Finals - Week 2 | 2018-03-17 |
 
