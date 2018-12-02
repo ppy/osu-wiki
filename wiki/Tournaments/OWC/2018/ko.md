@@ -32,15 +32,15 @@ tags:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
-## 월드컵 조직도
+## 대회 운영진
 
 오스 월드컵 2018에서는 여러 커뮤니티 멤버들이 다양한 분야에 다양한 업무를 분산시켜 운영합니다.
 
 
-| 직책 | 명단 |
+| 운영진 | 목록 |
 | :-- | :-- |
 | 월드컵 매니지먼트 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| 경기 맵 셀렉터 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
+| 비트맵풀 셀렉터 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
 | 해설 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_US] [Happystick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943) |
 | 심판 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 통계 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -56,7 +56,7 @@ tags:
 ## 국가별 선수명단
 (국가는 알파벳순 입니다)
 
-| | 국가 | 명단 |
+| | 국가 | 선수 |
 | --: | :-: | :-- |
 | ![][flag_AR] | **아르헨티나** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [FastoFreezu](https://osu.ppy.sh/users/3608846), [Serena](https://osu.ppy.sh/users/756068), [Ceja](https://osu.ppy.sh/users/4185921), [Rimi](https://osu.ppy.sh/users/5194834), [LuBren](https://osu.ppy.sh/users/6573651), [Cata](https://osu.ppy.sh/users/5958063) |
 | ![][flag_AU] | **호주** | **[GranDSenpai](https://osu.ppy.sh/users/3997580)**, [TheOmyNomy](https://osu.ppy.sh/users/4241054), [Jordan The Bear](https://osu.ppy.sh/users/7477458), [Lunirs](https://osu.ppy.sh/users/2118945), [-Machine-](https://osu.ppy.sh/users/5459981), [Dumii](https://osu.ppy.sh/users/3068044), [Blobby3000](https://osu.ppy.sh/users/6916774), [uyghti](https://osu.ppy.sh/users/3641404) |
