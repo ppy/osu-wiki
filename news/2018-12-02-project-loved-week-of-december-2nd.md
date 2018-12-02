@@ -1,0 +1,215 @@
+---
+layout: post
+title: "Project Loved: Week of December 2nd"
+date: 2018-12-02 20:00:00 +0000
+---
+
+Who's ready to get some more maps Loved? [Project Loved](https://osu.ppy.sh/community/forums/120) is bringing yet another batch of beatmaps to the table, and it's up to you to decide which ones will make it into the Loved category!
+
+[![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
+
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
+
+Some of you may remember how the osu!standard captains previously raised the voting threshold to 90%, only to later decrease it back to 85. We want to give those maps that were denied their admission into Loved a fair chance, so this round we are adding a section for what [Toy](https://osu.ppy.sh/users/2757689) calls "redemption voting": any map previously denied at a vote percentage higher than 85% will have a new poll opened alongside the other maps this week. As usual, there will still be 10 standard maps nominated independent of this section.
+
+We also have some new captains to introduce! Welcome [fartownik](https://osu.ppy.sh/users/56917) to the osu!standard team, and [Lenfried-](https://osu.ppy.sh/users/5314573) to osu!mania! Both are going to be selecting maps and writing descriptions alongside the existing captains.
+
+In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+
+### Navigation
+
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
+
+## <a name="osu" id="osu"></a>osu!
+
+osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fartownik](https://osu.ppy.sh/users/56917), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
+
+---
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/just-hold-on-to-all-fighters.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Void - Just Hold on (To All Fighters)](https://osu.ppy.sh/beatmapsets/409837#osu) by [Echoy](https://osu.ppy.sh/users/3729163)  
+*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/attack-from-mandrake.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Camellia - ATTACK FROM MANDRAKE](https://osu.ppy.sh/beatmapsets/672421#osu) by [Akali](https://osu.ppy.sh/users/2127359)  
+*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/shera.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[MYUKKE. - SHERA](https://osu.ppy.sh/beatmapsets/635015#osu) by [melloe](https://osu.ppy.sh/users/2367616)  
+*written by [fartownik](https://osu.ppy.sh/users/56917)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/the-clockwork-rose-tokei-shikake-no-bara-shoujo.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo-](https://osu.ppy.sh/beatmapsets/473735#osu) by [Xenok](https://osu.ppy.sh/users/3256600)  
+*written by [fartownik](https://osu.ppy.sh/users/56917)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/trigger-happy-hommarju-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[P\*Light - TRIGGER\*HAPPY (Hommarju Remix)](https://osu.ppy.sh/beatmapsets/171815#osu) by [Lokovodo](https://osu.ppy.sh/users/2154081)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/knew-day-tv-size.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[(K)NoW\_NAME - Knew day (TV Size)](https://osu.ppy.sh/beatmapsets/426716#osu) by [Avishay](https://osu.ppy.sh/users/2597311)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/up-the-bum-no-baiiiiibeez.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[weyheyhey !! - UP THE BUM NO BAIIIIIBEEZ](https://osu.ppy.sh/beatmapsets/458037#osu) by [Silverboxer](https://osu.ppy.sh/users/2166762)  
+*written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/kirby-mix-compilation-2.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Various Artists - KIRBY Mix Compilation 2](https://osu.ppy.sh/beatmapsets/549969#osu) by [Nitroz](https://osu.ppy.sh/users/5256529) and [Starrodkirby86](https://osu.ppy.sh/users/410)  
+*written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/labyrinth.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[lapix - Labyrinth](https://osu.ppy.sh/beatmapsets/615878#osu) by [Akali](https://osu.ppy.sh/users/2127359)  
+*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+
+description
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/yava.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[BABYMETAL - YAVA!](https://osu.ppy.sh/beatmapsets/476612#osu) by [[ Kohioma ]](https://osu.ppy.sh/users/4211859)  
+*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+
+description
+
+## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+
+osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)! This week, all osu!taiko beatmap descriptions were written by [Backfire](https://osu.ppy.sh/users/263110).
+
+---
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/taiko/beat-the-drum-hard-kobaryo-s-ftn-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Sinister Souls - Beat The Drum Hard (Kobaryo's FTN-Remix)](https://osu.ppy.sh/beatmapsets/747031#taiko) by [Nyanners-](https://osu.ppy.sh/users/459886) and [Backfire](https://osu.ppy.sh/users/263110)
+
+So, a short story about this map: I was a big fan of it from the start (originally, it was made by just Nyanners-). It was one of Nyanners-'s first maps, and it had these unbelievably hard burst sections that were very difficult to hit. There was always something compelling about the song and the way those burst sections felt, which I would argue are the map's main drawing point. It does not pull punches with its difficulty. However, the map was deleted, but I spoke with Nyanners- about re-uploading it, with some changes to make it a truly great map. That is how we are left with the map as it is currently presented! The two difficulties are the original by Nyanners- and an SV + modified version that I created. Players may be familiar with it also from tournaments like [Taiko Battlegrounds](https://osu.ppy.sh/community/forums/topics/644119) and [LMS: Shift Cup](https://osu.ppy.sh/community/forums/topics/744163)!
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/taiko/manatsu-no-mitsu-to-kuchibiru.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[yukina (TUMENECO) - Manatsu no Mitsu to Kuchibiru](https://osu.ppy.sh/beatmapsets/840748#taiko) by [Liz7](https://osu.ppy.sh/users/12164489)
+
+Liz7 is a very famous taiko mapper; however, his small catalogue on osu! doesn't lend to that claim very much. A quick foray over to his YouTube channel shows he is a master mapper in the taiko emulator "TaikoJiro". Japanese players there are already very familiar with Liz, and his osu!taiko maps are also pretty well known. Stylistically, they are very interesting compared to most other mappers. He utilizes cool bar-line tricks, clean SVs and good Jiro-style patterns. This is also a very new-player friendly map, so everyone can find out what's so fun about it!
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/taiko/k-y-a-f-a-kill-you-all-fucking-asshole.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Camellia - K.Y.A.F.A. (Kill You All Fucking Asshole)](https://osu.ppy.sh/beatmapsets/460282#taiko) by [SKSalt](https://osu.ppy.sh/users/3280542)
+
+The very famous mapper SKSalt appears for his fourth time in Loved. This one in particular is a Camellia track, K.Y.A.F.A., which is a perfect fit for SK's mapping style, as his very dense patterns lend very well to the chaotic nature of Camellia's music. Though SKSalt has not been seen for over a year, and this map is over 2 years old, his mapping seems at the very least ahead of his time, as the 1/6 usage is as clean and fun as any modern map. A great choice to represent one of the osu!taiko legends!
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/taiko/sweet-melty-memes.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[TMABird - Sweet Melty Memes](https://osu.ppy.sh/beatmapsets/437721#taiko) by [Mew104](https://osu.ppy.sh/users/2345156)
+
+Very well-known to those who are familiar with the osu!taiko World Cups, Sweet Melty Memes was a warmup map picked by Germany many times, and it features a ton of very unsightreadable sections. It's a classic Mew map, that is part of a series that goes along with [Mute City](https://osu.ppy.sh/beatmapsets/592315), as they are both mash-ups that require you to memorize if you want to pass, let alone FC the maps.
+
+## <a name="osucatch" id="osucatch"></a>osu!catch
+
+osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)!
+
+---
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/catch/force-of-ra.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Memme - Force of RA](https://osu.ppy.sh/beatmapsets/453149#fruits) by [Badis](https://osu.ppy.sh/users/559308)  
+*written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
+
+Force of Ra by Badis is a jack of all trades: it has fast wiggles, bursts as well as a few hyperwalks and much more. If you are looking for a single difficulty with a lot of diversity in it, then you might enjoy this one. However, it is not an easy map. There are a lot of patterns which are easy to miss. If you go for an FC, you are required to have good reading, considerable speed and consistency. For aspiring players it might already be a challenge to pass, but all in all it is a nicely done beatmap which is a challenge for most of the playerbase.
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/catch/dopamine.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[U1 overground - Dopamine](https://osu.ppy.sh/beatmapsets/490239#fruits) by [ExGon](https://osu.ppy.sh/users/214187)  
+*written by [Ascendance](https://osu.ppy.sh/users/2931883)*
+
+Boasting a strong 2nd place in the 2016 osu!catch Transcend Contest, ExGon's rendition of Dopamine is an incredibly creative challenge that is sure to put many players to the test. Requiring precise catcher control for high-speed droplets, trademark hyperwalks, alongside some unique concepts, any fans of the rare aspire-style appearances in mapping will be sure to enjoy this fantastic difficulty!
+
+## <a name="osumania" id="osumania"></a>osu!mania
+
+osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Kamikaze](https://osu.ppy.sh/users/2124783), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+
+---
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/a-journey-through-4k.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[(Various Artists) - A Journey through 4K](https://osu.ppy.sh/beatmapsets/489902#mania) by [Cadmium-113](https://osu.ppy.sh/users/4749111)  
+*written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+
+We are beginning this week's selection with A Journey Through 4K, a map pack made by Cadmium-113. This set lives up to its name and takes the player on a fascinating, yet bumpy ride across the various styles and patterns that 4K has to offer. The charts from this pack differ in terms of style and difficulty, but they are all rather challenging because of their dumpy nature. Vote on this set in the Loved voting and immerse yourself in the Journey through 4K!
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/ghost.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/741292#mania) by [Gekido-](https://osu.ppy.sh/users/4693052)  
+*written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
+
+Peeking its head out yet again after its use as finals tiebreaker in two of the biggest 4K tournaments of 2018, SOFT3 and MWC 4K 2018, is GHOST, an absolute monster of a chart created by none other than Gekido-, a well known figure in the community for his capabilities with many different chart elements, like long notes, tech, and in some cases even SV. Such is the case with GHOST, being an amalgamation of these different elements, pushing the physical capabilities of the players' speed, long notes, tech, and SV reading capabilities to their limits. For these reasons, it should be clear why this was chosen for both of the tournaments, why the community sees it in such a positive light, and why it has been nominated for the Loved section!
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/tilde-s-revenge.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[terminal11 - tilde's revenge](https://osu.ppy.sh/beatmapsets/585671#mania) by [Xay](https://osu.ppy.sh/users/961417)  
+*written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
+
+Pure technical play with a plethora of burst, minijack, and long-jack patterns, coupled with the physical and mental stamina that come with the four minute runtime define the next chart being nominated, Xay's "tilde's revenge". We've seen plenty of extremely high quality charts from Xay before, such as Eviscerate and Bow Down, You Ignorant Fools, both of which were previously loved, and this choice meets the expectations set by those two charts, being a well-constructed chart to an interesting and seemingly rarely seen idm group, terminal11. These points give plenty of reason for the community interest in the chart, and give it a good spot among the Loved nominations.
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/hellfire.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Hommarju - Hellfire](https://osu.ppy.sh/beatmapsets/469343#mania) by [snoverpk](https://osu.ppy.sh/users/3595196) and [\_underjoy](https://osu.ppy.sh/users/2235750)  
+*written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
+
+It's all about how well one can handle extremely fast jacks in the next nomination for osu!mania. Clocking in at 176 BPM with a large surplus of fast jack-tech is snoverpk's Hellfire. This chart starts with about 20 seconds of calm before unleashing a fury of minijacks and gluts with the occasional burst to spice things up a bit. With a small break and some buildup, it comes to a massive wall, which is only to be followed by the densest section of the chart to finish it off. This is an intense challenge to be sure, only shown off by its inclusion in the osu!mania 4K World Cup 2016 Finals map pool. This and the great use it has as a skill tester make it a fantastic nomination for the Loved Section.
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/satori-de-pon.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[goreshit - satori de pon!](https://osu.ppy.sh/beatmapsets/400292#mania) by [qodtjr](https://osu.ppy.sh/users/3021168)  
+*written by [stupud man](https://osu.ppy.sh/users/2141612)*
+
+It's been awhile since qodtjr has made an appearance in Project Loved, and he's back with arguably his most popular map yet. satori de pon!'s "easier" difficulty is more than enough to give higher-level players a challenge. Its unique anchor-heavy chordstreaming at such a high BPM makes it one of the only speed chordstream maps at its difficulty level. Although chordstreams are more than common for qodtjr to map, it's pleasantly surprising to see him take it on in this manner. Its recently updated harder difficulty takes that same chart and layers it even further, creating that challenge scaled to the playing level of the people too inhuman to play this game. While it might seem too hard to approach at first with its underrated star rating, it's definitely something that has made its way into multiple players' practice routines, and is more than worthy of a leaderboard.
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/sore-wa-chiisana-hikari-no-youna-feat-k-chan-dj-jo-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[dj-Jo - Sore wa Chiisana Hikari no Youna feat. k\*chan [ dj-Jo Remix ]](https://osu.ppy.sh/beatmapsets/477820#mania) by [ArcherLove](https://osu.ppy.sh/users/2468021)  
+*written by [aitor98](https://osu.ppy.sh/users/3154852)*
+
+Sore wa Chiisana Hikari no Youna is a map made by Archerlove in mid-2016, and it is quite special. It does have 4 difficulties, going from 2 stars to 6 and a half, which makes it accessible for every kind of player. This set features mostly long notes and crazy jacky sections, which are really hard to handle with ease. It also features a few sightreadable SVs and slowjams every here and there, but the jacks mixed with the complex LN patterning makes this chart one of a kind. The hardest difficulty might look a little bit overrated, but the way the patterns are put together, makes a chart good enough for Loved.
+
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/miss-you.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Nhato - Miss You](https://osu.ppy.sh/beatmapsets/204326#mania) by [BilliumMoto](https://osu.ppy.sh/users/3862471)  
+*written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
+
+And for our last pick we have a chart that should be familiar if you're following osu!mania World Cups frequently: BilliumMoto's rendition of Miss You. This song seems like a perfect fit for BillumMoto as a charter as he's very well known for the complexity in his charts and he pulls no stops here as well. It's a very complex LN oriented chart with technical patterning, tough releases, jacks, uncomfortable patterns and on top of that some pretty neat SV gimmicks. Being featured in the Quarter Finals of MWC 7K 2016, the chart is proven to be competitive enough, and with its unique style and execution, I think this is a really good pick for the Loved category!
+
+---
+
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [clayton](https://osu.ppy.sh/users/3666350), [Ephemeral](https://osu.ppy.sh/users/102335), [Noffy](https://osu.ppy.sh/users/1541323) and [Toy](https://osu.ppy.sh/users/2757689) for their miscellaneous help in managing Project Loved.
+
+If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+
+—the Project Loved team
