@@ -109,7 +109,7 @@ This is an amazing mapset done by [ Kohioma ] with an awesome BABYMETAL song, YA
 
 Hey, you! Yeah, you there, scrolling through the Loved map showcase post and checking out the descriptions. Have you been craving a map with not much except all that snappy jump goodness we know and love? Maybe even a catchy trap song to go along with it? If it feels like I'm calling your name, you surely won't want to miss out on this map. At almost 200 favorites, this map of "Break Them" by olteR has already caught the eyes of many. This mid-6-star map flooded with nothing but solid 200 BPM jumps may be exactly what you've been looking for. Check it out!
 
-[![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/calling-out-feat-kg-skyelle-205.jpg)](https://osu.ppy.sh/community/forums/topics/837090)
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/calling-out-feat-kg-skyelle-speed-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/837090)
 
 [Muzzy - Calling Out (feat. KG & Skyelle) (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/392041) by [elchxyrlia](https://osu.ppy.sh/users/1722835)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
