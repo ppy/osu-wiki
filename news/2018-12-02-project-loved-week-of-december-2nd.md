@@ -19,6 +19,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 ### Navigation
 
 - [osu!](#osu)
+    - [osu! Redemption](#osu-redemption)
 - [osu!taiko](#osutaiko)
 - [osu!catch](#osucatch)
 - [osu!mania](#osumania)
@@ -98,6 +99,43 @@ With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 s
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 This is an amazing mapset done by [ Kohioma ] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
+
+### <a name="osu-redemption" id="osu-redemption"></a>osu! Redemption
+
+[![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/break-them.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Aero Chord - Break Them (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/516608#osu) by [olteR](https://osu.ppy.sh/users/7152332)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+Hey, you! Yeah, you there, scrolling through the Loved map showcase post and checking out the descriptions. Have you been craving a map with not much except all that snappy jump goodness we know and love? Maybe even a catchy trap song to go along with it? If it feels like I'm calling your name, you surely won't want to miss out on this map. At almost 200 favorites, this map of "Break Them" by olteR has already caught the eyes of many. This mid-6-star map flooded with nothing but solid 200 BPM jumps may be exactly what you've been looking for. Check it out!
+
+[![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/calling-out-feat-kg-skyelle-205.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Muzzy - Calling Out (feat. KG & Skyelle) (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/392041) by [elchxyrlia](https://osu.ppy.sh/users/1722835)  
+*written by [Toy](https://osu.ppy.sh/users/2757689)*
+
+If you've played one lahphnya map, you've played them all. Right? I'm not here to answer that, but if that's the case, then whatever elchxyrlia is doing, he's been doing it right for years. Yet another nearly 200 favorite Speed Up Ver. of an already exciting fast paced song, mixed with spaced streams and full screen jumps, all set to roast together in the oven and you've got a decked out 8\* mammoth of a map.
+
+[![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/francium.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Nanahira - Francium](https://osu.ppy.sh/beatmapsets/148615#osu) by [T1Y](https://osu.ppy.sh/users/2293227)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+One can never seem to have enough Nanahira maps, huh? Here's a two-difficulty mapset of Nanahira's "Francium", mapped by T1Y, with both difficulties hovering around low-5 stars. Don't get thrown off by the star rating, though (this is quite the common phrase nowadays, isn't it?)—both difficulties have quite high approach rates, with the top difficulty sitting at an approach rate of 10. Speaking of the top difficulty, who would have guessed a Nanahira song could support so many fun cut streams? If you're a fan of flowy stream aim, you won't want to skip out on giving this amazing map a try. For those of you who are less inclined to enjoy high AR cut streams, the lower difficulty is still an option, as it's based on more symmetry-based patterns at a slightly lower AR. Let's not forget about the song to top it all off, though: after all, it's "simply the cutest".
+
+[![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/insane-techniques-extended.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/181957) by [RLC](https://osu.ppy.sh/users/1047883) and [fanzhen0019](https://osu.ppy.sh/users/418699)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+Some of you may know the other ranked mapsets of this song, but I'd say you're missing out if you haven't given this version a try as well. In 2014, RLC and fanzhen0019 came together to collab the extended version of this up-beat banger of a track by kors k. The comparison of their mapping styles in this collab is quite interesting, and overall makes for a very engaging map. Over 110 players have favorited this map so far, and if you're one for five minutes of disconnected streams and variable slider velocities, you just might be the next one!
+
+[![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/steamed-hams.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+
+[Principal Skinner and Superintendent Chalmers - Steamed Hams](https://osu.ppy.sh/beatmapsets/729089#osu) by [ProfessionalBox](https://osu.ppy.sh/users/3250792)  
+*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+
+Many of you may recognize this iconic scene from The Simpsons; it's an everlasting meme filled with unmatched potential. This map by ProfessionalBox certainly puts that potential to good use: it's a low-4-star beatmap of the entire scene, mapped in a professional style (unintended pun, ok...). The scene begins with the character Principal Skinner inviting Superintendent Chalmers to an "unforgettable luncheon". But... what's this? Skinner burned the dinner in the oven! What will his plan be to make sure his meal with the superintendent is still an unforgettable luncheon!? If you don't already know, check out the map to find out! If you do know, you should still check out the map—I'm sure you'll love it!
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
