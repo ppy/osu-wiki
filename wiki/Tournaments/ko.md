@@ -10,7 +10,7 @@
 
 ### ![](/wiki/shared/mode/osu.png) 오스 스탠다드 월드컵
 
-오스 월드컵은 스탠다드 모드로 진행되며 나라별 4명의 선수들이 더블엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
+오스 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수들이 더블엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@
 --------
 
 -   [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
--   [오스 공식 대회에 참가한 나라 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+-   [오스 공식 대회에 참가한  목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (대회 전용 스트리밍 클라이언트)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
