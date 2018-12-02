@@ -87,7 +87,7 @@ If you were around in the old osu! times, you would recognize a mapper called St
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/dreamin-attraction-extended.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
-[hino isuika - Dreamin' attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/450340#osu) by [elchxyrlia](https://osu.ppy.sh/users/1722835)  
+[Hino Isuka - Dreamin' attraction​!​! ​(​Extended)](https://osu.ppy.sh/beatmapsets/450340#osu) by [elchxyrlia](https://osu.ppy.sh/users/1722835)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 stars, with a low OD and almost 90 favourites, Dreamin' attraction is a map you wouldn't want to miss any notes on! A very energetic song mixed with mappers high spacing style makes this map perfect for high-skilled players. It maintains its flow throughout the song, keeping the player focused on the playfield, with a short interval in the middle section for the player to relax. This map is great for those who enjoy pushing themselves to the limit! Are you one of them?
