@@ -34,70 +34,70 @@ osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/317
 [Void - Just Hold on (To All Fighters)](https://osu.ppy.sh/beatmapsets/409837#osu) by [Echoy](https://osu.ppy.sh/users/3729163)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-description
+This song is a message to all players on their uphill journey to stamina improvement. Similar to last week's AO-Infinity, this map is a test for everything stream-wise, only this time things are cranked to the extreme. This map by Echoy is filled with 170 BPM deathstreams, some at over 200 notes, but it doesn't stop there. These deathstreams employ variations that will make aiming them extremely difficult, including snapstreams, sliderstreams, spaced streams, jumpstreams, accelerating streams, and double streams. This is truly the jack-of-all-trades map for streams.
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/attack-from-mandrake.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Camellia - ATTACK FROM MANDRAKE](https://osu.ppy.sh/beatmapsets/672421#osu) by [Akali](https://osu.ppy.sh/users/2127359)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-description
+Those who follow Project Loved will be happy to see Akali return for yet another week, this time featuring his take on Camellia's "ATTACK FROM MANDRAKE". Unlike his past maps, this one tends to be a bit more friendly towards players, as its difficulty rating levels around 5.5 stars. The map has actually been featured in a few tournament tiebreakers, giving testament to its overall consistent difficulty for a tech-based map. Give it a swing and be sure to come back and vote for its place in Project Loved!
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/shera.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [MYUKKE. - SHERA](https://osu.ppy.sh/beatmapsets/635015#osu) by [melloe](https://osu.ppy.sh/users/2367616)  
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
-description
+After the huge success of melloe's Seashore on the Moon set, it's finally time to bring some more of his work to the spotlight. In this banger of a song, melloe once again proves that not all was carved in stone within the osu! map editor. Even though the map is only two minutes long, it will take you on a journey through a variety of low-BPM stream patterns that you likely haven't experienced before, but before that, you will be greeted by one of the coolest wub-slider sections ever with a little bit of 2B mapping thrown in there. If you consider yourself a "technical player", I dare you to try this one.
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/the-clockwork-rose-tokei-shikake-no-bara-shoujo.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo-](https://osu.ppy.sh/beatmapsets/473735#osu) by [Xenok](https://osu.ppy.sh/users/3256600)  
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
-description
+In this Japanese gothic-idol, dubstep-flavoured tune, Xenok shows off his skills in creating technical maps with very demanding rhythms. If you are familiar with this mapper, then you likely know what to expect from this masterpiece. Xenok operates incredibly well with slider velocity and shape, emphasizing all the "wub" sounds to create a memorable experience for the player. To add to difficulty, he uses plenty of 1/6 circle patterns to spice things up. Since the map doesn't use many jumps and mostly utilizes flow-aim style patterns, it will be a treat for all the alternate-style lovers out there.
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/trigger-happy-hommarju-remix.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [P\*Light - TRIGGER\*HAPPY (Hommarju Remix)](https://osu.ppy.sh/beatmapsets/171815#osu) by [Lokovodo](https://osu.ppy.sh/users/2154081)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-description
+Are you trigger happy? This Lokovodo map of an appropriately named song might be just what you're looking for. At 200 BPM, this map of "TRIGGER\*HAPPY" certainly lives up to its star difficulty of nearly 8.5. The mapset has AR9 and AR10 versions of the same map, so it's suitable for both kinds of players. Despite only being HP3, its intense patterns have made the map quite the challenge to pass. If you think you're up for this high-star test, try and see if you can join the group of very few players who have managed to clear this map!
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/knew-day-tv-size.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [(K)NoW\_NAME - Knew day (TV Size)](https://osu.ppy.sh/beatmapsets/426716#osu) by [Avishay](https://osu.ppy.sh/users/2597311)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-description
+Once upon a time, this map was qualified. It was sent back to pending due to some issues, and never saw the light of day again. As such, the mapset has a full difficulty spread ranging from mid 1-star to mid 5-stars. Although the song itself is TV sized, don't jump to any stereotypes—Avishay, the mapper, is able to keep you on your toes for the entirety of the map. If you're one for alternating patterns that require some unconventional cursor movements, the last thing you'd want to do is skip over this map. Check it out!
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/up-the-bum-no-baiiiiibeez.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [weyheyhey !! - UP THE BUM NO BAIIIIIBEEZ](https://osu.ppy.sh/beatmapsets/458037#osu) by [Silverboxer](https://osu.ppy.sh/users/2166762)  
 *written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
 
-description
+With a hardcore song comes a hardcore beatmap by Silverboxer. With just over four minutes of high-AR aim patterns and high-BPM streams, this map is not to be taken lightly, not to mention the varying slider shapes that might catch you off guard if aren't careful! With the map reaching over 7 stars and having over 50 favorites, are you ready to jump around?
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/kirby-mix-compilation-2.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Various Artists - KIRBY Mix Compilation 2](https://osu.ppy.sh/beatmapsets/549969#osu) by [Nitroz](https://osu.ppy.sh/users/5256529) and [Starrodkirby86](https://osu.ppy.sh/users/410)  
 *written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
 
-description
+If you were around in the old osu! times, you would recognize a mapper called Starrodkirby86, or have seen his "Kirby Mix" difficulties on certain maps. He is a mapper that likes to map in old style symmetry in a way that is very unique and different to play; it may test how good you are at aim control and reading. This map is a compilation of a bunch of well-known maps that he has made, and would make for a good reading practice map for low AR. With maps like Genesis of Aquarion and Fairy Tail Main Theme in there, this map is definitely worth a shot. Along with a great map is a nice arena-like storyboard made by Kirby himself, which makes the map feel like a set of "stages", in a way. Will you make it to the end and pass all of these gems?
 
-[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/labyrinth.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/dreamin-attraction-extended.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
-[lapix - Labyrinth](https://osu.ppy.sh/beatmapsets/615878#osu) by [Akali](https://osu.ppy.sh/users/2127359)  
+[hino isuika - Dreamin' attraction!!(Extended)](https://osu.ppy.sh/beatmapsets/450340#osu) by [elchxyrlia](https://osu.ppy.sh/users/1722835)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-description
+With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 stars, with a low OD and almost 90 favourites, Dreamin' attraction is a map you wouldn't want to miss any notes on! A very energetic song mixed with mappers high spacing style makes this map perfect for high-skilled players. It maintains its flow throughout the song, keeping the player focused on the playfield, with a short interval in the middle section for the player to relax. This map is great for those who enjoy pushing themselves to the limit! Are you one of them?
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/yava.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [BABYMETAL - YAVA!](https://osu.ppy.sh/beatmapsets/476612#osu) by [[ Kohioma ]](https://osu.ppy.sh/users/4211859)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-description
+This is an amazing mapset done by [ Kohioma ] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
