@@ -97,41 +97,64 @@ tags:
 
 ------------------------------------------------------------------------
 
-## 경기 일정: 준결승
+## 경기 일정: 결승전
 
-### 2018년 12월 1일 토요일
-
-| 팀 A |  |  | 팀 B | 경기 시간 | 팀 A 지역 시간 | 팀 B 지역 시간 |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| 홍콩 | ![][flag_HK] | ![][flag_TW] | 대만 | **9:00 UTC** | 17:00 UTC+08 | 17:00 UTC+08 | ² |
-| 독일 | ![][flag_DE] | ![][flag_AU] | 호주 | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
-| 대한민국 | ![][flag_KR] | ![][flag_BR] | 브라질 | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 | ² |
-| 러시아 | ![][flag_RU] | ![][flag_NO] | 노르웨이 | **15:00 UTC** | 20:00 UTC+05 | 16:00 UTC+01 | ² |
-
-### 2018년 12월 2일 일요일
+### 2018년 12월 8일 토요일
 
 | 팀 A |  |  | 팀 B | 경기 시간 | 팀 A 지역 시간 | 팀 B 지역 시간 |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| 호주 | ![][flag_AU] | ![][flag_BR] | 브라질 | **1:00 UTC** | 12:00 UTC+11 | 22:00 (Sat) UTC-03 | ³ |
-| 일본 | ![][flag_JP] | ![][flag_US] | 미국 | **3:00 UTC** | 12:00 UTC+09 | 22:00 (Sat) UTC-05 | ¹ |
-| 호주 | ![][flag_AU] | ![][flag_KR] | 대한민국 | **5:00 UTC** | 16:00 UTC+11 | 14:00 UTC+09 | ³ |
-| 홍콩 | ![][flag_HK] | ![][flag_RU] | 러시아 | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 | ³ |
-| 홍콩 | ![][flag_HK] | ![][flag_NO] | 노르웨이 | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ³ |
-| 대만 | ![][flag_TW] | ![][flag_RU] | 러시아 | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 | ³ |
-| 대만 | ![][flag_TW] | ![][flag_NO] | 노르웨이 | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ³ |
-| 독일 | ![][flag_DE] | ![][flag_KR] | 대한민국 | **14:00 UTC** | 15:00 UTC+01 | 23:00 UTC+09 | ³ |
-| 독일 | ![][flag_DE] | ![][flag_BR] | 브라질 | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC03 | ³ |
-| 영국 | ![][flag_GB] | ![][flag_CA] | 캐나다 | **18:00 UTC** | 18:00 UTC | 13:00 UTC-05 | ¹ |
+| 러시아 | ![][flag_RU] | ![][flag_CA] | 캐나다 | **17:00 UTC** | 22:00 UTC+05 | 12:00 UTC-05 | ² |
+
+### 2018년 12월 9일 일요일
+
+| 팀 A |  |  | 팀 B | 경기 시간 | 팀 A 지역 시간 | 팀 B 지역 시간 |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| 독일 | ![][flag_DE] | ![][flag_JP] | 일본 | **10:00 UTC** | 11:00 UTC+01 | 19:00 UTC+09 | ² |
+| 러시아 | ![][flag_RU] | ![][flag_JP] | 일본 | **16:00 UTC** | 21:00 UTC+05 | 1:00 (Mon) UTC+09 | ³ |
+| 캐나다 | ![][flag_CA] | ![][flag_JP] | 일본 | **16:00 UTC** | 11:00 UTC-05 | 1:00 (Mon) UTC+09 | ³ |
+| 러시아 | ![][flag_RU] | ![][flag_DE] | 독일 | **18:00 UTC** | 23:00 UTC+05 | 19:00 UTC+01 | ³ |
+| 캐나다 | ![][flag_CA] | ![][flag_DE] | 독일 | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 | ³ |
+| 영국 | ![][flag_GB] | ![][flag_US] | 미국 | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
 
 ¹ 승자전 경기
  
 ² 패자전 경기
 
-³ 패자조 경기에 의해 다음 경기가 결정됨
+³ 패자조 경기에 의해 경기가 결정됨
 
 ------------------------------------------------------------------------
 
-## 월드컵 경기 비트맵
+## 월드컵 비트맵풀
+
+### 결승전
+
+ **[여기에서 한번에 다운받을 수 있어요! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
+ 
+ - 노 모드
+	- [jioyi - Platinum \(09kami\) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/449225#osu/1093629)
+	- [Mitsuki Nakae - Ouka Enbu \(Lasse\) \[Petal\]](https://osu.ppy.sh/beatmapsets/688552#osu/1457104)
+	- [Toromaru - Enigma \(Avena\) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+	- [yuikonnu - Kakushigoto \(AtHeoN\) \[Distant Memory\]](https://osu.ppy.sh/beatmapsets/436177#osu/939618)
+	- [sakuraburst - SHA \(handsome\) \[Master\]](https://osu.ppy.sh/beatmapsets/716390#osu/1513541)
+- 히든
+	- [paranoid void - Utsukushii Kodoku \(dsco\) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+	- [toby fox - Spider Dance \(Fatfan Kolek\) \[Snow Note's Extreme\]](https://osu.ppy.sh/beatmapsets/750458#osu/1584604)
+	- [Akiyama Uni - Broken Moon \(sahuang\) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+- 하드락
+	- [Team.NEKOKAN - Airman ga Taosenai \(Sotarks\) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/732994#osu/1563445)
+	- [Renard - Terminal \(nold\_1702\) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
+	- [Jun Kuroda & AAAA - Cygnus \(Rohit6\) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
+- 더블 타임
+	- [Atoguru - Itoshi Kimi wo Mitsuke ni \(bakabaka\) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+	- [senya - Zouka de Arou to Shita Mono \(Satellite\) \[Ancients\]](https://osu.ppy.sh/beatmapsets/495283#osu/1054400)
+	- [Mei Ayakura - Romantic Fall \(felys\) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+- 모드 자유
+	- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness \(Regou\) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#osu/1094551)
+	- [A.SAKA - Nanatsu Koyoto \(xLolicore-\) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+	- [UNDEAD CORPORATION - Everything will freeze \(Ekoro\) \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+- TieBreaker
+	- **[Unlucky Morpheus - Angreifer \(IsomirDiAngelo\) \[Das Gemetzel der rotblutfressenden Bestien\]](https://osu.ppy.sh/beatmapsets/868543#osu/1815397)**
+
 
 ### 준결승
 
@@ -194,7 +217,7 @@ tags:
 
 **[여기에서 한번에 다운받을 수 있어요! (114 MB)](https://mega.nz/#!SHBSACzI!gdAciJN3WfN_iCpkOqLC5sL5OGzkhCX1j0k-zafgyy4)**
 
-- 노모드
+- 노 모드
 	- [nowisee - confusion \(hot anime girl\) \[Fearful Star Extra\]](https://osu.ppy.sh/beatmapsets/720882#osu/1522329)
 	- [BlackYooh vs. siromaru - BLACK or WHITE? \(BluOxy\) \[MASTER\]](https://osu.ppy.sh/beatmapsets/248876#osu/635679)
 	- [Street - Maritime Police \(Mir\) \[Marigold\]](https://osu.ppy.sh/beatmapsets/681410#osu/1440743)
@@ -222,7 +245,7 @@ tags:
 
 **[여기에서 한번에 다운받을 수 있어요! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA)**
 
-- 노모드
+- 노 모드
 	- [nano - DREAMCATCHER \(Vert\) \[Depths' Starlight Future Extra\]](https://osu.ppy.sh/beatmapsets/695957#osu/1532896)
 	- [P\*Light - YELLOW SPLASH!! \(Minakami Yuki\) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/363882#osu/800947)
 	- [Duoscience - Indifferences \(Mir\) \[Senseless\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538480)
@@ -246,6 +269,26 @@ tags:
 
 ## 경기 결과
 
+
+### 준결승전
+
+
+| 2018-12-01 토요일 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 홍콩 ![][flag_HK] | 3 | 7 | ![][flag_TW] 대만 | [#1](https://osu.ppy.sh/community/matches/47795151) |
+| 독일 ![][flag_DE] | 7 | 4 | ![][flag_AU] 호주 | [#1](https://osu.ppy.sh/community/matches/47796992) |
+| 대한민국 ![][flag_KR] | 4 | 7 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/47799551) |
+| 러시아 ![][flag_RU] | 7 | 4 | ![][flag_NO] 노르웨이 | [#1](https://osu.ppy.sh/community/matches/47802651) |
+
+
+| 2018-12-02 일요일 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 일본 ![][flag_JP] | 2 | 7 | ![][flag_US] 미국 | [#1](https://osu.ppy.sh/community/matches/47822484) |
+| 대만 ![][flag_TW] | 2 | 7 | ![][flag_RU] 러시아 | [#1](https://osu.ppy.sh/community/matches/47830929) |
+| 독일 ![][flag_DE] | 7 | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/47836633) |
+| 영국 ![][flag_GB] | 7 | 1 | ![][flag_CA] 캐나다 | [#1](https://osu.ppy.sh/community/matches/47839526) |
+
+
 ### 8강
 
 
@@ -263,6 +306,7 @@ tags:
 | 덴마크 ![][flag_DK] | 2 | 6 | ![][flag_DE] 독일 | [#1](https://osu.ppy.sh/community/matches/47677802) |
 | 영국 ![][flag_GB] | 6 | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/47679899) |
 
+
 ### 16강
 
 
@@ -279,6 +323,7 @@ tags:
 | 노르웨이 ![][flag_NO] | 6 | 5 | ![][flag_DK] 덴마크 | [#1](https://osu.ppy.sh/community/matches/47516309) |
 | 영국 ![][flag_GB] | 6 | 4 | ![][flag_NL] 네덜란드 | [#1](https://osu.ppy.sh/community/matches/47518299) |
 | 러시아 ![][flag_RU] | 3 | 6 | ![][flag_CA] 캐나다 | [#1](https://osu.ppy.sh/community/matches/47521221) |
+
 
 ### 그룹 스테이지
 
