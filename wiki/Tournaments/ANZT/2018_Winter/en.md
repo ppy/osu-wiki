@@ -2,7 +2,7 @@
 
 *See also: [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer)*
 
-![Osu! AU/NZ Tournament 5 Winter](img/logo.jpg)
+![ANZT 5W Logo](img/logo.jpg)
 
 The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 6th installment of Aus/NZ tourneys.
 
@@ -12,10 +12,10 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double e
 | --: | :-- |
 | Registration Phase | 2018-07-28/2018-08-12 |
 | Round of 64 | 2018-08-17/2018-08-19 |
-| Round of 32 & Losers Bracket Rounds 1 & 2| 2018-08-24/2018-08-26 |
-| Round of 16 & Losers Bracket Rounds 3 & 4| 2018-08-31/2018-09-02 |
-| Quarterfinals & Losers Bracket Rounds 5 & 6| 2018-09-07/2018-09-09 |
-| Semifinals & Losers Bracket Rounds 7 & 8| 2018-09-14/2018-09-16 |
+| Round of 32 & Losers Bracket Rounds 1 & 2 | 2018-08-24/2018-08-26 |
+| Round of 16 & Losers Bracket Rounds 3 & 4 | 2018-08-31/2018-09-02 |
+| Quarterfinals & Losers Bracket Rounds 5 & 6 | 2018-09-07/2018-09-09 |
+| Semifinals & Losers Bracket Rounds 7 & 8 | 2018-09-14/2018-09-16 |
 | Finals - Week 1 | 2018-09-21/2018-09-23 |
 | Finals - Week 2 | 2018-09-28/2018-09-30 |
 
