@@ -102,7 +102,7 @@ This is an amazing mapset done by [ Kohioma ] with an awesome BABYMETAL song, YA
 
 ### <a name="osu-redemption" id="osu-redemption"></a>osu! Redemption
 
-[![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/break-them.jpg)](https://osu.ppy.sh/community/forums/topics/837089)
+[![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/break-them-feat-anna-yvette.jpg)](https://osu.ppy.sh/community/forums/topics/837089)
 
 [Aero Chord - Break Them (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/516608#osu) by [olteR](https://osu.ppy.sh/users/7152332)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
