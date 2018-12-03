@@ -40,7 +40,7 @@ If your account has been restricted, you'll likely know why after a brief conver
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-### Sign in
+### Sign-In
 
 #### I've forgotten my username and password!
 
@@ -768,7 +768,7 @@ This should come with the osu! installer, but in case it doesn't, [download it h
 
 We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
 
-If you create your account and do not authenticate it by signing into the game once, the wayward account will be purged from our databases within a day.
+If you create your account and do not authenticate it by signing in to the game once, the wayward account will be purged from our databases within a day.
 
 Ensure that you authenticate it soon after make it!
 

@@ -198,7 +198,7 @@ Multi elements will not be saved as shown in the image comparison above (refer t
 
 ### Spectator
 
-As spectator mode requires access to [Extended Chat Console][Extended Chat Console wikilink], please log-in with an active in-game account and connect to Bancho.
+As spectator mode requires access to [Extended Chat Console][Extended Chat Console wikilink], please sign in with an active in-game account and connect to Bancho.
 
 After that, press `F9` to access the Extended Chat Console and pick a player to spectate.
 Make sure to have the **same** difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.

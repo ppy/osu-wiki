@@ -19,7 +19,7 @@ This page will roughly tell you how to get osu! working on your Windows device. 
 4.  When the installer is completed, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
 5.  osu! will prompt you to sign in or register.
     -   If you have an account already, sign in.
-    -   If you need to sign up, see [Registration](/wiki/Registration), then sign in.
+    -   If you need to register, see [Registration](/wiki/Registration), then sign in.
 
 ## Adding beatmapsets
 

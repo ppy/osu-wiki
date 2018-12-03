@@ -237,7 +237,7 @@ Web
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
-Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
+Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to the website.)
 
 | Name | Description |
 | ---- | ----------- |
