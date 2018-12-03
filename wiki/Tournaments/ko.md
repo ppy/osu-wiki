@@ -1,7 +1,7 @@
 대회
 ===============
 
-이 곳은 osu 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
+이 곳은 osu! 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
  
  
 공식 대회
@@ -10,63 +10,63 @@
 공식 대회는 모두 osu! 공식 대회 매니지먼트에서 주최합니다.
  
  
- ### ![](/wiki/shared/mode/osu.png) 오스 스탠다드 월드컵
-오스 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수들이 더블엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
+ ### ![](/wiki/shared/mode/osu.png)  osu! World Cup (오스 스탠다드 월드컵)
+오스 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수들이 더블 엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
  
  
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [제1회 오스 월드컵](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] 대만 | ![][flag_NL] 네덜란드 | ![][flag_KR] 대한민국 |
-| [제2회 오스 월드컵](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] 대한민국 | ![][flag_JP] 일본 | ![][flag_BR] 브라질 |
-| [제3회 오스 월드컵](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] 대한민국 | ![][flag_JP] 일본 | ![][flag_TW] 대만 |
-| [오스 월드컵 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] 대한민국 | ![][flag_TW] 대만 | ![][flag_PL] 폴란드 |
-| [오스 월드컵 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] 일본 | ![][flag_PL] 폴란드 | ![][flag_DE] 독일 |
-| [오스 월드컵 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_PL] 폴란드 |
-| [오스 월드컵 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 |
-| [오스 월드컵 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] 폴란드 | ![][flag_US] 미국 | ![][flag_GB] 영국 |
+| [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] 대만 | ![][flag_NL] 네덜란드 | ![][flag_KR] 대한민국 |
+| [osu! World Cup #2](/wiki/Tournaments/OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] 대한민국 | ![][flag_JP] 일본 | ![][flag_BR] 브라질 |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] 대한민국 | ![][flag_JP] 일본 | ![][flag_TW] 대만 |
+| [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] 대한민국 | ![][flag_TW] 대만 | ![][flag_PL] 폴란드 |
+| [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] 일본 | ![][flag_PL] 폴란드 | ![][flag_DE] 독일 |
+| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_PL] 폴란드 |
+| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 |
+| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] 폴란드 | ![][flag_US] 미국 | ![][flag_GB] 영국 |
 
 
-### ![](/wiki/shared/mode/taiko.png) 오스 태고 월드컵
+### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup (오스 태고 월드컵)
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [2011 태고 월드컵](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] 대만 | ![][flag_JP] 일본 | ![][flag_CN] 중국 |
-| 2012 태고 월드컵 | 2012-02-03 | 2012-04-01 | ![][flag_JP] 일본 A | ![][flag_HK] 홍콩 A | ![][flag_JP] 일본 B |
-| [제3회 태고 월드컵](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] 대만 A | ![][flag_HK] 홍콩 A | ![][flag_JP] 일본 A |
-| [오스 태고 월드컵 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] 일본 | ![][flag_HK] 홍콩 | ![][flag_FR] 프랑스 |
-| [오스 태고 월드컵 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_FR] 프랑스 |
-| [오스 태고 월드컵 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
-| [오스 태고 월드컵 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_HK] 홍콩 |
-| [오스 태고 월드컵 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
+| [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] 대만 | ![][flag_JP] 일본 | ![][flag_CN] 중국 |
+| 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] 일본 A | ![][flag_HK] 홍콩 A | ![][flag_JP] 일본 B |
+| [Taiko World Cup #3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] 대만 A | ![][flag_HK] 홍콩 A | ![][flag_JP] 일본 A |
+| [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] 일본 | ![][flag_HK] 홍콩 | ![][flag_FR] 프랑스 |
+| [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_FR] 프랑스 |
+| [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
+| [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_HK] 홍콩 |
+| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
 
 
- ### ![](/wiki/shared/mode/catch.png) 오스 캐치 더 비트 월드컵
+ ### ![](/wiki/shared/mode/catch.png) osu!ctb World Cup (오스 캐치 더 비트 월드컵)
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | ------------------------ | --- | --- | --- | --- | --- |
-| 캐치 더 비트 월드컵 | 2011-11-05 | 2012-05-02 | ![][flag_CN] 중국 | ![][flag_TW] 대만 | ![][flag_CL] 칠레 |
-| 캐치 더 비트 월드컵 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] 칠레 | ![][flag_TW] 대만 | ![][flag_AR] 아르헨티나/콜롬비아 |
+| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] 중국 | ![][flag_TW] 대만 | ![][flag_CL] 칠레 |
+| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] 칠레 | ![][flag_TW] 대만 | ![][flag_AR] 아르헨티나/콜롬비아 |
 | [캐치 더 비트 월드컵 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 | ![][flag_SE] 스웨덴 |
-| [캐치 더 비트 월드컵 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_DE] 독일 |
-| [캐치 더 비트 월드컵 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 | ![][flag_DE] 독일 |
-| [캐치 더 비트 월드컵 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
-| [캐치 더 비트 월드컵 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
+| [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_DE] 독일 |
+| [osu!ctb World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 | ![][flag_DE] 독일 |
+| [osu!ctb World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
+| [osu!ctb World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
 
 
- ### ![](/wiki/shared/mode/mania.png) 오스 매니아 월드컵
+ ### ![](/wiki/shared/mode/mania.png) osu!mania 4K/7K World Cup (오스 매니아 월드컵)
 | 대회명 | 개막일 | 폐막일 | 키타입 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- | --- |
-| [오스 매니아 월드컵 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 4키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_MY] 말레이시아 |
-| [오스 매니아 월드컵 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7키 | ![][flag_KR] 대한민국 | ![][flag_TH] 태국 | ![][flag_MY] 말레이시아 |
-| [오스 매니아 월드컵 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4키 | ![][flag_US] 미국 | ![][flag_JP] 일본 | ![][flag_GB] 영국 |
-| [오스 매니아 월드컵 2016](/wiki/Tournaments/MWC/2016_7K) | 2015-12-01 | 2016-02-14 | 7키 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 |
-| [오스 매니아 월드컵 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
-| [오스 매니아 월드컵 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
-| [오스 매니아 월드컵 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
-| [오스 매니아 월드컵 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 4키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_MY] 말레이시아 |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7키 | ![][flag_KR] 대한민국 | ![][flag_TH] 태국 | ![][flag_MY] 말레이시아 |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4키 | ![][flag_US] 미국 | ![][flag_JP] 일본 | ![][flag_GB] 영국 |
+| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016_7K) | 2015-12-01 | 2016-02-14 | 7키 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 |
+| [osu!mania 4K World Cup  2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
+| [osu!mania 7K World Cup  2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
+| [osu!mania 4K World Cup  2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
+| [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
 
 
  커뮤니티
 ----------
- 비공식 대회로써 각각의 커뮤니티에서 주최하는 대회입니다.
+ 비공식 대회로써 커뮤니티에서 주최하는 대회입니다.
  
  
  ### ![](/wiki/shared/mode/osu.png) Rapid Monthly osu! Tournament Invitationals
@@ -180,7 +180,7 @@
 --------
 -   [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
 -   [오스 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [osu!tourney](/wiki/osu!tourney) (대회 전용 스트리밍 클라이언트)
+-   [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)
 
 
 [flag_AR]: /wiki/shared/flag/AR.gif
