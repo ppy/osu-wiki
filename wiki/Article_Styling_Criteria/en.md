@@ -888,6 +888,7 @@ These words are spelt as follows (note the spacing):
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
 - Use `sign in` instead of `log in`.
 - Use `sign out` instead of `log out`.
+- Use `register` instead of `sign up`.
 
 ### Abbreviations, acronyms, and initialisms
 
