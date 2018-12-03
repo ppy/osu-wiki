@@ -1261,7 +1261,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Player Eligibility 
 
-- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are signed in before allowing their participation. 
+- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are logged in before allowing their participation. 
 
 ### Qualification Criteria (osu!mania) 
 

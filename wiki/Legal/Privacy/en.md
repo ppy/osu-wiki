@@ -51,9 +51,9 @@ When posting on the forums, participating in chat or uploading content to our se
 
 As an example, if you upload a beatmap and it is "ranked", it becomes the basis for the user base at large to achieve scores on. At this point the option to delete a submission will be revoked.
 
-### On signing in to the game client
+### On logging in to the game client
 
-When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based off a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across sign ins to our service.
+When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based off a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across logins to our service.
 
 The main purpose of this is to maintain a fair ranking system and help us enforce account security should your account be accessed from a compromised location. This is considered private and only stored as long as it is deemed relevant. It is also non-transferrable, and has no meaning outside the osu! ecosystem.
 
@@ -91,7 +91,7 @@ As we have a strict one-account-per-user policy to maintain fair leaderboards, a
 
 ## Cookies
 
-We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and sign in credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
+We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and login credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
 
 ## Data security
 

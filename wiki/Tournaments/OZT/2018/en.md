@@ -20,7 +20,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - Score system: Scorev2
 - This tournament will hold up to 64 teams, with 6 players at minimum and 8 players at maximum in each team.
 - There will be a qualifications round where all teams will play through a pool and the top 32 teams will advance, afterwards the Bracket stages will be double elimination
-- It is **required** that all players join the Discord
+- It is **required** that all players join the discord
 - Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed. (Players, team name, etc.)
 - Scheduling must be done before the match, there must be mutual agreement between the teams.
 - Any misconduct will result in a punishment.
@@ -53,7 +53,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - TBA: 2018-06-11
 
 ## Registrations
-[**Register your team here!**](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform) Remember, all team members must join the Discord for the team to be eligible to play. There are no rank limits, therefore allowing any player to join.
+[**Register your team here!**](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform) Remember, all team members must join the discord for the team to be eligible to play. There are no rank limits, therefore allowing any player to join.
 
 **Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
 
