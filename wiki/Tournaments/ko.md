@@ -39,16 +39,16 @@
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
 
 
- ### ![](/wiki/shared/mode/catch.png) osu!ctb World Cup (오스 캐치 더 비트 월드컵)
+ ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup (오스 캐치 더 비트 월드컵)
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | ------------------------ | --- | --- | --- | --- | --- |
 | Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] 중국 | ![][flag_TW] 대만 | ![][flag_CL] 칠레 |
 | Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] 칠레 | ![][flag_TW] 대만 | ![][flag_AR] 아르헨티나/콜롬비아 |
-| [캐치 더 비트 월드컵 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 | ![][flag_SE] 스웨덴 |
-| [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_DE] 독일 |
-| [osu!ctb World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 | ![][flag_DE] 독일 |
-| [osu!ctb World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
-| [osu!ctb World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
+| [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 | ![][flag_SE] 스웨덴 |
+| [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_DE] 독일 |
+| [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 | ![][flag_DE] 독일 |
+| [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
+| [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
 
 
  ### ![](/wiki/shared/mode/mania.png) osu!mania 4K/7K World Cup (오스 매니아 월드컵)
