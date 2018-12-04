@@ -108,9 +108,9 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Germany | ![][flag_DE] | ![][flag_JP] | Japan | **10:00 UTC** | 11:00 UTC+01 | 19:00 UTC+09 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **16:00 UTC** | 21:00 UTC+05 | 1:00 (Mon) UTC+09 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **14:00 UTC** | 19:00 UTC+05 | 15:00 UTC+01 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **15:00 UTC** | 20:00 UTC+05 | 0:00 (Mon) UTC+09 | ³ |
 | Canada | ![][flag_CA] | ![][flag_JP] | Japan | **16:00 UTC** | 11:00 UTC-05 | 1:00 (Mon) UTC+09 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **18:00 UTC** | 23:00 UTC+05 | 19:00 UTC+01 | ³ |
 | Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
 
