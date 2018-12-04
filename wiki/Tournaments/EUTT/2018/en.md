@@ -27,9 +27,9 @@ The **European Taiko Tournament 2018** (***EUTT 2018***), is a European double e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | €15, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | €10 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | €5 |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 15€, unique profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 10€ |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 5€ |
 
 ![EUTT 2018 Winner Badge](img/badge.png)
 
@@ -71,28 +71,53 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 
 ## Match Schedules: Finals
 
-### Saturday, 1 December 2018
+### Friday, 7 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | goheegy | ![][flag_GB] | ![][flag_IT] | Ikkun | **14:00 UTC** |
-| #2 | AlvaroYL | ![][flag_ES] | ![][flag_FR] | Yona la loutre | **16:00 UTC** |
-| #3 | BabySnakes | ![][flag_PT] | ![][flag_TR] | frukoyurdakul | **18:00 UTC** |
+| #1 | Ikkun | ![][flag_IT] | ![][flag_ES] | AlvaroYL | **18:30 UTC** |
 
-### Sunday, 2 December 2018
+### Sunday, 9 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #4a | AlvaroYL | ![][flag_ES] | ![][flag_PT] | BabySnakes | **16:00 UTC** | ¹ |
-| #4b | AlvaroYL | ![][flag_ES] | ![][flag_TR] | frukoyurdakul | **16:00 UTC** | ¹ |
-| #4c | Yona la loutre | ![][flag_FR] | ![][flag_PT] | BabySnakes | **16:00 UTC** | ¹ |
-| #4d | Yona la loutre | ![][flag_FR] | ![][flag_TR] | frukoyurdakul | **16:00 UTC** | ¹ |
+| #2a | goheegy | ![][flag_GB] | ![][flag_IT] | Ikkun | **15:00 UTC** | ¹ |
+| #2b | goheegy | ![][flag_GB] | ![][flag_ES] | AlvaroYL | **15:00 UTC** | ¹ |
+| #3 |  goheegy | ![][flag_GB] |  | Winner of Match #1 | **18:00 UTC** | ² |
 
-¹ Encounter dependent on winner of Match #2 and Match #3
+¹ Encounter dependent on winner of Match #1
+² Encounter dependent on winner of Match #1 and will take place if Player A on Match #2a or Match #2b loses the match
 
 -----------------------
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (102 MB)](https://mega.nz/#!wkdSAQpZ!j7J6phL3sZnuhBOjhWeS9yoVMpfpCA8TiZSP11McLsg)**
+
+- NoMod
+  - [Yuzuki Yukari MAYU - Hurting for a Very Hurtful Pain (cagalin, seiichiz) \[Collab pain\]](/beatmapsets/308407/#taiko/689693)
+  - [DJ Myosuke - Behemoth (agu) \[Nightmare Oni\]](/beatmapsets/879183/#taiko/1838648)
+  - [katagiri - Meshimase!! Nyan-Nyan Nightmare (Shallty) \[Nyan Nyan\]](/beatmapsets/881574/#taiko/1843187)
+- NoMod EX
+  - [150P - Nisemono Chuuihou (Zetera) \[Majin Oni\]](/beatmapsets/747785#taiko/1575566)
+  - [Cranky - Ran (tasuke912) \[TAIKO-HOLIC\]](/beatmapsets/789553/#taiko/1656937)
+- Hidden
+  - [Rotteen - VEC LEGGENDARIA (TKS) \[Hell Oni\]](/beatmapsets/472627/#taiko/1009830)
+  - [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](/beatmapsets/556358/#taiko/1177487)
+- HardRock
+  - [BLUE ENCOUNT - HOPE(Speed Up ver.) (Shallty) \[Hope Oni\]](/beatmapsets/747842/#taiko/1575675)
+  - [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](/beatmapsets/578489/#taiko/1224835)
+- DoubleTime
+  - [darkbluecat - Recordar (z411 remix) ft. Hatsune Miku (-Kazu-) \[Dysthemia\]](/beatmapsets/611904/#taiko/1733313)
+  - [Camellia feat. Nanahira - Amor De Verao (Tofu1222) \[Inner Oni\]](/beatmapsets/746316/#taiko/1573005)
+- FreeMod
+  - [Hatsune Miku - Hatsune Miku no Shoushitsu -Gekijouban- (oiu850714) \[Taiko Inner Oni\]](/beatmapsets/56778/#taiko/171528)
+  - [Reizoko Cj - Dark Side (\_Rise) \[Rising Hatred\]](/beatmapsets/503140/#taiko/1070638) 
+  - [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.execute(me);\]](/beatmapsets/724063/#taiko/1528895)
+- Tiebreaker
+  - **[RYUWAVE - RECOMPENSE NOIR (applerss) \[Darkness\]](/beatmapsets/700876/#taiko/1483626)**
 
 ### Finals
 
@@ -230,6 +255,18 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-12-01 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| **goheegy** ![][flag_GB] | **6** | 2 | ![][flag_IT] Ikkun | [#1](/community/matches/47806853) |
+| **AlvaroYL** ![][flag_ES] | **6** | 1 | ![][flag_FR] Yona la loutre | [#1](/community/matches/47804859) |
+| **BabySnakes** ![][flag_PT] | **6** | 1 | ![][flag_TR] frukoyurdakul | [#1](/community/matches/47812555) |
+
+| Sunday, 2018-12-02 |  |  |  |  | 
+| --: | :-: | :-- | :-- | :-: |
+| **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_PT] BabySnakes | [#1](/community/matches/47838607) |
 
 ### Semifinals
 
