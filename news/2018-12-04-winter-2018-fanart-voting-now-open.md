@@ -8,7 +8,7 @@ With a very generous heart, the artists of the osu! community have gifted us **1
 
 [![](https://assets.ppy.sh/contests/73/header.jpg)](https://osu.ppy.sh/community/contests/73)
 
-Head on over to [the contest listing page](https://osu.ppy.sh/community/contests/73), and go vote! There's only **6 days** before the the gifts will be unwrapped on the main menu for everybody to see.
+Head on over to [the contest listing page](https://osu.ppy.sh/community/contests/73), and go vote! There's only **6 days** before the gifts will be unwrapped on the main menu for everybody to see.
 
 A choice selection of the top winning entries will be featured in the osu! game client as the Winter 2018 seasonal backgrounds, and their artists will receive **2 months of osu!supporter** to celebrate their victory.
 
