@@ -95,31 +95,24 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 1. December 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_TW] | Taiwan | **9:00 UTC** | 17:00 UTC+08 | 17:00 UTC+08 | ² |
-| Germany | ![][flag_DE] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | **15:00 UTC** | 20:00 UTC+05 | 16:00 UTC+01 | ² |
-
-### Sunday, 2. December 2018
+### Saturday, 8. December 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_BR] | Brazil | **1:00 UTC** | 12:00 UTC+11 | 22:00 (Sat) UTC-03 | ³ |
-| Japan | ![][flag_JP] | ![][flag_US] | United States | **3:00 UTC** | 12:00 UTC+09 | 22:00 (Sat) UTC-05 | ¹ |
-| Australia | ![][flag_AU] | ![][flag_KR] | South Korea | **5:00 UTC** | 16:00 UTC+11 | 14:00 UTC+09 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_NO] | Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ³ |
-| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **14:00 UTC** | 15:00 UTC+01 | 23:00 UTC+09 | ³ |
-| Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC03 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_CA] | Canada | **18:00 UTC** | 18:00 UTC | 13:00 UTC-05 | ¹ |
+| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **17:00 UTC** | 22:00 UTC+05 | 12:00 UTC-05 | ² |
+
+### Sunday, 9. December 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Germany | ![][flag_DE] | ![][flag_JP] | Japan | **10:00 UTC** | 11:00 UTC+01 | 19:00 UTC+09 | ² |
+| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **14:00 UTC** | 19:00 UTC+05 | 15:00 UTC+01 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **15:00 UTC** | 20:00 UTC+05 | 0:00 (Mon) UTC+09 | ³ |
+| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **16:00 UTC** | 11:00 UTC-05 | 1:00 (Mon) UTC+09 | ³ |
+| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
 
 ¹ Winner bracket encounter
  
@@ -130,6 +123,35 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Finals
+
+**[Download the map pack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
+
+- NoMod
+	- [jioyi - Platinum \(09kami\) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/449225#osu/1093629)
+	- [Mitsuki Nakae - Ouka Enbu \(Lasse\) \[Petal\]](https://osu.ppy.sh/beatmapsets/688552#osu/1457104)
+	- [Toromaru - Enigma \(Avena\) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+	- [yuikonnu - Kakushigoto \(AtHeoN\) \[Distant Memory\]](https://osu.ppy.sh/beatmapsets/436177#osu/939618)
+	- [sakuraburst - SHA \(handsome\) \[Master\]](https://osu.ppy.sh/beatmapsets/716390#osu/1513541)
+- Hidden
+	- [paranoid void - Utsukushii Kodoku \(dsco\) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+	- [toby fox - Spider Dance \(Fatfan Kolek\) \[Snow Note's Extreme\]](https://osu.ppy.sh/beatmapsets/750458#osu/1584604)
+	- [Akiyama Uni - Broken Moon \(sahuang\) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+- HardRock
+	- [Team.NEKOKAN - Airman ga Taosenai \(Sotarks\) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/732994#osu/1563445)
+	- [Renard - Terminal \(nold\_1702\) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
+	- [Jun Kuroda & AAAA - Cygnus \(Rohit6\) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
+- DoubleTime
+	- [Atoguru - Itoshi Kimi wo Mitsuke ni \(bakabaka\) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+	- [senya - Zouka de Arou to Shita Mono \(Satellite\) \[Ancients\]](https://osu.ppy.sh/beatmapsets/495283#osu/1054400)
+	- [Mei Ayakura - Romantic Fall \(felys\) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+- FreeMod
+	- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness \(Regou\) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#osu/1094551)
+	- [A.SAKA - Nanatsu Koyoto \(xLolicore-\) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+	- [UNDEAD CORPORATION - Everything will freeze \(Ekoro\) \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+- TieBreaker
+	- **[Unlucky Morpheus - Angreifer \(IsomirDiAngelo\) \[Das Gemetzel der rotblutfressenden Bestien\]](https://osu.ppy.sh/beatmapsets/868543#osu/1815397)**
 
 ### Semifinals
 
@@ -243,6 +265,22 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2018-12-01 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![][flag_HK] | 3 | 7 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47795151) |
+| Germany ![][flag_DE] | 7 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47796992) |
+| South Korea ![][flag_KR] | 4 | 7 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47799551) |
+| Russian Federation ![][flag_RU] | 7 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47802651) |
+
+| Sunday, 2018-12-02 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47822484) |
+| Taiwan ![][flag_TW] | 2 | 7 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/47830929) |
+| Germany ![][flag_DE] | 7 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47836633) |
+| United Kingdom ![][flag_GB] | 7 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47839526) |
 
 ### Quarterfinals
 
