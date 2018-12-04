@@ -30,7 +30,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-*Note: 1 month of osu!supporter tag also given to backup member of the winning team*
+*Note: 1 month of osu!supporter tag was also given to backup member of the winning team*
 
 ## Organisation
 
@@ -47,13 +47,12 @@ The Catch the Beat World Cup was run by various osu!catch community members by d
 ## Links
 
 - [Discussion thread](/community/forums/topics/63296)
-- [Livestream](http://de.justin.tv/inoodle)
   
 -----------------------
 
 ## Participants
 
-| Team | Continent | Members |
+| Team | Region | Members |
 | :-- | :-- | :-- |
 | **#filipino** | Philippines | **blacksymbian**, Cielo, thOnz, jdle07 |
 | **CatchTheHungarians** | Europe | **Shauni8**, Kriszteeee, tuzgu, Norbi |
@@ -95,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CN] China |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] half manual player team (Taiwan) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] half manual player team |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
 
 ---------------------------
