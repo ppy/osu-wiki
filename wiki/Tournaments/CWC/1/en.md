@@ -30,7 +30,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-*Note: 1 month of osu!supporter tag was also given to backup member of the winning team*
+*Note: 1 month of osu!supporter tag was also given to the backup member of the winning team*
 
 ## Organisation
 
