@@ -1291,11 +1291,6 @@
 "storyboard_scripting_rules":             "Storyboard_Scripting/General_Rules"
 "sbs_rules":                              "Storyboard_Scripting/General_Rules"
 
-"storyboard_scripting_miscellaneous":     "Storyboard_Scripting/Miscellaneous"
-"sbs_miscellaneous":                      "Storyboard_Scripting/Miscellaneous"
-"miscellaneous_storyboard_scripting":     "Storyboard_Scripting/Miscellaneous"
-"miscellaneous_sbs":                      "Storyboard_Scripting/Miscellaneous"
-
 "storyboard_scripting_objects":           "Storyboard_Scripting/Objects"
 "sbs_objects":                            "Storyboard_Scripting/Objects"
 "objects_storyboard_scripting":           "Storyboard_Scripting/Objects"
