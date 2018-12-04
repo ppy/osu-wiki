@@ -24,11 +24,11 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 
 ## Prizes
 
-We were aiming to have a minimum $3,800 cash prize pool for this world cup.
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Place | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!catch Champion" user title |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
@@ -111,7 +111,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
+**[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
 
 - NoMod
   - Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]
@@ -140,7 +140,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
 
 - NoMod
   - Yooh - LegenD. (Flask) \[Len's OverdosE.\]
@@ -169,7 +169,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar)**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar)**
 
 - NoMod
   - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](/beatmapsets/275991#fruits/635701)
@@ -198,7 +198,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar)**
+**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar)**
 
 - NoMod
   - [M2U - Gravity (WildOne94) \[Rain collab\]](/beatmapsets/310966#fruits/721170)
@@ -227,7 +227,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
+**[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
 
 - NoMod
   - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](/beatmapsets/294042#fruits/668102)

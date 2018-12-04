@@ -16,7 +16,6 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based 
 | Round 1 | 2013-01-18/2013-01-20 |
 | Round 2 | 2013-01-25/2013-01-27 |
 | Round 3 | 2013-02-01/2013-02-03 |
-| Break | 2013-02-08/2013-02-10 |
 | Round of 16 | 2013-02-15/2013-02-17 |
 | Quarterfinals | 2013-02-22/2013-02-24 |
 | Semifinals | 2013-03-01/2013-03-03 |

@@ -115,7 +115,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-**[All mappools can be downloaded via this link!](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
+**[All mappools can be downloaded via this link! (1.05 GB)](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
 ### Finals
 
