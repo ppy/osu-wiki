@@ -417,7 +417,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Omoi - Teo (Kroytz) \[Yales' Expert\]](https://osu.ppy.sh/beatmaps/1524104)
   - [a\_hisa - Snow Prism (noraRcat) \[Overdose\]](https://osu.ppy.sh/beatmaps/773495)
   - [Nogizaka46 - Yubi Bouenkyou \~Anime-ban\~ (Ascendance) \[\~Adventure\~\]](https://osu.ppy.sh/beatmaps/1507179)
-  - [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo_) \[Pochiko\]](https://osu.ppy.sh/beatmaps/1154766)
+  - [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) \[Pochiko\]](https://osu.ppy.sh/beatmaps/1154766)
   - [Nekomata Master - Funny shuffle (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmaps/654687)
 - Hidden
   - [LeaF - Alice in Misanthrope -Ensei Alice- (Deif) \[Wonderland\]](https://osu.ppy.sh/beatmaps/1674302)
@@ -641,7 +641,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Thaehan - Ohayou ! (silentch) \[7K Ultra\]](https://osu.ppy.sh/beatmaps/1701894)
   - [DJ YOSHITAKA - Unicorn tail (Shinzo-) \[Blocko's 7K MX\]](https://osu.ppy.sh/beatmaps/485925)
   - [The Flashbulb - Please Don't Remember (Agka) \[finality\]](https://osu.ppy.sh/beatmaps/1680780)
-  - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmaps/1620760)
+  - [Gentle Stick x M2U - Ineffabilis (Wilben\_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmaps/1620760)
   - [ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]](https://osu.ppy.sh/beatmaps/689600)
   - [Gothpheus - Rosen Vampir (Alumetorz) \[Pew's World\]](https://osu.ppy.sh/beatmaps/323389)
 - Tiebreaker
@@ -786,7 +786,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: |
-| 4 | Silhoueska Elze | 0 | **7** | **yuki_momoiro722** | 3 | | 
+| 4 | Silhoueska Elze | 0 | **7** | **yuki\_momoiro722** | 3 | | 
 | 1 | **Pochacco** | **7** | 3 | Rimazii | 2 | | 
 
 #### Round 2
