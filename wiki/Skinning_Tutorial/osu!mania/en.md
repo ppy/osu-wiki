@@ -105,17 +105,17 @@ To change the barline colour, set `ColourBarline` to an RGB(a) value.
 
 *Not to be confused with: [Notes](#notes-(basic))*
 
-The keys have two states: idle and pressed. There are three variants of keys that are used in osu!mania. These main purpose of these elements is to show the player when a key is pressed. The idle and pressed states are two separate images per variant; however, they replace one another when switching states meaning you can have a transparent background in the pressed state and not have the idle state image be visible behind it.
+The keys have two states: idle and pressed. There are three variants of this element; totaling 6 images, two for each variant. When a key changes states, their images replace one another.
 
 By default, there are only three images that are used:
 
--   `mania-key1.png` (referred here as "1")
--   `mania-key2.png` (referred here as "2")
--   `mania-keyS.png` (referred here as "S")
+-   `mania-key1.png` (referred next as "1")
+-   `mania-key2.png` (referred next as "2")
+-   `mania-keyS.png` (referred next as "S")
 
 The positioning of 1 and 2 depends on the key count and if the special style (explained below) is being used. S is used when the key count is odd (placed in the middle) or when a special style is used.
 
-A special style can be used for even key counts beyond 5 keys. The positioning of S can be set with the `SpecialStyle` command, but the player can overwrite this using the [Options](/wiki/Options).
+A special style can be used for even key counts that is greater than 5. The positioning of S can be set with the `SpecialStyle` command, but the player can overwrite this using the [Options](/wiki/Options).
 
 ### Keys (advanced)
 
@@ -171,17 +171,17 @@ KeyImage0D: mania/keyLD
 
 -   `KeyImage0` says that the first column's key image (idle state) is located in a folder called `mania/` and the image name is `keyL`.
 -   `KeyImage0D` says that the first column's key image (pressed state) is located in a folder called `mania/` and the image name is `keyLD`.
--   This similarly applies to the other columns.
+-   This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Notes (basic)
 
 *Not to be confused with: [Keys](#keys-(basic))*
 
-Notes queue the player on when to press the correct key. By default, there are only three images that are used:
+Notes queue the player on when to press the correct key. Like the keys, there are only three images that are used:
 
--   `mania-note1.png` (referred here as "1")
--   `mania-note2.png` (referred here as "2")
--   `mania-noteS.png` (referred here as "S")
+-   `mania-note1.png` (referred next as "1")
+-   `mania-note2.png` (referred next as "2")
+-   `mania-noteS.png` (referred next as "S")
 
 1, 2, and S are used based on their respected columns.
 
@@ -189,7 +189,7 @@ You can animate these by adding `-n` to the file name, where `n` is the frame nu
 
 ### Notes (advanced)
 
-With the skin configuration file, specifying an image for each note is possible (per key count). See example below.
+With the skin configuration file, specifying an image for each note in a column is possible. See example below.
 
 #### Example
 
@@ -248,23 +248,23 @@ NoteImage0: mania/left/note
 
 -   `NoteImage0` says that the first column's note image is located in a folder called `mania/left/` and the image prefix name is `note`.
 -   Since notes can be animated, the game client automatically check to see if an animation was supplied.
--   This similarly applies to the other columns.
+-   This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Hold notes (basic)
 
-Hold notes have three parts: a head, length, and tail. The head queues the player when to press and hold the hold note, while the tail queues the player on when to release it (since releasing hold notes is important in regards to scoring). By default, there are only three images that are used:
+Hold notes have three parts: a head, length, and tail. The head queues the player on when to press and hold the hold note, while the tail queues the player on when to release it (since releasing hold notes is also important in regards to scoring). By default, there are only nine images that are used:
 
--   `mania-note1H.png` (referred here as "1H")
--   `mania-note1L.png` (referred here as "1L")
--   `mania-note1T.png` (referred here as "1T")
--   `mania-note2H.png` (referred here as "2H")
--   `mania-note2L.png` (referred here as "2L")
--   `mania-note2T.png` (referred here as "2T")
--   `mania-noteSH.png` (referred here as "ST")
--   `mania-noteSL.png` (referred here as "SL")
--   `mania-noteST.png` (referred here as "SH")
+-   `mania-note1H.png` (referred next as "1H")
+-   `mania-note1L.png` (referred next as "1L")
+-   `mania-note1T.png` (referred next as "1T")
+-   `mania-note2H.png` (referred next as "2H")
+-   `mania-note2L.png` (referred next as "2L")
+-   `mania-note2T.png` (referred next as "2T")
+-   `mania-noteSH.png` (referred next as "ST")
+-   `mania-noteSL.png` (referred next as "SL")
+-   `mania-noteST.png` (referred next as "SH")
 
-Like notes, 1H, 1L, 1T, 2H, 2L, 2T, ST, SL, and SH are used in their respected columns.
+Like notes, 1H, 1L, 1T, 2H, 2L, 2T, ST, SL, and SH are used based on their respected columns.
 
 You can animate these by adding `-n` to the file name, where `n` is the frame number starting from 0.
 
@@ -366,13 +366,13 @@ NoteImage1T: mania/hold/down/tail
 -   `NoteImage1L` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `long`.
 -   `NoteImage1T` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `tail`.
 -   Since hold notes can be animated, the game client automatically check to see if an animation was supplied.
--   This similarly applies to the other columns.
+-   This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Stage (basic)
 
 *Not to be confused with: [Columns (basic)](#columns-(basic))*
 
-The stage is drawn 136 units from the left side of the screen. By default, there are only three images that are used:
+The stage is drawn 136 units from the left side of the screen. By default, there are only six images that are used:
 
 -   `mania-warningarrow.png`
 -   `mania-stage-hint.png`
@@ -383,13 +383,13 @@ The stage is drawn 136 units from the left side of the screen. By default, there
 
 ---
 
-`mania-warningarrow.png` is displayed three times during the first three full bars (measures) before the gameplay begins. However, the player may only see one or two of these if there isn't enough time. This is transparent by default, but can be skinned into looking like an arrow. Unlike some elements that should be facing towards the right, this arrow should be pointing downwards. The positioniong of this is in the centre of the stage horizontally.
+`mania-warningarrow.png` is displayed three times during the first three full bars (measures) before the gameplay begins. However, the player may only see one or two of these (or the bottom portion of the last arrow) if there isn't enough time. This is transparent by default, but can be skinned into looking like an arrow. Unlike certain elements that should be facing towards the right, this arrow should be pointing downwards (regardless if the stage is upside-down). It is centred horizontally in the stage and will appear on both stages if playing with two.
 
 `mania-stage-hint.png` is a graphical representation of the judgement line. It is stretched to go across the entire stage, not repeated for each column.
 
 `mania-stage-left.png` and `mania-stage-right.png` is the left and right sides of the stage respectively. These will stretch to match the stage height.
 
-`mania-stage-bottom.png` is somewhat similar to `mania-stage-left.png` and `mania-stage-right.png` but covers the stage (including the keys, notes, and hold notes). This means that it can be used to cover up most of the stage for players who prefer playing with less viewing area. This element does not strech to fit with the stage, thus it may be ideal to use the skin configuration to set this per key count. However, it is 0.625 times smaller than the stage width.
+`mania-stage-bottom.png` is somewhat similar to `mania-stage-left.png` and `mania-stage-right.png` but covers the stage (including the keys, notes, and hold notes). This means that it can be used to cover up most of the stage for players who prefer playing with less viewing area. This element does not stretch to fit with the stage, thus it may be ideal to use the skin configuration to set this per key count. However, it is 0.625 times smaller than the stage width.
 
 `mania-stage-light.png` is displayed for each column's pressed key and will persist until the key is released.
 
@@ -440,7 +440,7 @@ StageBottom: mania/4K/bottom
 ```
 
 -   `StageBottom` says that the first stage bottom image is located in a folder called `mania/4K/` and the image prefix name is `bottom`.
--   This similarly applies to the other elements.
+-   This similarly applies to the other elements, but only when playing with 4 keys.
 
 ### Hit scores (basic)
 
@@ -505,15 +505,16 @@ Hit0: mania/4K/hit0
 ```
 
 -   `Hit0` says to use the image located in `mania/4K/` and the image prefix name is `hit0`. Since the provided skinning elements has animation frames, osu! will display it as such.
--   This similarly applies to the other elements.
+-   This similarly applies to the other elements, but only when playing with 4 keys.
+-   On the ranking screen, the default hit scores will be used.
 
 ### Comboburst (basic)
 
-osu!mania combobursts should be facing towards the right, similarily to osu!standard and osu!catch. However, these images are not placed along the bottom two corners. Thus, osu!mania combobursts should be complete images and not be cropped. All osu!mania combobursts will be displayed on the right side of the stage.
+osu!mania combobursts should be facing towards the right, similar to osu!standard and osu!catch. However, these images are not placed along the bottom adjacent corners of the screen. Thus, osu!mania combobursts should be complete images and not be cropped. All osu!mania combobursts will be displayed on the right side of the stage.
 
 ### Comboburst (advanced)
 
-Using `ComboBurstStyle`, you can set which side the osu!mania combobursts should be displayed on. These should still be facing towards the right, similarly to osu!standard and osu!catch combobursts, osu! will flip these horizontally when appearing on the other side of the stage.
+Using `ComboBurstStyle`, you can set which side of the stage the osu!mania combobursts should be displayed on. These should still be facing towards the right, similar to osu!standard and osu!catch combobursts, as osu! will flip these horizontally when appearing on the left side of the stage.
 
 ### Mod icons
 
@@ -524,7 +525,7 @@ osu!mania has a few specific mod icons that you can skin:
 -   Co-Op
 -   Random
 
-On a side note, there was a mod called Fade Out which replaced the Hidden mod when osu!mania was the set game mode, but this was removed from the game. You could skin the hidden mod icon to make it appear as Fade Out, but this may look weird in other game modes.
+On a side note, there was a mod called Fade Out which replaced the Hidden mod icon when osu!mania was the set game mode, but this was removed from the game. You could skin the hidden mod icon to make it appear as Fade Out, but this may look weird when playing in other game modes.
 
 ### Shared elements
 
@@ -533,19 +534,19 @@ The following elements are used with other parts of osu!:
 -   scorebar and all its files
 -   combo numbers
 -   score numbers
--   mod icons; except the mode-specific mods
+-   mod icons, except the mode-specific mods
 
 ## Playfield design
 
 ### Combo numbers
 
-By default, combo numbers are displayed in the middle (horizontally) of the stage. The vertical positioning can be changed by setting `ComboPosition`.
+By default, combo numbers are centred horizontally in the stage. The vertical positioning can be changed by setting `ComboPosition`.
 
-If there are two stages, the combo number will be displayed on both stages.
+If there are two stages, the combo number will be displayed on both stages (this cannot be changed).
 
 ### Hit scores
 
-Like combo numbers, hit scores are displayed in the middle (horizontally) of the stage. The vertical positioning can be changed by setting `ScorePosition`.
+Like combo numbers, hit scores are centred horizontally in the stage. The vertical positioning can be changed by setting `ScorePosition`.
 
 By default, if there are two stages, the hit scores from each stage will be displayed on the both stages. To change this behaviour (have hit scores display on the stage the note was hit on), set `SeparateScore` to `1`.
 
@@ -562,17 +563,17 @@ To centre the osu!mania stage, use the following equation to set `ColumnStart`.
 -   `columnWidths` = sum of `ColumnWidth`
 -   `ColumnSpacings` = sum of `ColumnSpacing`
 
-*Notice: You will need to round the number to make it an integer. Because of this, the stage may be off by a unit to the left or right. In most cases, this is not very noticiable.*
+*Notice: You will need to round the number to make it an integer. Because of this, the stage may be off by a unit to the left or right. In most cases, this will not be very noticiable.*
 
 ### Adding a lane cover
 
-A lane cover is an element that covers part of the stage, primarily to limit viewing area. This can be used in place of the hidden mod, which is commonly used as a lane cover but has the drawback of moving up or down while playing.
+A lane cover is an element that covers part of the stage, primarily to limit viewing area. This can be used in place of the Hidden mod, which is commonly used for this purpose but has the drawback of moving up or down while playing.
 
 If you want to add a lane cover to only one key count, use the `mania-stage-bottom` element. If you want to do this for multiple key counts, you will need to make multiple lane covers and set `StageBottom` in the skin configuration for each key count.
 
 ---
 
-In your prefered image editor, create a new transparent image with the height set to 480 pixels and the width set to the sum of the `ColumnWidth` and `ColumnSpacing`. If your skin has the stage scroll down, fill the upper half with an image and/or a color. If your skin has the stage scroll up, fill the lower half with an image and/or a color.
+In your prefered image editor, create a new transparent image with the height set to 480 pixels and the width set to the sum of the `ColumnWidth` and `ColumnSpacing`. If your skin has the stage scroll down, fill the upper half with an image and/or a color. If your skin has the stage scroll up, fill the lower half with an image and/or a color. Once this is done, save it in your skin folder and test it out.
 
 | ![](img/lane_cover-down.jpg) | ![](img/lane_cover-up.jpg) |
 | --- | --- |
