@@ -86,6 +86,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 | #3 |  goheegy | ![][flag_GB] |  | Winner of Match #1 | **18:00 UTC** | ² |
 
 ¹ Encounter dependent on winner of Match #1
+
 ² Encounter dependent on winner of Match #1 and will take place if Player A on Match #2a or Match #2b loses the match
 
 -----------------------
