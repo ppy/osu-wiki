@@ -69,7 +69,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 
 -----------------------
 
-## Match Schedules: Finals
+## Match Schedules: Grand Finals
 
 ### Friday, 7 December 2018
 
