@@ -90,7 +90,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
-| [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
@@ -108,7 +107,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
-| [riffy](https://osu.ppy.sh/users/597957)              | Russian                  |
 | [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese                  |
 | [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
@@ -123,7 +121,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
 | [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Uta](https://osu.ppy.sh/users/9439796)               | Indonesian               |
-| [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
@@ -151,7 +148,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 |-------------------------------------------------------|--------------------------|
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
-| [Ajamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
+| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
