@@ -91,7 +91,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket_fix.png)
+![Double Elimination bracket](img/bracket_refix.png)
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
 
 ¹ Winner bracket encounter
- 
+
 ² Loser bracket encounter
 
 ³ Encounter dependent on results of ²Loser bracket encounter
