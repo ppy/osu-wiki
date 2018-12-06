@@ -80,7 +80,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chino, algo de Francés   |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Holandés                 |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polaco                   |
-| [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamita               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbio                   |
@@ -98,7 +97,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | Alemán                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portugués                |
 | [Realazy](https://osu.ppy.sh/users/918297)            | Francés                  |
-| [riffy](https://osu.ppy.sh/users/597957)              | Ruso                     |
 | [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chino                    |
 | [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portugués                |
@@ -113,7 +111,6 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
 | [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
 | [Uta](https://osu.ppy.sh/users/9439796)               | Indonesio                |
-| [Wishkey](https://osu.ppy.sh/users/1101704)           | Holandés, Alemán         |
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | Alemán                   |
@@ -123,7 +120,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 
 | Nombre                                                | Lenguajes adicionales    |
 |-------------------------------------------------------|--------------------------|
-| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Japonés|
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Català, Japonés|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chino                    |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | Alemán                   |
@@ -141,7 +138,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 |-------------------------------------------------------|--------------------------|
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonés, Chino          |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
-| [Ajamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
+| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Noruego                  |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
