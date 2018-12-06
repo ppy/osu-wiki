@@ -125,7 +125,7 @@ Click on one of the tabs to **sort your song list according to the selected crit
 - `By Title` - Beatmaps will be grouped by the first letter of their title.
 - `Favourites` - Only beatmaps you have favorited online will be shown.
 - `My Maps` - Only beatmaps you have mapped (that is, whose creator matches your profile name) will be shown.
-- `Ranked Status` - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, or unknown.
+- `Ranked Status` - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, unknown, or loved.
 The first five groupings are available in tabs below Group and Sort.
 
 **Sort** - Sorts beatmaps in a certain order
@@ -157,7 +157,7 @@ Note: You cannot have the chat console or the options sidebar open if you want t
   - `length` - Length in seconds
   - `drain` - Drain Time in seconds
   - `mode` - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
-  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, or ``unknown``, or ``r/a/p/n/u`` for short.
+  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, ``unknown``, or ``loved``, or ``r/a/p/n/u/l`` for short.
   - `played` - Time since last played in days
   - `unplayed` - Unplayed maps - no value (use ``unplayed=`` for unplayed maps or ``unplayed!=`` for played maps)
   - `speed` - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options/#Gameplay) option is off
