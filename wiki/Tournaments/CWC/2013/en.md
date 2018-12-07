@@ -363,7 +363,6 @@ This competition has come to an end and resulted in the following podium:
 16. If you cannot make your match, inform your team captain AND a tournament manager 24-48 hours in advance! We understand that emergency situations may occur, then you are required to inform a tournament manager regarding the issue.
 17. Any changes or modifications to the rules will be notified.
 
-
 ### Registration
 
 1. Team must consist of at least 3 players. You may add a 4th player as a back up which is always encouraged.
