@@ -11,7 +11,7 @@ osu! 에 오신 것을 환영합니다! osu! 는 peppy가 개발한 동그라미
 - [설치](/wiki/Installation)
 - [규칙](/wiki/Rules)
 - [자주 묻는 질문들](/wiki/FAQ)
-- 게임 모드
+- [게임 모드](/wiki/Game_Modes)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)

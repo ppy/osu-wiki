@@ -8,7 +8,7 @@ Bienvenidos a osu!, un juego de ritmo gratis creado por peppy el cual tiene cuat
 - [Registro](/wiki/Registration)
 - [Reglas](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- Modos de juego
+- [Modos de juego](/wiki/Game_Modes)
   - ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![icono de osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![icono de osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)

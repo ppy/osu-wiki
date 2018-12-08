@@ -8,7 +8,7 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 - [Registration](/wiki/Registration)
 - [Rules](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- Game Modes
+- [Game Modes](/wiki/Game_Modes)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
