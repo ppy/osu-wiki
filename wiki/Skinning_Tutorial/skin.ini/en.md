@@ -1,6 +1,6 @@
 # skin.ini
 
-*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) and [Skinning](https://osu.ppy.sh/help/wiki/Skinning).*
+*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) and [Skinning](https://osu.ppy.sh/help/wiki/Skinning)*
 
 ## What does the skin.ini do?
 The skin.ini file can modify the behaviour of certain skinning elements in a skin.

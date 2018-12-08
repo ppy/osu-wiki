@@ -98,7 +98,7 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are not allowed. | An (x,y) position, as specified above. Decimals are not allowed. |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
 
@@ -222,7 +222,7 @@ _R,0,47210,47810,0,-25.133
 
 | Affects | Value definition | Default value |
 | ------- | ---------------- | ------------- |
-| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
+| The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal (byte). The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:
 

@@ -1,8 +1,8 @@
 # Difficulties
 
-*Not to be confused with: [Beatmaps](/wiki/Beatmaps).*
+*Not to be confused with: [Beatmaps](/wiki/Beatmaps)*
 
-*See also: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset).*
+*See also: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset)*
 
 The difficulty of a beatmap *describes* the level of skill needed to complete it.
 
@@ -25,7 +25,7 @@ The star rating ranges determines which web icon is going to be used on any give
 
 ## Difficulty levels
 
-*See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming).*
+*Main page: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 ### osu!
 

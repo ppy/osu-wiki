@@ -254,7 +254,7 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 #### I get an error about "font styles" when I try to open the game!
 
-**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**You have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
 If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
@@ -606,7 +606,7 @@ To enable raw input, follow these steps:
 
 **You can solve this problem by defining a smaller tablet area for your device.**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](https://w.ppy.sh/d/dc/Tabarea.png).
+On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](/wiki/Help_Centre/Tabarea.png).
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 

@@ -4,7 +4,7 @@
 Beatmap Nominators
 ==================
 
-*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
+*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information)*
 
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submission/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums.
 
@@ -123,20 +123,17 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish                  |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [hikiko-](https://osu.ppy.sh/users/6512678)           |                          |
-| [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
-| [Kin](https://osu.ppy.sh/users/480689)                | French                   |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
-| [Nifty](https://osu.ppy.sh/users/4956097)             |                          |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French                   |
 
 ### osu!catch
 

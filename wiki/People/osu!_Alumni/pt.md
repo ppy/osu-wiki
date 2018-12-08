@@ -58,7 +58,6 @@
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
-| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | GMT |
 | ![][flag_FI] [ethox](https://osu.ppy.sh/users/441380) | Chat Moderator |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -130,6 +129,7 @@
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [Minato Yukina](https://osu.ppy.sh/users/531253) | QAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | QAT |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | QAT |
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
@@ -187,12 +187,12 @@
 | ![][flag_ZA] [Teara](https://osu.ppy.sh/users/123491) | BAT |
 | ![][flag_AU] [tensheapz](https://osu.ppy.sh/users/60) | BAT |
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
-| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | QAT |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Support Team |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
@@ -213,6 +213,7 @@
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CH]: /wiki/shared/flag/CH.gif

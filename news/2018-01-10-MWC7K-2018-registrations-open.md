@@ -8,7 +8,7 @@ It's an exciting new year, and with that, our first announcement - osu!mania 7K 
 
 ![](/wiki/shared/news/banners/MWC7K_2018_Banner.jpg)
  
-For more details, refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018/7K/)**.
+For more details, refer to the **[osu!mania 7K World Cup 2018 wiki article](/wiki/Tournaments/MWC/2018_7K)**.
 You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/687190)**.
  
 ## Tournament Schedule

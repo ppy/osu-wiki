@@ -1,7 +1,5 @@
 # Troubleshooting
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 ## How do I create a fresh osu! installation without uninstalling the current game?
 
 Copy `osu!.exe` into an empty folder and run it.
