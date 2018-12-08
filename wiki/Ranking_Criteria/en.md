@@ -187,7 +187,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 - **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring whitespaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
 
 ### Allowances
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading the this whole section of the Ranking Criteria.
+This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the Ranking Criteria.
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
 - **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
