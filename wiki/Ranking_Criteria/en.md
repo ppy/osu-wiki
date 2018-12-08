@@ -31,16 +31,15 @@ Glossary
 
 ### Metadata
 
-- **Official sources**: Places directly from the artist or their label such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
+- **Official sources**: Media that the artist or their label provides, such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
 - **vs.**: versus
 - **feat.**: featuring
 - **CV**: character voice, usually used to refer to the voice actor of a fictional character.
 - **Asterisk**: `*`
 - **Umlauts**: `ü`, `ö`, `ä` and `ß`
-- **Whitespace**: A visual spacing between characters, not always a literal space. If a character already has space in it, such as all of Japanese, that counts as whitespace.
-- **TV Size**: A song where the particular version is used in a television program, web series, or direct to video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
+- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters count as already including whitespace. 
+- **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
 - **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
-- **Russian Romanisation**: Use BGN/PCGN system for Russian/Cyrillic. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or wouldn't help in the game. If an artist uses a preferred romanisation, follow it regardless of this rule. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
 - **Character-by-character romanisation**: Each Chinese character must be Romanised as a capitalised word and separated with a space.
 
 ### Timing
@@ -140,7 +139,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 #### Technical
 - **Metadata must be consistent across all difficulties of a beatmap set.**
 - **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap set. Usernames containing whitespaces should be written with underscores instead.
-- **Official Sources must be used as references for metadata unless none are available,** in which case use what is most common and recognizable.
+- **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or Programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website or album names are not an acceptable Source. If the song was featured or tied to a media after it was released, the source field is optional. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way. 
@@ -163,7 +162,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Songs with German metadata must romanise umlauts into two-letter equivalents (`ue`, `oe`, `ae` and `ss`).**
-- **Songs with Russian metadata must be romanised using the Russian Romanisation method in romanised fields when there is no romanisation or translation information listed by a reputable source.** The same applies to the Source field if a romanised Source is preferred by the mapper.
+- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
 - **Songs with Japanese metadata must use the Modified Hepburn Romanisation method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons.
 - **Songs with Chinese metadata are to be handled with respect to the tones and dialects of Chinese they belong to using character-by-character romanisation method with the exception of artist names.** In any case, all diacritical tone marks must be omitted:
   - Mandarin metadata must be romanised using the Hanyu Pinyin system.
