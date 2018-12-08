@@ -2,8 +2,6 @@
 
 *Untuk halaman osu!supporter dari situs web osu!, lihat [dukung permainan ini](/home/support).*
 
-![Tombol osu!supporter](img/signed-out-home.png "Tombol osu!supporter di halaman beranda saat keluar")
-
 ## Keuntungan
 
 *Daftar keuntungan yang didapat dari memiliki osu!supporter, lihat [dukung permainan ini](/home/support).*

@@ -2,8 +2,6 @@
 
 *For the osu!supporter page from osu!web, see [support the game](/home/support).*
 
-![osu!supporter button](img/signed-out-home.png "osu!supporter button on the home page when signed out")
-
 ## Benefits
 
 *For a list of goodies from having osu!supporter, see [support the game](/home/support).*
