@@ -4,13 +4,13 @@ Skinning is one of the key features of osu! It enables players to derive from th
 
 ## Skinning sets
 
-*See also: [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/).*
+*Main page: [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
 
 **For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the Ranking Criteria, it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners may want to consider those lists as well.
 
 ## How do I make a skin?
 
-*See also: [Skinning Tutorial](/wiki/Skinning/Tutorial).*
+*Main page: [Skinning Tutorial](/wiki/Skinning/Tutorial)*
 
 ## Skin elements lists
 

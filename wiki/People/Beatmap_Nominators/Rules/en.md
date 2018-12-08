@@ -1,7 +1,5 @@
 # Rules
 
-*Main page: [Beatmap Nominators](/wiki/Beatmap_Nominators).*
-
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them.
 
 These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.

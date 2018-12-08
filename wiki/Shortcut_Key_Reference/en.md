@@ -95,7 +95,7 @@ Note: Not all of these work in the [multi](/wiki/multi) mode's song select scree
 
 ### Game Modifiers
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
 
 **Notes:**
 
@@ -148,7 +148,7 @@ _See also: [Game Modifiers](/wiki/Game_Modifiers)._
 
 ## Beatmap Editor
 
-_See also: [Beatmap Editor](/wiki/Beatmap_Editor)._
+*Main page: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
 ### General
 
