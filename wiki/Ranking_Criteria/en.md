@@ -37,7 +37,7 @@ Glossary
 - **CV**: character voice, usually used to refer to the voice actor of a fictional character.
 - **Asterisk**: `*`
 - **Umlauts**: `ü`, `ö`, `ä` and `ß`
-- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters count as already including whitespace. 
+- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces. 
 - **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
 - **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
 - **Character-by-character romanisation**: Each Chinese character must be Romanised as a capitalised word and separated with a space.
@@ -141,7 +141,7 @@ Custom naming must follow a common theme or pattern related to the song and must
 - **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap set. Usernames containing whitespaces should be written with underscores instead.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
-- **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or Programs like Vocaloids cannot be used as the sole artist of any given song.
+- **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website or album names are not an acceptable Source. If the song was featured or tied to a media after it was released, the source field is optional. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way. 
   - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
@@ -257,7 +257,7 @@ This category contains explicit allowance statements of concepts and rules that 
 -   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
 -   **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
 -   **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
--   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found on the [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused, it is not necessary to include. 
+-   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found on the [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include. 
 
 ### Guidelines
 
