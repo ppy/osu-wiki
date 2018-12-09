@@ -40,8 +40,8 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] Chine | ![][flag_TW] Taïwan | ![][flag_CL] Chili |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taïwan | ![][flag_AR] Argentine/Colombie |
+| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] Chine | ![][flag_TW] Taïwan | ![][flag_CL] Chili |
+| [Catch the Beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taïwan | ![][flag_AR] Argentine/Colombie |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne | ![][flag_SE] Suède |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_DE] Allemagne |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Chine | ![][flag_ID] Indonésie | ![][flag_DE] Allemagne |
