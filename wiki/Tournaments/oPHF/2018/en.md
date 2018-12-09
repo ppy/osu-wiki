@@ -719,7 +719,7 @@ Winners of their respective game mode will get a Profile badge.
   - [Arihara Nanami (CV: Kusuhara Yui) - Sympathy (KenZ) \[Tokubetsu\]](https://osu.ppy.sh/beatmaps/1783422)
   - [First Aid - D2 (JztCallMeRon) \[Hi-Speed\]](https://osu.ppy.sh/beatmaps/1862626)
   - [Alon Mor - Epollo (Couil) \[feel the beat\]](https://osu.ppy.sh/beatmaps/1567624)
-  - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmaps/1391441)
+  - [USAO - Boss Rush (Kim\_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmaps/1391441)
 - Tiebreaker
   - [Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](https://osu.ppy.sh/beatmaps/684928)
 
