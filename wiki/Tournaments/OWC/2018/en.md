@@ -120,7 +120,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ### Grand Finals
 
-**[Download the map pack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
+**[Download the map pack here! (140 MB)](https://www.mediafire.com/file/s791z5me6w6b0sx/OWC-GF-Mappack.zip/file)**
 
 - NoMod
 	- [Camellia feat. Nanahira - Bassdrop Freaks (2018 ''Redrop'' ver.) \(Mir\) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
@@ -129,23 +129,23 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 	- [Suzuki Konomi - My Days \(Meg\) \[Down\]](https://osu.ppy.sh/beatmapsets/861113#osu/1801586)
 	- [Taiko no Tatsujin - Haya Saitama2000 \(Zekira\) \[Oni\]](https://osu.ppy.sh/beatmapsets/9917#osu/39076)
 - Hidden
-	- [paranoid void - Utsukushii Kodoku \(dsco\) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
-	- [toby fox - Spider Dance \(Fatfan Kolek\) \[Snow Note's Extreme\]](https://osu.ppy.sh/beatmapsets/750458#osu/1584604)
-	- [Akiyama Uni - Broken Moon \(sahuang\) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+	- [FUJIN CLUB - Tabi to Ferry \(dsco\) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377)
+	- [BLOOD STAIN CHILD - MOON LIGHT WAVE \(Snepif\) \[Effulgence\]](https://osu.ppy.sh/beatmapsets/296543#osu/665787)
+	- [uma vs. Morimori Atsushi - Re:End of a Dream \(Battle\) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#osu/1178810)
 - HardRock
-	- [Team.NEKOKAN - Airman ga Taosenai \(Sotarks\) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/732994#osu/1563445)
-	- [Renard - Terminal \(nold\_1702\) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
-	- [Jun Kuroda & AAAA - Cygnus \(Rohit6\) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
+	- [Nekomata Master - Izanami's wail \(Uberzolik\) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
+	- [Nanaki feat.GUMI - Mousou Kajitsu \(Natsu\) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
+	- [succducc - me & u \(Nathan\) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
 - DoubleTime
-	- [Atoguru - Itoshi Kimi wo Mitsuke ni \(bakabaka\) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
-	- [senya - Zouka de Arou to Shita Mono \(Satellite\) \[Ancients\]](https://osu.ppy.sh/beatmapsets/495283#osu/1054400)
-	- [Mei Ayakura - Romantic Fall \(felys\) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+	- [ZAQ - Serendipity \(Mir\) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/578619#osu/1227137)
+	- [senya - Arehateta Chijou no Uta \(Satellite\) \[Collab\]](https://osu.ppy.sh/beatmapsets/434397#osu/936035)
+	- [HTT - NO, Thank You! \(DNR\) \[Collab\]](https://osu.ppy.sh/beatmapsets/19532#osu/68624)
 - FreeMod
-	- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness \(Regou\) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#osu/1094551)
-	- [A.SAKA - Nanatsu Koyoto \(xLolicore-\) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
-	- [UNDEAD CORPORATION - Everything will freeze \(Ekoro\) \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+	- [Luschka - Kami no Kotoba \(byfar\) \[Voice of God\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714637)
+	- [Camellia - Towards The Horizon \(Pho\) \[White Extra\]](https://osu.ppy.sh/beatmapsets/636393#osu/1350353)
+	- [S.S.H. - Intersect Thunderbolt-Remix \(Snow Note\) \[Exceed\]](https://osu.ppy.sh/beatmapsets/38316#osu/122693)
 - TieBreaker
-	- **[Unlucky Morpheus - Angreifer \(IsomirDiAngelo\) \[Das Gemetzel der rotblutfressenden Bestien\]](https://osu.ppy.sh/beatmapsets/868543#osu/1815397)**
+	- **[Falcom Sound Team jdk - The Azure Arbitrator \(janitorlfj\) \[Chrono Collapse\]](https://osu.ppy.sh/beatmapsets/427166#osu/922172)**
 
 ### Finals
 
@@ -288,6 +288,18 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-12-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Russian Federation ![][flag_RU] | 7 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47967031) |
+
+| Sunday, 2018-12-09 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Germany ![][flag_DE] | 7 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47985556) |
+| Russian Federation ![][flag_RU] | 4 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47989805) |
+| United Kingdom ![][flag_GB] | 5 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47998102) |
 
 ### Semifinals
 
