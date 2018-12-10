@@ -91,38 +91,61 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket_refix.png)
+![Double Elimination bracket](img/bracket_final.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
-### Saturday, 8. December 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **17:00 UTC** | 22:00 UTC+05 | 12:00 UTC-05 | ² |
-
-### Sunday, 9. December 2018
+### Saturday, 15. December 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_JP] | Japan | **10:00 UTC** | 11:00 UTC+01 | 19:00 UTC+09 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **14:00 UTC** | 19:00 UTC+05 | 15:00 UTC+01 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **15:00 UTC** | 20:00 UTC+05 | 0:00 (Mon) UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **16:00 UTC** | 11:00 UTC-05 | 1:00 (Mon) UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **19:00 UTC** | 19:00 UTC | 20:00 UTC+01 | ¹ |
 
-¹ Winner bracket encounter
+### Sunday, 16. December 2018
 
-² Loser bracket encounter
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 13:00 UTC-05 | 18:00 UTC | ² |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | **19:00 UTC** | 14:00 UTC-05 | 20:00 UTC+01 | ² |
 
-³ Encounter dependent on results of ²Loser bracket encounter
+¹ 3rd place encounter
+
+² Grand Finals Encounter dependent on results of ²3rd place encounter
 
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the map pack here! (140 MB)](https://www.mediafire.com/file/s791z5me6w6b0sx/OWC-GF-Mappack.zip/file)**
+
+- NoMod
+	- [Camellia feat. Nanahira - Bassdrop Freaks (2018 ''Redrop'' ver.) \(Mir\) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
+	- [xi - Bad Elixir \(Cherry Blossom\) \[Idealism\]](https://osu.ppy.sh/beatmapsets/878944#osu/1838165)
+	- [Luschka - unravel \(Mirash\) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/731933#osu/1544460)
+	- [Suzuki Konomi - My Days \(Meg\) \[Down\]](https://osu.ppy.sh/beatmapsets/861113#osu/1801586)
+	- [Taiko no Tatsujin - Haya Saitama2000 \(Zekira\) \[Oni\]](https://osu.ppy.sh/beatmapsets/9917#osu/39076)
+- Hidden
+	- [FUJIN CLUB - Tabi to Ferry \(dsco\) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377)
+	- [BLOOD STAIN CHILD - MOON LIGHT WAVE \(Snepif\) \[Effulgence\]](https://osu.ppy.sh/beatmapsets/296543#osu/665787)
+	- [uma vs. Morimori Atsushi - Re:End of a Dream \(Battle\) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#osu/1178810)
+- HardRock
+	- [Nekomata Master - Izanami's wail \(Uberzolik\) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
+	- [Nanaki feat.GUMI - Mousou Kajitsu \(Natsu\) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
+	- [succducc - me & u \(Nathan\) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
+- DoubleTime
+	- [ZAQ - Serendipity \(Mir\) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/578619#osu/1227137)
+	- [senya - Arehateta Chijou no Uta \(Satellite\) \[Collab\]](https://osu.ppy.sh/beatmapsets/434397#osu/936035)
+	- [HTT - NO, Thank You! \(DNR\) \[Collab\]](https://osu.ppy.sh/beatmapsets/19532#osu/68624)
+- FreeMod
+	- [Luschka - Kami no Kotoba \(byfar\) \[Voice of God\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714637)
+	- [Camellia - Towards The Horizon \(Pho\) \[White Extra\]](https://osu.ppy.sh/beatmapsets/636393#osu/1350353)
+	- [S.S.H. - Intersect Thunderbolt-Remix \(Snow Note\) \[Exceed\]](https://osu.ppy.sh/beatmapsets/38316#osu/122693)
+- TieBreaker
+	- **[Falcom Sound Team jdk - The Azure Arbitrator \(janitorlfj\) \[Chrono Collapse\]](https://osu.ppy.sh/beatmapsets/427166#osu/922172)**
 
 ### Finals
 
@@ -265,6 +288,18 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2018-12-08 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Russian Federation ![][flag_RU] | 7 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47967031) |
+
+| Sunday, 2018-12-09 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Germany ![][flag_DE] | 7 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47985556) |
+| Russian Federation ![][flag_RU] | 4 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47989805) |
+| United Kingdom ![][flag_GB] | 5 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47998102) |
 
 ### Semifinals
 
