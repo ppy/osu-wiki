@@ -1,7 +1,5 @@
 # Prizes
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 ## Profile Badges
 
 The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile. 

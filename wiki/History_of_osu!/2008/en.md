@@ -1,7 +1,5 @@
 # 2008
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ![](img/2008.jpg)
 
 ## January

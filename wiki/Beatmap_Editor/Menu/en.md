@@ -153,9 +153,9 @@ Places of interest.
 Compose
 --------
 
-![Compose menu](img/M_Compose.jpg "Compose menu")
+*Main page: [Compose](/wiki/Beatmap_Editor/Compose)*
 
-***Main page: [Compose](/wiki/Beatmap_Editor/Compose)***
+![Compose menu](img/M_Compose.jpg "Compose menu")
 
 ### Rulers commands
 
@@ -177,9 +177,9 @@ Compose
 Design
 -------
 
-![Design menu](img/M_Design.jpg "Design menu")
+*Main page: [Design](/wiki/Beatmap_Editor/Design)*
 
-***Main page: [Design](/wiki/Beatmap_Editor/Design)***
+![Design menu](img/M_Design.jpg "Design menu")
 
 | Name | Description |
 | ---- | ----------- |
@@ -188,9 +188,9 @@ Design
 Timing
 -------
 
-![Timing menu](img/M_Timing.jpg "Timing menu")
+*Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
 
-***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
+![Timing menu](img/M_Timing.jpg "Timing menu")
 
 ### Metronome commands
 

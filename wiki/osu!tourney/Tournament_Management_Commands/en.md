@@ -1,7 +1,5 @@
 # Tournament Management Commands
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
 - `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 such rooms may be created.
