@@ -91,38 +91,61 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket_refix.png)
+![Double Elimination bracket](img/bracket_final.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
-### Saturday, 8. December 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **17:00 UTC** | 22:00 UTC+05 | 12:00 UTC-05 | ² |
-
-### Sunday, 9. December 2018
+### Saturday, 15. December 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_JP] | Japan | **10:00 UTC** | 11:00 UTC+01 | 19:00 UTC+09 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | **14:00 UTC** | 19:00 UTC+05 | 15:00 UTC+01 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **15:00 UTC** | 20:00 UTC+05 | 0:00 (Mon) UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **16:00 UTC** | 11:00 UTC-05 | 1:00 (Mon) UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20:00 UTC** | 20:00 UTC | 15:00 UTC-05 | ¹ |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **19:00 UTC** | 19:00 UTC | 20:00 UTC+01 | ¹ |
 
-¹ Winner bracket encounter
+### Sunday, 16. December 2018
 
-² Loser bracket encounter
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 13:00 UTC-05 | 18:00 UTC | ² |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | **19:00 UTC** | 14:00 UTC-05 | 20:00 UTC+01 | ² |
 
-³ Encounter dependent on results of ²Loser bracket encounter
+¹ 3rd place encounter
+
+² Grand Finals Encounter dependent on results of ²3rd place encounter
 
 ------------------------------------------------------------------------
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the map pack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
+
+- NoMod
+	- [Camellia feat. Nanahira - Bassdrop Freaks (2018 ''Redrop'' ver.) \(Mir\) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
+	- [xi - Bad Elixir \(Cherry Blossom\) \[Idealism\]](https://osu.ppy.sh/beatmapsets/878944#osu/1838165)
+	- [Luschka - unravel \(Mirash\) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/731933#osu/1544460)
+	- [Suzuki Konomi - My Days \(Meg\) \[Down\]](https://osu.ppy.sh/beatmapsets/861113#osu/1801586)
+	- [Taiko no Tatsujin - Haya Saitama2000 \(Zekira\) \[Oni\]](https://osu.ppy.sh/beatmapsets/9917#osu/39076)
+- Hidden
+	- [paranoid void - Utsukushii Kodoku \(dsco\) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+	- [toby fox - Spider Dance \(Fatfan Kolek\) \[Snow Note's Extreme\]](https://osu.ppy.sh/beatmapsets/750458#osu/1584604)
+	- [Akiyama Uni - Broken Moon \(sahuang\) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+- HardRock
+	- [Team.NEKOKAN - Airman ga Taosenai \(Sotarks\) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/732994#osu/1563445)
+	- [Renard - Terminal \(nold\_1702\) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
+	- [Jun Kuroda & AAAA - Cygnus \(Rohit6\) \[BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/358056#osu/888465)
+- DoubleTime
+	- [Atoguru - Itoshi Kimi wo Mitsuke ni \(bakabaka\) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+	- [senya - Zouka de Arou to Shita Mono \(Satellite\) \[Ancients\]](https://osu.ppy.sh/beatmapsets/495283#osu/1054400)
+	- [Mei Ayakura - Romantic Fall \(felys\) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+- FreeMod
+	- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness \(Regou\) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#osu/1094551)
+	- [A.SAKA - Nanatsu Koyoto \(xLolicore-\) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+	- [UNDEAD CORPORATION - Everything will freeze \(Ekoro\) \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+- TieBreaker
+	- **[Unlucky Morpheus - Angreifer \(IsomirDiAngelo\) \[Das Gemetzel der rotblutfressenden Bestien\]](https://osu.ppy.sh/beatmapsets/868543#osu/1815397)**
 
 ### Finals
 
