@@ -1,7 +1,5 @@
 # 2009
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 ![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
 
 - [Results](https://osu.ppy.sh/forum/t/22162)

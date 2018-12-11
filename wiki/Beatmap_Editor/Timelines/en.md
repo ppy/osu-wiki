@@ -5,7 +5,7 @@ This article will explain how each of them function.
 
 ## Shortcuts
 
-_For a list of keyboard shortcuts for the timeline, see [shortcut key reference](/wiki/shortcut_key_reference/#general)._
+*For a list of keyboard shortcuts for the timeline, see: [Shortcut Key Reference](/wiki/Shortcut_Key_Reference/#general)*
 
 ## Song Player
 

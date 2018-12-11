@@ -40,8 +40,8 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] Chine | ![][flag_TW] Taïwan | ![][flag_CL] Chili |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taïwan | ![][flag_AR] Argentine/Colombie |
+| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] Chine | ![][flag_TW] Taïwan | ![][flag_CL] Chili |
+| [Catch the Beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taïwan | ![][flag_AR] Argentine/Colombie |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne | ![][flag_SE] Suède |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_DE] Allemagne |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] Chine | ![][flag_ID] Indonésie | ![][flag_DE] Allemagne |
@@ -114,7 +114,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japon A | ![][flag_TW] Taïwan A | ![][flag_JP] Japon D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
 ### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
 
@@ -171,7 +171,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397) | ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201) | ![][flag_CN] [Skyshifter](https://osu.ppy.sh/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

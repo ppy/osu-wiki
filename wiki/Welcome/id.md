@@ -11,7 +11,7 @@ Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang
 - [Registrasi](/wiki/Registration)
 - [Peraturan](/wiki/Rules)
 - [Pertanyaan yang Sering Diajukan](/wiki/FAQ)
-- Mode Permainan
+- [Mode Permainan](/wiki/Game_Modes)
   - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)

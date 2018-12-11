@@ -1,6 +1,6 @@
 # skin.ini
 
-*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank).*
+*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how osu! will display certain skin elements.

@@ -20,8 +20,8 @@ tags:
 | 十六强赛 | 2018-10-20/2018-10-21 |
 | 八强赛 | 2018-10-27/2018-10-28 |
 | 半决赛 | 2018-11-03/2018-11-04 |
-| 决赛第一周 | 2018-11-10/2018-11-11 |
-| 决赛第二周 | 2018-11-17/2018-11-18 |
+| 决赛第一周 | 2018-11-10 |
+| 决赛第二周 | 2018-11-18/2018-11-25 |
 
 ## 奖品
 
@@ -40,8 +40,8 @@ tags:
 | 比赛经理 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
 | 比赛监督 | ![][CN] [SSV Normandy](/users/6475977) |
 | 图池管理 | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| 直播裁判 | ![][CN] [aiyulu](/users/189617), ![][CN] [Rasis](/users/1209363), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
-| 解说团队 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][CN] [Rasis](/users/1209363), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083) |
+| 直播裁判 | ![][CN] [aiyulu](/users/189617), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
+| 解说团队 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083), ![][CN] [kj415j45](/users/9367540), ![][CN] [NimaPro](/users/11524571), ![][CN] [IA daisuki](/users/11238501) |
 | Wiki | ![][CN] [kj415j45](/users/9367540) |
 
 ## 链接
@@ -50,27 +50,16 @@ tags:
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[Rasis](https://live.bilibili.com/5333)（备用）、[kj415j45](https://live.bilibili.com/237250)（备用）
+  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[kj415j45](https://live.bilibili.com/237250)（备用）
   - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
-## 排程：决赛第一周
+---
 
-以下时间均为 UTC+08 时区。  
-败者组比赛时间以[安排表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx)为准。
+![CMT4K2018 podium](img/podium.png)
 
-### 2018-11-10 星期六
-
-| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
-| :-: | :-: | :-: | :-: |
-| 15:00 | cheewee10 | vs | ByeForNow |
-| 16:30 | Orangejuice | vs | HDRoop\_7 |
-| 18:00 | \[Crz\]Murasame | vs | \[Crz\]Minato |
-
-### 2018-11-11 星期日
-
-待定。
+---
 
 ## 图池
 
@@ -184,6 +173,21 @@ tags:
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
 
 ## 比赛结果
+
+### 决赛第二周
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| ByeForNow | 4 | 7 | \[Crz\]Murasame |
+| \[Crz\]Murasame | 0 | 7 | cheewee10 |
+
+### 决赛第一周
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| cheewee10 | 6 | 1 | ByeForNow |
+| Orangejuice | 0 | 0 | HDRoop_7 |
+| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
 
 ### 半决赛
 
