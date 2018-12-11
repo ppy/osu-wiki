@@ -1,6 +1,6 @@
 # Timing
 
-_See also: [How to time songs](/wiki/How_to_time_songs)_
+*See also: [How to time songs](/wiki/How_to_time_songs)*
 
 ![Timing menu](img/Timing_base.jpg "Timing menu")
 

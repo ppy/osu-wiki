@@ -1,8 +1,6 @@
 osu! 
 ======
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/forum/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
@@ -162,7 +160,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 
 #### Rules
 
--  **Objects 1/2 of a beat apart or less must not overlap perfectly.**
+-  **Objects 1/2 of a beat apart or less must not overlap perfectly.** Slider heads or tails perfectly overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 
 #### Guidelines
 

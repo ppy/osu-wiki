@@ -1,7 +1,5 @@
 # Rules
 
-*Main page: [Beatmap Nominators](/wiki/Beatmap_Nominators).*
-
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them.
 
 These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.
@@ -25,7 +23,14 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **Do not nominate maps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
 + **Do not qualify mapsets whose song already has a Qualified mapset, unless no game modes of both sets overlap - this includes remixed versions**. For example an osu!taiko and osu! mapset of the same song can exist in the Qualified section, whilst an osu!taiko and osu!/osu!taiko hybrid set cannot. This ensures variety among Ranked beatmaps within their respective game modes.
 + **If a bubbled map contains unrankable issues, its bubble must be popped.** This applies even if you do not intend to nominate the mapset.
-+ **At least 24 hours must pass between a first nomination and a qualification on every mapset, ignoring renominations for minor changes.** This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
++ **At least 24 hours must pass between a first nomination and a qualification on every beatmap set if...**
+  + the beatmap set has received no nominations prior. 
+  + a new difficulty/storyboard has been added.
+  + a segment of a difficulty, its storyboard, or its hitsounding have been redone.
+  + complex timing has been adjusted.
+  + the beatmap set has been changed in response to a nominator's veto.
+
+Other situations do not require a 24 hour wait. This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
 + **Do not qualify over any manually popped bubble set by another Beatmap Nominator.** Manually popping bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
 + **Make sure no mod posts in the map thread have been ignored before qualifying or bubbling a map.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the mapthread and act accordingly.
 

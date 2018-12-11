@@ -1291,11 +1291,6 @@
 "storyboard_scripting_rules":             "Storyboard_Scripting/General_Rules"
 "sbs_rules":                              "Storyboard_Scripting/General_Rules"
 
-"storyboard_scripting_miscellaneous":     "Storyboard_Scripting/Miscellaneous"
-"sbs_miscellaneous":                      "Storyboard_Scripting/Miscellaneous"
-"miscellaneous_storyboard_scripting":     "Storyboard_Scripting/Miscellaneous"
-"miscellaneous_sbs":                      "Storyboard_Scripting/Miscellaneous"
-
 "storyboard_scripting_objects":           "Storyboard_Scripting/Objects"
 "sbs_objects":                            "Storyboard_Scripting/Objects"
 "objects_storyboard_scripting":           "Storyboard_Scripting/Objects"
@@ -1344,7 +1339,6 @@
 
 "cpot": "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
-"tournaments/owc":             "Tournaments/#-osu!-world-cup"
 "owc":                         "Tournaments/#-osu!-world-cup"
 "owc1":                        "Tournaments/OWC/1"
 "owc_1":                       "Tournaments/OWC/1"
@@ -1374,7 +1368,6 @@
 "owc_2018":                    "Tournaments/OWC/2018"
 "owc/2018":                    "Tournaments/OWC/2018"
 
-"tournaments/twc":             "Tournaments/#-taiko-world-cup"
 "twc":                         "Tournaments/#-taiko-world-cup"
 "twc2011":                     "Tournaments/TWC/2011"
 "twc_2011":                    "Tournaments/TWC/2011"
@@ -1398,7 +1391,6 @@
 "twc_2018":                    "Tournaments/TWC/2018"
 "twc/2018":                    "Tournaments/TWC/2018"
 
-"tournaments/cwc":             "Tournaments/#-catch-the-beat-world-cup"
 "cwc":                         "Tournaments/#-catch-the-beat-world-cup"
 "cwc2014":                     "Tournaments/CWC/2014"
 "cwc_2014":                    "Tournaments/CWC/2014"
@@ -1416,7 +1408,6 @@
 "cwc_2018":                    "Tournaments/CWC/2018"
 "cwc/2018":                    "Tournaments/CWC/2018"
 
-"tournaments/mwc":             "Tournaments/#-osu!mania-world-cup"
 "mwc":                         "Tournaments/#-osu!mania-world-cup"
 "mwc2014":                     "Tournaments/MWC/2014"
 "mwc_2014":                    "Tournaments/MWC/2014"
@@ -1465,11 +1456,11 @@
 "anzt_5s": "Tournaments/ANZT/2018_Summer"
 "anzt/5s": "Tournaments/ANZT/2018_Summer"
 
-# "ats":    "Tournaments/#-asian-taiko-showdown"
+"ats":      "Tournaments/#-asian-taiko-showdown"
 "ats_2018": "Tournaments/ATS/2018_Summer"
 "ats/2018": "Tournaments/ATS/2018_Summer"
 
-# "cfc": "Tournaments/CFC/#-catch-french-cup"
+"cfc":      "Tournaments/CFC/#-catch-french-cup"
 "cfc_2018": "Tournaments/CFC/2018"
 "cfc/2018": "Tournaments/CFC/2018"
 
@@ -1482,7 +1473,7 @@
 "cmt/4k_2018": "Tournaments/CMT_4K/2018"
 "cmt/4k/2018": "Tournaments/CMT_4K/2018"
 
-# "ophst":    "Tournaments/#-osu!philippines-summer-tournament"
+"ophst":      "Tournaments/#-osu!philippines-summer-tournament"
 "ophst2018":  "Tournaments/oPHST/2018"
 "ophst_2018": "Tournaments/oPHST/2018"
 "ophst/2018": "Tournaments/oPHST/2018"
@@ -1496,8 +1487,8 @@
 "rmoti_2": "Tournaments/RMoT_Invitational/2"
 "rmoti/2": "Tournaments/RMoT_Invitational/2"
 
-# "soft": "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
-"soft3": "Tournaments/SOFT/3"
+"soft":   "Tournaments/#-springtime-osu!mania-free-for-all-tournament"
+"soft3":  "Tournaments/SOFT/3"
 "soft_3": "Tournaments/SOFT/3"
 "soft/3": "Tournaments/SOFT/3"
 
@@ -1512,10 +1503,20 @@
 "thom_cup/1": "Tournaments/THOM_CUP/1"
 
 "cjb":         "Tournaments/#-CJB-osu!mania-4K-Tournament"
-"cjb_4k_2018": "Tournaments/CJB/2018/4K"
-"cjb_2018_4k": "Tournaments/CJB/2018/4K"
-"cjb/4k/2018": "Tournaments/CJB/2018/4K"
-"cjb/2018/4k": "Tournaments/CJB/2018/4K"
+"cjb_4k":      "Tournaments/#-CJB-osu!mania-4K-Tournament"
+"cjb/2018":    "Tournaments/CJB_4K/2018"
+"cjb_2018":    "Tournaments/CJB_4K/2018"
+"cjb_4k/2018": "Tournaments/CJB_4K/2018"
+"cjb_4k_2018": "Tournaments/CJB_4K/2018"
 
 "visual_setting":              "Visual_Settings"
 "vs":                          "Visual_Settings"
+
+# These redirects block access to index pages. They can be brought back after
+# a change on osu-web allows for page subtitles to use redirects.
+# see https://github.com/ppy/osu-wiki/pull/1764#issuecomment-431350801
+#
+# "tournaments/owc": "Tournaments/#-osu!-world-cup"
+# "tournaments/twc": "Tournaments/#-taiko-world-cup"
+# "tournaments/cwc": "Tournaments/#-catch-the-beat-world-cup"
+# "tournaments/mwc": "Tournaments/#-osu!mania-world-cup"

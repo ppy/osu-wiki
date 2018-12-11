@@ -1,6 +1,4 @@
 # Handling Foul Play
-_Main page: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)._
-
 
 ## Why am I restricted?
 A user may get restricted if they do any of the following:

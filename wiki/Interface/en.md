@@ -55,7 +55,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Multi Lobby
 
-*Full explanation: [Multi](/wiki/Multi)*
+*Main page: [Multi](/wiki/Multi)*
 
 ![Multi Lobby](img/Multi-Play-2016.png)
 ![Multi Host](img/Multi-play!_Host.jpg)

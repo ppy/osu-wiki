@@ -1,7 +1,5 @@
 # 2015
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 ## General
 
 - First time in the series to enforce that at least one beatmap in the beatmapset must be played and passed to be votable.
