@@ -19,8 +19,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Phase d'inscription | 2018-11-04/2018-12-02 |
 | Tirage au sort en direct | 2018-12-02 (17:00 UTC) |
 | Qualifications | 2018-12-15/2018-12-16 |
-| 32èmes de finale | 2019-01-05/2019-01-06 |
-| 16èmes de finale | 2019-01-12/2019-01-13 |
+| 16èmes de finale | 2019-01-05/2019-01-06 |
+| 8èmes de finale | 2019-01-12/2019-01-13 |
 | Quarts-de-finale | 2019-01-19/2019-01-20 |
 | Demi-finales | 2019-01-26/2019-01-27 |
 | Finales | 2019-02-02/2019-02-03 |
@@ -33,8 +33,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Phase d'inscription | 2018-11-10/2018-12-09 |
 | Tirage au sort en direct | 2018-12-09 (17:00 UTC) |
 | Qualifications | 2019-01-05/2019-01-06 |
-| 32èmes de finale | 2019-01-12/2019-01-13 |
-| 16èmes de finale | 2019-01-19/2019-01-20 |
+| 16èmes de finale | 2019-01-12/2019-01-13 |
+| 8èmes de finale | 2019-01-19/2019-01-20 |
 | Quarts-de-finale | 2019-01-26/2019-01-27 |
 | Demi-finales | 2019-02-02/2019-02-03 |
 | Finales | 2019-02-09/2019-02-10 |
@@ -47,8 +47,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Phase d'inscription | 2018-11-14/2018-12-16 |
 | Tirage au sort en direct | 2018-12-16 (17:00 UTC) |
 | Qualifications | 2019-01-05/2019-01-06 |
-| 32èmes de finale | 2019-01-12/2019-01-13 |
-| 16èmes de finale | 2019-01-19/2019-01-20 |
+| 16èmes de finale | 2019-01-12/2019-01-13 |
+| 8èmes de finale | 2019-01-19/2019-01-20 |
 | Quarts-de-finale | 2019-01-26/2019-01-27 |
 | Demi-finales | 2019-02-02/2019-02-03 |
 | Finales | 2019-02-09/2019-02-10 |
@@ -61,8 +61,8 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Phase d'inscription | 2018-11-04/2018-12-23 |
 | Tirage au sort en direct | 2018-12-23 (17:00 UTC) |
 | Qualifications | 2019-01-12/2019-01-13 |
-| 32èmes de finale | 2019-01-19/2019-01-20 |
-| 16èmes de finale | 2019-01-26/2019-01-27 |
+| 16èmes de finale | 2019-01-19/2019-01-20 |
+| 8èmes de finale | 2019-01-26/2019-01-27 |
 | Quarts-de-finale | 2019-02-02/2019-02-03 |
 | Demi-finales | 2019-02-09/2019-02-10 |
 | Finales | 2019-02-16/2019-02-17 |
@@ -90,19 +90,19 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Head Referee | ![][flag_FR] [Purettsu Eru](/users/1542565) |
 | Sélectionneur de map (osu!) | ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Nozhomi](/users/2716981) |
 | Sélectionneur de map (osu!taiko) | ![][flag_FR] [Nofool](/users/672430) |
 | Sélectionneur de map (osu!catch) | ![][flag_FR] [Emiru](/users/3306180) |
 | Sélectionneur de map (osu!mania) | ![][flag_FR] [Adri](/users/4579132) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Commentateurs (osu!) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Battquif](/users/2389333), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [ThePooN](/users/718454), ![][flag_FR] [Zonthem](/users/7193908) |
-| Commentateurs (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Commentateurs (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TimmyAkmed](/users/1799973) |
 | Commentateurs (osu!catch) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Bloodenay](/users/7303988), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [\_Manyura](/users/8335913), ![][flag_FR] [redjiii](/users/1378728), ![][flag_FR] [Rougoku](/users/6900166) |
 | Commentateurs (osu!mania) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Ominy](/users/9299077), ![][flag_FR] [On a PetaMaMeuf](/users/5815785), ![][flag_FR] [AntoAa](/users/3897919) |
 | Designers | ![][flag_DE] [Celektus](/users/4294993), ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Arbitre en chef | ![][flag_FR] [Purettsu Eru](/users/1542565) |
-| Arbitres | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028) |
+| Arbitres | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028), ![][flag_FR][Tigzick](/users/6745742) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
 ## Liens
@@ -111,8 +111,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 - [Livestream](https://twitch.tv/osufrlive)
 - [Discord officiel du oMMFF](https://discord.gg/bWKUsHd)
 - Formulaires d'inscriptions
-  - [osu!](https://goo.gl/forms/JkUJvx5VDP5gcMS92)
-  - [osu!taiko](https://goo.gl/forms/xM5FkMiqdyLiz2wm1)
   - [osu!catch](https://goo.gl/forms/R6hqbLqbPZWAQr2f1)
   - [osu!mania](https://goo.gl/forms/lrEpBghknJG7HnCY2)
 - Tableaux Challonge
@@ -205,7 +203,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 #### Format du Match
 
 - Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici: 
-  - 32èmes de finale et 16èmes de finale: Best-of-7 (Premier à 4 points)
+  - 16èmes de finale et 8èmes de finale: Best-of-7 (Premier à 4 points)
   - Quarts de finale: Best-of-9 (Premier à 5 points)
   - Demi-finales: Best-of-11 (Premier à 6 points)
   - Finales et Grandes Finales: Best-of-13 (Premier à 7 points)

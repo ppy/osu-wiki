@@ -90,19 +90,19 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Head Referee | ![][flag_FR] [Purettsu Eru](/users/1542565) |
 | Map Selectors (osu!) | ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Nozhomi](/users/2716981) |
 | Map Selectors (osu!taiko) | ![][flag_FR] [Nofool](/users/672430) |
 | Map Selectors (osu!catch) | ![][flag_FR] [Emiru](/users/3306180) |
 | Map Selectors (osu!mania) | ![][flag_FR] [Adri](/users/4579132) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Commentators (osu!) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Battquif](/users/2389333), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [ThePooN](/users/718454), ![][flag_FR] [Zonthem](/users/7193908) |
-| Commentators (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263) |
+| Commentators (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TimmyAkmed](/users/1799973) |
 | Commentators (osu!catch) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Bloodenay](/users/7303988), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [\_Manyura](/users/8335913), ![][flag_FR] [redjiii](/users/1378728), ![][flag_FR] [Rougoku](/users/6900166) |
 | Commentators (osu!mania) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Ominy](/users/9299077), ![][flag_FR] [On a PetaMaMeuf](/users/5815785), ![][flag_FR] [AntoAa](/users/3897919) |
 | Designers | ![][flag_DE] [Celektus](/users/4294993), ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Head Referee | ![][flag_FR] [Purettsu Eru](/users/1542565) |
-| Referees | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028) |
+| Referees | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028), ![][flag_FR][Tigzick](/users/6745742) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
 
 ## Links
@@ -111,8 +111,6 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 - [Livestream](https://twitch.tv/osufrlive)
 - [oMMFF Discord server](https://discord.gg/bWKUsHd)
 - Registration forms
-  - [osu!](https://goo.gl/forms/JkUJvx5VDP5gcMS92)
-  - [osu!taiko](https://goo.gl/forms/xM5FkMiqdyLiz2wm1)
   - [osu!catch](https://goo.gl/forms/R6hqbLqbPZWAQr2f1)
   - [osu!mania](https://goo.gl/forms/lrEpBghknJG7HnCY2)
 - Challonge brackets
@@ -224,11 +222,11 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
   - If the player disconnects within the first 30 seconds of the map being played, the game will still go on, but both players will have to decide if they want to replay the map, or if the map will count towards the match's points.
   - If the player disconnects after the first 30 seconds of the map being played, the game will go on, and will count towards the match's points.
   - To avoid an abuse of this system, each player will be allowed up to one disconnection per match. Any disconnection after this first disconnection will be a point for the opponent. (Applies only to disconnections during maps)
-  - Players will have 10 minutes maximum to come back in the room following a disconnection. If the player does not coem back, the match's score will be frozen and considered the official result. **If the player winning the match is the one disconnected, the match will continue, as long as the opponent is still here to play. If after 30 minutes, the player has not come back, he will be disqualified from the match.**
+  - Players will have 10 minutes maximum to come back in the room following a disconnection. If the player does not come back, the match's score will be frozen and considered the official result. **If the player winning the match is the one disconnected, the match will continue, as long as the opponent is still here to play. If after 30 minutes, the player has not come back, he will be disqualified from the match.**
 
 ### Players and staff behaviour
 
-- This is very simple. Players and staff must have read this ruleset in its entirety. Any person participating n this tournament must be respectful of everyone. People will be banned and blacklisted if that is not respected. This counts for players as much as it counts for staff.
+- This is very simple. Players and staff must have read this ruleset in its entirety. Any person participating in this tournament must be respectful of everyone. People will be banned and blacklisted if that is not respected. This counts for players as much as it counts for staff.
 
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
