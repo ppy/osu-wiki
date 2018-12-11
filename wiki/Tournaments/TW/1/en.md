@@ -1,15 +1,14 @@
 ---
 tags:
 - osu! Taiko Wars
-- o!TW
-- oTW
+- Taiko Wars
 - TW
 ---
 # Taiko Wars
 
-![oTW Logo](img/logo.png)
+![TW Logo](img/logo.png)
 
-The **Taiko Wars** (***oTW***) is an interactive strategy double-elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [rubies87](/users/4949934), ![][flag_CA] [FlamingRok](/users/2015353), and ![][flag_US] [incandescence](/users/6256027). It is the 1st installment of the Taiko Wars.
+The **Taiko Wars** (***TW***) was an interactive strategy double-elimination two-on-two osu!taiko tournament hosted by ![][flag_CA] [rubies87](/users/4949934), ![][flag_CA] [FlamingRok](/users/2015353), and ![][flag_US] [incandescence](/users/6256027). It was the 1st installment of the Taiko Wars.
 
 ## Tournament Schedule
 
@@ -22,11 +21,10 @@ The **Taiko Wars** (***oTW***) is an interactive strategy double-elimination two
 | Round 3 | 2018-11-12/2018-11-18 |
 | Round 4 | 2018-11-19/2018-11-25 |
 | Round 5 | 2018-11-26/2018-12-02 |
-| Round 6 | 2018-12-03/2018-12-09 |
-
-*Note: There is a possibility Round 7 to Round 11 will take place depends on the result from previous round.*
 
 ## Prizes
+
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Taiko Wars winners. It is possible that these items change with every installment of the Taiko Wars.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -36,11 +34,11 @@ The **Taiko Wars** (***oTW***) is an interactive strategy double-elimination two
 
 ## Organisation
 
-The Taiko Wars is run by various osu!taiko community members.
+The Taiko Wars was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Managements | ![][flag_CA] [rubies87](/users/4949934), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_US] [incandescence](/users/6256027) |
+| Management | ![][flag_CA] [rubies87](/users/4949934), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_US] [incandescence](/users/6256027) |
 | Map Selectors | ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_US] [incandescence](/users/6256027), ![][flag_US] [JDrago14](/users/7690078) |
 | Streamer | ![][flag_US] [ITotallyGetThat](/users/8770622) |
 | Commentators | ![][flag_CA] [janitoreihil](/users/3307897), ![][flag_CA] [FlamingRok](/users/2015353), ![][flag_US] [incandescence](/users/6256027), ![][flag_US] [Das](/users/3165416), ![][flag_AU] [Beat43210](/users/5664171), ![][flag_US] [CaptainEChan](/users/9536977), ![][flag_EC] [Gamelan4](/users/9856910), ![][flag_CA] [DuckyDoom](/users/3153062) |
@@ -73,6 +71,20 @@ The Taiko Wars is run by various osu!taiko community members.
 | **Team II Empire** | **![][flag_CA] [vladyushko](/users/4908773)**, ![][flag_US] [Garpo](/users/4097035), ![][flag_CA] [Player-](/users/3724819) |
 | **Ununited States of Namepiking Gamers** | **![][flag_US] [\_knots](/users/4407678)**, ![][flag_US] [jyake\_ou](/users/9099822), ![][flag_EC] [Gamelan4](/users/9856910) |
 | **Urugay** | **![][flag_US] [Das](/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](/users/2140739), ![][flag_US] [Backfire](/users/263110) |
+
+-----------------------
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Land of Foda-se 2: Electric Boogaloo |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | cu |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Iceland |
+
+-----------------------
 
 ## Mappools
 
@@ -200,6 +212,17 @@ The Taiko Wars is run by various osu!taiko community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round 5
+
+| Saturday, 2018-12-01 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cu** | **7** | 0 | Iceland | [#1](/community/matches/47786566) |
+
+| Sunday, 2018-12-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Land of Foda-se 2: Electric Boogaloo** | **7** | 1 | Iceland | [#1](/community/matches/47821563) |
+| Iceland | 0 | **7** | **Land of Foda-se 2: Electric Boogaloo** | [#1](/community/matches/47846905) |
 
 ### Round 4
 
