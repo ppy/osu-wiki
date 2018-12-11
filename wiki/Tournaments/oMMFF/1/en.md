@@ -94,7 +94,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 | Map Selectors (osu!) | ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Nozhomi](/users/2716981) |
 | Map Selectors (osu!taiko) | ![][flag_FR] [Nofool](/users/672430) |
 | Map Selectors (osu!catch) | ![][flag_FR] [Emiru](/users/3306180) |
-| Map Selectors (osu!mania) | ![][flag_FR] [Adri](/users/4579132) |
+| Map Selectors (osu!mania) | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [AntoAa](/users/3897919) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Commentators (osu!) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Battquif](/users/2389333), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [ThePooN](/users/718454), ![][flag_FR] [Zonthem](/users/7193908) |
 | Commentators (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TimmyAkmed](/users/1799973) |
