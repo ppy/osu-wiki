@@ -91,7 +91,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket_final.png)
+![Double Elimination bracket](img/bracket_refinal.png)
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 	- [Camellia - Towards The Horizon \(Pho\) \[White Extra\]](https://osu.ppy.sh/beatmapsets/636393#osu/1350353)
 	- [S.S.H. - Intersect Thunderbolt-Remix \(Snow Note\) \[Exceed\]](https://osu.ppy.sh/beatmapsets/38316#osu/122693)
 - TieBreaker
-	- **[Falcom Sound Team jdk - The Azure Arbitrator \(janitorlfj\) \[Chrono Collapse\]](https://osu.ppy.sh/beatmapsets/427166#osu/922172)**
+	- **[Falcom Sound Team jdk - The Azure Arbitrator \(jonathanlfj\) \[Chrono Collapse\]](https://osu.ppy.sh/beatmapsets/427166#osu/922172)**
 
 ### Finals
 
