@@ -1,8 +1,6 @@
 osu!mania
 ===========
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Terms

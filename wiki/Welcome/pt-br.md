@@ -11,7 +11,7 @@ Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido pelo peppy com quat
 - [Instalação](/wiki/Installation)
 - [Regras](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- Modalidades de Jogo
+- [Modalidades de Jogo](/wiki/Game_Modes)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)

@@ -6,7 +6,7 @@ date: 2018-03-22 12:00:00 +0000
 
 The February Spotlights are now available, sporting a bunch of incredible maps for every game mode, and a shiny new medal for the collectors among us!
 
-![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/spotlight-header.jpg)
+![](/wiki/shared/news/banners/spotlights-header.jpg)
 
 The beatmap charts for the February Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1803) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The February 2018 Spotlights rankings will end on 15th April 2018.**
 

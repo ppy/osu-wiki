@@ -1,8 +1,6 @@
 osu!catch
 ===========
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 The **osu!catch Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Glossary
@@ -105,7 +103,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Dashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed at 160 BPM and below, whereas 1/4 dashes would be allowed at 120 BPM and below.
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 - **Basic dashes can't be used more than two times between consecutive fruits. If higher snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
-- **Dashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
+- **Higher snapped dashes of different beat snap must not be used between consecutive fruits.**
 - **At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
@@ -113,6 +111,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
 - **Higher snapped dashes should not be followed by antiflow patterns.** If used, the movement after the dash must be walkable.
 - Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
+- Basic dashes of different beat snap should not be used between consecutive fruits.
 - Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
 - Approach Rate / Overall Difficulty should be between 6-7
 - HP drain should be between 4-5
@@ -149,11 +148,12 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes would be allowed at 120 BPM and below.
 - **Basic hyperdashes can't be used more than four times between consecutive fruits. If higher snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
-- **Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
+- **Higher snapped hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
 - **At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM. 
 
 #### Guidelines
 
+- Basic hyperdashes of different beat snap should not be used between consecutive fruits.
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
 - Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).

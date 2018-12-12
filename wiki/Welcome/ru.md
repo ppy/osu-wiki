@@ -11,7 +11,7 @@ outdated: true
 - [Регистрация](/wiki/Registration)
 - [Правила](/wiki/Rules)
 - [ЧАВО](/wiki/FAQ)
-- Режимы игры
+- [Режимы игры](/wiki/Game_Modes)
   - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)

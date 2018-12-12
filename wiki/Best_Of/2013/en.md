@@ -1,7 +1,5 @@
 # 2013
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 ## General
 
 - First time in the series expand to cover osu!taiko, osu!catch, and osu!mania (Top 10 only).

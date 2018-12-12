@@ -351,5 +351,3 @@ La **Sección Derecha** es **la configuración para el archivo de sonido selecci
 La codificación es `MM:SS:XXX` `{Sound_file}@{Volume}` donde MM:SS:XXX es Minutos:Segundos:Milisegundos respectivamente.
 
 **Ejemplo:** 1:57:745 kick.wav@100% significa 1 min 57 segundos 745avo millisegundo, reproduce el archivo "kick.wav" al 100% del volumen, independientemente de la condición.
-
-[Si esto no le hace cosquillas a tu fantasía, siempre puede optar por el estilo SBS.](/wiki/Storyboard_Scripting/Miscellaneous)

@@ -1,7 +1,5 @@
 # 2016
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 ## General
 
 - [News Results](https://osu.ppy.sh/news/157306073998)

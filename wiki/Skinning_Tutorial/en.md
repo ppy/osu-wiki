@@ -2,7 +2,7 @@
 
 *See also: [Skinning](/wiki/Skinning)*
 
-*For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ).*
+*For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ)*
 
 ## Getting Started
 

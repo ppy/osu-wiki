@@ -34,7 +34,7 @@
 
 **This page is based on the old version of osu!taiko game mode using ScoreV1 system.**
 
-**[Click to return to current osu!taiko game mode][osu!taiko main wikilink]**
+*For the current osu!taiko game mode, see: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![Gameplay of osu!taiko][osu!taiko Interface image]
 

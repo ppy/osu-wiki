@@ -40,8 +40,8 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
+| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
+| [Catch the Beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_SE] Sweden |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_DE] Germany |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
@@ -95,7 +95,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
-| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
@@ -114,7 +114,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
 ### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
 
@@ -171,7 +171,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](/users/1646397) | ![][flag_CN] [Toki 0w0](/users/10392201) | ![][flag_CN] [Skyshifter](/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](/users/1646397) | ![][flag_CN] [Toki 0w0](/users/10392201) | ![][flag_CN] [Skyshifter](/users/10572577) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

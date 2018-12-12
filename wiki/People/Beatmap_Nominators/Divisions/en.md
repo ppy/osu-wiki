@@ -1,7 +1,5 @@
 # Divisions
 
-*Main page: [Beatmap Nominators](/wiki/People/Beatmap_Nominators).*
-
 Subdivisions are small working groups within the Beatmap Nominators to ensure better teamwork and efficiency.
 
 Leaders are **bolded**.

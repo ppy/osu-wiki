@@ -1,7 +1,5 @@
 # Gallery
 
-*Main page: [Mascots](/wiki/Mascots).*
-
 ## Official
 
 ### pippi
