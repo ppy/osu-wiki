@@ -33,6 +33,7 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 Other situations do not require a 24 hour wait. This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
 + **Do not qualify over any manually popped bubble set by another Beatmap Nominator.** Manually popping bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
 + **Make sure no mod posts in the map thread have been ignored before qualifying or bubbling a map.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the mapthread and act accordingly.
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions**There should never be any question as to the legitimacy or motives of members of any “official” osu! team (BN, QAT or otherwise) involved in the ranking process.
 
 
 ### Conduct
@@ -69,3 +70,6 @@ _Change date: 2. March 2018, **in effect immediately**_
 + **You must not renominate a map in which your nomination was vetoed, unless the respective vetoing nominator agrees to that action or the veto was dismissed through QAT mediation.** Beatmap Nominators may no longer overrule a beatmap veto, and must instead re-initiate mediation with the beatmap veto passing a dismissal before both they and the initial Beatmap Nominator can nominate (should they wish to do so).
 
 _Change date: 12. April 2018, **in effect immediately**_
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions**There should never be any question as to the legitimacy or motives of members of any “official” osu! team (BN, QAT or otherwise) involved in the ranking process.
+
+_Change date: 12. Dec 2018, **in effect immediately**_
