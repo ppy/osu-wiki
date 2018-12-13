@@ -87,7 +87,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 ## Match Schedules: Semifinals
 
-### Saturday, 8 December 2018
+### Saturday, 15 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -96,7 +96,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 | #3 | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_FI] | Camopoltergeist | **12:00 UTC** |
 | #4 | MyZterioN- | ![][flag_TH] | ![][flag_MY] | \[MY\]Kibitz | **08:00 UTC** |
 
-### Sunday, 9 December 2018
+### Sunday, 16 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
