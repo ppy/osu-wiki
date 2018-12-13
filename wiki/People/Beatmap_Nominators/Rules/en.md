@@ -70,6 +70,6 @@ _Change date: 2. March 2018, **in effect immediately**_
 + **You must not renominate a map in which your nomination was vetoed, unless the respective vetoing nominator agrees to that action or the veto was dismissed through QAT mediation.** Beatmap Nominators may no longer overrule a beatmap veto, and must instead re-initiate mediation with the beatmap veto passing a dismissal before both they and the initial Beatmap Nominator can nominate (should they wish to do so).
 
 _Change date: 12. April 2018, **in effect immediately**_
-+ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any “official” osu! team (BN, QAT or otherwise) involved in the ranking process.
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, QAT or otherwise) involved in the ranking process.
 
 _Change date: 12. Dec 2018, **in effect immediately**_
