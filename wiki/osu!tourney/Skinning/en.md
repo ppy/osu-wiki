@@ -1,7 +1,5 @@
 # Skinning
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 ![The client can be customized in various ways](Osutourneycustom.png)
 
 The client supports various modifications so you can customize it for the tournament. To do so, you will need to create the folder structure `/Skins/User/tournament` in the client's installation directory. The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.

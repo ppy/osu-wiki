@@ -1,7 +1,5 @@
 # Beatmap Veto
 
-*Main page: [Beatmap Nominators](/wiki/People/Beatmap_Nominators).*
-
 The _beatmap veto_ allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section.
 
 Seeking further discussion or clarification over any kind of quality issues which you feel need to be addressed before the map can proceed with Qualification is one of your main responsibilities. 

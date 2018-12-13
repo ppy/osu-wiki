@@ -3,9 +3,7 @@
 
 # osu!catch
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial).*
+*See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)*
 
 ## Catcher
 

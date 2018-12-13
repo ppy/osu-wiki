@@ -3,9 +3,7 @@
 
 # osu!taiko
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial).*
+*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial)*
 
 You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
