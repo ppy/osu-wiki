@@ -33,7 +33,7 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 Other situations do not require a 24 hour wait. This gives other Beatmap Nominators and also the wider community the chance to provide additional suggestions before qualification and veto the placed nomination if necessary.
 + **Do not qualify over any manually popped bubble set by another Beatmap Nominator.** Manually popping bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
 + **Make sure no mod posts in the map thread have been ignored before qualifying or bubbling a map.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the mapthread and act accordingly.
-+ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any “official” osu! team (BN, QAT or otherwise) involved in the ranking process.
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, QAT or otherwise) involved in the ranking process.
 
 
 ### Conduct
