@@ -134,6 +134,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [Taiko Wars](/wiki/Tournaments/TW/1) | 2018-10-29 | 2018-12-02 | Land of Foda-se 2: Electric Boogaloo | cu | Iceland |
 
+### ![](/wiki/shared/mode/taiko.png) European Taiko Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](/users/8057655) | ![][flag_IT] [Ikkun](/users/1059945) | ![][flag_ES] [AlvaroYL](/users/6333166) |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
