@@ -25,7 +25,7 @@ Link to [user group page](https://osu.ppy.sh/groups/7)
 | [Fycho](https://osu.ppy.sh/users/1876867)             | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Chinese                 |
 | [Gabe](https://osu.ppy.sh/users/654108)               | ![Yes][true] | ![Yes][true] | ![No][false] | ![No][false] | French                  |
 | [Gottagof4st](https://osu.ppy.sh/users/6122935)       | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Dutch                   |
-| [Hobbes2](https://osu.ppy.sh/users/8157492            | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
+| [Hobbes2](https://osu.ppy.sh/users/8157492)           | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [JBHyperion](https://osu.ppy.sh/users/4879508)        | ![No][false] | ![No][false] | ![Yes][true] | ![No][false] |                         |
 | [Kibbleru](https://osu.ppy.sh/users/3193504)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                         |
 | [Kuron-kun](https://osu.ppy.sh/users/2697284)         | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] | Portuguese              |
