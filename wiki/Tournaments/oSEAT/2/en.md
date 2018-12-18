@@ -37,7 +37,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | *4th place* | 1 month of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
-*Note: 5th place will be determined by playoff.*
+*Note: 5th place will be determined by a playoff.*
 
 ## Organisation
 
@@ -68,10 +68,10 @@ The osu! South East Tournament 2 is run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_ID] [LoidKun](/users/6437601), ![][flag_MY] [wuhua](/users/2932510), ![][flag_SG] [GSBlank](/users/2312106), ![][flag_CA] [dunois](/users/4581715), ![][flag_SG] [M4-K1](/users/5210595), ![][flag_MY] [ShaneLiang](/users/6716499), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_SG] [Raindrop](/users/1155871), ![][flag_PH] [MioMilo](/users/2199427), ![][flag_TH] [san-lotso](/users/5296112), ![][flag_SG] [k\_1tty](/users/5407620), ![][flag_TH] [- Phantasma -](/users/1427407), ![][flag_MY] [Tzero](/users/6088976), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_MY] [TequilaWolf](/users/3633477) |
+| Top | ![][flag_ID] [LoidKun](/users/6437601), ![][flag_MY] [wuhua](/users/2932510), ![][flag_SG] [GSBlank](/users/2312106), ![][flag_CA] [dunois](/users/4581715), ![][flag_SG] [M4-K1](/users/5210595), ![][flag_MY] [ShaneLiang](/users/6716499), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_SG] [Raindrop](/users/1155871), ![][flag_ID] [tjangjoet](/users/9293331), ![][flag_PH] [MioMilo](/users/2199427), ![][flag_TH] [san-lotso](/users/5296112), ![][flag_SG] [k\_1tty](/users/5407620), ![][flag_TH] [- Phantasma -](/users/1427407), ![][flag_MY] [Tzero](/users/6088976), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_MY] [TequilaWolf](/users/3633477) |
 | High | ![][flag_SG] [Demonical](/users/5447609), ![][flag_SG] [SeeL](/users/5104320), ![][flag_VN] [Tuon](/users/6673790), ![][flag_SG] [woahsia](/users/195946), ![][flag_ID] [Rexeez](/users/1987591), ![][flag_MY] [haruchi](/users/4845266), ![][flag_TH] [UltimaticCatz](/users/6068543), ![][flag_SG] [moosepi](/users/1868745), ![][flag_MY] [yumesaki-hikari](/users/3871121), ![][flag_ID] [dika312](/users/741613), ![][flag_ID] [Somay 287](/users/4314559), ![][flag_VN] [Shironi](/users/8660120), ![][flag_PH] [zonelouise](/users/1492995), ![][flag_ID] [-Reuto-](/users/10717635), ![][flag_SG] [feces](/users/9347706), ![][flag_VN] [LMT](/users/7262798), ![][flag_MY] [Yuu-Chi](/users/404448) |
 | Middle | ![][flag_SG] [Rtzero](/users/9262462), ![][flag_SG] [Lunarsol](/users/6622650), ![][flag_PH] [fixedbyglue](/users/8296269), ![][flag_ID] [121Brian121](/users/6192975), ![][flag_ID] [Rayhan Hamil](/users/4085825), ![][flag_TH] [Applause](/users/1832711), ![][flag_ID] [\[-Kazumine-\]](/users/6372345), ![][flag_TH] [Dcyte](/users/2659707), ![][flag_ID] [Crezz](/users/7108275), ![][flag_ID] [Kurosaki](/users/5937545), ![][flag_MY] [Agagak](/users/3645490), ![][flag_ID] [hyoketsujuukyu](/users/7082407), ![][flag_SG] [youi](/users/7537133), ![][flag_ID] [Felter](/users/5865319), ![][flag_TH] [Vignette-](/users/4506883), ![][flag_MY] [Zygody](/users/3677251) |
-| Low | ![][flag_ID] [ElNabhan](/users/6075822), ![][flag_TH] [IamIkaros](/users/9332745), ![][flag_MY] [Computer Badger](/users/6893361), ![][flag_TH] [Seaweed](/users/5151214), ![][flag_ID] [Evanescent-](/users/4259366), ![][flag_MY] [alphaplay](/users/9304966), ![][flag_MY] [squidstain](/users/11073207), ![][flag_MY] [Desumond](/users/7399262), ![][flag_ID] [CRITICALfingers](/users/8974560), ![][flag_ID] [farel12345](/users/3670870), ![][flag_PH] [Xidorn](/users/7904667), ![][flag_VN] [Hoaq](/users/7696512), ![][flag_MY] [\[Winter\]](/users/7373182), ![][flag_ID] [Shiv](/users/5718575), ![][flag_VN] [UnitedNovel](/users/7439043), ![][flag_VN] [Portador0409](/users/9334448), ![][flag_SG] [Loslite](/users/6398160) |
+| Low | ![][flag_ID] [ELNabhan](/users/6075822), ![][flag_TH] [IamIkaros](/users/9332745), ![][flag_MY] [Computer Badger](/users/6893361), ![][flag_TH] [Seaweed](/users/5151214), ![][flag_ID] [Evanescent-](/users/4259366), ![][flag_MY] [alphaplay](/users/9304966), ![][flag_MY] [squidstain](/users/11073207), ![][flag_MY] [Desumond](/users/7399262), ![][flag_ID] [CRITICALfingers](/users/8974560), ![][flag_ID] [farel12345](/users/3670870), ![][flag_PH] [Xidorn](/users/7904667), ![][flag_VN] [Hoaq](/users/7696512), ![][flag_MY] [\[Winter\]](/users/7373182), ![][flag_ID] [Shiv](/users/5718575), ![][flag_VN] [UnitedNovel](/users/7439043), ![][flag_VN] [Portador0409](/users/9334448), ![][flag_SG] [Loslite](/users/6398160) |
 | Bottom | ![][flag_ID] [-Dokko Imaguri-](/users/12074988), ![][flag_SG] [Snipey](/users/9322030), ![][flag_PH] [Texo](/users/9229502), ![][flag_SG] [CryingWaff](/users/9768060), ![][flag_SG] [finneyneo](/users/291512), ![][flag_ID] [DifSec-](/users/9768112), ![][flag_ID] [phizh](/users/4569302), ![][flag_SG] [babypliggy](/users/4475099), ![][flag_ID] [GtaDestroyer](/users/3773461), ![][flag_ID] [praguzz](/users/5014039), ![][flag_MY] [Civie](/users/6408049), ![][flag_VN] [Mayukaki](/users/1487263), ![][flag_ID] [Galaxi](/users/2552435), ![][flag_TH] [Yukkuri](/users/7332068), ![][flag_TH] [Koiyo](/users/11373528), ![][flag_BN] [Fused1376](/users/9501318), ![][flag_VN] [kaphat123](/users/10004804) |
 
 ## Groups
@@ -82,9 +82,9 @@ The osu! South East Tournament 2 is run by various community members.
 | **B** | ![][flag_TH] [san-lotso](/users/5296112) | ![][flag_SG] [moosepi](/users/1868745) | ![][flag_ID] [Kurosaki](/users/5937545) | ![][flag_PH] [Xidorn](/users/7904667) | ![][flag_ID] [phizh](/users/4569302) |
 | **C** | ![][flag_SG] [k\_1tty](/users/5407620) | ![][flag_ID] [dika312](/users/741613) | ![][flag_MY] [Agagak](/users/3645490) | ![][flag_MY] [squidstain](/users/11073207) | ![][flag_MY] [Civie](/users/6408049) |
 | **D** | ![][flag_MY] [ShaneLiang](/users/6716499) | ![][flag_SG] [SeeL](/users/5104320) | ![][flag_ID] [Felter](/users/5865319) | ![][flag_VN] [Hoaq](/users/7696512) | ![][flag_ID] [GtaDestroyer](/users/3773461) |
-| **E** | ![][flag_SG] [Raindrop](1155871) | ![][flag_SG] [Demonical](/users/5447609) | ![][flag_SG] [Rtzero](/users/9262462) | ![][flag_ID] [farel12345](/users/3670870) | ![][flag_TH] [Koiyo](/users/11373528) |
-| **F** | ![][flag_ID] tjangjoet | ![][flag_VN] [LMT](/users/7262798) | ![][flag_ID] [Crezz](/users/7108275) | ![][flag_SG] [Loslite](/users/6398160) | ![][flag_SG] [Snipey](/users/9322030) |
-| **G** | ![][flag_MY] [Tzero](/users/6088976) | ![][flag_ID] [-Reuto-](/users/10717635) | ![][flag_TH] [Applause](/users/1832711) | ![][flag_ID] [ElNabhan](/users/6075822) | ![][flag_VN] [Mayukaki](/users/1487263) |
+| **E** | ![][flag_SG] [Raindrop](/users/1155871) | ![][flag_SG] [Demonical](/users/5447609) | ![][flag_SG] [Rtzero](/users/9262462) | ![][flag_ID] [farel12345](/users/3670870) | ![][flag_TH] [Koiyo](/users/11373528) |
+| **F** | ![][flag_ID] [tjangjoet](/users/9293331) | ![][flag_VN] [LMT](/users/7262798) | ![][flag_ID] [Crezz](/users/7108275) | ![][flag_SG] [Loslite](/users/6398160) | ![][flag_SG] [Snipey](/users/9322030) |
+| **G** | ![][flag_MY] [Tzero](/users/6088976) | ![][flag_ID] [-Reuto-](/users/10717635) | ![][flag_TH] [Applause](/users/1832711) | ![][flag_ID] [ELNabhan](/users/6075822) | ![][flag_VN] [Mayukaki](/users/1487263) |
 | **H** | ![][flag_SG] [GSBlank](/users/2312106) | ![][flag_VN] [Tuon](/users/6673790) | ![][flag_SG] [youi](/users/7537133) | ![][flag_VN] [Portador0409](/users/9334448) | ![][flag_ID] [DifSec-](/users/9768112) |
 | **I** | ![][flag_SG] [M4-K1](/users/5210595) | ![][flag_MY] [Yuu-Chi](/users/404448) | ![][flag_ID] [121Brian121](/users/6192975) | ![][flag_VN] [UnitedNovel](/users/7439043) | ![][flag_ID] [-Dokko Imaguri-](/users/12074988) |
 | **J** | ![][flag_MY] [Jeffrey](/users/4777134) | ![][flag_TH] [UltimaticCatz](/users/6068543) | ![][flag_TH] [Vignette-](/users/4506883) | ![][flag_MY] [Computer Badger](/users/6893361) | ![][flag_PH] [Texo](/users/9229502) |
@@ -95,7 +95,109 @@ The osu! South East Tournament 2 is run by various community members.
 | **O** | ![][flag_PH] [MioMilo](/users/2199427) | ![][flag_ID] [Somay 287](/users/4314559) | ![][flag_MY] [Zygody](/users/3677251) | ![][flag_TH] [Seaweed](/users/5151214) | ![][flag_SG] [CryingWaff](/users/9768060) |
 | **P** | ![][flag_MY] [wuhua](/users/2932510) | ![][flag_SG] [feces](/users/9347706) | ![][flag_TH] [Dcyte](/users/2659707) | ![][flag_MY] [alphaplay](/users/9304966) | ![][flag_ID] [praguzz](/users/5014039)
 
+-----------------------
+
+## Match Schedules: Round of 32
+
+### Wednesday, 19 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| AC | Raindrop | ![][flag_SG] | ![][flag_SG] | Loslite | **20:00 UTC+8** |
+| AA | yumesaki-hikari | ![][flag_MY] | ![][flag_TH] | san-lotso | **23:59 UTC+8** |
+
+### Tuesday, 20 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| BJ | Agagak | ![][flag_MY] | ![][flag_ID] | GtaDestroyer | **20:00 UTC+8** |
+| AL | GSBlank | ![][flag_SG] | ![][flag_TH] | Applause | **22:00 UTC+8** |
+| AP | wuhua | ![][flag_MY] | ![][flag_MY] | Zygody | **23:59 UTC+8** |
+
+### Friday, 21 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| AM | Jeffrey | ![][flag_MY] | ![][flag_VN] | UnitedNovel | **11:00 UTC+8** |
+| AN | Skydiver | ![][flag_ID] | ![][flag_SG] | woahsia | **18:00 UTC+8** |
+| BE | Computer Badger | ![][flag_MY] | ![][flag_MY] | Yuu-Chii | **20:00 UTC+8** |
+| AH | MioMilo | ![][flag_PH] | ![][flag_TH] | Dcyte | **21:00 UTC+8** |
+| BN | fixedbyglue | ![][flag_PH] | ![][flag_ID] | hyoketsujuukyuu | **22:00 UTC+8** |
+| BG | Galaxi | ![][flag_ID] | ![][flag_MY] | Desumond | **23:00 UTC+8** |
+| BP | Somay 287 | ![][flag_ID] | ![][flag_SG] | feces | **23:59 UTC+8** |
+
+### Saturday, 22 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| AI | moosepi | ![][flag_SG] | ![][flag_SG] | Lunarsol | **11:00 UTC+8** |  |
+| BA | Xidorn | ![][flag_PH] |  |  | **15:00 UTC+8** | ¹ |
+| AG | dunois | ![][flag_CA] | ![][flag_VN] | Shironi | **17:00 UTC+8** |  |
+| BL | -Reuto- | ![][flag_ID] | ![][flag_VN] | Portador0409 | **18:00 UTC+8** |  |
+| BC | LMT | ![][flag_VN] | ![][flag_TH] | Koiyo | **20:00 UTC+8** |  |
+| AF | - Phantasma - | ![][flag_TH] | ![][flag_ID] |  Rexeez | **21:00 UTC+8** |  |
+| BD | Tuon | ![][flag_VN] | ![][flag_VN] | Mayukaki | **21:00 UTC+8** |  |
+| BF | \[Winter\] | ![][flag_MY] | ![][flag_ID] |  Evanescent- | **23:59 UTC+8** |  |
+| AE | M4-K1 | ![][flag_SG] | ![][flag_TH] |  UltimaticCatz | **23:59 UTC+8** |  |
+
+### Sunday, 23 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| BK | Demonical | ![][flag_SG] | ![][flag_SG] | Snipey | **14:00 UTC+8** |
+| AJ | SeeL | ![][flag_SG] | ![][flag_ID] | dika312 | **15:00 UTC+8** |
+| AK | Crezz | ![][flag_ID] | ![][flag_SG] | Rtzero | **17:00 UTC+8** |
+| BM | 121Brian121 | ![][flag_ID] | ![][flag_TH] | Vignette- | **18:00 UTC+8** |
+| AB | k\_1tty | ![][flag_SG] | ![][flag_MY] | ShaneLiang | **20:00 UTC+8** |
+| BB | Felter | ![][flag_ID] | ![][flag_MY] | squidstain | **21:00 UTC+8** |
+| BI | Yukkuri | ![][flag_TH] | ![][flag_ID] | phizh | **21:00 UTC+8** |
+| BO | Rayhan Hamil | ![][flag_ID] | ![][flag_ID] | \[-Kazumine-\] | **23:00 UTC+8** |
+| BH | praguzz | ![][flag_ID] | ![][flag_SG] | CryingWaff | **23:59 UTC+8** |
+
+### Monday, 24 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| AD | Tzero | ![][flag_MY] | ![][flag_SG] | youi | **22:00 UTC+8** |
+
+### Tuesday, 25 December 2018
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| AO | TequilaWolf | ![][flag_MY] | ![][flag_MY] | haruchi | **21:00 UTC+8** |
+
+¹ Encounter dependent on winner of Match "the playoff"
+
+-----------------------
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1VVrnZDno9VWKp4Sa20fyl4K8D0U8e3gW/view?usp=sharing)**
+
+- NoMod
+  - [Hatsuki Yura - Diabolikha (Aeril) \[Aeril's Insane\]](/beatmapsets/731724#osu/1573533)
+  - [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Logic Agent) \[Tangled Fate\]](/beatmapsets/545119#osu/1154987)
+  - [Yooh - snow storm -euphoria- (-Chata-) \[INFINITE\]](/beatmapsets/156235#osu/574187)
+  - [earthmind - Kaleidoscope (cRyo\[iceeicee\]) \[Insane\]](/beatmapsets/63725#osu/188061)
+  - [Feryquitous - Lividi (Dynamix) \[Dynamix's EXPERT\]](/beatmapsets/599735#osu/1678113)
+- Hidden
+  - [Myrath - Endure The Silence (LMT) \[Another)\]](/beatmapsets/555454#osu/1213261)
+  - [Franchouchou - Adabana Necromancy (Starfy) \[Extra\]](/beatmapsets/879615#osu/1853756)
+  - [Tamura Yukari - MERRY MERRY MERRY MENU...Ne! (Asphyxia) \[Extra\]](/beatmapsets/191524#osu/509913)
+- HardRock
+  - [Kotera Kanako - Ashita e no Kodou (Spring Roll) \[Insane\]](/beatmapsets/223000#osu/521110)
+  - [Sakuzyo - FAFNIR (KKipalt) \[KKip's Insane\]](/beatmapsets/777255#osu/1637690)
+  - [Camellia - Fastest Crash (toybot, Mikii) \[Collab Insane\]](/beatmapsets/331025#osu/742728)
+- DoubleTime
+  - [T-ara - Why Are You Being Like This (kazumikos) \[Hard\]](/beatmapsets/118661#osu/304972)
+  - [ZUN - The Youkai Mountain \~ Mysterious Mountain (BCI, Leyko) \[Collab\]](/beatmapsets/76048#osu/214547)
+  - [smileY inc. - Hanayuki (CelsiusLK) \[Insane\]](/beatmapsets/400239#osu/877515)
+- FreeMod
+  - [Suzaku - Anisakis -somatic mutation type''Forza''- (ouranhshc) \[Ultra\]](/beatmapsets/60521#osu/199593)
+  - [Camellia - K.Y.A.F.A. (SnowNiNo\_) \[NiNo's Insane\]](/beatmapsets/414034#osu/1171254)
+  - [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](/beatmapsets/16371#osu/58701)
 
 ### Group Stage
 
@@ -119,6 +221,204 @@ The osu! South East Tournament 2 is run by various community members.
 - FreeMod
   - [Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los! (Sotarks, Linada) \[Sotarks' Insane ft. Linada\]](/beatmapsets/577598#osu/1256899)
   - [Morimori Atsushi - MilK (Xenon) \[Xenon's Insane\]](/beatmapsets/848309#osu/1777490)
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Friday, 2018-12-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Tuon** ![][flag_VN] | **5** | 1 | ![][flag_ID] DifSec- | [#1](/community/matches/47934326) |
+| **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_ID] ELNabhan | [#1](/community/matches/47935317) |
+| **Computer Badger** ![][flag_MY] | **5** | 2 | ![][flag_PH] Texo | [#1](/community/matches/47935219) |
+| **Skydiver** ![][flag_ID] | **5** | 3 | ![][flag_ID] Rexeez | [#1](/community/matches/47935222) |
+| **SeeL** ![][flag_SG] | **5** | 0 | ![][flag_ID] GtaDestroyer | [#1](/community/matches/47936208) |
+| **Skydiver** ![][flag_ID] | **5** | 0 | ![][flag_MY] \[Winter\] | [#1](/community/matches/47936329) |
+| **UltimaticCatz** ![][flag_TH] | **5** | 1 | ![][flag_MY] Computer Badger | [#1](/community/matches/47937705) |
+| **haruchi** ![][flag_MY] | **5** | 1 | ![][flag_SG] finneyneo | [#1](/community/matches/47937597) |
+| **fixedbyglue** ![][flag_PH] | **5** | 0 | ![][flag_SG] babypliggy | [#1](/community/matches/47939178) |
+
+| Saturday, 2018-12-08 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **dunois** ![][flag_CA] | **5** | 0 | ![][flag_MY] haruchi | [#1](/community/matches/47951939) |
+| **hyoketsujuukyu** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](/community/matches/47953689) |
+| LoidKun ![][flag_ID] | 0 | **5** | ![][flag_TH] **Yukkuri** | -win by default- |
+| **Crezz** ![][flag_ID] | **5** | 2 | ![][flag_SG] Snipey | [#1](/community/matches/47953689) |
+| **ShaneLiang** ![][flag_MY] | **5** | 0 | ![][flag_ID] Felter | [#1](/community/matches/47956225) |
+| **Lunarsol** ![][flag_SG] | **5** | 0 | ![][flag_TH] Yukkuri | [#1](/community/matches/47956565) |
+| tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_SG] **Snipey** | -win by default- |
+| **121Brian121** ![][flag_ID] | **5** | 3 | ![][flag_ID] -Dokko Imaguri- | [#1](/community/matches/47957225) |
+| **UltimaticCatz** ![][flag_TH] | **5** | 1 | ![][flag_PH] Texo | [#1](/community/matches/47957923) |
+| **Jeffrey** ![][flag_MY] | **5** | 1 | ![][flag_MY] Computer Badger | [#1](/community/matches/47958871) |
+| **TequilaWolf** ![][flag_MY] | **5** | 0 | ![][flag_ID] Galaxi | [#1](/community/matches/47958835) |
+| **Skydiver** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](/community/matches/47959356) |
+| **k\_1tty** ![][flag_SG] | **5** | 0 | ![][flag_MY] Civie | [#1](/community/matches/47959930) |
+| **Demonical** ![][flag_SG] | **5** | 0 | ![][flag_TH] Koiyo | [#1](/community/matches/47959826) |
+| **M4-K1** ![][flag_SG] | **5** | 0 | ![][flag_ID] 121Brian121 | -win by default- |
+| **TequilaWolf** ![][flag_MY] | **5** | 3 | ![][flag_VN] Shironi | [#1](/community/matches/47959900) |
+| **san-lotso** ![][flag_TH] | **5** | 1 | ![][flag_ID] Kurosaki | [#1](/community/matches/47960989) |
+| **Demonical** ![][flag_SG] | **5** | 0 | ![][flag_ID] farel12345 | [#1](/community/matches/47961004) |
+| **LMT** ![][flag_VN] | **5** | 2 | ![][flag_SG] Snipey | [#1](/community/matches/47961005) |
+| **Tuon** ![][flag_VN] | **5** | 0 | ![][flag_VN] Portador0409 | [#1](/community/matches/47960996) |
+| **Skydiver** ![][flag_ID] | **5** | 0 | ![][flag_ID] hyoketsujuukyu | [#1](/community/matches/47961032) |
+| **Shironi** ![][flag_VN] | **5** | 0 | ![][flag_TH] IamIkaros | [#1](/community/matches/47961047) |
+| feces ![][flag_SG] | 4 | **5** | ![][flag_TH] **Dcyte** | [#1](/community/matches/47961018) |
+| **san-lotso** ![][flag_TH] | **5** | 0 | ![][flag_PH] Xidorn | [#1](/community/matches/47962411) |
+| **squidstain** ![][flag_MY] | **5** | 1 | ![][flag_MY] Civie | [#1](/community/matches/47962465) |
+| **Rtzero** ![][flag_SG] | **5** | 0 | ![][flag_ID] farel12345 | [#1](/community/matches/47962426) |
+| LMT ![][flag_VN] | 3 | **5** | ![][flag_ID] **Crezz** | [#1](/community/matches/47962554) |
+| **GSBlank** ![][flag_SG] | **5** | 3 | ![][flag_VN] Tuon | [#1](/community/matches/47962435) |
+| **- Phantasma -** ![][flag_TH] | **5** | 0 | ![][flag_ID] Evanescent- | [#1](/community/matches/47962415) |
+| **MioMilo** ![][flag_PH] | **5** | 0 | ![][flag_TH] Seaweed | -win by default- |
+| san-lotso ![][flag_TH] | 0 | **5** | ![][flag_SG] **moosepi** | [#1](/community/matches/47963894) |
+| **Crezz** ![][flag_ID] | **5** | 2 | ![][flag_SG] Loslite | [#1](/community/matches/47965226) |
+| **Shironi** ![][flag_VN] | **5** | 0 | ![][flag_ID] \[-Kazumine-\] | [#1](/community/matches/47964021) |
+| **Somay 287** ![][flag_ID] | **5** | 0 | ![][flag_TH] Seaweed | -win by default- |
+| **Shironi** ![][flag_VN] | **5** | 0 | ![][flag_ID] Galaxi | [#1](/community/matches/47965381) |
+| **- Phantasma -** ![][flag_TH] | **5** | 0 | ![][flag_SG] babypliggy | [#1](/community/matches/47965508) |
+| **woahsia** ![][flag_SG] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](/community/matches/47965625) |
+
+| Sunday, 2018-12-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] phizh | [#1](/community/matches/47967054) |
+| **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_ID] hyoketsujuukyu | [#1](/community/matches/47981276) |
+| **LoidKun** ![][flag_ID] | **5** | 0 | ![][flag_VN] kaphat123 | -win by default- |
+| **Raindrop** ![][flag_SG] | **5** | 2 | ![][flag_ID] Demonical | [#1](/community/matches/47982937) |
+| **\[Winter\]** ![][flag_MY] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](/community/matches/47982967) |
+| **Raindrop** ![][flag_SG] | **5** | 0 | ![][flag_TH] Koiyo | [#1](/community/matches/47983627) |
+| **Felter** ![][flag_ID] | **5** | 1 | ![][flag_VN] Hoaq | [#1](/community/matches/47984270) |
+| **Rtzero** ![][flag_SG] | **5** | 3 | ![][flag_TH] Koiyo | [#1](/community/matches/47984305) |
+| **Agagak** ![][flag_MY] | **5** | 2 | ![][flag_MY] squidstain | [#1](/community/matches/47985011) |
+| **Raindrop** ![][flag_SG] | **5** | 1 | ![][flag_SG] Rtzero | [#1](/community/matches/47984952) |
+| farel12345 ![][flag_ID] | 0 | **5** | ![][flag_TH] **Koiyo** | -win by default- |
+| **san-lotso** ![][flag_TH] | **5** | 0 | ![][flag_ID] phizh | [#1](/community/matches/47985745) |
+| Vignette- ![][flag_TH] | 3 | **5** | ![][flag_MY] **Computer Badger** | [#1](/community/matches/47986632) |
+| kaphat123 ![][flag_VN] | 4 | **5** | ![][flag_TH] **Yukkuri** | [#1](/community/matches/47987636) |
+| **M4-K1** ![][flag_SG] | **5** | 0 | ![][flag_VN] UnitedNovel | [#1](/community/matches/47987620) |
+| **feces** ![][flag_SG] | **5** | 1 | ![][flag_MY] alphaplay | [#1](/community/matches/47987514) |
+| **Rayhan Hamil** ![][flag_ID] | **5** | 2 | ![][flag_SG] finneyneo | [#1](/community/matches/47987776) |
+| **yumesaki-hikari** ![][flag_MY] | **5** | 0 | ![][flag_TH] Yukkuri | [#1](/community/matches/47988700) |
+| **k\_1tty** ![][flag_SG] | **5** | 0 | ![][flag_MY] squidstain | [#1](/community/matches/47988697) |
+| **dika312** ![][flag_ID] | **5** | 0 | ![][flag_MY] Civie | -win by default- |
+| **SeeL** ![][flag_SG] | **5** | 0 | ![][flag_VN] Hoaq | -win by default- |
+| **GSBlank** ![][flag_SG] | **5** | 0 | ![][flag_ID] DifSec- | [#1](/community/matches/47988682) |
+| **Dcyte** ![][flag_TH] | **5** | 3 | ![][flag_MY] alphaplay | [#1](/community/matches/47989474) |
+| **yumesaki-hikari** ![][flag_MY] | **5** | 1 | ![][flag_VN] kaphat123 | [#1](/community/matches/47990053) |
+| **ShaneLiang** ![][flag_MY] | **5** | 0 | ![][flag_MY] Hoaq | -win by default- |
+| Demonical ![][flag_ID] | 3 | **5** | ![][flag_SG] **Rtzero** | [#1](/community/matches/47989974) |
+| **Applause** ![][flag_TH] | **5** | 0 | ![][flag_ID] ELNabhan | -win by default- |
+| **- Phantasma -** ![][flag_TH] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](/community/matches/47990017) |
+| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_ID] Evanescent- | -win bydefault- |
+| **dika312** ![][flag_ID] | **5** | 0 | ![][flag_MY] squidstain | [#1](/community/matches/47991316) |
+| tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_SG] **Loslite** | -win by default- |
+| **GSBlank** ![][flag_SG] | **5** | 1 | ![][flag_VN] Portador0409 | [#1](/community/matches/47991196) |
+| Tuon ![][flag_VN] | 2 | **5** | ![][flag_SG] **youi** | [#1](/community/matches/47991203) |
+| dunois ![][flag_CA] | 0 | **5** | ![][flag_SG] **finneyneo** | -win by default- |
+| **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_MY] alphaplay | [#1](/community/matches/47992597) |
+
+| Monday, 2018-12-10 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **dika312** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](/community/matches/48007098) |
+| **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_VN] Mayukaki | [#1](/community/matches/48010210) |
+
+| Tuesday, 2018-12-11 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Applause** ![][flag_TH] | **5** | 3 | ![][flag_VN] Mayukaki | [#1](/community/matches/48028246), [#2](/community/matches/48028805) |
+
+| Thursday, 2018-12-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **haruchi** ![][flag_MY] | **5** | 3 | ![][flag_ID] Rayhan Hamil | [#1](/community/matches/48063619) |
+
+| Friday, 2018-12-14 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Jeffrey** ![][flag_MY] | **5** | 0 | ![][flag_TH] Ultimatic Catz | [#1](/community/matches/48082361) |
+| **MioMilo** ![][flag_PH] | **5** | 4 | ![][flag_MY] Zygody | [#1](/community/matches/48082525) |
+| **Kurosaki** ![][flag_ID] | **5** | 3 | ![][flag_PH] Xidorn | [#1](/community/matches/48082917) |
+| **Felter** ![][flag_ID] | **5** | 1 | ![][flag_ID] GtaDestroyer | [#1](/community/matches/48083334) |
+| **-Reuto-** ![][flag_ID] | **5** | 0 | ![][flag_ID] ELNabhan | -win by default- |
+| Somay 287 ![][flag_ID] | 2 | **5** | ![][flag_MY] **Zygody** | [#1](/community/matches/48083427) |
+| **Xidorn** ![][flag_PH] | **5** | 1 | ![][flag_ID] phizh | [#1](/community/matches/48084457) |
+| **k\_1tty** ![][flag_SG] | **5** | 2 | ![][flag_ID] dika312 | [#1](/community/matches/48084524) |
+| **-Reuto-** ![][flag_ID] | **5** | 1 | ![][flag_VN] Mayukaki | [#1](/community/matches/48084526) |
+| **Jeffrey** ![][flag_MY] | **5** | 0 | ![][flag_PH] Texo | [#1](/community/matches/48084448) |
+| hyoketsujuukyu ![][flag_ID] | 3 | **5** | ![][flag_MY] **\[Winter\]** | [#1](/community/matches/48084568) |
+| **Rayhan Hamil** ![][flag_ID] | **5** | 3 | ![][flag_MY] Desumond | [#1](/community/matches/48084428) |
+| **MioMilo** ![][flag_PH] | **5** | 1 | ![][flag_SG] CryingWaff | [#1](/community/matches/48084659) |
+| tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_ID] **Crezz** | -win by default- |
+| **Somay 287** ![][flag_ID] | **5** | 0 | ![][flag_SG] CryingWaff | [#1](/community/matches/48085821) |
+| **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_TH] Dcyte | -win by default- |
+| feces ![][flag_SG] | 0 | **5** | ![][flag_ID] **praguzz** | -win by default- |
+| **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] Kurosaki | -win by default- |
+| **Evanescent-** ![][flag_ID] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
+
+| Saturday, 2018-12-15 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **ShaneLiang** ![][flag_MY] | **5** | 1 | ![][flag_ID] GtaDestroyer | [#1](/community/matches/48100943) |
+| **Portador0409** ![][flag_VN] | **5** | 0 | ![][flag_ID] DifSec- | -win by default- |
+| **youi** ![][flag_SG] | **5** | 0 | ![][flag_ID] DifSec- | -win by default- |
+| **Vignette-** ![][flag_TH] | **5** | 1 | ![][flag_PH] Texo | [#1](/community/matches/48106725) |
+| **dunois** ![][flag_CA] | **5** | 1 | ![][flag_ID] Rayhan Hamil | [#1](/community/matches/48106650) |
+| **TequilaWolf** ![][flag_MY] | **5** | 0 | ![][flag_ID] \[-Kazumine-\] | -win by default- |
+| **Ultimatic Catz** ![][flag_TH] | **5** | 2 | ![][flag_TH] Vignette- | [#1](/community/matches/48108467) |
+| **Desumond** ![][flag_MY] | **5** | 1 | ![][flag_SG] finneyneo | [#1](/community/matches/48108469) |
+| **Agagak** ![][flag_MY] | **5** | 0 | ![][flag_MY] Civie | -win by default- |
+| **Yuu-Chii** ![][flag_MY] | **5** | 0 | ![][flag_ID] -Dokko Imaguri- | -win by default- |
+| **Raindrop** ![][flag_SG] | **5** | 0 | ![][flag_ID] farel12345 | -win by default- |
+| **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_MY] \[Winter\] | [#1](/community/matches/48110732) |
+| \[-Kazumine-\] ![][flag_ID] | 0 | **5** | ![][flag_ID] **Galaxi** | -win by default- |
+| **MioMilo** ![][flag_PH] | **5** | 3 | ![][flag_ID] Somay 287 | [#1](/community/matches/48110965) |
+| **moosepi** ![][flag_SG] | **5** | 3 | ![][flag_PH] Xidorn | [#1](/community/matches/48112145) |
+| **Loslite** ![][flag_SG] | **5** | 1 | ![][flag_SG] Snipey | [#1](/community/matches/48112171) |
+| Yuu-Chii ![][flag_My] | 2 | **5** | ![][flag_ID] **121Brian121** | [#1](/community/matches/48112154) |
+| **fixedbyglue** ![][flag_PH] | **5** | 1 | ![][flag_ID] Evanescent- | [#1](/community/matches/48112166) |
+| **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_SG] CryingWaff | [#1](/community/matches/48112213) |
+| LMT ![][flag_VN] | 1 | **5** | ![][flag_SG] **Loslite** | [#1](/community/matches/48113560) |
+| **IamIkaros** ![][flag_TH] | **5** | 2 | ![][flag_ID] Galaxi | [#1](/community/matches/48113816) |
+| **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_ID] praguzz | [#1](/community/matches/48113836) |
+| Yuu-Chii ![][flag_MY] | 3 | **5** | ![][flag_VN] **UnitedNovel** | [#1](/community/matches/48115147) |
+| **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_TH] Seaweed | -win by default- |
+
+| Sunday, 2018-12-16 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Seaweed ![][flag_TH] | 0 | **5** | ![][flag_TH] **Seaweed** | -win by default- |
+| **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_SG] feces | [#1](/community/matches/48117021) |
+| Hoaq ![][flag_MY] | 0 | **5** | ![][flag_ID] **GtaDestroyer** | -win by default- |
+| LoidKun ![][flag_ID] | 0 | **5** | ![][flag_SG] **Lunarsol** | -win by default- |
+| **youi** ![][flag_SG] | **5** | 0 | ![][flag_VN] Portador0409 | [#1](/community/matches/48133848) |
+| **SeeL** ![][flag_SG] | **5** | 2 | ![][flag_ID] Felter | [#1](/community/matches/48134536) |
+| **TequilaWolf** ![][flag_MY] | **5** | 0 | ![][flag_TH] IamIkaros | -win by default- |
+| **Tzero** ![][flag_MY] | **5** | 2 | ![][flag_ID] -Reuto- | [#1](/community/matches/48135372) |
+| -Reuto- ![][flag_ID] | 4 | **5** | ![][flag_TH] **Applause** | [#1](/community/matches/48135833) |
+| Jeffrey ![][flag_MY] | 3 | **5** | ![][flag_TH] **Vignette-** | [#1](/community/matches/48136072) |
+| **\[-Kazumine-\]** ![][flag_ID] | **5** | 0 | ![][flag_TH] IamIkaros | -win by default- |
+| **dunois** ![][flag_CA] | **5** | 1 | ![][flag_MY] Desumond | [#1](/community/matches/48136583) |
+| **Rexeez** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](/community/matches/48136786) |
+| **UnitedNovel** ![][flag_VN] | **5** | 0 | ![][flag_ID] -Dokko Imaguri- | -win by default- |
+| **yumesaki-hikari** ![][flag_MY] | **5** | 4 | ![][flag_SG] Lunarsol | [#1](/community/matches/48138941) |
+| **M4-K1** ![][flag_SG] | **5** | 0 | ![][flag_ID] -Dokko Imaguri- | -win by default- |
+| **Dcyte** ![][flag_TH] | **5** | 3 | ![][flag_ID] praguzz | [#1](/community/matches/48138935) |
+| LoidKun ![][flag_ID] | 0 | **5** | ![][flag_MY] **yumesaki-hikari** | -win by default- |
+| tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_VN] **LMT** | -win by default- |
+| **Tzero** ![][flag_MY] | **5** | 1 | ![][flag_TH] Applause | [#1](/community/matches/48140031) |
+| 121Brian121 ![][flag_ID] | 3 | **5** | ![][flag_VN] **UnitedNovel** | [#1](/community/matches/48140044) |
+| **haruchi** ![][flag_MY] | **5** | 4 | ![][flag_MY] Desumond | [#1](/community/matches/48140059) |
+| Kurosaki ![][flag_ID] | 2 | **5** | ![][flag_ID] **phizh** | [#1](/community/matches/48141163) |
+| **k\_1tty** ![][flag_SG] | **5** | 0 | ![][flag_MY] Agagak | [#1](/community/matches/48141429) |
+| ELNabhan ![][flag_ID] | 0 | **5** | ![][flag_VN] **Mayukaki** | -win by default- |
+| **M4-K1** ![][flag_SG] | **5** | 0 | ![][flag_MY] Yuu-Chii | -win by default- |
+| ShaneLiang ![][flag_MY] | 0 | **5** | ![][flag_SG] **SeeL** | [#1](/community/matches/4814278) |
+| **GSBlank** ![][flag_SG] | **5** | 2 | ![][flag_SG] youi | [#1](/community/matches/48142840) |
+| **alphaplay** ![][flag_MY] | **5** | 3 | ![][flag_ID] praguzz | [#1](/community/matches/48142584) |
+
+| Monday, 2018-12-17 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **- Phantasma -** ![][flag_TH] | **5** | 1 | ![][flag_SG] woahsia | [#1](/community/matches/48145272) |
+
+| Tuesday, 2018-12-18 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
 
 ------------------------------------------------------------------------
 
