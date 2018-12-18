@@ -274,11 +274,11 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ### Grand Finals
 
-| Saturday, 2018-12-08 | | | | |
+| Saturday, 2018-12-15 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | **United Kingdom** ![][flag_GB] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/48120274) |
 
-| Sunday, 2018-12-09 | | | | |
+| Sunday, 2018-12-16 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | United States ![][flag_US] | 6 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/48146823) |
 | United Kingdom ![][flag_GB] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/48149847) |
