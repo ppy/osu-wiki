@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of December 16th"
-date: 2018-12-17 20:00:00 +0000
+date: 2018-12-18 02:00:00 +0000
 ---
 
 Ready for another round of [Project Loved](https://osu.ppy.sh/community/forums/120)? Come check out the new candidates, and vote for the ones that you'd like to see in the Loved category!
