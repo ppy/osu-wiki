@@ -7,7 +7,7 @@ tags:
 
 ![OWC 2018 Logo](img/logo.png)
 
-The **osu! World Cup 2018** (***OWC 2018***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 9th installment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 9th installment of the osu! World Cup.
 
 ## Tournament Schedule
 
@@ -91,28 +91,11 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](img/bracket_refinal.png)
+![OWC 2018 Podium](img/podium.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Saturday, 15. December 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **19:00 UTC** | 19:00 UTC | 20:00 UTC+01 | ¹ |
-
-### Sunday, 16. December 2018
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 13:00 UTC-05 | 18:00 UTC | ² |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | **19:00 UTC** | 14:00 UTC-05 | 20:00 UTC+01 | ² |
-
-¹ 3rd place encounter
-
-² Grand Finals Encounter dependent on results of ²3rd place encounter
+![Double Elimination bracket](img/bracket_grandfinal.png)
 
 ------------------------------------------------------------------------
 
@@ -289,121 +272,132 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 ## Match Results
 
+### Grand Finals
+
+| Saturday, 2018-12-15 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| **United Kingdom** ![][flag_GB] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/48120274) |
+
+| Sunday, 2018-12-16 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 6 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/48146823) |
+| United Kingdom ![][flag_GB] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/48149847) |
+
 ### Finals
 
 | Saturday, 2018-12-08 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Russian Federation ![][flag_RU] | 7 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47967031) |
+| **Russian Federation** ![][flag_RU] | **7** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47967031) |
 
 | Sunday, 2018-12-09 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Germany ![][flag_DE] | 7 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47985556) |
-| Russian Federation ![][flag_RU] | 4 | 7 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47989805) |
-| United Kingdom ![][flag_GB] | 5 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47998102) |
+| **Germany** ![][flag_DE] | **7** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47985556) |
+| Russian Federation ![][flag_RU] | 4 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47989805) |
+| United Kingdom ![][flag_GB] | 5 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47998102) |
 
 ### Semifinals
 
 | Saturday, 2018-12-01 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Hong Kong ![][flag_HK] | 3 | 7 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47795151) |
-| Germany ![][flag_DE] | 7 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47796992) |
-| South Korea ![][flag_KR] | 4 | 7 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47799551) |
-| Russian Federation ![][flag_RU] | 7 | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47802651) |
+| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/47795151) |
+| **Germany** ![][flag_DE] | **7** | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47796992) |
+| South Korea ![][flag_KR] | 4 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47799551) |
+| **Russian Federation** ![][flag_RU] | **7** | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47802651) |
 
 | Sunday, 2018-12-02 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Japan ![][flag_JP] | 2 | 7 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47822484) |
-| Taiwan ![][flag_TW] | 2 | 7 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/47830929) |
-| Germany ![][flag_DE] | 7 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47836633) |
-| United Kingdom ![][flag_GB] | 7 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47839526) |
+| Japan ![][flag_JP] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47822484) |
+| Taiwan ![][flag_TW] | 2 | **7** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/47830929) |
+| **Germany** ![][flag_DE] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47836633) |
+| **United Kingdom** ![][flag_GB] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47839526) |
 
 ### Quarterfinals
 
 | Saturday, 2018-11-24 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Norway ![][flag_NO] | 1 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47644041) |
-| Netherlands ![][flag_NL] | 4 | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/47646337) |
-| Canada ![][flag_CA] | 6 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47648923) |
+| Norway ![][flag_NO] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/47644041) |
+| Netherlands ![][flag_NL] | 4 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/47646337) |
+| **Canada** ![][flag_CA] | **6** | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47648923) |
 
 | Sunday, 2018-11-25 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Taiwan ![][flag_TW] | 0 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47665462) |
-| South Korea ![][flag_KR] | 6 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/47666758) |
-| Russian Federation ![][flag_RU] | 6 | 2 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47675513) |
-| Denmark ![][flag_DK] | 2 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47677802) |
-| United Kingdom ![][flag_GB] | 6 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47679899) |
+| Taiwan ![][flag_TW] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47665462) |
+| **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/47666758) |
+| **Russian Federation** ![][flag_RU] | **6** | 2 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47675513) |
+| Denmark ![][flag_DK] | 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47677802) |
+| **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47679899) |
 
 ### Round of 16
 
 | Saturday, 2018-11-17 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Japan ![][flag_JP] | 6 | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47484224) |
-| Taiwan ![][flag_TW] | 6 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47486476) |
-| Hong Kong ![][flag_HK] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47489590) |
+| **Japan** ![][flag_JP] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47484224) |
+| **Taiwan** ![][flag_TW] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47486476) |
+| Hong Kong ![][flag_HK] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47489590) |
 
 | Sunday, 2018-11-18 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| China ![][flag_CN] | 0 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47507818) |
-| Australia ![][flag_AU] | 6 | 3 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47514469) |
-| Norway ![][flag_NO] | 6 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47516309) |
-| United Kingdom ![][flag_GB] | 6 | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
-| Russian Federation ![][flag_RU] | 3 | 6 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47521221) |
+| China ![][flag_CN] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47507818) |
+| **Australia** ![][flag_AU] | **6** | 3 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47514469) |
+| **Norway** ![][flag_NO] | **6** | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47516309) |
+| **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
+| Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47521221) |
 
 ### Group Stage
 
 | Saturday, 2018-11-10 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Norway ![][flag_NO] | 0 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47325334) |
-| Belgium ![][flag_BE] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47326358) |
-| Sweden ![][flag_SE] | 2 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/47326352) |
-| Slovakia ![][flag_SK] | 0 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/47327826) |
-| Hong Kong ![][flag_HK] | 5 | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/47327676) |
-| South Korea ![][flag_KR] | 5 | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47327716) |
-| Czech Republic ![][flag_CZ] | 0 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/47329128) |
-| Singapore ![][flag_SG] | 3 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47329030) |
-| Indonesia ![][flag_ID] | 3 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47329311) |
-| Spain ![][flag_ES] | 1 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/47329125) |
-| Argentina ![][flag_AR] | 0 | 5 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47330931) |
-| Thailand ![][flag_TH] | 0 | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47330965) |
-| Slovakia ![][flag_SK] | 3 | 5 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/47330995) |
-| Mexico ![][flag_MX] | 1 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47332636) |
-| Indonesia ![][flag_ID] | 1 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47332889) |
-| Chile ![][flag_CL] | 0 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47332995) |
-| Italy ![][flag_IT] | 2 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/47334843) |
-| Romania ![][flag_RO] | 2 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47336601) |
-| Belgium ![][flag_BE] | 3 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47338704) |
-| Canada ![][flag_CA] | 2 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47338564) |
-| Austria ![][flag_AT] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47338576) |
-| Netherlands ![][flag_NL] | 2 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47341108) |
+| Norway ![][flag_NO] | 0 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/47325334) |
+| Belgium ![][flag_BE] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/47326358) |
+| Sweden ![][flag_SE] | 2 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/47326352) |
+| Slovakia ![][flag_SK] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/47327826) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/47327676) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47327716) |
+| Czech Republic ![][flag_CZ] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/47329128) |
+| Singapore ![][flag_SG] | 3 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47329030) |
+| Indonesia ![][flag_ID] | 3 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47329311) |
+| Spain ![][flag_ES] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/47329125) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/47330931) |
+| Thailand ![][flag_TH] | 0 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/47330965) |
+| Slovakia ![][flag_SK] | 3 | **5** | ![][flag_CZ] **Czech Republic** | [#1](https://osu.ppy.sh/community/matches/47330995) |
+| Mexico ![][flag_MX] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/47332636) |
+| Indonesia ![][flag_ID] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47332889) |
+| Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/47332995) |
+| Italy ![][flag_IT] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/47334843) |
+| Romania ![][flag_RO] | 2 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/47336601) |
+| Belgium ![][flag_BE] | 3 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47338704) |
+| Canada ![][flag_CA] | 2 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47338564) |
+| Austria ![][flag_AT] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47338576) |
+| Netherlands ![][flag_NL] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47341108) |
 
 | Sunday, 2018-11-11 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Argentina ![][flag_AR] | 1 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47348571) |
-| Thailand ![][flag_TH] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/47349547) |
-| Hong Kong ![][flag_HK] | 5 | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/47350506) |
-| Singapore ![][flag_SG] | 4 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47355374) |
-| Hong Kong ![][flag_HK] | 3 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47355238) |
-| Japan ![][flag_JP] | 3 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/47355237) |
-| China ![][flag_CN] | 2 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/47356197) |
-| Belgium ![][flag_BE] | 1 | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/47356362) |
-| Finland ![][flag_FI] | 1 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47356162) |
-| France ![][flag_FR] | 5 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47358754) |
-| Thailand ![][flag_TH] | 0 | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/47358804) |
-| Spain ![][flag_ES] | 0 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47358878) |
-| Czech Republic ![][flag_CZ] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/47360296) |
-| Italy ![][flag_IT] | 3 | 5 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47360323) |
-| Netherlands ![][flag_NL] | 5 | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/47360970) |
-| Finland ![][flag_FI] | 2 | 5 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47361665) |
-| Denmark ![][flag_DK] | 5 | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/47361668) |
-| Slovakia ![][flag_SK] | 1 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/47364696) |
-| Sweden ![][flag_SE] | 2 | 5 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47364655) |
-| Chile ![][flag_CL] | 1 | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/47364638) |
-| Italy ![][flag_IT] | 4 | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47364672) |
-| Finland ![][flag_FI] | 2 | 5 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/47366345) |
-| Mexico ![][flag_MX] | 4 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/47366414) |
-| Romania ![][flag_RO] | 5 | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/47366393) |
-| Sweden ![][flag_SE] | 0 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47367915) |
-| Spain ![][flag_ES] | 3 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/47367761) |
+| Argentina ![][flag_AR] | 1 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/47348571) |
+| Thailand ![][flag_TH] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47349547) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/47350506) |
+| Singapore ![][flag_SG] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/47355374) |
+| Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/47355238) |
+| Japan ![][flag_JP] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/47355237) |
+| China ![][flag_CN] | 2 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/47356197) |
+| Belgium ![][flag_BE] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/47356362) |
+| Finland ![][flag_FI] | 1 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/47356162) |
+| **France** ![][flag_FR] | **5** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/47358754) |
+| Thailand ![][flag_TH] | 0 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/47358804) |
+| Spain ![][flag_ES] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/47358878) |
+| Czech Republic ![][flag_CZ] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/47360296) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/47360323) |
+| **Netherlands** ![][flag_NL] | **5** | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/47360970) |
+| Finland ![][flag_FI] | 2 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/47361665) |
+| **Denmark** ![][flag_DK] | **5** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/47361668) |
+| Slovakia ![][flag_SK] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/47364696) |
+| Sweden ![][flag_SE] | 2 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47364655) |
+| Chile ![][flag_CL] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/47364638) |
+| Italy ![][flag_IT] | 4 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/47364672) |
+| Finland ![][flag_FI] | 2 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/47366345) |
+| Mexico ![][flag_MX] | 4 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/47366414) |
+| **Romania** ![][flag_RO] | **5** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/47366393) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47367915) |
+| Spain ![][flag_ES] | 3 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/47367761) |
 
 ------------------------------------------------------------------------
 
