@@ -8,7 +8,7 @@ tags:
 
 ![EUTT 2018 Logo](img/logo.png)
 
-The **European Taiko Tournament 2018** (***EUTT 2018***), is a European double elimination one-on-one osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It is the 1st installment of the European Taiko Tournament.
+The **European Taiko Tournament 2018** (***EUTT 2018***) was a European double elimination one-on-one osu!taiko tournament hosted by ![][flag_US] [Backfire](/users/263110). It was the 1st installment of the European Taiko Tournament.
 
 ## Tournament Schedule
 
@@ -21,9 +21,11 @@ The **European Taiko Tournament 2018** (***EUTT 2018***), is a European double e
 | Quarterfinals | 2018-11-17/2018-11-18 |
 | Semifinals | 2018-11-24/2018-11-25 |
 | Finals | 2018-12-01/2018-12-02 |
-| Grand Finals | 2018-12-08/2018-12-09 |
+| Grand Finals | 2018-12-07/2018-12-09 |
 
 ## Prizes
+
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for European Taiko Tournament 2018 winners. It is possible that these items change with every installment of the European Taiko Tournament.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -35,7 +37,7 @@ The **European Taiko Tournament 2018** (***EUTT 2018***), is a European double e
 
 ## Organisation
 
-The European Taiko Tournament 2018 is run by various osu!taiko community members.
+The European Taiko Tournament 2018 was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -69,25 +71,15 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 
 -----------------------
 
-## Match Schedules: Grand Finals
+## Podium
 
-### Friday, 7 December 2018
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Ikkun | ![][flag_IT] | ![][flag_ES] | AlvaroYL | **18:30 UTC** |
-
-### Sunday, 9 December 2018
-
-| Match ID | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #2a | goheegy | ![][flag_GB] | ![][flag_IT] | Ikkun | **15:00 UTC** | ¹ |
-| #2b | goheegy | ![][flag_GB] | ![][flag_ES] | AlvaroYL | **15:00 UTC** | ¹ |
-| #3 |  goheegy | ![][flag_GB] |  | Winner of Match #1 | **18:00 UTC** | ² |
-
-¹ Encounter dependent on winner of Match #1
-
-² Encounter dependent on winner of Match #1 and will take place if Player A on Match #2a or Match #2b loses the match
+| Placing | Team(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](/users/8057655) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [Ikkun](/users/1059945) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ES] [AlvaroYL](/users/6333166) |
 
 -----------------------
 
@@ -257,29 +249,39 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 
 ## Match Results
 
+### Grand Finals
+
+| Friday, 2018-02-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Ikkun** ![][flag_IT] | **6** | 3 | ![][flag_ES] AlvaroYL | [#1](/community/matches/47942813) |
+
+| Sunday, 2018-02-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **goheegy** ![][flag_GB] | **6** | 0 | ![][flag_IT] Ikkun | [#1](/community/matches/47995456) |
+
 ### Finals
 
 | Saturday, 2018-12-01 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **goheegy** ![][flag_GB] | **6** | 2 | ![][flag_IT] Ikkun | [#1](/community/matches/47806853) |
 | **AlvaroYL** ![][flag_ES] | **6** | 1 | ![][flag_FR] Yona la loutre | [#1](/community/matches/47804859) |
 | **BabySnakes** ![][flag_PT] | **6** | 1 | ![][flag_TR] frukoyurdakul | [#1](/community/matches/47812555) |
 
 | Sunday, 2018-12-02 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_PT] BabySnakes | [#1](/community/matches/47838607) |
 
 ### Semifinals
 
 | Saturday, 2018-11-24 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **Yona la loutre** ![][flag_FR] | **5** | 4 | ![][flag_PL] Acrith | [#1](/community/matches/47643110) |
 | D3kuu ![][flag_IT] | 0 | **5** | ![][flag_RU] **DayzeekFeed** | -win by default- |
 | **BabySnakes** ![][flag_PT] | **5** | 0 | ![][flag_DE] Zetera | [#1](/community/matches/47647975) |
 | **Horiiizon** ![][flag_GB] | **5** | 0 | ![][flag_GB] Lno | -win by default- |
 
 | Sunday, 2018-11-25 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **Yona la loutre** ![][flag_FR] | **5** | 3 | ![][flag_RU] DayzeekFeed | [#1](/community/matches/47673741) |
 | frukoyurdakul ![][flag_TR] | 4 | **5** | ![][flag_GB] **goheegy** | [#1](/community/matches/47676655) |
 | **Ikkun** ![][flag_IT] | **5** | 3 | ![][flag_ES] AlvaroYL | [#1](/community/matches/47678634) |
@@ -288,7 +290,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 ### Quarterfinals
 
 | Saturday, 2018-11-17 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | Yona la loutre ![][flag_FR] | 0 | **5** | ![][flag_GB] **goheegy** | -win by default- |
 | Horiiizon ![][flag_GB] | 1 | **5** | ![][flag_IT] **Ikkun** | [#1](/community/matches/47489874) |
 | **lukili846** ![][flag_DE] | **5** | 0 | ![][flag_AT] animexamera | [#1](/community/matches/47496896) |
@@ -300,7 +302,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 | **-Leafeon** ![][flag_DE] | **5** | 3 | ![][flag_RU] night\_flower | [#1](/community/matches/47493638) |
 
 | Sunday, 2018-11-18 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | D3kuu ![][flag_IT] | 2 | **5** | ![][flag_TR] **frukoyurdakul** | [#1](/community/matches/47520607) |
 | BabySnakes ![][flag_PT] | 4 | **5** | ![][flag_ES] **AlvaroYL** | [#1](/community/matches/47521716) |
 | **Zetera** ![][flag_DE] | **5** | 0 | ![][flag_FR] maximaxiU | [#1](/community/matches/47517887) |
@@ -313,7 +315,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 ### Round of 16
 
 | Saturday, 2018-11-10 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_DE] -Leafeon | [#1](/community/matches/47332883) |
 | **frukoyurdakul** ![][flag_TR] | **4** | 0 | ![][flag_GB] Lno | -win by default- |
 | **Yona la loutre** ![][flag_FR] | **4** | 3 | ![][flag_DE] Zetera | [#1](/community/matches/47327934) |
@@ -331,13 +333,13 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 | ControlPro ![][flag_GB] | 1 | **4** | ![][flag_RU] night\_flower | [#1](/community/matches/47332907) |
 
 | Sunday, 2018-11-11 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_DE] lukili846 | [#1](/community/matches/47356264) |
 
 ### Round of 32
 
 | Saturday, 2018-11-03 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_PL] Agresywny Arbuz | [#1](/community/matches/47173837) |
 | animexamera ![][flag_AT] | 0 | **4** | ![][flag_DE] **-Leafeon** | [#1](/community/matches/47183611) |
 | frukoyurdakul ![][flag_TR] | 0 | 0 | ![][flag_SV] \[Carl S\] | -nullified- |
@@ -348,7 +350,7 @@ The European Taiko Tournament 2018 is run by various osu!taiko community members
 | **Don Omar** ![][flag_UA] | **4** | 2 | ![][flag_FR] Chernobog | [#1](/community/matches/47175042) |
 
 | Sunday, 2018-11-04 |  |  |  |  | 
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-: |
 | **Horiiizon** ![][flag_GB] | **4** | 0 | ![][flag_PL] \_SC0RP10N | [#1](/community/matches/47204200) |
 | jleste ![][flag_DE] | 1 | **4** | ![][flag_RU] **DayzeekFeed** | [#1](/community/matches/47205657) |
 | Capu ![][flag_DE] | 0 | **4** | ![][flag_IT] **Ikkun** | [#1](/community/matches/47206847) |

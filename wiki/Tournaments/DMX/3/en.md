@@ -43,7 +43,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Map Selectors | ![][flag_FR] [Adri](/users/4579132), ![][flag_SG] [Raveille](/users/1388767), ![][flag_US] [\_untitld](/users/10465260) |
+| Map Selectors | ![][flag_FR] [Adri](/users/4579132), ![][flag_SG] [Raveille](/users/1388767), ![][flag_US] [\_untitld](/users/10465260), ![][flag_US] [qqqant](/users/8976576) |
 | Designer | ![][flag_DE] [Celektus](/users/4294993) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_BE] [NightNarumi](/users/4381142) |
 | Referees | ![][flag_HK] [Akali393394](/users/9686628), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_AU] [Cactie](/users/5592409), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_BR] [Foxerus](/users/7479684), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_NL] [Jinkela](/users/5347374), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_DE] [lukili846](/users/6278008), ![][flag_US] [Raoul](/users/9924405), ![][flag_NL] [SpectreSan](/users/11310442), ![][flag_FR] [Spartan Plume](/users/2553166) |
@@ -85,46 +85,58 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 -----------------------
 
-## Match Schedules: Round of 16
+## Match Schedules: Semifinals
 
-### Friday, 7 December 2018
-
-| Match ID | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #3 | Camopoltergeist | ![][flag_FI] | ![][flag_GB] | xSnaggles | **14:00 UTC** |  |
-| #6a | Camopoltergeist | ![][flag_FI] | ![][flag_PL] | Arkitev | **15:00 UTC** | ¹ |
-| #6b | xSnaggles | ![][flag_GB] | ![][flag_PL] | Arkitev | **15:00 UTC** | ¹ |
-
-### Saturday, 8 December 2018
+### Saturday, 15 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | \[MY\]Kibitz | ![][flag_MY] | ![][flag_TH] | BossMadWolf | **10:00 UTC** |
-| #2 | DemonWaves | ![][flag_FR] | ![][flag_MY] | cheewee10 | **10:00 UTC** |
-| #4 | SitekX | ![][flag_PL] | ![][flag_MY] | \[MY\]xRay | **09:00 UTC** |
+| #1 | BossMadWolf | ![][flag_TH] | ![][flag_MY] | cheewee10 | **10:00 UTC** |
+| #2 | xSnaggles | ![][flag_GB] | ![][flag_PL] | SitekX | **14:00 UTC** |
+| #3 | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_FI] | Camopoltergeist | **12:00 UTC** |
+| #4 | MyZterioN- | ![][flag_TH] | ![][flag_MY] | \[MY\]Kibitz | **08:00 UTC** |
 
-### Sunday, 9 December 2018
+### Sunday, 16 December 2018
 
 | Match ID | Player A |  |  | Player B | Match Time |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | SitekX | ![][flag_PL] | ![][flag_TH] | -\[DaNieL\_TH\]- | **13:00 UTC** | ² |
-| #5b | \[MY\]xRay | ![][flag_MY] | ![][flag_TH] | -\[DaNieL\_TH\]- | **11:00 UTC** | ² |
-| #7a | DemonWaves | ![][flag_FR] | ![][flag_TH] | MyZterioN- | **09:00 UTC** | ³ |
-| #7b | cheewee10 | ![][flag_MY] | ![][flag_TH] | MyZterioN- | **09:00 UTC** | ³ |
-| #8a | \[MY\]Kibitz | ![][flag_MY] | ![][flag_IT] | CribobFanGirl | **11:00 UTC** | ⁴ |
-| #8b | BossMadWolf | ![][flag_TH] | ![][flag_IT] | CribobFanGirl | **11:00 UTC** | ⁴ |
+| #5a | BossMadWolf | ![][flag_TH] | ![][flag_TH] | -\[DaNieL\_TH\]- | **11:00 UTC** | ¹ |
+| #5b | cheewee10 | ![][flag_MY] | ![][flag_TH] | -\[DaNieL\_TH\]- | **11:00 UTC** | ¹ |
+| #5c | BossMadWolf | ![][flag_TH] | ![][flag_FI] | Camopoltergeist | **11:00 UTC** | ¹ |
+| #5d | cheewee10 | ![][flag_MY] | ![][flag_FI] | Camopoltergeist | **11:00 UTC** | ¹ |
+| #6a | MyZterioN- | ![][flag_TH] | ![][flag_GB] | xSnaggles | **13:00 UTC** | ² |
+| #6b | \[MY\]Kibitz | ![][flag_MY] | ![][flag_GB] | xSnaggles | **13:00 UTC** | ² |
+| #6c | MyZterioN- | ![][flag_TH] | ![][flag_PL] | SitekX | **13:00 UTC** | ² |
+| #6d | \[MY\]Kibitz | ![][flag_MY] | ![][flag_PL] | SitekX | **13:00 UTC** | ² |
 
-¹ Encounter dependent on winner of Match #3
+¹ Encounter dependent on winner of Match #1 and Match #3
 
-² Encounter dependent on winner of Match #4
-
-³ Encounter dependent on winner of Match #2
-
-⁴ Encounter dependent on winner of Match #1
+² Encounter dependent on winner of Match #2 and Match #4
 
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (57 MB)](https://puu.sh/CfI26/fdfcbe51c4.zip)**
+
+- FreeMod
+  - [II-L - SPUTNIK-3 (Vortex-) \[SV = true;\]](/beatmapsets/849521/#mania/1776410)
+  - [LeaF - Lyrith (Vortex-) \[Amnesia\]](/beatmapsets/687280/#mania/1463532)
+  - [Zekk - Re:Construct (bumpinho) \[Extreme\]](/beatmapsets/469029/#mania/1003027)
+  - [xenothium remixed by gmtn. - Be Happy Melody -the solitary melody- (JvRyu) \[Gothic\]](/beatmapsets/440054/#mania/946943)
+  - [EBIMAYO - GOODTEK (LeiN-) \[4K Another\]](/beatmapsets/369069/#mania/808998)
+  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](/beatmapsets/696787/#mania/1475857)
+  - [Asaka - Eternal Star (Raveille) \[Yakusoku No Eien\]](/beatmapsets/841478/#mania/1760973)
+  - [lapix - Pixel Fighter (PiraTom) \[LoNg VACATION\]](/beatmapsets/672385/#mania/1421364)
+  - [Virtual Riot - Preset Junkies VIP (Gekido-) \[Challenge\]](/beatmapsets/886857/#mania/1854039)
+  - [TheBoxX - Footsekz (Guilhermeziat) \[Handsekz\]](/beatmapsets/781053/#mania/1640495)
+  - [USAO - Dynamite (Extended Mix) (bumpinho) \[Twerk\]](/beatmapsets/589727/#mania/1248193)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](/beatmapsets/667301/#mania/1412004)
+  - [Keigo Hoashi & Kakeru Ishihama (MONACA) - Emil - Despair (riktoi) \[Impending Doom\]](/beatmapsets/711366/#mania/1503827)
+- Tiebreaker
+  - **[Kaneko Chiharu - Lunar EclipsE (bumpinho) \[Bloody Lunatic\]](/beatmapsets/614864/#mania/1297014)**
 
 ### Quarterfinals
 
@@ -184,6 +196,25 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Friday, 2018-12-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **SitekX** ![][flag_PL] | **5** | 1 | ![][flag_MY] \[MY\]xRay | [#1](/community/matches/47934372) |
+| Camopoltergeist ![][flag_FI] | 4 | **5** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/47936485) |
+| **Camopoltergeist** ![][flag_FI] | **5** | 0 | ![][flag_PL] Arkitev | [#1](/community/matches/47937650) |
+
+| Saturday, 2018-12-08 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_TH] **BossMadWolf** | -win by default- |
+| DemonWaves ![][flag_FR] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](/community/matches/47957899) |
+| DemonWaves ![][flag_FR] | 2 | **5** | ![][flag_TH] **MyZterioN-** | [#1](/community/matches/47958955) |
+
+| Sunday, 2018-12-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| \[MY\]xRay ![][flag_MY] | 0 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | -win by default- |
+| **\[MY\]Kibitz** ![][flag_MY] | **5** | 0 | ![][flag_IT] CribobFanGirl | -win by default- |
 
 ### Round of 16
 
