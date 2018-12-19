@@ -7,11 +7,6 @@
 [osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
-[Mouse icon]: /wiki/shared/Playstyles_M.png "Mouse"
-[Keyboard icon]: /wiki/shared/Playstyles_K.png "Keyboard"
-[Tablet icon]: /wiki/shared/Playstyles_T.png "Tablet"
-[Touchscreen icon]: /wiki/shared/Playstyles_TC.png "Touchscreen"
-
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
 
 # Play Styles
@@ -20,7 +15,7 @@ This page will detail the various different ways in which players can choose to 
 
 ## ![osu! icon][osu! icon link] osu!
 
-### ![Mouse][Mouse icon] Mouse-only
+### Mouse-only
 
 Mouse-only was once the _only_ way to play osu! until other playing methods was supported over time.
 
@@ -29,14 +24,14 @@ The play style is widely considered the hardest method to play and mouse-only pl
 
 The key overlay shows left/right click as `M1` and `M2`.
 
-### ![Mouse][Mouse icon] ![Mouse][Mouse icon] Dual Mouse
+### Dual Mouse
 
 Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
 
 It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](http://osu.ppy.sh/s/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
 It is also common for Dual Mouse players to tape the tapping mouse to the desk.
 
-### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Mouse + Keyboard
+### Mouse + Keyboard
 
 Mouse + Keyboard is the most popular play style for osu! because it uses only the most basic computer hardware which are the mouse and keyboard.
 
@@ -45,7 +40,7 @@ Some players use only the keyboard to tap while others only switch to the keyboa
 
 The key overlay shows keyboard presses as `K1` and `K2`.
 
-### ![Tablet][Tablet icon] Tablet tap (or Tablet-only)
+### Tablet tap (or Tablet-only)
 
 ![osu!tablet][osu!tablet image]
 
@@ -57,7 +52,7 @@ Tablet-only players use a tablet pen instead of a mouse to navigate the in-game 
 
 The input overlay will show all tablet taps as `M1`.
 
-### ![Tablet][Tablet icon] ![Keyboard][Keyboard icon] Tablet + Keyboard
+### Tablet + Keyboard
 
 A popular play style for players with a graphics tablet (Digitizer).
 
@@ -67,7 +62,7 @@ Much like Mouse + Keyboard, some players also use only the keyboard to tap while
 Sometimes referred to as _tapx_, it describe how the streaming with Tablet-only playing works.
 To stream as a Tablet-only player, the player should alternate between tapping the pen on the tablet and pressing one assigned secondary key (since the pen tap was considered as `M1`, only the secondary tap button will work, and `X` is usually the default secondary tap button).
 
-### ![Touchscreen][Touchscreen icon] Touchscreen
+### Touchscreen
 
 A possible play style for players who own a touch-enabled monitor, laptop screen or tablet.
 
@@ -77,7 +72,7 @@ Some players may opt for this play style when available and does not own a graph
 
 The key overlay shows touch input as `M1`.
 
-### ![Touchscreen][Touchscreen icon] ![Keyboard][Keyboard icon] Touchscreen + Keyboard
+### Touchscreen + Keyboard
 
 A play style used by players that owns a touch-enabled monitor/laptop screen, the play style is mostly adopted by touchscreen players who could not perform streams using only the touchscreen.
 
@@ -91,7 +86,7 @@ The play style can be similar to Tablet + Keyboard as some monitors allows for a
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 
-### ![Keyboard][Keyboard icon] Keyboard
+### Keyboard
 
 Keyboard was once the _only_ way to play osu!taiko until other playing methods was supported over time.
 
@@ -117,7 +112,7 @@ Most Taiko controllers connect to the computer by using Bluetooth connector shou
 
 ## ![osu!catch][osu!catch icon link] osu!catch
 
-### ![Keyboard][Keyboard icon] Keyboard
+### Keyboard
 
 The most commonly used and default play-style for this mode.
 
@@ -127,7 +122,7 @@ It is possible to edit the keys used; some players enjoy `A`/`D` for movement an
 
 The key overlay shows `<-`/`->` arrow keys input as `L`/`R` respectively and `leftShift` as `D` by default settings.
 
-#### ![Keyboard][Keyboard icon] ![Mouse][Mouse icon] Keyboard + Mouse
+#### Keyboard + Mouse
 
 An minor alternative play style of Keyboard, with the trigger for _Dash!_ effect done by using mouse clicks instead.
 
@@ -145,7 +140,7 @@ Players press the left/right arrow of the gamepad to move the catcher left/right
 
 ## ![osu!mania][osu!mania icon link] osu!mania
 
-### ![Keyboard][Keyboard icon] Keyboard
+### Keyboard
 
 [External guide for Mechanical Keyboard](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
