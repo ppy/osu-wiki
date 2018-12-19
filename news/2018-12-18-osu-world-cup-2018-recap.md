@@ -46,7 +46,7 @@ After witnessing what Team UK could do on [Unravel](https://osu.ppy.sh/beatmapse
 
 ### Results
 
-![](\wiki\shared\news\2018-12-18-osu!-world-cup-2018-recap\podium.png)
+![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/podium.png)
 
 And just like that, the biggest spectacle of this year for the osu! community has drawn its conclusion. Team USA will be crowned champions for the third time, but Team UK and Team Germany most certainly made their own share of history. While we all have our picks for the MVP, all players who participated deserve a round of applause, for it is them we look up to and them that will inspire future player generations to rise up. This year has been one wild ride, and we look forward to seeing you again next year!
 
