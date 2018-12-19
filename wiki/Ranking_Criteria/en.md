@@ -105,7 +105,7 @@ Glossary
     -	**...the osu! difficulties must form a reasonable spread.** This spread must comply with the osu! difficulty-specific Ranking Criteria.
     -	**...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap. 
     -	**...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
--   **Mapsets must have a minimum drain time of 30 seconds.**
+-   **Every difficulty of a beatmapset must have a minimum drain time of 30 seconds.**
 -	**If the drain time of the highest difficulty is...**
     -	**...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania beatmapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid beatmapsets that include osu! difficulties, the additional modes’ lowest difficulties cannot be harder than a Hard.
     -	**...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
