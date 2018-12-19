@@ -6,7 +6,7 @@ date: 2018-12-18 13:00:00 +0000
 
 For over a month and a half we have embarked on yet another glorious journey to celebrate the year. The osu! World Cup 2018 welcomed 32 teams from across the globe, who competed to showcase their skills in moments of glory. Of the 32 teams, 3 arrived at the Grand Finals weekend – Germany, the United Kingdom, and the United States – to fight for the title of the osu! champion 2018.
 
-![](\wiki\shared\news\banners\OWC_2018_banner.png)
+![](/wiki/shared/news/banners/OWC_2018_banner.png)
 
 Something setting the 2018 OWC apart from previous years’ is that for the first time this year, we have a “Grand Finals Mappool”, where map difficulties spike up by one more notch, while at the same time sparing the players from having to play the same pool for two weeks.
 
