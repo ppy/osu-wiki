@@ -26,7 +26,7 @@ The result of that decision was the strongest USA roster to date.
 
 Meanwhile, the English players most certainly did not cower at the sight of their menacing opponents. Their eyes have been on the prize since the very beginning, and #ItsComingHome was their call. Throughout this tournament, [Bubbleman](https://osu.ppy.sh/users/5182050), [OPJames](https://osu.ppy.sh/users/4117142), [Spare](https://osu.ppy.sh/users/2204373), [Doomsday](https://osu.ppy.sh/users/18983), [MoeYandere](https://osu.ppy.sh/users/2565902), [SoraRoxas01](https://osu.ppy.sh/users/1986262), [Jameslike](https://osu.ppy.sh/users/2415743), and [Karthy](https://osu.ppy.sh/users/4196808) all found moments to shine. Needless to say, their journey up to this point has been a team effort. Arriving at the Grand Finals multiplayer lobby is their ultimate testimony.
 
-“It was great to be part of the team for the first time after playing for so long,” commented MoeYandere, Team UK’s new blood this year: “I felt extremely nervous with the expectations weighing down, but team definitely made me feel at ease.”
+"It was great to be part of the team for the first time after playing for so long," commented MoeYandere, Team UK's new blood this year: "I felt extremely nervous with the expectations weighing down, but team definitely made me feel at ease."
 
 Surely enough, the 16 players all feel some different levels of stress coming into this showdown, and they only have themselves and each other to depend upon.
 
