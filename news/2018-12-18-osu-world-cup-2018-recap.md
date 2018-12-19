@@ -40,7 +40,7 @@ The Tiebreaker map – [The Azure Arbitrator](https://osu.ppy.sh/beatmapsets/427
 
 ### [United States vs United Kingdom game 2](https://osu.ppy.sh/community/matches/48149847)
 
-After a quick break the teams returned for the final showdown of the year. At this point, Twitch channel viewer count broke 13,000, and hype was in the air. Tournament organizer HappyStick went over and congratulated Bubbleman in person, who only responded: “Not yet. It’s not done yet. I’m not done yet.”
+After a quick break the teams returned for the final showdown of the year. At this point, Twitch channel viewer count broke 13,000, and hype was in the air. Tournament organizer HappyStick went over and congratulated Bubbleman in person, who only responded: "Not yet. It’s not done yet. I'm not done yet."
 
 After witnessing what Team UK could do on [Unravel](https://osu.ppy.sh/beatmapsets/731933#osu/1544460), Team USA adjusted strategy and banned that map instead. The two teams traded blows until arriving at 2-2, when Team USA saw an opening and went in for the offense, taking 2 more points, bringing the score to 4-2. Team UK quickly reorganized a counterattack, tying the score at 4-4. However, fatigue is definitely showing among the players, and the almost 3-hour long battle is taking its toll! Team UK soon discovered their consistency waning on [Bassdrop Freaks](https://osu.ppy.sh/beatmapsets/806859#osu/1693575). Team USA followed up with their signature pick Tabi to Ferry. Finally, Bad Elixir sealed the fate for Team UK, giving the win to Team USA at 7-4!
 
