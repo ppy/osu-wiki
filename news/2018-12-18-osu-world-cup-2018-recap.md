@@ -36,7 +36,7 @@ Team USA started the first match strong, taking 3 points in a row. Playing with 
 
 (A mere 70 points difference to give the American players a PTSD attack)
 
-The Tiebreaker map – [The Azure Arbitrator](https://osu.ppy.sh/beatmapsets/427166#osu/922172) – was a gruesome 8-minute test of high speed consistency, and widely regarded as a deserving but also hard map choice for its purpose. Going into the map, it came as no surprise when the American team wavered and collapsed combos. However, what was surprising was that when the crowd discovered Bubbleman holding combo, maintaining that incredible score growth for Team UK all the way up to more than 2467 before breaking! This amazing feat alone accounted for more than 1/3 of Team USA’s score at the end, giving Team UK the much-needed bracket reset, and paved way for the second match!
+The Tiebreaker map – [The Azure Arbitrator](https://osu.ppy.sh/beatmapsets/427166#osu/922172) – was a gruesome 8-minute test of high speed consistency, and widely regarded as a deserving but also hard map choice for its purpose. Going into the map, it came as no surprise when the American team wavered and collapsed combos. However, what was surprising was that when the crowd discovered Bubbleman holding combo, maintaining that incredible score growth for Team UK all the way up to more than 2467 before breaking! This amazing feat alone accounted for more than 1/3 of Team USA's score at the end, giving Team UK the much-needed bracket reset, and paved way for the second match!
 
 ### [United States vs United Kingdom game 2](https://osu.ppy.sh/community/matches/48149847)
 
