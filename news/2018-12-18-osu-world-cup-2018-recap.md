@@ -8,7 +8,7 @@ For over a month and a half we have embarked on yet another glorious journey to 
 
 ![](/wiki/shared/news/banners/OWC_2018_banner.png)
 
-Something setting the 2018 OWC apart from previous years’ is that for the first time this year, we have a “Grand Finals Mappool”, where map difficulties spike up by one more notch, while at the same time sparing the players from having to play the same pool for two weeks.
+Something setting the 2018 OWC apart from previous years' is that for the first time this year, we have a "Grand Finals Mappool", where map difficulties spike up by one more notch, while at the same time sparing the players from having to play the same pool for two weeks.
 
 ### [United Kingdom vs Germany](https://osu.ppy.sh/community/matches/48120274)
 
