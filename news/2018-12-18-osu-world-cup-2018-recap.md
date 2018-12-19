@@ -20,7 +20,7 @@ The first two teams up to play are Germany and the United Kingdom. Led by vetera
 
 The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA will be challenged by Team UK before they can win their third title. Over recent years, the United States osu! scene has seen an astronomical expansion since their advent in 2015, with new and skilled players showing up like mushrooms after a fresh rain in the forest.
 
-“(Forming this year’s roster is) the hardest decision we’ve made,” said veteran player Toy, elucidating that any player not present on their roster is not due to their skills: “we could only pick 8.”
+"(Forming this year's roster is) the hardest decision we've made," said veteran player Toy, elucidating that any player not present on their roster is not due to their skills: "we could only pick 8."
 
 The result of that decision was the strongest USA roster to date.
 
