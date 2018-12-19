@@ -110,9 +110,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 - [Fil de discussion](/community/forums/topics/825579)
 - [Livestream](https://twitch.tv/osufrlive)
 - [Discord officiel du oMMFF](https://discord.gg/bWKUsHd)
-- Formulaires d'inscriptions
-  - [osu!catch](https://goo.gl/forms/R6hqbLqbPZWAQr2f1)
-  - [osu!mania](https://goo.gl/forms/lrEpBghknJG7HnCY2)
 - Tableaux Challonge
   - [osu!](https://o2mf.challonge.com/o2mf_osu)
   - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko)
@@ -124,11 +121,130 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ## Participants
 
-*Les joueurs seront révélés après la fin de la phase d'inscription.*
+### Participants de la division osu!
 
-## Mappools
+| Seed | Membres |
+| :-- | :-- |
+| Top | ![][flag_FR] [ThePooN](/users/718454), ![][flag_FR] [Flaven](/users/3213239), ![][flag_FR] [-raizen-](/users/3872987), ![][flag_FR] [NerO](/users/1545031), ![][flag_FR] [BAKKALO](/users/7948627), ![][flag_FR] [Mooha](/users/2705430), ![][flag_FR] [\[ UMU \]](/users/5879559), ![][flag_FR] [Sjizu](/users/4798100) |
+| High | ![][flag_FR] [Besta](/users/5189431), ![][flag_FR] [JustMan](/users/7657831), ![][flag_FR] [RyuuBei](/users/2222447), ![][flag_FR] [VROUM CV VITE](/users/7630971), ![][flag_FR] [FayeurS](/users/3105416), ![][flag_FR] [FayeurS 2](/users/4141918), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [Ice Tea citron](/users/7298776) |
+| Low | ![][flag_FR] [Raiiden](/users/6277316), ![][flag_FR] [VicoTeen](/users/4339470), ![][flag_FR] [cleminiti](/users/5949547), ![][flag_FR] [Wrys](/users/3093139), ![][flag_FR] [\_Aquatic\_](/users/4604369), ![][flag_FR] [volor](/users/4898550), ![][flag_FR] [Funta668](/users/6608227), ![][flag_BE] [steen](/users/9441958) |
+| Unseeded | ![][flag_FR] [Nadji](/users/10308411), ![][flag_FR] [-Unknow](/users/3723612), ![][flag_FR] [SanaeFrost](/users/4303161), ![][flag_FR] [Amatsuka Kou](/users/8568223), ![][flag_FR] [Mirthille](/users/7548517), ![][flag_IE] [S E K A I](/users/8726490), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_FR] [CreeDi](/users/9790881), ![][flag_FR] [Kammthaar](/users/8802523), ![][flag_FR] [Realmas](/users/6567640), ![][flag_FR] [KumaUrsa](/users/8284033), ![][flag_FR] [GuiboxFR](/users/11261739), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Xtr3mSoldi3r](/users/11717152), ![][flag_BF] [linkfire](/users/11719870), ![][flag_FR] [TrislotOsu](/users/10524079), ![][flag_BE] [Xawaii](/users/10609299), ![][flag_FR] [KamiKame](/users/9099310), ![][flag_FR] [Blacky Design](/users/11540165), ![][flag_FR] [Zayyyyy](/users/8218676), ![][flag_FR] [Amphinobi1](/users/9005342), ![][flag_FR] [Leeo97one](/users/9932262), ![][flag_FR] [Izuumii](/users/12654685), ![][flag_FR] [MaximeRaptor](/users/12278998) |
 
-*Les mappools seront révélés une semaine avant le début de chaque round.*
+-----------------------
+
+## Planning des matches
+
+### Division osu!: 16èmes de finale
+
+#### Samedi, 5 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #1 | -raizen- | ![][flag_FR] | ![][flag_BE] | Xawaii | **13:00** |
+| #2 | Wrys | ![][flag_FR] | ![][flag_FR] | Funta668 | **13:00** |
+| #3 | Besta | ![][flag_FR] | ![][flag_FR] | Mirthille | **13:00** |
+| #4 | Raiiden | ![][flag_FR] | ![][flag_FR] | -Unknow | **14:00** |
+| #5 | SiYes | ![][flag_FR] | ![][flag_FR] | Xtr3mSoldi3r | **14:00** |
+| #6 | TLQ\_Yoshii | ![][flag_FR] | ![][flag_FR] | volor | **14:00** |
+| #7 | Mooha | ![][flag_FR] | ![][flag_IE] | S E K A I | **15:00** |
+| #8 | FayeurS 2 | ![][flag_FR] | ![][flag_BE] | steen | **15:00** |
+| #9 | ThePooN | ![][flag_FR] | ![][flag_BF] | linkfire | **15:00** |
+| #10 | cleminiti | ![][flag_FR] | ![][flag_FR] | Ice Tea citron | **16:00** |
+| #11 | JustMan | ![][flag_FR] | ![][flag_FR] | Kaeldori | **16:00** |
+| #12 | VicoTeen | ![][flag_FR] | ![][flag_FR] | Kammthaar | **16:00** |
+| #13 | Flaven | ![][flag_FR] | ![][flag_FR] | GuiboxFR | **17:00** |
+| #14 | BAKKALO | ![][flag_FR] | ![][flag_FR] | RyuuBei | **17:00** |
+| #15 | NerO | ![][flag_FR] | ![][flag_FR] | CreeDi | **17:00** |
+| #16 | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | SanaeFrost | **18:00** |
+
+### Dimanche, 6 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #17a | -raizen- | ![][flag_FR] | ![][flag_FR] | Wrys | **13:00** | ¹ |
+| #17b | -raizen- | ![][flag_FR] | ![][flag_FR] | Funta668 | **13:00** | ¹ |
+| #17c | Xawaii | ![][flag_BE] | ![][flag_FR] | Wrys | **13:00** | ¹ |
+| #17d | Xawaii | ![][flag_BE] | ![][flag_FR] | Funta668 | **13:00** | ¹ |
+| #18a | Besta | ![][flag_FR] | ![][flag_FR] | Raiiden | **14:00** | ² |
+| #18b | Besta | ![][flag_FR] | ![][flag_FR] | -Unknow | **14:00** | ² |
+| #18c | Mirthille | ![][flag_FR] | ![][flag_FR] | Raiiden | **14:00** | ² |
+| #18d | Mirthille | ![][flag_FR] | ![][flag_FR] | -Unknow | **14:00** | ² |
+| #19a | SiYes | ![][flag_FR] | ![][flag_FR] | TLQ\_Yoshii | **15:00** | ³ |
+| #19b | SiYes | ![][flag_FR] | ![][flag_FR] | volor | **15:00** | ³ |
+| #19c | Xtr3mSoldi3r | ![][flag_FR] | ![][flag_FR] | TLQ\_Yoshii | **15:00** | ³ |
+| #19d | Xtr3mSoldi3r | ![][flag_FR] | ![][flag_FR] | volor | **15:00** | ³ |
+| #20a | Mooha | ![][flag_FR] | ![][flag_FR] | FayeurS 2 | **16:00** | ⁴ |
+| #20b | Mooha | ![][flag_FR] | ![][flag_BE] | steen | **16:00** | ⁴ |
+| #20c | S E K A I | ![][flag_IE] | ![][flag_FR] | FayeurS 2 | **16:00** | ⁴ |
+| #20d | S E K A I | ![][flag_IE] | ![][flag_BE] | steen | **16:00** | ⁴ |
+| #21a | ThePooN | ![][flag_FR] | ![][flag_FR] | cleminiti | **17:00** | ⁵ |
+| #21b | ThePooN | ![][flag_FR] | ![][flag_FR] | Ice Tea citron | **17:00** | ⁵ |
+| #21c | linkfire | ![][flag_BF] | ![][flag_FR] | cleminiti | **17:00** | ⁵ |
+| #21d | linkfire | ![][flag_BF] | ![][flag_FR] | Ice Tea citron | **17:00** | ⁵ |
+| #22a | JustMan | ![][flag_FR] | ![][flag_FR] | VicoTeen | **18:00** | ⁶ |
+| #22b | JustMan | ![][flag_FR] | ![][flag_FR] | Kammthaar | **18:00** | ⁶ |
+| #22c | Kaeldori | ![][flag_FR] | ![][flag_FR] | VicoTeen | **18:00** | ⁶ |
+| #22d | Kaeldori | ![][flag_FR] | ![][flag_FR] | Kammthaar | **18:00** | ⁶ |
+| #23a | Flaven | ![][flag_FR] | ![][flag_FR] | BAKKALO | **13:00** | ⁷ |
+| #23b | Flaven | ![][flag_FR] | ![][flag_FR] | RyuuBei | **13:00** | ⁷ |
+| #23c | GuiboxFR | ![][flag_FR] | ![][flag_FR] | BAKKALO | **13:00** | ⁷ |
+| #23d | GuiboxFR | ![][flag_FR] | ![][flag_FR] | Ryuubei | **13:00** | ⁷ |
+| #24a | NerO | ![][flag_FR] | ![][flag_FR] | CreeDi | **14:00** | ⁸ |
+| #24b | NerO | ![][flag_FR] | ![][flag_FR] | SanaeFrost | **14:00** | ⁸ |
+| #24c | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | CreeDi | **14:00** | ⁸ |
+| #24d | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | SanaeFrost | **14:00** | ⁸ |
+
+¹ Confrontation dépendant du gagnant du Match #1 et du Match #2
+
+² Confrontation dépendant du gagnant du Match #3 et du Match #4
+
+³ Confrontation dépendant du gagnant du Match #5 et du Match #6
+
+⁴ Confrontation dépendant du gagnant du Match #7 et du Match #8
+
+⁵ Confrontation dépendant du gagnant du Match #9 et du Match #10
+
+⁶ Confrontation dépendant du gagnant du Match #11 et du Match #12
+
+⁷ Confrontation dépendant du gagnant du Match #13 et du Match #14
+
+⁸ Confrontation dépendant du gagnant du Match #15 et du Match #16
+
+-----------------------
+
+## Liste des maps
+
+### Mappools de la division osu!
+
+#### 16èmes de finale
+
+**[Télécharge le mappack ici! (127 MB)](https://mega.nz/#!QkFAQAQb!ALJeXk7vPRR1h6it6pqZROrpnaNL60kb8s6QqcBDSHA)**
+
+- NoMod
+  - [iconoclasm - perditus+paradisus (kiddly) \[Another\]](/beatmapsets/72790#osu/218548)
+  - [Akiakane - Rolling Girl (Foreverends) \[Extra\]](/beatmapsets/66228#osu/193464)
+  - [Getty vs. DJ DiA - Fox4-Raize- (Doormat, Kaifin) \[Doorfin's Extra\]](/beatmapsets/482552#osu/1097509)
+  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](/beatmapsets/25922#osu/87728)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]](/beatmapsets/372510#osu/815857)
+  - [Yunomi - Oedo Controller(feat. TORIENA)\[Batsu Remix\] (Left) \[UFO\]](/beatmapsets/469434#osu/1003866)
+- Hidden
+  - [Jinnosuke Okibayashi - So Far Gone (Mir) \[Distance\]](/beatmapsets/698308#osu/1479006)
+  - [KOAN Sound & Asa - Starlite (Aiceo) \[Incandescent\]](/beatmapsets/294496#osu/662054)
+  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](/beatmapsets/126354#osu/321559)
+- HardRock
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku o (Fycho) \[Insane\]](/beatmapsets/208765#osu/494798)
+  - [Mitchie M - Ageage Again (captin1) \[captin's Insane\]](/beatmapsets/220694#osu/516452)
+  - [An - Xhroria (Cherry Blossom) \[Another\]](/beatmapsets/82258#osu/227772)
+- DoubleTime
+  - [Vicetone feat. Collin McLoughlin - Heartbeat (Come\[Back\]Home) \[Insane\]](/beatmapsets/295388#osu/663656)
+  - [Larval Stage Planning - Hanabira to Ribbon (Umi) \[Insane\]](/beatmapsets/220694#osu/516452)
+  - [Miyazono Kaori(CV.Taneda Risa) - My Truth\~Rondo Capriccioso (Setz) \[April\]](/beatmapsets/274337#osu/634245)
+- FreeMod
+  - [Traktion - Mission ASCII (galvenize) \[Another\]](/beatmapsets/53249#osu/162405)
+  - [GARNiDELiA - ambiguous (captin1) \[Insane\]](/beatmapsets/303867#osu/680886)
+  - [LiSA - EGOiSTiC SHOOTER (Kyshiro) \[Kyshiro's Extra\]](/beatmapsets/253313#osu/613671)
+- Tiebreaker
+  - **[Teminite & PsoGnar - Surface Tension (Yamicchi) \[Pressure\]](/beatmapsets/686998#osu/1453846)**
 
 ------------------------------------------------------------------------
 
@@ -228,9 +344,12 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 - Ceci est très simple. Les joueurs et le staff doivent tout d'abord, avoir lu ce règlement en entier. Toute personne participant dans ce tournoi est attendu d'être respectueux de chacun. Sous peine de ban et blacklist si cela n'est pas respecté. Ceci compte autant pour les joueurs que pour le staff.
 
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BF]: /wiki/shared/flag/BF.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IE]: /wiki/shared/flag/IE.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
