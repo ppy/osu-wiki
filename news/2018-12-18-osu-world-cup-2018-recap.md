@@ -14,7 +14,7 @@ Something setting the 2018 OWC apart from previous years’ is that for the firs
 
 The first two teams up to play are Germany and the United Kingdom. Led by veteran and star players [Dustice](https://osu.ppy.sh/users/754565) and [Okinamo](https://osu.ppy.sh/users/3765989), the German players are making history, returning once again to the Top 3 for the first time since 2014. Their core skillsets are solid, and consistency prowess renowned. However, standing in their way is Team UK, united under a roster stronger than ever this year and looking to become the second European team to be crowned since Poland last year. All-star players Bubbleman and Spare became the backbone their team could depend upon as the English players charged at the German defense line. Despite constantly under pressure, the German players fought back, not wanting to repeat their history last year against the same opponent. This valiant effort, though in the end did not pay out, earned them praises from both the audiences and their opponents. In the end, Germany conceded defeat at 4-7. This still serves as a historical milestone for the German players, and surely would only ignite their ambition to overcome more obstacles and climb higher in future OWCs.
 
-![](\wiki\shared\news\2018-12-18-osu!-world-cup-2018-recap\uk-de.jpg)
+![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/uk-de.jpg)
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
 
