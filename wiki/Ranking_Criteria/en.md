@@ -242,11 +242,10 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported.
 - **You must have a background image on every difficulty of your beatmap.** Different background files for different difficulties is acceptable.
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 - **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen. 
-- **A video's offset must be correct and consistent between difficulties.** Videos synchronize with their respective songs, so inconsistencies result in one or more difficulties being out of sync.
+- **A video's offset must be correct and consistent between difficulties.** Videos synchronize with their respective songs, so inconsistencies result in one or more difficulties being out of sync. Every difficulty of a beatmapset must include the same video(s).
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap. This includes videos with muted audio tracks.
 
 ## Skinning
