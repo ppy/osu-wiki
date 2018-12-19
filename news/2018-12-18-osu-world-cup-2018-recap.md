@@ -32,7 +32,7 @@ Surely enough, the 16 players all feel some different levels of stress coming in
 
 Team USA started the first match strong, taking 3 points in a row. Playing with both grace and grit, [Toy](https://osu.ppy.sh/users/2757689), [idke](https://osu.ppy.sh/users/4650315), and [fireyrage](https://osu.ppy.sh/users/3533958) took turns bringing points to their team again and again. On the other side, Bubbleman held down his fort with Spare, producing high combos while eyeing for a weakness in the American line of defense. Counter-picking on [Bad Elixir](https://osu.ppy.sh/beatmapsets/878944#osu/1838165), they finally broke the American momentum, followed by their own unwavering and impressive showcase of Unravel and Towards the Horizon. The two teams then continued their CQC before arriving at 5-5, and Team USA securing [Tabi to Ferry](https://osu.ppy.sh/beatmapsets/704541#osu/1490377) with a strongarm performance from Toy. Their next pick – [me & you](https://osu.ppy.sh/beatmapsets/699749#osu/1481624) – an American favourite to win, was suddenly interrupted in its tracks when players began breaking left and right, and the only one to hold through with a full combo was Bubbleman! To make matters more intense, the point difference at the end was a mere 70! Thus, upon first set of the Grand Finals, we are already seeing a Tiebreaker!
 
-![](\wiki\shared\news\2018-12-18-osu!-world-cup-2018-recap\us-uk.jpg) 
+![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/us-uk.jpg) 
 
 (A mere 70 points difference to give the American players a PTSD attack)
 
