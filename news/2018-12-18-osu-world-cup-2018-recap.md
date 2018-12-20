@@ -12,6 +12,8 @@ In a distinct departure from other years, the osu! World Cup (or OWC) featured i
 
 ### [United Kingdom vs Germany](https://osu.ppy.sh/community/matches/48120274)
 
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349510004&t=05m" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+
 The first two teams up to play were Germany and the United Kingdom. 
 
 Led by veteran and star players [Dustice](https://osu.ppy.sh/users/754565) and [Okinamo](https://osu.ppy.sh/users/3765989), the German players were already set on making history - returning once again to the Top 3 for the first time since 2014. Their core skillsets were as solid as ever, and their fabled consistency showed no signs of slowing down or giving way. However, standing in their way was Team United Kingdom, gathered under perhaps the strongest roster of players they had ever fielded in a World Cup, who were absolutely hell-bent on becoming the second European team to be crowned since Poland's dominating performance in the OWC last year. 
@@ -25,6 +27,8 @@ In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served 
 ![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/uk-de.jpg)
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=04m30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA squared up against Team UK in a contest for their third ever osu!Champion title. Over recent years, the United States' osu! tournament scene has seen an astronomical expansion since its advent in 2015, with new and skilled players sprouting up like mushrooms after rains in a forest.
 
@@ -53,6 +57,8 @@ Going into the map, it came as no surprise when the American team began to buckl
 Now, the match was *truly* on.
 
 ### [United States vs United Kingdom: The Bracket Reset](https://osu.ppy.sh/community/matches/48149847)
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=01h53m40s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 After a quick break, the teams returned for the final showdown of the year. 
 
