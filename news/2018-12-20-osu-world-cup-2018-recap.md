@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2018: Grand Finals Recap"
-date: 2018-12-18 13:00:00 +0000
+date: 2018-12-20 11:00:00 +0000
 ---
 
 For over a month and a half, some of osu!'s best players embarked on the journey of the year in search of glory in the osu! World Cup 2018. Thirty-two teams from across the globe competed to showcase their skills for the championship, and over time, only three were left standing in the Grand Finals weekend – Germany, the United Kingdom, and the United States. From there, it was a grand showdown between three of osu!'s most titanic teams for the crown, and boy was it a battle!
@@ -24,7 +24,7 @@ Despite their valiant efforts, Team Germany could just not muster enough strengt
 
 In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served as a historical milestone for the German players, and will surely ignite their ambition to overcome more obstacles and climb higher in future World Cups.
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/uk-de.jpg)
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/uk-de.jpg)
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
 
@@ -46,7 +46,7 @@ Team USA started the match off strong, taking 3 points back to back. Playing wit
 
 The two teams then continued their grueling head-to-head in a series of back-and-forth matches, before arriving at 5-5 all. Team USA secured [Tabi to Ferry](https://osu.ppy.sh/beatmapsets/704541#osu/1490377) with a strongarm performance from Toy. Their next pick – [me & u](https://osu.ppy.sh/beatmapsets/699749#osu/1481624) – an American favourite to win, was suddenly interrupted in its tracks when players began breaking left and right, and the only one to hold through with a full combo was Bubbleman! Holding strong through the skin of his teeth, Bubbleman just BARELY brought his team to victory with a minuscule **70** point lead, setting a new record for the smallest point difference to ever win a match in the osu! World Cup.
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/us-uk.jpg) 
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/us-uk.jpg) 
 
 (A tiny 70 points difference causes Team USA no shortage of grief.)
 
@@ -76,7 +76,7 @@ However, fatigue had begun to rear its ugly head in earnest on both teams, with 
 
 ### Results
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/podium.png)
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/podium.png)
 
 And just like that, the biggest tournament of the year the osu! community is finally over.
 
