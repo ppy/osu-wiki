@@ -20,7 +20,7 @@ All-star players Bubbleman and Spare held strong as the backbone their team as t
 
 Despite their valiant efforts, Team Germany could just not muster enough strength to impede Team UK's unstoppable advance, though there were many instances where it seemed as if Germany was about to flip the match on its head and send the English running for their money. 
 
-In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served as a historical milestone for the German players, and will surely ignite their ambition to overcome more obstacles and climb higher in future OWCs.
+In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served as a historical milestone for the German players, and will surely ignite their ambition to overcome more obstacles and climb higher in future World Cups.
 
 ![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/uk-de.jpg)
 
