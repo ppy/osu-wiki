@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2018: Grand Finals Recap"
-date: 2018-12-18 13:00:00 +0000
+date: 2018-12-20 11:00:00 +0000
 ---
 
 For over a month and a half, some of osu!'s best players embarked on the journey of the year in search of glory in the osu! World Cup 2018. Thirty-two teams from across the globe competed to showcase their skills for the championship, and over time, only three were left standing in the Grand Finals weekend – Germany, the United Kingdom, and the United States. From there, it was a grand showdown between three of osu!'s most titanic teams for the crown, and boy was it a battle!
@@ -11,6 +11,8 @@ For over a month and a half, some of osu!'s best players embarked on the journey
 In a distinct departure from other years, the osu! World Cup (or OWC) featured its own Grand Finals specific mappool this year, where the playing field was bumped up a notch in difficulty again, forcing players to revise their strategies and picks from the Finals matches.
 
 ### [United Kingdom vs Germany](https://osu.ppy.sh/community/matches/48120274)
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349510004&t=05m" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The first two teams up to play were Germany and the United Kingdom. 
 
@@ -22,9 +24,11 @@ Despite their valiant efforts, Team Germany could just not muster enough strengt
 
 In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served as a historical milestone for the German players, and will surely ignite their ambition to overcome more obstacles and climb higher in future World Cups.
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/uk-de.jpg)
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/uk-de.jpg)
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=04m30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA squared up against Team UK in a contest for their third ever osu!Champion title. Over recent years, the United States' osu! tournament scene has seen an astronomical expansion since its advent in 2015, with new and skilled players sprouting up like mushrooms after rains in a forest.
 
@@ -42,7 +46,7 @@ Team USA started the match off strong, taking 3 points back to back. Playing wit
 
 The two teams then continued their grueling head-to-head in a series of back-and-forth matches, before arriving at 5-5 all. Team USA secured [Tabi to Ferry](https://osu.ppy.sh/beatmapsets/704541#osu/1490377) with a strongarm performance from Toy. Their next pick – [me & u](https://osu.ppy.sh/beatmapsets/699749#osu/1481624) – an American favourite to win, was suddenly interrupted in its tracks when players began breaking left and right, and the only one to hold through with a full combo was Bubbleman! Holding strong through the skin of his teeth, Bubbleman just BARELY brought his team to victory with a minuscule **70** point lead, setting a new record for the smallest point difference to ever win a match in the osu! World Cup.
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/us-uk.jpg) 
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/us-uk.jpg) 
 
 (A tiny 70 points difference causes Team USA no shortage of grief.)
 
@@ -53,6 +57,8 @@ Going into the map, it came as no surprise when the American team began to buckl
 Now, the match was *truly* on.
 
 ### [United States vs United Kingdom: The Bracket Reset](https://osu.ppy.sh/community/matches/48149847)
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=01h53m40s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 After a quick break, the teams returned for the final showdown of the year. 
 
@@ -70,7 +76,7 @@ However, fatigue had begun to rear its ugly head in earnest on both teams, with 
 
 ### Results
 
-![](/wiki/shared/news/2018-12-18-osu!-world-cup-2018-recap/podium.png)
+![](/wiki/shared/news/2018-12-20-osu!-world-cup-2018-recap/podium.png)
 
 And just like that, the biggest tournament of the year the osu! community is finally over.
 
