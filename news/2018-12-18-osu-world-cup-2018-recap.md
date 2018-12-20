@@ -26,7 +26,7 @@ In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served 
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
 
-The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA squared up against Team UK in a contest for their third ever osu!Champion title. Over recent years, the United States' osu! tournament scene has seen an astronomical expansion since its advent in 2015, with new and skilled players showing up like mushrooms after rains in a forest.
+The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA squared up against Team UK in a contest for their third ever osu!Champion title. Over recent years, the United States' osu! tournament scene has seen an astronomical expansion since its advent in 2015, with new and skilled players sprouting up like mushrooms after rains in a forest.
 
 When asked about the difficulty of assembling a roster from such a wealth of talented players, veteran player Toy commented that the effort was "one of the hardest things the team has ever done".
 
