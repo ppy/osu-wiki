@@ -19,7 +19,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 Notes:
 
-- Animation name: `pippidonclear{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonclear{n}.png`.
   - You can only skin up 7 frames (from 0 to 6).
   - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
   - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
@@ -38,7 +38,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonfail{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/kiai_time).
@@ -55,7 +55,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonidle{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonidle{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
@@ -71,7 +71,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonkiai{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays during [kiai time](/wiki/kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
