@@ -49,7 +49,7 @@ The osu! South East Tournament 2 is run by various community members.
 | Map Selectors | ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608) |
 | Designer | ![][flag_TH] [Trigonoculus](/users/7627013) |
 | Streamer | ![][flag_VN] [Hoaq](/users/7696512) |
-| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_ID] [Houtarou Oreki](/users/4185566) |
+| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_PL] [Houtarou Oreki](/users/4185566) |
 | Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512) |
 | Web Developers | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_DE] [Borengar](/users/3312177) |
 | Statistician | ![][flag_VN] [steve\_04\_](/users/10852911) |
@@ -593,6 +593,7 @@ The osu! South East Tournament 2 is run by various community members.
 [flag_MM]: /wiki/shared/flag/MM.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
