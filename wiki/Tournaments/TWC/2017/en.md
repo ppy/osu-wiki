@@ -413,7 +413,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
   -  This may change with the actual Group Stage setup.
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
 | -----: | -------- |
