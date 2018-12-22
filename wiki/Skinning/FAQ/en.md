@@ -12,7 +12,7 @@ Skinning is a simple image changing mechanism that osu! will load upon selecting
 
 If you have gone through the entire skinning forums and you are certain that you cannot find *that* skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want!
 
-**Nevertheless, please, never request for a skin anywhere in the forums.** Failing to follow this rule will your thread be moved to the wastelands.
+**Nevertheless, please, never request for a skin anywhere in the forums.** Failing to follow this rule will result in  your thread being moved to the wastelands.
 
 ### Where can I get this skin that I saw someone play with?
 
