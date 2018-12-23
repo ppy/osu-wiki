@@ -1087,7 +1087,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
-| 16 | **partycarft30** | **6** | 0 | Edison  8 | -win by default- | 
+| 16 | **partycarft30** | **6** | 0 | Edison | 8 | -win by default- | 
 | 13 | Izayoi-san | 0 | **6** | **Suravur** | 12 | -win by default- | 
 | 15 | hikaruXD19 | 4 | **6** | **Inoariusu** | 10 | | 
 | 14 | LohaWarpe | 0 | **6** | **vincent4399** | 11 | | 
