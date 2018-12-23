@@ -36,11 +36,11 @@ All mentioned members will receive a shiny new profile badge (or incremental fla
 
 ### New Beatmap Nominator Promotions
 
-With the potential for significant change coming to the QAT over the coming weeks (as will be discussed later in this article), there will naturally be an uncertainty for future Beatmap Nomintaor applications. Regular scheduling would have the next cycle start in mid- to late-January, but at present, the team is debating whether these can (or should) be operated alongside the QAT restructure. We will bring you a more clear update on this matter once it has been decided upon.
+With the potential for significant change coming to the QAT over the coming weeks (as will be discussed later in this article), there will naturally be an uncertainty for future Beatmap Nominator applications. Regular scheduling would have the next cycle start in mid- to late-January, but at present, the team is debating whether these can (or should) be operated alongside the QAT restructure. We will bring you a more clear update on this matter once it has been decided upon.
 
 ### Beatmap Nominator Retirements
 
-With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for [hikiko-](https://osu.ppy.sh/users/6512678), [Wishkey](https://osu.ppy.sh/users/1101704) and [Yauxo](https://osu.ppy.sh/users/898306) – may their future endeavours be as prosperous as their time in osu!
+With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for [hikiko-](https://osu.ppy.sh/users/6512678), [Wishkey](https://osu.ppy.sh/users/1101704) and [Yauxo](https://osu.ppy.sh/users/898306) – may their future endeavours be as prosperous as their time in osu!.
 
 ## Within the Quality Assurance Team
 
@@ -80,4 +80,4 @@ Contributing to the Gazette as both a writer and editor over the past two years 
 
 To all a Merry Christmas, and a Happy New Year!
 
-**–JBHyperion**
+–JBHyperion
