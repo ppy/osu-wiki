@@ -24,13 +24,13 @@ In addition, some founding members of the Mappers' Guild have been hard at work 
 
 [Welcome to the Cyphisonia](https://osu.ppy.sh/beatmapsets/887008) by [Mao](https://osu.ppy.sh/users/2204515).
 
-[Touhiron](https://osu.ppy.sh/beatmapsets/884977) by [pishifat](https://osu.ppy.sh/users/419954), [Milan\-](https://osu.ppy.sh/users/1052994), and [jonathanlfj](https://osu.ppy.sh/users/270377).
+[Touhiron](https://osu.ppy.sh/beatmapsets/884977) by [pishifat](https://osu.ppy.sh/users/3178418), [Milan\-](https://osu.ppy.sh/users/1052994), and [jonathanlfj](https://osu.ppy.sh/users/270377).
 
 [First Town Of This Journey](https://osu.ppy.sh/beatmapsets/888513#osu/1857147) by [ScubDomino](https://osu.ppy.sh/users/8972308), [Milan\-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679) and [Delis](https://osu.ppy.sh/users/1603923).
 
 [Quantum Entanglement](https://osu.ppy.sh/beatmapsets/584991#osu/1238045) by [Sing](https://osu.ppy.sh/users/3795679).
 
-[Hakuraku](https://osu.ppy.sh/beatmapsets/894415#osu/1869048) by [Nyquill](https://osu.ppy.sh/users/682935), [deetz](https://osu.ppy.sh/users/3513559), [pishifat](https://osu.ppy.sh/users/419954) and [jonathanlfj](https://osu.ppy.sh/users/270377).
+[Hakuraku](https://osu.ppy.sh/beatmapsets/894415#osu/1869048) by [Nyquill](https://osu.ppy.sh/users/682935), [deetz](https://osu.ppy.sh/users/3513559), [pishifat](https://osu.ppy.sh/users/3178418) and [jonathanlfj](https://osu.ppy.sh/users/270377).
 
 **You can check out all of the tracks over at [Camellia's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/31)**. There's just far, far too many to even begin to list them here.
 
