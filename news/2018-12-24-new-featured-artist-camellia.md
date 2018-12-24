@@ -22,7 +22,7 @@ In addition, some founding members of the Mappers' Guild have been hard at work 
 
 [The King of Lions](https://osu.ppy.sh/beatmapsets/885923) by [Regou](https://osu.ppy.sh/users/419954).
 
-[Welcome to the Cyphisonia](https://osu.ppy.sh/beatmapsets/885923) by [Mao](https://osu.ppy.sh/users/2204515).
+[Welcome to the Cyphisonia](https://osu.ppy.sh/beatmapsets/887008) by [Mao](https://osu.ppy.sh/users/2204515).
 
 [Touhiron](https://osu.ppy.sh/beatmapsets/884977) by [pishifat](https://osu.ppy.sh/users/419954), [Milan\-](https://osu.ppy.sh/users/1052994), and [jonathanlfj](https://osu.ppy.sh/users/270377).
 
