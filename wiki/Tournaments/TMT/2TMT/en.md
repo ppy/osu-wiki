@@ -7,7 +7,7 @@ tags:
 
 ![2TMT Logo](img/logo.png)
 
-The **2v2 :thonking: Mania Tournament** (***2TMT***) was a two-on-two team based osu!mania tournament hosted by ![][flag_US] [Backfire](/users/263110). It was the 2nd installment of the :thonking: Mania Tournament.
+The **2v2 :thonking: Mania Tournament** (***2TMT***) was a two-on-two team based osu!mania tournament hosted by ![][flag_MY] [Stupid Idiot](/users/8355574). It was the 2nd installment of the :thonking: Mania Tournament.
 
 ## Tournament Schedule
 
