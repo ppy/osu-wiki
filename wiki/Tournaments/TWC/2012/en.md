@@ -43,7 +43,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Management | ![][flag_KR] [lepidopodus](/users/194807), ![][flag_KR] [wmfchris](/users/7401) |
 | Mapset Organiser | ![][flag_DE] [Loctav](/users/71366) |
 | Match Scheduler | ![][flag_US] [anongos](/users/7135) |
-| Streamers | Kirisaki_Hayashi, ![][flag_HK] [matthewhln](/users/291487) |
+| Streamers | Kirisaki\_Hayashi, ![][flag_HK] [matthewhln](/users/291487) |
 | Referees | ![][flag_PE] [Gonzvlo](/users/237733), ![][flag_TW] [Numbers 596108](/users/194653), ![][flag_FR] [Odaril](/users/113005) |
 
 ## Links
@@ -59,10 +59,10 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AT] | **Austria** | **[M A R I O](/users/594424)**, [Necro Neko](/users/697203), [Hawkii](/users/709719), [TheNutritiousGuy](/users/626907) |
-| ![][flag_BR] | **Brazil** | **[fabriciorby](/users/209664)**, [Hyguys](/users/362851), [Luanny PhNyx], [JhowM](/users/599290) |
-| ![][flag_CA] | **Canada** | **[xcherry](/users/684730)**, [Crystalloid](/users/699741), [orangespanky](/users/125142), [Super_Banana](/users/459886) |
-| ![][flag_CL] | **Chile** | **Kurisuchianu**, [Letz_shake](/users/593579), [Verdisphena](/users/378377), Touche |
-| ![][flag_CN] | **China** | **[HM495](/users/810813)**, [baka_baka_Koishi](/users/915103), [narcissu2012](/users/819937), [small-qiang](/users/619179) |
+| ![][flag_BR] | **Brazil** | **[fabriciorby](/users/209664)**, [Hyguys](/users/362851), \[Luanny PhNyx\], [JhowM](/users/599290) |
+| ![][flag_CA] | **Canada** | **[xcherry](/users/684730)**, [Crystalloid](/users/699741), [orangespanky](/users/125142), [Super\_Banana](/users/459886) |
+| ![][flag_CL] | **Chile** | **Kurisuchianu**, [Letz\_shake](/users/593579), [Verdisphena](/users/378377), Touche |
+| ![][flag_CN] | **China** | **[HM495](/users/810813)**, [baka\_baka\_Koishi](/users/915103), [narcissu2012](/users/819937), [small-qiang](/users/619179) |
 | ![][flag_FR] | **France** | **[Nashmun](/users/49031)**, [Dagonpater](/users/205257), [Didou](/users/594822), [Omegaflo](/users/83291) |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](/users/290128)**, [DarkDunskin](/users/98985), [LittleMagic](/users/105380), [RockeDon](/users/624957) |
 | ![][flag_DE] | **Germany B** | **[Locher](/users/587835)**, [Slih](/users/606738), [Xayphon](/users/961417), [Brokenarrow](/users/384034) |
@@ -70,15 +70,15 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | ![][flag_HK] | **Hong Kong B** | **[7odoa](/users/643394)**, [sakurasuzaku](/users/192704), [jiujiu123](/users/728511), [rturuurud](/users/520016) |
 | ![][flag_ITNL] | **Italy-Netherlands** | **[NeoRainier](/users/326049)**, [Pheon](/users/292295), [happy30](/users/27767), [Jak64](/users/29029) |
 | ![][flag_JP] | **Japan A** | **[pota-row](/users/858415)**, [TTTL](/users/164583), [NeGaTiVeMinD](/users/965038), [asuke916](/users/863073) |
-| ![][flag_JP] | **Japan B** | **[asgardv](/users/752078)**, [shifon[0312]](/users/295488), [Lye](/users/508616), [tamutamu](/users/364497) |
+| ![][flag_JP] | **Japan B** | **[asgardv](/users/752078)**, [shifon\[0312\]](/users/295488), [Lye](/users/508616), [tamutamu](/users/364497) |
 | ![][flag_KR] | **Korea A** | **[Remilia-Scarlet](/users/602783)**, [Mapper 31](/users/156215), [KDS](/users/257977), [Riboflavin](/users/575159) |
-| ![][flag_KR] | **Korea B** | **[[Shalon]](/users/317802)**, [OFC_youngdow](/users/1312550), [EkiBen](/users/344783), [iketa](/users/571504) |
-| ![][flag_MO] | **Macau** | **[L y n n i e](/users/189880)**, [tuidaololi](/users/359750), [benisakura](/users/384986), [________yL](/users/761205) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](/users/332555)**, [Taiko_Maniac1811](/users/595764), [x3Jerry](/users/605973), mekadon |
-| ![][flag_PH] | **Philippines** | **AngelusMist**, [[Zero_One]](/users/347574), [Zekira](/users/36749), [blacksymbian](/users/53956) |
+| ![][flag_KR] | **Korea B** | **[\[Shalon\]](/users/317802)**, [OFC\_youngdow](/users/1312550), [EkiBen](/users/344783), [iketa](/users/571504) |
+| ![][flag_MO] | **Macau** | **[L y n n i e](/users/189880)**, [tuidaololi](/users/359750), [benisakura](/users/384986), [\_\_\_\_\_\_\_\_yL](/users/761205) |
+| ![][flag_MY] | **Malaysia** | **[HeatKai](/users/332555)**, [Taiko\_Maniac1811](/users/595764), [x3Jerry](/users/605973), mekadon |
+| ![][flag_PH] | **Philippines** | **AngelusMist**, [\[Zero\_One\]](/users/347574), [Zekira](/users/36749), [blacksymbian](/users/53956) |
 | ![][flag_PL] | **Poland** | **[Acrith](/users/389880)**, [1miko1](/users/95690), [DarkStoorM](/users/174347), [flyleaf95](/users/375174) |
 | ![][flag_ES] | **Spain** | **[CARRI](/users/854536)**, [charly kempachi](/users/280115), [MYRKUL](/users/255933) |
-| ![][flag_TW] | **Taiwan A** | **[doraewon1](/users/358675)**, [ISHIDAMITSUNARI](/users/242910), [zx_baka_0502442](/users/457766), [mliencheng](/users/586659) |
+| ![][flag_TW] | **Taiwan A** | **[doraewon1](/users/358675)**, [ISHIDAMITSUNARI](/users/242910), [zx\_baka\_0502442](/users/457766), [mliencheng](/users/586659) |
 | ![][flag_TW] | **Taiwan B** | **[jih7491](/users/259446)**, [610522](/users/965771), [Tomoka Rin](/users/125308), [kg2161012](/users/468393) |
 | ![][flag_US] | **United States A** | **[MMzz](/users/128993)**, [Sander-Don](/users/284307), [OzzyOzrock](/users/465153) |
 | ![][flag_US] | **United States B** | **[Makar8000](/users/686389)**, [Backfire](/users/263110), [KYOUI](/users/460978), [Love](/users/467487) |
@@ -107,204 +107,204 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 **[Download the mappack here! (83.4 MB)](http://puu.sh/ma6o)**
 
 - NoMod
-  - [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Louis Cyphre) [Ono's Taiko Oni]](/beatmapsets/20125#taiko/93176)
-  - [Frederic Chopin - Etude Op. 10-4 (lepidopodus) [Taiko Inner Oni]](/beatmapsets/22374#taiko/77232)
-  - [goreshit - MATZcore (_LRJ_) [Ono's Taiko Oni (TWC ver.)]](http://puu.sh/m9JN)
-  - [Hatsune Miku - Atama no Taisou (val0108) [Love's Taiko (TWC ver.)]](http://puu.sh/m9Kl)
-  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) [Verdi's Taiko Oni]](/beatmapsets/30485#taiko/103052)
-  - [Kanou Mari - Hakuchou no Mizuumi ~still a duckling~ (banvi) [wood's Hell Taiko Oni]](/beatmapsets/28893#taiko/99749)
-  - [Linda AI-CUE - Kita Saitama2000 (Zelos) [Taiko Oni]](/beatmapsets/26296#taiko/88821)
-  - [Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) [Taiko Oni]](/beatmapsets/26095#taiko/88245)
-  - [Maximum the Hormone - What's Up, People? (Louis Cyphre) [Aru's 666 Taiko]](/beatmapsets/13320#taiko/89363)
-  - [ParagonX9 - Chaoz Japan (Mustaash) [Firce777's Hell Oni]](/beatmapsets/31115#taiko/102527)
-  - [ribbon rooms - mint tears (samiljul) [Taiko Oni]](/beatmapsets/15497#taiko/60227)
-  - [sampling masters MEGA - Rotter Tarmination (lepidopodus) [Taiko Inner Oni]](/beatmapsets/17351#taiko/61917)
-  - [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) [Lepidon! - Taiko Oni]](/beatmapsets/30877#taiko/103133)
-  - [Yousei Teikoku - Kokou no Sousei (Saten-san) [Ono's Taiko Inner Oni]](/beatmapsets/28705#taiko/101732)
-  - [Zeami - Black Rose Apostle (lepidopodus) [Taiko Inner Oni]](/beatmapsets/23838#taiko/81344)
+  - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Ono's Taiko Oni\]](/beatmapsets/20125#taiko/93176)
+  - [Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Inner Oni\]](/beatmapsets/22374#taiko/77232)
+  - [goreshit - MATZcore (\_LRJ\_) \[Ono's Taiko Oni (TWC ver.)\]](http://puu.sh/m9JN)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[Love's Taiko (TWC ver.)\]](http://puu.sh/m9Kl)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Verdi's Taiko Oni\]](/beatmapsets/30485#taiko/103052)
+  - [Kanou Mari - Hakuchou no Mizuumi \~still a duckling\~ (banvi) \[wood's Hell Taiko Oni\]](/beatmapsets/28893#taiko/99749)
+  - [Linda AI-CUE - Kita Saitama2000 (Zelos) \[Taiko Oni\]](/beatmapsets/26296#taiko/88821)
+  - [Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) \[Taiko Oni\]](/beatmapsets/26095#taiko/88245)
+  - [Maximum the Hormone - What's Up, People? (Louis Cyphre) \[Aru's 666 Taiko\]](/beatmapsets/13320#taiko/89363)
+  - [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](/beatmapsets/31115#taiko/102527)
+  - [ribbon rooms - mint tears (samiljul) \[Taiko Oni\]](/beatmapsets/15497#taiko/60227)
+  - [sampling masters MEGA - Rotter Tarmination (lepidopodus) \[Taiko Inner Oni\]](/beatmapsets/17351#taiko/61917)
+  - [SUPER STAR -MITSURU- - ALL MY TURN (yeahyeahyeahhh) \[Lepidon! - Taiko Oni\]](/beatmapsets/30877#taiko/103133)
+  - [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Ono's Taiko Inner Oni\]](/beatmapsets/28705#taiko/101732)
+  - [Zeami - Black Rose Apostle (lepidopodus) \[Taiko Inner Oni\]](/beatmapsets/23838#taiko/81344)
 - Tiebreaker
-  - **[Various Artists - Taiko World Cup 2012 Compilation (Loctav) [Taiko Ura Oni]](/beatmapsets/47362#taiko/147018)**
+  - **[Various Artists - Taiko World Cup 2012 Compilation (Loctav) \[Taiko Ura Oni\]](/beatmapsets/47362#taiko/147018)**
 
 ### Round 4
 
 **[Download the mappack here! (90.1 MB)](http://puu.sh/lj8O)**
 
 - NoMod
-  - [07th Expansion - miragecoordinator (La Cataline) [MM's Taiko]](/beatmapsets/31116#taiko/116050)
-  - [Dachirumi - Midnight Fusion (Loctav) [Ono's Taiko Oni]](http://puu.sh/liWK)
-  - [DJ YOSHITAKA - FLOWER (TKiller) [lepidon! - Taiko Oni]](/beatmapsets/29996#taiko/104382)
-  - [IOSYS - Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein (ouranhshc) [Taiko Oni]](/beatmapsets/12292#taiko/61369)
-  - [IOSYS - Tapuu Tears You Base (danny19940914) [danny's Taiko]](http://puu.sh/liXi)
-  - [IOSYS - twilight*twinkle (pieguy1372) [Ono's Taiko Oni (TWC ver.)]](http://puu.sh/liYc)
-  - [Kokuyasou - UroboroS-Infinity (Kite) [Dunskin's Taiko Oni]](/beatmapsets/29257#taiko/107392)
-  - [MC Lynn - EkiBEN2000 (arken1015) [Taiko Oni]](/beatmapsets/9782#taiko/42796)
-  - [Ochiai Yurika - Koibumi2000 (arken1015) [wood's Taiko Hell Oni]](/beatmapsets/10539#taiko/43197)
-  - [Renard - TU4AR (Mercurius) [Ono's Taiko Oni]](/beatmapsets/28997#taiko/117847)
-  - [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) [Backfire's Taikocalypse (TWC ver.)]](http://puu.sh/liZS)
-  - [t+pazolite - Of course you need and need and need and need Me (Hellzero) [Ono's Taiko Oni]](http://puu.sh/lj0v)
-  - [Team Nekokan - Can't Defeat Airman (Sushi) [Taiko Air Oni]](/beatmapsets/24084#taiko/82117)
-  - [yak_won - Lucid (soulfear) [lepidon! - Taiko Oni]](/beatmapsets/15898#taiko/58041)
-  - [Zeami - Ryougen no Mai (xierbaliti) [Taiko Oni]](/beatmapsets/29386#taiko/104401)
+  - [07th Expansion - miragecoordinator (La Cataline) \[MM's Taiko\]](/beatmapsets/31116#taiko/116050)
+  - [Dachirumi - Midnight Fusion (Loctav) \[Ono's Taiko Oni\]](http://puu.sh/liWK)
+  - [DJ YOSHITAKA - FLOWER (TKiller) \[lepidon! - Taiko Oni\]](/beatmapsets/29996#taiko/104382)
+  - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Taiko Oni\]](/beatmapsets/12292#taiko/61369)
+  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's Taiko\]](http://puu.sh/liXi)
+  - [IOSYS - twilight\*twinkle (pieguy1372) \[Ono's Taiko Oni (TWC ver.)\]](http://puu.sh/liYc)
+  - [Kokuyasou - UroboroS-Infinity (Kite) \[Dunskin's Taiko Oni\]](/beatmapsets/29257#taiko/107392)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Taiko Oni\]](/beatmapsets/9782#taiko/42796)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[wood's Taiko Hell Oni\]](/beatmapsets/10539#taiko/43197)
+  - [Renard - TU4AR (Mercurius) \[Ono's Taiko Oni\]](/beatmapsets/28997#taiko/117847)
+  - [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Backfire's Taikocalypse (TWC ver.)\]](http://puu.sh/liZS)
+  - [t+pazolite - Of course you need and need and need and need Me (Hellzero) \[Ono's Taiko Oni\]](http://puu.sh/lj0v)
+  - [Team Nekokan - Can't Defeat Airman (Sushi) \[Taiko Air Oni\]](/beatmapsets/24084#taiko/82117)
+  - [yak\_won - Lucid (soulfear) \[lepidon! - Taiko Oni\]](/beatmapsets/15898#taiko/58041)
+  - [Zeami - Ryougen no Mai (xierbaliti) \[Taiko Oni\]](/beatmapsets/29386#taiko/104401)
 - Tiebreaker
-  - **[xi - Ascension to Heaven (Shiirn) [Ono's Taiko Oni]](/beatmapsets/34348#taiko/119666)**
+  - **[xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](/beatmapsets/34348#taiko/119666)**
 
 ### Round 3
 
 **[Download the mappack here! (96.7 MB)](http://puu.sh/kmdM)**
 
 - NoMod
-  - [Acme Iku - chaosmaid (demo) (qilliam) [MM's Taiko]](/beatmapsets/38720#taiko/124599)
-  - [BeautifulDay - V3 (Piano ver.) (wmfchris) [Taiko]](/beatmapsets/19734#taiko/69225)
-  - [cranky - Libera me (wmfchris) [Taiko]](/beatmapsets/21178#taiko/73653)
-  - [daniwellP - Nyanyanyanyanyanyanya! (theowest) [Taiko Collab]](/beatmapsets/31419#taiko/103282)
-  - [dBu - Shinkou Fuuka Kyoku ~ Native Faith (saymun) [Taiko Oni]](/beatmapsets/17972#taiko/63985)
-  - [Floxytek - Opera (-Lennox-) [Ono's Taiko Oni]](/beatmapsets/25985#taiko/90319)
-  - [Hatsune Miku - Reversible Doll (NatsumeRin) [Ono's Taiko Oni]](/beatmapsets/22773#taiko/85251)
-  - [M2U - Blythe (MoonFragrance) [lepidon! - Taiko Oni]](/beatmapsets/19874#taiko/69725)
-  - [Mahi feat. Hirune - ROTTER TAIYOSHINKO (OnosakiHito) [Taiko Oni]](/beatmapsets/24701#taiko/84082)
-  - [Megpoid GUMI - Carnival (wcx19911123) [Ozzy's Taiko]](/beatmapsets/28561#taiko/101234)
-  - [NemesisTheory - Alpha Century IV (Loctav) [Epsiloni (TWC ver.)]](http://puu.sh/klXG)
-  - [Sakaue Nachi - Think Of You (orioncomet) [Roko-Don's Taiko]](/beatmapsets/24838#taiko/89386)
-  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) [lepidon! - Taiko Oni]](/beatmapsets/25922#taiko/88860)
-  - [t+pazolite - Against Gilgamesh (Louis Cyphre) [Ono's Taiko Inner Oni]](/beatmapsets/39816#taiko/127115)
-  - [U-F SEQUENCER - EupHolic (POONwing) [Inner Oni (TWC ver.)]](http://puu.sh/klYO)
+  - [Acme Iku - chaosmaid (demo) (qilliam) \[MM's Taiko\]](/beatmapsets/38720#taiko/124599)
+  - [BeautifulDay - V3 (Piano ver.) (wmfchris) \[Taiko\]](/beatmapsets/19734#taiko/69225)
+  - [cranky - Libera me (wmfchris) \[Taiko\]](/beatmapsets/21178#taiko/73653)
+  - [daniwellP - Nyanyanyanyanyanyanya! (theowest) \[Taiko Collab\]](/beatmapsets/31419#taiko/103282)
+  - [dBu - Shinkou Fuuka Kyoku \~ Native Faith (saymun) \[Taiko Oni\]](/beatmapsets/17972#taiko/63985)
+  - [Floxytek - Opera (-Lennox-) \[Ono's Taiko Oni\]](/beatmapsets/25985#taiko/90319)
+  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Ono's Taiko Oni\]](/beatmapsets/22773#taiko/85251)
+  - [M2U - Blythe (MoonFragrance) \[lepidon! - Taiko Oni\]](/beatmapsets/19874#taiko/69725)
+  - [Mahi feat. Hirune - ROTTER TAIYOSHINKO (OnosakiHito) \[Taiko Oni\]](/beatmapsets/24701#taiko/84082)
+  - [Megpoid GUMI - Carnival (wcx19911123) \[Ozzy's Taiko\]](/beatmapsets/28561#taiko/101234)
+  - [NemesisTheory - Alpha Century IV (Loctav) \[Epsiloni (TWC ver.)\]](http://puu.sh/klXG)
+  - [Sakaue Nachi - Think Of You (orioncomet) \[Roko-Don's Taiko\]](/beatmapsets/24838#taiko/89386)
+  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[lepidon! - Taiko Oni\]](/beatmapsets/25922#taiko/88860)
+  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ono's Taiko Inner Oni\]](/beatmapsets/39816#taiko/127115)
+  - [U-F SEQUENCER - EupHolic (POONwing) \[Inner Oni (TWC ver.)\]](http://puu.sh/klYO)
 - Tiebreaker
-  - [Various Artists - Taiko Compilation (Foster Don) [Taiko Inner Oni (TWC ver.)]](http://puu.sh/km0o)
+  - [Various Artists - Taiko Compilation (Foster Don) \[Taiko Inner Oni (TWC ver.)\]](http://puu.sh/km0o)
 
 ### Round 2
 
 **[Download the mappack here! (94.7 MB)](http://puu.sh/js2S)**
 
 - NoMod
-  - [44teru-k - F.I (AngelHoney) [lepidon! - Taiko Oni]](/beatmapsets/25828#taiko/125530)
-  - [akikiki - Faith is for the Transient People (Piano ver.) (wmfchris) [Taiko]](http://puu.sh/jrSl)
-  - [Clubringer ft. Kate Lesing - Rivers of Avalon (Nightcore Mix) (jericho2442) [Kanpakyin's Taik-oni]](/beatmapsets/22658#taiko/80393)
-  - [cosMo@Bousou P feat. Hatsune Miku - Hatsune Miku no Gekishou (lepidopodus) [Oni (Ura)]](http://puu.sh/jrTG)
-  - [cranky - R176 (taka1235) [Pangko]](/beatmapsets/31367#taiko/121335)
-  - [Hatsune Miku - Recommended Spell (val0108) [Ono's Taiko Oni]](/beatmapsets/28864#taiko/97927)
-  - [Mutsuhiko Izumi - Snow Goose (wmfchris) [Taiko]](/beatmapsets/21754#taiko/75360)
-  - [NH22 - Corrosion (Lena) [Taiko Oni]](/beatmapsets/17044#taiko/61235)
-  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) [Taiko]](/beatmapsets/16990#taiko/95812)
-  - [Ryu -I'm so Happy (tsuka) [Taiko]](/beatmapsets/29471#taiko/99350)
-  - [Ryu* Vs. Sota - Go Beyond!! (youngtw123) [[Shalon]'s Taiko]](/beatmapsets/19705#taiko/75621)
-  - [Senpi - Suteki na Hakaba de Kuraseru to Omotta noni (Kite) [Dunskin's Taiko Oni]](/beatmapsets/31169#taiko/121642)
-  - [SUPER STAR -MITSURU- - SA.YO.NA.RA. SUPER STAR (yeahyeahyeahhh) [MM's Taiko]](/beatmapsets/38959#taiko/125753)
-  - [Taikojiro - Seirogan2000 (Zelos) [lepidon! - Taiko Oni (TWC)]](http://puu.sh/jrY7)
-  - [Two Door Cinema Club - What You Know (Krisom) [Taikoni!Kuri]](/beatmapsets/31517#taiko/112556)
+  - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](/beatmapsets/25828#taiko/125530)
+  - [akikiki - Faith is for the Transient People (Piano ver.) (wmfchris) \[Taiko\]](http://puu.sh/jrSl)
+  - [Clubringer ft. Kate Lesing - Rivers of Avalon (Nightcore Mix) (jericho2442) \[Kanpakyin's Taik-oni\]](/beatmapsets/22658#taiko/80393)
+  - [cosMo@Bousou P feat. Hatsune Miku - Hatsune Miku no Gekishou (lepidopodus) \[Oni (Ura)\]](http://puu.sh/jrTG)
+  - [cranky - R176 (taka1235) \[Pangko\]](/beatmapsets/31367#taiko/121335)
+  - [Hatsune Miku - Recommended Spell (val0108) \[Ono's Taiko Oni\]](/beatmapsets/28864#taiko/97927)
+  - [Mutsuhiko Izumi - Snow Goose (wmfchris) \[Taiko\]](/beatmapsets/21754#taiko/75360)
+  - [NH22 - Corrosion (Lena) \[Taiko Oni\]](/beatmapsets/17044#taiko/61235)
+  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](/beatmapsets/16990#taiko/95812)
+  - [Ryu -I'm so Happy (tsuka) \[Taiko\]](/beatmapsets/29471#taiko/99350)
+  - [Ryu\* Vs. Sota - Go Beyond!! (youngtw123) \[\[Shalon\]'s Taiko\]](/beatmapsets/19705#taiko/75621)
+  - [Senpi - Suteki na Hakaba de Kuraseru to Omotta noni (Kite) \[Dunskin's Taiko Oni\]](/beatmapsets/31169#taiko/121642)
+  - [SUPER STAR -MITSURU- - SA.YO.NA.RA. SUPER STAR (yeahyeahyeahhh) \[MM's Taiko\]](/beatmapsets/38959#taiko/125753)
+  - [Taikojiro - Seirogan2000 (Zelos) \[lepidon! - Taiko Oni (TWC)\]](http://puu.sh/jrY7)
+  - [Two Door Cinema Club - What You Know (Krisom) \[Taikoni!Kuri\]](/beatmapsets/31517#taiko/112556)
 - Tiebreaker
-  - [Kola Kid - can't hide your love (Kert) [31's Taiko]](/beatmapsets/39732#taiko/133083)
+  - [Kola Kid - can't hide your love (Kert) \[31's Taiko\]](/beatmapsets/39732#taiko/133083)
 
 ### Round 1-4
 
 **[Download the mappack here! (120 MB)](http://puu.sh/isvz)**
 
 - NoMod
-  - [07th Expansion - dreamenddischarger (wmfchris) [Wmf's Taiko]](http://puu.sh/ijk2)
-  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) [Car's Taiko]](/beatmapsets/29044#taiko/98596)
-  - [AU - Lunatic Heaven (Ijah) [Backfire's Taiko Heaven]](http://puu.sh/ijjN)
-  - [Bomfunk MC's - Freestyler (Lesjuh) [Sp3's Taiko]](/beatmapsets/35629#taiko/117090)
-  - [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) [Taiko]](/beatmapsets/21657#taiko/75926)
-  - [DJ Sadan - Theme of Laura (IceBeam) [Taiko Oni]](/beatmapsets/38281#taiko/124295)
-  - [dj TAKA (remixed by Yokota Shokai) - Colors -Y&Co. Eurobeat Remix- (Samah) [Another]](/beatmapsets/27999#taiko/93527)
-  - [e-lma - CaptivAte2~Kakusei~ (Maddy) [Backfire's Inner Oni]](/beatmapsets/36790#taiko/122414)
-  - [Far East Movement ft. The Cataracs - Like a G6 (poisonchan) [Like a Medi-chan]](/beatmapsets/21922#taiko/93725)
-  - [Furries in a Blender - Ridorii (-Lennox-) [Ono's Taiko Oni]](/beatmapsets/29727#taiko/99462)
-  - [HIDEKI - CurriculuMachine (Kiwa) [Alace's Taiko]](/beatmapsets/23464#taiko/100017)
-  - [HOUJIROU - Maihime ~buki~ (Sandpig) [Alace's Taiko]](/beatmapsets/28765#taiko/98441)
-  - [IOSYS - Bad Apple & Good Orange (TKiller) [lepidon! - Taiko Oni]](/beatmapsets/19679#taiko/69534)
-  - [IOSYS - Power of Dream (Night Fever Refix) (Kite) [Foster's Taiko Oni]](/beatmapsets/27152#taiko/91698)
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) [Wmf's Taiko]](/beatmapsets/23916#taiko/82427)
-  - [Lily - Lily Lily Burning Night (MForever) [31's Taiko]](/beatmapsets/20752#taiko/74402)
-  - [Ryu* - bloomin' feeling (Nakagawa-Kanon) [Nyan's Taiko]](/beatmapsets/28332#taiko/112799)
-  - [sakuzyo - VALLISTA (Shiirn) [Taikocalypse]](/beatmapsets/40056#taiko/127735)
-  - [Suzaku - Anisakis -somatic mutation type Forza (matthewhln) [hln's Taiko]](http://puu.sh/ijjV)
-  - [TERRA - Tenjou no Hoshi ~Reimeiki~ (ouranhshc) [lepidon! - Taiko Oni]](/beatmapsets/14977#taiko/66719)
+  - [07th Expansion - dreamenddischarger (wmfchris) \[Wmf's Taiko\]](http://puu.sh/ijk2)
+  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Car's Taiko\]](/beatmapsets/29044#taiko/98596)
+  - [AU - Lunatic Heaven (Ijah) \[Backfire's Taiko Heaven\]](http://puu.sh/ijjN)
+  - [Bomfunk MC's - Freestyler (Lesjuh) \[Sp3's Taiko\]](/beatmapsets/35629#taiko/117090)
+  - [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) \[Taiko\]](/beatmapsets/21657#taiko/75926)
+  - [DJ Sadan - Theme of Laura (IceBeam) \[Taiko Oni\]](/beatmapsets/38281#taiko/124295)
+  - [dj TAKA (remixed by Yokota Shokai) - Colors -Y&Co. Eurobeat Remix- (Samah) \[Another\]](/beatmapsets/27999#taiko/93527)
+  - [e-lma - CaptivAte2\~Kakusei\~ (Maddy) \[Backfire's Inner Oni\]](/beatmapsets/36790#taiko/122414)
+  - [Far East Movement ft. The Cataracs - Like a G6 (poisonchan) \[Like a Medi-chan\]](/beatmapsets/21922#taiko/93725)
+  - [Furries in a Blender - Ridorii (-Lennox-) \[Ono's Taiko Oni\]](/beatmapsets/29727#taiko/99462)
+  - [HIDEKI - CurriculuMachine (Kiwa) \[Alace's Taiko\]](/beatmapsets/23464#taiko/100017)
+  - [HOUJIROU - Maihime \~buki\~ (Sandpig) \[Alace's Taiko\]](/beatmapsets/28765#taiko/98441)
+  - [IOSYS - Bad Apple & Good Orange (TKiller) \[lepidon! - Taiko Oni\]](/beatmapsets/19679#taiko/69534)
+  - [IOSYS - Power of Dream (Night Fever Refix) (Kite) \[Foster's Taiko Oni\]](/beatmapsets/27152#taiko/91698)
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Wmf's Taiko\]](/beatmapsets/23916#taiko/82427)
+  - [Lily - Lily Lily Burning Night (MForever) \[31's Taiko\]](/beatmapsets/20752#taiko/74402)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Nyan's Taiko\]](/beatmapsets/28332#taiko/112799)
+  - [sakuzyo - VALLISTA (Shiirn) \[Taikocalypse\]](/beatmapsets/40056#taiko/127735)
+  - [Suzaku - Anisakis -somatic mutation type Forza (matthewhln) \[hln's Taiko\]](http://puu.sh/ijjV)
+  - [TERRA - Tenjou no Hoshi \~Reimeiki\~ (ouranhshc) \[lepidon! - Taiko Oni\]](/beatmapsets/14977#taiko/66719)
 - Tiebreaker
-  - [nam5 - Heavenly Shake (Kite) [Roko-Don's Taiko]](/beatmapsets/20892#taiko/74347)
+  - [nam5 - Heavenly Shake (Kite) \[Roko-Don's Taiko\]](/beatmapsets/20892#taiko/74347)
 
 ### Round 1-3
 
 **[Download the mappack here! (139 MB)](http://puu.sh/hwGK)**
 
 - NoMod
-  - [3L - Spring of Dreams (impossiblexu) [Verdi's Taiko Oni]](/beatmapsets/27875#taiko/95459)
-  - [Adraen + Renard - Punk Anthem Track (Aleks719) [Taiko Oni]](/beatmapsets/37709#taiko/122433)
-  - [ALiCE EMOTiON - Tag (Hardbeat Remix) (Takos) [Wmf's Taiko]](/beatmapsets/28991#taiko/97992)
-  - [Frank Klepacki - Hell March 2 (zsr123) [Ozzy's Taiko March]](/beatmapsets/28650#taiko/99527)
-  - [Imai Asami - Tenyou No Mai (POONwing) [Reverse Oni]](http://puu.sh/hwzy)
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) [Ono's Taiko Oni]](/beatmapsets/24448#taiko/92189)
-  - [Kakumi Nishigomi - Kurofune Raikou (NatsumeRin) [Oni]](/beatmapsets/27931#taiko/93468)
-  - [kors k - Wuv U (Nakagawa-Kanon) [Firce777's Taiko]](/beatmapsets/34556#taiko/117706)
-  - [Kuripurin - Jutenija (qinche) [Alace's Taiko]](/beatmapsets/25500#taiko/87086)
-  - [Liz Triangle - Who Killed U.N.Owen (S i R i R u) [kuma01's taiko]](/beatmapsets/17318#taiko/62154)
-  - [Masayoshi Minoshima feat. nomico - Bad Apple!! (ouranhshc) [lepidon! - Taiko Oni]](/beatmapsets/18260#taiko/65313)
-  - [O-Life Japan - Yamanobori Kibun (qinche) [Taiko]](/beatmapsets/30256#taiko/100178)
-  - [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) [Taiko Oni]](/beatmapsets/9517#taiko/38237)
-  - [Sawashiro Miyuki - Title Nante Jibun de Kangae Nasanaina (TV Size) (Crazy Jay) [Taiko]](/beatmapsets/17547#taiko/78216)
-  - [Sirio & D-Tox - Loudness War (-Lennox-) [Ono's Taiko Oni]](/beatmapsets/27861#taiko/93167)
-  - [Suzaku - VANESSA (La Cataline) [lepidon! - Taiko Oni]](/beatmapsets/27862#taiko/99163)
-  - [Tatsh - Fuushi Kaden (happy30) [Taiko]](/beatmapsets/15486#taiko/56047)
-  - [Tatsh - reunion (ouranhshc) [lepidon! - Taiko Oni]](/beatmapsets/24523#taiko/85127)
-  - [wa. remixed celas - Suishou-Sekai ~Fracture~ (soulfear) [Firce777's Taiko]](/beatmapsets/28984#taiko/97890)
-  - [xi - Parousia (Shiirn) [Taiko Oni]](/beatmapsets/37333#taiko/123031)
+  - [3L - Spring of Dreams (impossiblexu) \[Verdi's Taiko Oni\]](/beatmapsets/27875#taiko/95459)
+  - [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](/beatmapsets/37709#taiko/122433)
+  - [ALiCE EMOTiON - Tag (Hardbeat Remix) (Takos) \[Wmf's Taiko\]](/beatmapsets/28991#taiko/97992)
+  - [Frank Klepacki - Hell March 2 (zsr123) \[Ozzy's Taiko March\]](/beatmapsets/28650#taiko/99527)
+  - [Imai Asami - Tenyou No Mai (POONwing) \[Reverse Oni\]](http://puu.sh/hwzy)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Ono's Taiko Oni\]](/beatmapsets/24448#taiko/92189)
+  - [Kakumi Nishigomi - Kurofune Raikou (NatsumeRin) \[Oni\]](/beatmapsets/27931#taiko/93468)
+  - [kors k - Wuv U (Nakagawa-Kanon) \[Firce777's Taiko\]](/beatmapsets/34556#taiko/117706)
+  - [Kuripurin - Jutenija (qinche) \[Alace's Taiko\]](/beatmapsets/25500#taiko/87086)
+  - [Liz Triangle - Who Killed U.N.Owen (S i R i R u) \[kuma01's taiko\]](/beatmapsets/17318#taiko/62154)
+  - [Masayoshi Minoshima feat. nomico - Bad Apple!! (ouranhshc) \[lepidon! - Taiko Oni\]](/beatmapsets/18260#taiko/65313)
+  - [O-Life Japan - Yamanobori Kibun (qinche) \[Taiko\]](/beatmapsets/30256#taiko/100178)
+  - [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) \[Taiko Oni\]](/beatmapsets/9517#taiko/38237)
+  - [Sawashiro Miyuki - Title Nante Jibun de Kangae Nasanaina (TV Size) (Crazy Jay) \[Taiko\]](/beatmapsets/17547#taiko/78216)
+  - [Sirio & D-Tox - Loudness War (-Lennox-) \[Ono's Taiko Oni\]](/beatmapsets/27861#taiko/93167)
+  - [Suzaku - VANESSA (La Cataline) \[lepidon! - Taiko Oni\]](/beatmapsets/27862#taiko/99163)
+  - [Tatsh - Fuushi Kaden (happy30) \[Taiko\]](/beatmapsets/15486#taiko/56047)
+  - [Tatsh - reunion (ouranhshc) \[lepidon! - Taiko Oni\]](/beatmapsets/24523#taiko/85127)
+  - [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Firce777's Taiko\]](/beatmapsets/28984#taiko/97890)
+  - [xi - Parousia (Shiirn) \[Taiko Oni\]](/beatmapsets/37333#taiko/123031)
 - Tiebreaker
-  - [Infected Mushroom - The Legend Of The Black Shawarma (La Cataline) [lepidon! - Taiko Oni]](/beatmapsets/20122#taiko/74555)
+  - [Infected Mushroom - The Legend Of The Black Shawarma (La Cataline) \[lepidon! - Taiko Oni\]](/beatmapsets/20122#taiko/74555)
 
 ### Round 1-2
 
 **[Download the mappack here! (124 MB)](http://puu.sh/gzFf)**
 
 - NoMod
-  - [07th Expansion - Worldenddominator (tieff) [Hard]](/beatmapsets/14546#taiko/53182)
-  - [Boom - How Do You Do (Nightcore Mix) (ztrot) [America!!]](/beatmapsets/18729#taiko/66336)
-  - [Hatsune Miku - Nightmare Party Night (banvi) [Ono's Taiko Oni]](/beatmapsets/23053#taiko/84587)
-  - [Hatsune Miku - Senkouhanabi Aika (val0108) [Ozzy's Taiko]](/beatmapsets/33556#taiko/109382)
-  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) [Climbb's Taiko Oni]](/beatmapsets/30128#taiko/105917)
-  - [IOSYS - Danzai Yamaxanadu (Zekira) [Eternal Damnation]](/beatmapsets/13654#taiko/50354)
-  - [IOSYS - RE:Usatei (OzzyOzrock) [Taiko Oni]](/beatmapsets/31343#taiko/103022)
-  - [Kitsune^2 - Tung, The Icelandic Lesbian (Blue Dragon) [Nyan's Taiko]](/beatmapsets/35233#taiko/119690)
-  - [kors k - smooooch (Card N'FoRcE) [Natteke's Taiko Oni]](/beatmapsets/17912#taiko/63950)
-  - [Megpoid GUMI - Cosmos (val0108) [Backfire's Taiko Oni]](/beatmapsets/37054#taiko/120024)
-  - [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) [lepidon! - Taiko Oni]](/beatmapsets/19258#taiko/68244)
-  - [Nico Nico Douga - Owens (AngelHoney) [Climbb's Taiko Oni]](/beatmapsets/20406#taiko/76538)
-  - [Nudarai - Nuclear Fusion (Sandpig) [lepidon! - Taiko Oni]](/beatmapsets/25557#taiko/87205)
-  - [Ookami Akiko - Arumujika ac14.0V (aquabluu) [Taiko Oni]](/beatmapsets/24555#taiko/83437)
-  - [P!nk - Bad Influence (Larto) [Hard]](/beatmapsets/10334#taiko/40339)
-  - [Ryu* - Rondo Alla Turca (Ryu* Remix) (yeahyeahyeahhh) [lepidon! - Taiko Oni]](/beatmapsets/34468#taiko/113530)
-  - [SHIKI - BABYLON (miccoliasms) [Alace's Taiko]](/beatmapsets/31373#taiko/104218)
-  - [TERRA - ever snow (ouranhshc) [Wmf's Taiko]](/beatmapsets/23477#taiko/81284)
-  - [YMCK - Danba Danba Din Dan (lepidopodus) [Oni]](http://puu.sh/gzx7)
-  - [Zeami - Blue Rose Ruin (lepidopodus) [Oni]](http://puu.sh/gzxk)
+  - [07th Expansion - Worldenddominator (tieff) \[Hard\]](/beatmapsets/14546#taiko/53182)
+  - [Boom - How Do You Do (Nightcore Mix) (ztrot) \[America!!\]](/beatmapsets/18729#taiko/66336)
+  - [Hatsune Miku - Nightmare Party Night (banvi) \[Ono's Taiko Oni\]](/beatmapsets/23053#taiko/84587)
+  - [Hatsune Miku - Senkouhanabi Aika (val0108) \[Ozzy's Taiko\]](/beatmapsets/33556#taiko/109382)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](/beatmapsets/30128#taiko/105917)
+  - [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](/beatmapsets/13654#taiko/50354)
+  - [IOSYS - RE:Usatei (OzzyOzrock) \[Taiko Oni\]](/beatmapsets/31343#taiko/103022)
+  - [Kitsune^2 - Tung, The Icelandic Lesbian (Blue Dragon) \[Nyan's Taiko\]](/beatmapsets/35233#taiko/119690)
+  - [kors k - smooooch (Card N'FoRcE) \[Natteke's Taiko Oni\]](/beatmapsets/17912#taiko/63950)
+  - [Megpoid GUMI - Cosmos (val0108) \[Backfire's Taiko Oni\]](/beatmapsets/37054#taiko/120024)
+  - [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) \[lepidon! - Taiko Oni\]](/beatmapsets/19258#taiko/68244)
+  - [Nico Nico Douga - Owens (AngelHoney) \[Climbb's Taiko Oni\]](/beatmapsets/20406#taiko/76538)
+  - [Nudarai - Nuclear Fusion (Sandpig) \[lepidon! - Taiko Oni\]](/beatmapsets/25557#taiko/87205)
+  - [Ookami Akiko - Arumujika ac14.0V (aquabluu) \[Taiko Oni\]](/beatmapsets/24555#taiko/83437)
+  - [P!nk - Bad Influence (Larto) \[Hard\]](/beatmapsets/10334#taiko/40339)
+  - [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](/beatmapsets/34468#taiko/113530)
+  - [SHIKI - BABYLON (miccoliasms) \[Alace's Taiko\]](/beatmapsets/31373#taiko/104218)
+  - [TERRA - ever snow (ouranhshc) \[Wmf's Taiko\]](/beatmapsets/23477#taiko/81284)
+  - [YMCK - Danba Danba Din Dan (lepidopodus) \[Oni\]](http://puu.sh/gzx7)
+  - [Zeami - Blue Rose Ruin (lepidopodus) \[Oni\]](http://puu.sh/gzxk)
 - Tiebreaker
-  - [Insert Rupee - Facing Fears (OC ReMix) (Charles445) [MM's Taiko]](/beatmapsets/36541#taiko/121635)
+  - [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[MM's Taiko\]](/beatmapsets/36541#taiko/121635)
 
 ### Round 1-1
 
 **[Download the mappack here! (126 MB)](http://puu.sh/gzHb)**
 
 - NoMod
-  - [Aizawa - Flutter Girl (Shinxyn) [Insane]](/beatmapsets/17103#taiko/61124)
-  - [ALiCE'S EMOTiON - Sweet Play (S i R i R u) [Kana's Taiko Oni]](/beatmapsets/29136#taiko/97616)
-  - [Chata - Yuujou Pop (Rorry) [Taiko Oni]](/beatmapsets/22404#taiko/77928)
-  - [Electronic Boutique - Love is Beautiful (MoonFragrance) [Taiko]](/beatmapsets/27309#taiko/91648)
-  - [fripSide - late in autumn (Glass) [31's Taiko]](/beatmapsets/17685#taiko/69730)
-  - [Halozy - Staggering Spirit, Keine's Staggering Song (Card N'FoRcE) [MakJang's Taiko]](/beatmapsets/25338#taiko/89770)
-  - [Kagamine Rin - Meltdown (Ryu Remix) (banvi) [Insane]](/beatmapsets/26145#taiko/88397)
-  - [Kawada Mami - See visionS (KanaRin) [Alace & Kana's Taiko]](/beatmapsets/26565#taiko/93219)
-  - [Korpiklaani - Vodka (Charles445) [DrunkDunskin's Taiko]](/beatmapsets/26886#taiko/90914)
-  - [Megpoid GUMI - Poker Face (NatsumeRin) [Taiko Joker]](/beatmapsets/24782#taiko/84803)
-  - [NAOKI & Ryu - Treasure x Star (Natteke desu) [lepidon! - Taiko Oni]](/beatmapsets/15893#taiko/57311)
-  - [NAOKI feat. SMiLE.dk - A Geisha's Dream (youngtw123) [Taiko Oni]](/beatmapsets/28766#taiko/103398)
-  - [NieN - Mellow D Fantasy (MoonFragrance) [Taiko]](/beatmapsets/23521#taiko/82114)
-  - [Noisestorm - Solar (Shiirn) [Hikato's Taiko Oni]](/beatmapsets/33483#taiko/110219)
-  - [REDALiCE - Selfish (happy30) [Taiko Oni]](/beatmapsets/28060#taiko/105713)
-  - [Ryu* - Second Heaven (dksslqj) [NTK Taiko Oni]](/beatmapsets/25498#taiko/90894)
-  - [sampling masters MEGA - dance storm (lepidopodus) [Oni (Ura)]](http://puu.sh/eogv)
-  - [Silver Forest - Kero (9) Revolution Final Battle (Kalypso) [Taiko]](/beatmapsets/20795#taiko/73885)
-  - [Tatsh feat. Tsukiko - Floating Darkness... (Natteke) [Climbb's Taiko Oni]](/beatmapsets/22173#taiko/83353)
-  - [Yuuna Kamishiro - Shrill False (vivicat) [31's Taiko]](/beatmapsets/20005#taiko/72069)
+  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](/beatmapsets/17103#taiko/61124)
+  - [ALiCE'S EMOTiON - Sweet Play (S i R i R u) \[Kana's Taiko Oni\]](/beatmapsets/29136#taiko/97616)
+  - [Chata - Yuujou Pop (Rorry) \[Taiko Oni\]](/beatmapsets/22404#taiko/77928)
+  - [Electronic Boutique - Love is Beautiful (MoonFragrance) \[Taiko\]](/beatmapsets/27309#taiko/91648)
+  - [fripSide - late in autumn (Glass) \[31's Taiko\]](/beatmapsets/17685#taiko/69730)
+  - [Halozy - Staggering Spirit, Keine's Staggering Song (Card N'FoRcE) \[MakJang's Taiko\]](/beatmapsets/25338#taiko/89770)
+  - [Kagamine Rin - Meltdown (Ryu Remix) (banvi) \[Insane\]](/beatmapsets/26145#taiko/88397)
+  - [Kawada Mami - See visionS (KanaRin) \[Alace & Kana's Taiko\]](/beatmapsets/26565#taiko/93219)
+  - [Korpiklaani - Vodka (Charles445) \[DrunkDunskin's Taiko\]](/beatmapsets/26886#taiko/90914)
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Taiko Joker\]](/beatmapsets/24782#taiko/84803)
+  - [NAOKI & Ryu - Treasure x Star (Natteke desu) \[lepidon! - Taiko Oni\]](/beatmapsets/15893#taiko/57311)
+  - [NAOKI feat. SMiLE.dk - A Geisha's Dream (youngtw123) \[Taiko Oni\]](/beatmapsets/28766#taiko/103398)
+  - [NieN - Mellow D Fantasy (MoonFragrance) \[Taiko\]](/beatmapsets/23521#taiko/82114)
+  - [Noisestorm - Solar (Shiirn) \[Hikato's Taiko Oni\]](/beatmapsets/33483#taiko/110219)
+  - [REDALiCE - Selfish (happy30) \[Taiko Oni\]](/beatmapsets/28060#taiko/105713)
+  - [Ryu\* - Second Heaven (dksslqj) \[NTK Taiko Oni\]](/beatmapsets/25498#taiko/90894)
+  - [sampling masters MEGA - dance storm (lepidopodus) \[Oni (Ura)\]](http://puu.sh/eogv)
+  - [Silver Forest - Kero (9) Revolution Final Battle (Kalypso) \[Taiko\]](/beatmapsets/20795#taiko/73885)
+  - [Tatsh feat. Tsukiko - Floating Darkness... (Natteke) \[Climbb's Taiko Oni\]](/beatmapsets/22173#taiko/83353)
+  - [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](/beatmapsets/20005#taiko/72069)
 - Tiebreaker
-  - [Cait Sith - Schrodinger's Cat (Sushi) [Taiko Oni]](/beatmapsets/36409#taiko/117642)
+  - [Cait Sith - Schrodinger's Cat (Sushi) \[Taiko Oni\]](/beatmapsets/36409#taiko/117642)
 
 ------------------------------
 
@@ -524,7 +524,7 @@ Usually your team has one match per a week.
 5. When the game ends, referee will save screencshot for the result screen, and post it to this thread when the match ends.
 6. Captain of the blue team will give host to captain of the red team and the rest is same as 4 and 5.
     - In final game, referee will become host and select the map to play.
-7. Repeat 4~6 until winner is decided.
+7. Repeat 4\~6 until winner is decided.
 8. In Group stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
     - From semi-final round, you have to win 5 games first.
 
