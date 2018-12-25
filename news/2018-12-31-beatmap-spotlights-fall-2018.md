@@ -116,7 +116,7 @@ A very well-deserved first spot for this season's Spotlight!
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/taiko/sayonara.jpg)](http://osu.ppy.sh/beatmapsets/765430)
 
-Our runner-up mapset for this season, Chroma's "Sayonara Planet Wars" single-handedly mapped by [Greenshell](https://osu.ppy.sh/users/8693851) sure was a strong contender. Featuring one of the best (and nowadays, quite rare to find) lower difficulties in the sense that, while following the current criterias, it doesn't lose its identity at all, to the point you could recognize what song is playing behind this rather unique mapping.
+Our runner-up mapset for this season, Chroma's "Sayonara Planet Wars" single-handedly mapped by [Greenshell](https://osu.ppy.sh/users/8693851) sure was a strong contender. Featuring one of the best (and nowadays, quite rare to find) lower difficulties in the sense that, while following the current criteria, it doesn't lose its identity at all, to the point you could recognize what song is playing behind this rather unique mapping.
 
 In addition, we've got this really fun top difficulty that stands in here to tell us that, in a world ruled by techy 1/4+1/6 maps and speed maps, stream maps can still be quite fun and a worthy challenge even for the best of us.
 This entire mapset holds quite its value in there and we hope all of you can get a pleasant time while trying to get some points out of this set!
