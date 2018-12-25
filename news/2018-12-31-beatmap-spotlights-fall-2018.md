@@ -201,7 +201,7 @@ An incredibly challenging set to play: Sota Fujimori's "Wobble Impact" is a song
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/catch/blonde-girl.jpg)](http://osu.ppy.sh/beatmapsets/715066)
 
-If you like energetic songs, then this is your perfect fit! JENNY ROM's "WWW&#46;BLONDE GIRL" mapped by [Ascendance](https://osu.ppy.sh/users/2931883) brings the upbeat vibe with the song. With multiple guest difficulties, players can enjoy multiple interpretations of the song. On a side note, make sure to check out the background on Spec's Challenge!
+If you like energetic songs, then this is your perfect fit! JENNY ROM's "WWW<i></i>&#46;BLONDE GIRL" mapped by [Ascendance](https://osu.ppy.sh/users/2931883) brings the upbeat vibe with the song. With multiple guest difficulties, players can enjoy multiple interpretations of the song. On a side note, make sure to check out the background on Spec's Challenge!
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/catch/dearest.jpg)](http://osu.ppy.sh/beatmapsets/842871)
 
