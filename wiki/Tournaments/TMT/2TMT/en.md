@@ -15,7 +15,7 @@ The **2v2 :thonking: Mania Tournament** (***2TMT***) was a two-on-two team based
 | --: | :-- |
 | Registration Phase | 2018-10-11/2018-11-03 |
 | Live Drawings | 2018-11-03 (13:00 UTC) |
-| Qualifiers | 2018-10-11/2018-11-11 |
+| Qualifiers | 2018-11-10/2018-11-11 |
 | Round of 32 | 2018-11-17/2018-11-18 |
 | Round of 16 | 2018-11-24/2018-11-25 |
 | Quarterfinals | 2018-12-01/2018-12-02 |
@@ -131,7 +131,7 @@ This competition has come to an end and resulted in the following podium:
   - [sakuzyo - Black Lair (RemFangirl) \[Depths\]](/beatmapsets/892746#mania/1866053)
   - [Puru - Grimheart (zero2snow) \[unstable\]](/beatmapsets/706388#mania/1493706)
 - Tiebreaker
-  - [Camellia - Introduction / Quicksand (Curiossity) \[Confined\]](/beatmapsets/794638#mania/1669050)
+  - **[Camellia - Introduction / Quicksand (Curiossity) \[Confined\]](/beatmapsets/794638#mania/1669050)**
 
 ### Finals
 
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
   - [Silentroom - NULCTRL (Janko) \[SILENT\]](/beatmapsets/874723#mania/1828104)
   - [Daisuke Tanabe - Ghost (PotassiumF) \[disorienting\]](/beatmapsets/780635#mania/1639702)
 - Tiebreaker
-  - [AAAA - Hoshi o Kakeru Adventure - we are forever friends! \[Long ver.\] (Eclipse-) \[generic diffname\]](/beatmapsets/759341#mania/1596986)
+  - **[AAAA - Hoshi o Kakeru Adventure - we are forever friends! \[Long ver.\] (Eclipse-) \[generic diffname\]](/beatmapsets/759341#mania/1596986)**
 
 ### Semifinals
 
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
   - [C418 - Sweden (Couil) \[sphere\]](/beatmapsets/815908#mania/1711121)
   - [Lockyn - Lockout (IceDynamix) \[sv\]](/beatmapsets/843730#mania/1765165)
 - Tiebreaker
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](/beatmapsets/805341#mania/1690577)
+  - **[Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](/beatmapsets/805341#mania/1690577)**
 
 ### Quarterfinals
 
@@ -194,7 +194,7 @@ This competition has come to an end and resulted in the following podium:
   - [AAAA Chazuke - Hop Step Adventure\* (Dreamwalker) \[Insane\]](/beatmapsets/574576#mania/1216879)
   - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](/beatmapsets/615707#mania/1298710)
 - Tiebreaker
-  - [Camellia - Primitive Pump (Dragolord) \[Ancient\]](/beatmapsets/853247#mania/1827280)
+  - **[Camellia - Primitive Pump (Dragolord) \[Ancient\]](/beatmapsets/853247#mania/1827280)**
 
 ### Round of 16
 
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
   - [Vospi - roboposition!! (arviejhay) \[4K HD\]](/beatmapsets/164310#mania/400180)
   - [brothel. - timmy. (Nick Wilde) \[notitle.\]](/beatmapsets/697911#mania/1478256)
 - Tiebreaker
-  - [Chroma - Hoshi ga Furanai Machi (Guilhermeziat) \[Shooting Stars\]](/beatmapsets/749408#mania/1578514)
+  - **[Chroma - Hoshi ga Furanai Machi (Guilhermeziat) \[Shooting Stars\]](/beatmapsets/749408#mania/1578514)**
 
 ### Round of 32
 
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
   - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](/beatmapsets/824249#mania/1727090)
   - [Redemptive - Adrenaline (Nick Wilde) \[insane\]](/beatmapsets/837456#mania/1772478)
 - Tiebreaker
-  - [PrototypeRaptor - Color Galaxy (Parachor) \[Andromeda\]](/beatmapsets/490702#mania/1045834)
+  - **[PrototypeRaptor - Color Galaxy (Parachor) \[Andromeda\]](/beatmapsets/490702#mania/1045834)**
 
 ### Qualifiers
 
