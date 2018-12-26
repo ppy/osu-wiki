@@ -67,7 +67,7 @@ Featuring a song from the quirky Internet star Poppy's "I'm Poppy", [Myxomatosis
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/osu/uchuujin.jpg)](https://osu.ppy.sh/beatmapsets/670449)
 
-[Net0](https://osu.ppy.sh/users/5099768) beautifully portrays the story behind Utsu-P's "Uchuujin no I Love You" through his various strucutral and rhythm choices, leaving the player with a bizzare, yet unique play experience. His combo colors and [Noffy](https://osu.ppy.sh/users/1541323)'s storyboard visuals align together beautifully to help tell the story. That, combined with his various contrasts in intensity and use of repetitive slider shapes during the chorus shows a close attention to detail. If you think you have an eye for song representation and thought-provoking maps, sit back and enjoy [Net0](https://osu.ppy.sh/users/5099768)'s Uchuujin no I Love You!
+[Net0](https://osu.ppy.sh/users/5099768) beautifully portrays the story behind Utsu-P's "Uchuujin no I Love You" through his various structural and rhythm choices, leaving the player with a bizarre, yet unique play experience. His combo colors and [Noffy](https://osu.ppy.sh/users/1541323)'s storyboard visuals align together beautifully to help tell the story. That, combined with his various contrasts in intensity and use of repetitive slider shapes during the chorus shows a close attention to detail. If you think you have an eye for song representation and thought-provoking maps, sit back and enjoy [Net0](https://osu.ppy.sh/users/5099768)'s Uchuujin no I Love You!
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/osu/kimi-no-gin.jpg)](https://osu.ppy.sh/beatmapsets/876259)
 
@@ -185,7 +185,7 @@ Truly, we won't just be on the "Border of extacy", we'll be thoroughly engulfed 
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/catch/salvation.jpg)](http://osu.ppy.sh/beatmapsets/840189)
 
-One of the most well-known mappers, [alienflybot](https://osu.ppy.sh/users/636114), once again brought excellence as well as challenges to fruit-enthusiaists, with his new marathon map on Yooh's "salvation". Combining aesthetics with intensive hyperdashes, anti-flows and occasional edge jumps, the map well expresses how this epic song goes from calm to hectic. If you are confident about your stamina and precision, this map would surely be the one you don't want to miss!
+One of the most well-known mappers, [alienflybot](https://osu.ppy.sh/users/636114), once again brought excellence as well as challenges to fruit-enthusiasts, with his new marathon map on Yooh's "salvation". Combining aesthetics with intensive hyperdashes, anti-flows and occasional edge jumps, the map well expresses how this epic song goes from calm to hectic. If you are confident about your stamina and precision, this map would surely be the one you don't want to miss!
 
 [![](/wiki/shared/news/2018-12-31-beatmap-spotlights-fall-2018/catch/dorchadas.jpg)](http://osu.ppy.sh/beatmapsets/812855)
 
