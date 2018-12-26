@@ -25,14 +25,14 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu!taiko World Cup winners. It is possible that these items change with every installment of the osu!taiko World Cup.
+In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Taiko World Cup 2012 winners. It is possible that these items change with every installment of the osu!taiko World Cup.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter |
-| *Special* | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag, profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| *Special* | 1 month of osu!supporter tag |
 
 ## Organisation
 
