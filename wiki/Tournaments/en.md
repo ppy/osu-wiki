@@ -96,7 +96,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| osu! Tag Team Multiplayer Tournament | 2009-06-12 | 2009-09-06 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
+| [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/oTTMT/1) | 2009-06-12 | 2009-09-06 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
 
 ### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
 
