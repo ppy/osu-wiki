@@ -358,7 +358,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml#)
+Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml#).
 
 ------------------------------------------------------------------------
 
@@ -392,7 +392,7 @@ The Double Elimination stages will proceed as follow:
 - When both teams are in the room, the match will start on the scheduled time.
 - If a player/team is missing, a 10 minutes timer will be created, and the incomplete team will lose by default if the timer runs out.
 - If both teams are incomplete after the timer, the team with more members will win by default (e.g. 1v0). Should there be no players online for either team, both teams are to reschedule to a time within the week to play, else eliminated.
-- When the match starts, both team representatives will do a !roll to determine the match order, the team with the highest roll will get first warmup, second ban and first pick..
+- When the match starts, both team representatives will do a !roll to determine the match order, the team with the highest roll will get first warmup, second ban and first pick.
 - The warmup must be downloadable with osu!direct, 4 keys and be no longer than 5 minutes.
 - After the warmups, teams will have 1 ban of any map (excluding Tiebreaker).
 - After bans, teams will pick maps alternating with each other until on player reach the required amount of points to win the match.

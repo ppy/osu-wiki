@@ -1,4 +1,4 @@
-# Taiko Suiji Cup
+# :thonking: Mania Tournament
 
 Index page for all of the :thonking: Mania Tournament series.
 
