@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: December 2018"
-date: 2018-12-23 09:00:00 +0000
+date: 2018-12-27 12:00:00 +0000
 ---
 
 Behold, the Christmas gift of mapping and modding news for all! With major changes to the Quality Assurance Team on the horizon, what will the final days of 2018 bring as a new dawn prepares to rise?
@@ -78,6 +78,6 @@ This brings us to the end of this month’s news, (almost) the end of the year, 
 
 Contributing to the Gazette as both a writer and editor over the past two years has been a great pleasure, and I will sorely miss being able to communicate with you all as we share occasions both exciting and intriguing, happy and sad. I have loved watching on as osu! and its community has continued to grow, evolve, and achieve truly great things together over my time here, and I sincerely hope that 2019 brings more of the same!
 
-To all a Merry Christmas, and a Happy New Year!
+I hope you all had a very Merry Christmas, and wishing the best for a Happy New Year!
 
 –JBHyperion
