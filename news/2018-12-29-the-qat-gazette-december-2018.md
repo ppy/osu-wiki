@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: December 2018"
-date: 2018-12-29 09:00:00 +0000
+date: 2018-12-29 14:00:00 +0000
 ---
 
 Behold, the Christmas gift of mapping and modding news for all! With major changes to the Quality Assurance Team on the horizon, what will the final days of 2018 bring as a new dawn prepares to rise?
@@ -52,7 +52,7 @@ Before we get stuck in however, please give a show of appreciation for current Q
 
 As mentioned several times in this article already, significant changes could be just on the horizon for the Quality Assurance Team, which may drastically change how we operate in the future. You can find more details on this announcement and the reasons for it in the Development forum, where [discussions towards multiple osu!team and community proposals](https://osu.ppy.sh/community/forums/topics/842601) are currently taking place.
 
-The first of these changes has been one of leadership, with [-Mo-](https://osu.ppy.sh/u/2202163) replacing myself as QAT Leader, alongside the continuing [Mao](https://osu.ppy.sh/users/2204515). Whilst I have thoroughly enjoyed my time at the head of the QAT, my free time available for osu! has been reduced considerably over the past few months, and I no longer feel I can properly fulfil the expectations of my role, or the community who elected me to it. On a positive note, new faces provide the potential for new direction, so please support -Mo- warmly as he settles into the challenge of management!
+The first of these changes has been one of leadership, with [-Mo-](https://osu.ppy.sh/users/2202163) replacing myself as QAT Leader, alongside the continuing [Mao](https://osu.ppy.sh/users/2204515). Whilst I have thoroughly enjoyed my time at the head of the QAT, my free time available for osu! has been reduced considerably over the past few months, and I no longer feel I can properly fulfil the expectations of my role, or the community who elected me to it. On a positive note, new faces provide the potential for new direction, so please support -Mo- warmly as he settles into the challenge of management!
  
 One key aspect of these changes is that the base proposal was intentionally "vague", in an effort to encourage community discussion and the generation of fresh ideas. When it comes to shaping the future of the osu! mapping and modding scene, there's perhaps never been a better time than right now to make your voice heard! If you feel you have a great idea, or the drive to help others realise theirs, head on over to the above-mentioned proposals and get discussing!
 
