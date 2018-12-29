@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-|  |  |  |  |
+| Sunday, 2009-09-06 |  |  |  |
 | --: | :-: | :-: | :-- |
 | Lubimy Ponczgi! | 1 | **3** | **Animalz D:** |
 
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 - The team can't have more then 2 players. you are NOT allowed to replace anyone after you have signed up with your team.
 - When battling another team, you need to have 2 players playing.
 
-Your team and the team you are facing have a 7 day limit to finish your game
+Your team and the team you are facing have a 7 day limit to finish your game.
 
 Breaking any of these rules will lead to disqualification.
 
@@ -260,7 +260,7 @@ Name:
 Timezone:
 ```
 
-Example for *Wildcard*
+Example for *Wildcard*:
 
 ```
 Name: Gabi
