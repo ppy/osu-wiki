@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of December 30th"
-date: 2018-12-31 05:00:00 +0000
+date: 2018-12-31 13:00:00 +0000
 ---
 
 The year's coming to an end, but there's always time for [Project Loved](https://osu.ppy.sh/community/forums/120)! Check out the newest selection of maps, and vote for the ones that you'd like to see in the Loved category!
