@@ -64,9 +64,9 @@ A tribute to older styles of maps, MiKUSABBATH's style is clean, yet it's easy t
 
 Those who follow Project Loved will recognize this title from a previous map covered by "nameless" that was Loved back in November. This time we have the original by PinocchioP. Dating back to 2016, this map by Nattu was the first to gain the song popularity throughout the community with help from being featured in HappyStick's Summer Tour map pool. With over 120 favorites, it made a name for itself as a challenging alternating styled map for players to practice on while listening to some good tunes.
 
-[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/genesis-of-aquarion.jpg)](https://osu.ppy.sh/community/forums/topics/849041)
+[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/sousei-no-aquarion.jpg)](https://osu.ppy.sh/community/forums/topics/849041)
 
-[Sousei no Aquarion - Genesis of Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)  
+[chum - Sousei no Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Although this map remains unfinished months after its submission, it's gained massive popularity after many top players such as Toy, Mathi, and NerO were seen making FCs on the map over the past year. Today, it is seen as a quick way to practice and test player's technical streaming abilities as the map contains many patterns that require players to snap while maintaining full control of their cursor. With over 110 favorites, check out the map and vote for its place in Project Loved!
