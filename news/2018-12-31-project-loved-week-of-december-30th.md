@@ -45,14 +45,14 @@ You can only go right with this one. The map from Hikaru Rose is a truly great a
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/kyoumei-no-true-force.jpg)](https://osu.ppy.sh/community/forums/topics/849038)
 
-[Hitomi Harada - Kyoumei No True Force](https://osu.ppy.sh/beatmapsets/315159#osu) by [Asphyxia](https://osu.ppy.sh/users/1715720)  
+[Harada Hitomi - Kyoumei no True Force](https://osu.ppy.sh/beatmapsets/315159#osu) by [Asphyxia](https://osu.ppy.sh/users/1715720)  
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 A true classic, Asphyxia's Kyoumei No True Force has weathered the storm and continues to this day to be a clean yet testing map that nearly everyone has seen or played before. Being mostly aim focused, its star rating is deceiving, and with the difficulty creeping up as the map plays out you might find yourself pushing the limits of your abilities as you near the marathon's end. With 70 favourites, I'm sure you'll enjoy it too, regardless of whether you're playing it for the first or even the tenth time.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/mikusabbath.jpg)](https://osu.ppy.sh/community/forums/topics/849039)
 
-[utsuP - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by [Kuron-kun](https://osu.ppy.sh/users/2697284) and [Tarrasky](https://osu.ppy.sh/users/4098393)  
+[Utsu-P - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by [Kuron-kun](https://osu.ppy.sh/users/2697284) and [Tarrasky](https://osu.ppy.sh/users/4098393)  
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 A tribute to older styles of maps, MiKUSABBATH's style is clean, yet it's easy to find patterns inspired by older creations. Squares are scattered throughout, and with few streams this is another aim test yet with a different feel and flow. A lower difficulty by Tarrasky is included with an even older style yet still producing the same nostalgic feeling, and when combined with this banger of a song, the set produces a feeling best appreciated by experiencing it yourself. What are you waiting for? Give it a go!
@@ -66,14 +66,14 @@ Those who follow Project Loved will recognize this title from a previous map cov
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/genesis-of-aquarion.jpg)](https://osu.ppy.sh/community/forums/topics/849041)
 
-[chum - Genesis of Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)  
+[Sousei no Aquarion - Genesis of Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Although this map remains unfinished months after its submission, it's gained massive popularity after many top players such as Toy, Mathi, and NerO were seen making FCs on the map over the past year. Today, it is seen as a quick way to practice and test player's technical streaming abilities as the map contains many patterns that require players to snap while maintaining full control of their cursor. With over 110 favorites, check out the map and vote for its place in Project Loved!
 
-[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/lunar-11-3-candle-magic.jpg)](https://osu.ppy.sh/community/forums/topics/849042)
+[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/getsurei-11-3-no-candle-magic.jpg)](https://osu.ppy.sh/community/forums/topics/849042)
 
-[Shibayan feat. 3L - Lunar 11.3 Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by [11t](https://osu.ppy.sh/users/2112092), [10nya](https://osu.ppy.sh/users/678794) and [OnosakiHito](https://osu.ppy.sh/users/290128)  
+[Shibayan feat. 3L - Getsurei 11.3 no Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by [11t](https://osu.ppy.sh/users/2112092), [10nya](https://osu.ppy.sh/users/678794) and [OnosakiHito](https://osu.ppy.sh/users/290128)  
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
 If it was up to me, this set would've been ranked a long time ago. Sadly, there's no way of that happening ever as 11t is no longer with us, and thus I feel like it's in my duty as a community member and a Loved captain to use my power so maps like this don't go unnoticed and fall into the pit of forgetfulness forever.
@@ -82,9 +82,9 @@ Now, let's get to the map! Lunar 11.3 Candle Magic is another profound project o
 
 The storyboard for the map is one of the first of this genre. It may not be as intricate as aforementioned EOS or Okaerinasai, but it still does a great job at what it's supposed to do and is overall a great pleasure to watch and play.
 
-[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/the-hollywood-bowl.jpg)](https://osu.ppy.sh/community/forums/topics/849043)
+[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/tom-and-jerry-in-the-hollywood-bowl.jpg)](https://osu.ppy.sh/community/forums/topics/849043)
 
-[Scott Bradley - The Hollywood Bowl](https://osu.ppy.sh/beatmapsets/490101#osu) by [IwanWenChoong](https://osu.ppy.sh/users/5814341)  
+[Scott Bradley - Tom and Jerry In The Hollywood Bowl](https://osu.ppy.sh/beatmapsets/490101#osu) by [IwanWenChoong](https://osu.ppy.sh/users/5814341)  
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
 Ever wanted to enjoy some great orchestral music while simultaneously watching a classic Tom & Jerry segment while simultaneously clicking circles to the beat? Look no further fam, we've got you. This map by IwanWenChoong is an experience unlike any other. The amount of work put by this man solely to time this piece can be counted in hours (contains 500+ unique timing sections with varying BPMs), not to mention mapping the entire 7-minute thing!
@@ -120,7 +120,7 @@ Good Bye, Mr. Jack is our first pick for the week, featured in the osu!taiko Wor
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/shinbatsu-o-tadori-kyoukotsu-ni-itaru.jpg)](https://osu.ppy.sh/community/forums/topics/849026)
 
-[Imperial Circus Dead Decadence - Shinbatsu o Tadori KyouKotsu ni Itaru](https://osu.ppy.sh/beatmapsets/497912#taiko) by [shinchikuhome](https://osu.ppy.sh/users/3174184)  
+[Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru](https://osu.ppy.sh/beatmapsets/497912#taiko) by [shinchikuhome](https://osu.ppy.sh/users/3174184)  
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Secondly, we brought Shinbatsu o Tadori KyouKotsu ni Itaru, as we were really hyped by the possible addition of Imperial Circus Dead Decadence to the Featured Artists. shinchikuhome's map is a solid proof that a great player can make a great map, and what a way to do it: this streamy 250 BPM map can look very innocent, sure, we have a lot of streamy maps with even higher BPM, how much damage could a 250 BPM song do?... well, a lot. Between its solid patterns and the song length, this really is a stamina drainer like no other, so be adviced and make sure to warm up before tackling this one down.
@@ -156,14 +156,14 @@ osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/anti-the-infinite-holic.jpg)](https://osu.ppy.sh/community/forums/topics/849022)
 
-[cosMo@BousouP & GAiA - ANTI THE infinite HOLiC](https://osu.ppy.sh/beatmapsets/700321#fruits) by [Memoriola](https://osu.ppy.sh/users/6856387)  
+[cosMo@BousouP - ANTI THE Infinite HOLIC](https://osu.ppy.sh/beatmapsets/700321#fruits) by [Memoriola](https://osu.ppy.sh/users/6856387)  
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 This aspire-like map by Memoriola (also known by their previous name OneLoveOneLife) is particularly interesting because of the sheer amount of creativity. You will encounter a lot of patterns which are very uncommon for osu!catch, but on the other hand make this map as interesting as it is. The craziness of the mapping fits well to the craziness of the song. It's certainly a unique experience—but it is definitely not easy to play. It challenges your speed and platter control and paired with the higher AR it also becomes a reading test. Good luck; you'll need it!
 
-[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/magus-night-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849023)
+[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/magus-night-hyuji-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849023)
 
-[Hyuji - Magus Night Remix](https://osu.ppy.sh/beatmapsets/659926#fruits) by [[\_-Kukkai-\_]](https://osu.ppy.sh/users/7811952)  
+[Hyuji - Magus Night (Hyuji Remix)](https://osu.ppy.sh/beatmapsets/659926#fruits) by [[\_-Kukkai-\_]](https://osu.ppy.sh/users/7811952)  
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
 Entering the Loved section for the first time is [\_-Kukkai-\_]! With an arsenal of underappreciated maps in his graveyard, Magus Night remix is one of his most favourited maps and showcases the tough but fun to play mapping style of [\_-Kukkai-\_] the best. With a variety of streams and jumps this map feels very adequate in terms of difficulty, without any kind of overly difficult patterns that don't make sense music-wise.
@@ -184,7 +184,7 @@ Starting us off in the mania Loved nominations will be XeoStyle returning with h
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/peter-on-crack.jpg)](https://osu.ppy.sh/community/forums/topics/849014)
 
-[Fele - Peter on Crack](https://osu.ppy.sh/beatmapsets/631020#mania) by [Jole](https://osu.ppy.sh/users/2883132)
+[FELE - Peter on crack](https://osu.ppy.sh/beatmapsets/631020#mania) by [Jole](https://osu.ppy.sh/users/2883132)
 
 Originally on pace to be ranked, Peter on Crack is a marathon map designed by none other than the legend himself—Jole! This is an even longer version of the chart used for the osu!mania 4K World Cup 2017 Semi-Finals pool, which not only increases the arduous dial but has patterning that's even trickier by comparison. With 33 favourites at time of writing, we thought we'd give it a crack at putting it up for this week's Loved vote.
 
@@ -196,13 +196,13 @@ Loved veteran Shoegazer and protégé Vortex- combine efforts for the next set b
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/big-brother.jpg)](https://osu.ppy.sh/community/forums/topics/849016)
 
-[Susumu Hirasawa - Big Brother](https://osu.ppy.sh/beatmapsets/500824#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)
+[KAKU P-MODEL - Big Brother](https://osu.ppy.sh/beatmapsets/500824#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)
 
 If you are looking for a challenge, you need look no further than Big Brother, a very difficult chart created by Wh1teh. The difficulty of the chart comes largely from dense, awkwardly patterned bursts in the choruses that can trip up even the best players. Used in previous tournaments and briefly in a skill course, this challenge has been made clear to many high-level players and its use as an effective skill-tester is a good point of support for its nomination to the Loved section.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/you-i.jpg)](https://osu.ppy.sh/community/forums/topics/849019)
 
-[IU - You & I](https://osu.ppy.sh/beatmapsets/376826#mania) by [moni](https://osu.ppy.sh/users/1750531)
+[IU - YOU&I](https://osu.ppy.sh/beatmapsets/376826#mania) by [moni](https://osu.ppy.sh/users/1750531)
 
 The last time we saw moni get a chart in Loved was almost two years ago, back before Project Loved even existed! Now they're finally back with You & I, consisting of both 4K and 7K difficulties. Both difficulties are layered fairly similarly, targeting a multitude of different LN skill sets, whether it be releases, streams, or even inverse at times. Plus, the patterns get progressively denser throughout the song, making this a much more engaging mapset. The featured pattern usage, competitive viability, and general popularity of this set makes it a good indicator of LN skill and a good fit for a Project Loved nomination.
 
@@ -212,9 +212,9 @@ The last time we saw moni get a chart in Loved was almost two years ago, back be
 
 pporse makes it back for Loved voting once again with his chart AMAZING BREAK. This chart mainly features varying chordstreams at 153 BPM. What make this a chart worthy of going up for loved is its interesting usage of LNs, jacks, 1/6th streams, and SVs. All of these components lead up to a climactic ending section which will test the players abilities in all these skill sets. If you want an amazing experience, this chart is worth checking out!
 
-[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/otenba-renjyo.jpg)](https://osu.ppy.sh/community/forums/topics/849018)
+[![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/otenba-koimusume.jpg)](https://osu.ppy.sh/community/forums/topics/849018)
 
-[Touhou Gensou Shiten 2"Canon" - Otenba Renjyo](https://osu.ppy.sh/beatmapsets/381363#mania) by [tangjinxi](https://osu.ppy.sh/users/2270126)
+[Kurenainagi Tabibito - Otenba Koimusume](https://osu.ppy.sh/beatmapsets/381363#mania) by [tangjinxi](https://osu.ppy.sh/users/2270126)
 
 People have been asking for a **while** about when tangjinxi was going to get a map nominated, so we figured this would be a great start for that. Otenba Renjyo is a very dense LN pick that primarily focuses on LN chordstreams... and when I say dense, I mean it. This chart comes in at 8.34 stars, and doesn't let down. Outside of a break period in the middle and a few bursts towards the end, it strictly keeps up dense LN chordstreams. Whether you're an adept LN player able to play this chart to practice accuracy, or an up-and-coming player trying to climb through difficult LN charts to improve your skill, Otenba Renjyo serves as a great benchmark to help quantify your LN skill thanks to its consistency.
 
