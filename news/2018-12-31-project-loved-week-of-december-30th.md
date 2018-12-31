@@ -146,7 +146,7 @@ We all know tasuke912 as one of the best mappers last year, and here he makes hi
 [katagiri - Heisei Memehunters](https://osu.ppy.sh/beatmapsets/792971#taiko) by [hoku](https://osu.ppy.sh/users/9503098) and [KitajimaYN](https://osu.ppy.sh/users/2250574)  
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Even though Legless is more or less a novice mapper, his Heisei Memehunters can become truly a fun experience, especially on sightread: with multiple snapped patterns and a few ninja notes here and there, it keeps you on your toes most the time, while also being relatively straining if you're not too used to high BPMs. As a side note, this was featured in the Quarterfinals of Taiko World Cup: Last Man Standing Shift as an EXTRA pick, so it is very likely that you have played this before as this stands as one of the most picked maps of the round. It's a great mashcore song, has great well-balanced patterns and I think it's a great choice for this week's Loved cycle!
+Between the vast mapping experience of KitajimaYN and the great understanding of the game mode hoku shows in their Heisei Memehunters, you can already start to expect a well designed and fun map. This map shows an excellent control over density and where exactly to go ham on it, as well as a impeccable flow-based mapping style, being KitajimaYN's trademark. The streams of this map truly meet all expectations and are so carefully placed that the map as a whole makes a lot of sense: I think it'd truly be a great addition to the Loved section!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
