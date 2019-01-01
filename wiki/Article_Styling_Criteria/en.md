@@ -153,7 +153,7 @@ Do not: all this with more transparency&#x99; than ever before!
 Do:     all this with more transparency™ than ever before!
 ```
 
-### Raw text editing
+### Editing
 
 #### Escaping
 
@@ -179,7 +179,7 @@ This can be as small as changing the cursor or as big as redoing the appearances
 
 ---
 
-Adding more empty lines afterwards will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. For example:
+Adding more empty lines in between will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. For example, the following code will be parsed like the one above:
 
 ```
 Skinning allows anyone to change the way osu! looks and feels.
@@ -707,15 +707,11 @@ Adding additional hyphens to this markup will only affect osu! wiki editors.
 
 ## Grammar
 
-All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
-
-All English articles must follow the following rules.
+All English articles must use plain English and follow the following rules.
 
 ### British English
 
-In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
-
-For example, use:
+In the case where variants of English spellings conflict, prefer the British English spelling. For example, use:
 
 - `colour` instead of `color`
 - `centre` instead of `center`
@@ -757,7 +753,7 @@ User titles that include `osu!` as part of the title name must be capitalised. E
 
 <!-- Ephemeral ruled to use a full stop. in:osu-wiki during:2018-05-30 from:ephemeralis#0001 stop -->
 
-Try to avoid letting the word `osu!` end the sentence. If you are unable to rewrite it, then use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`). For example:
+Avoid letting the word `osu!` end the sentence. If you are unable to rewrite it, then use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`). For example:
 
 ```
 Avoid: peppy created osu!.
@@ -765,7 +761,7 @@ Avoid: peppy created osu!.
 Do:    osu! was created by peppy.
 ```
 
-Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (i.e. `osu!!`). You will need to restructure the sentence or the paragraph to ensure that this will never occur.
+Never end a sentence with `osu!` and have it followed by an exclamation mark (`!`) (i.e. `osu!!`). You must restructure the sentence or the paragraph to ensure that this will never occur.
 
 ### Capitalisation
 
@@ -779,7 +775,7 @@ The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Inter
 
 #### Game modifiers
 
-Game modifiers should have the word `mod` after the mod name to reduce ambiguity. These must be spelt as seen below (note the letter casing and spacing):
+Game modifiers must have the word `mod` after the mod name to reduce ambiguity. These must be spelt as seen below (letter casing and spacing must match):
 
 - `Easy` or `EZ`
 - `No Fail` or `NF`
@@ -807,7 +803,7 @@ Game modifiers should have the word `mod` after the mod name to reduce ambiguity
 
 ---
 
-Tournament articles are an exception to this and can use camel case (omit the space but keep their letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below:
+Tournament articles are an exception to this and can use camel case (omit the space but keep the letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below (letter casing and spacing must match):
 
 - `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
 - `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
@@ -831,7 +827,7 @@ The `#spanish` chat channel are for those who speak Spanish.
 
 #### Proper nouns
 
-Proper nouns must almost always be first-letter capitalised. For example:
+Proper nouns must be first-letter capitalised. For example:
 
 ```
 Dean Herbert (also known as peppy) created osu!.
@@ -855,7 +851,7 @@ Never use the trademark nor registered trademark symbols with trademarks.
 
 ### Game modes
 
-<!-- ppy ruled to keep using osu!standard until a new term. in:#osu-wiki from:ppy#0001 during:2017-07-12 osu!standard -->
+<!-- ppy ruled to keep using osu!standard until a new term is coined. in:#osu-wiki from:ppy#0001 during:2017-07-12 osu!standard -->
 
 When writing the name of the game modes, they must be written as follows:
 
@@ -864,13 +860,13 @@ When writing the name of the game modes, they must be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-*Notice: To maintain consistency, use `osu!standard` when referring to the game mode. Folder names, however, must use `osu!` (not `osu!standard`) even if it is referring to the game mode.*
+*Notice: To maintain consistency, use `osu!standard` when referring to the game mode. Folder names, however, must use `osu!` even if it is referring to the game mode.*
 
 You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
 ### Terminology
 
-These words are spelt as follows (note the spacing):
+These words are spelt as follows (spacing must match):
 
 - `approach circles`
 - `game mode` (or `mode`)
@@ -915,17 +911,17 @@ Use `e.g.` when initialising "for example" and use `i.e.` for "that is".
 
 ---
 
-Avoid pluralising abbreviations, acronyms, and/or initialisms. If needed however, reword the sentence. For example:
+Avoid pluralising abbreviations, acronyms, and/or initialisms; the sentence should be rephrased to avoid this. For example:
 
 ```
-Do not: BNs can nominate your beatmapset.
+Avoid: BNs can nominate your beatmapset.
 
-Do:     Members of the Beatmap Nominators can nominate your beatmapset.
+Do:    Members of the Beatmap Nominators can nominate your beatmapset.
 ```
 
 ### Date formatting
 
-Since many regions use different date and time formats, the osu! wiki will only use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
+The osu! wiki will use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
 
 - `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
 - `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
@@ -968,7 +964,7 @@ Do:     09:09 UTC+7
 Do:     07:15 UTC-4
 ```
 
-`UTC` (without an offset) is implied to be `UTC+0`. You may use either one, but must be consistent. When writing out `UTC+0`, you must use a plus symbol (`+`), not a hyphen (`-`).
+`UTC` (without an offset) is implied to be `UTC+0`. You may use either one, but be consistent. When writing out `UTC+0`, you must use a plus symbol (`+`), not a minus symbol (`-`).
 
 ### Date and time formatting
 
