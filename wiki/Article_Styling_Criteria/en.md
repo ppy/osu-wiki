@@ -159,10 +159,10 @@ Do:     all this with more transparency™ than ever before!
 
 *Notice: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
 
-Any Markdown syntax that is not used to format text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
+Escape Markdown syntax when needed. For example:
 
 ```md
-The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
+The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the #1 osu!taiko player of Japan!
 ```
 
 The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
