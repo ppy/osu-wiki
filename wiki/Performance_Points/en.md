@@ -87,7 +87,7 @@ This means that only your highest pp score will award the full amount of pp for 
 
 To provide an example of this with a mathematical formula:
 
-Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the _i_th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
+Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the *i*th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
 
 ```Total pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
 
