@@ -191,18 +191,18 @@ This can be as small as changing the cursor or as big as redoing the appearances
 
 Using multiple empty lines is not allowed in the osu! wiki, as it is parsed as if it were a single empty line.
 
----
+#### Soft breaks
 
-<!-- ppy ruled multi-line paragraphs are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
+<!-- ppy ruled soft breaks are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
-If an empty line is not present between two lines, the two lines will merge into one. For example:
+If an empty line is not present between two lines (also known as a soft break, henceforth), the two lines will merge into a single paragraph. For example:
 
 ```
 Skinning allows anyone to change the way osu! looks and feels.
 This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 ```
 
-Placing two or more sentences underneath one another without an empty line in between is not allowed in the osu! wiki.
+Using soft breaks is not allowed in the osu! wiki.
 
 #### Whitespace
 
