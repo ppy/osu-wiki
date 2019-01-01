@@ -33,7 +33,7 @@ Images are cached for up to two hours.
 
 ### News posts
 
-News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a pull request to fix it then tell Ephemeral (`ephemeralis#0001`) or Shiro (`Shiro#1584`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
+News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a new pull request to fix it then ask ppy (`ppy#0001`), Ephemeral (`ephemeralis#0001`), Shiro (`Shiro#1584`), or MillhioreF (`Millhi#0089`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
 
 ## Licence
 
