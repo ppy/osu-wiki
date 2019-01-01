@@ -866,6 +866,8 @@ When writing the name of the game modes, they must be written as follows:
 
 You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
 
+Articles that are more official, e.g. [Ranking Criteria](/wiki/Ranking_Criteria), may use `osu!` instead of `osu!standard`.
+
 ### Terminology
 
 These words are spelt as follows (spacing must match):
