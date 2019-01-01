@@ -179,7 +179,7 @@ This can be as small as changing the cursor or as big as redoing the appearances
 
 ---
 
-Adding more empty lines in between will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. For example, the following code will be parsed like the one above:
+Adding more empty lines in between will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. Doing this is not allowed in the osu! wiki. For example:
 
 ```
 Skinning allows anyone to change the way osu! looks and feels.
@@ -189,24 +189,55 @@ Skinning allows anyone to change the way osu! looks and feels.
 This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 ```
 
-Using multiple empty lines is not allowed in the osu! wiki, as it is parsed as if it were a single empty line.
+Both will look like this:
+
+![](img/paragraphs.png)
 
 #### Soft breaks
 
 <!-- ppy ruled soft breaks are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
-If an empty line is not present between two lines (also known as a soft break, henceforth), the two lines will merge into a single paragraph. For example:
+If an empty line is not present between two lines (also known as a soft break, henceforth), the two lines will merge into a single paragraph. Soft breaks are not allowed in the osu! wiki. For example:
 
-```
+```md
 Skinning allows anyone to change the way osu! looks and feels.
 This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 ```
 
-Using soft breaks is not allowed in the osu! wiki.
+Which is the same as:
+
+```md
+Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+And both will look like this:
+
+![](img/soft-breaks.png "Although the text is in two sepatate lines, it is parsed as a single paragraph.")
 
 #### Line breaks
 
-Appending two trailing spaces at the end of a line is parsed as a line break. (Where this is done, the paragraph will break into a separate line but be part of the same paragraph.) Line breaks are not allowed in the osu! wiki.
+Appending two trailing spaces at the end of a line is parsed as a line break. Line breaks are not allowed in the osu! wiki. For example:
+
+```md
+Skinning allows anyone to change the way osu! looks and feels.  
+This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+There are two trailing spaces at the end of the first line. The result will look like this:
+
+![](img/line-breaks.png)
+
+However, it is not the same as this:
+
+```md
+Skinning allows anyone to change the way osu! looks and feels.
+
+This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
+```
+
+Which will look like this:
+
+![](img/paragraphs.png)
 
 ### Hatnotes
 
