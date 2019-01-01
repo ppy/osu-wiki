@@ -889,10 +889,16 @@ These words are spelt as follows (spacing must match):
 
 - Use `beatmaps` instead of `maps`.
 - Use `creator` instead of `beatmapper` or `mapper`.
+- Use `created` instead of `beatmapped` or `mapped`.
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
+<<<<<<< HEAD
 - Use `sign in` instead of `log in`.
 - Use `sign out` instead of `log out`.
 - Use `register` instead of `sign up`.
+=======
+- Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
+- Use `sign out` instead of `log out`, unless the name of a button or link uses `log out`.
+>>>>>>> f1fee913... ASC: Add "created" to list of terms
 
 ### Abbreviations, acronyms, and initialisms
 
