@@ -835,7 +835,9 @@ Dean Herbert (also known as peppy) created osu!.
 
 #### Trademarks
 
-The following trademarks must be spelt as follows (note the letter casing):
+*For rules regarding osu!, see [osu!](#osu!).*
+
+The following trademarks must be spelt as follows (letter casing must match):
 
 - `Discord`
 - `Facebook`
@@ -843,8 +845,8 @@ The following trademarks must be spelt as follows (note the letter casing):
 - `Google`
 - `Reddit`
 - `Skype`
-- `Twitter`
 - `Twitch`
+- `Twitter`
 - `YouTube`
 
 Never use the trademark nor registered trademark symbols with trademarks.
