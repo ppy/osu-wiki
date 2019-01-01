@@ -689,7 +689,7 @@ For example:
 
 Usage of blockquotes is limited to quoting text from someone. It must not be used to format text otherwise.
 
-### Thematic break
+### Thematic breaks
 
 Use the thematic break (also known as the horizontal rule or line) sparingly. A few uses of the thematic break may include (but is not limited to):
 
