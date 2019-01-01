@@ -204,7 +204,7 @@ This can be as small as changing the cursor or as big as redoing the appearances
 
 Using soft breaks is not allowed in the osu! wiki.
 
-#### Whitespace
+#### Line breaks
 
 Appending two trailing spaces at the end of a line is parsed as a line break. (Where this is done, the paragraph will break into a separate line but be part of the same paragraph.) Line breaks are not allowed in the osu! wiki.
 
