@@ -42,16 +42,16 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 
 | Panel colour                                                                                         | Description                      |
 |------------------------------------------------------------------------------------------------------|------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                            | グレー - 譜面をプレイしています |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                   | ライトブルー/パープル - プレイ、もしくはリプレイを見ています |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                | レッド - 自分の譜面をEditしています |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")               | グリーン - 誰かの譜面をEditで見ています |
+| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                            | ダークブルー - 下に該当しないものです |
+| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                   | グレー - プレイしています |
+| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                | ライトブルー - リプレイを見ています |
+| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")               | レッド - 自分の譜面をEditしています |
 | ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")               | パープル - Editorで譜面をテストプレイしています |
 | ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")      | ターコイズ - 譜面をアップロードしています |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")               | ブラウン - マルチプレイにいますが、プレイはしていません |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                       | イエロー - マルチプレイをしています |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer")| ブラック - 2分半以上放置しています |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                               | ダークブルー - 上に該当しないものです |
+| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")               | グリーン - 誰かの譜面をEditで見ています |
+| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                       | ブラウン - マルチプレイにいますが、プレイはしていません |
+| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer")| イエロー - マルチプレイをしています |
+| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                               | ブラック - 2分半以上放置しています |
 
 ![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
 
