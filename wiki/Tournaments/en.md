@@ -187,6 +187,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](/users/1646397) | ![][flag_CN] [Toki 0w0](/users/10392201) | ![][flag_CN] [Skyshifter](/users/10572577) |
 
+### ![](/wiki/shared/mode/mania.png) :thonking: Mania Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| :thonking: Mania Tournament | 2018-06-09 | 2018-07-15 | YaLTeR | narip | Keishii |
+| [2v2 :thonking: Mania Tournament](/wiki/Tournaments/TMT/2TMT) | 2018-11-10 | 2018-12-23 | La pancit bois | 3 argentos y medio | PolytETral |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
