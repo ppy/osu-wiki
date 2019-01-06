@@ -54,7 +54,7 @@ The osu! Mapping World Cup is run by various community members by distributing t
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AU] ![][flag_NZ] | **Australia - New Zealand** | **[Rizen](https://osu.ppy.sh/users/3056732)** |
+| ![][flag_AU] ![][flag_NZ] | **Australia - New Zealand** | **[xLolicore-](https://osu.ppy.sh/users/4525153)** |
 | ![][flag_BR] | **Brazil** | **[Net0](https://osu.ppy.sh/users/5099768)** |
 | ![][flag_CA] | **Canada** | **[Kibbleru](https://osu.ppy.sh/users/3193504)** |
 | ![][flag_CL] | **Chile** | **[Cloudchaser](https://osu.ppy.sh/users/1576498)** |
@@ -67,7 +67,7 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | ![][flag_GR] | **Greece** | **[lcfc](https://osu.ppy.sh/users/7322726)** |
 | ![][flag_HK] | **Hong-Kong** | **[StarrStyx](https://osu.ppy.sh/users/4600383)** |
 | ![][flag_HU] | **Hungary** | **[emu1337](https://osu.ppy.sh/users/2185987)** |
-| ![][flag_ID] | **Indonesia** | **[ScubDomino](https://osu.ppy.sh/users/8972308)** |
+| ![][flag_ID] ![][flag_SG] | **Indonesia - Singapore** | **[ScubDomino](https://osu.ppy.sh/users/8972308)** |
 | ![][flag_IT] | **Italy** | **[felys](https://osu.ppy.sh/users/1759427)** |
 | ![][flag_JP] | **Japan** | **[Kloyd](https://osu.ppy.sh/users/1574070)** |
 | ![][flag_MY] | **Malaysia** | **[Matsubara Kanon](https://osu.ppy.sh/users/1475828)** |
@@ -77,7 +77,6 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | ![][flag_PL] | **Poland** | **[Venix](https://osu.ppy.sh/users/5999631)** |
 | ![][flag_RU] | **Russian Federation** | **[NeilPerry](https://osu.ppy.sh/users/841391)** |
 | ![][flag_RS] ![][flag_HR] ![][flag_AT] | **Serbia - Croatia - Austria** | **[MaridiuS](https://osu.ppy.sh/users/4496961)** |
-| ![][flag_SG] | **Singapore** | **[handsome](https://osu.ppy.sh/users/2123087)** |
 | ![][flag_KR] | **South Korea** | **[Beomsan](https://osu.ppy.sh/users/3626063)** |
 | ![][flag_SE] | **Sweden** | **[Liiraye](https://osu.ppy.sh/users/1280641)** |
 | ![][flag_TW] | **Taiwan** | **[bossandy](https://osu.ppy.sh/users/360437)** |
