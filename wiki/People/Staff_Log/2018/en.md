@@ -327,7 +327,7 @@ All users listed below were added on 2018-07-27.
 - Added [Noffy](/users/1541323) to the Quality Assurance Team (2018-11-10)
 - Added [Yuii-](/users/2935923) to the Quality Assurance Team (2018-11-10)
 - Added [Regraz](/users/3076909) to the Quality Assurance Team (2018-11-11)
-- Moved [\-kevincela-](/users/266596) to the osu! Alumni (2018-11-17)
+- Moved [-kevincela-](/users/266596) to the osu! Alumni (2018-11-17)
 
 ### BN removals
 
