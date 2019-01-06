@@ -1,11 +1,11 @@
 Beatmap Ranking Procedure
 ============================
 
-When a beatmapset is first submitted, it is placed in the Pending or Work in Progress beatmap section. These maps are referred to as "unranked". Unranked maps do not have a scoreboard and move to the Graveyard section after a 28 day period of inactivity. The beatmapset can be moved to the Ranked section after going through the beatmap ranking process. This process involves receiving nominations and reaching the Qualified section.
+When a [beatmapset](/wiki/Glossary/#beatmapset) is first submitted, it is placed in the Pending or Work in Progress beatmap section. These maps are referred to as "unranked". Unranked maps do not have a scoreboard and move to the Graveyard section after a 28 day period of inactivity. The beatmapset can be moved to the Ranked section after going through the beatmap ranking process. This process involves receiving nominations and reaching the Qualified section.
 Nominations 
 --------------------------------------------------------------------
 
-In order for a [beatmapset](/wiki/Glossary/#beatmapset) to receive a nomination, it must follow and be in accordance with the [ranking criteria](/wiki/Ranking_Criteria) and must have at least 5 hypes. Hypes can be obtained by having other users hype your beatmap in the Discussion page of the map, or under the map's description. Once a beatmap has at least 5 hypes, a BN can nominate it if they feel it meets two conditions:
+In order for a beatmapset to receive a nomination, it must follow and be in accordance with the [ranking criteria](/wiki/Ranking_Criteria) and must have at least 5 hypes. Hypes can be obtained by having other users hype your beatmap in the Discussion page of the map, or under the map's description. Once a beatmap has at least 5 hypes, a BN can nominate it if they feel it meets two conditions:
 
 1.  The beatmapset meets the [Ranking Criteria](/wiki/Ranking_Criteria).
 2.  The beatmapset meets overall quality standards that are not part of the Ranking Criteria.
