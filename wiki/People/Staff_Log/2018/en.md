@@ -317,3 +317,27 @@ All users listed below were added on 2018-07-27.
 - [Arzenvald](/users/3027421) (2018-10-22)
 - [Yuii-](/users/2935923) (2018-10-23)
 - [Yukiyo](/users/4541873) (2018-10-28)
+
+## November
+
+- Moved [Aloda](/users/1190127) to the osu! Alumni (2018-11-07)
+- Moved [Pereira006](/users/537344) to the Global Moderation Team (2018-11-09)
+- Added [Gottagof4st](/users/6122935) to the Quality Assurance Team (2018-11-10)
+- Added [Kuron-kun](/users/2697284) to the Quality Assurance Team (2018-11-10)
+- Added [Noffy](/users/1541323) to the Quality Assurance Team (2018-11-10)
+- Added [Yuii-](/users/2935923) to the Quality Assurance Team (2018-11-10)
+- Added [Regraz](/users/3076909) to the Quality Assurance Team (2018-11-11)
+- Moved [-kevincela-](/users/266596) to the osu! Alumni (2018-11-17)
+
+### BN removals
+
+- [hikiko-](/users/6512678) - resignation (2018-11-03)
+- [Yauxo](/users/898306) - resignation (2018-11-21)
+- [Smokeman](/users/2140676) - failing probation (2018-11-22)
+- [Wishkey](/users/1101704) - resignation (2018-11-30)
+
+## December
+
+- Moved [Hobbes2](/users/8157492) to the Quality Assurance Team (2018-12-01)
+- Added [Hinsvar](/users/1249323) to the Global Moderation Team (2018-12-05)
+- Moved [Elfin](/users/1399551) to the osu! Alumni (2018-12-14)
