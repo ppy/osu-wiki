@@ -335,3 +335,9 @@ All users listed below were added on 2018-07-27.
 - [Yauxo](/users/898306) - resignation (2018-11-21)
 - [Smokeman](/users/2140676) - failing probation (2018-11-22)
 - [Wishkey](/users/1101704) - resignation (2018-11-30)
+
+## December
+
+- Moved [Hobbes2](/users/8157492) to the Quality Assurance Team (2018-12-01)
+- Added [Hinsvar](/users/1249323) to the Global Moderation Team (2018-12-05)
+- Moved [Elfin](/users/1399551) to the osu! Alumni (2018-12-14)
