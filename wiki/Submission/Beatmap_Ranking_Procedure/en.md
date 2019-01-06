@@ -1,7 +1,7 @@
 Beatmap Ranking Procedure
 ============================
 
-When a beatmapset is first made, it is in the Pending or Work in Progress sections. These maps are referred to as "unranked". Unranked maps do not have a scoreboard and go to the Graveyard section after a 28 day period of inactivity. In order for a map to have a scoreboard and to be moved to the "Ranked" section, a map must go through the beatmap ranking process. First it must get nominated twice to get qualified and then ranked after around 7 days in the Qualified section. Only BNs and QATs can bubble and subsequently rank a beatmap.
+When a beatmapset is first submitted, it is placed in the Pending or Work in Progress beatmap section. These maps are referred to as "unranked". Unranked maps do not have a scoreboard and move to the Graveyard section after a 28 day period of inactivity. The beatmapset can be moved to the Ranked section after going through the beatmap ranking process. This process involves receiving two nominations from a BN or QAT, and subsequently surviving in the Qualified section for around 7 days.
 
 Nominations 
 --------------------------------------------------------------------
