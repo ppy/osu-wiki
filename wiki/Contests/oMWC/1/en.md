@@ -105,36 +105,46 @@ The osu! Mapping World Cup is run by various community members by distributing t
 ### Questions and Answers
 
 1. **How does this contest work?**
-  You will be tasked to work on 3 different songs, each will be from 3 different musical genres. You and your team have to work on the three songs as a collaboration difficulty. Each of you will have to map at least 10% of the total drain time of all 3 songs combined. When your team is done mapping, your Team Ambassador will send the entry as a PM to Imakuri or Pachiru (osu!forum or Discord). Your entries will then be judged, and results will be announced on a Twitch livestream after the judging phase is done.
+
+    You will be tasked to work on 3 different songs, each will be from 3 different musical genres. You and your team have to work on the three songs as a collaboration difficulty. Each of you will have to map at least 10% of the total drain time of all 3 songs combined. When your team is done mapping, your Team Ambassador will send the entry as a PM to Imakuri or Pachiru (osu!forum or Discord). Your entries will then be judged, and results will be announced on a Twitch livestream after the judging phase is done.
 
 2. **What will be the songs?**
-  The songs will be revealed on January 12th on the Discord Server.
+
+    The songs will be revealed on January 12th on the Discord Server.
 
 3. **“At least 2 mappers will have to collaborate PER SONG & each mapper will have to map at least 10% of the TOTAL DRAIN TIME for all 3 songs combined” - Does this mean that I have to map all 3 songs?**
-  No, you as a contestant are given the freedom of choice on which song you’d like to participate/map in the most. You are required to map at least the 10% of the TOTAL drain time over the 3 songs, which basically means that you have to map 10% of the total drain time of all 3 songs combined. For example if all 3 songs combined come to 10 minutes of drain time (not length time) you will have to map at least 60 seconds of drain time spread across 1 song or all 3 songs if you choose to. Also 2 mappers are required PER SONG at the bare minimum, this is to ensure that the collaboration part of the contest is still retained.
+
+    No, you as a contestant are given the freedom of choice on which song you’d like to participate/map in the most. You are required to map at least the 10% of the TOTAL drain time over the 3 songs, which basically means that you have to map 10% of the total drain time of all 3 songs combined. For example if all 3 songs combined come to 10 minutes of drain time (not length time) you will have to map at least 60 seconds of drain time spread across 1 song or all 3 songs if you choose to. Also 2 mappers are required PER SONG at the bare minimum, this is to ensure that the collaboration part of the contest is still retained.
 
 4. **What is a “Team Ambassador”?**
-  The Team Ambassadors are “country captains” who will be handpicked by the staff team from the Team Ambassador Submissions. They will be picked based on their mapping experience and their involvement in the mapping community. They will represent their country alongside their team. To confirm their picks, the Team Ambassador must send a PM to Imakuri or Pachiru (osu!forum or Discord). If one of the team members can’t partake in the contest, the Ambassadors have until January 11th to change their picks should they need to.
+
+    The Team Ambassadors are “country captains” who will be handpicked by the staff team from the Team Ambassador Submissions. They will be picked based on their mapping experience and their involvement in the mapping community. They will represent their country alongside their team. To confirm their picks, the Team Ambassador must send a PM to Imakuri or Pachiru (osu!forum or Discord). If one of the team members can’t partake in the contest, the Ambassadors have until January 11th to change their picks should they need to.
 
 5. **What if my country doesn’t have a Team Ambassador?**
-  Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand!
-  The country you will be allowed to participate with will be based on your profile's flag.
-  However, for some countries like Belgium - Luxembourg - Netherlands, also known as Benelux, and Australia - New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbors.
+
+    Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand!
+    The country you will be allowed to participate with will be based on your profile's flag.
+    However, for some countries like Belgium - Luxembourg - Netherlands, also known as Benelux, and Australia - New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbors.
 
 6. **Can I have my own team for my country even if it already has one?**
-  No. Each country will only have one Team Ambassador to represent it.
+
+    No. Each country will only have one Team Ambassador to represent it.
 
 7. **Do I have to join the Discord server to participate?**
-  Only the Team Ambassador is required to join the Discord server. The team members however are free to join or not. Although not joining will result in you missing out on important announcements and a private country text channel which will be ONLY available on the discord server.
+
+    Only the Team Ambassador is required to join the Discord server. The team members however are free to join or not. Although not joining will result in you missing out on important announcements and a private country text channel which will be ONLY available on the discord server.
 
 8. **Can I join the Discord server even if I don’t want to participate in the contest?**
-  Yes. There is a public link at the top of the forum post. Upon joining, you’ll be in the #arrival channel, where you will have to post your osu! profile link, and then a member of the staff/moderator will accept you.
+
+    Yes. There is a public link at the top of the forum post. Upon joining, you’ll be in the #arrival channel, where you will have to post your osu! profile link, and then a member of the staff/moderator will accept you.
 
 9. **I’m restricted, can I still participate?**
-  No. For the legitimacy of this contest; we can not accept restricted users.
+
+    No. For the legitimacy of this contest; we can not accept restricted users.
 
 10. **I am from Singapore but I have the Russian flag, can I belong to Singapore team?**
-  No. You can only join the team of the country that is displayed on your osu! profile.
+
+    No. You can only join the team of the country that is displayed on your osu! profile.
 
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
