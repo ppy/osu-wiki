@@ -156,7 +156,7 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 
 Muestra el enlace a un beatmap que necesita asistencia de moderación. Puedes usar `list` para obtener más de uno. Haciendo click en el enlace se te abrirá la página del beatmap o osu!direct si eres un osu!supporter.
 
-#### Usage Example
+#### Ejemplos de uso
 
 ```
 pippi: !request
