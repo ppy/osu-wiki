@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K Cup 2019: Registrations now open!"
-date: 2018-01-06 13:00:00 +0000
+date: 2018-01-07 5:30:00 +0000
 ---
 
 Another year and what a better way to start it than with some 7K action! The MWC7K 2019 registrations phase begins now!
@@ -14,7 +14,7 @@ For more details, refer to the **[osu!mania 7K World Cup 2019 wiki article](/wik
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | Jan 5th - Jan 19th |
+| Registration Phase | Jan 7th - Jan 19th |
 | Live Drawings | Feb 2nd  (14:00 UTC) |
 | Group Stage | Feb 9th & 10th |
 | Round of 16 | Feb 16th & 17th |
