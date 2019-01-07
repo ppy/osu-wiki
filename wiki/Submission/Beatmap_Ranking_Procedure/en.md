@@ -12,7 +12,7 @@ In order for a beatmapset to receive a nomination, it must follow and be in acco
 
 ## Nomination Reset
 
-Updating a nominated beatmapset will cause the nomination count to be reset. This means it will need to be nominated again. Alternatively, a nomination can be reset by another BN or QAT, if either the beatmapset does not follow one or more rules in the Ranking Criteria or the BN has issues with the quality of the map. If a beatmapset is reset due to quality standards not part of the Ranking Criteria, then it is called a veto. Vetos are dealt with mediation by the QAT. 
+Updating a nominated beatmapset will cause the nomination count to be reset. This means it will need to be nominated again. Alternatively, a nomination can be reset by another BN or QAT, if either the beatmapset does not follow one or more rules in the Ranking Criteria or the BN has issues with the quality of the map. If a beatmapset is reset due to quality standards not part of the Ranking Criteria, then it is called a veto. Vetoes are dealt with mediation by the QAT. 
 
 Note: In the case of a minor change to a nominated beatmapset, then the BN can nominate the beatmapset again immediately, but in the case of a veto, a decision from the QAT needs to be done before the map is allowed to be nominated again.
 
