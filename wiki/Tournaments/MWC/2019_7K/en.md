@@ -15,7 +15,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-01-05/2019-01-18 |
+| Registration Phase | 2019-01-05/2019-01-19 |
 | Live Drawings | 2019-02-02 14:00:00 UTC |
 | Group Stage | 2019-02-09/2019-02-10 |
 | Round of 16 | 2019-02-16/2019-02-17 |
@@ -112,7 +112,7 @@ _The mappools will be revealed one week before each stage takes place_
     - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     - Every registered user will be assigned to their respective country's candidate list.
-    - To be successfully accepted on the list, you have to ensure that your global osu! performance ranking is above 5000.
+    - To be successfully accepted on the list, you have to ensure that your global osu!mania performance ranking is above 5000.
     - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -156,7 +156,7 @@ _The mappools will be revealed one week before each stage takes place_
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC7K 2019: (TeamRed) vs (TeamBlue)".
+    - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC7K 2019: (TeamRed) vs (TeamBlue)".
     - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
@@ -183,8 +183,10 @@ _The mappools will be revealed one week before each stage takes place_
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
     - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
-6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
+5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
+6. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
+7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
