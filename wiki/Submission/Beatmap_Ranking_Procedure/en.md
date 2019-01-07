@@ -2,10 +2,9 @@
 
 When a [beatmapset](/wiki/Glossary/#beatmapset) is first submitted, it is placed in the Pending or Work in Progress beatmap section. These maps are referred to as "unranked". Unranked maps do not have a scoreboard and move to the Graveyard section after a 28 day period of inactivity. The beatmapset can be moved to the Ranked section after going through the beatmap ranking process. This process involves receiving nominations and reaching the Qualified section.
 
-
 ## Nominations 
 
-In order for a beatmapset to receive a nomination, it must follow and be in accordance with the [ranking criteria](/wiki/Ranking_Criteria) and must have at least 5 hypes. Hypes can be obtained by having other users hype your beatmap in the Discussion page of the map, or under the map's description. Once a beatmap has at least 5 hypes, a BN can nominate it if they feel it meets two conditions:
+In order for a beatmapset to be eligible for a nomination, it must have at least 5 hypes. Hypes can be obtained by having other users hype your beatmap in the Discussion page of the map, or under the map's description. Once a beatmap has at least 5 hypes, a BN can nominate it if they feel it meets two conditions:
 
 1.  The beatmapset meets the [Ranking Criteria](/wiki/Ranking_Criteria).
 2.  The beatmapset meets overall quality standards that are not part of the Ranking Criteria.
@@ -14,7 +13,7 @@ In order for a beatmapset to receive a nomination, it must follow and be in acco
 
 Updating a nominated beatmapset will cause the nomination count to be reset. This means it will need to be nominated again. Alternatively, a nomination can be reset by another BN or QAT, if either the beatmapset does not follow one or more rules in the Ranking Criteria or the BN has issues with the quality of the map. If a beatmapset is reset due to quality standards not part of the Ranking Criteria, then it is called a veto. Vetoes are dealt with mediation by the QAT. 
 
-Note: In the case of a minor change to a nominated beatmapset, then the BN can nominate the beatmapset again immediately, but in the case of a veto, a decision from the QAT needs to be done before the map is allowed to be nominated again.
+*Note: In the case of a minor change to a nominated beatmapset, then the BN can nominate the beatmapset again immediately, but in the case of a veto, a decision from the QAT needs to be done before the map is allowed to be nominated again.*
 
 ## Qualified and Ranked Sections
 
