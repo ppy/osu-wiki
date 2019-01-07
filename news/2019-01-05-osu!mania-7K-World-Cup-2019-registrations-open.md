@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K Cup 2019: Registrations now open!"
-date: 2018-01-07 5:30:00 +0000
+date: 2019-01-07 5:30:00 +0000
 ---
 
 Another year and what a better way to start it than with some 7K action! The MWC7K 2019 registrations phase begins now!
