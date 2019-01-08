@@ -40,7 +40,7 @@ In-game Chat Κανόνες
 BSS Φόρουμ Κανόνες
 -----------------
 
-Αυτοί οι κανόνες ισχύουν αυστηρά για τα beatmaps που υποβάλλονται μέσω του [Beatmap Submission System](/wiki/Beatmap_Submission_System) του παιχνιδιού. Αυτά τα θέματα/συζητήσεις δημιουργούνται αυτόματα μέσω του osu! client όταν ένα beatmap υποβάλλεται μέσω του [editor](/wiki/editor). 
+Αυτοί οι κανόνες ισχύουν αυστηρά για τα beatmaps που υποβάλλονται μέσω του [Beatmap Submission System](/wiki/Glossary#bss) του παιχνιδιού. Αυτά τα θέματα/συζητήσεις δημιουργούνται αυτόματα μέσω του osu! client όταν ένα beatmap υποβάλλεται μέσω του [editor](/wiki/editor). 
 
 Υπάρχει ένα σύνολο λεπτομερέστερων κανόνων για την δημιουργία των beatmaps, γνωστό ως Κριτήρια Κατάταξης ([Ranking Criteria](/wiki/Ranking_Criteria)).
 
