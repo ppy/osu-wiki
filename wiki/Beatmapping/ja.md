@@ -187,7 +187,7 @@ A couple of rules of thumb are:-
 Beat Spacingってなんですか?
 ---------------------------
 
-<img src="Beatspacing.jpg" title="fig:A quick illustration" alt="A quick illustration" width="200" /> 直感的なプレイのために譜面はよいビートのすき間を持つべきです。一般的にタイムライン上で互いに近いBeatは、配置上でも近くなるべきで、逆も同様です。これは調和した譜面によって曲の流れを保証し、譜面をより楽しくさせることに繋がります。
+<img src="Beatspacing.jpg" title="fig:A quick illustration" alt="A quick illustration" width="200" /> 直感的なプレイのために譜面はよいビートの隙間を持つべきです。一般的にタイムライン上で互いに近いBeatは、配置上でも近くなるべきで、逆も同様です。これは調和した譜面によって曲の流れを保証し、譜面をより楽しくさせることに繋がります。
 
 この感覚を維持させる簡単な方法は[Distance SnapをEditorで使用することです](JP:Distance_Snap "wikilink")。オブジェクト間の距離はマウスホイールを使用することで調整することができ、それを使っている限りは間隔が常に同じになります。
 
