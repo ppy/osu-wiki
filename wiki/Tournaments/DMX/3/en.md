@@ -87,6 +87,15 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 ## Match Schedules: Grand Finals
 
+### Saturday, 12 January 2019
+
+| Match ID | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #1 | cheewee10 | ![][flag_MY] | ![][flag_GB] | xSnaggles | **13:00 UTC** |  |
+| #2 | xSnaggles | ![][flag_GB] | ![][flag_MY] | cheewee10 |  | ¹ |
+
+¹ Match will take place if Player B wins Match #1
+
 -----------------------
 
 ## Mappools
@@ -200,21 +209,21 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 | Saturday, 2019-01-05 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/48633506) |
-| -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **7** | ![][flag_PL] **SitekX** | [#1](https://osu.ppy.sh/community/matches/48632373) |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](/community/matches/48633506) |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **7** | ![][flag_PL] **SitekX** | [#1](/community/matches/48632373) |
 
 | Sunday, 2019-01-06 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| SitekX ![][flag_PL] |  |  | ![][flag_GB] xSnaggles | [#1]() |
+| SitekX ![][flag_PL] | 6 | **7** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/48661045) |
 
 ### Semifinals
 
 | Saturday, 2018-12-15 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
 | BossMadWolf ![][flag_TH] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](/community/matches/48109370) |
-| **xSnaggles** ![][flag_GB] | **5** | 4 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/48122244) |
+| **xSnaggles** ![][flag_GB] | **5** | 4 | ![][flag_PL] SitekX | [#1](/community/matches/48122244) |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_FI] Camopoltergeist | [#1](/community/matches/48109390) |
-| MyZterioN- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](https://osu.ppy.sh/community/matches/48106115) |
+| MyZterioN- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](/community/matches/48106115) |
 
 | Sunday, 2018-12-16 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
