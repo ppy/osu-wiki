@@ -48,9 +48,9 @@ The osu! South East Tournament 2 is run by various community members.
 | Management | ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), ![][flag_TH] [Trigonoculus](/users/7627013) |
 | Map Selectors | ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608) |
 | Designer | ![][flag_TH] [Trigonoculus](/users/7627013) |
-| Streamer | ![][flag_VN] [Hoaq](/users/7696512) |
-| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_PL] [Houtarou Oreki](/users/4185566) |
-| Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512) |
+| Streamers | ![][flag_VN] [Hoaq](/users/7696512), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_SG] [Demonical](/users/5447609), ![][flag_ID] [Ulat Bulu](/users/3484548), ![][flag_ID] [Skydiver](/users/4750008) |
+| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_PL] [Houtarou Oreki](/users/4185566), ![][flag_CN] [M1keL](/users/10732897) |
+| Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_VN] [Yaezaki](/users/11254509) |
 | Web Developers | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_DE] [Borengar](/users/3312177) |
 | Statistician | ![][flag_VN] [steve\_04\_](/users/10852911) |
 | Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
@@ -99,9 +99,71 @@ The osu! South East Tournament 2 is run by various community members.
 
 ## Match Schedules: Semifinals
 
+### Friday, 11 January 2019
+
+| Match Code | Player A |  |  | Player B | Match Time |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| JC | ShaneLiang | ![][flag_MY] | ![][flag_MY] | TequilaWolf | **17:30 UTC+8** |
+| JD | MioMilo | ![][flag_PH] | ![][flag_SG] | GSBlank | **22:00 UTC+8** |
+| JB | wuhua | ![][flag_MY] | ![][flag_MY] | Tzero | **23:00 UTC+8** |
+
+### Saturday, 12 January 2019
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| JA | SeeL | ![][flag_SG] | ![][flag_SG] | M4-K1 | **23:00 UTC+8** |  |
+| KB-1 | ShaneLiang | ![][flag_MY] | ![][flag_PH] | MioMilo | **20:00 UTC+8** | ¹ |
+| KB-2 | ShaneLiang | ![][flag_MY] | ![][flag_SG] | GSBlank | **20:00 UTC+8** | ¹ |
+| KB-3 | TequilaWolf | ![][flag_MY] | ![][flag_PH] | MioMilo | **20:00 UTC+8** | ¹ |
+| KB-4 | TequilaWolf | ![][flag_MY] | ![][flag_SG] | GSBlank | **20:00 UTC+8** | ¹ |
+
+### Sunday, 13 January 2019
+
+| Match Code | Player A |  |  | Player B | Match Time |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| IB | Crezz | ![][flag_ID] | ![][flag_ID] | Skydiver | **14:00 UTC+8** |  |
+| IA | Raindrop | ![][flag_SG] | ![][flag_ID] | Rexeez | **19:30 UTC+8** |  |
+| KA-1 | SeeL | ![][flag_SG] | ![][flag_MY] | wuhua | **21:00 UTC+8** | ² |
+| KA-2 | SeeL | ![][flag_SG] | ![][flag_MY] | Tzero | **21:00 UTC+8** | ² |
+| KA-3 | M4-K1 | ![][flag_SG] | ![][flag_MY] | wuhua | **21:00 UTC+8** | ² |
+| KA-4 | M4-K1 | ![][flag_SG] | ![][flag_MY] | Tzero | **21:00 UTC+8** | ² |
+
+¹ Encounter dependent on winner of Match JC and Match JD
+
+² Encounter dependent on winner of Match JB and Match JA
+
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo)**
+
+- NoMod
+  - [yanaginagi - can cry (captin1) \[lamentation\]](https://osu.ppy.sh/beatmapsets/889584#osu/1859321)
+  - [Ice - Etude for the Sinners (Cherry Blossom) \[Trolled\]](https://osu.ppy.sh/beatmapsets/892189#osu/1865097)
+  - [Culprate - Aurora (BOUYAAA) \[Expert\]](https://osu.ppy.sh/beatmapsets/848003#osu/1773386)
+  - [Co shu Nie - asphyxia (TV edit) (Asphyxia) \[Asphyxia's Asphyxiating Extra\]](https://osu.ppy.sh/beatmapsets/758101#osu/1595667)
+  - [Seeed - Ding (Deramok) \[Deramok's Hidden Extra\]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
+- Hidden
+  - [Yu\_Asahina feat. Ritsuka - HAELE III \~Angel Worlds\~ (celerih) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/868623#osu/1815527)
+  - [mafumafu - Shuuten (William K) \[Terminus\]](https://osu.ppy.sh/beatmapsets/684807#osu/1449273)
+  - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
+  - [Camellia feat.Nanahira - Energy Drinko Fein-chan! (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/257407#osu/596595)
+- HardRock
+  - [BTS - IDOL (DeRandom Otaku) \[Spotlight\]](https://osu.ppy.sh/beatmapsets/837929#osu/1754360)
+  - [Nekomata Master - Following Flow (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
+  - [Paramore - Anklebiters (Priti, EvilElvis) \[PritiElvis' Extreme\]](https://osu.ppy.sh/beatmapsets/227990#osu/531093)
+  - [GARNiDELiA - Yakusoku -Promise code- (Meg) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536491)
+- DoubleTime
+  - [Infected Mushroom - Spitfire (Testo, Mirash) \[Collab\]](https://osu.ppy.sh/beatmapsets/725851#osu/1532489)
+  - [Kaori Miyazono (CV. Risa Taneda) - My Truth\~Rondo capriccioso (Linada) \[Quietly\]](https://osu.ppy.sh/beatmapsets/717528#osu/1515830)
+  - [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](https://osu.ppy.sh/beatmapsets/184512#osu/441680)
+  - [CLIFF EDGE feat. Nakamura Maiko - Endless Tears (Rakuen) \[Insane\]](https://osu.ppy.sh/beatmapsets/123489#osu/321506)
+- FreeMod
+  - [nao - Toaru Shoukoku no Ohimesama ga... (Lasse) \[Lasse's Extreme\]](https://osu.ppy.sh/beatmapsets/443093#osu/952767)
+  - [Camellia - Kono Hoshi de.... (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
 
 ### Quarterfinals
 
@@ -215,18 +277,31 @@ The osu! South East Tournament 2 is run by various community members.
 
 | Friday, 2019-01-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **M4-K1** ![][flag_SG] | **6** | 3 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48604448) |
-| SeeL ![][flag_SG] | 5 | **6** | ![][flag_ID] **Crezz** | [#1](https://osu.ppy.sh/community/matches/48606911) |
-| Jeffrey ![][flag_MY] | 1 | **6** | ![][flag_SG] **Demonical** | [#1](https://osu.ppy.sh/community/matches/48606909) |
-| **GSBlank** ![][flag_SG] | **6** | 5 | ![][flag_SG] Loslite | [#1](https://osu.ppy.sh/community/matches/48608194) |
-| **moosepi** ![][flag_SG] | **6** | 4 | ![][flag_SG] k\_1tty | [#1](https://osu.ppy.sh/community/matches/48608156) |
+| **M4-K1** ![][flag_SG] | **6** | 3 | ![][flag_SG] woahsia | [#1](/community/matches/48604448) |
+| SeeL ![][flag_SG] | 5 | **6** | ![][flag_ID] **Crezz** | [#1](/community/matches/48606911) |
+| Jeffrey ![][flag_MY] | 1 | **6** | ![][flag_SG] **Demonical** | [#1](/community/matches/48606909) |
+| **GSBlank** ![][flag_SG] | **6** | 5 | ![][flag_SG] Loslite | [#1](/community/matches/48608194) |
+| **moosepi** ![][flag_SG] | **6** | 4 | ![][flag_SG] k\_1tty | [#1](/community/matches/48608156) |
 
 | Saturday, 2019-01-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | san-lotso ![][flag_TH] | 0 | **6** | ![][flag_SG] **Lunarsol** | -win by default- |
 | dunois ![][flag_CA] | 0 | **6** | ![][flag_MY] **Zygody** | -win by default- |
-| **Rexeez** ![][flag_ID] | **6** | 4 | ![][flag_PH] MioMilo | [#1](https://osu.ppy.sh/community/matches/48631606) |
+| **Rexeez** ![][flag_ID] | **6** | 4 | ![][flag_PH] MioMilo | [#1](/community/matches/48631606) |
 | **Tzero** ![][flag_MY] | **6** | 0 | ![][flag_TH] Applause | -win by default- |
+| **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_VN] Shironi | [#1](/community/matches/48635193) |
+| ShaneLiang ![][flag_MY] | 4 | **6** | ![][flag_SG] **Raindrop** | [#1](/community/matches/48636530) |
+| **GSBlank** ![][flag_SG] | **6** | 4 | ![][flag_SG] moosepi | [#1](/community/matches/48636640) |
+
+| Sunday, 2019-01-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Skydiver** ![][flag_ID] | **6** | 2 | ![][flag_MY] wuhua | [#1](/community/matches/48656093) |
+| **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_SG] Demonical | [#1](/community/matches/48659324) |
+| **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](/community/matches/48662723) |
+
+| Monday, 2019-01-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Zygody ![][flag_MY] | 0 | **6** | ![][flag_SG] **M4-K1** | [#1](/community/matches/48684949) |
 
 ### Round of 16
 
@@ -265,22 +340,22 @@ The osu! South East Tournament 2 is run by various community members.
 
 | Sunday, 2018-12-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_MY] Computer Badger | [#1](https://osu.ppy.sh/community/matches/48485016) |
-| **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_MY] haruchi | [#1](https://osu.ppy.sh/community/matches/48485071) |
-| dika312 ![][flag_ID] | 3 | **6** | ![][flag_SG] **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/48485035) |
-| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_SG] Rtzero | [#1](https://osu.ppy.sh/community/matches/48486407) |
-| youi ![][flag_SG] | 3 | **6** | ![][flag_SG] **Loslite** | [#1](https://osu.ppy.sh/community/matches/48486060) |
-| **k\_1tty** ![][flag_MY] | **6** | 1 | ![][flag_ID] yumesaki-hikari | [#1](https://osu.ppy.sh/community/matches/48486227) |
-| san-lotso ![][flag_TH] | 5 | **6** | ![][flag_MY] **ShaneLiang** | [#1](https://osu.ppy.sh/community/matches/48487337) |
-| **woahsia** ![][flag_SG] | **6** | 2 | ![][flag_VN] UnitedNovel | [#1](https://osu.ppy.sh/community/matches/48487478) |
+| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_MY] Computer Badger | [#1](/community/matches/48485016) |
+| **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_MY] haruchi | [#1](/community/matches/48485071) |
+| dika312 ![][flag_ID] | 3 | **6** | ![][flag_SG] **Lunarsol** | [#1](/community/matches/48485035) |
+| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_SG] Rtzero | [#1](/community/matches/48486407) |
+| youi ![][flag_SG] | 3 | **6** | ![][flag_SG] **Loslite** | [#1](/community/matches/48486060) |
+| **k\_1tty** ![][flag_MY] | **6** | 1 | ![][flag_ID] yumesaki-hikari | [#1](/community/matches/48486227) |
+| san-lotso ![][flag_TH] | 5 | **6** | ![][flag_MY] **ShaneLiang** | [#1](/community/matches/48487337) |
+| **woahsia** ![][flag_SG] | **6** | 2 | ![][flag_VN] UnitedNovel | [#1](/community/matches/48487478) |
 
 | Monday, 2018-12-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Demonical** ![][flag_SG] | **6** | 1 | ![][flag_ID] -Reuto- | [#1](https://osu.ppy.sh/community/matches/48513392) |
+| **Demonical** ![][flag_SG] | **6** | 1 | ![][flag_ID] -Reuto- | [#1](/community/matches/48513392) |
 
 | Tuesday, 2019-01-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| M4-K1 ![][flag_SG] | 1 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/48537518) |
+| M4-K1 ![][flag_SG] | 1 | **6** | ![][flag_ID] **Rexeez** | [#1](/community/matches/48537518) |
 
 | Wednesday, 2019-01-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
@@ -703,6 +778,7 @@ The osu! South East Tournament 2 is run by various community members.
 
 [flag_BN]: /wiki/shared/flag/BN.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
