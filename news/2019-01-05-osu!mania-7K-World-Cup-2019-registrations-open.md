@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K Cup 2019: Registrations now open!"
+title: "osu!mania 7K World Cup 2019: Registrations now open!"
 date: 2019-01-07 5:30:00 +0000
 ---
 
