@@ -18,7 +18,7 @@ Okay, where was I? Yeah, "refashionising". Ah, I love it when they scream in pai
 
 ![](https://assets.ppy.sh/media/yuzu/yuzu-full-cover.jpg)
 
-I picked through all of the things people suggested (a wizard hat? really?) decided to go with [Thievley](https://osu.ppy.sh/users/4717672)'s design because I felt you know... *connected* to her design. It screams... *speed*. 
+I picked through all of the things people suggested (a wizard hat? really?) and decided to go with [Thievley](https://osu.ppy.sh/users/4717672)'s design because I felt you know... *connected* to her design. It screams... *speed*. 
 
 Okay, really, more like because she made me look pretty cool.
 
@@ -30,7 +30,7 @@ Oh, oh, but lemme tell you how I got my amazing scarf!
 
 It starts with me accidentally dropping into a mysterious portal, which leads to some epic mecha fight (and flatten some medieval looking cities in the process, unfortunately), and the death of a friend that I recently met. 
 
-That was sad. But she had this really awesome scarf that she got from her grandfather - and now, it's mine! She gave it to me. I have proof. Really.
+That was sad. But she had this really awesome scarf that she got from her grandfather - and now, it's mine! She gave it to me. I have proof. Really!
 
 But pssh, I don't wanna bore you with all the details. Basically, I have this *cool looking scarf that floats.* **FOREVER.** And it makes me look **so VERY VERY COOL.**
 
