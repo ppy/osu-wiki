@@ -456,7 +456,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
     -  Winner of the rematch.
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+6.  Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
 
 | Stage | Match ID |
 |-----------------|-------------------------|

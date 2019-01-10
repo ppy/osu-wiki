@@ -75,7 +75,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Song Selection Screen
 
-![Song Selection](img/Soloplay1.jpeg)
+![Song Selection](img/Soloplay1.jpg)
 
 You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
 
@@ -88,8 +88,8 @@ Before continuing on, this screen has too many elements to note with easily, not
 
 ### Beatmap Information
 
-![soloplay2.png](img/Soloplay2.jpeg)
-![soloplay2.5.png](img/Soloplay2.5.jpeg)
+![soloplay2.png](img/Soloplay2.jpg)
+![soloplay2.5.png](img/Soloplay2.5.jpg)
 
 This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options/), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
@@ -105,7 +105,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 
 ### Group and Sort
 
-![](img/Soloplay3.jpeg)
+![](img/Soloplay3.jpg)
 
 Click on one of the tabs to **sort your song list according to the selected criterion**.
 
@@ -141,7 +141,7 @@ The first five groupings are available in tabs below Group and Sort.
 
 ### Search
 
-![](img/Soloplay5.jpeg)
+![](img/Soloplay5.jpg)
 
 Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.
 
@@ -164,7 +164,7 @@ Note: You cannot have the chat console or the options sidebar open if you want t
 
 ### Rankings
 
-![](img/Soloplay10.jpeg)
+![](img/Soloplay10.jpg)
 
  A variety of things can appear in this space:
 
@@ -198,7 +198,7 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 
 ### Song
 
-![](img/Soloplay6.jpeg)
+![](img/Soloplay6.jpg)
 
 The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
@@ -212,7 +212,7 @@ You can navigate the beatmap list by using the mouse wheel, using the up and dow
 ### Gameplay toolbox
 
 ![List of available game modes](img/Mode_screen.png)
-![](img/Soloplay7.jpeg)
+![](img/Soloplay7.jpg)
 
 This section can be called the gameplay toolbox. We will cover each button's use from left to right.
 
@@ -235,7 +235,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 *Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomized your selection.*
 
-![Possible commands for a beatmap](img/Soloplay9.jpeg)
+![Possible commands for a beatmap](img/Soloplay9.jpg)
 
 Click the `Beatmap Options` button or press `F3` or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
