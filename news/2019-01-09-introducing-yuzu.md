@@ -8,7 +8,7 @@ Heeey! I'm back! You won't believe the sorta stuff I've been up to but wow, is i
 
 ![](https://assets.ppy.sh/media/yuzu/header.jpg)
 
-It's me, Yuzu! 
+It's me, Yuzu!
 
 Yeah, I'm pretty sure most of you were wondering what happened to me since you guys dropped in suggestions on my *refashionising* project (yeah, yeah, I know this isn't a real word, but I'm *wayyy* too cool to care.).
 
@@ -18,7 +18,7 @@ Okay, where was I? Yeah, "refashionising". Ah, I love it when they scream in pai
 
 ![](https://assets.ppy.sh/media/yuzu/yuzu-full-cover.jpg)
 
-I picked through all of the things people suggested (a wizard hat? really?) and decided to go with [Thievley](https://osu.ppy.sh/users/4717672)'s design because I felt you know... *connected* to her design. It screams... *speed*. 
+I picked through all of the things people suggested (a wizard hat? really?) and decided to go with [Thievley](https://osu.ppy.sh/users/4717672)'s design because I felt you know... *connected* to her design. It screams... *speed*.
 
 Okay, really, more like because she made me look pretty cool.
 
@@ -28,7 +28,7 @@ I choose to go with blue because I like blue. That's it. It's cool.
 
 Oh, oh, but lemme tell you how I got my amazing scarf!
 
-It starts with me accidentally dropping into a mysterious portal, which leads to some epic mecha fight (and flatten some medieval looking cities in the process, unfortunately), and the death of a friend that I recently met. 
+It starts with me accidentally dropping into a mysterious portal, which leads to some epic mecha fight (and flatten some medieval looking cities in the process, unfortunately), and the death of a friend that I recently met.
 
 That was sad. But she had this really awesome scarf that she got from her grandfather - and now, it's mine! She gave it to me. I have proof. Really!
 
@@ -51,3 +51,6 @@ Hmm? Is that someone banging on my door? Oh, welp, guess it's time for me to get
 *[Download the full, high quality design documentation here!](https://assets.ppy.sh/media/yuzu/yuzu-hq.pdf)*
 
 —Yuzu
+
+Character Design & Illustrations: [Thievley](https://osu.ppy.sh/users/4717672)\
+Key Art & Additional Illustrations: [Crowie](https://osu.ppy.sh/users/6894067)
