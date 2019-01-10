@@ -39,29 +39,29 @@ The osu! Tag Team Multiplayer Tournament was run by various community members by
 
 | Team | Members |
 | :-- | :-- |
-| **Does it matter?** | ![][flag_NL] **[Gopice](https://osu.ppy.sh/users/54848)**, Livender |
+| **Does it matter?** | ![][flag_NL] **[Gopice](https://osu.ppy.sh/users/54848)**, ![][flag_NL] [livender](https://osu.ppy.sh/users/55384) |
 | **Less QQ more PEWPEW** | ![][flag_EC] **[Sir Minelli](https://osu.ppy.sh/users/39872)**, ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) |
 | **fagboat** | ![][flag_ZA] **[hawkzor](https://osu.ppy.sh/users/37529)**, ![][flag_ZA] [Lucidity](https://osu.ppy.sh/users/56904) |
 | **Mlekołaki** | ![][flag_PL] **[CrazyBanana](https://osu.ppy.sh/users/62856)**, ![][flag_PL] [skratch](https://osu.ppy.sh/users/49499) |
 | **huge cocks** | ![][flag_US] **[Rolled](https://osu.ppy.sh/users/5243)**, ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) |
-| **Banchobag** | ![][flag_NL] **[Lesjuh](https://osu.ppy.sh/users/44308)**, HenkieBP |
+| **Banchobag** | ![][flag_NL] **[Lesjuh](https://osu.ppy.sh/users/44308)**, ![][flag_NL] [Henkie](https://osu.ppy.sh/users/16944) |
 | **IITF** | ![][flag_RU] **[RaisTF](https://osu.ppy.sh/users/44074)**, ![][flag_PH] [WyndII](https://osu.ppy.sh/users/46538) |
 | **MINMIrox** | ![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199) |
 | **Mitizuma** | ![][flag_FR] **[Inozuma](https://osu.ppy.sh/users/14137)**, ![][flag_FR] [Mitano](https://osu.ppy.sh/users/63932) |
 | **Asskickers!** | ![][flag_PL] **[SteRRuM](https://osu.ppy.sh/users/42585)**, ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) |
-| **peppyfangirlsamirite** | **Rena-chan**, Mr\_Tinkles |
+| **peppyfangirlsamirite** | ![][flag_DK] **[Rena-chan](https://osu.ppy.sh/users/62858)**, ![][flag_AU] [Alurn](https://osu.ppy.sh/users/28991) |
 | **two noobs** | ![][flag_CN] **[himydanny](https://osu.ppy.sh/users/19173)**, ![][flag_TW] [x2652300](https://osu.ppy.sh/users/11556) |
 | **Fumoffu** | ![][flag_DE] **[Dangaard](https://osu.ppy.sh/users/19488)**, ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) |
 | **The Craweszoymators** | ![][flag_NL] **[Celestral](https://osu.ppy.sh/users/25025)**, ![][flag_NL] [Ten](https://osu.ppy.sh/users/44484) |
-| **Lubimy Ponczgi!** | ![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, SeymourLyon |
-| **Appelmoes** | ![][flag_NL] **[Remco32](https://osu.ppy.sh/users/9199)**, Gladi |
+| **Lubimy Ponczgi!** | ![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826) |
+| **Appelmoes** | ![][flag_NL] **[Remco32](https://osu.ppy.sh/users/9199)**, ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
 | **Let's rock** | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_AT] [Hanyuu](https://osu.ppy.sh/users/73480) |
 | **Allstar** | ![][flag_TW] **[Alace](https://osu.ppy.sh/users/25993)**, ![][flag_TW] [moonstar](https://osu.ppy.sh/users/38408) |
 | **Not Ready** | ![][flag_US] **[Starrodkirby86](https://osu.ppy.sh/users/410)**, ![][flag_SE] [Real1](https://osu.ppy.sh/users/40998) |
-| **100% Failure** | ![][flag_AT] **[Leimilia](https://osu.ppy.sh/users/44079)**, Alex0686 |
+| **100% Failure** | ![][flag_AT] **[Leimilia](https://osu.ppy.sh/users/44079)**, ![][flag_US] [Strawberry-kun](https://osu.ppy.sh/users/27844) |
 | **Animalz D:** | ![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) |
-| **?!** | ![][flag_US] **[Derekku](https://osu.ppy.sh/users/91341)**, strager |
-| **Untitled** | ![][flag_CN] **[ignorethis](https://osu.ppy.sh/users/27343)**, Leimiliya |
+| **?!** | ![][flag_US] **[Derekku](https://osu.ppy.sh/users/91341)**, ![][flag_US] [strager](https://osu.ppy.sh/users/64678) |
+| **Untitled** | ![][flag_CN] **[ignorethis](https://osu.ppy.sh/users/27343)**, ![][flag_CN] [leimiliya](https://osu.ppy.sh/users/76568) |
 | **FOE** | ![][flag_US] **[Mafiamaster](https://osu.ppy.sh/users/17695)**, ![][flag_DE] [Nharox](https://osu.ppy.sh/users/6794) |
 
 ------------------------------
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 - [Amane - Boozehound \[ignore's Insane\]](https://osu.ppy.sh/beatmapsets/5875#osu/27848)
 - [Shinji Orito, Magome Togoshi - Yoru Sou \[Hard\]](https://osu.ppy.sh/beatmapsets/3708#osu/22394)
 - [Paramore - That's What You Get \[Hard\]](https://osu.ppy.sh/beatmapsets/6732#osu/30078)
-- [Zettai Karen Children - DATTE Daihonmei](https://osu.ppy.sh/beatmapsets/7660)
+- [Zettai Karen Children - DATTE Daihonmei \[Hard\]](https://osu.ppy.sh/beatmapsets/7660#osu/32545)
 - [KOTOKO and Utatsuki Kaori - Double HarmoniZe Shock!! \[Hard\]](https://osu.ppy.sh/beatmapsets/1091#osu/8170)
 - [Digital R.i.S.E. - Cerulean Sky \[Hard\]](https://osu.ppy.sh/beatmapsets/3998#osu/23086)
 - [Megumi Nakajima (Ranka Mei) - Nyan Nyan Song (Touhou Rock Remix) \[Nyaaaaa\]](https://osu.ppy.sh/beatmapsets/7613#osu/32440)
@@ -294,8 +294,10 @@ Mod settings for the match:
 If both teams agree on difficulty-increasing mods, like hidden or flashlight, then they can be used, but only if both teams agree.
 
 [flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
