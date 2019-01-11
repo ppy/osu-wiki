@@ -1,6 +1,6 @@
 ---
 tags:
-- OTC #2
+- 'OTC #2'
 - OTC 2
 - OTC#2
 - OTC2
@@ -9,7 +9,7 @@ tags:
 
 ![OTC #2 Logo](img/logo.png)
 
-The **osu! Technical Championship #2** (***OTC #2***) was a double elimination three-on-three osu! tournament hosted by ![][flag_US] [IsoSubjectPi](/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping techniques mappools. It was the 2nd installment of the osu! Technical Championship.
+The **osu! Technical Championship #2** (***OTC #2***) was a double elimination three-on-three osu! tournament hosted by ![][flag_US] [IsoSubjectPi](/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the 2nd installment of the osu! Technical Championship.
 
 ## Tournament Schedule
 
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
   - [Max Coveri - Running in the 90's (Monstrata) \[FINAL STAGE\]](/beatmapsets/739262#osu/1559974)
   - [lapix feat. Renko from ORANGEJAM - Concept Of Reality (ProfessionalBox) \[eXiStEnCe\]](/beatmapsets/559140#osu/1182535)
   - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](/beatmapsets/580375#osu/1228840)
-  - [Memme - Pandemonium (handsome) \[handsome's Master: \#1\]](/beatmapsets/734190#osu/1562545)
+  - [Memme - Pandemonium (handsome) \[handsome's Master: #1\]](/beatmapsets/734190#osu/1562545)
 - Hidden
   - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](/beatmapsets/54511#osu/168031)
   - [Ocelot - KAEDE (Moecho) \[Moecho's EX\]](/beatmapsets/660630#osu/1551210)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
   - [a\_hisa - Fanatiker der Liebe \[Extra\]](http://osu.uu.gl/s/167091)
 - HardRock
   - [syrela - Pulsation (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/677886#osu/1433497)
-  - [Powerless - Soleil (DTM9 Nowa, \_DT3) \[\#3: DTM9 Nowa & \_DT3\]](https://osu.ppy.sh/beatmapsets/721494#osu/1524297)
+  - [Powerless - Soleil (DTM9 Nowa, \_DT3) \[#3: DTM9 Nowa & \_DT3\]](https://osu.ppy.sh/beatmapsets/721494#osu/1524297)
   - [Sota Fujimori - DANCE ALL NIGHT (DTM9 Nowa) [Nowa's Insane]](https://osu.ppy.sh/beatmapsets/600303#osu/1310291)
 - DoubleTime
   - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (Pho) \[Hyper\]](https://osu.ppy.sh/beatmapsets/237854#osu/628995)
