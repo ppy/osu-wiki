@@ -763,7 +763,7 @@ Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permi
 
 ### Standard
 
-_See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
+*Main page: [osu!standard](/wiki/Game_Modes/osu!)*
 
 Standard refers to the game mode in osu! and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 

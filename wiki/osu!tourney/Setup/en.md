@@ -1,7 +1,5 @@
 # Setup
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 **Note:** An active supporter tag is currently required to use the osu!tourney client.
 
 It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.  

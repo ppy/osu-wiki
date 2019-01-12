@@ -1,7 +1,5 @@
 # 2012
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## September
 
 ![](img/2012-09_01.jpg "osu!'s main menu at the time")

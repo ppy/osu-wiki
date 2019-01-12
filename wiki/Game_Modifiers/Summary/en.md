@@ -5,8 +5,6 @@
 
 # Summary
 
-_Main page: [Game Modifiers](/wiki/Game_Modifiers)_
-
 Note: All mods used in osu!mania will never increase the score multiplier.
 
 | Mod | Name (Abbr.) | Multiplier | Effect |

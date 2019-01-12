@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
@@ -75,98 +78,108 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 
 ### osu!standard
 
-| Nama | Tambahan Bahasa |
-| :-- | :-- |
-| [ailv](/users/6933054) |  |
-| [Andrea](/users/33599) | Italian |
-| [bossandy](/users/360437) | Chinese |
-| [BOUYAAA](/users/405449) | French, some German |
-| [DeRandom Otaku](/users/5156153) | Urdu |
-| [Doormat](/users/3230571) |  |
-| [Electoz](/users/6485263) | Thai |
-| [F D Flourite](/users/2459589) | Chinese |
-| [Garden](/users/2849992) | Chinese |
-| [Gero](/users/1467715) | Spanish |
-| [Gottagof4st](/users/6122935) | Dutch |
-| [IceKalt](/users/5410645) | German |
-| [iYiyo](/users/3919785) | Spanish, some German |
-| [jonathanlfj](/users/270377) | Chinese, some French |
-| [Kalibe](/users/3376777) | Polish |
-| [Karen](/users/3143784) | Chinese |
-| [Kibbleru](/users/3193504) |  |
-| [Kuron-kun](/users/2697284) | Portuguese |
-| [Lafayla](/users/5312547) |  |
-| [MaridiuS](/users/4496961) | Serbian |
-| [Mirash](/users/2841009) | Russian |
-| [Mordred](/users/7265097) | German |
-| [Namki](/users/5248582) | Estonian, Russian |
-| [Nao Tomori](/users/5364763) | French |
-| [Natsu](/users/1953876) | Spanish |
-| [neonat](/users/1561995) | Chinese |
-| [Net0](/users/5099768) | Portuguese |
-| [Nevo](/users/7451883) |  |
-| [Noffy](/users/1541323) |  |
-| [Nozhomi](/users/2716981) | French |
-| [Okoratu](/users/1623405) | German |
-| [pimpG](/users/328615) | Portuguese |
-| [Plaudible](/users/7149815) |  |
-| [Realazy](/users/918297) | French |
-| [Regraz](/users/3076909) | Chinese |
-| [riffy](/users/597957) | Russian |
-| [Rizen](/users/3056732) |  |
-| [Seto Kousuke](/users/2857314) | Portuguese |
-| [smallboat](/users/243049) | Chinese |
-| [Sonnyc](/users/11771) | Korean |
-| [TheKingHenry](/users/5128277) | Finnish |
-| [timemon](/users/2072005) | Thai |
-| [Trynna](/users/2652951) | Portuguese |
-| [Ultima Fox](/users/3198109) |  |
-| [UndeadCapulet](/users/2523533) |  |
-| [Wishkey](/users/1101704) | Dutch, German |
-| [Yauxo](/users/898306) | German |
+| Nama                                                  | Tambahan Bahasa          |
+|-------------------------------------------------------|--------------------------|
+| [ailv](https://osu.ppy.sh/users/6933054)              |                          |
+| [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
+| [Beomsan](https://osu.ppy.sh/users/3626063)           | Korean                   |
+| [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
+| [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
+| [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
+| [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         | Finnish                  |
+| [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
+| [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
+| [Garden](https://osu.ppy.sh/users/2849992)            | Chinese                  |
+| [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
+| [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
+| [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
+| [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
+| [iYiyo](https://osu.ppy.sh/users/3919785)             | Spanish, some German     |
+| [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
+| [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
+| [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
+| [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
+| [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
+| [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
+| [Mirash](https://osu.ppy.sh/users/2841009)            | Russian                  |
+| [Mordred](https://osu.ppy.sh/users/7265097)           | German                   |
+| [Myxomatosis](https://osu.ppy.sh/users/2202645)       | German                   |
+| [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
+| [Nao Tomori](https://osu.ppy.sh/users/5364763)        | French                   |
+| [Natsu](https://osu.ppy.sh/users/1953876)             | Spanish                  |
+| [NeilPerry](https://osu.ppy.sh/users/841391)          | Russian                  |
+| [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
+| [Net0](https://osu.ppy.sh/users/5099768)              | Portuguese               |
+| [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
+| [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
+| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
+| [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
+| [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
+| [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
+| [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese                  |
+| [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
+| [smallboat](https://osu.ppy.sh/users/243049)          | Chinese                  |
+| [Smokeman](https://osu.ppy.sh/users/2140676)          |                          |
+| [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |
+| [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
+| [Sotarks](https://osu.ppy.sh/users/4452992)           | French                   |
+| [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
+| [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
+| [Trynna](https://osu.ppy.sh/users/2652951)            | Portuguese               |
+| [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
+| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
+| [Uta](https://osu.ppy.sh/users/9439796)               | Indonesian               |
+| [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
+| [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
+| [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
+| [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 
 ### osu!taiko
 
-| Nama | Tambahan Bahasa |
-| :-- | :-- |
-| [-Kazu-](/users/920861) | Spanish |
-| [Faputa](/users/845733) | Cantonese, Chinese |
-| [hikiko-](/users/6512678) |  |
-| [Jonawaga](/users/3653035) |  |
-| [Kin](/users/480689) | French |
-| [neonat](/users/1561995) | Chinese |
-| [Nepuri](/users/6637817) | German |
-| [Nifty](/users/4956097) |  |
-| [Okoratu](/users/1623405) | German |
-| [qoot8123](/users/766371) | Chinese |
-| [Stefan](/users/626907) | German |
-| [Surono](/users/3611370) | Indonesian |
-| [tasuke912](/users/2774767) | Japanese |
-| [Volta](/users/4154071) | Indonesian |
+| Nama                                                  | Tambahan Bahasa          |
+|-------------------------------------------------------|--------------------------|
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Spanish, Portuguese, Catalan, Japanese|
+| [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
+| [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
+| [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
+| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
+| [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
+| [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
+| [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
+| [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
+| [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
 
 ### osu!catch
 
-| Nama | Tambahan Bahasa |
-| :-- | :-- |
-| [alienflybot](/users/636114) | Cantonese, Chinese |
-| [Ascendance](/users/2931883) |  |
-| [Benny-](/users/4023183) | Norwegian |
-| [Electoz](/users/6485263) | Thai |
-| [JeirYagtama](/users/7483452) | Filipino |
-| [Nokashi](/users/5431196) | Greek |
-| [Sinnoh](/users/4236057) |  |
-| [Yumeno Himiko](/users/1806962) | Chinese |
-| [ZiRoX](/users/200768) | Spanish |
+| Nama                                                  | Tambahan Bahasa          |
+|-------------------------------------------------------|--------------------------|
+| [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
+| [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
+| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
+| [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
+| [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
+| [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
+| [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
+| [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
+| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
+| [wonjae](https://osu.ppy.sh/users/5032045)            |                          |
+| [Yumeno Himiko](https://osu.ppy.sh/users/1806962)     | Chinese                  |
 
 ### osu!mania
 
-| Nama | Tambahan Bahasa |
-| :-- | :-- |
-| [\_Stan](/users/1653229) | Chinese |
-| [Asherz007](/users/9014047) |  |
-| [Critical_Star](/users/3793196) | Chinese |
-| [DoNotMess](/users/1596318) | Indonesian |
-| [Kawawa](/users/4647754) | Korean |
-| [Rivals_7](/users/4610379) | Indonesian |
-| [Sandalphon](/users/2633753) | Chinese |
-| [Tofu1222](/users/6089608) | Chinese |
+| Nama                                                  | Tambahan Bahasa          |
+|-------------------------------------------------------|--------------------------|
+| [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
+| [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
+| [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |
+| [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
+| [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
+| [Dellvangel](https://osu.ppy.sh/users/5186244)        | Indonesian               |
+| [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
+| [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
+| [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
+| [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
+| [Sandalphon](https://osu.ppy.sh/users/2633753)        | Chinese                  |
+| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
+| [Tofu1222](https://osu.ppy.sh/users/6089608)          | Chinese                  |

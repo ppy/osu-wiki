@@ -1,7 +1,5 @@
 # 2017
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 [Ephemeral](/users/102335) posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](/beatmaps/artists/9) and [nanobii](/beatmaps/artists/10) were announced to be osu!'s new featured artists. [cYsmix](/beatmaps/artists/2), [yuki.](/beatmaps/artists/4) and [Helblinde](/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.

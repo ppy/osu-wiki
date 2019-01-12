@@ -1,7 +1,5 @@
 # 2014
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## March
 
 As skinning elements expanded, the element, `playfield.jpg` was removed in it's line of duty and replaced with a new generic one that is unskinnable. `playfield.jpg` was an element that allowed you to use any image as the default background of a beatmap, if one isn't supplied.

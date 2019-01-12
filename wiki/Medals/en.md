@@ -89,7 +89,7 @@ The Dedication medals can be obtained by playing a lot of osu!standard, collecti
 Mod Introduction
 ----------------
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+*See also: [Game Modifiers](/wiki/Game_Modifiers)*
 
 The Mod Introduction medals can be obtained by clearing maps with the specified game modifier.
 They are meant to encourage newer players to try out each mod and explore what the game has to offer.

@@ -1,7 +1,5 @@
 # 2013
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Catch_the_Beat) was almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" is out. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).

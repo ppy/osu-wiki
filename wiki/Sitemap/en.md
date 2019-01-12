@@ -225,7 +225,6 @@ tags:
     -   [Commands](/wiki/Storyboard_Scripting/Commands)
     -   [Compound Commands](/wiki/Storyboard_Scripting/Compound_Commands)
     -   [General Rules](/wiki/Storyboard_Scripting/General_Rules)
-    -   [Miscellaneous](/wiki/Storyboard_Scripting/Miscellaneous)
     -   [Objects](/wiki/Storyboard_Scripting/Objects)
     -   [osu! File Toggles](/wiki/Storyboard_Scripting/osu!_File_Toggles)
     -   [Shorthand](/wiki/Storyboard_Scripting/Shorthand)

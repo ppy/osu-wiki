@@ -1,6 +1,6 @@
 # Installation
 
-<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
+<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux)* -->
 
 This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
@@ -50,7 +50,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ## Adding skins
 
-*See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning).*
+*See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
 
 1.  Go to the [skinning subforums](/community/forums/15) and find a skin you like.
 2.  Once you find a skin, download it.

@@ -1,7 +1,5 @@
 # 2016
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 A brand new year with additions to the list of [community contributors](/wiki/community_contributors). Best of 2015 voting opened.

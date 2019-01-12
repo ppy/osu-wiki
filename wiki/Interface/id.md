@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
 =Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 

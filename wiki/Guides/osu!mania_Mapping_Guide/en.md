@@ -6,7 +6,7 @@ Prologue
 
 ### What is osu!mania?
 
-*See also: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Main page: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 So what exactly is osu!mania? Many of you osu! veterans out there might already know what osu!mania is. osu!mania is one of the four game modes. Many people that stumble upon osu!mania for the first time will probably think to themselves "Oh cool! Guitar Hero!". And indeed, osu!mania is very similar to Guitar Hero. Both of these games are so-called "VSRGs", or **Vertical Scrolling Rhythm Games**. This means, as the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX". But for now, we will be concentrating on osu!mania only!
 

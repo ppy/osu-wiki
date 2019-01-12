@@ -743,11 +743,15 @@ The name of the game, osu!, is never capitalised nor italicised. The osu! offici
 Other brandings that are not covered by the osu! official branding must use spaces. Examples include:
 
 - `osu! tournaments`
-- `osu! alumni`
 - `osu! community`
 - `osu! chat`
 - `osu! client`
 - `osu! wiki`
+
+User titles that include `osu!` as part of the title name must be capitalised. Examples include:
+
+- `osu! Alumni`
+- `osu! Champion`
 
 ---
 

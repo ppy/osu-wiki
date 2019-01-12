@@ -4,7 +4,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 ## Beatmapping
 
-_See also: [Beatmapping](/wiki/Beatmapping)_
+*Main page: [Beatmapping](/wiki/Beatmapping)*
 
 - [Adding Custom Hit Sounds](/wiki/Adding_Custom_Hit_Sounds)
 - [Audio Editing](/wiki/Audio_Editing)
@@ -24,7 +24,7 @@ _See also: [Beatmapping](/wiki/Beatmapping)_
 
 ## Modding
 
-_See also: [Modding](/wiki/Modding)_
+*Main page: [Modding](/wiki/Modding)*
 
 - [Getting Your Map Modded](/wiki/Getting_Your_Map_Modded)
 - [How To Get Your Map Ranked](/wiki/How_To_Get_Your_Map_Ranked)
@@ -42,7 +42,9 @@ _See also: [Modding](/wiki/Modding)_
 
 ## Skinning
 
-_See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial)_
+*Main page: [Skinning](/wiki/Skinning)*
+
+*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
 - [Cropping with Complex Backgrounds](/wiki/Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](/wiki/Cropping_with_Simple_Backgrounds)
