@@ -266,7 +266,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2018-05-27 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Rubber Conquest** | **6** | 1 | Floating up | -missing mp link- |
+| **Rubber Conquest** | **6** | 1 | Floating up | [#1](/community/matches/42816259) |
 
 ### Finals
 
