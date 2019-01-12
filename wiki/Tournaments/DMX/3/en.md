@@ -85,37 +85,45 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 -----------------------
 
-## Match Schedules: Semifinals
+## Match Schedules: Grand Finals
 
-### Saturday, 15 December 2018
-
-| Match ID | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | BossMadWolf | ![][flag_TH] | ![][flag_MY] | cheewee10 | **10:00 UTC** |
-| #2 | xSnaggles | ![][flag_GB] | ![][flag_PL] | SitekX | **14:00 UTC** |
-| #3 | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_FI] | Camopoltergeist | **12:00 UTC** |
-| #4 | MyZterioN- | ![][flag_TH] | ![][flag_MY] | \[MY\]Kibitz | **08:00 UTC** |
-
-### Sunday, 16 December 2018
+### Saturday, 12 January 2019
 
 | Match ID | Player A |  |  | Player B | Match Time |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | BossMadWolf | ![][flag_TH] | ![][flag_TH] | -\[DaNieL\_TH\]- | **11:00 UTC** | ¹ |
-| #5b | cheewee10 | ![][flag_MY] | ![][flag_TH] | -\[DaNieL\_TH\]- | **11:00 UTC** | ¹ |
-| #5c | BossMadWolf | ![][flag_TH] | ![][flag_FI] | Camopoltergeist | **11:00 UTC** | ¹ |
-| #5d | cheewee10 | ![][flag_MY] | ![][flag_FI] | Camopoltergeist | **11:00 UTC** | ¹ |
-| #6a | MyZterioN- | ![][flag_TH] | ![][flag_GB] | xSnaggles | **13:00 UTC** | ² |
-| #6b | \[MY\]Kibitz | ![][flag_MY] | ![][flag_GB] | xSnaggles | **13:00 UTC** | ² |
-| #6c | MyZterioN- | ![][flag_TH] | ![][flag_PL] | SitekX | **13:00 UTC** | ² |
-| #6d | \[MY\]Kibitz | ![][flag_MY] | ![][flag_PL] | SitekX | **13:00 UTC** | ² |
+| #1 | cheewee10 | ![][flag_MY] | ![][flag_GB] | xSnaggles | **13:00 UTC** |  |
+| #2 | xSnaggles | ![][flag_GB] | ![][flag_MY] | cheewee10 |  | ¹ |
 
-¹ Encounter dependent on winner of Match #1 and Match #3
-
-² Encounter dependent on winner of Match #2 and Match #4
+¹ Match will take place if Player B wins Match #1
 
 -----------------------
 
 ## Mappools
+
+### Finals
+
+**This mappool will be played in Finals and Grand Finals.**
+
+**[Download the mappack here! (129 MB)](https://mega.nz/#!J11SWIRA!Gf_dA6CwFmOAF-QyeGe-a3DCB_WsE4RtAbL1Ufn_Dwk)**
+
+- FreeMod
+  - [Camellia - epimerization (qqqant) \[doxorubicin\]](/beatmapsets/803740/#mania/1686934)
+  - [Frums - Credits (Leniane) \[Corporation\]](/beatmapsets/748800/#mania/1577390)
+  - [Camellia - EMPIRE OF FLAME ("LabRys" Long ver.) (Shoegazer, Valedict) \[GRAVITY\]](/beatmapsets/772677/#mania/1624171)
+  - [Pia-no-jaC - Paradiso (Scintill) \[Scintill's Challenge\]](/beatmapsets/322085/#mania/716194)
+  - [Billx - LA MD (Wh1teh) \[Marathon\]](/beatmapsets/455656/#mania/976620)
+  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](/beatmapsets/765772/#mania/1609983)
+  - [void - Anguished Unmaking (LovelySerenade) \[Vindication\]](/beatmapsets/728509/#mania/1538044)
+  - [Hatsuki Yura - Dancer of Saramandora (Raveille) \[Sprites\]](/beatmapsets/836808/#mania/1752295)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](/beatmapsets/872940/#mania/1824765)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[desperation\]](/beatmapsets/574621/#mania/1216961)
+  - [Reizoko Cj - Cosmos / The R Machine (Chrubble) \[Ultimate\]](/beatmapsets/677365/#mania/1432566)
+  - [Camellia - Nightmare of Hornets Squad (Valedict, Evening) \[Breakdown\]](/beatmapsets/543489/#mania/1151944)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Extreme\]](/beatmapsets/684675/#mania/1449017)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (qqqant) \[Nine Time\]](/beatmapsets/859935/#mania/1799312)
+  - [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](/beatmapsets/496416#mania/1056624)
+- Tiebreaker
+  - **[Camellia - POWA OF DA WILDANES (qqqant) \[IN DA JUNGLE\]](/beatmapsets/773957/#mania/1626796)**
 
 ### Semifinals
 
@@ -196,6 +204,31 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2019-01-05 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](/community/matches/48633506) |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **7** | ![][flag_PL] **SitekX** | [#1](/community/matches/48632373) |
+
+| Sunday, 2019-01-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| SitekX ![][flag_PL] | 6 | **7** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/48661045) |
+
+### Semifinals
+
+| Saturday, 2018-12-15 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| BossMadWolf ![][flag_TH] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](/community/matches/48109370) |
+| **xSnaggles** ![][flag_GB] | **5** | 4 | ![][flag_PL] SitekX | [#1](/community/matches/48122244) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_FI] Camopoltergeist | [#1](/community/matches/48109390) |
+| MyZterioN- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](/community/matches/48106115) |
+
+| Sunday, 2018-12-16 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| BossMadWolf ![][flag_TH] | 2 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | [#1](/community/matches/48137730) |
+| \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_PL] **SitekX** | -win by default- |
 
 ### Quarterfinals
 

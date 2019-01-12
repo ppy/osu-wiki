@@ -34,7 +34,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ## Links
 
-- [Tournament schedule](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
 - [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
 
 ------------------------------------------

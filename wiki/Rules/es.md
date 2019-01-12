@@ -35,7 +35,7 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 
 ## Reglas de Envio de Beatmaps
 
-  Estas reglas aplican estríctamente a los beatmaps que sean presentados a través del [Beatmap Submission System](/wiki/Glossary/#bss) (Sistema de Envio de Beatmaps) dentro del juego. Estos hilos/discusiones son creados a través del cliente osu! cuando un beatmap es presentado a través del [editor](/wiki/Beatmap_Editor).
+  Estas reglas aplican estríctamente a los beatmaps que sean presentados a través del [Beatmap Submission System](/wiki/Glossary#bss) (Sistema de Envio de Beatmaps) dentro del juego. Estos hilos/discusiones son creados a través del cliente osu! cuando un beatmap es presentado a través del [editor](/wiki/Beatmap_Editor).
 
   Existe un set de reglas más detallado para la construcción de beatmaps, conocido como los [Ranking Criteria](/wiki/Ranking_Criteria) (Criterios de Ranking).
 

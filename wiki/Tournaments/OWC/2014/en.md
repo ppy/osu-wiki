@@ -430,7 +430,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 8. Winner of the rematch.
 9. The top 2 teams of each group will move on to the Double Elimination Stages.
 10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-11. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+11. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
 
 | Stage | Match ID |
 |:--|:--|
