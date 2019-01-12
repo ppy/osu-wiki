@@ -99,6 +99,13 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
 
+### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| osu! Technical Championship | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |

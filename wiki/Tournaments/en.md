@@ -99,6 +99,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
 
+### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| osu! Technical Championship | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
