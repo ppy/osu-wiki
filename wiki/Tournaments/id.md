@@ -215,6 +215,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
 | [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
+| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ![][flag_MY] [cheewee10](/users/4477497) | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [SitekX](/users/3840946) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
 

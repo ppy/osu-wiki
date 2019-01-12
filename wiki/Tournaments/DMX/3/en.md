@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 Logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a double-elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It was the 3rd installment of the DeltaMax's Tournaments.
 
 ## Tournament Schedule
 
@@ -31,14 +31,12 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
 ![DMX 3 Winner Badge](img/badge.png)
 
 ## Organisation
 
-The DeltaMax's Mania Key Smasher is run by various community members.
+The DeltaMax's Mania Key Smasher was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -85,16 +83,15 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 -----------------------
 
-## Match Schedules: Grand Finals
+## Podium
 
-### Saturday, 12 January 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #1 | cheewee10 | ![][flag_MY] | ![][flag_GB] | xSnaggles | **13:00 UTC** |  |
-| #2 | xSnaggles | ![][flag_GB] | ![][flag_MY] | cheewee10 |  | ¹ |
-
-¹ Match will take place if Player B wins Match #1
+| Placing | Team(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] [cheewee10](/users/4477497) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [xSnaggles](/users/3799946) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] [SitekX](/users/3840946) |
 
 -----------------------
 
@@ -102,7 +99,7 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 ### Finals
 
-**This mappool will be played in Finals and Grand Finals.**
+**This mappool was played in Finals and Grand Finals.**
 
 **[Download the mappack here! (129 MB)](https://mega.nz/#!J11SWIRA!Gf_dA6CwFmOAF-QyeGe-a3DCB_WsE4RtAbL1Ufn_Dwk)**
 
@@ -204,6 +201,12 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2019-01-12 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](/community/matches/48798362) |
 
 ### Finals
 
