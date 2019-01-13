@@ -20,7 +20,7 @@ The timeline is as follows (all opening and closing dates start and end at midni
 
 During this time, the internal organization team will host a variety of events on the Discord server, such as mapping contests, modding puzzles, or even just things like multiplayer lobbies with integrated feedback sessions! Some mentors also hold lectures from time to time that are accompanied or followed by an open round of questions from the mentees. A compendium of those can be found over at this thread. If lectures and all aren't for you and you're more of a do-it-yourself person, this thread collects a lot of mapping puzzles that have been created within the scope of this program to mess around with yourself!
 
-If you or anyone you know might be interested in applying, go ahead and check out the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/851923)!  We intend to begin the cycle on the dates written above if we get enough interest from mentors--otherwise, it may be postponed.
+If you or anyone you know might be interested in applying, go ahead and check out the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/851923)!
 
 We're looking forward to the next generation of mentors and mentees!
 
