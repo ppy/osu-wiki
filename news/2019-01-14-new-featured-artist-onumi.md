@@ -6,7 +6,7 @@ date: 2019-01-14 10:00:00 +0000
 
 Drawing deep from the sounds of the underground, the Featured Artist project welcomes **onumi** into the mix!
 
-[![](https://assets.ppy.sh/artists/32/header.jpg)](https://osu.ppy.sh/beatmaps/artists/32)
+[![](https://assets.ppy.sh/artists/32/header.jpg?20190114)](https://osu.ppy.sh/beatmaps/artists/32)
 
 Featuring some of the darkest electronica we've fielded in the project yet, we're proud to announce the addition of [**onumi**](https://osu.ppy.sh/beatmaps/artists/32) to the Featured Artist roster with all of her latest album release, *Childhood Friend*, plus a few extra selections from her body of work.
 
