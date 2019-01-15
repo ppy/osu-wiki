@@ -129,7 +129,7 @@ Other than that the map is fairly straightforward, without any weird gimmicks, a
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
-osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)! This week, all osu!mania beatmap descriptions were written by [Captain](https://osu.ppy.sh/users/2563435).
+osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
 ---
 
