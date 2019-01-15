@@ -51,8 +51,8 @@ Tiga sampel berikut adalah tambahan, artinya ketika Anda menekan whistle Anda ak
 ## Catatan
 
 - Secara internal format file `.wav` digunakan untuk semua hitsound karena latency yang rendah untuk memicu dan kompabilitas loop.
-  - Anda dapat menggunakan `.wav` or `.mp3`, tapi perhatikan berikut: file `.wav` adalah yg terbaik, ini karena `.mp3` mungkin terkadang membuat loop salah dan celah antara loop terasa pendek (0 - 20ms).
-- Jika Anda ingin mengganti sampel normal dan soft di skin, tidak perlu menambahkan `normal-` atau `soft-` pada awal file.
+  - Anda dapat menggunakan `.wav` atau `.mp3`, tapi perhatikan hal berikut: file `.wav` adalah pilihan yg terbaik, karena file `.mp3` terkadang membuat loop salah dan celah antara loop terasa pendek (0 - 20ms).
+- Jika Anda ingin mengganti sampel normal dan soft pada skin, tidak perlu menambahkan `normal-` atau `soft-` pada awal file.
 - Tempatkan file di dalam folder beatmap atau skin.
   Anda harus memuat ulang beatmap atau skin untuk melihat efeknya!
 
