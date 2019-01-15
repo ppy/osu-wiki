@@ -75,7 +75,7 @@ It's almost a certainty that you'll have heard this song by now. This is Smooth 
 [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/814850#osu) by [Bibbity Bill](https://osu.ppy.sh/users/4446810) et al.  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-After the widespread success of Bibbity Bill's ranked set, he decided to parodize his creation by debuting a TV-sized version of GYZE's ""HONESTY"". As ridiculous as it sounds, the mapset is actually pretty darn good, with each guest difficulty bringing some new and interesting twist to the song. There are too many difficulties to give each a description, but here are the ones I highly recommend trying before voting:
+After the widespread success of Bibbity Bill's ranked set, he decided to parodize his creation by debuting a TV-sized version of GYZE's "HONESTY". As ridiculous as it sounds, the mapset is actually pretty darn good, with each guest difficulty bringing some new and interesting twist to the song. There are too many difficulties to give each a description, but here are the ones I highly recommend trying before voting:
 
 - BoshyMan's EX-Speed Demon: For players on crack
 - J1's Hi-Tech Ultraspeed INSANITY: Honesty but a tech map
