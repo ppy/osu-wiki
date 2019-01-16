@@ -13,10 +13,11 @@ The beatmap charts for the Fall Spotlights can be found [here](https://osu.ppy.s
 ## Summer Spotlights results
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Summer 2018. They will receive 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [StreaminDemon](https://osu.ppy.sh/users/6245906) and [emu1337](https://osu.ppy.sh/users/2185987)
-+ **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [apaajaboleh10](https://osu.ppy.sh/users/5151647) and [BluePlusSymbol](https://osu.ppy.sh/users/6503700)
-+ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547), [Crystal](https://osu.ppy.sh/users/1646397) and [Nelly](https://osu.ppy.sh/users/4741164)
-+ **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [robby250](https://osu.ppy.sh/users/2653437) and [Cryolien](https://osu.ppy.sh/users/1626983)
+
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [StreaminDemon](https://osu.ppy.sh/users/6245906) and [emu1337](https://osu.ppy.sh/users/2185987)
+- **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [apaajaboleh10](https://osu.ppy.sh/users/5151647) and [BluePlusSymbol](https://osu.ppy.sh/users/6503700)
+- **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547), [Crystal](https://osu.ppy.sh/users/1646397) and [Nelly](https://osu.ppy.sh/users/4741164)
+- **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [robby250](https://osu.ppy.sh/users/2653437) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
 # Navigation
 
