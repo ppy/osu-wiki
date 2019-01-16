@@ -6,7 +6,7 @@ date: 2019-01-16 04:00:00 +0000
 
 It is time to take a look at 2018 in retrospective, and decide which 10 maps from each game mode are the highly vaunted Community Favourites!
 
-[![](https://assets.ppy.sh/contests/74/header.jpg?20190116)](https://osu.ppy.sh/community/contests/74)
+[![](/wiki/shared/news/2019-01-16-community-choice-2018/header.jpg)](https://osu.ppy.sh/community/contests/74)
 
 If you're an older player, you might be more familiar with the Community Choice voting as the old "best of" contests held long ago around this time of year. Never fear, Community Choice is basically exactly the same thing, except with more style.
 
