@@ -15,7 +15,7 @@ The **osu! South East Asia Tournament 2** (***oSEAT 2***) is a double eliminatio
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-10-26/2018-11-25 |
-| Live Drawings | 2018-11-26 (20:00 UTC+8) |
+| Live Drawings | 2018-11-26 (20:00) |
 | Qualifiers Stage | 2018-11-30/2018-12-04 |
 | Group Stage | 2018-12-08/2018-12-18 |
 | Round of 32 | 2018-12-19/2018-12-26 |
@@ -97,44 +97,64 @@ The osu! South East Tournament 2 is run by various community members.
 
 -----------------------
 
-## Match Schedules: Semifinals
+## Match Schedules: Finals
 
-### Friday, 11 January 2019
+### Friday, 18 January 2019
 
-| Match Code | Player A |  |  | Player B | Match Time |
+| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| JC | ShaneLiang | ![][flag_MY] | ![][flag_MY] | TequilaWolf | **17:30 UTC+8** |
-| JD | MioMilo | ![][flag_PH] | ![][flag_SG] | GSBlank | **22:00 UTC+8** |
-| JB | wuhua | ![][flag_MY] | ![][flag_MY] | Tzero | **23:00 UTC+8** |
+| MB | Crezz | ![][flag_ID] | ![][flag_SG] | GSBlank | **22:00** |
 
-### Saturday, 12 January 2019
+### Saturday, 19 January 2019
 
-| Match Code | Player A |  |  | Player B | Match Time |  |
+| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| MA | Raindrop | ![][flag_SG] | ![][flag_SG] | SeeL | **22:00** |
+
+### Sunday, 20 January 2019
+
+| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| JA | SeeL | ![][flag_SG] | ![][flag_SG] | M4-K1 | **23:00 UTC+8** |  |
-| KB-1 | ShaneLiang | ![][flag_MY] | ![][flag_PH] | MioMilo | **20:00 UTC+8** | ¹ |
-| KB-2 | ShaneLiang | ![][flag_MY] | ![][flag_SG] | GSBlank | **20:00 UTC+8** | ¹ |
-| KB-3 | TequilaWolf | ![][flag_MY] | ![][flag_PH] | MioMilo | **20:00 UTC+8** | ¹ |
-| KB-4 | TequilaWolf | ![][flag_MY] | ![][flag_SG] | GSBlank | **20:00 UTC+8** | ¹ |
+| LA | Rexeez | ![][flag_ID] | ![][flag_ID] | Skydiver | **13:30** |  |
+| NA-1 | Raindrop | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
+| NA-2 | Raindrop | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
+| NA-3 | SeeL | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
+| NA-4 | SeeL | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
 
-### Sunday, 13 January 2019
-
-| Match Code | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| IB | Crezz | ![][flag_ID] | ![][flag_ID] | Skydiver | **14:00 UTC+8** |  |
-| IA | Raindrop | ![][flag_SG] | ![][flag_ID] | Rexeez | **19:30 UTC+8** |  |
-| KA-1 | SeeL | ![][flag_SG] | ![][flag_MY] | wuhua | **21:00 UTC+8** | ² |
-| KA-2 | SeeL | ![][flag_SG] | ![][flag_MY] | Tzero | **21:00 UTC+8** | ² |
-| KA-3 | M4-K1 | ![][flag_SG] | ![][flag_MY] | wuhua | **21:00 UTC+8** | ² |
-| KA-4 | M4-K1 | ![][flag_SG] | ![][flag_MY] | Tzero | **21:00 UTC+8** | ² |
-
-¹ Encounter dependent on winner of Match JC and Match JD
-
-² Encounter dependent on winner of Match JB and Match JA
+¹ Encounter dependent on winner of Match MA and Match MB
 
 -----------------------
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
+
+- NoMod
+  - [K A Z M A S A - Bon Appetit S \[Short Ver.\] (Oldskool HappyHardcore Remix) (BarkingMadDog) \[blend s 190 BPM\]](/beatmapsets/859515#osu/1803734)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](/beatmapsets/821587#osu/1722011)
+  - [455-38B - Gengaozo\_Foon (ktgster) \[Extra\]](/beatmapsets/869649#osu/1819587)
+  - [Shiggy Jr. - Oyasumi (SnowNiNo\_) \[Zzz\]](/beatmapsets/704338#osu/1490015)
+  - [OISHII - ONIGIRI FREEWAY (Jounzan) \[Jounzan's Special\]](/beatmapsets/873667#osu/1826136)
+- Hidden
+  - [Iwasaki Kanae - Back on the world (Lasse) \[Expert\]](/beatmapsets/836453#osu/1762633)
+  - [RB - Suikyou Heaven (fanzhen0019) \[FxtrZ\]](/beatmapsets/290581#osu/654590)
+  - [EZFG - Glucagon (kwk) \[\[!\] CS4 AR9\]](/beatmapsets/365159#osu/802734)
+  - [Asriel - Kegare Naki Yume (Settia) \[Sagiri Otaku's Extra\]](/beatmapsets/386619#osu/1757416)
+- HardRock
+  - [Primary - STRUGGLES (\[Vincent\]) \[Modorenai\]](/beatmapsets/350766#osu/773238)
+  - [Death Grips - Lord of the Game (ft. Mexican Girl) (handsome) \[GM\]](/beatmapsets/452042#osu/969686)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[EXHAUST\]](/beatmapsets/514750#osu/1093434)
+  - [Sota Fujimori - ACCELERATE (Ametrin) \[Ametrin's Extra\]](/beatmapsets/852406#osu/1782387)
+- DoubleTime
+  - [Nightwish - Last Ride of the Day (pw384) \[Insane\]](/beatmapsets/518695#osu/1463400)
+  - [TAMUSIC - Kyuu Jigoku Kaidou wo Yuku (Xanandra) \[Insane\]](/beatmapsets/315150#osu/702778)
+  - [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Lunatic\]](/beatmapsets/47124#osu/152180)
+  - [Meramipop - Rakujitsu Romance (Loneight) \[Romance\]](/beatmapsets/145976#osu/557980)
+- FreeMod
+  - [Prim - Koisuru\*Uchuu Sensou!! (Ryu\* Remix) (DoKoLP) \[DoKo\]](/beatmapsets/47027#osu/146105)
+  - [BBRAINZ - cyber imagination (Mismagius) \[Future™\]](/beatmapsets/790282#osu/1658362)
 
 ### Semifinals
 
@@ -272,6 +292,25 @@ The osu! South East Tournament 2 is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Friday, 2019-01-11 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| ShaneLiang ![][flag_MY] | 0 | **7** | ![][flag_MY] **TequilaWolf** | -win by default- |
+| MioMilo ![][flag_PH] | 4 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48769481) |
+| **wuhua** ![][flag_MY] | **7** | 1 | ![][flag_MY] Tzero | [#1](/community/matches/48770986) |
+
+| Saturday, 2019-01-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_SG] M4-K1 | [#1](/community/matches/48801520) |
+
+| Sunday, 2019-01-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crezz ![][flag_ID] | 1 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48822893) |
+| **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_MY] wuhua | [#1](/community/matches/48824654) |
+| Raindrop ![][flag_SG] | 3 | **7** | ![][flag_ID] **Rexeez** | [#1](/community/matches/48827871) |
+| TequilaWolf ![][flag_MY] | 3 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48831725) |
 
 ### Quarterfinals
 
