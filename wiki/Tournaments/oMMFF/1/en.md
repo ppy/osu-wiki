@@ -531,12 +531,12 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
   - [Noisia - Groundhog (Beat Juggle) (Emdyion) \[Emdyion's Level\]](/beatmapsets/12448#fruits/69058)
   - [Renard - Feel Better (Blue Dragon) \[Nogard's Extra\]](/beatmapsets/187298#fruits/464294)
 - DoubleTime
-  - [Various Artists - 'EVERMORE SIDE B (Emiru) \[Rihanna - Towards The Sun\]](/beatmapsets/875848#catch/1830307)
-  - [Sasaki Sayaka - Zzz (Euro Star Mix) (- Magic Girl -) \[Cloud\]](/beatmapsets/310591#catch/694117)
+  - [Various Artists - 'EVERMORE SIDE B (Emiru) \[Rihanna - Towards The Sun\]](/beatmapsets/875848#fruits/1830307)
+  - [Sasaki Sayaka - Zzz (Euro Star Mix) (- Magic Girl -) \[Cloud\]](/beatmapsets/310591#fruits/694117)
   - [Muse - You Fucking Motherfucker (Mashley) \[Ridiculous\]](/beatmapsets/22506#osu/77596)
   - [Megpoid GUMI - For my soul (val0108) \[Insane\]](/beatmapsets/22509#osu/80102)
 - Tiebreaker
-  - [Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](/beatmapsets/319217#catch/710613)
+  - **[Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](/beatmapsets/319217#fruits/710613)**
 
 #### Quarterfinals
 
@@ -580,7 +580,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
   - [Avizura - Lucky Star (Hydria) \[Follow, Light, Dreams\]](/beatmapsets/422294#mania/913102)
   - [AK X LYNX ft. Veela - Virtual Paradise (Hydria) \[Insane\]](/beatmapsets/586954#mania/1242932)
 - Tiebreaker
-  - [BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](/beatmapsets/486123#mania/1793948)
+  - **[BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](/beatmapsets/486123#mania/1793948)**
 
 ------------------------------------------------------------------------
 
