@@ -261,7 +261,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | #3a | Boros | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
 | #3a | Holloh | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
 | #4a | -Ken | ![][flag_TN] | ![][flag_FR] | Aequo3 | **21:00** | ² |
-| #4b | Noulayfe | ![][flag_FR] | ![][flag_FR] Aequo3 | **21:00** | ² |
+| #4b | Noulayfe | ![][flag_FR] | ![][flag_FR] | Aequo3 | **21:00** | ² |
 
 #### Dimanche, 20 Janvier 2019
 

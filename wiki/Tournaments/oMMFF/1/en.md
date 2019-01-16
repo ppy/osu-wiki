@@ -261,7 +261,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 | #3a | Boros | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
 | #3a | Holloh | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
 | #4a | -Ken | ![][flag_TN] | ![][flag_FR] | Aequo3 | **21:00** | ² |
-| #4b | Noulayfe | ![][flag_FR] | ![][flag_FR] Aequo3 | **21:00** | ² |
+| #4b | Noulayfe | ![][flag_FR] | ![][flag_FR] | Aequo3 | **21:00** | ² |
 
 #### Sunday, 20 January 2019
 
