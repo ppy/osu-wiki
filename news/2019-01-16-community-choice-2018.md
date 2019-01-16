@@ -8,6 +8,8 @@ It is time to take a look at 2018 in retrospective, and decide which 10 maps fro
 
 [![](https://assets.ppy.sh/contests/74/header.jpg?20190116)](https://osu.ppy.sh/community/contests/74)
 
+([Read more about the contest and its prizes here!](https://osu.ppy.sh/home/news/2019-01-16-community-choice-2018)
+
 If you're an older player, you might be more familiar with the Community Choice voting as the old "best of" contests held long ago around this time of year. Never fear, Community Choice is basically exactly the same thing, except with more style.
 
 Here's how all this goes down:
@@ -18,7 +20,7 @@ Loved maps are currently not eligible.
 
 Find your favorite maps in the running for a given game mode, click them once to shoot them a star of intense approval, and you're done! Easy as that.
 
-The highest voted map from each mode will earn the timeless title of Community Favourite of 2018, and its mapper will score **an exclusive new profile badge, plus 6 months of osu!supporter for their hard-won efforts.
+The highest voted map from each mode will earn the timeless title of Community Favourite of 2018, and its mapper will score **an exclusive new profile badge, plus 6 months of osu!supporter for their hard-won efforts.**
 
 The remaining maps in the top 10 for each mode will also have their mappers receive **3 months of osu!supporter** to commemorate their work.
 
