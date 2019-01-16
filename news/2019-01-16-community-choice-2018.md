@@ -18,7 +18,7 @@ Loved maps are currently not eligible.
 
 Find your favorite maps in the running for a given game mode, click them once to shoot them a star of intense approval, and you're done! Easy as that.
 
-The highest voted map from each mode will earn the timeless title of Community Favourite of 2018, and its mapper will score **an exclusive new profile badge, plus 6 months of osu!supporter for their hard-won efforts.**
+The highest voted map from each mode will earn the timeless title of Community Favourite of 2018, and its mapper will score **an exclusive new profile badge, plus 6 months of osu!supporter for their hard-earned efforts.**
 
 The remaining maps in the top 10 for each mode will also have their mappers receive **3 months of osu!supporter** to commemorate their work.
 
