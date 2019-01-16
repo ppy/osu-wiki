@@ -167,7 +167,7 @@ In short, this is one of if not the best black metal maps to exist for now in os
 
 Another unusual (but good!) trait of this set by [vrnl](https://osu.ppy.sh/users/4799788) is its ability to stay almost perfectly linear progression-wise while retaining the core aspects of the song, and this is, as you may imagine, not an easy task in a breakcore song. The highest difficulty manages to squeeze every single element the song has to offer, with 1/6 patterns reaching the astounding amount of 13 notes in a row!
 
-Overall, despite possibly needing some more spice in terms of slider velocity manipulation, the set accomplishes its objectives quite well: linear progression and challenging top difficulty. A well-deserved place in this season's Spotlights!
+Overall, despite possibly needing some more spice in terms of slider velocity manipulation, the set accomplishes its objectives quite well: linear progression and challenge in the top difficulty. This map will take its well-deserved place in this season's Spotlights!
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-fall-2018/taiko/border.jpg)](http://osu.ppy.sh/beatmapsets/732190)
 
