@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasonal Spotlights: Fall 2018"
-date: 2019-01-16 21:00:00 +0000
+date: 2019-01-16 22:00:00 +0000
 ---
 
 Although 2018 ended, we still have some unopened presents left from the previous year. Come and take a look at the best maps of the Fall Season and earn a fancy new medal for yourself!
