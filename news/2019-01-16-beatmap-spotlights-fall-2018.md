@@ -20,10 +20,10 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 
 # Navigation
 
-- <a href="#osu">osu!</a>
-- <a href="#taiko">osu!taiko</a>
-- <a href="#catch">osu!catch</a>
-- <a href="#mania">osu!mania</a>
+- [osu!](#osu)
+- [osu!taiko](#taiko)
+- [osu!catch](#catch)
+- [osu!mania](#mania)
 
 # Fall 2018 Spotlights
 
