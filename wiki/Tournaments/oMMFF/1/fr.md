@@ -58,12 +58,11 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Phase d'inscription | 2018-11-04/2018-12-23 |
 | Tirage au sort en direct | 2018-12-23 (17:00 UTC) |
 | Qualifications | 2019-01-12/2019-01-13 |
-| 16èmes de finale | 2019-01-19/2019-01-20 |
-| 8èmes de finale | 2019-01-26/2019-01-27 |
-| Quarts-de-finale | 2019-02-02/2019-02-03 |
-| Demi-finales | 2019-02-09/2019-02-10 |
-| Finales | 2019-02-16/2019-02-17 |
-| Grandes Finales | 2019-02-23 |
+| 12èmes de finale | 2019-01-19/2019-01-20 |
+| Quarts-de-finale | 2019-01-26/2019-01-27 |
+| Demi-finales | 2019-02-02/2019-02-03 |
+| Finales | 2019-02-09/2019-02-10 |
+| Grandes Finales | 2019-02-16 |
 
 ## Récompenses
 
@@ -91,16 +90,16 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Sélectionneur de map (osu!) | ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Nozhomi](/users/2716981) |
 | Sélectionneur de map (osu!taiko) | ![][flag_FR] [Nofool](/users/672430) |
 | Sélectionneur de map (osu!catch) | ![][flag_FR] [Emiru](/users/3306180) |
-| Sélectionneur de map (osu!mania) | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [AntoAa](/users/3897919) |
+| Sélectionneur de map (osu!mania) | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [AntoAa](/users/3897919), ![][flag_FR] [Tantei B](/users/6063108), ![][flag_FR] [Cunu](/users/7190228) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_CA] [Sinaeb](/users/1576095) |
 | Commentateurs (osu!) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Barbex](/users/4904410), ![][flag_FR] [Battquif](/users/2389333), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [ThePooN](/users/718454), ![][flag_FR] [Zonthem](/users/7193908), ![][flag_FR] [-raizen-](/users/3872987) |
-| Commentateurs (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TimmyAkmed](/users/1799973) |
+| Commentateurs (osu!taiko) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [Nofool](/users/672430), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [TimmyAkmed](/users/1799973), ![][flag_FR] [Misieuroo](/users/6732862), ![][flag_FR] [omegaflo](/users/83291) |
 | Commentateurs (osu!catch) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Bloodenay](/users/7303988), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Libegon](/users/9922381), ![][flag_FR] [\_Manyura](/users/8335913), ![][flag_FR] [redjiii](/users/1378728), ![][flag_FR] [Rougoku](/users/6900166) |
 | Commentateurs (osu!mania) | ![][flag_FR] [\[Haku\]](/users/2329184), ![][flag_FR] [Adri](/users/4579132), ![][flag_FR] [Chernobog](/users/3317042), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Musty](/users/251683), ![][flag_FR] [Ominy](/users/9299077), ![][flag_FR] [On a PetaMaMeuf](/users/5815785), ![][flag_FR] [AntoAa](/users/3897919) |
 | Designers | ![][flag_DE] [Celektus](/users/4294993), ![][flag_FR] [Lotchidych](/users/8375240) |
 | Statisticien | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Arbitres | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028), ![][flag_FR][Tigzick](/users/6745742) |
-| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Arbitres | ![][flag_FR] [Amezurys](/users/5207167), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Kebab De Poche](/users/6467693), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Spartan Plume](/users/2553166), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_GB] [Weavile](/users/9665028), ![][flag_FR][Tigzick](/users/6745742), ![][flag_FR] [Nofool](/users/672430) |
+| Wiki | ![][flag_ID] [Naruk](/users/7100002) |
 
 ## Liens
 
@@ -131,154 +130,272 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218), ![][flag_FR] [omegaflo](https://osu.ppy.sh/users/83291), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973), ![][flag_FR] [Marec](https://osu.ppy.sh/users/3569225) |
-| High | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690), ![][flag_FR] [Aciitm1](https://osu.ppy.sh/users/11253595), ![][flag_FR] [-Valony-](https://osu.ppy.sh/users/6487540), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844), ![][flag_FR] [BananaW](https://osu.ppy.sh/users/9298106) |
-| Low | ![][flag_FR] [Your Name](https://osu.ppy.sh/users/11525993), ![][flag_FR] [BlackJames](https://osu.ppy.sh/users/5256037), ![][flag_FR] [DwarfSpykerr](https://osu.ppy.sh/users/8453742), ![][flag_FR] [estebdevil](https://osu.ppy.sh/users/9637676), ![][flag_FR] [Niawlys](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888) |
-| Unseeded | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_FR] [Sephiroth256](https://osu.ppy.sh/users/5362422), ![][flag_FR] [Hickacou](https://osu.ppy.sh/users/7668748), ![][flag_FR] [Fenrir029](https://osu.ppy.sh/users/11262025), ![][flag_BF] [linkfire](https://osu.ppy.sh/users/11719870) |
+| Top | ![][flag_FR] [Romainnoda](/users/8814218), ![][flag_FR] [omegaflo](/users/83291), ![][flag_FR] [Yona la loutre](/users/7930622), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_FR] [TimmyAkmed](/users/1799973), ![][flag_FR] [Marec](/users/3569225) |
+| High | ![][flag_CA] [DuckyDoom](/users/3153062), ![][flag_FR] [maximaxiU](/users/4069690), ![][flag_FR] [Aciitm1](/users/11253595), ![][flag_FR] [-Valony-](/users/6487540), ![][flag_FR] [ZeddaStake](/users/8801844), ![][flag_FR] [BananaW](/users/9298106) |
+| Low | ![][flag_FR] [Your Name](/users/11525993), ![][flag_FR] [BlackJames](/users/5256037), ![][flag_FR] [DwarfSpykerr](/users/8453742), ![][flag_FR] [estebdevil](/users/9637676), ![][flag_FR] [Niawlys](/users/4833654), ![][flag_FR] [Kaho-Hinata](/users/8903888) |
+| Unseeded | ![][flag_FR] [Gintoki8](/users/2239411), ![][flag_FR] [Sephiroth256](/users/5362422), ![][flag_FR] [Hickacou](/users/7668748), ![][flag_FR] [Fenrir029](/users/11262025), ![][flag_BF] [linkfire](/users/11719870) |
 
 ### Division osu!catch
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| High | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| Low | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) |
-| Unseeded | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) |
+| Top | ![][flag_TN] [-Ken](/users/4430811), ![][flag_FR] [Boros](/users/5490623) |
+| High | ![][flag_FR] [Holloh](/users/7612994), ![][flag_FR] [Noulayfe](/users/4316542) |
+| Low | ![][flag_FR] [Realmas](/users/6567640), ![][flag_FR] [Aequo3](/users/4495141) |
+| Unseeded | ![][flag_FR] [Sageru](/users/10769450), ![][flag_FR] [MindLight](/users/7664694) |
+
+### Division osu!mania
+
+| Seed | Membres |
+| :-- | :-- |
+| Top | ![][flag_FR] [Azubeur](/users/1594604), ![][flag_FR] [PatouZ](/users/7306522), ![][flag_FR] [Elementaires](/users/2284328), ![][flag_FR] [\[ Odin \]](/users/4304933), ![][flag_FR] [DemonWaves](/users/3909293), ![][flag_FR] [ZayyKen](/users/8624433) |
+| High | ![][flag_FR] [Ping36](/users/9388217), ![][flag_FR] [Kyzoid](/users/4089441), ![][flag_FR] [Satsukel](/users/9066390), ![][flag_FR] [Min-eb](/users/10874110), ![][flag_FR] [YuzukiEba](/users/7777816), ![][flag_FR] [DragonSonic](/users/7294830) |
+| Low | ![][flag_FR] [polo2000](/users/10169467), ![][flag_FR] [quentin5110054](/users/8756421), ![][flag_FR] [Trypha](/users/2812098), ![][flag_FR] [Exilfaker](/users/2735466), ![][flag_FR] [PouletFurtif](/users/1271018), ![][flag_FR] [Vivio](/users/4545868) |
+| Unseeded | ![][flag_FR] [Roboclop](/users/7126414), ![][flag_FR] [-Leks](/users/10403635), ![][flag_FR] [The\_Azerty](/users/11274064), ![][flag_FR] [-Dragolord-](/users/9473359), ![][flag_FR] [\_Karibu\_](/users/7339484), ![][flag_FR] [Zulsramno](/users/12563193) |
 
 -----------------------
 
 ## Planning des matches
 
-### Division osu!: 8èmes de finale
+### Division osu!: Quarts-de-finale
 
-#### Samedi, 12 January 2019
+#### Samedi, 19 Janvier 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -raizen- | ![][flag_FR] | ![][flag_FR] | Wrys | **13:00** |
-| #2 | Besta | ![][flag_FR] | ![][flag_FR] | Raiiden | **14:00** |
-| #3 | SiYes | ![][flag_FR] | ![][flag_FR] | volor | **15:00** |
-| #4 | Mooha | ![][flag_FR] | ![][flag_FR] | FayeurS 2 | **16:00** |
-| #5 | ThePooN | ![][flag_FR] | ![][flag_FR] | cleminiti | **17:00** |
-| #6 | Kaeldori | ![][flag_FR] | ![][flag_FR] | VicoTeen | **18:00** |
-| #7 | Flaven | ![][flag_FR] | ![][flag_FR] | RyuuBei | **16:30** |
-| #8 | NerO | ![][flag_FR] | ![][flag_BE] | \_Aquatic\_ | **18:00** |
+| #1 | -raizen- | ![][flag_FR] | ![][flag_FR] | Besta | **17:30** |
+| #2 | SiYes | ![][flag_FR] | ![][flag_FR] | Mooha | **13:30** |
+| #3 | ThePooN | ![][flag_FR] | ![][flag_FR] | VicoTeen | **14:30** |
+| #4 | Flaven | ![][flag_FR] | ![][flag_FR] | NerO | **15:30** |
+| #5 | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | -Unknow | **21:30** |
+| #6 | TLQ\_Yoshii | ![][flag_FR] | ![][flag_FR] | cleminiti | **18:30** |
+| #7 | Ice Tea citron | ![][flag_FR] | ![][flag_FR] | JustMan | **19:30** |
+| #8 | BAKKALO | ![][flag_FR] | ![][flag_BE] | Wrys | **20:30** |
 
-#### Dimanche, 13 January 2019
+#### Dimanche, 20 Janvier 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #9a | NerO | ![][flag_FR] | ![][flag_FR] | Funta668 | **13:00** | ¹ |
-| #9b | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | Funta668 | **18:00** | ¹ |
-| #10a | Flaven | ![][flag_FR] | ![][flag_FR] | -Unknow | **16:00** | ² |
-| #10b | RyuuBei | ![][flag_FR] | ![][flag_FR] | -Unknow | **16:00** | ² |
-| #11a | Kaeldori | ![][flag_FR] | ![][flag_FR] | TLQ\_Yoshii | **14:00** | ³ |
-| #11b | VicoTeen | ![][flag_FR] | ![][flag_FR] | TLQ\_Yoshii | **14:00** | ³ |
-| #12a | ThePooN | ![][flag_FR] | ![][flag_IE] | S E K A I | **15:00** | ⁴ |
-| #12b | cleminiti | ![][flag_FR] | ![][flag_IE] | S E K A I | **15:00** | ⁴ |
-| #13a | Mooha | ![][flag_FR] | ![][flag_FR] | Ice Tea citron | **16:00** | ⁵ |
-| #13b | FayeurS 2 | ![][flag_FR] | ![][flag_FR] | Ice Tea citron | **16:00** | ⁵ |
-| #14a | SiYes | ![][flag_FR] | ![][flag_FR] | JustMan | **17:00** | ⁶ |
-| #14b | volor | ![][flag_FR] | ![][flag_FR] | JustMan | **17:00** | ⁶ |
-| #15a | Besta | ![][flag_FR] | ![][flag_FR] | BAKKALO | **18:00** | ⁷ |
-| #15b | Raiiden | ![][flag_FR] | ![][flag_FR] | BAKKALO | **18:00** | ⁷ |
-| #16a | -raizen- | ![][flag_FR] | ![][flag_FR] | SanaeFrost | **19:00** | ⁸ |
-| #16b | Wrys | ![][flag_FR] | ![][flag_FR] | SanaeFrost | **19:00** | ⁸ |
+| #9a | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | SiYes | **17:30** | ¹ |
+| #9b | \_Aquatic\_ | ![][flag_FR] | ![][flag_FR] | Mooha | **17:30** | ¹ |
+| #9c | -Unknow | ![][flag_FR] | ![][flag_FR] | SiYes | **17:30** | ¹ |
+| #9d | -Unknow | ![][flag_FR] | ![][flag_FR] | Mooha | **17:30** | ¹ |
+| #10a | TLQ\_Yoshii | ![][flag_FR] | ![][flag_FR] | -raizen- | **20:00** | ² |
+| #10b | TLQ\_Yoshii | ![][flag_FR] | ![][flag_FR] | Besta | **20:00** | ² |
+| #10c | cleminiti | ![][flag_FR] | ![][flag_IE] | -raizen- | **18:30** | ² |
+| #10d | cleminiti | ![][flag_FR] | ![][flag_IE] | Besta | **18:30** | ² |
+| #11a | Ice Tea citron | ![][flag_FR] | ![][flag_FR] | Flaven | **19:30** | ³ |
+| #11b | Ice Tea citron | ![][flag_FR] | ![][flag_FR] | NerO | **19:30** | ³ |
+| #11c | JustMan | ![][flag_FR] | ![][flag_FR] | Flaven | **19:30** | ³ |
+| #11d | JustMan | ![][flag_FR] | ![][flag_FR] | NerO | **19:30** | ³ |
+| #12a | BAKKALO | ![][flag_FR] | ![][flag_FR] | ThePooN | **15:30** | ⁴ |
+| #12b | BAKKALO | ![][flag_FR] | ![][flag_FR] | VicoTeen | **15:30** | ⁴ |
+| #12c | Wrys | ![][flag_FR] | ![][flag_FR] | ThePooN | **15:30** | ⁴ |
+| #12d | Wrys | ![][flag_FR] | ![][flag_FR] | VicoTeen | **15:30** | ⁴ |
 
-¹ Confrontation dépendant du perdant du Match #8 (RO16) et du gagnant du Match #17 (RO32)
+¹ Confrontation dépendant du gagnant du Match #8 et du Match #17
 
-² Confrontation dépendant du perdant du Match #7 (RO16) et du gagnant du Match #18 (RO32)
+² Confrontation dépendant du gagnant du Match #7 et du Match #18
 
-³ Confrontation dépendant du perdant du Match #6 (RO16) et du gagnant du Match #19 (RO32)
+³ Confrontation dépendant du gagnant du Match #6 et du Match #19
 
-⁴ Confrontation dépendant du perdant du Match #5 (RO16) et du gagnant du Match #20 (RO32)
+⁴ Confrontation dépendant du gagnant du Match #5 et du Match #20
 
-⁵ Confrontation dépendant du perdant du Match #4 (RO16) et du gagnant du Match #21 (RO32)
+### Division osu!taiko: 6èmes de finale
 
-⁶ Confrontation dépendant du perdant du Match #3 (RO16) et du gagnant du Match #22 (RO32)
-
-⁷ Confrontation dépendant du perdant du Match #2 (RO16) et du gagnant du Match #23 (RO32)
-
-⁸ Confrontation dépendant du perdant du Match #1 (RO16) et du gagnant du Match #24 (RO32)
-
-### Division osu!taiko: Group Stage
-
-#### Samedi, 12 January 2019
+#### Vendredi, 18 Janvier 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #3 | Briesmas | ![][flag_JP] | ![][flag_FR] | maximaxiU | **13:00** |
-| #4 | Kaho-Hinata | ![][flag_FR] | ![][flag_FR] | Fenrir029 | **15:00** |
-| #6 | Kaho-Hinata | ![][flag_FR] | ![][flag_JP] | Briesmas | **14:00** |
-| #9 | Romainnoda | ![][flag_FR] | ![][flag_FR] | ZeddaStake | **13:00** |
-| #10 | estebdevil | ![][flag_FR] | ![][flag_FR] | Hickacou | **15:00** |
-| #11 | Hickacou | ![][flag_FR] | ![][flag_FR] | ZeddaStake | **20:00** |
-| #12 | estebdevil | ![][flag_FR] | ![][flag_FR] | Romainnoda | **14:00** |
-| #15 | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | -Valony- | **16:00** |
-| #16 | DwarfSpykerr | ![][flag_FR] | ![][flag_FR] | Sephiroth256 | **18:00** |
-| #18 | DwarfSpykerr | ![][flag_FR] | ![][flag_FR] | TimmyAkmed | **17:00** |
-| #19 | BananaW | ![][flag_FR] | ![][flag_FR] | Niawlys | **13:00** |
-| #20 | Gintoki8 | ![][flag_FR] | ![][flag_FR] | Yona la loutre | **15:00** |
-| #21 | Yona la loutre | ![][flag_FR] | ![][flag_FR] | BananaW | **14:00** |
-| #24 | Niawlys | ![][flag_FR] | ![][flag_FR] | Yona la loutre | **11:00** |
-| #25 | Aciitm1 | ![][flag_FR] | ![][flag_FR] | BlackJames | **16:00** |
-| #26 | linkfire | ![][flag_BF] | ![][flag_FR] | Marec | **17:00** |
-| #27 | Marec | ![][flag_FR] | ![][flag_FR] | Aciitm1 | **18:00** |
-| #31 | DuckyDoom | ![][flag_CA] | ![][flag_FR] | Your Name | **17:00** |
-| #32 | omegaflo | ![][flag_FR] | ![][flag_CA] | DuckyDoom | **16:00** |
-| #33 | Your Name | ![][flag_FR] | ![][flag_FR] | omegaflo | **18:00** |
+| #1 | Aciitm1 | ![][flag_FR] | ![][flag_CA] | DuckyDoom | **18:00** |
 
-#### Dimanche, 13 January 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | maximaxiU | ![][flag_FR] | ![][flag_FR] | Kaho-Hinata | **15:00** |
-| #2 | Fenrir029 | ![][flag_FR] | ![][flag_JP] | Briesmas | **13:00** |
-| #5 | Fenrir029 | ![][flag_FR] | ![][flag_FR] | maximaxiU | **14:00** |
-| #7 | ZeddaStake | ![][flag_FR] | ![][flag_FR] | estebdevil | **15:00** |
-| #8 | Hickacou | ![][flag_FR] | ![][flag_FR] | Romainnoda | **13:00** |
-| #13 | -Valony- | ![][flag_FR] | ![][flag_FR] | DwarfSpykerr | **18:00** |
-| #14 | Sephiroth256 | ![][flag_FR] | ![][flag_FR] | TimmyAkmed | **16:00** |
-| #17 | Sephiroth256 | ![][flag_FR] | ![][flag_FR] | -Valony- | **17:00** |
-| #22 | Niawlys | ![][flag_FR] | ![][flag_FR] | Gintoki8 | **16:00** |
-| #23 | Gintoki8 | ![][flag_FR] | ![][flag_FR] | BananaW | **17:00** |
-| #28 | BlackJames | ![][flag_FR] | ![][flag_BF] | linkfire | **13:00** |
-| #29 | linkfire | ![][flag_BF] | ![][flag_FR] | Aciitm1 | **14:00** |
-| #30 | BlackJames | ![][flag_FR] | ![][flag_FR] | Marec | **15:00** |
-
-### Division osu!catch: Quarts-de-finale
-
-#### Samedi, 12 January 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | MindLight | **13:00** |
-| #2 | Noulayfe | ![][flag_FR] | ![][flag_FR] | Realmas | **14:00** |
-| #3 | Boros | ![][flag_FR] | ![][flag_FR] | Sageru | **15:00** |
-| #4 | Holloh | ![][flag_FR] | ![][flag_FR] | Aequo3 | **16:00** |
-
-#### Dimanche, 13 January 2019
+#### Samedi, 19 Janvier 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #5a | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **17:00** | ¹ |
-| #5b | MindLight | ![][flag_FR] | ![][flag_FR] | Noulayfe | **17:00** | ¹ |
-| #5c | -Ken | ![][flag_TN] | ![][flag_FR] | Realmas | **17:00** | ¹ |
-| #5d | MindLight | ![][flag_FR] | ![][flag_FR] | Realmas | **17:00** | ¹ |
-| #6a | Boros | ![][flag_TN] | ![][flag_FR] | Holloh | **18:00** | ² |
-| #6b | Sageru | ![][flag_FR] | ![][flag_FR] | Holloh | **18:00** | ² |
-| #6c | Boros | ![][flag_FR] | ![][flag_FR] | Aequo3 | **18:00** | ² |
-| #6d | Sageru | ![][flag_FR] | ![][flag_FR] | Aequo3 | **18:00** | ² |
+| #2 | maximaxiU | ![][flag_FR] | ![][flag_FR] | Romainnoda | **13:00** |  |
+| #3 | -Valony- | ![][flag_FR] | ![][flag_FR] | Yona la loutre | **14:00** |  |
+| #4 | Marec | ![][flag_FR] | ![][flag_FR] | omegaflo | **15:00** |  |
+| #5a | Aciitm1 | ![][flag_FR] | ![][flag_JP] | Briesmas | **18:00** | ¹ |
+| #5b | DuckyDoom | ![][flag_CA] | ![][flag_JP] | Briesmas | **16:00** | ¹ |
+| #6a | maximaxiU | ![][flag_FR] | ![][flag_FR] | ZeddaStake | **17:00** | ² |
+| #6b | Romainnoda | ![][flag_FR] | ![][flag_FR] | ZeddaStake | **17:00** | ² |
+| #7a | Yona la loutre | ![][flag_FR] | ![][flag_FR] | TimmyAkmed | **18:00** | ³ |
+| #7a | -Valony- | ![][flag_FR] | ![][flag_FR] | TimmyAkmed | **18:00** | ³ |
+| #8a | Marec | ![][flag_FR] | ![][flag_FR] | Gintoki8 | **19:00** | ⁴ |
+| #8b | omegaflo | ![][flag_FR] | ![][flag_FR] | Gintoki8 | **19:00** | ⁴ |
 
-¹ Confrontation dépendant du perdant du Match #1 et du Match #2
+#### Dimanche, 20 Janvier 2019
 
-² Confrontation dépendant du perdant du Match #3 et du Match #4
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #9 |  |  |  |  | **16:00** | ⁵ |
+| #10 |  |  |  |  | **15:00** | ⁶ |
+| #11 |  |  |  |  | **14:00** | ⁷ |
+| #12 |  |  |  |  | **17:00** | ⁸ |
+
+¹ Confrontation dépendant du gagnant du Match #1 (RO12) et de la première place dans le Groupe A (GS)
+
+² Confrontation dépendant du gagnant du Match #2 (RO12) et de la deuxième place dans le Groupe B (GS)
+
+³ Confrontation dépendant du gagnant du Match #3 (RO12) et de la première place dans le Groupe C (GS)
+
+⁴ Confrontation dépendant du gagnant du Match #4 (RO12) et de la deuxième place dans le Groupe D (GS)
+
+⁵ Confrontation dépendant du perdant du Match #5 et du Match #4
+
+⁶ Confrontation dépendant du perdant du Match #6 et du Match #3
+
+⁷ Confrontation dépendant du perdant du Match #7 et du Match #2
+
+⁸ Confrontation dépendant du perdant du Match #8 et du Match #1
+
+### Division osu!catch: Demi-finales
+
+#### Samedi, 19 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Noulayfe | **17:00** |  |
+| #2 | Boros | ![][flag_FR] | ![][flag_FR] | Holloh | **18:00** |  |
+| #3a | Boros | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
+| #3a | Holloh | ![][flag_FR] | ![][flag_FR] | Realmas | **19:00** | ¹ |
+| #4a | -Ken | ![][flag_TN] | ![][flag_FR] | Aequo3 | **21:00** | ² |
+| #4b | Noulayfe | ![][flag_FR] | ![][flag_FR] Aequo3 | **21:00** | ² |
+
+#### Dimanche, 20 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #5 |  |  |  |  | **18:00** | ³ |
+
+¹ Confrontation dépendant du perdant du Match #2 (SF) et du gagnant du Match #5 (QF)
+
+² Confrontation dépendant du perdant du Match #1 (SF) et du gagnant du Match #6 (QF)
+
+³ Confrontation dépendant du gagnant du Match #3 et du Match #4 (SF)
+
+### Division osu!mania: 12èmes de finale
+
+#### Jeudi, 17 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #5 | Trypha | ![][flag_FR] | ![][flag_FR] | Vivio | **15:00** |  |
+| #13a | PatouZ | ![][flag_FR] | ![][flag_FR] | Trypha | **20:00** | ¹ |
+
+#### Vendredi, 18 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #1 | ExilFaker | ![][flag_FR] | ![][flag_FR] | PouletFurtif | **21:30** |
+
+#### Samedi, 19 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #2 | Satsukel | ![][flag_FR] | ![][flag_FR] | Zulsrammo | **13:45** |  |
+| #3 | polo2000 | ![][flag_FR] | ![][flag_FR] | -Leks | **14:45** |  |
+| #4 | DragonSonic | ![][flag_FR] | ![][flag_FR] | The\_Azerty | **14:45** |  |
+| #6 | Min-eb | ![][flag_FR] | ![][flag_FR] | \_Karibu\_ | **15:45** |  |
+| #7 | quentin5110054 | ![][flag_FR] | ![][flag_FR] | Roboclop | **16:45** |  |
+| #8 | YuzukiEba | ![][flag_FR] | ![][flag_FR] | -Dragolord- | **16:45** |  |
+| #9a | Azubeur | ![][flag_FR] | ![][flag_FR] | ExilFaker | **17:45** | ² |
+| #9b | Azubeur | ![][flag_FR] | ![][flag_FR] | PouletFurtif | **17:45** | ² |
+| #10a | Kyzoid | ![][flag_FR] | ![][flag_FR] | Satsukel | **17:45** | ³ |
+| #10b | Kyzoid | ![][flag_FR] | ![][flag_FR] | Zulsrammo | **17:45** | ³ |
+| #11a | \[ Odin \] | ![][flag_FR] | ![][flag_FR] | polo2000 | **18:45** | ⁴ |
+| #11b | \[ Odin \] | ![][flag_FR] | ![][flag_FR] | -Leks | **18:45** | ⁴ |
+| #12a | DemonWaves | ![][flag_FR] | ![][flag_FR] | DragonSonic | **18:45** | ⁵ |
+| #12b | DemonWaves | ![][flag_FR] | ![][flag_FR] | The\_Azerty | **18:45** | ⁵ |
+| #13b | PatouZ | ![][flag_FR] | ![][flag_FR] | Vivio | **19:45** | ¹ |
+| #14b | Ping36 | ![][flag_FR] | ![][flag_FR] | \_Karibu\_ | **19:45** | ⁶ |
+| #15a | Elementaires | ![][flag_FR] | ![][flag_FR] | quentin5110054 | **20:45** | ⁷ |
+| #15b | Elementaires | ![][flag_FR] | ![][flag_FR] | Roboclop | **20:45** | ⁷ |
+| #16a | ZayyKen | ![][flag_FR] | ![][flag_FR] | YuzukiEba | **20:45** | ⁸ |
+| #16b | ZayyKen | ![][flag_FR] | ![][flag_FR] | -Dragolord- | **20:45** | ⁸ |
+
+#### Dimanche, 20 Janvier 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |  |
+| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| #14a | Ping36 | ![][flag_FR] | ![][flag_FR] | Min-eb | **20:00** | ⁶ |
+| 17 |  | ![][flag_FR] | ![][flag_FR] |  | **13:15** | ⁹ |
+| 18 |  | ![][flag_FR] | ![][flag_FR] |  | **14:15** | ¹⁰ |
+| 19 |  | ![][flag_FR] | ![][flag_FR] |  | **15:15** | ¹¹ |
+| 20 |  | ![][flag_FR] | ![][flag_FR] |  | **16:15** | ¹² |
+| 21 |  | ![][flag_FR] | ![][flag_FR] |  | **17:15** | ¹³ |
+| 22 |  | ![][flag_FR] | ![][flag_FR] |  | **18:15** | ¹⁴ |
+| 23 |  | ![][flag_FR] | ![][flag_FR] |  | **19:15** | ¹⁵ |
+| 24 |  | ![][flag_FR] | ![][flag_FR] |  | **20:15** | ¹⁶ |
+
+¹ Confrontation dépendant du gagnant du Match #5
+
+² Confrontation dépendant du gagnant du Match #1
+
+³ Confrontation dépendant du gagnant du Match #2
+
+⁴ Confrontation dépendant du gagnant du Match #3
+
+⁵ Confrontation dépendant du gagnant du Match #4
+
+⁶ Confrontation dépendant du gagnant du Match #6
+
+⁷ Confrontation dépendant du gagnant du Match #7
+
+⁸ Confrontation dépendant du gagnant du Match #8
+
+⁹ Confrontation dépendant du perdant du Match #16 et du Match #1
+
+¹⁰ Confrontation dépendant du perdant du Match #15 et du Match #2
+
+¹¹ Confrontation dépendant du perdant du Match #14 et du Match #3
+
+¹² Confrontation dépendant du perdant du Match #13 et du Match #4
+
+¹³ Confrontation dépendant du perdant du Match #12 et du Match #5
+
+¹⁴ Confrontation dépendant du perdant du Match #11 et du Match #6
+
+¹⁵ Confrontation dépendant du perdant du Match #10 et du Match #7
+
+¹⁶ Confrontation dépendant du perdant du Match #9 et du Match #8
 
 -----------------------
 
 ## Liste des maps
 
 ### Division osu!
+
+#### Quarts-de-finale
+
+**[Télécharge le mappack ici! (128 MB)](https://mega.nz/#!po9l1QZa!YQGVoMx1z_MAyF297ctzTBQ_-SDmLgdrbQGQPx8xfRs)**
+
+- NoMod
+  - [KITCALIBER - HEY FUCKER (P o M u T a) \[EXTRA\]](/beatmapsets/192416#osu/457590)
+  - [An - Catanoph (yf\_bmp) \[yf's Extra\]](/beatmapsets/775846#osu/1697022)
+  - [AKI AKANE - Kando\*Reduction (Pho) \[Pho's Elimination\]](/beatmapsets/262403#osu/598867)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Entsetzen\]](/beatmapsets/581787#osu/1543159)
+  - [Adventure Club - Fade (feat. Zak Waters) (Strategas) \[Strategas' Expert\]](/beatmapsets/416426#osu/1263323)
+  - [Smooth McGroove - Spark Mandrill Acapella (Dj CUTMAN Remix) (fartownik, Okorin) \[fartownik & Okorin's Extreme\]](/beatmapsets/399912#osu/927819)
+- Hidden
+  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Presto\]](/beatmapsets/850663#osu/1778453)
+  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](/beatmapsets/31814#osu/104389)
+  - [USAO - Dynamite (Extended Mix) (-kevincela-) \[-kevincela-'s Extra\]](/beatmapsets/431697#osu/995533)
+- HardRock
+  - [T.M.Revolution - FLAGS (P A N) \[Conqueror\]](/beatmapsets/395160#osu/860047)
+  - [HyuN & Ritoru - Apocalypse in Love (PandaHero) \[Extra\]](/beatmapsets/891338#osu/1863228)
+  - [Camellia - crystallized (Smoothie World) \[Ca2Al3(SiO4)3(OH)\]](/beatmapsets/399151#osu/867819)
+- DoubleTime
+  - [Uchida Aya & Kubo Yurika - Kokuhaku Biyori, desu! (Rare) \[Insane\]](/beatmapsets/83754#osu/231139)
+  - [Yasuda Rei - Lots of Love (Yohanes) \[Insane\]](/beatmapsets/404289#osu/879002)
+  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](/beatmapsets/35629#osu/115352)
+- FreeMod
+  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](/beatmapsets/105245#osu/276366)
+  - [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[Extra\]](/beatmapsets/741193#osu/1563493)
+  - [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](/beatmapsets/212180#osu/517308)
+- Tiebreaker
+  - **[USAO - USAO ULTIMATE HYPER MEGA MIX (Nathan) \[NATHAN x RLC's TWERKING GAMER ONII-CHAN\]](/beatmapsets/830666#osu/1741989)**
 
 #### 8èmes de finale
 
@@ -342,6 +459,30 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!taiko
 
+#### 6èmes de finale
+
+**[Télécharge le mappack ici! (65 MB)](https://mega.nz/#!kg1GCI6B!CjfhjoHeUmzkMgFedpTHntg0HXzJLoKW-v3sxQWnqIw)**
+
+- NoMod
+  - [Ito Kanako - fake me (Science Adventure Dance Remix) (Nishizumi) \[Inner Oni\]](/beatmapsets/680043#taiko/1437979)
+  - [System Of A Down - Toxicity (Raiden) \[Inner Oni\]](/beatmapsets/686487#taiko/1452864)
+  - [FAKE TYPE. - FAKE STYLE (tasuke912) \[Oni\]](/beatmapsets/825413#taiko/1729835)
+  - [TWICE - YES or YES (Nofool) \[Special Oni\]](/beatmapsets/910520#taiko/1899988)
+- Hidden
+  - [Kraster - Katakoi no Tsuki (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/26795#taiko/90479)
+  - [Infected Mushroom & Hope 6 - Where Do I Belong (DarkDunskin) \[Dunskin's Oni\]](/beatmapsets/231535#taiko/652724)
+- HardRock
+  - [Kangoku Gakuen - Ai No Prison (shincikuhome) \[oni\]](/beatmapsets/364341#taiko/799815)
+  - [Pentakill - Deathfire Grasp (OzzyOzrock) \[Oni\]](/beatmapsets/339665#taiko/751476)
+- DoubleTime
+  - [Carlito - Who's That Boy (Zelito) \[Zelito's Taiko\]](/beatmapsets/31471#taiko/103673)
+  - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Oni\]](/beatmapsets/244532#taiko/565304)
+- FreeMod
+  - [Nana Mizuki - Exterminate (Mrriichi) \[Oni\]](/beatmapsets/883428#taiko/1846723)
+  - [Helblinde - Grief & Malice (Kin) \[Oni\]](/beatmapsets/703462#taiko/1488309)
+- Tiebreaker
+  - **[Black Sun Empire feat Foreign Beggars - Dawn of a Dark Day (Receptor Remix) (Zetera) \[Majin Oni\]](/beatmapsets/458597#taiko/982631)**
+
 #### Group Stage
 
 **[Télécharge le mappack ici! (58 MB)](https://mega.nz/#!449VxYwI!6LRTcDbE-wx9hkjb-kQCc6-okZM16la7s7jn1lZZs0Y)**
@@ -368,6 +509,35 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!catch
 
+#### Demi-finales
+
+**[Télécharge le mappack ici! (206 MB)](https://mega.nz/#!t9sUBSLA!IRBDLYAULhKow1SlOVpdAUhWLLJ9BvaV3I-xQqnlr1g)**
+
+- NoMod
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Emiru) \[Gabberse Town \~ 6th \~ (Marathon)\]](/beatmapsets/696969#fruits/1837156)
+  - [TERRASPEX - AMAZING BREAK (Spectator) \[OVERDOSE\]](/beatmapsets/727329#fruits/1541641)
+  - [Nekomata Gekidan - AsiaN distractive (Vincs) \[Vincs' Overdose\]](/beatmapsets/765322#fruits/1610592)
+  - [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (sukiNathan) \[Nathan's Extra\]](/beatmapsets/663519#fruits/1418503)
+  - [NOMA - LOUDER MACHINE (Starrstyx) \[StarR's Extra\]](/beatmapsets/483606#fruits/1085207)
+  - [Twin-Tails - Twintail Dreamer! (Hollow Wings) \[HW's EX\]](/beatmapsets/244964#fruits/660264)
+- Hidden
+  - [fripSide - sister's noise (TV Size) (Crystal) \[Crystal's Acceleration\]](/beatmapsets/598108#fruits/1280216)
+  - [Shiggy Jr. - oyasumi (Len) \[Len's Deluge\]](/beatmapsets/676737#fruits/1431327)
+  - [Yousei Teikoku - Kyouki Chinden (TV Size) (Saten) \[Madness Precipitation\]](/beatmapsets/59025#fruits/177162)
+  - [houkago tea time - GO! GO! MANIAC (Scaltinof) \[MANIAC\]](/beatmapsets/575408#fruits/1218458)
+- HardRock
+  - [Doma Umaru \[CV.Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (examination) \[exam's Rain\]](/beatmapsets/348507#fruits/769804)
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fast) \[Fast's Rain\]](/beatmapsets/139525#fruits/517720)
+  - [Noisia - Groundhog (Beat Juggle) (Emdyion) \[Emdyion's Level\]](/beatmapsets/12448#fruits/69058)
+  - [Renard - Feel Better (Blue Dragon) \[Nogard's Extra\]](/beatmapsets/187298#fruits/464294)
+- DoubleTime
+  - [Various Artists - 'EVERMORE SIDE B (Emiru) \[Rihanna - Towards The Sun\]](/beatmapsets/875848#catch/1830307)
+  - [Sasaki Sayaka - Zzz (Euro Star Mix) (- Magic Girl -) \[Cloud\]](/beatmapsets/310591#catch/694117)
+  - [Muse - You Fucking Motherfucker (Mashley) \[Ridiculous\]](/beatmapsets/22506#osu/77596)
+  - [Megpoid GUMI - For my soul (val0108) \[Insane\]](/beatmapsets/22509#osu/80102)
+- Tiebreaker
+  - [Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](/beatmapsets/319217#catch/710613)
+
 #### Quarts-de-finale
 
 **[Télécharge le mappack ici! (86 MB)](https://mega.nz/#!txckwSKK!NLSCUepd0-AeB7el-8ei8pp0pkQhOVubenTErlmBgxM)**
@@ -392,17 +562,61 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 - Tiebreaker
   - **[ICE - L (Deif) \[Ascension\]](/beatmapsets/196230#fruits/465454)**
 
+### Division osu!mania
+
+#### 12èmes de finale
+
+**[Télécharge le mappack ici! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
+
+- FreeMod
+  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](/beatmapsets/849009/#mania/1775369)
+  - [Celldweller - Senorita Bonita (Duboyy) \[Hard \[SV play\]\]](/beatmapsets/541579#mania/1148320)
+  - [Reol - MONSTER (puxtu) \[puxtu's MX\]](/beatmapsets/415350#mania/1021002)
+  - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](/beatmapsets/488369#mania/1041168)
+  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](/beatmapsets/351846/#mania/775411)
+  - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](/beatmapsets/706898#mania/1494548)
+  - [AAAA Chazuke - Hop Step Adventure\* (Musty) \[MX\*\]](/beatmapsets/487632#mania/1039605)
+  - [knot - cold planet (Kamikaze) \[for stepmania\]](/beatmapsets/793200#mania/1697652)
+  - [Avizura - Lucky Star (Hydria) \[Follow, Light, Dreams\]](/beatmapsets/422294#mania/913102)
+  - [AK X LYNX ft. Veela - Virtual Paradise (Hydria) \[Insane\]](/beatmapsets/586954#mania/1242932)
+- Tiebreaker
+  - [BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](/beatmapsets/486123#mania/1793948)
+
 ------------------------------------------------------------------------
 
 ## Résultats des matches
 
 ### Division osu!
 
+#### 8èmes de finale
+
+| Samedi, 2019-01-12 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Wrys | [#1](/community/matches/48796757) |
+| **Besta** ![][flag_FR] | **4** | 1 | ![][flag_FR] Raiiden | [#1](/community/matches/48798000) |
+| **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] volor | -win by default- |
+| **Mooha** ![][flag_FR] | **4** | 0 | ![][flag_FR] FayeurS 2 | [#1](/community/matches/48808467) |
+| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **VicoTeen** | -win by default- |
+| **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_FR] RyuuBei | [#1](/community/matches/48810358) |
+| **NerO** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Aquatic\_ | [#1](/community/matches/48804541) |
+| Raiiden ![][flag_FR] | 2 | **4** | ![][flag_FR] **BAKKALO** | [#1](/community/matches/48804893) |
+
+| Dimanche, 2019-01-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_FR] cleiminiti | [#1](/community/matches/48830879) |
+| **\_Aquatic\_** ![][flag_FR] | **4** | 1 | ![][flag_FR] Funta668 | [#1](/community/matches/48835202) |
+| RyuuBei ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | -win by default- |
+| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](/community/matches/48829452) |
+| **cleminiti** ![][flag_FR] | **4** | 1 | ![][flag_FR] S E K A I | [#1](/community/matches/48832432) |
+| FayeurS 2 ![][flag_FR] | 3 | **4** | ![][flag_FR] **Ice Tea citron** | [#1](/community/matches/48832227) |
+| volor ![][flag_FR] | 0 | **4** | ![][flag_FR] **JustMan** | -win by default- |
+| **Wrys** ![][flag_FR] | **4** | 1 | ![][flag_FR] SanaeFrost | [#1](/community/matches/48837758) |
+
 #### 16èmes de finale
 
 | Samedi, 2018-12-20 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](community/matches/48227620) |
+| **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](/community/matches/48227620) |
 
 | Vendredi, 2018-12-21 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
@@ -437,13 +651,75 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | --: | :-: | :-: | :-- | :-: |
 | **Besta** ![][flag_FR] | **4** | 0 | ![][flag_FR] Mirthille | [#1](/community/matches/48660923) |
 | Mirthille ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | [#1](/community/matches/48662099) |
-| \[-Vanilla-\] ![][flag-FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](/community/matches/48663322) |
+| \[-Vanilla-\] ![][flag_FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](/community/matches/48663322) |
 | **cleminiti** ![][flag_FR] | **4** | 1 | ![][flag_FR] Ice Tea citron | [#1](/community/matches/48664401) |
 | **S E K A I** ![][flag_FR] | **4** | 0 | ![][flag_BE] steen | -win by default- |
 | CreeDi ![][flag_FR] | 3 | **4** | ![][flag_FR] **SanaeFrost** | [#1](/community/matches/48664783) |
 | linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Ice Tea citron** | [#1](/community/matches/48666114) |
 | **JustMan** ![][flag_FR] | **4** | 0 | ![][flag_FR] Kamthaar | [#1](/community/matches/48667625) |
 | Xawaii ![][flag_BE] | 0 | **4** | ![][flag_FR] **Funta668** | -win by default- |
+
+### Division osu!taiko
+
+#### Group Stage
+
+| Vendredi, 2019-01-11 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Aciitm1** | [#1](/community/matches/48775264) |
+
+| Samedi, 2019-01-12 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Niawlys ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/48794728) |
+| **Briesmas** ![][flag_JP] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](/community/matches/48796652) |
+| **Romainnoda** ![][flag_FR] | **4** | 0 | ![][flag_FR] ZeddaStake | [#1](/community/matches/48796629) |
+| estebdevil ![][flag_FR] | 0 | **4** | ![][flag_FR] **Romainnoda** | [#1](/community/matches/48798001) |
+| **Yona la loutre** ![][flag_FR] | **4** | 1 | ![][flag_FR] BananaW | [#1](/community/matches/48798068) |
+| **BananaW** ![][flag_FR] | **4** | 0 | ![][flag_FR] Niawlys | [#1](/community/matches/48798927) |
+| Gintoki8 ![][flag_FR] | 1 | **4** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/48799637) |
+| **TimmyAkmed** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Valony- | [#1](/community/matches/48801375) |
+| **Aciitm1** ![][flag_FR] | **4** | 1 | ![][flag_FR] BlackJames | [#1](/community/matches/48801512) |
+| **omegaflo** ![][flag_FR] | **4** | 2 | ![][flag_CA] DuckyDoom | [#1](/community/matches/48801176) |
+| DwarfSpykerr ![][flag_FR] | 2 | **4** | ![][flag_FR] **TimmyAkmed** | [#1](/community/matches/48802959) |
+| Linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Marec** | -win by default- |
+| **DuckyDoom** ![][flag_CA] | **4** | 3 | ![][flag_FR] Your Name | [#1](/community/matches/48802756) |
+| **DwarfSpykerr** ![][flag_FR] | **4** | 0 | ![][flag_FR] Sephiroth256 | [#1](/community/matches/48804856) |
+| Marec ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aciitm1** | -win by default- |
+| Your Name ![][flag_FR] | 1 | **4** | ![][flag_FR] **omegaflo** | [#1](/community/matches/48804696) |
+| Hickacou ![][flag_FR] | 0 | **4** | ![][flag_FR] **Romainnoda** | [#1](/community/matches/48806654) |
+| Hickacou ![][flag_FR] | 0 | **4** | ![][flag_FR] **ZeddaStake** | [#1](/community/matches/48808538) |
+| **estebdevil** ![][flag_FR] | **4** | 0 | ![][flag_FR] Hickacou | [#1](/community/matches/48810173) |
+
+| Dimanche, 2019-01-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **BlackJames** ![][flag_FR] | **4** | 0 | ![][flag_BF] Linkfire | -win by default- |
+| Fenrir029 ![][flag_FR] | 0 | **4** | ![][flag_FR] **maximaxiU** | [#1](/community/matches/48829448) |
+| Kaho-Hinata ![][flag_FR] | 0 | **4** | ![][flag_JP] **Briesmas** | [#1](/community/matches/48829475) |
+| **maximaxiU** ![][flag_FR] | **4** | 2 | ![][flag_FR] Kaho-Hinata | [#1](/community/matches/48830781) |
+| Fenrir029 ![][flag_FR] | 0 | **4** | ![][flag_JP] **Briesmas** | [#1](/community/matches/48830910) |
+| **ZeddaStake** ![][flag_FR] | **4** | 2 | ![][flag_FR] estebdevil | [#1](/community/matches/48830944) |
+| BlackJames ![][flag_FR] | 1 | **4** | ![][flag_FR] **Marec** | [#1](/community/matches/48831035) |
+| **Kaho-Hinata** ![][flag_FR] | **4** | 1 | ![][flag_FR] Fenrir029 | [#1](/community/matches/48832321) |
+| Sephiroth256 ![][flag_FR] | 1 | **4** | ![][flag_FR] **TimmyAkmed** | [#1](/community/matches/48832393) |
+| Niawlys ![][flag_FR] | 1 | **4** | ![][flag_FR] **Gintoki8** | [#1](/community/matches/48832315) |
+| Sephiroth256 ![][flag_FR] | 2 | **4** | ![][flag_FR] **-Valony-** | [#1](/community/matches/48833952) |
+| **Gintoki8** ![][flag_FR] | **4** | 2 | ![][flag_FR] BananaW | [#1](/community/matches/48833949) |
+| **-Valony-** ![][flag_FR] | **4** | 0 | ![][flag_FR] DwarfSpykerr | [#1](/community/matches/48835836) |
+
+### Division osu!catch
+
+#### Quarts-de-finale
+
+| Samedi, 2019-01-12 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](/community/matches/48802845)
+| **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](/community/matches/48798016) |
+| **Boros** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sageru | [#1](/community/matches/48799372) |
+| **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](/community/matches/48801202) |
+| MindLight ![][flag_FR] | 1 | **5** | **Realmas** | [#1](/community/matches/48810075) |
+
+| Dimanche, 2019-01-13 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](/community/matches/48835441)
 
 ------------------------------------------------------------------------
 
