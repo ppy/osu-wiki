@@ -646,7 +646,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 *For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
 
-All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+All of the flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
 ```md
 ![](/wiki/shared/flag/xx.gif)
