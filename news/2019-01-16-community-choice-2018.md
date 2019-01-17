@@ -8,7 +8,7 @@ It's time to take a look at 2018 in retrospect, and decide which 10 maps from ea
 
 [![](/wiki/shared/news/2019-01-16-community-choice-2018/header.jpg)](https://osu.ppy.sh/community/contests/74)
 
-If you're an older player, you might be more familiar with the Community Choice voting as the old "best of" contests held long ago around this time of year. Never fear, Community Choice is basically exactly the same thing, except with more style.
+If you're an older player, you might be more familiar with the Community Choice voting as the old "best of" contests held long ago around this time of year. Never fear, Community Choice is basically exactly the same thing, except with more style. We decided to change the name from "best of" to encourage a more rounded look at the voting and to have the result better reflect the kind of achievement it truly is.
 
 Here's how all this goes down:
 
