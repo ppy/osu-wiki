@@ -10,7 +10,7 @@ It's time to take a look at 2018 in retrospect, and decide which 10 maps from ea
 
 Here's how all this goes down:
 
-Every player gets **10 votes per game mode** to cast for their most adored **ranked** maps of 2018 **that they have played at least once**. Any maps you're eligible to vote on will *automagically* show up in the voting listing. Loved maps are currently not eligible for the voting - we may have something for that later on in the year, but no promises!
+Every player gets **10 votes per game mode** to cast for their most adored **ranked** maps of 2018 **that they have played at least once**. Any maps you're eligible to vote on will *automagically* show up in the voting listing.
 
 Find your favorite maps in the running for a given game mode, click them once to shoot them a star of intense approval, and you're done! Easy as that.
 
