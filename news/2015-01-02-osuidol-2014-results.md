@@ -11,7 +11,7 @@ The osu!idol contest just concluded, so lets wrap this up!
 
 The entries for the final were amazing and a joy to listen to, the efforts the participants put in did not come unnoticed! It was unbelievable how close the point difference was between 1st and 2nd place, just 0.2 points! It would have been even more interesting if there was a tie, but even with such a small difference, the positions are clear.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/181744068&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/181744068&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
 
 Congratulations to osu!idol's winner: [yealina](https://osu.ppy.sh/u/139551)! They came in the highest and claimed the top place at the podium. For taking 1st place they will receive 3 months of supporter and a unique osu!idol badge on their profile!
 

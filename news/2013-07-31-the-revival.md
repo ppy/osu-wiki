@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/56943222761/the-revival
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56943222761/the-revival
 ---
-Hello everyone! It's been roughly a year and a half since the last release of the osu!monthly and I'm very excited to say that we're back! …sort of! Quite a bit has happened since October of 2011 (time flies, doesn't it?!). There's now a new game mode, a little bit over a million new players, new tournaments, and quite a bit of new additions to the team! Over the time the osu!monthly has been gone, osu! has garnered tremendous progress, which leaves us quite a bit to cover over the next few months!
+Hello everyone! It's been roughly a year and a half since the last release of the osu!monthly and I'm very excited to say that we're back! ...sort of! Quite a bit has happened since October of 2011 (time flies, doesn't it?!). There's now a new game mode, a little bit over a million new players, new tournaments, and quite a bit of new additions to the team! Over the time the osu!monthly has been gone, osu! has garnered tremendous progress, which leaves us quite a bit to cover over the next few months!
 
 **What is the osu!monthly?**
 

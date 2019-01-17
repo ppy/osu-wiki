@@ -76,7 +76,7 @@ Each top-voted set has its mapper walk away with a shiny new profile badge, and 
 
 You can view a handy spreadsheet of the full voting results below, or [check out the contest listings for a prettier version](https://osu.ppy.sh/community/contests/59). The listings themselves will display 'points' instead of votes - this is simply a holdover from the way the system once was. No weighting whatsoever has been applied.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&amp;headers=false" width="100%" height="500"></iframe><br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false" width="100%" height="500"></iframe><br>
 
 Congratulations to all, and we'll see you again next year to decide which beatmaps of 2018 are the community's favourite!
 

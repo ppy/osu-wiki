@@ -10,7 +10,7 @@ The submissions have closed, and the voting is now open. There's been some excel
 
 We've got a number of incredible entries from our amazingly talented community artists, and we need your help to determine which ones get shown on the game's main menu during our upcoming Halloween event! Everybody gets **three** votes to choose their favourite entries, so make them count.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iHqZahX4p5E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iHqZahX4p5E?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 [Head on over to the contest page and make your votes!](https://new.ppy.sh/community/contests/5)
 
