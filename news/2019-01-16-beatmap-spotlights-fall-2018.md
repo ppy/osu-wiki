@@ -8,7 +8,7 @@ Although 2018 ended, we still have some unopened presents left from the previous
 
 ![](/wiki/shared/news/2019-01-16-beatmap-spotlights-fall-2018/header.jpg)
 
-The beatmap charts for the Fall Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=252). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Fall 2018 Spotlights rankings will end on the 15th of March, 2019.**
+The beatmap charts for the Fall Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=255). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Fall 2018 Spotlights rankings will end on the 15th of March, 2019.**
 
 ## Summer Spotlights results
 
