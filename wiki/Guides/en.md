@@ -20,7 +20,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [osu!mania Mapping Guide](/wiki/osu!mania_Mapping_Guide)
 - [Setting the Offset on the Correct Beat](/wiki/Setting_the_Offset_on_the_Correct_Beat)
 - [Starting a Beatmap Project](/wiki/Starting_a_Beatmap_Project)
-- [Videos From Youtube](/wiki/Videos_From_Youtube)
+- [Videos From YouTube](/wiki/Videos_From_Youtube)
 
 ## Modding
 

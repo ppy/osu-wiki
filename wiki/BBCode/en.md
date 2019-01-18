@@ -326,7 +326,7 @@ Please upload the image to reputable image sharing sites like [imgur](https://im
 [img]LINK[/img]
 ```
 
-### Youtube
+### YouTube
 
 Embeds a YouTube video in your post.
 

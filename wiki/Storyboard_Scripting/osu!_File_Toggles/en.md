@@ -1,4 +1,4 @@
-Osu File Toggles
+osu! File Toggles
 ================
 
 *See also: [skin.ini](/wiki/Skinning/Skin.ini)*

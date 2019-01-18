@@ -17,7 +17,7 @@
 [Easy wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Easy"
 
 <!-- External links used -->
-[osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
+[osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 YouTube link."
 [Match History link]: http://osu.ppy.sh/mp/x
 [modified version link]: https://osu.ppy.sh/forum/t/135726 "ppy's reply on a bug report."
 
@@ -62,7 +62,7 @@ The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)]
 ![One of the ways to transfer the beatmap without leaving the Match Setup][Beatmaps_peppy image]
 
 - Decent online connection.
-- An osu!account logged into Bancho (should be done automatically during in-game osu!account sign-in)
+- An osu!account signed in to Bancho (should be done automatically during in-game osu!account sign-in)
 - Knowing [how to transfer beatmaps without leaving the Match Setup.][Beatmaps2 wikilink].
 
 ### Ways to enter

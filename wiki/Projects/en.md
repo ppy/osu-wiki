@@ -199,7 +199,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
     -   [Website](https://osustats.ppy.sh/)
 -   [osu!track](/community/forums/topics/212151)—A tool that allows players to track their progress in-game and see visually see their improvement over time.
     -   [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
--   [osu!track (IRC)](/community/forums/topics/233167)—The ingame IRC bot for osu!track.
+-   [osu!track (IRC)](/community/forums/topics/233167)—The in-game IRC bot for osu!track.
 -   [osu!widget](/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count.
     -   [BitBucket](https://bitbucket.org/Pannari/osu-widget)
 -   [RTPP Displayer](/community/forums/topics/685031)—Calculates and displays earned pp while playing on the fly.

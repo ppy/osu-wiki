@@ -41,7 +41,7 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
 Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
 1.  `View Profile`: Opens up your profile page in your preferred web browser
-2.  `Sign Out`: Log out your account (after logging out, the [Options](/wiki/Options) sidebar will prompt you to log in)
+2.  `Sign Out`: Sign out your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in)
 3.  `Change Avatar`: Open up the edit avatar page in your preferred web browser
 4.  `Close`: Close this dialog
 
@@ -218,7 +218,7 @@ This section can be called the gameplay toolbox. We will cover each button's use
 
 Press `Esc` or click the `Back` button to return to main menu.
 
-Click on the `Mode` button to open up a list of gameplay modes available on osu! Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
+Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
 
 The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
