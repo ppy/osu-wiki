@@ -7,7 +7,7 @@ tags:
 
 ![TWC 2012 Logo](img/logo.png)
 
-The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 2nd installment of the osu!taiko World Cup.
+The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -34,6 +34,8 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
 
+![TWC 2012 Winner Badge](img/badge.png)
+
 ## Organisation
 
 The Taiko World Cup 2012 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
@@ -43,7 +45,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Management | ![][flag_KR] [lepidopodus](/users/194807), ![][flag_KR] [wmfchris](/users/7401) |
 | Mapset Organiser | ![][flag_DE] [Loctav](/users/71366) |
 | Match Scheduler | ![][flag_US] [anongos](/users/7135) |
-| Streamers | Kirisaki\_Hayashi, ![][flag_HK] [matthewhln](/users/291487) |
+| Streamers | ![][flag_HK] [Kirisaki\_Hayashi](/users/857986), ![][flag_HK] [matthewhln](/users/291487) |
 | Referees | ![][flag_PE] [Gonzvlo](/users/237733), ![][flag_TW] [Numbers 596108](/users/194653), ![][flag_FR] [Odaril](/users/113005) |
 
 ## Links
@@ -59,9 +61,9 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AT] | **Austria** | **[M A R I O](/users/594424)**, [Necro Neko](/users/697203), [Hawkii](/users/709719), [TheNutritiousGuy](/users/626907) |
-| ![][flag_BR] | **Brazil** | **[fabriciorby](/users/209664)**, [Hyguys](/users/362851), \[Luanny PhNyx\], [JhowM](/users/599290) |
+| ![][flag_BR] | **Brazil** | **[fabriciorby](/users/209664)**, [Hyguys](/users/362851), [\[Luanny PhNyx\]](/users/802909), [JhowM](/users/599290) |
 | ![][flag_CA] | **Canada** | **[xcherry](/users/684730)**, [Crystalloid](/users/699741), [orangespanky](/users/125142), [Super\_Banana](/users/459886) |
-| ![][flag_CL] | **Chile** | **Kurisuchianu**, [Letz\_shake](/users/593579), [Verdisphena](/users/378377), Touche |
+| ![][flag_CL] | **Chile** | **[Kurisuchianu](/users/194345)**, [Letz\_shake](/users/593579), [Verdisphena](/users/378377), [Touche](/users/744220) |
 | ![][flag_CN] | **China** | **[HM495](/users/810813)**, [baka\_baka\_Koishi](/users/915103), [narcissu2012](/users/819937), [small-qiang](/users/619179) |
 | ![][flag_FR] | **France** | **[Nashmun](/users/49031)**, [Dagonpater](/users/205257), [Didou](/users/594822), [Omegaflo](/users/83291) |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](/users/290128)**, [DarkDunskin](/users/98985), [LittleMagic](/users/105380), [RockeDon](/users/624957) |
@@ -74,8 +76,8 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | ![][flag_KR] | **Korea A** | **[Remilia-Scarlet](/users/602783)**, [Mapper 31](/users/156215), [KDS](/users/257977), [Riboflavin](/users/575159) |
 | ![][flag_KR] | **Korea B** | **[\[Shalon\]](/users/317802)**, [OFC\_youngdow](/users/1312550), [EkiBen](/users/344783), [iketa](/users/571504) |
 | ![][flag_MO] | **Macau** | **[L y n n i e](/users/189880)**, [tuidaololi](/users/359750), [benisakura](/users/384986), [\_\_\_\_\_\_\_\_yL](/users/761205) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](/users/332555)**, [Taiko\_Maniac1811](/users/595764), [x3Jerry](/users/605973), mekadon |
-| ![][flag_PH] | **Philippines** | **AngelusMist**, [\[Zero\_One\]](/users/347574), [Zekira](/users/36749), [blacksymbian](/users/53956) |
+| ![][flag_MY] | **Malaysia** | **[HeatKai](/users/332555)**, [Taiko\_Maniac1811](/users/595764), [x3Jerry](/users/605973), [mekadon](/users/157835) |
+| ![][flag_PH] | **Philippines** | **[AngelusMist](/users/640612)**, [\[Zero\_One\]](/users/347574), [Zekira](/users/36749), [blacksymbian](/users/53956) |
 | ![][flag_PL] | **Poland** | **[Acrith](/users/389880)**, [1miko1](/users/95690), [DarkStoorM](/users/174347), [flyleaf95](/users/375174) |
 | ![][flag_ES] | **Spain** | **[CARRI](/users/854536)**, [charly kempachi](/users/280115), [MYRKUL](/users/255933) |
 | ![][flag_TW] | **Taiwan A** | **[doraewon1](/users/358675)**, [ISHIDAMITSUNARI](/users/242910), [zx\_baka\_0502442](/users/457766), [mliencheng](/users/586659) |
@@ -94,7 +96,11 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ------------------------------
 
+## Podium
+
 ![TWC 2012 Podium](img/podium.png)
+
+## Bracket
 
 ![TWC 2012 Bracket](img/bracket.jpg)
 
@@ -325,9 +331,6 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Saturday, 2012-03-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Japan B ![][flag_JP] | 1 | **5** | ![][flag_HK] **Hong Kong A** |  |
-
-| Sunday, 2012-03-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
 | **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_FR] France |  |
 
 ### Round 3
