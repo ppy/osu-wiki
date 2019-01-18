@@ -175,7 +175,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ono's Taiko Inner Oni\]](/beatmapsets/39816#taiko/127115)
   - [U-F SEQUENCER - EupHolic (POONwing) \[Inner Oni (TWC ver.)\]](http://puu.sh/klYO)
 - Tiebreaker
-  - [Various Artists - Taiko Compilation (Foster Don) \[Taiko Inner Oni (TWC ver.)\]](http://puu.sh/km0o)
+  - **[Various Artists - Taiko Compilation (Foster Don) \[Taiko Inner Oni (TWC ver.)\]](http://puu.sh/km0o)**
 
 ### Round 2
 
@@ -198,7 +198,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [Taikojiro - Seirogan2000 (Zelos) \[lepidon! - Taiko Oni (TWC)\]](http://puu.sh/jrY7)
   - [Two Door Cinema Club - What You Know (Krisom) \[Taikoni!Kuri\]](/beatmapsets/31517#taiko/112556)
 - Tiebreaker
-  - [Kola Kid - can't hide your love (Kert) \[31's Taiko\]](/beatmapsets/39732#taiko/133083)
+  - **[Kola Kid - can't hide your love (Kert) \[31's Taiko\]](/beatmapsets/39732#taiko/133083)**
 
 ### Round 1-4
 
@@ -226,7 +226,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [Suzaku - Anisakis -somatic mutation type Forza (matthewhln) \[hln's Taiko\]](http://puu.sh/ijjV)
   - [TERRA - Tenjou no Hoshi \~Reimeiki\~ (ouranhshc) \[lepidon! - Taiko Oni\]](/beatmapsets/14977#taiko/66719)
 - Tiebreaker
-  - [nam5 - Heavenly Shake (Kite) \[Roko-Don's Taiko\]](/beatmapsets/20892#taiko/74347)
+  - **[nam5 - Heavenly Shake (Kite) \[Roko-Don's Taiko\]](/beatmapsets/20892#taiko/74347)**
 
 ### Round 1-3
 
@@ -254,7 +254,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Firce777's Taiko\]](/beatmapsets/28984#taiko/97890)
   - [xi - Parousia (Shiirn) \[Taiko Oni\]](/beatmapsets/37333#taiko/123031)
 - Tiebreaker
-  - [Infected Mushroom - The Legend Of The Black Shawarma (La Cataline) \[lepidon! - Taiko Oni\]](/beatmapsets/20122#taiko/74555)
+  - **[Infected Mushroom - The Legend Of The Black Shawarma (La Cataline) \[lepidon! - Taiko Oni\]](/beatmapsets/20122#taiko/74555)**
 
 ### Round 1-2
 
@@ -282,7 +282,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [YMCK - Danba Danba Din Dan (lepidopodus) \[Oni\]](http://puu.sh/gzx7)
   - [Zeami - Blue Rose Ruin (lepidopodus) \[Oni\]](http://puu.sh/gzxk)
 - Tiebreaker
-  - [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[MM's Taiko\]](/beatmapsets/36541#taiko/121635)
+  - **[Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[MM's Taiko\]](/beatmapsets/36541#taiko/121635)**
 
 ### Round 1-1
 
@@ -310,7 +310,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [Tatsh feat. Tsukiko - Floating Darkness... (Natteke) \[Climbb's Taiko Oni\]](/beatmapsets/22173#taiko/83353)
   - [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](/beatmapsets/20005#taiko/72069)
 - Tiebreaker
-  - [Cait Sith - Schrodinger's Cat (Sushi) \[Taiko Oni\]](/beatmapsets/36409#taiko/117642)
+  - **[Cait Sith - Schrodinger's Cat (Sushi) \[Taiko Oni\]](/beatmapsets/36409#taiko/117642)**
 
 ------------------------------
 
