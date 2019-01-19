@@ -20,7 +20,9 @@ Let's get stuck in!
 
 ### Navigation
 
-<a href="#osu">osu!</a></br><a href="#osutaiko">osu!taiko</a></br><a href="#osumania">osu!mania</a>
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!mania](#osumania)
 
 ### <a name="osu" id="osu"></a>osu!
 
