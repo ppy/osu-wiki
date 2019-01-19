@@ -27,7 +27,8 @@ Thanks to everybody who followed along the project for the past few years, and w
 
 ### Navigation
 
-<a href="#march">March Spotlighted Maps</a></br><a href="#april">April Spotlighted Maps</a></br>
+- [March Spotlighted Maps](#march)
+- [April Spotlighted Maps](#april)
 
 # <a name="march" id="march"></a>March 2018 Spotlights
 

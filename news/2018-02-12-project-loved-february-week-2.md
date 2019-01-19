@@ -25,8 +25,8 @@ This week, the osu! captains have compiled a list of maps that fit the Valentine
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
 
 ## <a name="osu" id="osu"></a>osu!
 
