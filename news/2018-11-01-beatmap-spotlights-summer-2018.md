@@ -31,14 +31,14 @@ We are also pushing to increase the visibility of the Spotlights on the website 
 
 For now, let's get stuck right into this year's blazing summer beatmap hits!
 
-# Navigation
+# Summer 2018 Spotlights
+
+### Navigation
 
 - <a href="#osu">osu!</a>
 - <a href="#taiko">osu!taiko</a>
 - <a href="#catch">osu!catch</a>
 - <a href="#mania">osu!mania</a>
-
-# Summer 2018 Spotlights
 
 ## <a name="osu" id="osu"></a>osu!
 

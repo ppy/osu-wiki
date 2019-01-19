@@ -19,14 +19,14 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 - **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547), [Crystal](https://osu.ppy.sh/users/1646397) and [Nelly](https://osu.ppy.sh/users/4741164)
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [robby250](https://osu.ppy.sh/users/2653437) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
-# Navigation
+# Fall 2018 Spotlights
+
+### Navigation
 
 - [osu!](#osu)
 - [osu!taiko](#taiko)
 - [osu!catch](#catch)
 - [osu!mania](#mania)
-
-# Fall 2018 Spotlights
 
 ## <a name="osu" id="osu"></a>osu!
 
