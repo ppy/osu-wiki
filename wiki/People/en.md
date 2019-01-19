@@ -1,6 +1,6 @@
 # People
 
-The following are user groups which are made up of the osu! community members that help maintain osu! Most of these user groups can be recognized with their forum name colours, in-game chat colours, profile titles, and/or profile badges.
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized with their forum name colours, in-game chat colours, profile titles, and/or profile badges.
 
 - [The Team](/wiki/People/The_Team)
 - [Global Moderation Team](/wiki/People/Global_Moderation_Team)

@@ -21,7 +21,7 @@ These shortcuts work anywhere:
 - `F12`: Take a screenshot
 - `Shift` + `F12`: Take a screenshot and upload to the server for sharing
 - `Insert`: ([Boss Key](https://en.wikipedia.org/wiki/Boss_key)) Minimize the osu!client into the notification area
-- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on Twitter") (when connection error appears)
 
 ## Main Menu
 

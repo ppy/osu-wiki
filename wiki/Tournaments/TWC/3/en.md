@@ -64,8 +64,8 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | ![][flag_CL] | **Chile B** | **kazukisinx**, Letz\_Shake, koneejo, N3koKiller |
 | ![][flag_CN] | **China A** | **HM495**, Mic, narcissu2012, baka\_baka\_Koishi |
 | ![][flag_CN] | **China B** | **bx1989**, yuan0312, Yowane \_ Haku, mcwyc |
-| ![][flag_DKNO] | **Denmark-Norway** | **TraxieChan**, Zheant, Dolphin, Agu |
-| ![][flag_SVVE] | **El Salvador-Venezuela** | **Christian**, KIKECTB, \[Chichioko\], Black Wolf159 |
+| ![][flag_DK] ![][flag_NO] | **Denmark-Norway** | **TraxieChan**, Zheant, Dolphin, Agu |
+| ![][flag_SV] ![][flag_VE] | **El Salvador-Venezuela** | **Christian**, KIKECTB, \[Chichioko\], Black Wolf159 |
 | ![][flag_FI] | **Finland** | **Samwais**, ReZero, Orkel |
 | ![][flag_FR] | **France** | **Nashmun**, \_Gezo\_, omegaflo, Fraolinch |
 | ![][flag_DE] | **Germany A** | **Slih**, Xay, BrokenArrow, DarkDunskin |
@@ -73,7 +73,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | ![][flag_HK] | **Hong Kong A** | **aabc271**, kanpakyin, KanaRin, hknoboru |
 | ![][flag_HK] | **Hong Kong B** | **NewibornCLivee**, EZENA, firenz818, wcl\_0209 |
 | ![][flag_ID] | **Indonesia** | **Flandre XKarlet**, Frans Niko, \[Sena Airi\], Ghassan Super |
-| ![][flag_ITNL] | **Italy-Netherlands** | **NeoRainier**, Pheon, Lokamp, happy30 |
+| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **NeoRainier**, Pheon, Lokamp, happy30 |
 | ![][flag_JP] | **Japan A** | **FlowerMasterK**, Rappu, shifon\[0312\], kiru132 |
 | ![][flag_JP] | **Japan B** | **Shuki-**, Orukaa, NeGaTiVeMinD, TKSalt |
 | ![][flag_KR] | **Korea** | **-applerss-**, kawhy, Bye, [Akita-Neru] |
@@ -383,22 +383,25 @@ This competition has come to an end and resulted in the following podium:
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DKNO]: /wiki/shared/flag/DKNO.png
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
-[flag_ITNL]: /wiki/shared/flag/ITNL.png
+[flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MO]: /wiki/shared/flag/MO.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SVVE]: /wiki/shared/flag/SVVE.png
+[flag_SV]: /wiki/shared/flag/SV.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif

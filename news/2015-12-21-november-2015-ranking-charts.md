@@ -129,7 +129,7 @@ Surprisingly the only pure CtB mapset in my selection, I chose this mapset for t
 
 For osu!mania, **[pporse](https://osu.ppy.sh/u/4991434)** was able to select their personal most noteworthy beatmap from last month.
 
-+ **[xi - Parousia]( https://osu.ppy.sh/s/355601 ) by [M A S]( https://osu.ppy.sh/u/2393914 )**
++ **[xi - Parousia](https://osu.ppy.sh/s/355601) by [M A S](https://osu.ppy.sh/u/239391 )**
 
 It's usually very difficult to find a song that changes its snapping consequently.
 The reason is that it may be troublesome to find the right timing.
@@ -142,7 +142,7 @@ Particularly the SV changes that are his trademark makes a good relationship wit
 This map deserves to be in 1st place.
 Congratulations for his first ranked map!
 
-+ [Soleily - Violet Soul]( https://osu.ppy.sh/s/318602 ) by [pocket-Gao]( https://osu.ppy.sh/u/3162182 )
++ [Soleily - Violet Soul](https://osu.ppy.sh/s/318602) by [pocket-Gao](https://osu.ppy.sh/u/3162182)
 
 There are many ranked maps using long notes, but the ones that only use short note styles(BMS like) are only a few.
 Here lies that style of map!
@@ -155,7 +155,7 @@ the structure of the notes are adequate for each one of the difficulties making 
 I played with lots of fun, and I'm certain that other players will have fun too.
 p.s - Oh, I found something really surprising too: As the difficulty goes up, the total amount of long notes decreases one by one!
 
-+ [Team:SASAKURATION - AVALON]( https://osu.ppy.sh/s/118763 ) by [ExPew]( https://osu.ppy.sh/u/665612 )
++ [Team:SASAKURATION - AVALON](https://osu.ppy.sh/s/118763) by [ExPew](https://osu.ppy.sh/u/665612)
 
 You can always notice that ExPew's maps always have a high quality. This is due to his clever mapping.
 He understands perfectly what kind of note structure best fits in a specific part, when to put the notes strong, and when to put them weak.
@@ -163,7 +163,7 @@ Also, he always changes the patterns so the player doesn't get bored.
 In addition, the keysounds make the quality of this map one step higher.
 A clear structure, the variety of patterns, an outstanding keysound use. There is no reason to not choose this.
 
-+ [penoreri - Preserved Valkyria]( https://osu.ppy.sh/s/359196 ) by [FrEsH ChICkEn]( https://osu.ppy.sh/u/3984370 )
++ [penoreri - Preserved Valkyria](https://osu.ppy.sh/s/359196) by [FrEsH ChICkEn](https://osu.ppy.sh/u/3984370)
 
 If you pass the 32-beat ~ 48-beat stream pattern at the beginning, welcome to the jack world!
 Practising maps that contain patterns that are a weakness for you to get better, will give you a good result in this map.
@@ -172,7 +172,7 @@ An 8-beat jack with 220 bpm is considered a light jack. The jack of this map is 
 Also, the 16 beat streams that appear in some parts inside a jack part always makes your finger nervous.
 Considering that all patterns in each part surprisingly matches with the song, anyone can play this with fun.
 
-+ [Camellia - overcomplexification]( https://osu.ppy.sh/s/323493 ) by [Starry-]( https://osu.ppy.sh/u/2166199 )
++ [Camellia - overcomplexification](https://osu.ppy.sh/s/323493) by [Starry-](https://osu.ppy.sh/u/2166199)
 
 A good map is when you hear the name of the map and 'Oh! that map!' comes to the mind. I wonder if there are patterns that will make people think that.
 This map is made up with trill parts, many short 32nd beat streams showing up, and complex long note structures that are difficult to find in a 4 key map.
@@ -180,7 +180,7 @@ Having every part of the song with it's own clear concept gave me a nice impress
 Especially the high quality long note part will help 4 key users improve their skills.
 
 
-+ [PLight feat. mow2 - Homeneko*Sensation]( https://osu.ppy.sh/s/315350 ) by [victorica_db]( https://osu.ppy.sh/u/2046044 )
++ [PLight feat. mow2 - Homeneko*Sensation](https://osu.ppy.sh/s/315350) by [victorica_db](https://osu.ppy.sh/u/2046044)
 
 When mapping a song that repeats a part, it is challenging to perform new patterns continuously so that it doesn't get boring when playing.
 This song has that case. However, this map gives an alteration to the patterns helping the player not get bored while playing.

@@ -87,7 +87,7 @@ Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. 
 
 Pour donner un exemple avec une formule mathématique:
 
-_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la _i_ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
+_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la *i*ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
 
 ```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
 

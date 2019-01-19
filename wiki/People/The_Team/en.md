@@ -34,7 +34,7 @@ Active
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp development |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |

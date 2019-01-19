@@ -40,7 +40,7 @@ Forum-brede regels
 Beatmap inzend regels
 ---------------------------------
 
-Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Beatmap_Submission_System). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
+Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
 
 Een set met meer gedetailleerde regels voor het maken van een beatmap, genaamd de [Rang Criteria](/wiki/Ranking_Criteria).
 

@@ -27,11 +27,12 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 ## Prizes
 
-Winners of their respective game mode will get a Profile badge.
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
 
 ![Standard Badge](img/badge_standard.png) ![Taiko Badge](img/badge_taiko.png) ![Catch Badge](img/badge_catch.png) ![4K Badge](img/badge_4K.png) ![7K Badge](img/badge_7K.png)
-
-*The rest of the prizes are to be determined by the staff.*
 
 ## Organisation
 
@@ -53,9 +54,7 @@ Winners of their respective game mode will get a Profile badge.
 - [Discussion thread](/community/forums/topics/801475)
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
-- [Discord Server](https://discord.gg/9ZUMmwS)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
-- [Match Schedules](https://docs.google.com/spreadsheets/d/1dykRLOH3gmFfoUHViTrFgBYgq6yMc_6WVyKUunuGmQ8/edit?usp=sharing)
 - Challonge
   - [osu!standard](https://challonge.com/oPHF2018_std)
   - [osu!taiko](https://challonge.com/oPHF2018_taiko)
@@ -167,6 +166,52 @@ Winners of their respective game mode will get a Profile badge.
 | 8 | [kei101895](https://osu.ppy.sh/users/3032245) | 
 | 9 | [Keishii](https://osu.ppy.sh/users/8381177) | 
 | 10 | [Shawntell](https://osu.ppy.sh/users/7384938) | 
+
+------------------------
+
+## Tournament Winners
+
+The following players are the people who managed to pull through the whole competition
+
+### osu!standard Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
+
+### osu!taiko Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+
+### osu!catch Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
+
+### osu!mania 4K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
+
+### osu!mania 7K Division
+
+| Placing | User |
+|:---:|---|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
 ------------------------
 
@@ -824,6 +869,14 @@ Winners of their respective game mode will get a Profile badge.
 
 ### osu!standard
 
+#### Finals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQk5tpFYFoxFamLzjIhVZ8gz7REE42YYDblA_UimpKMuxHTsPvJjf8WYXPjntaUjGuVU8BWNxsEq0sv/pubhtml)
+
+| Seed | Player 1 | | | Player 2 | Seed | | 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
+| 4 | **Stereo** | **7** | 5 | TyrantsEye2014 | 3 | | 
+
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz4KlpijwtlXCdCkqZQYMq6TEC_D5sw0TRbboLFjaJOkcYREp83HyG08LvBm_IthBZEXUlOtrRuX4a/pubhtml)
@@ -928,6 +981,16 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### osu!catch
 
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfnWy12VK1RBz5bwtfPOTMEFST_2ldF1sGfdVwcz5vMKHLDkUlR1t4Aey671J3yz7TWkNPpJ_4qwv1/pubhtml)
+
+| Seed | Player 1 | | | Player 2 | Seed | | 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
+| 9 | **- Kielzu -** | **7** | 3 | Crowley | 4 | | 
+| 2 | KaganimeRin    | 2 | **7** | **- Kielzu -** | 9 | | 
+| 9 | **- Kielzu -** | **7** | 3 | KaganimeRin | 2 | | 
+
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSH8dVYca-voNGPONyEBXl3Kn3T162qWwQlTD2uzzicW5B5DjJfgplR9bpsoqZZE9fqpCWV5CXxFH7/pubhtml)
@@ -982,6 +1045,16 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### osu!mania 4K
 
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrQ_M5fyMamxXZZJMmhSaahdBhCrwOUR764futo2GM_Sj4q0kb0xRfwtSokr0-pJAqrqZaxETYXV0A/pubhtml)
+
+| Seed | Player 1 | | | Player 2 | Seed | | 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
+| 1 | **arge-** | **7** | 1 | Shiyui-   | 5 | | 
+| 2 | Baltz | 2 | **7** | **arge-** | 1 | | 
+| 1 | **arge-** | **7** | 2 | Baltz     | 2 | -forfeited- | 
+
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXtOV-mc56JfL_iO7mmC9Q-fnLlmfugSQ14ITW_MNw17DWTKNKn9MDVpNKiE3S-Qx-dSnFH5zeh5x/pubhtml)
@@ -1014,7 +1087,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
-| 16 | **partycarft30** | **6** | 0 | Edison  8 | -win by default- | 
+| 16 | **partycarft30** | **6** | 0 | Edison | 8 | -win by default- | 
 | 13 | Izayoi-san | 0 | **6** | **Suravur** | 12 | -win by default- | 
 | 15 | hikaruXD19 | 4 | **6** | **Inoariusu** | 10 | | 
 | 14 | LohaWarpe | 0 | **6** | **vincent4399** | 11 | | 
@@ -1043,6 +1116,15 @@ Detailed results for this round are found via [this link](https://docs.google.co
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk/edit?usp=sharing)
 
 ### osu!mania 7K
+
+#### Finals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRU-FRNZQkxl8hAc_qSTV4Xer90XlzStTdJ51n3wldcw6ArtmMNXJX5O_jzfnqTYzFsCdSu8tNBYZL8/pubhtml)
+
+| Seed | Player 1 | | | Player 2 | Seed | | 
+| :-: | :-- | :-: | :-: | --: | :-: | :-: | 
+| 2 | Cielo Day | 0 | **7** | **fer789** | 4 | -win by default- | 
+| 1 | **Nikana** | **7** | 2 | fer789 | 4 | | 
 
 #### Finals Week 1
 

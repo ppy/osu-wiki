@@ -20,135 +20,135 @@ The result of this system is that (a) maps with higher play counts do not have a
 <table id="Table_01" width="752" height="800" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td colspan="11">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_01.png" width="752" height="103" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_01.png" width="752" height="103" alt=""></td>
 	</tr>
 	<tr>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_02.png" width="104" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_02.png" width="104" height="697" alt=""></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/332532">
 				<img src="https://s.ppy.sh/images/bestof2015/2015-Best-Fucking-Beatmaps_03.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_04.png" width="8" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/2015-Best-Fucking-Beatmaps_03.png" width="8" height="697" alt=""></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/219380">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_05.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_05.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_06.png" width="8" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_06.png" width="8" height="697" alt=""></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/280107">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_07.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_07.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_08.png" width="8" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_08.png" width="8" height="697" alt=""></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/158023">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_09.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_09.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_10.png" width="8" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_10.png" width="8" height="697" alt=""></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/323059">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_11.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_11.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_12.png" width="16" height="697" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_12.png" width="16" height="697" alt=""></td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_13.png" width="120" height="20" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_13.png" width="120" height="20" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_14.png" width="120" height="20" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_14.png" width="120" height="20" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_15.png" width="120" height="20" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_15.png" width="120" height="20" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_16.png" width="120" height="20" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_16.png" width="120" height="20" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_17.png" width="120" height="20" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_17.png" width="120" height="20" alt=""></td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://osu.ppy.sh/s/275331">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_18.png" width="120" height="151" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_18.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/329268">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_19.png" width="120" height="151" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_19.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/215476">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_20.png" width="120" height="151" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_20.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/324146">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_21.png" width="120" height="151" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_21.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/348969">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_22.png" width="120" height="151" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_22.png" width="120" height="151" border="0" alt=""></a></td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_23.png" width="120" height="32" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_23.png" width="120" height="32" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_24.png" width="120" height="32" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_24.png" width="120" height="32" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_25.png" width="120" height="32" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_25.png" width="120" height="32" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_26.png" width="120" height="32" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_26.png" width="120" height="32" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_27.png" width="120" height="32" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_27.png" width="120" height="32" alt=""></td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://osu.ppy.sh/s/253969">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_28.png" width="120" height="160" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_28.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/287873">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_29.png" width="120" height="160" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_29.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/139525">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_30.png" width="120" height="160" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_30.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/310499">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_31.png" width="120" height="160" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_31.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/286414">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_32.png" width="120" height="160" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_32.png" width="120" height="160" border="0" alt=""></a></td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_33.png" width="120" height="14" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_33.png" width="120" height="14" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_34.png" width="120" height="14" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_34.png" width="120" height="14" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_35.png" width="120" height="14" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_35.png" width="120" height="14" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_36.png" width="120" height="14" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_36.png" width="120" height="14" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_37.png" width="120" height="14" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_37.png" width="120" height="14" alt=""></td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://osu.ppy.sh/s/272871">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_38.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_38.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/200552">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_39.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_39.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/288794">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_40.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_40.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/293235">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_41.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_41.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
 			<a href="https://osu.ppy.sh/s/246853">
-				<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_42.png" width="120" height="155" border="0" alt=""></a></td>
+				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_42.png" width="120" height="155" border="0" alt=""></a></td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_43.png" width="120" height="10" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_43.png" width="120" height="10" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_44.png" width="120" height="10" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_44.png" width="120" height="10" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_45.png" width="120" height="10" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_45.png" width="120" height="10" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_46.png" width="120" height="10" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_46.png" width="120" height="10" alt=""></td>
 		<td>
-			<img src="https://s.ppy.sh/images/bestof2015/Best-Beatmaps-2015_47.png" width="120" height="10" alt=""></td>
+			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_47.png" width="120" height="10" alt=""></td>
 	</tr>
 </table>
 <!-- End Save for Web Slices -->
