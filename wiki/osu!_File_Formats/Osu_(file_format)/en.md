@@ -72,7 +72,7 @@ EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains
 
 `EpilepsyWarning: 0`
 
-CountdownOffset (Boolean) specifies how many beats earlier the countdown starts.
+CountdownOffset (Integer) specifies how many beats earlier the countdown starts.
 
 `CountdownOffset: 0`
 
