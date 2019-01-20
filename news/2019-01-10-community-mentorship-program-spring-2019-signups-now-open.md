@@ -11,7 +11,7 @@ This program serves as a platform for new mappers and modders to get into the be
 
 If you have knowledge to pass on, and the idea of mentoring someone in a more structured manner than dropping bits and pieces of knowledge into private conversations with a number of people seems appealing to you, you should totally apply for being a mentor! If you're unsure how to even map to begin with when opening the editor, and are willing to learn, you'd make a good mentee!
 
-**For the upcoming spring cycle we are looking for both mentors and mentees for all game modes!** 
+**For the upcoming spring cycle, we are looking for both mentors and mentees for all game modes!** 
 
 The timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 - Mentor signups started on 2019-01-06 and close on 2019-01-13.
