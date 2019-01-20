@@ -290,17 +290,17 @@ The osu! South East Tournament 2 is run by various community members.
 
 | Friday, 2019-01-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Creez ![][flag_ID] | 1 | **7** | ![][flag_MY] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/48940594) |
+| Creez ![][flag_ID] | 1 | **7** | ![][flag_MY] **GSBlank** | [#1](/community/matches/48940594) |
 
 | Saturday, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](https://osu.ppy.sh/community/matches/48967140) |
+| **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](/community/matches/48967140) |
 
 | Sunday, 2019-01-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](https://osu.ppy.sh/community/matches/48994166) |
-| Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/48995392) |
-| Raindrop ![][flag_SG] | 2 | **7** | ![][flag_MY] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/49002936) |
+| **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](/community/matches/48994166) |
+| Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48995392) |
+| Raindrop ![][flag_SG] | 2 | **7** | ![][flag_MY] **GSBlank** | [#1](/community/matches/49002936) |
 
 ### Semifinals
 
