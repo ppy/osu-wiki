@@ -3,7 +3,7 @@ layout: post
 title: "Community Mentorship Program Spring 2019 Signups Now Open"
 date: 2019-01-26 12:00:00 +0000
 ---
-Ever wanted to get into beatmapping for this game, but have no clue where to start at? In that case, the Community Mentorship program might be the way to start your mapping career!
+Ever wanted to get into beatmapping for this game, but have no clue where to start? In that case, the Community Mentorship program might be the way to begin your mapping career!
 
 ![](/wiki/shared/news/2019-01-10-community-mentorship-program-spring-2019-signups-now-open/banner.jpg)
 
