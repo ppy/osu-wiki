@@ -7,7 +7,7 @@ Ever wanted to get into beatmapping for this game, but have no clue where to sta
 
 ![](/wiki/shared/news/2019-01-10-community-mentorship-program-spring-2019-signups-now-open/banner.jpg)
 
-This program serves as a platform for new mappers and modders to get into the process more quickly by teaming them up with a more experienced mapper and modder in the community to show them the ropes for a total of 10 weeks.
+This program serves as a platform for new mappers and modders to get into the beatmapping process more quickly. They'll be teaming up with more experienced mappers and modders in the community that will show them the ropes for a total of ten weeks.
 
 If you have knowledge to pass on, and the idea of mentoring someone in a more structured manner than dropping bits and pieces of knowledge into private conversations with a number of people seems appealing to you, you should totally apply for being a mentor! If you're unsure how to even map to begin with when opening the editor, and are willing to learn, you'd make a good mentee!
 
