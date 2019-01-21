@@ -38,7 +38,6 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 | Position | Member(s) |
 | :-- | :-- |
 | Hosts | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614) |
-| Organizers | ![][flag_US] [ForceJansen](/users/5566923) |
 | Commentators | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614) |
 | Map Selectors | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614), ![][flag_US] [Harrharrqi](/users/2744592), ![][flag_SG] [Sheenoboo](/users/5704437) |
 
