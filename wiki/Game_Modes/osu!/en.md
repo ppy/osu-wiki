@@ -42,23 +42,7 @@
 
 ![Gameplay of osu!][osu! Interface image]
 
-The first game mode and namesake which was based from the ouendan series.
-
-## What is "Ouendan"?
-
-_[Osu! Tatakae! Ouendan][ouendan wikipedia]_ is a rhythm game for the _Nintendo DS_.
-The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast.
-All these elements are timed to (covers of) popular Japanese songs.
-It looks like this on the _DS_:-
-
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
-
-_Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS_
-
-The gameplay circles can be seen on the bottom screen, and the story on the top screen.
-Each stage is basically a self-contained story about a person in trouble.
-That is where the _Ouendan_ (Cheer squad) comes in.
-Through the magical power of male cheerleading, the player have to help the people in trouble.
+The first game mode and namesake which was based from the [Ouendan](/wiki/Glossary#ouendan) series.
 
 ## ![osu! icon][osu! icon link] Gameplay
 

@@ -44,23 +44,7 @@
 
 ![Gameplay de osu!][osu! Interface image]
 
-El primer modo de juego y homónimo que se basó en la serie ouendan.
-
-## ¿Qué es "Ouendan"?
-
-_[Osu! Tatakae! Ouendan][ouendan wikipedia]_ es un juego de ritmo para la _Nintendo DS_.
-La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido.
-Todos estos elementos están sincronizados con (covers de) populares canciones japonesas.
-Se ve así en el _DS_:-
-
-![Gameplay de ejemplo de Osu! Tatakae! Ouendan en la Nintendo DS][ouendan image]
-
-_Gameplay ejemplo de Osu! Tatakae! Ouendan en la Nintendo DS_
-
-Los círculos del juego se pueden ver en la pantalla inferior y la historia en la pantalla superior.
-Cada etapa es básicamente una historia independiente sobre una persona en problemas.
-Ahí es donde entran los _Ouendan_ (escuadrón de animadores).
-A través del poder mágico de los porristas masculinos, el jugador tiene que ayudar a las personas en apuros.
+El primer modo de juego y homónimo que se basó en la serie [Ouendan](/wiki/Glossary#ouendan).
 
 ## ![Icono de osu!][osu! icon link] Jugabilidad
 
