@@ -1,5 +1,5 @@
 <!-- wiki -->
-[osu! main wikilink]: ../ "osu! game mode"
+[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!"
 [Score#osu!SV wikilink]: /wiki/Score/#osu "more info can be found on Score under osu! Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
@@ -43,23 +43,7 @@
 
 ![Gameplay of osu!][osu! Interface image]
 
-The first game mode and namesake which was based from the ouendan series.
-
-## What is "Ouendan"?
-
-_[Osu! Tatakae! Ouendan][ouendan wikipedia]_ is a rhythm game for the _Nintendo DS_.
-The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast.
-All these elements are timed to (covers of) popular Japanese songs.
-It looks like this on the _DS_:-
-
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
-
-_Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS_
-
-The gameplay circles can be seen on the bottom screen, and the story on the top screen.
-Each stage is basically a self-contained story about a person in trouble.
-That is where the _Ouendan_ (Cheer squad) comes in.
-Through the magical power of male cheerleading, the player have to help the people in trouble.
+The first game mode and namesake which was based from the [Ouendan](/wiki/Glossary#ouendan) series.
 
 ## ![osu! icon][osu! icon link] Gameplay
 
@@ -75,7 +59,7 @@ The gameplay puts emphasis on:-
 - Physical stamina and mental fortitude (especially longer, marathon-type songs).
 - Proper positioning and hand-eye coordination.
 
-These are some of the vital skills to become an _osu! rhythm master_.
+These are some of the vital skills to become an _osu! rhythm champion_.
 
 The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
 
@@ -362,7 +346,7 @@ _Combo Fire_
 
 - Older version of osu! used to emulate some of the elements from the _ouendan_ series before being removed or replaced.
   - Combo fire when hitting new combo milestones.
-    - Removed on 5th of March, 2013, due to performance issues.
+    - Removed on 05 March 2013 (2013-03-05), due to performance issues.
   - The first version of default skin using v1 skin behaviour, which was _osu!default by peppy_ skin, provides an almost identical copy of the _ouendan_ interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
@@ -370,9 +354,9 @@ _Combo Fire_
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
-- The first three beatmaps ranked on the same day (7th of October, 2007) when the online leaderboard went live were:-
+- The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:-
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in _ancient_ beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.  
+  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.
