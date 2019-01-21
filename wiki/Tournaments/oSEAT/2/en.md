@@ -107,10 +107,10 @@ The osu! South East Tournament 2 is run by various community members.
 
 ### Sunday, 27 January 2019
 
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| LC-1 | Skydiver | ![][flag_ID] | ![][flag_ID] | Rexeez | **21:00** | ¹ |
-| LC-2 | Skydiver | ![][flag_ID] | ![][flag_MY] | GSBlank | **21:00** | ¹ |
+| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| LC-1¹ | Skydiver | ![][flag_ID] | ![][flag_ID] | Rexeez | **21:00** |
+| LC-2¹ | Skydiver | ![][flag_ID] | ![][flag_MY] | GSBlank | **21:00** |
 
 ¹ Encounter dependent on winner of Match LB
 
