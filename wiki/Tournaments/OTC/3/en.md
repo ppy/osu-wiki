@@ -95,6 +95,8 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 ## Mappools
 
+### Round of 32
+
 ### Group Stage
 
 **[Download the mappack here! (62 MB)](http://www.mediafire.com/file/2ia3e3y2ri3o42p/OTC+%233+Group+Stage+Mappool.zip)**
@@ -178,6 +180,60 @@ The osu! Technical Championship #3 is run by various osu! community members.
 | E3 | **Woey** ![][flag_US] | **4** | 0 | ![][flag_RU] Unikenl | -win by default- |
 | E6 | Desew ![][flag_RU] | 3 | **4** | ![][flag_US] **Woey** | -link coming soon- |
 | H2 | **Cappy** ![][flag_US] | **4** | 3 | ![][flag_AR] -Urushihara- | [#1](/community/matches/48841708) |
+
+| Match ID | Saturday, 2019-01-19 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| L4 | Monk Gyatso ![][flag_AU] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
+| J5 | **Takagaki** ![][flag_AU] | **4** | 0 | ![][flag_RU] Hidemi | -win by default- |
+| L2 | **Demonical** ![][flag_SG] | **4** | 0 | ![][flag_US] Jace | -win by default- |
+| L6 | **Megure** ![][flag_DE] | **4** | 3 | ![][flag_AU] Monk Gyatso | [#1](/community/matches/48990525) |
+| L1 | Demonical ![][flag_SG] | 0 | **4** | ![][flag_DE] **Megure** | -win by default- |
+| L3 | Monk Gyatso ![][flag_AU] | 0 | **4** | ![][flag_US] **Jace** | -win by default- |
+| I1 | **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_BE] 5joshi | [#1](/community/matches/48972278) |
+| I2 | **Bubbleman** ![][flag_GB] | **4** | 2 | ![][flag_RU] Okinotori | [#1](/community/matches/48974244) |
+| I4 | MyAngelMiku ![][flag_CN] | 1 | **4** | ![][flag_GB] **Bubbleman** | [#1](/community/matches/48976371) |
+| I5 | 5joshi ![][flag_BE] | 1 | **4** | ![][flag_RU] **Okinotori** | [#1](/community/matches/48976349) |
+| J3 | **im a fancy lad** ![][flag_US] | **4** | 0 | ![][flag_RU] Hidemi | -win by default- |
+| K2 | **Xilver15** ![][flag_IL] | **4** | 0 | ![][flag_AR] FastoFreezu | [#1](/community/matches/48977731) |
+| J4 | **im a fancy lad** ![][flag_US] | **4** | 1 | ![][flag_PL] MrBooM | [#1](/community/matches/48979399) |
+| K1 | **Xilver15** ![][flag_IL] | **4** | 0 | ![][flag_US] Aeril | [#1](/community/matches/48979745) |
+| O4 | **Riven** ![][flag_GR] | **4** | 3 | ![][flag_US] Gifted | [#1](/community/matches/48981992) |
+| K4 | **Tekkito** ![][flag_US] | **4** | 1 | ![][flag_IL] Xilver15 | [#1](/community/matches/48983646) |
+| I3 | MyAngelMiku ![][flag_BR] | 1 | **4** | ![][flag_RU] **Okinotori** | [#1](/community/matches/48987257) |
+| K6 | Aeril ![][flag_US] | 1 | **4** | ![][flag_US] **Tekkito** | [#1](/community/matches/48986995) |
+
+| Match ID | Sunday, 2019-01-20 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| J6 | **Takagaki** ![][flag_AU] | **4** | 0 | ![][flag_US] im a fancy lad | [#1](/community/matches/48995853) |
+| J1 | **MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_AU] Takagaki | [#1](/community/matches/49003051) |
+| O5 | **Saika-** ![][flag_SE] | **4** | 0 | ![][flag_GB] hlo | [#1](/community/matches/49003051) |
+| P2 | **Dustice** ![][flag_DE] | **4** | 2 | ![][flag_RU] neko ds | [#1](/community/matches/49002953) |
+| M1 | **Knalli** ![][flag_DE] | **4** | 3 | ![][flag_RU] \_Kyori | [#1](/community/matches/49004636) |
+| O6 | Saika- ![][flag_SE] | 0 | **4** | ![][flag_GR] **Riven** | [#1](/community/matches/49004620) |
+| P4 | Lilily ![][flag_NL] | 2 | **4** | ![][flag_DE] **Dustice** | [#1](/community/matches/49004531) |
+| M2 | **Knalli** ![][flag_DE] | **4** | 0 | ![][flag_PL] \_demo | [#1](/community/matches/49006444) |
+| P3 | Lilily ![][flag_NL] | 3 | **4** | ![][flag_RU] **neko ds** | [#1](/community/matches/49006190) |
+| M3 | respektive ![][flag_DE] | 2 | **4** | ![][flag_PL] \_demo | [#1](/community/matches/49007544) |
+| P5 | amano megumi ![][flag_CA] | 1 | **4** | ![][flag_RU] **neko ds** | [#1](/community/matches/49007580) |
+| I6 | 5joshi ![][flag_BE] | 1 | **4** | ![][flag_CN] **MyAngelMiku** | [#1](/community/matches/49009176) |
+| J2 | **MrBoom** ![][flag_PL] | **4** | 0 | ![][flag_RU] Hidemi | -win by default- |
+| M4 | respektive ![][flag_DE] | 0 | **4** | ![][flag_DE] **Knalli** | [#1](/community/matches/49009316) |
+| M5 | \_Kyori ![][flag_RU] | 0 | **4** | ![][flag_PL] **\_demo** | [#1](/community/matches/49009215) |
+| P6 | amano megumi ![][flag_CA] | 0 | **4** | ![][flag_NL] **Lilily** | [#1](/community/matches/49009334) |
+| M6 | **\_Kyori** ![][flag_RU] | **4** | 3 | ![][flag_DE] respektive | [#1](/community/matches/49010918) |
+| N6 | papika ![][flag_DE] | 3 | **4** | ![][flag_PL] **Marek Marucha** | [#1](/community/matches/49010888) |
+| O3 | **Riven** ![][flag_GR] | **4** | 0 | ![][flag_GB] hlo | -win by default- |
+| P1 | **Dustice** ![][flag_DE] | **4** | 3 | ![][flag_CA] amano megumi | [#1](/community/matches/49009334) |
+| N3 | **Marek Marucha** ![][flag_PL] | **4** | 2 | ![][flag_US] Shiorii | [#1](/community/matches/49012886) |
+| L5 | **Megure** ![][flag_DE] | **4** | 1 | ![][flag_US] Jace | [#1](/community/matches/49014325) |
+| N4 | Marek Marucha ![][flag_PL] | 1 | **4** | ![][flag_US] **WillCookie** | [#1](/community/matches/49014456) |
+| N5 | **papika** ![][flag_DE] | **4** | 0 | ![][flag_US] Shiorii | [#1](/community/matches/49014949) |
+| O1 | **Gifted** ![][flag_US] | **4** | 0 | ![][flag_SE] Saika- | [#1](/community/matches/49014675) |
+| K5 | **Aeril** ![][flag_US] | **4** | 0 | ![][flag_AR] FastoFreezu | -win by default- |
+| E4 | Woey ![][flag_US] | 3 | **4** | ![][flag_FR] **Musty** | [#1](/community/matches/49016755) |
+| K3 | **Tekkito** ![][flag_US] | **4** | 0 | ![][flag_AR] FastoFreezu | [#1](/community/matches/49016755) |
+| N1 | **WillCookie** ![][flag_US] | **4** | 3 | ![][flag_DE] papika | [#1](/community/matches/49016650) |
+| O2 | **Gifted** ![][flag_US] | **4** | 0 | ![][flag_GB] hlo | -win by default- |
 
 ------------------------------------------------------------------------
 
