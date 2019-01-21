@@ -229,11 +229,11 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](/users/1499137)(osu!), ![][flag_PH] [Pochacco](/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](/users/6221114)(osu!catch), ![][flag_PH] [arge-](/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [Rimazii](/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Baltz](/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](/users/3932796)(osu!), ![][flag_PH] [zonelouise](/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](/users/2722489)(osu!mania 7K) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing Lan Ever
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Most Amazing Lan Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 |  |  |  |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 |  |  |  |
 
 See also
 --------

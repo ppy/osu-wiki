@@ -7,17 +7,17 @@ tags:
 - UCR
 ---
 
-# Most Amazing Lan Ever
+# Most Amazing LAN Ever
 
 <!-- ![MALE Logo](img/logo.png) -->
 
-The **Most Amazing Lan Ever** (***MALE***) is an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](/users/5566923) and ![][flag_US] [Chest Flattener](/users/4292614). It will take place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
+The **Most Amazing LAN Ever** (***MALE***) is an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](/users/5566923) and ![][flag_US] [Chest Flattener](/users/4292614). It will take place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
 ## Event Details
 
-The Most Amazing Lan Ever will be run over the duration of Highlander Con, from roughly 10:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. The schedule of matches will be determined as the event goes on.
+The Most Amazing LAN Ever will be run over the duration of Highlander Con, from roughly 10:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. The schedule of matches will be determined as the event goes on.
 
-Nearest to parking lot 19, the Highlander Union Building is where most of the events for Highlander Con will be taking place. The Most Amazing Lan Ever will be in HUB 260, on the second floor. To be allowed in, you must [register for Highlander Con 2019](https://www.eventbrite.com/e/highlander-con-2019-tickets-54040467493) and have your ticket ready to scan on entry.
+Nearest to parking lot 19, the Highlander Union Building is where most of the events for Highlander Con will be taking place. The Most Amazing LAN Ever will be in HUB 260, on the second floor. To be allowed in, you must [register for Highlander Con 2019](https://www.eventbrite.com/e/highlander-con-2019-tickets-54040467493) and have your ticket ready to scan on entry.
 
 ## Prizes
 
@@ -33,7 +33,7 @@ All prizes will be awarded to both the osu! and osu!mania winners.
 
 ## Organisation
 
-The Most Amazing Lan Ever is run by various osu! community members at UCR.
+The Most Amazing LAN Ever is run by various osu! community members at UCR.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -275,7 +275,7 @@ All of the following rules are subject to change at any point during the event.
 
 ### Tournament Rules
 
-1. The Most Amazing Lan Ever is a one-on-one osu! and osu!mania tournament.
+1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
 1. Players must play all of their matches at Highlander Con 2019.
 1. Map scoring is based on **Score V2**.
 1. In osu!standard, seeding will be based on the results of the Group Stage. In osu!mania, seeding will be based on player rank.
