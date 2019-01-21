@@ -48,17 +48,37 @@ The Most Amazing Lan Ever is run by various osu! community members at UCR.
 - [Livestream](https://www.twitch.tv/osuriverside)
 - [osu!riverside Discord server](https://discord.gg/gsD9JUB)
 
-<!--
 ## Participants
 
 ### osu!
 
-- [Player]()
+- ![][flag_US] [andrew22r](/users/7941164)
+- ![][flag_US] [clayton](/users/3666350)
+- ![][flag_US] [death grips](/users/4829231)
+- ![][flag_US] [DetectiveBleh](/users/5159239)
+- ![][flag_US] [GiraffeMidget](/users/2413317)
+- ![][flag_US] [Ikeda Chizuru](/users/9288843)
+- ![][flag_US] [J_8579](/users/5590317)
+- ![][flag_US] [Kenny](/users/1225459)
+- ![][flag_US] [MaidenofAmnesia](/users/11928547)
+- ![][flag_US] [MintyYumi](/users/3600982)
+- ![][flag_US] [OmgCamper](/users/3650319)
+- ![][flag_US] [Riku on osu](/users/3071659)
+- ![][flag_US] [R Y A N](/users/2765201)
+- ![][flag_US] [slushy](/users/3692940)
 
 ### osu!mania
 
-- [Player]()
+- ![][flag_US] [albert1526](/users/11313594)
+- ![][flag_US] [Ecal](/users/8384260)
+- ![][flag_US] [Giraffle](/users/5344769)
+- ![][flag_US] [Kenny](/users/1225459)
+- ![][flag_US] [MintyYumi](/users/3600982)
+- ![][flag_US] [Ouchiee](/users/6310052)
+- ![][flag_US] [Riku on osu](/users/3071659)
+- ![][flag_US] [Zushen](/users/2106316)
 
+<!--
 ## Groups
 
 | Group A | Group B | Group C | Group ... |
