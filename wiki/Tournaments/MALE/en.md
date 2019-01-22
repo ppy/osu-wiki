@@ -105,146 +105,146 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 #### Grand Finals
 
 - NoMod
-  - [Reizouko Pudding ga Nai [Jumpudding!]](/beatmapsets/90068#osu/256027)
-  - [Red Goose [Superable]](/beatmapsets/46239#osu/144029)
-  - [JOMANDA [Extreme]](/beatmapsets/58763#osu/176493)
-  - [Cosy Catastrophe [Collab]](/beatmapsets/829692#osu/1738259)
+  - [bibuko - Reizouko Mitara Pudding ga Nai (val0108) [Jumpudding!]](/beatmapsets/90068#osu/256027)
+  - [Mutsuhiko Izumi - Red Goose (nold_1702) [Superable]](/beatmapsets/46239#osu/144029)
+  - [DJ YOSHITAKA - JOMANDA (CSY the corrupt) [Extreme]](/beatmapsets/58763#osu/176493)
+  - [SYUNN - Cosy Catastrophe (Ritzeh) [Collab]](/beatmapsets/829692#osu/1738259)
 - Hidden
-  - [illumina [radiance]](/beatmapsets/349883#osu/771495)
-  - [PARADISE GHOST [Extra]](/beatmapsets/67133#osu/195305)
-  - [Gyogyotto Ningyo Bakkon Bridal [Another]](/beatmapsets/651723#osu/1382059)
+  - [DJ TOTTO feat. *spiLa* - illumina (handsome) [radiance]](/beatmapsets/349883#osu/771495)
+  - [Ryu* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) [Extra]](/beatmapsets/67133#osu/195305)
+  - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) [Another]](/beatmapsets/651723#osu/1382059)
 - HardRock
-  - [Beautiful Dream [Extra]](/beatmapsets/463361#osu/992171)
-  - [snow prism [Extreme]](/beatmapsets/132389#osu/332962)
-  - [T-T-Techno (feat. Jesskah) [Technonationalism]](/beatmapsets/83560#osu/655794)
+  - [REDALiCE feat. anporin - Beautiful Dream (Dailycare) [Extra]](/beatmapsets/463361#osu/992171)
+  - [Qrispy Joybox - snow prism (ktgster) [Extreme]](/beatmapsets/132389#osu/332962)
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold_1702) [Technonationalism]](/beatmapsets/83560#osu/655794)
 - DoubleTime
-  - [LUNA [Insane]](/beatmapsets/47124#osu/152179)
-  - [Caffeine Fighter [Kilimanjaro]](/beatmapsets/451250#osu/968065)
-  - [Byoumei Koiwazurai [Insane]](/beatmapsets/135358#osu/339184)
+  - [ALiCE'S EMOTiON - LUNA (Frostmourne) [Insane]](/beatmapsets/47124#osu/152179)
+  - [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Doormat) [Kilimanjaro]](/beatmapsets/451250#osu/968065)
+  - [yuikonnu - Byoumei Koiwazurai (litoluna) [Insane]](/beatmapsets/135358#osu/339184)
 - Tiebreaker
-  - **[Fastest Crash [RLC's Paroxysm]](/beatmapsets/331025#osu/733432)**
+  - **[Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](/beatmapsets/331025#osu/733432)**
 
 #### Finals
 
 - NoMod
-  - [YELLOW SPLASH!! [DSE Summertime 2016]](/beatmapsets/366224#osu/803739)
-  - [SOUND OF GIALLARHORN [eXtreme]](/beatmapsets/155457#osu/397503)
-  - [Idola [Final Deus]](/beatmapsets/547821#osu/1160206)
-  - [New Century [690 Style]](/beatmapsets/901609#osu/1882550)
+  - [P*Light - YELLOW SPLASH!! (Chaoslitz) [DSE Summertime 2016]](/beatmapsets/366224#osu/803739)
+  - [L.E.D.-G - SOUND OF GIALLARHORN (Priti) [eXtreme]](/beatmapsets/155457#osu/397503)
+  - [iconoclasm feat.GUMI - Idola (toybot) [Final Deus]](/beatmapsets/547821#osu/1160206)
+  - [Sota Fujimori - New Century (Bluekrait) [690 style]](/beatmapsets/901609#osu/1882550)
 - Hidden
-  - [Curtain Call Memories [Regou's Extra]](/beatmapsets/414940#osu/901219)
-  - [Mei [Another]](/beatmapsets/25605#osu/86757)
-  - [Mother Ship [Extreme]](/beatmapsets/66929#osu/194854)
+  - [DJ TOTTO & Qrispy Joybox - Curtain Call Memories (StarForYou) [Regou's Extra]](/beatmapsets/414940#osu/901219)
+  - [Amuro vs Killer - Mei (yeahyeahyeahhh) [Another]](/beatmapsets/25605#osu/86757)
+  - [Sota Fujimori - Mother Ship (Flower) [EXTREME]](/beatmapsets/66929#osu/194854)
 - HardRock
-  - [Nagisa no Koakuma Lovely~Radio [Extreme]](/beatmapsets/76709#osu/215888)
-  - [Mind Mapping (kors k mix) [EXTRA]](/beatmapsets/47199#osu/146583)
-  - [Altros [milr_'s Extra]](/beatmapsets/658433#osu/1394753)
+  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely~Radio (CSY the corrupt) [Extreme]](/beatmapsets/76709#osu/215888)
+  - [Ryu* - Mind Mapping (kors k mix) (wring) [EXTRA]](/beatmapsets/47199#osu/146583)
+  - [ARForest - Altros (Down) [milr_'s Extra]](/beatmapsets/658433#osu/1394753)
 - DoubleTime
-  - [senya - Kimi to Dareka no Yasashisa ni [Affection]](/beatmapsets/250337#osu/596161)
-  - [Remember History (Short Ver.) [Lunatic]](/beatmapsets/22115#osu/76419)
-  - [Viva Happy [Insane]](/beatmapsets/120002#osu/317917)
+  - [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](/beatmapsets/250337#osu/596161)
+  - [Kraster - Remember History (Short Ver.) (Serval) [Lunatic]](/beatmapsets/22115#osu/76419)
+  - [Mitchie M - Viva Happy (Natsu) [Insane]](/beatmapsets/120002#osu/317917)
 - Tiebreaker
-  - **[NEO GRAVITY (BlackYooh Vs. siromaru Remix) [Event Horizon]](/beatmapsets/557764#osu/1180080)**
+  - **[lapix - NEO GRAVITY (BlackYooh Vs. siromaru Remix) (Cassu2) [Event Horizon]](/beatmapsets/557764#osu/1180080)**
 
 #### Semifinals
 
 - NoMod
-  - [Love is Light blue (Ebon DNB Remix) [Light blue]](/beatmapsets/596988#osu/1262200)
-  - [snow storm -euphoria- [INFINITE]](/beatmapsets/156235#osu/574187)
-  - [Oboro [Blurred]](/beatmapsets/650215#osu/1377917)
-  - [Dopamine [Kotori's Extreme]](/beatmapsets/210316#osu/533622)
+  - [Ebon - Love is Light blue (Ebon DNB Remix) (Meg) [Light blue]](/beatmapsets/596988#osu/1262200)
+  - [Yooh - snow storm -euphoria- (-Chata-) [INFINITE]](/beatmapsets/156235#osu/574187)
+  - [HHHxMMxST - Oboro (Morinaga) [Blurred]](/beatmapsets/650215#osu/1377917)
+  - [U1 overground - Dopamine (fanzhen0019) [Kotori's EXTREME]](/beatmapsets/210316#osu/533622)
 - Hidden
-  - [MAX LOVE [Another]](/beatmapsets/107647#osu/281993)
-  - [TRIGGER*HAPPY [INFINITE]](/beatmapsets/131361#osu/338594)
+  - [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Startrick) [Another]](/beatmapsets/107647#osu/281993)
+  - [P*Light - TRIGGER*HAPPY (Kyubey) [INFINITE]](/beatmapsets/131361#osu/338594)
 - HardRock
-  - [B.B.K.K.B.K.K [Another]](/beatmapsets/153920#osu/378178)
-  - [Rising in the Sun(original mix) [Another]](/beatmapsets/26742#osu/90024)
+  - [nora2r - B.B.K.K.B.K.K (rezoons) [Another]](/beatmapsets/153920#osu/378178)
+  - [kors k feat. Rie - Rising in the Sun(original mix) (soulfear) [Another]](/beatmapsets/26742#osu/90024)
 - DoubleTime
-  - [Bondage Anemonation [Lunatic]](/beatmapsets/122416#osu/323264)
-  - [Streamline Prism [Jumping]](/beatmapsets/28894#osu/96142)
+  - [senya - Bondage Anemonation (Satellite) [Lunatic]](/beatmapsets/122416#osu/323264)
+  - [Kagamine Rin & Len - Streamline Prism (banvi) [Jumping]](/beatmapsets/28894#osu/96142)
 - Tiebreaker
-  - **[True Blue [Halcyon]](/beatmapsets/418922#osu/907479)**
+  - **[dj TAKA - True Blue (Monstrata) [Halcyon]](/beatmapsets/418922#osu/907479)**
 
 #### Quarterfinals
 
 - NoMod
-  - [HIGH SCHOOL LOVE [Another]](/beatmapsets/78211#osu/219307)
-  - [Totsugeki! Glass no Kneesocks Hime! [Bunny Style]](/beatmapsets/54308#osu/167337)
-  - [yellow head joe [Extreme]](/beatmapsets/48572#osu/150143)
+  - [DJ YOSHITAKA feat. DWP - HIGH SCHOOL LOVE (fanzhen0019) [Another]](/beatmapsets/78211#osu/219307)
+  - [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) [Bunny Style]](/beatmapsets/54308#osu/167337)
+  - [S-C-U - yellow head joe (LKs) [Extreme]](/beatmapsets/48572#osu/150143)
 - Hidden
-  - [Artificial Rose [Another]](/beatmapsets/99434#osu/264439)
-  - [Chocolate [Chocolate]](/beatmapsets/52732#osu/161037)
+  - [Mary - Artificial Rose (Urushi38) [Another]](/beatmapsets/99434#osu/264439)
+  - [Megpoid GUMI - Chocolate (Chewin) [Chocolate]](/beatmapsets/52732#osu/161037)
 - HardRock
-  - [We're so Happy [apple's Insane]](/beatmapsets/456072#osu/1087352)
-  - [Eisou Youga ~Meikyou Shisui~ [Satellite's Another]](/beatmapsets/380740#osu/911515)
+  - [Ryu* - We're so Happy (Yauxo) [apple's Insane]](/beatmapsets/456072#osu/1087352)
+  - [Sharlo - Eisou Youga ~Meikyou Shisui~ (Sharlo) [Satellite's Another]](/beatmapsets/380740#osu/911515)
 - DoubleTime
-  - [Tokuiten no Kaibutsuteki Kanjou [ShiraKai's Hard]](/beatmapsets/370545#osu/858200)
-  - [Orange Genome [gudbye]](/beatmapsets/61278#osu/218944)
+  - [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) [ShiraKai's Hard]](/beatmapsets/370545#osu/858200)
+  - [tsunamaru - Orange Genome (goodbye) [gudbye]](/beatmapsets/61278#osu/218944)
 - Tiebreaker
-  - **[7's color umbrella [Megumi Collab]](/beatmapsets/625874#osu/1319316)**
+  - **[Rain - 7's color umbrella (Meg) [Megumi Collab]](/beatmapsets/625874#osu/1319316)**
 
 #### Group Stage
 
 - NoMod
-  - [Cagayake!GIRLS[5nin Ver.] (TV size Ver.) [Yui]](/beatmapsets/666366#osu/1427838)
-  - [Din Don Dan [Din Don Dan]](/beatmapsets/469782#osu/1004556)
+  - [Sakurakou K-ON Bu - Cagayake!GIRLS[5nin Ver.] (TV size Ver.) (Pata-Mon) [Yui]](/beatmapsets/666366#osu/1427838)
+  - [Ryu* feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [Din Don Dan]](/beatmapsets/469782#osu/1004556)
 - Hidden
-  - [Tsuki ni Murakumo Hana ni Kaze (PV ver.) [Setz206's Lunatic]](/beatmapsets/218633#osu/519120)
+  - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (kakifly) [Setz206's Lunatic]](/beatmapsets/218633#osu/519120)
 - HardRock
-  - [I'm so Happy [Collab Insane]](/beatmapsets/768390#osu/1744514)
+  - [Ryu* - I'm so Happy (Yauxo) [Collab Insane]](/beatmapsets/768390#osu/1744514)
 - DoubleTime
-  - [Fading Star [Kenterz's Hyper]](/beatmapsets/183512#osu/441861)
+  - [ginkiha - Fading Star (Mao) [Kenterz's Hyper]](/beatmapsets/183512#osu/441861)
 - Marathon
-  - **[Diamond [Insane]](/beatmapsets/111760#osu/290581)**
+  - **[Toyosaki Aki - Diamond (Fycho) [Insane]](/beatmapsets/111760#osu/290581)**
 
 ### osu!mania
 
 #### Finals
 
 - FreeMod
-  - [Ultra Happy Miracle Bazoooooka!! [Extra]](/beatmapsets/682863#mania/1444022)
-  - [!!Check this out [Jacks rains from above ! (No SV)]](/beatmapsets/498554#mania/1061270)
-  - [Shakunetsu? Candle Master? Tomoshii [Master]](/beatmapsets/374947#mania/821312)
-  - [Mastication Numerique [Mastication]](/beatmapsets/210319#mania/494822)
-  - [Gypsy gets the Tek [wag]](/beatmapsets/463038#mania/991504)
-  - [TRICKL4SH 220 [L4SHirou 220]](/beatmapsets/357535#mania/787198)
-  - [Mazare Party [Hard]](/beatmapsets/531311#mania/1126926)
-  - [Fairytale, [Easy]](/beatmapsets/442251#mania/951108)
-  - [Maniera [ilikexd's EX]](/beatmapsets/230405#mania/535892)
-  - [looming shadow of a tree long gone [extra]](/beatmapsets/360765#mania/792874)
-  - [Full Throttle [Need The Speed]](/beatmapsets/446611#mania/959118)
+  - [Hinoisuka + Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! ([ Vento ]) [Extra]](/beatmapsets/682863#mania/1444022)
+  - [Camellia - !!Check this out (XeoStyle) [Jacks rains from above ! (No SV)]](/beatmapsets/498554#mania/1061270)
+  - [Camellia ft. Nanahira - Shakunetsu? Candle Master? Tomoshii (Hayabusa) [4K Master]](/beatmapsets/374947#mania/821312)
+  - [Igorrr - Mastication Numerique (YunoFanatic) [Mastication]](/beatmapsets/210319#mania/494822)
+  - [Neun_jack - Gypsy gets the Tek (LeiN-) [wag]](/beatmapsets/463038#mania/991504)
+  - [Lite Show Magic - TRICKL4SH 220 (Shirou) [L4SHirou 220]](/beatmapsets/357535#mania/787198)
+  - [Camellia feat. kradness, Nanahira & yukacco - Mazare Party (shuniki) [Hard]](/beatmapsets/531311#mania/1126926)
+  - [cillia - Fairytale, (shuniki) [Easy]](/beatmapsets/442251#mania/951108)
+  - [Musical Masterpiece - MANIERA (Fullerene-) [ilikexd's EX]](/beatmapsets/230405#mania/535892)
+  - [goreshit - looming shadow of a tree long gone (Shoegazer) [extra]](/beatmapsets/360765#mania/792874)
+  - [m1dy - Full Throttle (Valedict) [Need The Speed]](/beatmapsets/446611#mania/959118)
 - Tiebreaker
-  - **[WE LUV LAMA [14]](/beatmapsets/353146#mania/778075)**
+  - **[DJ Sharpnel - WE LUV LAMA (^) [14]](/beatmapsets/353146#mania/778075)**
 
 #### Second Stage
 
 - FreeMod
-  - [Tenkuu no Yoake [CS' Extra]](/beatmapsets/509270#mania/1083920)
-  - [Todestrieb [Another]](/beatmapsets/424754#mania/917452)
-  - [Heaven's fall [Extra]](/beatmapsets/507745#mania/1079905)
-  - [Yolomania Vol. 3A [[Ironsheep] 14]](/beatmapsets/243027#mania/560760)
-  - [Hello World [4K MX]](/beatmapsets/325939#mania/724005)
-  - [Kirakira TIME [Kilie's EXHAUST]](/beatmapsets/483926#mania/1036114)
-  - [Yolomania Selections - Accept Your Fate [[Ironsheep] Accept Your Fate]](/beatmapsets/206800#mania/487486)
-  - [Crow Solace [Extra]](/beatmapsets/354157#mania/1208745)
-  - [karakurenawi [Insane]](/beatmapsets/329497#mania/730528)
+  - [Cuvelia - Tenkuu no Yoake (Ibrahim) [CS' Extra]](/beatmapsets/509270#mania/1083920)
+  - [Rche - Todestrieb (SanadaYukimura) [Another]](/beatmapsets/424754#mania/917452)
+  - [Helblinde - Heaven's Fall (riunosk) [Extra]](/beatmapsets/507745#mania/1079905)
+  - [Various - Yolomania Vol. 3A (Fullerene-) [u's - After School NAVIGATORS [IronSheep] 14]](/beatmapsets/243027#mania/560760)
+  - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) [4K MX]](/beatmapsets/325939#mania/724005)
+  - [Sawawa - Kirakira TIME* (Syadow-) [BASIC]](/beatmapsets/483926#mania/1036114)
+  - [Various - Yolomania Selections (Fullerene-) [Draw the Emotional x Foreground Eclipse - Accept Your Fate Now [IronSheep]]](/beatmapsets/206800#mania/487486)
+  - [m108 - * Crow Solace * (Critical_Star) [4K Extra]](/beatmapsets/354157#mania/1208745)
+  - [UNDEAD CORPORATION - karakurenawi (Tidek) [Insane]](/beatmapsets/329497#mania/730528)
 - Tiebreaker
-  - **[the nature of dying [oblivion]](/beatmapsets/453378#mania/1019378)**
+  - **[goreshit - the nature of dying (Wonki) [oblivion]](/beatmapsets/453378#mania/1019378)**
 
 #### First Stage
 
 - FreeMod
-  - [Bon Appetit S (TV Size) [Sadistic]](/beatmapsets/690240#mania/1460895)
-  - [choux a la creme [ADVANCED]](/beatmapsets/399063#mania/867646)
-  - [Plan 8 [Spy x S.Star's Hyper]](/beatmapsets/172867#mania/457431)
-  - [Solar Storm [Hyper]](/beatmapsets/461946#mania/993456)
-  - [Fiat Lux [ADVANCED]](/beatmapsets/473522#mania/1073754)
-  - [Storm Buster [MEDIUM]](/beatmapsets/506110#mania/1076623)
-  - [Hitorigoto [Manga]](/beatmapsets/602861#mania/1273380)
-  - [Garyou Tensei [4K HD]](/beatmapsets/210610#mania/530543)
-  - [Veritas [Vidi [HD]]](/beatmapsets/803279#mania/1686071)
+  - [Blend A - Bon Appetit S (TV Size) (Amiichii) [Sadistic]](/beatmapsets/690240#mania/1460895)
+  - [kamome sano - choux a la creme (Feerum) [ADVANCED]](/beatmapsets/399063#mania/867646)
+  - [Ryu* - Plan 8 (Spy) [Spy x S.Star's Hyper]](/beatmapsets/172867#mania/457431)
+  - [xi - Solar Storm (Rizqy) [Hyper]](/beatmapsets/461946#mania/993456)
+  - [xi - Fiat Lux (Rido) [BASIC]](/beatmapsets/473522#mania/1073754)
+  - [P*Light - Storm Buster (Spy) [MEDIUM]](/beatmapsets/506110#mania/1076623)
+  - [ClariS - Hitorigoto -TV MIX- (Tofu1222) [Manga]](/beatmapsets/602861#mania/1273380)
+  - [xi - Garyou Tensei (LNP-) [4K HD]](/beatmapsets/210610#mania/530543)
+  - [Presti - Veritas (DarckoSeth) [Vidi [HD]]](/beatmapsets/803279#mania/1686071)
 - Tiebreaker
-  - **[Aventyr [Hard]](/beatmapsets/131691#mania/331525)**
+  - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](/beatmapsets/131691#mania/331525)**
 
 <!--
 ---
