@@ -101,20 +101,20 @@ The osu! Technical Championship #3 is run by various osu! community members.
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Crystal | ![][flag_CN] | ![][flag_MN] | seegii | **10:00** |
 | #2 | Aden | ![][flag_RU] | ![][flag_KR] | ftg | **11:00** |
+| #5 | Bubbleman | ![][flag_GB] | ![][flag_AU] | Takagaki | **12:00** |
+| #14 | Xilver15 | ![][flag_IL] | ![][flag_DE] | Megure | **13:00** |
+| #13 | Okinotori | ![][flag_RU] | ![][flag_PL] | MrBooM | **14:00** |
+| #8 | Riven | ![][flag_GR] | ![][flag_RU] | neko ds | **15:00** |
+| #10 | Ayla | ![][flag_UA] | ![][flag_BR] | My Angelsim | **16:00** |
 | #3 | Musty | ![][flag_FR] | ![][flag_AT] | Teppi | **17:00** |
 | #4 | badeu | ![][flag_RO] | ![][flag_AR] | -Urushihara- | **18:00** |
-| #5 | Bubbleman | ![][flag_GB] | ![][flag_AU] | Takagaki | **12:00** |
-| #6 | Tekkito | ![][flag_US] | ![][flag_US] | Jace | **22:00** |
 | #7 | Knalli | ![][flag_DE] | ![][flag_PL] | Marek Marucha | **18:00** |
-| #8 | Riven | ![][flag_GR] | ![][flag_RU] | neko ds | **15:00** |
-| #9 | Junjou | ![][flag_US] | ![][flag_US] | Apraxia | **23:00** |
-| #10 | Ayla | ![][flag_UA] | ![][flag_BR] | My Angelsim | **16:00** |
-| #11 | Woey | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
-| #12 | Hanori | ![][flag_BE] | ![][flag_US] | Cappy | **19:00** |
-| #13 | Okinotori | ![][flag_RU] | ![][flag_PL] | MrBooM | **14:00** |
-| #14 | Xilver15 | ![][flag_IL] | ![][flag_DE] | Megure | **13:00** |
 | #15 | \_demo | ![][flag_PL] | ![][flag_US] | WillCookie | **19:00** |
+| #12 | Hanori | ![][flag_BE] | ![][flag_US] | Cappy | **19:00** |
 | #16 | Gifted | ![][flag_US] | ![][flag_DE] | Dustice | **20:00** |
+| #11 | Woey | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
+| #6 | Tekkito | ![][flag_US] | ![][flag_US] | Jace | **22:00** |
+| #9 | Junjou | ![][flag_US] | ![][flag_US] | Apraxia | **23:00** |
 
 -----------------------
 
