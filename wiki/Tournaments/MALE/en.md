@@ -110,8 +110,8 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
   - [DJ YOSHITAKA - JOMANDA (CSY the corrupt) [Extreme]](/beatmapsets/58763#osu/176493)
   - [SYUNN - Cosy Catastrophe (Ritzeh) [Collab]](/beatmapsets/829692#osu/1738259)
 - Hidden
-  - [DJ TOTTO feat. *spiLa* - illumina (handsome) [radiance]](/beatmapsets/349883#osu/771495)
-  - [Ryu* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) [Extra]](/beatmapsets/67133#osu/195305)
+  - [DJ TOTTO feat. \*spiLa\* - illumina (handsome) [radiance]](/beatmapsets/349883#osu/771495)
+  - [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) [Extra]](/beatmapsets/67133#osu/195305)
   - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) [Another]](/beatmapsets/651723#osu/1382059)
 - HardRock
   - [REDALiCE feat. anporin - Beautiful Dream (Dailycare) [Extra]](/beatmapsets/463361#osu/992171)
@@ -127,7 +127,7 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 #### Finals
 
 - NoMod
-  - [P*Light - YELLOW SPLASH!! (Chaoslitz) [DSE Summertime 2016]](/beatmapsets/366224#osu/803739)
+  - [P\*Light - YELLOW SPLASH!! (Chaoslitz) [DSE Summertime 2016]](/beatmapsets/366224#osu/803739)
   - [L.E.D.-G - SOUND OF GIALLARHORN (Priti) [eXtreme]](/beatmapsets/155457#osu/397503)
   - [iconoclasm feat.GUMI - Idola (toybot) [Final Deus]](/beatmapsets/547821#osu/1160206)
   - [Sota Fujimori - New Century (Bluekrait) [690 style]](/beatmapsets/901609#osu/1882550)
@@ -136,8 +136,8 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
   - [Amuro vs Killer - Mei (yeahyeahyeahhh) [Another]](/beatmapsets/25605#osu/86757)
   - [Sota Fujimori - Mother Ship (Flower) [EXTREME]](/beatmapsets/66929#osu/194854)
 - HardRock
-  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely~Radio (CSY the corrupt) [Extreme]](/beatmapsets/76709#osu/215888)
-  - [Ryu* - Mind Mapping (kors k mix) (wring) [EXTRA]](/beatmapsets/47199#osu/146583)
+  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](/beatmapsets/76709#osu/215888)
+  - [Ryu\* - Mind Mapping (kors k mix) (wring) [EXTRA]](/beatmapsets/47199#osu/146583)
   - [ARForest - Altros (Down) [milr_'s Extra]](/beatmapsets/658433#osu/1394753)
 - DoubleTime
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](/beatmapsets/250337#osu/596161)
@@ -155,7 +155,7 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
   - [U1 overground - Dopamine (fanzhen0019) [Kotori's EXTREME]](/beatmapsets/210316#osu/533622)
 - Hidden
   - [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Startrick) [Another]](/beatmapsets/107647#osu/281993)
-  - [P*Light - TRIGGER*HAPPY (Kyubey) [INFINITE]](/beatmapsets/131361#osu/338594)
+  - [P\*Light - TRIGGER\*HAPPY (Kyubey) [INFINITE]](/beatmapsets/131361#osu/338594)
 - HardRock
   - [nora2r - B.B.K.K.B.K.K (rezoons) [Another]](/beatmapsets/153920#osu/378178)
   - [kors k feat. Rie - Rising in the Sun(original mix) (soulfear) [Another]](/beatmapsets/26742#osu/90024)
@@ -175,8 +175,8 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
   - [Mary - Artificial Rose (Urushi38) [Another]](/beatmapsets/99434#osu/264439)
   - [Megpoid GUMI - Chocolate (Chewin) [Chocolate]](/beatmapsets/52732#osu/161037)
 - HardRock
-  - [Ryu* - We're so Happy (Yauxo) [apple's Insane]](/beatmapsets/456072#osu/1087352)
-  - [Sharlo - Eisou Youga ~Meikyou Shisui~ (Sharlo) [Satellite's Another]](/beatmapsets/380740#osu/911515)
+  - [Ryu\* - We're so Happy (Yauxo) [apple's Insane]](/beatmapsets/456072#osu/1087352)
+  - [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) [Satellite's Another]](/beatmapsets/380740#osu/911515)
 - DoubleTime
   - [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) [ShiraKai's Hard]](/beatmapsets/370545#osu/858200)
   - [tsunamaru - Orange Genome (goodbye) [gudbye]](/beatmapsets/61278#osu/218944)
@@ -187,11 +187,11 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 
 - NoMod
   - [Sakurakou K-ON Bu - Cagayake!GIRLS[5nin Ver.] (TV size Ver.) (Pata-Mon) [Yui]](/beatmapsets/666366#osu/1427838)
-  - [Ryu* feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [Din Don Dan]](/beatmapsets/469782#osu/1004556)
+  - [Ryu\* feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [Din Don Dan]](/beatmapsets/469782#osu/1004556)
 - Hidden
   - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (kakifly) [Setz206's Lunatic]](/beatmapsets/218633#osu/519120)
 - HardRock
-  - [Ryu* - I'm so Happy (Yauxo) [Collab Insane]](/beatmapsets/768390#osu/1744514)
+  - [Ryu\* - I'm so Happy (Yauxo) [Collab Insane]](/beatmapsets/768390#osu/1744514)
 - DoubleTime
   - [ginkiha - Fading Star (Mao) [Kenterz's Hyper]](/beatmapsets/183512#osu/441861)
 - Marathon
@@ -224,9 +224,9 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
   - [Helblinde - Heaven's Fall (riunosk) [Extra]](/beatmapsets/507745#mania/1079905)
   - [Various - Yolomania Vol. 3A (Fullerene-) [u's - After School NAVIGATORS [IronSheep] 14]](/beatmapsets/243027#mania/560760)
   - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) [4K MX]](/beatmapsets/325939#mania/724005)
-  - [Sawawa - Kirakira TIME* (Syadow-) [BASIC]](/beatmapsets/483926#mania/1036114)
+  - [Sawawa - Kirakira TIME\* (Syadow-) [BASIC]](/beatmapsets/483926#mania/1036114)
   - [Various - Yolomania Selections (Fullerene-) [Draw the Emotional x Foreground Eclipse - Accept Your Fate Now [IronSheep]]](/beatmapsets/206800#mania/487486)
-  - [m108 - * Crow Solace * (Critical_Star) [4K Extra]](/beatmapsets/354157#mania/1208745)
+  - [m108 - \* Crow Solace \* (Critical_Star) [4K Extra]](/beatmapsets/354157#mania/1208745)
   - [UNDEAD CORPORATION - karakurenawi (Tidek) [Insane]](/beatmapsets/329497#mania/730528)
 - Tiebreaker
   - **[goreshit - the nature of dying (Wonki) [oblivion]](/beatmapsets/453378#mania/1019378)**
@@ -236,10 +236,10 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 - FreeMod
   - [Blend A - Bon Appetit S (TV Size) (Amiichii) [Sadistic]](/beatmapsets/690240#mania/1460895)
   - [kamome sano - choux a la creme (Feerum) [ADVANCED]](/beatmapsets/399063#mania/867646)
-  - [Ryu* - Plan 8 (Spy) [Spy x S.Star's Hyper]](/beatmapsets/172867#mania/457431)
+  - [Ryu\* - Plan 8 (Spy) [Spy x S.Star's Hyper]](/beatmapsets/172867#mania/457431)
   - [xi - Solar Storm (Rizqy) [Hyper]](/beatmapsets/461946#mania/993456)
   - [xi - Fiat Lux (Rido) [BASIC]](/beatmapsets/473522#mania/1073754)
-  - [P*Light - Storm Buster (Spy) [MEDIUM]](/beatmapsets/506110#mania/1076623)
+  - [P\*Light - Storm Buster (Spy) [MEDIUM]](/beatmapsets/506110#mania/1076623)
   - [ClariS - Hitorigoto -TV MIX- (Tofu1222) [Manga]](/beatmapsets/602861#mania/1273380)
   - [xi - Garyou Tensei (LNP-) [4K HD]](/beatmapsets/210610#mania/530543)
   - [Presti - Veritas (DarckoSeth) [Vidi [HD]]](/beatmapsets/803279#mania/1686071)
