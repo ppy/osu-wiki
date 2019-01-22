@@ -60,7 +60,7 @@ Here's a few things you can do to help:
 
 ## Contribute to the future of osu!
 
-Started last 2017, the Lazer project is the currentl focus of the osu! team, along with the new website, which you see today.
+Started last 2017, the Lazer project is the current focus of the osu! team, along with the new website, which you see today.
 
 You can help making them even more better, and make us closer to the future of osu! by helping on these areas:
 
