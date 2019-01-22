@@ -1,80 +1,78 @@
 # How you can help!
 
-_This is a post that [peppy](/users/2 "peppy") made some time ago and requested to make it an article here. [You can see the original post here](/community/forums/topics/83155)._
+osu! itself has a large, and diverse community from all walks of life, and anyone can help make osu! more awesome for you, and for everyone.
 
-I've been wanting to make a post about this for a while, but have been holding off while I get things in place on the site and in my head. As you are probably aware, the osu! community and ecosystem is growing at a constant rate, but the team hasn't grown in size at all. I'm sure with a community this big, we have a lot of hidden talent out there, so the idea of this post is to reach out and tell you all that we are always looking for help and input, as well as outlining the current areas where you can immediately jump in and help out!
+## Help out with [the wiki](https://github.com/ppy/osu-wiki)
 
-Firstly, from a personal perspective I am already completely saturated. I spend all my free time on osu! (or osu!stream) and do not have any more resources I can throw at it. This means that most of the stuff that gets done on osu! is based on my personal priorities. This doesn't mean that it has to be a limiting factor — there are so many opportunities to make osu! more awesome without needing the access or abilities of a developer.
+The wiki is our official knowledge base about anything and everything about osu! The wiki is looking for more contributors to make the site up to date with fresh new knowledge, and to reach a wider audience via translations.
 
-Here is a current list of areas I can think of where anyone can help out, ordered by the most important in my eyes. I'll try and keep this updated as I see things come up, but don't hesitate to make suggestions (preferably in this thread) if you have any.
+Read more about how you can get started contributing to the wiki [here!](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide)
 
-## Help out with [the wiki](https://github.com/ppy/osu-wiki "osu-wiki in GitHub")!
+## Help keep osu! friendly and safe
 
-In order to keep the content on the website as fresh as possible, I'd like to move all sections containing text to the wiki. This includes FAQ, ranking guidelines, all our forum-based guides, the history/information sections. While we have made huge progress already (thanks to a few very dedicated users), keeping a wiki up-to-date is an ongoing process which basically anyone can help with. There is also a lot of translation opportunities remaining to make the content accessible in every language known to mankind!
+It's not always sunshine in the osu! community, so we have a dedicated team of moderators to keep the place comfy and safe. However, the moderation team keeps track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
 
-### Where to start:
+Fortunately, it's still easy for you to help out with the community, here's some things you can do to help:
 
--   Go through all the FAQ and other information sections on the osu! site, and make sure the info is easily accessible (and complete) on the wiki. If it isn't, add it in (you can begin by just copying, pasting and reformatting). Make an Issue to discuss any changes if you are not confident about it, or go straight ahead to do a Pull Request and update old information you come across.
--   Watch the [Pull Requests](https://github.com/ppy/osu-wiki/pulls "Pull Requests") as often as you can (bookmark it :p), and make sure people aren't adding useless or incorrect information by reviewing. Keep a tab on what is being worked on and chip in if you can!
--   Make sure the information on the wiki is as concise, clear and beautiful as possible. Tidy up any formatting issues you find, and push people in the right direction where required.
--   Make this post into a wiki page :D! Translate it to more languages — we need help from more than just English writers (fact: over 75% of the osu! community doesn't speak English and/or understand English fully).
+- Follow your favorite channels at the osu! in-game chat, or at the forums in the web.
+- If you see something happening which you think feels inappropriate or disturbs you in any way, use the `!report` command at the in-game chat to notify moderators of what's happening.
+    - Don't worry about not having your report not being read, the moderators will always read your reports.
 
-## Help keep osu! friendly and safe!
+## Help answer technical, beatmap, and gameplay support
 
-We have moderators doing their best to keep chat under control, but there are 25 channels (and counting) and even more forums, making it hard for us to cover all activity every minute of the day. Fortunately, you can help us very easily!
+Lend someone a help when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
 
-### Where to start:
+It doesn't matter if you don't know well enough to the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
 
--   Follow your favourite channels on in-game chat, and forums on the web.
--   If you see something happening which disturbs you (or would generally be found inappropriate), use the `!report` command to notify moderators.
--   You can use the `!report` command for anything that happens anywhere in osu!. Your reports will always be read.
+You can begin with lending people a hand on these following mediums:
 
-## Help answer technical, beatmap and gameplay support questions!
+- Choose a forum that sparks your interest:
+   - [Technical Support](/community/forums/5)
+   - [Beatmapping Support](/community/forums/56)
+   - [Storyboarding](/community/forums/20)
+   - [Gamplay and Rankings](/community/forums/13)
 
-Every day I try to take care of any outstanding tech support questions, but a lot of these can be answered by anyone who has spend time around here and knows how things generally work. Even if you don't think you know stuff well enough, you can follow along, read and learn, then start helping at a later point!
-
-### Where to start:
-
--   Choose a forum: [Technical Support](/community/forums/5), [Beatmapping Help](/community/forums/56), [Storyboarding](/community/forums/20) or [Gameplay and Rankings](/community/forums/13) based on what you find most interesting.
--   Mark the forum as read using the link at the top-right.
--   Follow any new threads, reading each one and helping out where you can. You can use the unread icons to make sure you keep up!
--   Read the [available guides](/wiki/List_of_Guides "List of Guides") and polish up on your osu! knowledge. Hell, contribute to the guides if you can!
+- Mark the forum as read using the link at the top right.
+- Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
+- Read the [available guides](/wiki/List_of_Guides "List of Guides") to polish up your osu! knowledge. If the guides in there doesn't satisfy you, you can contribute to them!
 
 ## Help check/mod beatmaps!
 
-While we have set teams that handle the approval process, there's nothing stopping anyone from helping out. It starts as easy as posting in pending beatmap threads leaving your positive feedback or constructive criticism. When you get good, there's no reason you can't join up on one of the approval teams :).
+osu! has a dedicated team of reviewers called "modders" to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't stop you from contributing in this sector, so here's a few things you can do to help:
 
-### Where to start:
+- Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?m=-1&s=4) listing for any artists or songs you like (or just choose at random).
+- Play the beatmaps and leave feedback in threads.
+- Read the [Modding Guide](/wiki/Modding "Modding") and the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") to know the basics of technical modding and what makes a beatmap rankable.
+- Join the `#modhelp` and `#modreqs` on in-game chat and join in the conversation (or just follow along).
+- If you have the time and dedication, make a [Modding Queue](/community/forums/60) and have people start coming to you with requests.
 
--   Look through (or search) the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?m=-1&s=4) listing for artists/songs you like (or just choose ones at random).
--   Play the beatmaps and leave feedback in threads.
--   Read the [Modding Guide](/wiki/Modding "Modding") and learn the basics of more technical modding.
--   Read the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") and become familiar with what makes a map rankable.
--   Join `#modhelp` and `#modreqs` on in-game chat and join in the conversation (or just follow along).
--   If you have the time and dedication, making a [Modding Queue](/community/forums/60) thread and have people start coming to you with requests.
+## Join some user-run projects and contribute to making them happen (or try to make them better if they're active)
 
-## Join some user-run projects and contribute to making them happen (or making them better if they are already actively running)!
+osu! has a thriving community of technical and competitive people. They range from tinkerers, to seasoned rhythm game veterans. There's a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own creation!
 
-There are quite a few proposals or projects in action, including tournaments, larger beatmapping projects, third-party application development projects and other unique ideas. Go contact the people involved and show that you are interested, and offer your help if you have skills that could be used.
+Here's a few things you can do to help:
 
-### Where to start:
+- Browse the [torunaments](/community/forums/55) forum. Tournaments takes time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge.
+- Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the [most](/community/forums/topics/58855) [serious](/community/forums/topics/58855) [projects](/community/forums/topics/80027) [projects](/community/forums/topics/79354) happen.
+- Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
+- Start your own project! Whether its just bringing back dancing pippi, or just making a cool thing for osu!, anything is accepted.
+- Bring [osu!monthly](/community/forums/topics/75017) to life.
 
--   Browse the [tournaments](/community/forums/55) forum. Tournaments take a lot of man-power to organise and to make happen without hitches, and you can help out by just sitting in as a spectator judge for matches in some cases.
--   Check what's going on in [General Development](/community/forums/2). This is a low activity forum where more [serious](/community/forums/topics/58855) [projects](/community/forums/topics/80027) [happen](/community/forums/topics/79354).
--   Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
--   Start your own project! If you have a cool idea, then give it a shot. If you need some kind of input from me, don't hesitate to ask (though I prefer helping when I don't need to dedicate too much time).
--   Bring the [osu!monthly](/community/forums/topics/75017) back to life, I miss it :(.
+## Contribute to the future of osu!
 
-and last, but most definitely not least:
+Started last 2017, the Lazer project is the currentl focus of the osu! team, along with the new website, which you see today.
+
+You can help making them even more better, and make us closer to the future of osu! by helping on these areas:
+
+- Helping with the [Lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make them happen!
+- Make the [new website](https://github.com/ppy/osu-web) even better.
 
 ## Avoid being negative! Make people happy!
 
-Every day I see negativity on osu!. People complaining about each other, people complaining about cheaters or "rank farmers". People seeing change and whining about it. While I think we do better than a lot of other online communities out there — that drop to levels of throwing insults at each other all day long (hi YouTube!) — there is still room for improvement.
+There's a old saying that you should become part of the solution, not the problem. You can help on osu! by making the community a brighter place. People complain, but there are many ways you can help ligthen up the mood in the community:
 
-### Where to start:
+- Be friendly to each other. Life is too short to argue.
+- Stop complaining about cheaters. [Report them instead of complaining about it](/wiki/Reporting_Bad_Behavior/Handing_Cheating "Handling Cheating"). A simple `!report <username> seems to be cheating` can fix your problems within minutes or hours.
+- Go out of your way to mediate negative situations and turn them into positive outcomes.
 
--   Be friendly to each other. Life is too short to argue.
--   Don't complain about cheaters. Just [report them and get on with your day](/wiki/Reporting_Bad_Behaviour/Handling_Cheating "Handling Cheating/Foul Behaviour"). They may have taken your top rank, but a simple "!report <username> seems to be cheating" can fix this in minutes to hours.
--   Go out of your way to mediate negative situations and turn them into more positive outcomes.
-
-By no means a completely comprehensive post, but I hope I have shared some insight as to what can be done to make osu! more awesome than it already is :).
+While this article cannot cover how much more you can help to osu!, but simply playing the game as well makes osu! even more awesome!
