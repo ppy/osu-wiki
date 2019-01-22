@@ -247,7 +247,7 @@ The osu! Technical Championship #3 is run by various osu! community members.
 | K1 | **Xilver15** ![][flag_IL] | **4** | 0 | ![][flag_US] Aeril | [#1](/community/matches/48979745) |
 | O4 | **Riven** ![][flag_GR] | **4** | 3 | ![][flag_US] Gifted | [#1](/community/matches/48981992) |
 | K4 | **Tekkito** ![][flag_US] | **4** | 1 | ![][flag_IL] Xilver15 | [#1](/community/matches/48983646) |
-| I3 | MyAngelMiku ![][flag_BR] | 1 | **4** | ![][flag_RU] **Okinotori** | [#1](/community/matches/48987257) |
+| I3 | MyAngelMiku ![][flag_CN] | 1 | **4** | ![][flag_RU] **Okinotori** | [#1](/community/matches/48987257) |
 | K6 | Aeril ![][flag_US] | 1 | **4** | ![][flag_US] **Tekkito** | [#1](/community/matches/48986995) |
 
 | Match ID | Sunday, 2019-01-20 |  |  |  |  |
