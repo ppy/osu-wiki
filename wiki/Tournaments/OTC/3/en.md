@@ -9,7 +9,7 @@ tags:
 
 ![OTC #3 Logo](img/logo.png)
 
-The **osu! Technical Championship #3** (***OTC #3***) is a double elimination one-on-one osu! tournament hosted by ![][flag_US] [IsoSubjectPi](/users/3989669). osu! Technical Championship features complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It is the 3rd installment of the osu! Technical Championship.
+The **osu! Technical Championship #3** (***OTC #3***) is a double-elimination one-on-one osu! tournament hosted by ![][flag_US] [IsoSubjectPi](/users/3989669). osu! Technical Championship features complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It is the third installment of the osu! Technical Championship.
 
 ## Tournament Schedule
 
@@ -48,7 +48,7 @@ The osu! Technical Championship #3 is run by various osu! community members.
 | Designers | ![][flag_DE] [Diffractive](/users/7601761), ![][flag_US] [DigitalHypno](/users/4384207) |
 | Streamers | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_US] [dblade](/users/4272841), ![][flag_DE] [Diffractive](/users/7601761), ![][flag_DE] [Ami](/users/2114779) |
 | Commentators | ![][flag_DE] [Diffractive](/users/7601761), ![][flag_SG] [woahsia](/users/195946), ![][flag_NL] [Blue-Orb](/users/6612210), ![][flag_US] [Woey](/users/3792472), ![][flag_DE] [Ami](/users/2114779), ![][flag_US] [itzpigeon](/users/9828300) |
-| Referees | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_DE] [Diffractive](/users/7601761), ![][flag_TR] [112servis](/users/3953470), , ![][flag_TW] [EthanTC](/users/9539163), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_GB] [Nega](/users/3181083), ![][flag_DK] [Pennek](/users/3723742), ![][flag_DE] [Rymus](/users/6449966), ![][flag_US] [tigereyes144](/users/6499811), ![][flag_CN] [VRainbow](/users/3635214), ![][flag_BE] [DraQeu](/users/4425520), ![][flag_US] [Hot Cocoa](/users/4986705) |
+| Referees | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_DE] [Diffractive](/users/7601761), ![][flag_TR] [112servis](/users/3953470), ![][flag_TW] [EthanTC](/users/9539163), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_GB] [Nega](/users/3181083), ![][flag_DK] [Pennek](/users/3723742), ![][flag_DE] [Rymus](/users/6449966), ![][flag_US] [tigereyes144](/users/6499811), ![][flag_CN] [VRainbow](/users/3635214), ![][flag_BE] [DraQeu](/users/4425520), ![][flag_US] [Hot Cocoa](/users/4986705) |
 | Wiki | ![][flag_ID] [Naruk](/users/7100002) |
 
 ## Links
@@ -95,7 +95,30 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 ## Mappools
 
-### Round of 32
+### Round of 32 / Round of 16
+
+**[Download the mappack here! (118 MB)](http://www.mediafire.com/file/p55yudv91xozlxs/OTC+%233+Ro3216+Mappool.zip)**
+
+- NoMod
+  - [P\*Light - 2 MINUTES FIGHTERS (F D Flourite) \[Flourite's INFINITE\]](/beatmapsets/542163#osu/1150555)
+  - [Nekomata Master - Nekozamurai no Gyakushu (kwk) \[kwk's Extra\]](/beatmapsets/518743#osu/1434351)
+  - [Aiobahn - Towa No Utage (w/ YUC'e) \[TANUKI Remix\] (Sing) \[Master\]](/beatmapsets/630247#osu/1330531)
+  - [Warak - Cosmic Invaders (Starfy) \[Extraterrestrial\]](/beatmapsets/558875#osu/1182106)
+  - [forestpireo - Kanojo Ga Ichiban Shoujo Nanoka? (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/11773#osu/50845)
+- Hidden
+  - [Camellia - Chirality (yf\_bmp) \[yf's Another\]](/beatmapsets/692068#osu/1498891)
+  - [kurokumo x konoco - Ifuudoudou (Linada) \[Linada's Indecency\]](/beatmapsets/656179#osu/1390352)
+  - [mafumafu - \[Nexus\] (William K) \[Extra: Sliders\]](/beatmapsets/707703#osu/1633968)
+- HardRock
+  - [Function Phantom - Euclid (Tehron) \[Tehron's Extra\]](/beatmapsets/427750#osu/980736)
+  - [Culprate - Diablo (VIP) (Yoges) \[Expert\]](/beatmapsets/553119#osu/1280280)
+  - [Sound Souler - Paradise (Mir) \[Mir's Insane\]](/beatmapsets/686777#osu/1519885)
+- DoubleTime
+  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Hard\]](/beatmapsets/122342#osu/322013)
+  - [PinocchioP - Kusaregedou to Chocolate (Kenterz9, sumaru100) \[Hard Chocollab\]](/beatmapsets/79454#osu/293536)
+  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (lewski) \[lewdski's Hyper\]](/beatmapsets/853867#osu/1784486)
+- Tiebreaker
+  - **[PSYQUI - Hype feat. Such (NeilPerry) \[Phosphene\]](/beatmapsets/792606#osu/1662480)**
 
 ### Group Stage
 
