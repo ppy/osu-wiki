@@ -22,7 +22,7 @@ Fortunately, it's still easy for you to help out with the community, here's some
 
 Lend someone a help when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
 
-It doesn't matter if you don't know well enough to the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
+It doesn't matter if you don't know well enough of the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
 
 You can begin with lending people a hand on these following mediums:
 
