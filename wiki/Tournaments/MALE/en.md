@@ -1,0 +1,302 @@
+---
+tags:
+- Highlander Con
+- LAN
+- MALE
+- Riverside
+- UCR
+---
+
+# Most Amazing LAN Ever
+
+<!-- ![MALE Logo](img/logo.png) -->
+
+The **Most Amazing LAN Ever** (***MALE***) is an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](/users/5566923) and ![][flag_US] [Chest Flattener](/users/4292614). It will take place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
+
+## Event Details
+
+The Most Amazing LAN Ever will be run over the duration of Highlander Con, from roughly 9:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. osu! and osu!mania tournaments will start around 3:00 p.m. and 11:00 a.m., respectively. The schedule of matches will be determined as the event goes on.
+
+Near the center of the UCR campus, the Highlander Union Building is where most of the events for Highlander Con will be taking place. The Most Amazing LAN Ever will be in HUB 269, on the second floor. To be allowed in, you must [register for Highlander Con 2019](https://www.eventbrite.com/e/highlander-con-2019-tickets-54040467493) and have your ticket ready to scan on entry.
+
+If you will be driving yourself to the event, it's recommended that you park at Lot 1 because the school will allow all-day free parking there.
+
+## Prizes
+
+All prizes will be awarded to both the osu! and osu!mania winners.
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, Aorus K7 keyboard |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Aorus M3 mouse |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | AMP500 mousepad |
+
+![](img/badge-osu.png) ![](img/badge-mania.png)
+
+## Organisation
+
+The Most Amazing LAN Ever is run by various osu! community members at UCR.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Hosts | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614) |
+| Commentators | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614) |
+| Map Selectors | ![][flag_US] [ForceJansen](/users/5566923), ![][flag_US] [Chest Flattener](/users/4292614), ![][flag_US] [Harrharrqi](/users/2744592), ![][flag_SG] [Sheenoboo](/users/5704437) |
+
+## Links
+
+- [Discussion thread](/community/forums/topics/843645)
+- [Livestream](https://www.twitch.tv/osuriverside)
+- [osu!riverside Discord server](https://discord.gg/gsD9JUB)
+
+## Participants
+
+### osu!
+
+- ![][flag_US] [andrew22r](/users/7941164)
+- ![][flag_US] [clayton](/users/3666350)
+- ![][flag_US] [death grips](/users/4829231)
+- ![][flag_US] [DetectiveBleh](/users/5159239)
+- ![][flag_US] [GiraffeMidget](/users/2413317)
+- ![][flag_US] [Ikeda Chizuru](/users/9288843)
+- ![][flag_US] [J_8579](/users/5590317)
+- ![][flag_US] [Kenny](/users/1225459)
+- ![][flag_US] [MaidenofAmnesia](/users/11928547)
+- ![][flag_US] [MintyYumi](/users/3600982)
+- ![][flag_US] [OmgCamper](/users/3650319)
+- ![][flag_US] [Riku on osu](/users/3071659)
+- ![][flag_US] [R Y A N](/users/2765201)
+- ![][flag_US] [slushy](/users/3692940)
+
+### osu!mania
+
+- ![][flag_US] [albert1526](/users/11313594)
+- ![][flag_US] [Ecal](/users/8384260)
+- ![][flag_US] [Giraffle](/users/5344769)
+- ![][flag_US] [Kenny](/users/1225459)
+- ![][flag_US] [MintyYumi](/users/3600982)
+- ![][flag_US] [Ouchiee](/users/6310052)
+- ![][flag_US] [Riku on osu](/users/3071659)
+- ![][flag_US] [Zushen](/users/2106316)
+
+<!--
+## Groups
+
+| Group A | Group B | Group C | Group ... |
+| :-- | :-- | :-- | :-- |
+| Country1 | Example | Example | Example |
+| Country2 | Example | Example | Example |
+| Country3 | Example | Example | Example |
+| Country4 | Example | Example | Example |
+
+---
+
+![MALE Podium](img/podium.png)
+
+![MALE Bracket](img/bracket.png)
+-->
+
+---
+
+## Mappools
+
+### osu!
+
+**[Download the mappack here! (276 MB)](https://drive.google.com/file/d/15o1v7cJgdQld6-IkePqntxk5qFo8hXNx/view)**
+
+#### Grand Finals
+
+- NoMod
+  - [bibuko - Reizouko Mitara Pudding ga Nai (val0108) [Jumpudding!]](/beatmapsets/90068#osu/256027)
+  - [Mutsuhiko Izumi - Red Goose (nold_1702) [Superable]](/beatmapsets/46239#osu/144029)
+  - [DJ YOSHITAKA - JOMANDA (CSY the corrupt) [Extreme]](/beatmapsets/58763#osu/176493)
+  - [SYUNN - Cosy Catastrophe (Ritzeh) [Collab]](/beatmapsets/829692#osu/1738259)
+- Hidden
+  - [DJ TOTTO feat. \*spiLa\* - illumina (handsome) [radiance]](/beatmapsets/349883#osu/771495)
+  - [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) [Extra]](/beatmapsets/67133#osu/195305)
+  - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) [Another]](/beatmapsets/651723#osu/1382059)
+- HardRock
+  - [REDALiCE feat. anporin - Beautiful Dream (Dailycare) [Extra]](/beatmapsets/463361#osu/992171)
+  - [Qrispy Joybox - snow prism (ktgster) [Extreme]](/beatmapsets/132389#osu/332962)
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold_1702) [Technonationalism]](/beatmapsets/83560#osu/655794)
+- DoubleTime
+  - [ALiCE'S EMOTiON - LUNA (Frostmourne) [Insane]](/beatmapsets/47124#osu/152179)
+  - [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Doormat) [Kilimanjaro]](/beatmapsets/451250#osu/968065)
+  - [yuikonnu - Byoumei Koiwazurai (litoluna) [Insane]](/beatmapsets/135358#osu/339184)
+- Tiebreaker
+  - **[Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](/beatmapsets/331025#osu/733432)**
+
+#### Finals
+
+- NoMod
+  - [P\*Light - YELLOW SPLASH!! (Chaoslitz) [DSE Summertime 2016]](/beatmapsets/366224#osu/803739)
+  - [L.E.D.-G - SOUND OF GIALLARHORN (Priti) [eXtreme]](/beatmapsets/155457#osu/397503)
+  - [iconoclasm feat.GUMI - Idola (toybot) [Final Deus]](/beatmapsets/547821#osu/1160206)
+  - [Sota Fujimori - New Century (Bluekrait) [690 style]](/beatmapsets/901609#osu/1882550)
+- Hidden
+  - [DJ TOTTO & Qrispy Joybox - Curtain Call Memories (StarForYou) [Regou's Extra]](/beatmapsets/414940#osu/901219)
+  - [Amuro vs Killer - Mei (yeahyeahyeahhh) [Another]](/beatmapsets/25605#osu/86757)
+  - [Sota Fujimori - Mother Ship (Flower) [EXTREME]](/beatmapsets/66929#osu/194854)
+- HardRock
+  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](/beatmapsets/76709#osu/215888)
+  - [Ryu\* - Mind Mapping (kors k mix) (wring) [EXTRA]](/beatmapsets/47199#osu/146583)
+  - [ARForest - Altros (Down) [milr_'s Extra]](/beatmapsets/658433#osu/1394753)
+- DoubleTime
+  - [senya - Kimi to Dareka no Yasashisa ni (kakifly) [Affection]](/beatmapsets/250337#osu/596161)
+  - [Kraster - Remember History (Short Ver.) (Serval) [Lunatic]](/beatmapsets/22115#osu/76419)
+  - [Mitchie M - Viva Happy (Natsu) [Insane]](/beatmapsets/120002#osu/317917)
+- Tiebreaker
+  - **[lapix - NEO GRAVITY (BlackYooh Vs. siromaru Remix) (Cassu2) [Event Horizon]](/beatmapsets/557764#osu/1180080)**
+
+#### Semifinals
+
+- NoMod
+  - [Ebon - Love is Light blue (Ebon DNB Remix) (Meg) [Light blue]](/beatmapsets/596988#osu/1262200)
+  - [Yooh - snow storm -euphoria- (-Chata-) [INFINITE]](/beatmapsets/156235#osu/574187)
+  - [HHHxMMxST - Oboro (Morinaga) [Blurred]](/beatmapsets/650215#osu/1377917)
+  - [U1 overground - Dopamine (fanzhen0019) [Kotori's EXTREME]](/beatmapsets/210316#osu/533622)
+- Hidden
+  - [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Startrick) [Another]](/beatmapsets/107647#osu/281993)
+  - [P\*Light - TRIGGER\*HAPPY (Kyubey) [INFINITE]](/beatmapsets/131361#osu/338594)
+- HardRock
+  - [nora2r - B.B.K.K.B.K.K (rezoons) [Another]](/beatmapsets/153920#osu/378178)
+  - [kors k feat. Rie - Rising in the Sun(original mix) (soulfear) [Another]](/beatmapsets/26742#osu/90024)
+- DoubleTime
+  - [senya - Bondage Anemonation (Satellite) [Lunatic]](/beatmapsets/122416#osu/323264)
+  - [Kagamine Rin & Len - Streamline Prism (banvi) [Jumping]](/beatmapsets/28894#osu/96142)
+- Tiebreaker
+  - **[dj TAKA - True Blue (Monstrata) [Halcyon]](/beatmapsets/418922#osu/907479)**
+
+#### Quarterfinals
+
+- NoMod
+  - [DJ YOSHITAKA feat. DWP - HIGH SCHOOL LOVE (fanzhen0019) [Another]](/beatmapsets/78211#osu/219307)
+  - [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) [Bunny Style]](/beatmapsets/54308#osu/167337)
+  - [S-C-U - yellow head joe (LKs) [Extreme]](/beatmapsets/48572#osu/150143)
+- Hidden
+  - [Mary - Artificial Rose (Urushi38) [Another]](/beatmapsets/99434#osu/264439)
+  - [Megpoid GUMI - Chocolate (Chewin) [Chocolate]](/beatmapsets/52732#osu/161037)
+- HardRock
+  - [Ryu\* - We're so Happy (Yauxo) [apple's Insane]](/beatmapsets/456072#osu/1087352)
+  - [Sharlo - Eisou Youga \~Meikyou Shisui\~ (Sharlo) [Satellite's Another]](/beatmapsets/380740#osu/911515)
+- DoubleTime
+  - [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) [ShiraKai's Hard]](/beatmapsets/370545#osu/858200)
+  - [tsunamaru - Orange Genome (goodbye) [gudbye]](/beatmapsets/61278#osu/218944)
+- Tiebreaker
+  - **[Rain - 7's color umbrella (Meg) [Megumi Collab]](/beatmapsets/625874#osu/1319316)**
+
+#### Group Stage
+
+- NoMod
+  - [Sakurakou K-ON Bu - Cagayake!GIRLS[5nin Ver.] (TV size Ver.) (Pata-Mon) [Yui]](/beatmapsets/666366#osu/1427838)
+  - [Ryu\* feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [Din Don Dan]](/beatmapsets/469782#osu/1004556)
+- Hidden
+  - [senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (kakifly) [Setz206's Lunatic]](/beatmapsets/218633#osu/519120)
+- HardRock
+  - [Ryu\* - I'm so Happy (Yauxo) [Collab Insane]](/beatmapsets/768390#osu/1744514)
+- DoubleTime
+  - [ginkiha - Fading Star (Mao) [Kenterz's Hyper]](/beatmapsets/183512#osu/441861)
+- Marathon
+  - **[Toyosaki Aki - Diamond (Fycho) [Insane]](/beatmapsets/111760#osu/290581)**
+
+### osu!mania
+
+#### Finals
+
+- FreeMod
+  - [Hinoisuka + Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! ([ Vento ]) [Extra]](/beatmapsets/682863#mania/1444022)
+  - [Camellia - !!Check this out (XeoStyle) [Jacks rains from above ! (No SV)]](/beatmapsets/498554#mania/1061270)
+  - [Camellia ft. Nanahira - Shakunetsu? Candle Master? Tomoshii (Hayabusa) [4K Master]](/beatmapsets/374947#mania/821312)
+  - [Igorrr - Mastication Numerique (YunoFanatic) [Mastication]](/beatmapsets/210319#mania/494822)
+  - [Neun_jack - Gypsy gets the Tek (LeiN-) [wag]](/beatmapsets/463038#mania/991504)
+  - [Lite Show Magic - TRICKL4SH 220 (Shirou) [L4SHirou 220]](/beatmapsets/357535#mania/787198)
+  - [Camellia feat. kradness, Nanahira & yukacco - Mazare Party (shuniki) [Hard]](/beatmapsets/531311#mania/1126926)
+  - [cillia - Fairytale, (shuniki) [Easy]](/beatmapsets/442251#mania/951108)
+  - [Musical Masterpiece - MANIERA (Fullerene-) [ilikexd's EX]](/beatmapsets/230405#mania/535892)
+  - [goreshit - looming shadow of a tree long gone (Shoegazer) [extra]](/beatmapsets/360765#mania/792874)
+  - [m1dy - Full Throttle (Valedict) [Need The Speed]](/beatmapsets/446611#mania/959118)
+- Tiebreaker
+  - **[DJ Sharpnel - WE LUV LAMA (^) [14]](/beatmapsets/353146#mania/778075)**
+
+#### Second Stage
+
+- FreeMod
+  - [Cuvelia - Tenkuu no Yoake (Ibrahim) [CS' Extra]](/beatmapsets/509270#mania/1083920)
+  - [Rche - Todestrieb (SanadaYukimura) [Another]](/beatmapsets/424754#mania/917452)
+  - [Helblinde - Heaven's Fall (riunosk) [Extra]](/beatmapsets/507745#mania/1079905)
+  - [Various - Yolomania Vol. 3A (Fullerene-) [u's - After School NAVIGATORS [IronSheep] 14]](/beatmapsets/243027#mania/560760)
+  - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) [4K MX]](/beatmapsets/325939#mania/724005)
+  - [Sawawa - Kirakira TIME\* (Syadow-) [BASIC]](/beatmapsets/483926#mania/1036114)
+  - [Various - Yolomania Selections (Fullerene-) [Draw the Emotional x Foreground Eclipse - Accept Your Fate Now [IronSheep]]](/beatmapsets/206800#mania/487486)
+  - [m108 - \* Crow Solace \* (Critical_Star) [4K Extra]](/beatmapsets/354157#mania/1208745)
+  - [UNDEAD CORPORATION - karakurenawi (Tidek) [Insane]](/beatmapsets/329497#mania/730528)
+- Tiebreaker
+  - **[goreshit - the nature of dying (Wonki) [oblivion]](/beatmapsets/453378#mania/1019378)**
+
+#### First Stage
+
+- FreeMod
+  - [Blend A - Bon Appetit S (TV Size) (Amiichii) [Sadistic]](/beatmapsets/690240#mania/1460895)
+  - [kamome sano - choux a la creme (Feerum) [ADVANCED]](/beatmapsets/399063#mania/867646)
+  - [Ryu\* - Plan 8 (Spy) [Spy x S.Star's Hyper]](/beatmapsets/172867#mania/457431)
+  - [xi - Solar Storm (Rizqy) [Hyper]](/beatmapsets/461946#mania/993456)
+  - [xi - Fiat Lux (Rido) [BASIC]](/beatmapsets/473522#mania/1073754)
+  - [P\*Light - Storm Buster (Spy) [MEDIUM]](/beatmapsets/506110#mania/1076623)
+  - [ClariS - Hitorigoto -TV MIX- (Tofu1222) [Manga]](/beatmapsets/602861#mania/1273380)
+  - [xi - Garyou Tensei (LNP-) [4K HD]](/beatmapsets/210610#mania/530543)
+  - [Presti - Veritas (DarckoSeth) [Vidi [HD]]](/beatmapsets/803279#mania/1686071)
+- Tiebreaker
+  - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](/beatmapsets/131691#mania/331525)**
+
+<!--
+---
+
+## Match Results
+
+### Finals - Week 2
+
+| Day, date |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
+| TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
+| TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |
+
+### Finals - Week 1
+### Semifinals
+### Quarterfinals
+### Round of 16
+### Group Stage
+-->
+
+---
+
+## Ruleset
+
+All of the following rules are subject to change at any point during the event.
+
+### Tournament Rules
+
+1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
+1. Players must play all of their matches at Highlander Con 2019.
+1. Map scoring is based on **Score V2**.
+1. In osu!standard, seeding will be based on the results of the Group Stage. In osu!mania, seeding will be based on player rank.
+1. Except in Group Stage, each player will be allowed to ban one map per match.
+1. Any mods may be used on FreeMod, Tiebreaker and Marathon maps.
+
+### Stages
+
+1. In osu!standard Group Stage, every player plays every map. The total scores of each player will determine the seeding for further stages of the tournament.
+1. All other stages are in the double-elimination format.
+
+### Match Instructions
+
+1. Warm-up picks will likely not be allowed due to time concerns.
+1. Both players will !roll when they join the lobby. The player with the lower result will ban first, and the other will pick first.
+1. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
+
+### Scheduling
+
+Scheduling will be done at the event depending on the availability of staff and players.
+
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_US]: /wiki/shared/flag/US.gif
