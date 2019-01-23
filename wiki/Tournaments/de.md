@@ -50,6 +50,12 @@ osu!mania World Cup
 | [osu!mania World Cup 2015](/wiki/Tournaments/MWC/2015) | 13.07.2015 | 27.09.2015 | 4K    | ![][flag_US] USA                       | ![][flag_JP] Japan                       | ![][flag_GB] Großbritannien              |
 | osu!mania World Cup 2015                   |            |            | 7K    |                                                    |                                                      |                                                      |
 
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Name | vom | bis zum | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+
 Siehe auch
 ----------
 

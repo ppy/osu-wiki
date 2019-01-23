@@ -76,6 +76,12 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 |--------------------------------------------------|------------|------------|----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
 | [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/u/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/u/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/u/%5BCrz%5DScSolAr) |
 
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+
 Veja também
 ---------
 
