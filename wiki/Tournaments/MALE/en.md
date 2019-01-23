@@ -15,9 +15,11 @@ The **Most Amazing LAN Ever** (***MALE***) is an osu! and osu!mania BYOC LAN tou
 
 ## Event Details
 
-The Most Amazing LAN Ever will be run over the duration of Highlander Con, from roughly 10:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. osu! and osu!mania tournaments will start around 2:00 p.m. and 11:00 a.m., respectively. The schedule of matches will be determined as the event goes on.
+The Most Amazing LAN Ever will be run over the duration of Highlander Con, from roughly 9:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. osu! and osu!mania tournaments will start around 3:00 p.m. and 11:00 a.m., respectively. The schedule of matches will be determined as the event goes on.
 
-Nearest to parking lot 19, the Highlander Union Building is where most of the events for Highlander Con will be taking place. The Most Amazing LAN Ever will be in HUB 269, on the second floor. To be allowed in, you must [register for Highlander Con 2019](https://www.eventbrite.com/e/highlander-con-2019-tickets-54040467493) and have your ticket ready to scan on entry.
+Near the center of the UCR campus, the Highlander Union Building is where most of the events for Highlander Con will be taking place. The Most Amazing LAN Ever will be in HUB 269, on the second floor. To be allowed in, you must [register for Highlander Con 2019](https://www.eventbrite.com/e/highlander-con-2019-tickets-54040467493) and have your ticket ready to scan on entry.
+
+If you will be driving yourself to the event, it's recommended that you park at Lot 1 because the school will allow all-day free parking there.
 
 ## Prizes
 
