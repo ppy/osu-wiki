@@ -97,37 +97,30 @@ The osu! South East Tournament 2 is run by various community members.
 
 -----------------------
 
-## Match Schedules: Finals
+## Match Schedules: Grand Finals
 
-### Friday, 18 January 2019
-
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| MB | Crezz | ![][flag_ID] | ![][flag_SG] | GSBlank | **22:00** |
-
-### Saturday, 19 January 2019
+### Saturday, 26 January 2019
 
 | Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| MA | Raindrop | ![][flag_SG] | ![][flag_SG] | SeeL | **22:00** |
+| LB | Rexeez | ![][flag_ID] | ![][flag_MY] | GSBlank | **21:00** |
 
-### Sunday, 20 January 2019
+### Sunday, 27 January 2019
 
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| LA | Rexeez | ![][flag_ID] | ![][flag_ID] | Skydiver | **13:30** |  |
-| NA-1 | Raindrop | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
-| NA-2 | Raindrop | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
-| NA-3 | SeeL | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
-| NA-4 | SeeL | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
+| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| LC-1¹ | Skydiver | ![][flag_ID] | ![][flag_ID] | Rexeez | **21:00** |
+| LC-2¹ | Skydiver | ![][flag_ID] | ![][flag_MY] | GSBlank | **21:00** |
 
-¹ Encounter dependent on winner of Match MA and Match MB
+¹ Encounter dependent on winner of Match LB
 
 -----------------------
 
 ## Mappools
 
 ### Finals
+
+ **This mappool will be played in Finals and Grand Finals.**
 
 **[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
 
@@ -292,6 +285,22 @@ The osu! South East Tournament 2 is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Friday, 2019-01-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Creez ![][flag_ID] | 1 | **7** | ![][flag_MY] **GSBlank** | [#1](/community/matches/48940594) |
+
+| Saturday, 2019-01-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](/community/matches/48967140) |
+
+| Sunday, 2019-01-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](/community/matches/48994166) |
+| Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48995392) |
+| Raindrop ![][flag_SG] | 2 | **7** | ![][flag_MY] **GSBlank** | [#1](/community/matches/49002936) |
 
 ### Semifinals
 
