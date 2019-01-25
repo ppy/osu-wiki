@@ -60,8 +60,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_CA] | **Canada** | **[Sinaeb](https://osu.ppy.sh/users/1576095)**, [LelPop](https://osu.ppy.sh/users/10242770), [XzVx](https://osu.ppy.sh/users/12286606), [Tagua](https://osu.ppy.sh/users/3665472) |
-| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Matiias](https://osu.ppy.sh/users/3215366), [Asagaki](https://osu.ppy.sh/users/2632902), [Sebaex](https://osu.ppy.sh/users/4686036)
- |
+| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Matiias](https://osu.ppy.sh/users/3215366), [Asagaki](https://osu.ppy.sh/users/2632902), [Sebaex](https://osu.ppy.sh/users/4686036) |
 | ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Sn7_1163](https://osu.ppy.sh/users/10353103), [Nakoii](https://osu.ppy.sh/users/12874576) |
 | ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/users/8574116)**, [-\[N A D A V V\]-](https://osu.ppy.sh/users/7673299), [Zeevee](https://osu.ppy.sh/users/9493441) |
 | ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/users/6172698)**, [Lenxis_](https://osu.ppy.sh/users/10133496) |
