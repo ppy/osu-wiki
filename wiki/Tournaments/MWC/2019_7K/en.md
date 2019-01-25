@@ -66,7 +66,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/u/8574116)**, [-\[N A D A V V\]-](https://osu.ppy.sh/u/7673299), [Zeevee](https://osu.ppy.sh/u/9493441) |
 | ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/u/6172698)**, [Lenxis_](https://osu.ppy.sh/u/10133496) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/u/3946113)**, [capchon](https://osu.ppy.sh/u/8566617) |
-| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/u/2140739)** |
+| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/u/4123399)**, [Vortex-](https://osu.ppy.sh/u/4999669), [Craty](https://osu.ppy.sh/u/3918056), [Stug](https://osu.ppy.sh/u/4899311) |
 | ![][flag_TW] | **Taiwan** | **[FoxTailTofu](https://osu.ppy.sh/u/1793562)**,[\[ Snow Rabbit \]](https://osu.ppy.sh/u/1833280) |
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/u/3628783)**, [Lelloq](https://osu.ppy.sh/u/8610776) |
 
