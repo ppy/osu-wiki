@@ -12,11 +12,11 @@ Tracks with explicit lyrics can still be used so long as they do not overtly vio
 
 They will need to be identified by a line in the beatmap's description reflecting the sensitive nature of the content. They must also not have the preview point of the map set to a portion of the song that widely broadcasts said explicit content.
 
-Additionally, any background assets (henceforth referred to as *backgrounds*) must be broadly considered as appropriate for an all-ages audience as per [Community Rule 5](wiki/Rules/en.md#community-rules).
+Additionally, any visual assets associated with the beatmap must be broadly considered as appropriate for an all-ages audience as per [Community Rule 5](wiki/Rules/en.md#community-rules), using the schema below.
 
-## Understanding if a background is appropriate or not
+## Understanding if visual content is appropriate or not
 
-An beatmap background **MUST NOT** contain any of the following:
+Visual content (aka: beatmap backgrounds, skins, objects and other included graphical or video-related assets distributed with a beatmapset) **MUST NOT** contain any of the following:
 
 * Depictions of excessive violence towards humans, human-like characters or animals
   - Example: imagery that portrays gore, mutilation, severe maiming, wounding or graphical depictions of recent death with an obvious cause present (etc: hanging, asphyxiation, exasanguination/bleeding out)
@@ -32,7 +32,7 @@ An beatmap background **MUST NOT** contain any of the following:
   - Example: bongs, coke spoons, used needles, obvious 'pockmark' bruises suggestive of heavy drug use
 * Depictions of widely abhorrent cultural/religious icons intended to deliberately inflame, such as offensive use of Nazi/fascist aligned swastikas, anti-Semetic terminology and symbols, or any other icon or motif that is an active signet or marker of discrimination against a social, racial or political group
   
-An beatmap background **may contain some** of the following in limited quantities, subject to common sense and good faith:
+Visual content **may contain some** of the following aspects in limited quantities, subject to common sense and good faith:
 
 * Depictions of swimsuit or 'scant' dress/undress so long as such imagery is not highly excessive or in violation of the posturing & innuendo rules listed above
   - Good example: A particularly busty anime character enjoying some time on a dock with her seagull companion
@@ -50,13 +50,13 @@ An beatmap background **may contain some** of the following in limited quantitie
   - Good example: The MC of a given anime and his love interest holding hands or sharing a kiss
   - Bad example: Characters engaged in heavy petting, French kissing or implied masturbation with genitals visible or not
 
-The anecdotal 'rule of thumb' is that one should generally be comfortable with their family members or other judgmental authority figure viewing the piece and be capable of adequately explaining what is going on in the scene. This is by no means a strict requirement, but it is a good way to help inform your decisions on what is and isn't appropriate.
+The anecdotal 'rule of thumb' is that one should generally be comfortable with their family members or other judgmental authority figure viewing the content and be capable of adequately explaining what is going on in it. This is by no means a strict requirement, but it is a good way to help inform your decisions on what is and isn't appropriate.
 
-In situations whether the appropriateness of a given background is unclear, the mapper must submit a formal request to any Beatmap Nominator for further appraisal, who will then refer the issue to the Global Moderation Team to decide based on a supermajority (>70%) consensus.
+In situations whether the appropriateness of a given piece of visual content is unclear, the mapper must submit a formal request to any Beatmap Nominator for further appraisal, who will then refer the issue to the Global Moderation Team to decide based on a supermajority (>70%) consensus.
 
 Once a consensus is met and issued, the resulting ruling on its appropriateness is final and can not be challenged under any circumstances, unless edits are made to try and fix the contentious issues cited by the ruling. Any number of these subsequent requests may be made within reason, so long as a good faith effort is being made to try and fix the issues listed.
 
-Should the alteration exceed the limits of common reason or is deemed to be performed in bad faith (such as excessive or poorly-done censoring), the base image may be denied from further appraisal requests and thus deemed unusable for beatmap background images. This is non-contestable and irreversible.
+Should the alteration exceed the limits of common reason or is deemed to be performed in bad faith (such as excessive or poorly-done censoring), the content may be denied from further appraisal requests and thus deemed unusable for use in a beatmap. This is non-contestable and irreversible.
   
 ## Mapping tracks with explicit lyrics
 
