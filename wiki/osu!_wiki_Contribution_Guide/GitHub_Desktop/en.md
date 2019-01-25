@@ -6,7 +6,7 @@
 
 1\. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already.
 
-2\. When the installer is completed, GitHub Desktop will prompt you to login, click `Sign into GitHub.com`.
+2\. When the installer is completed, GitHub Desktop will prompt you to sign in, click `Sign in to GitHub.com`.
 
 3\. Fill in the prompts as they appear.
 

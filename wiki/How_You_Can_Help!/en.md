@@ -69,7 +69,7 @@ and last, but most definitely not least:
 
 ## Avoid being negative! Make people happy!
 
-Every day I see negativity on osu!. People complaining about each other, people complaining about cheaters or "rank farmers". People seeing change and whining about it. While I think we do better than a lot of other online communities out there — that drop to levels of throwing insults at each other all day long (hi youtube!) — there is still room for improvement.
+Every day I see negativity on osu!. People complaining about each other, people complaining about cheaters or "rank farmers". People seeing change and whining about it. While I think we do better than a lot of other online communities out there — that drop to levels of throwing insults at each other all day long (hi YouTube!) — there is still room for improvement.
 
 ### Where to start:
 

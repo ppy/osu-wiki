@@ -27,7 +27,7 @@ Despite its 10 minutes of drain time, this is one of the few maps that make you 
 
 Open up this map in editor and you'll see some immaculate yet creative designs. Literally every circle and slider on this map is there for a reason and part of a pattern. If you want to look at some well structured maps, this is definitely one of them. Lets talk about some cool concepts shown here. The entire first section of this map features sliders going only in a single direction (up). This concept is really interesting because despite the repetitive upward motion, the section is really fun to play because of the various motions in between sliders. Slider shapes are also very well designed throughout this map. I really enjoyed the slider-art, but also the various 1/2 slider-shapes used. Also, I thoroughly enjoyed the streams on this map. They were challenging, but visually appealing, while still being tame enough to not affect playability. This was a challenging but expertly designed map, and I had a lot of fun playing it.
 
-+ [Razihel &amp; Virtual Riot - One For All, All For One](https://osu.ppy.sh/s/275655) by [Fort](https://osu.ppy.sh/u/2805457)
++ [Razihel & Virtual Riot - One For All, All For One](https://osu.ppy.sh/s/275655) by [Fort](https://osu.ppy.sh/u/2805457)
 
 I will always have a special appreciation for mappers who can produce large mapsets for songs that are not tv-sized. Lets talk about the highest difficulty "Together We've Fallen". The sliders on this map are extremely well designed so that players can take advantage of slider-leniency to play otherwise complex and difficult patterns with relative ease. Additionally, while this map features a lot of 210 217.5 BPM single-taps they all play very intuitively and provide just enough of a challenge for the player without coming off as over-snapped. Don't forget to check out the other 10 difficulties in this set! There's bound to be a difficulty suitable for everyone.
 
@@ -65,9 +65,9 @@ An older map which was quiet for a long time but came back - and also finally ra
 
 
 
-+ [Ayane - Go Love&amp;Peace (short size)](https://osu.ppy.sh/s/303149) by [Chaica](https://osu.ppy.sh/u/4455389)  
++ [Ayane - Go Love&Peace (short size)](https://osu.ppy.sh/s/303149) by [Chaica](https://osu.ppy.sh/u/4455389)  
 
-Some of you may hate low BPM beatmaps but they also can be pretty fun to play, and this mapper showed us that it's possible! Having a 4-difficulty mapset became uncommon at this time but feels well-made. The Futsuu may feels a bit harsh when you recently come from Kantan difficulties but it's still doable and good to learn some "harder" pattern, you know how "harder is here meant to be. I highly recommend to play this when you're newer in the Taiko mode since it offers very simple and common Taiko pattern to learn. You also should spread some Love &amp; Peace, don't forget that.
+Some of you may hate low BPM beatmaps but they also can be pretty fun to play, and this mapper showed us that it's possible! Having a 4-difficulty mapset became uncommon at this time but feels well-made. The Futsuu may feels a bit harsh when you recently come from Kantan difficulties but it's still doable and good to learn some "harder" pattern, you know how "harder is here meant to be. I highly recommend to play this when you're newer in the Taiko mode since it offers very simple and common Taiko pattern to learn. You also should spread some Love & Peace, don't forget that.
 
 
 

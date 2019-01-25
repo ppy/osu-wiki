@@ -41,7 +41,7 @@ Yeah, they were. That's a pretty silly question. In the end, it ended up being l
 
 **Do you ever see the MAT coming back?**
 
-Hmm… That's a tough one, to be honest with you. I can't say no to that, because I think there would be room for a preliminary team in the future. Maybe if the team gets bigger, or we need the extra help during the next BAT rounds, then we'll bring back the MAT. Perhaps what we need is something akin to the MAT, but not official. Maybe a group of people who we know are skilled modders - there are a lot of people who probably have potential to be BATs, but promoting them all at once would be a disaster.
+Hmm... That's a tough one, to be honest with you. I can't say no to that, because I think there would be room for a preliminary team in the future. Maybe if the team gets bigger, or we need the extra help during the next BAT rounds, then we'll bring back the MAT. Perhaps what we need is something akin to the MAT, but not official. Maybe a group of people who we know are skilled modders - there are a lot of people who probably have potential to be BATs, but promoting them all at once would be a disaster.
 
 **The BAT is for moderating beatmaps. One of the reasons for the MAT's existence was also to judge if users are able to moderate the community as well. What are your thoughts on the matter? Shouldn't the role split be a bit more visible?**
 
@@ -49,7 +49,7 @@ I've always had mixed feelings about this. Sometimes I think what we have right 
 
 **What do you do in your spare time nowadays?**
 
-Hmm… Well, I do a bunch of stuff. I play a text-based game called Achaea, I play Wurm Online, Dota 2, League… I basically play video games, I thought that was obvious. I run my own webserver [Chiwa](http://chiwa.neonsunshine.org) too, or well… Chiwa runs itself these days.
+Hmm... Well, I do a bunch of stuff. I play a text-based game called Achaea, I play Wurm Online, Dota 2, League... I basically play video games, I thought that was obvious. I run my own webserver [Chiwa](http://chiwa.neonsunshine.org) too, or well... Chiwa runs itself these days.
 
 **What color underwear are you currently wearing?**
 

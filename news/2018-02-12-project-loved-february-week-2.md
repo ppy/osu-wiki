@@ -25,10 +25,10 @@ This week, the osu! captains have compiled a list of maps that fit the Valentine
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
 
-### <a name="osu" id="osu"></a>osu!
+## <a name="osu" id="osu"></a>osu!
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/my-heart-will-go-on.jpg)](https://osu.ppy.sh/community/forums/topics/702297)
 
@@ -36,11 +36,11 @@ A long awaited entry into the Loved category, [jesse1412](https://osu.ppy.sh/u/2
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/a-kiss-for-the-flower.jpg)](https://osu.ppy.sh/community/forums/topics/702298)
 
-[Silynn](https://osu.ppy.sh/u/1171628)'s A Kiss for the Flower is an incredibly *iconic* map of an *interesting* and *compassionate* tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine’s Day.
+[Silynn](https://osu.ppy.sh/u/1171628)'s A Kiss for the Flower is an incredibly *iconic* map of an *interesting* and *compassionate* tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine's Day.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/hime-hime.jpg)](https://osu.ppy.sh/community/forums/topics/702299)
 
-[BarkingMadDog](https://osu.ppy.sh/u/3475189)'s Koi no Hime Hime Pettanko is a highly coveted map of a highly coveted song sung by osu!’s sweetheart, namirin. This Valentine’s day, celebrate the things that really matter: girls with flat chests.
+[BarkingMadDog](https://osu.ppy.sh/u/3475189)'s Koi no Hime Hime Pettanko is a highly coveted map of a highly coveted song sung by osu!'s sweetheart, namirin. This Valentine's day, celebrate the things that really matter: girls with flat chests.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/furisodation.jpg)](https://osu.ppy.sh/community/forums/topics/702300)
 
@@ -60,7 +60,7 @@ An often submitted community favorite, [Alonevpk](https://osu.ppy.sh/u/2080978)'
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/beautiful-loli-thing.jpg)](https://osu.ppy.sh/community/forums/topics/702304)
 
-[kiri09](https://osu.ppy.sh/u/932147)'s map of beautiful loli thing is a timeless classic that has seen a lot of play over the years in several multi lobbies! This map is sure to test your streaming ability, and features both AR 9 and AR 10 diffs for your reading convenience. In the wise words of [kiri09](https://osu.ppy.sh/u/932147): "[Let’s hand crush](https://osu.ppy.sh/s/114849)".
+[kiri09](https://osu.ppy.sh/u/932147)'s map of beautiful loli thing is a timeless classic that has seen a lot of play over the years in several multi lobbies! This map is sure to test your streaming ability, and features both AR 9 and AR 10 diffs for your reading convenience. In the wise words of [kiri09](https://osu.ppy.sh/u/932147): "[Let's hand crush](https://osu.ppy.sh/s/114849)".
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/hachigatsu-no-yoru.jpg)](https://osu.ppy.sh/community/forums/topics/702305)
 
@@ -70,7 +70,7 @@ An often submitted community favorite, [Alonevpk](https://osu.ppy.sh/u/2080978)'
 
 Possibly scraping the line of what is considered a "love song", [caren_sk](https://osu.ppy.sh/u/542498)'s Gigantic O.T.N is a powerhouse of popular 2013 mapper GD's including [Aqo](https://osu.ppy.sh/u/308902), [Reol](https://osu.ppy.sh/u/1945351), [HabiHolic](https://osu.ppy.sh/u/1974436), and more. Most difficulties come with both an AR9 and AR10 diff for those who prefer a bit more of a reading challenge, though every difficulty comes jam-packed with fun patterns giving the whole set a lot of playability.
 
-### <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/yomi-yori.jpg)](https://osu.ppy.sh/community/forums/topics/702312)
 
@@ -86,7 +86,7 @@ This mapset, by osu!taiko veteran [OnosakiHito](https://osu.ppy.sh/u/290128), ha
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/mute-city.jpg)](https://osu.ppy.sh/community/forums/topics/702315)
 
-The main draw of this one-diff set is obviously it’s amazing song! An enjoyable outing from [Mew104](https://osu.ppy.sh/u/2345156), this has slider gimmicks galore, and a lot of players should be familiar with it as the German TWC Teams warm-up in the past. Enjoy the memes!
+The main draw of this one-diff set is obviously it's amazing song! An enjoyable outing from [Mew104](https://osu.ppy.sh/u/2345156), this has slider gimmicks galore, and a lot of players should be familiar with it as the German TWC Teams warm-up in the past. Enjoy the memes!
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/move-that-body.jpg)](https://osu.ppy.sh/community/forums/topics/702316)
 

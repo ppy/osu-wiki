@@ -7,11 +7,11 @@ tumblr_url: http://osunews.tumblr.com/post/103785787028/official-osu-fanart-cont
 ---
 The fifth Official osu! Fanart Contest is here.
 
-You all did so well with the Halloween osu! fan art, so you can probably guess our theme this time (cue jingling sleigh bells) - but there''s a twist…
+You all did so well with the Halloween osu! fan art, so you can probably guess our theme this time (cue jingling sleigh bells) - but there''s a twist...
 
-Yes, Christmas is just around the corner, and we want spread some festive cheer by giving the osu! title screen a Christmas overhaul…featuring YOUR art! So this time, we're providing templates for the title screen and asking our talented users to come up with original osu! Christmas backgrounds. The best osu! Christmas designs will be rotated on the title screen in the lead up to Christmas (from December 22 ~ 31) for all to see.
+Yes, Christmas is just around the corner, and we want spread some festive cheer by giving the osu! title screen a Christmas overhaul...featuring YOUR art! So this time, we're providing templates for the title screen and asking our talented users to come up with original osu! Christmas backgrounds. The best osu! Christmas designs will be rotated on the title screen in the lead up to Christmas (from December 22 ~ 31) for all to see.
 
-![](http://puu.sh/d8t4s/553bf0002b.jpg)
+![](/wiki/shared/news/2014-11-28-official-osu-fanart-contest-5-begins/osuxmascontestbanner.jpg)
 
 This time we're mixing things up with the prizes. We'll announce 10 winners who will each win a [four month supporter tag](https://osu.ppy.sh/p/support). First place wins you an [osu! tablet](https://osu.ppy.sh/store/products/1) too! A selection of the the best designs will be rotated on the title screen from December 22 ~ 31, regardless of whether they are first place winners or not. Further compensation will be offered for any artwork that is used for official merchandise.
 

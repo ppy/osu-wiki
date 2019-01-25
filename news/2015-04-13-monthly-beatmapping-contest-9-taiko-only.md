@@ -28,7 +28,7 @@ After that chill cool down with "the light", we are cranking it back up to 11 wi
 
 ## Where can I enter?
 
-Submit your creations **[here!](http://t.umblr.com/redirect?z=https%3A%2F%2Fosu.ppy.sh%2Fp%2Fcontest%2F%3Fc%3D18&t=YzIwYTQ3NWQ5ODE1YzgzN2JhZGY1NDcwYmU4ZWJmZWI1MTcxNjdjNyxQTHB6VUo0Ng%3D%3D&b=t%3AIzBfiACgMyVf9sEXdmjc5g&p=http%3A%2F%2Fosunews.tumblr.com%2Fpost%2F116319155288%2Fmonthly-beatmapping-contest-9-taiko-only&m=1)**
+Submit your creations **[here!](https://osu.ppy.sh/p/contest/?c=18)**
 
 The deadline for submission is the **28th April 2015**. Make sure you submit early and be prepared - we won't be accepting late submissions!
 

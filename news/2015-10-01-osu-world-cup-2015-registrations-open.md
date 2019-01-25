@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-regis
 ---
 We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](http://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
 
-![](http://puu.sh/kux2m/60c6d1a88c.jpg)
+![](/wiki/shared/news/banners/owc_2015.jpg)
 
 ## Tournament Schedule
 

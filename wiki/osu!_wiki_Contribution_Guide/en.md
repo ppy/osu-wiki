@@ -6,7 +6,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ## Getting started
 
-### Signing up
+### Registering
 
 1. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
 
