@@ -64,7 +64,7 @@ A map not to be underestimated despite the song, "Kappa Kappa (Forsen Edition)" 
 [Koji Kondo - Slider](https://osu.ppy.sh/beatmapsets/714359#osu) by [spookem](https://osu.ppy.sh/users/8346627)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-Slides are fun. This map is fun. Spookem with almost 500 favourites on the map Slide - Koji Kondo truly shows that this map is high quality and many people enjoy playing it. With its fast paced song from Super Mario 64 combined with spaced streams, this map is made to be very enjoyable to play for those who love streams under 180 BPM! If you feel ready to dive down the slide, then give this map a try! Let's see how good you really are at spaced streams.
+Slides are fun. This map is fun. spookem, with almost 500 favourites on the map of Koji Kondo's Slider, truly shows that this map is high quality and many people enjoy playing it. With its fast paced song from Super Mario 64 combined with spaced streams, this map is made to be very enjoyable to play for those who love streams under 180 BPM! If you feel ready to dive down the slide, then give this map a try! Let's see how good you really are at spaced streams.
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/osu/minefield-surfing.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
