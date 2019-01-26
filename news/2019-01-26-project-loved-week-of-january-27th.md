@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of January 27th"
-date: 2019-01-26 16:00:00 +0000
+date: 2019-01-26 20:00:00 +0000
 ---
 
 We're so excited for this week's round of [Project Loved](https://osu.ppy.sh/community/forums/120) that we're releasing it a day early! As always, we've selected a handful of maps that *you* can now vote on to decide whether or not they will be Loved.
@@ -171,23 +171,23 @@ osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5
 
 [GTA feat. Sam Bruno - Red Lips (Mendus Remix)](https://osu.ppy.sh/beatmapsets/728227#mania) by [Hydria](https://osu.ppy.sh/users/808176)
 
-The first selection coming in for the osu!mania Loved nominations is one of the most popular maps to come out of the 2018 4K Mania World Cup, that being Hydria's Red Lips. Just looking at the patterns it wouldn't seem particularly special, but the real draw of the map comes from its neat use of SVs in the chorus to make every note look the same distance apart rhythmically, despite the song not matching up to those expectations. That gimmick and the clean design of the SVs to make this effect were adored by many of the spectators and players, giving significant popularity to the chart; certainly enough to be nominated for the Loved section.
+The first selection coming in for the osu!mania Loved nominations is one of the most popular maps to come out of the osu!mania 4K World Cup 2018, that being Hydria's Red Lips. Just looking at the patterns, it wouldn't seem particularly special, but the real draw of the map comes from its neat use of SVs in the chorus to make every note look the same distance apart rhythmically, despite the song not matching up to those expectations. That gimmick and the clean design of the SVs to make this effect were adored by many of the spectators and players, giving significant popularity to the chart. This is certainly worthy of being nominated for the Loved section.
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/mania/prom-night.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Anamanaguchi - Prom Night](https://osu.ppy.sh/beatmapsets/585731#mania) by [Valedict](https://osu.ppy.sh/users/2537082)
 
-A pleasant mix of competitive viability and nice pattern usage is what defines the next nomination: Prom Night by Valedict. Throughout the chart, it is common to see different snapped streams tied to the different sounds: faster streams tied to both the vocals and the synth and slower streams in places where these sounds are absent. This is compounded when the sounds become more intense and stack with each other, culminating in the chorus where the streams kick into extended 1/8 bursts and come with it a noticeable directional significance with the vocals, reversing patterns with the changing pitch. The attention to detail throughout these streams makes for a solid finish to the chart. On top of this, the speed of the streams are somewhat approachable while still requiring significant skill to nail, making it very good for competitive use, and gives it a mix of qualities very fitting for the Loved Section.
+A pleasant mix of competitive viability and nice pattern usage is what defines the next nomination: Prom Night by Valedict. Throughout the chart, it is common to see differently-snapped streams tied to the different sounds: faster streams tied to both the vocals and the synth, and slower streams in places where these sounds are absent. This is compounded when the sounds become more intense and stack with each other, culminating in the chorus where the streams kick into extended 1/8 bursts and come with it a noticeable directional significance with the vocals, reversing patterns with the changing pitch. The attention to detail throughout these streams makes for a solid finish to the chart. On top of this, the speed of the streams are somewhat approachable while still requiring significant skill to nail, making it very good for competitive use, and gives it a mix of qualities very fitting for the Loved section.
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/mania/gaspard-de-la-nuit-ondine.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
 [Maurice Ravel - Gaspard de la Nuit: Ondine](https://osu.ppy.sh/beatmapsets/773451#mania) by [Xay](https://osu.ppy.sh/users/961417)
 
-Classical is hard to chart. Classical is hard to chart not only because of its subtle tempo changes, but it is also because there are many layering and patterning decisions that are difficult to resolve without notable charting knowledge or playtesting. However, if classical music is charted well, the chart creates an experience that not many charts for different music can.
+Classical music is hard to chart well. Not only does it have subtle tempo changes, but it also has many layering and patterning decisions that are difficult to resolve without notable charting knowledge or playtesting. However, if classical music is charted well, the chart creates an experience that not many charts for different music genres can.
 
 Xay's charting approach, which is heavily reliant on pitch relevance, playtesting, and how a chart plays, fits very well with the general freeform-esque approach that charting classical music requires. Even though the chart may seem a bit heavy-handed in the editor, many charters and players seem to agree that, despite its density, the chart feels notably apposite to the piece at hand, which is notably impressive given how difficult it is to chart classical in general.
 
-In addition to being a strong chart from a charting perspective, the chart itself is a 6-minute dynamic medley of control-oriented patterns that is near incomparable to other charts. Jumpgluts at varying BPMs, jumpstreams of very uneven intervals between notes, grace notes, quick bursts, they're all there, and those patterns feel as if they were made for this chart. That finesse of charting acumen, musical congruence, and a straight up exciting experience makes this chart an easy contender for the Loved section.
+In addition to being a strong chart from a charting perspective, the chart itself is a 6-minute dynamic medley of control-oriented patterns that is near incomparable to other charts. Jumpgluts at varying BPMs, jumpstreams of very uneven intervals between notes, grace notes, quick bursts: they're all there, and those patterns feel as if they were made for this chart. That finesse of charting acumen, musical congruence, and a straight up exciting experience makes this chart an easy contender for the Loved section.
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/mania/kanjou-no-matenrou-world-s-end.jpg)](https://osu.ppy.sh/community/forums/topics/TOPIC_ID)
 
