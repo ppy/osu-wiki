@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT 2 Logo](img/logo.png)
 
-The **osu! South East Asia Tournament 2** (***oSEAT 2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). was is the 2nd installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 2** (***oSEAT 2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). It was the second installment of the osu! South East Asia Tournament.
 
 ## Tournament Schedule
 
@@ -38,6 +38,8 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | *5th place* | 1 month of osu!supporter tag |
 
 *Note: 5th place was determined by a playoff.*
+
+![oSEAT 2 Winner Badge](img/badge.png)
 
 ## Organisation
 
@@ -292,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Friday, 2019-01-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Creez ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48940594) |
+| Crezz ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48940594) |
 
 | Saturday, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
