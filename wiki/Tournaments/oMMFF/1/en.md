@@ -161,7 +161,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Saturday, 26 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Besta | ![][flag_FR] | ![][flag_FR] | Mooha | **13:45** |
 | #2 | ThePooN | ![][flag_FR] | ![][flag_FR] | NerO | **14:45** |
@@ -170,7 +170,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Sunday, 27 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |  |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | #5a¹ | ThePooN | ![][flag_FR] | ![][flag_FR] | SiYes | **15:45** |
 | #5b¹ | NerO | ![][flag_FR] | ![][flag_FR] | SiYes | **15:45** |
@@ -189,7 +189,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Saturday, 26 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Briesmas | ![][flag_JP] | ![][flag_FR] | Romainnoda | **16:00** |
 | #2 | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | omegaflo | **13:00** |
@@ -198,7 +198,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Sunday, 27 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #5a¹ | Briesmas | ![][flag_JP] | ![][flag_FR] | Gintoki8 | **18:00** |
 | #5b¹ | Romainnoda | ![][flag_JP] | ![][flag_FR] | Gintoki8 | **18:00** |
@@ -217,14 +217,14 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Saturday, 26 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | -Ken | ![][flag_TN] | ![][flag_FR] | Boros | **21:00** |
 | #2 | Holloh | ![][flag_FR] | ![][flag_FR] | Noulayfe | **18:00** |
 
 #### Sunday, 27 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #3a¹ | -Ken | ![][flag_TN] | ![][flag_FR] | Holloh | **20:00** |
 | #3b¹ | Boros | ![][flag_FR] | ![][flag_FR] | Holloh | **20:00** |
@@ -237,7 +237,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Saturday, 26 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Azubeur | ![][flag_FR] | ![][flag_FR] | Kyzoid | **15:30** |
 | #2 | \[ Odin \] | ![][flag_FR] | ![][flag_FR] | DemonWaves | **16:30** |
@@ -250,7 +250,7 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Sunday, 20 January 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #9a¹ | ExilFaker | ![][flag_FR] | ![][flag_FR] | \[ Odin \] | **15:30** |
 | #9b¹ | ExilFaker | ![][flag_FR] | ![][flag_FR] | DemonWaves | **15:30** |
