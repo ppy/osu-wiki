@@ -206,7 +206,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | #1 | Boros | ![][flag_FR] | ![][flag_TN] | -Ken | **18:00** |
 | #2¹ | -Ken | ![][flag_TN] | ![][flag_FR] | Boros |  |
 
-¹ Match will take place right after Match #1 and if Player B wins Match #1
+¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
 
 ### Division osu!mania: Demi-finales
 
