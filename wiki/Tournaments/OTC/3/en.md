@@ -189,16 +189,16 @@ The osu! Technical Championship #3 is run by various osu! community members.
 | C3 | **Aden** ![][flag_RU] | **4** | 0 | ![][flag_AU] GranDSenpai | [#1](/community/matches/48794637) |
 | A1 | **TheOmyNomy** ![][flag_AU] | **4** | 2 | ![][flag_ES] RivenXLukario | [#1](/community/matches/48795494) |
 | C4 | **Aden** ![][flag_RU] | **4** | 2 | ![][flag_UA] Ayla | [#1](/community/matches/48795501) |
-| C5 | Hranolka ![][flag_SG] | 1 | **4** | ![][flag_AU] **GranDSenpai** | [#1](/community/matches/48795506) |
+| C5 | Hranolka ![][flag_SK] | 1 | **4** | ![][flag_AU] **GranDSenpai** | [#1](/community/matches/48795506) |
 | A6 | RivenXLukario ![][flag_ES] | 1 | **4** | ![][flag_CN] **Crystal** | [#1](/community/matches/48796550) |
 | B3 | **TopSp1n** ![][flag_GB] | **4** | 1 | ![][flag_AU] nickerdead3 | [#1](/community/matches/48796748) |
 | C2 | **Ayla** ![][flag_UA] | **4** | 0 | ![][flag_AU] GranDSenpai | -win by default- |
 | D6 | --w-- ![][flag_SE] | 0 | **4** | ![][flag_KR] **ftg** | [#1](/community/matches/48796772) |
 | B6 | **seegii** ![][flag_MN] | **4** | 2 | ![][flag_GB] TopSp1n | [#1](/community/matches/48798022) |
-| C1 | Ayla ![][flag_UA] | 3 | **4** | ![][flag_SG] **Hranolka** | [#1](/community/matches/48797710) |
+| C1 | Ayla ![][flag_UA] | 3 | **4** | ![][flag_SK] **Hranolka** | [#1](/community/matches/48797710) |
 | D4 | ftg ![][flag_KR] | 2 | **4** | ![][flag_BR] **My Angelsim** | [#1](/community/matches/48798124) |
 | D3 | **ftg** ![][flag_KR] | **4** | 0 | ![][flag_BR] Astris | -win by default- |
-| C6 | Hranolka ![][flag_SG] | 3 | **4** | ![][flag_RU] **Aden** | [#1](/community/matches/48804725) |
+| C6 | Hranolka ![][flag_SK] | 3 | **4** | ![][flag_RU] **Aden** | [#1](/community/matches/48804725) |
 | D5 | --w-- ![][flag_SE] | 2 | **4** | ![][flag_BR] **Astris** | [#1](/community/matches/48804784) |
 | F1 | **Mystia** ![][flag_BR] | **4** | 1 | ![][flag_AT] Teppi | [#1](/community/matches/48806776) |
 | A5 | RivenXLukario ![][flag_ES] | 2 | **4** | ![][flag_US] **Junjou** | [#1](/community/matches/48808556) |
