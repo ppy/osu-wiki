@@ -12,6 +12,10 @@ Besides the changes to aim, there has been an adjustment to how streams are hand
 
 In addition, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as Honesty and Sidetracked Days. While the nerf is sizable, these plays are still quite impressive and are still worth a lot, just not quite as much as they were worth before.
 
+## Slider Buffs
+
+Another exciting change is the introduction of a more accurate representation of slider difficulty. While the specifics are quite complicated, in general fast sliders are now more accurately judged by the algorithm. Not only that, but maps with fast sliders that have jumps between the sliders also receive a large buff compared to before. This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit from may see substantial buffs!
+
 ## Flashlight Rework
 
 One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014. In order to remedy this, flashlight will now scale at a much higher rate with the length of a map. To compensate for this increased buff for longer maps, the shorter maps that were previously played with flashlight will receive a small nerf.
