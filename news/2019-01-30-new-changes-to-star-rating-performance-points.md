@@ -24,7 +24,7 @@ As many players are well aware, the angle of a jump impacts how difficulty a pat
 
 As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
 
-Decided not to farm a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have more accurate star rating associated with them (this includes alt maps). And yes, they will be worth more PP as a result.
+Decided not to farm a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps). And yes, they will be worth more PP as a result.
 
 ## Streams and High BPM
 
@@ -36,13 +36,13 @@ In addition, a small nerf to very spaced streams has been introduced. These are 
 
 ## Slider Buffs
 
-Are you a fan of playing those impressive and previously under weighed tech maps with high slider velocity? 
+Are you a fan of playing those impressive and previously underweighed tech maps with high slider velocity? 
 
 Well, say no more! 
 
 While the specifics are quite complicated, in general these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also receive a large buff compared to before. 
 
-This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit from may see substantial buffs!
+This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit may see substantial buffs!
 
 ## Flashlight Rework
 
