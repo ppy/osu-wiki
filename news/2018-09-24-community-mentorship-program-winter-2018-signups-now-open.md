@@ -6,7 +6,7 @@ date: 2018-09-24 12:00:00 +0000
 
 Ever wanted to get into beatmapping for this game, but have no clue where to start at? In that case, the Community Mentorship program might be the way to start your mapping career!
 
-![](/wiki/shared/news/2018-09-24-community-mentorship-program-winter-2018-signups-now-open/banner.png)
+![](/wiki/shared/news/2018-09-24-community-mentorship-program-winter-2018-signups-now-open/banner.jpg)
 
 This program serves as a platform for new mappers and modders to get into the process more quickly by teaming them up with a more experienced mapper and modder in the community to show them the ropes for a total of 10 weeks.
 
