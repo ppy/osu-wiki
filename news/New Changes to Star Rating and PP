@@ -1,4 +1,6 @@
-Hello!
+Below is the PR for readability.
+
+"Hello!
 
 It is with anticipation that I, Xexxar, am here to announce changes to both the PP system as well as the star rating system. In fact, the star rating system, formally known as DiffCalc, has not received an update in several years, making this one of the most exciting updates to the game in a long time. The game has changed considerably since the last update to DiffCalc with the introduction of many new styles of maps and gameplay. While this change is not designed to fix every issue with the system, it's fundamental purpose is to better assess skills that may have been missing from previous iterations of the algorithm. Without further delay, let's get into the specifics.
 
@@ -14,7 +16,7 @@ In addition, a small nerf to very spaced streams has been introduced. These are 
 
 ## Slider Buffs
 
-Another exciting change is the introduction of a more accurate representation of slider difficulty. While the specifics are quite complicated, in general fast sliders are now more accurately judged by the algorithm. Not only that, but maps with fast sliders that have jumps between the sliders also receive a large buff compared to before. This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit from may see substantial buffs!
+Are you a fan of playing those impressive and previously under weighed tech maps with high slider velocity? Well say no more! While the specifics are quite complicated, in general these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also receive a large buff compared to before. This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit from may see substantial buffs!
 
 ## Flashlight Rework
 
@@ -33,4 +35,4 @@ Previously the algorithm rewarded extra aim PP for plays that were AR10.33+. Whi
 
 
 
-And that's it! These long needed changes to your scores will roll out over the next few days as scores are being reprocessed. I hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy farming!
+And that's it! These long needed changes to your scores will roll out over the next few days as scores are being reprocessed. I hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy farming!"
