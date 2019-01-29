@@ -48,7 +48,7 @@ This is a change that will help buff many tech maps with fast gimmicky sliders. 
 
 One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014. 
 
-In order to remedy this, flashlight will now scale at a much higher rate with the length of a map. To compensate for this increased buff for longer maps, the shorter maps that were previously played with flashlight will receive a small nerf.
+To remedy this, flashlight will now scale at a much higher rate with the length of a map. To compensate for this increased buff for longer maps, the shorter maps that were previously played with flashlight will receive a small nerf.
 
 ## Hidden Rework
 
