@@ -20,7 +20,7 @@ Without further delay, let's get into the specific changes:
 
 ## Wide Angle Jumps
 
-As many players are well aware, the angle of a jump impacts how difficulty a pattern is to combo. Evidence of this can be found all throughout modern mapping. Almost all maps that are popular for their PP values contain jumps that are typically non-linear. 
+As many players are well aware, the angle of a jump impacts how difficulty a pattern is to combo. Evidence of this can be found throughout modern mapping. Almost all maps that are popular for their PP values contain jumps that are typically non-linear.
 
 As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
 
