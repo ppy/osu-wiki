@@ -40,7 +40,7 @@ Are you a fan of playing those impressive and previously underweighed tech maps 
 
 Well, say no more! 
 
-While the specifics are quite complicated, in general these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also receive a large buff compared to before. 
+While the specifics are quite complicated, in general, these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also receive a large buff compared to before.
 
 This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit may see substantial buffs!
 
