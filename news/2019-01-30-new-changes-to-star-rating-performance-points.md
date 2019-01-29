@@ -62,7 +62,7 @@ Find yourself good at farming EZHD plays? You'll find a notable increase in perf
 
 These are the more minor technical changes that we introduced to keep things balanced. 
 
-In order to combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill. 
+To combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill.
 
 Note that this will only punish the speed PP from plays with accuracy under 95%. Aim is unaffected, so your 90% Harumachi Clover FC should still be worth around what it was before. 
 
