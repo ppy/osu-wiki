@@ -6,7 +6,7 @@ date: 2019-01-26 05:00:00 +0000
 
 Even though the new year is still full of uncertainties about the future of beatmap moderation, the show must go on, and so the Beatmap Nominator applications are opening once again!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 In the last cycle of applications, there was a total of 120 participants. After double-checking their modding activity, we established that 96 of the applicants were active enough in previous months in order to continue with the selection process. Lastly, and after further deliberations within the members of the Quality Assurance Team, we proudly announced at the end of October the addition of no less than 29 new Beatmap Nominators. We hope to see a similar positive result for this cycle!
 

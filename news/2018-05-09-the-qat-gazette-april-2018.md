@@ -6,7 +6,7 @@ date: 2018-05-09 11:00:00 +0000
 
 New rules on beatmap vetoing and disqualifications, contributor badges for long-serving Beatmap Nominators, the introduction of public QAT meetings and so much more in store for the busiest month of 2018 yet! Sound interesting? Of course it does! Read on to find out more!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
