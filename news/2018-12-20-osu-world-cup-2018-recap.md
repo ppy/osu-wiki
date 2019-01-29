@@ -6,7 +6,7 @@ date: 2018-12-20 11:00:00 +0000
 
 For over a month and a half, some of osu!'s best players embarked on the journey of the year in search of glory in the osu! World Cup 2018. Thirty-two teams from across the globe competed to showcase their skills for the championship, and over time, only three were left standing in the Grand Finals weekend – Germany, the United Kingdom, and the United States. From there, it was a grand showdown between three of osu!'s most titanic teams for the crown, and boy was it a battle!
 
-![](/wiki/shared/news/banners/OWC_2018_banner.png)
+![](/wiki/shared/news/banners/OWC_2018_banner.jpg)
 
 In a distinct departure from other years, the osu! World Cup (or OWC) featured its own Grand Finals specific mappool this year, where the playing field was bumped up a notch in difficulty again, forcing players to revise their strategies and picks from the Finals matches.
 
