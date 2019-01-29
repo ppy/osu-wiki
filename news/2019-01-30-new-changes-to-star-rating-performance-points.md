@@ -32,7 +32,7 @@ Besides the changes to aim, there has been an adjustment to how streams are hand
 
 Able to FC 300 BPM stacks with your laptop keyboard? This is the change you've been waiting for. 
 
-In addition, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as Honesty and Sidetracked Days. While the nerf is sizable, these plays are still quite impressive and are still worth a lot, just not quite as much as they were worth before.
+In addition, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as Honesty and Sidetracked Day. While the nerf is sizable, these plays are still quite impressive and are still worth a lot, just not quite as much as they were worth before.
 
 ## Slider Buffs
 
