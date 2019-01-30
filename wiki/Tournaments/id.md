@@ -92,6 +92,12 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/osu.png) osu! Tag Team Multiplayer Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/oTTMT/1) | 2009-06-12 | 2009-09-06 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
+
 ### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
@@ -113,6 +119,13 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](/users/1629553) | ![][flag_MY] [wuhua](/users/2932510) | ![][flag_SG] [Elegant Loli](/users/3010281) |
 | [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](/users/4750008) | ![][flag_SG] [GSBlank](/users/2312106) | ![][flag_ID] [Rexeez](/users/1987591) |
+
+### ![](/wiki/shared/mode/osu.png) osu! European Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
@@ -236,6 +249,12 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
 
 Lihat juga
 ----------
