@@ -168,8 +168,8 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 #### Sunday, 3 February 2019
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | #3¹ | Mooha | ![][flag_FR] | ![][flag_FR] | NerO | **16:45** |
 | #4¹ | ThePooN | ![][flag_FR] | ![][flag_FR] | NerO | **17:30** |
 | #5¹ | Mooha | ![][flag_FR] | ![][flag_FR] | Flaven | **15:45** |
