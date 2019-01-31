@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/156944882668/osutaiko-world-cup-2017-
 ---
 We'd like to welcome all of you to this year's official osu!taiko World Cup. As in every year, the rules have been adjusted from the previous TWC, so please **[read them carefully](https://new.ppy.sh/wiki/Tournaments/TWC/2017)** before registering for this tournament.
 
-![](https://puu.sh/tSvrR/147a4a2551.png)
+![](/wiki/shared/news/banners/twc2017.jpg)
 
 For more details, refer to the **[osu!taiko World Cup 2017 wiki article](https://new.ppy.sh/wiki/Tournaments/TWC/2017)**.
 You can discuss this event in the **[official forum thread](https://new.ppy.sh/forum/t/555072)**.
