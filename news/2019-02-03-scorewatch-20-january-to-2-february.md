@@ -8,7 +8,7 @@ Did you miss Scorewatch? We're back again with some insane plays to showcase all
 
 ![](/wiki/shared/news/2019-02-03-scorewatch-20-january-to-2-february/banner.jpg)
 
-The Scorewatch project has been inactive for quite a while now, but [FayeurS 5]() and I are making an effort to bring it back. For now, we'll be running on a bi-weekly schedule (instead of the previous weekly): we're still working out the organization of this project and don't have a lot of people contributing. Next time, we will have more information about the future of Scorewatch and how you can contribute, if you would like to =).
+The Scorewatch project has been inactive for quite a while now, but [FayeurS 5](/users/6177263) and I are making an effort to bring it back. For now, we'll be running on a bi-weekly schedule (instead of the previous weekly): we're still working out the organization of this project and don't have a lot of people contributing. Next time, we will have more information about the future of Scorewatch and how you can contribute, if you would like to =).
 
 That being said, let's check out the scores!
 
