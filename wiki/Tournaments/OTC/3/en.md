@@ -93,32 +93,53 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 -----------------------
 
-## Match Schedules: Round of 32
+## Match Schedules: Quarterfinals
 
-### Saturday, 26 January 2019
+### Saturday, 2 February 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Crystal | ![][flag_CN] | ![][flag_MN] | seegii | **10:00** |
-| #2 | Aden | ![][flag_RU] | ![][flag_KR] | ftg | **11:00** |
-| #5 | Bubbleman | ![][flag_GB] | ![][flag_AU] | Takagaki | **12:00** |
-| #14 | Xilver15 | ![][flag_IL] | ![][flag_DE] | Megure | **13:00** |
-| #13 | Okinotori | ![][flag_RU] | ![][flag_PL] | MrBooM | **14:00** |
-| #8 | Riven | ![][flag_GR] | ![][flag_RU] | neko ds | **15:00** |
-| #10 | Ayla | ![][flag_UA] | ![][flag_BR] | My Angelsim | **16:00** |
-| #3 | Musty | ![][flag_FR] | ![][flag_AT] | Teppi | **17:00** |
-| #4 | badeu | ![][flag_RO] | ![][flag_AR] | -Urushihara- | **18:00** |
-| #7 | Knalli | ![][flag_DE] | ![][flag_PL] | Marek Marucha | **18:00** |
-| #15 | \_demo | ![][flag_PL] | ![][flag_US] | WillCookie | **19:00** |
-| #12 | Hanori | ![][flag_BE] | ![][flag_US] | Cappy | **19:00** |
-| #16 | Gifted | ![][flag_US] | ![][flag_DE] | Dustice | **20:00** |
-| #11 | Woey | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
-| #6 | Tekkito | ![][flag_US] | ![][flag_US] | Jace | **22:00** |
-| #9 | Junjou | ![][flag_US] | ![][flag_US] | Apraxia | **23:00** |
+| #33 | ftg | ![][flag_KR] | ![][flag_US] | WillCookie | **03:00** |
+| #47 | Apraxia | ![][flag_US] | ![][flag_US] | Woey | **05:00** |
+| #45 | Crystal | ![][flag_CN] | ![][flag_AT] | Teppi | **13:00** |
+| #40 | Dustice | ![][flag_DE] | ![][flag_MN] | seegii | **14:00** |
+| #46 | Bubbleman | ![][flag_GB] | ![][flag_RU] | neko ds | **15:00** |
+| #48 | Xilver15 | ![][flag_IL] | ![][flag_PL] | \_demo | **16:00** |
+| #39 | Okinotori | ![][flag_RU] | ![][flag_FR] | Musty | **17:00** |
+| #37 | Ayla | ![][flag_UA] | ![][flag_PL] | Marek Marucha | **17:00** |
+| #34 | badeu | ![][flag_RO] | ![][flag_PL] | MrBooM | **18:00** |
+| #36 | Knalli | ![][flag_DE] | ![][flag_BR] | My Angelsim | **19:00** |
+| #35 | Jace | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
+| #38 | Cappy | ![][flag_US] | ![][flag_US] | Tekkito | **22:00** |
 
 -----------------------
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (163 MB)](http://www.mediafire.com/file/6bnzwt6be53dt6q/OTC+%233+QF+Mappool.zip)**
+
+- NoMod
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (fanzhen0019) \[fanzhen's Hi-Speed Extra\]](/beatmapsets/139525#osu/367763)
+  - [YURRY CANON - Nadeshiko color Heart (Saturnalize \[Saturnalize's Extra\]](/beatmapsets/682996#osu/1463294)
+  - [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry, Ameth Rianno) \[Neil x Ameth's Conflux\]](/beatmapsets/881753#osu/1843575)
+  - [xi - .357 Magnum (Akali) \[High Noon\]](/beatmapsets/155749#osu/546944)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver) \[ReMiX\]](/beatmapsets/586425#osu/1241924)
+- Hidden
+  - [YUC'e - Future Cider (Sing) \[Duplication\]](/beatmapsets/591674#osu/1252022)
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (nold\_1702) \[Nold's Posthumous\]](/beatmapsets/261911#osu/736300)
+  - [Wakeshima Kanon - Shoujo Shikake no Libretto \~Storytelling by solita\~ (Deramok) \[Dreaming of The Imminent\]](/beatmapsets/636105#osu/1349819)
+- HardRock
+  - [aran - VOLT (USAO Remix) (Plaudible) \[Plaudible's Extra\]](/beatmapsets/732280#osu/1631406)
+  - [Nekomata Master - Byakuya Gentou (ignorethis) \[EX\]](/beatmapsets/36849#osu/119375)
+  - [M2U - Dual Fractal (Bor) \[bor's Another\]](/beatmapsets/865577#osu/1826401)
+- DoubleTime
+  - [LeaF - I (Maddy) \[Hyper\]](/beatmapsets/99244#osu/264894)
+  - [Ocelot - KAEDE (Kawashiro) \[Kawa's Extra\]](/beatmapsets/660630#osu/1418838)
+  - [EYE\_XY feat. Yoneko - Knight of Firmament (LMT) \[LMT's Insane\]](/beatmapsets/317749#osu/1622359)
+- Tiebreaker
+  - [AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](/beatmapsets/530818#osu/1125109)
 
 ### Round of 32 / Round of 16
 
@@ -169,6 +190,55 @@ The osu! Technical Championship #3 is run by various osu! community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 32 / Round of 16
+
+| Friday, 2019-01-25 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_US] WillCookie | [#1](/community/matches/49123674) |
+
+| Saturday, 2019-01-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Crystal** ![][flag_CN] | **5** | 0 | ![][flag_MN] seegii | [#1](/community/matches/49139736) |
+| Aden ![][flag_RU] | 0 | **5** | ![][flag_KR] **ftg** | -win by default- |
+| Musty ![][flag_FR] | 1 | **5** | ![][flag_AT] **Teppi** | [#1](/community/matches/49149236) |
+| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_AR] -Urushihara- | [#1](/community/matches/49151090) |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_AU] Takagaki | [#1](/community/matches/49160169) |
+| Tekkito ![][flag_US] | 3 | **5** | ![][flag_US] **Jace** | [#1](/community/matches/49160169) |
+| **Knalli** ![][flag_DE] | **5** | 4 | ![][flag_PL] Marek Marucha | [#1](/community/matches/49151041) |
+| Riven ![][flag_GR] | 2 | **5** | ![][flag_RU] **neko ds** | [#1](/community/matches/49145947) |
+| Junjou ![][flag_US] | 3 | **5** | ![][flag_US] **Apraxia** | [#1](/community/matches/49130585) |
+| **Ayla** ![][flag_UA] | **5** | 4 | ![][flag_BR] My Angelsim | [#1](/community/matches/49147628) |
+| **Woey** ![][flag_US] | **5** | 4 | ![][flag_BR] Mystia | [#1](/community/matches/49152627) |
+| Hanori ![][flag_BE] | 1 | **5** | ![][flag_US] **Cappy** | [#1](/community/matches/49152673) |
+| **Okinotori** ![][flag_RU] | **5** | 4 | ![][flag_PL] MrBooM | [#1](/community/matches/49144244) |
+| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_DE] Megure | -win by default- |
+| Gifted ![][flag_US] | 0 | **5** | ![][flag_DE] **Dustice** | [#1](/community/matches/49155512) |
+
+| Sunday, 2019-01-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Crystal** ![][flag_CN] | **5** | 2 | ![][flag_KR] ftg | [#1](/community/matches/49170807) |
+| **Teppi** ![][flag_AT] | **5** | 3 | ![][flag_RO] badeu | [#1](/community/matches/49176070) |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_US] Jace | [#1](/community/matches/49185178) |
+| Knalli ![][flag_DE] | 3 | **5** | ![][flag_RU] **neko ds** | [#1](/community/matches/49176266) |
+| Okinotori ![][flag_RU] | 3 | **5** | ![][flag_IL] **Xilver15** | [#1](/community/matches/49181998) |
+| **seegii** ![][flag_MN] | **5** | 1 | ![][flag_RU] Aden | [#1](/community/matches/49171765) |
+| **MrBooM** ![][flag_PL] | **5** | 0 | ![][flag_DE] Megure | -win by default- |
+| **Marek Marucha** ![][flag_PL] | **5** | 0 | ![][flag_GR] Riven | -win by default- |
+| **Mystia** ![][flag_BR] | **5** | 1 | ![][flag_BE] Hanori | [#1](/community/matches/49181768) |
+| **WillCookie** ![][flag_US] | **5** | 0 | ![][flag_US] Gifted | -win by default- |
+| Junjou ![][flag_US] | 2 | **5** | ![][flag_BR] **My Angelsim** | [#1](/community/matches/49181768) |
+
+| Monday, 2019-01-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Woey** ![][flag_US] | **5** | 4 | ![][flag_US] Cappy | [#1](/community/matches/49188022) |
+| Takagaki ![][flag_AU] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](/community/matches/49190339) |
+| **Apraxia** ![][flag_US] | **5** | 1 | ![][flag_UA] Ayla | [#1](/community/matches/49193498) |
+| **\_demo** ![][flag_PL] | **5** | 4 | ![][flag_DE] Dustice | [#1](/community/matches/49204563) |
+
+| Tuesday, 2019-01-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Musty** ![][flag_FR] | **5** | 1 | ![][flag_AR] -Urushihara- | [#1](/community/matches/49224571) |
 
 ### Group Stage
 
