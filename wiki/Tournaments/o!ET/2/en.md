@@ -205,9 +205,9 @@ The osu! European Tournament 2 Is run by various community members.
 8. Winners from the previous editions will not get any disadvantage regarding their own line-up: they are free to have the same as last edition.
 9. Players may not sign-up as a free-agent: if players wish to be scouted by other teams/players, a `#free-agents` text chat will be opened on our Discord server.
 10. Mappool format will go as follows:
-    - Qualifiers: 2 NM/1 HD/1 HR/1 DT.
-    - Group Stage: 5 NM/2 HD/2 HR/2 DT/3 FM/1 Tiebreaker.
-    - RO16 and onwards: 6 NM/3 HD/3 HR/3 DT/3 FM/1 Tiebreaker.
+    - Qualifiers: 2 NoMod/1 Hidden/1 HardRock/1 DoubleTime.
+    - Group Stage: 5 NoMod/2 Hidden/2 HardRock/2 DoubleTime/3 FreeMod/1 Tiebreaker.
+    - RO16 and onwards: 6 NoMod/3 Hidden/3 HardRock/3 DoubleTime/3 FreeMod/1 Tiebreaker.
 
 ### Match Procedures
 
@@ -216,7 +216,7 @@ The osu! European Tournament 2 Is run by various community members.
 3. Matches will be played using TeamVS, ScoreV2 settings, which means the score of each player will be capped to 1M(+mod multiplier(s)&spinner bonus), but also that if two players from the same team fail, a point will be awarded to the other team who passed, even if there is only one player alive or if they fail afterwards. Failed scores **do not** count.
 4. Each team will be granted a warmup map before the match starts. Its drain length may not exceed 4 minutes. If you wish to skip your warmup map, let your referee know. There will not be any warmup map during both Group Stage and Qualifiers Stage.
 5. Captains may roll whenever the referee may ask them to do so. The winner of the roll will pick the first warmup map, will ban a pick in second and will choose a map that is not neither a banned map, nor the tiebreaker. You can not undo a ban using your own ban. There will be 2 bans per team, and they will be alternated (e.g. Team 2 loses the roll, the ban order will go like this: 2-1-2-1 then picking phase).
-6. A match may conclude whenever a team reaches the required amount of points the Best Of (BO) asks for. More details below.
+6. A match may conclude whenever a team reaches the required amount of points the Best Of (BO) asks for. More details, see [Winning Conditions](#winning-conditions) below.
 
 ### Winning Conditions
 
