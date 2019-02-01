@@ -6,7 +6,7 @@ date: 2018-04-02 06:00:00 +0000
 
 Restructuring of the Quality Assurance Team, more communication and transparency regarding decision-making, and a greater focus on actually ensuring quality in the Qualified section again... Big changes to discuss this month, so read inside to find out all the details!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening 
 by [JBHyperion](https://osu.ppy.sh/users/4879508)

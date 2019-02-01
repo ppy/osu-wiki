@@ -6,7 +6,7 @@ date: 2018-02-27 09:00:00 +0000
 
 What's been happening in the Beatmap Nominators and Quality Assurance Team, you ask? Mapping successes, exciting current developments and many new team additions all round, that's what! Read on to find out all the details!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 Welcome back everyone!
 
