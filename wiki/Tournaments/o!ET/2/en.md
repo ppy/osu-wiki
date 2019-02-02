@@ -87,7 +87,7 @@ The osu! European Tournament 2 Is run by various community members.
 | **7k BOIZ** | **![][flag_PL] [-Sylvari](/users/3493804)**, ![][flag_PL] [bartekran456](/users/4981809), ![][flag_PL] [-kRs](/users/6995868) |
 | **nice mental** | **![][flag_FI] [My Angel Kare](/users/8952423)**, ![][flag_FI] [Ale](/users/4865451) |
 | **Lux Aeterna** | **![][flag_IT] [- Satori](/users/4643986)**, ![][flag_IT] [Surpy](/users/9961436), ![][flag_IT] [SIMONETRAPANI](/users/7329177) |
-| **Noviy Geroy** | **![][flag_RU] [\[MoorE\]](/users/2262143)**, ![][flag_RU] [arqx](/users/2569683), ![][flag_RU] [\_crumbling](/users/895393)
+| **Noviy Geroy** | **![][flag_RU] [\[MoorE\]](/users/2262143)**, ![][flag_RU] [arqx](/users/2569683), ![][flag_RU] [\_crumbling](/users/895393) |
 
 ### Middle Bracket
 
