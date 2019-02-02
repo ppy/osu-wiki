@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "New Changes to Star Rating and Performance Points"
-date: 2019-01-30 01:00:00 +0000
+date: 2019-02-05 01:00:00 +0000
 ---
 
 After many years of stagnancy, some changes are finally coming to the way Star Rating and Performance Points are calculated! Read on to find out more.
 
-![](temporary.banner)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
 
 Hello!
 
