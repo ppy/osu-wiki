@@ -42,8 +42,8 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
-| Commentators | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941),  ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565),, ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
+| Commentators | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
@@ -59,27 +59,27 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 | | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[lxlucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
+| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [UrsoManso](https://osu.ppy.sh/users/4569601), [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | ![][flag_CA] | **Canada** | **[Sinaeb](https://osu.ppy.sh/users/1576095)**, [LelPop](https://osu.ppy.sh/users/10242770), [XzVx](https://osu.ppy.sh/users/12286606), [Tagua](https://osu.ppy.sh/users/3665472) |
 | ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [ZhangFan](https://osu.ppy.sh/users/89545), [Wilben_Chan](https://osu.ppy.sh/users/6659363), [qx0407](https://osu.ppy.sh/users/10569738) |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Matiias](https://osu.ppy.sh/users/3215366), [Asagaki](https://osu.ppy.sh/users/2632902), [Sebaex](https://osu.ppy.sh/users/4686036) |
 | ![][flag_DK] | **Denmark** | **[mart732c](https://osu.ppy.sh/users/4402263)**, [qNibbe](https://osu.ppy.sh/users/5001658), [Jole](https://osu.ppy.sh/users/2883132), [Optane](https://osu.ppy.sh/users/7871427) |
 | ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [CharlisMadCut](https://osu.ppy.sh/users/2863607), [AntoAa](https://osu.ppy.sh/users/3897919), [Cunu](https://osu.ppy.sh/users/7190228) |
-| ![][flag_DE] | **Germany** | **[Dualshock](https://osu.ppy.sh/users/1902591)** , [Malox](https://osu.ppy.sh/users/4516252), [ReTLoM](https://osu.ppy.sh/users/2271049), [playin14](https://osu.ppy.sh/users/2144038) |
+| ![][flag_DE] | **Germany** | **[Dualshock](https://osu.ppy.sh/users/1902591)**, [Malox](https://osu.ppy.sh/users/4516252), [ReTLoM](https://osu.ppy.sh/users/2271049), [playin14](https://osu.ppy.sh/users/2144038) |
 | ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Sn7_1163](https://osu.ppy.sh/users/10353103), [Nakoii](https://osu.ppy.sh/users/12874576) |
 | ![][flag_ID] | **Indonesia** | **[Snowdrop](https://osu.ppy.sh/users/1031263)**, [Exyph](https://osu.ppy.sh/users/10364342), [Nyooo](https://osu.ppy.sh/users/2319372), [hidea022](https://osu.ppy.sh/users/7226693) |
-| ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/users/8574116)**, [-\[N A D A V V\]-](https://osu.ppy.sh/users/7673299), [Zeevee](https://osu.ppy.sh/users/9493441) |
+| ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/users/8574116)**, [nadavv](https://osu.ppy.sh/users/7673299), [Zeevee](https://osu.ppy.sh/users/9493441) |
 | ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/users/6172698)**, [Lenxis_](https://osu.ppy.sh/users/10133496) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [capchon](https://osu.ppy.sh/users/8566617) |
 | ![][flag_NL] | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [Redon](https://osu.ppy.sh/users/3572355), [Penda](https://osu.ppy.sh/users/4268370), [Redenor](https://osu.ppy.sh/users/6964358) |
 | ![][flag_PH] | **Philippines** | **[Cielo Day](https://osu.ppy.sh/users/2722489)**, [Dadots](https://osu.ppy.sh/users/3525251), [- Kura -](https://osu.ppy.sh/users/11420405), [Entozer](https://osu.ppy.sh/users/277044) |
-| ![][flag_PL] | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)**, [Hudonom](https://osu.ppy.sh/users/1654221),[DaDarkDragon](https://osu.ppy.sh/users/8902097), [Benzopirene](https://osu.ppy.sh/users/1887068) |
+| ![][flag_PL] | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)**, [Hudonom](https://osu.ppy.sh/users/1654221), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Benzopirene](https://osu.ppy.sh/users/1887068) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Daleenie](https://osu.ppy.sh/users/1540597), [timebuka](https://osu.ppy.sh/users/6857841), [Flexo123](https://osu.ppy.sh/users/5367287) |
 | ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [Seiryuu](https://osu.ppy.sh/users/2808028), [Eskalade](https://osu.ppy.sh/users/9093634), [Zerulite](https://osu.ppy.sh/users/7349397) |
 | ![][flag_KR] | **South Korea** | **[Jakads](https://osu.ppy.sh/users/259972)**, [wonder5193](https://osu.ppy.sh/users/8474029), [NKEYBOARD](https://osu.ppy.sh/users/10132430), [Estonians](https://osu.ppy.sh/users/7014697) |
 | ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Vortex-](https://osu.ppy.sh/users/4999669), [Craty](https://osu.ppy.sh/users/3918056), [Stug](https://osu.ppy.sh/users/4899311) |
-| ![][flag_TW] | **Taiwan** | **[FoxTailTofu](https://osu.ppy.sh/users/1793562)**,[\[ Snow Rabbit \]](https://osu.ppy.sh/users/1833280) |
+| ![][flag_TW] | **Taiwan** | **[FoxTailTofu](https://osu.ppy.sh/users/1793562)**, [\[ Snow Rabbit \]](https://osu.ppy.sh/users/1833280) |
 | ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [KenZ](https://osu.ppy.sh/users/437945), [BossMadWolf](https://osu.ppy.sh/users/2772110), [harlemshake555](https://osu.ppy.sh/users/7355319) |
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [Lelloq](https://osu.ppy.sh/users/8610776) |
 | ![][flag_US] | **United States** | **[-Squishy](https://osu.ppy.sh/users/4372604)**, [stupud man](https://osu.ppy.sh/users/2141612), [Gekido-](https://osu.ppy.sh/users/4693052), [AYAYAA](https://osu.ppy.sh/users/4980256) |
