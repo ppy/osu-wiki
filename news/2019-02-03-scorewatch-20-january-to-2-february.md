@@ -120,7 +120,7 @@ Despite this map looking quite your usual pp map on nomod, Motion took it to the
 [Shyeart](/users/2022144): [Rainbow Dash Likes Girls (Stay Gay Pony Girl) [Holy Shit! It's Rainbow Dash!!]](/beatmapsets/57255#fruits/172662) **SS** 358pp  
 *22 January 2019, Ranked*
 
-After nearly 7 years of it existing, Shyeart finally does what may have considered impossible at this point, FC'ing Rainbow Dash with nomod. Funnily enough, this ended up happening the same month Vaxei got the first ever FC on it, but on standard too.
+After nearly 7 years of it existing, Shyeart finally does what may have been considered impossible before this point, FC'ing Rainbow Dash with nomod. Funnily enough, this ended up happening the same month Vaxei got the first ever FC on it, but on standard too.
 
 [Dusk](/users/533210): [Kikoku Doukoku Jigokuraku [Notch Hell]](/beatmapsets/437683#fruits/942356) **S** (1402x, 98.14%) 178pp  
 *28 January 2019, Ranked*
@@ -137,7 +137,7 @@ ekr comes through with an impressive FC, on an AR9.4DT jump map, where not only 
 [Jakads](/users/259972): [Doppelganger [jakads' Extra]](/beatmapsets/407153#mania/1023967) +NC **S** (847,305 95.93%) 1083pp  
 *20 January 2019, Ranked*
 
-jakads being jakads as always, comes in and sets the new pp record in mania, now sitting at 1083pp, done on his own map as well. This way, he also breaks the older pp record, hold by... himself, on the higher difficulty of this mapset, which is worth 1078pp.
+jakads being jakads as always, comes in and sets the new pp record in mania, now sitting at 1083pp, done on his own map as well. This way, he also breaks the older pp record, held by... himself, on the higher difficulty of this mapset, which is worth 1078pp.
 
 [WindyS](/users/1190879): [Smiling [Be Happy]](/beatmapsets/810911#mania/1701215) +DT **S** (922,006 98.34%) 945pp  
 *1 February 2019, Ranked*
