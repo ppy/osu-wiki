@@ -93,17 +93,17 @@ This map has it all, from streams that change their spacing to good old fashion 
 [goheegy](/users/8057655): [True Blue [DJ Command Mix] (Full Ver.) [Broken Love]](/beatmapsets/643803#taiko/1364659) +DT **S** (99.87%) 546pp  
 *27 January 2019, Ranked*
 
-This was recently one of his most consistent Double Time scores that he's ever achieved. With an outstanding 6x100, goheegy has taken the record for the highest consistency on the Double Time Leaderboards for this map. All while performing this outstanding play under the DDKK Playstyle which is a playstyle not many players have mastered.
+This is one of goheegy's most consistent DoubleTime scores that he's ever achieved. With an outstanding 6x100, he's taken the record for the highest consistency on the DoubleTime leaderboards for this map, all while performing this outstanding play under the DDKK playstyle, which is one that not many players have mastered.
 
 [shinchikuhome](/users/3174184): [A Fool Moon Night [Lv.300]](/beatmapsets/538780#taiko/1526770) +DT **S** (99.80%)  
 *25 January 2019, Loved*
 
-Shinchikuhome manages to show us time and time again how impressive his Double Time Skills are as he FCs the loved map, "A Fool Moon Night". It may seem like this is pretty easy at first, but this map contains a long barrage of 1/8 doublets clocking in at over 200bpm which makes it extremely difficult to hit them all in succession. He is one of the only two people that has been able to FC this map at such a rapid speed. 
+shinchikuhome manages to show us time and time again how impressive his DoubleTime skills are as he FCs the Loved map, "A Fool Moon Night". It may seem like this is pretty easy at first, but this map contains a long barrage of 1/8 doublets clocking in at over 200 BPM, which makes it extremely difficult to hit them all in succession. He is one of the only two people that has been able to FC this map at such a rapid speed.
 
 [goheegy](/users/8057655): [HAELEQUINZ -the clown of 24stairs- [Knights of the Round]](/beatmapsets/623427#taiko/1313997) +HR **S** (99.55%) 460pp  
 *26 January 2019, Ranked*
 
-This map is a very good indicator of showing just how much goheegy's HR skills have progressed over the past few months. With the only HR FC at a very high 99.55% accuracy on the leaderboards, he has shown to be quite capable of being able to consistently read even the trickiest of 1/6 patterns. 
+This map is a very good indicator of showing just how much goheegy's HR skills have progressed over the past few months. With the only HR FC at a very high 99.55% accuracy on the leaderboards, he has shown to be quite capable of being able to consistently read even the trickiest of 1/6 patterns.
 
 ## osu!catch
 
@@ -112,33 +112,33 @@ This map is a very good indicator of showing just how much goheegy's HR skills h
 [Motion](/users/3885626): [Target o Kowase! [Click the Circles!]](/beatmapsets/542759#fruits/1150427) +HD,DT **Silver SS** 408pp  
 *20 January 2019, Ranked*
 
-Very impressive demonstration of Motion's DT platter control. This play, with an amount of ridiculously fast sliders just shows how much of a skilled player Motion is. Despite the play being 32 seconds left, it's an amazing rundown of skill.
+Very impressive demonstration of Motion's DT platter control. This play, with an amount of ridiculously fast sliders, just shows how much of a skilled player Motion is. Despite the play being only 32 seconds, it's an amazing show of skill.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Ox64P8ObR1I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Motion](/users/3885626): [Dried Up Youthful Fame (TV Size) [Collab Overdose]](/beatmapsets/544889#fruits/1154582) +HD,DT **Silver S** (FC, 99.75%) 706pp  
 *20 January 2019, Ranked*
 
-Despite this map looking quite your usual pp map on nomod, Motion took it to the next level by getting the first ever FC on it, while being the second HDDT pass along with ekr, who "only" has 97.73% accuracy, compared to Motion's impressive 99.75% FC. This map is quite a ruthless 330BPM jump map with DT, and is definitely worth looking at.
+Despite this map looking quite your usual pp map on NoMod, Motion took it to the next level by getting the first ever FC on it, while being the second HDDT pass along with [ekr](/users/4497706), who "only" has 97.73% accuracy, compared to Motion's impressive 99.75% FC. This map is quite a ruthless 330 BPM jump map with DT, and is definitely worth looking at.
 
 [Shyeart](/users/2022144): [Rainbow Dash Likes Girls (Stay Gay Pony Girl) [Holy Shit! It's Rainbow Dash!!]](/beatmapsets/57255#fruits/172662) **SS** 358pp  
 *22 January 2019, Ranked*
 
-After nearly 7 years of it existing, Shyeart finally does what may have been considered impossible before this point, FC'ing Rainbow Dash with nomod. Funnily enough, this ended up happening the same month Vaxei got the first ever FC on it, but on standard too.
+After nearly 7 years of it existing, Shyeart finally does what may have been considered impossible before this point, FC'ing Rainbow Dash with nomod. Funnily enough, this ended up happening the same month [Vaxei](/users/4787150) got the first ever FC on it, but on standard too.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/IqQilwXoOVM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Dusk](/users/533210): [Kikoku Doukoku Jigokuraku [Notch Hell]](/beatmapsets/437683#fruits/942356) **S** (1402x, 98.14%) 178pp  
 *28 January 2019, Ranked*
 
-This score is well... quite something. An S on this map was to be expected after it got featured on AxS, one of the biggest tournaments in ctb, but not with this kind of ridiculous combo that Dusk got, being the 3rd best combo AND the second S ever on the map. Especially since you have to give up your accuracy usually, if you want to get a good combo on this map, but Dusk just comes and shows a ridiculous amount of control to be able to get such a score.
+This score is well... quite something. An S on this map was to be expected after it got featured on AxS, one of the biggest tournaments in osu!catch, but not with this kind of ridiculous combo that Dusk got, being the 3rd best combo AND the second S ever on the map. Especially since you have to give up your accuracy usually, if you want to get a good combo on this map, but Dusk just comes and shows a ridiculous amount of control to be able to get such a score.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/sTSUqpLGpDk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [ekr](/users/4497706): [RESISTER (TV Size) [Overdose]](/beatmapsets/909911#fruits/1898783) +HD,DT **Silver S** (99.51%) 779pp  
 *27 January 2019, Ranked*
 
-ekr comes through with an impressive FC, on an AR9.4DT jump map, where not only he has the first pass, but also the first FC ever, and that only within 3 days of the map being ranked.
+ekr comes through with an impressive FC, on an AR9.4DT jump map, where not only he has the first pass, but also the first FC ever, and that only within three days of the map being ranked.
 
 ## osu!mania
 
@@ -155,12 +155,12 @@ WindyS, one of the best 7K players in this game, off to a strong comeback alread
 [WindyS](/users/1190879): [Just Hold on (To All Fighters) [Resolve]](/beatmapsets/409440#mania/888793) +DT **S** (876,859 96.79%) 925pp  
 *1 February 2019, Ranked*
 
-Now for the second score of WindyS here, which may be just as ridiculous as the first one. As a side note, this map is 6.87* nomod, and becomes 9.57* with DT. It's just pure stream and LN-hell at 255BPM for 3 minutes only yes, but it is definitely not the easiest stamina-wise still.
+Now for the second score of WindyS here, which may be just as ridiculous as the first one. As a side note, this map is 6.87 stars nomod, and becomes 9.57 stars with DT. It's just pure stream and LN-hell at 255 BPM for 3 minutes only yes, but it is definitely not the easiest stamina-wise still.
 
 [wonder5193](/users/8474029): [What is Love? [I Wanna Know]](/beatmapsets/765296#mania/1609060) **S** (993,263 99.94%)  
 *1 February 2019, Loved*
 
-wonder is back at it again, getting the first FC ever on a map, with the best accuracy and ratio on the leaderboard. This map is extremely LN (long notes)-heavy, so being consistent on 6k combo of this, *and* getting only 6x100 on this makes it even more impressive.
+wonder is back at it again, getting the first FC ever on a map, with the best accuracy and ratio on the leaderboard. This map is extremely LN-heavy, so being consistent on 6k combo of this, *and* getting only 6x100 on this makes it even more impressive.
 
 ---
 
