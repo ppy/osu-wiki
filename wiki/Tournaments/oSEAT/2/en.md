@@ -43,7 +43,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The osu! South East Tournament 2 was run by various community members.
+The osu! South East Asia Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
