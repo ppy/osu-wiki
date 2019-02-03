@@ -75,7 +75,7 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](/users/8057655) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [Ikkun](/users/1059945) |

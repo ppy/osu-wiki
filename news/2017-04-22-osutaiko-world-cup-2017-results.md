@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/159858161773/osutaiko-world-cup-2017-
 Drumming thundered out across the heavens as the osu!taiko World Cup 2017 concluded, with our winners finally decided after weeks of grueling matches!
 <!-- more -->
 
-![](http://puu.sh/vsoby/83e0065f93.png)
+![](/wiki/shared/news/banners/twc2017.jpg)
 
 Over the course of six hellish weeks, the best of osu!taiko's best slogged it out in a 24-team worldwide frenzy to determine the Don of dons. TWC 2017 was a far cry from last year's tournament, with scoreV2 shaking up the very foundations of the contest, as well as a fiendishly difficult mappool the likes of which the TWC has never seen before.
 

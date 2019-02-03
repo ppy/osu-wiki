@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT 2 Logo](img/logo.png)
 
-The **osu! South East Asia Tournament 2** (***oSEAT 2***) is a double elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). It is the 2nd installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 2** (***oSEAT 2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). It was the second installment of the osu! South East Asia Tournament.
 
 ## Tournament Schedule
 
@@ -37,11 +37,13 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | *4th place* | 1 month of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
-*Note: 5th place will be determined by a playoff.*
+*Note: 5th place was determined by a playoff.*
+
+![oSEAT 2 Winner Badge](img/badge.png)
 
 ## Organisation
 
-The osu! South East Tournament 2 is run by various community members.
+The osu! South East Asia Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -53,14 +55,15 @@ The osu! South East Tournament 2 is run by various community members.
 | Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_VN] [Yaezaki](/users/11254509) |
 | Web Developers | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_DE] [Borengar](/users/3312177) |
 | Statistician | ![][flag_VN] [steve\_04\_](/users/10852911) |
-| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Wiki | ![][flag_ID] [Naruk](/users/7100002) |
 
 ## Links
 
 - [Discussion thread](/community/forums/topics/819383)
 - [oSEAT Discord server](https://discord.gg/UbwzpG6)
+- [Challonge brackets](https://challonge.com/oseat2)
 - [Livestream](https://www.twitch.tv/oseatournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml#)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml)**
 
 -----------------------
 
@@ -97,37 +100,25 @@ The osu! South East Tournament 2 is run by various community members.
 
 -----------------------
 
-## Match Schedules: Finals
+## Podium
 
-### Friday, 18 January 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| MB | Crezz | ![][flag_ID] | ![][flag_SG] | GSBlank | **22:00** |
-
-### Saturday, 19 January 2019
-
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| MA | Raindrop | ![][flag_SG] | ![][flag_SG] | SeeL | **22:00** |
-
-### Sunday, 20 January 2019
-
-| Match Code | Player A |  |  | Player B | Match Time (UTC+8) |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| LA | Rexeez | ![][flag_ID] | ![][flag_ID] | Skydiver | **13:30** |  |
-| NA-1 | Raindrop | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
-| NA-2 | Raindrop | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
-| NA-3 | SeeL | ![][flag_SG] | ![][flag_MY] | Crezz | **13:30** | ¹ |
-| NA-4 | SeeL | ![][flag_SG] | ![][flag_MY] | GSBlank | **22:00** | ¹ |
-
-¹ Encounter dependent on winner of Match MA and Match MB
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_ID] [Skydiver](/users/4750008) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [GSBlank](/users/2312106) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ID] [Rexeez](/users/1987591) |
+| *4th place* | ![][flag_SG] [Raindrop](/users/1155871) |
+| *5th place* | ![][flag_SG] [SeeL](/users/5104320) |
 
 -----------------------
 
 ## Mappools
 
 ### Finals
+
+ **This mappool was played in Finals and Grand Finals.**
 
 **[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
 
@@ -292,6 +283,28 @@ The osu! South East Tournament 2 is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Sunday, 2019-01-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| GSBlank ![][flag_SG] | 2 | **8** | ![][flag_ID] **Skydiver** | [#1](/community/matches/49167390) |
+
+### Finals
+
+| Friday, 2019-01-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crezz ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48940594) |
+
+| Saturday, 2019-01-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](/community/matches/48967140) |
+
+| Sunday, 2019-01-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](/community/matches/48994166) |
+| Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48995392) |
+| Raindrop ![][flag_SG] | 2 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/49002936) |
 
 ### Semifinals
 

@@ -6,7 +6,7 @@ date: 2018-10-13 13:00:00 +0000
 
 Circle it on your calendars, because OWC 2018 registrations are now open!
 
-![](/wiki/shared/news/banners/OWC_2018_banner.png)
+![](/wiki/shared/news/banners/OWC_2018_banner.jpg)
 
 For more details, refer to the **[osu! World Cup 2018 wiki article](/wiki/Tournaments/OWC/2018/)**. You can discuss the event and follow its most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/815745)**.
  
