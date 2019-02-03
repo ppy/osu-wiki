@@ -1,12 +1,15 @@
 # How you can help!
 
-osu! itself has a large, and diverse community from all walks of life, and anyone can help make osu! more awesome for you, and for everyone.
+osu! is more than just a circle-clicking rhythm game as many newcomers think, it is also a very vibrant community, composed of people from all around the world, with differing skill sets, and different purposes.
+
+Anyone can be a part of the community, here are a few examples to start with:
+
 
 ## Help out with [the wiki](https://github.com/ppy/osu-wiki)
 
 The wiki is our official knowledge base about anything and everything about osu! The wiki is looking for more contributors to make the site up to date with fresh new knowledge, and to reach a wider audience via translations.
 
-Read more about how you can get started contributing to the wiki [here!](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide)
+Read more about how you can get started contributing to the wiki [here!](/wiki/osu!_wiki_Contribution_Guide)
 
 ## Help keep osu! friendly and safe
 
@@ -18,9 +21,9 @@ Fortunately, it's still easy for you to help out with the community, here's some
 - If you see something happening which you think feels inappropriate or disturbs you in any way, use the `!report` command at the in-game chat to notify moderators of what's happening.
     - Don't worry about not having your report not being read, the moderators will always read your reports.
 
-## Help answer technical, beatmap, and gameplay support
+## Help other community members
 
-Lend someone a help when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
+Lend someone a hand when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
 
 It doesn't matter if you don't know well enough of the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
 
@@ -38,7 +41,7 @@ You can begin with lending people a hand on these following mediums:
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers called "modders" to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't stop you from contributing in this sector, so here's a few things you can do to help:
+osu! has a dedicated team of reviewers  to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't stop you from contributing in this sector, so here's a few things you can do to help:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?m=-1&s=4) listing for any artists or songs you like (or just choose at random).
 - Play the beatmaps and leave feedback in threads.
@@ -46,9 +49,9 @@ osu! has a dedicated team of reviewers called "modders" to check if the beatmaps
 - Join the `#modhelp` and `#modreqs` on in-game chat and join in the conversation (or just follow along).
 - If you have the time and dedication, make a [Modding Queue](/community/forums/60) and have people start coming to you with requests.
 
-## Join some user-run projects and contribute to making them happen (or try to make them better if they're active)
+## Help/join user-run community projects related to osu!
 
-osu! has a thriving community of technical and competitive people. They range from tinkerers, to seasoned rhythm game veterans. There's a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own creation!
+osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers, to seasoned rhythm game veterans. There's a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own creation!
 
 Here's a few things you can do to help:
 
@@ -56,15 +59,15 @@ Here's a few things you can do to help:
 - Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the [most](/community/forums/topics/58855) [serious](/community/forums/topics/58855) [projects](/community/forums/topics/80027) happen.
 - Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether its just bringing back dancing pippi, or just making a cool thing for osu!, anything is accepted.
-- Bring [osu!monthly](/community/forums/topics/75017) to life.
+- Bring [osu!monthly](/community/forums/topics/75017) back to life.
 
 ## Contribute to the future of osu!
 
-Started last 2017, the Lazer project is the current focus of the osu! team, along with the new website, which you see today.
+Started last 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which you see today.
 
 You can help making them even more better, and make us closer to the future of osu! by helping on these areas:
 
-- Helping with the [Lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make them happen!
+- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make them happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
 
 ## Avoid being negative! Make people happy!
