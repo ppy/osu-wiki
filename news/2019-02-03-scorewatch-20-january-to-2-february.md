@@ -48,6 +48,46 @@ This guy is crazy. I don't know what else to say.
 
 With this map having received only three DT FCs in total, this score blows the others out of the water with its perfect accuracy. Rhythm and patterning coming straight from 2012 makes this no small feat! Almost as impressive as the accuracy is Gayz's snappy aim that follows even the small bends of the sliders present throughout this map. I'm glad there's a video of this play because even the SS rank doesn't convey how "perfect" this play really is.
 
+[lain](/users/1650010): [A Young Girl, So Vivid in the Night [Taeyang's style]](/beatmapsets/303778#osu/680689) **A** (548x, 93.59%)  
+*22 January 2019, Loved*
+
+A few years ago, it was something impressive to just clear this map, but lain now shows us that he's capable of setting a respectable A rank on this too. With difficulty and oddly-placed jump patterns, spaced sliderstreams and an overall speed-driven map at 280 BPM, this map makes for a challenge incomparable to the others of its (already ridiculous) star range.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/gb2LfT7e6Ew?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[idke](/users/4650315): [Atama no Taisou [Nogard]](/beatmapsets/40344#osu/133938) +HR **S** (FC, 99.30%) 510pp  
+*24 January 2019, Approved*
+
+This old gem of a map got the idke treatment last week, with an HR FC that reaches max combo as well as an accuracy unrivaled by the other plays. It seems like this round of Scorewatch there's a trend of idke getting these even-more-perfect versions of scores we've seen in the past, which is crazy considering that all of them were pushing the limits to begin with. If you're a fan of older maps, you'll surely be impressed by idke's performance here!
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-6KDtisXFRc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[idke](/users/4650315): [HIBANA feat. Hatsune Miku [Lock On]](/beatmapsets/671199#osu/1419243) +HR **S** (FC, 99.69%) 712pp  
+*29 January 2019, Ranked*
+
+The first HR FC on this map also has near-perfect accuracy, as is almost standard now for idke. This map is a generic one, but it's got all of the staples of modern difficulty that make a high-accuracy HR score that much more impressive. Where most other players choke, idke's consistency prevails!
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Br5RLnC6aBM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[Gayzmcgee](/users/1419095): [The Promethean Kings [The Merciless]](/beatmapsets/480651#osu/1083470) **A** (1,276x, 93.48%) 205pp  
+*25 January 2019, Ranked*
+
+Gayz has been on a roll, hasn't he? This score is nothing short of madness, featuring his light-speed tapping and aiming coming together to score the first A-rank on the hardest Ranked map in the game. With complex rhythm and unconventional patterning at over 9 stars, an unmatched A-rank here deserves its place well.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LcwcTxJnDiw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[fieryrage](/users/3533958): [quaver [Fiery's Extra]](/beatmapsets/873811#osu/1843653) +HR,DT **A** (416/431x, 97.11%) 897pp  
+*27 January 2019, Ranked*
+
+fieryrage's play on his own map here highlights a level of aim speed almost unrivaled by other mouse players. I can only describe this as a stupidly fast and intense aim-heavy score, so please take a look at the replay to see that I can't exaggerate this enough! Especially the ending. Like, what even is that o_O
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/4TvxQuvEWpc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[Varvalian](/users/3345902): [neu [end?]](/beatmapsets/843008#osu/1763938) +HR **S** (FC, 99.68%) 661pp  
+*20 January 2019, Ranked*
+
+This map has it all, from streams that change their spacing to good old fashion jumps, but that doesn't stop Varvalian from conquering the whole thing without breaking a sweat. This score displays an incredible control that Varvalian has over any kind of pattern.
+
 ## osu!taiko
 
 [goheegy](/users/8057655): [True Blue [DJ Command Mix] (Full Ver.) [Broken Love]](/beatmapsets/643803#taiko/1364659) +DT **S** (99.87%) 546pp  
