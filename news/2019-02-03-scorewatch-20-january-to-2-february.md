@@ -32,6 +32,8 @@ Starting us off this week, HardRock extraordinaire idke proves himself with this
 
 I think everybody forgot to remind Gayzmcgee that you're not supposed to use DT on this map... seriously, it's already a feat of itself to score a full combo on this draining marathon; coming this close to a DT FC (with this insane accuracy) is totally nuts! Words don't do much justice to the level of speed that Gayzmcgee can play well at, so I highly encourage you to watch the video for yourself.
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9HvlFj8vA2c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [NerO](/users/1545031): [Six Trillion Years and Overnight Story [0108's Extra]](/beatmapsets/790060#osu/1665564) +FL **Silver SS** 387pp  
 *29 January 2019, Ranked*
 
