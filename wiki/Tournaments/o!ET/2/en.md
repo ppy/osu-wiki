@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2 Logo](img/logo.png)
 
-The **osu! European Tournament 2** (***o!ET 2***) is a European players' double-elimination two-on-two osu! tournament hosted by ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [Planatek](/users/4869601), ![][flag_FR] [Tigzick](/users/6745742), ![][flag_FR] [Amezurys](/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](/users/7157133). It is the second installment of the osu! European Tournament.
+The **osu! European Tournament 2** (***o!ET 2***) is a European double-elimination two-on-two osu! tournament hosted by ![][flag_FR] [SiYes](/users/8868144), ![][flag_FR] [Planatek](/users/4869601), ![][flag_FR] [Tigzick](/users/6745742), ![][flag_FR] [Amezurys](/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](/users/7157133). It is the second installment of the osu! European Tournament.
 
 ## Tournament Schedule
 
@@ -36,7 +36,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The osu! European Tournament 2 Is run by various community members.
+The osu! European Tournament 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -158,7 +158,7 @@ The osu! European Tournament 2 Is run by various community members.
 - DoubleTime
   - [3L - Spring of Dreams (impossiblexu) \[Karen\]](/beatmapsets/27875#osu/97338)
 
-#### Midle Bracket
+#### Middle Bracket
 
 **[Download the mappack here! (36 MB)](https://puu.sh/CDLqv/eb30a66e55.rar)**
 
