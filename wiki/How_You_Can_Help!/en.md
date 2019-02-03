@@ -56,7 +56,7 @@ osu! has a thriving community of technical and competitive people. They range fr
 Here's a few things you can do to help:
 
 - Browse the [torunaments](/community/forums/55) forum. Tournaments takes time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge.
-- Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the [most](/community/forums/topics/58855) [serious](/community/forums/topics/58855) [projects](/community/forums/topics/80027) happen.
+- Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
 - Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether its just bringing back dancing pippi, or just making a cool thing for osu!, anything is accepted.
 - Bring [osu!monthly](/community/forums/topics/75017) back to life.
