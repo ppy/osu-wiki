@@ -107,10 +107,14 @@ This map is a very good indicator of showing just how much goheegy's HR skills h
 
 ## osu!catch
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/b0wSWWGZCNM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [Motion](/users/3885626): [Target o Kowase! [Click the Circles!]](/beatmapsets/542759#fruits/1150427) +HD,DT **Silver SS** 408pp  
 *20 January 2019, Ranked*
 
 Very impressive demonstration of Motion's DT platter control. This play, with an amount of ridiculously fast sliders just shows how much of a skilled player Motion is. Despite the play being 32 seconds left, it's an amazing rundown of skill.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Ox64P8ObR1I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Motion](/users/3885626): [Dried Up Youthful Fame (TV Size) [Collab Overdose]](/beatmapsets/544889#fruits/1154582) +HD,DT **Silver S** (FC, 99.75%) 706pp  
 *20 January 2019, Ranked*
@@ -122,10 +126,14 @@ Despite this map looking quite your usual pp map on nomod, Motion took it to the
 
 After nearly 7 years of it existing, Shyeart finally does what may have been considered impossible before this point, FC'ing Rainbow Dash with nomod. Funnily enough, this ended up happening the same month Vaxei got the first ever FC on it, but on standard too.
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IqQilwXoOVM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [Dusk](/users/533210): [Kikoku Doukoku Jigokuraku [Notch Hell]](/beatmapsets/437683#fruits/942356) **S** (1402x, 98.14%) 178pp  
 *28 January 2019, Ranked*
 
 This score is well... quite something. An S on this map was to be expected after it got featured on AxS, one of the biggest tournaments in ctb, but not with this kind of ridiculous combo that Dusk got, being the 3rd best combo AND the second S ever on the map. Especially since you have to give up your accuracy usually, if you want to get a good combo on this map, but Dusk just comes and shows a ridiculous amount of control to be able to get such a score.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sTSUqpLGpDk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [ekr](/users/4497706): [RESISTER (TV Size) [Overdose]](/beatmapsets/909911#fruits/1898783) +HD,DT **Silver S** (99.51%) 779pp  
 *27 January 2019, Ranked*
