@@ -60,7 +60,15 @@ Find yourself good at farming EZHD plays? You'll find a notable increase in perf
 
 ## Misc PP Changes
 
-These are the more minor technical changes that we introduced to keep things balanced. 
+These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
+
+Sliders had excess travel distance due to an off-by-one error during positional calculations and due to the slider end always being considered as a tick.
+
+The length of sliders was only considered if the next hitobject was also a slider.
+
+Hitobjects are now stably-sorted, which changes difficulty for some patterns (think circle - circle+spinner combos), but should be more usable going forward.
+
+The last 400ms of hitobjects in the beatmap was never considered for difficulty.
 
 To combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill.
 
