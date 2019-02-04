@@ -46,7 +46,7 @@ This is a change that will help buff many maps with high slider velocity. While 
 
 ## Flashlight Rework
 
-One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points). 
+One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points)). 
 
 To remedy this, flashlight will now scale at a much higher rate with the length of a map. To compensate for this increased buff for longer maps, the shorter maps that were previously played with flashlight will receive a small nerf.
 
