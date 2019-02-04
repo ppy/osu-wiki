@@ -8,9 +8,11 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 [![](/wiki/shared/news/2019-01-17-community-choice-2018/header.jpg)](https://osu.ppy.sh/community/contests/74)
 
+Thousands of people voted on their favorite beatmaps from 2018, but there can only be one winner! Let's get right into it:
+
 ### osu!
 
-[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda.jpg)](https://osu.ppy.sh/beatmapsets/874948)
+[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda2.jpg)](https://osu.ppy.sh/beatmapsets/874948)
 
 **2489** voters could feel the rush now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross K-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
@@ -138,9 +140,7 @@ The finalists were:
 
 The winners for each mode will be taking home **a shiny new profile badge, and 6 months of osu!supporter** for their hard-earned win, and each finalist will also score **3 months of osu!supporter** for each win, stacking if they've had multiple maps featured in the voting.
 
-A full rundown of the voting can be viewed in the spreadsheet below:
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpObU9neHOlQ5X4qeUa8_kOD3617RK7sBLXqQoHlKDS74asM2DYjSW7ckDnFCLSPANgws0x_j84EZm/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
+[A full rundown of the voting can be viewed in a spreadsheet here.](https://docs.google.com/spreadsheets/d/1YuZa7IPfY3K4ClaN2_fjiTVHeBZ3GldGk5FCkDoDbgA/edit?usp=sharing)
 
 Thank you to everybody who came out and spent the time to vote, and we'll see you again this time next year to find out who's the community favourite of 2019.
 
