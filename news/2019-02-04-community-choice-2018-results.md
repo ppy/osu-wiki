@@ -138,6 +138,10 @@ The finalists were:
 
 The winners for each mode will be taking home **a shiny new profile badge, and 6 months of osu!supporter** for their hard-earned win, and each finalist will also score **3 months of osu!supporter** for each win, stacking if they've had multiple maps featured in the voting.
 
+A full rundown of the voting can be viewed in the spreadsheet below:
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpObU9neHOlQ5X4qeUa8_kOD3617RK7sBLXqQoHlKDS74asM2DYjSW7ckDnFCLSPANgws0x_j84EZm/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
+
 Thank you to everybody who came out and spent the time to vote, and we'll see you again this time next year to find out who's the community favourite of 2019.
 
 —Ephemeral
