@@ -439,7 +439,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
-2. Each mappool consists of a fixed amount of maps each stage (see bellow) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FlashLight and Fade-In.
