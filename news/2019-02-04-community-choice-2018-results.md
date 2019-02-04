@@ -8,6 +8,8 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 [![](/wiki/shared/news/2019-01-17-community-choice-2018/header.jpg)](https://osu.ppy.sh/community/contests/74)
 
+Thousands of people voted on their favorite beatmaps from 2018, but there can only be one winner! Let's get right into it:
+
 ### osu!
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda2.jpg)](https://osu.ppy.sh/beatmapsets/874948)
