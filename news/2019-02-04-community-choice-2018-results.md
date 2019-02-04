@@ -100,7 +100,7 @@ The finalists were:
 
 [LiSA - ADAMAS (TV Size) by Ascendance](https://osu.ppy.sh/beatmapsets/867287) with **100** votes total.
 
-[Zektbach - Turii ~Panta rhei~ by Kyuare](https://osu.ppy.sh/beatmapsets/685428) with **99** votes total.
+[Zektbach - Turii \~Panta rhei\~ by Kyuare](https://osu.ppy.sh/beatmapsets/685428) with **99** votes total.
 
 [Check out the full results over on the contest listing for this mode!](https://osu.ppy.sh/community/contests/76)
 
