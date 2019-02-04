@@ -14,7 +14,7 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 **2489** voters could feel the rush now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross k-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
-This will likely come as a surprise to some who expected one map from the ubiquitous deluge of 'farming' maps to nab top place, but as this goes to show, sometimes you just need to stop farming creeps and get out there and start nabbing kills, something that Nathan and his collaborators managed with effortless ease.
+This will likely come as a surprise to some who expected one map from the ubiquitous deluge of "farm" maps to nab top place, but as this goes to show, sometimes you just need to stop farming creeps and get out there and start nabbing kills, something that Nathan and his collaborators managed with effortless ease.
 
 The finalists were:
 
