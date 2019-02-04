@@ -12,7 +12,7 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda.jpg)](https://osu.ppy.sh/beatmapsets/874948)
 
-**2489** voters could feel the beat now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross k-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
+**2489** voters could feel the rush now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross k-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
 This will likely come as a surprise to some who expected one map from the ubiquitous deluge of 'farming' maps to nab top place, but as this goes to show, sometimes you just need to stop farming creeps and get out there and start nabbing kills, something that Nathan and his collaborators managed with effortless ease.
 
@@ -76,9 +76,11 @@ The finalists were:
 
 With **182** votes, the collaborative sets by [Ascendance](https://osu.ppy.sh/users/2931883), [Spectator](https://osu.ppy.sh/users/702598) and [Hareimu](https://osu.ppy.sh/users/4138746) on [Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101) hosted by [Monstrata](https://osu.ppy.sh/users/2706438) strangled out the competition solidly with a nearly 50 point lead.
 
-Similiar to osu!taiko, the voting for osu!catch was a super close endeavor all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
+Similar to osu!taiko, the voting for osu!catch was a super close endeavour all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
 
-The agonizing choice many osu!catch players were forced to make is super obvious in the sheer vote gap between many of the finalist entries, exemplified foremost in the fact that 2nd and 3rd place are literally one vote apart.
+The agonizing choice many osu!catch players were forced to make is super obvious in the sheer vote gap between many of the finalist entries, shown purely in the fact that 2nd and 3rd place are literally one vote apart. 
+
+Yowza.
 
 The finalists were:
 
