@@ -10,7 +10,7 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 ### osu!
 
-[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda.jpg)](https://osu.ppy.sh/beatmapsets/874948)
+[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda2.jpg)](https://osu.ppy.sh/beatmapsets/874948)
 
 **2489** voters could feel the rush now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross K-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
