@@ -16,6 +16,8 @@ Absolutely *perfect* for mapping, as the size of the new beatmap pack below can 
 
 [![](/wiki/shared/news/2019-02-04-new-featured-artist-hyun/hyun.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildHyuN.zip)
 
+*Click the image above to download the HyuN beatmap pack in full - finishing all the maps in that set will earn you a fiendishly attractive medal for your profile!*
+
 Here's a set of small samples from the whopping **24** new tracks available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/33):
 
 ### Legend of Genesis
@@ -47,8 +49,6 @@ Here's a set of small samples from the whopping **24** new tracks available over
 <audio controls>
     <source src="https://assets.ppy.sh/artists/33/previews/829.mp3" type="audio/mpeg">
 </audio>
-
-*Click the image above to download the HyuN beatmap pack in full - finishing all the maps in that set will earn you a fiendishly attractive medal for your profile!*
 
 All of these tracks and **MUCH MORE** are available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/33) - go check them out!
 
