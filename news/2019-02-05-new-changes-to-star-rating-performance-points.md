@@ -36,7 +36,7 @@ In addition, a small nerf to very spaced streams has been introduced. These are 
 
 ## Slider Buffs
 
-Are you a fan of playing those impressive and previously underweighed tech maps with high slider velocity? 
+Are you a fan of playing those impressive and previously underweighted tech maps with high slider velocity? 
 
 Well, say no more! 
 
