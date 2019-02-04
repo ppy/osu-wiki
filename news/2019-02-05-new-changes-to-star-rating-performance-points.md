@@ -20,7 +20,7 @@ Without further delay, let's get into the specific changes:
 
 ## Wide Angle Jumps
 
-As many players are well aware, the angle of a jump impacts how difficulty a pattern is to combo. Evidence of this can be found throughout modern mapping. Almost all maps that are popular for their PP values contain jumps that are typically non-linear.
+As many players are well aware, the angle of a jump impacts how difficult a pattern is to combo. Evidence of this can be found throughout modern mapping, where almost all maps that are popular for their PP values contain jumps that are typically non-linear.
 
 As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
 
@@ -32,7 +32,7 @@ Besides the changes to aim, there has been an adjustment to how streams are hand
 
 Able to FC 300 BPM stacks with your laptop keyboard? This is the change you've been waiting for. 
 
-In addition, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as Honesty and Sidetracked Day. While the nerf is sizable, these plays are still quite impressive and are still worth a lot, just not quite as much as they were worth before.
+Beyond the buff, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as [HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) and [Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566). While the nerfs are noticable, these plays are still quite impressive and worth a lot, just not quite as much as they were worth before.
 
 ## Slider Buffs
 
@@ -40,21 +40,21 @@ Are you a fan of playing those impressive and previously underweighted tech maps
 
 Well, say no more! 
 
-While the specifics are quite complicated, in general, these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also receive a large buff compared to before.
+While the specifics are quite complicated, in general, these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also received a large buff compared to before.
 
-This is a change that will help buff many tech maps with fast gimmicky sliders. While this change will not be noticeable on many maps, the ones that do benefit may see substantial buffs!
+This is a change that will help buff many maps with high slider velocity. While this change will not be noticeable on many maps, the ones that do benefit may see substantial buffs, such as [this one](https://osu.ppy.sh/beatmapsets/753365#osu/1586083).
 
 ## Flashlight Rework
 
-One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014. 
+One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points). 
 
 To remedy this, flashlight will now scale at a much higher rate with the length of a map. To compensate for this increased buff for longer maps, the shorter maps that were previously played with flashlight will receive a small nerf.
 
 ## Hidden Rework
 
-Yes, HD is changing again. With the introduction of the high BPM buff, we wanted to make changes to HD so that maps with fast stacked streams weren't overly buffed when HD is applied. 
+Yes, HD is changing once again. With the introduction of the high BPM buff, we wanted to make changes to HD so that maps with fast stacked streams weren't overly buffed when HD is applied. 
 
-Instead of the old system, HD now rewards accuracy more, and both aim and speed PP will scale off of the approach rate of the map. 
+Instead of the old system, which primarily buffed speed (as speed was primarily spaced streams), HD now rewards accuracy more, with both aim and speed PP scaling off of the approach rate of the map. The lower the AR the more reward.
 
 Are you good at playing with EZ and HD? You'll find a notable increase in performance points for these plays after the update. 
 
