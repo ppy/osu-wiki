@@ -86,10 +86,59 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+## Match Schedule: Group Stage
+
+### Saturday, 9. February 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Japan | ![][flag_JP] | ![][flag_PH] | Philippines | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
+| Netherlands | ![][flag_NL] | ![][flag_TW] | Taiwan | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
+| Macau | ![][flag_MO] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 |
+| Sweden | ![][flag_SE] | ![][flag_TH] | Thailand | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
+| Argentina | ![][flag_AR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 10:00 UTC-03 | 20:00 UTC+07 |
+| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_SE] | Sweden | **17:00 UTC** | 13:00 UTC-04 | 18:00 UTC+01 |
+| Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 |
+| Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **18:00 UTC** | 19:00 UTC+01 | 16:00 UTC-02 |
+| Denmark | ![][flag_DK] | ![][flag_CL] | Chile | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **19:00 UTC** | 19:00 UTC | 17:00 UTC-02 |
+
+### Sunday, 10. February 2018
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Chile | ![][flag_CL] | ![][flag_CN] | China | **2:00 UTC** | 23:00 (Sat) UTC-03 | 10:00 UTC+08 |
+| Macau | ![][flag_MO] | ![][flag_US] | United States | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_TH] | Thailand | **3:00 UTC** | 23:00 (Sat) UTC-04 | 10:00 UTC+07 |
+| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
+| Denmark | ![][flag_DK] | ![][flag_CN] | China | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_PH] | Philippines | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| France | ![][flag_FR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
+| Israel | ![][flag_IL] | ![][flag_SG] | Singapore | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Israel | ![][flag_IL] | ![][flag_PL] | Poland | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **14:00 UTC** | 14:00 UTC | 15:00 UTC+01 |
+
 
 ## Mappools
 
-_The mappools will be revealed one week before each stage takes place_
+### Group Stage
+
+- FreeMod
+  - [Kurenainagi Tabibito - Otenba Koimusume (MeowPaz) \[paperlen's 7K Hard\]](https://osu.ppy.sh/beatmapsets/363320#mania/797821)
+  - [Satou Hitomi - Summer in Kagome (SurfChu85) \[relaxation\]](https://osu.ppy.sh/beatmapsets/703252#mania/1487920)
+  - [dai - dir (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/413614#mania/896876)
+  - [ani feat. b - VERVERG (Kamikaze) \[Special\]](https://osu.ppy.sh/beatmapsets/717692#mania/1516084)
+  - [The Queenstons - The Last Rave In The Depths Of Your Eyes (Cryolien) \[\:eyes\:\]](https://osu.ppy.sh/beatmapsets/797085#mania/1674043)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
+  - [Uetsu Shi - Tenkuu no Shiro Verieru (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/919893#mania/1921178)
+  - [Endorfin. - Spica (K a b i -) \[Amii's 7K Hard\]](https://osu.ppy.sh/beatmapsets/890271#mania/1896428)
+  - [not - Scatter Brain (Hydria-) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
+- TieBreaker
+  - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
 
 ------------------------------------------------------------------------
 
