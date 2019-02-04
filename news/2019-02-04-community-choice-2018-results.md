@@ -42,7 +42,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/xinobikill.jpg)](https://osu.ppy.sh/beatmapsets/742966)
 
-**121** drum fanatics stepped forward and said 'hell yes' to [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL](https://osu.ppy.sh/beatmapsets/742966) by [Skull Kid](https://osu.ppy.sh/users/3044264), in some of the closest voting we've ever observed in a Community Choice poll OR a 'Best Of' to date.
+**121** drum fanatics stepped forward and said "hell yes" to [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL](https://osu.ppy.sh/beatmapsets/742966) by [Skull Kid](https://osu.ppy.sh/users/3044264), in some of the closest voting we've ever observed in a Community Choice poll *or* a "Best Of" to date.
 
 Seriously, at some points, there was less than 3 votes splitting first, second, and third place. When we tweeted about the votes drawing to a close, there was a two-way tie for first place for at least a day before the votes were slated to close.
 
