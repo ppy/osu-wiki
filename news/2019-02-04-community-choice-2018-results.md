@@ -110,7 +110,7 @@ The finalists were:
 
 **621** voters saw reason to celebrate **[MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/650415)** by [Insp1r3](https://osu.ppy.sh/users/7131254) with a positively dominating lead over its competition, leading the pack by nearly a solid third of the next highest finalist.
 
-Having featured in the Seasonal Spotlights already, it's no surprise that this map was a crowd favorite.
+Having been featured in the Seasonal Spotlights already, it's no surprise that this map was a crowd favourite.
 
 The finalists were:
 
