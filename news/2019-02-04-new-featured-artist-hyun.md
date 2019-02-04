@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: HyuN"
-date: 2019-02-02 15:00:00 +0000
+date: 2019-02-04 14:00:00 +0000
 ---
 
 Bursting onto the scene with the sounds of digital punk, **HyuN** joins the fray as osu!'s newest Featured Artist!
@@ -14,7 +14,7 @@ Sporting a more classical sound reminiscent of the earlier days of rhythm gaming
 
 Absolutely *perfect* for mapping, as the size of the new beatmap pack below can attest:
 
-![](/wiki/shared/news/2019-02-02-new-featured-artist-hyun/hyun.jpg)
+![](/wiki/shared/news/2019-02-04-new-featured-artist-hyun/hyun.jpg)
 
 Here's a set of small samples from the whopping **24** new tracks available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/33):
 
