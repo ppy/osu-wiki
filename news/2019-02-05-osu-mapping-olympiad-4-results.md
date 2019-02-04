@@ -25,7 +25,7 @@ Back in September, we challenged our great mapping community to create a thoroug
 
 Securing **first place** for the inaugural osu!catch Mapping Olympiad is [**Sinnoh**](https://osu.ppy.sh/users/4236057) with a total score of **135**! Sinnoh's entry blew away the competition, securing the highest aggregate scores in Musical Relevance, Creativity and Technique, and also garnered a perfect score from two of the three judges' in the Impression category.
 
-A strong **second place** is awarded to [**Minato Yuikna**](https://osu.ppy.sh/users/531253) with a total score of **126**! Minato Yukina's entry tied with Sinnoh's for the best Difficulty Spread, and whilst not placing first in any particular category, put in a strong performance across the board to secure a respectably high finish from the veteran.
+A strong **second place** is awarded to [**Minato Yukina**](https://osu.ppy.sh/users/531253) with a total score of **126**! Minato Yukina's entry tied with Sinnoh's for the best Difficulty Spread, and whilst not placing first in any particular category, put in a strong performance across the board to secure a respectably high finish from the veteran.
 
 Rounding out the podium in **third place** is [**Ascendance**](https://osu.ppy.sh/users/2931883) with a total score of **117.5**! Though he could not repeat his feats from 2017's osu!catch Beatmapping Contest, receiving the highest score for hitsounding and solid marks across all other categories helped the most recent *Elite Mapper* in osu!catch edge ahead of fierce competition.
 
@@ -33,9 +33,9 @@ Rounding out the podium in **third place** is [**Ascendance**](https://osu.ppy.s
 
 A huge thank you to everyone who submitted an entry and congratulations to the top three finishers! Their rewards will be allocated as follows (as a reminder, 6 Olympiad Points are needed for one badge level):
 
-- **First place**: 3 months of osu!supporter, 6 Olympiad Points (resulting in 'Mapping Olympian' badge)
-- **Second place**: 2 months of osu!supporter, 4 Olympiad Points
-- **Third place**: 1 month of osu!supporter, 2 Olympiad Points
+- **First place**: 4 months of osu!supporter, 6 Olympiad Points (resulting in 'Mapping Olympian' badge) and the *Elite Mapper* title
+- **Second place**: 3 months of osu!supporter, 4 Olympiad Points
+- **Third place**: 2 months of osu!supporter, 2 Olympiad Points
 
 [A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated shortly after each contest.
 
@@ -44,5 +44,7 @@ Additional thanks to our hard-working judges for this contest: [Absolute Zero](h
 If you enjoyed the contest and song, assistance with the Ranking process for [Sinnoh's winning entry](https://osu.ppy.sh/beatmapsets/921419#fruits/1924123) would be greatly appreciated! Additionally, [all of the entries can be downloaded here](https://drive.google.com/open?id=1cTCPOygsn21-AHpEWPrUsfEg4f6Kfybk) if you wish to check them out for yourselves!
 
 Hopefully you all enjoyed participating in (or simply following) this contest as much as we had organizing it! If you did, be on the lookout for further Olympiad contests in the future!
+
+For those of you who are still eagerly awaiting the osu!taiko and osu!mania Olympiad contests results, we apologise for the delays. There have been a number of unfortunate real-life situations weighing down our judging teams, but we're hoping to get the results published soon!
 
 —JBHyperion
