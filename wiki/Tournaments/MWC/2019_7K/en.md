@@ -92,38 +92,40 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
-| Philippines | ![][flag_PH] | ![][flag_JP] | Japan | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
-| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Russian Federation | ![][flag_RU] | ![][flag_MO] | Macau | **12:00 UTC** | 17:00 UTC+05 | 20:00 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_AR] | Argentina | **13:00 UTC** | 20:00 UTC+07 | 10:00 UTC-03 |
-| Thailand | ![][flag_TH] | ![][flag_SE] | Sweden | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 |
-| Germany | ![][flag_DE] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 15:00 UTC+01 | 14:00 UTC |
-| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 13:00 UTC-04 | 22:00 UTC+05 |
-| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 13:00 UTC-04 |
-| France | ![][flag_FR] | ![][flag_AR] | Argentina | **18:00 UTC** | 19:00 UTC+01 | 15:00 UTC-03 |
-| Brazil | ![][flag_BR] | ![][flag_DE] | Germany | **18:00 UTC** | 16:00 UTC-02 | 19:00 UTC+01 |
-| Chile | ![][flag_CL] | ![][flag_DK] | Denmark | **19:00 UTC** | 16:00 UTC-03 | 20:00 UTC+01 |
-| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **19:00 UTC** | 17:00 UTC-02 | 19:00 UTC |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Japan | ![][flag_JP] | ![][flag_PH] | Philippines | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
+| Netherlands | ![][flag_NL] | ![][flag_TW] | Taiwan | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
+| Macau | ![][flag_MO] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 17:00 UTC+05 |
+| Sweden | ![][flag_SE] | ![][flag_TH] | Thailand | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
+| Argentina | ![][flag_AR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 10:00 UTC-03 | 20:00 UTC+07 |
+| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_SE] | Sweden | **17:00 UTC** | 13:00 UTC-04 | 18:00 UTC+01 |
+| Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 |
+| Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **18:00 UTC** | 19:00 UTC+01 | 16:00 UTC-02 |
+| Denmark | ![][flag_DK] | ![][flag_CL] | Chile | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **19:00 UTC** | 19:00 UTC | 17:00 UTC-02 |
 
 ### Sunday, 10. February 2018
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_CL] | Chile | **2:00 UTC** | 10:00 UTC+08 | 23:00 (Sat) UTC-03 |
-| United States | ![][flag_US] | ![][flag_MO] | Macau | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 |
-| Thailand | ![][flag_TH] | ![][flag_CA] | Canada | **3:00 UTC** | 10:00 UTC+07 | 23:00 (Sat) UTC-04 |
-| South Korea | ![][flag_KR] | ![][flag_NL] | Netherlands | **11:00 UTC** | 20:00 UTC+09 | 12:00 UTC+01 |
-| China | ![][flag_CN] | ![][flag_DK] | Denmark | **11:00 UTC** | 19:00 UTC+08 | 12:00 UTC+01 |
-| Japan | ![][flag_JP] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_SG] | Singapore | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
-| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_IL] | Israel | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Indonesia | ![][flag_ID] | ![][flag_FR] | France | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_IL] | Israel | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
+| Chile | ![][flag_CL] | ![][flag_CN] | China | **2:00 UTC** | 23:00 (Sat) UTC-03 | 10:00 UTC+08 |
+| Macau | ![][flag_MO] | ![][flag_US] | United States | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_TH] | Thailand | **3:00 UTC** | 23:00 (Sat) UTC-04 | 10:00 UTC+07 |
+| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
+| Denmark | ![][flag_DK] | ![][flag_CN] | China | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_PH] | Philippines | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| France | ![][flag_FR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
+| Israel | ![][flag_IL] | ![][flag_SG] | Singapore | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Israel | ![][flag_IL] | ![][flag_PL] | Poland | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **14:00 UTC** | 14:00 UTC | 15:00 UTC+01 |
 
 
 ## Mappools
+
+### Group Stage
 
 - FreeMod
   - [Kurenainagi Tabibito - Otenba Koimusume (MeowPaz) \[paperlen's 7K Hard\]](https://osu.ppy.sh/beatmapsets/363320#mania/797821)
@@ -136,7 +138,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
   - [Endorfin. - Spica (K a b i -) \[Amii's 7K Hard\]](https://osu.ppy.sh/beatmapsets/890271#mania/1896428)
   - [not - Scatter Brain (Hydria-) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
 - TieBreaker
-  - [Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)
+  - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
 
 ------------------------------------------------------------------------
 
