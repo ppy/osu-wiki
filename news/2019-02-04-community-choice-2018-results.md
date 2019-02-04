@@ -18,7 +18,7 @@ This will likely come as a surprise to some who expected one map from the ubiqui
 
 The finalists were:
 
-[**Panda Eyes - ILY by M a r v o l l o**](https://osu.ppy.sh/beatmapsets/653534) with **1935** votes total.
+[Panda Eyes - ILY by M a r v o l l o](https://osu.ppy.sh/beatmapsets/653534) with **1935** votes total.
 
 [Vickeblanka - Black Rover (TV Size) by Sotarks](https://osu.ppy.sh/beatmapsets/781509) with **1911** votes total.
 
