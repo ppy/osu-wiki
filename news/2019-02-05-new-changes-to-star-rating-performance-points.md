@@ -10,7 +10,7 @@ After many years of stagnancy, some changes are finally coming to the way Star R
 
 Hello!
 
-It is with great anticipation that I, Xexxar, am here to announce changes to both Performance Points (aka: pp) and the star rating system. 
+It has been a long time coming but finally I, Xexxar, am here to announce changes to both Performance Points (aka: pp) and the star rating system. 
 
 I have been closely involved with various other members of the community over the past few months in proposing amendments to the Performance Points system with the end goal of updating a core part of osu!'s competitive progression that hasn't seen any significant changes in many, many years. The game has evolved considerably since the last update to these key systems, with the introduction of many new and different styles of mapping and gameplay.
 
@@ -56,7 +56,7 @@ Yes, HD is changing again. With the introduction of the high BPM buff, we wanted
 
 Instead of the old system, HD now rewards accuracy more, and both aim and speed PP will scale off of the approach rate of the map. 
 
-Find yourself good at farming EZHD plays? You'll find a notable increase in performance points for these plays after the update. 
+Are you good at playing with EZ and HD? You'll find a notable increase in performance points for these plays after the update. 
 
 ## Misc PP Changes
 
