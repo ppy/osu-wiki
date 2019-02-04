@@ -24,7 +24,7 @@ As many players are well aware, the angle of a jump impacts how difficult a patt
 
 As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
 
-Decided not to farm a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps). And yes, they will be worth more PP as a result.
+Decided not to farm a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps such as [RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) which require good finger control). Also yes, they will be worth more PP as a result.
 
 ## Streams and High BPM
 
