@@ -12,7 +12,7 @@ You've had your say, and we have our winners! Check out the new Community Favour
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda.jpg)](https://osu.ppy.sh/beatmapsets/874948)
 
-**2489** voters could feel the beat now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross k-pop masterpiece that took the world by storm, **K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)!**
+**2489** voters could feel the beat now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross k-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
 This will likely come as a surprise to some who expected one map from the ubiquitous deluge of 'farming' maps to nab top place, but as this goes to show, sometimes you just need to stop farming creeps and get out there and start nabbing kills, something that Nathan and his collaborators managed with effortless ease.
 
@@ -42,7 +42,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/xinobikill.jpg)](https://osu.ppy.sh/beatmapsets/742966)
 
-**121** drum fanatics stepped forward and said 'hell yes' to [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL by Skull Kid](https://osu.ppy.sh/beatmapsets/742966), in some of the closest voting we've ever observed in a Community Choice poll OR a 'Best Of' to date.
+**121** drum fanatics stepped forward and said 'hell yes' to [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL](https://osu.ppy.sh/beatmapsets/742966) by [Skull Kid](https://osu.ppy.sh/users/3044264), in some of the closest voting we've ever observed in a Community Choice poll OR a 'Best Of' to date.
 
 Seriously, at some points, there was less than 3 votes splitting first, second, and third place. When we tweeted about the votes drawing to a close, there was a two-way tie for first place for at least a day before the votes were slated to close.
 
@@ -72,9 +72,9 @@ The finalists were:
 
 ### osu!catch
 
-[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/742966)
+[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/758101)
 
-With **182** votes, the collaborative sets by Ascendance, Spectator and Hareimu on [Co shu Nie - asphyxia (TV edit) hosted Monstrata](https://osu.ppy.sh/beatmapsets/758101) strangled out the competition solidly with a nearly 50 point lead.
+With **182** votes, the collaborative sets by [Ascendance](https://osu.ppy.sh/users/2931883), [Spectator](https://osu.ppy.sh/users/702598) and [Hareimu](https://osu.ppy.sh/users/4138746) on [Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101) hosted by [Monstrata](https://osu.ppy.sh/users/2706438) strangled out the competition solidly with a nearly 50 point lead.
 
 Similiar to osu!taiko, the voting for osu!catch was a super close endeavor all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
 
@@ -104,9 +104,9 @@ The finalists were:
 
 ### osu!mania
 
-[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/mazare.jpg)](https://osu.ppy.sh/beatmapsets/742966)
+[![](/wiki/shared/news/2019-02-04-community-choice-2018-results/mazare.jpg)](https://osu.ppy.sh/beatmapsets/650415)
 
-**621** voters saw reason to celebrate [MAZARE - Mazare Party by Insp1r3](https://osu.ppy.sh/beatmapsets/650415) with a positively dominating lead over its competition, leading the pack by nearly a solid third of the next highest finalist.
+**621** voters saw reason to celebrate [MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/650415) by [Insp1r3](https://osu.ppy.sh/users/7131254) with a positively dominating lead over its competition, leading the pack by nearly a solid third of the next highest finalist.
 
 Having featured in the Seasonal Spotlights already, it's no surprise that this map was a crowd favorite.
 
