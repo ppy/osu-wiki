@@ -20,4 +20,7 @@ Selamat Tahun Baru Cina 2019, Salam Tahun Baru Yang Penuh Dengan Kemakmuran!
 
 [![](/wiki/shared/news/2019-02-05-happy-chinese-new-year/poster.png)](/wiki/shared/news/2019-02-05-happy-chinese-new-year/poster.png)
 
+Also, the [Newspaper Mapping Contest 2019](https://osu.ppy.sh/forum/t/863274) in Chinese community has started, those who doesn't have ranked mapset are trying their best, let's wish they get a good result.
+
+
 —Fycho
