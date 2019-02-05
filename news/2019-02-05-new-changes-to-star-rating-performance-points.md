@@ -48,7 +48,7 @@ This is a change that will help buff many maps with high slider velocity. While 
 
 One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points)). 
 
-Before, the bonus to aim for using flashlight started at a 40% increase in performance. Now it starts at 0% but scales much more with the length of the map. Goodluck memorizing!
+Before, the bonus to aim for using flashlight started at a 40% increase in performance. Now it starts at 0% but scales much more with the length of the map. You'll now need to try harder than ever before to memorise those longer beatmaps!
 
 ## Hidden Rework
 
