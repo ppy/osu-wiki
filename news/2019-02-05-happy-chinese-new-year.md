@@ -6,7 +6,7 @@ date: 2019-02-05 10:00:00 +0000
 
 2019 is the year of the Pig! The osu!team would like to wish everyone all the best, and a year of health, luck and happiness to come.
 
-![](/wiki/shared/news/2019-02-05-happy-chinese-new-year/CNY2019.jpg)
+![](/wiki/shared/news/2019-02-05-happy-chinese-new-year/CNY2019-2.jpg)
 
 红梅点点，盘瓠傲霜随岁去；丽日融融，天蓬报喜伴春来。
 
