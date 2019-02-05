@@ -165,10 +165,6 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 *osu!taiko Division: Grand Finals will continue at 23rd of February.*
 
-### osu!catch Division: Grand Finals
-
-*osu!catch Division has ended.*
-
 ### osu!mania Division: Semifinals
 
 #### Saturday, 9 February 2019

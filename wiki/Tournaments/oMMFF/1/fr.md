@@ -165,10 +165,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 *Division osu!taiko: La Grande Finale commencera le 23 Février.*
 
-### Division osu!catch: Grandes Finales
-
-*La division osu!catch est maintenant terminée.*
-
 ### Division osu!mania: Finales
 
 #### Samedi, 9 Février 2019
