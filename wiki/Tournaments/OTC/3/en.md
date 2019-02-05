@@ -95,26 +95,45 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 ## Match Schedules: Quarterfinals
 
-### Saturday, 2 February 2019
+### Saturday, 9 February 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #33 | ftg | ![][flag_KR] | ![][flag_US] | WillCookie | **03:00** |
-| #47 | Apraxia | ![][flag_US] | ![][flag_US] | Woey | **05:00** |
-| #45 | Crystal | ![][flag_CN] | ![][flag_AT] | Teppi | **13:00** |
-| #40 | Dustice | ![][flag_DE] | ![][flag_MN] | seegii | **14:00** |
-| #46 | Bubbleman | ![][flag_GB] | ![][flag_RU] | neko ds | **15:00** |
-| #48 | Xilver15 | ![][flag_IL] | ![][flag_PL] | \_demo | **16:00** |
-| #39 | Okinotori | ![][flag_RU] | ![][flag_FR] | Musty | **17:00** |
-| #37 | Ayla | ![][flag_UA] | ![][flag_PL] | Marek Marucha | **17:00** |
-| #34 | badeu | ![][flag_RO] | ![][flag_PL] | MrBooM | **18:00** |
-| #36 | Knalli | ![][flag_DE] | ![][flag_BR] | My Angelsim | **19:00** |
-| #35 | Jace | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
-| #38 | Cappy | ![][flag_US] | ![][flag_US] | Tekkito | **22:00** |
+| #55 | Crystal | ![][flag_CN] | ![][flag_GB] | Bubbleman | **10:00** |
+| #50 | neko ds | ![][flag_RU] | ![][flag_RU] | Okinotori | **16:00** |
+| #49 | Teppi | ![][flag_AT] | ![][flag_UA] | Ayla | **17:00** |
+| #52 | \_demo | ![][flag_PL] | ![][flag_US] | Jace | **18:00** |
+| #51 | Apraxia | ![][flag_US] | ![][flag_RO] | badeu | **19:00** |
+| #56 | Woey | ![][flag_US] | ![][flag_IL] | Xilver | **20:00** |
 
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (140 MB)](http://www.mediafire.com/file/u7cruip6preqah3/OTC+%233+Semifinals+Mappool.zip)**
+
+- NoMod
+  - [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) \[Extra\]](/beatmapsets/684060#osu/1447689)
+  - [PinocchioP - All I Need are Things I Like (tutuhaha) \[Things I Like\]](/beatmapsets/525070#osu/1636508)
+  - [Camellia - Key of timepieces (Regou) \[Fragments\]](/beatmapsets/534800#osu/1132818)
+  - [Sota Fujimori - polygon (Sebu) \[heptagon\]](/beatmapsets/422136#osu/1354636)
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/31119#osu/105143)
+- Hidden
+  - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Extra\]](/beatmapsets/847776#osu/1772923)
+  - [ak+q - Excelsia (PoNo) \[Pono's F.ascination\]](/beatmapsets/693892#osu/1472946)
+  - [succducc - me & u (YokesPai) \[deceiving extra\]](/beatmapsets/851466#osu/1779909)
+- HardRock
+  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](/beatmapsets/751774#osu/1582594)
+  - [LeaF - Evanescent (Rohit6) \[Rohit's Extra\]](/beatmapsets/440997#osu/958282)
+  - [Nekomata Gekidan - AsiaN distractive (StarrStyx) \[StarR's Expert\]](/beatmapsets/657122#osu/1411709)
+- DoubleTime
+  - [Nanahira - Viva Happy (Chaoslitz) \[Chaoz's Another\]](/beatmapsets/672621#osu/1508163)
+  - [SAMString - Sakura's Fall (DeviousPanda) \[DeviousPanda's Insane\]](/beatmapsets/912860#osu/1906956)
+  - [KYARY PAMYU PAMYU - Kimi no Mikata (VINXIS) \[Ally\]](/beatmapsets/808849#osu/1697323)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (Realazy) \[Strikethrough\]](/beatmapsets/908451#osu/1895699)**
 
 ### Quarterfinals
 
@@ -190,6 +209,30 @@ The osu! Technical Championship #3 is run by various osu! community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2019-02-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **ftg** ![][flag_KR] | **5** | 2 | ![][flag_US] WillCookie | [#1](https://osu.ppy.sh/community/matches/49296446) |
+| Apraxia ![][flag_US] | 1 | **5** | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/49299182) |
+| **Crystal** ![][flag_CN] | **5** | 1 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49306751) |
+| Dustice ![][flag_DE] | 0 | **5** | ![][flag_MN] seegii | -win by default- |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_RU] neko ds | [#1](https://osu.ppy.sh/community/matches/49309319) |
+| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/49310921) |
+| **Okinotori** ![][flag_RU] | **5** | 3 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/49312981) |
+| **Ayla** ![][flag_UA] | **5** | 3 | ![][flag_PL] Marek Marucha | [#1](https://osu.ppy.sh/community/matches/49312624) |
+| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/49314628) |
+| **Jace** ![][flag_US] | **5** | 0 | ![][flag_BR] Mystia | -win by default- |
+| Cappy ![][flag_US] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/49321691) |
+
+| Sunday, 2019-02-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **badeu** ![][flag_RO] | **5** | 1 | ![][flag_KR] ftg | [#1](https://osu.ppy.sh/community/matches/49334885) |
+| seegii ![][flag_MN] | 2 | **5** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49336141) |
+| **Knalli** ![][flag_DE] | **5** | 1 | ![][flag_BR] My Angelsim | [#1](https://osu.ppy.sh/community/matches/49345151) |
+| Tekkito ![][flag_US] | 0 | **5** | ![][flag_UA] **Ayla** | -win by default- |
+| Knalli ![][flag_DE] | 3 | **5** | ![][flag_US] Jace | [#1](https://osu.ppy.sh/community/matches/49347189) |
 
 ### Round of 32 / Round of 16
 
