@@ -8,7 +8,7 @@ Bursting onto the scene with the sounds of digital punk, **HyuN** joins the fray
 
 [![](https://assets.ppy.sh/artists/33/header.jpg)](https://osu.ppy.sh/beatmaps/artists/33)
 
-Showcasing some of the rhythm gaming scene's freshest talent, we're proud to welcome **HyuN** as the latest addition to the Featured Artist project, with **24** brand new tracks to choose from, complete with the Mappers' Guild biggest ever beatmap pack release!
+Showcasing some of the rhythm gaming scene's freshest talent, we're proud to welcome **HyuN** as the latest addition to the Featured Artist project, with **24** brand new tracks to choose from, complete with the Mappers' Guild's biggest ever beatmap pack release!
 
 Sporting a more classical sound reminiscent of the earlier days of rhythm gaming, **HyuN** is by no means outdated, building on the time-tested framework of frantic speed, constantly evolving rhythms and broad melodic progression with a fresh new take from a variety of genres, all neatly bundled up into little bite-size pieces.
 
