@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: HyuN"
-date: 2019-02-04 14:00:00 +0000
+date: 2019-02-05 12:00:00 +0000
 ---
 
 Bursting onto the scene with the sounds of digital punk, **HyuN** joins the fray as osu!'s newest Featured Artist!
@@ -14,7 +14,7 @@ Sporting a more classical sound reminiscent of the earlier days of rhythm gaming
 
 Absolutely *perfect* for mapping, as the size of the new beatmap pack below can attest:
 
-[![](/wiki/shared/news/2019-02-04-new-featured-artist-hyun/hyun.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildHyuN.zip)
+[![](/wiki/shared/news/2019-02-05-new-featured-artist-hyun/hyun.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildHyuN.zip)
 
 *Click the image above to download the HyuN beatmap pack in full - finishing all the maps in that set will earn you a fiendishly attractive medal for your profile!*
 
@@ -54,7 +54,7 @@ All of these tracks and **MUCH MORE** are available over at [his Featured Artist
 
 As with all Featured Artist tracks, the works on **HyuN**'s listing are 100% free for use in mapping and modding, and come with a pre-timed base to help you get started.
 
-We'd also like to take a moment to share that this release will herald the end of the *exclusive* launch-accompanying beatmap releases from the Mappers' Guild. All new Featured Artist releases will from now on, be shared with the community at the same time, with no one group getting special dibs beforehand.
+We'd also like to take a moment to share that this release will herald the end of the *exclusive* launch-accompanying beatmap releases from the Mappers' Guild, at least for now.
 
 The Guild's not going anywhere however, and we have a new system in the works to help encourage mapping circles (har har) of all kinds to get involved with the amazing work of our superbly talented Featured Artists. 
 
