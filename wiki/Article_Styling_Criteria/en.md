@@ -332,19 +332,21 @@ Optionally, add an extra line before and after the heading to help make the head
 
 #### Titles
 
-*Notice: The title of an article must never be escaped, as titles are parsed as raw text, not Markdown.*
+*Notice: Article titles must not be escaped, as they are parsed as raw text, not Markdown.*
 
-All articles must have one level 1 heading, being the article's title. Article titles must use title case and never contain formatting, links, nor images. The title of an article is the name of the folder that the article is located in.
+All articles must have one level 1 heading, being the article's title. Article titles must use title case and never contain formatting, links, nor images. The level 1 heading must be placed at the start of the article unless reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
 
-The level 1 heading must be placed at the start of the article unless you have reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
+The title of an article must match the folder name it is located in (spaces can replace underscores (`_`) where appropriate). The exception to this rule are tournament pages, which may use abbreviations, acronyms, or initialisms.
 
-For English article titles, if you need to reword the title, you must rename the folder to match the article title. There are rare exceptions to this however.
+---
+
+For English article titles, if the article's title needs to be renamed, the folder name it is in must also be renamed to match it.
 
 #### Sections
 
-All section headings must use levels 2 to 5, never level 6. Section headings must use sentence case and should never contain styles nor links. In addition to this, section headings must never skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The first section heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
+All section headings must use levels 2 to 5, never level 6. Section headings must use sentence case and must not contain formatting nor links. In addition to this, section headings must not skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The section heading after the title heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
-In the osu! wiki, heading levels 4 and above do not appear in the table of contents and are not given the id attribute (this means you cannot link directly to these headings).
+In the osu! wiki, heading levels 4 to 6 do not appear in the table of contents and are not given the id attribute (these cannot be linked directly).
 
 ### Lists
 
@@ -377,9 +379,15 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 
 #### Keyboard keys
 
-When doing this, use capital letters for single characters and title case for modifiers. Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes).
+When doing this, use capital letters for single characters and title case for modifiers. Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes). For example:
 
-Due to styling issues with the website, never use `` ` ` ``.
+```md
+pippi is spelt with a lower case "P" like peppy.
+
+Press `Ctrl` + `O` to open the open dialog.
+```
+
+Due to styling issues with the website, never use `` ` ` `` (a space surrounded by grave marks).
 
 #### Button and menu text
 
@@ -566,7 +574,7 @@ Images that are used in multiple different articles must go to the `/wiki/shared
 
 #### Formats and quality
 
-Images used in the osu! wiki must be in JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. The GIF format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
+Images used in the osu! wiki must use the JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. The GIF format can be used if the image contains an animation, but should scarcely used as they may take longer to load.
 
 ##### File size
 
@@ -584,7 +592,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 *Notice: All image file extensions must use lowercase letters, otherwise they will fail to load!*
 
-Image file names must never use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive but short. Never use timestamps or long hashes for the file name.
+Image file names must not use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive but short. Never use timestamps or long hashes for the file name.
 
 #### Image behaviour
 
@@ -602,11 +610,11 @@ There is no way to float an image or have text wrap around an image. If the imag
 
 #### Alternate and title text
 
-All images should have an alternate text. This will ensure that something will be displayed even if the image fails to load. Title text is optional and could be the same as the alt text if needed.
+All images should have alternate text. This will ensure that something will be displayed even if the image fails to load. Title text is optional and could be the same as the alt text if needed.
 
 #### Captions
 
-Images are automatically given captions if they fulfill these rules:
+Images are automatically given captions if they fulfill these conditions:
 
 1. The image is by itself.
 2. The image is not inside a heading.
