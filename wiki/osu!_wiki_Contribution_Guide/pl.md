@@ -63,7 +63,7 @@ W tym momencie, masz dwie opcje:
 
 ## Zakończenie
 
-### Tworzenie żądania ściągnięcia
+### Tworzenie pull requestu
 
 1. Przejdź do [repozytorium `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
@@ -91,7 +91,7 @@ W tym momencie, masz dwie opcje:
 
 W przypadku tłumaczeń artykułów, uwzględnij dwuliterowy symbol języka, na który tłumaczysz dany artykuł, w nawiasie kwadratowym, przed tytułem. Tytułem może być po prostu nazwa(y) artykułu(ów), który tłumaczysz. Na przykład, `[FR] BBCode` oznaczałoby, że aktualizujesz Francuską translację [artykułu o kodzie BB](/wiki/BBCode).
 
-9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego żądania ściągnięcia, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twoje żądanie sciągnięcia automatycznie zamykało zagadnienia przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie zagadnień przy użyciu słów kluczowych](https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
+9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego pull requestu, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twój pull request automatycznie zamykał zagadnienia przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie zagadnień przy użyciu słów kluczowych](https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
 
 10. Kiedy jesteś gotów, kliknij `Create pull request`.
 
