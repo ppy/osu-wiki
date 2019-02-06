@@ -109,7 +109,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| osu! Technical Championship | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | European Dream | MudHorse | !^ |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
 | [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
 

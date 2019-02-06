@@ -109,7 +109,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| osu! Technical Championship | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | European Dream | MudHorse | !^ |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
 | [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
 

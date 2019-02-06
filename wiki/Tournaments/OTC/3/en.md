@@ -93,32 +93,77 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 -----------------------
 
-## Match Schedules: Round of 32
+## Match Schedules: Semifinals
 
-### Saturday, 26 January 2019
+### Friday, 8 February 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Crystal | ![][flag_CN] | ![][flag_MN] | seegii | **10:00** |
-| #2 | Aden | ![][flag_RU] | ![][flag_KR] | ftg | **11:00** |
-| #5 | Bubbleman | ![][flag_GB] | ![][flag_AU] | Takagaki | **12:00** |
-| #14 | Xilver15 | ![][flag_IL] | ![][flag_DE] | Megure | **13:00** |
-| #13 | Okinotori | ![][flag_RU] | ![][flag_PL] | MrBooM | **14:00** |
-| #8 | Riven | ![][flag_GR] | ![][flag_RU] | neko ds | **15:00** |
-| #10 | Ayla | ![][flag_UA] | ![][flag_BR] | My Angelsim | **16:00** |
-| #3 | Musty | ![][flag_FR] | ![][flag_AT] | Teppi | **17:00** |
-| #4 | badeu | ![][flag_RO] | ![][flag_AR] | -Urushihara- | **18:00** |
-| #7 | Knalli | ![][flag_DE] | ![][flag_PL] | Marek Marucha | **18:00** |
-| #15 | \_demo | ![][flag_PL] | ![][flag_US] | WillCookie | **19:00** |
-| #12 | Hanori | ![][flag_BE] | ![][flag_US] | Cappy | **19:00** |
-| #16 | Gifted | ![][flag_US] | ![][flag_DE] | Dustice | **20:00** |
-| #11 | Woey | ![][flag_US] | ![][flag_BR] | Mystia | **21:00** |
-| #6 | Tekkito | ![][flag_US] | ![][flag_US] | Jace | **22:00** |
-| #9 | Junjou | ![][flag_US] | ![][flag_US] | Apraxia | **23:00** |
+| #55 | Crystal | ![][flag_CN] | ![][flag_GB] | Bubbleman | **10:00** |
+
+### Saturday, 9 February 2019
+
+| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #50 | neko ds | ![][flag_RU] | ![][flag_RU] | Okinotori | **16:00** |
+| #49 | Teppi | ![][flag_AT] | ![][flag_UA] | Ayla | **17:00** |
+| #52 | \_demo | ![][flag_PL] | ![][flag_US] | Jace | **18:00** |
+| #51 | Apraxia | ![][flag_US] | ![][flag_RO] | badeu | **19:00** |
+| #56 | Woey | ![][flag_US] | ![][flag_IL] | Xilver | **20:00** |
 
 -----------------------
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (140 MB)](http://www.mediafire.com/file/u7cruip6preqah3/OTC+%233+Semifinals+Mappool.zip)**
+
+- NoMod
+  - [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) \[Extra\]](/beatmapsets/684060#osu/1447689)
+  - [PinocchioP - All I Need are Things I Like (tutuhaha) \[Things I Like\]](/beatmapsets/525070#osu/1636508)
+  - [Camellia - Key of timepieces (Regou) \[Fragments\]](/beatmapsets/534800#osu/1132818)
+  - [Sota Fujimori - polygon (Sebu) \[heptagon\]](/beatmapsets/422136#osu/1354636)
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/31119#osu/105143)
+- Hidden
+  - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Extra\]](/beatmapsets/847776#osu/1772923)
+  - [ak+q - Excelsia (PoNo) \[Pono's F.ascination\]](/beatmapsets/693892#osu/1472946)
+  - [succducc - me & u (YokesPai) \[deceiving extra\]](/beatmapsets/851466#osu/1779909)
+- HardRock
+  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](/beatmapsets/751774#osu/1582594)
+  - [LeaF - Evanescent (Rohit6) \[Rohit's Extra\]](/beatmapsets/440997#osu/958282)
+  - [Nekomata Gekidan - AsiaN distractive (StarrStyx) \[StarR's Expert\]](/beatmapsets/657122#osu/1411709)
+- DoubleTime
+  - [Nanahira - Viva Happy (Chaoslitz) \[Chaoz's Another\]](/beatmapsets/672621#osu/1508163)
+  - [SAMString - Sakura's Fall (DeviousPanda) \[DeviousPanda's Insane\]](/beatmapsets/912860#osu/1906956)
+  - [KYARY PAMYU PAMYU - Kimi no Mikata (VINXIS) \[Ally\]](/beatmapsets/808849#osu/1697323)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (Realazy) \[Strikethrough\]](/beatmapsets/908451#osu/1895699)**
+
+### Quarterfinals
+
+**[Download the mappack here! (163 MB)](http://www.mediafire.com/file/6bnzwt6be53dt6q/OTC+%233+QF+Mappool.zip)**
+
+- NoMod
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (fanzhen0019) \[fanzhen's Hi-Speed Extra\]](/beatmapsets/139525#osu/367763)
+  - [YURRY CANON - Nadeshiko color Heart (Saturnalize \[Saturnalize's Extra\]](/beatmapsets/682996#osu/1463294)
+  - [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry, Ameth Rianno) \[Neil x Ameth's Conflux\]](/beatmapsets/881753#osu/1843575)
+  - [xi - .357 Magnum (Akali) \[High Noon\]](/beatmapsets/155749#osu/546944)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver) \[ReMiX\]](/beatmapsets/586425#osu/1241924)
+- Hidden
+  - [YUC'e - Future Cider (Sing) \[Duplication\]](/beatmapsets/591674#osu/1252022)
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (nold\_1702) \[Nold's Posthumous\]](/beatmapsets/261911#osu/736300)
+  - [Wakeshima Kanon - Shoujo Shikake no Libretto \~Storytelling by solita\~ (Deramok) \[Dreaming of The Imminent\]](/beatmapsets/636105#osu/1349819)
+- HardRock
+  - [aran - VOLT (USAO Remix) (Plaudible) \[Plaudible's Extra\]](/beatmapsets/732280#osu/1631406)
+  - [Nekomata Master - Byakuya Gentou (ignorethis) \[EX\]](/beatmapsets/36849#osu/119375)
+  - [M2U - Dual Fractal (Bor) \[bor's Another\]](/beatmapsets/865577#osu/1826401)
+- DoubleTime
+  - [LeaF - I (Maddy) \[Hyper\]](/beatmapsets/99244#osu/264894)
+  - [Ocelot - KAEDE (Kawashiro) \[Kawa's Extra\]](/beatmapsets/660630#osu/1418838)
+  - [EYE\_XY feat. Yoneko - Knight of Firmament (LMT) \[LMT's Insane\]](/beatmapsets/317749#osu/1622359)
+- Tiebreaker
+  - [AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](/beatmapsets/530818#osu/1125109)
 
 ### Round of 32 / Round of 16
 
@@ -169,6 +214,79 @@ The osu! Technical Championship #3 is run by various osu! community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2019-02-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **ftg** ![][flag_KR] | **5** | 2 | ![][flag_US] WillCookie | [#1](https://osu.ppy.sh/community/matches/49296446) |
+| Apraxia ![][flag_US] | 1 | **5** | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/49299182) |
+| **Crystal** ![][flag_CN] | **5** | 1 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49306751) |
+| Dustice ![][flag_DE] | 0 | **5** | ![][flag_MN] seegii | -win by default- |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_RU] neko ds | [#1](https://osu.ppy.sh/community/matches/49309319) |
+| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/49310921) |
+| **Okinotori** ![][flag_RU] | **5** | 3 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/49312981) |
+| **Ayla** ![][flag_UA] | **5** | 3 | ![][flag_PL] Marek Marucha | [#1](https://osu.ppy.sh/community/matches/49312624) |
+| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/49314628) |
+| **Jace** ![][flag_US] | **5** | 0 | ![][flag_BR] Mystia | -win by default- |
+| Cappy ![][flag_US] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/49321691) |
+
+| Sunday, 2019-02-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **badeu** ![][flag_RO] | **5** | 1 | ![][flag_KR] ftg | [#1](https://osu.ppy.sh/community/matches/49334885) |
+| seegii ![][flag_MN] | 2 | **5** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49336141) |
+| **Knalli** ![][flag_DE] | **5** | 1 | ![][flag_BR] My Angelsim | [#1](https://osu.ppy.sh/community/matches/49345151) |
+| Tekkito ![][flag_US] | 0 | **5** | ![][flag_UA] **Ayla** | -win by default- |
+| Knalli ![][flag_DE] | 3 | **5** | ![][flag_US] Jace | [#1](https://osu.ppy.sh/community/matches/49347189) |
+
+### Round of 32 / Round of 16
+
+| Friday, 2019-01-25 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_US] WillCookie | [#1](/community/matches/49123674) |
+
+| Saturday, 2019-01-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Crystal** ![][flag_CN] | **5** | 0 | ![][flag_MN] seegii | [#1](/community/matches/49139736) |
+| Aden ![][flag_RU] | 0 | **5** | ![][flag_KR] **ftg** | -win by default- |
+| Musty ![][flag_FR] | 1 | **5** | ![][flag_AT] **Teppi** | [#1](/community/matches/49149236) |
+| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_AR] -Urushihara- | [#1](/community/matches/49151090) |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_AU] Takagaki | [#1](/community/matches/49160169) |
+| Tekkito ![][flag_US] | 3 | **5** | ![][flag_US] **Jace** | [#1](/community/matches/49160169) |
+| **Knalli** ![][flag_DE] | **5** | 4 | ![][flag_PL] Marek Marucha | [#1](/community/matches/49151041) |
+| Riven ![][flag_GR] | 2 | **5** | ![][flag_RU] **neko ds** | [#1](/community/matches/49145947) |
+| Junjou ![][flag_US] | 3 | **5** | ![][flag_US] **Apraxia** | [#1](/community/matches/49130585) |
+| **Ayla** ![][flag_UA] | **5** | 4 | ![][flag_BR] My Angelsim | [#1](/community/matches/49147628) |
+| **Woey** ![][flag_US] | **5** | 4 | ![][flag_BR] Mystia | [#1](/community/matches/49152627) |
+| Hanori ![][flag_BE] | 1 | **5** | ![][flag_US] **Cappy** | [#1](/community/matches/49152673) |
+| **Okinotori** ![][flag_RU] | **5** | 4 | ![][flag_PL] MrBooM | [#1](/community/matches/49144244) |
+| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_DE] Megure | -win by default- |
+| Gifted ![][flag_US] | 0 | **5** | ![][flag_DE] **Dustice** | [#1](/community/matches/49155512) |
+
+| Sunday, 2019-01-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Crystal** ![][flag_CN] | **5** | 2 | ![][flag_KR] ftg | [#1](/community/matches/49170807) |
+| **Teppi** ![][flag_AT] | **5** | 3 | ![][flag_RO] badeu | [#1](/community/matches/49176070) |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_US] Jace | [#1](/community/matches/49185178) |
+| Knalli ![][flag_DE] | 3 | **5** | ![][flag_RU] **neko ds** | [#1](/community/matches/49176266) |
+| Okinotori ![][flag_RU] | 3 | **5** | ![][flag_IL] **Xilver15** | [#1](/community/matches/49181998) |
+| **seegii** ![][flag_MN] | **5** | 1 | ![][flag_RU] Aden | [#1](/community/matches/49171765) |
+| **MrBooM** ![][flag_PL] | **5** | 0 | ![][flag_DE] Megure | -win by default- |
+| **Marek Marucha** ![][flag_PL] | **5** | 0 | ![][flag_GR] Riven | -win by default- |
+| **Mystia** ![][flag_BR] | **5** | 1 | ![][flag_BE] Hanori | [#1](/community/matches/49181768) |
+| **WillCookie** ![][flag_US] | **5** | 0 | ![][flag_US] Gifted | -win by default- |
+| Junjou ![][flag_US] | 2 | **5** | ![][flag_BR] **My Angelsim** | [#1](/community/matches/49181768) |
+
+| Monday, 2019-01-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Woey** ![][flag_US] | **5** | 4 | ![][flag_US] Cappy | [#1](/community/matches/49188022) |
+| Takagaki ![][flag_AU] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](/community/matches/49190339) |
+| **Apraxia** ![][flag_US] | **5** | 1 | ![][flag_UA] Ayla | [#1](/community/matches/49193498) |
+| **\_demo** ![][flag_PL] | **5** | 4 | ![][flag_DE] Dustice | [#1](/community/matches/49204563) |
+
+| Tuesday, 2019-01-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Musty** ![][flag_FR] | **5** | 1 | ![][flag_AR] -Urushihara- | [#1](/community/matches/49224571) |
 
 ### Group Stage
 
