@@ -24,7 +24,7 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | Quarts-de-finale | 2019-01-19/2019-01-20 |
 | Demi-finales | 2019-01-26/2019-01-27 |
 | Finales | 2019-02-02/2019-02-03 |
-| Grandes Finales | 2019-02-09 |
+| Grandes Finales | 2019-02-16 |
 
 ### osu!taiko
 
@@ -37,7 +37,7 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 | 6èmes de finale | 2019-01-19/2019-01-20 |
 | Demi-finales | 2019-01-26/2019-01-27 |
 | Finales | 2019-02-02/2019-02-03 |
-| Grandes Finales | 2019-02-09 |
+| Grandes Finales | 2019-02-23 |
 
 ### osu!catch
 
@@ -157,84 +157,33 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ## Planning des matches
 
-### Division osu!: Finales
+### Division osu!: Grandes Finales
 
-#### Samedi, 2 Février 2019
+*Division osu!: La Grande Finale commencera le 16 Février.*
+
+### Division osu!taiko: Grandes Finales
+
+*Division osu!taiko: La Grande Finale commencera le 23 Février.*
+
+### Division osu!mania: Finales
+
+#### Samedi, 9 Février 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Mooha | ![][flag_FR] | ![][flag_FR] | ThePooN | **14:45** |
-| #2 | NerO | ![][flag_FR] | ![][flag_FR] | Flaven | **16:45** |
+| #1 | Azubeur | ![][flag_FR] | ![][flag_FR] | PatouZ | **15:30** |
+| #2 | DemonWaves | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
 
-#### Dimanche, 3 Février 2019
+#### Dimanche, 10 Février 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #3¹ | Mooha | ![][flag_FR] | ![][flag_FR] | NerO | **16:45** |
-| #4¹ | ThePooN | ![][flag_FR] | ![][flag_FR] | NerO | **17:30** |
-| #5¹ | Mooha | ![][flag_FR] | ![][flag_FR] | Flaven | **15:45** |
-| #6¹ | ThePooN | ![][flag_FR] | ![][flag_FR] | Flaven | **16:45** |
+| #3a¹ | Azubeur | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
+| #3b¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
+| #3c¹ | Azubeur | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
+| #3d¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
 
 ¹ Confrontation dépendant du perdant du Match #1 et du gagnant du Match #2
-
-### Division osu!taiko: Finales
-
-#### Samedi, 2 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Romainnoda | ![][flag_FR] | ![][flag_FR] | TimmyAkmed | **14:00** |
-| #2 | Yona la loutre | ![][flag_FR] | ![][flag_FR] | omegaflo | **16:00** |
-
-#### Dimanche, 3 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | Romainnoda | ![][flag_FR] | ![][flag_FR] | Yona la loutre | **16:00** |
-| #3b¹ | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | Yona la loutre | **16:00** |
-| #3c¹ | Romainnoda | ![][flag_FR] | ![][flag_FR] | omegaflo | **16:00** |
-| #3d¹ | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | omegaflo | **16:00** |
-
-¹ Confrontation dépendant du perdant du Match #1 et du gagnant du Match #2
-
-### Division osu!catch: Grandes Finales
-
-#### Samedi, 2 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Boros | ![][flag_FR] | ![][flag_TN] | -Ken | **18:00** |
-| #2¹ | -Ken | ![][flag_TN] | ![][flag_FR] | Boros |  |
-
-¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
-
-### Division osu!mania: Demi-finales
-
-#### Samedi, 2 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Azubeur | ![][flag_FR] | ![][flag_FR] | \[ Odin \] | **15:30** |
-| #2 | PatouZ | ![][flag_FR] | ![][flag_FR] | Elementaires | **16:30** |
-| #3 | DemonWaves | ![][flag_FR] | ![][flag_FR] | Kyzoid | **17:30** |
-| #4 | DragonSonic | ![][flag_FR] | ![][flag_FR] | Satsukel | **18:30** |
-
-#### Dimanche, 3 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #5a¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
-| #5b¹ | Elementaires | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
-| #5c¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | Kyzoid | **17:30** |
-| #5d¹ | Elementaires | ![][flag_FR] | ![][flag_FR] | Kyzoid | **17:30** |
-| #6a² | Azubeur | ![][flag_FR] | ![][flag_FR] | DragonSonic | **18:30** |
-| #6b² | \[ Odin \] | ![][flag_FR] | ![][flag_FR] | DragonSonic | **18:30** |
-| #6c² | Azubeur | ![][flag_FR] | ![][flag_FR] | Satsukel | **18:30** |
-| #6d² | \[ Odin \] | ![][flag_FR] | ![][flag_FR] | Satsukel | **18:30** |
-
-¹ Confrontation dépendant du perdant du Match #2 et du gagnant du Match #3
-
-² Confrontation dépendant du perdant du Match #1 et du gagnant du Match #4
 
 -----------------------
 
@@ -617,6 +566,30 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!mania
 
+#### Finales
+
+**[Télécharge le mappack ici! (79 MB)](https://mega.nz/#!YxlARS6I!UE_ZjEuIfLZ_CzPazKXsm3IJWXkOgV9ol2jSde8xkJo)**
+
+- FreeMod
+  - [Sta - The Ricochet (Tantei B) \[Sustainable Vector\]](/beatmapsets/920876#mania/1923098)
+  - [Banya - Extravaganza (BossMadWolf) \[Extraordinary\]](/beatmapsets/811333#mania/1701939)
+  - [Eagle - Reflux (maximumn) \[4K INSANE\]](/beatmapsets/748859#mania/1577519)
+  - [Mayumi Morinaga - Kimi ni yell wo... ! (DJ UTO REMIX) (Brian\_Ex, Fullerene-) \[B_Ex <3 Ene's GRAVITY Lv.16\]](/beatmapsets/316669#mania/705586)
+  - [cosMo@BousouUltimate - XyHATTE (jakads) \[EXHAUST\]](/beatmapsets/375864#mania/823071)
+  - [kagerow - Starry Story! (DMG Chazuke mix) (scissorsf) \[StelLNa!\]](/beatmapsets/464171#mania/993889)
+  - [Whirligig231 - Battle Against A True Parent (scissorsf) \[Battle Against A True LN Master\]](/beatmapsets/774898#mania/1628530)
+  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](/beatmapsets/765772#mania/1609983)
+  - [ZUN - Voyage 1969 + 1970 (RemFangirl) \[Divine Life\]](/beatmapsets/674877#mania/1427831)
+  - [Camellia - Towards The Horizon (Herkkupala) \[To The Sky\]](/beatmapsets/668527#mania/1414298)
+  - [Dan Terminus - Margaritifer (XeoStyle) \[Phobos\]](/beatmapsets/747211#mania/1574526)
+  - [Camellia - fastest crash (Camellia's ''paroxysmal'' Energetic Hitech Remix) (fia) \[dive with me (fia's clean re-step)\]](/beatmapsets/834237#mania/1748945)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](/beatmapsets/667301#mania/1412004)
+  - [SP-# - Epsilon Wave (Elekton) \[delayed activation\]](/beatmapsets/650100#mania/1377728)
+  - [technoplanet - Inscape (inteliser) \[UNLIMITED\]](/beatmapsets/626339#mania/1320867)
+  - [Treyarch Sound - Archangel (Civilization) \[Detain\]](/beatmapsets/828771#mania/1736352)
+- Tiebreaker
+  - **[DJ Genki (as Gram) vs. Camellia - Ragnarok (Chronos Returns) \[Resolve\]](/beatmapsets/753369#mania/1586090)**
+
 #### Demi-finales
 
 **[Télécharge le mappack ici! (173 MB)](https://mega.nz/#!Yg9nXS6Y!VecFE-SnPbKDQ402VxzspEi_Vq5tVEpXkbXZQhkm7D8)**
@@ -682,6 +655,17 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 ## Résultats des matches
 
 ### Division osu!
+
+#### Finales
+
+| Samedi, 2019-02-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **ThePooN** | -win by default- |
+| **NerO** ![][flag_FR] | **7** | 3 | ![][flag_FR] Flaven | [#1](/community/matches/49310209) |
+
+| Dimanche, 2019-02-03 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **NerO** | -win by default- |
 
 #### Demi-finales
 
@@ -790,6 +774,17 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!taiko
 
+#### Finales
+
+| Saturday, 2019-02-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/mp/49306349) |
+| **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/mp/49317966) |
+
+| Sunday, 2019-02-03 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/mp/49338803) |
+
 #### Demi-finales
 
 | Samedi, 2019-01-26 |  |  |  |  | 
@@ -873,6 +868,13 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!catch
 
+#### Grandes Finales
+
+| Saturday, 2019-02-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/mp/49313282) |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/mp/49314789) |
+
 #### Finales
 
 | Samedi, 2019-01-26 |  |  |  |  | 
@@ -908,6 +910,20 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](/community/matches/48835441)
 
 ### Division osu!mania
+
+#### Demi-finales
+
+| Saturday, 2019-02-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](https://osu.ppy.sh/mp/49308835) |
+| **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/mp/49310117) |
+| **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/mp/49311938) |
+| **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/mp/49311941) |
+
+| Sunday, 2019-02-03 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](https://osu.ppy.sh/mp/49341019) |
+| \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | -win by default- |
 
 #### Quarts-de-finale
 
