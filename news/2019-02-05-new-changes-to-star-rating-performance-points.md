@@ -22,11 +22,9 @@ Also note that this only affects osu! mode. Other game modes have active tasks i
 
 # Summary of changes
 
-Without further delay, let's get into the specific changes:
-
 ## Wide angle jumps
 
-The angle formed between hitobjects is now considered towards the difficulty of jumps. A sinusoidal curve governs the difficulty increase from a minimum of 60 degree jumps to a maximum of 150 degree jumps.
+The aim difficulty rating of hitobjects now considers the angles formed.
 
 ![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
 
@@ -36,7 +34,7 @@ Example beatmap where this change can be seen:
 
 ## High BPM streams
 
-The difficulty rating of patterns consisting of high-paced hitobjects (streams) now increases exponentially from 200 BPM to 330 BPM.
+The difficulty of patterns consisting of high-paced hitcircles (streams) now increases exponentially from 200 BPM to 330 BPM.
 
 ![](https://user-images.githubusercontent.com/1329837/52330890-f5fcd200-2a39-11e9-93ee-f11b3ddb5f8e.png)
 
@@ -45,7 +43,7 @@ Example beatmap where this change can be seen:
 
 ## Highly spaced streams
 
-Streams with very high spacing between hitcircles have been tuned down a bit. These plays are still quite impressive and worth a lot, just not quite as much as before.
+The difficulty rating of streams with very high spacing between hitcircles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
 
 ![](https://user-images.githubusercontent.com/1329837/52332956-57736f80-2a3f-11e9-9263-a911bede5cff.png)
 
@@ -55,18 +53,18 @@ Example beatmaps where this change can be seen:
 
 ## Long sliders
 
-The difficulty due to long sliders has been increased significantly.
+The difficulty rating of long sliders has been increased significantly.
 
 ![](https://user-images.githubusercontent.com/1329837/52334682-9c010a00-2a43-11e9-8ba5-53c0ed31b839.png)
 
-The effect of this change increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
+The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
 
 Example beatmap where this change can be seen:
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083)
 
 ## Flashlight mod adjustments
 
-The amount of performance points awarded due to flashlight has been reduced for short beatmaps and increased for long beatmaps.
+The amount of performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
 
 ![](https://user-images.githubusercontent.com/1329837/52335994-1d0dd080-2a47-11e9-9c42-e6b33cc5292a.png)
 
@@ -76,7 +74,7 @@ Example beatmaps where this change can be seen:
 
 ## Hidden mod adjustments
 
-The amount of performance points awarded due the hidden mod has been increased for beatmaps requiring aim and accuracy, and decreased for high approach rate beatmaps requiring high speed.
+The amount of performance points awarded due the hidden mod has been increased for beatmaps requiring aim and accuracy, and decreased for high approach rate beatmaps requiring speed.
 
 | ![](https://user-images.githubusercontent.com/1329837/52336518-7c201500-2a48-11e9-8604-6c895b5ea28d.png) | ![](https://user-images.githubusercontent.com/1329837/52336615-b38ec180-2a48-11e9-98fd-cd48a65f01b2.png) | ![](https://user-images.githubusercontent.com/1329837/52336812-3fa0e900-2a49-11e9-99d5-3f3bceb946d4.png) |
 | - | - | - |
