@@ -38,7 +38,7 @@ Besides the changes to aim, there has been an adjustment to how streams are hand
 
 Able to FC 300 BPM stacks with your laptop keyboard? This is the change you've been waiting for. 
 
-Beyond the buff, a small nerf to very spaced streams has been introduced. These are those streams found in maps such as [HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) and [Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566). While the nerfs are noticable, these plays are still quite impressive and worth a lot, just not quite as much as they were worth before.
+A small nerf has also been applied to stream patterns with very high spacing between each hitcircle. These are those streams found in maps such as [HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) and [Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566). While the nerfs are noticable, these plays are still quite impressive and worth a lot, just not quite as much as they were worth before.
 
 ## Slider Buffs
 
