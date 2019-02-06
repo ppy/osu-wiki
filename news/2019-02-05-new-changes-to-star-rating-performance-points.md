@@ -14,10 +14,6 @@ While the updates we've just made are not designed to fix *every* issue with the
 
 Also note that this only affects osu! mode. Other game modes have active tasks in the pipeline and will be applied over the coming months.
 
-Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 # Release Schedule
 
 - As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select.
@@ -30,43 +26,63 @@ Without further delay, let's get into the specific changes:
 
 ## Wide Angle Jumps
 
-As many players are well aware, the angle of a jump impacts how difficult a pattern is to combo. Evidence of this can be found throughout modern mapping, where almost all maps that are popular for their PP values contain jumps that are typically non-linear.
+The angle formed between hitobjects is now considered towards the difficulty of jumps. A sinusoidal curve governs the difficulty increase from a minimum of 60 degree jumps to a maximum of 150 degree jumps.
 
-As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
+![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
 
-Decided not to play a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps such as [RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) which require good finger control). Also yes, they will be worth more PP as a result.
+Example beatmap where this change can be seen:
+- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974)
 
-## Streams and High BPM
+## High BPM streams
 
-Besides the change to wide angle jumps, there has been an adjustment to how streams are handled by the algorithm. Many players who are capable of incredible speeds find their ranks are unfairly low given their unique skillset. To promote these unique skillsets, streams exceeding 200 BPM now have an increased reward that more accurately represents their difficulty.
+The difficulty rating of patterns consisting of high-paced hitobjects (streams) now increases exponentially from 200 BPM to 330 BPM.
 
-Able to FC 300 BPM stacks with your laptop keyboard? This is the change you've been waiting for. 
+![](https://user-images.githubusercontent.com/1329837/52330890-f5fcd200-2a39-11e9-93ee-f11b3ddb5f8e.png)
 
-A small nerf has also been applied to stream patterns with very high spacing between each hitcircle. These are those streams found in maps such as [HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) and [Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566). While the nerfs are noticable, these plays are still quite impressive and worth a lot, just not quite as much as they were worth before.
+Example beatmap where this change can be seen:
+- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797)
+
+## Highly-spaced streams
+
+Streams with very high spacing between hitcircles have been tuned down a bit. These plays are still quite impressive and worth a lot, just not quite as much as before.
+
+![](https://user-images.githubusercontent.com/1329837/52332956-57736f80-2a3f-11e9-9263-a911bede5cff.png)
+
+Example beatmaps where this change can be seen:
+- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370)
+- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566)
 
 ## Slider Buffs
 
-Are you a fan of playing those impressive and previously underweighted tech maps with high slider velocity? 
+The difficulty due to long sliders has been increased significantly.
 
-Well, say no more! 
+![](https://user-images.githubusercontent.com/1329837/52334682-9c010a00-2a43-11e9-8ba5-53c0ed31b839.png)
 
-While the specifics are quite complicated, in general, these fast sliders are now more accurately judged by the algorithm. Not only that, but maps with long sliders that have jumps between them also received a large buff compared to before.
+The effect of this change increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
 
-This is a change that will help buff many maps with high slider velocity. While this change will not be noticeable on many maps, the ones that do benefit may see substantial buffs, such as [this one](https://osu.ppy.sh/beatmapsets/753365#osu/1586083).
+Example beatmap where this change can be seen:
+- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083)
 
 ## Flashlight Rework
 
-One of the exciting introductions that will be coming with this patch is the change to flashlight. Flashlight has been a seldom chosen mod for competitive play outside of very short beatmaps since PPv2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points)). 
+The amount of performance points awarded due to flashlight has been reduced for short beatmaps and increased for long beatmaps.
 
-<todo: add user-friendly description of this change>
+![](https://user-images.githubusercontent.com/1329837/52335994-1d0dd080-2a47-11e9-9c42-e6b33cc5292a.png)
 
-## Hidden Rework
+Example beatmaps where this change can be seen:
+- [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - pp increased
+- [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - pp decreased
 
-Yes, HD is changing once again. With the introduction of the high BPM buff, we wanted to make changes to HD so that maps with fast stacked streams weren't overly buffed when HD is applied. 
+## Changes to the hidden mod
 
-Instead of the old system, which primarily buffed speed (as speed was primarily spaced streams), HD now rewards accuracy more, with both aim and speed PP scaling off of the approach rate of the map. The lower the AR the more reward.
+The amount of performance points awarded due the hidden mod has been increased for beatmaps requiring aim and accuracy, and decreased for high approach rate beatmaps requiring high speed.
 
-Are you good at playing with EZ and HD? You'll find a notable increase in performance points for these plays after the update. 
+| ![](https://user-images.githubusercontent.com/1329837/52336518-7c201500-2a48-11e9-8604-6c895b5ea28d.png) | ![](https://user-images.githubusercontent.com/1329837/52336615-b38ec180-2a48-11e9-98fd-cd48a65f01b2.png) | ![](https://user-images.githubusercontent.com/1329837/52336812-3fa0e900-2a49-11e9-99d5-3f3bceb946d4.png) |
+| - | - | - |
+
+Example beatmaps where this change can be seen:
+- [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - pp decreased
+- [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - pp increased
 
 ## Misc PP Changes
 
