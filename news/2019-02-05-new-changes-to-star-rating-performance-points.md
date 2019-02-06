@@ -1,20 +1,24 @@
 ---
 layout: post
-title: "New Changes to Star Rating and Performance Points"
-date: 2019-02-05 01:00:00 +0000
+title: "Changes to osu! Star Rating and Performance Points"
+date: 2019-02-06 07:00:00 +0000
 ---
 
 After many years of stagnancy, some changes are finally coming to the way Star Rating and Performance Points are calculated! Read on to find out more.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
 
-Hello!
-
-It has been a long time coming but finally I, Xexxar, am here to announce changes to both Performance Points (aka: pp) and the star rating system. 
-
-I have been closely involved with various other members of the community over the past few months in proposing amendments to the Performance Points system with the end goal of updating a core part of osu!'s competitive progression that hasn't seen any significant changes in many, many years. The game has evolved considerably since the last update to these key systems, with the introduction of many new and different styles of mapping and gameplay.
+This effort, led by Xexxar and in collaboration with many other community and team members nvolving themselves via the official [osu! development discord server](https://discord.gg/ppy), proposing amendments over the last few months to the Performance Points system with the end goal of updating a core part of osu!'s competitive progression that hasn't seen any significant changes in many, many years. The level of high-end gameplay has evolved considerably since the existing difficulty logic was defined – with the introduction of new different styles of mapping and gameplay – and these updates should hopefully create a fairer rating and ranking system.
 
 While the updates we've just made are not designed to fix *every* issue with the systems as they currently stand, we hope that the changes will allow players to better assess skills that were formerly not factored in properly in previous versions of the algorithm.
+
+# Release Schedule
+
+- As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select.
+- Over the coming hours, server-side star ratings will be updated to match.
+- Over the coming days, all existing scores will be recalculated from global rank #1 outwards. You will see your per-play pp and overall pp/rank change as a result.
+
+# Changes in Detail
 
 Without further delay, let's get into the specific changes:
 
@@ -62,28 +66,15 @@ Are you good at playing with EZ and HD? You'll find a notable increase in perfor
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
-Sliders had excess travel distance due to an off-by-one error during positional calculations and due to the slider end always being considered as a tick.
-
-The length of sliders was only considered if the next hitobject was also a slider.
-
-Hitobjects are now stably-sorted, which changes difficulty for some patterns (think circle - circle+spinner combos), but should be more usable going forward.
-
-The last 400ms of hitobjects in the beatmap was never considered for difficulty.
-
-To combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill.
-
-Note that this will only punish the speed PP from plays with accuracy under 95%. Aim is unaffected, so your 90% Harumachi Clover FC should still be worth around what it was before. 
-
-Previously, the algorithm rewarded extra aim PP for plays that were AR10.33+. While we left this in, we reduced the reward and instead introduced the same concept for speed PP as well. 
-
-This means that impressive HRDT speed plays will now receive a more accurate amount of pp given their difficulty.
+- Sliders had excess travel distance due to an off-by-one error during positional calculations and due to the slider end always being considered as a tick.
+- The length of sliders was only considered if the next hitobject was also a slider.
+- Hitobjects are now stably-sorted, which changes difficulty for some patterns (think circle - circle+spinner combos), but should be more usable going forward.
+- The last 400ms of hitobjects in the beatmap was never considered for difficulty.
+- To combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill. Note that this will only punish the speed PP from plays with accuracy under 95%. Aim is unaffected, so your 90% Harumachi Clover FC should still be worth around what it was before. 
+- Previously, the algorithm rewarded extra aim PP for plays that were AR10.33+. While we left this in, we reduced the reward and instead introduced the same concept for speed PP as well.  This means that impressive HR+DT plays will now receive a more accurate amount of pp given their difficulty.
 
 ----------
 
-And that's it! 
-
-These long needed changes to your scores will roll out over the next few days as scores are being reprocessed. 
-
-I hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy farming!
+We hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
 
 —Xexxar
