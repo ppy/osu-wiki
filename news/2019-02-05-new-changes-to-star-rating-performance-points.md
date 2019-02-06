@@ -14,6 +14,10 @@ While the updates we've just made are not designed to fix *every* issue with the
 
 Also note that this only affects osu! mode. Other game modes have active tasks in the pipeline and will be applied over the coming months.
 
+Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # Release Schedule
 
 - As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select.
