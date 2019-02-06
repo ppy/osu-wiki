@@ -4,7 +4,7 @@
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
 # Minimalistic and Flat
-Undefined Translation
+Compendium of all completed minimalistic or flat osu! skins.
 
 - ![][o!s]  - means the skin contains osu!standard elements.
 - ![][o!c]  - means the skin contains osu!catch elements.
