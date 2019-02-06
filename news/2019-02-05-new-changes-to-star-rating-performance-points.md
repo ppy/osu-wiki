@@ -32,6 +32,7 @@ The angle formed between hitobjects is now considered towards the difficulty of 
 
 Example beatmap where this change can be seen:
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974)
+- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885)
 
 ## High BPM streams
 
