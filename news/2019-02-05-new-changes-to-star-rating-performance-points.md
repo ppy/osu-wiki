@@ -8,7 +8,7 @@ After many years of stagnancy, some changes are finally coming to the way Star R
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
 
-This effort was led by Xexxar in collaboration with many other community and team members nvolving themselves via the official [osu! development discord server](https://discord.gg/ppy), where amendments were proposed over the last few months. The end goal was to update a core part of osu!'s competitive progression that hasn't seen any significant changes in many years. With the level of high-end gameplay constantly evolving since the difficulty calculation logic was last touched, these updates are a step towards restoring fairness and sanity to the rating and ranking systems.
+This effort was led by Xexxar in collaboration with many other community and team members involving themselves via the official [osu! development discord server](https://discord.gg/ppy), where amendments were proposed over the last few months. The end goal was to update a core part of osu!'s competitive progression that hasn't seen any significant changes in many years. With the level of high-end gameplay constantly evolving since the difficulty calculation logic was last touched, these updates are a step towards restoring fairness and sanity to the rating and ranking systems.
 
 While the updates we've just made are not designed to fix *every* issue with the systems as they currently stand, we hope that the changes will allow players to better assess skills that were formerly not factored in properly in previous versions of the algorithm.
 
