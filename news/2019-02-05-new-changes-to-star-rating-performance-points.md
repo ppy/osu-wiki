@@ -20,11 +20,11 @@ Also note that this only affects osu! mode. Other game modes have active tasks i
 - Over the coming hours, server-side star ratings will be updated to match.
 - Over the coming days, all existing scores will be recalculated from global rank #1 outwards. You will see your per-play pp and overall pp/rank change as a result.
 
-# Changes in Detail
+# Summary of changes
 
 Without further delay, let's get into the specific changes:
 
-## Wide Angle Jumps
+## Wide angle jumps
 
 The angle formed between hitobjects is now considered towards the difficulty of jumps. A sinusoidal curve governs the difficulty increase from a minimum of 60 degree jumps to a maximum of 150 degree jumps.
 
@@ -43,7 +43,7 @@ The difficulty rating of patterns consisting of high-paced hitobjects (streams) 
 Example beatmap where this change can be seen:
 - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797)
 
-## Highly-spaced streams
+## Highly spaced streams
 
 Streams with very high spacing between hitcircles have been tuned down a bit. These plays are still quite impressive and worth a lot, just not quite as much as before.
 
@@ -53,7 +53,7 @@ Example beatmaps where this change can be seen:
 - [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370)
 - [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566)
 
-## Slider Buffs
+## Long sliders
 
 The difficulty due to long sliders has been increased significantly.
 
@@ -64,7 +64,7 @@ The effect of this change increases along with the jump distance to the slider i
 Example beatmap where this change can be seen:
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083)
 
-## Flashlight Rework
+## Flashlight mod adjustments
 
 The amount of performance points awarded due to flashlight has been reduced for short beatmaps and increased for long beatmaps.
 
@@ -74,7 +74,7 @@ Example beatmaps where this change can be seen:
 - [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - pp increased
 - [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - pp decreased
 
-## Changes to the hidden mod
+## Hidden mod adjustments
 
 The amount of performance points awarded due the hidden mod has been increased for beatmaps requiring aim and accuracy, and decreased for high approach rate beatmaps requiring high speed.
 
@@ -85,7 +85,7 @@ Example beatmaps where this change can be seen:
 - [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - pp decreased
 - [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - pp increased
 
-## Misc PP Changes
+## Miscellaneous changes
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
