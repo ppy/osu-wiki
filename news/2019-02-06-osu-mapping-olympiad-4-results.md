@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #4 Results (osu!catch)"
-date: 2019-02-05 15:00:00 +0000
+date: 2019-02-06 20:00:00 +0000
 ---
 
-*Contest, contest, on the forum page - who is the greatest fruit arranger of the age?* The results for the first osu!catch edition of the osu! Mapping Olympiad have arrived!
+*Contest, contest, on the forum page, who is the greatest fruit arranger of the age?* The results for the first osu!catch edition of the osu! Mapping Olympiad have arrived!
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/69)
 
@@ -37,13 +37,13 @@ A huge thank you to everyone who submitted an entry and congratulations to the t
 - **Second place**: 3 months of osu!supporter, 4 Olympiad Points
 - **Third place**: 2 months of osu!supporter, 2 Olympiad Points
 
-[A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated shortly after each contest.
+[A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing). Updates should be posted shortly after each contest.
 
-Additional thanks to our hard-working judges for this contest: [Absolute Zero](https://osu.ppy.sh/users/4847256), [Nokashi](https://osu.ppy.sh/users/5431196) and [-Plus-](https://osu.ppy.sh/users/829284). Unfortunately -Plus- was unable to complete his judge comments due to real life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
+Additional thanks to our hard-working judges for this contest: [Absolute Zero](https://osu.ppy.sh/users/4847256), [Nokashi](https://osu.ppy.sh/users/5431196) and [-Plus-](https://osu.ppy.sh/users/829284). Unfortunately -Plus- was unable to complete his judge comments due to real-life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
 
 If you enjoyed the contest and song, assistance with the Ranking process for [Sinnoh's winning entry](https://osu.ppy.sh/beatmapsets/921419#fruits/1924123) would be greatly appreciated! Additionally, [all of the entries can be downloaded here](https://drive.google.com/open?id=1cTCPOygsn21-AHpEWPrUsfEg4f6Kfybk) if you wish to check them out for yourselves!
 
-Hopefully you all enjoyed participating in (or simply following) this contest as much as we had organizing it! If you did, be on the lookout for further Olympiad contests in the future!
+Hopefully you all enjoyed participating in (or simply following) this contest as much as we did organizing it! If you did, be on the lookout for more Olympiad contests in the future!
 
 For those of you who are still eagerly awaiting the osu!taiko and osu!mania Olympiad contests results, we apologise for the delays. There have been a number of unfortunate real-life situations weighing down our judging teams, but we're hoping to get the results published soon!
 
