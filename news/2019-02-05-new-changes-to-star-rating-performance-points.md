@@ -30,7 +30,7 @@ As many players are well aware, the angle of a jump impacts how difficult a patt
 
 As such, through the usage of a new angle calculation, a new scaling reward for jumps with angles exceeding 60 degrees has been added. 
 
-Decided not to farm a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps such as [RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) which require good finger control). Also yes, they will be worth more PP as a result.
+Decided not to play a map because it had square jumps? Found yourself baffled by the difficulty of an older 2013 map with linear flow? These previously underweighted maps now have a more accurate star rating associated with them (this includes alt maps such as [RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) which require good finger control). Also yes, they will be worth more PP as a result.
 
 ## Streams and High BPM
 
@@ -52,9 +52,9 @@ This is a change that will help buff many maps with high slider velocity. While 
 
 ## Flashlight Rework
 
-One of the exciting introductions that will be coming with this patch is the change to flashlight. Primarily a dead mod outside of farming 30 second maps, flashlight has been irrelevant since PPV2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points)). 
+One of the exciting introductions that will be coming with this patch is the change to flashlight. Flashlight has been a seldom chosen mod for competitive play outside of very short beatmaps since PPv2's inception back in 2014 (more information can be found [here](https://osu.ppy.sh/help/wiki/Performance_Points)). 
 
-Before, the bonus to aim for using flashlight started at a 40% increase in performance. Now it starts at 0% but scales much more with the length of the map. You'll now need to try harder than ever before to memorise those longer beatmaps!
+<todo: add user-friendly description of this change>
 
 ## Hidden Rework
 
