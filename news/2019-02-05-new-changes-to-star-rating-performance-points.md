@@ -87,12 +87,13 @@ Example beatmaps where this change can be seen:
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
-- Sliders had excess travel distance due to an off-by-one error during positional calculations and due to the slider end always being considered as a tick.
+- Sliders had excess travel distance due to errors in slider calculations.
 - The length of sliders was only considered if the next hitobject was also a slider.
-- Hitobjects are now stably-sorted, which changes difficulty for some patterns (think circle - circle+spinner combos), but should be more usable going forward.
+- Simultaneous hitobjects are now sorted in a different order, causing a slight change in difficulty. This has an effect on some maps but paves the way forward for further changes.
 - The last 400ms of hitobjects in the beatmap was never considered for difficulty.
-- To combat potentially unimpressive keyboard mashing that may be common for high speed plays as a result of the new buff, a new reward curve for accuracy has been introduced for the speed skill. Note that this will only punish the speed PP from plays with accuracy under 95%. Aim is unaffected, so your 90% Harumachi Clover FC should still be worth around what it was before. 
-- Previously, the algorithm rewarded extra aim PP for plays that were AR10.33+. While we left this in, we reduced the reward and instead introduced the same concept for speed PP as well.  This means that impressive HR+DT plays will now receive a more accurate amount of pp given their difficulty.
+- Accuracy more greatly affects the performance points rewarded on speed maps.
+- The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring aim has been reduced.
+- The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring speed has been increased.
 
 ----------
 
