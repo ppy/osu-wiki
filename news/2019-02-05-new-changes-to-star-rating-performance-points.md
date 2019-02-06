@@ -34,7 +34,7 @@ Decided not to play a map because it had square jumps? Found yourself baffled by
 
 ## Streams and High BPM
 
-Besides the changes to aim, there has been an adjustment to how streams are handled by the algorithm. Many players who are capable of incredible speeds find their ranks are unfairly low given their unique skillset. To promote these unique skillsets, streams exceeding 200 BPM now have an increased reward that more accurately represents their difficulty.
+Besides the change to wide angle jumps, there has been an adjustment to how streams are handled by the algorithm. Many players who are capable of incredible speeds find their ranks are unfairly low given their unique skillset. To promote these unique skillsets, streams exceeding 200 BPM now have an increased reward that more accurately represents their difficulty.
 
 Able to FC 300 BPM stacks with your laptop keyboard? This is the change you've been waiting for. 
 
