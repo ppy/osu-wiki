@@ -30,7 +30,7 @@ The aim difficulty rating of hitobjects now considers the angles formed.
 
 ![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
 
-Example beatmap where this change can be seen:
+Example beatmaps where this change can be seen:
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
 - [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
 - [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38* -> 4.88*
@@ -93,7 +93,7 @@ These are the more minor technical changes that we introduced to fix previous is
 - Sliders had excess travel distance due to errors in slider calculations.
 - The length of sliders was only considered if the next hitobject was also a slider.
 - Simultaneous hitobjects are now sorted in a different order, causing a slight change in difficulty. This has an effect on some maps but paves the way forward for further changes.
-- The last 400ms of hitobjects in the beatmap was never considered for difficulty.
+- The last 400ms of hitobjects in the beatmap are now properly considered for difficulty.
 - Accuracy more greatly affects the performance points rewarded on speed maps.
 - The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring aim has been reduced.
 - The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring speed has been increased.
