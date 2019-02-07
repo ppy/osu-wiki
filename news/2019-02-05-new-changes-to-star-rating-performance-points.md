@@ -39,6 +39,8 @@ Example beatmaps where this change can be seen:
 - [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
 - [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38* -> 4.88*
 
+View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
+
 ## High BPM streams
 
 The difficulty of patterns consisting of high-paced hitcircles (streams) now increases exponentially from 200 BPM to 330 BPM.
@@ -47,6 +49,8 @@ The difficulty of patterns consisting of high-paced hitcircles (streams) now inc
 
 Example beatmap where this change can be seen:
 - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
+
+View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 ## Highly spaced streams
 
@@ -57,6 +61,8 @@ The difficulty rating of streams with very high spacing between hitcircles has b
 Example beatmaps where this change can be seen:
 - [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
 - [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11* -> 7.04*
+
+View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 ## Long sliders
 
@@ -69,6 +75,8 @@ The effect of this change also increases along with the jump distance to the sli
 Example beatmap where this change can be seen:
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
 
+View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
+
 ## Speed accuracy
 
 The performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed rating.
@@ -79,6 +87,8 @@ Example beatmaps where this change can be seen:
 - [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - idke's S-rank score increased from 980pp to 990pp
 - [ClariS](https://osu.ppy.sh/beatmapsets/661919#osu/1401254) - FGSky's B-rank score reduced from 819pp to 818pp
 
+View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
+
 ## Flashlight mod adjustments
 
 The performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
@@ -88,6 +98,8 @@ The performance points awarded due to the flashlight mod has been reduced for sh
 Example beatmaps where this change can be seen:
 - [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - pp increased
 - [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - pp decreased
+
+View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](https://github.com/ppy/osu-performance/pull/71)
 
 ## Hidden mod adjustments
 
@@ -100,16 +112,18 @@ Example beatmaps where this change can be seen:
 - [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - pp decreased
 - [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - pp increased
 
+View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
+
 ## Miscellaneous changes
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
-- Various slider length calculations have been fixed to correctly represent gameplay.
-- Slider lengths are now also considered if the following hitobject is a hitcircle.
+- Various slider length calculations have been fixed to correctly represent gameplay. ([#4099](https://github.com/ppy/osu/pull/4099), [#4193](https://github.com/ppy/osu/pull/4193))
+- Slider lengths are now also considered if the following hitobject is a hitcircle. ([#3608](https://github.com/ppy/osu/pull/3608))
 - Simultaneous hitobjects are now sorted slightly differently. This has a tiny effect on some maps but paves the way forward for future changes.
-- The last 400ms of hitobjects in the beatmap now count towards the difficulty rating.
-- Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps.
-- Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps.
+- The last 400ms of hitobjects in the beatmap now count towards the difficulty rating. ([#4074](https://github.com/ppy/osu/pull/4074))
+- Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
+- Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 
 ----------
 
