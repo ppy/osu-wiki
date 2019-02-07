@@ -32,7 +32,7 @@ During this process, **profile graph updates will be paused** to avoid multiple 
 
 The aim difficulty rating of hitobjects now considers the angles formed.
 
-![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
 
 Example beatmaps where this change can be seen:
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
@@ -45,7 +45,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 The difficulty of patterns consisting of high-paced hitcircles (streams) now increases exponentially from 200 BPM to 330 BPM.
 
-![](https://user-images.githubusercontent.com/1329837/52330890-f5fcd200-2a39-11e9-93ee-f11b3ddb5f8e.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
 
 Example beatmap where this change can be seen:
 - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
@@ -56,7 +56,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 The difficulty rating of streams with very high spacing between hitcircles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
 
-![](https://user-images.githubusercontent.com/1329837/52332956-57736f80-2a3f-11e9-9263-a911bede5cff.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
 
 Example beatmaps where this change can be seen:
 - [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
@@ -68,7 +68,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 The difficulty rating of long sliders has been increased significantly.
 
-![](https://user-images.githubusercontent.com/1329837/52334682-9c010a00-2a43-11e9-8ba5-53c0ed31b839.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/long-slider-chart.png)
 
 The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
 
@@ -81,7 +81,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 The performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed rating.
 
-![desmos-graph 17](https://user-images.githubusercontent.com/1329837/52390356-3f512e00-2adb-11e9-9f79-890539943ba6.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/speed-accuracy-chart.png)
 
 Example beatmaps where this change can be seen:
 - [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - idke's S-rank score increased from 980pp to 990pp
@@ -93,7 +93,7 @@ View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
 
 The performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
 
-![](https://user-images.githubusercontent.com/1329837/52335994-1d0dd080-2a47-11e9-9c42-e6b33cc5292a.png)
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/flashlight-chart.png)
 
 Example beatmaps where this change can be seen:
 - [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - pp increased
@@ -105,7 +105,7 @@ View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](htt
 
 The performance points awarded due to the hidden mod has been increased for beatmaps with high aim and accuracy ratings, and decreased for high approach rate beatmaps with high speed ratings.
 
-| ![](https://user-images.githubusercontent.com/1329837/52336518-7c201500-2a48-11e9-8604-6c895b5ea28d.png) | ![](https://user-images.githubusercontent.com/1329837/52336615-b38ec180-2a48-11e9-98fd-cd48a65f01b2.png) | ![](https://user-images.githubusercontent.com/1329837/52336812-3fa0e900-2a49-11e9-99d5-3f3bceb946d4.png) |
+| ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-1.png) | ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-2.png) | ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-3.png) |
 | - | - | - |
 
 Example beatmaps where this change can be seen:
