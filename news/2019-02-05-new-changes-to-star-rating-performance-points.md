@@ -30,7 +30,7 @@ The aim difficulty rating of hitobjects now considers the angles formed.
 
 ![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
 
-Example beatmap where this change can be seen:
+Example beatmaps where this change can be seen:
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
 - [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
 - [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38* -> 4.88*
