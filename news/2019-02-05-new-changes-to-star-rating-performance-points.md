@@ -71,7 +71,7 @@ Example beatmap where this change can be seen:
 
 ## Speed accuracy
 
-The amount of performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed strain.
+The performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed rating.
 
 ![desmos-graph 17](https://user-images.githubusercontent.com/1329837/52390356-3f512e00-2adb-11e9-9f79-890539943ba6.png)
 
@@ -81,7 +81,7 @@ Example beatmaps where this change can be seen:
 
 ## Flashlight mod adjustments
 
-The amount of performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
+The performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
 
 ![](https://user-images.githubusercontent.com/1329837/52335994-1d0dd080-2a47-11e9-9c42-e6b33cc5292a.png)
 
@@ -91,7 +91,7 @@ Example beatmaps where this change can be seen:
 
 ## Hidden mod adjustments
 
-The amount of performance points awarded due the hidden mod has been increased for beatmaps requiring aim and accuracy, and decreased for high approach rate beatmaps requiring speed.
+The performance points awarded due to the hidden mod has been increased for beatmaps with high aim and accuracy ratings, and decreased for high approach rate beatmaps with high speed ratings.
 
 | ![](https://user-images.githubusercontent.com/1329837/52336518-7c201500-2a48-11e9-8604-6c895b5ea28d.png) | ![](https://user-images.githubusercontent.com/1329837/52336615-b38ec180-2a48-11e9-98fd-cd48a65f01b2.png) | ![](https://user-images.githubusercontent.com/1329837/52336812-3fa0e900-2a49-11e9-99d5-3f3bceb946d4.png) |
 | - | - | - |
@@ -104,12 +104,12 @@ Example beatmaps where this change can be seen:
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
-- Sliders had excess travel distance due to errors in slider calculations.
-- The length of sliders was only considered if the next hitobject was also a slider.
-- Simultaneous hitobjects are now sorted in a different order, causing a slight change in difficulty. This has an effect on some maps but paves the way forward for further changes.
-- The last 400ms of hitobjects in the beatmap are now properly considered for difficulty.
-- The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring aim has been reduced.
-- The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring speed has been increased.
+- Various slider length calculations have been fixed to correctly represent gameplay.
+- Slider lengths are now also considered if the following hitobject is a hitcircle.
+- Simultaneous hitobjects are now sorted slightly differently. This has a tiny effect on some maps but paves the way forward for future changes.
+- The last 400ms of hitobjects in the beatmap now count towards the difficulty rating.
+- Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps.
+- Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps.
 
 ----------
 
