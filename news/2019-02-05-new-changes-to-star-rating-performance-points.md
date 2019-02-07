@@ -21,10 +21,10 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 # Release Schedule
 
 - As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select.
-- Over the coming hours, server-side star ratings will be updated to match.
-- Over the coming days, all existing scores will be recalculated from global rank #1 outwards. You will see your per-play pp and overall pp/rank change as a result.
+- **Over the coming hours**, server-side star ratings will be updated to match.
+- **Over the coming days**, all existing scores will be recalculated from global rank #1 outwards. You will see your per-play pp and overall pp/rank change as a result.
 
-During this process, profile graph updates will be paused to avoid multiple large jumps.
+During this process, **profile graph updates will be paused** to avoid multiple large jumps.
 
 # Summary of changes
 
