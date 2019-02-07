@@ -30,7 +30,7 @@ During this process, **profile graph updates will be paused** to avoid multiple 
 
 ## Wide angle jumps
 
-The aim difficulty rating of hitobjects now considers the angles formed.
+The aim difficulty rating of hit objects now considers the angles formed.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
 
@@ -43,7 +43,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 ## High BPM streams
 
-The difficulty of patterns consisting of high-paced hitcircles (streams) now increases exponentially from 200 BPM to 330 BPM.
+The difficulty of patterns consisting of high-paced hit circles (streams) now increases exponentially from 200 BPM to 330 BPM.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
 
@@ -54,7 +54,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 ## Highly spaced streams
 
-The difficulty rating of streams with very high spacing between hitcircles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
+The difficulty rating of streams with very high spacing between hit circles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
 
@@ -70,7 +70,7 @@ The difficulty rating of long sliders has been increased significantly.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/long-slider-chart.png)
 
-The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
+The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hit objects decreasing.
 
 Example beatmap where this change can be seen:
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
@@ -119,9 +119,9 @@ View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
 - Various slider length calculations have been fixed to correctly represent gameplay. ([#4099](https://github.com/ppy/osu/pull/4099), [#4193](https://github.com/ppy/osu/pull/4193))
-- Slider lengths are now also considered if the following hitobject is a hitcircle. ([#3608](https://github.com/ppy/osu/pull/3608))
-- Simultaneous hitobjects are now sorted slightly differently. This has a tiny effect on some maps but paves the way forward for future changes.
-- The last 400ms of hitobjects in the beatmap now count towards the difficulty rating. ([#4074](https://github.com/ppy/osu/pull/4074))
+- Slider lengths are now also considered if the following hit object is a hit circle. ([#3608](https://github.com/ppy/osu/pull/3608))
+- Simultaneous hit objects are now sorted slightly differently. This has a tiny effect on some maps but paves the way forward for future changes.
+- The last 400ms of hit objects in the beatmap now count towards the difficulty rating. ([#4074](https://github.com/ppy/osu/pull/4074))
 - Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 - Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 
