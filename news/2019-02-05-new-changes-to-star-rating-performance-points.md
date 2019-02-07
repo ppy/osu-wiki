@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Changes to osu! Star Rating and Performance Points"
-date: 2019-02-06 07:00:00 +0000
+title: "Changes to osu! Star Rating / Performance Points"
+date: 2019-02-07 03:00:00 +0000
 ---
 
 After many years of stagnancy, some changes are finally coming to the way Star Rating and Performance Points are calculated! Read on to find out more.
@@ -19,6 +19,8 @@ Also note that this only affects osu! mode. Other game modes have active tasks i
 - As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select.
 - Over the coming hours, server-side star ratings will be updated to match.
 - Over the coming days, all existing scores will be recalculated from global rank #1 outwards. You will see your per-play pp and overall pp/rank change as a result.
+
+During this process, profile graph updates will be paused to avoid multiple large jumps.
 
 # Summary of changes
 
@@ -99,4 +101,4 @@ These are the more minor technical changes that we introduced to fix previous is
 
 We hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
 
-—Xexxar
+—osu!team, Xexxar and others
