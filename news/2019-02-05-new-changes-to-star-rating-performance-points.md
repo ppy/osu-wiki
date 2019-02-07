@@ -31,8 +31,8 @@ The aim difficulty rating of hitobjects now considers the angles formed.
 ![](https://user-images.githubusercontent.com/1329837/52330820-bafa9e80-2a39-11e9-83fe-c52c5ef5f363.png)
 
 Example beatmap where this change can be seen:
-- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974)
-- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885)
+- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
+- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
 
 ## High BPM streams
 
@@ -41,7 +41,7 @@ The difficulty of patterns consisting of high-paced hitcircles (streams) now inc
 ![](https://user-images.githubusercontent.com/1329837/52330890-f5fcd200-2a39-11e9-93ee-f11b3ddb5f8e.png)
 
 Example beatmap where this change can be seen:
-- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797)
+- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
 
 ## Highly spaced streams
 
@@ -50,8 +50,8 @@ The difficulty rating of streams with very high spacing between hitcircles has b
 ![](https://user-images.githubusercontent.com/1329837/52332956-57736f80-2a3f-11e9-9263-a911bede5cff.png)
 
 Example beatmaps where this change can be seen:
-- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370)
-- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566)
+- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
+- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11* -> 7.04*
 
 ## Long sliders
 
@@ -62,7 +62,7 @@ The difficulty rating of long sliders has been increased significantly.
 The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hitobjects decreasing.
 
 Example beatmap where this change can be seen:
-- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083)
+- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
 
 ## Flashlight mod adjustments
 
