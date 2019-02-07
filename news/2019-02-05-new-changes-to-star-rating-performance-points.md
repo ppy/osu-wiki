@@ -127,6 +127,6 @@ These are the more minor technical changes that we introduced to fix previous is
 
 ----------
 
-We hope that these changes shape up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
+We hope that these changes shake up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
 
 —osu!team, Xexxar and others
