@@ -1,6 +1,6 @@
 # Przewodnik do ulepszania wiki osu!
 
-Dziękujemy za twoje zainteresowanie ulepszaniem wiki osu!. Ten szybki poradnik przeznaczony jest dla osób, które nigdy nie korzystały z GitHuba oraz nie brały udziału w ulepszaniu wiki osu!. Jeżeli masz doświadczenie w pracy z GitHubem, możesz śmiało ominąć ten przewodnik.
+Dziękujemy za zainteresowanie ulepszaniem wiki osu!. Ten szybki poradnik przeznaczony jest dla osób, które nigdy nie korzystały z GitHuba oraz nie brały udziału w ulepszaniu wiki osu!. Jeżeli masz doświadczenie w pracy z GitHubem, możesz śmiało ominąć ten przewodnik.
 
 Jeśli czytając którąkolwiek z części przewodnika, będziesz czuł się zagubiony i/lub będziesz potrzebował pomocy, wszelkie pytania możesz kierować na [Discorda osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`).
 
@@ -73,7 +73,7 @@ W tym momencie, masz dwie opcje:
 
 3. Jeżeli go zobaczysz, kliknij na przycisk `Compare and pull request` (przejdź do kroku 8). Jeżeli nie, kliknij na przycisk `New pull request` (przejdź do kroku 4).
 
-4. Na następnej stronie, jeżeli zobaczysz dwa przyciski, przedstawione poniżej, kliknij `compare across forks`.
+4. Na następnej stronie zobaczysz dwa przyciski przedstawione poniżej, kliknij `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg "Źle.")
 
@@ -81,7 +81,7 @@ W tym momencie, masz dwie opcje:
 
 ![](img/head-fork.jpg)
 
-6. Kliknij na rozwijaną listę z napisem `compare` i wybierz tę, z odgałęzieniem, które stworzyłeś (są posegregowane alfabetycznie).
+6. Kliknij na rozwijaną listę z napisem `compare` i wybierz tę z odgałęzieniem, które stworzyłeś (są posegregowane alfabetycznie).
 
 ![](img/compare-branch.jpg)
 
@@ -89,9 +89,9 @@ W tym momencie, masz dwie opcje:
 
 8. Wprowadź tytuł po angielsku. Powinno być to krótkie wytłumaczenie tego, co zrobiłeś.
 
-W przypadku tłumaczeń artykułów, uwzględnij dwuliterowy symbol języka, na który tłumaczysz dany artykuł, w nawiasie kwadratowym, przed tytułem. Tytułem może być po prostu nazwa(y) artykułu(ów), który tłumaczysz. Na przykład, `[FR] BBCode` oznaczałoby, że aktualizujesz Francuską translację [artykułu o kodzie BB](/wiki/BBCode).
+W przypadku tłumaczeń artykułów, uwzględnij dwuliterowy symbol języka, na który tłumaczysz dany artykuł w nawiasie kwadratowym przed tytułem. Tytułem może być po prostu nazwa(y) artykułu(ów), który tłumaczysz. Na przykład, `[FR] BBCode` oznaczałoby, że aktualizujesz Francuską translację [artykułu o kodzie BB](/wiki/BBCode).
 
-9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego pull requestu, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twój pull request automatycznie zamykał zagadnienia przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie zagadnień przy użyciu słów kluczowych](https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
+9. Wypełnij opis streszczeniem twoich zmian. Powinieneś wspomnieć o każdej rzeczy, która może być ważna dla twojego pull requestu, takiej jak status ukończenia lub cokolwiek o czym chcesz powiedzieć recenzentom. Możesz także sprawić, by twój pull request automatycznie zamykał wątki w sekcji 'Issues' przy scalaniu przez napisanie "resolves #1" lub "closes #1", itp. w opisie (zobacz artykuł [Zamykanie wątków w sekcji 'Issues' przy użyciu słów kluczowych](https://help.github.com/articles/closing-issues-using-keywords/) w dziale GitHub Help).
 
 10. Kiedy jesteś gotów, kliknij `Create pull request`.
 
@@ -101,8 +101,8 @@ W przypadku tłumaczeń artykułów, uwzględnij dwuliterowy symbol języka, na 
 
 ### Recenzje
 
-Kiedy utworzysz swoje żądanie ściągnięcia, inni edytorzy wiki osu! będą mogli przeglądać twoje zmiany i wydawać recenzje na ich temat, by pomóc w wyłapywaniu błędów, które mogłeś ominąć. **Będziesz musiał nadążać za tymi recenzjami,** w przeciwnym wypadku, twoje żądanie ściągnięcia może zostać oznaczone jako do zamknięcia! Jeżeli chcesz, by ktoś wydał opinię na temat twojego żądania ściągnięcia, możesz zapytać innych edytorów wiki osu! na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`) lub w komentarzach na GitHubie.
+Kiedy utworzysz swój pull request, inni edytorzy wiki osu! będą mogli przeglądać twoje zmiany i wydawać recenzje na ich temat by pomóc w wyłapywaniu błędów, które mogłeś ominąć. **Będziesz musiał nadążać za tymi recenzjami,** w przeciwnym wypadku twój pull request może zostać oznaczone jako do zamknięcia! Jeżeli chcesz, by ktoś wydał opinię na temat twojego pull requestu, możesz zapytać innych edytorów wiki osu! na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`) lub w komentarzach na GitHubie.
 
 ### Scalanie
 
-Aby twoje zmiany pojawiły się na wiki osu!, twoje żądanie ściągnięcia musi zostać scalone. Kiedy twoje żądanie zostanie ocenione i zatwierdzone, możesz poprosić o scalenie go w komentarzach na GitHubie lub na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`). Twoje zmiany pojawią się na wiki osu! po pięciu godzinach od scalenia.
+Aby twoje zmiany pojawiły się na wiki osu!, twój pull request musi zostać scalony. Kiedy zostanie oceniony i zatwierdzony, możesz poprosić o scalenie go w komentarzach na GitHubie lub na [Discordzie osu!dev](https://discord.gg/ppy) (kanał `#osu-wiki`). Twoje zmiany pojawią się na wiki osu! po pięciu godzinach od scalenia.
