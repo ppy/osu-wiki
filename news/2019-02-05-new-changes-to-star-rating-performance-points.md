@@ -86,8 +86,8 @@ The performance points awarded for low accuracy scores has been decreased for be
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/speed-accuracy-chart.png)
 
 Example beatmaps where this change can be seen:
-- [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - idke's S-rank score increased from 980pp to 990pp
-- [ClariS](https://osu.ppy.sh/beatmapsets/661919#osu/1401254) - FGSky's B-rank score reduced from 819pp to 818pp
+- [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - [idke](https://osu.ppy.sh/users/4650315)'s S-rank score increased from 980pp to 990pp
+- [ClariS](https://osu.ppy.sh/beatmapsets/661919#osu/1401254) - [FGSky](https://osu.ppy.sh/users/2094566)'s B-rank score reduced from 819pp to 818pp
 
 View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
 
@@ -98,8 +98,8 @@ The performance points awarded due to the flashlight mod has been reduced for sh
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/flashlight-chart.png)
 
 Example beatmaps where this change can be seen:
-- [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - pp increased
-- [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - pp decreased
+- [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - [Ekoro](https://osu.ppy.sh/users/284905)'s score increased from 435pp to 490pp
+- [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - [fieryrage](https://osu.ppy.sh/users/3533958)'s score decreased from 832pp to 733pp
 
 View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](https://github.com/ppy/osu-performance/pull/71)
 
@@ -111,8 +111,8 @@ The performance points awarded due to the hidden mod has been increased for beat
 | - | - | - |
 
 Example beatmaps where this change can be seen:
-- [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - pp decreased
-- [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - pp increased
+- [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - [OPSwimmyJimmy](https://osu.ppy.sh/users/4196808)'s score decreased from 941pp to 926pp
+- [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - [nathan on osu](https://osu.ppy.sh/users/124493)'s score increased from 695pp to 705pp
 
 View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
 
