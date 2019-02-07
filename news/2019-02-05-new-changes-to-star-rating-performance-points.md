@@ -69,6 +69,16 @@ The effect of this change also increases along with the jump distance to the sli
 Example beatmap where this change can be seen:
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
 
+## Speed accuracy
+
+The amount of performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed strain.
+
+![desmos-graph 17](https://user-images.githubusercontent.com/1329837/52390356-3f512e00-2adb-11e9-9f79-890539943ba6.png)
+
+Example beatmaps where this change can be seen:
+- [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - idke's S-rank score increased from 980pp to 990pp
+- [ClariS](https://osu.ppy.sh/beatmapsets/661919#osu/1401254) - FGSky's B-rank score reduced from 819pp to 818pp
+
 ## Flashlight mod adjustments
 
 The amount of performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
@@ -98,7 +108,6 @@ These are the more minor technical changes that we introduced to fix previous is
 - The length of sliders was only considered if the next hitobject was also a slider.
 - Simultaneous hitobjects are now sorted in a different order, causing a slight change in difficulty. This has an effect on some maps but paves the way forward for further changes.
 - The last 400ms of hitobjects in the beatmap are now properly considered for difficulty.
-- Accuracy more greatly affects the performance points rewarded on speed maps.
 - The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring aim has been reduced.
 - The amount of performance points rewarded for approach rate 10.33+ on beatmaps requiring speed has been increased.
 
