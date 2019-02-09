@@ -50,7 +50,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Nieopisana aktywność jako moderator (ponad 10 tysięcy uciszeń). |
 | [Saten](https://osu.ppy.sh/u/444506) | Nieopisana aktywność jako moderator (ponad 30 tysięcy uciszeń). |
 | [MoonShade](https://osu.ppy.sh/u/273649) | Stworzenie nowych narzędzi do storyboardingu (SGL) |
-| [Hatsu](https://osu.ppy.sh/u/322480) | 	Stworzenie plugina do osu! - Mikuia.tv. |
+| [Hatsu](https://osu.ppy.sh/u/322480) | Stworzenie plugina do osu! - Mikuia.tv. |
 | [Tillerino](https://osu.ppy.sh/u/2070907) | Stworzenie bota sugerującego mapy do zagrania |
 
 ### Marzec 2016
