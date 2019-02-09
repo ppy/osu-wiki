@@ -22,9 +22,9 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 
 - ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **[COMPLETE]**
 - ☑ Over the coming hours, server-side star ratings will be updated to match. **[COMPLETE]**
-- ☐ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[IN PROGRESS]**
-- ☐ Over a 4-6 hour period, all user ranks will be recalculated.
-- ☐ Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings.
+- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[COMPLETE]**
+- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **[COMPLETE]**
+- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[IN PROGRESS]**
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
