@@ -13,7 +13,7 @@ Read more about how you can get started contributing to the wiki [here!](/wiki/o
 
 ## Help keep osu! friendly and safe
 
-It's not alwaysfe, sunshine in the osu! community, so we hahat monitors everything 24/7rs to keep they safe However, the moderation team keeps track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
+To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
 
 Fortunately, it's still easy for you to help out keeping everything safe, here's some things you can do to help:
 
