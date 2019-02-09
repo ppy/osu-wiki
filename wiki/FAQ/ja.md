@@ -122,7 +122,7 @@ Cよりも下の条件でクリア
 ==========
 
 メインメニューのSOLOを選択すればプレイできます。
-ですが、一部の譜面は強制的に[太鼓モードまたは](/wiki/Game_Modes/osu!taiko)[CTBモードにされるものもあるので注意してください](/wiki/Game_Modes/osu!catch)。
+ですが、一部の譜面は強制的に[太鼓モード](/wiki/Game_Modes/osu!taiko)または[osu!catch](/wiki/Game_Modes/osu!catch)にされるものもあるので注意してください。
 
 ルール
 ======
