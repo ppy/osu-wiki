@@ -1,66 +1,66 @@
 # Instalacja
 
-<!-- *Zobacz także: [Instalacja/OS X](/wiki/Installation/OS_X) oraz [Instalacja/Linux](/wiki/Installation/Linux).* -->
+<!-- *Zobacz także: [Instalacja na systemy OS X](/wiki/Installation/OS_X) oraz [Instalacja na systemy Linux](/wiki/Installation/Linux).* -->
 
-Ta strona przybliży ci proces instalacji osu! na urządzeniach z systemem Windows. [Akademia osu!](/wiki/osu!academy) nagrała [poradnik wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ), który wyjaśnia jak zainstalować osu! na urządzeniach z systemem Windows.
+Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ).
 
 ## Minimalne wymagania systemowe
 
--   Microsoft .NET Framework 4+ (instalator powinien automatycznie zasugerować ci zainstalowanie go, w przeciwnym przypadku, możesz pobrać go [tutaj](https://www.microsoft.com/pl-pl/download/details.aspx?id=48130))
+-   .NET Framework 4+ (możesz znaleźć go [tutaj](https://www.microsoft.com/en-us/download/details.aspx?id=48130); instalator powininen automatycznie powiadomić cię o potrzebie zainstalowania tej platformy)
 -   Przyzwoita karta graficzna
 
-## Instalacja osu!
+## Instalowanie osu!
 
-1.  Pobierz [instalator osu!](/home/download)
-2.  Znajdź pobrany przez ciebie plik i otwórz go.
-3.  Kiedy instalator się uruchamia, masz dziesięć sekund, aby wybrać miejsce instalacji.
-    -   Jeżeli chcesz je zmienić, naciśnij na tekst pod napisem "Witaj!" i wybierz miejsce instalacji.
-    -   osu! zostanie zainstalowane w podanej lokacji, kiedy skończy się odliczanie.
-4.  osu! uruchomi się automatycznie po zakończeniu instalacji. osu!direct pobierze dla ciebie parę map na początek.
-5.  osu! poprosi cię o zalogowanie się lub założenie konta.
-    -   Jeżeli posiadasz już konto, zaloguj się.
-    -   Jeżeli nie posiadasz konta, zobacz artykuł [Rejestracja](/wiki/Registration), następnie zaloguj się.
+1.  Przejdź do [strony z pobieraniem](/home/download) i pobierz instalator.
+2.  Zlokalizuj i uruchom instalator.
+3.  Przez pierwsze 10 sekund od uruchomienia instalatora otrzymasz możliwość wybrania lokalizacji gry.
+    -   Jeżeli chcesz ją zmienić, kliknij na tekst pod wyrazem „Witaj!”, a następnie wybierz lokalizację gry.
+    -   Gdy czas minie, osu! zostanie zainstalowane w wybranej lokalizacji.
+4.  osu! uruchomi się po zakończeniu instalacji, a następnie osu!direct pobierze dla ciebie pakiet początkowych beatmap.
+5.  osu! poprosi cię o zalogowanie bądź zarejestrowanie się.
+    -   Jeżeli posiadasz konto, zaloguj się.
+    -   Jeżeli nie posiadasz konta, sprawdź [artykuł dot. rejestracji](/wiki/Registration) i utwórz konto, a następnie zaloguj się.
 
-## Dodawanie Beatmap
+## Dodawanie zestawów beatmap
 
-*Zobacz także: [Beatmapy](/wiki/Beatmaps) oraz [Zestawy Beatmap](/wiki/Beatmapsets)*
+*Zobacz także: [Beatmapy](/wiki/Beatmaps) oraz [Zestawy beatmap](/wiki/Beatmapsets)*
 
-Istnieją dwa sposoby dodawania beatmap - poprzez stronę internetową lub osu!direct (wymaga posiadania [statusu donatora osu!](/wiki/osu!supporter)).
+Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz poprzez osu!direct (wymaga aktywnego [statusu donatora osu!](/wiki/osu!supporter)).
 
 ### Strona internetowa
 
-1.  Odwiedź [listę beatmap](/beatmapsets) i zaloguj się na stronie.
-2.  Znajdź piosenkę, która ci się podoba.
-3.  Naciśnij na przycisk z napisem "pobierz", aby zapisać beatmapset na twoim komputerze.
-4.  Zlokalizuj i otwórz beatmapset, ma rozszerzenie `.osz`.
-    -   Alternatywnie, możesz umieścić plik w folderze `Songs`, znajdującym się w folderze gry.
-5.  osu! automatycznie rozpakuje plik i załaduje mapę.
-    -   Jeżeli z jakiegoś powodu nie widzisz swoich map, naciśnij `F5` w [Trybie Jednoosobowym](/wiki/Solo_mode) a osu ponownie przetworzy twoje beatmapy.
-    
+1.  Zaloguj się na stronie osu! i przejdź do [listy beatmap](/beatmapsets).
+2.  Znajdź piosenkę, którą chcesz zagrać.
+3.  Kliknij na ikonę pobierania, aby pobrać zestaw beatmap na swój komputer.
+4.  Zlokalizuj i otwórz plik z zestawem beatmap (ma on rozszerzenie `.osz`).
+    -   Możesz także umieścić plik z zestawem beatmap w folderze `Songs` w katalogu z zainstalowanym osu!.
+5.  osu! zajmie się resztą i załaduje zestaw beatmap.
+    -   Jeżeli z jakiegoś powodu nie zostanie on wyświetlony, naciśnij `F5` na ekranie wyboru piosenki, aby ponownie przetworzyć twoje beatmapy.
+
 ### osu!direct
 
-*Notka: Musisz posiadać status donatora osu! oraz mieć dostęp do internetu aby móc używać tej funkcji.*
+*Ważne: Potrzebujesz aktywnego statusu donatora osu! i połączenia internetowego, aby używać osu!direct.*
 
-1.  Otwórz osu!, jeżeli jeszcze tego nie zrobiłeś.
+1.  Otwórz osu!.
 2.  Znajdź piosenkę, którą chcesz zagrać.
-3.  Dwukrotnie kliknij na utwór znajdujący się na liście lub kliknij przycisk `Download` po prawej aby ją pobrać.
-    -   Jeżeli nie chcesz pobierać wideo, kliknij na `DL NoVideo`.
-4.  Gdy osu! zakończy pobierać beatmapset, załaduje ją automatycznie, jeżeli znajdujesz się w Trybie Jednoosobowym, na [Ekranie Wybioru Piosenki](/wiki/Song_Selection).
-    -   Jeżeli z jakiegoś powodu nie widzisz swoich map, naciśnij `F5` w [Trybie Jednoosobowym](/wiki/Solo_mode) a osu ponownie przetworzy twoje beatmapy.
-    
-## Dodawanie Skórek
+3.  Kliknij dwukrotnie na piosenkę z listy lub naciśnij przycisk `Download`, aby pobrać beatmapę.
+    -   Jeżeli nie chcesz pobierać beatmapy z wideo, naciśnij `DL NoVideo`.
+4.  Gdy pobieranie zostanie zakończone, osu! zajmie się resztą i załaduje zestaw beatmap.
+    -   Jeżeli z jakiegoś powodu nie zostanie on wyświetlony, naciśnij `F5` na ekranie wyboru piosenki, aby ponownie przetworzyć beatmapy.
 
-*Zobacz także: [Skórki](/wiki/Skins) oraz [Tworzenie Skórek](/wiki/Skinning)*
+## Dodawanie skórek
 
-1.  Wejdź na [subforum tworzenia skórek](/community/forums/15) i znajdź skórkę, która ci się podoba.
-2.  Kiedy znajdziesz skórkę, pobierz ją.
-3.  Sposób dodawania skórki do gry różni się w zależności od sposobu zapakowania skórki przez twórcę.
-    -   Jeżeli skórka używa rozszerzenia `.osk`:
-        1.  Otwórz ją lub przeciągnij do okna osu!
-        2.  osu! przetworzy i automatycznie wybierze skórkę.
-    -   Jeżeli skórka jest skompresowana (używa rozszerzeń `.7z`, `.rar`, `.zip` itp.):
-        1.  Wyeksportuj ją.
-        2.  Przenieś folder skórki do folderu `Skins`, znajdującym się w folderze gry.
-        3.  Jeżeli osu! jest otwarte, możliwe że będziesz musiał zrestartować grę, zanim użyjesz skórki.
-        4.  Przejdź do [Opcji](/wiki/Options) i wpisz w wyszukiwarkę `Skórka`.
-        5.  Przewiń w dół do opcji `Wybierz skórkę` i zaznacz skórkę, którą pobrałeś.
+*Zobacz także: [Skórki](/wiki/Skins) oraz [Tworzenie skórek](/wiki/Skinning).*
+
+1.  Przejdź do [podforum dot. skórek](/community/forums/15) i znajdź skórkę, która ci się spodoba.
+2.  Pobierz skórkę, która ci się podoba.
+3.  Dalsze postępowanie jest zależne od sposobu kompresji skórki przez jej twórcę.
+    -   Jeżeli skórka ma rozszerzenie `.osk`:
+        1.  Przeciągnij plik skórki nad ekran osu!.
+        2.  osu! przetworzy skórkę i automatycznie ją wybierze.
+    -   Jeżeli skórka jest skompresowana (ma rozszerzenie `.7z`, `.rar`, `.zip` itd.):
+        1.  Rozpakuj ją.
+        2.  Przenieś folder ze skórką do folderu `Skins` w katalogu z zainstalowanym osu!.
+        3.  Jeżeli osu! jest uruchomione, musisz je zrestartować, aby skórka została załadowana.
+        4.  Przejdź do [opcji](/wiki/Options) i wprowadź frazę `Skórka`.
+        5.  Przejdź do menu rozwijanego `Wybierz skórkę:` i wybierz pobraną skórkę z listy.
