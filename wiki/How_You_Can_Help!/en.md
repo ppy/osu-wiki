@@ -1,8 +1,8 @@
 # How you can help!
 
-osu! is more than just a circle-clicking rhythm game as many newcomers think, it is also a very vibrant community, composed of people from all around the world, with differing skill sets, and different purposes.
+osu! like any other game, has a very vibrant community, composed of people from all around the world, with differing skill sets, and different purposes.
 
-Anyone can be a part of the community, here are a few examples to start with:
+Anyone can be a part of the community, in your own way, here are a few examples to start with:
 
 
 ## Help out with [the wiki](https://github.com/ppy/osu-wiki)
@@ -13,9 +13,9 @@ Read more about how you can get started contributing to the wiki [here!](/wiki/o
 
 ## Help keep osu! friendly and safe
 
-It's not always sunshine in the osu! community, so we have a dedicated team of moderators to keep the place comfy and safe. However, the moderation team keeps track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
+It's not alwaysfe, sunshine in the osu! community, so we hahat monitors everything 24/7rs to keep they safe However, the moderation team keeps track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
 
-Fortunately, it's still easy for you to help out with the community, here's some things you can do to help:
+Fortunately, it's still easy for you to help out keeping everything safe, here's some things you can do to help:
 
 - Follow your favorite channels at the osu! in-game chat, or at the forums in the web.
 - If you see something happening which you think feels inappropriate or disturbs you in any way, use the `!report` command at the in-game chat to notify moderators of what's happening.
@@ -59,7 +59,6 @@ Here's a few things you can do to help:
 - Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
 - Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether its just bringing back dancing pippi, or just making a cool thing for osu!, anything is accepted.
-- Bring [osu!monthly](/community/forums/topics/75017) back to life.
 
 ## Contribute to the future of osu!
 
@@ -75,7 +74,7 @@ You can help making them even more better, and make us closer to the future of o
 There's a old saying that you should become part of the solution, not the problem. You can help on osu! by making the community a brighter place. People complain, but there are many ways you can help ligthen up the mood in the community:
 
 - Be friendly to each other. Life is too short to argue.
-- Stop complaining about cheaters. [Report them instead of complaining about it](/wiki/Reporting_Bad_Behavior/Handing_Cheating "Handling Cheating"). A simple `!report <username> seems to be cheating` can fix your problems within minutes or hours.
+- [Report cheaters when you see them](/wiki/Reporting_Bad_Behavior/Handing_Cheating "Handling Cheating"). Don't complain about them on other mediums, a simple `!report <username> seems to be cheating` can fix your problems within minutes or hours.
 - Go out of your way to mediate negative situations and turn them into positive outcomes.
 
 While this article cannot cover how much more you can help to osu!, but simply playing the game as well makes osu! even more awesome!
