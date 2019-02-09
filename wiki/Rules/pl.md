@@ -11,7 +11,7 @@ Zasady dot. społeczności
 3. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być dupkami w stosunku do siebie.
 4. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
 5. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
-6. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą. 
+6. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą.
 
 Zasady dot. czatu
 ------------------

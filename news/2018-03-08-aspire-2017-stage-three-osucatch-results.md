@@ -16,13 +16,13 @@ When the dust settled, only one would top the mountain, but it would do so with 
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/mJqI-W7R8gI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Spectator's Superior Fox demonstrated a masterful command of 2B patterning, Slider Velocity changes and BPM manipulation, with execution slicker than a well-oiled machine. Whilst not the most outlandish of entries, our judges praised its varied use of gimmicks whilst retaining beautiful aesthetics, playability and enjoyment, awarding it the highest mark of any entry in all of the four judging categories. 
+Spectator's Superior Fox demonstrated a masterful command of 2B patterning, Slider Velocity changes and BPM manipulation, with execution slicker than a well-oiled machine. Whilst not the most outlandish of entries, our judges praised its varied use of gimmicks whilst retaining beautiful aesthetics, playability and enjoyment, awarding it the highest mark of any entry in all of the four judging categories.
 
 With almost twice as many public votes as the runner-up, it would appear the community fell in love with it just as much as we did! [You can play Spectator's contest winning entry here!](https://osu.ppy.sh/beatmapsets/740242/#fruits/1561758)
 
 --------
 
-Heading the chasing pack was **Truthful Waxwing** by [-Ken](https://osu.ppy.sh/users/4430811), achieving a score of **46.9/80** and **128** unique public votes. 
+Heading the chasing pack was **Truthful Waxwing** by [-Ken](https://osu.ppy.sh/users/4430811), achieving a score of **46.9/80** and **128** unique public votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/5dkjsG_bUb8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

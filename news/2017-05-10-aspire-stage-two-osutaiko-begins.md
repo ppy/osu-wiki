@@ -34,7 +34,7 @@ The rules are as follows:
 * The map you submit may be of any difficulty tier you wish, though Aspire contests are generally for Expert (5.25+ star) tier and above.
 * The map itself must be able to be passed (note: NOT fc'd) by a human player without using difficulty reducing mods of any kind.
 * The drain time of your entry must be at least 70% of the song's total length.
-* **If your entry has no additional assets (hitsounds, backgrounds, etc), it MUST BE SUBMITTED AS A .osu file.** 
+* **If your entry has no additional assets (hitsounds, backgrounds, etc), it MUST BE SUBMITTED AS A .osu file.**
 * **If your entry HAS additional assets such as storyboard assets, hitsounds, etc, it MUST BE SUBMITTED AS A .osz with a size NO LARGER THAN 20mb.** Accounting for the size of the track, you have roughly **16mb** of asset space available for use. Extensions may be granted upon request via forum PM to [Ephemeral](https://osu.ppy.sh/u/102335).
 
 

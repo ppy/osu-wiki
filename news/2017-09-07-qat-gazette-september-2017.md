@@ -26,7 +26,7 @@ Whilst in this probationary period, Beatmap Nominators will be closely surveyed 
 
 To test this process, **we are currently reviewing applications from a new batch of fresh-faced modding aspirants!** The latest application process for the osu!taiko, osu!catch and osu!mania! game modes has recently closed, with successful applicants expected to be promoted in the coming week.
 
-With Beatmap Nominator tests being recently discontinued, new applications will consist of an activity check, as well as submission of the applicant's "best" modding work - either as a standard mod post, or series of suggestions in the moddingv2 panel. 
+With Beatmap Nominator tests being recently discontinued, new applications will consist of an activity check, as well as submission of the applicant's "best" modding work - either as a standard mod post, or series of suggestions in the moddingv2 panel.
 
 For those that meet the activity requirements, the Quality Assurance Team will then supplement this with additional random, anonymised examples of the applicant's modding work from the past three months and evaluate these examples on a number of criteria, such as structure, helpfulness, knowledge of the Ranking Criteria, and so on. These modding examples will be voted on by the remaining members of the QAT who were not involved in selecting examples of applicant modding, to avoid bias.
 

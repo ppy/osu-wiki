@@ -111,7 +111,7 @@ With that being said, even though this map didn't top the Spotlights this month,
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/breeze.jpg)](https://osu.ppy.sh/beatmapsets/632221)
 
-Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/5314573) demonstrates his mapping prowess with the newly ranked map cYsmix - Breeze. This map is notable as it contains unusual elements such as long note walls and unique slider velocity changes, patterns that are not commonly found in the ranked section. 
+Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/5314573) demonstrates his mapping prowess with the newly ranked map cYsmix - Breeze. This map is notable as it contains unusual elements such as long note walls and unique slider velocity changes, patterns that are not commonly found in the ranked section.
 
 During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 

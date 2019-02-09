@@ -25,7 +25,7 @@ Monstrata takes home a whopping 6 months of osu!supporter, a unique Aspire 2016 
 
 [Play it for yourself and see!](https://osu.ppy.sh/s/484689)
 
-It isn't over yet, though! 
+It isn't over yet, though!
 
 [Asahina Momoko](https://osu.ppy.sh/u/3650145) nearly snatched first place for themselves with an exceptional performance, but came just a little below the mark in second place. Their entry was marked with possibly the best implementation of hold sliders that osu! has ever seen - giving the developers some serious thinking to do about introducing the element to the game officially! They take home 3 months of osu! supporter for themselves, and the knowledge that their work may have had a profound effect on the future of the game. [Play their entry here!](https://osu.ppy.sh/s/484896)
 

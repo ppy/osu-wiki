@@ -24,7 +24,7 @@ Following closely behind with **34.4** score was [**Fort**](https://osu.ppy.sh/u
 
 [**RyoKazuka**](https://osu.ppy.sh/u/6258586) takes away the grand prize, including *6 months of osu!supporter*, the highly-coveted *Elite Mapper* title, and we're sure to be seeing more of his work featured in the osu!weekly very shortly.
 
-Thank you to everyone who entered. We noted a comparatively small amount of entries compared to other contests this time around - we chalked this up to the entries going up during the middle of the holiday season (poor timing on our part). 
+Thank you to everyone who entered. We noted a comparatively small amount of entries compared to other contests this time around - we chalked this up to the entries going up during the middle of the holiday season (poor timing on our part).
 
 The Monthly Beatmapping Contests have already resumed post-Aspire, as we also move MBC prizes towards a more centralized *Elite Mapper* ranking system, which we'll be revealing more on as time passes.
 

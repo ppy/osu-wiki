@@ -52,7 +52,7 @@ After the entries are judged and the results are finalized, the top three entrie
 - **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
 - **3rd place**: 1 month of osu!supporter, 2 Olympiad Points
 
-For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6, 4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants. 
+For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6, 4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants.
 
 You will have 21 days from the date of this post to submit your entries. [Download the pre-timed .osz here](https://assets.ppy.sh/artists/7/osz/Thaehan%20-%20Bwa%20!.osz?20180522).
 

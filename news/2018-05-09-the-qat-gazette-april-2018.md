@@ -76,7 +76,7 @@ One final thing to note: since his return to the Quality Assurance Team last mon
 If you’d like a chance to get to know your Quality Assurance Team better, or get a more personal insight as to our work and how we came to be, head on over to the [QAT Interview discussion & poll](https://osu.ppy.sh/community/forums/topics/739410) and share your thoughts!
 
 ## Summary
-by [JBHyperion](https://osu.ppy.sh/users/4879508) 
+by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 If you managed to make it through all that, thanks for staying with us! I have a sneaking suspicion that if past history is anything to go by, next month will be just as chaotic - but that makes it all the more interesting! One thing you can count on though is that we’ll be back again next month to share it all with you!
 

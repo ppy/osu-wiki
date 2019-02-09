@@ -64,7 +64,7 @@ With **182** votes, the collaborative sets by [Ascendance](https://osu.ppy.sh/us
 
 Similar to osu!taiko, the voting for osu!catch was a super close endeavour all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
 
-The agonizing choice many osu!catch players were forced to make is super obvious in the sheer vote gap between many of the finalist entries, shown purely in the fact that 2nd and 3rd place are literally one vote apart. 
+The agonizing choice many osu!catch players were forced to make is super obvious in the sheer vote gap between many of the finalist entries, shown purely in the fact that 2nd and 3rd place are literally one vote apart.
 
 Yowza.
 

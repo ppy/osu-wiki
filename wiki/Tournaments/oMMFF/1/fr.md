@@ -658,32 +658,32 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Finales
 
-| Samedi, 2019-02-02 |  |  |  |  | 
+| Samedi, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **ThePooN** | -win by default- |
 | **NerO** ![][flag_FR] | **7** | 3 | ![][flag_FR] Flaven | [#1](/community/matches/49310209) |
 
-| Dimanche, 2019-02-03 |  |  |  |  | 
+| Dimanche, 2019-02-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **NerO** | -win by default- |
 
 #### Demi-finales
 
-| Samedi, 2019-01-26 |  |  |  |  | 
+| Samedi, 2019-01-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Mooha** | -win by default- |
 | **ThePooN** ![][flag_FR] | **6** | 3 | ![][flag_FR] NerO | [#1](/community/matches/49143789) |
 | SiYes ![][flag_FR] | 2 | **6** | ![][flag_FR] **-raizen-** | [#1](/community/matches/49148368) |
 | **Flaven** ![][flag_FR] | **6** | 0 | ![][flag_FR] BAKKALO | [#1](/community/matches/49148581) |
 
-| Dimanche, 2019-01-27 |  |  |  |  | 
+| Dimanche, 2019-01-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **NerO** ![][flag_FR] | **6** | 2 | ![][flag_FR] -raizen- | [#1](/community/matches/49175425) |
 | Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Flaven** | -win by default- |
 
 #### Quarts-de-finale
 
-| Samedi, 2019-01-19 |  |  |  |  | 
+| Samedi, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **ThePooN** ![][flag_FR] | **5** | 1 | ![][flag_FR] VicoTeen | [#1](/community/matches/48969420) |
 | Flaven ![][flag_FR] | 1 | **5** | ![][flag_FR] **NerO** | [#1](/community/matches/48971151) |
@@ -694,7 +694,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Ice Tea citron ![][flag_FR] | 0 | **5** | ![][flag_FR] **JustMan** | [#1](/community/matches/48978628) |
 | **\_Aquatic\_** ![][flag_FR] | **5** | 0 | ![][flag_FR] -Unknow | [#1](/community/matches/48982700) |
 
-| Dimanche, 2019-01-20 |  |  |  |  | 
+| Dimanche, 2019-01-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | \_Aquatic\_ ![][flag_FR] | 2 | **5** | ![][flag_FR] **SiYes** | [#1](/community/matches/49006814) |
 | **BAKKALO** ![][flag_FR] | **5** | 2 | ![][flag_FR] VicoTeen | [#1](/community/matches/49006731) |
@@ -703,7 +703,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### 8èmes de finale
 
-| Samedi, 2019-01-12 |  |  |  |  | 
+| Samedi, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Wrys | [#1](/community/matches/48796757) |
 | **Besta** ![][flag_FR] | **4** | 1 | ![][flag_FR] Raiiden | [#1](/community/matches/48798000) |
@@ -714,7 +714,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | **NerO** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Aquatic\_ | [#1](/community/matches/48804541) |
 | Raiiden ![][flag_FR] | 2 | **4** | ![][flag_FR] **BAKKALO** | [#1](/community/matches/48804893) |
 
-| Dimanche, 2019-01-13 |  |  |  |  | 
+| Dimanche, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_FR] cleiminiti | [#1](/community/matches/48830879) |
 | **\_Aquatic\_** ![][flag_FR] | **4** | 1 | ![][flag_FR] Funta668 | [#1](/community/matches/48835202) |
@@ -727,27 +727,27 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### 16èmes de finale
 
-| Samedi, 2018-12-20 |  |  |  |  | 
+| Samedi, 2018-12-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](/community/matches/48227620) |
 
-| Vendredi, 2018-12-21 |  |  |  |  | 
+| Vendredi, 2018-12-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Flaven** ![][flag_FR] | **4** | 2 | ![][flag_FR] GuiboxFR | [#1](/community/matches/48264622) |
 
-| Samedi, 2018-12-22 |  |  |  |  | 
+| Samedi, 2018-12-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_BE] Xawaii | [#1](/community/matches/48280186) |
 
-| Samedi, 2018-12-29 |  |  |  |  | 
+| Samedi, 2018-12-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] \[-Vanilla-\] | [#1](/community/matches/48458408) |
 
-| Vendredi, 2019-01-04 |  |  |  |  | 
+| Vendredi, 2019-01-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | BAKKALO ![][flag_FR] | 2 | **4** | ![][flag_FR] **RyuuBei** | [#1](/community/matches/48611004) |
 
-| Samedi, 2019-01-05 |  |  |  |  | 
+| Samedi, 2019-01-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Wrys** ![][flag_FR] | **4** | 2 | ![][flag_FR] Funta668 | [#1](/community/matches/48632274) |
 | TLQ\_Yoshii ![][flag_FR] | 2 | **4** | ![][flag_FR] **volor** | [#1](/community/matches/48633379) |
@@ -760,7 +760,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | **\_Aquatic\_** ![][flag_FR] | **4** | 3 | ![][flag_FR] SanaeFrost | [#1](/community/matches/48639441) |
 | **Raiiden** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Unknow | [#1](/community/matches/48644109) |
 
-| Dimanche, 2019-01-06 |  |  |  |  | 
+| Dimanche, 2019-01-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Besta** ![][flag_FR] | **4** | 0 | ![][flag_FR] Mirthille | [#1](/community/matches/48660923) |
 | Mirthille ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | [#1](/community/matches/48662099) |
@@ -776,24 +776,24 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Finales
 
-| Saturday, 2019-02-02 |  |  |  |  | 
+| Saturday, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/mp/49306349) |
 | **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/mp/49317966) |
 
-| Sunday, 2019-02-03 |  |  |  |  | 
+| Sunday, 2019-02-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/mp/49338803) |
 
 #### Demi-finales
 
-| Samedi, 2019-01-26 |  |  |  |  | 
+| Samedi, 2019-01-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Briesmas ![][flag_JP] | 0 | **6** | ![][flag_FR] **Romainnoda** | [#1](/community/matches/49145806) |
 | **TimmyAkmed** ![][flag_FR] | **6** | 0 | ![][flag_FR] omegaflo | [#1](/community/matches/49144207) |
 | Gintoki8 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/49142713) |
 
-| Dimanche, 2019-01-27 |  |  |  |  | 
+| Dimanche, 2019-01-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Valony-** ![][flag_FR] | **6** | 0 | ![][flag_FR] Marec | -win by default- |
 | Briesmas ![][flag_JP] | 1 | **6** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/49178646) |
@@ -801,11 +801,11 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### 6èmes de finale
 
-| Vendredi, 2019-01-18 |  |  |  |  | 
+| Vendredi, 2019-01-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Aciitm1 ![][flag_FR] | 0 | **5** | ![][flag_CA] **DuckyDoom** | [#1](/community/matches/48944275) |
 
-| Samedi, 2019-01-19 |  |  |  |  | 
+| Samedi, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | maximaxiU ![][flag_FR] | 1 | **5** | ![][flag_FR] **Romainnoda** | [#1](/community/matches/48967251) |
 | -Valony- ![][flag_FR] | 2 | **5** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/48968566) |
@@ -815,7 +815,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Yona la loutre ![][flag_FR] | 1 | **5** | ![][flag_FR] **TimmyAkmed** | [#1](/community/matches/48976070) |
 | **omegaflo** ![][flag_FR] | **5** | 1 | ![][flag_FR] Gintoki8 | [#1](/community/matches/48977881) |
 
-| Dimanche, 2019-01-20 |  |  |  |  | 
+| Dimanche, 2019-01-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Yona la loutre** ![][flag_FR] | **5** | 0 | ![][flag_FR] maximaxiU | [#1](/community/matches/49001534) |
 | DuckyDoom ![][flag_CA] | 2 | **5** | ![][flag_FR] **Marec** | [#1](/community/matches/49004503) |
@@ -824,11 +824,11 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Group Stage
 
-| Vendredi, 2019-01-11 |  |  |  |  | 
+| Vendredi, 2019-01-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Aciitm1** | [#1](/community/matches/48775264) |
 
-| Samedi, 2019-01-12 |  |  |  |  | 
+| Samedi, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Niawlys ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yona la loutre** | [#1](/community/matches/48794728) |
 | **Briesmas** ![][flag_JP] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](/community/matches/48796652) |
@@ -850,7 +850,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Hickacou ![][flag_FR] | 0 | **4** | ![][flag_FR] **ZeddaStake** | [#1](/community/matches/48808538) |
 | **estebdevil** ![][flag_FR] | **4** | 0 | ![][flag_FR] Hickacou | [#1](/community/matches/48810173) |
 
-| Dimanche, 2019-01-13 |  |  |  |  | 
+| Dimanche, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **BlackJames** ![][flag_FR] | **4** | 0 | ![][flag_BF] Linkfire | -win by default- |
 | Fenrir029 ![][flag_FR] | 0 | **4** | ![][flag_FR] **maximaxiU** | [#1](/community/matches/48829448) |
@@ -870,25 +870,25 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Grandes Finales
 
-| Saturday, 2019-02-02 |  |  |  |  | 
+| Saturday, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/mp/49313282) |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/mp/49314789) |
 
 #### Finales
 
-| Samedi, 2019-01-26 |  |  |  |  | 
+| Samedi, 2019-01-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | -Ken ![][flag_TN] | 3 | **7** | ![][flag_FR] **Boros** | [#1](/community/matches/49153596) |
 | Holloh ![][flag_FR] | 3 | **7** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/49148250) |
 
-| Dimanche, 2019-01-27 |  |  |  |  | 
+| Dimanche, 2019-01-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](/community/matches/49182267) |
 
 #### Demi-finales
 
-| Samedi, 2019-01-19 |  |  |  |  | 
+| Samedi, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **6** | 4 | ![][flag_FR] Noulayfe | [#1](/community/matches/48974224) |
 | **Boros** ![][flag_FR] | **6** | 2 | ![][flag_FR] Holloh | [#1](/community/matches/48975850) |
@@ -897,7 +897,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Quarts-de-finale
 
-| Samedi, 2019-01-12 |  |  |  |  | 
+| Samedi, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](/community/matches/48802845)
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](/community/matches/48798016) |
@@ -905,7 +905,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](/community/matches/48801202) |
 | MindLight ![][flag_FR] | 1 | **5** | **Realmas** | [#1](/community/matches/48810075) |
 
-| Dimanche, 2019-01-13 |  |  |  |  | 
+| Dimanche, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](/community/matches/48835441)
 
@@ -913,21 +913,21 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Demi-finales
 
-| Saturday, 2019-02-02 |  |  |  |  | 
+| Saturday, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](https://osu.ppy.sh/mp/49308835) |
 | **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/mp/49310117) |
 | **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/mp/49311938) |
 | **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/mp/49311941) |
 
-| Sunday, 2019-02-03 |  |  |  |  | 
+| Sunday, 2019-02-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](https://osu.ppy.sh/mp/49341019) |
 | \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | -win by default- |
 
 #### Quarts-de-finale
 
-| Samedi, 2019-01-26 |  |  |  |  | 
+| Samedi, 2019-01-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_FR] Kyzoid | [#1](/community/matches/49145213) |
 | **\[ Odin \]** ![][flag_FR] | **5** | 3 | ![][flag_FR] DemonWaves | [#1](/community/matches/49146820) |
@@ -938,7 +938,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | **DragonSonic** ![][flag_FR] | **5** | 2 | ![][flag_FR] polo2000 | [#1](/community/matches/49155687) |
 | **Satsukel** ![][flag_FR] | **5** | 1 | ![][flag_FR] PouletFurtif | [#1](/community/matches/49140698) |
 
-| Dimanche, 2019-01-27 |  |  |  |  | 
+| Dimanche, 2019-01-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | ExilFaker ![][flag_FR] | 0 | **5** | ![][flag_FR] **DemonWaves** | -win by default- |
 | Vivio ![][flag_FR] | 3 | **5** | ![][flag_FR] **Kyzoid** | [#1](/community/matches/49176662) |
@@ -947,17 +947,17 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### 12èmes de finale
 
-| Jeudi, 2019-01-17 |  |  |  |  | 
+| Jeudi, 2019-01-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Trypha ![][flag_FR] | 1 | **4** | ![][flag_FR] **Vivio** | [#1](/community/matches/48918193) |
 | **polo2000** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Leks | [#1](/community/matches/48922634) |
 | **\[ Odin \]** ![][flag_FR] | **4** | 0 | ![][flag_FR] polo2000 | [#1](/community/matches/48923112) |
 
-| Vendredi, 2019-01-18 |  |  |  |  | 
+| Vendredi, 2019-01-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | ExilFaker ![][flag_FR] | 3 | **4** | ![][flag_FR] **PouletFurtif** | [#1](/community/matches/48949878) |
 
-| Samedi, 2019-01-19 |  |  |  |  | 
+| Samedi, 2019-01-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Min-eb** ![][flag_FR] | **4** | 0 | ![][flag_FR] \_Karibu\_ | [#1](/community/matches/48964495) |
 | **Satsukel** ![][flag_FR] | **4** | 0 | ![][flag_FR] Zulsrammo | -win by default- |
@@ -970,7 +970,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | **Elementaires** ![][flag_FR] | **4** | 1 | ![][flag_FR] Roboclop | [#1](/community/matches/48981251) |
 | **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_FR] YuzukiEba | [#1](/community/matches/48981254) |
 
-| Dimanche, 2019-01-20 |  |  |  |  | 
+| Dimanche, 2019-01-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | YuzukiEba ![][flag_FR] | 0 | **4** | ![][flag_FR] **ExilFaker** | -win by default- |
 | **DemonWaves** ![][flag_FR] | **4** | 0 | ![][flag_FR] DragonSonic | [#1](/community/matches/49001552) |
@@ -1032,7 +1032,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Éligibilité et Inscription
 
-- N'importe quelle joueur ayant un drapeau faisant partie de la Francophonie [(Liste des pays francophones ici)](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) ou faisant partie de la France d'outre-mer [(Liste des îles françaises d'outre-mer ici)](https://fr.wikipedia.org/wiki/France_d%27outre-mer) sont autorisés à participer à ce tournoi. 
+- N'importe quelle joueur ayant un drapeau faisant partie de la Francophonie [(Liste des pays francophones ici)](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) ou faisant partie de la France d'outre-mer [(Liste des îles françaises d'outre-mer ici)](https://fr.wikipedia.org/wiki/France_d%27outre-mer) sont autorisés à participer à ce tournoi.
 - Tout membre du staff **à part les mapsetters et les arbitres** peut participer au tournoi.
 - 32 places seront ouvertes pour chaque division. Dans le cas où une division n'atteint pas les 32 joueurs, alors uniquement le top 16 de cette division jouera dans le tournoi. Si une division à en dessous de 16 joueurs, le tournoi pour celle-ci sera **annulé**. Des places en plus ne seront **PAS** ouvertes. Uniquement le top 32 de chaque division pourra jouer. Les joueurs peuvent rejoindre **n'importe** lequel des 4 tournois.
 - Le staff du tournoi à tous les droits de refuser l'inscription d'un joueur si le staff d'osu refuse ce joueur.
@@ -1041,13 +1041,13 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Préparation
 
-- Les arbitres doivent préparer la salle 10 minutes avant l'horaire prévu pour le match. L'arbitre doit absolument contacter les joueurs sur Discord pour leur rappeler que le match commence, suite au fait que Bancho n'envoie pas les invitations très souvent. 
+- Les arbitres doivent préparer la salle 10 minutes avant l'horaire prévu pour le match. L'arbitre doit absolument contacter les joueurs sur Discord pour leur rappeler que le match commence, suite au fait que Bancho n'envoie pas les invitations très souvent.
 - Le format de nom de la salle pour les 4 tournois est: o!2MF: (Joueur 1) vs (Joueur 2)
 - Le match est considéré un forfeit 10 minutes exactement après l'horaire prévu pour le match. Le joueur qui ne sera pas arrivé dans la salle après ces 10 minutes sera considéré comme le perdant, tandis que le joueur qui était dans la salle gagnera ce match par forfeit. Si les deux joueurs ne viennent pas, le gagnant sera le joueur ayant le plus haut seed.
 
 #### Phase de warmup
 
-- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](https://osu.ppy.sh/wiki/Rules)) ne seront pas autorisé. 
+- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](https://osu.ppy.sh/wiki/Rules)) ne seront pas autorisé.
 
 #### Bans et Picks
 
@@ -1055,7 +1055,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Format du Match
 
-- Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici: 
+- Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici:
   - 16èmes de finale et 8èmes de finale: Best-of-7 (Premier à 4 points)
   - Quarts de finale: Best-of-9 (Premier à 5 points)
   - Demi-finales: Best-of-11 (Premier à 6 points)

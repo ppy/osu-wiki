@@ -6,7 +6,7 @@ Leaders are **bolded**.
 
 ### osu!
 
-#### sd_eyes 
+#### sd_eyes
 + Members:
   + [**Mir**](https://osu.ppy.sh/users/8688812)
   + [**Halfslashed**](https://osu.ppy.sh/users/4598899)
@@ -30,7 +30,7 @@ Leaders are **bolded**.
   + [Myxomatosis](https://osu.ppy.sh/users/2202645)
   + [jonathanlfj](https://osu.ppy.sh/users/270377)
 
-#### sd_metadata 
+#### sd_metadata
 + Members:
   + [**Kurai**](https://osu.ppy.sh/users/77089)
   + [Fycho](https://osu.ppy.sh/users/1876867)
@@ -70,8 +70,8 @@ Leaders are **bolded**.
 
 ### osu!taiko
 
-#### sd_anime_domain 
-+ Members: 
+#### sd_anime_domain
++ Members:
   + [**Nardoxyribonucleic**](https://osu.ppy.sh/users/876419)
   + [Volta](https://osu.ppy.sh/users/4154071)
   + [Skylish](https://osu.ppy.sh/users/2845958)
@@ -82,7 +82,7 @@ Leaders are **bolded**.
   + [Kin](https://osu.ppy.sh/users/480689)
   + [tasuke912](https://osu.ppy.sh/users/2774767)
 
-#### sd_ban_anime 
+#### sd_ban_anime
 + Members:
   + [**Raiden**](https://osu.ppy.sh/users/2239480)
   + [**Gabe**](https://osu.ppy.sh/users/654108)
@@ -122,7 +122,7 @@ Leaders are **bolded**.
 
 ### osu!mania
 
-#### sd_social_constructs 
+#### sd_social_constructs
 + Members:
   + [**Asherz007**](https://osu.ppy.sh/users/9014047)
   + [Protastic101](https://osu.ppy.sh/users/6712747)

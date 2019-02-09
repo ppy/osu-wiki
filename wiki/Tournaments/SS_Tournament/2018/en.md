@@ -57,7 +57,7 @@ SS Tournament's most up to date information can be found on its most recent [for
 
 ### General Info
 
-* Teams may consist of 4 Members. 
+* Teams may consist of 4 Members.
 * There is no rank range the higher the rank (1 being highest) the more likely you are to avoid being cut off from a rank cut off of overflow sign ups
 * Seeding will take into account all Players PP. '(formula being <Member 1 PP> + <Member 2 PP> + …. / <# of players on team>)'
 * The tournament will be held in 3v3 double-elimination format with Groups having one top high mid low and bottom seed selected from the tournament drawings client.
@@ -78,12 +78,12 @@ Brackets will then be made with the top placing team in group A vs the second to
 1. The designated referee will have the lobby open using the format SST: (blue team) vs. (red team)
 1. The referee will message the team captains or anyone online from the team.
 1. Teams will join here. Once all 6 players are in the referee will ask for their warm ups. Order in which they are played is irrelevant. (this step is skipped for group stages)
-1. Both teams will '!roll', the higher number rolled will be the team who will ban first 
+1. Both teams will '!roll', the higher number rolled will be the team who will ban first
 1. Both teams will alternate banning maps until both teams have banned out 2 maps
-1. The team that lost the roll is the team that picks first and it it alternates from there. 
-Example: BLUE rolls 67 RED rolls 10 the order would be 
+1. The team that lost the roll is the team that picks first and it it alternates from there.
+Example: BLUE rolls 67 RED rolls 10 the order would be
 Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
-1. Teams have 60 seconds to pick a map and 120 seconds to ready up refs will use '!mp timer' to keep time if a team doesn't pick in the first 60 seconds the opposing team will pick instead if the players are not ready after 120 seconds the ref will at their discretion start the match *Refs are in full control of any leniency here and may choose not to enforce this until semifinals at which point enforcement will be mandatory* 
+1. Teams have 60 seconds to pick a map and 120 seconds to ready up refs will use '!mp timer' to keep time if a team doesn't pick in the first 60 seconds the opposing team will pick instead if the players are not ready after 120 seconds the ref will at their discretion start the match *Refs are in full control of any leniency here and may choose not to enforce this until semifinals at which point enforcement will be mandatory*
 1. Once a map has been picked and everyone is ready the map will start after 5 seconds using '!mp start 5'
 1. If a player disconnects within the first 15 seconds of a map the referee will abort the match and the map will be restarted. Anyone found abusing this will be disqualified from the tournament. This may only happen once per team per match after the first dc the referee is not to abort
 
@@ -238,7 +238,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version-](https://osu.ppy.sh/beatmaps/1451540) [End sky]
   - [P*Light - 2 MINUTES FIGHTERS](https://osu.ppy.sh/beatmaps/1156568) [toybot's MASTER]
   - [WSTR - Eastbound & Down](https://osu.ppy.sh/beatmaps/1271476) [Irre <3 HanzeR]
-- DoubleTime 
+- DoubleTime
   - [Goose house - Hikaru nara](https://osu.ppy.sh/beatmaps/947166) [Synethesia]
   - [zts - miragecoordinator](https://osu.ppy.sh/beatmaps/1383876) [Perversion]
   - [Susumu Hirasawa - Forces](https://osu.ppy.sh/beatmaps/72419) [KIRBY Mix]

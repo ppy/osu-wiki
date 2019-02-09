@@ -22,7 +22,7 @@ That said, we're always striving towards future growth and even more impressive 
 
 ### New Beatmap Nominator promotions
 
-A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!: 
+A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!:
 
 [- Frontier -](https://osu.ppy.sh/users/4314710), [ailv](https://osu.ppy.sh/users/6933054), [AyanokoRin](https://osu.ppy.sh/users/5376866), [Bubblun](https://osu.ppy.sh/users/6191653), [dsco](https://osu.ppy.sh/users/4330511), [ezek](https://osu.ppy.sh/users/180241), [Hailie](https://osu.ppy.sh/users/5226970), [iYiyo](https://osu.ppy.sh/users/3919785), [Kuron-Kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [mancuso_JM_](https://osu.ppy.sh/users/521568), [Namki](https://osu.ppy.sh/users/5248582), [Nevo](https://osu.ppy.sh/users/7451883), [Noffy](https://osu.ppy.sh/users/1541323), [pinataman](https://osu.ppy.sh/users/1235485), [Realazy](https://osu.ppy.sh/users/918297), [Sotarks](https://osu.ppy.sh/users/4452992), [TheKingHenry](https://osu.ppy.sh/users/5128277), [timemon](https://osu.ppy.sh/users/2072005), [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Wishkey](https://osu.ppy.sh/users/1101704)!
 
@@ -32,7 +32,7 @@ Additionally, [Electoz](https://osu.ppy.sh/users/6485263) and [Gabe](https://osu
 
 ### Beatmap Nominator retirements
 
-Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come. 
+Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
 
 ### Changes to Beatmap Nominator applications
 

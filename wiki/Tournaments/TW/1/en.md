@@ -101,10 +101,10 @@ This competition has come to an end and resulted in the following podium:
   - [Daddy Yankee - El Ritmo no Perdona (Myckoll) \[Tula Oni\]](/beatmapsets/706309#taiko/1493576)
 - Hidden
   - [Cyte - Upside Done (7\_7) \[Inversion\]](/beatmapsets/780145#taiko/1638948)
-  - [uki3/ewe - lili. (tasuke912) \[Oni\]](/beatmapsets/877103#taiko/1834014) 
+  - [uki3/ewe - lili. (tasuke912) \[Oni\]](/beatmapsets/877103#taiko/1834014)
 - HardRock
   - [flicknote - 422 (maziari1105) \[Virtuoso\]](/beatmapsets/672943#taiko/1422972)
-  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Perpetual\]](/beatmapsets/709333#taiko/1499439) 
+  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Perpetual\]](/beatmapsets/709333#taiko/1499439)
 - DoubleTime
   - [BPM15Q(Rinahamu&Nicamoq) - Good Luck (hoku) \[Goodbye T\_T\]](/beatmapsets/864069#taiko/1807258)
   - [Ayaka Ohashi - Wagamama MIRROR HEART (Y O U T A) \[YOUTA's Revenge\]](/beatmapsets/561188#taiko/1190792)
@@ -132,8 +132,8 @@ This competition has come to an end and resulted in the following podium:
   - [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](/beatmapsets/761900#taiko/1601977)
   - [Hatsune Miku - White Prism (Thousand) \[Inner Oni\]](/beatmapsets/396772#taiko/863094)
 - HardRock
-  - [Umeboshi Chazuke - Dutch Courage! (goheegy) \[Oni\]](/beatmapsets/679277/#taiko/1436194) 
-  - [Kobaryo - Royal Judgement (nananass) \[Judgement\]](/beatmapsets/777940#taiko/1634106) 
+  - [Umeboshi Chazuke - Dutch Courage! (goheegy) \[Oni\]](/beatmapsets/679277/#taiko/1436194)
+  - [Kobaryo - Royal Judgement (nananass) \[Judgement\]](/beatmapsets/777940#taiko/1634106)
 - DoubleTime
   - [Warak - REANIMATE (Raiden) \[Raiden's Inner Oni\]](/beatmapsets/411866/#taiko/1043373)
   - [you feat. nayuta - HELLO! (KitajimaYN, Y O U T A) \[Yuni&YOUTA's Morning Call!\]](/beatmapsets/632974#taiko/1343526)
@@ -156,10 +156,10 @@ This competition has come to an end and resulted in the following podium:
   - [Dirty Androids - Egret and WIllow (MMzz) \[Inner Oni\]](/beatmapsets/667377/#taiko/1412162)
 - Hidden
   - [MMQX - Spell No. 213 (incandescence) \[Blackmagic\]](/beatmapsets/803652/#taiko/1686776)
-  - [The Doors - Riders on the Storm (Infected Mushroom Remix) (Grimbow) \[Grim's Ura Oni\]](/beatmapsets/641775/#taiko/1360769) 
+  - [The Doors - Riders on the Storm (Infected Mushroom Remix) (Grimbow) \[Grim's Ura Oni\]](/beatmapsets/641775/#taiko/1360769)
 - HardRock
   - [YUC'e - Magical Mixer (KinomiCandy) \[Magical Oni\]](/beatmapsets/673504#taiko/1425374)
-  - [YUC'e - n'pa pa BBQ (\[Distant\]) \[Inner Oni\]](/beatmapsets/853749/#taiko/1784207) 
+  - [YUC'e - n'pa pa BBQ (\[Distant\]) \[Inner Oni\]](/beatmapsets/853749/#taiko/1784207)
 - DoubleTime
   - [toby fox - Chaos King (duski) \[Never better.\]](/beatmapsets/874293#taiko/1827343)
 - FreeMod
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
   - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](/beatmapsets/529539/#taiko/1122796)
 - Hidden
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Verdisphena) \[Verdi's Taiko Oni\]](/beatmapsets/30485/#taiko/103052)
-  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](/beatmapsets/280663#taiko/635003) 
+  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](/beatmapsets/280663#taiko/635003)
 - HardRock
   - [Silentroom - Nhelv (namaniku) \[Inner Oni\]](/beatmapsets/684795/#taiko/1449249)
   - [MAZARE - Mazare Party (incandescence) \[Party!!\]](/beatmapsets/754402#taiko/1588295)
@@ -197,10 +197,10 @@ This competition has come to an end and resulted in the following podium:
   - [WAiKURO - Alexandrite (Lundlerol) \[Future 9\]](/beatmapsets/858524/#taiko/1794210)
   - [Krewella - Come & Get It (Nightcore Mix) (S a n d) \[Sand's Taiko Oni\]](/beatmapsets/193318/#taiko/459368)
 - Hidden
-  - [Hinoisuka - Delightness Brightness (Kurosanyan) \[Inner Oni\]](/beatmapsets/247512#taiko/569856) 
-  - [Soleily - Silent Rush (MTDex) \[Inner Oni\]](/beatmapsets/814550/#taiko/1709713) 
+  - [Hinoisuka - Delightness Brightness (Kurosanyan) \[Inner Oni\]](/beatmapsets/247512#taiko/569856)
+  - [Soleily - Silent Rush (MTDex) \[Inner Oni\]](/beatmapsets/814550/#taiko/1709713)
 - HardRock
-  - [lapix - Outer Space (Miseracy) \[Inner Oni\]](/beatmapsets/798533/#taiko/1684140) 
+  - [lapix - Outer Space (Miseracy) \[Inner Oni\]](/beatmapsets/798533/#taiko/1684140)
   - [cillia - Rolling Girl (mintong89) \[Ura Oni Lv.29\]](/beatmapsets/434536/#taiko/936283)
 - DoubleTime
   - [ELISA - Wonder Wind (Mikkuri, KinomiCandy) \[Taiko Collab\]](/beatmapsets/25168/#taiko/140857)
@@ -215,34 +215,34 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 5
 
-| Saturday, 2018-12-01 |  |  |  |  | 
+| Saturday, 2018-12-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **cu** | **7** | 0 | Iceland | [#1](/community/matches/47786566) |
 
-| Sunday, 2018-12-02 |  |  |  |  | 
+| Sunday, 2018-12-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Land of Foda-se 2: Electric Boogaloo** | **7** | 1 | Iceland | [#1](/community/matches/47821563) |
 | Iceland | 0 | **7** | **Land of Foda-se 2: Electric Boogaloo** | [#1](/community/matches/47846905) |
 
 ### Round 4
 
-| Saturday, 2018-11-24 |  |  |  |  | 
+| Saturday, 2018-11-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Iceland** | **5** | 0 | Urugay | -win by default- |
 | Republic of Froot Loop Salad | 2 | **5** | **cu** | [#1](/community/matches/47659978) |
 
-| Sunday, 2018-11-25 |  |  |  |  | 
+| Sunday, 2018-11-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Urugay | 0 | **5** | **Land of Foda-se 2: Electric Boogaloo** | [#1](/community/matches/47665096) |
 | **Land of Foda-se 2: Electric Boogaloo** | **5** | 1 | Republic of Froot Loop Salad | [#1](/community/matches/47687431) |
 
 ### Round 3
 
-| Saturday, 2018-11-17 |  |  |  |  | 
+| Saturday, 2018-11-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **cu** | **4** | 0 | Urugay | [#1](/community/matches/47476742) |
 
-| Sunday, 2018-11-18 |  |  |  |  | 
+| Sunday, 2018-11-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Republic of Froot Loop Salad | 1 | **4** | **Land of Foda-se 2: Electric Boogaloo** | [#1](/community/matches/47523510) |
 | **Land of Foda-se 2: Electric Boogaloo** | **4** | 0 | Team II Empire | [#1](/community/matches/47527025) |
@@ -250,29 +250,29 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-| Saturday, 2018-11-10 |  |  |  |  | 
+| Saturday, 2018-11-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Team II Empire | 1 | **3** | **Urugay** | [#1](/community/matches/47314007) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](/community/matches/47340496) |
 | **cu** | **3** | 0 | Laundry Ca𝔹oclo Warriors | -win by default- |
 
-| Sunday, 2018-11-11 |  |  |  |  | 
+| Sunday, 2018-11-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Ununited States of Namepiking Gamers | 1 | **3** | **Iceland** | [#1](/community/matches/47365021) |
 | **Land of Foda-se 2: Electric Boogaloo** | **3** | 0 | Ununited States of Namepiking Gamers | [#1](/community/matches/47373419) |
 
 ### Round 1
 
-| Friday, 2018-11-02 |  |  |  |  | 
+| Friday, 2018-11-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Urugay | 0 | **3** | **cu** | -win by default- |
 
-| Saturday, 2018-11-03 |  |  |  |  | 
+| Saturday, 2018-11-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Ununited States of Namepicking Gamers** | **3** | 2 | Bolsonaros Unidos | [#1](/community/matches/47180959) |
 | **Team II Empire** | **3** | 1 | Ununited States of Namepiking Gamers | [#1](/community/matches/47185545) |
 
-| Sunday, 2018-11-04 |  |  |  |  | 
+| Sunday, 2018-11-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Republic of Froot Loop Salad | 1 | **3** | **Land of Foda-se 2: Electric Boogaloo** | [#1](/community/matches/47191404) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](/community/matches/47213957) |
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Game Rules
 
-1. At the start of the tournament (October 27, UTC 20:00), the **top 11** consenting players will become team captains, and will draft two other players to join their team. 
+1. At the start of the tournament (October 27, UTC 20:00), the **top 11** consenting players will become team captains, and will draft two other players to join their team.
 2. The tournament will be played in **Score V2**.
 3. **Undrafted** players may choose to be on standby in the case of any team needing a substitute at any point during the tournament.
 4. Each team will be randomly assigned a starting area (province) on the map and choose a name for their nation.
@@ -293,26 +293,26 @@ This competition has come to an end and resulted in the following podium:
    - The Attack phase consists of all remaining teams choosing an enemy province they wish to invade.
    - The Resolve phase consists of every attacker playing a taiko match against the team they attacked. If the defender wins they get to keep their land, otherwise the attacker steals it.
 6. Any team who controls 0 provinces after the Resolve phase is immediately eliminated.
-7. The first team to control **7 provinces** wins the tournament. After the end of the 10th Resolve phase, if there is no team who controls 7 provinces, the team with the most provinces wins. 
+7. The first team to control **7 provinces** wins the tournament. After the end of the 10th Resolve phase, if there is no team who controls 7 provinces, the team with the most provinces wins.
 8. If there is a tie for most provinces controlled, a grand finals match will be played between tied teams as a Bo13 with the respectively sized mappool.
-9. The mappool will contain 3 NM, 2 HR, 2 HD, 1 FM, 1 DT, and 1 TB at the start of the tournament. As the number of teams remaining shrinks, the size of the pool will increase. 
+9. The mappool will contain 3 NM, 2 HR, 2 HD, 1 FM, 1 DT, and 1 TB at the start of the tournament. As the number of teams remaining shrinks, the size of the pool will increase.
 10. Free Mod will use HardRock, Hidden, or Hidden + HardRock. Each team must have both players with a mod selected.
-11. Tiebreaker is No Mod. 
+11. Tiebreaker is No Mod.
 12. All match times are in **UTC**.
 13. **No staff members are allowed to play** other than streamers, commentators, and graphic designers.
 
 ### Match Rules
 
-1. Matches are played as a 2v2, teams may swap out players at any time between maps, failed scores count. 
-2. A referee will create the match and invite both team captains (or another team member in the case that the captain is not online), who will then be expected to invite the rest of their team 
+1. Matches are played as a 2v2, teams may swap out players at any time between maps, failed scores count.
+2. A referee will create the match and invite both team captains (or another team member in the case that the captain is not online), who will then be expected to invite the rest of their team
 3. There is a **15 minute** grace period for both teams to have at least 2 players present in the lobby. If, at the end of the grace period, a team is unable to have 2 players present, the other team wins by default.
-4. At any time before a WBD is declared, either team with only 1 player present may declare that they are using a willing substitute player, who must confirm this in the Discord server. 
-5. Once all players are present, the defending team must state their choice between first warmup/ban/pick or second warmup/ban/pick. Teams may pick warmup maps with a length of 5:00 or less, in the decided order. 
+4. At any time before a WBD is declared, either team with only 1 player present may declare that they are using a willing substitute player, who must confirm this in the Discord server.
+5. Once all players are present, the defending team must state their choice between first warmup/ban/pick or second warmup/ban/pick. Teams may pick warmup maps with a length of 5:00 or less, in the decided order.
 6. Each team may ban **one map** from the mappool, in the decided order.
-7. Teams will continue to take turns picking maps, until one team wins. 
-8. Every pick, the referee will start a !mp timer 240 command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command. 
-9. Teams will then ready up, after which the referee will enter !mp start 15 to begin the match. 
-10. Failed scores are counted, the team with the highest score wins. 
+7. Teams will continue to take turns picking maps, until one team wins.
+8. Every pick, the referee will start a !mp timer 240 command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command.
+9. Teams will then ready up, after which the referee will enter !mp start 15 to begin the match.
+10. Failed scores are counted, the team with the highest score wins.
 11. The Matches will be BO5 and grow bigger as teams are eliminated.
 
 [flag_AU]: /wiki/shared/flag/AU.gif

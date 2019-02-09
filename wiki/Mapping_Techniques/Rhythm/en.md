@@ -49,7 +49,7 @@ It is encouraged to only be used for harder difficulties as this can be hard for
 
 Nominator(s): [NoHItter](https://osu.ppy.sh/u/124455)
 
-Differential stacks consist of notes that are spaced apart inconsistently from each other in the timeline. 
+Differential stacks consist of notes that are spaced apart inconsistently from each other in the timeline.
 A notable thing is that these objects are mapped as if they are a consistent beat.
 
 Some sightreading may be required unless you can really follow the music.

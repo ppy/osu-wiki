@@ -12,7 +12,7 @@ Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every 
 
 We unfortunately are having a ton of trouble keeping up with the videos that get included in this post, and it's looking more and more as if we'll just drop the videos altogether. How important are the videos to you guys? Let us know in the comments if the videos are a helpful addition, because we'll do our best to find editors that can be regularly available if that's the case. There's no video this time; sorry!
 
-There aren't any huge developments happening within the project at the moment, so we'll be jumping right into the maps! 
+There aren't any huge developments happening within the project at the moment, so we'll be jumping right into the maps!
 
 In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

@@ -56,7 +56,7 @@ As with all Featured Artist tracks, the works on **HyuN**'s listing are 100% fre
 
 We'd also like to take a moment to share that this release will herald the end of the *exclusive* launch-accompanying beatmap releases from the Mappers' Guild, at least for now.
 
-The Guild's not going anywhere however, and we have a new system in the works to help encourage mapping circles (har har) of all kinds to get involved with the amazing work of our superbly talented Featured Artists. 
+The Guild's not going anywhere however, and we have a new system in the works to help encourage mapping circles (har har) of all kinds to get involved with the amazing work of our superbly talented Featured Artists.
 
 We're excited to hear your creative take on **HyuN**'s work! And as always, keep your eyes and ears peeled for more on the Featured Artist project!
 

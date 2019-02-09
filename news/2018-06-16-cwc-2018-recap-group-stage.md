@@ -18,7 +18,7 @@ As I’ll get into very soon, this was possibly the most incredible weekend of m
 
 ## Group Stage
 
-What screams excitement and high-stakes drama more than anything else? Why, four tiebreaker matches in a row, that’s what! After a comfortable opening victory for last year’s runners-up China over the Philippines, we were treated to the almost surreal spectacle of our next four streamed matches going the full 7-game distance, each culminating with [Oh, Be Clever - Next To You (Elephante Remix)](https://osu.ppy.sh/b/1216211&m=2). 
+What screams excitement and high-stakes drama more than anything else? Why, four tiebreaker matches in a row, that’s what! After a comfortable opening victory for last year’s runners-up China over the Philippines, we were treated to the almost surreal spectacle of our next four streamed matches going the full 7-game distance, each culminating with [Oh, Be Clever - Next To You (Elephante Remix)](https://osu.ppy.sh/b/1216211&m=2).
 
 This block featured two agonising defeats for Thailand and Vietnam, the latter participating in their first ever osu!catch World Cup, as well as a closely-fought duel between Norway and the Russian Federation. However, the highlight was undoubtedly a clash of epic magnitude between France and Taiwan, which had everyone out of their seats as the two teams fought to the bitter end, trading leads back and forth. Taiwan would eventually prevail, eking out a mere 3,500 point lead on the final spinner to complete their first of two tiebreaker victories, also triumphing over Canada early on Sunday morning.
 
