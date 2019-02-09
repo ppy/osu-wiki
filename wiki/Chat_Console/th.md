@@ -7,16 +7,16 @@
 -   แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว หรืออาจจะกดปุ่ม `+` สีเหลืองเพื่อเลือกช่องใหม่ที่ต้องการ
 -   สีของผู้เล่นต่างๆ มีความหมายต่างกัน
 
-| สี                        | คนนั้นเป็นใคร                                                                                                                                      |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **ขาว**                     | **คุณ**นั่นแหละ                                                                                                                                    |
-| **เหลืองอ่อน**              |  ไม่ใช่ Supporter                                                                                                                                   |
-| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                         |
-| **แดง**                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                |
-| **เขียวเข้ม**               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
-| **น้ำเงิน**                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
-| **ฟ้า**                     | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง osu!                                                                                                        |
-| **ชมพู**                    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                  |
+| สี | คนนั้นเป็นใคร |
+| --- | --- |
+| **ขาว** | **คุณ**นั่นแหละ |
+| **เหลืองอ่อน** | ไม่ใช่ Supporter |
+| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter/ "osu!supporter") |
+| **แดง** | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") |
+| **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
+| **น้ำเงิน** | คนที่ทักคุณในข้อความส่วนตัว (PM) |
+| **ฟ้า** | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง osu! |
+| **ชมพู** | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") |
 
 -   คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
 -   คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ
@@ -37,19 +37,19 @@
 -   คลิกที่แถบสีขาวทางด้านขวามือเพื่อเลื่อนไปมา ใช้ลูกกลิ้งเมาส์ก็ได้
 -   user panel ที่ไม่มีอะไรเลย คือผู้เล่นที่เชื่อมต่อผ่าน IRC
 
-| Panel colour                                                                                          | สี พร้อมคำอธิบาย                                                                                |
-|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ                                           |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | 2. เทา - กำลังเล่นคนเดียว                                                                       |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่                                                       |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | 4. แดง - แก้ไขบีทแมพตัวเอง                                                                      |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | 5. ม่วง - ทดสอบบีทแมพ (ของเราหรือคนอื่นก็ได้)                                                   |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | 6. เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้                |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | 7. เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น                                                   |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | 8. น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ยังไม่ได้เล่น                                               |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 9. เหลือง - อยู่ในโหลดเล่นหลายคน กำลังเล่นอยู่                                                  |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | 10. ดำ - อยู่นิ่งๆ นานเกินสองนาทีครึ่ง                                                          |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | 11. น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อคอินผ่านระบบ IRC (ได้แค่แชทเท่านั้น) |
+| Panel colour | สี พร้อมคำอธิบาย |
+| --- | --- |
+| ![Player is idle](Chat_Console-Idle.png "Player is idle") | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
+| ![Player is playing](Chat_Console-Playing.png "Player is playing") | 2. เทา - กำลังเล่นคนเดียว |
+| ![Player is watching](Chat_Console-Watching.png "Player is watching") | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่ |
+| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap") | 4. แดง - แก้ไขบีทแมพตัวเอง |
+| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap") | 5. ม่วง - ทดสอบบีทแมพ (ของเราหรือคนอื่นก็ได้) |
+| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap") | 6. เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้ |
+| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap") | 7. เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น |
+| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer") | 8. น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ยังไม่ได้เล่น |
+| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 9. เหลือง - อยู่ในโหลดเล่นหลายคน กำลังเล่นอยู่ |
+| ![Player is Afk](Chat_Console-Afk.png "Player is Afk") | 10. ดำ - อยู่นิ่งๆ นานเกินสองนาทีครึ่ง |
+| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC") | 11. น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อคอินผ่านระบบ IRC (ได้แค่แชทเท่านั้น) |
 
 
 ลองคลิกที่ User Panel ของใครก็ได้ขึ้นมาดู แล้วจะเจอสิ่งนี้ (ไม่ใช่ Clickbait นะ)
@@ -71,10 +71,10 @@
 
 ### /help
 
-| คำสั่ง        | สิ่งที่เกิดขึ้น                                                                                         | ตัวอย่าง           | BanchoBot จะตอบว่า...                                                               | 
-|------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| `/addfriend [user]` or `/delfriend [user]` | เพิ่มหรือนำออก `[user]` เข้า/จากรายชื่อเพื่อน     | `/addfriend Amigo` | You are now friends with Amigo. |
-| `/away [message]` | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | `/away สวัสดีผมไม่อยู่นะ รอแปปนึง` | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง|
+| คำสั่ง | สิ่งที่เกิดขึ้น | ตัวอย่าง | BanchoBot จะตอบว่า... | 
+| --- | --- | --- | --- |
+| `/addfriend [user]` or `/delfriend [user]` | เพิ่มหรือนำออก `[user]` เข้า/จากรายชื่อเพื่อน | `/addfriend Amigo` | You are now friends with Amigo. |
+| `/away [message]` | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | `/away สวัสดีผมไม่อยู่นะ รอแปปนึง` | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง |
 | `/bb` | Sends a message to bancho like rank [number] | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) | 
 | `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) | 
@@ -84,7 +84,7 @@
 | `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) | 
 | `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home | 
 | `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. | 
-| `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto) |
 | `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
 | `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) | 
 | `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) | 
@@ -94,11 +94,11 @@
 
 ### /keys
 
-| Keyboard keys     | Effect                                                   |
-|-------------------|----------------------------------------------------------|
+| Keyboard keys | Effect |
+| --- | --- |
 | `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
-| `Tab`               | Auto-complete currently typing nickname.                 |
-| `F8`                | Toggle chat console.                                     |
-| `F9`                | Toggle extended chat console.                            |
-| `Ctrl` + `C` / `V`        | Copy/Paste.                                              |
-| `Alt` + `0` - `9`         | Switch to respective tab.                                |
+| `Tab` | Auto-complete currently typing nickname. |
+| `F8` | Toggle chat console. |
+| `F9` | Toggle extended chat console. |
+| `Ctrl` + `C` / `V` | Copy/Paste. |
+| `Alt` + `0` - `9` | Switch to respective tab. |

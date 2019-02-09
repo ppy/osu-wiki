@@ -58,26 +58,26 @@ xK Reference
 
 Note: 1K, 2K, 3K, 9K and 10K are from the new unstable update, so not recommended to mapping it now.
 
-| Keys (CS)                                              | Game                                                                            |
-|--------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1K                                                     | Vuvu Hero                                                                       |
-| 2K                                                     | O2Jam U (2K)                                                                    |
-| 3K                                                     | TapTap, FreQuency/Amplitude                                                     |
-| 4K                                                     | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K)        |
-| 5K                                                     | pop'n music (5K), O2Jam U (5K), Pump it Up (Single)                             |
-| 6K                                                     | EZ2ON (StreetMix)                                                               |
-| 6K (L)                                                 | beatmania (P1)                                                                  |
-| 6K (R)                                                 | beatmania (P2)                                                                  |
-| 7K                                                     | O2Jam, pop'n music (7K)                                                         |
-| 8K                                                     | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix)                     |
-| 8K (L)                                                 | beatmaniaIIDX (P1)                                                              |
-| 8K (R)                                                 | beatmaniaIIDX (P2)                                                              |
-| 9K                                                     | pop'n music, E5 - Dancing Super Station (Single).                               |
-| 10K                                                    | MuziBox, Pump It Up (Double)                                                    |
-| 12K                                                    | Keyboardmania (Light)                                                           |
-| 14K                                                    |                                                                                 |
-| 16K                                                    | beatmaniaIIDX (Double)                                                          |
-| 18K                                                    | E5 - Dancing Super Station (Double).                                            |
-| 20K                                                    |                                                                                 |
+| Keys (CS) | Game |
+| --- | --- |
+| 1K | Vuvu Hero |
+| 2K | O2Jam U (2K) |
+| 3K | TapTap, FreQuency/Amplitude |
+| 4K | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K) |
+| 5K | pop'n music (5K), O2Jam U (5K), Pump it Up (Single) |
+| 6K | EZ2ON (StreetMix) |
+| 6K (L) | beatmania (P1) |
+| 6K (R) | beatmania (P2) |
+| 7K | O2Jam, pop'n music (7K) |
+| 8K | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix) |
+| 8K (L) | beatmaniaIIDX (P1) |
+| 8K (R) | beatmaniaIIDX (P2) |
+| 9K | pop'n music, E5 - Dancing Super Station (Single). |
+| 10K | MuziBox, Pump It Up (Double) |
+| 12K | Keyboardmania (Light) |
+| 14K |                                                                                 |
+| 16K | beatmaniaIIDX (Double) |
+| 18K | E5 - Dancing Super Station (Double). |
+| 20K |                                                                                 |
 
 Not included: Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\].

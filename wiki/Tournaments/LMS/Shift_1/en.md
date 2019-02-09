@@ -403,12 +403,12 @@ This competition has come to an end and resulted in the following podium:
 | F | Roko-Don's Taiko Cheeks | 4 | 0 | logic is half ＢＬＡＣＫ! | [#1](/community/matches/43223663) |
 | F | Loss.jpg | 2 | 4 | logic is half ＢＬＡＣＫ! | [#1](/community/matches/43227433) |
 | F | The Spanish Inquisition | 4 | 0 | Loss.jpg | [#1](/community/matches/43229857) |
-| G | Tatacon PH | 1 | 4 | We know de wae  | [#1](/community/matches/43159216) |
-| G | FLip-FLop | 4 | 0 | We know de wae  | [#1](/community/matches/43161554) |
+| G | Tatacon PH | 1 | 4 | We know de wae | [#1](/community/matches/43159216) |
+| G | FLip-FLop | 4 | 0 | We know de wae | [#1](/community/matches/43161554) |
 | G | Tatacon PH | 1 | 4 | FLip-FLop | [#1](/community/matches/43187411) |
 | G | Pyon Pyon Usagi | 4 | 3 | FLip-FLop | [#1](/community/matches/43222375) |
 | G | Pyon Pyon Usagi | 4 | 0 | Tatacon PH | [#1](/community/matches/43222375) |
-| G | Pyon Pyon Usagi | 4 | 1 | We know de wae  | [#1](/community/matches/43226727) |
+| G | Pyon Pyon Usagi | 4 | 1 | We know de wae | [#1](/community/matches/43226727) |
 
 ------------------------------------------------------------------------
 

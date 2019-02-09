@@ -146,14 +146,14 @@ OD(Overall Difficulty, 전반적 난이도):히트오차와 스핀의 난이도�
     -   **주의:** 당신의 멀티플레이 기록은 당신이 **직접** 리플레이 저장 후에 등록을 하지 않는 이상 등록되지 않습니다.
 -   "Not yet uploaded'박스는 당신이 비트맵을 만들었지만 아직 업로드하지 않은 것을 뜻합니다.
 
-| colspan=2|랭킹          |
-|-------------------------|
-| 항목                    |
-| 로컬 랭킹               |
-| 국가 랭킹               |
-| 글로벌 랭킹             |
+| colspan=2 | 랭킹 |
+| --- |
+| 항목 |
+| 로컬 랭킹 |
+| 국가 랭킹 |
+| 글로벌 랭킹 |
 | 글로벌 랭킹 (모드 선택) |
-| 친구 랭킹               |
+| 친구 랭킹 |
 
 <img src="Quick_web_access.png" title="fig:비트맵의 웹 연결 옵션. (인터넷 연결이 필요함)" alt="비트맵의 웹 연결 옵션. (인터넷 연결이 필요함)" width="280" /> ![](Word bubble.jpg "fig:Word bubble.jpg")말풍선 아이콘을 클릭하면 비트맵의 **바로가기**화면을 띄웁니다.(각 옵션의 번호는 단축키입니다.):
 
@@ -216,14 +216,14 @@ Back을 누르거나 ESC키를 눌러 메인메뉴로 나갈 수 있습니다.
 
 <img src="Soloplay4.jpeg" title="fig:선택 옵션" alt="선택 옵션" width="200" />
 
-| colspan=2|선택 옵션        |
-|----------------------------|
-| 항목                       |
-| 커서를 빼서 되돌아가기     |
-| 커서를 올려서 선택하기     |
+| colspan=2 | 선택 옵션 |
+| --- |
+| 항목 |
+| 커서를 빼서 되돌아가기 |
+| 커서를 올려서 선택하기 |
 | 플레이 하지 않은 맵만 보기 |
-| 랭크되지 않은 맵만 보기    |
-| 랭크된 맵만 보기           |
+| 랭크되지 않은 맵만 보기 |
+| 랭크된 맵만 보기 |
 
 **주의!** 이 옵션은 b20140610.1에서 삭제되었습니다.
 
@@ -241,7 +241,7 @@ Back을 누르거나 ESC키를 눌러 메인메뉴로 나갈 수 있습니다.
 
 **주의:** 성적창은 적용된 스킨에 따라 다르게 표시될 수 있습니다.
 
-Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg| 태고 (태고 스킨 사용) Accuracy\_CtB.jpg| 캐치 더 비트 Accuracy\_Mania.jpg| 마니아 Multi-play record.png| 멀티플레이 : Head-To-Head (개인전) Multiplay Co-Op Grade.jpg| 멀티플레이 : Tag Coop (협동) Multiplay Team Grade.jpg| 멀티플레이 : Team Vs (팀)
+Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg | 태고 (태고 스킨 사용) Accuracy\_CtB.jpg | 캐치 더 비트 Accuracy\_Mania.jpg | 마니아 Multi-play record.png | 멀티플레이 : Head-To-Head (개인전) Multiplay Co-Op Grade.jpg | 멀티플레이 : Tag Coop (협동) Multiplay Team Grade.jpg | 멀티플레이 : Team Vs (팀)
 
 **온라인 스코어 리더보드**
 --------------------------
@@ -272,4 +272,4 @@ Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg| 태고 (태고 스킨 사용) 
 8.  비트맵 총점입니다. 개인적으로 이 비트맵이 재밌는지 평가해주세요. 잘 모르겠으면 일단 넘어가고 나중에 해도 됩니다.
 9.  선곡화면으로 돌아갑니다.
 
-Osu! Online score.png| 스텐다드 온라인 Taiko Online.jpg| 태고 온라인 CtB Online.png| 캐치 더 비트 온라인
+Osu! Online score.png| 스텐다드 온라인 Taiko Online.jpg | 태고 온라인 CtB Online.png | 캐치 더 비트 온라인

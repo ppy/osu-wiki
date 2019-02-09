@@ -61,14 +61,14 @@ Guidelines (가이드 라인)
 ?키 참고용
 ------------
 
-| Keys(CS) | Game                               |
-|----------|------------------------------------|
-| 4K       | Dance Dance Revolution (Single)    |
-| 5K       | pop'n music (5K)                   |
-| 6K       |                                    |
-| 6K(R)    | Beatmania I(P2), Beatmania III(P2) |
-| 6K(L)    | Beatmania I(P1), Beatmania III(P1) |
-| 7K       | O2Jam, pop'n music (7K)            |
-| 8K       | Dance Dance Revolution (Double)    |
-| 8K(R)    | Beatmania IIDX(P2)                 |
-| 8K (L)   | Beatmania IIDX(P1)                 |
+| Keys(CS) | Game |
+| --- | --- |
+| 4K | Dance Dance Revolution (Single) |
+| 5K | pop'n music (5K) |
+| 6K |                                    |
+| 6K(R) | Beatmania I(P2), Beatmania III(P2) |
+| 6K(L) | Beatmania I(P1), Beatmania III(P1) |
+| 7K | O2Jam, pop'n music (7K) |
+| 8K | Dance Dance Revolution (Double) |
+| 8K(R) | Beatmania IIDX(P2) |
+| 8K (L) | Beatmania IIDX(P1) |

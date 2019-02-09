@@ -33,12 +33,12 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 例子:-
 
-| 音符 1       : | 音符 2        : | 是否符合规定 | 原因                                               |
-|:---------------|:----------------|:-------------|:---------------------------------------------------|
-| 100-**200**    | **200**-300     | 不可以       | 放开第一个音符之后没有任何反应时间去击打下一个音符 |
-| **100**-200    | **100-150**     | 不可以       | 一个长音符在另一个长音符之中                       |
-| **100**-200    | **155**         | 不可以       | 一个短音符在长音符之中                             |
-| 100-200        | 250-350         | 可以         | 两个音符之间有 50 的间隔作为反应时间               |
+| 音符 1       : | 音符 2        : | 是否符合规定 | 原因 |
+| :-- | :-- | :-- | :-- |
+| 100-**200** | **200**-300 | 不可以 | 放开第一个音符之后没有任何反应时间去击打下一个音符 |
+| **100**-200 | **100-150** | 不可以 | 一个长音符在另一个长音符之中 |
+| **100**-200 | **155** | 不可以 | 一个短音符在长音符之中 |
+| 100-200 | 250-350 | 可以 | 两个音符之间有 50 的间隔作为反应时间 |
 
 -   **必须关闭 letterbox。** Letterboxing 不支持 osu!mania 模式，因此不能使用。
 
@@ -71,13 +71,13 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 这表示的是同一键位连续出现若干音符。它大概是这样的:-
 
-    |----|
-    |o---|
-    |o---|
-    |o---|
-    |o---|
-    |o---|
-    |----|
+    | --- |
+    | o--- |
+    | o--- |
+    | o--- |
+    | o--- |
+    | o--- |
+    | --- |
 
 这就是单指连打，英语又叫 jackhammer，击打起来十分困难。这个梗的难度也相当高，对于手速和控制力等能力的要求都十分苛刻。
 
@@ -111,26 +111,26 @@ xK 参照
 
 注意：1K,2K,3K,9K 和 10K 只存在于非正式版本更新中（unstable update），因此不推荐做这样的图。
 
-| 键数（CS） | 游戏                                                                     |
-|:-----------|:-------------------------------------------------------------------------|
-| 1K         | Vuvu Hero                                                                |
-| 2K         | O2Jam U (2K)                                                             |
-| 3K         | TapTap, FreQuency/Amplitude                                              |
-| 4K         | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K) |
-| 5K         | pop'n music (5K), O2Jam U (5K), Pump it Up (Single)                      |
-| 6K         | EZ2ON (StreetMix)                                                        |
-| 6K (L)     | beatmania (P1)                                                           |
-| 6K (R)     | beatmania (P2)                                                           |
-| 7K         | O2Jam, pop'n music (7K)                                                  |
-| 8K         | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix)              |
-| 8K (L)     | beatmaniaIIDX (P1)                                                       |
-| 8K (R)     | beatmaniaIIDX (P2)                                                       |
-| 9K         | pop'n music, E5 - Dancing Super Station (Single).                        |
-| 10K        | MuziBox, Pump It Up (Double)                                             |
-| 12K        | Keyboardmania (Light)                                                    |
-| 14K        |                                                                          |
-| 16K        | beatmaniaIIDX (Double)                                                   |
-| 18K        | E5 - Dancing Super Station (Double).                                     |
-| 20K        |                                                                          |
+| 键数（CS） | 游戏 |
+| :-- | :-- |
+| 1K | Vuvu Hero |
+| 2K | O2Jam U (2K) |
+| 3K | TapTap, FreQuency/Amplitude |
+| 4K | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K) |
+| 5K | pop'n music (5K), O2Jam U (5K), Pump it Up (Single) |
+| 6K | EZ2ON (StreetMix) |
+| 6K (L) | beatmania (P1) |
+| 6K (R) | beatmania (P2) |
+| 7K | O2Jam, pop'n music (7K) |
+| 8K | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix) |
+| 8K (L) | beatmaniaIIDX (P1) |
+| 8K (R) | beatmaniaIIDX (P2) |
+| 9K | pop'n music, E5 - Dancing Super Station (Single). |
+| 10K | MuziBox, Pump It Up (Double) |
+| 12K | Keyboardmania (Light) |
+| 14K |                                                                          |
+| 16K | beatmaniaIIDX (Double) |
+| 18K | E5 - Dancing Super Station (Double). |
+| 20K |                                                                          |
 
 未包含：Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\].

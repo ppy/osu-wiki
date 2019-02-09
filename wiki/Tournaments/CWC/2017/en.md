@@ -73,7 +73,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | ![][flag_IT] | **Italy** | **[Pizza Kun](/users/768609)**, [- Resh -](/users/8494477), [ArMa79](/users/4982799), [Trollingor](/users/4144266), [KuroGX](/users/6581584), [Karym](/users/5220794) |
 | ![][flag_MY] | **Malaysia** | **[Shadow Fear](/users/635485)**, [Kagari](/users/3366264), [murutattack](/users/4480237), [Future\_miku95](/users/2351567), [Lute](/users/4011799), [Gilochan](/users/598204) |
 | ![][flag_MX] | **Mexico** | **[Ponchiwi](/users/1089040)**, [daxeroz](/users/1170156), [Astrea](/users/3845678), [Jusenkyo](/users/1237535), [Cxlucha](/users/5063961), [Kashou](/users/4046640) |
-| ![][flag_NL] | **Netherlands** | **[Sartan](/users/4100941)**, [Wesley](/users/2407265), [AniCore](/users/3212806), [Enchant](/users/4744367), [b-a-d-s123](/users/3656717), [CakeAndBanana](/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Sartan](/users/4100941)**, [Wesley](/users/2407265), [AniCore](/users/3212806), [Enchant](/users/4744367), [b-a-d-s123](/users/3656717), [CakeAndBanana](/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Sakurano](/users/2730486)**, [TheBeany](/users/8146397), [CoolEVT](/users/3252653), [Karma](/users/3768185), [Trumpet](/users/5405204), [Kiwi](/users/3167450) |
 | ![][flag_NO] | **Norway** | **[Cameragod](/users/4974088)**, [Groex](/users/3970664), [Divine Cake](/users/3636998), [Mile](/users/2760954), [Benny-](/users/4023183), [Lanki](/users/2535200) |
 | ![][flag_PH] | **Philippines** | **[-Nicotine](/users/4818935)**, [- Kielzu -](/users/6221114), [Chloebe](/users/4577865), [Lobsterr](/users/6575915), [Crowley](/users/6341006), [Roido](/users/6829103) |

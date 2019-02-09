@@ -36,17 +36,17 @@ Coût
 
 [Utilisez ce convertisseur d'unités](http://www.oanda.com/currency/converter/) ou [demandez à Google](https://www.google.com.my/#q=10$+en+euros) pour connaître le prix dans votre monnaie. Ce dernier est exprimé en dollars US ($USD) par défaut. <img src="O!s Decide.jpg" title="fig:Un exemple" alt="Un exemple" width="300" />
 
-| Mois | Coût ($)      | Coût approximatif (€, au 10/06/2014) |
-|------|---------------|--------------------------------------|
-| 1    | 4             | | 2.95                               |
-| 2    | 8             | | 5.90                               |
-| 4    | 12 (-25%)     | | 8.85                               |
-| 6    | 16 (-33%)     | | 11.81                              |
-| 8    | 20 (-38%)     | | 14.76                              |
-| 9    | 22 (-39%)     | | 16.23                              |
-| 10   | 24 (-40%)     | 17.71                                |
-| 12   | 26 (-46% max) | | 19.19                              |
-| 24   | 52 (-46% max) | | 38.38                              |
+| Mois | Coût ($) | Coût approximatif (€, au 10/06/2014) |
+| --- | --- | --- |
+| 1 | 4 | | 2.95 |
+| 2 | 8 | | 5.90 |
+| 4 | 12 (-25%) | | 8.85 |
+| 6 | 16 (-33%) | | 11.81 |
+| 8 | 20 (-38%) | | 14.76 |
+| 9 | 22 (-39%) | | 16.23 |
+| 10 | 24 (-40%) | 17.71 |
+| 12 | 26 (-46% max) | | 19.19 |
+| 24 | 52 (-46% max) | | 38.38 |
 
 Les prix sont les mêmes pour tous les groupes d'utilisateurs. Il n'y a pas de promotion supplémentaire.
 

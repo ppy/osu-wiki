@@ -8,7 +8,7 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 ## Tournament schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration | 4-18. June 2017 |
 | Qualification Stage | 24-25. June 2017 |
 | Drawings | 25. June 2017 (20:00 UTC+8) |
@@ -29,7 +29,7 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 ## Tournament staff
 
 | Team | Staff |
-| ---: | :--- |
+| --: | :-- |
 | Tournament managers | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
 | Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
 | Map selectors | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296), ![][TW] [Spy](https://osu.ppy.sh/users/1217122), ![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
@@ -193,14 +193,14 @@ TB:
 ### Finals - week 2
 
 | Date | Team A | | Score | | Team B | Notes |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 5. Augest | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | WBD |
 | 6. Augest | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | WBD |
 
 ### Finals - week 1
 
 | Date | Team A | | Score | | Team B | Notes |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 29. July | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [record](https://osu.ppy.sh/community/matches/34872032) |
 | | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | WBD |
 | | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34873568) |
@@ -209,7 +209,7 @@ TB:
 ### Semifinals
 
 | Date | Team A | | Score | | Team B | Notes |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | WBD |
 | | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | WBD |
 | | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34703556) |
@@ -223,7 +223,7 @@ TB:
 ### Quarterfinals
 
 | Date | Team A | | Score | | Team B | Notes |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 15. July | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [record](https://osu.ppy.sh/community/matches/34542511) |
 | | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34543141) |
 | | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | WBD |
@@ -236,7 +236,7 @@ TB:
 ### Round of 16
 
 | Date | Team A | | Score | | Team B | Notes |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 8. July | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34380098) |
 | | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34380710) |
 | | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [record](https://osu.ppy.sh/community/matches/34384012) |
@@ -249,7 +249,7 @@ TB:
 ### Group Stage
 
 | Team A | | Score | | Team B | | Team A | | Score | | Team B |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
 | ***Group A*** | | | | | | | | |
 | Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
 | Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
@@ -267,12 +267,12 @@ TB:
 | NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
 | hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
 | ***Group E*** | | | | | | | | |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
 | Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
 | ***Group F*** | | | | | | | | |
 | [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
 | [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
 | ***Group G*** | | | | | | | | |
 | AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
@@ -286,7 +286,7 @@ TB:
 ### Qualification Stage
 
 | | ID | Score | | ID | Score | | ID | Score |
-| ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
+| --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
 | ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
 | ![][CN] | [Crz] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
@@ -303,7 +303,7 @@ TB:
 ### Test match
 
 | Saturday, 17. June 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | [Match Record](https://osu.ppy.sh/community/matches/33910571) |
 
 ## Ruleset
@@ -362,7 +362,7 @@ TB:
 7. The stages are split up into the following:
 
 | Stage | Match ID |
-| ---: | :--- |
+| --: | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z,AA |

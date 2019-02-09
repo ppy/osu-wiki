@@ -9,14 +9,14 @@ outdated: true
 ----------------------
 
 | имя | описание |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | Лидер проекта |
 
 В строю
 ----------------------
 
 | имя | описание |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Поддержка игроков, Секретарь в очках |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Ведущий дизайнер |
 | [Loctav](https://osu.ppy.sh/users/71366) | Организация официальных турниров, Управление сообществом и персоналом |
@@ -32,12 +32,12 @@ outdated: true
 ----------------------
 
 | имя | описание |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Присмотр за некоторыми вещами, помощь тут и там, Чиби-рисунки для игры и сайта |
 | [Derekku](https://osu.ppy.sh/users/91341) | Присмотр за некоторыми вещами, Управление сообществом |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Разработчик osu!, Встраивание внутриигрового чата, Присмотр за сайтом |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, Реализация компонентов osz2/p2p |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Оригинальный дизайн сайта |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Оригинальный дизайн сайта |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Потрасающие скины, Вклад в стандартный скинt |
 | [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, ~ с л а й д е р ы ~ |
 | [nuudles](https://osu.ppy.sh/users/21312) | Автор порта osu! на iPhone |
@@ -50,7 +50,7 @@ outdated: true
 ----------------------
 
 | имя | описание |
-| ---- | ----------- |
+| --- | --- |
 | [Глобальные модераторы (GMT)](/wiki/People/Global_Moderation_Team) | Наблюдение за форумами и игровым чатом |
 | [Номинаторы карт (BNG)](/wiki/People/Beatmap_Nomination_Group) | Те, кто номинирует карты и днём и ночью |
 | [Разработчики](http://osu.ppy.sh/g/11) | Реализация нововведений, исправление багов |

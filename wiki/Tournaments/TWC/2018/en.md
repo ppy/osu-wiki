@@ -13,7 +13,7 @@ The **osu!taiko World Cup 2018** (**_TWC 2018_**) is a country-based osu!taiko t
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2018-03-08/2018-03-21 |
 | Drawings | 2018-03-31 (14:00 UTC) |
 | Group Stage | 2018-04-07/2018-04-08 |
@@ -28,7 +28,7 @@ The **osu!taiko World Cup 2018** (**_TWC 2018_**) is a country-based osu!taiko t
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
 | Placing | Prize(s) |
-| --- | :--- |
+| --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!taiko Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
@@ -39,7 +39,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 The osu!taiko World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
-| ------------ | -------------- |
+| --- | --- |
 | Management | [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | [![][flag_HK] mangomizer](https://osu.ppy.sh/users/1893718), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766), [![][flag_DE] OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Commentators | [![][flag_CA] Azer](https://osu.ppy.sh/users/2155578), [![][flag_US] Das](https://osu.ppy.sh/users/3165416), [![][flag_CA] janitoreihil](https://osu.ppy.sh/users/3307897), [![][flag_CA] karterfreak](https://osu.ppy.sh/users/1031958), [![][flag_DE] Mew104](https://osu.ppy.sh/users/2345156), [![][flag_ES] Raiden](https://osu.ppy.sh/users/2239480), [![][flag_DE] Zetera](https://osu.ppy.sh/users/587737) |
@@ -57,7 +57,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ## Participants
 
 | | Country | Members |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [TrolloCat](https://osu.ppy.sh/users/9228032), [BossPlays_02](https://osu.ppy.sh/users/7341471), [Midnaait](https://osu.ppy.sh/users/1506011), [Laut1G](https://osu.ppy.sh/users/7286821) |
 | ![][flag_AU] | **Australia** | **[Aloda](https://osu.ppy.sh/users/1190127)**, [rango](https://osu.ppy.sh/users/7728466), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [remii](https://osu.ppy.sh/users/2913584) |
 | ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)**, [Serial Dreemurr](https://osu.ppy.sh/users/1235444), [Kbludoh](https://osu.ppy.sh/users/2543764), [Skull Kid](https://osu.ppy.sh/users/3044264), [Kqrth](https://osu.ppy.sh/users/4115718) |
@@ -72,7 +72,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | ![][flag_JP] | **Japan** | **[tasuke912](https://osu.ppy.sh/users/2774767)**, [uone](https://osu.ppy.sh/users/5321719), [zkane2](https://osu.ppy.sh/users/6359835), [iceOC](https://osu.ppy.sh/users/5482401), [\_Rise](https://osu.ppy.sh/users/5217107) |
 | ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)**, [ZethZ161](https://osu.ppy.sh/users/9912966), [Dakry](https://osu.ppy.sh/users/1994145), [cdhsausageboy](https://osu.ppy.sh/users/2403621), [Jerry](https://osu.ppy.sh/users/605973) |
 | ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/users/3086393)**, [Pheon](https://osu.ppy.sh/users/292295), [Halzyn](https://osu.ppy.sh/users/156349), [jackylam5](https://osu.ppy.sh/users/1540807) |
-| ![][flag_PL] | **Poland** |  **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Tetsurio](https://osu.ppy.sh/users/2044810) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Tetsurio](https://osu.ppy.sh/users/2044810) |
 | ![][flag_PT] | **Portugal** | **[babysnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430), [BlackPet](https://osu.ppy.sh/users/3795067) |
 | ![][flag_RU] | **Russian Federation** | **[Alt](https://osu.ppy.sh/users/736496)**, [DayzeekFeed](https://osu.ppy.sh/users/5009970), [artemean](https://osu.ppy.sh/users/8650631), [Naninub](https://osu.ppy.sh/users/8188876), [greenyoyo](https://osu.ppy.sh/users/1581472) |
 | ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [L y s](https://osu.ppy.sh/users/211825), [\_Asriel](https://osu.ppy.sh/users/566276), [MetalStream](https://osu.ppy.sh/users/165027) |
@@ -229,35 +229,35 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ### Grand Finals
 
 | Sunday, 2018-05-13 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 7 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42432190) |
 
 ### Finals
 
 | Sunday, 2018-05-06 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 7 | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42242430) |
 | Indonesia ![][flag_ID] | 7 | 0 | ![][flag_US] United States | Nullified |
 | Japan ![][flag_JP] | 7 | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42253405) |
 
 | Saturday, 2018-05-12 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 7 | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/42408617) |
 
 | Sunday, 2018-05-13 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Taiwan ![][flag_TW] | 7 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/42427896) |
 
 ### Semifinals
 
 | Saturday, 2018-04-28 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Australia ![][flag_AU] | 6 | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/42025926) |
 | Brazil ![][flag_BR] | 0 | 6 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/commuity/matches/42028951n) |
 | Poland ![][flag_PL] | 2 | 6 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/42032146) |
 
 | Sunday, 2018-04-29 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hong Kong ![][flag_HK] | 5 | 6 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/42048757) |
 | United States ![][flag_US] | 3 | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/42050275) |
 | Japan ![][flag_JP] | 6 | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/42051882) |
@@ -267,14 +267,14 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ### Quarterfinals
 
 | Saturday, 2018-04-21 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Argentina ![][flag_AR] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41838646) |
 | Poland ![][flag_PL] | 5 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41840557) |
 | United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41842794) |
 | Spain ![][flag_ES] | 1 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41844527) |
 
 | Sunday, 2018-04-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Australia ![][flag_AU] | 5 | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/41868618) |
 | South Korea ![][flag_KR] | 5 | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/41870252) |
 | Japan ![][flag_JP] | 5 | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/41872072) |
@@ -283,7 +283,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ### Round of 16
 
 | Sunday, 2018-04-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Brazil ![][flag_BR] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41671251) |
 | Malaysia ![][flag_MY] | 0 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/41672176) |
 | Australia ![][flag_AU] | 0 | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/41681566) |
@@ -296,7 +296,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 ### Group Stage
 
 | Saturday, 2018-04-07 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Netherlands ![][flag_NL] | 1 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/41466387) |
 | Finland ![][flag_FI] | 1 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41466557) |
 | Russian Federation ![][flag_RU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41468287) |
@@ -310,7 +310,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 | Poland ![][flag_PL] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/41480356) |
 
 | Sunday, 2018-04-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Chile ![][flag_CL] | 4 | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/41488009) |
 | South Korea ![][flag_KR] | 4 | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/41488883) |
 | Malaysia ![][flag_MY] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/41498599) |
@@ -409,8 +409,8 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| --: | --- |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD |

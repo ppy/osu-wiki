@@ -182,9 +182,9 @@ Le nombre en bas à gauche est le compteur de combo/mutliplicateur de score.
 #### Contrôles
 Les contrôles par défaut d'osu! sont:
 
-Souris|Clavier|Tablette/Écran Tactile
----|---|---|
-Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
+Souris| Clavier |Tablette/Écran Tactile
+---| --- | --- |
+Clic gauche(M1) / Clic droit(M2)| `Z`(K1) / `X`(K2) |Touché de l'écran(M1)
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
@@ -294,7 +294,7 @@ Chaque frappe denden ajoute 300 au score, et la complétion du denden vous donne
 Les contrôles par défaut pour osu!taiko sont:
 
 Type | Souris | Clavier | TaTaCon
----|---|---|---
+---| --- | --- |---
 Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
 Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
 
@@ -455,12 +455,12 @@ Configuration des touches _Symmétrique_ (à la _DJMAX_)
 - Le bouton  _Spécial_ — `leftShift` et `leftCtrl`.
 
 Touche | L | C | R
-:---:|:---|:---:|---:
-4K|K3, K4|-|K6, K7
-5K|K3, K4|K5|K6, K7
-6K|K2, K3, K4|-|K6, K7, K8
-7K|K2, K3, K4|K5|K6, K7, K8
-8K|K1, K2, K3, K4|-|K6, K7, K8, K9
+:---:| :-- | :-: |---:
+4K| K3, K4 | - |K6, K7
+5K| K3, K4 | K5 |K6, K7
+6K| K2, K3, K4 | - |K6, K7, K8
+7K| K2, K3, K4 | K5 |K6, K7, K8
+8K| K1, K2, K3, K4 | - |K6, K7, K8, K9
 
 Configuration des touches _De Gauche à Droite_ (à la _Beatmania IIDX_)
 - De haut en bas, répété: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 n'est pas utilisé\]

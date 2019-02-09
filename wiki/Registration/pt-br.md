@@ -22,11 +22,11 @@ Como crio uma conta?
 
 
 
-| Nome           | Imagem                           | Descrição                                                                                                                                                                                                                                                                                              |
-|:---------------:|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Executável do osu! | ![Register.png](Register-3.png) | Esse executável (que deve ser chamado de osu!.exe) abrirá o jogo. Caso atualizações sejam necessárias, elas serão aplicadas automaticamente. _Observação: Você não precisa executar o oso como administrador. Caso seja necessário, o jogo fará isso sozinho._                                               |
-| Painel de opções   | ![Login.png](Login.png)         | Se essa é sua primeira vez iniciando o osu!, você verá isto no canto esquerdo da sua tela. Insira seu nome de usuário e senha nos respectivos campos para fazer log in.                                                                                       |
-| Painel de usuário     | ![Userpanel.png](Userpanel.png) | Assim que seu nome de usuário e senha forem inseridos, você verá seu painel de usuário no canto esquerdo superior de sua tela. Você conseguiu entrar no osu! e está pronto para jogar! Você também poderá ver seu painel de usuário no canto inferior na tela de seleção de músicas, à esquerda da ``Seleção de Opções``.|
+| Nome | Imagem | Descrição |
+| :-: | :-: | :-: |
+| Executável do osu! | ![Register.png](Register-3.png) | Esse executável (que deve ser chamado de osu!.exe) abrirá o jogo. Caso atualizações sejam necessárias, elas serão aplicadas automaticamente. _Observação: Você não precisa executar o oso como administrador. Caso seja necessário, o jogo fará isso sozinho._ |
+| Painel de opções | ![Login.png](Login.png) | Se essa é sua primeira vez iniciando o osu!, você verá isto no canto esquerdo da sua tela. Insira seu nome de usuário e senha nos respectivos campos para fazer log in. |
+| Painel de usuário | ![Userpanel.png](Userpanel.png) | Assim que seu nome de usuário e senha forem inseridos, você verá seu painel de usuário no canto esquerdo superior de sua tela. Você conseguiu entrar no osu! e está pronto para jogar! Você também poderá ver seu painel de usuário no canto inferior na tela de seleção de músicas, à esquerda da ``Seleção de Opções``. |
 
 
 E agora?

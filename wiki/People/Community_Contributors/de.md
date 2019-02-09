@@ -15,7 +15,7 @@ Derzeitig tragen folgende User dieses Abzeichen:
 ### August 8 2013
 
 | User | Bekannt durch |
-| ---- | ------------- |
+| --- | --- |
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Entwickler und Verwalter des [osu!record Service](http://osu.ppy.sh/forum/t/108092) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Hoster und Betreiber einer der ältesten und größten [beatmap mirrors](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Mitwirkender bei zahlreichen Grafiken in so gut wie allem. |

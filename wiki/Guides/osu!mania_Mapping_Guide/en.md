@@ -50,7 +50,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Song Setup](Song_Setup.png "Song Setup")
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | Artist: | Here you'll have to add the original name of your songs Artist. No matter if it is Japanese, German or Russian. If the name of the artist has at least one special character you must add it here! As an example: If your artist name is "Die Ärzte" you must add it here because of the "Ä". |
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
@@ -64,7 +64,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Difficulty tab](Difficulty.png "Difficulty tab")
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | HP Drain Rate: | Here you have to select how much HP the player will lose when he misses a note and how much HP they will gain from notes. Important to add: Unlike osu! standard and Catch the Beat, the player does not lose their HP automatically over time but only when they miss a note or get the 50 judgement! The HP drain rate for example can be set higher when your song is really easy to play compared to the automatically set star rating. But don't exaggerate! Experiment with the HP drain to find a fair value - you don't want too many players failing out |
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. You want to have more? Go for it! Just select the amount of keys you want to map and start! You have the free choice! 4K and 7K are the most popular key modes. Important: Not every key count is rankable! Currently only 4K, 5K, 6K, 7K 8K and 9K are able to reach the ranked status! The checkbox "Co-Op" can be selected when you choose 5K and above. This allows you to map more than 10 Keys! As an example: When you choose 6K Co-Op, you will map in 12K. While playing that, there will be two osu!mania stages, both with 6K each. This allows you to play with a friend on one keyboard! |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
@@ -75,7 +75,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Design tab](Design.png "Design tab")
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | Countdown: | Here you can set a countdown for your map. Newer maps and especially osu!mania usually don't use this, so it should be disabled. |
 | Widescreen Support: | This box should only be enabled when your map has a storyboard. |
 | Display epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dimmer. |
@@ -86,7 +86,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Advanced tab](Advanced.png "Advanced tab")
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | Stacking: | This Point has no effect for osu!mania so no need to change anything here. |
 | Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course.Should you choose "All", your editor will be set to osu! Standard, then your map will be automatically converted into any other game mode. |
 | Use special Style (N+1 style) for osu!mania: | If you map in a keymode which can use a special key (5K and 8K) you can enable this point. It is known from "BMS" as "Scratch". It's a special extra key, especially used in 8K osu!mania. You can map the song like a normal 7K map, but you will have (depending on the skin settings the player uses), an extra key for scratching on the left or right of the playfield. |
@@ -112,7 +112,7 @@ I also would like to show you a little program that can be really helpful to fin
 ![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | Timing Points: | The timing points or "Red Lines" are there to time your song. Without these you can't map. I already explained how you can find the right BPM and offset for your song earlier! |
 | Inherited Point: | The inherited point are also called "Green Lines". These points are used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
 | Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It let appear star fountain on the left and right side of the screen and is used to make this moment of your Map "more exciting". |

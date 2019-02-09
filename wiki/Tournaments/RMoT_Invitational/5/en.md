@@ -28,7 +28,7 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host  | ![][flag_SI] [Redavor](/users/3328606 "Redavor") |
+| Host | ![][flag_SI] [Redavor](/users/3328606 "Redavor") |
 | Admins | ![][flag_SI] [DomenBzo](/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](/users/7631823 "oralekin") |
 | Moderators | ![][flag_NL] [Godot](/users/6466477 "Godot"), ![][flag_DE] [Niegth](/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](/users/3188911 "You Watanabe") |
 | Map Selectors | ![][flag_TH] [GuChangeDeWorld](/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](/users/3021634 "Meow Mix") |
@@ -97,7 +97,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
 ------------------------
 

@@ -133,14 +133,14 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](ID:Chat_Console "wikili
     -   Catatan: Skor multimu tidak akan disimpan di Peringkat Lokal.
 -   "Not yet uploaded (Belum diunggah sama sekali)" berarti itu beatmapmu belum diunggah sama sekali.
 
-| colspan=2|Tabel Peringkat     |
-|-------------------------------|
-| Nama                          |
-| Local Ranking                 |
-| Country Ranking               |
-| Global Ranking                |
+| colspan=2 | Tabel Peringkat |
+| --- |
+| Nama |
+| Local Ranking |
+| Country Ranking |
+| Global Ranking |
 | Global Ranking (Selected Mod) |
-| Friend Ranking                |
+| Friend Ranking |
 
 <img src="Quick_web_access.png" title="fig:Perintah Daring untuk sebuah beatmap (Memerlukan koneksi internet)" alt="Perintah Daring untuk sebuah beatmap (Memerlukan koneksi internet)" width="280" /> Klik ikon balon <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" /> untuk memanggil layar **Akses Cepat Web** untuk beatmap yang dipilih:
 
@@ -202,7 +202,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 **Catatan:** Skin Tingkat akan bervariasi oleh Skin yang digunakan.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg| Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg| Pertandingan bermain bersama : Team Vs
+Accuracy\_osu!.jpg| osu! Taiko grade.jpg | Taiko (Taiko skin) Accuracy\_CtB.jpg | Catch the Beat Accuracy\_Mania.jpg | osu!mania Multi-play record.png | Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg | Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg | Pertandingan bermain bersama : Team Vs
 
 Papan peringkat skor daring
 ---------------------------
@@ -233,4 +233,4 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
 9.  Kembali ke Layar Pemilihan Lagu.
 
-Osu! Online score.png| osu! Daring Taiko Online.jpg| Taiko Daring CtB Online.png| Catch the Beat Daring
+Osu! Online score.png| osu! Daring Taiko Online.jpg | Taiko Daring CtB Online.png | Catch the Beat Daring

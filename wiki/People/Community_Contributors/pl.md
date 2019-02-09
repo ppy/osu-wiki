@@ -15,7 +15,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 ### 8 sierpnia 2013
 
 | Użytkownik | Wkład |
-| ---- | ------------- |
+| --- | --- |
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Stworzenie i utrzymywanie [osu!record](http://osu.ppy.sh/forum/t/108092) (.osr do pliku wideo.) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Stworzenie i utrzymywanie jednego z najdłużej działających [serwerów map](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Nieopisany wkład graficzny w osu! |
@@ -35,7 +35,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 ### Marzec 2015
 
 | Użytkownik | Wkład |
-| ---- | ------------- |
+| --- | --- |
 | [Repflez](https://osu.ppy.sh/u/201392) | Nieopisana pomoc z wiki. |
 | [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Nieopisana pomoc z wiki. |
 | [givenameplz](https://osu.ppy.sh/u/947499) | Stworzenie osu!Rank i osu!Post |
@@ -43,7 +43,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 ### Styczeń 2016
 
 | Użytkownik | Wkład |
-| ---- | ------------- |
+| --- | --- |
 | [ztrot](https://osu.ppy.sh/u/6347) | Stworzenie osu!academy |
 | [Tasha](https://osu.ppy.sh/u/1031958) | Tworzenie osu!weekly + osu!news |
 | [Flanster](https://osu.ppy.sh/u/447818) | Nieopisana aktywność jako moderator (ponad 10 tysięcy uciszeń). |
@@ -56,5 +56,5 @@ Osoby posiadające obecnie Znak Zasłużonego:
 ### Marzec 2016
 
 | Użytkownik | Wkład |
-| ---- | ------------- |
+| --- | --- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Lata poprawiania jakości mapowania, pomoc w rozwiązywaniu problemów społeczności. |

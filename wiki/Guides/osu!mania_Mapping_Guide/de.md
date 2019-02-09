@@ -24,7 +24,7 @@ Ich habe hier einen Screenshot vorbereitet um mal die Grundelemente des Mania Ed
 
 #### Mania Editor
 
-**1. Mapping Fläche:** Hier sehen wir die Mania Mapping Fläche. Sie ist unterteilt in die sogenannten "Columns" Der Mania Editor nummeriert hier die Columns "Unsichtbar" in | 0 | 1 | 2 | 3 |. Viele bevorzugen es aber | 1 | 2 | 3 | 4 | zu benutzen. Dies ist allerdings nur relevant fürs Modding.
+**1. Mapping Fläche:** Hier sehen wir die Mania Mapping Fläche. Sie ist unterteilt in die sogenannten "Columns" Der Mania Editor nummeriert hier die Columns "Unsichtbar" in | 0 | 1 | 2 | 3 | . Viele bevorzugen es aber | 1 | 2 | 3 | 4 | zu benutzen. Dies ist allerdings nur relevant fürs Modding.
 
 **2. Difficult Line:** Gut, den Namen habe ich jetzt erfunden da ich selber nicht weiß wie genau die heißt, jedoch finde ich den Namen sehr treffend. Hier sehen wir wie schwer die einzelnen Parts der Map sind für das aktuelle Starrating. Diese Beispiel Map hat 4,1 Stars. Je gefüllter der Einzelne Part ist, desto schwerer ist dieser zu Spielen. Pink bedeutet im Grunde das der Part sehr schwer ist für das aktuelle Starrating. Ihr solltet drauf achten nicht mehr als 30-40% Der Difficult Line Pink zu haben.
 
@@ -62,7 +62,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 ![Song Setup](Song_Setup.png "Song Setup")
 
 | Name | Beschreibung |
-| ---- | ------------ |
+| --- | --- |
 | Artist: | Hier tragen wir den Originalen Namen des Künstlers ein! Egal ob Japanisch, Russisch oder sonst wie. Kommt da auch nur ein Sonderzeichen drin vor, dass das Normale Alphabet nicht beinhaltet, kommt dort der Name rein. Als Beispiel: Wenn ihr einen Song von "Die Ärzte" Mappen wollt muss dort der Original Name rein wegen dem "Ä" |
 | Romanised Artist: | Hier tragen wir den Namen des Künstlers ein wie er im Normalen Alphabet ausgeschrieben wird. Mit unserem Beispiel wäre es hier "Die Aerzte". Klingt zwar doof, ist aber wichtig da bei manchen das "Ä" nicht richtig dargestellt wird. Sollte euer Artist kein Sonderzeichen im Namen haben, wird dieses Feld Automatisch ausgefüllt |
 | Title & Romanised Title: | Hier das gleiche wie beim Artist. Nur mit dem Titel des Musikstücks. |
@@ -76,7 +76,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 ![Difficulty tab](Difficulty.png "Difficulty tab")
 
 | Name | Beschreibung |
-| ---- | ------------ |
+| --- | --- |
 | HP Drain Rate: | Hier wählen wir aus wie viel HP der Spieler verliert wenn er eine Note nicht trifft. Wichtig!: Anders als in Standard oder Catch the Beat schwindet die HP in Mania nicht langsam von allein sonder nur wenn ihr eine Note nicht trefft! Die HP Drain Rate kann als beispiel etwas höher gestellt werden sollte euer Song viel einfacher zu spielen sein als für das Starrating eigentlich gewollt. Übertreibt es jedoch nicht. Alles über HP9 ist sehr sehr schwer zu halten! |
 | Key Count: | Der Key Count ist die Tastenzahl in der wir Mappen wollen. In diesem Guide benutzen wir 4, für 4 Tasten. Ihr möchtet mehr Keys Mappen? Nur zu! Ihr habt die freie Wahl! 4K und 7K sind der am öftesten gespielte Key Count. Wichtig!: Nicht jeder Key Count ist Rankable! In Osu!Mania sind es aktuell nur: 4K, 5K, 6K, 7K, 8K, 9K. In Zukunft kommen bestimmt noch mehr dazu. Der Unterpunkt "Co-Op" wird ab 5K auswählbar. In Osu!Mania gibt es den "Co-Op" Mod der es euch ermöglicht auf 2 Spielfeldern zu spielen. Co-Op ist unrankable und einfach nur ein zusätzlicher Multiplayer Mod. |
 | Approach Rate: | Dieser Punkt wird in Osu!Mania nicht benutzt und ist auch nicht verstellbar. |
@@ -87,7 +87,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 ![Design tab](Design.png "Design tab")
 
 | Name | Beschreibung |
-| ---- | ------------ |
+| --- | --- |
 | Countdown: | Hier könnt ihr einen Countdown einstellen, der runter zählt, sobald die Map kurz vor ihrem Anfang ist. Standardmäßig benutzt Osu!Mania dies nicht also sollte dieser punkt abgewählt sein. |
 | Widescreen Support: | Schaltet diesen Punkt aus wenn ihr kein Storyboard benutzt. |
 | Display epilepsy Warning: | Sollte eure Beatmap ein Video oder ein Storyboard mit sehr vielen oder sehr starken Lichteffekten haben schaltet diesen Punkt ein. Damit wird der Spieler vor den Effekten gewarnt und kann diese vorher ausschalten sollte er an Epilepsie leiden. Vergesst das bitte nicht, das ist sehr wichtig! |
@@ -98,7 +98,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 ![Advanced tab](Advanced.png "Advanced tab")
 
 | Name | Beschreibung |
-| ---- | ------------ |
+| --- | --- |
 | Stacking: | Dieser Punkt bewirkt in Osu!Mania gar nichts und kann Ignoriert werden. |
 | Allowed Modes: | Mit diesem Punkt stellt ihr euren Editor in den Modus ein, in welchem ihr Mappen möchtet. Da wir Osu!Mania Mappen wollen stellen wir natürlich auch Osu!Mania ein. |
 | Use special Style (N+1 style) for mania: | Dieser Punkt ist zu Aktivieren wenn ihr eure 7K, 8K oder 9K im Beatmania Style Mappen möchtet. Hiermit wird der sogenannt "Scratch" gemappt. Wenn ihr diesen Punkt aktiviert könnt ihr noch auswählen oder dieser ganz Rechts oder ganz Links sein soll. Der "Scratch" ist eine Zusatztaste die immer nur einem bestimmten Sound folgt, z.B ein lauter Crash. |
@@ -126,7 +126,7 @@ Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benu
 ![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
 | Name | Beschreibung |
-| ---- | ------------ |
+| --- | --- |
 | Timing Points: | Die Timing Points oder auch "Red Lines" genannt sind die BPM Punkte. Diese bestimmen mit wie viel BPM ihr mappt. Sollten immer richtig eingestellt sein! |
 | Inherited Point: | Inherited Points oder auch "Green Lines" genannt sind für Slider Velocity, Kiai, Lautstärke oder Samples zuständig. Die Slider Velocity kontrolliert den Scrollspeed in Mania. Kiai macht den Part "aufregender" Mit Sternchen und viel Bling Bling! Sollte immer im Höhepunkt des Songs benutzt werden. Lautstärke und Samples erkläre ich im Part "Hitsounds" |
 

@@ -8,7 +8,7 @@
 Note: All mods used in osu!mania will never increase the score multiplier.
 
 | Mod | Name (Abbr.) | Multiplier | Effect |
-|-----|--------------|------------|--------|
+| --- | --- | --- | --- |
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Everything, but _easier_. |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | You can't fail, no matter what. |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | Slow the beatmap down by 25%. |
@@ -33,12 +33,12 @@ Note: All mods used in osu!mania will never increase the score multiplier.
 
 Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on on osu!mania-specific beatmaps!
 
-|    | 1k   | 2k   | 3k   | 4k       | 5k       | 6k       | 7k       | 8k   | 9k   |
-|----|------|------|------|----------|----------|----------|----------|------|------|
-| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
-| 5k | 0.74 | 0.78 | 0.82 | 0.86     | **1.00** | 0.90     | 0.90     | 0.90 | 0.90 |
-| 6k | 0.70 | 0.74 | 0.78 | 0.82     | 0.86     | **1.00** | 0.90     | 0.90 | 0.90 |
-| 7k | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
+|    | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5k | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6k | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
+| 7k | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
 
 
 ### xK mod with CO-OP score multipliers
@@ -47,19 +47,19 @@ Note: This table only affects beatmaps converted from osu!standard to osu!mania 
 
 The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
-|    | 1k   |  2k      | 3k       |  4k  | 5k   | 6k   | 7k   | 8k   | 9k   |
-|----|------|----------|----------|------|------|------|------|------|------|
-| 4k | 0.82 | **1.00** | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.78 | 0.86     | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.74 | 0.82     | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7k | 0.70 | 0.78     | 0.86     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+|    | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4k | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5k | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6k | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 ## Inverse mods
 
 Note: To prevent the following table from growing outrageously large, the reverse is also true.
 
 | These mods... | ...cancels out these mods. |
-|---------------|----------------------------|
+| --- | --- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
 | ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
@@ -71,5 +71,5 @@ Note: To prevent the following table from growing outrageously large, the revers
 ### osu!mania
 
 | These mods... | ...cancels out these mods. |
-|---------------|----------------------------|
+| --- | --- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |

@@ -306,12 +306,12 @@ You should now see your osu! gameplay within your OBS MultiPlatform window. If y
 
 Twitch.tv commands for chat moderation (all usernames must be converted to lowercase when using these):
 
-| Action  | Command             | Description                                         |
-|---------|---------------------|-----------------------------------------------------|
-| Mod     | `/mod username`     | Give moderator powers to "username" in your channel |
-| Unmod   | `/unmod username`   | Opposite of /mod                                    |
-| Timeout | `/timeout username` | Silences a user for 10 minutes                      |
-| Ban     | `/ban username`     | Permanently ban a user from your channel            |
-| Unban   | `/unban username`   | Unban a user from your channel                      |
+| Action | Command | Description |
+| --- | --- | --- |
+| Mod | `/mod username` | Give moderator powers to "username" in your channel |
+| Unmod | `/unmod username` | Opposite of /mod |
+| Timeout | `/timeout username` | Silences a user for 10 minutes |
+| Ban | `/ban username` | Permanently ban a user from your channel |
+| Unban | `/unban username` | Unban a user from your channel |
 
 You, the broadcaster, are responsible for whatever happens in your chatroom.

@@ -12,7 +12,7 @@ The skinning elements listed here are no longer in use.
 ![](img/menu-osu.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -27,7 +27,7 @@ Notes:
 ![](img/playfield.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 1366x768 |
 
 Notes:
@@ -40,9 +40,9 @@ Notes:
 
 ![](img/selection-selectoptions.png)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animatable | Beatmap Skinnable |
+| :-: | :-: |
+| ![No][false] | ![No][false] |
 
 Notes:
 
@@ -55,9 +55,9 @@ Notes:
 
 ![](img/selection-selectoptions-over.png)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animatable | Beatmap Skinnable |
+| :-: | :-: |
+| ![No][false] | ![No][false] |
 
 Notes:
 
@@ -70,7 +70,7 @@ Notes:
 ![](img/fps-0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -86,7 +86,7 @@ Notes:
 ![](img/fps-1.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -102,7 +102,7 @@ Notes:
 ![](img/fps-2.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -118,7 +118,7 @@ Notes:
 ![](img/fps-3.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -134,7 +134,7 @@ Notes:
 ![](img/fps-4.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -150,7 +150,7 @@ Notes:
 ![](img/fps-5.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -166,7 +166,7 @@ Notes:
 ![](img/fps-6.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -182,7 +182,7 @@ Notes:
 ![](img/fps-7.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -198,7 +198,7 @@ Notes:
 ![](img/fps-8.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -214,7 +214,7 @@ Notes:
 ![](img/fps-9.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -230,7 +230,7 @@ Notes:
 ![](img/fps-comma.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:
@@ -246,7 +246,7 @@ Notes:
 ![](img/fps-fps.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | (unknown) | - |
 
 Notes:

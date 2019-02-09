@@ -16,13 +16,13 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también el hilo del foro: [Colaboradores de la comunidad de osu!](https://osu.ppy.sh/forum/p/2489459).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](Http://osu.ppy.sh/forum/t/108092) (reproducir `.osr` a archivo de video). |
 | [nanashiRei](/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](Https://osu.yas-online.net/) de osu! . |
 | [RBRat3](/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](/users/165946) | Arte de los [Logros](/wiki/Achievements), |
 | [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/forum/t/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
-| [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders.|
+| [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders. |
 | [Loctav](/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
 | [Blazevoir](/users/120265) | Tiempo récord insano de moderación (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
 | [Piotrekol](/users/304520) | Desarrollar y mantener [osu!Stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
@@ -38,7 +38,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 ### Marzo
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [Repflez](/users/201392) | Contribución excepcional a la wiki de osu! |
 | [RaikireHiuduo](/users/1570014) | Contribución excepcional a la wiki de osu! |
 | [givenameplz](/users/947499) | Desarrolo del osu!Rank y osu!Post |
@@ -50,7 +50,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Medallas de Colaboradores de la comunidad (Enero 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [ztrot](/users/6347) | Fundando la [osu!academy](/wiki/Announcements/osu!academy) |
 | [Tasha](/users/1031958) | osu!weekly + Nuevas contribuciones |
 | [Flanster](/users/447818) | Destacada presencia de moderación (+10k asesinatos). |
@@ -65,7 +65,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [Charles445](/users/85000) | Años de mantener y mejorar la calidad del mapping, proporcionando asistencia en muchas ocasiones para ayudar a resolver diversos problemas en la comunidad. |
 
 ### Noviembre
@@ -73,7 +73,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Reconociendo lo mejor de lo mejor](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [pishifat](/users/3178418) | Rendimiento ejemplar en la creación de beatmaps y en la enseñanza sobre ellos |
 | [Okorin](/users/1623405) | Excepcional liderazgo en los asuntos de gestión de beatmap |
 | [IamKwaN](/users/1856463) | Sobresaliente presencia de moderación y contribución global |
@@ -89,7 +89,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| --- | --- |
 | [OnosakiHito](/users/290128) | Trabajo sobresaliente en la formación de la comunidad temprana de osu!taiko, varios años de permanencia en el BAT/QAT |
 | [Deif](/users/318565) | Contribución excepcional a la comunidad de osu!catch, revisión de criterios de clasificación y torneos |
 | [deadbeat](/users/128370) | Contribución excepcional a innumerables proyectos de medios, torneos y un mandato a largo plazo en el GMT |
@@ -100,7 +100,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Yazzehh](/users/7068973) | Destacada presencia del árbitro en docenas de torneos comunitarios |
 | [Evrien](/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes sobre competiciones |
 | [Tom94](/users/1857058) | ¡La mente maestra detrás de innumerables mejoras en osu!, desde pp, reescritura de motor de gráficos, calificación de estado y más! |
-| [DrabWeb](/users/6946022) | Contribución excepcional al proyecto osu!lazer|
+| [DrabWeb](/users/6946022) | Contribución excepcional al proyecto osu!lazer |
 | [EVAST](/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
 | [huoyaoyuan](/users/2428732) | Contribución excepcional al proyecto osu!lazer |
 | [kj415j45](/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |

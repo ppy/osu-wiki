@@ -9,14 +9,14 @@ Criador
 ----------------------
 
 | Nome | Descrição |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | Lider do Projeto |
 
 Ativos
 ----------------------
 
 | Nome | Descrição |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Suporte a Jogadores, Meganekko secretary |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Lead designer |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organização oficial de torneios, Staff and community management |
@@ -32,12 +32,12 @@ Inativos
 ----------------------
 
 | Nome | Descrição |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | General housekeeping and help, game/site chibi artwork |
 | [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Gerenciamento da Comunidade |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! dev team, Integração do IRC do chat in-game, Manutenção do site |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Designer original do site |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Designer original do site |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer de skins, Contribuições para a skin padrão e conjunto de icones |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
@@ -50,7 +50,7 @@ Grupo de usuários
 ----------------------
 
 | Nome | Descrição |
-| ---- | ----------- |
+| --- | --- |
 | [Time de Moderação Global](/wiki/People/Global_Moderation_Team) | Tomam conta dos forums e chat in-game |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Te ajudam a melhorar seus Beatmaps |
 | [Desenvolvedores](http://osu.ppy.sh/g/11) | Tornando o jogo incrível adicionando novos recursos e concretando erros |

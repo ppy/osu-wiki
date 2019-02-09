@@ -9,16 +9,16 @@ Pelopor pembuatan
 ----------------------
 
 | Nama | Deskripsi |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | Pemimpin proyek |
 
 Aktif
 ----------------------
 
 | Nama | Deskripsi |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Layanan pemain, Sekretaris Meganekko |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) |	Pemimpin desainer |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | 	Pemimpin desainer |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisasi turnamen resmi, Staf dan manajemen komunitas |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Pelaksana web |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Pelukis osu!, Orang yang gaul-alias orang luar biasa |
@@ -32,7 +32,7 @@ Tidak aktif
 ----------------------
 
 | Nama | Deskripsi |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Pembenahan umum dan bantuan, game/situs karya seni unyu |
 | [Derekku](https://osu.ppy.sh/users/91341) | Pembenahan umum, Manajemen komunitas |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Tim pengembang osu!, IRC Integrasi di dalam obrolan gamem Pemeliharaan situs |
@@ -50,7 +50,7 @@ Anggota grup
 ----------------------
 
 | Nama | Deskripsi |
-| ---- | ----------- |
+| --- | --- |
 | [Tim Moderasi Global](/wiki/People/Global_Moderation_Team) | Mengawasi forum dan percakapan dalam permainan |
 | [Grup Penominasi Beatmap](/wiki/People/Beatmap_Nomination_Group) | Membantu Anda dalam meningkatkan beatmap Anda |
 | [Developer](http://osu.ppy.sh/g/11) | Membuat permainan menjadi keren dengan menambahkan fitur baru dan memperbaiki bug |

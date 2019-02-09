@@ -173,7 +173,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
 
-|  No. | Tuesday, 2018-08-14 |  |  |  |  |
+| No. | Tuesday, 2018-08-14 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
 | 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |

@@ -58,7 +58,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 ## Participants
 
 |  | Country | Members |
-| :-: | :-:| :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[juankristal](https://osu.ppy.sh/users/443656)**, [lxLucasxl](https://osu.ppy.sh/users/3632846), [Grindei](https://osu.ppy.sh/users/4228356), [Ze\_Potente](https://osu.ppy.sh/users/4272364), [n1nj4](https://osu.ppy.sh/users/4540361), [Ryuk\_ftw](https://osu.ppy.sh/users/2628463) |
 | ![][flag_AU] | **Australia** | **[Alchalyne](https://osu.ppy.sh/users/3999031)**, [Tornspirit](https://osu.ppy.sh/users/1338883), [CannuJul](https://osu.ppy.sh/users/3601697), [MasterSonic10](https://osu.ppy.sh/users/1249224), [Aroused Lollies](https://osu.ppy.sh/users/2956184), [-X Y Z-](https://osu.ppy.sh/users/1610833) |
 | ![][flag_BR] | **Brazil** | **[NateTheROOBIN](https://osu.ppy.sh/users/2288363)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [FelipeLink](https://osu.ppy.sh/users/4917435), [spoonguy](https://osu.ppy.sh/users/932381), [roko100789](https://osu.ppy.sh/users/3224958), [LuckySonicGHz](https://osu.ppy.sh/users/3949268) |

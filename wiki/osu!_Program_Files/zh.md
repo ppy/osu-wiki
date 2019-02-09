@@ -9,7 +9,7 @@ osu! 目录文件
 ### Windows
 
 | 现版本默认路径 | 旧的程序安装路径 |
-| ------------------------ | ---------------------- |
+| --- | --- |
 | `C:\Users\<Username>\AppData\Local\osu!` | 	`C:\Program Files\osu!` 或 `C:\Program Files(x86)\osu!` （ 64 位 Windows 7+ 系统） |
 > "`C:`" 即为你安装 osu! 的硬盘分区。
 

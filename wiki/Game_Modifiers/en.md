@@ -568,12 +568,12 @@ Score Multiplier only applies within these conditions:
 - The table only affects beatmaps converted from osu!standard mode to osu!mania mode.
 - The mod does not work on osu!mania-specific beatmaps.
 
-|Default/Modifier|1k|2k|3k|4k|5k|6k|7k|8k|9k|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|4k|0.78|0.82|0.86|-|0.90|0.90|0.90|0.90|0.90|
-|5k|0.74|0.78|0.82|0.86|-|0.90|0.90|0.90|0.90|
-|6k|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|0.90|
-|7k|0.66|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|
+| Default/Modifier | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 4k | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5k | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6k | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 |
+| 7k | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 |
 
 ### Co-Op
 
@@ -597,12 +597,12 @@ Score Multiplier only applies within these conditions:
 - The table only affects beatmaps converted from osu!standard mode to osu!mania with Co-Op mod on.
 - The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
-|Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|4k|0.82|-|0.90|0.90|0.90|0.90|0.90|0.90|0.90|
-|5k|0.78|0.86|0.90|0.90|0.90|0.90|0.90|0.90|0.90|
-|6k|0.74|0.82|-|0.90|0.90|0.90|0.90|0.90|0.90|
-|7k|0.70|0.78|0.86|0.90|0.90|0.90|0.90|0.90|0.90|
+| Default | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 4k | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5k | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6k | 0.74 | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 A detailed explanation about the second playfield can be found in the [osu!mania page under Co-Op](/wiki/Game_Modes/osu!mania#co-op).
 

@@ -223,12 +223,12 @@ For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http:/
 
 ### Layout
 
-| colspan=3|Resolution:-                      |
-|---------------------------------------------|
-| Properties                                  |
-| rowspan=2|Standard:                         |
-| 1024 x 768                                  |
-| rowspan=2|Widescreen:                       |
+| colspan=3 | Resolution:- |
+| --- |
+| Properties |
+| rowspan=2 | Standard: |
+| 1024 x 768 |
+| rowspan=2 | Widescreen: |
 | *Your screen size* (Borderless) \[Default\] |
 ||
 
@@ -484,9 +484,9 @@ Default is 1.00x. Size range from 0.50x - 2.00x.</p></td>
 
 ### Song Select
 
-| Display beatmaps from | Adjusting this will **show** all the beatmaps higher than selected star value and hide others lower. (Defaults to 0)  |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| up to                 | Adjusting this will **hide** all the beatmaps higher than selected star value and show others lower. (Defaults to 10) |
+| Display beatmaps from | Adjusting this will **show** all the beatmaps higher than selected star value and hide others lower. (Defaults to 0) |
+| --- | --- |
+| up to | Adjusting this will **hide** all the beatmaps higher than selected star value and show others lower. (Defaults to 10) |
 
 ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio section
 --------------------------------------------------------------
@@ -496,19 +496,19 @@ Default is 1.00x. Size range from 0.50x - 2.00x.</p></td>
 ### Devices
 
 | Output device | Select your preferred output device for audio. |
-|---------------|------------------------------------------------|
+| --- | --- |
 ||
 
 ### Volume
 
 The volume controls allow one to change the volume in-game.
 
-| Master                                                                                                                 | controls all aspects.                                 |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Music                                                                                                                  | affects only the music.                               |
-| Effect                                                                                                                 | affects things such as hit sounds and in-game sounds. |
-| colspan=2|Ignore beatmap hitsounds                                                                                     |
-| colspan=2|When enabled, only your own selected skin's hit-sounds will be played. Beatmap's hit-sounds will be ignored. |
+| Master | controls all aspects. |
+| --- | --- |
+| Music | affects only the music. |
+| Effect | affects things such as hit sounds and in-game sounds. |
+| colspan=2 | Ignore beatmap hitsounds |
+| colspan=2 | When enabled, only your own selected skin's hit-sounds will be played. Beatmap's hit-sounds will be ignored. |
 
 ### Universal Audio Offset
 

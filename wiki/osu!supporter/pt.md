@@ -43,16 +43,16 @@ Valor
 <img src="O!s Decide.jpg" title="Um exemplo" alt="Um exemplo" width="300" />
 
 | Meses | Valor {USD$} (Desconto) |
-|-------|-------------------------|
-| 1     | 4                       |
-| 2     | 8                       |
-| 4     | 12 (-25%)               |
-| 6     | 16 (-33%)               |
-| 8     | 20 (-38%)               |
-| 9     | 22 (-39%)               |
-| 10    | 24 (-40%)               |
-| 12    | 26 (-46% max)           |
-| 24    | 52 (-46% max)           |
+| --- | --- |
+| 1 | 4 |
+| 2 | 8 |
+| 4 | 12 (-25%) |
+| 6 | 16 (-33%) |
+| 8 | 20 (-38%) |
+| 9 | 22 (-39%) |
+| 10 | 24 (-40%) |
+| 12 | 26 (-46% max) |
+| 24 | 52 (-46% max) |
 
 -   O valor é por contas individuais. Não tem promoções por presentear grupos.
 

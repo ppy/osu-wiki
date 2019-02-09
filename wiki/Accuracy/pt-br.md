@@ -36,9 +36,9 @@ No [osu!standard][osu! wikilink], a precisão é calculada ao pesar o julgamento
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
-| Termo                     | Fórmula                                                               |
-|:------------------------:|:---------------------------------------------------------------------:|
-| **Pontuação total dos hits** | `Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 300s * 300 `  |
+| Termo | Fórmula |
+| :-: | :-: |
+| **Pontuação total dos hits** | `Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 300s * 300 ` |
 | **Quantidade total de hits** | `Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 300s` |
 
 Para referências:
@@ -55,10 +55,10 @@ Os Drumrolls e Spinners não influenciam a precisão.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
-| Termo                     | Fórmula                                                                                     |
-|:------------------------:|:-------------------------------------------------------------------------------------------:|
+| Termo | Fórmula |
+| :-: | :-: |
 | **Pontuação total dos hits** | `((Quantidade de misses * 0) + (Quantidade de 100s(BOM) * 0.5) + (Quantidade de 300s(ÓTIMO) * 1)) * 300` |
-| **Quantidade total de hits** | `Quantidade de Misses + Quantidade de 100s + Quantidade de 300s     `                                         |
+| **Quantidade total de hits** | `Quantidade de Misses + Quantidade de 100s + Quantidade de 300s     ` |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -66,10 +66,10 @@ No [osu!catch][osu!catch wikilink], a precisão é calculada pela quantidade de 
 
 Em outras palavras: `Precisão = Quantidade total de frutas coletadas / Quantidade total de frutas`
 
-| Termo                               | Fórmula                                                                                              |
-|:----------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| **Quantidade total de frutas coletadas** | `Quantidade de droplets + Quantidade de drops + Quantidade de frutas`                                              |
-| **Quantidade total de frutas**        | `Quantidade de misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits` |
+| Termo | Fórmula |
+| :-: | :-: |
+| **Quantidade total de frutas coletadas** | `Quantidade de droplets + Quantidade de drops + Quantidade de frutas` |
+| **Quantidade total de frutas** | `Quantidade de misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits` |
 
 "Bananas" (frutas dos Spinners) não contam.
 
@@ -81,10 +81,10 @@ No [osu!mania][osu!mania wikilink], a precisão é calculada de modo similar ao 
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
-| Termo                     | Fórmula                                                                                                                       |
-|:------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-| **Pontuação total dos hits** | `(Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 200s * 200 + Quantidade de 300s * 300 + Quantidade de rainbow 300s * 300)`    |
-| **Quantidade total de hits** | `(Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 200s + Quantidade de 300s + Quantidade de rainbow 300s)`              |
+| Termo | Fórmula |
+| :-: | :-: |
+| **Pontuação total dos hits** | `(Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 200s * 200 + Quantidade de 300s * 300 + Quantidade de rainbow 300s * 300)` |
+| **Quantidade total de hits** | `(Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 200s + Quantidade de 300s + Quantidade de rainbow 300s)` |
 
 
 Repare que MAX (ou rainbow 300) e 300s ambos têm o valor máximo no cálculo da ***precisão***, apesar de que o MAX vale mais na ***pontuação*** do que um 300 qualquer.

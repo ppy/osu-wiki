@@ -13,38 +13,38 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) is a country-based osu!taiko t
 Tournament schedule
 ------------------------
 
-| Event              | Timestamp                 |
-|--------------------|---------------------------|
-| Registration Phase | 9-28 Feb 2016             |
-| Drawings           | 11 Mar 2016 (14:00 UTC+0) |
-| Group Stage        | 19-20 Mar 2016            |
-| Round of 16        | 26-27 Mar 2016            |
-| Quarterfinals      | 2-3 Apr 2016              |
-| Semifinals         | 9-10 Apr 2016             |
-| Finals - Week 1    | 16-17 Apr 2016            |
-| Finals - Week 2    | 23-24 Apr 2016            |
+| Event | Timestamp |
+| --- | --- |
+| Registration Phase | 9-28 Feb 2016 |
+| Drawings | 11 Mar 2016 (14:00 UTC+0) |
+| Group Stage | 19-20 Mar 2016 |
+| Round of 16 | 26-27 Mar 2016 |
+| Quarterfinals | 2-3 Apr 2016 |
+| Semifinals | 9-10 Apr 2016 |
+| Finals - Week 1 | 16-17 Apr 2016 |
+| Finals - Week 2 | 23-24 Apr 2016 |
 
 Prizes
 -------------
 
 We are aiming to have a minimum $3,800 cash prize pool for this world cup. You can support raising this amount of money. We will publish a method for that, as soon as we have it available!
 
-| Placing                                                    | Prize(s)                                                                     |
-|------------------------------------------------------------|------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% of the raised prize pool, profile badge, "osu!taiko Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge                                  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge                                  |
+| Placing | Prize(s) |
+| --- | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, profile badge, "osu!taiko Champion" user title |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge |
 
 Organization
 ------------
 
-| Job                   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                                                                                  |
-| Map Selectors         | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                                                                                                                                                                                                                                              |
-| Streamers             | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                  |
-| Commentators          | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Chromoxx](https://osu.ppy.sh/users/1881639) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843) // ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistician          | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766)                                                                                                                                                                                                                                                                        |
+| Job | Persons |
+| --- | --- |
+| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selectors | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentators | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Chromoxx](https://osu.ppy.sh/users/1881639) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843) // ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 
@@ -59,16 +59,16 @@ Organization
 Participants
 ------------
 
-| Top Seed                                     | Mid Seed                                      | Low Seed                                          |
-|----------------------------------------------|-----------------------------------------------|---------------------------------------------------|
-| ![][flag_CA] Canada        | ![][flag_AR] Argentina      | ![][flag_AU] Australia          |
-| ![][flag_CN] China         | ![][flag_CL] Chile          | ![][flag_BR] Brazil             |
-| ![][flag_DE] Germany       | ![][flag_FR] France         | ![][flag_IT] Italy              |
-| ![][flag_HK] Hong Kong     | ![][flag_ID] Indonesia      | ![][flag_MY] Malaysia           |
-| ![][flag_JP] Japan         | ![][flag_PH] Philippines    | ![][flag_RU] Russian Federation |
-| ![][flag_KR] South Korea   | ![][flag_PL] Poland         | ![][flag_SG] Singapore          |
-| ![][flag_TW] Taiwan        | ![][flag_ES] Spain          | ![][flag_SE] Sweden             |
-| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_VE] Venezuela          |
+| Top Seed | Mid Seed | Low Seed |
+| --- | --- | --- |
+| ![][flag_CA] Canada | ![][flag_AR] Argentina | ![][flag_AU] Australia |
+| ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_BR] Brazil |
+| ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_IT] Italy |
+| ![][flag_HK] Hong Kong | ![][flag_ID] Indonesia | ![][flag_MY] Malaysia |
+| ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation |
+| ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_SG] Singapore |
+| ![][flag_TW] Taiwan | ![][flag_ES] Spain | ![][flag_SE] Sweden |
+| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_VE] Venezuela |
 
 ------------------------------------------------------------------------
 
@@ -238,75 +238,75 @@ Match Results
 
 **Sunday, 24\. April 2016**
 
-| Team A                                | Score       | Team B                                   | History                        |
-|:--------------------------------------|:-----------:|-----------------------------------------:|--------------------------------|
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
 | ![][flag_TW] Taiwan | 2 - ***7*** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/24400797) |
 
 ### Finals - Week 1
 
 **Saturday, 16\. April 2016**
 
-| Team A                                    | Score     | Team B                                         | History                        |
-|:------------------------------------------|:---------:|-----------------------------------------------:|--------------------------------|
-| ![][flag_JP] **Japan**  | **6** - 2 | Canada ![][flag_CA]          | [#1](https://osu.ppy.sh/community/matches/24194354) |
-| ![][flag_DE] Germany    | 0 - **6** | **Taiwan** ![][flag_TW]      | [#1](https://osu.ppy.sh/community/matches/24201032) |
-| ![][flag_HK] Hong Kong  | 5 - **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/24203340) |
-| ![][flag_TW] **Taiwan** | **6** - 0 | South Korea ![][flag_KR]     | [#1](https://osu.ppy.sh/community/matches/24206740) |
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
+| ![][flag_JP] **Japan** | **6** - 2 | Canada ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/24194354) |
+| ![][flag_DE] Germany | 0 - **6** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/24201032) |
+| ![][flag_HK] Hong Kong | 5 - **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/24203340) |
+| ![][flag_TW] **Taiwan** | **6** - 0 | South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/24206740) |
 
 **Sunday, 17\. April 2016**
 
-| Team A                                | Score | Team B                                    | History                        |
-|:--------------------------------------|:-----:|------------------------------------------:|--------------------------------|
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
 | ![][flag_CA] Canada | 5 - 6 | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/24227476) |
 
 ### Semifinals
 
 **Saturday, 9\. April 2016**
 
-| Team A                                         | Score     | Team B                                           | History                        |
-|:-----------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_TW] **Taiwan**      | **6** - 1 | Poland ![][flag_PL]            | [#1](https://osu.ppy.sh/community/matches/24031840) |
-| ![][flag_CN] China           | 3 - **6** | **Indonesia** ![][flag_ID]     | [#1](https://osu.ppy.sh/community/matches/24033032) |
-| ![][flag_JP] **Japan**       | **6** - 0 | Hong Kong ![][flag_HK]         | [#1](https://osu.ppy.sh/community/matches/24036137) |
-| ![][flag_KR] **South Korea** | **6** - 0 | Argentina ![][flag_AR]         | [#1](https://osu.ppy.sh/community/matches/24038093) |
-| ![][flag_DE] Germany         | 1 - **6** | **Canada** ![][flag_CA]        | [#1](https://osu.ppy.sh/community/matches/24048158) |
-| ![][flag_GB] United Kingdom  | 2 - **6** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/24050709) |
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
+| ![][flag_TW] **Taiwan** | **6** - 1 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/24031840) |
+| ![][flag_CN] China | 3 - **6** | **Indonesia** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/24033032) |
+| ![][flag_JP] **Japan** | **6** - 0 | Hong Kong ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/24036137) |
+| ![][flag_KR] **South Korea** | **6** - 0 | Argentina ![][flag_AR] | [#1](https://osu.ppy.sh/community/matches/24038093) |
+| ![][flag_DE] Germany | 1 - **6** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/24048158) |
+| ![][flag_GB] United Kingdom | 2 - **6** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/24050709) |
 
 **Sunday, 10\. April 2016**
 
-| Team A                                         | Score     | Team B                                       | History                        |
-|:-----------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
 | ![][flag_KR] **South Korea** | **6** - 1 | United States ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/24057716) |
-| ![][flag_TW] **Taiwan**      | **6** - 0 | Indonesia ![][flag_ID]     | [#1](https://osu.ppy.sh/community/matches/24068098) |
+| ![][flag_TW] **Taiwan** | **6** - 0 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/24068098) |
 
 ### Quarterfinals
 
 **Saturday, 2\. April 2016**
 
-| Team A                                            | Score     | Team B                                       | History                        |
-|:--------------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
-| ![][flag_CN] **China**          | **5** - 1 | Philippines ![][flag_PH]   | [#1](https://osu.ppy.sh/community/matches/23863075) |
-| ![][flag_ID] Indonesia          | 1 - **5** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/23864087) |
-| ![][flag_RU] Russian Federation | 0 - **5** | **Taiwan** ![][flag_TW]    | [#1](https://osu.ppy.sh/community/matches/23865529) |
-| ![][flag_PL] Poland             | 0 - **5** | **Japan** ![][flag_JP]     | [#1](https://osu.ppy.sh/community/matches/23867003) |
-| ![][flag_KR] **South Korea**    | **5** - 1 | France ![][flag_FR]        | [#1](https://osu.ppy.sh/community/matches/23869118) |
-| ![][flag_GB] **United Kingdom** | **5** - 0 | Chile ![][flag_CL]         | [#1](https://osu.ppy.sh/community/matches/23878066) |
-| ![][flag_AR] Argentina          | 0 - **5** | **Germany** ![][flag_DE]   | [#1](https://osu.ppy.sh/community/matches/23880433) |
-| ![][flag_US] United States      | 2 - **5** | **Canada** ![][flag_CA]    | [#1](https://osu.ppy.sh/community/matches/23883766) |
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
+| ![][flag_CN] **China** | **5** - 1 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/23863075) |
+| ![][flag_ID] Indonesia | 1 - **5** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/23864087) |
+| ![][flag_RU] Russian Federation | 0 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/23865529) |
+| ![][flag_PL] Poland | 0 - **5** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/23867003) |
+| ![][flag_KR] **South Korea** | **5** - 1 | France ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/23869118) |
+| ![][flag_GB] **United Kingdom** | **5** - 0 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/23878066) |
+| ![][flag_AR] Argentina | 0 - **5** | **Germany** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/23880433) |
+| ![][flag_US] United States | 2 - **5** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/23883766) |
 
 ### Round of 16
 
 **Sunday, 27\. March 2016**
 
-| Team A                                            | Score     | Team B                                           | History                        |
-|:--------------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_CA] **Canada**         | **5** - 0 | Taiwan ![][flag_TW]            | [#1](https://osu.ppy.sh/community/matches/23713296) |
-| ![][flag_ID] **Indonesia**      | **5** - 2 | South Korea ![][flag_KR]       | [#1](https://osu.ppy.sh/community/matches/23714183) |
-| ![][flag_FR] France             | 0 - **5** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/community/matches/23718684) |
-| ![][flag_PH] Philippines        | 0 - **5** | **Germany** ![][flag_DE]       | [#1](https://osu.ppy.sh/community/matches/23719600) |
-| ![][flag_CL] Chile              | 0 - **5** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/community/matches/23720870) |
-| ![][flag_AR] **Argentina**      | **5** - 2 | China ![][flag_CN]             | [#1](https://osu.ppy.sh/community/matches/23722191) |
-| ![][flag_GB] United Kingdom     | 1 - **5** | **Poland** ![][flag_PL]        | [#1](https://osu.ppy.sh/community/matches/23726773) |
+| Team A | Score | Team B | History |
+| :-- | :-: | --: | --- |
+| ![][flag_CA] **Canada** | **5** - 0 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/23713296) |
+| ![][flag_ID] **Indonesia** | **5** - 2 | South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/23714183) |
+| ![][flag_FR] France | 0 - **5** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/23718684) |
+| ![][flag_PH] Philippines | 0 - **5** | **Germany** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/23719600) |
+| ![][flag_CL] Chile | 0 - **5** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/23720870) |
+| ![][flag_AR] **Argentina** | **5** - 2 | China ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/23722191) |
+| ![][flag_GB] United Kingdom | 1 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/23726773) |
 | ![][flag_RU] Russian Federation | 1 - **5** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/23727923) |
 
 ### Group Stage
@@ -314,7 +314,7 @@ Match Results
 **Sunday, 20\. March 2016**
 
 | Team A | Score | Team B | History |
-|-|
+| - |
 | ![][flag_SG] Singapore | 1 - **4** | **Philippines** | ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/23529018) |
 | ![][flag_AU] Australia | 1 - **4** | **Taiwan** | ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/23529019) |
 | ![][flag_MY] Malaysia | 3 - **4** | **Indonesia** | ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/23529020) |
@@ -419,13 +419,13 @@ Ruleset
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6.  Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage           | Match ID                |
-|-----------------|-------------------------|
-| Round of 16     | A, B, C, D, E, F, G, H  |
-| Quarter-finals  | I, J, K, L & R, S, T, U |
-| Semi-finals     | M, N & V, W, X, Y, Z,AA |
-| Finals - Week 1 | O & AB, AC, AD, AE      |
-| Finals - Week 2 | P, Q                    |
+| Stage | Match ID |
+| --- | --- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarter-finals | I, J, K, L & R, S, T, U |
+| Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD, AE |
+| Finals - Week 2 | P, Q |
 
 1.  **Winning conditions:**
     -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

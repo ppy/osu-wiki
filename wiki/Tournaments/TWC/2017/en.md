@@ -13,7 +13,7 @@ The **osu!taiko World Cup 2017** (**_TWC 2017_**) is a country-based osu!taiko t
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 7-19 Feb 2017 |
 | Drawings | 5 Mar 2017 (14:00 UTC+0) |
 | Group Stage | 11-12 Mar 2017 |
@@ -28,7 +28,7 @@ The **osu!taiko World Cup 2017** (**_TWC 2017_**) is a country-based osu!taiko t
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
 | Placing | Prize(s) |
-| --- | :--- |
+| --- | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | unique item, profile badge, "osu!taiko Champion" user title |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | unique item, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | unique item, profile badge |
@@ -38,7 +38,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 The osu!taiko World Cup 2017 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member |
-| ------------ | -------------- |
+| --- | --- |
 | Management | [![][flag_DE] Loctav](https://new.ppy.sh/users/71366), [![][flag_DE] p3n](https://new.ppy.sh/users/123703), [![][flag_ES] Deif](https://new.ppy.sh/users/318565), [![][flag_FR] shARPII](https://new.ppy.sh/users/776257) |
 | Map Selectors | [![][flag_DE] OnosakiHito](https://new.ppy.sh/users/290128), [![][flag_FR] Sayaka-](https://new.ppy.sh/users/398275) |
 | Commentators | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_NZ] deadbeat](https://new.ppy.sh/users/128370), [![][flag_AU] Jaye](https://osu.ppy.sh/users/4841352), [![][flag_HK] magnomizer](https://osu.ppy.sh/users/1893718), [![][flag_CA] Tasha](https://new.ppy.sh/users/1031958), [![][flag_DE] Zetera](https://osu.ppy.sh/users/587737), [![][flag_US] ztrot](https://new.ppy.sh/users/6347) |
@@ -59,7 +59,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)**
 
 | | Country | Member |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://new.ppy.sh/users/42440)**, [Midnaait](https://new.ppy.sh/users/1506011), [Arnon](https://new.ppy.sh/users/5332868), [gaston_2199](https://new.ppy.sh/users/5938161), [Laut1G](https://new.ppy.sh/users/7286821), [Axer](https://new.ppy.sh/users/7299864) |
 | ![][flag_AU] | **Australia** | **[Jaye](https://new.ppy.sh/users/4841352)**, [RollingDango](https://new.ppy.sh/users/7728466), [Ceryuia](https://new.ppy.sh/users/5253213), [andrew000000](https://new.ppy.sh/users/122174), [Aloda](https://new.ppy.sh/users/1190127), [SpiritsUnite](https://new.ppy.sh/users/1198002) |
 | ![][flag_BR] | **Brazil** | **[Marm](https://new.ppy.sh/users/5143353)**, [LuckySonicGHz](https://new.ppy.sh/users/3949268), [Serial Dreemurr](https://new.ppy.sh/users/1235444), [Ppus](https://new.ppy.sh/users/5918857), [Magg](https://new.ppy.sh/users/2648271), [Coryn](https://new.ppy.sh/users/2828556) |
@@ -79,7 +79,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | ![][flag_KR] | **South Korea** | **[Runa](https://new.ppy.sh/users/4643294)**, [Jonah](https://new.ppy.sh/users/5509009), [Quizmaegi](https://new.ppy.sh/users/2228401), [Ni-Sokkususu](https://new.ppy.sh/users/1807472), [bbj0920](https://new.ppy.sh/users/87546), [Bonehead](https://new.ppy.sh/users/4045475) |
 | ![][flag_ES] | **Spain** | **[Raiden](https://new.ppy.sh/users/2239480)**, [Maitroxsk](https://new.ppy.sh/users/4875451), [LZD](https://new.ppy.sh/users/224335), [Hanjamon](https://new.ppy.sh/users/1703330), [AlvaroYL](https://new.ppy.sh/users/6333166), [TheMadnessLady](https://new.ppy.sh/users/3928960) |
 | ![][flag_SE] | **Sweden** | **[Raphalge](https://new.ppy.sh/users/3918650)**, [Eiuh](https://new.ppy.sh/users/4653213), [Tanaka](https://new.ppy.sh/users/1897905), [Karl-Johan](https://new.ppy.sh/users/6686840) |
-| ![][flag_TW] | **Taiwan** | **[S a n d](https://new.ppy.sh/users/676578)**, [stu00608](https://new.ppy.sh/users/1977606), [monkeydluffy3u4](https://new.ppy.sh/users/2277798), [-[ ix Ishida xi ]-](https://new.ppy.sh/users/242910), [X a v y](https://new.ppy.sh/users/3738344), [PING](https://new.ppy.sh/users/818907)  |
+| ![][flag_TW] | **Taiwan** | **[S a n d](https://new.ppy.sh/users/676578)**, [stu00608](https://new.ppy.sh/users/1977606), [monkeydluffy3u4](https://new.ppy.sh/users/2277798), [-[ ix Ishida xi ]-](https://new.ppy.sh/users/242910), [X a v y](https://new.ppy.sh/users/3738344), [PING](https://new.ppy.sh/users/818907) |
 | ![][flag_UA] | **Ukraine** | **[Anny](https://new.ppy.sh/users/249094)**, [Don Omar](https://new.ppy.sh/users/689414), [gavnono](https://new.ppy.sh/users/1625581) |
 | ![][flag_GB] | **United Kingdom** | **[Grimbow](https://new.ppy.sh/users/1387762)**, [Hydria](https://new.ppy.sh/users/808176), [goheegy](https://new.ppy.sh/users/8057655), [Mekelemembe](https://new.ppy.sh/users/3289191), [abrian159](https://new.ppy.sh/users/1159051), [RileySpook](https://new.ppy.sh/users/7266040) |
 | ![][flag_US] | **United States** | **[Michiyo](https://new.ppy.sh/users/5991961)**, [Shyguy](https://new.ppy.sh/users/178038), [Das](https://new.ppy.sh/users/3165416), [Protonori](https://new.ppy.sh/users/6049990), [JDrago14](https://new.ppy.sh/users/7690078), [Catgirl](https://new.ppy.sh/users/2771995) |
@@ -240,33 +240,33 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ### Grand Finals
 
 | Saturday, 15. April 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 7 | 1 | ![][flag_TW] Taiwan | [#1](https://new.ppy.sh/community/matches/32485603) |
 
 ### Finals - Week 1
 
 | Saturday, 08. April 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hong Kong ![][flag_HK] | 6 | 0 | ![][flag_US] United States | [#1](https://new.ppy.sh/community/matches/32317619) |
 | Taiwan ![][flag_TW] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32319543) |
 | Germany ![][flag_DE] | 0 | 6 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/community/matches/32334385) |
 
 | Sunday, 09. April 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hong Kong ![][flag_HK] | 6 | 4 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/community/matches/32346874) |
 | Taiwan ![][flag_TW] | 6 | 0 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/community/matches/32355825) |
 
 ### Semifinals
 
 | Saturday, 01. April 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | France ![][flag_FR] | 3 | 6 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32166125) |
 | Poland ![][flag_PL] | 0 | 6 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/community/matches/32168039) |
 | Chile ![][flag_CL] | 6 | 3 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/32169879) |
 | Spain ![][flag_ES] | 0 | 6 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/community/matches/32172525) |
 
 | Sunday, 02. April 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32189359) |
 | Taiwan ![][flag_TW] | 6 | 2 | ![][flag_US] United States | [#1](https://new.ppy.sh/community/matches/32190652) |
 | Hong Kong ![][flag_HK] | 6 | 2 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32201845) |
@@ -275,12 +275,12 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ### Quarterfinals
 
 | Saturday, 25. March 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Spain ![][flag_ES] | 5 | 2 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/community/matches/32018493) |
 | Chile ![][flag_CL] | 5 | 2 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/community/matches/32021588) |
 
 | Sunday, 26. March 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 5 | 1 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/32028776) |
 | Canada ![][flag_CA] | 5 | 1 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32030302) |
 | Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32037413) |
@@ -291,7 +291,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ### Round of 16
 
 | Sunday, 19. March 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Taiwan ![][flag_TW] | 5 | 0 | ![][flag_PL] Poland | [#1](https://new.ppy.sh/community/matches/31875417) |
 | Germany ![][flag_DE] | 5 | 2 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/31876394) |
 | Indonesia ![][flag_ID] | 2 | 5 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/31877490) |
@@ -304,7 +304,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ### Group Stage
 
 | Saturday, 11. March 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Poland ![][flag_PL] | 4 | 0 | ![][flag_CN] China | -win by default- |
 | Hong Kong ![][flag_HK] | 4 | 0 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/31674432) |
 | Taiwan ![][flag_TW] | 4 | 0 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/community/matches/31675793) |
@@ -321,7 +321,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | United States ![][flag_US] | 4 | 0 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/community/matches/31696713) |
 
 | Sunday, 12. March 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 4 | 0 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/31698275) |
 | South Korea ![][flag_KR] | 4 | 3 | ![][flag_FR] France | [#1](https://new.ppy.sh/community/matches/31710151) |
 | Spain ![][flag_ES] | 4 | 0 | ![][flag_FI] Finland | [#1](https://new.ppy.sh/community/matches/31710156) |
@@ -416,8 +416,8 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| --: | --- |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |
 | Finals - Week 1 | O & AB, AC, AD, AE |

@@ -116,11 +116,11 @@ Fundamentais de Beatmapping
 Bookmark
 --------
 
-|   Comando de atalho  |
-|:--------------------:|
-|       Ctrl + B       |
-|   Ctrl + Shift + B   |
-|  Ctrl + Seta Direita |
+| Comando de atalho |
+| :-: |
+| Ctrl + B |
+| Ctrl + Shift + B |
+| Ctrl + Seta Direita |
 | Ctrl + Seta Esquerda |
 
 **<u>Bookmark (atalhos na música) é uma ferramenta que marca a timeline.</u>** Isso é util se você está planeando fazer lugares específicos para colocar um ponto de mudança de BPM ou reservar espaço para colocar um design complexo mais tarde. Dependendo da sua preferência, você poderá abusar disto ao ouvir a música enquanto usa o comando, baseado na batida, como um guia de como o mapa ficará.
@@ -258,67 +258,67 @@ Existem alguns Atalhos de Teclado?
 
 Sim, e aqui está uma lista deles. Será melhor que você imprima eles para referência rápida.
 
-|             Atalhos Gerais             |
-|:--------------------------------------:|
-|                  **H**                 |
-|                  **Z**                 |
-|                  **X**                 |
-|         **C / Barra de espaço**        |
-|         **Esquerda / Direita**         |
-|     **Shift + Esquerda / Direita**     |
-|              **Ctrl + B**              |
-|              **Ctrl + G**              |
-|           **Ctrl + Esquerda**          |
-|           **Ctrl + Direita**           |
-|              **Ctrl + L**              |
-|              **Ctrl + S**              |
-|              **Ctrl + N**              |
-|                 **F1**                 |
-|                 **F2**                 |
-|                 **F3**                 |
-|                 **F4**                 |
-|                 **F5**                 |
-|                 **F6**                 |
-|              Modo Compose              |
-|        **Números (1, 2, 3, 4)**        |
-|            **Q, W, E, R, L**           |
-|               **Delete**               |
-|              **Ctrl + Z**              |
-|              **Ctrl + Y**              |
-|              **Ctrl + A**              |
-|              **Ctrl + X**              |
-|              **Ctrl + C**              |
-|              **Ctrl + V**              |
-|              **Ctrl + D**              |
-|         **Alt (na colocação)**         |
-|        **Shift (na colocação)**        |
-|      '''Shift (enquanto modifica)      |
-|                  **J**                 |
-|                 *' K*'                 |
-|                  **G**                 |
-|             **Ctrl + 1-4**             |
-|             **Ctrl + &lt;**            |
-|             **Ctrl + &gt;**            |
-|              *' Ctrl + H*'             |
-|              *' Ctrl + J*'             |
-|               Modo Timing              |
-|                  **T**                 |
+| Atalhos Gerais |
+| :-: |
+| **H** |
+| **Z** |
+| **X** |
+| **C / Barra de espaço** |
+| **Esquerda / Direita** |
+| **Shift + Esquerda / Direita** |
+| **Ctrl + B** |
+| **Ctrl + G** |
+| **Ctrl + Esquerda** |
+| **Ctrl + Direita** |
+| **Ctrl + L** |
+| **Ctrl + S** |
+| **Ctrl + N** |
+| **F1** |
+| **F2** |
+| **F3** |
+| **F4** |
+| **F5** |
+| **F6** |
+| Modo Compose |
+| **Números (1, 2, 3, 4)** |
+| **Q, W, E, R, L** |
+| **Delete** |
+| **Ctrl + Z** |
+| **Ctrl + Y** |
+| **Ctrl + A** |
+| **Ctrl + X** |
+| **Ctrl + C** |
+| **Ctrl + V** |
+| **Ctrl + D** |
+| **Alt (na colocação)** |
+| **Shift (na colocação)** |
+| '''Shift (enquanto modifica) |
+| **J** |
+| *' K*' |
+| **G** |
+| **Ctrl + 1-4** |
+| **Ctrl + &lt;** |
+| **Ctrl + &gt;** |
+| *' Ctrl + H*' |
+| *' Ctrl + J*' |
+| Modo Timing |
+| **T** |
 | **Shift (while adjusting BPM/Offset)** |
-|              **Ctrl + B**              |
-|              **Ctrl + P**              |
+| **Ctrl + B** |
+| **Ctrl + P** |
 
 E quanto aos controles do Mouse?
 --------------------------------
 
 Aqui tem uma lista deles:
 
-|       Controles do Mouse       |
-|:------------------------------:|
-|       **Clique Esquerdo**      |
-|   **Ctrl + Clique Esquerdo**   |
-|       **Clique Direito**       |
-|        **Roda do Mouse**       |
+| Controles do Mouse |
+| :-: |
+| **Clique Esquerdo** |
+| **Ctrl + Clique Esquerdo** |
+| **Clique Direito** |
+| **Roda do Mouse** |
 | **Ctrl + Alt + Roda do Mouse** |
-|    **Ctrl + Roda do Mouse**    |
-|     **Alt + Roda do Mouse**    |
-|          **Arrastar**          |
+| **Ctrl + Roda do Mouse** |
+| **Alt + Roda do Mouse** |
+| **Arrastar** |

@@ -21,41 +21,41 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 
 #### Gast
 
-| Name                   | Effekt                                                                                        |
-|------------------------|-----------------------------------------------------------------------------------------------|
-| Benutzername           | Geben Sie hier Ihren registrierten Benutzernamen ein                                          |
-| Passwort               | Das Passwort zu Ihrem Benutzernamen.                                                          |
-| Benutzername speichern | Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername}                              |
-| Passwort speichern     | Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen. |
+| Name | Effekt |
+| --- | --- |
+| Benutzername | Geben Sie hier Ihren registrierten Benutzernamen ein |
+| Passwort | Das Passwort zu Ihrem Benutzernamen. |
+| Benutzername speichern | Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername} |
+| Passwort speichern | Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen. |
 
 Klicke auf **Einloggen**, um sich anzumelden oder klicke auf **Account erstellen**, falls Sie noch über keinen Account verfügen. Sobald Sie sich erfolgreich eingeloggt haben, wird es sich, wie unten angezeigt, ändern.
 ====Benutzername==== <img src="DEallgemein.png" title="fig:Eingeloggt" alt="Eingeloggt" width="300" /> <img src="DE-user functions.jpg" title="fig:" width="300" /> Als {Benutzername} anmeldet
 
 Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
-| Name               | Effekt                                               |
-|--------------------|------------------------------------------------------|
+| Name | Effekt |
+| --- | --- |
 | 1. Profil anzeigen | Sehen Sie sich Ihren Profil auf der osu! Website an. |
-| 2. Ausloggen       | Loggen Sie sich aus dem Spiel aus.                   |
-| 3. Avatar ändern  | Ändern Sie Ihren Profilbild.                        |
-| 4. Schließen      | Schließen.                                          |
+| 2. Ausloggen | Loggen Sie sich aus dem Spiel aus. |
+| 3. Avatar ändern | Ändern Sie Ihren Profilbild. |
+| 4. Schließen | Schließen. |
 
 ===Sprache=== <img src="DE-Language.jpg" title="fig:Sprache" alt="Sprache" width="300" />
 
-| Name                           | Effekt                                                                                                                                                                                                                                                                                                                                                        |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: http://osu.ppy.sh/forum/t/104342/ (alter Link)                                                                                                                                            |
-| Metadaten in Originalsprache   | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
-| Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten.                                                                                                                                                                                                                                                           |
+| Name | Effekt |
+| --- | --- |
+| Sprache wählen | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: http://osu.ppy.sh/forum/t/104342/ (alter Link) |
+| Metadaten in Originalsprache | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
+| Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten. |
 
 ### Updates
 
 <img src="DE-Updates.jpg" title="Updates" alt="Updates" width="300" />
 
-| Name                     | Effekt                                                                                                                                                             |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Name | Effekt |
+| --- | --- |
 | UpdatequelleUpdatequelle | Stable: Public build.Cutting Edge: osu!test build (Multi nur als Supporter zugänglich).Anmerkung: Online Verbindung ist notwendig, um zwischen diesen zu wechseln. |
-| osu!-Ordner öffnen       | osu!-Ordner öffnen.                                                                                                                                                |
+| osu!-Ordner öffnen | osu!-Ordner öffnen. |
 
 ## Grafik
 
@@ -65,12 +65,12 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 <img src="DE-Renderer.jpg" title="Renderer" alt="Renderer" width="300" />
 
-| Name                                                                                          | Effekt                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OpenGL                                                                                        | Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
-| DirectX (Default)                                                                             | Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken.                                                                         |
+| Name | Effekt |
+| --- | --- |
+| OpenGL | Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
+| DirectX (Default) | Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken. |
 | Frame Limiter: (kontrolliert die maximale Anzahl an Frames, die pro Sekunde angezeigt werden) |                                                                                                                                                                                       |
-| 60fps (vsync)                                                                                 | 60fps (low latency)                                                                                                                                                                   |
+| 60fps (vsync) | 60fps (low latency) |
 
 Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](http://osu.ppy.sh/forum/t/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
 
@@ -82,10 +82,10 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 #### Auflösung wählen:
 
-| Eigenschaften | Auflösung im Fenstermodus                                  | Auflösung im Vollbildmodus                     |
-|---------------|------------------------------------------------------------|------------------------------------------------|
-| Standard      | 800 x 600, 1024 x 768                                    | 800 x 600                                      |
-| Breitbild     | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) [Standard] | _Ihre Bildschirmauflösung_ (native) [Standard] |
+| Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
+| --- | --- | --- |
+| Standard | 800 x 600, 1024 x 768 | 800 x 600 |
+| Breitbild | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) [Standard] | _Ihre Bildschirmauflösung_ (native) [Standard] |
 
 -   **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
 
@@ -93,41 +93,41 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 <img src="DE-graphicsettings.jpg" title="Grafikeinstellungen" alt="Grafikeinstellungen" width="300" />
 
-| Name              | Effekt                                                                                                                                                                                      |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Animierte Slider  | Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC.               |
-| Hintergrund Video | Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den Visual Settings deaktiviert werden.   |
-| Storyboards       | Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den Visual Settings deaktiviert werden. |
-| Combo Bilder      | Wenn Sie besondere Combowerte erreicht haben, sehen Sie ein Bild von der Seite auf den Bildschirm springen!                                                                                 |
-| Hit Lighting      | Zeigt einen dezenten Leuchteffekt, wenn Sie Circle anklicken. Deaktiviert nicht das Leuchten während dem Kiai.                                                                              |
-| Shadereffekte     | Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert.                                       |
-| Unschärfefilter   | Passt die "Shadereffekte" an, um sie weniger "grell" zu machen.                                                                                                                             |
+| Name | Effekt |
+| --- | --- |
+| Animierte Slider | Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC. |
+| Hintergrund Video | Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den Visual Settings deaktiviert werden. |
+| Storyboards | Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den Visual Settings deaktiviert werden. |
+| Combo Bilder | Wenn Sie besondere Combowerte erreicht haben, sehen Sie ein Bild von der Seite auf den Bildschirm springen! |
+| Hit Lighting | Zeigt einen dezenten Leuchteffekt, wenn Sie Circle anklicken. Deaktiviert nicht das Leuchten während dem Kiai. |
+| Shadereffekte | Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert. |
+| Unschärfefilter | Passt die "Shadereffekte" an, um sie weniger "grell" zu machen. |
 
 #### Screenshot Format (Dateiformat von Screenshots)
 
-| Name                          | Effekt                                                                        |
-|-------------------------------|-------------------------------------------------------------------------------|
-| PNG (Verlustfrei)             | Hohe Dateigröße, aber unkomprimierte Qualität.                                |
+| Name | Effekt |
+| --- | --- |
+| PNG (Verlustfrei) | Hohe Dateigröße, aber unkomprimierte Qualität. |
 | JPEG (Web-geeignet) [Default] | Kompakte Dateigröße. Mühelos zu laden. Kann beim Reinzoomen verpixelt wirken. |
 
 ### Hauptmenü
 
 <img src="DE-main menu.jpg" title="Hauptmenü" alt="Hauptmenü" width="300" />
 
-| Name              | Effekt                                                                                                                                                                                                                                              |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Schneeanimation   | Kleine Icons des derzeit ausgewählten Spielmodus fallen als Schnee Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage.                                                                               |
-| Parallaxeneffekt  | Der Bildschirm bewegt sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays.                                                                                                                                                      |
-| Tipps             | Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol.                                                                                                              |
-| Interface Stimmen | "Welcome to osu!"/"See you next time." osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden.                                                                                                                                           |
-| osu!-Titelsong    | osu! spielt "nekodex - welcome to osu!" im Menü anstelle von zufälligen Beatmaps ab. Es ist keine Beatmap und wird immer wieder wiederholt bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen. |
+| Name | Effekt |
+| --- | --- |
+| Schneeanimation | Kleine Icons des derzeit ausgewählten Spielmodus fallen als Schnee Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage. |
+| Parallaxeneffekt | Der Bildschirm bewegt sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays. |
+| Tipps | Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol. |
+| Interface Stimmen | "Welcome to osu!"/"See you next time." osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden. |
+| osu!-Titelsong | osu! spielt "nekodex - welcome to osu!" im Menü anstelle von zufälligen Beatmaps ab. Es ist keine Beatmap und wird immer wieder wiederholt bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen. |
 
 ### Songauswahl
 
 <img src="DE-Songauswahl.jpg" title="Songauswahl" alt="Songauswahl" width="300" />
 
-| Name           | Effekt                                                                                                                  |
-|----------------|-------------------------------------------------------------------------------------------------------------------------|
+| Name | Effekt |
+| --- | --- |
 | Vorschaubilder | Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). |
 
 ## Gameplay
@@ -243,8 +243,8 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 -   Musik: Beeinflusst nur die Musik selbst.
 -   Effekte: Beeinflusst die Lautstärke der Hitsounds, sowie andere Soundeffekte.
 
-| Beatmaps Hitsounds ignorieren                                         |
-|-----------------------------------------------------------------------|
+| Beatmaps Hitsounds ignorieren |
+| --- |
 | Hitsounds, die einer Beatmap beigefügt worden sind, werden ignoriert. |
 
 ### Universeller Audio-Offset
@@ -384,75 +384,75 @@ Set 4: Scorezahlen</p></td>
 
 <img src="DE-Tastatur.jpg" title="fig:Tastatur" alt="Tastatur" width="300" /> <img src="Options KB.jpg" title="fig:Tastaturbelegung" alt="Tastaturbelegung" width="300" />
 
-| [osu! Standard](Standard "wikilink") Mode           |
-|-----------------------------------------------------|
-| Left Click                                          |
-| Right Click                                         |
-| Smoke                                               |
-| [Taiko](Taiko "wikilink") Mode                      |
-| Drum Center (Left)                                  |
-| Drum Center (Right)                                 |
-| Drum Rim (Left)                                     |
-| Drum Rim (Right)                                    |
-| [Catch the Beat](Catch_The_Beat "wikilink") Mode    |
-| Move Left                                           |
-| Move Right                                          |
-| Dash! (2x movement speed)                           |
+| [osu! Standard](Standard "wikilink") Mode |
+| --- |
+| Left Click |
+| Right Click |
+| Smoke |
+| [Taiko](Taiko "wikilink") Mode |
+| Drum Center (Left) |
+| Drum Center (Right) |
+| Drum Rim (Left) |
+| Drum Rim (Right) |
+| [Catch the Beat](Catch_The_Beat "wikilink") Mode |
+| Move Left |
+| Move Right |
+| Dash! (2x movement speed) |
 | [osu! Mania](Osu!mania "wikilink") Mode \[LtR/Sym\] |
-| Increase Speed (mania)                              |
-| Decrease Speed (mania)                              |
-| In-Game                                             |
-| Game Pause                                          |
-| Skip Cutscene                                       |
-| Toggle Scoreboard                                   |
-| Increase Local Song Offset                          |
-| Decrease Local Song Offset                          |
-| Universal                                           |
-| Toggle Framerate Limit                              |
-| Toggle Chat                                         |
-| Toggle Extended Chat                                |
-| Save Screenshot                                     |
-| Increase Volume                                     |
-| Decrease Volume                                     |
-| Disable Mouse buttons                               |
-| Boss Key                                            |
-| Editor                                              |
-| Select tool                                         |
-| Normal tool                                         |
-| Slider tool                                         |
-| Spinner tool                                        |
-| New Combo Toggle                                    |
-| Whistle Toggle                                      |
-| Finish Toggle                                       |
-| Clap Toggle                                         |
-| Grip Snap toggle                                    |
-| Distance Snap Toggle                                |
-| Note Lock toggle                                    |
-| Nudge Left                                          |
-| Nudge Right                                         |
-| Help Toggle                                         |
-| Jump to First Note                                  |
-| Play from beginning                                 |
-| Audio Pause                                         |
-| Jump to End                                         |
-| Grid Size Change                                    |
-| Add Timing Section                                  |
-| Add Inheriting Section                              |
-| Remove Section                                      |
-| [Spielmodifizierer](Game_Modifiers "wikilink")      |
-| [Easy](EZ "wikilink")                               |
-| [No Fail](NF "wikilink")                            |
-| [Half-Time](HT "wikilink")                          |
-| [Hard Rock](HR "wikilink")                          |
-| [Sudden Death](SD "wikilink")                       |
-| [Double Time](DT "wikilink")                        |
-| [Hidden](HD "wikilink")                             |
-| [Flashlight](FL "wikilink")                         |
-| [Relax](RL "wikilink")                              |
-| [Auto-Pilot](AP "wikilink")                         |
-| [Spun-Out](SO "wikilink")                           |
-| [Auto](Game_Modifiers#Auto "wikilink")              |
-| Tastenbelegung zurücksetzen                         |
+| Increase Speed (mania) |
+| Decrease Speed (mania) |
+| In-Game |
+| Game Pause |
+| Skip Cutscene |
+| Toggle Scoreboard |
+| Increase Local Song Offset |
+| Decrease Local Song Offset |
+| Universal |
+| Toggle Framerate Limit |
+| Toggle Chat |
+| Toggle Extended Chat |
+| Save Screenshot |
+| Increase Volume |
+| Decrease Volume |
+| Disable Mouse buttons |
+| Boss Key |
+| Editor |
+| Select tool |
+| Normal tool |
+| Slider tool |
+| Spinner tool |
+| New Combo Toggle |
+| Whistle Toggle |
+| Finish Toggle |
+| Clap Toggle |
+| Grip Snap toggle |
+| Distance Snap Toggle |
+| Note Lock toggle |
+| Nudge Left |
+| Nudge Right |
+| Help Toggle |
+| Jump to First Note |
+| Play from beginning |
+| Audio Pause |
+| Jump to End |
+| Grid Size Change |
+| Add Timing Section |
+| Add Inheriting Section |
+| Remove Section |
+| [Spielmodifizierer](Game_Modifiers "wikilink") |
+| [Easy](EZ "wikilink") |
+| [No Fail](NF "wikilink") |
+| [Half-Time](HT "wikilink") |
+| [Hard Rock](HR "wikilink") |
+| [Sudden Death](SD "wikilink") |
+| [Double Time](DT "wikilink") |
+| [Hidden](HD "wikilink") |
+| [Flashlight](FL "wikilink") |
+| [Relax](RL "wikilink") |
+| [Auto-Pilot](AP "wikilink") |
+| [Spun-Out](SO "wikilink") |
+| [Auto](Game_Modifiers#Auto "wikilink") |
+| Tastenbelegung zurücksetzen |
 
 -   Tastenbelegungen zurücksetzen : Alle Tastenbelegungen werden auf die Standardeinstellung zurückgesetzt.
 -   Boss Key: [Versteckt osu! Im Infobereich der Taskleiste (unten rechts).](Media:OP_BOSS.jpg "wikilink") Um osu! wiederzubeschwören, müssen Sie den Icon im Infobereich finden und anklicken. Während osu! Versteckt ist, wird keine Musik abgespielt. Nützlich am Arbeitsplatz.
@@ -694,7 +694,7 @@ Set 4: Scorezahlen</p></td>
 
 ### In-Game Chat
 
-[300px|thumb|right|In-Game Chat](File:DE-Ingame-Chat.jpg "wikilink")
+[300px| thumb | right |In-Game Chat](File:DE-Ingame-Chat.jpg "wikilink")
 
 <table style="width:30%;">
 <colgroup>

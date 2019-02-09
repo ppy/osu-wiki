@@ -16,7 +16,7 @@ SB オブジェクト/スプライト
 .osbか.osuの`[Events]` のセクションに1行で記述することで、静止画やアニメーションを呼び出すことができます。
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| --- | --- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -62,7 +62,7 @@ Where:
 ------
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| --- | --- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 いくつかのオブジェクトの宣言例:

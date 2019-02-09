@@ -45,8 +45,8 @@ Features
 #### Timeline
 
 | Name | Description |
-| ---- | ----------- |
-| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| --- | --- |
+| `+`/`-` buttons at left	 | Increase/Decrease timeline zoom |
 | `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
 
@@ -55,7 +55,7 @@ Features
 This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline.
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
 | `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
 
@@ -106,9 +106,9 @@ To use them:-
 ##### Transformation effects (timeframe-based)
 
 | Command | Usage |
-| ------- | ----- |
+| --- | --- |
 | Move | Translation [where to go (e.g., move up)]. |
-| Scale	| Proportional enlargement (a square is still a square). |
+| Scale	 | Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
@@ -116,7 +116,7 @@ To use them:-
 ##### Additional effects (hover over left bar):
 
 | Command | Usage |
-| ------- | ----- |
+| --- | --- |
 | Vector Scale | Irregular enlargement (a square becomes a rectangle). |
 | Horizontal/Vertical Flip | Reflection at x-axis/y-axis respectively |
 
@@ -125,7 +125,7 @@ To use them:-
 ![Extra commands](img/SE_AO.jpg "Extra commands")
 
 | Command | Usage |
-| ------- | ----- |
+| --- | --- |
 | Tweening | You have two Keyframes (ie Start/End), do you want to animate between them? If so, turn on Tweening. If not, then turn it off. |
 | Easing In/Out | Start slow/fast then fast/slow near end point. Useful with Fade In. |
 | Origin | Point of origin. "Top-Left" corner or "Centre" of image |

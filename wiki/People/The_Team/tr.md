@@ -9,14 +9,14 @@ Yaratıcı
 -------
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | Proje başı |
 
 Aktif
 ------
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Oyuncu desteği, Meganekko sekreter |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Baş tasarımcı |
 | [Loctav](https://osu.ppy.sh/users/71366) | Resmi Turnuva Organizasyonu, Ekip ve topluluk yönetimi |
@@ -32,12 +32,12 @@ Aktif
 --------
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Genel housekeeping, oyun/site içi chibi sanatı |
 | [Derekku](https://osu.ppy.sh/users/91341) | Genel housekeeping, Topluluk yönetimi |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! geliştirici takımı, Oyun içi sohbetin IRC entegrasyonu, Site bakımı |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştirici takımı, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Orijinal site tasarımı |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Orijinal site tasarımı |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epik skin tasarımı, Varsayılan skin ve ikon setine katkılar |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliderları |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
@@ -50,7 +50,7 @@ Kullanıcı grupları
 ----------------------
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| --- | --- |
 | [Global Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team) | Forumlarda ve oyun-içi sohbette göz kulak olurlar |
 | [Beatmap Aday Gösterme Grubu (BNG)](/wiki/People/Beatmap_Nomination_Group) | Maplarınız dereceli olsun diye elinden geleni ardına koymayan kullanıcılar |
 | [Geliştiriciler](https://osu.ppy.sh/g/11) | Oyuna yeni özellikler ekleyip bugları kaldırarak oyunu harika yaparlar. |

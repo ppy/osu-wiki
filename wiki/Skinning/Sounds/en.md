@@ -10,8 +10,8 @@
 `heartbeat.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -22,8 +22,8 @@ Notes:
 `seeya.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when closing the osu!client.
@@ -34,8 +34,8 @@ Notes:
 `welcome.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when starting the osu!client.
@@ -46,8 +46,8 @@ Notes:
 `key-confirm.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -58,8 +58,8 @@ Notes:
 `key-delete.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -70,8 +70,8 @@ Notes:
 `key-movement.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -82,8 +82,8 @@ Notes:
 `key-press-1.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -94,8 +94,8 @@ Notes:
 `key-press-2.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -106,8 +106,8 @@ Notes:
 `key-press-3.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -118,8 +118,8 @@ Notes:
 `key-press-4.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -130,8 +130,8 @@ Notes:
 `back-button-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -142,8 +142,8 @@ Notes:
 `check-on.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -154,8 +154,8 @@ Notes:
 `check-off.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -166,8 +166,8 @@ Notes:
 `click-close.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -178,8 +178,8 @@ Notes:
 `click-short-confirm.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -190,8 +190,8 @@ Notes:
 `menuback.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -202,8 +202,8 @@ Notes:
 `menuhit.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -214,8 +214,8 @@ Notes:
 `menu-back-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -226,8 +226,8 @@ Notes:
 `menu-charts-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -238,8 +238,8 @@ Notes:
 `menu-direct-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -250,8 +250,8 @@ Notes:
 `menu-edit-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -262,8 +262,8 @@ Notes:
 `menu-exit-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -274,8 +274,8 @@ Notes:
 `menu-freeplay-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -286,8 +286,8 @@ Notes:
 `menu-multiplayer-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -298,8 +298,8 @@ Notes:
 `menu-options-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -310,8 +310,8 @@ Notes:
 `menu-play-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -322,8 +322,8 @@ Notes:
 `pause-back-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -334,8 +334,8 @@ Notes:
 `pause-continue-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -346,8 +346,8 @@ Notes:
 `pause-retry-click.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -358,8 +358,8 @@ Notes:
 `select-expand.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -370,8 +370,8 @@ Notes:
 `select-difficulty.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -382,8 +382,8 @@ Notes:
 `shutter.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -394,8 +394,8 @@ Notes:
 `back-button-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -406,8 +406,8 @@ Notes:
 `click-short.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -418,8 +418,8 @@ Notes:
 `menuclick.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -430,8 +430,8 @@ Notes:
 `menu-back-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -442,8 +442,8 @@ Notes:
 `menu-charts-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -454,8 +454,8 @@ Notes:
 `menu-direct-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -466,8 +466,8 @@ Notes:
 `menu-edit-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -478,8 +478,8 @@ Notes:
 `menu-exit-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -490,8 +490,8 @@ Notes:
 `menu-freeplay-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -502,8 +502,8 @@ Notes:
 `menu-multiplayer-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -514,8 +514,8 @@ Notes:
 `menu-options-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -526,8 +526,8 @@ Notes:
 `menu-play-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -538,16 +538,16 @@ Notes:
 `pause-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 ---
 
 `pause-back-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -558,8 +558,8 @@ Notes:
 `pause-continue-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -570,8 +570,8 @@ Notes:
 `pause-retry-hover.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -582,8 +582,8 @@ Notes:
 `sliderbar.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -594,8 +594,8 @@ Notes:
 `whoosh.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -606,8 +606,8 @@ Notes:
 `match-confirm.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -618,8 +618,8 @@ Notes:
 `match-join.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -630,8 +630,8 @@ Notes:
 `match-leave.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -642,8 +642,8 @@ Notes:
 `match-notready.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -654,8 +654,8 @@ Notes:
 `match-ready.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -666,8 +666,8 @@ Notes:
 `match-start.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -679,8 +679,8 @@ Notes:
 `count.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -692,48 +692,48 @@ Notes:
 `count1s.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 ---
 
 `count2s.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 ---
 
 `count3s.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 ---
 
 `gos.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 ---
 
 `readys.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 ## Metronome
 
 `metronomelow.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
+| :-: |
+| ![No][false] |
 
 Notes:
 
@@ -745,8 +745,8 @@ Notes:
 `applause.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -757,8 +757,8 @@ Notes:
 `comboburst.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -770,8 +770,8 @@ Notes:
 `combobreak.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -782,8 +782,8 @@ Notes:
 `failsound.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -794,8 +794,8 @@ Notes:
 `sectionpass.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -806,8 +806,8 @@ Notes:
 `sectionfail.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -818,8 +818,8 @@ Notes:
 `pause-loop.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -836,8 +836,8 @@ Hit sounds should not have any more than a 5 millisecond delay, unless it has a 
 `drum-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -848,8 +848,8 @@ Notes:
 `drum-hitclap.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -860,8 +860,8 @@ Notes:
 `drum-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -872,8 +872,8 @@ Notes:
 `drum-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -884,8 +884,8 @@ Notes:
 `drum-slidertick.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -896,8 +896,8 @@ Notes:
 `drum-sliderslide.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -909,8 +909,8 @@ Notes:
 `drum-sliderwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -922,8 +922,8 @@ Notes:
 `normal-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -934,8 +934,8 @@ Notes:
 `normal-hitclap.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -946,8 +946,8 @@ Notes:
 `normal-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -958,8 +958,8 @@ Notes:
 `normal-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -970,8 +970,8 @@ Notes:
 `normal-slidertick.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -982,8 +982,8 @@ Notes:
 `normal-sliderslide.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -995,8 +995,8 @@ Notes:
 `normal-sliderwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1008,8 +1008,8 @@ Notes:
 `soft-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1020,8 +1020,8 @@ Notes:
 `soft-hitclap.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1032,8 +1032,8 @@ Mapped as `S:C1` on beatmap skins.
 `soft-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1044,8 +1044,8 @@ Mapped as `S:C1` on beatmap skins.
 `soft-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1056,8 +1056,8 @@ Mapped as `S:C1` on beatmap skins.
 `soft-slidertick.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1068,8 +1068,8 @@ Mapped as `S:C1` on beatmap skins.
 `soft-sliderslide.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1081,8 +1081,8 @@ Notes:
 `soft-sliderwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1094,8 +1094,8 @@ Notes:
 `spinnerspin.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1108,8 +1108,8 @@ Notes:
 `spinnerbonus.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1122,8 +1122,8 @@ Notes:
 `taiko-normal-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1134,8 +1134,8 @@ Notes:
 `taiko-normal-hitclap.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1146,8 +1146,8 @@ Notes:
 `taiko-normal-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1158,8 +1158,8 @@ Notes:
 `taiko-normal-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1170,8 +1170,8 @@ Notes:
 `taiko-soft-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1182,8 +1182,8 @@ Notes:
 `taiko-soft-hitclap.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1194,8 +1194,8 @@ Notes:
 `taiko-soft-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1206,8 +1206,8 @@ Notes:
 `taiko-soft-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1218,8 +1218,8 @@ Notes:
 `taiko-drum-hitnormal.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1231,8 +1231,8 @@ Notes:
 _`taiko-drum-hitclap.wav`_
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1244,8 +1244,8 @@ Notes:
 `taiko-drum-hitfinish.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 
@@ -1257,8 +1257,8 @@ Notes:
 `taiko-drum-hitwhistle.wav`
 
 | Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+| :-: |
+| ![Yes][true] |
 
 Notes:
 

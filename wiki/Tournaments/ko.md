@@ -41,7 +41,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 ### ![](/wiki/shared/mode/catch.png) 역대 osu!catch 월드컵 목록
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-| ------------------------ | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] 중국 | ![][flag_TW] 대만 | ![][flag_CL] 칠레 |
 | Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] 칠레 | ![][flag_TW] 대만 | ![][flag_AR] 아르헨티나/콜롬비아 |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 | ![][flag_SE] 스웨덴 |
@@ -61,7 +61,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 4K World Cup  2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
 | [osu!mania 7K World Cup  2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!mania 4K World Cup  2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
-| [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
+| [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 | ![][flag_CN] 중국 |
 
 커뮤니티
 ----------

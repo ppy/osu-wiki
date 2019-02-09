@@ -7,14 +7,14 @@ Creator
 -------
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Project lead |
 
 Active
 ------
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
@@ -44,7 +44,7 @@ Inactive
 --------
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeping and help, game/site chibi artwork, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Community management |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
@@ -64,7 +64,7 @@ User Groups
 ----------------------
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Users going above and beyond the call to ensure your maps get qualified |
 | [Developers](https://osu.ppy.sh/g/11) | Making the game awesome by adding new features and fixing the bugs |

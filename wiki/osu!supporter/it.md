@@ -38,16 +38,16 @@ Costo
 [Usa questo convertitore di valute](http://www.oanda.com/currency/converter/) oppure [ask Google](https://www.google.com.my/#q=usd+exchange+rate) per verificare il costo nel tuo stato. Il costo dell'osu!supporter è nel dollaro statunitense ("USD$ dollar"). <img src="O!s Decide.jpg" title="fig:Un esempio" alt="Un esempio" width="300" />
 
 | Mesi | Costo {USD$} (sconto sul prezzo) |
-|------|----------------------------------|
-| 1    | 4                                |
-| 2    | 8                                |
-| 4    | 12 (-25%)                        |
-| 6    | 16 (-33%)                        |
-| 8    | 20 (-38%)                        |
-| 9    | 22 (-39%)                        |
-| 10   | 24 (-40%)                        |
-| 12   | 26 (-46% max)                    |
-| 24   | 52 (-46% max)                    |
+| --- | --- |
+| 1 | 4 |
+| 2 | 8 |
+| 4 | 12 (-25%) |
+| 6 | 16 (-33%) |
+| 8 | 20 (-38%) |
+| 9 | 22 (-39%) |
+| 10 | 24 (-40%) |
+| 12 | 26 (-46% max) |
+| 24 | 52 (-46% max) |
 
 -   I costi sono per gli account individuali. Non c'è nessuno sconto per degli osu! supporter tag comprati assieme.
 

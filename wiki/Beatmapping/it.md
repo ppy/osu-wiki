@@ -118,11 +118,11 @@ Bookmark
 --------
 
 | Bookmarking command |
-|:-------------------:|
-|       Ctrl + B      |
-|   Ctrl + Shift + B  |
-|  Ctrl + Right Arrow |
-|  Ctrl + Left Arrow  |
+| :-: |
+| Ctrl + B |
+| Ctrl + Shift + B |
+| Ctrl + Right Arrow |
+| Ctrl + Left Arrow |
 
 **<u>Bookmark is a tool that marks the timeline.</u>** This is useful for planning out the specific places where you may want to place a BPM switch point or reserving space to place a complex design later. Depending on your preference, you may abuse this as you play the song while using the command based on the beat as a rough guide on how the beatmap would be.
 
@@ -266,71 +266,71 @@ Are there any Keyboard Shortcuts?
 
 Yes, and here's a list of them. It is best you print them out for the sake of easier reference.
 
-|            General Shorcuts            |
-|:--------------------------------------:|
-|                  **H**                 |
-|                  **Z**                 |
-|                  **X**                 |
-|            **C / Spacebar**            |
-|            **Left / Right**            |
-|        **Shift + Left / Right**        |
-|              **Ctrl + B**              |
-|              **Ctrl + G**              |
-|          **Ctrl + Left Arrow**         |
-|         **Ctrl + Right Arrow**         |
-|              **Ctrl + L**              |
-|              **Ctrl + S**              |
-|              **Ctrl + N**              |
-|                 **F1**                 |
-|                 **F2**                 |
-|                 **F3**                 |
-|                 **F4**                 |
-|                 **F5**                 |
-|                 **F6**                 |
-|              Compose Mode              |
-|      **Number Keys (1, 2, 3, 4)**      |
-|          **Q, W, E, R,T,Y, L**         |
-|  **Shift + (Q, W, E, R) (Hitsounds)**  |
-|   **Ctrl + (Q, W, E, R) (Hitsounds)**  |
-|               **Delete**               |
-|              **Ctrl + Z**              |
-|              **Ctrl + Y**              |
-|              **Ctrl + A**              |
-|              **Ctrl + X**              |
-|              **Ctrl + C**              |
-|              **Ctrl + V**              |
-|              **Ctrl + D**              |
-|              **Ctrl + G**              |
-|         **Alt (while placing)**        |
-|        **Shift (while placing)**       |
-|       '''Shift (while modifying)       |
-|                  **J**                 |
-|                 *' K*'                 |
-|                  **G**                 |
-|             **Ctrl + 1-4**             |
-|          **Ctrl + Shift + R**          |
-|             **Ctrl + &lt;**            |
-|             **Ctrl + &gt;**            |
-|              *' Ctrl + H*'             |
-|              *' Ctrl + J*'             |
-|               Timing Mode              |
-|                  **T**                 |
+| General Shorcuts |
+| :-: |
+| **H** |
+| **Z** |
+| **X** |
+| **C / Spacebar** |
+| **Left / Right** |
+| **Shift + Left / Right** |
+| **Ctrl + B** |
+| **Ctrl + G** |
+| **Ctrl + Left Arrow** |
+| **Ctrl + Right Arrow** |
+| **Ctrl + L** |
+| **Ctrl + S** |
+| **Ctrl + N** |
+| **F1** |
+| **F2** |
+| **F3** |
+| **F4** |
+| **F5** |
+| **F6** |
+| Compose Mode |
+| **Number Keys (1, 2, 3, 4)** |
+| **Q, W, E, R,T,Y, L** |
+| **Shift + (Q, W, E, R) (Hitsounds)** |
+| **Ctrl + (Q, W, E, R) (Hitsounds)** |
+| **Delete** |
+| **Ctrl + Z** |
+| **Ctrl + Y** |
+| **Ctrl + A** |
+| **Ctrl + X** |
+| **Ctrl + C** |
+| **Ctrl + V** |
+| **Ctrl + D** |
+| **Ctrl + G** |
+| **Alt (while placing)** |
+| **Shift (while placing)** |
+| '''Shift (while modifying) |
+| **J** |
+| *' K*' |
+| **G** |
+| **Ctrl + 1-4** |
+| **Ctrl + Shift + R** |
+| **Ctrl + &lt;** |
+| **Ctrl + &gt;** |
+| *' Ctrl + H*' |
+| *' Ctrl + J*' |
+| Timing Mode |
+| **T** |
 | **Shift (while adjusting BPM/Offset)** |
-|              **Ctrl + B**              |
-|              **Ctrl + P**              |
+| **Ctrl + B** |
+| **Ctrl + P** |
 
 What about the Mouse Controls?
 ------------------------------
 
 Here's a list of them:
 
-|        Mouse Controls        |
-|:----------------------------:|
-|        **Left Click**        |
-|     **Ctrl + Left Click**    |
-|        **Right Click**       |
-|        **Mouse Wheel**       |
+| Mouse Controls |
+| :-: |
+| **Left Click** |
+| **Ctrl + Left Click** |
+| **Right Click** |
+| **Mouse Wheel** |
 | **Ctrl + Alt + Mouse Wheel** |
-|    **Ctrl + Mouse Wheel**    |
-|     **Alt + Mouse Wheel**    |
-|           **Drag**           |
+| **Ctrl + Mouse Wheel** |
+| **Alt + Mouse Wheel** |
+| **Drag** |

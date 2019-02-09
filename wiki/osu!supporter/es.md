@@ -36,16 +36,16 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 [Usa este convertidor de divisas](http://www.oanda.com/currency/converter/) o [utiliza Google](https://www.google.com.my/#q=usd+exchange+rate) para verificar el precio del dolar en tu país. El costo del mismo utiliza el "USD$ dólar".
 
 | Meses | Costo {USD$} (relación con costes reales) |
-|-------|-------------------------------------------|
-| 1     | 4                                         |
-| 2     | 8                                         |
-| 4     | 12 (-25%)                                 |
-| 6     | 16 (-33%)                                 |
-| 8     | 20 (-38%)                                 |
-| 9     | 22 (-39%)                                 |
-| 10    | 24 (-40%)                                 |
-| 12    | 26 (-46% máx.)                            |
-| 24    | 52 (-46% máx.)                            |
+| --- | --- |
+| 1 | 4 |
+| 2 | 8 |
+| 4 | 12 (-25%) |
+| 6 | 16 (-33%) |
+| 8 | 20 (-38%) |
+| 9 | 22 (-39%) |
+| 10 | 24 (-40%) |
+| 12 | 26 (-46% máx.) |
+| 24 | 52 (-46% máx.) |
 
 -   Los costos son por cuenta individual. No hay promociones para regalos en grupo.
 

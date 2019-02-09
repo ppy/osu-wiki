@@ -7,16 +7,16 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 -   Wszystkie zakładki tworzą listę obecnie otwartych kanałów. Aby przejść do danego kanału, naciśnij odpowiadającą mu zakładkę. Naciśnij `+`, by otworzyć listę wszystkich istniejących kanałów.
 -   Kolory nazw użytkowników mają określone znaczenia.
 
-| Kolor | Funkcja  |
-|--------|---------------------|
-| **White**  | Ty    |
-| **Pale**   | Zwykli użytkownicy     |
-| **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter/ "Status donatora osu!")   |
-| **Red**    | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team/ "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team/ "Zespół zapewniania jakości")  |
-| **Green**  | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
-| **Blue**   | Wiadomość prywatna  |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), twórca osu!  |
-| **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")  |
+| Kolor | Funkcja |
+| --- | --- |
+| **White** | Ty |
+| **Pale** | Zwykli użytkownicy |
+| **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter/ "Status donatora osu!") |
+| **Red** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team/ "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team/ "Zespół zapewniania jakości") |
+| **Green** | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
+| **Blue** | Wiadomość prywatna |
+| **Cyan** | [peppy](https://osu.ppy.sh/u/2 "peppy"), twórca osu! |
+| **Pink** | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") |
 
 
 -   Naciśnij przycisk `Show Ticker`, by nowe wiadomości były wyświetlane na dole ekranu, nawet gdy czat jest wyłączony.
@@ -40,18 +40,18 @@ Każdy zalogowany użytkownik posiada swój własny panel w oknie z rozszerzonym
 -   Użycie kółka myszy lub kliknięcie i przeciąganie na przezroczystym polu czatu spowoduje jego przewinięcie.
 -   Użytkownicy bez żadnych informacji w panelach są połączeni za pomocą klientów IRC.
 
-|  Panel   | Opis    |
-|-----------------|----------------|
-| ![Użytkownik jest bezczynny](Chat_Console-Idle.png "Użytkownik jest bezczynny")   | Panel jest ciemnoniebieski. Użytkownik jest bezczynny lub pisze na czacie.   |
-| ![Użytkownik rozgrywa mapę](Chat_Console-Playing.png "Użytkownik rozgrywa mapę")  | Panel jest szary. Użytkownik gra w trybie jednoosobowym.   |
-| ![Użytkownik ogląda innego gracza](Chat_Console-Watching.png "Użytkownik ogląda innego gracza") | Panel jest jasnoniebieski. Użytkownik ogląda powtórkę lub grę innego gracza.  |
+| Panel | Opis |
+| --- | --- |
+| ![Użytkownik jest bezczynny](Chat_Console-Idle.png "Użytkownik jest bezczynny") | Panel jest ciemnoniebieski. Użytkownik jest bezczynny lub pisze na czacie. |
+| ![Użytkownik rozgrywa mapę](Chat_Console-Playing.png "Użytkownik rozgrywa mapę") | Panel jest szary. Użytkownik gra w trybie jednoosobowym. |
+| ![Użytkownik ogląda innego gracza](Chat_Console-Watching.png "Użytkownik ogląda innego gracza") | Panel jest jasnoniebieski. Użytkownik ogląda powtórkę lub grę innego gracza. |
 | ![Użytkownik edytuje beatmapę](Chat_Console-Editing.png "Użytkownik edytuje beatmapę") | Panel jest czerwony. Użytkownik edytuje swoją beatmapę. |
 | ![Użytkownik testuje beatmapę](Chat_Console-Testing.png "Użytkownik testuje mapę") | Panel jest fioletowy. Użytkownik testuje swoją lub czyjąś beatmapę. |
-| ![Użytkownik przesyła beatmapę](Chat_Console-Submitting.png "Użytkownik przesyła beatmapę") | Panel jest turkusowy. Użytkownik przesyła lub aktualizuje swoją beatmapę.  |
-| ![Użytkownik moduje beatmapę](Chat_Console-Modding.png "Użytkownik moduje beatmapę")  | Panel jest zielony. Użytkownik moduje lub edytuje czyjąś beatmapę.  |
+| ![Użytkownik przesyła beatmapę](Chat_Console-Submitting.png "Użytkownik przesyła beatmapę") | Panel jest turkusowy. Użytkownik przesyła lub aktualizuje swoją beatmapę. |
+| ![Użytkownik moduje beatmapę](Chat_Console-Modding.png "Użytkownik moduje beatmapę") | Panel jest zielony. Użytkownik moduje lub edytuje czyjąś beatmapę. |
 | ![Użytkownik znajduje się w trybie wieloosobowym](Chat_Console-Multiplayer.png "Użytkownik znajduje się w trybie wieloosobowym") | Panel jest brązowy. Użytkownik znajduje się w trybie wieloosobowym, ale nie gra. |
 | ![Użytkownik rozgrywa mapę w trybie wieloosobowym](Chat_Console-Multiplaying.png "Użytkownik rozgrywa mapę w trybie wieloosobowym") | Panel jest żółty. Użytkownik gra w trybie wieloosobowym. |
-| ![Użytkownik nieaktywny](Chat_Console-Afk.png "Użytkownik nieaktywny")  | Panel jest czarny. Użytkownik nie wykonał żadnego działania przez dłuzszy czas. | ![Użytkownik jest połączony przez klienta IRC](Chat_Console-IRC.png "Użytkownik jest połączony przez klienta IRC")  | Panel jest ciemnoniebieski i nie wyświetla żadnych informacji. Użytkownik jest połączony przez klienta IRC albo jego statystyki nie są dostępne. |
+| ![Użytkownik nieaktywny](Chat_Console-Afk.png "Użytkownik nieaktywny") | Panel jest czarny. Użytkownik nie wykonał żadnego działania przez dłuzszy czas. | ![Użytkownik jest połączony przez klienta IRC](Chat_Console-IRC.png "Użytkownik jest połączony przez klienta IRC") | Panel jest ciemnoniebieski i nie wyświetla żadnych informacji. Użytkownik jest połączony przez klienta IRC albo jego statystyki nie są dostępne. |
 
 Naciśnięcie na panel użytkownika przywoła listę dostępnych opcji.
 
@@ -72,11 +72,11 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 
 ### /help
 
-| Komenda     | Efekt     | Przykład     | Odpowiedź BanchoBota  | 
-|-------------|-----------|--------------|--------------------------------|
-| `/addfriend [użytkownik]`   | Dodaje `[użytkownika]` do znajomych.      | `/addfriend Amigo` | You are now friends with Amigo. |
-| `/delfriend [użytkownik]`   | Usuwa `[użytkownika]` ze znajomych. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~?  BanchoBot: Nazywam się John Smith.|
+| Komenda | Efekt | Przykład | Odpowiedź BanchoBota | 
+| --- | --- | --- | --- |
+| `/addfriend [użytkownik]` | Dodaje `[użytkownika]` do znajomych. | `/addfriend Amigo` | You are now friends with Amigo. |
+| `/delfriend [użytkownik]` | Usuwa `[użytkownika]` ze znajomych. | `/delfriend Amigo` | You are no longer friends with Amigo. |
+| `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~?  BanchoBot: Nazywam się John Smith. |
 | `/chat [user]` | Otwiera czat z danym użytkownikiem. | `/chat Amigo` | (czat z Amigo zostanie otwarty) | 
 | `/clear` | Czyści wszystkie wiadomości z czatu. | `/clear` | (czyści praktycznie wszystko, co znajduje się na obecnie wybranej zakładce) | 
 | `/ignore [użytkownik][@chp]` | Ignoruje wszystkie wiadomości danego użytkownika podczas tej sesji. Jeżeli po nazwie użytkownika wprowadzisz litery `c`, `h` czy `p` poprzedzone znakiem `@`, możesz ignorować użytkownika odpowiednio na czacie, we wzmiankach lub w prywatnej wiadomości. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} | 
@@ -85,7 +85,7 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 | `/unignore [user]` | Przestaje ignorować danego użytkownika podczas tej sesji. | `/unignore Amigo` | Będziesz już widzieć wiadomości od użytkownika Amigo. | 
 | `/me [action]` | Mówienie o sobie w trzeciej osobie. | `/me uderza w stół` | * John uderza w stół | 
 | `/msg [użytkownik] [wiadomość]` | Wysyła prywatną wiadomość do `[użytkownika]`. | `/msg Amigo Zachorowałem.` | (na czacie z Amigo) John: Zachorowałem. | 
-|`/np`| Wysyła na czat wiadomość z obecnie odtwarzaną lub graną piosenką.| `/np`| * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Modyfikatory utrudniające](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Modyfikatory ułatwiające](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) |
+| `/np` | Wysyła na czat wiadomość z obecnie odtwarzaną lub graną piosenką. | `/np` | * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Modyfikatory utrudniające](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Modyfikatory ułatwiające](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) |
 | `/reply` or `/r` | Odpowiada użytkownikowi, który wysłał ostatnią prywatną wiadomość. | `/r Znasz może jakiegoś dobrego lekarza?` | (na czacie z Amigo) [Poprzednie wiadomości] John: Zachorowałem. Amigo: Naprawdę? John: Znasz może jakiegoś dobrego lekarza? | 
 | `/savelog` | Zapisuje wiadomości z obecnie wybranego kanału w pliku tekstowym. | `/savelog` | (W katalogu z osu! zostanie utworzony folder `Chat`, w którym będą znajdować się wszystkie zapisy wiadomości z czatu) | 
 | `/watch [użytkownik]` | Rozpoczyna oglądanie `[użytkownika]`. | `/watch Amigo` | * Started spectating Amigo. | 
@@ -95,11 +95,11 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 
 ### /keys
 
-| Klawisze     | Efekt                                                   |
-|-------------------|----------------------------------------------------------|
+| Klawisze | Efekt |
+| --- | --- |
 | `Page Up` / `Page Down` | Przesuwa okno czatu. Możesz również użyć kółka myszki. |
-| `Tab`               | Automatycznie dokańcza wpisywaną nazwę użytkownika.                 |
-| `F8`                | Włącza czat.                                     |
-| `F9`                | Włącza rozszerzony czat.                            |
-| `Ctrl` + `C` / `V`        | Kopiuj/Wklej.                                              |
-| `Alt` + `0` - `9`         | Przełącza do wybranej zakładki.                                |
+| `Tab` | Automatycznie dokańcza wpisywaną nazwę użytkownika. |
+| `F8` | Włącza czat. |
+| `F9` | Włącza rozszerzony czat. |
+| `Ctrl` + `C` / `V` | Kopiuj/Wklej. |
+| `Alt` + `0` - `9` | Przełącza do wybranej zakładki. |

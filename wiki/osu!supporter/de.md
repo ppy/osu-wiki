@@ -37,17 +37,17 @@ Kosten
 
 \[www.finanzen.net/waehrungsrechner/ Benutzt diese Webseite zum Umrechnen\] oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet. <img src="O!s Decide.jpg" title="fig:Beispiel hierfür" alt="Beispiel hierfür" width="300" />
 
-| Monate | Kosten ($)    | Kosten (€) (Eurostand nach dem 10.06.2014) |
-|--------|---------------|--------------------------------------------|
-| 1      | 4             | | 2.95                                     |
-| 2      | 8             | | 5.90                                     |
-| 4      | 12 (-25%)     | | 8.85                                     |
-| 6      | 16 (-33%)     | | 11.81                                    |
-| 8      | 20 (-38%)     | | 14.76                                    |
-| 9      | 22 (-39%)     | | 16.23                                    |
-| 10     | 24 (-40%)     | 17.71                                      |
-| 12     | 26 (-46% max) | | 19.19                                    |
-| 24     | 52 (-46% max) | | 38.38                                    |
+| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
+| --- | --- | --- |
+| 1 | 4 | | 2.95 |
+| 2 | 8 | | 5.90 |
+| 4 | 12 (-25%) | | 8.85 |
+| 6 | 16 (-33%) | | 11.81 |
+| 8 | 20 (-38%) | | 14.76 |
+| 9 | 22 (-39%) | | 16.23 |
+| 10 | 24 (-40%) | 17.71 |
+| 12 | 26 (-46% max) | | 19.19 |
+| 24 | 52 (-46% max) | | 38.38 |
 
 -   Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
 

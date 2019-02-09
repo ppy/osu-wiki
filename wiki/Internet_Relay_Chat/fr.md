@@ -37,13 +37,13 @@ Si vous ne souhaitez pas avoir à vous authentifier à chaque connexion, vous po
 Les commandes basiques de l'IRC
 ===============================
 
-| Description                       | Commandes              |
-|-----------------------------------|------------------------|
-| Joindre un canal (p. ex. \#lobby) | /join \#nomducanal     |
-| Quitter un canal                  | /part                  |
-| Ignorer un pseudo                 | /ignore nomdujoueur    |
-| Changer de pseudo                 | /nick pseudo           |
-| Réaliser une action               | /me fait quelque chose |
+| Description | Commandes |
+| --- | --- |
+| Joindre un canal (p. ex. \#lobby) | /join \#nomducanal |
+| Quitter un canal | /part |
+| Ignorer un pseudo | /ignore nomdujoueur |
+| Changer de pseudo | /nick pseudo |
+| Réaliser une action | /me fait quelque chose |
 
 Désactivation des messages de connexion/déconnexion
 ===================================================
@@ -58,15 +58,15 @@ S'il n'y a pas beaucoup d'activité sur le canal en question, ce n'est pas gêna
 Désactivation des messages de connexion/déconnexion dans les clients les plus connus
 ------------------------------------------------------------------------------------
 
-| Client                                    | Commandes                                                                                                                                                                                                             |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Faites un clic droit sur ​​le canal souhaité, puis cochez la case "Masquer les messages de connexion/déconnexion " dans le sous-menu Paramètres.  
+| Client | Commandes |
+| --- | --- |
+| [HexChat](http://hexchat.github.io/) | a. Faites un clic droit sur ​​le canal souhaité, puis cochez la case "Masquer les messages de connexion/déconnexion " dans le sous-menu Paramètres.  
 
                                              b. Allez dans Options » Préférences, sous Discussion » Général, cochez la case "Masquer les messages de connexion/déconnexion".                                                                                        |
-| [Irssi](http://www.irssi.org)             | Tapez /ignore -channels \#nomducanal \* JOINS PARTS QUITS                                                                                                                                                             |
-| [KVIrc](http://www.kvirc.net)             | Reportez-vous à [ce lien](http://www.kvirc.ru/forum/?topic=609.0) menant aux forums officiels de KVIrc.                                                                                                               |
-| [mIRC](http://www.mirc.com/)              | Dans Outils » Options » sélectionnez "IRC". Cliquez sur le bouton "Evènements". Changez "connexions", "déconnexions" et "surnoms" à "Hide". [Plus d'informations ici](http://i.clintecker.com/disable-irc-msgs.html). |
-| [Quassel IRC](http://www.quassel-irc.org) | Faites un clic droit sur ​​la fenêtre de discussion, choisissez "Masquer les évènements" puis "Connexion/déconnexion".                                                                                                |
-| [XChat](http://www.xchat.org)             | Faites un clic droit sur le canal désiré. Dans le menu, décochez "Montrer les messages de connexion et déconnexion".                                                                                                  |
+| [Irssi](http://www.irssi.org) | Tapez /ignore -channels \#nomducanal \* JOINS PARTS QUITS |
+| [KVIrc](http://www.kvirc.net) | Reportez-vous à [ce lien](http://www.kvirc.ru/forum/?topic=609.0) menant aux forums officiels de KVIrc. |
+| [mIRC](http://www.mirc.com/) | Dans Outils » Options » sélectionnez "IRC". Cliquez sur le bouton "Evènements". Changez "connexions", "déconnexions" et "surnoms" à "Hide". [Plus d'informations ici](http://i.clintecker.com/disable-irc-msgs.html). |
+| [Quassel IRC](http://www.quassel-irc.org) | Faites un clic droit sur ​​la fenêtre de discussion, choisissez "Masquer les évènements" puis "Connexion/déconnexion". |
+| [XChat](http://www.xchat.org) | Faites un clic droit sur le canal désiré. Dans le menu, décochez "Montrer les messages de connexion et déconnexion". |
 
 Si votre client ne figure pas ici, consultez la documentation de votre logiciel.

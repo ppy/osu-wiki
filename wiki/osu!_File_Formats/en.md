@@ -6,24 +6,24 @@ osu!-specific file format
 
 ### Archive
 
-| File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | Executable beatmap file.                                                                         |
-| [.osk][Osk Link]       | Executable skin file.                                                                            |
-| [.db][Db Link]         | Cached information.                                                                              |
+| File format | Usage |
+| --- | --- |
+| [.osz][Osz Link] | Executable beatmap file. |
+| [.osk][Osk Link] | Executable skin file. |
+| [.db][Db Link] | Cached information. |
 
 ### [Beatmap Editor](/wiki/Beatmap_Editor)
 
-| File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                     |
+| File format | Usage |
+| --- | --- |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]       | Executable replay file (cannot be decompressed).                                                 |
+| File format | Usage |
+| --- | --- |
+| [.osr][Osr Link] | Executable replay file (cannot be decompressed). |
 
 Creating .osz/.osk file
 ------------------------

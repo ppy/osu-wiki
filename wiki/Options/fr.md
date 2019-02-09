@@ -97,16 +97,16 @@ Graphismes
 
 Un redémarrage sera probablement requis pour appliquer les modifications apportées par ces options.
 
-| scope="col" width="15%" colspan=2| Nom                                         | scope="col" width="35%" colspan=3| Effet                                                                                                             |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| colspan=2|OpenGL                                                               | colspan=3|Cochez cette option si vous :  
+| scope="col" width="15%" colspan=2 | Nom | scope="col" width="35%" colspan=3 | Effet |
+| --- | --- |
+| colspan=2 | OpenGL | colspan=3 |Cochez cette option si vous :  
 
                                                                                   -   N'avez pas de carte graphique supportant les shaders
                                                                                   -   Subissez des lags intenses en cours de jeu
                                                                                   -   Utilisez une carte graphique ne supportant pas DirectX.                                                                                           |
-| colspan=2|DirectX (Par défaut)                                                 | colspan=3|Utilise les shaders pour améliorer grandement les graphismes et les effets visuels, mais peut ne pas fonctionner sur d'anciennes machines. |
-| colspan=5|Limiteur de FPS: (contrôle le nombre d'images maximales par seconde) |
-| 60fps (VSync)                                                                  | 60fps (latence lente)                                                                                                                                |
+| colspan=2 | DirectX (Par défaut) | colspan=3 | Utilise les shaders pour améliorer grandement les graphismes et les effets visuels, mais peut ne pas fonctionner sur d'anciennes machines. |
+| colspan=5 | Limiteur de FPS: (contrôle le nombre d'images maximales par seconde) |
+| 60fps (VSync) | 60fps (latence lente) |
 ||
 
 Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limiter le nombre de FPS pour prévenir les surchauffes et la consommation excessive de la batterie comme mentionné sur [ce topic](http://osu.ppy.sh/forum/t/82605) (en anglais).
@@ -115,12 +115,12 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 
 ### Résolution de l'écran
 
-| colspan=3|Selectionne une résolution:- |
-|----------------------------------------|
-| Propriété                              |
-| rowspan=2|Standard:                    |
-| 1024 x 768 (Sans bordure)              |
-| Écran large:                           |
+| colspan=3 | Selectionne une résolution:- |
+| --- |
+| Propriété |
+| rowspan=2 | Standard: |
+| 1024 x 768 (Sans bordure) |
+| Écran large: |
 ||
 
 -   Mode plein écran (la fenêtre d'osu! va prendre tout l'écran)
@@ -170,10 +170,10 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 </tbody>
 </table>
 
-| colspan=2 rowspan=3|Format des captures d'écran (format graphique des images). |
-|--------------------------------------------------------------------------------|
-| PNG (Sans perte)                                                               |
-| JPEG (Plus léger) \[Default\]                                                  |
+| colspan=2 rowspan=3 | Format des captures d'écran (format graphique des images). |
+| --- |
+| PNG (Sans perte) |
+| JPEG (Plus léger) \[Default\] |
 
 ### Menu principal
 
@@ -207,14 +207,14 @@ Gameplay
 
 ### Général
 
-| Assombrir l'arrière-plan                                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Assombrir l'arrière-plan |
+| --- |
 | L'ajuster va forcer le jeu (y compris l*'[éditeur de Beatmap](Beatmap_Editor "wikilink")*) à assombrir l'arrière-plan. Mettez-le à 0% si vous faites des Storyboards dans l'onglet [Design](Design "wikilink") de l'éditeur. |
 
-| colspan=4|Barre de progression (pour configurer où et comment la barre de prog. va s'afficher). |
-|-------------------------------------------------------------------------------------------------|
-| \[1\] En haut à droite (disque) \[Défaut\]                                                      |
-| <img src="OP Pie.jpg" title="framless" alt="framless" width="200" />                            |
+| colspan=4 | Barre de progression (pour configurer où et comment la barre de prog. va s'afficher). |
+| --- |
+| \[1\] En haut à droite (disque) \[Défaut\] |
+| <img src="OP Pie.jpg" title="framless" alt="framless" width="200" /> |
 
 <img src="OP PBP.jpg" title="fig:Placement de la barre de progression" alt="Placement de la barre de progression" width="200" /> <img src="Input key overlay.jpg" title="fig:Indicateur de touches pressées" alt="Indicateur de touches pressées" width="200" />
 
@@ -327,8 +327,8 @@ Le contrôleur de volume permet de modifier le volume du jeu.
 -   Le contrôleur "Bruitages" affecte seulement les bruitages, comme ceux produits lorsque vous cliquez sur un cercle en jeu.
 -   Notez que le contrôleur "Général" peut être modifié avec les touches directionnelles Haut et Bas de votre clavier.
 
-| Ignorer les bruitages intégrés                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ignorer les bruitages intégrés |
+| --- |
 | Si cette option est activée, les bruitages des skins intégrés aux beatmaps seront ignorés et les bruitages de votre skin seront utilisés à la place. |
 
 ### Ajustement audio

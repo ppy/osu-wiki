@@ -144,9 +144,9 @@ En osu!, las ruletas se han atenuado para no ser una molestia de completar. La c
 
 Los controles predeterminados para osu! son:-
 
-Mouse|Teclado|Tableta/Pantalla tactil
----|---|---|
-Clic izquierdo(M1) / Clic derecho(M2)|`Z`(K1) / `X`(K2)|Tocar la pantalla(M1)
+Mouse| Teclado |Tableta/Pantalla tactil
+---| --- | --- |
+Clic izquierdo(M1) / Clic derecho(M2)| `Z`(K1) / `X`(K2) |Tocar la pantalla(M1)
 
 Los objetos golpeables en osu! aceptarán cualquier entrada del dispositivo de entrada, siempre que cada objeto golpeable se toque a tiempo.
 

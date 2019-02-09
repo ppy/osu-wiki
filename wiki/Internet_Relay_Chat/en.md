@@ -25,11 +25,11 @@ Once you have a client, you need to set up the server settings.
 
 Basic IRC Commands
 ------------------
-| Command              | Description                           |
-| -------------------- | ------------------------------------- |
-| `/join <#channel>`   | Joins a channel                       |
-| `/part <#channel>`   | Leaves a channel                      |
-| `/me <action>`       | Sends an action message               |
+| Command | Description |
+| --- | --- |
+| `/join <#channel>` | Joins a channel |
+| `/part <#channel>` | Leaves a channel |
+| `/me <action>` | Sends an action message |
 | `/ignore <username>` | Ignores a user (hides their messages) |
 
 
@@ -49,16 +49,16 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 ```
 
 ### Disabling Join/Part Messages In Common Clients
-| IRC Client                                | Description |
-| ----------------------------------------- | ----------- |
-| [HexChat](http://hexchat.github.io/)      | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
-| [ircII](http://www.eterna.com.au/ircii/)  | Type `/ignore * crap` |
-| [Irssi](http://www.irssi.org)             | Type `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](http://www.weechat.org)         | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Note:** Replace **username** to your osu! username.
-| [KVIrc](http://www.kvirc.net)             | Visit [this thread](http://www.kvirc.ru/forum/?topic=609.0) in the official KVIrc forums. |
-| [mIRC](http://www.mirc.com/)              | Go to mIRC Options (Tools - Options / Alt + O), under IRC tree, click "Events..." button and change Joins and Parts to "Hide" |
+| IRC Client | Description |
+| --- | --- |
+| [HexChat](http://hexchat.github.io/) | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
+| [ircII](http://www.eterna.com.au/ircii/) | Type `/ignore * crap` |
+| [Irssi](http://www.irssi.org) | Type `/ignore -channels #somechannel * JOINS PARTS QUITS` |
+| [Weechat](http://www.weechat.org) | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Note:** Replace **username** to your osu! username.
+| [KVIrc](http://www.kvirc.net) | Visit [this thread](http://www.kvirc.ru/forum/?topic=609.0) in the official KVIrc forums. |
+| [mIRC](http://www.mirc.com/) | Go to mIRC Options (Tools - Options / Alt + O), under IRC tree, click "Events..." button and change Joins and Parts to "Hide" |
 | [Quassel IRC](http://www.quassel-irc.org) | Right click on the chatting window, then choose Hide Events » Join/Part/Quit. |
-| [XChat](http://www.xchat.org)             | Type `/set irc_conf_mode 1` (or [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels). |
+| [XChat](http://www.xchat.org) | Type `/set irc_conf_mode 1` (or [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels). |
 
 If your client is not listed here refer to its documentation, most clients have a way to do this.
 

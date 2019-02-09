@@ -11,15 +11,15 @@ Hvordan registrerer jeg meg?
 
 <span style="font-size:18px">2. Fyll inn skjemaet og trykk "Continue" </span>
 
-| <b>Legend</b>                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Username**                                                                                                                       |
-| a. Max 15 tegn                                                                                                                        |
+| <b>Legend</b> |
+| --- |
+| **1. Username** |
+| a. Max 15 tegn |
 | b. Bare bokstaver og tall ("a-z, A-Z, 0-9"), understreker ("\_"), rette paranteser, ("\[" and "\]") og bindestreker ("-") er tillatt. |
-| **2. E-mail Address**                                                                                                                 |
-| **3. <b>Password**                                                                                                                    |
-| **4. Note**                                                                                                                           |
-| **5. Continue button**                                                                                                                |
+| **2. E-mail Address** |
+| **3. <b>Password** |
+| **4. Note** |
+| **5. Continue button** |
 
 <span style="font-size:18px">3. Logg inn på osu! når du er ferdig! </span>
 
@@ -27,11 +27,11 @@ Hvordan registrerer jeg meg?
 
 <img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
 
-| Legend                 |
-|------------------------|
+| Legend |
+| --- |
 | **1. osu! executable** |
-| **2. Innstillinger**   |
-| **3. Brukerpanel**     |
+| **2. Innstillinger** |
+| **3. Brukerpanel** |
 
 </center>
 Hva gjør jeg nå?

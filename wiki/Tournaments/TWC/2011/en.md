@@ -13,21 +13,21 @@ The **osu!taiko World Cup 2011** (***TWC #1***) is a country-based osu!taiko tou
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
-| Registration Phase   | 2011-03-12/2011-04-09 |
+| --: | :-- |
+| Registration Phase | 2011-03-12/2011-04-09 |
 | Group Stage - Week 1 | 2011-04-15/2011-04-17 |
 | Group Stage - Week 2 | 2011-04-22/2011-04-26 |
 | Group Stage - Week 3 | 2011-04-29/2011-05-01 |
-| Quarterfinals        | 2011-05-07/2011-05-08 |
-| Semifinals           | 2011-05-14/2011-05-15 |
-| Finals               | 2011-05-22/2011-05-29 |
+| Quarterfinals | 2011-05-07/2011-05-08 |
+| Semifinals | 2011-05-14/2011-05-15 |
+| Finals | 2011-05-22/2011-05-29 |
 
 ## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter and a profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter |
@@ -52,7 +52,7 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 ## Participants
 
 | | Team | Member |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_BR] ![][flag_CL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
 | ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), small-qiang |
 | ![][flag_FI] | **Finland** | **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
@@ -80,12 +80,12 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 ## Groups
 
 | Group A | Group B | Group C | Group D |
-|---|---|---|---|
-| ![][flag_CN] China               | ![][flag_FR] France         | ![][flag_BR] ![][flag_CL] Brazil-Chile | ![][flag_FI] Finland       |
-| ![][flag_DE] Germany A           | ![][flag_KR] South Korea A  | ![][flag_HK] Hong Kong      | ![][flag_DE] Germany B     |
-| ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_TW] Taiwan         | ![][flag_PL] Poland         | ![][flag_JP] Japan         |
-| ![][flag_MY] Malaysia            | ![][flag_GB] United Kingdom | ![][flag_US] United States  | ![][flag_KR] South Korea B |
-| ![][flag_PH] Philippines         |                             |                             |                            |
+| --- | --- | --- | --- |
+| ![][flag_CN] China | ![][flag_FR] France | ![][flag_BR] ![][flag_CL] Brazil-Chile | ![][flag_FI] Finland |
+| ![][flag_DE] Germany A | ![][flag_KR] South Korea A | ![][flag_HK] Hong Kong | ![][flag_DE] Germany B |
+| ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_JP] Japan |
+| ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
+| ![][flag_PH] Philippines |                             |                             |                            |
 
 ## Mappools
 
@@ -228,95 +228,95 @@ The osu!taiko World Cup 2011 was ran by various community members by distributin
 ### Finals
 
 | 2011-05-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_US] United States | [#1](http://osu.ppy.sh/community/matches/762010) |
 
 | 2011-05-29 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/809078) |
 
 ### Semifinals
 
 | 2011-05-14 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| China ![][flag_CN]      | 1 | **4** | ![][flag_JP] **Japan**     | [#1](http://osu.ppy.sh/community/matches/714056) |
+| --: | :-: | :-: | :-- | :-: |
+| China ![][flag_CN] | 1 | **4** | ![][flag_JP] **Japan** | [#1](http://osu.ppy.sh/community/matches/714056) |
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | -Win by default- |
 
 ### Quarterfinals
 
 | 2011-05-07 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Taiwan** ![][flag_TW]    | **4** | 0 | ![][flag_IT] ![][flag_NL] Italy-Netherlands | [#1](http://osu.ppy.sh/community/matches/669276) |
-| **China** ![][flag_CN]     | **4** | 3 | ![][flag_GB] United Kingdom      | [#1](http://osu.ppy.sh/community/matches/670326) |
-| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States**   | -Win by default- |
+| --: | :-: | :-: | :-- | :-: |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_IT] ![][flag_NL] Italy-Netherlands | [#1](http://osu.ppy.sh/community/matches/669276) |
+| **China** ![][flag_CN] | **4** | 3 | ![][flag_GB] United Kingdom | [#1](http://osu.ppy.sh/community/matches/670326) |
+| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States** | -Win by default- |
 
 | 2011-05-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](http://osu.ppy.sh/community/matches/677605) |
 
 ### Group Stage - Week 3
 
 | 2011-04-29 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Germany A** ![][flag_DE] | **3** | 0 | ![][flag_MY] Malaysia | [#1](http://osu.ppy.sh/community/matches/620058) |
 
 | 2011-04-30 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Hong Kong** ![][flag_HK]           | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile     | [#1](http://osu.ppy.sh/community/matches/621893) |
-| South Korea A ![][flag_KR]           | 1 | **3** | ![][flag_TW] **Taiwan**         | [#1](http://osu.ppy.sh/community/matches/625054) |
-| Italy-Netherlands ![][flag_IT] ![][flag_NL]     | 1 | **3** | ![][flag_CN] **China**          | [#1](http://osu.ppy.sh/community/matches/625361) |
-| Germany B ![][flag_DE]               | 0 | **3** | ![][flag_KR] **South Korea B**  | [#1](http://osu.ppy.sh/community/matches/625672) |
-| **Italy-Netherlands** ![][flag_IT] ![][flag_NL] | **3** | 1 | ![][flag_PH] Philippines        | [#1](http://osu.ppy.sh/community/matches/625361) |
-| France ![][flag_FR]                  | 0 | **3** | ![][flag_GB] **United Kingdom** | [#1](http://osu.ppy.sh/community/matches/620058) |
-| **United States** ![][flag_US]       | **3** | 0 | ![][flag_PL] Poland             | [#1](http://osu.ppy.sh/community/matches/628633) |
+| --: | :-: | :-: | :-- | :-: |
+| **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](http://osu.ppy.sh/community/matches/621893) |
+| South Korea A ![][flag_KR] | 1 | **3** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/625054) |
+| Italy-Netherlands ![][flag_IT] ![][flag_NL] | 1 | **3** | ![][flag_CN] **China** | [#1](http://osu.ppy.sh/community/matches/625361) |
+| Germany B ![][flag_DE] | 0 | **3** | ![][flag_KR] **South Korea B** | [#1](http://osu.ppy.sh/community/matches/625672) |
+| **Italy-Netherlands** ![][flag_IT] ![][flag_NL] | **3** | 1 | ![][flag_PH] Philippines | [#1](http://osu.ppy.sh/community/matches/625361) |
+| France ![][flag_FR] | 0 | **3** | ![][flag_GB] **United Kingdom** | [#1](http://osu.ppy.sh/community/matches/620058) |
+| **United States** ![][flag_US] | **3** | 0 | ![][flag_PL] Poland | [#1](http://osu.ppy.sh/community/matches/628633) |
 
 | 2011-05-01 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Malaysia ![][flag_MY]  |  -  |  -  | ![][flag_PH] Philippines   | -Cancelled- |
-| China ![][flag_CN]     | 2 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/633234) |
-| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland       | [#1](http://osu.ppy.sh/community/matches/633728) |
+| --: | :-: | :-: | :-- | :-: |
+| Malaysia ![][flag_MY] | - | - | ![][flag_PH] Philippines | -Cancelled- |
+| China ![][flag_CN] | 2 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/633234) |
+| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland | [#1](http://osu.ppy.sh/community/matches/633728) |
 
 ### Group Stage - Week 2
 
 | 2011-04-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| United Kingdom ![][flag_GB]    | 2 | **3** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/570806) |
+| --: | :-: | :-: | :-- | :-: |
+| United Kingdom ![][flag_GB] | 2 | **3** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/570806) |
 | **South Korea A** ![][flag_KR] | **3** | 0 | ![][flag_FR] France | [#1](http://osu.ppy.sh/community/matches/571429) |
 
 | 2011-04-23 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Hong Kong** ![][flag_HK]  | **3** | 0 | ![][flag_US] United States | [#1](http://osu.ppy.sh/community/matches/574922) |
+| --: | :-: | :-: | :-- | :-: |
+| **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_US] United States | [#1](http://osu.ppy.sh/community/matches/574922) |
 
 | 2011-04-24 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland   | [#1](http://osu.ppy.sh/community/matches/587957) |
-| **Japan** ![][flag_JP]         | **3** | 0 | ![][flag_DE] Germany B | [#1](http://osu.ppy.sh/community/matches/588494) |
+| --: | :-: | :-: | :-- | :-: |
+| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland | [#1](http://osu.ppy.sh/community/matches/587957) |
+| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_DE] Germany B | [#1](http://osu.ppy.sh/community/matches/588494) |
 
 | 2011-04-26 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Germany A ![][flag_DE]      | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/602804) |
-| Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland**              | -Win by default- |
+| --: | :-: | :-: | :-- | :-: |
+| Germany A ![][flag_DE] | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/602804) |
+| Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | -Win by default- |
 
 ### Group Stage - Week 1
 
 | 2011-04-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **United Kingdom** ![][flag_GB] | **3** | 1 | ![][flag_KR] South Korea A | [#1](http://osu.ppy.sh/community/matches/528963) |
 
 | 2011-04-16 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Poland ![][flag_PL]            | 1 | **3** | ![][flag_HK] **Hong Kong**           | [#1](http://osu.ppy.sh/community/matches/534263) |
-| Philippines ![][flag_PH]       | 1 | **3** | ![][flag_CN] **China**               | [#1](http://osu.ppy.sh/community/matches/534652) |
-| Malaysia ![][flag_MY]          | 0 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/535028) |
-| **Taiwan** ![][flag_TW]        | **3** | 2 | ![][flag_FR] France                  | [#1](http://osu.ppy.sh/community/matches/535848) |
-| Finland ![][flag_FI]           | 0 | **3** | ![][flag_DE] **Germany B**           | [#1](http://osu.ppy.sh/community/matches/537311) |
-| **United States** ![][flag_US] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile          | [#1](http://osu.ppy.sh/community/matches/538664) |
+| --: | :-: | :-: | :-- | :-: |
+| Poland ![][flag_PL] | 1 | **3** | ![][flag_HK] **Hong Kong** | [#1](http://osu.ppy.sh/community/matches/534263) |
+| Philippines ![][flag_PH] | 1 | **3** | ![][flag_CN] **China** | [#1](http://osu.ppy.sh/community/matches/534652) |
+| Malaysia ![][flag_MY] | 0 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](http://osu.ppy.sh/community/matches/535028) |
+| **Taiwan** ![][flag_TW] | **3** | 2 | ![][flag_FR] France | [#1](http://osu.ppy.sh/community/matches/535848) |
+| Finland ![][flag_FI] | 0 | **3** | ![][flag_DE] **Germany B** | [#1](http://osu.ppy.sh/community/matches/537311) |
+| **United States** ![][flag_US] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](http://osu.ppy.sh/community/matches/538664) |
 
 | 2011-04-17 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan         | [#1](http://osu.ppy.sh/community/matches/542259) |
-| **China** ![][flag_CN]         | **3** | 0 | ![][flag_MY] Malaysia      | [#1](http://osu.ppy.sh/community/matches/542705) |
-| Philippines ![][flag_PH]       | 0 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/543150) |
+| --: | :-: | :-: | :-- | :-: |
+| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan | [#1](http://osu.ppy.sh/community/matches/542259) |
+| **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia | [#1](http://osu.ppy.sh/community/matches/542705) |
+| Philippines ![][flag_PH] | 0 | **3** | ![][flag_DE] **Germany A** | [#1](http://osu.ppy.sh/community/matches/543150) |
 
 ## Ruleset
 

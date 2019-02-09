@@ -182,20 +182,20 @@ Arrangement de touches _Symétrique_ (Pour le style _DJMAX_)
 - Le bouton _Spécial_ — `leftShift` \[en utilisant le style spécial\] et `leftCtrl` \[arrangement alternatif\].
 
 Touche | G | C | D
- :--:| :--| :--:|---:
-1K|-|K5|
-2K|K4|-|K6
-3K|K4|K5|K6
-4K|K3, K4|-|K6, K7
-5K|K3, K4|K5|K6, K7
-6K|K2, K3, K4|-|K6, K7, K8
-6K(L)|**S1**, K3, K4|K5|K6, K7
-6K(R)|K3, K4|K5|K6, K7, **S1**
-7K|K2, K3, K4|K5|K6, K7, K8
-8K|K1, K2, K3, K4|-|K6, K7, K8, K9
-8K(L)|**S1**, K2, K3, K4|K5|K6, K7, K8
-8K(R)|K2, K3, K4|K5|K6, K7, K8, **S1**
-9K|K1, K2, K3, K4|K5|K6, K7, K8, K9
+ :--:| :-- | :-: |---:
+1K| - | K5 |
+2K| K4 | - |K6
+3K| K4 | K5 |K6
+4K| K3, K4 | - |K6, K7
+5K| K3, K4 | K5 |K6, K7
+6K| K2, K3, K4 | - |K6, K7, K8
+6K(L)| **S1**, K3, K4 | K5 |K6, K7
+6K(R)| K3, K4 | K5 |K6, K7, **S1**
+7K| K2, K3, K4 | K5 |K6, K7, K8
+8K| K1, K2, K3, K4 | - |K6, K7, K8, K9
+8K(L)| **S1**, K2, K3, K4 | K5 |K6, K7, K8
+8K(R)| K2, K3, K4 | K5 |K6, K7, K8, **S1**
+9K| K1, K2, K3, K4 | K5 |K6, K7, K8, K9
 
 Arrangement des touches pour _le Droite à Gauche_ (pour le style _Beatmania IIDX_)
 - De bas à gauche puis encore une fois : (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 n'est pas utilisée\]
@@ -230,31 +230,31 @@ Arrangement de touches _Symétrique_ pour le second set
 **Le tableau ci-dessous est basé sur le mod xK utilisé avec le mod Co-Op.**
 
 Key | PL | PC | PR | SL | SC | SR
- :--:| :--| :--:|---:| :--| :--:|---:
-1K Co-op|-|K5|-|-|B5|-
-2K Co-op|K4|-|K6|B4|-|B6
-3K Co-op|K4|K5|K6|B4|B5|B6
-4K Co-op|K3, K4|-|K6, K7|B3, B4|-|B6, B7
-5K Co-op|K3, K4|K5|K6, K7|B3, B4|B5|B6, B7
-6K Co-op|K2, K3, K4|-|K6, K7, K8|B2, B3, B4|-|B6, B7, B8
-6K(L) Co-op|**S1**, K3, K4|K5|K6, K7|B3, B4|B5|B6, B7, **X1**
-6K(R) Co-op|K3, K4|K5|K6, K7, **S1**|**X1**, B3, B4|B5|B6, B7
-7K Co-op|K2, K3, K4|K5|K6, K7, K8|B2, B3, B4|B5|B6, B7, B8
-8K Co-op|K1, K2, K3, K4|-|K6, K7, K8, K9|B1, B2, B3, B4|-|B6, B7, B8, B9
-8K(L) Co-op|**S1**, K2, K3, K4|K5|K6, K7, K8|B2, B3, B4|B5|B6, B7, B8, **X1**
-8K(R) Co-op|K2, K3, K4|K5|K6, K7, K8, **S1**|**X1**, B2, B3, B4|B5|B6, B7, B8
-9K Co-op|K1, K2, K3, K4|K5|K6, K7, K8, K9|B1, B2, B3, B4|B5|B6, B7, B8, B9
+ :--:| :-- | :-: | --: | :-- | :-: |---:
+1K Co-op| - | K5 | - | - | B5 |-
+2K Co-op| K4 | - | K6 | B4 | - |B6
+3K Co-op| K4 | K5 | K6 | B4 | B5 |B6
+4K Co-op| K3, K4 | - | K6, K7 | B3, B4 | - |B6, B7
+5K Co-op| K3, K4 | K5 | K6, K7 | B3, B4 | B5 |B6, B7
+6K Co-op| K2, K3, K4 | - | K6, K7, K8 | B2, B3, B4 | - |B6, B7, B8
+6K(L) Co-op| **S1**, K3, K4 | K5 | K6, K7 | B3, B4 | B5 |B6, B7, **X1**
+6K(R) Co-op| K3, K4 | K5 | K6, K7, **S1** | **X1**, B3, B4 | B5 |B6, B7
+7K Co-op| K2, K3, K4 | K5 | K6, K7, K8 | B2, B3, B4 | B5 |B6, B7, B8
+8K Co-op| K1, K2, K3, K4 | - | K6, K7, K8, K9 | B1, B2, B3, B4 | - |B6, B7, B8, B9
+8K(L) Co-op| **S1**, K2, K3, K4 | K5 | K6, K7, K8 | B2, B3, B4 | B5 |B6, B7, B8, **X1**
+8K(R) Co-op| K2, K3, K4 | K5 | K6, K7, K8, **S1** | **X1**, B2, B3, B4 | B5 |B6, B7, B8
+9K Co-op| K1, K2, K3, K4 | K5 | K6, K7, K8, K9 | B1, B2, B3, B4 | B5 |B6, B7, B8, B9
 
 **Le tableau ci-dessous ne s'applique qu'aux beatmaps spécifiques à osu!mania.
 Seulement les nombre impairs spécifiques aux xK sont mentionnés.
 Reportez-vous au premier tableau pour les numéros pairs (pour les spécifiques au 4K, se référer à 2K Co-op et ainsi de suite)**
 
 Key | PL | PC | PR | SL | SC | SR
- :--:| :--| :--:|---:| :--| :--:|---:
-3K|K4|-|K6|-|B5|-
-5K|K4|K5|K6|B4|-|B6
-7K|K3, K4|-|K6, K7|B4|B5|B6
-9K|K3, K4|-|K6, K7|B3, B4|B5|B6, B7
+ :--:| :-- | :-: | --: | :-- | :-: |---:
+3K| K4 | - | K6 | - | B5 |-
+5K| K4 | K5 | K6 | B4 | - |B6
+7K| K3, K4 | - | K6, K7 | B4 | B5 |B6
+9K| K3, K4 | - | K6, K7 | B3, B4 | B5 |B6, B7
 
 ## Scoring
 

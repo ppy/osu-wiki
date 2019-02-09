@@ -8,7 +8,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 - Die Farben der Benutzernamen im Chat haben verschiedene Bedeutungen:
 
  | Farbe | Bedeutung |
- | ----- | --------- |
+ | --- | --- |
  | **Weiß** | Du |
  | **Bleich** | Andere Spieler |
  | **Gelb** | [osu!-Supporter](/wiki/osu!supporter/ "osu!-Supporter") |
@@ -48,7 +48,7 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
 - `World Map`-Tab: Zeigt eine Weltkarte an, auf der man den Standort der aktiven Spieler sehen kann.
 
  | Panel-Farben | Erklärung |
- | ------------ | --------- |
+ | --- | --- |
  | ![Spieler ist anwesend](Chat_Console-Idle.png "Spieler ist anwesend") | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten. |
  | ![Spieler spielt](Chat_Console-Playing.png "Spieler spielt") | **Grau** - Der Spieler spielt gerade eine Beatmap im Solomodus. |
  | ![Spieler schaut jemandem zu](Chat_Console-Watching.png "Spieler schaut jemanden zu") | **Hellblau** - Der Spieler sieht entweder jemandem live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
@@ -104,7 +104,7 @@ Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie 
 ### /keys
 
  | Tasten | Effekt |
- | ------ | ------ |
+ | --- | --- |
  | `Bild Oben` / `Bild Unten` | Im Chatfenster scrollen. |
  | `Tab` | Nutzernamen vervollständigen (nur, wenn derjenige online ist). |
  | `F8` | Chatkonsole ein-/ausschalten. |

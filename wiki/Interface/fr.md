@@ -110,14 +110,14 @@ Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR
     -   Note: Un score réalisé en mode Multi n'est pas enregistré dans le classement local.
 -   Un message "Not yet uploaded" indique que vous êtes le créateur de la beatmap et que vous ne l'avez pas encore soumise sur le site osu!.
 
-| colspan=2|Tableau de classement |
-|---------------------------------|
-| Nom                             |
-| Local Ranking                   |
-| Country Ranking                 |
-| Global Ranking                  |
-| Global Ranking (Selected Mod)   |
-| Friend Ranking                  |
+| colspan=2 | Tableau de classement |
+| --- |
+| Nom |
+| Local Ranking |
+| Country Ranking |
+| Global Ranking |
+| Global Ranking (Selected Mod) |
+| Friend Ranking |
 
 Ranking screen
 ==============
@@ -129,7 +129,7 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 **Note:** The grade skin will vary by skin used.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
+Accuracy\_osu!.jpg| osu! Taiko grade.jpg | Taiko (Taiko skin) Accuracy\_CtB.jpg | Catch the Beat Accuracy\_Mania.jpg | osu!mania Multi-play record.png | Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg | Multiplayer match : Tag Coop Multiplay Team Grade.jpg |Multiplayer match : Team Vs
 
 Online score leader-board
 -------------------------
@@ -160,4 +160,4 @@ Note: The back transparent leitmotif is based on what mode you played in.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
 
-Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online
+Osu! Online score.png| osu! Online Taiko Online.jpg | Taiko Online CtB Online.png | Catch the Beat Online

@@ -182,9 +182,9 @@ The number on the bottom left is the combo counter/score multiplier.
 #### Controls
 The default controls for osu! are:-
 
-Mouse|Keyboard|Tablet/Touchscreen
----|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Mouse| Keyboard |Tablet/Touchscreen
+---| --- | --- |
+Left click(M1) / Right click(M2)| `Z`(K1) / `X`(K2) |Touching the screen(M1)
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
@@ -294,9 +294,9 @@ Each successful denden hit only gives a static 300 score, and denden completion 
 The default controls for osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
----|---|---|---
-Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
-Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
+---| --- | --- |---
+Red | Left click(L) | `X`(L) / `C`(R) |Flat surface of the drum
+Blue| Right click(L) | `Z`(L) / `V`(R) |Outer surface of the drum
 
 The placement of in-game cursor does not matter when playing.
 
@@ -455,12 +455,12 @@ _Symmetrical_ key binding (For _DJMAX_ style)
 - The _Special_ button — `leftShift` and `leftCtrl`.
 
 Key | L | C | R
-:---:|:---|:---:|---:
-4K|K3, K4|-|K6, K7
-5K|K3, K4|K5|K6, K7
-6K|K2, K3, K4|-|K6, K7, K8
-7K|K2, K3, K4|K5|K6, K7, K8
-8K|K1, K2, K3, K4|-|K6, K7, K8, K9
+:---:| :-- | :-: |---:
+4K| K3, K4 | - |K6, K7
+5K| K3, K4 | K5 |K6, K7
+6K| K2, K3, K4 | - |K6, K7, K8
+7K| K2, K3, K4 | K5 |K6, K7, K8
+8K| K1, K2, K3, K4 | - |K6, K7, K8, K9
 
 _Left to Right_ key binding (For _Beatmania IIDX_ style)
 - From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]

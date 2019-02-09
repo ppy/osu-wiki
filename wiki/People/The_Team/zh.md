@@ -9,14 +9,14 @@ The Team
 ----------------------
 
 | 名 | 描述 |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
 
 活跃用户
 ----------------------
 
 | 名 | 描述 |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | 玩家事务支持 |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | 首要设计人员 |
 | [Loctav](https://osu.ppy.sh/users/71366) | 官方赛事组织 |
@@ -32,12 +32,12 @@ The Team
 ----------------------
 
 | 名 | 描述 |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | 基本秩序维护和帮助, 游戏/网页上 "Chibi" 的美术设计 |
 | [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护, 社区管理 |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! dev 团队, 游戏内聊天的一体化, 网页维护 |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev 团队, osz2/p2p 后台 |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  原创网页设计 |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | 原创网页设计 |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | 杰出的皮肤设计, 为默认皮肤和图标的设计做出贡献 |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev 团队, mm 滑条 |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
@@ -50,7 +50,7 @@ The Team
 ----------------------
 
 | 名 | 描述 |
-| ---- | ----------- |
+| --- | --- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | 管理论坛和聊天室 |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | 使你的图能够上架的普通用户 |
 | [Developers](http://osu.ppy.sh/g/11) | 通过添加新功能和修复 Bugs 使游戏变得有趣 |

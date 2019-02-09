@@ -38,16 +38,16 @@ Prijzen
 [Gebruik deze valuta converter](http://www.oanda.com/currency/converter/) of [vraag Google](https://www.google.com.my/#q=usd+exchange+rate) om de prijs in omgerekend naar euro te zien. De prijzen zijn in "USD$ dollar". <img src="O!s Decide.jpg" title="fig:Een voorbeeld van Supporter kopen" alt="Een voorbeeld van Supporter kopen" width="300" />
 
 | Maanden | Kosten {USD$} (ten opzicht van totaal) |
-|---------|----------------------------------------|
-| 1       | 4                                      |
-| 2       | 8                                      |
-| 4       | 12 (-25%)                              |
-| 6       | 16 (-33%)                              |
-| 8       | 20 (-38%)                              |
-| 9       | 22 (-39%)                              |
-| 10      | 24 (-40%)                              |
-| 12      | 26 (-46% max)                          |
-| 24      | 52 (-46% max)                          |
+| --- | --- |
+| 1 | 4 |
+| 2 | 8 |
+| 4 | 12 (-25%) |
+| 6 | 16 (-33%) |
+| 8 | 20 (-38%) |
+| 9 | 22 (-39%) |
+| 10 | 24 (-40%) |
+| 12 | 26 (-46% max) |
+| 24 | 52 (-46% max) |
 
 -   Prijs is per account. Er zijn geen kortingen voor groepsaankopen.
 

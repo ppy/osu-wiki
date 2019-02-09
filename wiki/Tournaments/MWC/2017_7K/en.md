@@ -38,7 +38,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 The osu!mania 7K World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
-| :-- |:-- |
+| :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881) |
 | Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
@@ -57,7 +57,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ## Participants
 
 |  | Country | Members |
-| --: | :---: | :-- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Euroe](https://osu.ppy.sh/users/3633019), [Feravel](https://osu.ppy.sh/users/1276617), [aluuu](https://osu.ppy.sh/users/4585260), [pablodinakinsito](https://osu.ppy.sh/users/2052925), [wtfamidoing](https://osu.ppy.sh/users/2034976) |
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [Keweft](https://osu.ppy.sh/users/75777), [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lazarento](https://osu.ppy.sh/users/3224958), [Shinora-](https://osu.ppy.sh/users/5828575) |

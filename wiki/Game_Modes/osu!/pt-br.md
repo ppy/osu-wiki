@@ -158,9 +158,9 @@ O número máximo de giros que se pode atingir por minuto é 477, que também é
 
 Os controles padrão do osu! são:
 
-Mouse|Teclado|Tablet/Touchscreen
----|---|---|
-Clique direito (M1) / Clique esquerdo (M2)|`Z`(B1) / `X`(B2)| Toque na tela (M1)
+Mouse| Teclado |Tablet/Touchscreen
+---| --- | --- |
+Clique direito (M1) / Clique esquerdo (M2)| `Z`(B1) / `X`(B2) | Toque na tela (M1)
 
 Os _hit objects_ do osu! irão aceitar a entrada de qualquer dispositivo, desde que cada um desses objetos receba a interação apropriada dentro de um timing aceitável.
 

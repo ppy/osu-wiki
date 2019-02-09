@@ -28,7 +28,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ## Prizes
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
 
@@ -69,7 +69,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!standard
 
 | Seed | Player | 
-|---|---| 
+| --- | --- | 
 | 1 | [ededed028](https://osu.ppy.sh/users/3932796) | 
 | 2 | [zonelouise](https://osu.ppy.sh/users/1492995) | 
 | 3 | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) | 
@@ -106,7 +106,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!taiko
 
 | Seed | Player | 
-|---|---| 
+| --- | --- | 
 | 1 | [Pochacco](https://osu.ppy.sh/users/2927742) | 
 | 2 | [Rimazii](https://osu.ppy.sh/users/3831514) | 
 | 3 | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) | 
@@ -117,7 +117,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!catch
 
 | Seed | Player | 
-|---|---| 
+| --- | --- | 
 | 1 | [Crowley](https://osu.ppy.sh/users/6341006) | 
 | 2 | [KaganimeRin](https://osu.ppy.sh/users/1626093) | 
 | 3 | [Aishiii](https://osu.ppy.sh/users/4382259) | 
@@ -134,7 +134,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 4K
 
 | Seed | Player | 
-|---|---|  
+| --- | --- |  
 | 1 | [arge-](https://osu.ppy.sh/users/9919550) | 
 | 2 | [Baltz](https://osu.ppy.sh/users/6083463) | 
 | 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | 
@@ -155,7 +155,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 7K
 
 | Seed | Player | 
-|---|---|   
+| --- | --- |   
 | 1 | [Nikana](https://osu.ppy.sh/users/4345491) | 
 | 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) | 
 | 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
@@ -176,40 +176,40 @@ The following players are the people who managed to pull through the whole compe
 ### osu!standard Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [Stereo](https://osu.ppy.sh/users/1499137) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
 
 ### osu!taiko Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [Pochacco](https://osu.ppy.sh/users/2927742) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
 ### osu!catch Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
 
 ### osu!mania 4K Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [arge-](https://osu.ppy.sh/users/9919550) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
 
 ### osu!mania 7K Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [Nikana](https://osu.ppy.sh/users/4345491) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
@@ -909,7 +909,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 28 | Nyanntai | 3 | **6** | **ArtillerySenpai** | 21 | | 
 | 2 | **zonelouise** | **6** | 0 | \[Vik\] | 18 | -win by default- | 
 | 7 | **Fzechen** | **6** | 2 | JasonEspiritu | 23 | | 
-| 3 | **TyrantsEye2014** | **6** | 0 | IcedCha | 14   | | 
+| 3 | **TyrantsEye2014** | **6** | 0 | IcedCha | 14 | | 
 | 6 | Pikhael | 4 | **6** | **Gilthunder** | 11 | | 
 
 #### Round of 32
@@ -918,8 +918,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
-| 1 | **ededed028** | **5** | 0 | Karma Jun | 32   | | 
-| 16 | **Xidorn** | **5** | 1 | Aharu | 17   | | 
+| 1 | **ededed028** | **5** | 0 | Karma Jun | 32 | | 
+| 16 | **Xidorn** | **5** | 1 | Aharu | 17 | | 
 | 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 | | 
 | 9 | **-Onoya An** | **5** | 3 | Liquicidize | 24 | | 
 | 4 | **Stereo** | **5** | 0 | IsseiKun | 29 | | 
@@ -932,7 +932,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 | | 
 | 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 | | 
 | 14 | **IcedCha** | **5** | 2 | Dunn | 19 | | 
-| 6 | **Pikhael** | **5** | 2 | Nomis126  | 27 | | 
+| 6 | **Pikhael** | **5** | 2 | Nomis126 | 27 | | 
 | 11 | **Gilthunder** | **5** | 0 | Zythics | 22 | | 
 
 #### Qualifiers
@@ -988,7 +988,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
 | 9 | **- Kielzu -** | **7** | 3 | Crowley | 4 | | 
-| 2 | KaganimeRin    | 2 | **7** | **- Kielzu -** | 9 | | 
+| 2 | KaganimeRin | 2 | **7** | **- Kielzu -** | 9 | | 
 | 9 | **- Kielzu -** | **7** | 3 | KaganimeRin | 2 | | 
 
 #### Finals Week 1
@@ -1051,9 +1051,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
-| 1 | **arge-** | **7** | 1 | Shiyui-   | 5 | | 
+| 1 | **arge-** | **7** | 1 | Shiyui- | 5 | | 
 | 2 | Baltz | 2 | **7** | **arge-** | 1 | | 
-| 1 | **arge-** | **7** | 2 | Baltz     | 2 | -forfeited- | 
+| 1 | **arge-** | **7** | 2 | Baltz | 2 | -forfeited- | 
 
 #### Finals Week 1
 
@@ -1064,7 +1064,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 5 | **Shiyui-** | **7** | 0 | Batujitsu | 7 | -win by default- | 
 | 4 | **Silhoueska Elze** | **7** | 1 | Inoariusu | 10 | | 
 | 5 | **Shiyui-** | **7** | 3 | Silhoueska Elze | 4 | | 
-| 1 | arge- | 3 | **7** | **Baltz**  | 2 | | 
+| 1 | arge- | 3 | **7** | **Baltz** | 2 | | 
 
 #### Semifinals
 
@@ -1103,7 +1103,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | Seed | Player 1 | | | Player 2 | Seed | | 
 | :-: | :-- | :-: | :-: | --: | :-: | :-: | 
 | 1 | **arge-** | **5** | 0 | partycarft30 | 16 | | 
-| 8 | Edison | 0 | **5** | **Andrei--** | 9    | -win by default- | 
+| 8 | Edison | 0 | **5** | **Andrei--** | 9 | -win by default- | 
 | 4 | **Ikisouu** | **5** | 0 | Izayoi-san- | 13 | -win by default- | 
 | 5 | **Shiyui-** | **5** | 0 | Suravur | 12 | | 
 | 2 | **Baltz** | **5** | 0 | hikaruXD19 | 15 | | 

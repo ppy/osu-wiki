@@ -225,12 +225,12 @@ Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="
 
 ### Rozdzielczość ekranu
 
-| colspan=3|Wybierz rozdzielczość:-                    |
-|------------------------------------------------------|
-| Właściwość                                           |
-| rowspan=2|Standardowe:                               |
-| 1024 x 768                                           |
-| rowspan=2|Panoramiczne:                              |
+| colspan=3 | Wybierz rozdzielczość:- |
+| --- |
+| Właściwość |
+| rowspan=2 | Standardowe: |
+| 1024 x 768 |
+| rowspan=2 | Panoramiczne: |
 | *Twoja wielkość ekranu* (bez krawędzi) \[Domyślnie\] |
 ||
 
@@ -477,9 +477,9 @@ Domyślnie ustawiona jest na 1.00x. Możesz ustawić od 0.50x do 2.00x.</p></td>
 
 ### Wybór piosenki
 
-| Wyświetlaj mapy od | Regulowanie tego paska **pokaże** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i ukryje resztę. (Domyślnie ustawione na 0)  |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| do                 | Regulowanie tego paska **ukryje** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i pokaże resztę. (Domyślnie ustawione na 10) |
+| Wyświetlaj mapy od | Regulowanie tego paska **pokaże** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i ukryje resztę. (Domyślnie ustawione na 0) |
+| --- | --- |
+| do | Regulowanie tego paska **ukryje** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i pokaże resztę. (Domyślnie ustawione na 10) |
 
 ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
 -------------------------------------------------------
@@ -489,19 +489,19 @@ Domyślnie ustawiona jest na 1.00x. Możesz ustawić od 0.50x do 2.00x.</p></td>
 ### Urządzenia
 
 | Urządzenie wyjściowe | Pozwala na zmianę urządzenia wyjściowego audio. |
-|----------------------|-------------------------------------------------|
+| --- | --- |
 ||
 
 ### Głośność
 
 Ustawienia te pozwalają na zmianę poszczególnych elementów dźwięku w grze.
 
-| Ogólna                                                                  | kontroluje wszystkie aspekty.    |
-|-------------------------------------------------------------------------|----------------------------------|
-| Muzyka                                                                  | kontroluje tylko muzykę.         |
-| Efekty                                                                  | kontroluje efekty dźwiękowe gry. |
-| scope="col" colspan=2|Ignoruj efekty dźwiękowe mapy                     |
-| colspan=2|Niestandardowe dźwięki dołączane do beatmap nie będą aktywne. |
+| Ogólna | kontroluje wszystkie aspekty. |
+| --- | --- |
+| Muzyka | kontroluje tylko muzykę. |
+| Efekty | kontroluje efekty dźwiękowe gry. |
+| scope="col" colspan=2 | Ignoruj efekty dźwiękowe mapy |
+| colspan=2 | Niestandardowe dźwięki dołączane do beatmap nie będą aktywne. |
 
 ### Globalne opóźnienie muzyki
 

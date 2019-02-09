@@ -115,11 +115,11 @@ Bookmark
 --------
 
 | ブックマークコマンド |
-|:--------------------:|
-|       Ctrl + B       |
-|   Ctrl + Shift + B   |
-|  Ctrl + Right Arrow  |
-|   Ctrl + Left Arrow  |
+| :-: |
+| Ctrl + B |
+| Ctrl + Shift + B |
+| Ctrl + Right Arrow |
+| Ctrl + Left Arrow |
 
 **<u>ブックマークはタイムラインをマークするツールです。</u>**これはBPMが変化するポイントや、複雑な配置をする予定のあるスペースを確保するのに便利です。
 
@@ -247,69 +247,69 @@ BGの色をどうやって変えるの?
 
 あります。必要ならばすぐに見れるようにプリントアウトするとよいでしょう。
 
-|           一般的なショートカット          |
-|:-----------------------------------------:|
-|                   **H**                   |
-|                   **Z**                   |
-|                   **X**                   |
-|              **C / Spacebar**             |
-|              **Left / Right**             |
-|          **Shift + Left / Right**         |
-|                **Ctrl + B**               |
-|                **Ctrl + G**               |
-|           **Ctrl + Left Arrow**           |
-|           **Ctrl + Right Arrow**          |
-|                **Ctrl + L**               |
-|                **Ctrl + S**               |
-|                **Ctrl + N**               |
-|                   **F1**                  |
-|                   **F2**                  |
-|                   **F3**                  |
-|                   **F4**                  |
-|                   **F5**                  |
-|                   **F6**                  |
-|                Compose Mode               |
-|        **Number Keys (1, 2, 3, 4)**       |
-|           **Q, W, E, R,T,Y, L**           |
+| 一般的なショートカット |
+| :-: |
+| **H** |
+| **Z** |
+| **X** |
+| **C / Spacebar** |
+| **Left / Right** |
+| **Shift + Left / Right** |
+| **Ctrl + B** |
+| **Ctrl + G** |
+| **Ctrl + Left Arrow** |
+| **Ctrl + Right Arrow** |
+| **Ctrl + L** |
+| **Ctrl + S** |
+| **Ctrl + N** |
+| **F1** |
+| **F2** |
+| **F3** |
+| **F4** |
+| **F5** |
+| **F6** |
+| Compose Mode |
+| **Number Keys (1, 2, 3, 4)** |
+| **Q, W, E, R,T,Y, L** |
 | **Shift + (Q, W, E, R) (ヒットサウンド)** |
-|  **Ctrl + (Q, W, E, R) (ヒットサウンド)** |
-|                 **Delete**                |
-|                **Ctrl + Z**               |
-|                **Ctrl + Y**               |
-|                **Ctrl + A**               |
-|                **Ctrl + X**               |
-|                **Ctrl + C**               |
-|                **Ctrl + V**               |
-|                **Ctrl + D**               |
-|                **Ctrl + G**               |
-|           **Alt (置いている間)**          |
-|          **Shift (置いている間)**         |
-|             '''Shift (変更中)             |
-|                   **J**                   |
-|                   *' K*'                  |
-|                   **G**                   |
-|               **Ctrl + 1-4**              |
-|              **Ctrl + &lt;**              |
-|              **Ctrl + &gt;**              |
-|               *' Ctrl + H*'               |
-|               *' Ctrl + J*'               |
-|                Timing Mode                |
-|                   **T**                   |
-|   **Shift (while adjusting BPM/Offset)**  |
-|                **Ctrl + B**               |
-|                **Ctrl + P**               |
+| **Ctrl + (Q, W, E, R) (ヒットサウンド)** |
+| **Delete** |
+| **Ctrl + Z** |
+| **Ctrl + Y** |
+| **Ctrl + A** |
+| **Ctrl + X** |
+| **Ctrl + C** |
+| **Ctrl + V** |
+| **Ctrl + D** |
+| **Ctrl + G** |
+| **Alt (置いている間)** |
+| **Shift (置いている間)** |
+| '''Shift (変更中) |
+| **J** |
+| *' K*' |
+| **G** |
+| **Ctrl + 1-4** |
+| **Ctrl + &lt;** |
+| **Ctrl + &gt;** |
+| *' Ctrl + H*' |
+| *' Ctrl + J*' |
+| Timing Mode |
+| **T** |
+| **Shift (while adjusting BPM/Offset)** |
+| **Ctrl + B** |
+| **Ctrl + P** |
 
 マウスでどんな操作ができるの?
 -----------------------------
 
 ここにそのリストがあります:
 
-|        Mouse Controls        |
-|:----------------------------:|
-|        **Left Click**        |
-|     **Ctrl + Left Click**    |
-|        **Right Click**       |
-|        **Mouse Wheel**       |
+| Mouse Controls |
+| :-: |
+| **Left Click** |
+| **Ctrl + Left Click** |
+| **Right Click** |
+| **Mouse Wheel** |
 | **Ctrl + Alt + Mouse Wheel** |
-|    **Ctrl + Mouse Wheel**    |
-|     **Alt + Mouse Wheel**    |
+| **Ctrl + Mouse Wheel** |
+| **Alt + Mouse Wheel** |

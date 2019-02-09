@@ -15,7 +15,7 @@ Les joueurs possédant ce grade sont notés ici :
 ### 8 août 2013
 
 | Utilisateur | Reconnu pour |
-| ---- | ------------- |
+| --- | --- |
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Développement et maintenance du service [osu!record](http://osu.ppy.sh/forum/t/108092) (conversion de replays .osr en vidéos Youtube). |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Hébergement du [miroir](http://osu.yas-online.net/) de téléchargement de beatmaps depuis des années. |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Nombreuses contributions sur le plan du design à tous les niveaux. |

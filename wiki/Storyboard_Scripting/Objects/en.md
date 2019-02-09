@@ -13,7 +13,7 @@ Object Definition
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| --- | --- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -61,7 +61,7 @@ Examples
 --------
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| --- | --- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Some examples of object declarations:

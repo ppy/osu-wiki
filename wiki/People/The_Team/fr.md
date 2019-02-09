@@ -9,14 +9,14 @@ Fondateur
 ----------------------
 
 | Nom | Description |
-| ---- | ----------- |
+| --- | --- |
 | [peppy](https://osu.ppy.sh/users/2) | Création d'osu! sur PC |
 
 Membres actifs
 ----------------------
 
 | Nom | Description |
-| ---- | ----------- |
+| --- | --- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Aide aux joueurs, Secrétaire de Meganekko |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Concepteur principal |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisation des tournois officiels, Staff and community management |
@@ -32,7 +32,7 @@ Inactifs
 ----------------------
 
 | Nom | Description |
-| ---- | ----------- |
+| --- | --- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Aide et entretien général, Dessinateur de chibis |
 | [Derekku](https://osu.ppy.sh/users/91341) | Entretien général du site, Gestion de la communauté |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Développeur d'osu!, Intégration du Chat IRC dans le jeu, Entretien du site |
@@ -50,7 +50,7 @@ User Groups
 ----------------------
 
 | Nom | Description |
-| ---- | ----------- |
+| --- | --- |
 | [Équipe de modération globale](/wiki/People/Global_Moderation_Team) | Gardent un œil sur le Chat et le Forum. |
 | [Groupe de Nomination des Beatmaps](/wiki/People/Beatmap_Nomination_Group) | Contrôlent la qualité des Beatmaps certifiées "Qualified". |
 | [Développeurs](http://osu.ppy.sh/g/11) | Rendent le jeu incroyable en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |

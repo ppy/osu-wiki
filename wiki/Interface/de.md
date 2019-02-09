@@ -58,22 +58,22 @@ Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten 
 ![](DE-Soloplay3.jpeg "fig:DE-Soloplay3.jpeg")
 Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren.**
 
-| Gruppe               | Sortierung           |
-|----------------------|----------------------|
-| Nach Künstler        | Nach Künstler        |
-| Nach BPM             | Nach BPM             |
-| Nach Ersteller       | Nach Ersteller       |
-| Nach Importdatum     | Nach Importdatum     |
-| Nach Schwierigkeit   | Nach Schwierigkeit   |
-| Nach Länge           | Nach Länge           |
-| Nach Modus           | Nach erreichtem Rang |
-| Nach erreichtem Rang | Nach Titel           |
-| Nach Titel           |
-| Sammlungen           |
-| Favoriten            |
-| Meine Maps           |
-| Ranked-Status        |
-| Zuletzt gespielt     |
+| Gruppe | Sortierung |
+| --- | --- |
+| Nach Künstler | Nach Künstler |
+| Nach BPM | Nach BPM |
+| Nach Ersteller | Nach Ersteller |
+| Nach Importdatum | Nach Importdatum |
+| Nach Schwierigkeit | Nach Schwierigkeit |
+| Nach Länge | Nach Länge |
+| Nach Modus | Nach erreichtem Rang |
+| Nach erreichtem Rang | Nach Titel |
+| Nach Titel |
+| Sammlungen |
+| Favoriten |
+| Meine Maps |
+| Ranked-Status |
+| Zuletzt gespielt |
 
 ![](DE-soloplay5.jpeg "fig:DE-soloplay5.jpeg")
 Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](DE:Chat_Console "wikilink") muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
@@ -89,14 +89,14 @@ Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Einge
 -   Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
     -   Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
 
-| colspan=2|Ranking Tabelle       |
-|---------------------------------|
-| Name                            |
-| Lokale Rangliste                |
-| Nationale Rangliste             |
-| Globale Rangliste               |
+| colspan=2 | Ranking Tabelle |
+| --- |
+| Name |
+| Lokale Rangliste |
+| Nationale Rangliste |
+| Globale Rangliste |
 | Globale Rangliste (Aktive Mods) |
-| Freundesrangliste               |
+| Freundesrangliste |
 
 <img src="DE-Soloplay11.jpeg" title="fig:Online Kommandos für eine Beatmap. (Internetverbindung erforderlich)" alt="Online Kommandos für eine Beatmap. (Internetverbindung erforderlich)" width="280" /> Klicke auf das <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" />Sprechblasen-Icon, um zum **Schnellzugang zu dieser Map im Web** im Songauswahl zu gelangen:
 
@@ -152,7 +152,7 @@ In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beat
 
 **Hinweis:** Das Aussehen des Ranges kann je nachdem, welchen Skin Sie benutzen, variieren.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko Skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Team-Modus : Head-To-Head Multiplay Co-Op Grade.jpg| Team-Modus : Tag Coop Multiplay Team Grade.jpg| Team-Modus : Team Vs
+Accuracy\_osu!.jpg| osu! Taiko grade.jpg | Taiko (Taiko Skin) Accuracy\_CtB.jpg | Catch the Beat Accuracy\_Mania.jpg | osu!mania Multi-play record.png | Team-Modus : Head-To-Head Multiplay Co-Op Grade.jpg | Team-Modus : Tag Coop Multiplay Team Grade.jpg | Team-Modus : Team Vs
 
 Online Score Führungstabelle
 ----------------------------
@@ -183,4 +183,4 @@ Note: The back transparent leitmotif is based on what mode you played in.
 8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
 9.  Zur Songauswahl zurückkehren.
 
-Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online
+Osu! Online score.png| osu! Online Taiko Online.jpg | Taiko Online CtB Online.png | Catch the Beat Online

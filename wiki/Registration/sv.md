@@ -18,27 +18,27 @@ Steg
 
 <span style="font-size:18px">2. Fyll i formen och klicka "Continue" </span>
 
-| <b>Teckenförklaring</b>                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Teckenförklaring</b> |
+| --- |
 | 1. <b>Username</b> - Ditt användarnamn på osu!. Välj noga! Du kan endast ändra ditt namn <b>en</b> gång om du har ett supporter tag.  
 
  a. Max 15 tecken  
 
  b. Alfanumeriska tecken ("a-z, A-Z, 0-9"), understrycking ("\_"), kvadratiska parenteser, ("\[" och "\]") och streck ("-") är endast tillåtna.                                          |
-| 2.<b> E-mail adress</b> - Den kommer användas utifall att du glömmer bort lösenord och annan information. Glöm det inte!                                                               |
-| 3. <b>Password</b> - Skriv ett lösenord som ingen mer än <b>du</b> vet!                                                                                                                |
+| 2.<b> E-mail adress</b> - Den kommer användas utifall att du glömmer bort lösenord och annan information. Glöm det inte! |
+| 3. <b>Password</b> - Skriv ett lösenord som ingen mer än <b>du</b> vet! |
 | 4. <b>Note</b> - Ett medelenade som säger att du måste ha osu! installerat på <b>din dator</b> för att slutföra installationen. <i>(Se [installation](SV:Installation "wikilink"))</i> |
-| 5.<b> Continue button</b> - Denna kommer vara tillgänlig om alla fält är ifyllda korrekt och att det står "Looking good!"                                                              |
+| 5.<b> Continue button</b> - Denna kommer vara tillgänlig om alla fält är ifyllda korrekt och att det står "Looking good!" |
 
 <span style="font-size:18px">3. Logga in på osu! och sen är allt klart! </span>
 
-| <b>Teckenförklaring</b>                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------|
+| <b>Teckenförklaring</b> |
+| --- |
 | 1. osu! iconen - Starta osu! använd den genom att dubbel klicka iconen eller högerklicka iconen och sen öppna.  
 
  <i>Notering: Du behöver inte köra osu! som administratör. osu! kommer be dig om det utifall att det behövs.</i>  |
-| 2. User Panel - Klicka för att kunna logga in och ut från spelet.                                               |
-| 3. Inloggningsrutan - Fyll i ditt användarnamn och lösenord som du registrerade innan och tryck Sign in.        |
+| 2. User Panel - Klicka för att kunna logga in och ut från spelet. |
+| 3. Inloggningsrutan - Fyll i ditt användarnamn och lösenord som du registrerade innan och tryck Sign in. |
 
 </center>
 Vad ska man göra härnäst?
