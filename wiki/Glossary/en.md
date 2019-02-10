@@ -55,7 +55,7 @@ This basically means:
 
 Your beat spacing plays a crucial role when the player is playing your beatmap! Consistent beat spacing is a basic requirement to rank a beatmap because it provides the player with a more intuitive experience as the player will learn where to move their cursor along the screen, at a constant speed.
 
-Placing an object closer than the beat spacing may trick the player into clicking on them too soon. On the otherhand, placing them too far may force the player to move their cursor across the screen to click on them in time. A common exception to beat spacing is stacked hit circles.
+Placing an object closer than the beat spacing may trick the player into clicking on them too soon. On the other hand, placing them too far may force the player to move their cursor across the screen to click on them in time. A common exception to beat spacing is stacked hit circles.
 
 To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor. You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value. Note that the higher the value would allow a more difficult beatmap.
 
@@ -63,7 +63,7 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 
 A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
 
-You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
+You can use the beatmapID to find a beatmap difficulty version using this url: `osu.ppy.sh/b/{BeatmapID}`
 
 This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 
@@ -89,11 +89,11 @@ All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
 Almost every music file contains something called a "bit rate". A bit rate is the number of bits per second that can be transmitted along a digital network.
 
-This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size). Whereas, a *lower bit rate* will generally mean *lower quailty* (but smaller file size).
+This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size). Whereas, a *lower bit rate* will generally mean *lower quality* (but smaller file size).
 
 Bit rates typically range from 96 KBps (kilobytes per second) to 320 KBps. This is quite a wide range that music can use. However, the [ranking criteria](/wiki/Ranking_Criteria) explicitly states that all music files must range from **128 KBps - 192 KBps**.
 
-You can usually check to see the audio file's bit rate by checking the file properties of that file. Another way to check is whether or not [AiMod](/wiki/AiMod) says that the audio file's bit rate is too big. If either appears to be true, this means that you will have to lower the bitrate. A few methods on re-encoding audio can be found at [Audio Editing](/wiki/Audio_Editing).
+You can usually check to see the audio file's bit rate by checking the file properties of that file. Another way to check is whether or not [AiMod](/wiki/AiMod) says that the audio file's bit rate is too big. If either appears to be true, this means that you will have to lower the bit rate. A few methods on re-encoding audio can be found at [Audio Editing](/wiki/Audio_Editing).
 
 ### BG
 
@@ -211,7 +211,7 @@ A comboburst is a celebration of achieving a [combo milestone](/wiki/combo_miles
 - For osu!taiko, a collection of flowers will _burst_ behind pippidon
 - For osu!mania, a character will _burst_ from the right side of the stage (or left side if specified in the `skin.ini`)
 
-In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher. For osu!mania, the starts will shoot out from the stage.
+In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher. For osu!mania, the stars will shoot out from the stage.
 
 Combobursts can be disabled in the options.
 
@@ -300,8 +300,8 @@ EBA has two meanings:
 Fail has three meanings:
 
 - the incompletion of a beatmap due to:
-  - not filling the healthbar up to 80% when completing a beatmap (in [osu!taiko](/wiki/osu!taiko))
-  - empty healthbar ([osu!standard](/wiki/osu!standard), [osu!catch](/wiki/osu!catch), and [osu!mania](/wiki/osu!mania))
+  - not filling the health bar up to 80% when completing a beatmap (in [osu!taiko](/wiki/osu!taiko))
+  - empty health bar ([osu!standard](/wiki/osu!standard), [osu!catch](/wiki/osu!catch), and [osu!mania](/wiki/osu!mania))
 - in multiplayer, an indicator underneath the player's name to show they have failed the beatmap
 - the player having less than 50% health during a break; where an indicator will display if you failed the section
   - a fail indicator will be shown
@@ -665,7 +665,7 @@ osu! currently has five rankings:
 - [PP](/wiki/pp) rankings: the ranking most commonly referred to, based on the player's pp.
 - Chart rankings: based on ranked score for beatmaps in a chart.
 - Score rankings: based on the player's ranked score.
-- Country rankings: based on the collective scores of player's per country.
+- Country rankings: based on the collective scores of players per country.
 - [Kudosu](/wiki/kudosu) rankings: based on the user's kudosu! count.
 
 ### Recalc
@@ -682,7 +682,7 @@ Usage is suggested when there has been a change in offset and/or BPM, after obje
 
 ### Restricted Mode
 
-Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/legal/terms). Submitted scores of gameplay are not allowed publically displayed.
+Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/legal/terms). Submitted scores of gameplay are not allowed publicly displayed.
 
 For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Center#what-is-"restricted"-mode,-exactly?).
 
@@ -749,7 +749,7 @@ The slider tick is a hit object that gives out 10 points. The amount of slider t
 Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/beatmap) in real time (with approx. 500ms delay).
 To spectate, open the extended chat and click on a grey user panel.
 
-For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and loaded for you.
+For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and uploaded for you.
 
 ### Spectator Aura
 
@@ -899,7 +899,7 @@ Version has four meanings:
 - the version of a skin
   - see [Skinning](/wiki/Skinning) for more details
 - the release date of your osu!client
-- the build release of your osu!client (Stable, Stable (Fallback), Beta, and cuttingedge)
+- the build release of your osu!client (Stable, Stable (Fallback), Beta, and Cutting Edge)
 
 ## W
 
