@@ -51,7 +51,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Qualifiers
 
-**[Download all](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip)**
+**[Download the map pack here! (19 MB)](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip)**
 
 - NoMod
   - [DJ YOSHITAKA - MANA (EvilElvis) \[Kiiwa's Another\]](https://osu.ppy.sh/b/382932)
@@ -64,7 +64,8 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 64
 
-**[Download all](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip)**
+**[Download the map pack here! (99 MB)](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip)**
+
 
 - NoMod
   - [sakuzyo - Neurotoxin (kiddly) \[Another\]](https://osu.ppy.sh/b/458793)
@@ -89,7 +90,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 32 & Losers Bracket Rounds 1 & 2
 
-**[Download all](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip)**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip)**
 
 - NoMod
   - [ZUN - Shoutoku Legend ~ True Administrator (chenwu) \[Over Drive\]](https://osu.ppy.sh/b/272155)
@@ -114,7 +115,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 16 & Losers Bracket Rounds 3 & 4
 
-**[Download all](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip)**
+**[Download the map pack here! (111 MB)](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip)**
 
 - NoMod
   - [FujuniseikouyuuP - Make a Loser (val0108) \[0108 Style\]](https://osu.ppy.sh/b/649034)
@@ -139,7 +140,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Quarterfinals & Losers Bracket Rounds 5 & 6
 
-**[Download all](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Extra\]](https://osu.ppy.sh/b/763289)
@@ -166,7 +167,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
-**[Download all](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip)**
+**[Download the map pack here! (117 MB)](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip)**
 
 - NoMod
   - [Mitani Nana - Inochi Mijikashi Koiseyo Otome (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/b/319499)
@@ -193,7 +194,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Finals - Week 1
 
-**[Download all](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip)**
+**[Download the map pack here! (121 MB)](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip)**
 
 - NoMod
   - [nmk - sola (Morinaga) \[Last Word\]](https://osu.ppy.sh/b/1526226)
@@ -220,7 +221,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Finals - Week 2
 
-**[Download all](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
+**[Download the map pack here! (129 MB)](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Reunion\]](https://osu.ppy.sh/b/1162811)
