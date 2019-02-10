@@ -35,7 +35,7 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_FR] Francja |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_HK] Hongkong |
-| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
+| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
