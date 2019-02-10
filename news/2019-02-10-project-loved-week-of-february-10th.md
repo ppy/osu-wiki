@@ -149,7 +149,7 @@ This week we're bringing back one of [224]Reol's earlier maps, "Shuukan Shounen 
 [CustomiZ - COOLEST](https://osu.ppy.sh/beatmapsets/815097#fruits) by [Ascendance](https://osu.ppy.sh/users/2931883) et al.  
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-\_
+Oh boy, despite this map being one of the most popular ones released in 2018, it just wasn't quite able to get ranked. But here we go with the full version of COOLEST! There are many difficulties on this spread, so really, there is something for everyone to play. Also thanks to this big spread, you can apply mods like DoubleTime or HardRock to lower difficulties and make the map rather more spicy, if you are proficient enough at the game that is. All this leads to tons of replayability to be had. I won't delve into all difficulties and how they play individually, due to how many there are, so go check out what's in it for you, oh yeah!
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
