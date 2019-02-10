@@ -135,7 +135,7 @@ For a complete rundown, check out the [Submission](/wiki/Submission) page.
 
 The changelog is a page where peppy and the osu!dev team details their day-by-day improvements, additions and bug fixes.
 
-To see the changelog, see [Recent Releases](https://osu.ppy.sh/p/changelog).
+To see the changelog, see the [Changelog Listing](https://osu.ppy.sh/home/changelog).
 
 ### Choke
 
@@ -487,7 +487,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [*modding*](/wiki/modding), and the posts are referred to as *mods*.
 
-Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
+Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
 ## N
 
@@ -541,11 +541,11 @@ osu! has three meanings:
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
-    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/topics/174?start=2686).
 
 ### osu!coin
 
-- osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
+- osu!academy introduces the osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
@@ -703,7 +703,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
-To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
 To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its subpages).
 
@@ -856,7 +856,7 @@ A touchscreen is one of the input mediums used by the DS games that osu! is base
 
 ### Touhosu!
 
-*Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)*
+*Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307)*
 
 Touhosu! is a requested game mode that is the opposite of osu!catch. *Opposite* because instead of catching objects, you avoid them.
 
