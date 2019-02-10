@@ -418,8 +418,7 @@ The creators of a beatmap can give a modder kudosu by simply going to the mod po
 
 ### Lead-in
 
-The lead-in time is a 3 second time period of silence that is sometimes automatically be inserted before the beginning of a beatmap.
-This only happens if the creator has placed objects right at or very close at the start of the song.
+The lead-in time is a 3 second time period of silence that is sometimes automatically be inserted before the beginning of a beatmap. This only happens if the creator has placed objects right at or very close at the start of the song.
 
 ### Life Bar
 
@@ -480,9 +479,7 @@ The MAT, meaning *Modding Assistance Team*, was a group of users experienced in 
 
 ### Mod Request
 
-A mod request is when a mapper is in need of help.
-This can be from fixing possible mistakes to requesting for [guest difficulties](#guest-difficulty).
-While, typically, the song is still playable, the only reason someone would scroll here is if (and only if) you know what you are (and will be) doing and willing to mod the map for them.
+A mod request is when a mapper is in need of help. This can be from fixing possible mistakes to requesting for [guest difficulties](#guest-difficulty). While, typically, the song is still playable, the only reason someone would scroll here is if (and only if) you know what you are (and will be) doing and willing to mod the map for them.
 
 Keep in mind that the map or mapset may be incomplete, so be a considerate person and (if you had tried the map) tell them what is wrong with the mapper's map.
 
@@ -608,13 +605,11 @@ Pass has two meanings:
 
 ### peppy
 
-peppy, written with a lowercase `p`, is the online alias of Dean Herbert.
-He is the creator of the osu! project and its primary developer.
+peppy, written with a lowercase `p`, is the online alias of Dean Herbert. He is the creator of the osu! project and its primary developer.
 
 ### Play Time
 
-Play time is the total duration of a beatmap.
-This includes the lead-in time and the break time(s).
+Play time is the total duration of a beatmap. This includes the lead-in time and the break time(s).
 
 ### pp
 
@@ -622,8 +617,7 @@ Short for [*performance points*](/wiki/Performance_Points). The main ranking met
 
 ### puush
 
-puush is a screen capturing and file uploading application developed by peppy.
-puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
+puush is a screen capturing and file uploading application developed by peppy. puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
 
 For more information about puush, see [puush / home](https://puush.me).
 
@@ -734,8 +728,7 @@ The slider tick is a hit object that gives out 10 points. The amount of slider t
 
 ### Spectate
 
-Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/beatmap) in real time (with approx. 500ms delay).
-To spectate, open the extended chat and click on a grey user panel.
+Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/beatmap) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
 
 For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and uploaded for you.
 
