@@ -185,7 +185,7 @@ For skins, the skin properties for the combo colours is located on in the `[Colo
 
 The combo fire was a background gameplay feature from the ouendan game integrated in osu!. This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
-This feature was later disabled on 05. March 2013 due to performance concerns.
+This feature was later disabled on 2013-03-05 due to performance concerns.
 
 ### Combo Milestone
 
@@ -473,7 +473,7 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 
 ### MAT
 
-**As of the 23. April 2013, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
+**As of the 2013-04-23, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
 
 The MAT, meaning *Modding Assistance Team*, was a group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT.
 
