@@ -1,6 +1,6 @@
 # Glossary
 
-Throughout the years, the osu!community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
+Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
 
 ## A
 
@@ -34,7 +34,7 @@ Aspire is a beatmapping [contest](/wiki/contest) where the creators are encourag
 
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu!. Signing in with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu!. Signing in with an osu! account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 
@@ -81,7 +81,7 @@ A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapset
 
 You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
 
-This value can be found in the url of a beatmapset from osu!website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
+This value can be found in the url of a beatmapset from osu! website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
 
 All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
@@ -225,9 +225,9 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
-![Screenshot of main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
+![Screenshot of main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie is another word for the osu! logo. This has appeared many times in the osu!client. The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
+The cookie is another word for the osu! logo. This has appeared many times in the osu! client. The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
 
 ![Window dialog of osu! crashing](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
 
@@ -658,7 +658,7 @@ Rank has three meanings:
 
 ### Ranking
 
-Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria. This can also refer to one's position in such a list.
+Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu! community according to certain criteria. This can also refer to one's position in such a list.
 
 osu! currently has five rankings:
 
@@ -882,7 +882,7 @@ The universal offset applies to all songs used in osu! and its value differs acc
 
 ### upppy
 
-upppy is a fast and easy-to-use uploading service coded by peppy. If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack, etc., just put it on upppy and everyone is happy! :)
+upppy is a fast and easy-to-use uploading service coded by peppy. If you want to share a file with the osu! community, forget about depositing it on Rapidshare, Megaupload, ImageShack, etc., just put it on upppy and everyone is happy! :)
 
 For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there may be a few stray images that may contain R-18 work)**.
 
@@ -898,8 +898,8 @@ Version has four meanings:
   - however, creators are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
   - see [Skinning](/wiki/Skinning) for more details
-- the release date of your osu!client
-- the build release of your osu!client (Stable, Stable (Fallback), Beta, and Cutting Edge)
+- the release date of your osu! client
+- the build release of your osu! client (Stable, Stable (Fallback), Beta, and Cutting Edge)
 
 ## W
 
