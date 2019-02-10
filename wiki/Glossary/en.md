@@ -237,18 +237,6 @@ A creator refers to the user who uses the [beatmap editor](/wiki/beatmap_editor)
 
 ## D
 
-### Difficulty Stars
-
-The difficulty stars is the visual representation of a beatmap's [difficulty](/wiki/difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
-
-osu! currently uses two different algorithms to calculate difficulty stars:
-
-- peppy's algorithm
-  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
-- Echo's algorithm (not in use)
-
-You can see a beatmap's difficulty when testing it in the editor. The difficulty stars can be seen on the song selection screen or at its listing in the site.
-
 ### Downbeat
 
 Downbeat is a musical term for the first beat of a measure.
@@ -777,7 +765,7 @@ Star has four meanings:
    - Examples include adjustments in timing, incorrect beat spacing in some areas, or creating additional difficulty versions.
    - Beatmaps receiving a star are denoted by a star graphic next to their thread's title.
    - A star may be removed by another mod if the beatmap is thought to be in need of more improvements.
-2. another term for "Difficulty Stars"
+2. another term for "Star Rating"
    - The symbol that represents the difficulty of a beatmap.
 3. another term for "[Kudosu](/wiki/kudosu)"
    - These are given to beatmap modders and can be used to raise a beatmap above others.
@@ -797,6 +785,18 @@ Star priority has two meanings:
 2. A method in determining whether a Feature Request is wanted by the community.
    - The higher the star priority, the faster it gets noticed.
    - Users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/icon/star.gif)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
+
+### Star Rating
+
+The star rating is the visual representation of a beatmap's [difficulty](/wiki/difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+
+osu! currently uses two different algorithms to calculate star rating:
+
+- peppy's algorithm
+  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
+- Echo's algorithm (not in use)
+
+You can see a beatmap's difficulty when testing it in the editor. The star rating can be seen on the song selection screen or at its listing in the site.
 
 ### Storyboarder
 
