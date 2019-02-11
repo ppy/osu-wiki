@@ -23,7 +23,7 @@ Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Sueco, Español |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Alemán |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
