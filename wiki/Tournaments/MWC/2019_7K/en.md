@@ -143,6 +143,42 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+## Match Results
+
+### Group Stage
+
+| Saturday, 2019-02-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Taiwan ![][flag_TW] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49465060) |
+| Japan ![][flag_JP] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/49465056) |
+| **Netherlands** ![][flag_NL] | **4** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/49466206) |
+| Sweden ![][flag_SE] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49467493) |
+| Argentina ![][flag_AR] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49467473) |
+| Israel ![][flag_IL] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/49467479) |
+| United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49469122) |
+| Israel ![][flag_IL] | 0 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49472364) |
+| Macau ![][flag_MO] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/49474069) |
+| Canada ![][flag_CA] | 1 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/49473957) |
+| Argentina ![][flag_AR] | 0 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/49475654) |
+| Germany ![][flag_DE] | 0 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49475623) |
+| Denmark ![][flag_DK] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/49477430) |
+
+| Sunday, 2019-02-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Chile ![][flag_CL] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49487714) |
+| Canada ![][flag_CA] | 1 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49488502) |
+| Netherlands ![][flag_NL] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49495320) |
+| Denmark ![][flag_DK] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49495325) |
+| Hong Kong ![][flag_HK] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/49495336) |
+| Hong Kong ![][flag_HK] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/49496321) |
+| Singapore ![][flag_SG] | 1 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49496296) |
+| **Macau** ![][flag_MO] | **4** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/49497587) |
+| France ![][flag_FR] | 1 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49497596) |
+| United Kingdom ![][flag_GB] | 1 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/49498892) |
+| Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/49503223) |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 
 ### Tournament Rules
