@@ -159,37 +159,65 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!: Grandes Finales
 
-*Division osu!: La Grande Finale commencera le 16 Février.*
+#### Samedi, 16 Février 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #1 | ThePooN | ![][flag_FR] | ![][flag_FR] | NerO | **17:00** |
+| #2¹ | NerO | ![][flag_FR] | ![][flag_FR] | ThePooN |  |
+
+¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
 
 ### Division osu!taiko: Grandes Finales
 
 *Division osu!taiko: La Grande Finale commencera le 23 Février.*
 
-### Division osu!mania: Finales
+### Division osu!mania: Grandes Finales
 
-#### Samedi, 9 Février 2019
+#### Samedi, 16 Février 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Azubeur | ![][flag_FR] | ![][flag_FR] | PatouZ | **15:30** |
-| #2 | DemonWaves | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
+| #2¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | Azubeur |  |
 
-#### Dimanche, 10 Février 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | Azubeur | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
-| #3b¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | DemonWaves | **17:30** |
-| #3c¹ | Azubeur | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
-| #3d¹ | PatouZ | ![][flag_FR] | ![][flag_FR] | DragonSonic | **17:30** |
-
-¹ Confrontation dépendant du perdant du Match #1 et du gagnant du Match #2
+¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
 
 -----------------------
 
 ## Liste des maps
 
 ### Division osu!
+
+#### Grandes Finales
+
+**[Télécharge le mappack ici! (164 MB)](https://mega.nz/#!Zoc1SY4b!ZOXkza2hwGz8FOXtOuN-yvhvi0XZ4-wdGqxDJTA6es4)**
+
+- NoMod
+  - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[EX EX\]](/beatmapsets/194910#osu/462700)
+  - [Aitsuki Nakuru - Presenter\* (toybot) \[Noel\]](/beatmapsets/799156#osu/1677967)
+  - [Function Phantom - Paradox (byfar) \[Enigma\]](/beatmapsets/824125#osu/1726857)
+  - [xi - Mirage Garden (P o M u T a) \[Exitra\]](/beatmapsets/319940#osu/712015)
+  - [Igorrr - Houmous (squirrelpascals) \[squirrelp's Expert\]](/beatmapsets/703568#osu/1535062)
+  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (Seni) \[I've Stopped Time and Everything is at My Mercy\]](/beatmapsets/462386#osu/1115737)
+- Hidden
+  - [Kobaryo - Sulyvahn \[feat. USAO\] (Testo) \[DUBSTEP\]](/beatmapsets/787583#osu/1652992)
+  - [xi feat. Sta - Tiferet (ktgster) \[Another\]](/beatmapsets/714225#osu/1509637)
+  - [Y&Co. - Daisuke (kwk) \[SourPls\]](/beatmapsets/697087#osu/1476582)
+- HardRock
+  - [Sota Fujimori - ACCELERATE (Ametrin) \[Ametrin's Extra\]](/beatmapsets/852406#osu/1782387)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (RLC) \[RLC's INFINITE\]](/beatmapsets/514750#osu/1094551)
+  - [Amatsuki - Chiisana Koi no Uta (Logic Agent) \[Together\]](/beatmapsets/534788#osu/1169701)
+- DoubleTime
+  - [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Insane\]](/beatmapsets/357161#osu/806019)
+  - [Kicco - Lucky Monster (Shioi) \[Insane\]](/beatmapsets/427413#osu/922661)
+  - [Nightwish - Dead to the World (Xanandra) \[Insane\]](/beatmapsets/149115#osu/368503)
+- FreeMod
+  - [DECO*27 - First Storm feat. Hatsune Miku (Asaiga) \[my Drops of Tears I'll turn to Sparks of Fire\]](/beatmapsets/696175#osu/1474795)
+  - [Feryquitous feat. Aitsuki Nakuru - Kairikou (Skystar) \[Skystar's Irregular\]](/beatmapsets/740862#osu/1723257)
+  - [D.J.Nero - Joker (JJburstOwO) \[JJburst's Ultra\]](/beatmapsets/405524#osu/890974)
+- Tiebreaker
+  - **[Ariabl'eyeS - Zankyou wa Hitsugi no Naka e (Yusomi) \[Lone-Lunatic\]](/beatmapsets/813773#osu/1706571)**
 
 #### Finales
 
@@ -566,6 +594,30 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!mania
 
+#### Grandes Finals
+
+**[Télécharge le mappack ici! (119 MB)](https://mega.nz/#!F5tH2C7L!b4yxO0FwHBJVjsvHnOEhZ-bM27mn34DdwN9Q161fhSQ)**
+
+- FreeMod
+  - [EvOke - Edison (Cunu) \[Singing Vigourously\]](/beatmapsets/924294#mania/1930571)
+  - [Sta - 99 Glooms (MyZterioN-) \[Blooms\]](/beatmapsets/919176#mania/1922832)
+  - [EBIMAYO - GOODRAGE (ARPIA97) \[ARPIA'S HYPER\]](/beatmapsets/677458#mania/1461547)
+  - [Seiryu - waxing and wanding (DanSparce) \[Black Another\]](/beatmapsets/316629#mania/710061)
+  - [Masayoshi Minoshima - Struggle (NekoPoiLTE) \[GRAVITY\]](/beatmapsets/719448#mania/1519286)
+  - [Function Phantom - Euclid (juankristal, XeoStyle) \[Collab\]](/beatmapsets/658097#mania/1393891)
+  - [Traktion - Gid V (Hydria) \[how to be a dick pt.2: electric boogaloo\]](/beatmapsets/446664#mania/959205)
+  - [Neko Kanimaru - Hidamari no Machi-A! (LuxAzure) \[(LN)other\]](/beatmapsets/558401#mania/1930467)
+  - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](/beatmapsets/852916#mania/1782630)
+  - [Shadow of Intent - The Return (Noxus) \[Challenge\]](/beatmapsets/727546#mania/1536011)
+  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Evening) \[onslaught<short>\]](/beatmapsets/791153#mania/1669389)
+  - [Camellia - In Black & White (Daikyi) \[White\]](/beatmapsets/581300#mania/1230512)
+  - [Silvia - Vertex BETA (riunosk) \[BETA // 300.15\]](/beatmapsets/776279#mania/1631515)
+  - [Camellia - Poison Mushroom (Curiossity) \[CAUSTIC\]](/beatmapsets/694975#mania/1801180)
+  - [Masakari Usi - Blinded By Light (Elekton) \[army of one\]](/beatmapsets/640240#mania/1357722)
+  - [S.S.H - Ghostly Eyes (Raining loss) \[Unreal Night\]](/beatmapsets/533477#mania/1130172)
+- Tiebreaker
+  - **[Yairi Ft. S!N - Connection (Cunu) \[Klakoss\]](/beatmapsets/798096#mania/1930828)**
+
 #### Finales
 
 **[Télécharge le mappack ici! (79 MB)](https://mega.nz/#!YxlARS6I!UE_ZjEuIfLZ_CzPazKXsm3IJWXkOgV9ol2jSde8xkJo)**
@@ -778,12 +830,12 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 | Saturday, 2019-02-02 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/mp/49306349) |
-| **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/mp/49317966) |
+| Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](/community/matches/49306349) |
+| **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](/community/matches/49317966) |
 
 | Sunday, 2019-02-03 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/mp/49338803) |
+| **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](/community/matches/49338803) |
 
 #### Demi-finales
 
@@ -872,8 +924,8 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 | Saturday, 2019-02-02 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/mp/49313282) |
-| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/mp/49314789) |
+| Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](/community/matches/49313282) |
+| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](/community/matches/49314789) |
 
 #### Finales
 
@@ -911,18 +963,29 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Division osu!mania
 
+#### Finales
+
+| Saturday, 2019-02-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | [#1](/community/matches/49469976) |
+| **DemonWaves** ![][flag_FR] | **7** | 0 | ![][flag_FR] DragonSonic | [#1](/community/matches/49473434) |
+
+| Sunday, 2019-02-10 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] DemonWaves | -win by default- |
+
 #### Demi-finales
 
 | Saturday, 2019-02-02 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](https://osu.ppy.sh/mp/49308835) |
-| **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/mp/49310117) |
-| **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/mp/49311938) |
-| **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/mp/49311941) |
+| **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](/community/matches/49308835) |
+| **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](/community/matches/49310117) |
+| **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](/community/matches/49311938) |
+| **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](/community/matches/49311941) |
 
 | Sunday, 2019-02-03 |  |  |  |  | 
 | --: | :-: | :-: | :-- | :-: |
-| Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](https://osu.ppy.sh/mp/49341019) |
+| Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](/community/matches/49341019) |
 | \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | -win by default- |
 
 #### Quarts-de-finale
