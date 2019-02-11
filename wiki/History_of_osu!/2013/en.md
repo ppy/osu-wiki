@@ -1,7 +1,5 @@
 # 2013
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Catch_the_Beat) was almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" is out. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
@@ -15,7 +13,7 @@ Links:
 
 ## February
 
-A new version of the osu!mania editor was being worked on. Taiko mode skinning now has a "metadata" bar (song title and artist below the playfield), taiko playfield was no longer transparent and fades in and out of kiai time. The original [FAQ](http://osu.ppy.sh/p/faq) has been superseded by the [osu!wiki](/wiki/FAQ).
+A new version of the osu!mania editor was being worked on. Taiko mode skinning now has a "metadata" bar (song title and artist below the playfield), taiko playfield was no longer transparent and fades in and out of kiai time. The original [FAQ](http://osu.ppy.sh/p/faq) has been superseded by the [osu! wiki](/wiki/FAQ).
 
 BanchoBot's `!faq` command has been open to public for [translation](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). The legendary [BanchoBot](/wiki/BanchoBot) finally has a [profile](/users/3)! The user panels display now adjusts to display four columns on all widescreen modes.
 
@@ -77,7 +75,7 @@ During replays, half-speed replay has been added (after pressing `2x` Speed, it 
 
 For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is enabled by the host. At the skinning side of things, widescreen taiko (taiko `@2x`) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections.
 
-Three brand new Dedication [achievements](/wiki/achievements) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game login) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
+Three brand new Dedication [achievements](/wiki/achievements) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game sign-in) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 
 - [osu! Public Release (b20130509)](/community/forums/topics/131611)
 - [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2334705)

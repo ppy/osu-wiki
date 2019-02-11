@@ -9,7 +9,6 @@ List of guides and important threads, created by the community.
 + [How to make the bottompart of the song selection screen](https://osu.ppy.sh/community/forums/topics/612788) by [RockRoller](https://osu.ppy.sh/users/8388854)
 + [Song selection screen allignment](https://osu.ppy.sh/community/forums/topics/686407) by [RockRoller](https://osu.ppy.sh/users/8388854)
 + [Mania stage centering](https://osu.ppy.sh/community/forums/topics/134782?start=2327816) by [JeMhUnTeR](https://osu.ppy.sh/users/1409564)
-+ [Skinning gimmicks](https://osu.ppy.sh/community/forums/topics/691766) by [RockRoller](https://osu.ppy.sh/users/8388854)
 
 ## Important threads
 
@@ -20,6 +19,7 @@ List of guides and important threads, created by the community.
 + [Skin checker](https://osu.ppy.sh/community/forums/topics/617168) by [Roan](https://osu.ppy.sh/users/8214639)
 + [Skinning suggestions for newbies](https://osu.ppy.sh/community/forums/topics/704719) by [atturbo555](https://osu.ppy.sh/users/5730417)
 + [Completed skins queue](https://osu.ppy.sh/community/forums/topics/686672) by [RockRoller](https://osu.ppy.sh/users/8388854)
++ [HD to SD Image Scaler](https://osu.ppy.sh/forum/t/762684) by [Roan](https://osu.ppy.sh/u/8214639)
 
 ## Collections
 

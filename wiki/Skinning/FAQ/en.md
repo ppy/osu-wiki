@@ -1,7 +1,5 @@
 # FAQ
 
-*Main page: [Skinning](/wiki/Skinning).*
-
 *This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
 
 ## Getting started
@@ -14,7 +12,7 @@ Skinning is a simple image changing mechanism that osu! will load upon selecting
 
 If you have gone through the entire skinning forums and you are certain that you cannot find *that* skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want!
 
-**Nevertheless, please, never request for a skin anywhere in the forums.** Failing to follow this rule will your thread be moved to the wastelands.
+**Nevertheless, please, never request for a skin anywhere in the forums.** Failing to follow this rule will result in your thread being moved to the wastelands.
 
 ### Where can I get this skin that I saw someone play with?
 
@@ -28,7 +26,7 @@ The only exception to this are sounds, as they are typically harder to make. The
 
 ### How do I make a skin?
 
-*See also: [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
+*Main page: [Skinning/Tutorial](/wiki/Skinning/Tutorial)*
 
 ### What should my skin folder contain?
 
@@ -46,7 +44,7 @@ You can also exit and reopen osu! or start the updater to reload the skin, but i
 
 ### What are skinning sets?
 
-*See also: [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List).*
+*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
 
 In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
 
@@ -139,7 +137,7 @@ It is really important to include various screenshots of gameplay and the song s
 
 ### What is skin.ini?
 
-*See also: [skin.ini](/wiki/skin.ini).*
+*Main page: [skin.ini](/wiki/skin.ini)*
 
 ### What is v1.0 and v2.0+?
 
@@ -197,7 +195,7 @@ HD images have doubled dimension sizes. For example: the normal `hitcircle.png` 
 
 Every sprite has an HD counterpart, even all frames in an animation can have HD counterparts. As a result, the filesize of the folder or archive will increase due to having more images than normal.
 
-All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes _osu!_ is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
+All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes osu! is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
 
 - LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
 - HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)
@@ -279,7 +277,7 @@ You must have [osu!supporter](/wiki/osu!supporter) to see the background image i
 
 ### What does the @2x do?
 
-*See also: [HD images](#hd-images).*
+*Main page: [HD images](#hd-images)*
 
 ### My taiko drums are in the wrong position!
 
@@ -287,7 +285,7 @@ Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or hi
 
 ### How do I change the combo colours?
 
-*See also: [skin.ini](/wiki/skin.ini/#[colours]).*
+*Main page: [skin.ini](/wiki/skin.ini/#[colours])*
 
 ### How do I disable one or more hit sounds?
 

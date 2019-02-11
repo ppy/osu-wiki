@@ -11,33 +11,27 @@ outdated: true
 - [Регистрация](/wiki/Registration)
 - [Правила](/wiki/Rules)
 - [ЧАВО](/wiki/FAQ)
-- Режимы игры
-  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [Мультиплеер](/wiki/Multi/#getting-started)
+- [Режимы игры](/wiki/Game_Modes)
+  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+  - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+  - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+- [Мультиплеер](/wiki/Multi)
 - [Критерии ранкинга карт](/wiki/Ranking_Criteria)
   - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## Статья месяца
-
-*Подробнее: [Маскоты (персонажи-талисманы)](/wiki/Mascots).*
-
-Встречайте pippi, Yuzu, Maria и Mocha — полюбившихся всем маскотов osu!standard, osu!catch, osu!mania и osu!taiko.
-
 ## Маппинг
 
-*Подробнее: [Маппинг](/wiki/Beatmapping/#getting-started).*
+*Подробнее: [Маппинг](/wiki/Beatmapping).*
 
-Маппинг — это процесс создания карты. Он включает в себя выбор музыки, настройку тайминга, расстановку игровых элементов и тестирование карты. Также создатель карты может добавить видео, [сториборд](/wiki/storyboarding/#getting-started) или свой [скин](/wiki/skinning/#getting-started). Всё это может быть сделано им как самостоятельно, так и совместно с другими пользователями.
+Маппинг — это процесс создания карты. Он включает в себя выбор музыки, настройку тайминга, расстановку игровых элементов и тестирование карты. Также создатель карты может добавить видео, [сториборд](/wiki/Storyboarding) или свой [скин](/wiki/Skinning). Всё это может быть сделано им как самостоятельно, так и совместно с другими пользователями.
 
 ## Моддинг
 
-*Подробнее: [Моддинг](/wiki/Modding/#getting-started).*
+*Подробнее: [Моддинг](/wiki/Modding).*
 
 Моддинг — это просмотр и улучшение новой карты другими участниками (которых обычно называют моддерами). Моддинг играет важную роль в создании качественных карт, поскольку он помогает найти и исправить ошибки.
 

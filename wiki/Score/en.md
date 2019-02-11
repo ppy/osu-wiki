@@ -281,7 +281,7 @@ Flashlight                    1.06
 
 ## Other Scores
 
-Suppose a player played these four beatmaps online with a logged-in osu!account on a single game mode, osu!standard:-
+Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!standard:-
 
 - ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/s/3302 "BRANDY - The Festival of Ghosts 2 (darrihuka)")
   - Relaxing : 3,000,000

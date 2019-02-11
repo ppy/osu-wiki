@@ -327,7 +327,7 @@ _Humo en la configuración de atajos de teclado; mantener apretada la tecla `C` 
 - No girar alrededor del centro de la ruleta **no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego. Aplica esparcidamente los efectos del humo para evitar que los efectos de humo mas viejos desaparezcan demasiado rápido.
 - La mascota de osu! es [pippi][Mascots#pippi wikilink].
-- Cuando se juega con [Auto][Auto wikilink], el nombre del jugador será _osu!_.
+- Cuando se juega con [Auto][Auto wikilink], el nombre del jugador será osu!.
 
 ### Historia
 

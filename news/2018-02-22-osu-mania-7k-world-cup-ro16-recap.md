@@ -10,7 +10,9 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 ### Navigation
 
-<a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
+- [Mappool](#mappool)
+- [Tournament Matches](#matches)
+- [Looking Ahead](#ahead)
 
 --------
 **Have you already forgotten the events that have transpired last week?** Here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/users/4182339) summarising the highlights of the Group Stage.

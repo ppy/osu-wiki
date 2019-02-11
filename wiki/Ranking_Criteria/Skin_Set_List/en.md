@@ -1,9 +1,11 @@
 Skin Set List 
 ============= 
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
-The following tables contain all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
+Filenames containing `(-n)` can be animated. For example, hitcircleoverlay(-n).png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.).
+
+[Download the skin sets template](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) for a simpler view of the tables.
 
 ## osu!
 
@@ -33,7 +35,7 @@ The entirety of this skin set is gameplay relevant.
 |hit300k(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
 |lighting.png   | -  | optional  | -  |
 |particle50.png   | should be included together with all other particles; will only work if custom hitbursts are included   | optional  | 7x7px  |
-|particle100.ong   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
+|particle100.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
 |particle300.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
 |sliderpoint10.png   | should be included together with sliderpoint30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
 |sliderpoint30.png   | should be included together with sliderpoint10.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
@@ -70,7 +72,7 @@ The entirety of this skin set is gameplay relevant.
 ### Hitcircle Number Set
 
 The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
-Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria Proposal.
+Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -172,7 +174,7 @@ The entirety of this skin set is gameplay relevant.
 ### Catcher Set
 
 All elements besides lightning.png are gameplay relevant. 
-For catchers the plate must be perfectly centered and exactly 302px across in width.
+For catchers the plate must be perfectly centered and exactly 302px across in width. While the default skin's plate is uncentered, it may be used in beatmap-specific skins.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -185,7 +187,7 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 
 ### Scorebar Set
 
-The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria proposal.
+The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -253,7 +255,7 @@ This skin set is not gameplay relevant. The respective icons can be left out eve
 
 ### Playfield Set
 
-The combobursts included in this set are gameplay relevant and star2.png is only gameplay relevant if kiai time is present in the map. All other elements are not gameplay relevant.
+The combobursts and star2.png included in this set are gameplay relevant and all other elements are not gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -264,7 +266,7 @@ The combobursts included in this set are gameplay relevant and star2.png is only
 |multi-skipped.png   |multiplayer: shows who skipped the intro   |optional   |-   |
 |play-skip(-n).png   |-   |optional   |-   |
 |play-unranked.png   |-   |optional   |-   |
-|star2.png   |must not be skinned in beatmapsets which have neither kiai time nor breaks   |optional   |-   |
+|star2.png   |-   |optional   |-   |
 
 ### Inputoverlay Set
 

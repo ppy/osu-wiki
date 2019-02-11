@@ -5,13 +5,13 @@ permalink: http://osunews.tumblr.com/post/98877711548/official-osu-fanart-contes
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98877711548/official-osu-fanart-contest-4-begins
 ---
-Hi there! New osu! staffer here. I'll soon be taking over the running of the osu webstore (yes, that means restocked [osu! tablets](https://osu.ppy.sh/store/products/1) soon!) but today I'm here to introduce the fourth Official osu! Fanart Contest! This time, things are getting spooky with the theme of…
+Hi there! New osu! staffer here. I'll soon be taking over the running of the osu webstore (yes, that means restocked [osu! tablets](https://osu.ppy.sh/store/products/1) soon!) but today I'm here to introduce the fourth Official osu! Fanart Contest! This time, things are getting spooky with the theme of...
 
-![](http://puu.sh/bV8yA/f528e80af3.gif)
+![](/wiki/shared/news/2014-10-01-official-osu-fanart-contest-4-begins/osu-fanart4.gif)
 
 We're talking skeletons, pumpkins, blood, ghouls and any other creepy crawly Halloween renderings of osu! and its characters that you can think up. Go crazy! Do you have the guts?
 
-Well, I'm not going to stick around all day and make terror-ible Halloween puns, so let's discuss specifics….
+Well, I'm not going to stick around all day and make terror-ible Halloween puns, so let's discuss specifics....
 
 Once again a [full one year supporter tag](https://osu.ppy.sh/p/support) is up for grabs, along with the [osu! tablet](https://osu.ppy.sh/store/products/1), which should come in handy for drawing as well as playing. In addition to the grand prize winners, any artwork that gets used in any official format will win the artist a one-month supporter tag. Further compensation will be offered for any artwork that is used for official merchandise.
 

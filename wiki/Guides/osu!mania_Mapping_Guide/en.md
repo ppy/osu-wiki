@@ -6,7 +6,7 @@ Prologue
 
 ### What is osu!mania?
 
-*See also: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Main page: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 So what exactly is osu!mania? Many of you osu! veterans out there might already know what osu!mania is. osu!mania is one of the four game modes. Many people that stumble upon osu!mania for the first time will probably think to themselves "Oh cool! Guitar Hero!". And indeed, osu!mania is very similar to Guitar Hero. Both of these games are so-called "VSRGs", or **Vertical Scrolling Rhythm Games**. This means, as the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX". But for now, we will be concentrating on osu!mania only!
 
@@ -54,7 +54,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Artist: | Here you'll have to add the original name of your songs Artist. No matter if it is Japanese, German or Russian. If the name of the artist has at least one special character you must add it here! As an example: If your artist name is "Die Ärzte" you must add it here because of the "Ä". |
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
-| Beatmap Creator: | This field is automatically filled out with your name when you are logged in into osu! If you are not online at the time of creating the beatmap, add your name there. |
+| Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
 | Difficulty: | Here you have to give your difficulty a name. The standard difficulty names for osu!mania are "EZ", "NM", "HD", "MX", "SC" and "SHD", but you are not forced to use these! If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC, NOVICE, ADVANCED, EXHAUST, INFINITE, GRAVITY".You can even add own difficulty names. The only important part of the naming process is that the chosen names have to show a clear indication of their difficulty. This does not apply to marathon maps. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
 | Tags: | You can add additional information about your song here. Album for example, or producer. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well. |
@@ -191,7 +191,7 @@ Okay! These are some of the different patterns you can use in your song! There's
 
 ### Mapping
 
-After we finally know which patterns we can use and how they are called we can start with the mapping. Just drag the song you want to map into osu!, fill out the song setup up and add the timing! If your first tries look kinda strange or you don't like it, don't give up! No one is born as a master. Testplay your map as often as you can and when it is finished try to get as much feedback as possible! Ask friends that play osu!mania, ask in \#osumania or write directly to some player ingame and ask for feedback. It really helps a lot when you use the 25% playback rate while mapping. Alright, let's go! In this part I would like to explain what exactly you should have an eye on while mapping an Easy/Normal/Hard or Insane difficulty.
+After we finally know which patterns we can use and how they are called we can start with the mapping. Just drag the song you want to map into osu!, fill out the song setup up and add the timing! If your first tries look kinda strange or you don't like it, don't give up! No one is born as a master. Testplay your map as often as you can and when it is finished try to get as much feedback as possible! Ask friends that play osu!mania, ask in \#osumania or write directly to some player in-game and ask for feedback. It really helps a lot when you use the 25% playback rate while mapping. Alright, let's go! In this part I would like to explain what exactly you should have an eye on while mapping an Easy/Normal/Hard or Insane difficulty.
 
 **Notice**: Keep in mind that everything what I will write from here is just a guideline and you should not take this as actual rule. You don't need to follow this guideline verbatim.
 
@@ -227,7 +227,7 @@ First, there is the normal way that uses the samples and effects provided by the
 
 For now, we want to focus on the normal way of hitsounding.
 
-First you have to decide; do you want to use the default hitsounds that osu gives you or do you want to add custom hitsounds?
+First you have to decide; do you want to use the default hitsounds that osu! gives you or do you want to add custom hitsounds?
 
 If you want to use the default one you don't really need to change a lot. Everything you need is to decide which sample set you want to use as a default. Go into the Timing Setup Panel and change your timing point to the sample set you want to use. Osu!mania usually uses "soft" as default because the hit-normal isn't that loud.
 

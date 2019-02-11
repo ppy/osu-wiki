@@ -3,9 +3,7 @@
 
 # osu!
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial).*
+*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial)*
 
 ## Comboburst
 
@@ -441,7 +439,7 @@ Notes:
 Notes:
 
 - Ignored if `sliderb.png` is skinned.
-  - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
+  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
 - Tinted black.
 - This element is the background layer of the default slider ball.
 
@@ -458,7 +456,7 @@ Notes:
 Notes:
 
 - Ignored if `sliderb.png` is skinned.
-  - Beatmap skinnable if the player skin does not have `sliderb.png` is skinned.
+  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
 - This element is the top layer of the ball that stays in a static position (does not flip nor rotate).
 
 ---

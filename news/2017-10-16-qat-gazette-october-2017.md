@@ -6,7 +6,7 @@ date: 2017-10-16 06:00:00 +0000
 
 There have been major developments in the Quality Assurance Team and Beatmap Nominators this month, with new QAT leaders, changes to the Nominator Tier system, revival of mapping contests, and more ranked maps per day! Curious to know more? Read on to find out!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 Hello again everyone! Another month has passed, so here we are with the second issue of the **QAT Gazette**!
 New Beatmap Nominators have joined for osu!taiko, osu!catch and osu!mania, the QAT and Beatmap Nominator Upheaval is underway and Mapping with Rewards has made a return - these are just some of the topics in this month's issue, so let's begin!

@@ -1,3 +1,6 @@
+---
+legal: true
+---
 # osu! Privacy Policy
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
@@ -74,7 +77,7 @@ We may share your personal data with third parties in very specific cases:
 - To fulfil your store orders
 - To process payments via payment processing providers like Paypal and Xsolla
 - To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use ([Sentry](https://sentry.io))
+- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
 
 ## Your rights and control
 
@@ -84,7 +87,7 @@ In many cases, user submissions such as forum posts and beatmaps can be deleted 
 
 If you are covered by the European Union, you have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect". 
 
-As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Data Collection".
+As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect".
 
 ## Cookies
 

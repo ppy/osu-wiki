@@ -6,7 +6,7 @@ date: 2018-02-23 11:00:00 +0000
 
 Mapping is off to a strong start in 2018, and here we come again with our selection of maps the previous month! Swing by and check out the Beatmap Spotlights for January!
 
-![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/spotlight-header.jpg)
+![](/wiki/shared/news/banners/spotlights-header.jpg)
 
 The beatmap charts for the January Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1802) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The January 2018 Spotlights rankings will end on 15th March 2018.**
 
@@ -132,7 +132,7 @@ Finally entering the Ranked section with a set of their own, [Shoegazer](https:/
 
 Making the most of the interesting percussion structures throughout the song, here we see 5 tightly-structured difficulties suited to players of every caliber. The lower difficulties utilise a concept akin to pitch relevancy, which produces some interesting results: you'll find plenty of tricky patterns which work perfectly with the song. Easy to read, but just as easy to trip up and this map is primed to punish you for those small errors.
 
-If you're looking for a true challenge, look no further than the Observer difficulty. Here the idea of “comfortable" is completely shattered with intricate patterns galore that you'll see nowhere else in the Ranked section; this difficulty will certainly test the limits of your technical abilities as well as a sense of exhilaration that's hard to come by elsewhere. Keep your eyes peeled: here's a name to keep looking out for in the future!
+If you're looking for a true challenge, look no further than the Observer difficulty. Here the idea of "comfortable" is completely shattered with intricate patterns galore that you'll see nowhere else in the Ranked section; this difficulty will certainly test the limits of your technical abilities as well as a sense of exhilaration that's hard to come by elsewhere. Keep your eyes peeled: here's a name to keep looking out for in the future!
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/perthed-again.jpg)](https://osu.ppy.sh/beatmapsets/569392)
 

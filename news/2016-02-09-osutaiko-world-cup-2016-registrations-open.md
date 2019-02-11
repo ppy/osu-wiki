@@ -5,9 +5,9 @@ permalink: http://osunews.tumblr.com/post/138990982913/osutaiko-world-cup-2016-r
 date: 2016-02-09 15:00:13 +0000
 tumblr_url: http://osunews.tumblr.com/post/138990982913/osutaiko-world-cup-2016-registrations-open
 ---
-We'd like to welcome all of you to this year's official osu!taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them carefully ](http://osu.ppy.sh/wiki/TWC_2016#ruleset) before registering for this tournament.
+We'd like to welcome all of you to this year's official osu!taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them carefully](http://osu.ppy.sh/wiki/TWC_2016#ruleset) before registering for this tournament.
 
-![](http://puu.sh/n1yqb/38ca009f26.png)
+![](/wiki/shared/news/banners/TWC_2016.png)
 
 For more details, refer to the [osu!taiko World Cup 2016 wiki article](http://osu.ppy.sh/wiki/TWC_2016).
 

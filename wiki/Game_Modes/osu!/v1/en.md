@@ -39,7 +39,7 @@
 
 **This page is based on the old version of osu! game mode using ScoreV1 system.**
 
-**[Click to return to current osu! game mode][osu! main wikilink]**
+*For the current osu!standard game mode, see: [osu!standard](/wiki/Game_Modes/osu!)*
 
 ![Gameplay of osu!][osu! Interface image]
 
@@ -352,7 +352,7 @@ _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 - Smoke last longer than default in-game cursor trail.
   Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi][Mascots#pippi wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!_.
+- When played by [Auto][Auto wikilink], the player name will be osu!.
 
 ### History
 

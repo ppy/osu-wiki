@@ -1,7 +1,5 @@
 # 2016
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 A brand new year with additions to the list of [community contributors](/wiki/community_contributors). Best of 2015 voting opened.
@@ -74,7 +72,7 @@ Links:
 - [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
 - [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
 - [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
-- [osu! on twitter](https://twitter.com/osugame/status/770153577255796737)
+- [osu! on Twitter](https://twitter.com/osugame/status/770153577255796737)
 
 ## September
 

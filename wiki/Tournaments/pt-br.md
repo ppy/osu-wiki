@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 Torneios
 ===============
 
@@ -52,9 +56,9 @@ osu! World Cup é um torneio de times (países) 4v4 VS seguindo a regra do mata-
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 4K   | ![][flag_KR] Coréia do Sul               | ![][flag_PH] Filipinas                 | ![][flag_MY] Malásia                    |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 7K   | ![][flag_KR] Coréia do Sul               | ![][flag_TH] Tailândia                    | ![][flag_MY] Malásia                    |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] USA                       | ![][flag_JP] Japão                       | ![][flag_GB] UK                          |
-| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] China                     | ![][flag_KR] Coréia do Sul                 | ![][flag_MY] Malásia                    |
-| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 28/06/2016 | 11/09/2016 | 4K   | ![][flag_KR] Coréia do Sul                       | ![][flag_BR] Brasil                       | ![][flag_US] USA                         |
-| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 12/12/2016 | 12/02/2017 | 7K   | ![][flag_KR] Coréia do Sul                     | ![][flag_CN] China                 | ![][flag_ID] Indonésia                    |
+| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016_7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] China                     | ![][flag_KR] Coréia do Sul                 | ![][flag_MY] Malásia                    |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 28/06/2016 | 11/09/2016 | 4K   | ![][flag_KR] Coréia do Sul                       | ![][flag_BR] Brasil                       | ![][flag_US] USA                         |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 12/12/2016 | 12/02/2017 | 7K   | ![][flag_KR] Coréia do Sul                     | ![][flag_CN] China                 | ![][flag_ID] Indonésia                    |
 
 Comunidade
 ----------
@@ -71,6 +75,12 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 | Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
 | [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/u/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/u/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/u/%5BCrz%5DScSolAr) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
 
 Veja também
 ---------

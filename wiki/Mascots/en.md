@@ -1,6 +1,6 @@
 # Mascots
 
-*See also: [Mascots/Gallery](/wiki/Mascots/Gallery).*
+*See also: [Mascots/Gallery](/wiki/Mascots/Gallery)*
 
 A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
@@ -14,7 +14,7 @@ pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
-<!-- *For the news post, see: [Meet Yuzu](/home/news/89483664163).* -->
+<!-- *For the news post, see: [Meet Yuzu](/home/news/89483664163)* -->
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -22,7 +22,7 @@ Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-1
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
-*For the news post, see: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
+*For the news post, see: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
 
 ![Maria](img/Maria.png "Maria")
 
@@ -30,7 +30,7 @@ Maria is the osu!mania mascot that joined on 2016-03-04. Her art was designed by
 
 ### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
-*For the news post, see: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
+*For the news post, see: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 
 ![Mocha](img/Mocha.png "Mocha")
 
@@ -70,30 +70,30 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 ### Aiko
 
-![Aiko](img/Aiko.jpg "Aiko")
+![Aiko](img/Aiko.png "Aiko")
 
 Designed by [JMC](/users/774010), Aiko was one of the participants in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on 1999-04-06.
 
 ### Alisa
 
-![Alisa](img/Alisa.jpg "Alisa")
+![Alisa](img/Alisa.png "Alisa")
 
 Designed by [\[ Glitch \]](/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing osu!taiko, or playing retro video games for kicks!
 
 ### Tama
 
-![Tama](img/Tama.jpg "Tama")
+![Tama](img/Tama.png "Tama")
 
 Designed by [crystalsuicine](/users/9974), Tama was one of the younger participants in the osu!taiko mascot design contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
 
 ### Taikonator
 
-![Taikonator](img/Taikonator.jpg "Taikonator")
+![Taikonator](img/Taikonator.png "Taikonator")
 
 Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
 
 ### pyun
 
-![pyun](img/pyun.jpg "pyun")
+![pyun](img/pyun.png "pyun")
 
 Designed by [pyun](/users/981534), pyun was one of the participants in the osu!taiko mascot design contest. She is seen in some of pyun's past fanart contest submissions.

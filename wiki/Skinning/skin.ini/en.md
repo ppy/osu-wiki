@@ -1,9 +1,9 @@
 # skin.ini
 
-*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank).*
+*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
-This file will define how _osu!_ will display certain skin elements.
+This file will define how osu! will display certain skin elements.
 
 **Caution:** `skin.ini` commands are case sensitive, make sure you follow the proper spelling and are using the correct capitalisation!
 
@@ -422,21 +422,21 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Values: _RGB_
   - Default: `255,0,0`
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour of the catcher itself.
 - `HyperDashFruit:`
   - Question: What colour should be used for the fruits?
   - Values: _RGB_
   - Default: *use `HyperDash`*
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour outlining the fruit.
 - `HyperDashAfterImage:`
   - Question: What colour should be used for the after images?
   - Values: _RGB_
   - Default: *use `HyperDash`*
   - Notes:
-    - _osu!_ will use a default alpha value.
+    - osu! will use a default alpha value.
     - This is the colour of the images following the catcher after obtaining the hyperdash fruit.
 
 ## \[Mania\]

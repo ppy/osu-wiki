@@ -1,84 +1,100 @@
 ---
 outdated: true
 ---
-Модераторы (GM)
-=================
+# Модераторы (GM)
 
 **GMT** (англ. **Global Moderation Team**, *команда глобальных модераторов*) — участники сообщества osu!, занимающиеся модерацией чата и форума.
 
-История
--------
-
-Когда-то приглядыванием за [IRC](/wiki/Internet_Chat_Relay) занимались одни люди, а слежением за форумом — совсем другие. Вторую группу также называли администраторами, а иногда — "Green[BAT](/wiki/People/Beatmap_Nomination_Group)", поскольку у неё имелись права на выдачу бабблов и ранкинг карт. В какой-то момент — после одного из неудачных ранков — это было замечено, и права пропали, однако часть из них (напр., права на установку жанра и языка песни или её онлайн-оффсета) оставалась ещё пару лет.
-
-Кроме того, несколько человек из этой группы действительно входили в состав администрации (или, по крайней мере, имели соответствующие права доступа), что позволяло им расшатывать ~~устои~~ форум с помощью пресловутой [acp](https://www.phpbb.com/support/docs/en/3.0/ug/adminguide/), или админки.
-
-О том, что происходит в настоящий момент, см. ниже.
-
-Как попасть в модераторы
-------------------------
+## Как попасть в модераторы
 
 Новых модераторов практически всегда выбирают, исходя из знания языков, с тем расчётом, чтобы они (модераторы, не языки) могли следить за плохо или вообще не модерируемыми [IRC](/wiki/Internet_Chat_Relay)-каналами и форумами. Сюда относятся каналы, недавно лишившиеся или не имеющие отдельного модератора.
 
-Роли и обязанности
-------------------
+## Роли и обязанности
 
 Модераторы занимаются, как ни странно, модерацией форумов (удаление, редактирование постов, закрытие тем, ...) и чатов (в основном — выдача сайленсов и показ справки). Они также удаляют аватарки, подписи и юзерпейджи, нарушающие правила osu!.
 
 Если у вас есть какие-то вопросы по вышеперечисленным темам, свяжитесь с кем-нибудь из этой группы.
 
-Состав группы
--------------
+## Состав группы
 
-[Всегда актуальная ссылка](http://osu.ppy.sh/g/4) (список). *Помимо указанных языков, все эти люди знают английский.*
+[Всегда актуальная ссылка](http://osu.ppy.sh/groups/4) (список). *Помимо указанных языков, все эти люди знают английский.*
 
 | Имя | Дополнительные языки | Специализация |
-| --- | -------------------- | ------------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | итальянский | чат |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | венгерский | чат |
-| [Atrue](https://osu.ppy.sh/u/1758523) | китайский | чат |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | чат |
-| [deadbeat](https://osu.ppy.sh/u/128370) | | обучение игроков |
-| [Deif](https://osu.ppy.sh/u/318565) | испанский | организация турниров |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | техподдержка |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | игрок поддержки |
-| [Flanster](https://osu.ppy.sh/u/447818) | болгарский | организация конкурсов osu!idol, чат |
-| [Gabe](https://osu.ppy.sh/u/654108) | французский | чат |
-| [Galkan](https://osu.ppy.sh/u/169570) | польский | чат |
-| [ghm12](https://osu.ppy.sh/u/2594229) | португальский | чат |
-| [heyronii](https://osu.ppy.sh/u/5642779) | турецкий | чат |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | кантонский, китайский | чат |
-| [juankristal](https://osu.ppy.sh/u/443656) | испанский | чат, организация турниров |
-| [Kobold84](https://osu.ppy.sh/u/3227533) | русский | чат |
-| [Kurai](https://osu.ppy.sh/u/77089) | французский, русский | чат |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | русский | чат |
-| [Lassikko](https://osu.ppy.sh/u/7253731) | финский | чат |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | испанский | чат, форум |
-| [Marcin](https://osu.ppy.sh/u/722665) | польский | форум, разработка игры |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | итальянский | чат |
-| [n0ah](https://osu.ppy.sh/u/3086393) | голландский | чат, форум |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») | чат, форум |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | французский | чат |
-| [Nyquill](https://osu.ppy.sh/u/682935) | китайский | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | чат, техподдержка |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | голландский | чат |
-| [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu!wiki |
-| [ruexia](https://osu.ppy.sh/u/385069) | корейский | чат |
-| [S o h](https://osu.ppy.sh/u/2234772) | японский | чат |
-| [Saten](https://osu.ppy.sh/u/444506) | шведский, испанский | чат |
-| [shARPII](https://osu.ppy.sh/u/776257) | французский | чат, организация турниров |
-| [Shiro](https://osu.ppy.sh/u/113005) | французский, испанский | чат |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | индонезийский | чат |
-| [Spkz](https://osu.ppy.sh/u/2964029) | венгерский | чат |
-| [Stefan](https://osu.ppy.sh/u/626907) | немецкий | чат, форум |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | корейский | чат |
-| [Tasha](https://osu.ppy.sh/u/1031958) | | обучение игроков |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| корейский, японский | чат |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | испанский | техподдержка |
-| [Ukami](https://osu.ppy.sh/u/820865) | польский | чат |
-| [Uni](https://osu.ppy.sh/u/617106) | голландский | чат |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | | техподдержка |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | испанский | чат, форум |
-| [Yason](https://osu.ppy.sh/u/2574392) | польский | чат |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | китайский | чат |
-| [Zetera](https://osu.ppy.sh/u/587737) | немецкий | чат |
+| :-- | :-- | :-- |
+| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | итальянский | чат |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | чат |
+| ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | немецкий | чат |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | испанский | чат, форум |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | чат, техподдержка |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | техподдержка |
+| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | корейский, японский | чат, форум |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | игрок поддержки |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | болгарский | организация конкурсов osu!idol, форум |
+| ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | китайский | чат, форум |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | французский | чат, форум |
+| ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | польский | чат |
+| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | португальский | чат |
+| ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | турецкий | чат |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | испанский | организация турниров |
+| ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | русский | чат |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | французский, русский | чат, Metadata Team |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | русский | чат |
+| ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | финский | чат |
+| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | испанский | чат, форум |
+| ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | итальянский | чат |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | голландский | чат, форум |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») | чат, форум |
+| ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | французский | чат |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! развитие, Mappers' Guild организация |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | немецкий | Ranking Criteria, форум, чат |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | чат, техподдержка |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | испанский | чат, администрирование osu!wiki |
+| ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | корейский | чат |
+| ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) | японский | чат |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | шведский, испанский | чат |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | французский, испанский | чат |
+| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | индонезийский | чат |
+| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | китайский | чат |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | венгерский | чат |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум |
+| ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | русский | чат |
+| ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | русский | чат |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | корейский, японский | чат |
+| ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | французский | чат |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | тагалог («филиппинский») | чат |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | испанский | техподдержка |
+| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | польский | чат |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | испанский | чат, организация турниров, форум |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | польский | чат |
+| ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | китайский | чат |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | немецкий | чат |
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BG]: /wiki/shared/flag/BG.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_UY]: /wiki/shared/flag/UY.gif

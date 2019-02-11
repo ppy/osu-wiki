@@ -1,6 +1,9 @@
+---
+outdated: true
+---
 # BanchoBot
 
-![BanchoBot 玩家信息](BanchoBot.jpg "BanchoBot 玩家信息")
+![BanchoBot 玩家信息](img/BanchoBot.jpg "BanchoBot 玩家信息")
 BanchoBot 是由 **Echo49** 编写的一个可爱的机器人。它能在聊天室中根据用户下达的指令来给予反馈，从而协助玩家例如显示特定信息以及发布与游戏相关的内容。
  
 BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#3](https://osu.ppy.sh/u/3)_ （就比 ID 是 [#2](https://osu.ppy.sh/u/2) 的 peppy 大一号）。*同时，它也有一个[推特账号](https://twitter.com/banchoboat)。*

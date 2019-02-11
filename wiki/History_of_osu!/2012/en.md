@@ -1,7 +1,5 @@
 # 2012
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## September
 
 ![](img/2012-09_01.jpg "osu!'s main menu at the time")
@@ -10,7 +8,7 @@ osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During 
 
 Links:
 
-- <http://osu.ppy.sh/forum/t/98349>
+- [Five Years of osu! (Forum thread)](http://osu.ppy.sh/forum/t/98349)
 
 ## October
 
@@ -33,7 +31,7 @@ Trivia: For players who entered Multi's lobby before updating to the b20121008 b
 
 Links:
 
-- <http://osu.ppy.sh/forum/p/1825880>
+- [osu! release (b20121008): osu!mania (Forum thread)](http://osu.ppy.sh/forum/p/1825880)
 
 ---
 
@@ -53,7 +51,7 @@ Button status overlay was considered a nice addition. Now, you can actually *see
 
 Links:
 
-- <http://osu.ppy.sh/forum/t/103427>
+- [osu! Release (b20121029) (Forum thread)](http://osu.ppy.sh/forum/t/103427)
 
 ## November
 
@@ -61,7 +59,7 @@ On 2012-11-13, **osu!mania ranking was now implemented with pp ranking**. To ens
 
 Links:
 
-- <http://osu.ppy.sh/forum/t/105564>
+- [osu!mania score reset (Forum thread)](http://osu.ppy.sh/forum/t/105564)
 
 ---
 
@@ -79,7 +77,7 @@ A "Quick Join" button was added to Multi's lobby where you randomly join a room 
 
 Links:
 
-- <http://osu.ppy.sh/forum/t/106677>
+- [osu! Public Release (b20121122) (Forum thread)](http://osu.ppy.sh/forum/t/106677)
 
 ## December
 
@@ -97,7 +95,7 @@ Technical issues and bugs were expected. The widescreen support, despite being f
 
 Links:
 
-- <http://osu.ppy.sh/forum/t/110459>
+- [osu! Public Release (b20121221) (Forum thread)](http://osu.ppy.sh/forum/t/110459)
 
 ---
 
@@ -105,4 +103,4 @@ On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new ver
 
 Links:
 
-- <http://osu.ppy.sh/forum/p/2005499>
+- [Merry Christmas (bancho changes + free osu!direct) (Forum thread)](http://osu.ppy.sh/forum/p/2005499)

@@ -5,9 +5,9 @@ permalink: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-av
 date: 2015-03-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-available-contest
 ---
-Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)… [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
+Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)... [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
 
-![](https://puu.sh/gFcQ2/6cbb2ea5e1.jpg)
+![](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/stickers.jpg)
 
 Now you can beatmap anywhere you want! No admin approval needed - just go ahead and slap them on your books, fridge, laptop and all over the neighbourhood.
 
@@ -17,7 +17,7 @@ Each pack contains two 8.5" x 11" custom sticker sheets featuring elements from 
 
 To celebrate the launch of this new item, we're running a contest to see who can make the best beatmaps IRL, using the Beatmap Blueprints.
 
-![image](https://puu.sh/gFcOz/2c188f51a5.jpg)
+![image](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/laptop.jpg)
 
 So, if you've already purchased your set of Beatmap Blueprints, get to work! Pick your blank canvas and build the beatmap of your dreams. Points for creativity.
 

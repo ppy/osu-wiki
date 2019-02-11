@@ -44,7 +44,7 @@ This folder appears when you had switched your Language under Graphics in the Op
 
 ### Replays
 
-This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
+This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to YouTube, see this tread](https://osu.ppy.sh/forum/t/108092).
 
 The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
 

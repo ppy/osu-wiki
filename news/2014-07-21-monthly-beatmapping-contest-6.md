@@ -23,7 +23,7 @@ Remember - you only get to submit ONE difficulty, so spend the time you've got m
 
 The song for this contest is **LeaF - Evanescent**. You may listen to a preview below:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146729551&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146729551&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 The map also includes the video for the song - to provide some inspiration/a platform for creative mappers to get going!
 

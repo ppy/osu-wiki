@@ -74,11 +74,11 @@ Most spacing rules can be easily broken but still allow for an easily readable b
 However, this will require a higher level of mapping to work properly.
 
 If you are a beginner modder/mapper, don't hesitate to comment on spacing.
-However, be weary that the _weird spacing_ can be characteristic of a [jump](/wiki/jump).
+However, be wary that the _weird spacing_ can be characteristic of a [jump](/wiki/jump).
 
 ### Rhythm of Hit Objects
 
-Being that _osu!_ is a rhythm game, sensible rhythm is important.
+Being that osu! is a rhythm game, sensible rhythm is important.
 
 Do not hesitate to suggest if:
 
@@ -89,7 +89,7 @@ Do not hesitate to suggest if:
 
 ### New Combos
 
-_See also: [Combo](/wiki/Combo)._
+*See also: [Combo](/wiki/Combo)*
 
 Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read.
 Combos generally do not go over 20 in [Insane](/wiki/Insane), 12 in [Hard](/wiki/Hard), and 8 in [Easy](/wiki/Easy) or [Normal](/wiki/Normal) difficulties.
@@ -109,7 +109,7 @@ If you spot these, it is a noteworthy thing to comment about in a mod post.
 
 ### Awkward Slider Velocity Changes
 
-_See also: [Slider](/wiki/Slider)._
+*See also: [Slider](/wiki/Slider)*
 
 Sometimes maps contain slider velocity changes that may not make much sense or are very hard to follow.
 If a slider velocity change requires more than just intuition to understand, then it is usually not a fitting slider velocity change.
@@ -118,7 +118,7 @@ Here, many mappers would likely slow down the slider velocity to match the calme
 
 ### Hit Sounds
 
-_See also: [Hit Sounds](/wiki/Hit_Sounds)._
+*Main page: [Hit Sounds](/wiki/Hit_Sounds)*
 
 Hit sounds are the noise the game makes when the player successfully taps a [hit object](/wiki/hit_object).
 All maps should have a sufficient amount of hit sounds whether using custom or default hit sounds; otherwise, they cannot be ranked.
@@ -131,7 +131,7 @@ Something like this is noteworthy to pay attention and point out.
 
 ### Kiai Time
 
-_See also: [Kiai Time](/wiki/Kiai_Time)._
+*Main page: [Kiai Time](/wiki/Kiai_Time)*
 
 Kiai time should be used when it makes sense.
 It is generally said to only use it where the music reaches some "epic" climax or during a chorus.
@@ -154,7 +154,7 @@ If the kiai time differently in any way per each difficulty, it is not a bad ide
 
 ### Song Setup
 
-_See also: [Song Setup](/wiki/Song_Setup)._
+*Main page: [Song Setup](/wiki/Song_Setup)*
 
 The actual song setup settings does not impact game play, but it is important to give correct names.
 The artist name, title of the song, source (if applicable), and tags should all be the same in each difficulty.
@@ -172,7 +172,7 @@ Here are some other things to look out for in the song setup:
 
 #### Difficulty
 
-_See also: [osu!standard Ranking Criteria](/wiki/osu!standard_Ranking_Criteria#difficulty-specific) (difficulty-specific section)._
+*See also: [osu!standard Ranking Criteria](/wiki/osu!standard_Ranking_Criteria#difficulty-specific) (difficulty-specific section)*
 
 The difficulty settings can be found in the song setup dialog.
 These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have.
@@ -193,7 +193,7 @@ The mapper should not have two almost identical combo colours unless they are se
 
 ### Storyboarding
 
-_See also: [Storyboarding](/wiki/Storyboarding)._
+*Main page: [Storyboarding](/wiki/Storyboarding)*
 
 If you spot anything weird while the storyboard is playing (e.g. bad rendering of pictures, emptiness, etc.), it is a good idea to tell the [storyboarder](/wiki/storyboarder) so that they can fix it.
 You can check out the storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor.
@@ -223,7 +223,7 @@ However, if you see `thumb.db` files, you can ignore them since these are automa
 
 ## Mod Post Mistakes
 
-_See also: [Modding and Mapping](/wiki/Modding_and_Mapping)._
+*See also: [Modding and Mapping](/wiki/Modding_and_Mapping)*
 
 When you make a mod post, it is very important to **not** do any of the following:
 

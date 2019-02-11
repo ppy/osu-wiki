@@ -4,7 +4,7 @@
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
 [lifebar wikilink]: /wiki/Glossary/#life-bar "Life bar definition in Glossary"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size-osu-osu-catch-osu-taiko-only "Circle Size (CS) in Song Setup"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size "Circle Size (CS) in Song Setup"
 [AR wikilink]: /wiki/Beatmap_Editor/Song_Setup/#approach-rate "Approach Rate (AR) in Song Setup"
 [OD wikilink]: /wiki/Beatmap_Editor/Song_Setup/#overall-difficulty "Overall Difficulty (OD) in Song Setup"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
@@ -18,7 +18,7 @@
 [HT1]: ./img/GM_HT.jpg "Length of the song is increased by 1/3; BPM decreased by 1/4"
 [HR_O]: ./img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard)."
 [HR_C]: ./img/GM_HR_C.jpg "Hard Rock increases the difficulty in many ways (osu!catch)."
-[SD_Rare]: ./img/GM_SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
+[SD_Rare]: ./img/GM_SD_Rarecase.jpg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
 [DT1]: ./img/GM_DT.jpg "Length of the song is decreased by 1/3; BPM increases by 1/2"
 [HD_O]: ./img/GM_HD_O.jpg "Hidden play in osu!standard mode"
 [HD_T]: ./img/GM_HD_T.jpg "Hidden play in osu!taiko mode"
@@ -76,7 +76,7 @@
 
 ![Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)][GM]
 
-Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing _osu!_ to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
+Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing osu! to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
 
 Players can change the shortcut keys used to enable mods by clicking `Change keyboard bindings` under the Keyboard header inside the Options menu. The shortcut keys will only work while the mod selection screen is open.
 
@@ -176,8 +176,6 @@ In [osu!catch][osu!catch wikilink] mode, the BPM is lowered by the same factor a
 
 These mods introduce new elements to make the game harder and rewards the player in terms of an increase in Score Multiplier.
 
-For osu!mania, the use of _any_ difficulty increasing mods except Sudden Death/Perfect mod will result in **unranked** play.
-
 ### Hard Rock
 
 ![Hard Rock (HR) mod icon.png][HR]
@@ -256,7 +254,7 @@ In [osu!mania][osu!mania wikilink] mode, Perfect mod accepts both Rainbow 300/MA
 
 ![Double Time (DT) mod icon][DT]
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
 
 > Shortcut key: `D` (from unselected)
 
@@ -282,7 +280,7 @@ In [osu!catch][osu!catch wikilink] mode, as there is no overall difficulty to in
 
 Click on Double Time again to activate Nightcore mod.
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania; unranked).
+> Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania).
 
 > Shortcut key: `DD` (from unselected) or `Shift`+`D`
 
@@ -296,7 +294,7 @@ The multiplier stays the same, and the beatmap itself is unaffected beyond what 
 
 ![Hidden (HD) mod icon][HD]
 
-> Score Multiplier: 1.06x (osu!standard, osu!taiko, osu!catch) , 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.06x (osu!standard, osu!taiko, osu!catch) , 1.00x (osu!mania)
 
 > Shortcut key: `F`
 
@@ -342,8 +340,6 @@ Click on Fade In again to activate Hidden mod.
 
 In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again, and functions as the inverse of Fade In.
 
-The usage of Hidden mod will result in an unranked play.
-
 ![Hidden combo milestone comparison][HD2_M]
 
 #### Fade In
@@ -352,7 +348,7 @@ The usage of Hidden mod will result in an unranked play.
 
 > **osu!mania only**
 
-> Score Multiplier: 1.00x (osu!mania only; unranked)
+> Score Multiplier: 1.00x (osu!mania only)
 
 > Shortcut key: `F`
 
@@ -362,7 +358,7 @@ Fade In mod causes notes to fade in as they approach the judgement bar.
 
 The speed at which they fade is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. The fading size only stops when 500 combo milestone (covers about 70% of the playfield) has been reached. The fading will be reverted to 0 combo size (covers about 20% of the playfield) when the combo is broken.
 
-The usage of Fade In mod will result in an unranked play. If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
+If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
 
 ![Fade In combo milestone comparison][FI2]
 
@@ -370,7 +366,7 @@ The usage of Fade In mod will result in an unranked play. If the beatmap was pas
 
 ![Flashlight (FL) mod icon][FL]
 
-> Score Multiplier: 1.12x (osu!standard, osu!taiko, osu!catch), 1.00x (osu!mania; unranked)
+> Score Multiplier: 1.12x (osu!standard, osu!taiko, osu!catch), 1.00x (osu!mania)
 
 > Shortcut key: `G`
 
@@ -409,8 +405,6 @@ When paired with Hidden, fruits are visible momentarily if the catcher is _direc
 ![Flashlight mod in osu!mania mode][FL_M]
 
 In [osu!mania][osu!mania wikilink] mode, visible area is restricted to a relatively thin horizontal bar at the center of the screen with everything else obstructed.
-
-The usage of Flashlight mod will result in an unranked play.
 
 ## Special
 
@@ -734,7 +728,7 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings "Visu
 
 ![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before depleting completely.][SD_Rare]
 
-- _osu!_ used to round down Score Multiplier to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise.
+- osu! used to round down Score Multiplier to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise.
 - Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on [insane](/wiki/Difficulties/osu!/Insane) or approved beatmaps.
   - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/forum/t/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/u/64501).
 - When playing with Sudden Death mod enabled in osu!standard mode, there are _rare cases_ where the player _may_ survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and _before_ the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.

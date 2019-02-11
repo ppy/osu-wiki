@@ -11,7 +11,7 @@ How to download videos from YouTube
 
 [YouTube](https://www.youtube.com/)
 
--   It's really an awesome resource. If the song has a music video, it will be on youtube, and probably compressed at that golden point where the video looks decent but won't be a b\*\*\*\* to download.
+-   It's really an awesome resource. If the song has a music video, it will be on YouTube, and probably compressed at that golden point where the video looks decent but won't be a b\*\*\*\* to download.
 
 ### Download the video
 

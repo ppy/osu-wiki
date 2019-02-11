@@ -1,21 +1,29 @@
 # osu! wiki [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-The home of [osu!](https://osu.ppy.sh) wiki.
+<!--
+Uncomment and replace after the main wiki page gets implemented, link isn't official:
+Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
+-->
 
-## Requirements
+Home of the [osu!](https://osu.ppy.sh) wiki.
 
-1. A [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/ "GitHub Help in Signing up an account").
-2. A general understanding of the feature-branch workflow.
-3. Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown(GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub").
-4. Ability to write in English, preferably British English.
+## Contributing
 
-## Getting Started
+Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
 
-Contributions to the osu! wiki are now done through GitHub.
+## File caching
 
-A basic guide to using GitHub, specifically tailored for the osu! wiki project, is available at the [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_contribution_guide).
+### Wiki articles
 
-The article style guide, which _must_ be adhered to for all new and rewritten pages going forward, is available at the [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria).
+Articles are cached for up to five hours.
+
+### Images
+
+Images are cached for up to two hours.
+
+### News posts
+
+News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a pull request to fix it then tell Ephemeral (`ephemeralis#0001`) or Shiro (`Shiro#1584`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
 
 ## Licence
 

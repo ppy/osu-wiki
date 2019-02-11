@@ -4,9 +4,9 @@
 Beatmap Nominators
 ==================
 
-*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
+*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information)*
 
-The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums.
+The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submission/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums.
 
 Roles and Responsibilities
 --------------------------
@@ -16,12 +16,12 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals of approximately one to two months.
+With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will create a newspost for Beatmap Nominator Sign-ups in irregular intervals of approximately two months.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
-+ They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
++ They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
 + They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What Qualifies as a Mod Post
@@ -32,28 +32,34 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 + The point in time at which the Kudosu has been awarded to you mod post does not matter. The only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
 
 ### How the Required Minimum Score is Calculated
-+ This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
-+ `Kudosu Score` is determined according to the following formula:
++ This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
 
-![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Score Formula")
+![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
 
-+ `Mod Score` per month is determined according to the following formula:
++ m = Minimum expected number of individual beatmaps modded in a month
++ M = Total achieved number of individual beatmaps modded in a month
 
-![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
 
 + [This online tool](http://modscore.little.moe/) can be used to calculate mod score.
-+ In order to determine their `Required Minimum Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
++ In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
 + The overall minimum threshold is set to the following values:
-  + osu!taiko, osu!catch and osu!mania: 1050
-  + osu!: 1100
+  + osu!taiko, osu!catch and osu!mania: m = 3 and a total of 150 kudosu or more
+  + osu!: m = 4 and a total of 200 kudosu or more
 + It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
-+ The `Mod Score` and `Kudosu Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
++ The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
 + Modders that acquired enough score will be evaluated by the corresponding QAT members of the game mode they applied for, taking into account the following criteria:
   + General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   + Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 + After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
+
+Quality Assurance Helpers
+-------------------------
+
+The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who assist the Quality Assurance Team at checking every single qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428) thread. 
+
+Quality Assurance Helpers are free to choose whatever maps they like to check as long as they check at least four qualified maps per month. If they are not able to fulfill these activity standards, they will be removed and can only rejoin after a cooldown of one month. Beatmap Nominators who are not on their probationary period or in the cooldown period mentioned above may join the Quality Assurance Helpers at any time. 
 
 Team Members
 ------------
@@ -68,126 +74,105 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 |-------------------------------------------------------|--------------------------|
 | [ailv](https://osu.ppy.sh/users/6933054)              |                          |
 | [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
-| [AyanokoRin](https://osu.ppy.sh/users/5376866)        | French                   |
-| [Battle](https://osu.ppy.sh/users/4037545)            |                          |
+| [Beomsan](https://osu.ppy.sh/users/3626063)           | Korean                   |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
-| [Bubblun](https://osu.ppy.sh/users/6191653)           |                          |
-| [celerih](https://osu.ppy.sh/users/4696296)           | French                   |
-| [Cerulean Veyron](https://osu.ppy.sh/users/1886524)   | Arabic                   |
-| [Chewin](https://osu.ppy.sh/users/617323)             | Italian                  |
-| [Delis](https://osu.ppy.sh/users/1603923)             | Japanese                 |
-| [Deramok](https://osu.ppy.sh/users/1428455)           |                          |
 | [DeRandom Otaku](https://osu.ppy.sh/users/5156153)    | Urdu                     |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
-| [dsco](https://osu.ppy.sh/users/4330511)              |                          |
+| [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         | Finnish                  |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
+| [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
 | [Garden](https://osu.ppy.sh/users/2849992)            | Chinese                  |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
 | [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
-| [Halfslashed](https://osu.ppy.sh/users/4598899)       |                          |
-| [Hobbes2](https://osu.ppy.sh/users/8157492)           |                          |
-| [hypercyte](https://osu.ppy.sh/users/9155377)         | Bangla, some Arabic      |
+| [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
+| [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
 | [iYiyo](https://osu.ppy.sh/users/3919785)             | Spanish, some German     |
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
-| [Kagetsu](https://osu.ppy.sh/users/6203841)           | Spanish                  |
+| [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
-| [Karen](https://osu.ppy.sh/users/3143784)             | Chinese                  |
-| [Kibbleru](https://osu.ppy.sh/users/3193504)          |                          |
-| [Kuron-kun](https://osu.ppy.sh/users/2697284)         | Portuguese               |
-| [kwk](https://osu.ppy.sh/users/365586)                |                          |
-| [Kyuukai](https://osu.ppy.sh/users/5337374)           | French                   |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
-| [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
+| [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
 | [Mirash](https://osu.ppy.sh/users/2841009)            | Russian                  |
 | [Mordred](https://osu.ppy.sh/users/7265097)           | German                   |
+| [Myxomatosis](https://osu.ppy.sh/users/2202645)       | German                   |
 | [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
 | [Nao Tomori](https://osu.ppy.sh/users/5364763)        | French                   |
 | [Natsu](https://osu.ppy.sh/users/1953876)             | Spanish                  |
+| [NeilPerry](https://osu.ppy.sh/users/841391)          | Russian                  |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Net0](https://osu.ppy.sh/users/5099768)              | Portuguese               |
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
-| [Noffy](https://osu.ppy.sh/users/1541323)             |                          |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
-| [pinataman](https://osu.ppy.sh/users/1235485)         |                          |
-| [Plaudible](https://osu.ppy.sh/users/7149815)         |                          |
+| [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
 | [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
-| [Regraz](https://osu.ppy.sh/users/3076909)            | Chinese                  |
-| [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese, some French     |
-| [sahuang](https://osu.ppy.sh/users/5318910)           | Chinese                  |
-| [Sieg](https://osu.ppy.sh/users/1404615)              | Russian                  |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            | Some French              |
+| [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
+| [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese                  |
+| [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
 | [smallboat](https://osu.ppy.sh/users/243049)          | Chinese                  |
-| [Smokeman](https://osu.ppy.sh/users/2140676)          | German, Greek            |
-| [SnowNiNo_](https://osu.ppy.sh/users/2506267)         | Chinese                  |
-| [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
+| [Smokeman](https://osu.ppy.sh/users/2140676)          |                          |
 | [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |
-| [Strategas](https://osu.ppy.sh/users/2971837)         | Lithuanian               |
+| [Sonnyc](https://osu.ppy.sh/users/11771)              | Korean                   |
+| [Sotarks](https://osu.ppy.sh/users/4452992)           | French                   |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
 | [Trynna](https://osu.ppy.sh/users/2652951)            | Portuguese               |
 | [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
-| [Wishkey](https://osu.ppy.sh/users/1101704)           | Dutch, German            |
+| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
+| [Uta](https://osu.ppy.sh/users/9439796)               | Indonesian               |
+| [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
+| [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
+| [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
+| [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 
 ### osu!taiko
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [-Kazu-](https://osu.ppy.sh/users/920861)             | Spanish                  |
-| [Arrival](https://osu.ppy.sh/users/1694000)           | French                   |
+| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [frukoyurdakul](https://osu.ppy.sh/users/7612550)     | Turkish                  |
-| [hikikochan](https://osu.ppy.sh/users/6512678)        |                          |
-| [incandescence](https://osu.ppy.sh/users/6256027)     | Some Spanish             |
-| [Jonawaga](https://osu.ppy.sh/users/3653035)          |                          |
-| [JUDYDANNY](https://osu.ppy.sh/users/1165475)         | Japanese                 |
-| [Kin](https://osu.ppy.sh/users/480689)                | French                   |
-| [mancuso_JM_](https://osu.ppy.sh/users/521568)        | Spanish, Portuguese      |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
-| [Nwolf](https://osu.ppy.sh/users/1910766)             | German                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
-| [Skylish](https://osu.ppy.sh/users/2845958)           | Cantonese, Chinese       |
+| [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
+| [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
 
 ### osu!catch
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
-| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
+| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
-| [celerih](https://osu.ppy.sh/users/4696296)           | French                   |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [F D Flourite](https://osu.ppy.sh/users/2459589)      | Chinese                  |
 | [JeirYagtama](https://osu.ppy.sh/users/7483452)       | Filipino                 |
-| [MBomb](https://osu.ppy.sh/users/3071175)             |                          |
+| [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
 | [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            | Some French              |
-| [Sorcerer](https://osu.ppy.sh/users/1913190)          |                          |
-| [ZiRoX](https://osu.ppy.sh/users/200768)              | Spanish                  |
+| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
+| [wonjae](https://osu.ppy.sh/users/5032045)            |                          |
+| [Yumeno Himiko](https://osu.ppy.sh/users/1806962)     | Chinese                  |
+
 
 ### osu!mania
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
+| [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
+| [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |
+| [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
 | [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
-| [error_exe777](https://osu.ppy.sh/users/7975796)      |                          |
-| [Fresh Chicken](https://osu.ppy.sh/users/3984370)     | Korean, Japanese         |
-| [Garalulu](https://osu.ppy.sh/users/757783)           | Korean                   |
-| [juankristal](https://osu.ppy.sh/users/443656)        | Spanish                  |
-| [Julie](https://osu.ppy.sh/users/2420987)             | French                   |
-| [Kamikaze](https://osu.ppy.sh/users/2124783)          | Polish                   |
+| [Dellvangel](https://osu.ppy.sh/users/5186244)        | Indonesian               |
+| [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
 | [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
-| [Maxus](https://osu.ppy.sh/users/4335785)             | Indonesian               |
+| [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
 | [Sandalphon](https://osu.ppy.sh/users/2633753)        | Chinese                  |
+| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
 | [Tofu1222](https://osu.ppy.sh/users/6089608)          | Chinese                  |
-| [Weber](https://osu.ppy.sh/users/6410432)             |                          |

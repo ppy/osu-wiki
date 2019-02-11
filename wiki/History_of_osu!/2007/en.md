@@ -1,7 +1,5 @@
 # 2007
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](/users/5530) for helping in compiling the 2007/2008 content.
 
 ![](img/2007.jpg)
@@ -46,7 +44,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/combo_fire), the HP b
 
 ![](img/2007-09.jpg)
 
-2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on <http://www.bemanistyle.com> which drew quite a few interested people with previous rhythm game experience.
+2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://www.bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 
@@ -86,7 +84,7 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_01.jpg "Main Menu \(Flooded with stars\)")
 
-![](img/2007-11_02.jpg "Log in screen")
+![](img/2007-11_02.jpg "Sign-in screen")
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 

@@ -1,7 +1,5 @@
 # 2014
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 ## General
 
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)

@@ -3,7 +3,7 @@
 [NF wikilink]: /wiki/Game_Modifiers/ "more information can be found in Game Modifiers under No Fail"
 
 <!-- img -->
-[osu!stream logo]: ./img/Os-Logo.jpeg "osu!stream logo"
+[osu!stream logo]: ./img/Os-Logo.jpg "osu!stream logo"
 [Device]: ./img/Os-Devices.jpg "osu!stream in iDevice"
 [Easy mode]: ./img/Os-ModeEasy.jpg "Easy mode"
 [Stream mode]: ./img/Os-ModeStream.jpg "Stream mode"

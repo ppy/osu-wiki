@@ -41,7 +41,7 @@ Byte offsets are not included in this table due to variable length values.
 | Long | Time stamp ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
-| Long | Unknown |
+| Long | Online Score ID |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 

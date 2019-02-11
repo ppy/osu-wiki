@@ -1,7 +1,5 @@
 # 2018
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## January
 
 After a six-month long hiatus, flyte posted on the [osu!next](http://osunext.tumblr.com) blog with some teaser pictures for the next website design. He explained that the current state of the website had many UX problems, from various functionality specs to user feedback, that wasn't considered at the time of designing. Since then, he had been taking some time to redesign the website's current design from scratch.
@@ -118,7 +116,7 @@ In osu!web, thanks to nanaya, the header has been updated to match flyte's new d
 
 ---
 
-Thanks to nekodex, the osu!supporter status is now visible in the [support the game](/home/support) page and adding your discord username to your user account was implemented.
+Thanks to nekodex, the osu!supporter status is now visible in the [support the game](/home/support) page and adding your Discord username to your user account was implemented.
 
 ---
 

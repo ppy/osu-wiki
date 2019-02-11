@@ -1,6 +1,6 @@
 # Shortcut Key Reference
 
-There are many shortcuts in _osu!_ that can be utilized while in-game or while idle at any screen.
+There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
 **Note:** some of these keys can be changed in the [options](/wiki/options)!
@@ -21,7 +21,7 @@ These shortcuts work anywhere:
 - `F12`: Take a screenshot
 - `Shift` + `F12`: Take a screenshot and upload to the server for sharing
 - `Insert`: ([Boss Key](https://en.wikipedia.org/wiki/Boss_key)) Minimize the osu!client into the notification area
-- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on Twitter") (when connection error appears)
 
 ## Main Menu
 
@@ -95,7 +95,7 @@ Note: Not all of these work in the [multi](/wiki/multi) mode's song select scree
 
 ### Game Modifiers
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
 
 **Notes:**
 
@@ -148,7 +148,7 @@ _See also: [Game Modifiers](/wiki/Game_Modifiers)._
 
 ## Beatmap Editor
 
-_See also: [Beatmap Editor](/wiki/Beatmap_Editor)._
+*Main page: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
 ### General
 
@@ -188,7 +188,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Z`: Undo
 - `Ctrl` + `Y`: Redo
 - `Ctrl` + `A`: Select all notes
-- `Ctrl` + `X`: Cut slection
+- `Ctrl` + `X`: Cut selection
 - `Ctrl` + `C`: Copy selection
 - `Ctrl` + `V`: Paste selection
 - `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
@@ -242,7 +242,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively (1, 2, and 3 do not work in osu!mania edit mode)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively (1, 2, and 3 do not work in osu!mania edit mode)
 - `Shift` while placing (timeline): Ignore grid and beat (time) snapping
 - `J`: Nudge circle backwards in time
 - `K`: Nudge circle forwards in time

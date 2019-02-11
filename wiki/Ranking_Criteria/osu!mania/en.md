@@ -1,8 +1,6 @@
 osu!mania
 ===========
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Terms
@@ -30,7 +28,6 @@ Considering most keyboards use USB connections which do not allow 7 simultaneous
 
 ### Difficulty Spread
 
--   **Each beatmap must have at least 2 difficulties and one of them must be Easy/Normal. Marathon is an exemption**
 -   **Different key amounts within a mapset must be treated as different gamemodes and require a respective independent difficulty spread.** Therefore each key amount must have an independent difficulty spread. For example if you want to add a 7K difficulty to your set, you must design a whole 7K spread. If you want to add an additional 4K difficulty to your set, you must also design a whole 4K spread.
 
 ### Timing

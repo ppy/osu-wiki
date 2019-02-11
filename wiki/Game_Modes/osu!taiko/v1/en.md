@@ -34,7 +34,7 @@
 
 **This page is based on the old version of osu!taiko game mode using ScoreV1 system.**
 
-**[Click to return to current osu!taiko game mode][osu!taiko main wikilink]**
+*For the current osu!taiko game mode, see: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![Gameplay of osu!taiko][osu!taiko Interface image]
 
@@ -329,6 +329,6 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 
 _osu!taiko logo in deprecated Special Mode_
 
-- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an _osu!_ updater when _osu!_ need to update) under `Skin` tab.
+- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under `Skin` tab.
 - The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
 - The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")

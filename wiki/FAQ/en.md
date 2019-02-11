@@ -30,7 +30,7 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium by deadbeat"
+[Skin Compendium link]: https://osu.ppy.sh/forum/t/686664/ "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
 [osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
@@ -205,7 +205,7 @@ Spinners will follow the [Spun Out][Spun Out wikilink] mod speed.
 _Image showcasing the Mode toolbox in Song Selection (Solo)_
 
 Click on the `Mode` button to **open up a list of gameplay modes available on osu!**.
-Click on the desired gameplay mode, and _osu!_ will switch to that gameplay mode style, along with relevant leaderboard change.
+Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change.
 Alternatively, press `Ctrl` key and `1` (![osu! icon][osu! icon link] _[osu!standard][osu! wikilink])_ / `2` ( ![osu!taiko icon][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_) / `3` (![osu!catch icon][osu!catch icon link] _[osu!catch][osu!catch wikilink]_) / `4` (![osu!mania icon][osu!mania icon link] _[osu!mania][osu!mania wikilink]_) key on the keyboard to quickly switch to the desired gameplay mode.
 
 ### What is osu!taiko?
@@ -217,7 +217,7 @@ _In-game interface of osu!taiko_
 
 _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ is a taiko drum rhythm game made by _Namco_ (now Namco Bandai).
 The game involves the simulation of playing the taiko drum to the beat of the music.
-In _osu!_, beatmaps can be played in the styling of _Taiko no Tatsujin_ through the use of osu!taiko game mode.
+In osu!, beatmaps can be played in the styling of _Taiko no Tatsujin_ through the use of osu!taiko game mode.
 
 #### Basic explanation
 ##### Playfield
@@ -311,7 +311,7 @@ _Full explanation: [osu!catch][osu!catch wikilink]_
 
 _In-game interface of osu!catch_
 
-osu!catch (formerly known as _Catch the Beat_) is the second game mode added to _osu!_, after the osu!taiko game mode.
+osu!catch (formerly known as _Catch the Beat_) is the second game mode added to osu!, after the osu!taiko game mode.
 
 Instead of tapping circles to the beat, move the catcher at the bottom of the screen while the fruits fall from above.
 
@@ -389,7 +389,7 @@ _Full explanation: [osu!mania][osu!mania wikilink]_
 
 _In-game interface of osu!mania_
 
-osu!mania is the third game mode added to _osu!_, after osu!taiko and osu!catch game modes.
+osu!mania is the third game mode added to osu!, after osu!taiko and osu!catch game modes.
 
 The mode has been widely used in almost all of the major rhythm games.
 It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
@@ -540,7 +540,7 @@ D    | Anything else.
 ## Performance Points
 _Full explanation: [Performance Points][Performance Points wikilink]_
 
-Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like _osu!_.
+Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!.
 It aims to shift the focus from being on the amount of time played to the actual skill of the player.
 Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode.
 Based on this difficulty alone, each of the scores will be rated and assigned a pp value.
@@ -565,7 +565,7 @@ Just remember to login to the website with an _osu!account_ beforehand to allow 
 **No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
 
 #### The maps are too hard! Where can I find some easier maps?
-For _osu!_, **Pokebis** has compiled a set of beatmaps suitable for beginners to play.
+For osu!, **Pokebis** has compiled a set of beatmaps suitable for beginners to play.
 It can be found here: <https://osu.ppy.sh/forum/t/5456>
 
 For osu!taiko, **OnosakiHito** has compiled a set of beatmaps for beginners to learn osu!taiko.
@@ -595,7 +595,7 @@ Level will be based on total score accumulated when online with account regardle
 [Formula given here][Score#Level wikilink].
 
 #### Why is my profile stats different ingame?
-Keep in mind that _osu!_ has four game modes so you might be looking at the wrong game mode.
+Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
 ![Profile_Mode_Buttons][Profile_Mode_Buttons image]
 
@@ -621,13 +621,13 @@ Due to the non-standard replay screen, use the `Esc` key to return to Song Selec
 Retrying the play (as in, actual play) of the beatmap in this state is not possible.
 It currently works in Solo mode only when given the game over screen.
 **This replay will not be saved nor allowed to be exported.**
-To record the failed replay, please use external third-party software for now since _osu!_ has yet to have native export support for failed replay.
+To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
 #### Does osu! has keyboard shortcuts?
 _Full list: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
 
-Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute _osu!_ into the _Windows_ sidebar.
-Find the _osu!logo_ in the _Windows_ sidebar, and click on it to return _osu!_ to the state before pressing the key.
+Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the _Windows_ sidebar.
+Find the _osu!logo_ in the _Windows_ sidebar, and click on it to return osu! to the state before pressing the key.
 It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under _Keyboard_ section), located at the end of the _Universal_ section.
 
 Another interesting shortcut is `Alt`+`Enter`.
@@ -635,16 +635,16 @@ The shortcut toggles the fullscreen mode button in `Options`, but does not work 
 
 #### What should I backup when fresh installing osu! on a new device?
 The whole `osu!` folder, including hidden files, is the short answer.
-On the new device after running `osu!install.exe` and completing _osu!_ installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder.
+On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder.
 If it ask for merging `.dll` or `.exe` files, ignore it.
 Allow merging for everything else, including `.cfg` and `.db` files.
 
 #### Can I use osu! on my mobile device?
 _Full list: [Game Modes under External Ports section][Game Modes#External Ports wikilink]_
 
-The current _osu!_ does not support any mobile platform.
+The current osu! does not support any mobile platform.
 
-However, there are other unofficial ports of _osu!_ and a single official spin-off game for iOS which uses their own leaderboard and account system.
+However, there are other unofficial ports of osu! and a single official spin-off game for iOS which uses their own leaderboard and account system.
 
 A few of the notable ports are:-
 
@@ -699,7 +699,7 @@ The button only works if a folder named `taiko` (capitalisation does not matter)
 When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements.
 If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
 
-**Ancient trivia note:** `taiko` folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an _osu!_ updater when _osu!_ need to update) under Skin tab.
+**Ancient trivia note:** `taiko` folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab.
 As the button does not check whether the folder contains elements from _LuigiHann's skin_, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
 
 ### Beatmapping
@@ -710,9 +710,9 @@ _For unranked beatmaps only._
 
 Please follow these steps:-
 
-1. Leave the editor (or close _osu!_) to make sure the changes apply properly
+1. Leave the editor (or close osu!) to make sure the changes apply properly
 2. Check the name of the beatmap's folder
-   - If it starts with numbers, remove them. Otherwise, _osu!_ will treat it as BeatmapSetID
+   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
 3. Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
 4. Open all the `.osu` files with a text editor (_Notepad_ will work)
    - Set your name as creator (and replace it in the file name as well)
