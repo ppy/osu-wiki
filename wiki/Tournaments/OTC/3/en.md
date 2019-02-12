@@ -27,8 +27,6 @@ The **osu! Technical Championship #3** (***OTC #3***) is a double-elimination on
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu! Technical Championship #3 winners. It is possible that these items change with every installment of the osu! Technical Championship.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
@@ -93,27 +91,44 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 -----------------------
 
-## Match Schedules: Semifinals
+## Match Schedules: Finals
 
-### Friday, 8 February 2019
-
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #55 | Crystal | ![][flag_CN] | ![][flag_GB] | Bubbleman | **10:00** |
-
-### Saturday, 9 February 2019
+### Saturday, 16 February 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #50 | neko ds | ![][flag_RU] | ![][flag_RU] | Okinotori | **16:00** |
-| #49 | Teppi | ![][flag_AT] | ![][flag_UA] | Ayla | **17:00** |
-| #52 | \_demo | ![][flag_PL] | ![][flag_US] | Jace | **18:00** |
-| #51 | Apraxia | ![][flag_US] | ![][flag_RO] | badeu | **19:00** |
-| #56 | Woey | ![][flag_US] | ![][flag_IL] | Xilver | **20:00** |
+| #57 | Crystal | ![][flag_CN] | ![][flag_RO] | badeu | **15:00** |
+| #60 | Bubbleman | ![][flag_GB] | ![][flag_IL] | Xilver15 | **16:00** |
+| #58 | Woey | ![][flag_US] | ![][flag_AT] | Teppi | **18:00** |
 
 -----------------------
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip)**
+
+- NoMod
+  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](/beatmapsets/616696#osu/1300513)
+  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](/beatmapsets/788448#osu/1654883)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](/beatmapsets/848259#osu/1773876)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](/beatmapsets/519256#osu/1103732)
+  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](/beatmapsets/704541#osu/1490377)
+- Hidden
+  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](/beatmapsets/806859#osu/1693575)
+  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](/beatmapsets/807310#osu/1694395)
+  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](/beatmapsets/687511#osu/1579923)
+- HardRock
+  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](/beatmapsets/559140#osu/1208032)
+  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](/beatmapsets/611867#osu/1291481)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](/beatmapsets/460516#osu/986233)
+- DoubleTime
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](/beatmapsets/602367#osu/1580728)
+  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](/beatmapsets/63434#osu/208935)
+  - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
+- Tiebreaker
+  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](/beatmapsets/705788#osu/1492654)**
 
 ### Semifinals
 
@@ -163,7 +178,7 @@ The osu! Technical Championship #3 is run by various osu! community members.
   - [Ocelot - KAEDE (Kawashiro) \[Kawa's Extra\]](/beatmapsets/660630#osu/1418838)
   - [EYE\_XY feat. Yoneko - Knight of Firmament (LMT) \[LMT's Insane\]](/beatmapsets/317749#osu/1622359)
 - Tiebreaker
-  - [AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](/beatmapsets/530818#osu/1125109)
+  - **[AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](/beatmapsets/530818#osu/1125109)**
 
 ### Round of 32 / Round of 16
 
@@ -215,29 +230,45 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 ## Match Results
 
+### Semifinals
+
+| Saturday, 2019-02-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crystal ![][flag_CN] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](/community/matches/49436594) |
+| Apraxia ![][flag_US] | 1 | **6** | ![][flag_RO] **badeu** | [#1](/community/matches/49443175) |
+| Woey ![][flag_US] | 2 | **6** | ![][flag_IL] **Xilver15** | [#1](/community/matches/49451271) |
+
+| Sunday, 2019-02-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| neko ds ![][flag_RU] | 2 | **6** | ![][flag_RU] **Okinotori** | [#1](/community/matches/49469206) |
+| **Teppi** ![][flag_AT] | **6** | 3 | ![][flag_UA] Ayla | [#1](/community/matches/49469544) |
+| **\_demo** ![][flag_PL] | **6** | 0 | ![][flag_US] Jace | -win by default- |
+| Okinotori ![][flag_RU] | 5 | **6** | ![][flag_AT] **Teppi** | [#1](/community/matches/49474043) |
+| \_demo ![][flag_PL] | 1 | **6** | ![][flag_RO] **badeu** | [#1](/community/matches/49474070) |
+
 ### Quarterfinals
 
 | Saturday, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **ftg** ![][flag_KR] | **5** | 2 | ![][flag_US] WillCookie | [#1](https://osu.ppy.sh/community/matches/49296446) |
-| Apraxia ![][flag_US] | 1 | **5** | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/49299182) |
-| **Crystal** ![][flag_CN] | **5** | 1 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49306751) |
+| **ftg** ![][flag_KR] | **5** | 2 | ![][flag_US] WillCookie | [#1](/community/matches/49296446) |
+| Apraxia ![][flag_US] | 1 | **5** | ![][flag_US] Woey | [#1](/community/matches/49299182) |
+| **Crystal** ![][flag_CN] | **5** | 1 | ![][flag_AT] Teppi | [#1](/community/matches/49306751) |
 | Dustice ![][flag_DE] | 0 | **5** | ![][flag_MN] seegii | -win by default- |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_RU] neko ds | [#1](https://osu.ppy.sh/community/matches/49309319) |
-| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/49310921) |
-| **Okinotori** ![][flag_RU] | **5** | 3 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/49312981) |
-| **Ayla** ![][flag_UA] | **5** | 3 | ![][flag_PL] Marek Marucha | [#1](https://osu.ppy.sh/community/matches/49312624) |
-| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/49314628) |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_RU] neko ds | [#1](/community/matches/49309319) |
+| **Xilver15** ![][flag_IL] | **5** | 0 | ![][flag_PL] \_demo | [#1](/community/matches/49310921) |
+| **Okinotori** ![][flag_RU] | **5** | 3 | ![][flag_FR] Musty | [#1](/community/matches/49312981) |
+| **Ayla** ![][flag_UA] | **5** | 3 | ![][flag_PL] Marek Marucha | [#1](/community/matches/49312624) |
+| **badeu** ![][flag_RO] | **5** | 0 | ![][flag_PL] MrBooM | [#1](/community/matches/49314628) |
 | **Jace** ![][flag_US] | **5** | 0 | ![][flag_BR] Mystia | -win by default- |
-| Cappy ![][flag_US] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/49321691) |
+| Cappy ![][flag_US] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](/community/matches/49321691) |
 
 | Sunday, 2019-02-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **badeu** ![][flag_RO] | **5** | 1 | ![][flag_KR] ftg | [#1](https://osu.ppy.sh/community/matches/49334885) |
-| seegii ![][flag_MN] | 2 | **5** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49336141) |
-| **Knalli** ![][flag_DE] | **5** | 1 | ![][flag_BR] My Angelsim | [#1](https://osu.ppy.sh/community/matches/49345151) |
+| **badeu** ![][flag_RO] | **5** | 1 | ![][flag_KR] ftg | [#1](/community/matches/49334885) |
+| seegii ![][flag_MN] | 2 | **5** | ![][flag_RU] **Okinotori** | [#1](/community/matches/49336141) |
+| **Knalli** ![][flag_DE] | **5** | 1 | ![][flag_BR] My Angelsim | [#1](/community/matches/49345151) |
 | Tekkito ![][flag_US] | 0 | **5** | ![][flag_UA] **Ayla** | -win by default- |
-| Knalli ![][flag_DE] | 3 | **5** | ![][flag_US] Jace | [#1](https://osu.ppy.sh/community/matches/49347189) |
+| Knalli ![][flag_DE] | 3 | **5** | ![][flag_US] Jace | [#1](/community/matches/49347189) |
 
 ### Round of 32 / Round of 16
 
