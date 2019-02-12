@@ -609,7 +609,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
   - [Neko Kanimaru - Hidamari no Machi-A! (LuxAzure) \[(LN)other\]](/beatmapsets/558401#mania/1930467)
   - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](/beatmapsets/852916#mania/1782630)
   - [Shadow of Intent - The Return (Noxus) \[Challenge\]](/beatmapsets/727546#mania/1536011)
-  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Evening) \[onslaught<short>\]](/beatmapsets/791153#mania/1669389)
+  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Evening) \[onslaught\<short\>\]](/beatmapsets/791153#mania/1669389)
   - [Camellia - In Black & White (Daikyi) \[White\]](/beatmapsets/581300#mania/1230512)
   - [Silvia - Vertex BETA (riunosk) \[BETA // 300.15\]](/beatmapsets/776279#mania/1631515)
   - [Camellia - Poison Mushroom (Curiossity) \[CAUSTIC\]](/beatmapsets/694975#mania/1801180)
