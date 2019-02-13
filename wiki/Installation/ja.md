@@ -25,7 +25,7 @@
 
 *See also: [譜面](/wiki/Beatmaps) and [譜面セット](/wiki/Beatmapsets)*
 
-譜面を追加するにはWebサイトから追加する方法と、osu!direct（[osu!supporter] (/wiki/osu!supporter)になる必要があります）からダウンロードする2つの方法があります。
+譜面を追加するにはosu!サイトから追加する方法と、osu!direct（[osu!supporter](/wiki/osu!supporter)になる必要があります）からダウンロードする2つの方法があります。
 
 ### Webサイト
 
