@@ -54,6 +54,8 @@ When decompressed, the text contains data separated by commas. Each piece denote
 | y | Float | y-coordinate of the cursor from 0 - 384 |
 | z | Integer | Bitwise combination of keys/mouse buttons pressed (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 is always used with M1; K2 is always used with M2: 1+4=5; 2+8=10) |
 
+On replays set on version `20130319` or later, the 32-bit integer RNG seed used for the score will be encoded into an additional replay frame at the end of the LZMA stream, under the format `-12345|0|0|seed`.
+
 Mods
 ----
 
