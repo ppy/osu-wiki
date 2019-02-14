@@ -87,6 +87,10 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
+![MWC 7K 2019 bracket](img/bracket.png)
+
+------------------------------------------------------------------------
+
 ## Match Schedule: Round of 16
 
 ### Saturday, 16. February 2019
@@ -96,7 +100,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
 | Thailand | ![][flag_TH] | ![][flag_DE] | Germany | **12:00 UTC** | 19:00 UTC+07 | 13:00 UTC+01 |
 | Indonesia | ![][flag_ID] | ![][flag_NL] | Netherlands | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **18:00 UTC** | 19:00 UTC+01 | 16:00 UTC-02 |
+| Macau | ![][flag_MO] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 |
 | United States | ![][flag_US] | ![][flag_CL] | Chile | **19:00 UTC** | 15:00 UTC-04 | 16:00 UTC-03 |
 
 ### Sunday, 17. February 2019
@@ -105,7 +109,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | France | ![][flag_FR] | ![][flag_KR] | South Korea | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
 | Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
-| Macau | ![][flag_MO] | ![][flag_CN] | China | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **15:00 UTC** | 16:00 UTC+01 | 13:00 UTC-02 |
 
 ## Mappools
 
