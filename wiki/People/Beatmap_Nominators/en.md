@@ -92,7 +92,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
 | [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
 | [Hanasaka Yui](https://osu.ppy.sh/users/6443117) |  |
-| [Hinsvar](https://osu.ppy.sh/users/1249323) |  |
+| [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
 | [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
 | [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
