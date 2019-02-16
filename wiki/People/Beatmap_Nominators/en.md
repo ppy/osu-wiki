@@ -81,7 +81,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Beomsan](https://osu.ppy.sh/users/3626063)           | Korean                   |
 | [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
-| [Cris-](https://osu.ppy.sh/users/6175280) |  |
+| [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | [Crissa](https://osu.ppy.sh/users/5405836) |  |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         | Finnish                  |
