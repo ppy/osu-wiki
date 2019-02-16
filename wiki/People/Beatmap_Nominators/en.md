@@ -108,7 +108,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
 | [NeilPerry](https://osu.ppy.sh/users/841391)          | Russian                  |
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
-| [NEVlR](https://osu.ppy.sh/users/8339126) |  |
+| [NEVlR](https://osu.ppy.sh/users/8339126) | French |
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
 | [Nikakis](https://osu.ppy.sh/users/4351739) |  |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
@@ -137,7 +137,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
 | [Yugu](https://osu.ppy.sh/users/3161834) |  |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
-| [Zelq](https://osu.ppy.sh/users/8953955) |  |
+| [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
 ### osu!taiko
 
