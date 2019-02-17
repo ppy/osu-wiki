@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2019 Logo](img/logo.png)
 
-The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](/users/7627013) and ![][flag_TH] [Seaweed](/users/5151214). osu! TV Size Tournament features variety of TV sized (usually 90 seconds) maps in its mappools. It is the third installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](/users/7627013) and ![][flag_TH] [Seaweed](/users/5151214). It features a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It is the third installment of the osu! TV Size Tournament.
 
 ## Tournament Schedule
 
@@ -136,17 +136,18 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### Scheduling
 
-1. **All times in the match schedules are in UTC**.
-2. Scheduling will be based on team timezones to avoid as many no-shows as possible.
-3. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have either team captain submit proof of agreement in the Discord server's `#reschedule` text channel by **Thursday 23:59 UTC**.
-4. During the group stage, a 3v3 match could be arranged if some teammates cannot make it. The other team must be notified and agree to it too.
+*All times in the match schedules are in UTC.*
+
+1. Scheduling will be based on team timezones to avoid as many no-shows as possible.
+2. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have either team captain submit proof of agreement in the Discord server's `#reschedule` text channel by **Thursday 23:59 UTC.**
+3. During the group stage, a 3v3 match could be arranged if some teammates cannot make it. The other team must be notified and agree to it too.
    - **Remember**: 4v4s must be played in final stages.
-5. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match.
+4. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match.
    - Failure to do so will result in a penalty and teams may be exempt from future iterations or tournaments hosted by ![][flag_TH] [Seaweed](/users/5151214) or ![][flag_TH] [Trigonoculus](/users/7627013).
 
 ### Match Proceedings
 
-- Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect **will result in penalties**.
+- Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect **will result in penalties.**
 
 1. At the time of the match, referees will invite the captain into the lobby. If for any reason the team captain cannot make it to a match, please have a team member inform a referee before the match starts.
 2. If a team is not present for the match 10 minutes after the scheduled time, that team will forfeit the match. If neither team makes it, `!roll` by the referee will determine who wins or loses.
@@ -155,7 +156,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
      - **7 minutes late** - Higher `!roll` given to the present team.
      - **10 minutes late** - Late team forfeits.
 3. At the start of the match, both captains will `!roll`. The higher `!roll` gets first ban and second pick. Warmups may either be chosen by `!roll` or another method decided in the lobby.
-   - There will be no warmups in group stage. Warmups in final stages are strictly limited to **2 minutes maximum drain time**.
+   - There will be no warmups in group stage. Warmups in final stages are strictly limited to **2 minutes maximum drain time.**
 4. 1 ban per team up until Round of 16, 2 bans from Quarterfinals onwards
 5. Teams may substitute players in and out of the lobby without limit.
 6. Mods that are allowed in FreeMod: Hidden, Hardrock, Flashlight and Easy.
@@ -166,7 +167,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### Pick / Ban Timers
 
-- **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise**.
+- **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise.**
 - Timers are put in place to prevent players from swapping out and playing the picked map just before rejoining.
   - Picks and bans are limited to **1 minute** per pick/ban.
   - Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
