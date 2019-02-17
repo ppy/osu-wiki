@@ -125,6 +125,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yugu](https://osu.ppy.sh/users/3161834) | Chino, Japonés |
+| [Yuii-](https://osu.ppy.sh/users/2935923) | Español, Portugués |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | Alemán                   |
 | [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
 
