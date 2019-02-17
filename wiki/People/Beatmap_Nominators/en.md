@@ -135,6 +135,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
+| [Yuii-](https://osu.ppy.sh/users/2935923) | Spanish, Portuguese |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 | [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
