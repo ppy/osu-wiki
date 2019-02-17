@@ -6,3 +6,4 @@ To help you get started on the right track, check out the following resources to
 
 - The [Getting Started Guide](https://osu.ppy.sh/help/wiki/osu!wiki_contribution_guide) _(New to the GitHub workflow? You should read this first)_.
 
+Update
