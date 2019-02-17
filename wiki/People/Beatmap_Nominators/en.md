@@ -99,7 +99,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
-| [Krfawy](https://osu.ppy.sh/users/1478292) |  |
+| [Krfawy](https://osu.ppy.sh/users/1478292) | Polish |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
