@@ -107,7 +107,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
-| [Krfawy](https://osu.ppy.sh/users/1478292) |  |
+| [Krfawy](https://osu.ppy.sh/users/1478292) | Polish |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
@@ -170,13 +170,13 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 
 | Nama                                                  | Tambahan Bahasa     |
 |-------------------------------------------------------|--------------------------|
+| [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
 | [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
 | [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | [IDu5t](https://osu.ppy.sh/users/6053071) | German |
-| [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
 | [MBomb](https://osu.ppy.sh/users/3071175) |  |
 | [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
 | [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
@@ -200,4 +200,3 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
