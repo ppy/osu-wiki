@@ -104,6 +104,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2018-02-17 | 2018-04-15 | - | - | - |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
 
