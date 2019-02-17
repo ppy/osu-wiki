@@ -110,7 +110,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
 | [NEVlR](https://osu.ppy.sh/users/8339126) | French |
 | [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
-| [Nikakis](https://osu.ppy.sh/users/4351739) |  |
+| [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
 | [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
 | [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
@@ -135,7 +135,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
 | [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
-| [Yugu](https://osu.ppy.sh/users/3161834) |  |
+| [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 | [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
@@ -155,7 +155,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
 | [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
-| [Tyistiana](https://osu.ppy.sh/users/1421452) |  |
+| [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
 | [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
 
