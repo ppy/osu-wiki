@@ -127,7 +127,6 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 | [Venix](https://osu.ppy.sh/users/5999631) | Polish |
 | [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
 | [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
-| [Yauxo](https://osu.ppy.sh/users/898306)              | German                   |
 | [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
 | [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
